@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament & Bodenplatte",
+  "subtitle": "Bautüte 0: Das Steinbett unter den Uffizien und die Platte auf Y 65, Höhe des Platzes",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament aus Bruchstein",
+      "description": "Wo das Gelände unter Y 64 liegt, vor allem am Südende zum Arno und am Westrand, füllst du den Grundriss mit Tuffstein auf. Das Fundament reicht von der Geländeoberkante bis Y 64 und ist höchstens fünf Lagen hoch. Wo das Gelände höher liegt, baust du nichts: Dort bleibt der Boden einfach stehen.",
+      "tip": "Arbeite dich vom tiefsten Punkt zum höchsten vor. Dann siehst du sofort, wo schon Gelände ist.",
+      "caution": "Das Fundament endet bei Y 64. Y 65 gehört der Bodenplatte, sonst stimmt die Schwelle des Portikus nicht.",
+      "fact": "Die Uffizien stehen am Ufer des Arno. Der Boden fällt von der Nordseite zum Fluss um ein bis zwei Meter ab, das Haus gleicht das mit seinem Sockel aus."
+    },
+    "bodenplatte": {
+      "title": "Bodenplatte auf Y 65",
+      "description": "Du legst eine Lage über den ganzen Grundriss. Vor den beiden langen Flügeln und vor der Serliana, auf den ersten zehn Blöcken Tiefe, wählst du polierten Tuffstein als Pflaster der Säulenhallen. Überall sonst verwendest du glatten Stein.",
+      "tip": "Zeichne die Kante der Säulenhalle zuerst: zehn Blöcke von der Fassade nach innen. Dann hast du die Grenze zwischen Pflaster und glattem Stein.",
+      "caution": "Der Platz selbst bleibt frei. Die Platte endet an der Fassade, nicht davor.",
+      "fact": "Der Platz zwischen den Flügeln ist nach den Messdaten der Karte nur etwa 13 Meter breit und rund 140 Meter lang. Er wirkt wie eine Straße, die nur nach einer Seite zum Arno geöffnet ist."
+    }
+  }
+}

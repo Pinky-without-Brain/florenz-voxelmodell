@@ -1,0 +1,43 @@
+{
+  "module": 5,
+  "title": "Rückseiten & Nebenbauten",
+  "subtitle": "Bautüte 5: Die Außenwände zu den Gassen, die Eckquader und der Anschluss an die Loggia dei Lanzi",
+  "icon": "🧱",
+  "parts": {
+    "rueckseiten_sockel": {
+      "title": "Sockel der Rückseiten",
+      "description": "Entlang aller Außenkanten, die nicht zum Platz oder zum Arno zeigen, mauerst du den Sockel aus poliertem Andesit, 4 Blöcke dick, von Lage 1 bis 8.",
+      "tip": "Gehe außen um das ganze Gebäude herum. Die Kanten der Gassen sind kurz und knicken oft ab.",
+      "caution": "Die Dicke gilt in Blöcken von der Außenkante nach innen, nicht in Metern.",
+      "fact": "Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt gebaut, nicht gezeigt."
+    },
+    "rueckseiten_wand": {
+      "title": "Wand der Rückseiten mit Fenstern und Eckquadern",
+      "description": "Über dem Sockel mauerst du die Wand aus Sandputz, 4 Blöcke dick: beim Nebenbau bis Lage 44, bei den Flügelrückseiten bis Lage 49. Fenster, 3 breit und 5 hoch, folgen im Abstand von 8 Blöcken in den Lagen 10 bis 14, 22 bis 26 und 38 bis 42. An den Hausecken setzt du Eckquader, 3 mal 3, abwechselnd Läufer und Binder.",
+      "tip": "Teile jede Kante gleichmäßig auf, dann sitzen die Fenster mittig. Die Ecken liegen vor den Fenstern.",
+      "caution": "Das Glas steht in der zweiten Wandzelle, der Rahmen in der äußersten.",
+      "fact": "Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes."
+    },
+    "rueckseiten_gesims": {
+      "title": "Gesims der Rückseiten",
+      "description": "Du schließt die Rückseiten mit einem Gesims aus Pietra serena ab, auf der äußersten Zellenreihe: beim Nebenbau auf Lage 44, bei den Flügeln auf Lage 50 und 51.",
+      "tip": "Nur die äußerste Reihe wird Gesims, der Rest bleibt Wand.",
+      "caution": "Das Gesims springt hier nicht vor. Der Luftraum bleibt dem Kranzgesims am Platz vorbehalten.",
+      "fact": "Das Gesims fasst Dach und Wand zusammen."
+    },
+    "loggia_anschluss": {
+      "title": "Anschluss an die Loggia dei Lanzi",
+      "description": "Am Nordende des Westflügels mauerst du die Außenwand entlang der Kante zur Loggia dei Lanzi (3 Kanten, 4 Blöcke dick, Lage 1 bis 51). Sie steht als Doppelwand direkt neben der Rückwand der Loggia.",
+      "tip": "Bau die Wand ohne Fenster, sie liegt an der Nachbarwand.",
+      "caution": "Die Loggia gehört zu einem anderen Projekt. Baue nur auf deiner Seite.",
+      "fact": "Die Loggia dei Lanzi und die Uffizien stehen Wand an Wand. Die Uffizien ragen mit 25,5 Metern deutlich höher auf."
+    },
+    "ostnord_front": {
+      "title": "Nordfront des Ostflügels mit Korridoröffnung",
+      "description": "Die Nordseite des Ostflügels (4 Kanten, Lage 1 bis 51) bekommt eine Wand mit Fenstern im 7er-Raster. Auf der Kante zur Via della Ninna sparst du eine Öffnung aus: 7 Blöcke breit, auf Lage 37 bis 43 (Y 102 bis 108). Hier endet die Brücke vom Palazzo Vecchio.",
+      "tip": "Miss die Öffnung auf der Kante von der Westecke aus: 3,35 bis 10,35 Blöcke.",
+      "caution": "Der Boden der Öffnung ist die Oberkante der Decke auf Y 101. Lass die Zellen darunter voll.",
+      "fact": "Der Korridor verband seit 1565 den Palazzo Vecchio mit den Uffizien und weiter mit dem Palazzo Pitti."
+    }
+  }
+}

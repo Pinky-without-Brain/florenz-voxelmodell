@@ -1,0 +1,15 @@
+{
+  "module": 9,
+  "title": "Statuen in den Nischen",
+  "subtitle": "Bautüte 9 (optional): 22 Standbilder in den Pfeilernischen der Piazzale-Fassaden",
+  "icon": "🗿",
+  "parts": {
+    "statuen": {
+      "title": "Standbilder (vereinfachte Blockfigur, nicht nach Vorbild)",
+      "description": "In jede der 22 Pfeilernischen stellst du eine Figur aus weißem Quarz: ein Fuß (2 mal 1 mal 1), ein Körper (2 mal 1 mal 3) und ein Kopf (1 Block), zusammen 5 Blöcke hoch. Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Alle 22 Figuren sind gleich. Baue eine und kopiere sie.",
+      "caution": "Die Figuren stellen keine bestimmte Person dar. Die echten Standbilder zeigen berühmte Toskaner und stammen großteils aus dem 19. Jahrhundert.",
+      "fact": "Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, in der Regel aus dem 19. Jahrhundert."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "module": 4,
+  "title": "Südbau mit Serliana",
+  "subtitle": "Bautüte 4: Der Riegel am Arno mit der Serliana, dem Durchgang und der Dachloggia",
+  "icon": "🏰",
+  "parts": {
+    "suedbau_waende": {
+      "title": "Wände des Südbaus",
+      "description": "Du mauerst die Außenwand des Südbaus, 4 Blöcke dick, von Lage 1 bis 51. Das Erdgeschoss zum Arno ist geschlossen und hat drei Türen (3 mal 8) bei u = −10, 20 und 50. Mezzanin und Piano nobile haben Fenster im Abstand von 7 Blöcken, dazu Gurtgesimse und das Kranzgesims.",
+      "tip": "Nimm die Fenster der Flügel als Muster. Die Abstände sind aber 7 statt 24.",
+      "caution": "Die mittlere Tür liegt neben dem Durchgang zum Arno. Lass genug Wand zwischen beiden.",
+      "fact": "Die Südfront zum Arno ist die einzige Seite, die keine Säulenhalle hat."
+    },
+    "serliana": {
+      "title": "Serliana an der Platzseite",
+      "description": "Am Südende des Platzes schließt eine Serliana den Hof ab: 28 Blöcke breit, 3 tief, 20 hoch. Sie besteht aus Pfeiler (2), Seitenöffnung (4), Säule (2), Mittelbogen (12), Säule (2), Seitenöffnung (4) und Pfeiler (2). Der Mittelbogen ist ein Rundbogen mit Kämpfer auf Lage 12 und Scheitel auf Lage 18.",
+      "tip": "Baue erst die Pfeiler und Säulen bis Lage 12, dann das Gebälk, dann den Bogen in den Block. Der Bogen hat 12 Blöcke Spannweite, also eine Spiegelachse zwischen zwei Blöcken.",
+      "caution": "Hinter den Seitenöffnungen liegen Nischen mit einer Rückwand bei w = 282. Vergiss sie nicht.",
+      "fact": "Die Serliana, auch venezianisches Fenster genannt, rahmt den Blick vom Platz zum Arno."
+    },
+    "durchgang_arno": {
+      "title": "Durchgang zum Arno",
+      "description": "Hinter dem Mittelbogen führt ein tonnengewölbter Gang 12 Blöcke breit und 19 lang zum Fluss. Die Tonne hat Kämpfer auf Lage 12, Scheitel auf Lage 18 und eine Dicke von 2 Blöcken. Seitenwände aus Sandputz, je 4 Blöcke dick, tragen sie.",
+      "tip": "Wölbe die Tonne Lage für Lage, die Mitte zuletzt. Der Bogen am Ausgang hat dasselbe Profil.",
+      "caution": "Der Gang bleibt innen ganz frei. Die Decken des Südbaus lassen ihn aus.",
+      "fact": "Der Durchgang ist der Weg vom Platz zum Ufer des Arno. Heute sieht man von der Serliana den Fluss und die Hügel dahinter."
+    },
+    "verone_arno": {
+      "title": "Dachloggia zum Arno",
+      "description": "Auch an der Südfront verläuft die Dachloggia (Lage 37 bis 49) mit Pfeilern, Säulen und Kapitellen wie in Modul 3. Statt der Verglasung sitzen hier große Fenster, 5 breit und 9 hoch (Lage 38 bis 46).",
+      "tip": "Richte die Fenster nach den Pfeilern der Flügel aus.",
+      "caution": "Die Fenster sind größer als in der Loggia der Flügel. Rechne neu.",
+      "fact": "Von hier blickt man auf den Arno und den Ponte Vecchio."
+    }
+  }
+}

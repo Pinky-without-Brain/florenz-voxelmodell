@@ -1,0 +1,43 @@
+{
+  "module": 6,
+  "title": "Dächer & Tribuna",
+  "subtitle": "Bautüte 6: Die Walmdächer der Flügel und des Nebenbaus und die Tribuna mit Kuppel und Laterne",
+  "icon": "🏠",
+  "parts": {
+    "dach_nebenbau": {
+      "title": "Dach des Nebenbaus",
+      "description": "Der Nebenbau trägt ein flaches Walmdach aus Terrakotta, 2 Lagen dick. Es beginnt auf Lage 45 an der Traufe und steigt mit 0,4 Blöcken je Block nach innen an, höchstens um 8 Blöcke.",
+      "tip": "Rechne den Abstand zum Rand ab. Alle 5 Blöcke steigt das Dach um 2.",
+      "caution": "Wo der Nebenbau an einen Flügel stößt, füllt das Dach die Fuge bis zur Traufe des Flügels.",
+      "fact": "Dachziegel aus Terrakotta prägen das Stadtbild von Florenz."
+    },
+    "dach_fluegel": {
+      "title": "Dach der Flügel und des Südbaus",
+      "description": "Die Flügel und der Südbau erhalten ein flaches Walmdach, 2 Lagen dick, ab Lage 52 über dem Kranzgesims, mit einem Anstieg von 0,4 je Block und höchstens 6 Blöcken. Das Oktogon der Tribuna bleibt frei.",
+      "tip": "Das Dach steigt zur Mitte. Lass die Fläche um das Oktogon aus.",
+      "caution": "Setze das Dach erst, wenn das Kranzgesims fertig ist.",
+      "fact": "Das flache Dach ist von der Straße kaum zu sehen."
+    },
+    "tribuna_tambour": {
+      "title": "Tribuna: Schacht und Tambour",
+      "description": "Im Ostflügel steht ein achteckiger Schacht von 16 Metern Durchmesser, 3 Blöcke dick. Er reicht vom Boden bis Lage 58 (Y 123). Über dem Dach folgt der Tambour (Lage 52 bis 58) mit 8 Fenstern, je 3 breit und 4 hoch (Lage 54 bis 57), mit Glas in der mittleren Wandzelle.",
+      "tip": "Das Achteck hat 8 gleiche Seiten. Miss vom Mittelpunkt aus.",
+      "caution": "Der Grundriss stammt aus dem Kartenmaterial. Die Höhen sind geschätzt, die Deutung der Tribuna ist offen.",
+      "fact": "Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ein größeres Achteck, als der historische Saal gewesen sein dürfte."
+    },
+    "tribuna_kuppel": {
+      "title": "Tribuna: Kuppel",
+      "description": "Über dem Achteck wölbst du eine flache Kuppel aus Terrakotta: Kämpfer auf Lage 59, Scheitel auf Lage 67, Dicke 2. Sie springt vom Tambour in einem sanften Bogen nach oben.",
+      "tip": "Wölbe von außen nach innen, die Mitte zuletzt.",
+      "caution": "Der Rand muss voll auf dem Tambour aufliegen.",
+      "fact": "Die Form der Kuppel heißt Klostergewölbe: Sie folgt den acht Seiten des Raumes."
+    },
+    "tribuna_laterne": {
+      "title": "Tribuna: Laterne",
+      "description": "Auf dem Scheitel der Kuppel steht eine kleine Laterne: eine achteckige Wand, einen Block dick, von Lage 68 bis 76, mit 4 Öffnungen (2 mal 4) und einem Dach aus Terrakotta auf Lage 77 und 78.",
+      "tip": "Die Öffnungen liegen auf den vier Achsen.",
+      "caution": "Die Wand steht auf der Kuppel, nicht auf dem Tambour.",
+      "fact": "Die Laterne bringt Licht in den Saal darunter."
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "module": 1,
+  "title": "Portikus",
+  "subtitle": "Bautüte 1: Die Säulenhalle im Erdgeschoss beider Flügel, 22 Pfeiler mit Nischen",
+  "icon": "🏛️",
+  "parts": {
+    "portikus_pfeiler": {
+      "title": "Pfeiler mit Nischen",
+      "description": "In jedem der elf Joche je Flügel steht ein Pfeiler, 5 Blöcke breit und 3 tief, von Lage 1 bis 12. In die Vorderfläche setzt du eine Nische, 3 breit, 7 hoch und 1 tief (Lage 4 bis 10). Das sind 22 Pfeiler mit Nische.",
+      "tip": "Das Joch ist 24 Blöcke lang: Pfeiler 5, Öffnung 5, Säule 2, Öffnung 5, Säule 2, Öffnung 5. Zähle jedes Joch mit, dann bleiben beide Flügel gleich.",
+      "caution": "Die Nische bleibt leer, die Statue kommt erst in Modul 9. Lass auch die Schicht unter der Nische (Lage 1 bis 3) voll.",
+      "fact": "Die dorische Ordnung und der Wechsel von Pfeiler und Säule gehören zum Entwurf, den Giorgio Vasari ab 1560 für Cosimo I. de’ Medici ausführte."
+    },
+    "portikus_saeulen": {
+      "title": "Säulen mit Kapitellen",
+      "description": "Zwischen den Öffnungen jedes Jochs stehen zwei Säulen aus Pietra serena, je 2 mal 2 Blöcke, Lage 1 bis 10. Darüber sitzen die Kapitelle aus gemeißeltem Quarz, 2 mal 2 mal 2 Blöcke (Lage 11 und 12).",
+      "tip": "Setze erst alle Säulenschäfte einer Reihe, dann die Kapitelle. So bleibt die Reihe gerade.",
+      "caution": "Die Säule ist nur 2 Blöcke tief, der Pfeiler daneben 3. Die Rückseite der Säule bleibt offen.",
+      "fact": "Das Quarz-Weiß der Kapitelle ersetzt hier den Marmor, den die Bildhauer verwendet hätten."
+    },
+    "portikus_gebaelk": {
+      "title": "Gebälk über der Säulenhalle",
+      "description": "Du mauerst ein durchgehendes Gebälk aus Pietra serena, 3 Blöcke tief und 2 hoch (Lage 13 und 14), über alle Pfeiler und Öffnungen eines Flügels.",
+      "tip": "Das Gebälk ist ein Band ohne Unterbrechung. Beginne an der Stirnwand und arbeite dich am Flügel entlang.",
+      "caution": "Unter dem Gebälk darf kein Block fehlen, sonst hängt es in der Luft. Prüfe, dass jede Öffnung überspannt ist.",
+      "fact": "Das Gebälk trägt die gesamte obere Fassade. Die Spannweite von 5 Blöcken entspricht etwa 2,5 Metern."
+    },
+    "portikus_rueckwand": {
+      "title": "Rückwand der Säulenhalle mit Türen",
+      "description": "Hinter der Halle, 4 Blöcke dick (Tiefe 11 bis 14), mauerst du die Rückwand aus Sandputz. In der mittleren Öffnung jedes Jochs sparst du eine Tür aus, 3 breit und 8 hoch, mit einem Türblatt aus Holz. In den beiden anderen Öffnungen sitzt ein Fenster, 3 mal 3 Blöcke, mit Glas.",
+      "tip": "Setze die Fenster zuerst und mauere dann um sie herum. So vermeidest du schiefe Laibungen.",
+      "caution": "Das Türblatt steht in der zweiten Wandzelle, die anderen drei Zellen bleiben frei. Sonst ist die Tür zu.",
+      "fact": "Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung der Toskana zusammenziehen."
+    },
+    "portikus_decke": {
+      "title": "Decke der Säulenhalle",
+      "description": "Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf.",
+      "tip": "Lege die Platte von der Fassade zur Rückwand, so findest du den Anschluss an beide Auflager.",
+      "caution": "Die Decke liegt genau auf der Höhe der Oberkante des Gebälks. Eine Lage zu hoch, und die Mezzaninwand sitzt schief.",
+      "fact": "Die Säulenhalle ist 5 Meter tief, so tief wie ein Wohnzimmer."
+    },
+    "stirnwaende": {
+      "title": "Stirnwände an den Flügelenden",
+      "description": "An den Nordenden der Flügel mauerst du je einen massiven Block aus Pietra serena, 12 Blöcke lang, 14 tief und 14 hoch. An den Südenden, wo die Flügel an den Südbau stoßen, steht ein gleicher Block neben der Serliana.",
+      "tip": "Fülle den Block lagenweise. Er trägt den Eckpilaster, an dem später das Kranzgesims endet.",
+      "caution": "Die Stirnwand ist ganz massiv. Kein Hohlraum, sonst fehlt der Halt für die Wand darüber.",
+      "fact": "Die Eckpfeiler geben der langen Halle einen festen Abschluss, wie die Pfeiler eines Tores."
+    }
+  }
+}

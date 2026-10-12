@@ -1,0 +1,43 @@
+{
+  "module": 8,
+  "title": "Corridoio Vasariano",
+  "subtitle": "Bautüte 8: Die Brücke über die Via della Ninna und der Gang über den Arkaden am Lungarno bis zum Ponte Vecchio",
+  "icon": "🌉",
+  "parts": {
+    "bruecke_bogen": {
+      "title": "Tragbogen der Brücke",
+      "description": "Zwischen Palazzo Vecchio und Uffizien trägt ein Halbkreisbogen die Brücke über die Via della Ninna: Spannweite 16, Kämpfer auf Y 91, Scheitel auf Y 99, Dicke 2. Die Zwickel zwischen Bogen und Boden füllst du mit Pietra serena.",
+      "tip": "Baue erst den Bogen, dann die Zwickel.",
+      "caution": "Die Brücke steht in den Zwischenraum zwischen den Gebäuden. Keine Zelle der beiden Paläste darf dabei belegt werden.",
+      "fact": "Die Brücke überspannt die Via della Ninna, die schmale Gasse zwischen den beiden Bauten."
+    },
+    "bruecke_korridor": {
+      "title": "Gang auf der Brücke",
+      "description": "Auf dem Bogen liegt der Boden (Y 100 und 101), 13,7 Blöcke breit. Die Wände sind je 3 Blöcke dick, der Gang dazwischen 7 breit und 7 hoch (Y 102 bis 108). Die Decke (Y 109 und 110) schließt ihn. In den Wänden sitzen kleine Fenster, 2 mal 3, im Abstand von 8 Blöcken.",
+      "tip": "Der Gang ist 7 Blöcke breit, genau wie die Öffnung im Palast und in den Uffizien.",
+      "caution": "Die Brücke hat keine Stirnwand: Die beiden Enden sind die Öffnungen in den Gebäuden.",
+      "fact": "Der Korridor hat Giorgio Vasari 1565 in nur fünf Monaten gebaut, so die Überlieferung."
+    },
+    "lungarno_arkade": {
+      "title": "Arkaden am Lungarno",
+      "description": "Am Ufer des Arno läuft der Gang auf zwei Arkadenreihen: je 3 Blöcke tief, mit Pfeilern 3 mal 3 im Abstand von 12 Blöcken bis Y 72 und Rundbögen von 9 Blöcken Spannweite (Kämpfer Y 72, Scheitel Y 76). Die Pfeiler bestehen aus Andesit, die Bögen aus Pietra serena. Dazwischen bleibt die Straße frei.",
+      "tip": "Setze erst die Pfeiler im Abstand von 12, dann die Bögen dazwischen.",
+      "caution": "Die Pfeiler stehen auf dem Gelände, das zum Fluss hin abfällt. Fülle jeden Pfeiler vom Boden an.",
+      "fact": "Die Straße unter den Arkaden heißt Lungarno degli Archibusieri."
+    },
+    "lungarno_boden": {
+      "title": "Boden des Korridors am Lungarno",
+      "description": "Du legst eine Platte aus Pietra serena über die Arkaden: zwei Lagen, Y 77 und 78, über die ganze Breite. Die Oberkante Y 78 ist der Boden des Gangs.",
+      "tip": "Die Platte reicht bis zur Schnittlinie bei x = −528.",
+      "caution": "Die Platte endet an der Schnittlinie ohne Wand. Dort setzt das nächste Projekt an.",
+      "fact": "Der Gang liegt etwa 7,5 Meter über der Straße."
+    },
+    "lungarno_korridor": {
+      "title": "Gang und Dach am Lungarno",
+      "description": "Auf der Platte stehen Wände aus Andesit, je 3 Blöcke dick (Y 79 bis 85). Der Gang dazwischen ist bis zu 7 Blöcke hoch. Auf der Flussseite sitzen kleine Fenster, 2 mal 3, im Abstand von 8 Blöcken (Y 81 bis 83), das Dach ist 2 Lagen dick (Y 86 und 87).",
+      "tip": "Der Gang ist hier schmaler, weil der Streifen nur 11 bis 13 Blöcke breit ist.",
+      "caution": "Der Querschnitt bei x = −528 muss mit dem des Ponte Vecchio übereinstimmen.",
+      "fact": "Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti."
+    }
+  }
+}
