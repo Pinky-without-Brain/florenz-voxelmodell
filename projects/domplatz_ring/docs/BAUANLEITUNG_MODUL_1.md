@@ -8,32 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.448 |
+| Blöcke | 39.068 |
 | Bauschritte | 22 |
-| Y-Bereich | 66 bis 112 |
+| Y-Bereich | 66 bis 115 |
 | X-Ausdehnung | -385 bis -346 (40 Blöcke) |
 | Z-Ausdehnung | 218 bis 354 (137 Blöcke) |
-| Kleinster Schritt | 1.190 Blöcke (Schritt 1.13) |
-| Mittlerer Schritt | 1.748 Blöcke |
+| Kleinster Schritt | 1.232 Blöcke (Schritt 1.17) |
+| Mittlerer Schritt | 1.776 Blöcke |
 | Größter Schritt | 2.076 Blöcke (Schritt 1.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 16.990 | 44,2 % |
-| Terrakotta | `terracotta` | 6.897 | 17,9 % |
-| Polierter Tuffstein | `polished_tuff` | 5.093 | 13,2 % |
-| Weißer Beton | `white_concrete` | 4.762 | 12,4 % |
-| Tuffstein | `tuff` | 2.931 | 7,6 % |
-| Graues Buntglas | `gray_stained_glass` | 1.545 | 4,0 % |
-| Glatter Stein | `smooth_stone` | 230 | 0,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 16.068 | 41,1 % |
+| Terrakotta | `terracotta` | 7.160 | 18,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.093 | 13,0 % |
+| Weißer Beton | `white_concrete` | 3.648 | 9,3 % |
+| Tuffstein | `tuff` | 2.931 | 7,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.705 | 4,4 % |
+| Grüner Beton | `green_concrete` | 1.060 | 2,7 % |
+| Glatter Stein | `smooth_stone` | 850 | 2,2 % |
+| Polierter Andesit | `polished_andesite` | 289 | 0,7 % |
+| Ziegelsteine | `bricks` | 250 | 0,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112725476` | Palazzo des Cinquecento an Via dei Medici | 38.448 | 1.1–1.22 |
+| 1 | `w112725476` | Palazzo des Cinquecento an Via dei Medici | 39.068 | 1.1–1.22 |
 
 ## Bauschritte
 
@@ -180,17 +184,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.6 – Palazzo des Cinquecento an Via dei Medici – Teil 6/22 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.901
+- **Blöcke:** 1.983
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.509 |
-| Weißer Beton | `white_concrete` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Glatter Stein | `smooth_stone` | 76 |
+| Gelbe Keramik | `yellow_terracotta` | 1.760 |
+| Weißer Beton | `white_concrete` | 185 |
+| Polierter Andesit | `polished_andesite` | 29 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
@@ -211,17 +216,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.7 – Palazzo des Cinquecento an Via dei Medici – Teil 7/22 (Y 71–73)
 
 - **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.758
+- **Blöcke:** 1.654
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.069 |
-| Weißer Beton | `white_concrete` | 360 |
-| Graues Buntglas | `gray_stained_glass` | 221 |
-| Glatter Stein | `smooth_stone` | 108 |
+| Gelbe Keramik | `yellow_terracotta` | 920 |
+| Graues Buntglas | `gray_stained_glass` | 329 |
+| Weißer Beton | `white_concrete` | 226 |
+| Grüner Beton | `green_concrete` | 148 |
+| Polierter Andesit | `polished_andesite` | 22 |
+| Glatter Stein | `smooth_stone` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
@@ -242,16 +250,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.8 – Palazzo des Cinquecento an Via dei Medici – Teil 8/22 (Y 74–76)
 
 - **Y-Bereich:** 74 bis 76
-- **Blöcke:** 2.009
+- **Blöcke:** 1.995
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.857 |
-| Weißer Beton | `white_concrete` | 106 |
-| Glatter Stein | `smooth_stone` | 46 |
+| Gelbe Keramik | `yellow_terracotta` | 1.743 |
+| Weißer Beton | `white_concrete` | 197 |
+| Polierter Andesit | `polished_andesite` | 31 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -279,8 +290,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.863 |
-| Weißer Beton | `white_concrete` | 156 |
+| Gelbe Keramik | `yellow_terracotta` | 1.472 |
+| Glatter Stein | `smooth_stone` | 334 |
+| Weißer Beton | `white_concrete` | 190 |
+| Polierter Andesit | `polished_andesite` | 19 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -301,16 +315,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.10 – Palazzo des Cinquecento an Via dei Medici – Teil 10/22 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.785
+- **Blöcke:** 1.677
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.083 |
-| Weißer Beton | `white_concrete` | 468 |
-| Graues Buntglas | `gray_stained_glass` | 234 |
+| Gelbe Keramik | `yellow_terracotta` | 851 |
+| Graues Buntglas | `gray_stained_glass` | 342 |
+| Grüner Beton | `green_concrete` | 228 |
+| Weißer Beton | `white_concrete` | 228 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
@@ -331,16 +347,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.11 – Palazzo des Cinquecento an Via dei Medici – Teil 11/22 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.785
+- **Blöcke:** 1.905
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.083 |
-| Weißer Beton | `white_concrete` | 468 |
-| Graues Buntglas | `gray_stained_glass` | 234 |
+| Gelbe Keramik | `yellow_terracotta` | 1.163 |
+| Weißer Beton | `white_concrete` | 532 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Grüner Beton | `green_concrete` | 76 |
+| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
@@ -368,8 +386,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.707 |
-| Weißer Beton | `white_concrete` | 312 |
+| Gelbe Keramik | `yellow_terracotta` | 1.472 |
+| Weißer Beton | `white_concrete` | 380 |
+| Glatter Stein | `smooth_stone` | 151 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
@@ -387,19 +407,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo des Cinquecento an Via dei Medici – Teil 13/22 (Y 89–90)
+### Schritt 1.13 – Palazzo des Cinquecento an Via dei Medici – Teil 13/22 (Y 89–91)
 
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.190
+- **Y-Bereich:** 89 bis 91
+- **Blöcke:** 1.677
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 722 |
-| Weißer Beton | `white_concrete` | 312 |
-| Graues Buntglas | `gray_stained_glass` | 156 |
+| Gelbe Keramik | `yellow_terracotta` | 859 |
+| Graues Buntglas | `gray_stained_glass` | 342 |
+| Grüner Beton | `green_concrete` | 228 |
+| Weißer Beton | `white_concrete` | 228 |
+| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
@@ -417,19 +439,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo des Cinquecento an Via dei Medici – Teil 14/22 (Y 91–93)
+### Schritt 1.14 – Palazzo des Cinquecento an Via dei Medici – Teil 14/22 (Y 92–94)
 
-- **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.785
+- **Y-Bereich:** 92 bis 94
+- **Blöcke:** 1.905
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.083 |
-| Weißer Beton | `white_concrete` | 468 |
-| Graues Buntglas | `gray_stained_glass` | 234 |
+| Gelbe Keramik | `yellow_terracotta` | 1.155 |
+| Weißer Beton | `white_concrete` | 532 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Grüner Beton | `green_concrete` | 76 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
@@ -447,9 +471,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Palazzo des Cinquecento an Via dei Medici – Teil 15/22 (Y 94–96)
+### Schritt 1.15 – Palazzo des Cinquecento an Via dei Medici – Teil 15/22 (Y 95–97)
 
-- **Y-Bereich:** 94 bis 96
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 2.019
 - **Bauteile:** `w112725476`
 
@@ -457,8 +481,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.551 |
-| Weißer Beton | `white_concrete` | 468 |
+| Gelbe Keramik | `yellow_terracotta` | 1.472 |
+| Glatter Stein | `smooth_stone` | 341 |
+| Weißer Beton | `white_concrete` | 190 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
@@ -476,19 +502,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Palazzo des Cinquecento an Via dei Medici – Teil 16/22 (Y 97–99)
+### Schritt 1.16 – Palazzo des Cinquecento an Via dei Medici – Teil 16/22 (Y 98–100)
 
-- **Y-Bereich:** 97 bis 99
-- **Blöcke:** 1.863
+- **Y-Bereich:** 98 bis 100
+- **Blöcke:** 1.677
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.239 |
-| Weißer Beton | `white_concrete` | 468 |
-| Graues Buntglas | `gray_stained_glass` | 156 |
+| Gelbe Keramik | `yellow_terracotta` | 851 |
+| Graues Buntglas | `gray_stained_glass` | 342 |
+| Grüner Beton | `green_concrete` | 228 |
+| Weißer Beton | `white_concrete` | 228 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
@@ -506,19 +534,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Palazzo des Cinquecento an Via dei Medici – Teil 17/22 (Y 100–102)
+### Schritt 1.17 – Palazzo des Cinquecento an Via dei Medici – Teil 17/22 (Y 101–102)
 
-- **Y-Bereich:** 100 bis 102
-- **Blöcke:** 1.785
+- **Y-Bereich:** 101 bis 102
+- **Blöcke:** 1.232
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.083 |
-| Weißer Beton | `white_concrete` | 468 |
-| Graues Buntglas | `gray_stained_glass` | 234 |
+| Gelbe Keramik | `yellow_terracotta` | 760 |
+| Weißer Beton | `white_concrete` | 266 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Grüner Beton | `green_concrete` | 76 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
@@ -539,15 +569,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.18 – Palazzo des Cinquecento an Via dei Medici – Teil 18/22 (Y 103–104)
 
 - **Y-Bereich:** 103 bis 104
-- **Blöcke:** 1.609
+- **Blöcke:** 1.872
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.141 |
-| Weißer Beton | `white_concrete` | 468 |
+| Gelbe Keramik | `yellow_terracotta` | 1.590 |
+| Weißer Beton | `white_concrete` | 266 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
@@ -568,14 +599,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.19 – Palazzo des Cinquecento an Via dei Medici – Teil 19/22 (Y 105–105)
 
 - **Y-Bereich:** 105 bis 105
-- **Blöcke:** 1.313
+- **Blöcke:** 1.576
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.313 |
+| Terrakotta | `terracotta` | 1.576 |
 
 **Beschreibung**
 
@@ -624,7 +655,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.21 – Palazzo des Cinquecento an Via dei Medici – Teil 21/22 (Y 108–109)
 
 - **Y-Bereich:** 108 bis 109
-- **Blöcke:** 1.796
+- **Blöcke:** 1.816
 - **Bauteile:** `w112725476`
 
 **Teileliste**
@@ -632,6 +663,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.796 |
+| Ziegelsteine | `bricks` | 20 |
 
 **Beschreibung**
 
@@ -649,10 +681,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Palazzo des Cinquecento an Via dei Medici – Teil 22/22 (Y 110–112)
+### Schritt 1.22 – Palazzo des Cinquecento an Via dei Medici – Teil 22/22 (Y 110–115)
 
-- **Y-Bereich:** 110 bis 112
-- **Blöcke:** 1.712
+- **Y-Bereich:** 110 bis 115
+- **Blöcke:** 1.942
 - **Bauteile:** `w112725476`
 
 **Teileliste**
@@ -660,6 +692,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.712 |
+| Ziegelsteine | `bricks` | 230 |
 
 **Beschreibung**
 

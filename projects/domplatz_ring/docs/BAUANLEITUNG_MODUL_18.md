@@ -8,47 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.761 |
+| Blöcke | 40.008 |
 | Bauschritte | 21 |
-| Y-Bereich | 66 bis 107 |
+| Y-Bereich | 66 bis 110 |
 | X-Ausdehnung | 151 bis 217 (67 Blöcke) |
 | Z-Ausdehnung | 121 bis 247 (127 Blöcke) |
-| Kleinster Schritt | 1.641 Blöcke (Schritt 18.11) |
-| Mittlerer Schritt | 1.846 Blöcke |
-| Größter Schritt | 2.042 Blöcke (Schritt 18.13) |
+| Kleinster Schritt | 1.712 Blöcke (Schritt 18.9) |
+| Mittlerer Schritt | 1.905 Blöcke |
+| Größter Schritt | 2.086 Blöcke (Schritt 18.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 9.028 | 23,3 % |
-| Endsteinziegel | `end_stone_bricks` | 5.620 | 14,5 % |
-| Terrakotta | `terracotta` | 5.224 | 13,5 % |
-| Polierter Tuffstein | `polished_tuff` | 4.167 | 10,8 % |
-| Orange Keramik | `orange_terracotta` | 3.598 | 9,3 % |
-| Tuffstein | `tuff` | 2.633 | 6,8 % |
-| Glatter Stein | `smooth_stone` | 2.135 | 5,5 % |
-| Weißer Beton | `white_concrete` | 1.993 | 5,1 % |
-| Polierter Andesit | `polished_andesite` | 1.594 | 4,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.503 | 3,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.226 | 3,2 % |
-| Grüner Beton | `green_concrete` | 40 | 0,1 % |
+| Rosa Keramik | `pink_terracotta` | 9.074 | 22,7 % |
+| Endsteinziegel | `end_stone_bricks` | 6.256 | 15,6 % |
+| Terrakotta | `terracotta` | 5.488 | 13,7 % |
+| Tuffstein | `tuff` | 4.385 | 11,0 % |
+| Polierter Tuffstein | `polished_tuff` | 4.167 | 10,4 % |
+| Orange Keramik | `orange_terracotta` | 3.876 | 9,7 % |
+| Glatter Stein | `smooth_stone` | 2.176 | 5,4 % |
+| Weißer Beton | `white_concrete` | 1.678 | 4,2 % |
+| Graues Buntglas | `gray_stained_glass` | 1.354 | 3,4 % |
+| Polierter Andesit | `polished_andesite` | 867 | 2,2 % |
+| Ziegelsteine | `bricks` | 272 | 0,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 262 | 0,7 % |
+| Grüner Beton | `green_concrete` | 153 | 0,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w482814879` | Reihenhaus an Via del Proconsolo | 12.849 | 18.1–18.7 |
-| 2 | `w482814881` | Reihenhaus an Via del Proconsolo | 6.886 | 18.8–18.11 |
-| 3 | `w482814896` | Reihenhaus an Piazza di Santa Maria in Campo | 9.709 | 18.12–18.16 |
-| 4 | `w482814915` | Renaissance-Palazzo an Via dell'Oriuolo | 9.317 | 18.17–18.21 |
+| 1 | `w482814879` | Reihenhaus an Via del Proconsolo | 13.245 | 18.1–18.7 |
+| 2 | `w482814881` | Reihenhaus an Via del Proconsolo | 7.121 | 18.8–18.11 |
+| 3 | `w482814896` | Reihenhaus an Piazza di Santa Maria in Campo | 9.886 | 18.12–18.16 |
+| 4 | `w482814915` | Renaissance-Palazzo an Via dell'Oriuolo | 9.756 | 18.17–18.21 |
 
 ## Bauschritte
 
 ### Schritt 18.1 – Reihenhaus an Via del Proconsolo – Teil 1/7 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.785
+- **Blöcke:** 1.798
 - **Bauteile:** `w482814879`
 
 **Teileliste**
@@ -56,8 +57,9 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.490 |
-| Rosa Keramik | `pink_terracotta` | 278 |
-| Glatter Stein | `smooth_stone` | 17 |
+| Rosa Keramik | `pink_terracotta` | 277 |
+| Graues Buntglas | `gray_stained_glass` | 21 |
+| Glatter Stein | `smooth_stone` | 10 |
 
 **Beschreibung**
 
@@ -78,17 +80,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.2 – Reihenhaus an Via del Proconsolo – Teil 2/7 (Y 68–73)
 
 - **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.743
+- **Blöcke:** 1.853
 - **Bauteile:** `w482814879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.562 |
-| Glatter Stein | `smooth_stone` | 101 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-| Grüner Beton | `green_concrete` | 40 |
+| Rosa Keramik | `pink_terracotta` | 1.616 |
+| Graues Buntglas | `gray_stained_glass` | 130 |
+| Glatter Stein | `smooth_stone` | 79 |
+| Grüner Beton | `green_concrete` | 18 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
@@ -109,16 +112,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.3 – Reihenhaus an Via del Proconsolo – Teil 3/7 (Y 74–79)
 
 - **Y-Bereich:** 74 bis 79
-- **Blöcke:** 1.932
+- **Blöcke:** 1.914
 - **Bauteile:** `w482814879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.876 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Rosa Keramik | `pink_terracotta` | 1.815 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Grüner Beton | `green_concrete` | 45 |
 
 **Beschreibung**
 
@@ -146,8 +149,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.866 |
+| Rosa Keramik | `pink_terracotta` | 1.836 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
+| Grüner Beton | `green_concrete` | 30 |
 
 **Beschreibung**
 
@@ -168,15 +172,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.5 – Reihenhaus an Via del Proconsolo – Teil 5/7 (Y 86–91)
 
 - **Y-Bereich:** 86 bis 91
-- **Blöcke:** 1.917
+- **Blöcke:** 1.935
 - **Bauteile:** `w482814879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.866 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
+| Rosa Keramik | `pink_terracotta` | 1.887 |
+| Graues Buntglas | `gray_stained_glass` | 33 |
+| Grüner Beton | `green_concrete` | 15 |
 
 **Beschreibung**
 
@@ -197,15 +202,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.6 – Reihenhaus an Via del Proconsolo – Teil 6/7 (Y 92–96)
 
 - **Y-Bereich:** 92 bis 96
-- **Blöcke:** 1.649
+- **Blöcke:** 1.742
 - **Bauteile:** `w482814879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.580 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
+| Rosa Keramik | `pink_terracotta` | 1.643 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Grüner Beton | `green_concrete` | 45 |
 
 **Beschreibung**
 
@@ -223,17 +229,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.7 – Reihenhaus an Via del Proconsolo – Teil 7/7 (Y 97–103)
+### Schritt 18.7 – Reihenhaus an Via del Proconsolo – Teil 7/7 (Y 97–105)
 
-- **Y-Bereich:** 97 bis 103
-- **Blöcke:** 1.906
+- **Y-Bereich:** 97 bis 105
+- **Blöcke:** 2.086
 - **Bauteile:** `w482814879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.906 |
+| Terrakotta | `terracotta` | 1.984 |
+| Ziegelsteine | `bricks` | 102 |
 
 **Beschreibung**
 
@@ -251,10 +258,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.8 – Reihenhaus an Via del Proconsolo – Teil 1/4 (Y 66–69)
+### Schritt 18.8 – Reihenhaus an Via del Proconsolo – Teil 1/4 (Y 66–70)
 
-- **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.642
+- **Y-Bereich:** 66 bis 70
+- **Blöcke:** 1.827
 - **Bauteile:** `w482814881`
 
 **Teileliste**
@@ -262,10 +269,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.080 |
-| Orange Keramik | `orange_terracotta` | 475 |
-| Glatter Stein | `smooth_stone` | 45 |
-| Weißer Beton | `white_concrete` | 26 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
+| Orange Keramik | `orange_terracotta` | 676 |
+| Weißer Beton | `white_concrete` | 46 |
+| Graues Buntglas | `gray_stained_glass` | 17 |
+| Glatter Stein | `smooth_stone` | 8 |
 
 **Beschreibung**
 
@@ -283,20 +290,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.9 – Reihenhaus an Via del Proconsolo – Teil 2/4 (Y 70–78)
+### Schritt 18.9 – Reihenhaus an Via del Proconsolo – Teil 2/4 (Y 71–79)
 
-- **Y-Bereich:** 70 bis 78
-- **Blöcke:** 1.715
+- **Y-Bereich:** 71 bis 79
+- **Blöcke:** 1.712
 - **Bauteile:** `w482814881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.448 |
-| Weißer Beton | `white_concrete` | 118 |
-| Glatter Stein | `smooth_stone` | 85 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
+| Orange Keramik | `orange_terracotta` | 1.466 |
+| Weißer Beton | `white_concrete` | 148 |
+| Graues Buntglas | `gray_stained_glass` | 87 |
+| Glatter Stein | `smooth_stone` | 11 |
 
 **Beschreibung**
 
@@ -314,19 +321,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.10 – Reihenhaus an Via del Proconsolo – Teil 3/4 (Y 79–88)
+### Schritt 18.10 – Reihenhaus an Via del Proconsolo – Teil 3/4 (Y 80–88)
 
-- **Y-Bereich:** 79 bis 88
-- **Blöcke:** 1.888
+- **Y-Bereich:** 80 bis 88
+- **Blöcke:** 1.801
 - **Bauteile:** `w482814881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.463 |
-| Weißer Beton | `white_concrete` | 299 |
-| Graues Buntglas | `gray_stained_glass` | 126 |
+| Orange Keramik | `orange_terracotta` | 1.488 |
+| Weißer Beton | `white_concrete` | 256 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
 
 **Beschreibung**
 
@@ -344,19 +351,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.11 – Reihenhaus an Via del Proconsolo – Teil 4/4 (Y 89–95)
+### Schritt 18.11 – Reihenhaus an Via del Proconsolo – Teil 4/4 (Y 89–97)
 
-- **Y-Bereich:** 89 bis 95
-- **Blöcke:** 1.641
+- **Y-Bereich:** 89 bis 97
+- **Blöcke:** 1.781
 - **Bauteile:** `w482814881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.395 |
-| Orange Keramik | `orange_terracotta` | 212 |
-| Weißer Beton | `white_concrete` | 34 |
+| Terrakotta | `terracotta` | 1.441 |
+| Orange Keramik | `orange_terracotta` | 246 |
+| Ziegelsteine | `bricks` | 94 |
 
 **Beschreibung**
 
@@ -374,21 +381,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.12 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 1/5 (Y 66–71)
+### Schritt 18.12 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 1/5 (Y 66–72)
 
-- **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.854
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 2.047
 - **Bauteile:** `w482814896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 966 |
 | Polierter Tuffstein | `polished_tuff` | 865 |
-| Endsteinziegel | `end_stone_bricks` | 691 |
-| Weißer Beton | `white_concrete` | 162 |
+| Weißer Beton | `white_concrete` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
-| Glatter Stein | `smooth_stone` | 55 |
+| Glatter Stein | `smooth_stone` | 12 |
 
 **Beschreibung**
 
@@ -406,20 +413,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.13 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 2/5 (Y 72–81)
+### Schritt 18.13 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 2/5 (Y 73–81)
 
-- **Y-Bereich:** 72 bis 81
-- **Blöcke:** 2.042
+- **Y-Bereich:** 73 bis 81
+- **Blöcke:** 1.869
 - **Bauteile:** `w482814896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.537 |
-| Weißer Beton | `white_concrete` | 345 |
-| Graues Buntglas | `gray_stained_glass` | 143 |
-| Glatter Stein | `smooth_stone` | 17 |
+| Endsteinziegel | `end_stone_bricks` | 1.453 |
+| Weißer Beton | `white_concrete` | 321 |
+| Graues Buntglas | `gray_stained_glass` | 87 |
+| Glatter Stein | `smooth_stone` | 8 |
 
 **Beschreibung**
 
@@ -437,18 +444,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.14 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 3/5 (Y 82–90)
+### Schritt 18.14 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 3/5 (Y 82–91)
 
-- **Y-Bereich:** 82 bis 90
-- **Blöcke:** 1.849
+- **Y-Bereich:** 82 bis 91
+- **Blöcke:** 2.066
 - **Bauteile:** `w482814896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.360 |
-| Weißer Beton | `white_concrete` | 373 |
+| Endsteinziegel | `end_stone_bricks` | 1.599 |
+| Weißer Beton | `white_concrete` | 351 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 
 **Beschreibung**
@@ -467,19 +474,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.15 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 4/5 (Y 91–99)
+### Schritt 18.15 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 4/5 (Y 92–100)
 
-- **Y-Bereich:** 91 bis 99
-- **Blöcke:** 1.946
+- **Y-Bereich:** 92 bis 100
+- **Blöcke:** 2.013
 - **Bauteile:** `w482814896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.376 |
-| Weißer Beton | `white_concrete` | 425 |
-| Graues Buntglas | `gray_stained_glass` | 145 |
+| Endsteinziegel | `end_stone_bricks` | 1.601 |
+| Weißer Beton | `white_concrete` | 296 |
+| Graues Buntglas | `gray_stained_glass` | 116 |
 
 **Beschreibung**
 
@@ -497,10 +504,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.16 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 5/5 (Y 100–107)
+### Schritt 18.16 – Reihenhaus an Piazza di Santa Maria in Campo – Teil 5/5 (Y 101–110)
 
-- **Y-Bereich:** 100 bis 107
-- **Blöcke:** 2.018
+- **Y-Bereich:** 101 bis 110
+- **Blöcke:** 1.891
 - **Bauteile:** `w482814896`
 
 **Teileliste**
@@ -508,9 +515,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.064 |
-| Endsteinziegel | `end_stone_bricks` | 656 |
-| Weißer Beton | `white_concrete` | 211 |
-| Graues Buntglas | `gray_stained_glass` | 87 |
+| Endsteinziegel | `end_stone_bricks` | 637 |
+| Weißer Beton | `white_concrete` | 137 |
+| Ziegelsteine | `bricks` | 53 |
 
 **Beschreibung**
 
@@ -528,10 +535,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.17 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 1/5 (Y 66–72)
+### Schritt 18.17 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 1/5 (Y 66–73)
 
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.781
+- **Y-Bereich:** 66 bis 73
+- **Blöcke:** 1.885
 - **Bauteile:** `w482814915`
 
 **Teileliste**
@@ -539,10 +546,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 732 |
-| Tuffsteinziegel | `tuff_bricks` | 487 |
-| Glatter Stein | `smooth_stone` | 246 |
-| Tuffstein | `tuff` | 228 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
+| Tuffstein | `tuff` | 729 |
+| Glatter Stein | `smooth_stone` | 181 |
+| Graues Buntglas | `gray_stained_glass` | 140 |
+| Tuffsteinziegel | `tuff_bricks` | 96 |
+| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
@@ -560,20 +568,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.18 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 2/5 (Y 73–82)
+### Schritt 18.18 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 2/5 (Y 74–83)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.924
+- **Y-Bereich:** 74 bis 83
+- **Blöcke:** 1.925
 - **Bauteile:** `w482814915`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 860 |
-| Tuffsteinziegel | `tuff_bricks` | 739 |
-| Glatter Stein | `smooth_stone` | 247 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Tuffstein | `tuff` | 1.103 |
+| Glatter Stein | `smooth_stone` | 425 |
+| Tuffsteinziegel | `tuff_bricks` | 162 |
+| Polierter Andesit | `polished_andesite` | 149 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
 
 **Beschreibung**
 
@@ -591,20 +600,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.19 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 3/5 (Y 83–92)
+### Schritt 18.19 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 3/5 (Y 84–93)
 
-- **Y-Bereich:** 83 bis 92
-- **Blöcke:** 1.863
+- **Y-Bereich:** 84 bis 93
+- **Blöcke:** 2.000
 - **Bauteile:** `w482814915`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 630 |
-| Polierter Andesit | `polished_andesite` | 614 |
-| Glatter Stein | `smooth_stone` | 437 |
-| Graues Buntglas | `gray_stained_glass` | 182 |
+| Tuffstein | `tuff` | 1.028 |
+| Glatter Stein | `smooth_stone` | 545 |
+| Polierter Andesit | `polished_andesite` | 311 |
+| Graues Buntglas | `gray_stained_glass` | 112 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -622,20 +632,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.20 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 4/5 (Y 93–100)
+### Schritt 18.20 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 4/5 (Y 94–101)
 
-- **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.808
+- **Y-Bereich:** 94 bis 101
+- **Blöcke:** 2.016
 - **Bauteile:** `w482814915`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 730 |
-| Tuffstein | `tuff` | 588 |
-| Glatter Stein | `smooth_stone` | 386 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Tuffstein | `tuff` | 1.159 |
+| Glatter Stein | `smooth_stone` | 454 |
+| Polierter Andesit | `polished_andesite` | 291 |
+| Graues Buntglas | `gray_stained_glass` | 112 |
 
 **Beschreibung**
 
@@ -653,21 +663,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.21 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 5/5 (Y 101–106)
+### Schritt 18.21 – Renaissance-Palazzo an Via dell'Oriuolo – Teil 5/5 (Y 102–108)
 
-- **Y-Bereich:** 101 bis 106
-- **Blöcke:** 1.941
+- **Y-Bereich:** 102 bis 108
+- **Blöcke:** 1.930
 - **Bauteile:** `w482814915`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 859 |
-| Glatter Stein | `smooth_stone` | 479 |
-| Tuffstein | `tuff` | 327 |
-| Polierter Andesit | `polished_andesite` | 250 |
-| Graues Buntglas | `gray_stained_glass` | 26 |
+| Terrakotta | `terracotta` | 999 |
+| Glatter Stein | `smooth_stone` | 443 |
+| Tuffstein | `tuff` | 366 |
+| Polierter Andesit | `polished_andesite` | 99 |
+| Ziegelsteine | `bricks` | 23 |
 
 **Beschreibung**
 

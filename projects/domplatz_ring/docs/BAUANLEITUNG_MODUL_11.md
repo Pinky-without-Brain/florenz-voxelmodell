@@ -8,32 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 19.288 |
+| Blöcke | 19.994 |
 | Bauschritte | 12 |
-| Y-Bereich | 65 bis 107 |
+| Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | -102 bis -25 (78 Blöcke) |
-| Z-Ausdehnung | 116 bis 179 (64 Blöcke) |
-| Kleinster Schritt | 1.312 Blöcke (Schritt 11.7) |
-| Mittlerer Schritt | 1.607 Blöcke |
-| Größter Schritt | 2.042 Blöcke (Schritt 11.8) |
+| Z-Ausdehnung | 116 bis 180 (65 Blöcke) |
+| Kleinster Schritt | 1.521 Blöcke (Schritt 11.5) |
+| Mittlerer Schritt | 1.666 Blöcke |
+| Größter Schritt | 1.830 Blöcke (Schritt 11.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 6.292 | 32,6 % |
-| Glatter Stein | `smooth_stone` | 2.963 | 15,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 2.631 | 13,6 % |
-| Terrakotta | `terracotta` | 2.610 | 13,5 % |
-| Polierter Andesit | `polished_andesite` | 2.050 | 10,6 % |
-| Polierter Tuffstein | `polished_tuff` | 2.022 | 10,5 % |
-| Graues Buntglas | `gray_stained_glass` | 720 | 3,7 % |
+| Tuffstein | `tuff` | 8.570 | 42,9 % |
+| Glatter Stein | `smooth_stone` | 3.635 | 18,2 % |
+| Terrakotta | `terracotta` | 2.898 | 14,5 % |
+| Polierter Tuffstein | `polished_tuff` | 2.022 | 10,1 % |
+| Polierter Andesit | `polished_andesite` | 1.113 | 5,6 % |
+| Graues Buntglas | `gray_stained_glass` | 892 | 4,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 698 | 3,5 % |
+| Ziegelsteine | `bricks` | 166 | 0,8 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114220146` | Palazzo dei Canonici | 14.479 | 11.1–11.9 |
+| 1 | `w114220146` | Palazzo dei Canonici | 15.185 | 11.1–11.9 |
 | 2 | `w307544507` | Torre dei Pierozzi | 4.809 | 11.10–11.12 |
 
 ## Bauschritte
@@ -67,20 +68,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.2 – Palazzo dei Canonici – Teil 2/9 (Y 67–71)
+### Schritt 11.2 – Palazzo dei Canonici – Teil 2/9 (Y 67–72)
 
-- **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.626
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.792
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 983 |
-| Glatter Stein | `smooth_stone` | 324 |
-| Tuffstein | `tuff` | 205 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
+| Tuffstein | `tuff` | 1.139 |
+| Glatter Stein | `smooth_stone` | 309 |
+| Tuffsteinziegel | `tuff_bricks` | 176 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
@@ -98,20 +100,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Palazzo dei Canonici – Teil 3/9 (Y 72–75)
+### Schritt 11.3 – Palazzo dei Canonici – Teil 3/9 (Y 73–77)
 
-- **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.373
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.681
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.014 |
-| Tuffstein | `tuff` | 164 |
-| Glatter Stein | `smooth_stone` | 161 |
-| Graues Buntglas | `gray_stained_glass` | 34 |
+| Tuffstein | `tuff` | 1.025 |
+| Glatter Stein | `smooth_stone` | 481 |
+| Tuffsteinziegel | `tuff_bricks` | 105 |
+| Graues Buntglas | `gray_stained_glass` | 61 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
@@ -129,20 +132,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.4 – Palazzo dei Canonici – Teil 4/9 (Y 76–80)
+### Schritt 11.4 – Palazzo dei Canonici – Teil 4/9 (Y 78–82)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.750
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.691
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 916 |
-| Tuffsteinziegel | `tuff_bricks` | 634 |
-| Glatter Stein | `smooth_stone` | 160 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
+| Tuffstein | `tuff` | 825 |
+| Glatter Stein | `smooth_stone` | 295 |
+| Polierter Andesit | `polished_andesite` | 215 |
+| Tuffsteinziegel | `tuff_bricks` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
 
 **Beschreibung**
 
@@ -160,19 +164,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.5 – Palazzo dei Canonici – Teil 5/9 (Y 81–85)
+### Schritt 11.5 – Palazzo dei Canonici – Teil 5/9 (Y 83–86)
 
-- **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.590
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 1.521
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 990 |
-| Glatter Stein | `smooth_stone` | 400 |
-| Graues Buntglas | `gray_stained_glass` | 200 |
+| Tuffstein | `tuff` | 730 |
+| Glatter Stein | `smooth_stone` | 586 |
+| Tuffsteinziegel | `tuff_bricks` | 83 |
+| Polierter Andesit | `polished_andesite` | 71 |
+| Graues Buntglas | `gray_stained_glass` | 51 |
 
 **Beschreibung**
 
@@ -190,20 +196,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.6 – Palazzo dei Canonici – Teil 6/9 (Y 86–90)
+### Schritt 11.6 – Palazzo dei Canonici – Teil 6/9 (Y 87–91)
 
-- **Y-Bereich:** 86 bis 90
-- **Blöcke:** 1.710
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.691
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 868 |
-| Tuffstein | `tuff` | 442 |
-| Glatter Stein | `smooth_stone` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
+| Tuffstein | `tuff` | 825 |
+| Polierter Andesit | `polished_andesite` | 412 |
+| Glatter Stein | `smooth_stone` | 301 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
 
 **Beschreibung**
 
@@ -221,20 +227,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.7 – Palazzo dei Canonici – Teil 7/9 (Y 91–94)
+### Schritt 11.7 – Palazzo dei Canonici – Teil 7/9 (Y 92–95)
 
-- **Y-Bereich:** 91 bis 94
-- **Blöcke:** 1.312
+- **Y-Bereich:** 92 bis 95
+- **Blöcke:** 1.764
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 708 |
-| Glatter Stein | `smooth_stone` | 320 |
-| Tuffstein | `tuff` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
+| Glatter Stein | `smooth_stone` | 760 |
+| Tuffstein | `tuff` | 680 |
+| Polierter Andesit | `polished_andesite` | 222 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
 
 **Beschreibung**
 
@@ -252,20 +258,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.8 – Palazzo dei Canonici – Teil 8/9 (Y 95–97)
+### Schritt 11.8 – Palazzo dei Canonici – Teil 8/9 (Y 96–97)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 2.042
+- **Y-Bereich:** 96 bis 97
+- **Blöcke:** 1.830
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 746 |
-| Glatter Stein | `smooth_stone` | 740 |
-| Polierter Andesit | `polished_andesite` | 474 |
-| Tuffstein | `tuff` | 82 |
+| Terrakotta | `terracotta` | 1.034 |
+| Glatter Stein | `smooth_stone` | 443 |
+| Tuffstein | `tuff` | 195 |
+| Polierter Andesit | `polished_andesite` | 158 |
 
 **Beschreibung**
 
@@ -283,10 +289,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.9 – Palazzo dei Canonici – Teil 9/9 (Y 98–102)
+### Schritt 11.9 – Palazzo dei Canonici – Teil 9/9 (Y 98–104)
 
-- **Y-Bereich:** 98 bis 102
-- **Blöcke:** 1.386
+- **Y-Bereich:** 98 bis 104
+- **Blöcke:** 1.525
 - **Bauteile:** `w114220146`
 
 **Teileliste**
@@ -294,6 +300,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.386 |
+| Ziegelsteine | `bricks` | 139 |
 
 **Beschreibung**
 
@@ -314,17 +321,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.10 – Torre dei Pierozzi – Teil 1/3 (Y 67–79)
 
 - **Y-Bereich:** 67 bis 79
-- **Blöcke:** 1.631
+- **Blöcke:** 1.639
 - **Bauteile:** `w307544507`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.040 |
+| Tuffstein | `tuff` | 987 |
 | Polierter Tuffstein | `polished_tuff` | 388 |
-| Glatter Stein | `smooth_stone` | 161 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
+| Glatter Stein | `smooth_stone` | 140 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Tuffsteinziegel | `tuff_bricks` | 50 |
+| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
@@ -345,16 +354,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.11 – Torre dei Pierozzi – Teil 2/3 (Y 80–94)
 
 - **Y-Bereich:** 80 bis 94
-- **Blöcke:** 1.620
+- **Blöcke:** 1.590
 - **Bauteile:** `w307544507`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.342 |
-| Glatter Stein | `smooth_stone` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
+| Tuffstein | `tuff` | 1.237 |
+| Glatter Stein | `smooth_stone` | 198 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Tuffsteinziegel | `tuff_bricks` | 49 |
 
 **Beschreibung**
 
@@ -372,20 +382,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.12 – Torre dei Pierozzi – Teil 3/3 (Y 95–107)
+### Schritt 11.12 – Torre dei Pierozzi – Teil 3/3 (Y 95–109)
 
-- **Y-Bereich:** 95 bis 107
-- **Blöcke:** 1.558
+- **Y-Bereich:** 95 bis 109
+- **Blöcke:** 1.580
 - **Bauteile:** `w307544507`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 891 |
+| Tuffstein | `tuff` | 871 |
 | Terrakotta | `terracotta` | 478 |
-| Glatter Stein | `smooth_stone` | 153 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Glatter Stein | `smooth_stone` | 122 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
+| Tuffsteinziegel | `tuff_bricks` | 32 |
+| Ziegelsteine | `bricks` | 27 |
 
 **Beschreibung**
 

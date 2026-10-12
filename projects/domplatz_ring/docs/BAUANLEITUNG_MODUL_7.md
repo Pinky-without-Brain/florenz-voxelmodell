@@ -8,52 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 62.563 |
-| Bauschritte | 34 |
-| Y-Bereich | 64 bis 113 |
+| Blöcke | 64.618 |
+| Bauschritte | 37 |
+| Y-Bereich | 64 bis 115 |
 | X-Ausdehnung | -241 bis -88 (154 Blöcke) |
 | Z-Ausdehnung | -225 bis -83 (143 Blöcke) |
-| Kleinster Schritt | 1.414 Blöcke (Schritt 7.24) |
-| Mittlerer Schritt | 1.840 Blöcke |
-| Größter Schritt | 2.085 Blöcke (Schritt 7.32) |
+| Kleinster Schritt | 1.383 Blöcke (Schritt 7.36) |
+| Mittlerer Schritt | 1.746 Blöcke |
+| Größter Schritt | 2.052 Blöcke (Schritt 7.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 11.022 | 17,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 10.936 | 17,5 % |
-| Terrakotta | `terracotta` | 9.926 | 15,9 % |
-| Polierter Tuffstein | `polished_tuff` | 7.742 | 12,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 4.928 | 7,9 % |
-| Polierter Andesit | `polished_andesite` | 4.870 | 7,8 % |
-| Glatter Stein | `smooth_stone` | 3.865 | 6,2 % |
-| Tuffstein | `tuff` | 3.659 | 5,8 % |
-| Graues Buntglas | `gray_stained_glass` | 2.374 | 3,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 2.014 | 3,2 % |
-| Weißer Beton | `white_concrete` | 604 | 1,0 % |
-| Fichtenholz-Bretter | `spruce_planks` | 284 | 0,5 % |
-| Grüner Beton | `green_concrete` | 256 | 0,4 % |
-| Endsteinziegel | `end_stone_bricks` | 83 | 0,1 % |
+| Rosa Keramik | `pink_terracotta` | 11.431 | 17,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 11.242 | 17,4 % |
+| Terrakotta | `terracotta` | 10.353 | 16,0 % |
+| Polierter Tuffstein | `polished_tuff` | 7.742 | 12,0 % |
+| Tuffstein | `tuff` | 6.832 | 10,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.862 | 7,5 % |
+| Polierter Andesit | `polished_andesite` | 3.647 | 5,6 % |
+| Glatter Stein | `smooth_stone` | 3.344 | 5,2 % |
+| Graues Buntglas | `gray_stained_glass` | 2.385 | 3,7 % |
+| Ziegelsteine | `bricks` | 777 | 1,2 % |
+| Weißer Beton | `white_concrete` | 690 | 1,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 537 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 351 | 0,5 % |
+| Grüner Beton | `green_concrete` | 261 | 0,4 % |
+| Endsteinziegel | `end_stone_bricks` | 164 | 0,3 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w480206291` | Reihenhaus an Piazza del Duomo | 6.916 | 7.1–7.4 |
-| 2 | `w480206292` | Reihenhaus an Piazza del Duomo | 7.947 | 7.5–7.8 |
-| 3 | `w480206294` | Reihenhaus an Via Ricasoli | 7.733 | 7.9–7.12 |
-| 4 | `w480206295` | Reihenhaus an Piazza del Duomo | 9.236 | 7.13–7.17 |
-| 5 | `w480206298` | Palazzo des Cinquecento an Via Ricasoli | 10.903 | 7.18–7.23 |
-| 6 | `w480206299` | Renaissance-Palazzo an Via Ricasoli | 17.842 | 7.24–7.33 |
-| 7 | `w480206300` | Wohnturm an Piazza del Duomo | 1.986 | 7.34 |
+| 1 | `w480206291` | Reihenhaus an Piazza del Duomo | 7.025 | 7.1–7.4 |
+| 2 | `w480206292` | Reihenhaus an Piazza del Duomo | 8.251 | 7.5–7.9 |
+| 3 | `w480206294` | Reihenhaus an Via Ricasoli | 7.900 | 7.10–7.13 |
+| 4 | `w480206295` | Reihenhaus an Piazza del Duomo | 9.469 | 7.14–7.18 |
+| 5 | `w480206298` | Palazzo des Cinquecento an Via Ricasoli | 11.314 | 7.19–7.24 |
+| 6 | `w480206299` | Renaissance-Palazzo an Via Ricasoli | 18.669 | 7.25–7.36 |
+| 7 | `w480206300` | Wohnturm an Piazza del Duomo | 1.990 | 7.37 |
 
 ## Bauschritte
 
 ### Schritt 7.1 – Reihenhaus an Piazza del Duomo – Teil 1/4 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
-- **Blöcke:** 1.713
+- **Blöcke:** 1.695
 - **Bauteile:** `w480206291`
 
 **Teileliste**
@@ -62,8 +63,9 @@
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.044 |
 | Polierter Tuffstein | `polished_tuff` | 583 |
-| Glatter Stein | `smooth_stone` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
+| Glatter Stein | `smooth_stone` | 52 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -84,15 +86,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.2 – Reihenhaus an Piazza del Duomo – Teil 2/4 (Y 74–87)
 
 - **Y-Bereich:** 74 bis 87
-- **Blöcke:** 1.767
+- **Blöcke:** 1.779
 - **Bauteile:** `w480206291`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.571 |
-| Glatter Stein | `smooth_stone` | 143 |
+| Rosa Keramik | `pink_terracotta` | 1.624 |
+| Glatter Stein | `smooth_stone` | 102 |
 | Graues Buntglas | `gray_stained_glass` | 53 |
 
 **Beschreibung**
@@ -111,18 +113,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Reihenhaus an Piazza del Duomo – Teil 3/4 (Y 88–100)
+### Schritt 7.3 – Reihenhaus an Piazza del Duomo – Teil 3/4 (Y 88–101)
 
-- **Y-Bereich:** 88 bis 100
-- **Blöcke:** 1.656
+- **Y-Bereich:** 88 bis 101
+- **Blöcke:** 1.798
 - **Bauteile:** `w480206291`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.516 |
-| Glatter Stein | `smooth_stone` | 106 |
+| Rosa Keramik | `pink_terracotta` | 1.668 |
+| Glatter Stein | `smooth_stone` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 34 |
 
 **Beschreibung**
@@ -141,20 +143,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Reihenhaus an Piazza del Duomo – Teil 4/4 (Y 101–112)
+### Schritt 7.4 – Reihenhaus an Piazza del Duomo – Teil 4/4 (Y 102–115)
 
-- **Y-Bereich:** 101 bis 112
-- **Blöcke:** 1.780
+- **Y-Bereich:** 102 bis 115
+- **Blöcke:** 1.753
 - **Bauteile:** `w480206291`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 899 |
-| Terrakotta | `terracotta` | 726 |
-| Glatter Stein | `smooth_stone` | 83 |
-| Fichtenholz-Bretter | `spruce_planks` | 43 |
+| Rosa Keramik | `pink_terracotta` | 810 |
+| Terrakotta | `terracotta` | 769 |
+| Fichtenholz-Bretter | `spruce_planks` | 53 |
+| Ziegelsteine | `bricks` | 50 |
+| Glatter Stein | `smooth_stone` | 42 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
 
 **Beschreibung**
@@ -173,10 +176,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Reihenhaus an Piazza del Duomo – Teil 1/4 (Y 64–72)
+### Schritt 7.5 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 64–69)
 
-- **Y-Bereich:** 64 bis 72
-- **Blöcke:** 2.006
+- **Y-Bereich:** 64 bis 69
+- **Blöcke:** 1.647
 - **Bauteile:** `w480206292`
 
 **Teileliste**
@@ -184,9 +187,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 955 |
-| Hellgrauer Beton | `light_gray_concrete` | 885 |
-| Glatter Stein | `smooth_stone` | 135 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
+| Hellgrauer Beton | `light_gray_concrete` | 463 |
+| Graues Buntglas | `gray_stained_glass` | 163 |
+| Glatter Stein | `smooth_stone` | 60 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
@@ -204,19 +208,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Reihenhaus an Piazza del Duomo – Teil 2/4 (Y 73–84)
+### Schritt 7.6 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 70–79)
 
-- **Y-Bereich:** 73 bis 84
-- **Blöcke:** 1.914
+- **Y-Bereich:** 70 bis 79
+- **Blöcke:** 1.570
 - **Bauteile:** `w480206292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.704 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Grüner Beton | `green_concrete` | 96 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.341 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Grüner Beton | `green_concrete` | 68 |
+| Glatter Stein | `smooth_stone` | 53 |
 
 **Beschreibung**
 
@@ -234,19 +239,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Reihenhaus an Piazza del Duomo – Teil 3/4 (Y 85–97)
+### Schritt 7.7 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 80–90)
 
-- **Y-Bereich:** 85 bis 97
-- **Blöcke:** 2.066
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.723
 - **Bauteile:** `w480206292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.821 |
-| Graues Buntglas | `gray_stained_glass` | 133 |
-| Grüner Beton | `green_concrete` | 112 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Grüner Beton | `green_concrete` | 102 |
 
 **Beschreibung**
 
@@ -264,21 +269,51 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Reihenhaus an Piazza del Duomo – Teil 4/4 (Y 98–106)
+### Schritt 7.8 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 91–100)
 
-- **Y-Bereich:** 98 bis 106
-- **Blöcke:** 1.961
+- **Y-Bereich:** 91 bis 100
+- **Blöcke:** 1.600
 - **Bauteile:** `w480206292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.229 |
-| Hellgrauer Beton | `light_gray_concrete` | 518 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.390 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Grüner Beton | `green_concrete` | 85 |
+| Fichtenholz-Bretter | `spruce_planks` | 25 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.9 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 101–107)
+
+- **Y-Bereich:** 101 bis 107
+- **Blöcke:** 1.711
+- **Bauteile:** `w480206292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.338 |
+| Hellgrauer Beton | `light_gray_concrete` | 167 |
 | Fichtenholz-Bretter | `spruce_planks` | 109 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
-| Grüner Beton | `green_concrete` | 48 |
+| Ziegelsteine | `bricks` | 97 |
 
 **Beschreibung**
 
@@ -296,20 +331,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Reihenhaus an Via Ricasoli – Teil 1/4 (Y 66–74)
+### Schritt 7.10 – Reihenhaus an Via Ricasoli – Teil 1/4 (Y 66–74)
 
 - **Y-Bereich:** 66 bis 74
-- **Blöcke:** 2.012
+- **Blöcke:** 2.009
 - **Bauteile:** `w480206294`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.124 |
+| Glatter Sandstein | `smooth_sandstone` | 1.154 |
 | Polierter Tuffstein | `polished_tuff` | 664 |
-| Polierter Andesit | `polished_andesite` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Polierter Andesit | `polished_andesite` | 117 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
 
 **Beschreibung**
 
@@ -327,19 +362,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Reihenhaus an Via Ricasoli – Teil 2/4 (Y 75–85)
+### Schritt 7.11 – Reihenhaus an Via Ricasoli – Teil 2/4 (Y 75–85)
 
 - **Y-Bereich:** 75 bis 85
-- **Blöcke:** 1.860
+- **Blöcke:** 1.874
 - **Bauteile:** `w480206294`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.576 |
-| Polierter Andesit | `polished_andesite` | 212 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
+| Glatter Sandstein | `smooth_sandstone` | 1.575 |
+| Polierter Andesit | `polished_andesite` | 209 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
 
 **Beschreibung**
 
@@ -357,19 +392,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Reihenhaus an Via Ricasoli – Teil 3/4 (Y 86–97)
+### Schritt 7.12 – Reihenhaus an Via Ricasoli – Teil 3/4 (Y 86–97)
 
 - **Y-Bereich:** 86 bis 97
-- **Blöcke:** 2.013
+- **Blöcke:** 2.052
 - **Bauteile:** `w480206294`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.652 |
-| Polierter Andesit | `polished_andesite` | 262 |
-| Graues Buntglas | `gray_stained_glass` | 99 |
+| Glatter Sandstein | `smooth_sandstone` | 1.724 |
+| Polierter Andesit | `polished_andesite` | 238 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
 
 **Beschreibung**
 
@@ -387,20 +422,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Reihenhaus an Via Ricasoli – Teil 4/4 (Y 98–107)
+### Schritt 7.13 – Reihenhaus an Via Ricasoli – Teil 4/4 (Y 98–109)
 
-- **Y-Bereich:** 98 bis 107
-- **Blöcke:** 1.848
+- **Y-Bereich:** 98 bis 109
+- **Blöcke:** 1.965
 - **Bauteile:** `w480206294`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 817 |
-| Glatter Sandstein | `smooth_sandstone` | 816 |
-| Polierter Andesit | `polished_andesite` | 158 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
+| Glatter Sandstein | `smooth_sandstone` | 911 |
+| Terrakotta | `terracotta` | 847 |
+| Polierter Andesit | `polished_andesite` | 93 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Ziegelsteine | `bricks` | 54 |
 
 **Beschreibung**
 
@@ -418,20 +454,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 64–71)
+### Schritt 7.14 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 64–71)
 
 - **Y-Bereich:** 64 bis 71
-- **Blöcke:** 1.900
+- **Blöcke:** 1.837
 - **Bauteile:** `w480206295`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 921 |
+| Rosa Keramik | `pink_terracotta` | 859 |
 | Polierter Tuffstein | `polished_tuff` | 707 |
-| Glatter Stein | `smooth_stone` | 196 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Glatter Stein | `smooth_stone` | 125 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
@@ -449,19 +486,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 72–81)
+### Schritt 7.15 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 72–82)
 
-- **Y-Bereich:** 72 bis 81
-- **Blöcke:** 1.717
+- **Y-Bereich:** 72 bis 82
+- **Blöcke:** 1.913
 - **Bauteile:** `w480206295`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.402 |
-| Glatter Stein | `smooth_stone` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
+| Rosa Keramik | `pink_terracotta` | 1.635 |
+| Glatter Stein | `smooth_stone` | 189 |
+| Graues Buntglas | `gray_stained_glass` | 89 |
 
 **Beschreibung**
 
@@ -479,19 +516,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.15 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 82–92)
+### Schritt 7.16 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 83–93)
 
-- **Y-Bereich:** 82 bis 92
-- **Blöcke:** 1.896
+- **Y-Bereich:** 83 bis 93
+- **Blöcke:** 1.913
 - **Bauteile:** `w480206295`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.547 |
-| Glatter Stein | `smooth_stone` | 258 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
+| Rosa Keramik | `pink_terracotta` | 1.563 |
+| Glatter Stein | `smooth_stone` | 242 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
 
 **Beschreibung**
 
@@ -509,19 +546,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.16 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 93–103)
+### Schritt 7.17 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 94–104)
 
-- **Y-Bereich:** 93 bis 103
-- **Blöcke:** 1.866
+- **Y-Bereich:** 94 bis 104
+- **Blöcke:** 1.898
 - **Bauteile:** `w480206295`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.449 |
-| Glatter Stein | `smooth_stone` | 288 |
-| Graues Buntglas | `gray_stained_glass` | 129 |
+| Rosa Keramik | `pink_terracotta` | 1.599 |
+| Glatter Stein | `smooth_stone` | 191 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
 
 **Beschreibung**
 
@@ -539,21 +576,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.17 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 104–113)
+### Schritt 7.18 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 105–115)
 
-- **Y-Bereich:** 104 bis 113
-- **Blöcke:** 1.857
+- **Y-Bereich:** 105 bis 115
+- **Blöcke:** 1.908
 - **Bauteile:** `w480206295`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 890 |
-| Rosa Keramik | `pink_terracotta` | 673 |
-| Glatter Stein | `smooth_stone` | 126 |
-| Fichtenholz-Bretter | `spruce_planks` | 115 |
-| Graues Buntglas | `gray_stained_glass` | 53 |
+| Terrakotta | `terracotta` | 1.005 |
+| Rosa Keramik | `pink_terracotta` | 629 |
+| Fichtenholz-Bretter | `spruce_planks` | 143 |
+| Ziegelsteine | `bricks` | 59 |
+| Glatter Stein | `smooth_stone` | 53 |
+| Graues Buntglas | `gray_stained_glass` | 19 |
 
 **Beschreibung**
 
@@ -571,10 +609,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.18 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/6 (Y 65–66)
+### Schritt 7.19 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/6 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.920
+- **Blöcke:** 1.929
 - **Bauteile:** `w480206298`
 
 **Teileliste**
@@ -582,8 +620,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.701 |
-| Glatter Sandstein | `smooth_sandstone` | 198 |
-| Polierter Andesit | `polished_andesite` | 21 |
+| Glatter Sandstein | `smooth_sandstone` | 222 |
+| Polierter Andesit | `polished_andesite` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
@@ -601,19 +640,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.19 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/6 (Y 67–76)
+### Schritt 7.20 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/6 (Y 67–76)
 
 - **Y-Bereich:** 67 bis 76
-- **Blöcke:** 1.807
+- **Blöcke:** 1.910
 - **Bauteile:** `w480206298`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.598 |
-| Polierter Andesit | `polished_andesite` | 149 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Glatter Sandstein | `smooth_sandstone` | 1.634 |
+| Weißer Beton | `white_concrete` | 138 |
+| Glatter Stein | `smooth_stone` | 53 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
@@ -631,19 +673,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.20 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/6 (Y 77–85)
+### Schritt 7.21 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/6 (Y 77–86)
 
-- **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.680
+- **Y-Bereich:** 77 bis 86
+- **Blöcke:** 1.888
 - **Bauteile:** `w480206298`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.352 |
-| Weißer Beton | `white_concrete` | 220 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
+| Glatter Sandstein | `smooth_sandstone` | 1.544 |
+| Weißer Beton | `white_concrete` | 219 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+| Glatter Stein | `smooth_stone` | 53 |
 
 **Beschreibung**
 
@@ -661,9 +704,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.21 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/6 (Y 86–95)
+### Schritt 7.22 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/6 (Y 87–96)
 
-- **Y-Bereich:** 86 bis 95
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.880
 - **Bauteile:** `w480206298`
 
@@ -671,9 +714,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.572 |
-| Weißer Beton | `white_concrete` | 218 |
+| Glatter Sandstein | `smooth_sandstone` | 1.536 |
+| Weißer Beton | `white_concrete` | 201 |
 | Graues Buntglas | `gray_stained_glass` | 90 |
+| Glatter Stein | `smooth_stone` | 53 |
 
 **Beschreibung**
 
@@ -691,21 +735,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.22 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/6 (Y 96–103)
+### Schritt 7.23 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/6 (Y 97–103)
 
-- **Y-Bereich:** 96 bis 103
-- **Blöcke:** 2.071
+- **Y-Bereich:** 97 bis 103
+- **Blöcke:** 1.925
 - **Bauteile:** `w480206298`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.048 |
-| Terrakotta | `terracotta` | 661 |
-| Weißer Beton | `white_concrete` | 166 |
-| Glatter Stein | `smooth_stone` | 106 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
+| Glatter Sandstein | `smooth_sandstone` | 942 |
+| Terrakotta | `terracotta` | 693 |
+| Weißer Beton | `white_concrete` | 132 |
+| Glatter Stein | `smooth_stone` | 104 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
 
@@ -723,10 +767,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.23 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/6 (Y 104–110)
+### Schritt 7.24 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/6 (Y 104–112)
 
-- **Y-Bereich:** 104 bis 110
-- **Blöcke:** 1.545
+- **Y-Bereich:** 104 bis 112
+- **Blöcke:** 1.782
 - **Bauteile:** `w480206298`
 
 **Teileliste**
@@ -734,6 +778,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.545 |
+| Ziegelsteine | `bricks` | 237 |
 
 **Beschreibung**
 
@@ -751,7 +796,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.24 – Renaissance-Palazzo an Via Ricasoli – Teil 1/10 (Y 65–65)
+### Schritt 7.25 – Renaissance-Palazzo an Via Ricasoli – Teil 1/12 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.414
@@ -779,10 +824,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.25 – Renaissance-Palazzo an Via Ricasoli – Teil 2/10 (Y 65–67)
+### Schritt 7.26 – Renaissance-Palazzo an Via Ricasoli – Teil 2/12 (Y 65–66)
 
-- **Y-Bereich:** 65 bis 67
-- **Blöcke:** 2.084
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 1.781
 - **Bauteile:** `w480206299`
 
 **Teileliste**
@@ -790,9 +835,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.431 |
-| Tuffsteinziegel | `tuff_bricks` | 406 |
-| Tuffstein | `tuff` | 183 |
-| Glatter Stein | `smooth_stone` | 64 |
+| Tuffstein | `tuff` | 209 |
+| Polierter Andesit | `polished_andesite` | 69 |
+| Tuffsteinziegel | `tuff_bricks` | 66 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -810,20 +856,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.26 – Renaissance-Palazzo an Via Ricasoli – Teil 3/10 (Y 68–73)
+### Schritt 7.27 – Renaissance-Palazzo an Via Ricasoli – Teil 3/12 (Y 67–71)
 
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.763
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.520
 - **Bauteile:** `w480206299`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 876 |
-| Tuffstein | `tuff` | 420 |
-| Glatter Stein | `smooth_stone` | 323 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
+| Tuffstein | `tuff` | 774 |
+| Polierter Andesit | `polished_andesite` | 267 |
+| Tuffsteinziegel | `tuff_bricks` | 206 |
+| Glatter Stein | `smooth_stone` | 192 |
+| Graues Buntglas | `gray_stained_glass` | 81 |
 
 **Beschreibung**
 
@@ -841,21 +888,114 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.27 – Renaissance-Palazzo an Via Ricasoli – Teil 4/10 (Y 74–79)
+### Schritt 7.28 – Renaissance-Palazzo an Via Ricasoli – Teil 4/12 (Y 72–76)
 
-- **Y-Bereich:** 74 bis 79
-- **Blöcke:** 1.862
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.600
 - **Bauteile:** `w480206299`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 732 |
-| Polierter Andesit | `polished_andesite` | 515 |
-| Tuffstein | `tuff` | 420 |
+| Tuffstein | `tuff` | 800 |
+| Glatter Stein | `smooth_stone` | 345 |
+| Polierter Andesit | `polished_andesite` | 194 |
+| Tuffsteinziegel | `tuff_bricks` | 189 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.29 – Renaissance-Palazzo an Via Ricasoli – Teil 5/12 (Y 77–81)
+
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 1.528
+- **Bauteile:** `w480206299`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 774 |
+| Polierter Andesit | `polished_andesite` | 444 |
+| Glatter Stein | `smooth_stone` | 193 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.30 – Renaissance-Palazzo an Via Ricasoli – Teil 6/12 (Y 82–86)
+
+- **Y-Bereich:** 82 bis 86
+- **Blöcke:** 1.646
+- **Bauteile:** `w480206299`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 818 |
+| Glatter Stein | `smooth_stone` | 421 |
+| Polierter Andesit | `polished_andesite` | 368 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.31 – Renaissance-Palazzo an Via Ricasoli – Teil 7/12 (Y 87–91)
+
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.455
+- **Bauteile:** `w480206299`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 730 |
+| Polierter Andesit | `polished_andesite` | 376 |
+| Graues Buntglas | `gray_stained_glass` | 195 |
 | Glatter Stein | `smooth_stone` | 154 |
-| Graues Buntglas | `gray_stained_glass` | 41 |
 
 **Beschreibung**
 
@@ -873,20 +1013,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.28 – Renaissance-Palazzo an Via Ricasoli – Teil 5/10 (Y 80–85)
+### Schritt 7.32 – Renaissance-Palazzo an Via Ricasoli – Teil 8/12 (Y 92–96)
 
-- **Y-Bereich:** 80 bis 85
-- **Blöcke:** 1.796
+- **Y-Bereich:** 92 bis 96
+- **Blöcke:** 1.669
 - **Bauteile:** `w480206299`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 785 |
-| Glatter Stein | `smooth_stone` | 427 |
-| Tuffstein | `tuff` | 420 |
-| Graues Buntglas | `gray_stained_glass` | 164 |
+| Tuffstein | `tuff` | 840 |
+| Polierter Andesit | `polished_andesite` | 434 |
+| Glatter Stein | `smooth_stone` | 395 |
 
 **Beschreibung**
 
@@ -904,82 +1043,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.29 – Renaissance-Palazzo an Via Ricasoli – Teil 6/10 (Y 86–91)
+### Schritt 7.33 – Renaissance-Palazzo an Via Ricasoli – Teil 9/12 (Y 97–101)
 
-- **Y-Bereich:** 86 bis 91
-- **Blöcke:** 1.774
+- **Y-Bereich:** 97 bis 101
+- **Blöcke:** 1.584
 - **Bauteile:** `w480206299`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 631 |
-| Glatter Stein | `smooth_stone` | 518 |
-| Tuffstein | `tuff` | 420 |
-| Graues Buntglas | `gray_stained_glass` | 205 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.30 – Renaissance-Palazzo an Via Ricasoli – Teil 7/10 (Y 92–97)
-
-- **Y-Bereich:** 92 bis 97
-- **Blöcke:** 1.840
-- **Bauteile:** `w480206299`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.030 |
-| Tuffstein | `tuff` | 420 |
-| Glatter Stein | `smooth_stone` | 308 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 7.31 – Renaissance-Palazzo an Via Ricasoli – Teil 8/10 (Y 98–102)
-
-- **Y-Bereich:** 98 bis 102
-- **Blöcke:** 1.587
-- **Bauteile:** `w480206299`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 695 |
-| Tuffstein | `tuff` | 350 |
-| Glatter Stein | `smooth_stone` | 336 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
+| Tuffstein | `tuff` | 774 |
+| Polierter Andesit | `polished_andesite` | 444 |
+| Glatter Stein | `smooth_stone` | 166 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
 | Endsteinziegel | `end_stone_bricks` | 83 |
 
 **Beschreibung**
@@ -998,17 +1075,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.32 – Renaissance-Palazzo an Via Ricasoli – Teil 9/10 (Y 103–105)
+### Schritt 7.34 – Renaissance-Palazzo an Via Ricasoli – Teil 10/12 (Y 102–103)
 
-- **Y-Bereich:** 103 bis 105
-- **Blöcke:** 2.085
+- **Y-Bereich:** 102 bis 103
+- **Blöcke:** 1.424
 - **Bauteile:** `w480206299`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.085 |
+| Terrakotta | `terracotta` | 1.029 |
+| Tuffstein | `tuff` | 168 |
+| Polierter Andesit | `polished_andesite` | 142 |
+| Endsteinziegel | `end_stone_bricks` | 81 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -1026,17 +1107,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.33 – Renaissance-Palazzo an Via Ricasoli – Teil 10/10 (Y 106–111)
+### Schritt 7.35 – Renaissance-Palazzo an Via Ricasoli – Teil 11/12 (Y 104–106)
 
-- **Y-Bereich:** 106 bis 111
-- **Blöcke:** 1.637
+- **Y-Bereich:** 104 bis 106
+- **Blöcke:** 1.665
 - **Bauteile:** `w480206299`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.637 |
+| Terrakotta | `terracotta` | 1.598 |
+| Ziegelsteine | `bricks` | 67 |
 
 **Beschreibung**
 
@@ -1054,22 +1136,53 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.34 – Wohnturm an Piazza del Duomo
+### Schritt 7.36 – Renaissance-Palazzo an Via Ricasoli – Teil 12/12 (Y 107–113)
 
-- **Y-Bereich:** 64 bis 110
-- **Blöcke:** 1.986
+- **Y-Bereich:** 107 bis 113
+- **Blöcke:** 1.383
+- **Bauteile:** `w480206299`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.176 |
+| Ziegelsteine | `bricks` | 207 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.37 – Wohnturm an Piazza del Duomo
+
+- **Y-Bereich:** 64 bis 113
+- **Blöcke:** 1.990
 - **Bauteile:** `w480206300`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.026 |
-| Terrakotta | `terracotta` | 336 |
+| Tuffstein | `tuff` | 945 |
+| Terrakotta | `terracotta` | 353 |
 | Polierter Tuffstein | `polished_tuff` | 287 |
-| Polierter Andesit | `polished_andesite` | 248 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Fichtenholz-Bretter | `spruce_planks` | 17 |
+| Polierter Andesit | `polished_andesite` | 205 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Tuffsteinziegel | `tuff_bricks` | 65 |
+| Fichtenholz-Bretter | `spruce_planks` | 21 |
+| Ziegelsteine | `bricks` | 6 |
 
 **Beschreibung**
 
