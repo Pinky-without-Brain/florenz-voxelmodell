@@ -1,0 +1,148 @@
+{
+  "module": 7,
+  "title": "Campanile di Giotto",
+  "subtitle": "Bautüte 7: Der freistehende Glockenturm aus dreifarbigem Marmor – vom Sockel bis zur Terrasse",
+  "icon": "🔔",
+  "parts": {
+    "sockel_reliefs": {
+      "title": "Sockel mit Reliefs",
+      "description": "Du mauerst den Sockel von Y 65 bis 100 um die Turmmitte (−200 | 65): ein Quadrat von X −214 bis −186 und Z 51 bis 79, die Wand ist 5 Blöcke dick. Außen liegen zwei Reihen Schmuckfelder: unten Sechsecke aus rotem Granit mit weißem Rahmen auf grünem Grund, darüber Rauten aus dunklem Prismarin. Innen kommen Steinziegel, ganz innen glatter Stein.",
+      "tip": "Alle vier Seiten sehen gleich aus. Baue eine Seite fertig und wiederhole sie dann um den Turm herum, immer Lage für Lage.",
+      "caution": "Nur die Ostseite hat eine Türlücke in der Mitte (Z 62 bis 68, bis Y 75). Mauere sie nicht zu! Die Eckpfeiler stehen erst ab Y 66 einen Block vor.",
+      "fact": "Am Sockel des echten Turms zeigen sechseckige Reliefs unter anderem die Schöpfung und die Künste und Handwerke der Menschen. Die Originale stehen heute im Museo dell'Opera del Duomo, am Turm sitzen Kopien."
+    },
+    "eingangstuer": {
+      "title": "Eingangstür (Ostseite)",
+      "description": "In die Lücke der Ostwand (X −190 bis −186, Z 62 bis 68) setzt du einen Rahmen aus gemeißeltem Quarz mit Rundbogen. Mittig in der Wand, bei X −188, sitzt die Tür aus Kupferblöcken, mit zwei goldenen Griffen auf Y 68.",
+      "tip": "Baue zuerst die beiden Pfosten des Rahmens, dann den Bogen von beiden Seiten zur Mitte. Erst danach setzt du die Kupferblöcke der Tür ein.",
+      "caution": "Der Rahmen geht durch die ganze Wanddicke von 5 Blöcken, die Tür sitzt aber nur in der Mitte. Lass vorn und hinten die Öffnung frei.",
+      "fact": "Giotto begann den Bau des Campanile im Jahr 1334, als er Baumeister der Dombauhütte von Florenz war."
+    },
+    "treppe_1": {
+      "title": "Treppe, Teil 1 (Sockel)",
+      "description": "Im Inneren läuft die Treppe an den Wänden entlang, zwei Blöcke breit. Sie beginnt hinter der Tür bei (−191 | 61), steigt in kurzen Stufen mit flachen Podesten an den Ecken und führt zwischen Y 98 und 101 durch das Treppenloch in der Nordwest-Ecke (X −209 bis −207, Z 56 bis 58). Die Stufen sind polierter Andesit, darunter liegen Steinziegel als Stütze.",
+      "tip": "Jede Stufe steigt einen Block und geht einen Block weiter. Zähle die Stufen bis zum nächsten Podest, dort bleibt die Höhe gleich.",
+      "caution": "Setze die Treppe ganz an die Wand, mit der inneren Reihe direkt daneben. Das Treppenloch bleibt frei, hier kommt gleich die Decke herum.",
+      "fact": "Wer den echten Campanile besteigt, muss 414 Stufen bis zur Terrasse steigen."
+    },
+    "zwischendecke_1": {
+      "title": "Zwischendecke 1 (Y 100)",
+      "description": "Auf Y 100 legst du eine Decke aus glattem Stein in den Innenraum (X −209 bis −191, Z 56 bis 74), 19 mal 19 Blöcke. In der Nordwest-Ecke bleibt ein Loch von 3 mal 3 Blöcken für die Treppe. Die Decke liegt rundum auf der Wand auf.",
+      "tip": "Fülle zuerst den Rand an der Wand, dann die Fläche. Markiere dir das 3×3-Loch, bevor du anfängst.",
+      "caution": "Das Loch ist kein Fehler: Die Treppe steigt hier hindurch. Wenn du es zubaust, kommt niemand ins nächste Geschoss.",
+      "fact": "Giotto starb 1337. Zu dieser Zeit war erst das unterste Geschoss des Turms fertig."
+    },
+    "nischengeschoss": {
+      "title": "Nischengeschoss",
+      "description": "Von Y 101 bis 122 mauerst du das zweite Geschoss. Auf jeder Seite öffnen sich vier Rundbogennischen, nur einen Block tief, in jeder steht eine weiße Figur auf einem Sockel aus Andesit. Die Wand ist weiß, grün und rot getäfelt, innen mauerst du wieder Steinziegel und glatten Stein.",
+      "tip": "Die Nischen sitzen 2 und 7 Blöcke links und rechts der Seitenmitte, auf jeder Seite gleich. Zähle immer von der Mitte aus.",
+      "caution": "Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die Figur nicht: Sie steht auf Y 107 bis 110.",
+      "fact": "In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo."
+    },
+    "treppe_2": {
+      "title": "Treppe, Teil 2",
+      "description": "Die Treppe läuft im zweiten Geschoss einmal rund um den Innenraum, von Y 101 bis 123. Podeste an den Ecken wechseln sich mit kurzen Stufenfolgen ab. Zwischen Y 120 und 123 steigt sie wieder durch das Treppenloch (X −209 bis −207, Z 56 bis 58).",
+      "tip": "Arbeite dich im Uhrzeigersinn von der Nordwest-Ecke nach Osten vor. Das Treppenloch ist immer dein Start- und Zielpunkt.",
+      "caution": "Prüfe, dass zwischen Treppe und Decke darüber genug Platz bleibt: Nur im Treppenloch darf die Stufe bis zur Deckenhöhe reichen.",
+      "fact": "Der Campanile ist 84,7 Meter hoch. Im Modell mit 1 Block für 0,5 Meter sind das etwa 169 Blöcke."
+    },
+    "zwischendecke_2": {
+      "title": "Zwischendecke 2 (Y 122)",
+      "description": "Auf Y 122 liegt die nächste Decke aus glattem Stein, wieder 19 mal 19 Blöcke zwischen X −209 und −191 und Z 56 und 74. Das Treppenloch (3 mal 3, Nordwest-Ecke) bleibt offen. Sie ruht auf dem Gesims der Nischenwand.",
+      "tip": "Die Decke sieht genauso aus wie die erste. Du kannst dieselbe Reihenfolge benutzen: Rand, dann Fläche.",
+      "caution": "Achte darauf, dass die Stufen im Loch nicht in die Deckenlage ragen, außer wo die Treppe schon hindurchführt.",
+      "fact": "Der Turm hat einen quadratischen Grundriss mit gut 14 Metern Seitenlänge, im Modell 29 mal 29 Blöcke."
+    },
+    "biforien_1": {
+      "title": "Doppelbogenfenster, erstes Geschoss",
+      "description": "Von Y 123 bis 150 öffnet sich auf jeder Seite ein Biforium: zwei offene Spitzbögen, getrennt von einer Mittelsäule aus Quarzsäulen-Blöcken. Ein größerer Spitzbogen aus gemeißeltem Quarz umrahmt beide, seine Fläche liegt einen Block tiefer als die Wand. Die Fensterbänke liegen bei Y 126, der Kämpfer, also der Bogenansatz, bei Y 140.",
+      "tip": "Baue zuerst die Wand bis zur Fensterbank, dann die Mittelsäule. Die Bögen entstehen Schicht für Schicht von den Seiten zur Mitte.",
+      "caution": "Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große Rahmenbogen ist nur 1 Block tief.",
+      "fact": "Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter."
+    },
+    "treppe_3": {
+      "title": "Treppe, Teil 3",
+      "description": "Im dritten Geschoss steigt die Treppe von Y 123 bis 151 einmal rund um den Innenraum, direkt hinter den Fenstern. Die Stufen sind aus poliertem Andesit, die Stützen Steinziegel. Wieder endet sie im Treppenloch in der Nordwest-Ecke.",
+      "tip": "Die Fenster ändern nichts an der Treppe: Sie sitzt innen an der Wand und hält sich über die Stützblöcke selbst zusammen.",
+      "caution": "Vor den Fensteröffnungen liegt die Treppe frei im Raum. Baue die Stützblöcke unter jeder Stufe sorgfältig mit.",
+      "fact": "Nach Giottos Tod führte Andrea Pisano den Bau des Turms weiter."
+    },
+    "zwischendecke_3": {
+      "title": "Zwischendecke 3 (Y 150)",
+      "description": "Auf Y 150 liegt die dritte Decke aus glattem Stein im Innenraum (X −209 bis −191, Z 56 bis 74), wieder mit dem 3×3-Loch an der Nordwest-Ecke. Sie schließt auf dem Quarzziegel-Gesims der Wand ab.",
+      "tip": "Lege die Decke vom Rand zur Mitte. Das Loch lässt du als Letztes aus.",
+      "caution": "Im Loch steht die Treppe bis auf Deckenhöhe. Baue hier nichts dazu.",
+      "fact": "Vollendet wurde der Campanile von Francesco Talenti im Jahr 1359."
+    },
+    "biforien_2": {
+      "title": "Doppelbogenfenster, zweites Geschoss",
+      "description": "Von Y 151 bis 178 wiederholst du das Biforium des darunterliegenden Geschosses: zwei offene Spitzbögen mit Mittelsäule und einem Rahmenbogen. Die Fensterbänke liegen bei Y 154, der Bogenansatz bei Y 168. Die Wand ist weiß-grün-rot getäfelt, ein Quarzziegel-Gesims schließt sie bei Y 178 ab.",
+      "tip": "Das Muster ist gleich, nur 28 Blöcke höher. Du kannst die Maße vom ersten Geschoss übernehmen.",
+      "caution": "Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links davon liegen gleich viele Blöcke.",
+      "fact": "Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet."
+    },
+    "treppe_4": {
+      "title": "Treppe, Teil 4",
+      "description": "Im vierten Geschoss läuft die Treppe von Y 151 bis 179 rund um den Innenraum und endet wieder im Treppenloch der Nordwest-Ecke. Die Stufen bestehen aus poliertem Andesit mit Steinziegeln als Stütze. Podeste an den Ecken geben der Treppe Halt und Pausen.",
+      "tip": "Die Stufenfolgen liegen mittig an den Seiten, die Podeste an den Ecken. So findest du dich im Raum schnell zurecht.",
+      "caution": "Setze die Stufen nur an die Innenwand. In der Mitte des Raumes bleibt alles frei für die Glocken weiter oben.",
+      "fact": "Giotto war vor allem Maler. Seine Fresken in der Arenakapelle in Padua sind weltberühmt."
+    },
+    "zwischendecke_4": {
+      "title": "Zwischendecke 4 (Y 178)",
+      "description": "Auf Y 178 legst du die vierte Decke aus glattem Stein in den Innenraum (X −209 bis −191, Z 56 bis 74), mit Loch in der Nordwest-Ecke. Sie ist der Boden des obersten Geschosses mit den großen Fenstern.",
+      "tip": "Wenn du die Decke fertig hast, schau von oben auf den Plan: Das Loch liegt in der Ecke, in der alle Decken ein Loch haben.",
+      "caution": "Das Loch muss genau über den anderen liegen, sonst findet die Treppe den Weg nicht.",
+      "fact": "Der Turm war nach etwa 25 Jahren Bauzeit fertig: Baubeginn 1334, Vollendung 1359."
+    },
+    "triforien": {
+      "title": "Dreibogenfenster im Glockengeschoss",
+      "description": "Von Y 179 bis 221 baust du das höchste Geschoss. Auf jeder Seite öffnen sich drei hohe Spitzbögen, getrennt von zwei Quarzsäulen, mit Fensterbänken bei Y 186 und Bogenansatz bei Y 208. Darüber sitzt ein Giebel, der Wimperg, aus gemeißeltem Quarz bis zur Spitze auf Y 221.",
+      "tip": "Die drei Öffnungen sind zusammen 17 Blöcke breit. Zähle von der Seitenmitte nach links und rechts je 8 Blöcke.",
+      "caution": "Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der Giebel ist vorn offen, seine Fläche liegt einen Block tiefer.",
+      "fact": "Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt."
+    },
+    "treppe_5": {
+      "title": "Treppe, Teil 5",
+      "description": "Die letzte große Treppenlage steigt von Y 179 bis 222 durch das Glockengeschoss. Sie läuft innen an den Wänden entlang, direkt hinter den hohen Fenstern, und endet im Treppenloch der Nordwest-Ecke. Material sind wieder polierter Andesit und Steinziegel.",
+      "tip": "Das ist der längste Anstieg. Die Podeste an den Ecken sind bis zu 14 Blöcke lang, nutze sie zum Zählen.",
+      "caution": "Die Mitte des Raumes bleibt frei für den Glockenstuhl. Die Treppe darf nicht weiter hineinragen als die zwei Blöcke an der Wand.",
+      "fact": "Mit 84,7 Metern ist der Campanile rund 30 Meter niedriger als die Domkuppel samt Kreuz, die 114,5 Meter erreicht."
+    },
+    "glockenstuhl": {
+      "title": "Glockenstuhl mit sieben Glocken",
+      "description": "Bei Y 214 spannst du ein Kreuz aus Balken aus dunklem Eichenholz von Wand zu Wand. Daran hängen sieben hohle Glocken aus Kupferblöcken (Y 207 bis 213): in der Mitte (−200 | 65) die größte, der Campanone, ringsum vier mittlere und zwei kleine. Jede Glocke hängt an einem Hänger aus Holzblöcken am Balken.",
+      "tip": "Setze zuerst die Balken, dann zu jeder Glocke den Hänger. Die Kupferblöcke bilden eine hohle Kuppel, innen hängt der Klöppel.",
+      "caution": "Jede Glocke braucht mindestens einen Holzblock zwischen sich und dem Balken, sonst schwebt sie.",
+      "fact": "Die größte Glocke des Turms, der Campanone, wurde im Jahr 1705 gegossen."
+    },
+    "kranz_konsolenfries": {
+      "title": "Kranz mit Konsolenfries",
+      "description": "Über dem Glockengeschoss springt der Turm auf Y 222 bis 224 einen Block vor (Halbmaß 15, also X −215 und −185, Z 50 und 80). Auf Y 222 und 223 tragen Konsolen aus poliertem Andesit den Kranz, abwechselnd Block und Lücke, auf Y 224 liegt ein voller Gürtel aus Quarzziegeln. Die Wand dahinter bleibt 5 Blöcke dick.",
+      "tip": "Setze die Konsolen im Wechsel: Block, Lücke, Block. So wirkt der Rand wie ein Zahnfries.",
+      "caution": "Die Eckpfeiler enden bei Y 222. Darüber ist die Ecke ein ganz gewöhnliches Stück Wand.",
+      "fact": "Man nimmt an, dass Giotto über dem Turm einen Spitzhelm plante. Er wurde nie gebaut, der Turm endet in einer flachen Terrasse."
+    },
+    "treppe_6": {
+      "title": "Treppe, Austritt zur Terrasse",
+      "description": "Die letzten Stufen steigen von Y 222 bis 225 im Treppenloch der Nordwest-Ecke (X −209 bis −207, Z 56 bis 58) bis auf die Höhe der Terrasse. Sie bestehen aus poliertem Andesit mit Steinziegeln als Stütze. Von der letzten Stufe trittst du auf den Terrassenboden.",
+      "tip": "Das sind nur wenige Blöcke. Zähle dreimal, ob die Stufen bis genau auf Y 225 reichen.",
+      "caution": "Die letzte Stufe liegt auf Y 225, in gleicher Höhe wie der Boden der Terrasse. Setze sie nicht höher.",
+      "fact": "Der Campanile steht frei neben dem Dom und ist nicht mit ihm verbunden."
+    },
+    "terrassenboden": {
+      "title": "Terrassenboden",
+      "description": "Auf Y 225 legst du den Boden der Terrasse: ein Quadrat von 31 mal 31 Blöcken (X −215 bis −185, Z 50 bis 80). Er ist wie ein Schachbrett aus Quarz und dunklem Prismarin gemustert, Felder zu 3 mal 3 Blöcken. In der Nordwest-Ecke bleibt das Treppenloch offen.",
+      "tip": "Beginne an der Ecke mit einem hellen Feld und wechsle alle drei Blöcke die Farbe, in Reihen und in Spalten.",
+      "caution": "Lass das Loch von 3 mal 3 Blöcken frei (X −209 bis −207, Z 56 bis 58), sonst ist die Treppe versperrt.",
+      "fact": "Von der Terrasse des echten Campanile sieht man weit über Florenz und aus nächster Nähe auf die Kuppel von Brunelleschi."
+    },
+    "bruestung_und_fialen": {
+      "title": "Brüstung und Eckfialen",
+      "description": "Auf dem Terrassenrand (Halbmaß 14 bis 15) baust du die Brüstung auf Y 226 bis 228: unten ein voller Streifen, in der Mitte ein Maßwerk aus gemeißeltem Quarz, bei dem jede zweite Zelle offen bleibt, oben ein Gürtel aus Quarzziegeln. In den vier Ecken wachsen Fialen, schlanke Türmchen, bis zur Turmspitze auf Y 233.",
+      "tip": "Beginne mit dem vollen Streifen und setze dann die Maßwerk-Zellen im Wechsel. Die Fialen baust du aus 2 mal 2 Blöcken.",
+      "caution": "Die Ecken der Brüstung bleiben auf allen drei Lagen voll. Die Fialenspitze ist nur ein einzelner Block ganz außen in der Ecke.",
+      "fact": "Der Campanile von Giotto gilt als eines der schönsten Bauwerke der italienischen Gotik."
+    }
+  }
+}
