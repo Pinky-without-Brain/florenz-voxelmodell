@@ -1,0 +1,569 @@
+/* ==========================================================================
+   MEISTERBAUER-BAUANLEITUNG: DESIGN-SYSTEM
+   Farben, Badges, Teilebox und kinderfreundliche UI für Schritt-für-Schritt Baupläne
+   ========================================================================== */
+
+:root {
+  --brand-yellow: #FFD500;
+  --brand-yellow-dark: #E6BE00;
+  --brand-red: #E3000B;
+  --brand-blue: #0055BF;
+  --brand-dark: #1E232A;
+  --panel-bg: rgba(255, 255, 255, 0.95);
+  --panel-border: #D0D7DE;
+  --page-bg: #EAEFF5;
+  --accent-gold: #D4AF37;
+  --text-main: #1C2127;
+  --text-muted: #57606A;
+  --radius-lg: 16px;
+  --radius-md: 10px;
+  --radius-sm: 6px;
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.12);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: var(--page-bg);
+  color: var(--text-main);
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ==========================================================================
+   HEADER: MEISTERBAUER ARCHITEKTUR / MINECRAFT
+   ========================================================================== */
+.builder-header {
+  height: 60px;
+  background-color: var(--brand-dark);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.brand-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.builder-badge {
+  background-color: var(--brand-red);
+  color: var(--brand-yellow);
+  font-weight: 900;
+  font-size: 15px;
+  letter-spacing: 1px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 2px solid white;
+  text-shadow: 1px 1px 0 #000;
+}
+
+.project-title h1 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.project-title span {
+  font-size: 12px;
+  color: var(--brand-yellow);
+  font-weight: 500;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.module-dropdown {
+  background: #2D333B;
+  color: white;
+  border: 1px solid #444C56;
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn-header {
+  background: #373E47;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s;
+}
+
+.btn-header:hover {
+  background: #444C56;
+  color: var(--brand-yellow);
+}
+
+.btn-header.active {
+  background: var(--brand-yellow);
+  color: var(--brand-dark);
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(255, 204, 0, 0.4);
+}
+
+/* ==========================================================================
+   HAUPTBEREICH: 3D VIEWPORT & FLOATING CARDS
+   ========================================================================== */
+.main-stage {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+#viewport3d {
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+#viewport3d:active {
+  cursor: grabbing;
+}
+
+/* TEILEBOX (Oben links) */
+.parts-callout-box {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: var(--panel-bg);
+  border: 3px solid var(--brand-yellow);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  box-shadow: var(--shadow-lg);
+  min-width: 220px;
+  max-width: 320px;
+  backdrop-filter: blur(8px);
+  z-index: 50;
+  animation: slideInLeft 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.parts-box-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #E1E4E8;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+}
+
+.parts-box-title {
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.parts-box-total {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--brand-red);
+}
+
+.parts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 280px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.part-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #F6F8FA;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid #E1E4E8;
+}
+
+.part-preview-wrap {
+  width: 38px;
+  height: 38px;
+  background: white;
+  border: 1px solid #D0D7DE;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.part-img {
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+}
+
+.part-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.part-multiplier {
+  font-size: 16px;
+  font-weight: 900;
+  color: var(--text-main);
+  line-height: 1.1;
+}
+
+.part-name {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+/* KAMERA-WERKZEUGE (Oben rechts) */
+.camera-toolbar {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  background: var(--panel-bg);
+  padding: 6px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--panel-border);
+  z-index: 50;
+}
+
+.btn-tool {
+  background: white;
+  border: 1px solid #D0D7DE;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.15s;
+}
+
+.btn-tool:hover {
+  background: #F3F4F6;
+  border-color: var(--brand-yellow-dark);
+}
+
+.btn-tool.active {
+  background: var(--brand-yellow);
+  border-color: var(--brand-yellow-dark);
+  color: var(--brand-dark);
+}
+
+/* ==========================================================================
+   RECHTE SEITE: BAUSCHRITT-KARTE & FLORENZ-GESCHICHTEN
+   ========================================================================== */
+.step-info-drawer {
+  position: absolute;
+  bottom: 100px;
+  right: 20px;
+  width: 380px;
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: var(--radius-lg);
+  padding: 18px;
+  box-shadow: var(--shadow-lg);
+  backdrop-filter: blur(10px);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: calc(100vh - 200px);
+  overflow-y: auto;
+  animation: slideInRight 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.step-card-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+/* Runder Badge für die Schrittnummer */
+.step-number-badge {
+  width: 48px;
+  height: 48px;
+  background: var(--brand-yellow);
+  border: 3px solid var(--text-main);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 900;
+  color: var(--text-main);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+
+.step-card-title h2 {
+  font-size: 17px;
+  font-weight: 800;
+  color: var(--text-main);
+  line-height: 1.2;
+}
+
+.step-card-title span {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--brand-blue);
+  text-transform: uppercase;
+}
+
+.step-description {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #33383F;
+}
+
+/* Info-Boxen: Tipp, Achtung & Geschichte */
+.callout-box {
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  line-height: 1.4;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.callout-tip {
+  background: #FFFBEA;
+  border-left: 4px solid var(--brand-yellow-dark);
+}
+
+.callout-tip strong {
+  color: #7A5B00;
+}
+
+.callout-caution {
+  background: #FFF5F5;
+  border-left: 4px solid var(--brand-red);
+}
+
+.callout-caution strong {
+  color: var(--brand-red);
+}
+
+.callout-fact {
+  background: #F0F7FF;
+  border-left: 4px solid var(--brand-blue);
+}
+
+.callout-fact strong {
+  color: var(--brand-blue);
+}
+
+/* ==========================================================================
+   NAVIGATION BAR (UNTEN)
+   ========================================================================== */
+.footer-nav {
+  height: 80px;
+  background: white;
+  border-top: 2px solid #E1E4E8;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+  z-index: 100;
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.05);
+}
+
+.nav-btn {
+  height: 50px;
+  padding: 0 24px;
+  border-radius: 25px;
+  font-size: 15px;
+  font-weight: 800;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: all 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav-btn:active {
+  transform: scale(0.96);
+}
+
+.nav-btn-prev {
+  background: #E1E4E8;
+  color: var(--text-main);
+}
+
+.nav-btn-prev:hover:not(:disabled) {
+  background: #D0D7DE;
+}
+
+.nav-btn-next {
+  background: var(--brand-yellow);
+  color: var(--brand-dark);
+  border: 2px solid var(--brand-yellow-dark);
+}
+
+.nav-btn-next:hover:not(:disabled) {
+  background: #FFE033;
+}
+
+.nav-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.timeline-center {
+  flex: 1;
+  max-width: 500px;
+  margin: 0 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.timeline-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.step-slider {
+  width: 100%;
+  accent-color: var(--brand-yellow-dark);
+  height: 8px;
+  cursor: pointer;
+}
+
+/* ==========================================================================
+   STÜCKLISTEN-MODAL (BILL OF MATERIALS)
+   ========================================================================== */
+.modal-overlay {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.modal-overlay.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.modal-window {
+  width: 90%;
+  max-width: 600px;
+  background: white;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  max-height: 85vh;
+}
+
+.modal-header {
+  padding: 16px 20px;
+  background: var(--brand-dark);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-header h3 {
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.modal-close-btn {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.modal-body {
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.bom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.bom-table th, .bom-table td {
+  padding: 10px 14px;
+  text-align: left;
+  border-bottom: 1px solid #E1E4E8;
+  font-size: 13px;
+}
+
+.bom-table th {
+  background: #F6F8FA;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.bom-count {
+  font-weight: 800;
+  font-size: 15px;
+  color: var(--brand-blue);
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}

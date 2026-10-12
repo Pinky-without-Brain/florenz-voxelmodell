@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft Meisterbauer-Bauanleitung – Santa Maria del Fiore</title>
+  <link rel="stylesheet" href="css/builder-style.css">
+  
+  <!-- Three.js & OrbitControls für 3D WebGL Voxel Rendering -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+
+  <!-- ======================================================================
+       HEADER: ARCHITEKTUR / FLORENZ
+       ====================================================================== -->
+  <header class="builder-header">
+    <div class="brand-section">
+      <div class="builder-badge">MEISTERBAU</div>
+      <div class="project-title">
+        <h1>Cathedral of Santa Maria del Fiore</h1>
+        <span>Florenz • Minecraft 1.18+ Monumental-Maßstab 1 : 2,2</span>
+      </div>
+    </div>
+
+    <div class="header-controls">
+      <select id="moduleSelect" class="module-dropdown" title="Wähle das Baumodul (Bautüte)"></select>
+      <button id="btnToggleBase" class="btn-header" title="Bereits fertig gebaute Module als Fundament/Basis ein- oder ausblenden">
+        🏛️ Basis-Module: AN
+      </button>
+      <button id="btnOverview" class="btn-header" title="Gesamtes bisheriges Bauwerk auf einen Blick anzeigen">
+        🌟 Gesamtansicht
+      </button>
+      <button id="btnBom" class="btn-header" title="Gesamte Materialliste für dieses Modul anzeigen">
+        📋 Stückliste (BOM)
+      </button>
+    </div>
+  </header>
+
+  <!-- ======================================================================
+       HAUPTBEREICH: 3D VIEWPORT & INTERAKTION
+       ====================================================================== -->
+  <main class="main-stage">
+    <!-- 3D WebGL Canvas Container -->
+    <div id="viewport3d"></div>
+
+    <!-- TEILEBOX (Oben links) -->
+    <aside class="parts-callout-box">
+      <div class="parts-box-header">
+        <div class="parts-box-title">
+          <span>📦</span>
+          <span>Bautüte für diesen Schritt</span>
+        </div>
+        <div id="partsTotalCount" class="parts-box-total">0 Blöcke</div>
+      </div>
+      <div id="partsList" class="parts-list">
+        <!-- Dynamisch generiert aus StepAnalyzer -->
+      </div>
+    </aside>
+
+    <!-- KAMERA-WERKZEUGE (Oben rechts) -->
+    <div class="camera-toolbar">
+      <button id="btnCamLock" class="btn-tool active" title="Kamera-Blickwinkel beim Weiterblättern festhalten (verhindert Sprünge)">
+        🔒 Ansicht fest
+      </button>
+      <button id="btnCamMode" class="btn-tool" title="Wechsle zwischen Isometrisch und Perspektivisch">
+        📐 Isometrisch
+      </button>
+      <button id="btnCamIso" class="btn-tool" title="Klassische 45° Bau-Ansicht">
+        🎲 Iso 45°
+      </button>
+      <button id="btnCamTop" class="btn-tool" title="Draufsicht (Vogelperspektive)">
+        🗺️ Draufsicht
+      </button>
+      <button id="btnCamReset" class="btn-tool" title="Kamera zurücksetzen">
+        🔄 Reset
+      </button>
+    </div>
+
+    <!-- BAUSCHRITT-KARTE & FLORENZ-WISSEN (Rechts) -->
+    <aside class="step-info-drawer">
+      <div class="step-card-header">
+        <div id="stepBadge" class="step-number-badge">1</div>
+        <div class="step-card-title">
+          <span id="stepCategory">Modul 0: Fundament</span>
+          <h2 id="stepTitle">Bauschritt Titel</h2>
+        </div>
+      </div>
+
+      <p id="stepDesc" class="step-description">
+        Hier steht die kindgerechte Bauanweisung...
+      </p>
+
+      <div id="stepTip" class="callout-box callout-tip">
+        <!-- Tipp von Brunelleschi -->
+      </div>
+
+      <div id="stepCaution" class="callout-box callout-caution">
+        <!-- Vorsicht vor Baufehlern -->
+      </div>
+
+      <div id="stepFact" class="callout-box callout-fact">
+        <!-- Geschichte & Wissen über Florenz -->
+      </div>
+    </aside>
+  </main>
+
+  <!-- ======================================================================
+       FOOTER: SCHRITT-FÜR-SCHRITT NAVIGATION
+       ====================================================================== -->
+  <footer class="footer-nav">
+    <button id="btnPrev" class="nav-btn nav-btn-prev">
+      ◀ Zurück
+    </button>
+
+    <div class="timeline-center">
+      <div class="timeline-info">
+        <span id="stepProgressText">Schritt 1 von 10</span>
+        <span>Tipp: Nutze ⬅️ und ➡️ auf deiner Tastatur</span>
+      </div>
+      <input type="range" id="stepSlider" class="step-slider" min="0" max="9" value="0">
+    </div>
+
+    <button id="btnNext" class="nav-btn nav-btn-next">
+      Weiter ▶
+    </button>
+  </footer>
+
+  <!-- ======================================================================
+       MODAL: EXAKTE STÜCKLISTE (BILL OF MATERIALS)
+       ====================================================================== -->
+  <div id="bomModal" class="modal-overlay">
+    <div class="modal-window">
+      <div class="modal-header">
+        <h3>📋 Gesamte Stückliste (Bill of Materials)</h3>
+        <button id="bomModalClose" class="modal-close-btn">&times;</button>
+      </div>
+      <div id="bomModalBody" class="modal-body">
+        <!-- Dynamisch befüllt -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================================================================
+       DATEN- & ENGINE-SKRIPTE
+       ====================================================================== -->
+  <script src="js/data/block-types.js"></script>
+  <script src="js/engine/texture-generator.js"></script>
+  <script src="js/data/module_0_steps.js"></script>
+  <script src="js/data/module_1_steps.js"></script>
+  <script src="js/data/module_2_steps.js"></script>
+  <script src="js/data/module_3_steps.js"></script>
+  <script src="js/data/module_4_steps.js"></script>
+  <script src="js/data/module_5_steps.js"></script>
+  <script src="js/data/module_6_steps.js"></script>
+  <script src="js/data/module_7_steps.js"></script>
+  <script src="js/data/module_8_steps.js"></script>
+  <script src="js/data/module_9_steps.js"></script>
+  <script src="js/data/project-florence.js"></script>
+  <script src="js/engine/step-analyzer.js"></script>
+  <script src="js/engine/voxel-renderer.js"></script>
+  <script src="js/ui/app.js"></script>
+
+</body>
+</html>
