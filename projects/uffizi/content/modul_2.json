@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Mezzanin & Piano nobile",
+  "subtitle": "Bautüte 2: Das Zwischengeschoss und das Hauptgeschoss mit 66 Fenstern und Giebeln",
+  "icon": "🪟",
+  "parts": {
+    "mezzanin_wand": {
+      "title": "Mezzaninwand",
+      "description": "Über dem Gebälk mauerst du die Wand des Zwischengeschosses aus Sandputz, 4 Blöcke dick, von Lage 15 bis 20. Über jeder Öffnungsmitte sitzt ein Fenster, 3 breit und 2 hoch, mit einem Rahmen aus Pietra serena. Das Glas liegt in der dritten Wandzelle.",
+      "tip": "Zähle die Fenster: 3 je Joch, 33 je Flügel. Ein Fehler fällt später an den Giebeln auf.",
+      "caution": "Die Fensterlaibung ist 4 Blöcke tief. Lass die Zellen vor und hinter dem Glas wirklich frei.",
+      "fact": "Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss mit 8 Metern."
+    },
+    "nobile_wand": {
+      "title": "Piano nobile mit Fenstern und Giebeln",
+      "description": "Das Hauptgeschoss (Lage 21 bis 36, bis Y 101) bekommt dieselbe Wand, aber größere Fenster: 5 Blöcke breit, 11 hoch, mit einem Rahmen aus Pietra serena und einer Lichte von 3 mal 8. Darüber setzt du auf Lage 34 bis 36 abwechselnd einen Dreiecksgiebel und einen Segmentgiebel.",
+      "tip": "Fange mit einem Dreiecksgiebel an und wechsle dann bei jedem Fenster. Der Segmentgiebel hat eine Lücke in der Mitte der oberen Lage.",
+      "caution": "Die oberste Lage 36 ist zugleich Gesimsband. Die Giebelzellen gehören dem Giebel, das Band lässt sie aus.",
+      "fact": "Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe von der Brücke über die Via della Ninna in die Dachloggia."
+    },
+    "gurtgesimse": {
+      "title": "Gurtgesimse",
+      "description": "Zwei Bänder aus Pietra serena, 2 Blöcke tief, laufen über die Fassade: unter dem Mezzanin (Lage 19 und 20) und unter der Dachloggia (Lage 35 und 36). Sie lassen die Zellen der Giebel aus.",
+      "tip": "Lege das Band über die Fensterrahmen, nicht dazwischen.",
+      "caution": "An den Giebeln hat das Detail Vorrang vor dem Band. Wer die Zelle doppelt belegt, bekommt einen Baufehler.",
+      "fact": "Die Gesimse unterteilen die Fassade in drei Geschosse, wie in Vasaris Zeichnungen."
+    }
+  }
+}

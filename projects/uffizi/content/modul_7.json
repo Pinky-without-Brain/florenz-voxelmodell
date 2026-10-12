@@ -1,0 +1,57 @@
+{
+  "module": 7,
+  "title": "Decken, Innenwände & Treppen",
+  "subtitle": "Bautüte 7: Die Geschossdecken, die Mittelwände der Flügel, vier Treppen und die Treppe zum Korridor",
+  "icon": "🪜",
+  "parts": {
+    "decke_14": {
+      "title": "Decke über dem Erdgeschoss",
+      "description": "Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.",
+      "tip": "Lege die Platte lagenweise von den Wänden nach innen.",
+      "caution": "Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.",
+      "fact": "Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich."
+    },
+    "decke_20": {
+      "title": "Decke über dem Mezzanin",
+      "description": "Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.",
+      "tip": "Gleiche Arbeit wie die Decke darunter.",
+      "caution": "Die Fensterrahmen der Fassade enden unter dieser Lage.",
+      "fact": "Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch."
+    },
+    "decke_36": {
+      "title": "Decke über dem Piano nobile",
+      "description": "Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.",
+      "tip": "Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.",
+      "caution": "Die Treppe zum Korridor endet bündig mit dieser Platte.",
+      "fact": "Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti."
+    },
+    "decke_traufe": {
+      "title": "Traufdecke",
+      "description": "Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.",
+      "tip": "Beginne am Rand, dort liegen die Wände als Auflager.",
+      "caution": "Unter dem Dach bleibt der Tribuna-Raum offen.",
+      "fact": "Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern."
+    },
+    "spinnwand_fluegel": {
+      "title": "Längsmittelwand der Flügel",
+      "description": "In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.",
+      "tip": "Die Türen liegen auf der Mitte des Jochs.",
+      "caution": "Die Wand ist optional und trägt die Decken in der Mitte der Flügel.",
+      "fact": "Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen."
+    },
+    "treppen": {
+      "title": "Vier Treppen in den Flügelenden",
+      "description": "In den Nord- und Südenden beider Flügel führen vier gerade Treppen, 6 Blöcke breit, mit 36 Stufen vom Erdgeschoss zum Piano nobile. Jede Stufe ist 1 Block hoch und 1 tief. Die Deckenlöcher darüber geben genug Kopffreiheit.",
+      "tip": "Baue die Treppe als Block aus Stufen von unten nach oben.",
+      "caution": "Die Decken lassen die Löcher über der Treppe frei.",
+      "fact": "Im Modell sind die Treppen vereinfachte, gerade Läufe."
+    },
+    "korridor_treppe": {
+      "title": "Treppe zum Cavalcavia und Austritt zum Arno",
+      "description": "In der Südwestspitze der Uffizien führt eine Treppe, 7 Blöcke breit, mit 23 Stufen von Y 101 hinunter bis Y 78, dem Boden des Korridors am Arno. Seitenwände rahmen sie, unten schließt ein Podest an. Von dort führt eine Tür, 7 breit, in die Südwestwand zum Lungarno-Korridor.",
+      "tip": "Zähle die Stufen: 23 Stufen für 23 Blöcke Höhe.",
+      "caution": "Die Treppe liegt in den Uffizien, der Korridor draußen gehört zu Modul 8.",
+      "fact": "Der Korridor überwand hier den Höhenunterschied zwischen Uffizien und Lungarno. Die Lage der Treppe ist im Modell eine Annahme."
+    }
+  }
+}

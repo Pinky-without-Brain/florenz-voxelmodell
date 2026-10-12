@@ -1,0 +1,43 @@
+{
+  "module": 3,
+  "title": "Dachloggia & Kranzgesims",
+  "subtitle": "Bautüte 3: Der verglaste Gang unter dem Dach, das Kranzgesims und der Galerieboden",
+  "icon": "🏞️",
+  "parts": {
+    "loggia_boden": {
+      "title": "Galerieboden",
+      "description": "Du legst die Platte auf Lage 36 zwischen Fassade und Rückwand (Tiefe 4 bis 14), Oberkante Y 101. Sie ist der Boden der Dachloggia und trägt die Rückwand.",
+      "tip": "Beginne an der Wand des Piano nobile, dort findet die Platte Halt.",
+      "caution": "Dieser Boden ist ein Stück derselben Decke, die du in Modul 7 vollendest. Hier brauchst du ihn, damit die Loggia nicht schwebt.",
+      "fact": "Im Modell ist die Dachloggia ein durchgehender, verglaster Gang. Er liegt auf der Höhe von Y 102 bis 114."
+    },
+    "loggia_pfeiler_saeulen": {
+      "title": "Pfeiler und Säulen der Dachloggia",
+      "description": "Du wiederholst den Rhythmus des Erdgeschosses: Pfeiler 5 mal 3 (Lage 37 bis 49) und Säulen 2 mal 2 (Lage 37 bis 47) mit Kapitellen aus gemeißeltem Quarz (Lage 48 und 49). Nischen gibt es hier nicht.",
+      "tip": "Nimm die Pfeiler des Erdgeschosses als Lehre: gleiche Abstände, gleiche Breite.",
+      "caution": "Setze die Pfeiler genau über die Pfeiler der unteren Geschosse, sonst verläuft die Last schief.",
+      "fact": "Auch oben stehen Pfeiler und Säulen abwechselnd. Das gibt der Fassade ihren gleichmäßigen Takt."
+    },
+    "loggia_verglasung": {
+      "title": "Verglasung der Dachloggia",
+      "description": "Du schließt die Öffnungen mit Glas, 3. Zelle von der Fassade, von Lage 37 bis 47. Das Glas läuft durchgehend hinter den Säulen.",
+      "tip": "Die Glasscheibe steht in der Mitte des Gebälks, damit die Pfeiler vor ihr stehen.",
+      "caution": "Über dem Glas (Lage 48 und 49) bleiben die Öffnungen frei, so will es der Entwurf.",
+      "fact": "Der Bauteil-Katalog folgt dem heutigen Zustand mit durchgehender Verglasung."
+    },
+    "loggia_rueckwand": {
+      "title": "Rückwand der Dachloggia",
+      "description": "Die Rückwand, 4 Blöcke dick (Tiefe 11 bis 14), reicht von Lage 37 bis 49. Sie ist aus Sandputz, in jedem Joch ist mittig ein Durchgang ausgespart, 3 breit und 8 hoch.",
+      "tip": "Der Durchgang liegt genau hinter der mittleren Öffnung, auf der Achse der Tür darunter.",
+      "caution": "Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.",
+      "fact": "Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Du krönst die Fassade mit einem Gebälk aus Pietra serena (Lage 50 und 51, Y 115 und 116). Auf Lage 51 ragt das Gesims einen Block über den Platz hinaus. Auf Lage 50 sitzen Konsolen, jeder zweite Block.",
+      "tip": "Erst das Gebälk, dann die Auskragung, dann die Konsolen.",
+      "caution": "Die Auskragung steht über dem Platz, nicht über dem Grundriss. Zähle den einen Block genau.",
+      "fact": "Im Modell ragt nur das Kranzgesims über den Grundriss hinaus, einen Block weit über den Platz."
+    }
+  }
+}
