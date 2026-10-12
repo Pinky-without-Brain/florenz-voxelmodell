@@ -264,7 +264,7 @@ function main(argv, env = {}) {
   const adj = q.parz.adjazenz();
   const geschrieben = [];
   for (const id of q.ids) { // aufsteigende IDs
-    if (vorhanden.has(id)) continue;
+    if (vorhanden.has(id) || (q.vorrangIds && q.vorrangIds.has(id))) continue; // Wahrzeichen-Vorrang: keine Hausakte
     const nach = [...(adj.get(id) || [])].map((n) => vorhanden.get(n)).filter(Boolean);
     const akte = entwurf(q.byId.get(id), nach, q.umfeld);
     fs.writeFileSync(path.join(q.aktenDir, id + '.json'), JSON.stringify(akte, null, 2) + '\n');

@@ -1,7 +1,7 @@
 'use strict';
 // Kontext des Hausgenerators: Parzellenraster, Umfeld, Boden und Pläne der Häuser eines Quartiers.
 
-const { makeParzellen } = require('./parzellen.js');
+const { makeParzellen, istVorrangId } = require('./parzellen.js');
 const { umfeldVon } = require('./umfeld.js');
 const { planHaus } = require('./haus.js');
 const A = require('./akte.js');
@@ -21,8 +21,8 @@ class Kontext {
     this._claims = new Set();
   }
 
-  /** Wird das Haus gebaut (im Projekt und mit gültiger Akte)? */
-  gebaut(id) { return this.projekt.has(id) && this.akten.has(id); }
+  /** Wird das Haus gebaut (im Projekt und mit gültiger Akte)? Wahrzeichen-Vorrang zählt als gebaut. */
+  gebaut(id) { return istVorrangId(id) || (this.projekt.has(id) && this.akten.has(id)); }
 
   /** Plan eines Hauses (gecacht); akte optional, sonst aus akten. */
   plan(id, akte) {
@@ -37,8 +37,9 @@ class Kontext {
     return p;
   }
 
-  /** Beansprucht die Zelle für ein überstehendes Bauteil (Gesims); true, wenn sie noch frei war. */
+  /** Beansprucht die Zelle für ein überstehendes Bauteil (Gesims); true, wenn sie noch frei war. Vorrangzellen nie. */
   beanspruche(x, y, z) {
+    if (this.parz.istVorrang(x, z)) return false;
     const k = `${x},${y},${z}`;
     if (this._claims.has(k)) return false;
     this._claims.add(k);
@@ -48,13 +49,13 @@ class Kontext {
 
 /**
  * Bequemer Aufbau für Tests: gebaeude = alle Häuser (alle werden gebaut), akten = Objekt oder Map id -> Akte.
- * opts: { groundTopY, flaechen }.
+ * opts: { groundTopY, flaechen, vorrang: [{ id, polygon, projekt }] }.
  */
-function makeKontext({ gebaeude, akten, groundTopY, flaechen }) {
+function makeKontext({ gebaeude, akten, groundTopY, flaechen, vorrang }) {
   const am = akten instanceof Map ? akten : new Map(Object.entries(akten || {}));
   const valid = new Map([...am].filter(([, a]) => A.validiere(a).length === 0));
   return new Kontext({
-    parz: makeParzellen(gebaeude),
+    parz: makeParzellen(gebaeude, { vorrang }),
     umfeld: umfeldVon(flaechen || {}),
     groundTopY: groundTopY || (() => 63),
     akten: valid,

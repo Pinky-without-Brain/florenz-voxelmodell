@@ -47,6 +47,10 @@ function fromFolder(name, dir, root) {
   if (!ID_RE.test(json.id)) return { problem: `projects/${name}: ungültige id (erlaubt ${ID_RE})` };
   if (!TYPES.includes(json.type)) return { problem: `projects/${name}: type muss ${TYPES.join('|')} sein` };
   if (typeof json.title !== 'string' || !json.title) return { problem: `projects/${name}: title fehlt` };
+  if (json.type === 'wahrzeichen') {
+    const felder = require('./wahrzeichen/projekt.js').pruefeFelder(json);
+    if (felder.length) return { problem: `projects/${name}: ${felder.join('; ')}` };
+  }
   const sub = (...p) => path.join(dir, ...p);
   const iface = sub('spec', 'interfaces.js');
   const ground = sub('spec', 'ground.js');

@@ -1,0 +1,5 @@
+{ "module": 0, "title": "Sockel", "subtitle": "Testwahrzeichen: Platte und Wandband", "icon": "🏛️",
+  "parts": {
+    "bodenplatte": { "title": "Bodenplatte", "description": "Pflasterplatte über der Maske.", "tip": "Zuerst die Platte.", "caution": "Der Hof bleibt frei.", "fact": "Synthetischer Testbau." },
+    "wandband": { "title": "Wandband", "description": "Zwei Lagen Wand im Abstand bis 2 zum Rand.", "tip": "Lage für Lage.", "caution": "Der Hof bleibt frei.", "fact": "Synthetischer Testbau." }
+  } }
