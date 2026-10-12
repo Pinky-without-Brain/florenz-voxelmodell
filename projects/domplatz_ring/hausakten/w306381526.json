@@ -1,11 +1,11 @@
 {
   "id": "w306381526",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "14. Jh., 1933-37 restauriert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 9
+      "hoeheBl": 10
     },
     {
       "art": "og",
@@ -17,7 +17,7 @@
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -26,8 +26,8 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 5,
+      "art": "bottega_arcata",
+      "portalBreiteBl": 7,
       "fenster": "rechteck_vergittert"
     },
     "fenster": {
@@ -39,15 +39,18 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "ruestloecher",
+      "wappen"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Marignolli",
+  "sicherheit": 0.65,
+  "notiz": "Zwei hohe Spitzbogenöffnungen im EG, Quader bis zum ersten Obergeschoss, zwei Geschosse Filaretto, oben Putz, zugemauerte Fenster, Rüstlöcher (it.Wikipedia). Turm gekappt und in Palazzo eingebunden; Höhe nicht belegt. Dach unbekannt.",
   "name": "Torre dei Marignolli"
 }

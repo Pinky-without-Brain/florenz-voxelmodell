@@ -1,11 +1,15 @@
 {
   "id": "w114220146",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1826-1830 (Baccani)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
@@ -13,37 +17,40 @@
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 9,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
-      "laeden": null
+      "typ": "rahmen_stuck",
+      "rahmen": "putz",
+      "laeden": "gruen"
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "gronda_holz",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "saeulenvorhalle_mitte",
+      "nischen_statuen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze)",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia klassizistischer Bau von Baccani (1826-30), Südseite der Piazza; Mittelbau 9 Achsen, Säulenvorhalle, Seitenbauten mit neun EG-Arkaden, Dachtraufe \"alla romana\". Putzfarbe und Fensterrahmen-Details sind Annahmen. Zuvor fälschlich als Renaissance-Palazzo geführt.",
   "name": "Palazzo dei Canonici"
 }

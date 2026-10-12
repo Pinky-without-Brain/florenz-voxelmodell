@@ -8,11 +8,11 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 95.954 |
+| Blöcke | 95.967 |
 | Bauschritte | 55 |
 | Y-Bereich | 65 bis 115 |
-| X-Ausdehnung | -387 bis -257 (131 Blöcke) |
-| Z-Ausdehnung | 72 bis 204 (133 Blöcke) |
+| X-Ausdehnung | -387 bis -256 (132 Blöcke) |
+| Z-Ausdehnung | 69 bis 204 (136 Blöcke) |
 | Kleinster Schritt | 1.400 Blöcke (Schritt 2.16) |
 | Mittlerer Schritt | 1.745 Blöcke |
 | Größter Schritt | 2.072 Blöcke (Schritt 2.10) |
@@ -27,20 +27,20 @@
 | Polierter Tuffstein | `polished_tuff` | 12.566 | 13,1 % |
 | Weißer Beton | `white_concrete` | 9.430 | 9,8 % |
 | Tuffstein | `tuff` | 8.029 | 8,4 % |
-| Glatter Stein | `smooth_stone` | 4.135 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 4.060 | 4,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.390 | 3,5 % |
-| Graues Buntglas | `gray_stained_glass` | 3.265 | 3,4 % |
+| Graues Buntglas | `gray_stained_glass` | 3.230 | 3,4 % |
 | Polierter Andesit | `polished_andesite` | 2.891 | 3,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.736 | 2,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.744 | 1,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 639 | 0,7 % |
+| Fichtenholz-Bretter | `spruce_planks` | 762 | 0,8 % |
 | Grüner Beton | `green_concrete` | 320 | 0,3 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w166821304` | Loggia del Bigallo | 3.688 | 2.1–2.2 |
+| 1 | `w166821304` | Loggia del Bigallo | 3.701 | 2.1–2.2 |
 | 2 | `w491923432` | Reihenhaus an Via dei Calzaiuoli | 12.278 | 2.3–2.9 |
 | 3 | `w491923433` | Reihenhaus an Piazza degli Adimari | 8.102 | 2.10–2.13 |
 | 4 | `w491923439` | Renaissance-Palazzo an Via dei Tosinghi | 18.615 | 2.14–2.25 |
@@ -54,24 +54,23 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Loggia del Bigallo – Teil 1/2 (Y 65–78)
+### Schritt 2.1 – Loggia del Bigallo – Teil 1/2 (Y 65–79)
 
-- **Y-Bereich:** 65 bis 78
-- **Blöcke:** 1.865
+- **Y-Bereich:** 65 bis 79
+- **Blöcke:** 1.862
 - **Bauteile:** `w166821304`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 813 |
-| Tuffstein | `tuff` | 611 |
+| Glatter Stein | `smooth_stone` | 775 |
+| Tuffstein | `tuff` | 658 |
 | Polierter Tuffstein | `polished_tuff` | 429 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1352-1358 (Gotik)), 2 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Bigallo, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -83,26 +82,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.2 – Loggia del Bigallo – Teil 2/2 (Y 79–91)
+### Schritt 2.2 – Loggia del Bigallo – Teil 2/2 (Y 80–91)
 
-- **Y-Bereich:** 79 bis 91
-- **Blöcke:** 1.823
+- **Y-Bereich:** 80 bis 91
+- **Blöcke:** 1.839
 - **Bauteile:** `w166821304`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 744 |
+| Glatter Stein | `smooth_stone` | 707 |
 | Terrakotta | `terracotta` | 541 |
-| Tuffstein | `tuff` | 470 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
+| Tuffstein | `tuff` | 423 |
+| Fichtenholz-Bretter | `spruce_planks` | 123 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1352-1358 (Gotik)), 2 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Bigallo, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -114,7 +114,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.3 – Reihenhaus an Via dei Calzaiuoli – Teil 1/7 (Y 66–67)
 

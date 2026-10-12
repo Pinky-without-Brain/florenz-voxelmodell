@@ -1,48 +1,60 @@
 {
   "id": "w307544521",
   "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "epoche": "um 1300, Umbau 1838-1843 (L. Pasqui)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 7
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 7
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
+    "achsen": 11,
     "material": "putz",
     "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "bottega_arcata",
-      "fenster": "rundbogen"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "typ": "tabernakel",
+      "rahmen": "putz",
       "laeden": "gruen"
     },
     "gesims": {
-      "art": "cornicione_stein",
+      "art": "putzgesims",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "putzbugnato_eg",
+      "dreiecksgiebel_fenster"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pasqui",
+  "sicherheit": 0.65,
+  "notiz": "Zwischen Via Bufalini und Via dei Servi: Kern um 1300 (Steinquader im alten EG), 1838-43 von Pasqui modernisiert, 11 Achsen an der Via dei Servi, EG mit gemalter Rustika, Obergeschosse verputzt, Dreiecksgiebel über den Fenstern der ersten beiden Ebenen (it.Wikipedia). Dokumentierte 5-6 Geschosse passen nicht zu hoeheBl 30.",
   "name": "Palazzo Pasqui"
 }

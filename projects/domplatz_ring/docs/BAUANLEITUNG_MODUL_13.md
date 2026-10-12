@@ -38,7 +38,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w491889269` | Reihenhaus an Piazza di San Benedetto | 6.018 | 13.1–13.3 |
 | 2 | `w491889271` | Palazzo des Cinquecento an Via dello Studio | 13.172 | 13.4–13.11 |
-| 3 | `w491889292` | Palazzo des Ottocento an Piazza del Duomo | 13.975 | 13.12–13.19 |
+| 3 | `w491889292` | Casa Sermanni | 13.975 | 13.12–13.19 |
 | 4 | `w491889294` | Reihenhaus an Via dei Bonizzi | 3.435 | 13.20–13.21 |
 
 ## Bauschritte
@@ -369,7 +369,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.12 – Palazzo des Ottocento an Piazza del Duomo – Teil 1/8 (Y 66–66)
+### Schritt 13.12 – Casa Sermanni – Teil 1/8 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 757
@@ -383,7 +383,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -397,7 +397,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.13 – Palazzo des Ottocento an Piazza del Duomo – Teil 2/8 (Y 67–68)
+### Schritt 13.13 – Casa Sermanni – Teil 2/8 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
 - **Blöcke:** 2.049
@@ -413,7 +413,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -427,7 +427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.14 – Palazzo des Ottocento an Piazza del Duomo – Teil 3/8 (Y 69–76)
+### Schritt 13.14 – Casa Sermanni – Teil 3/8 (Y 69–76)
 
 - **Y-Bereich:** 69 bis 76
 - **Blöcke:** 2.024
@@ -443,7 +443,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -457,7 +457,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.15 – Palazzo des Ottocento an Piazza del Duomo – Teil 4/8 (Y 77–82)
+### Schritt 13.15 – Casa Sermanni – Teil 4/8 (Y 77–82)
 
 - **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.856
@@ -473,7 +473,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -487,7 +487,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.16 – Palazzo des Ottocento an Piazza del Duomo – Teil 5/8 (Y 83–88)
+### Schritt 13.16 – Casa Sermanni – Teil 5/8 (Y 83–88)
 
 - **Y-Bereich:** 83 bis 88
 - **Blöcke:** 1.780
@@ -503,7 +503,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -517,7 +517,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.17 – Palazzo des Ottocento an Piazza del Duomo – Teil 6/8 (Y 89–95)
+### Schritt 13.17 – Casa Sermanni – Teil 6/8 (Y 89–95)
 
 - **Y-Bereich:** 89 bis 95
 - **Blöcke:** 2.064
@@ -533,7 +533,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -547,7 +547,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.18 – Palazzo des Ottocento an Piazza del Duomo – Teil 7/8 (Y 96–98)
+### Schritt 13.18 – Casa Sermanni – Teil 7/8 (Y 96–98)
 
 - **Y-Bereich:** 96 bis 98
 - **Blöcke:** 1.860
@@ -563,7 +563,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -577,7 +577,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.19 – Palazzo des Ottocento an Piazza del Duomo – Teil 8/8 (Y 99–102)
+### Schritt 13.19 – Casa Sermanni – Teil 8/8 (Y 99–102)
 
 - **Y-Bereich:** 99 bis 102
 - **Blöcke:** 1.585
@@ -591,7 +591,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 

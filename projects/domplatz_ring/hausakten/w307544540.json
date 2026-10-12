@@ -1,7 +1,7 @@
 {
   "id": "w307544540",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "14. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -27,11 +27,11 @@
     "putzfarbe": null,
     "erdgeschoss": {
       "art": "tor_und_fenster",
-      "portalBreiteBl": 5,
-      "fenster": "rundbogen"
+      "portalBreiteBl": 4,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "rechteck",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -39,15 +39,18 @@
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "abbaino_oben",
+      "wappen_visdomini"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Visdomini",
+  "sicherheit": 0.6,
+  "notiz": "Via delle Oche: quadratischer Turm, unten große Steinquader, oben Filaretto, übereinanderliegende Fenster unterschiedlicher Größe, Abbaino auf dem gekappten Gipfel, Wappen der Visdomini (it.Wikipedia). Höhe nicht belegt.",
   "name": "Torre dei Visdomini"
 }

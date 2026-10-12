@@ -30,28 +30,31 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck_vergittert"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 4,
+      "fenster": "kniefenster"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "keiner",
       "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "buste_antonino",
+      "inschrifttafel"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Pierozzi",
+  "sicherheit": 0.65,
+  "notiz": "Geburtshaus des hl. Antoninus, Via dello Studio 25r/Via della Canonica 2: sichtbares Bruchsteinmauerwerk, unregelmäßige Öffnungen, Kniefenster zur Via della Canonica, Tür im zweiten Geschoss, Büste über der Tür (it.Wikipedia). Restaurierungen 1912, 2019. Höhe nicht belegt.",
   "name": "Torre dei Pierozzi"
 }

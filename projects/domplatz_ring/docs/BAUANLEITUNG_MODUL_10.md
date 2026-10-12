@@ -8,39 +8,39 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.136 |
+| Blöcke | 48.776 |
 | Bauschritte | 28 |
 | Y-Bereich | 66 bis 104 |
-| X-Ausdehnung | -136 bis -7 (130 Blöcke) |
-| Z-Ausdehnung | 209 bis 290 (82 Blöcke) |
+| X-Ausdehnung | -136 bis -8 (129 Blöcke) |
+| Z-Ausdehnung | 209 bis 289 (81 Blöcke) |
 | Kleinster Schritt | 1.424 Blöcke (Schritt 10.27) |
-| Mittlerer Schritt | 1.755 Blöcke |
+| Mittlerer Schritt | 1.742 Blöcke |
 | Größter Schritt | 2.078 Blöcke (Schritt 10.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 8.542 | 17,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.205 | 16,7 % |
-| Polierter Tuffstein | `polished_tuff` | 6.851 | 13,9 % |
-| Endsteinziegel | `end_stone_bricks` | 4.974 | 10,1 % |
-| Orange Keramik | `orange_terracotta` | 4.665 | 9,5 % |
-| Weißer Beton | `white_concrete` | 4.624 | 9,4 % |
-| Tuffstein | `tuff` | 3.604 | 7,3 % |
-| Polierter Andesit | `polished_andesite` | 2.156 | 4,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 13.730 | 28,1 % |
+| Terrakotta | `terracotta` | 8.542 | 17,5 % |
+| Polierter Tuffstein | `polished_tuff` | 6.851 | 14,0 % |
+| Endsteinziegel | `end_stone_bricks` | 4.974 | 10,2 % |
+| Orange Keramik | `orange_terracotta` | 4.665 | 9,6 % |
+| Weißer Beton | `white_concrete` | 4.624 | 9,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.040 | 4,2 % |
-| Graues Buntglas | `gray_stained_glass` | 974 | 2,0 % |
-| Glatter Stein | `smooth_stone` | 834 | 1,7 % |
+| Graues Buntglas | `gray_stained_glass` | 926 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 901 | 1,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 749 | 1,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 719 | 1,5 % |
+| Polierter Andesit | `polished_andesite` | 417 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 199 | 0,4 % |
+| Grüner Beton | `green_concrete` | 154 | 0,3 % |
+| Tuffstein | `tuff` | 4 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307544531` | Studio Fiorentino | 9.240 | 10.1–10.5 |
+| 1 | `w307544531` | Studio Fiorentino | 8.880 | 10.1–10.5 |
 | 2 | `w542315392` | Reihenhaus an Via delle Oche | 4.624 | 10.6–10.8 |
 | 3 | `w542315393` | Reihenhaus an Via delle Oche | 4.107 | 10.9–10.10 |
 | 4 | `w542315398` | Reihenhaus an Piazza degli Alberighi | 3.635 | 10.11–10.12 |
@@ -58,7 +58,7 @@
 ### Schritt 10.1 – Studio Fiorentino – Teil 1/5 (Y 68–71)
 
 - **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.840
+- **Blöcke:** 1.727
 - **Bauteile:** `w307544531`
 
 **Teileliste**
@@ -66,14 +66,12 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.229 |
-| Tuffstein | `tuff` | 360 |
-| Tuffsteinziegel | `tuff_bricks` | 178 |
-| Polierter Andesit | `polished_andesite` | 61 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
+| Gelbe Keramik | `yellow_terracotta` | 423 |
+| Glatter Stein | `smooth_stone` | 75 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -87,24 +85,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Studio Fiorentino – Teil 2/5 (Y 72–80)
+### Schritt 10.2 – Studio Fiorentino – Teil 2/5 (Y 72–81)
 
-- **Y-Bereich:** 72 bis 80
-- **Blöcke:** 1.875
+- **Y-Bereich:** 72 bis 81
+- **Blöcke:** 1.932
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.080 |
-| Tuffsteinziegel | `tuff_bricks` | 541 |
-| Polierter Andesit | `polished_andesite` | 218 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Gelbe Keramik | `yellow_terracotta` | 1.770 |
+| Glatter Stein | `smooth_stone` | 162 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -118,23 +114,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Studio Fiorentino – Teil 3/5 (Y 81–89)
+### Schritt 10.3 – Studio Fiorentino – Teil 3/5 (Y 82–89)
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 1.881
+- **Y-Bereich:** 82 bis 89
+- **Blöcke:** 1.664
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.080 |
-| Polierter Andesit | `polished_andesite` | 717 |
+| Gelbe Keramik | `yellow_terracotta` | 1.496 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
+| Grüner Beton | `green_concrete` | 84 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -151,21 +147,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.4 – Studio Fiorentino – Teil 4/5 (Y 90–97)
 
 - **Y-Bereich:** 90 bis 97
-- **Blöcke:** 1.713
+- **Blöcke:** 1.676
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 960 |
-| Polierter Andesit | `polished_andesite` | 646 |
+| Gelbe Keramik | `yellow_terracotta` | 1.536 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
-| Glatter Stein | `smooth_stone` | 37 |
+| Grüner Beton | `green_concrete` | 70 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -182,7 +177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.5 – Studio Fiorentino – Teil 5/5 (Y 98–104)
 
 - **Y-Bereich:** 98 bis 104
-- **Blöcke:** 1.931
+- **Blöcke:** 1.881
 - **Bauteile:** `w307544531`
 
 **Teileliste**
@@ -190,13 +185,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.581 |
-| Glatter Stein | `smooth_stone` | 133 |
-| Tuffstein | `tuff` | 120 |
-| Polierter Andesit | `polished_andesite` | 97 |
+| Gelbe Keramik | `yellow_terracotta` | 300 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 

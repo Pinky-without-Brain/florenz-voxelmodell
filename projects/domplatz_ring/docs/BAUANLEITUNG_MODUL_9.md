@@ -8,40 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 36.275 |
+| Blöcke | 36.239 |
 | Bauschritte | 23 |
 | Y-Bereich | 66 bis 107 |
-| X-Ausdehnung | -181 bis -26 (156 Blöcke) |
+| X-Ausdehnung | -181 bis -27 (155 Blöcke) |
 | Z-Ausdehnung | 167 bis 213 (47 Blöcke) |
 | Kleinster Schritt | 1.145 Blöcke (Schritt 9.23) |
-| Mittlerer Schritt | 1.577 Blöcke |
-| Größter Schritt | 2.081 Blöcke (Schritt 9.3) |
+| Mittlerer Schritt | 1.576 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 9.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 6.696 | 18,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 6.534 | 18,0 % |
-| Terrakotta | `terracotta` | 5.386 | 14,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 6.363 | 17,6 % |
+| Terrakotta | `terracotta` | 5.386 | 14,9 % |
 | Polierter Tuffstein | `polished_tuff` | 4.359 | 12,0 % |
+| Weißer Beton | `white_concrete` | 3.125 | 8,6 % |
 | Orange Keramik | `orange_terracotta` | 3.043 | 8,4 % |
-| Weißer Beton | `white_concrete` | 3.001 | 8,3 % |
 | Rosa Keramik | `pink_terracotta` | 1.978 | 5,5 % |
-| Tuffstein | `tuff` | 1.596 | 4,4 % |
-| Graues Buntglas | `gray_stained_glass` | 1.243 | 3,4 % |
-| Glatter Stein | `smooth_stone` | 1.228 | 3,4 % |
+| Tuffstein | `tuff` | 1.630 | 4,5 % |
+| Glatter Stein | `smooth_stone` | 1.276 | 3,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.234 | 3,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 474 | 1,3 % |
-| Grüner Beton | `green_concrete` | 380 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 205 | 0,6 % |
+| Grüner Beton | `green_concrete` | 324 | 0,9 % |
+| Polierter Andesit | `polished_andesite` | 199 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 152 | 0,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307544508` | Bottega dell'Opera del Duomo | 2.434 | 9.1–9.2 |
-| 2 | `w307544540` | Torre dei Visdomini | 2.081 | 9.3 |
+| 1 | `w307544508` | Bottega dell'Opera del Duomo | 2.379 | 9.1–9.2 |
+| 2 | `w307544540` | Torre dei Visdomini | 2.100 | 9.3 |
 | 3 | `w491889274` | Reihenhaus an Via delle Oche | 4.114 | 9.4–9.6 |
 | 4 | `w491889276` | Reihenhaus an Via delle Oche | 6.359 | 9.7–9.10 |
 | 5 | `w491889279` | Reihenhaus an Via della Canonica | 1.644 | 9.11 |
@@ -63,15 +63,15 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 610 |
+| Hellgrauer Beton | `light_gray_concrete` | 524 |
 | Polierter Tuffstein | `polished_tuff` | 470 |
+| Weißer Beton | `white_concrete` | 102 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 56 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Glatter Stein | `smooth_stone` | 64 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 1 Geschoss, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Werkstatt seit Mitte 19. Jh. an dieser Stelle), 1 Geschoss, Putzfarbe Grau. Quelle: recherche:https://www.firenzemadeintuscany.com/it/articolo/la-bottega-dell-opera-del-duomo/, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -88,20 +88,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.2 – Bottega dell'Opera del Duomo – Teil 2/2 (Y 74–81)
 
 - **Y-Bereich:** 74 bis 81
-- **Blöcke:** 1.210
+- **Blöcke:** 1.155
 - **Bauteile:** `w307544508`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 615 |
 | Terrakotta | `terracotta` | 587 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Hellgrauer Beton | `light_gray_concrete` | 530 |
+| Weißer Beton | `white_concrete` | 22 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 1 Geschoss, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Werkstatt seit Mitte 19. Jh. an dieser Stelle), 1 Geschoss, Putzfarbe Grau. Quelle: recherche:https://www.firenzemadeintuscany.com/it/articolo/la-bottega-dell-opera-del-duomo/, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -118,22 +119,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.3 – Torre dei Visdomini
 
 - **Y-Bereich:** 66 bis 98
-- **Blöcke:** 2.081
+- **Blöcke:** 2.100
 - **Bauteile:** `w307544540`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.596 |
+| Tuffstein | `tuff` | 1.630 |
 | Terrakotta | `terracotta` | 194 |
 | Polierter Tuffstein | `polished_tuff` | 170 |
-| Polierter Andesit | `polished_andesite` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
+| Polierter Andesit | `polished_andesite` | 94 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (14. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Visdomini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -145,7 +146,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.4 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 66–75)
 

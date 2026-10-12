@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 198.522 |
-| Bauschritte | 118 |
+| Blöcke | 199.100 |
+| Bauschritte | 119 |
 | Y-Bereich | 60 bis 107 |
-| X-Ausdehnung | -148 bis 140 (289 Blöcke) |
+| X-Ausdehnung | -148 bis 141 (290 Blöcke) |
 | Z-Ausdehnung | -299 bis -83 (217 Blöcke) |
-| Kleinster Schritt | 1.072 Blöcke (Schritt 12.27) |
-| Mittlerer Schritt | 1.682 Blöcke |
-| Größter Schritt | 2.090 Blöcke (Schritt 12.93) |
+| Kleinster Schritt | 1.053 Blöcke (Schritt 12.28) |
+| Mittlerer Schritt | 1.673 Blöcke |
+| Größter Schritt | 2.090 Blöcke (Schritt 12.94) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 30.467 | 15,3 % |
-| Terrakotta | `terracotta` | 30.386 | 15,3 % |
-| Orange Keramik | `orange_terracotta` | 30.357 | 15,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 16.008 | 8,1 % |
-| Rosa Keramik | `pink_terracotta` | 15.746 | 7,9 % |
-| Weißer Beton | `white_concrete` | 14.074 | 7,1 % |
-| Glatter Sandstein | `smooth_sandstone` | 12.263 | 6,2 % |
-| Tuffstein | `tuff` | 11.015 | 5,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.136 | 4,6 % |
-| Polierter Andesit | `polished_andesite` | 8.053 | 4,1 % |
-| Graues Buntglas | `gray_stained_glass` | 7.302 | 3,7 % |
-| Glatter Stein | `smooth_stone` | 6.242 | 3,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 3.391 | 1,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.469 | 0,7 % |
+| Terrakotta | `terracotta` | 34.863 | 17,5 % |
+| Orange Keramik | `orange_terracotta` | 30.357 | 15,2 % |
+| Polierter Tuffstein | `polished_tuff` | 27.526 | 13,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 16.008 | 8,0 % |
+| Rosa Keramik | `pink_terracotta` | 15.734 | 7,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 15.146 | 7,6 % |
+| Weißer Beton | `white_concrete` | 13.000 | 6,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 10.887 | 5,5 % |
+| Glatter Stein | `smooth_stone` | 8.046 | 4,0 % |
+| Tuffstein | `tuff` | 7.609 | 3,8 % |
+| Graues Buntglas | `gray_stained_glass` | 7.384 | 3,7 % |
+| Polierter Andesit | `polished_andesite` | 6.879 | 3,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.578 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.470 | 0,7 % |
 | Grüner Beton | `green_concrete` | 1.312 | 0,7 % |
 | Endsteinziegel | `end_stone_bricks` | 1.301 | 0,7 % |
 
@@ -42,28 +42,28 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306381525` | Casa Ghiberti | 13.977 | 12.1–12.8 |
-| 2 | `w307544517` | Casa de' Biffi | 10.469 | 12.9–12.14 |
-| 3 | `w307544522` | Palazzo Incontri | 19.891 | 12.15–12.26 |
-| 4 | `w307544533` | Palazzetto del Bianco | 2.157 | 12.27–12.28 |
-| 5 | `w477749371` | Reihenhaus an Via dei Pucci | 3.993 | 12.29–12.30 |
-| 6 | `w477749405` | Haus w477749405 | 11.208 | 12.31–12.36 |
-| 7 | `w477749413` | Reihenhaus an Piazza del Duomo | 10.828 | 12.37–12.42 |
-| 8 | `w477749439` | Reihenhaus an Piazza del Duomo | 9.805 | 12.43–12.47 |
-| 9 | `w477749444` | Reihenhaus an Via dei Pucci | 7.061 | 12.48–12.51 |
-| 10 | `w477749450` | Reihenhaus an Piazza del Duomo | 11.669 | 12.52–12.58 |
-| 11 | `w477749460` | Haus w477749460 | 2.628 | 12.59–12.60 |
-| 12 | `w477749472` | Palazzo des Cinquecento an Via Ricasoli | 11.957 | 12.61–12.67 |
-| 13 | `w477749477` | Palazzo des Cinquecento an Via Ricasoli | 32.824 | 12.68–12.88 |
-| 14 | `w477749482` | Reihenhaus an Via Ricasoli | 5.319 | 12.89–12.91 |
-| 15 | `w477749485` | Reihenhaus an Via Ricasoli | 7.941 | 12.92–12.95 |
-| 16 | `w477749507` | Reihenhaus an Piazza del Duomo | 2.564 | 12.96–12.97 |
-| 17 | `w477749512` | Haus w477749512 | 4.733 | 12.98–12.100 |
-| 18 | `w477749514` | Palazzo des Cinquecento an Via Ricasoli | 14.970 | 12.101–12.109 |
-| 19 | `w477749523` | Reihenhaus an Piazza del Duomo | 8.568 | 12.110–12.114 |
-| 20 | `w477749525` | Reihenhaus an Via dei Pucci | 1.799 | 12.115 |
-| 21 | `w477749534` | Reihenhaus an Via Ricasoli | 1.471 | 12.116 |
-| 22 | `w477749545` | Reihenhaus an Via dei Pucci | 2.690 | 12.117–12.118 |
+| 1 | `w306381525` | Casa Ghiberti | 13.975 | 12.1–12.8 |
+| 2 | `w307544517` | Casa de' Biffi | 10.397 | 12.9–12.14 |
+| 3 | `w307544522` | Palazzo Incontri | 20.561 | 12.15–12.27 |
+| 4 | `w307544533` | Palazzetto del Bianco | 2.137 | 12.28–12.29 |
+| 5 | `w477749371` | Reihenhaus an Via dei Pucci | 3.993 | 12.30–12.31 |
+| 6 | `w477749405` | Haus w477749405 | 11.210 | 12.32–12.37 |
+| 7 | `w477749413` | Reihenhaus an Piazza del Duomo | 10.828 | 12.38–12.43 |
+| 8 | `w477749439` | Reihenhaus an Piazza del Duomo | 9.805 | 12.44–12.48 |
+| 9 | `w477749444` | Reihenhaus an Via dei Pucci | 7.061 | 12.49–12.52 |
+| 10 | `w477749450` | Reihenhaus an Piazza del Duomo | 11.669 | 12.53–12.59 |
+| 11 | `w477749460` | Haus w477749460 | 2.628 | 12.60–12.61 |
+| 12 | `w477749472` | Palazzo des Cinquecento an Via Ricasoli | 11.957 | 12.62–12.68 |
+| 13 | `w477749477` | Palazzo des Cinquecento an Via Ricasoli | 32.824 | 12.69–12.89 |
+| 14 | `w477749482` | Reihenhaus an Via Ricasoli | 5.319 | 12.90–12.92 |
+| 15 | `w477749485` | Reihenhaus an Via Ricasoli | 7.941 | 12.93–12.96 |
+| 16 | `w477749507` | Reihenhaus an Piazza del Duomo | 2.564 | 12.97–12.98 |
+| 17 | `w477749512` | Haus w477749512 | 4.733 | 12.99–12.101 |
+| 18 | `w477749514` | Palazzo des Cinquecento an Via Ricasoli | 14.970 | 12.102–12.110 |
+| 19 | `w477749523` | Reihenhaus an Piazza del Duomo | 8.568 | 12.111–12.115 |
+| 20 | `w477749525` | Reihenhaus an Via dei Pucci | 1.799 | 12.116 |
+| 21 | `w477749534` | Reihenhaus an Via Ricasoli | 1.471 | 12.117 |
+| 22 | `w477749545` | Reihenhaus an Via dei Pucci | 2.690 | 12.118–12.119 |
 
 ## Bauschritte
 
@@ -81,7 +81,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -93,56 +93,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.2 – Casa Ghiberti – Teil 2/8 (Y 66–71)
+### Schritt 12.2 – Casa Ghiberti – Teil 2/8 (Y 66–70)
 
-- **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.867
+- **Y-Bereich:** 66 bis 70
+- **Blöcke:** 1.599
 - **Bauteile:** `w306381525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 868 |
-| Tuffstein | `tuff` | 528 |
-| Glatter Stein | `smooth_stone` | 330 |
-| Graues Buntglas | `gray_stained_glass` | 141 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.3 – Casa Ghiberti – Teil 3/8 (Y 72–76)
-
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.674
-- **Bauteile:** `w306381525`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.170 |
+| Tuffsteinziegel | `tuff_bricks` | 782 |
 | Tuffstein | `tuff` | 440 |
-| Glatter Stein | `smooth_stone` | 64 |
+| Glatter Stein | `smooth_stone` | 263 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -154,25 +124,58 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.3 – Casa Ghiberti – Teil 3/8 (Y 71–76)
+
+- **Y-Bereich:** 71 bis 76
+- **Blöcke:** 1.989
+- **Bauteile:** `w306381525`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 796 |
+| Tuffstein | `tuff` | 528 |
+| Polierter Andesit | `polished_andesite` | 431 |
+| Glatter Stein | `smooth_stone` | 196 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.4 – Casa Ghiberti – Teil 4/8 (Y 77–81)
 
 - **Y-Bereich:** 77 bis 81
-- **Blöcke:** 1.605
+- **Blöcke:** 1.545
 - **Bauteile:** `w306381525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.127 |
-| Glatter Stein | `smooth_stone` | 361 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
+| Polierter Andesit | `polished_andesite` | 585 |
+| Tuffstein | `tuff` | 440 |
+| Glatter Stein | `smooth_stone` | 330 |
+| Graues Buntglas | `gray_stained_glass` | 190 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -184,26 +187,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.5 – Casa Ghiberti – Teil 5/8 (Y 82–87)
 
 - **Y-Bereich:** 82 bis 87
-- **Blöcke:** 1.941
+- **Blöcke:** 1.935
 - **Bauteile:** `w306381525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 967 |
-| Polierter Andesit | `polished_andesite` | 432 |
-| Glatter Stein | `smooth_stone` | 425 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
+| Polierter Andesit | `polished_andesite` | 965 |
+| Tuffstein | `tuff` | 528 |
+| Glatter Stein | `smooth_stone` | 328 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -215,26 +218,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.6 – Casa Ghiberti – Teil 6/8 (Y 88–92)
 
 - **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.555
+- **Blöcke:** 1.626
 - **Bauteile:** `w306381525`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 495 |
+| Polierter Andesit | `polished_andesite` | 848 |
 | Tuffstein | `tuff` | 440 |
-| Polierter Andesit | `polished_andesite` | 425 |
-| Graues Buntglas | `gray_stained_glass` | 195 |
+| Glatter Stein | `smooth_stone` | 262 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -246,12 +249,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.7 – Casa Ghiberti – Teil 7/8 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
-- **Blöcke:** 2.066
+- **Blöcke:** 2.012
 - **Bauteile:** `w306381525`
 
 **Teileliste**
@@ -259,13 +262,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 732 |
-| Polierter Andesit | `polished_andesite` | 680 |
-| Glatter Stein | `smooth_stone` | 390 |
+| Glatter Stein | `smooth_stone` | 523 |
+| Polierter Andesit | `polished_andesite` | 417 |
 | Tuffstein | `tuff` | 264 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -277,7 +281,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.8 – Casa Ghiberti – Teil 8/8 (Y 97–102)
 
@@ -293,7 +297,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (14. Jh. Sockel, Spätrenaissance (Ammannati-Art)), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Ghiberti, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -305,12 +309,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.9 – Casa de' Biffi – Teil 1/6 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.727
+- **Blöcke:** 1.723
 - **Bauteile:** `w307544517`
 
 **Teileliste**
@@ -318,13 +322,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.494 |
-| Tuffsteinziegel | `tuff_bricks` | 152 |
-| Tuffstein | `tuff` | 76 |
-| Polierter Andesit | `polished_andesite` | 5 |
+| Gelbe Keramik | `yellow_terracotta` | 224 |
+| Glatter Stein | `smooth_stone` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Aufstockung später), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_de%27_Biffi, Angaben belegt (Sicherheit 0,55).
 
 **Tipp**
 
@@ -336,26 +339,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.10 – Casa de' Biffi – Teil 2/6 (Y 67–74)
 
 - **Y-Bereich:** 67 bis 74
-- **Blöcke:** 1.834
+- **Blöcke:** 1.823
 - **Bauteile:** `w307544517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 875 |
-| Tuffstein | `tuff` | 608 |
-| Polierter Andesit | `polished_andesite` | 255 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
+| Gelbe Keramik | `yellow_terracotta` | 1.573 |
+| Glatter Stein | `smooth_stone` | 182 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Aufstockung später), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_de%27_Biffi, Angaben belegt (Sicherheit 0,55).
 
 **Tipp**
 
@@ -367,26 +369,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.11 – Casa de' Biffi – Teil 3/6 (Y 75–81)
 
 - **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.622
+- **Blöcke:** 1.629
 - **Bauteile:** `w307544517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 683 |
-| Tuffstein | `tuff` | 532 |
-| Tuffsteinziegel | `tuff_bricks` | 326 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
+| Gelbe Keramik | `yellow_terracotta` | 1.371 |
+| Glatter Stein | `smooth_stone` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Aufstockung später), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_de%27_Biffi, Angaben belegt (Sicherheit 0,55).
 
 **Tipp**
 
@@ -398,25 +399,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.12 – Casa de' Biffi – Teil 4/6 (Y 82–89)
 
 - **Y-Bereich:** 82 bis 89
-- **Blöcke:** 1.829
+- **Blöcke:** 1.868
 - **Bauteile:** `w307544517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.089 |
-| Tuffstein | `tuff` | 608 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Gelbe Keramik | `yellow_terracotta` | 1.610 |
+| Glatter Stein | `smooth_stone` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Aufstockung später), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_de%27_Biffi, Angaben belegt (Sicherheit 0,55).
 
 **Tipp**
 
@@ -428,26 +429,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.13 – Casa de' Biffi – Teil 5/6 (Y 90–95)
 
 - **Y-Bereich:** 90 bis 95
-- **Blöcke:** 1.593
+- **Blöcke:** 1.490
 - **Bauteile:** `w307544517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 851 |
-| Tuffstein | `tuff` | 456 |
-| Glatter Stein | `smooth_stone` | 208 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Gelbe Keramik | `yellow_terracotta` | 1.232 |
+| Glatter Stein | `smooth_stone` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Aufstockung später), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_de%27_Biffi, Angaben belegt (Sicherheit 0,55).
 
 **Tipp**
 
@@ -459,7 +459,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 12.14 – Casa de' Biffi – Teil 6/6 (Y 96–102)
 
@@ -475,7 +475,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh., Aufstockung später), 4 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_de%27_Biffi, Angaben belegt (Sicherheit 0,55).
 
 **Tipp**
 
@@ -487,9 +487,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.15 – Palazzo Incontri – Teil 1/12 (Y 65–65)
+### Schritt 12.15 – Palazzo Incontri – Teil 1/13 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.739
@@ -503,7 +503,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -515,9 +515,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.16 – Palazzo Incontri – Teil 2/12 (Y 65–65)
+### Schritt 12.16 – Palazzo Incontri – Teil 2/13 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.745
@@ -531,7 +531,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -543,26 +543,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.17 – Palazzo Incontri – Teil 3/12 (Y 66–68)
+### Schritt 12.17 – Palazzo Incontri – Teil 3/13 (Y 66–67)
 
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.547
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.058
 - **Bauteile:** `w307544522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.293 |
-| Glatter Stein | `smooth_stone` | 105 |
-| Weißer Beton | `white_concrete` | 96 |
-| Graues Buntglas | `gray_stained_glass` | 53 |
+| Glatter Sandstein | `smooth_sandstone` | 967 |
+| Glatter Stein | `smooth_stone` | 91 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -574,26 +572,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.18 – Palazzo Incontri – Teil 4/12 (Y 69–71)
+### Schritt 12.18 – Palazzo Incontri – Teil 4/13 (Y 68–71)
 
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.476
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 2.037
 - **Bauteile:** `w307544522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.025 |
-| Graues Buntglas | `gray_stained_glass` | 153 |
-| Glatter Stein | `smooth_stone` | 150 |
-| Weißer Beton | `white_concrete` | 148 |
+| Glatter Sandstein | `smooth_sandstone` | 1.524 |
+| Glatter Stein | `smooth_stone` | 351 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -605,219 +602,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.19 – Palazzo Incontri – Teil 5/12 (Y 72–74)
+### Schritt 12.19 – Palazzo Incontri – Teil 5/13 (Y 72–73)
 
-- **Y-Bereich:** 72 bis 74
-- **Blöcke:** 1.604
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.503 |
-| Glatter Stein | `smooth_stone` | 61 |
-| Weißer Beton | `white_concrete` | 40 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.20 – Palazzo Incontri – Teil 6/12 (Y 75–77)
-
-- **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.629
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.629 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.21 – Palazzo Incontri – Teil 7/12 (Y 78–81)
-
-- **Y-Bereich:** 78 bis 81
-- **Blöcke:** 2.055
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.492 |
-| Weißer Beton | `white_concrete` | 395 |
-| Graues Buntglas | `gray_stained_glass` | 168 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.22 – Palazzo Incontri – Teil 8/12 (Y 82–84)
-
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.512
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.044 |
-| Weißer Beton | `white_concrete` | 300 |
-| Graues Buntglas | `gray_stained_glass` | 168 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.23 – Palazzo Incontri – Teil 9/12 (Y 85–87)
-
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.747
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.534 |
-| Glatter Stein | `smooth_stone` | 118 |
-| Weißer Beton | `white_concrete` | 95 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.24 – Palazzo Incontri – Teil 10/12 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.893
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.492 |
-| Glatter Sandstein | `smooth_sandstone` | 288 |
-| Glatter Stein | `smooth_stone` | 113 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.25 – Palazzo Incontri – Teil 11/12 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.858
-- **Bauteile:** `w307544522`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.449 |
-| Glatter Sandstein | `smooth_sandstone` | 255 |
-| Glatter Stein | `smooth_stone` | 154 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.26 – Palazzo Incontri – Teil 12/12 (Y 89–90)
-
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.086
 - **Bauteile:** `w307544522`
 
@@ -825,11 +614,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.086 |
+| Glatter Sandstein | `smooth_sandstone` | 1.078 |
+| Glatter Stein | `smooth_stone` | 8 |
 
 **Beschreibung**
 
-Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
 
 **Tipp**
 
@@ -841,12 +631,245 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.27 – Palazzetto del Bianco – Teil 1/2 (Y 65–78)
+### Schritt 12.20 – Palazzo Incontri – Teil 6/13 (Y 74–76)
+
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.599
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.365 |
+| Glatter Stein | `smooth_stone` | 177 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.21 – Palazzo Incontri – Teil 7/13 (Y 77–80)
+
+- **Y-Bereich:** 77 bis 80
+- **Blöcke:** 2.052
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.464 |
+| Glatter Stein | `smooth_stone` | 360 |
+| Graues Buntglas | `gray_stained_glass` | 228 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.22 – Palazzo Incontri – Teil 8/13 (Y 81–82)
+
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 1.086
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 999 |
+| Glatter Stein | `smooth_stone` | 87 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.23 – Palazzo Incontri – Teil 9/13 (Y 83–86)
+
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 2.082
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.554 |
+| Glatter Stein | `smooth_stone` | 357 |
+| Graues Buntglas | `gray_stained_glass` | 171 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.24 – Palazzo Incontri – Teil 10/13 (Y 87–88)
+
+- **Y-Bereich:** 87 bis 88
+- **Blöcke:** 1.600
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 822 |
+| Glatter Stein | `smooth_stone` | 721 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.25 – Palazzo Incontri – Teil 11/13 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.289
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.289 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.26 – Palazzo Incontri – Teil 12/13 (Y 90–91)
+
+- **Y-Bereich:** 90 bis 91
+- **Blöcke:** 1.517
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.517 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.27 – Palazzo Incontri – Teil 13/13 (Y 92–97)
+
+- **Y-Bereich:** 92 bis 97
+- **Blöcke:** 1.671
+- **Bauteile:** `w307544522`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.671 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (Fassade um 1678 (L. A. Incontri)), 3 Geschosse, Putzfarbe Gelb. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri, Angaben belegt (Sicherheit 0,8).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.28 – Palazzetto del Bianco – Teil 1/2 (Y 65–78)
 
 - **Y-Bereich:** 65 bis 78
-- **Blöcke:** 1.072
+- **Blöcke:** 1.053
 - **Bauteile:** `w307544533`
 
 **Teileliste**
@@ -854,13 +877,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 569 |
-| Rosa Keramik | `pink_terracotta` | 339 |
-| Glatter Stein | `smooth_stone` | 112 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Rosa Keramik | `pink_terracotta` | 327 |
+| Glatter Stein | `smooth_stone` | 115 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16.-Jh.-Formen, Umbau 17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_Del_Bianco, Angaben belegt (Sicherheit 0,5).
 
 **Tipp**
 
@@ -872,12 +895,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.28 – Palazzetto del Bianco – Teil 2/2 (Y 79–92)
+### Schritt 12.29 – Palazzetto del Bianco – Teil 2/2 (Y 79–92)
 
 - **Y-Bereich:** 79 bis 92
-- **Blöcke:** 1.085
+- **Blöcke:** 1.084
 - **Bauteile:** `w307544533`
 
 **Teileliste**
@@ -888,11 +911,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rosa Keramik | `pink_terracotta` | 212 |
 | Glatter Stein | `smooth_stone` | 114 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
+| Fichtenholz-Bretter | `spruce_planks` | 23 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16.-Jh.-Formen, Umbau 17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzetto_Del_Bianco, Angaben belegt (Sicherheit 0,5).
 
 **Tipp**
 
@@ -904,9 +927,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.29 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 65–77)
+### Schritt 12.30 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 65–77)
 
 - **Y-Bereich:** 65 bis 77
 - **Blöcke:** 1.965
@@ -938,7 +961,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.30 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 78–92)
+### Schritt 12.31 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 78–92)
 
 - **Y-Bereich:** 78 bis 92
 - **Blöcke:** 2.028
@@ -969,7 +992,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.31 – Haus w477749405 – Teil 1/6 (Y 64–66)
+### Schritt 12.32 – Haus w477749405 – Teil 1/6 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.869
@@ -999,7 +1022,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.32 – Haus w477749405 – Teil 2/6 (Y 67–74)
+### Schritt 12.33 – Haus w477749405 – Teil 2/6 (Y 67–74)
 
 - **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.905
@@ -1028,7 +1051,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.33 – Haus w477749405 – Teil 3/6 (Y 75–82)
+### Schritt 12.34 – Haus w477749405 – Teil 3/6 (Y 75–82)
 
 - **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.905
@@ -1057,7 +1080,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.34 – Haus w477749405 – Teil 4/6 (Y 83–89)
+### Schritt 12.35 – Haus w477749405 – Teil 4/6 (Y 83–89)
 
 - **Y-Bereich:** 83 bis 89
 - **Blöcke:** 1.704
@@ -1086,10 +1109,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.35 – Haus w477749405 – Teil 5/6 (Y 90–95)
+### Schritt 12.36 – Haus w477749405 – Teil 5/6 (Y 90–95)
 
 - **Y-Bereich:** 90 bis 95
-- **Blöcke:** 1.773
+- **Blöcke:** 1.775
 - **Bauteile:** `w477749405`
 
 **Teileliste**
@@ -1097,7 +1120,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.600 |
-| Fichtenholz-Bretter | `spruce_planks` | 98 |
+| Fichtenholz-Bretter | `spruce_planks` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
@@ -1116,7 +1139,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.36 – Haus w477749405 – Teil 6/6 (Y 96–102)
+### Schritt 12.37 – Haus w477749405 – Teil 6/6 (Y 96–102)
 
 - **Y-Bereich:** 96 bis 102
 - **Blöcke:** 2.052
@@ -1144,7 +1167,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.37 – Reihenhaus an Piazza del Duomo – Teil 1/6 (Y 65–68)
+### Schritt 12.38 – Reihenhaus an Piazza del Duomo – Teil 1/6 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.736
@@ -1175,7 +1198,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.38 – Reihenhaus an Piazza del Duomo – Teil 2/6 (Y 69–76)
+### Schritt 12.39 – Reihenhaus an Piazza del Duomo – Teil 2/6 (Y 69–76)
 
 - **Y-Bereich:** 69 bis 76
 - **Blöcke:** 1.778
@@ -1205,7 +1228,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.39 – Reihenhaus an Piazza del Duomo – Teil 3/6 (Y 77–84)
+### Schritt 12.40 – Reihenhaus an Piazza del Duomo – Teil 3/6 (Y 77–84)
 
 - **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.810
@@ -1235,7 +1258,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.40 – Reihenhaus an Piazza del Duomo – Teil 4/6 (Y 85–92)
+### Schritt 12.41 – Reihenhaus an Piazza del Duomo – Teil 4/6 (Y 85–92)
 
 - **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.810
@@ -1265,7 +1288,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.41 – Reihenhaus an Piazza del Duomo – Teil 5/6 (Y 93–100)
+### Schritt 12.42 – Reihenhaus an Piazza del Duomo – Teil 5/6 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.810
@@ -1295,7 +1318,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.42 – Reihenhaus an Piazza del Duomo – Teil 6/6 (Y 101–106)
+### Schritt 12.43 – Reihenhaus an Piazza del Duomo – Teil 6/6 (Y 101–106)
 
 - **Y-Bereich:** 101 bis 106
 - **Blöcke:** 1.884
@@ -1326,7 +1349,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.43 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 62–70)
+### Schritt 12.44 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 62–70)
 
 - **Y-Bereich:** 62 bis 70
 - **Blöcke:** 2.032
@@ -1358,7 +1381,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.44 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 71–79)
+### Schritt 12.45 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 71–79)
 
 - **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.802
@@ -1388,7 +1411,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.45 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 80–89)
+### Schritt 12.46 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.990
@@ -1418,7 +1441,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.46 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 90–99)
+### Schritt 12.47 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 90–99)
 
 - **Y-Bereich:** 90 bis 99
 - **Blöcke:** 1.972
@@ -1448,7 +1471,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.47 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 100–107)
+### Schritt 12.48 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 100–107)
 
 - **Y-Bereich:** 100 bis 107
 - **Blöcke:** 2.009
@@ -1480,7 +1503,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.48 – Reihenhaus an Via dei Pucci – Teil 1/4 (Y 65–73)
+### Schritt 12.49 – Reihenhaus an Via dei Pucci – Teil 1/4 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
 - **Blöcke:** 1.815
@@ -1511,7 +1534,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.49 – Reihenhaus an Via dei Pucci – Teil 2/4 (Y 74–84)
+### Schritt 12.50 – Reihenhaus an Via dei Pucci – Teil 2/4 (Y 74–84)
 
 - **Y-Bereich:** 74 bis 84
 - **Blöcke:** 1.698
@@ -1541,7 +1564,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.50 – Reihenhaus an Via dei Pucci – Teil 3/4 (Y 85–96)
+### Schritt 12.51 – Reihenhaus an Via dei Pucci – Teil 3/4 (Y 85–96)
 
 - **Y-Bereich:** 85 bis 96
 - **Blöcke:** 1.840
@@ -1571,7 +1594,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.51 – Reihenhaus an Via dei Pucci – Teil 4/4 (Y 97–106)
+### Schritt 12.52 – Reihenhaus an Via dei Pucci – Teil 4/4 (Y 97–106)
 
 - **Y-Bereich:** 97 bis 106
 - **Blöcke:** 1.708
@@ -1602,7 +1625,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.52 – Reihenhaus an Piazza del Duomo – Teil 1/7 (Y 65–66)
+### Schritt 12.53 – Reihenhaus an Piazza del Duomo – Teil 1/7 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.674
@@ -1632,7 +1655,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.53 – Reihenhaus an Piazza del Duomo – Teil 2/7 (Y 67–72)
+### Schritt 12.54 – Reihenhaus an Piazza del Duomo – Teil 2/7 (Y 67–72)
 
 - **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.586
@@ -1663,7 +1686,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.54 – Reihenhaus an Piazza del Duomo – Teil 3/7 (Y 73–78)
+### Schritt 12.55 – Reihenhaus an Piazza del Duomo – Teil 3/7 (Y 73–78)
 
 - **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.720
@@ -1693,7 +1716,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.55 – Reihenhaus an Piazza del Duomo – Teil 4/7 (Y 79–84)
+### Schritt 12.56 – Reihenhaus an Piazza del Duomo – Teil 4/7 (Y 79–84)
 
 - **Y-Bereich:** 79 bis 84
 - **Blöcke:** 1.701
@@ -1723,7 +1746,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.56 – Reihenhaus an Piazza del Duomo – Teil 5/7 (Y 85–90)
+### Schritt 12.57 – Reihenhaus an Piazza del Duomo – Teil 5/7 (Y 85–90)
 
 - **Y-Bereich:** 85 bis 90
 - **Blöcke:** 1.701
@@ -1753,7 +1776,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.57 – Reihenhaus an Piazza del Duomo – Teil 6/7 (Y 91–95)
+### Schritt 12.58 – Reihenhaus an Piazza del Duomo – Teil 6/7 (Y 91–95)
 
 - **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.558
@@ -1783,7 +1806,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.58 – Reihenhaus an Piazza del Duomo – Teil 7/7 (Y 96–99)
+### Schritt 12.59 – Reihenhaus an Piazza del Duomo – Teil 7/7 (Y 96–99)
 
 - **Y-Bereich:** 96 bis 99
 - **Blöcke:** 1.729
@@ -1811,7 +1834,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.59 – Haus w477749460 – Teil 1/2 (Y 65–82)
+### Schritt 12.60 – Haus w477749460 – Teil 1/2 (Y 65–82)
 
 - **Y-Bereich:** 65 bis 82
 - **Blöcke:** 1.324
@@ -1840,7 +1863,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.60 – Haus w477749460 – Teil 2/2 (Y 83–98)
+### Schritt 12.61 – Haus w477749460 – Teil 2/2 (Y 83–98)
 
 - **Y-Bereich:** 83 bis 98
 - **Blöcke:** 1.304
@@ -1869,7 +1892,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.61 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/7 (Y 65–65)
+### Schritt 12.62 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/7 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.977
@@ -1897,7 +1920,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.62 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/7 (Y 66–71)
+### Schritt 12.63 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/7 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
 - **Blöcke:** 1.336
@@ -1927,7 +1950,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.63 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/7 (Y 72–78)
+### Schritt 12.64 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/7 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.780
@@ -1957,7 +1980,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.64 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/7 (Y 79–85)
+### Schritt 12.65 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/7 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.675
@@ -1987,7 +2010,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.65 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/7 (Y 86–92)
+### Schritt 12.66 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/7 (Y 86–92)
 
 - **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.675
@@ -2017,7 +2040,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.66 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/7 (Y 93–96)
+### Schritt 12.67 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/7 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
 - **Blöcke:** 1.659
@@ -2048,7 +2071,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.67 – Palazzo des Cinquecento an Via Ricasoli – Teil 7/7 (Y 97–104)
+### Schritt 12.68 – Palazzo des Cinquecento an Via Ricasoli – Teil 7/7 (Y 97–104)
 
 - **Y-Bereich:** 97 bis 104
 - **Blöcke:** 1.855
@@ -2076,7 +2099,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.68 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/21 (Y 60–62)
+### Schritt 12.69 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/21 (Y 60–62)
 
 - **Y-Bereich:** 60 bis 62
 - **Blöcke:** 1.115
@@ -2104,7 +2127,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.69 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/21 (Y 63–63)
+### Schritt 12.70 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/21 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.110
@@ -2132,7 +2155,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.70 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/21 (Y 64–64)
+### Schritt 12.71 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/21 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.640
@@ -2160,7 +2183,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.71 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/21 (Y 65–65)
+### Schritt 12.72 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/21 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.530
@@ -2188,7 +2211,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.72 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/21 (Y 65–65)
+### Schritt 12.73 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/21 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.531
@@ -2216,7 +2239,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.73 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/21 (Y 65–65)
+### Schritt 12.74 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/21 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.572
@@ -2244,7 +2267,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.74 – Palazzo des Cinquecento an Via Ricasoli – Teil 7/21 (Y 66–68)
+### Schritt 12.75 – Palazzo des Cinquecento an Via Ricasoli – Teil 7/21 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.809
@@ -2275,7 +2298,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.75 – Palazzo des Cinquecento an Via Ricasoli – Teil 8/21 (Y 69–71)
+### Schritt 12.76 – Palazzo des Cinquecento an Via Ricasoli – Teil 8/21 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.677
@@ -2306,7 +2329,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.76 – Palazzo des Cinquecento an Via Ricasoli – Teil 9/21 (Y 72–74)
+### Schritt 12.77 – Palazzo des Cinquecento an Via Ricasoli – Teil 9/21 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.895
@@ -2335,7 +2358,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.77 – Palazzo des Cinquecento an Via Ricasoli – Teil 10/21 (Y 75–77)
+### Schritt 12.78 – Palazzo des Cinquecento an Via Ricasoli – Teil 10/21 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.914
@@ -2363,7 +2386,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.78 – Palazzo des Cinquecento an Via Ricasoli – Teil 11/21 (Y 78–79)
+### Schritt 12.79 – Palazzo des Cinquecento an Via Ricasoli – Teil 11/21 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.142
@@ -2393,7 +2416,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.79 – Palazzo des Cinquecento an Via Ricasoli – Teil 12/21 (Y 80–82)
+### Schritt 12.80 – Palazzo des Cinquecento an Via Ricasoli – Teil 12/21 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.713
@@ -2423,7 +2446,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.80 – Palazzo des Cinquecento an Via Ricasoli – Teil 13/21 (Y 83–85)
+### Schritt 12.81 – Palazzo des Cinquecento an Via Ricasoli – Teil 13/21 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.847
@@ -2453,7 +2476,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.81 – Palazzo des Cinquecento an Via Ricasoli – Teil 14/21 (Y 86–87)
+### Schritt 12.82 – Palazzo des Cinquecento an Via Ricasoli – Teil 14/21 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.276
@@ -2481,7 +2504,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.82 – Palazzo des Cinquecento an Via Ricasoli – Teil 15/21 (Y 88–90)
+### Schritt 12.83 – Palazzo des Cinquecento an Via Ricasoli – Teil 15/21 (Y 88–90)
 
 - **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.713
@@ -2511,7 +2534,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.83 – Palazzo des Cinquecento an Via Ricasoli – Teil 16/21 (Y 91–93)
+### Schritt 12.84 – Palazzo des Cinquecento an Via Ricasoli – Teil 16/21 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.780
@@ -2541,7 +2564,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.84 – Palazzo des Cinquecento an Via Ricasoli – Teil 17/21 (Y 94–95)
+### Schritt 12.85 – Palazzo des Cinquecento an Via Ricasoli – Teil 17/21 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.474
@@ -2569,7 +2592,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.85 – Palazzo des Cinquecento an Via Ricasoli – Teil 18/21 (Y 96–96)
+### Schritt 12.86 – Palazzo des Cinquecento an Via Ricasoli – Teil 18/21 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.546
@@ -2597,7 +2620,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.86 – Palazzo des Cinquecento an Via Ricasoli – Teil 19/21 (Y 97–98)
+### Schritt 12.87 – Palazzo des Cinquecento an Via Ricasoli – Teil 19/21 (Y 97–98)
 
 - **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.859
@@ -2625,7 +2648,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.87 – Palazzo des Cinquecento an Via Ricasoli – Teil 20/21 (Y 99–100)
+### Schritt 12.88 – Palazzo des Cinquecento an Via Ricasoli – Teil 20/21 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.349
@@ -2653,7 +2676,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.88 – Palazzo des Cinquecento an Via Ricasoli – Teil 21/21 (Y 101–106)
+### Schritt 12.89 – Palazzo des Cinquecento an Via Ricasoli – Teil 21/21 (Y 101–106)
 
 - **Y-Bereich:** 101 bis 106
 - **Blöcke:** 1.332
@@ -2681,7 +2704,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.89 – Reihenhaus an Via Ricasoli – Teil 1/3 (Y 65–74)
+### Schritt 12.90 – Reihenhaus an Via Ricasoli – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.790
@@ -2712,7 +2735,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.90 – Reihenhaus an Via Ricasoli – Teil 2/3 (Y 75–87)
+### Schritt 12.91 – Reihenhaus an Via Ricasoli – Teil 2/3 (Y 75–87)
 
 - **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.700
@@ -2742,7 +2765,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.91 – Reihenhaus an Via Ricasoli – Teil 3/3 (Y 88–99)
+### Schritt 12.92 – Reihenhaus an Via Ricasoli – Teil 3/3 (Y 88–99)
 
 - **Y-Bereich:** 88 bis 99
 - **Blöcke:** 1.829
@@ -2773,7 +2796,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.92 – Reihenhaus an Via Ricasoli – Teil 1/4 (Y 61–65)
+### Schritt 12.93 – Reihenhaus an Via Ricasoli – Teil 1/4 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.917
@@ -2802,7 +2825,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.93 – Reihenhaus an Via Ricasoli – Teil 2/4 (Y 66–80)
+### Schritt 12.94 – Reihenhaus an Via Ricasoli – Teil 2/4 (Y 66–80)
 
 - **Y-Bereich:** 66 bis 80
 - **Blöcke:** 2.090
@@ -2833,7 +2856,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.94 – Reihenhaus an Via Ricasoli – Teil 3/4 (Y 81–94)
+### Schritt 12.95 – Reihenhaus an Via Ricasoli – Teil 3/4 (Y 81–94)
 
 - **Y-Bereich:** 81 bis 94
 - **Blöcke:** 1.994
@@ -2863,7 +2886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.95 – Reihenhaus an Via Ricasoli – Teil 4/4 (Y 95–101)
+### Schritt 12.96 – Reihenhaus an Via Ricasoli – Teil 4/4 (Y 95–101)
 
 - **Y-Bereich:** 95 bis 101
 - **Blöcke:** 1.940
@@ -2892,7 +2915,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.96 – Reihenhaus an Piazza del Duomo – Teil 1/2 (Y 64–82)
+### Schritt 12.97 – Reihenhaus an Piazza del Duomo – Teil 1/2 (Y 64–82)
 
 - **Y-Bereich:** 64 bis 82
 - **Blöcke:** 1.272
@@ -2923,7 +2946,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.97 – Reihenhaus an Piazza del Duomo – Teil 2/2 (Y 83–104)
+### Schritt 12.98 – Reihenhaus an Piazza del Duomo – Teil 2/2 (Y 83–104)
 
 - **Y-Bereich:** 83 bis 104
 - **Blöcke:** 1.292
@@ -2954,7 +2977,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.98 – Haus w477749512 – Teil 1/3 (Y 60–72)
+### Schritt 12.99 – Haus w477749512 – Teil 1/3 (Y 60–72)
 
 - **Y-Bereich:** 60 bis 72
 - **Blöcke:** 1.631
@@ -2987,7 +3010,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.99 – Haus w477749512 – Teil 2/3 (Y 73–85)
+### Schritt 12.100 – Haus w477749512 – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.527
@@ -3018,7 +3041,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.100 – Haus w477749512 – Teil 3/3 (Y 86–98)
+### Schritt 12.101 – Haus w477749512 – Teil 3/3 (Y 86–98)
 
 - **Y-Bereich:** 86 bis 98
 - **Blöcke:** 1.575
@@ -3049,7 +3072,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.101 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/9 (Y 65–65)
+### Schritt 12.102 – Palazzo des Cinquecento an Via Ricasoli – Teil 1/9 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.121
@@ -3077,7 +3100,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.102 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/9 (Y 65–68)
+### Schritt 12.103 – Palazzo des Cinquecento an Via Ricasoli – Teil 2/9 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
 - **Blöcke:** 2.029
@@ -3108,7 +3131,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.103 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/9 (Y 69–74)
+### Schritt 12.104 – Palazzo des Cinquecento an Via Ricasoli – Teil 3/9 (Y 69–74)
 
 - **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.895
@@ -3138,7 +3161,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.104 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/9 (Y 75–79)
+### Schritt 12.105 – Palazzo des Cinquecento an Via Ricasoli – Teil 4/9 (Y 75–79)
 
 - **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.617
@@ -3168,7 +3191,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.105 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/9 (Y 80–84)
+### Schritt 12.106 – Palazzo des Cinquecento an Via Ricasoli – Teil 5/9 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.539
@@ -3198,7 +3221,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.106 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/9 (Y 85–90)
+### Schritt 12.107 – Palazzo des Cinquecento an Via Ricasoli – Teil 6/9 (Y 85–90)
 
 - **Y-Bereich:** 85 bis 90
 - **Blöcke:** 1.917
@@ -3228,7 +3251,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.107 – Palazzo des Cinquecento an Via Ricasoli – Teil 7/9 (Y 91–94)
+### Schritt 12.108 – Palazzo des Cinquecento an Via Ricasoli – Teil 7/9 (Y 91–94)
 
 - **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.408
@@ -3259,7 +3282,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.108 – Palazzo des Cinquecento an Via Ricasoli – Teil 8/9 (Y 95–96)
+### Schritt 12.109 – Palazzo des Cinquecento an Via Ricasoli – Teil 8/9 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.561
@@ -3289,7 +3312,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.109 – Palazzo des Cinquecento an Via Ricasoli – Teil 9/9 (Y 97–102)
+### Schritt 12.110 – Palazzo des Cinquecento an Via Ricasoli – Teil 9/9 (Y 97–102)
 
 - **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.883
@@ -3317,7 +3340,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.110 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 63–70)
+### Schritt 12.111 – Reihenhaus an Piazza del Duomo – Teil 1/5 (Y 63–70)
 
 - **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.742
@@ -3350,7 +3373,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.111 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 71–80)
+### Schritt 12.112 – Reihenhaus an Piazza del Duomo – Teil 2/5 (Y 71–80)
 
 - **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.655
@@ -3381,7 +3404,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.112 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 81–90)
+### Schritt 12.113 – Reihenhaus an Piazza del Duomo – Teil 3/5 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.678
@@ -3411,7 +3434,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.113 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 91–100)
+### Schritt 12.114 – Reihenhaus an Piazza del Duomo – Teil 4/5 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.879
@@ -3441,7 +3464,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.114 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 101–107)
+### Schritt 12.115 – Reihenhaus an Piazza del Duomo – Teil 5/5 (Y 101–107)
 
 - **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.614
@@ -3472,7 +3495,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.115 – Reihenhaus an Via dei Pucci
+### Schritt 12.116 – Reihenhaus an Via dei Pucci
 
 - **Y-Bereich:** 65 bis 97
 - **Blöcke:** 1.799
@@ -3505,7 +3528,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.116 – Reihenhaus an Via Ricasoli
+### Schritt 12.117 – Reihenhaus an Via Ricasoli
 
 - **Y-Bereich:** 65 bis 98
 - **Blöcke:** 1.471
@@ -3537,7 +3560,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.117 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 65–83)
+### Schritt 12.118 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 65–83)
 
 - **Y-Bereich:** 65 bis 83
 - **Blöcke:** 1.339
@@ -3568,7 +3591,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.118 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 84–97)
+### Schritt 12.119 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 84–97)
 
 - **Y-Bereich:** 84 bis 97
 - **Blöcke:** 1.351

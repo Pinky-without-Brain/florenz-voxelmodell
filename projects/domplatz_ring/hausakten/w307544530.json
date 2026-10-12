@@ -1,45 +1,52 @@
 {
   "id": "w307544530",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "ab Mitte 17. Jh.; 1726-1732 vollendet; 1763-70 erweitert",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
+    "achsen": 4,
+    "material": "bugnato_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "art": "bottega_arcata",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rechteck",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 3
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_ecke",
+      "eckquaderung"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Naldini",
+  "sicherheit": 0.7,
+  "notiz": "Piazza del Duomo 28r/Via dei Servi 2-4: drei Geschosse, vier Achsen zur Piazza, EG mit rustizierten Öffnungen nach mittelalterlichem Ladenvorbild, glatte Eckquader, architravierte Fenster, Wappen hoch an der Ecke, Altane über den Dächern (it.Wikipedia). Gesims und Obergeschossmaterial nicht beschrieben (Annahme); Pyramidendach laut OSM.",
   "name": "Palazzo Naldini"
 }
