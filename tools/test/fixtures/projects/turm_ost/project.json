@@ -2,5 +2,6 @@
   "id": "turm_ost",
   "title": "Testturm Ost",
   "type": "wahrzeichen",
-  "note": "Testprojekt (tools/test/fixtures/projects)"
+  "note": "Testprojekt (tools/test/fixtures/projects)",
+  "ohneMaske": true
 }

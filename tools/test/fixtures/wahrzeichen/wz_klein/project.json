@@ -1,0 +1,11 @@
+{
+  "id": "wz_klein",
+  "title": "Kleines Testwahrzeichen",
+  "type": "wahrzeichen",
+  "note": "Testprojekt W0 (tools/test/fixtures/wahrzeichen); eigene Daten, Rechteck mit Hof",
+  "daten": "daten",
+  "gebaeude": ["w9001"],
+  "bodenY": 64,
+  "rahmen": { "ox": 0, "oz": 0, "thetaDeg": 15 },
+  "luftraum": 0
+}

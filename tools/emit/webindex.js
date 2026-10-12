@@ -61,6 +61,10 @@ function buildIndex(opts = {}) {
     }
     const json = p.json || {};
     let gebaeude = Array.isArray(json.gebaeude) ? json.gebaeude.slice() : [];
+    // Wahrzeichen-Zusatzmasken (z. B. Korridor): ihre Gebäude gehören ebenfalls dem Projekt
+    for (const m of Object.values(json.masken && typeof json.masken === 'object' ? json.masken : {})) {
+      for (const g of (m && m.gebaeude) || []) if (!gebaeude.includes(g)) gebaeude.push(g);
+    }
     if (isV2) gebaeude = DOM_IDS.filter((id) => byId.has(id));
     gebaeude.forEach((g) => taken.add(g));
     const built = modules.length > 0;

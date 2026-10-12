@@ -12,6 +12,7 @@ const { Kontext } = require('./kontext.js');
 const { bauHaus } = require('./haus.js');
 const strassenName = (...a) => require('./akten_entwurf.js').strassenName(...a);
 const { loadSpecs } = require('../projects.js');
+const { ladeVorrang } = require('../wahrzeichen/projekt.js');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const DEFAULT_DATEN = path.join(ROOT, 'data', 'stadt');
@@ -119,14 +120,25 @@ function baue(project) {
   }
 
   // Parzellenraster aus Projektgebäuden und direkten Nachbarn
+  // Wahrzeichen-Vorrang (data/stadt/vorrang.json): eigene Polygone, kein Haus
+  const vorrangMap = ladeVorrang(datenDir);
+  const imVorrang = ids.filter((id) => vorrangMap.has(id));
+  if (imVorrang.length) {
+    throw new Error(`Projekt ${project.id}: Wahrzeichen-Gebäude gehören nicht in ein Quartier: ${imVorrang.map((id) => `${id} (${vorrangMap.get(id)})`).join(', ')}`);
+  }
   const projekt = new Set(ids);
   const alle = new Map();
+  const vorrang = new Map(); // id -> { id, polygon, projekt }
   for (const id of ids) {
     const g = daten.byId.get(id);
     alle.set(id, g);
-    for (const h of nachbarn(daten, g, NEIGHBOUR_MARGIN)) alle.set(h.id, h);
+    for (const h of nachbarn(daten, g, NEIGHBOUR_MARGIN)) {
+      if (vorrangMap.has(h.id)) vorrang.set(h.id, { id: h.id, polygon: h.polygon, projekt: vorrangMap.get(h.id) });
+      else alle.set(h.id, h);
+    }
   }
-  const parz = makeParzellen([...alle.values()]);
+  const vorrangListe = [...vorrang.values()].sort((a, b) => compareIds(a.id, b.id));
+  const parz = makeParzellen([...alle.values()], { vorrang: vorrangListe });
   const umfeld = umfeldVon(daten.flaechen);
 
   // Akten
@@ -174,7 +186,7 @@ function baue(project) {
   }
 
   const q = {
-    project, ids, byId: daten.byId, alle, parz, umfeld, ground, kontext, isolati, projekt,
+    project, ids, byId: daten.byId, alle, parz, vorrang: vorrangListe, vorrangIds: new Set(vorrang.keys()), umfeld, ground, kontext, isolati, projekt,
     datenDir, flaechen: daten.flaechen, aktenDir, akten, aktenRoh, aktenFehler, aktenDateien, strasseVon,
     adjazenz: () => parz.adjazenz(),
     moduleNummern: () => isolati.map((i) => i.index),

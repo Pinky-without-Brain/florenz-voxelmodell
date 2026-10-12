@@ -31,7 +31,7 @@ tools/geom/dome.js      Achteckige Doppelkuppel (AP 2.3)
 tools/model/world.js    lädt die Module, baut ein Grid, sammelt die Bauteile (AP 2.4)
 tools/model/mN_*.js     ein Modul je Datei (Phase 3)
 tools/steps/planner.js  Bauteile → Bauschritte (AP 2.4)
-tools/validate/*.js     Regeln R1–R10 (AP 2.4)
+tools/validate/*.js     Regeln R1–R12 (AP 2.4, V3)
 tools/emit/data.js      Webapp-Daten (AP 2.5)
 tools/emit/drawing.js   Maßzeichnung (fertig)
 tools/build.js          Gesamtablauf (AP 2.4)
@@ -114,6 +114,7 @@ window.MODULE_DATA_V2[N] = { module, title, subtitle, icon, palette: ['stone_bri
 | R8 | Bauteile mit `symmetry` sind unter der D4-Untergruppe (order 4: Spiegelungen an X und Z; order 8: volle D4) **inklusive Blocktyp** invariant. |
 | R9 | Die von `emit/docs.js` erzeugten Zahlen stimmen mit dem Build überein (ab Phase 6). |
 | R10 | Grep auf das Markenwort über `tools/`, `content/`, `webapp/` und alle `*.md`. |
+| R12 | **Luftraum** (nur `type: wahrzeichen` mit Maskenfeldern, §10 „Wahrzeichen-Projekte (W0)“): Jede Zelle liegt in der Vereinigung der Projektmasken (Hauptmaske und `masken`; Zellen der Höfe/Löcher zählen als innen) oder ihre Säule hat `dAussen ≤ luftraum` (Vorgabe 0). Fehler je Bauteil mit Anzahl und bis zu 5 Beispielzellen. |
 
 Bericht: Konsolenzusammenfassung und `build/report.json` (Schritte je Modul, Blöcke, min/max Schrittgröße, Verletzungen je Regel). Der Ordner `build/` steht in `.gitignore`.
 
@@ -165,6 +166,35 @@ Ein Quartier ist ein Projekt mit `project.json` `{ id, title, type: "quartier", 
 - **Generator** `tools/city/haus.js` (`planHaus`, `bauHaus`) und `tools/city/fassade.js` (C2b, `layoutKante`, `zelle`): Wandlage 1 = Grundrisszellen mit einem offenen Nachbarn in der 8er-Nachbarschaft (flächenverbunden, auch bei schrägen Kanten); an Straßenkanten kommt eine zweite Lage hinzu (2 Blöcke). `fassade.js` legt je Straßenkante Achsen (Abstand 5–9, mittig, 2 Blöcke Rand) und Öffnungen in (u, v) fest (Fenster mit Stein- oder Stuckrahmen, Läden, Rund-/Korbbogen, Biforie, Tabernakel, Oculus, Ladenbogen, Portal mit Keilsteinring, Kniefenster, Loggia), dazu Bugnato im Verband mit zurückgesetzten Fugen, Marcapiano und Eckquader; eine Zelle der Lage 1 mit vollständiger Lage 2 dahinter (`hinten`) darf zurückspringen, ohne die Hülle zu öffnen. Vorsprünge (Sohlbänke, Konsolen, Marcapiano) und das Gesims (gestufte Konsolen mit überstehendem Dach) liegen auf freien Zellen vor der Wand (nie auf Parzellen anderer Häuser, einmal je Zelle im Projekt über `kontext.beanspruche`); Dach über dem Chamfer-Abstandsfeld zum Rand (Anstieg 0,4 je Block, höchstens 10 Blöcke) mit Firstkamm, optionalen Kaminen und der Altana, Flachdach als Terrasse mit Brüstung. Rollen → Blocktypen in `tools/city/material.js`; die Fassadenregeln stehen in `20_Stadtmodell_Florenz/HAUSAKTE_SCHEMA.md` §7.
 - **Hausakten** liegen unter `projects/<id>/hausakten/<gebaeude-id>.json`. `node tools/city/akten_entwurf.js --project <id>` schreibt fehlende Entwurfs-Akten (`quelle: typologie`, `sicherheit` ≤ 0,4) und überschreibt nie.
 - **R11 Hausakten** (`tools/validate/r11_hausakten.js`, nur für Quartiere): Schema (`tools/city/akte.js`), Geschosshöhensumme gegen `hoeheBl` (±2), Akte je Gebäude, Nachbarschaftsregel (angrenzende Häuser unterscheiden sich in mindestens 2 von Putzfarbe, Achsen, Fenstertyp, Gesimsart, EG-Art; Ausnahme gleiches `ensemble`), Vielfalt-Kennzahl je Isolato als Info (`report_<id>.json`, Feld `info`).
+
+### Wahrzeichen-Projekte (W0)
+Ein Wahrzeichen ist ein Projekt `type: "wahrzeichen"` mit Moduldateien `projects/<id>/model/mN_*.js`; Geometrie wird mit der Bibliothek `tools/wahrzeichen/` gebaut. `project.json`:
+```json
+{ "id": "palazzo_vecchio", "title": "Palazzo Vecchio", "type": "wahrzeichen",
+  "gebaeude": ["r1461712"],
+  "bodenY": 68,
+  "rahmen": { "ox": -146.5, "oz": 887.0, "thetaDeg": -79.8 },
+  "masken": { "korridor": { "gebaeude": ["w328477211", "r2302811", "w1344547176"], "xMin": -528,
+              "abzugProjekte": ["palazzo_vecchio", "loggia_dei_lanzi", "orsanmichele"], "abzugHaupt": true } },
+  "luftraum": 3 }
+```
+- `gebaeude` (Pflicht, nichtleer): OSM-IDs der Hauptmaske. Der Feldname bleibt `gebaeude`, weil `webindex`/City-View damit die LOD-Prismen ausblenden und den „geplant“-Platzhalter unterdrücken; die Gebäude der `masken` zählen dort ebenfalls zum Projekt.
+- `bodenY` (Pflicht, Zahl), `rahmen` (Pflicht, `ox`, `oz`, `thetaDeg` als Zahlen). `luftraum` (Zahl ≥ 0, Vorgabe 0): größtes `dAussen` für Zellen außerhalb aller Masken (R12).
+- `masken` (optional): Zusatzmasken `{ gebaeude, xMin?, xMax?, abzugHaupt?, abzugProjekte? }`. Abgezogen werden die Hauptmaske (`abzugHaupt`) und die Hauptmasken der genannten Projekte (deren `project.json`-`gebaeude`, solange es sie nicht gibt: ihre Einträge in `data/stadt/vorrang.json`).
+- `daten` (optional, relativ zum Projektordner): Ordner mit `gebaeude.json` statt `data/stadt/` (Tests). `ohneMaske: true` schaltet die Pflichtfelder und R12 ab (nur einfache Test-Wahrzeichen).
+- Die Registry (`tools/projects.js`) meldet fehlende oder falsche Felder als Problem (`pruefeFelder` in `tools/wahrzeichen/projekt.js`).
+
+**Bibliothek** `require('<repo>/tools/wahrzeichen')` (`index.js` bündelt alles):
+- `rahmen.js`: `makeRahmen({ ox, oz, thetaDeg })` -> `{ toWorld(u, w) -> {x, z}, toLocal(x, z) -> {u, w}, cos, sin }` mit `x = ox + u·cosθ − w·sinθ`, `z = oz + u·sinθ + w·cosθ` (Rückabbildung wie in den Katalogen).
+- `maske.js`: `Maske` über ganzzahlige Zellen (Schlüssel `poly.ck`). `Maske.ausGebaeude(ids, { daten?, xMin?, xMax?, abzug?: Maske[] })` (Außenring minus Löcher, Rand innen; `daten`: Ordner mit `gebaeude.json`, `{gebaeude}` oder Array; Vorgabe `data/stadt`), `Maske.vonZellen([[x, z]])`. Abfragen: `has(x, z)`, `innen(x, z)` (Maske oder Hof), `cells` (sortiert x, dann z), `size`, `bbox`, `union(...)`, `minus(...)`, `dilate(k)`, `erode(k)`, `lokal(rahmen, (u, w, x, z) => bool)`.
+  Abstandsfelder (Chebyshev, vorberechnet): `d8(x, z)` (Randzelle = 1, Löcher zählen als innen, 0 außerhalb der Maske), `loecher()` und `dLoch(i, x, z)` (Loch i in Reihenfolge der Polygonlöcher, erste Zelle außerhalb = 1), `dAussen(x, z)` (außerhalb der Maske, 1 = angrenzend, bis 32, danach `Infinity`).
+  Kanten: `kanten()` -> `[{ i, a, b, L, rahmen }]` der Außenringe (Index wie `poly.edges`, nullbasiert), `rahmen` mit Ursprung `a`, u entlang a->b, **w nach innen**; bei gegenläufigem Ring (Linkssystem) ist der Rahmen gespiegelt (`rahmenAusBasis`), `toWorld`/`toLocal` gelten unverändert. `naechsteKante(x, z)` -> Index (Gleichstand: kleinster).
+- `rollen.js`: `typ(rolle)` (erster Palettentyp, wirft bei unbekannter Rolle), `fresko(farbe)` (`rot, weiss, blau, hellblau, gelb, orange, gruen, braun, schwarz`).
+- `boden.js`: Provider von `tools/city/ground_stadt.js` (`groundTopY`, `inRaster`, `minY`, `maxY`) und `fundamentZellen(maske, bodenY)` -> `[[x, y, z]]` von `groundTopY+1` bis `bodenY−1`.
+- `projekt.js`: `ladeMasken(projectJson, { dir?, root?, projectsRoot? })` -> `{ id, haupt, masken: {name: Maske}, alle, luftraum, bodenY, rahmen }`; `wahrzeichenVorrang(root)` -> Map OSM-ID -> Projekt-ID aus `data/stadt/vorrang.json`; `pruefeFelder(json)`.
+- Moduldateien eines Wahrzeichens laden die Bibliothek mit `require('../../../tools/wahrzeichen')` und die eigene `project.json` über `ladeMasken(JSON.parse(...), { dir })`.
+
+**Wahrzeichen-Vorrang im Quartiergenerator.** `data/stadt/vorrang.json` (`{ quelle, ids: { "<osm-id>": "<projekt>" } }`) listet die Gebäude der Wahrzeichen (Quelle: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md` §2). `quartier.js` übergibt die Polygone aller dort gelisteten Gebäude im Nachbarschaftsumkreis (Abstand ≤ 3) an `Parzellen` (`vorrang: [{ id, polygon, projekt }]`). Diese werden zuerst gerastert: Ihre Zellen gehören `"WZ:<projekt>"` (`owner()`, `istVorrang()`, `vorrangZellen()`), kein Haus belegt sie. Für Fassade, Adjazenz und Brandwand zählt die Zelle wie ein gebautes Nachbarhaus mit kleinerer ID (keine Fenster dorthin, kein Gesims darauf; `Kontext.beanspruche` vergibt sie nie). Steht eine Vorrang-ID in `gebaeude` eines Quartiers, ist das ein LOAD-Fehler. Ein Datenordner (`daten`) ohne eigene `vorrang.json` hat keinen Vorrang.
 
 ### Datenkorrekturen (C3)
 `data/stadt/korrekturen.json` (`{ "hoehen": { "<id>": { "hoeheBl", "quelle", "notiz" } } }`) überschreibt die OSM-Höhe oder Schätzung einzelner Gebäude. `tools/data/gebaeude_build.js` wendet sie nach der Schätzung an (`hoeheQuelle: "korrektur"`, zusätzlich `korrekturQuelle`); unbekannte IDs sind ein Fehler. Danach `node tools/data/build_stadtdaten.js`, `node tools/emit/stadtbasis.js` und die Akten des betroffenen Projekts anpassen (R11: Geschosssumme ±2).

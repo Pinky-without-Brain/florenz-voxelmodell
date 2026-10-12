@@ -13,7 +13,8 @@ const RULES = [
   ['R8', require('./r8_symmetry.js')],
   ['R9', require('./r9_docs.js')],
   ['R10', require('./r10_wordcheck.js')],
-  ['R11', require('./r11_hausakten.js')]
+  ['R11', require('./r11_hausakten.js')],
+  ['R12', require('./r12_luftraum.js')]
 ];
 
 const ROOT = path.resolve(__dirname, '..', '..');
