@@ -19,6 +19,11 @@ window.VoxelRenderer = (function() {
   let highlightOutlineMesh;
   let sunLight;
   let siteGroup;
+  let plazaMeshRef = null;
+  let isPaused = false;
+  let siteVisible = true;    // Dom-Umgebung (Piazza, OSM-Häuser, Richtungsschilder)
+  let groundY = 64;          // Boden-Y des Rasters (Dom: 64); setContext() ändert ihn für andere Projekte
+  let overviewMesher = false; // Gesamtansicht per Chunk-Mesher (V3 B2, ?overview=mesh); Standard bleibt InstancedMesh (Messung: kein Gewinn)
 
   // Bounding Box aller geladenen V2-Blöcke (setModelBounds); Standardwert bis dahin
   let modelBounds = { minX: -100, maxX: 100, minY: 64, maxY: 200, minZ: -100, maxZ: 100 };
@@ -155,7 +160,9 @@ window.VoxelRenderer = (function() {
     });
     const plazaMesh = new THREE.Mesh(plazaGeo, plazaMat);
     plazaMesh.rotation.x = -Math.PI / 2;
-    plazaMesh.position.set((P.minX + P.maxX) / 2, 63.9, (P.minZ + P.maxZ) / 2);
+    plazaMesh.position.set((P.minX + P.maxX) / 2, groundY - 0.1, (P.minZ + P.maxZ) / 2);
+    plazaMeshRef = plazaMesh;
+    plazaMesh.visible = siteVisible;
     plazaMesh.receiveShadow = true;
     gridHelperGroup.add(plazaMesh);
 
@@ -168,7 +175,7 @@ window.VoxelRenderer = (function() {
     const span = Math.max(b.maxX - b.minX, b.maxZ - b.minZ) + 40;
     const gridSize = Math.ceil(span / 20) * 20;
     const blockGrid = new THREE.GridHelper(gridSize, gridSize, 0x0055BF, 0x9CB0C4);
-    blockGrid.position.set(gx, 63.98, gz);
+    blockGrid.position.set(gx, groundY - 0.02, gz);
     if (blockGrid.material) {
       blockGrid.material.transparent = true;
       blockGrid.material.opacity = 0.55;
@@ -177,7 +184,7 @@ window.VoxelRenderer = (function() {
 
     // 3. GROBES 10x10 BLOCKRASTER ZUR SCHNELLEN ORIENTIERUNG
     const majorGrid = new THREE.GridHelper(gridSize, gridSize / 10, 0xD03020, 0x486480);
-    majorGrid.position.set(gx, 63.985, gz);
+    majorGrid.position.set(gx, groundY - 0.015, gz);
     if (majorGrid.material) {
       majorGrid.material.transparent = true;
       majorGrid.material.opacity = 0.75;
@@ -188,12 +195,12 @@ window.VoxelRenderer = (function() {
     const axisMatX = new THREE.LineBasicMaterial({ color: 0xD02020, linewidth: 2 });
     const axisMatZ = new THREE.LineBasicMaterial({ color: 0x1050D0, linewidth: 2 });
     const xLineGeo = new THREE.BufferGeometry().setFromPoints([
-      new THREE.Vector3(gx - gridSize / 2, 63.99, 0),
-      new THREE.Vector3(gx + gridSize / 2, 63.99, 0)
+      new THREE.Vector3(gx - gridSize / 2, groundY - 0.01, 0),
+      new THREE.Vector3(gx + gridSize / 2, groundY - 0.01, 0)
     ]);
     const zLineGeo = new THREE.BufferGeometry().setFromPoints([
-      new THREE.Vector3(0, 63.99, gz - gridSize / 2),
-      new THREE.Vector3(0, 63.99, gz + gridSize / 2)
+      new THREE.Vector3(0, groundY - 0.01, gz - gridSize / 2),
+      new THREE.Vector3(0, groundY - 0.01, gz + gridSize / 2)
     ]);
     gridHelperGroup.add(new THREE.Line(xLineGeo, axisMatX));
     gridHelperGroup.add(new THREE.Line(zLineGeo, axisMatZ));
@@ -203,15 +210,15 @@ window.VoxelRenderer = (function() {
     const originTileMat = new THREE.MeshBasicMaterial({ color: 0xFFD700, side: THREE.DoubleSide });
     const originTile = new THREE.Mesh(originTileGeo, originTileMat);
     originTile.rotation.x = -Math.PI / 2;
-    originTile.position.set(0.5, 63.992, 0.5);
+    originTile.position.set(0.5, groundY - 0.008, 0.5);
     gridHelperGroup.add(originTile);
 
     // 6. 3D-HIMMELSRICHTUNGS-MARKER am Rand der Piazza
     const cx = (P.minX + P.maxX) / 2, cz = (P.minZ + P.maxZ) / 2;
-    createDirectionMarker("WESTEN (-X) [Fassade]", P.minX + 40, cz, 0xD02020, gridHelperGroup, 66, 2);
-    createDirectionMarker("OSTEN (+X) [Chor]", P.maxX - 40, cz, 0xD02020, gridHelperGroup, 66, 2);
-    createDirectionMarker("NORDEN (-Z)", cx, P.minZ + 25, 0x1050D0, gridHelperGroup, 66, 2);
-    createDirectionMarker("SÜDEN (+Z) [Campanile]", cx, P.maxZ - 25, 0x1050D0, gridHelperGroup, 66, 2);
+    if (siteVisible) createDirectionMarker("WESTEN (-X) [Fassade]", P.minX + 40, cz, 0xD02020, gridHelperGroup, 66, 2);
+    if (siteVisible) createDirectionMarker("OSTEN (+X) [Chor]", P.maxX - 40, cz, 0xD02020, gridHelperGroup, 66, 2);
+    if (siteVisible) createDirectionMarker("NORDEN (-Z)", cx, P.minZ + 25, 0x1050D0, gridHelperGroup, 66, 2);
+    if (siteVisible) createDirectionMarker("SÜDEN (+Z) [Campanile]", cx, P.maxZ - 25, 0x1050D0, gridHelperGroup, 66, 2);
   }
 
   // Lichtrichtung und Schattenbereich an die Modellgröße anpassen
@@ -569,17 +576,85 @@ window.VoxelRenderer = (function() {
     let rendered = 0;
     const total = allBlocks ? allBlocks.length : 0;
     if (total > 0) {
-      const visible = cullHidden(allBlocks);
-      rendered = visible.length;
-      buildBlockGroup(previousBlocksGroup, visible, false);
+      if (overviewMesher && window.ChunkMesher && window.ProjectLoader) {
+        rendered = buildMeshedOverview(previousBlocksGroup, allBlocks);
+      } else {
+        const visible = cullHidden(allBlocks);
+        rendered = visible.length;
+        buildBlockGroup(previousBlocksGroup, visible, false);
+      }
     }
     renderStats.rendered = rendered;
     renderStats.total = total;
     renderStats.ms = performance.now() - t0;
-    console.log("Gesamtansicht: " + renderStats.ms.toFixed(0) + " ms, " + rendered + " von " + total + " Instanzen gerendert");
+    console.log("Gesamtansicht (" + (overviewMesher ? "Chunk-Mesher" : "Instanzen") + "): " + renderStats.ms.toFixed(0) + " ms, " + rendered + (overviewMesher ? " Flächen" : " von " + total + " Instanzen") + " gerendert");
     if (controls) {
       moveToPreset("start");
     }
+  }
+
+  // Gesamtansicht: Blöcke in eine Mesher-Welt, jede 16x16-Säule vermaschen (opak + transparent getrennt)
+  let meshOpaqueMat = null, meshTransMat = null;
+  function buildMeshedOverview(group, blockList) {
+    let yMin = Infinity, yMax = -Infinity;
+    for (let i = 0; i < blockList.length; i++) { const y = blockList[i].y; if (y < yMin) yMin = y; if (y > yMax) yMax = y; }
+    const world = window.ChunkMesher.createWorld({ yMin, yMax, typeInfo: window.ProjectLoader.blockInfo });
+    const idOf = {};
+    for (let i = 0; i < blockList.length; i++) {
+      const b = blockList[i];
+      const id = idOf[b.type] || (idOf[b.type] = world.typeId(b.type));
+      world.set(b.x, b.y, b.z, id);
+    }
+    if (!meshOpaqueMat) {
+      meshOpaqueMat = new THREE.MeshStandardMaterial({ vertexColors: true, roughness: 0.65, metalness: 0.05 });
+      meshTransMat = new THREE.MeshStandardMaterial({ vertexColors: true, roughness: 0.3, transparent: true, opacity: GLASS_OPACITY, depthWrite: false });
+    }
+    let quads = 0;
+    world.chunks.forEach(function (c) {
+      const res = window.ChunkMesher.meshChunk(world, c.cx, c.cz, { variation: 0.05 });
+      if (!res) return;
+      quads += res.quads;
+      [[res.opaque, meshOpaqueMat, false], [res.transparent, meshTransMat, true]].forEach(function (e) {
+        const part = e[0];
+        if (!part) return;
+        const geo = new THREE.BufferGeometry();
+        geo.setAttribute("position", new THREE.BufferAttribute(part.positions, 3));
+        geo.setAttribute("normal", new THREE.BufferAttribute(part.normals, 3, true));
+        geo.setAttribute("color", new THREE.BufferAttribute(part.colors, 3, true));
+        geo.setIndex(new THREE.BufferAttribute(part.indices, 1));
+        geo.computeBoundingSphere();
+        const mesh = new THREE.Mesh(geo, e[1]);
+        mesh.castShadow = !e[2];
+        mesh.receiveShadow = true;
+        if (e[2]) mesh.renderOrder = 1;
+        group.add(mesh);
+      });
+    });
+    return quads;
+  }
+
+  // Messhilfe: n Bilder rendern, danach gl.finish(); Mittelwert in ms je Bild (ohne Anzeige-Synchronisierung)
+  function benchmark(n) {
+    const gl = renderer.getContext();
+    renderer.render(scene, camera); gl.finish();
+    const t0 = performance.now();
+    for (let i = 0; i < n; i++) renderer.render(scene, camera);
+    gl.finish();
+    return (performance.now() - t0) / n;
+  }
+
+  function setOverviewMesher(on) { overviewMesher = !!on; }
+
+  function setPaused(p) { isPaused = !!p; }
+
+  // Umgebung je Projekt: Dom-Umgebung (Piazza, OSM-Häuser) ein-/ausblenden und Boden-Y des Rasters setzen
+  function setContext(opts) {
+    if (opts.groundY !== undefined) groundY = opts.groundY;
+    if (opts.site !== undefined) {
+      siteVisible = !!opts.site;
+      if (siteGroup) siteGroup.visible = siteVisible;
+    }
+    setupGroundGrid();
   }
 
   function setCameraLock(locked) {
@@ -837,6 +912,7 @@ window.VoxelRenderer = (function() {
 
   function animate() {
     requestAnimationFrame(animate);
+    if (isPaused) return;
     if (controls) controls.update();
     
     // Sanftes Pulsieren für aktive Teile
@@ -855,6 +931,11 @@ window.VoxelRenderer = (function() {
     isBaseBlocksVisible,
     renderOverview,
     setModelBounds,
+    setContext,
+    setPaused,
+    benchmark,
+    renderInfo: () => renderer.info.render,
+    setOverviewMesher,
     toggleCameraMode,
     setCameraView,
     resetCamera,
