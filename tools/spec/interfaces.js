@@ -62,7 +62,7 @@ const OWNERSHIP = [
       && Math.abs(z) <= C.nave.exteriorHalfZ },
   { name: 'Langhaus', module: 1,
     test: (x, y, z) => y >= D.LEVELS.walkY && y <= C.nave.roofRidgeY
-      && x >= C.facade.westFaceX + C.facade.thickness && x < C.nave.crossingWestX
+      && x >= C.facade.westFaceX + C.facade.thickness && x < -C.crossing.outerHalfFlat // bis −55, stößt an die Vierung
       && Math.abs(z) <= C.nave.exteriorHalfZ },
   { name: 'Tambour', module: 4,
     test: (x, y, z) => y > C.crossing.archTopY && y <= C.dome.springY && crossingOuter(x, z) },
