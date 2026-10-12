@@ -1,0 +1,50 @@
+{
+  "module": 5,
+  "title": "Turm der Signoria, Krone",
+  "subtitle": "Bautüte 5: Konsolfries, Galerie, Glockenstube, Edikula und Pyramidendach mit dem Marzocco",
+  "icon": "🔔",
+  "parts": {
+    "turm_konsolen": {
+      "title": "Konsolfries des Turmes",
+      "description": "Von Y 213 bis Y 220 kragt der Turm in drei Stufen aus: zuerst eine Zelle, dann zwei, dann drei Zellen weit. In den oberen Lagen stehen Pfeiler im Abstand von drei Zellen, dazwischen bleiben spitzbogige Felder frei. Die Rückwand ist der Schaft selbst.",
+      "tip": "Beginne mit dem Ring der ersten Stufe und arbeite nach außen.",
+      "caution": "Die Lage Y 220 ist rundum voll und trägt die Galerie.",
+      "fact": "Das Konsolgeschoss mit Spitzbögen trägt das Ballatoio des Turmes. Es ragt auch über die Piazza."
+    },
+    "turm_ballatoio": {
+      "title": "Galerie mit ghibellinischen Zinnen",
+      "description": "Auf Y 221 legst du den Boden der Galerie, drei Zellen weit vorkragend. Darauf mauerst du bis Y 226 eine zwei Zellen dicke Brüstung und setzt auf Y 227 und 228 Zinnen, drei breit im Abstand von fünf. In der obersten Lage ist die mittlere Zelle jeder Zinne frei, so entsteht der Schwalbenschwanz.",
+      "tip": "Die Mitte der Zinne baust du erst in der letzten Lage aus.",
+      "caution": "Die Galerie ragt auf der Westseite über den Platz. Der Luftraum beträgt drei Zellen.",
+      "fact": "Die Schwalbenschwanzzinnen sind das Zeichen der Ghibellinen. Der Turm erscheint dadurch kaiserlich, der Palast darunter guelfisch."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Von Y 221 bis Y 228 mauerst du die Wand der Glockenstube. Sie bekommt auf jeder Seite eine Spitzbogenöffnung, drei breit und sechs hoch. Innen baust du einen Boden und hängst drei Bronzeglocken auf, je zwei mal zwei Zellen und drei hoch.",
+      "tip": "Die Glocken sind eine Option. Der Boden darunter trägt sie.",
+      "caution": "Der Boden der Glockenstube gehört nicht zur Vorlage. Wir haben ihn ergänzt, damit die Glocken Halt haben.",
+      "fact": "Mit den Glocken des Turmes rief die Signoria die Bürger zusammen. Die drei Glocken im Modell sind eine Option."
+    },
+    "edikula": {
+      "title": "Edikula mit Rundbögen",
+      "description": "Auf Y 229 legst du die Bodenplatte der Edikula. Darauf stellst du vier Eckpfeiler, je zwei mal zwei Zellen, und fasst die Seiten mit einer Wand, die große Rundbögen öffnet: an den Langseiten zwei, an den Schmalseiten einen. Die Pfeilerköpfe sind verziert.",
+      "tip": "Der Scheitel der Bögen liegt auf Y 243, der Kämpfer auf Y 239.",
+      "caution": "Die Oberkante der Wand auf Y 244 muss lückenlos sein. Darauf liegt das Dach.",
+      "fact": "Die Edikula mit vier gemauerten Säulen und Rundbögen krönt den Turm."
+    },
+    "turmdach": {
+      "title": "Pyramidendach und Stange",
+      "description": "Von Y 245 bis Y 249 mauerst du ein pyramidenförmiges Dach aus Ziegeln, das mit jeder Lage eine Zelle schmaler wird. Auf der Firstlinie steht eine Stange aus Bronze bis Y 252.",
+      "tip": "Das Dach ist massiv. Jede Lage ist eine Fläche, die kleiner ist als die darunter.",
+      "caution": "Die Stange sitzt auf der Mitte der Firstlinie.",
+      "fact": "Das spitze Dach ist ein Pyramidendach über der Edikula. Die Stange trägt die Wetterfahne."
+    },
+    "marzocco_fahne": {
+      "title": "Marzocco als Wetterfahne",
+      "description": "Auf der Stange sitzt der Löwe, aus Bronze. Du baust den Fuß zwei mal zwei Zellen auf Y 253, den Körper zwei mal drei Zellen auf Y 254 und 255 und den Kopf als eine Zelle auf Y 256.",
+      "tip": "Mit der Kopfzelle auf Y 256 erreichst du die Turmhöhe von 94 Metern.",
+      "caution": "Der Löwe ist eine vereinfachte Blockfigur, nicht nach Vorbild gearbeitet.",
+      "fact": "Die Wetterfahne zeigt den Marzocco mit der Lilie. Er ist mehr als zwei Meter hoch."
+    }
+  }
+}

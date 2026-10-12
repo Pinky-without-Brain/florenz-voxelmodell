@@ -1,0 +1,43 @@
+{
+  "module": 8,
+  "title": "Dachgeschosse und Ostfassade",
+  "subtitle": "Bautüte 8: Die Dachgeschosse der Anbauten, Lisenen, Eckquader und die Giebel des Salone",
+  "icon": "🧭",
+  "parts": {
+    "dachgeschoss_mittelbauten": {
+      "title": "Dachgeschoss der Anbauten",
+      "description": "Auf die Obergeschosse der Anbauten setzt du ein Dachgeschoss, drei Zellen dick, von Y 118 bis Y 123, aus hellem Putz. Kleine Fenster, zwei breit und drei hoch, sitzen im Abstand von acht.",
+      "tip": "Die Fenster sitzen auf Y 120 bis 122.",
+      "caution": "Lass die Zellen der Lisenen und Eckquader frei. Sie folgen weiter unten.",
+      "fact": "Die Traufhöhe der Anbauten von 28 Metern ist geschätzt."
+    },
+    "traufgesims_ost": {
+      "title": "Traufgesims der Ostseite",
+      "description": "Auf Y 124 schließt du die Wände der Anbauten mit einem Gesims aus grauem Pietra serena. Es liegt auf der Höhe des Ballatoio-Bodens.",
+      "tip": "Das Gesims umläuft alle Anbauten ohne Unterbrechung.",
+      "caution": "Das Gesims sitzt in der Wandlage und springt nicht vor.",
+      "fact": "Das Gesims sitzt auf derselben Höhe wie der Gangboden des Arnolfo-Blocks. So bleibt die Traufe einheitlich."
+    },
+    "salone_giebel": {
+      "title": "Giebelwände des Salone",
+      "description": "An den beiden Schmalseiten des Salone mauerst du Giebelwände, zwei Zellen dick, von Y 125 aufwärts bis unter das Dach. Sie bilden das Dreieck unter dem Satteldach.",
+      "tip": "Die Wand folgt der Dachlinie. In der Mitte ist sie am höchsten.",
+      "caution": "Die Giebel enden unter der Dachhaut. Das Dach selbst steht schon.",
+      "fact": "Der Salone ist ein einziger Saal von rund 52 Metern Länge, der ganz ohne Stützen auskommt."
+    },
+    "ostbau_strebepfeiler": {
+      "title": "Lisenen der Via dei Leoni",
+      "description": "An der Ostfassade stellst du Lisenen auf: Pfeilerstreifen, drei Zellen breit, alle 16 Zellen. Sie reichen vom Sockel bis zur Traufe auf Y 124 und liegen in den äußeren zwei Zellen der Wand.",
+      "tip": "Die erste Lisene beginnt an der Ecke.",
+      "caution": "Es gibt keine Vorsprünge. Die Lisenen gliedern nur durch ihr Material.",
+      "fact": "Die Lisenen gliedern die lange Fassade zur Via dei Leoni in gleichmäßige Felder."
+    },
+    "ostbau_eckquader": {
+      "title": "Eckquader des Ostblocks",
+      "description": "An den vier Ecken des Ostblocks mauerst du Eckquader aus Rustika, drei mal drei Zellen, von Y 69 bis Y 124. Sie fassen die Gebäudekanten ein.",
+      "tip": "Diese Zellen bleiben in den Erdgeschoss- und Obergeschosswänden frei.",
+      "caution": "Der Wechsel von Läufer und Binder ist mit einem einzigen Blocktyp nicht darstellbar. Die Quader sind durchgehend glatt.",
+      "fact": "Eckquader sind größere Steine, die Gebäudeecken verstärken und optisch betonen."
+    }
+  }
+}

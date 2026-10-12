@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Sockel und Bodenplatte",
+  "subtitle": "Bautüte 0: Das Gelände unter dem Palast, der Rustika-Sockel und die Pflasterplatte auf Y 68",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament aus Bruchstein",
+      "description": "Du füllst den ganzen Grundriss des Palastes samt den vier Höfen von der Geländeoberkante bis Y 67 mit grauem Bruchstein. Wo das Gelände schon bei Y 67 oder höher liegt, baust du hier nichts. Im Osten an der Via dei Leoni sind es bis zu sechs Lagen, im Westen an der Piazza kaum eine.",
+      "tip": "Beginne im Südosten. Dort liegt das Gelände am tiefsten, und du siehst sofort, wie viele Lagen nötig sind.",
+      "caution": "Die äußeren zwei Zellen am Rand gehören dem Rustika-Sockel im nächsten Bauteil. Lass sie hier frei.",
+      "fact": "Der Palast steht auf einem Hang. Die Westfassade schaut auf den Platz, die Ostseite an der Via dei Leoni steht deutlich tiefer."
+    },
+    "sockel_rustika": {
+      "title": "Sockel aus Rustika",
+      "description": "Entlang des Außenrings mauerst du zwei Zellen breit den sichtbaren Sockel aus rauen Rustika-Quadern, von der Geländekante bis Y 67. Er gleicht die Höhe zur Straße aus und bleibt an der Via dei Leoni sechs Lagen hoch sichtbar.",
+      "tip": "Arbeite lagenweise rund um den Palast, dann stimmt die Oberkante auf Y 67 überall.",
+      "caution": "Die Innenseite des Sockels ist das Fundament des vorigen Bauteils. Setze hier nur die äußeren zwei Zellen.",
+      "fact": "Der Palast steht an der Piazza auf Platzniveau, an der Via dei Leoni dagegen sechs bis sieben Lagen über der Straße. Das gehört zum Bild des Baus."
+    },
+    "bodenplatte": {
+      "title": "Bodenplatte auf Y 68",
+      "description": "Auf Y 68 legst du die Bodenplatte über den ganzen Grundriss, auch über die vier Höfe. Innen ist sie aus hellem Pflaster, in einem Band von fünf Zellen am Außenring aus grauem Bruchstein, denn dort stehen die dicken Erdgeschosswände.",
+      "tip": "Zähle das Wandband vom Rand aus: fünf Zellen Bruchstein, danach Pflaster.",
+      "caution": "Die Höfe bekommen ihren Pflasterboden schon hier. Die Hofwände folgen erst in Modul 6.",
+      "fact": "Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, der größte ist der zweite Hof mit der Dogana."
+    }
+  }
+}

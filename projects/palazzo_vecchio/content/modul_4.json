@@ -1,0 +1,36 @@
+{
+  "module": 4,
+  "title": "Turm der Signoria, Schaft",
+  "subtitle": "Bautüte 4: Der Schaft des Arnolfo-Turmes vom Palastboden bis Y 212",
+  "icon": "🗼",
+  "parts": {
+    "turm_unterbau": {
+      "title": "Unterbau im Palast",
+      "description": "Zuerst baust du den Turmschaft im Inneren des Palastes, von Y 69 bis Y 130. Die Wand ist vier Zellen dick und umschließt einen leeren Raum. Die Zellen der Außenwände, des Ballatoio und der Zinnen sind schon belegt, du setzt nur die restlichen Wandzellen, vor allem an der Nord-, Ost- und Südseite des Turmes.",
+      "tip": "Der Turm ist nicht mittig, sondern nach Süden versetzt. Seine Westseite liegt bündig in der Fassade.",
+      "caution": "Der Innenraum bleibt bis Y 211 leer. Keine Decke des Palastes darf ihn durchschneiden.",
+      "fact": "Der Turm wurde um 1310 auf dem älteren Turm der Vacca errichtet. Er sitzt nicht in der Mitte der Fassade."
+    },
+    "schaft_63_104": {
+      "title": "Schaft, unterer Teil",
+      "description": "Ab Y 131 steigt der Turm über die Zinnen hinaus. Bis Y 172 mauerst du den Schaft, vier Zellen dick, mit hohlem Kern. Die Westseite liegt in der Fassadenebene, es gibt keine Vorkragung.",
+      "tip": "Der Grundriss misst rund 22 mal 14 Zellen und ist leicht aus dem Raster gedreht. Kontrolliere die Ecken in jeder Lage.",
+      "caution": "Der Hohlraum bleibt frei. Setze keine Stufen, das Treppenhaus entfällt.",
+      "fact": "Der Turm ist 94 Meter hoch. Die Turmspitze des Modells liegt bei Y 256."
+    },
+    "schaft_105_144": {
+      "title": "Schaft, oberer Teil mit Schlitzfenstern",
+      "description": "Von Y 173 bis Y 212 mauerst du den Schaft weiter. Auf jeder Seite lässt du in der Mitte zwei schmale Schlitze frei, eine Zelle breit und sechs hoch, auf Y 180 bis 185 und auf Y 198 bis 203.",
+      "tip": "Die Schlitze bleiben Luft, es gibt kein Glas.",
+      "caution": "Die Schlitze gehen durch die ganze Wand. Prüfe von innen, ob du hindurchsehen kannst.",
+      "fact": "Die schmalen Schlitze lassen Licht in den hohen Turmschaft."
+    },
+    "schaft_abschlussdecke": {
+      "title": "Abschlussdecke des Schaftes",
+      "description": "Auf Y 212 deckst du den Hohlraum mit einer Platte aus grauem Stein ab. Sie trägt die Krone des Turmes.",
+      "tip": "Die Platte schließt bündig an die Wand an.",
+      "caution": "Der Raum darunter ist das einzige Hohlraum-Geschoss, das du oben schließt.",
+      "fact": "Hier endet der Schaft aus Pietraforte. Darüber beginnt die Krone mit der Wehrgalerie."
+    }
+  }
+}

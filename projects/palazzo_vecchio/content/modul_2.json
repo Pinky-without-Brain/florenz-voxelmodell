@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Obergeschosse mit Biforien",
+  "subtitle": "Bautüte 2: Zwei Geschosse mit weißen Doppelfenstern und der Durchgang für den Korridor",
+  "icon": "🪟",
+  "parts": {
+    "og1_wand_west": {
+      "title": "Erstes Obergeschoss, Westfassade",
+      "description": "Von Y 85 bis Y 101 mauerst du die Westfassade vier Zellen dick weiter, wieder aus Rustika. Über jeder Fensterachse setzt du ein Doppelfenster ein, sieben Zellen breit und elf hoch, mit weißem Marmorrahmen, einer Mittelstütze und Glas in der zweiten Zelle von außen. Die oberste Zeile jeder Lichte ist ein verzierter Dreipass. Ein weißes Gesimsband markiert die erste Lage.",
+      "tip": "Das Glas liegt immer in der zweiten Zelle von außen. So bleiben die Laibungen massiv.",
+      "caution": "Die Zellen der Wappentafel am Portal sind schon belegt. Überspringe sie.",
+      "fact": "Die Fassade trägt zwei Reihen neugotischer Marmor-Doppelfenster mit Dreipassbögen. Im 18. Jahrhundert wurden die Fenster erneuert."
+    },
+    "og2_wand_west": {
+      "title": "Zweites Obergeschoss, Westfassade",
+      "description": "Von Y 102 bis Y 117 folgt das zweite Obergeschoss. Die Doppelfenster sind hier nur zehn Zellen hoch und beginnen auf Y 105. Das Gesims in der ersten Lage ist wieder weiß.",
+      "tip": "Kontrolliere die Fensterachsen mit einem Blick an der Fassade entlang. Alle neun Fenster müssen genau übereinander stehen.",
+      "caution": "Die oberste Lage Y 117 muss ringsum lückenlos sein, denn darauf stehen die Konsolen.",
+      "fact": "Über den Fenstern setzt die Wehrgalerie an. Sie kragt über die Wand hinaus und prägt das Bild des Palastes bis heute."
+    },
+    "og_wand_nord_sued_a": {
+      "title": "Obergeschosse, Nord- und Südseite des Arnolfo-Blocks",
+      "description": "Die Nord- und die Südseite des Arnolfo-Blocks bekommen von Y 85 bis Y 117 dieselben Doppelfenster wie die Westfassade, in der Teilung von zehn Zellen. Wände und Gesimse sind Rustika und weißer Marmor.",
+      "tip": "Beginne bei den Fensterachsen und fülle dann die Wand dazwischen.",
+      "caution": "An der Südwestecke des Blocks sitzt die Öffnung für den Korridor. Die Wand lässt sie aus.",
+      "fact": "Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza."
+    },
+    "og_wand_mittelbauten": {
+      "title": "Obergeschosse der Anbauten",
+      "description": "Die Anbauten sind in den Obergeschossen verputzt, in hellem Sandton. Die Fenster sind drei breit und sieben hoch, mit grauem Steinrahmen, im ersten Geschoss auf Y 88 bis 94 und im zweiten auf Y 105 bis 111. Links und rechts hängt je ein grüner Fensterladen, eine Zelle breit.",
+      "tip": "Die Läden sind eine Zierde. Sie sitzen in der äußersten Lage und lassen sich auch weglassen.",
+      "caution": "Wo die Wand an der Südwestecke den Korridor aufnimmt, bleibt sie offen.",
+      "fact": "Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet als der Stadtpalast der Signoria."
+    },
+    "og_korridor_durchgang": {
+      "title": "Durchgang für den Korridor",
+      "description": "An der Südwestecke zur Via della Ninna bleibt in der Wand eine Öffnung von sieben Zellen Breite und sieben Zellen Höhe frei, von Y 102 bis Y 108. Du fasst sie mit einer Laibung aus weißem Marmor ein. Dahinter beginnt die Brücke, die zu den Uffizien führt. Ihr Boden liegt auf Y 101.",
+      "tip": "Die Öffnung ist reine Luft. Du setzt nur die Laibung links, rechts und oben.",
+      "caution": "Außerhalb der Mauer baust du hier nichts. Die Brücke gehört zum Projekt der Uffizien.",
+      "fact": "Über diese Stelle führt der Vasarianische Korridor, den Cosimo I. 1565 für Giorgio Vasari bauen ließ, damit der Herzog trocken vom Palazzo Vecchio zu den Uffizien und zum Palazzo Pitti gelangte."
+    }
+  }
+}
