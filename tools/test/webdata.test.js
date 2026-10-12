@@ -67,7 +67,8 @@ test('Projektindex: Dom gebaut, Wahrzeichen geplant, Demo ausgeschlossen', () =>
   assert.ok(planned.length >= 20);
   // Brücken sind keine OSM-Gebäude: ohne Gebäude-IDs, aber mit Position
   assert.ok(planned.every((e) => e.modules.length === 0 && (e.bounds || (Number.isFinite(e.x) && Number.isFinite(e.z)))));
-  assert.ok(planned.filter((e) => e.gebaeude.length > 0).length >= 18);
+  // geplant oder schon gebaut: gebaute Wahrzeichen übernehmen die Gebäude-IDs ihrer Platzhalter
+  assert.ok(idx.filter((e) => e.type === 'wahrzeichen' && e.gebaeude.length > 0).length >= 18);
   assert.ok(!planned.some((e) => e.gebaeude.some((g) => wi.DOM_IDS.includes(g))));
   assert.equal(new Set(idx.map((e) => e.id)).size, idx.length);
 });
