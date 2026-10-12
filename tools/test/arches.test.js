@@ -84,3 +84,43 @@ test('placeElevation: axis x', () => {
   const placed = [...A.placeElevation([{ u: 2, v: 1 }], { axis: 'x', origin: { x: 10, y: 5, z: 3 }, depth: [-1, 0] })];
   assert.deepEqual(placed, [{ x: 12, y: 6, z: 2 }, { x: 12, y: 6, z: 3 }]);
 });
+
+test('profileForRise: Spitzbogen und Ellipse', () => {
+  const sharp = A.profileForRise(5, 8);
+  const f = ((8 / 5) ** 2 + 1) / 4;
+  assert.ok(Math.abs(sharp(0) - 8) < 1e-9);
+  assert.ok(Math.abs(sharp(3) - A.archHeight(3, 5, f)) < 1e-12);
+  assert.ok(Math.abs(sharp(5)) < 1e-9);
+  assert.ok(Number.isNaN(sharp(5.1)));
+  const ell = A.profileForRise(5, 3);
+  assert.ok(Math.abs(ell(0) - 3) < 1e-9);
+  assert.ok(Math.abs(ell(3) - 3 * Math.sqrt(1 - 0.36)) < 1e-12);
+  assert.equal(ell(5), 0);
+  assert.ok(Number.isNaN(ell(-5.1)));
+  assert.equal(ell(2), ell(-2));
+});
+
+test('profileForRise: stetig bei rise = w (Rundbogen)', () => {
+  const w = 6;
+  const below = A.profileForRise(w, w - 1e-9), at = A.profileForRise(w, w), above = A.profileForRise(w, w + 1e-9);
+  for (const u of [0, 1, 3, 5.5]) {
+    assert.ok(Math.abs(below(u) - at(u)) < 1e-6);
+    assert.ok(Math.abs(above(u) - at(u)) < 1e-6);
+    assert.ok(Math.abs(at(u) - Math.sqrt(w * w - u * u)) < 1e-9);
+  }
+});
+
+test('archOpeningRise und archRingRise', () => {
+  // rise = w + 0,5 (Halbweite 2,5): identisch mit archOpening(2, 0.5)
+  const a = [...A.archOpeningRise(2, 2.5)].map(key2).sort();
+  const b = [...A.archOpening(2, 0.5)].map(key2).sort();
+  assert.deepEqual(a, b);
+  const ring = new Set([...A.archRingRise(3, 4, 2)].map(key2));
+  const open = new Set([...A.archOpeningRise(3, 4)].map(key2));
+  const big = new Set([...A.archOpeningRise(5, 4)].map(key2));
+  for (const k of ring) assert.ok(!open.has(k));
+  assert.deepEqual([...new Set([...ring, ...open])].sort(), [...big].sort());
+  // Korbbogen: symmetrisch
+  const ell = new Set([...A.archOpeningRise(4, 3)].map(key2));
+  for (const k of ell) { const [u, v] = k.split(',').map(Number); assert.ok(ell.has(`${-u},${v}`)); }
+});

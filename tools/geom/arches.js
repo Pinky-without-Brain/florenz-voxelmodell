@@ -12,32 +12,59 @@ function archHeight(u, w, f) {
   return Math.sqrt(Math.max(0, R * R - d * d));
 }
 
-function isOpen(u, v, w, f, springV) {
-  if (v < springV) return true;
-  const h = archHeight(u, w + 0.5, f);
-  return v + 0.5 <= springV + h;
+// Profil zu gegebener Stichhöhe: rise >= w Spitzbogen (f = ((rise/w)² + 1)/4),
+// sonst elliptischer Korbbogen. Außerhalb |u| <= w: NaN.
+function profileForRise(w, rise) {
+  if (rise >= w) {
+    const f = ((rise / w) ** 2 + 1) / 4;
+    return (u) => archHeight(u, w, f);
+  }
+  return (u) => (Math.abs(u) <= w ? rise * Math.sqrt(Math.max(0, 1 - (u / w) ** 2)) : NaN);
 }
 
-function* archOpening(w, f, { springV = 0 } = {}) {
+// Öffnung nach Höhenfunktion hOf(u, wCont) mit kontinuierlicher Halbweite wCont = w + 0.5
+function isOpenBy(u, v, hOf, springV) {
+  if (v < springV) return true;
+  return v + 0.5 <= springV + hOf(u);
+}
+
+function* openingBy(w, hOf, springV) {
   let maxH = 0;
-  for (let u = -w; u <= w; u++) maxH = Math.max(maxH, archHeight(u, w + 0.5, f));
+  for (let u = -w; u <= w; u++) maxH = Math.max(maxH, hOf(u));
   const vMax = Math.ceil(springV + maxH) + 1;
   for (let v = 0; v <= vMax; v++) {
     for (let u = -w; u <= w; u++) {
-      if (isOpen(u, v, w, f, springV)) yield { u, v };
+      if (isOpenBy(u, v, hOf, springV)) yield { u, v };
     }
   }
 }
 
-// Bogenring: offen bei w + t, aber nicht offen bei w. Pfosten (v < springV) nur mit opts.jambs.
-function* archRing(w, f, t, opts = {}) {
+// Ring: offen bei w + t, aber nicht offen bei w. Pfosten (v < springV) nur mit opts.jambs.
+function* ringBy(w, t, hFor, opts) {
   const springV = opts.springV || 0;
   const jambs = opts.jambs === true;
-  for (const c of archOpening(w + t, f, { springV })) {
-    if (Math.abs(c.u) <= w && isOpen(c.u, c.v, w, f, springV)) continue;
+  const hIn = hFor(w);
+  for (const c of openingBy(w + t, hFor(w + t), springV)) {
+    if (Math.abs(c.u) <= w && isOpenBy(c.u, c.v, hIn, springV)) continue;
     if (!jambs && c.v < springV) continue;
     yield c;
   }
+}
+
+function* archOpening(w, f, { springV = 0 } = {}) {
+  yield* openingBy(w, (u) => archHeight(u, w + 0.5, f), springV);
+}
+
+function* archRing(w, f, t, opts = {}) {
+  yield* ringBy(w, t, (ww) => (u) => archHeight(u, ww + 0.5, f), opts);
+}
+
+function* archOpeningRise(w, rise, { springV = 0 } = {}) {
+  yield* openingBy(w, profileForRise(w + 0.5, rise), springV);
+}
+
+function* archRingRise(w, rise, t, opts = {}) {
+  yield* ringBy(w, t, (ww) => profileForRise(ww + 0.5, rise), opts);
 }
 
 function openingPredicate(o) {
@@ -78,4 +105,6 @@ function* placeElevation(cells2d, { axis, origin, depth = [0, 0] }) {
   }
 }
 
-module.exports = { archHeight, archOpening, archRing, elevation, placeElevation };
+module.exports = {
+  archHeight, profileForRise, archOpening, archRing, archOpeningRise, archRingRise,
+  elevation, placeElevation };

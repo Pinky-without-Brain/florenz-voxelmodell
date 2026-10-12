@@ -1,19 +1,32 @@
 'use strict';
 // Gewölbe als Generatoren. Schale je Säule von y_lo (Laibung) bis y_hi (Treppenschluss).
-const { archHeight } = require('./arches');
+const { archHeight, profileForRise } = require('./arches');
+
+// Profilfunktion h(u) für Halbweite w: entweder Faktor f oder Stichhöhe rise
+function profileOf(w, f, rise) {
+  if (rise !== undefined) return profileForRise(w, rise);
+  return (u) => archHeight(u, w, f);
+}
 
 const NB = [[1, 0], [-1, 0], [0, 1], [0, -1]];
 
-function groinVaultHeight(p, x, z) {
-  const { x0, x1, z0, z1, fx = 0.5, fz = 0.5 } = p;
-  if (x < x0 || x > x1 || z < z0 || z > z1) return NaN;
-  const hx = archHeight(x - (x0 + x1) / 2, (x1 - x0 + 1) / 2, fx);
-  const hz = archHeight(z - (z0 + z1) / 2, (z1 - z0 + 1) / 2, fz);
-  return Math.min(hx, hz);
+function groinParts(p, x, z) {
+  const { x0, x1, z0, z1, fx = 0.5, fz = 0.5, riseX, riseZ } = p;
+  const hx = profileOf((x1 - x0 + 1) / 2, fx, riseX)(x - (x0 + x1) / 2);
+  const hz = profileOf((z1 - z0 + 1) / 2, fz, riseZ)(z - (z0 + z1) / 2);
+  return { hx, hz };
 }
 
+// Kreuzgewölbe = Vereinigung zweier Tonnenräume: Laibung max(Hx, Hz)
+function groinVaultHeight(p, x, z) {
+  if (x < p.x0 || x > p.x1 || z < p.z0 || z > p.z1) return NaN;
+  const { hx, hz } = groinParts(p, x, z);
+  return Math.max(hx, hz);
+}
+
+// opts ribs: Zellen auf den Graten (|Hx − Hz| < 0,6) tragen rib: true, alle anderen rib: false
 function* groinVault(p) {
-  const { x0, x1, z0, z1, springY, thickness = 1 } = p;
+  const { x0, x1, z0, z1, springY, thickness = 1, ribs = false } = p;
   const lo = (x, z) => springY + Math.floor(groinVaultHeight(p, x, z));
   for (let x = x0; x <= x1; x++) {
     for (let z = z0; z <= z1; z++) {
@@ -24,7 +37,12 @@ function* groinVault(p) {
         if (nx < x0 || nx > x1 || nz < z0 || nz > z1) continue;
         yHi = Math.max(yHi, lo(nx, nz));
       }
-      for (let y = yLo; y <= yHi; y++) yield { x, y, z };
+      let rib = false;
+      if (ribs) {
+        const { hx, hz } = groinParts(p, x, z);
+        rib = Math.abs(hx - hz) < 0.6;
+      }
+      for (let y = yLo; y <= yHi; y++) yield ribs ? { x, y, z, rib } : { x, y, z };
     }
   }
 }
@@ -36,7 +54,7 @@ function rho(dx, dz) {
 }
 
 function cloisterHeight(p, x, z) {
-  return archHeight(rho(x - p.cx, z - p.cz), p.a + 0.5, p.f);
+  return profileOf(p.a + 0.5, p.f, p.rise)(rho(x - p.cx, z - p.cz));
 }
 
 function* cloisterVault(p) {

@@ -171,3 +171,55 @@ test('Gewölbe: genau eine Flächenkomponente, mit der untersten Lage verbunden'
     assert.equal(r.fromLowest, cells.length);
   }
 });
+
+test('Kreuzgewölbe = Vereinigung zweier Tonnen: Laibung max(Hx, Hz)', () => {
+  const p = { x0: 0, x1: 20, z0: 0, z1: 20, springY: 70, fx: 0.5, fz: 0.5 };
+  // Randmitte (10, 0): Schildbogen steigt bis zur Halbweite 10,5 auf
+  assert.ok(Math.abs(V.groinVaultHeight(p, 10, 0) - 10.5) < 1e-9);
+  assert.ok(Math.abs(V.groinVaultHeight(p, 0, 10) - 10.5) < 1e-9);
+  // Ecke: nur die +0,5-Randhöhe sqrt(10,5² − 10²) ≈ 3,20 über dem Kämpfer, weit unter der Randmitte
+  const corner = V.groinVaultHeight(p, 0, 0);
+  assert.ok(Math.abs(corner - Math.sqrt(10.5 * 10.5 - 100)) < 1e-9);
+  // Das Gewölbe ist an jeder Stelle mindestens so hoch wie jede Tonne
+  for (let x = 0; x <= 20; x++) {
+    for (let z = 0; z <= 20; z++) {
+      const h = V.groinVaultHeight(p, x, z);
+      assert.ok(h >= Math.sqrt(10.5 * 10.5 - (x - 10) ** 2) - 1e-9);
+      assert.ok(h >= Math.sqrt(10.5 * 10.5 - (z - 10) ** 2) - 1e-9);
+    }
+  }
+  const cells = [...V.groinVault(p)];
+  const top = new Map();
+  for (const c of cells) top.set(`${c.x},${c.z}`, Math.max(top.get(`${c.x},${c.z}`) ?? -1, c.y));
+  assert.ok(top.get('10,0') >= 70 + 10);
+  assert.ok(top.get('0,0') <= 70 + 4 + 8); // Ecke inkl. Treppenschluss deutlich niedriger als 80
+  assert.ok(top.get('0,0') < top.get('10,0'));
+});
+
+test('Kreuzgewölbe: ribs liefert rib-Feld, Grate auf den Diagonalen', () => {
+  const p = { x0: 0, x1: 20, z0: 0, z1: 20, springY: 70 };
+  const plain = [...V.groinVault(p)];
+  assert.ok(plain.every((c) => !('rib' in c)));
+  const ribbed = [...V.groinVault({ ...p, ribs: true })];
+  assert.equal(ribbed.length, plain.length);
+  assert.ok(ribbed.some((c) => c.rib === true));
+  for (const c of ribbed) {
+    if (c.x === c.z || c.x + c.z === 20) assert.equal(c.rib, true);
+    if (c.x === 10 && c.z === 0) assert.equal(c.rib, false);
+  }
+});
+
+test('Kreuzgewölbe mit riseX/riseZ und Klostergewölbe mit rise', () => {
+  const p = { x0: 0, x1: 20, z0: 0, z1: 30, springY: 70, riseX: 12, riseZ: 8 };
+  const cells = [...V.groinVault(p)];
+  assert.ok(Math.abs(V.groinVaultHeight(p, 10, 15) - 12) < 1e-9); // Hx(0) = riseX (Spitzbogen)
+  const r = connectivity(cells);
+  assert.equal(r.count, 1);
+  assert.equal(r.fromLowest, cells.length);
+  const c2 = [...V.cloisterVault({ cx: 0, cz: 0, a: 20, springY: 70, rise: 14 })];
+  assert.ok(Math.abs(V.cloisterHeight({ cx: 0, cz: 0, a: 20, rise: 14 }, 0, 0) - 14) < 1e-9);
+  const r2 = connectivity(c2);
+  assert.equal(r2.count, 1);
+  const set = new Set(c2.map(k3));
+  for (const c of c2) assert.ok(set.has(k3({ x: c.z, y: c.y, z: c.x })));
+});
