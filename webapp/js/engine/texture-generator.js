@@ -238,7 +238,8 @@ window.TextureGenerator = (function() {
       case "yellow_stained_glass":
       case "light_blue_stained_glass":
       case "orange_stained_glass":
-      case "white_stained_glass": {
+      case "white_stained_glass":
+      case "gray_stained_glass": {
         // Bleiverglasungs-Gitter
         ctx.strokeStyle = "#222222";
         ctx.lineWidth = 2.5;

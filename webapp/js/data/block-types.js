@@ -399,5 +399,203 @@ window.BLOCK_TYPES = {
     category: "Fresken & Farben",
     icon: "⬛",
     description: "Tiefes Schwarz für Konturen und Zifferblatt der Uccello-Uhr."
+  },
+  smooth_sandstone: {
+    id: "smooth_sandstone",
+    name: "Glatter Sandstein",
+    color: "#E0D6A8",
+    topColor: "#E6DDB2",
+    sideColor: "#D3C898",
+    edgeColor: "#B8AC7A",
+    category: "Putz & Fassade",
+    icon: "🟨",
+    description: "Gelber Putz (putzfarbe gelb) für Fassaden der Stadthäuser."
+  },
+  pink_terracotta: {
+    id: "pink_terracotta",
+    name: "Rosa Keramik",
+    color: "#A24E4F",
+    topColor: "#B05A5B",
+    sideColor: "#934546",
+    edgeColor: "#753435",
+    category: "Putz & Fassade",
+    icon: "🟪",
+    description: "Rosa Putz (putzfarbe rosa) für Fassaden."
+  },
+  end_stone_bricks: {
+    id: "end_stone_bricks",
+    name: "Endsteinziegel",
+    color: "#DAE0A2",
+    topColor: "#E1E7AE",
+    sideColor: "#CDD393",
+    edgeColor: "#AEB578",
+    category: "Putz & Fassade",
+    icon: "🟨",
+    description: "Sandfarbener Putz (putzfarbe sand) für Fassaden."
+  },
+  white_concrete: {
+    id: "white_concrete",
+    name: "Weißer Beton",
+    color: "#CFD5D6",
+    topColor: "#E0E4E5",
+    sideColor: "#C3C9CA",
+    edgeColor: "#A5ABAC",
+    category: "Putz & Fassade",
+    icon: "⬜",
+    description: "Weißer Putz (putzfarbe weiss) für Fassaden."
+  },
+  light_gray_concrete: {
+    id: "light_gray_concrete",
+    name: "Hellgrauer Beton",
+    color: "#7D7D73",
+    topColor: "#8B8B81",
+    sideColor: "#71716A",
+    edgeColor: "#5A5A53",
+    category: "Putz & Fassade",
+    icon: "⬜",
+    description: "Grauer Putz (putzfarbe grau) für Fassaden."
+  },
+  tuff_bricks: {
+    id: "tuff_bricks",
+    name: "Tuffsteinziegel",
+    color: "#626359",
+    topColor: "#6E6F64",
+    sideColor: "#575850",
+    edgeColor: "#43443D",
+    category: "Stadtstein",
+    icon: "🧱",
+    description: "Rustika-Mauerwerk aus Pietra forte, etwa für Palazzi im Erdgeschoss."
+  },
+  tuff: {
+    id: "tuff",
+    name: "Tuffstein",
+    color: "#6C6D63",
+    topColor: "#787970",
+    sideColor: "#605F58",
+    edgeColor: "#4B4B44",
+    category: "Stadtstein",
+    icon: "⬛",
+    description: "Bruchstein-Mauerwerk aus Pietra forte für einfache Bauten und Mauern."
+  },
+  polished_tuff: {
+    id: "polished_tuff",
+    name: "Polierter Tuffstein",
+    color: "#6A6B62",
+    topColor: "#74756B",
+    sideColor: "#5F6058",
+    edgeColor: "#4A4B44",
+    category: "Straßen & Plätze",
+    icon: "⬛",
+    description: "Pflaster der Straßen und Plätze (Pietra-forte-Platten)."
+  },
+  stone: {
+    id: "stone",
+    name: "Stein",
+    color: "#7F7F7F",
+    topColor: "#8C8C8C",
+    sideColor: "#737373",
+    edgeColor: "#595959",
+    category: "Gelände",
+    icon: "⬜",
+    description: "Felsiger Geländekörper unter Straßen und Häusern."
+  },
+  spruce_planks: {
+    id: "spruce_planks",
+    name: "Fichtenholz-Bretter",
+    color: "#7A5A34",
+    topColor: "#876440",
+    sideColor: "#6C4F2D",
+    edgeColor: "#523B20",
+    category: "Holz & Portale",
+    icon: "🟫",
+    description: "Holz für Dachvorsprünge (Sporto) und Balken."
+  },
+  green_concrete: {
+    id: "green_concrete",
+    name: "Grüner Beton",
+    color: "#495B24",
+    topColor: "#546830",
+    sideColor: "#3F4F1F",
+    edgeColor: "#2E3A16",
+    category: "Öffnungen",
+    icon: "🟩",
+    description: "Grüne Fensterläden der Stadthäuser."
+  },
+  gray_stained_glass: {
+    id: "gray_stained_glass",
+    name: "Graues Buntglas",
+    color: "#4C4C4C",
+    topColor: "#5A5A5A",
+    sideColor: "#404040",
+    edgeColor: "#2C2C2C",
+    category: "Öffnungen",
+    icon: "🪟",
+    description: "Halbtransparentes Glas für Hausfenster."
+  },
+  grass_block: {
+    id: "grass_block",
+    name: "Grasblock",
+    color: "#7FB238",
+    topColor: "#8FC849",
+    sideColor: "#866043",
+    edgeColor: "#5E8A2A",
+    category: "Natur & Wasser",
+    icon: "🟩",
+    description: "Rasen, Parks und Gärten. Oben Gras, an den Seiten Erde."
+  },
+  dirt: {
+    id: "dirt",
+    name: "Erde",
+    color: "#866043",
+    topColor: "#94694A",
+    sideColor: "#78553A",
+    edgeColor: "#5C3F2A",
+    category: "Natur & Wasser",
+    icon: "🟫",
+    description: "Erde für Beete und Unterbau von Grünflächen."
+  },
+  gravel: {
+    id: "gravel",
+    name: "Kies",
+    color: "#837F7E",
+    topColor: "#908C8B",
+    sideColor: "#767272",
+    edgeColor: "#5E5B5A",
+    category: "Natur & Wasser",
+    icon: "⬜",
+    description: "Kieswege in Gärten und Parks."
+  },
+  oak_leaves: {
+    id: "oak_leaves",
+    name: "Eichenlaub",
+    color: "#3E7A2A",
+    topColor: "#4A8C33",
+    sideColor: "#366C25",
+    edgeColor: "#27511B",
+    category: "Natur & Wasser",
+    icon: "🌳",
+    description: "Baumkronen und Hecken."
+  },
+  oak_log: {
+    id: "oak_log",
+    name: "Eichenstamm",
+    color: "#6D5530",
+    topColor: "#A98B57",
+    sideColor: "#6B5330",
+    edgeColor: "#4E3B20",
+    category: "Natur & Wasser",
+    icon: "🪵",
+    description: "Baumstämme. Oben Jahresringe, an den Seiten Rinde."
+  },
+  water: {
+    id: "water",
+    name: "Wasser",
+    color: "#3F76E4",
+    topColor: "#5489EE",
+    sideColor: "#3569D2",
+    edgeColor: "#264FA3",
+    category: "Natur & Wasser",
+    icon: "💧",
+    description: "Arno und Brunnen. Halbtransparent dargestellt."
   }
 };

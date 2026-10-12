@@ -18,6 +18,7 @@ Eigentümer: Design (Claude Opus). Kontext: `00_Projektplan_und_Konzept/NEUAUFBA
 - Halbmaße sind **inklusive Zellen**: `half = 44` bedeutet die Zellen −44..+44.
 - Achtecke: Apothem `a`, Flächen auf den Achsen. Prädikat `shapes.inOctagon(dx, dz, a)`. Kontinuierliche Achteck-Norm: `rho(x, z) = max(|x|, |z|, (|x| + |z|)/√2)`.
 - Nur volle Blöcke. Erlaubte Typen: `tools/spec/palette.js`.
+- **Palette (V3):** Ein Typ hat eine Primärrolle (`role`) und optional weitere Rollen (`alsoRoles: [...]`). Exporte: `PALETTE`, `TYPES`, `ROLES` (alle Rollen in Reihenfolge), `rolesOf(type)` und `typesForRole(role)` (Typen mit `role` oder `alsoRoles`, in Palettenreihenfolge). Neue Typen werden nur am Ende angehängt, damit die Modulpaletten des Doms unverändert bleiben. Neue Rollen: `putz_ocker|gelb|rosa|sand|weiss|grau|terrakotta` (gelbe/orange Keramik tragen `putz_ocker`/`putz_terrakotta` als `alsoRoles`), `pietra_forte_rustika`, `pietra_forte_bruch`, `pflaster`, `gelaende_fels`, `holz_sporto`, `fensterladen`, `glas_fenster`, `gruen_rasen|erde|weg|baum|stamm`, `wasser` (`transparent: true`). Die Blockpalette in den Docs listet einen Typ unter seiner Primärrolle und vermerkt `auch: …` für `alsoRoles`. Der Webapp-Renderer zeichnet `water` und alle `*_stained_glass` halbtransparent.
 
 ## 2. Bausteine der Pipeline
 ```
