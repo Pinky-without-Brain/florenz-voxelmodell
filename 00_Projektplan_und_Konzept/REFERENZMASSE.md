@@ -11,6 +11,7 @@ Die Gebäudeumrisse wurden in ein lokales System gedreht, mit der Langhausachse 
 | Außenfläche Westfassade | X −108 | −216 |
 | Langhaus, Außenflucht | Z −22,9 … +21,3 | ±44 |
 | Ostapsis, Scheitel | X +47,3 | +95 → Tribunenschema +96 |
+| Tribune Nord (Außenumriss) | Seitenwände X ±18,5, Scheitelfläche Z −48,5 | halbes Achteck, Apothem 37, Mitte 59 |
 | Nord-/Südtribune, Scheitel | Z ±48,5 | ±96 |
 | Tambour, Außen über die Flächen | ±26,6 | ±54 (Literatur 54,8 m) |
 | Campanile, Mitte / Seite | (−100,2; +32,4) / 14,2 | (−200; +65) / 29 |
@@ -38,13 +39,17 @@ Die Gebäudeumrisse wurden in ein lokales System gedreht, mit der Langhausachse 
 | Campanile | 84,7 m Höhe, 14,45 m Seite | Wikipedia |
 | Baptisterium | 25,6 m innen; Höhe 35–45 m, uneinheitlich | Opera del Duomo, Wikipedia |
 
+## Korrekturen nach der ersten Maßzeichnung
+- **Langhausdach:** Mit First 48 m und Tambourbasis 42 m hätte das Dach die westlichen Ochsenaugen verdeckt. Jetzt liegt die Traufe bei 42 m (Y 148) und der First bei 46 m (Y 156); die Ochsenaugen sitzen mit Mitte Y 163 und Unterkante Y 158 darüber. Der Gewölbescheitel Y 150 liegt unter dem First.
+- **Tribunen:** Die erste Fassung (Radius 33 um Mitte 63) war breiter als die Achteckseite der Vierung. Neu ist der Außenumriss aus OSM abgeleitet (halbes Achteck, Apothem 37, Mitte 59, Scheitel 96). Der Innenraum (Apothem 19) öffnet genau die Achteckseite der Vierung (Halbmaß 45·tan 22,5° = 18,6).
+
 ## Annahmen (in `dimensions.js` mit ANNAHME markiert)
 Für folgende Werte gibt es keine verlässliche Quelle. Sie sind Plausibilitätswerte und sollen in der Maßzeichnung geprüft werden: Fassadenhöhe 50 m, Dachfirst des Langhauses 48 m, Kapellen- und Tribunendächer 20 m bzw. 33 m, Höhe des Tambours (Basis 42 m), Durchmesser der Ochsenaugen, Maße des Laternentempels, Baptisterium-Höhen.
 
 ## Konsistenzprüfung
 - Kuppelprofil: Halbmaß über die Ecken = 45 / cos 22,5° = 48,7 → D = 97,4 → Scheitel = 0,742·D = 72 Blöcke über dem Ansatz Y 172. Das ergibt **Y 244**, also 90 m. Das passt zur Literatur.
 - Schalenaufbau am Fuß: 45 + 4 + 2 + 2 = 53 ≤ 54 (Tambour außen). Es bleibt 1 Block Gesims.
-- Campanile-Nordseite Z 51 und Langhaus-Außenflucht Z 44 ergeben einen Abstand von 6 Blöcken (3 m, real 3,8 m). Die Westseite des Campanile liegt bei X −214, die Fassade bei −216.
+- Campanile-Nordseite Z 51 und Langhaus-Außenflucht Z 44 ergeben einen Abstand von 7 Blöcken (3,5 m, real 3,8 m). Die Westseite des Campanile liegt bei X −214, die Fassade bei −216.
 - Das höchste Bauteil liegt bei Y 293 und damit 26 Blöcke unter der Bauhöhengrenze.
 
 ## Quellen

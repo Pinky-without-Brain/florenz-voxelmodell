@@ -43,30 +43,35 @@ const CATHEDRAL = {
     aisleVaultY: 110,     // Scheitel Seitenschiffgewölbe, 23 m
     aisleEavesY: 114,     // Traufe Seitenschiffe außen, 25 m
     naveVaultY: 150,      // Scheitel Mittelschiffgewölbe innen, 43 m (Quellen 43–45 m)
-    clerestoryTopY: 154,  // Oberkante Obergaden, 45 m
-    roofRidgeY: 160       // First Langhausdach, 48 m (ANNAHME)
+    clerestoryTopY: 148,  // Traufe Obergaden, 42 m (ANNAHME; Gewölbescheitel liegt unter dem Dach)
+    roofRidgeY: 156       // First Langhausdach, 46 m, flaches toskanisches Dach ~20° (ANNAHME)
   },
   crossing: {
     // Achteck, Seiten parallel zu den Achsen und Diagonalen ("Flats" auf X/Z-Achse)
     innerHalfFlat: 45,    // Innenmaß über die Flächen 45 m → 90 Blöcke
     outerHalfFlat: 54,    // Außenmaß Tambour 54 m (OSM 53,2 m; Lit. 54,8 m)
     wallThickness: 9,     // 4,25–4,5 m
-    archTopY: 148         // Oberkante Vierungsbögen = Tambourbasis, 42 m
+    archTopY: 148         // Oberkante Vierungsbögen = Tambourbasis, 42 m (ANNAHME)
   },
   tribunes: {
-    // drei Tribunen (Nord, Ost, Süd), je halbes Achteck mit 5 Radialkapellen
-    centerDist: 63,       // Mittelpunkt der Tribune auf der Achse, 31,5 m vom Ursprung
-    outerRadius: 33,      // Scheitel außen bei 96 Blöcken (OSM: N/S 97, O 95)
+    // drei Tribunen (Nord, Ost, Süd): außen ein halbes regelmäßiges Achteck, nach außen gerichtet,
+    // mit geradem Anschluss zurück bis zur Vierung. Innen ein halbes Achteck, das die volle
+    // Achteckseite der Vierung öffnet (innerApothem ≈ innerHalfFlat · tan 22,5° = 18,6).
+    // Zwischen Innen- und Außenkontur liegen die 5 Radialkapellen.
+    centerDist: 59,       // Mittelpunkt beider Halbachtecke auf der Achse (OSM-Umriss)
+    outerApothem: 37,     // Außenkontur: Seitenwände bei ±37, Scheitel bei 59 + 37 = 96 (OSM N/S 97, O 95)
+    innerApothem: 19,     // Innenraum der Tribune, 19 m Spannweite (ANNAHME)
     chapelsPerTribune: 5,
     chapelRoofY: 104,     // Dach der Radialkapellen, 20 m (ANNAHME)
     tribuneRoofY: 130,    // Dach der Tribune, 33 m (ANNAHME)
     deadTribunes: 4       // "tribune morte" an den Diagonalseiten des Tambours
   },
   drum: {
-    baseY: 148,           // = crossing.archTopY
+    baseY: 148,           // = crossing.archTopY (ANNAHME)
     springY: 172,         // Kuppelansatz, 54 m (IMSS: ca. 54 m)
     oculi: 8,
-    oculusDiameter: 10    // ca. 5 m (ANNAHME)
+    oculusDiameter: 10,   // ca. 5 m (ANNAHME)
+    oculusCenterY: 163    // Mitte Ochsenauge; Unterkante 158 liegt über dem Langhausfirst (156)
   },
   dome: {
     springY: 172,
@@ -82,6 +87,8 @@ const CATHEDRAL = {
     minorRibs: 16,        // 2 verborgene Zwischenrippen je Segel
     eyeHalfFlat: 6,       // Öffnung des Auges, Achteck (ANNAHME)
     eyeRingTopY: 246      // Oberkante Schlussring = Laternenbasis, 91 m
+    // Hinweis: Mit gleichem Profilfaktor läge der Scheitel der Außenschale bei ~Y 257.
+    // Die Außenschale muss daher zum Schlussring hin konvergieren (Profil wird in der M5-Spezifikation festgelegt).
   },
   lantern: {
     baseY: 246,

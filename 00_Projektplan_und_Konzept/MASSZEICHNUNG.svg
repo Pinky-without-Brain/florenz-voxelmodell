@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1398" height="1923" viewBox="0 0 1398 1923" font-family="sans-serif">
+<title>Santa Maria del Fiore – Maßzeichnung V2 (1:2, 1 Block = 0,5 m)</title>
+<style>.h{paint-order:stroke;stroke:#fff;stroke-width:3px;stroke-linejoin:round}</style>
+<rect x="0" y="0" width="1398" height="1923" fill="#fff"/>
+<text x="88" y="24" font-size="16" text-anchor="start" fill="#222" font-weight="bold">Santa Maria del Fiore – Maßzeichnung V2 (1:2, 1 Block = 0,5 m)</text>
+<text x="88" y="46" font-size="12" text-anchor="start" fill="#222" font-weight="bold">A) Grundriss / Lageplan (Draufsicht, Norden oben) – 2 px pro Block</text>
+<line x1="88" y1="74" x2="88" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="108" y1="74" x2="108" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="128" y1="74" x2="128" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="148" y1="74" x2="148" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="168" y1="74" x2="168" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="188" y1="74" x2="188" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="208" y1="74" x2="208" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="228" y1="74" x2="228" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="248" y1="74" x2="248" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="268" y1="74" x2="268" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="288" y1="74" x2="288" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="308" y1="74" x2="308" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="328" y1="74" x2="328" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="348" y1="74" x2="348" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="368" y1="74" x2="368" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="388" y1="74" x2="388" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="408" y1="74" x2="408" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="428" y1="74" x2="428" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="448" y1="74" x2="448" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="468" y1="74" x2="468" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="488" y1="74" x2="488" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="508" y1="74" x2="508" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="528" y1="74" x2="528" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="548" y1="74" x2="548" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="568" y1="74" x2="568" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="588" y1="74" x2="588" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="608" y1="74" x2="608" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="628" y1="74" x2="628" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="648" y1="74" x2="648" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="668" y1="74" x2="668" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="688" y1="74" x2="688" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="708" y1="74" x2="708" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="728" y1="74" x2="728" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="748" y1="74" x2="748" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="768" y1="74" x2="768" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="788" y1="74" x2="788" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="808" y1="74" x2="808" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="828" y1="74" x2="828" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="848" y1="74" x2="848" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="868" y1="74" x2="868" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="888" y1="74" x2="888" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="908" y1="74" x2="908" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="928" y1="74" x2="928" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="948" y1="74" x2="948" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="968" y1="74" x2="968" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="988" y1="74" x2="988" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1008" y1="74" x2="1008" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1028" y1="74" x2="1028" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="1048" y1="74" x2="1048" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1068" y1="74" x2="1068" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1088" y1="74" x2="1088" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1108" y1="74" x2="1108" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1128" y1="74" x2="1128" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="1148" y1="74" x2="1148" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1168" y1="74" x2="1168" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1188" y1="74" x2="1188" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1208" y1="74" x2="1208" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1228" y1="74" x2="1228" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="1248" y1="74" x2="1248" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1268" y1="74" x2="1268" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1288" y1="74" x2="1288" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1308" y1="74" x2="1308" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1328" y1="74" x2="1328" y2="714" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="1348" y1="74" x2="1348" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="1368" y1="74" x2="1368" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="74" x2="1368" y2="74" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="94" x2="1368" y2="94" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="114" x2="1368" y2="114" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="134" x2="1368" y2="134" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="154" x2="1368" y2="154" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="174" x2="1368" y2="174" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="194" x2="1368" y2="194" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="214" x2="1368" y2="214" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="234" x2="1368" y2="234" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="254" x2="1368" y2="254" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="274" x2="1368" y2="274" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="294" x2="1368" y2="294" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="314" x2="1368" y2="314" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="334" x2="1368" y2="334" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="354" x2="1368" y2="354" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="374" x2="1368" y2="374" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="394" x2="1368" y2="394" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="414" x2="1368" y2="414" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="434" x2="1368" y2="434" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="454" x2="1368" y2="454" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="474" x2="1368" y2="474" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="494" x2="1368" y2="494" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="514" x2="1368" y2="514" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="534" x2="1368" y2="534" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="554" x2="1368" y2="554" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="574" x2="1368" y2="574" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="594" x2="1368" y2="594" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="614" x2="1368" y2="614" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="634" x2="1368" y2="634" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="654" x2="1368" y2="654" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="674" x2="1368" y2="674" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="694" x2="1368" y2="694" stroke="#d2d2d2" stroke-width="0.8"/>
+<line x1="88" y1="714" x2="1368" y2="714" stroke="#efefef" stroke-width="0.5"/>
+<text x="128" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -350</text>
+<text x="228" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -300</text>
+<text x="328" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -250</text>
+<text x="428" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -200</text>
+<text x="528" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -150</text>
+<text x="628" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -100</text>
+<text x="728" y="66" font-size="8.5" text-anchor="middle" fill="#666">X -50</text>
+<text x="828" y="66" font-size="8.5" text-anchor="middle" fill="#666">X 0</text>
+<text x="928" y="66" font-size="8.5" text-anchor="middle" fill="#666">X 50</text>
+<text x="1028" y="66" font-size="8.5" text-anchor="middle" fill="#666">X 100</text>
+<text x="1128" y="66" font-size="8.5" text-anchor="middle" fill="#666">X 150</text>
+<text x="1228" y="66" font-size="8.5" text-anchor="middle" fill="#666">X 200</text>
+<text x="1328" y="66" font-size="8.5" text-anchor="middle" fill="#666">X 250</text>
+<text x="82" y="97" font-size="8.5" text-anchor="end" fill="#666">Z -150</text>
+<text x="82" y="197" font-size="8.5" text-anchor="end" fill="#666">Z -100</text>
+<text x="82" y="297" font-size="8.5" text-anchor="end" fill="#666">Z -50</text>
+<text x="82" y="397" font-size="8.5" text-anchor="end" fill="#666">Z 0</text>
+<text x="82" y="497" font-size="8.5" text-anchor="end" fill="#666">Z 50</text>
+<text x="82" y="597" font-size="8.5" text-anchor="end" fill="#666">Z 100</text>
+<text x="82" y="697" font-size="8.5" text-anchor="end" fill="#666">Z 150</text>
+<rect x="88" y="74" width="1280" height="640" fill="none" stroke="#888" stroke-width="1"/>
+<line x1="88" y1="394" x2="1368" y2="394" stroke="#7a8fb5" stroke-width="0.8" stroke-dasharray="8 3 2 3"/>
+<line x1="828" y1="74" x2="828" y2="714" stroke="#7a8fb5" stroke-width="0.8" stroke-dasharray="8 3 2 3"/>
+<text x="1364" y="390" font-size="8.5" text-anchor="end" fill="#4a5f85" class="h">+X Osten (Längsachse)</text>
+<text x="832" y="710" font-size="8.5" text-anchor="start" fill="#4a5f85" class="h">+Z Süden</text>
+<text x="832" y="85" font-size="8.5" text-anchor="start" fill="#4a5f85" class="h">-Z Norden</text>
+<line x1="138" y1="204" x2="138" y2="134" stroke="#222" stroke-width="1.5"/>
+<polygon points="138,130 133,142 143,142" fill="#222" stroke="#222" stroke-width="1" stroke-linejoin="round"/>
+<text x="138" y="126" font-size="12" text-anchor="middle" fill="#222" font-weight="bold" class="h">N</text>
+<text x="138" y="216" font-size="8.5" text-anchor="middle" fill="#222" class="h">Norden (-Z)</text>
+<rect x="628" y="632" width="146" height="52" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="701" y="661" font-size="9.5" text-anchor="middle" fill="#777" class="h">Palazzo dei Canonici</text>
+<rect x="1030" y="124" width="306" height="328" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="1183" y="291" font-size="9.5" text-anchor="middle" fill="#777" class="h">Museo dell'Opera</text>
+<rect x="244" y="536" width="68" height="32" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="278" y="579" font-size="9" text-anchor="middle" fill="#777" class="h">Loggia del Bigallo</text>
+<rect x="396" y="306" width="312" height="176" fill="#f3ecdc" stroke="#222" stroke-width="1.4"/>
+<line x1="404" y1="318" x2="708" y2="318" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+<line x1="404" y1="470" x2="708" y2="470" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+<line x1="404" y1="318" x2="404" y2="470" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+<rect x="396" y="306" width="8" height="176" fill="#444" stroke="#222" stroke-width="1"/>
+<line x1="404" y1="356" x2="708" y2="356" stroke="#888" stroke-width="0.9" stroke-dasharray="9 3 2 3"/>
+<line x1="404" y1="432" x2="708" y2="432" stroke="#888" stroke-width="0.9" stroke-dasharray="9 3 2 3"/>
+<rect x="475" y="351" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="475" y="427" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="551" y="351" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="551" y="427" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="627" y="351" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="627" y="427" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="703" y="351" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<rect x="703" y="427" width="10" height="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<text x="536" y="334" font-size="11" text-anchor="middle" fill="#222" font-weight="bold" class="h">Langhaus</text>
+<text x="536" y="346" font-size="8.5" text-anchor="middle" fill="#555" class="h">(4 Joche zu je 38 Bl.)</text>
+<text x="391" y="334" font-size="8.5" text-anchor="middle" fill="#222" class="h" transform="rotate(-90 391 334)">Westfassade</text>
+<polygon points="754,317.26 902,317.26 902,276 902,245.35 858.65,202 797.35,202 754,245.35 754,276" fill="#ecdcc4" stroke="#222" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="904.74,320 904.74,468 946,468 976.65,468 1020,424.65 1020,363.35 976.65,320 946,320" fill="#ecdcc4" stroke="#222" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="754,470.74 902,470.74 902,512 902,542.65 858.65,586 797.35,586 754,542.65 754,512" fill="#ecdcc4" stroke="#222" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="936,349.26 936,438.74 872.74,502 783.26,502 720,438.74 720,349.26 783.26,286 872.74,286" fill="#e6d6b6" stroke="#222" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="918,356.72 918,431.28 865.28,484 790.72,484 738,431.28 738,356.72 790.72,304 865.28,304" fill="#fbf7ee" stroke="#222" stroke-width="1" stroke-linejoin="round"/>
+<text x="828" y="334" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Vierung / Tambour</text>
+<text x="828" y="345" font-size="7.5" text-anchor="middle" fill="#555" class="h">außen 54, innen 45 Bl. (Halbmaß über die Flächen)</text>
+<polyline points="866,304 866,276 866,260.26 843.74,238 812.26,238 790,260.26 790,276 790,304" fill="none" stroke="#222" stroke-width="1.1" stroke-dasharray="5 3" stroke-linejoin="round"/>
+<text x="828" y="275" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Tribune Nord</text>
+<text x="828" y="223" font-size="7.5" text-anchor="middle" fill="#555" class="h">5 Kapellen</text>
+<polyline points="918,432 946,432 961.74,432 984,409.74 984,378.26 961.74,356 946,356 918,356" fill="none" stroke="#222" stroke-width="1.1" stroke-dasharray="5 3" stroke-linejoin="round"/>
+<text x="962" y="393" font-size="9" text-anchor="middle" fill="#222" font-weight="bold" class="h">Tribune</text>
+<text x="962" y="403" font-size="9" text-anchor="middle" fill="#222" font-weight="bold" class="h">Ost</text>
+<text x="1002" y="397" font-size="7.5" text-anchor="middle" fill="#555" class="h">5 Kapellen</text>
+<polyline points="866,484 866,512 866,527.74 843.74,550 812.26,550 790,527.74 790,512 790,484" fill="none" stroke="#222" stroke-width="1.1" stroke-dasharray="5 3" stroke-linejoin="round"/>
+<text x="828" y="519" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Tribune Süd</text>
+<text x="828" y="571" font-size="7.5" text-anchor="middle" fill="#555" class="h">5 Kapellen</text>
+<rect x="400" y="496" width="56" height="56" fill="#dfe3ec" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="527" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Campanile</text>
+<rect x="134" y="368" width="14" height="52" fill="#e3ecdf" stroke="#222" stroke-width="1.4"/>
+<polygon points="280,366.66 280,421.34 241.34,460 186.66,460 148,421.34 148,366.66 186.66,328 241.34,328" fill="#e3ecdf" stroke="#222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="264,373.29 264,414.71 234.71,444 193.29,444 164,414.71 164,373.29 193.29,344 234.71,344" fill="#f6faf4" stroke="#222" stroke-width="1" stroke-linejoin="round"/>
+<text x="214" y="397" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Baptisterium</text>
+<text x="141" y="364" font-size="8.5" text-anchor="middle" fill="#222" class="h">Scarsella</text>
+<line x1="396" y1="482" x2="396" y2="609" stroke="#c0392b" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="1020" y1="424.65" x2="1020" y2="609" stroke="#c0392b" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="396" y1="604" x2="1020" y2="604" stroke="#c0392b" stroke-width="1"/>
+<line x1="396" y1="599" x2="396" y2="609" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="393" y1="601" x2="399" y2="607" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="1020" y1="599" x2="1020" y2="609" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="1017" y1="601" x2="1023" y2="607" stroke="#c0392b" stroke-width="1.2"/>
+<text x="708" y="599" font-size="9.5" text-anchor="middle" fill="#c0392b" font-weight="bold" class="h">Gesamtlänge Fassade bis Ostscheitel: 312 Bl. = 156 m</text>
+<line x1="858.65" y1="202" x2="1032" y2="202" stroke="#c0392b" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="858.65" y1="586" x2="1032" y2="586" stroke="#c0392b" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="1026" y1="202" x2="1026" y2="586" stroke="#c0392b" stroke-width="1"/>
+<line x1="1031" y1="202" x2="1021" y2="202" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="1029" y1="199" x2="1023" y2="205" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="1031" y1="586" x2="1021" y2="586" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="1029" y1="583" x2="1023" y2="589" stroke="#c0392b" stroke-width="1.2"/>
+<text x="1038" y="509.2" font-size="9.5" text-anchor="middle" fill="#c0392b" font-weight="bold" class="h" transform="rotate(-90 1038 509.2)">Breite über Tribunen: 192 Bl. = 96 m</text>
+<line x1="594" y1="306" x2="594" y2="482" stroke="#c0392b" stroke-width="1"/>
+<line x1="599" y1="306" x2="589" y2="306" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="597" y1="303" x2="591" y2="309" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="599" y1="482" x2="589" y2="482" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="597" y1="479" x2="591" y2="485" stroke="#c0392b" stroke-width="1.2"/>
+<text x="588" y="394" font-size="9.5" text-anchor="middle" fill="#c0392b" font-weight="bold" class="h" transform="rotate(-90 588 394)">Langhaus außen: 88 Bl. = 44 m</text>
+<line x1="720" y1="434" x2="936" y2="434" stroke="#c0392b" stroke-width="1"/>
+<line x1="720" y1="429" x2="720" y2="439" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="717" y1="431" x2="723" y2="437" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="936" y1="429" x2="936" y2="439" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="933" y1="431" x2="939" y2="437" stroke="#c0392b" stroke-width="1.2"/>
+<text x="828" y="429" font-size="9.5" text-anchor="middle" fill="#c0392b" font-weight="bold" class="h">Tambour außen: 108 Bl. = 54 m</text>
+<line x1="280" y1="378" x2="396" y2="378" stroke="#c0392b" stroke-width="1"/>
+<line x1="280" y1="373" x2="280" y2="383" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="277" y1="375" x2="283" y2="381" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="396" y1="373" x2="396" y2="383" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="393" y1="375" x2="399" y2="381" stroke="#c0392b" stroke-width="1.2"/>
+<text x="338" y="373" font-size="9.5" text-anchor="middle" fill="#c0392b" font-weight="bold" class="h">58 Bl. = 29 m</text>
+<text x="338" y="390" font-size="8.5" text-anchor="middle" fill="#c0392b" class="h">Baptisterium – Fassade</text>
+<line x1="456" y1="496" x2="486" y2="496" stroke="#c0392b" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="478" y1="482" x2="478" y2="496" stroke="#c0392b" stroke-width="1"/>
+<line x1="483" y1="482" x2="473" y2="482" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="481" y1="479" x2="475" y2="485" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="483" y1="496" x2="473" y2="496" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="481" y1="493" x2="475" y2="499" stroke="#c0392b" stroke-width="1.2"/>
+<text x="486" y="492" font-size="9.5" text-anchor="start" fill="#c0392b" font-weight="bold" class="h">Campanile N – Langhaus: 7 Bl. = 3,5 m</text>
+<text x="88" y="764" font-size="12" text-anchor="start" fill="#222" font-weight="bold">B) Längsschnitt (Ansicht von Süden, Schnitt in Z = 0) – 2 px pro Block</text>
+<line x1="88" y1="1340" x2="1368" y2="1340" stroke="#cfcfcf" stroke-width="0.9"/>
+<text x="82" y="1343" font-size="8.5" text-anchor="end" fill="#666">Y 50 (-7 m)</text>
+<line x1="88" y1="1320" x2="1368" y2="1320" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1300" x2="1368" y2="1300" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1280" x2="1368" y2="1280" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1260" x2="1368" y2="1260" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1240" x2="1368" y2="1240" stroke="#cfcfcf" stroke-width="0.9"/>
+<text x="82" y="1243" font-size="8.5" text-anchor="end" fill="#666">Y 100 (18 m)</text>
+<line x1="88" y1="1220" x2="1368" y2="1220" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1200" x2="1368" y2="1200" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1180" x2="1368" y2="1180" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1160" x2="1368" y2="1160" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1140" x2="1368" y2="1140" stroke="#cfcfcf" stroke-width="0.9"/>
+<text x="82" y="1143" font-size="8.5" text-anchor="end" fill="#666">Y 150 (43 m)</text>
+<line x1="88" y1="1120" x2="1368" y2="1120" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1100" x2="1368" y2="1100" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1080" x2="1368" y2="1080" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1060" x2="1368" y2="1060" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1040" x2="1368" y2="1040" stroke="#cfcfcf" stroke-width="0.9"/>
+<text x="82" y="1043" font-size="8.5" text-anchor="end" fill="#666">Y 200 (68 m)</text>
+<line x1="88" y1="1020" x2="1368" y2="1020" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="1000" x2="1368" y2="1000" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="980" x2="1368" y2="980" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="960" x2="1368" y2="960" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="940" x2="1368" y2="940" stroke="#cfcfcf" stroke-width="0.9"/>
+<text x="82" y="943" font-size="8.5" text-anchor="end" fill="#666">Y 250 (93 m)</text>
+<line x1="88" y1="920" x2="1368" y2="920" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="900" x2="1368" y2="900" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="880" x2="1368" y2="880" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="860" x2="1368" y2="860" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="840" x2="1368" y2="840" stroke="#cfcfcf" stroke-width="0.9"/>
+<text x="82" y="843" font-size="8.5" text-anchor="end" fill="#666">Y 300 (118 m)</text>
+<line x1="88" y1="820" x2="1368" y2="820" stroke="#efefef" stroke-width="0.5"/>
+<line x1="88" y1="800" x2="1368" y2="800" stroke="#efefef" stroke-width="0.5"/>
+<rect x="88" y="790" width="1280" height="550" fill="none" stroke="#888" stroke-width="1"/>
+<line x1="88" y1="802" x2="1368" y2="802" stroke="#d00" stroke-width="1.5"/>
+<text x="1364" y="798" font-size="9.5" text-anchor="end" fill="#d00" font-weight="bold" class="h">Bauhöhengrenze (Y 319, 127,5 m)</text>
+<rect x="134" y="1312" width="886" height="16" fill="#bdbdbd" stroke="#777" stroke-width="1"/>
+<line x1="134" y1="1326" x2="1020" y2="1326" stroke="#777" stroke-width="0.8" stroke-dasharray="4 3"/>
+<text x="577" y="1323" font-size="8" text-anchor="middle" fill="#333">Fundament Y 56..64, Krypta-Boden Y 57</text>
+<line x1="88" y1="1312" x2="1368" y2="1312" stroke="#222" stroke-width="1.6"/>
+<polygon points="148,1312 148,1208 214,1188 280,1208 280,1312" fill="#e3ecdf" stroke="#222" stroke-width="1.3" stroke-linejoin="round"/>
+<line x1="148" y1="1208" x2="280" y2="1208" stroke="#222" stroke-width="0.8"/>
+<rect x="208" y="1164" width="12" height="24" fill="#e3ecdf" stroke="#222" stroke-width="1.2"/>
+<text x="214" y="1288" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Baptisterium</text>
+<text x="214" y="1300" font-size="8" text-anchor="middle" fill="#555" class="h">Mauer ±33, Attika Y 116</text>
+<rect x="400" y="974" width="56" height="338" fill="#eef0f5" stroke="#a9afbd" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="428" y="968" font-size="9" text-anchor="middle" fill="#8a90a0" class="h">Campanile (Z +65, hinter der Schnittebene)</text>
+<rect x="396" y="1144" width="312" height="168" fill="#f3ecdc" stroke="#222" stroke-width="1.3"/>
+<rect x="396" y="1128" width="312" height="16" fill="#cdb99a" stroke="#222" stroke-width="1.1"/>
+<line x1="396" y1="1144" x2="708" y2="1144" stroke="#555" stroke-width="1" stroke-dasharray="6 3"/>
+<line x1="396" y1="1212" x2="708" y2="1212" stroke="#555" stroke-width="1" stroke-dasharray="6 3"/>
+<line x1="404" y1="1220" x2="708" y2="1220" stroke="#888" stroke-width="0.8" stroke-dasharray="1 3"/>
+<line x1="404" y1="1140" x2="708" y2="1140" stroke="#222" stroke-width="1.3" stroke-dasharray="1.5 3"/>
+<line x1="404" y1="1312" x2="404" y2="1140" stroke="#999" stroke-width="0.6"/>
+<line x1="480" y1="1312" x2="480" y2="1140" stroke="#999" stroke-width="0.6"/>
+<line x1="556" y1="1312" x2="556" y2="1140" stroke="#999" stroke-width="0.6"/>
+<line x1="632" y1="1312" x2="632" y2="1140" stroke="#999" stroke-width="0.6"/>
+<line x1="708" y1="1312" x2="708" y2="1140" stroke="#999" stroke-width="0.6"/>
+<text x="548" y="1298" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Langhaus (4 Joche)</text>
+<text x="548" y="1123" font-size="9" text-anchor="middle" fill="#222" class="h">Satteldach, Traufe Y 148, First Y 156</text>
+<text x="548" y="1208" font-size="8" text-anchor="middle" fill="#555" class="h">Seitenschiff-Traufe Y 114</text>
+<text x="548" y="1155" font-size="8" text-anchor="middle" fill="#555" class="h">Gewölbe Mittelschiff Y 150</text>
+<rect x="396" y="1212" width="8" height="100" fill="#555" stroke="#222" stroke-width="1"/>
+<polygon points="396,1212 404,1212 400,1112" fill="#555" stroke="#222" stroke-width="1" stroke-linejoin="round"/>
+<text x="392" y="1115" font-size="9" text-anchor="end" fill="#222" class="h">Fassade, Giebel Y 164</text>
+<polygon points="936,1312 936,1180 984,1180 984,1232 1020,1232 1020,1312" fill="#ecdcc4" stroke="#222" stroke-width="1.3" stroke-linejoin="round"/>
+<text x="960" y="1176" font-size="8" text-anchor="middle" fill="#222" class="h">Tribunendach Y 130</text>
+<text x="1002" y="1243" font-size="8" text-anchor="middle" fill="#222" class="h">Kapellendach Y 104</text>
+<text x="978" y="1298" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Tribune Ost</text>
+<line x1="738" y1="1312" x2="738" y2="1144" stroke="#999" stroke-width="0.8" stroke-dasharray="1 3"/>
+<line x1="918" y1="1312" x2="918" y2="1144" stroke="#999" stroke-width="0.8" stroke-dasharray="1 3"/>
+<line x1="720" y1="1312" x2="720" y2="1144" stroke="#999" stroke-width="0.8" stroke-dasharray="1 3"/>
+<line x1="936" y1="1312" x2="936" y2="1144" stroke="#999" stroke-width="0.8" stroke-dasharray="1 3"/>
+<rect x="720" y="1096" width="216" height="48" fill="#e6d6b6" stroke="#222" stroke-width="1.4"/>
+<rect x="738" y="1096" width="180" height="48" fill="#fbf7ee" stroke="#222" stroke-width="1" stroke-dasharray="5 3"/>
+<circle cx="729" cy="1114" r="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<circle cx="927" cy="1114" r="10" fill="#fff" stroke="#222" stroke-width="1"/>
+<text x="828" y="1138" font-size="10" text-anchor="middle" fill="#222" font-weight="bold" class="h">Tambour</text>
+<polyline points="730.58,1096 731.8,1076.56 733.02,1068.55 734.24,1062.45 735.46,1057.34 736.67,1052.86 737.89,1048.84 739.11,1045.16 740.33,1041.76 741.54,1038.59 742.76,1035.6 743.98,1032.79 745.2,1030.11 746.41,1027.56 747.63,1025.12 748.85,1022.79 750.07,1020.54 751.29,1018.38 752.5,1016.3 753.72,1014.29 754.94,1012.34 756.16,1010.46 757.37,1008.63 758.59,1006.86 759.81,1005.14 761.03,1003.46 762.24,1001.84 763.46,1000.25 764.68,998.71 765.9,997.2 767.12,995.73 768.33,994.3 769.55,992.91 770.77,991.54 771.99,990.21 773.2,988.91 774.42,987.63 775.64,986.39 776.86,985.17 778.07,983.98 779.29,982.81 780.51,981.67 781.73,980.56 782.95,979.46 784.16,978.39 785.38,977.35 786.6,976.32 787.82,975.31 789.03,974.33 790.25,973.36 791.47,972.42 792.69,971.49 793.9,970.58 795.12,969.69 796.34,968.82 797.56,967.97 798.78,967.13 799.99,966.31 801.21,965.51 802.43,964.72 803.65,963.95 804.86,963.19 806.08,962.45 807.3,961.73 808.52,961.02 809.73,960.32 810.95,959.64 812.17,958.97 813.39,958.32 814.61,957.68 815.82,957.06 817.04,956.44 818.26,955.84 819.48,955.26 820.69,954.68 821.91,954.12 823.13,953.58 824.35,953.04 825.56,952.52 826.78,952.01 828,951.51 828,951.51 829.22,952.01 830.44,952.52 831.65,953.04 832.87,953.58 834.09,954.12 835.31,954.68 836.52,955.26 837.74,955.84 838.96,956.44 840.18,957.06 841.39,957.68 842.61,958.32 843.83,958.97 845.05,959.64 846.27,960.32 847.48,961.02 848.7,961.73 849.92,962.45 851.14,963.19 852.35,963.95 853.57,964.72 854.79,965.51 856.01,966.31 857.22,967.13 858.44,967.97 859.66,968.82 860.88,969.69 862.1,970.58 863.31,971.49 864.53,972.42 865.75,973.36 866.97,974.33 868.18,975.31 869.4,976.32 870.62,977.35 871.84,978.39 873.05,979.46 874.27,980.56 875.49,981.67 876.71,982.81 877.93,983.98 879.14,985.17 880.36,986.39 881.58,987.63 882.8,988.91 884.01,990.21 885.23,991.54 886.45,992.91 887.67,994.3 888.88,995.73 890.1,997.2 891.32,998.71 892.54,1000.25 893.76,1001.84 894.97,1003.46 896.19,1005.14 897.41,1006.86 898.63,1008.63 899.84,1010.46 901.06,1012.34 902.28,1014.29 903.5,1016.3 904.71,1018.38 905.93,1020.54 907.15,1022.79 908.37,1025.12 909.59,1027.56 910.8,1030.11 912.02,1032.79 913.24,1035.6 914.46,1038.59 915.67,1041.76 916.89,1045.16 918.11,1048.84 919.33,1052.86 920.54,1057.34 921.76,1062.45 922.98,1068.55 924.2,1076.56 925.42,1096" fill="none" stroke="#5b2c0a" stroke-width="1.5" stroke-linejoin="round"/>
+<polyline points="721.93,1096 723.01,1076.86 724.09,1068.97 725.17,1062.95 726.26,1057.9 727.34,1053.47 728.42,1049.48 729.51,1045.84 730.59,1042.46 731.67,1039.31 732.76,1036.34 733.84,1033.53 734.92,1030.86 736.01,1028.32 737.09,1025.88 738.17,1023.54 739.26,1021.29 740.34,1019.12 741.42,1017.02 742.5,1014.99 743.59,1013.03 744.67,1011.13 745.75,1009.28 746.84,1007.48 747.92,1005.73 749,1004.03 750.09,1002.37 751.17,1000.76 752.25,999.18 753.34,997.64 754.42,996.13 755.5,994.66 756.59,993.22 757.67,991.81 758.75,990.43 759.83,989.09 760.92,987.76 762,986.47 763.08,985.2 764.17,983.96 765.25,982.73 766.33,981.54 767.42,980.36 768.5,979.21 769.58,978.08 770.67,976.97 771.75,975.88 772.83,974.81 773.92,973.75 775,972.72 776.08,971.7 777.16,970.7 778.25,969.72 779.33,968.76 780.41,967.81 781.5,966.88 782.58,965.96 783.66,965.06 784.75,964.18 785.83,963.31 786.91,962.45 788,961.61 789.08,960.78 790.16,959.96 791.25,959.16 792.33,958.37 793.41,957.6 794.49,956.84 795.58,956.09 796.66,955.35 797.74,954.62 798.83,953.91 799.91,953.21 800.99,952.52 802.08,951.84 803.16,951.17 804.24,950.52 805.33,949.87 806.41,949.24 807.49,948.61 808.57,948 847.43,948 848.51,948.61 849.59,949.24 850.67,949.87 851.76,950.52 852.84,951.17 853.92,951.84 855.01,952.52 856.09,953.21 857.17,953.91 858.26,954.62 859.34,955.35 860.42,956.09 861.51,956.84 862.59,957.6 863.67,958.37 864.75,959.16 865.84,959.96 866.92,960.78 868,961.61 869.09,962.45 870.17,963.31 871.25,964.18 872.34,965.06 873.42,965.96 874.5,966.88 875.59,967.81 876.67,968.76 877.75,969.72 878.84,970.7 879.92,971.7 881,972.72 882.08,973.75 883.17,974.81 884.25,975.88 885.33,976.97 886.42,978.08 887.5,979.21 888.58,980.36 889.67,981.54 890.75,982.73 891.83,983.96 892.92,985.2 894,986.47 895.08,987.76 896.17,989.09 897.25,990.43 898.33,991.81 899.41,993.22 900.5,994.66 901.58,996.13 902.66,997.64 903.75,999.18 904.83,1000.76 905.91,1002.37 907,1004.03 908.08,1005.73 909.16,1007.48 910.25,1009.28 911.33,1011.13 912.41,1013.03 913.5,1014.99 914.58,1017.02 915.66,1019.12 916.74,1021.29 917.83,1023.54 918.91,1025.88 919.99,1028.32 921.08,1030.86 922.16,1033.53 923.24,1036.34 924.33,1039.31 925.41,1042.46 926.49,1045.84 927.58,1049.48 928.66,1053.47 929.74,1057.9 930.83,1062.95 931.91,1068.97 932.99,1076.86 934.07,1096" fill="none" stroke="#8a4b1c" stroke-width="1.1" stroke-linejoin="round"/>
+<polyline points="717.6,1096 718.6,1077.21 719.6,1069.46 720.6,1063.54 721.61,1058.57 722.61,1054.22 723.61,1050.29 724.61,1046.7 725.62,1043.37 726.62,1040.26 727.62,1037.33 728.62,1034.56 729.63,1031.92 730.63,1029.4 731.63,1026.99 732.64,1024.68 733.64,1022.45 734.64,1020.3 735.64,1018.22 736.65,1016.2 737.65,1014.25 738.65,1012.36 739.65,1010.52 740.66,1008.73 741.66,1006.99 742.66,1005.3 743.66,1003.64 744.67,1002.03 745.67,1000.45 746.67,998.91 747.67,997.4 748.68,995.93 749.68,994.48 750.68,993.07 751.69,991.69 752.69,990.33 753.69,989 754.69,987.7 755.7,986.42 756.7,985.16 757.7,983.93 758.7,982.72 759.71,981.53 760.71,980.36 761.71,979.21 762.71,978.08 763.72,976.97 764.72,975.88 765.72,974.81 766.72,973.76 767.73,972.72 768.73,971.7 769.73,970.7 770.74,969.71 771.74,968.73 772.74,967.78 773.74,966.83 774.75,965.91 775.75,964.99 776.75,964.09 777.75,963.21 778.76,962.33 779.76,961.47 780.76,960.63 781.76,959.79 782.77,958.97 783.77,958.16 784.77,957.36 785.77,956.58 786.78,955.8 787.78,955.04 788.78,954.29 789.79,953.55 790.79,952.82 791.79,952.1 792.79,951.39 793.8,950.69 794.8,950 795.8,949.33 796.8,948.66 797.81,948 858.19,948 859.2,948.66 860.2,949.33 861.2,950 862.2,950.69 863.21,951.39 864.21,952.1 865.21,952.82 866.21,953.55 867.22,954.29 868.22,955.04 869.22,955.8 870.23,956.58 871.23,957.36 872.23,958.16 873.23,958.97 874.24,959.79 875.24,960.63 876.24,961.47 877.24,962.33 878.25,963.21 879.25,964.09 880.25,964.99 881.25,965.91 882.26,966.83 883.26,967.78 884.26,968.73 885.26,969.71 886.27,970.7 887.27,971.7 888.27,972.72 889.28,973.76 890.28,974.81 891.28,975.88 892.28,976.97 893.29,978.08 894.29,979.21 895.29,980.36 896.29,981.53 897.3,982.72 898.3,983.93 899.3,985.16 900.3,986.42 901.31,987.7 902.31,989 903.31,990.33 904.31,991.69 905.32,993.07 906.32,994.48 907.32,995.93 908.33,997.4 909.33,998.91 910.33,1000.45 911.33,1002.03 912.34,1003.64 913.34,1005.3 914.34,1006.99 915.34,1008.73 916.35,1010.52 917.35,1012.36 918.35,1014.25 919.35,1016.2 920.36,1018.22 921.36,1020.3 922.36,1022.45 923.36,1024.68 924.37,1026.99 925.37,1029.4 926.37,1031.92 927.38,1034.56 928.38,1037.33 929.38,1040.26 930.38,1043.37 931.39,1046.7 932.39,1050.29 933.39,1054.22 934.39,1058.57 935.4,1063.54 936.4,1069.46 937.4,1077.21 938.4,1096" fill="none" stroke="#8a4b1c" stroke-width="1.1" stroke-linejoin="round"/>
+<polyline points="713.27,1096 714.2,1077.48 715.14,1069.84 716.08,1064 717.01,1059.09 717.95,1054.79 718.89,1050.91 719.83,1047.37 720.76,1044.07 721.7,1041 722.64,1038.1 723.57,1035.35 724.51,1032.74 725.45,1030.24 726.39,1027.85 727.32,1025.55 728.26,1023.34 729.2,1021.2 730.13,1019.13 731.07,1017.13 732.01,1015.19 732.95,1013.31 733.88,1011.48 734.82,1009.69 735.76,1007.96 736.69,1006.26 737.63,1004.61 738.57,1003 739.51,1001.42 740.44,999.88 741.38,998.37 742.32,996.9 743.25,995.45 744.19,994.03 745.13,992.64 746.06,991.28 747,989.94 747.94,988.63 748.88,987.34 749.81,986.08 750.75,984.84 751.69,983.62 752.62,982.42 753.56,981.24 754.5,980.08 755.44,978.94 756.37,977.81 757.31,976.71 758.25,975.62 759.18,974.55 760.12,973.5 761.06,972.46 762,971.44 762.93,970.43 763.87,969.44 764.81,968.46 765.74,967.5 766.68,966.55 767.62,965.61 768.55,964.69 769.49,963.78 770.43,962.89 771.37,962 772.3,961.13 773.24,960.27 774.18,959.42 775.11,958.59 776.05,957.76 776.99,956.95 777.93,956.15 778.86,955.36 779.8,954.58 780.74,953.81 781.67,953.05 782.61,952.3 783.55,951.56 784.49,950.83 785.42,950.1 786.36,949.39 787.3,948.69 788.23,948 867.77,948 868.7,948.69 869.64,949.39 870.58,950.1 871.51,950.83 872.45,951.56 873.39,952.3 874.33,953.05 875.26,953.81 876.2,954.58 877.14,955.36 878.07,956.15 879.01,956.95 879.95,957.76 880.89,958.59 881.82,959.42 882.76,960.27 883.7,961.13 884.63,962 885.57,962.89 886.51,963.78 887.45,964.69 888.38,965.61 889.32,966.55 890.26,967.5 891.19,968.46 892.13,969.44 893.07,970.43 894,971.44 894.94,972.46 895.88,973.5 896.82,974.55 897.75,975.62 898.69,976.71 899.63,977.81 900.56,978.94 901.5,980.08 902.44,981.24 903.38,982.42 904.31,983.62 905.25,984.84 906.19,986.08 907.12,987.34 908.06,988.63 909,989.94 909.94,991.28 910.87,992.64 911.81,994.03 912.75,995.45 913.68,996.9 914.62,998.37 915.56,999.88 916.49,1001.42 917.43,1003 918.37,1004.61 919.31,1006.26 920.24,1007.96 921.18,1009.69 922.12,1011.48 923.05,1013.31 923.99,1015.19 924.93,1017.13 925.87,1019.13 926.8,1021.2 927.74,1023.34 928.68,1025.55 929.61,1027.85 930.55,1030.24 931.49,1032.74 932.43,1035.35 933.36,1038.1 934.3,1041 935.24,1044.07 936.17,1047.37 937.11,1050.91 938.05,1054.79 938.99,1059.09 939.92,1064 940.86,1069.84 941.8,1077.48 942.73,1096" fill="none" stroke="#5b2c0a" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="944" y="1010" font-size="9" text-anchor="start" fill="#8a4b1c" class="h">Kurve 3 und 4: Außenschale vorläufig (Profil folgt in M5)</text>
+<rect x="810" y="948" width="36" height="4" fill="#fff" stroke="#222" stroke-width="1.2"/>
+<text x="724" y="1010" font-size="9.5" text-anchor="end" fill="#222" font-weight="bold" class="h">Schnitt durch Eckrippe</text>
+<text x="724" y="1021" font-size="9.5" text-anchor="end" fill="#222" font-weight="bold" class="h">(Horizontalmaß über die Ecke)</text>
+<rect x="810" y="892" width="36" height="56" fill="#f3ecdc" stroke="#222" stroke-width="1.3"/>
+<polygon points="810,892 846,892 828,872" fill="#cdb99a" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<circle cx="828" cy="866" r="6" fill="#e8c860" stroke="#222" stroke-width="1.2"/>
+<line x1="828" y1="860" x2="828" y2="854" stroke="#222" stroke-width="1.6"/>
+<line x1="825" y1="857" x2="831" y2="857" stroke="#222" stroke-width="1.4"/>
+<text x="852" y="923" font-size="9" text-anchor="start" fill="#222" font-weight="bold" class="h">Laterne (Tempel ±9)</text>
+<line x1="1020" y1="1312" x2="1036" y2="1312" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,1312 1045,1307.5 1045,1316.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="1308" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 64 (0 m) – floorY (Fußboden)</text>
+<line x1="708" y1="1220" x2="1036" y2="1220" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,1220 1045,1215.5 1045,1224.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="1223" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 110 (23 m) – aisleVaultY (Seitenschiffgewölbe)</text>
+<line x1="214" y1="1164" x2="1036" y2="1164" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,1164 1045,1159.5 1045,1168.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="1167" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 138 (37 m) – Baptisterium lanternTopY</text>
+<line x1="936" y1="1144" x2="1036" y2="1144" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,1144 1045,1139.5 1045,1148.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="1155" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 148 (42 m) – drum.baseY (Tambourbasis)</text>
+<line x1="708" y1="1140" x2="1036" y2="1140" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,1140 1045,1135.5 1045,1144.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="1138" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 150 (43 m) – naveVaultY (Gewölbe Mittelschiff)</text>
+<line x1="936" y1="1096" x2="1036" y2="1096" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,1096 1045,1091.5 1045,1100.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="1099" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 172 (54 m) – drum.springY (Kuppelansatz)</text>
+<line x1="456" y1="974" x2="1036" y2="974" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,974 1045,969.5 1045,978.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="977" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 233 (84,5 m) – Campanile topY</text>
+<line x1="846" y1="948" x2="1036" y2="948" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,948 1045,943.5 1045,952.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="951" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 246 (91 m) – eyeRingTopY (Schlussring)</text>
+<line x1="831" y1="854" x2="1036" y2="854" stroke="#999" stroke-width="0.7" stroke-dasharray="2 3"/>
+<polygon points="1036,854 1045,849.5 1045,858.5" fill="#1f6f3f" stroke="#1f6f3f" stroke-width="1" stroke-linejoin="round"/>
+<text x="1049" y="857" font-size="9" text-anchor="start" fill="#1f6f3f" class="h">Y 293 (114,5 m) – crossTopY (Kreuzspitze)</text>
+<text x="1364" y="1334" font-size="8.5" text-anchor="end" fill="#666" class="h">Kote: Y = 64 + 2·h[m]</text>
+<text x="88" y="1394" font-size="12" text-anchor="start" fill="#222" font-weight="bold">C) Legende und Maßtabelle</text>
+<text x="88" y="1416" font-size="14" text-anchor="start" fill="#222" font-weight="bold">Santa Maria del Fiore – Maßzeichnung V2 (1:2, 1 Block = 0,5 m)</text>
+<text x="88" y="1434" font-size="10" text-anchor="start" fill="#222">Koordinatensystem: X = Längsachse (+X Osten/Chor, -X Westen/Fassade), Z = Querachse (+Z Süden/Campanile-Seite, -Z Norden), Y = Höhe; Ursprung X=0, Z=0 = Kuppelmitte.</text>
+<text x="88" y="1448" font-size="10" text-anchor="start" fill="#222">Fußboden = Y 64 (0 m), Laufniveau = Y 65; Höhe Y = 64 + 2·h[m]; Grundriss: Blöcke = 2·m; Maßstab Zeichnung 2 px pro Block.</text>
+<text x="88" y="1472" font-size="9.5" text-anchor="start" fill="#222">SCALE</text>
+<text x="318" y="1472" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 2</text>
+<text x="88" y="1486" font-size="9.5" text-anchor="start" fill="#222">LEVELS.cryptFloorY</text>
+<text x="318" y="1486" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 57 (-3,5 m)</text>
+<text x="88" y="1500" font-size="9.5" text-anchor="start" fill="#222">LEVELS.foundationBottomY</text>
+<text x="318" y="1500" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 56 (-4 m)</text>
+<text x="88" y="1514" font-size="9.5" text-anchor="start" fill="#222">LEVELS.floorY</text>
+<text x="318" y="1514" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 64 (0 m)</text>
+<text x="88" y="1528" font-size="9.5" text-anchor="start" fill="#222">LEVELS.walkY</text>
+<text x="318" y="1528" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 65 (0,5 m)</text>
+<text x="88" y="1542" font-size="9.5" text-anchor="start" fill="#222">LEVELS.maxY</text>
+<text x="318" y="1542" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 319 (127,5 m)</text>
+<text x="88" y="1556" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.facade.westFaceX</text>
+<text x="318" y="1556" font-size="9.5" text-anchor="start" fill="#1a4f9c">= -216</text>
+<text x="88" y="1570" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.facade.thickness</text>
+<text x="318" y="1570" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 4</text>
+<text x="88" y="1584" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.facade.peakY</text>
+<text x="318" y="1584" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 164 (50 m)</text>
+<text x="88" y="1598" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.facade.portals</text>
+<text x="318" y="1598" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 3</text>
+<text x="88" y="1612" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.interiorWestX</text>
+<text x="318" y="1612" font-size="9.5" text-anchor="start" fill="#1a4f9c">= -212</text>
+<text x="88" y="1626" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.crossingWestX</text>
+<text x="318" y="1626" font-size="9.5" text-anchor="start" fill="#1a4f9c">= -60</text>
+<text x="88" y="1640" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.bays</text>
+<text x="318" y="1640" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 4</text>
+<text x="88" y="1654" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.bayPitch</text>
+<text x="318" y="1654" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 38</text>
+<text x="88" y="1668" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.centralHalfZ</text>
+<text x="318" y="1668" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 19</text>
+<text x="88" y="1682" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.interiorHalfZ</text>
+<text x="318" y="1682" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 38</text>
+<text x="88" y="1696" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.exteriorHalfZ</text>
+<text x="318" y="1696" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 44</text>
+<text x="88" y="1710" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.aisleVaultY</text>
+<text x="318" y="1710" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 110 (23 m)</text>
+<text x="88" y="1724" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.aisleEavesY</text>
+<text x="318" y="1724" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 114 (25 m)</text>
+<text x="88" y="1738" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.naveVaultY</text>
+<text x="318" y="1738" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 150 (43 m)</text>
+<text x="88" y="1752" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.clerestoryTopY</text>
+<text x="318" y="1752" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 148 (42 m)</text>
+<text x="88" y="1766" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.nave.roofRidgeY</text>
+<text x="318" y="1766" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 156 (46 m)</text>
+<text x="88" y="1780" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.crossing.innerHalfFlat</text>
+<text x="318" y="1780" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 45</text>
+<text x="88" y="1794" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.crossing.outerHalfFlat</text>
+<text x="318" y="1794" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 54</text>
+<text x="88" y="1808" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.crossing.wallThickness</text>
+<text x="318" y="1808" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 9</text>
+<text x="88" y="1822" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.crossing.archTopY</text>
+<text x="318" y="1822" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 148 (42 m)</text>
+<text x="518" y="1472" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.centerDist</text>
+<text x="748" y="1472" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 59</text>
+<text x="518" y="1486" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.outerApothem</text>
+<text x="748" y="1486" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 37</text>
+<text x="518" y="1500" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.innerApothem</text>
+<text x="748" y="1500" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 19</text>
+<text x="518" y="1514" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.chapelsPerTribune</text>
+<text x="748" y="1514" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 5</text>
+<text x="518" y="1528" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.chapelRoofY</text>
+<text x="748" y="1528" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 104 (20 m)</text>
+<text x="518" y="1542" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.tribuneRoofY</text>
+<text x="748" y="1542" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 130 (33 m)</text>
+<text x="518" y="1556" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.deadTribunes</text>
+<text x="748" y="1556" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 4</text>
+<text x="518" y="1570" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.drum.baseY</text>
+<text x="748" y="1570" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 148 (42 m)</text>
+<text x="518" y="1584" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.drum.springY</text>
+<text x="748" y="1584" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 172 (54 m)</text>
+<text x="518" y="1598" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.drum.oculi</text>
+<text x="748" y="1598" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 8</text>
+<text x="518" y="1612" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.drum.oculusDiameter</text>
+<text x="748" y="1612" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 10</text>
+<text x="518" y="1626" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.drum.oculusCenterY</text>
+<text x="748" y="1626" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 163 (49,5 m)</text>
+<text x="518" y="1640" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.springY</text>
+<text x="748" y="1640" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 172 (54 m)</text>
+<text x="518" y="1654" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.profileRadiusFactor</text>
+<text x="748" y="1654" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 0.8</text>
+<text x="518" y="1668" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.innerShellBase</text>
+<text x="748" y="1668" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 4</text>
+<text x="518" y="1682" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.innerShellTop</text>
+<text x="748" y="1682" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 3</text>
+<text x="518" y="1696" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.gap</text>
+<text x="748" y="1696" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 2</text>
+<text x="518" y="1710" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.outerShellBase</text>
+<text x="748" y="1710" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 2</text>
+<text x="518" y="1724" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.outerShellTop</text>
+<text x="748" y="1724" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 1</text>
+<text x="518" y="1738" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.majorRibs</text>
+<text x="748" y="1738" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 8</text>
+<text x="518" y="1752" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.minorRibs</text>
+<text x="748" y="1752" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 16</text>
+<text x="518" y="1766" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.eyeHalfFlat</text>
+<text x="748" y="1766" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 6</text>
+<text x="518" y="1780" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.dome.eyeRingTopY</text>
+<text x="748" y="1780" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 246 (91 m)</text>
+<text x="518" y="1794" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.baseY</text>
+<text x="748" y="1794" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 246 (91 m)</text>
+<text x="518" y="1808" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.templeTopY</text>
+<text x="748" y="1808" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 274 (105 m)</text>
+<text x="518" y="1822" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.coneTopY</text>
+<text x="748" y="1822" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 284 (110 m)</text>
+<text x="948" y="1472" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.sphereCenterY</text>
+<text x="1178" y="1472" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 287 (111,5 m)</text>
+<text x="948" y="1486" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.sphereRadius</text>
+<text x="1178" y="1486" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 3</text>
+<text x="948" y="1500" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.crossTopY</text>
+<text x="1178" y="1500" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 293 (114,5 m)</text>
+<text x="948" y="1514" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.halfFlat</text>
+<text x="1178" y="1514" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 9</text>
+<text x="948" y="1528" font-size="9.5" text-anchor="start" fill="#222">CAMPANILE.centerX</text>
+<text x="1178" y="1528" font-size="9.5" text-anchor="start" fill="#1a4f9c">= -200</text>
+<text x="948" y="1542" font-size="9.5" text-anchor="start" fill="#222">CAMPANILE.centerZ</text>
+<text x="1178" y="1542" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 65</text>
+<text x="948" y="1556" font-size="9.5" text-anchor="start" fill="#222">CAMPANILE.half</text>
+<text x="1178" y="1556" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 14</text>
+<text x="948" y="1570" font-size="9.5" text-anchor="start" fill="#222">CAMPANILE.topY</text>
+<text x="1178" y="1570" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 233 (84,5 m)</text>
+<text x="948" y="1584" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.centerX</text>
+<text x="1178" y="1584" font-size="9.5" text-anchor="start" fill="#1a4f9c">= -307</text>
+<text x="948" y="1598" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.centerZ</text>
+<text x="1178" y="1598" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 0</text>
+<text x="948" y="1612" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.outerHalfFlat</text>
+<text x="1178" y="1612" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 33</text>
+<text x="948" y="1626" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.innerHalfFlat</text>
+<text x="1178" y="1626" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 25</text>
+<text x="948" y="1640" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.scarsella.westX</text>
+<text x="1178" y="1640" font-size="9.5" text-anchor="start" fill="#1a4f9c">= -347</text>
+<text x="948" y="1654" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.scarsella.halfZ</text>
+<text x="1178" y="1654" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 13</text>
+<text x="948" y="1668" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.atticTopY</text>
+<text x="1178" y="1668" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 116 (26 m)</text>
+<text x="948" y="1682" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.roofApexY</text>
+<text x="1178" y="1682" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 126 (31 m)</text>
+<text x="948" y="1696" font-size="9.5" text-anchor="start" fill="#222">BAPTISTERY.lanternTopY</text>
+<text x="1178" y="1696" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 138 (37 m)</text>
+<text x="948" y="1710" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.palazzoCanonici.x</text>
+<text x="1178" y="1710" font-size="9.5" text-anchor="start" fill="#1a4f9c">= [-100, -27]</text>
+<text x="948" y="1724" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.palazzoCanonici.z</text>
+<text x="1178" y="1724" font-size="9.5" text-anchor="start" fill="#1a4f9c">= [119, 145]</text>
+<text x="948" y="1738" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.palazzoCanonici.topY</text>
+<text x="1178" y="1738" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 112 (24 m)</text>
+<text x="948" y="1752" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.museoOpera.x</text>
+<text x="1178" y="1752" font-size="9.5" text-anchor="start" fill="#1a4f9c">= [101, 254]</text>
+<text x="948" y="1766" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.museoOpera.z</text>
+<text x="1178" y="1766" font-size="9.5" text-anchor="start" fill="#1a4f9c">= [-135, 29]</text>
+<text x="948" y="1780" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.museoOpera.topY</text>
+<text x="1178" y="1780" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 112 (24 m)</text>
+<text x="948" y="1794" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.loggiaBigallo.x</text>
+<text x="1178" y="1794" font-size="9.5" text-anchor="start" fill="#1a4f9c">= [-292, -258]</text>
+<text x="948" y="1808" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.loggiaBigallo.z</text>
+<text x="1178" y="1808" font-size="9.5" text-anchor="start" fill="#1a4f9c">= [71, 87]</text>
+<text x="948" y="1822" font-size="9.5" text-anchor="start" fill="#222">PIAZZA.loggiaBigallo.topY</text>
+<text x="1178" y="1822" font-size="9.5" text-anchor="start" fill="#1a4f9c">= 104 (20 m)</text>
+<text x="88" y="1854" font-size="11" text-anchor="start" fill="#222" font-weight="bold">Mit ANNAHME markierte Werte sind Plausibilitätswerte</text>
+<text x="88" y="1870" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.facade.peakY, CATHEDRAL.nave.clerestoryTopY, CATHEDRAL.nave.roofRidgeY, CATHEDRAL.crossing.archTopY, CATHEDRAL.tribunes.innerApothem,</text>
+<text x="88" y="1883" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.tribunes.chapelRoofY, CATHEDRAL.tribunes.tribuneRoofY, CATHEDRAL.drum.baseY, CATHEDRAL.drum.oculusDiameter, CATHEDRAL.dome.eyeHalfFlat,</text>
+<text x="88" y="1896" font-size="9.5" text-anchor="start" fill="#222">CATHEDRAL.lantern.templeTopY, CATHEDRAL.lantern.halfFlat, BAPTISTERY.atticTopY, BAPTISTERY.roofApexY, BAPTISTERY.lanternTopY</text>
+</svg>
