@@ -1,0 +1,43 @@
+{
+  "module": 4,
+  "title": "Der Tambour",
+  "subtitle": "Bautüte 4: Der achteckige Sockel unter der Kuppel mit acht runden Fenstern und vier toten Tribünen",
+  "icon": "🥁",
+  "parts": {
+    "tambour_ring": {
+      "title": "Tambour-Ring",
+      "description": "Du mauerst den Tambour, den hohen achteckigen Ring, auf dem die Kuppel ruht. Er steht genau auf dem Ring der Vierung und reicht von Y 149 bis Y 172. Wie dort sind außen und innen je zwei Blöcke Schale gemauert und in der Mitte bleibt ein leerer Kern. Innen siehst du grauen Stein, außen weiße Marmorfelder mit grünen Rahmen. An den acht Ecken des Achtecks baust du je eine glatte weiße Eckkante, zwei Blöcke breit. Lass die Löcher für die acht runden Fenster schon frei.",
+      "tip": "Die unterste Lage Y 149 und die drei obersten Lagen Y 170 bis 172 sind ganz voll. Die Lage Y 161 ist wieder eine volle Binderlage. Kontrolliere die Lage Y 149 mit einer Draufsicht, bevor du höher baust.",
+      "caution": "Die Lage Y 172 muss ringsum lückenlos sein, denn darauf wird später die Kuppel gemauert. Rund um die Fensterlöcher bleibt die Wand massiv, dort gehört kein hohler Kern hin.",
+      "fact": "Den Tambour ließ die Dombauhütte um 1410 bis 1413 errichten. Erst danach konnte Brunelleschi die Kuppel darauf wölben."
+    },
+    "ochsenaugen": {
+      "title": "Die acht Ochsenaugen",
+      "description": "In jede der acht Wandflächen setzt du ein rundes Fenster, ein Ochsenauge. Es hat 9 Blöcke Durchmesser, seine Mitte liegt bei Y 163. Zuerst legst du den Rahmen aus gemeißeltem Quarz um das Loch, einen Block breit und durch die ganze Wanddicke. Danach setzt du das Glas in die Mitte der Mauer, ungefähr zwischen 4 und 5 Blöcken von innen. Das Glas ist blau, ein Kreuz aus gelbem Glas teilt es in vier Felder.",
+      "tip": "Zähle von der Mitte aus 4 Blöcke nach oben, unten, links und rechts, dann sitzt der Kreis. Auf den Diagonalflächen liegt das Fenster schräg zu den Achsen, miss dort entlang der Wandfläche.",
+      "caution": "Das Glas steht nur in der mittleren Schicht der Mauer. Davor und dahinter bleibt das Loch frei, sonst sieht man das Fenster später nicht.",
+      "fact": "Die runden Fenster im Tambour erhielten ihre Glasmalereien in den 1430er und 1440er Jahren. Die Entwürfe stammen von Ghiberti, Donatello, Paolo Uccello und Andrea del Castagno."
+    },
+    "tribune_morte": {
+      "title": "Die vier tribune morte",
+      "description": "An den vier Diagonalseiten des Tambours bauen sich flache halbrunde Anbauten aus der Wand, die tribune morte. Du beginnst mit einem vollen Halbkreis von 11 Blöcken Radius auf dem Sockel, das ist die Lage Y 149. Darüber mauerst du eine zwei Blöcke dicke Halbrundwand bis Y 151 und setzt weiße Säulenpaare in die Außenschicht. Zum Schluss wölbst du eine flache Halbkuppel aus Terrakotta darüber, sie ist 6 Blöcke hoch und endet bei Y 157, also unter den runden Fenstern.",
+      "tip": "Baue erst eine Exedra ganz fertig und zähle ihre Blöcke. Die anderen drei sind genau gleich, nur um 90 Grad gedreht.",
+      "caution": "Der Halbkreis der Lage Y 149 muss voll sein und genau auf dem Sockel von Modul 3 liegen. Die Kuppel darf nicht höher als Y 157 werden, sonst verdeckt sie das runde Fenster darüber.",
+      "fact": "Der Name bedeutet auf Deutsch tote Tribünen. Sie öffnen sich nicht zum Innenraum der Kirche. Ihre Halbkuppeln stützen die Mauern des Tambours von außen."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Um den ganzen Tambour legst du in der Lage Y 171 ein Kranzgesims. Es springt einen Block über die Wand vor und besteht aus weißen Quarzziegeln. Alle vier Blöcke setzt du einen gemeißelten Quarzblock ein, so entsteht ein Zahnschnitt. Das Gesims läuft lückenlos rundherum, auch über den Diagonalseiten.",
+      "tip": "Das Gesims liegt auf dem Ring auf, es schwebt nicht. Es hängt an der Lage Y 170 und darf nur einen Block vorspringen.",
+      "caution": "Hier endet der Tambour mit Y 172. Setze nichts höher, denn Y 173 und darüber gehört schon zur Kuppel.",
+      "fact": "Ein Gesims hat auch eine Aufgabe: Es lässt Regenwasser vor der Mauer abtropfen und schützt so den Marmor."
+    },
+    "galerie_suedost": {
+      "title": "Baccios Galerie (unvollendet)",
+      "description": "Nur auf der Südostseite baust du den Umgang, den Baccio d'Agnolo begann. Zuerst setzt du Konsolen in Y 168, jede zweite Zelle, die einen Block vorspringen. Darauf legst du den Laufboden in Y 169 über die ganze Wandfläche. Die Brüstung in Y 170 besteht aus kleinen Säulen, jede dritte Zelle ein weißer Quarzblock. Das Gesims in Y 171 läuft über der Galerie durch.",
+      "tip": "Beginne an der Ecke des Achtecks und arbeite dich zur Mitte der Fläche. Die Konsolen tragen den Boden, also zuerst die Konsolen, dann der Boden.",
+      "caution": "Die Galerie endet bei Y 170. Die Lage Y 171 gehört dem Kranzgesims und bleibt frei von Galeriesäulen.",
+      "fact": "Baccio d'Agnolo baute um 1515 den Umgang auf einer Seite. Michelangelo soll ihn einen Grillenkäfig genannt haben, danach wurde die Galerie nicht fortgesetzt."
+    }
+  }
+}

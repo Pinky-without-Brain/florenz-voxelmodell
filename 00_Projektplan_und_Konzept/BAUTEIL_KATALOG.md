@@ -112,13 +112,13 @@ Symmetrie: jedes Tribunen-Bauteil ist spiegelsymmetrisch zur eigenen Achse. Die 
 
 ---
 
-## Modul 4 – Tambour mit Ochsenaugen und tribune morte (Richtwert 30–45 k)
+## Modul 4 – Tambour mit Ochsenaugen und tribune morte (Richtwert 50–60 k, nach Welle 2 angepasst)
 | # | Bauteil-ID | Inhalt |
 |---|---|---|
 | 1 | `tambour_ring` | Achteckring a 45..54, Y 149..`drum.springY` (172), Schalenmauerwerk. Oberste 3 Lagen (170..172) voll → Auflager der Kuppel. Außen Inkrustation in Feldern (panelH 8); Eckkanten (Ecken des Achtecks) als 2 Blöcke breite Lisenen `smooth_quartz`. Symmetrie order 8. |
 | 2 | `ochsenaugen` | 8 Rundfenster, eines je Fläche, Zentrum Y `oculusCenterY` (163), r = `oculusDiameter`/2 − 1 = 4 (9 Zellen Durchmesser). Durchgang senkrecht zur Fläche durch die volle Wanddicke. Rahmen-Ring (Breite 1) `chiseled_quartz`; Glas in der mittleren Wandschicht (ρ ≈ 49..50): `blue_stained_glass` mit Kreuz aus `yellow_stained_glass` (Ghiberti, Donatello, Uccello, Castagno). Hinweis: Die Ochsenaugen sind **Aussparungen** im Bauteil `tambour_ring`; die Rahmen und Gläser bilden dieses eigene Bauteil, Symmetrie order 8. |
 | 3 | `galerie_suedost` | Baccio d'Agnolos unvollendete Galerie („Grillenkäfig“), **nur** auf der SO-Diagonalfläche: Lage Y 168 Konsolen (jede 2. Zelle, Vorsprung 1 → ρ 55), Y 169 Laufboden ρ 55..56, Brüstung Y 170..171 Arkaden (Säulchen jede 3. Zelle) aus `smooth_quartz`. Keine Symmetrie. |
-| 4 | `tribune_morte` | 4 Exedren auf den Exedra-Sockeln (M3): halbrunde Wand r 10..11 (2 dick) Y 149..160 mit 5 Muschelnischen (Halbweite 1, 1 tief), gekuppelte Säulen `quartz_pillar` vor den Pfeilern; Halbkuppel `halfDome` r 11, Kämpfer Y 161 (Scheitel ≈ 171); Abdeckung `terracotta`. Symmetrie order 4 (Diagonalen; die D4-Abbildungen der Diagonalpositionen treffen sich gegenseitig, deshalb order 8 prüfen). |
+| 4 | `tribune_morte` | 4 niedrige Exedren auf den Exedra-Sockeln (M3), **unterhalb der Ochsenaugen**: Halbrundwand r 10..11 Y 149..151 mit gekuppelten Säulen `quartz_pillar`; abgeflachte Viertel-Ellipsoidschale (horizontal r 11, vertikal r 6), Kämpfer Y 151, Scheitel Y 157, außen `terracotta`. Symmetrie order 8. *(Korrigiert nach Welle 2: Die erste Fassung bis Y 172 verdeckte die Diagonal-Ochsenaugen.)* |
 | 5 | `kranzgesims` | Y 173? **Nein:** Y 173 gehört M5. Das Gesims liegt bei Y 171 als 1 Block Vorsprung (ρ 55) über dem ganzen Umfang und wird von Y 170 getragen. Symmetrie order 8. |
 
 ---
