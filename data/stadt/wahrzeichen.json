@@ -1,0 +1,9561 @@
+{
+ "meta": {
+  "quelle": "abgeleitet aus gebaeude.json und flaechen.json; Plan: STADTMODELL_PLAN §4",
+  "kriterien": "kirche | palazzo/historisch (Name + wikidata/historic) | wikidata (Name, ≥150 Blöcke²) | palazzo gross (≥600 Blöcke²) | plan"
+ },
+ "plan": [
+  {
+   "name": "Palazzo Vecchio",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r1461712",
+     "name": "Palazzo Vecchio",
+     "flaecheBl": 24104.25
+    }
+   ],
+   "gewaehlt": "r1461712"
+  },
+  {
+   "name": "Uffizien",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w477279033",
+     "name": "Galleria degli Uffizi",
+     "flaecheBl": 36258.75
+    }
+   ],
+   "gewaehlt": "w477279033"
+  },
+  {
+   "name": "Corridoio Vasariano",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w1344547176",
+     "name": "Corridoio Vasariano",
+     "flaecheBl": 18660.75
+    }
+   ],
+   "gewaehlt": "w1344547176"
+  },
+  {
+   "name": "Loggia dei Lanzi",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w43284457",
+     "name": "Loggia dei Lanzi",
+     "flaecheBl": 2074
+    }
+   ],
+   "gewaehlt": "w43284457"
+  },
+  {
+   "name": "Orsanmichele",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w442508011",
+     "name": "Chiesa di Orsanmichele",
+     "flaecheBl": 3281.75
+    }
+   ],
+   "gewaehlt": "w442508011"
+  },
+  {
+   "name": "Ponte Vecchio",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w24999532"
+    },
+    {
+     "id": "r5342094"
+    }
+   ],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  },
+  {
+   "name": "Palazzo Pitti",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r1637338",
+     "name": "Palazzo Pitti",
+     "flaecheBl": 43933.5
+    },
+    {
+     "id": "w118131726",
+     "name": "Palazzo Pitti-Mannelli",
+     "flaecheBl": 1453
+    }
+   ],
+   "gewaehlt": "r1637338"
+  },
+  {
+   "name": "San Lorenzo",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w599900778",
+     "name": "Basilica di San Lorenzo",
+     "flaecheBl": 14218
+    }
+   ],
+   "gewaehlt": "w599900778"
+  },
+  {
+   "name": "Cappelle Medicee",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w24883267",
+     "name": "Cappella dei Principi",
+     "flaecheBl": 5660.5
+    },
+    {
+     "id": "w599900778",
+     "name": "Basilica di San Lorenzo",
+     "flaecheBl": 14218
+    }
+   ],
+   "gewaehlt": "w24883267"
+  },
+  {
+   "name": "Palazzo Medici Riccardi",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r1379977",
+     "name": "Palazzo Medici Riccardi",
+     "flaecheBl": 15283.25
+    }
+   ],
+   "gewaehlt": "r1379977"
+  },
+  {
+   "name": "Santa Croce",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w777563049",
+     "name": "Basilica di Santa Croce",
+     "flaecheBl": 20746.75
+    }
+   ],
+   "gewaehlt": "w777563049"
+  },
+  {
+   "name": "Santa Maria Novella",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w449369047",
+     "name": "Basilica di Santa Maria Novella",
+     "flaecheBl": 15473.25
+    }
+   ],
+   "gewaehlt": "w449369047"
+  },
+  {
+   "name": "Bargello",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r1461750",
+     "name": null,
+     "flaecheBl": 8377.5
+    }
+   ],
+   "gewaehlt": "r1461750"
+  },
+  {
+   "name": "Badia Fiorentina",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w249686037",
+     "name": "Badia Fiorentina",
+     "flaecheBl": 2682
+    }
+   ],
+   "gewaehlt": "w249686037"
+  },
+  {
+   "name": "Palazzo Strozzi",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r2951949",
+     "name": "Palazzo Strozzi",
+     "flaecheBl": 9445
+    },
+    {
+     "id": "w307174621",
+     "name": "Palazzo Strozzi del Poeta",
+     "flaecheBl": 1528.5
+    }
+   ],
+   "gewaehlt": "r2951949"
+  },
+  {
+   "name": "Palazzo Rucellai",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r4103996",
+     "name": "Palazzo Rucellai",
+     "flaecheBl": 3487.25
+    }
+   ],
+   "gewaehlt": "r4103996"
+  },
+  {
+   "name": "Santissima Annunziata",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w234428743",
+     "name": "Basilica della Santissima Annunziata",
+     "flaecheBl": 12377
+    }
+   ],
+   "gewaehlt": "w234428743"
+  },
+  {
+   "name": "Ospedale degli Innocenti",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "r7085758",
+     "name": "Spedale degli Innocenti",
+     "flaecheBl": 23183
+    },
+    {
+     "id": "w674049323",
+     "name": "Volta degli Innocenti",
+     "flaecheBl": 825
+    }
+   ],
+   "gewaehlt": "r7085758"
+  },
+  {
+   "name": "Santo Spirito",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w24881563",
+     "name": "Basilica di Santa Maria del Santo Spirito",
+     "flaecheBl": 15874.5
+    },
+    {
+     "id": "r7101376",
+     "name": "Sagrestia di Santo Spirito",
+     "flaecheBl": 2262.25
+    },
+    {
+     "id": "w493525529",
+     "name": "Cenacolo di Santo Spirito",
+     "flaecheBl": 1608.25
+    }
+   ],
+   "gewaehlt": "w24881563"
+  },
+  {
+   "name": "Santa Maria del Carmine",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w118425485",
+     "name": "Basilica di Santa Maria del Carmine",
+     "flaecheBl": 10344
+    }
+   ],
+   "gewaehlt": "w118425485"
+  },
+  {
+   "name": "Santa Trinita",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w478272186",
+     "name": "Basilica di Santa Trinita",
+     "flaecheBl": 5454.5
+    }
+   ],
+   "gewaehlt": "w478272186"
+  },
+  {
+   "name": "Mercato Nuovo",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w27590454",
+     "name": "Mercato del Porcellino",
+     "flaecheBl": 2919.25
+    }
+   ],
+   "gewaehlt": "w27590454"
+  },
+  {
+   "name": "Arcone di Piazza della Repubblica",
+   "gefunden": false,
+   "treffer": [],
+   "gewaehlt": null,
+   "alternativen": []
+  },
+  {
+   "name": "Ponte Santa Trinita",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w167367668"
+    },
+    {
+     "id": "w172666075"
+    }
+   ],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  },
+  {
+   "name": "Ponte alla Carraia",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w167595838"
+    },
+    {
+     "id": "w751171839"
+    }
+   ],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  },
+  {
+   "name": "Ponte alle Grazie",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w118807859"
+    },
+    {
+     "id": "w167368139"
+    }
+   ],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  },
+  {
+   "name": "Ponte Amerigo Vespucci",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w118807887"
+    },
+    {
+     "id": "w118807889"
+    },
+    {
+     "id": "w168134458"
+    },
+    {
+     "id": "w695603307"
+    },
+    {
+     "id": "w695603308"
+    }
+   ],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  },
+  {
+   "name": "Ponte alla Vittoria",
+   "gefunden": false,
+   "treffer": [],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  },
+  {
+   "name": "Ponte San Niccolo",
+   "gefunden": true,
+   "treffer": [
+    {
+     "id": "w306984416"
+    },
+    {
+     "id": "w599897663"
+    },
+    {
+     "id": "w72915036"
+    }
+   ],
+   "gewaehlt": null,
+   "quelle": "brueckenebene"
+  }
+ ],
+ "nichtGefunden": [
+  "Arcone di Piazza della Repubblica",
+  "Ponte alla Vittoria"
+ ],
+ "bruecken": [
+  {
+   "name": "Ponte Vecchio",
+   "id": "r5342094",
+   "pos": [
+    -584.25,
+    1147.5
+   ]
+  },
+  {
+   "name": "Ponte Santa Trinita",
+   "id": "w167367668",
+   "pos": [
+    -1043,
+    933.25
+   ]
+  },
+  {
+   "name": "Ponte alla Carraia",
+   "id": "w167595838",
+   "pos": [
+    -1531.25,
+    675.75
+   ]
+  },
+  {
+   "name": "Ponte alle Grazie",
+   "id": "w167368139",
+   "pos": [
+    320.75,
+    1532.75
+   ]
+  },
+  {
+   "name": "Ponte Amerigo Vespucci",
+   "id": "w168134458",
+   "pos": [
+    -2242.5,
+    315.5
+   ]
+  }
+ ],
+ "kandidaten": [
+  {
+   "id": "r1637338",
+   "name": "Palazzo Pitti",
+   "flaecheBl": 43933.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q29286",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross",
+    "plan"
+   ],
+   "plan": "Palazzo Pitti",
+   "schwerpunkt": [
+    -1063,
+    1821
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w477279033",
+   "name": "Galleria degli Uffizi",
+   "flaecheBl": 36258.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q51252",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Uffizien",
+   "schwerpunkt": [
+    -199.5,
+    1062.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "r1461712",
+   "name": "Palazzo Vecchio",
+   "flaecheBl": 24104.25,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q271928",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross",
+    "plan"
+   ],
+   "plan": "Palazzo Vecchio",
+   "schwerpunkt": [
+    -23.5,
+    869.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "r7085758",
+   "name": "Spedale degli Innocenti",
+   "flaecheBl": 23183,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1257947",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Ospedale degli Innocenti",
+   "schwerpunkt": [
+    686,
+    -663
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w777563049",
+   "name": "Basilica di Santa Croce",
+   "flaecheBl": 20746.75,
+   "hoeheBl": 17,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q51177",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Santa Croce",
+   "schwerpunkt": [
+    979.5,
+    1031
+   ],
+   "isolato": "I0683",
+   "domKomplex": false
+  },
+  {
+   "id": "w1344547176",
+   "name": "Corridoio Vasariano",
+   "flaecheBl": 18660.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q913058",
+   "kriterien": [
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Corridoio Vasariano",
+   "schwerpunkt": [
+    -426.5,
+    1185
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w24881563",
+   "name": "Basilica di Santa Maria del Santo Spirito",
+   "flaecheBl": 15874.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1519975",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Santo Spirito",
+   "schwerpunkt": [
+    -1354.5,
+    1293.5
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "w449369047",
+   "name": "Basilica di Santa Maria Novella",
+   "flaecheBl": 15473.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q51175",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Santa Maria Novella",
+   "schwerpunkt": [
+    -1223,
+    -322.5
+   ],
+   "isolato": "I0306",
+   "domKomplex": false
+  },
+  {
+   "id": "r1379977",
+   "name": "Palazzo Medici Riccardi",
+   "flaecheBl": 15283.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q911047",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross",
+    "plan"
+   ],
+   "plan": "Palazzo Medici Riccardi",
+   "schwerpunkt": [
+    -221,
+    -474
+   ],
+   "isolato": "I0509",
+   "domKomplex": false
+  },
+  {
+   "id": "w599900778",
+   "name": "Basilica di San Lorenzo",
+   "flaecheBl": 14218,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q573881",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "San Lorenzo",
+   "schwerpunkt": [
+    -483,
+    -385.5
+   ],
+   "isolato": "I0433",
+   "domKomplex": false
+  },
+  {
+   "id": "w234428743",
+   "name": "Basilica della Santissima Annunziata",
+   "flaecheBl": 12377,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2287001",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Santissima Annunziata",
+   "schwerpunkt": [
+    691.5,
+    -888.5
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w118425485",
+   "name": "Basilica di Santa Maria del Carmine",
+   "flaecheBl": 10344,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1042634",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Santa Maria del Carmine",
+   "schwerpunkt": [
+    -2071,
+    1232
+   ],
+   "isolato": "I0240",
+   "domKomplex": false
+  },
+  {
+   "id": "r2951949",
+   "name": "Palazzo Strozzi",
+   "flaecheBl": 9445,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q521619",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross",
+    "plan"
+   ],
+   "plan": "Palazzo Strozzi",
+   "schwerpunkt": [
+    -822.5,
+    429.5
+   ],
+   "isolato": "I0382",
+   "domKomplex": false
+  },
+  {
+   "id": "r1461750",
+   "name": null,
+   "flaecheBl": 8377.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q15076422",
+   "kriterien": [
+    "plan"
+   ],
+   "plan": "Bargello",
+   "schwerpunkt": [
+    223.5,
+    604
+   ],
+   "isolato": "I0553",
+   "domKomplex": false
+  },
+  {
+   "id": "w24883267",
+   "name": "Cappella dei Principi",
+   "flaecheBl": 5660.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q19521341",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Cappelle Medicee",
+   "schwerpunkt": [
+    -585.5,
+    -409
+   ],
+   "isolato": "I0433",
+   "domKomplex": false
+  },
+  {
+   "id": "w478272186",
+   "name": "Basilica di Santa Trinita",
+   "flaecheBl": 5454.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1062114",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Santa Trinita",
+   "schwerpunkt": [
+    -982.5,
+    689
+   ],
+   "isolato": "I0348",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103996",
+   "name": "Palazzo Rucellai",
+   "flaecheBl": 3487.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q923702",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross",
+    "plan"
+   ],
+   "plan": "Palazzo Rucellai",
+   "schwerpunkt": [
+    -1186.5,
+    417.5
+   ],
+   "isolato": "I0342",
+   "domKomplex": false
+  },
+  {
+   "id": "w442508011",
+   "name": "Chiesa di Orsanmichele",
+   "flaecheBl": 3281.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q860816",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Orsanmichele",
+   "schwerpunkt": [
+    -298,
+    542
+   ],
+   "isolato": "I0467",
+   "domKomplex": false
+  },
+  {
+   "id": "w27590454",
+   "name": "Mercato del Porcellino",
+   "flaecheBl": 2919.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q917483",
+   "kriterien": [
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Mercato Nuovo",
+   "schwerpunkt": [
+    -420,
+    698.5
+   ],
+   "isolato": "I0453",
+   "domKomplex": false
+  },
+  {
+   "id": "w249686037",
+   "name": "Badia Fiorentina",
+   "flaecheBl": 2682,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q799026",
+   "kriterien": [
+    "kirche",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Badia Fiorentina",
+   "schwerpunkt": [
+    113.5,
+    580.5
+   ],
+   "isolato": "I0539",
+   "domKomplex": false
+  },
+  {
+   "id": "w43284457",
+   "name": "Loggia dei Lanzi",
+   "flaecheBl": 2074,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q839746",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "plan"
+   ],
+   "plan": "Loggia dei Lanzi",
+   "schwerpunkt": [
+    -204.5,
+    877.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w24879633",
+   "name": "Forte di Belvedere",
+   "flaecheBl": 61185.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q72786",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -465.5,
+    2247
+   ],
+   "isolato": "I0443",
+   "domKomplex": false
+  },
+  {
+   "id": "r3324492",
+   "name": "Stazione di Santa Maria Novella",
+   "flaecheBl": 58925.25,
+   "hoeheBl": 10,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q800761",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1511.5,
+    -732.5
+   ],
+   "isolato": "I0294",
+   "domKomplex": false
+  },
+  {
+   "id": "r1607712",
+   "name": "Pia casa di lavoro di Montedomini",
+   "flaecheBl": 58185.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3901787",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1701,
+    1168
+   ],
+   "isolato": "I0791",
+   "domKomplex": false
+  },
+  {
+   "id": "r1615373",
+   "name": "Ex monastero della Santissima Concezione",
+   "flaecheBl": 44940.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3735858",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1479,
+    -335.5
+   ],
+   "isolato": "I0306",
+   "domKomplex": false
+  },
+  {
+   "id": "r1583912",
+   "name": "Accademia delle Belle Arti",
+   "flaecheBl": 40913,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q4585397",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    338,
+    -826.5
+   ],
+   "isolato": "I0576",
+   "domKomplex": false
+  },
+  {
+   "id": "w269666091",
+   "name": "Stazione Leopolda",
+   "flaecheBl": 34777.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3968775",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -3199.5,
+    -1082
+   ],
+   "isolato": "I0001",
+   "domKomplex": false
+  },
+  {
+   "id": "w43768260",
+   "name": "Cattedrale di Santa Maria del Fiore",
+   "flaecheBl": 33699,
+   "hoeheBl": 50,
+   "hoeheQuelle": "height",
+   "wikidata": "Q191739",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -52.5,
+    -1
+   ],
+   "isolato": "I0525",
+   "domKomplex": true
+  },
+  {
+   "id": "r1575764",
+   "name": "Ex convento di San Marco",
+   "flaecheBl": 23759,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q13453137",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    361.5,
+    -1231.5
+   ],
+   "isolato": "I0569",
+   "domKomplex": false
+  },
+  {
+   "id": "w480015428",
+   "name": "Mercato di San Lorenzo",
+   "flaecheBl": 23164.25,
+   "hoeheBl": 29,
+   "hoeheQuelle": "height",
+   "wikidata": "Q3854843",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -622,
+    -759.5
+   ],
+   "isolato": "I0410",
+   "domKomplex": false
+  },
+  {
+   "id": "w102979687",
+   "name": "Biblioteca Nazionale Centrale di Firenze",
+   "flaecheBl": 20995.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q460907",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    879,
+    1305
+   ],
+   "isolato": "I0683",
+   "domKomplex": false
+  },
+  {
+   "id": "r4086116",
+   "name": "Casino mediceo di San Marco",
+   "flaecheBl": 19564,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2941087",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    229,
+    -1331
+   ],
+   "isolato": "I0551",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103318",
+   "name": "Teatro della Pergola",
+   "flaecheBl": 18498.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1261970",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    742.5,
+    -30.5
+   ],
+   "isolato": "I0637",
+   "domKomplex": false
+  },
+  {
+   "id": "r19738392",
+   "name": "Palazzo della Crocetta",
+   "flaecheBl": 18173.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586442",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    890.5,
+    -691.5
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103612",
+   "name": "Palazzo Corsini al Parione",
+   "flaecheBl": 17412.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1228199",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1223,
+    606
+   ],
+   "isolato": "I0317",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088641",
+   "name": "Seminario Maggiore Arcivescovile",
+   "flaecheBl": 17173.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3955034",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1952,
+    768
+   ],
+   "isolato": "I0257",
+   "domKomplex": false
+  },
+  {
+   "id": "r6818342",
+   "name": "Ex monastero di Sant'Apollonia",
+   "flaecheBl": 17112.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q28668281",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -90,
+    -1130.5
+   ],
+   "isolato": "I0513",
+   "domKomplex": false
+  },
+  {
+   "id": "r4086388",
+   "name": "Ex convento di Santa Caterina",
+   "flaecheBl": 16289.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3735846",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    75.5,
+    -1087.5
+   ],
+   "isolato": "I0532",
+   "domKomplex": false
+  },
+  {
+   "id": "r1580100",
+   "name": "Monastero di Sant'Orsola",
+   "flaecheBl": 16068.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3860528",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -409,
+    -918
+   ],
+   "isolato": "I0454",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101052",
+   "name": "Ex convento di San Girolamo",
+   "flaecheBl": 15885,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16543980",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1530,
+    1411.5
+   ],
+   "isolato": "I0758",
+   "domKomplex": false
+  },
+  {
+   "id": "w306240091",
+   "name": "Palazzina de' Servi",
+   "flaecheBl": 15698.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889486",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    802,
+    -1113
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101359",
+   "name": "Palazzo delle Poste",
+   "flaecheBl": 15673.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891525",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -593,
+    569.5
+   ],
+   "isolato": "I0416",
+   "domKomplex": false
+  },
+  {
+   "id": "r1607726",
+   "name": "Ex spedale di Sant'Onofrio dei Tintori",
+   "flaecheBl": 14852.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16607993",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1631,
+    1305
+   ],
+   "isolato": "I0786",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107740",
+   "name": "Palazzo Pucci",
+   "flaecheBl": 14220.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3360912",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    75,
+    -306.5
+   ],
+   "isolato": "I0550",
+   "domKomplex": false
+  },
+  {
+   "id": "w456578419",
+   "name": "Museo dell'Opera del Duomo",
+   "flaecheBl": 14053,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1200696",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    172,
+    -53.5
+   ],
+   "isolato": "I0552",
+   "domKomplex": false
+  },
+  {
+   "id": "r1586356",
+   "name": "Palazzo della Gherardesca",
+   "flaecheBl": 12598.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891457",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1500.5,
+    -967
+   ],
+   "isolato": "I0755",
+   "domKomplex": false
+  },
+  {
+   "id": "r1593628",
+   "name": "Palazzo Tornabuoni",
+   "flaecheBl": 11783.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891001",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -839,
+    305.5
+   ],
+   "isolato": "I0381",
+   "domKomplex": false
+  },
+  {
+   "id": "r1598978",
+   "name": "Teatro Verdi",
+   "flaecheBl": 10760.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3982191",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    636,
+    669.5
+   ],
+   "isolato": "I0607",
+   "domKomplex": false
+  },
+  {
+   "id": "r1588974",
+   "name": "Sede della Direzione provinciale delle Poste e Telegrafi",
+   "flaecheBl": 10112.25,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3954122",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    960,
+    411
+   ],
+   "isolato": "I0670",
+   "domKomplex": false
+  },
+  {
+   "id": "r1632267",
+   "name": "Granaio dell'Abbondanza",
+   "flaecheBl": 9768.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3774991",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2198.5,
+    582.5
+   ],
+   "isolato": "I0219",
+   "domKomplex": false
+  },
+  {
+   "id": "r1645127",
+   "name": "Convento di San Salvatore al Monte alle Croci",
+   "flaecheBl": 9736,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1475.5,
+    2639.5
+   ],
+   "isolato": "I0747",
+   "domKomplex": false
+  },
+  {
+   "id": "r6593382",
+   "name": "Ex ospedale di San Paolo",
+   "flaecheBl": 9703.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q44780059",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1313.5,
+    74
+   ],
+   "isolato": "I0309",
+   "domKomplex": false
+  },
+  {
+   "id": "r4084510",
+   "name": "Complesso di San Firenze",
+   "flaecheBl": 9662.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q2990427",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    241.5,
+    795.5
+   ],
+   "isolato": "I0561",
+   "domKomplex": false
+  },
+  {
+   "id": "r1602101",
+   "name": "Palazzo della Borsa",
+   "flaecheBl": 9565.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891434",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    41.5,
+    1251
+   ],
+   "isolato": "I0536",
+   "domKomplex": false
+  },
+  {
+   "id": "r1615532",
+   "name": "The Excelsior, a Luxury Collection Hotel",
+   "flaecheBl": 9404,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q111412551",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1741.5,
+    325
+   ],
+   "isolato": "I0286",
+   "domKomplex": false
+  },
+  {
+   "id": "r4086112",
+   "name": "Palazzo di Gino Capponi",
+   "flaecheBl": 9240,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891577",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    985.5,
+    -1154.5
+   ],
+   "isolato": "I0696",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098970",
+   "name": "Palazzo Nonfinito",
+   "flaecheBl": 9236.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3361314",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    219.5,
+    303.5
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "r1598079",
+   "name": "Palazzo Borghese",
+   "flaecheBl": 8862.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889698",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    397.5,
+    529
+   ],
+   "isolato": "I0578",
+   "domKomplex": false
+  },
+  {
+   "id": "w115661856",
+   "name": "Ufficio Tecnico Erariale",
+   "flaecheBl": 8270.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3661223",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    927,
+    496.5
+   ],
+   "isolato": "I0663",
+   "domKomplex": false
+  },
+  {
+   "id": "r9366576",
+   "name": "Clinica della Maternità",
+   "flaecheBl": 8134.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q17625739",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    562,
+    -577.5
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w118965510",
+   "name": "Limonaia",
+   "flaecheBl": 7701.5,
+   "hoeheBl": 10,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q113367914",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1732,
+    2280.5
+   ],
+   "isolato": "I0283",
+   "domKomplex": false
+  },
+  {
+   "id": "r6748304",
+   "name": "Palazzo Sacrati Guadagni Strozzi",
+   "flaecheBl": 7678.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890957",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    188.5,
+    66.5
+   ],
+   "isolato": "I0552",
+   "domKomplex": false
+  },
+  {
+   "id": "r1605483",
+   "name": "Palazzo Peruzzi-Lotti",
+   "flaecheBl": 7622,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q20008399",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    458,
+    1052
+   ],
+   "isolato": "I0583",
+   "domKomplex": false
+  },
+  {
+   "id": "r1592495",
+   "name": "Palazzo Arcivescovile",
+   "flaecheBl": 7427.75,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889554",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -436.5,
+    4.5
+   ],
+   "isolato": "I0450",
+   "domKomplex": false
+  },
+  {
+   "id": "w167273908",
+   "name": "Ognissanti",
+   "flaecheBl": 7279.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2778991",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1739,
+    156.5
+   ],
+   "isolato": "I0282",
+   "domKomplex": false
+  },
+  {
+   "id": "r9357463",
+   "name": "Palazzo Frescobaldi",
+   "flaecheBl": 7230.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890148",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1361.5,
+    1131
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "w112941732",
+   "name": "Palazzo di San Clemente",
+   "flaecheBl": 7110,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891606",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1032,
+    -1317
+   ],
+   "isolato": "I0682",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095220",
+   "name": "Palazzo dei Mozzi",
+   "flaecheBl": 7077.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3506938",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    216.5,
+    1922.5
+   ],
+   "isolato": "I0567",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107742",
+   "name": "Palazzo Portinari-Salviati",
+   "flaecheBl": 6978.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q913210",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    51.5,
+    318
+   ],
+   "isolato": "I0541",
+   "domKomplex": false
+  },
+  {
+   "id": "r7071160",
+   "name": "Palazzina della Meridiana",
+   "flaecheBl": 6831,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q888825",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1270,
+    1958
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153315",
+   "name": "Palazzo Orlandini del Beccuto",
+   "flaecheBl": 6637.5,
+   "hoeheBl": 51,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q944934",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -601.5,
+    52.5
+   ],
+   "isolato": "I0419",
+   "domKomplex": false
+  },
+  {
+   "id": "r1610588",
+   "name": "Palazzo Antinori",
+   "flaecheBl": 6501.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889546",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -966,
+    91.5
+   ],
+   "isolato": "I0357",
+   "domKomplex": false
+  },
+  {
+   "id": "r7021619",
+   "name": "Loggia dei Servi di Maria",
+   "flaecheBl": 6431,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3257905",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    508,
+    -819
+   ],
+   "isolato": "I0576",
+   "domKomplex": false
+  },
+  {
+   "id": "w102979678",
+   "name": "Tempio Maggiore Israelitico - Sinagoga",
+   "flaecheBl": 6220.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1510,
+    53
+   ],
+   "isolato": "I0756",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252411",
+   "name": "Palazzo Bartolommei",
+   "flaecheBl": 6204,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889621",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    45.5,
+    -691
+   ],
+   "isolato": "I0529",
+   "domKomplex": false
+  },
+  {
+   "id": "w114769411",
+   "name": "Palazzo dei Veliti",
+   "flaecheBl": 6034.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q20008379",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -100.5,
+    1106
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w481357042",
+   "name": "Kunsthistorisches Institut in Florenz",
+   "flaecheBl": 6027.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q872398",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1139,
+    -961.5
+   ],
+   "isolato": "I0717",
+   "domKomplex": false
+  },
+  {
+   "id": "w119838545",
+   "name": "Palazzo Serristori",
+   "flaecheBl": 5899.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890890",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    717.5,
+    1790.5
+   ],
+   "isolato": "I0621",
+   "domKomplex": false
+  },
+  {
+   "id": "r7021615",
+   "name": "Palazzo Gerini",
+   "flaecheBl": 5867,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890182",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    177,
+    -616
+   ],
+   "isolato": "I0550",
+   "domKomplex": false
+  },
+  {
+   "id": "w73394194",
+   "name": "Palazzo degli Affari",
+   "flaecheBl": 5827,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891170",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1165,
+    -1105.5
+   ],
+   "isolato": "I0334",
+   "domKomplex": false
+  },
+  {
+   "id": "r4085859",
+   "name": "Palazzo Corsini al Prato",
+   "flaecheBl": 5794.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo/historisch",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2483,
+    -690.5
+   ],
+   "isolato": "I0166",
+   "domKomplex": false
+  },
+  {
+   "id": "w118416085",
+   "name": "Chiesa di San Frediano in Cestello",
+   "flaecheBl": 5604.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1071192",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2061.5,
+    749.5
+   ],
+   "isolato": "I0257",
+   "domKomplex": false
+  },
+  {
+   "id": "w800365632",
+   "name": "Chiesa di San Paolino",
+   "flaecheBl": 5539.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3671531",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1473,
+    146
+   ],
+   "isolato": "I0301",
+   "domKomplex": false
+  },
+  {
+   "id": "w116985035",
+   "name": "Rotonda dei Barbetti",
+   "flaecheBl": 5498.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3941794",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2268.5,
+    -378
+   ],
+   "isolato": "I0206",
+   "domKomplex": false
+  },
+  {
+   "id": "r4084508",
+   "name": "Palazzo Pazzi",
+   "flaecheBl": 5484.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890636",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    206,
+    399
+   ],
+   "isolato": "I0556",
+   "domKomplex": false
+  },
+  {
+   "id": "r10837675",
+   "name": "Palazzo Guicciardini Corsi Salviati",
+   "flaecheBl": 5441.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586204",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1031,
+    745.5
+   ],
+   "isolato": "I0676",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088608",
+   "name": "Palazzo Antinori di Brindisi",
+   "flaecheBl": 5430.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889537",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1664.5,
+    1098
+   ],
+   "isolato": "I0289",
+   "domKomplex": false
+  },
+  {
+   "id": "r1617032",
+   "name": "Palazzo Venturi Ginori",
+   "flaecheBl": 5390.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891048",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2020.5,
+    -615.5
+   ],
+   "isolato": "I0248",
+   "domKomplex": false
+  },
+  {
+   "id": "r1588169",
+   "name": "Palazzo Ximenes da Sangallo",
+   "flaecheBl": 5379,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891110",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1422.5,
+    -651.5
+   ],
+   "isolato": "I0737",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101351",
+   "name": "Palazzo Martelli",
+   "flaecheBl": 5221.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890431",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -548.5,
+    -188
+   ],
+   "isolato": "I0433",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095212",
+   "name": "Palazzo Gianni-Lucchesini-Vegni",
+   "flaecheBl": 5203.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890198",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    507,
+    1926.5
+   ],
+   "isolato": "I0567",
+   "domKomplex": false
+  },
+  {
+   "id": "r1605476",
+   "name": "Palazzo Bardi",
+   "flaecheBl": 5180.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889596",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    346,
+    1238.5
+   ],
+   "isolato": "I0563",
+   "domKomplex": false
+  },
+  {
+   "id": "w117950737",
+   "name": "Palazzo della Missione",
+   "flaecheBl": 5143.25,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891467",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1035.5,
+    1083.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w307281114",
+   "name": "Ex Sede centrale della Cassa di Risparmio di Firenze",
+   "flaecheBl": 5074.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3954117",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    279.5,
+    -153.5
+   ],
+   "isolato": "I0590",
+   "domKomplex": false
+  },
+  {
+   "id": "r1605477",
+   "name": "Palazzo Malenchini Alberti",
+   "flaecheBl": 5048,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890404",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    343.5,
+    1319.5
+   ],
+   "isolato": "I0562",
+   "domKomplex": false
+  },
+  {
+   "id": "r4086387",
+   "name": "Palazzo Capponi-Covoni",
+   "flaecheBl": 5007.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889779",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -84,
+    -444.5
+   ],
+   "isolato": "I0529",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088610",
+   "name": "Palazzo Del Pugliese",
+   "flaecheBl": 4967.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890004",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1735,
+    1043.5
+   ],
+   "isolato": "I0277",
+   "domKomplex": false
+  },
+  {
+   "id": "w234429578",
+   "name": "Chiesa dei Santi Michele e Gaetano",
+   "flaecheBl": 4949.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q764060",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -828,
+    176.5
+   ],
+   "isolato": "I0383",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107736",
+   "name": "Palazzo Niccolini",
+   "flaecheBl": 4827,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890557",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    225.5,
+    -428.5
+   ],
+   "isolato": "I0550",
+   "domKomplex": false
+  },
+  {
+   "id": "w307539772",
+   "name": "Palazzo Bardi Serzelli",
+   "flaecheBl": 4598.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16585968",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1244,
+    1101
+   ],
+   "isolato": "I0683",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486037",
+   "name": "Palazzo Caccini",
+   "flaecheBl": 4594,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889748",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    953,
+    -88
+   ],
+   "isolato": "I0637",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088966",
+   "name": "Palazzo di Valfonda",
+   "flaecheBl": 4584.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891614",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1376.5,
+    -1130.5
+   ],
+   "isolato": "I0294",
+   "domKomplex": false
+  },
+  {
+   "id": "w303278550",
+   "name": "Santa Maria Maddalena dei Pazzi",
+   "flaecheBl": 4554,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1784984",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1271,
+    -260.5
+   ],
+   "isolato": "I0723",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098972",
+   "name": "Palazzo degli Alessandri",
+   "flaecheBl": 4548.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3538925",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    581,
+    389.5
+   ],
+   "isolato": "I0600",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095222",
+   "name": "Palazzo Torrigiani Del Nero",
+   "flaecheBl": 4548.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1121473",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    210.5,
+    1748
+   ],
+   "isolato": "I0533",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088607",
+   "name": "Istituto Emily Gould",
+   "flaecheBl": 4506.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3803604",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1828,
+    1516.5
+   ],
+   "isolato": "I0284",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107745",
+   "name": "Palazzo Giugni",
+   "flaecheBl": 4430,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1999672",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    654.5,
+    -489
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101722",
+   "name": "Palazzo Spini Feroni",
+   "flaecheBl": 4390.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q281532",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -922,
+    782.5
+   ],
+   "isolato": "I0372",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100881",
+   "name": "Palazzo Corsini-Serristori",
+   "flaecheBl": 4342.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889943",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    604.5,
+    1162
+   ],
+   "isolato": "I0605",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098967",
+   "name": "Palazzo al Canto di Sant'Anna",
+   "flaecheBl": 4301,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586376",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1114.5,
+    34.5
+   ],
+   "isolato": "I0699",
+   "domKomplex": false
+  },
+  {
+   "id": "w306397385",
+   "name": "Palazzo dei Cerretani",
+   "flaecheBl": 4225.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891193",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1058.5,
+    -457
+   ],
+   "isolato": "I0361",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153295",
+   "name": "Palazzo Mondragone",
+   "flaecheBl": 4213.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890507",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -939.5,
+    -92.5
+   ],
+   "isolato": "I0371",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107574",
+   "name": "Ex convento di San Francesco de' Macci",
+   "flaecheBl": 4187.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3001634",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1272,
+    940.5
+   ],
+   "isolato": "I0718",
+   "domKomplex": false
+  },
+  {
+   "id": "r4086118",
+   "name": "Palazzo Fenzi - Marucelli",
+   "flaecheBl": 4133.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890107",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -43.5,
+    -992
+   ],
+   "isolato": "I0532",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095185",
+   "name": "Palazzo Guicciardini",
+   "flaecheBl": 4131.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890280",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -889.5,
+    1501
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w91371849",
+   "name": "Chiesa di San Salvatore al Monte",
+   "flaecheBl": 4101.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2220029",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1399,
+    2575
+   ],
+   "isolato": "I0747",
+   "domKomplex": false
+  },
+  {
+   "id": "w673464782",
+   "name": "Chiesa di San Frediano in Cestello",
+   "flaecheBl": 4091,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2062,
+    750.5
+   ],
+   "isolato": "I0257",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984404",
+   "name": "Palazzo della Banca d'Italia",
+   "flaecheBl": 4070,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891425",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    345,
+    175
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "r4084512",
+   "name": "Palazzo Gondi",
+   "flaecheBl": 4004.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1083014",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    65,
+    765
+   ],
+   "isolato": "I0535",
+   "domKomplex": false
+  },
+  {
+   "id": "r7103942",
+   "name": "Palazzo Doni",
+   "flaecheBl": 3972.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586132",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    681,
+    1251
+   ],
+   "isolato": "I0605",
+   "domKomplex": false
+  },
+  {
+   "id": "w116673459",
+   "name": "ex Chiesa di San Pancrazio",
+   "flaecheBl": 3963,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q282170",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1105,
+    317.5
+   ],
+   "isolato": "I0342",
+   "domKomplex": false
+  },
+  {
+   "id": "w166821303",
+   "name": "Battistero di San Giovanni",
+   "flaecheBl": 3943,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q732511",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -307.5,
+    0.5
+   ],
+   "isolato": "I0475",
+   "domKomplex": true
+  },
+  {
+   "id": "r4088630",
+   "name": "Palazzo Rospigliosi Pallavicini",
+   "flaecheBl": 3901.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890784",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2167,
+    1038.5
+   ],
+   "isolato": "I0236",
+   "domKomplex": false
+  },
+  {
+   "id": "w225706552",
+   "name": "Basilica di San Marco",
+   "flaecheBl": 3901,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1152774",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    301,
+    -1180
+   ],
+   "isolato": "I0569",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100876",
+   "name": "Palazzo Borghini",
+   "flaecheBl": 3891.5,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586014",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    746.5,
+    1039
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798526",
+   "name": "Palazzo Lanfredini",
+   "flaecheBl": 3858.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q633729",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1382,
+    964
+   ],
+   "isolato": "I0310",
+   "domKomplex": false
+  },
+  {
+   "id": "w73394191",
+   "name": "Palazzo dei Congressi",
+   "flaecheBl": 3811.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891200",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1260,
+    -1312.5
+   ],
+   "isolato": "I0319",
+   "domKomplex": false
+  },
+  {
+   "id": "w480911004",
+   "name": "Ex ospizio di Orbatello",
+   "flaecheBl": 3792.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3886712",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    955,
+    -383
+   ],
+   "isolato": "I0685",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984396",
+   "name": "Palazzo Albizi",
+   "flaecheBl": 3778.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3538271",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    545,
+    323
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088640",
+   "name": "Casa Capponi",
+   "flaecheBl": 3764.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661079",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1841.5,
+    813
+   ],
+   "isolato": "I0257",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096883",
+   "name": "Palazzo Ricasoli Firidolfi",
+   "flaecheBl": 3760.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890761",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1134,
+    1280.5
+   ],
+   "isolato": "I0340",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129124",
+   "name": "Castello d'Altafronte",
+   "flaecheBl": 3718.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3662404",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -143.5,
+    1199.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w458906118",
+   "name": "Palazzo Poniatowsky Guadagni",
+   "flaecheBl": 3687.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2762.5,
+    -1102.5
+   ],
+   "isolato": "I0096",
+   "domKomplex": false
+  },
+  {
+   "id": "r4067647",
+   "name": "Casa di Annalena",
+   "flaecheBl": 3538,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3661270",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1804.5,
+    2083
+   ],
+   "isolato": "I0269",
+   "domKomplex": false
+  },
+  {
+   "id": "w305683142",
+   "name": "Chiesa di San Felice in Piazza",
+   "flaecheBl": 3533.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3585333",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1465.5,
+    1780
+   ],
+   "isolato": "I0298",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101018",
+   "name": "Palazzo di Ubaldino Peruzzi",
+   "flaecheBl": 3502.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891607",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    461,
+    849
+   ],
+   "isolato": "I0587",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544522",
+   "name": "Palazzo Incontri",
+   "flaecheBl": 3486,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3361311",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    87.5,
+    -222.5
+   ],
+   "isolato": "I0528",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252402",
+   "name": "Palazzo Panciatichi",
+   "flaecheBl": 3481.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890609",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -134.5,
+    -396
+   ],
+   "isolato": "I0529",
+   "domKomplex": false
+  },
+  {
+   "id": "w253942619",
+   "name": "Chiesa di Santo Stefano al Ponte",
+   "flaecheBl": 3454.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3674332",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -402,
+    1009.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096737",
+   "name": "Palazzo Bardi-Guicciardini",
+   "flaecheBl": 3453.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889603",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1319.5,
+    1010.5
+   ],
+   "isolato": "I0310",
+   "domKomplex": false
+  },
+  {
+   "id": "w307174628",
+   "name": "Palazzo Minerbetti",
+   "flaecheBl": 3440.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q221285",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -925.5,
+    612.5
+   ],
+   "isolato": "I0355",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103236",
+   "name": "Palazzo Zati",
+   "flaecheBl": 3394.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586370",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1272,
+    285
+   ],
+   "isolato": "I0720",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153307",
+   "name": "Palazzo Ricci-Altoviti",
+   "flaecheBl": 3387.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890762",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -625.5,
+    167
+   ],
+   "isolato": "I0415",
+   "domKomplex": false
+  },
+  {
+   "id": "w307320369",
+   "name": "Palazzo Lenzi",
+   "flaecheBl": 3384,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890335",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1875,
+    192
+   ],
+   "isolato": "I0264",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103320",
+   "name": "Palazzo Galletti",
+   "flaecheBl": 3298.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890162",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    688.5,
+    125
+   ],
+   "isolato": "I0637",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252421",
+   "name": "Palazzo Bastogi",
+   "flaecheBl": 3275,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889629",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -9,
+    -645.5
+   ],
+   "isolato": "I0529",
+   "domKomplex": false
+  },
+  {
+   "id": "r7501450",
+   "name": "Palazzo Vivarelli Colonna",
+   "flaecheBl": 3240.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891103",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1511.5,
+    792
+   ],
+   "isolato": "I0771",
+   "domKomplex": false
+  },
+  {
+   "id": "r7270560",
+   "name": "Palazzo Aldobrandini",
+   "flaecheBl": 3230.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889519",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -704,
+    -309.5
+   ],
+   "isolato": "I0401",
+   "domKomplex": false
+  },
+  {
+   "id": "r7161796",
+   "name": "Palazzo Dardinelli-Fenzi",
+   "flaecheBl": 3225,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889977",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    48,
+    -933
+   ],
+   "isolato": "I0532",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100898",
+   "name": "Palazzo Bardi-Tempi",
+   "flaecheBl": 3208.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889597",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    411.5,
+    1343.5
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "w117836981",
+   "name": "Saint James",
+   "flaecheBl": 3189.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3674408",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2236,
+    -723.5
+   ],
+   "isolato": "I0211",
+   "domKomplex": false
+  },
+  {
+   "id": "w113544423",
+   "name": "Scuola Cairoli Alamanni",
+   "flaecheBl": 3187.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16601117",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1442.5,
+    -223.5
+   ],
+   "isolato": "I0723",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098973",
+   "name": "Palazzo Salvetti Sebregondi",
+   "flaecheBl": 3122.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586318",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    956.5,
+    722.5
+   ],
+   "isolato": "I0676",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100879",
+   "name": "Palazzo Gargiolli",
+   "flaecheBl": 3116.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586177",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    904.5,
+    875.5
+   ],
+   "isolato": "I0667",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100935",
+   "name": "Palazzo Peruzzi-Bourbon del Monte",
+   "flaecheBl": 3087.75,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890640",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    479,
+    942
+   ],
+   "isolato": "I0588",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486084",
+   "name": "Palazzo Roffia",
+   "flaecheBl": 3039.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890782",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    855.5,
+    90.5
+   ],
+   "isolato": "I0637",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095206",
+   "name": "Palazzo Stiozzi Ridolfi",
+   "flaecheBl": 3029.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890954",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    434.5,
+    1927.5
+   ],
+   "isolato": "I0567",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100893",
+   "name": "Palazzo Caccia Peruzzi",
+   "flaecheBl": 3027.75,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586027",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    528,
+    976
+   ],
+   "isolato": "I0588",
+   "domKomplex": false
+  },
+  {
+   "id": "w112587684",
+   "name": "Palazzo dei congressi",
+   "flaecheBl": 3015.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891200",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1288.5,
+    -1380
+   ],
+   "isolato": "I0316",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098966",
+   "name": "Palazzo Bartolommei-De Rossi",
+   "flaecheBl": 3001.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16585984",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    896,
+    268.5
+   ],
+   "isolato": "I0655",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153296",
+   "name": "Palazzo Vecchietti",
+   "flaecheBl": 2997.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891043",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -632,
+    329.5
+   ],
+   "isolato": "I0416",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101348",
+   "name": "Palazzo Venturi",
+   "flaecheBl": 2993,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891046",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -874.5,
+    -84.5
+   ],
+   "isolato": "I0371",
+   "domKomplex": false
+  },
+  {
+   "id": "w361442655",
+   "name": "Chiesa di San Filippo Neri",
+   "flaecheBl": 2979.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    201,
+    746
+   ],
+   "isolato": "I0561",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811224",
+   "name": "Palazzo Pannocchieschi",
+   "flaecheBl": 2955.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890606",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1270,
+    1418
+   ],
+   "isolato": "I0320",
+   "domKomplex": false
+  },
+  {
+   "id": "w306398158",
+   "name": "Chiesa di San Jacopo di Ripoli",
+   "flaecheBl": 2953.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670746",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2078.5,
+    -814
+   ],
+   "isolato": "I0239",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129123",
+   "name": "Palazzo delle Assicurazioni Generali",
+   "flaecheBl": 2936.5,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891505",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -289,
+    759.5
+   ],
+   "isolato": "I0470",
+   "domKomplex": false
+  },
+  {
+   "id": "r4484941",
+   "name": "Palazzo Jennings Riccioli",
+   "flaecheBl": 2912,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890305",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    775,
+    1377
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395964",
+   "name": "Palazzo Taddei",
+   "flaecheBl": 2812.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3360932",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -262.5,
+    -700
+   ],
+   "isolato": "I0474",
+   "domKomplex": false
+  },
+  {
+   "id": "w306397384",
+   "name": "Torre di Via Alamanni",
+   "flaecheBl": 2796,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995641",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1886.5,
+    -977.5
+   ],
+   "isolato": "I0265",
+   "domKomplex": false
+  },
+  {
+   "id": "r7284650",
+   "name": "Palazzo Marzichi-Lenzi",
+   "flaecheBl": 2776.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890446",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    911,
+    -32.5
+   ],
+   "isolato": "I0637",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153247",
+   "name": "Osservatorio Ximeniano",
+   "flaecheBl": 2774.75,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3348342",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -306.5,
+    -277.5
+   ],
+   "isolato": "I0484",
+   "domKomplex": false
+  },
+  {
+   "id": "r4090674",
+   "name": "Palazzo Wilson Gattai",
+   "flaecheBl": 2757,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q599419",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1541.5,
+    -149
+   ],
+   "isolato": "I0754",
+   "domKomplex": false
+  },
+  {
+   "id": "w159394659",
+   "name": "Chiesa di Santa Felicita",
+   "flaecheBl": 2734.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1069665",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -665,
+    1417
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "r9459937",
+   "name": "Palazzo Bartolini-Torrigiani",
+   "flaecheBl": 2693.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3361284",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -774.5,
+    683
+   ],
+   "isolato": "I0406",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101721",
+   "name": "Palazzo Bartolini Salimbeni",
+   "flaecheBl": 2671,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q896608",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -840,
+    675.5
+   ],
+   "isolato": "I0406",
+   "domKomplex": false
+  },
+  {
+   "id": "w113484938",
+   "name": "Rotonda del Brunelleschi",
+   "flaecheBl": 2668.25,
+   "hoeheBl": 10,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q19947673",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    502,
+    -497.5
+   ],
+   "isolato": "I0590",
+   "domKomplex": false
+  },
+  {
+   "id": "w307281118",
+   "name": "Palazzo Bastogi",
+   "flaecheBl": 2662.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889624",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    412.5,
+    203.5
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100899",
+   "name": "Palazzo de' Benci",
+   "flaecheBl": 2661.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586386",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    566,
+    1041
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w118129755",
+   "name": "Palazzo Zanchini-Corbinelli",
+   "flaecheBl": 2660.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891111",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1208,
+    1420.5
+   ],
+   "isolato": "I0330",
+   "domKomplex": false
+  },
+  {
+   "id": "w306488539",
+   "name": "Palazzina D'Ancona",
+   "flaecheBl": 2655.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16585911",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1597.5,
+    -129
+   ],
+   "isolato": "I0777",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095207",
+   "name": "Palazzo Capponi alle Rovinate",
+   "flaecheBl": 2642.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889782",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -96.5,
+    1557.5
+   ],
+   "isolato": "I0533",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107746",
+   "name": "Palazzo Durazzo",
+   "flaecheBl": 2642.25,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890065",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    449,
+    -543
+   ],
+   "isolato": "I0572",
+   "domKomplex": false
+  },
+  {
+   "id": "r7031390",
+   "name": "Palazzo della Marescialla",
+   "flaecheBl": 2596.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891460",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1657,
+    388
+   ],
+   "isolato": "I0286",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095208",
+   "name": "Palazzo Canigiani",
+   "flaecheBl": 2585.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889763",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -35,
+    1615.5
+   ],
+   "isolato": "I0533",
+   "domKomplex": false
+  },
+  {
+   "id": "w234429579",
+   "name": "Chiesa di Santa Maria Maggiore",
+   "flaecheBl": 2583,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q116950564",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -633,
+    -19.5
+   ],
+   "isolato": "I0419",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544547",
+   "name": "Palazzo Guidi Raggio",
+   "flaecheBl": 2577.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890278",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    730,
+    -423
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w203496642",
+   "name": "San Giuseppe",
+   "flaecheBl": 2570,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670618",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1386.5,
+    1093
+   ],
+   "isolato": "I0743",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252406",
+   "name": "Palazzo Vettori",
+   "flaecheBl": 2565,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891086",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    53,
+    -759.5
+   ],
+   "isolato": "I0529",
+   "domKomplex": false
+  },
+  {
+   "id": "w117864760",
+   "name": "Consolato Generale degli Stati Uniti",
+   "flaecheBl": 2560.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889749",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2637.5,
+    -100.5
+   ],
+   "isolato": "I0129",
+   "domKomplex": false
+  },
+  {
+   "id": "w599897663",
+   "name": "Chiesa di San Niccolò Oltrarno",
+   "flaecheBl": 2556.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3671413",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    723,
+    1875
+   ],
+   "isolato": "I0641",
+   "domKomplex": false
+  },
+  {
+   "id": "w730876801",
+   "name": "Oratorio dei Vanchetoni",
+   "flaecheBl": 2536.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3884450",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1581,
+    36.5
+   ],
+   "isolato": "I0282",
+   "domKomplex": false
+  },
+  {
+   "id": "w307174624",
+   "name": "Palazzo Gherardi Uguccioni",
+   "flaecheBl": 2476.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890186",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -916,
+    480.5
+   ],
+   "isolato": "I0355",
+   "domKomplex": false
+  },
+  {
+   "id": "w305683536",
+   "name": "Chiesa di San Giovannino degli Scolopi",
+   "flaecheBl": 2471.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670564",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -246.5,
+    -369
+   ],
+   "isolato": "I0484",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544521",
+   "name": "Palazzo Pasqui",
+   "flaecheBl": 2470.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890623",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    184,
+    -235
+   ],
+   "isolato": "I0590",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544545",
+   "name": "Casa del Mutilato",
+   "flaecheBl": 2462.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661231",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    529,
+    -428.5
+   ],
+   "isolato": "I0590",
+   "domKomplex": false
+  },
+  {
+   "id": "w306694378",
+   "name": "Palazzo Tempi",
+   "flaecheBl": 2460.25,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890970",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -413.5,
+    1409.5
+   ],
+   "isolato": "I0473",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811231",
+   "name": "Palazzo Martellini-Rosselli del Turco",
+   "flaecheBl": 2440.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890434",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1170,
+    1323.5
+   ],
+   "isolato": "I0343",
+   "domKomplex": false
+  },
+  {
+   "id": "w486626750",
+   "name": "Palazzo Salutati",
+   "flaecheBl": 2427.75,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q20008428",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    407.5,
+    1012.5
+   ],
+   "isolato": "I0579",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098975",
+   "name": "Palazzo Pazzi dell'Accademia Colombaria",
+   "flaecheBl": 2422.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890630",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    289.5,
+    295.5
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096736",
+   "name": "Palazzo Coverelli",
+   "flaecheBl": 2407.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889952",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1235,
+    1048.5
+   ],
+   "isolato": "I0310",
+   "domKomplex": false
+  },
+  {
+   "id": "w307126295",
+   "name": "Chiesa dei Santi Simone e Giuda",
+   "flaecheBl": 2374.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1285138",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    588,
+    722.5
+   ],
+   "isolato": "I0599",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798512",
+   "name": "Palazzo Guadagni",
+   "flaecheBl": 2373.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890275",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1520.5,
+    1596
+   ],
+   "isolato": "I0303",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252401",
+   "name": "Palazzo Ginori-Conti",
+   "flaecheBl": 2370.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890197",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -129,
+    -617.5
+   ],
+   "isolato": "I0509",
+   "domKomplex": false
+  },
+  {
+   "id": "w307281110",
+   "name": "Casa del Canto alla Catena",
+   "flaecheBl": 2354.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16537562",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    849,
+    -357.5
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100895",
+   "name": "Palazzo Visconti di Modrone",
+   "flaecheBl": 2349.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891092",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    342.5,
+    1033.5
+   ],
+   "isolato": "I0568",
+   "domKomplex": false
+  },
+  {
+   "id": "w307170312",
+   "name": "Palazzo Dudley",
+   "flaecheBl": 2325,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890057",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -955,
+    384.5
+   ],
+   "isolato": "I0342",
+   "domKomplex": false
+  },
+  {
+   "id": "w307170313",
+   "name": "Palazzo Viviani della Robbia",
+   "flaecheBl": 2317,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891102",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -920,
+    331
+   ],
+   "isolato": "I0363",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129129",
+   "name": "Ex-Cinema Capitol",
+   "flaecheBl": 2294.5,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3735766",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -0.5,
+    1057
+   ],
+   "isolato": "I0526",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106618",
+   "name": "Palazzo Fossi",
+   "flaecheBl": 2287.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo/historisch",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    435.5,
+    1282
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153254",
+   "name": "Palazzo Benci",
+   "flaecheBl": 2283.75,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889642",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -676.5,
+    -436
+   ],
+   "isolato": "I0408",
+   "domKomplex": false
+  },
+  {
+   "id": "w541408518",
+   "name": "Palazzo Altoviti Sangalletti",
+   "flaecheBl": 2275.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889527",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -848,
+    522.5
+   ],
+   "isolato": "I0382",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486076",
+   "name": "Ex-monastero di San Silvestro",
+   "flaecheBl": 2272.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3735773",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1325,
+    -560
+   ],
+   "isolato": "I0737",
+   "domKomplex": false
+  },
+  {
+   "id": "w599901040",
+   "name": "Sant'Ambrogio",
+   "flaecheBl": 2269,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3672358",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1583,
+    319
+   ],
+   "isolato": "I0782",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096881",
+   "name": "Palazzo Corsini Suarez",
+   "flaecheBl": 2268.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1351,
+    1596.5
+   ],
+   "isolato": "I0308",
+   "domKomplex": false
+  },
+  {
+   "id": "r7101376",
+   "name": "Sagrestia di Santo Spirito",
+   "flaecheBl": 2262.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1413.5,
+    1295
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "w306156987",
+   "name": "Palazzo Columbia-Parlamento",
+   "flaecheBl": 2260.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q925094",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    130,
+    850
+   ],
+   "isolato": "I0548",
+   "domKomplex": false
+  },
+  {
+   "id": "w781509455",
+   "name": "Casino mediceo di San Marco",
+   "flaecheBl": 2258.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2941087",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    337.5,
+    -1424.5
+   ],
+   "isolato": "I0551",
+   "domKomplex": false
+  },
+  {
+   "id": "w479740604",
+   "name": "Villa Ruspoli o villino Barbolani",
+   "flaecheBl": 2249.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo/historisch"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -713.5,
+    -1249
+   ],
+   "isolato": "I0404",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103238",
+   "name": "Palazzo Pascolutti Giani",
+   "flaecheBl": 2247,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586275",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1331,
+    306.5
+   ],
+   "isolato": "I0720",
+   "domKomplex": false
+  },
+  {
+   "id": "r4088609",
+   "name": "Palazzo Rosselli del Turco",
+   "flaecheBl": 2246.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890788",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1702,
+    1174.5
+   ],
+   "isolato": "I0289",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106637",
+   "name": "Palazzo Mellini-Fossi",
+   "flaecheBl": 2236.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    589,
+    979.5
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w506785850",
+   "name": "Chiesa dei Santi Agostino e Cristina",
+   "flaecheBl": 2235.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3668066",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -209.5,
+    1731
+   ],
+   "isolato": "I0514",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101350",
+   "name": "Palazzo Pasquali",
+   "flaecheBl": 2231.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890615",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -842.5,
+    72
+   ],
+   "isolato": "I0386",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103609",
+   "name": "Palazzo Ricasoli",
+   "flaecheBl": 2224.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890759",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1405,
+    540.5
+   ],
+   "isolato": "I0317",
+   "domKomplex": false
+  },
+  {
+   "id": "r4090626",
+   "name": "Casino Salviati",
+   "flaecheBl": 2221.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661804",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1572,
+    -952.5
+   ],
+   "isolato": "I0776",
+   "domKomplex": false
+  },
+  {
+   "id": "w266213439",
+   "name": "San Michele Visdomini",
+   "flaecheBl": 2189.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3671342",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    172,
+    -170
+   ],
+   "isolato": "I0552",
+   "domKomplex": false
+  },
+  {
+   "id": "w307170310",
+   "name": "Palazzetto Tornabuoni",
+   "flaecheBl": 2170.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889418",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -927,
+    267.5
+   ],
+   "isolato": "I0363",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544530",
+   "name": "Palazzo Naldini",
+   "flaecheBl": 2143.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890544",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    84.5,
+    -118
+   ],
+   "isolato": "I0552",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101355",
+   "name": "Palazzo Pola e Todescan",
+   "flaecheBl": 2143,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890684",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -568.5,
+    187.5
+   ],
+   "isolato": "I0415",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798518",
+   "name": "Palazzo Michelozzi",
+   "flaecheBl": 2138.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890482",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1191.5,
+    1370
+   ],
+   "isolato": "I0336",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104293",
+   "name": "Palazzo Bartolini Salimbeni-Lenzoni",
+   "flaecheBl": 2129,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16585981",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    635,
+    792
+   ],
+   "isolato": "I0599",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107741",
+   "name": "Palazzo di Sforza Almeni",
+   "flaecheBl": 2124,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891611",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    266.5,
+    -329.5
+   ],
+   "isolato": "I0572",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129120",
+   "name": "Ex Tribunale della Mercanzia",
+   "flaecheBl": 2102.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3998632",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -9.5,
+    755.5
+   ],
+   "isolato": "I0535",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984425",
+   "name": "Palazzo Ramirez de Montalvo",
+   "flaecheBl": 2101.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890733",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    313,
+    315.5
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "w474366885",
+   "name": "Chiesa dei Santi Girolamo e Francesco alla Costa",
+   "flaecheBl": 2085.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3668208",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -423,
+    1605
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w306398157",
+   "name": "Chiesa della Beata Elisabetta Vendramini",
+   "flaecheBl": 2077.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3668824",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1895.5,
+    -695.5
+   ],
+   "isolato": "I0262",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100880",
+   "name": "Palazzo Spinelli",
+   "flaecheBl": 2074.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890934",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    683,
+    1127.5
+   ],
+   "isolato": "I0605",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101053",
+   "name": "Palazzo di Alberto di Zanobi",
+   "flaecheBl": 2071.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891545",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    309.5,
+    1100.5
+   ],
+   "isolato": "I0568",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544543",
+   "name": "Palazzo Buontalenti",
+   "flaecheBl": 2067.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889739",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    207,
+    -343.5
+   ],
+   "isolato": "I0550",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153268",
+   "name": "Palazzo Davanzati",
+   "flaecheBl": 2056.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q657629",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -638.5,
+    697.5
+   ],
+   "isolato": "I0406",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984401",
+   "name": "Palazzo Salviati-Quaratesi",
+   "flaecheBl": 2053.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890809",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    639.5,
+    567
+   ],
+   "isolato": "I0620",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104283",
+   "name": "Palazzo Cocchi-Serristori",
+   "flaecheBl": 2049,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889872",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    590.5,
+    842
+   ],
+   "isolato": "I0595",
+   "domKomplex": false
+  },
+  {
+   "id": "w307174622",
+   "name": "Palazzo Scali-Ricasoli",
+   "flaecheBl": 2025.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890860",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -821.5,
+    725
+   ],
+   "isolato": "I0393",
+   "domKomplex": false
+  },
+  {
+   "id": "w682528187",
+   "name": "Palazzo Budini Gattai",
+   "flaecheBl": 2009.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889744",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    485,
+    -710
+   ],
+   "isolato": "I0576",
+   "domKomplex": false
+  },
+  {
+   "id": "w95537272",
+   "name": "Palazzo dell'Arte della Lana",
+   "flaecheBl": 1994.25,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891405",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -365,
+    541.5
+   ],
+   "isolato": "I0467",
+   "domKomplex": false
+  },
+  {
+   "id": "w306488537",
+   "name": "Villa Sepp",
+   "flaecheBl": 1952.5,
+   "hoeheBl": 17,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16621562",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1503.5,
+    -315
+   ],
+   "isolato": "I0767",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129117",
+   "name": "Palazzo Guasconi",
+   "flaecheBl": 1925,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586201",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    820.5,
+    1385
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "r4095210",
+   "name": "Palazzo Demidoff-Amici",
+   "flaecheBl": 1923.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890015",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    616.5,
+    1845.5
+   ],
+   "isolato": "I0585",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104291",
+   "name": "Palazzo dell'Antella",
+   "flaecheBl": 1907,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3361357",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    679,
+    976
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153301",
+   "name": "Palazzo delle Cento Finestre",
+   "flaecheBl": 1887,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891496",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -715.5,
+    -15
+   ],
+   "isolato": "I0386",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378163",
+   "name": "Palazzo Baldovinetti",
+   "flaecheBl": 1883,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889581",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1728,
+    1239
+   ],
+   "isolato": "I0289",
+   "domKomplex": false
+  },
+  {
+   "id": "w306488542",
+   "name": "Palazzo Boboli",
+   "flaecheBl": 1867.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q17637934",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1439.5,
+    -60
+   ],
+   "isolato": "I0754",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104289",
+   "name": "Palazzo Bargellini",
+   "flaecheBl": 1862.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889602",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    977,
+    881
+   ],
+   "isolato": "I0667",
+   "domKomplex": false
+  },
+  {
+   "id": "r4100878",
+   "name": "Palazzo Mori Ubaldini degli Alberti",
+   "flaecheBl": 1851,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586248",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    682,
+    1064
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w118932420",
+   "name": "Porta San Frediano",
+   "flaecheBl": 1827.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3908785",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2680,
+    644
+   ],
+   "isolato": "I0117",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486075",
+   "name": "Palazzo Mormorai",
+   "flaecheBl": 1821,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586251",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    917,
+    91.5
+   ],
+   "isolato": "I0677",
+   "domKomplex": false
+  },
+  {
+   "id": "r4103611",
+   "name": "Palazzi Gianfigliazzi",
+   "flaecheBl": 1816.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1228211",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1054.5,
+    750
+   ],
+   "isolato": "I0348",
+   "domKomplex": false
+  },
+  {
+   "id": "w112577586",
+   "name": "Villa Ruspoli",
+   "flaecheBl": 1816,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo/historisch"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -625.5,
+    -1262.5
+   ],
+   "isolato": "I0404",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395983",
+   "name": "Palazzo Barbolani di Montauto",
+   "flaecheBl": 1804.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889595",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -293,
+    -564
+   ],
+   "isolato": "I0474",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153278",
+   "name": "Palazzo Sassetti",
+   "flaecheBl": 1803.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890856",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -627,
+    443.5
+   ],
+   "isolato": "I0416",
+   "domKomplex": false
+  },
+  {
+   "id": "w1560755450",
+   "name": "Biblioteca di Palagio di parte Guelfa",
+   "flaecheBl": 1802,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16532526",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -495,
+    765.5
+   ],
+   "isolato": "I0431",
+   "domKomplex": false
+  },
+  {
+   "id": "w485935639",
+   "name": "Palazzo Acciaiuoli",
+   "flaecheBl": 1800,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889495",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -614,
+    864
+   ],
+   "isolato": "I0423",
+   "domKomplex": false
+  },
+  {
+   "id": "w238431529",
+   "name": "Chiesa di San Remigio",
+   "flaecheBl": 1783.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3671856",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    265.5,
+    1051
+   ],
+   "isolato": "I0559",
+   "domKomplex": false
+  },
+  {
+   "id": "w306381525",
+   "name": "Casa Ghiberti",
+   "flaecheBl": 1776.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q17623923",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    35,
+    -135.5
+   ],
+   "isolato": "I0528",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984417",
+   "name": "Palazzo Jacometti Ciofi",
+   "flaecheBl": 1771.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890299",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    857,
+    688
+   ],
+   "isolato": "I0652",
+   "domKomplex": false
+  },
+  {
+   "id": "w481356979",
+   "name": "Casa di Benvenuto Cellini",
+   "flaecheBl": 1768.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16537589",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    936.5,
+    -506
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w476740650",
+   "name": "Convento delle Fanciulle del Ceppo",
+   "flaecheBl": 1765.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16543960",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1454,
+    1066.5
+   ],
+   "isolato": "I0743",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101019",
+   "name": "Palazzo Tafani da Barberino",
+   "flaecheBl": 1727.25,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890959",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    319.5,
+    839.5
+   ],
+   "isolato": "I0561",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378564",
+   "name": "Palazzo Accolti",
+   "flaecheBl": 1717.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889491",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1837,
+    1667
+   ],
+   "isolato": "I0274",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096877",
+   "name": "Palazzo Biliotti",
+   "flaecheBl": 1710.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889667",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1304.5,
+    1498.5
+   ],
+   "isolato": "I0308",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798513",
+   "name": "Palazzo Machiavelli",
+   "flaecheBl": 1702.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890368",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1274,
+    1115.5
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096879",
+   "name": "Palazzo Corsini-Rosselli del Turco",
+   "flaecheBl": 1687.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889939",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1378,
+    1670.5
+   ],
+   "isolato": "I0308",
+   "domKomplex": false
+  },
+  {
+   "id": "w306692126",
+   "name": "Palazzo Temple Leader",
+   "flaecheBl": 1682.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890973",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1097.5,
+    1588
+   ],
+   "isolato": "I0346",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153239",
+   "name": "Palazzo Sertini",
+   "flaecheBl": 1655.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890884",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -787.5,
+    234
+   ],
+   "isolato": "I0381",
+   "domKomplex": false
+  },
+  {
+   "id": "w307539790",
+   "name": "Cappella de' Pazzi",
+   "flaecheBl": 1629.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q600355",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    973.5,
+    1120.5
+   ],
+   "isolato": "I0683",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252415",
+   "name": "Palazzina della Livia",
+   "flaecheBl": 1624.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889487",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    164,
+    -1136.5
+   ],
+   "isolato": "I0551",
+   "domKomplex": false
+  },
+  {
+   "id": "w307276577",
+   "name": "Palazzo Fioravanti",
+   "flaecheBl": 1619.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586159",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1175,
+    328
+   ],
+   "isolato": "I0720",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101723",
+   "name": "Palazzo del Circolo dell'Unione",
+   "flaecheBl": 1611.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1228293",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -919,
+    528.5
+   ],
+   "isolato": "I0355",
+   "domKomplex": false
+  },
+  {
+   "id": "w493525529",
+   "name": "Cenacolo di Santo Spirito",
+   "flaecheBl": 1608.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3664369",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1484.5,
+    1380.5
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "w157937048",
+   "name": "Torre dei Pulci",
+   "flaecheBl": 1597.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3532457",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -278,
+    1032
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w114220146",
+   "name": "Palazzo dei Canonici",
+   "flaecheBl": 1596.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q28412028",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -62,
+    130.5
+   ],
+   "isolato": "I0522",
+   "domKomplex": false
+  },
+  {
+   "id": "r7068691",
+   "name": "Palazzo Pozzolini",
+   "flaecheBl": 1586.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586299",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1269.5,
+    72.5
+   ],
+   "isolato": "I0725",
+   "domKomplex": false
+  },
+  {
+   "id": "w306379750",
+   "name": "Ex Chiesa di San Francesco di Sales",
+   "flaecheBl": 1582.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670173",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2758.5,
+    1069
+   ],
+   "isolato": "I0120",
+   "domKomplex": false
+  },
+  {
+   "id": "w781509458",
+   "name": "Casino mediceo di San Marco",
+   "flaecheBl": 1571.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2941087",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    288,
+    -1454.5
+   ],
+   "isolato": "I0551",
+   "domKomplex": false
+  },
+  {
+   "id": "w307111269",
+   "name": "Palazzo Venerosi Pesciolini",
+   "flaecheBl": 1553,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891042",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    341,
+    938
+   ],
+   "isolato": "I0564",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378164",
+   "name": "Palazzo Pallavicini",
+   "flaecheBl": 1549.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890592",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1715.5,
+    1209.5
+   ],
+   "isolato": "I0289",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378566",
+   "name": "Palazzo Tempi-Mazzei",
+   "flaecheBl": 1539.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890972",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1798.5,
+    1203
+   ],
+   "isolato": "I0278",
+   "domKomplex": false
+  },
+  {
+   "id": "w307174621",
+   "name": "Palazzo Strozzi del Poeta",
+   "flaecheBl": 1528.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q958790",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -912,
+    562.5
+   ],
+   "isolato": "I0355",
+   "domKomplex": false
+  },
+  {
+   "id": "w306398156",
+   "name": "Palazzo Dal Borgo",
+   "flaecheBl": 1523.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1393,
+    -126
+   ],
+   "isolato": "I0306",
+   "domKomplex": false
+  },
+  {
+   "id": "w204144329",
+   "name": "Casa Buonarroti",
+   "flaecheBl": 1507.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2418618",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1092,
+    688
+   ],
+   "isolato": "I0687",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153248",
+   "name": "Palazzo Ginori",
+   "flaecheBl": 1502,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890200",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -837.5,
+    -2.5
+   ],
+   "isolato": "I0367",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798509",
+   "name": "Palazzo Manetti",
+   "flaecheBl": 1494.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890400",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1455,
+    1052
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544517",
+   "name": "Casa de' Biffi",
+   "flaecheBl": 1491.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q17623907",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    67.5,
+    -165.5
+   ],
+   "isolato": "I0528",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153274",
+   "name": "Palazzo Adorni Braccesi",
+   "flaecheBl": 1482.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889499",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -897,
+    51.5
+   ],
+   "isolato": "I0367",
+   "domKomplex": false
+  },
+  {
+   "id": "r4101354",
+   "name": "Palazzo Gaddi",
+   "flaecheBl": 1479,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890156",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -748,
+    -376
+   ],
+   "isolato": "I0388",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378147",
+   "name": "Galleria Pio Fedi",
+   "flaecheBl": 1476,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3757692",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1963,
+    1848.5
+   ],
+   "isolato": "I0269",
+   "domKomplex": false
+  },
+  {
+   "id": "r4098965",
+   "name": "Palazzo Borghese-Aldobrandini",
+   "flaecheBl": 1468.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586011",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    354,
+    592
+   ],
+   "isolato": "I0584",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153285",
+   "name": "Palazzo Portigiani",
+   "flaecheBl": 1468.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890686",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -802.5,
+    33.5
+   ],
+   "isolato": "I0386",
+   "domKomplex": false
+  },
+  {
+   "id": "w118131726",
+   "name": "Palazzo Pitti-Mannelli",
+   "flaecheBl": 1453,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890683",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1160,
+    1152.5
+   ],
+   "isolato": "I0320",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984411",
+   "name": "Palazzo Gherardi",
+   "flaecheBl": 1426.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q582425",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    933,
+    647.5
+   ],
+   "isolato": "I0659",
+   "domKomplex": false
+  },
+  {
+   "id": "r4107743",
+   "name": "Casa Bardi",
+   "flaecheBl": 1423.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q17623903",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    342,
+    -398
+   ],
+   "isolato": "I0572",
+   "domKomplex": false
+  },
+  {
+   "id": "w474366870",
+   "name": "Chiesa di San Giorgio alla Costa",
+   "flaecheBl": 1420.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3585340",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -283,
+    1746
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096878",
+   "name": "Palazzo di Bianca Cappello",
+   "flaecheBl": 1412.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q604163",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1252.5,
+    1373
+   ],
+   "isolato": "I0320",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798525",
+   "name": "Palazzo Settimanni",
+   "flaecheBl": 1406,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890893",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1613,
+    1694
+   ],
+   "isolato": "I0292",
+   "domKomplex": false
+  },
+  {
+   "id": "w306222215",
+   "name": "Casa di Ignazio Villa",
+   "flaecheBl": 1405.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661297",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2226.5,
+    -266.5
+   ],
+   "isolato": "I0220",
+   "domKomplex": false
+  },
+  {
+   "id": "w307539777",
+   "name": "Palazzina Pontenani",
+   "flaecheBl": 1395.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16585923",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1336.5,
+    1342.5
+   ],
+   "isolato": "I0745",
+   "domKomplex": false
+  },
+  {
+   "id": "w482503614",
+   "name": "Palazzo Ricasoli Scroffa",
+   "flaecheBl": 1382,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586304",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    622.5,
+    1312
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811244",
+   "name": "Palazzo Agostini",
+   "flaecheBl": 1357.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889503",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1188.5,
+    1210
+   ],
+   "isolato": "I0320",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545804",
+   "name": "Torre degli Alepri",
+   "flaecheBl": 1354.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995334",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -182.5,
+    629.5
+   ],
+   "isolato": "I0498",
+   "domKomplex": false
+  },
+  {
+   "id": "w114916779",
+   "name": "Palazzo Buondelmonti",
+   "flaecheBl": 1353.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889742",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -860,
+    719.5
+   ],
+   "isolato": "I0393",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395974",
+   "name": "Chiesa di San Barnaba",
+   "flaecheBl": 1335,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1117930",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -509.5,
+    -1044.5
+   ],
+   "isolato": "I0414",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153259",
+   "name": "Palazzo dello Strozzino",
+   "flaecheBl": 1328,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q514448",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -727.5,
+    515.5
+   ],
+   "isolato": "I0396",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544546",
+   "name": "Chiesa di Santa Margherita in Santa Maria de' Ricci",
+   "flaecheBl": 1322.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673187",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -50,
+    330
+   ],
+   "isolato": "I0520",
+   "domKomplex": false
+  },
+  {
+   "id": "w116673410",
+   "name": "Torre dei Gianfigliazzi",
+   "flaecheBl": 1314,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1090690",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -986,
+    740
+   ],
+   "isolato": "I0348",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811246",
+   "name": "Palazzo Frescobaldi di San Jacopo",
+   "flaecheBl": 1302.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q10343789",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1086,
+    1114
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w306488515",
+   "name": "Palazzina Tommaseo",
+   "flaecheBl": 1299.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16585929",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1504.5,
+    -187.5
+   ],
+   "isolato": "I0754",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798531",
+   "name": "Palazzo Capponi-Vettori",
+   "flaecheBl": 1290.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889781",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1177,
+    1029
+   ],
+   "isolato": "I0331",
+   "domKomplex": false
+  },
+  {
+   "id": "w306488533",
+   "name": "Villino Uzielli",
+   "flaecheBl": 1281.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q4012983",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1598,
+    -473.5
+   ],
+   "isolato": "I0767",
+   "domKomplex": false
+  },
+  {
+   "id": "w306694402",
+   "name": "Museo Casa Rodolfo Siviero",
+   "flaecheBl": 1274.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2940778",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1149,
+    1825.5
+   ],
+   "isolato": "I0703",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106623",
+   "name": "Museo Horne",
+   "flaecheBl": 1259.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q531218",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    438.5,
+    1235.5
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "w306156989",
+   "name": "Ex chiesa di San Procolo",
+   "flaecheBl": 1258.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3671828",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    268,
+    509
+   ],
+   "isolato": "I0555",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378148",
+   "name": "Chiesa di San Pier Gattolino",
+   "flaecheBl": 1257.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3671588",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2014.5,
+    2253.5
+   ],
+   "isolato": "I0254",
+   "domKomplex": false
+  },
+  {
+   "id": "r4096880",
+   "name": "Palazzo Dami",
+   "flaecheBl": 1256.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889975",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1347.5,
+    1546
+   ],
+   "isolato": "I0308",
+   "domKomplex": false
+  },
+  {
+   "id": "w1330878675",
+   "name": "Ex chiesa della Capponcina",
+   "flaecheBl": 1249.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q20008187",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1203,
+    -1452.5
+   ],
+   "isolato": "I0696",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545800",
+   "name": "Palazzo Giugni",
+   "flaecheBl": 1246.75,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890224",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -104.5,
+    625.5
+   ],
+   "isolato": "I0521",
+   "domKomplex": false
+  },
+  {
+   "id": "w307170316",
+   "name": "Palazzo Larderel",
+   "flaecheBl": 1237.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1228219",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -927,
+    226
+   ],
+   "isolato": "I0363",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811250",
+   "name": "Chiesa di San Jacopo Soprarno",
+   "flaecheBl": 1231.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670741",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -975.5,
+    1121.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w338186009",
+   "name": "Casa di Niccolò Tommaseo",
+   "flaecheBl": 1223.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16537622",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    473.5,
+    1365
+   ],
+   "isolato": "I0597",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544531",
+   "name": "Studio Fiorentino",
+   "flaecheBl": 1219.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3976287",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -27.5,
+    270
+   ],
+   "isolato": "I0520",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106627",
+   "name": "Palazzo Mancini",
+   "flaecheBl": 1214.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586227",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    462,
+    1188
+   ],
+   "isolato": "I0605",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106626",
+   "name": "Palazzo Borgianni",
+   "flaecheBl": 1202,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889700",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    365.5,
+    995.5
+   ],
+   "isolato": "I0568",
+   "domKomplex": false
+  },
+  {
+   "id": "w306379752",
+   "name": "Collezione Luigi Bellini",
+   "flaecheBl": 1195.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3867574",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1699,
+    794.5
+   ],
+   "isolato": "I0257",
+   "domKomplex": false
+  },
+  {
+   "id": "w306222200",
+   "name": "Chiesa di Santa Lucia sul Prato",
+   "flaecheBl": 1193,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673148",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2148,
+    -275
+   ],
+   "isolato": "I0247",
+   "domKomplex": false
+  },
+  {
+   "id": "w307277597",
+   "name": "Palazzo Pepi-Ferri",
+   "flaecheBl": 1184.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890638",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    898.5,
+    767
+   ],
+   "isolato": "I0646",
+   "domKomplex": false
+  },
+  {
+   "id": "w306398159",
+   "name": "Ex Chiesa di San Martino in Santa Maria della Scala",
+   "flaecheBl": 1183,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1948,
+    -570
+   ],
+   "isolato": "I0266",
+   "domKomplex": false
+  },
+  {
+   "id": "w306985690",
+   "name": "Ex chiesa dei Santi Jacopo e Lorenzo",
+   "flaecheBl": 1179,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3735826",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1597.5,
+    882.5
+   ],
+   "isolato": "I0766",
+   "domKomplex": false
+  },
+  {
+   "id": "w307111265",
+   "name": "Palazzo Peruzzi",
+   "flaecheBl": 1159,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890641",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    323,
+    973.5
+   ],
+   "isolato": "I0564",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545798",
+   "name": "Palazzo delle Farine",
+   "flaecheBl": 1152.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891506",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -104,
+    675.5
+   ],
+   "isolato": "I0524",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106619",
+   "name": "Palazzo Mari",
+   "flaecheBl": 1149.5,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586235",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    561.5,
+    926.5
+   ],
+   "isolato": "I0588",
+   "domKomplex": false
+  },
+  {
+   "id": "w306156988",
+   "name": "Palazzo dell'Arte dei Giudici e Notai",
+   "flaecheBl": 1142,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    188.5,
+    474.5
+   ],
+   "isolato": "I0556",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106630",
+   "name": "Chiesa evangelica metodista",
+   "flaecheBl": 1136.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3667864",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    414.5,
+    1103
+   ],
+   "isolato": "I0583",
+   "domKomplex": false
+  },
+  {
+   "id": "w307174625",
+   "name": "Palazzo Piccioli",
+   "flaecheBl": 1133.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890652",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -993,
+    783
+   ],
+   "isolato": "I0348",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153299",
+   "name": "Palazzo Franceschi",
+   "flaecheBl": 1124,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890137",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -878,
+    31
+   ],
+   "isolato": "I0367",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984416",
+   "name": "Oratorio di San Niccolò del Ceppo",
+   "flaecheBl": 1121.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3884713",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    775.5,
+    535.5
+   ],
+   "isolato": "I0620",
+   "domKomplex": false
+  },
+  {
+   "id": "w451785463",
+   "name": "Chiesa dei Santi Apostoli",
+   "flaecheBl": 1121.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q2223430",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -753,
+    887
+   ],
+   "isolato": "I0399",
+   "domKomplex": false
+  },
+  {
+   "id": "w307295772",
+   "name": "Palazzo Da Magnale",
+   "flaecheBl": 1120.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889967",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1191.5,
+    133
+   ],
+   "isolato": "I0329",
+   "domKomplex": false
+  },
+  {
+   "id": "w487164816",
+   "name": "Palazzo Nasi",
+   "flaecheBl": 1111.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890542",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    196.5,
+    1802
+   ],
+   "isolato": "I0533",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104286",
+   "name": "Palazzo Bartolini Baldelli",
+   "flaecheBl": 1111.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16585978",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    603.5,
+    936.5
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w307174626",
+   "name": "Palazzo Medici Tornaquinci",
+   "flaecheBl": 1110.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890468",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -854,
+    572
+   ],
+   "isolato": "I0382",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984414",
+   "name": "Palazzo Da Cintoia",
+   "flaecheBl": 1109.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889973",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    545,
+    642.5
+   ],
+   "isolato": "I0584",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544550",
+   "name": "Palazzo Baldi",
+   "flaecheBl": 1106.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889579",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    155,
+    -771
+   ],
+   "isolato": "I0549",
+   "domKomplex": false
+  },
+  {
+   "id": "w307154331",
+   "name": "Palazzo Beccanugi",
+   "flaecheBl": 1103.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889628",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -928,
+    195
+   ],
+   "isolato": "I0359",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984385",
+   "name": "Palazzo Baroncini",
+   "flaecheBl": 1080,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16585975",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    394,
+    595
+   ],
+   "isolato": "I0584",
+   "domKomplex": false
+  },
+  {
+   "id": "w306488518",
+   "name": "Villino Puccioni",
+   "flaecheBl": 1075.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q17639605",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1537,
+    -363.5
+   ],
+   "isolato": "I0767",
+   "domKomplex": false
+  },
+  {
+   "id": "r1606434",
+   "name": "Palazzo Lapi",
+   "flaecheBl": 1063,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586210",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1150.5,
+    534
+   ],
+   "isolato": "I0704",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129126",
+   "name": "Loggia del Grano",
+   "flaecheBl": 1050,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3257907",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    22.5,
+    1019.5
+   ],
+   "isolato": "I0526",
+   "domKomplex": false
+  },
+  {
+   "id": "w114221042",
+   "name": "Palazzo Bombicci",
+   "flaecheBl": 1042.5,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889679",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -233.5,
+    675.5
+   ],
+   "isolato": "I0503",
+   "domKomplex": false
+  },
+  {
+   "id": "w115661884",
+   "name": "Casa del boia",
+   "flaecheBl": 1026.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q28021054",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1093,
+    738.5
+   ],
+   "isolato": "I0686",
+   "domKomplex": false
+  },
+  {
+   "id": "w234429576",
+   "name": "Chiesa di San Carlo dei Lombardi",
+   "flaecheBl": 1023.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3669752",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -222,
+    550
+   ],
+   "isolato": "I0504",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811237",
+   "name": "Palazzo di Cosimo Ridolfi",
+   "flaecheBl": 1019,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891571",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1222.5,
+    1456.5
+   ],
+   "isolato": "I0330",
+   "domKomplex": false
+  },
+  {
+   "id": "w674051057",
+   "name": "Casa di Jacopo Pontormo",
+   "flaecheBl": 1016.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16537597",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1058,
+    -482
+   ],
+   "isolato": "I0685",
+   "domKomplex": false
+  },
+  {
+   "id": "w307281119",
+   "name": "Oratorio di San Tommaso d'Aquino",
+   "flaecheBl": 1014,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3884771",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    660,
+    8
+   ],
+   "isolato": "I0637",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395986",
+   "name": "Palazzo Tolomei Biffi",
+   "flaecheBl": 1000,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890996",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -222.5,
+    -767
+   ],
+   "isolato": "I0491",
+   "domKomplex": false
+  },
+  {
+   "id": "w477104047",
+   "name": "Palazzo delle Due Fontane",
+   "flaecheBl": 997.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q17638017",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    541,
+    -671
+   ],
+   "isolato": "I0589",
+   "domKomplex": false
+  },
+  {
+   "id": "w674049318",
+   "name": "Oratorio di San Francesco Poverino",
+   "flaecheBl": 995.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    453,
+    -771
+   ],
+   "isolato": "I0576",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486081",
+   "name": "Palazzo Bellini delle Stelle",
+   "flaecheBl": 994.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890727",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    947.5,
+    23.5
+   ],
+   "isolato": "I0677",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129119",
+   "name": "Torre dei Filipetri",
+   "flaecheBl": 990.5,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995369",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    49,
+    984
+   ],
+   "isolato": "I0547",
+   "domKomplex": false
+  },
+  {
+   "id": "w306240109",
+   "name": "Casa di Andrea del Sarto",
+   "flaecheBl": 990.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661269",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    897,
+    -1045
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378161",
+   "name": "Chiesa di Santa Elisabetta delle Convertite",
+   "flaecheBl": 985.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673043",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1999.5,
+    1745
+   ],
+   "isolato": "I0237",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811234",
+   "name": "Palazzo Corsini Suarez",
+   "flaecheBl": 968.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1336.5,
+    1571
+   ],
+   "isolato": "I0308",
+   "domKomplex": false
+  },
+  {
+   "id": "w119219998",
+   "name": "Casa di Galileo Galilei",
+   "flaecheBl": 967.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661288",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -168.5,
+    1875.5
+   ],
+   "isolato": "I0508",
+   "domKomplex": false
+  },
+  {
+   "id": "w495057103",
+   "name": "Palazzo degli Altoviti",
+   "flaecheBl": 963.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891173",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -780,
+    807.5
+   ],
+   "isolato": "I0393",
+   "domKomplex": false
+  },
+  {
+   "id": "w493525528",
+   "name": "Casa Acciaiuoli",
+   "flaecheBl": 960.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661048",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -653.5,
+    855.5
+   ],
+   "isolato": "I0393",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106636",
+   "name": "Palazzo Alberti",
+   "flaecheBl": 959.5,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16163465",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    499,
+    1113
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545805",
+   "name": "Palazzo Rinuccini",
+   "flaecheBl": 958.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890767",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -45.5,
+    595.5
+   ],
+   "isolato": "I0521",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984423",
+   "name": "Palazzo degli Sporti",
+   "flaecheBl": 950.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891179",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    722,
+    243
+   ],
+   "isolato": "I0591",
+   "domKomplex": false
+  },
+  {
+   "id": "w306694385",
+   "name": "Chiesa di Santa Lucia dei Magnoli",
+   "flaecheBl": 946.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673138",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    22.5,
+    1682.5
+   ],
+   "isolato": "I0533",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395982",
+   "name": "Palazzo Ginori",
+   "flaecheBl": 942.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q25053651",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -271,
+    -616.5
+   ],
+   "isolato": "I0474",
+   "domKomplex": false
+  },
+  {
+   "id": "w305954432",
+   "name": "Chiesa di Maria Mater Misericordiae",
+   "flaecheBl": 939,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3669334",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2850,
+    1783.5
+   ],
+   "isolato": "I0085",
+   "domKomplex": false
+  },
+  {
+   "id": "w306396529",
+   "name": "San Jacopo in Campo Corbolini",
+   "flaecheBl": 934.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670749",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -854.5,
+    -679
+   ],
+   "isolato": "I0361",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984399",
+   "name": "Palazzo Covoni delle Burella",
+   "flaecheBl": 932,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16586095",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    306.5,
+    668
+   ],
+   "isolato": "I0581",
+   "domKomplex": false
+  },
+  {
+   "id": "w306240104",
+   "name": "Chiesa di San Basilio degli Armeni",
+   "flaecheBl": 923.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3667841",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -112,
+    -912.5
+   ],
+   "isolato": "I0532",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798522",
+   "name": "Palazzetto Medici",
+   "flaecheBl": 912.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889411",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1540.5,
+    955.5
+   ],
+   "isolato": "I0296",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486083",
+   "name": "Chiesa di Santa Maria di Candeli",
+   "flaecheBl": 906.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3674025",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1094.5,
+    -196.5
+   ],
+   "isolato": "I0723",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811238",
+   "name": "Casa di Bernardo Buontalenti",
+   "flaecheBl": 903.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661273",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1307,
+    1663.5
+   ],
+   "isolato": "I0322",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104281",
+   "name": "Casa Chiavacci",
+   "flaecheBl": 894,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16537460",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    580.5,
+    885
+   ],
+   "isolato": "I0587",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395990",
+   "name": "Palazzo Neroni",
+   "flaecheBl": 879.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890548",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -301,
+    -528.5
+   ],
+   "isolato": "I0474",
+   "domKomplex": false
+  },
+  {
+   "id": "w306156995",
+   "name": "Chiesa evangelica dei fratelli",
+   "flaecheBl": 870.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3667867",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    212.5,
+    673
+   ],
+   "isolato": "I0554",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984407",
+   "name": "Palazzo Covoni",
+   "flaecheBl": 866.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889951",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    315,
+    586.5
+   ],
+   "isolato": "I0584",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378565",
+   "name": "Chiesa di Santa Monica",
+   "flaecheBl": 859,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3674180",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1843,
+    1167.5
+   ],
+   "isolato": "I0270",
+   "domKomplex": false
+  },
+  {
+   "id": "w480924534",
+   "name": "Sant'Onofrio",
+   "flaecheBl": 838.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -947,
+    -1024.5
+   ],
+   "isolato": "I0376",
+   "domKomplex": false
+  },
+  {
+   "id": "w477255389",
+   "name": "Chiesa dell'Ospedale San Giovanni di Dio",
+   "flaecheBl": 831.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1624,
+    316.5
+   ],
+   "isolato": "I0301",
+   "domKomplex": false
+  },
+  {
+   "id": "w495057113",
+   "name": "Palazzo de' Nobili",
+   "flaecheBl": 826,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891162",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -694,
+    752.5
+   ],
+   "isolato": "I0393",
+   "domKomplex": false
+  },
+  {
+   "id": "w674049323",
+   "name": "Volta degli Innocenti",
+   "flaecheBl": 825,
+   "hoeheBl": 10,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16622738",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    685.5,
+    -762
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w72915039",
+   "name": "Porta al Prato",
+   "flaecheBl": 825,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3908879",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2755.5,
+    -1002.5
+   ],
+   "isolato": "I0098",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984402",
+   "name": "Palazzo Barucci",
+   "flaecheBl": 823,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16585987",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    309.5,
+    622.5
+   ],
+   "isolato": "I0584",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129125",
+   "name": "Palazzo Fagni-Da Diacceto",
+   "flaecheBl": 821.25,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q938671",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    60.5,
+    1039
+   ],
+   "isolato": "I0534",
+   "domKomplex": false
+  },
+  {
+   "id": "w117837005",
+   "name": "Chiesa dell'Adorazione Perpetua",
+   "flaecheBl": 805.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3668721",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -2263.5,
+    -625
+   ],
+   "isolato": "I0166",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811235",
+   "name": "Casa di Giovan Battista Foggini",
+   "flaecheBl": 796.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661290",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1363,
+    1651.5
+   ],
+   "isolato": "I0308",
+   "domKomplex": false
+  },
+  {
+   "id": "w306381526",
+   "name": "Torre dei Marignolli",
+   "flaecheBl": 786.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995376",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -409,
+    -91.5
+   ],
+   "isolato": "I0433",
+   "domKomplex": false
+  },
+  {
+   "id": "w72915036",
+   "name": "Torre San Niccolò",
+   "flaecheBl": 773.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3908806",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1315.5,
+    1890
+   ],
+   "isolato": "I0732",
+   "domKomplex": false
+  },
+  {
+   "id": "w204145494",
+   "name": "Loggia del Pesce",
+   "flaecheBl": 771.75,
+   "hoeheBl": 10,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3257910",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1290.5,
+    363
+   ],
+   "isolato": "I0726",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811247",
+   "name": "Casa Velluti",
+   "flaecheBl": 763,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661179",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1255.5,
+    1516
+   ],
+   "isolato": "I0322",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153252",
+   "name": "Palazzo Della Stufa",
+   "flaecheBl": 758.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890010",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -372.5,
+    -466
+   ],
+   "isolato": "I0474",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798514",
+   "name": "Casa Pitti",
+   "flaecheBl": 748.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661144",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1395,
+    1075.5
+   ],
+   "isolato": "I0302",
+   "domKomplex": false
+  },
+  {
+   "id": "w251650632",
+   "name": "Campanile di Giotto",
+   "flaecheBl": 743,
+   "hoeheBl": 170,
+   "hoeheQuelle": "height",
+   "wikidata": "Q1140023",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -200.5,
+    64.5
+   ],
+   "isolato": "I0499",
+   "domKomplex": true
+  },
+  {
+   "id": "w306798511",
+   "name": "ex Chiesa di San Carlo dei Barnabiti",
+   "flaecheBl": 742,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": null,
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1756,
+    1316.5
+   ],
+   "isolato": "I0284",
+   "domKomplex": false
+  },
+  {
+   "id": "w118129784",
+   "name": "Torre dei Ramaglianti",
+   "flaecheBl": 712.75,
+   "hoeheBl": 57,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995389",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -862,
+    1253.5
+   ],
+   "isolato": "I0379",
+   "domKomplex": false
+  },
+  {
+   "id": "w115190032",
+   "name": "Torre dei Salterelli",
+   "flaecheBl": 701.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q939832",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -365,
+    866.5
+   ],
+   "isolato": "I0462",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798517",
+   "name": "Palazzo Medici-Soderini",
+   "flaecheBl": 689,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3890467",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1560,
+    852.5
+   ],
+   "isolato": "I0296",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104280",
+   "name": "Palazzo di Maffeo Barberini",
+   "flaecheBl": 687.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16586490",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    730.5,
+    828
+   ],
+   "isolato": "I0628",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984415",
+   "name": "Casa natale di Giovanni da Verrazzano",
+   "flaecheBl": 686,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16537654",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    834.5,
+    673
+   ],
+   "isolato": "I0652",
+   "domKomplex": false
+  },
+  {
+   "id": "w462375323",
+   "name": "Palazzo dei Catellini",
+   "flaecheBl": 675.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891195",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -476.5,
+    502.5
+   ],
+   "isolato": "I0446",
+   "domKomplex": false
+  },
+  {
+   "id": "w306694384",
+   "name": "Chiesa evangelica luterana",
+   "flaecheBl": 672.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1072482",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    63,
+    1675
+   ],
+   "isolato": "I0533",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104278",
+   "name": "Casa Vasari",
+   "flaecheBl": 668.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661178",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    636.5,
+    1133.5
+   ],
+   "isolato": "I0605",
+   "domKomplex": false
+  },
+  {
+   "id": "w307104292",
+   "name": "Casa del Diluvio",
+   "flaecheBl": 661,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q17992535",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    669,
+    810.5
+   ],
+   "isolato": "I0628",
+   "domKomplex": false
+  },
+  {
+   "id": "w307111270",
+   "name": "Torre dei Peruzzi",
+   "flaecheBl": 630.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995384",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    378.5,
+    922.5
+   ],
+   "isolato": "I0564",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544536",
+   "name": "Torre dei Ricci",
+   "flaecheBl": 609.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995390",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -145.5,
+    334.5
+   ],
+   "isolato": "I0501",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545806",
+   "name": "Palazzo dei Cerchi",
+   "flaecheBl": 608.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891192",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata",
+    "palazzo gross"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -141.5,
+    586.5
+   ],
+   "isolato": "I0511",
+   "domKomplex": false
+  },
+  {
+   "id": "w307129121",
+   "name": "Palazzo Uguccioni",
+   "flaecheBl": 583,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q534158",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -76.5,
+    695.5
+   ],
+   "isolato": "I0524",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544533",
+   "name": "Palazzetto del Bianco",
+   "flaecheBl": 569.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889414",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    91.5,
+    -189
+   ],
+   "isolato": "I0528",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984413",
+   "name": "Palazzo Valori-Altoviti",
+   "flaecheBl": 561.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3181621",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    431.5,
+    335
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "w307106612",
+   "name": "Torre degli Alberti",
+   "flaecheBl": 556.75,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q649367",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    477.5,
+    1145
+   ],
+   "isolato": "I0604",
+   "domKomplex": false
+  },
+  {
+   "id": "w485935634",
+   "name": "Torre dei Giudi",
+   "flaecheBl": 556.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995375",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -509.5,
+    853.5
+   ],
+   "isolato": "I0423",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798510",
+   "name": "Palazzo Segni",
+   "flaecheBl": 556,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890870",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1220,
+    1095.5
+   ],
+   "isolato": "I0331",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153245",
+   "name": "Palazzo Del Bembo",
+   "flaecheBl": 552.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3889999",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -489.5,
+    -37.5
+   ],
+   "isolato": "I0419",
+   "domKomplex": false
+  },
+  {
+   "id": "w306811227",
+   "name": "Casa Ridolfi",
+   "flaecheBl": 548.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661154",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1339,
+    1736
+   ],
+   "isolato": "I0313",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252399",
+   "name": "Palazzo di Bernardetto de' Medici",
+   "flaecheBl": 543.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3891549",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    5.5,
+    -797
+   ],
+   "isolato": "I0509",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984406",
+   "name": "Farmacia del Canto alle Rondini",
+   "flaecheBl": 543.5,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q16555206",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1103,
+    372
+   ],
+   "isolato": "I0709",
+   "domKomplex": false
+  },
+  {
+   "id": "w306486070",
+   "name": "Chiesa di Santa Maria degli Angiolini",
+   "flaecheBl": 506,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673664",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1038,
+    -555
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984431",
+   "name": "Torre degli Albizi",
+   "flaecheBl": 499.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3533624",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    500,
+    332
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "w473825750",
+   "name": "Grotta del Buontalenti",
+   "flaecheBl": 498.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3117120",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -775,
+    1560
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w307295765",
+   "name": "Palazzo Farinola",
+   "flaecheBl": 489.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3890083",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1162,
+    157
+   ],
+   "isolato": "I0329",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544525",
+   "name": "Torre dei Donati",
+   "flaecheBl": 486,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995361",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -9,
+    387
+   ],
+   "isolato": "I0527",
+   "domKomplex": false
+  },
+  {
+   "id": "w306156992",
+   "name": "Chiesa di Santa Maria in Campo",
+   "flaecheBl": 479.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3674107",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    201,
+    203.5
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "w306252420",
+   "name": "Palazzo Zuccari",
+   "flaecheBl": 476.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3891139",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    951,
+    -1011
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798519",
+   "name": "Casa Amerighi",
+   "flaecheBl": 449.75,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3661055",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1617.5,
+    1517
+   ],
+   "isolato": "I0284",
+   "domKomplex": false
+  },
+  {
+   "id": "w306395987",
+   "name": "Palazzetto dei Serragli",
+   "flaecheBl": 445.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889419",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -339.5,
+    -806
+   ],
+   "isolato": "I0491",
+   "domKomplex": false
+  },
+  {
+   "id": "w306378155",
+   "name": "Oratorio di San Sebastiano de' Bini",
+   "flaecheBl": 445,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3884762",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1565.5,
+    1917.5
+   ],
+   "isolato": "I0298",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545799",
+   "name": "Santa Margherita dei Cerchi",
+   "flaecheBl": 444.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673185",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    51,
+    409.5
+   ],
+   "isolato": "I0527",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544538",
+   "name": "Torri dei Galigai",
+   "flaecheBl": 435,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995747",
+   "kriterien": [
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -131,
+    522
+   ],
+   "isolato": "I0504",
+   "domKomplex": false
+  },
+  {
+   "id": "w166821304",
+   "name": "Loggia del Bigallo",
+   "flaecheBl": 431,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q2705376",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -275.5,
+    79
+   ],
+   "isolato": "I0471",
+   "domKomplex": false
+  },
+  {
+   "id": "w307276581",
+   "name": "Casa di Lorenzo Ghiberti",
+   "flaecheBl": 419.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16537609",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1351.5,
+    419
+   ],
+   "isolato": "I0739",
+   "domKomplex": false
+  },
+  {
+   "id": "w306396530",
+   "name": "Chiesa di San Giuliano (Firenze)",
+   "flaecheBl": 419.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3670589",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1010.5,
+    -1166
+   ],
+   "isolato": "I0376",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544507",
+   "name": "Torre dei Pierozzi",
+   "flaecheBl": 387.5,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995385",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -39.5,
+    171
+   ],
+   "isolato": "I0522",
+   "domKomplex": false
+  },
+  {
+   "id": "w307153311",
+   "name": "Torre in via de' Cerretani",
+   "flaecheBl": 386.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995649",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -443,
+    -93
+   ],
+   "isolato": "I0433",
+   "domKomplex": false
+  },
+  {
+   "id": "w485934056",
+   "name": "Palazzo Canacci",
+   "flaecheBl": 374.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3889766",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -540.5,
+    736.5
+   ],
+   "isolato": "I0406",
+   "domKomplex": false
+  },
+  {
+   "id": "w307295758",
+   "name": "Loggia Rucellai",
+   "flaecheBl": 371.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q738874",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1131.5,
+    469.5
+   ],
+   "isolato": "I0355",
+   "domKomplex": false
+  },
+  {
+   "id": "w306692132",
+   "name": "Torre dei Mannelli",
+   "flaecheBl": 349.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q1092486",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -620,
+    1262
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w307320360",
+   "name": "Casa-galleria Vichi",
+   "flaecheBl": 343.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3661032",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1719.5,
+    243
+   ],
+   "isolato": "I0282",
+   "domKomplex": false
+  },
+  {
+   "id": "w306240094",
+   "name": "Oratorio di San Pierino",
+   "flaecheBl": 313.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3884719",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    752.5,
+    -880
+   ],
+   "isolato": "I0648",
+   "domKomplex": false
+  },
+  {
+   "id": "w485934038",
+   "name": "Torre dei Foresi",
+   "flaecheBl": 311.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995371",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -697.5,
+    650
+   ],
+   "isolato": "I0396",
+   "domKomplex": false
+  },
+  {
+   "id": "w306692130",
+   "name": "Torre degli Amidei",
+   "flaecheBl": 301.75,
+   "hoeheBl": 37,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995340",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -522,
+    983
+   ],
+   "isolato": "I0425",
+   "domKomplex": false
+  },
+  {
+   "id": "w72915046",
+   "name": "Torre della Serpe",
+   "flaecheBl": 301.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995500",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -3027.5,
+    -793.5
+   ],
+   "isolato": "I0009",
+   "domKomplex": false
+  },
+  {
+   "id": "w307277595",
+   "name": "Casa Francioni Pampaloni",
+   "flaecheBl": 272,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q16537470",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1444.5,
+    362
+   ],
+   "isolato": "I0739",
+   "domKomplex": false
+  },
+  {
+   "id": "w306818331",
+   "name": "Torre dei Marsili",
+   "flaecheBl": 268.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995379",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -950.5,
+    1185.5
+   ],
+   "isolato": "I0360",
+   "domKomplex": false
+  },
+  {
+   "id": "w306984426",
+   "name": "Torre dei Pazzi di Valdarno",
+   "flaecheBl": 268.25,
+   "hoeheBl": 23,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q1110367",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    751.5,
+    326
+   ],
+   "isolato": "I0582",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544516",
+   "name": "Torre della Pagliazza",
+   "flaecheBl": 251.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995494",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -175,
+    301.5
+   ],
+   "isolato": "I0501",
+   "domKomplex": false
+  },
+  {
+   "id": "w307539768",
+   "name": "Chiesa di Santa Maria Vergine della Croce al Tempio",
+   "flaecheBl": 250,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3673534",
+   "kriterien": [
+    "kirche",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1302.5,
+    1085
+   ],
+   "isolato": "I0734",
+   "domKomplex": false
+  },
+  {
+   "id": "w355356762",
+   "name": "Torre dei della Bella",
+   "flaecheBl": 250,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995364",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -147.5,
+    491
+   ],
+   "isolato": "I0502",
+   "domKomplex": false
+  },
+  {
+   "id": "w707346991",
+   "name": "Porta San Giorgio",
+   "flaecheBl": 233.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3908789",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -267,
+    2274.5
+   ],
+   "isolato": "I0489",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544542",
+   "name": "Torre dei Ghiberti",
+   "flaecheBl": 229,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995370",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -141,
+    354.5
+   ],
+   "isolato": "I0501",
+   "domKomplex": false
+  },
+  {
+   "id": "w119180019",
+   "name": "Torre dei Fifanti",
+   "flaecheBl": 190.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995363",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -628,
+    1458.5
+   ],
+   "isolato": "I0394",
+   "domKomplex": false
+  },
+  {
+   "id": "w307544540",
+   "name": "Torre dei Visdomini",
+   "flaecheBl": 170,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995397",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -151.5,
+    195
+   ],
+   "isolato": "I0516",
+   "domKomplex": false
+  },
+  {
+   "id": "w307545803",
+   "name": "Torre della Castagna",
+   "flaecheBl": 163.5,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995485",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    5.5,
+    503
+   ],
+   "isolato": "I0539",
+   "domKomplex": false
+  },
+  {
+   "id": "w306692129",
+   "name": "Torre dei Baldovinetti",
+   "flaecheBl": 160.25,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995346",
+   "kriterien": [
+    "palazzo/historisch",
+    "wikidata"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -500,
+    926
+   ],
+   "isolato": "I0423",
+   "domKomplex": false
+  },
+  {
+   "id": "w676068955",
+   "name": "Torre dei Buondelmonti",
+   "flaecheBl": 146,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995356",
+   "kriterien": [
+    "palazzo/historisch"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -568.5,
+    819
+   ],
+   "isolato": "I0423",
+   "domKomplex": false
+  },
+  {
+   "id": "w306692135",
+   "name": "Torre dei Nerli",
+   "flaecheBl": 132,
+   "hoeheBl": 44,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995382",
+   "kriterien": [
+    "palazzo/historisch"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -731.5,
+    1333
+   ],
+   "isolato": "I0385",
+   "domKomplex": false
+  },
+  {
+   "id": "w307276585",
+   "name": "Oratorio della Compagnia di San Michele della Pace",
+   "flaecheBl": 131.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3884504",
+   "kriterien": [
+    "kirche"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    1488.5,
+    285.5
+   ],
+   "isolato": "I0725",
+   "domKomplex": false
+  },
+  {
+   "id": "w306692128",
+   "name": "Torre dei Rossi-Cerchi",
+   "flaecheBl": 108.75,
+   "hoeheBl": 51,
+   "hoeheQuelle": "levels",
+   "wikidata": "Q3995392",
+   "kriterien": [
+    "palazzo/historisch"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -666,
+    1275
+   ],
+   "isolato": "I0385",
+   "domKomplex": false
+  },
+  {
+   "id": "w306798529",
+   "name": "Torre dei Lanfredini",
+   "flaecheBl": 95.75,
+   "hoeheBl": 30,
+   "hoeheQuelle": "schaetzung",
+   "wikidata": "Q3995377",
+   "kriterien": [
+    "palazzo/historisch"
+   ],
+   "plan": null,
+   "schwerpunkt": [
+    -1459.5,
+    1008.5
+   ],
+   "isolato": "I0310",
+   "domKomplex": false
+  }
+ ]
+}
