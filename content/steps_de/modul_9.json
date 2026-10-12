@@ -1,0 +1,50 @@
+{
+  "module": 9,
+  "title": "Innenraum & Krypta",
+  "subtitle": "Bautüte 9: Die Reste der alten Kirche Santa Reparata unter dem Boden, Brunelleschis Grab und die Ausstattung unter der Kuppel",
+  "icon": "🕯️",
+  "parts": {
+    "krypta_boden": {
+      "title": "Mosaikboden der Krypta",
+      "description": "Zuerst legst du den Boden der Krypta auf Y 57. Er liegt auf der Grubenplatte, die du in Modul 0 gebaut hast, und füllt die Grundfläche der kleinen alten Kirche zwischen X −202 und −140. Das Muster aus roten und weißen Keramikblöcken wiederholt sich alle 6 Blöcke, wie ein Teppich aus Steinchen. Lass die Plätze frei, an denen später die Mauern, die vier mal zwei Stützen und die Grabplatte stehen.",
+      "tip": "Baue den Boden Reihe für Reihe von West nach Ost. Leg dir die Stellen der Mauern vorher mit einem Faden oder Stift an, dann musst du später nichts mehr herausnehmen.",
+      "caution": "Der Boden gehört nur ins Innere der alten Kirche, nicht bis an die Grubenmauer. Auch die Durchgänge in den Wänden bekommen Mosaik. Nur die Plätze für Mauern, Stützen und Grab bleiben frei.",
+      "fact": "Unter dem heutigen Dom liegen Reste der Vorgängerkirche Santa Reparata. In ihrem Fußboden fand man bunte Mosaiken mit geometrischen Mustern. Sie sind heute in der Krypta zu sehen."
+    },
+    "krypta_mauern": {
+      "title": "Mauern der alten Kirche Santa Reparata",
+      "description": "Jetzt mauerst du die Reste der Vorgängerkirche, 2 Blöcke dick und von Y 57 bis 61. Die Westwand steht bei X −202. Das Mittelschiff ist 17 Blöcke breit (Z −8 bis 8), seine Wände haben Durchgänge zu den Seitenschiffen, und die Außenwände stehen bei Z ±18 und ±19. Im Osten schließt eine halbrunde Apsis bei X −140 ab. Eine Querwand bei X −194 trennt die Vorhalle ab. Zum Schluss kommt im Chor ein erhöhter Boden aus zwei Lagen Bruchstein.",
+      "tip": "Beginne mit den langen Außenwänden und der Westwand. Die Apsis baust du aus einem Halbkreis, ihre Wand ist ebenfalls 2 Blöcke dick. Ein buntes Gemisch aus Bruchstein und bemoosten Steinziegeln lässt die Mauern alt aussehen.",
+      "caution": "Lass die Durchgänge in den Mittelschiffwänden frei (4 Blöcke breit). Die Mauern dürfen die Grubenmauer nicht berühren. Du bleibst mit der Westwand 2 Blöcke davon entfernt.",
+      "fact": "Santa Reparata war eine frühchristliche Kirche, die später mehrmals umgebaut wurde. Als man ab 1296 den neuen Dom baute, riss man sie nach und nach ab. Von 1965 bis 1974 gruben Archäologen ihre Reste unter dem Boden des Doms aus."
+    },
+    "krypta_stuetzen": {
+      "title": "Stützen unter dem Domboden",
+      "description": "Im Mittelschiff stellst du sechs Pfeiler auf, in drei Reihen zu je zwei, jeder 2 mal 2 Blöcke breit. Sie stehen bei X −188, −172 und −156, mit Z −6 bis −5 und Z 4 bis 5. Sie wachsen von Y 57 bis Y 63 und berühren oben von unten den Domboden aus Modul 0. Die oberste Lage ist aus poliertem Andesit, der Rest aus Steinziegeln.",
+      "tip": "Baue jeden Pfeiler Lage für Lage und kontrolliere mit einem Lot oder einem Block als Richtschnur, dass er gerade steht. Schau von oben, ob die Pfeiler in den Reihen fluchten.",
+      "caution": "Die Pfeiler müssen genau bis Y 63 reichen, damit sie den Boden darüber stützen. Hör nicht schon auf Höhe der Mauern bei Y 61 auf, sonst bleibt eine Lücke.",
+      "fact": "Der Boden des Doms liegt über der Krypta. Damit er nicht einsackt, braucht er Auflager. Unsere Pfeiler sind nur eine vereinfachte Darstellung, wie das im echten Dom gelöst ist, zeigt dieses Modell nicht genau."
+    },
+    "brunelleschi_grab": {
+      "title": "Das Grab von Filippo Brunelleschi",
+      "description": "In den Kryptaboden setzt du eine Grabplatte aus poliertem Tiefenschiefer: 5 Blöcke lang (X −180 bis −176) und 3 Blöcke breit (Z −1 bis 1). In der Mitte läuft eine Zeile aus drei goldenen Blöcken als Inschrift. Die Platte ersetzt dort die Bodenmosaik-Blöcke, die du vorhin ausgelassen hast.",
+      "tip": "Lege zuerst den Rand aus dunklem Stein und dann die goldene Zeile in die Mitte. So sitzt die Inschrift genau mittig.",
+      "caution": "Das Grab liegt auf derselben Höhe wie der Boden (Y 57), nicht höher. Setze keinen Block auf das Mosaik, das Grab ersetzt dort die Bodenblöcke.",
+      "fact": "Filippo Brunelleschi, der Baumeister der Kuppel, starb 1446 und wurde im Dom beigesetzt, eine seltene Ehre für einen Baumeister. Sein Grab wurde 1972 bei den Grabungen unter dem Dom wiedergefunden."
+    },
+    "chorschranke": {
+      "title": "Achteckige Chorschranke",
+      "description": "Unter der Kuppel baust du auf dem Domboden (Y 64) eine achteckige Schranke aus weißem Marmor, 2 Blöcke dick und 7 Blöcke hoch (Y 65 bis 71). Die Wand liegt zwischen den Abständen 16 und 17 vom Mittelpunkt. Auf der Westseite lässt du einen Eingang von 5 Blöcken Breite (Z −2 bis 2) offen. Zwei Bänder aus rotem Granit (Y 66 und 70) und kleine Felder darüber zieren die Wand.",
+      "tip": "Baue zuerst den untersten Ring und zähle die Seiten: Das Achteck hat acht gleiche Flächen. Setze die Bänder immer gleichzeitig um den ganzen Ring, dann bleibt das Muster gleichmäßig.",
+      "caution": "Der Eingang liegt im Westen, dort, wo das Langhaus ankommt. Die Schranke steht ganz innen in der Vierung und berührt keine Wand. Bis zu den Pfeilern bleibt viel Platz.",
+      "fact": "Die achteckige Marmorschranke um den Altar entstand in der Mitte des 16. Jahrhunderts nach Plänen von Baccio Bandinelli. Sie umgibt den Chor genau unter der Kuppel."
+    },
+    "hochaltar": {
+      "title": "Hochaltar mit Kruzifix",
+      "description": "In die Mitte der Kuppel baust du den Altarblock: 5 Blöcke lang (X −2 bis 2), 3 breit (Z −1 bis 1) und 2 hoch (Y 65 und 66) aus weißem Marmor, oben aus gemeißeltem Quarz. Darauf steht ein Kreuz, 8 Blöcke hoch (Y 67 bis 74). Der Stamm besteht aus dunklem Holz. Der Körper Christi in der Mitte ist aus Gold. Der Querbalken liegt auf Y 72 und ist 5 Blöcke breit.",
+      "tip": "Beginne mit dem Altarblock und setze dann das Kreuz in der Mitte darauf. Prüfe von der Seite, ob es senkrecht steht und der Balken mittig sitzt.",
+      "caution": "Der Altar steht genau über dem goldenen Block im Mittelpunkt des Bodens. Setze ihn nicht seitlich versetzt, sonst stimmt die Symmetrie der Kuppel nicht mehr.",
+      "fact": "Auf dem Hochaltar des Doms steht ein hölzernes Kruzifix, das Benedetto da Maiano in den 1490er Jahren schuf. Benedetto da Maiano war ein berühmter Bildhauer der Frührenaissance in Florenz."
+    }
+  }
+}
