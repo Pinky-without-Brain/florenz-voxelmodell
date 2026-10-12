@@ -39,7 +39,7 @@ Symmetrie: `boden_vierung` order 8; `boden_baptisterium` order 4 nur ohne Scarse
 
 ---
 
-## Modul 1 – Langhaus und Seitenschiffe (Richtwert 110–150 k)
+## Modul 1 – Langhaus und Seitenschiffe (Richtwert 160–190 k, nach Welle 1 angepasst)
 Hoheitsgebiet laut `interfaces.OWNERSHIP` (X −212..−55; das Langhaus stößt bei x = −55 an die Westfläche der Vierung, Außenmaß −54). **Ostabschluss:** Wandvorlagen bzw. Halbpfeiler an der Vierungswand bei x −57..−55 auf den Pfeilerachsen z = ±19; die letzte Arkade spannt von der Pfeilerachse −98 bis zu diesen Halbpfeilern. Alle Bauteile, die im Folgenden „bis −61“ laufen, laufen bis **−55**. Joche: Pfeilerachsen bei `px_k = D.nave.interiorWestX + k·D.nave.bayPitch`, k = 0..4 (−212, −174, −136, −98, −60). Die Achsen k = 0 (Fassade) und k = 4 (Vierung) sind **keine** Pfeiler dieses Moduls. Bei k = 0 steht eine Wandvorlage an der Fassade, bei k = 4 setzt M3 mit seinen Vierungspfeilern an.
 
 | # | Bauteil-ID | Geometrie | Material |
@@ -79,7 +79,7 @@ Damit die Bau-Reihenfolge stimmt, darf `pfeilervorlagen` erst nach `nischenzone`
 
 ---
 
-## Modul 3 – Vierung, Tribunen, Sakristeien (Richtwert 100–140 k)
+## Modul 3 – Vierung, Tribunen, Sakristeien (Richtwert 320–380 k; nach Welle 1 angepasst: 9 Blöcke dicke Achteckwand über 84 Lagen und drei Tribunen sind auch mit Schalenmauerwerk so massiv)
 ### Vierungsachteck (Bauteile 1–4)
 - `vierung_wand`: Achteckring a 45..54 (Schalenmauerwerk nach A1), Y 65..`archTopY` (148). Die oberste Lage Y 146..148 ist voll (Auflager des Tambours, **Coverage 1,0**).
 - **Vier große Bögen** auf den Achsenseiten (W, N, O, S): Öffnung durch die volle Wanddicke, Halbweite 17 (Seitenhalbmaß 45·tan 22,5° = 18,6 minus 1 Kante), Kämpfer Y 113, Scheitel Y 140, f nach A5. Die Westöffnung ist niedriger, weil das Mittelschiffgewölbe bis Y 150 geht. Sie bekommt dieselbe Bogenform; oberhalb schließt M1 mit Dach und Gewölbe an die Achteckwand an.

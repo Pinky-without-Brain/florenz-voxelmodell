@@ -1,0 +1,127 @@
+{
+  "module": 3,
+  "title": "Vierung & Tribunen",
+  "subtitle": "Bautüte 3: Das Achteck unter der Kuppel, drei Tribunen mit je fünf Kapellen und die Sakristeien",
+  "icon": "✳️",
+  "parts": {
+    "vierung_wand": {
+      "title": "Vierungswand mit den vier großen Bögen",
+      "description": "Du mauerst das Achteck, das später die Kuppel trägt: einen Ring von Y 65 bis Y 148, der von X und Z −54 bis 54 reicht und 10 Blöcke dick ist. Die Wand ist hohl gemauert, außen und innen liegen je zwei Blöcke Schale, in der Mitte bleibt ein leerer Kern. Innen siehst du grauen Pietra-serena-Stein, außen weiße und grüne Marmorfelder. Auf den vier Achsen bleiben große Spitzbögen offen (Halbweite 17, Kämpfer Y 113, Scheitel Y 140).",
+      "tip": "Arbeite Lage für Lage und setze alle 12 Lagen eine ganz volle Binderlage. Die vier Bögen sind gleich: Zähle von der Achse aus 17 Blöcke nach links und rechts, dann stimmt jeder Bogen.",
+      "caution": "Die obersten Lagen Y 146 bis 148 müssen ringsum voll sein, denn darauf steht später der Tambour. Rund um die Bögen bleibt die Wand ganz massiv, dort gehört kein hohler Kern hin.",
+      "fact": "Über dieser Vierung wölbte Brunelleschi die Kuppel. Sie überspannt innen rund 45 Meter und gilt bis heute als größte gemauerte Kuppel der Welt."
+    },
+    "vierung_gesims": {
+      "title": "Kämpfergesims der Vierung",
+      "description": "Du legst eine einzelne Lage Y 112 an die Innenseite der vier Diagonalwände, einen Block breit und einen Block vor der Wand. Sie liegt genau unter dem Kämpfer der großen Bögen. Das Gesims besteht aus poliertem Andesit, der für Pietra forte steht.",
+      "tip": "Das Gesims läuft nur an den vier schrägen Seiten entlang, nicht an den Bögen. Folge dem Innenrand der Wand wie einer Treppe.",
+      "caution": "An den vier Bögen darf kein Gesims liegen, sonst verengst du die Öffnung. Prüfe, dass alle vier Diagonalseiten gleich aussehen.",
+      "fact": "Pietra serena heißt „heiterer Stein“. Der graue Sandstein aus der Umgebung von Florenz prägt die Innenräume vieler Kirchen von Brunelleschi."
+    },
+    "sakristei_tueren": {
+      "title": "Türen zu den Sakristeien",
+      "description": "Du setzt die Türen in die schrägen Seiten der Vierungswand. Im Nordosten und im Südosten (Y 65 bis 78) rahmt gemeißelter Quarz einen Rundbogen mit 5 Blöcken Breite, dahinter schließt ein Türblatt aus Kupferblock den Durchgang. Im Nordwesten und Südwesten bleiben es zugemauerte Blendnischen aus grauem Stein.",
+      "tip": "Die Türen liegen schräg in der Wand. Baue erst den Rahmen, dann das Türblatt in der Wandmitte.",
+      "caution": "Nur die beiden Ostseiten bekommen echte Türen. Die Westseiten bleiben geschlossen, sonst fehlt der Wand der Halt.",
+      "fact": "Beim Anschlag der Familie Pazzi am 26. April 1478 rettete sich Lorenzo de' Medici in eine Sakristei des Doms. Seine Freunde schlossen hinter ihm die schweren Bronzetüren."
+    },
+    "tribune_nord_mauern": {
+      "title": "Nordtribune: Mauern mit fünf Kapellen",
+      "description": "Du baust die Mauern der Nordtribune von Z −54 bis Z −96 (X −37 bis 37) und von Y 65 bis Y 104. In die Wand sind fünf Radialkapellen eingeschnitten, jede mit einem Spitzbogen zum Tribunenraum und einem schmalen Fenster aus Buntglas. Die Mauern sind hohl gemauert, außen mit Marmor verkleidet und innen aus grauem Stein.",
+      "tip": "Die fünf Kapellen zeigen wie Strahlen vom Mittelpunkt (0 | −59) nach außen. Markiere erst die fünf Richtungen, dann die Kapellenräume.",
+      "caution": "Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zwei seitlichen Kapellen liegen parallel zur Tribunenachse.",
+      "fact": "Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen."
+    },
+    "tribune_nord_gewoelbe": {
+      "title": "Nordtribune: Gewölbe",
+      "description": "Du wölbst die Decken: in jeder der fünf Kapellen ein Kreuzgewölbe (Kämpfer Y 90, Scheitel Y 98) und über dem Tribunenraum ein halbes Klostergewölbe, das bei Y 102 ansetzt und bei Y 125 seinen höchsten Punkt erreicht. Am geraden Stück zur Vierung (Z −55 bis −58) liegt eine Spitztonne. Alles besteht aus grauem Stein und ist zwei Blöcke dick.",
+      "tip": "Wölbe von den Rändern zur Mitte. Jede Reihe ruht auf der darunter, bis sich oben alles schließt.",
+      "caution": "Das Gewölbe ist nur zwei Blöcke dick. Lass zwischen Gewölbe und Wand keine Lücke, sonst hängt es in der Luft.",
+      "fact": "Ein Kreuzgewölbe entsteht, wenn sich zwei Tonnengewölbe im rechten Winkel durchdringen. Die Kanten, an denen sie sich treffen, heißen Grate."
+    },
+    "tribune_nord_obergaden": {
+      "title": "Nordtribune: Obergaden mit Rundfenstern",
+      "description": "Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.",
+      "tip": "Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.",
+      "caution": "Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.",
+      "fact": "Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“."
+    },
+    "tribune_nord_daecher": {
+      "title": "Nordtribune: Dächer",
+      "description": "Du deckst die Nordtribune mit Terrakotta. Über den Kapellen liegt ein Pultdach von Y 110 an der Wand bis Y 105 am Rand. Darüber entsteht das Tribunendach als halbe Achteckpyramide, die bei Y 131 beginnt und zur Vierungswand bis Y 136 ansteigt.",
+      "tip": "Beide Dächer sind nur einen Block dick. Folge der Neigung Stufe für Stufe und achte darauf, dass keine Lücke bleibt.",
+      "caution": "Das hohe Dach beginnt erst über dem Obergaden (Y 131). Sonst setzt du Blöcke ins Leere.",
+      "fact": "Terrakotta heißt „gebackene Erde“. Die Dächer in Florenz sind seit Jahrhunderten mit solchen roten Ziegeln aus gebranntem Ton gedeckt."
+    },
+    "tribune_ost_mauern": {
+      "title": "Osttribune: Mauern mit fünf Kapellen",
+      "description": "Du baust die Mauern der Osttribune von X 54 bis X 96 (Z −37 bis 37) und von Y 65 bis Y 104. Sie ist genau die um 90 Grad gedrehte Nordtribune, mit fünf Radialkapellen rund um den Mittelpunkt (59 | 0). Außen leuchten weiße und grüne Marmorfelder, innen steht grauer Stein.",
+      "tip": "Du kannst alles von der Nordtribune übernehmen. Drehe nur im Kopf den Plan: Aus „nach Norden“ wird „nach Osten“.",
+      "caution": "Die mittlere der fünf Kapellen liegt genau auf der Achse bei Z 0. Von ihr aus zählst du die anderen vier.",
+      "fact": "Die Marmorfelder des Doms zeigen drei Farben aus drei Orten: weißen Marmor aus Carrara, grünen aus Prato und rötlichen aus der Maremma."
+    },
+    "tribune_ost_gewoelbe": {
+      "title": "Osttribune: Gewölbe",
+      "description": "Du wölbst die Osttribune: fünf Kreuzgewölbe in den Kapellen (Y 90 bis 98), ein halbes Klostergewölbe über dem Raum (Y 102 bis 125) und eine Spitztonne auf dem geraden Stück von X 55 bis 58. Das Gewölbe ist zwei Blöcke dick und besteht aus grauem Stein.",
+      "tip": "Beginne an den Kapellen und arbeite dich zur Raummitte vor. Das Gewölbe ist an der Achse gespiegelt.",
+      "caution": "Ein Klostergewölbe sieht aus wie eine umgedrehte Schüssel aus acht Segeln. Die Tribune nimmt davon nur die halbe Schüssel.",
+      "fact": "Spitzbögen leiten das Gewicht steiler nach unten als Rundbögen. Darum konnten gotische Baumeister hohe, schlanke Gewölbe bauen."
+    },
+    "tribune_ost_obergaden": {
+      "title": "Osttribune: Obergaden mit Rundfenstern",
+      "description": "Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.",
+      "tip": "Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.",
+      "caution": "Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.",
+      "fact": "Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür."
+    },
+    "tribune_ost_daecher": {
+      "title": "Osttribune: Dächer",
+      "description": "Du deckst die Osttribune mit Terrakotta: ein Pultdach über den Kapellen von Y 110 nach Y 105 und darüber die halbe Achteckpyramide von Y 131 bis Y 136 an der Vierungswand. Beide Dächer sind einen Block dick.",
+      "tip": "Arbeite von unten nach oben und folge den Stufen der Neigung. Die Kanten der Pyramide laufen wie Strahlen auf die Mitte zu.",
+      "caution": "An der Vierungswand (X 54) endet das Dach. Setze dort keinen Block in die Wand hinein.",
+      "fact": "Die Ziegel heißen in Florenz „coppi“. Sie liegen wie halbe Röhren auf dem Dach, einmal mit der Wölbung nach oben und einmal nach unten."
+    },
+    "tribune_sued_mauern": {
+      "title": "Südtribune: Mauern mit fünf Kapellen",
+      "description": "Du baust die Mauern der Südtribune von Z 54 bis Z 96 (X −37 bis 37) und von Y 65 bis Y 104. Auch sie hat fünf Radialkapellen rund um den Mittelpunkt (0 | 59). Die Wände sind hohl gemauert, außen mit Marmor verkleidet, innen aus grauem Stein.",
+      "tip": "Die Südtribune ist ein Spiegelbild der Nordtribune. Wenn du dort einen Fehler gefunden hast, prüfe ihn hier gleich mit.",
+      "caution": "Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribune, sonst nichts.",
+      "fact": "Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen."
+    },
+    "tribune_sued_gewoelbe": {
+      "title": "Südtribune: Gewölbe",
+      "description": "Du wölbst die Südtribune wie die beiden anderen: fünf Kreuzgewölbe in den Kapellen (Y 90 bis 98), ein halbes Klostergewölbe über dem Raum (Y 102 bis 125) und eine Spitztonne auf dem geraden Stück von Z 55 bis 58. Alles ist zwei Blöcke dick und aus grauem Stein.",
+      "tip": "Das Gewölbe ist gleichmäßig. Wenn die Mitte bei Y 125 sitzt, stimmen die Ränder automatisch.",
+      "caution": "Die Kapellengewölbe haben ihren Scheitel bei Y 98, das Raumgewölbe erst bei Y 125. Verwechsle die Höhen nicht.",
+      "fact": "Gotische Gewölbe leiten ihr Gewicht über Grate und Rippen in die Pfeiler und Wände. Darum können die Wände dazwischen so dünn und die Fenster so groß sein."
+    },
+    "tribune_sued_obergaden": {
+      "title": "Südtribune: Obergaden mit Rundfenstern",
+      "description": "Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.",
+      "tip": "Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.",
+      "caution": "Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.",
+      "fact": "Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so."
+    },
+    "tribune_sued_daecher": {
+      "title": "Südtribune: Dächer",
+      "description": "Du deckst die Südtribune mit Terrakotta. Über den Kapellen liegt ein Pultdach von Y 110 auf Y 105. Das Tribunendach steigt als halbe Achteckpyramide von Y 131 am Rand bis Y 136 an der Vierungswand.",
+      "tip": "Prüfe zum Schluss alle drei Tribunen: Die Dächer müssen von oben gleich aussehen.",
+      "caution": "Das Tribunendach lehnt sich an die Vierungswand an. Setze die Blöcke bündig an die Wand, ohne sie in die Wand hineinzubauen.",
+      "fact": "Berühmte Terrakotta-Ziegel kommen aus Impruneta, einem Ort südlich von Florenz. Dort wird seit Jahrhunderten Ton gebrannt."
+    },
+    "eckbauten": {
+      "title": "Eckbauten und Sakristeien",
+      "description": "Du füllst die vier Ecken zwischen dem Achteck und den Tribunen mit Gebäuden: Wände 4 Blöcke dick bis Y 100, darüber eine volle Decke Y 101 bis 103 und ein Terrakottadach auf Y 104. Die Räume bleiben innen hohl. Im Nordosten und Südosten liegen die Sakristeien mit einem Kreuzgewölbe (Kämpfer Y 88, Scheitel Y 99).",
+      "tip": "Baue erst die Außenwände, dann die Sakristeigewölbe und zuletzt die Decke. Die Tür von der Vierung führt genau in die Mitte des Raumes.",
+      "caution": "Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die Decke Y 104 trägt später die Sockel der Exedren.",
+      "fact": "Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia."
+    },
+    "exedra_sockel": {
+      "title": "Sockel für die „tribune morte“",
+      "description": "Du setzt vier massive Sockel auf die Eckbauten, jeder ein Halbkreis mit Radius 11 um die Mittelpunkte (±38 | ±38) und von Y 105 bis Y 148. Die Sockel sind hohl gemauert, die obersten drei Lagen sind voll. Auf der Lage Y 148 bilden sie zusammen mit dem Ring der Vierung eine durchgehende Fläche für den Tambour.",
+      "tip": "Baue jeden Sockel als Halbkreis vom Achteck nach außen. Mit dem Mittelpunkt als Ausgangspunkt zählst du 11 Blöcke in jede Richtung.",
+      "caution": "Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst hat das nächste Modul keinen festen Stand.",
+      "fact": "Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour."
+    }
+  }
+}
