@@ -299,17 +299,58 @@ function renderPalette(ctx) {
 
 // ---------------------------------------------------------------- Einstieg
 
-/**
- * renderDocs({ modules, stepsByModule, grid, root }) -> Map relativer Pfad (mit "/") -> Dateiinhalt.
- * Projekt-README und Blockpalette entstehen nur, wenn alle Module 0..9 übergeben werden.
- */
-function renderDocs({ modules, stepsByModule, grid, root }) {
+// ---------------------------------------------------------------- Neue Projekte (V3)
+
+// README eines Projekts unter projects/<id>/docs/: Statistik, Modulübersicht, Gesamt-Stückliste
+function renderProjectReadme(project, mods, ctx) {
+  const L = [];
+  L.push(GEN_HEADER);
+  L.push('');
+  L.push(`# ${project.title}`);
+  L.push('');
+  L.push(`*Projekt \`${project.id}\`, Art: ${project.type}*`);
+  L.push('');
+  L.push(`**Statistik (generiert):** ${n(ctx.totalBlocks)} Blöcke in ${n(ctx.totalSteps)} Bauschritten, ${mods.length} Module. ` +
+    `Maßstab 1:${ctx.dims.SCALE}, 1 Block = ${String(1 / ctx.dims.SCALE).replace('.', ',')} m.`);
+  const sts = mods.map((m) => ctx.stats.get(m.module)).filter((st) => st.blocks > 0);
+  if (sts.length) {
+    const lo = (k) => Math.min(...sts.map((st) => st[k])), hi = (k) => Math.max(...sts.map((st) => st[k]));
+    L.push(`Ausdehnung des Modells: X ${c(lo('minX'))} bis ${c(hi('maxX'))}, Y ${c(lo('minY'))} bis ${c(hi('maxY'))}, Z ${c(lo('minZ'))} bis ${c(hi('maxZ'))}.`);
+  }
+  L.push('');
+  L.push('| Modul | Titel | Blöcke | Schritte | Bauanleitung |');
+  L.push('| ---: | :--- | ---: | ---: | :--- |');
+  for (const m of mods) {
+    const st = ctx.stats.get(m.module);
+    const g = `BAUANLEITUNG_MODUL_${m.module}.md`;
+    L.push(`| ${m.module} | ${cell(m.meta.title)} | ${n(st.blocks)} | ${n(st.steps)} | [${g}](${g}) |`);
+  }
+  L.push(`| | **Summe** | **${n(ctx.totalBlocks)}** | **${n(ctx.totalSteps)}** | |`);
+  L.push('');
+  L.push('## Gesamt-Stückliste');
+  L.push('');
+  L.push(typeTable(sortedCounts(ctx.typeTotals), ctx.names, true, ctx.totalBlocks));
+  L.push('');
+  return L.join('\n');
+}
+
+function renderProjectDocs({ project, modules, stepsByModule, grid, root, complete }) {
   const dims = require('../spec/dimensions.js');
   const palette = require('../spec/palette.js');
   const blockTypes = loadBlockTypes(path.join(root, 'webapp', 'js', 'data', 'block-types.js'));
-  const folders = folderMap(root);
   const mods = modules.slice().sort((a, b) => a.module - b.module);
+  const ctx = prepareContext(mods, stepsByModule, grid, dims, palette, blockTypes);
+  const base = path.relative(root, project.docsDir).split(path.sep).join('/');
+  const out = new Map();
+  for (const m of mods) {
+    out.set(`${base}/BAUANLEITUNG_MODUL_${m.module}.md`, renderGuide(m, stepsByModule[m.module] || [], grid, ctx));
+  }
+  if (complete !== false) out.set(`${base}/README.md`, renderProjectReadme(project, mods, ctx));
+  return out;
+}
 
+// Statistik und Namensauflösung für alle übergebenen Module
+function prepareContext(mods, stepsByModule, grid, dims, palette, blockTypes) {
   const stats = new Map();
   const typeTotals = new Map();
   let totalBlocks = 0, totalSteps = 0;
@@ -321,8 +362,24 @@ function renderDocs({ modules, stepsByModule, grid, root }) {
     totalSteps += st.steps;
     for (const [t, v] of st.typeCounts) typeTotals.set(t, (typeTotals.get(t) || 0) + v);
   }
-  const ctx = { dims, palette, stats, typeTotals, totalBlocks, totalSteps, bounds: null,
+  return { dims, palette, stats, typeTotals, totalBlocks, totalSteps, bounds: null,
     names: (t) => typeNameOf(blockTypes, palette, t) };
+}
+
+/**
+ * renderDocs({ modules, stepsByModule, grid, root, project?, complete? }) -> Map relativer Pfad (mit "/") -> Dateiinhalt.
+ * Dom (kein project oder project.legacy): Projekt-README und Blockpalette entstehen nur, wenn alle Module 0..9 übergeben werden.
+ * Neue Projekte: BAUANLEITUNG_MODUL_N.md und README.md unter projects/<id>/docs/ (README nur wenn complete !== false).
+ */
+function renderDocs({ modules, stepsByModule, grid, root, project, complete }) {
+  if (project && !project.legacy) return renderProjectDocs({ project, modules, stepsByModule, grid, root, complete });
+  const dims = require('../spec/dimensions.js');
+  const palette = require('../spec/palette.js');
+  const blockTypes = loadBlockTypes(path.join(root, 'webapp', 'js', 'data', 'block-types.js'));
+  const folders = folderMap(root);
+  const mods = modules.slice().sort((a, b) => a.module - b.module);
+
+  const ctx = prepareContext(mods, stepsByModule, grid, dims, palette, blockTypes);
 
   const out = new Map();
   const rel = (...p) => p.join('/');
@@ -336,8 +393,8 @@ function renderDocs({ modules, stepsByModule, grid, root }) {
     out.set(rp, replaceMarkerBlock(read(rp), moduleStatBlock(m, ctx)));
   }
 
-  const complete = mods.length === 10 && mods.every((m, i) => m.module === i);
-  if (complete) {
+  const full = mods.length === 10 && mods.every((m, i) => m.module === i);
+  if (full) {
     ctx.bounds = grid.bounds();
     out.set('README.md', replaceMarkerBlock(read('README.md'), projectStatBlock(mods, ctx, folders)));
     out.set('01_Materialien_und_Blockpalette/BLOCK_PALETTE.md', renderPalette(ctx));
@@ -346,8 +403,8 @@ function renderDocs({ modules, stepsByModule, grid, root }) {
 }
 
 // Schreibt alle Dateien; Rückgabe: { files: [Pfade], changed: [Pfade mit neuem Inhalt] }
-function emitDocs({ modules, stepsByModule, grid, root }) {
-  const docs = renderDocs({ modules, stepsByModule, grid, root });
+function emitDocs({ modules, stepsByModule, grid, root, project, complete }) {
+  const docs = renderDocs({ modules, stepsByModule, grid, root, project, complete });
   const files = [], changed = [];
   for (const [rel, text] of docs) {
     const file = path.join(root, ...rel.split('/'));
@@ -355,6 +412,7 @@ function emitDocs({ modules, stepsByModule, grid, root }) {
     try { old = fs.readFileSync(file, 'utf8'); } catch (e) { old = null; }
     files.push(rel);
     if (old !== text) {
+      fs.mkdirSync(path.dirname(file), { recursive: true });
       fs.writeFileSync(file, text);
       changed.push(rel);
     }

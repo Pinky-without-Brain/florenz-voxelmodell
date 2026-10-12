@@ -1,6 +1,7 @@
 'use strict';
 // Führt alle Prüfregeln aus. R1 (Konflikte) liegt im Weltaufbau, R9 (Docs) nur mit opts.docs.
 const path = require('node:path');
+const { makeProvider } = require('./ground.js');
 
 const RULES = [
   ['R2', require('./r2_stepsize.js')],
@@ -17,7 +18,9 @@ const RULES = [
 const ROOT = path.resolve(__dirname, '..', '..');
 
 /**
- * validate({ grid, world, stepsByModule, interfaces?, root?, blockTypesFile?, only? })
+ * validate({ grid, world, stepsByModule, interfaces?, ground?, project?, root?, blockTypesFile?, only?, docs? })
+ * ground: Boden-Provider { hasGroundContact, minY, maxY } (tools/validate/ground.js); Vorgabe: Dom.
+ * project: aufgelöstes Projekt (für R9-Dokumente); Vorgabe: Dom.
  * -> [{ rule, errors, warnings, ms, ... }]
  */
 function validate(opts) {
@@ -27,12 +30,15 @@ function validate(opts) {
   const steps = [];
   for (const m of mods) for (const s of stepsByModule[m]) steps.push(s);
   const root = opts.root || ROOT;
+  const ground = opts.ground || makeProvider(require('../spec/ground_duomo.js'));
   const keyCache = new Map();
   const ctx = {
     grid, world, steps, root, stepsByModule, docs: opts.docs || null,
     dims: require('../spec/dimensions.js'),
     palette: require('../spec/palette.js'),
     interfaces: opts.interfaces || require('../spec/interfaces.js'),
+    ground, project: opts.project || null, projectMeta: world.project || null,
+    frame: require('../spec/frame.js'),
     blockTypesFile: opts.blockTypesFile || path.join(root, 'webapp', 'js', 'data', 'block-types.js'),
     includedModules: new Set(world.modules.map((m) => m.module)),
     keysByModule(m) {

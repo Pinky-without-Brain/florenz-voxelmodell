@@ -3,11 +3,11 @@
 const { fmt, capped, result } = require('./util.js');
 
 module.exports = function r6(ctx) {
-  const { foundationBottomY, maxY } = ctx.dims.LEVELS;
+  const foundationBottomY = ctx.ground.minY, maxY = ctx.ground.maxY;
   const bad = [];
   let n = 0;
   ctx.grid.keysOf((k) => {
-    const y = k & 511;
+    const y = k % 512;
     if (y < foundationBottomY || y > maxY) { n++; if (bad.length < 20) bad.push(k); }
     return false;
   });

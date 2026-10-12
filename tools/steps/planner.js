@@ -1,23 +1,26 @@
 'use strict';
 // Planer: Bauteile -> Bauschritte (ARCHITEKTUR §4).
 
+const { xOfKey, yOfKey, zOfKey } = require('../geom/grid.js');
+
 const MAX_STEP = 2500;   // hart
 const TARGET_MAX = 2100; // Ziel-Obergrenze
 const MIN_STEP = 300;    // weich
 const TEXT_FIELDS = ['description', 'tip', 'caution', 'fact'];
 
-// Sortierschlüssel (y, x, z) als Zahl: y·2^20 + (x+512)·1024 + (z+512)
+// Sortierschlüssel (y, x, z) als Zahl: y·2^26 + (x+4096)·8192 + (z+4096) (< 2^35, exakt in Double)
+const SORT_Y = 67108864; // 2^26 = 8192 · 8192
 function sortKeyOf(key) {
-  const y = key & 511;
-  const z = (key >> 9) & 1023;
-  const x = key >> 19;
-  return y * 1048576 + x * 1024 + z;
+  const y = yOfKey(key);
+  const zr = zOfKey(key) + 4096;
+  const xr = xOfKey(key) + 4096;
+  return y * SORT_Y + xr * 8192 + zr;
 }
 function keyOfSort(sk) {
-  const z = sk % 1024;
-  const x = Math.floor(sk / 1024) % 1024;
-  const y = Math.floor(sk / 1048576);
-  return (x * 1024 + z) * 512 + y;
+  const zr = sk % 8192;
+  const xr = Math.floor(sk / 8192) % 8192;
+  const y = Math.floor(sk / SORT_Y);
+  return (xr * 8192 + zr) * 512 + y;
 }
 
 function sortedKeys(keys) {
@@ -29,8 +32,8 @@ function sortedKeys(keys) {
   return out;
 }
 
-const yOf = (k) => k & 511;
-const xOf = (k) => (k >> 19) - 512;
+const yOf = yOfKey;
+const xOf = xOfKey;
 
 // Ausgewogenes Teilen: Einheiten (Lagen bzw. Spalten) mit Größen -> Schnittindizes.
 // n = ceil(total / 2100), Ziel t = total / n; geschnitten wird dort, wo die kumulierte Summe dem
@@ -121,7 +124,7 @@ function splitPart(keys) {
 function bboxOf(cells) {
   let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity, z0 = Infinity, z1 = -Infinity;
   for (const k of cells) {
-    const y = k & 511, z = ((k >> 9) & 1023) - 512, x = (k >> 19) - 512;
+    const y = yOfKey(k), z = zOfKey(k), x = xOfKey(k);
     if (x < x0) x0 = x; if (x > x1) x1 = x;
     if (y < y0) y0 = y; if (y > y1) y1 = y;
     if (z < z0) z0 = z; if (z > z1) z1 = z;

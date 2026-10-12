@@ -24,12 +24,14 @@ function walk(dir, cb, skip) {
 
 module.exports = function r10(ctx) {
   const root = ctx.root;
-  const generated = path.join(root, 'webapp', 'js', 'data', 'v2');
+  // Erzeugte Webapp-Daten (Base64) und OSM-Rohdaten werden übersprungen
+  const skipDirs = new Set([path.join(root, 'webapp', 'js', 'data', 'v2'), path.join(root, 'webapp', 'data'),
+    path.join(root, 'data', 'osm')]);
   const files = new Set();
-  for (const sub of ['tools', 'content', 'webapp']) {
+  for (const sub of ['tools', 'content', 'webapp', 'projects', 'data', '20_Stadtmodell_Florenz']) {
     walk(path.join(root, sub), (f) => {
       if (TEXT_EXT.has(path.extname(f).toLowerCase())) files.add(f);
-    }, (p) => p === generated);
+    }, (p) => skipDirs.has(p));
   }
   walk(root, (f) => { if (f.toLowerCase().endsWith('.md')) files.add(f); });
 

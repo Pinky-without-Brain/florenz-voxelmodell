@@ -1,7 +1,7 @@
 'use strict';
 // R8: Symmetrie (order 4: Spiegelungen an X und Z; order 8: volle D4), inklusive Blocktyp.
 const { fmt, unpack, capped, result } = require('./util.js');
-const { packKey } = require('../geom/grid.js');
+const { packKey, X_MIN, X_MAX, Z_MIN, Z_MAX } = require('../geom/grid.js');
 
 function images(dx, dz, order) {
   const out = [[-dx, dz], [dx, -dz], [-dx, -dz]];
@@ -31,7 +31,7 @@ module.exports = function r8(ctx) {
         let ok = true;
         for (const [ix, iz] of images(c.x - cx, c.z - cz, order)) {
           const x = cx + ix, z = cz + iz;
-          if (!Number.isInteger(x) || !Number.isInteger(z) || x < -512 || x > 511 || z < -512 || z > 511 ||
+          if (!Number.isInteger(x) || !Number.isInteger(z) || x < X_MIN || x > X_MAX || z < Z_MIN || z > Z_MAX ||
               types.get(packKey(x, c.y, z)) !== t) { ok = false; break; }
         }
         if (!ok) { n++; if (bad.length < 5) bad.push(k); }

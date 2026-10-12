@@ -2,11 +2,11 @@
 // R3: Baubarkeit. Schritte global in Reihenfolge; jeder Block muss über Flächenkontakte im Schritt
 // einen Block erreichen, der an früher Gesetztes oder an das Gelände grenzt.
 const { fmt, unpack, forNeighbors, capped, result } = require('./util.js');
-const { hasGroundContact } = require('./ground.js');
 
 const EXAMPLES_PER_STEP = 5;
 
 module.exports = function r3(ctx) {
+  const hasGroundContact = ctx.ground.hasGroundContact;
   const errors = [];
   const violations = [];
   const placed = new Set();
