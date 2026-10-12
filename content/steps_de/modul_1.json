@@ -1,0 +1,85 @@
+{
+  "module": 1,
+  "title": "Langhaus & Seitenschiffe",
+  "subtitle": "Bautüte 1: Außenwände, Pfeiler, Arkaden, Gewölbe und Dächer des Langhauses",
+  "icon": "⛪",
+  "parts": {
+    "aussenwand_nord": {
+      "title": "Nordwand des Seitenschiffs",
+      "description": "Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.",
+      "tip": "Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.",
+      "caution": "Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.",
+      "fact": "Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421."
+    },
+    "aussenwand_sued": {
+      "title": "Südwand des Seitenschiffs",
+      "description": "Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.",
+      "tip": "Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.",
+      "caution": "Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.",
+      "fact": "Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana."
+    },
+    "wandvorlagen": {
+      "title": "Wandvorlagen außen",
+      "description": "Du setzt senkrechte Streifen vor die Außenwände, vier Blöcke breit bei Z ±43 und ±44 und von Y 65 bis 114. Es sind fünf je Seite: an den beiden Enden (X −212 bis −209 und −58 bis −55) und vor den Pfeilerachsen bei X −174, −136 und −98. Sie bestehen aus glattem Quarz, die Kanten aus dunklem Prismarin.",
+      "tip": "Die Streifen stehen genau gegenüber den Pfeilern im Inneren. Zähle ab der Fassade, damit sie an der richtigen Stelle landen.",
+      "caution": "Die Streifen sind nur zwei Blöcke tief. Sie dürfen die Mauer nicht verdoppeln, sonst wird das Seitenschiff innen zu eng.",
+      "fact": "Francesco Talenti leitete ab 1357 den Bau des Langhauses. Er war schon an Giottos Campanile beteiligt und führte beide Bauten im Stil der Zeit fort."
+    },
+    "pfeiler": {
+      "title": "Bündelpfeiler",
+      "description": "Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.",
+      "tip": "Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.",
+      "caution": "Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.",
+      "fact": "Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat."
+    },
+    "arkaden": {
+      "title": "Arkaden zum Mittelschiff",
+      "description": "Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.",
+      "tip": "Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.",
+      "caution": "Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.",
+      "fact": "Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit."
+    },
+    "seitenschiff_gewoelbe": {
+      "title": "Gewölbe der Seitenschiffe",
+      "description": "Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.",
+      "tip": "Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.",
+      "caution": "Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.",
+      "fact": "Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen."
+    },
+    "hochschiffwand": {
+      "title": "Hochschiffwand mit Rundfenstern",
+      "description": "Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.",
+      "tip": "Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.",
+      "caution": "Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.",
+      "fact": "Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen."
+    },
+    "mittelschiff_gewoelbe": {
+      "title": "Gewölbe des Mittelschiffs",
+      "description": "Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.",
+      "tip": "Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.",
+      "caution": "Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.",
+      "fact": "Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150."
+    },
+    "gesimse": {
+      "title": "Kranzgesimse",
+      "description": "Du setzt zwei Gesimse aus Quarzziegeln: eines auf den Seitenschiffwänden bei Y 115 (Z ±39 bis ±45) und eines auf der Hochschiffwand bei Y 149 (Z ±18 bis ±21). Sie springen einen Block über die Mauer vor und tragen später die Dächer.",
+      "tip": "Das Gesims ist nur eine Lage hoch, aber über die ganze Länge von X −212 bis −55. Arbeite in langen Bahnen.",
+      "caution": "Das untere Gesims reicht bis Z ±45 und liegt damit einen Block weiter außen als die Lisenen.",
+      "fact": "Die heutige Westfassade ist neugotisch. Sie wurde nach einem Entwurf von Emilio De Fabris gebaut und 1887 fertig."
+    },
+    "dach_seitenschiffe": {
+      "title": "Pultdächer der Seitenschiffe",
+      "description": "Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.",
+      "tip": "Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.",
+      "caution": "Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.",
+      "fact": "Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana."
+    },
+    "dach_mittelschiff": {
+      "title": "Satteldach des Mittelschiffs",
+      "description": "Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.",
+      "tip": "Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.",
+      "caution": "Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.",
+      "fact": "Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas."
+    }
+  }
+}
