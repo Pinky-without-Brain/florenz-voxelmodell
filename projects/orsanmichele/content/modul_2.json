@@ -1,0 +1,50 @@
+{
+  "module": 2,
+  "title": "Erdgeschoss: Bogenfelder & Maßwerk",
+  "subtitle": "Bautüte 2: zugemauerte Spitzbögen mit dreiteiligem Maßwerk, Archivolten und Türen",
+  "icon": "🪟",
+  "parts": {
+    "fuellwand_sockel": {
+      "title": "Füllwand unter den Fenstern",
+      "description": "In jedem der zehn Bogenfelder mauerst du die Füllwand vier Blöcke dick (zwei Zellen hinter der Pfeilerfläche) von Y 69 bis 79. Die Türöffnungen lässt du aus.",
+      "tip": "Die Füllwand schließt seitlich an die Pfeiler an; so hält jeder Block an seinem Nachbarn.",
+      "caution": "Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei.",
+      "fact": "Die Arkaden des Erdgeschosses wurden um 1360 bis 1367 zugemauert."
+    },
+    "fuellwand_masswerk": {
+      "title": "Dreiteiliges Maßwerkfenster",
+      "description": "Über dem Fuß folgt die Füllwand bis unter die Bogenlaibung. Du lässt drei Lichten aus (je 3 breit und 7 hoch, Y 80 bis 86), setzt Pfosten aus Quarz und Glas in die Mitte der Wand. Im Scheitel sitzt ein Vierpass aus gemeißeltem Quarz.",
+      "tip": "Zähle vom Feldmittelpunkt: Pfosten bei ±2, Lichten bei −5 bis −3, −1 bis 1 und 3 bis 5.",
+      "caution": "Das Glas gehört in die Mittelebene der Wand, nicht nach außen.",
+      "fact": "Das Maßwerk der Bogenfelder stammt aus der Zeit um 1420; es ist ein Wahrzeichen der Florentiner Gotik."
+    },
+    "spandrillen": {
+      "title": "Spandrillen über den Bögen",
+      "description": "Über den Archivolten füllst du die Zwickel in den äußeren zwei Zellen bis zur Oberkante des Erdgeschosses auf Y 94.",
+      "tip": "Arbeite von den Pfeilern zur Feldmitte, so bleibt jede Lage verbunden.",
+      "caution": "Lasse die Luft unter dem Bogen frei; nur oberhalb des Rings wird gemauert.",
+      "fact": "Im Modell haben die Spitzbögen eine Halbweite von 3,75 m, den Kämpfer bei 6,5 m und den Scheitel bei 11 m Höhe."
+    },
+    "bogenringe": {
+      "title": "Zehn Archivolten",
+      "description": "Du setzt den Bogenring aus weißem Quarz zwei Zellen stark über die Laibung jedes Feldes, von Y 81 bis 92. Die Laibung im Scheitel liegt bei Y 90.",
+      "tip": "Folge der Kurve Zelle für Zelle; am Scheitel liegen zwei Lagen übereinander.",
+      "caution": "Der Ring liegt nur in den äußeren zwei Zellen, dahinter bleibt die Füllwand.",
+      "fact": "Der Spitzbogen entsteht aus zwei Kreisen mit Radius 9,15 Blöcken."
+    },
+    "statuetten_konsolen": {
+      "title": "Statuettenträger",
+      "description": "An jedem Bogenansatz setzt du einen Konsolblock aus gemeißeltem Quarz auf Y 81, außen an der Seite des Feldes.",
+      "tip": "Die Konsole sitzt an der Pfeilerkante, direkt neben dem Pfeiler.",
+      "caution": "Ein einzelner Block pro Seite; setze nicht mehr.",
+      "fact": "Am Bogenansatz der Fenster stehen nach it.wikipedia kleine Statuetten."
+    },
+    "tueren": {
+      "title": "Zwei Türen",
+      "description": "In das mittlere Feld der Nordseite und in das hintere Feld der Ostseite schneidest du je ein Portal, 5 Blöcke breit und 10 hoch (Y 71 bis 80). Die Tür aus dunklem Eichenholz sitzt in der dritten Zelle der Wand, die Laibung und den Sturz bildest du aus weißem Quarz.",
+      "tip": "Setze zuerst die Laibung, dann den Sturz auf Y 81, dann die Tür.",
+      "caution": "Lage und Zahl der Türen sind nicht belegt; das Modell nimmt zwei an.",
+      "fact": "Die genaue Lage der Eingänge ist in den Quellen nicht gesichert und eine Schätzung."
+    }
+  }
+}
