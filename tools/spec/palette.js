@@ -42,11 +42,47 @@ const PALETTE = {
   light_blue_terracotta: { role: 'fresko', de: 'Hellblaue Keramik' },
   blue_terracotta:       { role: 'fresko', de: 'Blaue Keramik' },
   red_terracotta:        { role: 'fresko', de: 'Rote Keramik' },
-  yellow_terracotta:     { role: 'fresko', de: 'Gelbe Keramik' },
-  orange_terracotta:     { role: 'fresko', de: 'Orange Keramik' },
+  yellow_terracotta:     { role: 'fresko', alsoRoles: ['putz_ocker'], de: 'Gelbe Keramik' },
+  orange_terracotta:     { role: 'fresko', alsoRoles: ['putz_terrakotta'], de: 'Orange Keramik' },
   green_terracotta:      { role: 'fresko', de: 'Grüne Keramik' },
   brown_terracotta:      { role: 'fresko', de: 'Braune Keramik' },
-  black_concrete:        { role: 'fresko', de: 'Schwarzer Beton' }
+  black_concrete:        { role: 'fresko', de: 'Schwarzer Beton' },
+  // Stadtmodell (V3): Putz, Stein, Holz, Öffnungen, Natur
+  smooth_sandstone:      { role: 'putz_gelb',            de: 'Glatter Sandstein' },
+  pink_terracotta:       { role: 'putz_rosa',            de: 'Rosa Keramik' },
+  end_stone_bricks:      { role: 'putz_sand',            de: 'Endsteinziegel' },
+  white_concrete:        { role: 'putz_weiss',           de: 'Weißer Beton' },
+  light_gray_concrete:   { role: 'putz_grau',            de: 'Hellgrauer Beton' },
+  tuff_bricks:           { role: 'pietra_forte_rustika', de: 'Tuffsteinziegel' },
+  tuff:                  { role: 'pietra_forte_bruch',   de: 'Tuffstein' },
+  polished_tuff:         { role: 'pflaster',             de: 'Polierter Tuffstein' },
+  stone:                 { role: 'gelaende_fels',        de: 'Stein' },
+  spruce_planks:         { role: 'holz_sporto',          de: 'Fichtenholz-Bretter' },
+  green_concrete:        { role: 'fensterladen',         de: 'Grüner Beton' },
+  gray_stained_glass:    { role: 'glas_fenster',         de: 'Graues Buntglas' },
+  grass_block:           { role: 'gruen_rasen',          de: 'Grasblock' },
+  dirt:                  { role: 'gruen_erde',           de: 'Erde' },
+  gravel:                { role: 'gruen_weg',            de: 'Kies' },
+  oak_leaves:            { role: 'gruen_baum',           de: 'Eichenlaub' },
+  oak_log:               { role: 'gruen_stamm',          de: 'Eichenstamm' },
+  water:                 { role: 'wasser',               de: 'Wasser', transparent: true }
 };
 
-module.exports = { PALETTE, TYPES: Object.keys(PALETTE) };
+const TYPES = Object.keys(PALETTE);
+
+/** Alle Rollen eines Typs: Primärrolle zuerst, dann alsoRoles. */
+function rolesOf(type) {
+  const e = PALETTE[type];
+  return e ? [e.role, ...(e.alsoRoles || [])] : [];
+}
+
+/** Typen, deren role oder alsoRoles die Rolle enthält (in Palettenreihenfolge). */
+function typesForRole(role) {
+  return TYPES.filter((t) => rolesOf(t).includes(role));
+}
+
+/** Alle verschiedenen Rollen (primär und alsoRoles) in Reihenfolge des ersten Auftretens. */
+const ROLES = [];
+for (const t of TYPES) for (const r of rolesOf(t)) if (!ROLES.includes(r)) ROLES.push(r);
+
+module.exports = { PALETTE, TYPES, ROLES, rolesOf, typesForRole };

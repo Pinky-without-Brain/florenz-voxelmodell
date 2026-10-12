@@ -465,7 +465,7 @@ window.VoxelRenderer = (function() {
 
   const GLASS_OPACITY = 0.55;
   function isGlassType(type) {
-    return type.length > 14 && type.endsWith("_stained_glass");
+    return type === "water" || (type.length > 14 && type.endsWith("_stained_glass"));
   }
 
   // --- Verdeckungstest -------------------------------------------------------

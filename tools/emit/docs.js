@@ -33,7 +33,25 @@ const ROLE_INFO = {
   bronze: ['Bronze und Kupfer', 'Bronzetüren und Zierteile.'],
   licht: ['Licht', 'Leuchtende Fenster und Lichtquellen.'],
   glas: ['Buntglas', 'Fenster und Ochsenaugen.'],
-  fresko: ['Freskenfarben', 'Kuppelfresko und Uccello-Uhr.']
+  fresko: ['Freskenfarben', 'Kuppelfresko und Uccello-Uhr.'],
+  putz_gelb: ['Putz gelb', 'Gelb verputzte Fassaden der Stadthäuser.'],
+  putz_rosa: ['Putz rosa', 'Rosa verputzte Fassaden.'],
+  putz_sand: ['Putz sand', 'Sandfarbene Fassaden.'],
+  putz_weiss: ['Putz weiß', 'Weiße Fassaden.'],
+  putz_grau: ['Putz grau', 'Graue Fassaden.'],
+  pietra_forte_rustika: ['Pietra forte, Rustika', 'Rustika-Mauerwerk der Palazzi.'],
+  pietra_forte_bruch: ['Pietra forte, Bruchstein', 'Einfaches Bruchsteinmauerwerk.'],
+  pflaster: ['Pflaster', 'Straßen und Plätze.'],
+  gelaende_fels: ['Geländekörper', 'Felsiger Untergrund der Stadt.'],
+  holz_sporto: ['Holz (Sporto)', 'Dachvorsprünge der Stadthäuser.'],
+  fensterladen: ['Fensterläden', 'Grüne Läden an Hausfenstern.'],
+  glas_fenster: ['Hausfenster', 'Graues Glas für Fenster der Stadthäuser.'],
+  gruen_rasen: ['Rasen', 'Parks und Gärten.'],
+  gruen_erde: ['Erde', 'Beete und Unterbau von Grünflächen.'],
+  gruen_weg: ['Kieswege', 'Wege in Gärten und Parks.'],
+  gruen_baum: ['Baumkronen', 'Laub von Bäumen und Hecken.'],
+  gruen_stamm: ['Baumstämme', 'Stämme von Bäumen.'],
+  wasser: ['Wasser', 'Arno und Brunnen.']
 };
 
 const BUILD_HELP = [
@@ -286,7 +304,9 @@ function renderPalette(ctx) {
     L.push('| :--- | :--- | ---: | ---: |');
     for (const t of ts) {
       const v = totals.get(t) || 0;
-      L.push(`| ${cell(names(t))} | \`${t}\` | ${n(v)} | ${pct(v, total)} % |`);
+      const also = (palette.PALETTE[t].alsoRoles || []).map((a) => '`' + a + '`').join(', ');
+      const label = also ? `${names(t)} (auch: ${also})` : names(t);
+      L.push(`| ${cell(label)} |\`${t}\` | ${n(v)} | ${pct(v, total)} % |`);
     }
   }
   L.push('');
