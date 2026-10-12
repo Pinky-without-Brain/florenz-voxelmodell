@@ -18,7 +18,29 @@ const { inOctagon } = require('../geom/shapes.js');
 
 const crossingOuter = (x, z) => inOctagon(x, z, C.crossing.outerHalfFlat);
 
+// Exedra-Sockel (M3) und tribune morte (M4): Halbkreis r 11 nach außen um den Mittelpunkt der
+// Diagonalfläche des Tambours (rho = outerHalfFlat auf der Diagonalen → x = z = a/√2).
+const EXEDRA_R = 11;
+const EXEDRA_CENTERS = [[1, 1], [1, -1], [-1, 1], [-1, -1]].map(([sx, sz]) => {
+  const c = Math.round(C.crossing.outerHalfFlat / Math.SQRT2); // 38
+  return { cx: sx * c, cz: sz * c, sx, sz };
+});
+const inExedra = (x, z) => EXEDRA_CENTERS.some(({ cx, cz, sx, sz }) => {
+  const dx = x - cx, dz = z - cz;
+  return dx * dx + dz * dz <= EXEDRA_R * EXEDRA_R + EXEDRA_R && dx * sx + dz * sz >= 0;
+});
+
+const groundSupport = (upper) => ({
+  name: `Modul ${upper} auf Boden`, lower: 0, upper, y: D.LEVELS.walkY,
+  region: () => true, coverage: 0.0
+});
+
 const SUPPORTS = [
+  ...[1, 2, 3, 7, 8, 9].map(groundSupport),
+  { name: 'Krypta auf Grube',       lower: 0, upper: 9, y: D.LEVELS.cryptFloorY,
+    region: () => true, coverage: 0.0 },
+  { name: 'Exedren auf Sockel',     lower: 3, upper: 4, y: C.crossing.archTopY + 1,
+    region: (x, y, z) => inExedra(x, z), coverage: 1.0 },
   { name: 'Tambour auf Vierung',    lower: 3, upper: 4, y: C.crossing.archTopY + 1,
     region: (x, y, z) => crossingOuter(x, z), coverage: 1.0 },
   { name: 'Kuppel auf Tambour',     lower: 4, upper: 5, y: C.dome.springY + 1,
@@ -59,4 +81,4 @@ const RESERVED = [
       && y >= CRYPT.y[0] && y <= CRYPT.y[1] }
 ];
 
-module.exports = { SUPPORTS, OWNERSHIP, RESERVED, CRYPT };
+module.exports = { SUPPORTS, OWNERSHIP, RESERVED, CRYPT, EXEDRA_R, EXEDRA_CENTERS, inExedra };

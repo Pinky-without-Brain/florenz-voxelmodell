@@ -91,7 +91,8 @@ class VoxelGrid {
     return { type: this._types[typeId], module: tag.module, part: tag.part, seq };
   }
 
-  writer(tag) {
+  writer(tag, opts) {
+    const trackKeys = !!(opts && opts.trackKeys);
     if (!tag || typeof tag !== 'object') throw new TypeError('tag muss ein Objekt sein');
     const { module, part } = tag;
     if (!Number.isInteger(module) || module < 0 || module > 9) {
@@ -104,6 +105,7 @@ class VoxelGrid {
     const tagId = this._tagId(module, part);
     const cells = this._cells;
     let count = 0;
+    const keys = trackKeys ? [] : null; // Schlüssel in Einfügereihenfolge
 
     function put(x, y, z, type) {
       checkCoord(x, y, z);
@@ -116,10 +118,18 @@ class VoxelGrid {
         throw new VoxelConflictError(x, y, z, grid._entry(old), { type, module, part });
       }
       cells.set(key, grid._seq++ * SEQ_SHIFT + tagId * TYPE_BITS + grid._typeId(type));
+      if (keys) keys.push(key);
       count++;
     }
 
-    return {
+    // Eigentümer-Modul einer belegten Zelle
+    function ownModule(key) {
+      const old = cells.get(key);
+      if (old === undefined) return undefined;
+      return grid._tags[grid._decode(old).tagId].module;
+    }
+
+    const api = {
       set(x, y, z, type) { put(x, y, z, type); },
       fill(iterable, material) {
         const isFn = typeof material === 'function';
@@ -135,8 +145,54 @@ class VoxelGrid {
         }
         return n;
       },
+      // Vereinigung: Zellen desselben Moduls werden übersprungen, fremde Zellen werfen.
+      fillUnion(iterable, material) {
+        const isFn = typeof material === 'function';
+        if (!isFn && (typeof material !== 'string' || material.length === 0)) {
+          throw new TypeError('material muss ein nicht-leerer String oder eine Funktion sein');
+        }
+        let n = 0;
+        for (const c of iterable) {
+          const t = isFn ? material(c.x, c.y, c.z) : material;
+          if (t === null) continue;
+          checkCoord(c.x, c.y, c.z);
+          if (ownModule(packKey(c.x, c.y, c.z)) === module) continue;
+          put(c.x, c.y, c.z, t);
+          n++;
+        }
+        return n;
+      },
       get count() { return count; },
     };
+    if (keys) api.keys = keys;
+    return api;
+  }
+
+  hasKey(key) { return this._cells.has(key); }
+
+  // Modul, dem die Zelle gehört (Zahl) oder undefined
+  ownerModule(x, y, z) {
+    if (!this.has(x, y, z)) return undefined;
+    return this.moduleOfKey(packKey(x, y, z));
+  }
+
+  moduleOfKey(key) {
+    const v = this._cells.get(key);
+    return v === undefined ? undefined : this._tags[this._decode(v).tagId].module;
+  }
+
+  typeOfKey(key) {
+    const v = this._cells.get(key);
+    return v === undefined ? undefined : this._types[this._decode(v).typeId];
+  }
+
+  // Gepackte Schlüssel (Einfügereihenfolge); optional gefiltert: predicate(key, module)
+  keysOf(predicate) {
+    const out = [];
+    for (const [key, v] of this._cells) {
+      if (!predicate || predicate(key, this._tags[this._decode(v).tagId].module)) out.push(key);
+    }
+    return out;
   }
 
   has(x, y, z) {

@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Testmodul",
+  "subtitle": "Test",
+  "icon": "T",
+  "parts": {
+    "a": {
+      "title": "A",
+      "description": "da",
+      "tip": "ta",
+      "caution": "ca",
+      "fact": "fa"
+    },
+    "b": {
+      "title": "B",
+      "description": "db",
+      "tip": "tb",
+      "caution": "cb",
+      "fact": "fb"
+    },
+    "c": {
+      "title": "C",
+      "description": "dc",
+      "tip": "tc",
+      "caution": "cc",
+      "fact": "fc"
+    }
+  }
+}
