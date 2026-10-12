@@ -61,7 +61,7 @@ function polyFromWay(el) {
 }
 
 /** Eingabe: gebaeude (Overpass-JSON), relationen (Overpass-JSON mit Mitgliedern). */
-function buildBuildings(gebaeudeJson, relationenJson) {
+function buildBuildings(gebaeudeJson, relationenJson, korrekturen) {
   const stats = { wayGebaeude: 0, relGebaeude: 0, relOhneGeometrie: 0, relOffeneRinge: 0, doppelteWays: 0, entartet: 0, teile: 0, teileOhneGebaeude: 0 };
   const relById = new Map();
   for (const e of (relationenJson ? relationenJson.elements : [])) if (e.type === 'relation') relById.set(e.id, e);
@@ -150,6 +150,18 @@ function buildBuildings(gebaeudeJson, relationenJson) {
     b.schaetzungAus = hs.length ? 'nachbarn' : 'standard';
   }
 
+  // Höhenkorrekturen (data/stadt/korrekturen.json) nach der Schätzung: dokumentierte Höhe ersetzt Wert und Quelle.
+  const kor = (korrekturen && korrekturen.hoehen) || {};
+  const byId = new Map(buildings.map((b) => [b.id, b]));
+  for (const id of Object.keys(kor).sort()) {
+    const b = byId.get(id), k = kor[id];
+    if (!b) throw new Error(`korrekturen.json: unbekanntes Gebäude ${id}`);
+    if (!(k.hoeheBl >= 2 && k.hoeheBl < 800) || !k.quelle) throw new Error(`korrekturen.json: ungültiger Eintrag ${id}`);
+    b.hoeheBl = k.hoeheBl; b.hoeheQuelle = 'korrektur'; b.korrekturQuelle = k.quelle;
+    delete b.schaetzungAus;
+    stats.korrekturen = (stats.korrekturen || 0) + 1;
+  }
+
   // Teile zuordnen (Schwerpunkt im Gebäude, kleinstes Gebäude gewinnt)
   const gridB = new Map();
   const BC = 64;
@@ -202,6 +214,7 @@ function buildBuildings(gebaeudeJson, relationenJson) {
       id: b.id, osm: b.osm, name: b.name, tags: b.tags, polygon: b.polygon, flaecheBl: b.flaecheBl,
       hoeheBl: b.hoeheBl, hoeheQuelle: b.hoeheQuelle
     };
+    if (b.korrekturQuelle) o.korrekturQuelle = b.korrekturQuelle;
     if (b.schaetzungAus) o.schaetzungAus = b.schaetzungAus;
     o.bodenY = b.bodenY;
     o.isolato = null;

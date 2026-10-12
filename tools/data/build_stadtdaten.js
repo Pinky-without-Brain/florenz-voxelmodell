@@ -45,7 +45,8 @@ function main() {
   log(`Gelände ${T.W}x${T.H}, H0=${T.h0.toFixed(3)} m`);
 
   // 2. Gebäude
-  const bres = buildBuildings(rd(`gebaeude_${DATE}.json`), rd(`gebaeude_relationen_${DATE}.json`));
+  const korFile = path.join(OUT, 'korrekturen.json');
+  const bres = buildBuildings(rd(`gebaeude_${DATE}.json`), rd(`gebaeude_relationen_${DATE}.json`), fs.existsSync(korFile) ? JSON.parse(fs.readFileSync(korFile, 'utf8')) : null);
   const B = bres.buildings;
   log(`Gebäude ${B.length}`);
   // 3. Isolati
@@ -141,11 +142,11 @@ function main() {
   // Ausgaben
   const strip = (x) => { const o = { ...x }; delete o._c; delete o._bb; delete o._names; delete o._wz; return o; };
   const quelleOsm = 'OpenStreetMap-Mitwirkende, ODbL 1.0; Overpass-Abfrage 12.10.2026';
-  const hoeheStat = { height: 0, levels: 0, schaetzung: 0 };
+  const hoeheStat = { height: 0, levels: 0, schaetzung: 0, korrektur: 0 };
   for (const x of B) hoeheStat[x.hoeheQuelle]++;
   writeList('gebaeude.json', {
     quelle: quelleOsm, einheit: 'Modellkoordinaten (Blöcke, 0,5 m), polygon: aussen = Ringe positiv, loecher = Ringe negativ',
-    hoehenregel: 'height-Tag (m·2) | building:levels·3,4 m + 1,5 m | Schätzung: Median der benannten Nachbarn (Schwerpunktabstand ≤ 40 Blöcke, mit height/levels), sonst 4 Geschosse = 15,1 m; Kleinbauten (shed, garage, roof, kiosk …) 1 Geschoss',
+    hoehenregel: 'Korrektur (data/stadt/korrekturen.json) | height-Tag (m·2) | building:levels·3,4 m + 1,5 m | Schätzung: Median der benannten Nachbarn (Schwerpunktabstand ≤ 40 Blöcke, mit height/levels), sonst 4 Geschosse = 15,1 m; Kleinbauten (shed, garage, roof, kiosk …) 1 Geschoss',
     zaehlung: { gesamt: B.length, ...hoeheStat, ...bres.stats }
   }, 'gebaeude', B.map(strip));
   writeList('isolati.json', { quelle: 'abgeleitet aus gebaeude.json; Regel: Abstand ≤ 1 Block oder Berührung', statistik: ires.stats }, 'isolati', ires.isolati);

@@ -6,3 +6,5 @@ Quelle: OpenStreetMap-Mitwirkende, ODbL 1.0 (https://www.openstreetmap.org/copyr
 
 # Geländedaten
 Comune di Firenze, DTM LiDAR 2017, CC BY 4.0 (ESRI-ASCII, 1 m, ETRS89 / UTM 32N). Die Rohkacheln liegen außerhalb des Projekts; `data/stadt/gelaende.bin` ist die daraus abgeleitete Rasterung im Modellsystem. Namensnennung: „Comune di Firenze, DTM LiDAR 2017, CC BY 4.0“.
+
+Hinweis: Korrekturen an den abgeleiteten Gebäudedaten (Höhen) stehen nicht in den Rohdateien, sondern in `data/stadt/korrekturen.json` (siehe `data/stadt/README.md`).

@@ -3083,8 +3083,8 @@
    "id": "w307544522",
    "name": "Palazzo Incontri",
    "flaecheBl": 3486,
-   "hoeheBl": 23,
-   "hoeheQuelle": "levels",
+   "hoeheBl": 32,
+   "hoeheQuelle": "korrektur",
    "wikidata": "Q3361311",
    "kriterien": [
     "palazzo/historisch",
@@ -4202,8 +4202,8 @@
    "id": "w307544521",
    "name": "Palazzo Pasqui",
    "flaecheBl": 2470.75,
-   "hoeheBl": 30,
-   "hoeheQuelle": "levels",
+   "hoeheBl": 40,
+   "hoeheQuelle": "korrektur",
    "wikidata": "Q3890623",
    "kriterien": [
     "palazzo/historisch",
@@ -8602,8 +8602,8 @@
    "id": "w307544533",
    "name": "Palazzetto del Bianco",
    "flaecheBl": 569.5,
-   "hoeheBl": 23,
-   "hoeheQuelle": "schaetzung",
+   "hoeheBl": 29,
+   "hoeheQuelle": "korrektur",
    "wikidata": "Q3889414",
    "kriterien": [
     "wikidata"

@@ -8,12 +8,16 @@
       "hoeheBl": 8
     },
     {
+      "art": "mezzanin",
+      "hoeheBl": 4
+    },
+    {
       "art": "nobile",
-      "hoeheBl": 8
+      "hoeheBl": 10
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 10
     }
   ],
   "fassade": {
@@ -48,6 +52,6 @@
   },
   "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri",
   "sicherheit": 0.8,
-  "notiz": "Ecke Via dei Servi/Via dei Pucci: fünf Achsen zur Via dei Servi, neun zur Via dei Pucci; rustizierte Ecken und Portalrahmen, Travertin-Gurte, zwei Portale mit Balkon, Bogengiebel im Piano nobile, kräftiger Dachüberstand, Wappen an der Ecke (it.Wikipedia). Putzfarbe angenommen. Dokumentiert 3 Geschosse plus Mezzanin, das ist höher als hoeheBl 23.",
+  "notiz": "Ecke Via dei Servi/Via dei Pucci: fünf Achsen zur Via dei Servi, neun zur Via dei Pucci; rustizierte Ecken und Portalrahmen, Travertin-Gurte, zwei Portale mit Balkon, Bogengiebel im Piano nobile, kräftiger Dachüberstand, Wappen an der Ecke (it.Wikipedia). Putzfarbe angenommen. Höhe korrigiert: hoeheBl 32 laut data/stadt/korrekturen.json (vorher 23); Geschosssumme 32, Mezzanin über dem EG.",
   "name": "Palazzo Incontri"
 }
