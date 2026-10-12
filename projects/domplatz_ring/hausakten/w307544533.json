@@ -14,6 +14,10 @@
     {
       "art": "og",
       "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
@@ -47,6 +51,6 @@
   },
   "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzetto_Del_Bianco",
   "sicherheit": 0.5,
-  "notiz": "Via dei Servi 3: verputzte Fassade mit Rustika-Portal und Zunftzeichen der Arte della Lana, Formen der Palazzi des 16. Jh.; drei Geschosse plus vierte durch Ausmauern einer Loggia/Altane (it.Wikipedia). Achsen, Fenster, Gesims nicht beschrieben. Vierte Ebene passt nicht zu hoeheBl 23.",
+  "notiz": "Via dei Servi 3: verputzte Fassade mit Rustika-Portal und Zunftzeichen der Arte della Lana, Formen der Palazzi des 16. Jh.; drei Geschosse plus vierte durch Ausmauern einer Loggia/Altane (it.Wikipedia). Achsen, Fenster, Gesims nicht beschrieben. Höhe korrigiert: hoeheBl 29 laut data/stadt/korrekturen.json (vorher 23, geschätzt); vierte Ebene (ausgemauerte Loggia) jetzt enthalten, Summe 29.",
   "name": "Palazzetto del Bianco"
 }

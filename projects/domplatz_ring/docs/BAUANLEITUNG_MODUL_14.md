@@ -1,66 +1,135 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 14: Isolato I0540 – Via dei Bonizzi
+# Bauanleitung Modul 14: Isolato I0530 – Piazza del Duomo
 
-*Domplatz-Ring: 3 Häuser*
+*Domplatz-Ring: 4 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.079 |
-| Bauschritte | 10 |
-| Y-Bereich | 66 bis 104 |
-| X-Ausdehnung | 53 bis 97 (45 Blöcke) |
-| Z-Ausdehnung | 147 bis 209 (63 Blöcke) |
-| Kleinster Schritt | 1.383 Blöcke (Schritt 14.9) |
-| Mittlerer Schritt | 1.508 Blöcke |
-| Größter Schritt | 1.605 Blöcke (Schritt 14.1) |
+| Blöcke | 37.831 |
+| Bauschritte | 22 |
+| Y-Bereich | 66 bis 109 |
+| X-Ausdehnung | -19 bis 58 (78 Blöcke) |
+| Z-Ausdehnung | 117 bis 199 (83 Blöcke) |
+| Kleinster Schritt | 757 Blöcke (Schritt 14.13) |
+| Mittlerer Schritt | 1.720 Blöcke |
+| Größter Schritt | 2.081 Blöcke (Schritt 14.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.149 | 40,8 % |
-| Rosa Keramik | `pink_terracotta` | 2.516 | 16,7 % |
-| Terrakotta | `terracotta` | 2.491 | 16,5 % |
-| Polierter Tuffstein | `polished_tuff` | 1.893 | 12,6 % |
-| Weißer Beton | `white_concrete` | 594 | 3,9 % |
-| Graues Buntglas | `gray_stained_glass` | 472 | 3,1 % |
-| Polierter Andesit | `polished_andesite` | 429 | 2,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 312 | 2,1 % |
-| Ziegelsteine | `bricks` | 164 | 1,1 % |
-| Grüner Beton | `green_concrete` | 34 | 0,2 % |
-| Glatter Stein | `smooth_stone` | 25 | 0,2 % |
+| Weißer Beton | `white_concrete` | 11.024 | 29,1 % |
+| Orange Keramik | `orange_terracotta` | 7.229 | 19,1 % |
+| Terrakotta | `terracotta` | 6.607 | 17,5 % |
+| Polierter Tuffstein | `polished_tuff` | 4.736 | 12,5 % |
+| Glatter Stein | `smooth_stone` | 2.133 | 5,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.676 | 4,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.477 | 3,9 % |
+| Tuffstein | `tuff` | 757 | 2,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 672 | 1,8 % |
+| Grüner Beton | `green_concrete` | 420 | 1,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 370 | 1,0 % |
+| Polierter Andesit | `polished_andesite` | 368 | 1,0 % |
+| Ziegelsteine | `bricks` | 348 | 0,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114369699` | Reihenhaus an Via dei Bonizzi | 6.233 | 14.1–14.4 |
-| 2 | `w491889285` | Reihenhaus an Piazza delle Pallottole | 4.516 | 14.5–14.7 |
-| 3 | `w491889286` | Reihenhaus an Via dei Bonizzi | 4.330 | 14.8–14.10 |
+| 1 | `w491889269` | Reihenhaus an Piazza di San Benedetto | 6.176 | 14.1–14.4 |
+| 2 | `w491889271` | Palazzo des Cinquecento an Via dello Studio | 13.582 | 14.5–14.12 |
+| 3 | `w491889292` | Casa Sermanni | 14.441 | 14.13–14.20 |
+| 4 | `w491889294` | Reihenhaus an Via dei Bonizzi | 3.632 | 14.21–14.22 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Reihenhaus an Via dei Bonizzi – Teil 1/4 (Y 67–73)
+### Schritt 14.1 – Reihenhaus an Piazza di San Benedetto – Teil 1/4 (Y 67–75)
 
-- **Y-Bereich:** 67 bis 73
-- **Blöcke:** 1.605
-- **Bauteile:** `w114369699`
+- **Y-Bereich:** 67 bis 75
+- **Blöcke:** 1.543
+- **Bauteile:** `w491889269`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 774 |
-| Polierter Tuffstein | `polished_tuff` | 699 |
-| Weißer Beton | `white_concrete` | 81 |
+| Weißer Beton | `white_concrete` | 845 |
+| Polierter Tuffstein | `polished_tuff` | 523 |
+| Hellgrauer Beton | `light_gray_concrete` | 88 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+| Glatter Stein | `smooth_stone` | 21 |
+| Polierter Andesit | `polished_andesite` | 14 |
+| Grüner Beton | `green_concrete` | 12 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.2 – Reihenhaus an Piazza di San Benedetto – Teil 2/4 (Y 76–87)
+
+- **Y-Bereich:** 76 bis 87
+- **Blöcke:** 1.572
+- **Bauteile:** `w491889269`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.227 |
+| Hellgrauer Beton | `light_gray_concrete` | 219 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
+| Grüner Beton | `green_concrete` | 24 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.3 – Reihenhaus an Piazza di San Benedetto – Teil 3/4 (Y 88–98)
+
+- **Y-Bereich:** 88 bis 98
+- **Blöcke:** 1.476
+- **Bauteile:** `w491889269`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.163 |
+| Hellgrauer Beton | `light_gray_concrete` | 250 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -74,23 +143,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Via dei Bonizzi – Teil 2/4 (Y 74–83)
+### Schritt 14.4 – Reihenhaus an Piazza di San Benedetto – Teil 4/4 (Y 99–109)
 
-- **Y-Bereich:** 74 bis 83
-- **Blöcke:** 1.538
-- **Bauteile:** `w114369699`
+- **Y-Bereich:** 99 bis 109
+- **Blöcke:** 1.585
+- **Bauteile:** `w491889269`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.294 |
-| Weißer Beton | `white_concrete` | 193 |
+| Terrakotta | `terracotta` | 689 |
+| Weißer Beton | `white_concrete` | 682 |
+| Hellgrauer Beton | `light_gray_concrete` | 115 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
+| Ziegelsteine | `bricks` | 36 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -104,23 +176,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Reihenhaus an Via dei Bonizzi – Teil 3/4 (Y 84–93)
+### Schritt 14.5 – Palazzo des Cinquecento an Via dello Studio – Teil 1/8 (Y 67–67)
 
-- **Y-Bereich:** 84 bis 93
-- **Blöcke:** 1.510
-- **Bauteile:** `w114369699`
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.801
+- **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.200 |
-| Weißer Beton | `white_concrete` | 225 |
-| Graues Buntglas | `gray_stained_glass` | 85 |
+| Polierter Tuffstein | `polished_tuff` | 1.801 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -134,25 +204,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Reihenhaus an Via dei Bonizzi – Teil 4/4 (Y 94–104)
+### Schritt 14.6 – Palazzo des Cinquecento an Via dello Studio – Teil 2/8 (Y 68–73)
 
-- **Y-Bereich:** 94 bis 104
-- **Blöcke:** 1.580
-- **Bauteile:** `w114369699`
+- **Y-Bereich:** 68 bis 73
+- **Blöcke:** 1.720
+- **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 888 |
-| Endsteinziegel | `end_stone_bricks` | 506 |
-| Weißer Beton | `white_concrete` | 95 |
-| Ziegelsteine | `bricks` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 17 |
+| Orange Keramik | `orange_terracotta` | 1.476 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Polierter Andesit | `polished_andesite` | 36 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Grüner Beton | `green_concrete` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -166,25 +238,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.5 – Reihenhaus an Piazza delle Pallottole – Teil 1/3 (Y 66–71)
+### Schritt 14.7 – Palazzo des Cinquecento an Via dello Studio – Teil 3/8 (Y 74–78)
 
-- **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.453
-- **Bauteile:** `w491889285`
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.516
+- **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 724 |
-| Polierter Tuffstein | `polished_tuff` | 690 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
-| Glatter Stein | `smooth_stone` | 15 |
-| Grüner Beton | `green_concrete` | 8 |
+| Orange Keramik | `orange_terracotta` | 1.275 |
+| Glatter Stein | `smooth_stone` | 119 |
+| Weißer Beton | `white_concrete` | 64 |
+| Polierter Andesit | `polished_andesite` | 32 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -198,24 +271,275 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.6 – Reihenhaus an Piazza delle Pallottole – Teil 2/3 (Y 72–81)
+### Schritt 14.8 – Palazzo des Cinquecento an Via dello Studio – Teil 4/8 (Y 79–84)
 
-- **Y-Bereich:** 72 bis 81
-- **Blöcke:** 1.556
-- **Bauteile:** `w491889285`
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.725
+- **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.474 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
+| Orange Keramik | `orange_terracotta` | 1.357 |
+| Weißer Beton | `white_concrete` | 183 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Grüner Beton | `green_concrete` | 20 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.9 – Palazzo des Cinquecento an Via dello Studio – Teil 5/8 (Y 85–90)
+
+- **Y-Bereich:** 85 bis 90
+- **Blöcke:** 1.833
+- **Bauteile:** `w491889271`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.451 |
+| Weißer Beton | `white_concrete` | 263 |
+| Glatter Stein | `smooth_stone` | 61 |
+| Graues Buntglas | `gray_stained_glass` | 27 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Grüner Beton | `green_concrete` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.10 – Palazzo des Cinquecento an Via dello Studio – Teil 6/8 (Y 91–95)
+
+- **Y-Bereich:** 91 bis 95
+- **Blöcke:** 1.442
+- **Bauteile:** `w491889271`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.138 |
+| Weißer Beton | `white_concrete` | 157 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Polierter Andesit | `polished_andesite` | 23 |
+| Grüner Beton | `green_concrete` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.11 – Palazzo des Cinquecento an Via dello Studio – Teil 7/8 (Y 96–98)
+
+- **Y-Bereich:** 96 bis 98
+- **Blöcke:** 1.999
+- **Bauteile:** `w491889271`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.137 |
+| Orange Keramik | `orange_terracotta` | 532 |
+| Fichtenholz-Bretter | `spruce_planks` | 242 |
+| Weißer Beton | `white_concrete` | 78 |
+| Polierter Andesit | `polished_andesite` | 10 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.12 – Palazzo des Cinquecento an Via dello Studio – Teil 8/8 (Y 99–104)
+
+- **Y-Bereich:** 99 bis 104
+- **Blöcke:** 1.546
+- **Bauteile:** `w491889271`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.398 |
+| Ziegelsteine | `bricks` | 148 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.13 – Casa Sermanni – Teil 1/8 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 757
+- **Bauteile:** `w491889292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 757 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.14 – Casa Sermanni – Teil 2/8 (Y 67–68)
+
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 2.081
+- **Bauteile:** `w491889292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.807 |
+| Weißer Beton | `white_concrete` | 200 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Glatter Stein | `smooth_stone` | 16 |
+| Polierter Andesit | `polished_andesite` | 10 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.15 – Casa Sermanni – Teil 3/8 (Y 69–75)
+
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.835
+- **Bauteile:** `w491889292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.046 |
+| Graues Buntglas | `gray_stained_glass` | 436 |
+| Glatter Stein | `smooth_stone` | 257 |
+| Grüner Beton | `green_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 46 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.16 – Casa Sermanni – Teil 4/8 (Y 76–81)
+
+- **Y-Bereich:** 76 bis 81
+- **Blöcke:** 1.897
+- **Bauteile:** `w491889292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.328 |
+| Glatter Stein | `smooth_stone` | 435 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Polierter Andesit | `polished_andesite` | 32 |
 | Grüner Beton | `green_concrete` | 26 |
-| Glatter Stein | `smooth_stone` | 10 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -229,25 +553,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.7 – Reihenhaus an Piazza delle Pallottole – Teil 3/3 (Y 82–91)
+### Schritt 14.17 – Casa Sermanni – Teil 5/8 (Y 82–88)
 
-- **Y-Bereich:** 82 bis 91
-- **Blöcke:** 1.507
-- **Bauteile:** `w491889285`
+- **Y-Bereich:** 82 bis 88
+- **Blöcke:** 2.078
+- **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 986 |
-| Rosa Keramik | `pink_terracotta` | 318 |
-| Fichtenholz-Bretter | `spruce_planks` | 156 |
-| Ziegelsteine | `bricks` | 45 |
-| Graues Buntglas | `gray_stained_glass` | 2 |
+| Weißer Beton | `white_concrete` | 1.372 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Graues Buntglas | `gray_stained_glass` | 176 |
+| Grüner Beton | `green_concrete` | 104 |
+| Polierter Andesit | `polished_andesite` | 48 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -261,25 +585,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.8 – Reihenhaus an Via dei Bonizzi – Teil 1/3 (Y 67–77)
+### Schritt 14.18 – Casa Sermanni – Teil 6/8 (Y 89–95)
 
-- **Y-Bereich:** 67 bis 77
-- **Blöcke:** 1.494
-- **Bauteile:** `w491889286`
+- **Y-Bereich:** 89 bis 95
+- **Blöcke:** 2.075
+- **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 793 |
-| Polierter Tuffstein | `polished_tuff` | 504 |
-| Polierter Andesit | `polished_andesite` | 137 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
+| Weißer Beton | `white_concrete` | 1.312 |
+| Glatter Stein | `smooth_stone` | 367 |
+| Graues Buntglas | `gray_stained_glass` | 220 |
+| Grüner Beton | `green_concrete` | 130 |
+| Polierter Andesit | `polished_andesite` | 46 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -293,24 +617,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.9 – Reihenhaus an Via dei Bonizzi – Teil 2/3 (Y 78–90)
+### Schritt 14.19 – Casa Sermanni – Teil 7/8 (Y 96–98)
 
-- **Y-Bereich:** 78 bis 90
-- **Blöcke:** 1.383
-- **Bauteile:** `w491889286`
+- **Y-Bereich:** 96 bis 98
+- **Blöcke:** 2.011
+- **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.000 |
-| Polierter Andesit | `polished_andesite` | 183 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-| Fichtenholz-Bretter | `spruce_planks` | 88 |
+| Terrakotta | `terracotta` | 921 |
+| Weißer Beton | `white_concrete` | 630 |
+| Glatter Stein | `smooth_stone` | 446 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -324,26 +648,87 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.10 – Reihenhaus an Via dei Bonizzi – Teil 3/3 (Y 91–101)
+### Schritt 14.20 – Casa Sermanni – Teil 8/8 (Y 99–105)
 
-- **Y-Bereich:** 91 bis 101
-- **Blöcke:** 1.453
-- **Bauteile:** `w491889286`
+- **Y-Bereich:** 99 bis 105
+- **Blöcke:** 1.707
+- **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 617 |
-| Endsteinziegel | `end_stone_bricks` | 582 |
-| Polierter Andesit | `polished_andesite` | 109 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
-| Ziegelsteine | `bricks` | 45 |
-| Fichtenholz-Bretter | `spruce_planks` | 44 |
+| Terrakotta | `terracotta` | 1.585 |
+| Ziegelsteine | `bricks` | 122 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.21 – Reihenhaus an Via dei Bonizzi – Teil 1/2 (Y 67–81)
+
+- **Y-Bereich:** 67 bis 81
+- **Blöcke:** 1.781
+- **Bauteile:** `w491889294`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 895 |
+| Polierter Tuffstein | `polished_tuff` | 605 |
+| Weißer Beton | `white_concrete` | 182 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Glatter Stein | `smooth_stone` | 21 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.22 – Reihenhaus an Via dei Bonizzi – Teil 2/2 (Y 82–97)
+
+- **Y-Bereich:** 82 bis 97
+- **Blöcke:** 1.851
+- **Bauteile:** `w491889294`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 877 |
+| Glatter Sandstein | `smooth_sandstone` | 582 |
+| Weißer Beton | `white_concrete` | 180 |
+| Fichtenholz-Bretter | `spruce_planks` | 128 |
+| Ziegelsteine | `bricks` | 42 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 

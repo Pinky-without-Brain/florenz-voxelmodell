@@ -76,7 +76,7 @@ test('Gebäude: Kuppel bei (0,0), Felder, eindeutige IDs', () => {
   assert.equal(new Set(g.map((x) => x.id)).size, g.length);
   for (const x of g) {
     assert.ok(x.polygon.aussen.length >= 1 && x.flaecheBl > 0);
-    assert.ok(['height', 'levels', 'schaetzung'].includes(x.hoeheQuelle) && x.hoeheBl > 0);
+    assert.ok(['height', 'levels', 'schaetzung', 'korrektur'].includes(x.hoeheQuelle) && x.hoeheBl > 0);
     assert.ok(x.bodenY >= 0 && x.bodenY <= 319);
     assert.match(x.isolato, /^I\d{4}$/);
   }

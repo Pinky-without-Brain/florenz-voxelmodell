@@ -123,6 +123,18 @@ function buildProject(project, opts, env) {
           grid: world.grid, outDir, projectId: project.legacy ? undefined : project.id });
         emitted.push({ module: m.module, ...r });
       }
+      if (!project.legacy && complete) {
+        // Veraltete Moduldateien entfernen (Quartier hat jetzt weniger Module als beim letzten Bau)
+        const keep = new Set(world.modules.map((m) => m.module));
+        const docsDir = path.join(root, 'projects', project.id, 'docs');
+        for (const [dir, re] of [[outDir, /^module_(\d+)\.js$/], [docsDir, /^BAUANLEITUNG_MODUL_(\d+)\.md$/]]) {
+          if (!fs.existsSync(dir)) continue;
+          for (const f of fs.readdirSync(dir)) {
+            const mm = re.exec(f);
+            if (mm && !keep.has(Number(mm[1]))) { fs.unlinkSync(path.join(dir, f)); console.log(`Veraltet entfernt: ${f}`); }
+          }
+        }
+      }
       if (project.legacy) {
         // Umgebungsdaten des Doms (immer, auch bei --modules)
         const { emitSite } = require('./emit/site.js');
