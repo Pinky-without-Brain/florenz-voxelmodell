@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Erdgeschoss mit Rustika",
+  "subtitle": "Bautüte 1: Die rauen Mauern des Erdgeschosses mit Portalen und Fenstern, 8 Meter hoch",
+  "icon": "🏛️",
+  "parts": {
+    "eg_wand_west": {
+      "title": "Westfassade zur Piazza",
+      "description": "Du mauerst die Piazza-Fassade fünf Zellen dick aus rauem Rustika, von Y 69 bis Y 84. Neun Achsen stehen im Abstand von zehn Zellen, acht davon tragen ein Fenster, drei breit und sechs hoch. Beim Hauptportal bei u = 55 lässt du eine Öffnung von acht mal zwölf Zellen frei, rahmst sie zwei Zellen breit mit weißem Marmor und setzt oben die Wappentafel ein. Die hölzerne Tür sitzt tief in der Wand.",
+      "tip": "Die Fensterachsen und das Portal sind Parameter am Anfang der Moduldatei. Sie lassen sich nach einem Fotovergleich leicht verschieben.",
+      "caution": "Die Wappentafel reicht bis in die erste Lage des Obergeschosses. Setze sie jetzt, Modul 2 spart die Zellen aus.",
+      "fact": "Das Portal mit Marmorrahmen stammt von 1528 und wird von zwei Termen gerahmt. Die Zahl von neun Fensterachsen leiten wir aus den 18 Konsolbögen ab und sie ist nicht gezählt."
+    },
+    "eg_wand_nord_sued_a": {
+      "title": "Nord- und Südseite des Arnolfo-Blocks",
+      "description": "Auch die beiden Längsseiten des Arnolfo-Blocks sind Rustika, fünf Zellen dick. An der Nordseite zur Via dei Gondi öffnest du das Tramontana-Portal, sechs breit und zehn hoch, mit Marmorrahmen und einem Tympanon darüber. An der Südseite zur Via della Ninna sitzt eine kleine Tür, drei breit und sechs hoch.",
+      "tip": "Die Fenster haben dieselbe Teilung von zehn Zellen wie an der Westfassade. Der Rest der Kante bleibt an den Enden.",
+      "caution": "Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der dritten und vierten Zelle von außen.",
+      "fact": "Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters."
+    },
+    "eg_wand_mittelbauten": {
+      "title": "Mauern der Anbauten",
+      "description": "Die jüngeren Bauteile im Süden, Osten und im Mittelstreifen bekommen ebenfalls Rustika im Erdgeschoss. Die Fenster sind drei breit und fünf hoch, mit einem Achsabstand von acht Zellen. An der Via dei Leoni setzt du in der Mitte der Kante das Portal von Buontalenti ein, acht breit und vierzehn hoch, mit einem Keilsteinbogen aus grauem Pietra serena und einem Wappen darüber.",
+      "tip": "Lass an den Ecken und an den Lisenen der Ostseite je drei Zellen frei. Sie baust du in Modul 8 mit Eckquadern und Lisenen.",
+      "caution": "Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni, bevor du sie festlegst.",
+      "fact": "Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß."
+    },
+    "eg_dogana_tuer": {
+      "title": "Dogana-Tür (optional)",
+      "description": "An der Nordseite des Ostblocks setzt du bei x = −35 die Tür zur Dogana ein, drei breit und sechs hoch. Ein Rahmen aus grauem Pietra serena fasst sie ein, darüber sitzen drei kleine Zinnen in den Lagen Y 82 und 83.",
+      "tip": "Die Öffnung bleibt Luft. Du baust nur Rahmen und Zinnen.",
+      "caution": "Dieses Bauteil ist eine Option. Lässt du es weg, schließt sich die Mauer an dieser Stelle glatt.",
+      "fact": "Der zweite Hof heißt Cortile della Dogana, nach dem Zollamt, das hier einst untergebracht war."
+    }
+  }
+}

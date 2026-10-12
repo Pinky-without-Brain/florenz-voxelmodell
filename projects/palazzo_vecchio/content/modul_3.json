@@ -1,0 +1,50 @@
+{
+  "module": 3,
+  "title": "Ballatoio und Zinnen",
+  "subtitle": "Bautüte 3: Die auskragende Wehrgalerie auf Konsolen mit Guelfenzinnen",
+  "icon": "🏰",
+  "parts": {
+    "gesims_marcapiano": {
+      "title": "Gesimsband unter der Galerie",
+      "description": "Auf Y 117 legst du rund um den Arnolfo-Block ein Gesims, das eine Zelle vor die Wand springt. Es ist das Auflager der Konsolen und zeigt das Ende der Fensterzone an.",
+      "tip": "Das Band muss rundum lückenlos sein, auch an den Ecken.",
+      "caution": "Es läuft nur um die Außenseiten, nicht an der Grenze zu den Anbauten.",
+      "fact": "Unter der Wehrgalerie sieht man an der Fassade bis heute eine Reihe von Wappen."
+    },
+    "konsolen": {
+      "title": "Konsolen, Rundbögen und Wappen",
+      "description": "Von Y 118 bis Y 123 baust du die Rückwand der Galerie drei Zellen dick. Davor setzt du im Abstand von rund fünf Zellen die Konsolen, erst eine Zelle, ab Y 120 drei Zellen weit vorspringend. Zwischen ihnen schlägst du die Rundbögen in der Außenebene. An der Westfassade sind es 18 Bögen. Hinter jedem Bogen malst du ein Wappen aus zwei mal zwei bunten Blöcken.",
+      "tip": "Die Wappenfarben wechseln nach einem Zyklus von neun. So entstehen die neun Wappen, die sich zweimal wiederholen.",
+      "caution": "Die Bogenmitten tragen später die Zinnen. Baue die Bögen sauber mittig zwischen die Konsolen.",
+      "fact": "Die Wappen unter den Bögen zeigen Volk, Lilie, Parte Guelfa, Anjou und weitere Zeichen der Stadt. Sie heißen Stemmi."
+    },
+    "ballatoio_boden": {
+      "title": "Boden der Galerie",
+      "description": "Auf Y 124 legst du den Gangboden. Er reicht von innen bis fünf Zellen hinter die Außenkante und kragt über den Konsolen drei Zellen vor die Wand hinaus. In der Mitte jedes zweiten Bogens lässt du ein Wurfloch frei, zwei Zellen lang und eine breit.",
+      "tip": "Die Wurflöcher gehen durch den ganzen Boden. Von oben siehst du durch sie auf die Straße.",
+      "caution": "Der Boden muss auf allen Konsolen aufliegen, sonst fehlt der Halt.",
+      "fact": "Durch solche Öffnungen konnten Verteidiger Steine und heißes Pech auf Angreifer werfen. Man nennt sie Pechnasen."
+    },
+    "bruestung": {
+      "title": "Brüstung der Galerie",
+      "description": "Von Y 125 bis Y 128 mauerst du die Brüstung, zwei Zellen dick, am äußeren Rand der Galerie. Sie läuft um die Westfassade, die Nord- und Südseite und auf der Ostseite an der Grenze zu den Anbauten entlang.",
+      "tip": "Arbeite Lage für Lage rund um den Block. Das Muster der Brüstung ist ganz glatt.",
+      "caution": "Auf der Ostseite steht die Brüstung über dem Dach der Nachbarn. Setze sie dort auf der Dachhöhe an.",
+      "fact": "Das Ballatoio umläuft den Arnolfo-Block ganz und trägt die Zinnen. Die Zinnen dahinter heißen guelfisch, weil sie quadratisch sind."
+    },
+    "zinnen_guelfisch": {
+      "title": "Guelfenzinnen",
+      "description": "Auf die Brüstung setzt du die Zinnen, in den Lagen Y 129 und 130: quadratisch, drei breit und zwei hoch, mit Lücken von zwei Zellen. Über jedem Bogenmittelpunkt steht eine Zinne. Mit Y 130 erreicht der Palast seine Oberkante.",
+      "tip": "Zähle die Zinnen an der Westfassade. Sie müssen genau über den Bögen sitzen.",
+      "caution": "Die Oberkante Y 130 ist der Anschluss für den Turm. Hier endet der Palastkörper.",
+      "fact": "Guelfische Zinnen sind quadratisch, ghibellinische haben Schwalbenschwänze. Die Zinnen des Turmes sind ghibellinisch, die des Palastes guelfisch."
+    },
+    "eckmarzocchi": {
+      "title": "Marzocchi in den Ecken (optional)",
+      "description": "In den vier Ecken des Galeriegangs setzt du je einen Marzocco, den Löwen von Florenz. Der Sockel aus grauem Stein ist zwei mal zwei Zellen groß und eine Lage hoch, die weiße Figur darüber zwei Lagen.",
+      "tip": "Stelle die Figur auf den Gangboden, nicht in den Bereich der Brüstung.",
+      "caution": "Die Figur ist eine vereinfachte Blockfigur und nicht nach einem Vorbild gearbeitet.",
+      "fact": "Der Marzocco ist das Wappentier der Republik Florenz. Auf dem Platz vor dem Palast steht bis heute einer."
+    }
+  }
+}

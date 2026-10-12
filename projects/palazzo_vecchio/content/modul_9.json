@@ -1,0 +1,57 @@
+{
+  "module": 9,
+  "title": "Decken, Salone und Innenwände",
+  "subtitle": "Bautüte 9: Die Geschossdecken, der Salone dei Cinquecento und die tragenden Innenwände",
+  "icon": "🎨",
+  "parts": {
+    "decke_eg": {
+      "title": "Decke über dem Erdgeschoss",
+      "description": "Auf Y 84 legst du die Decke über dem Erdgeschoss aus grauem Pietra serena, überall wo innen Platz ist. Der Turm bleibt hohl, die Höfe bleiben offen.",
+      "tip": "Die Decke schließt an die Wandbänder an, die du schon gebaut hast.",
+      "caution": "Der Turmgrundriss bleibt ausgespart, sonst ist der Hohlraum zu.",
+      "fact": "Die Decke des Erdgeschosses ist zugleich der Fußboden des Salone."
+    },
+    "decke_og1": {
+      "title": "Decke über dem ersten Obergeschoss",
+      "description": "Auf Y 101 folgt die nächste Decke. Der Salone und der Turm bleiben ausgespart. An der Südwestecke ist sie der Boden der Brücke zu den Uffizien.",
+      "tip": "Auf dieser Decke beginnt die Gehfläche der Brücke bei Y 102.",
+      "caution": "Der Raum des Salone bleibt frei.",
+      "fact": "Die Brücke des Korridors liegt auf genau dieser Höhe."
+    },
+    "decke_og2": {
+      "title": "Decke über dem zweiten Obergeschoss",
+      "description": "Auf Y 117 legst du die letzte Geschossdecke. Der Salone und der Turm bleiben wieder ausgespart.",
+      "tip": "Kontrolliere, ob die Decke überall an die Wand anschließt.",
+      "caution": "Der Turmhohlraum bleibt leer.",
+      "fact": "Über dieser Decke beginnt das Dachgeschoss."
+    },
+    "decke_dach": {
+      "title": "Decke unter den Dächern",
+      "description": "Auf Y 124 legst du die Decke unter dem Dach. Sie ist das Auflager der Dächer. Salone und Turm bleiben frei.",
+      "tip": "Die Decke deckt auch den Gang des Ballatoio ab, soweit er nicht schon belegt ist.",
+      "caution": "Der Salone hat seine eigene Decke.",
+      "fact": "Unter dieser Decke liegen die Dachböden des Palastes."
+    },
+    "salone_waende": {
+      "title": "Wände des Salone dei Cinquecento",
+      "description": "Der Salone misst 112 mal 52 Zellen im Außenmaß, innen 104 mal 44, das sind 52 mal 22 Meter. Die Wände sind vier Zellen dick und reichen von Y 85 bis Y 124. Innen setzt du alle acht Zellen Pfeiler aus Pietra serena. Wo die Außenwand des Palastes liegt, gewinnt sie.",
+      "tip": "Die Lage des Saales im Grundriss ist geschätzt. Das Maß ist belegt.",
+      "caution": "Die lichte Höhe beträgt 36 Zellen, das sind 18 Meter. Bau die Wände Lage für Lage mit.",
+      "fact": "Cronaca baute den Saal 1494 für den Großen Rat Savonarolas. Vasari schmückte ihn später mit den großen Gemälden."
+    },
+    "salone_decke": {
+      "title": "Kassettendecke des Salone",
+      "description": "Auf Y 121 spannst du die Decke über den Saal, abwechselnd aus dunklem Holz und hellem Pietra serena in einem Raster von acht mal acht. Darüber folgen drei massive Lagen bis Y 124.",
+      "tip": "Das Schachbrett folgt der Fassadenrichtung.",
+      "caution": "Die Decke ist stark vereinfacht. Echte Kassetten sind viel feiner.",
+      "fact": "Vasari ließ die Decke mit 39 Feldern von Gemälden gestalten, die die Herrschaft der Medici feiern."
+    },
+    "innenwaende_a": {
+      "title": "Tragende Innenwände (optional)",
+      "description": "Im Arnolfo-Block ziehst du je zwei Querwände in beide Richtungen, zwei Zellen dick, von Y 69 bis Y 117. An den Kreuzungen sparst du Türen aus, drei breit und acht hoch. Der Turm bleibt hohl.",
+      "tip": "Lässt du die Wände weg, sparst du rund 20.000 Blöcke.",
+      "caution": "Die Lage der Wände ist eine Annahme, die den Außenwänden und Höfen ausweicht.",
+      "fact": "Die Innenwände tragen die Decken und steifen den hohen Block aus."
+    }
+  }
+}

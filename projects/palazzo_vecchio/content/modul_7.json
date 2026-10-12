@@ -1,0 +1,36 @@
+{
+  "module": 7,
+  "title": "Dächer",
+  "subtitle": "Bautüte 7: Walmdächer, Terrassen und das Satteldach über dem Salone",
+  "icon": "🏠",
+  "parts": {
+    "dach_arnolfo": {
+      "title": "Dach des Arnolfo-Blocks",
+      "description": "Hinter der Brüstung deckst du den Arnolfo-Block mit einem flachen Walmdach aus Ziegeln, zwei Lagen stark. Es beginnt auf Y 125 am Gangrand und steigt mit 0,4 je Zelle, höchstens vier Lagen.",
+      "tip": "Die Oberkante bleibt unter den Zinnen. So bleibt das Dach von der Straße unsichtbar.",
+      "caution": "Der Turm und die Höfe bleiben ausgespart.",
+      "fact": "Das Dach liegt hinter dem Ballatoio verborgen. Man sieht es nur aus der Ferne."
+    },
+    "terrasse_mittelbauten": {
+      "title": "Terrassen der Anbauten",
+      "description": "Der Mittelstreifen und der Südblock bekommen ein Flachdach: eine Platte aus grauem Stein auf Y 125, am Außenrand mit einer Brüstung aus hellem Putz auf Y 126.",
+      "tip": "Die Brüstung gibt es nur an den freien Außenkanten, nicht an den Grenzen zum Arnolfo-Block.",
+      "caution": "Dünne Randstreifen ohne Anschluss an den Arnolfo-Block gehören zum Dach des Ostblocks.",
+      "fact": "Die flachen Terrassen sind eine Annahme für die Dächer der Anbauten."
+    },
+    "dach_ostblock": {
+      "title": "Dach des Ostblocks",
+      "description": "Der Ostblock bekommt ein Walmdach aus Ziegeln. Die Traufe liegt auf Y 125, der Anstieg beträgt 0,4 je Zelle bis höchstens zehn Lagen. Der Bereich des Salone bleibt für sein eigenes Dach frei.",
+      "tip": "Die Fläche ist groß. Teile sie in Streifen und arbeite von Westen nach Osten.",
+      "caution": "Am Rand der Höfe und am Salone endet das Dach als Traufe.",
+      "fact": "Der Ostblock entstand im 16. Jahrhundert. Die Dachform ist geschätzt."
+    },
+    "dach_salone": {
+      "title": "Satteldach über dem Salone",
+      "description": "Der Salone dei Cinquecento erhält ein Satteldach. Die Traufe liegt auf Y 125, der First auf Y 134, die Firstlinie läuft parallel zur Längsachse. Die Dachhaut ist zwei Lagen stark.",
+      "tip": "Der Anstieg beträgt 9 Zellen auf 26 Zellen Halbbreite.",
+      "caution": "Die Giebelwände an den Schmalseiten baust du in Modul 8.",
+      "fact": "Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anheben."
+    }
+  }
+}

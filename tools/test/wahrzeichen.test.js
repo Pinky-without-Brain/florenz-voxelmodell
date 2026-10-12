@@ -402,7 +402,8 @@ test('Webindex: Wahrzeichen-Projekt mit gebaeude unterdrückt den geplanten Plat
     const mine = before.filter((e) => (e.gebaeude || []).includes('r1461712'));
     assert.equal(mine.length, 1);
     assert.equal(mine[0].id, 'palazzo_vecchio');
-    assert.equal(mine[0].status, 'in_arbeit');
+    // 'gebaut', sobald unter REAL_ROOT/webapp/data/palazzo_vecchio erzeugte Daten liegen (V3 W3)
+    assert.ok(['in_arbeit', 'gebaut'].includes(mine[0].status), mine[0].status);
     assert.equal(mine[0].type, 'wahrzeichen');
     assert.ok(!before.some((e) => e.id === pv.id && e.status === 'geplant'));
     assert.ok(!before.some((e) => e.id !== 'palazzo_vecchio' && (e.gebaeude || []).includes('r1461712')));
