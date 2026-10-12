@@ -19,12 +19,20 @@
     <div class="brand-section">
       <div class="builder-badge">MEISTERBAU</div>
       <div class="project-title">
-        <h1>Cathedral of Santa Maria del Fiore</h1>
+        <h1 id="projectTitle">Cathedral of Santa Maria del Fiore</h1>
         <span>Florenz • Minecraft 1.18+ Maßstab 1 : 2 (1 Block = 0,5 m)</span>
       </div>
     </div>
 
     <div class="header-controls">
+      <div class="mode-switch" role="tablist" aria-label="Ansicht">
+        <button id="btnModeSteps" class="mode-btn active" role="tab" title="Bauanleitung Schritt für Schritt">🏛️ Bauanleitung</button>
+        <button id="btnModeCity" class="mode-btn" role="tab" title="Stadtmodell Florenz mit Stadtplan">🌆 Stadt</button>
+      </div>
+      <select id="projectSelect" class="module-dropdown" title="Projekt wählen"></select>
+      <button id="btnCityOverview" class="btn-header city-only" title="Ganze Stadt von oben">🌍 Gesamtansicht</button>
+      <button id="btnCityHome" class="btn-header city-only" title="Zurück zum Domplatz">📍 Zentrum</button>
+      <button id="btnCityMap" class="btn-header city-only active" title="Stadtplan ein- oder ausblenden">🗺️ Stadtplan</button>
       <select id="moduleSelect" class="module-dropdown" title="Wähle das Baumodul (Bautüte)"></select>
       <button id="btnToggleBase" class="btn-header" title="Bereits fertig gebaute Module als Fundament/Basis ein- oder ausblenden">
         🏛️ Basis-Module: AN
@@ -44,6 +52,37 @@
   <main class="main-stage">
     <!-- 3D WebGL Canvas Container -->
     <div id="viewport3d"></div>
+
+    <!-- STADTANSICHT (V3): eigene 3D-Szene, Stadtplan, Projektkarte -->
+    <div id="viewportCity" class="city-viewport" hidden></div>
+    <div id="pinTooltip" class="map-tooltip" style="z-index:70"></div>
+    <div id="cityLoading" class="city-loading" hidden>Stadt wird aufgebaut ...</div>
+
+    <aside id="cityMapPanel" class="city-map-panel city-only">
+      <div class="city-map-head">
+        <span>🗺️ Stadtplan</span>
+        <span class="city-legend">
+          <i style="background:#2e9e4f"></i>gebaut
+          <i style="background:#e8a317"></i>in Arbeit
+          <i style="background:#9a7b7b"></i>geplant
+        </span>
+        <button id="btnMapExpand" class="map-expand" title="Karte vergrößern">⤢</button>
+      </div>
+      <div class="city-map-wrap" id="cityMapWrap">
+        <canvas id="cityMapCanvas"></canvas>
+        <div id="mapTooltip" class="map-tooltip"></div>
+      </div>
+    </aside>
+
+    <aside id="cityInfo" class="city-info city-only">
+      <h2 id="cityInfoTitle">Florenz, Centro storico</h2>
+      <div id="cityInfoMeta" class="city-info-meta"></div>
+      <div id="cityInfoBody" class="city-info-body">Wähle ein Projekt im Stadtplan oder klicke einen Marker in der 3D-Ansicht.</div>
+      <div id="cityInfoModules" class="city-info-modules"></div>
+      <button id="btnOpenSteps" class="nav-btn nav-btn-next city-open-steps" hidden>Bauanleitung öffnen ▶</button>
+      <div id="cityStats" class="city-stats"></div>
+      <label class="city-sight">Sichtweite Voxel <input type="range" id="citySight" min="300" max="3000" step="100" value="1400"><span id="citySightVal">1400</span></label>
+    </aside>
 
     <!-- TEILEBOX (Oben links) -->
     <aside class="parts-callout-box">
@@ -127,6 +166,10 @@
     </button>
   </footer>
 
+  <div class="attribution-bar">
+    Gebäude und Straßen: © OpenStreetMap-Mitwirkende (ODbL) · Gelände: Comune di Firenze, DTM LiDAR 2017, CC BY 4.0
+  </div>
+
   <!-- ======================================================================
        MODAL: EXAKTE STÜCKLISTE (BILL OF MATERIALS)
        ====================================================================== -->
@@ -160,8 +203,13 @@
   <script src="js/data/v2/site.js"></script>
   <script src="js/data/v2-loader.js"></script>
   <script src="js/data/project-florence.js"></script>
+  <script src="data/projekte.js"></script>
+  <script src="js/data/v3-loader.js"></script>
   <script src="js/engine/step-analyzer.js"></script>
+  <script src="js/engine/chunk-mesher.js"></script>
   <script src="js/engine/voxel-renderer.js"></script>
+  <script src="js/engine/city-view.js"></script>
+  <script src="js/ui/city-map.js"></script>
   <script src="js/ui/app.js"></script>
 
 </body>

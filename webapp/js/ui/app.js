@@ -10,6 +10,9 @@ window.App = (function() {
   let autoPlayTimer = null;
   let showBaseModules = true;
   let isInOverviewMode = false;
+  let mode = "steps";              // "steps" (Bauanleitung) oder "city" (Stadtmodell)
+  let currentProjectId = "duomo";
+  let cityState = { promise: null, ready: false, selected: null, timings: null };
 
   // UI-Elemente
   const els = {};
@@ -34,11 +37,19 @@ window.App = (function() {
     loadProject(window.PROJECT_FLORENCE);
     updateCamLockState(true);
     updateBaseButtonState();
+    initProjectUi();
 
     // URL-Parameter prüfen (z.B. ?overview=1 oder ?module=modul_5&step=last)
     try {
       const urlParams = new URLSearchParams(window.location.search);
-      if (urlParams.get("overview") === "1") {
+      if (urlParams.get("overview") === "mesh" && window.VoxelRenderer.setOverviewMesher) {
+        window.VoxelRenderer.setOverviewMesher(true);
+      }
+      if (urlParams.get("mode") === "city") {
+        setMode("city");
+      } else if (urlParams.get("project") && urlParams.get("project") !== "duomo") {
+        selectProject(urlParams.get("project"));
+      } else if (urlParams.get("overview") === "1" || urlParams.get("overview") === "mesh") {
         enterOverviewMode();
       } else if (urlParams.get("module")) {
         const targetModId = urlParams.get("module");
@@ -70,6 +81,8 @@ window.App = (function() {
 
   function cacheDom() {
     els.moduleSelect = document.getElementById("moduleSelect");
+    els.projectSelect = document.getElementById("projectSelect");
+    els.projectTitle = document.getElementById("projectTitle");
     els.stepSlider = document.getElementById("stepSlider");
     els.stepProgressText = document.getElementById("stepProgressText");
     els.btnPrev = document.getElementById("btnPrev");
@@ -209,6 +222,10 @@ window.App = (function() {
 
     // Tastaturbedienung mit Capture Phase (verhindert Fokussprünge und Dropdown-Fehlleitungen)
     window.addEventListener("keydown", (e) => {
+      if (mode === "city") {
+        if (e.key === "Escape") closeBomModal();
+        return;
+      }
       if (e.key === "ArrowRight" || e.key === "PageDown") {
         e.preventDefault();
         e.stopPropagation();
@@ -418,7 +435,7 @@ window.App = (function() {
     // Step Info Drawer für Gesamtansicht anpassen
     if (els.stepBadge) els.stepBadge.textContent = "🌟";
     if (els.stepCategory) els.stepCategory.textContent = "Meisterbau Florenz • Gesamtmodell";
-    if (els.stepTitle) els.stepTitle.textContent = "Cathedral of Santa Maria del Fiore";
+    if (els.stepTitle) els.stepTitle.textContent = currentProject && currentProjectId !== "duomo" ? currentProject.title : "Cathedral of Santa Maria del Fiore";
     if (els.stepDesc) {
       els.stepDesc.innerHTML = `Hier siehst du die gesamte Kathedrale mit allen bisher vollendeten Modulen im Zusammenspiel! 
       Vom kolossalen Fundament über das gotische Hauptschiff mit seinen Hallen bis zur prachtvollen Marmorfassade. 
@@ -523,6 +540,225 @@ window.App = (function() {
     if (els.bomModal) els.bomModal.classList.remove("open");
   }
 
+  // ======================================================================
+  // V3: Projektwahl, Modus-Umschalter, Stadtansicht
+  // ======================================================================
+  const STATUS_LABEL = { gebaut: "gebaut", in_arbeit: "in Arbeit", geplant: "geplant" };
+  const TYPE_LABEL = { wahrzeichen: "Wahrzeichen", quartier: "Quartier", stadtgrund: "Stadtgrund" };
+  const hasSteps = (e) => !!(e && e.modules && e.modules.length > 0);
+
+  function initProjectUi() {
+    populateProjectSelect();
+    // Demo-Eintrag (?demo=1) wird nachgeladen; Auswahl danach aktualisieren
+    if (window.ProjectLoader) {
+      window.ProjectLoader.loadDemoIfRequested().then(() => {
+        populateProjectSelect();
+        if (cityState.ready && window.CityMap) window.CityMap.refreshIndex(window.ProjectLoader.index());
+      }).catch(() => {});
+    }
+    const bind = (id, fn) => {
+      const el = document.getElementById(id);
+      if (el) el.addEventListener("click", (e) => { fn(e); if (el.blur) el.blur(); });
+    };
+    bind("btnModeSteps", () => setMode("steps"));
+    bind("btnModeCity", () => setMode("city"));
+    bind("btnCityOverview", () => window.CityView && window.CityView.overview());
+    bind("btnCityHome", () => window.CityView && window.CityView.home());
+    bind("btnCityMap", () => {
+      const panel = document.getElementById("cityMapPanel");
+      const hidden = panel.classList.toggle("hidden-map");
+      document.getElementById("btnCityMap").classList.toggle("active", !hidden);
+      if (!hidden && window.CityMap) window.CityMap.draw();
+    });
+    bind("btnMapExpand", () => {
+      document.getElementById("cityMapPanel").classList.toggle("expanded");
+      setTimeout(() => window.CityMap && window.CityMap.fit(), 30);
+    });
+    bind("btnOpenSteps", () => { if (cityState.selected) openProjectSteps(cityState.selected); });
+    const sight = document.getElementById("citySight");
+    if (sight) {
+      sight.addEventListener("input", () => {
+        document.getElementById("citySightVal").textContent = sight.value;
+        if (window.CityView) { window.CityView.cfg.showDist = Number(sight.value); window.CityView.update(); }
+      });
+    }
+    if (els.projectSelect) {
+      els.projectSelect.addEventListener("change", () => {
+        const id = els.projectSelect.value;
+        if (mode === "city") citySelect(id, true); else selectProject(id);
+        if (els.projectSelect.blur) els.projectSelect.blur();
+      });
+    }
+  }
+
+  function populateProjectSelect() {
+    if (!els.projectSelect || !window.ProjectLoader) return;
+    const idx = window.ProjectLoader.index();
+    const keep = els.projectSelect.value || currentProjectId;
+    els.projectSelect.innerHTML = "";
+    // Gebaute Projekte zuerst, danach in Arbeit, dann geplant
+    const rank = { gebaut: 0, in_arbeit: 1, geplant: 2 };
+    idx.slice().sort((a, b) => (rank[a.status] - rank[b.status]) || 0).forEach(e => {
+      const opt = document.createElement("option");
+      opt.value = e.id;
+      opt.textContent = `${e.title} (${STATUS_LABEL[e.status] || e.status})`;
+      if (mode === "steps" && !hasSteps(e)) opt.disabled = true;
+      els.projectSelect.appendChild(opt);
+    });
+    els.projectSelect.value = keep;
+  }
+
+  function setMode(next) {
+    if (next === mode) return;
+    mode = next;
+    document.body.classList.toggle("mode-city", mode === "city");
+    document.getElementById("btnModeSteps").classList.toggle("active", mode === "steps");
+    document.getElementById("btnModeCity").classList.toggle("active", mode === "city");
+    populateProjectSelect();
+    if (mode === "city") {
+      if (window.VoxelRenderer && window.VoxelRenderer.setPaused) window.VoxelRenderer.setPaused(true);
+      ensureCity().then(() => {
+        window.CityView.setActive(true);
+        window.CityView.resize();
+        if (window.CityMap) window.CityMap.fit();
+        if (cityState.selected) citySelectUi(cityState.selected);
+      }).catch(err => { console.error(err); showCityLoading(false); });
+    } else {
+      if (window.CityView) window.CityView.setActive(false);
+      if (window.VoxelRenderer && window.VoxelRenderer.setPaused) window.VoxelRenderer.setPaused(false);
+      window.dispatchEvent(new Event("resize"));
+      if (els.projectSelect) els.projectSelect.value = currentProjectId;
+    }
+  }
+
+  function showCityLoading(on) {
+    const el = document.getElementById("cityLoading");
+    if (el) el.classList.toggle("show", on);
+  }
+
+  // Basisdaten laden, Szene bauen, gebaute Projekte als Voxel nachladen
+  function ensureCity() {
+    if (cityState.promise) return cityState.promise;
+    showCityLoading(true);
+    const t0 = performance.now();
+    cityState.promise = window.ProjectLoader.loadBasis().then(basis => {
+      const tLoad = performance.now() - t0;
+      const idx = window.ProjectLoader.index();
+      const container = document.getElementById("viewportCity");
+      window.CityView.init(container, { onPick: (id) => citySelect(id, true), onHover: cityPinHover });
+      const tScene = window.CityView.buildScene(basis, idx);
+      window.CityMap.init({
+        canvas: document.getElementById("cityMapCanvas"), tooltip: document.getElementById("mapTooltip"),
+        wrap: document.getElementById("cityMapWrap"), onPick: (id) => citySelect(id, true),
+        getCamera: () => window.CityView.cameraState()
+      });
+      const tMap = window.CityMap.build(basis, idx);
+      setInterval(() => { if (mode === "city") window.CityMap.draw(); }, 250);
+      cityState.timings = { dataLoadMs: tLoad, scene: tScene, mapMs: tMap, sceneReadyMs: performance.now() - t0 };
+      cityState.ready = true;
+      window.__cityTimings = cityState.timings;
+      showCityLoading(false);
+      console.log("Stadt: Szene bereit nach " + cityState.timings.sceneReadyMs.toFixed(0) + " ms (Daten " + tLoad.toFixed(0) + ")");
+      // gebaute Projekte als Voxel nachladen (Dom)
+      const tv = performance.now();
+      return Promise.all(idx.filter(e => e.status === "gebaut" && hasSteps(e)).map(e => window.CityView.loadVoxels(e.id))).then(() => {
+        cityState.timings.voxelsMs = performance.now() - tv;
+        cityState.timings.readyMs = performance.now() - t0;
+        window.__cityTimings = cityState.timings;
+        startCityStats();
+      });
+    });
+    return cityState.promise;
+  }
+
+  function startCityStats() {
+    const el = document.getElementById("cityStats");
+    setInterval(() => {
+      if (mode !== "city" || !el) return;
+      const s = window.CityView.stats();
+      el.textContent = `${s.buildings} Gebäude · ${s.chunksVisible} Chunks sichtbar (${s.chunksMeshed} im Speicher) · ${s.fps ? s.fps.toFixed(0) : "-"} fps`;
+    }, 700);
+  }
+
+  function cityPinHover(id, ev) {
+    const tip = document.getElementById("pinTooltip");
+    if (!tip) return;
+    const e = id && window.ProjectLoader.entry(id);
+    if (!e) { tip.style.display = "none"; return; }
+    const r = document.querySelector(".main-stage").getBoundingClientRect();
+    tip.innerHTML = `<strong>${e.title}</strong><br>${TYPE_LABEL[e.type] || e.type} · ${STATUS_LABEL[e.status] || e.status}`;
+    tip.style.display = "block";
+    tip.style.left = Math.min(r.width - 200, ev.clientX - r.left + 14) + "px";
+    tip.style.top = Math.max(4, ev.clientY - r.top - 40) + "px";
+  }
+
+  function citySelect(id, fly) {
+    const e = window.ProjectLoader.entry(id);
+    if (!e) return;
+    cityState.selected = id;
+    if (els.projectSelect) els.projectSelect.value = id;
+    citySelectUi(id);
+    if (!cityState.ready) return;
+    window.CityView.setSelected(id);
+    window.CityMap.select(id);
+    if (fly) window.CityView.flyToProject(e);
+    if (hasSteps(e) && !window.CityView.isVoxelLoaded(id)) {
+      window.CityView.loadVoxels(id).then(() => window.CityView.update()).catch(err => console.warn(err));
+    }
+  }
+
+  function citySelectUi(id) {
+    const e = window.ProjectLoader.entry(id);
+    if (!e) return;
+    document.getElementById("cityInfoTitle").textContent = e.title;
+    const color = (window.CityView && window.CityView.STATUS_COLORS[e.status]) || "#999";
+    document.getElementById("cityInfoMeta").innerHTML =
+      `<span class="status-dot" style="background:${color}"></span>${TYPE_LABEL[e.type] || e.type} · ${STATUS_LABEL[e.status] || e.status}`;
+    const body = document.getElementById("cityInfoBody");
+    const mods = document.getElementById("cityInfoModules");
+    if (hasSteps(e)) {
+      const total = e.modules.reduce((a, m) => a + m.blocks, 0);
+      const steps = e.modules.reduce((a, m) => a + m.steps, 0);
+      body.textContent = `${e.modules.length} Module, ${steps} Bauschritte, ${total.toLocaleString("de-DE")} Blöcke. Ersetzt ${e.gebaeude.length} Gebäude der Stadtkarte.`;
+      mods.innerHTML = e.modules.map(m => `<div><span>Modul ${m.n}: ${m.title}</span><span>${m.steps} Schritte</span></div>`).join("");
+    } else {
+      body.textContent = e.status === "in_arbeit"
+        ? "Dieses Projekt ist in Arbeit, Bauschritte folgen."
+        : "Noch nicht gebaut. In der Stadtkarte steht das Gebäude als einfacher Baukörper aus OpenStreetMap.";
+      mods.innerHTML = "";
+    }
+    document.getElementById("btnOpenSteps").hidden = !hasSteps(e);
+  }
+
+  // Bauanleitung eines Projekts (Schritt-Ansicht) öffnen
+  function openProjectSteps(id) {
+    setMode("steps");
+    selectProject(id);
+  }
+
+  // Projekt für die Schritt-Ansicht wählen (project-aware): Dom aus den V2-Daten, andere per V3-Loader
+  function selectProject(id) {
+    const e = window.ProjectLoader && window.ProjectLoader.entry(id);
+    if (!e || !hasSteps(e)) return Promise.resolve(false);
+    if (id === currentProjectId && currentProject) return Promise.resolve(true);
+    return window.ProjectLoader.loadProject(id).then(project => {
+      if (isInOverviewMode) exitOverviewMode(false);
+      currentProjectId = id;
+      const isDuomo = id === "duomo";
+      if (window.VoxelRenderer) {
+        window.VoxelRenderer.setContext({ site: isDuomo, groundY: isDuomo ? 64 : Math.max(0, (e.bounds ? e.bounds.y0 : 64)) });
+        const bounds = computeModelBounds(project);
+        if (bounds) window.VoxelRenderer.setModelBounds(bounds);
+      }
+      if (els.projectTitle) els.projectTitle.textContent = isDuomo ? "Cathedral of Santa Maria del Fiore" : project.title;
+      if (els.projectSelect) els.projectSelect.value = id;
+      loadProject(project);
+      return true;
+    }).catch(err => { console.error(err); return false; });
+  }
+
+  function getMode() { return mode; }
+
   return {
     init,
     goToStep,
@@ -531,7 +767,11 @@ window.App = (function() {
     loadProject,
     selectModule,
     enterOverviewMode,
-    exitOverviewMode
+    exitOverviewMode,
+    setMode,
+    getMode,
+    selectProject,
+    citySelect
   };
 })();
 
