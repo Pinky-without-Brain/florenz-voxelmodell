@@ -121,3 +121,9 @@ Bericht: Konsolenzusammenfassung und `build/report.json` (Schritte je Modul, Bl�
 - Ohne `--modules` werden alle vorhandenen Moduldateien gebaut. Mit `--modules` nur die genannten; dabei werden die Abhängigkeiten, also alle kleineren Modulnummern, mitgebaut, aber nur die genannten emittiert.
 - `--strict` macht aus Warnungen Fehler.
 - Exit-Code 1 bei jedem Fehler.
+
+## 9. Bekannte Fallstricke (aus den abgenommenen Modulen)
+- **Hohlschalen aus Mengendifferenzen** (z. B. `inSphere(r) \ inSphere(r−1)`, Kreis- oder Achteckringe mit Neigung) sind oft nur über Kanten verbunden. R3 verlangt Flächenkontakt. Lösung: `vaults.connectEdges(cells)` auf die Zellmenge anwenden oder einen Abstandsbereich mit Breite ≥ 1,5 verwenden.
+- **Kreuzgewölbe:** `vaults.groinVault` (Laibung = max) mit `riseX`/`riseZ` verwenden. Für flache Bögen (Steighöhe < Halbweite) `arches.profileForRise` bzw. `archOpeningRise` nutzen. Die Formel aus A5 gilt nur für Spitzbögen.
+- **Bauteil-Reihenfolge:** Was auf etwas aufliegt, kommt danach (Gewölbe nach Wänden, Brüstung nach Boden, Treppenabschnitte je Geschoss). Treppen und Decken mit Löchern stehen ohne Symmetrie-Flag in eigenen Bauteilen.
+- **Auflager auf Modul 0:** Bauteile, die über ihren Boden-Footprint hinausragen (Vorsprünge, Gesimse), dürfen auf Y 65 nicht über den Boden von M0 hinausgehen (R5 „auf Boden“). Vorsprünge beginnen deshalb ab Y 66.
