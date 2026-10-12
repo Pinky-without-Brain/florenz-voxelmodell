@@ -1,0 +1,57 @@
+{
+  "module": 2,
+  "title": "Wände",
+  "subtitle": "Bautüte 2: Rückwand, Seitenwände, Seitenbogen und Wand über den Frontbögen",
+  "icon": "🏛️",
+  "parts": {
+    "sockel_waende": {
+      "title": "Sockel der Rück- und Westwand",
+      "description": "Unter Rückwand und Westwand setzt du einen zwei Lagen hohen Sockel aus Pietra serena (Y 68 bis 69, 858 Blöcke, X −244 bis −171, Z 857 bis 902). Die Rückwand ist im Westteil sechs Blöcke dick, im Ostteil drei.",
+      "tip": "Der Sockel hat dieselbe Höhe wie die Pfeilersockel; so läuft die Oberkante rundum durch.",
+      "caution": "Die Pilaster stehen schon; lass ihre Zellen aus.",
+      "fact": "Im Westen ist die Rückwand dicker: Dort ist der Grundriss gegenüber dem Ostteil um drei Blöcke tiefer."
+    },
+    "seitenwand_pfeilerverbindung": {
+      "title": "Schwelle des Seitenbogens",
+      "description": "Am Fuß der Ostseite legst du eine Schwelle aus Pietra serena, zwei Lagen hoch und drei Blöcke dick, über die Breite des Seitenbogens (X −172 bis −166, Y 68 bis 69, Z 885 bis 896, 78 Blöcke).",
+      "tip": "Sie schließt an die Sockel der Ecke und der Rückwand an.",
+      "caution": "Oberhalb der Schwelle bleibt die Bogenöffnung später frei.",
+      "fact": "Der Seitenbogen an der Ostseite öffnet die Halle auf den Durchgang zwischen Loggia und Palazzo Vecchio."
+    },
+    "rueckwand": {
+      "title": "Rückwand",
+      "description": "Du mauerst die Rückwand aus Pietra forte von Y 70 bis 96 (27 Lagen): im Ostteil drei, im Westteil sechs Blöcke dick, zusammen 10.627 Blöcke (X −244 bis −171, Z 872 bis 902). Das ist der mächtigste Baukörper der Loggia; im Osten grenzen die Uffizien an sie.",
+      "tip": "Baue Lage für Lage und halte die Linie der Wand an der schrägen Grundrisskante.",
+      "caution": "Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem nächsten Modul.",
+      "fact": "Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand."
+    },
+    "wand_west": {
+      "title": "Westwand",
+      "description": "Die Westseite ist geschlossen: eine drei Blöcke dicke Pietra-forte-Wand zwischen Front und Rückwand, von Y 70 bis 96 (1.030 Blöcke, X −242 bis −235, Y 70 bis 96, Z 857 bis 872). Pilaster und Halbsäulen sind schon da, ihre Zellen lässt du aus.",
+      "tip": "Beginne an der Rückwand und mauere zur Front hin.",
+      "caution": "Es gibt keine Öffnung in der Westwand; nur an der Ostseite liegt ein Bogen.",
+      "fact": "In den gelesenen Quellen ist an der Westseite kein Bogen belegt; deshalb ist sie hier geschlossen."
+    },
+    "wand_ost": {
+      "title": "Ostwand mit Seitenbogen",
+      "description": "Die Ostwand ist drei Blöcke dick. Der Seitenbogen bleibt frei: 16 Blöcke lichte Weite, unten rechteckig bis Y 80, darüber ein Halbkreis mit Radius 8. Der Scheitel der Laibung liegt auf Y 88. Du mauerst nur die Wand über und neben dem Bogen (339 Blöcke, X −173 bis −166, Y 88 bis 96, Z 885 bis 899).",
+      "tip": "Markiere zuerst den Halbkreis um die Mitte der Öffnung und mauere erst dann außen herum.",
+      "caution": "Der Ring um die Öffnung (Archivolte) bleibt frei, er kommt im nächsten Modul.",
+      "fact": "Der Seitenbogen an der Ostseite ist der einzige Bogen außerhalb der drei Frontbögen."
+    },
+    "seitenwand_ecken": {
+      "title": "Eckfüllung über den Eckpfeilern",
+      "description": "Über den beiden Eckpfeilern schließt du die Seitenwände bis zur Front: 236 Pietra-forte-Blöcke von Y 81 bis 96 (X −237 bis −165, Z 854 bis 884). Sonst bliebe an beiden Seiten ein offenes Feld neben der Frontwand.",
+      "tip": "Lass die Zellen des Seitenbogen-Rings an der Ostseite aus.",
+      "caution": "Erst ab Y 81 setzen, darunter stehen noch die Pfeiler.",
+      "fact": "Von außen wirkt die Loggia an den Ecken wie ein geschlossener Block; erst die Bögen lösen die Front auf."
+    },
+    "frontwand_ueber_bogen": {
+      "title": "Frontwand über den Bögen",
+      "description": "Du baust die Wand über den Frontpfeilern und neben den drei Bögen: drei Blöcke dick, von Y 81 bis 91 (737 Blöcke, X −236 bis −164, Y 81 bis 91, Z 852 bis 882). Die Bogenöffnungen bleiben als Halbkreise mit Radius 9 frei; ihr Scheitel liegt auf Y 89. Die Zellen der Archivolte lässt du für das nächste Modul aus.",
+      "tip": "Rechne vom Kämpfer (Y 80) neun Blöcke nach oben bis zum Scheitel, markiere die Kreise und mauere dann um sie herum.",
+      "caution": "Die Wand endet auf Y 91; Fries und Medaillons folgen in Modul 5.",
+      "fact": "Die Bögen sind ungewöhnlich hoch und weit; sie ließen Licht und Blicke auf die Piazza zu und machten die Loggia zur Bühne der Stadt."
+    }
+  }
+}

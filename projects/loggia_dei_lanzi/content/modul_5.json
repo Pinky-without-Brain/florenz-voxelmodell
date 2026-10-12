@@ -1,0 +1,43 @@
+{
+  "module": 5,
+  "title": "Fries, Terrasse, Brüstung",
+  "subtitle": "Bautüte 5: Fries mit vier Medaillons, Dachterrasse, Brüstung und Aufbauhaube",
+  "icon": "🏛️",
+  "parts": {
+    "fries": {
+      "title": "Fries",
+      "description": "Über den Bögen läuft ein Fries aus Pietra forte, drei Blöcke dick und drei hoch, von Y 92 bis 94 über die ganze Front (567 Blöcke, X −236 bis −164, Z 852 bis 882). An den vier Medaillonstellen bleiben die Zellen frei.",
+      "tip": "Baue den Fries Lage für Lage; die Medaillons lässt du als 3 × 3 Felder stehen.",
+      "caution": "Die ausgesparten Felder gehören zu den Medaillons; fülle sie nicht mit Fries.",
+      "fact": "Unter der Brüstung zeigt der Fries vier Medaillons mit den Kardinaltugenden von Agnolo Gaddi, entstanden 1383 bis 1386."
+    },
+    "medaillons": {
+      "title": "Vier Medaillons",
+      "description": "Du setzt vier Medaillons, je 3 × 3 Blöcke, über den vier Frontpfeilern (X −234 bis −165, Y 92 bis 94, Z 852 bis 880). Der Rahmen besteht aus gemeißeltem Quarz, die Mitte aus Gold; dahinter liegt ein Grund aus blauer Keramik (63 Blöcke insgesamt).",
+      "tip": "Setze zuerst den blauen Grund, dann den Rahmen, zuletzt den goldenen Block in der Mitte.",
+      "caution": "Die Medaillons sind Zierstücke; die Tugendfiguren selbst sind nicht modelliert.",
+      "fact": "Dargestellt sind die vier Kardinaltugenden: Klugheit, Gerechtigkeit, Tapferkeit und Mäßigung."
+    },
+    "terrasse": {
+      "title": "Dachterrasse",
+      "description": "Auf Wänden, Pfeilern und Fries legst du die Terrasse aus Pietra serena, zwei Lagen dick, von Y 95 bis 96 (3.158 Blöcke, X −240 bis −164, Z 852 bis 898). Darunter bleibt der Hohlraum bis Y 94 über den Gewölben leer.",
+      "tip": "Setze die Platte vom Rand her; sie ruht auf den Mauern, die bis Y 96 hochgezogen sind.",
+      "caution": "Die Wände reichen schon bis Y 96; setze die Platte nur in die freien Zellen.",
+      "fact": "Die Terrasse auf dem Dach ließ Bernardo Buontalenti 1583 anlegen."
+    },
+    "brustung": {
+      "title": "Brüstung",
+      "description": "Entlang der Außenkante setzt du die Brüstung aus weißem Marmor: zwei Lagen mit Balusterlücken, darüber ein durchgehender Handlauf (Y 97 bis 99, 458 Blöcke, X −244 bis −164, Z 852 bis 900). An der Rückseite im Osten, vor den Uffizien, entfällt sie.",
+      "tip": "Lass in den beiden unteren Lagen jede zweite Zelle frei und schließe oben mit dem Handlauf.",
+      "caution": "Die Oberkante liegt auf Y 99.",
+      "fact": "Die Brüstung gibt dem Dach der Loggia die Form einer Terrasse über der Piazza."
+    },
+    "dachaustritt": {
+      "title": "Aufbauhaube",
+      "description": "Optional setzt du auf der Terrasse eine kleine Haube als Zugang zum Dach: vier Blöcke breit, drei tief, vier hoch (48 Blöcke, X −209 bis −205, Y 97 bis 100, Z 883 bis 886).",
+      "tip": "Sie sitzt nahe der Rückwand, etwa in der Mitte der Halle.",
+      "caution": "Die Haube hat nur ein Dach; im Modell gibt es keine Treppe darin.",
+      "fact": "Solche Aufbauten führen von innen auf eine begehbare Dachterrasse."
+    }
+  }
+}

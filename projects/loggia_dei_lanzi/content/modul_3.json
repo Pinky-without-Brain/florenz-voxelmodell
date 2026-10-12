@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Bögen",
+  "subtitle": "Bautüte 3: Archivolten der Front und des Seitenbogens, Schlusssteine",
+  "icon": "🏛️",
+  "parts": {
+    "archivolten_front": {
+      "title": "Archivolten der drei Frontbögen",
+      "description": "Du fasst jede der drei Bogenöffnungen mit einem Ring aus Pietra serena ein. Der Ring ist etwa zwei Blöcke breit, reicht von der Öffnung bis zum Radius 11,5 und liegt auf den Kapitellen auf (Y 81 bis 91). Vorn ist er drei Blöcke tief, dahinter folgt ein Gurtring, der die Gewölbe aufnimmt. Das Bauteil hat 1.306 Blöcke (X −233 bis −167, Z 853 bis 883).",
+      "tip": "Beginne an den Kapitellen und arbeite dich zum Scheitel hoch; die Außenkante endet auf Y 91.",
+      "caution": "Lass die Zellen des Schlusssteins im Scheitel frei.",
+      "fact": "Eine Archivolte ist der profilierte Bogenlauf, der eine Öffnung umrahmt. Sie gliedert die Wand und trägt die Last der Bogenfüllung."
+    },
+    "archivolte_ost": {
+      "title": "Archivolte des Seitenbogens",
+      "description": "Auch der Seitenbogen an der Ostseite bekommt einen Ring aus Pietra serena: 228 Blöcke, drei Blöcke dick, von der Öffnung bis Radius 10,5 um die Öffnungsmitte (Y 81 bis 90). Er liegt auf dem Eckpfeiler und auf der Rückwand auf.",
+      "tip": "Der Ring reicht an beiden Seiten bis in die Wand; baue ihn von unten nach oben.",
+      "caution": "Die Wand über dem Ring ist schon gemauert; setze die Blöcke nur in die ausgesparten Zellen.",
+      "fact": "Der Scheitel dieses Bogens liegt mit Y 88 eine Lage niedriger als der der Frontbögen mit Y 89."
+    },
+    "schlusssteine": {
+      "title": "Schlusssteine",
+      "description": "Im Scheitel jedes der drei Frontbögen setzt du einen Schlussstein aus gemeißeltem Quarz, zwei Blöcke breit und zwei hoch, auf Y 90 bis 91 (32 Blöcke insgesamt).",
+      "tip": "Der Schlussstein sitzt genau in der Mitte des Bogens, über der Laibung.",
+      "caution": "Er ersetzt Blöcke des Archivoltenrings; setze ihn in die ausgesparten Zellen.",
+      "fact": "Der Schlussstein ist der letzte Stein, der einen Bogen schließt. Erst mit ihm trägt der Bogen sich selbst."
+    }
+  }
+}

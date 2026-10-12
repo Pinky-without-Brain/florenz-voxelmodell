@@ -1,0 +1,9 @@
+{
+  "id": "loggia_dei_lanzi",
+  "title": "Loggia dei Lanzi",
+  "type": "wahrzeichen",
+  "gebaeude": ["w43284457"],
+  "bodenY": 67,
+  "rahmen": { "ox": -199, "oz": 865, "thetaDeg": 21.5 },
+  "luftraum": 0
+}

@@ -1,0 +1,36 @@
+{
+  "module": 4,
+  "title": "Gewölbe",
+  "subtitle": "Bautüte 4: drei Kreuzgewölbe und Konsolsteine",
+  "icon": "🏛️",
+  "parts": {
+    "kreuzgewoelbe_west": {
+      "title": "Kreuzgewölbe West",
+      "description": "Du wölbst das westliche Joch: 24 Blöcke breit und 19 tief, zwischen den Pfeilermitten und der Rückwand. Die Schale ist zwei Blöcke dick, beginnt auf Y 81 und erreicht im Scheitel Y 89 (946 Blöcke, X −240 bis −212, Y 81 bis 90, Z 855 bis 880). Zwei gleich hohe Tonnen durchdringen sich: eine quer, eine in Längsrichtung der Halle.",
+      "tip": "Die Laibung ergibt sich als höhere der beiden Tonnen; baue sie Lage für Lage von den Kämpfern zur Mitte.",
+      "caution": "Über den Kapitellen füllst du die Schale bis auf Y 81 hinunter, damit sie aufliegt.",
+      "fact": "Das Kreuzgewölbe entsteht, wenn sich zwei Tonnengewölbe rechtwinklig kreuzen. Die Grate zwischen ihnen leiten die Last auf vier Punkte ab."
+    },
+    "kreuzgewoelbe_mitte": {
+      "title": "Kreuzgewölbe Mitte",
+      "description": "Das mittlere Joch liegt hinter dem mittleren Frontbogen (952 Blöcke, X −218 bis −190, Y 81 bis 90, Z 864 bis 889) und ist wie das westliche aufgebaut. Der Scheitel liegt ebenfalls auf Y 89. Über den beiden Innenpfeilern verläuft je ein Gurtband, zwei Blöcke breit und eine Lage tiefer als die Schale.",
+      "tip": "Das Gurtband über den Pfeilerachsen baust du mit, es ist nur eine Lage tiefer.",
+      "caution": "Die Zellen des Gurtrings aus Modul 3 sind belegt, lass sie aus.",
+      "fact": "Drei gleiche Joche reihen sich zu einer Halle, die ohne Stützen im Raum auskommt."
+    },
+    "kreuzgewoelbe_ost": {
+      "title": "Kreuzgewölbe Ost",
+      "description": "Das östliche Joch schließt die Halle zur Ostwand und zum Seitenbogen ab (943 Blöcke, X −195 bis −167, Y 81 bis 90, Z 873 bis 898). Hier steht der Perseus im Durchblick.",
+      "tip": "Das Gewölbe endet an der Ostwand; die Öffnung des Seitenbogens liegt dahinter.",
+      "caution": "Der Seitenbogen ist niedriger als die Frontbögen; prüfe die Höhe an der Schnittkante.",
+      "fact": "Die Gewölbe steigen neun Blöcke über dem Kämpfer an, das sind im Modell viereinhalb Meter."
+    },
+    "konsolen_peducci": {
+      "title": "Konsolsteine",
+      "description": "An den Rückwandpilastern setzt du acht kleine Konsolsteine aus gemeißeltem Quarz, je zwei mal zwei Blöcke, auf Y 78 bis 79 (68 Blöcke). Sie nehmen die Gewölbe an den Ansätzen auf.",
+      "tip": "Die Konsolen sitzen zwei Lagen unter dem Gewölbeansatz, direkt an der Rückwand.",
+      "caution": "Am Ostende ist der äußere Ansatz zur Halle hin versetzt, weil der Seitenbogen die Zellen belegt.",
+      "fact": "Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen."
+    }
+  }
+}

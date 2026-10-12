@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Pfeiler",
+  "subtitle": "Bautüte 1: Frontpfeiler mit Halbsäulen, Kapitellen und Rückwandpilastern",
+  "icon": "🏛️",
+  "parts": {
+    "sockel_pfeiler": {
+      "title": "Sockel der Frontpfeiler",
+      "description": "Du setzt vier Pfeilersockel aus Pietra serena, je sechs Blöcke breit und sechs tief, zwei Lagen hoch (Y 68 bis 69); zusammen 270 Blöcke. Sie stehen an der Front (X −237 bis −164, Z 852 bis 884), ein Pfeiler an jedem Ende und zwei zwischen den drei Bögen. Zwischen den Pfeilern bleiben je 18 Blöcke für die Bogenöffnungen.",
+      "tip": "Miss die 6 + 18 + 6 + 18 + 6 + 18 + 6 Blöcke der Front einmal ab und markiere die Pfeilerränder.",
+      "caution": "Die vier Pfeiler sind spiegelbildlich um die Mitte der Front angeordnet; achte darauf, dass die Bögen gleich breit werden.",
+      "fact": "Die Pfeiler der Loggia sind Bündelpfeiler mit Halbsäulen. Sie tragen die weiten Bögen, mit denen sich die Halle zum Platz öffnet."
+    },
+    "pfeiler_front": {
+      "title": "Pfeilerschäfte mit Halbsäulen",
+      "description": "Du mauerst die Schäfte der vier Pfeiler in Pietra forte, neun Lagen hoch (Y 70 bis 78). Die vier Ecken jedes Schafts bleiben abgeschrägt frei. An beiden Seiten der Bögen setzt du Halbsäulen aus weißem Marmor an, zwei Blöcke breit und einen vorspringend, und an den beiden inneren Pfeilern eine weitere zur Halle hin. Das Bauteil hat 1.278 Blöcke (X −236 bis −164, Z 852 bis 884).",
+      "tip": "Setze zuerst die Kernblöcke aus Pietra forte, dann die Halbsäulen aus Marmor an die Seitenflächen.",
+      "caution": "Die Halbsäulen der Endpfeiler zur Halle hin entfallen, denn dort stehen später die Seitenwände.",
+      "fact": "Die Loggia gilt als Übergang von der Gotik zur Renaissance, weil sie statt Spitzbögen weite Rundbögen auf Bündelpfeilern verwendet."
+    },
+    "kapitelle_front": {
+      "title": "Kapitelle der Frontpfeiler",
+      "description": "Du krönst jeden Pfeiler mit einem Kapitell aus gemeißeltem Quarz: zwei Lagen hoch (Y 79 bis 80), sechs mal sechs Blöcke voll, zusammen 270 Blöcke. Die obere Lage liegt auf Y 80 und ist der Kämpfer, also der Ansatz der Bögen.",
+      "tip": "Die Kapitelle haben keine abgeschrägten Ecken, sie laden über den Schaft aus.",
+      "caution": "Die Bogenringe liegen erst oberhalb von Y 80 auf; lass die Kapitelle bis dahin frei.",
+      "fact": "Die Kapitelle der Loggia sind korinthisch. Sie tragen hier die Bögen und die Gewölbe zugleich."
+    },
+    "pilaster_rueckwand": {
+      "title": "Pilaster an der Rückwand",
+      "description": "An der Innenseite der Rückwand mauerst du vier Wandvorlagen, jede sechs Blöcke breit und drei tief, auf der Höhe der vier Frontpfeiler (X −242 bis −170, Y 68 bis 80, Z 869 bis 899). Sockel aus Pietra serena in den Lagen 1 und 2, Schaft aus Pietra forte, Kapitell aus gemeißeltem Quarz; zusammen 760 Blöcke. Die Zellen für die Konsolsteine (Y 78 bis 79) und der Seitenbogen bleiben frei.",
+      "tip": "Die Pilaster stehen genau gegenüber den Frontpfeilern, so liegen die Gewölbejoche dazwischen.",
+      "caution": "Am Ostende bleibt vom Pilaster nur ein Teil, weil der Seitenbogen die übrigen Zellen als Öffnung beansprucht.",
+      "fact": "Pilaster sind flache Wandpfeiler. Sie nehmen die Last der Gewölberippen auf, ohne weit in den Raum zu ragen."
+    }
+  }
+}
