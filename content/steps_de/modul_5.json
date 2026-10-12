@@ -1,0 +1,71 @@
+{
+  "module": 5,
+  "title": "Brunelleschis Doppelkuppel",
+  "subtitle": "Bautüte 5: Die achteckige Doppelkuppel aus Ziegeln mit Rippen, Ringketten und Jüngstem Gericht",
+  "icon": "🏛️",
+  "parts": {
+    "kuppel_ring_01": {
+      "title": "Kuppelring 1: Der Fuß der Kuppel",
+      "description": "Du beginnst die Kuppel mit dem ersten Band von Y 173 bis 181, neun Lagen hoch. Es liegt auf dem Tambour und besteht aus zwei Schalen. Innen mauerst du eine dicke Schale aus Ziegeln und Terrakotta im Fischgrätmuster, außen eine dünnere Schale aus Ziegeln mit einer Haut aus roter Terrakotta. Dazwischen bleibt ein schmaler Gang frei. An den acht Ecken stehen weiße Marmorrippen, dazu kommen 16 verborgene Zwischenrippen. Die innerste Schicht trägt schon das Fresko: Hier unten sind es schwarze und rote Blöcke für die Hölle.",
+      "tip": "Lege zuerst die Lage Y 173 komplett und vergleiche sie mit dem Tambour darunter. Dann baust du Lage für Lage nach oben. Die weißen Rippen helfen dir, die acht Ecken wiederzufinden.",
+      "caution": "Kein Block der untersten Lage darf über den Rand des Tambours hinausragen. Die Schalen müssen auf dem Ring der Wand aufliegen, sonst fehlt ihnen das Auflager.",
+      "fact": "Im Jahr 1418 schrieb die Dombauhütte von Florenz einen Wettbewerb für die Kuppel aus. Filippo Brunelleschi und der Bildhauer Lorenzo Ghiberti gehörten zu den bekanntesten Bewerbern. Ab 1420 leiteten beide die Arbeiten."
+    },
+    "kuppel_ring_02": {
+      "title": "Kuppelring 2: Mauern ohne Gerüst",
+      "description": "Das zweite Band reicht von Y 182 bis 190. Die Schalen werden schon ein wenig schräger und rücken nach innen. Bei Y 184 legst du die erste Ringkette: Im Zwischenraum entsteht eine volle Lage aus Steinziegeln, die Innen- und Außenschale fest verbindet. Die Rippen und Zwischenrippen laufen weiter nach oben. Bei Y 187 wechselt das Fresko von Schwarz und Rot zu Braun und Orange, den Farben der Todsünden und Tugenden.",
+      "tip": "Die Ringkette in Y 184 ist eine einzige Lage und läuft ringsum ohne Lücke. Zähle die Lagen ab Y 173 mit, dann sitzt sie richtig.",
+      "caution": "Lass in der Kettenlage keine Lücke im Zwischenraum. Sonst sind die beiden Schalen an dieser Stelle nicht verbunden.",
+      "fact": "Brunelleschi baute die Kuppel von 1420 bis 1436 ohne ein großes hölzernes Lehrgerüst vom Boden aus. Die Italiener sagen dazu senza centine. Jeder fertige Ring trug den nächsten."
+    },
+    "kuppel_ring_03": {
+      "title": "Kuppelring 3: Das Fischgrätmuster",
+      "description": "Das dritte Band liegt zwischen Y 191 und 199. Die Innenschale mauerst du in Ziegel und Terrakotta so, dass schräge Streifen entstehen: das Fischgrätmuster. Außen bleibt die Schale aus Ziegeln mit der Terrakottahaut. Bei Y 196 liegt die nächste Ringkette aus Steinziegeln im Zwischenraum. Das Fresko hat in diesem Band braune und orange Blöcke.",
+      "tip": "Das Muster gliedert sich in acht Abschnitte, einen für jede Wandfläche der Kuppel. In jedem Abschnitt knickt der Streifen in der Mitte um. Prüfe das an einer Fläche, dann sitzt es überall.",
+      "caution": "Die Streifen laufen in jedem der acht Abschnitte gleich. Wenn ein Streifen an der Ecke nicht zum Nachbarn passt, hast du dich in der Zählung vertan.",
+      "fact": "Das Fischgrätmuster heißt auf Italienisch spina di pesce. Brunelleschi ließ die Ziegel so einbauen, dass jeder Ring beim Mauern nicht nach innen rutschen konnte."
+    },
+    "kuppel_ring_04": {
+      "title": "Kuppelring 4: Ketten, die alles zusammenhalten",
+      "description": "Das vierte Band reicht von Y 200 bis 208. Bei Y 208 kommt eine weitere Ringkette aus Steinziegeln, die wieder die beiden Schalen verbindet. Die Zwischenrippen und die acht Hauptrippen laufen durch. Bei Y 201 beginnt im Fresko die Zone der Seligen und Heiligen mit hellblauen und weißen Blöcken.",
+      "tip": "Die Ketten liegen alle 12 Lagen übereinander: bei Y 184, 196, 208, 220 und 232. Hake die Ketten auf deiner Liste ab, sobald sie liegen.",
+      "caution": "Setze die Kettenlage immer als ganzen Ring. Ein halber Ring hält die Kuppel nicht zusammen.",
+      "fact": "Brunelleschi ließ Ketten in die Kuppel einbauen, die wie Fassreifen wirken. Sie bestanden aus Steinbalken, die mit Eisenklammern verbunden waren, und aus Ketten aus Eichenholz."
+    },
+    "kuppel_ring_05": {
+      "title": "Kuppelring 5: Zwei Schalen mit Gang",
+      "description": "Das fünfte Band liegt zwischen Y 209 und 217. Du mauerst weiter die innere und die äußere Schale. Zwischen ihnen bleibt der Zwischenraum frei, in dem später die Treppen hinaufführen können. Diese Treppen lässt das Modell noch frei. In dieser Höhe wechselt das Fresko bei Y 214 von Hellblau und Weiß zu Gelb und Weiß, den Farben des Ältestenchors.",
+      "tip": "Halte den Zwischenraum frei und miss ihn regelmäßig. Die beiden Schalen rücken nach oben immer näher zusammen.",
+      "caution": "Die Zwischenrippen sind nur einen Block breit. Wenn du sie breiter machst, wird der Gang zwischen den Schalen zu eng.",
+      "fact": "Die Kuppel hat zwei Schalen, die Brunelleschi mit Rippen verband. Im Hohlraum dazwischen führen Treppen und Gänge nach oben. So konnten die Bauleute und heute die Besucher bis zur Laterne steigen."
+    },
+    "kuppel_ring_06": {
+      "title": "Kuppelring 6: Millionen von Ziegeln",
+      "description": "Das sechste Band reicht von Y 218 bis 226. Die Schalen sind jetzt deutlich zur Mitte geneigt, deshalb werden die Lagen kleiner. Bei Y 220 legst du die vierte Ringkette. Die innere Schale zeigt gelbe und weiße Fresko-Blöcke. Die äußere Schale bleibt wie bisher aus Ziegeln mit einer Haut aus Terrakotta, und die acht weißen Rippen laufen an den Ecken weiter hoch.",
+      "tip": "Je höher du kommst, desto weniger Blöcke hat jede Lage. Rechne damit, dass die Schritte schneller gehen.",
+      "caution": "Die Schale ist hier schon stark geneigt. Prüfe bei jeder Lage, dass sie an die Lage darunter anschließt und nicht in der Luft hängt.",
+      "fact": "Für die Kuppel verbauten die Arbeiter nach Schätzungen von Fachleuten etwa vier Millionen Ziegel. Sie wurden in Öfen gebrannt und zur Baustelle gebracht."
+    },
+    "kuppel_ring_07": {
+      "title": "Kuppelring 7: Die Maschine der Ochsen",
+      "description": "Das siebte Band liegt zwischen Y 227 und 235. Die Schalen laufen jetzt eng zusammen. Bei Y 232 liegt die letzte Ringkette. Im Fresko beginnt bei Y 228 die oberste Zone mit blauen Blöcken und goldenen Akzenten für Christus und die Engel. Im Ostsegment sitzt der goldene Thron.",
+      "tip": "Der goldene Thron liegt nur im Osten, auf der Seite des Chors. Alle anderen Wandflächen bekommen die blauen Blöcke des Himmels mit wenigen goldenen Tupfern.",
+      "caution": "Halte die acht Wandflächen der Kuppel im Gleichgewicht. Wenn du auf einer Seite weiter baust als auf den anderen, passen die Ringe oben nicht mehr zusammen.",
+      "fact": "Brunelleschi erfand eine Hebemaschine, die von Ochsen angetrieben wurde. Mit einem Getriebe ließ sich die Richtung umkehren, ohne dass man die Ochsen wenden musste. So kamen schwere Steine und Ziegel hoch auf die Kuppel."
+    },
+    "kuppel_ring_08": {
+      "title": "Kuppelring 8: Das Jüngste Gericht",
+      "description": "Das letzte Band reicht von Y 236 bis 240, es hat fünf Lagen. Hier schließen sich die Schalen fast zum Auge der Kuppel. Außen und innen enden sie knapp unter dem Schlussring. Im Fresko trägt das Ostsegment den Thron Christi aus Gold, rundherum siehst du blaue Blöcke und goldene Engel. Zum Auge hin bleibt die Mitte offen.",
+      "tip": "Bevor du den Schlussring baust, schau dir die Oberkante bei Y 240 von oben an. Alle Blöcke der Schalen und der Rippen müssen in einer sauberen Lage enden.",
+      "caution": "Das Auge in der Mitte bleibt offen. Es ist ein Achteck mit 11 Blöcken Breite und darf nicht zugebaut werden.",
+      "fact": "Das riesige Fresko vom Jüngsten Gericht in der Kuppel begann Giorgio Vasari 1572. Nach seinem Tod 1574 vollendete Federico Zuccari es bis 1579."
+    },
+    "schlussring": {
+      "title": "Der Schlussring",
+      "description": "Du schließt die Kuppel oben mit dem Schlussring in den Lagen Y 241 bis 246. Er liegt rund um das Auge, reicht in der Breite von 6 bis 14 Blöcken von der Mitte und deckt beide Schalen sowie den Zwischenraum ab. Er besteht aus glattem weißem Quarz und hat in der vierten Lage ein Band aus rotem Granit. Die erste Lage reicht außen etwas weiter und deckt die Oberkante der Außenschale. Die oberste Lage Y 246 ist voll und trägt später die Laterne.",
+      "tip": "Die oberste Lage Y 246 muss rundum gleich breit und ganz voll sein, weil darauf die Laterne steht. Zähle die Breite von 6 bis 14 Blöcken an allen acht Seiten nach.",
+      "caution": "Die Mitte bleibt offen, das Auge hat 5 Blöcke Radius. Der Ring darf nicht in das Auge hineinragen, sonst passt das Licht nicht mehr durch.",
+      "fact": "Am 25. März 1436 weihte Papst Eugen IV. die Kathedrale. Die Kuppel war damals bis zum Auge geschlossen. Die Laterne, die auf diesem Ring ruht, wurde erst danach gebaut. Ihr Bau begann 1446, im Todesjahr Brunelleschis, und endete 1461."
+    }
+  }
+}
