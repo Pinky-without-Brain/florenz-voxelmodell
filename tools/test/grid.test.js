@@ -39,7 +39,7 @@ test('Validierung von Koordinaten, Typ und Tag', () => {
   assert.throws(() => w.set(0, 512, 0, 's'), RangeError);
   assert.throws(() => w.set(0, -1, 0, 's'), RangeError);
   assert.throws(() => w.set(0, 0, 0, ''), TypeError);
-  assert.throws(() => g.writer({ module: 10, part: 'p' }), RangeError);
+  assert.throws(() => g.writer({ module: 512, part: 'p' }), RangeError);
   assert.throws(() => g.writer({ module: 0, part: '' }), TypeError);
 });
 

@@ -15,6 +15,8 @@ const KEY_STEP_X = Z_SPAN * Y_SPAN; // Nachbar in x: ±4194304
 const TYPE_BITS = 65536;      // 2^16
 const TAG_BITS = 4096;        // 2^12
 const SEQ_SHIFT = TYPE_BITS * TAG_BITS; // 2^28
+// Modulnummern: Dom und Wahrzeichen 0..9, Quartier-Projekte je Isolato ein Modul bis 511 (Tags sind frei, höchstens 4096 je Grid)
+const MAX_MODULE = 511;
 
 function packKey(x, y, z) {
   return ((x + X_OFF) * Z_SPAN + (z + Z_OFF)) * Y_SPAN + y;
@@ -106,8 +108,8 @@ class VoxelGrid {
     const trackKeys = !!(opts && opts.trackKeys);
     if (!tag || typeof tag !== 'object') throw new TypeError('tag muss ein Objekt sein');
     const { module, part } = tag;
-    if (!Number.isInteger(module) || module < 0 || module > 9) {
-      throw new RangeError(`tag.module muss eine Ganzzahl 0..9 sein: ${module}`);
+    if (!Number.isInteger(module) || module < 0 || module > MAX_MODULE) {
+      throw new RangeError(`tag.module muss eine Ganzzahl 0..${MAX_MODULE} sein: ${module}`);
     }
     if (typeof part !== 'string' || part.length === 0) {
       throw new TypeError('tag.part muss ein nicht-leerer String sein');
@@ -267,4 +269,4 @@ class VoxelGrid {
 }
 
 module.exports = { VoxelGrid, VoxelConflictError, packKey, unpackKey, xOfKey, yOfKey, zOfKey,
-  X_MIN, X_MAX, Y_MIN, Y_MAX, Z_MIN, Z_MAX, KEY_STEP_X, KEY_STEP_Z };
+  MAX_MODULE, X_MIN, X_MAX, Y_MIN, Y_MAX, Z_MIN, Z_MAX, KEY_STEP_X, KEY_STEP_Z };

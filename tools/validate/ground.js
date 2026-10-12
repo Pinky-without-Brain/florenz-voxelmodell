@@ -34,6 +34,7 @@ function makeProvider(spec) {
   return {
     hasGroundContact: fn,
     groundTopY: typeof s.groundTopY === 'function' ? s.groundTopY : null,
+    inRaster: typeof s.inRaster === 'function' ? s.inRaster : null,
     minY: Number.isInteger(s.minY) ? s.minY : LEVELS.foundationBottomY,
     maxY: Number.isInteger(s.maxY) ? s.maxY : LEVELS.maxY
   };

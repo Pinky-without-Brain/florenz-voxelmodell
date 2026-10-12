@@ -5,9 +5,10 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { buildWorld, discoverModuleFiles } = require('./model/world.js');
+const { buildWorld, listModules, isQuartier } = require('./model/world.js');
 const { planModule } = require('./steps/planner.js');
 const { validate, RULES } = require('./validate/index.js');
+const { MAX_MODULE } = require('./geom/grid.js');
 const { loadRegistry, loadSpecs, ROOT: REPO_ROOT } = require('./projects.js');
 
 function parseArgs(argv) {
@@ -23,8 +24,8 @@ function parseArgs(argv) {
       if (!o.project || o.project.startsWith('--')) throw new Error('--project erwartet eine Projekt-ID');
     } else if (a === '--modules') {
       o.modules = (argv[++i] || '').split(',').filter(Boolean).map(Number);
-      if (!o.modules.length || o.modules.some((n) => !Number.isInteger(n) || n < 0 || n > 9)) {
-        throw new Error('--modules erwartet eine Liste wie 0,1,3 (Ziffern 0..9)');
+      if (!o.modules.length || o.modules.some((n) => !Number.isInteger(n) || n < 0 || n > MAX_MODULE)) {
+        throw new Error(`--modules erwartet eine Liste wie 0,1,3 (Zahlen 0..${MAX_MODULE})`);
       }
     } else throw new Error(`Unbekanntes Argument: ${a}`);
   }
@@ -44,20 +45,23 @@ function buildProject(project, opts, env) {
   const root = env.root;
   const tStart = process.hrtime.bigint();
   const specs = loadSpecs(project);
-  const available = [...discoverModuleFiles(project.modelDir).keys()].sort((a, b) => a - b);
+  const listing = listModules(project);
+  const available = listing.numbers;
   let toBuild = available;
   let toEmit = available;
   if (opts.modules) {
     const max = Math.max(...opts.modules);
     toBuild = available.filter((n) => n <= max);
     toEmit = opts.modules.filter((n) => available.includes(n));
-    for (const n of opts.modules) if (!available.includes(n)) console.warn(`Warnung: Modul ${n} hat keine Datei m${n}_*.js`);
+    for (const n of opts.modules) if (!available.includes(n)) console.warn(`Warnung: Modul ${n} existiert nicht im Projekt`);
   }
 
   const errors = [], warnings = [];
   const timing = {};
   let t = process.hrtime.bigint();
-  if (!available.length) errors.push(`Projekt ${project.id}: keine Moduldateien mN_*.js in ${project.modelDir}`);
+  if (!available.length && !listing.error) {
+    errors.push(isQuartier(project) ? `Projekt ${project.id}: keine Gebäude im Quartier` : `Projekt ${project.id}: keine Moduldateien mN_*.js in ${project.modelDir}`);
+  }
 
   // 1) Welt
   const world = buildWorld({ modules: toBuild, project });
@@ -139,7 +143,8 @@ function buildProject(project, opts, env) {
       avg: sizes.length ? Math.round(blocks / sizes.length) : 0 };
   });
   const ruleReport = rules.map((r) => ({ rule: r.rule, errors: r.errors.length, warnings: r.warnings.length,
-    total: r.total === undefined ? null : r.total, ms: Math.round(r.ms) }));
+    total: r.total === undefined ? null : r.total, ms: Math.round(r.ms),
+    ...(r.info && r.info.length ? { info: r.info } : {}) }));
 
   console.log(`${world.modules.length} Module, ${world.grid.size} Blöcke`);
   for (const m of modReport) {
@@ -148,6 +153,7 @@ function buildProject(project, opts, env) {
   console.log('Regeln:');
   console.log(`  R1: ${world.errors.filter((e) => e.rule === 'R1').length} Fehler, 0 Warnungen`);
   for (const r of rules) console.log(`  ${r.rule}: ${r.errors.length} Fehler, ${r.warnings.length} Warnungen`);
+  for (const r of rules) if (r.info && r.info.length) { console.log(`Info ${r.rule} (${r.info.length}):`); for (const l of r.info.slice(0, 12)) console.log('  ' + l); if (r.info.length > 12) console.log(`  … und ${r.info.length - 12} weitere (siehe build/report_${project.id}.json)`); }
   console.log(`Zeiten: Welt ${fmtMs(timing.world)}, Planer ${fmtMs(timing.plan)}, Prüfung ${fmtMs(timing.validate)}, Emit ${fmtMs(timing.emit)}`);
   for (const e of emitted) console.log(`  emittiert: Modul ${e.module} -> ${e.file} (${e.bytes} Bytes)`);
   if (errors.length) { console.log('Fehler:'); for (const e of errors) console.log('  ' + e); }
