@@ -1,9 +1,9 @@
 'use strict';
 // R4: Gesamtmodell = eine mit dem Gelände verbundene Komponente.
 const { fmt, unpack, forNeighbors, capped, result } = require('./util.js');
-const { hasGroundContact } = require('./ground.js');
 
 module.exports = function r4(ctx) {
+  const hasGroundContact = ctx.ground.hasGroundContact;
   const grid = ctx.grid;
   const all = grid.keysOf();
   const seen = new Set();

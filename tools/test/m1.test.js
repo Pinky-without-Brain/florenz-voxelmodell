@@ -7,6 +7,7 @@ const { buildWorld } = require('../model/world.js');
 const m1 = require('../model/m1_langhaus.js');
 const D = require('../spec/dimensions.js');
 const { PALETTE } = require('../spec/palette.js');
+const { packKey, unpackKey } = require('../geom/grid.js');
 
 const N = D.CATHEDRAL.nave;
 const world = buildWorld({ modules: [1] });
@@ -86,7 +87,7 @@ test('Gewölbescheitel: Seitenschiff ≤ aisleVaultY, Mittelschiff ≤ naveVault
 test('Innenraum ist dicht (kein Leck in Dachräume oder nach außen)', () => {
   const x0 = N.interiorWestX, x1 = -D.CATHEDRAL.crossing.outerHalfFlat - 1;
   const seen = new Set();
-  const key = (x, y, z) => ((x + 512) * 1024 + (z + 512)) * 512 + y;
+  const key = packKey;
   const stack = [[-155, 66, 0]];
   seen.add(key(-155, 66, 0));
   let maxY = 0, maxAbsZ = 0;
@@ -110,7 +111,7 @@ test('Innenraum ist dicht (kein Leck in Dachräume oder nach außen)', () => {
 
 test('Dächer sind dicht: Außenluft erreicht keinen Dachraum', () => {
   const x0 = N.interiorWestX, x1 = -D.CATHEDRAL.crossing.outerHalfFlat - 1;
-  const key = (x, y, z) => ((x + 512) * 1024 + (z + 512)) * 512 + y;
+  const key = packKey;
   const roofTop = new Map();
   grid.forEach((x, y, z, e) => {
     if (e.part.startsWith('dach_')) {
@@ -132,7 +133,7 @@ test('Dächer sind dicht: Außenluft erreicht keinen Dachraum', () => {
     }
   }
   for (const k of seen) {
-    const y = k % 512, rest = (k - y) / 512, z = (rest % 1024) - 512, x = (rest - (rest % 1024)) / 1024 - 512;
+    const { x, y, z } = unpackKey(k);
     const top = roofTop.get(x + ',' + z);
     // Spalten unter dem Dach (|z| ≤ 44) dürfen nicht von außen erreichbar sein
     // Außenluft in Fensternischen (Oculi, |z| 18..20), an der Traufkante (|z| 21) und unter dem Gesims ist erlaubt

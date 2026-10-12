@@ -5,7 +5,7 @@ const { VoxelGrid, VoxelConflictError, packKey, unpackKey } = require('../geom/g
 const { box } = require('../geom/shapes');
 
 test('packKey/unpackKey Round-Trip', () => {
-  for (const [x, y, z] of [[-512, 0, -512], [511, 511, 511], [0, 64, 0]]) {
+  for (const [x, y, z] of [[-4096, 0, -4096], [4095, 511, 4095], [-4096, 511, 4095], [4095, 0, -4096], [-512, 0, -512], [511, 511, 511], [0, 64, 0], [3000, 70, -3500]]) {
     assert.deepEqual(unpackKey(packKey(x, y, z)), { x, y, z });
   }
 });
@@ -32,7 +32,10 @@ test('Validierung von Koordinaten, Typ und Tag', () => {
   const g = new VoxelGrid();
   const w = g.writer({ module: 0, part: 'p' });
   assert.throws(() => w.set(0.5, 0, 0, 's'), TypeError);
-  assert.throws(() => w.set(512, 0, 0, 's'), RangeError);
+  assert.throws(() => w.set(4096, 0, 0, 's'), RangeError);
+  assert.throws(() => w.set(-4097, 0, 0, 's'), RangeError);
+  assert.throws(() => w.set(0, 0, 4096, 's'), RangeError);
+  assert.throws(() => w.set(0, 0, -4097, 's'), RangeError);
   assert.throws(() => w.set(0, 512, 0, 's'), RangeError);
   assert.throws(() => w.set(0, -1, 0, 's'), RangeError);
   assert.throws(() => w.set(0, 0, 0, ''), TypeError);
@@ -73,4 +76,32 @@ test('fill mit String und Funktion (null überspringt)', () => {
   assert.equal(n, 2);
   assert.equal(w2.count, 2);
   assert.equal(g.size, 10);
+});
+
+test('Schlüssel liegen unter 2^35 und sind eindeutig an den Ecken', () => {
+  const corners = [];
+  for (const x of [-4096, 4095]) for (const z of [-4096, 4095]) for (const y of [0, 511]) corners.push(packKey(x, y, z));
+  assert.equal(new Set(corners).size, 8);
+  assert.equal(packKey(-4096, 0, -4096), 0);
+  assert.equal(packKey(4095, 511, 4095), 8192 * 8192 * 512 - 1);
+  assert.ok(Math.max(...corners) < 2 ** 35);
+  // Nachbarschritte: ±1 in y, ±512 in z, ±4194304 in x
+  const k = packKey(10, 20, 30);
+  assert.equal(packKey(10, 21, 30) - k, 1);
+  assert.equal(packKey(10, 20, 31) - k, 512);
+  assert.equal(packKey(11, 20, 30) - k, 4194304);
+});
+
+test('Zellen an den neuen Bereichsgrenzen lassen sich setzen und lesen', () => {
+  const g = new VoxelGrid();
+  const w = g.writer({ module: 1, part: 'rand' });
+  const cells = [[-4096, 0, -4096], [4095, 511, 4095], [-4096, 511, 4095], [3000, 64, -3500]];
+  cells.forEach(([x, y, z], i) => w.set(x, y, z, 't' + i));
+  cells.forEach(([x, y, z], i) => assert.equal(g.get(x, y, z).type, 't' + i));
+  assert.deepEqual(g.bounds(), { minX: -4096, maxX: 4095, minY: 0, maxY: 511, minZ: -4096, maxZ: 4095 });
+  assert.equal(g.has(4096, 0, 0), false);
+  const seen = [];
+  g.forEachKey((k, m) => seen.push([unpackKey(k), m]));
+  assert.equal(seen.length, 4);
+  assert.deepEqual(seen[3][0], { x: 3000, y: 64, z: -3500 });
 });

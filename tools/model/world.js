@@ -46,12 +46,27 @@ function loadContent(contentDir, n) {
   }
 }
 
+// Anzeigepfad: relativ zum Repository, bei Projektordnern als projects/<id>/…
+function rel(p, project) {
+  const from = project && project.dir ? project.dir : ROOT;
+  const r = path.relative(from, p).split(path.sep).join('/');
+  return project && project.dir ? `projects/${project.id}/${r}` : r;
+}
+
 /**
- * buildWorld({ modules, modelDir, contentDir })
+ * buildWorld({ modules, modelDir, contentDir, project, interfaces })
+ * project: aufgelöstes Projekt (tools/projects.js); liefert modelDir, contentDir, Schnittstellen und ctx.project.
+ * Ohne project gilt der Dom (V2-Verhalten).
  * -> { grid, modules: [{ module, meta, content, parts: [{ id, opts, keys }] }], errors, warnings }
  * errors: [{ rule, module, part, message }]
  */
-function buildWorld({ modules, modelDir = DEFAULT_MODEL_DIR, contentDir = DEFAULT_CONTENT_DIR } = {}) {
+function buildWorld(opts = {}) {
+  const { modules, project } = opts;
+  const modelDir = opts.modelDir || (project ? project.modelDir : DEFAULT_MODEL_DIR);
+  const contentDir = opts.contentDir || (project ? project.contentDir : DEFAULT_CONTENT_DIR);
+  const interfaces = opts.interfaces || (project ? require('../projects.js').loadSpecs(project).interfaces
+    : require('../spec/interfaces.js'));
+  const projectMeta = project ? project.meta : Object.freeze({ id: 'duomo', title: 'Santa Maria del Fiore', type: 'wahrzeichen' });
   const warnings = [];
   const errors = [];
   const grid = new VoxelGrid();
@@ -63,7 +78,9 @@ function buildWorld({ modules, modelDir = DEFAULT_MODEL_DIR, contentDir = DEFAUL
   const base = {
     dims: require('../spec/dimensions.js'),
     palette: require('../spec/palette.js'),
-    interfaces: require('../spec/interfaces.js'),
+    interfaces,
+    project: projectMeta,
+    frame: require('../spec/frame.js'),
     shapes: require('../geom/shapes.js'),
     ...libs,
     grid: { has: (x, y, z) => grid.has(x, y, z) }
@@ -90,8 +107,9 @@ function buildWorld({ modules, modelDir = DEFAULT_MODEL_DIR, contentDir = DEFAUL
     }
 
     const { content, error: cErr } = loadContent(contentDir, n);
-    if (cErr) warnings.push(`Modul ${n}: content/steps_de/modul_${n}.json nicht lesbar (${cErr})`);
-    else if (!content) warnings.push(`Modul ${n}: kein Content (content/steps_de/modul_${n}.json), Platzhalter`);
+    const cRel = rel(path.join(contentDir, `modul_${n}.json`), project);
+    if (cErr) warnings.push(`Modul ${n}: ${cRel} nicht lesbar (${cErr})`);
+    else if (!content) warnings.push(`Modul ${n}: kein Content (${cRel}), Platzhalter`);
     const meta = {
       title: (content && content.title) || `Modul ${n}`,
       subtitle: (content && content.subtitle) || '',
@@ -132,7 +150,7 @@ function buildWorld({ modules, modelDir = DEFAULT_MODEL_DIR, contentDir = DEFAUL
       }
     }
   }
-  return { grid, modules: result, errors, warnings, modelDir, contentDir };
+  return { grid, modules: result, errors, warnings, modelDir, contentDir, project: projectMeta };
 }
 
 module.exports = { buildWorld, discoverModuleFiles, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };

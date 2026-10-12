@@ -1,9 +1,15 @@
 'use strict';
 // VoxelGrid: kompakter Speicher mit Eigentümer-Prüfung (jede Zelle genau einmal).
 
-const X_MIN = -512, X_MAX = 511;
-const Z_MIN = -512, Z_MAX = 511;
+// Koordinatenbereich V3: x, z -4096..4095, y 0..511
+const X_MIN = -4096, X_MAX = 4095;
+const Z_MIN = -4096, Z_MAX = 4095;
 const Y_MIN = 0, Y_MAX = 511;
+// Packung: key = ((x + 4096) * 8192 + (z + 4096)) * 512 + y  (< 2^35, exakt in Double; keine Bit-Operatoren!)
+const X_OFF = 4096, Z_OFF = 4096;
+const Z_SPAN = 8192, Y_SPAN = 512;
+const KEY_STEP_Z = Y_SPAN;          // Nachbar in z: ±512
+const KEY_STEP_X = Z_SPAN * Y_SPAN; // Nachbar in x: ±4194304
 
 // Wert pro Zelle: seq * 2^28 + tagId * 2^16 + typeId (passt in eine Double-Zahl)
 const TYPE_BITS = 65536;      // 2^16
@@ -11,16 +17,21 @@ const TAG_BITS = 4096;        // 2^12
 const SEQ_SHIFT = TYPE_BITS * TAG_BITS; // 2^28
 
 function packKey(x, y, z) {
-  return ((x + 512) * 1024 + (z + 512)) * 512 + y;
+  return ((x + X_OFF) * Z_SPAN + (z + Z_OFF)) * Y_SPAN + y;
 }
 
 function unpackKey(key) {
-  const y = key % 512;
-  const rest = (key - y) / 512;
-  const zr = rest % 1024;
-  const x = (rest - zr) / 1024 - 512;
-  return { x, y, z: zr - 512 };
+  const y = key % Y_SPAN;
+  const rest = (key - y) / Y_SPAN;
+  const zr = rest % Z_SPAN;
+  const x = (rest - zr) / Z_SPAN - X_OFF;
+  return { x, y, z: zr - Z_OFF };
 }
+
+// Einzelne Komponenten ohne Objektanlage
+const yOfKey = (key) => key % Y_SPAN;
+const xOfKey = (key) => Math.floor(key / KEY_STEP_X) - X_OFF;
+const zOfKey = (key) => (Math.floor(key / Y_SPAN) % Z_SPAN) - Z_OFF;
 
 class VoxelConflictError extends Error {
   constructor(x, y, z, existing, incoming) {
@@ -186,6 +197,11 @@ class VoxelGrid {
     return v === undefined ? undefined : this._types[this._decode(v).typeId];
   }
 
+  // Ruft cb(key, module) für jede Zelle auf, ohne eine Schlüsselliste anzulegen
+  forEachKey(cb) {
+    for (const [key, v] of this._cells) cb(key, this._tags[this._decode(v).tagId].module);
+  }
+
   // Gepackte Schlüssel (Einfügereihenfolge); optional gefiltert: predicate(key, module)
   keysOf(predicate) {
     const out = [];
@@ -250,4 +266,5 @@ class VoxelGrid {
   }
 }
 
-module.exports = { VoxelGrid, VoxelConflictError, packKey, unpackKey };
+module.exports = { VoxelGrid, VoxelConflictError, packKey, unpackKey, xOfKey, yOfKey, zOfKey,
+  X_MIN, X_MAX, Y_MIN, Y_MAX, Z_MIN, Z_MAX, KEY_STEP_X, KEY_STEP_Z };

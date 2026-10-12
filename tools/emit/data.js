@@ -49,7 +49,8 @@ function decodeRuns(base64, palette) {
   return blocks;
 }
 
-function emitModuleData({ moduleMeta, steps, grid, outDir }) {
+// projectId: nur für neue Projekte (V3, Format window.PROJECT_DATA_V3[id][N]); ohne projectId bleibt der Dom im V2-Format.
+function emitModuleData({ moduleMeta, steps, grid, outDir, projectId }) {
   const N = moduleMeta.module;
   // Schritte -> Blöcke mit Typ, Palette nach erstem Vorkommen
   const palette = [];
@@ -82,11 +83,16 @@ function emitModuleData({ moduleMeta, steps, grid, outDir }) {
     module: N, title: moduleMeta.title, subtitle: moduleMeta.subtitle, icon: moduleMeta.icon,
     palette, steps: outSteps
   };
+  const pid = JSON.stringify(projectId);
+  const target = projectId ? `window.PROJECT_DATA_V3[${pid}][${N}]` : `window.MODULE_DATA_V2[${N}]`;
+  const head = projectId
+    ? `window.PROJECT_DATA_V3 = window.PROJECT_DATA_V3 || {};\nwindow.PROJECT_DATA_V3[${pid}] = window.PROJECT_DATA_V3[${pid}] || {};\n`
+    : `window.MODULE_DATA_V2 = window.MODULE_DATA_V2 || {};\n`;
   const text =
     `// GENERIERT von tools/emit/data.js - nicht von Hand ändern.\n` +
     `// Modul ${N}: ${steps.length} Schritte, ${totalBlocks} Blöcke, ${totalRuns} Läufe.\n` +
-    `window.MODULE_DATA_V2 = window.MODULE_DATA_V2 || {};\n` +
-    `window.MODULE_DATA_V2[${N}] = ${JSON.stringify(data)};\n`;
+    head +
+    `${target} = ${JSON.stringify(data)};\n`;
 
   fs.mkdirSync(outDir, { recursive: true });
   const file = path.join(outDir, `module_${N}.js`);

@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Testturm West",
+  "subtitle": "Bautüte 1: Testturm",
+  "icon": "T",
+  "parts": {
+    "sockel": {
+      "title": "Sockel",
+      "description": "Der Sockel ist 7 mal 7 Blöcke groß.",
+      "tip": "Lege zuerst die Ecken.",
+      "caution": "Prüfe die Mitte.",
+      "fact": "Testdaten."
+    },
+    "schaft": {
+      "title": "Schaft",
+      "description": "Der Schaft ist 5 mal 5 Blöcke groß.",
+      "tip": "Baue Lage für Lage.",
+      "caution": "Halte die Kanten gerade.",
+      "fact": "Testdaten."
+    }
+  }
+}

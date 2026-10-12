@@ -22,7 +22,8 @@ module.exports = function r9(ctx) {
   const { renderDocs } = require('../emit/docs.js');
   const only = ctx.docs.modules;
   const modules = ctx.world.modules.filter((m) => !only || only.includes(m.module));
-  const docs = renderDocs({ modules, stepsByModule: ctx.stepsByModule, grid: ctx.grid, root: ctx.root });
+  const docs = renderDocs({ modules, stepsByModule: ctx.stepsByModule, grid: ctx.grid, root: ctx.root,
+    project: ctx.project, complete: ctx.docs.complete });
   const errors = [];
   for (const [rel, want] of docs) {
     const file = path.join(ctx.root, ...rel.split('/'));

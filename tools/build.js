@@ -1,38 +1,50 @@
 'use strict';
-// Gesamtablauf (ARCHITEKTUR §8): buildWorld -> planModule -> validate -> (optional) emit -> Bericht.
-// Aufruf: node tools/build.js [--modules 0,1,3] [--no-emit] [--strict]
+// Gesamtablauf (ARCHITEKTUR §8, §10): buildWorld -> planModule -> validate -> (optional) emit -> Bericht.
+// Aufruf: node tools/build.js [--project <id> | --all] [--cross] [--modules 0,1,3] [--no-emit] [--strict]
+// Ohne --project/--all/--cross wird nur der Dom (duomo) gebaut, wie in V2.
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { buildWorld, discoverModuleFiles, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR } = require('./model/world.js');
+const { buildWorld, discoverModuleFiles } = require('./model/world.js');
 const { planModule } = require('./steps/planner.js');
 const { validate, RULES } = require('./validate/index.js');
-
-const ROOT = path.resolve(__dirname, '..');
+const { loadRegistry, loadSpecs, ROOT: REPO_ROOT } = require('./projects.js');
 
 function parseArgs(argv) {
-  const o = { modules: null, emit: true, strict: false };
+  const o = { modules: null, emit: true, strict: false, project: null, all: false, cross: false };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--no-emit') o.emit = false;
     else if (a === '--strict') o.strict = true;
-    else if (a === '--modules') {
+    else if (a === '--all') o.all = true;
+    else if (a === '--cross') o.cross = true;
+    else if (a === '--project') {
+      o.project = argv[++i];
+      if (!o.project || o.project.startsWith('--')) throw new Error('--project erwartet eine Projekt-ID');
+    } else if (a === '--modules') {
       o.modules = (argv[++i] || '').split(',').filter(Boolean).map(Number);
       if (!o.modules.length || o.modules.some((n) => !Number.isInteger(n) || n < 0 || n > 9)) {
         throw new Error('--modules erwartet eine Liste wie 0,1,3 (Ziffern 0..9)');
       }
     } else throw new Error(`Unbekanntes Argument: ${a}`);
   }
+  if (o.all && o.project && !o.cross) throw new Error('--all und --project schließen sich aus');
   return o;
 }
 
 const ms = (t0) => Number(process.hrtime.bigint() - t0) / 1e6;
 const fmtMs = (v) => (v >= 1000 ? (v / 1000).toFixed(2) + ' s' : v.toFixed(0) + ' ms');
+const mb = (bytes) => Math.round(bytes / 1048576);
 
-function main(argv) {
-  const opts = parseArgs(argv);
-  const modelDir = DEFAULT_MODEL_DIR;
-  const available = [...discoverModuleFiles(modelDir).keys()].sort((a, b) => a - b);
+/**
+ * Baut ein Projekt. env: { root, projectsRoot }. Rückgabe: { code, report }.
+ * Das Grid lebt nur innerhalb dieser Funktion.
+ */
+function buildProject(project, opts, env) {
+  const root = env.root;
+  const tStart = process.hrtime.bigint();
+  const specs = loadSpecs(project);
+  const available = [...discoverModuleFiles(project.modelDir).keys()].sort((a, b) => a - b);
   let toBuild = available;
   let toEmit = available;
   if (opts.modules) {
@@ -45,9 +57,10 @@ function main(argv) {
   const errors = [], warnings = [];
   const timing = {};
   let t = process.hrtime.bigint();
+  if (!available.length) errors.push(`Projekt ${project.id}: keine Moduldateien mN_*.js in ${project.modelDir}`);
 
   // 1) Welt
-  const world = buildWorld({ modules: toBuild, modelDir, contentDir: DEFAULT_CONTENT_DIR });
+  const world = buildWorld({ modules: toBuild, project });
   timing.world = ms(t);
   for (const e of world.errors) errors.push(e.message);
   warnings.push(...world.warnings);
@@ -64,20 +77,23 @@ function main(argv) {
 
   // 3) Prüfung
   t = process.hrtime.bigint();
-  const rules = validate({ grid: world.grid, world, stepsByModule, root: ROOT,
-    only: RULES.map((r) => r[0]).filter((name) => name !== 'R9') });
+  const common = { grid: world.grid, world, stepsByModule, root, ground: specs.ground,
+    interfaces: specs.interfaces, project };
+  const rules = validate({ ...common, only: RULES.map((r) => r[0]).filter((name) => name !== 'R9') });
   for (const r of rules) {
     errors.push(...r.errors);
     warnings.push(...r.warnings);
   }
   // Dokumentation: mit Emit zuerst schreiben, danach prüft R9 gegen die Platte (ohne Emit gegen den Bestand)
+  const complete = toEmit.length === available.length;
   let docsEmitted = null;
   if (opts.emit && !errors.length) {
     const docModules = world.modules.filter((m) => toEmit.includes(m.module));
-    docsEmitted = require('./emit/docs.js').emitDocs({ modules: docModules, stepsByModule, grid: world.grid, root: ROOT });
+    docsEmitted = require('./emit/docs.js').emitDocs({ modules: docModules, stepsByModule, grid: world.grid, root,
+      project, complete });
     console.log(`Doku: ${docsEmitted.files.length} Dateien, ${docsEmitted.changed.length} geändert`);
   }
-  for (const r of validate({ grid: world.grid, world, stepsByModule, root: ROOT, only: ['R9'], docs: { modules: toEmit } })) {
+  for (const r of validate({ ...common, only: ['R9'], docs: { modules: toEmit, complete } })) {
     errors.push(...r.errors);
     warnings.push(...r.warnings);
     rules.push(r);
@@ -96,17 +112,19 @@ function main(argv) {
       warnings.push('Emit übersprungen wegen Fehlern');
     } else {
       const { emitModuleData } = require(emitFile);
-      const outDir = path.join(ROOT, 'webapp', 'js', 'data', 'v2');
+      const outDir = project.webDataDir;
       for (const m of world.modules) {
         if (!toEmit.includes(m.module)) continue;
         const r = emitModuleData({ moduleMeta: { module: m.module, ...m.meta }, steps: stepsByModule[m.module],
-          grid: world.grid, outDir });
+          grid: world.grid, outDir, projectId: project.legacy ? undefined : project.id });
         emitted.push({ module: m.module, ...r });
       }
-      // Umgebungsdaten (immer, auch bei --modules)
-      const { emitSite } = require('./emit/site.js');
-      const site = emitSite({ outDir });
-      console.log(`Site: ${site.kept} von ${site.total} Gebäude -> ${site.file} (${site.bytes} Bytes)`);
+      if (project.legacy) {
+        // Umgebungsdaten des Doms (immer, auch bei --modules)
+        const { emitSite } = require('./emit/site.js');
+        const site = emitSite({ outDir });
+        console.log(`Site: ${site.kept} von ${site.total} Gebäude -> ${site.file} (${site.bytes} Bytes)`);
+      }
     }
   }
   timing.emit = ms(t);
@@ -136,17 +154,81 @@ function main(argv) {
   if (warnings.length) {
     console.log(`Warnungen (${warnings.length}):`);
     for (const w of warnings.slice(0, 30)) console.log('  ' + w);
-    if (warnings.length > 30) console.log(`  … und ${warnings.length - 30} weitere (siehe build/report.json)`);
+    if (warnings.length > 30) console.log(`  … und ${warnings.length - 30} weitere (siehe build/report_${project.id}.json)`);
   }
 
+  // Ressourcen: Spitzen-RSS des Prozesses, aktueller Heap, Dauer dieses Projekts
+  const mem = process.memoryUsage();
+  const peakRss = process.resourceUsage().maxRSS * 1024;
+  const resources = { durationMs: Math.round(ms(tStart)), heapUsedMB: mb(mem.heapUsed), rssMB: mb(mem.rss), peakRssMB: mb(peakRss) };
+  console.log(`Ressourcen: Dauer ${fmtMs(resources.durationMs)}, Heap ${resources.heapUsedMB} MB, RSS ${resources.rssMB} MB, Spitzen-RSS ${resources.peakRssMB} MB`);
+
   const failed = errors.length > 0 || (opts.strict && warnings.length > 0);
-  const report = { generated: new Date().toISOString(), options: opts, moduleCount: world.modules.length,
-    totalBlocks: world.grid.size, modules: modReport, rules: ruleReport, timingMs: timing, emitted,
+  const report = { generated: new Date().toISOString(), project: project.id, options: opts, moduleCount: world.modules.length,
+    totalBlocks: world.grid.size, modules: modReport, rules: ruleReport, timingMs: timing, resources, emitted,
     errors, warnings, status: failed ? 'FEHLER' : 'OK' };
-  fs.mkdirSync(path.join(ROOT, 'build'), { recursive: true });
-  fs.writeFileSync(path.join(ROOT, 'build', 'report.json'), JSON.stringify(report, null, 2));
+  fs.mkdirSync(path.join(root, 'build'), { recursive: true });
+  const json = JSON.stringify(report, null, 2);
+  fs.writeFileSync(path.join(root, 'build', `report_${project.id}.json`), json);
+  if (project.legacy) fs.writeFileSync(path.join(root, 'build', 'report.json'), json); // V2-Name bleibt erhalten
+  console.log(failed ? 'Ergebnis: FEHLER' : 'Ergebnis: OK');
+  return { code: failed ? 1 : 0, report };
+}
+
+function runCross(ids, env) {
+  const { checkCrossProject } = require('./validate/x_projects.js');
+  console.log(`Projektübergreifende Prüfung (${ids ? ids.join(', ') : 'alle Projekte'}):`);
+  const r = checkCrossProject(ids, { root: env.root, projectsRoot: env.projectsRoot, entries: env.entries, log: (l) => console.log(l) });
+  console.log(`  ${r.projects.length} Projekte, ${r.pairs.length} Paare, ${r.columnOverlaps} Säulen mit y-Überschneidung, ${r.conflicts} Konflikte`);
+  for (const p of r.pairs) console.log(`  ${p.a} / ${p.b}: ${p.columns} Säulen, ${p.conflicts} Zellkonflikte`);
+  for (const e of r.errors) console.log('  Fehler: ' + e);
+  for (const w of r.warnings) console.log('  Warnung: ' + w);
+  console.log(`Zeit: ${fmtMs(r.ms)}`);
+  const failed = r.errors.length > 0;
   console.log(failed ? 'Ergebnis: FEHLER' : 'Ergebnis: OK');
   return failed ? 1 : 0;
+}
+
+/**
+ * main(argv, env?) -> Exit-Code. env: { root, projectsRoot, entries } (Tests); Vorgabe ist das Repository.
+ */
+function main(argv, env = {}) {
+  const opts = parseArgs(argv);
+  const root = env.root || REPO_ROOT;
+  const e = { root, projectsRoot: env.projectsRoot || path.join(root, 'projects'), entries: env.entries };
+  const reg = loadRegistry(e);
+
+  const runBuilds = opts.all || (!opts.cross && opts.project !== null) || (!opts.cross && !opts.all);
+  let code = 0;
+  if (runBuilds) {
+    let targets;
+    if (opts.all) targets = reg.projects;
+    else {
+      const id = opts.project || 'duomo';
+      const p = reg.projects.find((q) => q.id === id);
+      if (!p) throw new Error(`Unbekanntes Projekt "${id}" (bekannt: ${reg.projects.map((q) => q.id).join(', ')})`);
+      targets = [p];
+    }
+    if (opts.all) for (const pr of reg.problems) { console.log(`Fehler: Projekt-Registry: ${pr}`); code = 1; }
+    const explicit = opts.all || opts.project !== null;
+    const results = [];
+    for (const p of targets) {
+      if (explicit) console.log(`=== Projekt ${p.id}: ${p.title} (${p.type}) ===`);
+      const r = buildProject(p, opts, e);
+      results.push([p.id, r.code]);
+      if (r.code) code = 1;
+    }
+    if (opts.all) {
+      console.log('Alle Projekte:');
+      for (const [id, c] of results) console.log(`  ${id}: ${c ? 'FEHLER' : 'OK'}`);
+      console.log(code ? 'Ergebnis (alle): FEHLER' : 'Ergebnis (alle): OK');
+    }
+  }
+  if (opts.cross) {
+    const ids = opts.project ? opts.project.split(',').filter(Boolean) : null;
+    if (runCross(ids, e)) code = 1;
+  }
+  return code;
 }
 
 if (require.main === module) {
@@ -158,4 +240,4 @@ if (require.main === module) {
   }
 }
 
-module.exports = { main, parseArgs };
+module.exports = { main, parseArgs, buildProject };

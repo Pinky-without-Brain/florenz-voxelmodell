@@ -14,7 +14,7 @@ Eigentümer: Design (Claude Opus). Kontext: `00_Projektplan_und_Konzept/NEUAUFBA
 - Abschlussbericht: geänderte Dateien, Befehle mit **wörtlicher** Ausgabe (gekürzt auf das Wesentliche), Abweichungen, offene Fragen. Behaupte nichts ohne Beleg.
 
 ## 1. Koordinaten und Konventionen
-- Blockzellen sind ganzzahlige `(x, y, z)`. +X zeigt nach Osten (Chor), +Z nach Süden, Y nach oben. Der Ursprung liegt in der Kuppelmitte. Der Fußboden ist Y 64, das Laufniveau Y 65.
+- Blockzellen sind ganzzahlige `(x, y, z)`. Koordinatenbereich (V3): x und z −4096..4095, y 0..511 (Details in §10). +X zeigt nach Osten (Chor), +Z nach Süden, Y nach oben. Der Ursprung liegt in der Kuppelmitte. Der Fußboden ist Y 64, das Laufniveau Y 65.
 - Halbmaße sind **inklusive Zellen**: `half = 44` bedeutet die Zellen −44..+44.
 - Achtecke: Apothem `a`, Flächen auf den Achsen. Prädikat `shapes.inOctagon(dx, dz, a)`. Kontinuierliche Achteck-Norm: `rho(x, z) = max(|x|, |z|, (|x| + |z|)/√2)`.
 - Nur volle Blöcke. Erlaubte Typen: `tools/spec/palette.js`.
@@ -127,3 +127,30 @@ Bericht: Konsolenzusammenfassung und `build/report.json` (Schritte je Modul, Bl�
 - **Kreuzgewölbe:** `vaults.groinVault` (Laibung = max) mit `riseX`/`riseZ` verwenden. Für flache Bögen (Steighöhe < Halbweite) `arches.profileForRise` bzw. `archOpeningRise` nutzen. Die Formel aus A5 gilt nur für Spitzbögen.
 - **Bauteil-Reihenfolge:** Was auf etwas aufliegt, kommt danach (Gewölbe nach Wänden, Brüstung nach Boden, Treppenabschnitte je Geschoss). Treppen und Decken mit Löchern stehen ohne Symmetrie-Flag in eigenen Bauteilen.
 - **Auflager auf Modul 0:** Bauteile, die über ihren Boden-Footprint hinausragen (Vorsprünge, Gesimse), dürfen auf Y 65 nicht über den Boden von M0 hinausgehen (R5 „auf Boden“). Vorsprünge beginnen deshalb ab Y 66.
+
+## 10. Projekte (V3)
+Die Pipeline baut mehrere Projekte, jedes mit eigenem Grid. Der Dom ist das Projekt `duomo` und bleibt bit-identisch (gleiche Blöcke, Schritte, Webapp-Daten und Doku).
+
+**Koordinatenbereich.** x und z −4096..4095, y 0..511. Packung `key = ((x + 4096) * 8192 + (z + 4096)) * 512 + y`, also Schlüssel < 2^35, exakt in Double. **Keine Bit-Operatoren auf Schlüsseln.** Zerlegen mit `unpackKey`, `xOfKey`, `yOfKey`, `zOfKey` aus `tools/geom/grid.js`. Nachbarn: ±1 in y, ±512 in z, ±4194304 in x. Die Webapp (`webapp/`) bleibt in A1 unverändert (Phase B).
+
+**Registry.** `tools/spec/projects.js` exportiert `PROJECTS` (nur Projekte mit Sonderpfaden, heute `duomo` mit `docs: 'legacy-duomo'`). `tools/projects.js` (`loadRegistry`, `getProject`, `loadSpecs`) ergänzt automatisch jeden Ordner `projects/<id>/` mit gültiger `project.json`. Fehlerhafte Ordner werden als Problem gemeldet (`--all` schlägt dann fehl).
+
+**Verzeichniskonvention neuer Projekte.**
+```
+projects/<id>/project.json        { id, title, type: 'wahrzeichen'|'quartier'|'stadtgrund', ... }  id = Ordnername
+projects/<id>/model/mN_*.js       Module wie §3 (N = 0..9)
+projects/<id>/content/modul_N.json   Texte wie §5
+projects/<id>/spec/interfaces.js  optional (SUPPORTS/OWNERSHIP/RESERVED); Vorgabe: leer
+projects/<id>/spec/ground.js      optional (Boden-Provider); Vorgabe: groundTopY = 63
+projects/<id>/docs/               erzeugt: BAUANLEITUNG_MODUL_N.md und README.md (Statistik)
+webapp/data/<id>/module_N.js      erzeugt: window.PROJECT_DATA_V3[id][N] (Format wie §6)
+```
+`ctx` der Module enthält zusätzlich `ctx.project` (id, title, type und weitere Felder aus project.json) und `ctx.frame` (`tools/spec/frame.js`). `ctx.interfaces` stammt aus dem Projekt. R10 prüft zusätzlich `projects/`, `data/` (ohne `data/osm/`) und `20_Stadtmodell_Florenz/`; erzeugte Daten unter `webapp/data/` werden übersprungen.
+
+**Boden-Provider (R3, R4, R6).** `ctx.ground` = `{ hasGroundContact(x,y,z), minY, maxY }`, gebaut von `tools/validate/ground.js` (`makeProvider`) aus dem Boden-Modul des Projekts. Das Modul exportiert entweder `hasGroundContact(x,y,z)` (Dom: `tools/spec/ground_duomo.js`, exakt die V2-Logik) oder die Standardschnittstelle `groundTopY(x,z)` (optional `isHollow(x,y,z)` für Aushub, `minY`/`maxY`). Standardregel: Kontakt, wenn `y == groundTopY(x,z) + 1`, oder wenn `y ≤ groundTopY(x,z)` und die Zelle `(x, y−1, z)` im Geländesinne nicht leer ist (nicht ausgehoben; unter y = 0 gilt Fels). Ohne `ground.js`: `groundTopY = 63`. R6 nutzt `minY..maxY` (Vorgabe `LEVELS.foundationBottomY..maxY`). Das echte Gelände liefern später A2/A4.
+
+**Befehle.**
+- `node tools/build.js` baut nur `duomo` (wie V2), Bericht `build/report.json` und `build/report_duomo.json`.
+- `--project <id>` baut ein Projekt, `--all` alle registrierten nacheinander, je mit eigenem Grid und `build/report_<id>.json`. `--modules` gilt innerhalb des Projekts. Der Bericht enthält `resources` (Dauer, Heap, Spitzen-RSS).
+- `--cross` (`tools/validate/x_projects.js`, `checkCrossProject(ids)`) baut jedes Projekt, behält nur ein 2D-Raster (Säule x,z -> min/max y) und baut bei Säulen mit überlappendem y-Bereich beide Projekte erneut, beschränkt auf diese Säulen, für die zellweise Prüfung. Doppelt belegte Zellen sind Fehler (Exit 1); überlappende y-Bereiche ohne Zellkonflikt eine Warnung. `--cross --project a,b` prüft nur diese Projekte; `--cross --all` baut zuerst alle.
+- Tests nutzen `main(argv, { root, projectsRoot, entries })` und die Fixtures unter `tools/test/fixtures/projects/`.
