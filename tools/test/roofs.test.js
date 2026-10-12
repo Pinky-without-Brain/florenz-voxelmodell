@@ -18,9 +18,36 @@ function columnsOf(cells) {
   return m;
 }
 
+const FACES = [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]];
+const EDGES = [[1, 1, 0], [1, -1, 0], [-1, 1, 0], [-1, -1, 0], [0, 1, 1], [0, 1, -1], [0, -1, 1], [0, -1, -1]];
+
+// Flächenkomponenten (6er). Mit seeds: Zahl der von seeds aus erreichten Zellen von `cells`.
+function components(cells, all) {
+  const universe = all || cells;
+  const set = new Set(universe.map(k3));
+  const seen = new Set();
+  let count = 0;
+  const start = all ? cells : universe;
+  for (const c of start) {
+    if (seen.has(k3(c))) continue;
+    count++;
+    seen.add(k3(c));
+    const stack = [c];
+    while (stack.length) {
+      const p = stack.pop();
+      for (const [dx, dy, dz] of FACES) {
+        const n = { x: p.x + dx, y: p.y + dy, z: p.z + dz };
+        const k = k3(n);
+        if (set.has(k) && !seen.has(k)) { seen.add(k); stack.push(n); }
+      }
+    }
+  }
+  return { count, reachedLowest: seen.size };
+}
+
 // Dichtheit: benachbarte Säulen haben überlappende oder angrenzende y-Bereiche,
 // und die Zellmenge ist über Flächenkontakte zusammenhängend.
-function assertTight(cells) {
+function assertTight(cells, faceConnected = true) {
   assert.ok(cells.length > 0);
   const cols = columnsOf(cells);
   for (const c of cols.values()) {
@@ -35,7 +62,8 @@ function assertTight(cells) {
   const stack = [cells[0]];
   while (stack.length) {
     const c = stack.pop();
-    for (const [dx, dy, dz] of [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]]) {
+    // faceConnected: nur Flächen (6er); sonst auch Kanten (18er)
+    for (const [dx, dy, dz] of faceConnected ? FACES : FACES.concat(EDGES)) {
       const n = { x: c.x + dx, y: c.y + dy, z: c.z + dz };
       const k = k3(n);
       if (set.has(k) && !seen.has(k)) { seen.add(k); stack.push(n); }
@@ -48,12 +76,40 @@ test('surface: Dichtung zu niedrigeren Nachbarn', () => {
   const h = { '0,0': 10, '1,0': 5, '2,0': 5 };
   const cells = [...R.surface({ columns: [[0, 0], [1, 0], [2, 0]], height: (x, z) => h[`${x},${z}`] })];
   const cols = columnsOf(cells);
-  assert.equal(cols.get('0,0').lo, 6); // bis eins über dem niedrigeren Nachbarn
+  assert.equal(cols.get('0,0').lo, 5); // bis zur Oberkante des niedrigeren Nachbarn
   assert.equal(cols.get('0,0').hi, 10);
   assert.equal(cols.get('1,0').lo, 5);
-  assert.equal(cells.length, 5 + 1 + 1);
+  assert.equal(cells.length, 6 + 1 + 1);
   // Reihenfolge x, z, y aufsteigend
-  assert.deepEqual(cells.slice(0, 2).map(k3), ['0,6,0', '0,7,0']);
+  assert.deepEqual(cells.slice(0, 2).map(k3), ['0,5,0', '0,6,0']);
+  // overlap 0: nur bis eins über dem Nachbarn
+  const c0 = columnsOf([...R.surface({ columns: [[0, 0], [1, 0]], height: (x) => (x === 0 ? 10 : 5), overlap: 0 })]);
+  assert.equal(c0.get('0,0').lo, 6);
+});
+
+test('surface: overlap 0 verbindet nur über Kanten', () => {
+  const columns = [];
+  for (let x = 0; x < 8; x++) columns.push([x, 0]);
+  const h = (x) => 70 + x;
+  assertTight([...R.surface({ columns, height: h, overlap: 0 })], false);
+  assert.throws(() => assertTight([...R.surface({ columns, height: h, overlap: 0 })], true));
+  const cells = [...R.surface({ columns, height: h })];
+  assertTight(cells, true);
+  assert.equal(columnsOf(cells).get('3,0').lo, 72);
+});
+
+test('Dächer: genau eine Komponente und flächig mit der Traufe verbunden', () => {
+  const roofs = [
+    [...R.gableRoof({ x0: 0, x1: 151, z0: 0, z1: 42, ridgeAxis: 'x', eaveY: 70, ridgeY: 90 })],
+    [...R.shedRoof({ x0: 0, x1: 15, z0: 0, z1: 9, axis: 'x', highAt: 'min', highY: 90, lowY: 80 })],
+    [...R.octPyramid({ cx: 0, cz: 0, a0: 20, y0: 70, a1: 0, y1: 90 })],
+    [...R.squarePyramid({ cx: 0, cz: 0, h0: 10, y0: 70, h1: 0, y1: 80 })],
+  ];
+  for (const cells of roofs) {
+    assert.equal(components(cells).count, 1);
+    const minY = Math.min(...cells.map((c) => c.y));
+    assert.equal(components(cells.filter((c) => c.y === minY), cells).reachedLowest, cells.length);
+  }
 });
 
 test('Satteldach 0..20 x 0..10, First entlang x', () => {
@@ -74,7 +130,9 @@ test('Satteldach 0..20 x 0..10, First entlang x', () => {
 
 test('Satteldach entlang z und Dicke', () => {
   const cells = [...R.gableRoof({ x0: 0, x1: 12, z0: 0, z1: 20, ridgeAxis: 'z', eaveY: 70, ridgeY: 76, thickness: 2 })];
-  assert.equal(columnsOf(cells).get('6,4').hi, 76 - 0 > 0 ? Math.floor(76 - 6 * 4 / 6) : 0);
+  // First bei x = 6 auf 76; x = 3: d = 3, hw = 6 -> 76 - 6*3/6 = 73
+  assert.equal(columnsOf(cells).get('6,4').hi, 76);
+  assert.equal(columnsOf(cells).get('3,4').hi, 73);
   assertTight(cells);
 });
 

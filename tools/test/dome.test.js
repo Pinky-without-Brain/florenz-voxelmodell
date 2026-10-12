@@ -121,3 +121,30 @@ test('Dichtheit Außenschale', () => {
 test('Auge bleibt frei', () => {
   for (const c of inner.list) assert.ok(dome.rho(c.x, c.z) >= L.eye.rhoMin);
 });
+
+// Eine Schale muss genau eine 6er-Komponente bilden
+function components6(shellSet, list) {
+  const seen = new Set();
+  let count = 0;
+  for (const c of list) {
+    const k0 = key(c.x, c.y, c.z);
+    if (seen.has(k0)) continue;
+    count++;
+    seen.add(k0);
+    const stack = [c];
+    while (stack.length) {
+      const p = stack.pop();
+      for (const [ax, ay, az] of [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]]) {
+        const n = { x: p.x + ax, y: p.y + ay, z: p.z + az };
+        const k = key(n.x, n.y, n.z);
+        if (shellSet.has(k) && !seen.has(k)) { seen.add(k); stack.push(n); }
+      }
+    }
+  }
+  return count;
+}
+
+test('Schalen sind flächig zusammenhängend (eine Komponente je Schale)', () => {
+  assert.equal(components6(inner.set, inner.list), 1);
+  assert.equal(components6(outer.set, outer.list), 1);
+});

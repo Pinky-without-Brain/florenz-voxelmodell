@@ -22,7 +22,7 @@ function* groinVault(p) {
       for (const [dx, dz] of NB) {
         const nx = x + dx, nz = z + dz;
         if (nx < x0 || nx > x1 || nz < z0 || nz > z1) continue;
-        yHi = Math.max(yHi, lo(nx, nz) - 1);
+        yHi = Math.max(yHi, lo(nx, nz));
       }
       for (let y = yLo; y <= yHi; y++) yield { x, y, z };
     }
@@ -55,11 +55,50 @@ function* cloisterVault(p) {
       let yHi = yLo + thickness - 1;
       for (const [ddx, ddz] of NB) {
         if (rho(dx + ddx, dz + ddz) > a) continue;
-        yHi = Math.max(yHi, lo(x + ddx, z + ddz) - 1);
+        yHi = Math.max(yHi, lo(x + ddx, z + ddz));
       }
       for (let y = yLo; y <= yHi; y++) yield { x, y, z };
     }
   }
+}
+
+// Kantenkontakte (zwei Zellen berühren sich nur diagonal in einer Ebene) werden flächig
+// verbunden: Es wird die Zelle ergänzt, die über der unteren Zelle liegt (y-Paare)
+// bzw. beide Zwischenzellen (reine XZ-Diagonale). Prüfung nur gegen die Eingabemenge,
+// damit das Ergebnis unabhängig von der Reihenfolge und symmetrieerhaltend ist.
+function connectEdges(cells) {
+  const key = (x, y, z) => x + ',' + y + ',' + z;
+  const set = new Set(cells.map((c) => key(c.x, c.y, c.z)));
+  const added = new Map();
+  const add = (x, y, z) => {
+    const k = key(x, y, z);
+    if (!set.has(k) && !added.has(k)) added.set(k, { x, y, z });
+  };
+  const AX = [[1, 0, 0], [0, 1, 0], [0, 0, 1]];
+  const PAIRS = [[0, 1], [0, 2], [1, 2]];
+  for (const c of cells) {
+    for (const [i, j] of PAIRS) {
+      for (const sj of [1, -1]) {
+        const a = AX[i], b = AX[j];
+        const ox = c.x + a[0] + sj * b[0], oy = c.y + a[1] + sj * b[1], oz = c.z + a[2] + sj * b[2];
+        if (!set.has(key(ox, oy, oz))) continue;
+        const m1 = [c.x + a[0], c.y + a[1], c.z + a[2]];
+        const m2 = [c.x + sj * b[0], c.y + sj * b[1], c.z + sj * b[2]];
+        if (set.has(key(...m1)) || set.has(key(...m2))) continue;
+        if (i === 1 || j === 1) {
+          // y beteiligt: Zelle über der unteren, in deren Säule
+          const o = { x: ox, y: oy, z: oz };
+          const lower = c.y <= oy ? c : o;
+          const upper = c.y <= oy ? o : c;
+          add(lower.x, upper.y, lower.z);
+        } else {
+          add(...m1);
+          add(...m2);
+        }
+      }
+    }
+  }
+  return [...added.values()];
 }
 
 // Viertelkugelschale über Halbkreis (Exedra)
@@ -67,6 +106,7 @@ function* halfDome({ cx, cz, r, springY, axis, sign, thickness = 1 }) {
   const rIn = r - thickness;
   const outer = r * r + r;
   const inner = rIn >= 0 ? rIn * rIn + rIn : -1;
+  const cells = [];
   for (let dy = 0; dy <= r; dy++) {
     for (let x = cx - r; x <= cx + r; x++) {
       for (let z = cz - r; z <= cz + r; z++) {
@@ -74,10 +114,16 @@ function* halfDome({ cx, cz, r, springY, axis, sign, thickness = 1 }) {
         const d = axis === 'x' ? dx : dz;
         if (sign * d < 0) continue;
         const d2 = dx * dx + dy * dy + dz * dz;
-        if (d2 <= outer && d2 > inner) yield { x, y: springY + dy, z };
+        if (d2 <= outer && d2 > inner) cells.push({ x, y: springY + dy, z });
       }
     }
   }
+  yield* mergeSorted(cells, connectEdges(cells));
 }
 
-module.exports = { groinVault, groinVaultHeight, cloisterVault, cloisterHeight, rho, halfDome };
+// Ergänzte Zellen in die Reihenfolge y, x, z einsortieren
+function mergeSorted(cells, extra) {
+  return cells.concat(extra).sort((p, q) => p.y - q.y || p.x - q.x || p.z - q.z);
+}
+
+module.exports = { groinVault, groinVaultHeight, cloisterVault, cloisterHeight, rho, halfDome, connectEdges };

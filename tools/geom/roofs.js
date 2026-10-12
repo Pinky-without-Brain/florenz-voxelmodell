@@ -5,7 +5,9 @@ const { rho } = require('./vaults');
 const NB = [[1, 0], [-1, 0], [0, 1], [0, -1]];
 
 // columns: Iterable von [x, z]; height(x, z) -> Zahl. Ausgabe x, dann z, dann y aufsteigend.
-function* surface({ columns, height, thickness = 1 }) {
+// overlap = 1 (Standard): Säule reicht bis top_n des niedrigeren Nachbarn (flächig verbunden);
+// overlap = 0: nur bis top_n + 1 (dicht, aber Kontakt nur über Kanten).
+function* surface({ columns, height, thickness = 1, overlap = 1 }) {
   const cols = [...columns].sort((p, q) => p[0] - q[0] || p[1] - q[1]);
   const tops = new Map();
   for (const [x, z] of cols) tops.set(x + ',' + z, Math.floor(height(x, z)));
@@ -14,7 +16,7 @@ function* surface({ columns, height, thickness = 1 }) {
     let yLo = top - thickness + 1;
     for (const [dx, dz] of NB) {
       const t = tops.get((x + dx) + ',' + (z + dz));
-      if (t !== undefined && t < top) yLo = Math.min(yLo, t + 1);
+      if (t !== undefined && t < top) yLo = Math.min(yLo, t + 1 - overlap);
     }
     for (let y = yLo; y <= top; y++) yield { x, y, z };
   }

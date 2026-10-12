@@ -111,7 +111,8 @@ test('halfDome r = 6', () => {
       assert.ok(sign * d >= 0);
       assert.ok(c.y >= springY);
       const d2 = (c.x - cx) ** 2 + (c.y - springY) ** 2 + (c.z - cz) ** 2;
-      assert.ok(d2 <= 42 && d2 > 5 * 5 + 5);
+      // Grundschale 30 < d2 <= 42; ergänzte Verbindungszellen liegen höchstens eine Zelle daneben
+      assert.ok(d2 <= 49 && d2 > 16);
     }
     // Scheitel und Rand der Schale vorhanden
     const set = new Set(cells.map(k3));
@@ -124,5 +125,49 @@ test('halfDome r = 6', () => {
         if (sign * d >= 0 && (x - cx) ** 2 + (z - cz) ** 2 <= 42) assert.ok(cols.has(`${x},${z}`));
       }
     }
+  }
+});
+
+// Flächenzusammenhang (6er): Anzahl der Komponenten und Zahl der von der untersten Lage erreichten Zellen
+function connectivity(cells) {
+  const set = new Set(cells.map(k3));
+  const minY = Math.min(...cells.map((c) => c.y));
+  const seen = new Set();
+  let count = 0, fromLowest = 0;
+  const order = cells.filter((c) => c.y === minY).concat(cells);
+  for (const c of order) {
+    if (seen.has(k3(c))) continue;
+    const first = count === 0;
+    count++;
+    seen.add(k3(c));
+    const stack = [c];
+    let n = 1;
+    while (stack.length) {
+      const p = stack.pop();
+      for (const [dx, dy, dz] of [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]]) {
+        const q = { x: p.x + dx, y: p.y + dy, z: p.z + dz };
+        const k = k3(q);
+        if (set.has(k) && !seen.has(k)) { seen.add(k); stack.push(q); n++; }
+      }
+    }
+    if (first) fromLowest = n;
+  }
+  return { count, fromLowest };
+}
+
+test('Gewölbe: genau eine Flächenkomponente, mit der untersten Lage verbunden', () => {
+  const sets = [
+    [...V.groinVault({ x0: 0, x1: 37, z0: 0, z1: 30, springY: 70 })],
+    [...V.groinVault({ x0: 0, x1: 12, z0: 0, z1: 20, springY: 10, fx: 0.8, fz: 1, thickness: 2 })],
+    [...V.cloisterVault({ cx: 0, cz: 0, a: 20, springY: 70, f: 0.8 })],
+    [...V.cloisterVault({ cx: 0, cz: 0, a: 20, springY: 70, f: 0.8, rhoMin: 4 })],
+    [...V.cloisterVault({ cx: 5, cz: 5, a: 10, springY: 70, f: 0.5, sides: { axis: 'x', sign: -1 } })],
+    [...V.halfDome({ cx: 0, cz: 0, r: 6, springY: 70, axis: 'x', sign: 1 })],
+    [...V.halfDome({ cx: 0, cz: 0, r: 12, springY: 70, axis: 'z', sign: -1, thickness: 2 })],
+  ];
+  for (const cells of sets) {
+    const r = connectivity(cells);
+    assert.equal(r.count, 1);
+    assert.equal(r.fromLowest, cells.length);
   }
 });

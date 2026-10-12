@@ -2,6 +2,8 @@
 // Achteckige Doppelkuppel (quinto acuto). Alles läuft über die Achteck-Norm rho,
 // denn die Kuppel wurde in horizontalen Ringen gemauert.
 
+const { connectEdges } = require('./vaults');
+
 const COS_HALF = Math.cos(Math.PI / 8); // cos 22,5°
 const SQRT1_2 = Math.SQRT1_2;
 
@@ -59,7 +61,7 @@ function thickness(h, tBase, tTop, hTop) {
 }
 
 // Schale als Generator von {x,y,z}; a = Apothem der Innenfläche auf Ansatzhöhe
-function* shell({ cx = 0, cz = 0, springY, a, f, tBase, tTop, yTop, rhoMin = 0 }) {
+function* rawShell({ cx = 0, cz = 0, springY, a, f, tBase, tTop, yTop, rhoMin = 0 }) {
   const hTop = yTop - springY;
   const bound = Math.ceil(a) + Math.max(tBase, tTop) + 1;
   const hMax = profileHeight(0, a, f);
@@ -86,6 +88,15 @@ function* shell({ cx = 0, cz = 0, springY, a, f, tBase, tTop, yTop, rhoMin = 0 }
       }
     }
   }
+}
+
+// Wie rawShell, aber flächig (6er-Nachbarschaft) zusammenhängend: Zellen, die sich nur
+// an Kanten berühren, werden durch eine Zusatzzelle verbunden (Auge bleibt frei).
+function* shell(p) {
+  const { cx = 0, cz = 0, rhoMin = 0 } = p;
+  const cells = [...rawShell(p)];
+  const extra = connectEdges(cells).filter((c) => rho(c.x - cx, c.z - cz) >= rhoMin);
+  yield* cells.concat(extra).sort((u, v) => u.y - v.y || u.x - v.x || u.z - v.z);
 }
 
 // Winkel in Grad, 0..360, Konvention siehe segmentIndex
