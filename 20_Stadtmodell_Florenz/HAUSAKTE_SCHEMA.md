@@ -76,3 +76,18 @@ Die Gesamthöhe kommt aus `hoeheBl` in `gebaeude.json`. Die Geschosshöhen werde
   - Überstand nur zur Straße hin, und nur so weit, dass er nicht über die Hausgrenze ins Nachbarhaus ragt.
 - **Brandwände:** gehören dem Haus mit der kleineren ID (siehe §1). Das andere Haus lässt diese Zellen aus. Geprüft wird das über das Parzellenraster.
 - **Bauschritte:** Ein Bauteil ist ein Haus. Ein Modul ist ein Isolato. Ein Projekt ist ein Quartier.
+
+## 6. C1-Festlegungen (vom Generator ergänzt, im Schema offen gelassen)
+Diese Punkte hat die Umsetzung (`tools/city/akte.js`, `haus.js`) festgelegt; sie sind keine Vorgaben aus der Recherche.
+- **Zusatzfelder:** `name` (Text oder null, Gebäudename; wird als Bauteiltitel genutzt) und `ensemble` (nicht-leerer Text; Akten mit gleichem Wert sind von der Nachbarschaftsregel ausgenommen). Unbekannte Felder sind ein Fehler in R11.
+- **Aufzählungen:**
+  - `geschosse[].art`: `eg`, `mezzanin`, `nobile`, `og`, `attika`; das erste Geschoss ist `eg`; `hoeheBl` ist eine Ganzzahl 3..16.
+  - `fassade.material`: `putz`, `bugnato_abgestuft` (EG Rustika, Nobile Bruchstein, darüber glatt), `bugnato_glatt`, `bruchstein`, `stein_glatt` (Pietra serena). Bei `putz` ist `putzfarbe` Pflicht.
+  - `fassade.erdgeschoss.art`: `portal_mittig`, `portal_seitlich`, `bottega_arcata`, `tor_und_fenster`, `geschlossen`, `loggia_offen`, `portal_giebel`; `fenster`: `rechteck`, `rechteck_vergittert`, `kniefenster`, `rundbogen`, `keine`.
+  - `fassade.fenster.typ`: `rechteck`, `rundbogen`, `bifora`, `tabernakel`, `rahmen_stuck`; `rahmen`: `pietra_forte`, `pietra_serena`, `putz`, `keiner`; `laeden`: null, `gruen`, `holz`.
+  - `fassade.gesims.art`: `keiner`, `gronda_holz`, `putzgesims`, `cornicione_stein`; `tiefeBl` 0 (nur bei `keiner`) oder 1..3.
+  - `dach.form`: `walm`, `sattel`, `flach`; `dach.material`: `coppi`, `terrasse`.
+- **Dach:** `walm` und `sattel` erzeugen dieselbe Form (Walm über dem Abstandsfeld, Anstieg 0,4, höchstens 10 Blöcke). `altana` und `extras` werden gespeichert, aber noch nicht gebaut.
+- **Fassadenkanten:** Eine Außenkante ist straßenseitig, wenn weniger als die Hälfte der Messpunkte 1,5 Blöcke davor in der Parzelle eines anderen Gebäudes liegt (also Straße, Platz, Wasser oder freie Fläche). Kanten an Löchern sind Hofkanten. Öffnungen bekommen nur Kanten ab 6 Blöcken; Portale und Läden nur die längste Straßenkante.
+- **Geschosshöhen** müssen sich auf `hoeheBl` ±2 summieren (R11); die Traufe liegt auf `bodenY + Summe`.
+- **Nachbarschaft:** Zwei Häuser grenzen aneinander, wenn eine Zelle des einen in der 8er-Nachbarschaft einer Zelle des anderen liegt (Parzellenraster).

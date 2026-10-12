@@ -12,7 +12,8 @@ const RULES = [
   ['R7', require('./r7_palette.js')],
   ['R8', require('./r8_symmetry.js')],
   ['R9', require('./r9_docs.js')],
-  ['R10', require('./r10_wordcheck.js')]
+  ['R10', require('./r10_wordcheck.js')],
+  ['R11', require('./r11_hausakten.js')]
 ];
 
 const ROOT = path.resolve(__dirname, '..', '..');

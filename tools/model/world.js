@@ -30,10 +30,25 @@ function discoverModuleFiles(modelDir) {
   const out = new Map();
   if (!fs.existsSync(modelDir)) return out;
   for (const f of fs.readdirSync(modelDir).sort()) {
-    const m = /^m(\d)_.+\.js$/.exec(f);
+    const m = /^m(\d{1,3})_.+\.js$/.exec(f);
     if (m && !out.has(Number(m[1]))) out.set(Number(m[1]), path.join(modelDir, f));
   }
   return out;
+}
+
+// Quartier-Projekte (generator "quartier"): Module entstehen aus den Isolati, nicht aus Dateien
+const isQuartier = (project) => !!(project && project.meta && project.meta.generator === 'quartier');
+
+/** Modulnummern eines Projekts (Dateien mN_*.js bzw. Isolati). Bei Quartierfehlern: { numbers: [], error }. */
+function listModules(project, modelDir) {
+  if (isQuartier(project)) {
+    try {
+      return { numbers: require('../city/quartier.js').loadQuartier(project).moduleNummern(), error: null };
+    } catch (e) {
+      return { numbers: [], error: e };
+    }
+  }
+  return { numbers: [...discoverModuleFiles(modelDir || project.modelDir).keys()].sort((a, b) => a - b), error: null };
 }
 
 function loadContent(contentDir, n) {
@@ -70,7 +85,20 @@ function buildWorld(opts = {}) {
   const warnings = [];
   const errors = [];
   const grid = new VoxelGrid();
-  const files = discoverModuleFiles(modelDir);
+  const quartier = isQuartier(project);
+  let q = null;
+  const files = new Map();
+  const result = [];
+  if (quartier) {
+    try {
+      q = require('../city/quartier.js').loadQuartier(project);
+      for (const n of q.moduleNummern()) files.set(n, null);
+    } catch (e) {
+      errors.push({ rule: 'LOAD', module: null, part: null, message: `Projekt ${project.id}: ${e.message}` });
+    }
+  } else {
+    for (const [n, f] of discoverModuleFiles(modelDir)) files.set(n, f);
+  }
   const wanted = (modules ? [...new Set(modules)] : [...files.keys()]).sort((a, b) => a - b);
 
   const libs = {};
@@ -86,16 +114,15 @@ function buildWorld(opts = {}) {
     grid: { has: (x, y, z) => grid.has(x, y, z) }
   };
 
-  const result = [];
   for (const n of wanted) {
     const file = files.get(n);
-    if (!file) {
+    if (!quartier && !file) {
       warnings.push(`Keine Moduldatei m${n}_*.js in ${modelDir}`);
       continue;
     }
     let mod;
     try {
-      mod = require(file);
+      mod = quartier ? q.moduleBuild(n) : require(file);
     } catch (e) {
       errors.push({ rule: 'LOAD', module: n, part: null, message: `Modul ${n}: Datei nicht ladbar: ${e.message}` });
       continue;
@@ -106,10 +133,15 @@ function buildWorld(opts = {}) {
       continue;
     }
 
-    const { content, error: cErr } = loadContent(contentDir, n);
-    const cRel = rel(path.join(contentDir, `modul_${n}.json`), project);
-    if (cErr) warnings.push(`Modul ${n}: ${cRel} nicht lesbar (${cErr})`);
-    else if (!content) warnings.push(`Modul ${n}: kein Content (${cRel}), Platzhalter`);
+    let content, cErr, cRel;
+    if (quartier) {
+      content = q.contentFor(n);
+    } else {
+      ({ content, error: cErr } = loadContent(contentDir, n));
+      cRel = rel(path.join(contentDir, `modul_${n}.json`), project);
+      if (cErr) warnings.push(`Modul ${n}: ${cRel} nicht lesbar (${cErr})`);
+      else if (!content) warnings.push(`Modul ${n}: kein Content (${cRel}), Platzhalter`);
+    }
     const meta = {
       title: (content && content.title) || `Modul ${n}`,
       subtitle: (content && content.subtitle) || '',
@@ -153,4 +185,4 @@ function buildWorld(opts = {}) {
   return { grid, modules: result, errors, warnings, modelDir, contentDir, project: projectMeta };
 }
 
-module.exports = { buildWorld, discoverModuleFiles, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };
+module.exports = { buildWorld, discoverModuleFiles, listModules, isQuartier, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };

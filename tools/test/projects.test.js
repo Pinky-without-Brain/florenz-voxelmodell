@@ -373,9 +373,9 @@ test('--cross: Säule mit überlappendem y-Bereich ohne Zellkonflikt ist nur ein
   } finally { cleanup(root); }
 });
 
-test('--cross auf dem echten Repository: nur der Dom, 0 Konflikte', () => {
+test('--cross auf dem echten Repository: alle registrierten Projekte, 0 Konflikte', () => {
   const r = checkCrossProject(null);
-  assert.deepEqual(r.projects, ['duomo']);
+  assert.ok(r.projects.includes('duomo'));
   assert.equal(r.conflicts, 0);
   assert.deepEqual(r.errors, []);
 });

@@ -11,7 +11,7 @@ window.CityView = (function () {
   var ROOF_COLORS = [0xA8523A, 0xB65E44, 0x9A4A36, 0xAF6A4E];
   var STATUS_COLORS = { gebaut: "#2e9e4f", in_arbeit: "#e8a317", geplant: "#9a7b7b" };
 
-  var cfg = { showDist: 1400, maxChunks: 700, meshMs: 8, flySpeed: 1 };
+  var cfg = { showDist: 1400, maxChunks: 2500, meshMs: 12, flySpeed: 1 };
   var container, renderer, scene, camera, controls, sun;
   var basis = null, index = [];
   var terrain = null;         // { x0, z0, step, w, h, y: Int16Array, extX, extZ }
@@ -408,7 +408,7 @@ window.CityView = (function () {
 
   var meshBudgetOverride = 0;
   function updateVoxels(force) {
-    var cam = camera.position, visible = 0;
+    var cam = camera.position, visible = 0, frameStart = performance.now();
     var deadline = performance.now() + (meshBudgetOverride ? 1e9 : cfg.meshMs), pending = 0;
     Object.keys(voxelProjects).forEach(function (id) {
       var vp = voxelProjects[id];
@@ -437,12 +437,12 @@ window.CityView = (function () {
         if (ch.meshes && !needSet.has(ch)) ch.meshes.forEach(function (m) { m.visible = false; });
       });
     });
-    // Speichergrenze: am längsten unbenutzte Chunks verwerfen
+    // Speichergrenze: am längsten unbenutzte Chunks verwerfen – nie Chunks, die gerade sichtbar sein sollen
     if (meshedCount > cfg.maxChunks) {
       var all = [];
       Object.keys(voxelProjects).forEach(function (id) {
         var vp = voxelProjects[id];
-        vp.chunks.forEach(function (ch) { if (ch.meshes) all.push([vp, ch]); });
+        vp.chunks.forEach(function (ch) { if (ch.meshes && ch.used < frameStart) all.push([vp, ch]); });
       });
       all.sort(function (a, b) { return a[1].used - b[1].used; });
       for (var i = 0; i < all.length && meshedCount > cfg.maxChunks * 0.85; i++) dropOne(all[i][0], all[i][1]);
