@@ -1,0 +1,85 @@
+{
+  "module": 6,
+  "title": "Sockel für Statuen",
+  "subtitle": "Bautüte 6 (optional): Marmorsockel in der Halle",
+  "icon": "🗿",
+  "parts": {
+    "sockel_perseus": {
+      "title": "Sockel für den Perseus",
+      "description": "Im östlichen Bogen, von der Piazza aus im linken, setzt du den Sockel für den Perseus: fünf mal fünf Blöcke, zwei Lagen hoch (50 Blöcke, X −184 bis −179, Y 68 bis 69, Z 883 bis 888), aus weißem Marmor auf der Bodenplatte.",
+      "tip": "Miss die Position im Rahmen der Loggia ab (Front nach rechts, Tiefe nach hinten).",
+      "caution": "Die Sockel stehen frei auf der Bodenplatte; sie tragen die optionalen Figuren aus Modul 7.",
+      "fact": "Benvenuto Cellinis Perseus mit dem Haupt der Medusa ist samt Sockel 3,20 Meter hoch."
+    },
+    "sockel_sabinerinnen": {
+      "title": "Sockel für den Raub der Sabinerinnen",
+      "description": "Der große Sockel, sechs mal sechs Blöcke und vier Lagen hoch, steht im westlichen Teil der Halle (148 Blöcke, X −230 bis −223, Y 68 bis 71, Z 866 bis 873), aus weißem Marmor auf der Bodenplatte.",
+      "tip": "Miss die Position im Rahmen der Loggia ab (Front nach rechts, Tiefe nach hinten).",
+      "caution": "Die Sockel stehen frei auf der Bodenplatte; sie tragen die optionalen Figuren aus Modul 7.",
+      "fact": "Der Raub der Sabinerinnen von Giambologna ist eine Marmorgruppe, die sich spiralförmig nach oben dreht."
+    },
+    "sockel_herkules": {
+      "title": "Sockel für Herkules und Nessus",
+      "description": "Der Sockel, vier mal vier Blöcke und zwei Lagen hoch, steht in der Mitte der Halle (34 Blöcke, X −211 bis −207, Y 68 bis 69, Z 874 bis 878), aus weißem Marmor auf der Bodenplatte.",
+      "tip": "Miss die Position im Rahmen der Loggia ab (Front nach rechts, Tiefe nach hinten).",
+      "caution": "Die Sockel stehen frei auf der Bodenplatte; sie tragen die optionalen Figuren aus Modul 7.",
+      "fact": "Die Gruppe zeigt Herkules, der den Zentauren Nessus bezwingt."
+    },
+    "sockel_polyxena": {
+      "title": "Sockel für den Raub der Polyxena",
+      "description": "Der Sockel, vier mal vier Blöcke und zwei Lagen hoch, steht östlich der Mitte der Halle (34 Blöcke, X −202 bis −197, Y 68 bis 69, Z 878 bis 882), aus weißem Marmor auf der Bodenplatte.",
+      "tip": "Miss die Position im Rahmen der Loggia ab (Front nach rechts, Tiefe nach hinten).",
+      "caution": "Die Sockel stehen frei auf der Bodenplatte; sie tragen die optionalen Figuren aus Modul 7.",
+      "fact": "Polyxena war eine Tochter des trojanischen Königs Priamos."
+    },
+    "sockel_menelaos": {
+      "title": "Sockel für Menelaos und Patroklos",
+      "description": "Der Sockel, vier mal vier Blöcke und zwei Lagen hoch, steht im Westen der Halle (32 Blöcke, X −235 bis −231, Y 68 bis 69, Z 868 bis 872), aus weißem Marmor auf der Bodenplatte.",
+      "tip": "Miss die Position im Rahmen der Loggia ab (Front nach rechts, Tiefe nach hinten).",
+      "caution": "Die Sockel stehen frei auf der Bodenplatte; sie tragen die optionalen Figuren aus Modul 7.",
+      "fact": "Die Gruppe zeigt Menelaos, der den gefallenen Patroklos trägt."
+    },
+    "sockel_rueckwand_1": {
+      "title": "Sockel Rückwand 1",
+      "description": "Ein kleiner Sockel aus weißem Marmor vor der Rückwand: zwei mal zwei Blöcke, zwei Lagen hoch (8 Blöcke, X −233 bis −232, Y 68 bis 69, Z 873 bis 874).",
+      "tip": "Die sechs Sockel stehen in einer Reihe vor der Rückwand, jeweils zwischen den Pilastern.",
+      "caution": "Baue sie nur, wenn du auch die Frauenfiguren in Modul 7 baust.",
+      "fact": "An der Rückwand der Loggia stehen sechs antike Frauenfiguren."
+    },
+    "sockel_rueckwand_2": {
+      "title": "Sockel Rückwand 2",
+      "description": "Ein kleiner Sockel aus weißem Marmor vor der Rückwand: zwei mal zwei Blöcke, zwei Lagen hoch (6 Blöcke, X −225 bis −224, Y 68 bis 69, Z 876 bis 877).",
+      "tip": "Die sechs Sockel stehen in einer Reihe vor der Rückwand, jeweils zwischen den Pilastern.",
+      "caution": "Baue sie nur, wenn du auch die Frauenfiguren in Modul 7 baust.",
+      "fact": "An der Rückwand der Loggia stehen sechs antike Frauenfiguren."
+    },
+    "sockel_rueckwand_3": {
+      "title": "Sockel Rückwand 3",
+      "description": "Ein kleiner Sockel aus weißem Marmor vor der Rückwand: zwei mal zwei Blöcke, zwei Lagen hoch (8 Blöcke, X −211 bis −209, Y 68 bis 69, Z 882 bis 883).",
+      "tip": "Die sechs Sockel stehen in einer Reihe vor der Rückwand, jeweils zwischen den Pilastern.",
+      "caution": "Baue sie nur, wenn du auch die Frauenfiguren in Modul 7 baust.",
+      "fact": "An der Rückwand der Loggia stehen sechs antike Frauenfiguren."
+    },
+    "sockel_rueckwand_4": {
+      "title": "Sockel Rückwand 4",
+      "description": "Ein kleiner Sockel aus weißem Marmor vor der Rückwand: zwei mal zwei Blöcke, zwei Lagen hoch (8 Blöcke, X −203 bis −202, Y 68 bis 69, Z 884 bis 886).",
+      "tip": "Die sechs Sockel stehen in einer Reihe vor der Rückwand, jeweils zwischen den Pilastern.",
+      "caution": "Baue sie nur, wenn du auch die Frauenfiguren in Modul 7 baust.",
+      "fact": "An der Rückwand der Loggia stehen sechs antike Frauenfiguren."
+    },
+    "sockel_rueckwand_5": {
+      "title": "Sockel Rückwand 5",
+      "description": "Ein kleiner Sockel aus weißem Marmor vor der Rückwand: zwei mal zwei Blöcke, zwei Lagen hoch (6 Blöcke, X −188 bis −187, Y 68 bis 69, Z 890 bis 891).",
+      "tip": "Die sechs Sockel stehen in einer Reihe vor der Rückwand, jeweils zwischen den Pilastern.",
+      "caution": "Baue sie nur, wenn du auch die Frauenfiguren in Modul 7 baust.",
+      "fact": "An der Rückwand der Loggia stehen sechs antike Frauenfiguren."
+    },
+    "sockel_rueckwand_6": {
+      "title": "Sockel Rückwand 6",
+      "description": "Ein kleiner Sockel aus weißem Marmor vor der Rückwand: zwei mal zwei Blöcke, zwei Lagen hoch (10 Blöcke, X −181 bis −180, Y 68 bis 69, Z 893 bis 895).",
+      "tip": "Die sechs Sockel stehen in einer Reihe vor der Rückwand, jeweils zwischen den Pilastern.",
+      "caution": "Baue sie nur, wenn du auch die Frauenfiguren in Modul 7 baust.",
+      "fact": "An der Rückwand der Loggia stehen sechs antike Frauenfiguren."
+    }
+  }
+}

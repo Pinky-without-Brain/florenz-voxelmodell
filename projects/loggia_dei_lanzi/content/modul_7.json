@@ -1,0 +1,57 @@
+{
+  "module": 7,
+  "title": "Statuen",
+  "subtitle": "Bautüte 7 (optional): vereinfachte Blockfigur, nicht nach Vorbild",
+  "icon": "🗿",
+  "parts": {
+    "perseus": {
+      "title": "Perseus",
+      "description": "Aus Kupferblöcken (Bronze) baust du eine einfache Figur auf dem Sockel: ein Körper aus 2 × 2 Blöcken und vier Lagen, darüber ein Kopfblock, seitlich ein einzelner Block als Medusenhaupt (18 Blöcke, X −183 bis −181, Y 70 bis 74, Z 884 bis 886). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Der Block für das Medusenhaupt hängt seitlich auf Höhe drei am Körper.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Die echte Statue ist 3,20 Meter hoch, mit Sockel."
+    },
+    "sabinerinnen": {
+      "title": "Raub der Sabinerinnen",
+      "description": "Eine dreistufige Gruppe aus weißem Marmor: unten 4 × 4 Blöcke, darüber 2 × 2, oben eine einzelne Säule (79 Blöcke, X −228 bis −225, Y 72 bis 80, Z 867 bis 871). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Baue die Stufen übereinander, jede ein Stück weiter zur Mitte.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Die spiralförmige Anordnung der Figuren war ein Meisterstück der Bildhauerei."
+    },
+    "herkules_nessus": {
+      "title": "Herkules und Nessus",
+      "description": "Eine zweistufige Gruppe aus weißem Marmor: unten 3 × 3, oben 2 × 2 Blöcke (45 Blöcke, X −210 bis −208, Y 70 bis 76, Z 874 bis 877). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Setze die obere Stufe mittig auf die untere.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Der Zentaur Nessus wurde von Herkules mit einem vergifteten Pfeil getötet."
+    },
+    "polyxena": {
+      "title": "Raub der Polyxena",
+      "description": "Eine zweistufige Gruppe aus weißem Marmor: unten 3 × 3, oben 2 × 2 Blöcke (51 Blöcke, X −201 bis −199, Y 70 bis 76, Z 878 bis 881). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Setze die obere Stufe mittig auf die untere.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Die Gruppe ist die jüngste Skulptur der Loggia, sie stammt aus dem 19. Jahrhundert."
+    },
+    "menelaos_patroklos": {
+      "title": "Menelaos mit Patroklos",
+      "description": "Eine zweistufige Gruppe aus weißem Marmor: unten 3 × 3, oben 2 × 2 Blöcke (41 Blöcke, X −235 bis −232, Y 70 bis 76, Z 868 bis 870). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Setze die obere Stufe mittig auf die untere.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Die Gruppe geht auf eine antike Vorlage zurück."
+    },
+    "rueckwand_figuren": {
+      "title": "Sechs Frauenfiguren an der Rückwand",
+      "description": "Sechs einfache Figuren aus weißem Marmor, je 2 × 2 Blöcke und fünf Lagen hoch, stehen auf den Sockeln vor der Rückwand (115 Blöcke, X −233 bis −180, Y 70 bis 74, Z 873 bis 895). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Baue sie von Westen nach Osten.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Die sechs Figuren an der Rückwand stehen in den Nischen zwischen den Pilastern."
+    },
+    "medici_loewen": {
+      "title": "Medici-Löwen",
+      "description": "Zwei Löwen aus weißem Marmor, je 2 Blöcke breit, 3 lang und 2 hoch, bewachen auf Y 68 bis 69 den Aufgang in der Mitte der Front (24 Blöcke, X −211 bis −194, Y 68 bis 69, Z 869 bis 877). Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Sie stehen spiegelbildlich zur Mittelachse der Front.",
+      "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
+      "fact": "Der rechte Löwe ist antik-römisch, der linke von Flaminio Vacca."
+    }
+  }
+}
