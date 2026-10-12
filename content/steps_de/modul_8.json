@@ -1,0 +1,64 @@
+{
+  "module": 8,
+  "title": "Baptisterium San Giovanni",
+  "subtitle": "Bautüte 8: Das achteckige Taufhaus aus grünem und weißem Marmor – mit Portalen, Kuppel und Laterne",
+  "icon": "🚪",
+  "parts": {
+    "sockel_und_untergeschoss": {
+      "title": "Sockel und Untergeschoss",
+      "description": "Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.",
+      "tip": "Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.",
+      "caution": "Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.",
+      "fact": "Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft."
+    },
+    "portale": {
+      "title": "Portale mit Türblättern",
+      "description": "In die drei Portalöffnungen setzt du die Türblätter, jeweils nur einen Block dick, mitten in der Wand (11 Blöcke breit, Y 65 bis 82). Die Ostpforte bei X −278 ist aus Gold. Sie hat zehn Felder in zwei Spalten und fünf Reihen, getrennt durch Linien aus Kupfer. Die Türen im Norden (Z −29) und Süden (Z 29) sind ganz aus geschnittenem Kupfer.",
+      "tip": "Zähle bei der Ostpforte zuerst die Kupferlinien: drei senkrechte und sechs waagerechte. Das Gold füllt danach genau die zehn Felder dazwischen.",
+      "caution": "Die Türblätter stehen in der Mitte der Wand, nicht außen. Lass davor und dahinter die Nische offen, sonst sieht man den Rahmen nicht mehr.",
+      "fact": "Die Südtür schuf Andrea Pisano im Jahr 1336. Die Nordtür fertigte Lorenzo Ghiberti nach einem berühmten Wettbewerb im Jahr 1401. Die Ostpforte nannte, so wird erzählt, Michelangelo „Paradiespforte“. Sie wurde 1452 vollendet. Die Türen am Gebäude sind heute Kopien, die Originale stehen im Museo dell'Opera del Duomo."
+    },
+    "scarsella": {
+      "title": "Scarsella (Anbau im Westen)",
+      "description": "Im Westen mauerst du den rechteckigen Anbau von X −347 bis −341 und Z −13 bis 13. Seine Wände sind 3 Blöcke dick: außen Marmorfelder, in der Mitte Steinziegel, innen glatter Stein. In der Westwand sitzt ein kleines Rundbogenfenster mit Glas. Das Dach ist ein Pultdach aus Terrakotta. Es steigt zum Achteck hin von Y 93 auf Y 100 an. Innen bleibt der Raum offen zum Baptisterium.",
+      "tip": "Mauere die Wände Spalte für Spalte genau so hoch, bis das Dach darauf anschließt. Dann liegt jede Dachstufe fest auf der Wand.",
+      "caution": "Die Scarsella steht nur auf dem Boden, der bis X −347 reicht. Lass den Durchgang zum Achteck frei: Er ist 19 Blöcke breit.",
+      "fact": "Der rechteckige Anbau im Westen heißt Scarsella. Er wurde erst später an das ältere Achteck angebaut."
+    },
+    "obergeschoss": {
+      "title": "Obergeschoss mit Fenstern",
+      "description": "Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.",
+      "tip": "Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.",
+      "caution": "Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.",
+      "fact": "Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft."
+    },
+    "attika": {
+      "title": "Attika mit Streifen",
+      "description": "Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.",
+      "tip": "Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.",
+      "caution": "Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.",
+      "fact": "Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana."
+    },
+    "innenkuppel": {
+      "title": "Innenkuppel mit Mosaik",
+      "description": "Im Inneren wölbst du die Kuppel von der Wand bis zum Auge. Sie ist 2 Blöcke dick und steigt von Y 106 an der Wand bis Y 125 an. In der Mitte bleibt das Auge offen (Abstand zur Mitte kleiner als 3). Die Unterseite trägt das Mosaik: Gold als Grund, dazu Ringe aus blauer und gelber Keramik. Die Grate zu den acht Ecken sind golden. Oben endet die Kuppel flach unter dem Dach.",
+      "tip": "Baue Ring für Ring von außen nach innen. Die Zellen mit gleichem Abstand zur Mitte bilden einen Ring und haben dieselbe Farbe.",
+      "caution": "Setze die Kuppel erst, wenn die Attika fertig ist, denn sie liegt auf der Wand auf. Lass das Auge in der Mitte wirklich frei.",
+      "fact": "Die Kuppel des Baptisteriums ist innen mit Goldmosaiken bedeckt. Sie entstanden im 13. Jahrhundert und zeigen unter anderem das Jüngste Gericht mit einem riesigen Christus."
+    },
+    "pyramidendach": {
+      "title": "Pyramidendach",
+      "description": "Über der Attika erhebt sich das Dach als flache Achteckpyramide, nur 1 Block dick. Es beginnt bei Y 117 am äußeren Rand und steigt bis Y 126 an. Die Fläche ist glatter Quarz, die acht Grate sind dunkler Prismarin. In der Mitte bleibt das Auge offen. Auf dem Plateau außen herum setzt du später die Laterne auf.",
+      "tip": "Das Dach steigt etwa 1 Block auf 3 Blöcke Weg. Jeder Ring ist eine Stufe höher als der äußere. So erkennst du Fehler sofort.",
+      "caution": "Das Dach ist nur eine dünne Haut und liegt oben flächig auf der Kuppel. Setze es nach der Innenkuppel, sonst fehlt das Auflager.",
+      "fact": "Von außen sieht man nur ein flaches Zeltdach, innen aber das Goldmosaik. Das Dach verdeckt die Kuppel, deshalb wirkt das Baptisterium von außen viel schlichter."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Als Krönung setzt du die Laterne auf das Dach. Auf dem Plateau stehen acht Säulen aus Quarz an den Ecken des kleinen Achtecks, Y 127 bis 133. Darüber liegt das Gebälk auf Y 134, ein volles Achteck. Zuletzt kommt der Kegel von Y 135 bis 138 mit einer goldenen Spitze.",
+      "tip": "Setze die acht Säulen zuerst und kontrolliere von oben, dass sie ein regelmäßiges Achteck bilden. Das Gebälk deckt dann alle acht ab.",
+      "caution": "Die Säulen stehen auf dem Plateau, nicht auf dem offenen Auge. Das Gebälk darf nicht an den Säulen vorbei rutschen.",
+      "fact": "Johannes der Täufer ist der Schutzpatron von Florenz. Sein Festtag am 24. Juni wird in der Stadt bis heute gefeiert."
+    }
+  }
+}
