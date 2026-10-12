@@ -17,6 +17,13 @@ window.VoxelRenderer = (function() {
   let currentBlocksGroup;
   let gridHelperGroup;
   let highlightOutlineMesh;
+  let sunLight;
+  let siteGroup;
+
+  // Bounding Box aller geladenen V2-Blöcke (setModelBounds); Standardwert bis dahin
+  let modelBounds = { minX: -100, maxX: 100, minY: 64, maxY: 200, minZ: -100, maxZ: 100 };
+  const PERSPECTIVE_FOV = 45;
+  const ORTHO_FRUSTUM = 100;
   
   // Materials Cache
   const materialCache = {};
@@ -34,10 +41,10 @@ window.VoxelRenderer = (function() {
 
     // 2. Kameras (Perspektivisch & Orthografisch für Isometrie)
     const aspect = width / height;
-    perspectiveCam = new THREE.PerspectiveCamera(45, aspect, 0.5, 2000);
+    perspectiveCam = new THREE.PerspectiveCamera(PERSPECTIVE_FOV, aspect, 0.5, 2000);
     perspectiveCam.position.set(70, 110, 80);
 
-    const frustumSize = 100;
+    const frustumSize = ORTHO_FRUSTUM;
     orthoCam = new THREE.OrthographicCamera(
       (frustumSize * aspect) / -2,
       (frustumSize * aspect) / 2,
@@ -89,6 +96,7 @@ window.VoxelRenderer = (function() {
       toggleCameraMode,
       setCameraView,
       resetCamera,
+      setModelBounds,
       setCameraLock: (locked) => { isCameraLocked = locked; },
       toggleCameraLock: () => { isCameraLocked = !isCameraLocked; return isCameraLocked; },
       isCameraLocked: () => isCameraLocked
@@ -101,7 +109,7 @@ window.VoxelRenderer = (function() {
     scene.add(ambientLight);
 
     // Goldene toskanische Nachmittagssonne
-    const sunLight = new THREE.DirectionalLight(0xFFF6E5, 0.95);
+    sunLight = new THREE.DirectionalLight(0xFFF6E5, 0.95);
     sunLight.position.set(140, 220, 110);
     sunLight.castShadow = true;
     sunLight.shadow.mapSize.width = 2048;
@@ -114,6 +122,7 @@ window.VoxelRenderer = (function() {
     sunLight.shadow.camera.top = d;
     sunLight.shadow.camera.bottom = -d;
     scene.add(sunLight);
+    scene.add(sunLight.target);
 
     // Sanftes Azurblaues Himmels-Aufhelllicht
     const fillLight = new THREE.DirectionalLight(0xB2D8F7, 0.35);
@@ -133,10 +142,12 @@ window.VoxelRenderer = (function() {
 
   function setupGroundGrid() {
     gridHelperGroup.clear();
+    const b = modelBounds;
+    const P = (window.SITE_V2 && window.SITE_V2.piazza && window.SITE_V2.piazza.bounds) ||
+      { minX: b.minX - 100, maxX: b.maxX + 100, minZ: b.minZ - 100, maxZ: b.maxZ + 100 };
 
-    // 1. Die gepflasterte Piazza del Duomo (Grundebene auf Y=63.92)
-    // Weite 640x420 Blöcke deckt von Piazza San Giovanni (-320) bis Museo dell'Opera (+240) ab
-    const plazaGeo = new THREE.PlaneGeometry(640, 420);
+    // 1. Die gepflasterte Piazza del Duomo (Fläche aus SITE_V2.piazza.bounds bei Y=63.9)
+    const plazaGeo = new THREE.PlaneGeometry(P.maxX - P.minX, P.maxZ - P.minZ);
     const plazaMat = new THREE.MeshStandardMaterial({
       color: 0xDDD4C5, // Warmes florentinisches Sandsteinpflaster (Pietraforte)
       roughness: 0.85,
@@ -144,16 +155,20 @@ window.VoxelRenderer = (function() {
     });
     const plazaMesh = new THREE.Mesh(plazaGeo, plazaMat);
     plazaMesh.rotation.x = -Math.PI / 2;
-    plazaMesh.position.set(-40, 63.92, 0);
+    plazaMesh.position.set((P.minX + P.maxX) / 2, 63.9, (P.minZ + P.maxZ) / 2);
     plazaMesh.receiveShadow = true;
     gridHelperGroup.add(plazaMesh);
 
     // 2. EXAKTES MINECRAFT-BLOCKRASTER (1:1 DECKUNGSGLEICH MIT DEN BLÖCKEN)
-    // Größe 400x400 mit 400 Unterteilungen = jede Gitterzelle ist EXAKT 1.0 x 1.0 Blöcke groß!
-    // Da 400 gerade ist, verlaufen die Gitterlinien haargenau auf den ganzzahligen Koordinaten
-    // ... -2, -1, 0, 1, 2 ... Ein Minecraft-Block [X, X+1] liegt somit EXAKT in einer Gitterzelle!
-    const blockGrid = new THREE.GridHelper(400, 400, 0x0055BF, 0x9CB0C4);
-    blockGrid.position.set(0, 63.98, 0);
+    // Quadratisch, Mitte auf einem Vielfachen von 10 und gerade Teilung: Gitterlinien liegen
+    // haargenau auf ganzzahligen Koordinaten, ein Block liegt somit EXAKT in einer Gitterzelle.
+    // Größe: umfasst die Modell-Bounding-Box mit Rand.
+    const snap10 = (v) => Math.round(v / 10) * 10;
+    const gx = snap10((b.minX + b.maxX) / 2), gz = snap10((b.minZ + b.maxZ) / 2);
+    const span = Math.max(b.maxX - b.minX, b.maxZ - b.minZ) + 40;
+    const gridSize = Math.ceil(span / 20) * 20;
+    const blockGrid = new THREE.GridHelper(gridSize, gridSize, 0x0055BF, 0x9CB0C4);
+    blockGrid.position.set(gx, 63.98, gz);
     if (blockGrid.material) {
       blockGrid.material.transparent = true;
       blockGrid.material.opacity = 0.55;
@@ -161,32 +176,29 @@ window.VoxelRenderer = (function() {
     gridHelperGroup.add(blockGrid);
 
     // 3. GROBES 10x10 BLOCKRASTER ZUR SCHNELLEN ORIENTIERUNG
-    // Alle 10 Blöcke eine markantere Linie, damit man nicht jeden Block einzeln zählen muss!
-    const majorGrid = new THREE.GridHelper(400, 40, 0xD03020, 0x486480);
-    majorGrid.position.set(0, 63.985, 0);
+    const majorGrid = new THREE.GridHelper(gridSize, gridSize / 10, 0xD03020, 0x486480);
+    majorGrid.position.set(gx, 63.985, gz);
     if (majorGrid.material) {
       majorGrid.material.transparent = true;
       majorGrid.material.opacity = 0.75;
     }
     gridHelperGroup.add(majorGrid);
 
-    // 4. HAUPTACHSEN (X = Rot/Ost-West, Z = Blau/Nord-Süd)
+    // 4. HAUPTACHSEN (X = Rot/Ost-West, Z = Blau/Nord-Süd) durch den Ursprung
     const axisMatX = new THREE.LineBasicMaterial({ color: 0xD02020, linewidth: 2 });
     const axisMatZ = new THREE.LineBasicMaterial({ color: 0x1050D0, linewidth: 2 });
-
     const xLineGeo = new THREE.BufferGeometry().setFromPoints([
-      new THREE.Vector3(-200, 63.99, 0),
-      new THREE.Vector3(200, 63.99, 0)
+      new THREE.Vector3(gx - gridSize / 2, 63.99, 0),
+      new THREE.Vector3(gx + gridSize / 2, 63.99, 0)
     ]);
     const zLineGeo = new THREE.BufferGeometry().setFromPoints([
-      new THREE.Vector3(0, 63.99, -200),
-      new THREE.Vector3(0, 63.99, 200)
+      new THREE.Vector3(0, 63.99, gz - gridSize / 2),
+      new THREE.Vector3(0, 63.99, gz + gridSize / 2)
     ]);
     gridHelperGroup.add(new THREE.Line(xLineGeo, axisMatX));
     gridHelperGroup.add(new THREE.Line(zLineGeo, axisMatZ));
 
     // 5. GOLDENER NULLSTEIN-INDIKATOR (0, 64, 0)
-    // Markiert das exakte 1x1 Quadrat von [0, 1] in X und [0, 1] in Z
     const originTileGeo = new THREE.PlaneGeometry(1, 1);
     const originTileMat = new THREE.MeshBasicMaterial({ color: 0xFFD700, side: THREE.DoubleSide });
     const originTile = new THREE.Mesh(originTileGeo, originTileMat);
@@ -194,14 +206,32 @@ window.VoxelRenderer = (function() {
     originTile.position.set(0.5, 63.992, 0.5);
     gridHelperGroup.add(originTile);
 
-    // 6. 3D-HIMMELSRICHTUNGS-MARKER
-    createDirectionMarker("WESTEN (-X) [Fassade]", -180, 0, 0xD02020);
-    createDirectionMarker("OSTEN (+X) [Chor]", 180, 0, 0xD02020);
-    createDirectionMarker("NORDEN (-Z)", 0, -120, 0x1050D0);
-    createDirectionMarker("SÜDEN (+Z) [Campanile]", 0, 120, 0x1050D0);
+    // 6. 3D-HIMMELSRICHTUNGS-MARKER am Rand der Piazza
+    const cx = (P.minX + P.maxX) / 2, cz = (P.minZ + P.maxZ) / 2;
+    createDirectionMarker("WESTEN (-X) [Fassade]", P.minX + 40, cz, 0xD02020, gridHelperGroup, 66, 2);
+    createDirectionMarker("OSTEN (+X) [Chor]", P.maxX - 40, cz, 0xD02020, gridHelperGroup, 66, 2);
+    createDirectionMarker("NORDEN (-Z)", cx, P.minZ + 25, 0x1050D0, gridHelperGroup, 66, 2);
+    createDirectionMarker("SÜDEN (+Z) [Campanile]", cx, P.maxZ - 25, 0x1050D0, gridHelperGroup, 66, 2);
   }
 
-  function createDirectionMarker(text, x, z, colorHex) {
+  // Lichtrichtung und Schattenbereich an die Modellgröße anpassen
+  function fitSunToBounds() {
+    if (!sunLight) return;
+    const b = modelBounds;
+    const cx = (b.minX + b.maxX) / 2, cz = (b.minZ + b.maxZ) / 2, cy = (b.minY + b.maxY) / 2;
+    const r = Math.hypot(b.maxX - b.minX, b.maxY - b.minY, b.maxZ - b.minZ) / 2;
+    sunLight.target.position.set(cx, cy, cz);
+    sunLight.position.set(cx + r * 0.7, cy + r * 1.1, cz + r * 0.55);
+    sunLight.shadow.camera.near = 10;
+    sunLight.shadow.camera.far = r * 4;
+    sunLight.shadow.camera.left = -r;
+    sunLight.shadow.camera.right = r;
+    sunLight.shadow.camera.top = r;
+    sunLight.shadow.camera.bottom = -r;
+    sunLight.shadow.camera.updateProjectionMatrix();
+  }
+
+  function createDirectionMarker(text, x, z, colorHex, parent, y, scale) {
     const canvas = document.createElement("canvas");
     canvas.width = 256;
     canvas.height = 64;
@@ -225,9 +255,10 @@ window.VoxelRenderer = (function() {
     const texture = new THREE.CanvasTexture(canvas);
     const spriteMat = new THREE.SpriteMaterial({ map: texture, depthTest: false });
     const sprite = new THREE.Sprite(spriteMat);
-    sprite.position.set(x, 66, z);
-    sprite.scale.set(16, 4, 1);
-    gridHelperGroup.add(sprite);
+    sprite.position.set(x, y || 66, z);
+    const sc = scale || 1;
+    sprite.scale.set(16 * sc, 4 * sc, 1);
+    (parent || gridHelperGroup).add(sprite);
   }
 
   function setupTuscanLandscape() {
@@ -254,6 +285,8 @@ window.VoxelRenderer = (function() {
     scene.add(skyDome);
 
     // 3. Sanfte toskanische Hügel (WEIT HINTER DER STADT: Radius > 650)
+    // Piazza (X -460..330, Z -280..280, Ecke ~540 vom Ursprung) und alle Gebäude (<= ~610) liegen
+    // vollständig im flachen Bereich; Bäume stehen erst ab Radius 680.
     const terrainGeo = new THREE.PlaneGeometry(2800, 2800, 90, 90);
     terrainGeo.rotateX(-Math.PI / 2);
     const pos = terrainGeo.attributes.position;
@@ -332,127 +365,63 @@ window.VoxelRenderer = (function() {
     scene.add(riverMesh);
   }
 
+  // Umgebungsbebauung aus SITE_V2 (OpenStreetMap): extrudierte Polygone ab Y 64 mit rotem Dach, dazu Straßenschilder.
   function setupAuthenticFlorencePiazza() {
-    const piazzaGroup = new THREE.Group();
+    if (siteGroup) { scene.remove(siteGroup); disposeGroup(siteGroup); }
+    siteGroup = new THREE.Group();
+    const site = window.SITE_V2;
+    if (!site) { scene.add(siteGroup); return; }
 
-    // Materialpalette für Florentiner Renaissance-Paläste
-    const wallOcher = new THREE.MeshStandardMaterial({ color: 0xE8BA7E, roughness: 0.85 }); // Florentiner Pietraforte-Sandstein
-    const wallTerra = new THREE.MeshStandardMaterial({ color: 0xD48A5E, roughness: 0.85 }); // Toskanischer Putz
-    const wallRustica = new THREE.MeshStandardMaterial({ color: 0xB5A38C, roughness: 0.90 }); // Rustika-Sockel
-    const roofTileMat = new THREE.MeshStandardMaterial({ color: 0xB54228, roughness: 0.70 }); // Ziegeldach
-    const windowMat = new THREE.MeshStandardMaterial({ color: 0x2A3238, roughness: 0.4, metalness: 0.2 }); // Fensteröffnungen
+    // Toskanische Fassadenfarben (Ocker/Terra), deterministisch je Gebäude gewählt
+    const wallColors = [0xE8BA7E, 0xD48A5E, 0xDDB27A, 0xCFA070, 0xC98B62, 0xE3C08F, 0xD9A16F, 0xBF8A5F];
+    const wallMats = wallColors.map(c => new THREE.MeshStandardMaterial({ color: c, roughness: 0.85 }));
+    const roofMat = new THREE.MeshStandardMaterial({ color: 0xA33B26, roughness: 0.70 }); // Ziegeldach
+    const ROOF_THICKNESS = 1.5;
 
-    // 0. Historisches Platzpflaster der Piazza del Duomo & Piazza San Giovanni
-    const piazzaFloorGeo = new THREE.PlaneGeometry(640, 440);
-    piazzaFloorGeo.rotateX(-Math.PI / 2);
-    const piazzaFloorMat = new THREE.MeshStandardMaterial({
-      color: 0xBEB49E, // Authentischer toskanischer Pietraforte-Plattenbelag
-      roughness: 0.92,
-      metalness: 0.05
-    });
-    const piazzaFloorMesh = new THREE.Mesh(piazzaFloorGeo, piazzaFloorMat);
-    piazzaFloorMesh.position.set(-50, 63.85, 0);
-    piazzaFloorMesh.receiveShadow = true;
-    piazzaGroup.add(piazzaFloorMesh);
+    (site.buildings || []).forEach((bld, i) => {
+      const pts = bld.poly.slice();
+      const f = pts[0], l = pts[pts.length - 1];
+      if (pts.length > 1 && f[0] === l[0] && f[1] === l[1]) pts.pop();
+      if (pts.length < 3) return;
+      // Shape in (x, -z): nach rotateX(-90°) landet der Punkt bei (x, z), die Extrusion zeigt nach +Y
+      const shape = new THREE.Shape(pts.map(p => new THREE.Vector2(p[0], -p[1])));
+      const wallGeo = new THREE.ExtrudeGeometry(shape, { depth: bld.h, bevelEnabled: false });
+      wallGeo.rotateX(-Math.PI / 2);
+      const wall = new THREE.Mesh(wallGeo, wallMats[hashIndex(i, bld.h) % wallMats.length]);
+      wall.position.y = 64;
+      wall.castShadow = true;
+      wall.receiveShadow = true;
+      siteGroup.add(wall);
 
-    // Weiße Marmorbänder (Marmortrambahnen / historische Prozessionsachsen)
-    const marbleInlayMat = new THREE.MeshStandardMaterial({ color: 0xDFDBD0, roughness: 0.8 });
-    const inlays = [
-      { x: -168, z: 0, w: 2.5, d: 240 }, // West-Ost-Achse vor der Fassade
-      { x: -50, z: -140, w: 320, d: 2.0 }, // Nordachse
-      { x: -50, z: 140, w: 320, d: 2.0 },  // Südachse
-      { x: -230, z: 0, w: 75, d: 2.0 }     // Baptisteriums-Quere
-    ];
-    inlays.forEach(inl => {
-      const inlayGeo = new THREE.PlaneGeometry(inl.w, inl.d);
-      inlayGeo.rotateX(-Math.PI / 2);
-      const inlayMesh = new THREE.Mesh(inlayGeo, marbleInlayMat);
-      inlayMesh.position.set(inl.x, 63.88, inl.z);
-      inlayMesh.receiveShadow = true;
-      piazzaGroup.add(inlayMesh);
+      const roofGeo = new THREE.ExtrudeGeometry(shape, { depth: ROOF_THICKNESS, bevelEnabled: false });
+      roofGeo.rotateX(-Math.PI / 2);
+      const roof = new THREE.Mesh(roofGeo, roofMat);
+      roof.position.y = 64 + bld.h;
+      roof.castShadow = true;
+      siteGroup.add(roof);
     });
 
-    function createPalazzo(name, x, z, width, depth, height, styleColor = wallOcher) {
-      const pal = new THREE.Group();
+    // Straßenschilder an den Einmündungen
+    (site.landmarks || []).forEach(lm => {
+      createDirectionMarker(lm.label || lm.name, lm.x, lm.z, 0x8B4513, siteGroup, 72, 3);
+    });
 
-      // Sockelgeschoss (Rustika)
-      const baseH = 6;
-      const baseGeo = new THREE.BoxGeometry(width, baseH, depth);
-      const baseMesh = new THREE.Mesh(baseGeo, wallRustica);
-      baseMesh.position.y = baseH / 2;
-      baseMesh.castShadow = true;
-      baseMesh.receiveShadow = true;
-      pal.add(baseMesh);
+    scene.add(siteGroup);
+  }
 
-      // Obergeschosse (Piano Nobile & Mezzanin)
-      const upperH = height - baseH;
-      const upperGeo = new THREE.BoxGeometry(width * 0.98, upperH, depth * 0.98);
-      const upperMesh = new THREE.Mesh(upperGeo, styleColor);
-      upperMesh.position.y = baseH + upperH / 2;
-      upperMesh.castShadow = true;
-      upperMesh.receiveShadow = true;
-      pal.add(upperMesh);
+  // Deterministischer Index je Gebäude
+  function hashIndex(i, h) {
+    let v = Math.imul(i + 1, 2654435761) ^ Math.imul(h + 7, 40503);
+    v ^= v >>> 13;
+    return v >>> 0;
+  }
 
-      // Fensterreihen (Biforien-Fassade)
-      const winRows = Math.floor(upperH / 5.5);
-      const winCols = Math.floor(width / 14);
-      for (let r = 0; r < winRows; r++) {
-        const wy = baseH + 3.0 + r * 5.2;
-        for (let c = 0; c < winCols; c++) {
-          const wx = -width / 2 + 7 + c * 14;
-          const winGeo = new THREE.BoxGeometry(2.4, 3.2, depth + 0.3);
-          const winMesh = new THREE.Mesh(winGeo, windowMat);
-          winMesh.position.set(wx, wy, 0);
-          pal.add(winMesh);
-        }
-      }
-
-      // Kräftiges Florentiner Kranzgesims (Cornicione)
-      const corniceGeo = new THREE.BoxGeometry(width * 1.04, 1.4, depth * 1.04);
-      const corniceMesh = new THREE.Mesh(corniceGeo, wallRustica);
-      corniceMesh.position.y = height + 0.7;
-      corniceMesh.castShadow = true;
-      pal.add(corniceMesh);
-
-      // Flaches toskanisches Ziegeldach
-      const roofGeo = new THREE.BoxGeometry(width * 0.94, 2.5, depth * 0.94);
-      const roofMesh = new THREE.Mesh(roofGeo, roofTileMat);
-      roofMesh.position.y = height + 1.4 + 1.25;
-      roofMesh.castShadow = true;
-      pal.add(roofMesh);
-
-      pal.position.set(x, 63.92, z);
-      piazzaGroup.add(pal);
-    }
-
-    // 1. Palazzo Arcivescovile (Westlich des Baptisteriums, Piazza San Giovanni)
-    // Weit genug westlich (X = -345), damit der Platz vor dem Paradiesportal frei atmen kann!
-    createPalazzo("Palazzo Arcivescovile", -345, 0, 46, 100, 26, wallOcher);
-
-    // 2. Loggia del Bigallo & Misericordia di Firenze (Südwest-Ecke, gegenüber Glockenturm)
-    createPalazzo("Misericordia & Loggia del Bigallo", -230, 125, 34, 38, 22, wallTerra);
-
-    // 3. Palazzo dei Canonici (Südflanke des Doms mit Brunelleschi- & Arnolfo-Statuen)
-    // Sicher auf Z = +190 platziert – volle 84 Blöcke lichte Weite zur Südtribune!
-    createPalazzo("Palazzo dei Canonici", -15, 190, 160, 36, 24, wallOcher);
-
-    // 4. Museo dell'Opera del Duomo (Hinter dem Ostchor / Apsis)
-    // Auf X = +240 platziert – volle 114 Blöcke lichte Weite zur Chorapsis!
-    createPalazzo("Museo dell'Opera del Duomo", 240, 0, 36, 80, 24, wallTerra);
-
-    // 5. Palazzi der Nordseite der Piazza (Palazzo Strozzi-Sacrati / Guadagni dell'Opera)
-    // Sicher auf Z = -195 platziert – volle 89 Blöcke lichte Weite zur Nordtribune!
-    createPalazzo("Palazzo Guadagni dell'Opera", -45, -195, 230, 36, 25, wallOcher);
-
-    scene.add(piazzaGroup);
-
-    // Historische Straßen- und Platzschilder
-    createDirectionMarker("Via de' Calzaiuoli ➔ (Piazza Signoria)", -190, 150, 0x8B4513);
-    createDirectionMarker("Via de' Martelli ➔ (Palazzo Medici)", -195, -190, 0x8B4513);
-    createDirectionMarker("Via dei Servi ➔ (SS. Annunziata)", 60, -190, 0x8B4513);
-    createDirectionMarker("Via del Proconsolo ➔ (Bargello)", 180, 160, 0x8B4513);
-    createDirectionMarker("Via de' Cerretani ➔ (SM Novella)", -345, -75, 0x8B4513);
-    createDirectionMarker("Piazza San Giovanni", -230, -55, 0xD4AF37);
+  function disposeGroup(group) {
+    group.children.forEach(c => {
+      if (c.geometry && c.geometry !== boxGeo && c.geometry !== edgesGeo) c.geometry.dispose();
+      if (c.dispose) c.dispose();
+    });
+    group.clear();
   }
 
   function getBlockMaterial(blockType, isCurrentStep = false) {
@@ -483,9 +452,76 @@ window.VoxelRenderer = (function() {
       });
     }
 
+    // Buntglas: halbtransparent, schreibt keine Tiefe
+    if (isGlassType(blockType)) {
+      mat.transparent = true;
+      mat.opacity = GLASS_OPACITY;
+      mat.depthWrite = false;
+    }
+
     materialCache[key] = mat;
     return mat;
   }
+
+  const GLASS_OPACITY = 0.55;
+  function isGlassType(type) {
+    return type.length > 14 && type.endsWith("_stained_glass");
+  }
+
+  // --- Verdeckungstest -------------------------------------------------------
+  // Gepackter Schlüssel: x, z mit Bias 600 (je 10 Bit), y 9 Bit. Außerhalb des Bereichs: -1 (nie ausgeblendet).
+  const KEY_BIAS = 600;
+  const KX = 1 << 19, KZ = 1 << 9;
+  function packKey(x, y, z) {
+    const px = x + KEY_BIAS, pz = z + KEY_BIAS;
+    if (px < 1 || px > 1022 || pz < 1 || pz > 1022 || y < 1 || y > 510) return -1;
+    return (px << 19) | (pz << 9) | y;
+  }
+
+  /**
+   * Bereitet eine Blockliste für die Darstellung vor.
+   * occupancyList: Blöcke, die als Nachbarn zählen (Standard: blockList selbst).
+   * Ein Block entfällt, wenn alle 6 Nachbarn belegt sind und keiner davon Glas ist.
+   * Rückgabe: { visible: Block[], total }
+   */
+  function cullHidden(blockList, occupancyList) {
+    const occ = new Set();
+    const glass = new Set();
+    const src = occupancyList || blockList;
+    for (let i = 0; i < src.length; i++) {
+      const b = src[i];
+      const k = packKey(b.x, b.y, b.z);
+      if (k < 0) continue;
+      occ.add(k);
+      if (isGlassType(b.type)) glass.add(k);
+    }
+    const hasGlass = glass.size > 0;
+    const visible = [];
+    for (let i = 0; i < blockList.length; i++) {
+      const b = blockList[i];
+      const k = packKey(b.x, b.y, b.z);
+      if (k < 0 || (hasGlass && glass.has(k))) { visible.push(b); continue; }
+      const kx1 = k + KX, kx0 = k - KX, kz1 = k + KZ, kz0 = k - KZ, ky1 = k + 1, ky0 = k - 1;
+      if (occ.has(kx1) && occ.has(kx0) && occ.has(kz1) && occ.has(kz0) && occ.has(ky1) && occ.has(ky0)) {
+        if (!hasGlass || !(glass.has(kx1) || glass.has(kx0) || glass.has(kz1) || glass.has(kz0) || glass.has(ky1) || glass.has(ky0))) {
+          continue;
+        }
+      }
+      visible.push(b);
+    }
+    return visible;
+  }
+
+  // Entfernt Kinder samt GPU-Puffern
+  function clearGroup(group) {
+    for (let i = 0; i < group.children.length; i++) {
+      const c = group.children[i];
+      if (c.isInstancedMesh && c.dispose) c.dispose();
+    }
+    group.clear();
+  }
+
+  const renderStats = { rendered: 0, total: 0 };
 
   const boxGeo = new THREE.BoxGeometry(1, 1, 1);
   const edgesGeo = new THREE.EdgesGeometry(boxGeo);
@@ -502,9 +538,9 @@ window.VoxelRenderer = (function() {
       return;
     }
     currentBaseBlocksCount = newCount;
-    baseBlocksGroup.clear();
+    clearGroup(baseBlocksGroup);
     if (!blockList || blockList.length === 0) return;
-    buildBlockGroup(baseBlocksGroup, blockList, false);
+    buildBlockGroup(baseBlocksGroup, cullHidden(blockList), false);
     baseBlocksGroup.visible = showBaseBlocks;
   }
 
@@ -524,15 +560,25 @@ window.VoxelRenderer = (function() {
   }
 
   function renderOverview(allBlocks) {
-    baseBlocksGroup.clear();
-    previousBlocksGroup.clear();
-    currentBlocksGroup.clear();
+    clearGroup(baseBlocksGroup);
+    clearGroup(previousBlocksGroup);
+    clearGroup(currentBlocksGroup);
+    currentBaseBlocksCount = -1;
 
-    if (allBlocks && allBlocks.length > 0) {
-      buildBlockGroup(previousBlocksGroup, allBlocks, false);
+    const t0 = performance.now();
+    let rendered = 0;
+    const total = allBlocks ? allBlocks.length : 0;
+    if (total > 0) {
+      const visible = cullHidden(allBlocks);
+      rendered = visible.length;
+      buildBlockGroup(previousBlocksGroup, visible, false);
     }
+    renderStats.rendered = rendered;
+    renderStats.total = total;
+    renderStats.ms = performance.now() - t0;
+    console.log("Gesamtansicht: " + renderStats.ms.toFixed(0) + " ms, " + rendered + " von " + total + " Instanzen gerendert");
     if (controls) {
-      smoothMoveCamera([-260, 180, 220], [-40, 100, 0]);
+      moveToPreset("start");
     }
   }
 
@@ -556,23 +602,28 @@ window.VoxelRenderer = (function() {
    * - optional baseBlocks: frühere Module in baseBlocksGroup
    */
   function renderStep(cumulativeBlocks, currentStepBlocks, cameraHint, baseBlocks) {
-    // 1. Frühere Blöcke neu aufbauen
-    previousBlocksGroup.clear();
-    const prevMap = {};
+    // 1. Frühere Blöcke neu aufbauen (verdeckte Blöcke entfallen)
+    clearGroup(previousBlocksGroup);
+    const curKeys = new Set();
+    const curOutOfRange = new Set();
     if (currentStepBlocks) {
       currentStepBlocks.forEach(b => {
-        prevMap[`${b.x},${b.y},${b.z}`] = true;
+        const k = packKey(b.x, b.y, b.z);
+        if (k >= 0) curKeys.add(k); else curOutOfRange.add(`${b.x},${b.y},${b.z}`);
       });
     }
 
-    // Erzeuge Instanzen oder Meshes für frühere Blöcke
     if (cumulativeBlocks && cumulativeBlocks.length > 0) {
-      const prevBlocks = cumulativeBlocks.filter(b => !prevMap[`${b.x},${b.y},${b.z}`]);
-      buildBlockGroup(previousBlocksGroup, prevBlocks, false);
+      const prevBlocks = cumulativeBlocks.filter(b => {
+        const k = packKey(b.x, b.y, b.z);
+        return k >= 0 ? !curKeys.has(k) : !curOutOfRange.has(`${b.x},${b.y},${b.z}`);
+      });
+      // Die Blöcke des aktuellen Schritts zählen als Nachbarn (sie werden gezeichnet)
+      buildBlockGroup(previousBlocksGroup, cullHidden(prevBlocks, cumulativeBlocks), false);
     }
 
-    // 2. Aktuelle Blöcke mit Highlight aufbauen
-    currentBlocksGroup.clear();
+    // 2. Aktuelle Blöcke mit Highlight aufbauen (immer vollständig)
+    clearGroup(currentBlocksGroup);
     if (currentStepBlocks && currentStepBlocks.length > 0) {
       buildBlockGroup(currentBlocksGroup, currentStepBlocks, true);
     }
@@ -590,52 +641,68 @@ window.VoxelRenderer = (function() {
 
   function buildBlockGroup(group, blockList, isCurrent) {
     // Gruppiere nach Block-Typ für effizientes Rendern
-    const byType = {};
-    blockList.forEach(b => {
-      byType[b.type] = byType[b.type] || [];
-      byType[b.type].push(b);
-    });
-
-    for (const [type, list] of Object.entries(byType)) {
-      const mat = getBlockMaterial(type, isCurrent);
-      const count = list.length;
-      
-      const instancedMesh = new THREE.InstancedMesh(boxGeo, mat, count);
-      instancedMesh.castShadow = true;
-      instancedMesh.receiveShadow = true;
-      // WICHTIG: Frustum Culling deaktivieren, damit InstancedMesh bei großen Modellen nie clippt!
-      instancedMesh.frustumCulled = false;
-
-      const dummy = new THREE.Object3D();
-      for (let i = 0; i < count; i++) {
-        const b = list[i];
-        // Zentriere Minecraft-Blöcke (Mittelpunkt auf x+0.5, y+0.5, z+0.5)
-        dummy.position.set(b.x + 0.5, b.y + 0.5, b.z + 0.5);
-        dummy.updateMatrix();
-        instancedMesh.setMatrixAt(i, dummy.matrix);
-
-        // Bei aktuellem Schritt: leuchtende Kantenkontur hinzufügen
-        if (isCurrent && count < 300) {
-          const edgeLine = new THREE.LineSegments(edgesGeo, activeEdgeMaterial);
-          edgeLine.position.set(b.x + 0.5, b.y + 0.5, b.z + 0.5);
-          group.add(edgeLine);
-        }
-      }
-      instancedMesh.instanceMatrix.needsUpdate = true;
-      group.add(instancedMesh);
+    const byType = new Map();
+    for (let i = 0; i < blockList.length; i++) {
+      const b = blockList[i];
+      let l = byType.get(b.type);
+      if (!l) { l = []; byType.set(b.type, l); }
+      l.push(b);
     }
+
+    // Opake Typen zuerst, Glas danach (eigene InstancedMeshes)
+    const opaque = [], glass = [];
+    byType.forEach((list, type) => (isGlassType(type) ? glass : opaque).push([type, list]));
+
+    [opaque, glass].forEach((entries, pass) => {
+      for (const [type, list] of entries) {
+        const mat = getBlockMaterial(type, isCurrent);
+        const count = list.length;
+
+        const instancedMesh = new THREE.InstancedMesh(boxGeo, mat, count);
+        const isGlass = pass === 1;
+        instancedMesh.castShadow = !isGlass;
+        instancedMesh.receiveShadow = true;
+        if (isGlass) instancedMesh.renderOrder = 1;
+        // WICHTIG: Frustum Culling deaktivieren, damit InstancedMesh bei großen Modellen nie clippt!
+        instancedMesh.frustumCulled = false;
+
+        // Matrix direkt schreiben: Einheitsmatrix + Verschiebung (Blockmitte bei x+0.5, y+0.5, z+0.5)
+        const arr = instancedMesh.instanceMatrix.array;
+        for (let i = 0; i < count; i++) {
+          const b = list[i];
+          const o = i * 16;
+          arr[o] = 1; arr[o + 5] = 1; arr[o + 10] = 1; arr[o + 15] = 1;
+          arr[o + 12] = b.x + 0.5; arr[o + 13] = b.y + 0.5; arr[o + 14] = b.z + 0.5;
+
+          // Bei aktuellem Schritt: leuchtende Kantenkontur hinzufügen
+          if (isCurrent && count < 300) {
+            const edgeLine = new THREE.LineSegments(edgesGeo, activeEdgeMaterial);
+            edgeLine.position.set(b.x + 0.5, b.y + 0.5, b.z + 0.5);
+            group.add(edgeLine);
+          }
+        }
+        instancedMesh.instanceMatrix.needsUpdate = true;
+        group.add(instancedMesh);
+      }
+    });
   }
 
-  function smoothMoveCamera(targetEye, targetLookAt, immediate = false) {
+  function smoothMoveCamera(targetEye, targetLookAt, immediate = false, targetZoom) {
     if (!controls) return;
+    const endZoom = targetZoom !== undefined ? targetZoom : null;
     if (immediate) {
       camera.position.set(...targetEye);
       controls.target.set(...targetLookAt);
+      if (endZoom !== null && camera.isOrthographicCamera) {
+        camera.zoom = endZoom;
+        camera.updateProjectionMatrix();
+      }
       controls.update();
       return;
     }
     const startEye = camera.position.clone();
     const startLook = controls.target.clone();
+    const startZoom = camera.zoom;
     const endEye = new THREE.Vector3(...targetEye);
     const endLook = new THREE.Vector3(...targetLookAt);
 
@@ -645,6 +712,10 @@ window.VoxelRenderer = (function() {
       if (progress > 1) progress = 1;
       camera.position.lerpVectors(startEye, endEye, progress);
       controls.target.lerpVectors(startLook, endLook, progress);
+      if (endZoom !== null && camera.isOrthographicCamera) {
+        camera.zoom = startZoom + (endZoom - startZoom) * progress;
+        camera.updateProjectionMatrix();
+      }
       controls.update();
       if (progress < 1) {
         requestAnimationFrame(stepAnim);
@@ -657,10 +728,18 @@ window.VoxelRenderer = (function() {
     isOrthographic = !isOrthographic;
     const oldPos = camera.position.clone();
     const oldTarget = controls ? controls.target.clone() : new THREE.Vector3(0, 64, 0);
+    const tanHalf = Math.tan(THREE.MathUtils.degToRad(PERSPECTIVE_FOV / 2));
+    const dist = oldPos.distanceTo(oldTarget);
 
     if (isOrthographic) {
+      // Sichtfeld der Perspektive übernehmen: sichtbare Höhe = 2 * dist * tan(fov/2)
+      orthoCam.zoom = ORTHO_FRUSTUM / (2 * dist * tanHalf);
+      orthoCam.updateProjectionMatrix();
       camera = orthoCam;
     } else {
+      // Abstand aus dem Ortho-Zoom zurückrechnen
+      const d = ORTHO_FRUSTUM / (2 * tanHalf * orthoCam.zoom);
+      oldPos.copy(oldTarget).add(oldPos.clone().sub(oldTarget).normalize().multiplyScalar(d));
       camera = perspectiveCam;
     }
 
@@ -674,26 +753,67 @@ window.VoxelRenderer = (function() {
     return isOrthographic ? "Isometrisch" : "Perspektivisch";
   }
 
+  // --- Kamera-Presets aus der Bounding Box aller V2-Blöcke ---------------------
+  const PRESET_DIRS = {
+    start: [-0.5, 0.5, 0.7],   // von Südwesten: Fassade, Baptisterium und Campanile im Blick
+    iso: [0.62, 0.5, 0.62],    // klassische 45°-Ansicht von Südosten
+    top: [0, 1, 0.001],        // Draufsicht
+    west: [-1, 0.25, 0],
+    east: [1, 0.25, 0]
+  };
+
+  // Berechnet Auge, Ziel und Ortho-Zoom, sodass die ganze Bounding Box ins Bild passt.
+  function computePreset(name) {
+    const b = modelBounds;
+    const center = new THREE.Vector3((b.minX + b.maxX + 1) / 2, (b.minY + b.maxY + 1) / 2, (b.minZ + b.maxZ + 1) / 2);
+    const dir = new THREE.Vector3(...(PRESET_DIRS[name] || PRESET_DIRS.start)).normalize();
+    const fwd = dir.clone().negate();
+    const right = new THREE.Vector3().crossVectors(fwd, new THREE.Vector3(0, 1, 0)).normalize();
+    const up = new THREE.Vector3().crossVectors(right, fwd).normalize();
+
+    const aspect = Math.max(0.2, (containerEl ? containerEl.clientWidth / (containerEl.clientHeight || 1) : 1.5));
+    const tanV = Math.tan(THREE.MathUtils.degToRad(PERSPECTIVE_FOV / 2));
+    const tanH = tanV * aspect;
+    let dist = 1, maxA = 0, maxB = 0;
+    const rel = new THREE.Vector3();
+    for (let i = 0; i < 8; i++) {
+      rel.set(i & 1 ? b.maxX + 1 : b.minX, i & 2 ? b.maxY + 1 : b.minY, i & 4 ? b.maxZ + 1 : b.minZ).sub(center);
+      const a = Math.abs(rel.dot(right)), v = Math.abs(rel.dot(up)), t = rel.dot(dir);
+      maxA = Math.max(maxA, a); maxB = Math.max(maxB, v);
+      dist = Math.max(dist, t + Math.max(a / tanH, v / tanV));
+    }
+    dist *= 1.06;
+    const halfW = ORTHO_FRUSTUM * aspect / 2, halfH = ORTHO_FRUSTUM / 2;
+    const zoom = Math.min(halfW / (maxA * 1.06), halfH / (maxB * 1.06));
+    const eye = center.clone().add(dir.multiplyScalar(dist));
+    return { eye: eye.toArray(), target: center.toArray(), zoom };
+  }
+
+  function moveToPreset(name, immediate) {
+    if (!controls) return;
+    const p = computePreset(name);
+    // Perspektive: Zoom bleibt 1; Ortho: Zoom passend zur Bounding Box
+    smoothMoveCamera(p.eye, p.target, !!immediate, camera.isOrthographicCamera ? p.zoom : undefined);
+  }
+
+  function setModelBounds(bounds) {
+    modelBounds = bounds;
+    fitSunToBounds();
+    setupGroundGrid();
+    // Startansicht sofort setzen
+    perspectiveCam.far = Math.max(2000, Math.hypot(bounds.maxX - bounds.minX, bounds.maxZ - bounds.minZ) * 4);
+    perspectiveCam.updateProjectionMatrix();
+    moveToPreset("start", true);
+    if (controls) controls.maxDistance = perspectiveCam.far * 0.6;
+  }
+
   function setCameraView(viewName) {
     if (!controls) return;
-    switch (viewName) {
-      case "iso":
-        smoothMoveCamera([80, 115, 80], [0, 64, 0]);
-        break;
-      case "top":
-        smoothMoveCamera([0, 180, 0.1], [0, 64, 0]);
-        break;
-      case "west":
-        smoothMoveCamera([-180, 80, 0], [-100, 64, 0]);
-        break;
-      case "east":
-        smoothMoveCamera([180, 80, 0], [60, 64, 0]);
-        break;
-    }
+    if (PRESET_DIRS[viewName]) moveToPreset(viewName);
   }
 
   function resetCamera() {
-    smoothMoveCamera([70, 110, 80], [0, 64, 0]);
+    moveToPreset("start");
   }
 
   function onWindowResize() {
@@ -705,7 +825,7 @@ window.VoxelRenderer = (function() {
     perspectiveCam.aspect = aspect;
     perspectiveCam.updateProjectionMatrix();
 
-    const frustumSize = 100;
+    const frustumSize = ORTHO_FRUSTUM;
     orthoCam.left = (-frustumSize * aspect) / 2;
     orthoCam.right = (frustumSize * aspect) / 2;
     orthoCam.top = frustumSize / 2;
@@ -734,6 +854,7 @@ window.VoxelRenderer = (function() {
     toggleBaseBlocks,
     isBaseBlocksVisible,
     renderOverview,
+    setModelBounds,
     toggleCameraMode,
     setCameraView,
     resetCamera,

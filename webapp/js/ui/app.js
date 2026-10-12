@@ -24,6 +24,12 @@ window.App = (function() {
       window.VoxelRenderer.init(viewport);
     }
 
+    // Kamera-Presets und Raster aus der Bounding Box aller geladenen V2-Blöcke
+    if (window.VoxelRenderer && window.VoxelRenderer.setModelBounds) {
+      const bounds = computeModelBounds(window.PROJECT_FLORENCE);
+      if (bounds) window.VoxelRenderer.setModelBounds(bounds);
+    }
+
     // Projekt laden
     loadProject(window.PROJECT_FLORENCE);
     updateCamLockState(true);
@@ -37,7 +43,7 @@ window.App = (function() {
       } else if (urlParams.get("module")) {
         const targetModId = urlParams.get("module");
         const targetMod = currentProject.modules.find(m => m.id === targetModId);
-        if (targetMod) {
+        if (targetMod && targetMod.steps.length > 0) {
           const atLast = urlParams.get("step") === "last";
           selectModule(targetMod, atLast);
         }
@@ -45,6 +51,21 @@ window.App = (function() {
     } catch (e) {
       console.warn("URL param parsing failed:", e);
     }
+  }
+
+  // Bounding Box über alle Blöcke aller Module (Zellen inklusive)
+  function computeModelBounds(project) {
+    let minX = Infinity, minY = Infinity, minZ = Infinity, maxX = -Infinity, maxY = -Infinity, maxZ = -Infinity;
+    project.modules.forEach(mod => mod.steps.forEach(step => {
+      const bl = step.blocks || [];
+      for (let i = 0; i < bl.length; i++) {
+        const b = bl[i];
+        if (b.x < minX) minX = b.x; if (b.x > maxX) maxX = b.x;
+        if (b.y < minY) minY = b.y; if (b.y > maxY) maxY = b.y;
+        if (b.z < minZ) minZ = b.z; if (b.z > maxZ) maxZ = b.z;
+      }
+    }));
+    return minX === Infinity ? null : { minX, maxX, minY, maxY, minZ, maxZ };
   }
 
   function cacheDom() {
@@ -214,7 +235,7 @@ window.App = (function() {
     currentProject = project;
     populateModuleSelect();
     // Erstes verfügbares Modul wählen
-    const firstMod = project.modules[0];
+    const firstMod = project.modules.find(m => m.steps.length > 0) || project.modules[0];
     selectModule(firstMod, false);
   }
 
@@ -224,7 +245,7 @@ window.App = (function() {
     currentProject.modules.forEach(m => {
       const opt = document.createElement("option");
       opt.value = m.id;
-      opt.textContent = `${m.icon} Modul ${m.number}: ${m.title} (${m.steps.length > 0 ? m.steps.length + " Schritte" : m.status})`;
+      opt.textContent = `${m.icon} Modul ${m.number}: ${m.title} (${m.steps.length > 0 ? m.steps.length + " Schritte" : "in Arbeit"})`;
       if (m.steps.length === 0) opt.disabled = true;
       els.moduleSelect.appendChild(opt);
     });
@@ -297,9 +318,8 @@ window.App = (function() {
     }
 
     // Prüfen ob vorherige/nächste Module existieren
-    const curModIdx = currentProject.modules.findIndex(m => m.id === currentModule.id);
-    const hasPrev = (index > 0) || (curModIdx > 0 && currentProject.modules[curModIdx - 1].steps.length > 0);
-    const hasNext = (index < currentModule.steps.length - 1) || (curModIdx < currentProject.modules.length - 1 && currentProject.modules[curModIdx + 1].steps.length > 0);
+    const hasPrev = (index > 0) || !!findAdjacentModule(-1);
+    const hasNext = (index < currentModule.steps.length - 1) || !!findAdjacentModule(1);
 
     if (els.btnPrev) els.btnPrev.disabled = !hasPrev;
     if (els.btnNext) els.btnNext.disabled = !hasNext;
@@ -314,6 +334,16 @@ window.App = (function() {
         baseBlocks
       );
     }
+  }
+
+  // Nächstes (dir = 1) bzw. vorheriges (dir = -1) Modul, das Schritte hat; sonst null
+  function findAdjacentModule(dir) {
+    const mods = currentProject.modules;
+    let i = mods.findIndex(m => m.id === currentModule.id) + dir;
+    for (; i >= 0 && i < mods.length; i += dir) {
+      if (mods[i].steps && mods[i].steps.length > 0) return mods[i];
+    }
+    return null;
   }
 
   function getBaseModuleBlocks() {
@@ -377,10 +407,13 @@ window.App = (function() {
       els.btnOverview.classList.add("active");
     }
 
+    const tOverview = performance.now();
     const allBlocks = getAllProjectBlocks();
     if (window.VoxelRenderer) {
       window.VoxelRenderer.renderOverview(allBlocks);
     }
+    window.__overviewMs = performance.now() - tOverview;
+    console.log("Gesamtansicht inkl. Datensammlung: " + window.__overviewMs.toFixed(0) + " ms");
 
     // Step Info Drawer für Gesamtansicht anpassen
     if (els.stepBadge) els.stepBadge.textContent = "🌟";
@@ -433,13 +466,8 @@ window.App = (function() {
       goToStep(currentStepIndex + 1);
     } else {
       // Fließender Übergang ins nächste Modul!
-      const curModIdx = currentProject.modules.findIndex(m => m.id === currentModule.id);
-      if (curModIdx >= 0 && curModIdx < currentProject.modules.length - 1) {
-        const nextMod = currentProject.modules[curModIdx + 1];
-        if (nextMod && nextMod.steps && nextMod.steps.length > 0) {
-          selectModule(nextMod, false);
-        }
-      }
+      const nextMod = findAdjacentModule(1);
+      if (nextMod) selectModule(nextMod, false);
     }
   }
 
@@ -449,13 +477,8 @@ window.App = (function() {
       goToStep(currentStepIndex - 1);
     } else {
       // Fließender Übergang ins vorherige Modul (am letzten Schritt)!
-      const curModIdx = currentProject.modules.findIndex(m => m.id === currentModule.id);
-      if (curModIdx > 0) {
-        const prevMod = currentProject.modules[curModIdx - 1];
-        if (prevMod && prevMod.steps && prevMod.steps.length > 0) {
-          selectModule(prevMod, true);
-        }
-      }
+      const prevMod = findAdjacentModule(-1);
+      if (prevMod) selectModule(prevMod, true);
     }
   }
 

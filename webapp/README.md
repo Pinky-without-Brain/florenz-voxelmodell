@@ -58,43 +58,46 @@ python -m http.server 8000 --directory webapp
 
 ---
 
-## 🧩 Wiederverwendbares System für zukünftige Bauprojekte
+## 📐 Maße des Modells (V2)
 
-Die gesamte Code-Basis wurde streng modular nach dem MVC-Muster aufgebaut und kann für beliebige zukünftige Minecraft-Bauprojekte (z. B. Kolosseum, Notre-Dame, Taj Mahal) wiederverwendet werden:
+- **Maßstab:** 1 : 2 (1 Block = 0,5 m)
+- **Höhe:** Y 64 bis Y 293 (Kreuz)
+- **Länge:** Fassade X −216 bis Ostapsis X +96
+- **Breite:** Z −96 bis +96
+- Umgebung (Gebäude, Piazza, Straßenschilder) stammt aus `js/data/v2/site.js` (OpenStreetMap).
+
+---
+
+## 🧩 Aufbau und Datenfluss
+
+Die Bauschritte werden nicht von Hand geschrieben, sondern von der Pipeline erzeugt:
+
+```bash
+node tools/build.js     # schreibt webapp/js/data/v2/module_N.js und site.js
+```
 
 ```text
 webapp/
-├── index.html                 # Universelles UI-Gerüst
-├── css/
-│   └── builder-style.css      # Wiederverwendbares Designsystem
+├── index.html                 # UI-Gerüst, lädt nur V2-Daten
+├── css/builder-style.css      # Designsystem
 └── js/
     ├── data/
-    │   ├── block-types.js     # Universelle Minecraft-Block-Registrierung
-    │   ├── project-florence.js # Projekt-Definition (Module, Titel, Metadaten)
-    │   ├── module_0_steps.js  # Blockkoordinaten & Schritt-Beschreibungen Modul 0
-    │   └── module_1_steps.js  # Blockkoordinaten & Schritt-Beschreibungen Modul 1
+    │   ├── block-types.js     # Block-Registrierung (Farben, Namen)
+    │   ├── v2/module_N.js     # GENERIERT: Schritte als Base64-Läufe je Modul
+    │   ├── v2/site.js         # GENERIERT: Umgebungsgebäude, Piazza, Straßenschilder
+    │   ├── v2-loader.js       # dekodiert die Läufe zu Blöcken, liefert Modul-Metadaten
+    │   └── project-florence.js # Projekt-Definition (Titel/Icons aus den Metadaten)
     ├── engine/
-    │   ├── texture-generator.js # Offline-Texturgenerator für Minecraft-Blöcke
-    │   ├── step-analyzer.js   # Mathematische Zähl- & Analyse-Engine
+    │   ├── texture-generator.js # Offline-Texturgenerator
+    │   ├── step-analyzer.js   # Zähl- & Analyse-Engine
     │   └── voxel-renderer.js  # 3D WebGL / Three.js Voxel-Engine
-    └── ui/
-        └── app.js             # UI-Logik & Interaktions-Controller
+    └── ui/app.js              # UI-Logik & Interaktions-Controller
 ```
 
-### So fügst du ein neues Modul oder Projekt hinzu:
-1. Erstelle eine neue Datei `js/data/module_X_steps.js`.
-2. Definiere die Schritte mit Blockkoordinaten:
-   ```javascript
-   steps.push({
-     stepNumber: 1,
-     title: "Mein neuer Bauschritt",
-     blocks: [
-       { x: 0, y: 64, z: 0, type: "stone_bricks" },
-       { x: 1, y: 64, z: 0, type: "smooth_quartz" }
-     ],
-     tip: "...",
-     fact: "..."
-   });
-   ```
-3. Registriere das Modul in `project-florence.js`.
-4. Der `StepAnalyzer` berechnet automatisch und fehlerfrei alle Stücklisten, Bounding-Boxen und Multiplikatoren!
+Module, deren Daten noch fehlen (z. B. `module_6.js`), erscheinen im Modulmenü als „in Arbeit“ und sind deaktiviert.
+
+### Darstellung und Leistung
+- Verdeckte Blöcke (alle 6 Nachbarn belegt, keiner davon Glas) werden nicht gezeichnet. Die Blöcke des aktuellen Schritts werden immer vollständig gezeigt.
+- Buntglas (`*_stained_glass`) wird halbtransparent dargestellt.
+- Die Kamera-Voreinstellungen (Isometrisch, Iso 45°, Draufsicht, Reset) passen sich der Bounding Box aller geladenen Blöcke an.
+- Beim Öffnen der Gesamtansicht schreibt die Konsole die Zeit und die Zahl gerenderter gegenüber allen Blöcken.

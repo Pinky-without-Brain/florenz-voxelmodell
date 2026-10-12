@@ -89,6 +89,10 @@ function main(argv) {
           grid: world.grid, outDir });
         emitted.push({ module: m.module, ...r });
       }
+      // Umgebungsdaten (immer, auch bei --modules)
+      const { emitSite } = require('./emit/site.js');
+      const site = emitSite({ outDir });
+      console.log(`Site: ${site.kept} von ${site.total} Gebäude -> ${site.file} (${site.bytes} Bytes)`);
     }
   }
   timing.emit = ms(t);
