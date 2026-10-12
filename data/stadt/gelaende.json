@@ -1,0 +1,104 @@
+{
+ "titel": "Geländemodell Florenz im Modellsystem",
+ "quelle": {
+  "name": "DTM LiDAR 2017",
+  "herausgeber": "Comune di Firenze",
+  "lizenz": "CC BY 4.0",
+  "namensnennung": "Comune di Firenze, DTM LiDAR 2017, CC BY 4.0",
+  "crs": "ETRS89 / UTM 32N (EPSG:25832)",
+  "zellgroesseM": 1,
+  "kachelnGenutzt": 9,
+  "nodata": {
+   "initial": 0,
+   "remaining": 0,
+   "passes": 0
+  }
+ },
+ "grenzen": {
+  "x0": -3104,
+  "x1": 1695,
+  "z0": -1488,
+  "z1": 2671,
+  "breite": 4800,
+  "hoehe": 4160,
+  "hinweis": "gemessene Bbox lat 43.7615–43.7795, lon 11.2380–11.2670 im Modellsystem + 16 Blöcke Rand, auf 16er-Chunks ausgerichtet"
+ },
+ "format": {
+  "datei": "gelaende.bin",
+  "einheit": "Dezimeter ü. NN",
+  "typ": "Int16 little endian",
+  "anordnung": "Zeile = z (z0..z1), Spalte = x (x0..x1), Zelle (x,z) am ganzzahligen Punkt",
+  "kodierung": "je Zeile Differenz zum Vorgänger (Int16, Zeilenanfang gegen 0), dann zlib deflate; Entpacken: tools/geo/gelaende.js",
+  "rohgroesseBytes": 39936000,
+  "interpolation": "bilinear aus dem DTM (1 m Zellen), Projektion exakt über tools/geo/utm.js + tools/spec/frame.js"
+ },
+ "statistik": {
+  "minM": 32,
+  "maxM": 117.9,
+  "medianM": 47.8
+ },
+ "referenzhoehe": {
+  "h0": 48.23746068937879,
+  "methode": "Mittel des DTM auf dem Ring 5..25 Blöcke außerhalb der Fundament-Grundfläche (footprint aus m0_fundament.js)",
+  "zellen": 20096
+ },
+ "umrechnung": "Y = 64 + round(2 · (h − H0)), h in m ü. NN",
+ "pruefpunkte": {
+  "domplatzRing": {
+   "median": 64,
+   "min": 63,
+   "max": 65,
+   "zellen": 20096
+  },
+  "domMitte": {
+   "x": 0,
+   "z": 0,
+   "groundTopY": 65,
+   "hoeheM": 48.5
+  },
+  "arnoWasser": {
+   "median": 50,
+   "min": 40,
+   "max": 66,
+   "zellen": 1037850
+  },
+  "wasserAlle": {
+   "median": 50,
+   "min": 40,
+   "max": 184,
+   "zellen": 1073447
+  },
+  "piazzaSignoria": {
+   "median": 67,
+   "min": 66,
+   "max": 69,
+   "zellen": 32230
+  },
+  "piazzaPitti": {
+   "median": 76,
+   "min": 67,
+   "max": 83,
+   "zellen": 39766
+  },
+  "forteBelvedere": {
+   "name": "Forte di Belvedere",
+   "bodenY": 185,
+   "ys": {
+    "median": 185,
+    "min": 180,
+    "max": 191,
+    "zellen": 61168
+   }
+  },
+  "hoechsterPunkt": {
+   "y": 203,
+   "x": 1454,
+   "z": 2612
+  },
+  "yBereich": {
+   "min": 32,
+   "max": 203,
+   "ausserhalb0bis319": false
+  }
+ }
+}
