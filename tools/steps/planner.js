@@ -4,7 +4,6 @@
 const MAX_STEP = 2500;   // hart
 const TARGET_MAX = 2100; // Ziel-Obergrenze
 const MIN_STEP = 300;    // weich
-const SLACK = 1.15;      // erlaubte Überschreitung des Zielwerts je Schnitt
 const TEXT_FIELDS = ['description', 'tip', 'caution', 'fact'];
 
 // Sortierschlüssel (y, x, z) als Zahl: y·2^20 + (x+512)·1024 + (z+512)
@@ -33,50 +32,89 @@ function sortedKeys(keys) {
 const yOf = (k) => k & 511;
 const xOf = (k) => (k >> 19) - 512;
 
+// Ausgewogenes Teilen: Einheiten (Lagen bzw. Spalten) mit Größen -> Schnittindizes.
+// n = ceil(total / 2100), Ziel t = total / n; geschnitten wird dort, wo die kumulierte Summe dem
+// nächsten k·t am nächsten liegt, ohne 2.100 je Stück zu überschreiten. Scheitert das, wird n erhöht.
+function balanceCuts(sizes) {
+  const len = sizes.length;
+  const cum = new Array(len + 1);
+  cum[0] = 0;
+  for (let i = 0; i < len; i++) cum[i + 1] = cum[i] + sizes[i];
+  const total = cum[len];
+  for (let n = Math.max(2, Math.ceil(total / TARGET_MAX)); n <= len; n++) {
+    const t = total / n;
+    const cuts = [0];
+    let ok = true;
+    for (let k = 1; k < n && ok; k++) {
+      const prev = cuts[cuts.length - 1];
+      let best = -1, bestDiff = Infinity;
+      for (let j = prev + 1; j < len && cum[j] - cum[prev] <= TARGET_MAX; j++) {
+        const d = Math.abs(cum[j] - k * t);
+        if (d < bestDiff) { bestDiff = d; best = j; }
+      }
+      if (best < 0) ok = false; else cuts.push(best);
+    }
+    if (ok && total - cum[cuts[cuts.length - 1]] <= TARGET_MAX) {
+      cuts.push(len);
+      return cuts;
+    }
+  }
+  return null;
+}
+
+// Gleichmäßige Teilung eines Bereichs [a, b) nach Zellen in m Stücke: Grenzen
+function evenBounds(a, b, m) {
+  const out = [];
+  for (let i = 0; i <= m; i++) out.push(a + Math.round(((b - a) * i) / m));
+  return out;
+}
+
+// Einheiten (Spalten) einer Lage [a, b): je X-Spalte eine Einheit; Spalten > 2.100 werden nach Z geteilt
+function splitLayer(keys, a, b) {
+  const len = b - a;
+  const minN = Math.ceil(len / TARGET_MAX);
+  const cols = [];
+  let i = a;
+  while (i < b) {
+    const x = xOf(keys[i]);
+    let j = i;
+    while (j < b && xOf(keys[j]) === x) j++;
+    if (j - i > TARGET_MAX) {
+      const bd = evenBounds(i, j, Math.ceil((j - i) / TARGET_MAX));
+      for (let q = 0; q < bd.length - 1; q++) cols.push([bd[q], bd[q + 1]]);
+    } else cols.push([i, j]);
+    i = j;
+  }
+  const cuts = balanceCuts(cols.map((c) => c[1] - c[0]));
+  if (cuts && cuts.length - 1 <= minN) {
+    const out = [];
+    for (let q = 0; q < cuts.length - 1; q++) out.push([cols[cuts[q]][0], cols[cuts[q + 1] - 1][1]]);
+    return out;
+  }
+  // Mit ganzen Spalten nicht ohne Zusatzschritt möglich: Schnitt mitten durch eine Spalte (nach Z)
+  const bd = evenBounds(a, b, minN);
+  const out = [];
+  for (let q = 0; q < minN; q++) out.push([bd[q], bd[q + 1]]);
+  return out;
+}
+
 // Teilt ein Bauteil (sortierte Schlüssel) in Stücke: Array von Schlüssel-Arrays
 function splitPart(keys) {
   const total = keys.length;
   if (total <= TARGET_MAX) return [keys];
-  const n = Math.ceil(total / TARGET_MAX);
-  const limit = Math.min(TARGET_MAX, SLACK * (total / n));
-  const pieces = [];
-  let cur = [];
-  const flush = () => { if (cur.length) { pieces.push(cur); cur = []; } };
-
+  const units = []; // [a, b) in Sortierreihenfolge: ganze Lagen bzw. Teile einer zu großen Lage
   let i = 0;
   while (i < total) {
     const y = yOf(keys[i]);
     let j = i;
     while (j < total && yOf(keys[j]) === y) j++;
-    const len = j - i;
-    if (len > TARGET_MAX) {
-      // einzelne Lage zu groß: nach X-Bereichen teilen
-      flush();
-      const m = Math.ceil(len / TARGET_MAX);
-      const lim = Math.min(TARGET_MAX, SLACK * (len / m));
-      let k = i;
-      while (k < j) {
-        let e = k;
-        let last = k;
-        // ganze X-Spalten sammeln
-        while (e < j) {
-          const x = xOf(keys[e]);
-          let f = e;
-          while (f < j && xOf(keys[f]) === x) f++;
-          if (e > k && f - k > lim) break;
-          e = f;
-          last = f;
-        }
-        pieces.push(keys.slice(k, last));
-        k = last;
-      }
-    } else {
-      if (cur.length && cur.length + len > limit) flush();
-      for (let k = i; k < j; k++) cur.push(keys[k]);
-    }
+    if (j - i > TARGET_MAX) units.push(...splitLayer(keys, i, j)); else units.push([i, j]);
     i = j;
   }
-  flush();
+  const cuts = balanceCuts(units.map((u) => u[1] - u[0]));
+  if (!cuts) return units.map((u) => keys.slice(u[0], u[1]));
+  const pieces = [];
+  for (let q = 0; q < cuts.length - 1; q++) pieces.push(keys.slice(units[cuts[q]][0], units[cuts[q + 1] - 1][1]));
   return pieces;
 }
 

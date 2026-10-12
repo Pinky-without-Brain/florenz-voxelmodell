@@ -69,3 +69,10 @@ test('Kamera, Sortierung (y, x, z); fehlender Content ergibt Warnung', () => {
   const d = 90 * 1.2 + 30;
   assert.equal(s.cameraHint.eye[0], Math.round((44.5 + 0.8 * d) * 10) / 10);
 });
+
+test('einlagiges Bauteil aus 162 Spalten à 89 (14.418) wird ausgewogen in 7 Schritte geteilt', () => {
+  const steps = plan('plan_columns');
+  assert.equal(steps.length, 7);
+  assert.equal(steps.reduce((a, s) => a + s.count, 0), 14418);
+  for (const s of steps) assert.ok(s.count >= 1900 && s.count <= 2100, `Schritt mit ${s.count}`);
+});
