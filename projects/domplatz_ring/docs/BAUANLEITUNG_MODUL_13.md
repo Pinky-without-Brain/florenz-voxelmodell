@@ -8,55 +8,62 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 36.600 |
-| Bauschritte | 21 |
-| Y-Bereich | 66 bis 108 |
+| Blöcke | 37.831 |
+| Bauschritte | 22 |
+| Y-Bereich | 66 bis 109 |
 | X-Ausdehnung | -19 bis 58 (78 Blöcke) |
 | Z-Ausdehnung | 117 bis 199 (83 Blöcke) |
-| Kleinster Schritt | 757 Blöcke (Schritt 13.12) |
-| Mittlerer Schritt | 1.743 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 13.2) |
+| Kleinster Schritt | 757 Blöcke (Schritt 13.13) |
+| Mittlerer Schritt | 1.720 Blöcke |
+| Größter Schritt | 2.081 Blöcke (Schritt 13.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 11.212 | 30,6 % |
-| Orange Keramik | `orange_terracotta` | 8.140 | 22,2 % |
-| Terrakotta | `terracotta` | 6.127 | 16,7 % |
-| Polierter Tuffstein | `polished_tuff` | 4.736 | 12,9 % |
-| Glatter Stein | `smooth_stone` | 2.394 | 6,5 % |
-| Graues Buntglas | `gray_stained_glass` | 1.363 | 3,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 1.288 | 3,5 % |
-| Tuffstein | `tuff` | 757 | 2,1 % |
-| Fichtenholz-Bretter | `spruce_planks` | 297 | 0,8 % |
-| Grüner Beton | `green_concrete` | 286 | 0,8 % |
+| Weißer Beton | `white_concrete` | 11.024 | 29,1 % |
+| Orange Keramik | `orange_terracotta` | 7.229 | 19,1 % |
+| Terrakotta | `terracotta` | 6.607 | 17,5 % |
+| Polierter Tuffstein | `polished_tuff` | 4.736 | 12,5 % |
+| Glatter Stein | `smooth_stone` | 2.133 | 5,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.676 | 4,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.477 | 3,9 % |
+| Tuffstein | `tuff` | 757 | 2,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 672 | 1,8 % |
+| Grüner Beton | `green_concrete` | 420 | 1,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 370 | 1,0 % |
+| Polierter Andesit | `polished_andesite` | 368 | 1,0 % |
+| Ziegelsteine | `bricks` | 348 | 0,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w491889269` | Reihenhaus an Piazza di San Benedetto | 6.018 | 13.1–13.3 |
-| 2 | `w491889271` | Palazzo des Cinquecento an Via dello Studio | 13.172 | 13.4–13.11 |
-| 3 | `w491889292` | Casa Sermanni | 13.975 | 13.12–13.19 |
-| 4 | `w491889294` | Reihenhaus an Via dei Bonizzi | 3.435 | 13.20–13.21 |
+| 1 | `w491889269` | Reihenhaus an Piazza di San Benedetto | 6.176 | 13.1–13.4 |
+| 2 | `w491889271` | Palazzo des Cinquecento an Via dello Studio | 13.582 | 13.5–13.12 |
+| 3 | `w491889292` | Casa Sermanni | 14.441 | 13.13–13.20 |
+| 4 | `w491889294` | Reihenhaus an Via dei Bonizzi | 3.632 | 13.21–13.22 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Reihenhaus an Piazza di San Benedetto – Teil 1/3 (Y 67–78)
+### Schritt 13.1 – Reihenhaus an Piazza di San Benedetto – Teil 1/4 (Y 67–75)
 
-- **Y-Bereich:** 67 bis 78
-- **Blöcke:** 1.965
+- **Y-Bereich:** 67 bis 75
+- **Blöcke:** 1.543
 - **Bauteile:** `w491889269`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.263 |
+| Weißer Beton | `white_concrete` | 845 |
 | Polierter Tuffstein | `polished_tuff` | 523 |
-| Glatter Stein | `smooth_stone` | 123 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Hellgrauer Beton | `light_gray_concrete` | 88 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+| Glatter Stein | `smooth_stone` | 21 |
+| Polierter Andesit | `polished_andesite` | 14 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
@@ -74,48 +81,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Reihenhaus an Piazza di San Benedetto – Teil 2/3 (Y 79–94)
+### Schritt 13.2 – Reihenhaus an Piazza di San Benedetto – Teil 2/4 (Y 76–87)
 
-- **Y-Bereich:** 79 bis 94
-- **Blöcke:** 2.068
+- **Y-Bereich:** 76 bis 87
+- **Blöcke:** 1.572
 - **Bauteile:** `w491889269`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.898 |
-| Graues Buntglas | `gray_stained_glass` | 170 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.3 – Reihenhaus an Piazza di San Benedetto – Teil 3/3 (Y 95–108)
-
-- **Y-Bereich:** 95 bis 108
-- **Blöcke:** 1.985
-- **Bauteile:** `w491889269`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.231 |
-| Terrakotta | `terracotta` | 652 |
+| Weißer Beton | `white_concrete` | 1.227 |
+| Hellgrauer Beton | `light_gray_concrete` | 219 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
@@ -133,7 +112,71 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.4 – Palazzo des Cinquecento an Via dello Studio – Teil 1/8 (Y 67–67)
+### Schritt 13.3 – Reihenhaus an Piazza di San Benedetto – Teil 3/4 (Y 88–98)
+
+- **Y-Bereich:** 88 bis 98
+- **Blöcke:** 1.476
+- **Bauteile:** `w491889269`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.163 |
+| Hellgrauer Beton | `light_gray_concrete` | 250 |
+| Graues Buntglas | `gray_stained_glass` | 51 |
+| Grüner Beton | `green_concrete` | 12 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.4 – Reihenhaus an Piazza di San Benedetto – Teil 4/4 (Y 99–109)
+
+- **Y-Bereich:** 99 bis 109
+- **Blöcke:** 1.585
+- **Bauteile:** `w491889269`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 689 |
+| Weißer Beton | `white_concrete` | 682 |
+| Hellgrauer Beton | `light_gray_concrete` | 115 |
+| Graues Buntglas | `gray_stained_glass` | 51 |
+| Ziegelsteine | `bricks` | 36 |
+| Grüner Beton | `green_concrete` | 12 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.5 – Palazzo des Cinquecento an Via dello Studio – Teil 1/8 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.801
@@ -161,19 +204,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.5 – Palazzo des Cinquecento an Via dello Studio – Teil 2/8 (Y 68–72)
+### Schritt 13.6 – Palazzo des Cinquecento an Via dello Studio – Teil 2/8 (Y 68–73)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.414
+- **Y-Bereich:** 68 bis 73
+- **Blöcke:** 1.720
 - **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.328 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Orange Keramik | `orange_terracotta` | 1.476 |
+| Weißer Beton | `white_concrete` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
+| Polierter Andesit | `polished_andesite` | 36 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Grüner Beton | `green_concrete` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
@@ -191,19 +238,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.6 – Palazzo des Cinquecento an Via dello Studio – Teil 3/8 (Y 73–78)
+### Schritt 13.7 – Palazzo des Cinquecento an Via dello Studio – Teil 3/8 (Y 74–78)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.818
+- **Y-Bereich:** 74 bis 78
+- **Blöcke:** 1.516
 - **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.780 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Orange Keramik | `orange_terracotta` | 1.275 |
+| Glatter Stein | `smooth_stone` | 119 |
+| Weißer Beton | `white_concrete` | 64 |
+| Polierter Andesit | `polished_andesite` | 32 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
 
@@ -221,19 +271,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.7 – Palazzo des Cinquecento an Via dello Studio – Teil 4/8 (Y 79–83)
+### Schritt 13.8 – Palazzo des Cinquecento an Via dello Studio – Teil 4/8 (Y 79–84)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.446
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.725
 - **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.238 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Grüner Beton | `green_concrete` | 104 |
+| Orange Keramik | `orange_terracotta` | 1.357 |
+| Weißer Beton | `white_concrete` | 183 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Grüner Beton | `green_concrete` | 20 |
 
 **Beschreibung**
 
@@ -251,19 +303,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.8 – Palazzo des Cinquecento an Via dello Studio – Teil 5/8 (Y 84–89)
+### Schritt 13.9 – Palazzo des Cinquecento an Via dello Studio – Teil 5/8 (Y 85–90)
 
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.808
+- **Y-Bereich:** 85 bis 90
+- **Blöcke:** 1.833
 - **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.704 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
-| Grüner Beton | `green_concrete` | 52 |
+| Orange Keramik | `orange_terracotta` | 1.451 |
+| Weißer Beton | `white_concrete` | 263 |
+| Glatter Stein | `smooth_stone` | 61 |
+| Graues Buntglas | `gray_stained_glass` | 27 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
@@ -281,19 +336,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.9 – Palazzo des Cinquecento an Via dello Studio – Teil 6/8 (Y 90–95)
+### Schritt 13.10 – Palazzo des Cinquecento an Via dello Studio – Teil 6/8 (Y 91–95)
 
-- **Y-Bereich:** 90 bis 95
-- **Blöcke:** 1.730
+- **Y-Bereich:** 91 bis 95
+- **Blöcke:** 1.442
 - **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.470 |
-| Graues Buntglas | `gray_stained_glass` | 130 |
-| Grüner Beton | `green_concrete` | 130 |
+| Orange Keramik | `orange_terracotta` | 1.138 |
+| Weißer Beton | `white_concrete` | 157 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Polierter Andesit | `polished_andesite` | 23 |
+| Grüner Beton | `green_concrete` | 16 |
 
 **Beschreibung**
 
@@ -311,19 +368,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.10 – Palazzo des Cinquecento an Via dello Studio – Teil 7/8 (Y 96–98)
+### Schritt 13.11 – Palazzo des Cinquecento an Via dello Studio – Teil 7/8 (Y 96–98)
 
 - **Y-Bereich:** 96 bis 98
-- **Blöcke:** 1.757
+- **Blöcke:** 1.999
 - **Bauteile:** `w491889271`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 943 |
-| Orange Keramik | `orange_terracotta` | 620 |
-| Fichtenholz-Bretter | `spruce_planks` | 194 |
+| Terrakotta | `terracotta` | 1.137 |
+| Orange Keramik | `orange_terracotta` | 532 |
+| Fichtenholz-Bretter | `spruce_planks` | 242 |
+| Weißer Beton | `white_concrete` | 78 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
@@ -341,10 +400,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.11 – Palazzo des Cinquecento an Via dello Studio – Teil 8/8 (Y 99–102)
+### Schritt 13.12 – Palazzo des Cinquecento an Via dello Studio – Teil 8/8 (Y 99–104)
 
-- **Y-Bereich:** 99 bis 102
-- **Blöcke:** 1.398
+- **Y-Bereich:** 99 bis 104
+- **Blöcke:** 1.546
 - **Bauteile:** `w491889271`
 
 **Teileliste**
@@ -352,6 +411,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.398 |
+| Ziegelsteine | `bricks` | 148 |
 
 **Beschreibung**
 
@@ -369,7 +429,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.12 – Casa Sermanni – Teil 1/8 (Y 66–66)
+### Schritt 13.13 – Casa Sermanni – Teil 1/8 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 757
@@ -397,10 +457,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.13 – Casa Sermanni – Teil 2/8 (Y 67–68)
+### Schritt 13.14 – Casa Sermanni – Teil 2/8 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
-- **Blöcke:** 2.049
+- **Blöcke:** 2.081
 - **Bauteile:** `w491889292`
 
 **Teileliste**
@@ -408,8 +468,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.807 |
-| Weißer Beton | `white_concrete` | 210 |
-| Glatter Stein | `smooth_stone` | 32 |
+| Weißer Beton | `white_concrete` | 200 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Glatter Stein | `smooth_stone` | 16 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
@@ -427,19 +489,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.14 – Casa Sermanni – Teil 3/8 (Y 69–76)
+### Schritt 13.15 – Casa Sermanni – Teil 3/8 (Y 69–75)
 
-- **Y-Bereich:** 69 bis 76
-- **Blöcke:** 2.024
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.835
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.416 |
-| Glatter Stein | `smooth_stone` | 520 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
+| Weißer Beton | `white_concrete` | 1.046 |
+| Graues Buntglas | `gray_stained_glass` | 436 |
+| Glatter Stein | `smooth_stone` | 257 |
+| Grüner Beton | `green_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 46 |
 
 **Beschreibung**
 
@@ -457,19 +521,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.15 – Casa Sermanni – Teil 4/8 (Y 77–82)
+### Schritt 13.16 – Casa Sermanni – Teil 4/8 (Y 76–81)
 
-- **Y-Bereich:** 77 bis 82
-- **Blöcke:** 1.856
+- **Y-Bereich:** 76 bis 81
+- **Blöcke:** 1.897
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.552 |
-| Glatter Stein | `smooth_stone` | 228 |
+| Weißer Beton | `white_concrete` | 1.328 |
+| Glatter Stein | `smooth_stone` | 435 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
+| Polierter Andesit | `polished_andesite` | 32 |
+| Grüner Beton | `green_concrete` | 26 |
 
 **Beschreibung**
 
@@ -487,19 +553,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.16 – Casa Sermanni – Teil 5/8 (Y 83–88)
+### Schritt 13.17 – Casa Sermanni – Teil 5/8 (Y 82–88)
 
-- **Y-Bereich:** 83 bis 88
-- **Blöcke:** 1.780
+- **Y-Bereich:** 82 bis 88
+- **Blöcke:** 2.078
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.248 |
-| Glatter Stein | `smooth_stone` | 380 |
-| Graues Buntglas | `gray_stained_glass` | 152 |
+| Weißer Beton | `white_concrete` | 1.372 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Graues Buntglas | `gray_stained_glass` | 176 |
+| Grüner Beton | `green_concrete` | 104 |
+| Polierter Andesit | `polished_andesite` | 48 |
 
 **Beschreibung**
 
@@ -517,19 +585,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.17 – Casa Sermanni – Teil 6/8 (Y 89–95)
+### Schritt 13.18 – Casa Sermanni – Teil 6/8 (Y 89–95)
 
 - **Y-Bereich:** 89 bis 95
-- **Blöcke:** 2.064
+- **Blöcke:** 2.075
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.342 |
-| Glatter Stein | `smooth_stone` | 532 |
-| Graues Buntglas | `gray_stained_glass` | 190 |
+| Weißer Beton | `white_concrete` | 1.312 |
+| Glatter Stein | `smooth_stone` | 367 |
+| Graues Buntglas | `gray_stained_glass` | 220 |
+| Grüner Beton | `green_concrete` | 130 |
+| Polierter Andesit | `polished_andesite` | 46 |
 
 **Beschreibung**
 
@@ -547,19 +617,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.18 – Casa Sermanni – Teil 7/8 (Y 96–98)
+### Schritt 13.19 – Casa Sermanni – Teil 7/8 (Y 96–98)
 
 - **Y-Bereich:** 96 bis 98
-- **Blöcke:** 1.860
+- **Blöcke:** 2.011
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 775 |
-| Weißer Beton | `white_concrete` | 644 |
-| Glatter Stein | `smooth_stone` | 441 |
+| Terrakotta | `terracotta` | 921 |
+| Weißer Beton | `white_concrete` | 630 |
+| Glatter Stein | `smooth_stone` | 446 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
@@ -577,10 +648,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.19 – Casa Sermanni – Teil 8/8 (Y 99–102)
+### Schritt 13.20 – Casa Sermanni – Teil 8/8 (Y 99–105)
 
-- **Y-Bereich:** 99 bis 102
-- **Blöcke:** 1.585
+- **Y-Bereich:** 99 bis 105
+- **Blöcke:** 1.707
 - **Bauteile:** `w491889292`
 
 **Teileliste**
@@ -588,6 +659,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.585 |
+| Ziegelsteine | `bricks` | 122 |
 
 **Beschreibung**
 
@@ -605,21 +677,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.20 – Reihenhaus an Via dei Bonizzi – Teil 1/2 (Y 67–80)
+### Schritt 13.21 – Reihenhaus an Via dei Bonizzi – Teil 1/2 (Y 67–81)
 
-- **Y-Bereich:** 67 bis 80
-- **Blöcke:** 1.702
+- **Y-Bereich:** 67 bis 81
+- **Blöcke:** 1.781
 - **Bauteile:** `w491889294`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 768 |
+| Glatter Sandstein | `smooth_sandstone` | 895 |
 | Polierter Tuffstein | `polished_tuff` | 605 |
-| Weißer Beton | `white_concrete` | 156 |
-| Glatter Stein | `smooth_stone` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 73 |
+| Weißer Beton | `white_concrete` | 182 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Glatter Stein | `smooth_stone` | 21 |
 
 **Beschreibung**
 
@@ -637,21 +709,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.21 – Reihenhaus an Via dei Bonizzi – Teil 2/2 (Y 81–95)
+### Schritt 13.22 – Reihenhaus an Via dei Bonizzi – Teil 2/2 (Y 82–97)
 
-- **Y-Bereich:** 81 bis 95
-- **Blöcke:** 1.733
+- **Y-Bereich:** 82 bis 97
+- **Blöcke:** 1.851
 - **Bauteile:** `w491889294`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 774 |
-| Glatter Sandstein | `smooth_sandstone` | 520 |
-| Weißer Beton | `white_concrete` | 252 |
-| Fichtenholz-Bretter | `spruce_planks` | 103 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
+| Terrakotta | `terracotta` | 877 |
+| Glatter Sandstein | `smooth_sandstone` | 582 |
+| Weißer Beton | `white_concrete` | 180 |
+| Fichtenholz-Bretter | `spruce_planks` | 128 |
+| Ziegelsteine | `bricks` | 42 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 

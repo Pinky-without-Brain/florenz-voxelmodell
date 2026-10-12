@@ -14,6 +14,7 @@ const ROLE_TYPE = Object.freeze({
   pietra_forte_rustika: 'tuff_bricks',
   pietra_forte_bruch: 'tuff',
   dach: 'terracotta',
+  dach_first: 'bricks',
   holz_sporto: 'spruce_planks',
   fensterladen: 'green_concrete',
   glas_fenster: 'gray_stained_glass',

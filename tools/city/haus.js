@@ -9,6 +9,8 @@ const P = require('./poly.js');
 const M = require('./material.js');
 const { compareIds } = require('./parzellen.js');
 const roofs = require('../geom/roofs.js');
+const F = require('./fassade.js');
+const { fnv1a, mulberry32 } = require('./akten_entwurf.js');
 
 // Benannte Konstanten (HAUSAKTE §1 und §5)
 const WALL_STREET = 2;          // Außenwand zur Straße
@@ -16,8 +18,8 @@ const WALL_PLAIN = 1;           // sonstige Außenwände und Brandwand
 const ROOF_RISE = 0.4;          // Dachanstieg je Block Abstand zum Rand (ca. 22 Grad)
 const ROOF_CAP = 10;            // größter Anstieg (Blöcke); große Grundrisse bekommen ein flaches Dachplateau
 const PARAPET = 2;              // Brüstung des Flachdachs über der Terrasse
-const FACADE_MIN_LEN = 6;       // kürzere Kanten bekommen keine Öffnungen
-const FACADE_MARGIN = 2;        // Abstand der ersten Achse vom Kantenende
+const ECK_MIN_WINKEL = 0.5;     // Eckquader nur bei Knicken ab 30 Grad (|sin| des Knickwinkels)
+const GASSE_MIN = 3;            // Vorsprünge (Sohlbänke, Marcapiano) nur in Gassen ab 3 freien Zellen Tiefe
 const N8 = [[1, 0], [-1, 0], [0, 1], [0, -1], [1, 1], [1, -1], [-1, 1], [-1, -1]];
 const N4 = [[1, 0], [-1, 0], [0, 1], [0, -1]];
 
@@ -64,120 +66,6 @@ function abstandsfeld(cells, S) {
     }
   }
   return (x, z) => d[idx(x, z)];
-}
-
-// ------------------------------------------------------------------ Öffnungen
-// Form-Test in (u, v): u entlang der Kante (kontinuierlich, ab Kantenanfang), v = Höhe über dem Geschossboden.
-function inShape(it, u, v) {
-  const dx = u - it.uc;
-  switch (it.kind) {
-    case 'rect':
-      return dx >= -it.w / 2 && dx < it.w / 2 && v >= it.v0 && v < it.v0 + it.h;
-    case 'arch': {
-      if (!(dx >= -it.w / 2 && dx < it.w / 2) || v < it.v0) return false;
-      if (v < it.v0 + it.spring) return true;
-      const r = it.w / 2;
-      const q = v - (it.v0 + it.spring) + 0.5;
-      return (dx / r) * (dx / r) + (q / r) * (q / r) <= 1;
-    }
-    case 'circle': {
-      const r = it.w / 2, dv = v - it.vc;
-      return dx * dx + dv * dv <= r * r;
-    }
-    default:
-      return false;
-  }
-}
-const inAny = (items, u, v) => items.some((it) => inShape(it, u, v));
-
-// Öffnungen einer straßenseitigen Kante. Rückgabe: je Geschoss eine Liste von Elementen.
-function layoutKante(e, istHaupt, akte, storeys, seedBit) {
-  const out = storeys.map(() => []);
-  const L = e.len;
-  const avail = L - 2 * FACADE_MARGIN;
-  if (avail < 3) return out;
-  const f = akte.fassade;
-  const nAx = Math.max(1, Math.min(f.achsen, Math.floor(avail / 5)));
-  const sp = avail / nAx;
-  const centers = [];
-  for (let k = 0; k < nAx; k++) centers.push(FACADE_MARGIN + (k + 0.5) * sp);
-  const eg = storeys[0];
-  const frameMat = f.fenster.rahmen;
-  const stucco = f.fenster.typ === 'rahmen_stuck';
-  const stoneFrame = stucco || frameMat === 'pietra_forte' || frameMat === 'pietra_serena';
-  const hasFrame = stoneFrame || (frameMat === 'putz' && !f.fenster.laeden);
-  const mk = (extra) => ({ glass: true, frame: hasFrame, shutter: !!f.fenster.laeden && !stoneFrame, hood: false, ...extra });
-
-  // Erdgeschoss
-  const art = f.erdgeschoss.art;
-  const pw = f.erdgeschoss.portalBreiteBl || 5;
-  const items0 = out[0];
-  const portalH = Math.max(4, Math.min(eg.h - 2, Math.round(pw * 1.8)));
-  const portalAt = (uc, w) => {
-    const h = Math.max(4, Math.min(eg.h - 2, Math.round(w * 1.8)));
-    items0.push(mk({ kind: 'arch', uc, w, v0: 0, spring: Math.max(1, h - Math.ceil(w / 2)), glass: false, shutter: false, frame: true, portal: true }));
-  };
-  const egWindow = (uc) => {
-    const ef = f.erdgeschoss.fenster;
-    if (ef === 'keine') return;
-    const h = Math.max(2, Math.min(4, eg.h - 5));
-    if (ef === 'rundbogen') items0.push(mk({ kind: 'arch', uc, w: 2, v0: 2, spring: Math.max(1, h - 1) }));
-    else if (ef === 'kniefenster') items0.push(mk({ kind: 'rect', uc, w: 2, v0: 1, h: h + 1 }));
-    else items0.push(mk({ kind: 'rect', uc, w: 2, v0: 2, h }));
-  };
-  let blocked = [];
-  const sideAxis = seedBit ? nAx - 1 : 0;
-  if (istHaupt) {
-    if (art === 'portal_mittig' || art === 'portal_giebel') {
-      portalAt(L / 2, pw);
-      blocked.push([L / 2 - pw / 2 - 2, L / 2 + pw / 2 + 2]);
-      if (art === 'portal_giebel' && eg.h - portalH >= 5) {
-        items0.push(mk({ kind: 'circle', uc: L / 2, w: 3, vc: portalH + (eg.h - portalH) / 2, glass: true, shutter: false }));
-      }
-    } else if (art === 'portal_seitlich' || art === 'tor_und_fenster') {
-      const uc = centers[sideAxis];
-      portalAt(uc, Math.min(pw, Math.max(3, Math.floor(sp) - 2)));
-      blocked.push([uc - pw / 2 - 2, uc + pw / 2 + 2]);
-    }
-  }
-  if (istHaupt && art === 'loggia_offen') {
-    const w = Math.max(3, Math.floor(sp) - 2);
-    for (const uc of centers) {
-      const h = Math.max(4, eg.h - 2);
-      items0.push(mk({ kind: 'arch', uc, w, v0: 0, spring: Math.max(1, h - Math.ceil(w / 2)), glass: false, shutter: false, frame: true, portal: true }));
-    }
-  } else if (istHaupt && art === 'bottega_arcata' && sp >= 7) {
-    const w = Math.min(5, Math.floor(sp) - 3);
-    for (const uc of centers) {
-      const h = Math.max(4, Math.min(8, eg.h - 2));
-      items0.push(mk({ kind: 'arch', uc, w, v0: 0, spring: Math.max(1, h - Math.ceil(w / 2)), glass: false, shutter: false, frame: true, portal: true }));
-    }
-  } else if (art !== 'geschlossen') {
-    for (const uc of centers) {
-      if (blocked.some(([a, b]) => uc >= a && uc <= b)) continue;
-      egWindow(uc);
-    }
-  }
-
-  // Obergeschosse
-  const torre = akte.typ === 'casa_torre';
-  for (let s = 1; s < storeys.length; s++) {
-    const st = storeys[s];
-    const h = Math.min(st.art === 'nobile' ? 6 : 5, st.h - 3);
-    if (h < 2) continue;
-    const w = torre ? 1 : 2;
-    for (const uc of centers) {
-      switch (f.fenster.typ) {
-        case 'rundbogen': out[s].push(mk({ kind: 'arch', uc, w: Math.max(w, 2), v0: 2, spring: Math.max(1, h - 1) })); break;
-        case 'bifora':
-          out[s].push(mk({ kind: 'rect', uc: uc - 1, w: 1, v0: 2, h }), mk({ kind: 'rect', uc: uc + 1, w: 1, v0: 2, h }));
-          break;
-        case 'tabernakel': out[s].push(mk({ kind: 'rect', uc, w, v0: 2, h, hood: true })); break;
-        default: out[s].push(mk({ kind: 'rect', uc, w, v0: 2, h }));
-      }
-    }
-  }
-  return out;
 }
 
 // ------------------------------------------------------------------ Plan
@@ -275,14 +163,82 @@ function planHaus(g, akte, kontext) {
   }
   plan.partial = partial;
 
-  // Öffnungen je Straßenkante
-  const strassenKanten = edgeList.filter((e) => plan.klasse[e.index] === 'strasse' && e.len >= FACADE_MIN_LEN);
+  // Rückseite: hat eine Zelle der Wandlage 1 dahinter vollständig Wandlage 2? (dann darf sie zurückspringen)
+  for (const c of w1.values()) {
+    let innen = 0, ok = true;
+    for (const [dx, dz] of N4) {
+      const nk = P.ck(c.x + dx, c.z + dz);
+      if (!S.has(nk) || w1.has(nk)) continue;
+      innen++;
+      if (!w2.has(nk)) ok = false;
+    }
+    c.hinten = innen > 0 && ok;
+  }
+
+  // Fassaden je Straßenkante (Achsen, Öffnungen, Bugnato, Marcapiano, Eckquader)
+  const strassenKanten = edgeList.filter((e) => plan.klasse[e.index] === 'strasse');
   let haupt = null;
-  for (const e of strassenKanten) if (!haupt || e.len > haupt.len + 1e-9) haupt = e;
+  for (const e of strassenKanten) if (e.len >= F.MIN_LEN && (!haupt || e.len > haupt.len + 1e-9)) haupt = e;
   plan.hauptKante = haupt ? haupt.index : -1;
+  const seed = fnv1a(String(id));
   const seedBit = (parseInt(String(id).replace(/\D/g, ''), 10) || 0) % 2;
+  const ringKanten = new Map();
+  for (const e of edgeList) {
+    if (!ringKanten.has(e.ring)) ringKanten.set(e.ring, []);
+    ringKanten.get(e.ring).push(e);
+  }
+  const putzR = putzRolle(akte);
+  plan.fassaden = new Map();
   plan.oeffnungen = new Map();
-  for (const e of strassenKanten) plan.oeffnungen.set(e.index, layoutKante(e, haupt === e, akte, plan.storeys, seedBit));
+  for (const e of strassenKanten) {
+    const lst = ringKanten.get(e.ring), i = lst.indexOf(e);
+    const prev = lst[(i - 1 + lst.length) % lst.length], next = lst[(i + 1) % lst.length];
+    const eckStart = prev !== e && plan.klasse[prev.index] === 'strasse' && prev.len >= 3 &&
+      e.out[0] * prev.dir[0] + e.out[1] * prev.dir[1] > ECK_MIN_WINKEL;
+    const eckEnd = next !== e && plan.klasse[next.index] === 'strasse' && next.len >= 3 &&
+      e.out[0] * next.dir[0] + e.out[1] * next.dir[1] < -ECK_MIN_WINKEL;
+    const lay = F.layoutKante(e, {
+      istHaupt: haupt === e, hauptAvail: haupt ? haupt.len - 2 * F.MARGIN : 0, akte, storeys: plan.storeys, seedBit, seed,
+      rng: mulberry32(fnv1a(id + ':' + e.index)), eckStart, eckEnd, putz: putzR
+    });
+    plan.fassaden.set(e.index, lay);
+    plan.oeffnungen.set(e.index, lay.items);
+  }
+
+  // Vorsprünge (Sohlbänke, Konsolen, Marcapiano): eine Zelle vor der Außenlage, nie in fremden Parzellen,
+  // nur in Gassen ab GASSE_MIN freien Zellen und über dem Gelände
+  plan.vorsprung = [];
+  {
+    const vmap = new Map();
+    const ks = [...w1.keys()].sort((a, b) => a - b);
+    for (const k of ks) {
+      const c = w1.get(k);
+      const lay = c.klasse === 'strasse' ? plan.fassaden.get(c.edge) : null;
+      if (!lay) continue;
+      const e = edgeList[c.edge];
+      for (let s = 0; s < plan.storeys.length; s++) {
+        for (const vo of F.vorsprungeAn(lay, s, c.u)) {
+          const y = plan.storeys[s].base + vo.v;
+          if (y > plan.eaves || vo.v < 0) continue;
+          const r0 = F.zelle(lay, s, vo.v, c);
+          if (r0 === 'offen' || r0 === 'glas') continue;
+          for (const [dx, dz] of N4) {
+            const x1 = c.x + dx, z1 = c.z + dz;
+            if (S.has(P.ck(x1, z1)) || kontext.parz.owner(x1, z1) !== null) continue;
+            if (P.relToEdge(e, x1, z1).s <= 0.2) continue;
+            let frei = true;
+            for (let i = 2; i <= GASSE_MIN; i++) {
+              if (S.has(P.ck(c.x + dx * i, c.z + dz * i)) || kontext.parz.owner(c.x + dx * i, c.z + dz * i) !== null) { frei = false; break; }
+            }
+            if (!frei || y <= top(x1, z1)) continue;
+            const key = `${x1},${y},${z1}`;
+            if (!vmap.has(key)) vmap.set(key, { x: x1, y, z: z1, role: vo.role });
+          }
+        }
+      }
+    }
+    plan.vorsprung = [...vmap.values()].sort((a, b) => (a.x - b.x) || (a.z - b.z) || (a.y - b.y));
+  }
 
   // Gesims: freie Zellen vor Straßenwänden, vierseitig zusammenhängend
   plan.gesims = [];
@@ -302,7 +258,7 @@ function planHaus(g, akte, kontext) {
           if (seen.has(k) || S.has(k) || kontext.parz.owner(x, z) !== null) continue;
           if (P.relToEdge(e, x, z).s <= 0.2) continue; // nur nach außen
           seen.set(k, depth);
-          plan.gesims.push({ x, z, depth });
+          plan.gesims.push({ x, z, depth, par: (x + z) & 1 });
           next.push({ x, z, edge: f.edge });
         }
       }
@@ -310,10 +266,73 @@ function planHaus(g, akte, kontext) {
     }
   }
 
-  // Dachhöhe
+  // Dachhöhe, First, Altana, Kamine
+  plan.first = new Set();
+  plan.kamine = [];
+  plan.altana = null;
+  let dist = null;
   if (!flach) {
-    const dist = abstandsfeld(cells, S);
+    dist = abstandsfeld(cells, S);
+    plan.dist = dist;
     plan.dachHoehe = (x, z) => plan.eaves + 1 + Math.min(ROOF_CAP, Math.floor(ROOF_RISE * dist(x, z)));
+    // Firstlinie: strenge Spitze des Abstandsfelds entlang einer Achse (Mittellinie des Daches)
+    const eps = 1e-4;
+    for (const [x, z] of cells) {
+      const d = dist(x, z);
+      if (d < 2) continue;
+      const nb = (dx, dz) => (S.has(P.ck(x + dx, z + dz)) ? dist(x + dx, z + dz) : null);
+      const spitze = (a, b) => a !== null && b !== null && ((d - a > eps && d - b >= -eps) || (d - b > eps && d - a >= -eps));
+      if (spitze(nb(-1, 0), nb(1, 0)) || spitze(nb(0, -1), nb(0, 1))) plan.first.add(P.ck(x, z));
+    }
+  }
+  const dachY = flach ? () => plan.eaves : plan.dachHoehe;
+  const freiInnen = (x, z) => {
+    const k = P.ck(x, z);
+    if (!S.has(k) || w1.has(k) || w2.has(k) || partial.has(k)) return false;
+    return flach ? true : dist(x, z) >= 2;
+  };
+
+  // Altana: offene Dachloggia (4 x 4, vier Pfeiler, kleines Dach) auf möglichst ebener Stelle
+  if (akte.dach.altana === true) {
+    let best = null;
+    for (const [x0, z0] of cells) {
+      let ok = true, lo = Infinity, hi = -Infinity, score = 0;
+      for (let dx = 0; dx < 4 && ok; dx++) {
+        for (let dz = 0; dz < 4; dz++) {
+          const x = x0 + dx, z = z0 + dz;
+          if (!freiInnen(x, z)) { ok = false; break; }
+          const h = dachY(x, z);
+          lo = Math.min(lo, h); hi = Math.max(hi, h);
+          score += flach ? 0 : dist(x, z);
+        }
+      }
+      if (!ok || hi - lo > 1) continue;
+      score -= (hi - lo) * 4;
+      if (!best || score > best.score) best = { x0, z0, fl: hi, score };
+    }
+    if (best) plan.altana = { x0: best.x0, z0: best.z0, fl: best.fl, holz: !akte.typ.startsWith('palazzo') };
+  }
+
+  // Kamine: 1 x 1 oder 2 x 1, 3 Blöcke hoch, nahe dem First
+  const rngK = mulberry32(fnv1a(id + ':kamin'));
+  const rKamin = rngK();
+  const wunschKamine = akte.dach.kamine !== undefined ? akte.dach.kamine : (rKamin < 0.25 ? 0 : rKamin < 0.8 ? 1 : 2);
+  if (!flach && wunschKamine > 0) {
+    let maxH = -Infinity;
+    for (const [x, z] of cells) maxH = Math.max(maxH, plan.dachHoehe(x, z));
+    const al = plan.altana;
+    const inAltana = (x, z) => !!al && x >= al.x0 - 1 && x <= al.x0 + 4 && z >= al.z0 - 1 && z <= al.z0 + 4;
+    const kand = cells.filter(([x, z]) => dist(x, z) >= 2 && plan.dachHoehe(x, z) >= maxH - 1 && !inAltana(x, z));
+    const gesetzt = [];
+    for (let i = 0; i < wunschKamine && kand.length; i++) {
+      const [x, z] = kand[Math.floor(rngK() * kand.length) % kand.length];
+      const rZwei = rngK();
+      if (gesetzt.some(([gx, gz]) => Math.abs(gx - x) + Math.abs(gz - z) < 6)) continue;
+      const h = plan.dachHoehe(x, z);
+      const zwei = rZwei < 0.4 && S.has(P.ck(x + 1, z)) && plan.dachHoehe(x + 1, z) === h && dist(x + 1, z) >= 2 && !inAltana(x + 1, z);
+      gesetzt.push([x, z]);
+      plan.kamine.push({ x, z, y: h, zwei });
+    }
   }
   return plan;
 }
@@ -329,57 +348,29 @@ function storeyAt(plan, y) {
   return s;
 }
 
-// Grundrolle der Wand (ohne Öffnungen) für Fassade (Straßenseite) bzw. Nebenseite
+// Grundrolle der Wand (ohne Öffnungen) der Nebenseiten
 function wandRolle(plan, fassade, s) {
-  const f = plan.akte.fassade;
-  const putz = putzRolle(plan.akte);
-  const art = plan.storeys[s].art;
-  if (!fassade) return f.material === 'putz' ? putz : 'pietra_forte_bruch';
-  switch (f.material) {
-    case 'putz': return putz;
-    case 'bruchstein': return 'pietra_forte_bruch';
-    case 'stein_glatt': return 'pietra_serena';
-    case 'bugnato_glatt': return s === 0 ? 'pietra_forte_rustika' : 'pietra_forte';
-    case 'bugnato_abgestuft':
-      if (s === 0) return 'pietra_forte_rustika';
-      if (art === 'nobile' || s === 1) return 'pietra_forte_bruch';
-      return 'pietra_forte';
-    default: return putz;
-  }
+  const m = plan.akte.fassade.material;
+  if (m === 'putz') return putzRolle(plan.akte);
+  if (fassade && m === 'stein_glatt') return 'pietra_serena';
+  if (fassade && (m === 'bugnato_abgestuft' || m === 'bugnato_glatt')) return 'pietra_forte';
+  return 'pietra_forte_bruch';
 }
 
-// Rolle der Zelle einer Straßenwand an (u, v) im Geschoss s: 'offen' | 'glas' | Rolle | null (Grundwand)
-function fassadenPunkt(plan, items, s, u, v, layer) {
-  const f = plan.akte.fassade;
-  const list = items[s];
-  if (!list || !list.length) return null;
-  for (const it of list) {
-    if (inShape(it, u, v)) {
-      if (!it.glass) return 'offen';
-      return layer === 1 ? 'glas' : 'offen';
-    }
+// Gesims: Reihen (dy zur Traufe) einer Zelle in Tiefe depth; par = Parität für Konsolen
+function gesimsReihen(art, T, depth, par, flach, rolle) {
+  const rows = [];
+  if (art === 'gronda_holz') {
+    rows.push({ dy: 0, role: rolle });
+    if (depth === 1 && par === 0) rows.push({ dy: -1, role: rolle });
+    if (!flach) rows.push({ dy: 1, role: 'dach' });
+  } else {
+    const bottom = -Math.min(2, T - depth + (T === 1 ? 1 : 0));
+    const b = art === 'putzgesims' ? Math.max(-1, bottom) : bottom;
+    for (let dy = b; dy <= 0; dy++) rows.push({ dy, role: rolle });
+    if (!flach && depth <= Math.max(1, art === 'putzgesims' ? 1 : T - 1)) rows.push({ dy: 1, role: 'dach' });
   }
-  // Rahmen (und Haube beim Tabernakel)
-  const rahmenStein = f.fenster.rahmen === 'pietra_forte' ? 'pietra_forte' : 'pietra_serena';
-  for (const it of list) {
-    if (!it.frame) continue;
-    const near = list.some((o) => o.frame && (inShape(o, u - 1, v) || inShape(o, u + 1, v) || inShape(o, u, v - 1) || inShape(o, u, v + 1)));
-    const hood = it.hood && v === it.v0 + it.h + 1 && u >= it.uc - it.w / 2 - 1 && u < it.uc + it.w / 2 + 1;
-    if (near || hood) {
-      if (it.portal) return rahmenStein;
-      return f.fenster.typ === 'rahmen_stuck' || f.fenster.rahmen === 'putz' ? 'putz_weiss' : rahmenStein;
-    }
-  }
-  const lad = f.fenster.laeden;
-  if (lad && layer === 1) {
-    for (const it of list) {
-      if (it.shutter && it.kind === 'rect' && v >= it.v0 && v < it.v0 + it.h &&
-          ((u >= it.uc - it.w / 2 - 1 && u < it.uc - it.w / 2) || (u >= it.uc + it.w / 2 && u < it.uc + it.w / 2 + 1))) {
-        return lad === 'gruen' ? 'fensterladen' : 'holz_sporto';
-      }
-    }
-  }
-  return null;
+  return rows;
 }
 
 function gesimsRolle(plan) {
@@ -408,18 +399,15 @@ function bauHaus(writer, g, akte, kontext) {
   const yTop = plan.flach ? eaves + PARAPET : eaves;
   const wallCell = (c) => {
     const fassade = c.klasse === 'strasse';
-    const items = fassade ? plan.oeffnungen.get(c.edge) : null;
+    const lay = fassade ? plan.fassaden.get(c.edge) : null;
     for (let y = boden + 1; y <= yTop; y++) {
       const s = storeyAt(plan, Math.min(y, eaves));
       let role = null;
-      if (items) {
-        const st = plan.storeys[s];
-        const v = Math.min(y, eaves) - st.base;
-        if (y <= eaves) {
-          const r = fassadenPunkt(plan, items, s, c.u, v, c.layer);
-          if (r === 'offen') continue;
-          role = r === 'glas' ? 'glas_fenster' : r;
-        }
+      if (lay && y <= eaves) {
+        const v = y - plan.storeys[s].base;
+        const r = F.zelle(lay, s, v, c);
+        if (r === 'offen') continue;
+        role = r === 'glas' ? 'glas_fenster' : r;
       }
       set(c.x, y, c.z, role || wandRolle(plan, fassade, s));
     }
@@ -447,22 +435,61 @@ function bauHaus(writer, g, akte, kontext) {
       set(x, eaves, z, dach);
     }
   } else {
-    for (const c of roofs.surface({ columns: plan.cells, height: plan.dachHoehe, thickness: 1, overlap: 1 })) {
-      set(c.x, c.y, c.z, 'dach');
+    for (const c of roofs.surface({ columns: plan.cells, height: plan.dachHoehe, thickness: 1, overlap: 1 })) set(c.x, c.y, c.z, 'dach');
+    // Firstkamm: eine Reihe Ziegel auf der Mittellinie des Daches (nicht unter Kaminen und Altana)
+    const frei = new Set();
+    for (const k of plan.kamine) { frei.add(P.ck(k.x, k.z)); if (k.zwei) frei.add(P.ck(k.x + 1, k.z)); }
+    if (plan.altana) for (let dx = 0; dx < 4; dx++) for (let dz = 0; dz < 4; dz++) frei.add(P.ck(plan.altana.x0 + dx, plan.altana.z0 + dz));
+    for (const k of [...plan.first].sort((a, b) => a - b)) {
+      if (frei.has(k)) continue;
+      const x = P.ckX(k), z = P.ckZ(k), h = plan.dachHoehe(x, z);
+      if (h >= eaves + 3) set(x, h + 1, z, 'dach_first');
     }
   }
 
-  // Gesims (nur auf freien Zellen, einmal je Zelle im ganzen Projekt)
+  // Kamine
+  for (const k of plan.kamine) {
+    for (let y = k.y + 1; y <= k.y + 3; y++) {
+      set(k.x, y, k.z, 'dach_first');
+      if (k.zwei) set(k.x + 1, y, k.z, 'dach_first');
+    }
+  }
+
+  // Altana: Boden eben aufgefüllt, vier Pfeiler, kleines Dach
+  if (plan.altana) {
+    const al = plan.altana;
+    const pfeiler = al.holz ? 'holz_sporto' : 'pietra_serena';
+    for (let dx = 0; dx < 4; dx++) {
+      for (let dz = 0; dz < 4; dz++) {
+        const x = al.x0 + dx, z = al.z0 + dz;
+        const h = plan.flach ? eaves : plan.dachHoehe(x, z);
+        for (let y = h + 1; y <= al.fl; y++) set(x, y, z, 'dach');
+        const ecke = (dx === 0 || dx === 3) && (dz === 0 || dz === 3);
+        if (ecke) for (let y = al.fl + 1; y <= al.fl + 4; y++) set(x, y, z, pfeiler);
+        set(x, al.fl + 5, z, 'dach');
+        if ((dx === 1 || dx === 2) && (dz === 1 || dz === 2)) set(x, al.fl + 6, z, 'dach_first');
+      }
+    }
+  }
+
+  // Gesims als Konsolreihe (Stufen zur Wand hin) mit überstehendem Dach; nur auf freien Zellen, einmal je Zelle im Projekt
   const gr = gesimsRolle(plan);
-  const stein = plan.akte.fassade.gesims.art === 'cornicione_stein';
+  const gsm = plan.akte.fassade.gesims;
   const sorted = plan.gesims.slice().sort((a, b) => (a.x - b.x) || (a.z - b.z));
   for (const c of sorted) {
-    if (!kontext.beanspruche(c.x, eaves, c.z)) continue;
-    set(c.x, eaves, c.z, gr);
-    if (stein && c.depth === 1 && kontext.beanspruche(c.x, eaves - 1, c.z)) set(c.x, eaves - 1, c.z, gr);
+    for (const row of gesimsReihen(gsm.art, gsm.tiefeBl, c.depth, c.par, plan.flach, gr)) {
+      if (!kontext.beanspruche(c.x, eaves + row.dy, c.z)) continue;
+      set(c.x, eaves + row.dy, c.z, row.role);
+    }
+  }
+
+  // Vorsprünge der Fassade (Sohlbänke, Konsolen, Marcapiano)
+  for (const v of plan.vorsprung) {
+    if (!kontext.beanspruche(v.x, v.y, v.z)) continue;
+    set(v.x, v.y, v.z, v.role);
   }
   return n;
 }
 
-module.exports = { planHaus, bauHaus, abstandsfeld, inShape, layoutKante, geschosseMitBasis,
+module.exports = { planHaus, bauHaus, abstandsfeld, inShape: F.inShape, layoutKante: F.layoutKante, geschosseMitBasis,
   WALL_STREET, WALL_PLAIN, ROOF_RISE, ROOF_CAP, PARAPET };

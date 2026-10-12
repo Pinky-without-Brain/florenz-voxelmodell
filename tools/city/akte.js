@@ -15,6 +15,7 @@ const ENUM = Object.freeze({
   fensterTyp: ['rechteck', 'rundbogen', 'bifora', 'tabernakel', 'rahmen_stuck'],
   rahmen: ['pietra_forte', 'pietra_serena', 'putz', 'keiner'],
   laeden: ['gruen', 'holz'],
+  marcapiano: ['keiner', 'flach', 'vor'],
   gesimsArt: ['keiner', 'gronda_holz', 'putzgesims', 'cornicione_stein'],
   dachForm: ['walm', 'sattel', 'flach'],
   dachMaterial: ['coppi', 'terrasse']
@@ -22,7 +23,7 @@ const ENUM = Object.freeze({
 
 const QUELLE_RE = /^(typologie|foto:mapillary:.+|foto:commons:.+|recherche:.+)$/;
 const TOP_KEYS = ['id', 'typ', 'epoche', 'geschosse', 'fassade', 'dach', 'quelle', 'sicherheit', 'notiz', 'name', 'ensemble'];
-const FASSADE_KEYS = ['kanten', 'achsen', 'material', 'putzfarbe', 'erdgeschoss', 'fenster', 'gesims', 'extras'];
+const FASSADE_KEYS = ['kanten', 'achsen', 'material', 'putzfarbe', 'erdgeschoss', 'fenster', 'gesims', 'extras', 'eckquader', 'marcapiano'];
 
 const isObj = (v) => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isInt = (v) => Number.isInteger(v);
@@ -69,7 +70,7 @@ function validiere(a) {
     else {
       need(ENUM.fensterTyp.includes(w.typ), `fassade.fenster.typ ungültig (${w.typ})`);
       need(ENUM.rahmen.includes(w.rahmen), `fassade.fenster.rahmen ungültig (${w.rahmen})`);
-      need(w.laeden === null || ENUM.laeden.includes(w.laeden), `fassade.fenster.laeden ungültig (${w.laeden})`);
+      need(w.laeden === null || w.laeden === false || ENUM.laeden.includes(w.laeden), `fassade.fenster.laeden ungültig (${w.laeden})`);
     }
     const g = f.gesims;
     if (!isObj(g)) err.push('fassade.gesims fehlt');
@@ -80,6 +81,8 @@ function validiere(a) {
       else need(g.tiefeBl >= 1, 'fassade.gesims.tiefeBl muss 1..3 sein');
     }
     need(Array.isArray(f.extras) && f.extras.every((x) => typeof x === 'string'), 'fassade.extras muss eine Liste von Texten sein');
+    need(f.eckquader === undefined || typeof f.eckquader === 'boolean', 'fassade.eckquader muss true/false sein');
+    need(f.marcapiano === undefined || ENUM.marcapiano.includes(f.marcapiano), `fassade.marcapiano ungültig (${f.marcapiano})`);
   }
   const d = a.dach;
   if (!isObj(d)) err.push('dach fehlt');
@@ -87,6 +90,7 @@ function validiere(a) {
     need(ENUM.dachForm.includes(d.form), `dach.form ungültig (${d.form})`);
     need(ENUM.dachMaterial.includes(d.material), `dach.material ungültig (${d.material})`);
     need(typeof d.altana === 'boolean', 'dach.altana muss true/false sein');
+    need(d.kamine === undefined || (isInt(d.kamine) && d.kamine >= 0 && d.kamine <= 3), 'dach.kamine muss eine Ganzzahl 0..3 sein');
   }
   need(typeof a.quelle === 'string' && QUELLE_RE.test(a.quelle), `quelle ungültig (${a.quelle})`);
   need(typeof a.sicherheit === 'number' && a.sicherheit >= 0 && a.sicherheit <= 1, 'sicherheit muss 0..1 sein');

@@ -97,7 +97,8 @@ function pruefeHaus(g, a) {
   let wallTop = -1, anyTop = -1, bottom = 999;
   for (const key of keys) {
     const c = unpackKey(key);
-    if (grid.get(c.x, c.y, c.z).type !== 'terracotta') wallTop = Math.max(wallTop, c.y);
+    const ty = grid.get(c.x, c.y, c.z).type;
+    if (ty !== 'terracotta' && ty !== 'bricks') wallTop = Math.max(wallTop, c.y); // Dach, First und Kamine zählen nicht
     anyTop = Math.max(anyTop, c.y); bottom = Math.min(bottom, c.y);
   }
   assert.equal(wallTop, plan.eaves, 'Wände enden an der Traufe');
@@ -212,6 +213,203 @@ test('Alle Fenstertypen auf schrägem Grundriss: dicht und verbunden', () => {
       const a = akte(g, { fassade: { achsen: 4, erdgeschoss: { art: 'geschlossen', fenster: 'keine' },
         fenster: { typ, rahmen: typ === 'rahmen_stuck' ? 'putz' : 'pietra_forte', laeden } } });
       pruefeHaus(g, a);
+    }
+  }
+});
+
+// ------------------------------------------------------------------ C2b: Fassaden
+const F = require('../city/fassade.js');
+const FASSADE = {
+  achsen: 5, material: 'putz', putzfarbe: 'ocker', erdgeschoss: { art: 'portal_mittig', portalBreiteBl: 5, fenster: 'rechteck' },
+  fenster: { typ: 'rechteck', rahmen: 'pietra_serena', laeden: 'gruen' }, gesims: { art: 'gronda_holz', tiefeBl: 2 }
+};
+const GES4 = [{ art: 'eg', hoeheBl: 10 }, { art: 'nobile', hoeheBl: 10 }, { art: 'og', hoeheBl: 9 }, { art: 'og', hoeheBl: 8 }];
+function bauMit(id, W, H, typ, fassade, over = {}) {
+  const g = gebaeude(id, ringRect(0, 0, W, H), 37);
+  const a = akte(g, { geschosse: over.geschosse || GES4, fassade, dach: over.dach });
+  a.typ = typ;
+  const r = baue([g], { [id]: a });
+  const plan = r.k.plan(id);
+  return { g, a, ...r, plan, lay: plan.fassaden.get(plan.hauptKante) };
+}
+const zaehle = (grid, keys, type) => { let n = 0; for (const k of keys) { const c = unpackKey(k); if (grid.get(c.x, c.y, c.z).type === type) n++; } return n; };
+
+test('Fenster: 2-3 Blöcke breit, 4-6 hoch (Piano nobile höher), Achsabstand 5-9, mittig, 2 Blöcke Wand am Kantenende', () => {
+  for (const [W, achsen] of [[44, 5], [30, 15], [70, 1], [24, 3]]) {
+    const { lay } = bauMit('w800', W, 20, 'palazzo_cinquecento', { ...FASSADE, achsen });
+    assert.ok(lay.nAxes >= 1);
+    if (lay.nAxes > 1) assert.ok(lay.spacing >= F.SP_MIN - 1e-9 && lay.spacing <= F.SP_MAX + 1e-9, `Abstand ${lay.spacing} bei L=${lay.L}, achsen ${achsen}`);
+    assert.ok(Math.abs(lay.centers[0] - (lay.L - lay.centers[lay.centers.length - 1])) < 1e-9, 'Achsen mittig');
+    for (let s = 1; s < lay.items.length; s++) {
+      for (const it of lay.items[s]) {
+        assert.ok(it.w >= 2 && it.w <= 3, `Breite ${it.w}`);
+        const h = it.top - it.v0;
+        assert.ok(h >= (s === lay.items.length - 1 ? 3 : 4) && h <= 6, `Höhe ${h}`); // oberstes Geschoss darf kleinere Fenster haben
+        assert.ok(it.uL >= 2 && it.uR <= lay.L - 2, 'Wand am Kantenende');
+      }
+    }
+    const nobile = lay.items[1][0].top - lay.items[1][0].v0, og = lay.items[2][0].top - lay.items[2][0].v0;
+    assert.ok(nobile >= og && nobile >= 5, `nobile ${nobile} og ${og}`);
+  }
+});
+
+test('Läden: grüne Läden an Putzhäusern, keine bei laeden false und an Steinfassaden', () => {
+  const mit = bauMit('w801', 36, 18, 'casa_a_schiera', FASSADE);
+  assert.ok(zaehle(mit.grid, mit.parts.get('w801'), 'green_concrete') >= 20, 'Läden vorhanden');
+  const auto = bauMit('w802', 36, 18, 'casa_a_schiera', { ...FASSADE, fenster: { typ: 'rechteck', rahmen: 'pietra_serena', laeden: null } });
+  assert.ok(zaehle(auto.grid, auto.parts.get('w802'), 'green_concrete') >= 20, 'automatisch bei Putz');
+  const ohne = bauMit('w803', 36, 18, 'casa_a_schiera', { ...FASSADE, fenster: { typ: 'rechteck', rahmen: 'pietra_serena', laeden: false } });
+  assert.equal(zaehle(ohne.grid, ohne.parts.get('w803'), 'green_concrete'), 0);
+  const stein = bauMit('w804', 36, 18, 'palazzo_rinascimento', { ...FASSADE, material: 'bugnato_abgestuft', putzfarbe: null });
+  assert.equal(zaehle(stein.grid, stein.parts.get('w804'), 'green_concrete'), 0);
+  // Läden sitzen in der Außenlage beiderseits des Fensters und hängen an der Wand (R4)
+  assert.ok(zusammenhaengend(mit.parts.get('w801')));
+});
+
+test('Bifora: zwei Lichter (2 breit) mit einem Block Mittelsäulchen unter einem Entlastungsbogen', () => {
+  const r = bauMit('w805', 48, 20, 'palazzo_rinascimento', {
+    ...FASSADE, achsen: 5, material: 'bugnato_abgestuft', putzfarbe: null,
+    fenster: { typ: 'bifora', rahmen: 'pietra_serena', laeden: null }, gesims: { art: 'cornicione_stein', tiefeBl: 3 } });
+  const { lay, plan, grid } = r;
+  const it = lay.items[1][0];
+  assert.equal(it.shapes.length, 2);
+  const [a, b] = it.shapes;
+  assert.equal(a.w, 2); assert.equal(b.w, 2);
+  assert.ok(Math.abs((b.uc - b.w / 2) - (a.uc + a.w / 2) - 1) < 1e-9, 'ein Block Säulchen');
+  assert.ok(it.outer && it.outer.t === 'arch' && it.outer.w === 5, 'Bogen über 5 Blöcken');
+  // im Raster: mittlere Lichtreihe der Außenlage: Luft, Luft, Stein, Luft, Luft
+  const e = plan.edges[plan.hauptKante];
+  const y = plan.storeys[1].base + it.v0 + 1;
+  const cells = [...plan.w1.values()].filter((c) => c.edge === e.index && c.u >= it.uL && c.u < it.uR).sort((p, q) => p.u - q.u);
+  assert.equal(cells.length, 5);
+  const row = cells.map((c) => (grid.has(c.x, y, c.z) ? grid.get(c.x, y, c.z).type : '_'));
+  assert.deepEqual(row.map((t) => (t === '_' ? 0 : 1)), [0, 0, 1, 0, 0]);
+  assert.equal(row[2], 'smooth_stone');
+});
+
+test('Ladenbogen: 5-7 breit, Bogen, Außenlage offen, Glas dahinter', () => {
+  const r = bauMit('w806', 40, 18, 'casa_a_schiera', { ...FASSADE, achsen: 4, erdgeschoss: { art: 'bottega_arcata', fenster: 'rechteck' } },
+    { geschosse: [{ art: 'eg', hoeheBl: 10 }, { art: 'og', hoeheBl: 9 }, { art: 'og', hoeheBl: 9 }] });
+  const arcs = r.lay.items[0].filter((it) => it.shapes[0].t === 'arch');
+  assert.ok(arcs.length >= 3);
+  for (const it of arcs) {
+    assert.ok(it.w >= 5 && it.w <= 7, `Breite ${it.w}`);
+    assert.ok(it.top - it.v0 >= 7, 'Bogenhöhe');
+  }
+  const it = arcs[0], plan = r.plan;
+  const y = plan.boden + 2;
+  const c1 = [...plan.w1.values()].find((c) => c.edge === plan.hauptKante && Math.abs(c.u - it.uc) < 0.51);
+  assert.equal(r.grid.has(c1.x, y, c1.z), false, 'Außenlage offen (zurückgesetzt)');
+  const c2 = [...plan.w2.values()].find((c) => c.edge === plan.hauptKante && Math.abs(c.u - it.uc) < 0.51);
+  assert.equal(r.grid.get(c2.x, y, c2.z).type, 'gray_stained_glass');
+  assert.ok(zusammenhaengend(r.parts.get('w806')));
+});
+
+test('Gesims und Vorsprünge: nie in fremden Parzellen, Konsolstufen, Dachüberstand', () => {
+  const gA = gebaeude('w10', ringRect(0, 0, 16, 18), 37);
+  const gB = gebaeude('w20', ringRect(16, 0, 34, 18), 37);
+  const mk = (g, art, tiefe) => akte(g, { geschosse: GES4, fassade: { ...FASSADE, gesims: { art, tiefeBl: tiefe } } });
+  for (const art of ['cornicione_stein', 'gronda_holz', 'putzgesims']) {
+    const aA = mk(gA, art, art === 'putzgesims' ? 2 : 3), aB = mk(gB, art, art === 'putzgesims' ? 2 : 3);
+    aA.typ = 'palazzo_rinascimento'; aB.typ = 'palazzo_cinquecento';
+    const { k, parts, grid } = baue([gA, gB], { w10: aA, w20: aB });
+    for (const id of ['w10', 'w20']) {
+      const plan = k.plan(id);
+      let maxAbstand = 0;
+      for (const key of parts.get(id)) {
+        const c = unpackKey(key);
+        if (plan.S.has(P.ck(c.x, c.z))) continue;
+        assert.equal(k.parz.owner(c.x, c.z), null, `${art}: Vorsprung (${c.x},${c.y},${c.z}) liegt in einer Parzelle`);
+        let d = 99;
+        for (const [x, z] of plan.cells) d = Math.min(d, Math.abs(c.x - x) + Math.abs(c.z - z));
+        maxAbstand = Math.max(maxAbstand, d);
+      }
+      assert.ok(maxAbstand >= 2 && maxAbstand <= 3, `${art}: Überstand ${maxAbstand}`);
+    }
+    if (art === 'cornicione_stein') {
+      const plan = k.plan('w10');
+      const c0 = plan.gesims.find((c) => c.depth === 1 && c.z < 0);
+      assert.equal(grid.has(c0.x, plan.eaves - 2, c0.z), true, 'unterste Konsole bei Tiefe 1');
+      const c3 = plan.gesims.find((c) => c.depth === 3 && c.z < 0);
+      assert.equal(grid.has(c3.x, plan.eaves - 1, c3.z), false);
+      assert.equal(grid.has(c3.x, plan.eaves, c3.z), true);
+      assert.equal(grid.has(c3.x, plan.eaves + 1, c3.z), false, 'Dachüberstand endet eine Stufe früher');
+      assert.ok(zusammenhaengend([...parts.get('w10'), ...parts.get('w20')]));
+    }
+  }
+});
+
+test('Eckquader, Marcapiano und First: Palazzo-Ecken sauber, Geschossbänder, Dachfirst', () => {
+  const r = bauMit('w807', 40, 20, 'palazzo_cinquecento', { ...FASSADE, material: 'putz', putzfarbe: 'rosa' });
+  const { grid, plan } = r;
+  const e = plan.edges[plan.hauptKante];
+  const eck = [...plan.w1.values()].filter((c) => c.edge === e.index && (c.u < 2 || c.u > e.len - 2));
+  assert.ok(eck.length >= 4);
+  let quoin = 0;
+  for (const c of eck) for (let y = plan.boden + 1; y <= plan.eaves; y++) if (grid.get(c.x, y, c.z).type === 'polished_andesite') quoin++;
+  assert.ok(quoin >= 20, `Eckquader ${quoin}`);
+  const mid = [...plan.w1.values()].find((c) => c.edge === e.index && Math.abs(c.u - 12) < 0.51);
+  assert.equal(grid.get(mid.x, plan.storeys[1].base - 1, mid.z).type, 'smooth_stone', 'Marcapiano');
+  let first = 0;
+  for (const key of r.parts.get('w807')) { const c = unpackKey(key); if (c.y > plan.eaves && grid.get(c.x, c.y, c.z).type === 'bricks') first++; }
+  assert.ok(first >= 10, `First ${first}`);
+  assert.ok(zusammenhaengend(r.parts.get('w807')));
+});
+
+test('Schräge Kante: Fenster werden schmaler statt zerrissen (Treppeneffekt <= ca. 1 Block je Fensterbreite)', () => {
+  const ang = 40 * Math.PI / 180, c = Math.cos(ang), s = Math.sin(ang);
+  const R = [[0, 0], [40, 0], [40, 22], [0, 22]];
+  const ring = R.map(([x, z]) => [Math.round((x * c - z * s) * 2) / 2, Math.round((x * s + z * c) * 2) / 2]);
+  const g = gebaeude('w808', ring, 37);
+  const a = akte(g, { geschosse: GES4, fassade: { ...FASSADE, erdgeschoss: { art: 'geschlossen', fenster: 'keine' } } });
+  const { grid, k, parts } = baue([g], { w808: a });
+  const plan = k.plan('w808');
+  let geprueft = 0;
+  for (const lay of plan.fassaden.values()) {
+    for (let st = 1; st < lay.items.length; st++) {
+      for (const it of lay.items[st]) { geprueft++; assert.ok(it.w * lay.sinPhi <= 1.05 + 1e-9 || it.w === 1, `Breite ${it.w} bei sin ${lay.sinPhi}`); }
+    }
+  }
+  assert.ok(geprueft > 0);
+  assert.ok(zusammenhaengend(parts.get('w808')));
+  assert.deepEqual(lecks(grid, plan).slice(0, 3), []);
+});
+
+test('Altana und Kamine: Dachloggia mit vier Pfeilern, Kamine aus Ziegel, alles verbunden', () => {
+  const r = bauMit('w809', 40, 22, 'casa_a_schiera', FASSADE, { dach: { altana: true, kamine: 2 } });
+  const { grid, plan } = r;
+  assert.ok(plan.altana, 'Altana gefunden');
+  const al = plan.altana;
+  for (const [dx, dz] of [[0, 0], [3, 0], [0, 3], [3, 3]]) {
+    for (let y = al.fl + 1; y <= al.fl + 4; y++) assert.equal(grid.get(al.x0 + dx, y, al.z0 + dz).type, 'spruce_planks');
+  }
+  assert.equal(grid.has(al.x0 + 1, al.fl + 3, al.z0 + 1), false, 'offen zwischen den Pfeilern');
+  assert.equal(grid.get(al.x0 + 1, al.fl + 5, al.z0 + 1).type, 'terracotta');
+  assert.ok(plan.kamine.length >= 1);
+  for (const km of plan.kamine) assert.equal(grid.get(km.x, km.y + 3, km.z).type, 'bricks');
+  assert.ok(zusammenhaengend(r.parts.get('w809')));
+});
+
+test('Fassaden sind deterministisch (zwei Läufe, gleiche Zellen)', () => {
+  const sig = (r) => r.parts.get('w810').slice().sort((p, q) => p - q).map((key) => { const u = unpackKey(key); return `${key}:${r.grid.get(u.x, u.y, u.z).type}`; }).join('|');
+  const f = { ...FASSADE, material: 'bugnato_abgestuft', putzfarbe: null, fenster: { typ: 'bifora', rahmen: 'pietra_forte', laeden: null }, gesims: { art: 'cornicione_stein', tiefeBl: 3 } };
+  assert.equal(sig(bauMit('w810', 46, 20, 'palazzo_rinascimento', f)), sig(bauMit('w810', 46, 20, 'palazzo_rinascimento', f)));
+});
+
+test('Zurückspringende Fenster, Ladenbögen und Bugnato-Fugen: Hülle dicht und verbunden (achsparallel und leicht schräg)', () => {
+  for (const grad of [0, 9]) {
+    const ang = grad * Math.PI / 180, c = Math.cos(ang), s = Math.sin(ang);
+    const R = [[0, 0], [44, 0], [44, 22], [0, 22]];
+    const ring = R.map(([x, z]) => [Math.round((x * c - z * s) * 2) / 2, Math.round((x * s + z * c) * 2) / 2]);
+    for (const typ of A.ENUM.fensterTyp) {
+      for (const [material, egArt, egFenster] of [['putz', 'bottega_arcata', 'kniefenster'], ['bugnato_abgestuft', 'geschlossen', 'keine'], ['bugnato_glatt', 'tor_und_fenster', 'rechteck_vergittert']]) {
+        const g = gebaeude('w700', ring, 37);
+        const a = akte(g, { geschosse: GES4, fassade: { ...FASSADE, material, putzfarbe: material === 'putz' ? 'gelb' : null, achsen: 5,
+          erdgeschoss: { art: egArt, portalBreiteBl: 5, fenster: egFenster },
+          fenster: { typ, rahmen: typ === 'rahmen_stuck' ? 'putz' : 'pietra_forte', laeden: material === 'putz' ? 'gruen' : null } } });
+        if (egArt === 'tor_und_fenster') a.fassade.erdgeschoss.art = 'geschlossen', a.fassade.erdgeschoss.fenster = 'rechteck_vergittert';
+        pruefeHaus(g, a);
+      }
     }
   }
 });
