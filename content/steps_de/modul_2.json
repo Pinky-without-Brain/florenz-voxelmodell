@@ -1,0 +1,50 @@
+{
+  "module": 2,
+  "title": "Die Westfassade",
+  "subtitle": "Bautüte 2: Sockel, Portale, Nischen, Fensterrose und Giebel der Schauseite",
+  "icon": "⛪",
+  "parts": {
+    "sockel": {
+      "title": "Der Sockel der Fassade",
+      "description": "Du legst den Sockel der Westfassade an: vier Blöcke dick bei X −216 bis −213, über die ganze Breite von Z −44 bis 44 und von Y 65 bis 72. Außen sitzen polierter Granit, innen Steinziegel und glatter Stein; ganz oben läuft ein Band aus dunklem Prismarin.",
+      "tip": "Baue erst die äußere Schicht bei X −216, dann nach innen bis X −213. Das dunkle Band in Y 72 setzt du zuletzt, es zeigt dir die Oberkante.",
+      "caution": "Der Sockel ist rundum geschlossen. Die Portale beginnen erst darüber in Y 73, spare also unten keine Tür aus.",
+      "fact": "Die Fassade ist mit Marmor in drei Farben verkleidet: weiß aus Carrara, grün aus Prato und rot aus der Maremma. Diese Farben tragen auch die Seitenwände des Doms."
+    },
+    "portalzone": {
+      "title": "Portale mit Bronzetüren",
+      "description": "Du baust die Portalzone von Y 73 bis 100 und sparst drei Portalbögen aus: das große Hauptportal bei Z 0 (Halbweite 6, Kämpfer Y 88) und zwei kleinere bei Z −29 und Z 29 (Halbweite 4, Kämpfer Y 84). Die zwei äußeren Schichten bleiben als Rücksprung offen, dahinter stehen bei X −214 und −213 die Bronzetüren aus geschnittenem Kupfer. Über jeder Tür füllt ein Mosaik aus Gold und blauer Keramik die Lünette; darüber sitzt ein Giebel aus gemeißeltem Quarz.",
+      "tip": "Setze zuerst die Wand und lass die Bögen offen. Danach fügst du Rahmen, Türen und die Mosaike ein. Die Mosaike bilden Ringe um den Kämpferpunkt, abwechselnd Gold und Blau.",
+      "caution": "Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vier Schichten aussparst, steht die Fassade offen.",
+      "fact": "Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli."
+    },
+    "nischenzone": {
+      "title": "Zwölf Statuennischen",
+      "description": "Du setzt die Nischenzone von Y 101 bis 114 und sparst darin zwölf Rundbogennischen aus, je drei Blöcke breit und einen Block tief (nur X −216). Sechs stehen in der Mitte bei Z ±3, ±9 und ±15, sechs weitere seitlich bei Z ±27, ±32 und ±37. Jede Nische hat einen Rahmen aus glattem Quarz und eine kleine Statue aus Quarz mit einem Kopf aus Calcit.",
+      "tip": "Zeichne dir die zwölf Mitten auf einem Streifen Papier auf. Die Nischen sind spiegelgleich, du zählst also nur eine Hälfte.",
+      "caution": "Die Nischen sind nur eine Schicht tief. Dahinter muss die Wand bei X −215 geschlossen bleiben.",
+      "fact": "Die Fassade des Doms ist mit Statuen geschmückt. Einige Figuren der älteren Fassade von Arnolfo di Cambio werden heute im Museo dell'Opera del Duomo gezeigt."
+    },
+    "rosenzone": {
+      "title": "Fensterrose und Seitengiebel",
+      "description": "Du baust die Zone von Y 115 bis 140. In der Mitte (Z −21 bis 21) sparst du ein Rundfenster mit Zentrum Y 128 und Radius 9 aus; in der Schicht X −215 sitzen Speichen aus gemeißeltem Quarz und Glas in Orange und Gelb. Rechts und links davon (Z ±22 bis ±44) steigt die Wand schräg von Y 116 außen auf Y 128 innen an und deckt so die Seitenschiffdächer; dazu kommen Fialen auf den Pfeilervorlagen.",
+      "tip": "Beginne mit dem Ring um das Fenster und setze dann die acht Speichen. Das Glas wechselt in jedem Sektor die Farbe.",
+      "caution": "Der Ring des Fensters reicht unten bis Y 118 und berührt dort die Uhr der Innenseite. Diese Zellen gehören der Uhr; lass sie hier aus.",
+      "fact": "Die heutige Fassade stammt vom Architekten Emilio De Fabris. Sie wurde von 1876 bis 1887 gebaut, im neugotischen Stil des 19. Jahrhunderts."
+    },
+    "giebel": {
+      "title": "Der Giebel mit Tondo",
+      "description": "Du schließt die Fassade nach oben ab: Von Y 141 bis 150 steht der Mittelteil senkrecht bei Z −21 bis 21, darüber läuft ein Dreieck bis zur Spitze in Y 164 bei Z 0. In der Mitte sitzt ein Tondo mit Radius 4 aus Gold und blauer Keramik (Zentrum Y 152). Entlang der Kante setzt du kleine Krabben aus gemeißeltem Quarz, außen stehen zwei Fialen bis Y 150.",
+      "tip": "Die Kante fällt pro Block etwa zwei Drittel Block. Zähle die Oberkante je Spalte, dann wird die Spitze gerade.",
+      "caution": "Die Fassade darf nicht über Z ±44 und nicht nach Westen über X −216 hinausragen. Die Krabben bleiben deshalb in der Fläche der Außenschicht.",
+      "fact": "Die erste Fassade begann Arnolfo di Cambio gegen Ende des 13. Jahrhunderts. Sie blieb unvollendet und wurde 1587 abgebrochen, bevor die heutige Fassade entstand."
+    },
+    "facade_innenseite_uhr": {
+      "title": "Uccellos Uhr auf der Innenseite",
+      "description": "Du gestaltest die Innenseite der Fassade bei X −213: Auf Y 100 bis 118 und Z −9 bis 9 entsteht ein Zifferblatt mit Radius 9 aus weißer Keramik, mit blauem Ring und 24 schwarzen Stundenmarken. Ein Zeiger mit Stern an der Spitze aus Gold steht schräg über dem Blatt. Diese Zellen gehören nur diesem Bauteil.",
+      "tip": "Setze die Marken im Winkelabstand von 15 Grad. Der Zeiger ist absichtlich nicht symmetrisch, so erkennst du die Uhr sofort.",
+      "caution": "Die Uhr liegt in der Wandfläche, nicht davor. Setze sie erst, wenn die Wand bei X −214 steht.",
+      "fact": "Die Uhr im Dom malte Paolo Uccello 1443. Sie hat 24 Stunden und zeigt die „italienische Stunde“ (ora italica); ihr Zeiger läuft gegen den Uhrzeigersinn."
+    }
+  }
+}
