@@ -1,43 +1,47 @@
 {
   "id": "w114220149",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Sitz der Misericordia seit 1576",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 9
     },
     {
       "art": "nobile",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
       "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
-      "art": "og",
-      "hoeheBl": 9
+      "art": "attika",
+      "hoeheBl": 3
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": "gruen"
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "putzgesims",
+      "tiefeBl": 2
     },
     "extras": []
   },
@@ -46,7 +50,8 @@
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.2,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+  "quelle": "recherche:https://feelflorence.it/en/node/12233",
+  "sicherheit": 0.4,
+  "notiz": "Zuordnung nur über die Lage (Südseite der Piazza, östlich von Via dei Calzaiuoli/Bigallo, Piazza del Duomo 19/20) und fünf OSM-Geschosse; kein OSM-Name. Fassadenbeschreibung nicht gefunden, Gestaltung typologisch.",
+  "name": "Palazzo della Misericordia"
 }

@@ -41,7 +41,8 @@
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.2,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze)",
+  "sicherheit": 0.35,
+  "notiz": "Benennung nur über die Lage östlich des Palazzo dei Canonici, wo it.Wikipedia die Casa Sermanni nennt. Fassade nicht belegt, Gestaltung bleibt typologisch (Ottocento-Platzfront).",
+  "name": "Casa Sermanni"
 }

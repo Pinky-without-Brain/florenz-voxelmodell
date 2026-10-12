@@ -1,45 +1,53 @@
 {
   "id": "w307544522",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Fassade um 1678 (L. A. Incontri)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 11,
+    "achsen": 9,
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "portal_mittig",
-      "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 6,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "cornicione_stein",
-      "tiefeBl": 2
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_ecke",
+      "balkon_ueber_portal",
+      "oculi_unter_gesims"
+    ]
   },
   "dach": {
-    "form": "flach",
-    "material": "terrasse",
+    "form": "walm",
+    "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Incontri",
+  "sicherheit": 0.8,
+  "notiz": "Ecke Via dei Servi/Via dei Pucci: fünf Achsen zur Via dei Servi, neun zur Via dei Pucci; rustizierte Ecken und Portalrahmen, Travertin-Gurte, zwei Portale mit Balkon, Bogengiebel im Piano nobile, kräftiger Dachüberstand, Wappen an der Ecke (it.Wikipedia). Putzfarbe angenommen. Dokumentiert 3 Geschosse plus Mezzanin, das ist höher als hoeheBl 23.",
   "name": "Palazzo Incontri"
 }

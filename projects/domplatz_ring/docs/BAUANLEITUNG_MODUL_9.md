@@ -8,42 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 37.388 |
+| Blöcke | 37.233 |
 | Bauschritte | 23 |
 | Y-Bereich | 66 bis 108 |
-| X-Ausdehnung | -181 bis -26 (156 Blöcke) |
+| X-Ausdehnung | -181 bis -27 (155 Blöcke) |
 | Z-Ausdehnung | 167 bis 213 (47 Blöcke) |
 | Kleinster Schritt | 1.159 Blöcke (Schritt 9.23) |
-| Mittlerer Schritt | 1.626 Blöcke |
-| Größter Schritt | 2.084 Blöcke (Schritt 9.3) |
+| Mittlerer Schritt | 1.619 Blöcke |
+| Größter Schritt | 2.094 Blöcke (Schritt 9.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 7.126 | 19,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.998 | 16,0 % |
-| Terrakotta | `terracotta` | 5.737 | 15,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.888 | 15,8 % |
+| Terrakotta | `terracotta` | 5.682 | 15,3 % |
 | Polierter Tuffstein | `polished_tuff` | 4.359 | 11,7 % |
 | Weißer Beton | `white_concrete` | 3.477 | 9,3 % |
 | Orange Keramik | `orange_terracotta` | 2.992 | 8,0 % |
 | Rosa Keramik | `pink_terracotta` | 2.042 | 5,5 % |
-| Tuffstein | `tuff` | 1.548 | 4,1 % |
+| Tuffstein | `tuff` | 1.559 | 4,2 % |
 | Graues Buntglas | `gray_stained_glass` | 1.232 | 3,3 % |
 | Glatter Stein | `smooth_stone` | 1.043 | 2,8 % |
 | Grüner Beton | `green_concrete` | 490 | 1,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 449 | 1,2 % |
 | Ziegelsteine | `bricks` | 336 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 264 | 0,7 % |
-| Polierter Andesit | `polished_andesite` | 238 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 237 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 57 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307544508` | Bottega dell'Opera del Duomo | 2.570 | 9.1–9.2 |
-| 2 | `w307544540` | Torre dei Visdomini | 2.084 | 9.3 |
+| 1 | `w307544508` | Bottega dell'Opera del Duomo | 2.405 | 9.1–9.2 |
+| 2 | `w307544540` | Torre dei Visdomini | 2.094 | 9.3 |
 | 3 | `w491889274` | Reihenhaus an Via delle Oche | 4.165 | 9.4–9.6 |
 | 4 | `w491889276` | Reihenhaus an Via delle Oche | 6.551 | 9.7–9.10 |
 | 5 | `w491889279` | Reihenhaus an Via della Canonica | 1.725 | 9.11 |
@@ -74,7 +74,7 @@
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 1 Geschoss, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Werkstatt seit Mitte 19. Jh. an dieser Stelle), 1 Geschoss, Putzfarbe Grau. Quelle: recherche:https://www.firenzemadeintuscany.com/it/articolo/la-bottega-dell-opera-del-duomo/, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -91,15 +91,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.2 – Bottega dell'Opera del Duomo – Teil 2/2 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
-- **Blöcke:** 1.338
+- **Blöcke:** 1.173
 - **Bauteile:** `w307544508`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 642 |
-| Hellgrauer Beton | `light_gray_concrete` | 591 |
+| Terrakotta | `terracotta` | 587 |
+| Hellgrauer Beton | `light_gray_concrete` | 481 |
 | Ziegelsteine | `bricks` | 38 |
 | Weißer Beton | `white_concrete` | 38 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
@@ -108,7 +108,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 1 Geschoss, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Nebengebäude (Werkstatt seit Mitte 19. Jh. an dieser Stelle), 1 Geschoss, Putzfarbe Grau. Quelle: recherche:https://www.firenzemadeintuscany.com/it/articolo/la-bottega-dell-opera-del-duomo/, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -125,24 +125,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.3 – Torre dei Visdomini
 
 - **Y-Bereich:** 66 bis 100
-- **Blöcke:** 2.084
+- **Blöcke:** 2.094
 - **Bauteile:** `w307544540`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.548 |
+| Tuffstein | `tuff` | 1.559 |
 | Terrakotta | `terracotta` | 194 |
 | Polierter Tuffstein | `polished_tuff` | 170 |
-| Polierter Andesit | `polished_andesite` | 96 |
+| Polierter Andesit | `polished_andesite` | 95 |
 | Tuffsteinziegel | `tuff_bricks` | 43 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (14. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Visdomini, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -154,7 +154,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 9.4 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 66–75)
 

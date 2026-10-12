@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 138.129 |
+| Blöcke | 138.044 |
 | Bauschritte | 82 |
 | Y-Bereich | 63 bis 122 |
 | X-Ausdehnung | -385 bis -259 (127 Blöcke) |
 | Z-Ausdehnung | -313 bis -68 (246 Blöcke) |
 | Kleinster Schritt | 1.053 Blöcke (Schritt 4.82) |
-| Mittlerer Schritt | 1.685 Blöcke |
-| Größter Schritt | 2.097 Blöcke (Schritt 4.3) |
+| Mittlerer Schritt | 1.683 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 4.44) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 23.384 | 16,9 % |
+| Rosa Keramik | `pink_terracotta` | 23.320 | 16,9 % |
 | Terrakotta | `terracotta` | 20.653 | 15,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 19.656 | 14,2 % |
 | Polierter Tuffstein | `polished_tuff` | 15.944 | 11,5 % |
 | Orange Keramik | `orange_terracotta` | 15.872 | 11,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 12.113 | 8,8 % |
-| Weißer Beton | `white_concrete` | 7.842 | 5,7 % |
+| Weißer Beton | `white_concrete` | 7.787 | 5,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 7.321 | 5,3 % |
 | Endsteinziegel | `end_stone_bricks` | 6.257 | 4,5 % |
-| Graues Buntglas | `gray_stained_glass` | 3.552 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 3.584 | 2,6 % |
 | Ziegelsteine | `bricks` | 1.448 | 1,0 % |
 | Glatter Stein | `smooth_stone` | 1.203 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.186 | 0,9 % |
-| Polierter Andesit | `polished_andesite` | 989 | 0,7 % |
+| Polierter Andesit | `polished_andesite` | 991 | 0,7 % |
 | Grüner Beton | `green_concrete` | 582 | 0,4 % |
 | Tuffstein | `tuff` | 114 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
@@ -43,7 +43,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307153247` | Osservatorio Ximeniano | 22.927 | 4.1–4.13 |
+| 1 | `w307153247` | Osservatorio Ximeniano | 22.842 | 4.1–4.13 |
 | 2 | `w307153262` | Haus w307153262 | 4.368 | 4.14–4.16 |
 | 3 | `w477257655` | Reihenhaus an Borgo San Lorenzo | 4.441 | 4.17–4.19 |
 | 4 | `w477257657` | Reihenhaus an Borgo San Lorenzo | 2.688 | 4.20–4.21 |
@@ -84,7 +84,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -98,10 +98,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Osservatorio Ximeniano – Teil 2/13 (Y 66–67)
+### Schritt 4.2 – Osservatorio Ximeniano – Teil 2/13 (Y 66–68)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.731
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 2.088
 - **Bauteile:** `w307153247`
 
 **Teileliste**
@@ -109,13 +109,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.374 |
-| Rosa Keramik | `pink_terracotta` | 350 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Glatter Stein | `smooth_stone` | 2 |
+| Rosa Keramik | `pink_terracotta` | 702 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -129,26 +130,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Osservatorio Ximeniano – Teil 3/13 (Y 68–73)
+### Schritt 4.3 – Osservatorio Ximeniano – Teil 3/13 (Y 69–73)
 
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 2.097
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.683
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.667 |
-| Weißer Beton | `white_concrete` | 273 |
+| Rosa Keramik | `pink_terracotta` | 1.346 |
+| Weißer Beton | `white_concrete` | 185 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
-| Polierter Andesit | `polished_andesite` | 18 |
-| Glatter Stein | `smooth_stone` | 13 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Polierter Andesit | `polished_andesite` | 17 |
+| Glatter Stein | `smooth_stone` | 11 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -180,7 +181,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -197,21 +198,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.5 – Osservatorio Ximeniano – Teil 5/13 (Y 79–83)
 
 - **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.728
+- **Blöcke:** 1.700
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.391 |
-| Weißer Beton | `white_concrete` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
+| Rosa Keramik | `pink_terracotta` | 1.364 |
+| Weißer Beton | `white_concrete` | 165 |
+| Graues Buntglas | `gray_stained_glass` | 160 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -228,22 +229,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.6 – Osservatorio Ximeniano – Teil 6/13 (Y 84–88)
 
 - **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.784
+- **Blöcke:** 1.812
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.457 |
-| Weißer Beton | `white_concrete` | 132 |
+| Rosa Keramik | `pink_terracotta` | 1.484 |
+| Weißer Beton | `white_concrete` | 165 |
 | Glatter Stein | `smooth_stone` | 123 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -260,22 +261,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.7 – Osservatorio Ximeniano – Teil 7/13 (Y 89–93)
 
 - **Y-Bereich:** 89 bis 93
-- **Blöcke:** 1.784
+- **Blöcke:** 1.728
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.455 |
-| Weißer Beton | `white_concrete` | 132 |
-| Glatter Stein | `smooth_stone` | 123 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Rosa Keramik | `pink_terracotta` | 1.391 |
+| Weißer Beton | `white_concrete` | 198 |
+| Graues Buntglas | `gray_stained_glass` | 128 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -292,21 +292,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.8 – Osservatorio Ximeniano – Teil 8/13 (Y 94–98)
 
 - **Y-Bereich:** 94 bis 98
-- **Blöcke:** 1.728
+- **Blöcke:** 1.784
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.393 |
-| Weißer Beton | `white_concrete` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Rosa Keramik | `pink_terracotta` | 1.457 |
+| Weißer Beton | `white_concrete` | 132 |
+| Glatter Stein | `smooth_stone` | 123 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -323,22 +324,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.9 – Osservatorio Ximeniano – Teil 9/13 (Y 99–103)
 
 - **Y-Bereich:** 99 bis 103
-- **Blöcke:** 1.812
+- **Blöcke:** 1.784
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.550 |
+| Rosa Keramik | `pink_terracotta` | 1.455 |
+| Weißer Beton | `white_concrete` | 132 |
 | Glatter Stein | `smooth_stone` | 123 |
-| Weißer Beton | `white_concrete` | 99 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -369,7 +370,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -400,7 +401,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -428,7 +429,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 
@@ -457,7 +458,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (Kloster San Giovannino, Sternwarte 1756), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano, Angaben geschätzt (Sicherheit 0,35).
 
 **Tipp**
 

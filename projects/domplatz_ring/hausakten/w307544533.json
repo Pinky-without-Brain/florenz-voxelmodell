@@ -1,14 +1,14 @@
 {
   "id": "w307544533",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16.-Jh.-Formen, Umbau 17. Jh.",
   "geschosse": [
     {
       "art": "eg",
       "hoeheBl": 9
     },
     {
-      "art": "og",
+      "art": "nobile",
       "hoeheBl": 7
     },
     {
@@ -22,27 +22,31 @@
     "material": "putz",
     "putzfarbe": "rosa",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rundbogen"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "rechteck",
       "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "portal_bugnato",
+      "zunftzeichen_arte_della_lana"
+    ]
   },
   "dach": {
-    "form": "sattel",
+    "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzetto_Del_Bianco",
+  "sicherheit": 0.5,
+  "notiz": "Via dei Servi 3: verputzte Fassade mit Rustika-Portal und Zunftzeichen der Arte della Lana, Formen der Palazzi des 16. Jh.; drei Geschosse plus vierte durch Ausmauern einer Loggia/Altane (it.Wikipedia). Achsen, Fenster, Gesims nicht beschrieben. Vierte Ebene passt nicht zu hoeheBl 23.",
   "name": "Palazzetto del Bianco"
 }

@@ -8,50 +8,51 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.290 |
+| Blöcke | 40.006 |
 | Bauschritte | 24 |
 | Y-Bereich | 65 bis 112 |
-| X-Ausdehnung | -245 bis -180 (66 Blöcke) |
-| Z-Ausdehnung | 115 bis 204 (90 Blöcke) |
+| X-Ausdehnung | -244 bis -181 (64 Blöcke) |
+| Z-Ausdehnung | 116 bis 204 (89 Blöcke) |
 | Kleinster Schritt | 1.182 Blöcke (Schritt 5.16) |
-| Mittlerer Schritt | 1.679 Blöcke |
-| Größter Schritt | 2.002 Blöcke (Schritt 5.7) |
+| Mittlerer Schritt | 1.667 Blöcke |
+| Größter Schritt | 1.975 Blöcke (Schritt 5.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 6.648 | 16,5 % |
-| Terrakotta | `terracotta` | 6.429 | 16,0 % |
-| Rosa Keramik | `pink_terracotta` | 5.755 | 14,3 % |
-| Polierter Tuffstein | `polished_tuff` | 4.764 | 11,8 % |
-| Endsteinziegel | `end_stone_bricks` | 4.122 | 10,2 % |
-| Polierter Andesit | `polished_andesite` | 3.048 | 7,6 % |
-| Glatter Stein | `smooth_stone` | 2.724 | 6,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.305 | 5,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.534 | 3,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.793 | 22,0 % |
+| Terrakotta | `terracotta` | 6.321 | 15,8 % |
+| Rosa Keramik | `pink_terracotta` | 5.755 | 14,4 % |
+| Polierter Tuffstein | `polished_tuff` | 4.764 | 11,9 % |
+| Endsteinziegel | `end_stone_bricks` | 4.122 | 10,3 % |
+| Glatter Stein | `smooth_stone` | 2.988 | 7,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.305 | 5,8 % |
 | Orange Keramik | `orange_terracotta` | 1.490 | 3,7 % |
-| Grüner Beton | `green_concrete` | 467 | 1,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 460 | 1,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.305 | 3,3 % |
+| Grüner Beton | `green_concrete` | 842 | 2,1 % |
+| Polierter Andesit | `polished_andesite` | 501 | 1,3 % |
 | Ziegelsteine | `bricks` | 314 | 0,8 % |
+| Tuffstein | `tuff` | 248 | 0,6 % |
 | Weißer Beton | `white_concrete` | 184 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 46 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 47 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 27 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114220149` | Renaissance-Palazzo an Piazza del Duomo | 16.447 | 5.1–5.9 |
+| 1 | `w114220149` | Palazzo della Misericordia | 16.155 | 5.1–5.9 |
 | 2 | `w491889264` | Reihenhaus an Via delle Oche | 4.719 | 5.10–5.12 |
-| 3 | `w491889266` | Reihenhaus an Via del Campanile | 3.233 | 5.13–5.14 |
+| 3 | `w491889266` | Reihenhaus an Via del Campanile | 3.237 | 5.13–5.14 |
 | 4 | `w491889268` | Reihenhaus an Via del Campanile | 2.373 | 5.15–5.16 |
-| 5 | `w491889275` | Palazzo des Cinquecento an Via dei Calzaiuoli | 8.941 | 5.17–5.21 |
+| 5 | `w491889275` | Palazzo des Cinquecento an Via dei Calzaiuoli | 8.945 | 5.17–5.21 |
 | 6 | `w491889277` | Reihenhaus an Via del Campanile | 3.225 | 5.22–5.23 |
 | 7 | `w491889278` | Reihenhaus an Via delle Oche | 1.352 | 5.24 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Renaissance-Palazzo an Piazza del Duomo – Teil 1/9 (Y 65–66)
+### Schritt 5.1 – Palazzo della Misericordia – Teil 1/9 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.975
@@ -66,7 +67,7 @@
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -80,25 +81,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Renaissance-Palazzo an Piazza del Duomo – Teil 2/9 (Y 67–72)
+### Schritt 5.2 – Palazzo della Misericordia – Teil 2/9 (Y 67–71)
 
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.578
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.499
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.123 |
-| Polierter Andesit | `polished_andesite` | 197 |
-| Tuffsteinziegel | `tuff_bricks` | 129 |
-| Graues Buntglas | `gray_stained_glass` | 117 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Gelbe Keramik | `yellow_terracotta` | 1.193 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Polierter Andesit | `polished_andesite` | 43 |
+| Grüner Beton | `green_concrete` | 42 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -112,25 +114,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Renaissance-Palazzo an Piazza del Duomo – Teil 3/9 (Y 73–78)
+### Schritt 5.3 – Palazzo della Misericordia – Teil 3/9 (Y 72–77)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.791
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 1.856
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.131 |
-| Glatter Stein | `smooth_stone` | 226 |
-| Polierter Andesit | `polished_andesite` | 211 |
-| Tuffsteinziegel | `tuff_bricks` | 145 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Gelbe Keramik | `yellow_terracotta` | 1.470 |
+| Glatter Stein | `smooth_stone` | 311 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+| Grüner Beton | `green_concrete` | 21 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -144,25 +147,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Renaissance-Palazzo an Piazza del Duomo – Teil 4/9 (Y 79–84)
+### Schritt 5.4 – Palazzo della Misericordia – Teil 4/9 (Y 78–83)
 
-- **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.769
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.718
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 977 |
-| Polierter Andesit | `polished_andesite` | 460 |
-| Tuffsteinziegel | `tuff_bricks` | 172 |
-| Graues Buntglas | `gray_stained_glass` | 148 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Gelbe Keramik | `yellow_terracotta` | 1.196 |
+| Glatter Stein | `smooth_stone` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 160 |
+| Grüner Beton | `green_concrete` | 120 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -176,24 +179,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Renaissance-Palazzo an Piazza del Duomo – Teil 5/9 (Y 85–90)
+### Schritt 5.5 – Palazzo della Misericordia – Teil 5/9 (Y 84–89)
 
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.873
+- **Y-Bereich:** 84 bis 89
+- **Blöcke:** 1.806
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 981 |
-| Polierter Andesit | `polished_andesite` | 514 |
-| Glatter Stein | `smooth_stone` | 234 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
+| Gelbe Keramik | `yellow_terracotta` | 1.313 |
+| Glatter Stein | `smooth_stone` | 314 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Grüner Beton | `green_concrete` | 72 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -207,24 +211,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Renaissance-Palazzo an Piazza del Duomo – Teil 6/9 (Y 91–96)
+### Schritt 5.6 – Palazzo della Misericordia – Teil 6/9 (Y 90–95)
 
-- **Y-Bereich:** 91 bis 96
-- **Blöcke:** 1.962
+- **Y-Bereich:** 90 bis 95
+- **Blöcke:** 1.838
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.071 |
-| Polierter Andesit | `polished_andesite` | 603 |
-| Glatter Stein | `smooth_stone` | 236 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Gelbe Keramik | `yellow_terracotta` | 1.369 |
+| Glatter Stein | `smooth_stone` | 346 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Grüner Beton | `green_concrete` | 48 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -238,24 +243,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Renaissance-Palazzo an Piazza del Duomo – Teil 7/9 (Y 97–102)
+### Schritt 5.7 – Palazzo della Misericordia – Teil 7/9 (Y 96–101)
 
-- **Y-Bereich:** 97 bis 102
-- **Blöcke:** 2.002
+- **Y-Bereich:** 96 bis 101
+- **Blöcke:** 1.782
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 930 |
-| Polierter Andesit | `polished_andesite` | 547 |
-| Glatter Stein | `smooth_stone` | 329 |
-| Graues Buntglas | `gray_stained_glass` | 196 |
+| Gelbe Keramik | `yellow_terracotta` | 1.313 |
+| Glatter Stein | `smooth_stone` | 290 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Grüner Beton | `green_concrete` | 72 |
+| Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -269,24 +275,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Renaissance-Palazzo an Piazza del Duomo – Teil 8/9 (Y 103–104)
+### Schritt 5.8 – Palazzo della Misericordia – Teil 8/9 (Y 102–104)
 
-- **Y-Bereich:** 103 bis 104
-- **Blöcke:** 1.586
+- **Y-Bereich:** 102 bis 104
+- **Blöcke:** 1.770
 - **Bauteile:** `w114220149`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 938 |
-| Glatter Stein | `smooth_stone` | 338 |
-| Tuffstein | `tuff` | 187 |
-| Polierter Andesit | `polished_andesite` | 123 |
+| Gelbe Keramik | `yellow_terracotta` | 939 |
+| Terrakotta | `terracotta` | 827 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -300,7 +305,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Renaissance-Palazzo an Piazza del Duomo – Teil 9/9 (Y 105–112)
+### Schritt 5.9 – Palazzo della Misericordia – Teil 9/9 (Y 105–112)
 
 - **Y-Bereich:** 105 bis 112
 - **Blöcke:** 1.911
@@ -315,7 +320,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Palazzo des Cinquecento (Sitz der Misericordia seit 1576), 5 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://feelflorence.it/en/node/12233, Angaben geschätzt (Sicherheit 0,4).
 
 **Tipp**
 
@@ -459,7 +464,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.14 – Reihenhaus an Via del Campanile – Teil 2/2 (Y 88–108)
 
 - **Y-Bereich:** 88 bis 108
-- **Blöcke:** 1.587
+- **Blöcke:** 1.591
 - **Bauteile:** `w491889266`
 
 **Teileliste**
@@ -467,10 +472,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 860 |
-| Terrakotta | `terracotta` | 479 |
+| Terrakotta | `terracotta` | 482 |
 | Polierter Andesit | `polished_andesite` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
-| Fichtenholz-Bretter | `spruce_planks` | 46 |
+| Fichtenholz-Bretter | `spruce_planks` | 47 |
 | Ziegelsteine | `bricks` | 23 |
 
 **Beschreibung**
@@ -654,7 +659,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.20 – Palazzo des Cinquecento an Via dei Calzaiuoli – Teil 4/5 (Y 95–103)
 
 - **Y-Bereich:** 95 bis 103
-- **Blöcke:** 1.679
+- **Blöcke:** 1.681
 - **Bauteile:** `w491889275`
 
 **Teileliste**
@@ -662,7 +667,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.145 |
-| Glatter Stein | `smooth_stone` | 348 |
+| Glatter Stein | `smooth_stone` | 350 |
 | Graues Buntglas | `gray_stained_glass` | 100 |
 | Grüner Beton | `green_concrete` | 70 |
 | Polierter Andesit | `polished_andesite` | 16 |
@@ -686,7 +691,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.21 – Palazzo des Cinquecento an Via dei Calzaiuoli – Teil 5/5 (Y 104–111)
 
 - **Y-Bereich:** 104 bis 111
-- **Blöcke:** 1.960
+- **Blöcke:** 1.962
 - **Bauteile:** `w491889275`
 
 **Teileliste**
@@ -695,7 +700,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.501 |
 | Endsteinziegel | `end_stone_bricks` | 225 |
-| Glatter Stein | `smooth_stone` | 144 |
+| Glatter Stein | `smooth_stone` | 146 |
 | Ziegelsteine | `bricks` | 87 |
 | Polierter Andesit | `polished_andesite` | 3 |
 

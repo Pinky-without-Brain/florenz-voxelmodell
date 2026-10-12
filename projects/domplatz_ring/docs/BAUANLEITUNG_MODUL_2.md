@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 98.676 |
+| Blöcke | 98.892 |
 | Bauschritte | 57 |
 | Y-Bereich | 65 bis 118 |
-| X-Ausdehnung | -387 bis -257 (131 Blöcke) |
-| Z-Ausdehnung | 71 bis 204 (134 Blöcke) |
+| X-Ausdehnung | -387 bis -256 (132 Blöcke) |
+| Z-Ausdehnung | 69 bis 204 (136 Blöcke) |
 | Kleinster Schritt | 1.318 Blöcke (Schritt 2.37) |
-| Mittlerer Schritt | 1.731 Blöcke |
+| Mittlerer Schritt | 1.735 Blöcke |
 | Größter Schritt | 2.015 Blöcke (Schritt 2.54) |
 
 ## Gesamt-Stückliste
@@ -22,26 +22,26 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Endsteinziegel | `end_stone_bricks` | 17.296 | 17,5 % |
-| Terrakotta | `terracotta` | 17.145 | 17,4 % |
+| Terrakotta | `terracotta` | 17.268 | 17,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 14.128 | 14,3 % |
 | Polierter Tuffstein | `polished_tuff` | 12.566 | 12,7 % |
 | Tuffstein | `tuff` | 9.781 | 9,9 % |
 | Weißer Beton | `white_concrete` | 8.761 | 8,9 % |
-| Glatter Stein | `smooth_stone` | 4.049 | 4,1 % |
+| Glatter Stein | `smooth_stone` | 4.148 | 4,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.632 | 3,7 % |
-| Graues Buntglas | `gray_stained_glass` | 3.038 | 3,1 % |
+| Graues Buntglas | `gray_stained_glass` | 3.006 | 3,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.823 | 2,9 % |
-| Polierter Andesit | `polished_andesite` | 2.500 | 2,5 % |
+| Polierter Andesit | `polished_andesite` | 2.386 | 2,4 % |
 | Grüner Beton | `green_concrete` | 1.180 | 1,2 % |
 | Ziegelsteine | `bricks` | 802 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 602 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 742 | 0,8 % |
 | Tuffsteinziegel | `tuff_bricks` | 373 | 0,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w166821304` | Loggia del Bigallo | 3.735 | 2.1–2.2 |
+| 1 | `w166821304` | Loggia del Bigallo | 3.951 | 2.1–2.2 |
 | 2 | `w491923432` | Reihenhaus an Via dei Calzaiuoli | 12.639 | 2.3–2.9 |
 | 3 | `w491923433` | Reihenhaus an Piazza degli Adimari | 8.342 | 2.10–2.14 |
 | 4 | `w491923439` | Renaissance-Palazzo an Via dei Tosinghi | 19.157 | 2.15–2.25 |
@@ -55,25 +55,24 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Loggia del Bigallo – Teil 1/2 (Y 65–78)
+### Schritt 2.1 – Loggia del Bigallo – Teil 1/2 (Y 65–79)
 
-- **Y-Bereich:** 65 bis 78
-- **Blöcke:** 1.857
+- **Y-Bereich:** 65 bis 79
+- **Blöcke:** 1.950
 - **Bauteile:** `w166821304`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 611 |
-| Glatter Stein | `smooth_stone` | 590 |
+| Glatter Stein | `smooth_stone` | 760 |
+| Tuffstein | `tuff` | 658 |
 | Polierter Tuffstein | `polished_tuff` | 429 |
-| Polierter Andesit | `polished_andesite` | 189 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
+| Polierter Andesit | `polished_andesite` | 103 |
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1352-1358 (Gotik)), 2 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Bigallo, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -85,28 +84,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 2.2 – Loggia del Bigallo – Teil 2/2 (Y 79–94)
+### Schritt 2.2 – Loggia del Bigallo – Teil 2/2 (Y 80–94)
 
-- **Y-Bereich:** 79 bis 94
-- **Blöcke:** 1.878
+- **Y-Bereich:** 80 bis 94
+- **Blöcke:** 2.001
 - **Bauteile:** `w166821304`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 593 |
-| Terrakotta | `terracotta` | 541 |
-| Tuffstein | `tuff` | 470 |
-| Polierter Andesit | `polished_andesite` | 157 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
+| Terrakotta | `terracotta` | 664 |
+| Glatter Stein | `smooth_stone` | 522 |
+| Tuffstein | `tuff` | 423 |
+| Fichtenholz-Bretter | `spruce_planks` | 140 |
+| Polierter Andesit | `polished_andesite` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 82 |
 | Ziegelsteine | `bricks` | 41 |
 
 **Beschreibung**
 
-Loggia (14.–15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Loggia (1352-1358 (Gotik)), 2 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Loggia_del_Bigallo, Angaben belegt (Sicherheit 0,85).
 
 **Tipp**
 
@@ -118,7 +118,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.3 – Reihenhaus an Via dei Calzaiuoli – Teil 1/7 (Y 66–67)
 

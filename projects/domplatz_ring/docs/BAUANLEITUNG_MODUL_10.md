@@ -8,59 +8,58 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.078 |
-| Bauschritte | 31 |
+| Blöcke | 49.785 |
+| Bauschritte | 30 |
 | Y-Bereich | 66 bis 106 |
-| X-Ausdehnung | -136 bis -7 (130 Blöcke) |
-| Z-Ausdehnung | 209 bis 290 (82 Blöcke) |
-| Kleinster Schritt | 1.302 Blöcke (Schritt 10.5) |
-| Mittlerer Schritt | 1.615 Blöcke |
-| Größter Schritt | 2.028 Blöcke (Schritt 10.15) |
+| X-Ausdehnung | -136 bis -8 (129 Blöcke) |
+| Z-Ausdehnung | 209 bis 289 (81 Blöcke) |
+| Kleinster Schritt | 1.358 Blöcke (Schritt 10.21) |
+| Mittlerer Schritt | 1.660 Blöcke |
+| Größter Schritt | 2.028 Blöcke (Schritt 10.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 8.791 | 17,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.250 | 16,5 % |
-| Polierter Tuffstein | `polished_tuff` | 6.851 | 13,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 13.467 | 27,1 % |
+| Terrakotta | `terracotta` | 8.745 | 17,6 % |
+| Polierter Tuffstein | `polished_tuff` | 6.851 | 13,8 % |
 | Endsteinziegel | `end_stone_bricks` | 5.138 | 10,3 % |
-| Orange Keramik | `orange_terracotta` | 4.665 | 9,3 % |
-| Tuffstein | `tuff` | 4.619 | 9,2 % |
-| Weißer Beton | `white_concrete` | 4.420 | 8,8 % |
+| Weißer Beton | `white_concrete` | 4.672 | 9,4 % |
+| Orange Keramik | `orange_terracotta` | 4.665 | 9,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.156 | 4,3 % |
-| Polierter Andesit | `polished_andesite` | 1.370 | 2,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.113 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 919 | 1,8 % |
+| Graues Buntglas | `gray_stained_glass` | 1.218 | 2,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 829 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 768 | 1,5 % |
 | Ziegelsteine | `bricks` | 513 | 1,0 % |
+| Polierter Andesit | `polished_andesite` | 321 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 242 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 136 | 0,3 % |
-| Grüner Beton | `green_concrete` | 66 | 0,1 % |
+| Grüner Beton | `green_concrete` | 196 | 0,4 % |
+| Tuffstein | `tuff` | 4 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307544531` | Studio Fiorentino | 9.528 | 10.1–10.6 |
-| 2 | `w542315392` | Reihenhaus an Via delle Oche | 4.677 | 10.7–10.9 |
-| 3 | `w542315393` | Reihenhaus an Via delle Oche | 4.214 | 10.10–10.12 |
-| 4 | `w542315398` | Reihenhaus an Piazza degli Alberighi | 3.683 | 10.13–10.14 |
-| 5 | `w542315401` | Reihenhaus an Via delle Oche | 3.965 | 10.15–10.16 |
-| 6 | `w542315406` | Reihenhaus an Via Sant'Elisabetta | 3.581 | 10.17–10.18 |
-| 7 | `w542315409` | Reihenhaus an Via delle Oche | 4.744 | 10.19–10.21 |
-| 8 | `w542315416` | Reihenhaus an Via Sant'Elisabetta | 4.115 | 10.22–10.24 |
-| 9 | `w542315417` | Reihenhaus an Via delle Oche | 1.650 | 10.25 |
-| 10 | `w542315419` | Reihenhaus an Piazza degli Alberighi | 3.614 | 10.26–10.27 |
-| 11 | `w542315423` | Reihenhaus an Via delle Oche | 1.955 | 10.28 |
-| 12 | `w542315432` | Reihenhaus an Piazzetta Cardinale Giovanni Benelli | 4.352 | 10.29–10.31 |
+| 1 | `w307544531` | Studio Fiorentino | 9.235 | 10.1–10.5 |
+| 2 | `w542315392` | Reihenhaus an Via delle Oche | 4.677 | 10.6–10.8 |
+| 3 | `w542315393` | Reihenhaus an Via delle Oche | 4.214 | 10.9–10.11 |
+| 4 | `w542315398` | Reihenhaus an Piazza degli Alberighi | 3.683 | 10.12–10.13 |
+| 5 | `w542315401` | Reihenhaus an Via delle Oche | 3.965 | 10.14–10.15 |
+| 6 | `w542315406` | Reihenhaus an Via Sant'Elisabetta | 3.581 | 10.16–10.17 |
+| 7 | `w542315409` | Reihenhaus an Via delle Oche | 4.744 | 10.18–10.20 |
+| 8 | `w542315416` | Reihenhaus an Via Sant'Elisabetta | 4.115 | 10.21–10.23 |
+| 9 | `w542315417` | Reihenhaus an Via delle Oche | 1.650 | 10.24 |
+| 10 | `w542315419` | Reihenhaus an Piazza degli Alberighi | 3.614 | 10.25–10.26 |
+| 11 | `w542315423` | Reihenhaus an Via delle Oche | 1.955 | 10.27 |
+| 12 | `w542315432` | Reihenhaus an Piazzetta Cardinale Giovanni Benelli | 4.352 | 10.28–10.30 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Studio Fiorentino – Teil 1/6 (Y 68–70)
+### Schritt 10.1 – Studio Fiorentino – Teil 1/5 (Y 68–71)
 
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.639
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 1.790
 - **Bauteile:** `w307544531`
 
 **Teileliste**
@@ -68,13 +67,13 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.229 |
-| Tuffstein | `tuff` | 316 |
-| Polierter Andesit | `polished_andesite` | 52 |
-| Tuffsteinziegel | `tuff_bricks` | 42 |
+| Gelbe Keramik | `yellow_terracotta` | 414 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
+| Glatter Stein | `smooth_stone` | 45 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -88,24 +87,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Studio Fiorentino – Teil 2/6 (Y 71–78)
+### Schritt 10.2 – Studio Fiorentino – Teil 2/5 (Y 72–80)
 
-- **Y-Bereich:** 71 bis 78
-- **Blöcke:** 1.597
+- **Y-Bereich:** 72 bis 80
+- **Blöcke:** 1.810
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.199 |
-| Polierter Andesit | `polished_andesite` | 217 |
-| Tuffsteinziegel | `tuff_bricks` | 91 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
+| Gelbe Keramik | `yellow_terracotta` | 1.472 |
+| Glatter Stein | `smooth_stone` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 163 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -119,25 +117,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Studio Fiorentino – Teil 3/6 (Y 79–85)
+### Schritt 10.3 – Studio Fiorentino – Teil 3/5 (Y 81–89)
 
-- **Y-Bereich:** 79 bis 85
-- **Blöcke:** 1.499
+- **Y-Bereich:** 81 bis 89
+- **Blöcke:** 1.893
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.076 |
-| Polierter Andesit | `polished_andesite` | 255 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Glatter Stein | `smooth_stone` | 81 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Gelbe Keramik | `yellow_terracotta` | 1.579 |
+| Weißer Beton | `white_concrete` | 126 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 65 |
+| Glatter Stein | `smooth_stone` | 53 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -151,24 +149,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Studio Fiorentino – Teil 4/6 (Y 86–93)
+### Schritt 10.4 – Studio Fiorentino – Teil 4/5 (Y 90–98)
 
-- **Y-Bereich:** 86 bis 93
-- **Blöcke:** 1.716
+- **Y-Bereich:** 90 bis 98
+- **Blöcke:** 2.013
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.240 |
-| Polierter Andesit | `polished_andesite` | 302 |
-| Glatter Stein | `smooth_stone` | 90 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
+| Gelbe Keramik | `yellow_terracotta` | 1.752 |
+| Weißer Beton | `white_concrete` | 126 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Grüner Beton | `green_concrete` | 65 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -182,53 +180,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Studio Fiorentino – Teil 5/6 (Y 94–98)
-
-- **Y-Bereich:** 94 bis 98
-- **Blöcke:** 1.302
-- **Bauteile:** `w307544531`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 784 |
-| Glatter Stein | `smooth_stone` | 253 |
-| Polierter Andesit | `polished_andesite` | 223 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.6 – Studio Fiorentino – Teil 6/6 (Y 99–106)
+### Schritt 10.5 – Studio Fiorentino – Teil 5/5 (Y 99–106)
 
 - **Y-Bereich:** 99 bis 106
-- **Blöcke:** 1.775
+- **Blöcke:** 1.729
 - **Bauteile:** `w307544531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.664 |
+| Terrakotta | `terracotta` | 1.618 |
 | Ziegelsteine | `bricks` | 111 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Ottocento (EG 13. Jh., Aufbau jünger, Erweiterung 1811), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino, Angaben geschätzt (Sicherheit 0,45).
 
 **Tipp**
 
@@ -242,7 +209,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 66–75)
+### Schritt 10.6 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 66–75)
 
 - **Y-Bereich:** 66 bis 75
 - **Blöcke:** 1.504
@@ -275,7 +242,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Reihenhaus an Via delle Oche – Teil 2/3 (Y 76–89)
+### Schritt 10.7 – Reihenhaus an Via delle Oche – Teil 2/3 (Y 76–89)
 
 - **Y-Bereich:** 76 bis 89
 - **Blöcke:** 1.640
@@ -305,7 +272,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Reihenhaus an Via delle Oche – Teil 3/3 (Y 90–103)
+### Schritt 10.8 – Reihenhaus an Via delle Oche – Teil 3/3 (Y 90–103)
 
 - **Y-Bereich:** 90 bis 103
 - **Blöcke:** 1.533
@@ -337,7 +304,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 67–76)
+### Schritt 10.9 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 67–76)
 
 - **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.367
@@ -368,7 +335,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Reihenhaus an Via delle Oche – Teil 2/3 (Y 77–91)
+### Schritt 10.10 – Reihenhaus an Via delle Oche – Teil 2/3 (Y 77–91)
 
 - **Y-Bereich:** 77 bis 91
 - **Blöcke:** 1.429
@@ -398,7 +365,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Reihenhaus an Via delle Oche – Teil 3/3 (Y 92–102)
+### Schritt 10.11 – Reihenhaus an Via delle Oche – Teil 3/3 (Y 92–102)
 
 - **Y-Bereich:** 92 bis 102
 - **Blöcke:** 1.418
@@ -431,7 +398,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.13 – Reihenhaus an Piazza degli Alberighi – Teil 1/2 (Y 68–84)
+### Schritt 10.12 – Reihenhaus an Piazza degli Alberighi – Teil 1/2 (Y 68–84)
 
 - **Y-Bereich:** 68 bis 84
 - **Blöcke:** 1.827
@@ -460,7 +427,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.14 – Reihenhaus an Piazza degli Alberighi – Teil 2/2 (Y 85–103)
+### Schritt 10.13 – Reihenhaus an Piazza degli Alberighi – Teil 2/2 (Y 85–103)
 
 - **Y-Bereich:** 85 bis 103
 - **Blöcke:** 1.856
@@ -491,7 +458,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.15 – Reihenhaus an Via delle Oche – Teil 1/2 (Y 67–83)
+### Schritt 10.14 – Reihenhaus an Via delle Oche – Teil 1/2 (Y 67–83)
 
 - **Y-Bereich:** 67 bis 83
 - **Blöcke:** 2.028
@@ -522,7 +489,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.16 – Reihenhaus an Via delle Oche – Teil 2/2 (Y 84–102)
+### Schritt 10.15 – Reihenhaus an Via delle Oche – Teil 2/2 (Y 84–102)
 
 - **Y-Bereich:** 84 bis 102
 - **Blöcke:** 1.937
@@ -554,7 +521,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.17 – Reihenhaus an Via Sant'Elisabetta – Teil 1/2 (Y 67–84)
+### Schritt 10.16 – Reihenhaus an Via Sant'Elisabetta – Teil 1/2 (Y 67–84)
 
 - **Y-Bereich:** 67 bis 84
 - **Blöcke:** 1.827
@@ -586,7 +553,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.18 – Reihenhaus an Via Sant'Elisabetta – Teil 2/2 (Y 85–102)
+### Schritt 10.17 – Reihenhaus an Via Sant'Elisabetta – Teil 2/2 (Y 85–102)
 
 - **Y-Bereich:** 85 bis 102
 - **Blöcke:** 1.754
@@ -618,7 +585,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.19 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 67–75)
+### Schritt 10.18 – Reihenhaus an Via delle Oche – Teil 1/3 (Y 67–75)
 
 - **Y-Bereich:** 67 bis 75
 - **Blöcke:** 1.535
@@ -650,7 +617,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.20 – Reihenhaus an Via delle Oche – Teil 2/3 (Y 76–92)
+### Schritt 10.19 – Reihenhaus an Via delle Oche – Teil 2/3 (Y 76–92)
 
 - **Y-Bereich:** 76 bis 92
 - **Blöcke:** 1.613
@@ -681,7 +648,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.21 – Reihenhaus an Via delle Oche – Teil 3/3 (Y 93–104)
+### Schritt 10.20 – Reihenhaus an Via delle Oche – Teil 3/3 (Y 93–104)
 
 - **Y-Bereich:** 93 bis 104
 - **Blöcke:** 1.596
@@ -714,7 +681,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.22 – Reihenhaus an Via Sant'Elisabetta – Teil 1/3 (Y 67–76)
+### Schritt 10.21 – Reihenhaus an Via Sant'Elisabetta – Teil 1/3 (Y 67–76)
 
 - **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.358
@@ -745,7 +712,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.23 – Reihenhaus an Via Sant'Elisabetta – Teil 2/3 (Y 77–91)
+### Schritt 10.22 – Reihenhaus an Via Sant'Elisabetta – Teil 2/3 (Y 77–91)
 
 - **Y-Bereich:** 77 bis 91
 - **Blöcke:** 1.390
@@ -775,7 +742,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.24 – Reihenhaus an Via Sant'Elisabetta – Teil 3/3 (Y 92–103)
+### Schritt 10.23 – Reihenhaus an Via Sant'Elisabetta – Teil 3/3 (Y 92–103)
 
 - **Y-Bereich:** 92 bis 103
 - **Blöcke:** 1.367
@@ -807,7 +774,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.25 – Reihenhaus an Via delle Oche
+### Schritt 10.24 – Reihenhaus an Via delle Oche
 
 - **Y-Bereich:** 67 bis 84
 - **Blöcke:** 1.650
@@ -841,7 +808,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.26 – Reihenhaus an Piazza degli Alberighi – Teil 1/2 (Y 67–83)
+### Schritt 10.25 – Reihenhaus an Piazza degli Alberighi – Teil 1/2 (Y 67–83)
 
 - **Y-Bereich:** 67 bis 83
 - **Blöcke:** 1.775
@@ -870,7 +837,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.27 – Reihenhaus an Piazza degli Alberighi – Teil 2/2 (Y 84–103)
+### Schritt 10.26 – Reihenhaus an Piazza degli Alberighi – Teil 2/2 (Y 84–103)
 
 - **Y-Bereich:** 84 bis 103
 - **Blöcke:** 1.839
@@ -901,7 +868,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.28 – Reihenhaus an Via delle Oche
+### Schritt 10.27 – Reihenhaus an Via delle Oche
 
 - **Y-Bereich:** 67 bis 102
 - **Blöcke:** 1.955
@@ -936,7 +903,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.29 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli – Teil 1/3 (Y 68–78)
+### Schritt 10.28 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli – Teil 1/3 (Y 68–78)
 
 - **Y-Bereich:** 68 bis 78
 - **Blöcke:** 1.423
@@ -968,7 +935,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.30 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli – Teil 2/3 (Y 79–92)
+### Schritt 10.29 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli – Teil 2/3 (Y 79–92)
 
 - **Y-Bereich:** 79 bis 92
 - **Blöcke:** 1.440
@@ -998,7 +965,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.31 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli – Teil 3/3 (Y 93–105)
+### Schritt 10.30 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli – Teil 3/3 (Y 93–105)
 
 - **Y-Bereich:** 93 bis 105
 - **Blöcke:** 1.489

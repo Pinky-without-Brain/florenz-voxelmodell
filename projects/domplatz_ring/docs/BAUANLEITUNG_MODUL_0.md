@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 127.325 |
+| Blöcke | 127.260 |
 | Bauschritte | 76 |
 | Y-Bereich | 61 bis 110 |
 | X-Ausdehnung | -522 bis -336 (187 Blöcke) |
 | Z-Ausdehnung | -305 bis -74 (232 Blöcke) |
 | Kleinster Schritt | 948 Blöcke (Schritt 0.47) |
-| Mittlerer Schritt | 1.675 Blöcke |
+| Mittlerer Schritt | 1.674 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 0.29) |
 
 ## Gesamt-Stückliste
@@ -22,29 +22,29 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Rosa Keramik | `pink_terracotta` | 17.474 | 13,7 % |
-| Terrakotta | `terracotta` | 17.397 | 13,7 % |
+| Terrakotta | `terracotta` | 17.385 | 13,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 16.507 | 13,0 % |
 | Polierter Tuffstein | `polished_tuff` | 15.955 | 12,5 % |
 | Orange Keramik | `orange_terracotta` | 14.648 | 11,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 14.445 | 11,3 % |
-| Tuffstein | `tuff` | 12.430 | 9,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 14.445 | 11,4 % |
+| Tuffstein | `tuff` | 12.303 | 9,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 6.360 | 5,0 % |
 | Weißer Beton | `white_concrete` | 2.890 | 2,3 % |
 | Endsteinziegel | `end_stone_bricks` | 2.424 | 1,9 % |
-| Graues Buntglas | `gray_stained_glass` | 2.156 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 1.642 | 1,3 % |
+| Graues Buntglas | `gray_stained_glass` | 2.263 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 1.584 | 1,2 % |
 | Ziegelsteine | `bricks` | 1.076 | 0,8 % |
-| Polierter Andesit | `polished_andesite` | 766 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 658 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 830 | 0,7 % |
+| Fichtenholz-Bretter | `spruce_planks` | 645 | 0,5 % |
 | Grüner Beton | `green_concrete` | 277 | 0,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 220 | 0,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 194 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306381526` | Torre dei Marignolli | 6.438 | 0.1–0.4 |
-| 2 | `w307153311` | Torre in via de' Cerretani | 3.896 | 0.5–0.6 |
+| 1 | `w306381526` | Torre dei Marignolli | 6.398 | 0.1–0.4 |
+| 2 | `w307153311` | Torre in via de' Cerretani | 3.870 | 0.5–0.6 |
 | 3 | `w495259305` | Reihenhaus an Borgo San Lorenzo | 3.332 | 0.7–0.8 |
 | 4 | `w495259306` | Haus w495259306 | 3.072 | 0.9–0.10 |
 | 5 | `w495259326` | Reihenhaus an Borgo San Lorenzo | 3.192 | 0.11–0.12 |
@@ -55,7 +55,7 @@
 | 10 | `w495259351` | Haus w495259351 | 3.975 | 0.25–0.26 |
 | 11 | `w495261002` | Reihenhaus an Via dei Cerretani | 2.351 | 0.27–0.28 |
 | 12 | `w495261003` | Reihenhaus an Borgo San Lorenzo | 6.212 | 0.29–0.31 |
-| 13 | `w495261005` | Reihenhaus an Via dei Cerretani | 4.131 | 0.32–0.34 |
+| 13 | `w495261005` | Reihenhaus an Via dei Cerretani | 4.132 | 0.32–0.34 |
 | 14 | `w495261007` | Haus w495261007 | 11.590 | 0.35–0.41 |
 | 15 | `w495261008` | Haus w495261008 | 8.407 | 0.42–0.46 |
 | 16 | `w495261009` | Haus w495261009 | 14.360 | 0.47–0.55 |
@@ -72,7 +72,7 @@
 ### Schritt 0.1 – Torre dei Marignolli – Teil 1/4 (Y 63–69)
 
 - **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.657
+- **Blöcke:** 1.635
 - **Bauteile:** `w306381526`
 
 **Teileliste**
@@ -80,14 +80,14 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 773 |
-| Tuffstein | `tuff` | 729 |
-| Polierter Andesit | `polished_andesite` | 92 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
-| Tuffsteinziegel | `tuff_bricks` | 31 |
+| Tuffstein | `tuff` | 640 |
+| Graues Buntglas | `gray_stained_glass` | 119 |
+| Polierter Andesit | `polished_andesite` | 82 |
+| Tuffsteinziegel | `tuff_bricks` | 21 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (14. Jh., 1933-37 restauriert), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Marignolli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -99,26 +99,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.2 – Torre dei Marignolli – Teil 2/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.559
+- **Blöcke:** 1.541
 - **Bauteile:** `w306381526`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.291 |
-| Polierter Andesit | `polished_andesite` | 146 |
-| Tuffsteinziegel | `tuff_bricks` | 65 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
+| Tuffstein | `tuff` | 1.253 |
+| Polierter Andesit | `polished_andesite` | 162 |
+| Graues Buntglas | `gray_stained_glass` | 77 |
+| Tuffsteinziegel | `tuff_bricks` | 49 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (14. Jh., 1933-37 restauriert), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Marignolli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -130,7 +130,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.3 – Torre dei Marignolli – Teil 3/4 (Y 80–89)
 
@@ -149,7 +149,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (14. Jh., 1933-37 restauriert), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Marignolli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -161,7 +161,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.4 – Torre dei Marignolli – Teil 4/4 (Y 90–101)
 
@@ -182,7 +182,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (14. Jh., 1933-37 restauriert), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Torre_dei_Marignolli, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -194,7 +194,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.5 – Torre in via de' Cerretani – Teil 1/2 (Y 64–80)
 
@@ -209,12 +209,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Tuffstein | `tuff` | 1.492 |
 | Polierter Tuffstein | `polished_tuff` | 398 |
 | Tuffsteinziegel | `tuff_bricks` | 22 |
-| Glatter Stein | `smooth_stone` | 21 |
+| Polierter Andesit | `polished_andesite` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter (14. Jh.?)), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
 
 **Tipp**
 
@@ -231,7 +231,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.6 – Torre in via de' Cerretani – Teil 2/2 (Y 81–100)
 
 - **Y-Bereich:** 81 bis 100
-- **Blöcke:** 1.953
+- **Blöcke:** 1.927
 - **Bauteile:** `w307153311`
 
 **Teileliste**
@@ -239,16 +239,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.277 |
-| Terrakotta | `terracotta` | 529 |
+| Terrakotta | `terracotta` | 516 |
 | Ziegelsteine | `bricks` | 47 |
-| Glatter Stein | `smooth_stone` | 37 |
-| Fichtenholz-Bretter | `spruce_planks` | 30 |
+| Polierter Andesit | `polished_andesite` | 37 |
+| Fichtenholz-Bretter | `spruce_planks` | 17 |
 | Tuffsteinziegel | `tuff_bricks` | 17 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 
 **Beschreibung**
 
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Wohnturm (Mittelalter (14. Jh.?)), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
 
 **Tipp**
 
@@ -1121,14 +1121,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.34 – Reihenhaus an Via dei Cerretani – Teil 3/3 (Y 88–99)
 
 - **Y-Bereich:** 88 bis 99
-- **Blöcke:** 1.357
+- **Blöcke:** 1.358
 - **Bauteile:** `w495261005`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 698 |
+| Terrakotta | `terracotta` | 699 |
 | Rosa Keramik | `pink_terracotta` | 486 |
 | Fichtenholz-Bretter | `spruce_planks` | 50 |
 | Weißer Beton | `white_concrete` | 48 |
