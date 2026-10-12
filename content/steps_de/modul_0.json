@@ -1,0 +1,64 @@
+{
+  "module": 0,
+  "title": "Fundament & Böden",
+  "subtitle": "Bautüte 0: Grube, Marmorböden und der Grundriss des ganzen Domplatzes",
+  "icon": "🏛️",
+  "parts": {
+    "krypta_grube": {
+      "title": "Krypta-Grube",
+      "description": "Du hebst die Grube der Krypta aus: ein Bodenfeld aus Bruchstein auf Y 56 und eine zwei Blöcke dicke Ringmauer bis Y 63. Sie liegt unter den beiden westlichen Jochen des Langhauses (etwa X −206 bis −134, Z −29 bis 29). Die Mauer besteht aus Bruchstein, die senkrechten Ecken sind aus Steinziegeln.",
+      "tip": "Baue erst den ganzen Boden, dann die Mauer Lage für Lage. Die Ecksäulen aus Steinziegeln helfen dir, die Ecken nicht zu verwechseln.",
+      "caution": "Das Innere der Grube bleibt leer! Dort entsteht später die Krypta (Modul 9). Setze nur den Boden und den Ring.",
+      "fact": "Unter dem Dom liegen die Reste der Vorgängerkirche Santa Reparata. Sie wurden bei Grabungen zwischen 1965 und 1974 freigelegt. Dabei fand man auch das Grab von Filippo Brunelleschi."
+    },
+    "boden_langhaus": {
+      "title": "Boden des Langhauses",
+      "description": "Du legst eine Lage Y 64 über das ganze Langhaus von X −216 bis −55 und Z −44 bis 44. Im Innenraum liegt ein Kosmatenmuster aus weißem Calcit, grünem Prismarin und rotem Granit. Die Randzonen unter den Wänden sind schlichte Steinziegel. Über der Krypta liegt die Lage einfach auf der Grubenmauer auf.",
+      "tip": "Arbeite in Bahnen von West nach Ost. Das Muster wiederholt sich alle 8 Blöcke, so findest du schnell wieder den Anschluss.",
+      "caution": "Die Wandzonen aus Steinziegeln sind kein Fehler. Dort stehen später die Mauern, deshalb gehört hier kein Muster hin.",
+      "fact": "Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von Baccio d'Agnolo begonnen. Seine Muster aus weißem, grünem und rotem Marmor zeigen die Farben der toskanischen Steinbrüche."
+    },
+    "boden_vierung": {
+      "title": "Boden der Vierung",
+      "description": "Du füllst den Ostkomplex auf Y 64: die Vierung mit ihren Ecken und den Ansätzen der Sakristeien (|X| ≤ 54, |Z| ≤ 54, |X| + |Z| ≤ 98). Um den Goldblock im Nullpunkt (0 | 0) liegt eine Rosette. Darum laufen Achteckbänder, drei Blöcke breit, aus Quarz, dunklem Prismarin und rotem Granit.",
+      "tip": "Beginne mit dem Goldblock in der Mitte und arbeite Ring für Ring nach außen. Jeder Ring ist ein Achteck, nicht ein Quadrat.",
+      "caution": "Das Muster ist an allen vier Achsen und Diagonalen gespiegelt. Prüfe nach jedem Ring, ob alle acht Seiten gleich aussehen.",
+      "fact": "Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister Arnolfo di Cambio. Über der Vierung wölbte später Brunelleschi seine Kuppel."
+    },
+    "boden_tribune_nord": {
+      "title": "Boden der Nordtribune",
+      "description": "Du legst die Nordtribune auf Y 64: ein Streifen und ein halbes Achteck, das nach Norden bis Z −96 reicht. Die Teile, die schon zum Ostkomplex gehören, lässt du aus. Aus der Tribunenmitte bei (0 | −59) laufen Strahlen aus weißem Quarz und dunklem Prismarin, begrenzt von einem Rand aus rotem Granit.",
+      "tip": "Zähle die Strahlen: Es sind 16 Sektoren, abwechselnd hell und dunkel. Zeichne dir die Mitte als Kreuz auf.",
+      "caution": "Hier schließt der Boden an die Vierung an. Lege keinen Block doppelt, die Grenze liegt bei Z −55.",
+      "fact": "Die Kuppel von Santa Maria del Fiore wurde am 25. März 1436 von Papst Eugen IV. geweiht."
+    },
+    "boden_tribune_ost": {
+      "title": "Boden der Osttribune",
+      "description": "Du legst die Osttribune auf Y 64: vom Ostkomplex bei X 55 bis zum Scheitel bei X 96, in einer Breite von Z −37 bis 37. Aus der Mitte bei (59 | 0) laufen Strahlen aus Quarz und dunklem Prismarin. Ein Randband aus rotem Granit rahmt die Fläche.",
+      "tip": "Der Strahlenstern hat seine Mitte im Achteckmittelpunkt, nicht in der Mitte der Fläche. Markiere zuerst den Mittelpunkt.",
+      "caution": "Die Tribune endet in einem halben Achteck mit schrägen Ecken. Baue diese Ecken genau nach dem Grundriss, sonst passen später die Kapellen nicht.",
+      "fact": "Brunelleschis Kuppel wurde ohne durchgehendes Lehrgerüst aus Holz gewölbt. Das war damals eine Sensation."
+    },
+    "boden_tribune_sued": {
+      "title": "Boden der Südtribune",
+      "description": "Du legst die Südtribune auf Y 64: Sie spiegelt die Nordtribune und reicht bis Z 96. Der Boden schließt bei Z 55 an die Vierung an. Das Strahlenmuster aus Quarz und dunklem Prismarin hat seine Mitte bei (0 | 59). Der Rand besteht aus rotem Granit.",
+      "tip": "Schau dir die Nordtribune an. Die Südseite sieht fast genauso aus, nur umgedreht.",
+      "caution": "Der Campanile steht weit im Westen, nicht neben dieser Tribune. Lass hier nichts Überflüssiges stehen.",
+      "fact": "Der Name „Santa Maria del Fiore“ bedeutet „Heilige Maria von der Blume“. Die Blume erinnert an die Lilie, das Wappen von Florenz."
+    },
+    "boden_campanile": {
+      "title": "Boden des Campanile",
+      "description": "Du legst den Boden des Glockenturms: ein Quadrat von 29 mal 29 Blöcken, X −214 bis −186 und Z 51 bis 79. Er ist wie ein Schachbrett gemustert, mit Feldern aus Quarz und dunklem Prismarin. Jedes Feld ist 3 mal 3 Blöcke groß.",
+      "tip": "Beginne an einer Ecke mit einem hellen Feld und wechsle alle 3 Blöcke die Farbe, sowohl in Reihen als auch in Spalten.",
+      "caution": "Die Seite ist 29 Blöcke lang, das lässt sich nicht durch 3 teilen. Die Randfelder sind deshalb etwas schmaler.",
+      "fact": "Giotto begann 1334 den Bau des Campanile und starb 1337. Seine Nachfolger Andrea Pisano und Francesco Talenti vollendeten den Turm."
+    },
+    "boden_baptisterium": {
+      "title": "Boden des Baptisteriums",
+      "description": "Du legst den Boden des Taufhauses: ein Achteck mit Mitte bei (−307 | 0) und der kleinen Apsis, der Scarsella, im Westen bis X −347. Ein Kreisband teilt die Fläche, dazu kommen zwölf Sektoren abwechselnd aus Quarz und dunklem Prismarin. Ein goldener Block liegt in der Mitte.",
+      "tip": "Die zwölf Sektoren erinnern an den Tierkreis. Zähle sie, bevor du das Kreisband legst.",
+      "caution": "Die Scarsella ist ein Rechteck und gehört nicht zum Achteck. Setze an der Nahtstelle keinen Block doppelt.",
+      "fact": "Im Boden des Baptisteriums San Giovanni ist ein Tierkreis aus Marmor eingelegt, den man dort bis heute sehen kann."
+    }
+  }
+}
