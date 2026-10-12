@@ -245,5 +245,159 @@ window.BLOCK_TYPES = {
     category: "Buntglasfenster",
     icon: "🪟",
     description: "Feuriges Orangerot für die Renaissance-Mosaike von Paolo Uccello."
+  },
+  quartz_bricks: {
+    id: "quartz_bricks",
+    name: "Quarzziegel",
+    color: "#E9E4DA",
+    topColor: "#ECE7DE",
+    sideColor: "#D2CDC4",
+    edgeColor: "#A8A49D",
+    category: "Toskanischer Marmor (Weiß)",
+    icon: "⬜",
+    description: "Weiße Marmorquader im Verband für Wände und Gesimse."
+  },
+  quartz_pillar: {
+    id: "quartz_pillar",
+    name: "Quarzsäule",
+    color: "#EBE6DF",
+    topColor: "#EDE9E3",
+    sideColor: "#D4CFC9",
+    edgeColor: "#A9A6A1",
+    category: "Toskanischer Marmor (Weiß)",
+    icon: "🏛️",
+    description: "Marmorsäule mit Längsrillen für Pfeiler, Dienste und Rippen."
+  },
+  polished_andesite: {
+    id: "polished_andesite",
+    name: "Polierter Andesit",
+    color: "#888A89",
+    topColor: "#969897",
+    sideColor: "#7A7C7B",
+    edgeColor: "#626363",
+    category: "Stein & Fundament",
+    icon: "🔘",
+    description: "Grauer Pietra forte für Sockel und tragendes Mauerwerk."
+  },
+  cut_copper: {
+    id: "cut_copper",
+    name: "Geschnittener Kupferblock",
+    color: "#C06F53",
+    topColor: "#C88068",
+    sideColor: "#AD644B",
+    edgeColor: "#8A503C",
+    category: "Edelsteine & Metalle",
+    icon: "🟧",
+    description: "Kupfer- und Bronzeteile für Beschläge und Laternen."
+  },
+  white_stained_glass: {
+    id: "white_stained_glass",
+    name: "Weißes Buntglas",
+    color: "#F0F0F0",
+    topColor: "#F2F2F2",
+    sideColor: "#D8D8D8",
+    edgeColor: "#ADADAD",
+    category: "Buntglasfenster",
+    icon: "🪟",
+    description: "Klares, helles Glas für Fenster und Laternen."
+  },
+  white_terracotta: {
+    id: "white_terracotta",
+    name: "Weiße Keramik",
+    color: "#D1B2A1",
+    topColor: "#D7BBAC",
+    sideColor: "#BCA091",
+    edgeColor: "#968074",
+    category: "Fresken & Farben",
+    icon: "⬜",
+    description: "Freskenfarbe Weiß für die Kuppelinnenseite."
+  },
+  light_blue_terracotta: {
+    id: "light_blue_terracotta",
+    name: "Hellblaue Keramik",
+    color: "#716D8A",
+    topColor: "#827F98",
+    sideColor: "#66627C",
+    edgeColor: "#514E63",
+    category: "Fresken & Farben",
+    icon: "🟦",
+    description: "Freskenfarbe Hellblau für Himmel und Gewänder."
+  },
+  blue_terracotta: {
+    id: "blue_terracotta",
+    name: "Blaue Keramik",
+    color: "#4A3B5B",
+    topColor: "#60536F",
+    sideColor: "#433552",
+    edgeColor: "#352A42",
+    category: "Fresken & Farben",
+    icon: "🟦",
+    description: "Freskenfarbe Blau für Himmel und Uhrenzifferblatt."
+  },
+  red_terracotta: {
+    id: "red_terracotta",
+    name: "Rote Keramik",
+    color: "#8F3D2E",
+    topColor: "#9C5447",
+    sideColor: "#813729",
+    edgeColor: "#672C21",
+    category: "Fresken & Farben",
+    icon: "🟥",
+    description: "Freskenfarbe Rot für Gewänder und Flammen."
+  },
+  yellow_terracotta: {
+    id: "yellow_terracotta",
+    name: "Gelbe Keramik",
+    color: "#BA8524",
+    topColor: "#C2943E",
+    sideColor: "#A77820",
+    edgeColor: "#86601A",
+    category: "Fresken & Farben",
+    icon: "🟨",
+    description: "Freskenfarbe Gelb für Strahlen und Gold."
+  },
+  orange_terracotta: {
+    id: "orange_terracotta",
+    name: "Orange Keramik",
+    color: "#A15325",
+    topColor: "#AC683F",
+    sideColor: "#914B21",
+    edgeColor: "#743C1B",
+    category: "Fresken & Farben",
+    icon: "🟧",
+    description: "Freskenfarbe Orange für Gewänder und Licht."
+  },
+  green_terracotta: {
+    id: "green_terracotta",
+    name: "Grüne Keramik",
+    color: "#4C532A",
+    topColor: "#616844",
+    sideColor: "#444B26",
+    edgeColor: "#373C1E",
+    category: "Fresken & Farben",
+    icon: "🟩",
+    description: "Freskenfarbe Grün für Pflanzen und Gewänder."
+  },
+  brown_terracotta: {
+    id: "brown_terracotta",
+    name: "Braune Keramik",
+    color: "#4D3323",
+    topColor: "#624B3D",
+    sideColor: "#452E20",
+    edgeColor: "#372519",
+    category: "Fresken & Farben",
+    icon: "🟫",
+    description: "Freskenfarbe Braun für Erde und Holz."
+  },
+  black_concrete: {
+    id: "black_concrete",
+    name: "Schwarzer Beton",
+    color: "#080A0F",
+    topColor: "#26272C",
+    sideColor: "#07090E",
+    edgeColor: "#06070B",
+    category: "Fresken & Farben",
+    icon: "⬛",
+    description: "Tiefes Schwarz für Konturen und Zifferblatt der Uccello-Uhr."
   }
 };

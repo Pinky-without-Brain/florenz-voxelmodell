@@ -105,7 +105,7 @@ window.MODULE_DATA_V2[N] = { module, title, subtitle, icon, palette: ['stone_bri
 |---|---|
 | R1 | Konflikte werfen im Grid. Der Build fängt sie ab und meldet sie als Fehler. |
 | R2 | Jeder Schritt ≤ 2.500 (Fehler). Schritte < 300 sind eine Warnung. |
-| R3 | **Baubarkeit:** Schritte werden global in Reihenfolge Modul 0..9, Schritt 1..n gesetzt. Jeder Block eines Schritts muss über eine Kette von Flächenkontakten innerhalb des Schritts einen Block erreichen, der eine Fläche mit einem bereits gesetzten Block (frühere Schritte) teilt oder bei `y == LEVELS.foundationBottomY` auf dem Gelände liegt. Ausgegeben werden die Anzahl verletzender Blöcke und bis zu 5 Beispiele je Schritt. |
+| R3 | **Baubarkeit:** Schritte werden global in Reihenfolge Modul 0..9, Schritt 1..n gesetzt. Jeder Block eines Schritts muss über eine Kette von Flächenkontakten innerhalb des Schritts einen Block erreichen, der eine Fläche mit einem bereits gesetzten Block (frühere Schritte) teilt oder **Geländekontakt** hat. Ausgegeben werden die Anzahl verletzender Blöcke und bis zu 5 Beispiele je Schritt. **Geländekontakt** (Funktion `hasGroundContact(x,y,z)` in `tools/validate/ground.js`): (a) `y == LEVELS.foundationBottomY`, oder (b) `y == LEVELS.floorY` und die Zelle `(x, y−1, z)` liegt **nicht** in einem `RESERVED`-Volumen aus `interfaces.js`. Das Gelände reicht also bis Y 63, außer in der ausgehobenen Krypta. |
 | R4 | Das Gesamtmodell ist über Flächenkontakte eine einzige, mit dem Gelände verbundene Komponente. |
 | R5 | Schnittstellen aus `interfaces.js` (siehe dort), z. B. Auflager-Prüfungen: Jeder Block von Modul B auf Ebene y hat einen Block von Modul A auf y−1. |
 | R6 | `LEVELS.foundationBottomY ≤ y ≤ LEVELS.maxY`. |

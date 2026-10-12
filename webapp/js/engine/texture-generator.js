@@ -180,6 +180,45 @@ window.TextureGenerator = (function() {
         break;
       }
 
+      case "quartz_bricks": {
+        // Helle Marmorquader im Verband (2 Reihen)
+        ctx.strokeStyle = "rgba(160, 150, 135, 0.7)";
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(0, size / 2); ctx.lineTo(size, size / 2);
+        ctx.moveTo(size / 2, 0); ctx.lineTo(size / 2, size / 2);
+        ctx.moveTo(size / 4, size / 2); ctx.lineTo(size / 4, size);
+        ctx.moveTo(size * 0.75, size / 2); ctx.lineTo(size * 0.75, size);
+        ctx.stroke();
+        break;
+      }
+
+      case "quartz_pillar": {
+        // Längsrillen der Marmorsäule
+        ctx.strokeStyle = "rgba(170, 160, 145, 0.6)";
+        ctx.lineWidth = 2;
+        for (let x = size / 4; x < size; x += size / 4) {
+          ctx.beginPath();
+          ctx.moveTo(x, 0); ctx.lineTo(x, size);
+          ctx.stroke();
+        }
+        break;
+      }
+
+      case "cut_copper": {
+        // Vier Kupferplatten mit Fugenkreuz
+        ctx.strokeStyle = "rgba(90, 40, 25, 0.6)";
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(size / 2, 0); ctx.lineTo(size / 2, size);
+        ctx.moveTo(0, size / 2); ctx.lineTo(size, size / 2);
+        ctx.stroke();
+        ctx.fillStyle = "rgba(255, 190, 150, 0.25)";
+        ctx.fillRect(4, 4, 10, 10);
+        ctx.fillRect(size / 2 + 4, size / 2 + 4, 10, 10);
+        break;
+      }
+
       case "calcite": {
         // Strahlendes Kalzit-Kristallmuster
         ctx.strokeStyle = "rgba(255, 255, 255, 0.5)";
@@ -198,7 +237,8 @@ window.TextureGenerator = (function() {
       case "blue_stained_glass":
       case "yellow_stained_glass":
       case "light_blue_stained_glass":
-      case "orange_stained_glass": {
+      case "orange_stained_glass":
+      case "white_stained_glass": {
         // Bleiverglasungs-Gitter
         ctx.strokeStyle = "#222222";
         ctx.lineWidth = 2.5;
