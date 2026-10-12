@@ -29,6 +29,27 @@ Zum Vergleich: Der Dom-Komplex hat 909.000 Blöcke. Das Zentrum ist etwa **60-ma
 - Die Akten füllen Agenten **Block für Block (Isolato für Isolato)** aus. Grundlage sind OSM-Daten (Höhe, Name, Nutzung, Denkmalstatus), die Lage an Straße bzw. Platz und florentinische Bautypologie.
 - **Grenze:** Ohne Fassadenfotos sind das *plausible, individuelle* Häuser, keine fotogetreuen Kopien. Die **371 benannten Palazzi** werden zusätzlich gezielt recherchiert (Geschosse, Achsen, Rustika, Wappen). Die rund 30 **Wahrzeichen** werden wie der Dom als eigene Projekte in Modulbauweise entworfen.
 
+## 2a. Bildquellen – möglichst viele Gebäude rekonstruieren (Nutzerwunsch 12.10.2026)
+OpenStreetMap speichert selbst keine Fotos, verweist aber auf Wissens- und Bilddatenbanken. Gemessen im Gebiet:
+
+| Quelle | Umfang | Nutzung |
+|---|---|---|
+| OSM-Verweis `wikidata`/`wikipedia` | **461 Gebäude** | Wikidata liefert Hauptbild (P18), Commons-Kategorie (P373), Baujahr, Architekt und Stil, also belegte Fakten für die Akte |
+| **Wikimedia Commons, Geosuche** | sehr dicht: allein im Umkreis von 200 m um den Palazzo Vecchio > 500 georeferenzierte Fotos | Fotos mit Kamerastandort, teils mit Blickrichtung; frei lizenziert (CC BY / BY-SA / PD); Zuordnung zu Fassaden über Standort und Blickrichtung |
+| OSM-Fassadentags | `building:levels` 1.103, `roof:shape` 67, `building:colour` 18 | direkt in die Akte |
+| Mapillary (optional) | flächendeckende Straßenfotos, CC BY-SA 4.0 | braucht einen kostenlosen API-Schlüssel des Nutzers; schließt Lücken in Nebenstraßen |
+| ~~Google Street View~~ | – | **nicht zulässig**: Die Nutzungsbedingungen verbieten das Ableiten von Inhalten |
+
+**Ablauf (neue Phase A5 „Bildindex“):**
+1. Wikidata-Abgleich der 461 Gebäude.
+2. Commons-Geosuche in Kacheln über das ganze Gebiet, mit Metadaten zu Standort, Blickrichtung, Lizenz und Urheber.
+3. Zuordnung der Fotos zu Gebäudekanten. Ein Strahl vom Kamerastandort in Blickrichtung trifft eine Fassade; ohne Blickrichtung wird die nächste zugewandte Straßenfassade innerhalb von 40 m genommen.
+4. Je Gebäude die besten 1–3 Fotos auswählen, nach Nähe, frontalem Winkel und Auflösung.
+
+**Auswertung:** Agenten sehen sich die Vorschaubilder (≤ 640 px) an und füllen damit die Akte: Geschosse, Achsen, Fenstertyp, Putzfarbe, Läden, Gesims, Besonderheiten. Die Akte bekommt `quelle: foto:commons:<Datei>` und eine höhere `sicherheit`. Eine Liste der Bildnachweise wird mitgeführt.
+**Reihenfolge:** Wahrzeichen → benannte Palazzi → Platz- und Hauptstraßenfronten → übrige Straßen. Gebäude ohne passendes Foto bleiben bei der Typologie.
+**Kosten:** ca. 800–1.500 Tokens je ausgewertetem Bild. Deshalb gezielt auswählen, nicht wahllos alle Fotos laden.
+
 ## 3. Weltaufbau
 - **Koordinaten:** wie beim Dom, also Ursprung Kuppelmitte, X entlang der Domachse (−1,36° gegen Ost), Z nach Süden, 1 Block = 0,5 m. Der Bereich wächst auf ca. **x −2.800..+2.300, z −2.200..+2.000**.
 - **Gelände:** Florenz ist nicht eben. Der Arno liegt einige Meter unter den Straßen, Oltrarno und Boboli steigen um bis zu ca. 60–70 m an. Deshalb kommt ein **Geländemodell aus offenen Höhendaten** (DGM) dazu. Der Domplatz bleibt bei Y 64. Höchster Punkt unter Y 319 (wird in Phase A geprüft).
