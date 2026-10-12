@@ -1,314 +1,3369 @@
-# 📘 Meisterbauer-Bauanleitung – Modul 1: Langhaus & Seitenschiffe
-## *Bautüte 1: Die kolossalen Hallen des Kirchenschiffs (Santa Maria del Fiore)*
-
-Willkommen zurück auf der Baustelle von Florenz, Meisterbauer!
-Nachdem unser Fundament aus Bautüte 0 felsenfest im Boden verankert ist, ziehen wir nun die gewaltigen Hallen des Kirchenschiffs (*Langhaus*) hoch.
-
-Das Langhaus von Florenz ist ein echtes Weltwunder der Gotik: Während französische Kathedralen wie Notre-Dame in Paris viele eng stehende Säulenreihen besitzen, wollten die Bürger von Florenz einen gigantischen, sonnendurchfluteten Raum. Sie bauten nur vier riesige Joche mit gigantischen Abständen von 30 Blöcken zwischen den Pfeilern! In dieser Bautüte errichten wir die sechs Riesenpfeiler, spannen die weiten Spitzbogen-Arkaden, mauern die Seitenwände mit gotischen Maßwerkfenstern und schließen die Halle mit dem prächtigen toskanischen Terrakotta-Dach ab.
-
----
-
-> 🌐 **INTERAKTIVE 3D-BAUANLEITUNG IM BROWSER:**  
-> Öffne die Webapp unter [webapp/index.html](../webapp/index.html) für das vollständige, interaktive 3D-Erlebnis mit isometrischer Kamera, exakter Teilebox pro Schritt und Schritt-für-Schritt-Animation!
-
----
-
-## 🧰 Exakte Material-Stückliste für Modul 1 (Bautüte 1)
-*100% mathematisch exakt berechnet – Keine Schätzungen!*
-
-| Symbol | Minecraft-Block | Exakte Stückzahl | Verwendung |
-| :---: | :--- | :---: | :--- |
-| 🧱 | **Terrakotta (Terracotta)** | **10.527x** | Ziegelrotes toskanisches Satteldach des Hauptschiffs (5.445x) & durchgehende Pultdächer beider Seitenschiffe (5.082x) |
-| 🔘 | **Glatter Stein (Smooth Stone)** | **7.352x** | Kreuzrippengewölbe der beiden Seitenschiffe (4.256x) & mächtige Gewölbekappen des Hauptschiffs (3.096x) |
-| 🪨 | **Steinziegel (Stone Bricks)** | **6.507x** | Seitenschiff-Außenmauern (3.822x), Obergadenwände (1.518x), Pfeiler-Dienste (704x) & Ost-Giebelabschluss (463x) |
-| ⬜ | **Glatter Quarzblock** | **4.892x** | Pfeilerkerne (1.088x), Arkadenbögen (496x), Maßwerkfenster (420x), Kapitelle (208x) & gotische Gewölberippen (2.680x) |
-| 🟩 | **Dunkler Prismarin** | **72x** | Grüne Serpentinit-Marmorbänder der Pfeilerschäfte & Wanddienste |
-| 🟫 | **Polierter Granit** | **36x** | Rote Marmor-Konsolen an den gotischen Pfeilerkapitellen |
-| **GESAMT** | **Alle Blöcke Modul 1** | **29.386x** | **Exakt 29.386 Blöcke für das vollständige, lückenlose Langhaus!** |
-
----
-
-## 🧱 Bauschritt 1.1: Die Schäfte der 6 Langhaus-Riesenpfeiler (Teil 1)
-> 📍 **Bereich:** Hauptschiff-Pfeilerreihen (Nord: Z=-21, Süd: Z=+21)  
-> 📏 **Höhenebene:** Y = 65 bis Y = 78 (14 Schichten)  
-> 🔄 **Bautyp:** Vertikales Tragwerk  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| ⬜ | **Glatter Quarzblock** | 336x | Quadratischer Kern (2x2) aller 6 Pfeiler |
-| 🪨 | **Steinziegel** | 336x | 4 vorgelegte Runddienste pro Pfeiler |
-| **Summe** | **Schritt 1.1** | **672x** | Exakt 112 Blöcke pro Pfeiler über 14 Höhenschichten |
-
-### 2. 🗺️ Schichtplan eines Bündelpfeilers (Querschnitt)
-*Legende: `Q` = Glatter Quarz (Kern), `S` = Steinziegel (Dienste), `.` = Freiraum*
-
-```text
-       Z-Richtung (Nord/Süd)
-         -2 -1  0 +1
-     -2   .  S  .  .
--X   -1   S [Q][Q] S   +X
-     +0   . [Q][Q] .
-     +1   .  S  .  .
-```
-
-Pfeiler-Zentren auf dem Fundament:
-- **Nordseite (Z = -21):** Pfeiler 1 `(-135, Y, -21)`, Pfeiler 2 `(-105, Y, -21)`, Pfeiler 3 `(-75, Y, -21)`
-- **Südseite (Z = +21):** Pfeiler 4 `(-135, Y, +21)`, Pfeiler 5 `(-105, Y, +21)`, Pfeiler 6 `(-75, Y, +21)`
-
-### 3. 🔨 Bauanleitung Schritt-für-Schritt
-1. Stelle dich auf die im Modul 0 gesetzten Pfeilerfundamente aus Poliertem Tiefenschiefer.
-2. Setze für jeden der 6 Pfeiler auf jeder Ebene von **Y=65 bis Y=78** einen **2x2 Kern aus Glattem Quarz**.
-3. Platziere an jeder der vier Seiten des Quarzkerns mittig einen **Steinziegel-Block** als sogenannte *Dienste* (vorgelegte Halbsäulen).
-4. Wiederhole dies exakt 14 Schichten lang, bis alle 6 Pfeiler eine Höhe von Y=78 erreicht haben.
-
-💡 **Tipp vom Baumeister Filippo:**
-> *"Baue zuerst einen einzelnen Pfeiler komplett auf Y=78, damit du die Schichtform verinnerlichst. Dann kannst du die restlichen fünf im gleichen Rhythmus hochziehen!"*
-
-⚠️ **Meisterbauer-Achtung:**
-> Kontrolliere mit F3 immer wieder deine Y-Koordinate. Wenn ein Pfeiler 13 oder 15 Blöcke hoch wird, passen später die Arkadenbögen nicht zusammen!
-
-🎨 **Wusstest du schon? – Kolossale Pfeilerabstände:**
-> In anderen berühmten Kathedralen stehen die Pfeiler meist nur 5 bis 8 Meter auseinander. In Florenz wagte Meister Francesco Talenti einen unglaublichen Abstand von fast 20 Metern! Zeitgenossen hielten das für unmöglich und fürchteten den Einsturz. Doch die Bündelpfeiler stehen seit über 650 Jahren kerzengerade.
-
----
-
-## 🧱 Bauschritt 1.2: Pfeilerschäfte oberer Abschnitt & Marmorstreifen (Teil 2)
-> 📍 **Bereich:** 6 Pfeiler des Mittelschiffs  
-> 📏 **Höhenebene:** Y = 79 bis Y = 92 (14 Schichten)  
-> 🔄 **Bautyp:** Pfeilerschäfte mit Marmorintarsien  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| ⬜ | **Glatter Quarzblock** | 336x | Durchgehender 2x2 Quarzkern |
-| 🪨 | **Steinziegel** | 288x | Vorgelegte Dienste auf Normalhöhe |
-| 🟩 | **Dunkler Prismarin** | 48x | Dunkelgrüne Serpentinit-Schmuckringe auf Y=83 und Y=89 |
-| **Summe** | **Schritt 1.2** | **672x** | Exakt 672 Blöcke bis zur Kapitellhöhe Y=92 |
-
-### 2. 🔨 Bauanleitung Schritt-für-Schritt
-1. Setze das Kreuzprofil der Pfeiler ab **Y=79** genau wie in Schritt 1.1 fort.
-2. Wenn du Höhe **Y=83** erreichst, tausche die 4 äußeren Steinziegel jedes Pfeilers gegen **Dunklen Prismarin** aus. Das ergibt einen wunderschönen dunkelgrünen Ring!
-3. Baue von Y=84 bis Y=88 wieder mit Steinziegeln an den Diensten weiter.
-4. Setze auf **Y=89** den zweiten Ring aus **Dunklem Prismarin**.
-5. Schließe die Schäfte auf den Höhen **Y=90, 91 und 92** mit Steinziegeln ab.
-
-💡 **Tipp vom Baumeister Filippo:**
-> *"Die beiden grünen Ringe sind nicht nur hübsch: Sie markieren optisch die Höhen, an denen sich später draußen die Seitenschiffwände und Gewölbeansätze befinden!"*
-
-🎨 **Wusstest du schon? – Der grüne Stein von Prato:**
-> Der dunkelgrüne Stein heißt *Serpentinit* und wurde aus Steinbrüchen bei Prato nahe Florenz mit Ochsenkarren herantransportiert. Er ist so weich, dass man ihn spiegelglatt polieren konnte, wodurch er wie die Haut einer Schlange im Kerzenschein schimmert.
-
----
-
-## 🧱 Bauschritt 1.3: Die gotischen Pfeilerkapitelle
-> 📍 **Bereich:** Köpfe der 6 Riesenpfeiler  
-> 📏 **Höhenebene:** Y = 93 bis Y = 94 (2 Schichten)  
-> 🔄 **Bautyp:** Auskragende Kapitelle & Kämpferplatten  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| ⬜ | **Glatter Quarzblock** | 192x | Auskragender Wulst (12x/Pfeiler) & 4x4 Kämpferplatte (16x/Pfeiler) |
-| 🟫 | **Polierter Granit** | 24x | 4 Eck-Konsolen pro Pfeiler als Bogenauflager |
-| **Summe** | **Schritt 1.3** | **216x** | Exakt 36 Blöcke pro Pfeilerkapitell |
-
-### 2. 🗺️ Schichtplan der Kapitell-Deckplatte (Y=94)
-*Legende: `G` = Polierter Granit, `Q` = Glatter Quarz, `.` = Freiraum*
-
-```text
-       Z-Richtung
-         -3 -2 -1  0 +1 +2
-     -3   .  .  G  .  .  .
--X   -2   . [Q][Q][Q][Q] .
-     -1   G [Q][Q][Q][Q] G   +X
-     +0   . [Q][Q][Q][Q] .
-     +1   . [Q][Q][Q][Q] .
-     +2   .  .  .  G  .  .
-```
-
-### 3. 🔨 Bauanleitung Schritt-für-Schritt
-1. **Schicht Y=93:** Setze um den Pfeilerkern herum eine auskragende Plattform aus 12 Quarzblöcken (Bereich `dx: -2..+1, dz: -2..+1`).
-2. **Schicht Y=94:** Verbreitere die Plattform zu einer geschlossenen quadratischen **4x4 Quarzplatte** (16 Blöcke).
-3. **Die 4 Granit-Konsolen:** Setze an allen vier Außenseiten jeweils mittig einen Block **Polierten Granit** an. Diese vier Steine fangen später die gewaltigen Schubkräfte der anlaufenden Spitzbögen auf!
-
-🎨 **Wusstest du schon? – Akanthus und Zunftwappen:**
-> Die echten Steinmetze meißelten in diese Kapitelle stilisierte Distelblätter (*Akanthus*) sowie die Wappen der Wollweber-Zunft (*Arte della Lana*) ein, welche damals den Kathedralbau mit ihren Tuchgeschäften finanzierte.
-
----
-
-## 🧱 Bauschritt 1.4: Die monumentalen Langhaus-Arkadenbögen
-> 📍 **Bereich:** Längsachsen zwischen den Pfeilern (Nord: Z=-21, Süd: Z=+21)  
-> 📏 **Höhenebene:** Y = 95 bis Y = 106 (12 Blöcke Bogenhöhe)  
-> 🔄 **Bautyp:** Gotische Spitzbögen  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| ⬜ | **Glatter Quarzblock** | 372x | 6 doppelreihige Spitzbögen (je 62 Blöcke) |
-| **Summe** | **Schritt 1.4** | **372x** | Exakt 372 Blöcke Glatter Quarz |
-
-### 2. 🔨 Bauanleitung Schritt-für-Schritt
-1. Wir spannen 3 Spitzbögen auf der Nordseite (Z=-21) und 3 auf der Südseite (Z=+21):
-   - Joch 1: Von X = -135 bis X = -105
-   - Joch 2: Von X = -105 bis X = -75
-   - Joch 3: Von X = -75 bis X = -45
-2. Jeder Bogen steigt von den Kapitellen bei **Y=95** steil an und erreicht seinen Scheitelpunkt genau in der Mitte auf Höhe **Y=106**.
-3. Baue jeden Bogen doppelreihig (zwei Blöcke übereinander), damit eine massive 2-Block-Tragstruktur entsteht.
-
-💡 **Tipp vom Baumeister Filippo:**
-> *"Betrachte die Bögen von der Seite: Der gotische Spitzbogen entsteht dadurch, dass zwei Kreisabschnitte sich oben schneiden. Wenn dein Bogen oben spitz zuläuft, ist er perfekt!"*
-
-⚠️ **Meisterbauer-Achtung:**
-> Nutze temporäre Hilfsblöcke (z.B. Erde oder Gerüstblöcke), um in der Luft zu bauen, und reiße sie danach wieder ab.
-
----
-
-## 🧱 Bauschritt 1.5: Die Seitenschiff-Außenmauern mit Maßwerkfenstern
-> 📍 **Bereich:** Äußere Begrenzungswände (Nord: Z=-42, Süd: Z=+42, X: -165 bis -45)  
-> 📏 **Höhenebene:** Y = 65 bis Y = 85 (21 Schichten)  
-> 🔄 **Bautyp:** Außenmauern & Biforien-Fensteröffnungen  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| 🪨 | **Steinziegel** | 4.130x | Massive Außenmauern und Pfeilerzonen |
-| ⬜ | **Glatter Quarzblock** | 112x | Fensterbänke (Y=69) und obere Bogenabschlüsse (Y=85) |
-| **Summe** | **Schritt 1.5** | **4.242x** | Exakt 4.242 Blöcke für die beiden 120-Block-Langhausflanken |
-
-### 2. 🔨 Bauanleitung Schritt-für-Schritt
-1. **Sockelzone (Y=65 bis Y=68):** Ziehe auf Nord- (Z=-42) und Südwand (Z=+42) eine durchgehende, 4 Blöcke hohe Steinziegelmauer von X=-165 bis X=-45.
-2. **Fensterachsen festlegen:** Auf jeder Seite gibt es 4 große Maßwerkfenster, zentriert bei **X = -150, -120, -90 und -60**. Jedes Fenster ist 7 Blöcke breit (Breite: X-Zentrum ± 3).
-3. **Mauerabschnitte & Fensterbänke (Y=69 bis Y=85):**
-   - Auf Y=69 setzt du in die 7 Blöcke breiten Fensteröffnungen weiße **Glatte Quarzblöcke** als edle Fensterbänke ein.
-   - Von Y=70 bis Y=84 lässt du die Fensteröffnungen hohl (hier strahlt später die Sonne herein!).
-   - Auf Y=85 schließt du den oberen Fensterspitz mit **Glattem Quarz** ab.
-   - Alle Wandbereiche zwischen den Fenstern werden vollmassiv mit **Steinziegeln** aufgemauert.
-
-🎨 **Wusstest du schon? – Fenster in der toskanischen Sonne:**
-> Während im regnerischen Frankreich die Wände fast nur aus Glas bestanden, ließen die Architekten in Italien viel massive Steinwand stehen. Dadurch blieb die Kathedrale auch im heißen florentinischen Hochsommer bei 38 Grad im Inneren angenehm kühl!
-
----
-
-## 🧱 Bauschritt 1.6: Die Kreuzrippengewölbe der beiden Seitenschiffe
-> 📍 **Bereich:** Decken der Seitenschiffe (Nord: Z=-42..-21, Süd: Z=+21..+42)  
-> 📏 **Höhenebene:** Y = 80 bis Y = 85  
-> 🔄 **Bautyp:** Deckenwölbung & Rippenwerk  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| ⬜ | **Glatter Quarzblock** | 352x | Diagonal kreuzende Deckenrippen in 8 Jochen |
-| **Summe** | **Schritt 1.6** | **352x** | Exakt 352 Blöcke Glatter Quarz |
-
-### 2. 🔨 Bauanleitung Schritt-für-Schritt
-1. Jedes der 8 Joche (4 im Nord-Seitenschiff, 4 im Süd-Seitenschiff) misst 30 x 21 Blöcke.
-2. Spanne von den vier Ecken jedes Jochs diagonale Quarzrippen, die sich in der Mitte kreuzen.
-3. Die Rippen steigen von den Außenwänden und Pfeileransätzen bei **Y=80** bogenförmig an und erreichen ihren Gewölbescheitel in der Jochmitte bei **Y=85**.
-
-💡 **Tipp vom Baumeister Filippo:**
-> *"Wenn du im Seitenschiff stehst und nach oben schaust, siehst du wunderschöne weiße X-Kreuze an der Decke. Sie verleihen dem Raum seine gotische Eleganz!"*
-
----
-
-## 🧱 Bauschritt 1.7: Die Obergaden-Hochwände mit runden Ochsenaugen
-> 📍 **Bereich:** Hochwände über den Pfeilerarkaden (Z=-21 und Z=+21)  
-> 📏 **Höhenebene:** Y = 95 bis Y = 108  
-> 🔄 **Bautyp:** Obergadenmauer & kreisrunde *Oculi*  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| 🪨 | **Steinziegel** | 968x | Tragende Hochwand über den Arkadenbögen |
-| ⬜ | **Glatter Quarzblock** | 104x | Kreisförmige Marmorrahmung der 8 Ochsenaugen |
-| **Summe** | **Schritt 1.7** | **1.072x** | Exakt 1.072 Blöcke für die beiden Obergadenwände |
-
-### 2. 🗺️ Schichtplan eines Ochsenauges (Oculus, Zentrum Y=102)
-*Legende: `Q` = Glatter Quarz, `.` = Öffnung für Buntglas, `S` = Steinziegel*
-
-```text
-       Höhe Y
-        +104     S   Q   Q   Q   S
-        +103     Q   .   .   .   Q
-        +102     Q   .   .   .   Q   (Zentrum X)
-        +101     Q   .   .   .   Q
-        +100     S   Q   Q   Q   S
-```
-
-### 3. 🔨 Bauanleitung Schritt-für-Schritt
-1. Mauere auf Nord- und Südseite die Wand über den Arkadenbögen bis **Y=108** auf.
-2. Zentriert über jedem Joch (bei X = -150, -120, -90, -60) auf Höhe **Y=102** sparst du eine kreisrunde Fensteröffnung mit Radius 2 aus.
-3. Fasse die runde Öffnung rundherum mit **Glattem Quarz** ein, um das typische florentinische Marmor-Oculus zu erhalten.
-
-🎨 **Wusstest du schon? – Das Geheimnis der Ochsenaugen:**
-> Im Italienischen heißen diese runden Fenster *Occhi* (Augen). Bei tiefstehender Nachmittagssonne werfen sie kreisrunde Lichtscheiben an die gegenüberliegende Innenwand, die im Laufe der Stunden langsam über die Pfeiler wandern!
-
----
-
-## 🧱 Bauschritt 1.8: Das monumentale Hauptschiff-Kreuzrippengewölbe
-> 📍 **Bereich:** Das gigantische Gewölbe des Mittelschiffs (Z: -21 bis +21)  
-> 📏 **Höhenebene:** Y = 105 bis Y = 112 (Spannweite: 42 Blöcke!)  
-> 🔄 **Bautyp:** Monumentale Hauptrippen & Gurtbögen  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| ⬜ | **Glatter Quarzblock** | 516x | Diagonale Riesenrippen und Gurtbögen |
-| **Summe** | **Schritt 1.8** | **516x** | Exakt 516 Blöcke Glatter Quarz |
-
-### 2. 🔨 Bauanleitung Schritt-für-Schritt
-1. Wir spannen vier gigantische Kreuzgewölbe über der 42 Blöcke breiten Haupthalle:
-   - Die Quarzrippen setzen bei **Y=105** an den Obergadenwänden an.
-   - Sie schwingen in einem weiten Bogen nach oben und treffen sich exakt im Scheitelpunkt auf Höhe **Y=112** bei **Z=0**.
-2. Baue zwischen den Jochen (bei X = -135, -105, -75, -45) quer verlaufende **Gurtbögen**, die die Gewölbejoche voneinander trennen.
-
-💡 **Tipp vom Baumeister Filippo:**
-> *"Mit 42 Blöcken Spannweite ist dies eine der kühnsten Steindecken der Welt. Fliege oder klettere auf Gerüsten nach oben, um den prächtigen Scheitelstein bei Z=0 exakt einzusetzen!"*
-
----
-
-## 🧱 Bauschritt 1.9: Dachstuhl & Toskanisches Ziegeldach
-> 📍 **Bereich:** Außenüberdachung des Hauptschiffs (X: -165 bis -45, Z: -22 bis +22)  
-> 📏 **Höhenebene:** Y = 108 bis Y = 124 (17 Blöcke Dachhöhe!)  
-> 🔄 **Bautyp:** Monumentales Satteldach mit Firstbalken  
-
-### 1. 📦 Teileliste für diesen Schritt
-| Symbol | Block-Name | Menge | Funktion |
-| :---: | :--- | :---: | :--- |
-| 🧱 | **Terrakotta (Terracotta)** | 2.745x | Warme ziegelrote Dachdeckung |
-| 🪨 | **Steinziegel** | 121x | Schnurgerader Firstkamm auf Y=124 bei Z=0 |
-| **Summe** | **Schritt 1.9** | **2.866x** | Exakt 2.866 Blöcke für das fertige Dach |
-
-### 2. 🗺️ Querschnitt des Satteldachs (Blick von Westen nach Osten)
-```text
-           First Y=124 (Steinziegel):  [S]  (Z=0)
-           Dachschräge:              /     \
-                                   /         \
-                                 /  Terrakotta \
-                               /                 \
- Traufe Y=108:   [T]─────────────────────────────────[T]
-               (Z=-22)                             (Z=+22)
-                 │                                   │
-                 │◄─────── 44 Blöcke Breite ────────►│
-```
-
-### 3. 🔨 Bauanleitung Schritt-für-Schritt
-1. **Dachneigung einmessen:** Das Dach beginnt an den Traufen bei Z=-22 und Z=+22 auf Höhe **Y=108** und steigt gleichmäßig bis zum Dachfirst bei **Z=0 auf Höhe Y=124** an.
-2. Decke die Dachschrägen schichtweise mit **Terrakotta** ein. Der warme Erdton entspricht exakt den echten Dachziegeln der Toskana.
-3. Setze auf der Firstlinie (Z=0 auf Höhe Y=124) von X=-165 bis X=-45 eine durchgehende Reihe aus **121 Steinziegeln** als wetterfesten Firstkamm auf!
-
-💡 **Tipp vom Baumeister Filippo:**
-> *"Tritt nach Vollendung dieses Schrittes ein paar hundert Schritte zurück und betrachte dein Werk: Das Langhaus steht stolz und majestätisch in seiner vollen Höhe von 60 Metern über dem Boden!"*
-
-🎨 **Wusstest du schon? – Cotto dell'Impruneta:**
-> Die echten Dachziegel von Santa Maria del Fiore stammen aus dem nahegelegenen toskanischen Dorf Impruneta. Der dortige Ton ist so reich an Eisenmineralien, dass die gebrannten Ziegel frostbeständig sind und nach über 600 Jahren immer noch das florentinische Sonnenlicht reflektieren!
-
----
-
-## 🏆 Modul 1 Erfolgreich Abgeschlossen!
-Glückwunsch, Meisterbauer! Du hast das gesamte Langhaus von Santa Maria del Fiore vollendet.
-- **10.980 Blöcke** wurden präzise verbaut.
-- 6 Kolossal-Pfeiler, 6 Arkadenbögen, 8 Triforien- und Biforienfenster sowie 8 Ochsenaugen schmücken den Bau.
-- Das Dach ragt bereits auf Höhe **Y=124** empor!
-
-Im nächsten Modul widmen wir uns der Schauseite der Kathedrale: **Modul 2 – Die prachtvolle Westfassade mit ihren drei gotischen Prunkportalen und dem riesigen Rosenfenster!**
+<!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
+
+# Bauanleitung Modul 1: Langhaus & Seitenschiffe
+
+*Bautüte 1: Außenwände, Pfeiler, Arkaden, Gewölbe und Dächer des Langhauses*
+
+## Übersicht
+
+| Kennzahl | Wert |
+| :--- | :--- |
+| Blöcke | 174.461 |
+| Bauschritte | 109 |
+| Y-Bereich | 65 bis 156 |
+| X-Ausdehnung | -212 bis -55 (158 Blöcke) |
+| Z-Ausdehnung | -45 bis 45 (91 Blöcke) |
+| Kleinster Schritt | 328 Blöcke (Schritt 1.93) |
+| Mittlerer Schritt | 1.601 Blöcke |
+| Größter Schritt | 2.030 Blöcke (Schritt 1.38) |
+
+## Gesamt-Stückliste
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Glatter Stein | `smooth_stone` | 81.836 | 46,9 % |
+| Steinziegel | `stone_bricks` | 35.444 | 20,3 % |
+| Glatter Quarzblock | `smooth_quartz` | 20.600 | 11,8 % |
+| Terrakotta | `terracotta` | 18.012 | 10,3 % |
+| Dunkler Prismarin | `dark_prismarine` | 7.264 | 4,2 % |
+| Polierter Andesit | `polished_andesite` | 3.499 | 2,0 % |
+| Quarzziegel | `quartz_bricks` | 3.476 | 2,0 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 1.640 | 0,9 % |
+| Weißes Buntglas | `white_stained_glass` | 918 | 0,5 % |
+| Polierter Granit | `polished_granite` | 604 | 0,3 % |
+| Oranges Buntglas | `orange_stained_glass` | 480 | 0,3 % |
+| Geschnittener Kupferblock | `cut_copper` | 392 | 0,2 % |
+| Gelbes Buntglas | `yellow_stained_glass` | 296 | 0,2 % |
+
+## Bauteile in Bau-Reihenfolge
+
+| Nr. | Bauteil | Titel | Blöcke | Schritte |
+| ---: | :--- | :--- | ---: | :--- |
+| 1 | `aussenwand_nord` | Nordwand des Seitenschiffs | 29.635 | 1.1–1.17 |
+| 2 | `aussenwand_sued` | Südwand des Seitenschiffs | 29.635 | 1.18–1.34 |
+| 3 | `wandvorlagen` | Wandvorlagen außen | 4.000 | 1.35–1.36 |
+| 4 | `pfeiler` | Bündelpfeiler | 15.036 | 1.37–1.44 |
+| 5 | `arkaden` | Arkaden zum Mittelschiff | 29.640 | 1.45–1.63 |
+| 6 | `seitenschiff_gewoelbe` | Gewölbe der Seitenschiffe | 11.012 | 1.64–1.70 |
+| 7 | `hochschiffwand` | Hochschiffwand mit Rundfenstern | 22.148 | 1.71–1.83 |
+| 8 | `mittelschiff_gewoelbe` | Gewölbe des Mittelschiffs | 11.867 | 1.84–1.93 |
+| 9 | `gesimse` | Kranzgesimse | 3.476 | 1.94–1.96 |
+| 10 | `dach_seitenschiffe` | Pultdächer der Seitenschiffe | 9.480 | 1.97–1.103 |
+| 11 | `dach_mittelschiff` | Satteldach des Mittelschiffs | 8.532 | 1.104–1.109 |
+
+## Bauschritte
+
+### Schritt 1.1 – Nordwand des Seitenschiffs – Teil 1/17 (Y 65–67)
+
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 264 |
+| Dunkler Prismarin | `dark_prismarine` | 177 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.2 – Nordwand des Seitenschiffs – Teil 2/17 (Y 68–70)
+
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 388 |
+| Dunkler Prismarin | `dark_prismarine` | 45 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Polierter Granit | `polished_granite` | 8 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.3 – Nordwand des Seitenschiffs – Teil 3/17 (Y 71–73)
+
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 340 |
+| Polierter Granit | `polished_granite` | 56 |
+| Dunkler Prismarin | `dark_prismarine` | 45 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.4 – Nordwand des Seitenschiffs – Teil 4/17 (Y 74–76)
+
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 396 |
+| Dunkler Prismarin | `dark_prismarine` | 45 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.5 – Nordwand des Seitenschiffs – Teil 5/17 (Y 77–78)
+
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.210
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 588 |
+| Glatter Stein | `smooth_stone` | 294 |
+| Dunkler Prismarin | `dark_prismarine` | 162 |
+| Glatter Quarzblock | `smooth_quartz` | 132 |
+| Geschnittener Kupferblock | `cut_copper` | 18 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 16 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.6 – Nordwand des Seitenschiffs – Teil 6/17 (Y 79–81)
+
+- **Y-Bereich:** 79 bis 81
+- **Blöcke:** 1.689
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 798 |
+| Glatter Stein | `smooth_stone` | 399 |
+| Glatter Quarzblock | `smooth_quartz` | 358 |
+| Weißes Buntglas | `white_stained_glass` | 42 |
+| Dunkler Prismarin | `dark_prismarine` | 41 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.7 – Nordwand des Seitenschiffs – Teil 7/17 (Y 82–84)
+
+- **Y-Bereich:** 82 bis 84
+- **Blöcke:** 1.626
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 754 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Glatter Quarzblock | `smooth_quartz` | 319 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 38 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 28 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Polierter Granit | `polished_granite` | 19 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.8 – Nordwand des Seitenschiffs – Teil 8/17 (Y 85–87)
+
+- **Y-Bereich:** 85 bis 87
+- **Blöcke:** 1.662
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 762 |
+| Glatter Stein | `smooth_stone` | 386 |
+| Glatter Quarzblock | `smooth_quartz` | 319 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 60 |
+| Dunkler Prismarin | `dark_prismarine` | 38 |
+| Polierter Granit | `polished_granite` | 19 |
+| Geschnittener Kupferblock | `cut_copper` | 15 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.9 – Nordwand des Seitenschiffs – Teil 9/17 (Y 88–90)
+
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.704
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 794 |
+| Glatter Stein | `smooth_stone` | 403 |
+| Glatter Quarzblock | `smooth_quartz` | 352 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 52 |
+| Dunkler Prismarin | `dark_prismarine` | 39 |
+| Geschnittener Kupferblock | `cut_copper` | 1 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.10 – Nordwand des Seitenschiffs – Teil 10/17 (Y 91–93)
+
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 810 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Glatter Quarzblock | `smooth_quartz` | 238 |
+| Dunkler Prismarin | `dark_prismarine` | 161 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.11 – Nordwand des Seitenschiffs – Teil 11/17 (Y 94–96)
+
+- **Y-Bereich:** 94 bis 96
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 810 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Glatter Quarzblock | `smooth_quartz` | 349 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Polierter Granit | `polished_granite` | 8 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.12 – Nordwand des Seitenschiffs – Teil 12/17 (Y 97–99)
+
+- **Y-Bereich:** 97 bis 99
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 815 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Glatter Quarzblock | `smooth_quartz` | 306 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Polierter Granit | `polished_granite` | 56 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 14 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.13 – Nordwand des Seitenschiffs – Teil 13/17 (Y 100–102)
+
+- **Y-Bereich:** 100 bis 102
+- **Blöcke:** 1.779
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 869 |
+| Glatter Stein | `smooth_stone` | 435 |
+| Glatter Quarzblock | `smooth_quartz` | 389 |
+| Dunkler Prismarin | `dark_prismarine` | 45 |
+| Weißes Buntglas | `white_stained_glass` | 39 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 2 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.14 – Nordwand des Seitenschiffs – Teil 14/17 (Y 103–105)
+
+- **Y-Bereich:** 103 bis 105
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 284 |
+| Dunkler Prismarin | `dark_prismarine` | 190 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.15 – Nordwand des Seitenschiffs – Teil 15/17 (Y 106–108)
+
+- **Y-Bereich:** 106 bis 108
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 426 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.16 – Nordwand des Seitenschiffs – Teil 16/17 (Y 109–111)
+
+- **Y-Bereich:** 109 bis 111
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 370 |
+| Polierter Granit | `polished_granite` | 56 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.17 – Nordwand des Seitenschiffs – Teil 17/17 (Y 112–114)
+
+- **Y-Bereich:** 112 bis 114
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 418 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+| Polierter Granit | `polished_granite` | 8 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.18 – Südwand des Seitenschiffs – Teil 1/17 (Y 65–67)
+
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 266 |
+| Dunkler Prismarin | `dark_prismarine` | 175 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.19 – Südwand des Seitenschiffs – Teil 2/17 (Y 68–70)
+
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 391 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Polierter Granit | `polished_granite` | 8 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.20 – Südwand des Seitenschiffs – Teil 3/17 (Y 71–73)
+
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 343 |
+| Polierter Granit | `polished_granite` | 56 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.21 – Südwand des Seitenschiffs – Teil 4/17 (Y 74–76)
+
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.815
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 399 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.22 – Südwand des Seitenschiffs – Teil 5/17 (Y 77–78)
+
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.210
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 588 |
+| Glatter Stein | `smooth_stone` | 294 |
+| Dunkler Prismarin | `dark_prismarine` | 161 |
+| Glatter Quarzblock | `smooth_quartz` | 133 |
+| Geschnittener Kupferblock | `cut_copper` | 18 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 16 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.23 – Südwand des Seitenschiffs – Teil 6/17 (Y 79–81)
+
+- **Y-Bereich:** 79 bis 81
+- **Blöcke:** 1.689
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 798 |
+| Glatter Stein | `smooth_stone` | 399 |
+| Glatter Quarzblock | `smooth_quartz` | 361 |
+| Weißes Buntglas | `white_stained_glass` | 42 |
+| Dunkler Prismarin | `dark_prismarine` | 38 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.24 – Südwand des Seitenschiffs – Teil 7/17 (Y 82–84)
+
+- **Y-Bereich:** 82 bis 84
+- **Blöcke:** 1.626
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 754 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Glatter Quarzblock | `smooth_quartz` | 321 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 36 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 28 |
+| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Polierter Granit | `polished_granite` | 19 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.25 – Südwand des Seitenschiffs – Teil 8/17 (Y 85–87)
+
+- **Y-Bereich:** 85 bis 87
+- **Blöcke:** 1.662
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 762 |
+| Glatter Stein | `smooth_stone` | 386 |
+| Glatter Quarzblock | `smooth_quartz` | 321 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 60 |
+| Dunkler Prismarin | `dark_prismarine` | 36 |
+| Polierter Granit | `polished_granite` | 19 |
+| Geschnittener Kupferblock | `cut_copper` | 15 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.26 – Südwand des Seitenschiffs – Teil 9/17 (Y 88–90)
+
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.704
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 794 |
+| Glatter Stein | `smooth_stone` | 403 |
+| Glatter Quarzblock | `smooth_quartz` | 351 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 52 |
+| Dunkler Prismarin | `dark_prismarine` | 40 |
+| Geschnittener Kupferblock | `cut_copper` | 1 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.27 – Südwand des Seitenschiffs – Teil 10/17 (Y 91–93)
+
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 810 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Glatter Quarzblock | `smooth_quartz` | 238 |
+| Dunkler Prismarin | `dark_prismarine` | 161 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.28 – Südwand des Seitenschiffs – Teil 11/17 (Y 94–96)
+
+- **Y-Bereich:** 94 bis 96
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 810 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Glatter Quarzblock | `smooth_quartz` | 349 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Polierter Granit | `polished_granite` | 8 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.29 – Südwand des Seitenschiffs – Teil 12/17 (Y 97–99)
+
+- **Y-Bereich:** 97 bis 99
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 815 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Glatter Quarzblock | `smooth_quartz` | 306 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Polierter Granit | `polished_granite` | 56 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 14 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.30 – Südwand des Seitenschiffs – Teil 13/17 (Y 100–102)
+
+- **Y-Bereich:** 100 bis 102
+- **Blöcke:** 1.779
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 869 |
+| Glatter Stein | `smooth_stone` | 435 |
+| Glatter Quarzblock | `smooth_quartz` | 389 |
+| Dunkler Prismarin | `dark_prismarine` | 45 |
+| Weißes Buntglas | `white_stained_glass` | 39 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 2 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.31 – Südwand des Seitenschiffs – Teil 14/17 (Y 103–105)
+
+- **Y-Bereich:** 103 bis 105
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 284 |
+| Dunkler Prismarin | `dark_prismarine` | 190 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.32 – Südwand des Seitenschiffs – Teil 15/17 (Y 106–108)
+
+- **Y-Bereich:** 106 bis 108
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 426 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.33 – Südwand des Seitenschiffs – Teil 16/17 (Y 109–111)
+
+- **Y-Bereich:** 109 bis 111
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 370 |
+| Polierter Granit | `polished_granite` | 56 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.34 – Südwand des Seitenschiffs – Teil 17/17 (Y 112–114)
+
+- **Y-Bereich:** 112 bis 114
+- **Blöcke:** 1.896
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 948 |
+| Glatter Stein | `smooth_stone` | 474 |
+| Glatter Quarzblock | `smooth_quartz` | 418 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+| Polierter Granit | `polished_granite` | 8 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.35 – Wandvorlagen außen – Teil 1/2 (Y 65–89)
+
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 2.000
+- **Bauteile:** `wandvorlagen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Dunkler Prismarin | `dark_prismarine` | 1.000 |
+| Glatter Quarzblock | `smooth_quartz` | 1.000 |
+
+**Beschreibung**
+
+Du setzt senkrechte Streifen vor die Außenwände, vier Blöcke breit bei Z ±43 und ±44 und von Y 65 bis 114. Es sind fünf je Seite: an den beiden Enden (X −212 bis −209 und −58 bis −55) und vor den Pfeilerachsen bei X −174, −136 und −98. Sie bestehen aus glattem Quarz, die Kanten aus dunklem Prismarin.
+
+**Tipp**
+
+Die Streifen stehen genau gegenüber den Pfeilern im Inneren. Zähle ab der Fassade, damit sie an der richtigen Stelle landen.
+
+**Achtung**
+
+Die Streifen sind nur zwei Blöcke tief. Sie dürfen die Mauer nicht verdoppeln, sonst wird das Seitenschiff innen zu eng.
+
+**Fakt**
+
+Francesco Talenti leitete ab 1357 den Bau des Langhauses. Er war schon an Giottos Campanile beteiligt und führte beide Bauten im Stil der Zeit fort.
+
+### Schritt 1.36 – Wandvorlagen außen – Teil 2/2 (Y 90–114)
+
+- **Y-Bereich:** 90 bis 114
+- **Blöcke:** 2.000
+- **Bauteile:** `wandvorlagen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Dunkler Prismarin | `dark_prismarine` | 1.000 |
+| Glatter Quarzblock | `smooth_quartz` | 1.000 |
+
+**Beschreibung**
+
+Du setzt senkrechte Streifen vor die Außenwände, vier Blöcke breit bei Z ±43 und ±44 und von Y 65 bis 114. Es sind fünf je Seite: an den beiden Enden (X −212 bis −209 und −58 bis −55) und vor den Pfeilerachsen bei X −174, −136 und −98. Sie bestehen aus glattem Quarz, die Kanten aus dunklem Prismarin.
+
+**Tipp**
+
+Die Streifen stehen genau gegenüber den Pfeilern im Inneren. Zähle ab der Fassade, damit sie an der richtigen Stelle landen.
+
+**Achtung**
+
+Die Streifen sind nur zwei Blöcke tief. Sie dürfen die Mauer nicht verdoppeln, sonst wird das Seitenschiff innen zu eng.
+
+**Fakt**
+
+Francesco Talenti leitete ab 1357 den Bau des Langhauses. Er war schon an Giottos Campanile beteiligt und führte beide Bauten im Stil der Zeit fort.
+
+### Schritt 1.37 – Bündelpfeiler – Teil 1/8 (Y 65–67)
+
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.834
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.834 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.38 – Bündelpfeiler – Teil 2/8 (Y 68–72)
+
+- **Y-Bereich:** 68 bis 72
+- **Blöcke:** 2.030
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 2.030 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.39 – Bündelpfeiler – Teil 3/8 (Y 73–76)
+
+- **Y-Bereich:** 73 bis 76
+- **Blöcke:** 1.624
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.624 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.40 – Bündelpfeiler – Teil 4/8 (Y 77–81)
+
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 2.030
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 2.030 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.41 – Bündelpfeiler – Teil 5/8 (Y 82–86)
+
+- **Y-Bereich:** 82 bis 86
+- **Blöcke:** 2.030
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 2.030 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.42 – Bündelpfeiler – Teil 6/8 (Y 87–90)
+
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.624
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.624 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.43 – Bündelpfeiler – Teil 7/8 (Y 91–95)
+
+- **Y-Bereich:** 91 bis 95
+- **Blöcke:** 2.030
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 2.030 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.44 – Bündelpfeiler – Teil 8/8 (Y 96–98)
+
+- **Y-Bereich:** 96 bis 98
+- **Blöcke:** 1.834
+- **Bauteile:** `pfeiler`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 1.428 |
+| Glatter Stein | `smooth_stone` | 406 |
+
+**Beschreibung**
+
+Du stellst sechs freie Pfeiler auf die Achsen X −174, −136 und −98 bei Z ±19. Jeder hat einen achteckigen Kern mit vier schmalen Diensten, einen Fuß (Y 65 bis 66), einen Schaft (Y 67 bis 96) und ein Kapitell aus poliertem Andesit (Y 97 bis 98). Dazu kommen Halbpfeiler an der Fassade, an der Vierungswand (X −58 bis −55) und an den Seitenwänden.
+
+**Tipp**
+
+Baue erst den Fuß aller Pfeiler, dann alle Schäfte, dann die Kapitelle. So behältst du die Achsen im Blick.
+
+**Achtung**
+
+Die Halbpfeiler sind nur auf einer Seite vorhanden. Prüfe, dass sie nicht in die Mauer hineinragen.
+
+**Fakt**
+
+Der Stein „Pietra serena“ heißt übersetzt „heiterer Stein“. Es ist ein graublauer Sandstein aus den Hügeln bei Florenz, den auch Brunelleschi in seinen Kirchen verwendet hat.
+
+### Schritt 1.45 – Arkaden zum Mittelschiff – Teil 1/19 (Y 99–102)
+
+- **Y-Bereich:** 99 bis 102
+- **Blöcke:** 1.540
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 880 |
+| Glatter Quarzblock | `smooth_quartz` | 500 |
+| Dunkler Prismarin | `dark_prismarine` | 160 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.46 – Arkaden zum Mittelschiff – Teil 2/19 (Y 103–105)
+
+- **Y-Bereich:** 103 bis 105
+- **Blöcke:** 1.620
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.080 |
+| Glatter Quarzblock | `smooth_quartz` | 340 |
+| Dunkler Prismarin | `dark_prismarine` | 200 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.47 – Arkaden zum Mittelschiff – Teil 3/19 (Y 106–107)
+
+- **Y-Bereich:** 106 bis 107
+- **Blöcke:** 1.660
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.060 |
+| Dunkler Prismarin | `dark_prismarine` | 440 |
+| Glatter Quarzblock | `smooth_quartz` | 160 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.48 – Arkaden zum Mittelschiff – Teil 4/19 (Y 108–108)
+
+- **Y-Bereich:** 108 bis 108
+- **Blöcke:** 1.120
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 700 |
+| Glatter Quarzblock | `smooth_quartz` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 160 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.49 – Arkaden zum Mittelschiff – Teil 5/19 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 860 |
+| Glatter Quarzblock | `smooth_quartz` | 400 |
+| Dunkler Prismarin | `dark_prismarine` | 320 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.50 – Arkaden zum Mittelschiff – Teil 6/19 (Y 110–110)
+
+- **Y-Bereich:** 110 bis 110
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.120 |
+| Dunkler Prismarin | `dark_prismarine` | 320 |
+| Glatter Quarzblock | `smooth_quartz` | 140 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.51 – Arkaden zum Mittelschiff – Teil 7/19 (Y 111–111)
+
+- **Y-Bereich:** 111 bis 111
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.52 – Arkaden zum Mittelschiff – Teil 8/19 (Y 112–112)
+
+- **Y-Bereich:** 112 bis 112
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.53 – Arkaden zum Mittelschiff – Teil 9/19 (Y 113–113)
+
+- **Y-Bereich:** 113 bis 113
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.54 – Arkaden zum Mittelschiff – Teil 10/19 (Y 114–114)
+
+- **Y-Bereich:** 114 bis 114
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.55 – Arkaden zum Mittelschiff – Teil 11/19 (Y 115–115)
+
+- **Y-Bereich:** 115 bis 115
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.56 – Arkaden zum Mittelschiff – Teil 12/19 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.57 – Arkaden zum Mittelschiff – Teil 13/19 (Y 117–117)
+
+- **Y-Bereich:** 117 bis 117
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.58 – Arkaden zum Mittelschiff – Teil 14/19 (Y 118–118)
+
+- **Y-Bereich:** 118 bis 118
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.59 – Arkaden zum Mittelschiff – Teil 15/19 (Y 119–119)
+
+- **Y-Bereich:** 119 bis 119
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.60 – Arkaden zum Mittelschiff – Teil 16/19 (Y 120–120)
+
+- **Y-Bereich:** 120 bis 120
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.61 – Arkaden zum Mittelschiff – Teil 17/19 (Y 121–121)
+
+- **Y-Bereich:** 121 bis 121
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.62 – Arkaden zum Mittelschiff – Teil 18/19 (Y 122–122)
+
+- **Y-Bereich:** 122 bis 122
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.63 – Arkaden zum Mittelschiff – Teil 19/19 (Y 123–123)
+
+- **Y-Bereich:** 123 bis 123
+- **Blöcke:** 1.580
+- **Bauteile:** `arkaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.580 |
+
+**Beschreibung**
+
+Du mauerst die Wand zwischen Mittelschiff und Seitenschiff bei Z ±17 bis ±21 von Y 99 bis 123. Sie ruht auf den Kapitellen und hat vier flache Bögen: drei zwischen den Pfeilern und einen längeren im Joch 4. Der Bogenring aus glattem Stein wechselt mit Keilsteinen aus Quarz und dunklem Prismarin; der Scheitel liegt bei Y 110.
+
+**Tipp**
+
+Beginne an den Kapitellen und arbeite dich Lage für Lage zur Bogenmitte vor. Die Keilsteine wechseln die Farbe von Stein zu Stein.
+
+**Achtung**
+
+Die Bögen sind sehr breit und flach. Zähle die Lage der Bogenmitte genau, sonst sitzt der Scheitel schief.
+
+**Fakt**
+
+Die Joche des Doms sind für eine gotische Kirche ungewöhnlich weit. Das Langhaus hat nur vier davon; im Modell ist jedes 19 Meter breit.
+
+### Schritt 1.64 – Gewölbe der Seitenschiffe – Teil 1/7 (Y 101–106)
+
+- **Y-Bereich:** 101 bis 106
+- **Blöcke:** 1.784
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.784 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.65 – Gewölbe der Seitenschiffe – Teil 2/7 (Y 107–107)
+
+- **Y-Bereich:** 107 bis 107
+- **Blöcke:** 1.152
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.152 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.66 – Gewölbe der Seitenschiffe – Teil 3/7 (Y 108–108)
+
+- **Y-Bereich:** 108 bis 108
+- **Blöcke:** 1.240
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.240 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.67 – Gewölbe der Seitenschiffe – Teil 4/7 (Y 108–108)
+
+- **Y-Bereich:** 108 bis 108
+- **Blöcke:** 1.244
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.244 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.68 – Gewölbe der Seitenschiffe – Teil 5/7 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.848
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.848 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.69 – Gewölbe der Seitenschiffe – Teil 6/7 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.844
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.844 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.70 – Gewölbe der Seitenschiffe – Teil 7/7 (Y 110–110)
+
+- **Y-Bereich:** 110 bis 110
+- **Blöcke:** 1.900
+- **Bauteile:** `seitenschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.900 |
+
+**Beschreibung**
+
+Du wölbst die Seitenschiffe zwischen Z 22 und 38 (und −38 bis −22) mit Kreuzgewölben ab Y 99. Die Gewölbe sind zwei Blöcke dick und erreichen bei Y 110 ihren höchsten Punkt. Über jeder Pfeilerachse liegt ein Gurtbogen, zwei Blöcke breit; alles besteht aus glattem Stein.
+
+**Tipp**
+
+Baue von den Kapitellen nach oben und achte darauf, dass jede Lage an der vorigen anliegt. Zuerst die Gurtbögen, dann die Felder dazwischen.
+
+**Achtung**
+
+Die Gewölbe müssen an der Arkadenwand und an der Außenwand anliegen. Lass keine Lücken zu den Wänden.
+
+**Fakt**
+
+Schon Arnolfo di Cambio, der 1296 den Grundstein legte, plante eine Kirche mit einem Mittelschiff und zwei Seitenschiffen.
+
+### Schritt 1.71 – Hochschiffwand mit Rundfenstern – Teil 1/13 (Y 124–125)
+
+- **Y-Bereich:** 124 bis 125
+- **Blöcke:** 1.896
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 632 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Quarzblock | `smooth_quartz` | 504 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Polierter Granit | `polished_granite` | 64 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.72 – Hochschiffwand mit Rundfenstern – Teil 2/13 (Y 126–127)
+
+- **Y-Bereich:** 126 bis 127
+- **Blöcke:** 1.896
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 632 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Quarzblock | `smooth_quartz` | 568 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.73 – Hochschiffwand mit Rundfenstern – Teil 3/13 (Y 128–128)
+
+- **Y-Bereich:** 128 bis 128
+- **Blöcke:** 948
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 276 |
+| Steinziegel | `stone_bricks` | 276 |
+| Glatter Quarzblock | `smooth_quartz` | 246 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 120 |
+| Dunkler Prismarin | `dark_prismarine` | 30 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.74 – Hochschiffwand mit Rundfenstern – Teil 4/13 (Y 129–130)
+
+- **Y-Bereich:** 129 bis 130
+- **Blöcke:** 1.704
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 472 |
+| Steinziegel | `stone_bricks` | 472 |
+| Dunkler Prismarin | `dark_prismarine` | 254 |
+| Glatter Quarzblock | `smooth_quartz` | 218 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 192 |
+| Oranges Buntglas | `orange_stained_glass` | 96 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.75 – Hochschiffwand mit Rundfenstern – Teil 5/13 (Y 131–132)
+
+- **Y-Bereich:** 131 bis 132
+- **Blöcke:** 1.576
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 440 |
+| Steinziegel | `stone_bricks` | 440 |
+| Glatter Quarzblock | `smooth_quartz` | 398 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Oranges Buntglas | `orange_stained_glass` | 96 |
+| Gelbes Buntglas | `yellow_stained_glass` | 64 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.76 – Hochschiffwand mit Rundfenstern – Teil 6/13 (Y 133–134)
+
+- **Y-Bereich:** 133 bis 134
+- **Blöcke:** 1.544
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 424 |
+| Steinziegel | `stone_bricks` | 424 |
+| Glatter Quarzblock | `smooth_quartz` | 384 |
+| Gelbes Buntglas | `yellow_stained_glass` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Oranges Buntglas | `orange_stained_glass` | 64 |
+| Dunkler Prismarin | `dark_prismarine` | 40 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.77 – Hochschiffwand mit Rundfenstern – Teil 7/13 (Y 135–136)
+
+- **Y-Bereich:** 135 bis 136
+- **Blöcke:** 1.544
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 424 |
+| Steinziegel | `stone_bricks` | 424 |
+| Glatter Quarzblock | `smooth_quartz` | 352 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Gelbes Buntglas | `yellow_stained_glass` | 96 |
+| Oranges Buntglas | `orange_stained_glass` | 80 |
+| Dunkler Prismarin | `dark_prismarine` | 40 |
+| Polierter Granit | `polished_granite` | 32 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.78 – Hochschiffwand mit Rundfenstern – Teil 8/13 (Y 137–138)
+
+- **Y-Bereich:** 137 bis 138
+- **Blöcke:** 1.640
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 456 |
+| Steinziegel | `stone_bricks` | 456 |
+| Glatter Quarzblock | `smooth_quartz` | 380 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 144 |
+| Oranges Buntglas | `orange_stained_glass` | 104 |
+| Dunkler Prismarin | `dark_prismarine` | 44 |
+| Polierter Granit | `polished_granite` | 32 |
+| Gelbes Buntglas | `yellow_stained_glass` | 24 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.79 – Hochschiffwand mit Rundfenstern – Teil 9/13 (Y 139–140)
+
+- **Y-Bereich:** 139 bis 140
+- **Blöcke:** 1.816
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 520 |
+| Steinziegel | `stone_bricks` | 520 |
+| Glatter Quarzblock | `smooth_quartz` | 464 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 216 |
+| Dunkler Prismarin | `dark_prismarine` | 56 |
+| Oranges Buntglas | `orange_stained_glass` | 40 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.80 – Hochschiffwand mit Rundfenstern – Teil 10/13 (Y 141–142)
+
+- **Y-Bereich:** 141 bis 142
+- **Blöcke:** 1.896
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 632 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Quarzblock | `smooth_quartz` | 568 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.81 – Hochschiffwand mit Rundfenstern – Teil 11/13 (Y 143–144)
+
+- **Y-Bereich:** 143 bis 144
+- **Blöcke:** 1.896
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 632 |
+| Steinziegel | `stone_bricks` | 632 |
+| Dunkler Prismarin | `dark_prismarine` | 348 |
+| Glatter Quarzblock | `smooth_quartz` | 284 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.82 – Hochschiffwand mit Rundfenstern – Teil 12/13 (Y 145–146)
+
+- **Y-Bereich:** 145 bis 146
+- **Blöcke:** 1.896
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 632 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Quarzblock | `smooth_quartz` | 568 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.83 – Hochschiffwand mit Rundfenstern – Teil 13/13 (Y 147–148)
+
+- **Y-Bereich:** 147 bis 148
+- **Blöcke:** 1.896
+- **Bauteile:** `hochschiffwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 632 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Quarzblock | `smooth_quartz` | 552 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Polierter Granit | `polished_granite` | 16 |
+
+**Beschreibung**
+
+Du erhöhst die Wand über den Arkaden: drei Blöcke dick bei Z ±18 bis ±20, von Y 124 bis 148 und von X −212 bis −55. In jedem Joch (X −193, −155, −117, −76) sitzt ein Rundfenster mit Radius 5 in Höhe Y 134, gelb im Kern und orange im Ring. Der Rahmen besteht aus gemeißeltem Quarz, die Außenseite aus Inkrustation.
+
+**Tipp**
+
+Baue das Fenster als Kreis: Zuerst die Öffnung freilassen, dann den Rahmenring und zuletzt das Glas in der Mitte der Wand.
+
+**Achtung**
+
+Der Kreis ist nur an der richtigen Stelle rund, wenn du den Mittelpunkt (Y 134) genau triffst. Zähle von Y 129 bis 139.
+
+**Fakt**
+
+Der Obergaden des Doms hat Rundfenster, die „Okuli“, und keine hohen Spitzbogenfenster. Das unterscheidet den Dom von vielen Kathedralen nördlich der Alpen.
+
+### Schritt 1.84 – Gewölbe des Mittelschiffs – Teil 1/10 (Y 128–138)
+
+- **Y-Bereich:** 128 bis 138
+- **Blöcke:** 1.264
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 680 |
+| Polierter Andesit | `polished_andesite` | 584 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.85 – Gewölbe des Mittelschiffs – Teil 2/10 (Y 139–141)
+
+- **Y-Bereich:** 139 bis 141
+- **Blöcke:** 1.070
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 864 |
+| Polierter Andesit | `polished_andesite` | 206 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.86 – Gewölbe des Mittelschiffs – Teil 3/10 (Y 142–143)
+
+- **Y-Bereich:** 142 bis 143
+- **Blöcke:** 1.368
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.132 |
+| Polierter Andesit | `polished_andesite` | 236 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.87 – Gewölbe des Mittelschiffs – Teil 4/10 (Y 144–144)
+
+- **Y-Bereich:** 144 bis 144
+- **Blöcke:** 982
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 828 |
+| Polierter Andesit | `polished_andesite` | 154 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.88 – Gewölbe des Mittelschiffs – Teil 5/10 (Y 145–145)
+
+- **Y-Bereich:** 145 bis 145
+- **Blöcke:** 1.228
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.080 |
+| Polierter Andesit | `polished_andesite` | 148 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.89 – Gewölbe des Mittelschiffs – Teil 6/10 (Y 146–146)
+
+- **Y-Bereich:** 146 bis 146
+- **Blöcke:** 1.432
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.228 |
+| Polierter Andesit | `polished_andesite` | 204 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.90 – Gewölbe des Mittelschiffs – Teil 7/10 (Y 147–147)
+
+- **Y-Bereich:** 147 bis 147
+- **Blöcke:** 1.114
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 968 |
+| Polierter Andesit | `polished_andesite` | 146 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.91 – Gewölbe des Mittelschiffs – Teil 8/10 (Y 147–147)
+
+- **Y-Bereich:** 147 bis 147
+- **Blöcke:** 1.107
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 980 |
+| Polierter Andesit | `polished_andesite` | 127 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.92 – Gewölbe des Mittelschiffs – Teil 9/10 (Y 148–148)
+
+- **Y-Bereich:** 148 bis 148
+- **Blöcke:** 1.974
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.742 |
+| Polierter Andesit | `polished_andesite` | 232 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.93 – Gewölbe des Mittelschiffs – Teil 10/10 (Y 149–149)
+
+- **Y-Bereich:** 149 bis 149
+- **Blöcke:** 328
+- **Bauteile:** `mittelschiff_gewoelbe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 294 |
+| Polierter Andesit | `polished_andesite` | 34 |
+
+**Beschreibung**
+
+Du wölbst das Mittelschiff zwischen Z −17 und 17 ab Y 124 mit vier Kreuzgewölben, die bei Y 149 enden. Über jeder Pfeilerachse (X −174, −136, −98) liegt ein Gurtbogen, drei Blöcke breit, aus poliertem Andesit; auch die Grate sind aus Andesit, die Felder aus glattem Stein.
+
+**Tipp**
+
+Baue wieder von den Rändern zur Mitte hin. Die Gurtbögen helfen dir, die Joche nicht zu verwechseln.
+
+**Achtung**
+
+Das Gewölbe darf nicht höher als Y 149 werden, denn darüber beginnt das Dach.
+
+**Fakt**
+
+Das Mittelschiff des Doms ist innen etwa 43 bis 45 Meter hoch. Im Modell entspricht das Y 150.
+
+### Schritt 1.94 – Kranzgesimse – Teil 1/3 (Y 115–115)
+
+- **Y-Bereich:** 115 bis 115
+- **Blöcke:** 1.106
+- **Bauteile:** `gesimse`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Quarzziegel | `quartz_bricks` | 1.106 |
+
+**Beschreibung**
+
+Du setzt zwei Gesimse aus Quarzziegeln: eines auf den Seitenschiffwänden bei Y 115 (Z ±39 bis ±45) und eines auf der Hochschiffwand bei Y 149 (Z ±18 bis ±21). Sie springen einen Block über die Mauer vor und tragen später die Dächer.
+
+**Tipp**
+
+Das Gesims ist nur eine Lage hoch, aber über die ganze Länge von X −212 bis −55. Arbeite in langen Bahnen.
+
+**Achtung**
+
+Das untere Gesims reicht bis Z ±45 und liegt damit einen Block weiter außen als die Lisenen.
+
+**Fakt**
+
+Die heutige Westfassade ist neugotisch. Sie wurde nach einem Entwurf von Emilio De Fabris gebaut und 1887 fertig.
+
+### Schritt 1.95 – Kranzgesimse – Teil 2/3 (Y 115–115)
+
+- **Y-Bereich:** 115 bis 115
+- **Blöcke:** 1.106
+- **Bauteile:** `gesimse`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Quarzziegel | `quartz_bricks` | 1.106 |
+
+**Beschreibung**
+
+Du setzt zwei Gesimse aus Quarzziegeln: eines auf den Seitenschiffwänden bei Y 115 (Z ±39 bis ±45) und eines auf der Hochschiffwand bei Y 149 (Z ±18 bis ±21). Sie springen einen Block über die Mauer vor und tragen später die Dächer.
+
+**Tipp**
+
+Das Gesims ist nur eine Lage hoch, aber über die ganze Länge von X −212 bis −55. Arbeite in langen Bahnen.
+
+**Achtung**
+
+Das untere Gesims reicht bis Z ±45 und liegt damit einen Block weiter außen als die Lisenen.
+
+**Fakt**
+
+Die heutige Westfassade ist neugotisch. Sie wurde nach einem Entwurf von Emilio De Fabris gebaut und 1887 fertig.
+
+### Schritt 1.96 – Kranzgesimse – Teil 3/3 (Y 149–149)
+
+- **Y-Bereich:** 149 bis 149
+- **Blöcke:** 1.264
+- **Bauteile:** `gesimse`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Quarzziegel | `quartz_bricks` | 1.264 |
+
+**Beschreibung**
+
+Du setzt zwei Gesimse aus Quarzziegeln: eines auf den Seitenschiffwänden bei Y 115 (Z ±39 bis ±45) und eines auf der Hochschiffwand bei Y 149 (Z ±18 bis ±21). Sie springen einen Block über die Mauer vor und tragen später die Dächer.
+
+**Tipp**
+
+Das Gesims ist nur eine Lage hoch, aber über die ganze Länge von X −212 bis −55. Arbeite in langen Bahnen.
+
+**Achtung**
+
+Das untere Gesims reicht bis Z ±45 und liegt damit einen Block weiter außen als die Lisenen.
+
+**Fakt**
+
+Die heutige Westfassade ist neugotisch. Sie wurde nach einem Entwurf von Emilio De Fabris gebaut und 1887 fertig.
+
+### Schritt 1.97 – Pultdächer der Seitenschiffe – Teil 1/7 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.580
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.580 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.98 – Pultdächer der Seitenschiffe – Teil 2/7 (Y 117–117)
+
+- **Y-Bereich:** 117 bis 117
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.99 – Pultdächer der Seitenschiffe – Teil 3/7 (Y 118–118)
+
+- **Y-Bereich:** 118 bis 118
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.100 – Pultdächer der Seitenschiffe – Teil 4/7 (Y 119–119)
+
+- **Y-Bereich:** 119 bis 119
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.101 – Pultdächer der Seitenschiffe – Teil 5/7 (Y 120–120)
+
+- **Y-Bereich:** 120 bis 120
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.102 – Pultdächer der Seitenschiffe – Teil 6/7 (Y 121–121)
+
+- **Y-Bereich:** 121 bis 121
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.103 – Pultdächer der Seitenschiffe – Teil 7/7 (Y 122–123)
+
+- **Y-Bereich:** 122 bis 123
+- **Blöcke:** 1.580
+- **Bauteile:** `dach_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.580 |
+
+**Beschreibung**
+
+Du deckst die Seitenschiffe mit je einem Pultdach aus Terrakotta. Es steigt von Y 116 an der Außenwand (Z ±44) auf Y 123 an der Hochschiffwand (Z ±22). Die Dachfläche ist einen Block stark und lückenlos, von X −212 bis −55.
+
+**Tipp**
+
+Beginne unten am Gesims und steige Block für Block zur Hochschiffwand hinauf. Schau von der Seite, ob die Fläche gerade bleibt.
+
+**Achtung**
+
+Das Dach muss dicht sein. Jede Stufe liegt an der nächsten an, sonst entsteht ein Loch.
+
+**Fakt**
+
+Impruneta, ein Ort südlich von Florenz, ist seit Jahrhunderten für seine Terrakotta berühmt. Terrakotta aus Impruneta ist bis heute ein bekanntes Baumaterial der Toskana.
+
+### Schritt 1.104 – Satteldach des Mittelschiffs – Teil 1/6 (Y 150–150)
+
+- **Y-Bereich:** 150 bis 150
+- **Blöcke:** 1.580
+- **Bauteile:** `dach_mittelschiff`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.580 |
+
+**Beschreibung**
+
+Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.
+
+**Tipp**
+
+Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.
+
+**Achtung**
+
+Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.
+
+**Fakt**
+
+Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.
+
+### Schritt 1.105 – Satteldach des Mittelschiffs – Teil 2/6 (Y 151–151)
+
+- **Y-Bereich:** 151 bis 151
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_mittelschiff`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.
+
+**Tipp**
+
+Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.
+
+**Achtung**
+
+Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.
+
+**Fakt**
+
+Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.
+
+### Schritt 1.106 – Satteldach des Mittelschiffs – Teil 3/6 (Y 152–152)
+
+- **Y-Bereich:** 152 bis 152
+- **Blöcke:** 1.580
+- **Bauteile:** `dach_mittelschiff`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.580 |
+
+**Beschreibung**
+
+Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.
+
+**Tipp**
+
+Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.
+
+**Achtung**
+
+Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.
+
+**Fakt**
+
+Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.
+
+### Schritt 1.107 – Satteldach des Mittelschiffs – Teil 4/6 (Y 153–153)
+
+- **Y-Bereich:** 153 bis 153
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_mittelschiff`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.
+
+**Tipp**
+
+Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.
+
+**Achtung**
+
+Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.
+
+**Fakt**
+
+Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.
+
+### Schritt 1.108 – Satteldach des Mittelschiffs – Teil 5/6 (Y 154–154)
+
+- **Y-Bereich:** 154 bis 154
+- **Blöcke:** 1.580
+- **Bauteile:** `dach_mittelschiff`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.580 |
+
+**Beschreibung**
+
+Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.
+
+**Tipp**
+
+Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.
+
+**Achtung**
+
+Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.
+
+**Fakt**
+
+Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.
+
+### Schritt 1.109 – Satteldach des Mittelschiffs – Teil 6/6 (Y 155–156)
+
+- **Y-Bereich:** 155 bis 156
+- **Blöcke:** 1.264
+- **Bauteile:** `dach_mittelschiff`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.264 |
+
+**Beschreibung**
+
+Du schließt das Langhaus mit einem Satteldach aus Terrakotta. Die Traufe liegt bei Y 150 über dem Gesims (Z ±21), der First bei Y 156 über der Längsachse (Z 0). Das Dach reicht von X −212 bis −55 und stößt im Westen an die Fassade, im Osten an die Vierung.
+
+**Tipp**
+
+Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.
+
+**Achtung**
+
+Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.
+
+**Fakt**
+
+Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.

@@ -1,204 +1,1402 @@
-# 🚪 Schritt-für-Schritt Bauanleitung: Modul 8: Baptisterium San Giovanni
-## Cathedral of Santa Maria del Fiore (Florenz) • Meisterbauer-Bauanleitung für Minecraft
+<!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-> **Das achteckige Taufhaus mit Paradiespforte und Goldmosaikkuppel (Y=64 bis Y=120)**
->
-> ⚠️ **Wichtiger Hinweis:** Alle Blockangaben und Koordinaten sind **100 % mathematisch exakt berechnet**. Keine Schätzungen oder Annäherungen!
+# Bauanleitung Modul 8: Baptisterium San Giovanni
 
----
+*Bautüte 8: Das achteckige Taufhaus aus grünem und weißem Marmor – mit Portalen, Kuppel und Laterne*
 
-## 📊 Übersicht Modul 8
+## Übersicht
 
-- **Gesamtzahl Bauschritte:** **17 Bauschritte**
-- **Gesamtzahl Blöcke:** **34.103 Blöcke**
-- **Größter Einzelschritt:** **2.605 Blöcke**
+| Kennzahl | Wert |
+| :--- | :--- |
+| Blöcke | 62.641 |
+| Bauschritte | 43 |
+| Y-Bereich | 65 bis 138 |
+| X-Ausdehnung | -347 bis -273 (75 Blöcke) |
+| Z-Ausdehnung | -34 bis 34 (69 Blöcke) |
+| Kleinster Schritt | 594 Blöcke (Schritt 8.14) |
+| Mittlerer Schritt | 1.457 Blöcke |
+| Größter Schritt | 2.070 Blöcke (Schritt 8.9) |
 
-### 📦 Stückliste (Bill of Materials)
+## Gesamt-Stückliste
 
-| Block-Typ (Minecraft ID) | Exakte Anzahl | Anteil |
-| :--- | :--- | :--- |
-| `stone_bricks` | **16.295x** | 47.8 % |
-| `smooth_quartz` | **7.158x** | 21.0 % |
-| `dark_prismarine` | **5.408x** | 15.9 % |
-| `calcite` | **2.688x** | 7.9 % |
-| `gold_block` | **1.630x** | 4.8 % |
-| `yellow_stained_glass` | **674x** | 2.0 % |
-| `polished_granite` | **113x** | 0.3 % |
-| `red_sandstone` | **76x** | 0.2 % |
-| `sea_lantern` | **61x** | 0.2 % |
-| **GESAMT** | **34.103 Blöcke** | 100,0 % |
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Steinziegel | `stone_bricks` | 27.751 | 44,3 % |
+| Glatter Quarzblock | `smooth_quartz` | 13.982 | 22,3 % |
+| Glatter Stein | `smooth_stone` | 9.389 | 15,0 % |
+| Dunkler Prismarin | `dark_prismarine` | 5.354 | 8,5 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 1.949 | 3,1 % |
+| Goldblock | `gold_block` | 1.165 | 1,9 % |
+| Quarzziegel | `quartz_bricks` | 720 | 1,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 552 | 0,9 % |
+| Geschnittener Kupferblock | `cut_copper` | 498 | 0,8 % |
+| Weißes Buntglas | `white_stained_glass` | 481 | 0,8 % |
+| Terrakotta | `terracotta` | 378 | 0,6 % |
+| Blaue Keramik | `blue_terracotta` | 336 | 0,5 % |
+| Quarzsäule | `quartz_pillar` | 56 | 0,1 % |
+| Polierter Granit | `polished_granite` | 30 | 0,0 % |
 
----
+## Bauteile in Bau-Reihenfolge
 
-## 🧱 Die 17 Bauschritte im Detail
+| Nr. | Bauteil | Titel | Blöcke | Schritte |
+| ---: | :--- | :--- | ---: | :--- |
+| 1 | `sockel_und_untergeschoss` | Sockel und Untergeschoss | 19.795 | 8.1–8.13 |
+| 2 | `portale` | Portale mit Türblättern | 594 | 8.14 |
+| 3 | `scarsella` | Scarsella (Anbau im Westen) | 3.347 | 8.15–8.16 |
+| 4 | `obergeschoss` | Obergeschoss mit Fenstern | 19.784 | 8.17–8.31 |
+| 5 | `attika` | Attika mit Streifen | 10.160 | 8.32–8.37 |
+| 6 | `innenkuppel` | Innenkuppel mit Mosaik | 4.244 | 8.38–8.40 |
+| 7 | `pyramidendach` | Pyramidendach | 4.480 | 8.41–8.43 |
+| 8 | `laterne` | Laterne | 237 | 8.43 |
 
-### Schritt 8.1: Das massive Marmor-Podest: Stufe 1 (Y=65)
-- **Neu verbaute Blöcke:** **2.605 Blöcke**
-- **Höhenbereich:** **Y = 65 bis Y = 65**
-- **Ausdehnung:** X = [-252 .. -198], Z = [-27 .. 27]
-- **Benötigte Materialien:** `dark_prismarine`: 216x, `stone_bricks`: 2389x
-- **Bauanweisung:** Lege die unterste, weit auskragende Fundamentstufe des Baptisteriums vollflächig aus massivem Steinquadern mit dunkelgrünem Prismarin-Rand an.
-- 💡 **Meister-Tipp:** Das massive Fundament trägt das gesamte tonnenschwere romanische Bauwerk.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die exakte Achtecksymmetrie an allen 8 Ecken.
-- 🎨 **Wusstest du schon?** Florentiner Antike: Das Baptisterium wurde über den Fundamenten eines römischen Mars-Tempels aus dem 1. Jahrhundert erbaut!
+## Bauschritte
 
-### Schritt 8.2: Das massive Marmor-Podest: Stufe 2 (Y=66)
-- **Neu verbaute Blöcke:** **2.389 Blöcke**
-- **Höhenbereich:** **Y = 66 bis Y = 66**
-- **Ausdehnung:** X = [-251 .. -199], Z = [-26 .. 26]
-- **Benötigte Materialien:** `smooth_quartz`: 208x, `stone_bricks`: 2181x
-- **Bauanweisung:** Mauere die zweite Podeststufe mit strahlend weißem Carrara-Marmor-Rand und massivem Steinziegelkern auf.
-- 💡 **Meister-Tipp:** Die Stufe springt um genau 1 Block gegenüber der Vorstufe zurück.
-- ⚠️ **Meisterbauer-Achtung:** Der Kern muss vollkommen hohlraumfrei gemauert werden.
-- 🎨 **Wusstest du schon?** Dante Alighieri: Hier wurde der Schöpfer der Göttlichen Komödie am Karsamstag 1266 feierlich getauft.
+### Schritt 8.1 – Sockel und Untergeschoss – Teil 1/13 (Y 65–65)
 
-### Schritt 8.3: Das massive Marmor-Podest: Stufe 3 (Y=67)
-- **Neu verbaute Blöcke:** **2.181 Blöcke**
-- **Höhenbereich:** **Y = 67 bis Y = 67**
-- **Ausdehnung:** X = [-250 .. -200], Z = [-25 .. 25]
-- **Benötigte Materialien:** `dark_prismarine`: 200x, `stone_bricks`: 1981x
-- **Bauanweisung:** Vollende den massiven Steinsockel mit der dritten Stufe aus grünem Prismarin und Steinziegeln als plane Ebene für das Mosaik.
-- 💡 **Meister-Tipp:** Auf dieser Ebene liegt das Fundament genau 3 Blöcke über dem Niveau der Piazza.
-- ⚠️ **Meisterbauer-Achtung:** Prüfe die waagerechte Ebene ringsherum.
-- 🎨 **Wusstest du schon?** Achteckige Geometrie: Die Zahl 8 steht für Auferstehung und Ewigkeit.
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.280
+- **Bauteile:** `sockel_und_untergeschoss`
 
-### Schritt 8.4: Das Kosmaten-Bodenmosaik (Y=68)
-- **Neu verbaute Blöcke:** **1.981 Blöcke**
-- **Höhenbereich:** **Y = 68 bis Y = 68**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `smooth_quartz`: 1008x, `dark_prismarine`: 860x, `polished_granite`: 113x
-- **Bauanweisung:** Verlege das weltberühmte Kosmaten-Mosaik aus weißem Quarz, grünem Prismarin und rotem Granit auf der vollkommen massiven Steinterrasse.
-- 💡 **Meister-Tipp:** Das geometrische Mosaik bildet das Herzstück des Kircheninneren.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die konzentrischen Farbringe.
-- 🎨 **Wusstest du schon?** Kosmaten-Kunst: Nur die reichsten Städte Italiens konnten sich die teuren Marmormosaike leisten.
+**Teileliste**
 
-### Schritt 8.5: Erdgeschoss: Sockelzone & Halbsäulenbasen (Y=69 bis Y=75)
-- **Neu verbaute Blöcke:** **2.338 Blöcke**
-- **Höhenbereich:** **Y = 69 bis Y = 75**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `calcite`: 171x, `stone_bricks`: 1141x, `dark_prismarine`: 684x, `smooth_quartz`: 342x
-- **Bauanweisung:** Ziehe die romanischen Außenwände von Y=69 bis Y=75 mit zweifarbiger Marmorinkrustation hoch.
-- 💡 **Meister-Tipp:** Die drei Portale im Osten, Norden und Süden bleiben offen.
-- ⚠️ **Meisterbauer-Achtung:** Die Wände sind durchgehend 2 Blöcke dick.
-- 🎨 **Wusstest du schon?** Florentiner Marmorkunst: Weißer Carrara-Marmor und grüner Serpentin aus Prato.
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 810 |
+| Dunkler Prismarin | `dark_prismarine` | 196 |
+| Glatter Stein | `smooth_stone` | 134 |
+| Glatter Quarzblock | `smooth_quartz` | 108 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 32 |
 
-### Schritt 8.6: Erdgeschoss: Marmor-Inkrustation & Bogenzonen (Y=76 bis Y=82)
-- **Neu verbaute Blöcke:** **2.338 Blöcke**
-- **Höhenbereich:** **Y = 76 bis Y = 82**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `smooth_quartz`: 684x, `stone_bricks`: 1141x, `dark_prismarine`: 513x
-- **Bauanweisung:** Führe die Wände von Y=76 bis Y=82 weiter. An der Außenseite entstehen die Rundbogenarkaden.
-- 💡 **Meister-Tipp:** Das Hell-Dunkel-Muster gibt dem Oktogon seine klassische Rhythmik.
-- ⚠️ **Meisterbauer-Achtung:** Halte die Portalöffnungen sauber geradlinig.
-- 🎨 **Wusstest du schon?** Dantes bel San Giovanni: Im Inferno besingt Dante dieses Baptisterium mit tiefem Heimweh.
+**Beschreibung**
 
-### Schritt 8.7: Erdgeschoss: Arkadenkämpfer & Hauptgesims (Y=83 bis Y=88)
-- **Neu verbaute Blöcke:** **2.172 Blöcke**
-- **Höhenbereich:** **Y = 83 bis Y = 88**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `dark_prismarine`: 555x, `stone_bricks`: 1062x, `smooth_quartz`: 363x, `calcite`: 192x
-- **Bauanweisung:** Schließe das Erdgeschoss mit dem umlaufenden Calcit-Hauptgesims auf Y=88 ab.
-- 💡 **Meister-Tipp:** Das weiße Gesims trennt das Erdgeschoss horizontal vom oberen Stockwerk.
-- ⚠️ **Meisterbauer-Achtung:** Über den Portalen schließen nun die Bogenstürze.
-- 🎨 **Wusstest du schon?** Antike Proportionen: Die Gliederung folgt Vorbildern aus dem antiken Rom.
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
 
-### Schritt 8.8: Die drei Prunkportale & Ghibertis Paradiespforte
-- **Neu verbaute Blöcke:** **672 Blöcke**
-- **Höhenbereich:** **Y = 69 bis Y = 84**
-- **Ausdehnung:** X = [-228 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `calcite`: 141x, `smooth_quartz`: 72x, `gold_block`: 105x, `stone_bricks`: 224x, `dark_prismarine`: 130x
-- **Bauanweisung:** Setze die drei Bronzeportale ein. An der Ostseite erstrahlt Lorenzo Ghibertis 'Porta del Paradiso' aus reinem Gold!
-- 💡 **Meister-Tipp:** Das Ostportal besteht aus massiven Goldblöcken.
-- ⚠️ **Meisterbauer-Achtung:** Die Bildfelder müssen exakt nach Osten zur Kathedrale zeigen.
-- 🎨 **Wusstest du schon?** Michelangelos Lob: Er nannte diese Tür würdig, die Pforte des Paradieses zu sein.
+**Tipp**
 
-### Schritt 8.9: Zweites Geschoss: Pilasterbasen (Y=89 bis Y=94)
-- **Neu verbaute Blöcke:** **2.256 Blöcke**
-- **Höhenbereich:** **Y = 89 bis Y = 94**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `calcite`: 192x, `stone_bricks`: 1104x, `smooth_quartz`: 580x, `dark_prismarine`: 380x
-- **Bauanweisung:** Errichte die Basis des zweiten Geschosses mit ionischen Pilastern aus weißem Quarz.
-- 💡 **Meister-Tipp:** Ionische Pilaster gliedern jede Achteckseite in drei Felder.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die Ausrichtung der Pilasterbasen.
-- 🎨 **Wusstest du schon?** Geometrische Perfektion: Jedes Feld folgt dem goldenen Schnitt.
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
 
-### Schritt 8.10: Zweites Geschoss: Rauten-Inkrustation (Y=95 bis Y=100)
-- **Neu verbaute Blöcke:** **2.256 Blöcke**
-- **Höhenbereich:** **Y = 95 bis Y = 100**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `smooth_quartz`: 696x, `dark_prismarine`: 306x, `stone_bricks`: 1104x, `calcite`: 150x
-- **Bauanweisung:** Gestalte die Rauten- und Rechteckfelder mit Calcit und dunklem Serpentin.
-- 💡 **Meister-Tipp:** Das Rautenmuster spiegelt die antike Inkrustation wider.
-- ⚠️ **Meisterbauer-Achtung:** Halte die Wandstärke von 2 Blöcken exakt ein.
-- 🎨 **Wusstest du schon?** Klassische Ordnung: Die Gliederung orientiert sich an römischen Vorbildern.
+**Achtung**
 
-### Schritt 8.11: Zweites Geschoss: Giebelarkaden & Fenster (Y=101 bis Y=106)
-- **Neu verbaute Blöcke:** **2.256 Blöcke**
-- **Höhenbereich:** **Y = 101 bis Y = 106**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `smooth_quartz`: 696x, `dark_prismarine`: 336x, `calcite`: 120x, `stone_bricks`: 1104x
-- **Bauanweisung:** Führe die Wandfelder mit den giebelbekrönten Fensteröffnungen hoch.
-- 💡 **Meister-Tipp:** Zarte Säulchen flankieren die Fensteröffnungen.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die vertikale Flucht der Pilaster.
-- 🎨 **Wusstest du schon?** Protorenaissance: Diese Architektur inspirierte Brunelleschi 200 Jahre später.
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
 
-### Schritt 8.12: Zweites Geschoss: Attika-Ansatz & Hauptgesims (Y=107 bis Y=112)
-- **Neu verbaute Blöcke:** **2.256 Blöcke**
-- **Höhenbereich:** **Y = 107 bis Y = 112**
-- **Ausdehnung:** X = [-249 .. -201], Z = [-24 .. 24]
-- **Benötigte Materialien:** `smooth_quartz`: 580x, `dark_prismarine`: 380x, `stone_bricks`: 1104x, `calcite`: 192x
-- **Bauanweisung:** Vollende das zweite Geschoss mit dem weit auskragenden Calcit-Hauptgesims auf Y=112.
-- 💡 **Meister-Tipp:** Auf Y=112 schließt die zweigeschossige Säulenordnung ab.
-- ⚠️ **Meisterbauer-Achtung:** Das Gesims kragt gleichmäßig nach außen aus.
-- 🎨 **Wusstest du schon?** Zwei Jahrhunderte Bauzeit: An dieser Verkleidung arbeiteten die Meister bis 1150.
+**Fakt**
 
-### Schritt 8.13: Das Attikageschoss: Sockel & Kassetten (Y=113 bis Y=117)
-- **Neu verbaute Blöcke:** **1.800 Blöcke**
-- **Höhenbereich:** **Y = 113 bis Y = 117**
-- **Ausdehnung:** X = [-248 .. -202], Z = [-23 .. 23]
-- **Benötigte Materialien:** `smooth_quartz`: 496x, `stone_bricks`: 880x, `dark_prismarine`: 424x
-- **Bauanweisung:** Setze den unteren Teil des zurückspringenden Attikageschosses mit geometrischen Kassettenfeldern auf.
-- 💡 **Meister-Tipp:** Das Attikageschoss springt um 1 Block gegenüber der Hauptwand zurück.
-- ⚠️ **Meisterbauer-Achtung:** Der Eckenbeschnitt liegt hier bei dx + dz <= 32.
-- 🎨 **Wusstest du schon?** Klassische Attika: Diente als optischer Puffer zwischen der Fassade und dem gewaltigen Dach.
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
 
-### Schritt 8.14: Das Attikageschoss: Dachauflager & Kranzleiste (Y=118 bis Y=122)
-- **Neu verbaute Blöcke:** **1.800 Blöcke**
-- **Höhenbereich:** **Y = 118 bis Y = 122**
-- **Ausdehnung:** X = [-248 .. -202], Z = [-23 .. 23]
-- **Benötigte Materialien:** `smooth_quartz`: 496x, `dark_prismarine`: 424x, `stone_bricks`: 880x
-- **Bauanweisung:** Vollende das Attikageschoss als plane Ebene für das Pyramidendach.
-- 💡 **Meister-Tipp:** Auf Y=122 schließt die Attikawand mit einer weißen Quarzleiste ab.
-- ⚠️ **Meisterbauer-Achtung:** Prüfe die waagerechte Ebene rundherum.
-- 🎨 **Wusstest du schon?** Präzise Geometrie: Auf dieser Kante ruht das gesamte Pyramidendach.
+### Schritt 8.2 – Sockel und Untergeschoss – Teil 2/13 (Y 66–67)
 
-### Schritt 8.15: Das achteckige Pyramidendach (Y=123 bis Y=132)
-- **Neu verbaute Blöcke:** **2.304 Blöcke**
-- **Höhenbereich:** **Y = 123 bis Y = 132**
-- **Ausdehnung:** X = [-248 .. -202], Z = [-23 .. 23]
-- **Benötigte Materialien:** `smooth_quartz`: 864x, `calcite`: 1440x
-- **Bauanweisung:** Decke das Baptisterium mit dem charakteristischen achteckigen Pyramidendach aus Calcit ein. Die 8 Grate werden von strahlend weißen Quarzrippen nachgezogen.
-- 💡 **Meister-Tipp:** Das Dach verjüngt sich pyramidenförmig bis zur Spitze.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die durchgehenden Quarzrippen an den Graten.
-- 🎨 **Wusstest du schon?** Verborgene Innenkuppel: Im Inneren wölbt sich eine gewaltige Kuppel!
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.804
+- **Bauteile:** `sockel_und_untergeschoss`
 
-### Schritt 8.16: Die weiße Marmorlaterne auf der Dachspitze (Höhe Y=135)
-- **Neu verbaute Blöcke:** **95 Blöcke**
-- **Höhenbereich:** **Y = 133 bis Y = 135**
-- **Ausdehnung:** X = [-229 .. -221], Z = [-4 .. 4]
-- **Benötigte Materialien:** `smooth_quartz`: 73x, `calcite`: 21x, `sea_lantern`: 1x
-- **Bauanweisung:** Kröne das Baptisterium auf Höhe Y=135 mit der eleganten Marmorlaterne und einer leuchtenden Seelaterne im Scheitelpunkt.
-- 💡 **Meister-Tipp:** Die Laterne bildet den glänzenden Abschluss des Außenbaus.
-- ⚠️ **Meisterbauer-Achtung:** Der Mittelpunkt liegt genau bei X=-225, Z=0.
-- 🎨 **Wusstest du schon?** 1150 vollendet: Als die Laterne aufgesetzt wurde, war das Bauwerk fertig!
+**Teileliste**
 
-### Schritt 8.17: Das weltberühmte byzantinische Decken-Goldmosaik (Y=114 bis Y=128)
-- **Neu verbaute Blöcke:** **2.404 Blöcke**
-- **Höhenbereich:** **Y = 114 bis Y = 128**
-- **Ausdehnung:** X = [-246 .. -204], Z = [-21 .. 21]
-- **Benötigte Materialien:** `gold_block`: 1525x, `yellow_stained_glass`: 674x, `calcite`: 69x, `red_sandstone`: 76x, `sea_lantern`: 60x
-- **Bauanweisung:** Vollende das Baptisterium mit dem monumentalen Goldmosaikgewölbe im Innenraum. Aus Goldblöcken, Calcit und bernsteinfarbenem Glas erstrahlt das Weltgericht mit dem kolossalen Christus Weltenrichter!
-- 💡 **Meister-Tipp:** Das Goldmosaik wölbt sich direkt über dem Kirchenraum.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die Christusfigur im Westsektor des Gewölbes.
-- 🎨 **Wusstest du schon?** Das Jüngste Gericht: Coppo di Marcovaldo und Cimabue schufen dieses Goldmosaik, das Dante zu seiner Hölle inspirierte!
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 924 |
+| Glatter Quarzblock | `smooth_quartz` | 492 |
+| Glatter Stein | `smooth_stone` | 268 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 64 |
+| Dunkler Prismarin | `dark_prismarine` | 56 |
 
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.3 – Sockel und Untergeschoss – Teil 3/13 (Y 68–70)
+
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.572
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 564 |
+| Glatter Stein | `smooth_stone` | 402 |
+| Steinziegel | `stone_bricks` | 342 |
+| Dunkler Prismarin | `dark_prismarine` | 168 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.4 – Sockel und Untergeschoss – Teil 4/13 (Y 71–73)
+
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.572
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 564 |
+| Glatter Stein | `smooth_stone` | 402 |
+| Steinziegel | `stone_bricks` | 342 |
+| Dunkler Prismarin | `dark_prismarine` | 168 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.5 – Sockel und Untergeschoss – Teil 5/13 (Y 74–76)
+
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.572
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 564 |
+| Glatter Stein | `smooth_stone` | 402 |
+| Steinziegel | `stone_bricks` | 342 |
+| Dunkler Prismarin | `dark_prismarine` | 168 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.6 – Sockel und Untergeschoss – Teil 6/13 (Y 77–77)
+
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 1.140
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 730 |
+| Glatter Quarzblock | `smooth_quartz` | 188 |
+| Glatter Stein | `smooth_stone` | 134 |
+| Dunkler Prismarin | `dark_prismarine` | 56 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 32 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.7 – Sockel und Untergeschoss – Teil 7/13 (Y 78–80)
+
+- **Y-Bereich:** 78 bis 80
+- **Blöcke:** 1.632
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 560 |
+| Glatter Stein | `smooth_stone` | 408 |
+| Steinziegel | `stone_bricks` | 408 |
+| Dunkler Prismarin | `dark_prismarine` | 168 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 88 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.8 – Sockel und Untergeschoss – Teil 8/13 (Y 81–82)
+
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 1.280
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 424 |
+| Glatter Quarzblock | `smooth_quartz` | 347 |
+| Glatter Stein | `smooth_stone` | 299 |
+| Dunkler Prismarin | `dark_prismarine` | 158 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 52 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.9 – Sockel und Untergeschoss – Teil 9/13 (Y 83–84)
+
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 2.070
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 823 |
+| Steinziegel | `stone_bricks` | 524 |
+| Glatter Stein | `smooth_stone` | 310 |
+| Dunkler Prismarin | `dark_prismarine` | 233 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 180 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.10 – Sockel und Untergeschoss – Teil 10/13 (Y 85–86)
+
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.584
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 656 |
+| Glatter Quarzblock | `smooth_quartz` | 400 |
+| Glatter Stein | `smooth_stone` | 400 |
+| Dunkler Prismarin | `dark_prismarine` | 128 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.11 – Sockel und Untergeschoss – Teil 11/13 (Y 87–88)
+
+- **Y-Bereich:** 87 bis 88
+- **Blöcke:** 1.584
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 656 |
+| Glatter Stein | `smooth_stone` | 400 |
+| Dunkler Prismarin | `dark_prismarine` | 328 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.12 – Sockel und Untergeschoss – Teil 12/13 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.748
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.284 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.13 – Sockel und Untergeschoss – Teil 13/13 (Y 90–90)
+
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 957
+- **Bauteile:** `sockel_und_untergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 328 |
+| Quarzziegel | `quartz_bricks` | 264 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 165 |
+
+**Beschreibung**
+
+Du mauerst das Achteck um den Mittelpunkt (−307 | 0), von Y 65 bis 90. Die Wand ist 9 Blöcke dick (Apothem 25 bis 33) und hohl gemauert: außen und innen je zwei Blöcke Schale, dazwischen ein leerer Kern. Jede der acht Flächen bekommt drei Blendarkaden, also Bögen, die nur als flache Nische in der Wand sitzen. Die Pfeiler dazwischen sind aus dunklem Prismarin, die Felder aus glattem Quarz. Auf Ost, Nord und Süd lässt du ein Portal frei (11 Blöcke breit, bis Y 82) mit einem 2 Blöcke breiten Marmorrahmen. Im Westen bleibt eine breite Öffnung zur Scarsella. Oben läuft ein Gesims, das einen Block vorspringt.
+
+**Tipp**
+
+Baue erst eine Fläche fertig und drehe sie dann um das Achteck. Alle Flächen sehen gleich aus, nur die Öffnungen unterscheiden sich. Alle 12 Lagen kommt eine ganz volle Lage, die die beiden Schalen zusammenbindet.
+
+**Achtung**
+
+Rund um die Portale und den Durchgang im Westen bleibt die Wand massiv, dort kommt kein hohler Kern hin. Das Gesims auf Y 90 setzt du im Westen nicht vor die Scarsella. Die Türblätter kommen erst im nächsten Bauteil.
+
+**Fakt**
+
+Das Baptisterium gehört zu den ältesten Gebäuden von Florenz. Es ist romanisch und wurde im 11. und 12. Jahrhundert mit grün-weißem Marmor verkleidet. Dante wurde hier getauft.
+
+### Schritt 8.14 – Portale mit Türblättern
+
+- **Y-Bereich:** 65 bis 82
+- **Blöcke:** 594
+- **Bauteile:** `portale`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Geschnittener Kupferblock | `cut_copper` | 498 |
+| Goldblock | `gold_block` | 96 |
+
+**Beschreibung**
+
+In die drei Portalöffnungen setzt du die Türblätter, jeweils nur einen Block dick, mitten in der Wand (11 Blöcke breit, Y 65 bis 82). Die Ostpforte bei X −278 ist aus Gold. Sie hat zehn Felder in zwei Spalten und fünf Reihen, getrennt durch Linien aus Kupfer. Die Türen im Norden (Z −29) und Süden (Z 29) sind ganz aus geschnittenem Kupfer.
+
+**Tipp**
+
+Zähle bei der Ostpforte zuerst die Kupferlinien: drei senkrechte und sechs waagerechte. Das Gold füllt danach genau die zehn Felder dazwischen.
+
+**Achtung**
+
+Die Türblätter stehen in der Mitte der Wand, nicht außen. Lass davor und dahinter die Nische offen, sonst sieht man den Rahmen nicht mehr.
+
+**Fakt**
+
+Die Südtür schuf Andrea Pisano im Jahr 1336. Die Nordtür fertigte Lorenzo Ghiberti nach einem berühmten Wettbewerb im Jahr 1401. Die Ostpforte nannte, so wird erzählt, Michelangelo „Paradiespforte“. Sie wurde 1452 vollendet. Die Türen am Gebäude sind heute Kopien, die Originale stehen im Museo dell'Opera del Duomo.
+
+### Schritt 8.15 – Scarsella (Anbau im Westen) – Teil 1/2 (Y 65–80)
+
+- **Y-Bereich:** 65 bis 80
+- **Blöcke:** 1.630
+- **Bauteile:** `scarsella`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 535 |
+| Glatter Stein | `smooth_stone` | 471 |
+| Glatter Quarzblock | `smooth_quartz` | 444 |
+| Dunkler Prismarin | `dark_prismarine` | 134 |
+| Weißes Buntglas | `white_stained_glass` | 25 |
+| Polierter Granit | `polished_granite` | 21 |
+
+**Beschreibung**
+
+Im Westen mauerst du den rechteckigen Anbau von X −347 bis −341 und Z −13 bis 13. Seine Wände sind 3 Blöcke dick: außen Marmorfelder, in der Mitte Steinziegel, innen glatter Stein. In der Westwand sitzt ein kleines Rundbogenfenster mit Glas. Das Dach ist ein Pultdach aus Terrakotta. Es steigt zum Achteck hin von Y 93 auf Y 100 an. Innen bleibt der Raum offen zum Baptisterium.
+
+**Tipp**
+
+Mauere die Wände Spalte für Spalte genau so hoch, bis das Dach darauf anschließt. Dann liegt jede Dachstufe fest auf der Wand.
+
+**Achtung**
+
+Die Scarsella steht nur auf dem Boden, der bis X −347 reicht. Lass den Durchgang zum Achteck frei: Er ist 19 Blöcke breit.
+
+**Fakt**
+
+Der rechteckige Anbau im Westen heißt Scarsella. Er wurde erst später an das ältere Achteck angebaut.
+
+### Schritt 8.16 – Scarsella (Anbau im Westen) – Teil 2/2 (Y 81–100)
+
+- **Y-Bereich:** 81 bis 100
+- **Blöcke:** 1.717
+- **Bauteile:** `scarsella`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 434 |
+| Glatter Stein | `smooth_stone` | 407 |
+| Glatter Quarzblock | `smooth_quartz` | 384 |
+| Terrakotta | `terracotta` | 378 |
+| Dunkler Prismarin | `dark_prismarine` | 89 |
+| Weißes Buntglas | `white_stained_glass` | 16 |
+| Polierter Granit | `polished_granite` | 9 |
+
+**Beschreibung**
+
+Im Westen mauerst du den rechteckigen Anbau von X −347 bis −341 und Z −13 bis 13. Seine Wände sind 3 Blöcke dick: außen Marmorfelder, in der Mitte Steinziegel, innen glatter Stein. In der Westwand sitzt ein kleines Rundbogenfenster mit Glas. Das Dach ist ein Pultdach aus Terrakotta. Es steigt zum Achteck hin von Y 93 auf Y 100 an. Innen bleibt der Raum offen zum Baptisterium.
+
+**Tipp**
+
+Mauere die Wände Spalte für Spalte genau so hoch, bis das Dach darauf anschließt. Dann liegt jede Dachstufe fest auf der Wand.
+
+**Achtung**
+
+Die Scarsella steht nur auf dem Boden, der bis X −347 reicht. Lass den Durchgang zum Achteck frei: Er ist 19 Blöcke breit.
+
+**Fakt**
+
+Der rechteckige Anbau im Westen heißt Scarsella. Er wurde erst später an das ältere Achteck angebaut.
+
+### Schritt 8.17 – Obergeschoss mit Fenstern – Teil 1/15 (Y 91–92)
+
+- **Y-Bereich:** 91 bis 92
+- **Blöcke:** 1.584
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 656 |
+| Glatter Quarzblock | `smooth_quartz` | 464 |
+| Glatter Stein | `smooth_stone` | 400 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.18 – Obergeschoss mit Fenstern – Teil 2/15 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 792
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 328 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.19 – Obergeschoss mit Fenstern – Teil 3/15 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.612
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.148 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.20 – Obergeschoss mit Fenstern – Teil 4/15 (Y 95–95)
+
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 1.612
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.148 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.21 – Obergeschoss mit Fenstern – Teil 5/15 (Y 96–96)
+
+- **Y-Bereich:** 96 bis 96
+- **Blöcke:** 1.012
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 624 |
+| Glatter Stein | `smooth_stone` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Weißes Buntglas | `white_stained_glass` | 60 |
+| Glatter Quarzblock | `smooth_quartz` | 56 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.22 – Obergeschoss mit Fenstern – Teil 6/15 (Y 97–97)
+
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.012
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 624 |
+| Glatter Stein | `smooth_stone` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Weißes Buntglas | `white_stained_glass` | 60 |
+| Glatter Quarzblock | `smooth_quartz` | 56 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.23 – Obergeschoss mit Fenstern – Teil 7/15 (Y 98–99)
+
+- **Y-Bereich:** 98 bis 99
+- **Blöcke:** 2.024
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.248 |
+| Glatter Stein | `smooth_stone` | 224 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 192 |
+| Dunkler Prismarin | `dark_prismarine` | 128 |
+| Weißes Buntglas | `white_stained_glass` | 120 |
+| Glatter Quarzblock | `smooth_quartz` | 112 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.24 – Obergeschoss mit Fenstern – Teil 8/15 (Y 100–100)
+
+- **Y-Bereich:** 100 bis 100
+- **Blöcke:** 1.012
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 624 |
+| Glatter Stein | `smooth_stone` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Weißes Buntglas | `white_stained_glass` | 60 |
+| Glatter Quarzblock | `smooth_quartz` | 56 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.25 – Obergeschoss mit Fenstern – Teil 9/15 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.148
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 760 |
+| Glatter Stein | `smooth_stone` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Weißes Buntglas | `white_stained_glass` | 60 |
+| Glatter Quarzblock | `smooth_quartz` | 56 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.26 – Obergeschoss mit Fenstern – Teil 10/15 (Y 102–102)
+
+- **Y-Bereich:** 102 bis 102
+- **Blöcke:** 1.012
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 624 |
+| Glatter Stein | `smooth_stone` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 96 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Weißes Buntglas | `white_stained_glass` | 60 |
+| Glatter Quarzblock | `smooth_quartz` | 56 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.27 – Obergeschoss mit Fenstern – Teil 11/15 (Y 103–103)
+
+- **Y-Bereich:** 103 bis 103
+- **Blöcke:** 1.396
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 896 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 192 |
+| Glatter Stein | `smooth_stone` | 168 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Glatter Quarzblock | `smooth_quartz` | 56 |
+| Weißes Buntglas | `white_stained_glass` | 20 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.28 – Obergeschoss mit Fenstern – Teil 12/15 (Y 104–104)
+
+- **Y-Bereich:** 104 bis 104
+- **Blöcke:** 1.612
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.128 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Glatter Quarzblock | `smooth_quartz` | 168 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 52 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.29 – Obergeschoss mit Fenstern – Teil 13/15 (Y 105–105)
+
+- **Y-Bereich:** 105 bis 105
+- **Blöcke:** 1.388
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 924 |
+| Glatter Stein | `smooth_stone` | 200 |
+| Glatter Quarzblock | `smooth_quartz` | 136 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 64 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.30 – Obergeschoss mit Fenstern – Teil 14/15 (Y 106–107)
+
+- **Y-Bereich:** 106 bis 107
+- **Blöcke:** 1.584
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 656 |
+| Glatter Stein | `smooth_stone` | 400 |
+| Glatter Quarzblock | `smooth_quartz` | 360 |
+| Dunkler Prismarin | `dark_prismarine` | 128 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 40 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.31 – Obergeschoss mit Fenstern – Teil 15/15 (Y 108–108)
+
+- **Y-Bereich:** 108 bis 108
+- **Blöcke:** 984
+- **Bauteile:** `obergeschoss`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Quarzziegel | `quartz_bricks` | 456 |
+| Steinziegel | `stone_bricks` | 328 |
+| Glatter Stein | `smooth_stone` | 200 |
+
+**Beschreibung**
+
+Von Y 91 bis 108 setzt du das zweite Geschoss. Auf jeder Fläche sitzen drei Fenster mit Rundbogen (3 Blöcke breit, Kämpfer Y 102), die du durch die ganze Wand frei lässt. Mitten in der Wand, auf ρ 29, setzt du eine Scheibe aus Glas ein. Die Fenster haben Rahmen aus gemeißeltem Quarz, das mittlere bekommt einen kleinen Giebel. Zwischen den Fenstern stehen wieder Pfeiler aus dunklem Prismarin. Ganz oben läuft ein Gesims.
+
+**Tipp**
+
+Die Pfeiler laufen von unten durch bis oben. Setze zuerst sie und die Rahmen, danach die Felder dazwischen.
+
+**Achtung**
+
+Die untersten Lagen über dem Gesims sind voll, damit die Schalen sicher aufliegen. Rund um die Fenster bleibt die Wand ebenfalls massiv.
+
+**Fakt**
+
+Dante nannte das Baptisterium „mio bel San Giovanni“ („mein schönes San Giovanni“). In diesem Taufhaus wurden früher alle Kinder von Florenz getauft.
+
+### Schritt 8.32 – Attika mit Streifen – Teil 1/6 (Y 109–110)
+
+- **Y-Bereich:** 109 bis 110
+- **Blöcke:** 1.584
+- **Bauteile:** `attika`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Dunkler Prismarin | `dark_prismarine` | 888 |
+| Glatter Stein | `smooth_stone` | 400 |
+| Steinziegel | `stone_bricks` | 296 |
+
+**Beschreibung**
+
+Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.
+
+**Tipp**
+
+Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.
+
+**Achtung**
+
+Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.
+
+**Fakt**
+
+Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana.
+
+### Schritt 8.33 – Attika mit Streifen – Teil 2/6 (Y 111–112)
+
+- **Y-Bereich:** 111 bis 112
+- **Blöcke:** 1.584
+- **Bauteile:** `attika`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 888 |
+| Glatter Stein | `smooth_stone` | 400 |
+| Steinziegel | `stone_bricks` | 296 |
+
+**Beschreibung**
+
+Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.
+
+**Tipp**
+
+Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.
+
+**Achtung**
+
+Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.
+
+**Fakt**
+
+Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana.
+
+### Schritt 8.34 – Attika mit Streifen – Teil 3/6 (Y 113–113)
+
+- **Y-Bereich:** 113 bis 113
+- **Blöcke:** 1.748
+- **Bauteile:** `attika`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.104 |
+| Dunkler Prismarin | `dark_prismarine` | 444 |
+| Glatter Stein | `smooth_stone` | 200 |
+
+**Beschreibung**
+
+Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.
+
+**Tipp**
+
+Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.
+
+**Achtung**
+
+Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.
+
+**Fakt**
+
+Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana.
+
+### Schritt 8.35 – Attika mit Streifen – Teil 4/6 (Y 114–114)
+
+- **Y-Bereich:** 114 bis 114
+- **Blöcke:** 1.748
+- **Bauteile:** `attika`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.104 |
+| Dunkler Prismarin | `dark_prismarine` | 444 |
+| Glatter Stein | `smooth_stone` | 200 |
+
+**Beschreibung**
+
+Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.
+
+**Tipp**
+
+Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.
+
+**Achtung**
+
+Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.
+
+**Fakt**
+
+Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana.
+
+### Schritt 8.36 – Attika mit Streifen – Teil 5/6 (Y 115–115)
+
+- **Y-Bereich:** 115 bis 115
+- **Blöcke:** 1.748
+- **Bauteile:** `attika`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.104 |
+| Glatter Quarzblock | `smooth_quartz` | 444 |
+| Glatter Stein | `smooth_stone` | 200 |
+
+**Beschreibung**
+
+Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.
+
+**Tipp**
+
+Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.
+
+**Achtung**
+
+Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.
+
+**Fakt**
+
+Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana.
+
+### Schritt 8.37 – Attika mit Streifen – Teil 6/6 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.748
+- **Bauteile:** `attika`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.104 |
+| Glatter Quarzblock | `smooth_quartz` | 444 |
+| Glatter Stein | `smooth_stone` | 200 |
+
+**Beschreibung**
+
+Das Dachgeschoss der Wand reicht von Y 109 bis 116. Die äußeren zwei Blöcke bekommst du als Streifen: abwechselnd zwei Lagen dunkler Prismarin und zwei Lagen glatter Quarz. Dahinter liegen Steinziegel und innen glatter Stein. Die obersten drei Lagen sind voll, denn darauf liegen später die Kuppel und das Dach.
+
+**Tipp**
+
+Beginne mit zwei Lagen dunkel und wechsle dann alle zwei Lagen. So hast du kaum Zählfehler.
+
+**Achtung**
+
+Die oberste Lage Y 116 muss rundum ganz geschlossen sein. Sie trägt gleich das Pyramidendach und die Innenkuppel.
+
+**Fakt**
+
+Der grüne Marmor kommt aus Prato und der weiße aus Carrara. Aus diesen beiden Steinen bestehen die Streifen vieler Kirchen in der Toskana.
+
+### Schritt 8.38 – Innenkuppel mit Mosaik – Teil 1/3 (Y 106–112)
+
+- **Y-Bereich:** 106 bis 112
+- **Blöcke:** 1.348
+- **Bauteile:** `innenkuppel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 784 |
+| Gelbe Keramik | `yellow_terracotta` | 388 |
+| Goldblock | `gold_block` | 176 |
+
+**Beschreibung**
+
+Im Inneren wölbst du die Kuppel von der Wand bis zum Auge. Sie ist 2 Blöcke dick und steigt von Y 106 an der Wand bis Y 125 an. In der Mitte bleibt das Auge offen (Abstand zur Mitte kleiner als 3). Die Unterseite trägt das Mosaik: Gold als Grund, dazu Ringe aus blauer und gelber Keramik. Die Grate zu den acht Ecken sind golden. Oben endet die Kuppel flach unter dem Dach.
+
+**Tipp**
+
+Baue Ring für Ring von außen nach innen. Die Zellen mit gleichem Abstand zur Mitte bilden einen Ring und haben dieselbe Farbe.
+
+**Achtung**
+
+Setze die Kuppel erst, wenn die Attika fertig ist, denn sie liegt auf der Wand auf. Lass das Auge in der Mitte wirklich frei.
+
+**Fakt**
+
+Die Kuppel des Baptisteriums ist innen mit Goldmosaiken bedeckt. Sie entstanden im 13. Jahrhundert und zeigen unter anderem das Jüngste Gericht mit einem riesigen Christus.
+
+### Schritt 8.39 – Innenkuppel mit Mosaik – Teil 2/3 (Y 113–119)
+
+- **Y-Bereich:** 113 bis 119
+- **Blöcke:** 1.624
+- **Bauteile:** `innenkuppel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 824 |
+| Goldblock | `gold_block` | 516 |
+| Blaue Keramik | `blue_terracotta` | 284 |
+
+**Beschreibung**
+
+Im Inneren wölbst du die Kuppel von der Wand bis zum Auge. Sie ist 2 Blöcke dick und steigt von Y 106 an der Wand bis Y 125 an. In der Mitte bleibt das Auge offen (Abstand zur Mitte kleiner als 3). Die Unterseite trägt das Mosaik: Gold als Grund, dazu Ringe aus blauer und gelber Keramik. Die Grate zu den acht Ecken sind golden. Oben endet die Kuppel flach unter dem Dach.
+
+**Tipp**
+
+Baue Ring für Ring von außen nach innen. Die Zellen mit gleichem Abstand zur Mitte bilden einen Ring und haben dieselbe Farbe.
+
+**Achtung**
+
+Setze die Kuppel erst, wenn die Attika fertig ist, denn sie liegt auf der Wand auf. Lass das Auge in der Mitte wirklich frei.
+
+**Fakt**
+
+Die Kuppel des Baptisteriums ist innen mit Goldmosaiken bedeckt. Sie entstanden im 13. Jahrhundert und zeigen unter anderem das Jüngste Gericht mit einem riesigen Christus.
+
+### Schritt 8.40 – Innenkuppel mit Mosaik – Teil 3/3 (Y 120–125)
+
+- **Y-Bereich:** 120 bis 125
+- **Blöcke:** 1.272
+- **Bauteile:** `innenkuppel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 680 |
+| Goldblock | `gold_block` | 376 |
+| Gelbe Keramik | `yellow_terracotta` | 164 |
+| Blaue Keramik | `blue_terracotta` | 52 |
+
+**Beschreibung**
+
+Im Inneren wölbst du die Kuppel von der Wand bis zum Auge. Sie ist 2 Blöcke dick und steigt von Y 106 an der Wand bis Y 125 an. In der Mitte bleibt das Auge offen (Abstand zur Mitte kleiner als 3). Die Unterseite trägt das Mosaik: Gold als Grund, dazu Ringe aus blauer und gelber Keramik. Die Grate zu den acht Ecken sind golden. Oben endet die Kuppel flach unter dem Dach.
+
+**Tipp**
+
+Baue Ring für Ring von außen nach innen. Die Zellen mit gleichem Abstand zur Mitte bilden einen Ring und haben dieselbe Farbe.
+
+**Achtung**
+
+Setze die Kuppel erst, wenn die Attika fertig ist, denn sie liegt auf der Wand auf. Lass das Auge in der Mitte wirklich frei.
+
+**Fakt**
+
+Die Kuppel des Baptisteriums ist innen mit Goldmosaiken bedeckt. Sie entstanden im 13. Jahrhundert und zeigen unter anderem das Jüngste Gericht mit einem riesigen Christus.
+
+### Schritt 8.41 – Pyramidendach – Teil 1/3 (Y 117–118)
+
+- **Y-Bereich:** 117 bis 118
+- **Blöcke:** 1.636
+- **Bauteile:** `pyramidendach`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 1.548 |
+| Dunkler Prismarin | `dark_prismarine` | 88 |
+
+**Beschreibung**
+
+Über der Attika erhebt sich das Dach als flache Achteckpyramide, nur 1 Block dick. Es beginnt bei Y 117 am äußeren Rand und steigt bis Y 126 an. Die Fläche ist glatter Quarz, die acht Grate sind dunkler Prismarin. In der Mitte bleibt das Auge offen. Auf dem Plateau außen herum setzt du später die Laterne auf.
+
+**Tipp**
+
+Das Dach steigt etwa 1 Block auf 3 Blöcke Weg. Jeder Ring ist eine Stufe höher als der äußere. So erkennst du Fehler sofort.
+
+**Achtung**
+
+Das Dach ist nur eine dünne Haut und liegt oben flächig auf der Kuppel. Setze es nach der Innenkuppel, sonst fehlt das Auflager.
+
+**Fakt**
+
+Von außen sieht man nur ein flaches Zeltdach, innen aber das Goldmosaik. Das Dach verdeckt die Kuppel, deshalb wirkt das Baptisterium von außen viel schlichter.
+
+### Schritt 8.42 – Pyramidendach – Teil 2/3 (Y 119–120)
+
+- **Y-Bereich:** 119 bis 120
+- **Blöcke:** 1.204
+- **Bauteile:** `pyramidendach`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 1.108 |
+| Dunkler Prismarin | `dark_prismarine` | 96 |
+
+**Beschreibung**
+
+Über der Attika erhebt sich das Dach als flache Achteckpyramide, nur 1 Block dick. Es beginnt bei Y 117 am äußeren Rand und steigt bis Y 126 an. Die Fläche ist glatter Quarz, die acht Grate sind dunkler Prismarin. In der Mitte bleibt das Auge offen. Auf dem Plateau außen herum setzt du später die Laterne auf.
+
+**Tipp**
+
+Das Dach steigt etwa 1 Block auf 3 Blöcke Weg. Jeder Ring ist eine Stufe höher als der äußere. So erkennst du Fehler sofort.
+
+**Achtung**
+
+Das Dach ist nur eine dünne Haut und liegt oben flächig auf der Kuppel. Setze es nach der Innenkuppel, sonst fehlt das Auflager.
+
+**Fakt**
+
+Von außen sieht man nur ein flaches Zeltdach, innen aber das Goldmosaik. Das Dach verdeckt die Kuppel, deshalb wirkt das Baptisterium von außen viel schlichter.
+
+### Schritt 8.43 – Pyramidendach – Teil 3/3 (Y 121–126) & Laterne
+
+- **Y-Bereich:** 121 bis 138
+- **Blöcke:** 1.877
+- **Bauteile:** `pyramidendach`, `laterne`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 1.536 |
+| Dunkler Prismarin | `dark_prismarine` | 256 |
+| Quarzsäule | `quartz_pillar` | 56 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 28 |
+| Goldblock | `gold_block` | 1 |
+
+**Beschreibung**
+
+Über der Attika erhebt sich das Dach als flache Achteckpyramide, nur 1 Block dick. Es beginnt bei Y 117 am äußeren Rand und steigt bis Y 126 an. Die Fläche ist glatter Quarz, die acht Grate sind dunkler Prismarin. In der Mitte bleibt das Auge offen. Auf dem Plateau außen herum setzt du später die Laterne auf. Als Krönung setzt du die Laterne auf das Dach. Auf dem Plateau stehen acht Säulen aus Quarz an den Ecken des kleinen Achtecks, Y 127 bis 133. Darüber liegt das Gebälk auf Y 134, ein volles Achteck. Zuletzt kommt der Kegel von Y 135 bis 138 mit einer goldenen Spitze.
+
+**Tipp**
+
+Das Dach steigt etwa 1 Block auf 3 Blöcke Weg. Jeder Ring ist eine Stufe höher als der äußere. So erkennst du Fehler sofort. Setze die acht Säulen zuerst und kontrolliere von oben, dass sie ein regelmäßiges Achteck bilden. Das Gebälk deckt dann alle acht ab.
+
+**Achtung**
+
+Das Dach ist nur eine dünne Haut und liegt oben flächig auf der Kuppel. Setze es nach der Innenkuppel, sonst fehlt das Auflager. Die Säulen stehen auf dem Plateau, nicht auf dem offenen Auge. Das Gebälk darf nicht an den Säulen vorbei rutschen.
+
+**Fakt**
+
+Von außen sieht man nur ein flaches Zeltdach, innen aber das Goldmosaik. Das Dach verdeckt die Kuppel, deshalb wirkt das Baptisterium von außen viel schlichter. Johannes der Täufer ist der Schutzpatron von Florenz. Sein Festtag am 24. Juni wird in der Stadt bis heute gefeiert.

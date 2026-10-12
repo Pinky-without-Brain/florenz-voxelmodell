@@ -1,124 +1,140 @@
-# 📐 Meisterbauer-Bauschritt-Vorlagen & Bauhilfen
+# 📐 Content-Format der Bauschritte & Bauhilfen
 
-Dieses Dokument enthält die standardisierte Vorlage für alle Bauschritte der Minecraft-Anleitung sowie praktische Rechen- und Formschablonen für Kreise, Bögen und Achtecke.
+Dieses Dokument beschreibt, wie die Texte der Bauanleitung (V2) geschrieben werden, und enthält ein paar Form-Schablonen für Achtecke und Rundfenster. Die Zahlen der Bauanleitung (Blöcke, Teilelisten, Y-Bereiche) schreibst du **nie** von Hand. Sie kommen aus dem Modell.
 
 ---
 
-## 🧩 Das Standard-Layout eines Bauschritts
+## 🧩 So entsteht eine Bauanleitung
 
-Jeder Bauschritt in unseren Anleitungen folgt exakt diesem 6-teiligen didaktischen Aufbau:
+```text
+tools/model/mN_*.js          Geometrie: ctx.part('id') je Bauteil, in Bau-Reihenfolge
+content/steps_de/modul_N.json  Texte je Bauteil (diese Datei schreibst du)
+tools/steps/planner.js       teilt Bauteile in Bauschritte (höchstens 2.500 Blöcke)
+tools/emit/docs.js           erzeugt BAUANLEITUNG_MODUL_N.md, Statistik und Blockpalette
+node tools/build.js          führt alles aus und prüft es (Regeln R1 bis R10)
+```
+
+Die Bauanleitungen sind vollständig generiert (Kommentar in der ersten Zeile) und werden von der Prüfregel R9 mit dem Modell abgeglichen. Handarbeit an diesen Dateien geht beim nächsten Build verloren.
+
+---
+
+## 📝 Das Content-Format `content/steps_de/modul_N.json`
+
+Je Modul gibt es eine JSON-Datei. Sie enthält Titel und Untertitel des Moduls und einen Text-Block je Bauteil. Der Schlüssel ist die Bauteil-ID aus dem Modellcode (`ctx.part('kuppel_ring_01')`).
+
+```json
+{
+  "module": 5,
+  "title": "Brunelleschis Doppelkuppel",
+  "subtitle": "Bautüte 5: Die achteckige Doppelkuppel aus Ziegeln mit Rippen, Ringketten und Jüngstem Gericht",
+  "icon": "🏛️",
+  "parts": {
+    "kuppel_ring_01": {
+      "title": "Kuppelring 1: Der Fuß der Kuppel",
+      "description": "Du beginnst die Kuppel mit dem ersten Band …",
+      "tip": "Lege zuerst die Lage Y 173 komplett und vergleiche sie mit dem Tambour darunter …",
+      "caution": "Kein Block der untersten Lage darf über den Rand des Tambours hinausragen …",
+      "fact": "Im Jahr 1418 schrieb die Dombauhütte von Florenz einen Wettbewerb für die Kuppel aus …"
+    }
+  }
+}
+```
+
+| Feld | Bedeutung | Erscheint in der Bauanleitung als |
+| :--- | :--- | :--- |
+| `module` | Modulnummer 0 bis 9 | Dateiname und Schrittnummer (Schritt N.k) |
+| `title`, `subtitle` | Überschrift und Untertitel des Moduls | Titel der Bauanleitung |
+| `icon` | Symbol des Moduls | Webapp |
+| `parts.<id>.title` | Titel des Bauteils | Titel des Schritts und Spalte „Titel“ der Bauteil-Liste |
+| `parts.<id>.description` | Was du baust und wie (Du-Form, Y-Werte und Maße nennen) | Abschnitt „Beschreibung“ |
+| `parts.<id>.tip` | Ein praktischer Tipp zum Bauen | Abschnitt „Tipp“ |
+| `parts.<id>.caution` | Ein typischer Baufehler, den du vermeiden sollst | Abschnitt „Achtung“ |
+| `parts.<id>.fact` | Ein geschichtlicher Fakt zum Bauteil | Abschnitt „Fakt“ |
+
+### Regeln für die Texte
+- **Du-Form und kindgerecht:** kurze Sätze, ein Gedanke je Satz, Fachwörter beim ersten Mal erklären.
+- **Maße sind Blockmaße im Maßstab 1:2:** Y-Werte, Halbmaße und Koordinaten müssen zum Modell passen (Fußboden Y 64, Laufniveau Y 65, Ursprung in der Kuppelmitte).
+- **Keine Blockzahlen und keine Teilelisten im Text.** Sie kommen automatisch.
+- **Jedes Bauteil hat Titel, Beschreibung, Tipp, Achtung und Fakt.** Fehlt etwas, warnt der Build (kein Fehler); als Titel erscheint dann die Bauteil-ID.
+- **Ein Bauteil ergibt einen oder mehrere Schritte.** Der Planer hängt bei mehreren Schritten ` – Teil i/n (Y y0–y1)` an den Titel. Werden kleine Schritte zusammengelegt, verbindet er die Titel mit ` & `. Alle Schritte eines Bauteils teilen sich dieselben Texte; schreibe sie deshalb so, dass sie für jeden Teil passen.
+- **Reihenfolge:** Sie ergibt sich aus der Registrierung im Modellcode, nicht aus der JSON-Datei.
+
+---
+
+## 📦 Aufbau eines Schritts in der Bauanleitung
+
+Der Generator erzeugt für jeden Schritt denselben Abschnitt:
 
 ```markdown
----
+### Schritt 1.7 – Titel des Schritts
 
-## 🧱 Bauschritt [Modul].[Schrittnummer]: [Titel des Bauschritts]
-*Beispiel: Bauschritt 1.04: Errichtung der östlichen Arkadenpfeiler*
+- **Y-Bereich:** 68 bis 74
+- **Blöcke:** 1.834
+- **Bauteile:** `pfeiler`
 
-> 📍 **Bereich:** [Bauteil, z. B. Langhaus Nordwand]  
-> 📏 **Höhenebene:** Y = [Start] bis Y = [Ende]  
-> 🔄 **Bautyp:** [Neubau / Erweiterung / Symmetrisch spiegeln]
+**Teileliste**
 
----
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.200 |
+| Steinziegel | `stone_bricks` | 634 |
 
-### 1. 📦 Teileliste (Bautüte für diesen Schritt)
-*Sammle zuerst alle Blöcke in deinem Inventar, bevor du anfängst!*
+**Beschreibung** … **Tipp** … **Achtung** … **Fakt** …
+```
 
-| Symbol | Block-Name | Menge | Funktion in diesem Schritt |
-| :---: | :--- | :---: | :--- |
-| ⬜ | Glatter Quarzblock | 16x | Äußere Säulenverkleidung |
-| 🟩 | Dunkler Prismarin | 8x | Geometrischer Schmuckstreifen |
-| 🪨 | Steinziegel | 12x | Tragender Innenkern |
-| 🪜 | Quarztreppe | 4x | Fußkapitell der Säule |
+Vor den Schritten stehen eine Übersichtstabelle (Blöcke, Schritte, Ausdehnung, kleinster, mittlerer und größter Schritt), die Gesamt-Stückliste des Moduls und die Liste der Bauteile in Bau-Reihenfolge.
 
 ---
 
-### 2. 🗺️ Schichtplan / Grundriss-Raster (Draufsicht)
-*Legende: `Q` = Quarz, `P` = Prismarin, `S` = Steinziegel, `.` = Freiluft/Bereits gebaut*
+## ⚪ Schablone für Achtecke (Tambour und Kuppel)
+
+Die Vierung, der Tambour und die Kuppel sind regelmäßige Achtecke mit den Flächen auf den Achsen. Ein Achteck wird über den **Apothem** `a` (Abstand von der Mitte zur Fläche) angegeben:
+
+- Eine Zelle `(dx, dz)` liegt im Achteck, wenn `max(|dx|, |dz|, (|dx| + |dz|) / √2) ≤ a` gilt.
+- Vier Seiten liegen auf den Achsen (Nord, Süd, Ost, West), vier stehen diagonal. Auf den Diagonalen steigt die Kante in 45°-Stufen, ein Block nach außen und ein Block zur Seite.
+- Maße im Modell: Innenmaß der Vierung Halbmaß 45, Außenmaß des Tambours Halbmaß 54. Beide Werte stehen in `tools/spec/dimensions.js`.
+
+---
+
+## 🔘 Schablone für Ochsenaugen (Tambour-Fenster)
+
+Die acht runden Fenster des Tambours sitzen mittig in den acht Wandflächen, ihre Mitte liegt auf Y 163. Eine Zelle gehört zum Glas, wenn `u² + v² ≤ 20` gilt (`u` Abstand von der Mitte in der Wandfläche, `v` Abstand von der Mitte in der Höhe). Das ergibt 9 × 9 Zellen:
 
 ```text
-       Norden (-Z)
-         01 02 03 04
-     01  .  Q  Q  .
-West 02  Q  P  P  Q   Ost (+X)
-(-X) 03  Q  S  S  Q
-     04  .  Q  Q  .
-       Süden (+Z)
+Draufsicht auf die Wandfläche (G = Glas, . = Wand):
+
+. . G G G G G . .
+. G G G G G G G .
+G G G G G G G G G
+G G G G G G G G G
+G G G G G G G G G
+G G G G G G G G G
+G G G G G G G G G
+. G G G G G G G .
+. . G G G G G . .
+
+Mit Rahmenring (Q = Marmor):
+
+. . Q Q Q Q Q Q Q . .
+. Q Q G G G G G Q Q .
+Q Q G G G G G G G Q Q
+Q G G G G G G G G G Q
+Q G G G G G G G G G Q
+Q G G G G G G G G G Q
+Q G G G G G G G G G Q
+Q G G G G G G G G G Q
+Q Q G G G G G G G Q Q
+. Q Q G G G G G Q Q .
+. . Q Q Q Q Q Q Q . .
 ```
 
 ---
 
-### 3. 🔨 Schritt-für-Schritt Bauanleitung
-1. **Schritt 1:** Setze auf der Koordinate `(X: -45, Y: 68, Z: 12)` die vier Steinziegel (`S`) im Quadrat `2x2`. Das ist der stabile Kern.
-2. **Schritt 2:** Ummantele den Kern mit den Quarzblöcken (`Q`) wie im Schichtplan gezeigt.
-3. **Schritt 3:** Setze die zwei Prismarinblöcke (`P`) an die Nordseite für das toskanische Farbmuster.
-4. **Schritt 4:** Platziere an den vier Außenecken jeweils eine Quarztreppe mit der Stufe nach außen zeigend.
+## 🧭 Himmelsrichtungen & Orientierung
 
----
-
-### 4. 💡 Baumeister-Tipp von Filippo Brunelleschi
-> *"Achte darauf, dass die Treppen richtig herum platziert werden! Wenn du dich hockst (Sneak-Taste),*
-> *kannst du Blöcke an Treppen platzieren, ohne versehentlich das Menü zu öffnen oder herunterzufallen."*
-
----
-
-### 5. ⚠️ Achtung: Baufehler vermeiden!
-> 🚨 **Vorsicht:** *Dieser Pfeiler muss exakt 14 Blöcke Abstand zum westlichen Nachbarpfeiler haben.*
-> *Zähle vor dem Weiterbau die Bodenblöcke nach!*
-
----
-
-### 6. 🎨 Wusstest du schon? – Geschichten aus Florenz
-> **Die Zunft der Wollweber (Arte della Lana):**
-> Wer hat den Dom eigentlich bezahlt? Nicht nur die Kirche! Die reichste Handwerkerzunft von Florenz,
-> die Wollweber, bezahlte einen Großteil der Bauarbeiten. Sie waren so stolz auf ihre Stadt, dass sie
-> wollten, dass jeder Reisende schon aus 30 Kilometern Entfernung den Dom sehen konnte!
-```
-
----
-
-## ⚪ Schablonen für Achtecke (Tambour & Kuppel)
-
-Die Kathedrale basiert auf einem gigantischen Achteck (Oktogon). Da Minecraft aus eckigen Blöcken besteht, müssen wir Achtecke durch abgestufte Blockfolgen erzeugen.
-
-### Das 120-Block-Oktogon (Kuppel-Außenwand)
-Ein symmetrisches Achteck besteht aus:
-- 4 geraden Seiten (Nord, Süd, Ost, West)
-- 4 diagonalen Seiten (Nord-Ost, Nord-West, Süd-Ost, Süd-West)
-
-**Bauformel für ein Segment (Kantenlänge ~50 Blöcke):**
-- Gerade Segmente: `35 Blöcke geradeaus`
-- Diagonaler Übergang: `1-1-1-1-2-2-2-3-3-2-2-2-1-1-1-1` im 45°-Winkel gestuft.
-
----
-
-## 🔘 Schablonen für Ochsenaugen-Fenster (Oculi)
-
-Die berühmten runden Fenster im Tambour der Kathedrale (Durchmesser 11 Blöcke):
-
-```text
-Ebene (Draufsicht für ein vertikales Rundfenster 11x11 Blöcke):
-
-Zeile 11:         [Q][Q][Q]
-Zeile 10:      [Q][G][G][G][Q]
-Zeile 09:    [Q][G][G][G][G][G][Q]
-Zeile 08:   [Q][G][G][G][G][G][G][G][Q]
-Zeile 07:   [Q][G][G][G][G][G][G][G][Q]
-Zeile 06:  [Q][G][G][G][G][G][G][G][G][G][Q]   <- Mitte (Durchmesser 11)
-Zeile 05:   [Q][G][G][G][G][G][G][G][Q]
-Zeile 04:   [Q][G][G][G][G][G][G][G][Q]
-Zeile 03:    [Q][G][G][G][G][G][Q]
-Zeile 02:      [Q][G][G][G][Q]
-Zeile 01:         [Q][Q][Q]
-
-Legende: [Q] = Glatter Quarz (Rahmen), [G] = Farbiges Buntglas
-```
-
----
-
-## 🧭 Himmelsrichtungen & Orientierungs-Kompass
-
-Halte beim Bauen immer die F3-Taste (oder die Kompassanzeige) im Blick:
-- **Westen (`-X`):** Haupteingang / Fassade
-- **Osten (`+X`):** Altar & Ostapsis
-- **Norden (`-Z`):** Linke Seite der Kathedrale
-- **Süden (`+Z`):** Rechte Seite & Campanile (Glockenturm)
+Halte beim Bauen die F3-Taste (oder die Kompassanzeige) im Blick:
+- **Westen (`-X`):** Westfassade, Campanile und Baptisterium
+- **Osten (`+X`):** Hauptaltar und Ostapsis
+- **Norden (`-Z`):** linke Seite der Kathedrale
+- **Süden (`+Z`):** rechte Seite und Campanile (Glockenturm)
+- **Ursprung (0, 64, 0):** Mitte der Vierung unter der Kuppel

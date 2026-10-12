@@ -1,41 +1,48 @@
-# ⛪ Modul 1: Langhaus & Seitenschiffe (Nave)
-## Bautüte 1: Die kolossalen Hallen des Kirchenschiffs
+# ⛪ Modul 1: Langhaus & Seitenschiffe
 
-Das Langhaus von Santa Maria del Fiore ist berühmt für seine unglaubliche Weite. Während französische Kathedralen wie Notre-Dame viele eng stehende Säulen haben, wollten die Florentiner eine gigantische, lichterfüllte Halle. Nur vier riesige Pfeilerpaare tragen das gesamte Gewölbe!
+<!-- STATISTIK:START -->
+**Statistik (generiert):** 174.461 Blöcke in 109 Bauschritten, Y 65 bis 156, X -212 bis -55, Z -45 bis 45.
+Schrittgröße: kleinster 328, mittlerer 1.601, größter 2.030 Blöcke.
+
+Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md)
+<!-- STATISTIK:END -->
+
+## Bautüte 1: Außenwände, Pfeiler, Arkaden, Gewölbe und Dächer des Langhauses
+
+Das Langhaus von Santa Maria del Fiore ist berühmt für seine Weite. Während französische Kathedralen viele eng stehende Säulen haben, wollten die Florentiner eine gigantische, lichterfüllte Halle. Nur vier quadratische Joche tragen das gesamte Gewölbe!
 
 ---
 
-## 🗺️ Bauteile & Abmessungen
+## 🗺️ Maße (Maßstab 1:2, 1 Block = 0,5 m)
 
-| Eigenschaft | Wert in Minecraft-Blöcken | Details |
+| Eigenschaft | Wert in Blöcken | Vorbild |
 | :--- | :--- | :--- |
-| **Länge des Langhauses** | **120 Blöcke** (von X: -165 bis X: -45) | 4 monumentale Joche (je ~28 Blöcke lang) |
-| **Breite des Langhauses** | **84 Blöcke** | Hauptschiff (42 Blöcke) + 2 Seitenschiffe (je 21 Blöcke) |
-| **Höhe der Pfeiler** | **44 Blöcke** (von Y: 64 bis Y: 108) | Gewaltige achteckige Bündelpfeiler |
-| **Gewölbescheitel** | **Y = 108** | Rippenbögen im toskanischen Marmorstil |
-| **Dachfirst (Außen)** | **Y = 124** | Steiles Ziegeldach mit Firstverzierung |
+| **Länge** | X −212 bis −55 (Innenseite Westwand bis Vierung) | vier Joche zu je 38 Blöcken, 19 m |
+| **Breite innen** | Z ±38 | 38 m Innenbreite |
+| **Außenflucht** | Z ±44 (mit Wandvorlagen) | 44 m im Lageplan |
+| **Mittelschiff** | Pfeilerachsen bei Z ±19 | 19 m breit |
+| **Pfeilerabstand** | 38 Blöcke längs | 19 m |
+| **Seitenschiffgewölbe** | Scheitel Y 110 | 23 m |
+| **Traufe Seitenschiffe** | Y 114 | 25 m |
+| **Mittelschiffgewölbe** | Scheitel Y 150 | 43 m (Quellen 43–45 m) |
+| **Traufe Obergaden** | Y 148 | 42 m |
+| **Dachfirst** | Y 156 | 46 m, flaches toskanisches Dach |
 
 ---
 
-## 📦 Teileliste für Modul 1
-- ⬜ **Glatter Quarz & Quarzstufen:** Pfeiler-Verkleidungen, gotische Kreuzrippen & Gurtbögen
-- 🟩 **Dunkler Prismarin:** Horizontale Marmor-Schmuckbänder entlang der Wände
-- 🟫 **Polierter Granit:** Farbakzente und Wandsockel
-- 🔘 **Steinziegel & Glatter Stein:** Außenwandkerne & Tragwerk
-- 🧱 **Terrakotta & Ziegelstufen:** Eindeckung des hohen Satteldachs
-- 🟡 **Farbiges Buntglas:** Runde Obergadenfenster (Oculi)
+## 📋 Bauteile in Bau-Reihenfolge
 
----
+1. `aussenwand_nord`, `aussenwand_sued`: Seitenschiffwände mit Spitzbogenfenstern und den Portalen.
+2. `wandvorlagen`: Lisenen an der Außenseite.
+3. `pfeiler`: Bündelpfeiler zwischen Mittel- und Seitenschiffen.
+4. `arkaden`: Spitzbogenarkaden zum Mittelschiff.
+5. `seitenschiff_gewoelbe`: Kreuzgewölbe der Seitenschiffe.
+6. `hochschiffwand`: Obergaden mit Rundfenstern.
+7. `mittelschiff_gewoelbe`: Gewölbe des Mittelschiffs.
+8. `gesimse`: Kranzgesimse.
+9. `dach_seitenschiffe`, `dach_mittelschiff`: Pult- und Satteldächer aus Terrakotta.
 
-## 📋 Bauabschnitte in Modul 1
-- **Schritt 1.1:** Die 8 monumentalen Pfeilerbasen (je 4 auf der Nord- und Südseite) errichten.
-- **Schritt 1.2:** Pfeilerschäfte aufziehen bis zum Kapitell auf Höhe Y=92.
-- **Schritt 1.3:** Die weiten gotischen Arkadenbögen zwischen den Pfeilern spannen.
-- **Schritt 1.4:** Die äußeren Längswände mit Biforien-Fenstern hochziehen.
-- **Schritt 1.5:** Die Kreuzrippengewölbe der beiden Seitenschiffe schließen (Y=85).
-- **Schritt 1.6:** Die Obergadenwand des Hauptschiffs mit den runden Fenstern bauen (Y=92 bis 108).
-- **Schritt 1.7:** Das riesige Hauptschiff-Kreuzgewölbe einziehen (Y=108).
-- **Schritt 1.8:** Dachstuhl und das ziegelrote Satteldach errichten (Y=108 bis 124).
+Blockzahlen, Schrittnummern und Teilelisten stehen in der [Bauanleitung](BAUANLEITUNG_MODUL_1.md).
 
 ---
 

@@ -1,112 +1,187 @@
-# ☀️ Schritt-für-Schritt Bauanleitung: Modul 6: Die Laterne & Goldene Kugel
-## Cathedral of Santa Maria del Fiore (Florenz) • Meisterbauer-Bauanleitung für Minecraft
+<!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-> **Marmortempel, Voluten-Strebepfeiler, Verrocchios Goldkugel & Kreuz (Y=251 bis Y=315)**
->
-> ⚠️ **Wichtiger Hinweis:** Alle Blockangaben und Koordinaten sind **100 % mathematisch exakt berechnet**. Keine Schätzungen oder Annäherungen!
+# Bauanleitung Modul 6: Die Laterne
 
----
+*Bautüte 6: Laterne, vergoldete Kugel und Kreuz krönen die Kuppel*
 
-## 📊 Übersicht Modul 6
+## Übersicht
 
-- **Gesamtzahl Bauschritte:** **8 Bauschritte**
-- **Gesamtzahl Blöcke:** **8.717 Blöcke**
-- **Größter Einzelschritt:** **2.020 Blöcke**
+| Kennzahl | Wert |
+| :--- | :--- |
+| Blöcke | 6.885 |
+| Bauschritte | 5 |
+| Y-Bereich | 247 bis 293 |
+| X-Ausdehnung | -14 bis 14 (29 Blöcke) |
+| Z-Ausdehnung | -14 bis 14 (29 Blöcke) |
+| Kleinster Schritt | 649 Blöcke (Schritt 6.5) |
+| Mittlerer Schritt | 1.377 Blöcke |
+| Größter Schritt | 1.904 Blöcke (Schritt 6.3) |
 
-### 📦 Stückliste (Bill of Materials)
+## Gesamt-Stückliste
 
-| Block-Typ (Minecraft ID) | Exakte Anzahl | Anteil |
-| :--- | :--- | :--- |
-| `smooth_quartz` | **4.494x** | 51.6 % |
-| `smooth_stone` | **1.824x** | 20.9 % |
-| `calcite` | **1.584x** | 18.2 % |
-| `stone_bricks` | **432x** | 5.0 % |
-| `glass` | **192x** | 2.2 % |
-| `gold_block` | **190x** | 2.2 % |
-| `sea_lantern` | **1x** | 0.0 % |
-| **GESAMT** | **8.717 Blöcke** | 100,0 % |
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 4.933 | 71,6 % |
+| Weißes Buntglas | `white_stained_glass` | 808 | 11,7 % |
+| Quarzsäule | `quartz_pillar` | 672 | 9,8 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 288 | 4,2 % |
+| Goldblock | `gold_block` | 184 | 2,7 % |
 
----
+## Bauteile in Bau-Reihenfolge
 
-## 🧱 Die 8 Bauschritte im Detail
+| Nr. | Bauteil | Titel | Blöcke | Schritte |
+| ---: | :--- | :--- | ---: | :--- |
+| 1 | `laternen_sockel` | Der Sockel der Laterne | 1.784 | 6.1 |
+| 2 | `voluten` | Die Voluten: Stützen mit Schwung | 672 | 6.2 |
+| 3 | `tempel` | Der Tempel mit den Fenstern | 3.780 | 6.3–6.4 |
+| 4 | `kegeldach` | Das Kegeldach | 465 | 6.5 |
+| 5 | `kugel_und_kreuz` | Die goldene Kugel und das Kreuz | 184 | 6.5 |
 
-### Schritt 6.1: Der achteckige Marmorsockel der Laterne
-- **Neu verbaute Blöcke:** **2.020 Blöcke**
-- **Höhenbereich:** **Y = 251 bis Y = 256**
-- **Ausdehnung:** X = [-13 .. 13], Z = [-13 .. 13]
-- **Benötigte Materialien:** `stone_bricks`: 240x, `smooth_quartz`: 1368x, `calcite`: 412x
-- **Bauanweisung:** Verankere den massiven achteckigen Marmorsockel der Laterne von Y=251 bis Y=256 direkt auf dem Kuppelring aus Modul 5.
-- 💡 **Meister-Tipp:** Der innere Ring aus Steinziegeln hält die zentrale Lichtöffnung (Lichte Weite 14 Blöcke) offen.
-- ⚠️ **Meisterbauer-Achtung:** Achte darauf, dass die Stufen symmetrisch um das Zentrum (0, 0) angeordnet sind.
-- 🎨 **Wusstest du schon?** Gewicht als Stabilität: Brunelleschi entwarf die Laterne extra schwer aus massivem Marmor! Ihr enormes Gewicht presst die 8 Kuppelrippen an der Spitze zusammen.
+## Bauschritte
 
-### Schritt 6.2: Die 8 geschwungenen Marmor-Voluten (Strebepfeiler)
-- **Neu verbaute Blöcke:** **488 Blöcke**
-- **Höhenbereich:** **Y = 251 bis Y = 268**
-- **Ausdehnung:** X = [-15 .. 15], Z = [-15 .. 15]
-- **Benötigte Materialien:** `smooth_quartz`: 144x, `calcite`: 344x
-- **Bauanweisung:** Setze die 8 elegant geschwungenen Volutenpfeiler aus weißem Quarz und Calcit an die Ecken des Sockels.
-- 💡 **Meister-Tipp:** Die Voluten schmiegen sich S-förmig an die Kanten der Laterne.
-- ⚠️ **Meisterbauer-Achtung:** Prüfe die Symmetrie aller 8 Strebepfeiler.
-- 🎨 **Wusstest du schon?** Architektonische Premiere: Diese geschwungenen Voluten-Strebepfeiler wurden zum Vorbild für Renaissance und Barock!
+### Schritt 6.1 – Der Sockel der Laterne
 
-### Schritt 6.3: Die 8 Säulen & Rundbogenfenster – Untere Zone (Y=257 bis Y=266)
-- **Neu verbaute Blöcke:** **1.360 Blöcke**
-- **Höhenbereich:** **Y = 257 bis Y = 266**
-- **Ausdehnung:** X = [-10 .. 10], Z = [-10 .. 10]
-- **Benötigte Materialien:** `smooth_quartz`: 384x, `smooth_stone`: 880x, `glass`: 96x
-- **Bauanweisung:** Ziehe die 8 kannelierten korinthischen Marmorsäulen und die Fensterbrüstungen bis zur mittleren Höhe Y=266 hoch.
-- 💡 **Meister-Tipp:** Die Glasscheiben sitzen bündig zwischen den Ecksäulen.
-- ⚠️ **Meisterbauer-Achtung:** Achte auf die absolut senkrechte Fluchtlinie der Säulen.
-- 🎨 **Wusstest du schon?** Lichtzylinder: Die Laterne bündelt das Licht der toskanischen Sonne und lenkt es 90 Meter tief auf den Hauptaltar!
+- **Y-Bereich:** 247 bis 249
+- **Blöcke:** 1.784
+- **Bauteile:** `laternen_sockel`
 
-### Schritt 6.4: Die 8 Säulen & Rundbogenfenster – Obere Zone (Y=267 bis Y=276)
-- **Neu verbaute Blöcke:** **1.504 Blöcke**
-- **Höhenbereich:** **Y = 267 bis Y = 276**
-- **Ausdehnung:** X = [-10 .. 10], Z = [-10 .. 10]
-- **Benötigte Materialien:** `smooth_quartz`: 400x, `glass`: 96x, `smooth_stone`: 944x, `calcite`: 64x
-- **Bauanweisung:** Schließe die Rundbögen der 8 Fenster ab und setze die korinthischen Kapitelle auf Y=276.
-- 💡 **Meister-Tipp:** Die Rundbögen auf Y=272 schließen die Fensteröffnungen nach oben ab.
-- ⚠️ **Meisterbauer-Achtung:** Prüfe die Bogenabschlüsse auf allen 8 Seiten.
-- 🎨 **Wusstest du schon?** Meisterhafter Marmor: Feinster Statuario-Marmor aus den Apuanischen Alpen.
+**Teileliste**
 
-### Schritt 6.5: Die Aussichtsgalerie & Gebälk
-- **Neu verbaute Blöcke:** **1.672 Blöcke**
-- **Höhenbereich:** **Y = 277 bis Y = 282**
-- **Ausdehnung:** X = [-12 .. 12], Z = [-12 .. 12]
-- **Benötigte Materialien:** `stone_bricks`: 192x, `calcite`: 392x, `smooth_quartz`: 1088x
-- **Bauanweisung:** Setze das klassische korinthische Gebälk und das vorkragende Kranzgesims der Aussichtsgalerie von Y=277 bis Y=282 auf.
-- 💡 **Meister-Tipp:** Das vorkragende Gesims bildet die optische Basis für das Pyramidendach.
-- ⚠️ **Meisterbauer-Achtung:** Der Mauerkranz muss nach allen 8 Seiten gleichmäßig vorkragen.
-- 🎨 **Wusstest du schon?** Panoramablick: Von dieser Galerie aus überblickte man im 15. Jahrhundert ganz Florenz, Fiesole und das Arnotal.
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 1.784 |
 
-### Schritt 6.6: Das spitze Marmordach der Laterne
-- **Neu verbaute Blöcke:** **1.473 Blöcke**
-- **Höhenbereich:** **Y = 283 bis Y = 295**
-- **Ausdehnung:** X = [-10 .. 10], Z = [-10 .. 10]
-- **Benötigte Materialien:** `smooth_quartz`: 1101x, `calcite`: 372x
-- **Bauanweisung:** Überdache den Rundtempel mit einer eleganten achtteiligen Marmorpyramide von Y=283 bis Y=295.
-- 💡 **Meister-Tipp:** Die weißen Marmorgrate laufen an der Spitze auf einer soliden Plattform auf Höhe Y=295 zusammen.
-- ⚠️ **Meisterbauer-Achtung:** Halte die Spitze auf Y=295 eben, damit die schwere Kugel sicher aufliegt.
-- 🎨 **Wusstest du schon?** Vollendung nach Brunelleschis Tod: Vollendet 1461 streng nach Brunelleschis Originalmodell.
+**Beschreibung**
 
-### Schritt 6.7: Verrocchios vergoldete Riesenkugel
-- **Neu verbaute Blöcke:** **180 Blöcke**
-- **Höhenbereich:** **Y = 296 bis Y = 303**
-- **Ausdehnung:** X = [-3 .. 3], Z = [-3 .. 3]
-- **Benötigte Materialien:** `smooth_quartz`: 9x, `gold_block`: 171x
-- **Bauanweisung:** Setze die zwei Tonnen schwere vergoldete Bronzekugel von Andrea del Verrocchio auf Höhe Y=296 bis Y=304 auf! Ein massiver Marmorsockel auf Y=296 verbindet die Pyramidenspitze unlösbar mit der Goldkugel.
-- 💡 **Meister-Tipp:** Die Kugel hat einen Durchmesser von 7 Blöcken – der Mittelpunkt liegt exakt bei (0, 300, 0).
-- ⚠️ **Meisterbauer-Achtung:** Prüfe mit allen Blickwinkeln, dass die Kugel von allen Seiten vollkommen rund und symmetrisch wirkt.
-- 🎨 **Wusstest du schon?** Leonardos Lehrstück (1471): Ein junger 19-jähriger Lehrling namens Leonardo da Vinci half Verrocchio bei der riskanten Montage!
+Du setzt drei Lagen weißen Marmor (Y 247 bis 249) auf den Schlussring der Kuppel. Die unterste Lage bildet einen breiten Ring, der genau auf dem Schlussring ruht. Ab Y 248 darfst du den Ring nach innen verbreitern, denn dort liegt er seitlich an den Blöcken der Lage darunter an. In der Mitte bleibt ein rundes Loch frei, das Auge. Durch diese Öffnung fällt Licht in die Kuppel, und die Luft kann abziehen.
 
-### Schritt 6.8: Das goldene Kreuz an der Spitze (Höhe Y=315)
-- **Neu verbaute Blöcke:** **20 Blöcke**
-- **Höhenbereich:** **Y = 304 bis Y = 315**
-- **Ausdehnung:** X = [-3 .. 3], Z = [0 .. 0]
-- **Benötigte Materialien:** `gold_block`: 19x, `sea_lantern`: 1x
-- **Bauanweisung:** Kröne die Kathedrale von Florenz mit dem monumentalen goldenen Kreuz auf der absoluten Spitzenhöhe Y=315! Auf dem Querbalken (Höhe Y=310) und der leuchtenden Seelaterne an der Spitze thront das Wahrzeichen über der gesamten Toskana.
-- 💡 **Meister-Tipp:** Die Seelaterne auf Y=315 markiert den höchsten Punkt des gesamten Bauwerks.
-- ⚠️ **Meisterbauer-Achtung:** Richte den Querbalken exakt in Ost-West-Richtung aus.
-- 🎨 **Wusstest du schon?** Höchster Punkt der Renaissance: Mit 114,5 Metern Gesamthöhe (Y=315) war Santa Maria del Fiore das höchste Bauwerk der gesamten bekannten Welt seit den ägyptischen Pyramiden!
+**Tipp**
 
+Lege die unterste Lage zuerst und vergleiche sie mit dem Ring darunter. Jeder Block muss auf einem Block des Schlussrings stehen. Erst dann erweiterst du den Ring in den oberen Lagen nach innen.
+
+**Achtung**
+
+Lass das Auge in der Mitte frei. Wer es zubaut, nimmt der Kuppel ihr Licht von oben.
+
+**Fakt**
+
+Die Laterne krönt die Kuppel des Doms von Florenz und entstand nach einem Entwurf von Filippo Brunelleschi. Sie ist mehr als nur Zierde: Durch ihre Fenster fällt Tageslicht in die Kuppel hinein.
+
+### Schritt 6.2 – Die Voluten: Stützen mit Schwung
+
+- **Y-Bereich:** 250 bis 261
+- **Blöcke:** 672
+- **Bauteile:** `voluten`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 584 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 88 |
+
+**Beschreibung**
+
+Jetzt setzt du acht Stützpfeiler an die Ecken der Laterne (Y 250 bis 262). Jeder Pfeiler ist zwei Blöcke breit und reicht vom Rand des Sockels bis an den Tempel heran. Seine Außenseite schwingt wie ein Viertelkreis nach unten. Diese Form nennt man Volute, das heißt Schnecke oder Schnörkel. Die oberste Blockreihe jeder Säule setzt du aus gemeißeltem Quarz, so wird die Kurve gut sichtbar.
+
+**Tipp**
+
+Bau zuerst die niedrigen Säulen außen und steigere die Höhe Schritt für Schritt zur Mitte hin. So entsteht der Viertelkreis ganz von allein. Prüfe alle acht Pfeiler: Sie sehen gleich aus.
+
+**Achtung**
+
+Die Pfeiler stehen an den Ecken des Achtecks, nicht in der Mitte der Seiten. Dort bleiben später die Fenster frei.
+
+**Fakt**
+
+An Brunelleschis Laterne drücken geschwungene Stützen gegen die acht Ecken. Sie helfen, die Last der hohen Laterne sicher abzuleiten und geben ihr zugleich ihr elegantes Aussehen.
+
+### Schritt 6.3 – Der Tempel mit den Fenstern – Teil 1/2 (Y 250–266)
+
+- **Y-Bereich:** 250 bis 266
+- **Blöcke:** 1.904
+- **Bauteile:** `tempel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißes Buntglas | `white_stained_glass` | 808 |
+| Glatter Quarzblock | `smooth_quartz` | 552 |
+| Quarzsäule | `quartz_pillar` | 544 |
+
+**Beschreibung**
+
+Der Tempel ist das Herzstück der Laterne: ein achteckiger Bau mit zwei Blöcken dicken Wänden (Y 250 bis 270). An jeder Ecke steht ein Pfeiler aus Quarzsäulen. Dazwischen öffnest du in jeder der acht Seiten ein Rundbogenfenster, das ungefähr fünf Blöcke breit ist. Der Bogen beginnt bei Y 264. Die Fenster füllst du mit weißem Glas. Zuletzt legst du das Gebälk (Y 271 bis 274) als volle, etwas breitere Platte darüber. Seine unterste und oberste Lage besteht aus gemeißeltem Quarz.
+
+**Tipp**
+
+Zähle die Fensterbreite an einer Seite ab und markiere die Mitte. Der Bogen setzt bei Y 264 an und läuft nach oben rund zu. Wenn ein Fenster stimmt, kannst du die anderen sieben danach bauen.
+
+**Achtung**
+
+Die Eckpfeiler dürfen nicht in die Fenster hineinragen. Lass in jeder Seite genug Platz für das ganze Fenster, sonst wird der Bogen zu schmal.
+
+**Fakt**
+
+Die Laterne ist achteckig wie die Kuppel selbst. Mit ihren Fenstern lässt sie Licht in den Dom hinein. Brunelleschi starb 1446, kurz nach dem Baubeginn der Laterne. Michelozzo und andere Baumeister führten sie nach seinem Entwurf zu Ende.
+
+### Schritt 6.4 – Der Tempel mit den Fenstern – Teil 2/2 (Y 267–274)
+
+- **Y-Bereich:** 267 bis 274
+- **Blöcke:** 1.876
+- **Bauteile:** `tempel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 1.588 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 160 |
+| Quarzsäule | `quartz_pillar` | 128 |
+
+**Beschreibung**
+
+Der Tempel ist das Herzstück der Laterne: ein achteckiger Bau mit zwei Blöcken dicken Wänden (Y 250 bis 270). An jeder Ecke steht ein Pfeiler aus Quarzsäulen. Dazwischen öffnest du in jeder der acht Seiten ein Rundbogenfenster, das ungefähr fünf Blöcke breit ist. Der Bogen beginnt bei Y 264. Die Fenster füllst du mit weißem Glas. Zuletzt legst du das Gebälk (Y 271 bis 274) als volle, etwas breitere Platte darüber. Seine unterste und oberste Lage besteht aus gemeißeltem Quarz.
+
+**Tipp**
+
+Zähle die Fensterbreite an einer Seite ab und markiere die Mitte. Der Bogen setzt bei Y 264 an und läuft nach oben rund zu. Wenn ein Fenster stimmt, kannst du die anderen sieben danach bauen.
+
+**Achtung**
+
+Die Eckpfeiler dürfen nicht in die Fenster hineinragen. Lass in jeder Seite genug Platz für das ganze Fenster, sonst wird der Bogen zu schmal.
+
+**Fakt**
+
+Die Laterne ist achteckig wie die Kuppel selbst. Mit ihren Fenstern lässt sie Licht in den Dom hinein. Brunelleschi starb 1446, kurz nach dem Baubeginn der Laterne. Michelozzo und andere Baumeister führten sie nach seinem Entwurf zu Ende.
+
+### Schritt 6.5 – Das Kegeldach & Die goldene Kugel und das Kreuz
+
+- **Y-Bereich:** 275 bis 293
+- **Blöcke:** 649
+- **Bauteile:** `kegeldach`, `kugel_und_kreuz`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 425 |
+| Goldblock | `gold_block` | 184 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 40 |
+
+**Beschreibung**
+
+Über dem Gebälk wächst das Dach der Laterne: eine achteckige Pyramide von Y 275 bis 283. Sie startet unten mit Seiten von neun Blöcken Halbweite und läuft bis auf einen einzigen Block an der Spitze zu. Jede Lage ist einen Block schmaler als die darunter. Die acht Kanten setzt du aus gemeißeltem Quarz ab, die Flächen aus glattem Quarz. Zum Schluss krönst du den Dom. Die Kugel hat drei Blöcke Radius, ihre Mitte liegt auf Y 287, und sie besteht ganz aus Goldblöcken. Sie steht mit ihrem tiefsten Punkt auf der Spitze des Kegeldachs. Darauf setzt du das Kreuz: einen Stamm von Y 291 bis 293 und einen kurzen Querbalken bei Y 292, der nach links und rechts je einen Block weit reicht. Der höchste Block des ganzen Modells liegt bei Y 293.
+
+**Tipp**
+
+Bau Lage für Lage nach oben und lass jede Lage gleichmäßig um einen Block nach innen rücken. Die Kanten laufen an den Ecken schnurgerade nach oben, daran erkennst du Fehler sofort. Baue die Kugel Lage für Lage: unten drei mal drei, dann breiter, in der Mitte sieben mal sieben und oben wieder schmaler. Die Mitte der Kugel muss genau über der Spitze des Daches liegen.
+
+**Achtung**
+
+Das Dach ist innen hohl und nur eine Schicht dick. Setze oben die Spitze genau in die Mitte, denn hier steht gleich die schwere Kugel. Der Stamm des Kreuzes steht genau in der Mitte der obersten Kugellage. Rutscht er auch nur einen Block zur Seite, sieht das Kreuz schief aus.
+
+**Fakt**
+
+Die Laterne trägt ein kegelförmiges Dach. Es schließt die Laterne nach oben ab und trägt die goldene Kugel mit dem Kreuz. Auf dem Kreuz endet der Dom bei rund 114 Metern Höhe. Die vergoldete Kupferkugel wurde 1471 auf die Laterne gesetzt. Sie stammt aus der Werkstatt des Künstlers Andrea del Verrocchio. In dieser Werkstatt arbeitete damals auch der junge Leonardo da Vinci. Im Jahr 1600 schlug der Blitz ein, die Kugel stürzte herab und wurde ersetzt. Eine Marmorplatte auf der Piazza erinnert daran.

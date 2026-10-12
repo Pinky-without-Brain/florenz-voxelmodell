@@ -6,7 +6,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { buildWorld, discoverModuleFiles, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR } = require('./model/world.js');
 const { planModule } = require('./steps/planner.js');
-const { validate } = require('./validate/index.js');
+const { validate, RULES } = require('./validate/index.js');
 
 const ROOT = path.resolve(__dirname, '..');
 
@@ -64,12 +64,26 @@ function main(argv) {
 
   // 3) Prüfung
   t = process.hrtime.bigint();
-  const rules = validate({ grid: world.grid, world, stepsByModule, root: ROOT });
-  timing.validate = ms(t);
+  const rules = validate({ grid: world.grid, world, stepsByModule, root: ROOT,
+    only: RULES.map((r) => r[0]).filter((name) => name !== 'R9') });
   for (const r of rules) {
     errors.push(...r.errors);
     warnings.push(...r.warnings);
   }
+  // Dokumentation: mit Emit zuerst schreiben, danach prüft R9 gegen die Platte (ohne Emit gegen den Bestand)
+  let docsEmitted = null;
+  if (opts.emit && !errors.length) {
+    const docModules = world.modules.filter((m) => toEmit.includes(m.module));
+    docsEmitted = require('./emit/docs.js').emitDocs({ modules: docModules, stepsByModule, grid: world.grid, root: ROOT });
+    console.log(`Doku: ${docsEmitted.files.length} Dateien, ${docsEmitted.changed.length} geändert`);
+  }
+  for (const r of validate({ grid: world.grid, world, stepsByModule, root: ROOT, only: ['R9'], docs: { modules: toEmit } })) {
+    errors.push(...r.errors);
+    warnings.push(...r.warnings);
+    rules.push(r);
+  }
+  rules.sort((a, b) => parseInt(a.rule.slice(1), 10) - parseInt(b.rule.slice(1), 10));
+  timing.validate = ms(t);
 
   // 4) Emitter
   t = process.hrtime.bigint();

@@ -1,66 +1,215 @@
-# 🎨 Materialliste & Minecraft-Blockpalette
-## Die Bausteine der toskanischen Renaissance
+<!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-Wie bei jedem anspruchsvollen Monumental-Bauprojekt beginnt die Arbeit mit dem Sortieren der Bausteine. In diesem Dokument findest du alle Blöcke, die wir für den Bau von **Santa Maria del Fiore** benötigen, und erfährst genau, welches echte historische Material sie darstellen.
+# Materialliste und Blockpalette
 
----
+Alle 35 erlaubten Blocktypen des Modells, gruppiert nach Rolle. Das Modell besteht aus 909.019 Blöcken; es werden nur volle Würfelblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
 
-## 🏛️ Die drei berühmten toskanischen Marmorfarben
+Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde di Prato, Rot für Rosso di Maremma. Die Dächer und die Kuppel tragen das Terrakotta-Rot der florentinischen Dachlinie.
 
-Die Kathedrale verdankt ihre unverwechselbare Optik dem Zusammenspiel von drei regionalen Steinsorten der Toskana. Schon im 14. Jahrhundert entschieden die Florentiner Baumeister, dass die Kathedrale in den Farben Weiß, Grün und Rot erstrahlen sollte.
+## Gesamtübersicht
 
-| Reales Material | Herkunft & Geschichte | Empfohlene Minecraft-Blöcke | Ersatz- & Variantenblöcke | Verwendung im Modell |
-| :--- | :--- | :--- | :--- | :--- |
-| **Bianco di Carrara** *(Weißer Marmor)* | Die berühmten Steinbrüche von Carrara in den Apuanischen Alpen. Reiner, strahlend weißer Kalkstein, aus dem auch Michelangelos *David* gehauen wurde. | ▫️ **Glatter Quarzblock**<br>▫️ **Quarztreppen**<br>▫️ **Quarzstufen (Slabs)**<br>▫️ **Calcit** | ▫️ Weißer Beton (für glatte Großflächen)<br>▫️ Diorit (für texturierte Naturstein-Optik) | Grundrippen der Kuppel, Säulen, Fensterlaibungen, Fialen, Laterne & Zierleisten |
-| **Verde di Prato** *(Dunkelgrüner Serpentinit)* | Steinbrüche bei Prato (Monte Ferrato). Ein dunkler, schlangenhautartiger Serpentinit-Schiefer mit tiefgrüner Färbung. | 🟩 **Dunkler Prismarin**<br>🟩 **Dunkle Prismarin-Treppen**<br>🟩 **Dunkle Prismarin-Stufen** | 🟩 Prismarin-Ziegel<br>🟩 Moosblöcke<br>🟩 Grüner Beton / Trockenbeton | Geometrische Wandmuster, Friese, Rauten-Intarsien, Fensterrahmen |
-| **Rosso di Maremma** *(Rosaroter Kalkstein)* | Aus Monsummano Terme und den Hügeln der Maremma. Ein zarter rosa-roter Ammonitenkalkstein. | 🟫 **Polierter Granit**<br>🟫 **Granitstufen**<br>🟫 **Roter Sandstein**<br>🟫 **Ziegelsteine (Bricks)** | 🟫 Mangrovenholz (geschält)<br>🟫 Rote Terrakotta<br>🟫 Schlammziegel (Mud Bricks) | Rosetten-Muster an der Fassade, Rauten-Bänder, Pilaster-Inlays |
+| Rolle | Blocktypen | Blöcke | Anteil |
+| :--- | ---: | ---: | ---: |
+| Weißer Marmor (Bianco di Carrara) | 2 | 134.464 | 14,8 % |
+| Gemeißelter weißer Marmor | 1 | 10.329 | 1,1 % |
+| Marmorsäulen | 1 | 2.264 | 0,2 % |
+| Weißer Marmor, Variante | 1 | 2.996 | 0,3 % |
+| Grüner Marmor (Verde di Prato) | 1 | 42.008 | 4,6 % |
+| Roter Marmor (Rosso di Maremma) | 1 | 16.286 | 1,8 % |
+| Roter Marmor, Variante | 1 | 0 | 0,0 % |
+| Mauerwerk | 1 | 333.878 | 36,7 % |
+| Pietra serena | 1 | 209.244 | 23,0 % |
+| Pietra forte | 1 | 4.463 | 0,5 % |
+| Kuppelziegel | 1 | 59.300 | 6,5 % |
+| Dachziegel | 1 | 56.926 | 6,3 % |
+| Dunkler Kontraststein | 1 | 23 | 0,0 % |
+| Antikes Mauerwerk | 2 | 10.833 | 1,2 % |
+| Holz | 1 | 130 | 0,0 % |
+| Gold | 1 | 1.796 | 0,2 % |
+| Bronze und Kupfer | 1 | 2.207 | 0,2 % |
+| Licht | 1 | 0 | 0,0 % |
+| Buntglas | 6 | 5.419 | 0,6 % |
+| Freskenfarben | 9 | 16.453 | 1,8 % |
+| **Summe** | **35** | **909.019** | **100,0 %** |
 
----
+## Weißer Marmor (Bianco di Carrara)
 
-## 🧱 Die Baustoffe der monumentalen Kuppel
+Verkleidung, Pilaster, Rippen und Gesimse. (Rolle `marmor_weiss`)
 
-Filippo Brunelleschi erfand für die Kuppel völlig neue Baustoffe, um das Gewicht so gering wie möglich zu halten:
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 128.627 | 14,2 % |
+| Quarzziegel | `quartz_bricks` | 5.837 | 0,6 % |
 
-| Bauteil | Reales Vorbild | Minecraft-Block | Warum dieser Block? |
-| :--- | :--- | :--- | :--- |
-| **Kuppeldach-Ziegel** | Gebrannte toskanische Tonziegel (*Cotto dell'Impruneta*), warmes Orange-Rot. | 🧱 **Terrakotta** & **Orange Terrakotta** | Schafft den unverwechselbaren warmen Farbton der florentinischen Dächerlinie. |
-| **Fischgrät-Tragwerk** | Leichtbau-Ziegel, im 45°-Winkel verzahnt (*spina di pesce*). | 🧱 **Ziegelblöcke (Bricks)** | Die Fugenstruktur der Minecraft-Ziegel imitiert die Ziegelreihen der inneren Kuppelschale perfekt. |
-| **8 Hauptrippen (Kanten)** | Massive Marmorbalken, die von der Trommel bis zur Laterne verlaufen. | ⬜ **Glatter Quarz** (Blöcke, Treppen & Stufen) | Heben die 8 markanten Außenkanten der achteckigen Kuppel messerscharf hervor. |
-| **Strebepfeiler & Tambour** | Grauer toskanischer Sandstein (*Pietra Serena* & *Pietraforte*). | 🔘 **Glatte Steine**, **Steinziegel** & **Andesit** | Verleiht der mächtigen Achteck-Basis Stabilität und antikes Gewicht. |
+## Gemeißelter weißer Marmor
 
----
+Gesimse, Schlusssteine und Zierbänder. (Rolle `marmor_ornament`)
 
-## 🌟 Details, Fenster, Dächer & Goldene Akzente
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 10.329 | 1,1 % |
 
-| Bauteil | Reales Element | Minecraft-Block |
-| :--- | :--- | :--- |
-| **Ochsenaugen (Tambour-Fenster)** | Runde Buntglasfenster, u. a. entworfen von Donatello und Paolo Uccello. | 🟡 **Gelbes, blaues & rotes Glas** / **Eisengitter** |
-| **Dachfirst & Pultdächer** | Bleibleche und rote Hohlziegel über Langhaus & Kapellen. | 🧱 **Ziegelstufen** & **Kupferstufen** (leicht oxidiert) |
-| **Die Kugel der Laterne** | 2 Tonnen schwere, feuervergoldete Bronzekugel von Andrea del Verrocchio (1471). | 🟨 **Goldblöcke**, **Rohgoldblöcke** & **Kupferblöcke** |
-| **Bodenmosaike im Innenraum** | Großflächige geometrische Marmorintarsien (Baccio d'Agnolo). | ⬛ **Polierter Tiefenschiefer**, **Glatter Basalt**, **Quarz** & **Prismarin** |
-| **Kuppelfresko (Innen)** | *Das Jüngste Gericht* (Giorgio Vasari & Federico Zuccari, 1572–1579). | 🎨 **Farbiges Terrakotta** (Gelb, Hellblau, Weiß, Braun) |
+## Marmorsäulen
 
----
+Säulen und Dienste. (Rolle `marmor_saeule`)
 
-## 🧰 Die Werkzeugkiste des Florentiner Baumeisters (Bauhilfsmittel)
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Quarzsäule | `quartz_pillar` | 2.264 | 0,2 % |
 
-Damit der Bau in Minecraft flüssig und sicher von der Hand geht (genau wie bei den Arbeitern der *Opera del Duomo*):
+## Weißer Marmor, Variante
 
-- 🪜 **Gerüst (Scaffolding):** Essentiell! Erlaubt dir, hunderte Blöcke senkrecht an der Kuppelwand hochzuklettern.
-- 🪓 **Behutsamkeit (Silk Touch) Picke:** Damit du falsch gesetzte Gläser, Calcit- oder Prismarinblöcke ohne Verlust wieder abbauen kannst.
-- 🪶 **Trank der Sanften Landung (Slow Falling):** Bei Höhen über 200 Blöcken dein Lebensretter gegen Abstürze!
-- 🕯️ **Lichtquellen:** **Seelaternen**, **Froschlichter** und **Glowstone** – werden unsichtbar unter Teppichen und im Boden versteckt, damit keine Monster in der Kathedrale spawnen.
+Calcit für Balustraden, Statuen und Maßwerk. (Rolle `marmor_weiss_alt`)
 
-## 📦 Sortierkisten-Empfehlung für dein Baulager ("Bautüten")
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Calcit | `calcite` | 2.996 | 0,3 % |
 
-Für einen reibungslosen Bauablauf empfehlen wir, dein Lager in Minecraft vor Baubeginn thematisch nach Bautüten zu sortieren:
+## Grüner Marmor (Verde di Prato)
 
-```
-[ KISTE 1: WEISSER MARMOR ] -> 10 Doppelkisten Glatter Quarz & Quarztreppen
-[ KISTE 2: GRÜNER MARMOR  ] -> 6 Doppelkisten Dunkler Prismarin & Prismarin-Ziegel
-[ KISTE 3: ROTER MARMOR   ] -> 4 Doppelkisten Polierter Granit & Roter Sandstein
-[ KISTE 4: KUPPEL-ZIEGEL  ] -> 12 Doppelkisten Terrakotta & Ziegelsteine
-[ KISTE 5: FUNDAMENTSTEIN ] -> 8 Doppelkisten Steinziegel & Glatter Stein
-[ KISTE 6: FENSTER & GLAS ] -> 3 Doppelkisten Farbiges Glas & Eisengitter
-[ KISTE 7: GERÜSTE & LICHT] -> 2 Doppelkisten Scaffolding, Froschlichter, Seelaternen
-```
+Streifen, Rauten und Rahmen. (Rolle `marmor_gruen`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Dunkler Prismarin | `dark_prismarine` | 42.008 | 4,6 % |
+
+## Roter Marmor (Rosso di Maremma)
+
+Rautenfelder, Rosetten und Akzente. (Rolle `marmor_rot`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Polierter Granit | `polished_granite` | 16.286 | 1,8 % |
+
+## Roter Marmor, Variante
+
+Rote Felder und Bodenmuster. (Rolle `marmor_rot_alt`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Roter Sandstein | `red_sandstone` | 0 | 0,0 % |
+
+## Mauerwerk
+
+Tragende Wandkerne und Fundament. (Rolle `mauerwerk`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Steinziegel | `stone_bricks` | 333.878 | 36,7 % |
+
+## Pietra serena
+
+Innenseiten der Wände, Pfeiler und Treppen. (Rolle `pietra_serena`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Glatter Stein | `smooth_stone` | 209.244 | 23,0 % |
+
+## Pietra forte
+
+Kapitelle, Gesimse und Auflager. (Rolle `pietra_forte`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Polierter Andesit | `polished_andesite` | 4.463 | 0,5 % |
+
+## Kuppelziegel
+
+Innenschale der Kuppel im Fischgrätverband. (Rolle `ziegel_kuppel`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Ziegelsteine | `bricks` | 59.300 | 6,5 % |
+
+## Dachziegel
+
+Dächer und Außenschale der Kuppel. (Rolle `dachziegel`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Terrakotta | `terracotta` | 56.926 | 6,3 % |
+
+## Dunkler Kontraststein
+
+Zugketten, Ringe und Bodenmuster. (Rolle `kontrast_dunkel`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Polierter Tiefenschiefer | `polished_deepslate` | 23 | 0,0 % |
+
+## Antikes Mauerwerk
+
+Krypta und Ausgrabungen. (Rolle `antik`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Bruchstein | `cobblestone` | 8.796 | 1,0 % |
+| Bemooste Steinziegel | `mossy_stone_bricks` | 2.037 | 0,2 % |
+
+## Holz
+
+Türen, Glockenstuhl und Möbel. (Rolle `holz`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 130 | 0,0 % |
+
+## Gold
+
+Kugel, Kreuz, Mosaike und Glocken. (Rolle `gold`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Goldblock | `gold_block` | 1.796 | 0,2 % |
+
+## Bronze und Kupfer
+
+Bronzetüren und Zierteile. (Rolle `bronze`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Geschnittener Kupferblock | `cut_copper` | 2.207 | 0,2 % |
+
+## Licht
+
+Leuchtende Fenster und Lichtquellen. (Rolle `licht`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Seelaterne | `sea_lantern` | 0 | 0,0 % |
+
+## Buntglas
+
+Fenster und Ochsenaugen. (Rolle `glas`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Weißes Buntglas | `white_stained_glass` | 2.207 | 0,2 % |
+| Blaues Buntglas | `blue_stained_glass` | 1.102 | 0,1 % |
+| Gelbes Buntglas | `yellow_stained_glass` | 977 | 0,1 % |
+| Oranges Buntglas | `orange_stained_glass` | 728 | 0,1 % |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 270 | 0,0 % |
+| Rotes Buntglas | `red_stained_glass` | 135 | 0,0 % |
+
+## Freskenfarben
+
+Kuppelfresko und Uccello-Uhr. (Rolle `fresko`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Weiße Keramik | `white_terracotta` | 2.476 | 0,3 % |
+| Schwarzer Beton | `black_concrete` | 2.363 | 0,3 % |
+| Rote Keramik | `red_terracotta` | 2.255 | 0,2 % |
+| Braune Keramik | `brown_terracotta` | 2.240 | 0,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.096 | 0,2 % |
+| Blaue Keramik | `blue_terracotta` | 2.087 | 0,2 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 1.844 | 0,2 % |
+| Orange Keramik | `orange_terracotta` | 1.092 | 0,1 % |
+| Grüne Keramik | `green_terracotta` | 0 | 0,0 % |
+
+## Bauhilfen
+
+- **Gerüst (Scaffolding):** Damit kommst du senkrecht an Wänden und Kuppel hoch.
+- **Silk-Touch-Spitzhacke:** Falsch gesetzte Glas-, Calcit- oder Prismarinblöcke baust du damit verlustfrei ab.
+- **Trank der Sanften Landung:** Ab Höhen über 200 Blöcken ein guter Schutz vor Abstürzen.
+- **Sortierkisten:** Sortiere dein Lager nach den Rollen dieser Liste, zum Beispiel eine Kiste je Marmorfarbe.

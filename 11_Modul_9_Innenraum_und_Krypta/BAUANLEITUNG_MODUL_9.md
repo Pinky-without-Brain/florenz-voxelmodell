@@ -1,115 +1,170 @@
-# 🏛️ Modul 9: Innenraum, Fresko & Krypta – Schritt-für-Schritt-Bauanleitung
+<!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-## Cathedral of Santa Maria del Fiore (Florenz) • Meisterbauer-Bauanleitung
+# Bauanleitung Modul 9: Innenraum & Krypta
 
-> Die verborgenen Schätze im Herzen von Santa Maria del Fiore: Die frühchristliche Krypta von Santa Reparata mit Brunelleschis Grab, Paolo Uccellos 24-Stunden-Uhr (Ora Italica), das achteckige Chorgestühl und Vasaris monumentales Kuppelfresko Das Jüngste Gericht.
->
-> ⚠️ **Wichtiger Hinweis:** Alle Blockangaben und Koordinaten sind **100 % mathematisch exakt berechnet**. Keine Schätzungen!
+*Bautüte 9: Die Reste der alten Kirche Santa Reparata unter dem Boden, Brunelleschis Grab und die Ausstattung unter der Kuppel*
 
----
+## Übersicht
 
-## 📊 Übersicht Modul 9
+| Kennzahl | Wert |
+| :--- | :--- |
+| Blöcke | 6.409 |
+| Bauschritte | 4 |
+| Y-Bereich | 57 bis 74 |
+| X-Ausdehnung | -202 bis 17 (220 Blöcke) |
+| Z-Ausdehnung | -19 bis 19 (39 Blöcke) |
+| Kleinster Schritt | 1.256 Blöcke (Schritt 9.2) |
+| Mittlerer Schritt | 1.602 Blöcke |
+| Größter Schritt | 1.798 Blöcke (Schritt 9.3) |
 
-- **Gesamtblöcke in diesem Modul:** **14.844 Blöcke**
-- **Anzahl Bauschritte:** **8 feine Bauschritte** (jeder Schritt maximal 3.396 Blöcke)
+## Gesamt-Stückliste
 
-### 📦 Stückliste (Bill of Materials)
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Bemooste Steinziegel | `mossy_stone_bricks` | 2.037 | 31,8 % |
+| Rote Keramik | `red_terracotta` | 1.055 | 16,5 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.039 | 16,2 % |
+| Bruchstein | `cobblestone` | 1.017 | 15,9 % |
+| Weiße Keramik | `white_terracotta` | 577 | 9,0 % |
+| Polierter Granit | `polished_granite` | 474 | 7,4 % |
+| Steinziegel | `stone_bricks` | 144 | 2,2 % |
+| Polierter Andesit | `polished_andesite` | 24 | 0,4 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 15 | 0,2 % |
+| Polierter Tiefenschiefer | `polished_deepslate` | 12 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8 | 0,1 % |
+| Goldblock | `gold_block` | 7 | 0,1 % |
 
-| Block-Typ | Exakte Anzahl | Anteil |
-| :--- | :--- | :--- |
-| `smooth_quartz` | **3.913x** | 26.4 % |
-| `yellow_terracotta` | **3.418x** | 23.0 % |
-| `calcite` | **2.527x** | 17.0 % |
-| `stone_bricks` | **1.729x** | 11.6 % |
-| `gold_block` | **835x** | 5.6 % |
-| `dark_prismarine` | **769x** | 5.2 % |
-| `red_terracotta` | **708x** | 4.8 % |
-| `sea_lantern` | **543x** | 3.7 % |
-| `polished_deepslate` | **377x** | 2.5 % |
-| `smooth_stone` | **25x** | 0.2 % |
-| **GESAMT** | **14.844 Blöcke** | 100,0 % |
+## Bauteile in Bau-Reihenfolge
 
----
+| Nr. | Bauteil | Titel | Blöcke | Schritte |
+| ---: | :--- | :--- | ---: | :--- |
+| 1 | `krypta_boden` | Mosaikboden der Krypta | 1.632 | 9.1 |
+| 2 | `krypta_mauern` | Mauern der alten Kirche Santa Reparata | 3.054 | 9.2–9.3 |
+| 3 | `krypta_stuetzen` | Stützen unter dem Domboden | 168 | 9.4 |
+| 4 | `brunelleschi_grab` | Das Grab von Filippo Brunelleschi | 15 | 9.4 |
+| 5 | `chorschranke` | Achteckige Chorschranke | 1.498 | 9.4 |
+| 6 | `hochaltar` | Hochaltar mit Kruzifix | 42 | 9.4 |
 
-## 🧱 Die 8 Bauschritte im Detail
+## Bauschritte
 
-### Schritt 9.1: Die Krypta von Santa Reparata: Antike Fundamente & Mosaike (Y=56 bis Y=60)
-- **Neu verbaute Blöcke:** **2.010 Blöcke**
-- **Benötigte Materialien:** `stone_bricks`: 372x, `smooth_quartz`: 1168x, `dark_prismarine`: 386x, `gold_block`: 49x, `calcite`: 10x, `smooth_stone`: 25x
-- **Bauanweisung:** Steige unter das Langhaus hinab in die geheimnisvolle Krypta der Vorgängerkirche Santa Reparata von Y=56 bis Y=60. Hier liegen die Ausgrabungen der frühchristlichen Basilika aus dem 4. bis 6. Jahrhundert mit kostbaren Bodenmosaiken und antiken Säulenreihen.
-- 💡 **Meister-Tipp:** Das Pfau-Mosaik im Zentrum symbolisiert nach frühchristlichem Glauben die Unsterblichkeit.
-- ⚠️ **Achtung:** Die Krypta liegt direkt unter der Bodenebene (Y=64) des gotischen Doms.
-- 🎨 **Wusstest du schon?** Archäologische Entdeckung 1965: Bei Renovierungsarbeiten stießen Arbeiter unter dem Domfußboden unerwartet auf die Mauern der verschollenen Basilika Santa Reparata!
+### Schritt 9.1 – Mosaikboden der Krypta
 
----
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.632
+- **Bauteile:** `krypta_boden`
 
-### Schritt 9.2: Brunelleschis Grabmal & die romanischen Kryptagewölbe (Y=61 bis Y=63)
-- **Neu verbaute Blöcke:** **1.394 Blöcke**
-- **Benötigte Materialien:** `polished_deepslate`: 15x, `gold_block`: 3x, `sea_lantern`: 1x, `smooth_quartz`: 50x, `stone_bricks`: 1325x
-- **Bauanweisung:** Vollende die Kryptagewölbe und setze das schlichte, ehrfürchtige Grabmal des großen Dombaumeisters Filippo Brunelleschi bei X=-40, Z=0. Als einziger Florentiner Bürger durfte er direkt in der Kathedrale begraben werden!
-- 💡 **Meister-Tipp:** Das Grabmal ist aus edlem Tiefenschiefer und Gold gestaltet – ein ewiges Licht wacht darüber.
-- ⚠️ **Achtung:** Die Gewölbe auf Y=63 stützen von unten den darüberliegenden Fußboden des Doms.
-- 🎨 **Wusstest du schon?** Ewige Ruhe im eigenen Meisterwerk: Die Grabinschrift lautet: 'Corpus magni ingenii viri Philippi S. Brunelleschi Florentini' – Hier ruht der Körper des Mannes von großem Genie, Filippo Brunelleschi aus Florenz.
+**Teileliste**
 
----
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rote Keramik | `red_terracotta` | 1.055 |
+| Weiße Keramik | `white_terracotta` | 577 |
 
-### Schritt 9.3: Paolo Uccellos 24-Stunden-Uhr (Ora Italica) (Y=75 bis Y=90)
-- **Neu verbaute Blöcke:** **229 Blöcke**
-- **Benötigte Materialien:** `smooth_quartz`: 56x, `calcite`: 16x, `stone_bricks`: 32x, `gold_block`: 59x, `dark_prismarine`: 65x, `sea_lantern`: 1x
-- **Bauanweisung:** Installiere an der inneren Westwand über dem Hauptportal die weltberühmte Monumentaluhr von Paolo Uccello aus dem Jahr 1443. Das 15x15 Blöcke große Zifferblatt wird von den vier Evangelistenköpfen eingerahmt.
-- 💡 **Meister-Tipp:** Die Uhr geht gegen den Uhrzeigersinn: Stunde 24 (XXIV) steht ganz oben und markiert den Sonnenuntergang!
-- ⚠️ **Achtung:** Der Zeiger ragt 1 Block plastisch in den Kirchenraum hinein.
-- 🎨 **Wusstest du schon?** Die italienische Zeit (Ora Italica): In der Renaissance endete der Tag nicht um Mitternacht, sondern mit dem Sonnenuntergang und dem Abendläuten (Ave Maria). Diese Uhr funktioniert bis heute mechanisch genau so!
+**Beschreibung**
 
----
+Zuerst legst du den Boden der Krypta auf Y 57. Er liegt auf der Grubenplatte, die du in Modul 0 gebaut hast, und füllt die Grundfläche der kleinen alten Kirche zwischen X −202 und −140. Das Muster aus roten und weißen Keramikblöcken wiederholt sich alle 6 Blöcke, wie ein Teppich aus Steinchen. Lass die Plätze frei, an denen später die Mauern, die vier mal zwei Stützen und die Grabplatte stehen.
 
-### Schritt 9.4: Chorschranken, Bandinelli-Hochaltar & della Robbia-Lünetten (Y=65 bis Y=74)
-- **Neu verbaute Blöcke:** **815 Blöcke**
-- **Benötigte Materialien:** `smooth_quartz`: 340x, `calcite`: 153x, `dark_prismarine`: 318x, `gold_block`: 3x, `sea_lantern`: 1x
-- **Bauanweisung:** Errichte die monumentale achteckige Marmor-Chorschranke (Coro Bandinelliano) und den Hochaltar direkt unter der Kuppel sowie Luca della Robbias weltberühmte weiß-blaue Terrakotta-Lünetten über den Sakristeitüren.
-- 💡 **Meister-Tipp:** Die Chorschranke spiegelt die achteckige Geometrie der Kuppel perfekt nach unten wider.
-- ⚠️ **Achtung:** Lass die Zugänge nach Westen (zum Langhaus) und nach Osten (zur Apsis) frei.
-- 🎨 **Wusstest du schon?** Das Pazzi-Attentat von 1478: Am 26. April 1478 wurde Giuliano de' Medici während der Messe am Hochaltar ermordet. Sein Bruder Lorenzo der Prächtige rettete sich verwundet hinter die bronzenen Türen dieser Sakristei!
+**Tipp**
 
----
+Baue den Boden Reihe für Reihe von West nach Ost. Leg dir die Stellen der Mauern vorher mit einem Faden oder Stift an, dann musst du später nichts mehr herausnehmen.
 
-### Schritt 9.5: Vasari-Fresko: Der Höllenschlund & die Verdammten (Y=168 bis Y=177)
-- **Neu verbaute Blöcke:** **2.200 Blöcke**
-- **Benötigte Materialien:** `yellow_terracotta`: 1213x, `red_terracotta`: 336x, `smooth_quartz`: 364x, `polished_deepslate`: 179x, `sea_lantern`: 108x
-- **Bauanweisung:** Beginne an der Innenseite der Kuppel mit dem ersten Band des monumentalen Jüngsten Gerichts von Giorgio Vasari und Federico Zuccari von Y=168 bis Y=177. Im Südwesten brennt der feurige Höllenschlund mit Luzifer und den Verdammten aus roter Terrakotta und Tiefenschiefer.
-- 💡 **Meister-Tipp:** Das Fresko legt sich exakt 1 Block vor die tragende Ziegel-Innenschale der Kuppel.
-- ⚠️ **Achtung:** Achte auf den kontinuierlichen Anschluss an die achteckige Kuppelgeometrie.
-- 🎨 **Wusstest du schon?** Dramatik des Manierismus: Vasari und Zuccari gestalteten die Höllenszenen mit drastischen, gewaltigen Figuren – inspiriert von Dantes Göttlicher Komödie.
+**Achtung**
 
----
+Der Boden gehört nur ins Innere der alten Kirche, nicht bis an die Grubenmauer. Auch die Durchgänge in den Wänden bekommen Mosaik. Nur die Plätze für Mauern, Stützen und Grab bleiben frei.
 
-### Schritt 9.6: Vasari-Fresko: Die Tugenden & Kirchenväter (Y=178 bis Y=188)
-- **Neu verbaute Blöcke:** **2.352 Blöcke**
-- **Benötigte Materialien:** `yellow_terracotta`: 1222x, `polished_deepslate`: 183x, `red_terracotta`: 372x, `smooth_quartz`: 479x, `sea_lantern`: 96x
-- **Bauanweisung:** Führe das Fresko von Y=178 bis Y=188 weiter: Auf den gegenüberliegenden Segmenten wachen die sieben christlichen Tugenden, Bischöfe und Kirchenväter in hellen Gewändern.
-- 💡 **Meister-Tipp:** Die Figuren werden nach oben hin perspektivisch vergrößert dargestellt, um von unten natürlich zu wirken.
-- ⚠️ **Achtung:** Der Ring muss nahtlos rund um alle 8 Kuppelsegmente schließen.
-- 🎨 **Wusstest du schon?** 3.600 Quadratmeter Malerei: Dies ist die größte zusammenhängende Freskenfläche der Kunstgeschichte – größer sogar als Michelangelos Sixtinische Kapelle!
+**Fakt**
 
----
+Unter dem heutigen Dom liegen Reste der Vorgängerkirche Santa Reparata. In ihrem Fußboden fand man bunte Mosaiken mit geometrischen Mustern. Sie sind heute in der Krypta zu sehen.
 
-### Schritt 9.7: Vasari-Fresko: Die 24 Ältesten & Propheten (Y=189 bis Y=203)
-- **Neu verbaute Blöcke:** **2.960 Blöcke**
-- **Benötigte Materialien:** `calcite`: 1795x, `sea_lantern`: 166x, `smooth_quartz`: 897x, `gold_block`: 102x
-- **Bauanweisung:** Ziehe die himmlische Sphäre von Y=189 bis Y=203 empor: Die 24 Ältesten der Apokalypse, Propheten des Alten Testaments und Scharen von Engeln halten Kronen und Harfen bereit.
-- 💡 **Meister-Tipp:** Helle Calcit- und Quarzblöcke symbolisieren die weißen Gewänder der Heiligen.
-- ⚠️ **Achtung:** Der Durchmesser verjüngt sich hier zusehends zur Kuppelmitte hin.
-- 🎨 **Wusstest du schon?** Federico Zuccaris Vollendung: Nach Vasaris Tod 1574 führte Zuccari das gigantische Werk mit einem Team von Gehilfen bis 1579 zu Ende.
+### Schritt 9.2 – Mauern der alten Kirche Santa Reparata – Teil 1/2 (Y 57–58)
 
----
+- **Y-Bereich:** 57 bis 58
+- **Blöcke:** 1.256
+- **Bauteile:** `krypta_mauern`
 
-### Schritt 9.8: Vasari-Fresko: Christus Weltenrichter & Himmelschöre (Y=204 bis Y=220)
-- **Neu verbaute Blöcke:** **2.884 Blöcke**
-- **Benötigte Materialien:** `sea_lantern`: 170x, `calcite`: 553x, `smooth_quartz`: 559x, `gold_block`: 619x, `yellow_terracotta`: 983x
-- **Bauanweisung:** Vollende das Meisterwerk mit dem goldenen Himmel bis zur Laternenöffnung auf Y=220! An der Ostseite thront Christus als strahlender Weltenrichter in goldenem Licht, umgeben von Maria, den Aposteln und posauneblasenden Engeln.
-- 💡 **Meister-Tipp:** Tritt in die Mitte des Doms und blicke empor: Das Kuppelfresko überwältigt durch seine monumentale Tiefe und himmlische Pracht!
-- ⚠️ **Achtung:** Der Freskenring schließt oben exakt am Marmorschlussring der Kuppellaterne ab.
-- 🎨 **Wusstest du schon?** Triumph der Renaissance: Über 700 Figuren bevölkern diesen gemalten Himmel über den Köpfen der Gläubigen!
+**Teileliste**
 
----
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Bemooste Steinziegel | `mossy_stone_bricks` | 814 |
+| Bruchstein | `cobblestone` | 442 |
 
+**Beschreibung**
+
+Jetzt mauerst du die Reste der Vorgängerkirche, 2 Blöcke dick und von Y 57 bis 61. Die Westwand steht bei X −202. Das Mittelschiff ist 17 Blöcke breit (Z −8 bis 8), seine Wände haben Durchgänge zu den Seitenschiffen, und die Außenwände stehen bei Z ±18 und ±19. Im Osten schließt eine halbrunde Apsis bei X −140 ab. Eine Querwand bei X −194 trennt die Vorhalle ab. Zum Schluss kommt im Chor ein erhöhter Boden aus zwei Lagen Bruchstein.
+
+**Tipp**
+
+Beginne mit den langen Außenwänden und der Westwand. Die Apsis baust du aus einem Halbkreis, ihre Wand ist ebenfalls 2 Blöcke dick. Ein buntes Gemisch aus Bruchstein und bemoosten Steinziegeln lässt die Mauern alt aussehen.
+
+**Achtung**
+
+Lass die Durchgänge in den Mittelschiffwänden frei (4 Blöcke breit). Die Mauern dürfen die Grubenmauer nicht berühren. Du bleibst mit der Westwand 2 Blöcke davon entfernt.
+
+**Fakt**
+
+Santa Reparata war eine frühchristliche Kirche, die später mehrmals umgebaut wurde. Als man ab 1296 den neuen Dom baute, riss man sie nach und nach ab. Von 1965 bis 1974 gruben Archäologen ihre Reste unter dem Boden des Doms aus.
+
+### Schritt 9.3 – Mauern der alten Kirche Santa Reparata – Teil 2/2 (Y 59–61)
+
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.798
+- **Bauteile:** `krypta_mauern`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Bemooste Steinziegel | `mossy_stone_bricks` | 1.223 |
+| Bruchstein | `cobblestone` | 575 |
+
+**Beschreibung**
+
+Jetzt mauerst du die Reste der Vorgängerkirche, 2 Blöcke dick und von Y 57 bis 61. Die Westwand steht bei X −202. Das Mittelschiff ist 17 Blöcke breit (Z −8 bis 8), seine Wände haben Durchgänge zu den Seitenschiffen, und die Außenwände stehen bei Z ±18 und ±19. Im Osten schließt eine halbrunde Apsis bei X −140 ab. Eine Querwand bei X −194 trennt die Vorhalle ab. Zum Schluss kommt im Chor ein erhöhter Boden aus zwei Lagen Bruchstein.
+
+**Tipp**
+
+Beginne mit den langen Außenwänden und der Westwand. Die Apsis baust du aus einem Halbkreis, ihre Wand ist ebenfalls 2 Blöcke dick. Ein buntes Gemisch aus Bruchstein und bemoosten Steinziegeln lässt die Mauern alt aussehen.
+
+**Achtung**
+
+Lass die Durchgänge in den Mittelschiffwänden frei (4 Blöcke breit). Die Mauern dürfen die Grubenmauer nicht berühren. Du bleibst mit der Westwand 2 Blöcke davon entfernt.
+
+**Fakt**
+
+Santa Reparata war eine frühchristliche Kirche, die später mehrmals umgebaut wurde. Als man ab 1296 den neuen Dom baute, riss man sie nach und nach ab. Von 1965 bis 1974 gruben Archäologen ihre Reste unter dem Boden des Doms aus.
+
+### Schritt 9.4 – Stützen unter dem Domboden & Das Grab von Filippo Brunelleschi & Achteckige Chorschranke & Hochaltar mit Kruzifix
+
+- **Y-Bereich:** 57 bis 74
+- **Blöcke:** 1.723
+- **Bauteile:** `krypta_stuetzen`, `brunelleschi_grab`, `chorschranke`, `hochaltar`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 1.039 |
+| Polierter Granit | `polished_granite` | 474 |
+| Steinziegel | `stone_bricks` | 144 |
+| Polierter Andesit | `polished_andesite` | 24 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 15 |
+| Polierter Tiefenschiefer | `polished_deepslate` | 12 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8 |
+| Goldblock | `gold_block` | 7 |
+
+**Beschreibung**
+
+Im Mittelschiff stellst du sechs Pfeiler auf, in drei Reihen zu je zwei, jeder 2 mal 2 Blöcke breit. Sie stehen bei X −188, −172 und −156, mit Z −6 bis −5 und Z 4 bis 5. Sie wachsen von Y 57 bis Y 63 und berühren oben von unten den Domboden aus Modul 0. Die oberste Lage ist aus poliertem Andesit, der Rest aus Steinziegeln. In den Kryptaboden setzt du eine Grabplatte aus poliertem Tiefenschiefer: 5 Blöcke lang (X −180 bis −176) und 3 Blöcke breit (Z −1 bis 1). In der Mitte läuft eine Zeile aus drei goldenen Blöcken als Inschrift. Die Platte ersetzt dort die Bodenmosaik-Blöcke, die du vorhin ausgelassen hast. Unter der Kuppel baust du auf dem Domboden (Y 64) eine achteckige Schranke aus weißem Marmor, 2 Blöcke dick und 7 Blöcke hoch (Y 65 bis 71). Die Wand liegt zwischen den Abständen 16 und 17 vom Mittelpunkt. Auf der Westseite lässt du einen Eingang von 5 Blöcken Breite (Z −2 bis 2) offen. Zwei Bänder aus rotem Granit (Y 66 und 70) und kleine Felder darüber zieren die Wand. In die Mitte der Kuppel baust du den Altarblock: 5 Blöcke lang (X −2 bis 2), 3 breit (Z −1 bis 1) und 2 hoch (Y 65 und 66) aus weißem Marmor, oben aus gemeißeltem Quarz. Darauf steht ein Kreuz, 8 Blöcke hoch (Y 67 bis 74). Der Stamm besteht aus dunklem Holz. Der Körper Christi in der Mitte ist aus Gold. Der Querbalken liegt auf Y 72 und ist 5 Blöcke breit.
+
+**Tipp**
+
+Baue jeden Pfeiler Lage für Lage und kontrolliere mit einem Lot oder einem Block als Richtschnur, dass er gerade steht. Schau von oben, ob die Pfeiler in den Reihen fluchten. Lege zuerst den Rand aus dunklem Stein und dann die goldene Zeile in die Mitte. So sitzt die Inschrift genau mittig. Baue zuerst den untersten Ring und zähle die Seiten: Das Achteck hat acht gleiche Flächen. Setze die Bänder immer gleichzeitig um den ganzen Ring, dann bleibt das Muster gleichmäßig. Beginne mit dem Altarblock und setze dann das Kreuz in der Mitte darauf. Prüfe von der Seite, ob es senkrecht steht und der Balken mittig sitzt.
+
+**Achtung**
+
+Die Pfeiler müssen genau bis Y 63 reichen, damit sie den Boden darüber stützen. Hör nicht schon auf Höhe der Mauern bei Y 61 auf, sonst bleibt eine Lücke. Das Grab liegt auf derselben Höhe wie der Boden (Y 57), nicht höher. Setze keinen Block auf das Mosaik, das Grab ersetzt dort die Bodenblöcke. Der Eingang liegt im Westen, dort, wo das Langhaus ankommt. Die Schranke steht ganz innen in der Vierung und berührt keine Wand. Bis zu den Pfeilern bleibt viel Platz. Der Altar steht genau über dem goldenen Block im Mittelpunkt des Bodens. Setze ihn nicht seitlich versetzt, sonst stimmt die Symmetrie der Kuppel nicht mehr.
+
+**Fakt**
+
+Der Boden des Doms liegt über der Krypta. Damit er nicht einsackt, braucht er Auflager. Unsere Pfeiler sind nur eine vereinfachte Darstellung, wie das im echten Dom gelöst ist, zeigt dieses Modell nicht genau. Filippo Brunelleschi, der Baumeister der Kuppel, starb 1446 und wurde im Dom beigesetzt, eine seltene Ehre für einen Baumeister. Sein Grab wurde 1972 bei den Grabungen unter dem Dom wiedergefunden. Die achteckige Marmorschranke um den Altar entstand in der Mitte des 16. Jahrhunderts nach Plänen von Baccio Bandinelli. Sie umgibt den Chor genau unter der Kuppel. Auf dem Hochaltar des Doms steht ein hölzernes Kruzifix, das Benedetto da Maiano in den 1490er Jahren schuf. Benedetto da Maiano war ein berühmter Bildhauer der Frührenaissance in Florenz.

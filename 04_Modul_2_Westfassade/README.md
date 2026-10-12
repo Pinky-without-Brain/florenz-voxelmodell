@@ -1,40 +1,40 @@
 # 👑 Modul 2: Die prächtige Westfassade
-## Bautüte 2: Das Marmor-Schmuckstück von Florenz
 
-Die Westfassade von Santa Maria del Fiore ist eine der spektakulärsten und detailreichsten Kirchenfassaden der Welt. Sie funkelt im Sonnenlicht wie ein gigantisches Juwel aus weißem, grünem und rosafarbenem Marmor.
+<!-- STATISTIK:START -->
+**Statistik (generiert):** 24.677 Blöcke in 15 Bauschritten, Y 65 bis 164, X -216 bis -213, Z -44 bis 44.
+Schrittgröße: kleinster 1.252, mittlerer 1.645, größter 1.892 Blöcke.
+
+Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md)
+<!-- STATISTIK:END -->
+
+## Bautüte 2: Sockel, Portale, Nischen, Fensterrose und Giebel der Schauseite
+
+Die Westfassade von Santa Maria del Fiore ist eine der spektakulärsten Kirchenfassaden der Welt. Sie funkelt im Sonnenlicht wie ein Juwel aus weißem, grünem und rosafarbenem Marmor.
 
 ---
 
-## 🗺️ Bauteile & Abmessungen
+## 🗺️ Maße (Maßstab 1:2, 1 Block = 0,5 m)
 
-| Eigenschaft | Wert in Minecraft-Blöcken | Details |
+| Eigenschaft | Wert in Blöcken | Vorbild |
 | :--- | :--- | :--- |
-| **Position** | **X: -170 bis X: -165** | Bildet den westlichen Abschluss des Langhauses |
-| **Breite** | **84 Blöcke** (Z: -42 bis Z: +42) | Überspannt Haupt- und beide Seitenschiffe |
-| **Höhe des Mittelgiebels** | **Y = 135** (Basis Y=64, Höhe 71 Blöcke) | Überragt das Langhausdach |
-| **Spitzen der Fialen (Türmchen)** | **Y = 145** | Filigrane weiße Marmortürmchen |
-| **Durchmesser Rosenfenster** | **~19 Blöcke** | Im Zentrum über dem Hauptportal |
+| **Außenfläche** | X −216 | −108 m im Lageplan |
+| **Dicke** | 4 Blöcke (X −216 bis −213) | Fassadenmauer samt Relief |
+| **Breite** | Z ±44 | überspannt Mittel- und Seitenschiffe |
+| **Giebelspitze** | Y 164 | 50 m (Annahme) |
+| **Portale** | 3 | Mittelportal und zwei Seitenportale mit Bronzetüren |
 
 ---
 
-## 📦 Teileliste für Modul 2
-- ⬜ **Glatter Quarz & Calcit:** Säulenbündel, Wimperge (Giebel), Statuennischen & Fialen
-- 🟩 **Dunkler Prismarin:** Rauten-Intarsien, geometrische Streifen & Fensterfassungen
-- 🟫 **Polierter Granit & Roter Sandstein:** Rosetten-Hintergründe und rote Schmuckfelder
-- 🟨 **Goldblöcke & Gelbe Terrakotta:** Für die Mosaikfelder über den drei Portaltüren
-- 🪟 **Buntglas (Rot, Blau, Gelb):** Für das große zentrale Rosenfenster
-- 🪵 **Dunkleichentüren:** Für das monumentale Dreifach-Portal
+## 📋 Bauteile in Bau-Reihenfolge
 
----
+1. `sockel`: Sockel der Fassade.
+2. `portalzone`: Die drei Portale mit Bronzetüren.
+3. `nischenzone`: Zwölf Statuennischen.
+4. `rosenzone`: Fensterrose und Seitengiebel.
+5. `giebel`: Der Giebel mit Tondo.
+6. `facade_innenseite_uhr`: Paolo Uccellos Uhr auf der Innenseite der Fassade.
 
-## 📋 Bauabschnitte in Modul 2
-- **Schritt 2.1:** Das Portal-Podest mit dreistufiger Marmortreppe anlegen (Y=64 bis 66).
-- **Schritt 2.2:** Die drei großen Portalöffnungen (Hauptportal Mitte, zwei Seitenportale) mit profilierten Laibungen bauen.
-- **Schritt 2.3:** Die spitzen Portal-Giebel (*Wimperge*) mit goldenen Mosaikfeldern errichten.
-- **Schritt 2.4:** Die geometrische Rauten-Wandfläche bis zum ersten Gesims hochziehen (Y=67 bis 90).
-- **Schritt 2.5:** Das riesige runde Rosenfenster im Zentrum einsetzen (Y=92 bis 111).
-- **Schritt 2.6:** Die Apostelgalerie (Nischen mit Statuen) unterhalb des Giebels anlegen.
-- **Schritt 2.7:** Die drei markanten Dreiecksgiebel und die gotischen Fialen aufsetzen (bis Y=145).
+Blockzahlen, Schrittnummern und Teilelisten stehen in der [Bauanleitung](BAUANLEITUNG_MODUL_2.md).
 
 ---
 

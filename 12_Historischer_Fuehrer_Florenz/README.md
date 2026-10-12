@@ -65,3 +65,19 @@ Warum entstand das größte Bauwerk der Christenheit ausgerechnet in Florenz und
 2. **Die Erfindung der Banken:** Die florentinischen Bankiers (wie die berühmte Familie **Medici**) erfanden den modernen Wechselbrief und die doppelte Buchführung. Der Florentiner Goldgulden (*Florin*) war der "US-Dollar" des Mittelalters!
 3. **Der Stolz der Zünfte (*Arti*):** Florenz war eine stolze Republik ohne König. Die Handwerker und Händler regierten die Stadt selbst und wetteiferten darum, wer das schönste Denkmal für seine Zunft stiftete.
 4. **Die Wiedergeburt der Antike (*Renaissance*):** Die Gelehrten von Florenz studierten alte römische Schriften und Bauten. Sie wollten die Welt mit Wissenschaft, Mathematik und Kunst neu erfinden!
+
+---
+
+## 📐 Von der Geschichte zum Modell
+
+Im Maßstab 1:2 (1 Block = 0,5 m) lassen sich die großen Zahlen der Geschichte direkt nachzählen:
+
+| Wahrzeichen | Wirkliches Maß | Im Modell |
+| :--- | :--- | :--- |
+| Kuppelansatz auf dem Tambour | ca. 54 m | Y 172 |
+| Laternenbasis über dem Schlussring | ca. 91 m | Y 246 |
+| Kreuz auf der Laterne | 114,5 m | Y 293 |
+| Campanile Giottos | 84,7 m | Oberkante Y 233 |
+| Abstand Baptisterium bis Westfassade | ca. 27 m | 58 Blöcke |
+
+Alle Maße und ihre Quellen stehen in [`REFERENZMASSE.md`](../00_Projektplan_und_Konzept/REFERENZMASSE.md). Wo die Geschichte im Bau eine Rolle spielt, steht sie als „Fakt“ bei den Bauschritten in den [Bauanleitungen der Module](../README.md).

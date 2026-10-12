@@ -1,5 +1,5 @@
 'use strict';
-// Führt alle Prüfregeln aus. R1 (Konflikte) liegt im Weltaufbau, R9 (Docs) kommt später.
+// Führt alle Prüfregeln aus. R1 (Konflikte) liegt im Weltaufbau, R9 (Docs) nur mit opts.docs.
 const path = require('node:path');
 
 const RULES = [
@@ -10,6 +10,7 @@ const RULES = [
   ['R6', require('./r6_bounds.js')],
   ['R7', require('./r7_palette.js')],
   ['R8', require('./r8_symmetry.js')],
+  ['R9', require('./r9_docs.js')],
   ['R10', require('./r10_wordcheck.js')]
 ];
 
@@ -28,7 +29,7 @@ function validate(opts) {
   const root = opts.root || ROOT;
   const keyCache = new Map();
   const ctx = {
-    grid, world, steps, root,
+    grid, world, steps, root, stepsByModule, docs: opts.docs || null,
     dims: require('../spec/dimensions.js'),
     palette: require('../spec/palette.js'),
     interfaces: opts.interfaces || require('../spec/interfaces.js'),

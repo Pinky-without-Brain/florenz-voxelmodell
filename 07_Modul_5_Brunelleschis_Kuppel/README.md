@@ -1,55 +1,41 @@
 # 🏛️ Modul 5: Brunelleschis Doppelkuppel
-## Bautüte 5: Das größte architektonische Meisterwerk der Renaissance
 
-Hier schlägt das Herz unseres Bauprojekts! Die Kuppel von Filippo Brunelleschi ist die größte gemauerte Kuppel der Erde. Über 100 Jahre lang glaubten alle Experten, sie könne niemals gebaut werden. In diesem Modul bauen wir sie Block für Block nach – inklusive der echten Doppelschale, des Fischgrät-Mauerwerks (*spina di pesce*), der 8 kolossalen Marmorrippen und des begehbaren Treppenhauses im Hohlraum!
+<!-- STATISTIK:START -->
+**Statistik (generiert):** 112.856 Blöcke in 77 Bauschritten, Y 173 bis 246, X -53 bis 53, Z -53 bis 53.
+Schrittgröße: kleinster 872, mittlerer 1.466, größter 2.052 Blöcke.
+
+Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md)
+<!-- STATISTIK:END -->
+
+## Bautüte 5: Die achteckige Doppelkuppel aus Ziegeln mit Rippen, Ringketten und Jüngstem Gericht
+
+Hier schlägt das Herz unseres Bauprojekts! Die Kuppel von Filippo Brunelleschi ist die größte gemauerte Kuppel der Erde. Über 100 Jahre lang glaubten alle Experten, sie könne niemals gebaut werden. In diesem Modul bauen wir sie Block für Block nach, mit der echten Doppelschale, dem Fischgrät-Mauerwerk (*spina di pesce*), den acht Marmorrippen und dem begehbaren Gang zwischen den Schalen.
 
 ---
 
-## 🗺️ Bauteile & Abmessungen (100 % Exakt)
+## 🗺️ Maße (Maßstab 1:2, 1 Block = 0,5 m)
 
-| Eigenschaft | Wert in Minecraft-Blöcken | Details |
+| Eigenschaft | Wert in Blöcken | Vorbild |
 | :--- | :--- | :--- |
-| **Höhenebene der Kuppel** | **Y = 160 bis Y = 250** | **90 Blöcke Bogenhöhe** (quinto acuto) |
-| **Basis-Außendurchmesser** | **84 Blöcke** (auf Y=160) | Exakte Fortführung des Tambours aus Modul 4 |
-| **Basis-Innendurchmesser** | **72 Blöcke** (auf Y=160) | Riesiger stützenfreier Innenraum für das Kuppelfresko |
-| **Oberer Scheiteldurchmesser** | **28 Blöcke** (auf Y=250) | Öffnung (Oculus) für den Aufsatz der Laterne |
-| **Die 8 weißen Marmorrippen** | **8 spitzbogige Rippen** an den Ecken | Massive Eckrippen aus weißem Carrara-Marmor & Calcit |
-| **Die 16 Zwischenrippen** | **16 verdeckte Rippen** im Hohlraum | Je 2 Stützrippen pro Achteckseite |
-| **Der Hohlraum dazwischen** | **2 bis 3 Blöcke breit** | Begehbarer Treppenkorridor mit Fenstern |
-| **Gesamtblockzahl Modul 5** | **82.688 Blöcke** | 100 % mathematisch berechnet ohne Schätzungen |
+| **Ansatz** | Y 172 | 54 m über dem Boden |
+| **Oberkante Schlussring** | Y 246 | 91 m, Basis der Laterne |
+| **Scheitel des Profils** | ca. Y 244 (72 Blöcke über dem Ansatz) | 90 m, aus dem Profil berechnet |
+| **Profil** | „quinto acuto“, Rippenradius = 4/5 des Durchmessers über die Ecken | IMSS |
+| **Innenmaß am Fuß** | Halbmaß 45 über die Flächen | 45 m |
+| **Innenschale** | 4 Blöcke am Fuß, 3 oben | 2,25 m |
+| **Zwischenraum** | 2 Blöcke | 1,2 m, begehbar |
+| **Außenschale** | 2 Blöcke am Fuß, 1 oben | 0,6–0,8 m |
+| **Rippen** | 8 Eckrippen aus weißem Marmor, 16 verborgene Zwischenrippen | 2 je Segel |
+| **Auge** | Achteck mit Halbmaß 6 | Öffnung zur Laterne (Annahme) |
 
 ---
 
-## 📦 Exakte Stückliste (Bill of Materials) für Modul 5
+## 📋 Bauteile in Bau-Reihenfolge
 
-| Block-Typ | Minecraft-ID | Exakte Anzahl | Funktion im Bauwerk |
-| :--- | :--- | :--- | :--- |
-| 🧱 **Terrakotta** | `terracotta` | **29.879x** | Äußere Schutzschale der 8 Kuppelsegmente |
-| 🧱 **Ziegelsteine** | `bricks` | **27.445x** | Fischgrät-Mauerwerk (*spina di pesce*) der Innenschale |
-| 🪨 **Steinziegel** | `stone_bricks` | **16.428x** | 16 Zwischenrippen, Ringanker & massiver Scheitel |
-| ⬜ **Glatter Quarzblock** | `smooth_quartz` | **5.808x** | Die 8 monumentalen weißen Außenrippen & Schlussring |
-| ⬛ **Polierter Tiefenschiefer** | `polished_deepslate` | **2.112x** | Steinerne Zugketten & innerer Oculus-Ring |
-| ▫️ **Calcit** | `calcite` | **952x** | Rippenkämme, Eckkonsolen & oberer Abschlusskranz |
-| 🔘 **Glatter Stein** | `smooth_stone` | **56x** | Begehbarer Treppenpfad im Kuppelhohlraum |
-| 🕯️ **Seelaterne** | `sea_lantern` | **8x** | Lichtschlitze & Gangbeleuchtung im Hohlraum |
-| **GESAMT** | | **82.688 Blöcke** | **100 % mathematisch verifiziert** |
+1. `kuppel_ring_01` bis `kuppel_ring_08`: Die Kuppel in acht Ringen von unten nach oben. Der oberste Ring trägt das Fresko des Jüngsten Gerichts, die Ringe darunter Ketten, Fischgrätmuster und den Gang zwischen den Schalen.
+2. `schlussring`: Der Schlussring um das Auge, auf dem später die Laterne steht.
 
----
-
-## 📋 Die 12 Bauabschnitte in Modul 5
-
-- **Schritt 5.1:** Die 8 Eckauflager & Kuppelbasis-Ringanker (Y=161 bis Y=164) – **7.120 Blöcke**
-- **Schritt 5.2:** Die Innenschale im Fischgrät-Verband – Untere Zone (Y=165 bis Y=190) – **11.728 Blöcke**
-- **Schritt 5.3:** Die 16 verborgenen Zwischenrippen & Ankerketten (Y=165 bis Y=205) – **2.680 Blöcke**
-- **Schritt 5.4:** Das begehbare Treppenhaus im Hohlraum (Y=165 bis Y=205) – **41 Blöcke**
-- **Schritt 5.5:** Die Außenschale aus toskanischer Terrakotta – Untere Zone (Y=165 bis Y=190) – **12.132 Blöcke**
-- **Schritt 5.6:** Die 8 Außenrippen aus weißem Marmor – Untere Zone (Y=165 bis Y=190) – **1.872 Blöcke**
-- **Schritt 5.7:** Die Innenschale – Obere Steilzone (Y=191 bis Y=225) – **13.008 Blöcke**
-- **Schritt 5.8:** Die Außenschale – Obere Steilzone (Y=191 bis Y=225) – **13.380 Blöcke**
-- **Schritt 5.9:** Der obere Treppenaufstieg & Lichtschlitze (Y=206 bis Y=225) – **23 Blöcke**
-- **Schritt 5.10:** Die 8 Außenrippen – Obere Steilzone (Y=191 bis Y=225) – **2.520 Blöcke**
-- **Schritt 5.11:** Der Kuppelscheitel & Schlussgewölbe (Y=226 bis Y=248) – **17.352 Blöcke**
-- **Schritt 5.12:** Der monumentale Marmor-Schlussring (Y=249 bis Y=250) – **832 Blöcke**
+Blockzahlen, Schrittnummern und Teilelisten stehen in der [Bauanleitung](BAUANLEITUNG_MODUL_5.md).
 
 ---
 
@@ -58,7 +44,7 @@ Hier schlägt das Herz unseres Bauprojekts! Die Kuppel von Filippo Brunelleschi 
 > Als die Ratsherren von Florenz die besten Architekten der Welt versammelten, fragten sie:
 > *"Wer kann diese Kuppel ohne ein Vermögen für Holzgerüste bauen?"*
 > Filippo Brunelleschi lächelte, nahm ein Hühnerei und sagte: *"Wer von euch kann dieses Ei aufrecht auf den Marmortisch stellen?"*
-> Alle Meister versuchten es, aber das Ei rollte jedes Mal um. Schließlich nahm Brunelleschi das Ei, 
+> Alle Meister versuchten es, aber das Ei rollte jedes Mal um. Schließlich nahm Brunelleschi das Ei,
 > schlug es ganz sanft an der Spitze ein, sodass die Schale leicht nachgab – und das Ei stand kerzengerade!
 > Die Ratsherren riefen: *"Aber so hätten wir das auch gekonnt!"*
 > Brunelleschi antwortete: *"Ja, aber ICH hatte die Idee dazu! Und genauso werde ich eure Kuppel bauen!"*

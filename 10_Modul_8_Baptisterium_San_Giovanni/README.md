@@ -1,48 +1,45 @@
 # 🚪 Modul 8: Baptisterium San Giovanni
-## Bautüte 8: Das goldene Oktogon und die Paradiespforte
 
-Gegenüber der Kathedrale auf der Piazza del Duomo steht das **Baptisterium San Giovanni**, die Taufkirche von Florenz. Es ist noch älter als der Dom und berühmt für seine achteckige Form, seine funkelnden Goldmosaike und die weltberühmten Bronzetüren, die Michelangelo als „würdig, die Pforten des Paradieses zu schmücken“ bezeichnete.
+<!-- STATISTIK:START -->
+**Statistik (generiert):** 62.641 Blöcke in 43 Bauschritten, Y 65 bis 138, X -347 bis -273, Z -34 bis 34.
+Schrittgröße: kleinster 594, mittlerer 1.457, größter 2.070 Blöcke.
+
+Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md)
+<!-- STATISTIK:END -->
+
+## Bautüte 8: Das achteckige Taufhaus aus grünem und weißem Marmor mit Portalen, Kuppel und Laterne
+
+Gegenüber der Kathedrale auf der Piazza del Duomo steht das **Baptisterium San Giovanni**, die Taufkirche von Florenz. Es ist noch älter als der Dom und berühmt für seine achteckige Form, seine Goldmosaike und die Bronzetüren, die Michelangelo als „würdig, die Pforten des Paradieses zu schmücken“ bezeichnete.
 
 ---
 
-## 🗺️ Bauteile & Abmessungen
+## 🗺️ Maße (Maßstab 1:2, 1 Block = 0,5 m)
 
-| Eigenschaft | Wert in Minecraft-Blöcken | Details |
+| Eigenschaft | Wert in Blöcken | Vorbild |
 | :--- | :--- | :--- |
-| **Position** | **X: -249 bis -201, Z: -24 bis +24** | Freistehendes Oktogon direkt vor der Westfassade |
-| **Durchmesser** | **49 Blöcke** (Radius 24) | 8 gleich lange, symmetrische Fassaden |
-| **Gesamthöhe** | **71 Blöcke** (Y: 65 bis Y: 135) | Dreigeschossige Fassade + Pyramidendach + Laterne |
-| **Die Osttür (Paradiespforte)** | Exakt zur Kathedralen-Fassade gerichtet | Lorenzo Ghibertis vergoldete Relief-Tafeln |
-| **Innenraum-Kuppel** | Y: 100 bis Y: 125 | Reiches byzantinisches Goldmosaik mit Christus Weltenrichter |
-| **Gesamtanzahl Blöcke** | **24.297 Blöcke** | 100% exakt berechnet, 0 Kollisionen |
+| **Mitte** | X −307, Z 0 (auf der Längsachse) | OSM: (−153,6 m; 0,4 m) |
+| **Außenmaß** | Halbmaß 33 über die Flächen | ca. 33–34 m |
+| **Innenmaß** | Halbmaß 25 | 25,6 m |
+| **Scarsella** | rechteckiger Anbau im Westen bis X −347, Halbbreite 13 | Apsis des Chores |
+| **Attika** | Oberkante Y 116 | 26 m (Annahme) |
+| **Dachfirst** | Y 126 | 31 m (Annahme) |
+| **Laternenspitze** | Y 138 | 37 m (Annahme) |
+| **Abstand zur Fassade** | 58 Blöcke | ca. 27 m |
 
 ---
 
-## 📦 Teileliste für Modul 8
+## 📋 Bauteile in Bau-Reihenfolge
 
-| Block-Typ | Deutsche Bezeichnung | Anzahl (exakt) | Verwendung im Bauwerk |
-| :--- | :--- | :--- | :--- |
-| `stone_bricks` | Steinziegel | 8.464 | Tragende zweischalige Mauer und Fundamentkern |
-| `smooth_quartz` | Glatter Quarz | 5.497 | Weißer Marmor: Arkaden, Pilaster, Dachgrate und Laterne |
-| `dark_prismarine` | Dunkler Prismarin | 5.129 | Grüner Prato-Marmor: Streifeninkrustation, Rauten und Dachflächen |
-| `polished_granite` | Polierter Granit | 1.746 | Bodenmosaik, Südportal und Rautenfelder |
-| `gold_block` | Goldblock | 1.587 | Ghibertis Paradiespforte und das byzantinische Deckenmosaik |
-| `calcite` | Calcit | 1.380 | Architrave, Gesimse, Portalgiebel und Christus-Gewand |
-| `sea_lantern` | Seelaterne | 494 | Erleuchtete Rundbogenfenster, Mosaiksterne und Heiligenschein |
-| **Gesamt** | | **24.297** | **100% exakt** |
+1. `sockel_und_untergeschoss`: Sockel und Untergeschoss mit der Streifeninkrustation.
+2. `portale`: Die drei Portale mit Türblättern. Die Ostpforte, die zum Dom zeigt, ist aus Gold.
+3. `scarsella`: Der Anbau im Westen.
+4. `obergeschoss`: Das Obergeschoss mit Fenstern.
+5. `attika`: Die Attika mit Streifen.
+6. `innenkuppel`: Die Innenkuppel mit dem Goldmosaik.
+7. `pyramidendach`: Das achtteilige Pyramidendach.
+8. `laterne`: Die Laterne auf der Spitze.
 
----
-
-## 📋 Bauabschnitte in Modul 8
-
-- **Schritt 8.1 (2.605 Blöcke):** Das 49-Block-Achteckfundament & Kosmaten-Bodenmosaik anlegen (Y=65 bis Y=68).
-- **Schritt 8.2 (6.848 Blöcke):** Das romanische Erdgeschoss mit zweischaligen Wänden hochziehen (Y=69 bis Y=88).
-- **Schritt 8.3 (672 Blöcke):** Die 3 Prunkportale & Lorenzo Ghibertis goldene Paradiespforte einsetzen (Y=69 bis Y=84).
-- **Schritt 8.4 (6.768 Blöcke):** Das zweite Geschoss mit ionischen Pilastern & Rautenfeldern bauen (Y=89 bis Y=106).
-- **Schritt 8.5 (3.240 Blöcke):** Das Attikageschoss mit geometrischer Inkrustation errichten (Y=107 bis Y=115).
-- **Schritt 8.6 (1.344 Blöcke):** Das achtteilige Pyramidendach mit Quarzrippen eindecken (Y=116 bis Y=127).
-- **Schritt 8.7 (324 Blöcke):** Die weiße Marmorlaterne mit dem goldenen Kreuz aufsetzen (Y=128 bis Y=135).
-- **Schritt 8.8 (2.496 Blöcke):** Das byzantinische Decken-Goldmosaik mit Christus Weltenrichter gestalten (Y=100 bis Y=125).
+Blockzahlen, Schrittnummern und Teilelisten stehen in der [Bauanleitung](BAUANLEITUNG_MODUL_8.md).
 
 ---
 
