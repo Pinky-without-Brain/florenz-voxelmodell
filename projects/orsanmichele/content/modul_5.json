@@ -1,0 +1,22 @@
+{
+  "module": 5,
+  "title": "Dach",
+  "subtitle": "Bautüte 5: flaches Walmdach aus Terrakotta mit Kamm",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Die Traufe liegt auf Y 143 über dem Kranzgesims und kragt zwei Blöcke aus. Du mauerst die Haut zwei Lagen stark; sie steigt um 0,4 Blöcke je Block nach innen und bildet in der Mitte ein flaches Plateau.",
+      "tip": "Arbeite von der Traufe nach innen; so bleibt jede Lage mit der darunterliegenden verbunden.",
+      "caution": "Auch am Rand ist die Haut zwei Lagen stark.",
+      "fact": "Orsanmichele ist insgesamt etwa 40 Meter hoch."
+    },
+    "dachkamm": {
+      "title": "Dachkamm",
+      "description": "Auf dem Plateau setzt du entlang der Mittelachse einen zwei Blöcke breiten Kamm auf Y 148. Das ist der höchste Punkt des Gebäudes.",
+      "tip": "Der Kamm sitzt über der Mitte des Daches, bei w −1 und 0.",
+      "caution": "Nur zwei Zellen breit.",
+      "fact": "Der Dachfirst liegt auf Y 148, also 80 Lagen über der Bodenplatte."
+    }
+  }
+}

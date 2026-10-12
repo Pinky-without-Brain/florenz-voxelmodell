@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "1. Obergeschoss",
+  "subtitle": "Bautüte 3: glatte Pietraforte-Wand mit zehn Biforien, Wappen und Fußgesims",
+  "icon": "🏰",
+  "parts": {
+    "og1_wand": {
+      "title": "Wand des 1. Obergeschosses",
+      "description": "Du mauerst den Außenring drei Blöcke dick von Y 95 bis 119 aus poliertem Andesit, bündig mit den Pfeilerflächen. Lage 50 und 51 (Y 118 und 119) werden als Gesims aus grauem Stein gesetzt. Fenster und Wappenzellen lässt du aus.",
+      "tip": "Die Wand liegt genau über den Pfeilern und Füllwänden des Erdgeschosses; arbeite rundum Lage für Lage.",
+      "caution": "Falls Modul 8 gebaut wird, bleibt der Durchgang in der Westwand frei.",
+      "fact": "Die oberen Geschosse zeigen eine glatte Pietraforte-Verkleidung."
+    },
+    "og1_biforien": {
+      "title": "Zehn Biforien",
+      "description": "Über jedem Bogenfeld sitzt ein Doppelfenster, 7 Blöcke breit und 12 hoch (Y 101 bis 112). Rahmen und Mittelstütze bestehen aus weißem Quarz, das Glas liegt in der mittleren Wandebene.",
+      "tip": "Setze erst Rahmen und Stütze, dann das Glas, damit nichts fehlt.",
+      "caution": "Der Rahmen liegt nur in der Außenlage; innen bleibt die Wand.",
+      "fact": "Die großen Marmor-Biforien sind ein Kennzeichen der Obergeschosse."
+    },
+    "og1_wappen": {
+      "title": "Wappenschilde",
+      "description": "Über jedem Fenster setzt du ein Wappen aus 2 mal 2 Blöcken auf Y 114 bis 115. Die Farben wechseln zwischen Rot, Weiß, Blau und Gelb.",
+      "tip": "Die Reihenfolge der Farben ist egal, nur nebeneinander sollen sie sich unterscheiden.",
+      "caution": "Das Wappen sitzt in der äußersten Zelle der Wand.",
+      "fact": "Die Schilde stehen für das Volk, die Republik und die Zünfte."
+    },
+    "og1_marcapiano": {
+      "title": "Fußgesims",
+      "description": "Auf Y 95 legst du in der Außenlage eine umlaufende Reihe aus weißem Quarz als Fußgesims des Obergeschosses.",
+      "tip": "Es ist nur eine Zeile breit und springt nicht vor.",
+      "caution": "Im Durchgang zum Verbindungsbogen ist das Gesims unterbrochen.",
+      "fact": "Das Gesims trennt das Erdgeschoss optisch vom ersten Obergeschoss."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "orsanmichele",
+  "title": "Orsanmichele",
+  "type": "wahrzeichen",
+  "gebaeude": ["w442508011"],
+  "bodenY": 68,
+  "rahmen": { "ox": -298, "oz": 542, "thetaDeg": 1.0 },
+  "masken": { "bogen": { "gebaeude": ["w1394931261"] } },
+  "luftraum": 2
+}

@@ -1,0 +1,36 @@
+{
+  "module": 4,
+  "title": "2. Obergeschoss & Arkadenfries",
+  "subtitle": "Bautüte 4: obere Wand, Biforien, Dreipassfries auf Konsolen und Kranzgesims",
+  "icon": "🏯",
+  "parts": {
+    "og2_wand": {
+      "title": "Wand des 2. Obergeschosses",
+      "description": "Du mauerst den Außenring drei Blöcke dick von Y 120 bis 137, ohne die Zellen für Fenster und Wappen.",
+      "tip": "Die Wand liegt genau über der Decke und dem Gesims des ersten Obergeschosses.",
+      "caution": "Lasse die Fenster mit 10 Blöcken Höhe frei (Y 126 bis 135).",
+      "fact": "Die oberen Geschosse sind niedriger als das Erdgeschoss, wie die deutsche Wikipedia schreibt."
+    },
+    "og2_biforien": {
+      "title": "Biforien und Wappen",
+      "description": "Auch im zweiten Obergeschoss sitzen zehn Doppelfenster, 7 Blöcke breit und 10 hoch (Y 126 bis 135), mit Rahmen und Mittelstütze aus weißem Quarz. Darüber folgt auf Y 136 bis 137 je ein Wappen von 2 mal 2 Blöcken.",
+      "tip": "Setze die Wappen erst, wenn die Fenster fertig sind.",
+      "caution": "Die Farben der Wappen sind gegenüber dem ersten Obergeschoss versetzt.",
+      "fact": "Die Wappen der Zünfte zieren die Wandflächen."
+    },
+    "arkadenfries": {
+      "title": "Arkadenfries aus Dreipassbögen",
+      "description": "Von Y 138 bis 141 mauerst du den Fries: Alle sechs Blöcke sitzt ein Konsolenpaar, das erst eine, dann zwei Zellen vorkragt. Dazwischen sparst du Blendbögen aus und setzt dahinter ein Dreipassfeld aus gemeißeltem Quarz.",
+      "tip": "Beginne an einer Ecke und zähle im Takt von sechs Zellen.",
+      "caution": "Die Konsolen kragen über die Straße; sie dürfen höchstens zwei Zellen vor die Wand reichen.",
+      "fact": "Den Abschluss bildet nach it.wikipedia ein Fries aus Dreipassbögen auf Konsolen."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Auf Y 142 legst du die Platte aus grauem Stein über die Wand und die Konsolen. Sie kragt bis zu zwei Blöcke über die Fassade aus.",
+      "tip": "Die Platte hält sich an den Konsolen darunter.",
+      "caution": "Nicht mehr als zwei Zellen über die Mauer; weiter außen ist der Luftraum der Straße.",
+      "fact": "Die Oberkante des Gesimses liegt bei Y 142."
+    }
+  }
+}

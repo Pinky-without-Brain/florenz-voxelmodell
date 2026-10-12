@@ -1,0 +1,22 @@
+{
+  "module": 8,
+  "title": "Verbindungsbogen",
+  "subtitle": "Bautüte 8 (optional): Brücke zum Palazzo dell'Arte della Lana",
+  "icon": "🌉",
+  "parts": {
+    "pontile": {
+      "title": "Brücke zur Via dell'Arte della Lana",
+      "description": "An der Westseite baust du den Verbindungsgang: Boden auf Y 94, Wände zwei Blöcke dick von Y 95 bis 102 und eine Decke auf Y 103 bis 104. Der Durchgang von 5 Blöcken Breite führt in die Westwand des ersten Obergeschosses.",
+      "tip": "Beginne am Boden an der Westwand der Kirche.",
+      "caution": "Das Fenster über dem Durchgang gewinnt; der Durchgang ist dort nur sechs Blöcke hoch.",
+      "fact": "Buontalenti ließ den Bogen 1569 errichten; die zugehörige Treppe wurde später abgerissen."
+    },
+    "pontile_tuer": {
+      "title": "Türlaibung",
+      "description": "Neben dem Durchgang setzt du die Laibung aus weißem Quarz in die Westwand des ersten Obergeschosses, ein Block breit, von Y 95 bis 101.",
+      "tip": "Die Laibung schließt an den Fensterrahmen darüber an.",
+      "caution": "Die Zellen des Fensters bleiben dem Fenster.",
+      "fact": "Der Verbindungsgang führt zum Palazzo dell'Arte della Lana."
+    }
+  }
+}

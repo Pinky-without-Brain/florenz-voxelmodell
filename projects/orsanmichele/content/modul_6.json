@@ -1,0 +1,36 @@
+{
+  "module": 6,
+  "title": "Innenraum Erdgeschoss",
+  "subtitle": "Bautüte 6: zwei Schiffe, Pfeiler, Wandvorlagen und sechs Kreuzgewölbe",
+  "icon": "⛪",
+  "parts": {
+    "innenpfeiler": {
+      "title": "Zwei freistehende Pfeiler",
+      "description": "In der Mitte des Raumes stehen zwei Pfeiler aus grauem Stein, je 4 mal 4 Blöcke breit (u −11 bis −8 und 8 bis 11). Der Schaft reicht bis Y 79, das Kapitell aus gemeißeltem Quarz liegt bei Y 80 und 81; darüber setzt du Kämpferblöcke bis zur Unterkante des Gewölbes.",
+      "tip": "Baue Schaft und Kapitell, dann die Kämpferblöcke, bis das Gewölbe ansetzt.",
+      "caution": "Die Pfeiler stehen auf dem Boden, nicht auf dem Sockel.",
+      "fact": "Das Innere ist durch zwei Schiffe mit drei Jochen gegliedert."
+    },
+    "wandvorlagen": {
+      "title": "Wandvorlagen",
+      "description": "An den Wänden setzt du halbe Pfeiler von 2 mal 2 Blöcken, an Nord und Süd bei u ±9,5, an West und Ost bei w −0,5, hoch bis zum Gewölbeansatz.",
+      "tip": "Sie fluchten mit den freistehenden Pfeilern in der Mitte.",
+      "caution": "Sie stehen unmittelbar an der Innenwand.",
+      "fact": "Die Vorlagen tragen die Gurtbögen des Gewölbes."
+    },
+    "kreuzgewoelbe": {
+      "title": "Sechs Kreuzgewölbe",
+      "description": "Je Joch und Schiff wölbst du ein Kreuzgewölbe aus grauem Stein, zwei Zellen stark. Der Ansatz liegt bei Y 82, der Scheitel bei Y 90. Die Gurtbögen über den Pfeilerachsen sind um eine Lage abgesenkte Rippen.",
+      "tip": "Wölbe von den Kanten zum Scheitel, so fehlt keine Verbindung.",
+      "caution": "Der Scheitel bleibt unter der Decke bei Y 93.",
+      "fact": "Das Gewölbe besteht aus zwei sich schneidenden Tonnen."
+    },
+    "decke_eg": {
+      "title": "Decke über dem Erdgeschoss",
+      "description": "Über dem Gewölbe legst du auf Y 93 bis 94 die Decke aus grauem Stein. Sie liegt auf den Wänden und Pfeilern und reicht bis an die Spandrillen.",
+      "tip": "Die Decke ist der Boden des ersten Obergeschosses.",
+      "caution": "Das Gewölbe bleibt darunter frei.",
+      "fact": "Die Decke trennt Erdgeschoss und erstes Obergeschoss."
+    }
+  }
+}

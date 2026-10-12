@@ -1,0 +1,15 @@
+{
+  "module": 9,
+  "title": "Statuen",
+  "subtitle": "Bautüte 9 (optional): 14 vereinfachte Blockfiguren in den Nischen",
+  "icon": "🗿",
+  "parts": {
+    "statuen": {
+      "title": "Vierzehn Statuen",
+      "description": "In jede Nische stellst du eine vereinfachte Blockfigur aus Bronze: Fuß und Körper 2 Blöcke breit (Y 76 bis 79), darüber ein Kopf von einem Block auf Y 80. Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.",
+      "tip": "Die Figur steht auf der Bank der Nische, in der vordersten Zelle.",
+      "caution": "Es sind keine nachgebildeten Statuen, nur Platzhalter der Größe 2,5 Meter.",
+      "fact": "Die Originale der Zunftstatuen sind zwischen 2,03 und 2,73 Metern hoch."
+    }
+  }
+}

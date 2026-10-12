@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament & Boden",
+  "subtitle": "Bautüte 0: Fundamentzellen, Bodenplatte und Sockelstufe von Orsanmichele",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Grundriss tiefer als Y 67 liegt, mauerst du Fundamentblöcke aus Tuffstein bis Y 67 auf. Das gilt nur für wenige Randzellen; an den meisten Stellen steht die Kirche schon auf gewachsenem Boden.",
+      "tip": "Lege den Grundriss zuerst mit der Außenkante der OSM-Fläche aus, dann stimmen alle späteren Lagen.",
+      "caution": "Baue hier nichts außerhalb der Grundrissmaske, sonst überlappt später die Straße.",
+      "fact": "Orsanmichele steht frei an vier Straßen; das Gelände fällt zum Arno hin leicht ab."
+    },
+    "bodenplatte": {
+      "title": "Bodenplatte",
+      "description": "Du legst die Bodenplatte auf Y 68 über den ganzen Grundriss von 69 mal 48 Blöcken. Außen und in den Randzonen ist sie Pflaster; im Innenraum wechseln Felder von 3 mal 3 Blöcken zwischen Pflaster und grauem Stein.",
+      "tip": "Beginne an einer Ecke und zähle die Dreierfelder im Schachbrettmuster ab.",
+      "caution": "Der Grundriss ist um 1 Grad gegen die Modellachse gedreht; richte dich an den Kanten der Fläche aus, nicht an der Himmelsrichtung.",
+      "fact": "Das Erdgeschoss war ab 1290 eine offene Getreideloggia; erst um 1360 bis 1367 wurden die Arkaden zugemauert."
+    },
+    "sockel_stufe": {
+      "title": "Sockelstufe an den Pfeilern",
+      "description": "An den zehn Pfeilern setzt du zwei Lagen Sockel (Y 69 bis 70) aus grauem Stein in die äußeren beiden Zellen und füllst den Pfeilerkern dahinter mit Steinziegeln. Die Rücksprünge der Bogenfelder bleiben offen.",
+      "tip": "Jeder Pfeiler ist 6 mal 6 Blöcke breit; die Eckpfeiler gehören zu zwei Seiten.",
+      "caution": "Lass die Zellen vor den Bogenfeldern frei, dort steht später die zurückgesetzte Füllwand.",
+      "fact": "Die Pfeiler tragen die Tabernakel mit den Statuen der Florentiner Zünfte."
+    }
+  }
+}
