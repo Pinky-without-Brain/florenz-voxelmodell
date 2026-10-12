@@ -1,0 +1,123 @@
+# Pipeline-Vertrag V2 (verbindlich für alle Arbeitspakete)
+
+Dieses Dokument legt Schnittstellen fest. Wer davon abweichen muss, meldet das als Befund, statt es eigenmächtig zu ändern.
+Eigentümer: Design (Claude Opus). Kontext: `00_Projektplan_und_Konzept/NEUAUFBAU_PLAN.md`.
+
+## 0. Regeln für alle Agenten
+- Node.js 24, CommonJS, `'use strict'`, **keine externen Abhängigkeiten**, kein `package.json`.
+- Tests: `node:test` + `node:assert/strict` unter `tools/test/*.test.js`. Ausführen mit **`node --test "tools/test/**/*.test.js"`**.
+- Ändere nur die Dateien deines Arbeitspakets. **Nie ändern:** `tools/spec/*`, `tools/ARCHITEKTUR.md`, `_archiv_v1/**`.
+- **Keine Maße hartkodieren.** Alle Maße kommen aus `tools/spec/dimensions.js`. Lokale Ableitungen sind nur als benannte Konstanten mit Herleitung im Kommentar erlaubt.
+- Das Markenwort des dänischen Klemmbaustein-Herstellers (beginnt mit „L“, endet auf „go“) darf in keiner Datei vorkommen. Muss Code danach suchen, wird das Muster aus Zeichencodes zusammengesetzt.
+- Kommentare kurz und auf Deutsch, Bezeichner auf Englisch, nutzersichtbare Texte auf Deutsch.
+- Keine git-Befehle, die etwas verändern.
+- Abschlussbericht: geänderte Dateien, Befehle mit **wörtlicher** Ausgabe (gekürzt auf das Wesentliche), Abweichungen, offene Fragen. Behaupte nichts ohne Beleg.
+
+## 1. Koordinaten und Konventionen
+- Blockzellen sind ganzzahlige `(x, y, z)`. +X zeigt nach Osten (Chor), +Z nach Süden, Y nach oben. Der Ursprung liegt in der Kuppelmitte. Der Fußboden ist Y 64, das Laufniveau Y 65.
+- Halbmaße sind **inklusive Zellen**: `half = 44` bedeutet die Zellen −44..+44.
+- Achtecke: Apothem `a`, Flächen auf den Achsen. Prädikat `shapes.inOctagon(dx, dz, a)`. Kontinuierliche Achteck-Norm: `rho(x, z) = max(|x|, |z|, (|x| + |z|)/√2)`.
+- Nur volle Blöcke. Erlaubte Typen: `tools/spec/palette.js`.
+
+## 2. Bausteine der Pipeline
+```
+tools/geom/grid.js      VoxelGrid (AP 2.1, fertig)
+tools/geom/shapes.js    Grundformen (AP 2.1, fertig)
+tools/geom/arches.js    Bögen, Wandansichten mit Öffnungen (AP 2.2)
+tools/geom/vaults.js    Kreuzgewölbe, Klostergewölbe, Halbkuppeln (AP 2.2)
+tools/geom/patterns.js  Materialfunktionen: Inkrustation, Kosmaten, Fischgrät (AP 2.2)
+tools/geom/dome.js      Achteckige Doppelkuppel (AP 2.3)
+tools/model/world.js    lädt die Module, baut ein Grid, sammelt die Bauteile (AP 2.4)
+tools/model/mN_*.js     ein Modul je Datei (Phase 3)
+tools/steps/planner.js  Bauteile → Bauschritte (AP 2.4)
+tools/validate/*.js     Regeln R1–R10 (AP 2.4)
+tools/emit/data.js      Webapp-Daten (AP 2.5)
+tools/emit/drawing.js   Maßzeichnung (fertig)
+tools/build.js          Gesamtablauf (AP 2.4)
+content/steps_de/modul_N.json   Texte je Bauteil (Phase 3)
+```
+
+## 3. Modul-Schnittstelle
+Jede Datei `tools/model/mN_<slug>.js` (N = 0..9) exportiert:
+```js
+module.exports = {
+  module: 3,
+  build(ctx) {
+    const w = ctx.part('vierungspfeiler', { symmetry: { order: 4, cx: 0, cz: 0 } });
+    w.fill(ctx.shapes.box(...), 'stone_bricks');
+  }
+};
+```
+`ctx` (bereitgestellt von `world.js`):
+| Feld | Bedeutung |
+|---|---|
+| `ctx.dims` | `require('tools/spec/dimensions.js')` |
+| `ctx.palette` | `require('tools/spec/palette.js')` |
+| `ctx.interfaces` | `require('tools/spec/interfaces.js')` |
+| `ctx.shapes`, `ctx.arches`, `ctx.vaults`, `ctx.dome`, `ctx.patterns` | Geometrie-Bibliotheken |
+| `ctx.part(id, opts?)` | Registriert ein **Bauteil** und gibt einen Writer zurück (Tag `{module, part: id}`). `id` in snake_case, eindeutig je Modul. Die **Reihenfolge der Registrierung ist die Bau-Reihenfolge**. `opts.symmetry = {order: 4|8, cx, cz}` (optional) aktiviert die Prüfung R8. |
+| `ctx.grid.has(x,y,z)` | Nur lesend, **nur** für Prüfungen. Keine Ausweichlogik gegen andere Module. |
+
+Writer-Methoden (aus `grid.js`, ergänzt durch AP 2.4):
+- `set(x,y,z,type)` und `fill(cells, material)` werfen bei jeder belegten Zelle (R1).
+- `fillUnion(cells, material)` überspringt Zellen, die bereits **demselben Modul** gehören, und wirft bei Zellen eines anderen Moduls. Damit lassen sich überlappende Formen innerhalb eines Moduls vereinigen. Rückgabe: Anzahl neu gesetzter Zellen.
+
+Module werden in der Reihenfolge 0..9 in **ein** Grid gebaut. Was ein Modul nicht belegen darf (Krypta-Hohlraum, Öffnungen für spätere Module), ergibt sich aus `dimensions.js` und `interfaces.js`, nicht aus dem Grid-Zustand.
+
+## 4. Bauschritte (Planner)
+- Eingabe: Grid und Bauteil-Liste je Modul in Registrierungsreihenfolge.
+- Grenzen: **MAX 2.500** Blöcke je Schritt (hart), Ziel 1.200–2.100, MIN 300 (weich).
+- Algorithmus je Bauteil:
+  1. Blöcke sortiert nach (y, x, z).
+  2. Ist das Bauteil ≤ 2.100, ergibt es einen Schritt.
+  3. Sonst `n = ceil(total / 2100)` und Ziel `t = total / n`. Ganze Y-Lagen werden gesammelt, bis die nächste Lage den Schritt über `min(2100, 1.15·t)` brächte. Dann wird geschnitten.
+  4. Eine einzelne Lage mit mehr als 2.100 Blöcken wird nach X-Bereichen geteilt, zusammenhängend und aufsteigend.
+- Danach folgt ein Zusammenlegen: Aufeinanderfolgende Schritte desselben Moduls mit < 300 Blöcken werden mit dem Nachfolger zusammengelegt, ersatzweise mit dem Vorgänger, sofern die Summe ≤ 2.100 bleibt.
+- Schritt-Objekt:
+```js
+{ module, stepNumber /*1..n je Modul*/, parts: ['id', ...], partIndex /*i*/, partCount /*n*/,
+  yRange: [y0, y1], count, title, description, tip, caution, fact,
+  cameraHint: { eye: [x,y,z], target: [x,y,z] }, cells /*Array von gepackten Keys*/ }
+```
+- Titel: Er kommt aus dem Content. Bei `n > 1` wird ` – Teil i/n (Y y0–y1)` angehängt. Bei zusammengelegten Schritten werden die Titel mit ` & ` verbunden.
+- Kamera: `target` ist die Mitte der Bounding Box. `d = max(Ausdehnung)·1.2 + 30`, `eye = target + [0.8d, 0.6d, 0.8d]`.
+
+## 5. Content (`content/steps_de/modul_N.json`)
+```json
+{ "module": 3, "title": "Vierung & Tribunen", "subtitle": "Bautüte 3: …", "icon": "⛪",
+  "parts": { "vierungspfeiler": { "title": "…", "description": "…", "tip": "…", "caution": "…", "fact": "…" } } }
+```
+Fehlender Content ist eine **Warnung** (der Titel wird dann die Bauteil-ID), kein Fehler.
+
+## 6. Webapp-Daten (`emit/data.js`)
+- Ausgabe nach `webapp/js/data/v2/module_N.js`, eine Datei je Modul, weiterhin per `<script>` ladbar (file://-fähig):
+```js
+window.MODULE_DATA_V2 = window.MODULE_DATA_V2 || {};
+window.MODULE_DATA_V2[N] = { module, title, subtitle, icon, palette: ['stone_bricks', ...],
+  steps: [ { stepNumber, title, description, tip, caution, fact, cameraHint, count, yRange, runs: '<base64>' } ] };
+```
+- `runs` sind Little-Endian-`Int16`-Quintupel `[x, y, z0, len, typeIndex]`: eine Lauflänge entlang +Z von `z0` bis `z0 + len − 1`, alle mit demselben Typ. Die Läufe sind nach (y, x, z0) sortiert. Die Summe aller `len` ergibt `count`.
+- Exportierte Funktion: `emitModuleData({ moduleMeta, steps, grid, outDir }) → { file, bytes }`.
+- Der Loader `webapp/js/data/v2-loader.js` dekodiert in das bisherige Format: `window.MODULE_N_DATA = [{ stepNumber, title, …, blocks: [{x, y, z, type}] }]`. Der übrige UI-Code bleibt dadurch unverändert.
+
+## 7. Prüfregeln (Build schlägt bei Fehlern fehl)
+| Regel | Prüfung |
+|---|---|
+| R1 | Konflikte werfen im Grid. Der Build fängt sie ab und meldet sie als Fehler. |
+| R2 | Jeder Schritt ≤ 2.500 (Fehler). Schritte < 300 sind eine Warnung. |
+| R3 | **Baubarkeit:** Schritte werden global in Reihenfolge Modul 0..9, Schritt 1..n gesetzt. Jeder Block eines Schritts muss über eine Kette von Flächenkontakten innerhalb des Schritts einen Block erreichen, der eine Fläche mit einem bereits gesetzten Block (frühere Schritte) teilt oder bei `y == LEVELS.foundationBottomY` auf dem Gelände liegt. Ausgegeben werden die Anzahl verletzender Blöcke und bis zu 5 Beispiele je Schritt. |
+| R4 | Das Gesamtmodell ist über Flächenkontakte eine einzige, mit dem Gelände verbundene Komponente. |
+| R5 | Schnittstellen aus `interfaces.js` (siehe dort), z. B. Auflager-Prüfungen: Jeder Block von Modul B auf Ebene y hat einen Block von Modul A auf y−1. |
+| R6 | `LEVELS.foundationBottomY ≤ y ≤ LEVELS.maxY`. |
+| R7 | Jeder Typ steht in `palette.js` **und** in `webapp/js/data/block-types.js`. |
+| R8 | Bauteile mit `symmetry` sind unter der D4-Untergruppe (order 4: Spiegelungen an X und Z; order 8: volle D4) **inklusive Blocktyp** invariant. |
+| R9 | Die von `emit/docs.js` erzeugten Zahlen stimmen mit dem Build überein (ab Phase 6). |
+| R10 | Grep auf das Markenwort über `tools/`, `content/`, `webapp/` und alle `*.md`. |
+
+Bericht: Konsolenzusammenfassung und `build/report.json` (Schritte je Modul, Blöcke, min/max Schrittgröße, Verletzungen je Regel). Der Ordner `build/` steht in `.gitignore`.
+
+## 8. Kommandozeile
+`node tools/build.js [--modules 0,1,3] [--no-emit] [--strict]`
+- Ohne `--modules` werden alle vorhandenen Moduldateien gebaut. Mit `--modules` nur die genannten; dabei werden die Abhängigkeiten, also alle kleineren Modulnummern, mitgebaut, aber nur die genannten emittiert.
+- `--strict` macht aus Warnungen Fehler.
+- Exit-Code 1 bei jedem Fehler.
