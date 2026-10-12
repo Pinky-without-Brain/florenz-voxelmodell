@@ -1,7 +1,7 @@
 {
   "id": "w307153247",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "Kloster San Giovannino, Sternwarte 1756",
   "geschosse": [
     {
       "art": "eg",
@@ -9,7 +9,7 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 8
+      "hoeheBl": 10
     },
     {
       "art": "og",
@@ -17,11 +17,11 @@
     },
     {
       "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 8
     },
     {
-      "art": "og",
-      "hoeheBl": 9
+      "art": "attika",
+      "hoeheBl": 8
     }
   ],
   "fassade": {
@@ -31,27 +31,29 @@
     "putzfarbe": "rosa",
     "erdgeschoss": {
       "art": "tor_und_fenster",
-      "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "portalBreiteBl": 6,
+      "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
       "rahmen": "putz",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "specola_kuppel"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Osservatorio_Ximeniano",
+  "sicherheit": 0.35,
+  "notiz": "Sternwarte (1756) im obersten Geschoss des Konvents San Giovannino der Scolopi, auf dem Torre dei Rondinelli mit Kuppel (it.Wikipedia). Fassade, Material und Höhe dort nicht beschrieben; Grundriss umfasst vermutlich den ganzen Konvent. Gestaltung typologisch.",
   "name": "Osservatorio Ximeniano"
 }

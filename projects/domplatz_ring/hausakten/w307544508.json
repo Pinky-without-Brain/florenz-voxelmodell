@@ -1,7 +1,7 @@
 {
   "id": "w307544508",
-  "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "typ": "zweckbau",
+  "epoche": "Werkstatt seit Mitte 19. Jh. an dieser Stelle",
   "geschosse": [
     {
       "art": "eg",
@@ -15,17 +15,17 @@
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "tor_und_fenster",
-      "portalBreiteBl": 5,
+      "portalBreiteBl": 6,
       "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
       "rahmen": "putz",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "keiner",
+      "tiefeBl": 0
     },
     "extras": []
   },
@@ -34,8 +34,8 @@
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://www.firenzemadeintuscany.com/it/articolo/la-bottega-dell-opera-del-duomo/",
+  "sicherheit": 0.4,
+  "notiz": "Restaurierungswerkstatt der Opera in der Via dello Studio, seit etwa Mitte des 19. Jh. dort. Eingeschossig laut OSM; Fassadenaussehen nicht belegt (schlichter Werkstattbau angenommen).",
   "name": "Bottega dell'Opera del Duomo"
 }

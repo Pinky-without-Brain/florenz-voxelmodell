@@ -1,7 +1,7 @@
 {
   "id": "w266213439",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "1364 gotisch, 1552-1782 barock umgebaut",
   "geschosse": [
     {
       "art": "eg",
@@ -23,27 +23,29 @@
     "putzfarbe": "grau",
     "erdgeschoss": {
       "art": "portal_giebel",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "portalBreiteBl": 6,
+      "fenster": "rundbogen"
     },
     "fenster": {
       "typ": "rundbogen",
-      "rahmen": "pietra_forte",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
+      "art": "putzgesims",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "medaillon_wappen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/San_Michele_Visdomini",
+  "sicherheit": 0.5,
+  "notiz": "Beleg nur für Baugeschichte (1364, Umbau unter den Zölestinern) und Wappenmedaillon an der Fassade; Eingang zur Via dei Servi hin verlegt. Fassadenmaterial, Fenster und Höhe nicht belegt (Höhe geschätzt).",
   "name": "San Michele Visdomini"
 }

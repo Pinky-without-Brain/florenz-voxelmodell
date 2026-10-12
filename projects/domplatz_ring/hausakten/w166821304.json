@@ -1,24 +1,20 @@
 {
   "id": "w166821304",
   "typ": "loggia",
-  "epoche": "14.–15. Jh.",
+  "epoche": "1352-1358 (Gotik)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 12
     },
     {
       "art": "og",
-      "hoeheBl": 6
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 11
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 3,
     "material": "stein_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
@@ -26,23 +22,26 @@
       "fenster": "keine"
     },
     "fenster": {
-      "typ": "rundbogen",
+      "typ": "bifora",
       "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "keiner",
-      "tiefeBl": 0
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "holzkonsolen",
+      "marmor_tabernakel"
+    ]
   },
   "dach": {
-    "form": "walm",
+    "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ loggia nach Name (Loggia); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Loggia_del_Bigallo",
+  "sicherheit": 0.85,
+  "notiz": "Drei Rundbögen mit Steinpfeilern, darüber drei Biforen, weit vorkragende Traufe auf geschnitzten Holzkonsolen (it.Wikipedia). Zwei Bögen sind real zugemauert; hier als offene Loggia vereinfacht. Dachform nicht belegt.",
   "name": "Loggia del Bigallo"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w307544531",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "EG 13. Jh., Aufbau jünger, Erweiterung 1811",
   "geschosse": [
     {
       "art": "eg",
@@ -19,31 +19,34 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "bugnato_glatt",
-    "putzfarbe": null,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "bifora",
-      "rahmen": "pietra_forte",
-      "laeden": null
+      "typ": "rechteck",
+      "rahmen": "putz",
+      "laeden": "gruen"
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "putzgesims",
+      "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "medici_wappen_portal",
+      "opa_wappen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Studio_Fiorentino",
+  "sicherheit": 0.45,
+  "notiz": "Via dello Studio 1 / Via del Corso: breite Front mit kräftigen Steinbögen aus dem 13. Jh., Medici-Wappen über dem Hauptportal, Obergeschosse 'relativ jung' ohne Datum, 1811 um Kloster Santa Maria de' Ricci erweitert (it.Wikipedia). Geschosszahl, Achsen, Farbe nicht belegt.",
   "name": "Studio Fiorentino"
 }
