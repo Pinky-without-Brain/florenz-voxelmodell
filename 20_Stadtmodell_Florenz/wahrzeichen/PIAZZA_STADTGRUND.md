@@ -1,5 +1,7 @@
 # Piazza della Signoria – Oberfläche (Entscheidung und Spezifikation, V3 D1)
 
+> **Stand D2:** Verallgemeinert und berichtigt durch [`../stadtgrund/SPEZIFIKATION.md`](../stadtgrund/SPEZIFIKATION.md) §6–§8. Berichtigt dort: Neptunbrunnen bei (−136 \| 790) (OSM) statt (−122,5 \| 790,6), Reiterstandbild bei (−136 \| 742); die „Unstimmigkeit von 30 m“ ist keine; Blockzahlen 0,43 k und 0,40 k.
+
 ## Entscheidung
 Die **Platzoberfläche gehört nicht in ein Wahrzeichen-Projekt, sondern in das Projekt `stadtgrund`** (Typ `stadtgrund`, ein Modul je Stadtteil laut `STADTMODELL_PLAN.md` §4), dort in das Modul **„Signoria“** (Platz, anschließende Straßen). Gründe:
 1. Der Platz ist eine zusammenhängende OSM-Fläche (Way **w23298643**, `leisure/place=square`, 32.257 Zellen = 8.064 m²), die sich über vier Wahrzeichen und zahlreiche Straßen hinaus fortsetzt. Eigentum je Zelle: ein Projekt.
