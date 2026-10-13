@@ -8,45 +8,45 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 39.449 |
+| Blöcke | 39.640 |
 | Bauschritte | 28 |
 | Y-Bereich | 125 bis 135 |
 | X-Ausdehnung | -142 bis 102 (245 Blöcke) |
 | Z-Ausdehnung | 803 bis 971 (169 Blöcke) |
-| Kleinster Schritt | 954 Blöcke (Schritt 7.20) |
-| Mittlerer Schritt | 1.409 Blöcke |
+| Kleinster Schritt | 1.022 Blöcke (Schritt 7.20) |
+| Mittlerer Schritt | 1.416 Blöcke |
 | Größter Schritt | 2.045 Blöcke (Schritt 7.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 37.152 | 94,2 % |
-| Glatter Stein | `smooth_stone` | 2.232 | 5,7 % |
+| Terrakotta | `terracotta` | 37.355 | 94,2 % |
+| Glatter Stein | `smooth_stone` | 2.220 | 5,6 % |
 | Endsteinziegel | `end_stone_bricks` | 65 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `dach_arnolfo` | Dach des Arnolfo-Blocks | 7.553 | 7.1–7.5 |
-| 2 | `terrasse_mittelbauten` | Terrassen der Anbauten | 2.297 | 7.6–7.7 |
+| 1 | `dach_arnolfo` | Dach des Arnolfo-Blocks | 7.535 | 7.1–7.5 |
+| 2 | `terrasse_mittelbauten` | Terrassen der Anbauten | 2.285 | 7.6–7.7 |
 | 3 | `dach_ostblock` | Dach des Ostblocks | 18.320 | 7.8–7.19 |
-| 4 | `dach_salone` | Satteldach über dem Salone | 11.279 | 7.20–7.28 |
+| 4 | `dach_salone` | Satteldach über dem Salone | 11.500 | 7.20–7.28 |
 
 ## Bauschritte
 
 ### Schritt 7.1 – Dach des Arnolfo-Blocks – Teil 1/5 (Y 125–125)
 
 - **Y-Bereich:** 125 bis 125
-- **Blöcke:** 2.013
+- **Blöcke:** 1.995
 - **Bauteile:** `dach_arnolfo`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.013 |
+| Terrakotta | `terracotta` | 1.995 |
 
 **Beschreibung**
 
@@ -207,14 +207,14 @@ Die flachen Terrassen sind eine Annahme für die Dächer der Anbauten.
 ### Schritt 7.7 – Terrassen der Anbauten – Teil 2/2 (Y 125–126)
 
 - **Y-Bereich:** 125 bis 126
-- **Blöcke:** 1.169
+- **Blöcke:** 1.157
 - **Bauteile:** `terrasse_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.104 |
+| Glatter Stein | `smooth_stone` | 1.092 |
 | Endsteinziegel | `end_stone_bricks` | 65 |
 
 **Beschreibung**
@@ -572,14 +572,14 @@ Der Ostblock entstand im 16. Jahrhundert. Die Dachform ist geschätzt.
 ### Schritt 7.20 – Satteldach über dem Salone – Teil 1/9 (Y 125–125)
 
 - **Y-Bereich:** 125 bis 125
-- **Blöcke:** 954
+- **Blöcke:** 1.022
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 954 |
+| Terrakotta | `terracotta` | 1.022 |
 
 **Beschreibung**
 
@@ -600,14 +600,14 @@ Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anh
 ### Schritt 7.21 – Satteldach über dem Salone – Teil 2/9 (Y 126–126)
 
 - **Y-Bereich:** 126 bis 126
-- **Blöcke:** 1.279
+- **Blöcke:** 1.332
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.279 |
+| Terrakotta | `terracotta` | 1.332 |
 
 **Beschreibung**
 
@@ -628,14 +628,14 @@ Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anh
 ### Schritt 7.22 – Satteldach über dem Salone – Teil 3/9 (Y 127–127)
 
 - **Y-Bereich:** 127 bis 127
-- **Blöcke:** 1.289
+- **Blöcke:** 1.328
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.289 |
+| Terrakotta | `terracotta` | 1.328 |
 
 **Beschreibung**
 
@@ -656,14 +656,14 @@ Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anh
 ### Schritt 7.23 – Satteldach über dem Salone – Teil 4/9 (Y 128–128)
 
 - **Y-Bereich:** 128 bis 128
-- **Blöcke:** 1.291
+- **Blöcke:** 1.319
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.291 |
+| Terrakotta | `terracotta` | 1.319 |
 
 **Beschreibung**
 
@@ -684,14 +684,14 @@ Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anh
 ### Schritt 7.24 – Satteldach über dem Salone – Teil 5/9 (Y 129–129)
 
 - **Y-Bereich:** 129 bis 129
-- **Blöcke:** 1.289
+- **Blöcke:** 1.307
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.289 |
+| Terrakotta | `terracotta` | 1.307 |
 
 **Beschreibung**
 
@@ -712,14 +712,14 @@ Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anh
 ### Schritt 7.25 – Satteldach über dem Salone – Teil 6/9 (Y 130–130)
 
 - **Y-Bereich:** 130 bis 130
-- **Blöcke:** 1.292
+- **Blöcke:** 1.302
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.292 |
+| Terrakotta | `terracotta` | 1.302 |
 
 **Beschreibung**
 
@@ -740,14 +740,14 @@ Vasari ließ 1563 bis 1565 die Decke und das Dach des Salone um sieben Meter anh
 ### Schritt 7.26 – Satteldach über dem Salone – Teil 7/9 (Y 131–131)
 
 - **Y-Bereich:** 131 bis 131
-- **Blöcke:** 1.296
+- **Blöcke:** 1.301
 - **Bauteile:** `dach_salone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.296 |
+| Terrakotta | `terracotta` | 1.301 |
 
 **Beschreibung**
 

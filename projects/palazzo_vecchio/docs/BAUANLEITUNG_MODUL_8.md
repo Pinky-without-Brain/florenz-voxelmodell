@@ -8,32 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.992 |
+| Blöcke | 16.817 |
 | Bauschritte | 11 |
 | Y-Bereich | 69 bis 132 |
 | X-Ausdehnung | -91 bis 102 (194 Blöcke) |
 | Z-Ausdehnung | 809 bis 971 (163 Blöcke) |
-| Kleinster Schritt | 744 Blöcke (Schritt 8.8) |
-| Mittlerer Schritt | 1.545 Blöcke |
+| Kleinster Schritt | 563 Blöcke (Schritt 8.8) |
+| Mittlerer Schritt | 1.529 Blöcke |
 | Größter Schritt | 1.960 Blöcke (Schritt 8.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 9.747 | 57,4 % |
-| Polierter Andesit | `polished_andesite` | 3.304 | 19,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.960 | 11,5 % |
-| Glatter Stein | `smooth_stone` | 1.666 | 9,8 % |
-| Graues Buntglas | `gray_stained_glass` | 315 | 1,9 % |
+| Endsteinziegel | `end_stone_bricks` | 9.566 | 56,9 % |
+| Polierter Andesit | `polished_andesite` | 3.304 | 19,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.960 | 11,7 % |
+| Glatter Stein | `smooth_stone` | 1.666 | 9,9 % |
+| Graues Buntglas | `gray_stained_glass` | 321 | 1,9 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `dachgeschoss_mittelbauten` | Dachgeschoss der Anbauten | 9.318 | 8.1–8.6 |
+| 1 | `dachgeschoss_mittelbauten` | Dachgeschoss der Anbauten | 9.324 | 8.1–8.6 |
 | 2 | `traufgesims_ost` | Traufgesims der Ostseite | 1.666 | 8.7 |
-| 3 | `salone_giebel` | Giebelwände des Salone | 744 | 8.8 |
+| 3 | `salone_giebel` | Giebelwände des Salone | 563 | 8.8 |
 | 4 | `ostbau_strebepfeiler` | Lisenen der Via dei Leoni | 3.304 | 8.9–8.10 |
 | 5 | `ostbau_eckquader` | Eckquader des Ostblocks | 1.960 | 8.11 |
 
@@ -98,7 +98,7 @@ Die Traufhöhe der Anbauten von 28 Metern ist geschätzt.
 ### Schritt 8.3 – Dachgeschoss der Anbauten – Teil 3/6 (Y 120–120)
 
 - **Y-Bereich:** 120 bis 120
-- **Blöcke:** 1.440
+- **Blöcke:** 1.442
 - **Bauteile:** `dachgeschoss_mittelbauten`
 
 **Teileliste**
@@ -106,7 +106,7 @@ Die Traufhöhe der Anbauten von 28 Metern ist geschätzt.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.335 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
+| Graues Buntglas | `gray_stained_glass` | 107 |
 
 **Beschreibung**
 
@@ -127,7 +127,7 @@ Die Traufhöhe der Anbauten von 28 Metern ist geschätzt.
 ### Schritt 8.4 – Dachgeschoss der Anbauten – Teil 4/6 (Y 121–121)
 
 - **Y-Bereich:** 121 bis 121
-- **Blöcke:** 1.440
+- **Blöcke:** 1.442
 - **Bauteile:** `dachgeschoss_mittelbauten`
 
 **Teileliste**
@@ -135,7 +135,7 @@ Die Traufhöhe der Anbauten von 28 Metern ist geschätzt.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.335 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
+| Graues Buntglas | `gray_stained_glass` | 107 |
 
 **Beschreibung**
 
@@ -156,7 +156,7 @@ Die Traufhöhe der Anbauten von 28 Metern ist geschätzt.
 ### Schritt 8.5 – Dachgeschoss der Anbauten – Teil 5/6 (Y 122–122)
 
 - **Y-Bereich:** 122 bis 122
-- **Blöcke:** 1.440
+- **Blöcke:** 1.442
 - **Bauteile:** `dachgeschoss_mittelbauten`
 
 **Teileliste**
@@ -164,7 +164,7 @@ Die Traufhöhe der Anbauten von 28 Metern ist geschätzt.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.335 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
+| Graues Buntglas | `gray_stained_glass` | 107 |
 
 **Beschreibung**
 
@@ -241,14 +241,14 @@ Das Gesims sitzt auf derselben Höhe wie der Gangboden des Arnolfo-Blocks. So bl
 ### Schritt 8.8 – Giebelwände des Salone
 
 - **Y-Bereich:** 125 bis 132
-- **Blöcke:** 744
+- **Blöcke:** 563
 - **Bauteile:** `salone_giebel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 744 |
+| Endsteinziegel | `end_stone_bricks` | 563 |
 
 **Beschreibung**
 

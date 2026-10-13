@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 93.652 |
+| Blöcke | 93.739 |
 | Bauschritte | 67 |
 | Y-Bereich | 85 bis 117 |
 | X-Ausdehnung | -146 bis 100 (247 Blöcke) |
 | Z-Ausdehnung | 799 bis 969 (171 Blöcke) |
 | Kleinster Schritt | 1.096 Blöcke (Schritt 2.44) |
-| Mittlerer Schritt | 1.398 Blöcke |
-| Größter Schritt | 2.004 Blöcke (Schritt 2.12) |
+| Mittlerer Schritt | 1.399 Blöcke |
+| Größter Schritt | 2.005 Blöcke (Schritt 2.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 59.941 | 64,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 20.662 | 22,1 % |
+| Endsteinziegel | `end_stone_bricks` | 59.941 | 63,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 20.662 | 22,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 4.420 | 4,7 % |
-| Graues Buntglas | `gray_stained_glass` | 3.581 | 3,8 % |
+| Graues Buntglas | `gray_stained_glass` | 3.668 | 3,9 % |
 | Glatter Stein | `smooth_stone` | 2.698 | 2,9 % |
 | Grüner Beton | `green_concrete` | 1.582 | 1,7 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 768 | 0,8 % |
@@ -33,10 +33,10 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `og1_wand_west` | Erstes Obergeschoss, Westfassade | 5.794 | 2.1–2.3 |
-| 2 | `og2_wand_west` | Zweites Obergeschoss, Westfassade | 5.523 | 2.4–2.6 |
-| 3 | `og_wand_nord_sued_a` | Obergeschosse, Nord- und Südseite des Arnolfo-Blocks | 15.828 | 2.7–2.15 |
-| 4 | `og_wand_mittelbauten` | Obergeschosse der Anbauten | 66.389 | 2.16–2.67 |
+| 1 | `og1_wand_west` | Erstes Obergeschoss, Westfassade | 5.810 | 2.1–2.3 |
+| 2 | `og2_wand_west` | Zweites Obergeschoss, Westfassade | 5.537 | 2.4–2.6 |
+| 3 | `og_wand_nord_sued_a` | Obergeschosse, Nord- und Südseite des Arnolfo-Blocks | 15.843 | 2.7–2.15 |
+| 4 | `og_wand_mittelbauten` | Obergeschosse der Anbauten | 66.431 | 2.16–2.67 |
 | 5 | `og_korridor_durchgang` | Durchgang für den Korridor | 118 | 2.67 |
 
 ## Bauschritte
@@ -44,7 +44,7 @@
 ### Schritt 2.1 – Erstes Obergeschoss, Westfassade – Teil 1/3 (Y 85–89)
 
 - **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.867
+- **Blöcke:** 1.869
 - **Bauteile:** `og1_wand_west`
 
 **Teileliste**
@@ -53,7 +53,7 @@
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.523 |
 | Glatter Quarzblock | `smooth_quartz` | 304 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 
@@ -74,7 +74,7 @@ Die Fassade trägt zwei Reihen neugotischer Marmor-Doppelfenster mit Dreipassbö
 ### Schritt 2.2 – Erstes Obergeschoss, Westfassade – Teil 2/3 (Y 90–96)
 
 - **Y-Bereich:** 90 bis 96
-- **Blöcke:** 1.932
+- **Blöcke:** 1.946
 - **Bauteile:** `og1_wand_west`
 
 **Teileliste**
@@ -83,7 +83,7 @@ Die Fassade trägt zwei Reihen neugotischer Marmor-Doppelfenster mit Dreipassbö
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.218 |
 | Glatter Quarzblock | `smooth_quartz` | 434 |
-| Graues Buntglas | `gray_stained_glass` | 280 |
+| Graues Buntglas | `gray_stained_glass` | 294 |
 
 **Beschreibung**
 
@@ -134,7 +134,7 @@ Die Fassade trägt zwei Reihen neugotischer Marmor-Doppelfenster mit Dreipassbö
 ### Schritt 2.4 – Zweites Obergeschoss, Westfassade – Teil 1/3 (Y 102–106)
 
 - **Y-Bereich:** 102 bis 106
-- **Blöcke:** 1.872
+- **Blöcke:** 1.874
 - **Bauteile:** `og2_wand_west`
 
 **Teileliste**
@@ -143,7 +143,7 @@ Die Fassade trägt zwei Reihen neugotischer Marmor-Doppelfenster mit Dreipassbö
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.523 |
 | Glatter Quarzblock | `smooth_quartz` | 309 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 
@@ -164,7 +164,7 @@ Die oberste Lage Y 117 muss ringsum lückenlos sein, denn darauf stehen die Kons
 ### Schritt 2.5 – Zweites Obergeschoss, Westfassade – Teil 2/3 (Y 107–112)
 
 - **Y-Bereich:** 107 bis 112
-- **Blöcke:** 1.656
+- **Blöcke:** 1.668
 - **Bauteile:** `og2_wand_west`
 
 **Teileliste**
@@ -173,7 +173,7 @@ Die oberste Lage Y 117 muss ringsum lückenlos sein, denn darauf stehen die Kons
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.044 |
 | Glatter Quarzblock | `smooth_quartz` | 372 |
-| Graues Buntglas | `gray_stained_glass` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 252 |
 
 **Beschreibung**
 
@@ -253,7 +253,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 ### Schritt 2.8 – Obergeschosse, Nord- und Südseite des Arnolfo-Blocks – Teil 2/9 (Y 88–91)
 
 - **Y-Bereich:** 88 bis 91
-- **Blöcke:** 1.744
+- **Blöcke:** 1.747
 - **Bauteile:** `og_wand_nord_sued_a`
 
 **Teileliste**
@@ -262,7 +262,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.136 |
 | Glatter Quarzblock | `smooth_quartz` | 443 |
-| Graues Buntglas | `gray_stained_glass` | 165 |
+| Graues Buntglas | `gray_stained_glass` | 168 |
 
 **Beschreibung**
 
@@ -283,7 +283,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 ### Schritt 2.9 – Obergeschosse, Nord- und Südseite des Arnolfo-Blocks – Teil 3/9 (Y 92–96)
 
 - **Y-Bereich:** 92 bis 96
-- **Blöcke:** 1.980
+- **Blöcke:** 1.985
 - **Bauteile:** `og_wand_nord_sued_a`
 
 **Teileliste**
@@ -292,7 +292,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.290 |
 | Glatter Quarzblock | `smooth_quartz` | 415 |
-| Graues Buntglas | `gray_stained_glass` | 275 |
+| Graues Buntglas | `gray_stained_glass` | 280 |
 
 **Beschreibung**
 
@@ -372,7 +372,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 ### Schritt 2.12 – Obergeschosse, Nord- und Südseite des Arnolfo-Blocks – Teil 6/9 (Y 103–106)
 
 - **Y-Bereich:** 103 bis 106
-- **Blöcke:** 2.004
+- **Blöcke:** 2.005
 - **Bauteile:** `og_wand_nord_sued_a`
 
 **Teileliste**
@@ -381,7 +381,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.672 |
 | Glatter Quarzblock | `smooth_quartz` | 277 |
-| Graues Buntglas | `gray_stained_glass` | 55 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
 
 **Beschreibung**
 
@@ -402,7 +402,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 ### Schritt 2.13 – Obergeschosse, Nord- und Südseite des Arnolfo-Blocks – Teil 7/9 (Y 107–110)
 
 - **Y-Bereich:** 107 bis 110
-- **Blöcke:** 1.539
+- **Blöcke:** 1.543
 - **Bauteile:** `og_wand_nord_sued_a`
 
 **Teileliste**
@@ -411,7 +411,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 987 |
 | Glatter Quarzblock | `smooth_quartz` | 332 |
-| Graues Buntglas | `gray_stained_glass` | 220 |
+| Graues Buntglas | `gray_stained_glass` | 224 |
 
 **Beschreibung**
 
@@ -432,7 +432,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 ### Schritt 2.14 – Obergeschosse, Nord- und Südseite des Arnolfo-Blocks – Teil 8/9 (Y 111–114)
 
 - **Y-Bereich:** 111 bis 114
-- **Blöcke:** 1.904
+- **Blöcke:** 1.906
 - **Bauteile:** `og_wand_nord_sued_a`
 
 **Teileliste**
@@ -442,7 +442,7 @@ Die Seitenfronten tragen dieselben Doppelfenster wie die Fassade zur Piazza.
 | Tuffsteinziegel | `tuff_bricks` | 1.136 |
 | Glatter Quarzblock | `smooth_quartz` | 443 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 215 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Graues Buntglas | `gray_stained_glass` | 112 |
 
 **Beschreibung**
 
@@ -664,7 +664,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.22 – Obergeschosse der Anbauten – Teil 7/52 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -672,7 +672,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -695,7 +695,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.23 – Obergeschosse der Anbauten – Teil 8/52 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -703,7 +703,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -726,7 +726,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.24 – Obergeschosse der Anbauten – Teil 9/52 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -734,7 +734,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -757,7 +757,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.25 – Obergeschosse der Anbauten – Teil 10/52 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -765,7 +765,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -788,7 +788,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.26 – Obergeschosse der Anbauten – Teil 11/52 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -796,7 +796,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -819,7 +819,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.27 – Obergeschosse der Anbauten – Teil 12/52 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -827,7 +827,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -850,7 +850,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.28 – Obergeschosse der Anbauten – Teil 13/52 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -858,7 +858,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1445,7 +1445,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.49 – Obergeschosse der Anbauten – Teil 34/52 (Y 105–105)
 
 - **Y-Bereich:** 105 bis 105
-- **Blöcke:** 1.692
+- **Blöcke:** 1.695
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1453,7 +1453,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.310 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1476,7 +1476,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.50 – Obergeschosse der Anbauten – Teil 35/52 (Y 106–106)
 
 - **Y-Bereich:** 106 bis 106
-- **Blöcke:** 1.692
+- **Blöcke:** 1.695
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1484,7 +1484,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.310 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1507,7 +1507,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.51 – Obergeschosse der Anbauten – Teil 36/52 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
-- **Blöcke:** 1.692
+- **Blöcke:** 1.695
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1515,7 +1515,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.310 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1538,7 +1538,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.52 – Obergeschosse der Anbauten – Teil 37/52 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
-- **Blöcke:** 1.692
+- **Blöcke:** 1.695
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1546,7 +1546,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.310 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1569,7 +1569,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.53 – Obergeschosse der Anbauten – Teil 38/52 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.692
+- **Blöcke:** 1.695
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1577,7 +1577,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.310 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1600,7 +1600,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.54 – Obergeschosse der Anbauten – Teil 39/52 (Y 110–110)
 
 - **Y-Bereich:** 110 bis 110
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1608,7 +1608,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 
@@ -1631,7 +1631,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 ### Schritt 2.55 – Obergeschosse der Anbauten – Teil 40/52 (Y 111–111)
 
 - **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.725
+- **Blöcke:** 1.728
 - **Bauteile:** `og_wand_mittelbauten`
 
 **Teileliste**
@@ -1639,7 +1639,7 @@ Die Anbauten hinter dem Arnolfo-Block sind jünger und weniger streng gestaltet 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.343 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Glatter Stein | `smooth_stone` | 115 |
 | Grüner Beton | `green_concrete` | 113 |
 

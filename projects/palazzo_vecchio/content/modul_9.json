@@ -150,6 +150,62 @@
       "tip": "Baue erst den Rand des Beckens, dann das Mittelstück von unten nach oben und zuletzt das Wasser.",
       "caution": "Das Wasser darf nicht über den Rand reichen.",
       "fact": "Der Putto mit dem Delphin von Andrea del Verrocchio (um 1470) ist das Wahrzeichen des Hofes; heute steht im Hof eine Kopie, das Original im Palast. Quelle: Wikipedia (de, en, it); die Figur ist eine stark vereinfachte Blockfigur."
+    },
+    "salone_udienza": {
+      "title": "Salone: Udienza-Podium",
+      "description": "An der Nordseite des Saals erhebt sich die Udienza, ein Podium aus Pietra serena und Marmor, drei Blöcke hoch und acht tief. Eine dreistufige Freitreppe aus Treppenblöcken führt in der Mitte hinauf; die Oberkante ist mit einem Streifenmuster aus weißem und rotem Marmor belegt, vorn läuft ein Goldrand. Drei Seelaternen sind in die Oberfläche eingelassen.",
+      "tip": "Setze zuerst die drei Lagen des Podiums, dann den Marmorbelag, zuletzt die Stufen vor der Vorderkante.",
+      "caution": "Die Vorderkante des Podiums folgt der gedrehten Wand: Baue die Stufen Spalte für Spalte an der Kante.",
+      "fact": "Die Udienza ist die erhöhte Bühne, von der aus Cosimo I. de Medici im Salone Audienzen hielt; Baccio Bandinelli schuf die Statuen in den Nischen. Das Podium im Modell ist vereinfacht (Stufe C). Quelle: Wikipedia (de, en, it) zum Salone dei Cinquecento."
+    },
+    "salone_statuen": {
+      "title": "Salone: Statuenreihe und Genius des Sieges",
+      "description": "Im Saal stehen Marmorstatuen als vereinfachte Blockfiguren auf Sockeln aus Pietra serena: fünf auf der Udienza (Medici-Päpste und Fürsten), je sechs vor den Langwänden (die Taten des Herkules) und der Genius des Sieges: ein Sieger über einem Besiegten auf gemeinsamem Sockel aus Kalzit-Marmor mit goldenem Namensschild an der Ostwand.",
+      "tip": "Jede Figur ist drei Blöcke breit; setze erst den Sockel, dann Beine, Rumpf, Kopf und Arme.",
+      "caution": "Die Sockel dürfen keine Tür und keinen Durchgang versperren.",
+      "fact": "Die zwölf Herkules-Statuen schuf Vincenzo de Rossi um 1560; der Genius des Sieges von Michelangelo (um 1534) steht seit 1868 im Salone. Quelle: Wikipedia (de, en, it); die Figuren sind stark vereinfachte Blockfiguren, nicht nach Vorbild (Stufe C)."
+    },
+    "sala_dei_gigli": {
+      "title": "Sala dei Gigli",
+      "description": "Die Sala dei Gigli (Lilien-Saal) liegt im ersten Obergeschoss nördlich der Quartiere. Wände und Decke sind blau mit goldenen Lilien im Raster von sechs Blöcken, unten läuft eine Holztäfelung, oben ein Goldband. Ein langer Tisch aus dunklem Holz mit einer Bank steht in der Mitte, daneben auf einem Sockel Donatellos Judith aus Bronze (Blockfigur).",
+      "tip": "Setze die Lilien als Muster aus fünf mal vier Blöcken; die Decke hängt als eine Lage unter der Geschossplatte.",
+      "caution": "Der Tisch ist nur eine Lage hoch, damit man ihn überqueren kann.",
+      "fact": "Der Saal hat seinen Namen von den goldenen Lilien auf blauem Grund an der Decke (Giuliano und Benedetto da Maiano, 15. Jahrhundert); Ghirlandaios Fresko des heiligen Zenobius und Donatellos Judith gehören zur Ausstattung. Die Lage im Grundriss ist Stufe C (begründet aus dem Raumprogramm um die Udienza), die Bilder sind vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "studiolo_francesco": {
+      "title": "Studiolo Francesco I.",
+      "description": "Das Studiolo ist ein kleiner Raum im ersten Obergeschoss, zehn mal zehn Blöcke groß. Seine Wände sind dicht an dicht mit Bildtafeln besetzt: Felder in acht Fresko-Farben mit Holzrahmen und goldenen Beschlägen. Darüber schließt ein blau bemaltes Tonnengewölbe mit goldenen Sternen den Raum. Ein kleiner Schreibtisch mit Stuhl steht in der Mitte.",
+      "tip": "Baue die Tafeln im Raster von vier mal vier Blöcken; das Gewölbe steigt von den Rändern bis zur Mitte um fünf Lagen.",
+      "caution": "Das Gewölbe darf die Tür nicht verengen.",
+      "fact": "Francesco I. de Medici ließ das Studiolo ab 1570 nach einem Programm von Vincenzo Borghini durch Vasari und viele Maler ausstatten; die Bildtafeln verschließen Schränke mit Kunstkammer-Stücken. Der Raum liegt im Modell an einer plausiblen Stelle (Stufe C), die Bilder sind Farbfelder, vereinfacht. Quelle: Wikipedia (de, en, it)."
+    },
+    "sala_carte_geografiche": {
+      "title": "Sala delle Carte Geografiche",
+      "description": "Im zweiten Obergeschoss ist ein großer Saal ganz mit Schränken ausgekleidet. Auf den Türen sitzen Landkarten als Farbfelder (Meer hellblau, Land grün und braun, Küstenlinien weiß). Mitten im Raum steht auf einem Holzsockel ein Globus von neun Blöcken Durchmesser: Meere blau, Kontinente grün und braun, goldener Äquator und weiße Polkappe.",
+      "tip": "Baue den Globus von unten nach oben Schicht für Schicht; jede Lage ist ein Kreis, der erst größer und dann kleiner wird.",
+      "caution": "Der Globus steht frei: Lass den Sockel nicht aus, sonst hat er keinen Halt.",
+      "fact": "Cosimo I. ließ ab 1563 die Guardaroba mit Schränken und etwa 53 Landkarten von Egnazio Danti ausstatten, dazu einen riesigen Globus. Die Lage im Palast ist im Modell Stufe C, die Karten sind vereinfachte Farbfelder, der Globus ist stark vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "quartiere_leone_x": {
+      "title": "Quartiere di Leone X",
+      "description": "Im ersten Obergeschoss an der Piazza liegt das Quartiere di Leone X: ein schlichter Saal mit Holztäfelung, goldenem Band und weißen Wänden. Die Decke trägt Medaillons in Rot, Blau und Gelb im Raster von neun Blöcken, getrennt durch Holzleisten.",
+      "tip": "Die Decke hängt als eine Lage unter der Geschossplatte; setze die Medaillons als Kreise mit Goldrand.",
+      "caution": "Die Tür zum Nachbarsaal muss frei bleiben.",
+      "fact": "Die Räume sind nach Papst Leo X. (Giovanni de Medici) benannt und von Vasari und seiner Werkstatt ausgemalt. Ihre genaue Lage im Modell ist Stufe C (begründet aus der Reihe der Räume zur Piazza), die Fresken sind schlicht und vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "quartiere_elementi": {
+      "title": "Quartiere degli Elementi",
+      "description": "Im zweiten Obergeschoss über dem Quartiere di Leone X liegt das Quartiere degli Elementi. Die Decke ist in vier Felder geteilt, jedes mit einem goldumrandeten Medaillon: Feuer (Orange und Rot), Wasser (Hellblau und Blau), Erde (Grün und Braun) und Luft (Weiß und Hellblau). Die Wände tragen unten eine Holztäfelung und ein Goldband.",
+      "tip": "Teile die Decke in vier gleiche Felder und setze in jedes Feld den Kreis mit Goldrand.",
+      "caution": "Die Decke ist nur eine Lage dick; achte auf die Türen in den Wänden.",
+      "fact": "Das Quartiere degli Elementi schmückte Vasari mit Allegorien der vier Elemente. Die Lage im Palast ist im Modell Stufe C, die Fresken sind schlichte Farbfelder, vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "treppe_terrasse": {
+      "title": "Aufgang zur Dachterrasse",
+      "description": "Im Dachgeschoss über dem Mittelbau führt eine Treppe aus Treppenblöcken, acht Stufen hoch und drei Blöcke breit, durch eine Luke auf die flache Dachterrasse. Dort steht rundum eine niedrige Brüstung.",
+      "tip": "Setze den massiven Unterbau, dann die acht Stufen nach Norden; die Luke ist ein Loch in zwei Platten.",
+      "caution": "Die Luke ist eine Öffnung ins Freie und bleibt Luft.",
+      "fact": "Der Mittelbau trägt im Modell ein Flachdach mit Brüstung (Terrazza). Der Aufgang ist eine Ergänzung für die Begehbarkeit, Stufe C, vereinfacht. Quelle: Wikipedia (de, en) zum Palazzo Vecchio."
     }
   }
 }

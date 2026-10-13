@@ -2,8 +2,15 @@
   "id": "palazzo_vecchio",
   "title": "Palazzo Vecchio",
   "type": "wahrzeichen",
-  "gebaeude": ["r1461712"],
+  "gebaeude": [
+    "r1461712"
+  ],
   "bodenY": 68,
-  "rahmen": { "ox": -146.5, "oz": 887.0, "thetaDeg": -79.8 },
-  "luftraum": 3
+  "rahmen": {
+    "ox": -146.5,
+    "oz": 887,
+    "thetaDeg": -79.8
+  },
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
 }

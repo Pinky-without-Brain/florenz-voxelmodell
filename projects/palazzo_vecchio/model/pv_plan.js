@@ -318,6 +318,7 @@ function plan(g) {
     const cols = L.spalten.concat(opt.ohneAuslauf ? [] : L.auslauf);
     for (const [x, z] of cols) {
       const r = g.rec(x, z);
+      if (opt.zonen && (!r || !opt.zonen.includes(r.zone))) return false;
       if (opt.rand) { if (!r || r.zone === 'T' || r.dHm <= 6 || r.sal) return false; continue; }
       if (!istFrei(g, r, yLo, wandCols) || belegt.has(key(x, z))) return false;
     }
@@ -350,6 +351,8 @@ function plan(g) {
   // OG1 -> OG2 (17 Stufen) und OG2 -> Dachgeschoss (16 Stufen)
   finde('treppe_og1_og2', { dir: 's', n: 17, breite: 3, y0: 17 }, 8, 84, 8, 17, 49, {});
   finde('treppe_og2_dg', { dir: 'n', n: 16, breite: 3, y0: 34 }, 66, 66, 10, 34, 56, {});
+  // Dachterrasse über dem Mittelbau (Platte y_rel 57): Aufgang aus dem Dachgeschoss, 8 Stufen
+  finde('treppe_terrasse', { dir: 'n', n: 8, breite: 3, y0: 50 }, 80, 72, 12, 50, 58, { zonen: ['M', 'P'] });
   // Ostflügel (Dogana-Seite): eigene Treppen, weil der Salone die Obergeschosse von Westflügel und Ostflügel trennt
   finde('treppe_ost_eg_og1', { dir: 'n', n: 16, breite: 3, y0: 1 }, 74, 150, 8, 1, 33, {});
   finde('treppe_ost_og1_og2', { dir: 's', n: 17, breite: 3, y0: 17 }, 92, 156, 8, 17, 49, {});
@@ -379,7 +382,7 @@ function plan(g) {
   ballatoio('treppe_wehrgang_sued', 10);
   // Dachluken: die Luftzellen über den Wehrgangtreppen (Treppenschacht durch Dachplatte und Dach) sind eine deklarierte Öffnung (Tür)
   P.luken = [];
-  for (const L of P.treppen) if (L.id.startsWith('treppe_wehrgang')) for (const c of L.kopf) P.luken.push(c);
+  for (const L of P.treppen) if (L.id.startsWith('treppe_wehrgang') || L.id === 'treppe_terrasse') for (const c of L.kopf) P.luken.push(c);
 
   P.aussen = aussenTreppen(g, ck);
   for (const a of P.aussen) for (const c of a.carve) P.carve.add(c);
