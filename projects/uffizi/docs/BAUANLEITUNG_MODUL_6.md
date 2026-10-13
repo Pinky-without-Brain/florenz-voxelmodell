@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 83.344 |
+| Blöcke | 83.348 |
 | Bauschritte | 51 |
 | Y-Bereich | 66 bis 143 |
 | X-Ausdehnung | -346 bis -80 (267 Blöcke) |
@@ -21,10 +21,21 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 67.481 | 81,0 % |
-| Endsteinziegel | `end_stone_bricks` | 14.963 | 18,0 % |
-| Glatter Stein | `smooth_stone` | 758 | 0,9 % |
+| Terrakotta | `terracotta` | 63.956 | 76,7 % |
+| Endsteinziegel | `end_stone_bricks` | 13.439 | 16,1 % |
+| Rote Keramik | `red_terracotta` | 2.508 | 3,0 % |
+| Weiße Keramik | `white_terracotta` | 1.195 | 1,4 % |
+| Goldblock | `gold_block` | 811 | 1,0 % |
+| Glatter Stein | `smooth_stone` | 574 | 0,7 % |
+| Blaue Keramik | `blue_terracotta` | 301 | 0,4 % |
+| Grüne Keramik | `green_terracotta` | 281 | 0,3 % |
 | Graues Buntglas | `gray_stained_glass` | 142 | 0,2 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 87 | 0,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 30 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 10 | 0,0 % |
+| Polierter Tuffstein | `polished_tuff` | 6 | 0,0 % |
+| Polierter Granit | `polished_granite` | 4 | 0,0 % |
+| Glatter Quarzblock | `smooth_quartz` | 4 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -32,7 +43,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `dach_nebenbau` | Dach des Nebenbaus | 21.185 | 6.1–6.14 |
 | 2 | `dach_fluegel` | Dach der Flügel und des Südbaus | 43.698 | 6.15–6.39 |
-| 3 | `tribuna_tambour` | Tribuna: Schacht und Tambour | 15.629 | 6.40–6.48 |
+| 3 | `tribuna_tambour` | Tribuna: Schacht und Tambour | 15.633 | 6.40–6.48 |
 | 4 | `tribuna_kuppel` | Tribuna: Kuppel | 2.506 | 6.49–6.50 |
 | 5 | `tribuna_laterne` | Tribuna: Laterne | 326 | 6.51 |
 
@@ -440,7 +451,14 @@ Dachziegel aus Terrakotta prägen das Stadtbild von Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.875 |
+| Terrakotta | `terracotta` | 649 |
+| Weiße Keramik | `white_terracotta` | 365 |
+| Rote Keramik | `red_terracotta` | 231 |
+| Goldblock | `gold_block` | 222 |
+| Blaue Keramik | `blue_terracotta` | 168 |
+| Grüne Keramik | `green_terracotta` | 165 |
+| Hellblaue Keramik | `light_blue_terracotta` | 55 |
+| Gelbe Keramik | `yellow_terracotta` | 20 |
 
 **Beschreibung**
 
@@ -468,7 +486,14 @@ Das flache Dach ist von der Straße kaum zu sehen.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.290 |
+| Weiße Keramik | `white_terracotta` | 453 |
+| Rote Keramik | `red_terracotta` | 287 |
+| Goldblock | `gold_block` | 215 |
+| Blaue Keramik | `blue_terracotta` | 133 |
+| Grüne Keramik | `green_terracotta` | 116 |
+| Terrakotta | `terracotta` | 44 |
+| Hellblaue Keramik | `light_blue_terracotta` | 32 |
+| Gelbe Keramik | `yellow_terracotta` | 10 |
 
 **Beschreibung**
 
@@ -1196,7 +1221,9 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.624 |
+| Endsteinziegel | `end_stone_bricks` | 1.616 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 |
+| Polierter Tuffstein | `polished_tuff` | 3 |
 
 **Beschreibung**
 
@@ -1224,7 +1251,9 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.884 |
+| Endsteinziegel | `end_stone_bricks` | 1.876 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 |
+| Polierter Tuffstein | `polished_tuff` | 3 |
 
 **Beschreibung**
 
@@ -1280,7 +1309,10 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.640 |
+| Endsteinziegel | `end_stone_bricks` | 1.476 |
+| Rote Keramik | `red_terracotta` | 156 |
+| Polierter Granit | `polished_granite` | 4 |
+| Glatter Quarzblock | `smooth_quartz` | 4 |
 
 **Beschreibung**
 
@@ -1301,14 +1333,16 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.46 – Tribuna: Schacht und Tambour – Teil 7/9 (Y 104–110)
 
 - **Y-Bereich:** 104 bis 110
-- **Blöcke:** 1.884
+- **Blöcke:** 1.888
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.884 |
+| Endsteinziegel | `end_stone_bricks` | 1.330 |
+| Rote Keramik | `red_terracotta` | 472 |
+| Goldblock | `gold_block` | 86 |
 
 **Beschreibung**
 
@@ -1336,7 +1370,10 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.658 |
+| Endsteinziegel | `end_stone_bricks` | 1.172 |
+| Rote Keramik | `red_terracotta` | 402 |
+| Goldblock | `gold_block` | 82 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Beschreibung**
 
@@ -1364,8 +1401,10 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.109 |
-| Glatter Stein | `smooth_stone` | 552 |
+| Endsteinziegel | `end_stone_bricks` | 805 |
+| Glatter Stein | `smooth_stone` | 368 |
+| Weiße Keramik | `white_terracotta` | 246 |
+| Rote Keramik | `red_terracotta` | 242 |
 | Graues Buntglas | `gray_stained_glass` | 114 |
 
 **Beschreibung**
@@ -1394,7 +1433,10 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.312 |
+| Terrakotta | `terracotta` | 912 |
+| Rote Keramik | `red_terracotta` | 272 |
+| Goldblock | `gold_block` | 74 |
+| Weiße Keramik | `white_terracotta` | 54 |
 
 **Beschreibung**
 
@@ -1422,7 +1464,10 @@ Die Form der Kuppel heißt Klostergewölbe: Sie folgt den acht Seiten des Raumes
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.194 |
+| Terrakotta | `terracotta` | 541 |
+| Rote Keramik | `red_terracotta` | 446 |
+| Goldblock | `gold_block` | 132 |
+| Weiße Keramik | `white_terracotta` | 75 |
 
 **Beschreibung**
 

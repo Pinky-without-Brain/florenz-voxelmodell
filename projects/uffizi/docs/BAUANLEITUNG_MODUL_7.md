@@ -8,1459 +8,71 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 206.664 |
-| Bauschritte | 121 |
+| Blöcke | 183.892 |
+| Bauschritte | 105 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -338 bis -87 (252 Blöcke) |
 | Z-Ausdehnung | 901 bis 1209 (309 Blöcke) |
-| Kleinster Schritt | 937 Blöcke (Schritt 7.60) |
-| Mittlerer Schritt | 1.708 Blöcke |
-| Größter Schritt | 2.076 Blöcke (Schritt 7.33) |
+| Kleinster Schritt | 287 Blöcke (Schritt 7.62) |
+| Mittlerer Schritt | 1.751 Blöcke |
+| Größter Schritt | 2.093 Blöcke (Schritt 7.63) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 105.335 | 51,0 % |
-| Glatter Stein | `smooth_stone` | 100.650 | 48,7 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 228 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 191 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 170 | 0,1 % |
+| Endsteinziegel | `end_stone_bricks` | 82.762 | 45,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22.086 | 12,0 % |
+| Polierter Tuffstein | `polished_tuff` | 21.875 | 11,9 % |
+| Glatter Stein | `smooth_stone` | 13.592 | 7,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 10.373 | 5,6 % |
+| Polierter Granit | `polished_granite` | 10.313 | 5,6 % |
+| Weiße Keramik | `white_terracotta` | 6.239 | 3,4 % |
+| Goldblock | `gold_block` | 3.315 | 1,8 % |
+| Grüne Keramik | `green_terracotta` | 3.299 | 1,8 % |
+| Blaue Keramik | `blue_terracotta` | 3.061 | 1,7 % |
+| Rote Keramik | `red_terracotta` | 3.031 | 1,6 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 2.222 | 1,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 983 | 0,5 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 210 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 181 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 145 | 0,1 % |
+| Dunkler Prismarin | `dark_prismarine` | 115 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 90 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 679 |
+| Steintreppe | `stone_stairs` | 626 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `decke_14` | Decke über dem Erdgeschoss | 21.196 | 7.1–7.11 |
-| 2 | `decke_20` | Decke über dem Mezzanin | 27.395 | 7.12–7.25 |
-| 3 | `decke_36` | Decke über dem Piano nobile | 21.963 | 7.26–7.36 |
-| 4 | `decke_traufe` | Traufdecke | 26.050 | 7.37–7.50 |
-| 5 | `spinnwand_fluegel` | Längsmittelwand der Flügel | 42.099 | 7.51–7.75 |
-| 6 | `trennwaende` | trennwaende | 63.236 | 7.76–7.118 |
-| 7 | `treppen` | Vier Treppen in den Flügelenden | 1.260 | 7.119 |
-| 8 | `scalone_treppe` | scalone_treppe | 1.731 | 7.120 |
-| 9 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 1.734 | 7.121 |
+| 1 | `spinnwand_fluegel` | Längsmittelwand der Flügel | 35.602 | 7.1–7.20 |
+| 2 | `trennwaende` | trennwaende | 46.227 | 7.21–7.50 |
+| 3 | `decke_14` | Decke über dem Erdgeschoss | 21.338 | 7.51–7.62 |
+| 4 | `decke_20` | Decke über dem Mezzanin | 27.755 | 7.63–7.76 |
+| 5 | `decke_36` | Decke über dem Piano nobile | 22.235 | 7.77–7.88 |
+| 6 | `decke_traufe` | Traufdecke | 26.010 | 7.89–7.102 |
+| 7 | `treppen` | Vier Treppen in den Flügelenden | 1.260 | 7.103 |
+| 8 | `scalone_treppe` | scalone_treppe | 1.731 | 7.104 |
+| 9 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 1.734 | 7.105 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Decke über dem Erdgeschoss – Teil 1/11 (Y 79–79)
+### Schritt 7.1 – Längsmittelwand der Flügel – Teil 1/20 (Y 66–68)
 
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.929
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.929 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.2 – Decke über dem Erdgeschoss – Teil 2/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.963
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.963 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.3 – Decke über dem Erdgeschoss – Teil 3/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.865
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.865 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.4 – Decke über dem Erdgeschoss – Teil 4/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.924
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.924 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.5 – Decke über dem Erdgeschoss – Teil 5/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.986
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.986 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.6 – Decke über dem Erdgeschoss – Teil 6/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.846
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.846 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.7 – Decke über dem Erdgeschoss – Teil 7/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.994
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.994 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.8 – Decke über dem Erdgeschoss – Teil 8/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.965
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.965 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.9 – Decke über dem Erdgeschoss – Teil 9/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.905
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.905 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.10 – Decke über dem Erdgeschoss – Teil 10/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.946
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.946 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.11 – Decke über dem Erdgeschoss – Teil 11/11 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.873
-- **Bauteile:** `decke_14`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.873 |
-
-**Beschreibung**
-
-Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
-
-**Tipp**
-
-Lege die Platte lagenweise von den Wänden nach innen.
-
-**Achtung**
-
-Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
-
-**Fakt**
-
-Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
-
-### Schritt 7.12 – Decke über dem Mezzanin – Teil 1/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.947
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.947 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.13 – Decke über dem Mezzanin – Teil 2/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.978
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.978 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.14 – Decke über dem Mezzanin – Teil 3/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.929
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.929 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.15 – Decke über dem Mezzanin – Teil 4/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.002
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.002 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.16 – Decke über dem Mezzanin – Teil 5/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.900
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.900 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.17 – Decke über dem Mezzanin – Teil 6/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.990
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.990 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.18 – Decke über dem Mezzanin – Teil 7/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.035
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.035 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.19 – Decke über dem Mezzanin – Teil 8/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.904
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.904 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.20 – Decke über dem Mezzanin – Teil 9/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.901
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.901 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.21 – Decke über dem Mezzanin – Teil 10/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.018
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.018 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.22 – Decke über dem Mezzanin – Teil 11/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.886
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.886 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.23 – Decke über dem Mezzanin – Teil 12/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.042
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.042 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.24 – Decke über dem Mezzanin – Teil 13/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.960
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.960 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.25 – Decke über dem Mezzanin – Teil 14/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.903
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.903 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
-### Schritt 7.26 – Decke über dem Piano nobile – Teil 1/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.954
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.954 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.27 – Decke über dem Piano nobile – Teil 2/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.067
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.067 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.28 – Decke über dem Piano nobile – Teil 3/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.948
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.948 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.29 – Decke über dem Piano nobile – Teil 4/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.056
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.056 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.30 – Decke über dem Piano nobile – Teil 5/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.923
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.923 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.31 – Decke über dem Piano nobile – Teil 6/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.068
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.068 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.32 – Decke über dem Piano nobile – Teil 7/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.959
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.959 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.33 – Decke über dem Piano nobile – Teil 8/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.076
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.076 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.34 – Decke über dem Piano nobile – Teil 9/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.910
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.910 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.35 – Decke über dem Piano nobile – Teil 10/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.977
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.977 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.36 – Decke über dem Piano nobile – Teil 11/11 (Y 101–101)
-
-- **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.025
-- **Bauteile:** `decke_36`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.025 |
-
-**Beschreibung**
-
-Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
-
-**Tipp**
-
-Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
-
-**Achtung**
-
-Die Treppe zum Korridor endet bündig mit dieser Platte.
-
-**Fakt**
-
-Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
-
-### Schritt 7.37 – Traufdecke – Teil 1/14 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.724
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.724 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.38 – Traufdecke – Teil 2/14 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.696
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.696 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.39 – Traufdecke – Teil 3/14 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.681
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.681 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.40 – Traufdecke – Teil 4/14 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.752
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.752 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.41 – Traufdecke – Teil 5/14 (Y 109–109)
-
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.679
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.679 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.42 – Traufdecke – Teil 6/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.948
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.948 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.43 – Traufdecke – Teil 7/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.982
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.982 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.44 – Traufdecke – Teil 8/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.924
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.924 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.45 – Traufdecke – Teil 9/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.874
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.874 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.46 – Traufdecke – Teil 10/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.982
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.982 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.47 – Traufdecke – Teil 11/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.993
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.993 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.48 – Traufdecke – Teil 12/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.923
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.923 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.49 – Traufdecke – Teil 13/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.980
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.980 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.50 – Traufdecke – Teil 14/14 (Y 116–116)
-
-- **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.912
-- **Bauteile:** `decke_traufe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.912 |
-
-**Beschreibung**
-
-Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
-
-**Tipp**
-
-Beginne am Rand, dort liegen die Wände als Auflager.
-
-**Achtung**
-
-Unter dem Dach bleibt der Tribuna-Raum offen.
-
-**Fakt**
-
-Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
-
-### Schritt 7.51 – Längsmittelwand der Flügel – Teil 1/25 (Y 66–67)
-
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.646
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.676
 - **Bauteile:** `spinnwand_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
+| Endsteinziegel | `end_stone_bricks` | 1.676 |
 
 **Beschreibung**
 
@@ -1478,17 +90,17 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.52 – Längsmittelwand der Flügel – Teil 2/25 (Y 68–69)
+### Schritt 7.2 – Längsmittelwand der Flügel – Teil 2/20 (Y 69–71)
 
-- **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.646
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.675
 - **Bauteile:** `spinnwand_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
+| Endsteinziegel | `end_stone_bricks` | 1.675 |
 
 **Beschreibung**
 
@@ -1506,35 +118,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.53 – Längsmittelwand der Flügel – Teil 3/25 (Y 70–71)
-
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.646
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.54 – Längsmittelwand der Flügel – Teil 4/25 (Y 72–73)
+### Schritt 7.3 – Längsmittelwand der Flügel – Teil 3/20 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.646
@@ -1562,7 +146,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.55 – Längsmittelwand der Flügel – Teil 5/25 (Y 74–75)
+### Schritt 7.4 – Längsmittelwand der Flügel – Teil 4/20 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.874
@@ -1590,7 +174,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.56 – Längsmittelwand der Flügel – Teil 6/25 (Y 76–77)
+### Schritt 7.5 – Längsmittelwand der Flügel – Teil 5/20 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.874
@@ -1618,7 +202,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.57 – Längsmittelwand der Flügel – Teil 7/25 (Y 78–79)
+### Schritt 7.6 – Längsmittelwand der Flügel – Teil 6/20 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.874
@@ -1628,7 +212,9 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.874 |
+| Endsteinziegel | `end_stone_bricks` | 1.772 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 98 |
+| Polierter Tuffstein | `polished_tuff` | 4 |
 
 **Beschreibung**
 
@@ -1646,9 +232,123 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.58 – Längsmittelwand der Flügel – Teil 8/25 (Y 80–81)
+### Schritt 7.7 – Längsmittelwand der Flügel – Teil 7/20 (Y 80–82)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 80 bis 82
+- **Blöcke:** 1.676
+- **Bauteile:** `spinnwand_fluegel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.676 |
+
+**Beschreibung**
+
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+
+**Tipp**
+
+Die Türen liegen auf der Mitte des Jochs.
+
+**Achtung**
+
+Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
+
+**Fakt**
+
+Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
+
+### Schritt 7.8 – Längsmittelwand der Flügel – Teil 8/20 (Y 83–85)
+
+- **Y-Bereich:** 83 bis 85
+- **Blöcke:** 1.789
+- **Bauteile:** `spinnwand_fluegel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.687 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 98 |
+| Polierter Tuffstein | `polished_tuff` | 4 |
+
+**Beschreibung**
+
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+
+**Tipp**
+
+Die Türen liegen auf der Mitte des Jochs.
+
+**Achtung**
+
+Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
+
+**Fakt**
+
+Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
+
+### Schritt 7.9 – Längsmittelwand der Flügel – Teil 9/20 (Y 86–88)
+
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.676
+- **Bauteile:** `spinnwand_fluegel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.676 |
+
+**Beschreibung**
+
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+
+**Tipp**
+
+Die Türen liegen auf der Mitte des Jochs.
+
+**Achtung**
+
+Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
+
+**Fakt**
+
+Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
+
+### Schritt 7.10 – Längsmittelwand der Flügel – Teil 10/20 (Y 89–91)
+
+- **Y-Bereich:** 89 bis 91
+- **Blöcke:** 1.675
+- **Bauteile:** `spinnwand_fluegel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.675 |
+
+**Beschreibung**
+
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+
+**Tipp**
+
+Die Türen liegen auf der Mitte des Jochs.
+
+**Achtung**
+
+Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
+
+**Fakt**
+
+Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
+
+### Schritt 7.11 – Längsmittelwand der Flügel – Teil 11/20 (Y 92–93)
+
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.646
 - **Bauteile:** `spinnwand_fluegel`
 
@@ -1674,205 +374,9 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.59 – Längsmittelwand der Flügel – Teil 9/25 (Y 82–83)
+### Schritt 7.12 – Längsmittelwand der Flügel – Teil 12/20 (Y 94–95)
 
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.646
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.60 – Längsmittelwand der Flügel – Teil 10/25 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 937
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 937 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.61 – Längsmittelwand der Flügel – Teil 11/25 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.760
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.760 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.62 – Längsmittelwand der Flügel – Teil 12/25 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.646
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.63 – Längsmittelwand der Flügel – Teil 13/25 (Y 89–90)
-
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.646
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.64 – Längsmittelwand der Flügel – Teil 14/25 (Y 91–92)
-
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.646
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.646 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.65 – Längsmittelwand der Flügel – Teil 15/25 (Y 93–94)
-
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.760
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.760 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.66 – Längsmittelwand der Flügel – Teil 16/25 (Y 95–96)
-
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.874
 - **Bauteile:** `spinnwand_fluegel`
 
@@ -1898,9 +402,9 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.67 – Längsmittelwand der Flügel – Teil 17/25 (Y 97–98)
+### Schritt 7.13 – Längsmittelwand der Flügel – Teil 13/20 (Y 96–97)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.874
 - **Bauteile:** `spinnwand_fluegel`
 
@@ -1926,9 +430,9 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.68 – Längsmittelwand der Flügel – Teil 18/25 (Y 99–100)
+### Schritt 7.14 – Längsmittelwand der Flügel – Teil 14/20 (Y 98–99)
 
-- **Y-Bereich:** 99 bis 100
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.874
 - **Bauteile:** `spinnwand_fluegel`
 
@@ -1954,10 +458,10 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.69 – Längsmittelwand der Flügel – Teil 19/25 (Y 101–102)
+### Schritt 7.15 – Längsmittelwand der Flügel – Teil 15/20 (Y 100–101)
 
-- **Y-Bereich:** 101 bis 102
-- **Blöcke:** 1.715
+- **Y-Bereich:** 100 bis 101
+- **Blöcke:** 1.874
 - **Bauteile:** `spinnwand_fluegel`
 
 **Teileliste**
@@ -1965,6 +469,9 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.715 |
+| Polierter Granit | `polished_granite` | 78 |
+| Glatter Quarzblock | `smooth_quartz` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 9 |
 
 **Beschreibung**
 
@@ -1982,17 +489,17 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.70 – Längsmittelwand der Flügel – Teil 20/25 (Y 103–104)
+### Schritt 7.16 – Längsmittelwand der Flügel – Teil 16/20 (Y 102–105)
 
-- **Y-Bereich:** 103 bis 104
-- **Blöcke:** 1.556
+- **Y-Bereich:** 102 bis 105
+- **Blöcke:** 1.954
 - **Bauteile:** `spinnwand_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.556 |
+| Endsteinziegel | `end_stone_bricks` | 1.954 |
 
 **Beschreibung**
 
@@ -2010,17 +517,17 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.71 – Längsmittelwand der Flügel – Teil 21/25 (Y 105–106)
+### Schritt 7.17 – Längsmittelwand der Flügel – Teil 17/20 (Y 106–108)
 
-- **Y-Bereich:** 105 bis 106
-- **Blöcke:** 1.556
+- **Y-Bereich:** 106 bis 108
+- **Blöcke:** 1.895
 - **Bauteile:** `spinnwand_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.556 |
+| Endsteinziegel | `end_stone_bricks` | 1.895 |
 
 **Beschreibung**
 
@@ -2038,45 +545,17 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.72 – Längsmittelwand der Flügel – Teil 22/25 (Y 107–108)
-
-- **Y-Bereich:** 107 bis 108
-- **Blöcke:** 1.556
-- **Bauteile:** `spinnwand_fluegel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.556 |
-
-**Beschreibung**
-
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
-
-**Tipp**
-
-Die Türen liegen auf der Mitte des Jochs.
-
-**Achtung**
-
-Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
-
-**Fakt**
-
-Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
-
-### Schritt 7.73 – Längsmittelwand der Flügel – Teil 23/25 (Y 109–110)
+### Schritt 7.18 – Längsmittelwand der Flügel – Teil 18/20 (Y 109–110)
 
 - **Y-Bereich:** 109 bis 110
-- **Blöcke:** 1.664
+- **Blöcke:** 1.639
 - **Bauteile:** `spinnwand_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.664 |
+| Endsteinziegel | `end_stone_bricks` | 1.639 |
 
 **Beschreibung**
 
@@ -2094,7 +573,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.74 – Längsmittelwand der Flügel – Teil 24/25 (Y 111–112)
+### Schritt 7.19 – Längsmittelwand der Flügel – Teil 19/20 (Y 111–112)
 
 - **Y-Bereich:** 111 bis 112
 - **Blöcke:** 1.769
@@ -2122,7 +601,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.75 – Längsmittelwand der Flügel – Teil 25/25 (Y 113–114)
+### Schritt 7.20 – Längsmittelwand der Flügel – Teil 20/20 (Y 113–114)
 
 - **Y-Bereich:** 113 bis 114
 - **Blöcke:** 1.768
@@ -2150,67 +629,31 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.76 – trennwaende – Teil 1/43 (Y 66–66)
+### Schritt 7.21 – trennwaende – Teil 1/30 (Y 66–67)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.138
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.485
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
+| Endsteinziegel | `end_stone_bricks` | 1.485 |
 
-### Schritt 7.77 – trennwaende – Teil 2/43 (Y 67–67)
+### Schritt 7.22 – trennwaende – Teil 2/30 (Y 68–70)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.138
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.041
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
+| Endsteinziegel | `end_stone_bricks` | 1.041 |
 
-### Schritt 7.78 – trennwaende – Teil 3/43 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.138
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
-
-### Schritt 7.79 – trennwaende – Teil 4/43 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.138
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
-
-### Schritt 7.80 – trennwaende – Teil 5/43 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.138
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
-
-### Schritt 7.81 – trennwaende – Teil 6/43 (Y 71–71)
+### Schritt 7.23 – trennwaende – Teil 3/30 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.138
@@ -2222,7 +665,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.138 |
 
-### Schritt 7.82 – trennwaende – Teil 7/43 (Y 72–72)
+### Schritt 7.24 – trennwaende – Teil 4/30 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.138
@@ -2234,7 +677,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.138 |
 
-### Schritt 7.83 – trennwaende – Teil 8/43 (Y 73–73)
+### Schritt 7.25 – trennwaende – Teil 5/30 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.138
@@ -2246,7 +689,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.138 |
 
-### Schritt 7.84 – trennwaende – Teil 9/43 (Y 74–74)
+### Schritt 7.26 – trennwaende – Teil 6/30 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.376
@@ -2258,7 +701,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.376 |
 
-### Schritt 7.85 – trennwaende – Teil 10/43 (Y 75–75)
+### Schritt 7.27 – trennwaende – Teil 7/30 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.380
@@ -2270,7 +713,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.86 – trennwaende – Teil 11/43 (Y 76–76)
+### Schritt 7.28 – trennwaende – Teil 8/30 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.380
@@ -2282,7 +725,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.87 – trennwaende – Teil 12/43 (Y 77–77)
+### Schritt 7.29 – trennwaende – Teil 9/30 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.380
@@ -2294,7 +737,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.88 – trennwaende – Teil 13/43 (Y 78–78)
+### Schritt 7.30 – trennwaende – Teil 10/30 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.380
@@ -2306,163 +749,91 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.89 – trennwaende – Teil 14/43 (Y 80–80)
+### Schritt 7.31 – trennwaende – Teil 11/30 (Y 80–81)
 
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.561
+- **Y-Bereich:** 80 bis 81
+- **Blöcke:** 1.835
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Endsteinziegel | `end_stone_bricks` | 1.835 |
 
-### Schritt 7.90 – trennwaende – Teil 15/43 (Y 81–81)
+### Schritt 7.32 – trennwaende – Teil 12/30 (Y 82–84)
 
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.561
+- **Y-Bereich:** 82 bis 84
+- **Blöcke:** 1.227
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Endsteinziegel | `end_stone_bricks` | 1.227 |
 
-### Schritt 7.91 – trennwaende – Teil 16/43 (Y 82–82)
+### Schritt 7.33 – trennwaende – Teil 13/30 (Y 86–87)
 
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.561
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.830
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Endsteinziegel | `end_stone_bricks` | 1.830 |
 
-### Schritt 7.92 – trennwaende – Teil 17/43 (Y 83–83)
+### Schritt 7.34 – trennwaende – Teil 14/30 (Y 88–90)
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.561
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.233
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Endsteinziegel | `end_stone_bricks` | 1.233 |
 
-### Schritt 7.93 – trennwaende – Teil 18/43 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.814
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.814 |
-
-### Schritt 7.94 – trennwaende – Teil 19/43 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.561
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
-
-### Schritt 7.95 – trennwaende – Teil 20/43 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.564
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.564 |
-
-### Schritt 7.96 – trennwaende – Teil 21/43 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.564
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.564 |
-
-### Schritt 7.97 – trennwaende – Teil 22/43 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.564
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.564 |
-
-### Schritt 7.98 – trennwaende – Teil 23/43 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.564
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.564 |
-
-### Schritt 7.99 – trennwaende – Teil 24/43 (Y 91–91)
+### Schritt 7.35 – trennwaende – Teil 15/30 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.564
+- **Blöcke:** 1.422
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.564 |
+| Endsteinziegel | `end_stone_bricks` | 1.422 |
 
-### Schritt 7.100 – trennwaende – Teil 25/43 (Y 92–92)
+### Schritt 7.36 – trennwaende – Teil 16/30 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.561
+- **Blöcke:** 1.419
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Endsteinziegel | `end_stone_bricks` | 1.419 |
 
-### Schritt 7.101 – trennwaende – Teil 26/43 (Y 93–93)
+### Schritt 7.37 – trennwaende – Teil 17/30 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.561
+- **Blöcke:** 1.419
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Endsteinziegel | `end_stone_bricks` | 1.419 |
 
-### Schritt 7.102 – trennwaende – Teil 27/43 (Y 94–94)
+### Schritt 7.38 – trennwaende – Teil 18/30 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.814
@@ -2474,7 +845,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.103 – trennwaende – Teil 28/43 (Y 95–95)
+### Schritt 7.39 – trennwaende – Teil 19/30 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.814
@@ -2486,7 +857,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.104 – trennwaende – Teil 29/43 (Y 96–96)
+### Schritt 7.40 – trennwaende – Teil 20/30 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.814
@@ -2498,7 +869,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.105 – trennwaende – Teil 30/43 (Y 97–97)
+### Schritt 7.41 – trennwaende – Teil 21/30 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.814
@@ -2510,7 +881,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.106 – trennwaende – Teil 31/43 (Y 98–98)
+### Schritt 7.42 – trennwaende – Teil 22/30 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.814
@@ -2522,7 +893,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.107 – trennwaende – Teil 32/43 (Y 99–99)
+### Schritt 7.43 – trennwaende – Teil 23/30 (Y 99–99)
 
 - **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.814
@@ -2534,7 +905,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.108 – trennwaende – Teil 33/43 (Y 100–100)
+### Schritt 7.44 – trennwaende – Teil 24/30 (Y 100–100)
 
 - **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.814
@@ -2546,91 +917,43 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.109 – trennwaende – Teil 34/43 (Y 102–102)
+### Schritt 7.45 – trennwaende – Teil 25/30 (Y 102–105)
 
-- **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.138
+- **Y-Bereich:** 102 bis 105
+- **Blöcke:** 1.998
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
+| Endsteinziegel | `end_stone_bricks` | 1.998 |
 
-### Schritt 7.110 – trennwaende – Teil 35/43 (Y 103–103)
+### Schritt 7.46 – trennwaende – Teil 26/30 (Y 106–107)
 
-- **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.141
+- **Y-Bereich:** 106 bis 107
+- **Blöcke:** 1.321
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.141 |
+| Endsteinziegel | `end_stone_bricks` | 1.321 |
 
-### Schritt 7.111 – trennwaende – Teil 36/43 (Y 104–104)
-
-- **Y-Bereich:** 104 bis 104
-- **Blöcke:** 1.141
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.141 |
-
-### Schritt 7.112 – trennwaende – Teil 37/43 (Y 105–105)
-
-- **Y-Bereich:** 105 bis 105
-- **Blöcke:** 1.141
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.141 |
-
-### Schritt 7.113 – trennwaende – Teil 38/43 (Y 106–106)
-
-- **Y-Bereich:** 106 bis 106
-- **Blöcke:** 1.141
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.141 |
-
-### Schritt 7.114 – trennwaende – Teil 39/43 (Y 107–107)
-
-- **Y-Bereich:** 107 bis 107
-- **Blöcke:** 1.141
-- **Bauteile:** `trennwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.141 |
-
-### Schritt 7.115 – trennwaende – Teil 40/43 (Y 108–109)
+### Schritt 7.47 – trennwaende – Teil 27/30 (Y 108–109)
 
 - **Y-Bereich:** 108 bis 109
-- **Blöcke:** 1.855
+- **Blöcke:** 1.710
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.855 |
+| Endsteinziegel | `end_stone_bricks` | 1.710 |
 
-### Schritt 7.116 – trennwaende – Teil 41/43 (Y 110–111)
+### Schritt 7.48 – trennwaende – Teil 28/30 (Y 110–111)
 
 - **Y-Bereich:** 110 bis 111
 - **Blöcke:** 1.773
@@ -2642,7 +965,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.773 |
 
-### Schritt 7.117 – trennwaende – Teil 42/43 (Y 112–113)
+### Schritt 7.49 – trennwaende – Teil 29/30 (Y 112–113)
 
 - **Y-Bereich:** 112 bis 113
 - **Blöcke:** 1.756
@@ -2654,7 +977,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.756 |
 
-### Schritt 7.118 – trennwaende – Teil 43/43 (Y 114–115)
+### Schritt 7.50 – trennwaende – Teil 30/30 (Y 114–115)
 
 - **Y-Bereich:** 114 bis 115
 - **Blöcke:** 1.750
@@ -2666,7 +989,1636 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.750 |
 
-### Schritt 7.119 – Vier Treppen in den Flügelenden
+### Schritt 7.51 – Decke über dem Erdgeschoss – Teil 1/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.917
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 952 |
+| Polierter Tuffstein | `polished_tuff` | 948 |
+| Glatter Stein | `smooth_stone` | 17 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.52 – Decke über dem Erdgeschoss – Teil 2/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.948
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 929 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 919 |
+| Glatter Stein | `smooth_stone` | 100 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.53 – Decke über dem Erdgeschoss – Teil 3/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.854
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 872 |
+| Polierter Tuffstein | `polished_tuff` | 868 |
+| Glatter Stein | `smooth_stone` | 114 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.54 – Decke über dem Erdgeschoss – Teil 4/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.910
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 914 |
+| Polierter Tuffstein | `polished_tuff` | 892 |
+| Glatter Stein | `smooth_stone` | 104 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.55 – Decke über dem Erdgeschoss – Teil 5/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.968
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 923 |
+| Polierter Tuffstein | `polished_tuff` | 913 |
+| Glatter Stein | `smooth_stone` | 132 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.56 – Decke über dem Erdgeschoss – Teil 6/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.834
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 876 |
+| Polierter Tuffstein | `polished_tuff` | 858 |
+| Glatter Stein | `smooth_stone` | 100 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.57 – Decke über dem Erdgeschoss – Teil 7/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.981
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 932 |
+| Polierter Tuffstein | `polished_tuff` | 917 |
+| Glatter Stein | `smooth_stone` | 132 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.58 – Decke über dem Erdgeschoss – Teil 8/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.955
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 914 |
+| Polierter Tuffstein | `polished_tuff` | 897 |
+| Glatter Stein | `smooth_stone` | 144 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.59 – Decke über dem Erdgeschoss – Teil 9/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.892
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 861 |
+| Polierter Tuffstein | `polished_tuff` | 861 |
+| Glatter Stein | `smooth_stone` | 170 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.60 – Decke über dem Erdgeschoss – Teil 10/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.933
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 678 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 648 |
+| Glatter Stein | `smooth_stone` | 607 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.61 – Decke über dem Erdgeschoss – Teil 11/12 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.859
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 732 |
+| Polierter Tuffstein | `polished_tuff` | 727 |
+| Glatter Stein | `smooth_stone` | 400 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.62 – Decke über dem Erdgeschoss – Teil 12/12 (Y 80–84)
+
+- **Y-Bereich:** 80 bis 84
+- **Blöcke:** 287
+- **Bauteile:** `decke_14`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 287 |
+
+**Beschreibung**
+
+Du legst eine Platte aus Pietra serena auf Lage 14 (Y 79) über den ganzen Innenraum. Sie spart die Treppenlöcher, den Durchgang und den Schacht der Tribuna aus. Die Säulenhalle hat ihre eigene Decke aus Modul 1.
+
+**Tipp**
+
+Lege die Platte lagenweise von den Wänden nach innen.
+
+**Achtung**
+
+Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
+
+**Fakt**
+
+Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
+
+### Schritt 7.63 – Decke über dem Mezzanin – Teil 1/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.039 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.033 |
+| Glatter Stein | `smooth_stone` | 21 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.64 – Decke über dem Mezzanin – Teil 2/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.092
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 992 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 988 |
+| Glatter Stein | `smooth_stone` | 112 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.65 – Decke über dem Mezzanin – Teil 3/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 988 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 963 |
+| Glatter Stein | `smooth_stone` | 142 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.66 – Decke über dem Mezzanin – Teil 4/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.092
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 989 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 967 |
+| Glatter Stein | `smooth_stone` | 136 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.67 – Decke über dem Mezzanin – Teil 5/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 985 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 968 |
+| Glatter Stein | `smooth_stone` | 140 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.68 – Decke über dem Mezzanin – Teil 6/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 975 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 968 |
+| Glatter Stein | `smooth_stone` | 150 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.69 – Decke über dem Mezzanin – Teil 7/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.092
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 999 |
+| Polierter Tuffstein | `polished_tuff` | 968 |
+| Glatter Stein | `smooth_stone` | 125 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.70 – Decke über dem Mezzanin – Teil 8/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 990 |
+| Polierter Tuffstein | `polished_tuff` | 979 |
+| Glatter Stein | `smooth_stone` | 124 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.71 – Decke über dem Mezzanin – Teil 9/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 989 |
+| Polierter Tuffstein | `polished_tuff` | 958 |
+| Glatter Stein | `smooth_stone` | 146 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.72 – Decke über dem Mezzanin – Teil 10/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.092
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 974 |
+| Polierter Tuffstein | `polished_tuff` | 964 |
+| Glatter Stein | `smooth_stone` | 154 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.73 – Decke über dem Mezzanin – Teil 11/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 979 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 963 |
+| Glatter Stein | `smooth_stone` | 151 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.74 – Decke über dem Mezzanin – Teil 12/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.092
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 775 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 740 |
+| Glatter Stein | `smooth_stone` | 577 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.75 – Decke über dem Mezzanin – Teil 13/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 2.093
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 782 |
+| Polierter Tuffstein | `polished_tuff` | 759 |
+| Glatter Stein | `smooth_stone` | 552 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.76 – Decke über dem Mezzanin – Teil 14/14 (Y 86–93)
+
+- **Y-Bereich:** 86 bis 93
+- **Blöcke:** 551
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 551 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.77 – Decke über dem Piano nobile – Teil 1/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.942
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 965 |
+| Polierter Granit | `polished_granite` | 962 |
+| Glatter Stein | `smooth_stone` | 15 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.78 – Decke über dem Piano nobile – Teil 2/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 2.052
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 977 |
+| Polierter Granit | `polished_granite` | 976 |
+| Glatter Stein | `smooth_stone` | 99 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.79 – Decke über dem Piano nobile – Teil 3/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.936
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 925 |
+| Polierter Granit | `polished_granite` | 912 |
+| Glatter Stein | `smooth_stone` | 99 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.80 – Decke über dem Piano nobile – Teil 4/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 2.040
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 974 |
+| Polierter Granit | `polished_granite` | 966 |
+| Glatter Stein | `smooth_stone` | 100 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.81 – Decke über dem Piano nobile – Teil 5/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.911
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 901 |
+| Polierter Granit | `polished_granite` | 894 |
+| Glatter Stein | `smooth_stone` | 116 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.82 – Decke über dem Piano nobile – Teil 6/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 2.055
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 952 |
+| Polierter Granit | `polished_granite` | 930 |
+| Glatter Stein | `smooth_stone` | 128 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
+| Goldblock | `gold_block` | 3 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.83 – Decke über dem Piano nobile – Teil 7/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.944
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 874 |
+| Polierter Granit | `polished_granite` | 858 |
+| Glatter Stein | `smooth_stone` | 130 |
+| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Goldblock | `gold_block` | 18 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.84 – Decke über dem Piano nobile – Teil 8/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.907
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 883 |
+| Polierter Granit | `polished_granite` | 874 |
+| Glatter Stein | `smooth_stone` | 150 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.85 – Decke über dem Piano nobile – Teil 9/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 2.054
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Granit | `polished_granite` | 954 |
+| Glatter Quarzblock | `smooth_quartz` | 951 |
+| Glatter Stein | `smooth_stone` | 149 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.86 – Decke über dem Piano nobile – Teil 10/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.962
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Granit | `polished_granite` | 940 |
+| Glatter Quarzblock | `smooth_quartz` | 926 |
+| Glatter Stein | `smooth_stone` | 96 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.87 – Decke über dem Piano nobile – Teil 11/12 (Y 101–101)
+
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 2.012
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Quarzblock | `smooth_quartz` | 950 |
+| Polierter Granit | `polished_granite` | 946 |
+| Glatter Stein | `smooth_stone` | 116 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.88 – Decke über dem Piano nobile – Teil 12/12 (Y 102–109)
+
+- **Y-Bereich:** 102 bis 109
+- **Blöcke:** 420
+- **Bauteile:** `decke_36`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 420 |
+
+**Beschreibung**
+
+Die Platte auf Lage 36 (Oberkante Y 101) ist der Boden des Dachgeschosses und der Fußboden des Korridors. Hier legst du den Rest der Decke, soweit sie nicht schon als Galerieboden in Modul 3 liegt.
+
+**Tipp**
+
+Die Oberkante ist Y 101, genau die Höhe der Brücke zum Palazzo Vecchio.
+
+**Achtung**
+
+Die Treppe zum Korridor endet bündig mit dieser Platte.
+
+**Fakt**
+
+Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
+
+### Schritt 7.89 – Traufdecke – Teil 1/14 (Y 102–109)
+
+- **Y-Bereich:** 102 bis 109
+- **Blöcke:** 1.876
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 512 |
+| Goldblock | `gold_block` | 302 |
+| Blaue Keramik | `blue_terracotta` | 257 |
+| Grüne Keramik | `green_terracotta` | 253 |
+| Rote Keramik | `red_terracotta` | 237 |
+| Hellblaue Keramik | `light_blue_terracotta` | 186 |
+| Gelbe Keramik | `yellow_terracotta` | 70 |
+| Endsteinziegel | `end_stone_bricks` | 38 |
+| Glatter Stein | `smooth_stone` | 21 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.90 – Traufdecke – Teil 2/14 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.679
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 503 |
+| Rote Keramik | `red_terracotta` | 259 |
+| Goldblock | `gold_block` | 249 |
+| Grüne Keramik | `green_terracotta` | 205 |
+| Blaue Keramik | `blue_terracotta` | 190 |
+| Hellblaue Keramik | `light_blue_terracotta` | 142 |
+| Glatter Stein | `smooth_stone` | 72 |
+| Gelbe Keramik | `yellow_terracotta` | 59 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.91 – Traufdecke – Teil 3/14 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.666
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 449 |
+| Grüne Keramik | `green_terracotta` | 236 |
+| Rote Keramik | `red_terracotta` | 218 |
+| Goldblock | `gold_block` | 213 |
+| Blaue Keramik | `blue_terracotta` | 211 |
+| Hellblaue Keramik | `light_blue_terracotta` | 148 |
+| Glatter Stein | `smooth_stone` | 114 |
+| Gelbe Keramik | `yellow_terracotta` | 77 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.92 – Traufdecke – Teil 4/14 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.739
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 466 |
+| Rote Keramik | `red_terracotta` | 262 |
+| Grüne Keramik | `green_terracotta` | 237 |
+| Blaue Keramik | `blue_terracotta` | 220 |
+| Goldblock | `gold_block` | 220 |
+| Hellblaue Keramik | `light_blue_terracotta` | 136 |
+| Glatter Stein | `smooth_stone` | 129 |
+| Gelbe Keramik | `yellow_terracotta` | 69 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.93 – Traufdecke – Teil 5/14 (Y 109–109)
+
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.666
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 449 |
+| Goldblock | `gold_block` | 235 |
+| Rote Keramik | `red_terracotta` | 233 |
+| Grüne Keramik | `green_terracotta` | 230 |
+| Blaue Keramik | `blue_terracotta` | 204 |
+| Hellblaue Keramik | `light_blue_terracotta` | 137 |
+| Glatter Stein | `smooth_stone` | 119 |
+| Gelbe Keramik | `yellow_terracotta` | 59 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.94 – Traufdecke – Teil 6/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.935
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 455 |
+| Glatter Stein | `smooth_stone` | 296 |
+| Goldblock | `gold_block` | 245 |
+| Grüne Keramik | `green_terracotta` | 240 |
+| Blaue Keramik | `blue_terracotta` | 232 |
+| Rote Keramik | `red_terracotta` | 227 |
+| Hellblaue Keramik | `light_blue_terracotta` | 162 |
+| Gelbe Keramik | `yellow_terracotta` | 78 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.95 – Traufdecke – Teil 7/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.969
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 441 |
+| Glatter Stein | `smooth_stone` | 379 |
+| Grüne Keramik | `green_terracotta` | 240 |
+| Goldblock | `gold_block` | 229 |
+| Blaue Keramik | `blue_terracotta` | 226 |
+| Rote Keramik | `red_terracotta` | 217 |
+| Hellblaue Keramik | `light_blue_terracotta` | 164 |
+| Gelbe Keramik | `yellow_terracotta` | 73 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.96 – Traufdecke – Teil 8/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.909
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 434 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Grüne Keramik | `green_terracotta` | 234 |
+| Goldblock | `gold_block` | 220 |
+| Blaue Keramik | `blue_terracotta` | 219 |
+| Rote Keramik | `red_terracotta` | 204 |
+| Hellblaue Keramik | `light_blue_terracotta` | 147 |
+| Gelbe Keramik | `yellow_terracotta` | 73 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.97 – Traufdecke – Teil 9/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.857
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 407 |
+| Weiße Keramik | `white_terracotta` | 396 |
+| Goldblock | `gold_block` | 220 |
+| Grüne Keramik | `green_terracotta` | 214 |
+| Blaue Keramik | `blue_terracotta` | 209 |
+| Rote Keramik | `red_terracotta` | 188 |
+| Hellblaue Keramik | `light_blue_terracotta` | 153 |
+| Gelbe Keramik | `yellow_terracotta` | 70 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.98 – Traufdecke – Teil 10/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.968
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 480 |
+| Weiße Keramik | `white_terracotta` | 403 |
+| Goldblock | `gold_block` | 229 |
+| Grüne Keramik | `green_terracotta` | 221 |
+| Blaue Keramik | `blue_terracotta` | 208 |
+| Rote Keramik | `red_terracotta` | 191 |
+| Hellblaue Keramik | `light_blue_terracotta` | 168 |
+| Gelbe Keramik | `yellow_terracotta` | 68 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.99 – Traufdecke – Teil 11/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.974
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 420 |
+| Weiße Keramik | `white_terracotta` | 418 |
+| Grüne Keramik | `green_terracotta` | 248 |
+| Blaue Keramik | `blue_terracotta` | 233 |
+| Goldblock | `gold_block` | 224 |
+| Rote Keramik | `red_terracotta` | 190 |
+| Hellblaue Keramik | `light_blue_terracotta` | 170 |
+| Gelbe Keramik | `yellow_terracotta` | 71 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.100 – Traufdecke – Teil 12/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.909
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 441 |
+| Weiße Keramik | `white_terracotta` | 396 |
+| Grüne Keramik | `green_terracotta` | 239 |
+| Blaue Keramik | `blue_terracotta` | 218 |
+| Goldblock | `gold_block` | 208 |
+| Rote Keramik | `red_terracotta` | 178 |
+| Hellblaue Keramik | `light_blue_terracotta` | 163 |
+| Gelbe Keramik | `yellow_terracotta` | 66 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.101 – Traufdecke – Teil 13/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.966
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 435 |
+| Glatter Stein | `smooth_stone` | 417 |
+| Grüne Keramik | `green_terracotta` | 246 |
+| Goldblock | `gold_block` | 220 |
+| Blaue Keramik | `blue_terracotta` | 208 |
+| Rote Keramik | `red_terracotta` | 193 |
+| Hellblaue Keramik | `light_blue_terracotta` | 173 |
+| Gelbe Keramik | `yellow_terracotta` | 74 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.102 – Traufdecke – Teil 14/14 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.897
+- **Bauteile:** `decke_traufe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weiße Keramik | `white_terracotta` | 482 |
+| Goldblock | `gold_block` | 280 |
+| Grüne Keramik | `green_terracotta` | 256 |
+| Rote Keramik | `red_terracotta` | 234 |
+| Blaue Keramik | `blue_terracotta` | 226 |
+| Hellblaue Keramik | `light_blue_terracotta` | 173 |
+| Glatter Stein | `smooth_stone` | 170 |
+| Gelbe Keramik | `yellow_terracotta` | 76 |
+
+**Beschreibung**
+
+Die oberste Platte (Lage 51, Y 116 bei den Flügeln, Lage 44 beim Nebenbau) trägt das Dach. Sie schließt die Dachloggia nach oben ab.
+
+**Tipp**
+
+Beginne am Rand, dort liegen die Wände als Auflager.
+
+**Achtung**
+
+Unter dem Dach bleibt der Tribuna-Raum offen.
+
+**Fakt**
+
+Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
+
+### Schritt 7.103 – Vier Treppen in den Flügelenden
 
 - **Y-Bereich:** 66 bis 101
 - **Blöcke:** 1.260
@@ -2676,17 +2628,21 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 900 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 90 |
+| Glatter Stein | `smooth_stone` | 855 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 90 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 90 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 90 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 70 |
+| Glatter Quarzblock | `smooth_quartz` | 18 |
+| Polierter Granit | `polished_granite` | 17 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 15 |
+| Polierter Tuffstein | `polished_tuff` | 15 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 360 |
+| Steintreppe | `stone_stairs` | 340 |
 
 **Beschreibung**
 
@@ -2704,7 +2660,7 @@ Die Decken lassen die Löcher über der Treppe frei.
 
 Im Modell sind die Treppen vereinfachte, gerade Läufe.
 
-### Schritt 7.120 – scalone_treppe
+### Schritt 7.104 – scalone_treppe
 
 - **Y-Bereich:** 66 bis 101
 - **Blöcke:** 1.731
@@ -2715,16 +2671,20 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 1.550 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 101 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 80 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 91 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 75 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 |
+| Polierter Tuffstein | `polished_tuff` | 5 |
+| Glatter Quarzblock | `smooth_quartz` | 3 |
+| Polierter Granit | `polished_granite` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 181 |
+| Steintreppe | `stone_stairs` | 166 |
 
-### Schritt 7.121 – Treppe zum Cavalcavia und Austritt zum Arno
+### Schritt 7.105 – Treppe zum Cavalcavia und Austritt zum Arno
 
 - **Y-Bereich:** 66 bis 101
 - **Blöcke:** 1.734
@@ -2735,13 +2695,17 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 1.596 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 138 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 120 |
+| Polierter Tuffstein | `polished_tuff` | 9 |
+| Polierter Granit | `polished_granite` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
+| Glatter Quarzblock | `smooth_quartz` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 138 |
+| Steintreppe | `stone_stairs` | 120 |
 
 **Beschreibung**
 
