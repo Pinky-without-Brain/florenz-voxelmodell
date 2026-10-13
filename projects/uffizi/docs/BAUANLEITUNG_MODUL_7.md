@@ -8,57 +8,59 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 206.089 |
-| Bauschritte | 119 |
+| Blöcke | 206.664 |
+| Bauschritte | 121 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -338 bis -87 (252 Blöcke) |
 | Z-Ausdehnung | 901 bis 1209 (309 Blöcke) |
 | Kleinster Schritt | 937 Blöcke (Schritt 7.60) |
-| Mittlerer Schritt | 1.732 Blöcke |
-| Größter Schritt | 2.078 Blöcke (Schritt 7.19) |
+| Mittlerer Schritt | 1.708 Blöcke |
+| Größter Schritt | 2.076 Blöcke (Schritt 7.33) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 107.854 | 52,3 % |
-| Glatter Stein | `smooth_stone` | 97.875 | 47,5 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 90 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 90 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 90 | 0,0 % |
+| Endsteinziegel | `end_stone_bricks` | 105.335 | 51,0 % |
+| Glatter Stein | `smooth_stone` | 100.650 | 48,7 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 228 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 191 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 170 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 90 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 360 |
+| Steintreppe | `stone_stairs` | 679 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `decke_14` | Decke über dem Erdgeschoss | 21.384 | 7.1–7.11 |
-| 2 | `decke_20` | Decke über dem Mezzanin | 27.535 | 7.12–7.25 |
-| 3 | `decke_36` | Decke über dem Piano nobile | 22.007 | 7.26–7.36 |
-| 4 | `decke_traufe` | Traufdecke | 26.049 | 7.37–7.50 |
+| 1 | `decke_14` | Decke über dem Erdgeschoss | 21.196 | 7.1–7.11 |
+| 2 | `decke_20` | Decke über dem Mezzanin | 27.395 | 7.12–7.25 |
+| 3 | `decke_36` | Decke über dem Piano nobile | 21.963 | 7.26–7.36 |
+| 4 | `decke_traufe` | Traufdecke | 26.050 | 7.37–7.50 |
 | 5 | `spinnwand_fluegel` | Längsmittelwand der Flügel | 42.099 | 7.51–7.75 |
-| 6 | `trennwaende` | trennwaende | 65.755 | 7.76–7.118 |
+| 6 | `trennwaende` | trennwaende | 63.236 | 7.76–7.118 |
 | 7 | `treppen` | Vier Treppen in den Flügelenden | 1.260 | 7.119 |
+| 8 | `scalone_treppe` | scalone_treppe | 1.731 | 7.120 |
+| 9 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 1.734 | 7.121 |
 
 ## Bauschritte
 
 ### Schritt 7.1 – Decke über dem Erdgeschoss – Teil 1/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.978
+- **Blöcke:** 1.929
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.978 |
+| Glatter Stein | `smooth_stone` | 1.929 |
 
 **Beschreibung**
 
@@ -79,14 +81,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.2 – Decke über dem Erdgeschoss – Teil 2/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.942
+- **Blöcke:** 1.963
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.942 |
+| Glatter Stein | `smooth_stone` | 1.963 |
 
 **Beschreibung**
 
@@ -107,14 +109,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.3 – Decke über dem Erdgeschoss – Teil 3/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.905
+- **Blöcke:** 1.865
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.905 |
+| Glatter Stein | `smooth_stone` | 1.865 |
 
 **Beschreibung**
 
@@ -135,14 +137,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.4 – Decke über dem Erdgeschoss – Teil 4/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.928
+- **Blöcke:** 1.924
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.928 |
+| Glatter Stein | `smooth_stone` | 1.924 |
 
 **Beschreibung**
 
@@ -163,14 +165,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.5 – Decke über dem Erdgeschoss – Teil 5/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.950
+- **Blöcke:** 1.986
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.950 |
+| Glatter Stein | `smooth_stone` | 1.986 |
 
 **Beschreibung**
 
@@ -191,14 +193,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.6 – Decke über dem Erdgeschoss – Teil 6/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.948
+- **Blöcke:** 1.846
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.948 |
+| Glatter Stein | `smooth_stone` | 1.846 |
 
 **Beschreibung**
 
@@ -331,14 +333,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.11 – Decke über dem Erdgeschoss – Teil 11/11 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.923
+- **Blöcke:** 1.873
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.923 |
+| Glatter Stein | `smooth_stone` | 1.873 |
 
 **Beschreibung**
 
@@ -357,6 +359,34 @@ Die Treppenlöcher müssen offen bleiben. Prüfe sie, bevor du auffüllst.
 Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind möglich.
 
 ### Schritt 7.12 – Decke über dem Mezzanin – Teil 1/14 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.947
+- **Bauteile:** `decke_20`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.947 |
+
+**Beschreibung**
+
+Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
+
+**Tipp**
+
+Gleiche Arbeit wie die Decke darunter.
+
+**Achtung**
+
+Die Fensterrahmen der Fassade enden unter dieser Lage.
+
+**Fakt**
+
+Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
+
+### Schritt 7.13 – Decke über dem Mezzanin – Teil 2/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.978
@@ -384,45 +414,17 @@ Die Fensterrahmen der Fassade enden unter dieser Lage.
 
 Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 
-### Schritt 7.13 – Decke über dem Mezzanin – Teil 2/14 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.948
-- **Bauteile:** `decke_20`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.948 |
-
-**Beschreibung**
-
-Gleiche Platte auf Lage 20 (Y 85), mit denselben Aussparungen, über Mezzanin und Säulenhalle.
-
-**Tipp**
-
-Gleiche Arbeit wie die Decke darunter.
-
-**Achtung**
-
-Die Fensterrahmen der Fassade enden unter dieser Lage.
-
-**Fakt**
-
-Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
-
 ### Schritt 7.14 – Decke über dem Mezzanin – Teil 3/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.924
+- **Blöcke:** 1.929
 - **Bauteile:** `decke_20`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.924 |
+| Glatter Stein | `smooth_stone` | 1.929 |
 
 **Beschreibung**
 
@@ -443,14 +445,14 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 ### Schritt 7.15 – Decke über dem Mezzanin – Teil 4/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.003
+- **Blöcke:** 2.002
 - **Bauteile:** `decke_20`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.003 |
+| Glatter Stein | `smooth_stone` | 2.002 |
 
 **Beschreibung**
 
@@ -471,14 +473,14 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 ### Schritt 7.16 – Decke über dem Mezzanin – Teil 5/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.023
+- **Blöcke:** 1.900
 - **Bauteile:** `decke_20`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.023 |
+| Glatter Stein | `smooth_stone` | 1.900 |
 
 **Beschreibung**
 
@@ -527,14 +529,14 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 ### Schritt 7.18 – Decke über dem Mezzanin – Teil 7/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.861
+- **Blöcke:** 2.035
 - **Bauteile:** `decke_20`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.861 |
+| Glatter Stein | `smooth_stone` | 2.035 |
 
 **Beschreibung**
 
@@ -555,14 +557,14 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 ### Schritt 7.19 – Decke über dem Mezzanin – Teil 8/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.078
+- **Blöcke:** 1.904
 - **Bauteile:** `decke_20`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.078 |
+| Glatter Stein | `smooth_stone` | 1.904 |
 
 **Beschreibung**
 
@@ -723,14 +725,14 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 ### Schritt 7.25 – Decke über dem Mezzanin – Teil 14/14 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.923
+- **Blöcke:** 1.903
 - **Bauteile:** `decke_20`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.923 |
+| Glatter Stein | `smooth_stone` | 1.903 |
 
 **Beschreibung**
 
@@ -751,14 +753,14 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 ### Schritt 7.26 – Decke über dem Piano nobile – Teil 1/11 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.978
+- **Blöcke:** 1.954
 - **Bauteile:** `decke_36`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.978 |
+| Glatter Stein | `smooth_stone` | 1.954 |
 
 **Beschreibung**
 
@@ -835,14 +837,14 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 ### Schritt 7.29 – Decke über dem Piano nobile – Teil 4/11 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.973
+- **Blöcke:** 2.056
 - **Bauteile:** `decke_36`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.973 |
+| Glatter Stein | `smooth_stone` | 2.056 |
 
 **Beschreibung**
 
@@ -863,14 +865,14 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 ### Schritt 7.30 – Decke über dem Piano nobile – Teil 5/11 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.006
+- **Blöcke:** 1.923
 - **Bauteile:** `decke_36`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.006 |
+| Glatter Stein | `smooth_stone` | 1.923 |
 
 **Beschreibung**
 
@@ -1031,14 +1033,14 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 ### Schritt 7.36 – Decke über dem Piano nobile – Teil 11/11 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
-- **Blöcke:** 2.045
+- **Blöcke:** 2.025
 - **Bauteile:** `decke_36`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.045 |
+| Glatter Stein | `smooth_stone` | 2.025 |
 
 **Beschreibung**
 
@@ -1143,14 +1145,14 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.40 – Traufdecke – Teil 4/14 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.749
+- **Blöcke:** 1.752
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.749 |
+| Glatter Stein | `smooth_stone` | 1.752 |
 
 **Beschreibung**
 
@@ -1171,14 +1173,14 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.41 – Traufdecke – Teil 5/14 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.681
+- **Blöcke:** 1.679
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.681 |
+| Glatter Stein | `smooth_stone` | 1.679 |
 
 **Beschreibung**
 
@@ -2151,518 +2153,518 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 ### Schritt 7.76 – trennwaende – Teil 1/43 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.77 – trennwaende – Teil 2/43 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.78 – trennwaende – Teil 3/43 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.79 – trennwaende – Teil 4/43 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.80 – trennwaende – Teil 5/43 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.81 – trennwaende – Teil 6/43 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.82 – trennwaende – Teil 7/43 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.83 – trennwaende – Teil 8/43 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.84 – trennwaende – Teil 9/43 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.430
+- **Blöcke:** 1.376
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.430 |
+| Endsteinziegel | `end_stone_bricks` | 1.376 |
 
 ### Schritt 7.85 – trennwaende – Teil 10/43 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.434
+- **Blöcke:** 1.380
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.434 |
+| Endsteinziegel | `end_stone_bricks` | 1.380 |
 
 ### Schritt 7.86 – trennwaende – Teil 11/43 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.434
+- **Blöcke:** 1.380
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.434 |
+| Endsteinziegel | `end_stone_bricks` | 1.380 |
 
 ### Schritt 7.87 – trennwaende – Teil 12/43 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.434
+- **Blöcke:** 1.380
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.434 |
+| Endsteinziegel | `end_stone_bricks` | 1.380 |
 
 ### Schritt 7.88 – trennwaende – Teil 13/43 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.434
+- **Blöcke:** 1.380
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.434 |
+| Endsteinziegel | `end_stone_bricks` | 1.380 |
 
 ### Schritt 7.89 – trennwaende – Teil 14/43 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.90 – trennwaende – Teil 15/43 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.91 – trennwaende – Teil 16/43 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.92 – trennwaende – Teil 17/43 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.93 – trennwaende – Teil 18/43 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.94 – trennwaende – Teil 19/43 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.95 – trennwaende – Teil 20/43 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.615
+- **Blöcke:** 1.564
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.615 |
+| Endsteinziegel | `end_stone_bricks` | 1.564 |
 
 ### Schritt 7.96 – trennwaende – Teil 21/43 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.615
+- **Blöcke:** 1.564
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.615 |
+| Endsteinziegel | `end_stone_bricks` | 1.564 |
 
 ### Schritt 7.97 – trennwaende – Teil 22/43 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.615
+- **Blöcke:** 1.564
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.615 |
+| Endsteinziegel | `end_stone_bricks` | 1.564 |
 
 ### Schritt 7.98 – trennwaende – Teil 23/43 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.615
+- **Blöcke:** 1.564
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.615 |
+| Endsteinziegel | `end_stone_bricks` | 1.564 |
 
 ### Schritt 7.99 – trennwaende – Teil 24/43 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.615
+- **Blöcke:** 1.564
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.615 |
+| Endsteinziegel | `end_stone_bricks` | 1.564 |
 
 ### Schritt 7.100 – trennwaende – Teil 25/43 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.101 – trennwaende – Teil 26/43 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.612
+- **Blöcke:** 1.561
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.612 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
 
 ### Schritt 7.102 – trennwaende – Teil 27/43 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.103 – trennwaende – Teil 28/43 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.104 – trennwaende – Teil 29/43 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.105 – trennwaende – Teil 30/43 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.106 – trennwaende – Teil 31/43 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.107 – trennwaende – Teil 32/43 (Y 99–99)
 
 - **Y-Bereich:** 99 bis 99
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.108 – trennwaende – Teil 33/43 (Y 100–100)
 
 - **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.868
+- **Blöcke:** 1.814
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.868 |
+| Endsteinziegel | `end_stone_bricks` | 1.814 |
 
 ### Schritt 7.109 – trennwaende – Teil 34/43 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.193
+- **Blöcke:** 1.138
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.193 |
+| Endsteinziegel | `end_stone_bricks` | 1.138 |
 
 ### Schritt 7.110 – trennwaende – Teil 35/43 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.196
+- **Blöcke:** 1.141
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.196 |
+| Endsteinziegel | `end_stone_bricks` | 1.141 |
 
 ### Schritt 7.111 – trennwaende – Teil 36/43 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
-- **Blöcke:** 1.196
+- **Blöcke:** 1.141
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.196 |
+| Endsteinziegel | `end_stone_bricks` | 1.141 |
 
 ### Schritt 7.112 – trennwaende – Teil 37/43 (Y 105–105)
 
 - **Y-Bereich:** 105 bis 105
-- **Blöcke:** 1.196
+- **Blöcke:** 1.141
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.196 |
+| Endsteinziegel | `end_stone_bricks` | 1.141 |
 
 ### Schritt 7.113 – trennwaende – Teil 38/43 (Y 106–106)
 
 - **Y-Bereich:** 106 bis 106
-- **Blöcke:** 1.196
+- **Blöcke:** 1.141
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.196 |
+| Endsteinziegel | `end_stone_bricks` | 1.141 |
 
 ### Schritt 7.114 – trennwaende – Teil 39/43 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
-- **Blöcke:** 1.196
+- **Blöcke:** 1.141
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.196 |
+| Endsteinziegel | `end_stone_bricks` | 1.141 |
 
 ### Schritt 7.115 – trennwaende – Teil 40/43 (Y 108–109)
 
 - **Y-Bereich:** 108 bis 109
-- **Blöcke:** 1.966
+- **Blöcke:** 1.855
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.966 |
+| Endsteinziegel | `end_stone_bricks` | 1.855 |
 
 ### Schritt 7.116 – trennwaende – Teil 41/43 (Y 110–111)
 
 - **Y-Bereich:** 110 bis 111
-- **Blöcke:** 1.881
+- **Blöcke:** 1.773
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.881 |
+| Endsteinziegel | `end_stone_bricks` | 1.773 |
 
 ### Schritt 7.117 – trennwaende – Teil 42/43 (Y 112–113)
 
 - **Y-Bereich:** 112 bis 113
-- **Blöcke:** 1.864
+- **Blöcke:** 1.756
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.864 |
+| Endsteinziegel | `end_stone_bricks` | 1.756 |
 
 ### Schritt 7.118 – trennwaende – Teil 43/43 (Y 114–115)
 
 - **Y-Bereich:** 114 bis 115
-- **Blöcke:** 1.858
+- **Blöcke:** 1.750
 - **Bauteile:** `trennwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.858 |
+| Endsteinziegel | `end_stone_bricks` | 1.750 |
 
 ### Schritt 7.119 – Vier Treppen in den Flügelenden
 
@@ -2701,3 +2703,58 @@ Die Decken lassen die Löcher über der Treppe frei.
 **Fakt**
 
 Im Modell sind die Treppen vereinfachte, gerade Läufe.
+
+### Schritt 7.120 – scalone_treppe
+
+- **Y-Bereich:** 66 bis 101
+- **Blöcke:** 1.731
+- **Bauteile:** `scalone_treppe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.550 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 101 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 80 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 181 |
+
+### Schritt 7.121 – Treppe zum Cavalcavia und Austritt zum Arno
+
+- **Y-Bereich:** 66 bis 101
+- **Blöcke:** 1.734
+- **Bauteile:** `korridor_treppe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 1.596 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 138 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 138 |
+
+**Beschreibung**
+
+In der Südwestspitze der Uffizien führt eine Treppe, 7 Blöcke breit, mit 23 Stufen von Y 101 hinunter bis Y 78, dem Boden des Korridors am Arno. Seitenwände rahmen sie, unten schließt ein Podest an. Von dort führt eine Tür, 7 breit, in die Südwestwand zum Lungarno-Korridor.
+
+**Tipp**
+
+Zähle die Stufen: 23 Stufen für 23 Blöcke Höhe.
+
+**Achtung**
+
+Die Treppe liegt in den Uffizien, der Korridor draußen gehört zu Modul 8.
+
+**Fakt**
+
+Der Korridor überwand hier den Höhenunterschied zwischen Uffizien und Lungarno. Die Lage der Treppe ist im Modell eine Annahme.

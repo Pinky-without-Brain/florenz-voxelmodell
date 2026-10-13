@@ -55,6 +55,7 @@ module.exports = function innen(P) {
       const pl = planeOf(ww[i]);
       if (pl < 0) continue;
       if (rhoO[i] <= aO + 3.5) continue;
+      if (zone[i] === ZONE_E && ww[i] < 62 && uu[i] >= 50) continue;          // Halle des Scalone del Vasari bleibt ungeteilt
       const zn = zone[i];
       if (zn === P.ZONE_S) continue;
       let ok;

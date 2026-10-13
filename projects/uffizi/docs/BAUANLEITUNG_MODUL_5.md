@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 186.476 |
+| Blöcke | 186.477 |
 | Bauschritte | 105 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -346 bis -80 (267 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 136.952 | 73,4 % |
+| Endsteinziegel | `end_stone_bricks` | 136.953 | 73,4 % |
 | Polierter Andesit | `polished_andesite` | 32.512 | 17,4 % |
 | Glatter Stein | `smooth_stone` | 11.206 | 6,0 % |
 | Graues Buntglas | `gray_stained_glass` | 5.806 | 3,1 % |
@@ -31,7 +31,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `rueckseiten_sockel` | Sockel der Rückseiten | 32.512 | 5.1–5.16 |
-| 2 | `rueckseiten_wand` | Wand der Rückseiten mit Fenstern und Eckquadern | 134.831 | 5.17–5.94 |
+| 2 | `rueckseiten_wand` | Wand der Rückseiten mit Fenstern und Eckquadern | 134.832 | 5.17–5.94 |
 | 3 | `rueckseiten_gesims` | Gesims der Rückseiten | 1.185 | 5.95 |
 | 4 | `loggia_anschluss` | Anschluss an die Loggia dei Lanzi | 5.304 | 5.96–5.98 |
 | 5 | `ostnord_front` | Nordfront des Ostflügels mit Korridoröffnung | 12.644 | 5.99–5.105 |
@@ -847,14 +847,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.29 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 13/78 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 2.020
+- **Blöcke:** 2.021
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.678 |
+| Endsteinziegel | `end_stone_bricks` | 1.679 |
 | Glatter Stein | `smooth_stone` | 342 |
 
 **Beschreibung**
