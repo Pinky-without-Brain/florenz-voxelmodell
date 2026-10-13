@@ -8,22 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 4.294 |
+| Blöcke | 4.451 |
 | Bauschritte | 4 |
 | Y-Bereich | 92 bis 100 |
 | X-Ausdehnung | -244 bis -164 (81 Blöcke) |
 | Z-Ausdehnung | 852 bis 900 (49 Blöcke) |
-| Kleinster Schritt | 506 Blöcke (Schritt 5.4) |
-| Mittlerer Schritt | 1.074 Blöcke |
-| Größter Schritt | 1.642 Blöcke (Schritt 5.2) |
+| Kleinster Schritt | 567 Blöcke (Schritt 5.1) |
+| Mittlerer Schritt | 1.113 Blöcke |
+| Größter Schritt | 1.631 Blöcke (Schritt 5.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein | `smooth_stone` | 3.158 | 73,5 % |
-| Polierter Andesit | `polished_andesite` | 615 | 14,3 % |
-| Glatter Quarzblock | `smooth_quartz` | 458 | 10,7 % |
+| Glatter Stein | `smooth_stone` | 3.136 | 70,5 % |
+| Polierter Andesit | `polished_andesite` | 633 | 14,2 % |
+| Glatter Quarzblock | `smooth_quartz` | 570 | 12,8 % |
+| Terrakotta | `terracotta` | 49 | 1,1 % |
 | Blaue Keramik | `blue_terracotta` | 32 | 0,7 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 27 | 0,6 % |
 | Goldblock | `gold_block` | 4 | 0,1 % |
@@ -34,9 +35,9 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fries` | Fries | 567 | 5.1 |
 | 2 | `medaillons` | Vier Medaillons | 63 | 5.2 |
-| 3 | `terrasse` | Dachterrasse | 3.158 | 5.2–5.3 |
-| 4 | `brustung` | Brüstung | 458 | 5.4 |
-| 5 | `dachaustritt` | Aufbauhaube | 48 | 5.4 |
+| 3 | `terrasse` | Dachterrasse | 3.136 | 5.2–5.3 |
+| 4 | `dachaustritt` | Aufbauhaube | 115 | 5.4 |
+| 5 | `brustung` | Brüstung | 570 | 5.4 |
 
 ## Bauschritte
 
@@ -71,14 +72,14 @@ Unter der Brüstung zeigt der Fries vier Medaillons mit den Kardinaltugenden von
 ### Schritt 5.2 – Vier Medaillons & Dachterrasse – Teil 1/2 (Y 95–95)
 
 - **Y-Bereich:** 92 bis 95
-- **Blöcke:** 1.642
+- **Blöcke:** 1.631
 - **Bauteile:** `medaillons`, `terrasse`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.579 |
+| Glatter Stein | `smooth_stone` | 1.568 |
 | Blaue Keramik | `blue_terracotta` | 32 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 27 |
 | Goldblock | `gold_block` | 4 |
@@ -102,14 +103,14 @@ Dargestellt sind die vier Kardinaltugenden: Klugheit, Gerechtigkeit, Tapferkeit 
 ### Schritt 5.3 – Dachterrasse – Teil 2/2 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.579
+- **Blöcke:** 1.568
 - **Bauteile:** `terrasse`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.579 |
+| Glatter Stein | `smooth_stone` | 1.568 |
 
 **Beschreibung**
 
@@ -127,31 +128,32 @@ Die Wände reichen schon bis Y 96; setze die Platte nur in die freien Zellen.
 
 Die Terrasse auf dem Dach ließ Bernardo Buontalenti 1583 anlegen.
 
-### Schritt 5.4 – Brüstung & Aufbauhaube
+### Schritt 5.4 – Aufbauhaube & Brüstung
 
 - **Y-Bereich:** 97 bis 100
-- **Blöcke:** 506
-- **Bauteile:** `brustung`, `dachaustritt`
+- **Blöcke:** 685
+- **Bauteile:** `dachaustritt`, `brustung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 458 |
-| Polierter Andesit | `polished_andesite` | 48 |
+| Glatter Quarzblock | `smooth_quartz` | 570 |
+| Polierter Andesit | `polished_andesite` | 66 |
+| Terrakotta | `terracotta` | 49 |
 
 **Beschreibung**
 
-Entlang der Außenkante setzt du die Brüstung aus weißem Marmor: zwei Lagen mit Balusterlücken, darüber ein durchgehender Handlauf (Y 97 bis 99, 458 Blöcke, X −244 bis −164, Z 852 bis 900). An der Rückseite im Osten, vor den Uffizien, entfällt sie. Optional setzt du auf der Terrasse eine kleine Haube als Zugang zum Dach: vier Blöcke breit, drei tief, vier hoch (48 Blöcke, X −209 bis −205, Y 97 bis 100, Z 883 bis 886).
+Optional setzt du auf der Terrasse eine kleine Haube als Zugang zum Dach: vier Blöcke breit, drei tief, vier hoch (48 Blöcke, X −209 bis −205, Y 97 bis 100, Z 883 bis 886). Entlang der Außenkante setzt du die Brüstung aus weißem Marmor: zwei Lagen mit Balusterlücken, darüber ein durchgehender Handlauf (Y 97 bis 99, 458 Blöcke, X −244 bis −164, Z 852 bis 900). An der Rückseite im Osten, vor den Uffizien, entfällt sie.
 
 **Tipp**
 
-Lass in den beiden unteren Lagen jede zweite Zelle frei und schließe oben mit dem Handlauf. Sie sitzt nahe der Rückwand, etwa in der Mitte der Halle.
+Sie sitzt nahe der Rückwand, etwa in der Mitte der Halle. Lass in den beiden unteren Lagen jede zweite Zelle frei und schließe oben mit dem Handlauf.
 
 **Achtung**
 
-Die Oberkante liegt auf Y 99. Die Haube hat nur ein Dach; im Modell gibt es keine Treppe darin.
+Die Haube hat nur ein Dach; im Modell gibt es keine Treppe darin. Die Oberkante liegt auf Y 99.
 
 **Fakt**
 
-Die Brüstung gibt dem Dach der Loggia die Form einer Terrasse über der Piazza. Solche Aufbauten führen von innen auf eine begehbare Dachterrasse.
+Solche Aufbauten führen von innen auf eine begehbare Dachterrasse. Die Brüstung gibt dem Dach der Loggia die Form einer Terrasse über der Piazza.

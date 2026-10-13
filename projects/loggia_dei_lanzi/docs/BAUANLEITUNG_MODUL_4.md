@@ -8,44 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.909 |
-| Bauschritte | 3 |
-| Y-Bereich | 78 bis 90 |
+| Blöcke | 8.981 |
+| Bauschritte | 7 |
+| Y-Bereich | 78 bis 94 |
 | X-Ausdehnung | -241 bis -167 (75 Blöcke) |
 | Z-Ausdehnung | 855 bis 898 (44 Blöcke) |
-| Kleinster Schritt | 946 Blöcke (Schritt 4.1) |
-| Mittlerer Schritt | 970 Blöcke |
-| Größter Schritt | 1.011 Blöcke (Schritt 4.3) |
+| Kleinster Schritt | 928 Blöcke (Schritt 4.2) |
+| Mittlerer Schritt | 1.283 Blöcke |
+| Größter Schritt | 2.094 Blöcke (Schritt 4.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein | `smooth_stone` | 2.841 | 97,7 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 68 | 2,3 % |
+| Tuffstein | `tuff` | 6.094 | 67,9 % |
+| Glatter Stein | `smooth_stone` | 2.813 | 31,3 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 68 | 0,8 % |
+| Seelaterne | `sea_lantern` | 6 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `kreuzgewoelbe_west` | Kreuzgewölbe West | 946 | 4.1 |
-| 2 | `kreuzgewoelbe_mitte` | Kreuzgewölbe Mitte | 952 | 4.2 |
-| 3 | `kreuzgewoelbe_ost` | Kreuzgewölbe Ost | 943 | 4.3 |
-| 4 | `konsolen_peducci` | Konsolsteine | 68 | 4.3 |
+| 1 | `kreuzgewoelbe_west` | Kreuzgewölbe West | 944 | 4.1 |
+| 2 | `kreuzgewoelbe_mitte` | Kreuzgewölbe Mitte | 928 | 4.2 |
+| 3 | `kreuzgewoelbe_ost` | Kreuzgewölbe Ost | 941 | 4.3 |
+| 4 | `konsolen_peducci` | Konsolsteine | 68 | 4.4 |
+| 5 | `gewoelbe_laternen` | gewoelbe_laternen | 6 | 4.4 |
+| 6 | `gewoelbe_hinterfuellung` | gewoelbe_hinterfuellung | 6.094 | 4.4–4.7 |
 
 ## Bauschritte
 
 ### Schritt 4.1 – Kreuzgewölbe West
 
 - **Y-Bereich:** 81 bis 90
-- **Blöcke:** 946
+- **Blöcke:** 944
 - **Bauteile:** `kreuzgewoelbe_west`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 946 |
+| Glatter Stein | `smooth_stone` | 944 |
 
 **Beschreibung**
 
@@ -66,14 +70,14 @@ Das Kreuzgewölbe entsteht, wenn sich zwei Tonnengewölbe rechtwinklig kreuzen. 
 ### Schritt 4.2 – Kreuzgewölbe Mitte
 
 - **Y-Bereich:** 81 bis 90
-- **Blöcke:** 952
+- **Blöcke:** 928
 - **Bauteile:** `kreuzgewoelbe_mitte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 952 |
+| Glatter Stein | `smooth_stone` | 928 |
 
 **Beschreibung**
 
@@ -91,31 +95,96 @@ Die Zellen des Gurtrings aus Modul 3 sind belegt, lass sie aus.
 
 Drei gleiche Joche reihen sich zu einer Halle, die ohne Stützen im Raum auskommt.
 
-### Schritt 4.3 – Kreuzgewölbe Ost & Konsolsteine
+### Schritt 4.3 – Kreuzgewölbe Ost
 
-- **Y-Bereich:** 78 bis 90
-- **Blöcke:** 1.011
-- **Bauteile:** `kreuzgewoelbe_ost`, `konsolen_peducci`
+- **Y-Bereich:** 81 bis 90
+- **Blöcke:** 941
+- **Bauteile:** `kreuzgewoelbe_ost`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 943 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 68 |
+| Glatter Stein | `smooth_stone` | 941 |
 
 **Beschreibung**
 
-Das östliche Joch schließt die Halle zur Ostwand und zum Seitenbogen ab (943 Blöcke, X −195 bis −167, Y 81 bis 90, Z 873 bis 898). Hier steht der Perseus im Durchblick. An den Rückwandpilastern setzt du acht kleine Konsolsteine aus gemeißeltem Quarz, je zwei mal zwei Blöcke, auf Y 78 bis 79 (68 Blöcke). Sie nehmen die Gewölbe an den Ansätzen auf.
+Das östliche Joch schließt die Halle zur Ostwand und zum Seitenbogen ab (943 Blöcke, X −195 bis −167, Y 81 bis 90, Z 873 bis 898). Hier steht der Perseus im Durchblick.
 
 **Tipp**
 
-Das Gewölbe endet an der Ostwand; die Öffnung des Seitenbogens liegt dahinter. Die Konsolen sitzen zwei Lagen unter dem Gewölbeansatz, direkt an der Rückwand.
+Das Gewölbe endet an der Ostwand; die Öffnung des Seitenbogens liegt dahinter.
 
 **Achtung**
 
-Der Seitenbogen ist niedriger als die Frontbögen; prüfe die Höhe an der Schnittkante. Am Ostende ist der äußere Ansatz zur Halle hin versetzt, weil der Seitenbogen die Zellen belegt.
+Der Seitenbogen ist niedriger als die Frontbögen; prüfe die Höhe an der Schnittkante.
 
 **Fakt**
 
-Die Gewölbe steigen neun Blöcke über dem Kämpfer an, das sind im Modell viereinhalb Meter. Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen.
+Die Gewölbe steigen neun Blöcke über dem Kämpfer an, das sind im Modell viereinhalb Meter.
+
+### Schritt 4.4 – Konsolsteine & gewoelbe_laternen & gewoelbe_hinterfuellung – Teil 1/4 (Y 86–91)
+
+- **Y-Bereich:** 78 bis 91
+- **Blöcke:** 2.094
+- **Bauteile:** `konsolen_peducci`, `gewoelbe_laternen`, `gewoelbe_hinterfuellung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.020 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 68 |
+| Seelaterne | `sea_lantern` | 6 |
+
+**Beschreibung**
+
+An den Rückwandpilastern setzt du acht kleine Konsolsteine aus gemeißeltem Quarz, je zwei mal zwei Blöcke, auf Y 78 bis 79 (68 Blöcke). Sie nehmen die Gewölbe an den Ansätzen auf.
+
+**Tipp**
+
+Die Konsolen sitzen zwei Lagen unter dem Gewölbeansatz, direkt an der Rückwand.
+
+**Achtung**
+
+Am Ostende ist der äußere Ansatz zur Halle hin versetzt, weil der Seitenbogen die Zellen belegt.
+
+**Fakt**
+
+Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen.
+
+### Schritt 4.5 – gewoelbe_hinterfuellung – Teil 2/4 (Y 92–92)
+
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.358
+- **Bauteile:** `gewoelbe_hinterfuellung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.358 |
+
+### Schritt 4.6 – gewoelbe_hinterfuellung – Teil 3/4 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 1.358
+- **Bauteile:** `gewoelbe_hinterfuellung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.358 |
+
+### Schritt 4.7 – gewoelbe_hinterfuellung – Teil 4/4 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.358
+- **Bauteile:** `gewoelbe_hinterfuellung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.358 |

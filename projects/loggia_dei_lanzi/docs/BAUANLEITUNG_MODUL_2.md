@@ -8,47 +8,84 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 13.905 |
-| Bauschritte | 10 |
+| Blöcke | 13.618 |
+| Bauschritte | 11 |
 | Y-Bereich | 68 bis 96 |
 | X-Ausdehnung | -244 bis -164 (81 Blöcke) |
 | Z-Ausdehnung | 852 bis 902 (51 Blöcke) |
-| Kleinster Schritt | 339 Blöcke (Schritt 2.9) |
-| Mittlerer Schritt | 1.391 Blöcke |
-| Größter Schritt | 1.975 Blöcke (Schritt 2.3) |
+| Kleinster Schritt | 339 Blöcke (Schritt 2.10) |
+| Mittlerer Schritt | 1.238 Blöcke |
+| Größter Schritt | 1.785 Blöcke (Schritt 2.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 12.969 | 93,3 % |
-| Glatter Stein | `smooth_stone` | 936 | 6,7 % |
+| Polierter Andesit | `polished_andesite` | 12.633 | 92,8 % |
+| Glatter Stein | `smooth_stone` | 923 | 6,8 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 16 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 | 0,1 % |
+| Seelaterne | `sea_lantern` | 4 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 58 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `sockel_waende` | Sockel der Rück- und Westwand | 858 | 2.1 |
-| 2 | `seitenwand_pfeilerverbindung` | Schwelle des Seitenbogens | 78 | 2.2 |
-| 3 | `rueckwand` | Rückwand | 10.627 | 2.2–2.7 |
-| 4 | `wand_west` | Westwand | 1.030 | 2.8 |
-| 5 | `wand_ost` | Ostwand mit Seitenbogen | 339 | 2.9 |
-| 6 | `seitenwand_ecken` | Eckfüllung über den Eckpfeilern | 236 | 2.10 |
-| 7 | `frontwand_ueber_bogen` | Frontwand über den Bögen | 737 | 2.10 |
+| 1 | `turm_treppe` | turm_treppe | 199 | 2.1 |
+| 2 | `turm_laternen` | turm_laternen | 4 | 2.1 |
+| 3 | `turm_huelle` | turm_huelle | 690 | 2.1 |
+| 4 | `sockel_waende` | Sockel der Rück- und Westwand | 782 | 2.2 |
+| 5 | `rueckwand` | Rückwand | 9.601 | 2.3–2.8 |
+| 6 | `wand_west` | Westwand | 1.030 | 2.9 |
+| 7 | `wand_ost` | Ostwand mit Seitenbogen | 339 | 2.10 |
+| 8 | `seitenwand_ecken` | Eckfüllung über den Eckpfeilern | 236 | 2.11 |
+| 9 | `frontwand_ueber_bogen` | Frontwand über den Bögen | 737 | 2.11 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Sockel der Rück- und Westwand
+### Schritt 2.1 – turm_treppe & turm_laternen & turm_huelle
+
+- **Y-Bereich:** 68 bis 96
+- **Blöcke:** 893
+- **Bauteile:** `turm_treppe`, `turm_laternen`, `turm_huelle`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 690 |
+| Glatter Stein | `smooth_stone` | 141 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 16 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 |
+| Seelaterne | `sea_lantern` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 58 |
+
+### Schritt 2.2 – Sockel der Rück- und Westwand
 
 - **Y-Bereich:** 68 bis 69
-- **Blöcke:** 858
+- **Blöcke:** 782
 - **Bauteile:** `sockel_waende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 858 |
+| Glatter Stein | `smooth_stone` | 782 |
 
 **Beschreibung**
 
@@ -66,46 +103,45 @@ Die Pilaster stehen schon; lass ihre Zellen aus.
 
 Im Westen ist die Rückwand dicker: Dort ist der Grundriss gegenüber dem Ostteil um drei Blöcke tiefer.
 
-### Schritt 2.2 – Schwelle des Seitenbogens & Rückwand – Teil 1/6 (Y 70–73)
+### Schritt 2.3 – Rückwand – Teil 1/6 (Y 70–73)
 
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.658
-- **Bauteile:** `seitenwand_pfeilerverbindung`, `rueckwand`
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.428
+- **Bauteile:** `rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.580 |
-| Glatter Stein | `smooth_stone` | 78 |
+| Polierter Andesit | `polished_andesite` | 1.428 |
 
 **Beschreibung**
 
-Am Fuß der Ostseite legst du eine Schwelle aus Pietra serena, zwei Lagen hoch und drei Blöcke dick, über die Breite des Seitenbogens (X −172 bis −166, Y 68 bis 69, Z 885 bis 896, 78 Blöcke). Du mauerst die Rückwand aus Pietra forte von Y 70 bis 96 (27 Lagen): im Ostteil drei, im Westteil sechs Blöcke dick, zusammen 10.627 Blöcke (X −244 bis −171, Z 872 bis 902). Das ist der mächtigste Baukörper der Loggia; im Osten grenzen die Uffizien an sie.
+Du mauerst die Rückwand aus Pietra forte von Y 70 bis 96 (27 Lagen): im Ostteil drei, im Westteil sechs Blöcke dick, zusammen 10.627 Blöcke (X −244 bis −171, Z 872 bis 902). Das ist der mächtigste Baukörper der Loggia; im Osten grenzen die Uffizien an sie.
 
 **Tipp**
 
-Sie schließt an die Sockel der Ecke und der Rückwand an. Baue Lage für Lage und halte die Linie der Wand an der schrägen Grundrisskante.
+Baue Lage für Lage und halte die Linie der Wand an der schrägen Grundrisskante.
 
 **Achtung**
 
-Oberhalb der Schwelle bleibt die Bogenöffnung später frei. Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem nächsten Modul.
+Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem nächsten Modul.
 
 **Fakt**
 
-Der Seitenbogen an der Ostseite öffnet die Halle auf den Durchgang zwischen Loggia und Palazzo Vecchio. Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
+Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
 
-### Schritt 2.3 – Rückwand – Teil 2/6 (Y 74–78)
+### Schritt 2.4 – Rückwand – Teil 2/6 (Y 74–78)
 
 - **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.975
+- **Blöcke:** 1.785
 - **Bauteile:** `rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.975 |
+| Polierter Andesit | `polished_andesite` | 1.785 |
 
 **Beschreibung**
 
@@ -123,17 +159,17 @@ Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem näc
 
 Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
 
-### Schritt 2.4 – Rückwand – Teil 3/6 (Y 79–83)
+### Schritt 2.5 – Rückwand – Teil 3/6 (Y 79–83)
 
 - **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.951
+- **Blöcke:** 1.761
 - **Bauteile:** `rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.951 |
+| Polierter Andesit | `polished_andesite` | 1.761 |
 
 **Beschreibung**
 
@@ -151,17 +187,17 @@ Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem näc
 
 Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
 
-### Schritt 2.5 – Rückwand – Teil 4/6 (Y 84–87)
+### Schritt 2.6 – Rückwand – Teil 4/6 (Y 84–87)
 
 - **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.566
+- **Blöcke:** 1.414
 - **Bauteile:** `rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.566 |
+| Polierter Andesit | `polished_andesite` | 1.414 |
 
 **Beschreibung**
 
@@ -179,17 +215,17 @@ Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem näc
 
 Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
 
-### Schritt 2.6 – Rückwand – Teil 5/6 (Y 88–92)
+### Schritt 2.7 – Rückwand – Teil 5/6 (Y 88–92)
 
 - **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.975
+- **Blöcke:** 1.785
 - **Bauteile:** `rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.975 |
+| Polierter Andesit | `polished_andesite` | 1.785 |
 
 **Beschreibung**
 
@@ -207,17 +243,17 @@ Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem näc
 
 Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
 
-### Schritt 2.7 – Rückwand – Teil 6/6 (Y 93–96)
+### Schritt 2.8 – Rückwand – Teil 6/6 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
-- **Blöcke:** 1.580
+- **Blöcke:** 1.428
 - **Bauteile:** `rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.580 |
+| Polierter Andesit | `polished_andesite` | 1.428 |
 
 **Beschreibung**
 
@@ -235,7 +271,7 @@ Am Ostende lässt du die Zellen des Seitenbogen-Rings aus, sie gehören dem näc
 
 Im Osten grenzt die Rückwand an die Uffizien. Deren Nordwand liegt Zelle an Zelle dahinter, so entsteht eine Doppelwand.
 
-### Schritt 2.8 – Westwand
+### Schritt 2.9 – Westwand
 
 - **Y-Bereich:** 70 bis 96
 - **Blöcke:** 1.030
@@ -263,7 +299,7 @@ Es gibt keine Öffnung in der Westwand; nur an der Ostseite liegt ein Bogen.
 
 In den gelesenen Quellen ist an der Westseite kein Bogen belegt; deshalb ist sie hier geschlossen.
 
-### Schritt 2.9 – Ostwand mit Seitenbogen
+### Schritt 2.10 – Ostwand mit Seitenbogen
 
 - **Y-Bereich:** 88 bis 96
 - **Blöcke:** 339
@@ -291,7 +327,7 @@ Der Ring um die Öffnung (Archivolte) bleibt frei, er kommt im nächsten Modul.
 
 Der Seitenbogen an der Ostseite ist der einzige Bogen außerhalb der drei Frontbögen.
 
-### Schritt 2.10 – Eckfüllung über den Eckpfeilern & Frontwand über den Bögen
+### Schritt 2.11 – Eckfüllung über den Eckpfeilern & Frontwand über den Bögen
 
 - **Y-Bereich:** 81 bis 96
 - **Blöcke:** 973

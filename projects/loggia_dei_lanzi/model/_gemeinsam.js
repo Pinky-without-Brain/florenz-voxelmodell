@@ -238,3 +238,27 @@ module.exports.SOCKEL = SOCKEL;
 module.exports.RUECKWAND_SOCKEL_U = RUECKWAND_SOCKEL_U;
 module.exports.LOEWEN = LOEWEN;
 module.exports.zentriert = zentriert;
+
+// ---------------------------------------------------------------- Begehbarkeit (B3)
+module.exports.belegung = require('./_belegung.js').belegung;
+
+/** Ist (x, z) eine Zelle der Maske? */
+const inMaske = (x, z) => !!zelleAn(x, z);
+const randZelle = (c) => !inMaske(c.x + 1, c.z) || !inMaske(c.x - 1, c.z) || !inMaske(c.x, c.z + 1) || !inMaske(c.x, c.z - 1);
+
+/** Stufen an der Front: Randzellen (Außennachbar in der Maske fehlt) der beiden vordersten Reihen unter den Bögen. Lage 0. */
+const stufeFront = (c) => c.rw <= 1 && bogenIndex(c.iu) >= 0 && randZelle(c);
+/** Stufen am Seitenbogen Ost: Randzellen u 36..38 im Öffnungsbereich w 6..21. Lage 0. */
+const stufeOst = (c) => c.iu >= 36 && c.rw >= SEITENBOGEN.w0 && c.rw <= SEITENBOGEN.w1 && randZelle(c);
+module.exports.randZelle = randZelle;
+module.exports.stufeFront = stufeFront;
+module.exports.stufeOst = stufeOst;
+module.exports.inMaske = inMaske;
+// Aufstiegsrichtung der Stufen in Weltachsen: Front lokal +w, Ost lokal -u
+module.exports.RICHTUNG_FRONT = WZ.treppe.weltRichtung('s', RAHMEN);
+module.exports.RICHTUNG_OST = WZ.treppe.weltRichtung('w', RAHMEN);
+module.exports.PAL = require('../../../tools/spec/palette.js');
+const OBEN = new WeakMap();
+/** Höchste Gewölbelage je Säule ("x,z"), von Modul 4 gesetzt. */
+module.exports.setGewoelbeOben = (ctx, m) => OBEN.set(ctx.grid, m);
+module.exports.gewoelbeOben = (ctx) => OBEN.get(ctx.grid) || new Map();
