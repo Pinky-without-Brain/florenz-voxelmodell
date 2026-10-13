@@ -2,6 +2,7 @@
 // Modul 6: Innenhöfe (Katalog §7): vier Bänder um die Löcher des Polygons. d_H = Chebyshev-Abstand zum Loch (Randzelle = 1).
 // Lage entlang der Lochkante und Bogenfelder werden aus den Polygonkanten des Lochs berechnet.
 const pv = require('./pv_lib.js');
+const raeume = require('./pv_raeume.js');
 
 module.exports = {
   module: 6,
@@ -20,6 +21,13 @@ module.exports = {
       return { ecke: false, T, t: q.t, j, c, du: q.t - c, pd: Math.min(q.t - j * T, (j + 1) * T - q.t) };
     };
 
+    // Grotesken (Vasari, vereinfacht): Rankenfelder in Fresko-Farben mit goldenen Rauten
+    const FARBEN = ['rot', 'gruen', 'gelb', 'blau', 'weiss', 'orange'];
+    const grotesk = (t, y) => {
+      if (Math.floor(t) % 4 === 0 && y % 4 === 1) return TY.gold;
+      return raeume.F(FARBEN[Math.floor(raeume.hash(Math.floor(t / 2), Math.floor(y / 2), 5) * FARBEN.length)]);
+    };
+
     // Arkade (EG, y_rel 1..16) um ein Loch. cfg: spacing, colHalf, wand (Schichten der Arkadenwand), gang (letzte Gangschicht),
     // rueck (letzte Rückwandschicht), pfeilerTyp (null = Säule mit Kapitell), tuer (Türen in der Rückwand)
     const arkade = (i, cfg) => (r, y) => {
@@ -27,12 +35,14 @@ module.exports = {
       const f = feld(i, r, cfg.spacing);
       if (d > cfg.gang) {                                                    // Rückwand, massiv
         if (cfg.tuer && !f.ecke && Math.abs(f.du) < 1.5 && y <= 8) return null;
+        if (cfg.grotesk && d === cfg.gang + 1 && y >= 3 && y <= 14) return grotesk(f.t, y);       // Grotesken-Wand zum Gang hin
         return TY.pietra_forte;
       }
       if (d > cfg.wand) return null;                                         // Gang, hohl
       const saeule = f.ecke || f.pd < cfg.colHalf;
       if (saeule) {
         if (cfg.pfeiler) return TY.pietra_serena;
+        if (cfg.grotesk && (y === 2 || y === 9)) return TY.gold;            // vergoldete Bänder an Fuß und Kapitell (Michelozzo-Hof)
         if (y === 7) return TY.gold;                                         // Bandring
         if (y <= 8) return TY.marmor_saeule;
         if (y <= 10) return TY.marmor_ornament;
@@ -50,7 +60,7 @@ module.exports = {
     // 1) Michelozzo-Hof (Loch 1): Arkade mit Säulen, Gang, Rückwand mit Türen
     const mA = ctx.part('michelozzo_arkade');
     const r1 = bandRecs(1, 7);
-    S.band(mA, r1, 1, 16, arkade(1, { spacing: 8, colHalf: 1, wand: 2, gang: 5, tuer: true }), 'michelozzo_arkade');
+    S.band(mA, r1, 1, 16, arkade(1, { spacing: 8, colHalf: 1, wand: 2, gang: 5, tuer: true, grotesk: true }), 'michelozzo_arkade');
 
     // 2) Michelozzo-Obergeschosse: Wand d_H <= 3, Fenster 4 x 8 über jeder Arkadenöffnung, Gesimse y_rel 17 und 34
     const mO = ctx.part('michelozzo_obergeschosse');
@@ -58,6 +68,7 @@ module.exports = {
     S.band(mO, r1o, 17, 49, (r, y) => {
       const d = r.dH1;
       if (d === 1 && (y === 17 || y === 34)) return TY.marmor_weiss;
+      if (d === 1 && y >= 28 && y <= 32) return raeume.F(FARBEN[Math.floor(raeume.hash(Math.floor(feld(1, r, 8).t / 4), y >> 1, 7) * FARBEN.length)]);   // Städtebilder-Fries
       const f = feld(1, r, 8);
       if (!f.ecke) {
         const q = pv.fenster(f.t, y, d, f.c, 2, y < 34 ? 20 : 37, y < 34 ? 27 : 44, TY.marmor_weiss);

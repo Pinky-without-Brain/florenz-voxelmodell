@@ -60,6 +60,7 @@ module.exports = {
     raeume.saloneKassettenbalken(ctx, S);
     raeume.udienza(ctx, S);
     raeume.saloneStatuen(ctx, S);
+    raeume.hofBrunnen(ctx, S);
 
     // Trennwände mit Türen (Plan: pv_plan.js) und Treppen aus Treppenblöcken (pv_innen.js)
     const innen = require('./pv_innen.js');

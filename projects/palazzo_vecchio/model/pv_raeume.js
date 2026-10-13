@@ -242,4 +242,32 @@ function saloneStatuen(ctx, S) {
   return n;
 }
 
-module.exports = { hash, schlacht, saloneWand, kassette, saloneBoden, saloneKassettenbalken, udienza, saloneStatuen, setzeFigur, figurZellen, F, KASSETTEN, TY };
+// ---------------------------------------------------------------- Michelozzo-Hof: Putto-Brunnen
+function hofBrunnen(ctx, S) {
+  const g = S.g;
+  const w = ctx.part('michelozzo_brunnen');
+  const cx = -111, cz = 865;                                   // Mitte des Hofes (Loch 1)
+  const rr = (x, z) => Math.hypot(x - cx, z - cz);
+  const put = (x, y, z, t) => S.put(w, x, y, z, t, 'michelozzo_brunnen');
+  // Becken: Rand 2 hoch, innen Wasser (1 hoch)
+  for (let x = cx - 5; x <= cx + 5; x++) for (let z = cz - 5; z <= cz + 5; z++) {
+    const d = rr(x, z);
+    if (!g.M.innen(x, z) || g.M.has(x, z)) continue;
+    if (d >= 3.3 && d < 4.8) { put(x, 1, z, TY.marmor_weiss); put(x, 2, z, d < 4.1 ? TY.marmor_ornament : TY.marmor_weiss); }
+  }
+  // Mittelstück: Sockel 3 x 3 (y 1..3), Schaft (y 4..6), Schale (y 7), Putto mit Delphin (Bronze, y 8..11)
+  for (let dx = -1; dx <= 1; dx++) for (let dz = -1; dz <= 1; dz++) for (let y = 1; y <= 3; y++) put(cx + dx, y, cz + dz, TY.marmor_weiss);
+  for (let dx = -1; dx <= 1; dx++) for (let dz = -1; dz <= 1; dz++) for (let y = 4; y <= 6; y++) put(cx + dx, y, cz + dz, dx === 0 && dz === 0 ? TY.marmor_saeule : TY.marmor_weiss);   // massiver Schaft: keine Hohlräume unter der Schale
+  for (let dx = -1; dx <= 1; dx++) for (let dz = -1; dz <= 1; dz++) put(cx + dx, 7, cz + dz, TY.marmor_weiss_alt);
+  for (let y = 8; y <= 9; y++) put(cx, y, cz, TY.bronze);                                  // Körper
+  put(cx - 1, 8, cz, TY.bronze); put(cx + 1, 8, cz, TY.bronze);                           // Arme
+  put(cx, 10, cz, TY.bronze); put(cx, 11, cz, TY.gold);                                   // Kopf, Haar
+  for (const [dx, dz, y] of [[0, 1, 8], [0, 1, 9], [0, 1, 10]]) put(cx + dx, y, cz + dz, TY.bronze);   // Delphin
+  // Wasser im Becken
+  for (let x = cx - 4; x <= cx + 4; x++) for (let z = cz - 4; z <= cz + 4; z++) {
+    if (rr(x, z) < 3.3 && g.M.innen(x, z) && g.M.has(x, z) === false) put(x, 1, z, TY.wasser);
+  }
+  return w;
+}
+
+module.exports = { hofBrunnen, hash, schlacht, saloneWand, kassette, saloneBoden, saloneKassettenbalken, udienza, saloneStatuen, setzeFigur, figurZellen, F, KASSETTEN, TY };
