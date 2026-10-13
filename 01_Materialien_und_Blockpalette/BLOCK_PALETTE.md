@@ -2,7 +2,7 @@
 
 # Materialliste und Blockpalette
 
-Alle 53 erlaubten Blocktypen des Modells, gruppiert nach Rolle. Das Modell besteht aus 909.019 Blöcken; es werden nur volle Würfelblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
+Alle 53 erlaubten Vollblocktypen des Modells, gruppiert nach Rolle, dazu 20 Treppenmaterialien mit je 8 Typen (4 Ausrichtungen, jeweils normal und umgedreht; Rolle `treppe`). Das Modell besteht aus 909.019 Blöcken; es werden volle Würfelblöcke und Treppenblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
 
 Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde di Prato, Rot für Rosso di Maremma. Die Dächer und die Kuppel tragen das Terrakotta-Rot der florentinischen Dachlinie.
 
@@ -48,6 +48,7 @@ Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde d
 | Baumkronen | 1 | 0 | 0,0 % |
 | Baumstämme | 1 | 0 | 0,0 % |
 | Wasser | 1 | 0 | 0,0 % |
+| Treppen | 20 Materialien | 0 | 0,0 % |
 | **Summe** | **53** | **909.019** | **100,0 %** |
 
 ## Weißer Marmor (Bianco di Carrara)
@@ -368,6 +369,33 @@ Arno und Brunnen. (Rolle `wasser`)
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Wasser |`water` | 0 | 0,0 % |
+
+## Treppen
+
+Treppenblöcke mit Ausrichtung des Aufstiegs (Norden, Osten, Süden, Westen), auch umgedreht als Deckenstufe. (Rolle `treppe`)
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Ziegeltreppe (4 Richtungen, normal und umgedreht) | `brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Bruchsteintreppe (4 Richtungen, normal und umgedreht) | `cobblestone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus geschnittenem Kupfer (4 Richtungen, normal und umgedreht) | `cut_copper_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Schwarzeichentreppe (4 Richtungen, normal und umgedreht) | `dark_oak_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus dunklem Prismarin (4 Richtungen, normal und umgedreht) | `dark_prismarine_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Endsteinziegeltreppe (4 Richtungen, normal und umgedreht) | `end_stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus bemoosten Steinziegeln (4 Richtungen, normal und umgedreht) | `mossy_stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus poliertem Andesit (4 Richtungen, normal und umgedreht) | `polished_andesite_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus poliertem Tiefenschiefer (4 Richtungen, normal und umgedreht) | `polished_deepslate_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus poliertem Granit (4 Richtungen, normal und umgedreht) | `polished_granite_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus poliertem Tuffstein (4 Richtungen, normal und umgedreht) | `polished_tuff_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Quarztreppe (4 Richtungen, normal und umgedreht) | `quartz_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus rotem Sandstein (4 Richtungen, normal und umgedreht) | `red_sandstone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus glattem Quarz (4 Richtungen, normal und umgedreht) | `smooth_quartz_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Treppe aus glattem Sandstein (4 Richtungen, normal und umgedreht) | `smooth_sandstone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Fichtentreppe (4 Richtungen, normal und umgedreht) | `spruce_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Steinziegeltreppe (4 Richtungen, normal und umgedreht) | `stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Steintreppe (4 Richtungen, normal und umgedreht) | `stone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Tuffziegeltreppe (4 Richtungen, normal und umgedreht) | `tuff_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+| Tuffsteintreppe (4 Richtungen, normal und umgedreht) | `tuff_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 
 ## Bauhilfen
 

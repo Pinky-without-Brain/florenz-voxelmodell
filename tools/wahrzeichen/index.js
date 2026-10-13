@@ -8,5 +8,8 @@ module.exports = {
   ...require('./rollen.js'),
   boden: require('./boden.js'),
   fundamentZellen: require('./boden.js').fundamentZellen,
+  treppe: require('./treppe.js'),
+  licht: require('./licht.js'),
+  ...require('./licht.js'),
   ...require('./projekt.js')
 };

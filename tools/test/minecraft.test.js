@@ -204,6 +204,20 @@ test('Blocktabelle: alle Palettentypen gemappt, Bedrock-Namen und Zustände', ()
   assert.deepEqual(bloecke.statesOf('quartz_pillar'), [['pillar_axis', 'string', 'y']]);
   assert.deepEqual(bloecke.statesOf('oak_leaves'), [['persistent_bit', 'byte', 1], ['update_bit', 'byte', 0]]);
   assert.deepEqual(bloecke.statesOf('water'), [['liquid_depth', 'int', 0]]);
+  // Treppen: Aufstieg o/w/s/n -> weirdo_direction 0/1/2/3 (minecraft.wiki), Namen laut Weltkopie/Schema
+  assert.equal(bloecke.bedrockName('stone_stairs@n'), 'minecraft:normal_stone_stairs');
+  assert.equal(bloecke.bedrockName('cobblestone_stairs@n'), 'minecraft:stone_stairs');
+  assert.equal(bloecke.bedrockName('end_stone_brick_stairs@o'), 'minecraft:end_brick_stairs');
+  assert.equal(bloecke.bedrockName('smooth_quartz_stairs@s'), 'minecraft:smooth_quartz_stairs');
+  assert.deepEqual(bloecke.statesOf('stone_brick_stairs@o'), [['upside_down_bit', 'byte', 0], ['weirdo_direction', 'int', 0]]);
+  assert.deepEqual(bloecke.statesOf('stone_brick_stairs@w'), [['upside_down_bit', 'byte', 0], ['weirdo_direction', 'int', 1]]);
+  assert.deepEqual(bloecke.statesOf('stone_brick_stairs@s'), [['upside_down_bit', 'byte', 0], ['weirdo_direction', 'int', 2]]);
+  assert.deepEqual(bloecke.statesOf('dark_oak_stairs@n_oben'), [['upside_down_bit', 'byte', 1], ['weirdo_direction', 'int', 3]]);
+  const te = nbt.read(bloecke.paletteEntry('brick_stairs@s_oben'));
+  const st = te.tag.v.get('states').v;
+  assert.equal(st.get('upside_down_bit').t, nbt.T.BYTE);
+  assert.equal(st.get('weirdo_direction').t, nbt.T.INT);
+  assert.equal(st.get('weirdo_direction').v, 2);
   assert.throws(() => bloecke.bedrockName('gibt_es_nicht'), /unbekannter Blocktyp/);
 });
 

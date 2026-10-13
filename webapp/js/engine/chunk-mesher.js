@@ -6,7 +6,11 @@
  *   w.setRun(x, y, z0, len, w.typeId('stone_bricks'));
  *   var m = ChunkMesher.meshChunk(w, cx, cz, { variation: 0.05 });  // { opaque, transparent, quads } | null
  *
- * typeInfo(name) -> { transparent: bool, top: [r,g,b], side: [r,g,b] } (0..255). Standard: grau, opak.
+ * typeInfo(name) -> { transparent: bool, top: [r,g,b], side: [r,g,b], stair?: { dir: 'n'|'o'|'s'|'w', oben: bool } } (0..255).
+ * Standard: grau, opak. Treppenblöcke (stair) sind keine Vollblöcke: Sie nehmen nicht am Greedy-Meshing teil (Nachbarn
+ * zeichnen ihre Fläche gegen eine Treppe) und werden als eigene Geometrie angehängt: untere Halbstufe plus obere
+ * Viertelstufe auf der Seite des Aufstiegs (n = -z, o = +x, s = +z, w = -x); oben = umgedreht (Deckenstufe).
+ * Treppenflächen auf der Zellgrenze entfallen gegen opake Vollblock-Nachbarn.
  * Verdeckung: Fläche eines opaken Blocks entfällt nur gegen einen opaken Nachbarn (auch über Chunk-Grenzen);
  * gegen transparente Nachbarn bleibt sie. Transparente Fläche entfällt gegen opake Nachbarn und gegen
  * gleichen transparenten Typ.
@@ -36,6 +40,7 @@
     var infos = [null];
     var byName = Object.create(null);
     var chunks = new Map();
+    var hasStairs = false;
 
     function typeId(name) {
       var id = byName[name];
@@ -43,7 +48,8 @@
       var inf = typeInfoFn(name) || defaultInfo();
       id = names.length;
       names.push(name);
-      infos.push({ transparent: !!inf.transparent, top: inf.top, side: inf.side });
+      infos.push({ transparent: !!inf.transparent, top: inf.top, side: inf.side, stair: inf.stair || null });
+      if (inf.stair) hasStairs = true;
       byName[name] = id;
       return id;
     }
@@ -85,7 +91,7 @@
 
     return {
       yMin: yMin, yMax: yMax, height: H,
-      names: names, infos: infos, chunks: chunks,
+      names: names, infos: infos, chunks: chunks, hasStairs: function () { return hasStairs; },
       typeId: typeId, set: set, get: get, setRun: setRun, chunk: function (cx, cz) { return chunkAt(cx, cz, false); },
       blockCount: function () { var n = 0; chunks.forEach(function (c) { n += c.count; }); return n; }
     };
@@ -95,6 +101,54 @@
     var h = Math.imul(x | 0, 73856093) ^ Math.imul(y | 0, 19349663) ^ Math.imul(z | 0, 83492791) ^ Math.imul(d + 1, 2654435761);
     h ^= h >>> 13; h = Math.imul(h, 1274126177); h ^= h >>> 16;
     return (h >>> 0) / 4294967296;
+  }
+
+  // ---- Treppen: Teilquader (lokale Koordinaten 0..1) -> Flächen
+  var AXIS = { n: [0, -1], o: [1, 0], s: [0, 1], w: [-1, 0] };
+  var stairCache = Object.create(null);
+  /**
+   * Flächen einer Treppe in Zellkoordinaten 0..1: [{ n: [nx,ny,nz], p: [[x,y,z] x4] (von außen gegen den Uhrzeigersinn),
+   * g: [dx,dy,dz] = Nachbarzelle, gegen die die Fläche bei opakem Vollblock entfällt (Fläche liegt auf der Zellgrenze), sonst null }].
+   * Platte A (untere Hälfte, bei oben die obere) plus Stufe B (Hälfte der Grundfläche auf der Aufstiegsseite, andere Höhenhälfte).
+   */
+  function stairQuads(dir, oben) {
+    var key = dir + (oben ? '_oben' : '');
+    if (stairCache[key]) return stairCache[key];
+    var a = AXIS[dir], dx = a[0], dz = a[1];
+    var ay0 = oben ? 0.5 : 0, ay1 = oben ? 1 : 0.5;
+    var by0 = oben ? 0 : 0.5, by1 = oben ? 0.5 : 1;
+    var bx0 = dx > 0 ? 0.5 : 0, bx1 = dx < 0 ? 0.5 : 1, bz0 = dz > 0 ? 0.5 : 0, bz1 = dz < 0 ? 0.5 : 1;
+    var out = [];
+    function face(ax, sign, x0, y0, z0, x1, y1, z1) {
+      var n = [0, 0, 0]; n[ax] = sign;
+      var plane = sign > 0 ? [x1, y1, z1][ax] : [x0, y0, z0][ax];
+      var g = ((plane === 1 && sign > 0) || (plane === 0 && sign < 0)) ? n.slice() : null;
+      var p;
+      if (ax === 0) {
+        p = sign > 0 ? [[plane, y0, z0], [plane, y1, z0], [plane, y1, z1], [plane, y0, z1]]
+          : [[plane, y0, z0], [plane, y0, z1], [plane, y1, z1], [plane, y1, z0]];
+      } else if (ax === 1) {
+        p = sign > 0 ? [[x0, plane, z0], [x0, plane, z1], [x1, plane, z1], [x1, plane, z0]]
+          : [[x0, plane, z0], [x1, plane, z0], [x1, plane, z1], [x0, plane, z1]];
+      } else {
+        p = sign > 0 ? [[x0, y0, plane], [x1, y0, plane], [x1, y1, plane], [x0, y1, plane]]
+          : [[x0, y0, plane], [x0, y1, plane], [x1, y1, plane], [x1, y0, plane]];
+      }
+      out.push({ n: n, p: p, g: g });
+    }
+    // Platte A: vier Seiten, die Fläche zur Zellgrenze (unten bzw. oben) ganz, die andere nur auf der Hälfte ohne Stufe
+    face(0, 1, 0, ay0, 0, 1, ay1, 1); face(0, -1, 0, ay0, 0, 1, ay1, 1);
+    face(2, 1, 0, ay0, 0, 1, ay1, 1); face(2, -1, 0, ay0, 0, 1, ay1, 1);
+    var fx0 = dx > 0 ? 0 : (dx < 0 ? 0.5 : 0), fx1 = dx > 0 ? 0.5 : 1;
+    var fz0 = dz > 0 ? 0 : (dz < 0 ? 0.5 : 0), fz1 = dz > 0 ? 0.5 : 1;
+    if (oben) { face(1, 1, 0, ay0, 0, 1, ay1, 1); face(1, -1, fx0, ay0, fz0, fx1, ay1, fz1); }
+    else { face(1, -1, 0, ay0, 0, 1, ay1, 1); face(1, 1, fx0, ay0, fz0, fx1, ay1, fz1); }
+    // Stufe B: vier Seiten und die freie Fläche (oben bzw. unten); die Fläche zur Platte entfällt
+    face(0, 1, bx0, by0, bz0, bx1, by1, bz1); face(0, -1, bx0, by0, bz0, bx1, by1, bz1);
+    face(2, 1, bx0, by0, bz0, bx1, by1, bz1); face(2, -1, bx0, by0, bz0, bx1, by1, bz1);
+    if (oben) face(1, -1, bx0, by0, bz0, bx1, by1, bz1); else face(1, 1, bx0, by0, bz0, bx1, by1, bz1);
+    stairCache[key] = out;
+    return out;
   }
 
   function newPart() {
@@ -127,6 +181,11 @@
     var ox = cx * CHUNK, oz = cz * CHUNK;
 
     // Aufgefüllte Kopie (18 x H x 18) inklusive Randzeile der Nachbarn
+    var stairIds = null;
+    if (world.hasStairs()) {
+      stairIds = new Uint8Array(infos.length);
+      for (var si = 1; si < infos.length; si++) if (infos[si].stair) stairIds[si] = 1;
+    }
     var P = new Uint16Array(PAD * H * PAD);
     for (var dz = -1; dz <= 1; dz++) {
       for (var dx = -1; dx <= 1; dx++) {
@@ -138,7 +197,8 @@
         for (var y = 0; y < H; y++) {
           for (var lz = z0; lz <= z1; lz++) {
             for (var lx = x0; lx <= x1; lx++) {
-              P[(y * PAD + (lz + dz * CHUNK + 1)) * PAD + (lx + dx * CHUNK + 1)] = nc.data[(y * CHUNK + lz) * CHUNK + lx];
+              var vv = nc.data[(y * CHUNK + lz) * CHUNK + lx];
+              P[(y * PAD + (lz + dz * CHUNK + 1)) * PAD + (lx + dx * CHUNK + 1)] = (stairIds && stairIds[vv]) ? 0 : vv;
             }
           }
         }
@@ -238,10 +298,47 @@
         }
       }
     }
+    // Treppen dieser Säule als eigene Geometrie
+    if (stairIds) {
+      for (var sy = 0; sy < H; sy++) {
+        for (var slz = 0; slz < CHUNK; slz++) {
+          for (var slx = 0; slx < CHUNK; slx++) {
+            var sid = c.data[(sy * CHUNK + slz) * CHUNK + slx];
+            if (!sid || !stairIds[sid]) continue;
+            var sinf = infos[sid], st = sinf.stair;
+            var quads = stairQuads(st.dir, !!st.oben);
+            var spart = parts[sinf.transparent ? 1 : 0];
+            var swx = ox + slx, swy = yMin + sy, swz = oz + slz;
+            for (var qi = 0; qi < quads.length; qi++) {
+              var qd = quads[qi];
+              if (qd.g) { // Fläche auf der Zellgrenze: gegen opaken Vollblock-Nachbarn weglassen
+                var nb = at(slx + qd.g[0], sy + qd.g[1], slz + qd.g[2]);
+                if (nb && !infos[nb].transparent) continue;
+              }
+              var up = qd.n[1] > 0;
+              var shadeS = qd.n[1] !== 0 ? (up ? SHADE.top : SHADE.bottom) : SHADE.side;
+              var colS = up ? sinf.top : sinf.side;
+              var fS = shadeS * (1 + (hash3(swx, swy, swz, qi) - 0.5) * 2 * variation);
+              var cr = Math.max(0, Math.min(255, Math.round(colS[0] * fS)));
+              var cg = Math.max(0, Math.min(255, Math.round(colS[1] * fS)));
+              var cb = Math.max(0, Math.min(255, Math.round(colS[2] * fS)));
+              var v0 = spart.pos.length / 3;
+              for (var t2 = 0; t2 < 4; t2++) {
+                spart.pos.push(swx + qd.p[t2][0], swy + qd.p[t2][1], swz + qd.p[t2][2]);
+                spart.nor.push(qd.n[0] * 127, qd.n[1] * 127, qd.n[2] * 127);
+                spart.col.push(cr, cg, cb);
+              }
+              spart.idx.push(v0, v0 + 1, v0 + 2, v0, v0 + 2, v0 + 3);
+              spart.quads++;
+            }
+          }
+        }
+      }
+    }
     var op = finish(parts[0]), tr = finish(parts[1]);
     if (!op && !tr) return null;
     return { opaque: op, transparent: tr, quads: (op ? op.quads : 0) + (tr ? tr.quads : 0) };
   }
 
-  return { CHUNK: CHUNK, createWorld: createWorld, meshChunk: meshChunk };
+  return { CHUNK: CHUNK, createWorld: createWorld, meshChunk: meshChunk, stairQuads: stairQuads };
 });

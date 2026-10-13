@@ -1,6 +1,6 @@
 'use strict';
 /**
- * Erlaubte Blocktypen (V2). Nur volle Würfelblöcke – keine Stufen, Platten, Zäune.
+ * Erlaubte Blocktypen (V2). Volle Würfelblöcke; ab B0 zusätzlich Treppenblöcke (siehe unten), keine Platten, Zäune.
  * Jeder Typ braucht einen Eintrag in webapp/js/data/block-types.js (deutscher Name, Farben).
  * Rollen beschreiben die Verwendung im Modell; Module wählen Materialien über die Rolle.
  */
@@ -68,7 +68,79 @@ const PALETTE = {
   water:                 { role: 'wasser',               de: 'Wasser', transparent: true }
 };
 
+// ---------------------------------------------------------------- Treppen (B0)
+// Treppenblöcke sind Teil der Palette (BEGEHBARKEIT.md §1.3). Die Ausrichtung gehört zum Typ:
+//   Typname  <basis>@<richtung>[_oben]   z. B. stone_brick_stairs@n, dark_oak_stairs@s_oben
+//   Richtung = Richtung des AUFSTIEGS: n = -z (Norden), o = +x, s = +z, w = -x.
+//   "_oben": umgedrehte Treppe (Deckenstufe, z. B. unter Wendeltreppen).
+// Alle Treppentypen stehen am Ende der Palette (bestehende Typreihenfolge bleibt), haben die Rolle "treppe"
+// und tauchen NICHT in ROLES auf (ROLES bleibt wie in V2). Zuordnung Materialrolle -> Treppe: treppeFuerRolle().
+const STAIR_DIRS = ['n', 'o', 's', 'w'];
+const STAIR_DIR_DE = { n: 'Norden', o: 'Osten', s: 'Süden', w: 'Westen' };
+// [Basisname (Java-Name), Vollblock für Farbe/Textur, Name]
+const STAIR_BASES = [
+  ['stone_brick_stairs',        'stone_bricks',       'Steinziegeltreppe'],
+  ['tuff_brick_stairs',         'tuff_bricks',        'Tuffziegeltreppe'],
+  ['polished_tuff_stairs',      'polished_tuff',      'Treppe aus poliertem Tuffstein'],
+  ['polished_andesite_stairs',  'polished_andesite',  'Treppe aus poliertem Andesit'],
+  // Es gibt keine Treppe aus glattem Stein (smooth_stone); stone_stairs ist die nächste graue Steintreppe
+  ['stone_stairs',              'stone',              'Steintreppe'],
+  ['smooth_quartz_stairs',      'smooth_quartz',      'Treppe aus glattem Quarz'],
+  ['quartz_stairs',             'quartz_bricks',      'Quarztreppe'],
+  ['dark_oak_stairs',           'dark_oak_planks',    'Schwarzeichentreppe'],
+  ['spruce_stairs',             'spruce_planks',      'Fichtentreppe'],
+  ['brick_stairs',              'bricks',             'Ziegeltreppe'],
+  ['polished_granite_stairs',   'polished_granite',   'Treppe aus poliertem Granit'],
+  ['end_stone_brick_stairs',    'end_stone_bricks',   'Endsteinziegeltreppe'],
+  ['cobblestone_stairs',        'cobblestone',        'Bruchsteintreppe'],
+  ['mossy_stone_brick_stairs',  'mossy_stone_bricks', 'Treppe aus bemoosten Steinziegeln'],
+  ['polished_deepslate_stairs', 'polished_deepslate', 'Treppe aus poliertem Tiefenschiefer'],
+  ['cut_copper_stairs',         'cut_copper',         'Treppe aus geschnittenem Kupfer'],
+  ['red_sandstone_stairs',      'red_sandstone',      'Treppe aus rotem Sandstein'],
+  ['smooth_sandstone_stairs',   'smooth_sandstone',   'Treppe aus glattem Sandstein'],
+  ['dark_prismarine_stairs',    'dark_prismarine',    'Treppe aus dunklem Prismarin'],
+  ['tuff_stairs',               'tuff',               'Tuffsteintreppe']
+];
+// Materialrolle -> Treppen-Basisname. Terrakotta/Dachziegel hat keine Treppe: brick_stairs ist der Ersatz (rotbraun).
+const TREPPE_FUER_ROLLE = {
+  mauerwerk: 'stone_brick_stairs', pietra_forte_rustika: 'tuff_brick_stairs', pflaster: 'polished_tuff_stairs',
+  pietra_forte: 'polished_andesite_stairs', pietra_serena: 'stone_stairs', gelaende_fels: 'stone_stairs',
+  marmor_weiss: 'smooth_quartz_stairs', marmor_ornament: 'quartz_stairs', marmor_saeule: 'quartz_stairs',
+  marmor_weiss_alt: 'quartz_stairs', holz: 'dark_oak_stairs', holz_sporto: 'spruce_stairs',
+  ziegel_kuppel: 'brick_stairs', dachziegel: 'brick_stairs', marmor_rot: 'polished_granite_stairs',
+  putz_sand: 'end_stone_brick_stairs', antik: 'cobblestone_stairs', kontrast_dunkel: 'polished_deepslate_stairs',
+  bronze: 'cut_copper_stairs', marmor_rot_alt: 'red_sandstone_stairs', putz_gelb: 'smooth_sandstone_stairs',
+  marmor_gruen: 'dark_prismarine_stairs', pietra_forte_bruch: 'tuff_stairs'
+};
+const STAIR_INFO = {}; // Typname -> { base, dir, oben, material }
+for (const [base, material, name] of STAIR_BASES) {
+  for (const oben of [false, true]) {
+    for (const dir of STAIR_DIRS) {
+      const t = `${base}@${dir}${oben ? '_oben' : ''}`;
+      PALETTE[t] = { role: 'treppe', de: `${name}, Aufstieg nach ${STAIR_DIR_DE[dir]}${oben ? ', umgedreht' : ''}`, stair: { base, dir, oben, material } };
+      STAIR_INFO[t] = PALETTE[t].stair;
+    }
+  }
+}
+
 const TYPES = Object.keys(PALETTE);
+
+/** Ist der Typ ein Treppenblock? */
+const isTreppe = (type) => Object.prototype.hasOwnProperty.call(STAIR_INFO, type);
+/** { base, dir, oben, material } eines Treppentyps oder null. */
+const treppeInfo = (type) => (isTreppe(type) ? STAIR_INFO[type] : null);
+/** Treppen-Basisname einer Materialrolle (wirft bei Rollen ohne Treppe). */
+function treppeFuerRolle(rolle) {
+  const b = TREPPE_FUER_ROLLE[rolle];
+  if (!b) throw new Error(`Rolle "${rolle}" hat keine Treppe (erlaubt: ${Object.keys(TREPPE_FUER_ROLLE).join(', ')})`);
+  return b;
+}
+/** Typname der Treppe: treppe(rolle, richtung, oben?) -> "stone_brick_stairs@n"; rolle darf auch ein Basisname sein. */
+function treppe(rolle, richtung, oben = false) {
+  if (!STAIR_DIRS.includes(richtung)) throw new Error(`Treppenrichtung muss n|o|s|w sein: ${richtung}`);
+  const base = STAIR_BASES.some((b) => b[0] === rolle) ? rolle : treppeFuerRolle(rolle);
+  return `${base}@${richtung}${oben ? '_oben' : ''}`;
+}
 
 /** Alle Rollen eines Typs: Primärrolle zuerst, dann alsoRoles. */
 function rolesOf(type) {
@@ -83,6 +155,7 @@ function typesForRole(role) {
 
 /** Alle verschiedenen Rollen (primär und alsoRoles) in Reihenfolge des ersten Auftretens. */
 const ROLES = [];
-for (const t of TYPES) for (const r of rolesOf(t)) if (!ROLES.includes(r)) ROLES.push(r);
+for (const t of TYPES) if (!isTreppe(t)) for (const r of rolesOf(t)) if (!ROLES.includes(r)) ROLES.push(r);
 
-module.exports = { PALETTE, TYPES, ROLES, rolesOf, typesForRole };
+module.exports = { PALETTE, TYPES, ROLES, rolesOf, typesForRole, STAIR_DIRS, STAIR_DIR_DE, STAIR_BASES, TREPPE_FUER_ROLLE,
+  isTreppe, treppeInfo, treppeFuerRolle, treppe };

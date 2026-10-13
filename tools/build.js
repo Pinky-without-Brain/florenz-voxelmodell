@@ -160,6 +160,16 @@ function buildProject(project, opts, env) {
     total: r.total === undefined ? null : r.total, ms: Math.round(r.ms),
     ...(r.info && r.info.length ? { info: r.info } : {}) }));
 
+  // R13/R14: Kennzahlen, Komponenten und Lecks (BEGEHBARKEIT.md §3)
+  const r13 = rules.find((r) => r.rule === 'R13'), r14 = rules.find((r) => r.rule === 'R14');
+  const begehbarkeit = r13 && r13.bericht ? {
+    modus: r13.bericht.modus, erreichbarProzent: r13.bericht.anteil, innenZellen: r13.bericht.innenZellen, erreichbar: r13.bericht.erreichbar,
+    nichtErreichbareKomponenten: r13.bericht.nichtErreichbareKomponenten, offeneFlaechenUnerreichbar: r13.bericht.offeneFlaechenUnerreichbar,
+    komponenten: r13.bericht.projekt ? r13.bericht.projekt.komponenten : undefined, haeuser: r13.bericht.haeuser,
+    lecks: r14 && r14.bericht ? r14.bericht : null,
+    deklariert: { oeffnungen: world.oeffnungen.length, unzugaenglich: world.unzugaenglich.length }
+  } : null;
+
   console.log(`${world.modules.length} Module, ${world.grid.size} Blöcke`);
   for (const m of modReport) {
     console.log(`  Modul ${m.module} ${m.title}: ${m.steps} Schritte, ${m.blocks} Blöcke, Schrittgröße min/Ø/max ${m.min}/${m.avg}/${m.max}`);
@@ -185,7 +195,7 @@ function buildProject(project, opts, env) {
 
   const failed = errors.length > 0 || (opts.strict && warnings.length > 0);
   const report = { generated: new Date().toISOString(), project: project.id, options: opts, moduleCount: world.modules.length,
-    totalBlocks: world.grid.size, modules: modReport, rules: ruleReport, timingMs: timing, resources, emitted,
+    totalBlocks: world.grid.size, modules: modReport, rules: ruleReport, begehbarkeit, timingMs: timing, resources, emitted,
     errors, warnings, status: failed ? 'FEHLER' : 'OK' };
   fs.mkdirSync(path.join(root, 'build'), { recursive: true });
   const json = JSON.stringify(report, null, 2);

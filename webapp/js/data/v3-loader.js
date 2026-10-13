@@ -115,7 +115,7 @@ window.ProjectLoader = (function () {
     var c = infoCache[type];
     if (c) return c;
     var def = (window.BLOCK_TYPES && window.BLOCK_TYPES[type]) || { color: "#888888" };
-    c = { transparent: isTransparentType(type), top: hexToRgb(def.topColor || def.color), side: hexToRgb(def.sideColor || def.color) };
+    c = { transparent: isTransparentType(type), top: hexToRgb(def.topColor || def.color), side: hexToRgb(def.sideColor || def.color), stair: def.stair || null };
     infoCache[type] = c;
     return c;
   }

@@ -12,16 +12,17 @@ window.TextureGenerator = (function() {
     canvas.height = size;
     const ctx = canvas.getContext("2d");
 
+    const texId = blockDef.base || blockDef.id; // Treppen nutzen die Textur ihres Vollblocks
     const baseColor = blockDef.color || "#888888";
     ctx.fillStyle = baseColor;
     ctx.fillRect(0, 0, size, size);
 
     // Spezialisierte Texturmuster je nach Block-Typ
-    switch (blockDef.id) {
+    switch (texId) {
       case "stone_bricks":
       case "mossy_stone_bricks": {
         // Steinziegel-Fugenmuster (4 Ziegelreihen)
-        ctx.strokeStyle = blockDef.id === "mossy_stone_bricks" ? "#445533" : "#4A4A4A";
+        ctx.strokeStyle = texId === "mossy_stone_bricks" ? "#445533" : "#4A4A4A";
         ctx.lineWidth = 2;
         const rowH = size / 4;
         for (let i = 1; i < 4; i++) {
@@ -40,7 +41,7 @@ window.TextureGenerator = (function() {
           ctx.stroke();
         }
         // Moos-Flecken bei mossy
-        if (blockDef.id === "mossy_stone_bricks") {
+        if (texId === "mossy_stone_bricks") {
           ctx.fillStyle = "rgba(70, 110, 50, 0.45)";
           ctx.fillRect(4, 4, 18, 12);
           ctx.fillRect(36, 32, 22, 14);
@@ -59,7 +60,7 @@ window.TextureGenerator = (function() {
         ctx.moveTo(0, 48);
         ctx.bezierCurveTo(24, 42, 38, 58, 64, 46);
         ctx.stroke();
-        if (blockDef.id === "chiseled_quartz") {
+        if (texId === "chiseled_quartz") {
           ctx.strokeStyle = "rgba(140, 130, 120, 0.6)";
           ctx.strokeRect(8, 8, 48, 48);
           ctx.strokeRect(18, 18, 28, 28);
@@ -129,7 +130,7 @@ window.TextureGenerator = (function() {
 
       case "terracotta":
       case "bricks": {
-        if (blockDef.id === "bricks") {
+        if (texId === "bricks") {
           ctx.strokeStyle = "#5A251D";
           ctx.lineWidth = 1.5;
           const rH = size / 6;

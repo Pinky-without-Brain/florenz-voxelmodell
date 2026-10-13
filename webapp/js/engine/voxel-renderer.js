@@ -425,7 +425,7 @@ window.VoxelRenderer = (function() {
 
   function disposeGroup(group) {
     group.children.forEach(c => {
-      if (c.geometry && c.geometry !== boxGeo && c.geometry !== edgesGeo) c.geometry.dispose();
+      if (c.geometry && c.geometry !== boxGeo && c.geometry !== edgesGeo && !c.userData.stairGeo) c.geometry.dispose();
       if (c.dispose) c.dispose();
     });
     group.clear();
@@ -475,6 +475,39 @@ window.VoxelRenderer = (function() {
     return type === "water" || (type.length > 14 && type.endsWith("_stained_glass"));
   }
 
+  // Treppenblöcke (Typname <basis>@<richtung>[_oben], siehe tools/spec/palette.js): echte Treppenform statt Würfel
+  const stairGeoCache = {};
+  function stairInfo(type) {
+    const def = window.BLOCK_TYPES && window.BLOCK_TYPES[type];
+    return def && def.stair ? def.stair : null;
+  }
+  function isStairType(type) { return type.indexOf("@") > 0 && !!stairInfo(type); }
+
+  // Geometrie um den Zellmittelpunkt (-0,5..0,5), gebaut aus den Flächen des Chunk-Meshers (eine Quelle der Wahrheit)
+  function getStairGeometry(dir, oben) {
+    const key = dir + (oben ? "_oben" : "");
+    if (stairGeoCache[key]) return stairGeoCache[key];
+    const quads = window.ChunkMesher.stairQuads(dir, oben);
+    const pos = [], nor = [], uv = [], idx = [];
+    const UV = [[0, 0], [1, 0], [1, 1], [0, 1]];
+    quads.forEach((q) => {
+      const v0 = pos.length / 3;
+      for (let i = 0; i < 4; i++) {
+        pos.push(q.p[i][0] - 0.5, q.p[i][1] - 0.5, q.p[i][2] - 0.5);
+        nor.push(q.n[0], q.n[1], q.n[2]);
+        uv.push(UV[i][0], UV[i][1]);
+      }
+      idx.push(v0, v0 + 1, v0 + 2, v0, v0 + 2, v0 + 3);
+    });
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute("position", new THREE.Float32BufferAttribute(pos, 3));
+    geo.setAttribute("normal", new THREE.Float32BufferAttribute(nor, 3));
+    geo.setAttribute("uv", new THREE.Float32BufferAttribute(uv, 2));
+    geo.setIndex(idx);
+    stairGeoCache[key] = geo;
+    return geo;
+  }
+
   // --- Verdeckungstest -------------------------------------------------------
   // Gepackter Schlüssel: x, z mit Bias 600 (je 10 Bit), y 9 Bit. Außerhalb des Bereichs: -1 (nie ausgeblendet).
   const KEY_BIAS = 600;
@@ -498,7 +531,7 @@ window.VoxelRenderer = (function() {
     for (let i = 0; i < src.length; i++) {
       const b = src[i];
       const k = packKey(b.x, b.y, b.z);
-      if (k < 0) continue;
+      if (k < 0 || isStairType(b.type)) continue; // Treppen verdecken ihre Nachbarn nicht vollständig
       occ.add(k);
       if (isGlassType(b.type)) glass.add(k);
     }
@@ -507,7 +540,7 @@ window.VoxelRenderer = (function() {
     for (let i = 0; i < blockList.length; i++) {
       const b = blockList[i];
       const k = packKey(b.x, b.y, b.z);
-      if (k < 0 || (hasGlass && glass.has(k))) { visible.push(b); continue; }
+      if (k < 0 || (hasGlass && glass.has(k)) || isStairType(b.type)) { visible.push(b); continue; }
       const kx1 = k + KX, kx0 = k - KX, kz1 = k + KZ, kz0 = k - KZ, ky1 = k + 1, ky0 = k - 1;
       if (occ.has(kx1) && occ.has(kx0) && occ.has(kz1) && occ.has(kz0) && occ.has(ky1) && occ.has(ky0)) {
         if (!hasGlass || !(glass.has(kx1) || glass.has(kx0) || glass.has(kz1) || glass.has(kz0) || glass.has(ky1) || glass.has(ky0))) {
@@ -733,7 +766,9 @@ window.VoxelRenderer = (function() {
         const mat = getBlockMaterial(type, isCurrent);
         const count = list.length;
 
-        const instancedMesh = new THREE.InstancedMesh(boxGeo, mat, count);
+        const st = stairInfo(type);
+        const instancedMesh = new THREE.InstancedMesh(st ? getStairGeometry(st.dir, !!st.oben) : boxGeo, mat, count);
+        if (st) instancedMesh.userData.stairGeo = true;
         const isGlass = pass === 1;
         instancedMesh.castShadow = !isGlass;
         instancedMesh.receiveShadow = true;

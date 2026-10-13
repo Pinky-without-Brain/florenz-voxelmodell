@@ -599,3 +599,27 @@ window.BLOCK_TYPES = {
     description: "Arno und Brunnen. Halbtransparent dargestellt."
   }
 };
+
+// ---- Treppenblöcke (B0): aus dem Vollblock abgeleitet. Typname <basis>@<richtung>[_oben],
+// Richtung = Aufstieg (n = -z, o = +x, s = +z, w = -x). Die Liste entspricht tools/spec/palette.js (STAIR_BASES, Test).
+(function () {
+  var BT = window.BLOCK_TYPES;
+  var DIRS = { n: 'Norden', o: 'Osten', s: 'Süden', w: 'Westen' };
+  var BASES = [["stone_brick_stairs","stone_bricks","Steinziegeltreppe"],["tuff_brick_stairs","tuff_bricks","Tuffziegeltreppe"],["polished_tuff_stairs","polished_tuff","Treppe aus poliertem Tuffstein"],["polished_andesite_stairs","polished_andesite","Treppe aus poliertem Andesit"],["stone_stairs","stone","Steintreppe"],["smooth_quartz_stairs","smooth_quartz","Treppe aus glattem Quarz"],["quartz_stairs","quartz_bricks","Quarztreppe"],["dark_oak_stairs","dark_oak_planks","Schwarzeichentreppe"],["spruce_stairs","spruce_planks","Fichtentreppe"],["brick_stairs","bricks","Ziegeltreppe"],["polished_granite_stairs","polished_granite","Treppe aus poliertem Granit"],["end_stone_brick_stairs","end_stone_bricks","Endsteinziegeltreppe"],["cobblestone_stairs","cobblestone","Bruchsteintreppe"],["mossy_stone_brick_stairs","mossy_stone_bricks","Treppe aus bemoosten Steinziegeln"],["polished_deepslate_stairs","polished_deepslate","Treppe aus poliertem Tiefenschiefer"],["cut_copper_stairs","cut_copper","Treppe aus geschnittenem Kupfer"],["red_sandstone_stairs","red_sandstone","Treppe aus rotem Sandstein"],["smooth_sandstone_stairs","smooth_sandstone","Treppe aus glattem Sandstein"],["dark_prismarine_stairs","dark_prismarine","Treppe aus dunklem Prismarin"],["tuff_stairs","tuff","Tuffsteintreppe"]];
+  BASES.forEach(function (b) {
+    var src = BT[b[1]];
+    ['', '_oben'].forEach(function (up) {
+      Object.keys(DIRS).forEach(function (d) {
+        var id = b[0] + '@' + d + up;
+        var def = Object.assign({}, src);
+        def.id = id;
+        def.base = b[1];
+        def.name = b[2] + ', Aufstieg nach ' + DIRS[d] + (up ? ', umgedreht' : '');
+        def.icon = '🪜';
+        def.description = 'Treppenblock aus ' + src.name + ' (Aufstieg nach ' + DIRS[d] + (up ? ', umgedreht' : '') + ').';
+        def.stair = { dir: d, oben: !!up };
+        BT[id] = def;
+      });
+    });
+  });
+})();
