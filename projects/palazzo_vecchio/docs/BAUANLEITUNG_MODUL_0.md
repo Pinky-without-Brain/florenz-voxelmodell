@@ -8,30 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 90.357 |
+| Blöcke | 90.299 |
 | Bauschritte | 46 |
 | Y-Bereich | 62 bis 68 |
 | X-Ausdehnung | -146 bis 102 (249 Blöcke) |
 | Z-Ausdehnung | 799 bis 971 (173 Blöcke) |
 | Kleinster Schritt | 1.179 Blöcke (Schritt 0.1) |
-| Mittlerer Schritt | 1.964 Blöcke |
+| Mittlerer Schritt | 1.963 Blöcke |
 | Größter Schritt | 2.094 Blöcke (Schritt 0.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 63.004 | 69,7 % |
-| Polierter Tuffstein | `polished_tuff` | 22.175 | 24,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 5.178 | 5,7 % |
+| Tuffstein | `tuff` | 62.974 | 69,7 % |
+| Polierter Tuffstein | `polished_tuff` | 22.023 | 24,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 5.148 | 5,7 % |
+| Seelaterne | `sea_lantern` | 154 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament aus Bruchstein | 58.929 | 0.1–0.30 |
-| 2 | `sockel_rustika` | Sockel aus Rustika | 5.178 | 0.31–0.33 |
-| 3 | `bodenplatte` | Bodenplatte auf Y 68 | 26.250 | 0.34–0.46 |
+| 2 | `sockel_rustika` | Sockel aus Rustika | 5.148 | 0.31–0.33 |
+| 3 | `bodenplatte` | Bodenplatte auf Y 68 | 26.222 | 0.34–0.46 |
 
 ## Bauschritte
 
@@ -906,14 +907,14 @@ Der Palast steht an der Piazza auf Platzniveau, an der Via dei Leoni dagegen sec
 ### Schritt 0.32 – Sockel aus Rustika – Teil 2/3 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 2.087
+- **Blöcke:** 2.076
 - **Bauteile:** `sockel_rustika`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 2.087 |
+| Tuffsteinziegel | `tuff_bricks` | 2.076 |
 
 **Beschreibung**
 
@@ -934,14 +935,14 @@ Der Palast steht an der Piazza auf Platzniveau, an der Via dei Leoni dagegen sec
 ### Schritt 0.33 – Sockel aus Rustika – Teil 3/3 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.250
+- **Blöcke:** 1.231
 - **Bauteile:** `sockel_rustika`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.250 |
+| Tuffsteinziegel | `tuff_bricks` | 1.231 |
 
 **Beschreibung**
 
@@ -962,15 +963,16 @@ Der Palast steht an der Piazza auf Platzniveau, an der Via dei Leoni dagegen sec
 ### Schritt 0.34 – Bodenplatte auf Y 68 – Teil 1/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.292 |
-| Tuffstein | `tuff` | 727 |
+| Polierter Tuffstein | `polished_tuff` | 1.279 |
+| Tuffstein | `tuff` | 726 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Beschreibung**
 
@@ -991,15 +993,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.35 – Bodenplatte auf Y 68 – Teil 2/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.746 |
+| Polierter Tuffstein | `polished_tuff` | 1.735 |
 | Tuffstein | `tuff` | 273 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Beschreibung**
 
@@ -1020,15 +1023,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.36 – Bodenplatte auf Y 68 – Teil 3/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.020
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.769 |
-| Tuffstein | `tuff` | 251 |
+| Polierter Tuffstein | `polished_tuff` | 1.752 |
+| Tuffstein | `tuff` | 250 |
+| Seelaterne | `sea_lantern` | 15 |
 
 **Beschreibung**
 
@@ -1049,15 +1053,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.37 – Bodenplatte auf Y 68 – Teil 4/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.792 |
-| Tuffstein | `tuff` | 227 |
+| Polierter Tuffstein | `polished_tuff` | 1.781 |
+| Tuffstein | `tuff` | 226 |
+| Seelaterne | `sea_lantern` | 10 |
 
 **Beschreibung**
 
@@ -1078,15 +1083,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.38 – Bodenplatte auf Y 68 – Teil 5/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.806 |
-| Tuffstein | `tuff` | 213 |
+| Polierter Tuffstein | `polished_tuff` | 1.790 |
+| Tuffstein | `tuff` | 212 |
+| Seelaterne | `sea_lantern` | 15 |
 
 **Beschreibung**
 
@@ -1107,15 +1113,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.39 – Bodenplatte auf Y 68 – Teil 6/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.829 |
-| Tuffstein | `tuff` | 190 |
+| Polierter Tuffstein | `polished_tuff` | 1.815 |
+| Tuffstein | `tuff` | 192 |
+| Seelaterne | `sea_lantern` | 10 |
 
 **Beschreibung**
 
@@ -1136,15 +1143,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.40 – Bodenplatte auf Y 68 – Teil 7/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.020
+- **Blöcke:** 2.018
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.821 |
+| Polierter Tuffstein | `polished_tuff` | 1.806 |
 | Tuffstein | `tuff` | 199 |
+| Seelaterne | `sea_lantern` | 13 |
 
 **Beschreibung**
 
@@ -1165,15 +1173,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.41 – Bodenplatte auf Y 68 – Teil 8/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.820 |
+| Polierter Tuffstein | `polished_tuff` | 1.804 |
 | Tuffstein | `tuff` | 199 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -1194,15 +1203,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.42 – Bodenplatte auf Y 68 – Teil 9/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.816 |
-| Tuffstein | `tuff` | 203 |
+| Polierter Tuffstein | `polished_tuff` | 1.818 |
+| Tuffstein | `tuff` | 188 |
+| Seelaterne | `sea_lantern` | 11 |
 
 **Beschreibung**
 
@@ -1223,15 +1233,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.43 – Bodenplatte auf Y 68 – Teil 10/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.825 |
-| Tuffstein | `tuff` | 194 |
+| Polierter Tuffstein | `polished_tuff` | 1.804 |
+| Tuffstein | `tuff` | 205 |
+| Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
 
@@ -1252,15 +1263,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.44 – Bodenplatte auf Y 68 – Teil 11/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.020
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.762 |
-| Tuffstein | `tuff` | 258 |
+| Polierter Tuffstein | `polished_tuff` | 1.742 |
+| Tuffstein | `tuff` | 262 |
+| Seelaterne | `sea_lantern` | 13 |
 
 **Beschreibung**
 
@@ -1281,15 +1293,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.45 – Bodenplatte auf Y 68 – Teil 12/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.684 |
-| Tuffstein | `tuff` | 335 |
+| Polierter Tuffstein | `polished_tuff` | 1.678 |
+| Tuffstein | `tuff` | 327 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Beschreibung**
 
@@ -1310,15 +1323,16 @@ Die Grundfläche beträgt rund 6.000 Quadratmeter. Vier Höfe gliedern den Bau, 
 ### Schritt 0.46 – Bodenplatte auf Y 68 – Teil 13/13 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.213 |
-| Tuffstein | `tuff` | 806 |
+| Polierter Tuffstein | `polished_tuff` | 1.219 |
+| Tuffstein | `tuff` | 786 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Beschreibung**
 

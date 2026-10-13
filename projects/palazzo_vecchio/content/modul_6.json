@@ -6,21 +6,21 @@
   "parts": {
     "michelozzo_arkade": {
       "title": "Arkade im Hof Michelozzos",
-      "description": "Um den ersten Hof baust du im Erdgeschoss eine Arkade: Säulen im Abstand von rund acht Zellen, am Schaft aus Marmor mit einem goldenen Bandring, oben mit verzierten Kapitellen. Dazwischen schlagen sich Bögen aus grauem Stein. Hinter dem hohlen Gang steht eine massive Rückwand mit je einer Tür pro Joch.",
+      "description": "Um den ersten Hof baust du im Erdgeschoss eine Arkade: Säulen im Abstand von rund acht Zellen, am Schaft aus Marmor mit einem goldenen Bandring, oben mit verzierten Kapitellen. Dazwischen schlagen sich Bögen aus grauem Stein. Hinter dem hohlen Gang steht eine massive Rückwand mit je einer Tür pro Joch. Die Säulen tragen vergoldete Bänder an Fuß, Schaft und Kapitell. Die Rückwand zum Gang ist mit Grotesken in Fresko-Farben und goldenen Rauten bemalt (Vasari, vereinfacht). Quelle: Wikipedia (de, en, it) zum Hof des Michelozzo.",
       "tip": "Der Scheitel der Bögen liegt immer auf Y 82, egal wie breit das Joch ist.",
       "caution": "Der Gang hinter den Bögen bleibt hohl. Seine Decke baust du erst in Modul 9.",
       "fact": "Michelozzo baute den Hof um 1453 und Vasari gestaltete ihn 1565 mit Stuck um. Die Gewölbe entfallen im Modell."
     },
     "michelozzo_obergeschosse": {
       "title": "Obergeschosse des ersten Hofes",
-      "description": "Über der Arkade mauerst du von Y 85 bis Y 117 die Wand des Hofes, drei Zellen dick. Über jedem Bogen setzt du ein Fenster, vier breit und acht hoch, mit weißem Marmorrahmen. Die Gesimse liegen auf Y 85 und Y 102.",
+      "description": "Über der Arkade mauerst du von Y 85 bis Y 117 die Wand des Hofes, drei Zellen dick. Über jedem Bogen setzt du ein Fenster, vier breit und acht hoch, mit weißem Marmorrahmen. Die Gesimse liegen auf Y 85 und Y 102. Zwischen den Fenstern läuft ein Fries aus bunten Städtebildern (Fresko-Farben), eine Anspielung auf die Ansichten österreichischer Städte, die Vasari 1565 für Johanna von Österreich malte; stark vereinfacht.",
       "tip": "Die Fenster sitzen genau über den Öffnungen der Arkade.",
       "caution": "Die Hofseite darf kein Dach tragen. Der Hof bleibt oben offen.",
       "fact": "Die Höfe des Palastes liegen so eng, dass das Licht nur von oben einfällt."
     },
     "dogana_pfeiler": {
       "title": "Pfeiler im zweiten Hof (Dogana)",
-      "description": "Um den großen zweiten Hof stellst du Pfeiler, vier mal vier Zellen, im Abstand von zwölf. Dazwischen spannen sich Bögen mit dem Scheitel auf Y 82. Hinter dem Gang steht eine massive Rückwand.",
+      "description": "Um den großen zweiten Hof stellst du Pfeiler, vier mal vier Zellen, im Abstand von zwölf. Dazwischen spannen sich Bögen mit dem Scheitel auf Y 82. Hinter dem Gang steht eine massive Rückwand. In der Rückwand liegt in jedem Joch eine Tür zum Innern.",
       "tip": "Die Joche sind rund zwölf Zellen breit. Verteile die Reste gleichmäßig.",
       "caution": "Die Spandrillen bleiben bis Y 84 gefüllt.",
       "fact": "Die Pfeiler des zweiten Hofes baute Cronaca. Er war der Baumeister des Salone."

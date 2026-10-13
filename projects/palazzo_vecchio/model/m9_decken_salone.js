@@ -3,6 +3,7 @@
 // K2: Der Turm (turm_unterbau) steht in Modul 4; alle Decken sparen das Turmpolygon aus (Hohlraum y_rel 1..143 leer).
 // K3: treppen_michelozzo entfällt. K4: Salone nur außerhalb der Außenwandbänder (d8 > t(y)).
 const pv = require('./pv_lib.js');
+const raeume = require('./pv_raeume.js');
 
 module.exports = {
   module: 9,
@@ -12,14 +13,29 @@ module.exports = {
     const kein = (r) => r.zone !== 'T';
 
     // Geschossdecken: Zellen mit d8 > t, ohne Turm; die Salone-Außenrechtecke und die Lochbänder (Modul 6) sind schon belegt
-    const decke = (id, y, minD, ohneSalone) => {
+    const decke = (id, y, minD, ohneSalone, ge, ohneSaloneBoden) => {
       const w = ctx.part(id);
-      S.band(w, g.recs.filter((r) => kein(r) && r.d8 > minD && !(ohneSalone && r.sal)), y, y, () => TY.pietra_serena, id);
+      const zellen = g.recs.filter((r) => kein(r) && r.d8 > minD && !(ohneSalone && r.sal));
+      // Lampen im Fußboden des darüber liegenden Geschosses: nur auf Zellen, die diese Platte wirklich bekommt
+      if (ge) S.plan.lichtFuer(ge, zellen.filter((r) => !S.has(r.x, y, r.z) && !S.carve.has(pv.keyOf(r.x, y + S.bodenY, r.z))));
+      S.band(w, ohneSaloneBoden ? zellen.filter((r) => !r.salL) : zellen, y, y, (r) => (S.lampe(r.x, y, r.z) ? TY.licht : TY.pietra_serena), id);   // der Salone bekommt seinen Marmorboden als eigenes Bauteil
     };
-    decke('decke_eg', 16, 5, false);
-    decke('decke_og1', 33, 4, true);
-    decke('decke_og2', 49, 4, true);
+    decke('decke_eg', 16, 5, false, 'og1', true);
+    decke('decke_og1', 33, 4, true, 'og2');
+    decke('decke_og2', 49, 4, true, 'dg');
     decke('decke_dach', 56, 3, true);
+    // Dachräume zwischen der Dachplatte (y_rel 56) und der Dachhaut der Walmdächer (Module 7): leer, ohne Ausstellung, im Original nur über
+    // Luken erreichbar; sie bleiben im Modell bewusst geschlossen (R13: unzugaenglich)
+    {
+      const cav = [];
+      for (const r of g.recs) {
+        if (r.zone === 'T') continue;
+        let top = -1;
+        for (let y = 75; y >= 57; y--) if (S.has(r.x, y, r.z)) { top = y; break; }
+        for (let y = 57; y < top; y++) if (!S.has(r.x, y, r.z)) cav.push({ x: r.x, y: y + S.bodenY, z: r.z });
+      }
+      ctx.unzugaenglich(cav, 'Dachraum zwischen der Dachplatte und der Dachhaut der Walmdächer: leerer Raum ohne Ausstellung, im Original nur über Luken erreichbar; bleibt im Modell bewusst geschlossen');
+    }
 
     // Salone: Außenrechteck 112 x 52, Lichtmaß 104 x 44, Wände 4 dick y_rel 17..56, Rahmenpfeiler Pietra serena im Abstand 8
     const sw = ctx.part('salone_waende');
@@ -27,40 +43,47 @@ module.exports = {
     const ring = g.recs.filter((r) => r.sal && !r.salL);
     S.band(sw, ring, 17, 56, (r, y) => {
       if (r.d8 <= pv.tWall(y)) return null;                              // K4: die Außenwand gewinnt
-      if (y <= 52) {
-        const aufU = (r.u >= L.u0 - 1 && r.u < L.u0) || (r.u >= L.u1 && r.u < L.u1 + 1);
-        const aufW = (r.w >= L.w0 - 1 && r.w < L.w0) || (r.w >= L.w1 && r.w < L.w1 + 1);
-        if (aufU && r.w >= L.w0 && r.w < L.w1 && (r.w - L.w0) % 8 < 2) return TY.pietra_serena;
-        if (aufW && r.u >= L.u0 && r.u < L.u1 && (r.u - L.u0) % 8 < 2) return TY.pietra_serena;
-      }
-      return TY.putz_sand;
+      return raeume.saloneWand(r, y);                                    // Pilaster, Schlachtbilder, Damast (pv_raeume.js)
     }, 'salone_waende');
 
-    // Salone-Decke: y_rel 53 als Kassettenraster 8 x 8 (Holz / Pietra serena), y_rel 54..56 massiv
+    // Salone-Decke: y_rel 53 als Kassettendecke 8 x 8 (Holzbalken, Fresko-Felder, goldene Rosetten, Mittelbild), y_rel 54..56 massiv
     const sd = ctx.part('salone_decke');
     const licht = g.recs.filter((r) => r.salL);
     S.band(sd, licht, 53, 53, (r, y) => {
       if (r.d8 <= 3) return null;
-      const k = Math.floor((r.u - L.u0) / 8) + Math.floor((r.w - L.w0) / 8);
-      return k % 2 === 0 ? TY.holz : TY.pietra_serena;
+      return raeume.kassette(r);
     }, 'salone_decke');
     S.band(sd, licht, 54, 56, (r, y) => (r.d8 <= 3 ? null : TY.pietra_serena), 'salone_decke');
 
-    // Tragende Innenwände der Zone A (optional): 2 Wände entlang u (w = 27, 47; Abstand 20) und 2 entlang w (u = 55, 79;
-    // Abstand 24), 2 dick, y_rel 1..49, Türen 3 x 8 an den Kreuzungen. Der Turm bleibt hohl.
-    const iw = ctx.part('innenwaende_a');
-    const WL = [27, 47], UL = [55, 79];
-    const nahe = (v, list) => list.find((c) => v >= c - 1 && v < c + 1);
-    S.band(iw, g.recs.filter((r) => r.zone === 'A'), 1, 49, (r, y) => {
-      if (r.d8 <= pv.tWall(y) || r.dHm <= 8) return null;                // Außenwand samt Öffnungen und Hofgänge bleiben frei
-      const aw = nahe(r.w, WL), au = nahe(r.u, UL);
-      if (aw === undefined && au === undefined) return null;
-      if (y <= 8) {
-        if (aw !== undefined && UL.some((c) => Math.abs(r.u - c) < 1.5)) return null;
-        if (au !== undefined && WL.some((c) => Math.abs(r.w - c) < 1.5)) return null;
-      }
-      return TY.pietra_forte;
-    }, 'innenwaende_a');
+    // Ausgestaltung des Salone (pv_raeume.js): Marmorboden, Kassettenbalken
+    raeume.saloneBoden(ctx, S);
+    raeume.saloneKassettenbalken(ctx, S);
+    raeume.udienza(ctx, S);
+    raeume.saloneStatuen(ctx, S);
+    raeume.hofBrunnen(ctx, S);
+
+    // Trennwände mit Türen (Plan: pv_plan.js) und Treppen aus Treppenblöcken (pv_innen.js)
+    const innen = require('./pv_innen.js');
+    innen.waende(ctx, S);
+    for (const id of ['scalone_vasari', 'treppe_og1_og2', 'treppe_og2_dg', 'treppe_ost_eg_og1', 'treppe_ost_og1_og2', 'treppe_ost_og2_dg',
+      'treppe_wehrgang_nord', 'treppe_wehrgang_sued', 'treppe_terrasse']) innen.treppe(ctx, S, id);
+    innen.turmtreppe(ctx, S);
+    innen.aussentreppen(ctx, S);
+    // Dachluken der Wehrgangtreppen (Luft ab der Dachplatte) sind eine deklarierte Tür-Öffnung ins Freie
+    ctx.oeffnung(require('./pv_plan.js').plan(g).luken.map((c) => ({ x: c.x, y: c.y + S.bodenY, z: c.z })), 'tuer');
+
+    // Ausgestaltete Räume mit Trennwänden (pv_raeume2.js): Verkleidungen liegen an den fertigen Wänden an
+    const r2 = require('./pv_raeume2.js');
+    r2.gigli(ctx, S);
+    r2.studiolo(ctx, S);
+    r2.leoneX(ctx, S);
+    r2.carte(ctx, S);
+    r2.elementi(ctx, S);
+
+    // Letzte Stufe: Diagonalrisse der einzelligen Schichten schließen (BEGEHBARKEIT.md 1.4)
+    const vb = ctx.part('verbindungsbloecke');
+    const nv = require('./pv_risse.js').schliesse(S, vb, 'verbindungsbloecke');
+    if (process.env.PV_DEBUG) console.error('PV Verbindungsblöcke:', nv);
     if (process.env.PV_DEBUG) console.error('PV Auslassungen je Bauteil (K0):', JSON.stringify(S.skips));
   }
 };

@@ -33,25 +33,179 @@
       "fact": "Unter dieser Decke liegen die Dachböden des Palastes."
     },
     "salone_waende": {
-      "title": "Wände des Salone dei Cinquecento",
-      "description": "Der Salone misst 112 mal 52 Zellen im Außenmaß, innen 104 mal 44, das sind 52 mal 22 Meter. Die Wände sind vier Zellen dick und reichen von Y 85 bis Y 124. Innen setzt du alle acht Zellen Pfeiler aus Pietra serena. Wo die Außenwand des Palastes liegt, gewinnt sie.",
-      "tip": "Die Lage des Saales im Grundriss ist geschätzt. Das Maß ist belegt.",
-      "caution": "Die lichte Höhe beträgt 36 Zellen, das sind 18 Meter. Bau die Wände Lage für Lage mit.",
-      "fact": "Cronaca baute den Saal 1494 für den Großen Rat Savonarolas. Vasari schmückte ihn später mit den großen Gemälden."
+      "title": "Salone: Wände mit Schlachtbildern",
+      "description": "Die vier Meter dicken Wände des Salone dei Cinquecento bekommen innen Pilaster aus Pietra serena im Abstand von acht Blöcken. Dazwischen malst du große Farbfelder: auf jeder Langwand vier Schlachtbilder von Vasari, je 24 Blöcke breit und 21 hoch, mit blauem Himmel, grünen Hügeln und Kampfgetümmel in Rot, Blau, Weiß und Gelb. Die Südwand trägt ein breites Schlachtbild, die Nordwand hinter der Udienza roten Damast mit Goldstreifen. Ein goldenes Band läuft auf Y 113 um den Saal. Vier Türen verbinden den Saal mit den Flügeln.",
+      "tip": "Die Bilder laufen hinter den Pilastern durch; setze zuerst die Pilaster, dann die Farbfelder dazwischen.",
+      "caution": "Lass die Türen frei: zwei in der Westwand, zwei in der Ostwand, je 6 breit und 10 hoch.",
+      "fact": "Giorgio Vasari und seine Werkstatt malten ab 1563 die Schlachten von Florenz gegen Pisa und Siena an die Wände. Die Bilder im Modell sind stark vereinfachte Farbfelder (Stufe C). Quelle: Wikipedia (de, en, it) zum Salone dei Cinquecento; vereinfacht."
     },
     "salone_decke": {
-      "title": "Kassettendecke des Salone",
-      "description": "Auf Y 121 spannst du die Decke über den Saal, abwechselnd aus dunklem Holz und hellem Pietra serena in einem Raster von acht mal acht. Darüber folgen drei massive Lagen bis Y 124.",
-      "tip": "Das Schachbrett folgt der Fassadenrichtung.",
-      "caution": "Die Decke ist stark vereinfacht. Echte Kassetten sind viel feiner.",
-      "fact": "Vasari ließ die Decke mit 39 Feldern von Gemälden gestalten, die die Herrschaft der Medici feiern."
+      "title": "Salone: Kassettendecke",
+      "description": "Die Decke des Saals ist eine Kassettendecke aus Holzbalken im Raster von acht Blöcken. Die Felder sind in sechs Fresko-Farben bemalt, in jedem Feld sitzt eine goldene Rosette. In der Mitte hängt ein großes Bildfeld, 32 mal 20 Blöcke: die Apotheose Cosimos I. in Ringen von Weiß über Gelb und Hellblau nach Blau, mit goldenem Rahmen. Darüber liegen drei massive Lagen aus Pietra serena.",
+      "tip": "Baue die Decke von der Mitte aus; die Balken des Rasters liegen auf den Rändern der Felder.",
+      "caution": "Die Decke darf die Wandpilaster nicht überdecken.",
+      "fact": "Die Kassettendecke des Salone mit 39 Bildfeldern entstand ab 1563 unter Vasari; die Decke wurde dafür um sieben Meter erhöht. Quelle: Wikipedia (de, en, it); im Modell vereinfacht (Stufe C)."
     },
     "innenwaende_a": {
-      "title": "Tragende Innenwände (optional)",
+      "title": "Trennwände mit Türen",
       "description": "Im Arnolfo-Block ziehst du je zwei Querwände in beide Richtungen, zwei Zellen dick, von Y 69 bis Y 117. An den Kreuzungen sparst du Türen aus, drei breit und acht hoch. Der Turm bleibt hohl.",
       "tip": "Lässt du die Wände weg, sparst du rund 20.000 Blöcke.",
       "caution": "Die Lage der Wände ist eine Annahme, die den Außenwänden und Höfen ausweicht.",
       "fact": "Die Innenwände tragen die Decken und steifen den hohen Block aus."
+    },
+    "verbindungsbloecke": {
+      "title": "Verbindungsblöcke an den Fugen",
+      "description": "Zum Schluss setzt du an jede Stelle, an der zwei Mauerblöcke nur an einer Kante zusammenstoßen, einen kleinen Block aus demselben Material. Das sind vor allem die Gläser, Brüstungen und dünnen Dachschalen des gedrehten Palastes.",
+      "tip": "Suche von oben nach diagonalen Fugen: Zwei Blöcke, die sich nur an der Ecke berühren, bekommen einen dritten Block daneben.",
+      "caution": "Die Verbindungsblöcke dürfen keine Tür, keinen Treppenschacht und keinen Gang verengen; setze sie nur an die Mauerseite.",
+      "fact": "Der Palazzo Vecchio steht im Modell um 79,8 Grad gedreht im Raster; deshalb entstehen an den einzelligen Schichten Fugen, durch die man sonst hindurchsehen und -leuchten würde. Das Schließen der Fugen ist eine Vereinfachung des Modells."
+    },
+    "scalone_vasari": {
+      "title": "Scalone del Vasari",
+      "description": "Vom Erdgeschoss führt eine breite Treppe aus Treppenblöcken nach Norden hinauf zum ersten Obergeschoss: 16 Stufen, vier Blöcke breit, auf einem massiven Unterbau. Oben liegst du auf dem Boden des Salone-Geschosses.",
+      "tip": "Baue erst den Unterbau Schicht für Schicht, dann setze die Treppenblöcke mit dem Aufstieg nach Norden.",
+      "caution": "Lass im Boden des ersten Obergeschosses das Treppenloch frei, sonst stößt du dir den Kopf.",
+      "fact": "Giorgio Vasari baute 1560 bis 1565 die große Treppe zum Salone. Der Platz im Modell ist Stufe C: Er ergibt sich aus dem Grundriss und liegt im Streifen zwischen Westflügel und Salone. Quelle: Wikipedia (de, it); vereinfacht."
+    },
+    "treppe_og1_og2": {
+      "title": "Treppe zum zweiten Obergeschoss",
+      "description": "Eine gerade Treppe aus Treppenblöcken mit 17 Stufen führt vom ersten zum zweiten Obergeschoss, drei Blöcke breit, mit massivem Unterbau und Treppenloch in der Decke.",
+      "tip": "Der Aufstieg zeigt nach Süden; achte auf die Ausrichtung der Treppenblöcke.",
+      "caution": "Über jeder Stufe müssen drei Blöcke Luft bleiben.",
+      "fact": "Im Palast verbinden mehrere Treppen die Geschosse; ihre genaue Lage im Modell ist Stufe C und ergibt sich aus dem Grundriss. Quelle: Wikipedia (de); vereinfacht."
+    },
+    "treppe_og2_dg": {
+      "title": "Treppe zum Dachgeschoss",
+      "description": "Die dritte Treppe überwindet 16 Stufen vom zweiten Obergeschoss ins Dachgeschoss, drei Blöcke breit. Von dort geht es weiter zum Wehrgang.",
+      "tip": "Setze zuerst den Unterbau, dann die Stufen nach Norden.",
+      "caution": "Lass das Treppenloch in der Decke über dem zweiten Obergeschoss frei.",
+      "fact": "Das Dachgeschoss ist im Modell ein niedriger Boden unter dem Dach und führt zum Wehrgang. Stufe C; vereinfacht."
+    },
+    "treppe_ost_eg_og1": {
+      "title": "Treppe im Ostflügel: Erdgeschoss",
+      "description": "Im Ostflügel an der Dogana führt eine gerade Treppe aus Treppenblöcken mit 16 Stufen vom Erdgeschoss ins erste Obergeschoss.",
+      "tip": "Baue den massiven Unterbau Schicht für Schicht und setze die Stufen mit Aufstieg nach Norden.",
+      "caution": "Das Treppenloch in der Decke muss frei bleiben.",
+      "fact": "Der Salone trennt im Modell die Obergeschosse von West- und Ostflügel; deshalb hat der Ostflügel eigene Treppen. Lage Stufe C, vereinfacht."
+    },
+    "treppe_ost_og1_og2": {
+      "title": "Treppe im Ostflügel: erstes Obergeschoss",
+      "description": "Eine zweite Treppe mit 17 Stufen führt im Ostflügel ins zweite Obergeschoss, drei Blöcke breit.",
+      "tip": "Der Aufstieg zeigt nach Süden.",
+      "caution": "Über jeder Stufe bleiben drei Blöcke Luft.",
+      "fact": "Die Treppen im Ostflügel sind Ergänzungen des Modells für die Begehbarkeit. Stufe C, vereinfacht."
+    },
+    "treppe_ost_og2_dg": {
+      "title": "Treppe im Ostflügel: zweites Obergeschoss",
+      "description": "Die dritte Treppe im Ostflügel überwindet 16 Stufen bis ins Dachgeschoss.",
+      "tip": "Baue erst den Unterbau, dann die Treppenblöcke nach Norden.",
+      "caution": "Lass das Loch in der Decke über dem zweiten Obergeschoss frei.",
+      "fact": "Das Dachgeschoss verbindet beide Flügel; Stufe C, vereinfacht."
+    },
+    "treppe_wehrgang_nord": {
+      "title": "Aufgang zum Wehrgang, Nordseite",
+      "description": "Vom Dachgeschoss führen 7 Stufen aus Treppenblöcken, drei Blöcke breit, durch eine Dachluke hinaus auf den Wehrgang an der Westfassade, nördlich des Turms.",
+      "tip": "Die Stufen steigen nach Westen zur Fassade; die Luke ist ein Loch in Decke und Dach.",
+      "caution": "Die Luke ist eine Öffnung ins Freie: Sie bleibt Luft, die Dachziegel rundherum bleiben geschlossen.",
+      "fact": "Der Wehrgang (Ballatoio) mit den Guelfenzinnen war im Mittelalter der Verteidigungsgang des Palastes. Der Zugang im Modell ist eine Vereinfachung (Stufe C)."
+    },
+    "treppe_wehrgang_sued": {
+      "title": "Aufgang zum Wehrgang, Südseite",
+      "description": "Ein zweiter Aufgang führt südlich des Turms aus dem Dachgeschoss auf den Wehrgang. So ist der Gang an der Westfassade von beiden Seiten des Turms erreichbar.",
+      "tip": "Wie bei der Nordseite: 7 Stufen nach Westen, dann Dachluke.",
+      "caution": "Der Wehrgang selbst darf nicht zugebaut werden.",
+      "fact": "Der Turm unterbricht den Wehrgang an der Fassade; deshalb gibt es zwei Aufgänge. Stufe C, vereinfacht."
+    },
+    "turm_wendeltreppe": {
+      "title": "Wendeltreppe im Turm",
+      "description": "Im Hohlraum des Turms windet sich eine Doppelwendel aus Treppenblöcken vom Erdgeschoss bis zur Edikula. Zwei Spuren, je zwei Blöcke breit, führen im Wechsel nach Süden und Norden hinauf; an den Enden liegen Podeste aus Vollblöcken, in jedem Podest sitzt eine Seelaterne. Der Eingang liegt in der Westwand des Turms. Unterwegs erreichst du den Boden der Glockenstube und den der Edikula.",
+      "tip": "Baue die Treppe von unten: erst das Podest, dann vier Stufen mit Aufstieg in die jeweilige Richtung, dann das nächste Podest.",
+      "caution": "Lass über jeder Stufe und jedem Podest drei Blöcke Luft; die Decken des Turms haben dafür Löcher.",
+      "fact": "Die echte Turmtreppe des Arnolfo-Turms ist eng und steil. Die Doppelwendel mit Podesten ist eine Vereinfachung des Modells (Stufe C); Quelle: Wikipedia (de, en) zum Torre di Arnolfo."
+    },
+    "aussentreppen": {
+      "title": "Treppen vor den Portalen",
+      "description": "Wo das Gelände vor einem Portal tiefer liegt als der Fußboden des Palastes, führen Stufen aus Treppenblöcken hinauf: bis zu drei Stufen vor der Mauer, der Rest im Portal. Jede Stufenreihe folgt dem Mauerrand, damit sie bündig anschließt. Das Via-dei-Leoni-Portal im Osten braucht sechs Stufen, die kleine Tür im Süden und die Dogana-Tür je zwei.",
+      "tip": "Setze die Stufen reihenweise von außen nach innen; der Aufstieg zeigt zum Haus.",
+      "caution": "Die Stufen dürfen nicht weiter als drei Blöcke vor die Mauer reichen.",
+      "fact": "Der Palast steht auf einem Sockel, das Straßenniveau liegt an den Seiten tiefer als an der Piazza. Die Höhen stammen aus dem Geländemodell der Stadt; die Stufen sind eine Vereinfachung (Stufe C)."
+    },
+    "salone_boden": {
+      "title": "Salone: Marmorboden",
+      "description": "Auf Y 84 legst du den Boden des Saals aus einem Schachbrett: Quadrate von vier mal vier Blöcken aus weißem Marmor und grauer Pietra serena. Ein roter Marmorrand läuft um den Saal, ein roter Streifen längs der Mitte. In den Boden sind Seelaternen eingelassen.",
+      "tip": "Beginne an einer Ecke und lege die Quadrate im Wechsel.",
+      "caution": "Lass die eingelassenen Laternen nicht aus, sonst ist der Saal dunkel.",
+      "fact": "Der Boden des Salone besteht im Original aus Terrakotta und Marmor. Das Schachbrett im Modell ist eine Vereinfachung (Stufe C). Quelle: Wikipedia (de, en); vereinfacht."
+    },
+    "salone_kassettenbalken": {
+      "title": "Salone: hängende Kassettenbalken",
+      "description": "Unter der Decke hängen die Balken der Kassetten eine Lage tief herab, an den Kreuzungen sitzen goldene Knoten. So wirkt die Decke plastisch.",
+      "tip": "Hänge die Balken erst an, wenn die Decke fertig ist; sie liegen genau unter den Holzrändern.",
+      "caution": "Die Balken enden vor den Wandpilastern.",
+      "fact": "Plastische Kassetten mit vergoldeten Rahmen kennzeichnen die Decke des Salone. Quelle: Wikipedia (de, en, it); vereinfacht."
+    },
+    "michelozzo_brunnen": {
+      "title": "Putto-Brunnen im Michelozzo-Hof",
+      "description": "In die Mitte des Hofes setzt du ein rundes Becken: einen Rand aus weißem Marmor, zwei Blöcke hoch, innen Wasser. In der Mitte steht ein Sockel mit einem Schaft und einer Schale, darauf ein kleiner Putto aus Bronze mit einem Delphin im Arm.",
+      "tip": "Baue erst den Rand des Beckens, dann das Mittelstück von unten nach oben und zuletzt das Wasser.",
+      "caution": "Das Wasser darf nicht über den Rand reichen.",
+      "fact": "Der Putto mit dem Delphin von Andrea del Verrocchio (um 1470) ist das Wahrzeichen des Hofes; heute steht im Hof eine Kopie, das Original im Palast. Quelle: Wikipedia (de, en, it); die Figur ist eine stark vereinfachte Blockfigur."
+    },
+    "salone_udienza": {
+      "title": "Salone: Udienza-Podium",
+      "description": "An der Nordseite des Saals erhebt sich die Udienza, ein Podium aus Pietra serena und Marmor, drei Blöcke hoch und acht tief. Eine dreistufige Freitreppe aus Treppenblöcken führt in der Mitte hinauf; die Oberkante ist mit einem Streifenmuster aus weißem und rotem Marmor belegt, vorn läuft ein Goldrand. Drei Seelaternen sind in die Oberfläche eingelassen.",
+      "tip": "Setze zuerst die drei Lagen des Podiums, dann den Marmorbelag, zuletzt die Stufen vor der Vorderkante.",
+      "caution": "Die Vorderkante des Podiums folgt der gedrehten Wand: Baue die Stufen Spalte für Spalte an der Kante.",
+      "fact": "Die Udienza ist die erhöhte Bühne, von der aus Cosimo I. de Medici im Salone Audienzen hielt; Baccio Bandinelli schuf die Statuen in den Nischen. Das Podium im Modell ist vereinfacht (Stufe C). Quelle: Wikipedia (de, en, it) zum Salone dei Cinquecento."
+    },
+    "salone_statuen": {
+      "title": "Salone: Statuenreihe und Genius des Sieges",
+      "description": "Im Saal stehen Marmorstatuen als vereinfachte Blockfiguren auf Sockeln aus Pietra serena: fünf auf der Udienza (Medici-Päpste und Fürsten), je sechs vor den Langwänden (die Taten des Herkules) und der Genius des Sieges: ein Sieger über einem Besiegten auf gemeinsamem Sockel aus Kalzit-Marmor mit goldenem Namensschild an der Ostwand.",
+      "tip": "Jede Figur ist drei Blöcke breit; setze erst den Sockel, dann Beine, Rumpf, Kopf und Arme.",
+      "caution": "Die Sockel dürfen keine Tür und keinen Durchgang versperren.",
+      "fact": "Die zwölf Herkules-Statuen schuf Vincenzo de Rossi um 1560; der Genius des Sieges von Michelangelo (um 1534) steht seit 1868 im Salone. Quelle: Wikipedia (de, en, it); die Figuren sind stark vereinfachte Blockfiguren, nicht nach Vorbild (Stufe C)."
+    },
+    "sala_dei_gigli": {
+      "title": "Sala dei Gigli",
+      "description": "Die Sala dei Gigli (Lilien-Saal) liegt im ersten Obergeschoss nördlich der Quartiere. Wände und Decke sind blau mit goldenen Lilien im Raster von sechs Blöcken, unten läuft eine Holztäfelung, oben ein Goldband. Ein langer Tisch aus dunklem Holz mit einer Bank steht in der Mitte, daneben auf einem Sockel Donatellos Judith aus Bronze (Blockfigur).",
+      "tip": "Setze die Lilien als Muster aus fünf mal vier Blöcken; die Decke hängt als eine Lage unter der Geschossplatte.",
+      "caution": "Der Tisch ist nur eine Lage hoch, damit man ihn überqueren kann.",
+      "fact": "Der Saal hat seinen Namen von den goldenen Lilien auf blauem Grund an der Decke (Giuliano und Benedetto da Maiano, 15. Jahrhundert); Ghirlandaios Fresko des heiligen Zenobius und Donatellos Judith gehören zur Ausstattung. Die Lage im Grundriss ist Stufe C (begründet aus dem Raumprogramm um die Udienza), die Bilder sind vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "studiolo_francesco": {
+      "title": "Studiolo Francesco I.",
+      "description": "Das Studiolo ist ein kleiner Raum im ersten Obergeschoss, zehn mal zehn Blöcke groß. Seine Wände sind dicht an dicht mit Bildtafeln besetzt: Felder in acht Fresko-Farben mit Holzrahmen und goldenen Beschlägen. Darüber schließt ein blau bemaltes Tonnengewölbe mit goldenen Sternen den Raum. Ein kleiner Schreibtisch mit Stuhl steht in der Mitte.",
+      "tip": "Baue die Tafeln im Raster von vier mal vier Blöcken; das Gewölbe steigt von den Rändern bis zur Mitte um fünf Lagen.",
+      "caution": "Das Gewölbe darf die Tür nicht verengen.",
+      "fact": "Francesco I. de Medici ließ das Studiolo ab 1570 nach einem Programm von Vincenzo Borghini durch Vasari und viele Maler ausstatten; die Bildtafeln verschließen Schränke mit Kunstkammer-Stücken. Der Raum liegt im Modell an einer plausiblen Stelle (Stufe C), die Bilder sind Farbfelder, vereinfacht. Quelle: Wikipedia (de, en, it)."
+    },
+    "sala_carte_geografiche": {
+      "title": "Sala delle Carte Geografiche",
+      "description": "Im zweiten Obergeschoss ist ein großer Saal ganz mit Schränken ausgekleidet. Auf den Türen sitzen Landkarten als Farbfelder (Meer hellblau, Land grün und braun, Küstenlinien weiß). Mitten im Raum steht auf einem Holzsockel ein Globus von neun Blöcken Durchmesser: Meere blau, Kontinente grün und braun, goldener Äquator und weiße Polkappe.",
+      "tip": "Baue den Globus von unten nach oben Schicht für Schicht; jede Lage ist ein Kreis, der erst größer und dann kleiner wird.",
+      "caution": "Der Globus steht frei: Lass den Sockel nicht aus, sonst hat er keinen Halt.",
+      "fact": "Cosimo I. ließ ab 1563 die Guardaroba mit Schränken und etwa 53 Landkarten von Egnazio Danti ausstatten, dazu einen riesigen Globus. Die Lage im Palast ist im Modell Stufe C, die Karten sind vereinfachte Farbfelder, der Globus ist stark vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "quartiere_leone_x": {
+      "title": "Quartiere di Leone X",
+      "description": "Im ersten Obergeschoss an der Piazza liegt das Quartiere di Leone X: ein schlichter Saal mit Holztäfelung, goldenem Band und weißen Wänden. Die Decke trägt Medaillons in Rot, Blau und Gelb im Raster von neun Blöcken, getrennt durch Holzleisten.",
+      "tip": "Die Decke hängt als eine Lage unter der Geschossplatte; setze die Medaillons als Kreise mit Goldrand.",
+      "caution": "Die Tür zum Nachbarsaal muss frei bleiben.",
+      "fact": "Die Räume sind nach Papst Leo X. (Giovanni de Medici) benannt und von Vasari und seiner Werkstatt ausgemalt. Ihre genaue Lage im Modell ist Stufe C (begründet aus der Reihe der Räume zur Piazza), die Fresken sind schlicht und vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "quartiere_elementi": {
+      "title": "Quartiere degli Elementi",
+      "description": "Im zweiten Obergeschoss über dem Quartiere di Leone X liegt das Quartiere degli Elementi. Die Decke ist in vier Felder geteilt, jedes mit einem goldumrandeten Medaillon: Feuer (Orange und Rot), Wasser (Hellblau und Blau), Erde (Grün und Braun) und Luft (Weiß und Hellblau). Die Wände tragen unten eine Holztäfelung und ein Goldband.",
+      "tip": "Teile die Decke in vier gleiche Felder und setze in jedes Feld den Kreis mit Goldrand.",
+      "caution": "Die Decke ist nur eine Lage dick; achte auf die Türen in den Wänden.",
+      "fact": "Das Quartiere degli Elementi schmückte Vasari mit Allegorien der vier Elemente. Die Lage im Palast ist im Modell Stufe C, die Fresken sind schlichte Farbfelder, vereinfacht. Quelle: Wikipedia (de, en, it); musefirenze.it."
+    },
+    "treppe_terrasse": {
+      "title": "Aufgang zur Dachterrasse",
+      "description": "Im Dachgeschoss über dem Mittelbau führt eine Treppe aus Treppenblöcken, acht Stufen hoch und drei Blöcke breit, durch eine Luke auf die flache Dachterrasse. Dort steht rundum eine niedrige Brüstung.",
+      "tip": "Setze den massiven Unterbau, dann die acht Stufen nach Norden; die Luke ist ein Loch in zwei Platten.",
+      "caution": "Die Luke ist eine Öffnung ins Freie und bleibt Luft.",
+      "fact": "Der Mittelbau trägt im Modell ein Flachdach mit Brüstung (Terrazza). Der Aufgang ist eine Ergänzung für die Begehbarkeit, Stufe C, vereinfacht. Quelle: Wikipedia (de, en) zum Palazzo Vecchio."
     }
   }
 }

@@ -26,7 +26,7 @@ module.exports = {
       // ex > ey: Schmalseite (Position w), sonst Langseite (Position u); Ecke = beide überschritten
       ring3.push({ x, z, u: l.u, w: l.w, off: off.get(x * 8192 + z), ecke: ex > 0 && ey > 0, pos: ex > ey ? l.w : l.u });
     }
-    const bandT = g.recs.filter((r) => r.zone === 'T' && r.dT <= 4);
+    const bandT = g.turmBand;
 
     // 1) Konsolfries y_rel 145..152; Rückwand = Schaft (ergänzt, der Katalog nennt das Wandband in 145..152 nicht)
     const kon = ctx.part('turm_konsolen');
@@ -55,13 +55,20 @@ module.exports = {
     for (let y = 159; y <= 160; y++) {
       for (const c of bru) {
         const ph = frac(c.pos / 5);
-        if (!(c.ecke || ph < 0.6)) continue;
+        if (!(c.ecke || ph < 0.6)) { S.note('scharte', c.x, y, c.z); continue; }
         if (y === 160 && !c.ecke && ph >= 0.2 && ph < 0.4) continue;      // Schwalbenschwanz
         S.put(bal, c.x, y, c.z, TY.pietra_forte, 'turm_ballatoio');
       }
     }
 
-    // 3) Glockenstube: Wand T (Band 4) mit vier Spitzbogenöffnungen 3 x 6 (y 154..159), Innenboden und drei Glocken
+    // Luft unter dem Turm-Ballatoio über dem Palastdach: offener Raum um den Schaft (der Prüfer zählt sie als Luft unter einer festen Zelle)
+    for (const c of ring3) {
+      if (!g.M.innen(c.x, c.z)) continue;
+      for (let y = 57; y <= 152; y++) if (!S.has(c.x, y, c.z)) S.note('loggia', c.x, y, c.z);
+    }
+    S.flush();
+
+    // 3) Glockenstube: Wand T (Band 4) mit vier Spitzbogenöffnungen 3 x 6 (y 154..159), Innenboden (die drei Glocken hängen im Bauteil glocken)
     const gl = ctx.part('glockenstube');
     const offen = (r, y) => {
       if (y < 154 || y > 159) return false;
@@ -69,13 +76,9 @@ module.exports = {
       const d = dw < du ? Math.abs(r.u - TUC) : Math.abs(r.w - TWC);
       return d < (y <= 157 ? 1.5 : 0.5);
     };
-    S.band(gl, bandT, 153, 160, (r, y) => (offen(r, y) ? null : TY.pietra_forte), 'glockenstube');
+    S.band(gl, bandT, 153, 160, (r, y) => { if (offen(r, y)) { S.note('loggia', r.x, y, r.z); return null; } return TY.pietra_forte; }, 'glockenstube');
     const innen = g.recs.filter((r) => r.zone === 'T' && r.dT > 4);
-    S.band(gl, innen, 153, 153, () => TY.pietra_forte, 'glockenstube');      // Boden der Glockenstube (trägt die Glocken)
-    for (const du of [-4, 0, 4]) {
-      const zellen = innen.filter((r) => r.u >= TUC + du - 1 && r.u < TUC + du + 1 && r.w >= TWC - 1 && r.w < TWC + 1);
-      for (let y = 154; y <= 156; y++) for (const r of zellen) S.put(gl, r.x, y, r.z, TY.bronze, 'glockenstube');
-    }
+    S.band(gl, innen, 153, 153, () => TY.pietra_forte, 'glockenstube');      // Boden der Glockenstube (Zugang: Wendeltreppe aus Modul 9, Loch im Boden)
 
     // 4) Edikula y_rel 161..176 auf T-3: Boden, vier Eckpfeiler 2 x 2, Rundbögen (Kämpfer 171, Scheitel 175)
     const ed = ctx.part('edikula');
@@ -101,16 +104,31 @@ module.exports = {
     for (let y = 162; y <= 176; y++) {
       for (const c of e3) {
         if (eckP(c)) { S.put(ed, c.x, y, c.z, y === 169 || y === 170 ? TY.marmor_ornament : TY.pietra_serena, 'edikula'); continue; }
-        if (c.d !== 1 || offenBogen(c, y)) continue;
+        if (c.d !== 1) continue;
+        if (offenBogen(c, y)) { S.note('loggia', c.x, y, c.z); continue; }
         S.put(ed, c.x, y, c.z, TY.pietra_serena, 'edikula');
       }
     }
 
-    // 5) Turmdach y_rel 177..184: Pyramide über T-2 (Anstieg 1 je Lage), darüber Stange
+    S.flush();
+
+    // 4b) Drei Glocken (Bronze, Goldrand), hängen von der Decke der Glockenstube (Edikula-Boden y_rel 161) im Vorraum der Treppe
+    const gk = ctx.part('glocken');
+    const glocke = (x0, z0, hoehe) => {
+      S.put(gk, x0, 160, z0, TY.bronze, 'glocken');                                   // Aufhängung
+      for (let y = 160 - hoehe + 1; y <= 159; y++) {
+        for (let dx = 0; dx < 2; dx++) for (let dz = 0; dz < 2; dz++) S.put(gk, x0 + dx, y, z0 + dz, y === 160 - hoehe + 1 ? TY.gold : TY.bronze, 'glocken');
+      }
+    };
+    glocke(-134, 848, 4);     // große Glocke
+    glocke(-132, 850, 3);     // mittlere Glocke
+    glocke(-135, 850, 2);     // kleine Glocke
+
+    // 5) Turmdach y_rel 177..184: Pyramide über T-3 (bündig mit der Edikula-Wand, kein Traufüberstand: sonst entsteht unter der Traufe eine undichte Innenluft, R14), darüber Stange
     const dach = ctx.part('turmdach');
     let top = null;
     for (let k = 0; k < 8; k++) {
-      const m = t.erode(2 + k);
+      const m = t.erode(3 + k);
       if (!m.size) break;
       for (const [x, z] of m.cells) S.put(dach, x, 177 + k, z, TY.dachziegel, 'turmdach');
       top = { k, m };
@@ -125,5 +143,14 @@ module.exports = {
     for (let dx = 0; dx < 2; dx++) for (let dz = 0; dz < 2; dz++) S.put(fa, st.x + dx, 185, st.z + dz, TY.bronze, 'marzocco_fahne');
     for (let y = 186; y <= 187; y++) for (let dx = 0; dx < 2; dx++) for (let dz = 0; dz < 3; dz++) S.put(fa, st.x + dx, y, st.z + dz, TY.bronze, 'marzocco_fahne');
     S.put(fa, st.x, 188, st.z + 2, TY.bronze, 'marzocco_fahne');
+    // Sockel: jede Fahnensäule steht massiv auf dem Dach (sonst entstünde unter dem Überhang eine undichte Innenluft, R14)
+    for (let dx = 0; dx < 2; dx++) {
+      for (let dz = 0; dz < 3; dz++) {
+        const x = st.x + dx, z = st.z + dz;
+        let y = 184;
+        while (y >= 150 && !S.has(x, y, z)) y--;
+        for (let q = y + 1; q <= 185; q++) S.put(fa, x, q, z, TY.bronze, 'marzocco_fahne');
+      }
+    }
   }
 };

@@ -26,6 +26,6 @@ module.exports = {
       for (let Y = top(c.x, c.z) + 1; Y <= REL - 1; Y++) S.put(sockel, c.x, Y - REL, c.z, TY.pietra_forte_rustika, 'sockel_rustika');
     }
     const platte = ctx.part('bodenplatte');
-    for (const c of cols) S.put(platte, c.x, 0, c.z, c.d8 >= 1 && c.d8 <= 5 ? TY.pietra_forte_bruch : TY.pflaster, 'bodenplatte');
+    for (const c of cols) S.put(platte, c.x, 0, c.z, S.lampe(c.x, 0, c.z) ? TY.licht : c.d8 >= 1 && c.d8 <= 5 ? TY.pietra_forte_bruch : TY.pflaster, 'bodenplatte');
   }
 };

@@ -8,50 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 57.577 |
-| Bauschritte | 37 |
+| Blöcke | 56.766 |
+| Bauschritte | 36 |
 | Y-Bereich | 69 bis 85 |
 | X-Ausdehnung | -146 bis 100 (247 Blöcke) |
 | Z-Ausdehnung | 799 bis 969 (171 Blöcke) |
-| Kleinster Schritt | 1.310 Blöcke (Schritt 1.6) |
-| Mittlerer Schritt | 1.556 Blöcke |
-| Größter Schritt | 2.084 Blöcke (Schritt 1.24) |
+| Kleinster Schritt | 1.358 Blöcke (Schritt 1.10) |
+| Mittlerer Schritt | 1.577 Blöcke |
+| Größter Schritt | 2.096 Blöcke (Schritt 1.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 53.691 | 93,3 % |
-| Polierter Andesit | `polished_andesite` | 1.612 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 1.124 | 2,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 715 | 1,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 53.610 | 94,4 % |
+| Polierter Andesit | `polished_andesite` | 1.609 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 1.121 | 2,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 263 | 0,5 % |
-| Glatter Stein | `smooth_stone` | 157 | 0,3 % |
+| Glatter Stein | `smooth_stone` | 148 | 0,3 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 15 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `eg_wand_west` | Westfassade zur Piazza | 6.741 | 1.1–1.4 |
-| 2 | `eg_wand_nord_sued_a` | Nord- und Südseite des Arnolfo-Blocks | 9.964 | 1.5–1.10 |
-| 3 | `eg_wand_mittelbauten` | Mauern der Anbauten | 40.826 | 1.11–1.37 |
-| 4 | `eg_dogana_tuer` | Dogana-Tür (optional) | 46 | 1.37 |
+| 1 | `eg_wand_west` | Westfassade zur Piazza | 6.411 | 1.1–1.4 |
+| 2 | `eg_wand_nord_sued_a` | Nord- und Südseite des Arnolfo-Blocks | 9.770 | 1.5–1.9 |
+| 3 | `eg_wand_mittelbauten` | Mauern der Anbauten | 40.539 | 1.10–1.36 |
+| 4 | `eg_dogana_tuer` | Dogana-Tür (optional) | 46 | 1.36 |
 
 ## Bauschritte
 
 ### Schritt 1.1 – Westfassade zur Piazza – Teil 1/4 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.816
+- **Blöcke:** 1.688
 - **Bauteile:** `eg_wand_west`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.700 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 1.652 |
 | Glatter Quarzblock | `smooth_quartz` | 36 |
 
 **Beschreibung**
@@ -73,17 +71,16 @@ Das Portal mit Marmorrahmen stammt von 1528 und wird von zwei Termen gerahmt. Di
 ### Schritt 1.2 – Westfassade zur Piazza – Teil 2/4 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.498
+- **Blöcke:** 1.379
 - **Bauteile:** `eg_wand_west`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.199 |
-| Polierter Andesit | `polished_andesite` | 102 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 1.166 |
+| Polierter Andesit | `polished_andesite` | 99 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
 | Glatter Quarzblock | `smooth_quartz` | 36 |
 
 **Beschreibung**
@@ -105,7 +102,7 @@ Das Portal mit Marmorrahmen stammt von 1528 und wird von zwei Termen gerahmt. Di
 ### Schritt 1.3 – Westfassade zur Piazza – Teil 3/4 (Y 77–81)
 
 - **Y-Bereich:** 77 bis 81
-- **Blöcke:** 1.979
+- **Blöcke:** 1.896
 - **Bauteile:** `eg_wand_west`
 
 **Teileliste**
@@ -114,8 +111,7 @@ Das Portal mit Marmorrahmen stammt von 1528 und wird von zwei Termen gerahmt. Di
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.653 |
 | Polierter Andesit | `polished_andesite` | 102 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 80 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
 | Glatter Quarzblock | `smooth_quartz` | 63 |
 
 **Beschreibung**
@@ -164,10 +160,10 @@ Die Wappentafel reicht bis in die erste Lage des Obergeschosses. Setze sie jetzt
 
 Das Portal mit Marmorrahmen stammt von 1528 und wird von zwei Termen gerahmt. Die Zahl von neun Fensterachsen leiten wir aus den 18 Konsolbögen ab und sie ist nicht gezählt.
 
-### Schritt 1.5 – Nord- und Südseite des Arnolfo-Blocks – Teil 1/6 (Y 69–71)
+### Schritt 1.5 – Nord- und Südseite des Arnolfo-Blocks – Teil 1/5 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.965
+- **Blöcke:** 1.902
 - **Bauteile:** `eg_wand_nord_sued_a`
 
 **Teileliste**
@@ -175,7 +171,6 @@ Das Portal mit Marmorrahmen stammt von 1528 und wird von zwei Termen gerahmt. Di
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.875 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 63 |
 | Glatter Quarzblock | `smooth_quartz` | 18 |
 | Polierter Andesit | `polished_andesite` | 9 |
 
@@ -195,51 +190,19 @@ Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der 
 
 Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
 
-### Schritt 1.6 – Nord- und Südseite des Arnolfo-Blocks – Teil 2/6 (Y 72–73)
+### Schritt 1.6 – Nord- und Südseite des Arnolfo-Blocks – Teil 2/5 (Y 72–74)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.310
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 1.773
 - **Bauteile:** `eg_wand_nord_sued_a`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.194 |
-| Polierter Andesit | `polished_andesite` | 62 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 42 |
-| Glatter Quarzblock | `smooth_quartz` | 12 |
-
-**Beschreibung**
-
-Auch die beiden Längsseiten des Arnolfo-Blocks sind Rustika, fünf Zellen dick. An der Nordseite zur Via dei Gondi öffnest du das Tramontana-Portal, sechs breit und zehn hoch, mit Marmorrahmen und einem Tympanon darüber. An der Südseite zur Via della Ninna sitzt eine kleine Tür, drei breit und sechs hoch.
-
-**Tipp**
-
-Die Fenster haben dieselbe Teilung von zehn Zellen wie an der Westfassade. Der Rest der Kante bleibt an den Enden.
-
-**Achtung**
-
-Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der dritten und vierten Zelle von außen.
-
-**Fakt**
-
-Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
-
-### Schritt 1.7 – Nord- und Südseite des Arnolfo-Blocks – Teil 3/6 (Y 74–76)
-
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.608
-- **Bauteile:** `eg_wand_nord_sued_a`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.357 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Polierter Andesit | `polished_andesite` | 88 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
+| Tuffsteinziegel | `tuff_bricks` | 1.634 |
+| Polierter Andesit | `polished_andesite` | 91 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
 | Glatter Quarzblock | `smooth_quartz` | 18 |
 
 **Beschreibung**
@@ -258,21 +221,20 @@ Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der 
 
 Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
 
-### Schritt 1.8 – Nord- und Südseite des Arnolfo-Blocks – Teil 4/6 (Y 77–79)
+### Schritt 1.7 – Nord- und Südseite des Arnolfo-Blocks – Teil 3/5 (Y 75–78)
 
-- **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.641
+- **Y-Bereich:** 75 bis 78
+- **Blöcke:** 2.096
 - **Bauteile:** `eg_wand_nord_sued_a`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.407 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Polierter Andesit | `polished_andesite` | 78 |
-| Glatter Quarzblock | `smooth_quartz` | 32 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
+| Tuffsteinziegel | `tuff_bricks` | 1.841 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Polierter Andesit | `polished_andesite` | 111 |
+| Glatter Quarzblock | `smooth_quartz` | 24 |
 
 **Beschreibung**
 
@@ -290,9 +252,40 @@ Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der 
 
 Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
 
-### Schritt 1.9 – Nord- und Südseite des Arnolfo-Blocks – Teil 5/6 (Y 80–82)
+### Schritt 1.8 – Nord- und Südseite des Arnolfo-Blocks – Teil 4/5 (Y 79–81)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 79 bis 81
+- **Blöcke:** 1.935
+- **Bauteile:** `eg_wand_nord_sued_a`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 1.786 |
+| Polierter Andesit | `polished_andesite` | 82 |
+| Glatter Quarzblock | `smooth_quartz` | 37 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+
+**Beschreibung**
+
+Auch die beiden Längsseiten des Arnolfo-Blocks sind Rustika, fünf Zellen dick. An der Nordseite zur Via dei Gondi öffnest du das Tramontana-Portal, sechs breit und zehn hoch, mit Marmorrahmen und einem Tympanon darüber. An der Südseite zur Via della Ninna sitzt eine kleine Tür, drei breit und sechs hoch.
+
+**Tipp**
+
+Die Fenster haben dieselbe Teilung von zehn Zellen wie an der Westfassade. Der Rest der Kante bleibt an den Enden.
+
+**Achtung**
+
+Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der dritten und vierten Zelle von außen.
+
+**Fakt**
+
+Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
+
+### Schritt 1.9 – Nord- und Südseite des Arnolfo-Blocks – Teil 5/5 (Y 82–84)
+
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 2.064
 - **Bauteile:** `eg_wand_nord_sued_a`
 
@@ -300,9 +293,8 @@ Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraf
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.987 |
-| Polierter Andesit | `polished_andesite` | 56 |
-| Glatter Quarzblock | `smooth_quartz` | 21 |
+| Tuffsteinziegel | `tuff_bricks` | 2.060 |
+| Glatter Quarzblock | `smooth_quartz` | 4 |
 
 **Beschreibung**
 
@@ -320,45 +312,17 @@ Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der 
 
 Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
 
-### Schritt 1.10 – Nord- und Südseite des Arnolfo-Blocks – Teil 6/6 (Y 83–84)
-
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.376
-- **Bauteile:** `eg_wand_nord_sued_a`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.376 |
-
-**Beschreibung**
-
-Auch die beiden Längsseiten des Arnolfo-Blocks sind Rustika, fünf Zellen dick. An der Nordseite zur Via dei Gondi öffnest du das Tramontana-Portal, sechs breit und zehn hoch, mit Marmorrahmen und einem Tympanon darüber. An der Südseite zur Via della Ninna sitzt eine kleine Tür, drei breit und sechs hoch.
-
-**Tipp**
-
-Die Fenster haben dieselbe Teilung von zehn Zellen wie an der Westfassade. Der Rest der Kante bleibt an den Enden.
-
-**Achtung**
-
-Tür und Portal gehen durch die volle Wanddicke. Die Holztür sitzt erst in der dritten und vierten Zelle von außen.
-
-**Fakt**
-
-Die ganze Fassade des Arnolfo-Blocks ist bis zur Traufe aus rustiziertem Pietraforte gemauert, so wie ein wehrhafter Stadtpalast des Mittelalters.
-
-### Schritt 1.11 – Mauern der Anbauten – Teil 1/27 (Y 69–69)
+### Schritt 1.10 – Mauern der Anbauten – Teil 1/27 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.375
+- **Blöcke:** 1.358
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.375 |
+| Tuffsteinziegel | `tuff_bricks` | 1.358 |
 
 **Beschreibung**
 
@@ -376,19 +340,18 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.12 – Mauern der Anbauten – Teil 2/27 (Y 69–69)
+### Schritt 1.11 – Mauern der Anbauten – Teil 2/27 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.376
+- **Blöcke:** 1.366
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.347 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Tuffsteinziegel | `tuff_bricks` | 1.364 |
+| Glatter Stein | `smooth_stone` | 2 |
 
 **Beschreibung**
 
@@ -406,17 +369,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.13 – Mauern der Anbauten – Teil 3/27 (Y 70–70)
+### Schritt 1.12 – Mauern der Anbauten – Teil 3/27 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.375
+- **Blöcke:** 1.358
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.375 |
+| Tuffsteinziegel | `tuff_bricks` | 1.358 |
 
 **Beschreibung**
 
@@ -434,19 +397,18 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.14 – Mauern der Anbauten – Teil 4/27 (Y 70–70)
+### Schritt 1.13 – Mauern der Anbauten – Teil 4/27 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.376
+- **Blöcke:** 1.368
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.347 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Tuffsteinziegel | `tuff_bricks` | 1.364 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -464,17 +426,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.15 – Mauern der Anbauten – Teil 5/27 (Y 71–71)
+### Schritt 1.14 – Mauern der Anbauten – Teil 5/27 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.375
+- **Blöcke:** 1.358
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.375 |
+| Tuffsteinziegel | `tuff_bricks` | 1.358 |
 
 **Beschreibung**
 
@@ -492,19 +454,18 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.16 – Mauern der Anbauten – Teil 6/27 (Y 71–71)
+### Schritt 1.15 – Mauern der Anbauten – Teil 6/27 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.376
+- **Blöcke:** 1.370
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.347 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Tuffsteinziegel | `tuff_bricks` | 1.364 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -522,17 +483,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.17 – Mauern der Anbauten – Teil 7/27 (Y 72–72)
+### Schritt 1.16 – Mauern der Anbauten – Teil 7/27 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.375
+- **Blöcke:** 1.358
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.375 |
+| Tuffsteinziegel | `tuff_bricks` | 1.358 |
 
 **Beschreibung**
 
@@ -550,18 +511,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.18 – Mauern der Anbauten – Teil 8/27 (Y 72–72)
+### Schritt 1.17 – Mauern der Anbauten – Teil 8/27 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.376
+- **Blöcke:** 1.371
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.347 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 1.364 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -580,17 +540,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.19 – Mauern der Anbauten – Teil 9/27 (Y 73–73)
+### Schritt 1.18 – Mauern der Anbauten – Teil 9/27 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.375
+- **Blöcke:** 1.358
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.375 |
+| Tuffsteinziegel | `tuff_bricks` | 1.358 |
 
 **Beschreibung**
 
@@ -608,18 +568,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.20 – Mauern der Anbauten – Teil 10/27 (Y 73–73)
+### Schritt 1.19 – Mauern der Anbauten – Teil 10/27 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.376
+- **Blöcke:** 1.371
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.347 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 1.364 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -638,18 +597,18 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.21 – Mauern der Anbauten – Teil 11/27 (Y 74–74)
+### Schritt 1.20 – Mauern der Anbauten – Teil 11/27 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.375
+- **Blöcke:** 1.358
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.255 |
-| Polierter Andesit | `polished_andesite` | 120 |
+| Tuffsteinziegel | `tuff_bricks` | 1.239 |
+| Polierter Andesit | `polished_andesite` | 119 |
 
 **Beschreibung**
 
@@ -667,19 +626,18 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.22 – Mauern der Anbauten – Teil 12/27 (Y 74–74)
+### Schritt 1.21 – Mauern der Anbauten – Teil 12/27 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.376
+- **Blöcke:** 1.371
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.197 |
-| Polierter Andesit | `polished_andesite` | 150 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 1.213 |
+| Polierter Andesit | `polished_andesite` | 151 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -698,10 +656,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.23 – Mauern der Anbauten – Teil 13/27 (Y 75–75)
+### Schritt 1.22 – Mauern der Anbauten – Teil 13/27 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 2.074
+- **Blöcke:** 2.055
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -709,9 +667,8 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.778 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Polierter Andesit | `polished_andesite` | 113 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -730,10 +687,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.24 – Mauern der Anbauten – Teil 14/27 (Y 76–76)
+### Schritt 1.23 – Mauern der Anbauten – Teil 14/27 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 2.084
+- **Blöcke:** 2.065
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -741,9 +698,8 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.786 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Polierter Andesit | `polished_andesite` | 115 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -762,10 +718,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.25 – Mauern der Anbauten – Teil 15/27 (Y 77–77)
+### Schritt 1.24 – Mauern der Anbauten – Teil 15/27 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 2.084
+- **Blöcke:** 2.065
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -773,9 +729,8 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.786 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Polierter Andesit | `polished_andesite` | 115 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -794,10 +749,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.26 – Mauern der Anbauten – Teil 16/27 (Y 78–78)
+### Schritt 1.25 – Mauern der Anbauten – Teil 16/27 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 2.084
+- **Blöcke:** 2.065
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -805,9 +760,8 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.786 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Polierter Andesit | `polished_andesite` | 115 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -826,10 +780,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.27 – Mauern der Anbauten – Teil 17/27 (Y 79–79)
+### Schritt 1.26 – Mauern der Anbauten – Teil 17/27 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 2.084
+- **Blöcke:** 2.065
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -837,9 +791,8 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.786 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 157 |
 | Polierter Andesit | `polished_andesite` | 115 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -858,7 +811,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.28 – Mauern der Anbauten – Teil 18/27 (Y 80–80)
+### Schritt 1.27 – Mauern der Anbauten – Teil 18/27 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.377
@@ -887,10 +840,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.29 – Mauern der Anbauten – Teil 19/27 (Y 80–80)
+### Schritt 1.28 – Mauern der Anbauten – Teil 19/27 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.393
+- **Blöcke:** 1.373
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -899,7 +852,6 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.217 |
 | Polierter Andesit | `polished_andesite` | 151 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
 | Glatter Stein | `smooth_stone` | 5 |
 
 **Beschreibung**
@@ -918,17 +870,17 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.30 – Mauern der Anbauten – Teil 20/27 (Y 81–81)
+### Schritt 1.29 – Mauern der Anbauten – Teil 20/27 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.394
+- **Blöcke:** 1.377
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.394 |
+| Tuffsteinziegel | `tuff_bricks` | 1.377 |
 
 **Beschreibung**
 
@@ -946,7 +898,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.31 – Mauern der Anbauten – Teil 21/27 (Y 81–81)
+### Schritt 1.30 – Mauern der Anbauten – Teil 21/27 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.378
@@ -956,8 +908,7 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.355 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 17 |
+| Tuffsteinziegel | `tuff_bricks` | 1.372 |
 | Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
@@ -976,7 +927,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.32 – Mauern der Anbauten – Teil 22/27 (Y 82–82)
+### Schritt 1.31 – Mauern der Anbauten – Teil 22/27 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.388
@@ -1004,10 +955,10 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.33 – Mauern der Anbauten – Teil 23/27 (Y 82–82)
+### Schritt 1.32 – Mauern der Anbauten – Teil 23/27 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.386
+- **Blöcke:** 1.372
 - **Bauteile:** `eg_wand_mittelbauten`
 
 **Teileliste**
@@ -1015,7 +966,6 @@ Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 1.365 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 14 |
 | Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
@@ -1034,7 +984,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.34 – Mauern der Anbauten – Teil 24/27 (Y 83–83)
+### Schritt 1.33 – Mauern der Anbauten – Teil 24/27 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.388
@@ -1062,7 +1012,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.35 – Mauern der Anbauten – Teil 25/27 (Y 83–83)
+### Schritt 1.34 – Mauern der Anbauten – Teil 25/27 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.406
@@ -1091,7 +1041,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.36 – Mauern der Anbauten – Teil 26/27 (Y 84–84)
+### Schritt 1.35 – Mauern der Anbauten – Teil 26/27 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.394
@@ -1119,7 +1069,7 @@ Die Mitte des Portals ist geschätzt. Prüfe sie an einem Foto der Via dei Leoni
 
 Das Portal an der Via dei Leoni wird Buontalenti zugeschrieben. Die Anbauten im Osten gehören zur Erweiterung, die Herzog Cosimo I. nach seinem Einzug 1540 anstieß.
 
-### Schritt 1.37 – Mauern der Anbauten – Teil 27/27 (Y 84–84) & Dogana-Tür (optional)
+### Schritt 1.36 – Mauern der Anbauten – Teil 27/27 (Y 84–84) & Dogana-Tür (optional)
 
 - **Y-Bereich:** 69 bis 84
 - **Blöcke:** 1.452

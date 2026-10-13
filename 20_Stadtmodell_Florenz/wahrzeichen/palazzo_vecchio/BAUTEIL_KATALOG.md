@@ -239,3 +239,28 @@ Bausch ≈ 470.000 / 2.100 ≈ 225 Schritte.
 - Alle Zellen innerhalb `M_PV` (außer den zwei Luftraumfällen §0.6).
 - Summen der Geschosshöhen: 16 + 17 + 16 + 6 + 1 + 4 + 2 = 62 und 62 + 82 + 8 + 8 + 16 + 8 + 4 = 188.
 - Öffnung der Korridorbrücke bei Y 102..108, Brückenzelle außen ist **leer** bis zum `uffizi`-Projekt.
+
+## 14. Nachrüstung B2 (13.10.2026): dicht, begehbar, ausgestaltet
+Standard: `20_Stadtmodell_Florenz/BEGEHBARKEIT.md`. Code: `projects/palazzo_vecchio/model/pv_plan.js` (Belegungsplan), `pv_innen.js` (Wände, Treppen), `pv_raeume.js` und `pv_raeume2.js` (Räume), `pv_risse.js` (Fugenblöcke). `project.json` trägt `"begehbarkeit": "pflicht"`; R13 und R14 sind Fehlerregeln und bleiben ohne Befund.
+
+**Dichtheit.** Fensterglas liegt bündig in der äußersten Lage (vorher in der zweiten Lage hinter einer offenen Nische). Portale sind offene Durchgänge ohne Türblatt und als `tuer` deklariert (Hauptportal 8 x 12, Tramontana 6 x 10, Via dei Leoni 8 x 14 mit Bogen, kleine Tür 3 x 6, Dogana-Tür 3 x 6); die Korridoröffnung zur Brücke (Y 102..108) ist `tor`, die Arkaden der Höfe `arkade`, Glockenstube und Edikula `loggia`, Schlitzfenster des Turms, Caditoie und Zinnenlücken `scharte`, die Dachluken der Wehrgang- und Terrassentreppen `tuer`. Die Turmwand wird um fünf Randzellen am Rechteck ergänzt, das Turmdach beginnt bündig über der Edikula-Wand (kein Traufüberstand). Das Teil `verbindungsbloecke` schließt am Ende alle Diagonalfugen (rund 500 Zellen).
+
+**Treppen** (nur Treppenblöcke, Breite 3 bis 4, Unterbau massiv): Scalone del Vasari (16 Stufen) im Streifen zwischen Westflügel und Salone, Läufe OG1 -> OG2 und OG2 -> Dachgeschoss, ein zweiter Satz im Ostflügel (der Salone trennt die Obergeschosse), zwei Aufgänge zum Wehrgang beiderseits des Turms, ein Aufgang zur Dachterrasse über dem Mittelbau, die Wendeltreppe im Turm (Doppelwendel mit Podesten und Seelaternen, Eingangstür in der Westwand des Turms, mündet auf den Böden der Glockenstube y_rel 153 und der Edikula y_rel 161) und Außentreppen vor den Portalen, wo das Gelände tiefer liegt (Leoni 6 Stufen).
+
+**Licht.** Seelaternen als Bodeneinbau in der Platte unter jedem Geschoss (EG: Bodenplatte, OG1 bis Dachgeschoss: Geschossplatten), Abstand höchstens 9 (Räume 8, Salone 10), Turmpodeste mit Lampe.
+
+**Unzugänglich (deklariert):** Dachräume zwischen Dachplatte und Walmdach, Fensternischen hinter dem Glas (Sohlbank über Kopfhöhe), Luft über Statuensockeln, Luft um den Globus.
+
+**Innenräume** (Stufe C für die Lage im Grundriss; Bilder als Farbfelder, Figuren als Blockfiguren, alle Texte mit Quelle und "vereinfacht"):
+| Raum | Lage im Modell | Begründung |
+| :--- | :--- | :--- |
+| Salone dei Cinquecento | Rahmen u -14..90, w 92..136, Udienza im Norden | Katalog §10; Salone mit Wandfresken (Schlachten), Kassettendecke mit Mittelbild, Marmorboden, Udienza mit fünf Statuen, 12 Herkules-Statuen, Genius des Sieges |
+| Michelozzo-Hof | Loch 1 | Putto-Brunnen, vergoldete Säulenbänder (Fuß, Schaft, Kapitell), Grotesken in der Rückwand, Städtebilder-Fries |
+| Sala dei Gigli | OG1, u 56..78, w 28..46 | nördlich der Quartiere im Westflügel, Lilien blau/gold, Judith |
+| Studiolo Francesco I. | OG1, u 80..90, w 28..38 | kleiner Raum neben der Sala dei Gigli, Tonnengewölbe |
+| Quartiere di Leone X | OG1, u 56..78, w 0..26 | an der Piazza-Seite im ersten Obergeschoss |
+| Quartiere degli Elementi | OG2, über Leone X | Allegorien der vier Elemente an der Decke |
+| Sala delle Carte Geografiche | OG2, u 56..90, w 28..56 | Schränke mit Landkarten, großer Globus |
+| Turm | Glockenstube y_rel 153..160 | drei hängende Glocken in drei Größen, Wendeltreppe, Ausstieg auf das Turm-Ballatoio |
+
+Der Alberghetto (kleine Zelle im Turm) ist nicht gebaut (optional).

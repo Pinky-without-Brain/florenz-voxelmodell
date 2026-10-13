@@ -69,7 +69,8 @@ module.exports = {
     for (const r of sal) {
       const dw = Math.min(r.w - b.w0, b.w1 - r.w);
       const top = TRAUFE + Math.min(9, Math.round((9 * dw) / ((b.w1 - b.w0) / 2)));
-      for (let y = Math.max(TRAUFE, top - 1); y <= top; y++) S.put(ds, r.x, y, r.z, TY.dachziegel, 'dach_salone');
+      // am Rand (d8 <= 5) massiv ab der Traufe: keine Luftzelle unter der Dachhaut neben einer Dachlücke (R14)
+      for (let y = r.d8 <= 5 ? TRAUFE : Math.max(TRAUFE, top - 1); y <= top; y++) S.put(ds, r.x, y, r.z, TY.dachziegel, 'dach_salone');
     }
   }
 };

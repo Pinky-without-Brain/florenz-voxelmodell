@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.501 |
+| Blöcke | 11.485 |
 | Bauschritte | 7 |
 | Y-Bereich | 117 bis 130 |
 | X-Ausdehnung | -149 bis -72 (78 Blöcke) |
 | Z-Ausdehnung | 796 bis 909 (114 Blöcke) |
 | Kleinster Schritt | 914 Blöcke (Schritt 3.7) |
-| Mittlerer Schritt | 1.643 Blöcke |
-| Größter Schritt | 2.055 Blöcke (Schritt 3.4) |
+| Mittlerer Schritt | 1.641 Blöcke |
+| Größter Schritt | 2.039 Blöcke (Schritt 3.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 11.241 | 97,7 % |
+| Polierter Andesit | `polished_andesite` | 11.225 | 97,7 % |
 | Blaue Keramik | `blue_terracotta` | 50 | 0,4 % |
 | Rote Keramik | `red_terracotta` | 50 | 0,4 % |
 | Weiße Keramik | `white_terracotta` | 50 | 0,4 % |
@@ -37,7 +37,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `gesims_marcapiano` | Gesimsband unter der Galerie | 243 | 3.1 |
 | 2 | `konsolen` | Konsolen, Rundbögen und Wappen | 5.425 | 3.1–3.3 |
-| 3 | `ballatoio_boden` | Boden der Galerie | 2.055 | 3.4 |
+| 3 | `ballatoio_boden` | Boden der Galerie | 2.039 | 3.4 |
 | 4 | `bruestung` | Brüstung der Galerie | 2.864 | 3.5–3.6 |
 | 5 | `zinnen_guelfisch` | Guelfenzinnen | 866 | 3.7 |
 | 6 | `eckmarzocchi` | Marzocchi in den Ecken (optional) | 48 | 3.7 |
@@ -143,14 +143,14 @@ Die Wappen unter den Bögen zeigen Volk, Lilie, Parte Guelfa, Anjou und weitere 
 ### Schritt 3.4 – Boden der Galerie
 
 - **Y-Bereich:** 124 bis 124
-- **Blöcke:** 2.055
+- **Blöcke:** 2.039
 - **Bauteile:** `ballatoio_boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.055 |
+| Polierter Andesit | `polished_andesite` | 2.039 |
 
 **Beschreibung**
 
