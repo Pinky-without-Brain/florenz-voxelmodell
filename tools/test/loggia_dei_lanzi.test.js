@@ -253,3 +253,18 @@ test('Loggia B3: Content der neuen Bauteile nennt Quelle bzw. Spielzugang', () =
   assert.ok(/nicht historisch/.test(c2.parts.turm_treppe.description));
   assert.ok(/it.wikipedia.org/.test(c2.parts.turm_treppe.fact));
 });
+
+test('Loggia B3: Aus der Halle führt der Turm ohne Springen zur Terrasse (Y 97) und zur Piazza hinab', () => {
+  const { erreichbar } = require('./_ohne_sprung.js');
+  const TU = require(path.join(PROJ, 'model', '_turm.js'));
+  const t = TU.turm();
+  const box = { x0: -250, x1: -160, z0: 845, z1: 905, y0: 60, y1: 110 };
+  const unten = t.tuerUnten[0];
+  const start = { x: unten.x, y: 68, z: t.cz - 3 - t.tunnel };      // Hallenzelle am Ende von Tür und Tunnel
+  const ziel = { x: t.cx + 1, y: 97, z: t.cz - 4 };
+  assert.ok(erreichbar(grid, start, ziel, box), 'Terrasse');
+  // von der Frontstufe in die Halle (das Gelände selbst prüft R13)
+  const front = G.ZELLEN.find((c) => G.stufeFront(c));
+  const draussen = { x: front.x, y: 68, z: front.z };      // Stehzelle über der ersten Stufe
+  assert.ok(erreichbar(grid, draussen, start, box), 'Halle');
+});

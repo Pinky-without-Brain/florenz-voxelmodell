@@ -97,7 +97,7 @@ Andrea Orcagna schuf den Tabernakel zwischen 1349 und 1359 (signiert 1359). Quel
 
 **Beschreibung**
 
-Im Südschiff stellst du zwei Blöcke zu je vier Bankreihen aus Holz auf; zwischen den Reihen bleibt ein Block Gang. Im Saal des 1. Obergeschosses stehen vierzehn Sockel aus weißem Marmor (2 × 2 × 2) an den Wänden: sechs im Norden, zwei im Süden, je drei im Westen und Osten. Auf jeden Sockel stellst du eine Blockfigur aus Bronze (Körper 2 breit, 4 hoch, Kopf 1). Das sind vereinfachte Blockfiguren, nicht nach Vorbild.
+Im Südschiff stellst du zwei Blöcke zu je vier Bankreihen aus Holz auf; zwischen den Reihen bleibt ein Block Gang. Im Saal des 1. Obergeschosses stehen vierzehn Sockel aus weißem Marmor (2 × 2 × 2) an den Wänden: sechs im Norden, zwei im Süden, je drei im Westen und Osten (vereinfacht). Auf jeden Sockel stellst du eine Blockfigur aus Bronze (Körper 2 breit, 4 hoch, Kopf 1). Das sind vereinfachte Blockfiguren, nicht nach Vorbild.
 
 **Tipp**
 
