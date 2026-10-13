@@ -47,7 +47,7 @@
       "fact": "Vasari ließ die Decke mit 39 Feldern von Gemälden gestalten, die die Herrschaft der Medici feiern."
     },
     "innenwaende_a": {
-      "title": "Tragende Innenwände (optional)",
+      "title": "Trennwände mit Türen",
       "description": "Im Arnolfo-Block ziehst du je zwei Querwände in beide Richtungen, zwei Zellen dick, von Y 69 bis Y 117. An den Kreuzungen sparst du Türen aus, drei breit und acht hoch. Der Turm bleibt hohl.",
       "tip": "Lässt du die Wände weg, sparst du rund 20.000 Blöcke.",
       "caution": "Die Lage der Wände ist eine Annahme, die den Außenwänden und Höfen ausweicht.",
@@ -59,6 +59,76 @@
       "tip": "Suche von oben nach diagonalen Fugen: Zwei Blöcke, die sich nur an der Ecke berühren, bekommen einen dritten Block daneben.",
       "caution": "Die Verbindungsblöcke dürfen keine Tür, keinen Treppenschacht und keinen Gang verengen; setze sie nur an die Mauerseite.",
       "fact": "Der Palazzo Vecchio steht im Modell um 79,8 Grad gedreht im Raster; deshalb entstehen an den einzelligen Schichten Fugen, durch die man sonst hindurchsehen und -leuchten würde. Das Schließen der Fugen ist eine Vereinfachung des Modells."
+    },
+    "scalone_vasari": {
+      "title": "Scalone del Vasari",
+      "description": "Vom Erdgeschoss führt eine breite Treppe aus Treppenblöcken nach Norden hinauf zum ersten Obergeschoss: 16 Stufen, vier Blöcke breit, auf einem massiven Unterbau. Oben liegst du auf dem Boden des Salone-Geschosses.",
+      "tip": "Baue erst den Unterbau Schicht für Schicht, dann setze die Treppenblöcke mit dem Aufstieg nach Norden.",
+      "caution": "Lass im Boden des ersten Obergeschosses das Treppenloch frei, sonst stößt du dir den Kopf.",
+      "fact": "Giorgio Vasari baute 1560 bis 1565 die große Treppe zum Salone. Der Platz im Modell ist Stufe C: Er ergibt sich aus dem Grundriss und liegt im Streifen zwischen Westflügel und Salone. Quelle: Wikipedia (de, it); vereinfacht."
+    },
+    "treppe_og1_og2": {
+      "title": "Treppe zum zweiten Obergeschoss",
+      "description": "Eine gerade Treppe aus Treppenblöcken mit 17 Stufen führt vom ersten zum zweiten Obergeschoss, drei Blöcke breit, mit massivem Unterbau und Treppenloch in der Decke.",
+      "tip": "Der Aufstieg zeigt nach Süden; achte auf die Ausrichtung der Treppenblöcke.",
+      "caution": "Über jeder Stufe müssen drei Blöcke Luft bleiben.",
+      "fact": "Im Palast verbinden mehrere Treppen die Geschosse; ihre genaue Lage im Modell ist Stufe C und ergibt sich aus dem Grundriss. Quelle: Wikipedia (de); vereinfacht."
+    },
+    "treppe_og2_dg": {
+      "title": "Treppe zum Dachgeschoss",
+      "description": "Die dritte Treppe überwindet 16 Stufen vom zweiten Obergeschoss ins Dachgeschoss, drei Blöcke breit. Von dort geht es weiter zum Wehrgang.",
+      "tip": "Setze zuerst den Unterbau, dann die Stufen nach Norden.",
+      "caution": "Lass das Treppenloch in der Decke über dem zweiten Obergeschoss frei.",
+      "fact": "Das Dachgeschoss ist im Modell ein niedriger Boden unter dem Dach und führt zum Wehrgang. Stufe C; vereinfacht."
+    },
+    "treppe_ost_eg_og1": {
+      "title": "Treppe im Ostflügel: Erdgeschoss",
+      "description": "Im Ostflügel an der Dogana führt eine gerade Treppe aus Treppenblöcken mit 16 Stufen vom Erdgeschoss ins erste Obergeschoss.",
+      "tip": "Baue den massiven Unterbau Schicht für Schicht und setze die Stufen mit Aufstieg nach Norden.",
+      "caution": "Das Treppenloch in der Decke muss frei bleiben.",
+      "fact": "Der Salone trennt im Modell die Obergeschosse von West- und Ostflügel; deshalb hat der Ostflügel eigene Treppen. Lage Stufe C, vereinfacht."
+    },
+    "treppe_ost_og1_og2": {
+      "title": "Treppe im Ostflügel: erstes Obergeschoss",
+      "description": "Eine zweite Treppe mit 17 Stufen führt im Ostflügel ins zweite Obergeschoss, drei Blöcke breit.",
+      "tip": "Der Aufstieg zeigt nach Süden.",
+      "caution": "Über jeder Stufe bleiben drei Blöcke Luft.",
+      "fact": "Die Treppen im Ostflügel sind Ergänzungen des Modells für die Begehbarkeit. Stufe C, vereinfacht."
+    },
+    "treppe_ost_og2_dg": {
+      "title": "Treppe im Ostflügel: zweites Obergeschoss",
+      "description": "Die dritte Treppe im Ostflügel überwindet 16 Stufen bis ins Dachgeschoss.",
+      "tip": "Baue erst den Unterbau, dann die Treppenblöcke nach Norden.",
+      "caution": "Lass das Loch in der Decke über dem zweiten Obergeschoss frei.",
+      "fact": "Das Dachgeschoss verbindet beide Flügel; Stufe C, vereinfacht."
+    },
+    "treppe_wehrgang_nord": {
+      "title": "Aufgang zum Wehrgang, Nordseite",
+      "description": "Vom Dachgeschoss führen 7 Stufen aus Treppenblöcken, drei Blöcke breit, durch eine Dachluke hinaus auf den Wehrgang an der Westfassade, nördlich des Turms.",
+      "tip": "Die Stufen steigen nach Westen zur Fassade; die Luke ist ein Loch in Decke und Dach.",
+      "caution": "Die Luke ist eine Öffnung ins Freie: Sie bleibt Luft, die Dachziegel rundherum bleiben geschlossen.",
+      "fact": "Der Wehrgang (Ballatoio) mit den Guelfenzinnen war im Mittelalter der Verteidigungsgang des Palastes. Der Zugang im Modell ist eine Vereinfachung (Stufe C)."
+    },
+    "treppe_wehrgang_sued": {
+      "title": "Aufgang zum Wehrgang, Südseite",
+      "description": "Ein zweiter Aufgang führt südlich des Turms aus dem Dachgeschoss auf den Wehrgang. So ist der Gang an der Westfassade von beiden Seiten des Turms erreichbar.",
+      "tip": "Wie bei der Nordseite: 7 Stufen nach Westen, dann Dachluke.",
+      "caution": "Der Wehrgang selbst darf nicht zugebaut werden.",
+      "fact": "Der Turm unterbricht den Wehrgang an der Fassade; deshalb gibt es zwei Aufgänge. Stufe C, vereinfacht."
+    },
+    "turm_wendeltreppe": {
+      "title": "Wendeltreppe im Turm",
+      "description": "Im Hohlraum des Turms windet sich eine Doppelwendel aus Treppenblöcken vom Erdgeschoss bis zur Edikula. Zwei Spuren, je zwei Blöcke breit, führen im Wechsel nach Süden und Norden hinauf; an den Enden liegen Podeste aus Vollblöcken, in jedem Podest sitzt eine Seelaterne. Der Eingang liegt in der Westwand des Turms. Unterwegs erreichst du den Boden der Glockenstube und den der Edikula.",
+      "tip": "Baue die Treppe von unten: erst das Podest, dann vier Stufen mit Aufstieg in die jeweilige Richtung, dann das nächste Podest.",
+      "caution": "Lass über jeder Stufe und jedem Podest drei Blöcke Luft; die Decken des Turms haben dafür Löcher.",
+      "fact": "Die echte Turmtreppe des Arnolfo-Turms ist eng und steil. Die Doppelwendel mit Podesten ist eine Vereinfachung des Modells (Stufe C); Quelle: Wikipedia (de, en) zum Torre di Arnolfo."
+    },
+    "aussentreppen": {
+      "title": "Treppen vor den Portalen",
+      "description": "Wo das Gelände vor einem Portal tiefer liegt als der Fußboden des Palastes, führen Stufen aus Treppenblöcken hinauf: bis zu drei Stufen vor der Mauer, der Rest im Portal. Jede Stufenreihe folgt dem Mauerrand, damit sie bündig anschließt. Das Via-dei-Leoni-Portal im Osten braucht sechs Stufen, die kleine Tür im Süden und die Dogana-Tür je zwei.",
+      "tip": "Setze die Stufen reihenweise von außen nach innen; der Aufstieg zeigt zum Haus.",
+      "caution": "Die Stufen dürfen nicht weiter als drei Blöcke vor die Mauer reichen.",
+      "fact": "Der Palast steht auf einem Sockel, das Straßenniveau liegt an den Seiten tiefer als an der Piazza. Die Höhen stammen aus dem Geländemodell der Stadt; die Stufen sind eine Vereinfachung (Stufe C)."
     }
   }
 }

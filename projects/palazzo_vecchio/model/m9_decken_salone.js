@@ -12,13 +12,16 @@ module.exports = {
     const kein = (r) => r.zone !== 'T';
 
     // Geschossdecken: Zellen mit d8 > t, ohne Turm; die Salone-Außenrechtecke und die Lochbänder (Modul 6) sind schon belegt
-    const decke = (id, y, minD, ohneSalone) => {
+    const decke = (id, y, minD, ohneSalone, ge) => {
       const w = ctx.part(id);
-      S.band(w, g.recs.filter((r) => kein(r) && r.d8 > minD && !(ohneSalone && r.sal)), y, y, () => TY.pietra_serena, id);
+      const zellen = g.recs.filter((r) => kein(r) && r.d8 > minD && !(ohneSalone && r.sal));
+      // Lampen im Fußboden des darüber liegenden Geschosses: nur auf Zellen, die diese Platte wirklich bekommt
+      if (ge) S.plan.lichtFuer(ge, zellen.filter((r) => !S.has(r.x, y, r.z) && !S.carve.has(pv.keyOf(r.x, y + S.bodenY, r.z))));
+      S.band(w, zellen, y, y, (r) => (S.lampe(r.x, y, r.z) ? TY.licht : TY.pietra_serena), id);
     };
-    decke('decke_eg', 16, 5, false);
-    decke('decke_og1', 33, 4, true);
-    decke('decke_og2', 49, 4, true);
+    decke('decke_eg', 16, 5, false, 'og1');
+    decke('decke_og1', 33, 4, true, 'og2');
+    decke('decke_og2', 49, 4, true, 'dg');
     decke('decke_dach', 56, 3, true);
     // Dachräume zwischen der Dachplatte (y_rel 56) und der Dachhaut der Walmdächer (Module 7): leer, ohne Ausstellung, im Original nur über
     // Luken erreichbar; sie bleiben im Modell bewusst geschlossen (R13: unzugaenglich)

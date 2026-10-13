@@ -211,7 +211,8 @@ function state(ctx) {
     g, claimed, skips, cfg: { PV_AXES: 9, PORTAL_U: 55 },
     bodenY: g.bodenY,
     ctx,
-    carve: new Set(require('./pv_plan.js').plan(g).carve),   // freizuhaltende Zellen (Türen, Treppenlöcher, Treppen): put() setzt dort nichts (B2)
+    plan: require('./pv_plan.js').plan(g),
+    carve: null,   // freizuhaltende Zellen (Türen, Treppenlöcher, Treppen): put() setzt dort nichts (B2)
     types: new Map(),            // Zellschlüssel -> Blocktyp aller gesetzten Zellen (Rissschließung, Licht)
     pendN: [],
     pend: new Map(),             // Art -> noch nicht deklarierte Öffnungszellen [{x, y, z}]
@@ -236,6 +237,8 @@ function state(ctx) {
       return true;
     },
     has(x, yr, z) { return claimed.has(keyOf(x, yr + g.bodenY, z)); },
+    /** Liegt in der Platte bei (x, y_rel, z) eine Lampe (Seelaterne als Bodeneinbau)? */
+    lampe(x, yr, z) { return S.plan.lampen.has(keyOf(x, yr + g.bodenY, z)); },
     /** Öffnungszelle (Luft) für die spätere Deklaration vormerken (R14); art: tuer|tor|fenster_offen|arkade|loggia|scharte. */
     note(art, x, yr, z) {
       let l = S.pend.get(art);
@@ -263,6 +266,7 @@ function state(ctx) {
     korridor: (r, y) => korridor(g, r, y),
     dogana: (r, y) => dogana(r, y)
   };
+  S.carve = new Set(S.plan.carve);
   STATES.set(ctx.grid, S);
   return S;
 }

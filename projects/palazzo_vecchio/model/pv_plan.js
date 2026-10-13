@@ -106,6 +106,74 @@ function turmTreppe(g, ck) {
   return out;
 }
 
+// ---------------------------------------------------------------- Räume (Rechtecke im Rahmen) und Licht
+// Räume mit Trennwänden bekommen eigene Lampen; die übrigen Hallen ein gemeinsames Raster (Abstand 12).
+const RAEUME = [
+  { id: 'salone', ge: 'og1', u0: -14, u1: 90, w0: 92, w1: 136, abstand: 10 },
+  { id: 'leone_x', ge: 'og1', u0: 56, u1: 78, w0: 0, w1: 26, abstand: 8 },
+  { id: 'gigli', ge: 'og1', u0: 56, u1: 78, w0: 28, w1: 46, abstand: 8 },
+  { id: 'studiolo', ge: 'og1', u0: 80, u1: 90, w0: 28, w1: 38, abstand: 8 },
+  { id: 'elementi', ge: 'og2', u0: 56, u1: 78, w0: 0, w1: 26, abstand: 8 },
+  { id: 'carte', ge: 'og2', u0: 56, u1: 90, w0: 28, w1: 56, abstand: 8 }
+];
+
+/** Lampen (Seelaternen) in den Bodenplatten: stehen unter dem Fußboden jedes Geschosses (BEGEHBARKEIT.md 1.5, Bodeneinbau). */
+function lichtPlan(g, P, ck, wandCols) {
+  const BY = g.bodenY;
+  P.raeume = RAEUME;
+  P.lampen = new Set();
+  P.lampenListe = [];
+  const wandKeys = {};
+  for (const w of P.waende) { const s = wandKeys[w.ge.id] || (wandKeys[w.ge.id] = new Set()); for (const c of w.cells) s.add(key(c.r.x, c.r.z)); }
+  const stehOk = (ge, r) => {
+    if (!r || r.zone === 'T') return false;
+    const y = ge.stand;
+    if (P.carve.has(ck(r.x, y, r.z)) || P.carve.has(ck(r.x, y + 1, r.z)) || P.carve.has(ck(r.x, y - 1, r.z))) return false;
+    if (r.d8 <= pvl.tWall(y)) return false;
+    if (wandKeys[ge.id] && wandKeys[ge.id].has(key(r.x, r.z))) return false;
+    const dl = (i) => g.M.dLoch(i, r.x, r.z);
+    if (ge.id === 'eg') {
+      const d1 = dl(1), d0 = dl(0), d2 = dl(2), d3 = dl(3);
+      // Rückwände der Arkaden (massiv) und Lichthofwände; die Arkaden selbst (Bögen) sind begehbar und bekommen Licht
+      if ((d1 >= 6 && d1 <= 7) || (d0 >= 7 && d0 <= 8) || (d2 >= 1 && d2 <= 4) || (d3 >= 1 && d3 <= 4)) return false;
+    } else if (dl(1) <= 3 || dl(0) <= 3 || dl(2) <= 4 || dl(3) <= 4) return false;
+    if (ge.id === 'og1') { if (r.sal && !r.salL) return false; }
+    else if (ge.id !== 'eg' && r.sal) return false;
+    return true;
+  };
+  const inRaum = (R, r) => r.u >= R.u0 && r.u < R.u1 && r.w >= R.w0 && r.w < R.w1;
+  /**
+   * Lampen für das Geschoss geId: nur auf Plattenzellen, die wirklich gebaut werden (floorRecs), und unter freier Stehfläche.
+   * Räume mit Trennwänden bekommen eigene Lampen, die übrigen Hallen ein gemeinsames Raster (Abstand 12).
+   */
+  P.lichtFuer = (geId, floorRecs) => {
+    const ge = GESCHOSSE[geId];
+    const zellen = floorRecs.filter((r) => stehOk(ge, r));
+    if (ge.id === 'eg') for (const a of P.aussen) for (const r of a.passage) if (r && !zellen.includes(r)) zellen.push(r);   // Portaldurchgänge
+    const raeume = RAEUME.filter((R) => R.ge === ge.id);
+    const gruppen = raeume.map((R) => ({ R, cells: [] })), rest = [];
+    for (const r of zellen) {
+      const gr = gruppen.find((q) => inRaum(q.R, r));
+      (gr ? gr.cells : rest).push(r);
+    }
+    const setze = (cells, abstand) => {
+      if (!cells.length) return;
+      const lichter = WZ.lichtRaster(cells.map((r) => ({ x: r.x, y: ge.stand, z: r.z })), { abstand });
+      for (const l of lichter) {
+        const k = ck(l.x, ge.boden, l.z);
+        if (P.lampen.has(k)) continue;
+        P.lampen.add(k);
+        P.lampenListe.push({ x: l.x, y: ge.boden, z: l.z, ge: ge.id });
+      }
+    };
+    for (const gr of gruppen) setze(gr.cells, gr.R.abstand);
+    setze(rest, 9);
+  };
+  P.lichtFuer('eg', g.recs);
+  // Lampen der Turmpodeste gelten ebenfalls (Seelaterne als Podestblock)
+  for (const l of P.turm.lampen) P.lampen.add(ck(l.x, l.y, l.z));
+}
+
 // ---------------------------------------------------------------- Außentreppen vor den Portalen
 // Der Innenboden liegt bei Y 69 (Stehzelle). Liegt das Gelände vor einem Portal tiefer, führen Treppenblöcke (1 breit je Zellenreihe,
 // damit sie dem gedrehten Rand folgen) bis zur Schwelle. Höchstens 3 Zellen liegen außerhalb der Maske (Luftraum), der Rest im Portal.
@@ -151,7 +219,8 @@ function aussenTreppen(g, ck) {
       }
     }
     const hOut = hmin + 1, n = BY + 1 - hOut;                    // Stufenzahl bis zur Schwelle (Stehzelle Y 69)
-    const rec = { id: p.id, dir, n, stufen: [], unter: [], luft: [], carve: new Set(), reihen: byRow.size };
+    const rec = { id: p.id, dir, n, stufen: [], unter: [], luft: [], passage: [], carve: new Set(), reihen: byRow.size };
+    for (const [q, v] of byRow) for (let t = 0; t < 6; t++) { const a1 = v.along - out1 * t, x = achseX ? a1 : q, z = achseX ? q : a1; if (g.M.has(x, z)) rec.passage.push(g.rec(x, z)); }
     if (n >= 1) {
       const nAussen = Math.min(n, 3);
       for (const [q, v] of byRow) {
@@ -305,6 +374,7 @@ function plan(g) {
     for (const s of L.unter) P.carve.add(ck(s.x, s.y, s.z));
     for (const s of L.kopf) P.carve.add(ck(s.x, s.y, s.z));
   }
+  lichtPlan(g, P, ck, wandCols);
   return P;
 }
 
