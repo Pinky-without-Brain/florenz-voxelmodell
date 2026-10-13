@@ -58,7 +58,7 @@ test('transparent neben opak: opake Fläche bleibt, transparente entfällt', () 
 test('zwei verschiedene transparente Typen behalten ihre Trennfläche, gleiche nicht', () => {
   const w = mk();
   w.set(2, 3, 2, w.typeId('glass')); w.set(3, 3, 2, w.typeId('water'));
-  assert.strictEqual(meshChunk(w, 0, 0).transparent.quads, 11); // 5 + 5 + 1 gemeinsame Fl�che
+  assert.strictEqual(meshChunk(w, 0, 0).transparent.quads, 11); // 5 + 5 + 1 gemeinsame Fl�che
   const w2 = mk();
   w2.set(2, 3, 2, w2.typeId('glass')); w2.set(3, 3, 2, w2.typeId('glass'));
   assert.strictEqual(meshChunk(w2, 0, 0).transparent.quads, 6);
@@ -109,3 +109,79 @@ test('Quader 40x1x40 über 3x3 Chunks: wenige Flächen, alle Blöcke abgedeckt',
   assert.ok(quads < 60, 'zusammengefasst: ' + quads);
   assert.strictEqual(w.blockCount(), 1600);
 });
+
+// ---- Treppen (B0)
+const STAIR = (dir, oben) => ({ top: [180, 170, 160], side: [140, 130, 120], stair: { dir, oben: !!oben } });
+const mkS = (dir, oben) => createWorld({ yMin: 0, yMax: 40, typeInfo: (n) => (n === 'tr' ? STAIR(dir, oben) : INFO[n]) });
+
+function volumenUndFlaechen(positions, indices) {
+  // Rauminhalt über Dreiecke (Divergenzsatz) und Summe der Dreiecksnormalen-Richtung
+  let v = 0;
+  for (let i = 0; i < indices.length; i += 3) {
+    const a = indices[i] * 3, b = indices[i + 1] * 3, c = indices[i + 2] * 3;
+    const p = positions, ax = p[a], ay = p[a + 1], az = p[a + 2];
+    const bx = p[b], by = p[b + 1], bz = p[b + 2], cx = p[c], cy = p[c + 1], cz = p[c + 2];
+    v += (ax * (by * cz - bz * cy) - ay * (bx * cz - bz * cx) + az * (bx * cy - by * cx)) / 6;
+  }
+  return v;
+}
+
+test('Treppe: einzelner Block hat 11 Flächen und das Volumen 0,75', () => {
+  for (const dir of ['n', 'o', 's', 'w']) {
+    for (const oben of [false, true]) {
+      const w = mkS(dir, oben);
+      w.set(3, 5, 4, w.typeId('tr'));
+      const m = meshChunk(w, 0, 0, { variation: 0 });
+      assert.strictEqual(m.opaque.quads, 11, dir + oben);
+      assert.ok(Math.abs(volumenUndFlaechen(m.opaque.positions, m.opaque.indices) - 0.75) < 1e-6, 'Volumen ' + dir + oben);
+    }
+  }
+});
+
+test('Treppe: hohe Hälfte liegt auf der Aufstiegsseite (n = -z, o = +x, s = +z, w = -x), umgedreht oben nach unten', () => {
+  const hoch = { n: [4, 4.5], o: [3.5, 4], s: [4.5, 4], w: [3, 4] }; // erwartete Mitte der hohen Stufe (x, z) im Block (3, 5, 4)
+  for (const dir of ['n', 'o', 's', 'w']) {
+    const w = mkS(dir, false);
+    w.set(3, 5, 4, w.typeId('tr'));
+    const p = meshChunk(w, 0, 0).opaque.positions;
+    // Oberseite auf y = 6 (hohe Stufe): x- und z-Bereich der Punkte mit y = 6
+    let x0 = Infinity, x1 = -Infinity, z0 = Infinity, z1 = -Infinity;
+    for (let i = 0; i < p.length; i += 3) if (p[i + 1] === 6) { x0 = Math.min(x0, p[i]); x1 = Math.max(x1, p[i]); z0 = Math.min(z0, p[i + 2]); z1 = Math.max(z1, p[i + 2]); }
+    const mx = (x0 + x1) / 2, mz = (z0 + z1) / 2;
+    assert.deepStrictEqual([mx, mz].map((v) => v), dir === 'n' ? [3.5, 4.25] : dir === 's' ? [3.5, 4.75] : dir === 'o' ? [3.75, 4.5] : [3.25, 4.5], dir);
+  }
+  const w = mkS('n', true);
+  w.set(3, 5, 4, w.typeId('tr'));
+  const p = meshChunk(w, 0, 0).opaque.positions;
+  let hat = false;
+  for (let i = 0; i < p.length; i += 3) if (p[i + 1] === 5) hat = true; // hohe Stufe hängt unten
+  assert.ok(hat);
+  void hoch;
+});
+
+test('Treppe: Nachbarn zeichnen ihre Fläche gegen die Treppe, Treppenflächen auf der Grenze entfallen gegen Vollblöcke', () => {
+  const w = mkS('n', false);
+  w.set(3, 5, 4, w.typeId('tr'));
+  w.set(3, 4, 4, w.typeId('stone')); // unter der Treppe
+  const m = meshChunk(w, 0, 0);
+  // Stein: 6 Flächen (Oberseite gegen Treppe sichtbar); Treppe ohne Unterseite: 10
+  assert.strictEqual(m.opaque.quads, 6 + 10);
+  // Stein neben der Treppe: Seite des Steins bleibt sichtbar, die Treppenseite zum Stein entfällt
+  const w2 = mkS('n', false);
+  w2.set(3, 5, 4, w2.typeId('tr'));
+  w2.set(4, 5, 4, w2.typeId('stone'));
+  const m2 = meshChunk(w2, 0, 0);
+  assert.strictEqual(m2.opaque.quads, 6 + (11 - 2)); // +x-Seite: Platte und Stufe (2 Flächen) entfallen
+});
+
+test('Treppe: zählt nicht als Greedy-Fläche, Vollblöcke daneben verschmelzen weiter', () => {
+  const w = mkS('n', false);
+  const s = w.typeId('stone');
+  for (let x = 2; x < 6; x++) w.set(x, 3, 4, s);
+  w.set(3, 4, 4, w.typeId('tr'));
+  const m = meshChunk(w, 0, 0);
+  assert.ok(m.opaque.quads >= 6 + 10);
+  assert.strictEqual(w.hasStairs(), true);
+  assert.strictEqual(mk().hasStairs(), false);
+});
+

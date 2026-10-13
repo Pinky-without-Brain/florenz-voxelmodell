@@ -231,6 +231,7 @@ function baue(project) {
         build(ctx) {
           for (const id of iso.ids) {
             const w = ctx.part(id, {});
+            ctx.grundriss(kontext.parz.cellsOf(id)); // nur Metadaten für R13, ändert keine Blöcke
             const a = akten.get(id);
             if (a) bauHaus(w, daten.byId.get(id), a, kontext);
           }

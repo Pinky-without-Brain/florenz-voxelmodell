@@ -51,7 +51,8 @@ const ROLE_INFO = {
   gruen_weg: ['Kieswege', 'Wege in Gärten und Parks.'],
   gruen_baum: ['Baumkronen', 'Laub von Bäumen und Hecken.'],
   gruen_stamm: ['Baumstämme', 'Stämme von Bäumen.'],
-  wasser: ['Wasser', 'Arno und Brunnen.']
+  wasser: ['Wasser', 'Arno und Brunnen.'],
+  treppe: ['Treppen', 'Treppenblöcke mit Ausrichtung des Aufstiegs (Norden, Osten, Süden, Westen), auch umgedreht als Deckenstufe.']
 };
 
 const BUILD_HELP = [
@@ -132,6 +133,20 @@ function moduleStats(mod, steps, grid) {
 
 const sortedCounts = (map) => [...map.entries()].sort((a, b) => (b[1] - a[1]) || (a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0));
 
+// Treppenblöcke je Material (alle Richtungen zusammengezählt); leer, wenn keine Treppen vorkommen
+function treppenTabelle(counts, palette) {
+  const je = new Map();
+  for (const [t, v] of counts) {
+    const info = palette.treppeInfo(t);
+    if (info) je.set(info.base, (je.get(info.base) || 0) + v);
+  }
+  if (!je.size) return '';
+  const namen = new Map(palette.STAIR_BASES.map((b) => [b[0], b[2]]));
+  const rows = [...je.entries()].sort((a, b) => (b[1] - a[1]) || (a[0] < b[0] ? -1 : 1))
+    .map(([base, v]) => `| ${cell(namen.get(base))} | \`${base}\` | ${n(v)} |`);
+  return ['**Treppen je Material** (alle Richtungen)', '', '| Treppe | Basistyp | Anzahl |', '| :--- | :--- | ---: |', ...rows].join('\n');
+}
+
 function typeTable(entries, names, withShare, total) {
   const head = withShare ? '| Block | Typ | Anzahl | Anteil |\n| :--- | :--- | ---: | ---: |'
     : '| Block | Typ | Anzahl |\n| :--- | :--- | ---: |';
@@ -166,6 +181,8 @@ function renderGuide(mod, steps, grid, ctx) {
   L.push('## Gesamt-Stückliste');
   L.push('');
   L.push(typeTable(sortedCounts(st.typeCounts), names, true, st.stepBlocks));
+  const trModul = treppenTabelle(st.typeCounts, ctx.palette);
+  if (trModul) { L.push(''); L.push(trModul); }
   L.push('');
   L.push('## Bauteile in Bau-Reihenfolge');
   L.push('');
@@ -197,6 +214,8 @@ function renderGuide(mod, steps, grid, ctx) {
     L.push('**Teileliste**');
     L.push('');
     L.push(typeTable(sortedCounts(tc), names, false, 0));
+    const trSchritt = treppenTabelle(tc, ctx.palette);
+    if (trSchritt) { L.push(''); L.push(trSchritt); }
     if (s.description) { L.push(''); L.push('**Beschreibung**'); L.push(''); L.push(para(s.description)); }
     if (s.tip) { L.push(''); L.push('**Tipp**'); L.push(''); L.push(para(s.tip)); }
     if (s.caution) { L.push(''); L.push('**Achtung**'); L.push(''); L.push(para(s.caution)); }
@@ -264,6 +283,12 @@ function renderPalette(ctx) {
   const total = ctx.totalBlocks;
   const totals = ctx.typeTotals;
   const roles = [];
+  const vollTypen = palette.TYPES.filter((t) => !palette.isTreppe(t));
+  // Treppen: eine Zeile je Material (alle 8 Typen zusammengezählt) statt 160 Einzelzeilen
+  const treppeMaterial = palette.STAIR_BASES.map(([base, , name]) => {
+    const typen = palette.TYPES.filter((t) => palette.PALETTE[t].stair && palette.PALETTE[t].stair.base === base);
+    return { base, name, typen, v: typen.reduce((a, t) => a + (totals.get(t) || 0), 0) };
+  });
   for (const t of palette.TYPES) {
     const r = palette.PALETTE[t].role;
     if (!roles.includes(r)) roles.push(r);
@@ -273,8 +298,9 @@ function renderPalette(ctx) {
   L.push('');
   L.push('# Materialliste und Blockpalette');
   L.push('');
-  L.push(`Alle ${n(palette.TYPES.length)} erlaubten Blocktypen des Modells, gruppiert nach Rolle. ` +
-    `Das Modell besteht aus ${n(total)} Blöcken; es werden nur volle Würfelblöcke verwendet. ` +
+  L.push(`Alle ${n(vollTypen.length)} erlaubten Vollblocktypen des Modells, gruppiert nach Rolle, dazu ${n(palette.STAIR_BASES.length)} Treppenmaterialien ` +
+    `mit je ${n(palette.STAIR_DIRS.length * 2)} Typen (4 Ausrichtungen, jeweils normal und umgedreht; Rolle \`treppe\`). ` +
+    `Das Modell besteht aus ${n(total)} Blöcken; es werden volle Würfelblöcke und Treppenblöcke verwendet. ` +
     'Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.');
   L.push('');
   L.push('Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde di Prato, Rot für Rosso di Maremma. ' +
@@ -289,9 +315,10 @@ function renderPalette(ctx) {
     const ts = palette.TYPES.filter((t) => palette.PALETTE[t].role === r);
     roleTotals.set(r, ts.reduce((a, t) => a + (totals.get(t) || 0), 0));
     const info = ROLE_INFO[r] || [r, ''];
-    L.push(`| ${cell(info[0])} | ${ts.length} | ${n(roleTotals.get(r))} | ${pct(roleTotals.get(r), total)} % |`);
+    const anzahl = r === 'treppe' ? `${treppeMaterial.length} Materialien` : ts.length;
+    L.push(`| ${cell(info[0])} | ${anzahl} | ${n(roleTotals.get(r))} | ${pct(roleTotals.get(r), total)} % |`);
   }
-  L.push(`| **Summe** | **${palette.TYPES.length}** | **${n(total)}** | **100,0 %** |`);
+  L.push(`| **Summe** | **${vollTypen.length}** | **${n(total)}** | **100,0 %** |`);
   for (const r of roles) {
     const info = ROLE_INFO[r] || [r, ''];
     const ts = palette.TYPES.filter((t) => palette.PALETTE[t].role === r)
@@ -302,6 +329,12 @@ function renderPalette(ctx) {
     if (info[1]) { L.push(info[1] + ` (Rolle \`${r}\`)`); L.push(''); }
     L.push('| Block | Typ | Anzahl | Anteil |');
     L.push('| :--- | :--- | ---: | ---: |');
+    if (r === 'treppe') {
+      for (const m of treppeMaterial.slice().sort((a, b) => (b.v - a.v) || (a.base < b.base ? -1 : 1))) {
+        L.push(`| ${cell(m.name)} (4 Richtungen, normal und umgedreht) | \`${m.base}@n|o|s|w[_oben]\` | ${n(m.v)} | ${pct(m.v, total)} % |`.replace('n|o|s|w', 'n\\|o\\|s\\|w'));
+      }
+      continue;
+    }
     for (const t of ts) {
       const v = totals.get(t) || 0;
       const also = (palette.PALETTE[t].alsoRoles || []).map((a) => '`' + a + '`').join(', ');
@@ -350,6 +383,8 @@ function renderProjectReadme(project, mods, ctx) {
   L.push('## Gesamt-Stückliste');
   L.push('');
   L.push(typeTable(sortedCounts(ctx.typeTotals), ctx.names, true, ctx.totalBlocks));
+  const trProjekt = treppenTabelle(ctx.typeTotals, ctx.palette);
+  if (trProjekt) { L.push(''); L.push(trProjekt); }
   L.push('');
   return L.join('\n');
 }

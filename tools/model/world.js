@@ -3,13 +3,15 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { VoxelGrid, VoxelConflictError } = require('../geom/grid.js');
+const { VoxelGrid, VoxelConflictError, packKey } = require('../geom/grid.js');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const DEFAULT_MODEL_DIR = __dirname;
 const DEFAULT_CONTENT_DIR = path.join(ROOT, 'content', 'steps_de');
 const OPTIONAL_LIBS = ['arches', 'vaults', 'patterns', 'dome', 'roofs'];
 const ID_RE = /^[a-z][a-z0-9_]*$/;
+// Deklarierte Öffnungen (BEGEHBARKEIT.md §3): Luftzellen einer Tür, eines Tores usw.
+const OEFFNUNG_ARTEN = ['tuer', 'tor', 'fenster_offen', 'arkade', 'loggia', 'scharte'];
 
 function loadOptional(name, warnings) {
   const file = path.join(__dirname, '..', 'geom', name + '.js');
@@ -89,6 +91,17 @@ function buildWorld(opts = {}) {
   let q = null;
   const files = new Map();
   const result = [];
+  const oeffnungen = [];     // [{ module, part, art, keys }] (keys: gepackte Zellschlüssel der Luftzellen)
+  const grundrisse = new Map(); // "modul|bauteil" -> Set(x * 65536 + z): Grundrissspalten (R13 bei Häusern)
+  const unzugaenglich = [];  // [{ module, part, begruendung, keys }]
+  const zellKeys = (zellen) => {
+    const keys = [];
+    for (const c of zellen) {
+      const x = Array.isArray(c) ? c[0] : c.x, y = Array.isArray(c) ? c[1] : c.y, z = Array.isArray(c) ? c[2] : c.z;
+      keys.push(packKey(x, y, z));
+    }
+    return keys;
+  };
   if (quartier) {
     try {
       q = require('../city/quartier.js').loadQuartier(project);
@@ -165,6 +178,22 @@ function buildWorld(opts = {}) {
         rec.parts.push(part);
         current = id;
         return w;
+      },
+      // Öffnung deklarieren: zellen = Luftzellen [{x,y,z}] oder [[x,y,z]]; art in tuer|tor|fenster_offen|arkade|loggia|scharte
+      oeffnung(zellen, art) {
+        if (!OEFFNUNG_ARTEN.includes(art)) throw new TypeError(`oeffnung: art muss ${OEFFNUNG_ARTEN.join('|')} sein: ${art}`);
+        oeffnungen.push({ module: n, part: current, art, keys: zellKeys(zellen) });
+      },
+      // Grundriss des aktuellen Bauteils (Säulen [x, z]); R13 nutzt ihn als Innenbereich eines Hauses
+      grundriss(spalten) {
+        const s = new Set();
+        for (const c of spalten) s.add((Array.isArray(c) ? c[0] : c.x) * 65536 + (Array.isArray(c) ? c[1] : c.z));
+        grundrisse.set(n + "|" + current, s);
+      },
+      // Zellen, die bewusst nicht erreichbar sind (R13), mit Begründung
+      unzugaenglich(zellen, begruendung) {
+        if (typeof begruendung !== 'string' || !begruendung.trim()) throw new TypeError('unzugaenglich: Begründung ist Pflicht');
+        unzugaenglich.push({ module: n, part: current, begruendung, keys: zellKeys(zellen) });
       }
     };
     try {
@@ -182,7 +211,7 @@ function buildWorld(opts = {}) {
       }
     }
   }
-  return { grid, modules: result, errors, warnings, modelDir, contentDir, project: projectMeta };
+  return { grid, modules: result, errors, warnings, modelDir, contentDir, project: projectMeta, oeffnungen, unzugaenglich, grundrisse };
 }
 
-module.exports = { buildWorld, discoverModuleFiles, listModules, isQuartier, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };
+module.exports = { OEFFNUNG_ARTEN, buildWorld, discoverModuleFiles, listModules, isQuartier, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };
