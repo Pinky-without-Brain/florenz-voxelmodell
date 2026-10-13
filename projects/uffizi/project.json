@@ -2,16 +2,31 @@
   "id": "uffizi",
   "title": "Uffizien und Corridoio Vasariano",
   "type": "wahrzeichen",
-  "gebaeude": ["w477279033"],
+  "gebaeude": [
+    "w477279033"
+  ],
   "bodenY": 65,
-  "rahmen": { "ox": -170, "oz": 907, "thetaDeg": 17.4 },
+  "rahmen": {
+    "ox": -170,
+    "oz": 907,
+    "thetaDeg": 17.4
+  },
   "masken": {
     "korridor": {
-      "gebaeude": ["w328477211", "r2302811", "w1344547176"],
+      "gebaeude": [
+        "w328477211",
+        "r2302811",
+        "w1344547176"
+      ],
       "xMin": -528,
-      "abzugProjekte": ["palazzo_vecchio", "loggia_dei_lanzi", "orsanmichele"],
+      "abzugProjekte": [
+        "palazzo_vecchio",
+        "loggia_dei_lanzi",
+        "orsanmichele"
+      ],
       "abzugHaupt": true
     }
   },
-  "luftraum": 1
+  "luftraum": 1,
+  "begehbarkeit": "pflicht"
 }

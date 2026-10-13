@@ -43,7 +43,7 @@ module.exports = function tribuna(P) {
       void off;
       for (let L = 52; L <= 58; L++) {
         if (L >= 54 && L <= 57 && Math.abs(off2) < 1.5) {
-          if (r > aO - 2 && r <= aO - 1) claim(i, L, 'tribuna_tambour', 'glas'); else air(i, L);
+          if (r > aO - 2 && r <= aO - 1) claim(i, L, 'tribuna_tambour', 'glas'); else air(i, L, r > aO - 1 ? 'fenster_offen' : null, 'tribuna_tambour');
         } else claim(i, L, 'tribuna_tambour', L === 52 || L === 58 ? 'serena' : 'putz');
       }
     } else {
@@ -65,7 +65,7 @@ module.exports = function tribuna(P) {
       if (j < 0 || topOf[j] < 0) { continue; }
       yHi = Math.max(yHi, topOf[j]);
     }
-    const yLo = rhoO[i] > aO - 1 ? SPRING : lo0;
+    const yLo = rhoO[i] > aO - 3 ? SPRING : lo0;      // der Kuppelfuß liegt auf dem ganzen Tambourring (kein Absatz)
     for (let L = yLo; L <= yHi; L++) claim(i, L, 'tribuna_kuppel', 'dach');
   }
   P.tribuna.kuppelTop = topOf;
@@ -78,9 +78,15 @@ module.exports = function tribuna(P) {
     const offen = ring && (Math.abs(du) < 1 || Math.abs(dw) < 1) && !(Math.abs(du) < 1 && Math.abs(dw) < 1);
     for (let L = 68; L <= 76; L++) {
       if (!ring) continue;
-      if (offen && L >= 70 && L <= 73) { air(i, L); continue; }
+      if (offen && L >= 70 && L <= 73) { claim(i, L, 'tribuna_laterne', 'glas'); continue; }       // verglaste Laternenfenster
       claim(i, L, 'tribuna_laterne', 'serena');
     }
     range(i, 77, 78, 'tribuna_laterne', 'dach');
+  }
+  // Innenraum der Laterne (nicht zugänglich, R13): Zellen Lage 68..76 innerhalb des Rings
+  P.laterneInnen = [];
+  for (let i = 0; i < N; i++) {
+    if (rhoL[i] > aL - 1) continue;
+    for (let L = 68; L <= 76; L++) if (P.free(i, L) || P.own[i * P.SLOTS + L] === P.AIR_ID) P.laterneInnen.push(i * P.SLOTS + L);
   }
 };

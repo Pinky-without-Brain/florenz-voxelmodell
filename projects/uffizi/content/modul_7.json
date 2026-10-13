@@ -1,7 +1,7 @@
 {
   "module": 7,
   "title": "Decken, Innenwände & Treppen",
-  "subtitle": "Bautüte 7: Die Geschossdecken, die Mittelwände der Flügel, vier Treppen und die Treppe zum Korridor",
+  "subtitle": "Bautüte 7: Mittelwände, Trennwände mit Türen, Geschossdecken, Wendeltreppen, der Scalone del Vasari und die Treppe zum Cavalcavia",
   "icon": "🪜",
   "parts": {
     "decke_14": {
@@ -34,24 +34,38 @@
     },
     "spinnwand_fluegel": {
       "title": "Längsmittelwand der Flügel",
-      "description": "In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.",
+      "description": "In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).",
       "tip": "Die Türen liegen auf der Mitte des Jochs.",
       "caution": "Die Wand ist optional und trägt die Decken in der Mitte der Flügel.",
       "fact": "Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen."
     },
     "treppen": {
-      "title": "Vier Treppen in den Flügelenden",
-      "description": "In den Nord- und Südenden beider Flügel führen vier gerade Treppen, 6 Blöcke breit, mit 36 Stufen vom Erdgeschoss zum Piano nobile. Jede Stufe ist 1 Block hoch und 1 tief. Die Deckenlöcher darüber geben genug Kopffreiheit.",
-      "tip": "Baue die Treppe als Block aus Stufen von unten nach oben.",
-      "caution": "Die Decken lassen die Löcher über der Treppe frei.",
-      "fact": "Im Modell sind die Treppen vereinfachte, gerade Läufe."
+      "title": "Wendeltreppen aus Treppenblöcken",
+      "description": "Fünf quadratische Wendeltreppen, 5 mal 5 Blöcke, führen vom Erdgeschoss bis zur Galerie: in beiden Flügelenden, im Arno-Riegel und am Südende des Ostflügels. Um einen Kern steigt die Treppe mit einem Treppenblock je Viertelumlauf. Die Ausstiege liegen bündig mit den Geschossen, die Decken sind über dem Schacht offen.",
+      "tip": "Setze zuerst den Kern und die Eckpodeste aus Pietra serena, dann die Treppenblöcke mit der Aufstiegsrichtung.",
+      "caution": "Über jeder Stufe bleiben 3 Blöcke Luft. Die Treppenblöcke haben eine Richtung; prüfe sie auf jeder Seite.",
+      "fact": "Die Wendeltreppen sind eine Vereinfachung des Modells für die Verwaltungstreppen der Flügelenden."
     },
     "korridor_treppe": {
       "title": "Treppe zum Cavalcavia und Austritt zum Arno",
-      "description": "In der Südwestspitze der Uffizien führt eine Treppe, 7 Blöcke breit, mit 23 Stufen von Y 101 hinunter bis Y 78, dem Boden des Korridors am Arno. Seitenwände rahmen sie, unten schließt ein Podest an. Von dort führt eine Tür, 7 breit, in die Südwestwand zum Lungarno-Korridor.",
+      "description": "Vom Boden der Galerie (Y 101) führt eine Treppe aus 23 Stufen, 6 breit, nach Westen hinab auf ein Podest in Höhe des Korridorbodens (Y 78). Von dort geht die offene Tür der Südwestwand in den Lungarno-Korridor. Der Unterbau ist massiv.",
       "tip": "Zähle die Stufen: 23 Stufen für 23 Blöcke Höhe.",
-      "caution": "Die Treppe liegt in den Uffizien, der Korridor draußen gehört zu Modul 8.",
-      "fact": "Der Korridor überwand hier den Höhenunterschied zwischen Uffizien und Lungarno. Die Lage der Treppe ist im Modell eine Annahme."
+      "caution": "Das Podest liegt direkt an der Tür. Lass die Tür offen.",
+      "fact": "Der Corridoio überwand hier den Höhenunterschied zwischen den Uffizien und dem Ufer. Die Lage der Treppe ist im Modell eine Annahme."
+    },
+    "trennwaende": {
+      "title": "Trennwände der Joche mit Türen",
+      "description": "An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.",
+      "tip": "Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.",
+      "caution": "Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.",
+      "fact": "Die Raumfolge der Uffizien ist durchgehend (Enfilade)."
+    },
+    "scalone_treppe": {
+      "title": "Scalone del Vasari",
+      "description": "Die Haupttreppe im Ostflügel hat zwei gerade Läufe, je 5 Blöcke breit, auf massivem Unterbau: 20 Stufen vom Erdgeschoss zum Piano nobile und, daneben zurücklaufend, 16 Stufen zur Galerie im zweiten Obergeschoss. Das Podest am Südende ist der Boden des Piano nobile.",
+      "tip": "Baue erst den Unterbau, dann die Treppenblöcke Stufe für Stufe; die Decken bleiben darüber offen.",
+      "caution": "Lauf 1 steigt nach Süden, Lauf 2 nach Norden. Prüfe die Richtung der Treppenblöcke.",
+      "fact": "Die Lage im Ostflügel folgt dem Auftrag; die genaue Gestalt ist im Modell eine vereinfachte Annahme."
     }
   }
 }

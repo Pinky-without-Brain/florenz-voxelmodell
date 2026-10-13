@@ -1,12 +1,21 @@
 'use strict';
-// Stufe 5: Innenwände und Treppen (Modul 7): Längsmittelwand (spinnwand_fluegel), vier Flügeltreppen, Treppe zum Cavalcavia.
+// Stufe 5: Innenwände (Modul 7): Längsmittelwand (spinnwand_fluegel), Portal zur Tribuna, Trennwände der Joche mit Türen.
+// Geschosse: EG Lage 1..13 (Decke 14), Mezzanin 15..19 (Decke 20), Piano nobile 21..35 (Decke 36), Galerie 37..50 (Decke 51).
+// Treppen stehen in _p_treppen.js.
+
+const GESCHOSSE = [
+  { name: 'eg', von: 1, bis: 13, tuer: [1, 8] },
+  { name: 'mz', von: 15, bis: 19, tuer: [15, 18] },
+  { name: 'pn', von: 21, bis: 35, tuer: [21, 28] },
+  { name: 'gal', von: 37, bis: 50, tuer: [37, 44] }
+];
 
 module.exports = function innen(P) {
-  const { S, N, claim, air, kind, zone, tAll, fmod, ZONE_W, ZONE_E, K_GEN } = P;
-  const { ww } = S;
+  const { S, N, claim, air, carve, free, kind, zone, tAll, fmod, ZONE_W, ZONE_E, ZONE_X, K_GEN, tribuna } = P;
+  const { ww, uu, cx, cz } = S;
+  const { rhoO, aO } = tribuna;
 
-  // --- spinnwand_fluegel: Längsmittelwand je Flügel bei t 27..28, Lage 1..49, Türen 3 x 8 im Abstand 24
-  const TUER = [[1, 8], [21, 28], [37, 44]];      // je Geschoss eine Tür auf der Mitte des Moduls
+  // --- spinnwand_fluegel: Längsmittelwand je Flügel bei t 27..28, Lage 1..49, Türen 3 x 8 (Mezzanin 3 x 4) in der Jochmitte
   for (let i = 0; i < N; i++) {
     if (kind[i] !== K_GEN) continue;
     const z = zone[i];
@@ -15,50 +24,73 @@ module.exports = function innen(P) {
     if (w < 12 || w >= 276) continue;
     const { wl } = fmod(ww[i]);
     for (let L = 1; L <= 49; L++) {
-      if (wl >= 13 && wl <= 15 && TUER.some(([a, b]) => L >= a && L <= b)) { air(i, L); continue; }
+      if (wl >= 13 && wl <= 15 && GESCHOSSE.some((g) => L >= g.tuer[0] && L <= g.tuer[1])) { air(i, L); continue; }
       claim(i, L, 'spinnwand_fluegel', 'putz');
     }
   }
 
-  // --- treppen: 4 gerade Treppen, 6 breit (t 16..21), 36 Stufen (1 hoch, 1 tief) von Lage 1 bis 36
-  const stufenSpalten = [];
-  for (const sd of [ZONE_W, ZONE_E]) {
-    for (const nord of [true, false]) {
-      const byW = new Map();
-      for (let i = 0; i < N; i++) {
-        if (kind[i] !== K_GEN || zone[i] !== sd || tAll[i] < 16 || tAll[i] > 21) continue;
-        const w = Math.floor(ww[i]);
-        if (!byW.has(w)) byW.set(w, []);
-        byW.get(w).push(i);
-      }
-      for (let k = 1; k <= 36; k++) {
-        const w = nord ? 12 + k : 265 - k;
-        for (const i of byW.get(w) || []) {
-          for (let L = 1; L <= k; L++) claim(i, L, 'treppen', 'serena');
-          // Deckenlöcher über der Treppe (Kopffreiheit 3): Lage 14, 20, 36
-          for (const Ld of [14, 20, 36]) if (k < Ld && k >= Ld - 3) air(i, Ld);
-          stufenSpalten.push(i);
-        }
-      }
-    }
-  }
-  P.treppenSpalten = stufenSpalten;
-
-  // --- korridor_treppe (K8: in M_UF, deshalb Modul 7): Treppe zum Cavalcavia in der Südwestspitze, im Rahmen UF u -91..-68,
-  // 7 breit (w 260..266). 23 Stufen von Lage 36 (Y 101, u = -68) abwärts nach -u bis Lage 14; danach Podest bis Lage 13
-  // (Y 78 = Boden des Lungarno-Korridors) bis zum Austritt in Kante 1. Seitenwände 2 dick, Höhe Stufe + 6.
-  const KT = 'korridor_treppe';
+  // --- Portal zur Tribuna: 3 breit in der Mitte der Westfläche des Oktogons (w 204..206), durch Rückwände und Ring
   for (let i = 0; i < N; i++) {
-    if (kind[i] !== K_GEN) continue;
-    const iu = Math.floor(S.uu[i]), iw = Math.floor(ww[i]);
-    const k = -68 - iu;
-    if (k < 0 || k > 29) continue;
-    const T = k <= 22 ? 36 - k : 13;
-    if (iw >= 260 && iw <= 266) {
-      for (let L = 1; L <= T; L++) claim(i, L, KT, 'serena');
-      for (const Ld of [14, 20, 36]) if (T < Ld && T >= Ld - 3) air(i, Ld);        // Kopffreiheit unter den Decken
-    } else if (iw === 258 || iw === 259 || iw === 267 || iw === 268) {
-      for (let L = 1; L <= Math.min(44, Math.max(T, 13) + 6); L++) claim(i, L, KT, 'putz');
+    if (zone[i] !== ZONE_E || ww[i] < 204 || ww[i] >= 207) continue;
+    const t = tAll[i];
+    if (t < 11 || t > 20) continue;
+    for (const g of GESCHOSSE) {
+      if (t <= 14 && (g.name === 'mz' || g.name === 'pn')) continue;          // dort keine Rückwand
+      for (let L = g.tuer[0]; L <= g.tuer[1]; L++) carve(i, L);
     }
   }
+
+  // --- Trennwände: Ebenen am Jochanfang (w = 12 + 24 k, 2 dick), je Geschoss in jeder zusammenhängenden Spanne eine Tür (3 breit)
+  const planeOf = (w) => {
+    const f = Math.floor(w);
+    if (f === 274 || f === 275) return 11;
+    if (f < 36 || f >= 274) return -1;
+    const k = Math.floor((f - 12) / 24);
+    return (f - 12) % 24 <= 1 ? k : -1;
+  };
+  P.trennwandSpannen = [];
+  for (const g of GESCHOSSE) {
+    const spans = new Map();                               // Ebene -> Spalten
+    for (let i = 0; i < N; i++) {
+      const pl = planeOf(ww[i]);
+      if (pl < 0) continue;
+      if (rhoO[i] <= aO + 3.5) continue;
+      if (zone[i] === ZONE_E && ww[i] < 62 && uu[i] >= 50) continue;          // Halle des Scalone del Vasari bleibt ungeteilt
+      const zn = zone[i];
+      if (zn === P.ZONE_S) continue;
+      let ok;
+      if (zn === ZONE_W || zn === ZONE_E) {
+        const t = tAll[i];
+        if (g.name === 'eg' || g.name === 'gal') ok = kind[i] === K_GEN && t >= 15;
+        else ok = (kind[i] === K_GEN || kind[i] === P.K_F) && t >= 5;
+      } else ok = zn === ZONE_X && kind[i] === K_GEN && uu[i] > -45 && uu[i] < 96;
+      if (!ok || !free(i, g.von)) continue;
+      let a = spans.get(pl);
+      if (!a) spans.set(pl, a = []);
+      a.push(i);
+    }
+    for (const [pl, cols] of spans) {
+      cols.sort((a, b) => uu[a] - uu[b]);
+      let run = [];
+      const flush = () => {
+        if (!run.length) return;
+        const lo = uu[run[0]], hi = uu[run[run.length - 1]];
+        if (hi - lo >= 5) {
+          const mid = (lo + hi) / 2;
+          for (const i of run) {
+            if (Math.abs(uu[i] - mid) <= 1.5) { for (let L = g.tuer[0]; L <= g.tuer[1]; L++) air(i, L); }
+          }
+          P.trennwandSpannen.push({ geschoss: g.name, ebene: pl, u0: lo, u1: hi, mitte: mid });
+        }
+        for (const i of run) for (let L = g.von; L <= (g.name === 'gal' && zone[i] === ZONE_X ? 43 : g.bis); L++) claim(i, L, 'trennwaende', 'putz');
+        run = [];
+      };
+      for (const i of cols) {
+        if (run.length && uu[i] - uu[run[run.length - 1]] > 2.2) flush();
+        run.push(i);
+      }
+      flush();
+    }
+  }
+  void cx; void cz;
 };

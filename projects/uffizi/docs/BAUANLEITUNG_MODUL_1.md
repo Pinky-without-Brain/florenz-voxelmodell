@@ -8,34 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.467 |
+| Blöcke | 47.681 |
 | Bauschritte | 35 |
 | Y-Bereich | 66 bis 79 |
 | X-Ausdehnung | -269 bis -132 (138 Blöcke) |
 | Z-Ausdehnung | 903 bis 1194 (292 Blöcke) |
 | Kleinster Schritt | 1.046 Blöcke (Schritt 1.15) |
-| Mittlerer Schritt | 1.413 Blöcke |
-| Größter Schritt | 1.908 Blöcke (Schritt 1.7) |
+| Mittlerer Schritt | 1.362 Blöcke |
+| Größter Schritt | 1.839 Blöcke (Schritt 1.28) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 25.829 | 52,2 % |
-| Glatter Stein | `smooth_stone` | 22.350 | 45,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 520 | 1,1 % |
-| Graues Buntglas | `gray_stained_glass` | 408 | 0,8 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 360 | 0,7 % |
+| Endsteinziegel | `end_stone_bricks` | 22.540 | 47,3 % |
+| Glatter Stein | `smooth_stone` | 17.006 | 35,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.297 | 2,7 % |
+| Polierter Tuffstein | `polished_tuff` | 1.269 | 2,7 % |
+| Weiße Keramik | `white_terracotta` | 1.220 | 2,6 % |
+| Grüne Keramik | `green_terracotta` | 798 | 1,7 % |
+| Goldblock | `gold_block` | 780 | 1,6 % |
+| Blaue Keramik | `blue_terracotta` | 678 | 1,4 % |
+| Rote Keramik | `red_terracotta` | 523 | 1,1 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 506 | 1,1 % |
+| Graues Buntglas | `gray_stained_glass` | 477 | 1,0 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 360 | 0,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 227 | 0,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `portikus_pfeiler` | Pfeiler mit Nischen | 3.446 | 1.1–1.2 |
+| 1 | `portikus_pfeiler` | Pfeiler mit Nischen | 3.485 | 1.1–1.2 |
 | 2 | `portikus_saeulen` | Säulen mit Kapitellen | 2.160 | 1.3–1.4 |
 | 3 | `portikus_gebaelk` | Gebälk über der Säulenhalle | 3.174 | 1.5–1.6 |
-| 4 | `portikus_rueckwand` | Rückwand der Säulenhalle mit Türen | 26.757 | 1.7–1.26 |
-| 5 | `portikus_decke` | Decke der Säulenhalle | 3.696 | 1.27–1.28 |
+| 4 | `portikus_rueckwand` | Rückwand der Säulenhalle mit Türen | 24.975 | 1.7–1.26 |
+| 5 | `portikus_decke` | Decke der Säulenhalle | 3.653 | 1.27–1.28 |
 | 6 | `stirnwaende` | Stirnwände an den Flügelenden | 10.234 | 1.29–1.35 |
 
 ## Bauschritte
@@ -43,14 +51,14 @@
 ### Schritt 1.1 – Pfeiler mit Nischen – Teil 1/2 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.758
+- **Blöcke:** 1.767
 - **Bauteile:** `portikus_pfeiler`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.758 |
+| Glatter Stein | `smooth_stone` | 1.767 |
 
 **Beschreibung**
 
@@ -71,14 +79,14 @@ Die dorische Ordnung und der Wechsel von Pfeiler und Säule gehören zum Entwurf
 ### Schritt 1.2 – Pfeiler mit Nischen – Teil 2/2 (Y 72–77)
 
 - **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.688
+- **Blöcke:** 1.718
 - **Bauteile:** `portikus_pfeiler`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.688 |
+| Glatter Stein | `smooth_stone` | 1.718 |
 
 **Beschreibung**
 
@@ -191,7 +199,14 @@ Das Gebälk trägt die gesamte obere Fassade. Die Spannweite von 5 Blöcken ents
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.587 |
+| Glatter Stein | `smooth_stone` | 508 |
+| Grüne Keramik | `green_terracotta` | 242 |
+| Weiße Keramik | `white_terracotta` | 233 |
+| Hellblaue Keramik | `light_blue_terracotta` | 205 |
+| Goldblock | `gold_block` | 160 |
+| Blaue Keramik | `blue_terracotta` | 128 |
+| Gelbe Keramik | `yellow_terracotta` | 93 |
+| Rote Keramik | `red_terracotta` | 18 |
 
 **Beschreibung**
 
@@ -212,15 +227,14 @@ Das Gebälk trägt die gesamte obere Fassade. Die Spannweite von 5 Blöcken ents
 ### Schritt 1.7 – Rückwand der Säulenhalle mit Türen – Teil 1/20 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.908
+- **Blöcke:** 1.831
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.843 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.831 |
 
 **Beschreibung**
 
@@ -241,15 +255,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.8 – Rückwand der Säulenhalle mit Türen – Teil 2/20 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.908
+- **Blöcke:** 1.520
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.843 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.520 |
 
 **Beschreibung**
 
@@ -270,15 +283,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.9 – Rückwand der Säulenhalle mit Türen – Teil 3/20 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.908
+- **Blöcke:** 1.520
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.843 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.520 |
 
 **Beschreibung**
 
@@ -299,15 +311,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.10 – Rückwand der Säulenhalle mit Türen – Teil 4/20 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.908
+- **Blöcke:** 1.520
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.843 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.520 |
 
 **Beschreibung**
 
@@ -328,15 +339,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.11 – Rückwand der Säulenhalle mit Türen – Teil 5/20 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.908
+- **Blöcke:** 1.520
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.843 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.520 |
 
 **Beschreibung**
 
@@ -357,16 +367,15 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.12 – Rückwand der Säulenhalle mit Türen – Teil 6/20 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.517
+- **Blöcke:** 1.466
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.316 |
-| Graues Buntglas | `gray_stained_glass` | 136 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.307 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
 
 **Beschreibung**
 
@@ -387,16 +396,15 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.13 – Rückwand der Säulenhalle mit Türen – Teil 7/20 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.517
+- **Blöcke:** 1.466
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.316 |
-| Graues Buntglas | `gray_stained_glass` | 136 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.307 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
 
 **Beschreibung**
 
@@ -417,16 +425,15 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.14 – Rückwand der Säulenhalle mit Türen – Teil 8/20 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.517
+- **Blöcke:** 1.466
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.316 |
-| Graues Buntglas | `gray_stained_glass` | 136 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Endsteinziegel | `end_stone_bricks` | 1.307 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
 
 **Beschreibung**
 
@@ -734,7 +741,9 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.046 |
+| Polierter Tuffstein | `polished_tuff` | 484 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 479 |
+| Endsteinziegel | `end_stone_bricks` | 83 |
 
 **Beschreibung**
 
@@ -762,7 +771,9 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.065 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 522 |
+| Polierter Tuffstein | `polished_tuff` | 473 |
+| Endsteinziegel | `end_stone_bricks` | 70 |
 
 **Beschreibung**
 
@@ -783,18 +794,24 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.27 – Decke der Säulenhalle – Teil 1/2 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.836
+- **Blöcke:** 1.814
 - **Bauteile:** `portikus_decke`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.836 |
+| Weiße Keramik | `white_terracotta` | 459 |
+| Goldblock | `gold_block` | 304 |
+| Grüne Keramik | `green_terracotta` | 296 |
+| Blaue Keramik | `blue_terracotta` | 283 |
+| Rote Keramik | `red_terracotta` | 250 |
+| Hellblaue Keramik | `light_blue_terracotta` | 148 |
+| Gelbe Keramik | `yellow_terracotta` | 74 |
 
 **Beschreibung**
 
-Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf.
+Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf. Das Material der Platte wechselt in einem Muster aus Fresko-Farbfeldern mit Goldbändern (Grotesken, vereinfacht).
 
 **Tipp**
 
@@ -811,18 +828,24 @@ Die Säulenhalle ist 5 Meter tief, so tief wie ein Wohnzimmer.
 ### Schritt 1.28 – Decke der Säulenhalle – Teil 2/2 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.860
+- **Blöcke:** 1.839
 - **Bauteile:** `portikus_decke`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.860 |
+| Weiße Keramik | `white_terracotta` | 528 |
+| Goldblock | `gold_block` | 316 |
+| Blaue Keramik | `blue_terracotta` | 267 |
+| Grüne Keramik | `green_terracotta` | 260 |
+| Rote Keramik | `red_terracotta` | 255 |
+| Hellblaue Keramik | `light_blue_terracotta` | 153 |
+| Gelbe Keramik | `yellow_terracotta` | 60 |
 
 **Beschreibung**
 
-Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf.
+Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf. Das Material der Platte wechselt in einem Muster aus Fresko-Farbfeldern mit Goldbändern (Grotesken, vereinfacht).
 
 **Tipp**
 
@@ -1014,7 +1037,9 @@ Die Eckpfeiler geben der langen Halle einen festen Abschluss, wie die Pfeiler ei
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.462 |
+| Glatter Stein | `smooth_stone` | 854 |
+| Polierter Tuffstein | `polished_tuff` | 312 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 296 |
 
 **Beschreibung**
 

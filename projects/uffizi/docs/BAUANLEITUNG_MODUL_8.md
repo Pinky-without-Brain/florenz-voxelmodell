@@ -8,32 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 34.280 |
-| Bauschritte | 22 |
+| Blöcke | 34.286 |
+| Bauschritte | 23 |
 | Y-Bereich | 51 bis 110 |
 | X-Ausdehnung | -528 bis -85 (444 Blöcke) |
 | Z-Ausdehnung | 907 bis 1155 (249 Blöcke) |
 | Kleinster Schritt | 1.187 Blöcke (Schritt 8.1) |
-| Mittlerer Schritt | 1.558 Blöcke |
+| Mittlerer Schritt | 1.491 Blöcke |
 | Größter Schritt | 1.948 Blöcke (Schritt 8.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 24.171 | 70,5 % |
-| Glatter Stein | `smooth_stone` | 9.899 | 28,9 % |
+| Polierter Andesit | `polished_andesite` | 22.469 | 65,5 % |
+| Glatter Stein | `smooth_stone` | 9.905 | 28,9 % |
+| Goldblock | `gold_block` | 1.191 | 3,5 % |
+| Braune Keramik | `brown_terracotta` | 216 | 0,6 % |
 | Graues Buntglas | `gray_stained_glass` | 210 | 0,6 % |
+| Schwarzer Beton | `black_concrete` | 106 | 0,3 % |
+| Orange Keramik | `orange_terracotta` | 53 | 0,2 % |
+| Blaue Keramik | `blue_terracotta` | 45 | 0,1 % |
+| Grüne Keramik | `green_terracotta` | 42 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 33 | 0,1 % |
+| Seelaterne | `sea_lantern` | 16 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `bruecke_bogen` | Tragbogen der Brücke | 1.187 | 8.1 |
-| 2 | `bruecke_korridor` | Gang auf der Brücke | 1.623 | 8.2 |
-| 3 | `lungarno_arkade` | Arkaden am Lungarno | 9.031 | 8.3–8.7 |
+| 2 | `bruecke_korridor` | Gang auf der Brücke | 1.446 | 8.2 |
+| 3 | `lungarno_arkade` | Arkaden am Lungarno | 9.037 | 8.3–8.7 |
 | 4 | `lungarno_boden` | Boden des Korridors am Lungarno | 5.308 | 8.8–8.11 |
-| 5 | `lungarno_korridor` | Gang und Dach am Lungarno | 17.131 | 8.12–8.22 |
+| 5 | `lungarno_korridor` | Gang und Dach am Lungarno | 15.606 | 8.12–8.22 |
+| 6 | `corridoio_bilder` | Selbstbildnisse im Corridoio | 1.686 | 8.23 |
+| 7 | `corridoio_licht` | Deckenleuchten im Corridoio | 16 | 8.23 |
 
 ## Bauschritte
 
@@ -68,14 +78,14 @@ Die Brücke überspannt die Via della Ninna, die schmale Gasse zwischen den beid
 ### Schritt 8.2 – Gang auf der Brücke
 
 - **Y-Bereich:** 100 bis 110
-- **Blöcke:** 1.623
+- **Blöcke:** 1.446
 - **Bauteile:** `bruecke_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.149 |
+| Polierter Andesit | `polished_andesite` | 972 |
 | Glatter Stein | `smooth_stone` | 450 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -98,7 +108,7 @@ Der Korridor hat Giorgio Vasari 1565 in nur fünf Monaten gebaut, so die Überli
 ### Schritt 8.3 – Arkaden am Lungarno – Teil 1/5 (Y 51–62)
 
 - **Y-Bereich:** 51 bis 62
-- **Blöcke:** 1.660
+- **Blöcke:** 1.666
 - **Bauteile:** `lungarno_arkade`
 
 **Teileliste**
@@ -106,6 +116,7 @@ Der Korridor hat Giorgio Vasari 1565 in nur fünf Monaten gebaut, so die Überli
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.660 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -379,14 +390,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.13 – Gang und Dach am Lungarno – Teil 2/11 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.752
+- **Blöcke:** 1.450
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.752 |
+| Polierter Andesit | `polished_andesite` | 1.450 |
 
 **Beschreibung**
 
@@ -407,14 +418,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.14 – Gang und Dach am Lungarno – Teil 3/11 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.605
+- **Blöcke:** 1.303
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.543 |
+| Polierter Andesit | `polished_andesite` | 1.241 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
 
 **Beschreibung**
@@ -436,14 +447,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.15 – Gang und Dach am Lungarno – Teil 4/11 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.605
+- **Blöcke:** 1.303
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.543 |
+| Polierter Andesit | `polished_andesite` | 1.241 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
 
 **Beschreibung**
@@ -465,14 +476,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.16 – Gang und Dach am Lungarno – Teil 5/11 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.605
+- **Blöcke:** 1.303
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.543 |
+| Polierter Andesit | `polished_andesite` | 1.241 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
 
 **Beschreibung**
@@ -494,14 +505,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.17 – Gang und Dach am Lungarno – Teil 6/11 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.752
+- **Blöcke:** 1.450
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.752 |
+| Polierter Andesit | `polished_andesite` | 1.450 |
 
 **Beschreibung**
 
@@ -550,14 +561,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.19 – Gang und Dach am Lungarno – Teil 8/11 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.333
+- **Blöcke:** 1.326
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.333 |
+| Polierter Andesit | `polished_andesite` | 1.326 |
 
 **Beschreibung**
 
@@ -578,14 +589,14 @@ Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
 ### Schritt 8.20 – Gang und Dach am Lungarno – Teil 9/11 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.321
+- **Blöcke:** 1.313
 - **Bauteile:** `lungarno_korridor`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.321 |
+| Polierter Andesit | `polished_andesite` | 1.313 |
 
 **Beschreibung**
 
@@ -658,3 +669,38 @@ Der Querschnitt bei x = −528 muss mit dem des Ponte Vecchio übereinstimmen.
 **Fakt**
 
 Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti.
+
+### Schritt 8.23 – Selbstbildnisse im Corridoio & Deckenleuchten im Corridoio
+
+- **Y-Bereich:** 80 bis 109
+- **Blöcke:** 1.702
+- **Bauteile:** `corridoio_bilder`, `corridoio_licht`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Goldblock | `gold_block` | 1.191 |
+| Braune Keramik | `brown_terracotta` | 216 |
+| Schwarzer Beton | `black_concrete` | 106 |
+| Orange Keramik | `orange_terracotta` | 53 |
+| Blaue Keramik | `blue_terracotta` | 45 |
+| Grüne Keramik | `green_terracotta` | 42 |
+| Rote Keramik | `red_terracotta` | 33 |
+| Seelaterne | `sea_lantern` | 16 |
+
+**Beschreibung**
+
+An den Innenwänden des Gangs hängen Bildnisse als Farbfelder, 2 breit und 3 hoch, mit Goldrahmen (Brücke Y 103 bis 107, Lungarno Y 80 bis 84). Haar, Gesicht und Gewand sind je ein Farbfeld. Seelaternen ersetzen einzelne Zellen der Decke, höchstens 10 Blöcke voneinander entfernt (Brücke Y 109, Lungarno Y 86).
+
+**Tipp**
+
+Ersetze nur die innerste Wandschicht; die Fenster bleiben frei. Setze die Leuchten in die unterste Lage der Decke.
+
+**Achtung**
+
+Das sind vereinfachte Farbfelder, keine Nachbildung bestimmter Gemälde. Eine Leuchte ersetzt einen Deckenblock; sie hängt nicht frei im Gang.
+
+**Fakt**
+
+Im Korridor hängt eine berühmte Sammlung von Selbstbildnissen von Künstlern. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht. Ohne Licht sind Innenräume in Minecraft dunkel; deshalb hat jeder Raum Leuchten.

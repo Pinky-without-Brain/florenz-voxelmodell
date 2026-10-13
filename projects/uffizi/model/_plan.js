@@ -17,17 +17,20 @@ const PART_LIST = [
   // Modul 3 Dachloggia und Kranzgesims
   ['loggia_boden', 3], ['loggia_pfeiler_saeulen', 3], ['loggia_verglasung', 3], ['loggia_rueckwand', 3], ['kranzgesims', 3],
   // Modul 4 Südbau
-  ['suedbau_waende', 4], ['serliana', 4], ['durchgang_arno', 4], ['verone_arno', 4],
+  ['suedbau_waende', 4], ['serliana', 4], ['serliana_aufsatz', 4], ['durchgang_arno', 4], ['verone_arno', 4],
   // Modul 5 Rückseiten
   ['rueckseiten_sockel', 5], ['rueckseiten_wand', 5], ['rueckseiten_gesims', 5], ['loggia_anschluss', 5],
   ['ostnord_front', 5],
   // Modul 6 Dächer und Tribuna
-  ['dach_fluegel', 6], ['dach_nebenbau', 6], ['tribuna_tambour', 6], ['tribuna_kuppel', 6], ['tribuna_laterne', 6],
+  ['dach_nebenbau', 6], ['dach_fluegel', 6], ['tribuna_tambour', 6], ['tribuna_kuppel', 6], ['tribuna_laterne', 6],
   // Modul 7 Decken, Innenwände, Treppen
-  ['decke_14', 7], ['decke_20', 7], ['decke_36', 7], ['decke_traufe', 7], ['spinnwand_fluegel', 7],
-  ['treppen', 7], ['korridor_treppe', 7],
-  // Modul 9 Statuen
-  ['statuen', 9]
+  ['spinnwand_fluegel', 7], ['trennwaende', 7], ['decke_14', 7], ['decke_20', 7], ['decke_36', 7], ['decke_traufe', 7],
+  ['treppen', 7], ['scalone_treppe', 7], ['korridor_treppe', 7],
+  // Modul 9 Statuen und Ausgestaltung der Innenräume
+  ['statuen', 9], ['scalone_ausstattung', 9], ['galerie_ostkorridor', 9], ['galerie_westkorridor', 9],
+  ['galerie_arno_korridor', 9], ['tribuna', 9], ['sala_botticelli', 9], ['sala_leonardo', 9], ['sala_michelangelo_raffael', 9],
+  ['galerie_saele_ost', 9], ['galerie_saele_west', 9], ['amtsraeume_eg', 9], ['amtsraeume_mezzanin', 9], ['amtsraeume_piano_nobile', 9],
+  ['beleuchtung', 9]
 ];
 const PID = {};
 PART_LIST.forEach(([n], i) => { PID[n] = i + 1; });
@@ -35,6 +38,13 @@ PART_LIST.forEach(([n], i) => { PID[n] = i + 1; });
 const MATS = [TYP.pietra_serena, TYP.putz_sand, TYP.pietra_forte, TYP.pflaster, TYP.marmor_ornament,
   TYP.glas_fenster, TYP.dachziegel, TYP.holz, TYP.marmor_weiss, TYP.pietra_forte_bruch];
 const MAT = { serena: 0, putz: 1, forte: 2, pflaster: 3, kapitell: 4, glas: 5, dach: 6, holz: 7, weiss: 8, bruch: 9 };
+/** Materialindex zu einem Namen aus MAT oder direkt zu einem Palettentyp (z. B. Treppenblock, Freskenkeramik); neue Typen werden angehängt. */
+function matId(m) {
+  if (MAT[m] !== undefined) return MAT[m];
+  let i = MATS.indexOf(m);
+  if (i < 0) { if (MATS.length >= 255) throw new Error('Zu viele Materialien im Plan'); MATS.push(m); i = MATS.length - 1; }
+  return i;
+}
 
 // Höhen (Lagen)
 const PORTIKUS = 14, MEZZ = 20, PN = 36, TRAUFE = 51, NB_TRAUFE = 44;
@@ -48,7 +58,7 @@ const KANTEN_FSR = new Set([51, 52, 53]);
 const KANTE_KORRIDOR = 41;
 const TUER_S0 = 3.35, TUER_S1 = 10.35;     // Öffnung in Kante 41 (Kantenabschnitt, Katalog §11)
 
-const STUFEN = ['fassade', 'sued', 'wand', 'tribuna', 'dach', 'innen', 'decken', 'statuen'];
+const STUFEN = ['fassade', 'sued', 'wand', 'tribuna', 'dach', 'innen', 'treppen', 'decken', 'statuen', 'ausstattung', 'licht', 'risse', 'halt'];
 
 let cache = null;
 
@@ -65,18 +75,26 @@ function plan() {
     if (own[k]) return false;
     const p = PID[part];
     if (!p) throw new Error(`Unbekanntes Bauteil ${part}`);
-    own[k] = p; mt[k] = MAT[mat];
+    own[k] = p; mt[k] = matId(mat);
     return true;
   };
   // Setzt auch auf bewusst leere Zellen (AIR), z. B. Statuen in Nischen
   const place = (i, L, part, mat) => {
     const k = i * SLOTS + L;
     if (own[k] && own[k] !== AIR) return false;
-    own[k] = PID[part]; mt[k] = MAT[mat];
+    own[k] = PID[part]; mt[k] = matId(mat);
     return true;
   };
-  const air = (i, L) => { const k = i * SLOTS + L; if (!own[k]) own[k] = AIR; };
+  // Öffnungen für R14: air(i, L, art, teil) merkt die Zelle mit Art (tuer|tor|fenster_offen|arkade|loggia|scharte) und Bauteil
+  const oeff = [];
+  const air = (i, L, art, teil) => {
+    const k = i * SLOTS + L;
+    if (!own[k]) own[k] = AIR;
+    if (art && own[k] === AIR) oeff.push({ k, art, teil });
+  };
   const free = (i, L) => own[i * SLOTS + L] === 0;
+  // Öffnung schneiden: macht die Zelle leer, auch wenn sie schon einem Bauteil gehörte (Portale, Türen in Wänden)
+  const carve = (i, L) => { const k = i * SLOTS + L; own[k] = AIR; mt[k] = 0; };
   const range = (i, L0, L1, part, mat) => { for (let L = L0; L <= L1; L++) claim(i, L, part, mat); };
 
   // ---------------------------------------------------------------- Rahmen, Ebenen der Fassaden, Zonen
@@ -128,8 +146,8 @@ function plan() {
   };
   const fmod = (w) => { const jw = Math.floor(w) - 12; const k = Math.floor(jw / 24); return { k, wl: jw - 24 * k }; };
 
-  const P = { S, N, own, mt, over, claim, place, air, free, range, zone, kind, tF, tAll, side, nearE, fw, fe, fsn, kant,
-    elOf, fmod, PID, MAT,
+  const P = { S, N, own, mt, over, SLOTS, PART_COUNT: PART_LIST.length, AIR_ID: AIR, oeff, claim, place, air, carve, free, range, zone, kind, tF, tAll, side, nearE, fw, fe, fsn, kant,
+    elOf, fmod, PID, MAT, matId,
     PORTIKUS, MEZZ, PN, TRAUFE, NB_TRAUFE, ZONE_X, ZONE_W, ZONE_E, ZONE_S, K_GEN, K_F, K_ST, K_SER, K_SS,
     KANTEN_LA, KANTEN_ON, KANTEN_FSR, KANTE_KORRIDOR, TUER_S0, TUER_S1,
     kranzSpalten: [], statuenNischen: [], tribuna: null, treppeKorridor: null };
@@ -163,9 +181,9 @@ function cells(name) {
     const i = Math.floor(k / SLOTS), L = k - i * SLOTS;
     add(mt[k], S.cx[i], S.BODEN + L, S.cz[i]);
   }
-  for (const o of over) if (PID[o.part] === id) add(MAT[o.mat], o.x, S.BODEN + o.L, o.z);
+  for (const o of over) if (PID[o.part] === id) add(matId(o.mat), o.x, S.BODEN + o.L, o.z);
   void own;
   return [...byMat.entries()].map(([m, list]) => ({ mat: MATS[m], cells: list }));
 }
 
-module.exports = { plan, cells, PART_LIST, PID, MATS, MAT, STUFEN };
+module.exports = { plan, cells, PART_LIST, PID, MATS, MAT, matId, STUFEN };

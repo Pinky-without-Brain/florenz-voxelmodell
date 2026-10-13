@@ -51,7 +51,7 @@ function get() {
 }
 
 // ------------------------------------------------------------------ Materialien (Rollen -> Palettentypen)
-const ROLLEN = ['pietra_forte_bruch', 'pflaster', 'pietra_serena', 'putz_sand', 'pietra_forte', 'marmor_weiss',
+const ROLLEN = ['gold', 'licht', 'pietra_forte_bruch', 'pflaster', 'pietra_serena', 'putz_sand', 'pietra_forte', 'marmor_weiss',
   'marmor_ornament', 'glas_fenster', 'dachziegel', 'holz'];
 const TYP = {};
 for (const r of ROLLEN) TYP[r] = WZ.typ(r);

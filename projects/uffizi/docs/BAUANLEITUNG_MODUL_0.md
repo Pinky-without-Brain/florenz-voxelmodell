@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.274 |
+| Blöcke | 46.276 |
 | Bauschritte | 24 |
 | Y-Bereich | 60 bis 65 |
 | X-Ausdehnung | -346 bis -80 (267 Blöcke) |
 | Z-Ausdehnung | 895 bis 1216 (322 Blöcke) |
-| Kleinster Schritt | 777 Blöcke (Schritt 0.1) |
+| Kleinster Schritt | 778 Blöcke (Schritt 0.1) |
 | Mittlerer Schritt | 1.928 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 0.4) |
+| Größter Schritt | 2.100 Blöcke (Schritt 0.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Glatter Stein | `smooth_stone` | 30.514 | 65,9 % |
-| Tuffstein | `tuff` | 9.999 | 21,6 % |
+| Tuffstein | `tuff` | 10.001 | 21,6 % |
 | Polierter Tuffstein | `polished_tuff` | 5.761 | 12,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `fundament` | Fundament aus Bruchstein | 9.999 | 0.1–0.6 |
+| 1 | `fundament` | Fundament aus Bruchstein | 10.001 | 0.1–0.6 |
 | 2 | `bodenplatte` | Bodenplatte auf Y 65 | 36.275 | 0.7–0.24 |
 
 ## Bauschritte
@@ -37,14 +37,14 @@
 ### Schritt 0.1 – Fundament aus Bruchstein – Teil 1/6 (Y 60–62)
 
 - **Y-Bereich:** 60 bis 62
-- **Blöcke:** 777
+- **Blöcke:** 778
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 777 |
+| Tuffstein | `tuff` | 778 |
 
 **Beschreibung**
 
@@ -149,14 +149,14 @@ Die Uffizien stehen am Ufer des Arno. Der Boden fällt von der Nordseite zum Flu
 ### Schritt 0.5 – Fundament aus Bruchstein – Teil 5/6 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.099
+- **Blöcke:** 2.100
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.099 |
+| Tuffstein | `tuff` | 2.100 |
 
 **Beschreibung**
 

@@ -23,18 +23,18 @@ module.exports = function fassade(P) {
       if (t <= 3) {
         if (L >= 13) { claim(i, L, 'portikus_gebaelk', 'serena'); continue; }
         if (el.e === 'P') {
-          if (t === 1 && L >= 4 && L <= 10 && Math.abs(el.q) <= 1) { air(i, L); continue; }      // Nische 3 x 7 x 1
+          if (t === 1 && L >= 4 && L <= 10 && Math.abs(el.q) <= 1) { air(i, L, 'fenster_offen', 'portikus_pfeiler'); continue; }      // Nische 3 x 7 x 1
           if (L <= 12) claim(i, L, 'portikus_pfeiler', 'serena');
         } else if (el.e === 'C') {
           if (t <= 2 && L <= 10) claim(i, L, 'portikus_saeulen', 'serena');
           else if (t <= 2 && L <= 12) claim(i, L, 'portikus_saeulen', 'kapitell');
-          else air(i, L);
-        } else air(i, L);
+          else air(i, L, 'arkade', 'portikus_saeulen');
+        } else air(i, L, 'arkade', 'portikus_saeulen');
       } else if (t <= 10) {
         if (L === PORTIKUS) claim(i, L, 'portikus_decke', 'serena'); else air(i, L);
       } else if (fenster && fenster.oi === 1 && Math.abs(fenster.q) <= 1 && L <= 8) {
-        // Rückwand t 11..14: Tür 3 x 8 auf Öffnung 2, Holztür in t = 12
-        if (t === 12) claim(i, L, 'portikus_rueckwand', 'holz'); else air(i, L);
+        // Rückwand t 11..14: offene Tür 3 x 8 auf Öffnung 2 (Laibung massiv)
+        air(i, L);
       } else if (fenster && fenster.oi !== 1 && Math.abs(fenster.q) <= 1 && L >= 6 && L <= 8) {
         if (t === 12) claim(i, L, 'portikus_rueckwand', 'glas'); else air(i, L);                 // Fenster 3 x 3
       } else claim(i, L, 'portikus_rueckwand', 'putz');
@@ -61,10 +61,10 @@ module.exports = function fassade(P) {
       if (fenster) {
         const aq = Math.abs(fenster.q);
         if (L <= MEZZ) {
-          if (aq <= 1 && L >= 17 && L <= 18) { if (t === 3) claim(i, L, part, 'glas'); else air(i, L); continue; }   // Fenster 3 x 2
+          if (aq <= 1 && L >= 17 && L <= 18) { if (t === 3) claim(i, L, part, 'glas'); else air(i, L, t <= 2 ? 'fenster_offen' : null, part); continue; }   // Fenster 3 x 2
           if (aq <= 2 && L >= 16 && L <= 19 && t <= 2) { claim(i, L, part, 'serena'); continue; }
         } else {
-          if (aq <= 1 && L >= 24 && L <= 31) { if (t === 3) claim(i, L, part, 'glas'); else air(i, L); continue; }   // Licht 3 x 8
+          if (aq <= 1 && L >= 24 && L <= 31) { if (t === 3) claim(i, L, part, 'glas'); else air(i, L, t <= 2 ? 'fenster_offen' : null, part); continue; }   // Licht 3 x 8
           if (aq <= 2 && L >= 23 && L <= 33 && t <= 2) { claim(i, L, part, 'serena'); continue; }                    // Rahmen, Außenmaß 5 x 11
         }
       }
@@ -82,8 +82,9 @@ module.exports = function fassade(P) {
         if (el.e === 'P') claim(i, L, 'loggia_pfeiler_saeulen', 'serena');
         else if (el.e === 'C') {
           if (t <= 2) claim(i, L, 'loggia_pfeiler_saeulen', L <= 47 ? 'serena' : 'kapitell');
-          else if (L <= 47) claim(i, L, 'loggia_verglasung', 'glas');
-        } else if (t === 3 && L <= 47) claim(i, L, 'loggia_verglasung', 'glas');
+          else claim(i, L, 'loggia_verglasung', 'glas');
+        } else if (t === 3) claim(i, L, 'loggia_verglasung', 'glas');
+        else air(i, L, 'loggia', 'loggia_verglasung');           // offene Loggia vor der Verglasung
       } else if (t >= 11 && t <= 14) {
         if (fenster && fenster.oi === 1 && Math.abs(fenster.q) <= 1 && L <= 44) air(i, L);
         else claim(i, L, 'loggia_rueckwand', 'putz');

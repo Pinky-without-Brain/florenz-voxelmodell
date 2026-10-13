@@ -7,6 +7,20 @@
 
 const WZ = require('../../../tools/wahrzeichen');
 const { get, TYP } = require('./_uf.js');
+const { schliesse } = require('./_riss.js');
+
+// Selbstbildnisse (vereinfachte Farbfelder 2 x 3 mit Goldrahmen) an den Innenwänden: Zelle (ix = Spalte entlang des Gangs, r = Reihe über Boden)
+const FARBE = ['rot', 'blau', 'gruen', 'schwarz', 'braun'];
+function bildzelle(a, r) {
+  const ix = ((Math.floor(a) % 5) + 5) % 5, pic = Math.abs(Math.floor(Math.floor(a) / 5));
+  if (r === 1 || r === 5) return ix <= 3 ? { mat: TYP.gold } : null;
+  if (r < 2 || r > 4) return null;
+  if (ix === 0 || ix === 3) return { mat: TYP.gold };
+  if (ix > 3) return null;
+  if (r === 4) return { mat: WZ.fresko(pic % 2 ? 'braun' : 'schwarz') };        // Haar
+  if (r === 3) return { mat: WZ.fresko(pic % 3 === 0 ? 'orange' : 'braun') };    // Gesicht
+  return { mat: WZ.fresko(FARBE[pic % FARBE.length]) };                           // Gewand
+}
 
 // Brücke über die Via della Ninna (Lagen in Y; Lage 26 = Y 91)
 const Y_KAEMPFER = 91, R_BOGEN = 8, DICKE_BOGEN = 2, Y_SCHEITEL = 99;
@@ -94,6 +108,9 @@ module.exports = {
     for (const [x, z] of bruecke) { const p = sv(x, z); s0 = Math.min(s0, p.s); s1 = Math.max(s1, p.s); }
     const sc = (s0 + s1) / 2;
     const bogen = [], boden = [], wandB = [], deckeB = [], fensterB = [];
+    const bilderB = [], gangB = [];
+    const offenB = [], unterB = [], toreB = [];            // Öffnungen für R14: Fensterlaibung außen, Durchgang unter dem Bogen, Gangende zum Palazzo Vecchio
+    const gtB = WZ.boden.groundTopY;
     for (const [x, z] of bruecke) {
       const { s, v } = sv(x, z);
       // Tragbogen unter dem Boden (Halbkreis, Kämpfer Y 91, Scheitel Y 99, Dicke 2) und Spandrillen bis unter den Boden
@@ -105,10 +122,18 @@ module.exports = {
       if (seite !== 1) {
         const dv = seite === 0 ? v : B_BREITE - v;                  // Tiefe in der Wand
         for (let y = Y_GANG[0]; y <= Y_GANG[1]; y++) {
-          if (y >= 104 && y <= 106 && inFenster(s)) { if (dv >= 1 && dv < 2) fensterB.push({ x, y, z }); }   // 2 x 3, Glas mittig
-          else wandB.push({ x, y, z });
+          if (y >= 104 && y <= 106 && inFenster(s)) {                // 2 x 3, Glas mittig
+            if (dv >= 1 && dv < 2) fensterB.push({ x, y, z }); else if (dv < 1) offenB.push({ x, y, z });
+          } else {
+            const bz = dv >= 2 && y >= 103 && y <= 107 ? bildzelle(s, y - 102) : null;       // Innenhaut der Brückenwand
+            if (bz) bilderB.push({ x, y, z, mat: bz.mat }); else wandB.push({ x, y, z });
+          }
         }
+      } else if (s - s0 < 3) {
+        for (let y = Y_GANG[0]; y <= Y_GANG[1]; y++) toreB.push({ x, y, z });   // Gang offen zum Palazzo Vecchio
       }
+      for (let y = gtB(x, z) + 1; y < Y_BRUECKE_BODEN[0]; y++) unterB.push({ x, y, z });   // Straße unter dem Bogen
+      if (seite === 1) gangB.push({ x, y: Y_GANG[0], z });
       for (const y of Y_BRUECKE_DECKE) deckeB.push({ x, y, z });
     }
     ctx.part('bruecke_bogen').fill(bogen, TYP.pietra_serena);
@@ -116,7 +141,13 @@ module.exports = {
     k.fill(boden, TYP.pietra_serena);
     k.fill(wandB, TYP.pietra_forte);
     if (fensterB.length) k.fill(fensterB, TYP.glas_fenster);
-    k.fill(deckeB, TYP.pietra_forte);
+    const lampenB = new Set(WZ.licht.lichtRaster(gangB, { abstand: 10, hoehe: 7 }).map((l) => l.x * 100003 + l.z));
+    const lichtB = deckeB.filter((c) => c.y === Y_BRUECKE_DECKE[0] && lampenB.has(c.x * 100003 + c.z));
+    k.fill(deckeB.filter((c) => !(c.y === Y_BRUECKE_DECKE[0] && lampenB.has(c.x * 100003 + c.z))), TYP.pietra_forte);
+    const bogenSet = new Set(bogen.map(zk));
+    ctx.oeffnung(unterB.filter((c) => !bogenSet.has(zk(c))), 'arkade');
+    ctx.oeffnung(offenB, 'fenster_offen');
+    ctx.oeffnung(toreB, 'tor');
 
     // ---------------------------------------------------------------- Lungarno-Streifen
     // Randabstand ohne die Ränder zu den Uffizien und zum Schnitt bei x = -528 (dort stehen keine Wände): Vereinigung aus
@@ -142,7 +173,10 @@ module.exports = {
     }
     const gt = WZ.boden.groundTopY;
     const arkade = [], pfeiler = [], bodenL = [], wandL = [], glasL = [], deckeL = [];
+    const bilderL = [], gangL = [];
+    const unterL = [], offenL = [], torL = [];          // Öffnungen für R14: Straße unter dem Korridor, Fensterlaibung, offenes Ende bei x = -528
     for (const c of info) {
+      for (let y = gt(c.x, c.z) + 1; y <= ARKADE_OBEN; y++) unterL.push({ x: c.x, y, z: c.z });
       const e = bins.get(Math.floor(c.u / 4));
       const fluss = c.v > (e.lo + e.hi) / 2;
       if (c.d <= 3) {
@@ -158,21 +192,55 @@ module.exports = {
         }
         // Korridorwände 3 dick (Y 79..85); kleine Fenster 2 x 3 auf der Flussseite (Y 81..83), Glas in der mittleren Zelle
         for (let y = WAND[0]; y <= WAND[1]; y++) {
-          if (fluss && y >= 81 && y <= 83 && inFenster(c.u)) { if (c.d === 2) glasL.push({ x: c.x, y, z: c.z }); }
-          else wandL.push({ x: c.x, y, z: c.z });
+          if (fluss && y >= 81 && y <= 83 && inFenster(c.u)) {
+            if (c.d === 2) glasL.push({ x: c.x, y, z: c.z }); else if (c.d === 1) offenL.push({ x: c.x, y, z: c.z });
+          } else {
+            const nahFenster = fluss && (inFenster(c.u - 2) || inFenster(c.u - 1) || inFenster(c.u) || inFenster(c.u + 1) || inFenster(c.u + 2));
+            const bz = !nahFenster && c.d === 3 && y >= 80 && y <= 84 ? bildzelle(c.u, y - 79) : null;
+            if (bz) bilderL.push({ x: c.x, y, z: c.z, mat: bz.mat }); else wandL.push({ x: c.x, y, z: c.z });
+          }
         }
       }
       for (const y of BODEN) bodenL.push({ x: c.x, y, z: c.z });
+      if (c.d > 3) gangL.push({ x: c.x, y: WAND[0], z: c.z });
       for (const y of DECKE) deckeL.push({ x: c.x, y, z: c.z });
+      if (c.x === -528) for (let y = WAND[0]; y <= WAND[1]; y++) torL.push({ x: c.x, y, z: c.z });
     }
     const a = ctx.part('lungarno_arkade');
     const stuetz = stuetzen([...pfeiler, ...arkade], gt);
-    a.fill(pfeiler.filter((c) => stuetz.has(zk(c))), TYP.pietra_forte);
-    a.fill(arkade.filter((c) => stuetz.has(zk(c))), TYP.pietra_serena);
+    const pf = pfeiler.filter((c) => stuetz.has(zk(c))), ak = arkade.filter((c) => stuetz.has(zk(c)));
+    // Diagonalrisse der Arkade schließen (Verbindungszelle in der Maske des Streifens)
+    const lgSet = new Set(lungarno.map(([x, z]) => x * 100003 + z));
+    ak.push(...schliesse([...pf, ...ak], (x, y, z) => lgSet.has(x * 100003 + z) && y <= ARKADE_OBEN));
+    a.fill(pf, TYP.pietra_forte);
+    a.fill(ak, TYP.pietra_serena);
     ctx.part('lungarno_boden').fill(bodenL, TYP.pietra_serena);
     const lk = ctx.part('lungarno_korridor');
     lk.fill(wandL, TYP.pietra_forte);
     if (glasL.length) lk.fill(glasL, TYP.glas_fenster);
-    lk.fill(deckeL, TYP.pietra_forte);
+    const lampenL = new Set(WZ.licht.lichtRaster(gangL, { abstand: 10, hoehe: 7 }).map((l) => l.x * 100003 + l.z));
+    const lichtL = deckeL.filter((c) => c.y === DECKE[0] && lampenL.has(c.x * 100003 + c.z));
+    lk.fill(deckeL.filter((c) => !(c.y === DECKE[0] && lampenL.has(c.x * 100003 + c.z))), TYP.pietra_forte);
+    const festL = new Set([...pf, ...ak].map(zk));
+    ctx.oeffnung(unterL.filter((c) => !festL.has(zk(c))), 'arkade');
+    ctx.oeffnung(offenL, 'fenster_offen');
+    const wandSet = new Set([...wandL, ...glasL].map(zk));
+    ctx.oeffnung(torL.filter((c) => !wandSet.has(zk(c))), 'tor');
+
+    // Hauchdünne Reste der Korridormaske entlang der Piazzale-Fassade (keine Brücke, kein Streifen): freier Luftraum
+    // unter dem auskragenden Kranzgesims, offen zum Platz
+    const rest = [];
+    for (const comp of teile) {
+      if (comp === bruecke || comp === lungarno) continue;
+      for (const [x, z] of comp) for (let y = gt(x, z) + 1; y <= 120; y++) rest.push({ x, y, z });
+    }
+    ctx.oeffnung(rest, 'loggia');
+
+    // Ausgestaltung: Selbstbildnisse an den Wänden und Deckenleuchten (Seelaternen in der Deckenlage)
+    const bild = ctx.part('corridoio_bilder');
+    const byMat = new Map();
+    for (const c of [...bilderB, ...bilderL]) { let a = byMat.get(c.mat); if (!a) byMat.set(c.mat, a = []); a.push({ x: c.x, y: c.y, z: c.z }); }
+    for (const [mat, list] of byMat) bild.fill(list, mat);
+    ctx.part('corridoio_licht').fill([...lichtB, ...lichtL], TYP.licht);
   }
 };
