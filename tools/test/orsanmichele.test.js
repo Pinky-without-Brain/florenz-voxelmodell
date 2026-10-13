@@ -21,10 +21,10 @@ const partCells = (mod, id) => {
 };
 const allParts = () => world.modules.flatMap((m) => m.parts.map((p) => ({ module: m.module, id: p.id, keys: p.keys })));
 
-test('Projekt orsanmichele ist registriert, 10 Module, keine Baufehler', () => {
+test('Projekt orsanmichele ist registriert, 11 Module, keine Baufehler', () => {
   assert.ok(project, 'Projekt nicht in der Registry');
   assert.deepEqual(world.errors, []);
-  assert.deepEqual(world.modules.map((m) => m.module), [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
+  assert.deepEqual(world.modules.map((m) => m.module), [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
   const mj = JSON.parse(fs.readFileSync(path.join(ROOT, 'projects', 'orsanmichele', 'project.json'), 'utf8'));
   assert.equal(mj.type, 'wahrzeichen');
   assert.equal(mj.bodenY, 68);
@@ -165,4 +165,76 @@ test('Build orsanmichele ist grün (R1 bis R12)', (t) => {
   assert.equal(rep.status, 'OK');
   for (const r of rep.rules) assert.equal(r.errors, 0, r.rule);
   assert.ok(rep.rules.some((r) => r.rule === 'R12'));
+});
+
+// ---------------------------------------------------------------- B3: dicht, begehbar, Licht, Ausstattung
+const { analysiere } = require('../diag/begehbarkeit_bestand.js');
+const { erreichbar } = require('./_ohne_sprung.js');
+const PAL = require('../spec/palette.js');
+const WZ = require('../wahrzeichen');
+const rep = analysiere(project);
+const grid = world.grid;
+
+test('Orsanmichele B3: Pflichtmodus, R13 und R14 ohne Fehler, keine Diagonalrisse', () => {
+  assert.equal(JSON.parse(fs.readFileSync(path.join(ROOT, 'projects', 'orsanmichele', 'project.json'), 'utf8')).begehbarkeit, 'pflicht');
+  assert.equal(rep.r14.luecken, 0);
+  assert.equal(rep.r13.nichtErreichbareKomponenten, 0);
+  assert.deepEqual(rep.risse, {});
+  for (const art of ['arkade', 'tuer', 'tor', 'fenster_offen']) assert.ok(world.oeffnungen.some((o) => o.art === art), art);
+  assert.ok(world.unzugaenglich.length >= 2 && world.unzugaenglich.every((u) => u.begruendung.length > 20));
+});
+
+test('Orsanmichele B3: Treppe besteht aus Treppenblöcken und führt ohne Springen von der Kirche ins 2. OG', () => {
+  const t = partCells(7, 'treppe');
+  const typen = world.modules.find((m) => m.module === 7).parts.find((p) => p.id === 'treppe').keys.map((k) => grid.typeOfKey(k));
+  assert.ok(typen.filter((x) => PAL.isTreppe(x)).length >= 100);
+  assert.ok(t.length > 200);
+  const l = O.lane();
+  const box = { x0: -345, x1: -255, z0: 500, z1: 580, y0: 60, y1: 160 };
+  const start = { x: l.x0, y: O.Y(1), z: l.ersteZ - 1 };
+  assert.ok(erreichbar(grid, start, { x: l.x0 + 26, y: O.Y(27), z: l.ersteZ }, box), '1. OG');
+  assert.ok(erreichbar(grid, start, { x: l.x0 + 52, y: O.Y(52), z: l.ersteZ }, box), '2. OG');
+});
+
+test('Orsanmichele B3: Portale sind 5 x 12 offen, Eingangsstufen sind Treppenblöcke', () => {
+  const st = world.modules.find((m) => m.module === 0).parts.find((p) => p.id === 'eingangsstufen').keys.map((k) => grid.typeOfKey(k));
+  assert.equal(st.length, 14);
+  assert.ok(st.every((x) => PAL.isTreppe(x)));
+  const luft = world.oeffnungen.filter((o) => o.art === 'tuer' && o.part === 'tueren').reduce((n, o) => n + o.keys.length, 0);
+  assert.equal(luft, 2 * 5 * 4 * 12);
+  const bogen = world.oeffnungen.filter((o) => o.art === 'tor');
+  assert.equal(bogen.length, 1);
+});
+
+test('Orsanmichele B3: Seelaternen in allen Sälen (höchstens 12 Blöcke zur nächsten Laterne)', () => {
+  const licht = WZ.typ('licht');
+  const lampen = [];
+  grid.forEach((x, y, z, e) => { if (e.type === licht) lampen.push([x, y, z]); });
+  assert.ok(lampen.length >= 40, String(lampen.length));
+  for (const [yr, name] of [[1, 'EG'], [27, 'OG1'], [52, 'OG2']]) {
+    let schlecht = 0;
+    for (const c of L.zellen) {
+      if (c.d < (yr === 1 ? 7 : 4)) continue;
+      const y = O.Y(yr);
+      if (grid.has(c.x, y, c.z) || grid.has(c.x, y + 1, c.z) || grid.has(c.x, y + 2, c.z) || !grid.has(c.x, y - 1, c.z)) continue;
+      if (!lampen.some((l) => l[1] >= y + 2 && l[1] <= y + 25 && Math.hypot(l[0] - c.x, l[2] - c.z) <= 12)) schlecht++;
+    }
+    assert.equal(schlecht, 0, name);
+  }
+});
+
+test('Orsanmichele B3: Ausgestaltete Räume mit Content, Quelle und Hinweis "vereinfacht"', () => {
+  const c10 = JSON.parse(fs.readFileSync(path.join(ROOT, 'projects', 'orsanmichele', 'content', 'modul_10.json'), 'utf8'));
+  for (const id of ['orcagna_tabernakel', 'orcagna_madonna', 'anna_altar', 'anna_retabel', 'gestuehl', 'museum_sockel', 'museum_statuen']) {
+    const t = c10.parts[id];
+    assert.ok(t, id);
+    assert.ok(/vereinfacht|Blockfigur|Annahme/i.test(t.description + t.fact + t.caution), id);
+  }
+  assert.ok(c10.parts.orcagna_tabernakel.fact.includes('it.wikipedia.org/wiki/Orsanmichele') || /x^/.test(c10.parts.orcagna_tabernakel.fact));
+  const fig = world.modules.find((m) => m.module === 10).parts.find((p) => p.id === 'museum_sockel').keys.length;
+  assert.ok(fig >= 14 * 8 - 14);
+  // gemalte Pfeiler und Gewölbe: Fresko-Keramik und Gold im Erdgeschoss
+  const typen = new Set();
+  for (const p of world.modules.find((m) => m.module === 6).parts) for (const k of p.keys) typen.add(grid.typeOfKey(k));
+  assert.ok(typen.has('blue_terracotta') && typen.has('gold_block'));
 });
