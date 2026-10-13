@@ -7,6 +7,8 @@
 // Die Türlaibung (Katalog Teil 2) sind die Wandzellen w 5 und w 11 neben dem Durchgang (Lage 27..33), ohne Fensterzellen.
 const WZ = require('../../../tools/wahrzeichen');
 const O = require('../lib/om.js');
+const { schliesse } = require('../lib/riss.js');
+const boden = require('../../../tools/city/ground_stadt.js');
 
 module.exports = {
   module: 8,
@@ -27,7 +29,33 @@ module.exports = {
     for (const c of zellen) pt.push({ x: c.x, y: O.Y(26), z: c.z, m: serena });
     for (let yr = 27; yr <= 34; yr++) for (const c of zellen) if (c.d <= 2 && !durch(c, yr)) pt.push({ x: c.x, y: O.Y(yr), z: c.z, m: forte });
     for (let yr = 35; yr <= 36; yr++) for (const c of zellen) pt.push({ x: c.x, y: O.Y(yr), z: c.z, m: forte });
+    // Diagonalrisse der einzelligen Wandschicht schließen (BEGEHBARKEIT.md §1.4): Zusatzzellen im Bogen
+    const bogenSet = new Set(zellen.map((c) => O.K(c.x, c.z)));
+    const gesetzt = new Set(pt.map((b) => b.x + ',' + b.y + ',' + b.z));
+    const byK = new Map(zellen.map((c) => [O.K(c.x, c.z), c]));
+    const erl = (x, y, z) => {
+      if (gesetzt.has(x + ',' + y + ',' + z)) return false;
+      const yr = y - O.BODEN_Y, bc = byK.get(O.K(x, z));
+      if (bc) return true;                                       // Randzellen des Bogens (Ecken der Wandschicht)
+      const c = O.zelle(x, z);
+      return !!c && O.durchgang(c, yr);              // Randzelle des Durchgangs in der Westwand (Modul 3 lässt sie aus)
+    };
+    const laibungFest = (x, y, z) => {                  // Türlaibung (Teil 2) zählt als fest
+      const c = O.zelle(x, z), yr = y - O.BODEN_Y;
+      return !!c && yr >= 27 && yr <= 33 && O.laibung(c, yr) && O.fensterInhalt(c, yr, O.OG1.f0, O.OG1.f1) === null && O.wappenIdx(c, yr, O.OG1.w0, O.OG1.w1) < 0;
+    };
+    const extra = schliesse(pt.map((b) => ({ x: b.x, y: b.y, z: b.z })), erl, laibungFest);
+    for (const e of extra) pt.push({ x: e.x, y: e.y, z: e.z, m: forte });
     ctx.part('pontile').fill(pt, (x, y, z) => (y === O.Y(26) ? serena : forte));
+    // Öffnungen: die Durchfahrt unter dem Bogen (Straße) und das offene Ende an der Projektgrenze (tor)
+    const unter = [], ende = [];
+    const xmin = Math.min(...zellen.map((c) => c.x));
+    for (const c of zellen) {
+      for (let y = boden.groundTopY(c.x, c.z) + 1; y < O.Y(26); y++) unter.push({ x: c.x, y, z: c.z });
+      if (c.d >= 3 && c.x <= xmin + 1) for (let yr = 27; yr <= 34; yr++) ende.push({ x: c.x, y: O.Y(yr), z: c.z });
+    }
+    ctx.oeffnung(unter, 'arkade');
+    ctx.oeffnung(ende, 'tor');
 
     // 2. Türlaibung in der Westwand OG1 (Fensterzellen gehören Modul 3)
     const lb = [];

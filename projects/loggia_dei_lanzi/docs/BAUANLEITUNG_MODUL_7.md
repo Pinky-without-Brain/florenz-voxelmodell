@@ -8,21 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 373 |
+| Blöcke | 416 |
 | Bauschritte | 1 |
-| Y-Bereich | 68 bis 80 |
-| X-Ausdehnung | -235 bis -180 (56 Blöcke) |
-| Z-Ausdehnung | 867 bis 895 (29 Blöcke) |
-| Kleinster Schritt | 373 Blöcke (Schritt 7.1) |
-| Mittlerer Schritt | 373 Blöcke |
-| Größter Schritt | 373 Blöcke (Schritt 7.1) |
+| Y-Bereich | 68 bis 98 |
+| X-Ausdehnung | -243 bis -164 (80 Blöcke) |
+| Z-Ausdehnung | 852 bis 896 (45 Blöcke) |
+| Kleinster Schritt | 416 Blöcke (Schritt 7.1) |
+| Mittlerer Schritt | 416 Blöcke |
+| Größter Schritt | 416 Blöcke (Schritt 7.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 355 | 95,2 % |
-| Geschnittener Kupferblock | `cut_copper` | 18 | 4,8 % |
+| Glatter Quarzblock | `smooth_quartz` | 381 | 91,6 % |
+| Geschnittener Kupferblock | `cut_copper` | 18 | 4,3 % |
+| Polierter Andesit | `polished_andesite` | 13 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 4 | 1,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -35,21 +37,24 @@
 | 5 | `menelaos_patroklos` | Menelaos mit Patroklos | 41 | 7.1 |
 | 6 | `rueckwand_figuren` | Sechs Frauenfiguren an der Rückwand | 115 | 7.1 |
 | 7 | `medici_loewen` | Medici-Löwen | 24 | 7.1 |
+| 8 | `rissfuellung` | rissfuellung | 43 | 7.1 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Perseus & Raub der Sabinerinnen & Herkules und Nessus & Raub der Polyxena & Menelaos mit Patroklos & Sechs Frauenfiguren an der Rückwand & Medici-Löwen
+### Schritt 7.1 – Perseus & Raub der Sabinerinnen & Herkules und Nessus & Raub der Polyxena & Menelaos mit Patroklos & Sechs Frauenfiguren an der Rückwand & Medici-Löwen & rissfuellung
 
-- **Y-Bereich:** 68 bis 80
-- **Blöcke:** 373
-- **Bauteile:** `perseus`, `sabinerinnen`, `herkules_nessus`, `polyxena`, `menelaos_patroklos`, `rueckwand_figuren`, `medici_loewen`
+- **Y-Bereich:** 68 bis 98
+- **Blöcke:** 416
+- **Bauteile:** `perseus`, `sabinerinnen`, `herkules_nessus`, `polyxena`, `menelaos_patroklos`, `rueckwand_figuren`, `medici_loewen`, `rissfuellung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 355 |
+| Glatter Quarzblock | `smooth_quartz` | 381 |
 | Geschnittener Kupferblock | `cut_copper` | 18 |
+| Polierter Andesit | `polished_andesite` | 13 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 

@@ -15,7 +15,7 @@
       "title": "Pfeilerschäfte mit Halbsäulen",
       "description": "Du mauerst die Schäfte der vier Pfeiler in Pietra forte, neun Lagen hoch (Y 70 bis 78). Die vier Ecken jedes Schafts bleiben abgeschrägt frei. An beiden Seiten der Bögen setzt du Halbsäulen aus weißem Marmor an, zwei Blöcke breit und einen vorspringend, und an den beiden inneren Pfeilern eine weitere zur Halle hin. Das Bauteil hat 1.278 Blöcke (X −236 bis −164, Z 852 bis 884).",
       "tip": "Setze zuerst die Kernblöcke aus Pietra forte, dann die Halbsäulen aus Marmor an die Seitenflächen.",
-      "caution": "Die Halbsäulen der Endpfeiler zur Halle hin entfallen, denn dort stehen später die Seitenwände.",
+      "caution": "Die Halbsäulen der Endpfeiler zur Halle hin entfallen, denn dort stehen später die Seitenwände. Die Eckkerben der Pfeiler bleiben offen (Teil der Arkade).",
       "fact": "Die Loggia gilt als Übergang von der Gotik zur Renaissance, weil sie statt Spitzbögen weite Rundbögen auf Bündelpfeilern verwendet."
     },
     "kapitelle_front": {

@@ -1,12 +1,12 @@
 {
   "module": 6,
   "title": "Innenraum Erdgeschoss",
-  "subtitle": "Bautüte 6: zwei Schiffe, Pfeiler, Wandvorlagen und sechs Kreuzgewölbe",
+  "subtitle": "Bautüte 6: zwei Schiffe, bemalte Pfeiler, Wandvorlagen und sechs bemalte Kreuzgewölbe mit Laternen",
   "icon": "⛪",
   "parts": {
     "innenpfeiler": {
       "title": "Zwei freistehende Pfeiler",
-      "description": "In der Mitte des Raumes stehen zwei Pfeiler aus grauem Stein, je 4 mal 4 Blöcke breit (u −11 bis −8 und 8 bis 11). Der Schaft reicht bis Y 79, das Kapitell aus gemeißeltem Quarz liegt bei Y 80 und 81; darüber setzt du Kämpferblöcke bis zur Unterkante des Gewölbes.",
+      "description": "In der Mitte des Raumes stehen zwei Pfeiler aus grauem Stein, je 4 mal 4 Blöcke breit (u −11 bis −8 und 8 bis 11). Der Schaft reicht bis Y 79, das Kapitell aus gemeißeltem Quarz liegt bei Y 80 und 81; darüber setzt du Kämpferblöcke bis zur Unterkante des Gewölbes. Die vier Außenseiten tragen vereinfachte Fresken: blauer Grund, rote Rahmenbänder, goldene und gelbe Heiligenfelder. Quelle: it.wikipedia.org/wiki/Orsanmichele; PRUEFBERICHT_D1.",
       "tip": "Baue Schaft und Kapitell, dann die Kämpferblöcke, bis das Gewölbe ansetzt.",
       "caution": "Die Pfeiler stehen auf dem Boden, nicht auf dem Sockel.",
       "fact": "Das Innere ist durch zwei Schiffe mit drei Jochen gegliedert."
@@ -20,7 +20,7 @@
     },
     "kreuzgewoelbe": {
       "title": "Sechs Kreuzgewölbe",
-      "description": "Je Joch und Schiff wölbst du ein Kreuzgewölbe aus grauem Stein, zwei Zellen stark. Der Ansatz liegt bei Y 82, der Scheitel bei Y 90. Die Gurtbögen über den Pfeilerachsen sind um eine Lage abgesenkte Rippen.",
+      "description": "Je Joch und Schiff wölbst du ein Kreuzgewölbe aus grauem Stein, zwei Zellen stark. Der Ansatz liegt bei Y 82, der Scheitel bei Y 90. Die Gurtbögen über den Pfeilerachsen sind um eine Lage abgesenkte Rippen. Die unterste Schicht ist blauer Himmel mit goldenen Sternen im 3er-Raster (Fresko, vereinfacht; Gewölbemalereien 1398-1399, Programm nach Franco Sacchetti).",
       "tip": "Wölbe von den Kanten zum Scheitel, so fehlt keine Verbindung.",
       "caution": "Der Scheitel bleibt unter der Decke bei Y 93.",
       "fact": "Das Gewölbe besteht aus zwei sich schneidenden Tonnen."
@@ -31,6 +31,20 @@
       "tip": "Die Decke ist der Boden des ersten Obergeschosses.",
       "caution": "Das Gewölbe bleibt darunter frei.",
       "fact": "Die Decke trennt Erdgeschoss und erstes Obergeschoss."
+    },
+    "gewoelbe_laternen": {
+      "title": "Laternen im Gewölbe",
+      "description": "Anstelle der untersten Gewölbezelle setzt du Seelaternen, so dass jede Bodenzelle höchstens neun Blöcke von einer Laterne entfernt ist (Lichtraster).",
+      "tip": "Setze die Laternen in die Gewölbeunterseite, die Schale darüber bleibt zu.",
+      "caution": "Lasse die Schale über der Laterne geschlossen.",
+      "fact": "Licht ist ein Spielzugeständnis; die Kirche war mit Fenstern und Kerzen beleuchtet."
+    },
+    "gewoelbe_hinterfuellung": {
+      "title": "Hinterfüllung über den Gewölben",
+      "description": "Über den Gewölben und über dem Maßwerk der Füllwände füllst du alle freien Zellen bis Y 92 mit Bruchstein. Damit bleibt kein leerer Hohlraum ohne Zugang, und die Decke des Erdgeschosses ruht auf massivem Grund.",
+      "tip": "Arbeite Lage für Lage von unten nach oben.",
+      "caution": "Die Treppe im Süden bleibt frei.",
+      "fact": "Aufschüttungen über den Gewölben sind die übliche Bauweise (vereinfacht)."
     }
   }
 }

@@ -104,10 +104,18 @@ function tuer(r, yr, ds) {
   const t = TUEREN.find((x) => x.seite === r.seite && x.feld === r.feld);
   if (!t) return null;
   const a = r.a;
-  if (Math.abs(a) <= 2 && yr >= 3 && yr <= 12) return ds === 5 ? 'holz' : 'offen';
-  if (Math.abs(a) === 3 && yr >= 3 && yr <= 12) return 'laibung';
+  if (Math.abs(a) <= 2 && yr >= 1 && yr <= 12) return 'offen';                 // B3: offenes Portal ab dem Boden, kein geschlossener Flügel
+  if (Math.abs(a) === 3 && yr >= 1 && yr <= 12) return 'laibung';
   if (Math.abs(a) <= 3 && yr === 13) return 'laibung';
   return null;
+}
+
+/** Eingangsstufe (Treppenblock auf der Bodenplatte) vor den Türen: Aufstiegsrichtung ('s' Nordtür, 'w' Osttür) oder null. */
+function tuerStufe(c) {
+  const r = ring(c);
+  if (!r || r.typ !== 'feld' || r.ds !== 1 || Math.abs(r.a) > 3) return null;
+  const t = TUEREN.find((x) => x.seite === r.seite && x.feld === r.feld);
+  return t ? (r.seite === 'N' ? 's' : 'w') : null;
 }
 
 // ------------------------------------------------------------------ Tabernakel (Katalog §2)
@@ -196,7 +204,7 @@ function aussen() {
   auss = [];
   for (let x = bb.x0 - 3; x <= bb.x1 + 3; x++) {
     for (let z = bb.z0 - 3; z <= bb.z1 + 3; z++) {
-      if (L.H.has(x, z)) continue;
+      if (L.H.has(x, z) || L.bogen.has(x, z)) continue;       // B3: über dem Verbindungsbogen kragt nichts aus
       const s = L.H.dAussen(x, z);
       if (!(s >= 1 && s <= 2)) continue;
       const l = L.R.toLocal(x, z);
@@ -246,20 +254,58 @@ function vorlageSaeule(c) {
   return c.wi === -1 || c.wi === 0;
 }
 
-// ------------------------------------------------------------------ Treppe (Katalog §8)
-// Geometrie des Katalogs (6 x 6) fasst 25 Stufen nicht; gewählt: U-Treppe an der Nordwand, Lauf 1 w -21..-19
-// (Stufen 1..12, u -30..-19), Podest u -18 (w -21..-16, Stufe 13), Lauf 2 w -18..-16 zurück (Stufen 14..25, u -19..-30).
-const TREPPE = { w1: [-21, -19], w2: [-18, -16], uA: -30, uB: -19, uPodest: -18, y0: 26 };
-/** Stufenhöhe (y_rel der Trittfläche) in der Säule (ui, wi) oder 0. */
-function treppeHoehe(ui, wi) {
-  const T = TREPPE;
-  if (wi >= T.w1[0] && wi <= T.w1[1] && ui >= T.uA && ui <= T.uB) return T.y0 + (ui - T.uA + 1);          // 27..38
-  if (ui === T.uPodest && wi >= T.w1[0] && wi <= T.w2[1]) return T.y0 + 13;                                  // 39
-  if (wi >= T.w2[0] && wi <= T.w2[1] && ui >= T.uA && ui <= T.uB) return T.y0 + 13 + (T.uB - ui + 1);        // 40..51
-  return 0;
+// ------------------------------------------------------------------ Treppe (Katalog §8, B3)
+// Eine gerade Treppe aus Treppenblöcken, 2 breit, entlang der Südwand von Westen nach Osten (Aufstieg Welt-Osten, lokal +u):
+// Lauf 1 (26 Stufen) führt in der Mauerstärke (Tiefe dS 5..6, hinter dem Maßwerk) vom Erdgeschoss (Stehhöhe Lage 1) zum 1. OG
+// (Stehhöhe Lage 27), ein Podest (eine Spalte), Lauf 2 (25 Stufen) im Saal des 1. OG zum 2. OG (Stehhöhe Lage 52).
+// Historisch: Wendeltreppe im Nordwest-Eckpfeiler bzw. Rampe über den Bogen zum Palazzo dell'Arte della Lana (vereinfacht).
+// Spalte c = 0..52 ab der ersten Spalte; die Spaltenzelle bestimmt Stufe, Unterfütterung und Kopffreiheit.
+let laneCache = null;
+function lane() {
+  if (laneCache) return laneCache;
+  const L = lade();
+  const proX = new Map();                                    // x -> { z5, z6 }
+  for (const c of L.zellen) {
+    if (c.ui < -28 || (c.dS !== 5 && c.dS !== 6)) continue;
+    let e = proX.get(c.x);
+    if (!e) proX.set(c.x, e = {});
+    e['z' + c.dS] = Math.min(c.z, e['z' + c.dS] === undefined ? Infinity : e['z' + c.dS]);
+  }
+  const xs = [...proX.keys()].filter((x) => proX.get(x).z5 !== undefined && proX.get(x).z6 !== undefined).sort((p, q) => p - q);
+  const x0 = xs[0];
+  const karte = new Map();
+  for (let c = 0; c <= 52; c++) {
+    const e = proX.get(x0 + c);
+    if (!e || e.z5 === undefined || e.z6 === undefined) throw new Error('Treppe: Südwand an Spalte ' + c + ' nicht durchgehend');
+    karte.set(K(x0 + c, e.z5), { c, reihe: 5 });
+    karte.set(K(x0 + c, e.z6), { c, reihe: 6 });
+  }
+  const lampen = new Set([9, 15, 21]);
+  laneCache = { x0, karte, lampen, ersteZ: proX.get(x0).z6 };
+  return laneCache;
 }
-/** Treppenloch in der Decke OG1 (y 51): über Lauf 2 (inklusive oberster Stufe). */
-const treppeLoch = (ui, wi) => wi >= TREPPE.w2[0] && wi <= TREPPE.w2[1] && ui >= TREPPE.uA && ui <= TREPPE.uB;
+/** Rolle der Zelle (x, z, yr) in der Treppe: 'stufe' | 'fuellung' | 'luft' | 'lampe' | null. */
+function laneZelle(x, z, yr) {
+  const e = lane().karte.get(K(x, z));
+  if (!e) return null;
+  const c = e.c;
+  if (c <= 25) {
+    const k = 1 + c;
+    if (yr >= 1 && yr < k) return 'fuellung';
+    if (yr === k) return 'stufe';
+    if (yr > k && yr <= k + 3) return 'luft';
+    if (yr === k + 4 && e.reihe === 5 && lane().lampen.has(c)) return 'lampe';
+    return null;
+  }
+  if (c === 26) { if (yr >= 1 && yr <= 26) return 'fuellung'; return yr >= 27 && yr <= 29 ? 'luft' : null; }
+  if (c <= 51) {
+    if (yr >= 27 && yr < c) return 'fuellung';
+    if (yr === c) return 'stufe';
+    return yr > c && yr <= c + 3 ? 'luft' : null;
+  }
+  if (yr >= 27 && yr <= 51) return 'fuellung';
+  return yr >= 52 && yr <= 54 ? 'luft' : null;
+}
 
 // ------------------------------------------------------------------ Dach (Katalog §6)
 const TRAUFE = 75, DACH_MAX = 79, KAMM = 80, DACH_STAERKE = 2;
@@ -286,5 +332,5 @@ module.exports = {
   lade, zelle, Y, K, BODEN_Y, clamp, SEITEN, tiefe, laengs, ring, yIn, bogenBereich, tuer, TUEREN,
   TAB_DEFS, tabKarte, tabInhalt, FARBEN, FENSTER_LISTE, fensterVon, fensterInhalt, wappenIdx,
   aussen, takt, JOCHE, SCHIFFE, GEW_ANSATZ, GEW_ANSTIEG, feldVon, gewLaibung, innenpfeilerSaeule, vorlageSaeule,
-  TREPPE, treppeHoehe, treppeLoch, TRAUFE, DACH_MAX, KAMM, DACH_STAERKE, dachUnten, dachOben
+  tuerStufe, lane, laneZelle, TRAUFE, DACH_MAX, KAMM, DACH_STAERKE, dachUnten, dachOben
 };

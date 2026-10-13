@@ -52,6 +52,13 @@
       "tip": "Sie stehen spiegelbildlich zur Mittelachse der Front.",
       "caution": "Vereinfachte Blockfigur, nicht nach Vorbild: Die Figur gibt Form und Größe nur grob wieder.",
       "fact": "Der rechte Löwe ist antik-römisch, der linke von Flaminio Vacca."
+    },
+    "rissfuellung": {
+      "title": "Fugenschluss (Diagonalrisse)",
+      "description": "Zum Schluss schließt du alle Stellen, an denen zwei Blöcke einer Lage sich nur an der Kante berühren, mit einem zusätzlichen Block aus dem Material des Nachbarn. So hat die Hülle keine Spalten, durch die man hindurchsieht (vereinfachte Blockfigur, nicht nach Vorbild, gilt nur für die Statuen).",
+      "tip": "Suche mit der Vorschau nach Kantenkontakten und setze den fehlenden Block.",
+      "caution": "Setze den Block nur innerhalb des Grundrisses.",
+      "fact": "Gedrehte Raster erzeugen solche Kantenkontakte an den Stufen schräger Mauern (technische Ergänzung; keine Statue: vereinfachte Blockfigur, nicht nach Vorbild gilt für die Figuren)."
     }
   }
 }

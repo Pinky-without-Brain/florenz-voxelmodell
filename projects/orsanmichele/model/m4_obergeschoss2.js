@@ -44,6 +44,10 @@ module.exports = {
       return b.t === 'glas' ? glas : b.t === 'wappen' ? WZ.fresko(O.FARBEN[(b.i + 2) % 4]) : weiss;
     });
 
+    const nischen2 = [];
+    for (let yr = FY0; yr <= FY1; yr++) for (const c of wand) if (c.d === 1 && O.fensterInhalt(c, yr, FY0, FY1) === 'luft') nischen2.push({ x: c.x, y: O.Y(yr), z: c.z });
+    ctx.oeffnung(nischen2, 'fenster_offen');
+
     // 3. Arkadenfries y 70..73: Wand, Blendbögen (Aussparung), Dreipassfelder, Konsolen im Luftraum
     const fr = [];
     for (let yr = 70; yr <= 73; yr++) {
@@ -63,6 +67,12 @@ module.exports = {
     }
     const frMap = new Map(fr.map((b) => [`${b.x},${b.y},${b.z}`, b.m]));
     ctx.part('arkadenfries').fill(fr, (x, y, z) => frMap.get(`${x},${y},${z}`));
+    const blend = [];                                  // Blendbogen-Nischen des Frieses (d = 1): offene Nischen
+    for (let yr = 72; yr <= 73; yr++) for (const c of wand) {
+      const p = O.takt(O.laengs(c, c.seite), c.seite);
+      if (c.d === 1 && ((yr === 72 && p >= 2) || (yr === 73 && p >= 3 && p <= 4))) blend.push({ x: c.x, y: O.Y(yr), z: c.z });
+    }
+    ctx.oeffnung(blend, 'fenster_offen');
 
     // 4. Kranzgesims y 74: Wandring d <= 3 und Auskragung s <= 2 (Luftraum)
     const kg = wand.map((c) => ({ x: c.x, y: O.Y(74), z: c.z })).concat(O.aussen().map((a) => ({ x: a.x, y: O.Y(74), z: a.z })));

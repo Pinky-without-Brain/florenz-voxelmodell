@@ -43,11 +43,11 @@ test('Build ohne Fehler, acht Module, Bauteile in Katalogreihenfolge', () => {
   assert.deepEqual(rec(1).parts.map((p) => p.id), ['sockel_pfeiler', 'pfeiler_front', 'kapitelle_front', 'pilaster_rueckwand']);
   assert.deepEqual(rec(3).parts.map((p) => p.id), ['archivolten_front', 'archivolte_ost', 'schlusssteine']);
   assert.deepEqual(rec(4).parts.map((p) => p.id),
-    ['kreuzgewoelbe_west', 'kreuzgewoelbe_mitte', 'kreuzgewoelbe_ost', 'konsolen_peducci']);
-  assert.deepEqual(rec(5).parts.map((p) => p.id), ['fries', 'medaillons', 'terrasse', 'brustung', 'dachaustritt']);
+    ['kreuzgewoelbe_west', 'kreuzgewoelbe_mitte', 'kreuzgewoelbe_ost', 'konsolen_peducci', 'gewoelbe_laternen', 'gewoelbe_hinterfuellung']);
+  assert.deepEqual(rec(5).parts.map((p) => p.id), ['fries', 'medaillons', 'terrasse', 'dachaustritt', 'brustung']);
   assert.equal(rec(6).parts.length, 11);
   assert.deepEqual(rec(7).parts.map((p) => p.id),
-    ['perseus', 'sabinerinnen', 'herkules_nessus', 'polyxena', 'menelaos_patroklos', 'rueckwand_figuren', 'medici_loewen']);
+    ['perseus', 'sabinerinnen', 'herkules_nessus', 'polyxena', 'menelaos_patroklos', 'rueckwand_figuren', 'medici_loewen', 'rissfuellung']);
 });
 
 test('Alle Zellen liegen in M_LL (Luftraum 0) und im Höhenbereich Y 67..100', () => {
@@ -182,10 +182,10 @@ test('K5: Medici-Löwen auf Y 68..69; Statuen: Content-Hinweis "vereinfachte Blo
 });
 
 test('Materialien nur über Rollen (Palette), Blockzahlen je Modul ±30 % gegen den Richtwert', () => {
-  const erlaubt = new Set(Object.values(G.T));
-  grid.forEach((x, y, z, e) => assert.ok(erlaubt.has(e.type), e.type));
+  const erlaubt = new Set([...Object.values(G.T), G.WZ.typ('licht'), G.WZ.typ('dachziegel')]);
+  grid.forEach((x, y, z, e) => assert.ok(erlaubt.has(e.type) || G.PAL.isTreppe(e.type), e.type));
   const n = (m) => rec(m).parts.reduce((s, p) => s + p.keys.length, 0);
-  const richt = [2300, 3000, 14000, 1500, 2700, 5500];
+  const richt = [2300, 3000, 14000, 1500, 9500, 5500];   // B3: Modul 4 mit Hinterfüllung (rund 5.500 Blöcke) statt 2.700
   richt.forEach((r, m) => assert.ok(n(m) >= r * 0.7 && n(m) <= r * 1.3, `Modul ${m}: ${n(m)} gegen ${r}`));
   assert.ok(n(6) + n(7) >= 650 * 0.7 && n(6) + n(7) <= 650 * 1.3, `Modul 6+7: ${n(6) + n(7)}`);
   const gesamt = [0, 1, 2, 3, 4, 5, 6, 7].reduce((s, m) => s + n(m), 0);
@@ -202,4 +202,69 @@ test('Content: jedes gebaute Bauteil hat Titel, Beschreibung, Tipp, Achtung, Fak
       for (const f of ['title', 'description', 'tip', 'caution', 'fact']) assert.ok(typeof t[f] === 'string' && t[f].length > (f === 'title' ? 3 : 10), `${p.id}.${f}`);
     }
   }
+});
+
+// ---------------------------------------------------------------- B3: dicht, begehbar, Licht
+const BG = require('../validate/begehbarkeit.js');
+const { analysiere } = require('../diag/begehbarkeit_bestand.js');
+const rep = analysiere(project);
+
+test('Loggia B3: Pflichtmodus, R13 und R14 ohne Fehler, keine Diagonalrisse', () => {
+  assert.equal(project.json.begehbarkeit, 'pflicht');
+  assert.equal(rep.r14.luecken, 0);
+  assert.equal(rep.r13.nichtErreichbareKomponenten, 0);
+  assert.deepEqual(rep.risse, {});
+  assert.ok(world.oeffnungen.some((o) => o.art === 'arkade') && world.oeffnungen.some((o) => o.art === 'tuer'));
+});
+
+test('Loggia B3: Eingangsstufen und Wendeltreppe sind Treppenblöcke, keine Vollblock-Stufen', () => {
+  const stufen = part('podest_front').keys.map((k) => grid.typeOfKey(k));
+  assert.ok(stufen.length >= 60 && stufen.every((t) => G.PAL.isTreppe(t)));
+  const turm = part('turm_treppe').keys.map((k) => grid.typeOfKey(k));
+  assert.ok(turm.filter((t) => G.PAL.isTreppe(t)).length >= 28 * 2);
+  assert.ok(world.modules.flatMap((m) => m.parts).every((p) => p.id !== 'seitenwand_pfeilerverbindung'));
+});
+
+test('Loggia B3: Halle und Terrasse (Y 97) sind von der Piazza erreichbar', () => {
+  assert.ok(rep.r13.projekt.erreichbar >= 1400);
+  // Terrasse: Stehzellen auf Y 97 erreichbar, die unerreichbaren freien Flächen liegen auf Brüstung (Y 100) und Haubendach (Y 101)
+  const TU = require(path.join(PROJ, 'model', '_turm.js'));
+  const t = TU.turm();
+  assert.ok(world.oeffnungen.filter((o) => o.part === 'dachaustritt' && o.art === 'tuer').length === 1);
+  assert.ok(t.tunnel <= 3);
+});
+
+test('Loggia B3: Laternen in der Halle, höchstens 12 Blöcke zur nächsten Seelaterne', () => {
+  const lt = G.WZ.typ('licht');
+  const lampen = [];
+  grid.forEach((x, y, z, e) => { if (e.type === lt) lampen.push([x, y, z]); });
+  assert.ok(lampen.length >= 10);
+  let schlecht = 0;
+  for (const c of G.ZELLEN) {
+    if (c.rw < 3 || c.ru >= 36) continue;
+    if (!grid.has(c.x, 67, c.z) || grid.has(c.x, 68, c.z) || grid.has(c.x, 69, c.z) || grid.has(c.x, 70, c.z)) continue;
+    if (!lampen.some((l) => l[1] >= 70 && Math.hypot(l[0] - c.x, l[2] - c.z) <= 12)) schlecht++;
+  }
+  assert.equal(schlecht, 0);
+});
+
+test('Loggia B3: Content der neuen Bauteile nennt Quelle bzw. Spielzugang', () => {
+  const c2 = JSON.parse(fs.readFileSync(path.join(PROJ, 'content', 'modul_2.json'), 'utf8'));
+  assert.ok(/nicht historisch/.test(c2.parts.turm_treppe.description));
+  assert.ok(/it.wikipedia.org/.test(c2.parts.turm_treppe.fact));
+});
+
+test('Loggia B3: Aus der Halle führt der Turm ohne Springen zur Terrasse (Y 97) und zur Piazza hinab', () => {
+  const { erreichbar } = require('./_ohne_sprung.js');
+  const TU = require(path.join(PROJ, 'model', '_turm.js'));
+  const t = TU.turm();
+  const box = { x0: -250, x1: -160, z0: 845, z1: 905, y0: 60, y1: 110 };
+  const unten = t.tuerUnten[0];
+  const start = { x: unten.x, y: 68, z: t.cz - 3 - t.tunnel };      // Hallenzelle am Ende von Tür und Tunnel
+  const ziel = { x: t.cx + 1, y: 97, z: t.cz - 4 };
+  assert.ok(erreichbar(grid, start, ziel, box), 'Terrasse');
+  // von der Frontstufe in die Halle (das Gelände selbst prüft R13)
+  const front = G.ZELLEN.find((c) => G.stufeFront(c));
+  const draussen = { x: front.x, y: 68, z: front.z };      // Stehzelle über der ersten Stufe
+  assert.ok(erreichbar(grid, draussen, start, box), 'Halle');
 });

@@ -6,7 +6,7 @@
   "parts": {
     "pontile": {
       "title": "Brücke zur Via dell'Arte della Lana",
-      "description": "An der Westseite baust du den Verbindungsgang: Boden auf Y 94, Wände zwei Blöcke dick von Y 95 bis 102 und eine Decke auf Y 103 bis 104. Der Durchgang von 5 Blöcken Breite führt in die Westwand des ersten Obergeschosses.",
+      "description": "An der Westseite baust du den Verbindungsgang: Boden auf Y 94, Wände zwei Blöcke dick von Y 95 bis 102 und eine Decke auf Y 103 bis 104. Der Durchgang von 5 Blöcken Breite führt in die Westwand des ersten Obergeschosses. Das Ende an der Projektgrenze ist offen (deklariertes Tor), die Durchfahrt unter dem Bogen ist eine Arkade. Man kann vom 1. OG durch den Bogen bis zur Grenze gehen. Quelle: it.wikipedia.org/wiki/Orsanmichele; PRUEFBERICHT_D1.",
       "tip": "Beginne am Boden an der Westwand der Kirche.",
       "caution": "Das Fenster über dem Durchgang gewinnt; der Durchgang ist dort nur sechs Blöcke hoch.",
       "fact": "Buontalenti ließ den Bogen 1569 errichten; die zugehörige Treppe wurde später abgerissen."

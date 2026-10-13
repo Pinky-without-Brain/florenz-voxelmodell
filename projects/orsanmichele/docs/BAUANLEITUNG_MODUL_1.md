@@ -8,30 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.601 |
+| Blöcke | 8.366 |
 | Bauschritte | 6 |
 | Y-Bereich | 71 bis 94 |
 | X-Ausdehnung | -333 bis -264 (70 Blöcke) |
 | Z-Ausdehnung | 518 bis 566 (49 Blöcke) |
 | Kleinster Schritt | 498 Blöcke (Schritt 1.6) |
-| Mittlerer Schritt | 1.434 Blöcke |
-| Größter Schritt | 1.676 Blöcke (Schritt 1.4) |
+| Mittlerer Schritt | 1.394 Blöcke |
+| Größter Schritt | 1.636 Blöcke (Schritt 1.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 8.103 | 94,2 % |
-| Quarzsäule | `quartz_pillar` | 279 | 3,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 156 | 1,8 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 63 | 0,7 % |
+| Polierter Andesit | `polished_andesite` | 7.868 | 94,0 % |
+| Quarzsäule | `quartz_pillar` | 279 | 3,3 % |
+| Glatter Quarzblock | `smooth_quartz` | 156 | 1,9 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 63 | 0,8 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `pfeiler_eck` | Vier Eckpfeiler | 3.237 | 1.1–1.2 |
-| 2 | `pfeiler_lang` | Pfeiler an den langen Seiten | 3.256 | 1.3–1.4 |
+| 2 | `pfeiler_lang` | Pfeiler an den langen Seiten | 3.021 | 1.3–1.4 |
 | 3 | `pfeiler_kurz` | Pfeiler an den kurzen Seiten | 1.610 | 1.5 |
 | 4 | `tabernakel` | Vierzehn Tabernakel | 498 | 1.6 |
 
@@ -93,17 +93,17 @@ Die Eck-Tabernakel sitzen eine Zelle von der Ecke entfernt, damit sie sich nicht
 
 Die Pfeiler tragen die Last der Obergeschosse; vor jeder Pfeilerfläche steht eine Zunftstatue.
 
-### Schritt 1.3 – Pfeiler an den langen Seiten – Teil 1/2 (Y 71–82)
+### Schritt 1.3 – Pfeiler an den langen Seiten – Teil 1/2 (Y 71–83)
 
-- **Y-Bereich:** 71 bis 82
-- **Blöcke:** 1.580
+- **Y-Bereich:** 71 bis 83
+- **Blöcke:** 1.548
 - **Bauteile:** `pfeiler_lang`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.580 |
+| Polierter Andesit | `polished_andesite` | 1.548 |
 
 **Beschreibung**
 
@@ -121,17 +121,17 @@ Auch hier bleiben die Nischenzellen der Tabernakel leer.
 
 Die langen Seiten tragen je vier Statuentabernakel.
 
-### Schritt 1.4 – Pfeiler an den langen Seiten – Teil 2/2 (Y 83–94)
+### Schritt 1.4 – Pfeiler an den langen Seiten – Teil 2/2 (Y 84–94)
 
-- **Y-Bereich:** 83 bis 94
-- **Blöcke:** 1.676
+- **Y-Bereich:** 84 bis 94
+- **Blöcke:** 1.473
 - **Bauteile:** `pfeiler_lang`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.676 |
+| Polierter Andesit | `polished_andesite` | 1.473 |
 
 **Beschreibung**
 
@@ -205,4 +205,4 @@ Vier Tabernakel an Nord und Süd, drei an West und Ost: zähle nach, es müssen 
 
 **Fakt**
 
-Nach it.wikipedia stehen in Orsanmichele 14 Tabernakel; jede Zunft hatte ihren eigenen Platz.
+Nach it.wikipedia stehen in Orsanmichele 14 Tabernakel; jede Zunft hatte ihren eigenen Platz. Die Statuennischen sind offen zur Straße (deklariert).

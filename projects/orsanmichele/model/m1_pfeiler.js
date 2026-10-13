@@ -17,7 +17,7 @@ module.exports = {
         for (const c of L.zellen) {
           const r = O.ring(c);
           if (!r || r.typ !== typ) continue;
-          if (O.tabInhalt(c, yr) !== null) continue;
+          if (O.tabInhalt(c, yr) !== null || O.laneZelle(c.x, c.z, yr)) continue;
           out.push({ x: c.x, y: O.Y(yr), z: c.z });
         }
       }
@@ -38,5 +38,8 @@ module.exports = {
     }
     const byKey = new Map(tab.map((b) => [`${b.x},${b.y},${b.z}`, b.t]));
     ctx.part('tabernakel').fill(tab, (x, y, z) => mat[byKey.get(`${x},${y},${z}`)]);
+    const nischen = [];                                // Statuennischen: offen zur Straße (B3, R14)
+    for (let yr = 8; yr <= 16; yr++) for (const c of L.zellen) if (O.tabInhalt(c, yr) === 'luft') nischen.push({ x: c.x, y: O.Y(yr), z: c.z });
+    ctx.oeffnung(nischen, 'fenster_offen');
   }
 };

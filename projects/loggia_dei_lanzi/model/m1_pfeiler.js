@@ -7,6 +7,7 @@ module.exports = {
   module: 1,
   build(ctx) {
     const { T, ZELLEN } = G;
+    const B = G.belegung(ctx);
     const inP = (c) => G.pfeilerIndex(c.iu);
     const fase = (c) => {                        // vier Eckzellen des 6 x 6-Pfeilers
       const [a, b] = G.PFEILER[G.pfeilerIndex(c.iu)];
@@ -16,23 +17,27 @@ module.exports = {
     // 1) Sockel: je Frontpfeiler w 0..5, Lage 1..2, 6 x 6 voll.
     const sockel = ctx.part('sockel_pfeiler');
     for (const c of ZELLEN) {
-      if (c.iw <= 5 && inP(c) >= 0) for (let L = 1; L <= 2; L++) G.setL(sockel, c, L, T.serena);
+      if (c.iw <= 5 && inP(c) >= 0) for (let L = 1; L <= 2; L++) B.setL(sockel, c, L, T.serena);
     }
 
     // 2) Schaft Lage 3..11 (ohne Fase) in Pietra forte; Halbsäulen in Marmor an Bogenseiten und Hallenseite.
     // Entscheidung: Die Halbsäulen der Endpfeiler P0/P3 zur Halle entfallen (dort stehen die Seitenwände).
     const schaft = ctx.part('pfeiler_front');
+    const fasen = [];                            // Eckfasen der Pfeiler: offene Kerben der Arkade (R14)
     for (const c of ZELLEN) {
       for (let L = 3; L <= 11; L++) {
-        if (c.iw <= 5 && inP(c) >= 0 && !fase(c)) G.setL(schaft, c, L, T.forte);
-        else if (G.halbsaeuleBogen(c.iu, c.iw, L) || G.halbsaeuleHalle(c.iu, c.iw, L)) G.setL(schaft, c, L, T.weiss);
+        if (c.iw <= 5 && inP(c) >= 0 && fase(c)) fasen.push({ x: c.x, y: G.lageY(L), z: c.z });
+        if (c.iw <= 5 && inP(c) >= 0 && !fase(c)) B.setL(schaft, c, L, T.forte);
+        else if (G.halbsaeuleBogen(c.iu, c.iw, L) || G.halbsaeuleHalle(c.iu, c.iw, L)) B.setL(schaft, c, L, T.weiss);
       }
     }
+
+    ctx.oeffnung(fasen, 'arkade');
 
     // 3) Kapitelle Lage 12..13: 6 x 6 voll (K0: "Fase wie oben" widerspricht "6 x 6 voll"; das Kapitell lädt aus).
     const kap = ctx.part('kapitelle_front');
     for (const c of ZELLEN) {
-      if (c.iw <= 5 && inP(c) >= 0) for (let L = 12; L <= 13; L++) G.setL(kap, c, L, T.ornament);
+      if (c.iw <= 5 && inP(c) >= 0) for (let L = 12; L <= 13; L++) B.setL(kap, c, L, T.ornament);
     }
 
     // 4) Rückwandpilaster: w 19..21 bei den Pfeiler-u-Bereichen (Öffnung und Konsolsteine gewinnen, K0).
@@ -42,7 +47,7 @@ module.exports = {
       if (c.iw < 19 || c.iw > 21) continue;
       for (let L = 1; L <= 13; L++) {
         const art = G.pilaster(c.iu, c.iw, L);
-        if (art) G.setL(pil, c, L, mat[art]);
+        if (art) B.setL(pil, c, L, mat[art]);
       }
     }
   }

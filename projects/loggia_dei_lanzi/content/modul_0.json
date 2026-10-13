@@ -1,7 +1,7 @@
 {
   "module": 0,
   "title": "Boden",
-  "subtitle": "Bautüte 0: Bodenplatte und Podest an der Front",
+  "subtitle": "Bautüte 0: Bodenplatte und Eingangsstufen als Treppenblöcke",
   "icon": "🏛️",
   "parts": {
     "bodenplatte": {
@@ -12,11 +12,11 @@
       "fact": "Die Loggia entstand zwischen 1376 und 1382 nach Plänen von Benci di Cione und Simone di Francesco Talenti. Sie diente der Signoria, der Stadtregierung, für öffentliche Zeremonien."
     },
     "podest_front": {
-      "title": "Podest an der Front",
-      "description": "Du legst eine zweite Stufe aus 90 Pietra-serena-Blöcken auf Y 68: zwei Blöcke tief entlang der Front, genau unter den drei Bogenöffnungen (X −230 bis −169, Y 68 bis 68, Z 854 bis 878). Zwischen den Bögen bleiben die Pfeilerplätze frei, denn dort entstehen im nächsten Modul die Sockel.",
-      "tip": "Zähle pro Bogen 18 Blöcke in der Breite ab, bevor du die Tiefe auffüllst.",
-      "caution": "Das Podest endet an den Pfeilerplätzen; setze es nicht darüber hinaus.",
-      "fact": "Die Loggia öffnet sich mit drei Rundbögen zur Piazza della Signoria. Man betrat sie über wenige Stufen, so war sie zugleich Bühne und Tribüne für die Feste der Republik."
+      "title": "Eingangsstufen",
+      "description": "Du ersetzt die Plattenzellen am Rand der drei Frontbögen und des Seitenbogens im Osten durch Treppenblöcke aus Pietra serena (Steintreppe), deren Aufstieg in die Halle zeigt. Sie liegen auf Y 67; ihre Oberkante ist der Hallenboden auf Y 68. So steigt die Spielfigur von der Piazza (Y 66/67) ohne Sprung in die Loggia. Das frühere Vollblock-Podest entfällt.",
+      "tip": "Setze die Treppenblöcke mit dem hohen Ende zur Halle. Die Richtung zeigt nach Süden (Front) bzw. Westen (Ost-Eingang), weil Treppenblöcke nur Weltachsen kennen.",
+      "caution": "Die Stufen ersetzen Plattenblöcke; setze an diesen Stellen keinen Plattenblock.",
+      "fact": "Die Loggia steht auf einem niedrigen Stufenpodest zur Piazza. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1."
     }
   }
 }

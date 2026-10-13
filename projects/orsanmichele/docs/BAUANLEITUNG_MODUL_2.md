@@ -8,49 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.290 |
-| Bauschritte | 9 |
+| Blöcke | 10.608 |
+| Bauschritte | 7 |
 | Y-Bereich | 69 bis 94 |
 | X-Ausdehnung | -332 bis -264 (69 Blöcke) |
 | Z-Ausdehnung | 518 bis 566 (49 Blöcke) |
-| Kleinster Schritt | 336 Blöcke (Schritt 2.9) |
-| Mittlerer Schritt | 1.254 Blöcke |
-| Größter Schritt | 1.732 Blöcke (Schritt 2.1) |
+| Kleinster Schritt | 850 Blöcke (Schritt 2.7) |
+| Mittlerer Schritt | 1.515 Blöcke |
+| Größter Schritt | 2.036 Blöcke (Schritt 2.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 9.162 | 81,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 1.358 | 12,0 % |
-| Graues Buntglas | `gray_stained_glass` | 610 | 5,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 100 | 0,9 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 60 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 8.599 | 81,1 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.339 | 12,6 % |
+| Graues Buntglas | `gray_stained_glass` | 610 | 5,8 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 60 | 0,6 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `fuellwand_sockel` | Füllwand unter den Fenstern | 6.052 | 2.1–2.4 |
-| 2 | `fuellwand_masswerk` | Dreiteiliges Maßwerkfenster | 2.682 | 2.5–2.6 |
-| 3 | `spandrillen` | Spandrillen über den Bögen | 1.606 | 2.7 |
-| 4 | `bogenringe` | Zehn Archivolten | 614 | 2.8 |
-| 5 | `statuetten_konsolen` | Statuettenträger | 20 | 2.9 |
-| 6 | `tueren` | Zwei Türen | 316 | 2.9 |
+| 1 | `fuellwand_sockel` | Füllwand unter den Fenstern | 5.534 | 2.1–2.3 |
+| 2 | `fuellwand_masswerk` | Dreiteiliges Maßwerkfenster | 2.618 | 2.4–2.5 |
+| 3 | `spandrillen` | Spandrillen über den Bögen | 1.606 | 2.6 |
+| 4 | `bogenringe` | Zehn Archivolten | 614 | 2.7 |
+| 5 | `statuetten_konsolen` | Statuettenträger | 20 | 2.7 |
+| 6 | `tueren` | Zwei Portale | 216 | 2.7 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Füllwand unter den Fenstern – Teil 1/4 (Y 69–71)
+### Schritt 2.1 – Füllwand unter den Fenstern – Teil 1/3 (Y 69–72)
 
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.732
+- **Y-Bereich:** 69 bis 72
+- **Blöcke:** 1.992
 - **Bauteile:** `fuellwand_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.732 |
+| Polierter Andesit | `polished_andesite` | 1.992 |
 
 **Beschreibung**
 
@@ -62,23 +61,23 @@ Die Füllwand schließt seitlich an die Pfeiler an; so hält jeder Block an sein
 
 **Achtung**
 
-Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei.
+Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei. B3: Vor den Portalen bleibt der Sockel offen.
 
 **Fakt**
 
 Die Arkaden des Erdgeschosses wurden um 1360 bis 1367 zugemauert.
 
-### Schritt 2.2 – Füllwand unter den Fenstern – Teil 2/4 (Y 72–73)
+### Schritt 2.2 – Füllwand unter den Fenstern – Teil 2/3 (Y 73–75)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.080
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.506
 - **Bauteile:** `fuellwand_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.080 |
+| Polierter Andesit | `polished_andesite` | 1.506 |
 
 **Beschreibung**
 
@@ -90,23 +89,23 @@ Die Füllwand schließt seitlich an die Pfeiler an; so hält jeder Block an sein
 
 **Achtung**
 
-Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei.
+Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei. B3: Vor den Portalen bleibt der Sockel offen.
 
 **Fakt**
 
 Die Arkaden des Erdgeschosses wurden um 1360 bis 1367 zugemauert.
 
-### Schritt 2.3 – Füllwand unter den Fenstern – Teil 3/4 (Y 74–76)
+### Schritt 2.3 – Füllwand unter den Fenstern – Teil 3/3 (Y 76–79)
 
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.620
+- **Y-Bereich:** 76 bis 79
+- **Blöcke:** 2.036
 - **Bauteile:** `fuellwand_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.620 |
+| Polierter Andesit | `polished_andesite` | 2.036 |
 
 **Beschreibung**
 
@@ -118,53 +117,25 @@ Die Füllwand schließt seitlich an die Pfeiler an; so hält jeder Block an sein
 
 **Achtung**
 
-Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei.
+Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei. B3: Vor den Portalen bleibt der Sockel offen.
 
 **Fakt**
 
 Die Arkaden des Erdgeschosses wurden um 1360 bis 1367 zugemauert.
 
-### Schritt 2.4 – Füllwand unter den Fenstern – Teil 4/4 (Y 77–79)
-
-- **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.620
-- **Bauteile:** `fuellwand_sockel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.620 |
-
-**Beschreibung**
-
-In jedem der zehn Bogenfelder mauerst du die Füllwand vier Blöcke dick (zwei Zellen hinter der Pfeilerfläche) von Y 69 bis 79. Die Türöffnungen lässt du aus.
-
-**Tipp**
-
-Die Füllwand schließt seitlich an die Pfeiler an; so hält jeder Block an seinem Nachbarn.
-
-**Achtung**
-
-Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei.
-
-**Fakt**
-
-Die Arkaden des Erdgeschosses wurden um 1360 bis 1367 zugemauert.
-
-### Schritt 2.5 – Dreiteiliges Maßwerkfenster – Teil 1/2 (Y 80–83)
+### Schritt 2.4 – Dreiteiliges Maßwerkfenster – Teil 1/2 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
-- **Blöcke:** 1.252
+- **Blöcke:** 1.209
 - **Bauteile:** `fuellwand_masswerk`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 624 |
+| Polierter Andesit | `polished_andesite` | 594 |
 | Graues Buntglas | `gray_stained_glass` | 340 |
-| Glatter Quarzblock | `smooth_quartz` | 288 |
+| Glatter Quarzblock | `smooth_quartz` | 275 |
 
 **Beschreibung**
 
@@ -182,19 +153,19 @@ Das Glas gehört in die Mittelebene der Wand, nicht nach außen.
 
 Das Maßwerk der Bogenfelder stammt aus der Zeit um 1420; es ist ein Wahrzeichen der Florentiner Gotik.
 
-### Schritt 2.6 – Dreiteiliges Maßwerkfenster – Teil 2/2 (Y 84–89)
+### Schritt 2.5 – Dreiteiliges Maßwerkfenster – Teil 2/2 (Y 84–89)
 
 - **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.430
+- **Blöcke:** 1.409
 - **Bauteile:** `fuellwand_masswerk`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 880 |
+| Polierter Andesit | `polished_andesite` | 865 |
 | Graues Buntglas | `gray_stained_glass` | 270 |
-| Glatter Quarzblock | `smooth_quartz` | 240 |
+| Glatter Quarzblock | `smooth_quartz` | 234 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 40 |
 
 **Beschreibung**
@@ -213,7 +184,7 @@ Das Glas gehört in die Mittelebene der Wand, nicht nach außen.
 
 Das Maßwerk der Bogenfelder stammt aus der Zeit um 1420; es ist ein Wahrzeichen der Florentiner Gotik.
 
-### Schritt 2.7 – Spandrillen über den Bögen
+### Schritt 2.6 – Spandrillen über den Bögen
 
 - **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.606
@@ -241,60 +212,31 @@ Lasse die Luft unter dem Bogen frei; nur oberhalb des Rings wird gemauert.
 
 Im Modell haben die Spitzbögen eine Halbweite von 3,75 m, den Kämpfer bei 6,5 m und den Scheitel bei 11 m Höhe.
 
-### Schritt 2.8 – Zehn Archivolten
+### Schritt 2.7 – Zehn Archivolten & Statuettenträger & Zwei Portale
 
-- **Y-Bereich:** 84 bis 91
-- **Blöcke:** 614
-- **Bauteile:** `bogenringe`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 614 |
-
-**Beschreibung**
-
-Du setzt den Bogenring aus weißem Quarz zwei Zellen stark über die Laibung jedes Feldes, von Y 81 bis 92. Die Laibung im Scheitel liegt bei Y 90.
-
-**Tipp**
-
-Folge der Kurve Zelle für Zelle; am Scheitel liegen zwei Lagen übereinander.
-
-**Achtung**
-
-Der Ring liegt nur in den äußeren zwei Zellen, dahinter bleibt die Füllwand.
-
-**Fakt**
-
-Der Spitzbogen entsteht aus zwei Kreisen mit Radius 9,15 Blöcken.
-
-### Schritt 2.9 – Statuettenträger & Zwei Türen
-
-- **Y-Bereich:** 71 bis 81
-- **Blöcke:** 336
-- **Bauteile:** `statuetten_konsolen`, `tueren`
+- **Y-Bereich:** 71 bis 91
+- **Blöcke:** 850
+- **Bauteile:** `bogenringe`, `statuetten_konsolen`, `tueren`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 216 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 100 |
+| Glatter Quarzblock | `smooth_quartz` | 830 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 20 |
 
 **Beschreibung**
 
-An jedem Bogenansatz setzt du einen Konsolblock aus gemeißeltem Quarz auf Y 81, außen an der Seite des Feldes. In das mittlere Feld der Nordseite und in das hintere Feld der Ostseite schneidest du je ein Portal, 5 Blöcke breit und 10 hoch (Y 71 bis 80). Die Tür aus dunklem Eichenholz sitzt in der dritten Zelle der Wand, die Laibung und den Sturz bildest du aus weißem Quarz.
+Du setzt den Bogenring aus weißem Quarz zwei Zellen stark über die Laibung jedes Feldes, von Y 81 bis 92. Die Laibung im Scheitel liegt bei Y 90. An jedem Bogenansatz setzt du einen Konsolblock aus gemeißeltem Quarz auf Y 81, außen an der Seite des Feldes. In das mittlere Feld der Nordseite und in das hintere Feld der Ostseite schneidest du je ein offenes Portal, 5 Blöcke breit und 12 hoch (Y 69 bis 80), ab dem Boden. Laibung (2 × 12) und Sturz (Y 81) bildest du aus weißem Quarz. Im Spiel gibt es keinen Türflügel: Der Durchgang ist offen.
 
 **Tipp**
 
-Die Konsole sitzt an der Pfeilerkante, direkt neben dem Pfeiler. Setze zuerst die Laibung, dann den Sturz auf Y 81, dann die Tür.
+Folge der Kurve Zelle für Zelle; am Scheitel liegen zwei Lagen übereinander. Die Konsole sitzt an der Pfeilerkante, direkt neben dem Pfeiler. Setze zuerst die Laibung, dann den Sturz auf Y 81.
 
 **Achtung**
 
-Ein einzelner Block pro Seite; setze nicht mehr. Lage und Zahl der Türen sind nicht belegt; das Modell nimmt zwei an.
+Der Ring liegt nur in den äußeren zwei Zellen, dahinter bleibt die Füllwand. Ein einzelner Block pro Seite; setze nicht mehr. Lage und Zahl der Portale sind nicht belegt; das Modell nimmt zwei an.
 
 **Fakt**
 
-Am Bogenansatz der Fenster stehen nach it.wikipedia kleine Statuetten. Die genaue Lage der Eingänge ist in den Quellen nicht gesichert und eine Schätzung.
+Der Spitzbogen entsteht aus zwei Kreisen mit Radius 9,15 Blöcken. Am Bogenansatz der Fenster stehen nach it.wikipedia kleine Statuetten. Die genaue Lage der Eingänge ist in den Quellen nicht gesichert und eine Schätzung. Die Rücksprünge der Bogenfelder sind als Arkade deklariert, dahinter schließt die Füllwand.
