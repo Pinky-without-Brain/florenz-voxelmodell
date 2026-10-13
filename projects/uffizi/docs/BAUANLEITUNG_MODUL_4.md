@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 30.300 |
+| Blöcke | 30.294 |
 | Bauschritte | 19 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -284 bis -184 (101 Blöcke) |
 | Z-Ausdehnung | 1167 bis 1215 (49 Blöcke) |
 | Kleinster Schritt | 872 Blöcke (Schritt 4.13) |
-| Mittlerer Schritt | 1.595 Blöcke |
+| Mittlerer Schritt | 1.594 Blöcke |
 | Größter Schritt | 1.978 Blöcke (Schritt 4.11) |
 
 ## Gesamt-Stückliste
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Endsteinziegel | `end_stone_bricks` | 22.347 | 73,8 % |
-| Glatter Stein | `smooth_stone` | 5.862 | 19,3 % |
+| Glatter Stein | `smooth_stone` | 5.856 | 19,3 % |
 | Graues Buntglas | `gray_stained_glass` | 1.639 | 5,4 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 156 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 99 | 0,3 % |
@@ -42,7 +42,7 @@
 | 1 | `suedbau_waende` | Wände des Südbaus | 21.487 | 4.1–4.12 |
 | 2 | `serliana` | Serliana an der Platzseite | 872 | 4.13 |
 | 3 | `serliana_aufsatz` | Aufsatz über der Serliana | 2.755 | 4.14–4.15 |
-| 4 | `durchgang_arno` | Durchgang zum Arno | 2.943 | 4.16–4.17 |
+| 4 | `durchgang_arno` | Durchgang zum Arno | 2.937 | 4.16–4.17 |
 | 5 | `verone_arno` | Dachloggia zum Arno | 2.243 | 4.18–4.19 |
 
 ## Bauschritte
@@ -523,7 +523,7 @@ Der Durchgang ist der Weg vom Platz zum Ufer des Arno. Heute sieht man von der S
 ### Schritt 4.17 – Durchgang zum Arno – Teil 2/2 (Y 75–85)
 
 - **Y-Bereich:** 75 bis 85
-- **Blöcke:** 1.476
+- **Blöcke:** 1.470
 - **Bauteile:** `durchgang_arno`
 
 **Teileliste**
@@ -531,7 +531,7 @@ Der Durchgang ist der Weg vom Platz zum Ufer des Arno. Heute sieht man von der S
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 850 |
-| Glatter Stein | `smooth_stone` | 446 |
+| Glatter Stein | `smooth_stone` | 440 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 95 |
 | Polierter Tuffstein | `polished_tuff` | 85 |
 

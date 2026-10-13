@@ -11,13 +11,6 @@
       "caution": "Die Figuren stellen keine bestimmte Person dar. Die echten Standbilder zeigen berühmte Toskaner und stammen großteils aus dem 19. Jahrhundert.",
       "fact": "Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, in der Regel aus dem 19. Jahrhundert."
     },
-    "portikus_ausstattung": {
-      "title": "Säulenhalle: bemalte Decke",
-      "description": "Die Decke der Säulenhalle trägt ein Muster aus Fresko-Farbfeldern (Grotesken) mit Goldbändern; der Boden bleibt Pflaster. In den Pfeilernischen stehen die Standbilder.",
-      "tip": "Male das Muster in Streifen von 6 Blöcken, alle 6 Blöcke ein Goldband.",
-      "caution": "Nur das Material der Deckenplatte wird gewechselt, sie bleibt ein Bauteil der Decke.",
-      "fact": "Der Portikus erschließt den Palast vom Platz. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
-    },
     "scalone_ausstattung": {
       "title": "Halle des Scalone mit Büsten",
       "description": "In der Halle der Haupttreppe stehen Büsten auf Sockeln aus Pietra forte (2 Blöcke) mit Kopf aus Quarz an den Wänden des Erdgeschosses, des Piano nobile und der Galerie.",

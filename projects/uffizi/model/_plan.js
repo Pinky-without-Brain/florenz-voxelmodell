@@ -27,7 +27,7 @@ const PART_LIST = [
   ['spinnwand_fluegel', 7], ['trennwaende', 7], ['decke_14', 7], ['decke_20', 7], ['decke_36', 7], ['decke_traufe', 7],
   ['treppen', 7], ['scalone_treppe', 7], ['korridor_treppe', 7],
   // Modul 9 Statuen und Ausgestaltung der Innenräume
-  ['statuen', 9], ['portikus_ausstattung', 9], ['scalone_ausstattung', 9], ['galerie_ostkorridor', 9], ['galerie_westkorridor', 9],
+  ['statuen', 9], ['scalone_ausstattung', 9], ['galerie_ostkorridor', 9], ['galerie_westkorridor', 9],
   ['galerie_arno_korridor', 9], ['tribuna', 9], ['sala_botticelli', 9], ['sala_leonardo', 9], ['sala_michelangelo_raffael', 9],
   ['galerie_saele_ost', 9], ['galerie_saele_west', 9], ['amtsraeume_eg', 9], ['amtsraeume_mezzanin', 9], ['amtsraeume_piano_nobile', 9],
   ['beleuchtung', 9]

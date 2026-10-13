@@ -3,14 +3,18 @@
 const { cells, plan, PART_LIST } = require('./_plan.js');
 
 /** Öffnungen (R14) der Bauteile `names` deklarieren: Luftzellen, die der Plan als Öffnung gemerkt hat und die noch leer sind. */
+const fertig = new WeakMap();      // je Bau (ctx.grid) die schon deklarierten Öffnungen
+
 function deklariere(ctx, names) {
   const P = plan();
   const { S, own, SLOTS, AIR_ID, oeff } = P;
   const set = names ? new Set(names) : null;       // ohne names: alle noch nicht deklarierten
   const byArt = new Map();
   for (const o of oeff) {
-    if (o.done || (set && !set.has(o.teil))) continue;
-    o.done = true;
+    let done = fertig.get(ctx.grid);
+    if (!done) fertig.set(ctx.grid, done = new Set());
+    if (done.has(o) || (set && !set.has(o.teil))) continue;
+    done.add(o);
     if (own[o.k] !== AIR_ID) continue;
     const i = Math.floor(o.k / SLOTS), L = o.k - i * SLOTS;
     let a = byArt.get(o.art);

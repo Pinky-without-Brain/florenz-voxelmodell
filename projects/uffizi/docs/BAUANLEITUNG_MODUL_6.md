@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 83.348 |
+| Blöcke | 83.342 |
 | Bauschritte | 51 |
 | Y-Bereich | 66 bis 143 |
 | X-Ausdehnung | -346 bis -80 (267 Blöcke) |
@@ -24,14 +24,14 @@
 | Terrakotta | `terracotta` | 63.956 | 76,7 % |
 | Endsteinziegel | `end_stone_bricks` | 13.439 | 16,1 % |
 | Rote Keramik | `red_terracotta` | 2.508 | 3,0 % |
-| Weiße Keramik | `white_terracotta` | 1.195 | 1,4 % |
+| Weiße Keramik | `white_terracotta` | 1.191 | 1,4 % |
 | Goldblock | `gold_block` | 811 | 1,0 % |
 | Glatter Stein | `smooth_stone` | 574 | 0,7 % |
 | Blaue Keramik | `blue_terracotta` | 301 | 0,4 % |
-| Grüne Keramik | `green_terracotta` | 281 | 0,3 % |
+| Grüne Keramik | `green_terracotta` | 280 | 0,3 % |
 | Graues Buntglas | `gray_stained_glass` | 142 | 0,2 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 87 | 0,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 30 | 0,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 29 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 10 | 0,0 % |
 | Polierter Tuffstein | `polished_tuff` | 6 | 0,0 % |
 | Polierter Granit | `polished_granite` | 4 | 0,0 % |
@@ -42,7 +42,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `dach_nebenbau` | Dach des Nebenbaus | 21.185 | 6.1–6.14 |
-| 2 | `dach_fluegel` | Dach der Flügel und des Südbaus | 43.698 | 6.15–6.39 |
+| 2 | `dach_fluegel` | Dach der Flügel und des Südbaus | 43.692 | 6.15–6.39 |
 | 3 | `tribuna_tambour` | Tribuna: Schacht und Tambour | 15.633 | 6.40–6.48 |
 | 4 | `tribuna_kuppel` | Tribuna: Kuppel | 2.506 | 6.49–6.50 |
 | 5 | `tribuna_laterne` | Tribuna: Laterne | 326 | 6.51 |
@@ -444,7 +444,7 @@ Dachziegel aus Terrakotta prägen das Stadtbild von Florenz.
 ### Schritt 6.15 – Dach der Flügel und des Südbaus – Teil 1/25 (Y 110–116)
 
 - **Y-Bereich:** 110 bis 116
-- **Blöcke:** 1.875
+- **Blöcke:** 1.873
 - **Bauteile:** `dach_fluegel`
 
 **Teileliste**
@@ -452,7 +452,7 @@ Dachziegel aus Terrakotta prägen das Stadtbild von Florenz.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 649 |
-| Weiße Keramik | `white_terracotta` | 365 |
+| Weiße Keramik | `white_terracotta` | 363 |
 | Rote Keramik | `red_terracotta` | 231 |
 | Goldblock | `gold_block` | 222 |
 | Blaue Keramik | `blue_terracotta` | 168 |
@@ -479,21 +479,21 @@ Das flache Dach ist von der Straße kaum zu sehen.
 ### Schritt 6.16 – Dach der Flügel und des Südbaus – Teil 2/25 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.290
+- **Blöcke:** 1.286
 - **Bauteile:** `dach_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weiße Keramik | `white_terracotta` | 453 |
+| Weiße Keramik | `white_terracotta` | 451 |
 | Rote Keramik | `red_terracotta` | 287 |
 | Goldblock | `gold_block` | 215 |
 | Blaue Keramik | `blue_terracotta` | 133 |
-| Grüne Keramik | `green_terracotta` | 116 |
+| Grüne Keramik | `green_terracotta` | 115 |
 | Terrakotta | `terracotta` | 44 |
 | Hellblaue Keramik | `light_blue_terracotta` | 32 |
-| Gelbe Keramik | `yellow_terracotta` | 10 |
+| Gelbe Keramik | `yellow_terracotta` | 9 |
 
 **Beschreibung**
 

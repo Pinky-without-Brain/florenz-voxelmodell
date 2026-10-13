@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.500 |
+| Blöcke | 40.511 |
 | Bauschritte | 31 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -339 bis -87 (253 Blöcke) |
 | Z-Ausdehnung | 900 bis 1210 (311 Blöcke) |
 | Kleinster Schritt | 371 Blöcke (Schritt 9.5) |
-| Mittlerer Schritt | 1.306 Blöcke |
+| Mittlerer Schritt | 1.307 Blöcke |
 | Größter Schritt | 2.070 Blöcke (Schritt 9.30) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Goldblock | `gold_block` | 23.835 | 58,9 % |
+| Goldblock | `gold_block` | 23.835 | 58,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 5.157 | 12,7 % |
 | Weiße Keramik | `white_terracotta` | 1.408 | 3,5 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 1.121 | 2,8 % |
@@ -32,7 +32,7 @@
 | Grüne Keramik | `green_terracotta` | 989 | 2,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 964 | 2,4 % |
 | Rote Keramik | `red_terracotta` | 927 | 2,3 % |
-| Seelaterne | `sea_lantern` | 807 | 2,0 % |
+| Seelaterne | `sea_lantern` | 818 | 2,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 526 | 1,3 % |
 | Endsteinziegel | `end_stone_bricks` | 235 | 0,6 % |
 | Polierter Andesit | `polished_andesite` | 182 | 0,4 % |
@@ -56,7 +56,7 @@
 | 12 | `amtsraeume_eg` | Amtsräume im Erdgeschoss | 7.446 | 9.11–9.15 |
 | 13 | `amtsraeume_mezzanin` | Amtsräume im Mezzanin | 10.804 | 9.16–9.23 |
 | 14 | `amtsraeume_piano_nobile` | Amtsräume im Piano nobile | 10.153 | 9.24–9.30 |
-| 15 | `beleuchtung` | Beleuchtung der Räume | 775 | 9.31 |
+| 15 | `beleuchtung` | Beleuchtung der Räume | 786 | 9.31 |
 
 ## Bauschritte
 
@@ -1096,14 +1096,14 @@ Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffiz
 ### Schritt 9.31 – Beleuchtung der Räume
 
 - **Y-Bereich:** 79 bis 116
-- **Blöcke:** 775
+- **Blöcke:** 786
 - **Bauteile:** `beleuchtung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Seelaterne | `sea_lantern` | 773 |
+| Seelaterne | `sea_lantern` | 784 |
 | Grüne Keramik | `green_terracotta` | 1 |
 | Gelbe Keramik | `yellow_terracotta` | 1 |
 

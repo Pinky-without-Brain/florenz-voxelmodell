@@ -34,7 +34,7 @@
     },
     "portikus_decke": {
       "title": "Decke der Säulenhalle",
-      "description": "Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf.",
+      "description": "Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf. Das Material der Platte wechselt in einem Muster aus Fresko-Farbfeldern mit Goldbändern (Grotesken, vereinfacht).",
       "tip": "Lege die Platte von der Fassade zur Rückwand, so findest du den Anschluss an beide Auflager.",
       "caution": "Die Decke liegt genau auf der Höhe der Oberkante des Gebälks. Eine Lage zu hoch, und die Mezzaninwand sitzt schief.",
       "fact": "Die Säulenhalle ist 5 Meter tief, so tief wie ein Wohnzimmer."

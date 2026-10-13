@@ -28,7 +28,8 @@ module.exports = function ausstattung(P) {
   const frei = (i, L) => { const v = own[i * SLOTS + L]; return v === 0 || v === AIR_ID; };
   const reown = (i, L, teil, mat) => { const k = i * SLOTS + L; if (!solid(i, L)) return false; own[k] = PID[teil]; mt[k] = matId(mat); return true; };
   // Nur das Material wechseln (Besitzer bleibt): Böden und Decken bleiben im Bauteil der Platte (Baubarkeit R3)
-  const farbig = (i, L, mat) => { if (!solid(i, L)) return false; mt[i * SLOTS + L] = matId(mat); return true; };
+  const STUFENTEILE = new Set(['treppen', 'scalone_treppe', 'korridor_treppe', 'beleuchtung'].map((n) => PID[n]));
+  const farbig = (i, L, mat) => { if (!solid(i, L) || STUFENTEILE.has(own[i * SLOTS + L])) return false; mt[i * SLOTS + L] = matId(mat); return true; };
   const setze = (i, L, teil, mat) => { const k = i * SLOTS + L; if (!frei(i, L)) return false; own[k] = PID[teil]; mt[k] = matId(mat); return true; };
   const modul = (w) => Math.max(0, Math.min(10, Math.floor((w - 12) / 24)));
   const nachb = [[1, 0], [-1, 0], [0, 1], [0, -1]];

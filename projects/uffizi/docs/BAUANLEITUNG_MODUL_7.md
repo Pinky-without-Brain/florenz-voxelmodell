@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 183.892 |
+| Blöcke | 183.893 |
 | Bauschritte | 105 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -338 bis -87 (252 Blöcke) |
@@ -22,29 +22,29 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Endsteinziegel | `end_stone_bricks` | 82.762 | 45,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22.086 | 12,0 % |
-| Polierter Tuffstein | `polished_tuff` | 21.875 | 11,9 % |
-| Glatter Stein | `smooth_stone` | 13.592 | 7,4 % |
-| Glatter Quarzblock | `smooth_quartz` | 10.373 | 5,6 % |
-| Polierter Granit | `polished_granite` | 10.313 | 5,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22.059 | 12,0 % |
+| Polierter Tuffstein | `polished_tuff` | 21.850 | 11,9 % |
+| Glatter Stein | `smooth_stone` | 13.636 | 7,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 10.354 | 5,6 % |
+| Polierter Granit | `polished_granite` | 10.287 | 5,6 % |
 | Weiße Keramik | `white_terracotta` | 6.239 | 3,4 % |
 | Goldblock | `gold_block` | 3.315 | 1,8 % |
 | Grüne Keramik | `green_terracotta` | 3.299 | 1,8 % |
-| Blaue Keramik | `blue_terracotta` | 3.061 | 1,7 % |
-| Rote Keramik | `red_terracotta` | 3.031 | 1,6 % |
-| Hellblaue Keramik | `light_blue_terracotta` | 2.222 | 1,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 983 | 0,5 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 210 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 181 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 145 | 0,1 % |
-| Dunkler Prismarin | `dark_prismarine` | 115 | 0,1 % |
+| Blaue Keramik | `blue_terracotta` | 3.064 | 1,7 % |
+| Rote Keramik | `red_terracotta` | 3.029 | 1,6 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 2.224 | 1,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 982 | 0,5 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 228 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 191 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 170 | 0,1 % |
+| Dunkler Prismarin | `dark_prismarine` | 114 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 90 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 626 |
+| Steintreppe | `stone_stairs` | 679 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -55,10 +55,10 @@
 | 3 | `decke_14` | Decke über dem Erdgeschoss | 21.338 | 7.51–7.62 |
 | 4 | `decke_20` | Decke über dem Mezzanin | 27.755 | 7.63–7.76 |
 | 5 | `decke_36` | Decke über dem Piano nobile | 22.235 | 7.77–7.88 |
-| 6 | `decke_traufe` | Traufdecke | 26.010 | 7.89–7.102 |
+| 6 | `decke_traufe` | Traufdecke | 26.012 | 7.89–7.102 |
 | 7 | `treppen` | Wendeltreppen aus Treppenblöcken | 1.260 | 7.103 |
 | 8 | `scalone_treppe` | Scalone del Vasari | 1.731 | 7.104 |
-| 9 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 1.734 | 7.105 |
+| 9 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 1.733 | 7.105 |
 
 ## Bauschritte
 
@@ -1472,7 +1472,7 @@ Die Raumfolge der Uffizien ist durchgehend (Enfilade).
 ### Schritt 7.51 – Decke über dem Erdgeschoss – Teil 1/12 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.917
+- **Blöcke:** 1.918
 - **Bauteile:** `decke_14`
 
 **Teileliste**
@@ -1480,7 +1480,7 @@ Die Raumfolge der Uffizien ist durchgehend (Enfilade).
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 952 |
-| Polierter Tuffstein | `polished_tuff` | 948 |
+| Polierter Tuffstein | `polished_tuff` | 949 |
 | Glatter Stein | `smooth_stone` | 17 |
 
 **Beschreibung**
@@ -1509,8 +1509,8 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 929 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 919 |
+| Polierter Tuffstein | `polished_tuff` | 930 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 918 |
 | Glatter Stein | `smooth_stone` | 100 |
 
 **Beschreibung**
@@ -1539,8 +1539,8 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 872 |
-| Polierter Tuffstein | `polished_tuff` | 868 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 871 |
+| Polierter Tuffstein | `polished_tuff` | 869 |
 | Glatter Stein | `smooth_stone` | 114 |
 
 **Beschreibung**
@@ -1562,14 +1562,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.54 – Decke über dem Erdgeschoss – Teil 4/12 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.910
+- **Blöcke:** 1.909
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 914 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 913 |
 | Polierter Tuffstein | `polished_tuff` | 892 |
 | Glatter Stein | `smooth_stone` | 104 |
 
@@ -1592,14 +1592,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.55 – Decke über dem Erdgeschoss – Teil 5/12 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.968
+- **Blöcke:** 1.969
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 923 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 924 |
 | Polierter Tuffstein | `polished_tuff` | 913 |
 | Glatter Stein | `smooth_stone` | 132 |
 
@@ -1622,14 +1622,14 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 ### Schritt 7.56 – Decke über dem Erdgeschoss – Teil 6/12 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.834
+- **Blöcke:** 1.833
 - **Bauteile:** `decke_14`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 876 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 875 |
 | Polierter Tuffstein | `polished_tuff` | 858 |
 | Glatter Stein | `smooth_stone` | 100 |
 
@@ -1779,8 +1779,8 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 732 |
-| Polierter Tuffstein | `polished_tuff` | 727 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 733 |
+| Polierter Tuffstein | `polished_tuff` | 726 |
 | Glatter Stein | `smooth_stone` | 400 |
 
 **Beschreibung**
@@ -1837,8 +1837,8 @@ Das Modell zeigt alle Decken als massive Steinplatten, nur volle Blöcke sind m�
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.039 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.033 |
+| Polierter Tuffstein | `polished_tuff` | 1.040 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.032 |
 | Glatter Stein | `smooth_stone` | 21 |
 
 **Beschreibung**
@@ -1987,8 +1987,8 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 975 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 968 |
+| Polierter Tuffstein | `polished_tuff` | 974 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 969 |
 | Glatter Stein | `smooth_stone` | 150 |
 
 **Beschreibung**
@@ -2077,8 +2077,8 @@ Zwischen den beiden Decken liegt das Mezzanin, nur 3 Meter hoch.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 989 |
-| Polierter Tuffstein | `polished_tuff` | 958 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 987 |
+| Polierter Tuffstein | `polished_tuff` | 960 |
 | Glatter Stein | `smooth_stone` | 146 |
 
 **Beschreibung**
@@ -2285,8 +2285,8 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 977 |
-| Polierter Granit | `polished_granite` | 976 |
+| Glatter Quarzblock | `smooth_quartz` | 978 |
+| Polierter Granit | `polished_granite` | 975 |
 | Glatter Stein | `smooth_stone` | 99 |
 
 **Beschreibung**
@@ -2375,8 +2375,8 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 901 |
-| Polierter Granit | `polished_granite` | 894 |
+| Glatter Quarzblock | `smooth_quartz` | 900 |
+| Polierter Granit | `polished_granite` | 895 |
 | Glatter Stein | `smooth_stone` | 116 |
 
 **Beschreibung**
@@ -2405,8 +2405,8 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 952 |
-| Polierter Granit | `polished_granite` | 930 |
+| Glatter Quarzblock | `smooth_quartz` | 953 |
+| Polierter Granit | `polished_granite` | 929 |
 | Glatter Stein | `smooth_stone` | 128 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
 | Goldblock | `gold_block` | 3 |
@@ -2437,10 +2437,10 @@ Auf dieser Höhe verläuft der Gang vom Palazzo Vecchio bis zum Palazzo Pitti.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 874 |
-| Polierter Granit | `polished_granite` | 858 |
+| Glatter Quarzblock | `smooth_quartz` | 877 |
+| Polierter Granit | `polished_granite` | 856 |
 | Glatter Stein | `smooth_stone` | 130 |
-| Dunkler Prismarin | `dark_prismarine` | 64 |
+| Dunkler Prismarin | `dark_prismarine` | 63 |
 | Goldblock | `gold_block` | 18 |
 
 **Beschreibung**
@@ -2646,16 +2646,16 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.90 – Traufdecke – Teil 2/14 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.679
+- **Blöcke:** 1.677
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weiße Keramik | `white_terracotta` | 503 |
-| Rote Keramik | `red_terracotta` | 259 |
-| Goldblock | `gold_block` | 249 |
+| Weiße Keramik | `white_terracotta` | 504 |
+| Rote Keramik | `red_terracotta` | 257 |
+| Goldblock | `gold_block` | 248 |
 | Grüne Keramik | `green_terracotta` | 205 |
 | Blaue Keramik | `blue_terracotta` | 190 |
 | Hellblaue Keramik | `light_blue_terracotta` | 142 |
@@ -2689,9 +2689,9 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weiße Keramik | `white_terracotta` | 449 |
-| Grüne Keramik | `green_terracotta` | 236 |
+| Grüne Keramik | `green_terracotta` | 237 |
 | Rote Keramik | `red_terracotta` | 218 |
-| Goldblock | `gold_block` | 213 |
+| Goldblock | `gold_block` | 212 |
 | Blaue Keramik | `blue_terracotta` | 211 |
 | Hellblaue Keramik | `light_blue_terracotta` | 148 |
 | Glatter Stein | `smooth_stone` | 114 |
@@ -2786,7 +2786,7 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.94 – Traufdecke – Teil 6/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.935
+- **Blöcke:** 1.936
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
@@ -2799,7 +2799,7 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | Grüne Keramik | `green_terracotta` | 240 |
 | Blaue Keramik | `blue_terracotta` | 232 |
 | Rote Keramik | `red_terracotta` | 227 |
-| Hellblaue Keramik | `light_blue_terracotta` | 162 |
+| Hellblaue Keramik | `light_blue_terracotta` | 163 |
 | Gelbe Keramik | `yellow_terracotta` | 78 |
 
 **Beschreibung**
@@ -2821,7 +2821,7 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.95 – Traufdecke – Teil 7/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.969
+- **Blöcke:** 1.967
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
@@ -2831,8 +2831,8 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | Weiße Keramik | `white_terracotta` | 441 |
 | Glatter Stein | `smooth_stone` | 379 |
 | Grüne Keramik | `green_terracotta` | 240 |
-| Goldblock | `gold_block` | 229 |
-| Blaue Keramik | `blue_terracotta` | 226 |
+| Goldblock | `gold_block` | 228 |
+| Blaue Keramik | `blue_terracotta` | 225 |
 | Rote Keramik | `red_terracotta` | 217 |
 | Hellblaue Keramik | `light_blue_terracotta` | 164 |
 | Gelbe Keramik | `yellow_terracotta` | 73 |
@@ -2856,14 +2856,14 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.96 – Traufdecke – Teil 8/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.909
+- **Blöcke:** 1.910
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weiße Keramik | `white_terracotta` | 434 |
+| Weiße Keramik | `white_terracotta` | 435 |
 | Glatter Stein | `smooth_stone` | 378 |
 | Grüne Keramik | `green_terracotta` | 234 |
 | Goldblock | `gold_block` | 220 |
@@ -2891,7 +2891,7 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.97 – Traufdecke – Teil 9/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.857
+- **Blöcke:** 1.858
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
@@ -2900,9 +2900,9 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 407 |
 | Weiße Keramik | `white_terracotta` | 396 |
-| Goldblock | `gold_block` | 220 |
-| Grüne Keramik | `green_terracotta` | 214 |
-| Blaue Keramik | `blue_terracotta` | 209 |
+| Goldblock | `gold_block` | 222 |
+| Grüne Keramik | `green_terracotta` | 212 |
+| Blaue Keramik | `blue_terracotta` | 210 |
 | Rote Keramik | `red_terracotta` | 188 |
 | Hellblaue Keramik | `light_blue_terracotta` | 153 |
 | Gelbe Keramik | `yellow_terracotta` | 70 |
@@ -2926,7 +2926,7 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.98 – Traufdecke – Teil 10/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.968
+- **Blöcke:** 1.971
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
@@ -2935,12 +2935,12 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 480 |
 | Weiße Keramik | `white_terracotta` | 403 |
-| Goldblock | `gold_block` | 229 |
-| Grüne Keramik | `green_terracotta` | 221 |
-| Blaue Keramik | `blue_terracotta` | 208 |
+| Goldblock | `gold_block` | 230 |
+| Grüne Keramik | `green_terracotta` | 222 |
+| Blaue Keramik | `blue_terracotta` | 210 |
 | Rote Keramik | `red_terracotta` | 191 |
 | Hellblaue Keramik | `light_blue_terracotta` | 168 |
-| Gelbe Keramik | `yellow_terracotta` | 68 |
+| Gelbe Keramik | `yellow_terracotta` | 67 |
 
 **Beschreibung**
 
@@ -2969,8 +2969,8 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 420 |
-| Weiße Keramik | `white_terracotta` | 418 |
-| Grüne Keramik | `green_terracotta` | 248 |
+| Weiße Keramik | `white_terracotta` | 417 |
+| Grüne Keramik | `green_terracotta` | 249 |
 | Blaue Keramik | `blue_terracotta` | 233 |
 | Goldblock | `gold_block` | 224 |
 | Rote Keramik | `red_terracotta` | 190 |
@@ -3005,11 +3005,11 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 441 |
 | Weiße Keramik | `white_terracotta` | 396 |
-| Grüne Keramik | `green_terracotta` | 239 |
+| Grüne Keramik | `green_terracotta` | 238 |
 | Blaue Keramik | `blue_terracotta` | 218 |
 | Goldblock | `gold_block` | 208 |
 | Rote Keramik | `red_terracotta` | 178 |
-| Hellblaue Keramik | `light_blue_terracotta` | 163 |
+| Hellblaue Keramik | `light_blue_terracotta` | 164 |
 | Gelbe Keramik | `yellow_terracotta` | 66 |
 
 **Beschreibung**
@@ -3073,11 +3073,11 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weiße Keramik | `white_terracotta` | 482 |
+| Weiße Keramik | `white_terracotta` | 481 |
 | Goldblock | `gold_block` | 280 |
 | Grüne Keramik | `green_terracotta` | 256 |
 | Rote Keramik | `red_terracotta` | 234 |
-| Blaue Keramik | `blue_terracotta` | 226 |
+| Blaue Keramik | `blue_terracotta` | 227 |
 | Hellblaue Keramik | `light_blue_terracotta` | 173 |
 | Glatter Stein | `smooth_stone` | 170 |
 | Gelbe Keramik | `yellow_terracotta` | 76 |
@@ -3108,21 +3108,17 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 855 |
+| Glatter Stein | `smooth_stone` | 900 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 90 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 90 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 90 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 90 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 70 |
-| Glatter Quarzblock | `smooth_quartz` | 18 |
-| Polierter Granit | `polished_granite` | 17 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 15 |
-| Polierter Tuffstein | `polished_tuff` | 15 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 340 |
+| Steintreppe | `stone_stairs` | 360 |
 
 **Beschreibung**
 
@@ -3151,18 +3147,14 @@ Die Wendeltreppen sind eine Vereinfachung des Modells für die Verwaltungstreppe
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 1.550 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 91 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 75 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 |
-| Polierter Tuffstein | `polished_tuff` | 5 |
-| Glatter Quarzblock | `smooth_quartz` | 3 |
-| Polierter Granit | `polished_granite` | 2 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 101 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 80 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 166 |
+| Steintreppe | `stone_stairs` | 181 |
 
 **Beschreibung**
 
@@ -3183,25 +3175,21 @@ Die Lage im Ostflügel folgt dem Auftrag; die genaue Gestalt ist im Modell eine 
 ### Schritt 7.105 – Treppe zum Cavalcavia und Austritt zum Arno
 
 - **Y-Bereich:** 66 bis 101
-- **Blöcke:** 1.734
+- **Blöcke:** 1.733
 - **Bauteile:** `korridor_treppe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.596 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 120 |
-| Polierter Tuffstein | `polished_tuff` | 9 |
-| Polierter Granit | `polished_granite` | 4 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
-| Glatter Quarzblock | `smooth_quartz` | 2 |
+| Glatter Stein | `smooth_stone` | 1.595 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 138 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 120 |
+| Steintreppe | `stone_stairs` | 138 |
 
 **Beschreibung**
 

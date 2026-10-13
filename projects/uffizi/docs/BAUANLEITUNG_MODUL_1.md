@@ -15,7 +15,7 @@
 | Z-Ausdehnung | 903 bis 1194 (292 Blöcke) |
 | Kleinster Schritt | 1.046 Blöcke (Schritt 1.15) |
 | Mittlerer Schritt | 1.362 Blöcke |
-| Größter Schritt | 1.838 Blöcke (Schritt 1.28) |
+| Größter Schritt | 1.839 Blöcke (Schritt 1.28) |
 
 ## Gesamt-Stückliste
 
@@ -25,15 +25,15 @@
 | Glatter Stein | `smooth_stone` | 17.006 | 35,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.297 | 2,7 % |
 | Polierter Tuffstein | `polished_tuff` | 1.269 | 2,7 % |
-| Weiße Keramik | `white_terracotta` | 1.221 | 2,6 % |
-| Grüne Keramik | `green_terracotta` | 801 | 1,7 % |
-| Goldblock | `gold_block` | 781 | 1,6 % |
-| Blaue Keramik | `blue_terracotta` | 676 | 1,4 % |
+| Weiße Keramik | `white_terracotta` | 1.220 | 2,6 % |
+| Grüne Keramik | `green_terracotta` | 798 | 1,7 % |
+| Goldblock | `gold_block` | 780 | 1,6 % |
+| Blaue Keramik | `blue_terracotta` | 678 | 1,4 % |
 | Rote Keramik | `red_terracotta` | 523 | 1,1 % |
-| Hellblaue Keramik | `light_blue_terracotta` | 504 | 1,1 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 506 | 1,1 % |
 | Graues Buntglas | `gray_stained_glass` | 477 | 1,0 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 360 | 0,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 226 | 0,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 227 | 0,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -794,24 +794,24 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.27 – Decke der Säulenhalle – Teil 1/2 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.815
+- **Blöcke:** 1.814
 - **Bauteile:** `portikus_decke`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weiße Keramik | `white_terracotta` | 460 |
+| Weiße Keramik | `white_terracotta` | 459 |
 | Goldblock | `gold_block` | 304 |
-| Grüne Keramik | `green_terracotta` | 299 |
-| Blaue Keramik | `blue_terracotta` | 282 |
+| Grüne Keramik | `green_terracotta` | 296 |
+| Blaue Keramik | `blue_terracotta` | 283 |
 | Rote Keramik | `red_terracotta` | 250 |
-| Hellblaue Keramik | `light_blue_terracotta` | 146 |
+| Hellblaue Keramik | `light_blue_terracotta` | 148 |
 | Gelbe Keramik | `yellow_terracotta` | 74 |
 
 **Beschreibung**
 
-Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf.
+Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf. Das Material der Platte wechselt in einem Muster aus Fresko-Farbfeldern mit Goldbändern (Grotesken, vereinfacht).
 
 **Tipp**
 
@@ -828,7 +828,7 @@ Die Säulenhalle ist 5 Meter tief, so tief wie ein Wohnzimmer.
 ### Schritt 1.28 – Decke der Säulenhalle – Teil 2/2 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.838
+- **Blöcke:** 1.839
 - **Bauteile:** `portikus_decke`
 
 **Teileliste**
@@ -836,16 +836,16 @@ Die Säulenhalle ist 5 Meter tief, so tief wie ein Wohnzimmer.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weiße Keramik | `white_terracotta` | 528 |
-| Goldblock | `gold_block` | 317 |
-| Blaue Keramik | `blue_terracotta` | 266 |
+| Goldblock | `gold_block` | 316 |
+| Blaue Keramik | `blue_terracotta` | 267 |
 | Grüne Keramik | `green_terracotta` | 260 |
 | Rote Keramik | `red_terracotta` | 255 |
 | Hellblaue Keramik | `light_blue_terracotta` | 153 |
-| Gelbe Keramik | `yellow_terracotta` | 59 |
+| Gelbe Keramik | `yellow_terracotta` | 60 |
 
 **Beschreibung**
 
-Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf.
+Du deckst den Hohlraum zwischen Gebälk und Rückwand mit einer Platte aus Pietra serena auf Lage 14. Sie ist 7 Blöcke tief und liegt auf dem Gebälk und auf der Rückwand auf. Das Material der Platte wechselt in einem Muster aus Fresko-Farbfeldern mit Goldbändern (Grotesken, vereinfacht).
 
 **Tipp**
 
