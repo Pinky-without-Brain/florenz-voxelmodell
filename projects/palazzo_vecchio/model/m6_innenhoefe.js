@@ -69,7 +69,7 @@ module.exports = {
     // 3) Dogana-Pfeiler (Loch 0): Pfeiler 4 x 4 im Abstand 12, Bögen mit Scheitel y_rel 14 (r = 4), Rückwand d_H 7..8
     const dP = ctx.part('dogana_pfeiler');
     const r0 = bandRecs(0, 8);
-    S.band(dP, r0, 1, 16, arkade(0, { spacing: 12, colHalf: 2, wand: 4, gang: 6, pfeiler: true }), 'dogana_pfeiler');
+    S.band(dP, r0, 1, 16, arkade(0, { spacing: 12, colHalf: 2, wand: 4, gang: 6, pfeiler: true, tuer: true }), 'dogana_pfeiler');
 
     // 4) Dogana-Obergeschosse: Putz, Fenster 4 x 8 pro Joch, Rahmen Pietra serena
     const dO = ctx.part('dogana_obergeschosse');

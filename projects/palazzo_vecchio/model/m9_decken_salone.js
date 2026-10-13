@@ -20,6 +20,18 @@ module.exports = {
     decke('decke_og1', 33, 4, true);
     decke('decke_og2', 49, 4, true);
     decke('decke_dach', 56, 3, true);
+    // Dachräume zwischen der Dachplatte (y_rel 56) und der Dachhaut der Walmdächer (Module 7): leer, ohne Ausstellung, im Original nur über
+    // Luken erreichbar; sie bleiben im Modell bewusst geschlossen (R13: unzugaenglich)
+    {
+      const cav = [];
+      for (const r of g.recs) {
+        if (r.zone === 'T') continue;
+        let top = -1;
+        for (let y = 75; y >= 57; y--) if (S.has(r.x, y, r.z)) { top = y; break; }
+        for (let y = 57; y < top; y++) if (!S.has(r.x, y, r.z)) cav.push({ x: r.x, y: y + S.bodenY, z: r.z });
+      }
+      ctx.unzugaenglich(cav, 'Dachraum zwischen der Dachplatte und der Dachhaut der Walmdächer: leerer Raum ohne Ausstellung, im Original nur über Luken erreichbar; bleibt im Modell bewusst geschlossen');
+    }
 
     // Salone: Außenrechteck 112 x 52, Lichtmaß 104 x 44, Wände 4 dick y_rel 17..56, Rahmenpfeiler Pietra serena im Abstand 8
     const sw = ctx.part('salone_waende');
@@ -46,21 +58,14 @@ module.exports = {
     }, 'salone_decke');
     S.band(sd, licht, 54, 56, (r, y) => (r.d8 <= 3 ? null : TY.pietra_serena), 'salone_decke');
 
-    // Tragende Innenwände der Zone A (optional): 2 Wände entlang u (w = 27, 47; Abstand 20) und 2 entlang w (u = 55, 79;
-    // Abstand 24), 2 dick, y_rel 1..49, Türen 3 x 8 an den Kreuzungen. Der Turm bleibt hohl.
-    const iw = ctx.part('innenwaende_a');
-    const WL = [27, 47], UL = [55, 79];
-    const nahe = (v, list) => list.find((c) => v >= c - 1 && v < c + 1);
-    S.band(iw, g.recs.filter((r) => r.zone === 'A'), 1, 49, (r, y) => {
-      if (r.d8 <= pv.tWall(y) || r.dHm <= 8) return null;                // Außenwand samt Öffnungen und Hofgänge bleiben frei
-      const aw = nahe(r.w, WL), au = nahe(r.u, UL);
-      if (aw === undefined && au === undefined) return null;
-      if (y <= 8) {
-        if (aw !== undefined && UL.some((c) => Math.abs(r.u - c) < 1.5)) return null;
-        if (au !== undefined && WL.some((c) => Math.abs(r.w - c) < 1.5)) return null;
-      }
-      return TY.pietra_forte;
-    }, 'innenwaende_a');
+    // Trennwände mit Türen (Plan: pv_plan.js) und Treppen aus Treppenblöcken (pv_innen.js)
+    const innen = require('./pv_innen.js');
+    innen.waende(ctx, S);
+    for (const id of ['scalone_vasari', 'treppe_og1_og2', 'treppe_og2_dg', 'treppe_ost_eg_og1', 'treppe_ost_og1_og2', 'treppe_ost_og2_dg',
+      'treppe_wehrgang_nord', 'treppe_wehrgang_sued']) innen.treppe(ctx, S, id);
+    // Dachluken der Wehrgangtreppen (Luft ab der Dachplatte) sind eine deklarierte Tür-Öffnung ins Freie
+    ctx.oeffnung(require('./pv_plan.js').plan(g).luken.map((c) => ({ x: c.x, y: c.y + S.bodenY, z: c.z })), 'tuer');
+
     // Letzte Stufe: Diagonalrisse der einzelligen Schichten schließen (BEGEHBARKEIT.md 1.4)
     const vb = ctx.part('verbindungsbloecke');
     const nv = require('./pv_risse.js').schliesse(S, vb, 'verbindungsbloecke');

@@ -211,7 +211,7 @@ function state(ctx) {
     g, claimed, skips, cfg: { PV_AXES: 9, PORTAL_U: 55 },
     bodenY: g.bodenY,
     ctx,
-    carve: new Set(),            // freizuhaltende Zellen (Türen, Treppenlöcher, Treppen): put() setzt dort nichts (B2)
+    carve: new Set(require('./pv_plan.js').plan(g).carve),   // freizuhaltende Zellen (Türen, Treppenlöcher, Treppen): put() setzt dort nichts (B2)
     types: new Map(),            // Zellschlüssel -> Blocktyp aller gesetzten Zellen (Rissschließung, Licht)
     pend: new Map(),             // Art -> noch nicht deklarierte Öffnungszellen [{x, y, z}]
     /** Setzt einen Block bei y_rel; false, wenn die Zelle schon belegt ist (K0) oder freigehalten wird. Prüft den Luftraum. */
