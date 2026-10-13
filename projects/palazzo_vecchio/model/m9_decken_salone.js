@@ -3,6 +3,7 @@
 // K2: Der Turm (turm_unterbau) steht in Modul 4; alle Decken sparen das Turmpolygon aus (Hohlraum y_rel 1..143 leer).
 // K3: treppen_michelozzo entfällt. K4: Salone nur außerhalb der Außenwandbänder (d8 > t(y)).
 const pv = require('./pv_lib.js');
+const raeume = require('./pv_raeume.js');
 
 module.exports = {
   module: 9,
@@ -12,14 +13,14 @@ module.exports = {
     const kein = (r) => r.zone !== 'T';
 
     // Geschossdecken: Zellen mit d8 > t, ohne Turm; die Salone-Außenrechtecke und die Lochbänder (Modul 6) sind schon belegt
-    const decke = (id, y, minD, ohneSalone, ge) => {
+    const decke = (id, y, minD, ohneSalone, ge, ohneSaloneBoden) => {
       const w = ctx.part(id);
       const zellen = g.recs.filter((r) => kein(r) && r.d8 > minD && !(ohneSalone && r.sal));
       // Lampen im Fußboden des darüber liegenden Geschosses: nur auf Zellen, die diese Platte wirklich bekommt
       if (ge) S.plan.lichtFuer(ge, zellen.filter((r) => !S.has(r.x, y, r.z) && !S.carve.has(pv.keyOf(r.x, y + S.bodenY, r.z))));
-      S.band(w, zellen, y, y, (r) => (S.lampe(r.x, y, r.z) ? TY.licht : TY.pietra_serena), id);
+      S.band(w, ohneSaloneBoden ? zellen.filter((r) => !r.salL) : zellen, y, y, (r) => (S.lampe(r.x, y, r.z) ? TY.licht : TY.pietra_serena), id);   // der Salone bekommt seinen Marmorboden als eigenes Bauteil
     };
-    decke('decke_eg', 16, 5, false, 'og1');
+    decke('decke_eg', 16, 5, false, 'og1', true);
     decke('decke_og1', 33, 4, true, 'og2');
     decke('decke_og2', 49, 4, true, 'dg');
     decke('decke_dach', 56, 3, true);
@@ -42,24 +43,23 @@ module.exports = {
     const ring = g.recs.filter((r) => r.sal && !r.salL);
     S.band(sw, ring, 17, 56, (r, y) => {
       if (r.d8 <= pv.tWall(y)) return null;                              // K4: die Außenwand gewinnt
-      if (y <= 52) {
-        const aufU = (r.u >= L.u0 - 1 && r.u < L.u0) || (r.u >= L.u1 && r.u < L.u1 + 1);
-        const aufW = (r.w >= L.w0 - 1 && r.w < L.w0) || (r.w >= L.w1 && r.w < L.w1 + 1);
-        if (aufU && r.w >= L.w0 && r.w < L.w1 && (r.w - L.w0) % 8 < 2) return TY.pietra_serena;
-        if (aufW && r.u >= L.u0 && r.u < L.u1 && (r.u - L.u0) % 8 < 2) return TY.pietra_serena;
-      }
-      return TY.putz_sand;
+      return raeume.saloneWand(r, y);                                    // Pilaster, Schlachtbilder, Damast (pv_raeume.js)
     }, 'salone_waende');
 
-    // Salone-Decke: y_rel 53 als Kassettenraster 8 x 8 (Holz / Pietra serena), y_rel 54..56 massiv
+    // Salone-Decke: y_rel 53 als Kassettendecke 8 x 8 (Holzbalken, Fresko-Felder, goldene Rosetten, Mittelbild), y_rel 54..56 massiv
     const sd = ctx.part('salone_decke');
     const licht = g.recs.filter((r) => r.salL);
     S.band(sd, licht, 53, 53, (r, y) => {
       if (r.d8 <= 3) return null;
-      const k = Math.floor((r.u - L.u0) / 8) + Math.floor((r.w - L.w0) / 8);
-      return k % 2 === 0 ? TY.holz : TY.pietra_serena;
+      return raeume.kassette(r);
     }, 'salone_decke');
     S.band(sd, licht, 54, 56, (r, y) => (r.d8 <= 3 ? null : TY.pietra_serena), 'salone_decke');
+
+    // Ausgestaltung des Salone (pv_raeume.js): Marmorboden, Kassettenbalken
+    raeume.saloneBoden(ctx, S);
+    raeume.saloneKassettenbalken(ctx, S);
+    raeume.udienza(ctx, S);
+    raeume.saloneStatuen(ctx, S);
 
     // Trennwände mit Türen (Plan: pv_plan.js) und Treppen aus Treppenblöcken (pv_innen.js)
     const innen = require('./pv_innen.js');

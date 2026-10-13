@@ -285,6 +285,7 @@ function plan(g) {
   // ---- Türvorplätze: 2 Zellen vor jeder Tür bleiben frei (Wandverkleidungen, Möbel); Wände und Außenwände bleiben stehen
   const wk = {};
   for (const w of P.waende) { const s = wk[w.ge.id] || (wk[w.ge.id] = new Set()); for (const c of w.cells) s.add(key(c.r.x, c.r.z)); }
+  P.wandKeys = wk;
   const vorplatz = (r, ge, hoch, istWand) => {
     for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) {
       const q = g.rec(r.x + dx, r.z + dz);

@@ -20,10 +20,10 @@
     },
     "glockenstube": {
       "title": "Glockenstube",
-      "description": "Von Y 221 bis Y 228 mauerst du die Wand der Glockenstube. Sie bekommt auf jeder Seite eine Spitzbogenöffnung, drei breit und sechs hoch. Innen baust du einen Boden und hängst drei Bronzeglocken auf, je zwei mal zwei Zellen und drei hoch.",
-      "tip": "Die Glocken sind eine Option. Der Boden darunter trägt sie.",
-      "caution": "Der Boden der Glockenstube gehört nicht zur Vorlage. Wir haben ihn ergänzt, damit die Glocken Halt haben.",
-      "fact": "Mit den Glocken des Turmes rief die Signoria die Bürger zusammen. Die drei Glocken im Modell sind eine Option."
+      "description": "Von Y 221 bis Y 228 mauerst du die Wand der Glockenstube. Sie bekommt auf jeder Seite eine Spitzbogenöffnung, drei breit und sechs hoch; durch sie trittst du auf den Wehrgang des Turms. Innen liegt der Boden, in dem die Wendeltreppe aus Modul 9 mündet.",
+      "tip": "Die Öffnungen sind Loggien: Sie bleiben offen, ohne Glas.",
+      "caution": "Lass im Boden und in der Decke Platz für die Wendeltreppe; sie wird erst in Modul 9 gebaut.",
+      "fact": "Mit den Glocken des Turmes rief die Signoria die Bürger zusammen. Die Glockenstube liegt im Modell auf Y 221 bis Y 228; Quelle: Wikipedia (de, en) zum Torre di Arnolfo, vereinfacht."
     },
     "edikula": {
       "title": "Edikula mit Rundbögen",
@@ -31,6 +31,13 @@
       "tip": "Der Scheitel der Bögen liegt auf Y 243, der Kämpfer auf Y 239.",
       "caution": "Die Oberkante der Wand auf Y 244 muss lückenlos sein. Darauf liegt das Dach.",
       "fact": "Die Edikula mit vier gemauerten Säulen und Rundbögen krönt den Turm."
+    },
+    "glocken": {
+      "title": "Die drei Glocken",
+      "description": "Unter der Decke der Glockenstube hängen drei Bronzeglocken in drei Größen: eine hohe mit vier Lagen, eine mittlere mit drei und eine kleine mit zwei. Jede hängt an einem einzelnen Block und hat unten einen Rand aus Gold. Sie hängen im Vorraum der Wendeltreppe, so dass du darunter hindurchgehen kannst.",
+      "tip": "Baue von oben nach unten: erst die Aufhängung am Edikula-Boden, dann den Körper, zuletzt den Goldrand.",
+      "caution": "Lass unter den Glocken zwei Blöcke Luft, damit der Vorraum begehbar bleibt.",
+      "fact": "Der Turm der Signoria hat mehrere Glocken, mit denen früher die Bürger zusammengerufen wurden. Die Anordnung im Modell ist eine Vereinfachung (Stufe C); Quelle: Wikipedia (de, en)."
     },
     "turmdach": {
       "title": "Pyramidendach und Stange",

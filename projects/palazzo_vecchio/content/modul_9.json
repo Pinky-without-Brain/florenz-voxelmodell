@@ -33,18 +33,18 @@
       "fact": "Unter dieser Decke liegen die Dachböden des Palastes."
     },
     "salone_waende": {
-      "title": "Wände des Salone dei Cinquecento",
-      "description": "Der Salone misst 112 mal 52 Zellen im Außenmaß, innen 104 mal 44, das sind 52 mal 22 Meter. Die Wände sind vier Zellen dick und reichen von Y 85 bis Y 124. Innen setzt du alle acht Zellen Pfeiler aus Pietra serena. Wo die Außenwand des Palastes liegt, gewinnt sie.",
-      "tip": "Die Lage des Saales im Grundriss ist geschätzt. Das Maß ist belegt.",
-      "caution": "Die lichte Höhe beträgt 36 Zellen, das sind 18 Meter. Bau die Wände Lage für Lage mit.",
-      "fact": "Cronaca baute den Saal 1494 für den Großen Rat Savonarolas. Vasari schmückte ihn später mit den großen Gemälden."
+      "title": "Salone: Wände mit Schlachtbildern",
+      "description": "Die vier Meter dicken Wände des Salone dei Cinquecento bekommen innen Pilaster aus Pietra serena im Abstand von acht Blöcken. Dazwischen malst du große Farbfelder: auf jeder Langwand vier Schlachtbilder von Vasari, je 24 Blöcke breit und 21 hoch, mit blauem Himmel, grünen Hügeln und Kampfgetümmel in Rot, Blau, Weiß und Gelb. Die Südwand trägt ein breites Schlachtbild, die Nordwand hinter der Udienza roten Damast mit Goldstreifen. Ein goldenes Band läuft auf Y 113 um den Saal. Vier Türen verbinden den Saal mit den Flügeln.",
+      "tip": "Die Bilder laufen hinter den Pilastern durch; setze zuerst die Pilaster, dann die Farbfelder dazwischen.",
+      "caution": "Lass die Türen frei: zwei in der Westwand, zwei in der Ostwand, je 6 breit und 10 hoch.",
+      "fact": "Giorgio Vasari und seine Werkstatt malten ab 1563 die Schlachten von Florenz gegen Pisa und Siena an die Wände. Die Bilder im Modell sind stark vereinfachte Farbfelder (Stufe C). Quelle: Wikipedia (de, en, it) zum Salone dei Cinquecento; vereinfacht."
     },
     "salone_decke": {
-      "title": "Kassettendecke des Salone",
-      "description": "Auf Y 121 spannst du die Decke über den Saal, abwechselnd aus dunklem Holz und hellem Pietra serena in einem Raster von acht mal acht. Darüber folgen drei massive Lagen bis Y 124.",
-      "tip": "Das Schachbrett folgt der Fassadenrichtung.",
-      "caution": "Die Decke ist stark vereinfacht. Echte Kassetten sind viel feiner.",
-      "fact": "Vasari ließ die Decke mit 39 Feldern von Gemälden gestalten, die die Herrschaft der Medici feiern."
+      "title": "Salone: Kassettendecke",
+      "description": "Die Decke des Saals ist eine Kassettendecke aus Holzbalken im Raster von acht Blöcken. Die Felder sind in sechs Fresko-Farben bemalt, in jedem Feld sitzt eine goldene Rosette. In der Mitte hängt ein großes Bildfeld, 32 mal 20 Blöcke: die Apotheose Cosimos I. in Ringen von Weiß über Gelb und Hellblau nach Blau, mit goldenem Rahmen. Darüber liegen drei massive Lagen aus Pietra serena.",
+      "tip": "Baue die Decke von der Mitte aus; die Balken des Rasters liegen auf den Rändern der Felder.",
+      "caution": "Die Decke darf die Wandpilaster nicht überdecken.",
+      "fact": "Die Kassettendecke des Salone mit 39 Bildfeldern entstand ab 1563 unter Vasari; die Decke wurde dafür um sieben Meter erhöht. Quelle: Wikipedia (de, en, it); im Modell vereinfacht (Stufe C)."
     },
     "innenwaende_a": {
       "title": "Trennwände mit Türen",
@@ -129,6 +129,20 @@
       "tip": "Setze die Stufen reihenweise von außen nach innen; der Aufstieg zeigt zum Haus.",
       "caution": "Die Stufen dürfen nicht weiter als drei Blöcke vor die Mauer reichen.",
       "fact": "Der Palast steht auf einem Sockel, das Straßenniveau liegt an den Seiten tiefer als an der Piazza. Die Höhen stammen aus dem Geländemodell der Stadt; die Stufen sind eine Vereinfachung (Stufe C)."
+    },
+    "salone_boden": {
+      "title": "Salone: Marmorboden",
+      "description": "Auf Y 84 legst du den Boden des Saals aus einem Schachbrett: Quadrate von vier mal vier Blöcken aus weißem Marmor und grauer Pietra serena. Ein roter Marmorrand läuft um den Saal, ein roter Streifen längs der Mitte. In den Boden sind Seelaternen eingelassen.",
+      "tip": "Beginne an einer Ecke und lege die Quadrate im Wechsel.",
+      "caution": "Lass die eingelassenen Laternen nicht aus, sonst ist der Saal dunkel.",
+      "fact": "Der Boden des Salone besteht im Original aus Terrakotta und Marmor. Das Schachbrett im Modell ist eine Vereinfachung (Stufe C). Quelle: Wikipedia (de, en); vereinfacht."
+    },
+    "salone_kassettenbalken": {
+      "title": "Salone: hängende Kassettenbalken",
+      "description": "Unter der Decke hängen die Balken der Kassetten eine Lage tief herab, an den Kreuzungen sitzen goldene Knoten. So wirkt die Decke plastisch.",
+      "tip": "Hänge die Balken erst an, wenn die Decke fertig ist; sie liegen genau unter den Holzrändern.",
+      "caution": "Die Balken enden vor den Wandpilastern.",
+      "fact": "Plastische Kassetten mit vergoldeten Rahmen kennzeichnen die Decke des Salone. Quelle: Wikipedia (de, en, it); vereinfacht."
     }
   }
 }
