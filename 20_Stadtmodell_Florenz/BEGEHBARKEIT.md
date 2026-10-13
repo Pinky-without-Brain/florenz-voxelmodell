@@ -6,10 +6,13 @@ Der Nutzer spielt das Modell in Minecraft (Bedrock, Spielfigur 1,8 Blöcke hoch,
 1. **Zugang:** Jedes Gebäude hat mindestens eine Tür von der Straße oder vom Platz aus. Eine Tür ist mindestens 2 breit × 3 hoch (lichte Öffnung, Boden = Gehfläche). Auf Plätze und Straßen öffnen nur echte Türen, Tore oder Portale.
 2. **Räume:** Jedes Geschoss hat einen geschlossenen Boden. Lichte Raumhöhe ≥ 3 Blöcke. Jeder Raum ist über Türöffnungen (≥ 2 × 3) erreichbar. Es gibt keine eingeschlossenen Lufträume ohne Zugang. Massive Bereiche sind erlaubt, z. B. Mauerkerne, nicht aber leere Kammern ohne Zugang.
 3. **Treppen:** Jedes Geschoss ist über Treppen erreichbar, ebenso Dachterrassen, Loggien, Wehrgänge, Türme und Kuppelumgänge.
-   - Stufen aus vollen Blöcken: 1 hoch, ≥ 1 tief, ≥ 2 breit.
-   - Über jeder Trittfläche mindestens 3 Blöcke Luft.
-   - Gerade Läufe oder Podesttreppen. In engen Türmen Wendeltreppen als umlaufende Stufenspirale um einen Kern.
+   - Gebaut wird mit **echten Treppenblöcken** (Wunsch des Nutzers), nicht mit vollen Blöcken als Stufen.
+   - Je Lauf steigt jede Stufe um 1 Block pro 1 Block Lauflänge. Breite ≥ 2.
+   - Treppenblöcke haben eine **Ausrichtung** (Aufstieg nach Nord, Ost, Süd oder West). Sie werden im Material ihrer Umgebung gebaut, zum Beispiel Steinziegel-, Tuffziegel-, Quarz-, Andesit- oder Schwarzeichenholztreppe.
+   - Über jeder Stufe mindestens 3 Blöcke Luft.
+   - Formen: gerade Läufe oder Podesttreppen. In engen Türmen eine Wendeltreppe als umlaufende Stufenspirale um einen Kern, mit Podesten (volle Blöcke) an den Ecken.
    - Die Decke darüber hat ein Treppenloch.
+   - **Stufen außen** (Portale, Kirchenstufen, Sockel) werden ebenfalls als Treppenblöcke gebaut.
 4. **Dichtheit:** Die Außenhülle hat keine Lücken außer gewollten Öffnungen (Tür, Tor, Fenster, Loggia, Arkade, Schießscharte).
    - **Fenster sind mit Glas gefüllt**, außer bei ausdrücklich offenen Loggien und Arkaden.
    - **Dünne Schichten in gedrehten Rahmen** (eine Zelle stark, z. B. Glas oder Brüstung) müssen **flächenverbunden** sein, ohne Diagonallücken. Entweder Dicke ≥ 2 Zellen in Weltkoordinaten oder Lücken mit `vaults.connectEdges` bzw. einem Abstandsband schließen.
