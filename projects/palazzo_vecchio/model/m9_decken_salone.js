@@ -64,6 +64,7 @@ module.exports = {
     for (const id of ['scalone_vasari', 'treppe_og1_og2', 'treppe_og2_dg', 'treppe_ost_eg_og1', 'treppe_ost_og1_og2', 'treppe_ost_og2_dg',
       'treppe_wehrgang_nord', 'treppe_wehrgang_sued']) innen.treppe(ctx, S, id);
     innen.turmtreppe(ctx, S);
+    innen.aussentreppen(ctx, S);
     // Dachluken der Wehrgangtreppen (Luft ab der Dachplatte) sind eine deklarierte Tür-Öffnung ins Freie
     ctx.oeffnung(require('./pv_plan.js').plan(g).luken.map((c) => ({ x: c.x, y: c.y + S.bodenY, z: c.z })), 'tuer');
 

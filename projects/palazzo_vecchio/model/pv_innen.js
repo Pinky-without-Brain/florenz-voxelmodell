@@ -42,4 +42,19 @@ function turmtreppe(ctx, S) {
   ctx.oeffnung(P.tuer.map((c) => ({ x: c.x, y: c.y + S.bodenY, z: c.z })), 'tuer');
 }
 
-module.exports = { waende, treppe, turmtreppe };
+/** Außentreppen vor den Portalen (Bauteil aussentreppen): Treppenblöcke bis zur Schwelle, Unterbau bis zum Gelände. */
+function aussentreppen(ctx, S) {
+  const w = ctx.part('aussentreppen');
+  let n = 0;
+  for (const a of plan(S.g).aussen) {
+    for (const u of a.unter) S.putForce(w, u.x, u.y, u.z, u.typ, 'aussentreppen');
+    for (const s of a.stufen) if (S.putForce(w, s.x, s.y, s.z, s.typ, 'aussentreppen')) n++;
+  }
+  // Luft über den Stufen im Portal (unter Schwellenhöhe) gehört zur deklarierten Tür-Öffnung
+  const luft = [];
+  for (const a of plan(S.g).aussen) for (const c of a.luft) luft.push({ x: c.x, y: c.y + S.bodenY, z: c.z });
+  if (luft.length) ctx.oeffnung(luft, 'tuer');
+  return n;
+}
+
+module.exports = { waende, treppe, turmtreppe, aussentreppen };

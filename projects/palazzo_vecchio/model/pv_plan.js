@@ -106,6 +106,72 @@ function turmTreppe(g, ck) {
   return out;
 }
 
+// ---------------------------------------------------------------- Außentreppen vor den Portalen
+// Der Innenboden liegt bei Y 69 (Stehzelle). Liegt das Gelände vor einem Portal tiefer, führen Treppenblöcke (1 breit je Zellenreihe,
+// damit sie dem gedrehten Rand folgen) bis zur Schwelle. Höchstens 3 Zellen liegen außerhalb der Maske (Luftraum), der Rest im Portal.
+const PORTALE = [
+  { id: 'portal_west', gruppe: 'W', u0: 55, half: 4.5 },
+  { id: 'portal_tramontana', e: 1, u0: 24, half: 3.5 },
+  { id: 'tuer_sued', e: 16, u0: 40, half: 2 },
+  { id: 'portal_leoni', e: 9, u0: 'mitte', half: 4.5 },
+  { id: 'tuer_dogana', e: 6, x0: -37, x1: -33, half: 0 }
+];
+
+function aussenTreppen(g, ck) {
+  const BY = g.bodenY, gt = WZ.boden.groundTopY, out = [];
+  const fuell = T.volltyp('pietra_forte_rustika');
+  for (const p of PORTALE) {
+    const rows = [];
+    for (const r of g.recs) {
+      if (r.d8 !== 1 || r.zone === 'T') continue;
+      if (p.gruppe === 'W') { if (r.e < 17 || Math.abs(r.u - p.u0) > p.half) continue; }
+      else if (p.x0 !== undefined) { if (r.e !== p.e || r.x < p.x0 || r.x > p.x1) continue; }
+      else { const u0 = p.u0 === 'mitte' ? g.K[p.e].L / 2 : p.u0; if (r.e !== p.e || Math.abs(r.uK - u0) > p.half) continue; }
+      rows.push(r);
+    }
+    if (!rows.length) throw new Error('Portal ' + p.id + ': keine Randzellen');
+    const rf = p.gruppe === 'W' ? g.rf : g.K[rows[0].e].rahmen;
+    const a = rf.toWorld(0, 0), b = rf.toWorld(0, -1);          // -w zeigt nach außen
+    const ox = b.x - a.x, oz = b.z - a.z;
+    const achseX = Math.abs(ox) >= Math.abs(oz);
+    const out1 = achseX ? Math.sign(ox) : Math.sign(oz);         // Richtung nach außen
+    const dir = achseX ? (out1 < 0 ? 'o' : 'w') : (out1 < 0 ? 's' : 'n');   // Aufstieg zum Haus
+    // je Reihe (Querkoordinate) die äußerste Randzelle (d8 = 1)
+    const byRow = new Map();
+    for (const r of rows) {
+      const q = achseX ? r.z : r.x, along = achseX ? r.x : r.z;
+      const cur = byRow.get(q);
+      if (!cur || out1 * along > out1 * cur.along) byRow.set(q, { along, r });
+    }
+    let hmin = Infinity;
+    for (const [q, v] of byRow) {
+      for (let t = 1; t <= 3; t++) {
+        const al = v.along + out1 * t;
+        hmin = Math.min(hmin, achseX ? gt(al, q) : gt(q, al));
+      }
+    }
+    const hOut = hmin + 1, n = BY + 1 - hOut;                    // Stufenzahl bis zur Schwelle (Stehzelle Y 69)
+    const rec = { id: p.id, dir, n, stufen: [], unter: [], luft: [], carve: new Set(), reihen: byRow.size };
+    if (n >= 1) {
+      const nAussen = Math.min(n, 3);
+      for (const [q, v] of byRow) {
+        const s0 = v.along + out1 * nAussen;
+        for (let k = 0; k < n; k++) {
+          const a1 = s0 + (-out1) * k;
+          const x = achseX ? a1 : q, z = achseX ? q : a1;
+          const y = hOut + k - BY;                  // y_rel der Stufenzelle
+          rec.stufen.push({ x, y, z, typ: palette.treppe('pietra_serena', dir) });
+          if (!g.M.has(x, z)) for (let yy = gt(x, z) + 1 - BY; yy < y; yy++) rec.unter.push({ x, y: yy, z, typ: fuell });
+          rec.carve.add(ck(x, y, z));
+          if (g.M.has(x, z)) for (let h = 1; h <= 3; h++) { rec.carve.add(ck(x, y + h, z)); rec.luft.push({ x, y: y + h, z }); }
+        }
+      }
+    }
+    out.push(rec);
+  }
+  return out;
+}
+
 /** Plan für die Geometrie g; wird in g.plan zwischengespeichert. */
 function plan(g) {
   if (g.plan) return g.plan;
@@ -229,6 +295,8 @@ function plan(g) {
   P.luken = [];
   for (const L of P.treppen) if (L.id.startsWith('treppe_wehrgang')) for (const c of L.kopf) P.luken.push(c);
 
+  P.aussen = aussenTreppen(g, ck);
+  for (const a of P.aussen) for (const c of a.carve) P.carve.add(c);
   P.turm = turmTreppe(g, ck);
   for (const c of P.turm.carve) P.carve.add(c);
 
