@@ -5,6 +5,6 @@ const { emit } = require('./_emit.js');
 module.exports = {
   module: 4,
   build(ctx) {
-    emit(ctx, ['suedbau_waende', 'serliana', 'durchgang_arno', 'verone_arno']);
+    emit(ctx, ['suedbau_waende', 'serliana', 'serliana_aufsatz', 'durchgang_arno', 'verone_arno']);
   }
 };

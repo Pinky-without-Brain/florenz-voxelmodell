@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 160.538 |
+| Blöcke | 160.711 |
 | Bauschritte | 86 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -338 bis -87 (252 Blöcke) |
 | Z-Ausdehnung | 901 bis 1209 (309 Blöcke) |
 | Kleinster Schritt | 937 Blöcke (Schritt 7.57) |
-| Mittlerer Schritt | 1.867 Blöcke |
+| Mittlerer Schritt | 1.869 Blöcke |
 | Größter Schritt | 2.077 Blöcke (Schritt 7.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein | `smooth_stone` | 115.799 | 72,1 % |
-| Endsteinziegel | `end_stone_bricks` | 44.739 | 27,9 % |
+| Glatter Stein | `smooth_stone` | 115.971 | 72,2 % |
+| Endsteinziegel | `end_stone_bricks` | 44.740 | 27,8 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -31,10 +31,10 @@
 | 1 | `decke_14` | Decke über dem Erdgeschoss | 20.657 | 7.1–7.10 |
 | 2 | `decke_20` | Decke über dem Mezzanin | 26.995 | 7.11–7.23 |
 | 3 | `decke_36` | Decke über dem Piano nobile | 22.102 | 7.24–7.34 |
-| 4 | `decke_traufe` | Traufdecke | 26.176 | 7.35–7.48 |
+| 4 | `decke_traufe` | Traufdecke | 26.184 | 7.35–7.48 |
 | 5 | `spinnwand_fluegel` | Längsmittelwand der Flügel | 42.555 | 7.49–7.73 |
-| 6 | `treppen` | Vier Treppen in den Flügelenden | 15.633 | 7.74–7.82 |
-| 7 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 6.420 | 7.83–7.86 |
+| 6 | `treppen` | Vier Treppen in den Flügelenden | 15.797 | 7.74–7.82 |
+| 7 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 6.421 | 7.83–7.86 |
 
 ## Bauschritte
 
@@ -1329,14 +1329,14 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.47 – Traufdecke – Teil 13/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.974
+- **Blöcke:** 1.980
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.974 |
+| Glatter Stein | `smooth_stone` | 1.980 |
 
 **Beschreibung**
 
@@ -1357,14 +1357,14 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 ### Schritt 7.48 – Traufdecke – Teil 14/14 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
-- **Blöcke:** 1.910
+- **Blöcke:** 1.912
 - **Bauteile:** `decke_traufe`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.910 |
+| Glatter Stein | `smooth_stone` | 1.912 |
 
 **Beschreibung**
 
@@ -2085,14 +2085,14 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 ### Schritt 7.74 – Vier Treppen in den Flügelenden – Teil 1/9 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.661
+- **Blöcke:** 1.693
 - **Bauteile:** `treppen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.661 |
+| Glatter Stein | `smooth_stone` | 1.693 |
 
 **Beschreibung**
 
@@ -2113,14 +2113,14 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 ### Schritt 7.75 – Vier Treppen in den Flügelenden – Teil 2/9 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.564
+- **Blöcke:** 1.594
 - **Bauteile:** `treppen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.564 |
+| Glatter Stein | `smooth_stone` | 1.594 |
 
 **Beschreibung**
 
@@ -2141,14 +2141,14 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 ### Schritt 7.76 – Vier Treppen in den Flügelenden – Teil 3/9 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.471
+- **Blöcke:** 1.494
 - **Bauteile:** `treppen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.471 |
+| Glatter Stein | `smooth_stone` | 1.494 |
 
 **Beschreibung**
 
@@ -2169,14 +2169,14 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 ### Schritt 7.77 – Vier Treppen in den Flügelenden – Teil 4/9 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
-- **Blöcke:** 2.027
+- **Blöcke:** 2.059
 - **Bauteile:** `treppen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.027 |
+| Glatter Stein | `smooth_stone` | 2.059 |
 
 **Beschreibung**
 
@@ -2197,14 +2197,14 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 ### Schritt 7.78 – Vier Treppen in den Flügelenden – Teil 5/9 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.819
+- **Blöcke:** 1.855
 - **Bauteile:** `treppen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.819 |
+| Glatter Stein | `smooth_stone` | 1.855 |
 
 **Beschreibung**
 
@@ -2225,14 +2225,14 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 ### Schritt 7.79 – Vier Treppen in den Flügelenden – Teil 6/9 (Y 78–80)
 
 - **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.611
+- **Blöcke:** 1.622
 - **Bauteile:** `treppen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.611 |
+| Glatter Stein | `smooth_stone` | 1.622 |
 
 **Beschreibung**
 
@@ -2424,7 +2424,7 @@ Der Korridor überwand hier den Höhenunterschied zwischen Uffizien und Lungarno
 ### Schritt 7.86 – Treppe zum Cavalcavia und Austritt zum Arno – Teil 4/4 (Y 87–107)
 
 - **Y-Bereich:** 87 bis 107
-- **Blöcke:** 1.604
+- **Blöcke:** 1.605
 - **Bauteile:** `korridor_treppe`
 
 **Teileliste**
@@ -2432,7 +2432,7 @@ Der Korridor überwand hier den Höhenunterschied zwischen Uffizien und Lungarno
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 857 |
-| Endsteinziegel | `end_stone_bricks` | 747 |
+| Endsteinziegel | `end_stone_bricks` | 748 |
 
 **Beschreibung**
 

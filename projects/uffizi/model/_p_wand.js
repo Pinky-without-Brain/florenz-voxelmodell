@@ -85,7 +85,7 @@ module.exports = function wand(P) {
       }
       // Türen 3 x 8 der Arno-Fassade an u -10, 20, 50
       if (fsr && L <= 8 && [-10, 20, 50].some((c) => Math.abs(u - c) < 1.5)) {
-        if (d === 2) claim(i, L, wand, 'holz'); else air(i, L);
+        air(i, L, d <= 2 ? 'tuer' : null, wand);                    // offene Tür (Arno-Eingang)
         continue;
       }
       // Dachloggia der Arno-Fassade mit großen Fenstern 5 x 9 (verone_arno)
@@ -93,7 +93,7 @@ module.exports = function wand(P) {
         if (d <= 3) {
           if (elf.e === 'P') { claim(i, L, 'verone_arno', 'serena'); continue; }
           if (elf.e === 'C' && d <= 2) { claim(i, L, 'verone_arno', L <= 47 ? 'serena' : 'kapitell'); continue; }
-          if (elf.e === 'O' && L >= 38 && L <= 46) { if (d === 3) claim(i, L, 'verone_arno', 'glas'); else air(i, L); continue; }
+          if (elf.e === 'O' && L >= 38 && L <= 46) { if (d === 3) claim(i, L, 'verone_arno', 'glas'); else air(i, L, d <= 2 ? 'fenster_offen' : null, 'verone_arno'); continue; }
         }
         claim(i, L, wand, 'putz');
         continue;
@@ -107,7 +107,7 @@ module.exports = function wand(P) {
       if (ds !== 99) {
         const f = fensterBand(L, ds, d, rows);
         if (f === 'glas') { claim(i, L, wand, 'glas'); continue; }
-        if (f === 'luft') { air(i, L); continue; }
+        if (f === 'luft') { air(i, L, d === 1 ? 'fenster_offen' : null, wand); continue; }
         if (f === 'rahmen') { claim(i, L, wand, 'serena'); continue; }
       }
       if (L >= 9 && !sued && !la && !on && quoin(i, L)) { claim(i, L, 'rueckseiten_wand', 'serena'); continue; }

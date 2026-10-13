@@ -17,7 +17,7 @@ const PART_LIST = [
   // Modul 3 Dachloggia und Kranzgesims
   ['loggia_boden', 3], ['loggia_pfeiler_saeulen', 3], ['loggia_verglasung', 3], ['loggia_rueckwand', 3], ['kranzgesims', 3],
   // Modul 4 Südbau
-  ['suedbau_waende', 4], ['serliana', 4], ['durchgang_arno', 4], ['verone_arno', 4],
+  ['suedbau_waende', 4], ['serliana', 4], ['serliana_aufsatz', 4], ['durchgang_arno', 4], ['verone_arno', 4],
   // Modul 5 Rückseiten
   ['rueckseiten_sockel', 5], ['rueckseiten_wand', 5], ['rueckseiten_gesims', 5], ['loggia_anschluss', 5],
   ['ostnord_front', 5],
@@ -48,7 +48,7 @@ const KANTEN_FSR = new Set([51, 52, 53]);
 const KANTE_KORRIDOR = 41;
 const TUER_S0 = 3.35, TUER_S1 = 10.35;     // Öffnung in Kante 41 (Kantenabschnitt, Katalog §11)
 
-const STUFEN = ['fassade', 'sued', 'wand', 'tribuna', 'dach', 'innen', 'decken', 'statuen'];
+const STUFEN = ['fassade', 'sued', 'wand', 'tribuna', 'dach', 'innen', 'decken', 'statuen', 'risse'];
 
 let cache = null;
 
@@ -75,7 +75,13 @@ function plan() {
     own[k] = PID[part]; mt[k] = MAT[mat];
     return true;
   };
-  const air = (i, L) => { const k = i * SLOTS + L; if (!own[k]) own[k] = AIR; };
+  // Öffnungen für R14: air(i, L, art, teil) merkt die Zelle mit Art (tuer|tor|fenster_offen|arkade|loggia|scharte) und Bauteil
+  const oeff = [];
+  const air = (i, L, art, teil) => {
+    const k = i * SLOTS + L;
+    if (!own[k]) own[k] = AIR;
+    if (art && own[k] === AIR) oeff.push({ k, art, teil });
+  };
   const free = (i, L) => own[i * SLOTS + L] === 0;
   const range = (i, L0, L1, part, mat) => { for (let L = L0; L <= L1; L++) claim(i, L, part, mat); };
 
@@ -128,7 +134,7 @@ function plan() {
   };
   const fmod = (w) => { const jw = Math.floor(w) - 12; const k = Math.floor(jw / 24); return { k, wl: jw - 24 * k }; };
 
-  const P = { S, N, own, mt, over, claim, place, air, free, range, zone, kind, tF, tAll, side, nearE, fw, fe, fsn, kant,
+  const P = { S, N, own, mt, over, SLOTS, AIR_ID: AIR, oeff, claim, place, air, free, range, zone, kind, tF, tAll, side, nearE, fw, fe, fsn, kant,
     elOf, fmod, PID, MAT,
     PORTIKUS, MEZZ, PN, TRAUFE, NB_TRAUFE, ZONE_X, ZONE_W, ZONE_E, ZONE_S, K_GEN, K_F, K_ST, K_SER, K_SS,
     KANTEN_LA, KANTEN_ON, KANTEN_FSR, KANTE_KORRIDOR, TUER_S0, TUER_S1,

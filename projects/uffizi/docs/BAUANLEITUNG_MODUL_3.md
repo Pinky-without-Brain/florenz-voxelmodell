@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 48.244 |
-| Bauschritte | 31 |
+| Blöcke | 49.970 |
+| Bauschritte | 32 |
 | Y-Bereich | 101 bis 116 |
 | X-Ausdehnung | -265 bis -132 (134 Blöcke) |
 | Z-Ausdehnung | 903 bis 1182 (280 Blöcke) |
-| Kleinster Schritt | 1.094 Blöcke (Schritt 3.30) |
-| Mittlerer Schritt | 1.556 Blöcke |
+| Kleinster Schritt | 1.094 Blöcke (Schritt 3.31) |
+| Mittlerer Schritt | 1.562 Blöcke |
 | Größter Schritt | 2.032 Blöcke (Schritt 3.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 27.301 | 56,6 % |
-| Glatter Stein | `smooth_stone` | 15.952 | 33,1 % |
-| Graues Buntglas | `gray_stained_glass` | 4.631 | 9,6 % |
+| Endsteinziegel | `end_stone_bricks` | 27.301 | 54,6 % |
+| Glatter Stein | `smooth_stone` | 15.952 | 31,9 % |
+| Graues Buntglas | `gray_stained_glass` | 6.357 | 12,7 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 360 | 0,7 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -32,9 +32,9 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `loggia_boden` | Galerieboden | 5.560 | 3.1–3.3 |
 | 2 | `loggia_pfeiler_saeulen` | Pfeiler und Säulen der Dachloggia | 6.604 | 3.4–3.7 |
-| 3 | `loggia_verglasung` | Verglasung der Dachloggia | 4.631 | 3.8–3.10 |
-| 4 | `loggia_rueckwand` | Rückwand der Dachloggia | 27.301 | 3.11–3.28 |
-| 5 | `kranzgesims` | Kranzgesims | 4.148 | 3.29–3.31 |
+| 3 | `loggia_verglasung` | Verglasung der Dachloggia | 6.357 | 3.8–3.11 |
+| 4 | `loggia_rueckwand` | Rückwand der Dachloggia | 27.301 | 3.12–3.29 |
+| 5 | `kranzgesims` | Kranzgesims | 4.148 | 3.30–3.32 |
 
 ## Bauschritte
 
@@ -235,17 +235,17 @@ Setze die Pfeiler genau über die Pfeiler der unteren Geschosse, sonst verläuft
 
 Auch oben stehen Pfeiler und Säulen abwechselnd. Das gibt der Fassade ihren gleichmäßigen Takt.
 
-### Schritt 3.8 – Verglasung der Dachloggia – Teil 1/3 (Y 102–105)
+### Schritt 3.8 – Verglasung der Dachloggia – Teil 1/4 (Y 102–104)
 
-- **Y-Bereich:** 102 bis 105
-- **Blöcke:** 1.684
+- **Y-Bereich:** 102 bis 104
+- **Blöcke:** 1.467
 - **Bauteile:** `loggia_verglasung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Graues Buntglas | `gray_stained_glass` | 1.684 |
+| Graues Buntglas | `gray_stained_glass` | 1.467 |
 
 **Beschreibung**
 
@@ -263,17 +263,17 @@ Die Glasscheibe steht in der Mitte des Gebälks, damit die Pfeiler vor ihr stehe
 
 Der Bauteil-Katalog folgt dem heutigen Zustand mit durchgehender Verglasung.
 
-### Schritt 3.9 – Verglasung der Dachloggia – Teil 2/3 (Y 106–108)
+### Schritt 3.9 – Verglasung der Dachloggia – Teil 2/4 (Y 105–107)
 
-- **Y-Bereich:** 106 bis 108
-- **Blöcke:** 1.263
+- **Y-Bereich:** 105 bis 107
+- **Blöcke:** 1.467
 - **Bauteile:** `loggia_verglasung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Graues Buntglas | `gray_stained_glass` | 1.263 |
+| Graues Buntglas | `gray_stained_glass` | 1.467 |
 
 **Beschreibung**
 
@@ -291,17 +291,17 @@ Die Glasscheibe steht in der Mitte des Gebälks, damit die Pfeiler vor ihr stehe
 
 Der Bauteil-Katalog folgt dem heutigen Zustand mit durchgehender Verglasung.
 
-### Schritt 3.10 – Verglasung der Dachloggia – Teil 3/3 (Y 109–112)
+### Schritt 3.10 – Verglasung der Dachloggia – Teil 3/4 (Y 108–111)
 
-- **Y-Bereich:** 109 bis 112
-- **Blöcke:** 1.684
+- **Y-Bereich:** 108 bis 111
+- **Blöcke:** 1.956
 - **Bauteile:** `loggia_verglasung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Graues Buntglas | `gray_stained_glass` | 1.684 |
+| Graues Buntglas | `gray_stained_glass` | 1.956 |
 
 **Beschreibung**
 
@@ -319,7 +319,35 @@ Die Glasscheibe steht in der Mitte des Gebälks, damit die Pfeiler vor ihr stehe
 
 Der Bauteil-Katalog folgt dem heutigen Zustand mit durchgehender Verglasung.
 
-### Schritt 3.11 – Rückwand der Dachloggia – Teil 1/18 (Y 102–102)
+### Schritt 3.11 – Verglasung der Dachloggia – Teil 4/4 (Y 112–114)
+
+- **Y-Bereich:** 112 bis 114
+- **Blöcke:** 1.467
+- **Bauteile:** `loggia_verglasung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Graues Buntglas | `gray_stained_glass` | 1.467 |
+
+**Beschreibung**
+
+Du schließt die Öffnungen mit Glas, 3. Zelle von der Fassade, von Lage 37 bis 47. Das Glas läuft durchgehend hinter den Säulen.
+
+**Tipp**
+
+Die Glasscheibe steht in der Mitte des Gebälks, damit die Pfeiler vor ihr stehen.
+
+**Achtung**
+
+Über dem Glas (Lage 48 und 49) bleiben die Öffnungen frei, so will es der Entwurf.
+
+**Fakt**
+
+Der Bauteil-Katalog folgt dem heutigen Zustand mit durchgehender Verglasung.
+
+### Schritt 3.12 – Rückwand der Dachloggia – Teil 1/18 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.997
@@ -347,7 +375,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.12 – Rückwand der Dachloggia – Teil 2/18 (Y 103–103)
+### Schritt 3.13 – Rückwand der Dachloggia – Teil 2/18 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.997
@@ -375,7 +403,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.13 – Rückwand der Dachloggia – Teil 3/18 (Y 104–104)
+### Schritt 3.14 – Rückwand der Dachloggia – Teil 3/18 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.997
@@ -403,7 +431,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.14 – Rückwand der Dachloggia – Teil 4/18 (Y 105–105)
+### Schritt 3.15 – Rückwand der Dachloggia – Teil 4/18 (Y 105–105)
 
 - **Y-Bereich:** 105 bis 105
 - **Blöcke:** 1.997
@@ -431,7 +459,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.15 – Rückwand der Dachloggia – Teil 5/18 (Y 106–106)
+### Schritt 3.16 – Rückwand der Dachloggia – Teil 5/18 (Y 106–106)
 
 - **Y-Bereich:** 106 bis 106
 - **Blöcke:** 1.997
@@ -459,7 +487,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.16 – Rückwand der Dachloggia – Teil 6/18 (Y 107–107)
+### Schritt 3.17 – Rückwand der Dachloggia – Teil 6/18 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
 - **Blöcke:** 1.997
@@ -487,7 +515,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.17 – Rückwand der Dachloggia – Teil 7/18 (Y 108–108)
+### Schritt 3.18 – Rückwand der Dachloggia – Teil 7/18 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
 - **Blöcke:** 1.997
@@ -515,7 +543,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.18 – Rückwand der Dachloggia – Teil 8/18 (Y 109–109)
+### Schritt 3.19 – Rückwand der Dachloggia – Teil 8/18 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
 - **Blöcke:** 1.997
@@ -543,7 +571,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.19 – Rückwand der Dachloggia – Teil 9/18 (Y 110–110)
+### Schritt 3.20 – Rückwand der Dachloggia – Teil 9/18 (Y 110–110)
 
 - **Y-Bereich:** 110 bis 110
 - **Blöcke:** 1.126
@@ -571,7 +599,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.20 – Rückwand der Dachloggia – Teil 10/18 (Y 110–110)
+### Schritt 3.21 – Rückwand der Dachloggia – Teil 10/18 (Y 110–110)
 
 - **Y-Bereich:** 110 bis 110
 - **Blöcke:** 1.139
@@ -599,7 +627,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.21 – Rückwand der Dachloggia – Teil 11/18 (Y 111–111)
+### Schritt 3.22 – Rückwand der Dachloggia – Teil 11/18 (Y 111–111)
 
 - **Y-Bereich:** 111 bis 111
 - **Blöcke:** 1.126
@@ -627,7 +655,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.22 – Rückwand der Dachloggia – Teil 12/18 (Y 111–111)
+### Schritt 3.23 – Rückwand der Dachloggia – Teil 12/18 (Y 111–111)
 
 - **Y-Bereich:** 111 bis 111
 - **Blöcke:** 1.139
@@ -655,7 +683,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.23 – Rückwand der Dachloggia – Teil 13/18 (Y 112–112)
+### Schritt 3.24 – Rückwand der Dachloggia – Teil 13/18 (Y 112–112)
 
 - **Y-Bereich:** 112 bis 112
 - **Blöcke:** 1.126
@@ -683,7 +711,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.24 – Rückwand der Dachloggia – Teil 14/18 (Y 112–112)
+### Schritt 3.25 – Rückwand der Dachloggia – Teil 14/18 (Y 112–112)
 
 - **Y-Bereich:** 112 bis 112
 - **Blöcke:** 1.139
@@ -711,7 +739,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.25 – Rückwand der Dachloggia – Teil 15/18 (Y 113–113)
+### Schritt 3.26 – Rückwand der Dachloggia – Teil 15/18 (Y 113–113)
 
 - **Y-Bereich:** 113 bis 113
 - **Blöcke:** 1.126
@@ -739,7 +767,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.26 – Rückwand der Dachloggia – Teil 16/18 (Y 113–113)
+### Schritt 3.27 – Rückwand der Dachloggia – Teil 16/18 (Y 113–113)
 
 - **Y-Bereich:** 113 bis 113
 - **Blöcke:** 1.139
@@ -767,7 +795,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.27 – Rückwand der Dachloggia – Teil 17/18 (Y 114–114)
+### Schritt 3.28 – Rückwand der Dachloggia – Teil 17/18 (Y 114–114)
 
 - **Y-Bereich:** 114 bis 114
 - **Blöcke:** 1.126
@@ -795,7 +823,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.28 – Rückwand der Dachloggia – Teil 18/18 (Y 114–114)
+### Schritt 3.29 – Rückwand der Dachloggia – Teil 18/18 (Y 114–114)
 
 - **Y-Bereich:** 114 bis 114
 - **Blöcke:** 1.139
@@ -823,7 +851,7 @@ Die Wand steht auf dem Galerieboden. Lass ihn zuerst fertig sein.
 
 Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 
-### Schritt 3.29 – Kranzgesims – Teil 1/3 (Y 115–115)
+### Schritt 3.30 – Kranzgesims – Teil 1/3 (Y 115–115)
 
 - **Y-Bereich:** 115 bis 115
 - **Blöcke:** 1.941
@@ -851,7 +879,7 @@ Die Auskragung steht über dem Platz, nicht über dem Grundriss. Zähle den eine
 
 Im Modell ragt nur das Kranzgesims über den Grundriss hinaus, einen Block weit über den Platz.
 
-### Schritt 3.30 – Kranzgesims – Teil 2/3 (Y 116–116)
+### Schritt 3.31 – Kranzgesims – Teil 2/3 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
 - **Blöcke:** 1.094
@@ -879,7 +907,7 @@ Die Auskragung steht über dem Platz, nicht über dem Grundriss. Zähle den eine
 
 Im Modell ragt nur das Kranzgesims über den Grundriss hinaus, einen Block weit über den Platz.
 
-### Schritt 3.31 – Kranzgesims – Teil 3/3 (Y 116–116)
+### Schritt 3.32 – Kranzgesims – Teil 3/3 (Y 116–116)
 
 - **Y-Bereich:** 116 bis 116
 - **Blöcke:** 1.113

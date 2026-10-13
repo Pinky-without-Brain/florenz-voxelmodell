@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 34.280 |
+| Blöcke | 34.286 |
 | Bauschritte | 22 |
 | Y-Bereich | 51 bis 110 |
 | X-Ausdehnung | -528 bis -85 (444 Blöcke) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Polierter Andesit | `polished_andesite` | 24.171 | 70,5 % |
-| Glatter Stein | `smooth_stone` | 9.899 | 28,9 % |
+| Glatter Stein | `smooth_stone` | 9.905 | 28,9 % |
 | Graues Buntglas | `gray_stained_glass` | 210 | 0,6 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -31,7 +31,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `bruecke_bogen` | Tragbogen der Brücke | 1.187 | 8.1 |
 | 2 | `bruecke_korridor` | Gang auf der Brücke | 1.623 | 8.2 |
-| 3 | `lungarno_arkade` | Arkaden am Lungarno | 9.031 | 8.3–8.7 |
+| 3 | `lungarno_arkade` | Arkaden am Lungarno | 9.037 | 8.3–8.7 |
 | 4 | `lungarno_boden` | Boden des Korridors am Lungarno | 5.308 | 8.8–8.11 |
 | 5 | `lungarno_korridor` | Gang und Dach am Lungarno | 17.131 | 8.12–8.22 |
 
@@ -98,7 +98,7 @@ Der Korridor hat Giorgio Vasari 1565 in nur fünf Monaten gebaut, so die Überli
 ### Schritt 8.3 – Arkaden am Lungarno – Teil 1/5 (Y 51–62)
 
 - **Y-Bereich:** 51 bis 62
-- **Blöcke:** 1.660
+- **Blöcke:** 1.666
 - **Bauteile:** `lungarno_arkade`
 
 **Teileliste**
@@ -106,6 +106,7 @@ Der Korridor hat Giorgio Vasari 1565 in nur fünf Monaten gebaut, so die Überli
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.660 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
