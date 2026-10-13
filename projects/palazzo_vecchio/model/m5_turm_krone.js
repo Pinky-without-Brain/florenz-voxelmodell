@@ -68,7 +68,7 @@ module.exports = {
     }
     S.flush();
 
-    // 3) Glockenstube: Wand T (Band 4) mit vier Spitzbogenöffnungen 3 x 6 (y 154..159), Innenboden und drei Glocken
+    // 3) Glockenstube: Wand T (Band 4) mit vier Spitzbogenöffnungen 3 x 6 (y 154..159), Innenboden (die drei Glocken hängen im Bauteil glocken)
     const gl = ctx.part('glockenstube');
     const offen = (r, y) => {
       if (y < 154 || y > 159) return false;
@@ -78,11 +78,7 @@ module.exports = {
     };
     S.band(gl, bandT, 153, 160, (r, y) => { if (offen(r, y)) { S.note('loggia', r.x, y, r.z); return null; } return TY.pietra_forte; }, 'glockenstube');
     const innen = g.recs.filter((r) => r.zone === 'T' && r.dT > 4);
-    S.band(gl, innen, 153, 153, () => TY.pietra_forte, 'glockenstube');      // Boden der Glockenstube (trägt die Glocken)
-    for (const du of [-4, 0, 4]) {
-      const zellen = innen.filter((r) => r.u >= TUC + du - 1 && r.u < TUC + du + 1 && r.w >= TWC - 1 && r.w < TWC + 1);
-      for (let y = 154; y <= 156; y++) for (const r of zellen) S.put(gl, r.x, y, r.z, TY.bronze, 'glockenstube');
-    }
+    S.band(gl, innen, 153, 153, () => TY.pietra_forte, 'glockenstube');      // Boden der Glockenstube (Zugang: Wendeltreppe aus Modul 9, Loch im Boden)
 
     // 4) Edikula y_rel 161..176 auf T-3: Boden, vier Eckpfeiler 2 x 2, Rundbögen (Kämpfer 171, Scheitel 175)
     const ed = ctx.part('edikula');
@@ -115,6 +111,18 @@ module.exports = {
     }
 
     S.flush();
+
+    // 4b) Drei Glocken (Bronze, Goldrand), hängen von der Decke der Glockenstube (Edikula-Boden y_rel 161) im Vorraum der Treppe
+    const gk = ctx.part('glocken');
+    const glocke = (x0, z0, hoehe) => {
+      S.put(gk, x0, 160, z0, TY.bronze, 'glocken');                                   // Aufhängung
+      for (let y = 160 - hoehe + 1; y <= 159; y++) {
+        for (let dx = 0; dx < 2; dx++) for (let dz = 0; dz < 2; dz++) S.put(gk, x0 + dx, y, z0 + dz, y === 160 - hoehe + 1 ? TY.gold : TY.bronze, 'glocken');
+      }
+    };
+    glocke(-134, 848, 4);     // große Glocke
+    glocke(-132, 850, 3);     // mittlere Glocke
+    glocke(-135, 850, 2);     // kleine Glocke
 
     // 5) Turmdach y_rel 177..184: Pyramide über T-3 (bündig mit der Edikula-Wand, kein Traufüberstand: sonst entsteht unter der Traufe eine undichte Innenluft, R14), darüber Stange
     const dach = ctx.part('turmdach');

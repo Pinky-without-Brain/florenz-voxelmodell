@@ -42,7 +42,7 @@ const WAENDE = [
   { id: 'og2_w57', ge: 'og2', achse: 'w', c: 57, a: 55, b: 90, tueren: [70], mat: 'putz_sand' }
 ];
 
-const SALONE_TUEREN = [{ seite: 'w', u: 22 }, { seite: 'w', u: 56 }, { seite: 'o', u: -10 }, { seite: 'o', u: 80 }];
+const SALONE_TUEREN = [{ seite: 'w', u: 22 }, { seite: 'w', u: 56 }, { seite: 'o', u: -10 }, { seite: 'o', u: 74 }];
 
 const key = (x, z) => x * 8192 + z;
 
@@ -125,6 +125,9 @@ function lichtPlan(g, P, ck, wandCols) {
   P.lampenListe = [];
   const wandKeys = {};
   for (const w of P.waende) { const s = wandKeys[w.ge.id] || (wandKeys[w.ge.id] = new Set()); for (const c of w.cells) s.add(key(c.r.x, c.r.z)); }
+  // Podium der Udienza im Salone (Rahmen: u 82..90, w 92..136), 3 Blöcke hoch; Lampen sitzen in seiner Oberfläche
+  P.podium = { u0: 82, u1: 90, w0: 92, w1: 136, h: 3 };
+  P.imPodium = (r) => r.u >= P.podium.u0 && r.u < P.podium.u1 && r.w >= P.podium.w0 && r.w < P.podium.w1;
   const stehOk = (ge, r) => {
     if (!r || r.zone === 'T') return false;
     const y = ge.stand;
@@ -137,7 +140,7 @@ function lichtPlan(g, P, ck, wandCols) {
       // Rückwände der Arkaden (massiv) und Lichthofwände; die Arkaden selbst (Bögen) sind begehbar und bekommen Licht
       if ((d1 >= 6 && d1 <= 7) || (d0 >= 7 && d0 <= 8) || (d2 >= 1 && d2 <= 4) || (d3 >= 1 && d3 <= 4)) return false;
     } else if (dl(1) <= 3 || dl(0) <= 3 || dl(2) <= 4 || dl(3) <= 4) return false;
-    if (ge.id === 'og1') { if (r.sal && !r.salL) return false; }
+    if (ge.id === 'og1') { if (r.sal && !r.salL) return false; if (P.imPodium(r)) return false; }
     else if (ge.id !== 'eg' && r.sal) return false;
     return true;
   };
@@ -278,6 +281,19 @@ function plan(g) {
       for (let y = 17; y < 17 + 10; y++) P.carve.add(ck(r.x, y, r.z));
     }
   }
+
+  // ---- Türvorplätze: 2 Zellen vor jeder Tür bleiben frei (Wandverkleidungen, Möbel); Wände und Außenwände bleiben stehen
+  const wk = {};
+  for (const w of P.waende) { const s = wk[w.ge.id] || (wk[w.ge.id] = new Set()); for (const c of w.cells) s.add(key(c.r.x, c.r.z)); }
+  const vorplatz = (r, ge, hoch, istWand) => {
+    for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) {
+      const q = g.rec(r.x + dx, r.z + dz);
+      if (!q || q.zone === 'T' || q.d8 <= pvl.tWall(ge.stand) || istWand(q)) continue;
+      for (let y = ge.stand; y < ge.stand + hoch; y++) P.carve.add(ck(q.x, y, q.z));
+    }
+  };
+  for (const w of P.waende) for (const c of w.cells) if (c.tuer) vorplatz(c.r, w.ge, TUERHOEHE, (q) => wk[w.ge.id].has(key(q.x, q.z)));
+  for (const c of P.saloneTueren) vorplatz(g.rec(c.x, c.z), GESCHOSSE.og1, 10, (q) => q.sal && !q.salL);
 
   // ---- Treppen
   const belegt = new Set();          // Spalten, die schon eine Treppe trägt
