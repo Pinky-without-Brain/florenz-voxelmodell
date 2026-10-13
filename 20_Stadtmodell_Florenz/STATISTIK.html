@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Florenz Voxelmodell Statistik</title>
+<style>
+:root{--bg:#faf7f2;--card:#fff;--text:#2b2620;--muted:#7a6f63;--accent:#b5532c;--bar:#d98a5f;--bar2:#6f8f7a;--line:#e8e0d4}
+@media (prefers-color-scheme:dark){:root{--bg:#1c1a17;--card:#262320;--text:#eee6da;--muted:#a89c8d;--accent:#e08a5f;--bar:#c8774c;--bar2:#7fa38c;--line:#3a352f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 system-ui,Segoe UI,sans-serif}
+main{max-width:1100px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:28px;margin:0 0 4px}h2{font-size:19px;margin:32px 0 12px;color:var(--accent)}
+.sub{color:var(--muted);margin:0 0 20px}
+.kacheln{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px}
+.k{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px}
+.k b{display:block;font-size:24px;color:var(--accent)}.k span{color:var(--muted);font-size:13px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:14px}
+th,td{padding:8px 10px;text-align:right;border-bottom:1px solid var(--line)}th:first-child,td:first-child{text-align:left}
+th{background:var(--line);font-weight:600}
+.scroll{overflow-x:auto}
+.balken{display:flex;align-items:center;gap:8px;margin:5px 0;font-size:14px}
+.balken .n{width:190px;flex:none}.balken .b{height:16px;background:var(--bar);border-radius:4px}.balken .v{color:var(--muted);white-space:nowrap}
+.b.g{background:var(--bar2)}
+ul{padding-left:20px}footer{margin-top:32px;color:var(--muted);font-size:13px}
+@media (max-width:600px){.balken .n{width:120px}}
+</style>
+</head>
+<body><main>
+<h1>Florenz als Voxelmodell</h1>
+<p class="sub">Maßstab 1 : 2 (1 Block = 0,5 m) · Stand 13.10.2026 · Projektstart V3 am 12.10.2026</p>
+
+<div class="kacheln">
+ <div class="k"><b>4,14 Mio</b><span>Blöcke in gebauten Projekten</span></div>
+ <div class="k"><b>6</b><span>fertige Projekte (4 Wahrzeichen, Dom, Domplatz-Ring)</span></div>
+ <div class="k"><b>2.593</b><span>Bauschritte in der Bauanleitung</span></div>
+ <div class="k"><b>7.106</b><span>Gebäude im Stadtdatensatz (791 Häuserblöcke)</span></div>
+ <div class="k"><b>2,77 Mrd</b><span>Blöcke in der Minecraft-Welt (mit Gelände)</span></div>
+ <div class="k"><b>395</b><span>automatische Tests, alle grün</span></div>
+</div>
+
+<h2>Projekte</h2>
+<div class="scroll"><table>
+<tr><th>Projekt</th><th>Blöcke</th><th>Module</th><th>Bauschritte</th><th>Bauteile</th><th>Höhe*</th><th>Ausdehnung</th><th>Treppen</th><th>Lampen</th><th>begehbar</th></tr>
+<tr><td>Domplatz-Ring (202 Häuser)</td><td>1.803.412</td><td>21</td><td>1.098</td><td>202</td><td>31 m</td><td>439 × 366 m</td><td>–</td><td>–</td><td>54 %</td></tr>
+<tr><td>Dom, Campanile, Baptisterium</td><td>909.019</td><td>10</td><td>582</td><td>95</td><td>118,5 m</td><td>222 × 97 m</td><td>–</td><td>–</td><td>2 %</td></tr>
+<tr><td>Uffizien mit Corridoio</td><td>736.705</td><td>10</td><td>453</td><td>62</td><td>46 m</td><td>225 × 161 m</td><td>679</td><td>834</td><td>85 % ✔</td></tr>
+<tr><td>Palazzo Vecchio</td><td>567.730</td><td>10</td><td>368</td><td>73</td><td>97 m</td><td>126 × 88 m</td><td>826</td><td>593</td><td>84 % ✔</td></tr>
+<tr><td>Orsanmichele</td><td>88.949</td><td>11</td><td>64</td><td>43</td><td>40 m</td><td>40 × 27 m</td><td>116</td><td>64</td><td>77 % ✔</td></tr>
+<tr><td>Loggia dei Lanzi</td><td>34.034</td><td>8</td><td>28</td><td>48</td><td>16,5 m</td><td>41 × 26 m</td><td>124</td><td>10</td><td>88 % ✔</td></tr>
+<tr><th>Summe</th><th>4.139.849</th><th>70</th><th>2.593</th><th>523</th><th></th><th></th><th>1.745</th><th>1.501</th><th></th></tr>
+</table></div>
+<p class="sub">* Höhe vom Fundament bis zur Spitze. ✔ = nach dem Begehbarkeits-Standard nachgerüstet (alle Räume erreichbar, Hülle dicht). Der Rest der „begehbar“-Quote sind bewusst gesperrte Bereiche wie Dachböden. Dom und Domplatz-Ring werden noch nachgerüstet.</p>
+
+<h2>Blöcke je Projekt</h2>
+<div class="balken"><span class="n">Domplatz-Ring</span><span class="b" style="width:43.6%"></span><span class="v">1,80 Mio</span></div>
+<div class="balken"><span class="n">Dom</span><span class="b" style="width:22%"></span><span class="v">0,91 Mio</span></div>
+<div class="balken"><span class="n">Uffizien</span><span class="b" style="width:17.8%"></span><span class="v">0,74 Mio</span></div>
+<div class="balken"><span class="n">Palazzo Vecchio</span><span class="b" style="width:13.7%"></span><span class="v">0,57 Mio</span></div>
+<div class="balken"><span class="n">Orsanmichele</span><span class="b" style="width:2.2%"></span><span class="v">89 Tsd</span></div>
+<div class="balken"><span class="n">Loggia dei Lanzi</span><span class="b" style="width:0.8%"></span><span class="v">34 Tsd</span></div>
+
+<h2>Häufigste Materialien (alle Projekte)</h2>
+<div class="balken"><span class="n">Putz sandfarben</span><span class="b g" style="width:42%"></span><span class="v">588 Tsd</span></div>
+<div class="balken"><span class="n">Pietra serena</span><span class="b g" style="width:35.8%"></span><span class="v">502 Tsd</span></div>
+<div class="balken"><span class="n">Dachziegel</span><span class="b g" style="width:34.7%"></span><span class="v">487 Tsd</span></div>
+<div class="balken"><span class="n">Fresko / Keramik (Farben)</span><span class="b g" style="width:24.4%"></span><span class="v">342 Tsd</span></div>
+<div class="balken"><span class="n">Mauerwerk</span><span class="b g" style="width:23.8%"></span><span class="v">334 Tsd</span></div>
+<div class="balken"><span class="n">Pflaster</span><span class="b g" style="width:21.3%"></span><span class="v">299 Tsd</span></div>
+<div class="balken"><span class="n">Pietra forte</span><span class="b g" style="width:16.3%"></span><span class="v">229 Tsd</span></div>
+<div class="balken"><span class="n">Bruchstein (Fundament)</span><span class="b g" style="width:15.1%"></span><span class="v">212 Tsd</span></div>
+<div class="balken"><span class="n">Marmor weiß</span><span class="b g" style="width:11.4%"></span><span class="v">161 Tsd</span></div>
+<div class="balken"><span class="n">Putz rosa / weiß / grau</span><span class="b g" style="width:31.3%"></span><span class="v">443 Tsd</span></div>
+
+<h2>Minecraft-Welt (Bedrock)</h2>
+<div class="kacheln">
+ <div class="k"><b>2,4 × 2,1 km</b><span>Fläche (4.800 × 4.160 Blöcke)</span></div>
+ <div class="k"><b>78.000</b><span>Chunks · 794.445 Subchunks</span></div>
+ <div class="k"><b>6.887</b><span>Platzhalter-Häuser für noch nicht modellierte Gebäude</span></div>
+ <div class="k"><b>36,8 MB</b><span>Weltgröße · Export in rund 70 s</span></div>
+</div>
+
+<h2>Software</h2>
+<div class="kacheln">
+ <div class="k"><b>22.006</b><span>Zeilen JavaScript in der Pipeline (ohne Abhängigkeiten)</span></div>
+ <div class="k"><b>14</b><span>Prüfregeln (Baubarkeit, Begehbarkeit, Dichtheit …)</span></div>
+ <div class="k"><b>39</b><span>Testdateien · 395 Tests</span></div>
+ <div class="k"><b>103</b><span>Commits · 804 Dateien</span></div>
+ <div class="k"><b>213</b><span>Blocktypen in der Palette (davon 160 Treppen)</span></div>
+</div>
+
+<h2>Ausgestaltete Innenräume</h2>
+<ul>
+ <li><b>Uffizien:</b> drei Galeriekorridore, Tribuna mit Venus, Botticelli-, Leonardo-, Michelangelo-/Raffael-Saal, Scalone del Vasari, Corridoio Vasariano mit Selbstbildnissen</li>
+ <li><b>Palazzo Vecchio:</b> Salone dei Cinquecento, Michelozzo-Hof, Sala dei Gigli, Studiolo, Sala delle Carte Geografiche, Quartiere di Leone X und degli Elementi, Glockenstube</li>
+ <li><b>Orsanmichele:</b> Orcagna-Tabernakel, Altar der hl. Anna, Sternengewölbe, Museumssaal mit 14 Zunftstatuen</li>
+ <li><b>Loggia dei Lanzi:</b> Skulpturenhalle, begehbare Dachterrasse</li>
+</ul>
+
+<h2>Als Nächstes</h2>
+<ul>
+ <li>Häuser (Quartiergenerator) und Dom begehbar machen</li>
+ <li>Gelände und Plätze: ≈ 15,7 Mio Blöcke in 195 Kacheln</li>
+ <li>Ponte Vecchio (≈ 172 Tsd) und Palazzo Pitti (≈ 1,09 Mio)</li>
+ <li>Weitere Stadtviertel und Wahrzeichen</li>
+</ul>
+<footer>Daten: OpenStreetMap-Mitwirkende (ODbL) · Gelände: Comune di Firenze, DTM LiDAR 2017 (CC BY 4.0)</footer>
+</main></body></html>
