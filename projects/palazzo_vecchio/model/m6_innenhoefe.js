@@ -61,7 +61,7 @@ module.exports = {
       const f = feld(1, r, 8);
       if (!f.ecke) {
         const q = pv.fenster(f.t, y, d, f.c, 2, y < 34 ? 20 : 37, y < 34 ? 27 : 44, TY.marmor_weiss);
-        if (q !== undefined) return q;
+        if (q !== undefined) { if (q === null) S.nische(r.x, y, r.z); return q; }
       }
       return TY.pietra_forte;
     }, 'michelozzo_obergeschosse');
@@ -77,7 +77,7 @@ module.exports = {
       const f = feld(0, r, 12);
       if (!f.ecke) {
         const q = pv.fenster(f.t, y, r.dH0, f.c, 2, y < 34 ? 20 : 37, y < 34 ? 27 : 44, TY.pietra_serena);
-        if (q !== undefined) return q;
+        if (q !== undefined) { if (q === null) S.nische(r.x, y, r.z); return q; }
       }
       return TY.putz_sand;
     }, 'dogana_obergeschosse');
@@ -91,7 +91,7 @@ module.exports = {
         if (q.t >= 0 && q.t <= q.L) {
           const c = (Math.floor(Math.min(q.t, q.L - 1e-6) / T) + 0.5) * T;
           const hoch = (y >= 9 && y <= 12) || (y >= 25 && y <= 28) || (y >= 41 && y <= 44);
-          if (hoch && Math.abs(q.t - c) < 1) return r['dH' + i] === 1 ? TY.glas_fenster : null;
+          if (hoch && Math.abs(q.t - c) < 1) { if (r['dH' + i] !== 1) S.nische(r.x, y, r.z); return r['dH' + i] === 1 ? TY.glas_fenster : null; }
         }
         return TY.putz_sand;
       }, 'lichthoefe');

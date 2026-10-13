@@ -213,6 +213,7 @@ function state(ctx) {
     ctx,
     carve: new Set(require('./pv_plan.js').plan(g).carve),   // freizuhaltende Zellen (Türen, Treppenlöcher, Treppen): put() setzt dort nichts (B2)
     types: new Map(),            // Zellschlüssel -> Blocktyp aller gesetzten Zellen (Rissschließung, Licht)
+    pendN: [],
     pend: new Map(),             // Art -> noch nicht deklarierte Öffnungszellen [{x, y, z}]
     /** Setzt einen Block bei y_rel; false, wenn die Zelle schon belegt ist (K0) oder freigehalten wird. Prüft den Luftraum. */
     put(W, x, yr, z, type, tag) {
@@ -241,8 +242,14 @@ function state(ctx) {
       if (!l) S.pend.set(art, l = []);
       l.push({ x, y: yr + g.bodenY, z });
     },
+    /** Fensternische hinter dem Glas (Luft, Sohlbank über Kopfhöhe): wird als unzugänglich deklariert. */
+    nische(x, yr, z) { S.pendN.push({ x, y: yr + g.bodenY, z }); },
     /** Vorgemerkte Öffnungen beim aktuellen Bauteil des Moduls deklarieren. */
     flush() {
+      if (S.pendN.length) {
+        S.ctx.unzugaenglich(S.pendN, 'Fensternische hinter dem Glas: die Sohlbank liegt mindestens drei Blöcke über dem Fußboden, die Nische ist nur ein Wandeinschnitt und nicht begehbar');
+        S.pendN = [];
+      }
       for (const [art, l] of S.pend) if (l.length) S.ctx.oeffnung(l, art);
       S.pend.clear();
     },
@@ -383,7 +390,7 @@ function oeffnungA(S, r, y) {
         q = fenster(u, y, d, u0, 1.5, 6, 11, TY.pietra_forte);
       } else if (y <= 33) q = bifora(u, y, d, u0, 20, 30);
       else q = bifora(u, y, d, u0, 37, 46);
-      if (q !== undefined) return q;
+      if (q !== undefined) { if (q === null) S.nische(r.x, y, r.z); return q; }
     }
   }
   return undefined;
@@ -452,7 +459,7 @@ function wandM(S, r, y) {
       if (eg) q = fenster(f.u, y, d, u0, 1.5, 7, 11, TY.pietra_forte);
       else if (y <= 33) q = fensterOG(f.u, y, d, u0, 20, 26);
       else q = fensterOG(f.u, y, d, u0, 37, 43);
-      if (q !== undefined) return q;
+      if (q !== undefined) { if (q === null) S.nische(r.x, y, r.z); return q; }
     }
   }
   return base;

@@ -9,6 +9,7 @@
 const WZ = require('../../../tools/wahrzeichen');
 const T = WZ.treppe;
 const pvl = require('./pv_lib.js');
+const palette = require('../../../tools/spec/palette.js');
 
 // Geschosse: stand = Stehzelle (y_rel), boden = Plattenzelle darunter, decke = Plattenzelle darüber
 const GESCHOSSE = {
@@ -51,6 +52,58 @@ function istFrei(g, r, yLo, wandCols) {
   if (r.dHm <= 6) return false;
   if (wandCols && wandCols.has(key(r.x, r.z))) return false;
   return true;
+}
+
+// ---------------------------------------------------------------- Turm: Wendel-Treppe im Hohlraum
+// Der Hohlraum (Zone T, dT > 4) ist 4 bis 5 Zellen breit und rund 13 lang (x -136..-131, z 848..860). Die Spirale ist eine
+// rechteckige Doppelwendel: zwei Spuren (West x -135/-134, Ost x -133/-132) und Podeste aus Vollblöcken (2 x 4) an beiden Enden,
+// 4 Stufen je Lauf. Das erste Nordpodest liegt bei y_rel 1 (Schwelle, Stufe am Eingang), das Nordpodest bei y_rel 153 ist der
+// Boden der Glockenstube, das bei y_rel 161 der Boden der Edikula.
+function turmTreppe(g, ck) {
+  const BY = g.bodenY;
+  const hohl = new Set(g.recs.filter((r) => r.zone === 'T' && r.dT > 4).map((r) => r.x * 8192 + r.z));
+  const SP = { W: [-135, -134], O: [-133, -132] }, ALLE = [-135, -134, -133, -132];
+  const N = [852, 853], S = [858, 859], LAUF = [854, 855, 856, 857];
+  const fuell = T.volltyp('pietra_serena');
+  const out = { stufen: [], podeste: [], unter: [], kopf: [], lampen: [], carve: new Set(), tuer: [], eingang: [], hoehen: { glocken: 153, edikula: 161 } };
+  const seen = new Set();
+  const add = (list, x, y, z, typ) => { const k = ck(x, y, z); if (!seen.has(list === out.kopf ? 'k' + k : k)) { seen.add(list === out.kopf ? 'k' + k : k); list.push(typ ? { x, y, z, typ } : { x, y, z }); } };
+  const podest = (zs, H, lampe) => {
+    for (const z of zs) for (const x of ALLE) {
+      if (!hohl.has(x * 8192 + z)) throw new Error('Turm: Podest außerhalb des Hohlraums (' + x + ',' + z + ')');
+      out.podeste.push({ x, y: H, z, typ: lampe && x === ALLE[1] && z === zs[0] ? 'LAMPE' : fuell });
+      for (let h = 1; h <= 3; h++) add(out.kopf, x, H + h, z);
+    }
+  };
+  const stufe = (x, z, y, dir) => {
+    if (!hohl.has(x * 8192 + z)) throw new Error('Turm: Stufe außerhalb des Hohlraums (' + x + ',' + z + ')');
+    out.stufen.push({ x, y, z, typ: palette.treppe('pietra_serena', dir) });
+    out.unter.push({ x, y: y - 1, z, typ: fuell });
+    for (let h = 1; h <= 3; h++) add(out.kopf, x, y + h, z);
+  };
+  // Eingangsstufe im Vorraum (Reihe 851) zum ersten Nordpodest
+  for (const x of ALLE) stufe(x, 851, 1, 's');
+  out.unter = out.unter.filter((u) => u.y >= 1);        // unter der Eingangsstufe liegt der Boden (y_rel 0)
+  let H = 1;
+  podest(N, H, true);
+  while (H < 161) {
+    for (let k = 0; k < 4; k++) for (const x of SP.W) stufe(x, LAUF[k], H + 1 + k, 's');
+    H += 4;
+    podest(S, H, true);
+    for (let k = 0; k < 4; k++) for (const x of SP.O) stufe(x, LAUF[3 - k], H + 1 + k, 'n');
+    H += 4;
+    podest(N, H, true);
+  }
+  // Eingangstür in der Turmwand (Westseite): 3 breit (z 849..851), 7 hoch, vier Zellen tief
+  for (let z = 849; z <= 851; z++) for (let x = -139; x <= -136; x++) {
+    const r = g.rec(x, z);
+    if (!r) continue;
+    for (let y = 1; y <= 7; y++) { out.carve.add(ck(x, y, z)); if (!(r.zone === 'T' && r.dT > 4)) out.tuer.push({ x, y, z }); }
+  }
+  for (const list of [out.stufen, out.podeste, out.unter]) for (const b of list) out.carve.add(ck(b.x, b.y, b.z));
+  for (const c of out.kopf) out.carve.add(ck(c.x, c.y, c.z));
+  for (const b of out.podeste) if (b.typ === 'LAMPE') out.lampen.push(b);
+  return out;
 }
 
 /** Plan für die Geometrie g; wird in g.plan zwischengespeichert. */
@@ -175,6 +228,9 @@ function plan(g) {
   // Dachluken: die Luftzellen über den Wehrgangtreppen (Treppenschacht durch Dachplatte und Dach) sind eine deklarierte Öffnung (Tür)
   P.luken = [];
   for (const L of P.treppen) if (L.id.startsWith('treppe_wehrgang')) for (const c of L.kopf) P.luken.push(c);
+
+  P.turm = turmTreppe(g, ck);
+  for (const c of P.turm.carve) P.carve.add(c);
 
   for (const L of P.treppen) {
     for (const s of L.stufen) P.carve.add(ck(s.x, s.y, s.z));

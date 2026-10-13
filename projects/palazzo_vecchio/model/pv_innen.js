@@ -32,4 +32,14 @@ function treppe(ctx, S, id) {
   return L;
 }
 
-module.exports = { waende, treppe };
+/** Wendeltreppe im Turmhohlraum (Bauteil turm_wendeltreppe): Podeste, Stufen, Unterbau, Eingangstür (deklarierte Öffnung). */
+function turmtreppe(ctx, S) {
+  const P = plan(S.g).turm, TY = pv.TY;
+  const w = ctx.part('turm_wendeltreppe');
+  for (const u of P.unter) S.putForce(w, u.x, u.y, u.z, u.typ, 'turm_wendeltreppe');
+  for (const p of P.podeste) S.putForce(w, p.x, p.y, p.z, p.typ === 'LAMPE' ? TY.licht : p.typ, 'turm_wendeltreppe');
+  for (const s of P.stufen) S.putForce(w, s.x, s.y, s.z, s.typ, 'turm_wendeltreppe');
+  ctx.oeffnung(P.tuer.map((c) => ({ x: c.x, y: c.y + S.bodenY, z: c.z })), 'tuer');
+}
+
+module.exports = { waende, treppe, turmtreppe };
