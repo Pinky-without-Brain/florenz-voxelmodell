@@ -31,6 +31,20 @@
       "tip": "Die Konsolen sitzen zwei Lagen unter dem Gewölbeansatz, direkt an der Rückwand.",
       "caution": "Am Ostende ist der äußere Ansatz zur Halle hin versetzt, weil der Seitenbogen die Zellen belegt.",
       "fact": "Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen."
+    },
+    "gewoelbe_laternen": {
+      "title": "Laternen in den Gewölbescheiteln",
+      "description": "Du ersetzt in jedem der drei Joche zwei Schalenblöcke auf der Längsachse durch Seelaternen. Sie beleuchten die Halle so, dass kein Hallenboden weiter als 12 Blöcke von einer Laterne entfernt liegt.",
+      "tip": "Setze die Laternen anstelle der untersten Gewölbeschicht, die Schale darüber bleibt geschlossen.",
+      "caution": "Lasse die Schale darüber unberührt.",
+      "fact": "Die Kreuzgewölbe der Loggia ruhen auf vier Pfeilern; Licht spendeten ursprünglich die weiten Bögen. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1."
+    },
+    "gewoelbe_hinterfuellung": {
+      "title": "Hinterfüllung über den Gewölben",
+      "description": "Über den Gewölben füllst du die Zwickel bis zur Unterkante der Terrasse (Y 94) mit Bruchstein auf. Es bleibt kein Hohlraum ohne Zugang, und die Terrasse ruht sicher.",
+      "tip": "Fülle Lage für Lage von der Gewölbeschale aus.",
+      "caution": "Die Laternen bleiben unter der Schale sichtbar, nicht überbauen.",
+      "fact": "Gewölbe bekommen in der Praxis eine Aufschüttung, die die Lasten verteilt (Bauweise, vereinfacht)."
     }
   }
 }

@@ -11,13 +11,6 @@
       "caution": "Die Pilaster stehen schon; lass ihre Zellen aus.",
       "fact": "Im Westen ist die Rückwand dicker: Dort ist der Grundriss gegenüber dem Ostteil um drei Blöcke tiefer."
     },
-    "seitenwand_pfeilerverbindung": {
-      "title": "Schwelle des Seitenbogens",
-      "description": "Am Fuß der Ostseite legst du eine Schwelle aus Pietra serena, zwei Lagen hoch und drei Blöcke dick, über die Breite des Seitenbogens (X −172 bis −166, Y 68 bis 69, Z 885 bis 896, 78 Blöcke).",
-      "tip": "Sie schließt an die Sockel der Ecke und der Rückwand an.",
-      "caution": "Oberhalb der Schwelle bleibt die Bogenöffnung später frei.",
-      "fact": "Der Seitenbogen an der Ostseite öffnet die Halle auf den Durchgang zwischen Loggia und Palazzo Vecchio."
-    },
     "rueckwand": {
       "title": "Rückwand",
       "description": "Du mauerst die Rückwand aus Pietra forte von Y 70 bis 96 (27 Lagen): im Ostteil drei, im Westteil sechs Blöcke dick, zusammen 10.627 Blöcke (X −244 bis −171, Z 872 bis 902). Das ist der mächtigste Baukörper der Loggia; im Osten grenzen die Uffizien an sie.",
@@ -52,6 +45,27 @@
       "tip": "Rechne vom Kämpfer (Y 80) neun Blöcke nach oben bis zum Scheitel, markiere die Kreise und mauere dann um sie herum.",
       "caution": "Die Wand endet auf Y 91; Fries und Medaillons folgen in Modul 5.",
       "fact": "Die Bögen sind ungewöhnlich hoch und weit; sie ließen Licht und Blicke auf die Piazza zu und machten die Loggia zur Bühne der Stadt."
+    },
+    "turm_treppe": {
+      "title": "Treppenturm: Wendeltreppe (Spielzugang)",
+      "description": "Du baust in der Rückwand eine Wendeltreppe 5 × 5 aus Treppenblöcken (Pietra serena) um einen Kern aus Vollblöcken. Pro Viertelumlauf steigt sie um einen Block; nach 29 Blöcken erreichst du die Terrasse auf Y 97. Kennzeichnung: Spielzugang, nicht historisch.",
+      "tip": "Baue Umlauf für Umlauf; die Podeste an den Ecken sind Vollblöcke, die Seiten Treppenblöcke.",
+      "caution": "Über jeder Stufe bleiben drei Blöcke Luft frei.",
+      "fact": "Historisch führte der Zugang zur Terrasse von der Rückseite der Uffizien her, die an die Loggia angeschlossen sind. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1."
+    },
+    "turm_laternen": {
+      "title": "Laternen im Turmkern",
+      "description": "Im Kern des Treppenturms ersetzt du vier Kernblöcke durch Seelaternen (Y 72, 78, 84, 90), damit der Schacht hell ist.",
+      "tip": "Nimm den Kernblock heraus und setze die Laterne an seine Stelle.",
+      "caution": "Lasse die Laternen nicht aus; Minecraft-Innenräume sind sonst dunkel.",
+      "fact": "Licht im Innern ist ein Spielzugeständnis; im Original fiel Tageslicht durch die Bogenöffnungen."
+    },
+    "turm_huelle": {
+      "title": "Turmmantel mit Tür",
+      "description": "Du ummantelst die Wendeltreppe mit einer Wand aus Pietra forte (7 × 7, Y 68 bis 96). Auf der Hallenseite sparst du eine Tür 2 breit und 3 hoch aus, bei Bedarf als kurzer Tunnel durch die Rückwand. Sie öffnet auf den Hallenboden.",
+      "tip": "Setze zuerst den Ring, dann lasse die Türzellen aus.",
+      "caution": "Die Tür muss frei bleiben, sonst ist die Terrasse nicht erreichbar.",
+      "fact": "Die Rückwand der Loggia ist im Westteil sechs Blöcke dick und nimmt den Turm auf. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1."
     }
   }
 }
