@@ -65,7 +65,7 @@ module.exports = function tribuna(P) {
       if (j < 0 || topOf[j] < 0) { continue; }
       yHi = Math.max(yHi, topOf[j]);
     }
-    const yLo = rhoO[i] > aO - 1 ? SPRING : lo0;
+    const yLo = rhoO[i] > aO - 3 ? SPRING : lo0;      // der Kuppelfuß liegt auf dem ganzen Tambourring (kein Absatz)
     for (let L = yLo; L <= yHi; L++) claim(i, L, 'tribuna_kuppel', 'dach');
   }
   P.tribuna.kuppelTop = topOf;
@@ -82,5 +82,11 @@ module.exports = function tribuna(P) {
       claim(i, L, 'tribuna_laterne', 'serena');
     }
     range(i, 77, 78, 'tribuna_laterne', 'dach');
+  }
+  // Innenraum der Laterne (nicht zugänglich, R13): Zellen Lage 68..76 innerhalb des Rings
+  P.laterneInnen = [];
+  for (let i = 0; i < N; i++) {
+    if (rhoL[i] > aL - 1) continue;
+    for (let L = 68; L <= 76; L++) if (P.free(i, L) || P.own[i * P.SLOTS + L] === P.AIR_ID) P.laterneInnen.push(i * P.SLOTS + L);
   }
 };

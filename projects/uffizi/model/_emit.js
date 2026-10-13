@@ -1,6 +1,6 @@
 'use strict';
 // Gemeinsame Ausgabe der Bauteile aus dem Belegungsplan in die Module.
-const { cells, plan } = require('./_plan.js');
+const { cells, plan, PART_LIST } = require('./_plan.js');
 
 /** Öffnungen (R14) der Bauteile `names` deklarieren: Luftzellen, die der Plan als Öffnung gemerkt hat und die noch leer sind. */
 function deklariere(ctx, names) {
@@ -32,4 +32,16 @@ function emit(ctx, names) {
   deklariere(ctx, names);
 }
 
-module.exports = { emit, deklariere };
+/** Nicht zugängliche Räume (R13) deklarieren: Plan-Schlüssel k = Spalte * SLOTS + Lage -> Weltzellen. */
+function unzugaenglich(ctx, keys, begruendung) {
+  const { S, SLOTS } = plan();
+  const list = keys.map((k) => { const i = Math.floor(k / SLOTS), L = k - i * SLOTS; return { x: S.cx[i], y: S.BODEN + L, z: S.cz[i] }; });
+  if (list.length) ctx.unzugaenglich(list, begruendung);
+}
+
+/** Alle Bauteile des Moduls n aus der Bauteilliste des Plans, in Listenreihenfolge. */
+function emitModul(ctx, n) {
+  emit(ctx, PART_LIST.filter(([, m]) => m === n).map(([name]) => name));
+}
+
+module.exports = { emit, emitModul, deklariere, unzugaenglich };

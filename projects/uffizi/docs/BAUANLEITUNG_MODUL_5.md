@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 186.440 |
+| Blöcke | 186.476 |
 | Bauschritte | 105 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -346 bis -80 (267 Blöcke) |
@@ -21,18 +21,18 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 136.925 | 73,4 % |
-| Polierter Andesit | `polished_andesite` | 32.504 | 17,4 % |
-| Glatter Stein | `smooth_stone` | 11.205 | 6,0 % |
+| Endsteinziegel | `end_stone_bricks` | 136.952 | 73,4 % |
+| Polierter Andesit | `polished_andesite` | 32.512 | 17,4 % |
+| Glatter Stein | `smooth_stone` | 11.206 | 6,0 % |
 | Graues Buntglas | `gray_stained_glass` | 5.806 | 3,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `rueckseiten_sockel` | Sockel der Rückseiten | 32.504 | 5.1–5.16 |
-| 2 | `rueckseiten_wand` | Wand der Rückseiten mit Fenstern und Eckquadern | 134.804 | 5.17–5.94 |
-| 3 | `rueckseiten_gesims` | Gesims der Rückseiten | 1.184 | 5.95 |
+| 1 | `rueckseiten_sockel` | Sockel der Rückseiten | 32.512 | 5.1–5.16 |
+| 2 | `rueckseiten_wand` | Wand der Rückseiten mit Fenstern und Eckquadern | 134.831 | 5.17–5.94 |
+| 3 | `rueckseiten_gesims` | Gesims der Rückseiten | 1.185 | 5.95 |
 | 4 | `loggia_anschluss` | Anschluss an die Loggia dei Lanzi | 5.304 | 5.96–5.98 |
 | 5 | `ostnord_front` | Nordfront des Ostflügels mit Korridoröffnung | 12.644 | 5.99–5.105 |
 
@@ -41,14 +41,14 @@
 ### Schritt 5.1 – Sockel der Rückseiten – Teil 1/16 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -97,14 +97,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.3 – Sockel der Rückseiten – Teil 3/16 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -153,14 +153,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.5 – Sockel der Rückseiten – Teil 5/16 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -209,14 +209,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.7 – Sockel der Rückseiten – Teil 7/16 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -265,14 +265,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.9 – Sockel der Rückseiten – Teil 9/16 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -321,14 +321,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.11 – Sockel der Rückseiten – Teil 11/16 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -377,14 +377,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.13 – Sockel der Rückseiten – Teil 13/16 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -433,14 +433,14 @@ Die Rückseiten zu den Gassen sind schlichter als der Platz. Hier wird die Stadt
 ### Schritt 5.15 – Sockel der Rückseiten – Teil 15/16 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 2.029
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 2.029 |
+| Polierter Andesit | `polished_andesite` | 2.030 |
 
 **Beschreibung**
 
@@ -637,14 +637,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.22 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 6/78 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.512
+- **Blöcke:** 1.513
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.199 |
+| Endsteinziegel | `end_stone_bricks` | 1.200 |
 | Graues Buntglas | `gray_stained_glass` | 180 |
 | Glatter Stein | `smooth_stone` | 133 |
 
@@ -697,14 +697,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.24 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 8/78 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.513
+- **Blöcke:** 1.512
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.202 |
+| Endsteinziegel | `end_stone_bricks` | 1.201 |
 | Graues Buntglas | `gray_stained_glass` | 180 |
 | Glatter Stein | `smooth_stone` | 131 |
 
@@ -847,14 +847,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.29 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 13/78 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 2.019
+- **Blöcke:** 2.020
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.677 |
+| Endsteinziegel | `end_stone_bricks` | 1.678 |
 | Glatter Stein | `smooth_stone` | 342 |
 
 **Beschreibung**
@@ -905,14 +905,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.31 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 15/78 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 2.019
+- **Blöcke:** 2.020
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.987 |
+| Endsteinziegel | `end_stone_bricks` | 1.988 |
 | Glatter Stein | `smooth_stone` | 32 |
 
 **Beschreibung**
@@ -963,14 +963,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.33 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 17/78 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 2.019
+- **Blöcke:** 2.020
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.978 |
+| Endsteinziegel | `end_stone_bricks` | 1.979 |
 | Glatter Stein | `smooth_stone` | 41 |
 
 **Beschreibung**
@@ -1021,14 +1021,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.35 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 19/78 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.019
+- **Blöcke:** 2.020
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.987 |
+| Endsteinziegel | `end_stone_bricks` | 1.988 |
 | Glatter Stein | `smooth_stone` | 32 |
 
 **Beschreibung**
@@ -1195,14 +1195,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.41 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 25/78 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 2.028
+- **Blöcke:** 2.029
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.682 |
+| Endsteinziegel | `end_stone_bricks` | 1.683 |
 | Glatter Stein | `smooth_stone` | 346 |
 
 **Beschreibung**
@@ -1253,14 +1253,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.43 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 27/78 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.506
+- **Blöcke:** 1.507
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.173 |
+| Endsteinziegel | `end_stone_bricks` | 1.174 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 146 |
 
@@ -1313,14 +1313,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.45 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 29/78 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.506
+- **Blöcke:** 1.507
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.168 |
+| Endsteinziegel | `end_stone_bricks` | 1.169 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 151 |
 
@@ -1343,14 +1343,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.46 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 30/78 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.512
+- **Blöcke:** 1.513
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.199 |
+| Endsteinziegel | `end_stone_bricks` | 1.200 |
 | Graues Buntglas | `gray_stained_glass` | 180 |
 | Glatter Stein | `smooth_stone` | 133 |
 
@@ -1373,14 +1373,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.47 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 31/78 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.506
+- **Blöcke:** 1.507
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.173 |
+| Endsteinziegel | `end_stone_bricks` | 1.174 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 146 |
 
@@ -1433,14 +1433,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.49 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 33/78 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.506
+- **Blöcke:** 1.507
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.168 |
+| Endsteinziegel | `end_stone_bricks` | 1.169 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 151 |
 
@@ -1493,14 +1493,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.51 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 35/78 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.506
+- **Blöcke:** 1.507
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.173 |
+| Endsteinziegel | `end_stone_bricks` | 1.174 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 146 |
 
@@ -1553,14 +1553,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.53 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 37/78 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 2.028
+- **Blöcke:** 2.029
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.687 |
+| Endsteinziegel | `end_stone_bricks` | 1.688 |
 | Glatter Stein | `smooth_stone` | 341 |
 
 **Beschreibung**
@@ -1611,14 +1611,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.55 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 39/78 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 2.028
+- **Blöcke:** 2.029
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.998 |
 | Glatter Stein | `smooth_stone` | 31 |
 
 **Beschreibung**
@@ -2133,14 +2133,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.73 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 57/78 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
-- **Blöcke:** 2.028
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.687 |
+| Endsteinziegel | `end_stone_bricks` | 1.689 |
 | Glatter Stein | `smooth_stone` | 341 |
 
 **Beschreibung**
@@ -2191,14 +2191,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.75 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 59/78 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.506
+- **Blöcke:** 1.508
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.173 |
+| Endsteinziegel | `end_stone_bricks` | 1.175 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 146 |
 
@@ -2251,14 +2251,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.77 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 61/78 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
-- **Blöcke:** 1.506
+- **Blöcke:** 1.508
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.168 |
+| Endsteinziegel | `end_stone_bricks` | 1.170 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 151 |
 
@@ -2311,14 +2311,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.79 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 63/78 (Y 105–105)
 
 - **Y-Bereich:** 105 bis 105
-- **Blöcke:** 1.506
+- **Blöcke:** 1.508
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.173 |
+| Endsteinziegel | `end_stone_bricks` | 1.175 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 146 |
 
@@ -2371,14 +2371,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.81 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 65/78 (Y 106–106)
 
 - **Y-Bereich:** 106 bis 106
-- **Blöcke:** 1.506
+- **Blöcke:** 1.508
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.168 |
+| Endsteinziegel | `end_stone_bricks` | 1.170 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 151 |
 
@@ -2431,14 +2431,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.83 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 67/78 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
-- **Blöcke:** 1.506
+- **Blöcke:** 1.508
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.173 |
+| Endsteinziegel | `end_stone_bricks` | 1.175 |
 | Graues Buntglas | `gray_stained_glass` | 187 |
 | Glatter Stein | `smooth_stone` | 146 |
 
@@ -2491,14 +2491,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.85 – Wand der Rückseiten mit Fenstern und Eckquadern – Teil 69/78 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
-- **Blöcke:** 2.028
+- **Blöcke:** 2.030
 - **Bauteile:** `rueckseiten_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.687 |
+| Endsteinziegel | `end_stone_bricks` | 1.689 |
 | Glatter Stein | `smooth_stone` | 341 |
 
 **Beschreibung**
@@ -2780,14 +2780,14 @@ Die Eckquader aus Pietra serena zeichnen die Ecken des Palastes.
 ### Schritt 5.95 – Gesims der Rückseiten
 
 - **Y-Bereich:** 109 bis 116
-- **Blöcke:** 1.184
+- **Blöcke:** 1.185
 - **Bauteile:** `rueckseiten_gesims`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.184 |
+| Glatter Stein | `smooth_stone` | 1.185 |
 
 **Beschreibung**
 

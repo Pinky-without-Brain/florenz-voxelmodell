@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 43.531 |
+| Blöcke | 43.516 |
 | Bauschritte | 33 |
 | Y-Bereich | 80 bis 101 |
 | X-Ausdehnung | -256 bis -142 (115 Blöcke) |
@@ -21,31 +21,31 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 30.727 | 70,6 % |
-| Glatter Stein | `smooth_stone` | 10.474 | 24,1 % |
+| Endsteinziegel | `end_stone_bricks` | 30.726 | 70,6 % |
+| Glatter Stein | `smooth_stone` | 10.460 | 24,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.330 | 5,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `mezzanin_wand` | Mezzaninwand | 10.044 | 2.1–2.8 |
-| 2 | `nobile_wand` | Piano nobile mit Fenstern und Giebeln | 29.550 | 2.9–2.30 |
-| 3 | `gurtgesimse` | Gurtgesimse | 3.937 | 2.31–2.33 |
+| 1 | `mezzanin_wand` | Mezzaninwand | 10.038 | 2.1–2.8 |
+| 2 | `nobile_wand` | Piano nobile mit Fenstern und Giebeln | 29.542 | 2.9–2.30 |
+| 3 | `gurtgesimse` | Gurtgesimse | 3.936 | 2.31–2.33 |
 
 ## Bauschritte
 
 ### Schritt 2.1 – Mezzaninwand – Teil 1/8 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.109
+- **Blöcke:** 1.108
 - **Bauteile:** `mezzanin_wand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.109 |
+| Endsteinziegel | `end_stone_bricks` | 1.108 |
 
 **Beschreibung**
 
@@ -94,7 +94,7 @@ Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss m
 ### Schritt 2.3 – Mezzaninwand – Teil 3/8 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.109
+- **Blöcke:** 1.108
 - **Bauteile:** `mezzanin_wand`
 
 **Teileliste**
@@ -102,7 +102,7 @@ Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss m
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 756 |
-| Glatter Stein | `smooth_stone` | 353 |
+| Glatter Stein | `smooth_stone` | 352 |
 
 **Beschreibung**
 
@@ -152,7 +152,7 @@ Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss m
 ### Schritt 2.5 – Mezzaninwand – Teil 5/8 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.680
+- **Blöcke:** 1.678
 - **Bauteile:** `mezzanin_wand`
 
 **Teileliste**
@@ -160,7 +160,7 @@ Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss m
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 273 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -182,7 +182,7 @@ Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss m
 ### Schritt 2.6 – Mezzaninwand – Teil 6/8 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.680
+- **Blöcke:** 1.678
 - **Bauteile:** `mezzanin_wand`
 
 **Teileliste**
@@ -190,7 +190,7 @@ Das Zwischengeschoss ist mit 3 Metern deutlich niedriger als das Hauptgeschoss m
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 273 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -438,7 +438,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.15 – Piano nobile mit Fenstern und Giebeln – Teil 7/22 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -446,7 +446,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -468,7 +468,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.16 – Piano nobile mit Fenstern und Giebeln – Teil 8/22 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -476,7 +476,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -498,7 +498,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.17 – Piano nobile mit Fenstern und Giebeln – Teil 9/22 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -506,7 +506,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -528,7 +528,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.18 – Piano nobile mit Fenstern und Giebeln – Teil 10/22 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -536,7 +536,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -558,7 +558,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.19 – Piano nobile mit Fenstern und Giebeln – Teil 11/22 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -566,7 +566,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -588,7 +588,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.20 – Piano nobile mit Fenstern und Giebeln – Teil 12/22 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -596,7 +596,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -618,7 +618,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.21 – Piano nobile mit Fenstern und Giebeln – Teil 13/22 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -626,7 +626,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -648,7 +648,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.22 – Piano nobile mit Fenstern und Giebeln – Teil 14/22 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.679
+- **Blöcke:** 1.678
 - **Bauteile:** `nobile_wand`
 
 **Teileliste**
@@ -656,7 +656,7 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.174 |
-| Glatter Stein | `smooth_stone` | 272 |
+| Glatter Stein | `smooth_stone` | 271 |
 | Graues Buntglas | `gray_stained_glass` | 233 |
 
 **Beschreibung**
@@ -910,14 +910,14 @@ Oberkante Y 101 ist der Boden des Vasari-Korridors. Er läuft in dieser Höhe vo
 ### Schritt 2.31 – Gurtgesimse – Teil 1/3 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.116
+- **Blöcke:** 1.115
 - **Bauteile:** `gurtgesimse`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.116 |
+| Glatter Stein | `smooth_stone` | 1.115 |
 
 **Beschreibung**
 

@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.970 |
+| Blöcke | 49.879 |
 | Bauschritte | 32 |
 | Y-Bereich | 101 bis 116 |
 | X-Ausdehnung | -265 bis -132 (134 Blöcke) |
 | Z-Ausdehnung | 903 bis 1182 (280 Blöcke) |
 | Kleinster Schritt | 1.094 Blöcke (Schritt 3.31) |
-| Mittlerer Schritt | 1.562 Blöcke |
+| Mittlerer Schritt | 1.559 Blöcke |
 | Größter Schritt | 2.032 Blöcke (Schritt 3.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 27.301 | 54,6 % |
-| Glatter Stein | `smooth_stone` | 15.952 | 31,9 % |
+| Endsteinziegel | `end_stone_bricks` | 27.210 | 54,6 % |
+| Glatter Stein | `smooth_stone` | 15.952 | 32,0 % |
 | Graues Buntglas | `gray_stained_glass` | 6.357 | 12,7 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 360 | 0,7 % |
 
@@ -33,7 +33,7 @@
 | 1 | `loggia_boden` | Galerieboden | 5.560 | 3.1–3.3 |
 | 2 | `loggia_pfeiler_saeulen` | Pfeiler und Säulen der Dachloggia | 6.604 | 3.4–3.7 |
 | 3 | `loggia_verglasung` | Verglasung der Dachloggia | 6.357 | 3.8–3.11 |
-| 4 | `loggia_rueckwand` | Rückwand der Dachloggia | 27.301 | 3.12–3.29 |
+| 4 | `loggia_rueckwand` | Rückwand der Dachloggia | 27.210 | 3.12–3.29 |
 | 5 | `kranzgesims` | Kranzgesims | 4.148 | 3.30–3.32 |
 
 ## Bauschritte
@@ -350,14 +350,14 @@ Der Bauteil-Katalog folgt dem heutigen Zustand mit durchgehender Verglasung.
 ### Schritt 3.12 – Rückwand der Dachloggia – Teil 1/18 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -378,14 +378,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.13 – Rückwand der Dachloggia – Teil 2/18 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -406,14 +406,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.14 – Rückwand der Dachloggia – Teil 3/18 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -434,14 +434,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.15 – Rückwand der Dachloggia – Teil 4/18 (Y 105–105)
 
 - **Y-Bereich:** 105 bis 105
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -462,14 +462,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.16 – Rückwand der Dachloggia – Teil 5/18 (Y 106–106)
 
 - **Y-Bereich:** 106 bis 106
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -490,14 +490,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.17 – Rückwand der Dachloggia – Teil 6/18 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -518,14 +518,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.18 – Rückwand der Dachloggia – Teil 7/18 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -546,14 +546,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.19 – Rückwand der Dachloggia – Teil 8/18 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.997
+- **Blöcke:** 1.985
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.997 |
+| Endsteinziegel | `end_stone_bricks` | 1.985 |
 
 **Beschreibung**
 
@@ -602,14 +602,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.21 – Rückwand der Dachloggia – Teil 10/18 (Y 110–110)
 
 - **Y-Bereich:** 110 bis 110
-- **Blöcke:** 1.139
+- **Blöcke:** 1.140
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.139 |
+| Endsteinziegel | `end_stone_bricks` | 1.140 |
 
 **Beschreibung**
 
@@ -658,14 +658,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.23 – Rückwand der Dachloggia – Teil 12/18 (Y 111–111)
 
 - **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.139
+- **Blöcke:** 1.140
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.139 |
+| Endsteinziegel | `end_stone_bricks` | 1.140 |
 
 **Beschreibung**
 
@@ -714,14 +714,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.25 – Rückwand der Dachloggia – Teil 14/18 (Y 112–112)
 
 - **Y-Bereich:** 112 bis 112
-- **Blöcke:** 1.139
+- **Blöcke:** 1.140
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.139 |
+| Endsteinziegel | `end_stone_bricks` | 1.140 |
 
 **Beschreibung**
 
@@ -770,14 +770,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.27 – Rückwand der Dachloggia – Teil 16/18 (Y 113–113)
 
 - **Y-Bereich:** 113 bis 113
-- **Blöcke:** 1.139
+- **Blöcke:** 1.140
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.139 |
+| Endsteinziegel | `end_stone_bricks` | 1.140 |
 
 **Beschreibung**
 
@@ -826,14 +826,14 @@ Der Durchgang liegt genau auf der Achse der Tür im Erdgeschoss.
 ### Schritt 3.29 – Rückwand der Dachloggia – Teil 18/18 (Y 114–114)
 
 - **Y-Bereich:** 114 bis 114
-- **Blöcke:** 1.139
+- **Blöcke:** 1.140
 - **Bauteile:** `loggia_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.139 |
+| Endsteinziegel | `end_stone_bricks` | 1.140 |
 
 **Beschreibung**
 

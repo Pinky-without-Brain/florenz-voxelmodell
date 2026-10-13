@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 83.061 |
-| Bauschritte | 50 |
+| Blöcke | 83.344 |
+| Bauschritte | 51 |
 | Y-Bereich | 66 bis 143 |
 | X-Ausdehnung | -346 bis -80 (267 Blöcke) |
 | Z-Ausdehnung | 898 bis 1213 (316 Blöcke) |
-| Kleinster Schritt | 326 Blöcke (Schritt 6.50) |
-| Mittlerer Schritt | 1.661 Blöcke |
+| Kleinster Schritt | 326 Blöcke (Schritt 6.51) |
+| Mittlerer Schritt | 1.634 Blöcke |
 | Größter Schritt | 2.086 Blöcke (Schritt 6.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 66.976 | 80,6 % |
-| Endsteinziegel | `end_stone_bricks` | 15.187 | 18,3 % |
+| Terrakotta | `terracotta` | 67.481 | 81,0 % |
+| Endsteinziegel | `end_stone_bricks` | 14.963 | 18,0 % |
 | Glatter Stein | `smooth_stone` | 758 | 0,9 % |
-| Graues Buntglas | `gray_stained_glass` | 140 | 0,2 % |
+| Graues Buntglas | `gray_stained_glass` | 142 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `dach_nebenbau` | Dach des Nebenbaus | 21.184 | 6.1–6.14 |
-| 2 | `dach_fluegel` | Dach der Flügel und des Südbaus | 43.754 | 6.15–6.39 |
-| 3 | `tribuna_tambour` | Tribuna: Schacht und Tambour | 15.851 | 6.40–6.48 |
-| 4 | `tribuna_kuppel` | Tribuna: Kuppel | 1.946 | 6.49 |
-| 5 | `tribuna_laterne` | Tribuna: Laterne | 326 | 6.50 |
+| 1 | `dach_nebenbau` | Dach des Nebenbaus | 21.185 | 6.1–6.14 |
+| 2 | `dach_fluegel` | Dach der Flügel und des Südbaus | 43.698 | 6.15–6.39 |
+| 3 | `tribuna_tambour` | Tribuna: Schacht und Tambour | 15.629 | 6.40–6.48 |
+| 4 | `tribuna_kuppel` | Tribuna: Kuppel | 2.506 | 6.49–6.50 |
+| 5 | `tribuna_laterne` | Tribuna: Laterne | 326 | 6.51 |
 
 ## Bauschritte
 
@@ -265,14 +265,14 @@ Dachziegel aus Terrakotta prägen das Stadtbild von Florenz.
 ### Schritt 6.9 – Dach des Nebenbaus – Teil 9/14 (Y 114–114)
 
 - **Y-Bereich:** 114 bis 114
-- **Blöcke:** 1.314
+- **Blöcke:** 1.315
 - **Bauteile:** `dach_nebenbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.314 |
+| Terrakotta | `terracotta` | 1.315 |
 
 **Beschreibung**
 
@@ -433,14 +433,14 @@ Dachziegel aus Terrakotta prägen das Stadtbild von Florenz.
 ### Schritt 6.15 – Dach der Flügel und des Südbaus – Teil 1/25 (Y 110–116)
 
 - **Y-Bereich:** 110 bis 116
-- **Blöcke:** 1.928
+- **Blöcke:** 1.875
 - **Bauteile:** `dach_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.928 |
+| Terrakotta | `terracotta` | 1.875 |
 
 **Beschreibung**
 
@@ -797,14 +797,14 @@ Das flache Dach ist von der Straße kaum zu sehen.
 ### Schritt 6.28 – Dach der Flügel und des Südbaus – Teil 14/25 (Y 120–120)
 
 - **Y-Bereich:** 120 bis 120
-- **Blöcke:** 1.581
+- **Blöcke:** 1.580
 - **Bauteile:** `dach_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.581 |
+| Terrakotta | `terracotta` | 1.580 |
 
 **Beschreibung**
 
@@ -881,14 +881,14 @@ Das flache Dach ist von der Straße kaum zu sehen.
 ### Schritt 6.31 – Dach der Flügel und des Südbaus – Teil 17/25 (Y 121–121)
 
 - **Y-Bereich:** 121 bis 121
-- **Blöcke:** 1.426
+- **Blöcke:** 1.425
 - **Bauteile:** `dach_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.426 |
+| Terrakotta | `terracotta` | 1.425 |
 
 **Beschreibung**
 
@@ -965,14 +965,14 @@ Das flache Dach ist von der Straße kaum zu sehen.
 ### Schritt 6.34 – Dach der Flügel und des Südbaus – Teil 20/25 (Y 122–122)
 
 - **Y-Bereich:** 122 bis 122
-- **Blöcke:** 1.803
+- **Blöcke:** 1.802
 - **Bauteile:** `dach_fluegel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.803 |
+| Terrakotta | `terracotta` | 1.802 |
 
 **Beschreibung**
 
@@ -1133,14 +1133,14 @@ Das flache Dach ist von der Straße kaum zu sehen.
 ### Schritt 6.40 – Tribuna: Schacht und Tambour – Teil 1/9 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.656
+- **Blöcke:** 1.608
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.656 |
+| Endsteinziegel | `end_stone_bricks` | 1.608 |
 
 **Beschreibung**
 
@@ -1161,14 +1161,14 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.41 – Tribuna: Schacht und Tambour – Teil 2/9 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
-- **Blöcke:** 1.932
+- **Blöcke:** 1.916
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.932 |
+| Endsteinziegel | `end_stone_bricks` | 1.916 |
 
 **Beschreibung**
 
@@ -1189,14 +1189,14 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.42 – Tribuna: Schacht und Tambour – Teil 3/9 (Y 79–84)
 
 - **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.656
+- **Blöcke:** 1.624
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.656 |
+| Endsteinziegel | `end_stone_bricks` | 1.624 |
 
 **Beschreibung**
 
@@ -1217,14 +1217,14 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.43 – Tribuna: Schacht und Tambour – Teil 4/9 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.932
+- **Blöcke:** 1.884
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.932 |
+| Endsteinziegel | `end_stone_bricks` | 1.884 |
 
 **Beschreibung**
 
@@ -1245,14 +1245,14 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.44 – Tribuna: Schacht und Tambour – Teil 5/9 (Y 92–97)
 
 - **Y-Bereich:** 92 bis 97
-- **Blöcke:** 1.656
+- **Blöcke:** 1.640
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.656 |
+| Endsteinziegel | `end_stone_bricks` | 1.640 |
 
 **Beschreibung**
 
@@ -1273,14 +1273,14 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.45 – Tribuna: Schacht und Tambour – Teil 6/9 (Y 98–103)
 
 - **Y-Bereich:** 98 bis 103
-- **Blöcke:** 1.656
+- **Blöcke:** 1.640
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.656 |
+| Endsteinziegel | `end_stone_bricks` | 1.640 |
 
 **Beschreibung**
 
@@ -1301,14 +1301,14 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.46 – Tribuna: Schacht und Tambour – Teil 7/9 (Y 104–110)
 
 - **Y-Bereich:** 104 bis 110
-- **Blöcke:** 1.932
+- **Blöcke:** 1.884
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.932 |
+| Endsteinziegel | `end_stone_bricks` | 1.884 |
 
 **Beschreibung**
 
@@ -1357,7 +1357,7 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 ### Schritt 6.48 – Tribuna: Schacht und Tambour – Teil 9/9 (Y 117–123)
 
 - **Y-Bereich:** 117 bis 123
-- **Blöcke:** 1.773
+- **Blöcke:** 1.775
 - **Bauteile:** `tribuna_tambour`
 
 **Teileliste**
@@ -1366,7 +1366,7 @@ Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ei
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.109 |
 | Glatter Stein | `smooth_stone` | 552 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
 
 **Beschreibung**
 
@@ -1384,17 +1384,17 @@ Der Grundriss stammt aus dem Kartenmaterial. Die Höhen sind geschätzt, die Deu
 
 Die Tribuna der Uffizien ist ein berühmter achteckiger Saal. Die Karte zeigt ein größeres Achteck, als der historische Saal gewesen sein dürfte.
 
-### Schritt 6.49 – Tribuna: Kuppel
+### Schritt 6.49 – Tribuna: Kuppel – Teil 1/2 (Y 124–128)
 
-- **Y-Bereich:** 124 bis 132
-- **Blöcke:** 1.946
+- **Y-Bereich:** 124 bis 128
+- **Blöcke:** 1.312
 - **Bauteile:** `tribuna_kuppel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.946 |
+| Terrakotta | `terracotta` | 1.312 |
 
 **Beschreibung**
 
@@ -1412,7 +1412,35 @@ Der Rand muss voll auf dem Tambour aufliegen.
 
 Die Form der Kuppel heißt Klostergewölbe: Sie folgt den acht Seiten des Raumes.
 
-### Schritt 6.50 – Tribuna: Laterne
+### Schritt 6.50 – Tribuna: Kuppel – Teil 2/2 (Y 129–132)
+
+- **Y-Bereich:** 129 bis 132
+- **Blöcke:** 1.194
+- **Bauteile:** `tribuna_kuppel`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.194 |
+
+**Beschreibung**
+
+Über dem Achteck wölbst du eine flache Kuppel aus Terrakotta: Kämpfer auf Lage 59, Scheitel auf Lage 67, Dicke 2. Sie springt vom Tambour in einem sanften Bogen nach oben.
+
+**Tipp**
+
+Wölbe von außen nach innen, die Mitte zuletzt.
+
+**Achtung**
+
+Der Rand muss voll auf dem Tambour aufliegen.
+
+**Fakt**
+
+Die Form der Kuppel heißt Klostergewölbe: Sie folgt den acht Seiten des Raumes.
+
+### Schritt 6.51 – Tribuna: Laterne
 
 - **Y-Bereich:** 133 bis 143
 - **Blöcke:** 326

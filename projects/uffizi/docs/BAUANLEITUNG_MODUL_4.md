@@ -8,32 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 28.440 |
-| Bauschritte | 17 |
+| Blöcke | 31.264 |
+| Bauschritte | 19 |
 | Y-Bereich | 66 bis 116 |
 | X-Ausdehnung | -284 bis -184 (101 Blöcke) |
 | Z-Ausdehnung | 1167 bis 1215 (49 Blöcke) |
-| Kleinster Schritt | 877 Blöcke (Schritt 4.13) |
-| Mittlerer Schritt | 1.673 Blöcke |
+| Kleinster Schritt | 872 Blöcke (Schritt 4.13) |
+| Mittlerer Schritt | 1.645 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 4.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 22.017 | 77,4 % |
-| Glatter Stein | `smooth_stone` | 5.086 | 17,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.265 | 4,4 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 72 | 0,3 % |
+| Endsteinziegel | `end_stone_bricks` | 23.463 | 75,0 % |
+| Glatter Stein | `smooth_stone` | 6.006 | 19,2 % |
+| Graues Buntglas | `gray_stained_glass` | 1.639 | 5,2 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 156 | 0,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `suedbau_waende` | Wände des Südbaus | 22.377 | 4.1–4.12 |
-| 2 | `serliana` | Serliana an der Platzseite | 877 | 4.13 |
-| 3 | `durchgang_arno` | Durchgang zum Arno | 2.943 | 4.14–4.15 |
-| 4 | `verone_arno` | Dachloggia zum Arno | 2.243 | 4.16–4.17 |
+| 2 | `serliana` | Serliana an der Platzseite | 872 | 4.13 |
+| 3 | `serliana_aufsatz` | serliana_aufsatz | 2.829 | 4.14–4.15 |
+| 4 | `durchgang_arno` | Durchgang zum Arno | 2.943 | 4.16–4.17 |
+| 5 | `verone_arno` | Dachloggia zum Arno | 2.243 | 4.18–4.19 |
 
 ## Bauschritte
 
@@ -387,14 +388,14 @@ Die Südfront zum Arno ist die einzige Seite, die keine Säulenhalle hat.
 ### Schritt 4.13 – Serliana an der Platzseite
 
 - **Y-Bereich:** 66 bis 85
-- **Blöcke:** 877
+- **Blöcke:** 872
 - **Bauteile:** `serliana`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 877 |
+| Glatter Stein | `smooth_stone` | 872 |
 
 **Beschreibung**
 
@@ -412,7 +413,36 @@ Hinter den Seitenöffnungen liegen Nischen mit einer Rückwand bei w = 282. Verg
 
 Die Serliana, auch venezianisches Fenster genannt, rahmt den Blick vom Platz zum Arno.
 
-### Schritt 4.14 – Durchgang zum Arno – Teil 1/2 (Y 66–74)
+### Schritt 4.14 – serliana_aufsatz – Teil 1/2 (Y 80–98)
+
+- **Y-Bereich:** 80 bis 98
+- **Blöcke:** 1.442
+- **Bauteile:** `serliana_aufsatz`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.198 |
+| Glatter Stein | `smooth_stone` | 156 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
+
+### Schritt 4.15 – serliana_aufsatz – Teil 2/2 (Y 99–116)
+
+- **Y-Bereich:** 99 bis 116
+- **Blöcke:** 1.387
+- **Bauteile:** `serliana_aufsatz`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 769 |
+| Graues Buntglas | `gray_stained_glass` | 286 |
+| Endsteinziegel | `end_stone_bricks` | 248 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 84 |
+
+### Schritt 4.16 – Durchgang zum Arno – Teil 1/2 (Y 66–74)
 
 - **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.467
@@ -440,7 +470,7 @@ Der Gang bleibt innen ganz frei. Die Decken des Südbaus lassen ihn aus.
 
 Der Durchgang ist der Weg vom Platz zum Ufer des Arno. Heute sieht man von der Serliana den Fluss und die Hügel dahinter.
 
-### Schritt 4.15 – Durchgang zum Arno – Teil 2/2 (Y 75–85)
+### Schritt 4.17 – Durchgang zum Arno – Teil 2/2 (Y 75–85)
 
 - **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.476
@@ -469,7 +499,7 @@ Der Gang bleibt innen ganz frei. Die Decken des Südbaus lassen ihn aus.
 
 Der Durchgang ist der Weg vom Platz zum Ufer des Arno. Heute sieht man von der Serliana den Fluss und die Hügel dahinter.
 
-### Schritt 4.16 – Dachloggia zum Arno – Teil 1/2 (Y 102–107)
+### Schritt 4.18 – Dachloggia zum Arno – Teil 1/2 (Y 102–107)
 
 - **Y-Bereich:** 102 bis 107
 - **Blöcke:** 1.097
@@ -498,7 +528,7 @@ Die Fenster sind größer als in der Loggia der Flügel. Rechne neu.
 
 Von hier blickt man auf den Arno und den Ponte Vecchio.
 
-### Schritt 4.17 – Dachloggia zum Arno – Teil 2/2 (Y 108–114)
+### Schritt 4.19 – Dachloggia zum Arno – Teil 2/2 (Y 108–114)
 
 - **Y-Bereich:** 108 bis 114
 - **Blöcke:** 1.146

@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.199 |
+| Blöcke | 48.968 |
 | Bauschritte | 35 |
 | Y-Bereich | 66 bis 79 |
 | X-Ausdehnung | -269 bis -132 (138 Blöcke) |
 | Z-Ausdehnung | 903 bis 1194 (292 Blöcke) |
-| Kleinster Schritt | 1.046 Blöcke (Schritt 1.25) |
-| Mittlerer Schritt | 1.406 Blöcke |
+| Kleinster Schritt | 1.046 Blöcke (Schritt 1.15) |
+| Mittlerer Schritt | 1.399 Blöcke |
 | Größter Schritt | 1.860 Blöcke (Schritt 1.28) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 25.973 | 52,8 % |
-| Glatter Stein | `smooth_stone` | 22.389 | 45,5 % |
+| Endsteinziegel | `end_stone_bricks` | 25.742 | 52,6 % |
+| Glatter Stein | `smooth_stone` | 22.389 | 45,7 % |
 | Graues Buntglas | `gray_stained_glass` | 477 | 1,0 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 360 | 0,7 % |
 
@@ -33,7 +33,7 @@
 | 1 | `portikus_pfeiler` | Pfeiler mit Nischen | 3.485 | 1.1–1.2 |
 | 2 | `portikus_saeulen` | Säulen mit Kapitellen | 2.160 | 1.3–1.4 |
 | 3 | `portikus_gebaelk` | Gebälk über der Säulenhalle | 3.174 | 1.5–1.6 |
-| 4 | `portikus_rueckwand` | Rückwand der Säulenhalle mit Türen | 26.450 | 1.7–1.26 |
+| 4 | `portikus_rueckwand` | Rückwand der Säulenhalle mit Türen | 26.219 | 1.7–1.26 |
 | 5 | `portikus_decke` | Decke der Säulenhalle | 3.696 | 1.27–1.28 |
 | 6 | `stirnwaende` | Stirnwände an den Flügelenden | 10.234 | 1.29–1.35 |
 
@@ -211,14 +211,14 @@ Das Gebälk trägt die gesamte obere Fassade. Die Spannweite von 5 Blöcken ents
 ### Schritt 1.7 – Rückwand der Säulenhalle mit Türen – Teil 1/20 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.856
+- **Blöcke:** 1.831
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.856 |
+| Endsteinziegel | `end_stone_bricks` | 1.831 |
 
 **Beschreibung**
 
@@ -239,14 +239,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.8 – Rückwand der Säulenhalle mit Türen – Teil 2/20 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.856
+- **Blöcke:** 1.831
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.856 |
+| Endsteinziegel | `end_stone_bricks` | 1.831 |
 
 **Beschreibung**
 
@@ -267,14 +267,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.9 – Rückwand der Säulenhalle mit Türen – Teil 3/20 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.854
+- **Blöcke:** 1.831
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.854 |
+| Endsteinziegel | `end_stone_bricks` | 1.831 |
 
 **Beschreibung**
 
@@ -295,14 +295,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.10 – Rückwand der Säulenhalle mit Türen – Teil 4/20 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.854
+- **Blöcke:** 1.831
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.854 |
+| Endsteinziegel | `end_stone_bricks` | 1.831 |
 
 **Beschreibung**
 
@@ -323,14 +323,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.11 – Rückwand der Säulenhalle mit Türen – Teil 5/20 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.854
+- **Blöcke:** 1.831
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.854 |
+| Endsteinziegel | `end_stone_bricks` | 1.831 |
 
 **Beschreibung**
 
@@ -351,14 +351,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.12 – Rückwand der Säulenhalle mit Türen – Teil 6/20 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.485
+- **Blöcke:** 1.466
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.326 |
+| Endsteinziegel | `end_stone_bricks` | 1.307 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
 
 **Beschreibung**
@@ -380,14 +380,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.13 – Rückwand der Säulenhalle mit Türen – Teil 7/20 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.485
+- **Blöcke:** 1.466
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.326 |
+| Endsteinziegel | `end_stone_bricks` | 1.307 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
 
 **Beschreibung**
@@ -409,14 +409,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.14 – Rückwand der Säulenhalle mit Türen – Teil 8/20 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.485
+- **Blöcke:** 1.466
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.326 |
+| Endsteinziegel | `end_stone_bricks` | 1.307 |
 | Graues Buntglas | `gray_stained_glass` | 159 |
 
 **Beschreibung**
@@ -438,14 +438,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.15 – Rückwand der Säulenhalle mit Türen – Teil 9/20 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.050
+- **Blöcke:** 1.046
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.050 |
+| Endsteinziegel | `end_stone_bricks` | 1.046 |
 
 **Beschreibung**
 
@@ -466,14 +466,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.16 – Rückwand der Säulenhalle mit Türen – Teil 10/20 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.072
+- **Blöcke:** 1.065
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.072 |
+| Endsteinziegel | `end_stone_bricks` | 1.065 |
 
 **Beschreibung**
 
@@ -494,14 +494,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.17 – Rückwand der Säulenhalle mit Türen – Teil 11/20 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.050
+- **Blöcke:** 1.046
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.050 |
+| Endsteinziegel | `end_stone_bricks` | 1.046 |
 
 **Beschreibung**
 
@@ -522,14 +522,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.18 – Rückwand der Säulenhalle mit Türen – Teil 12/20 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.072
+- **Blöcke:** 1.065
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.072 |
+| Endsteinziegel | `end_stone_bricks` | 1.065 |
 
 **Beschreibung**
 
@@ -550,14 +550,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.19 – Rückwand der Säulenhalle mit Türen – Teil 13/20 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.050
+- **Blöcke:** 1.046
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.050 |
+| Endsteinziegel | `end_stone_bricks` | 1.046 |
 
 **Beschreibung**
 
@@ -578,14 +578,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.20 – Rückwand der Säulenhalle mit Türen – Teil 14/20 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.072
+- **Blöcke:** 1.065
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.072 |
+| Endsteinziegel | `end_stone_bricks` | 1.065 |
 
 **Beschreibung**
 
@@ -606,14 +606,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.21 – Rückwand der Säulenhalle mit Türen – Teil 15/20 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.050
+- **Blöcke:** 1.046
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.050 |
+| Endsteinziegel | `end_stone_bricks` | 1.046 |
 
 **Beschreibung**
 
@@ -634,14 +634,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.22 – Rückwand der Säulenhalle mit Türen – Teil 16/20 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.072
+- **Blöcke:** 1.065
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.072 |
+| Endsteinziegel | `end_stone_bricks` | 1.065 |
 
 **Beschreibung**
 
@@ -662,14 +662,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.23 – Rückwand der Säulenhalle mit Türen – Teil 17/20 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.050
+- **Blöcke:** 1.046
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.050 |
+| Endsteinziegel | `end_stone_bricks` | 1.046 |
 
 **Beschreibung**
 
@@ -690,14 +690,14 @@ Das Wort Uffizi bedeutet Ämter oder Büros: Cosimo I. ließ hier die Verwaltung
 ### Schritt 1.24 – Rückwand der Säulenhalle mit Türen – Teil 18/20 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.072
+- **Blöcke:** 1.065
 - **Bauteile:** `portikus_rueckwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.072 |
+| Endsteinziegel | `end_stone_bricks` | 1.065 |
 
 **Beschreibung**
 
