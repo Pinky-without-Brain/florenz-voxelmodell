@@ -2,7 +2,7 @@
 
 # Bauanleitung Modul 7: Decken, Innenwände & Treppen
 
-*Bautüte 7: Die Geschossdecken, die Mittelwände der Flügel, vier Treppen und die Treppe zum Korridor*
+*Bautüte 7: Mittelwände, Trennwände mit Türen, Geschossdecken, Wendeltreppen, der Scalone del Vasari und die Treppe zum Cavalcavia*
 
 ## Übersicht
 
@@ -51,13 +51,13 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `spinnwand_fluegel` | Längsmittelwand der Flügel | 35.602 | 7.1–7.20 |
-| 2 | `trennwaende` | trennwaende | 46.227 | 7.21–7.50 |
+| 2 | `trennwaende` | Trennwände der Joche mit Türen | 46.227 | 7.21–7.50 |
 | 3 | `decke_14` | Decke über dem Erdgeschoss | 21.338 | 7.51–7.62 |
 | 4 | `decke_20` | Decke über dem Mezzanin | 27.755 | 7.63–7.76 |
 | 5 | `decke_36` | Decke über dem Piano nobile | 22.235 | 7.77–7.88 |
 | 6 | `decke_traufe` | Traufdecke | 26.010 | 7.89–7.102 |
-| 7 | `treppen` | Vier Treppen in den Flügelenden | 1.260 | 7.103 |
-| 8 | `scalone_treppe` | scalone_treppe | 1.731 | 7.104 |
+| 7 | `treppen` | Wendeltreppen aus Treppenblöcken | 1.260 | 7.103 |
+| 8 | `scalone_treppe` | Scalone del Vasari | 1.731 | 7.104 |
 | 9 | `korridor_treppe` | Treppe zum Cavalcavia und Austritt zum Arno | 1.734 | 7.105 |
 
 ## Bauschritte
@@ -76,7 +76,7 @@
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -104,7 +104,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -132,7 +132,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -160,7 +160,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -188,7 +188,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -218,7 +218,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -246,7 +246,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -276,7 +276,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -304,7 +304,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -332,7 +332,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -360,7 +360,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -388,7 +388,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -416,7 +416,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -444,7 +444,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -475,7 +475,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -503,7 +503,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -531,7 +531,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -559,7 +559,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -587,7 +587,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -615,7 +615,7 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
 **Beschreibung**
 
-In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch.
+In jedem Flügel steht parallel zur Fassade eine Wand, 2 Blöcke dick (Tiefe 27 und 28), von Lage 1 bis 49. In jedem Joch sparst du auf jedem Geschoss eine Tür aus, 3 breit und 8 hoch (Mezzanin 4 hoch).
 
 **Tipp**
 
@@ -629,7 +629,7 @@ Die Wand ist optional und trägt die Decken in der Mitte der Flügel.
 
 Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 
-### Schritt 7.21 – trennwaende – Teil 1/30 (Y 66–67)
+### Schritt 7.21 – Trennwände der Joche mit Türen – Teil 1/30 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.485
@@ -641,7 +641,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.485 |
 
-### Schritt 7.22 – trennwaende – Teil 2/30 (Y 68–70)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.22 – Trennwände der Joche mit Türen – Teil 2/30 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.041
@@ -653,7 +669,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.041 |
 
-### Schritt 7.23 – trennwaende – Teil 3/30 (Y 71–71)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.23 – Trennwände der Joche mit Türen – Teil 3/30 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.138
@@ -665,7 +697,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.138 |
 
-### Schritt 7.24 – trennwaende – Teil 4/30 (Y 72–72)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.24 – Trennwände der Joche mit Türen – Teil 4/30 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.138
@@ -677,7 +725,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.138 |
 
-### Schritt 7.25 – trennwaende – Teil 5/30 (Y 73–73)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.25 – Trennwände der Joche mit Türen – Teil 5/30 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.138
@@ -689,7 +753,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.138 |
 
-### Schritt 7.26 – trennwaende – Teil 6/30 (Y 74–74)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.26 – Trennwände der Joche mit Türen – Teil 6/30 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.376
@@ -701,7 +781,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.376 |
 
-### Schritt 7.27 – trennwaende – Teil 7/30 (Y 75–75)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.27 – Trennwände der Joche mit Türen – Teil 7/30 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.380
@@ -713,7 +809,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.28 – trennwaende – Teil 8/30 (Y 76–76)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.28 – Trennwände der Joche mit Türen – Teil 8/30 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.380
@@ -725,7 +837,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.29 – trennwaende – Teil 9/30 (Y 77–77)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.29 – Trennwände der Joche mit Türen – Teil 9/30 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.380
@@ -737,7 +865,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.30 – trennwaende – Teil 10/30 (Y 78–78)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.30 – Trennwände der Joche mit Türen – Teil 10/30 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.380
@@ -749,7 +893,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.380 |
 
-### Schritt 7.31 – trennwaende – Teil 11/30 (Y 80–81)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.31 – Trennwände der Joche mit Türen – Teil 11/30 (Y 80–81)
 
 - **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.835
@@ -761,7 +921,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.835 |
 
-### Schritt 7.32 – trennwaende – Teil 12/30 (Y 82–84)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.32 – Trennwände der Joche mit Türen – Teil 12/30 (Y 82–84)
 
 - **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.227
@@ -773,7 +949,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.227 |
 
-### Schritt 7.33 – trennwaende – Teil 13/30 (Y 86–87)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.33 – Trennwände der Joche mit Türen – Teil 13/30 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.830
@@ -785,7 +977,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.830 |
 
-### Schritt 7.34 – trennwaende – Teil 14/30 (Y 88–90)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.34 – Trennwände der Joche mit Türen – Teil 14/30 (Y 88–90)
 
 - **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.233
@@ -797,7 +1005,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.233 |
 
-### Schritt 7.35 – trennwaende – Teil 15/30 (Y 91–91)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.35 – Trennwände der Joche mit Türen – Teil 15/30 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.422
@@ -809,7 +1033,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.422 |
 
-### Schritt 7.36 – trennwaende – Teil 16/30 (Y 92–92)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.36 – Trennwände der Joche mit Türen – Teil 16/30 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.419
@@ -821,7 +1061,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.419 |
 
-### Schritt 7.37 – trennwaende – Teil 17/30 (Y 93–93)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.37 – Trennwände der Joche mit Türen – Teil 17/30 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.419
@@ -833,7 +1089,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.419 |
 
-### Schritt 7.38 – trennwaende – Teil 18/30 (Y 94–94)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.38 – Trennwände der Joche mit Türen – Teil 18/30 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.814
@@ -845,7 +1117,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.39 – trennwaende – Teil 19/30 (Y 95–95)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.39 – Trennwände der Joche mit Türen – Teil 19/30 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.814
@@ -857,7 +1145,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.40 – trennwaende – Teil 20/30 (Y 96–96)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.40 – Trennwände der Joche mit Türen – Teil 20/30 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.814
@@ -869,7 +1173,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.41 – trennwaende – Teil 21/30 (Y 97–97)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.41 – Trennwände der Joche mit Türen – Teil 21/30 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.814
@@ -881,7 +1201,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.42 – trennwaende – Teil 22/30 (Y 98–98)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.42 – Trennwände der Joche mit Türen – Teil 22/30 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.814
@@ -893,7 +1229,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.43 – trennwaende – Teil 23/30 (Y 99–99)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.43 – Trennwände der Joche mit Türen – Teil 23/30 (Y 99–99)
 
 - **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.814
@@ -905,7 +1257,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.44 – trennwaende – Teil 24/30 (Y 100–100)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.44 – Trennwände der Joche mit Türen – Teil 24/30 (Y 100–100)
 
 - **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.814
@@ -917,7 +1285,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.814 |
 
-### Schritt 7.45 – trennwaende – Teil 25/30 (Y 102–105)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.45 – Trennwände der Joche mit Türen – Teil 25/30 (Y 102–105)
 
 - **Y-Bereich:** 102 bis 105
 - **Blöcke:** 1.998
@@ -929,7 +1313,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.998 |
 
-### Schritt 7.46 – trennwaende – Teil 26/30 (Y 106–107)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.46 – Trennwände der Joche mit Türen – Teil 26/30 (Y 106–107)
 
 - **Y-Bereich:** 106 bis 107
 - **Blöcke:** 1.321
@@ -941,7 +1341,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.321 |
 
-### Schritt 7.47 – trennwaende – Teil 27/30 (Y 108–109)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.47 – Trennwände der Joche mit Türen – Teil 27/30 (Y 108–109)
 
 - **Y-Bereich:** 108 bis 109
 - **Blöcke:** 1.710
@@ -953,7 +1369,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.710 |
 
-### Schritt 7.48 – trennwaende – Teil 28/30 (Y 110–111)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.48 – Trennwände der Joche mit Türen – Teil 28/30 (Y 110–111)
 
 - **Y-Bereich:** 110 bis 111
 - **Blöcke:** 1.773
@@ -965,7 +1397,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.773 |
 
-### Schritt 7.49 – trennwaende – Teil 29/30 (Y 112–113)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.49 – Trennwände der Joche mit Türen – Teil 29/30 (Y 112–113)
 
 - **Y-Bereich:** 112 bis 113
 - **Blöcke:** 1.756
@@ -977,7 +1425,23 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.756 |
 
-### Schritt 7.50 – trennwaende – Teil 30/30 (Y 114–115)
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
+
+### Schritt 7.50 – Trennwände der Joche mit Türen – Teil 30/30 (Y 114–115)
 
 - **Y-Bereich:** 114 bis 115
 - **Blöcke:** 1.750
@@ -988,6 +1452,22 @@ Die lange Mittelwand teilt jeden Flügel in zwei Raumreihen.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.750 |
+
+**Beschreibung**
+
+An jedem Jochanfang (w = 12 + 24 k) teilt eine Wand, 2 Blöcke dick, die Räume jedes Geschosses: Erdgeschoss, Mezzanin, Piano nobile und Galerie. In jeder Spanne ist eine Tür ausgespart, 3 breit; 8 hoch, im Mezzanin 4 hoch. So hat jeder Raum Türen, und man geht von Saal zu Saal.
+
+**Tipp**
+
+Baue je Geschoss die Wand zuerst und schneide die Tür in der Mitte der Spanne.
+
+**Achtung**
+
+Die Halle des Scalone und der Ring um die Tribuna bleiben ungeteilt.
+
+**Fakt**
+
+Die Raumfolge der Uffizien ist durchgehend (Enfilade).
 
 ### Schritt 7.51 – Decke über dem Erdgeschoss – Teil 1/12 (Y 79–79)
 
@@ -2618,7 +3098,7 @@ Unter dem Dach bleibt der Tribuna-Raum offen.
 
 Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Metern, im Modell bei 25,5 Metern.
 
-### Schritt 7.103 – Vier Treppen in den Flügelenden
+### Schritt 7.103 – Wendeltreppen aus Treppenblöcken
 
 - **Y-Bereich:** 66 bis 101
 - **Blöcke:** 1.260
@@ -2646,21 +3126,21 @@ Nach einer Studie der Universität Florenz liegt die Traufe knapp unter 26 Meter
 
 **Beschreibung**
 
-In den Nord- und Südenden beider Flügel führen vier gerade Treppen, 6 Blöcke breit, mit 36 Stufen vom Erdgeschoss zum Piano nobile. Jede Stufe ist 1 Block hoch und 1 tief. Die Deckenlöcher darüber geben genug Kopffreiheit.
+Fünf quadratische Wendeltreppen, 5 mal 5 Blöcke, führen vom Erdgeschoss bis zur Galerie: in beiden Flügelenden, im Arno-Riegel und am Südende des Ostflügels. Um einen Kern steigt die Treppe mit einem Treppenblock je Viertelumlauf. Die Ausstiege liegen bündig mit den Geschossen, die Decken sind über dem Schacht offen.
 
 **Tipp**
 
-Baue die Treppe als Block aus Stufen von unten nach oben.
+Setze zuerst den Kern und die Eckpodeste aus Pietra serena, dann die Treppenblöcke mit der Aufstiegsrichtung.
 
 **Achtung**
 
-Die Decken lassen die Löcher über der Treppe frei.
+Über jeder Stufe bleiben 3 Blöcke Luft. Die Treppenblöcke haben eine Richtung; prüfe sie auf jeder Seite.
 
 **Fakt**
 
-Im Modell sind die Treppen vereinfachte, gerade Läufe.
+Die Wendeltreppen sind eine Vereinfachung des Modells für die Verwaltungstreppen der Flügelenden.
 
-### Schritt 7.104 – scalone_treppe
+### Schritt 7.104 – Scalone del Vasari
 
 - **Y-Bereich:** 66 bis 101
 - **Blöcke:** 1.731
@@ -2683,6 +3163,22 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 166 |
+
+**Beschreibung**
+
+Die Haupttreppe im Ostflügel hat zwei gerade Läufe, je 5 Blöcke breit, auf massivem Unterbau: 20 Stufen vom Erdgeschoss zum Piano nobile und, daneben zurücklaufend, 16 Stufen zur Galerie im zweiten Obergeschoss. Das Podest am Südende ist der Boden des Piano nobile.
+
+**Tipp**
+
+Baue erst den Unterbau, dann die Treppenblöcke Stufe für Stufe; die Decken bleiben darüber offen.
+
+**Achtung**
+
+Lauf 1 steigt nach Süden, Lauf 2 nach Norden. Prüfe die Richtung der Treppenblöcke.
+
+**Fakt**
+
+Die Lage im Ostflügel folgt dem Auftrag; die genaue Gestalt ist im Modell eine vereinfachte Annahme.
 
 ### Schritt 7.105 – Treppe zum Cavalcavia und Austritt zum Arno
 
@@ -2709,7 +3205,7 @@ Im Modell sind die Treppen vereinfachte, gerade Läufe.
 
 **Beschreibung**
 
-In der Südwestspitze der Uffizien führt eine Treppe, 7 Blöcke breit, mit 23 Stufen von Y 101 hinunter bis Y 78, dem Boden des Korridors am Arno. Seitenwände rahmen sie, unten schließt ein Podest an. Von dort führt eine Tür, 7 breit, in die Südwestwand zum Lungarno-Korridor.
+Vom Boden der Galerie (Y 101) führt eine Treppe aus 23 Stufen, 6 breit, nach Westen hinab auf ein Podest in Höhe des Korridorbodens (Y 78). Von dort geht die offene Tür der Südwestwand in den Lungarno-Korridor. Der Unterbau ist massiv.
 
 **Tipp**
 
@@ -2717,8 +3213,8 @@ Zähle die Stufen: 23 Stufen für 23 Blöcke Höhe.
 
 **Achtung**
 
-Die Treppe liegt in den Uffizien, der Korridor draußen gehört zu Modul 8.
+Das Podest liegt direkt an der Tür. Lass die Tür offen.
 
 **Fakt**
 
-Der Korridor überwand hier den Höhenunterschied zwischen Uffizien und Lungarno. Die Lage der Treppe ist im Modell eine Annahme.
+Der Corridoio überwand hier den Höhenunterschied zwischen den Uffizien und dem Ufer. Die Lage der Treppe ist im Modell eine Annahme.

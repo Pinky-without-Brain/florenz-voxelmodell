@@ -38,6 +38,20 @@
       "tip": "Der Gang ist hier schmaler, weil der Streifen nur 11 bis 13 Blöcke breit ist.",
       "caution": "Der Querschnitt bei x = −528 muss mit dem des Ponte Vecchio übereinstimmen.",
       "fact": "Der Gang führt von hier auf den Ponte Vecchio und weiter zum Palazzo Pitti."
+    },
+    "corridoio_bilder": {
+      "title": "Selbstbildnisse im Corridoio",
+      "description": "An den Innenwänden des Gangs hängen Bildnisse als Farbfelder, 2 breit und 3 hoch, mit Goldrahmen (Brücke Y 103 bis 107, Lungarno Y 80 bis 84). Haar, Gesicht und Gewand sind je ein Farbfeld.",
+      "tip": "Ersetze nur die innerste Wandschicht; die Fenster bleiben frei.",
+      "caution": "Das sind vereinfachte Farbfelder, keine Nachbildung bestimmter Gemälde.",
+      "fact": "Im Korridor hängt eine berühmte Sammlung von Selbstbildnissen von Künstlern. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "corridoio_licht": {
+      "title": "Deckenleuchten im Corridoio",
+      "description": "Seelaternen ersetzen einzelne Zellen der Decke, höchstens 10 Blöcke voneinander entfernt (Brücke Y 109, Lungarno Y 86).",
+      "tip": "Setze die Leuchten in die unterste Lage der Decke.",
+      "caution": "Eine Leuchte ersetzt einen Deckenblock; sie hängt nicht frei im Gang.",
+      "fact": "Ohne Licht sind Innenräume in Minecraft dunkel; deshalb hat jeder Raum Leuchten."
     }
   }
 }

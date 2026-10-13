@@ -41,7 +41,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `suedbau_waende` | Wände des Südbaus | 21.487 | 4.1–4.12 |
 | 2 | `serliana` | Serliana an der Platzseite | 872 | 4.13 |
-| 3 | `serliana_aufsatz` | serliana_aufsatz | 2.755 | 4.14–4.15 |
+| 3 | `serliana_aufsatz` | Aufsatz über der Serliana | 2.755 | 4.14–4.15 |
 | 4 | `durchgang_arno` | Durchgang zum Arno | 2.943 | 4.16–4.17 |
 | 5 | `verone_arno` | Dachloggia zum Arno | 2.243 | 4.18–4.19 |
 
@@ -424,7 +424,7 @@ Hinter den Seitenöffnungen liegen Nischen mit einer Rückwand bei w = 282. Verg
 
 Die Serliana, auch venezianisches Fenster genannt, rahmt den Blick vom Platz zum Arno.
 
-### Schritt 4.14 – serliana_aufsatz – Teil 1/2 (Y 80–98)
+### Schritt 4.14 – Aufsatz über der Serliana – Teil 1/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
 - **Blöcke:** 1.368
@@ -438,7 +438,23 @@ Die Serliana, auch venezianisches Fenster genannt, rahmt den Blick vom Platz zum
 | Glatter Stein | `smooth_stone` | 156 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
 
-### Schritt 4.15 – serliana_aufsatz – Teil 2/2 (Y 99–116)
+**Beschreibung**
+
+Über der Serliana schließt eine Wand, 4 Blöcke dick, den Arno-Riegel zum Platz ab: das Piano nobile (Lage 21 bis 36) mit drei Fenstern, darüber die verglaste Dachloggia (Lage 37 bis 49) und das Kranzgesims. Zwei Eckpfeiler am Rand (u = −1 und 28) schließen die Ecken zu den Flügeln.
+
+**Tipp**
+
+Baue die Wand wie die Flügelfassade, nur mit drei Fenstern statt eines Moduls.
+
+**Achtung**
+
+Die Fenster sind 3 breit und 8 hoch, das Glas sitzt in der dritten Wandschicht. Lass die Eckpfeiler nicht aus, sonst bleibt ein Schlitz.
+
+**Fakt**
+
+Der Aufsatz hält die Hülle dicht: Ohne ihn stünde das Obergeschoss des Südbaus zum Platz offen.
+
+### Schritt 4.15 – Aufsatz über der Serliana – Teil 2/2 (Y 99–116)
 
 - **Y-Bereich:** 99 bis 116
 - **Blöcke:** 1.387
@@ -459,6 +475,22 @@ Die Serliana, auch venezianisches Fenster genannt, rahmt den Blick vom Platz zum
 | Blaue Keramik | `blue_terracotta` | 6 |
 | Hellblaue Keramik | `light_blue_terracotta` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
+
+**Beschreibung**
+
+Über der Serliana schließt eine Wand, 4 Blöcke dick, den Arno-Riegel zum Platz ab: das Piano nobile (Lage 21 bis 36) mit drei Fenstern, darüber die verglaste Dachloggia (Lage 37 bis 49) und das Kranzgesims. Zwei Eckpfeiler am Rand (u = −1 und 28) schließen die Ecken zu den Flügeln.
+
+**Tipp**
+
+Baue die Wand wie die Flügelfassade, nur mit drei Fenstern statt eines Moduls.
+
+**Achtung**
+
+Die Fenster sind 3 breit und 8 hoch, das Glas sitzt in der dritten Wandschicht. Lass die Eckpfeiler nicht aus, sonst bleibt ein Schlitz.
+
+**Fakt**
+
+Der Aufsatz hält die Hülle dicht: Ohne ihn stünde das Obergeschoss des Südbaus zum Platz offen.
 
 ### Schritt 4.16 – Durchgang zum Arno – Teil 1/2 (Y 66–74)
 

@@ -31,6 +31,13 @@
       "tip": "Richte die Fenster nach den Pfeilern der Flügel aus.",
       "caution": "Die Fenster sind größer als in der Loggia der Flügel. Rechne neu.",
       "fact": "Von hier blickt man auf den Arno und den Ponte Vecchio."
+    },
+    "serliana_aufsatz": {
+      "title": "Aufsatz über der Serliana",
+      "description": "Über der Serliana schließt eine Wand, 4 Blöcke dick, den Arno-Riegel zum Platz ab: das Piano nobile (Lage 21 bis 36) mit drei Fenstern, darüber die verglaste Dachloggia (Lage 37 bis 49) und das Kranzgesims. Zwei Eckpfeiler am Rand (u = −1 und 28) schließen die Ecken zu den Flügeln.",
+      "tip": "Baue die Wand wie die Flügelfassade, nur mit drei Fenstern statt eines Moduls.",
+      "caution": "Die Fenster sind 3 breit und 8 hoch, das Glas sitzt in der dritten Wandschicht. Lass die Eckpfeiler nicht aus, sonst bleibt ein Schlitz.",
+      "fact": "Der Aufsatz hält die Hülle dicht: Ohne ihn stünde das Obergeschoss des Südbaus zum Platz offen."
     }
   }
 }

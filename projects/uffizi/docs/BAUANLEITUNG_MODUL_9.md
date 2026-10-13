@@ -1,8 +1,8 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 9: Statuen in den Nischen
+# Bauanleitung Modul 9: Statuen, Innenräume und Licht
 
-*Bautüte 9 (optional): 22 Standbilder in den Pfeilernischen der Piazzale-Fassaden*
+*Bautüte 9: Standbilder, Galerie, Tribuna, Säle, Scalone, Amtsräume und die Beleuchtung*
 
 ## Übersicht
 
@@ -43,24 +43,24 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `statuen` | Standbilder (vereinfachte Blockfigur, nicht nach Vorbild) | 198 | 9.1 |
-| 2 | `scalone_ausstattung` | scalone_ausstattung | 1.123 | 9.1 |
-| 3 | `galerie_ostkorridor` | galerie_ostkorridor | 1.217 | 9.2 |
-| 4 | `galerie_westkorridor` | galerie_westkorridor | 1.189 | 9.3 |
-| 5 | `galerie_arno_korridor` | galerie_arno_korridor | 647 | 9.4 |
-| 6 | `tribuna` | tribuna | 74 | 9.5 |
-| 7 | `sala_botticelli` | sala_botticelli | 297 | 9.5 |
-| 8 | `sala_leonardo` | sala_leonardo | 220 | 9.6 |
-| 9 | `sala_michelangelo_raffael` | sala_michelangelo_raffael | 393 | 9.6 |
-| 10 | `galerie_saele_ost` | galerie_saele_ost | 3.077 | 9.7–9.8 |
-| 11 | `galerie_saele_west` | galerie_saele_west | 2.887 | 9.9–9.10 |
-| 12 | `amtsraeume_eg` | amtsraeume_eg | 7.446 | 9.11–9.15 |
-| 13 | `amtsraeume_mezzanin` | amtsraeume_mezzanin | 10.804 | 9.16–9.23 |
-| 14 | `amtsraeume_piano_nobile` | amtsraeume_piano_nobile | 10.153 | 9.24–9.30 |
-| 15 | `beleuchtung` | beleuchtung | 775 | 9.31 |
+| 2 | `scalone_ausstattung` | Halle des Scalone mit Büsten | 1.123 | 9.1 |
+| 3 | `galerie_ostkorridor` | Ostkorridor der Galerie | 1.217 | 9.2 |
+| 4 | `galerie_westkorridor` | Westkorridor der Galerie | 1.189 | 9.3 |
+| 5 | `galerie_arno_korridor` | Arno-Korridor im Südbau | 647 | 9.4 |
+| 6 | `tribuna` | Tribuna | 74 | 9.5 |
+| 7 | `sala_botticelli` | Botticelli-Saal | 297 | 9.5 |
+| 8 | `sala_leonardo` | Leonardo-Saal | 220 | 9.6 |
+| 9 | `sala_michelangelo_raffael` | Saal von Michelangelo und Raffael | 393 | 9.6 |
+| 10 | `galerie_saele_ost` | Säle der Galerie (Ost) | 3.077 | 9.7–9.8 |
+| 11 | `galerie_saele_west` | Säle der Galerie (West) | 2.887 | 9.9–9.10 |
+| 12 | `amtsraeume_eg` | Amtsräume im Erdgeschoss | 7.446 | 9.11–9.15 |
+| 13 | `amtsraeume_mezzanin` | Amtsräume im Mezzanin | 10.804 | 9.16–9.23 |
+| 14 | `amtsraeume_piano_nobile` | Amtsräume im Piano nobile | 10.153 | 9.24–9.30 |
+| 15 | `beleuchtung` | Beleuchtung der Räume | 775 | 9.31 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Standbilder (vereinfachte Blockfigur, nicht nach Vorbild) & scalone_ausstattung
+### Schritt 9.1 – Standbilder (vereinfachte Blockfigur, nicht nach Vorbild) & Halle des Scalone mit Büsten
 
 - **Y-Bereich:** 66 bis 107
 - **Blöcke:** 1.321
@@ -86,21 +86,21 @@
 
 **Beschreibung**
 
-In jede der 22 Pfeilernischen stellst du eine Figur aus weißem Quarz: ein Fuß (2 mal 1 mal 1), ein Körper (2 mal 1 mal 3) und ein Kopf (1 Block), zusammen 5 Blöcke hoch. Das ist eine vereinfachte Blockfigur, nicht nach Vorbild.
+In jede der 22 Pfeilernischen stellst du eine Figur aus weißem Quarz: ein Fuß (2 mal 1 mal 1), ein Körper (2 mal 1 mal 3) und ein Kopf (1 Block), zusammen 5 Blöcke hoch. Das ist eine vereinfachte Blockfigur, nicht nach Vorbild. In der Halle der Haupttreppe stehen Büsten auf Sockeln aus Pietra forte (2 Blöcke) mit Kopf aus Quarz an den Wänden des Erdgeschosses, des Piano nobile und der Galerie.
 
 **Tipp**
 
-Alle 22 Figuren sind gleich. Baue eine und kopiere sie.
+Alle 22 Figuren sind gleich. Baue eine und kopiere sie. Stelle die Sockel im Abstand von 9 Blöcken an die Wand und lass die Wege frei.
 
 **Achtung**
 
-Die Figuren stellen keine bestimmte Person dar. Die echten Standbilder zeigen berühmte Toskaner und stammen großteils aus dem 19. Jahrhundert.
+Die Figuren stellen keine bestimmte Person dar. Die echten Standbilder zeigen berühmte Toskaner und stammen großteils aus dem 19. Jahrhundert. Büsten nie vor Türen und Treppen.
 
 **Fakt**
 
-Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, in der Regel aus dem 19. Jahrhundert.
+Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, in der Regel aus dem 19. Jahrhundert. Büsten gehören zur Ausstattung großer Treppenhäuser. Vereinfachte Blockfiguren, nicht nach Vorbild.
 
-### Schritt 9.2 – galerie_ostkorridor
+### Schritt 9.2 – Ostkorridor der Galerie
 
 - **Y-Bereich:** 102 bis 107
 - **Blöcke:** 1.217
@@ -123,7 +123,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Schwarzer Beton | `black_concrete` | 25 |
 | Grüne Keramik | `green_terracotta` | 24 |
 
-### Schritt 9.3 – galerie_westkorridor
+**Beschreibung**
+
+Der Ostkorridor ist 7 Blöcke breit: Marmorboden im Schachbrett (weißer Marmor, roter Granit), bemalte Decke mit Grotesken in Fresko-Farben, Porträtfelder (2 mal 3 mit Goldrahmen) an der Rückwand und Marmorstatuen in Reihe vor der Fensterseite alle 8 Blöcke.
+
+**Tipp**
+
+Beginne mit dem Boden, male die Decke, dann Bilder und Statuen.
+
+**Achtung**
+
+Statuen sind vereinfachte Blockfiguren (Sockel, Körper, Kopf), keine bestimmte Person. Lass die Türen zu den Sälen frei.
+
+**Fakt**
+
+Im Korridor stehen antike Statuen und hängen Porträts. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.3 – Westkorridor der Galerie
 
 - **Y-Bereich:** 102 bis 107
 - **Blöcke:** 1.189
@@ -146,7 +162,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Hellblaue Keramik | `light_blue_terracotta` | 27 |
 | Braune Keramik | `brown_terracotta` | 26 |
 
-### Schritt 9.4 – galerie_arno_korridor
+**Beschreibung**
+
+Der Westkorridor ist wie der Ostkorridor aufgebaut: Schachbrettboden, Grotesken an der Decke, Porträtfelder und eine Statuenreihe an den Fenstern.
+
+**Tipp**
+
+Arbeite genau wie im Ostkorridor.
+
+**Achtung**
+
+Statuen sind vereinfachte Blockfiguren, nicht nach Vorbild.
+
+**Fakt**
+
+Beide Korridore und der Verbindungsgang am Arno bilden ein U. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.4 – Arno-Korridor im Südbau
 
 - **Y-Bereich:** 102 bis 107
 - **Blöcke:** 647
@@ -171,7 +203,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Hellblaue Keramik | `light_blue_terracotta` | 4 |
 | Endsteinziegel | `end_stone_bricks` | 3 |
 
-### Schritt 9.5 – tribuna & sala_botticelli
+**Beschreibung**
+
+Der Verbindungsgang am Arno ist der Raum der Galerie über dem Südbau: Marmorboden, bemalte Decke, Büsten auf Sockeln an den Wänden alle 9 Blöcke und große Fenster zum Fluss.
+
+**Tipp**
+
+Setze die Büsten im Abstand von 9 Blöcken.
+
+**Achtung**
+
+Halte die Wege zu den Treppen frei.
+
+**Fakt**
+
+Der Gang verbindet Ost- und Westkorridor. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.5 – Tribuna & Botticelli-Saal
 
 - **Y-Bereich:** 102 bis 109
 - **Blöcke:** 371
@@ -197,7 +245,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Schwarzer Beton | `black_concrete` | 6 |
 | Gelbe Keramik | `yellow_terracotta` | 3 |
 
-### Schritt 9.6 – sala_leonardo & sala_michelangelo_raffael
+**Beschreibung**
+
+Das Oktogon, 17 Blöcke Umkreisradius, hat einen Boden aus Marmorringen (weiß, rot, grün, Gold in der Mitte), Wände aus roter Fresko-Keramik mit Goldbändern, eine Kuppel innen in Rot mit Gold und Perlmutt (weiß) und einen achteckigen Marmortisch mit Lichtkern. Auf den Diagonalen stehen vier Statuen, unter ihnen die Venus de Medici (vereinfacht). Zwei große Tafeln, 9 Blöcke breit und 5 hoch, hängen im Saal: die Geburt der Venus (Meer, Muschel, Venus) und die Primavera (Hain mit Blüten). Dazu kommen kleine Bilder mit Goldrahmen im Abstand von 8 Blöcken.
+
+**Tipp**
+
+Male den Boden von außen nach innen in Ringen; die Wandleuchter setzt du auf Lage 44. Baue die Tafeln aus Fresko-Farben mit Goldrahmen, Unterkante 1 Block über dem Boden.
+
+**Achtung**
+
+Statuen sind vereinfachte Blockfiguren, die Venus ist nicht naturgetreu. Die Gemälde sind stark vereinfachte Farbfelder.
+
+**Fakt**
+
+Buontalenti baute die Tribuna zwischen 1580 und 1588 für die kostbarsten Werke der Medici. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht. Botticellis Primavera gehört zu den berühmtesten Werken der Uffizien. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.6 – Leonardo-Saal & Saal von Michelangelo und Raffael
 
 - **Y-Bereich:** 103 bis 109
 - **Blöcke:** 613
@@ -218,7 +282,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Weiße Keramik | `white_terracotta` | 18 |
 | Orange Keramik | `orange_terracotta` | 11 |
 
-### Schritt 9.7 – galerie_saele_ost – Teil 1/2 (Y 103–104)
+**Beschreibung**
+
+Zwei Tafeln: die Verkündigung (Himmel, Garten, Engel) und die Anbetung der Könige (erdfarben, unvollendet). Zwei Tafeln: der Tondo Doni (runde Tafel mit Goldrand) und die Madonna mit dem Stieglitz (dreieckige Komposition).
+
+**Tipp**
+
+Wähle für die Anbetung braune und orange Felder mit schwarzen Tupfen. Der Tondo ist rund: Prüfe den Abstand zur Mitte der Tafel.
+
+**Achtung**
+
+Vereinfachte Farbfelder, nicht nach Vorbild.
+
+**Fakt**
+
+Leonardos Verkündigung hängt in den Uffizien. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht. Der Tondo Doni von Michelangelo hängt in den Uffizien. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.7 – Säle der Galerie (Ost) – Teil 1/2 (Y 103–104)
 
 - **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.538
@@ -239,7 +319,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Grüne Keramik | `green_terracotta` | 32 |
 | Braune Keramik | `brown_terracotta` | 26 |
 
-### Schritt 9.8 – galerie_saele_ost – Teil 2/2 (Y 105–107)
+**Beschreibung**
+
+Die übrigen Galerieräume im Ostflügel sind schlicht gestaltet: Marmorboden im Schachbrett, bemalte Decke, Bilder mit Goldrahmen in Augenhöhe im Abstand von 8 Blöcken.
+
+**Tipp**
+
+Wiederhole das Muster Wand für Wand.
+
+**Achtung**
+
+Halte Türen frei.
+
+**Fakt**
+
+Die Räume zeigen Werke der Renaissance und des Barock. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.8 – Säle der Galerie (Ost) – Teil 2/2 (Y 105–107)
 
 - **Y-Bereich:** 105 bis 107
 - **Blöcke:** 1.539
@@ -261,7 +357,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Hellblaue Keramik | `light_blue_terracotta` | 23 |
 | Endsteinziegel | `end_stone_bricks` | 1 |
 
-### Schritt 9.9 – galerie_saele_west – Teil 1/2 (Y 103–104)
+**Beschreibung**
+
+Die übrigen Galerieräume im Ostflügel sind schlicht gestaltet: Marmorboden im Schachbrett, bemalte Decke, Bilder mit Goldrahmen in Augenhöhe im Abstand von 8 Blöcken.
+
+**Tipp**
+
+Wiederhole das Muster Wand für Wand.
+
+**Achtung**
+
+Halte Türen frei.
+
+**Fakt**
+
+Die Räume zeigen Werke der Renaissance und des Barock. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.9 – Säle der Galerie (West) – Teil 1/2 (Y 103–104)
 
 - **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.432
@@ -282,7 +394,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Rote Keramik | `red_terracotta` | 28 |
 | Blaue Keramik | `blue_terracotta` | 22 |
 
-### Schritt 9.10 – galerie_saele_west – Teil 2/2 (Y 105–107)
+**Beschreibung**
+
+Die Galerieräume im Westflügel sind wie die im Osten gestaltet: Schachbrettboden, Grotesken an der Decke, Bilder in Augenhöhe.
+
+**Tipp**
+
+Wie im Ostflügel.
+
+**Achtung**
+
+Halte Türen frei.
+
+**Fakt**
+
+Auch im Westflügel folgen die Säle einander. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.10 – Säle der Galerie (West) – Teil 2/2 (Y 105–107)
 
 - **Y-Bereich:** 105 bis 107
 - **Blöcke:** 1.455
@@ -304,7 +432,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Endsteinziegel | `end_stone_bricks` | 23 |
 | Blaue Keramik | `blue_terracotta` | 21 |
 
-### Schritt 9.11 – amtsraeume_eg – Teil 1/5 (Y 66–66)
+**Beschreibung**
+
+Die Galerieräume im Westflügel sind wie die im Osten gestaltet: Schachbrettboden, Grotesken an der Decke, Bilder in Augenhöhe.
+
+**Tipp**
+
+Wie im Ostflügel.
+
+**Achtung**
+
+Halte Türen frei.
+
+**Fakt**
+
+Auch im Westflügel folgen die Säle einander. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.11 – Amtsräume im Erdgeschoss – Teil 1/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.152
@@ -316,7 +460,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | :--- | :--- | ---: |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.152 |
 
-### Schritt 9.12 – amtsraeume_eg – Teil 2/5 (Y 67–67)
+**Beschreibung**
+
+Die Räume hinter der Säulenhalle erinnern an die ursprünglichen Ämter: Aktenregale aus Eichenholz (4 hoch) an den Wänden und niedrige Schreibtische.
+
+**Tipp**
+
+Stelle die Regale mit Abstand zu Türen und Treppen.
+
+**Achtung**
+
+Lass enge Wege frei.
+
+**Fakt**
+
+Cosimo I. ließ die Uffizien (Büros) für die Behörden der Stadt bauen. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.12 – Amtsräume im Erdgeschoss – Teil 2/5 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.596
@@ -329,7 +489,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Goldblock | `gold_block` | 1.506 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 90 |
 
-### Schritt 9.13 – amtsraeume_eg – Teil 3/5 (Y 68–68)
+**Beschreibung**
+
+Die Räume hinter der Säulenhalle erinnern an die ursprünglichen Ämter: Aktenregale aus Eichenholz (4 hoch) an den Wänden und niedrige Schreibtische.
+
+**Tipp**
+
+Stelle die Regale mit Abstand zu Türen und Treppen.
+
+**Achtung**
+
+Lass enge Wege frei.
+
+**Fakt**
+
+Cosimo I. ließ die Uffizien (Büros) für die Behörden der Stadt bauen. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.13 – Amtsräume im Erdgeschoss – Teil 3/5 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.596
@@ -351,7 +527,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Grüne Keramik | `green_terracotta` | 50 |
 | Hellblaue Keramik | `light_blue_terracotta` | 47 |
 
-### Schritt 9.14 – amtsraeume_eg – Teil 4/5 (Y 69–69)
+**Beschreibung**
+
+Die Räume hinter der Säulenhalle erinnern an die ursprünglichen Ämter: Aktenregale aus Eichenholz (4 hoch) an den Wänden und niedrige Schreibtische.
+
+**Tipp**
+
+Stelle die Regale mit Abstand zu Türen und Treppen.
+
+**Achtung**
+
+Lass enge Wege frei.
+
+**Fakt**
+
+Cosimo I. ließ die Uffizien (Büros) für die Behörden der Stadt bauen. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.14 – Amtsräume im Erdgeschoss – Teil 4/5 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.596
@@ -373,7 +565,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Grüne Keramik | `green_terracotta` | 57 |
 | Hellblaue Keramik | `light_blue_terracotta` | 44 |
 
-### Schritt 9.15 – amtsraeume_eg – Teil 5/5 (Y 70–70)
+**Beschreibung**
+
+Die Räume hinter der Säulenhalle erinnern an die ursprünglichen Ämter: Aktenregale aus Eichenholz (4 hoch) an den Wänden und niedrige Schreibtische.
+
+**Tipp**
+
+Stelle die Regale mit Abstand zu Türen und Treppen.
+
+**Achtung**
+
+Lass enge Wege frei.
+
+**Fakt**
+
+Cosimo I. ließ die Uffizien (Büros) für die Behörden der Stadt bauen. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.15 – Amtsräume im Erdgeschoss – Teil 5/5 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.506
@@ -385,7 +593,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | :--- | :--- | ---: |
 | Goldblock | `gold_block` | 1.506 |
 
-### Schritt 9.16 – amtsraeume_mezzanin – Teil 1/8 (Y 80–80)
+**Beschreibung**
+
+Die Räume hinter der Säulenhalle erinnern an die ursprünglichen Ämter: Aktenregale aus Eichenholz (4 hoch) an den Wänden und niedrige Schreibtische.
+
+**Tipp**
+
+Stelle die Regale mit Abstand zu Türen und Treppen.
+
+**Achtung**
+
+Lass enge Wege frei.
+
+**Fakt**
+
+Cosimo I. ließ die Uffizien (Büros) für die Behörden der Stadt bauen. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.16 – Amtsräume im Mezzanin – Teil 1/8 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.564
@@ -397,7 +621,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | :--- | :--- | ---: |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.564 |
 
-### Schritt 9.17 – amtsraeume_mezzanin – Teil 2/8 (Y 81–81)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.17 – Amtsräume im Mezzanin – Teil 2/8 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.185
@@ -410,7 +650,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Goldblock | `gold_block` | 1.117 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
 
-### Schritt 9.18 – amtsraeume_mezzanin – Teil 3/8 (Y 81–81)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.18 – Amtsräume im Mezzanin – Teil 3/8 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.197
@@ -423,7 +679,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Goldblock | `gold_block` | 1.127 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 70 |
 
-### Schritt 9.19 – amtsraeume_mezzanin – Teil 4/8 (Y 82–82)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.19 – Amtsräume im Mezzanin – Teil 4/8 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.099
@@ -445,7 +717,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Braune Keramik | `brown_terracotta` | 39 |
 | Weiße Keramik | `white_terracotta` | 27 |
 
-### Schritt 9.20 – amtsraeume_mezzanin – Teil 5/8 (Y 82–82)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.20 – Amtsräume im Mezzanin – Teil 5/8 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.102
@@ -467,7 +755,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Gelbe Keramik | `yellow_terracotta` | 42 |
 | Weiße Keramik | `white_terracotta` | 38 |
 
-### Schritt 9.21 – amtsraeume_mezzanin – Teil 6/8 (Y 83–83)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.21 – Amtsräume im Mezzanin – Teil 6/8 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 2.059
@@ -488,7 +792,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Gelbe Keramik | `yellow_terracotta` | 72 |
 | Grüne Keramik | `green_terracotta` | 67 |
 
-### Schritt 9.22 – amtsraeume_mezzanin – Teil 7/8 (Y 84–84)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.22 – Amtsräume im Mezzanin – Teil 7/8 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.297
@@ -500,7 +820,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | :--- | :--- | ---: |
 | Goldblock | `gold_block` | 1.297 |
 
-### Schritt 9.23 – amtsraeume_mezzanin – Teil 8/8 (Y 84–84)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.23 – Amtsräume im Mezzanin – Teil 8/8 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.301
@@ -512,7 +848,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | :--- | :--- | ---: |
 | Goldblock | `gold_block` | 1.301 |
 
-### Schritt 9.24 – amtsraeume_piano_nobile – Teil 1/7 (Y 86–86)
+**Beschreibung**
+
+Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.
+
+**Tipp**
+
+Regale nur 3 hoch, damit die Räume offen bleiben.
+
+**Achtung**
+
+Prüfe die Kopffreiheit an den Treppen.
+
+**Fakt**
+
+Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.24 – Amtsräume im Piano nobile – Teil 1/7 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.507
@@ -524,7 +876,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | :--- | :--- | ---: |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.507 |
 
-### Schritt 9.25 – amtsraeume_piano_nobile – Teil 2/7 (Y 87–87)
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.25 – Amtsräume im Piano nobile – Teil 2/7 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.135
@@ -537,7 +905,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Goldblock | `gold_block` | 1.067 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
 
-### Schritt 9.26 – amtsraeume_piano_nobile – Teil 3/7 (Y 87–87)
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.26 – Amtsräume im Piano nobile – Teil 3/7 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.120
@@ -550,7 +934,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Goldblock | `gold_block` | 1.060 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 60 |
 
-### Schritt 9.27 – amtsraeume_piano_nobile – Teil 4/7 (Y 88–88)
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.27 – Amtsräume im Piano nobile – Teil 4/7 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.134
@@ -572,7 +972,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Schwarzer Beton | `black_concrete` | 42 |
 | Rote Keramik | `red_terracotta` | 41 |
 
-### Schritt 9.28 – amtsraeume_piano_nobile – Teil 5/7 (Y 88–88)
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.28 – Amtsräume im Piano nobile – Teil 5/7 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.120
@@ -594,7 +1010,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Braune Keramik | `brown_terracotta` | 48 |
 | Rote Keramik | `red_terracotta` | 46 |
 
-### Schritt 9.29 – amtsraeume_piano_nobile – Teil 6/7 (Y 89–89)
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.29 – Amtsräume im Piano nobile – Teil 6/7 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 2.067
@@ -616,7 +1048,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Rote Keramik | `red_terracotta` | 70 |
 | Gelbe Keramik | `yellow_terracotta` | 52 |
 
-### Schritt 9.30 – amtsraeume_piano_nobile – Teil 7/7 (Y 90–93)
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.30 – Amtsräume im Piano nobile – Teil 7/7 (Y 90–93)
 
 - **Y-Bereich:** 90 bis 93
 - **Blöcke:** 2.070
@@ -629,7 +1077,23 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Goldblock | `gold_block` | 1.935 |
 | Endsteinziegel | `end_stone_bricks` | 135 |
 
-### Schritt 9.31 – beleuchtung
+**Beschreibung**
+
+Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.
+
+**Tipp**
+
+Beginne mit dem Boden.
+
+**Achtung**
+
+Wege zu den Treppen freihalten.
+
+**Fakt**
+
+Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht.
+
+### Schritt 9.31 – Beleuchtung der Räume
 
 - **Y-Bereich:** 79 bis 116
 - **Blöcke:** 775
@@ -642,3 +1106,19 @@ Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, i
 | Seelaterne | `sea_lantern` | 773 |
 | Grüne Keramik | `green_terracotta` | 1 |
 | Gelbe Keramik | `yellow_terracotta` | 1 |
+
+**Beschreibung**
+
+Seelaternen ersetzen einzelne Blöcke der Decken in Erdgeschoss, Mezzanin, Piano nobile und Galerie, höchstens 12 Blöcke voneinander entfernt.
+
+**Tipp**
+
+Setze die Leuchten in die Decke, nicht frei in den Raum.
+
+**Achtung**
+
+Eine Leuchte ersetzt immer einen Deckenblock.
+
+**Fakt**
+
+Ohne Lichtquelle sind Innenräume in Minecraft dunkel.

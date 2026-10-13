@@ -1,7 +1,7 @@
 {
   "module": 9,
-  "title": "Statuen in den Nischen",
-  "subtitle": "Bautüte 9 (optional): 22 Standbilder in den Pfeilernischen der Piazzale-Fassaden",
+  "title": "Statuen, Innenräume und Licht",
+  "subtitle": "Bautüte 9: Standbilder, Galerie, Tribuna, Säle, Scalone, Amtsräume und die Beleuchtung",
   "icon": "🗿",
   "parts": {
     "statuen": {
@@ -10,6 +10,111 @@
       "tip": "Alle 22 Figuren sind gleich. Baue eine und kopiere sie.",
       "caution": "Die Figuren stellen keine bestimmte Person dar. Die echten Standbilder zeigen berühmte Toskaner und stammen großteils aus dem 19. Jahrhundert.",
       "fact": "Die Nischen der Pfeiler im Erdgeschoss tragen Standbilder berühmter Toskaner, in der Regel aus dem 19. Jahrhundert."
+    },
+    "portikus_ausstattung": {
+      "title": "Säulenhalle: bemalte Decke",
+      "description": "Die Decke der Säulenhalle trägt ein Muster aus Fresko-Farbfeldern (Grotesken) mit Goldbändern; der Boden bleibt Pflaster. In den Pfeilernischen stehen die Standbilder.",
+      "tip": "Male das Muster in Streifen von 6 Blöcken, alle 6 Blöcke ein Goldband.",
+      "caution": "Nur das Material der Deckenplatte wird gewechselt, sie bleibt ein Bauteil der Decke.",
+      "fact": "Der Portikus erschließt den Palast vom Platz. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "scalone_ausstattung": {
+      "title": "Halle des Scalone mit Büsten",
+      "description": "In der Halle der Haupttreppe stehen Büsten auf Sockeln aus Pietra forte (2 Blöcke) mit Kopf aus Quarz an den Wänden des Erdgeschosses, des Piano nobile und der Galerie.",
+      "tip": "Stelle die Sockel im Abstand von 9 Blöcken an die Wand und lass die Wege frei.",
+      "caution": "Büsten nie vor Türen und Treppen.",
+      "fact": "Büsten gehören zur Ausstattung großer Treppenhäuser. Vereinfachte Blockfiguren, nicht nach Vorbild."
+    },
+    "galerie_ostkorridor": {
+      "title": "Ostkorridor der Galerie",
+      "description": "Der Ostkorridor ist 7 Blöcke breit: Marmorboden im Schachbrett (weißer Marmor, roter Granit), bemalte Decke mit Grotesken in Fresko-Farben, Porträtfelder (2 mal 3 mit Goldrahmen) an der Rückwand und Marmorstatuen in Reihe vor der Fensterseite alle 8 Blöcke.",
+      "tip": "Beginne mit dem Boden, male die Decke, dann Bilder und Statuen.",
+      "caution": "Statuen sind vereinfachte Blockfiguren (Sockel, Körper, Kopf), keine bestimmte Person. Lass die Türen zu den Sälen frei.",
+      "fact": "Im Korridor stehen antike Statuen und hängen Porträts. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "galerie_westkorridor": {
+      "title": "Westkorridor der Galerie",
+      "description": "Der Westkorridor ist wie der Ostkorridor aufgebaut: Schachbrettboden, Grotesken an der Decke, Porträtfelder und eine Statuenreihe an den Fenstern.",
+      "tip": "Arbeite genau wie im Ostkorridor.",
+      "caution": "Statuen sind vereinfachte Blockfiguren, nicht nach Vorbild.",
+      "fact": "Beide Korridore und der Verbindungsgang am Arno bilden ein U. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "galerie_arno_korridor": {
+      "title": "Arno-Korridor im Südbau",
+      "description": "Der Verbindungsgang am Arno ist der Raum der Galerie über dem Südbau: Marmorboden, bemalte Decke, Büsten auf Sockeln an den Wänden alle 9 Blöcke und große Fenster zum Fluss.",
+      "tip": "Setze die Büsten im Abstand von 9 Blöcken.",
+      "caution": "Halte die Wege zu den Treppen frei.",
+      "fact": "Der Gang verbindet Ost- und Westkorridor. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "tribuna": {
+      "title": "Tribuna",
+      "description": "Das Oktogon, 17 Blöcke Umkreisradius, hat einen Boden aus Marmorringen (weiß, rot, grün, Gold in der Mitte), Wände aus roter Fresko-Keramik mit Goldbändern, eine Kuppel innen in Rot mit Gold und Perlmutt (weiß) und einen achteckigen Marmortisch mit Lichtkern. Auf den Diagonalen stehen vier Statuen, unter ihnen die Venus de Medici (vereinfacht).",
+      "tip": "Male den Boden von außen nach innen in Ringen; die Wandleuchter setzt du auf Lage 44.",
+      "caution": "Statuen sind vereinfachte Blockfiguren, die Venus ist nicht naturgetreu.",
+      "fact": "Buontalenti baute die Tribuna zwischen 1580 und 1588 für die kostbarsten Werke der Medici. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "sala_botticelli": {
+      "title": "Botticelli-Saal",
+      "description": "Zwei große Tafeln, 9 Blöcke breit und 5 hoch, hängen im Saal: die Geburt der Venus (Meer, Muschel, Venus) und die Primavera (Hain mit Blüten). Dazu kommen kleine Bilder mit Goldrahmen im Abstand von 8 Blöcken.",
+      "tip": "Baue die Tafeln aus Fresko-Farben mit Goldrahmen, Unterkante 1 Block über dem Boden.",
+      "caution": "Die Gemälde sind stark vereinfachte Farbfelder.",
+      "fact": "Botticellis Primavera gehört zu den berühmtesten Werken der Uffizien. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "sala_leonardo": {
+      "title": "Leonardo-Saal",
+      "description": "Zwei Tafeln: die Verkündigung (Himmel, Garten, Engel) und die Anbetung der Könige (erdfarben, unvollendet).",
+      "tip": "Wähle für die Anbetung braune und orange Felder mit schwarzen Tupfen.",
+      "caution": "Vereinfachte Farbfelder, nicht nach Vorbild.",
+      "fact": "Leonardos Verkündigung hängt in den Uffizien. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "sala_michelangelo_raffael": {
+      "title": "Saal von Michelangelo und Raffael",
+      "description": "Zwei Tafeln: der Tondo Doni (runde Tafel mit Goldrand) und die Madonna mit dem Stieglitz (dreieckige Komposition).",
+      "tip": "Der Tondo ist rund: Prüfe den Abstand zur Mitte der Tafel.",
+      "caution": "Vereinfachte Farbfelder, nicht nach Vorbild.",
+      "fact": "Der Tondo Doni von Michelangelo hängt in den Uffizien. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "galerie_saele_ost": {
+      "title": "Säle der Galerie (Ost)",
+      "description": "Die übrigen Galerieräume im Ostflügel sind schlicht gestaltet: Marmorboden im Schachbrett, bemalte Decke, Bilder mit Goldrahmen in Augenhöhe im Abstand von 8 Blöcken.",
+      "tip": "Wiederhole das Muster Wand für Wand.",
+      "caution": "Halte Türen frei.",
+      "fact": "Die Räume zeigen Werke der Renaissance und des Barock. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "galerie_saele_west": {
+      "title": "Säle der Galerie (West)",
+      "description": "Die Galerieräume im Westflügel sind wie die im Osten gestaltet: Schachbrettboden, Grotesken an der Decke, Bilder in Augenhöhe.",
+      "tip": "Wie im Ostflügel.",
+      "caution": "Halte Türen frei.",
+      "fact": "Auch im Westflügel folgen die Säle einander. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "amtsraeume_eg": {
+      "title": "Amtsräume im Erdgeschoss",
+      "description": "Die Räume hinter der Säulenhalle erinnern an die ursprünglichen Ämter: Aktenregale aus Eichenholz (4 hoch) an den Wänden und niedrige Schreibtische.",
+      "tip": "Stelle die Regale mit Abstand zu Türen und Treppen.",
+      "caution": "Lass enge Wege frei.",
+      "fact": "Cosimo I. ließ die Uffizien (Büros) für die Behörden der Stadt bauen. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "amtsraeume_mezzanin": {
+      "title": "Amtsräume im Mezzanin",
+      "description": "Das niedrige Zwischengeschoss (5 hoch) hat Regale (3 hoch), Schreibtische und einen Boden aus Cotto- und Holzfeldern.",
+      "tip": "Regale nur 3 hoch, damit die Räume offen bleiben.",
+      "caution": "Prüfe die Kopffreiheit an den Treppen.",
+      "fact": "Das Mezzanin liegt zwischen Erdgeschoss und Piano nobile. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "amtsraeume_piano_nobile": {
+      "title": "Amtsräume im Piano nobile",
+      "description": "Die großen Säle des Piano nobile (15 hoch) haben Regale, Schreibtische und Böden aus Cotto und Holz.",
+      "tip": "Beginne mit dem Boden.",
+      "caution": "Wege zu den Treppen freihalten.",
+      "fact": "Das Piano nobile ist das Hauptgeschoss. Quelle: Wikipedia (de, en, it) und uffizi.it; im Modell vereinfacht."
+    },
+    "beleuchtung": {
+      "title": "Beleuchtung der Räume",
+      "description": "Seelaternen ersetzen einzelne Blöcke der Decken in Erdgeschoss, Mezzanin, Piano nobile und Galerie, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Setze die Leuchten in die Decke, nicht frei in den Raum.",
+      "caution": "Eine Leuchte ersetzt immer einen Deckenblock.",
+      "fact": "Ohne Lichtquelle sind Innenräume in Minecraft dunkel."
     }
   }
 }
