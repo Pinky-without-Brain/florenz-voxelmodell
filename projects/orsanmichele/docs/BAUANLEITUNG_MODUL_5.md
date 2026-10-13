@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.696 |
+| Blöcke | 7.672 |
 | Bauschritte | 5 |
 | Y-Bereich | 143 bis 148 |
 | X-Ausdehnung | -335 bis -262 (74 Blöcke) |
 | Z-Ausdehnung | 516 bis 568 (53 Blöcke) |
 | Kleinster Schritt | 1.112 Blöcke (Schritt 5.4) |
-| Mittlerer Schritt | 1.539 Blöcke |
+| Mittlerer Schritt | 1.534 Blöcke |
 | Größter Schritt | 2.046 Blöcke (Schritt 5.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 7.696 | 100,0 % |
+| Terrakotta | `terracotta` | 7.672 | 100,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `dach` | Walmdach | 7.590 | 5.1–5.5 |
+| 1 | `dach` | Walmdach | 7.566 | 5.1–5.5 |
 | 2 | `dachkamm` | Dachkamm | 106 | 5.5 |
 
 ## Bauschritte
@@ -35,14 +35,14 @@
 ### Schritt 5.1 – Walmdach – Teil 1/5 (Y 143–143)
 
 - **Y-Bereich:** 143 bis 143
-- **Blöcke:** 1.180
+- **Blöcke:** 1.168
 - **Bauteile:** `dach`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.180 |
+| Terrakotta | `terracotta` | 1.168 |
 
 **Beschreibung**
 
@@ -63,14 +63,14 @@ Orsanmichele ist insgesamt etwa 40 Meter hoch.
 ### Schritt 5.2 – Walmdach – Teil 2/5 (Y 144–144)
 
 - **Y-Bereich:** 144 bis 144
-- **Blöcke:** 1.582
+- **Blöcke:** 1.570
 - **Bauteile:** `dach`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.582 |
+| Terrakotta | `terracotta` | 1.570 |
 
 **Beschreibung**
 

@@ -2,6 +2,7 @@
 // Modul 0: Fundament und Boden (Katalog §1). Rollen statt Blocktypen; alle Zellen aus der OSM-Maske M_OM.
 const WZ = require('../../../tools/wahrzeichen');
 const O = require('../lib/om.js');
+const PAL = require('../../../tools/spec/palette.js');
 
 module.exports = {
   module: 0,
@@ -17,13 +18,17 @@ module.exports = {
 
     // 2. Bodenplatte Y 68; Innenraum d >= 7: Raster 3 x 3 abwechselnd Pflaster / Pietra serena
     // (Raster in lokalen Zellen ui, wi; gerade Summe der Rasterindizes = Pflaster)
-    const platte = L.zellen.map((c) => ({ x: c.x, y: O.Y(0), z: c.z, c }));
+    const platte = L.zellen.filter((c) => !O.tuerStufe(c)).map((c) => ({ x: c.x, y: O.Y(0), z: c.z, c }));
     ctx.part('bodenplatte').fill(platte, (x, y, z) => {
       const c = O.zelle(x, z);
       if (c.d < 7) return pflaster;
       const iu = Math.floor((c.ui + 99) / 3), iw = Math.floor((c.wi + 99) / 3);
       return (iu + iw) % 2 === 0 ? pflaster : serena;
     });
+
+    // 2b. Eingangsstufen vor Nord- und Osttür (B3): Treppenblöcke aus Pietra serena auf Lage 0, Aufstieg in die Kirche
+    const stufen = L.zellen.filter((c) => O.tuerStufe(c)).map((c) => ({ x: c.x, y: O.Y(0), z: c.z, c }));
+    ctx.part('eingangsstufen').fill(stufen, (x, y, z) => PAL.treppe('pietra_serena', O.tuerStufe(O.zelle(x, z))));
 
     // 3. Sockelstufe Lage 1..2: Pfeiler d <= 2 (Pietra serena, 6 breit). Ergänzung gegenüber dem Katalog: der Pfeilerkern
     // (d 3..6) wird mit Mauerwerk unterfüttert, sonst stünde der Pfeiler über einer Höhlung. Der Fuß der Füllwände
@@ -32,7 +37,7 @@ module.exports = {
     for (let yr = 1; yr <= 2; yr++) {
       for (const c of L.zellen) {
         const r = O.ring(c);
-        if (!r || r.typ === 'feld') continue;
+        if (!r || r.typ === 'feld' || O.laneZelle(c.x, c.z, yr)) continue;
         sockel.push({ x: c.x, y: O.Y(yr), z: c.z });
       }
     }

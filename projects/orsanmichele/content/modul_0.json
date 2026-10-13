@@ -1,7 +1,7 @@
 {
   "module": 0,
   "title": "Fundament & Boden",
-  "subtitle": "Bautüte 0: Fundamentzellen, Bodenplatte und Sockelstufe von Orsanmichele",
+  "subtitle": "Bautüte 0: Fundamentzellen, Bodenplatte, Eingangsstufen und Sockelstufe von Orsanmichele",
   "icon": "🧱",
   "parts": {
     "fundament": {
@@ -24,6 +24,13 @@
       "tip": "Jeder Pfeiler ist 6 mal 6 Blöcke breit; die Eckpfeiler gehören zu zwei Seiten.",
       "caution": "Lass die Zellen vor den Bogenfeldern frei, dort steht später die zurückgesetzte Füllwand.",
       "fact": "Die Pfeiler tragen die Tabernakel mit den Statuen der Florentiner Zünfte."
+    },
+    "eingangsstufen": {
+      "title": "Eingangsstufen",
+      "description": "Vor den beiden Portalen (Nordseite, mittleres Feld; Ostseite, hinteres Feld) ersetzt du je sieben Plattenblöcke der Außenreihe durch Treppenblöcke aus Pietra serena, Aufstieg nach innen. Sie heben die Spielfigur vom Straßenniveau auf den Kirchenboden.",
+      "tip": "Setze die Treppenblöcke mit dem Aufstieg nach Süden (Nordportal) bzw. nach Westen (Ostportal).",
+      "caution": "An diesen sieben Stellen liegt kein Plattenblock.",
+      "fact": "Lage der Portale ist eine Annahme. Quelle: it.wikipedia.org/wiki/Orsanmichele; PRUEFBERICHT_D1."
     }
   }
 }

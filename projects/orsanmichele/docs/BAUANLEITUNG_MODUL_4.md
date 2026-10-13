@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.792 |
+| Blöcke | 15.768 |
 | Bauschritte | 10 |
 | Y-Bereich | 120 bis 142 |
 | X-Ausdehnung | -335 bis -262 (74 Blöcke) |
 | Z-Ausdehnung | 516 bis 568 (53 Blöcke) |
 | Kleinster Schritt | 942 Blöcke (Schritt 4.7) |
-| Mittlerer Schritt | 1.579 Blöcke |
+| Mittlerer Schritt | 1.577 Blöcke |
 | Größter Schritt | 2.064 Blöcke (Schritt 4.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 13.522 | 85,6 % |
-| Glatter Stein | `smooth_stone` | 1.180 | 7,5 % |
+| Polierter Andesit | `polished_andesite` | 13.510 | 85,7 % |
+| Glatter Stein | `smooth_stone` | 1.168 | 7,4 % |
 | Glatter Quarzblock | `smooth_quartz` | 578 | 3,7 % |
 | Graues Buntglas | `gray_stained_glass` | 320 | 2,0 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 148 | 0,9 % |
@@ -37,8 +37,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `og2_wand` | Wand des 2. Obergeschosses | 10.770 | 4.1–4.6 |
 | 2 | `og2_biforien` | Biforien und Wappen | 942 | 4.7 |
-| 3 | `arkadenfries` | Arkadenfries aus Dreipassbögen | 2.900 | 4.8–4.9 |
-| 4 | `kranzgesims` | Kranzgesims | 1.180 | 4.10 |
+| 3 | `arkadenfries` | Arkadenfries aus Dreipassbögen | 2.888 | 4.8–4.9 |
+| 4 | `kranzgesims` | Kranzgesims | 1.168 | 4.10 |
 
 ## Bauschritte
 
@@ -246,14 +246,14 @@ Die Wappen der Zünfte zieren die Wandflächen.
 ### Schritt 4.8 – Arkadenfries aus Dreipassbögen – Teil 1/2 (Y 138–139)
 
 - **Y-Bereich:** 138 bis 139
-- **Blöcke:** 1.510
+- **Blöcke:** 1.506
 - **Bauteile:** `arkadenfries`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.510 |
+| Polierter Andesit | `polished_andesite` | 1.506 |
 
 **Beschreibung**
 
@@ -274,14 +274,14 @@ Den Abschluss bildet nach it.wikipedia ein Fries aus Dreipassbögen auf Konsolen
 ### Schritt 4.9 – Arkadenfries aus Dreipassbögen – Teil 2/2 (Y 140–141)
 
 - **Y-Bereich:** 140 bis 141
-- **Blöcke:** 1.390
+- **Blöcke:** 1.382
 - **Bauteile:** `arkadenfries`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.242 |
+| Polierter Andesit | `polished_andesite` | 1.234 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 148 |
 
 **Beschreibung**
@@ -303,14 +303,14 @@ Den Abschluss bildet nach it.wikipedia ein Fries aus Dreipassbögen auf Konsolen
 ### Schritt 4.10 – Kranzgesims
 
 - **Y-Bereich:** 142 bis 142
-- **Blöcke:** 1.180
+- **Blöcke:** 1.168
 - **Bauteile:** `kranzgesims`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.180 |
+| Glatter Stein | `smooth_stone` | 1.168 |
 
 **Beschreibung**
 

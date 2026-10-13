@@ -1,7 +1,7 @@
 {
   "module": 7,
   "title": "Obergeschosse innen",
-  "subtitle": "Bautüte 7: Decken der Obergeschosse und die Treppe im Nordwesten",
+  "subtitle": "Bautüte 7: Decken, Treppe aus Treppenblöcken und Laternen der Obergeschosse",
   "icon": "🪜",
   "parts": {
     "decke_og1": {
@@ -19,11 +19,18 @@
       "fact": "Über der Decke beginnt das Dach."
     },
     "treppe": {
-      "title": "Treppe im Nordwesten",
-      "description": "An der Nordwand steigt eine U-Treppe, 6 Blöcke breit, über 25 Stufen von Y 95 bis 119: ein Lauf von 12 Stufen, ein Podest und ein zweiter Lauf zurück. Die Stufen sind massiv aus grauem Stein.",
-      "tip": "Baue Stufe für Stufe: jede ist eine Lage höher und einen Block weiter.",
-      "caution": "Der Platz im Katalog reicht für 25 Stufen nicht; das Modell wählt eine U-Form entlang der Wand.",
-      "fact": "Lage und Form der Treppe sind eine Annahme, die Quellen nennen sie nicht."
+      "title": "Treppe zu beiden Obergeschossen",
+      "description": "An der Südwand steigt ein gerader Lauf, 2 Blöcke breit, aus Treppenblöcken (Pietra serena) von Westen nach Osten: zuerst 26 Stufen in der Mauerstärke hinter dem Maßwerk (vom Kirchenboden Y 69 zum 1. OG Y 95), ein Podest, dann 25 Stufen im Saal des 1. OG bis zum 2. OG (Y 120). Unter den Stufen liegt eine Unterfütterung aus Pietra forte, über jeder Stufe sind drei Blöcke Luft frei. Drei Seelaternen im Mauerkanal beleuchten den Aufstieg.",
+      "tip": "Setze zuerst die Unterfütterung Lage für Lage, dann die Treppenblöcke mit dem Aufstieg nach Osten.",
+      "caution": "Die Decken (Y 93 bis 94 und Y 119) haben an den Stufen ein Loch, das du freilässt.",
+      "fact": "Historisch führte eine Wendeltreppe im Nordwest-Eckpfeiler zu den Obergeschossen, außerdem der Bogen zum Palazzo dell Arte della Lana (Rampe von Buontalenti, 1569); die Treppe im Modell ist vereinfacht. Quelle: it.wikipedia.org/wiki/Orsanmichele; PRUEFBERICHT_D1."
+    },
+    "laternen_obergeschosse": {
+      "title": "Laternen der Säle",
+      "description": "In die Deckenplatten über dem 1. und 2. Obergeschoss setzt du Seelaternen anstelle einzelner Plattenblöcke, höchstens neun Blöcke voneinander.",
+      "tip": "Lasse an diesen Stellen den Plattenblock weg und setze die Laterne.",
+      "caution": "Über der Treppe gibt es keine Laterne in der Decke.",
+      "fact": "Licht ist ein Spielzugeständnis."
     }
   }
 }

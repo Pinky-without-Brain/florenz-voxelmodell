@@ -8,7 +8,7 @@
       "title": "Füllwand unter den Fenstern",
       "description": "In jedem der zehn Bogenfelder mauerst du die Füllwand vier Blöcke dick (zwei Zellen hinter der Pfeilerfläche) von Y 69 bis 79. Die Türöffnungen lässt du aus.",
       "tip": "Die Füllwand schließt seitlich an die Pfeiler an; so hält jeder Block an seinem Nachbarn.",
-      "caution": "Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei.",
+      "caution": "Nord (Mitte) und Ost (Feld B1) haben eine Tür; dort bleibt die Wand frei. B3: Vor den Portalen bleibt der Sockel offen.",
       "fact": "Die Arkaden des Erdgeschosses wurden um 1360 bis 1367 zugemauert."
     },
     "fuellwand_masswerk": {
@@ -40,11 +40,11 @@
       "fact": "Am Bogenansatz der Fenster stehen nach it.wikipedia kleine Statuetten."
     },
     "tueren": {
-      "title": "Zwei Türen",
-      "description": "In das mittlere Feld der Nordseite und in das hintere Feld der Ostseite schneidest du je ein Portal, 5 Blöcke breit und 10 hoch (Y 71 bis 80). Die Tür aus dunklem Eichenholz sitzt in der dritten Zelle der Wand, die Laibung und den Sturz bildest du aus weißem Quarz.",
-      "tip": "Setze zuerst die Laibung, dann den Sturz auf Y 81, dann die Tür.",
-      "caution": "Lage und Zahl der Türen sind nicht belegt; das Modell nimmt zwei an.",
-      "fact": "Die genaue Lage der Eingänge ist in den Quellen nicht gesichert und eine Schätzung."
+      "title": "Zwei Portale",
+      "description": "In das mittlere Feld der Nordseite und in das hintere Feld der Ostseite schneidest du je ein offenes Portal, 5 Blöcke breit und 12 hoch (Y 69 bis 80), ab dem Boden. Laibung (2 × 12) und Sturz (Y 81) bildest du aus weißem Quarz. Im Spiel gibt es keinen Türflügel: Der Durchgang ist offen.",
+      "tip": "Setze zuerst die Laibung, dann den Sturz auf Y 81.",
+      "caution": "Lage und Zahl der Portale sind nicht belegt; das Modell nimmt zwei an.",
+      "fact": "Die genaue Lage der Eingänge ist in den Quellen nicht gesichert und eine Schätzung. Die Rücksprünge der Bogenfelder sind als Arkade deklariert, dahinter schließt die Füllwand."
     }
   }
 }

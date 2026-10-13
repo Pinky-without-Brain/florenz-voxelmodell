@@ -42,6 +42,11 @@ module.exports = {
     const biMap = new Map(bi.map((b) => [`${b.x},${b.y},${b.z}`, b.t]));
     ctx.part('og1_biforien').fill(bi, (x, y, z) => (biMap.get(`${x},${y},${z}`) === 'glas' ? glas : weiss));
 
+    // Fensternischen vor dem Glas (Außenlage d = 1): offene Fenster (B3, R14)
+    const nischen1 = [];
+    for (let yr = FY0; yr <= FY1; yr++) for (const c of wand) if (c.d === 1 && O.fensterInhalt(c, yr, FY0, FY1) === 'luft') nischen1.push({ x: c.x, y: O.Y(yr), z: c.z });
+    ctx.oeffnung(nischen1, 'fenster_offen');
+
     // 3. Wappen (2 x 2, a -1..0, d = 1), Farben abwechselnd rot, weiß, blau, gelb
     const wp = [];
     for (let yr = WAPPEN_Y0; yr <= WAPPEN_Y1; yr++) {

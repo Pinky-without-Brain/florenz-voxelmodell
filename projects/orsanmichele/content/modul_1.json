@@ -30,7 +30,7 @@
       "description": "Auf jeder Pfeilerfläche setzt du ein Tabernakel: eine Bank aus Quarz auf Y 75, seitlich je ein Säulchen von Y 76 bis 84, darüber eine Rahmenzeile auf Y 85 und einen Dreiecksgiebel aus gemeißeltem Quarz bis Y 87. Die Nische dazwischen bleibt 3 Blöcke breit und 9 hoch offen.",
       "tip": "Baue erst die Bank und die beiden Säulchen, dann die Rahmenzeile und zuletzt die Giebelspitze.",
       "caution": "Vier Tabernakel an Nord und Süd, drei an West und Ost: zähle nach, es müssen vierzehn sein.",
-      "fact": "Nach it.wikipedia stehen in Orsanmichele 14 Tabernakel; jede Zunft hatte ihren eigenen Platz."
+      "fact": "Nach it.wikipedia stehen in Orsanmichele 14 Tabernakel; jede Zunft hatte ihren eigenen Platz. Die Statuennischen sind offen zur Straße (deklariert)."
     }
   }
 }
