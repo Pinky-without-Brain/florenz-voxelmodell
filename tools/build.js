@@ -1,6 +1,7 @@
 'use strict';
 // Gesamtablauf (ARCHITEKTUR §8, §10): buildWorld -> planModule -> validate -> (optional) emit -> Bericht.
-// Aufruf: node tools/build.js [--project <id> | --all] [--cross] [--modules 0,1,3] [--no-emit] [--strict]
+// Aufruf: node tools/build.js [--project <id> | --all] [--cross] [--modules 0,1,3] [--no-emit] [--strict] [--ohne-minecraft]
+// Nach erfolgreichem Bau schreibt die Kommandozeile die Minecraft-Welt, wenn minecraft.local.json im Repo-Wurzelordner liegt.
 // Ohne --project/--all/--cross wird nur der Dom (duomo) gebaut, wie in V2.
 
 const fs = require('node:fs');
@@ -19,6 +20,7 @@ function parseArgs(argv) {
     else if (a === '--strict') o.strict = true;
     else if (a === '--all') o.all = true;
     else if (a === '--cross') o.cross = true;
+    else if (a === '--ohne-minecraft') continue; // wirkt nur in der Kommandozeile (minecraftHook)
     else if (a === '--project') {
       o.project = argv[++i];
       if (!o.project || o.project.startsWith('--')) throw new Error('--project erwartet eine Projekt-ID');
@@ -249,9 +251,24 @@ function main(argv, env = {}) {
   return code;
 }
 
+// Minecraft-Export nach erfolgreichem Bau (nur Kommandozeile, nur mit minecraft.local.json; Fehler lassen den Bau grün)
+function minecraftHook(argv, code) {
+  if (code !== 0 || argv.includes('--ohne-minecraft')) return;
+  if (argv.includes('--cross') && !argv.includes('--all') && !argv.includes('--project')) return;
+  if (!fs.existsSync(path.join(REPO_ROOT, 'minecraft.local.json'))) return;
+  const ex = require('./minecraft/export.js');
+  try {
+    ex.exportWorld({ root: REPO_ROOT });
+  } catch (e) {
+    console.warn('Warnung (Minecraft-Export ' + (e instanceof ex.WeltOffenFehler ? 'übersprungen' : 'fehlgeschlagen') + '): ' + e.message);
+  }
+}
+
 if (require.main === module) {
   try {
-    process.exitCode = main(process.argv.slice(2));
+    const argv = process.argv.slice(2);
+    process.exitCode = main(argv);
+    minecraftHook(argv, process.exitCode);
   } catch (e) {
     console.error('Build-Abbruch: ' + e.message);
     process.exitCode = 1;
