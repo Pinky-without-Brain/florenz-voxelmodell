@@ -72,6 +72,14 @@ module.exports = {
     // Dachluken der Wehrgangtreppen (Luft ab der Dachplatte) sind eine deklarierte Tür-Öffnung ins Freie
     ctx.oeffnung(require('./pv_plan.js').plan(g).luken.map((c) => ({ x: c.x, y: c.y + S.bodenY, z: c.z })), 'tuer');
 
+    // Ausgestaltete Räume mit Trennwänden (pv_raeume2.js): Verkleidungen liegen an den fertigen Wänden an
+    const r2 = require('./pv_raeume2.js');
+    r2.gigli(ctx, S);
+    r2.studiolo(ctx, S);
+    r2.leoneX(ctx, S);
+    r2.carte(ctx, S);
+    r2.elementi(ctx, S);
+
     // Letzte Stufe: Diagonalrisse der einzelligen Schichten schließen (BEGEHBARKEIT.md 1.4)
     const vb = ctx.part('verbindungsbloecke');
     const nv = require('./pv_risse.js').schliesse(S, vb, 'verbindungsbloecke');

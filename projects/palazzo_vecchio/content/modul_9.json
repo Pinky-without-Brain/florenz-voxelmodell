@@ -143,6 +143,13 @@
       "tip": "Hänge die Balken erst an, wenn die Decke fertig ist; sie liegen genau unter den Holzrändern.",
       "caution": "Die Balken enden vor den Wandpilastern.",
       "fact": "Plastische Kassetten mit vergoldeten Rahmen kennzeichnen die Decke des Salone. Quelle: Wikipedia (de, en, it); vereinfacht."
+    },
+    "michelozzo_brunnen": {
+      "title": "Putto-Brunnen im Michelozzo-Hof",
+      "description": "In die Mitte des Hofes setzt du ein rundes Becken: einen Rand aus weißem Marmor, zwei Blöcke hoch, innen Wasser. In der Mitte steht ein Sockel mit einem Schaft und einer Schale, darauf ein kleiner Putto aus Bronze mit einem Delphin im Arm.",
+      "tip": "Baue erst den Rand des Beckens, dann das Mittelstück von unten nach oben und zuletzt das Wasser.",
+      "caution": "Das Wasser darf nicht über den Rand reichen.",
+      "fact": "Der Putto mit dem Delphin von Andrea del Verrocchio (um 1470) ist das Wahrzeichen des Hofes; heute steht im Hof eine Kopie, das Original im Palast. Quelle: Wikipedia (de, en, it); die Figur ist eine stark vereinfachte Blockfigur."
     }
   }
 }
