@@ -14,7 +14,7 @@ module.exports = {
     const S = pv.state(ctx);
     const TY = pv.TY;
     const T = S.g.recs.filter((r) => r.zone === 'T');
-    const band = T.filter((r) => r.dT <= 4);
+    const band = S.g.turmBand;
 
     // 1) Unterbau: Turmwandband in y_rel 1..62; Zellen der Außenwände, des Ballatoio und der Zinnen sind schon belegt
     const ub = ctx.part('turm_unterbau');
@@ -32,7 +32,7 @@ module.exports = {
       const dw = Math.min(r.w - TW0, TW1 - r.w), du = Math.min(r.u - TU0, TU1 - r.u);
       return dw < du ? Math.abs(r.u - TUC) < 0.5 : Math.abs(r.w - TWC) < 0.5;
     };
-    S.band(s2, band, 105, 144, (r, y) => (schlitz(r, y) ? null : TY.pietra_forte), 'schaft_105_144');
+    S.band(s2, band, 105, 144, (r, y) => { if (schlitz(r, y)) { S.note('scharte', r.x, y, r.z); return null; } return TY.pietra_forte; }, 'schaft_105_144');
 
     // 4) Abschlussdecke y_rel 144 über dem Hohlraum
     const dk = ctx.part('schaft_abschlussdecke');

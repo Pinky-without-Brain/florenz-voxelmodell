@@ -15,7 +15,7 @@ module.exports = {
     S.band(dg, mitte.filter(frei), 50, 55, (r, y) => {
       const f = pv.fassadeM(S, r);
       if (f && y >= 52 && y <= 54) {
-        for (const u0 of f.axes) if (Math.abs(f.u - u0) < 1) return r.d8 === 2 ? TY.glas_fenster : null;
+        for (const u0 of f.axes) if (Math.abs(f.u - u0) < 1) return r.d8 === 1 ? TY.glas_fenster : null;
       }
       return TY.putz_sand;
     }, 'dachgeschoss_mittelbauten');

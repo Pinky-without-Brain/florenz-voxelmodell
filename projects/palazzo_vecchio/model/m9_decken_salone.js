@@ -61,6 +61,10 @@ module.exports = {
       }
       return TY.pietra_forte;
     }, 'innenwaende_a');
+    // Letzte Stufe: Diagonalrisse der einzelligen Schichten schließen (BEGEHBARKEIT.md 1.4)
+    const vb = ctx.part('verbindungsbloecke');
+    const nv = require('./pv_risse.js').schliesse(S, vb, 'verbindungsbloecke');
+    if (process.env.PV_DEBUG) console.error('PV Verbindungsblöcke:', nv);
     if (process.env.PV_DEBUG) console.error('PV Auslassungen je Bauteil (K0):', JSON.stringify(S.skips));
   }
 };

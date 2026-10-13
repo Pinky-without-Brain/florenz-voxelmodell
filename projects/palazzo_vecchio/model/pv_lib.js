@@ -117,10 +117,13 @@ function geo() {
     }
   }
 
+  // Turmwand: Zone T (Wandband 4) plus die Randzellen der Westfassade am Turmrechteck, die das Polygon T durch die Rundung verfehlt (sonst bleiben senkrechte Schlitze)
+  const turmBand = recs.filter((r) => (r.zone === 'T' && r.dT <= 4) || (r.zone !== 'T' && r.d8 <= 1 && r.u >= 23.2 && r.u < 46.4 && r.w >= -0.7 && r.w < 14.8));
+
   // Löcher: Polygonkanten (Normale zeigt vom Loch weg ins Mauerwerk)
   const loecher = poly.loecher.map((ring, i) => ({ i, ring, kanten: P.edges({ aussen: [ring], loecher: [] }) }));
 
-  GEO = { json, M, rf, bodenY, K, poly, zm, MT, recs, rec, byKey, loecher, eckPunkte, zoneOf, ring: null, tower: {} };
+  GEO = { json, M, rf, bodenY, K, poly, zm, MT, recs, rec, byKey, loecher, eckPunkte, zoneOf, turmBand, ring: null, tower: {} };
   return GEO;
 }
 
@@ -200,29 +203,54 @@ const keyOf = (x, y, z) => ((x + 4096) * 8192 + (z + 4096)) * 512 + y;
 
 function state(ctx) {
   let S = STATES.get(ctx.grid);
-  if (S) return S;
+  if (S) { S.ctx = ctx; return S; }
   const g = geo();
   const claimed = new Set();
   const skips = {};
   S = {
     g, claimed, skips, cfg: { PV_AXES: 9, PORTAL_U: 55 },
     bodenY: g.bodenY,
-    /** Setzt einen Block bei y_rel; false, wenn die Zelle schon belegt ist (K0). Prüft den Luftraum. */
+    ctx,
+    carve: new Set(),            // freizuhaltende Zellen (Türen, Treppenlöcher, Treppen): put() setzt dort nichts (B2)
+    types: new Map(),            // Zellschlüssel -> Blocktyp aller gesetzten Zellen (Rissschließung, Licht)
+    pend: new Map(),             // Art -> noch nicht deklarierte Öffnungszellen [{x, y, z}]
+    /** Setzt einen Block bei y_rel; false, wenn die Zelle schon belegt ist (K0) oder freigehalten wird. Prüft den Luftraum. */
     put(W, x, yr, z, type, tag) {
       const k = keyOf(x, yr + g.bodenY, z);
+      if (S.carve.has(k)) return false;
+      return S.setze(W, k, x, yr, z, type, tag);
+    },
+    /** Wie put, ignoriert aber die Freihaltung (für Treppen, Podeste und Türfüllungen, die selbst im freigehaltenen Raum stehen). */
+    putForce(W, x, yr, z, type, tag) {
+      return S.setze(W, keyOf(x, yr + g.bodenY, z), x, yr, z, type, tag);
+    },
+    setze(W, k, x, yr, z, type, tag) {
       if (claimed.has(k)) { const id = tag || '?'; skips[id] = (skips[id] || 0) + 1; return false; }
       if (!g.M.innen(x, z) && !(g.M.dAussen(x, z) <= 3)) {
         throw new Error(`Luftraum verletzt bei (${x},${yr},${z}) ${tag || ''}`);
       }
       claimed.add(k);
+      S.types.set(k, type);
       W.set(x, yr + g.bodenY, z, type);
       return true;
     },
     has(x, yr, z) { return claimed.has(keyOf(x, yr + g.bodenY, z)); },
+    /** Öffnungszelle (Luft) für die spätere Deklaration vormerken (R14); art: tuer|tor|fenster_offen|arkade|loggia|scharte. */
+    note(art, x, yr, z) {
+      let l = S.pend.get(art);
+      if (!l) S.pend.set(art, l = []);
+      l.push({ x, y: yr + g.bodenY, z });
+    },
+    /** Vorgemerkte Öffnungen beim aktuellen Bauteil des Moduls deklarieren. */
+    flush() {
+      for (const [art, l] of S.pend) if (l.length) S.ctx.oeffnung(l, art);
+      S.pend.clear();
+    },
     /** Schichtweise füllen: für y in y0..y1 und alle Records den Typ aus mat(rec, y) (null = nichts). */
     band(W, recs, y0, y1, mat, tag) {
       let n = 0;
       for (let y = y0; y <= y1; y++) for (const r of recs) { const t = mat(r, y); if (t && S.put(W, r.x, y, r.z, t, tag)) n++; }
+      S.flush();
       return n;
     },
     korridor: (r, y) => korridor(g, r, y),
@@ -259,7 +287,7 @@ function dogana(r, y) {
 // ------------------------------------------------------------------ Öffnungen (alle in Fassadenkoordinate u, Höhe y, Tiefe d)
 // Rückgabe: undefined = keine Öffnung zuständig, null = Luft, sonst Blocktyp.
 function fenster(u, y, d, u0, hw, y0, y1, rahmen) {
-  if (u >= u0 - hw && u < u0 + hw && y >= y0 && y <= y1) return d === 2 ? TY.glas_fenster : null;
+  if (u >= u0 - hw && u < u0 + hw && y >= y0 && y <= y1) return d === 1 ? TY.glas_fenster : null;
   if (d === 1 && u >= u0 - hw - 1 && u < u0 + hw + 1 && y >= y0 - 1 && y <= y1 + 1) return rahmen;
   return undefined;
 }
@@ -271,14 +299,14 @@ function bifora(u, y, d, u0, y0, y1) {
   const rahmen = du < -2.5 || du >= 2.5 || y === y0 || y === y1 || (du >= -0.5 && du < 0.5);
   if (rahmen) return d <= 2 ? TY.marmor_weiss : undefined;
   if (y === y1 - 1) return TY.marmor_ornament;
-  return d === 2 ? TY.glas_fenster : null;
+  return d === 1 ? TY.glas_fenster : null;
 }
 
 // Hauptportal der Westfassade (Katalog Modul 1 Teil 1): 8 x 12, Marmorrahmen 2 breit, Sturz, Wappentafel, Tür in d 3..4
 function portalW(u, y, d, u0) {
   const du = u - u0;
   if (y <= 12) {
-    if (du >= -4 && du < 4) return d === 3 || d === 4 ? TY.holz : null;
+    if (du >= -4 && du < 4) return null;
     if (d <= 2 && ((du >= -6 && du < -4) || (du >= 4 && du < 6))) return TY.marmor_weiss;
   } else if (y <= 14) {
     if (d <= 2 && du >= -6 && du < 6) return TY.marmor_weiss;
@@ -292,7 +320,7 @@ function portalW(u, y, d, u0) {
 function portalTramontana(u, y, d, u0) {
   const du = u - u0;
   if (y <= 10) {
-    if (du >= -3 && du < 3) return d === 3 || d === 4 ? TY.holz : null;
+    if (du >= -3 && du < 3) return null;
     if (d <= 2 && ((du >= -4 && du < -3) || (du >= 3 && du < 4))) return TY.marmor_weiss;
   } else if (y === 11) {
     if (d <= 2 && du >= -4 && du < 4) return TY.marmor_weiss;
@@ -306,7 +334,7 @@ function portalTramontana(u, y, d, u0) {
 // kleine Tür auf E16: 3 x 6
 function tuerKlein(u, y, d, u0) {
   const du = u - u0;
-  if (y <= 6 && du >= -1.5 && du < 1.5) return d === 3 || d === 4 ? TY.holz : null;
+  if (y <= 6 && du >= -1.5 && du < 1.5) return null;
   if (d === 1 && du >= -2.5 && du < 2.5 && y <= 7) return TY.pietra_forte;
   return undefined;
 }
@@ -342,7 +370,10 @@ function oeffnungA(S, r, y) {
     if (grp === 'W') { q = portalW(u, y, d, S.cfg.PORTAL_U); skipU = S.cfg.PORTAL_U; skipR = 6; }
     else if (grp === 'N1') { q = portalTramontana(u, y, d, 24); skipU = 24; skipR = 5; }
     else if (grp === 'S') { q = tuerKlein(u, y, d, 40); skipU = 40; skipR = 5; }
-    if (q !== undefined) return q;
+    if (q !== undefined) {
+      if (q === null) S.note('tuer', r.x, y, r.z);
+      return q;
+    }
   }
   {
     for (const u0 of f.axes) {
@@ -362,7 +393,7 @@ function oeffnungA(S, r, y) {
 function wandA(S, r, y) {
   if (r.d8 > tWall(y)) return null;
   if (r.zone === 'T' && r.dT > 4) return null;                          // K2: Turmhohlraum bleibt leer (Turmwand 4 dick)
-  if (S.korridor(r, y)) return null;
+  if (S.korridor(r, y)) { if (S.korridor(r, y) === 'air') S.note('tor', r.x, y, r.z); return null; }
   const q = oeffnungA(S, r, y);
   if (q !== undefined) return q;
   if (r.d8 === 1 && (y === 17 || y === 34)) return TY.marmor_weiss;     // Marcapiano
@@ -390,7 +421,7 @@ function portalLeoni(u, y, d, u0) {
   const du = u - u0;
   const r = 4, spring = 11;
   const offen = (a, b) => (b <= spring ? Math.abs(a) < r : a * a + (b - spring) * (b - spring) < r * r);
-  if (offen(du, y)) return d === 3 || d === 4 ? TY.holz : null;
+  if (offen(du, y)) return null;
   if (d <= 2) {
     if (y <= spring && Math.abs(du) < r + 1) return TY.pietra_serena;
     if (y > spring && du * du + (y - spring) * (y - spring) < (r + 1) * (r + 1)) return TY.pietra_serena;
@@ -402,7 +433,10 @@ function portalLeoni(u, y, d, u0) {
 /** Wandmaterial der Zonen M, P, B bei y_rel 1..49 (EG Rustika, OG Putz); null = keine Wand. */
 function wandM(S, r, y) {
   if (r.d8 > tWall(y)) return null;
-  if (S.korridor(r, y) || r.lis || r.eck || S.dogana(r, y)) return null;
+  const kz = S.korridor(r, y), dz = S.dogana(r, y);
+  if (kz === 'air') S.note('tor', r.x, y, r.z);
+  if (dz === 'air') S.note('tuer', r.x, y, r.z);
+  if (kz || r.lis || r.eck || dz) return null;
   const f = fassadeM(S, r);
   const eg = y <= 16;
   const base = eg ? TY.pietra_forte_rustika : TY.putz_sand;
@@ -410,7 +444,7 @@ function wandM(S, r, y) {
     const d = r.d8;
     if (r.e === 9 && y <= 19) {
       const q = portalLeoni(f.u, y, d, f.L / 2);
-      if (q !== undefined) return q;
+      if (q !== undefined) { if (q === null) S.note('tuer', r.x, y, r.z); return q; }
     }
     for (const u0 of f.axes) {
       if (r.e === 9 && Math.abs(u0 - f.L / 2) < 5) continue;

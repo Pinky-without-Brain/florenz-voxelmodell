@@ -42,7 +42,7 @@ module.exports = {
       const spring = 14 - rr;                                                // Scheitel immer y_rel 14
       const dy = y - spring;
       const offen = y <= spring ? Math.abs(f.du) < rr + 0.01 : f.du * f.du + dy * dy < rr * rr;
-      if (offen) return null;
+      if (offen) { S.note('arkade', r.x, y, r.z); return null; }
       if (y > spring - 1 && f.du * f.du + Math.max(0, dy) * Math.max(0, dy) < (rr + 1) * (rr + 1)) return TY.pietra_serena;   // Archivolte
       return TY.pietra_forte;                                                // Spandrillen bis y_rel 16
     };
@@ -91,7 +91,7 @@ module.exports = {
         if (q.t >= 0 && q.t <= q.L) {
           const c = (Math.floor(Math.min(q.t, q.L - 1e-6) / T) + 0.5) * T;
           const hoch = (y >= 9 && y <= 12) || (y >= 25 && y <= 28) || (y >= 41 && y <= 44);
-          if (hoch && Math.abs(q.t - c) < 1) return r['dH' + i] === 2 ? TY.glas_fenster : null;
+          if (hoch && Math.abs(q.t - c) < 1) return r['dH' + i] === 1 ? TY.glas_fenster : null;
         }
         return TY.putz_sand;
       }, 'lichthoefe');

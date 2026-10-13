@@ -52,6 +52,13 @@
       "tip": "Lässt du die Wände weg, sparst du rund 20.000 Blöcke.",
       "caution": "Die Lage der Wände ist eine Annahme, die den Außenwänden und Höfen ausweicht.",
       "fact": "Die Innenwände tragen die Decken und steifen den hohen Block aus."
+    },
+    "verbindungsbloecke": {
+      "title": "Verbindungsblöcke an den Fugen",
+      "description": "Zum Schluss setzt du an jede Stelle, an der zwei Mauerblöcke nur an einer Kante zusammenstoßen, einen kleinen Block aus demselben Material. Das sind vor allem die Gläser, Brüstungen und dünnen Dachschalen des gedrehten Palastes.",
+      "tip": "Suche von oben nach diagonalen Fugen: Zwei Blöcke, die sich nur an der Ecke berühren, bekommen einen dritten Block daneben.",
+      "caution": "Die Verbindungsblöcke dürfen keine Tür, keinen Treppenschacht und keinen Gang verengen; setze sie nur an die Mauerseite.",
+      "fact": "Der Palazzo Vecchio steht im Modell um 79,8 Grad gedreht im Raster; deshalb entstehen an den einzelligen Schichten Fugen, durch die man sonst hindurchsehen und -leuchten würde. Das Schließen der Fugen ist eine Vereinfachung des Modells."
     }
   }
 }

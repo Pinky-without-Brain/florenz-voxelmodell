@@ -130,9 +130,10 @@ module.exports = {
     S.band(bod, A.filter((r) => r.d8 <= 5 && !(r.zone === 'T' && r.dT > 4)), 56, 56, () => TY.pietra_forte, 'ballatoio_boden');
     for (const c of ring) {
       const ra = c.ra;
-      if (!ra.cap && ra.j % 2 === 0 && c.s <= 2 && Math.abs(ra.du) < 0.5) continue;
+      if (!ra.cap && ra.j % 2 === 0 && c.s <= 2 && Math.abs(ra.du) < 0.5) { S.note('scharte', c.x, 56, c.z); continue; }   // Caditoia (Wurfloch)
       S.put(bod, c.x, 56, c.z, TY.pietra_forte, 'ballatoio_boden');
     }
+    S.flush();
     S.band(bod, strip, 56, 56, () => TY.pietra_forte, 'ballatoio_boden');
 
     // 4) Brüstung y_rel 57..60: Ring s 2..3 (2 dick) und Ostgrenze
@@ -146,8 +147,10 @@ module.exports = {
       for (const c of ring) {
         if (c.s < 2) continue;
         if (c.ra.cap || (c.ra.ph >= 0.2 && c.ra.ph < 0.8)) S.put(zin, c.x, y, c.z, TY.pietra_forte, 'zinnen_guelfisch');
+        else S.note('scharte', c.x, y, c.z);                 // Zinnenlücke
       }
     }
+    S.flush();
     S.band(zin, strip.filter((r) => { const q = stripPh(r); return q >= 0.2 && q < 0.8; }), 61, 62, () => TY.pietra_forte, 'zinnen_guelfisch');
 
     // 6) Eckmarzocchi (optional): 2 x 2 x 3 Nischenblock mit Löwe in den vier Ecken des Rechtecks A
