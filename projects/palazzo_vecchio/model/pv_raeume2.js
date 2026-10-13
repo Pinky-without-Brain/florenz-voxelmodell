@@ -116,7 +116,7 @@ function carte(ctx, S) {
     return landkarte(Math.floor(a / 7) * 3 + (dx !== 0 ? 1 : 2), la, lb);
   }, tag);
   // Globus: Kugel R 4,4 auf Sockel, Meere blau, Kontinente grün/braun, goldener Äquator, weiße Polkappe
-  const c = weltZelle(S, 73, 42), cy = 42;
+  const c = weltZelle(S, 73, 42), cy = 41;
   for (let dx = -1; dx <= 1; dx++) for (let dz = -1; dz <= 1; dz++) for (let y = 34; y <= 36; y++) S.put(W, c.x + dx, y, c.z + dz, TY.holz, tag);
   for (let dx = -5; dx <= 5; dx++) for (let dz = -5; dz <= 5; dz++) for (let dy = -4; dy <= 5; dy++) {
     const d = Math.sqrt(dx * dx + dz * dz + dy * dy);
