@@ -1,0 +1,22 @@
+{
+  "module": 8,
+  "title": "Grabmäler und Licht",
+  "subtitle": "Bautüte 8: Sarkophage der Großherzöge und Beleuchtung",
+  "icon": "🕯️",
+  "parts": {
+    "grabmaeler": {
+      "title": "Grabmäler",
+      "description": "An sechs Seiten des Achtecks stehen Sarkophage aus Poliertem Granit mit einer Bronzeplatte.",
+      "tip": "Die Ost- und Westseite mit den Türen bleiben frei.",
+      "caution": "Die Grabmäler sind vereinfacht.",
+      "fact": "Pietro Tacca schuf die Bronzestatuen von Ferdinando I und Cosimo II."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "In die Böden von Kirche, Kapelle und Krypta setzt du Seelaternen im Abstand von höchstens zwölf Blöcken.",
+      "tip": "Die Lichter ersetzen Bodenplatten.",
+      "caution": "Setze sie zuletzt.",
+      "fact": "In der Kirche fällt das Licht durch die Fenster des Obergadens."
+    }
+  }
+}

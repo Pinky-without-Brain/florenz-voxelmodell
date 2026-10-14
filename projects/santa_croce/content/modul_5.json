@@ -1,0 +1,43 @@
+{
+  "module": 5,
+  "title": "Fassade",
+  "subtitle": "Bautüte 5: die neugotische Marmorfassade von Niccolò Matas",
+  "icon": "⭐",
+  "parts": {
+    "fassade_kern": {
+      "title": "Fassadenkern",
+      "description": "Hinter dem Marmor mauerst du die alte Front aus Steinziegeln, bis zur Höhe der Fassade. Durch den Kern führen die drei Portale: Mittelportal acht Blöcke breit und bis Lage 16 hoch, Seitenportale vier Blöcke breit bis Lage 11.",
+      "tip": "Die Portale gehen durch die ganze Fassadentiefe.",
+      "caution": "Der Kern bleibt hinter dem Marmor unsichtbar.",
+      "fact": "Die Fassade blieb bis ins 19. Jahrhundert unvollendet und zeigte rohen Backstein."
+    },
+    "fassade_marmor": {
+      "title": "Marmorverkleidung",
+      "description": "Die beiden vorderen Lagen sind weißer Marmor (Glatter Quarzblock) mit grünen Bändern aus Dunklem Prismarin in jeder neunten Lage und rosa Feldern aus Poliertem Granit zwischen Lage 19 und 33. Die Portale rahmst du mit Gemeißeltem Quarzblock.",
+      "tip": "Lege zuerst die grünen Bänder, dann füllst du die weißen Felder dazwischen.",
+      "caution": "Die Seitenteile steigen von außen Lage 35 nach innen bis Lage 43.",
+      "fact": "Der Marmor stammt aus Carrara (weiß), Prato (grün) und Siena (rosa)."
+    },
+    "rosette": {
+      "title": "Rosette",
+      "description": "Über dem Mittelportal sitzt bei Lage 46 ein rundes Fenster mit neun Blöcken Durchmesser: innen farbiges Glas in Ringen, außen ein Rahmen aus Gemeißeltem Quarzblock.",
+      "tip": "Baue die Rosette von der Mitte nach außen.",
+      "caution": "Die Rosette geht durch die ganze Fassadentiefe.",
+      "fact": "Matas baute die Fassade von 1853 bis 1863."
+    },
+    "giebel": {
+      "title": "Mittelgiebel",
+      "description": "Über Lage 64 steigt der Mittelteil als Dreiecksgiebel bis Lage 76; die Kante ist Gemeißelter Quarzblock. Der Giebel verdeckt das Dach des Mittelschiffs.",
+      "tip": "Jede Lage wird zur Mitte hin schmaler.",
+      "caution": "Der Giebel ist höher als das Dach des Mittelschiffs.",
+      "fact": "Den Giebel krönt ein großer Davidstern, ein Zeichen des jüdischen Architekten Matas."
+    },
+    "fialen": {
+      "title": "Fialen und Stern",
+      "description": "Auf den Pfeilern neben dem Mittelteil stehen Fialen bis Lage 64 mit Spitzen bis Lage 72, an den Ecken bis Lage 45, und auf der Mitte des Giebels die Spitze mit dem Stern bis Lage 85.",
+      "tip": "Die Spitzen sind schmal: setze sie zuletzt.",
+      "caution": "Die Fialen stehen frei über der Fassade.",
+      "fact": "Die Mittelspitze erreicht 42,5 Meter über der Piazza."
+    }
+  }
+}

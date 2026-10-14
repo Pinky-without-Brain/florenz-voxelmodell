@@ -1,0 +1,57 @@
+{
+  "id": "w307153254",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16.–17. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 9
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 7,
+    "material": "putz",
+    "putzfarbe": "sand",
+    "erdgeschoss": {
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 7,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": "gruen"
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Palazzo Benci"
+}

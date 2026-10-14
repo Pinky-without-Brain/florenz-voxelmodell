@@ -1,0 +1,48 @@
+{
+  "id": "w519721794",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 10,
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
+    "erdgeschoss": {
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 7,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 3
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+}

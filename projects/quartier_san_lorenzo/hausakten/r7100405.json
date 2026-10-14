@@ -1,0 +1,48 @@
+{
+  "id": "r7100405",
+  "typ": "palazzo_ottocento",
+  "epoche": "19. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 6,
+    "material": "putz",
+    "putzfarbe": "weiss",
+    "erdgeschoss": {
+      "art": "portal_mittig",
+      "portalBreiteBl": 7,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rahmen_stuck",
+      "rahmen": "putz",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 2
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "flach",
+    "material": "terrasse",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+}

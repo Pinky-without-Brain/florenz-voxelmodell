@@ -1,0 +1,40 @@
+{
+  "id": "w246084648",
+  "typ": "zweckbau",
+  "epoche": "19.–20. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 1,
+    "material": "putz",
+    "putzfarbe": "ocker",
+    "erdgeschoss": {
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck_vergittert"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "putz",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "keiner",
+      "tiefeBl": 0
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "sattel",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ zweckbau nach Kleinbau/Nebengebäude; Epoche, Achsen und Farbe sind Schätzungen."
+}

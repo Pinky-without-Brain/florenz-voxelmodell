@@ -7,7 +7,7 @@ const path = require('node:path');
 const GEL = require('../geo/gelaende.js');
 const grid = require('../geom/grid.js');
 const { loadRegistry, ROOT } = require('../projects.js');
-const { buildWorld, listModules, isUnabhaengig } = require('../model/world.js');
+const { buildWorld, listModules, isUnabhaengig, vergissGenerator } = require('../model/world.js');
 const { typesForRole } = require('../spec/palette.js');
 const { ALLE_TYPEN } = require('./bedrock_bloecke.js');
 
@@ -142,6 +142,8 @@ class WeltDaten {
       // Unabhängige Module (Stadtgrund) einzeln bauen: ein Grid je Modul
       const laeufe = isUnabhaengig(p) ? listModules(p).numbers.map((n) => [n]) : [undefined];
       for (const mods of laeufe) this._projekt(p, buildWorld({ project: p, modules: mods }), bucketAdd);
+      // Generator-Caches (Quartier, Stadtgrund) freigeben, sonst wächst der Heap mit jedem Projekt
+      vergissGenerator(p);
     }
   }
 

@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 27.101 |
+| Blöcke | 26.939 |
 | Bauschritte | 17 |
 | Y-Bereich | 58 bis 66 |
 | X-Ausdehnung | 96 bis 415 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 586 Blöcke (Schritt 115.13) |
-| Mittlerer Schritt | 1.594 Blöcke |
-| Größter Schritt | 2.011 Blöcke (Schritt 115.2) |
+| Mittlerer Schritt | 1.585 Blöcke |
+| Größter Schritt | 2.017 Blöcke (Schritt 115.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 22.757 | 84,0 % |
-| Stein | `stone` | 3.613 | 13,3 % |
+| Polierter Tuffstein | `polished_tuff` | 22.757 | 84,5 % |
+| Stein | `stone` | 3.451 | 12,8 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 237 | 0,9 % |
 | Grasblock | `grass_block` | 145 | 0,5 % |
 | Glatter Stein | `smooth_stone` | 110 | 0,4 % |
@@ -40,7 +40,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 3.613 | 115.1–115.2 |
+| 1 | `boeschung` | Böschung und Mantel | 3.451 | 115.1–115.2 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 17.117 | 115.3–115.12 |
 | 3 | `gehwege` | Gehwege | 110 | 115.13 |
 | 4 | `stufen` | Treppenflächen | 476 | 115.13 |
@@ -52,14 +52,14 @@
 ### Schritt 115.1 – Böschung und Mantel – Teil 1/2 (Y 58–61)
 
 - **Y-Bereich:** 58 bis 61
-- **Blöcke:** 1.602
+- **Blöcke:** 1.434
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.602 |
+| Stein | `stone` | 1.434 |
 
 **Beschreibung**
 
@@ -80,14 +80,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 115.2 – Böschung und Mantel – Teil 2/2 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
-- **Blöcke:** 2.011
+- **Blöcke:** 2.017
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.011 |
+| Stein | `stone` | 2.017 |
 
 **Beschreibung**
 

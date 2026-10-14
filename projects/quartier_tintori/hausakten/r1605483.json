@@ -1,0 +1,49 @@
+{
+  "id": "r1605483",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16.–17. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 8,
+    "material": "putz",
+    "putzfarbe": "grau",
+    "erdgeschoss": {
+      "art": "portal_seitlich",
+      "portalBreiteBl": 7,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "tabernakel",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Palazzo Peruzzi-Lotti"
+}

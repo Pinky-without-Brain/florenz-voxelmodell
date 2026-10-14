@@ -1,0 +1,57 @@
+{
+  "module": 6,
+  "title": "Dächer und Dachstuhl",
+  "subtitle": "Bautüte 6: Ziegeldächer, Schildwände und offener Dachstuhl",
+  "icon": "🏠",
+  "parts": {
+    "dach_mittelschiff": {
+      "title": "Dach des Mittelschiffs",
+      "description": "Das Satteldach über dem Mittelschiff hat den First auf Lage 70 und die Traufe auf 62. Es reicht über die Vierung bis zum Chor; die Dachhaut ist Terrakotta, wo sie steiler wird, zwei Lagen dick.",
+      "tip": "Lege das Dach Bahn für Bahn von der Traufe zum First.",
+      "caution": "Innen gibt es kein Gewölbe: man sieht direkt in den Dachstuhl.",
+      "fact": "Die Breite von fast 38 Metern ließ keine Steinwölbung zu, deshalb trägt ein hölzerner Dachstuhl."
+    },
+    "dach_seitenschiffe": {
+      "title": "Querdächer der Seitenschiffe",
+      "description": "Über jedem Joch der Seitenschiffe liegt ein eigenes Satteldach quer zur Kirchenachse, mit dem First auf Lage 42 über der Jochmitte und Kehlen auf Lage 30 über den Pfeilern.",
+      "tip": "Die Dächer folgen den Giebeln der Außenwand.",
+      "caution": "Zwischen den Jochen entstehen Kehlen: dort liegt das Dach zwei Lagen dick.",
+      "fact": "Die vierzehn Querdächer geben der Seitenansicht ihre Giebelreihe."
+    },
+    "dach_querhaus": {
+      "title": "Dach des Querhauses",
+      "description": "Das Querhaus trägt ein Satteldach in Querrichtung mit First auf Lage 66 und Traufe auf Lage 56.",
+      "tip": "Das Querhausdach schließt an das höhere Mittelschiffdach an.",
+      "caution": "An den Stirnseiten bilden die Wände Giebel.",
+      "fact": "Der Grundriss ist ein T: ein ägyptisches Kreuz."
+    },
+    "dach_kapellen": {
+      "title": "Pultdächer der Kapellen",
+      "description": "Die Ostkapellen tragen Pultdächer von Lage 36 an der Querhauswand bis Lage 30 außen.",
+      "tip": "Die Dachhaut läuft als Treppe nach unten.",
+      "caution": "Die Dächer stoßen an die höheren Wände von Querhaus und Chor.",
+      "fact": "Hinter den Kapellen liegt der Campanile."
+    },
+    "dach_chor": {
+      "title": "Dach der Cappella maggiore",
+      "description": "Der Chor hat ein Walmdach, das zur Mitte hin bis Lage 62 ansteigt.",
+      "tip": "Baue Ring für Ring nach innen.",
+      "caution": "Die Dachhaut ist an den Graten zwei Lagen dick.",
+      "fact": "Der Chor ist der älteste Teil der Kirche."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein höheres Dach an ein tieferes stößt, schließt du die Lücke mit Steinziegeln: über den Seitenschiffen an der Querhauswand, an der Vierung und an der Fassade.",
+      "tip": "Die Schildwände hängen an der Dachhaut darüber.",
+      "caution": "Ohne sie wäre der Dachraum offen.",
+      "fact": "Solche Wände heißen Schildwände oder Giebelwände."
+    },
+    "binder": {
+      "title": "Offener Dachstuhl",
+      "description": "Im Mittelschiff liegen alle sechs Blöcke Binder aus Dunkler Eiche: ein Zugbalken auf Lage 62 von Wand zu Wand, Sparren direkt unter der Dachhaut und in der Mitte eine Hängesäule.",
+      "tip": "Die Balken sind zwei Blöcke breit.",
+      "caution": "Auf den Balken kann man nicht laufen.",
+      "fact": "Die Balken des Dachstuhls sind bemalt."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Obergaden und Ballatoio",
+  "subtitle": "Bautüte 3: Hochwände des Mittelschiffs mit Fenstern und Laufgang",
+  "icon": "🪟",
+  "parts": {
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Arkaden setzt du die Mittelschiffwände fort, drei Blöcke dick, bis zur Traufe auf Lage 62. Innen weißer Putz, außen über den Seitenschiffdächern Steinziegel.",
+      "tip": "Die Wand folgt der Dachneigung: nahe der Mitte endet sie eine Lage höher.",
+      "caution": "Die Fensteröffnungen bleiben frei.",
+      "fact": "Das Mittelschiff ist innen 34 Meter hoch und 20 Meter breit."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "Je Joch und Seite ein Lanzettfenster, drei Blöcke breit, von Lage 46 bis 58, die Mittelspalte bis 60, aus farbigem Glas.",
+      "tip": "Das Fenster sitzt genau über der Jochmitte.",
+      "caution": "Durch diese Fenster fällt das meiste Licht ins Mittelschiff.",
+      "fact": "Viele Fenster von Santa Croce stammen aus dem 14. Jahrhundert."
+    },
+    "ballatoio": {
+      "title": "Ballatoio",
+      "description": "Über den Arkaden läuft auf Lage 41 ein schmaler Laufgang aus Glattem Stein, eine Zelle breit, auf Konsolen in jeder dritten Zelle auf Lage 40.",
+      "tip": "Setze erst die Konsolen, dann die Platten.",
+      "caution": "Der Gang ist ein Wartungsgang: er ist im Modell nicht über Treppen erreichbar.",
+      "fact": "Der Ballatoio auf Kragsteinen bindet die dünnen Wände zusammen und läuft rings um das Mittelschiff."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "module": 7,
+  "title": "Campanile",
+  "subtitle": "Bautüte 7: der Glockenturm von Gaetano Baccani",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der quadratische Turm ist zwölf Blöcke breit, seine Wände zwei Blöcke dick aus Poliertem Andesit mit Bändern aus Glattem Stein in jeder vierzigsten Lage. Alle zwanzig Lagen sitzt ein kleines Fenster. Von der südlichsten Kapelle führt eine Tür in den Turm.",
+      "tip": "Der Schaft reicht bis Lage 119.",
+      "caution": "Lass die Tür und die Schlitzfenster frei.",
+      "fact": "Der Turm wurde 1842 bis 1847 gebaut; der alte über der Apsis war 1512 eingestürzt."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Glatten-Stein-Stufen um einen Kern bis zur Glockenstube auf Lage 120: an jeder Seite eine Stufe, in den Ecken Podeste.",
+      "tip": "Die Treppe dreht im Uhrzeigersinn nach oben.",
+      "caution": "Über der Treppe bleiben drei Blöcke Kopffreiheit.",
+      "fact": "Der Turm ist 78,45 Meter hoch."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Von Lage 120 bis 134 öffnet sich die Glockenstube mit zwei Bifore auf jeder Seite; der Boden ist aus Dunkler Eiche, die Decke aus Glattem Stein.",
+      "tip": "Die Öffnungen reichen von Lage 123 bis 131.",
+      "caution": "Die Bogenöffnungen bleiben offen, damit der Glockenklang hinausdringt.",
+      "fact": "Im Turm hängen sechs Glocken."
+    },
+    "campanile_spitze": {
+      "title": "Turmspitze",
+      "description": "Über der Glockenstube steigt eine Pyramide aus Terrakotta bis Lage 156; die letzten Lagen sind Kupfer.",
+      "tip": "Die Pyramide wird alle drei Lagen um eine Zelle schmaler.",
+      "caution": "Das Innere der Spitze ist hohl und unzugänglich.",
+      "fact": "Die Spitze ist von weitem über den Dächern von Santa Croce zu sehen."
+    }
+  }
+}

@@ -25,8 +25,27 @@ function gelaendeVon(ctx) {
   return { top: topC, hohl };
 }
 
+// Menge gepackter Schlüssel ohne die Größengrenze eines einzelnen Set (2^24 Einträge; große Quartiere deklarieren
+// mehr unzugängliche Zellen): has(), size und Iteration wie ein Set.
+const TEIL_MAX = 1 << 23;
+class GrosseMenge {
+  constructor() { this.teile = [new Set()]; }
+  add(k) {
+    if (this.has(k)) return this;
+    let t = this.teile[this.teile.length - 1];
+    if (t.size >= TEIL_MAX) this.teile.push(t = new Set());
+    t.add(k);
+    return this;
+  }
+  has(k) { for (const t of this.teile) if (t.has(k)) return true; return false; }
+  get size() { let n = 0; for (const t of this.teile) n += t.size; return n; }
+  *[Symbol.iterator]() { for (const t of this.teile) yield* t; }
+}
+
 function setVon(listen) {
-  const s = new Set();
+  let n = 0;
+  for (const l of listen || []) n += l.keys.length;
+  const s = n < TEIL_MAX ? new Set() : new GrosseMenge();
   for (const l of listen || []) for (const k of l.keys) s.add(k);
   return s;
 }

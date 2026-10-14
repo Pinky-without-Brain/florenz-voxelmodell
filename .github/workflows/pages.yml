@@ -45,6 +45,8 @@ jobs:
           printf '{"commit":"%s","zeit":"%s","welt":%s,"mb":%s}\n' "${GITHUB_SHA::7}" "$(date -u +%Y-%m-%dT%H:%MZ)" "$WELT" "$GROESSE" > _site/stand.json
           cat _site/stand.json
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

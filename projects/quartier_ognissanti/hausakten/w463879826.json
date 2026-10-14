@@ -1,0 +1,52 @@
+{
+  "id": "w463879826",
+  "typ": "casa_a_schiera",
+  "epoche": "15.–17. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 3,
+    "material": "putz",
+    "putzfarbe": "gelb",
+    "erdgeschoss": {
+      "art": "portal_seitlich",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck_vergittert"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "sattel",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen."
+}

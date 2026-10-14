@@ -1,0 +1,48 @@
+{
+  "id": "w780297781",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16.–17. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 10
+    },
+    {
+      "art": "og",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 6,
+    "material": "putz",
+    "putzfarbe": "gelb",
+    "erdgeschoss": {
+      "art": "portal_seitlich",
+      "portalBreiteBl": 7,
+      "fenster": "rechteck"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 2
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+}

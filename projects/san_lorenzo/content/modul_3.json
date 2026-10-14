@@ -1,0 +1,50 @@
+{
+  "module": 3,
+  "title": "Außenwände",
+  "subtitle": "Bautüte 3: Außenwände von Langhaus, Querhaus und Chor",
+  "icon": "🧱",
+  "parts": {
+    "seitenwaende": {
+      "title": "Seitenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: außen Steinziegel über einem Sockel aus Glattem Stein, innen weißer Putz.",
+      "tip": "Die Wände folgen dem Umriss.",
+      "caution": "Die Fenster setzt du später ein.",
+      "fact": "Die Außenmauern sind schlicht verputzt und aus Bruchstein."
+    },
+    "querhaus_aussen": {
+      "title": "Querhauswände",
+      "description": "Das Querhaus hat Außenwände aus Tuff mit Putz innen.",
+      "tip": "An den Enden der Querarme liegen Kapellen.",
+      "caution": "Die Sakristeien schließen außen an.",
+      "fact": "Die Vierung misst zwei Module zu elf Braccia."
+    },
+    "chor_aussen": {
+      "title": "Chorwände",
+      "description": "Der Chor ist rechteckig geschlossen, seine Wände sind zwei Blöcke dick.",
+      "tip": "Der Chor folgt der Breite des Mittelschiffs.",
+      "caution": "Hinter dem Chor beginnt die Cappella dei Principi.",
+      "fact": "Der rechteckige Chor ist ein mittelalterlicher Zug des Grundrisses."
+    },
+    "chorwaende": {
+      "title": "Chorwände zu den Kapellen",
+      "description": "Zwischen Chor und Chorkapellen stehen Wände mit je einem Rundbogen bis Lage 22.",
+      "tip": "Die Bögen liegen in der Mitte der Wand.",
+      "caution": "Lass die Bögen offen.",
+      "fact": "Rings um den Chor liegen Kapellen."
+    },
+    "querhaus_ostwand": {
+      "title": "Ostwand der Querarme",
+      "description": "An der Ostseite der Querarme öffnen Rundbögen die Chorkapellen.",
+      "tip": "Die Bögen sind neun Blöcke weit.",
+      "caution": "Sie bleiben offen.",
+      "fact": "Die Kapellen am Querhaus haben quadratische Grundrisse."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In die Außenwände setzt du Rundbogenfenster: je Joch eines in den Kapellen, zwei in jedem Querarm und eines im Chor.",
+      "tip": "Der äußere Rahmen ist Glatter Stein, innen Glas.",
+      "caution": "Die Fenster gehen durch die Wand.",
+      "fact": "Durch die schlichten Fenster fällt viel Licht in die helle Kirche."
+    }
+  }
+}

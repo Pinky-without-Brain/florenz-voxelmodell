@@ -382,7 +382,7 @@ if (require.main === module) {
     process.exitCode = main(argv);
     minecraftHook(argv, process.exitCode);
   } catch (e) {
-    console.error('Build-Abbruch: ' + e.message);
+    console.error('Build-Abbruch: ' + (process.env.STACK ? e.stack : e.message));
     process.exitCode = 1;
   }
 }

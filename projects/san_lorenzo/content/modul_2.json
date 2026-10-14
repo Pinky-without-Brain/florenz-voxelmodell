@@ -1,0 +1,50 @@
+{
+  "module": 2,
+  "title": "Säulen und Arkaden",
+  "subtitle": "Bautüte 2: Brunelleschis Säulenreihen, Obergaden und Kapellen des Langhauses",
+  "icon": "🏛️",
+  "parts": {
+    "saeulen": {
+      "title": "Säulen",
+      "description": "Auf den sechs Jochgrenzen stehen beidseits des Mittelschiffs Säulen aus Glattem Stein, zwei mal zwei Blöcke, von Lage 1 bis 14; Lage 15 ist das Kapitell aus Gemeißeltem Quarzblock, Lage 16 der Kämpferaufsatz.",
+      "tip": "Zähle die Joche von der Fassade aus: sieben gleiche Joche.",
+      "caution": "Die Säulen stehen frei.",
+      "fact": "Über dem korinthischen Kapitell sitzt Brunelleschis Kämpferblock, der die Bögen anhebt."
+    },
+    "arkaden": {
+      "title": "Rundbogenarkaden",
+      "description": "Zwischen den Säulen spannst du in der zwei Blöcke dicken Wand Rundbögen mit Kämpfer auf Lage 17; die Laibung ist Glatter Stein, die Wand darüber weißer Putz.",
+      "tip": "Die Bögen sind Halbkreise.",
+      "caution": "Unter den Bögen bleibt der Durchgang zu den Seitenschiffen offen.",
+      "fact": "Grauer Stein auf weißem Putz: diese Farbordnung ist typisch für Brunelleschi."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Arkaden steigt die Wand bis unter die Kassettendecke auf Lage 42 und weiter bis zur Traufe.",
+      "tip": "Auf Lage 42 läuft ein Gesims aus Glattem Stein.",
+      "caution": "Die Fenster setzt du im nächsten Bauteil.",
+      "fact": "Der Obergaden hat keine Empore, nur Fenster."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "Je Joch und Seite ein Rundbogenfenster, drei Blöcke breit, von Lage 28 bis 34.",
+      "tip": "Das Fenster sitzt über der Jochmitte.",
+      "caution": "Das Glas geht durch die Wand.",
+      "fact": "Die Fenster belichten die Decke mit den goldenen Rosetten."
+    },
+    "kapellenpfeiler": {
+      "title": "Kapellenbögen",
+      "description": "Die Linie zwischen Seitenschiff und Kapellen trägt je Joch einen Rundbogen mit Kämpfer auf Lage 9.",
+      "tip": "Die Pfeiler zwischen den Bögen stehen auf den Jochgrenzen.",
+      "caution": "Lass die Bögen offen.",
+      "fact": "Die Seitenkapellen gehörten Florentiner Familien."
+    },
+    "kapellen_trennwaende": {
+      "title": "Trennwände der Kapellen",
+      "description": "Zwischen den Kapellen stehen auf den Jochgrenzen weiße Wände bis unter das Dach.",
+      "tip": "Die Wände schließen an die Außenmauer an.",
+      "caution": "Sie liegen genau unter den Säulen.",
+      "fact": "Die rechte Seite hat sieben Kapellen."
+    }
+  }
+}

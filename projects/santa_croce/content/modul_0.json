@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament bis Y 63 und die Bodenplatte auf Y 64",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter der ganzen Kirche und dem Campanile füllst du das Gelände mit Tuff auf, bis die Oberkante auf Y 63 liegt. Im Westen fällt das Gelände bis Y 60 ab, dort wird das Fundament bis zu vier Lagen hoch.",
+      "tip": "Arbeite Spalte für Spalte: oben endet jede Spalte auf Y 63.",
+      "caution": "Wo das Gelände schon Y 63 oder höher erreicht, bleibt die Spalte leer; Gelände über Y 63 ist abgetragen.",
+      "fact": "Santa Croce wurde ab 1294 auf feuchtem Boden nahe dem Arno gebaut; das Viertel wurde 1966 bei der Flut meterhoch überschwemmt."
+    },
+    "bodenplatte": {
+      "title": "Bodenplatte",
+      "description": "Auf Y 64 legst du den Boden: im Mittelschiff ein Schachbrett aus Glattem Stein (Pietra serena) und rosa Terrakotta in Feldern von vier Blöcken, in Kapellen und Chor rosa Terrakotta, sonst Glatter Stein.",
+      "tip": "Lege zuerst die Mittelachse des Schiffs, dann zählt sich das Raster leichter.",
+      "caution": "Einige Zellen bleiben frei: dort kommen in Bautüte 8 die Seelaternen in den Boden.",
+      "fact": "Der Boden des Langhauses ist bündig mit der Piazza Santa Croce; die Kirche betritt man fast ebenerdig."
+    },
+    "grabplatten": {
+      "title": "Grabplatten",
+      "description": "In jedes dritte Rasterfeld des Mittelschiffs setzt du eine Grabplatte aus Glattem Quarzblock.",
+      "tip": "Die Platten liegen in einem regelmäßigen Gitter von zwölf mal zwölf Blöcken.",
+      "caution": "Die Platten sind vereinfacht: echte Grabplatten haben Wappen und Inschriften.",
+      "fact": "Im Boden von Santa Croce liegen 276 Grabplatten."
+    }
+  }
+}

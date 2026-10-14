@@ -1,0 +1,45 @@
+{
+  "id": "r4098970",
+  "typ": "palazzo_rinascimento",
+  "epoche": "15. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 12
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 11,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
+    "erdgeschoss": {
+      "art": "portal_mittig",
+      "portalBreiteBl": 7,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 3
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Palazzo Nonfinito"
+}

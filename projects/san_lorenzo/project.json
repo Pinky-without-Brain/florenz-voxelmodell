@@ -1,0 +1,13 @@
+{
+  "id": "san_lorenzo",
+  "title": "Basilica di San Lorenzo und Cappelle Medicee",
+  "type": "wahrzeichen",
+  "gebaeude": ["w599900778"],
+  "bodenY": 67,
+  "rahmen": { "ox": -388.5, "oz": -366.25, "thetaDeg": 192.8 },
+  "masken": {
+    "principi": { "gebaeude": ["w24883267"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

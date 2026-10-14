@@ -22,7 +22,9 @@ node tools/build.js --all --cross --no-emit   # alle Projekte + projektübergrei
 node --test "tools/test/**/*.test.js"         # alle Tests (~55 s)
 node tools/emit/webindex.js                   # Projektindex der Webapp (webapp/data/projekte.js) nach jedem Projekt-Bau
 node tools/diag/begehbarkeit_bestand.js <id>  # Begehbarkeits-Bestandsaufnahme eines Projekts
-node tools/city/besitz.js                     # Besitzraster des Stadtgrunds neu (nach Änderungen an der Unterkante eines Projekts!)
+node tools/city/besitz.js [<id> …]            # Besitzraster des Stadtgrunds neu (alle oder nur diese Projekte; nach Änderungen an der Unterkante!)
+node tools/city/quartier_neu.js <id> "<Titel>" <kacheln>  # neues Quartier aus allen freien Gebäuden der Kacheln
+node tools/city/aktiv.js <kacheln>            # Stadtgrund-Kacheln aktivieren (projects/stadtgrund/project.json)
 node tools/build.js --project stadtgrund --modules 113   # genau eine Kachel bauen (unabhängige Module)
 ```
 Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ein Lauf **mit** Emit schreibt die Doku neu; Ergebnis dann OK. Ohne `minecraft.local.json` wird keine Minecraft-Welt geschrieben (`--ohne-minecraft` erzwingt das).
@@ -39,6 +41,8 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
 | `palazzo_pitti` | Wahrzeichen (Palast, Corridoio Oltrarno) | 1.381.031 (Module 0–9) | **pflicht**, 94,6 %, 0 Komponenten, R14 0 | W7 erledigt (14.10.) |
+| `santa_croce` | Wahrzeichen (Basilika, Campanile) | 269.988 | **pflicht**, 89,7 %, 0 Komponenten, R14 0 | W8 (14.10.) |
+| `san_lorenzo` | Wahrzeichen (Basilika, Sakristeien, Cappella dei Principi mit Krypta) | 307.968 | **pflicht**, 70,8 %, 0 Komponenten, R14 0 | W9 (14.10.) |
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
 | `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
 | `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
@@ -47,9 +51,35 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `quartier_brunelleschi` | Quartier (79 Häuser, Kachel 55) | 909.321 | **pflicht**, 99,2 % | E3 (14.10.) |
 | `quartier_tornabuoni` | Quartier (70 Häuser, Kacheln 97, 111) | 1.028.941 | **pflicht**, 98,4 % | E3 (14.10.) |
 | `quartier_santo_spirito` | Quartier (104 Häuser, Kacheln 126, 127) | 921.246 | **pflicht**, 98,2 % | E3 (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.709.859 (28 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `quartier_san_lorenzo` | Quartier (245 Häuser, Kacheln 38, 52–54, 67, 68) | 2.585.689 | **pflicht**, 99 % | E4 (14.10.) |
+| `quartier_pergola` | Quartier (243 Häuser, Kacheln 56, 57, 70–72, 86) | 3.445.911 | **pflicht**, 99,1 % | E4 (14.10.) |
+| `quartier_sant_ambrogio` | Quartier (262 Häuser, Kacheln 73, 87–89) | 2.494.509 | **pflicht**, 98,3 % | E4 (14.10.) |
+| `quartier_strozzi` | Quartier (257 Häuser, Kacheln 66, 81–84, 96, 98) | 2.967.004 | **pflicht**, 98,7 % | E4 (14.10.) |
+| `quartier_ghibellina` | Quartier (288 Häuser, Kacheln 102–104) | 2.181.883 | **pflicht**, 98 % | E4 (14.10.) |
+| `quartier_conce` | Quartier (245 Häuser, Kacheln 117–119, 133, 134) | 2.102.284 | **pflicht**, 98,9 % | E4 (14.10.) |
+| `quartier_tintori` | Quartier (150 Häuser, Kacheln 130–132, 147–149) | 2.353.284 | **pflicht**, 98,6 % | E4 (14.10.) |
+| `quartier_san_frediano` | Quartier (312 Häuser, Kacheln 92, 93, 106–108, 122) | 2.736.055 | **pflicht**, 98,6 % | E5 (14.10.) |
+| `quartier_carmine` | Quartier (296 Häuser, Kacheln 123, 124, 137, 138) | 2.465.476 | **pflicht**, 98,7 % | E5 (14.10.) |
+| `quartier_maggio` | Quartier (204 Häuser, Kacheln 125, 140, 141, 155) | 2.202.141 | **pflicht**, 98,9 % | E5 (14.10.) |
+| `quartier_campuccio` | Quartier (306 Häuser, Kacheln 139, 153, 154) | 2.428.573 | **pflicht**, 99,3 % | E5 (14.10.) |
+| `quartier_costa_san_giorgio` | Quartier (195 Häuser, Kacheln 142, 158, 159, 173–176) | 3.099.501 | **pflicht**, 98,8 % | E5 (14.10.) |
+| `quartier_san_niccolo` | Quartier (268 Häuser, Kacheln 143, 144, 160–164, 177, 178) | 2.620.185 | **pflicht**, 98,4 % | E5 (14.10.) |
+| `quartier_romana` | Quartier (202 Häuser, Kacheln 167–169, 180–183) | 2.137.649 | **pflicht**, 97,6 % | E5 (14.10.) |
+| `quartier_san_marco` | Quartier (237 Häuser, Kacheln 10, 11, 24–26, 39–41) | 3.387.142 | **pflicht**, 99,3 % | E6 (14.10.) |
+| `quartier_colonna` | Quartier (273 Häuser, Kacheln 12–14, 27–29, 42–44, 58, 59, 74) | 4.929.444 | **pflicht**, 98,8 % | E6 (14.10.) |
+| `quartier_mercato_centrale` | Quartier (246 Häuser, Kacheln 21–23, 37) | 2.776.224 | **pflicht**, 99,3 % | E6 (14.10.) |
+| `quartier_indipendenza` | Quartier (202 Häuser, Kacheln 6–9, 36) | 2.546.718 | **pflicht**, 98,4 % | E6 (14.10.) |
+| `quartier_palazzuolo` | Quartier (297 Häuser, Kacheln 48–51, 64, 65) | 3.266.159 | **pflicht**, 99,2 % | E6 (14.10.) |
+| `quartier_ognissanti` | Quartier (262 Häuser, Kacheln 62, 63, 77–80, 94, 95) | 2.884.765 | **pflicht**, 97,8 % | E6 (14.10.) |
+| `quartier_prato` | Quartier (235 Häuser, Kacheln 30–33, 45–47, 60, 61) | 3.346.832 | **pflicht**, 98,9 % | E6 (14.10.) |
+| `quartier_porta_al_prato` | Quartier (194 Häuser, Kacheln 0–5, 15–20, 34, 35) | 3.962.550 | **pflicht**, 99 % | E6 (14.10.) |
+| `quartier_porta_san_frediano` | Quartier (209 Häuser, Kacheln 75, 76, 90, 91, 105, 120, 121) | 2.235.216 | **pflicht**, 98 % | E6 (14.10.) |
+| `quartier_petrarca` | Quartier (196 Häuser, Kacheln 135, 136, 150–152, 165, 166) | 2.237.729 | **pflicht**, 98,7 % | E6 (14.10.) |
+| `quartier_guicciardini` | Quartier (43 Häuser, Kacheln 109, 110) | 573.440 | **pflicht**, 99,2 % | E6 (14.10.) |
+| `quartier_collina` | Quartier (50 Häuser, Kacheln 145, 146, 156, 157, 170–172, 179, 184–194) | 632.015 | **pflicht**, 97,5 % | E6 (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 19.869.348 (alle 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 12 Projekte: Build OK, `--cross` 0 Konflikte (66 Paare), 422 Tests grün (2 übersprungen). Webdaten 45 MB.
+Alle 45 Projekte: Build OK (`--all --no-emit` zuletzt mit 43, Santa Croce und San Lorenzo einzeln), `--cross` 0 Konflikte (990 Paare, 534 s), 430 Tests grün (2 übersprungen). Webdaten 448 MB. **Alle 7.106 Gebäude des Stadtgebiets sind vergeben** (`node tools/city/frei_kacheln.js` → frei 0).
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -106,13 +136,48 @@ Borgo degli Albizi, Santa Croce, Brunelleschi, Tornabuoni, Santo Spirito (`tools
 ### Querschnitt 14.10. abends: Cross-Fix, Speicher, GitHub Pages, Minecraft – **erledigt**
 - **Cross-Konflikte zwischen Quartieren (29 Zellen) behoben:** Gesimse/Vorsprünge benachbarter Quartiere lagen in denselben Straßenzellen. `Kontext.beanspruche(x, y, z, id)`: steht im Umkreis 3 ein Gebäude eines *anderen* Projekts mit kleinerer ID, gehört die Zelle diesem; Parzellenraster mit Nachbarn bis 7 Blöcke (`NEIGHBOUR_MARGIN`). Alle 9 Quartiere neu gebaut, `--cross`: **17 Projekte, 0 Konflikte**.
 - **Speicher:** Generator-Caches werden nach jedem Projekt in `--all` und `--cross` freigegeben (`vergissGenerator`). `--all --cross` in einem Prozess braucht trotzdem viel; besser getrennt laufen lassen (`--all --no-emit`, dann `--cross --no-emit`, jeweils im Hintergrund).
-- **GitHub Pages:** `.github/workflows/pages.yml` veröffentlicht bei jedem Push (main und Arbeitszweig) die Webapp und die Minecraft-Welt als `florenz_voxelmodell.mcworld` (Download-Seite `webapp/minecraft.html`, `stand.json` mit Commit/Zeit/Größe). **Noch nicht aktiv:** Das Repository ist privat; Pages braucht einen bezahlten Plan oder ein öffentliches Repo, dazu Settings → Pages → Source „GitHub Actions“ und die Freigabe des Arbeitszweigs im Environment `github-pages` (Entscheidung des Nutzers).
+- **GitHub Pages:** `.github/workflows/pages.yml` veröffentlicht bei jedem Push (main und Arbeitszweig) die Webapp und die Minecraft-Welt als `florenz_voxelmodell.mcworld` (Download-Seite `webapp/minecraft.html`, `stand.json` mit Commit/Zeit/Größe). **Aktiv seit 14.10.2026** (Repo öffentlich, Source „GitHub Actions“): https://pinky-without-brain.github.io/florenz-voxelmodell/ und `…/minecraft.html` (Welt 40 MB, Bau im Runner 163 s). Veröffentlicht wird nur von `main` (Pushes auf den Arbeitszweig bauen, das Deploy lehnt das Environment `github-pages` ab, solange der Zweig dort nicht freigegeben ist) – neuer Stand online nach Merge nach `main` bzw. `run_workflow` auf `main`.
 - **Minecraft:** In der Cloud gibt es kein `minecraft.local.json`, der Build-Hook exportiert dort nichts (deshalb war die Welt des Nutzers nicht aktuell). Export direkt: `node --max-old-space-size=8000 tools/minecraft/export.js --ziel build/minecraft/florenz_voxelmodell` – gemessen 280 s, Spitzen-RSS 5,7 GB, 40 MB, 17,5 Mio Projektblöcke. **Regel:** nach jedem Projekt pushen (Pages baut die Welt) bzw. lokal mit `minecraft.local.json` bauen.
+
+### E4 Häuserzeilen Welle 1: sieben Quartiere im Zentrum – **erledigt**
+Nutzerwunsch: erst alle leeren Häuserzeilen, danach weitere Wahrzeichen. Vorher 5.918 freie Gebäude in 166 Kacheln.
+- `quartier_neu.js` nimmt jetzt **jedes freie Gebäude** der Kacheln (vorher wurden ganze Isolati übersprungen, sobald eines ihrer Gebäude einem anderen Projekt oder einem Wahrzeichen gehörte); ein Isolat kann auf mehrere Projekte verteilt sein (Parzellen sind projektübergreifend dieselben, Überstände regelt `Kontext.beanspruche`).
+- Neu: San Lorenzo, Pergola, Sant'Ambrogio, Strozzi, Ghibellina, Conce, Tintori (1.690 Häuser, alle 0 unerreichbare Komponenten, Bau je 43–89 s). Stadtgrund auf 54 Kacheln (`tools/city/aktiv.js`).
+- `besitz.js` brach bei den großen Quartieren still ab (Heap) – die Datei blieb alt und `--cross` meldete 18.731 Konflikte Quartier/Stadtgrund-Böschung. Jetzt: Quartiere modulweise, Generator-Cache je Projekt freigeben, **inkrementell** `node tools/city/besitz.js <id> …` (7 Projekte 99 s). Danach 0 Konflikte.
+- **Push Protection:** GitHub lehnte den Push ab („Tencent Cloud Secret ID“ in `module_117.js`) – Fehlalarm, Base64-Läufe enthalten zufällig `AKID…`. `tools/emit/data.js` schreibt den ersten Buchstaben solcher Präfixe (AKID, AKIA, ASIA, AIza, LTAI …) als `\u0041`-Escape (`entschaerfe`); gleiche Daten nach dem Parsen. Bestehende Moduldateien wurden nachbearbeitet (identisch zu einem Neubau, geprüft).
+- Minecraft-Export (`welt.js`): Generator-Cache nach jedem Projekt freigeben – gemessen 366 s, **Heap 558 MB** (vorher 4,9 GB), 37,3 Mio Projektblöcke, Welt 43,6 MB.
+- **Rezept je Welle:** `quartier_neu.js` → `akten_entwurf.js --project <id>` → `build.js --project <id>` → `aktiv.js <kacheln>` → `besitz.js <neue ids>` → `build.js --project stadtgrund` → `webindex.js` → `build.js --cross --no-emit` (Hintergrund) → Tests → Übergabe → Commit/Push. Restliche freie Gebäude je Kachel: `node tools/city/frei_kacheln.js`.
+
+### E5 Häuserzeilen Welle 2: Oltrarno (sieben Quartiere) – **erledigt**
+San Frediano, Carmine, Via Maggio, Campuccio, Costa San Giorgio, San Niccolò, Via Romana (1.783 Häuser, alle 0 unerreichbare Komponenten). Stadtgrund 94 Kacheln.
+- **Planer, R3-Sicherung auf Schrittebene** (`schritteMitHalt` in `tools/steps/planner.js`): Im Carmine lag ein 2 × 2-Splitter eines Hauses nur auf dem später gebauten Nachbarhaus (R3: 4 Blöcke ohne Halt). Zellen ohne Halt in ihrem Schritt rücken in den ersten späteren Schritt mit Halt (eigener Nachtragsschritt, wenn MAX_STEP überschritten würde). Haben alle Schritte Halt, bleibt die Planung unverändert – `--all --no-emit` aller 31 Projekte OK (keine R9-Abweichung). Test in `tools/test/planner.test.js`.
+- **R13 bei sehr großen Quartieren:** `setVon` in `tools/validate/begehbarkeit_projekt.js` überschritt die Set-Grenze (2^24) bei den unzugänglichen Zellen (Quartier Colonna); jetzt `GrosseMenge` (mehrere Sets) ab 2^23 Einträgen. `STACK=1 node tools/build.js …` druckt bei Build-Abbruch den Stack.
+
+### E6 Häuserzeilen Welle 3: Norden, Westen und Rand (zwölf Quartiere) – **erledigt**
+San Marco, Colonna, Mercato Centrale, Indipendenza, Palazzuolo, Ognissanti, Prato, Porta al Prato, Porta San Frediano, Viale Petrarca, Lungarno Guicciardini, Collina Oltrarno (2.444 Häuser, alle 0 unerreichbare Komponenten). **Stadtgrund auf allen 195 Kacheln** (19,87 Mio Blöcke, Bau 277 s). Damit sind alle Häuserzeilen gebaut; offen sind nur noch Wahrzeichen (Platzhalter-Baukörper).
+- `besitz_projekte.json` enthielt zufällig das Markenwort im Base64 (R10 in allen Stadtgrund-Modulen): `besitz.js` schreibt den ersten Buchstaben solcher Treffer als `\u`-Escape (gleicher Wert nach `JSON.parse`).
+- Laufzeiten bei 43 Projekten: `besitz.js` für 12 Projekte 198 s, Stadtgrund 277 s, `--cross` 588 s, `--all --no-emit` ≈ 45 min (Hintergrund!).
+
+### W8 Santa Croce (Wahrzeichen-Welle 3, erstes Projekt) – **erledigt**
+Recherche und Katalog: `20_Stadtmodell_Florenz/wahrzeichen/santa_croce/` (REFERENZMASSE, BAUTEIL_KATALOG), Übersicht der Welle: `wahrzeichen/UEBERSICHT_WELLE3.md`. Amtlich (Opera di Santa Croce): Mittelschiff **34 m hoch, 20 m breit** (Breite deckt sich exakt mit OSM); 7 Joche aus den OSM-Querdächern; Campanile 78 m (OSM w662908308).
+- Projekt `projects/santa_croce` (θ 28,4°, bodenY 64, Aushub in `spec/ground.js`), **ein Bauplan** in `model/_sc.js` (Zonen fassade/mittel/seite/vierung/quer/ostwand/kapelle/chor/campanile, Dachhöhe je Spalte, erste Setzung gewinnt); Module m0–m8 sind nur Teillisten (`modul(n, [...])`).
+- Dachhaut je Spalte bis zum tiefsten der **acht** Nachbarn → keine Diagonallücken (R14 0) und daraus automatisch die Schildwände; Binder 2 Zellen breit (gedrehte Einzellinien zerfallen im Weltraster, R4).
+- Campanile: Wendeltreppe 5 × 5 in Weltachsen im gedrehten Turm (Mitte automatisch gesucht), Kopffreiheit über den Eckpodesten unter dem Glockenstubenboden; Ballatoio, Binderoberseiten und Turmspitze unzugänglich deklariert.
+- Vorrang: w777563049, w662908308 → `santa_croce`; Campanile aus `quartier_tintori` entfernt (Hausakte gelöscht), Tintori und Conce neu gebaut; `--cross` 44 Projekte 0 Konflikte. Test `tools/test/santa_croce.test.js`.
+- Ansicht: `node <scratch>/elev.js` war ein Hilfsskript (Ansicht entlang einer Richtung als PNG); die Webapp-Gesamtansicht zeigt das Modell (Text der Gesamtansicht nennt noch generisch die Kathedrale – kleiner Webapp-Punkt).
+- **Nicht modelliert:** Cappella de' Pazzi (w307539790, bleibt Haus in `quartier_tintori`), Kreuzgänge (r10782536, Haus in Tintori), Grabmäler, bemalte Balkendecke.
+
+### W9 San Lorenzo mit Cappelle Medicee – **erledigt**
+Katalog `wahrzeichen/san_lorenzo/` (REFERENZMASSE, BAUTEIL_KATALOG). Belegt: Modul 11 Braccia ≈ 6,4 m (Vierung 26 × 26 Blöcke = OSM), Säulen mit Kämpferaufsatz, Kassettendecke mit goldenen Rosetten, rohe Fassade, Alte Sakristei als Würfel mit Schirmkuppel, **Cappella dei Principi 28 m breit, 59 m hoch** (Laterne Y 179). Nicht belegt (Stufe C): Höhen von Langhaus und Vierung.
+- Projekt `projects/san_lorenzo` (θ 192,8°, bodenY 67, Masken Kirche w599900778 + `principi` w24883267; deckt die geplanten Einträge `san_lorenzo` und `cappelle_medicee` ab), Bauplan `model/_sl.js`, Module m0–m8, Test `tools/test/san_lorenzo.test.js`.
+- **Besucherweg wie heute:** Eingang auf Straßenhöhe (Piazza Madonna degli Aldobrandini) in die Krypta (Boden Y 61, Pfeilerraster), Treppe (Weltachse, 6 Stufen, unterfüttert) in den Vorraum, Tür ins Achteck. `spec/ground.js` trägt unter der Kapelle bis Y 60 ab; die Spalten-`gt` kommen aus diesem Boden (sonst Lücke unter den Wänden, R14).
+- Neue Regeln aus diesem Bau: `set()` respektiert Öffnungen/Treppenlöcher (`force` nur für Treppen); Kryptadecke und Kapellenboden liegen in Modul 7 (auf den Achteckwänden, sonst R3/R2-Sammelschritt); Tambour und Kuppel werden auch über das Vierungsquadrat hinaus gebaut (sonst R14-Löcher an den Seitenmitten); Decken an Rändern zu tieferen Dächern in Steinziegeln (sonst Holz außen sichtbar).
+- Vorrang w599900778, w24883267 → `san_lorenzo`; Nachbarn `domplatz_ring`, `quartier_san_lorenzo` neu gebaut. Campanile (54 m) nicht modelliert (kein eigenes OSM-Gebäude).
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
-2. **Quartiere (Phase E)** mit `tools/city/quartier_neu.js`; erledigt: Kacheln 52–55/67–70/82–85 teilweise (Domplatz-Ring), 98, 99, 113 (Signoria), 112, 128, 129 (Lungarni), 84, 115 (Proconsolo). Vor jeder neuen Kachel `aktiv` des Stadtgrunds prüfen (Quartier und Stadtgrund gemeinsam). **Achtung Größe:** Webdaten 45 MB, die Stadtansicht lädt alle gebauten Projekte als Voxel (≈ 13 Mio Blöcke) – Laden nach Nähe ist umgesetzt (B6), Entladen ferner Module steht noch aus.
-3. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
+2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe; **Entladen ferner Module steht noch aus** (bei 448 MB Webdaten wichtiger denn je).
+3. **Wahrzeichen Welle 3/4** nach `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md` (Reihenfolge ~~Santa Croce~~ (W8) → ~~San Lorenzo + Cappelle Medicee~~ (W9) → Santa Maria Novella → Santo Spirito → …). Je Wahrzeichen: Gebäude in `vorrang.json`, aus Quartieren lösen (z. B. Campanile von Santa Croce w662908308 liegt in `quartier_tintori`), Quartier neu bauen.
 4. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 

@@ -64,7 +64,7 @@ test('Projektindex: Dom gebaut, Wahrzeichen geplant, Demo ausgeschlossen', () =>
   assert.ok(duomo.modules.every((m) => fs.existsSync(path.join(WEB, m.file))));
   assert.ok(!idx.some((e) => e.id.startsWith('_')), 'kein Demo im Index');
   const planned = idx.filter((e) => e.status === 'geplant');
-  assert.ok(planned.length >= 20);
+  assert.ok(planned.length >= 15); // sinkt mit jedem gebauten Wahrzeichen
   // Brücken sind keine OSM-Gebäude: ohne Gebäude-IDs, aber mit Position
   assert.ok(planned.every((e) => e.modules.length === 0 && (e.bounds || (Number.isFinite(e.x) && Number.isFinite(e.z)))));
   // geplant oder schon gebaut: gebaute Wahrzeichen übernehmen die Gebäude-IDs ihrer Platzhalter
