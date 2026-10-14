@@ -35,8 +35,9 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `palazzo_vecchio` | Wahrzeichen | 567.730 | pflicht | B2 erledigt |
 | `orsanmichele` | Wahrzeichen | 88.949 | pflicht | B3 erledigt |
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
+| `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
 
-Alle Projekte: Build OK, `--cross` 0 Konflikte, 400 Tests grün (2 übersprungen).
+Alle 7 Projekte: Build OK, `--cross` 0 Konflikte (21 Paare), 409 Tests grün (2 übersprungen).
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -56,15 +57,20 @@ Diagnose-Skripte, die sich bewährt haben (nicht im Repo, schnell neu zu schreib
 ### W5 Infrastruktur Welle 2 – **erledigt**
 `tools/wahrzeichen/maske.js` (`Maske.ausFlaechen`, `ladeFlaechen`, `zMin/zMax`), `tools/wahrzeichen/projekt.js` (`flaechen`, `abzugAlle`, `gelaendeBis`, `hauptGrenzen`, `ladeAussparung`), `data/stadt/vorrang.json` (+11 IDs Welle 2), `data/stadt/aussparung.json` (Pfeiler Ponte Vecchio, 852 Spalten), Minecraft-Export: Vorrang nur für gebaute Projekte. Test `tools/test/wahrzeichen_w2.test.js`: Ponte-Vecchio-Masken ergeben genau 10.844 Zellen ohne Überlappung mit den Uffizien. Für `project.json` des Ponte Vecchio zusätzlich `"hauptGrenzen": { "xMax": -529 }` setzen (sonst zählen 97 Ladenzellen der Uffizien mit).
 
+### W6 Ponte Vecchio – **erledigt**
+Projekt `projects/ponte_vecchio/` (Katalog `20_Stadtmodell_Florenz/wahrzeichen/ponte_vecchio/BAUTEIL_KATALOG.md`), 9 Module: 0 Gründung/Pfeiler, 1 Brücke (Bögen, Fahrbahn), 2/3 Läden Ost/West (gemeinsam `model/_laeden.js`), 4 Corridoio Vasariano, 5 Torre dei Mannelli, 6 Dächer, 7 Cellini-Brunnen, 8 Innenräume. Gemeinsame Geometrie in `model/_pv.js` (Zonen E/W/T/K/B/L, Abstandsfelder dE/dW/dT/dK, Belegungsregister `belegung(ctx)`: zuerst gebaut gewinnt, reservierte Luft bleibt frei). Begehbarkeit „pflicht“: R13 98,4 %, 0 Komponenten, R14 0. Details `BEGEHBARKEIT.md` §8. Test `tools/test/ponte_vecchio.test.js`.
+Lehren für gedrehte Rahmen: Wände ≥ 2 dick; Türen mit 4er-Durchbruch; Korridorumrisse aus OSM können zu schmal sein (Anbau auf Nachbarzellen). Diagnose: Draufsicht-Schnitt je y (Skript schnell geschrieben: `world.grid.get(x,y,z)` über x/z-Bereich, Zonen aus `G.zelle(x,z)`), Komponenten des Gangs in 2D zählen.
+
 ## 5. Nächste Schritte (Priorität)
-1. ~~Welle 2 Infrastruktur~~ (W5 erledigt).
+1. ~~Welle 2 Infrastruktur~~ (W5 erledigt), ~~Ponte Vecchio~~ (W6 erledigt).
 2. **Stadtgrund** (S0 + Generator, Spezifikation `20_Stadtmodell_Florenz/stadtgrund/SPEZIFIKATION.md`), Kern zuerst.
-3. **Ponte Vecchio**, dann **Palazzo Pitti** (Kataloge in `20_Stadtmodell_Florenz/wahrzeichen/ponte_vecchio`, `.../palazzo_pitti`), jeweils gleich mit Begehbarkeit „pflicht“.
-4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert).
+3. **Palazzo Pitti** (Katalog `20_Stadtmodell_Florenz/wahrzeichen/palazzo_pitti`), gleich mit Begehbarkeit „pflicht“. Der Korridor des Ponte Vecchio endet am Schnitt z = 1311 (als `tor` deklariert) und muss dort anschließen.
+4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert, Ponte Vecchio neu).
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).
 - Dom: Kuppelaufstieg bewusst weggelassen (Nutzerwunsch). Baptisterium hat im Modell keine Emporen (ein hoher Raum).
 - `UEBERGABE_V2.md` nennt noch 909.019 Dom-Blöcke (historischer Stand V2).
 - Quartiere: R14 (Dichtheit) wird für Häuser nicht geprüft.
+- Ponte Vecchio: Modul 7 (Cellini-Brunnen) hat nur 127 Blöcke (R2-Warnung, ein Schritt).
 - Inhalte der Hausakten sind überwiegend typologisch (`quelle: typologie`); Bildindex A5 steht aus.

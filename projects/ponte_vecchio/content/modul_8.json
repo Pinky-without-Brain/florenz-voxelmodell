@@ -1,0 +1,43 @@
+{
+  "module": 8,
+  "title": "Innenräume",
+  "subtitle": "Treppen, Einrichtung, Bilder, Licht",
+  "icon": "🕯️",
+  "parts": {
+    "laden_treppen": {
+      "title": "Ladentreppen",
+      "description": "In den größeren Läden eine Wendeltreppe aus Holz ins Obergeschoss. Vereinfacht.",
+      "tip": "Je Seite eine Stufe, an den Ecken Podeste.",
+      "caution": "Die Läden ohne eigene Treppe erreicht man oben über die Türen der Trennwände.",
+      "fact": "Werkstatt unten, Lager oben."
+    },
+    "loggia_treppe_korridor": {
+      "title": "Treppe in den Korridor",
+      "description": "Von der Loggia führt eine Steintreppe in den Gang, 2 breit, alle zwei Stufen eine Zelle versetzt. Spielzugang, historisch nicht belegt.",
+      "tip": "Unter den oberen Stufen liegt das Treppenloch im Gangboden.",
+      "caution": "Kein historischer Zugang.",
+      "fact": "Der echte Korridor war der Familie Medici vorbehalten."
+    },
+    "laden_einrichtung": {
+      "title": "Ladeneinrichtung",
+      "description": "In jedem Laden ein Tresen aus Holz an der Rückseite. Vereinfacht.",
+      "tip": "Vor der Tür bleibt Platz.",
+      "caution": "Nicht auf die Treppe stellen.",
+      "fact": "Heute verkaufen die Läden Schmuck."
+    },
+    "korridor_bilder": {
+      "title": "Bilder im Gang",
+      "description": "Bilderfelder mit Goldrahmen auf den Innenwänden des Gangs. Vereinfacht.",
+      "tip": "Unterkante Lage 18.",
+      "caution": "Nicht neben den Fenstern.",
+      "fact": "Im Korridor hing die berühmte Sammlung von Selbstbildnissen."
+    },
+    "raum_licht": {
+      "title": "Licht",
+      "description": "Seelaternen in den Decken von Läden, Loggia, Gang und Turm, höchstens 10 Blöcke voneinander.",
+      "tip": "In die Decken einsetzen.",
+      "caution": "Nicht in die Treppenlöcher.",
+      "fact": "Früher brannten hier Öllampen."
+    }
+  }
+}

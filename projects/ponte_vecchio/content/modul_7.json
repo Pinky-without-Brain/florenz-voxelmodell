@@ -1,0 +1,22 @@
+{
+  "module": 7,
+  "title": "Cellini-Brunnen",
+  "subtitle": "Brunnen mit Büste",
+  "icon": "⛲",
+  "parts": {
+    "cellini_brunnen": {
+      "title": "Brunnen",
+      "description": "Becken 7 × 7 aus Marmor mit Wasser, Sockel in der Mitte. Vereinfacht, nicht nach Vorbild.",
+      "tip": "Erst das Becken, dann das Wasser.",
+      "caution": "Das Wasser liegt nur eine Lage hoch.",
+      "fact": "Die Büste Benvenuto Cellinis wurde 1901 aufgestellt."
+    },
+    "cellini_buste": {
+      "title": "Büste",
+      "description": "Eine Blockfigur aus Bronze auf dem Sockel. Vereinfacht.",
+      "tip": "Zuletzt setzen.",
+      "caution": "Nicht besteigen.",
+      "fact": "Cellini war Goldschmied und Bildhauer."
+    }
+  }
+}

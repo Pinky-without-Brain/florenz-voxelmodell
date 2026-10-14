@@ -84,3 +84,12 @@ Der Hausgenerator baut jedes Haus begehbar; `domplatz_ring` steht auf `"begehbar
 - **Licht:** Seelaternen im Fußboden auf dem 10er-Raster (Langhaus, Vierung, Tribünen, Campanile, Baptisterium), in der Krypta auf einem 8er-Raster, je Campanile-Geschoss vier Lichter in der Decke.
 - **Prüfregeln geschärft (gilt für alle Projekte):** R14 zählt als Außenluft nur Luft, die mit dem Rand des Prüfrasters verbunden ist (versiegelte Hohlräume außerhalb der Maske sind keine Außenluft). Beim Dom ist die Maske der Grundriss aus Modul 0, um 4 Zellen eingezogen (Reliefnischen der äußeren Wandlagen sind keine Lecks). Der R14-Bericht nennt je Lücke eine angrenzende Außenluftzelle (`aussen`).
 
+
+## 8. Ponte Vecchio (W6, seit 14.10.2026)
+`ponte_vecchio` ist von Anfang an mit `"begehbarkeit": "pflicht"` gebaut. R13: 98,4 % der 16.028 Raumzellen erreichbar, 0 nicht erreichbare Komponenten; R14: 0 Lücken. 169.366 Blöcke, 9 Module. Test: `tools/test/ponte_vecchio.test.js`.
+- **Gedrehter Rahmen (θ = 116,6°):** Wände sind mindestens 2 Zellen dick (1 Zelle dicke Wände hängen im gedrehten Raster nur über Kanten zusammen, R3). Türen, die das Innere nur über Eck treffen, werden auf dem kürzesten 4er-Weg durch das Wandband mitgeöffnet (Ladentüren `TUER_DURCHBRUCH`, Turmtor `turmTor`, Korridor `Gangdurchbruch` in `model/_pv.js`).
+- **Läden:** 42 Läden mit offener Tür (2 × 5) zur Fahrbahn, Zwischenboden Lage 8..9; 17 Läden mit Wendeltreppe (Radius 2) zum Obergeschoss, die übrigen erreichen das Obergeschoss über Türen in den Trennwänden (Erd- und Obergeschoss). Loggia (Ost) mit mitlaufender Treppe hinauf zum Korridor.
+- **Corridoio Vasariano:** Gang Lage 16..22, durchgehend 4-seitig zusammenhängend. Nördlich des Turms ist der Korridorumriss aus den Stadtdaten zu schmal für einen Gang (d8 ≤ 2); dort greift der Gang auf 80 Zellen der angrenzenden Ostläden aus (Anbau, Ladendecke = Gangboden). Am Turm ruht der Gang auf Konsolen; darunter bleibt ein gepflasterter Durchgang auf Fahrbahnhöhe (`4/durchgang_turm`). Die Schnitte zu den Uffizien (x = −529) und zum Palazzo Pitti (z = 1311) sind als `tor` deklariert.
+- **Torre dei Mannelli:** Tor in der Westwand zum Durchgang, Wendeltreppe (Radius 3) aus Treppenblöcken bis auf die Dachterrasse, Ausstieg als `tuer` deklariert, Decken je 14 Lagen.
+- **Bewusst unzugänglich:** Sockel und Büste des Cellini-Brunnens. Luft unter den Bögen und unter dem Korridor über der Fahrbahn ist als `arkade` deklariert.
+- **Licht:** 112 Seelaternen in den Decken (Abstand ≤ 10) in Läden, Loggia, Gang und Turm.

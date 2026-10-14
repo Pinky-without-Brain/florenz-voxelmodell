@@ -1,0 +1,43 @@
+{
+  "module": 1,
+  "title": "Gewölbe und Fahrbahn",
+  "subtitle": "Drei Segmentbögen, Fahrbahn, Auskragungen",
+  "icon": "🌉",
+  "parts": {
+    "stirnwaende": {
+      "title": "Stirnwände",
+      "description": "Über den drei Bögen (Spannweiten 49, 54 und 49) die äußeren Lagen des Tragkörpers aus Rustika.",
+      "tip": "Die Laibung ist ein flacher Kreisbogen mit 8 Blöcken Stich über dem Kämpfer Y 51.",
+      "caution": "Unter der Laibung bleibt Luft: dort fließt der Arno.",
+      "fact": "Die Segmentbögen des Ponte Vecchio gehören zu den ersten ihrer Art in Europa."
+    },
+    "gewoelbe_ringe": {
+      "title": "Gewölberinge",
+      "description": "Zwei Lagen Pietra forte direkt über der Laibung, im Tragkörper (|w| < 17,5).",
+      "tip": "Baue den Ring Bogen für Bogen von den Kämpfern zum Scheitel.",
+      "caution": "Der Scheitel liegt bei Y 59 bis 60.",
+      "fact": "Flache Bögen brauchen weniger Pfeiler im Fluss."
+    },
+    "fuellung": {
+      "title": "Füllung",
+      "description": "Über den Ringen füllst du die Zwickel bis Y 62 mit Mauerwerk.",
+      "tip": "Lage für Lage von unten.",
+      "caution": "Nichts außerhalb des Tragkörpers.",
+      "fact": "Die Füllung trägt die Fahrbahn und die Läden."
+    },
+    "fahrbahn": {
+      "title": "Fahrbahn und Ladenboden",
+      "description": "Lage 0 (Y 63): Pflaster auf der Fahrbahn, Pietra serena unter den Läden, Holz unter den Auskragungen über dem Wasser.",
+      "tip": "Die Fahrbahn ist zugleich der Boden aller Läden.",
+      "caution": "Unter dem Turm baut Modul 5.",
+      "fact": "Die Fahrbahn verbindet seit dem Mittelalter die beiden Stadtteile."
+    },
+    "konsolen_sporti": {
+      "title": "Konsolen der Auskragungen",
+      "description": "Unter den auskragenden Läden je zwei hölzerne Konsolen auf 4 Blöcke (Y 61 bis 62).",
+      "tip": "Setze die Konsolen direkt an die Stirnwand.",
+      "caution": "Nur über dem Wasser.",
+      "fact": "Die überhängenden Hinterzimmer der Läden heißen sporti."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ponte_vecchio",
+  "title": "Ponte Vecchio und Corridoio Vasariano",
+  "type": "wahrzeichen",
+  "gebaeude": ["r2302812"],
+  "hauptGrenzen": { "xMax": -529 },
+  "bodenY": 63,
+  "rahmen": { "ox": -539, "oz": 1058, "thetaDeg": 116.6 },
+  "masken": {
+    "bruecke": { "flaechen": ["r5342094"], "xMax": -529, "abzugProjekte": ["uffizi"], "abzugAlle": true },
+    "turm": { "gebaeude": ["w306692132"] },
+    "korridor": { "gebaeude": ["w1344547176", "w1394832044"], "xMax": -529, "zMax": 1311.5,
+                  "abzugProjekte": ["uffizi"], "abzugAlle": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 0,
+  "begehbarkeit": "pflicht"
+}

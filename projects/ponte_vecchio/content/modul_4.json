@@ -1,0 +1,43 @@
+{
+  "module": 4,
+  "title": "Corridoio Vasariano",
+  "subtitle": "Gang über der Brücke",
+  "icon": "🚶",
+  "parts": {
+    "korridor_boden_frei": {
+      "title": "Gangboden",
+      "description": "Lage 14 bis 15 auf den Korridorzellen außerhalb der Ostläden.",
+      "tip": "Gleiche Höhe wie die Ladendecke.",
+      "caution": "Nördlich des Turms ist der Korridorumriss zu schmal; der Gang greift dort auf die Ostläden aus.",
+      "fact": "Der Korridor verbindet den Palazzo Vecchio mit dem Palazzo Pitti."
+    },
+    "korridor_unterbau": {
+      "title": "Unterbau am Ufer",
+      "description": "An Land ist alles unter dem Gang massiv bis Lage 13; Straßen bleiben offen.",
+      "tip": "Außen Putz, innen Mauerwerk.",
+      "caution": "Über der Via de' Bardi spannt der Gang frei.",
+      "fact": "Für den Korridor mussten Häuser durchbrochen werden."
+    },
+    "durchgang_turm": {
+      "title": "Durchgang am Turm",
+      "description": "Unter dem Gang neben dem Turm bleibt ein gepflasterter Durchgang auf Fahrbahnhöhe frei; dort führt das Turmtor hinein.",
+      "tip": "Der Gang ruht hier auf den Konsolen des Turms.",
+      "caution": "Das Tor liegt in der Westwand des Turms.",
+      "fact": "Die Mannelli weigerten sich, ihren Turm für den Korridor durchbrechen zu lassen; Vasari führte den Gang außen herum."
+    },
+    "korridor_waende": {
+      "title": "Wände des Gangs",
+      "description": "Lage 16 bis 22, 3 dick auf den Läden, sonst 2. Kleine Fenster je 8 Blöcke, drei große Fenster in der Westwand über der Terrasse.",
+      "tip": "Glas in den äußeren Lagen.",
+      "caution": "Die Bilderfelder setzt Modul 8.",
+      "fact": "Die großen Fenster ließ Mussolini 1938 für Hitlers Besuch einbauen."
+    },
+    "korridor_decke": {
+      "title": "Decke des Gangs",
+      "description": "Lage 23 bis 24.",
+      "tip": "Lichter in Lage 23.",
+      "caution": "Ohne Stirnwand an den Enden.",
+      "fact": "Der Gang ist etwa einen Kilometer lang."
+    }
+  }
+}

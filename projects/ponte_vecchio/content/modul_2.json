@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Läden Ost",
+  "subtitle": "Ladenzeile unter dem Corridoio, Loggia",
+  "icon": "🏪",
+  "parts": {
+    "laeden_ost_waende": {
+      "title": "Außenwände der Ostläden",
+      "description": "Wandband 2 Blöcke, Lagen 1 bis 13. In jeder Ladenfront eine offene Tür 2 × 5, daneben Schaufenster und grüne Läden, darüber ein Fenster; Putz je Laden in Ocker, Gelb, Terrakotta oder Sand.",
+      "tip": "Baue zuerst die Fronten zur Fahrbahn, dann die Rückwände zum Fluss.",
+      "caution": "Die Türen bleiben Luft.",
+      "fact": "Seit 1593 durften auf der Brücke nur Goldschmiede und Juweliere arbeiten."
+    },
+    "laeden_ost_trennwaende": {
+      "title": "Trennwände",
+      "description": "Je 8 Blöcke eine Querwand, mit Türen im Erdgeschoss und im Obergeschoss.",
+      "tip": "Die Türen liegen in der Mitte der Zeilentiefe.",
+      "caution": "So sind alle Läden einer Zeile verbunden.",
+      "fact": "Die Läden waren schmal und tief."
+    },
+    "laden_ost_loggia": {
+      "title": "Loggia",
+      "description": "Statt Läden ein offener Saal (u 83 bis 121) mit je drei Rundbögen zur Fahrbahn und zum Fluss.",
+      "tip": "Die Bögen haben 9 Blöcke Spannweite, Kämpfer Lage 8.",
+      "caution": "Keine Zwischendecke in der Loggia.",
+      "fact": "Von der Mitte der Brücke hat man den schönsten Blick auf den Arno."
+    },
+    "laeden_ost_zwischendecke": {
+      "title": "Zwischendecke",
+      "description": "Holzdecke Lage 8 bis 9 in jedem Laden, mit Treppenloch.",
+      "tip": "Lass die Fläche der Wendeltreppe frei.",
+      "caution": "Lichter sitzen in der Decke.",
+      "fact": "Oben lagen Werkstatt oder Lager."
+    },
+    "laeden_ost_decke": {
+      "title": "Decke der Ostläden",
+      "description": "Lage 14 bis 15 über der ganzen Ostzeile; zugleich Boden des Corridoio.",
+      "tip": "Die Oberkante liegt auf Y 78, genau wie im Korridor der Uffizien.",
+      "caution": "Das Treppenloch der Loggia-Treppe bleibt offen.",
+      "fact": "Vasari baute den Korridor 1565 in nur fünf Monaten."
+    }
+  }
+}
