@@ -5,7 +5,7 @@
   "generator": "stadtgrund",
   "unabhaengig": true,
   "kacheln": { "x0": -3104, "z0": -1488, "groesse": 320, "spalten": 15, "zeilen": 13 },
-  "aktiv": [69, 98, 112, 113, 114, 127, 128],
+  "aktiv": [69, 98, 99, 112, 113, 114, 127, 128],
   "wasser": { "lagen": 2, "bett": 1 },
   "glaettung": { "band": 6, "ruecklauf": 6, "maxDelta": 3 }
 }

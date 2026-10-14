@@ -38,9 +38,9 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `orsanmichele` | Wahrzeichen | 88.949 | pflicht | B3 erledigt |
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 627.063 (7 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 Teil 1 (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 665.743 (8 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 8 Projekte: Build OK, `--cross` 0 Konflikte (28 Paare), 416 Tests grün (2 übersprungen).
+Alle 8 Projekte: Build OK, `--cross` 0 Konflikte (28 Paare), 418 Tests grün (2 übersprungen).
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -68,9 +68,12 @@ Lehren für gedrehte Rahmen: Wände ≥ 2 dick; Türen mit 4er-Durchbruch; Korri
 Pipeline für unabhängige Module (`"unabhaengig": true`: je Modul eigenes Grid, Prüfung, Emit; `--modules` baut genau die genannten; Cross und Minecraft-Export modulweise), Generator-Schnittstelle in `tools/model/world.js` (`quartier`, `stadtgrund`), Besitzraster `tools/city/besitz.js` → `data/stadt/besitz_projekte.json`, Generator `tools/city/stadtgrund.js` (Säulenregel, Flächenklassen, Arno mit Wasserspiegel, Böschung/Mantel, Uferband, Glättung an Wahrzeichen, Platzmuster, Randband), Projekt `projects/stadtgrund` mit 7 aktiven Kacheln (69, 98, 112, 113, 114, 127, 128). Doku: ARCHITEKTUR §10 „Stadtgrund und unabhängige Module“, Spezifikation §16 (Umsetzungsstand und Abweichungen). Test `tools/test/stadtgrund.test.js`.
 **Wichtig:** Ändert sich die Unterkante eines Projekts, `node tools/city/besitz.js` laufen lassen und den Stadtgrund neu bauen.
 
+### S1 Teil 2 Stadtgrund – **erledigt**
+Gefällebegrenzung und Treppenblöcke (§8a), Ufer-Brüstung, Stadt- und Gartenmauern, Neptunbrunnen (Kachel 114) und Reiterstandbild (Kachel **99**, Berichtigung der Spezifikation). `aktiv` jetzt 69, 98, 99, 112, 113, 114, 127, 128.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
-2. **Stadtgrund S1 Teil 2:** Gefällebegrenzung und Treppenblöcke (§8a), Ufer-Brüstung (§7.2), Mauern (§9), Neptunbrunnen und Reiterstandbild (§7.3, Kachel 114); danach `aktiv` auf den Kern erweitern (131 Kacheln mit ≥ 30 % Gebäuden, Liste nach Spezifikation §2.4 messen) und die Laufzeit von `--all`/`--cross` im Auge behalten (≈ 1 s je Kachel).
+2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
 3. **Palazzo Pitti** (Katalog `20_Stadtmodell_Florenz/wahrzeichen/palazzo_pitti`), gleich mit Begehbarkeit „pflicht“. Der Korridor des Ponte Vecchio endet am Schnitt z = 1311 (als `tor` deklariert) und muss dort anschließen.
 4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert, Ponte Vecchio neu).
 

@@ -92,3 +92,30 @@ test('Cross: Stadtgrund und Ponte Vecchio ohne gemeinsame Zellen', () => {
   assert.equal(r.conflicts, 0);
   assert.deepEqual(r.errors, []);
 });
+
+test('Stadtgrund S1b: Neptunbrunnen (Kachel 114) und Reiterstandbild (Kachel 99) auf dem Platzpflaster', () => {
+  const n = zellen(q.plan(114), 'nettuno_brunnen');
+  assert.ok(n.length > 380 && n.length < 480, String(n.length));
+  const ys = n.map((c) => c[1]);
+  assert.equal(Math.min(...ys), 69);
+  assert.equal(Math.max(...ys), 80);
+  const r = zellen(q.plan(99), 'cosimo_reiter');
+  assert.ok(r.length > 350 && r.length < 450, String(r.length));
+  assert.equal(Math.max(...r.map((c) => c[1])) - Math.min(...r.map((c) => c[1])), 15);
+});
+
+test('Stadtgrund S1b: Treppenblöcke, Ufer-Brüstung und Gartenmauern', () => {
+  const PAL = require('../spec/palette.js');
+  const pl = q.plan(112);
+  const st = zellen(pl, 'stufen');
+  assert.ok(st.length > 300);
+  const br = zellen(pl, 'ufer_bruestung');
+  assert.ok(br.length > 100);
+  for (const c of br) assert.ok(c[1] >= 55, `Brüstung zu tief: ${c}`);
+  assert.ok(zellen(pl, 'mauern_garten').length > 100);
+  // in der Welt: Treppenblöcke sind echte Treppentypen
+  const w = buildWorld({ project, modules: [112] });
+  let treppen = 0;
+  w.grid.forEach((x, y, z, e) => { if (e.part === 'stufen' && PAL.isTreppe(e.type)) treppen++; });
+  assert.ok(treppen > 50, String(treppen));
+});

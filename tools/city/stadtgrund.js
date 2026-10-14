@@ -39,7 +39,17 @@ const B = { FREI: 0, AUS: 1, PROJEKT: 2, POLYGON: 3 };
 
 // Bauteile in Bauordnung (§11)
 const TEILE = ['boeschung', 'arno_bett', 'arno_wasser', 'strassen_pflaster', 'strassen_fahrbahn', 'gehwege', 'stufen',
-  'plaetze_pflaster', 'plaetze_rand', 'hof_pflaster', 'rasen', 'gruen_wege'];
+  'plaetze_pflaster', 'plaetze_rand', 'hof_pflaster', 'rasen', 'gruen_wege', 'ufer_bruestung', 'mauern_stadt', 'mauern_garten',
+  'nettuno_brunnen', 'cosimo_reiter'];
+// Begehbare Flächen (§8a): Gefällebegrenzung und Treppenblöcke
+const BEGEHBAR = new Set([K.GEHWEG, K.STRASSE, K.HAUPT, K.STUFEN, K.PLATZ, K.HOF, K.GRUENWEG]);
+// Durchgänge: hier keine Mauern (§8a.3)
+const DURCHGANG = new Set([K.GEHWEG, K.STRASSE, K.HAUPT, K.STUFEN, K.PLATZ, K.GRUENWEG]);
+const GEFAELLE_RUNDEN = 3, GEFAELLE_MAX = 3;
+const KRONE_ABSTAND = 12, KRONE_UEBER_W = 5;
+const MAUER = { city_wall: { h: 16, halb: 2.0 }, wall: { h: 5 } };
+// Monumente der Piazza della Signoria (§7.3)
+const NETTUNO = { x: -136, z: 790 }, REITER = { x: -136, z: 742 };
 const TEIL_VON = { [K.STRASSE]: 'strassen_pflaster', [K.HAUPT]: 'strassen_fahrbahn', [K.GEHWEG]: 'gehwege', [K.STUFEN]: 'stufen',
   [K.PLATZ]: 'plaetze_pflaster', [K.HOF]: 'hof_pflaster', [K.GRUEN]: 'rasen', [K.OFFEN]: 'rasen', [K.GRUENWEG]: 'gruen_wege' };
 
@@ -89,7 +99,13 @@ function daten() {
   const g = JSON.parse(fs.readFileSync(path.join(DATEN, 'gebaeude.json'), 'utf8'));
   const iso = JSON.parse(fs.readFileSync(path.join(DATEN, 'isolati.json'), 'utf8'));
   const strassen = f.strassen.filter((s) => s.polygon && !s.bruecke && !(s.layer > 0) && STRASSEN_KLASSE[s.typ] !== undefined)
-    .map((s) => ({ ...eintrag(s), klasse: STRASSEN_KLASSE[s.typ] }));
+    .map((s) => ({ ...eintrag(s), klasse: STRASSEN_KLASSE[s.typ], fuss: s.typ === 'pedestrian' }));
+  const bruecken = [...f.bruecken, ...f.strassen.filter((s) => s.bruecke || s.layer > 0)].filter((b) => b.polygon).map((b) => eintrag(b));
+  const mauern = f.mauern.filter((m) => MAUER[m.typ] && Array.isArray(m.linie) && m.linie.length >= 2).map((m) => {
+    let x0 = Infinity, x1 = -Infinity, z0 = Infinity, z1 = -Infinity;
+    for (const [x, z] of m.linie) { x0 = Math.min(x0, x); x1 = Math.max(x1, x); z0 = Math.min(z0, z); z1 = Math.max(z1, z); }
+    return { obj: m, bb: { x0: x0 - 3, x1: x1 + 3, z0: z0 - 3, z1: z1 + 3 } };
+  });
   const plaetze = f.plaetze.filter((p) => p.polygon).map((p) => eintrag(p));
   const gruen = f.gruen.filter((p) => p.polygon).map((p) => eintrag(p));
   const wasser = f.wasser.filter((p) => p.polygon).map((p) => eintrag(p));
@@ -106,7 +122,7 @@ function daten() {
     w.teich = werte.length <= TEICH_MAX;
     if (w.teich && werte.length) { werte.sort((a, b) => a - b); w.spiegel = werte[werte.length >> 1]; }
   }
-  DATEN_CACHE = { strassen, plaetze, gruen, wasser, gebaeude, isolati };
+  DATEN_CACHE = { strassen, plaetze, gruen, wasser, gebaeude, isolati, bruecken, mauern };
   return DATEN_CACHE;
 }
 
@@ -194,12 +210,21 @@ function baue(project) {
 }
 
 // Rollen -> Typen (Palette); Index in den Zellisten
-const ROLLEN = ['gelaende_fels', 'pietra_forte', 'gruen_weg', 'wasser', 'pflaster', 'pietra_serena', 'gruen_rasen'];
+const ROLLEN = ['gelaende_fels', 'pietra_forte', 'gruen_weg', 'wasser', 'pflaster', 'pietra_serena', 'gruen_rasen',
+  'marmor_weiss', 'bronze', 'mauerwerk', 'pietra_forte_bruch'];
 let TYPEN = null;
 const R = Object.fromEntries(ROLLEN.map((r, i) => [r, i]));
 function typen() {
   if (!TYPEN) { const WZ = require('../wahrzeichen'); TYPEN = ROLLEN.map((r) => WZ.typ(r)); }
   return TYPEN;
+}
+// Treppentypen (Aufstieg n/o/s/w) werden hinten an die Typliste angehängt
+const TREPPE_IDX = new Map();
+function treppeIdx(rolle, richtung) {
+  const k = rolle + '@' + richtung;
+  let i = TREPPE_IDX.get(k);
+  if (i === undefined) { typen().push(require('../spec/palette.js').treppe(ROLLEN[rolle], richtung)); i = TYPEN.length - 1; TREPPE_IDX.set(k, i); }
+  return i;
 }
 
 /** Rahmen eines Platzes (§6): Wahrzeichenplätze nach dem Wahrzeichen, sonst Richtung der langen Kanten. */
@@ -258,7 +283,9 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
   const wasserId = new Int16Array(N).fill(-1);
   for (const e of D.isolati) if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { iso[idx(x, z)] = 1; });
   for (const e of D.gruen) if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { gruen[idx(x, z)] = 1; });
-  for (const e of D.strassen) if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { const i = idx(x, z); if (e.klasse > str[i]) str[i] = e.klasse; });
+  const fuss = new Uint8Array(N), bruecke = new Uint8Array(N);
+  for (const e of D.strassen) if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { const i = idx(x, z); if (e.klasse > str[i]) str[i] = e.klasse; if (e.fuss) fuss[i] = 1; });
+  for (const e of D.bruecken) if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { bruecke[idx(x, z)] = 1; });
   D.plaetze.forEach((e, k) => { if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { platz[idx(x, z)] = k; }); });
   D.wasser.forEach((e, k) => { if (schneidet(e.bb, box)) rastere(e.rings, e.bb, box, (x, z) => { wasserId[idx(x, z)] = k; }); });
   const klasse = new Uint8Array(N);
@@ -344,6 +371,33 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
     }
   }
 
+  // 4b Gefällebegrenzung (§8a.1): begehbare Nachbarn mit Δ = 2 werden in höchstens GEFAELLE_RUNDEN gleichzeitigen Runden
+  // angenähert (höhere −1, niedrigere +1, je Spalte höchstens ±3, nicht im Glättungsband); Δ ≥ 3 bleibt Stützmauer
+  const begehbar = (i) => imRaster[i] && besitzArt[i] === B.FREI && BEGEHBAR.has(klasse[i]);
+  {
+    const delta = new Int8Array(N);
+    for (let runde = 0; runde < GEFAELLE_RUNDEN; runde++) {
+      const neu = [];
+      for (let x = box.x0; x <= box.x1; x++) for (let z = box.z0; z <= box.z1; z++) {
+        const i = idx(x, z);
+        if (!begehbar(i) || dBest[i] !== 255) continue;
+        let runter = false, rauf = false;
+        for (const [dx, dz] of N4) {
+          const nx = x + dx, nz = z + dz;
+          if (!inBox(nx, nz)) continue;
+          const j = idx(nx, nz);
+          if (!begehbar(j)) continue;
+          const d = tMax[i] - tMax[j];
+          if (d === 2) runter = true; else if (d === -2) rauf = true;
+        }
+        if (runter && !rauf && delta[i] > -GEFAELLE_MAX) neu.push(i, -1);
+        else if (rauf && !runter && delta[i] < GEFAELLE_MAX && tMax[i] + 1 <= deckel[i]) neu.push(i, 1);
+      }
+      if (!neu.length) break;
+      for (let k = 0; k < neu.length; k += 2) { tMax[neu[k]] += neu[k + 1]; delta[neu[k]] += neu[k + 1]; }
+    }
+  }
+
   // 5 Unterkanten: frei Land t, Wasser Bettunterkante, besessen tMax, Aussparung W − 2
   const unten = new Int16Array(N);
   for (let i = 0; i < N; i++) {
@@ -365,11 +419,11 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
   };
 
   // 6 Uferband: Chebyshev-Abstand zum Wasser ≤ UFER
-  const ufer = new Uint8Array(N);
+  const ufer = new Uint8Array(N), uferW = new Int16Array(N);
   {
     let front = [];
-    for (let i = 0; i < N; i++) if (klasse[i] === K.WASSER) { ufer[i] = 1; front.push(i); }
-    for (let d = 2; d <= UFER + 1 && front.length; d++) {
+    for (let i = 0; i < N; i++) if (klasse[i] === K.WASSER) { ufer[i] = 1; uferW[i] = W[i]; front.push(i); }
+    for (let d = 2; d <= KRONE_ABSTAND + 1 && front.length; d++) {
       const nf = [];
       for (const i of front) {
         const x = Math.floor(i / NZ), z = i % NZ;
@@ -377,7 +431,7 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
           const ux = x + dx, uz = z + dz;
           if (ux < 0 || uz < 0 || ux >= NX || uz >= NZ) continue;
           const j = ux * NZ + uz;
-          if (!ufer[j]) { ufer[j] = d; nf.push(j); }
+          if (!ufer[j]) { ufer[j] = d; uferW[j] = uferW[i]; nf.push(j); }
         }
       }
       front = nf;
@@ -389,13 +443,37 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
   const add = (teil, x, y, z, rolle) => { const a = teile[teil]; a.push(x, y, z, rolle); };
   const randMasken = wzl.filter((w) => ['palazzo_vecchio', 'loggia_dei_lanzi', 'palazzo_pitti'].includes(w.id));
   const stat = { frei: 0, wasser: 0, besessen: 0, aussparung: 0 };
+  const aufbau = new Set();   // Spalten mit Brüstung oder Mauer
+  const nahBruecke = (x, z) => {
+    for (let dx = -1; dx <= 1; dx++) for (let dz = -1; dz <= 1; dz++) {
+      const nx = x + dx, nz = z + dz;
+      if (!inBox(nx, nz)) continue;
+      const j = idx(nx, nz);
+      if (bruecke[j] || besitzArt[j] === B.AUS) return true;
+    }
+    return wzl.some((w) => w.alle.has(x, z) || w.alle.dAussen(x, z) <= 1);
+  };
+  // Kronenspalte der Ufermauer (§7.2): freie Landspalte nahe am Wasser, ≥ W + 5, mit einem wassernäheren Nachbarn ≥ 2 tiefer
+  const kroneBruestung = (x, z, i, t) => {
+    if (!(ufer[i] > 1 && ufer[i] <= KRONE_ABSTAND + 1) || klasse[i] === K.STUFEN || t < uferW[i] + KRONE_UEBER_W) return false;
+    let ok = false;
+    for (const [dx, dz] of N4) {
+      const nx = x + dx, nz = z + dz;
+      if (!inBox(nx, nz)) continue;
+      const j = idx(nx, nz);
+      if (!imRaster[j] || !(ufer[j] > 0 && ufer[j] < ufer[i])) continue;
+      const tn = klasse[j] === K.WASSER ? W[j] : tMax[j];
+      if (tn <= t - 2) { ok = true; break; }
+    }
+    return ok && !nahBruecke(x, z);
+  };
   const namen = new Map();
   for (let x = kt.x0; x <= kt.x1; x++) for (let z = kt.z0; z <= kt.z1; z++) {
     const i = idx(x, z);
     if (!imRaster[i]) continue;
     const art = besitzArt[i];
     if (art === B.AUS) { stat.aussparung++; continue; }
-    const imUfer = ufer[i] && ufer[i] <= UFER + 1;
+    const imUfer = ufer[i] > 0 && ufer[i] <= UFER + 1;
     const fels = (y) => (imUfer ? R.pietra_forte : R.gelaende_fels);
     if (klasse[i] === K.WASSER) {
       stat.wasser++;
@@ -443,7 +521,74 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
       default: rolle = gefaelle >= 2 ? R.gelaende_fels : R.gruen_rasen;
     }
     if (imUfer && gefaelle >= 2 && k !== K.PLATZ) rolle = R.pietra_forte;
+    // Treppenblock (§8a.2): genau ein begehbarer Nachbar liegt 1 tiefer -> Aufstieg von dort; auf Treppenflächen,
+    // Plätzen und in Fußgängerstraßen
+    if (k === K.STUFEN || k === K.PLATZ || (k === K.STRASSE && fuss[i])) {
+      let dir = null, n = 0;
+      for (const [dx, dz] of N4) {
+        const j = idx(x + dx, z + dz);
+        if (!begehbar(j) || tMax[j] !== t - 1) continue;
+        n++;
+        dir = dz === 1 ? 'n' : dz === -1 ? 's' : dx === 1 ? 'w' : 'o';
+      }
+      if (n === 1 && (rolle === R.pflaster || rolle === R.pietra_serena || rolle === R.pietra_forte)) { teil = 'stufen'; rolle = treppeIdx(rolle, dir); }
+    }
     add(teil, x, t, z, rolle);
+    if (kroneBruestung(x, z, i, t)) for (let y = t + 1; y <= t + 2 && y <= deckel[i]; y++) { add('ufer_bruestung', x, y, z, R.pietra_serena); aufbau.add(i); }
+  }
+
+  // Mauern (§9): Stadtmauer 16 Lagen (Spalten bis 2,0 von der Linie), Gartenmauer 5 Lagen (4er-verbundene Linie);
+  // nur auf freiem Land außerhalb von Wegen, Straßen und Plätzen
+  for (const m of D.mauern) {
+    if (!schneidet(m.bb, kt)) continue;
+    const cfg = MAUER[m.obj.typ];
+    const spalten = new Set();
+    const L = m.obj.linie;
+    for (let s = 0; s + 1 < L.length; s++) {
+      const [ax, az] = L[s], [bx, bz] = L[s + 1];
+      if (cfg.halb) {
+        const len2 = (bx - ax) ** 2 + (bz - az) ** 2;
+        for (let x = Math.floor(Math.min(ax, bx) - cfg.halb); x <= Math.ceil(Math.max(ax, bx) + cfg.halb); x++) {
+          for (let z = Math.floor(Math.min(az, bz) - cfg.halb); z <= Math.ceil(Math.max(az, bz) + cfg.halb); z++) {
+            const tt = len2 ? Math.max(0, Math.min(1, ((x - ax) * (bx - ax) + (z - az) * (bz - az)) / len2)) : 0;
+            if (Math.hypot(x - (ax + tt * (bx - ax)), z - (az + tt * (bz - az))) <= cfg.halb + 1e-9) spalten.add(P.ck(x, z));
+          }
+        }
+      } else {
+        const n = Math.max(1, Math.ceil(Math.max(Math.abs(bx - ax), Math.abs(bz - az)) * 2));
+        let px = Math.round(ax), pz = Math.round(az);
+        spalten.add(P.ck(px, pz));
+        for (let k = 1; k <= n; k++) {
+          const qx = Math.round(ax + (bx - ax) * k / n), qz = Math.round(az + (bz - az) * k / n);
+          if (qx !== px && qz !== pz) spalten.add(P.ck(qx, pz));
+          spalten.add(P.ck(qx, qz));
+          px = qx; pz = qz;
+        }
+      }
+    }
+    const teil = m.obj.typ === 'city_wall' ? 'mauern_stadt' : 'mauern_garten';
+    for (const c of [...spalten].sort((a, b) => a - b)) {
+      const x = P.ckX(c), z = P.ckZ(c);
+      if (x < kt.x0 || x > kt.x1 || z < kt.z0 || z > kt.z1) continue;
+      const i = idx(x, z);
+      if (!imRaster[i] || besitzArt[i] !== B.FREI || klasse[i] === K.WASSER || DURCHGANG.has(klasse[i]) || aufbau.has(i)) continue;
+      aufbau.add(i);
+      const t = tMax[i];
+      for (let y = t + 1; y <= t + cfg.h && y <= deckel[i]; y++) {
+        add(teil, x, y, z, teil === 'mauern_stadt' ? R.pietra_forte_bruch : (y === t + cfg.h ? R.pietra_serena : R.mauerwerk));
+      }
+    }
+  }
+
+  // Monumente (§7.3) in der Kachel ihrer Mitte
+  if (kt.x0 <= NETTUNO.x && NETTUNO.x <= kt.x1 && kt.z0 <= NETTUNO.z && NETTUNO.z <= kt.z1) {
+    const t0 = tMax[idx(NETTUNO.x, NETTUNO.z)];
+    for (const [x, y, z, r] of nettuno(t0)) add('nettuno_brunnen', x, y, z, r);
+  }
+  if (kt.x0 <= REITER.x && REITER.x <= kt.x1 && kt.z0 <= REITER.z && REITER.z <= kt.z1) {
+    const pv = wzl.find((w) => w.id === 'palazzo_vecchio');
+    const t0 = tMax[idx(REITER.x, REITER.z)];
+    for (const [x, y, z, r] of reiter(t0, pv ? pv.rahmen.thetaDeg : -79.8)) add('cosimo_reiter', x, y, z, r);
   }
 
   // Titel: größter Platz, sonst Wahrzeichen, sonst häufigste Straße
@@ -465,6 +610,58 @@ function planeKachel(kt, { wasserCfg, glatt, wzListe, platzRahmen }) {
     if (s) titel = s[0];
   }
   return { n: kt.n, kachel: kt, titel: `Kachel ${kt.i}/${kt.j}${titel ? ' – ' + titel : ''}`, teile, statistik: stat };
+}
+
+/** Neptunbrunnen (§7.3, vereinfachte Blockform): Achteck Apothem 8, Rand, Wasser, Sockel, Figur, Dreizack, Satyrn. */
+function nettuno(t0) {
+  const out = [];
+  const { x: cx, z: cz } = NETTUNO;
+  const rho = (dx, dz) => Math.max(Math.abs(dx), Math.abs(dz), (Math.abs(dx) + Math.abs(dz)) / Math.SQRT2);
+  const sockel = (dx, dz) => Math.abs(dx) <= 1 && Math.abs(dz) <= 1;
+  for (let dx = -8; dx <= 8; dx++) for (let dz = -8; dz <= 8; dz++) {
+    const r = rho(dx, dz);
+    if (r > 8) continue;
+    const x = cx + dx, z = cz + dz;
+    if (r > 6) { out.push([x, t0 + 1, z, R.marmor_weiss], [x, t0 + 2, z, R.marmor_weiss]); continue; }
+    if (sockel(dx, dz)) { for (let y = t0 + 1; y <= t0 + 6; y++) out.push([x, y, z, R.marmor_weiss]); continue; }
+    out.push([x, t0 + 1, z, R.wasser]);
+  }
+  // Neptun: Körper 3 × 2 × 5, Kopf, Dreizack seitlich (Bronze)
+  for (let dx = -1; dx <= 1; dx++) for (let dz = 0; dz <= 1; dz++) for (let y = t0 + 7; y <= t0 + 11; y++) out.push([cx + dx, y, cz + dz, R.marmor_weiss]);
+  out.push([cx, t0 + 12, cz, R.marmor_weiss]);
+  for (let y = t0 + 7; y <= t0 + 10; y++) out.push([cx + 2, y, cz, R.bronze]);
+  // acht Satyrn auf dem Rand (Achteckecken)
+  for (const [dx, dz] of [[7, 0], [-7, 0], [0, 7], [0, -7], [5, 5], [5, -5], [-5, 5], [-5, -5]]) {
+    const ex = Math.sign(dx) * (Math.abs(dx) === 5 ? 5 : 7), ez = Math.sign(dz) * (Math.abs(dz) === 5 ? 5 : 7);
+    if (rho(ex, ez) <= 6) continue;
+    out.push([cx + ex, t0 + 3, cz + ez, R.bronze], [cx + ex, t0 + 4, cz + ez, R.bronze]);
+  }
+  return out;
+}
+
+/** Reiterstandbild Cosimos I. (§7.3, vereinfachte Blockfigur) im Rahmen des Palazzo Vecchio (u = Längsachse). */
+function reiter(t0, thetaDeg) {
+  const th = thetaDeg * Math.PI / 180, c = Math.cos(th), s = Math.sin(th);
+  const { x: cx, z: cz } = REITER;
+  const lok = (x, z) => ({ u: (x - cx) * c + (z - cz) * s, w: -(x - cx) * s + (z - cz) * c });
+  const im = (v, a, b) => v >= a && v < b;
+  const out = [];
+  const seen = new Set();
+  const put = (x, y, z, r) => { const k = x + ',' + y + ',' + z; if (!seen.has(k)) { seen.add(k); out.push([x, y, z, r]); } };
+  for (let x = cx - 8; x <= cx + 8; x++) for (let z = cz - 8; z <= cz + 8; z++) {
+    const { u, w } = lok(x, z);
+    if (im(u, -6, 6) && im(w, -3, 3)) put(x, t0 + 1, z, R.pietra_serena);              // Plinthe 12 × 6
+    if (im(u, -5, 5) && im(w, -2, 2)) for (let y = t0 + 2; y <= t0 + 6; y++) put(x, y, z, R.marmor_weiss); // Sockel 10 × 4
+  }
+  for (let x = cx - 8; x <= cx + 8; x++) for (let z = cz - 8; z <= cz + 8; z++) {
+    const { u, w } = lok(x, z);
+    const bein = (im(u, -3.5, -2.5) || im(u, 2.5, 3.5)) && (im(w, -1.5, -0.5) || im(w, 0.5, 1.5));
+    if (bein) for (let y = t0 + 7; y <= t0 + 8; y++) put(x, y, z, R.bronze);
+    if (im(u, -3.5, 3.5) && im(w, -1.5, 1.5)) for (let y = t0 + 9; y <= t0 + 12; y++) put(x, y, z, R.bronze);   // Körper 7 × 3 × 4
+    if (im(u, 2.5, 4.5) && im(w, -1, 1)) for (let y = t0 + 11; y <= t0 + 14; y++) put(x, y, z, R.bronze);       // Hals und Kopf
+    if (im(u, -1, 1) && im(w, -1, 1)) for (let y = t0 + 13; y <= t0 + 16; y++) put(x, y, z, R.bronze);         // Reiter
+  }
+  return out;
 }
 
 const WZ_NAME = { duomo: 'Dom', palazzo_vecchio: 'Palazzo Vecchio', uffizi: 'Uffizien', loggia_dei_lanzi: 'Loggia dei Lanzi',
@@ -497,6 +694,16 @@ const TEXT = {
     caution: 'Höfe der Wahrzeichen bauen die Wahrzeichen selbst.', fact: 'Hinter den Fassaden liegen viele kleine Innenhöfe.' },
   rasen: { title: 'Grün und offenes Gelände', description: 'Parks, Gärten, Wiesen und offenes Gelände als Rasen; steile Stellen als Fels.',
     tip: 'Am Hang Spalte für Spalte vorgehen.', caution: 'Bäume sind nicht vorgesehen.', fact: 'Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.' },
+  ufer_bruestung: { title: 'Brüstung der Lungarni', description: 'Zwei Lagen Pietra serena auf der Krone der Ufermauer, wo das Ufer mindestens 2 Blöcke zum Wasser abfällt.',
+    tip: 'Erst die Ufermauer, dann die Brüstung.', caution: 'An Brücken und Wahrzeichen bleibt die Brüstung offen.', fact: 'Die Lungarni wurden im 19. Jahrhundert als Uferstraßen mit Mauern ausgebaut.' },
+  mauern_stadt: { title: 'Stadtmauer', description: 'Mauern der Festungen und der Oltrarno-Stadtmauer, 16 Lagen hoch (geschätzt), Pietra-forte-Bruchstein.',
+    tip: 'Die Mauer folgt dem Gelände Spalte für Spalte.', caution: 'Wo Straßen und Wege die Mauer kreuzen, bleibt ein Durchgang (Tor).', fact: 'Das Forte di Belvedere entstand 1590 bis 1595 über dem Boboli-Garten.' },
+  mauern_garten: { title: 'Gartenmauern', description: 'Garten- und Grundstücksmauern, 5 Lagen hoch (geschätzt), mit Abdeckung aus Pietra serena.',
+    tip: 'Krone zuletzt.', caution: 'Keine Höhenangaben in den Stadtdaten.', fact: 'Hohe Mauern umschließen viele Gärten in Oltrarno.' },
+  nettuno_brunnen: { title: 'Neptunbrunnen', description: 'Vereinfachte Blockform: achteckiges Becken (Apothem 8) mit Wasser, Sockel, Neptun, Dreizack und acht Satyrn auf dem Rand.',
+    tip: 'Erst den Beckenrand, dann Wasser und Sockel, zuletzt die Figur.', caution: 'Vereinfachte Blockfigur, nicht nach Vorbild.', fact: 'Bartolomeo Ammannati schuf den Brunnen 1559 bis 1575.' },
+  cosimo_reiter: { title: 'Reiterstandbild Cosimos I.', description: 'Vereinfachte Blockfigur: Plinthe, Marmorsockel, Pferd und Reiter aus Bronze, 16 Lagen hoch.',
+    tip: 'Beine vor dem Körper setzen.', caution: 'Vereinfachte Blockfigur, nicht nach Vorbild; Standort auf ± 5 m genau.', fact: 'Giambologna vollendete das Standbild 1594.' },
   gruen_wege: { title: 'Wege im Grün', description: 'Fußwege in Parks und Gärten aus Kies.', tip: 'Auf gleicher Höhe wie der Rasen.',
     caution: 'Treppen im Park bleiben Treppenflächen.', fact: 'Die Kieswege von Boboli sind typisch für italienische Gärten.' }
 };

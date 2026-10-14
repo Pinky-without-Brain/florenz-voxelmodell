@@ -8,47 +8,63 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 42.351 |
+| Blöcke | 42.331 |
 | Bauschritte | 24 |
 | Y-Bereich | 56 bis 66 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
-| Kleinster Schritt | 909 Blöcke (Schritt 69.2) |
-| Mittlerer Schritt | 1.765 Blöcke |
-| Größter Schritt | 2.081 Blöcke (Schritt 69.24) |
+| Kleinster Schritt | 590 Blöcke (Schritt 69.6) |
+| Mittlerer Schritt | 1.764 Blöcke |
+| Größter Schritt | 2.081 Blöcke (Schritt 69.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 32.049 | 75,7 % |
-| Stein | `stone` | 6.363 | 15,0 % |
-| Glatter Stein | `smooth_stone` | 3.761 | 8,9 % |
+| Polierter Tuffstein | `polished_tuff` | 31.519 | 74,5 % |
+| Stein | `stone` | 6.343 | 15,0 % |
+| Glatter Stein | `smooth_stone` | 3.701 | 8,7 % |
 | Grasblock | `grass_block` | 178 | 0,4 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 178 | 0,4 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 173 | 0,4 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 120 | 0,3 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 59 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 27 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 23 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 7 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 3 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 530 |
+| Steintreppe | `stone_stairs` | 60 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 6.363 | 69.1–69.4 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 1.855 | 69.5 |
-| 3 | `plaetze_pflaster` | Plätze | 31.022 | 69.6–69.22 |
-| 4 | `hof_pflaster` | Höfe | 2.933 | 69.23–69.24 |
-| 5 | `rasen` | Grün und offenes Gelände | 178 | 69.24 |
+| 1 | `boeschung` | Böschung und Mantel | 6.343 | 69.1–69.4 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 1.839 | 69.5 |
+| 3 | `stufen` | Treppenflächen | 590 | 69.6 |
+| 4 | `plaetze_pflaster` | Plätze | 30.448 | 69.7–69.22 |
+| 5 | `hof_pflaster` | Höfe | 2.933 | 69.23–69.24 |
+| 6 | `rasen` | Grün und offenes Gelände | 178 | 69.24 |
 
 ## Bauschritte
 
 ### Schritt 69.1 – Böschung und Mantel – Teil 1/4 (Y 56–60)
 
 - **Y-Bereich:** 56 bis 60
-- **Blöcke:** 1.511
+- **Blöcke:** 1.494
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.511 |
+| Stein | `stone` | 1.494 |
 
 **Beschreibung**
 
@@ -69,14 +85,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 69.2 – Böschung und Mantel – Teil 2/4 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 909
+- **Blöcke:** 906
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 909 |
+| Stein | `stone` | 906 |
 
 **Beschreibung**
 
@@ -97,14 +113,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 69.3 – Böschung und Mantel – Teil 3/4 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.864
+- **Blöcke:** 1.866
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.864 |
+| Stein | `stone` | 1.866 |
 
 **Beschreibung**
 
@@ -125,14 +141,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 69.4 – Böschung und Mantel – Teil 4/4 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 2.079
+- **Blöcke:** 2.077
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.079 |
+| Stein | `stone` | 2.077 |
 
 **Beschreibung**
 
@@ -153,14 +169,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 69.5 – Straßenpflaster
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.855
+- **Blöcke:** 1.839
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.855 |
+| Polierter Tuffstein | `polished_tuff` | 1.839 |
 
 **Beschreibung**
 
@@ -178,7 +194,49 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 69.6 – Plätze – Teil 1/17 (Y 63–63)
+### Schritt 69.6 – Treppenflächen
+
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 590
+- **Bauteile:** `stufen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 178 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 173 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 120 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 59 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 27 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 23 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 7 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 530 |
+| Steintreppe | `stone_stairs` | 60 |
+
+**Beschreibung**
+
+Treppen aus den Stadtdaten; die Stufen entstehen durch den Höhenverlauf.
+
+**Tipp**
+
+Von unten nach oben.
+
+**Achtung**
+
+Treppenblöcke folgen in einer späteren Stufe.
+
+**Fakt**
+
+Viele Treppen führen in Oltrarno die Hänge hinauf.
+
+### Schritt 69.7 – Plätze – Teil 1/16 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.049
@@ -207,7 +265,7 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 69.7 – Plätze – Teil 2/17 (Y 63–63)
+### Schritt 69.8 – Plätze – Teil 2/16 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.064
@@ -236,18 +294,18 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 69.8 – Plätze – Teil 3/17 (Y 64–64)
+### Schritt 69.9 – Plätze – Teil 3/16 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.935
+- **Blöcke:** 2.081
 - **Bauteile:** `plaetze_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.793 |
-| Glatter Stein | `smooth_stone` | 142 |
+| Polierter Tuffstein | `polished_tuff` | 1.924 |
+| Glatter Stein | `smooth_stone` | 157 |
 
 **Beschreibung**
 
@@ -265,10 +323,271 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 69.9 – Plätze – Teil 4/17 (Y 64–64)
+### Schritt 69.10 – Plätze – Teil 4/16 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.922
+- **Blöcke:** 2.080
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.918 |
+| Glatter Stein | `smooth_stone` | 162 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.11 – Plätze – Teil 5/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.081
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.927 |
+| Glatter Stein | `smooth_stone` | 154 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.12 – Plätze – Teil 6/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.081
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.922 |
+| Glatter Stein | `smooth_stone` | 159 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.13 – Plätze – Teil 7/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.080
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.863 |
+| Glatter Stein | `smooth_stone` | 217 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.14 – Plätze – Teil 8/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.081
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.809 |
+| Glatter Stein | `smooth_stone` | 272 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.15 – Plätze – Teil 9/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.080
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.689 |
+| Glatter Stein | `smooth_stone` | 391 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.16 – Plätze – Teil 10/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.081
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.772 |
+| Glatter Stein | `smooth_stone` | 309 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.17 – Plätze – Teil 11/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.081
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.834 |
+| Glatter Stein | `smooth_stone` | 247 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.18 – Plätze – Teil 12/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.080
+- **Bauteile:** `plaetze_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.710 |
+| Glatter Stein | `smooth_stone` | 370 |
+
+**Beschreibung**
+
+Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
+
+**Tipp**
+
+Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
+
+**Achtung**
+
+Das Muster ist geschätzt, das Pflaster selbst belegt.
+
+**Fakt**
+
+Die Piazza della Signoria wurde 1385 erstmals gepflastert.
+
+### Schritt 69.19 – Plätze – Teil 13/16 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 2.081
 - **Bauteile:** `plaetze_pflaster`
 
 **Teileliste**
@@ -276,7 +595,7 @@ Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.757 |
-| Glatter Stein | `smooth_stone` | 165 |
+| Glatter Stein | `smooth_stone` | 324 |
 
 **Beschreibung**
 
@@ -294,308 +613,18 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 69.10 – Plätze – Teil 5/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.920
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.776 |
-| Glatter Stein | `smooth_stone` | 144 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.11 – Plätze – Teil 6/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.966
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.822 |
-| Glatter Stein | `smooth_stone` | 144 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.12 – Plätze – Teil 7/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.877
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.749 |
-| Glatter Stein | `smooth_stone` | 128 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.13 – Plätze – Teil 8/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.995
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.687 |
-| Glatter Stein | `smooth_stone` | 308 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.14 – Plätze – Teil 9/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.872
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.599 |
-| Glatter Stein | `smooth_stone` | 273 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.15 – Plätze – Teil 10/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.945
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.596 |
-| Glatter Stein | `smooth_stone` | 349 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.16 – Plätze – Teil 11/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.941
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.699 |
-| Glatter Stein | `smooth_stone` | 242 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.17 – Plätze – Teil 12/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.949
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.742 |
-| Glatter Stein | `smooth_stone` | 207 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.18 – Plätze – Teil 13/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.917
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.494 |
-| Glatter Stein | `smooth_stone` | 423 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.19 – Plätze – Teil 14/17 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.921
-- **Bauteile:** `plaetze_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.654 |
-| Glatter Stein | `smooth_stone` | 267 |
-
-**Beschreibung**
-
-Plattenmuster 8 × 4 im Verband, etwa jede achte Platte in Pietra serena.
-
-**Tipp**
-
-Erst die Reihen der Platten anlegen, dann die hellen Platten einsetzen.
-
-**Achtung**
-
-Das Muster ist geschätzt, das Pflaster selbst belegt.
-
-**Fakt**
-
-Die Piazza della Signoria wurde 1385 erstmals gepflastert.
-
-### Schritt 69.20 – Plätze – Teil 15/17 (Y 65–65)
+### Schritt 69.20 – Plätze – Teil 14/16 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.907
+- **Blöcke:** 1.809
 - **Bauteile:** `plaetze_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.678 |
-| Glatter Stein | `smooth_stone` | 229 |
+| Polierter Tuffstein | `polished_tuff` | 1.600 |
+| Glatter Stein | `smooth_stone` | 209 |
 
 **Beschreibung**
 
@@ -613,18 +642,18 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 69.21 – Plätze – Teil 16/17 (Y 65–65)
+### Schritt 69.21 – Plätze – Teil 15/16 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.932
+- **Blöcke:** 1.816
 - **Bauteile:** `plaetze_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.711 |
-| Glatter Stein | `smooth_stone` | 221 |
+| Polierter Tuffstein | `polished_tuff` | 1.603 |
+| Glatter Stein | `smooth_stone` | 213 |
 
 **Beschreibung**
 
@@ -642,18 +671,18 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 69.22 – Plätze – Teil 17/17 (Y 65–66)
+### Schritt 69.22 – Plätze – Teil 16/16 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.910
+- **Blöcke:** 1.823
 - **Bauteile:** `plaetze_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.571 |
-| Glatter Stein | `smooth_stone` | 339 |
+| Polierter Tuffstein | `polished_tuff` | 1.486 |
+| Glatter Stein | `smooth_stone` | 337 |
 
 **Beschreibung**
 
@@ -674,14 +703,14 @@ Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 ### Schritt 69.23 – Höfe – Teil 1/2 (Y 59–64)
 
 - **Y-Bereich:** 59 bis 64
-- **Blöcke:** 1.030
+- **Blöcke:** 1.049
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.030 |
+| Polierter Tuffstein | `polished_tuff` | 1.049 |
 
 **Beschreibung**
 
@@ -702,14 +731,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 69.24 – Höfe – Teil 2/2 (Y 65–65) & Grün und offenes Gelände
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 2.081
+- **Blöcke:** 2.062
 - **Bauteile:** `hof_pflaster`, `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.903 |
+| Polierter Tuffstein | `polished_tuff` | 1.884 |
 | Grasblock | `grass_block` | 178 |
 
 **Beschreibung**
