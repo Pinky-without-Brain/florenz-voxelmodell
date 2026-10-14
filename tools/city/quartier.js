@@ -268,4 +268,7 @@ function baue(project) {
   return q;
 }
 
-module.exports = { loadQuartier, ladeDaten, TYP_NAME, MAX_MODULE };
+/** Cache eines Projekts freigeben (große Läufe: --all, --cross). */
+function vergiss(project) { cache.delete(project); }
+
+module.exports = { vergiss, loadQuartier, ladeDaten, TYP_NAME, MAX_MODULE };

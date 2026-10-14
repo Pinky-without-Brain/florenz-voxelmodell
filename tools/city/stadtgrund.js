@@ -708,4 +708,7 @@ const TEXT = {
     caution: 'Treppen im Park bleiben Treppenflächen.', fact: 'Die Kieswege von Boboli sind typisch für italienische Gärten.' }
 };
 
-module.exports = { loadStadtgrund, planeKachel, rastere, K, B, TEILE, ROLLEN };
+/** Cache eines Projekts freigeben (große Läufe: --all, --cross). */
+function vergiss(project) { caches.delete(project); }
+
+module.exports = { vergiss, loadStadtgrund, planeKachel, rastere, K, B, TEILE, ROLLEN };

@@ -4,7 +4,7 @@
 // Nur dort, wo sich Säulen zweier Projekte im y-Bereich überschneiden, wird die Welt erneut gebaut
 // und zellweise geprüft.
 
-const { buildWorld, listModules, isUnabhaengig } = require('../model/world.js');
+const { buildWorld, listModules, isUnabhaengig, vergissGenerator } = require('../model/world.js');
 const { loadRegistry } = require('../projects.js');
 const { Z_MIN, X_MIN, unpackKey } = require('../geom/grid.js');
 
@@ -106,6 +106,7 @@ function checkCrossProject(projectIds, opts = {}) {
     if (isUnabhaengig(p)) continue;
     const grid = buildGrid(p, errors);
     const sc = scanColumns(grid);
+    vergissGenerator(p);
     maps.set(p.id, sc);
     log(`  ${p.id}: ${grid.size} Zellen, ${sc.cols.size} Säulen`);
   }
@@ -158,6 +159,7 @@ function checkCrossProject(projectIds, opts = {}) {
       });
     }
     cells.set(p.id, m);
+    vergissGenerator(p);
   }
   let columnOverlaps = 0, conflicts = 0;
   for (const pair of pairs) {

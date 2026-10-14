@@ -50,6 +50,12 @@ const isGeneriert = (project) => !!generatorVon(project);
 /** Unabhängige Module (Stadtgrund, ARCHITEKTUR §10 S0): jedes Modul wird für sich in einem eigenen Grid gebaut. */
 const isUnabhaengig = (project) => !!(project && project.meta && project.meta.unabhaengig === true);
 const ladeGenerator = (project) => generatorVon(project)()(project);
+/** Generator-Cache eines Projekts freigeben (nach dem Bau in großen Läufen). */
+function vergissGenerator(project) {
+  if (!project || !project.meta) return;
+  if (project.meta.generator === 'quartier') require('../city/quartier.js').vergiss(project);
+  if (project.meta.generator === 'stadtgrund') require('../city/stadtgrund.js').vergiss(project);
+}
 
 /** Modulnummern eines Projekts (Dateien mN_*.js bzw. Generator). Bei Generatorfehlern: { numbers: [], error }. */
 function listModules(project, modelDir) {
@@ -224,5 +230,5 @@ function buildWorld(opts = {}) {
   return { grid, modules: result, errors, warnings, modelDir, contentDir, project: projectMeta, oeffnungen, unzugaenglich, grundrisse };
 }
 
-module.exports = { OEFFNUNG_ARTEN, buildWorld, discoverModuleFiles, listModules, isQuartier, isGeneriert, isUnabhaengig, ladeGenerator,
+module.exports = { OEFFNUNG_ARTEN, buildWorld, discoverModuleFiles, listModules, isQuartier, isGeneriert, isUnabhaengig, ladeGenerator, vergissGenerator,
   DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };

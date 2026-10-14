@@ -6,7 +6,7 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { buildWorld, listModules, isQuartier, isUnabhaengig } = require('./model/world.js');
+const { buildWorld, listModules, isQuartier, isUnabhaengig, vergissGenerator } = require('./model/world.js');
 const { planModule } = require('./steps/planner.js');
 const { validate, RULES } = require('./validate/index.js');
 const { MAX_MODULE } = require('./geom/grid.js');
@@ -346,6 +346,7 @@ function main(argv, env = {}) {
     for (const p of targets) {
       if (explicit) console.log(`=== Projekt ${p.id}: ${p.title} (${p.type}) ===`);
       const r = buildProject(p, opts, e);
+      if (opts.all) vergissGenerator(p);   // Speicher: Generator-Caches nicht über alle Projekte halten
       results.push([p.id, r.code]);
       if (r.code) code = 1;
     }
