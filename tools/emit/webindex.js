@@ -54,9 +54,14 @@ function buildIndex(opts = {}) {
       for (const f of files) {
         const data = readModuleFile(path.join(dir, f), p.id, isV2);
         if (!data) continue;
-        const blocks = scanModule(data, bb);
+        const mb = { x0: Infinity, y0: Infinity, z0: Infinity, x1: -Infinity, y1: -Infinity, z1: -Infinity };
+        const blocks = scanModule(data, mb);
+        for (const k of ['x0', 'y0', 'z0']) bb[k] = Math.min(bb[k], mb[k]);
+        for (const k of ['x1', 'y1', 'z1']) bb[k] = Math.max(bb[k], mb[k]);
         const rel = path.relative(path.join(root, 'webapp'), path.join(dir, f)).split(path.sep).join('/');
-        modules.push({ n: data.module, title: data.title, blocks, steps: data.steps.length, file: rel });
+        // b: Grundriss-Grenzen des Moduls [x0, z0, x1, z1] (Stadtansicht lädt Module nach Nähe)
+        modules.push({ n: data.module, title: data.title, blocks, steps: data.steps.length, file: rel,
+          b: blocks ? [mb.x0, mb.z0, mb.x1, mb.z1] : null });
       }
     }
     const json = p.json || {};
