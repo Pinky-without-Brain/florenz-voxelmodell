@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Ammannati-Hof und Lichthöfe",
+  "subtitle": "Hofwände, Blendarkaden, Hof-Tor",
+  "icon": "🏛️",
+  "parts": {
+    "lichthoefe": {
+      "title": "Lichthöfe",
+      "description": "Wände um die zwei kleinen Lichthöfe, kleine Fenster 3 × 5.",
+      "tip": "Lagerfugen alle zwei Lagen.",
+      "caution": "Die Lichthöfe sind nicht betretbar.",
+      "fact": "Lichthöfe bringen Tageslicht in die Raumfolgen."
+    },
+    "hof_waende_eg": {
+      "title": "Hofwände Erdgeschoss",
+      "description": "Rustika „a canali“, Blendarkaden an drei Seiten (Nischen 2 tief, offen zum Hof), Hof-Tor 9 × 12 in der Vorderseite.",
+      "tip": "Die Nischen bleiben frei.",
+      "caution": "Das Hof-Tor verbindet Vestibül und Hof.",
+      "fact": "Bartolomeo Ammannati gestaltete den Hof 1558–1570."
+    },
+    "hof_waende_og": {
+      "title": "Hofwände Obergeschosse",
+      "description": "Lage 26..74, Fenster 7 × 13.",
+      "tip": "Achsen alle 16 Zellen.",
+      "caution": "Wand 4 dick.",
+      "fact": "Die Hofseiten tragen heute die Säle der Galleria Palatina."
+    },
+    "hof_gesims": {
+      "title": "Hofgesims",
+      "description": "Lage 75..76 am Hofband, ohne Auskragung.",
+      "tip": "Ringsum gleich hoch.",
+      "caution": "Der Hof bleibt offen.",
+      "fact": "Im Hof finden heute Konzerte statt."
+    }
+  }
+}

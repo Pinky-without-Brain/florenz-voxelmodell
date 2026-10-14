@@ -1,0 +1,64 @@
+{
+  "module": 4,
+  "title": "Seiten, Rückseiten und Nebenbau",
+  "subtitle": "Außenwände außerhalb der Hauptfassade",
+  "icon": "🧱",
+  "parts": {
+    "aussen_waende_eg_west": {
+      "title": "Außenwände EG, Westabschnitt",
+      "description": "Wandband 5 dick mit Fenstern an den Außenkanten.",
+      "tip": "Kante für Kante vorgehen.",
+      "caution": "Wände an Zonengrenzen bleiben ohne Fenster.",
+      "fact": "Die Seitenfronten sind schlichter als die Hauptfassade."
+    },
+    "aussen_waende_eg_mitte": {
+      "title": "Außenwände EG, Mittelabschnitt",
+      "description": "Wie der Westabschnitt.",
+      "tip": "Kante für Kante vorgehen.",
+      "caution": "Zur Gartenseite liegt das Gelände höher.",
+      "fact": "Hinter dem Palast beginnt der Boboli-Garten."
+    },
+    "aussen_waende_eg_ost": {
+      "title": "Außenwände EG, Ostabschnitt",
+      "description": "Wie der Westabschnitt.",
+      "tip": "Kante für Kante vorgehen.",
+      "caution": "Fugen nur in der Außenlage.",
+      "fact": "Die Gartenseite schaut auf das Amphitheater von Boboli."
+    },
+    "aussen_waende_og_west": {
+      "title": "Außenwände OG, Westabschnitt",
+      "description": "Lage 26..74, Wand 4 dick.",
+      "tip": "Fenster stehen über den EG-Fenstern.",
+      "caution": "Über niedrigeren Bauteilen bleiben die Wände blind.",
+      "fact": "Das zweite Obergeschoss beherbergte die Galleria d’arte moderna."
+    },
+    "aussen_waende_og_mitte": {
+      "title": "Außenwände OG, Mittelabschnitt",
+      "description": "Wie der Westabschnitt.",
+      "tip": "Lage für Lage.",
+      "caution": "Wand 4 dick.",
+      "fact": "Der Palast war Residenz der Medici, der Lothringer und des Hauses Savoyen."
+    },
+    "aussen_waende_og_ost": {
+      "title": "Außenwände OG, Ostabschnitt",
+      "description": "Wie der Westabschnitt.",
+      "tip": "Lage für Lage.",
+      "caution": "Wand 4 dick.",
+      "fact": "1919 ging der Palast an den italienischen Staat."
+    },
+    "nebenbau_west": {
+      "title": "Westlicher Nebenbau",
+      "description": "Zwei Geschosse (Lage 1..50) mit Gesims Lage 51..52.",
+      "tip": "Erst die Wände, dann das Gesims.",
+      "caution": "Der Nebenbau ist über einen Durchgang mit dem Hauptbau verbunden.",
+      "fact": "Der Bau wuchs über Jahrhunderte in mehreren Etappen."
+    },
+    "aussen_gesims": {
+      "title": "Gesims der Seiten",
+      "description": "Lage 75..76 (Nebenbau 51..52) auf dem Wandband.",
+      "tip": "Ringsum gleich hoch.",
+      "caution": "Ohne Auskragung.",
+      "fact": "Die Gesimse binden die Bauteile optisch zusammen."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "module": 6,
+  "title": "Decken",
+  "subtitle": "Geschossdecken in Pietra serena",
+  "icon": "🧱",
+  "parts": {
+    "decke_eg": {
+      "title": "Decke über dem Erdgeschoss",
+      "description": "Lage 24..25, Boden des Piano nobile.",
+      "tip": "Treppenlöcher und Lichter freilassen.",
+      "caution": "Die Decke liegt auf den Wänden auf.",
+      "fact": "Lichte Höhe im Erdgeschoss 23 Lagen (11,5 m)."
+    },
+    "decke_pn": {
+      "title": "Decke über dem Piano nobile",
+      "description": "Lage 49..50.",
+      "tip": "Treppenlöcher freilassen.",
+      "caution": "Auch über dem Nebenbau.",
+      "fact": "Die Säle der Palatina haben prächtige Deckenfresken."
+    },
+    "decke_og": {
+      "title": "Decke über dem 2. Obergeschoss",
+      "description": "Lage 73..74, darüber das massive Dach.",
+      "tip": "Lichter in Lage 73.",
+      "caution": "Nur im Hauptbau.",
+      "fact": "Darüber liegt das Walmdach."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "module": 1,
+  "title": "Hauptfassade",
+  "subtitle": "Rustika, 21 Achsen, Hauptportal",
+  "icon": "🏛️",
+  "parts": {
+    "fassade_eg": {
+      "title": "Fassade Erdgeschoss",
+      "description": "Rustika-Quader 8 × 4 mit Fugen, Rundbogenfenster 7 × 13 mit Rahmen und Glas, zwei tiefer gesetzte Kniefenster, Laibung des Hauptportals.",
+      "tip": "Fugen bleiben leer: sie geben der Fassade das Relief.",
+      "caution": "Das Hauptportal bleibt offen (Tor).",
+      "fact": "Die Fassade ist rund 200 m lang."
+    },
+    "fassade_pn": {
+      "title": "Fassade Piano nobile",
+      "description": "Lage 26..50, Wand 4 dick, 21 Rundbogenfenster.",
+      "tip": "Fenster und Wand Lage für Lage gemeinsam setzen.",
+      "caution": "Das Glas reicht bis an die Außenkante.",
+      "fact": "Im Piano nobile liegt heute die Galleria Palatina."
+    },
+    "fassade_og": {
+      "title": "Fassade 2. Obergeschoss",
+      "description": "Lage 51..74, gleiche Achsen wie darunter.",
+      "tip": "Die Achsen stehen genau übereinander.",
+      "caution": "Die Wand endet unter dem Kranzgesims.",
+      "fact": "Die heutige Länge erreichte die Fassade erst durch Erweiterungen im 17. Jahrhundert."
+    },
+    "hauptportal": {
+      "title": "Torflügel",
+      "description": "Die geöffneten Holzflügel an der Innenseite der Portallaibung.",
+      "tip": "Zuletzt einsetzen.",
+      "caution": "Die Öffnung selbst bleibt frei (9 × 15).",
+      "fact": "Das Portal liegt in der Mittelachse u 173."
+    },
+    "fassade_gesims": {
+      "title": "Kranzgesims",
+      "description": "Lage 75..76, zwei Zellen auskragend, Konsolen jede vierte Zelle.",
+      "tip": "Die Konsolen hängen am Gesims, darum erst das Gesims.",
+      "caution": "Die Auskragung liegt außerhalb des Grundrisses (Luftraum 3).",
+      "fact": "Das Gesims schließt die Fassade in 38 m Höhe ab."
+    }
+  }
+}

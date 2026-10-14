@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Seitenflügel (Ali)",
+  "subtitle": "Arkaden zur Piazza, Dachterrassen",
+  "icon": "🏛️",
+  "parts": {
+    "ali_west": {
+      "title": "Westflügel",
+      "description": "Wände 5 dick, Lage 1..20, sechs offene Rundbogenarkaden zur Piazza mit Archivolte, Fenster 5 × 9 an den übrigen Seiten.",
+      "tip": "Arkaden zuerst anreißen, dann die Pfeiler hochziehen.",
+      "caution": "Die Arkaden sind Öffnungen (deklariert).",
+      "fact": "Die Flügel (Rondò) umfassen die Piazza dei Pitti."
+    },
+    "ali_ost": {
+      "title": "Ostflügel",
+      "description": "Wie der Westflügel; in der Ostwand ein Tor 7 × 7 für den Corridoio Vasariano.",
+      "tip": "Das Korridortor bleibt offen.",
+      "caution": "Der Korridor (Modul 9) schließt hier an.",
+      "fact": "Über den Corridoio gelangten die Medici trockenen Fußes vom Palazzo Vecchio in den Pitti."
+    }
+  }
+}

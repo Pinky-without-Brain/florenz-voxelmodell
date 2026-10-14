@@ -38,9 +38,10 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `orsanmichele` | Wahrzeichen | 88.949 | pflicht | B3 erledigt |
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
+| `palazzo_pitti` | Wahrzeichen | 1.249.338 (Module 0–7) | **pflicht**, 94,2 %, 0 Komponenten, R14 0 | W7a erledigt (14.10.), Module 8/9 offen |
 | `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.240.083 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 8 Projekte: Build OK, `--cross` 0 Konflikte (28 Paare), 418 Tests grün (2 übersprungen).
+Alle 9 Projekte: Build OK, `--cross` 0 Konflikte (36 Paare), 422 Tests grün (2 übersprungen).
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -71,10 +72,13 @@ Pipeline für unabhängige Module (`"unabhaengig": true`: je Modul eigenes Grid,
 ### S1 Teil 2 Stadtgrund – **erledigt**
 Gefällebegrenzung und Treppenblöcke (§8a), Ufer-Brüstung, Stadt- und Gartenmauern, Neptunbrunnen (Kachel 114) und Reiterstandbild (Kachel **99**, Berichtigung der Spezifikation). `aktiv` jetzt alle 21 Kacheln, die ein gebautes Projekt berühren (52–55, 67–70, 82–85, 98, 99, 112–115, 127–129), dazu Kachel 99 (Reiterstandbild).
 
+### W7a Palazzo Pitti (Module 0–7) – **erledigt**
+Projekt `projects/palazzo_pitti/` nach `20_Stadtmodell_Florenz/wahrzeichen/palazzo_pitti/BAUTEIL_KATALOG.md`: Fundament/Platte, Hauptfassade (21 Achsen, Portal), Flügel mit Arkaden, Ammannati-Hof und Lichthöfe, Seiten und Nebenbau, Dächer, Decken, Raumteilung/Treppen/Licht. Gemeinsame Geometrie `model/_pi.js` (Zonen F/W/H mit eigenem Abstandsfeld, Fenster je Kantenrahmen, Rustika-Fugen, `bauplan` mit Stützpass), Raumplan `model/_raum.js`. Eigener Boden-Provider `spec/ground.js` (Aushub). Neue Öffnungsart `relief` (Rustika-Fugen) in `tools/model/world.js`. Details `BEGEHBARKEIT.md` §9. Besitzraster neu erzeugt (8 Projekte).
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
-3. **Palazzo Pitti** (Katalog `20_Stadtmodell_Florenz/wahrzeichen/palazzo_pitti`), gleich mit Begehbarkeit „pflicht“. Der Korridor des Ponte Vecchio endet am Schnitt z = 1311 (als `tor` deklariert) und muss dort anschließen.
+3. **Palazzo Pitti, Rest:** Modul 8 (ausgestaltete Räume, Katalog §9: Sala Bianca, Planetensäle, Thronsaal, hintere Galerieräume, Appartamenti, Vestibül, Wappen) und Modul 9 (Corridoio Oltrarno, Katalog §10: Rampe vom Schnitt z = 1312 (Boden Y 78) bis zum Ostflügel-Tor Y 84, massiver Unterbau, Fenster, Bilder, Licht). Danach `node tools/city/besitz.js` und `--cross`.
 4. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 
 ## 6. Bekannte Punkte

@@ -11,7 +11,7 @@ const DEFAULT_CONTENT_DIR = path.join(ROOT, 'content', 'steps_de');
 const OPTIONAL_LIBS = ['arches', 'vaults', 'patterns', 'dome', 'roofs'];
 const ID_RE = /^[a-z][a-z0-9_]*$/;
 // Deklarierte Öffnungen (BEGEHBARKEIT.md §3): Luftzellen einer Tür, eines Tores usw.
-const OEFFNUNG_ARTEN = ['tuer', 'tor', 'fenster_offen', 'arkade', 'loggia', 'scharte'];
+const OEFFNUNG_ARTEN = ['tuer', 'tor', 'fenster_offen', 'arkade', 'loggia', 'scharte', 'relief'];
 
 function loadOptional(name, warnings) {
   const file = path.join(__dirname, '..', 'geom', name + '.js');
@@ -189,7 +189,7 @@ function buildWorld(opts = {}) {
         current = id;
         return w;
       },
-      // Öffnung deklarieren: zellen = Luftzellen [{x,y,z}] oder [[x,y,z]]; art in tuer|tor|fenster_offen|arkade|loggia|scharte
+      // Öffnung deklarieren: zellen = Luftzellen [{x,y,z}] oder [[x,y,z]]; art in tuer|tor|fenster_offen|arkade|loggia|scharte|relief (Relieffuge)
       oeffnung(zellen, art) {
         if (!OEFFNUNG_ARTEN.includes(art)) throw new TypeError(`oeffnung: art muss ${OEFFNUNG_ARTEN.join('|')} sein: ${art}`);
         oeffnungen.push({ module: n, part: current, art, keys: zellKeys(zellen) });
