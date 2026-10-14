@@ -136,6 +136,7 @@ class WeltDaten {
   _projekte() {
     const reg = loadRegistry(this.opts.registry || {});
     this.projektGebaeude = new Set(DOM_IDS);
+    this.gebauteProjekte = new Set(['duomo']);
     const bucketAdd = (key, v) => { let a = this.buckets.get(key); if (!a) this.buckets.set(key, a = []); a.push(v); };
     for (const p of reg.projects) {
       const w = buildWorld({ project: p });
@@ -143,6 +144,7 @@ class WeltDaten {
       const g = w.grid;
       if (!g.size) continue;
       const json = p.json || {};
+      this.gebauteProjekte.add(p.id);
       for (const id of json.gebaeude || []) this.projektGebaeude.add(id);
       for (const m of Object.values(json.masken && typeof json.masken === 'object' ? json.masken : {})) for (const id of (m && m.gebaeude) || []) this.projektGebaeude.add(id);
       const bounds = { minX: Infinity, maxX: -Infinity, minY: Infinity, maxY: -Infinity, minZ: Infinity, maxZ: -Infinity };
@@ -226,7 +228,10 @@ class WeltDaten {
     const geb = JSON.parse(fs.readFileSync(path.join(dir, 'gebaeude.json'), 'utf8')).gebaeude;
     const byId = new Map(geb.map((b) => [b.id, b]));
     const { x0, z0, x1, z1, W } = this.r;
-    const vor = fs.existsSync(path.join(dir, 'vorrang.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'vorrang.json'), 'utf8')).ids : {};
+    const vorAlle = fs.existsSync(path.join(dir, 'vorrang.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'vorrang.json'), 'utf8')).ids : {};
+    // Vorrang gilt nur für Wahrzeichen, die schon gebaut sind; die übrigen bleiben Platzhalter-Häuser
+    const gebaut = this.gebauteProjekte || null;
+    const vor = Object.fromEntries(Object.entries(vorAlle).filter(([, pid]) => !gebaut || gebaut.has(pid)));
     for (const id of Object.keys(vor)) {
       const b = byId.get(id);
       if (!b) continue;

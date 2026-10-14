@@ -1,0 +1,40 @@
+{
+  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE2.md §3 Regel 6 und stadtgrund/SPEZIFIKATION.md",
+  "beschreibung": "Spalten, in denen der Stadtgrund nichts baut (auch kein Wasser und Flussbett), weil ein Wahrzeichen dort von unten an baut. Zellen: Zellmitte im Rahmen, Intervalle halboffen [a, b).",
+  "eintraege": [
+    {
+      "projekt": "ponte_vecchio",
+      "name": "Pfeiler P1",
+      "rahmen": {
+        "ox": -539,
+        "oz": 1058,
+        "thetaDeg": 116.6
+      },
+      "u": [
+        55,
+        64
+      ],
+      "w": [
+        -23,
+        23.5
+      ]
+    },
+    {
+      "projekt": "ponte_vecchio",
+      "name": "Pfeiler P2",
+      "rahmen": {
+        "ox": -539,
+        "oz": 1058,
+        "thetaDeg": 116.6
+      },
+      "u": [
+        118,
+        127
+      ],
+      "w": [
+        -23,
+        23.5
+      ]
+    }
+  ]
+}

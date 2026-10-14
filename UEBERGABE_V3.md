@@ -53,8 +53,11 @@ Alle Projekte: Build OK, `--cross` 0 Konflikte, 400 Tests grün (2 übersprungen
 Details: `20_Stadtmodell_Florenz/BEGEHBARKEIT.md` §7. Kurz: alle Portale/Türen offen, Außenstufen, Krypta-Treppe, Campanile-Treppe aus Treppenblöcken, Hohlkerne/Dachräume/Laibungen deklariert, Lecks geschlossen, Licht. **Nutzerentscheidung 14.10.2026: Kuppelaufstieg (Treppen zwischen den Schalen) wird nicht modelliert**, Zwischenraum und Laterne sind als unzugänglich deklariert. Hilfsmodul `tools/model/_luft.js` (Flutfüllung für Deklarationen). R14 geschärft (Außenluft = mit dem Rasterrand verbunden), Bericht mit `aussen`-Beispielzelle. Dom-Maske für R13/R14 = Grundriss aus Modul 0, 4 eingezogen.
 Diagnose-Skripte, die sich bewährt haben (nicht im Repo, schnell neu zu schreiben): R13-Komponenten nach Bauteil gruppieren über `laufe(ctx,'r13')` aus `tools/validate/begehbarkeit_projekt.js`; R14-Cluster mit `laufe(ctx,'r14')` (Felder `beispiel`, `aussen`).
 
+### W5 Infrastruktur Welle 2 – **erledigt**
+`tools/wahrzeichen/maske.js` (`Maske.ausFlaechen`, `ladeFlaechen`, `zMin/zMax`), `tools/wahrzeichen/projekt.js` (`flaechen`, `abzugAlle`, `gelaendeBis`, `hauptGrenzen`, `ladeAussparung`), `data/stadt/vorrang.json` (+11 IDs Welle 2), `data/stadt/aussparung.json` (Pfeiler Ponte Vecchio, 852 Spalten), Minecraft-Export: Vorrang nur für gebaute Projekte. Test `tools/test/wahrzeichen_w2.test.js`: Ponte-Vecchio-Masken ergeben genau 10.844 Zellen ohne Überlappung mit den Uffizien. Für `project.json` des Ponte Vecchio zusätzlich `"hauptGrenzen": { "xMax": -529 }` setzen (sonst zählen 97 Ladenzellen der Uffizien mit).
+
 ## 5. Nächste Schritte (Priorität)
-1. **Welle 2 Infrastruktur** (Spezifikation fertig: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE2.md` §6): W0-Erweiterungen in `project.json` (`flaechen`-Maskenquelle, `zMin/zMax`, `abzugAlle`, `gelaendeBis`), Vorrang-IDs in `data/stadt/vorrang.json`, `data/stadt/aussparung.json`.
+1. ~~Welle 2 Infrastruktur~~ (W5 erledigt).
 2. **Stadtgrund** (S0 + Generator, Spezifikation `20_Stadtmodell_Florenz/stadtgrund/SPEZIFIKATION.md`), Kern zuerst.
 3. **Ponte Vecchio**, dann **Palazzo Pitti** (Kataloge in `20_Stadtmodell_Florenz/wahrzeichen/ponte_vecchio`, `.../palazzo_pitti`), jeweils gleich mit Begehbarkeit „pflicht“.
 4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert).

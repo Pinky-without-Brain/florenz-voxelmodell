@@ -1,5 +1,5 @@
 {
-  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2 (Quartier-Ausschluss) und §3 (Wahrzeichen-Vorrang)",
+  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) und UEBERSICHT_WELLE2.md §2 (Welle 2)",
   "ids": {
     "r1461712": "palazzo_vecchio",
     "w43284457": "loggia_dei_lanzi",
@@ -8,6 +8,17 @@
     "w328477211": "uffizi",
     "r2302811": "uffizi",
     "w442508011": "orsanmichele",
-    "w1394931261": "orsanmichele"
+    "w1394931261": "orsanmichele",
+    "r2302812": "ponte_vecchio",
+    "w306692132": "ponte_vecchio",
+    "w1394832044": "ponte_vecchio",
+    "r1637338": "palazzo_pitti",
+    "w1394832037": "palazzo_pitti",
+    "w1394832038": "palazzo_pitti",
+    "w1394832039": "palazzo_pitti",
+    "w1394832040": "palazzo_pitti",
+    "w1394832041": "palazzo_pitti",
+    "w1394832042": "palazzo_pitti",
+    "w1394832043": "palazzo_pitti"
   }
 }

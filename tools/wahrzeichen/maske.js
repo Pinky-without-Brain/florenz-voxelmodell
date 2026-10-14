@@ -28,6 +28,26 @@ function ladeGebaeude(daten) {
   return byId;
 }
 
+/** Flächen (flaechen.json: alle Kategorien mit Polygon) eines Datenordners -> Map id -> { id, polygon }. */
+const flaechenCache = new Map();
+function ladeFlaechen(daten) {
+  if (daten && !Array.isArray(daten) && typeof daten === 'object') daten = daten.flaechen;
+  if (Array.isArray(daten)) return new Map(daten.map((f) => [f.id, f]));
+  const dir = path.resolve(daten || DEFAULT_DATEN);
+  const f = path.join(dir, 'flaechen.json');
+  const mt = fs.statSync(f).mtimeMs;
+  const c = flaechenCache.get(f);
+  if (c && c.mt === mt) return c.byId;
+  const j = JSON.parse(fs.readFileSync(f, 'utf8'));
+  const byId = new Map();
+  for (const [k, list] of Object.entries(j)) {
+    if (!Array.isArray(list)) continue;
+    for (const e of list) if (e && e.polygon && !byId.has(e.id)) byId.set(e.id, { ...e, kategorie: k });
+  }
+  flaechenCache.set(f, { mt, byId });
+  return byId;
+}
+
 // ------------------------------------------------------------------ Abstandsfeld
 // Chebyshev-Abstand zur nächsten Quellzelle (Quelle = 0) auf dem Raster x0..x0+w-1, z0..z0+h-1 (zwei Durchläufe).
 function chessDist(x0, z0, w, h, isSource) {
@@ -117,23 +137,24 @@ class Maske {
    * opts: { daten?: Ordner|{gebaeude}|Array, xMin?, xMax?, abzug?: Maske[] }
    */
   static ausGebaeude(ids, opts = {}) {
-    const byId = ladeGebaeude(opts.daten);
+    const byId = opts.quelle || ladeGebaeude(opts.daten);
     const cells = new Set(), fill = new Set(), rings = [], holes = [];
-    const xOk = (x) => !((opts.xMin !== undefined && x < opts.xMin) || (opts.xMax !== undefined && x > opts.xMax));
+    const xOk0 = (x) => !((opts.xMin !== undefined && x < opts.xMin) || (opts.xMax !== undefined && x > opts.xMax));
+    const zOk = (z) => !((opts.zMin !== undefined && z < opts.zMin) || (opts.zMax !== undefined && z > opts.zMax));
     for (const id of ids) {
       const g = byId.get(id);
-      if (!g) throw new Error(`Maske.ausGebaeude: unbekannte Gebäude-ID ${id}`);
+      if (!g) throw new Error(`Maske.ausGebaeude: unbekannte ${opts.quelle ? 'Flächen' : 'Gebäude'}-ID ${id}`);
       const poly = P.normalize(g.polygon);
-      for (const c of P.cellsOf(poly)) if (xOk(c[0])) cells.add(P.ck(c[0], c[1]));
-      for (const c of P.cellsOf({ aussen: poly.aussen, loecher: [] })) if (xOk(c[0])) fill.add(P.ck(c[0], c[1]));
+      for (const c of P.cellsOf(poly)) if (xOk0(c[0]) && zOk(c[1])) cells.add(P.ck(c[0], c[1]));
+      for (const c of P.cellsOf({ aussen: poly.aussen, loecher: [] })) if (xOk0(c[0]) && zOk(c[1])) fill.add(P.ck(c[0], c[1]));
       for (const r of poly.aussen) rings.push(r);
       for (const hr of poly.loecher) {
         const hs = new Set();
         const b = P.bbox({ aussen: [hr] });
         for (let x = Math.ceil(b.x0); x <= Math.floor(b.x1); x++) {
-          if (!xOk(x)) continue;
+          if (!xOk0(x)) continue;
           for (let z = Math.ceil(b.z0); z <= Math.floor(b.z1); z++) {
-            if (P.inRing(hr, x, z) === 1 && fill.has(P.ck(x, z))) hs.add(P.ck(x, z));
+            if (zOk(z) && P.inRing(hr, x, z) === 1 && fill.has(P.ck(x, z))) hs.add(P.ck(x, z));
           }
         }
         holes.push(hs);
@@ -143,6 +164,11 @@ class Maske {
     let m = new Maske(cells, { fill, rings, holes });
     if (opts.abzug && opts.abzug.length) m = m.minus(...opts.abzug);
     return m;
+  }
+
+  /** Maske aus Flächen von flaechen.json (z. B. Brücken), sonst wie ausGebaeude. */
+  static ausFlaechen(ids, opts = {}) {
+    return Maske.ausGebaeude(ids, { ...opts, quelle: ladeFlaechen(opts.daten) });
   }
 
   get size() { return this._set.size; }
@@ -294,4 +320,4 @@ class Maske {
   }
 }
 
-module.exports = { Maske, ladeGebaeude, DEFAULT_DATEN, AUSSEN_REICHWEITE };
+module.exports = { Maske, ladeGebaeude, ladeFlaechen, DEFAULT_DATEN, AUSSEN_REICHWEITE };
