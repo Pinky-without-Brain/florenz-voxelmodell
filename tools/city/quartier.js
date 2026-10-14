@@ -10,6 +10,7 @@ const { makeParzellen, compareIds } = require('./parzellen.js');
 const { umfeldVon } = require('./umfeld.js');
 const { Kontext } = require('./kontext.js');
 const { bauHaus } = require('./haus.js');
+const { bauInnen } = require('./innen.js');
 const strassenName = (...a) => require('./akten_entwurf.js').strassenName(...a);
 const { loadSpecs } = require('../projects.js');
 const { ladeVorrang } = require('../wahrzeichen/projekt.js');
@@ -26,6 +27,23 @@ const TYP_NAME = {
   chiesa_minore: 'Kleine Kirche', loggia: 'Loggia', zweckbau: 'Nebengebäude'
 };
 const FARBE_NAME = { ocker: 'Ocker', gelb: 'Gelb', rosa: 'Rosa', sand: 'Sand', weiss: 'Weiß', grau: 'Grau', terrakotta: 'Terrakotta' };
+
+// Text zum Innenausbau eines Hauses (Bauteil "<id>_innen"); Zahlen aus dem Innenplan
+function innenText(id, a, titel, plan) {
+  const n = a.geschosse.length;
+  const laden = a.fassade.erdgeschoss.art === 'bottega_arcata';
+  const stein = a.typ.startsWith('palazzo') || a.typ === 'chiesa_minore';
+  return {
+    title: `${titel}: Innenausbau`,
+    description: (n > 1 || a.dach.form === 'flach'
+      ? `Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus ${stein ? 'Stein' : 'Holz'} bis ${a.dach.form === 'flach' ? 'auf die Dachterrasse' : 'ins oberste Geschoss'}, `
+      : 'Ein hoher Raum ohne Obergeschoss, ') +
+      `Seelaternen im Boden als Licht${laden ? ', im Erdgeschoss ein Laden mit Theke' : ''}, Tische, Stühle${n > 1 ? ' und Betten' : ''} aus Holz. Vereinfacht, nicht belegt.`,
+    tip: 'Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.',
+    caution: 'Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.',
+    fact: 'Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.'
+  };
+}
 
 // ------------------------------------------------------------------ Datensatz
 const datenCache = new Map();
@@ -220,6 +238,7 @@ function baue(project) {
           caution: 'Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.',
           fact: `Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind ${sicher}.`
         };
+        parts[id + '_innen'] = innenText(id, a, titel);
       }
       return { module: index, title: iso.title, subtitle: `${project.title}: ${iso.ids.length} ${iso.ids.length === 1 ? 'Haus' : 'Häuser'}`,
         icon: '🏠', parts };
@@ -233,7 +252,14 @@ function baue(project) {
             const w = ctx.part(id, {});
             ctx.grundriss(kontext.parz.cellsOf(id)); // nur Metadaten für R13, ändert keine Blöcke
             const a = akten.get(id);
-            if (a) bauHaus(w, daten.byId.get(id), a, kontext);
+            if (!a) continue;
+            bauHaus(w, daten.byId.get(id), a, kontext);
+            // Innenausbau als eigenes Bauteil nach dem Rohbau (BEGEHBARKEIT §4)
+            const plan = kontext.plan(id, a);
+            if (plan && !plan.leer && plan.innen) {
+              bauInnen(ctx.part(id + '_innen', {}), plan);
+              for (const u of plan.innen.unzugaenglich) ctx.unzugaenglich(u.zellen, u.begruendung);
+            }
           }
         }
       };

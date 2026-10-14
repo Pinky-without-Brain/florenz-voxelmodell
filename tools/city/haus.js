@@ -11,6 +11,8 @@ const { compareIds } = require('./parzellen.js');
 const roofs = require('../geom/roofs.js');
 const F = require('./fassade.js');
 const { fnv1a, mulberry32 } = require('./akten_entwurf.js');
+const { planInnen } = require('./innen.js');
+const palette = require('../spec/palette.js');
 
 // Benannte Konstanten (HAUSAKTE §1 und §5)
 const WALL_STREET = 2;          // Außenwand zur Straße
@@ -205,6 +207,28 @@ function planHaus(g, akte, kontext) {
     plan.oeffnungen.set(e.index, lay.items);
   }
 
+  // Haustür auch ohne Hauptfassade (alle Straßenkanten kürzer als F.MIN_LEN): an der längsten Straßenkante ab 3 Blöcken
+  if (![...plan.fassaden.values()].some((lay) => F.hatTuer(lay.items[0]))) {
+    let best = null;
+    for (const e of strassenKanten) if (e.len >= 3 && (!best || e.len > best.len + 1e-9)) best = e;
+    if (best) {
+      const lay = plan.fassaden.get(best.index);
+      const w = lay.achsparallel ? 2 : Math.min(F.TUER_W_SCHRAEG, Math.max(2, Math.floor(best.len) - 1));
+      lay.items[0].length = 0;
+      F.tuerEinsetzen(lay, best.len / 2, w, Math.max(3, Math.min(F.TUER_H, plan.storeys[0].h - 2)));
+    }
+  }
+  // Zellen der Türöffnungen (Außenlage, Gehhöhe)
+  plan.tuerZellen = [];
+  for (const c of w1.values()) {
+    if (c.klasse !== 'strasse') continue;
+    const lay = plan.fassaden.get(c.edge);
+    if (lay && F.zelle(lay, 0, 0, c) === 'offen') plan.tuerZellen.push([c.x, c.z]);
+  }
+  plan.tuerZellen.sort((a, b) => (a[0] - b[0]) || (a[1] - b[1]));
+  plan.durchbruch = tuerDurchbruch(plan);
+  plan.eingang = eingangsStufen(plan, kontext);
+
   // Vorsprünge (Sohlbänke, Konsolen, Marcapiano): eine Zelle vor der Außenlage, nie in fremden Parzellen,
   // nur in Gassen ab GASSE_MIN freien Zellen und über dem Gelände
   plan.vorsprung = [];
@@ -266,6 +290,9 @@ function planHaus(g, akte, kontext) {
     }
   }
 
+  // Innenausbau: Geschossböden, Treppenhaus, Licht, Ausstattung (innen.js)
+  plan.innen = planInnen(plan, { tuerZellen: plan.tuerZellen, gesperrt: plan.eingang.spalten });
+
   // Dachhöhe, First, Altana, Kamine
   plan.first = new Set();
   plan.kamine = [];
@@ -289,6 +316,7 @@ function planHaus(g, akte, kontext) {
   const freiInnen = (x, z) => {
     const k = P.ck(x, z);
     if (!S.has(k) || w1.has(k) || w2.has(k) || partial.has(k)) return false;
+    if (flach && plan.innen.kernSpalten.has(k)) return false; // Treppenloch der Dachterrasse
     return flach ? true : dist(x, z) >= 2;
   };
 
@@ -335,6 +363,103 @@ function planHaus(g, akte, kontext) {
     }
   }
   return plan;
+}
+
+// ------------------------------------------------------------------ Türdurchbruch
+// In schrägen Wänden trifft die Türöffnung die innere Wandlage manchmal nur über Eck. Dann werden die Wandzellen
+// auf dem kürzesten 4er-Weg von der Tür zum Innenraum in Türhöhe geöffnet (Rückgabe: Set P.ck der Spalten).
+const DURCHBRUCH_MAX = 4;
+function tuerDurchbruch(plan) {
+  const out = new Set();
+  const wand = (k) => plan.w1.has(k) || plan.w2.has(k) || plan.partial.has(k);
+  const innen = (k) => plan.S.has(k) && !wand(k);
+  const offen = (k) => {
+    const c = plan.w1.get(k) || plan.w2.get(k);
+    if (!c || c.klasse !== 'strasse') return false;
+    const lay = plan.fassaden.get(c.edge);
+    return !!lay && F.zelle(lay, 0, 0, c) === 'offen';
+  };
+  for (const [x, z] of plan.tuerZellen) {
+    // erreicht die Tür über offene Wandzellen das Innere?
+    const start = P.ck(x, z);
+    const seen = new Set([start]);
+    let q = [start], ok = false;
+    while (q.length && !ok) {
+      const nq = [];
+      for (const k of q) for (const [dx, dz] of N4) {
+        const n = P.ck(P.ckX(k) + dx, P.ckZ(k) + dz);
+        if (seen.has(n)) continue;
+        if (innen(n)) { ok = true; break; }
+        if (offen(n) || out.has(n)) { seen.add(n); nq.push(n); }
+      }
+      q = nq;
+    }
+    if (ok) continue;
+    // kürzester Weg durch Wandzellen zum Innenraum
+    const prev = new Map([[start, null]]);
+    q = [start];
+    let ziel = null;
+    for (let tiefe = 0; tiefe < DURCHBRUCH_MAX && q.length && ziel === null; tiefe++) {
+      const nq = [];
+      for (const k of q) {
+        for (const [dx, dz] of N4) {
+          const n = P.ck(P.ckX(k) + dx, P.ckZ(k) + dz);
+          if (prev.has(n) || !plan.S.has(n)) continue;
+          prev.set(n, k);
+          if (innen(n)) { ziel = k; break; }
+          if (wand(n)) nq.push(n);
+        }
+        if (ziel !== null) break;
+      }
+      q = nq;
+    }
+    for (let k = ziel; k !== null && k !== start; k = prev.get(k)) out.add(k);
+  }
+  return out;
+}
+
+// ------------------------------------------------------------------ Eingangsstufen
+// Liegt die Straße vor einer Tür d = boden - Gelände >= 2 Blöcke tiefer, führen d Treppenblöcke in der Türlaibung
+// und dahinter nach innen hinauf (Zelle k = 0 ist die Außenlage, Stufe in y = Gelände + 1 + k, darüber Luft bis zum
+// Boden). So bleibt jede Stufe <= 1 und alles innerhalb der Parzelle (BEGEHBARKEIT §1.1, §1.3).
+const EINGANG_MAX = 6;
+function eingangsStufen(plan, kontext) {
+  const out = { stufen: new Map(), luft: new Set(), spalten: new Set() };
+  const top = (x, z) => kontext.groundTopY(x, z);
+  const richtung = (dx, dz) => (dx > 0 ? 'o' : dx < 0 ? 'w' : dz > 0 ? 's' : 'n');
+  for (const [x, z] of plan.tuerZellen) {
+    let best = null;
+    for (const [dx, dz] of N4) {
+      const ax = x - dx, az = z - dz; // Außenzelle; Aufstieg (dx, dz) nach innen
+      if (plan.S.has(P.ck(ax, az)) || kontext.parz.owner(ax, az) !== null) continue;
+      const t = top(ax, az);
+      if (!best || t > best.t) best = { t, dx, dz };
+    }
+    if (!best) continue;
+    const d = plan.boden - best.t;
+    if (d < 2 || d > EINGANG_MAX) continue;
+    const zellen = [];
+    for (let k = 0; k < d; k++) {
+      const cx = x + best.dx * k, cz = z + best.dz * k;
+      if (!plan.S.has(P.ck(cx, cz))) { zellen.length = 0; break; }
+      zellen.push([cx, cz, best.t + 1 + k]);
+    }
+    if (!zellen.length) continue;
+    const typ = palette.treppe('pflaster', richtung(best.dx, best.dz));
+    for (const [cx, cz, ys] of zellen) {
+      const t = top(cx, cz);
+      if (ys > t || ys === plan.boden) {
+        const k = cx + ',' + ys + ',' + cz;
+        if (!out.stufen.has(k)) out.stufen.set(k, typ);
+        for (let y = ys + 1; y <= plan.boden; y++) out.luft.add(cx + ',' + y + ',' + cz);
+      } else {
+        for (let y = t + 1; y <= plan.boden; y++) out.luft.add(cx + ',' + y + ',' + cz); // Gelände ist die Stufe
+      }
+      out.spalten.add(P.ck(cx, cz));
+    }
+  }
+  for (const k of out.stufen.keys()) out.luft.delete(k);
+  return out;
 }
 
 // ------------------------------------------------------------------ Material einer Wandzelle
@@ -390,9 +515,15 @@ function bauHaus(writer, g, akte, kontext) {
   const set = (x, y, z, role) => { writer.set(x, y, z, M.typ(role)); n++; };
 
   // Fundament bis zum Gelände und Bodenplatte
+  const frei = plan.innen ? plan.innen.rohbauFrei : new Set(); // Lichter im Boden, Treppenloch im Flachdach
+  const eg = plan.eingang || { stufen: new Map(), luft: new Set() };
   for (const [x, z] of plan.cells) {
-    for (let y = top(x, z) + 1; y < boden; y++) set(x, y, z, 'pietra_forte_bruch');
-    set(x, boden, z, 'pflaster');
+    for (let y = top(x, z) + 1; y < boden; y++) {
+      const k = x + ',' + y + ',' + z;
+      if (eg.stufen.has(k)) { writer.set(x, y, z, eg.stufen.get(k)); n++; } else if (!eg.luft.has(k)) set(x, y, z, 'pietra_forte_bruch');
+    }
+    const k = x + ',' + boden + ',' + z;
+    if (eg.stufen.has(k)) { writer.set(x, boden, z, eg.stufen.get(k)); n++; } else if (!frei.has(k) && !eg.luft.has(k)) set(x, boden, z, 'pflaster');
   }
 
   // Wände
@@ -400,7 +531,10 @@ function bauHaus(writer, g, akte, kontext) {
   const wallCell = (c) => {
     const fassade = c.klasse === 'strasse';
     const lay = fassade ? plan.fassaden.get(c.edge) : null;
+    const db = plan.durchbruch && plan.durchbruch.has(P.ck(c.x, c.z));
+    const dbTop = boden + Math.max(3, Math.min(F.TUER_H, plan.storeys[0].h - 2));
     for (let y = boden + 1; y <= yTop; y++) {
+      if (db && y <= dbTop) continue; // Türdurchbruch
       const s = storeyAt(plan, Math.min(y, eaves));
       let role = null;
       if (lay && y <= eaves) {
@@ -419,7 +553,10 @@ function bauHaus(writer, g, akte, kontext) {
   const pk = [...plan.partial.keys()].sort((a, b) => a - b);
   for (const k of pk) {
     const c = plan.partial.get(k);
+    const db = plan.durchbruch && plan.durchbruch.has(k);
+    const dbTop = boden + Math.max(3, Math.min(F.TUER_H, plan.storeys[0].h - 2));
     for (const y of c.ys) {
+      if (db && y <= dbTop) continue;
       set(c.x, y, c.z, wandRolle(plan, false, storeyAt(plan, Math.min(y, eaves))));
     }
   }
@@ -432,6 +569,7 @@ function bauHaus(writer, g, akte, kontext) {
       if (plan.w1.has(k) || plan.w2.has(k)) continue;
       const pt = plan.partial.get(k);
       if (pt && pt.ys.includes(eaves)) continue; // Teilwand reicht bis zur Traufe
+      if (frei.has(x + ',' + eaves + ',' + z)) continue;
       set(x, eaves, z, dach);
     }
   } else {

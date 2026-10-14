@@ -8,35 +8,56 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 24.141 |
-| Bauschritte | 16 |
+| Blöcke | 28.907 |
+| Bauschritte | 20 |
 | Y-Bereich | 65 bis 104 |
 | X-Ausdehnung | -180 bis -108 (73 Blöcke) |
 | Z-Ausdehnung | 118 bis 171 (54 Blöcke) |
 | Kleinster Schritt | 749 Blöcke (Schritt 8.1) |
-| Mittlerer Schritt | 1.509 Blöcke |
+| Mittlerer Schritt | 1.445 Blöcke |
 | Größter Schritt | 2.029 Blöcke (Schritt 8.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 12.081 | 50,0 % |
-| Terrakotta | `terracotta` | 3.937 | 16,3 % |
-| Polierter Tuffstein | `polished_tuff` | 2.896 | 12,0 % |
-| Glatter Stein | `smooth_stone` | 2.280 | 9,4 % |
-| Graues Buntglas | `gray_stained_glass` | 960 | 4,0 % |
-| Tuffstein | `tuff` | 749 | 3,1 % |
-| Grüner Beton | `green_concrete` | 735 | 3,0 % |
-| Ziegelsteine | `bricks` | 276 | 1,1 % |
-| Polierter Andesit | `polished_andesite` | 212 | 0,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 12.081 | 41,8 % |
+| Terrakotta | `terracotta` | 8.563 | 29,6 % |
+| Polierter Tuffstein | `polished_tuff` | 2.869 | 9,9 % |
+| Glatter Stein | `smooth_stone` | 2.332 | 8,1 % |
+| Graues Buntglas | `gray_stained_glass` | 960 | 3,3 % |
+| Tuffstein | `tuff` | 743 | 2,6 % |
+| Grüner Beton | `green_concrete` | 735 | 2,5 % |
+| Ziegelsteine | `bricks` | 276 | 1,0 % |
+| Polierter Andesit | `polished_andesite` | 212 | 0,7 % |
+| Seelaterne | `sea_lantern` | 48 | 0,2 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 15 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1594403` | Palazzo des Ottocento an Piazza del Duomo | 24.141 | 8.1–8.16 |
+| 1 | `r1594403` | Palazzo des Ottocento an Piazza del Duomo | 24.120 | 8.1–8.16 |
+| 2 | `r1594403_innen` | Palazzo des Ottocento an Piazza del Duomo: Innenausbau | 4.787 | 8.17–8.20 |
 
 ## Bauschritte
 
@@ -50,7 +71,15 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 749 |
+| Tuffstein | `tuff` | 743 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -71,14 +100,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.2 – Palazzo des Ottocento an Piazza del Duomo – Teil 2/16 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.457
+- **Blöcke:** 1.448
 - **Bauteile:** `r1594403`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.457 |
+| Polierter Tuffstein | `polished_tuff` | 1.446 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -99,18 +135,26 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.3 – Palazzo des Ottocento an Piazza del Duomo – Teil 3/16 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.985
+- **Blöcke:** 1.973
 - **Bauteile:** `r1594403`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.439 |
+| Polierter Tuffstein | `polished_tuff` | 1.423 |
 | Gelbe Keramik | `yellow_terracotta` | 532 |
 | Polierter Andesit | `polished_andesite` | 11 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 |
 | Glatter Stein | `smooth_stone` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -320,19 +364,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – Palazzo des Ottocento an Piazza del Duomo – Teil 10/16 (Y 86–87)
+### Schritt 8.10 – Palazzo des Ottocento an Piazza del Duomo – Teil 10/16 (Y 86–88)
 
-- **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.118
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.721
 - **Bauteile:** `r1594403`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 865 |
-| Glatter Stein | `smooth_stone` | 243 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Gelbe Keramik | `yellow_terracotta` | 1.295 |
+| Glatter Stein | `smooth_stone` | 412 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
@@ -350,21 +394,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.11 – Palazzo des Ottocento an Piazza del Duomo – Teil 11/16 (Y 88–90)
+### Schritt 8.11 – Palazzo des Ottocento an Piazza del Duomo – Teil 11/16 (Y 89–90)
 
-- **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.605
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.002
 - **Bauteile:** `r1594403`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.066 |
-| Glatter Stein | `smooth_stone` | 291 |
+| Gelbe Keramik | `yellow_terracotta` | 636 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
+| Glatter Stein | `smooth_stone` | 122 |
 | Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Polierter Andesit | `polished_andesite` | 14 |
 
 **Beschreibung**
 
@@ -528,3 +572,158 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 **Fakt**
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.17 – Palazzo des Ottocento an Piazza del Duomo: Innenausbau – Teil 1/4 (Y 66–77)
+
+- **Y-Bereich:** 66 bis 77
+- **Blöcke:** 1.236
+- **Bauteile:** `r1594403_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.160 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Seelaterne | `sea_lantern` | 23 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 22 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 8.18 – Palazzo des Ottocento an Piazza del Duomo: Innenausbau – Teil 2/4 (Y 77–77)
+
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 1.162
+- **Bauteile:** `r1594403_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.153 |
+| Seelaterne | `sea_lantern` | 9 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 8.19 – Palazzo des Ottocento an Piazza del Duomo: Innenausbau – Teil 3/4 (Y 78–86)
+
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 1.218
+- **Bauteile:** `r1594403_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.160 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 8.20 – Palazzo des Ottocento an Piazza del Duomo: Innenausbau – Teil 4/4 (Y 86–87)
+
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.171
+- **Bauteile:** `r1594403_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.153 |
+| Seelaterne | `sea_lantern` | 9 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

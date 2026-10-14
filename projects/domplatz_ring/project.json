@@ -3,6 +3,7 @@
   "title": "Domplatz-Ring",
   "type": "quartier",
   "generator": "quartier",
+  "begehbarkeit": "pflicht",
   "gebaeude": [
     "r1594403",
     "r1594404",

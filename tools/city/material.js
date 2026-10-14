@@ -19,7 +19,12 @@ const ROLE_TYPE = Object.freeze({
   fensterladen: 'green_concrete',
   glas_fenster: 'gray_stained_glass',
   // Ergänzung C1: Fußböden und Terrassen
-  pflaster: 'polished_tuff'
+  pflaster: 'polished_tuff',
+  // Ergänzung B4: Innenausbau (Ausstattung, Licht)
+  holz: 'dark_oak_planks',
+  licht: 'sea_lantern',
+  bett_kissen: 'white_terracotta',
+  bett_decke: 'red_terracotta'
 });
 
 // Putzfarben der Akte -> Rolle

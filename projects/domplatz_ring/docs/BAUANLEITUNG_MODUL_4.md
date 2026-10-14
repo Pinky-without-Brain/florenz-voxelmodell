@@ -8,82 +8,131 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 215.126 |
-| Bauschritte | 132 |
+| Blöcke | 289.514 |
+| Bauschritte | 189 |
 | Y-Bereich | 63 bis 122 |
 | X-Ausdehnung | -385 bis -207 (179 Blöcke) |
 | Z-Ausdehnung | -367 bis -68 (300 Blöcke) |
-| Kleinster Schritt | 795 Blöcke (Schritt 4.17) |
-| Mittlerer Schritt | 1.630 Blöcke |
-| Größter Schritt | 2.095 Blöcke (Schritt 4.93) |
+| Kleinster Schritt | 317 Blöcke (Schritt 4.163) |
+| Mittlerer Schritt | 1.532 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 4.127) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 36.082 | 16,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 33.543 | 15,6 % |
-| Polierter Tuffstein | `polished_tuff` | 27.420 | 12,7 % |
-| Rosa Keramik | `pink_terracotta` | 23.512 | 10,9 % |
-| Weißer Beton | `white_concrete` | 21.115 | 9,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 18.617 | 8,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 17.565 | 8,2 % |
-| Orange Keramik | `orange_terracotta` | 14.311 | 6,7 % |
-| Endsteinziegel | `end_stone_bricks` | 6.257 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 5.455 | 2,5 % |
-| Ziegelsteine | `bricks` | 2.844 | 1,3 % |
-| Glatter Stein | `smooth_stone` | 2.610 | 1,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.741 | 0,8 % |
-| Polierter Andesit | `polished_andesite` | 1.456 | 0,7 % |
-| Grüner Beton | `green_concrete` | 1.413 | 0,7 % |
-| Tuffstein | `tuff` | 1.112 | 0,5 % |
+| Terrakotta | `terracotta` | 105.830 | 36,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 33.607 | 11,6 % |
+| Polierter Tuffstein | `polished_tuff` | 27.252 | 9,4 % |
+| Rosa Keramik | `pink_terracotta` | 23.536 | 8,1 % |
+| Weißer Beton | `white_concrete` | 21.126 | 7,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 18.617 | 6,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 17.584 | 6,1 % |
+| Orange Keramik | `orange_terracotta` | 14.306 | 4,9 % |
+| Endsteinziegel | `end_stone_bricks` | 6.257 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 5.251 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 2.925 | 1,0 % |
+| Ziegelsteine | `bricks` | 2.844 | 1,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.796 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.741 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 1.434 | 0,5 % |
+| Grüner Beton | `green_concrete` | 1.413 | 0,5 % |
+| Tuffstein | `tuff` | 1.101 | 0,4 % |
+| Seelaterne | `sea_lantern` | 597 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 391 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 387 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 338 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 306 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 258 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 258 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 100 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 92 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 73 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 36 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.422 |
+| Steintreppe | `stone_stairs` | 264 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 22 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4101352` | Palazzo des Cinquecento an Via dei Martelli | 16.069 | 4.1–4.9 |
-| 2 | `r4101357` | Palazzo des Cinquecento an Via dei Martelli | 42.040 | 4.10–4.40 |
-| 3 | `r7012615` | Palazzo des Cinquecento an Via dei Martelli | 20.618 | 4.41–4.52 |
-| 4 | `w307153247` | Osservatorio Ximeniano | 20.952 | 4.53–4.64 |
-| 5 | `w307153262` | Haus w307153262 | 3.708 | 4.65–4.66 |
-| 6 | `w477257655` | Reihenhaus an Borgo San Lorenzo | 4.441 | 4.67–4.69 |
-| 7 | `w477257657` | Reihenhaus an Borgo San Lorenzo | 2.688 | 4.70–4.71 |
-| 8 | `w477257658` | Haus w477257658 | 6.172 | 4.72–4.74 |
-| 9 | `w477257659` | Reihenhaus an Piazza San Giovanni | 8.326 | 4.75–4.79 |
-| 10 | `w477257660` | Reihenhaus an Borgo San Lorenzo | 7.086 | 4.80–4.83 |
-| 11 | `w477257661` | Reihenhaus an Borgo San Lorenzo | 6.020 | 4.84–4.86 |
-| 12 | `w477257663` | Reihenhaus an Borgo San Lorenzo | 4.733 | 4.87–4.89 |
-| 13 | `w477257664` | Reihenhaus an Borgo San Lorenzo | 8.048 | 4.90–4.93 |
-| 14 | `w477257666` | Reihenhaus an Borgo San Lorenzo | 5.123 | 4.94–4.96 |
-| 15 | `w477257667` | Reihenhaus an Piazza del Duomo | 7.613 | 4.97–4.100 |
-| 16 | `w477257669` | Haus w477257669 | 7.062 | 4.101–4.104 |
-| 17 | `w477257671` | Reihenhaus an Piazza San Giovanni | 2.529 | 4.105–4.106 |
-| 18 | `w477257672` | Reihenhaus an Via dei Martelli | 4.644 | 4.107–4.109 |
-| 19 | `w477257673` | Palazzo des Cinquecento an Piazza di San Lorenzo | 4.410 | 4.110–4.112 |
-| 20 | `w477257675` | Reihenhaus an Borgo San Lorenzo | 4.069 | 4.113–4.114 |
-| 21 | `w477257678` | Nebengebäude an Piazza del Duomo | 1.280 | 4.115 |
-| 22 | `w477257679` | Reihenhaus an Borgo San Lorenzo | 2.362 | 4.116–4.117 |
-| 23 | `w477257680` | Reihenhaus an Borgo San Lorenzo | 6.033 | 4.118–4.120 |
-| 24 | `w477257681` | Reihenhaus an Piazza San Giovanni | 6.855 | 4.121–4.124 |
-| 25 | `w477257683` | Reihenhaus an Borgo San Lorenzo | 4.830 | 4.125–4.127 |
-| 26 | `w477257684` | Reihenhaus an Piazza San Giovanni | 5.302 | 4.128–4.130 |
-| 27 | `w477257685` | Reihenhaus an Piazza San Giovanni | 2.113 | 4.131–4.132 |
+| 1 | `r4101352` | Palazzo des Cinquecento an Via dei Martelli | 16.060 | 4.1–4.9 |
+| 2 | `r4101352_innen` | Palazzo des Cinquecento an Via dei Martelli: Innenausbau | 4.732 | 4.10–4.12 |
+| 3 | `r4101357` | Palazzo des Cinquecento an Via dei Martelli | 42.001 | 4.13–4.43 |
+| 4 | `r4101357_innen` | Palazzo des Cinquecento an Via dei Martelli: Innenausbau | 11.048 | 4.44–4.49 |
+| 5 | `r7012615` | Palazzo des Cinquecento an Via dei Martelli | 20.605 | 4.50–4.61 |
+| 6 | `r7012615_innen` | Palazzo des Cinquecento an Via dei Martelli: Innenausbau | 6.899 | 4.62–4.67 |
+| 7 | `w307153247` | Osservatorio Ximeniano | 20.934 | 4.68–4.79 |
+| 8 | `w307153247_innen` | Osservatorio Ximeniano: Innenausbau | 10.013 | 4.80–4.87 |
+| 9 | `w307153262` | Haus w307153262 | 3.706 | 4.88–4.89 |
+| 10 | `w307153262_innen` | Haus w307153262: Innenausbau | 1.116 | 4.90 |
+| 11 | `w477257655` | Reihenhaus an Borgo San Lorenzo | 4.439 | 4.91–4.93 |
+| 12 | `w477257655_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.685 | 4.94 |
+| 13 | `w477257657` | Reihenhaus an Borgo San Lorenzo | 2.687 | 4.95–4.96 |
+| 14 | `w477257657_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 417 | 4.97 |
+| 15 | `w477257658` | Haus w477257658 | 6.136 | 4.98–4.100 |
+| 16 | `w477257658_innen` | Haus w477257658: Innenausbau | 2.274 | 4.101–4.102 |
+| 17 | `w477257659` | Reihenhaus an Piazza San Giovanni | 8.307 | 4.103–4.107 |
+| 18 | `w477257659_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 2.368 | 4.108–4.109 |
+| 19 | `w477257660` | Reihenhaus an Borgo San Lorenzo | 7.083 | 4.110–4.113 |
+| 20 | `w477257660_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.920 | 4.114 |
+| 21 | `w477257661` | Reihenhaus an Borgo San Lorenzo | 6.015 | 4.115–4.117 |
+| 22 | `w477257661_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 2.251 | 4.118–4.119 |
+| 23 | `w477257663` | Reihenhaus an Borgo San Lorenzo | 4.730 | 4.120–4.122 |
+| 24 | `w477257663_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.683 | 4.123 |
+| 25 | `w477257664` | Reihenhaus an Borgo San Lorenzo | 8.032 | 4.124–4.127 |
+| 26 | `w477257664_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 2.659 | 4.128–4.129 |
+| 27 | `w477257666` | Reihenhaus an Borgo San Lorenzo | 5.120 | 4.130–4.132 |
+| 28 | `w477257666_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.382 | 4.133 |
+| 29 | `w477257667` | Reihenhaus an Piazza del Duomo | 7.581 | 4.134–4.137 |
+| 30 | `w477257667_innen` | Reihenhaus an Piazza del Duomo: Innenausbau | 2.122 | 4.138–4.139 |
+| 31 | `w477257669` | Haus w477257669 | 7.055 | 4.140–4.143 |
+| 32 | `w477257669_innen` | Haus w477257669: Innenausbau | 3.660 | 4.144–4.146 |
+| 33 | `w477257671` | Reihenhaus an Piazza San Giovanni | 2.527 | 4.147–4.148 |
+| 34 | `w477257671_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 829 | 4.149 |
+| 35 | `w477257672` | Reihenhaus an Via dei Martelli | 4.640 | 4.150–4.152 |
+| 36 | `w477257672_innen` | Reihenhaus an Via dei Martelli: Innenausbau | 2.130 | 4.153–4.154 |
+| 37 | `w477257673` | Palazzo des Cinquecento an Piazza di San Lorenzo | 4.406 | 4.155–4.157 |
+| 38 | `w477257673_innen` | Palazzo des Cinquecento an Piazza di San Lorenzo: Innenausbau | 1.261 | 4.158 |
+| 39 | `w477257675` | Reihenhaus an Borgo San Lorenzo | 4.050 | 4.159–4.160 |
+| 40 | `w477257675_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.142 | 4.161 |
+| 41 | `w477257678` | Nebengebäude an Piazza del Duomo | 1.279 | 4.162 |
+| 42 | `w477257678_innen` | Nebengebäude an Piazza del Duomo: Innenausbau | 317 | 4.163 |
+| 43 | `w477257679` | Reihenhaus an Borgo San Lorenzo | 2.344 | 4.164–4.165 |
+| 44 | `w477257679_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.283 | 4.166 |
+| 45 | `w477257680` | Reihenhaus an Borgo San Lorenzo | 6.028 | 4.167–4.169 |
+| 46 | `w477257680_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 2.735 | 4.170–4.171 |
+| 47 | `w477257681` | Reihenhaus an Piazza San Giovanni | 6.851 | 4.172–4.175 |
+| 48 | `w477257681_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 2.635 | 4.176–4.177 |
+| 49 | `w477257683` | Reihenhaus an Borgo San Lorenzo | 4.826 | 4.178–4.180 |
+| 50 | `w477257683_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 3.064 | 4.181–4.182 |
+| 51 | `w477257684` | Reihenhaus an Piazza San Giovanni | 5.270 | 4.183–4.185 |
+| 52 | `w477257684_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 1.913 | 4.186 |
+| 53 | `w477257685` | Reihenhaus an Piazza San Giovanni | 2.111 | 4.187–4.188 |
+| 54 | `w477257685_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 1.153 | 4.189 |
 
 ## Bauschritte
 
 ### Schritt 4.1 – Palazzo des Cinquecento an Via dei Martelli – Teil 1/9 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.844
+- **Blöcke:** 1.835
 - **Bauteile:** `r4101352`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.844 |
+| Polierter Tuffstein | `polished_tuff` | 1.835 |
 
 **Beschreibung**
 
@@ -134,20 +183,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Palazzo des Cinquecento an Via dei Martelli – Teil 3/9 (Y 72–76)
+### Schritt 4.3 – Palazzo des Cinquecento an Via dei Martelli – Teil 3/9 (Y 72–77)
 
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.557
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 1.871
 - **Bauteile:** `r4101352`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.405 |
+| Weißer Beton | `white_concrete` | 1.688 |
 | Glatter Stein | `smooth_stone` | 78 |
-| Hellgrauer Beton | `light_gray_concrete` | 35 |
-| Polierter Andesit | `polished_andesite` | 22 |
+| Hellgrauer Beton | `light_gray_concrete` | 64 |
+| Polierter Andesit | `polished_andesite` | 24 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
 
@@ -167,20 +216,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Palazzo des Cinquecento an Via dei Martelli – Teil 4/9 (Y 77–82)
+### Schritt 4.4 – Palazzo des Cinquecento an Via dei Martelli – Teil 4/9 (Y 78–82)
 
-- **Y-Bereich:** 77 bis 82
-- **Blöcke:** 1.840
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.526
 - **Bauteile:** `r4101352`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.648 |
-| Hellgrauer Beton | `light_gray_concrete` | 118 |
+| Weißer Beton | `white_concrete` | 1.365 |
+| Hellgrauer Beton | `light_gray_concrete` | 89 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
 
@@ -354,7 +403,139 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.10 – Palazzo des Cinquecento an Via dei Martelli – Teil 1/31 (Y 65–65)
+### Schritt 4.10 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 1/3 (Y 65–75)
+
+- **Y-Bereich:** 65 bis 75
+- **Blöcke:** 1.579
+- **Bauteile:** `r4101352_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.512 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.11 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 2/3 (Y 76–84)
+
+- **Y-Bereich:** 76 bis 84
+- **Blöcke:** 1.572
+- **Bauteile:** `r4101352_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.512 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.12 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 3/3 (Y 85–94)
+
+- **Y-Bereich:** 85 bis 94
+- **Blöcke:** 1.581
+- **Bauteile:** `r4101352_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.512 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.13 – Palazzo des Cinquecento an Via dei Martelli – Teil 1/31 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 998
@@ -364,7 +545,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 998 |
+| Tuffstein | `tuff` | 992 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -382,17 +570,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.11 – Palazzo des Cinquecento an Via dei Martelli – Teil 2/31 (Y 66–66)
+### Schritt 4.14 – Palazzo des Cinquecento an Via dei Martelli – Teil 2/31 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.551
+- **Blöcke:** 2.093
 - **Bauteile:** `r4101357`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.551 |
+| Polierter Tuffstein | `polished_tuff` | 2.093 |
 
 **Beschreibung**
 
@@ -410,17 +598,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.12 – Palazzo des Cinquecento an Via dei Martelli – Teil 3/31 (Y 66–66)
+### Schritt 4.15 – Palazzo des Cinquecento an Via dei Martelli – Teil 3/31 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.638
+- **Blöcke:** 2.092
 - **Bauteile:** `r4101357`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.638 |
+| Polierter Tuffstein | `polished_tuff` | 2.092 |
 
 **Beschreibung**
 
@@ -438,45 +626,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.13 – Palazzo des Cinquecento an Via dei Martelli – Teil 4/31 (Y 66–66)
+### Schritt 4.16 – Palazzo des Cinquecento an Via dei Martelli – Teil 4/31 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.542
+- **Blöcke:** 2.093
 - **Bauteile:** `r4101357`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.542 |
+| Polierter Tuffstein | `polished_tuff` | 2.087 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
 
-**Beschreibung**
+**Treppen je Material** (alle Richtungen)
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.14 – Palazzo des Cinquecento an Via dei Martelli – Teil 5/31 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.586
-- **Bauteile:** `r4101357`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
+| Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.586 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -494,7 +661,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.15 – Palazzo des Cinquecento an Via dei Martelli – Teil 6/31 (Y 67–67)
+### Schritt 4.17 – Palazzo des Cinquecento an Via dei Martelli – Teil 5/31 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 845
@@ -524,20 +691,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.16 – Palazzo des Cinquecento an Via dei Martelli – Teil 7/31 (Y 68–69)
+### Schritt 4.18 – Palazzo des Cinquecento an Via dei Martelli – Teil 6/31 (Y 68–68)
 
-- **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.690
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 845
 - **Bauteile:** `r4101357`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.556 |
-| Weißer Beton | `white_concrete` | 112 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 836 |
+| Polierter Andesit | `polished_andesite` | 3 |
+| Glatter Stein | `smooth_stone` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
@@ -556,7 +722,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.17 – Palazzo des Cinquecento an Via dei Martelli – Teil 8/31 (Y 70–70)
+### Schritt 4.19 – Palazzo des Cinquecento an Via dei Martelli – Teil 7/31 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 845
+- **Bauteile:** `r4101357`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 720 |
+| Weißer Beton | `white_concrete` | 112 |
+| Polierter Andesit | `polished_andesite` | 10 |
+| Glatter Stein | `smooth_stone` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 4.20 – Palazzo des Cinquecento an Via dei Martelli – Teil 8/31 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
 - **Blöcke:** 795
@@ -590,7 +787,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.18 – Palazzo des Cinquecento an Via dei Martelli – Teil 9/31 (Y 71–72)
+### Schritt 4.21 – Palazzo des Cinquecento an Via dei Martelli – Teil 9/31 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.634
@@ -624,7 +821,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.19 – Palazzo des Cinquecento an Via dei Martelli – Teil 10/31 (Y 73–74)
+### Schritt 4.22 – Palazzo des Cinquecento an Via dei Martelli – Teil 10/31 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.647
@@ -658,7 +855,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.20 – Palazzo des Cinquecento an Via dei Martelli – Teil 11/31 (Y 75–75)
+### Schritt 4.23 – Palazzo des Cinquecento an Via dei Martelli – Teil 11/31 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 858
@@ -689,7 +886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.21 – Palazzo des Cinquecento an Via dei Martelli – Teil 12/31 (Y 76–77)
+### Schritt 4.24 – Palazzo des Cinquecento an Via dei Martelli – Teil 12/31 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.716
@@ -720,7 +917,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.22 – Palazzo des Cinquecento an Via dei Martelli – Teil 13/31 (Y 78–78)
+### Schritt 4.25 – Palazzo des Cinquecento an Via dei Martelli – Teil 13/31 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 858
@@ -750,7 +947,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.23 – Palazzo des Cinquecento an Via dei Martelli – Teil 14/31 (Y 79–80)
+### Schritt 4.26 – Palazzo des Cinquecento an Via dei Martelli – Teil 14/31 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.610
@@ -782,7 +979,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.24 – Palazzo des Cinquecento an Via dei Martelli – Teil 15/31 (Y 81–82)
+### Schritt 4.27 – Palazzo des Cinquecento an Via dei Martelli – Teil 15/31 (Y 81–82)
 
 - **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.610
@@ -814,7 +1011,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.25 – Palazzo des Cinquecento an Via dei Martelli – Teil 16/31 (Y 83–83)
+### Schritt 4.28 – Palazzo des Cinquecento an Via dei Martelli – Teil 16/31 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 805
@@ -846,7 +1043,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.26 – Palazzo des Cinquecento an Via dei Martelli – Teil 17/31 (Y 84–85)
+### Schritt 4.29 – Palazzo des Cinquecento an Via dei Martelli – Teil 17/31 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.716
@@ -876,7 +1073,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.27 – Palazzo des Cinquecento an Via dei Martelli – Teil 18/31 (Y 86–87)
+### Schritt 4.30 – Palazzo des Cinquecento an Via dei Martelli – Teil 18/31 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.716
@@ -907,7 +1104,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.28 – Palazzo des Cinquecento an Via dei Martelli – Teil 19/31 (Y 88–88)
+### Schritt 4.31 – Palazzo des Cinquecento an Via dei Martelli – Teil 19/31 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 858
@@ -937,7 +1134,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.29 – Palazzo des Cinquecento an Via dei Martelli – Teil 20/31 (Y 89–90)
+### Schritt 4.32 – Palazzo des Cinquecento an Via dei Martelli – Teil 20/31 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.610
@@ -969,41 +1166,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.30 – Palazzo des Cinquecento an Via dei Martelli – Teil 21/31 (Y 91–91)
+### Schritt 4.33 – Palazzo des Cinquecento an Via dei Martelli – Teil 21/31 (Y 91–92)
 
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 805
-- **Bauteile:** `r4101357`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 642 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
-| Weißer Beton | `white_concrete` | 49 |
-| Grüner Beton | `green_concrete` | 38 |
-| Polierter Andesit | `polished_andesite` | 7 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.31 – Palazzo des Cinquecento an Via dei Martelli – Teil 22/31 (Y 92–93)
-
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.610
 - **Bauteile:** `r4101357`
 
@@ -1033,7 +1198,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.32 – Palazzo des Cinquecento an Via dei Martelli – Teil 23/31 (Y 94–95)
+### Schritt 4.34 – Palazzo des Cinquecento an Via dei Martelli – Teil 22/31 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 805
+- **Bauteile:** `r4101357`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 642 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
+| Weißer Beton | `white_concrete` | 49 |
+| Grüner Beton | `green_concrete` | 38 |
+| Polierter Andesit | `polished_andesite` | 7 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 4.35 – Palazzo des Cinquecento an Via dei Martelli – Teil 23/31 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.792
@@ -1064,7 +1261,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.33 – Palazzo des Cinquecento an Via dei Martelli – Teil 24/31 (Y 96–96)
+### Schritt 4.36 – Palazzo des Cinquecento an Via dei Martelli – Teil 24/31 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.203
@@ -1094,7 +1291,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.34 – Palazzo des Cinquecento an Via dei Martelli – Teil 25/31 (Y 97–97)
+### Schritt 4.37 – Palazzo des Cinquecento an Via dei Martelli – Teil 25/31 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.426
@@ -1122,7 +1319,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.35 – Palazzo des Cinquecento an Via dei Martelli – Teil 26/31 (Y 97–97)
+### Schritt 4.38 – Palazzo des Cinquecento an Via dei Martelli – Teil 26/31 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.458
@@ -1150,7 +1347,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.36 – Palazzo des Cinquecento an Via dei Martelli – Teil 27/31 (Y 98–98)
+### Schritt 4.39 – Palazzo des Cinquecento an Via dei Martelli – Teil 27/31 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.614
@@ -1178,7 +1375,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.37 – Palazzo des Cinquecento an Via dei Martelli – Teil 28/31 (Y 99–99)
+### Schritt 4.40 – Palazzo des Cinquecento an Via dei Martelli – Teil 28/31 (Y 99–99)
 
 - **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.474
@@ -1206,7 +1403,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.38 – Palazzo des Cinquecento an Via dei Martelli – Teil 29/31 (Y 100–100)
+### Schritt 4.41 – Palazzo des Cinquecento an Via dei Martelli – Teil 29/31 (Y 100–100)
 
 - **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.186
@@ -1235,7 +1432,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.39 – Palazzo des Cinquecento an Via dei Martelli – Teil 30/31 (Y 101–101)
+### Schritt 4.42 – Palazzo des Cinquecento an Via dei Martelli – Teil 30/31 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
 - **Blöcke:** 979
@@ -1264,7 +1461,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.40 – Palazzo des Cinquecento an Via dei Martelli – Teil 31/31 (Y 102–107)
+### Schritt 4.43 – Palazzo des Cinquecento an Via dei Martelli – Teil 31/31 (Y 102–107)
 
 - **Y-Bereich:** 102 bis 107
 - **Blöcke:** 1.210
@@ -1293,17 +1490,230 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.41 – Palazzo des Cinquecento an Via dei Martelli – Teil 1/12 (Y 65–65)
+### Schritt 4.44 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 1/6 (Y 66–76)
+
+- **Y-Bereich:** 66 bis 76
+- **Blöcke:** 1.877
+- **Bauteile:** `r4101357_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.784 |
+| Seelaterne | `sea_lantern` | 44 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.45 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 2/6 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 1.884
+- **Bauteile:** `r4101357_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.873 |
+| Seelaterne | `sea_lantern` | 11 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.46 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 3/6 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 1.772
+- **Bauteile:** `r4101357_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.761 |
+| Seelaterne | `sea_lantern` | 11 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.47 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 4/6 (Y 77–86)
+
+- **Y-Bereich:** 77 bis 86
+- **Blöcke:** 1.850
+- **Bauteile:** `r4101357_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.784 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.48 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 5/6 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.884
+- **Bauteile:** `r4101357_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.873 |
+| Seelaterne | `sea_lantern` | 11 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.49 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 6/6 (Y 86–87)
+
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.781
+- **Bauteile:** `r4101357_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.761 |
+| Seelaterne | `sea_lantern` | 11 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.50 – Palazzo des Cinquecento an Via dei Martelli – Teil 1/12 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.289
+- **Blöcke:** 1.283
 - **Bauteile:** `r7012615`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.289 |
+| Polierter Tuffstein | `polished_tuff` | 1.283 |
 
 **Beschreibung**
 
@@ -1321,17 +1731,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.42 – Palazzo des Cinquecento an Via dei Martelli – Teil 2/12 (Y 65–66)
+### Schritt 4.51 – Palazzo des Cinquecento an Via dei Martelli – Teil 2/12 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.725
+- **Blöcke:** 1.718
 - **Bauteile:** `r7012615`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.351 |
+| Polierter Tuffstein | `polished_tuff` | 1.344 |
 | Gelbe Keramik | `yellow_terracotta` | 366 |
 | Polierter Andesit | `polished_andesite` | 4 |
 | Glatter Stein | `smooth_stone` | 2 |
@@ -1353,7 +1763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.43 – Palazzo des Cinquecento an Via dei Martelli – Teil 3/12 (Y 67–71)
+### Schritt 4.52 – Palazzo des Cinquecento an Via dei Martelli – Teil 3/12 (Y 67–71)
 
 - **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.845
@@ -1387,7 +1797,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.44 – Palazzo des Cinquecento an Via dei Martelli – Teil 4/12 (Y 72–76)
+### Schritt 4.53 – Palazzo des Cinquecento an Via dei Martelli – Teil 4/12 (Y 72–76)
 
 - **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.895
@@ -1421,7 +1831,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.45 – Palazzo des Cinquecento an Via dei Martelli – Teil 5/12 (Y 77–81)
+### Schritt 4.54 – Palazzo des Cinquecento an Via dei Martelli – Teil 5/12 (Y 77–81)
 
 - **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.824
@@ -1453,7 +1863,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.46 – Palazzo des Cinquecento an Via dei Martelli – Teil 6/12 (Y 82–85)
+### Schritt 4.55 – Palazzo des Cinquecento an Via dei Martelli – Teil 6/12 (Y 82–85)
 
 - **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.552
@@ -1484,7 +1894,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.47 – Palazzo des Cinquecento an Via dei Martelli – Teil 7/12 (Y 86–90)
+### Schritt 4.56 – Palazzo des Cinquecento an Via dei Martelli – Teil 7/12 (Y 86–90)
 
 - **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.824
@@ -1516,7 +1926,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.48 – Palazzo des Cinquecento an Via dei Martelli – Teil 8/12 (Y 91–95)
+### Schritt 4.57 – Palazzo des Cinquecento an Via dei Martelli – Teil 8/12 (Y 91–95)
 
 - **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.940
@@ -1547,7 +1957,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.49 – Palazzo des Cinquecento an Via dei Martelli – Teil 9/12 (Y 96–99)
+### Schritt 4.58 – Palazzo des Cinquecento an Via dei Martelli – Teil 9/12 (Y 96–99)
 
 - **Y-Bereich:** 96 bis 99
 - **Blöcke:** 1.465
@@ -1579,7 +1989,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.50 – Palazzo des Cinquecento an Via dei Martelli – Teil 10/12 (Y 100–102)
+### Schritt 4.59 – Palazzo des Cinquecento an Via dei Martelli – Teil 10/12 (Y 100–102)
 
 - **Y-Bereich:** 100 bis 102
 - **Blöcke:** 1.433
@@ -1610,7 +2020,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.51 – Palazzo des Cinquecento an Via dei Martelli – Teil 11/12 (Y 103–104)
+### Schritt 4.60 – Palazzo des Cinquecento an Via dei Martelli – Teil 11/12 (Y 103–104)
 
 - **Y-Bereich:** 103 bis 104
 - **Blöcke:** 2.041
@@ -1638,7 +2048,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.52 – Palazzo des Cinquecento an Via dei Martelli – Teil 12/12 (Y 105–110)
+### Schritt 4.61 – Palazzo des Cinquecento an Via dei Martelli – Teil 12/12 (Y 105–110)
 
 - **Y-Bereich:** 105 bis 110
 - **Blöcke:** 1.785
@@ -1667,18 +2077,253 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.53 – Osservatorio Ximeniano – Teil 1/12 (Y 65–66)
+### Schritt 4.62 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 1/6 (Y 65–75)
+
+- **Y-Bereich:** 65 bis 75
+- **Blöcke:** 1.193
+- **Bauteile:** `r7012615_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.124 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 20 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.63 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 2/6 (Y 75–75)
+
+- **Y-Bereich:** 75 bis 75
+- **Blöcke:** 1.111
+- **Bauteile:** `r7012615_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.105 |
+| Seelaterne | `sea_lantern` | 6 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.64 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 3/6 (Y 76–84)
+
+- **Y-Bereich:** 76 bis 84
+- **Blöcke:** 1.182
+- **Bauteile:** `r7012615_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.124 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.65 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 4/6 (Y 84–84)
+
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.111
+- **Bauteile:** `r7012615_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.105 |
+| Seelaterne | `sea_lantern` | 6 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.66 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 5/6 (Y 85–93)
+
+- **Y-Bereich:** 85 bis 93
+- **Blöcke:** 1.182
+- **Bauteile:** `r7012615_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.124 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.67 – Palazzo des Cinquecento an Via dei Martelli: Innenausbau – Teil 6/6 (Y 93–94)
+
+- **Y-Bereich:** 93 bis 94
+- **Blöcke:** 1.120
+- **Bauteile:** `r7012615_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.105 |
+| Seelaterne | `sea_lantern` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.68 – Osservatorio Ximeniano – Teil 1/12 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.518
+- **Blöcke:** 1.508
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.404 |
-| Tuffstein | `tuff` | 114 |
+| Polierter Tuffstein | `polished_tuff` | 1.389 |
+| Tuffstein | `tuff` | 109 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 **Beschreibung**
 
@@ -1696,17 +2341,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.54 – Osservatorio Ximeniano – Teil 2/12 (Y 66–68)
+### Schritt 4.69 – Osservatorio Ximeniano – Teil 2/12 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.962
+- **Blöcke:** 1.954
 - **Bauteile:** `w307153247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.374 |
+| Polierter Tuffstein | `polished_tuff` | 1.366 |
 | Rosa Keramik | `pink_terracotta` | 576 |
 | Polierter Andesit | `polished_andesite` | 6 |
 | Glatter Stein | `smooth_stone` | 4 |
@@ -1728,7 +2373,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.55 – Osservatorio Ximeniano – Teil 3/12 (Y 69–74)
+### Schritt 4.70 – Osservatorio Ximeniano – Teil 3/12 (Y 69–74)
 
 - **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.673
@@ -1761,7 +2406,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.56 – Osservatorio Ximeniano – Teil 4/12 (Y 75–80)
+### Schritt 4.71 – Osservatorio Ximeniano – Teil 4/12 (Y 75–80)
 
 - **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.774
@@ -1794,7 +2439,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.57 – Osservatorio Ximeniano – Teil 5/12 (Y 81–86)
+### Schritt 4.72 – Osservatorio Ximeniano – Teil 5/12 (Y 81–86)
 
 - **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.718
@@ -1826,7 +2471,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.58 – Osservatorio Ximeniano – Teil 6/12 (Y 87–92)
+### Schritt 4.73 – Osservatorio Ximeniano – Teil 6/12 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.718
@@ -1857,7 +2502,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.59 – Osservatorio Ximeniano – Teil 7/12 (Y 93–98)
+### Schritt 4.74 – Osservatorio Ximeniano – Teil 7/12 (Y 93–98)
 
 - **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.900
@@ -1889,7 +2534,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.60 – Osservatorio Ximeniano – Teil 8/12 (Y 99–103)
+### Schritt 4.75 – Osservatorio Ximeniano – Teil 8/12 (Y 99–103)
 
 - **Y-Bereich:** 99 bis 103
 - **Blöcke:** 1.784
@@ -1921,7 +2566,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.61 – Osservatorio Ximeniano – Teil 9/12 (Y 104–108)
+### Schritt 4.76 – Osservatorio Ximeniano – Teil 9/12 (Y 104–108)
 
 - **Y-Bereich:** 104 bis 108
 - **Blöcke:** 1.756
@@ -1952,7 +2597,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.62 – Osservatorio Ximeniano – Teil 10/12 (Y 109–111)
+### Schritt 4.77 – Osservatorio Ximeniano – Teil 10/12 (Y 109–111)
 
 - **Y-Bereich:** 109 bis 111
 - **Blöcke:** 2.046
@@ -1983,7 +2628,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.63 – Osservatorio Ximeniano – Teil 11/12 (Y 112–113)
+### Schritt 4.78 – Osservatorio Ximeniano – Teil 11/12 (Y 112–113)
 
 - **Y-Bereich:** 112 bis 113
 - **Blöcke:** 1.118
@@ -2011,7 +2656,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.64 – Osservatorio Ximeniano – Teil 12/12 (Y 114–122)
+### Schritt 4.79 – Osservatorio Ximeniano – Teil 12/12 (Y 114–122)
 
 - **Y-Bereich:** 114 bis 122
 - **Blöcke:** 1.985
@@ -2040,10 +2685,334 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.65 – Haus w307153262 – Teil 1/2 (Y 66–91)
+### Schritt 4.80 – Osservatorio Ximeniano: Innenausbau – Teil 1/8 (Y 66–76)
+
+- **Y-Bereich:** 66 bis 76
+- **Blöcke:** 1.281
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.216 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.81 – Osservatorio Ximeniano: Innenausbau – Teil 2/8 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 1.245
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.235 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.82 – Osservatorio Ximeniano: Innenausbau – Teil 3/8 (Y 77–86)
+
+- **Y-Bereich:** 77 bis 86
+- **Blöcke:** 1.274
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.216 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Seelaterne | `sea_lantern` | 5 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.83 – Osservatorio Ximeniano: Innenausbau – Teil 4/8 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.245
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.235 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.84 – Osservatorio Ximeniano: Innenausbau – Teil 5/8 (Y 87–94)
+
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.266
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.216 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
+| Seelaterne | `sea_lantern` | 5 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.85 – Osservatorio Ximeniano: Innenausbau – Teil 6/8 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.245
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.235 |
+| Seelaterne | `sea_lantern` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.86 – Osservatorio Ximeniano: Innenausbau – Teil 7/8 (Y 95–102)
+
+- **Y-Bereich:** 95 bis 102
+- **Blöcke:** 1.266
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.216 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
+| Seelaterne | `sea_lantern` | 5 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.87 – Osservatorio Ximeniano: Innenausbau – Teil 8/8 (Y 102–103)
+
+- **Y-Bereich:** 102 bis 103
+- **Blöcke:** 1.191
+- **Bauteile:** `w307153247_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.172 |
+| Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Steintreppe | `stone_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.88 – Haus w307153262 – Teil 1/2 (Y 66–91)
 
 - **Y-Bereich:** 66 bis 91
-- **Blöcke:** 1.826
+- **Blöcke:** 1.824
 - **Bauteile:** `w307153262`
 
 **Teileliste**
@@ -2051,7 +3020,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.135 |
-| Polierter Tuffstein | `polished_tuff` | 308 |
+| Polierter Tuffstein | `polished_tuff` | 306 |
 | Weißer Beton | `white_concrete` | 257 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 | Glatter Stein | `smooth_stone` | 26 |
@@ -2073,7 +3042,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.66 – Haus w307153262 – Teil 2/2 (Y 92–114)
+### Schritt 4.89 – Haus w307153262 – Teil 2/2 (Y 92–114)
 
 - **Y-Bereich:** 92 bis 114
 - **Blöcke:** 1.882
@@ -2105,10 +3074,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.67 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 65–76)
+### Schritt 4.90 – Haus w307153262: Innenausbau
+
+- **Y-Bereich:** 66 bis 102
+- **Blöcke:** 1.116
+- **Bauteile:** `w307153262_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 906 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 98 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 41 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 35 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 78 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.91 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 65–76)
 
 - **Y-Bereich:** 65 bis 76
-- **Blöcke:** 1.470
+- **Blöcke:** 1.468
 - **Bauteile:** `w477257655`
 
 **Teileliste**
@@ -2116,7 +3127,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 949 |
-| Polierter Tuffstein | `polished_tuff` | 476 |
+| Polierter Tuffstein | `polished_tuff` | 474 |
 | Glatter Stein | `smooth_stone` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 11 |
 | Grüner Beton | `green_concrete` | 11 |
@@ -2138,7 +3149,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.68 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 77–92)
+### Schritt 4.92 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 77–92)
 
 - **Y-Bereich:** 77 bis 92
 - **Blöcke:** 1.447
@@ -2168,7 +3179,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.69 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 93–107)
+### Schritt 4.93 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 93–107)
 
 - **Y-Bereich:** 93 bis 107
 - **Blöcke:** 1.524
@@ -2200,10 +3211,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.70 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 64–79)
+### Schritt 4.94 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 65 bis 96
+- **Blöcke:** 1.685
+- **Bauteile:** `w477257655_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.492 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 89 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 32 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 28 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 70 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.95 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 64–79)
 
 - **Y-Bereich:** 64 bis 79
-- **Blöcke:** 1.321
+- **Blöcke:** 1.320
 - **Bauteile:** `w477257657`
 
 **Teileliste**
@@ -2211,7 +3264,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.092 |
-| Polierter Tuffstein | `polished_tuff` | 183 |
+| Polierter Tuffstein | `polished_tuff` | 182 |
 | Polierter Andesit | `polished_andesite` | 38 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
@@ -2231,7 +3284,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.71 – Reihenhaus an Borgo San Lorenzo – Teil 2/2 (Y 80–98)
+### Schritt 4.96 – Reihenhaus an Borgo San Lorenzo – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
 - **Blöcke:** 1.367
@@ -2263,21 +3316,61 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.72 – Haus w477257658 – Teil 1/3 (Y 64–73)
+### Schritt 4.97 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 64 bis 88
+- **Blöcke:** 417
+- **Bauteile:** `w477257657_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 288 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
+| Seelaterne | `sea_lantern` | 4 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.98 – Haus w477257658 – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
-- **Blöcke:** 2.093
+- **Blöcke:** 2.057
 - **Bauteile:** `w477257658`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.168 |
-| Polierter Tuffstein | `polished_tuff` | 854 |
-| Weißer Beton | `white_concrete` | 44 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Glatter Sandstein | `smooth_sandstone` | 1.163 |
+| Polierter Tuffstein | `polished_tuff` | 850 |
+| Weißer Beton | `white_concrete` | 28 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -2295,7 +3388,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.73 – Haus w477257658 – Teil 2/3 (Y 74–88)
+### Schritt 4.99 – Haus w477257658 – Teil 2/3 (Y 74–88)
 
 - **Y-Bereich:** 74 bis 88
 - **Blöcke:** 2.007
@@ -2325,7 +3418,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.74 – Haus w477257658 – Teil 3/3 (Y 89–101)
+### Schritt 4.100 – Haus w477257658 – Teil 3/3 (Y 89–101)
 
 - **Y-Bereich:** 89 bis 101
 - **Blöcke:** 2.072
@@ -2358,20 +3451,104 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.75 – Reihenhaus an Piazza San Giovanni – Teil 1/5 (Y 63–67)
+### Schritt 4.101 – Haus w477257658: Innenausbau – Teil 1/2 (Y 64–79)
+
+- **Y-Bereich:** 64 bis 79
+- **Blöcke:** 802
+- **Bauteile:** `w477257658_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 705 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 15 |
+| Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.102 – Haus w477257658: Innenausbau – Teil 2/2 (Y 80–88)
+
+- **Y-Bereich:** 80 bis 88
+- **Blöcke:** 1.472
+- **Bauteile:** `w477257658_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.410 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 11 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.103 – Reihenhaus an Piazza San Giovanni – Teil 1/5 (Y 63–67)
 
 - **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.709
+- **Blöcke:** 1.676
 - **Bauteile:** `w477257659`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 952 |
+| Polierter Tuffstein | `polished_tuff` | 947 |
 | Hellgrauer Beton | `light_gray_concrete` | 640 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
 | Weißer Beton | `white_concrete` | 37 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
 | Glatter Stein | `smooth_stone` | 16 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
 
@@ -2391,20 +3568,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.76 – Reihenhaus an Piazza San Giovanni – Teil 2/5 (Y 68–75)
+### Schritt 4.104 – Reihenhaus an Piazza San Giovanni – Teil 2/5 (Y 68–75)
 
 - **Y-Bereich:** 68 bis 75
-- **Blöcke:** 1.550
+- **Blöcke:** 1.564
 - **Bauteile:** `w477257659`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.309 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.345 |
 | Weißer Beton | `white_concrete` | 120 |
-| Graues Buntglas | `gray_stained_glass` | 83 |
-| Glatter Stein | `smooth_stone` | 28 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
+| Glatter Stein | `smooth_stone` | 20 |
 | Fichtenholz-Bretter | `spruce_planks` | 10 |
 
 **Beschreibung**
@@ -2423,7 +3600,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.77 – Reihenhaus an Piazza San Giovanni – Teil 3/5 (Y 76–84)
+### Schritt 4.105 – Reihenhaus an Piazza San Giovanni – Teil 3/5 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.740
@@ -2454,7 +3631,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.78 – Reihenhaus an Piazza San Giovanni – Teil 4/5 (Y 85–92)
+### Schritt 4.106 – Reihenhaus an Piazza San Giovanni – Teil 4/5 (Y 85–92)
 
 - **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.594
@@ -2485,7 +3662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.79 – Reihenhaus an Piazza San Giovanni – Teil 5/5 (Y 93–100)
+### Schritt 4.107 – Reihenhaus an Piazza San Giovanni – Teil 5/5 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.733
@@ -2516,10 +3693,94 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.80 – Reihenhaus an Borgo San Lorenzo – Teil 1/4 (Y 65–73)
+### Schritt 4.108 – Reihenhaus an Piazza San Giovanni: Innenausbau – Teil 1/2 (Y 63–78)
+
+- **Y-Bereich:** 63 bis 78
+- **Blöcke:** 834
+- **Bauteile:** `w477257659_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 735 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.109 – Reihenhaus an Piazza San Giovanni: Innenausbau – Teil 2/2 (Y 79–87)
+
+- **Y-Bereich:** 79 bis 87
+- **Blöcke:** 1.534
+- **Bauteile:** `w477257659_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.470 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.110 – Reihenhaus an Borgo San Lorenzo – Teil 1/4 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
-- **Blöcke:** 1.776
+- **Blöcke:** 1.773
 - **Bauteile:** `w477257660`
 
 **Teileliste**
@@ -2527,7 +3788,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.119 |
-| Polierter Tuffstein | `polished_tuff` | 599 |
+| Polierter Tuffstein | `polished_tuff` | 596 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
@@ -2549,7 +3810,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.81 – Reihenhaus an Borgo San Lorenzo – Teil 2/4 (Y 74–85)
+### Schritt 4.111 – Reihenhaus an Borgo San Lorenzo – Teil 2/4 (Y 74–85)
 
 - **Y-Bereich:** 74 bis 85
 - **Blöcke:** 1.837
@@ -2579,7 +3840,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.82 – Reihenhaus an Borgo San Lorenzo – Teil 3/4 (Y 86–96)
+### Schritt 4.112 – Reihenhaus an Borgo San Lorenzo – Teil 3/4 (Y 86–96)
 
 - **Y-Bereich:** 86 bis 96
 - **Blöcke:** 1.691
@@ -2609,7 +3870,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.83 – Reihenhaus an Borgo San Lorenzo – Teil 4/4 (Y 97–107)
+### Schritt 4.113 – Reihenhaus an Borgo San Lorenzo – Teil 4/4 (Y 97–107)
 
 - **Y-Bereich:** 97 bis 107
 - **Blöcke:** 1.782
@@ -2641,10 +3902,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.84 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–73)
+### Schritt 4.114 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 65 bis 96
+- **Blöcke:** 1.920
+- **Bauteile:** `w477257660_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.728 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 87 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 32 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 28 |
+| Seelaterne | `sea_lantern` | 15 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 66 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.115 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
-- **Blöcke:** 2.060
+- **Blöcke:** 2.055
 - **Bauteile:** `w477257661`
 
 **Teileliste**
@@ -2652,7 +3955,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.159 |
-| Polierter Tuffstein | `polished_tuff` | 848 |
+| Polierter Tuffstein | `polished_tuff` | 843 |
 | Graues Buntglas | `gray_stained_glass` | 22 |
 | Glatter Stein | `smooth_stone` | 21 |
 | Grüner Beton | `green_concrete` | 10 |
@@ -2673,7 +3976,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.85 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 74–88)
+### Schritt 4.116 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 74–88)
 
 - **Y-Bereich:** 74 bis 88
 - **Blöcke:** 2.014
@@ -2703,7 +4006,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.86 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 89–99)
+### Schritt 4.117 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 89–99)
 
 - **Y-Bereich:** 89 bis 99
 - **Blöcke:** 1.946
@@ -2735,10 +4038,94 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.87 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–77)
+### Schritt 4.118 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 1/2 (Y 64–79)
+
+- **Y-Bereich:** 64 bis 79
+- **Blöcke:** 793
+- **Bauteile:** `w477257661_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 697 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.119 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 2/2 (Y 80–88)
+
+- **Y-Bereich:** 80 bis 88
+- **Blöcke:** 1.458
+- **Bauteile:** `w477257661_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.394 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.120 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–77)
 
 - **Y-Bereich:** 64 bis 77
-- **Blöcke:** 1.575
+- **Blöcke:** 1.572
 - **Bauteile:** `w477257663`
 
 **Teileliste**
@@ -2746,7 +4133,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.015 |
-| Polierter Tuffstein | `polished_tuff` | 474 |
+| Polierter Tuffstein | `polished_tuff` | 471 |
 | Weißer Beton | `white_concrete` | 38 |
 | Glatter Stein | `smooth_stone` | 22 |
 | Graues Buntglas | `gray_stained_glass` | 17 |
@@ -2768,18 +4155,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.88 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 78–94)
+### Schritt 4.121 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 78–95)
 
-- **Y-Bereich:** 78 bis 94
-- **Blöcke:** 1.511
+- **Y-Bereich:** 78 bis 95
+- **Blöcke:** 1.651
 - **Bauteile:** `w477257663`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.373 |
-| Weißer Beton | `white_concrete` | 87 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.504 |
+| Weißer Beton | `white_concrete` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 | Fichtenholz-Bretter | `spruce_planks` | 18 |
 
@@ -2799,21 +4186,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.89 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 95–106)
+### Schritt 4.122 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 96–106)
 
-- **Y-Bereich:** 95 bis 106
-- **Blöcke:** 1.647
+- **Y-Bereich:** 96 bis 106
+- **Blöcke:** 1.507
 - **Bauteile:** `w477257663`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 903 |
+| Hellgrauer Beton | `light_gray_concrete` | 772 |
 | Terrakotta | `terracotta` | 603 |
 | Fichtenholz-Bretter | `spruce_planks` | 54 |
-| Weißer Beton | `white_concrete` | 37 |
 | Ziegelsteine | `bricks` | 35 |
+| Weißer Beton | `white_concrete` | 28 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
 
 **Beschreibung**
@@ -2832,19 +4219,59 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.90 – Reihenhaus an Borgo San Lorenzo – Teil 1/4 (Y 65–70)
+### Schritt 4.123 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 64 bis 95
+- **Blöcke:** 1.683
+- **Bauteile:** `w477257663_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.488 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 88 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 36 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 32 |
+| Seelaterne | `sea_lantern` | 15 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 68 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.124 – Reihenhaus an Borgo San Lorenzo – Teil 1/4 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.939
+- **Blöcke:** 1.919
 - **Bauteile:** `w477257664`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.036 |
-| Glatter Sandstein | `smooth_sandstone` | 816 |
-| Graues Buntglas | `gray_stained_glass` | 49 |
+| Polierter Tuffstein | `polished_tuff` | 1.031 |
+| Glatter Sandstein | `smooth_sandstone` | 826 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
 | Glatter Stein | `smooth_stone` | 20 |
 | Grüner Beton | `green_concrete` | 18 |
 
@@ -2864,20 +4291,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.91 – Reihenhaus an Borgo San Lorenzo – Teil 2/4 (Y 71–81)
+### Schritt 4.125 – Reihenhaus an Borgo San Lorenzo – Teil 2/4 (Y 71–81)
 
 - **Y-Bereich:** 71 bis 81
-- **Blöcke:** 2.022
+- **Blöcke:** 2.026
 - **Bauteile:** `w477257664`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.892 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
+| Glatter Sandstein | `smooth_sandstone` | 1.906 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 | Grüner Beton | `green_concrete` | 44 |
-| Glatter Stein | `smooth_stone` | 11 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -2895,7 +4322,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.92 – Reihenhaus an Borgo San Lorenzo – Teil 3/4 (Y 82–92)
+### Schritt 4.126 – Reihenhaus an Borgo San Lorenzo – Teil 3/4 (Y 82–92)
 
 - **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.992
@@ -2925,7 +4352,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.93 – Reihenhaus an Borgo San Lorenzo – Teil 4/4 (Y 93–103)
+### Schritt 4.127 – Reihenhaus an Borgo San Lorenzo – Teil 4/4 (Y 93–103)
 
 - **Y-Bereich:** 93 bis 103
 - **Blöcke:** 2.095
@@ -2957,10 +4384,90 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.94 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 65–78)
+### Schritt 4.128 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 1/2 (Y 65–80)
+
+- **Y-Bereich:** 65 bis 80
+- **Blöcke:** 932
+- **Bauteile:** `w477257664_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 833 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.129 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 2/2 (Y 81–89)
+
+- **Y-Bereich:** 81 bis 89
+- **Blöcke:** 1.727
+- **Bauteile:** `w477257664_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.666 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 11 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.130 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 65–78)
 
 - **Y-Bereich:** 65 bis 78
-- **Blöcke:** 1.713
+- **Blöcke:** 1.710
 - **Bauteile:** `w477257666`
 
 **Teileliste**
@@ -2968,7 +4475,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.225 |
-| Polierter Tuffstein | `polished_tuff` | 413 |
+| Polierter Tuffstein | `polished_tuff` | 410 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Glatter Stein | `smooth_stone` | 27 |
 | Grüner Beton | `green_concrete` | 18 |
@@ -2990,7 +4497,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.95 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 79–94)
+### Schritt 4.131 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 79–94)
 
 - **Y-Bereich:** 79 bis 94
 - **Blöcke:** 1.660
@@ -3020,7 +4527,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.96 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 95–106)
+### Schritt 4.132 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 95–106)
 
 - **Y-Bereich:** 95 bis 106
 - **Blöcke:** 1.750
@@ -3053,20 +4560,60 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.97 – Reihenhaus an Piazza del Duomo – Teil 1/4 (Y 64–72)
+### Schritt 4.133 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 65 bis 96
+- **Blöcke:** 1.382
+- **Bauteile:** `w477257666_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.184 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 89 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 37 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 33 |
+| Seelaterne | `sea_lantern` | 15 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 70 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.134 – Reihenhaus an Piazza del Duomo – Teil 1/4 (Y 64–72)
 
 - **Y-Bereich:** 64 bis 72
-- **Blöcke:** 1.938
+- **Blöcke:** 1.906
 - **Bauteile:** `w477257667`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.034 |
-| Polierter Tuffstein | `polished_tuff` | 662 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 72 |
+| Rosa Keramik | `pink_terracotta` | 1.058 |
+| Polierter Tuffstein | `polished_tuff` | 658 |
+| Graues Buntglas | `gray_stained_glass` | 73 |
+| Glatter Stein | `smooth_stone` | 67 |
 | Weißer Beton | `white_concrete` | 50 |
 
 **Beschreibung**
@@ -3085,7 +4632,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.98 – Reihenhaus an Piazza del Duomo – Teil 2/4 (Y 73–83)
+### Schritt 4.135 – Reihenhaus an Piazza del Duomo – Teil 2/4 (Y 73–83)
 
 - **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.807
@@ -3115,7 +4662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.99 – Reihenhaus an Piazza del Duomo – Teil 3/4 (Y 84–95)
+### Schritt 4.136 – Reihenhaus an Piazza del Duomo – Teil 3/4 (Y 84–95)
 
 - **Y-Bereich:** 84 bis 95
 - **Blöcke:** 1.982
@@ -3145,7 +4692,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.100 – Reihenhaus an Piazza del Duomo – Teil 4/4 (Y 96–107)
+### Schritt 4.137 – Reihenhaus an Piazza del Duomo – Teil 4/4 (Y 96–107)
 
 - **Y-Bereich:** 96 bis 107
 - **Blöcke:** 1.886
@@ -3177,17 +4724,101 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.101 – Haus w477257669 – Teil 1/4 (Y 65–69)
+### Schritt 4.138 – Reihenhaus an Piazza del Duomo: Innenausbau – Teil 1/2 (Y 64–80)
+
+- **Y-Bereich:** 64 bis 80
+- **Blöcke:** 1.061
+- **Bauteile:** `w477257667_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 958 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 17 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 36 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.139 – Reihenhaus an Piazza del Duomo: Innenausbau – Teil 2/2 (Y 81–95)
+
+- **Y-Bereich:** 81 bis 95
+- **Blöcke:** 1.061
+- **Bauteile:** `w477257667_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 958 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 43 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 14 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.140 – Haus w477257669 – Teil 1/4 (Y 65–69)
 
 - **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.786
+- **Blöcke:** 1.779
 - **Bauteile:** `w477257669`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.308 |
+| Polierter Tuffstein | `polished_tuff` | 1.301 |
 | Orange Keramik | `orange_terracotta` | 468 |
 | Glatter Stein | `smooth_stone` | 8 |
 | Graues Buntglas | `gray_stained_glass` | 2 |
@@ -3208,7 +4839,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.102 – Haus w477257669 – Teil 2/4 (Y 70–83)
+### Schritt 4.141 – Haus w477257669 – Teil 2/4 (Y 70–83)
 
 - **Y-Bereich:** 70 bis 83
 - **Blöcke:** 1.759
@@ -3239,7 +4870,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.103 – Haus w477257669 – Teil 3/4 (Y 84–95)
+### Schritt 4.142 – Haus w477257669 – Teil 3/4 (Y 84–95)
 
 - **Y-Bereich:** 84 bis 95
 - **Blöcke:** 1.677
@@ -3270,7 +4901,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.104 – Haus w477257669 – Teil 4/4 (Y 96–103)
+### Schritt 4.143 – Haus w477257669 – Teil 4/4 (Y 96–103)
 
 - **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.840
@@ -3299,10 +4930,128 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.105 – Reihenhaus an Piazza San Giovanni – Teil 1/2 (Y 64–80)
+### Schritt 4.144 – Haus w477257669: Innenausbau – Teil 1/3 (Y 65–74)
+
+- **Y-Bereich:** 65 bis 74
+- **Blöcke:** 1.223
+- **Bauteile:** `w477257669_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.164 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Seelaterne | `sea_lantern` | 14 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.145 – Haus w477257669: Innenausbau – Teil 2/3 (Y 75–81)
+
+- **Y-Bereich:** 75 bis 81
+- **Blöcke:** 1.214
+- **Bauteile:** `w477257669_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.164 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.146 – Haus w477257669: Innenausbau – Teil 3/3 (Y 82–89)
+
+- **Y-Bereich:** 82 bis 89
+- **Blöcke:** 1.223
+- **Bauteile:** `w477257669_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.164 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.147 – Reihenhaus an Piazza San Giovanni – Teil 1/2 (Y 64–80)
 
 - **Y-Bereich:** 64 bis 80
-- **Blöcke:** 1.244
+- **Blöcke:** 1.242
 - **Bauteile:** `w477257671`
 
 **Teileliste**
@@ -3310,7 +5059,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 829 |
-| Polierter Tuffstein | `polished_tuff` | 301 |
+| Polierter Tuffstein | `polished_tuff` | 299 |
 | Weißer Beton | `white_concrete` | 61 |
 | Glatter Stein | `smooth_stone` | 27 |
 | Graues Buntglas | `gray_stained_glass` | 23 |
@@ -3332,7 +5081,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.106 – Reihenhaus an Piazza San Giovanni – Teil 2/2 (Y 81–99)
+### Schritt 4.148 – Reihenhaus an Piazza San Giovanni – Teil 2/2 (Y 81–99)
 
 - **Y-Bereich:** 81 bis 99
 - **Blöcke:** 1.285
@@ -3364,10 +5113,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.107 – Reihenhaus an Via dei Martelli – Teil 1/3 (Y 64–80)
+### Schritt 4.149 – Reihenhaus an Piazza San Giovanni: Innenausbau
+
+- **Y-Bereich:** 64 bis 88
+- **Blöcke:** 829
+- **Bauteile:** `w477257671_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 684 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.150 – Reihenhaus an Via dei Martelli – Teil 1/3 (Y 64–80)
 
 - **Y-Bereich:** 64 bis 80
-- **Blöcke:** 1.543
+- **Blöcke:** 1.539
 - **Bauteile:** `w477257672`
 
 **Teileliste**
@@ -3375,7 +5166,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 778 |
-| Polierter Tuffstein | `polished_tuff` | 560 |
+| Polierter Tuffstein | `polished_tuff` | 556 |
 | Weißer Beton | `white_concrete` | 108 |
 | Fichtenholz-Bretter | `spruce_planks` | 36 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
@@ -3398,7 +5189,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.108 – Reihenhaus an Via dei Martelli – Teil 2/3 (Y 81–102)
+### Schritt 4.151 – Reihenhaus an Via dei Martelli – Teil 2/3 (Y 81–102)
 
 - **Y-Bereich:** 81 bis 102
 - **Blöcke:** 1.578
@@ -3429,7 +5220,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.109 – Reihenhaus an Via dei Martelli – Teil 3/3 (Y 103–115)
+### Schritt 4.152 – Reihenhaus an Via dei Martelli – Teil 3/3 (Y 103–115)
 
 - **Y-Bereich:** 103 bis 115
 - **Blöcke:** 1.523
@@ -3462,17 +5253,101 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.110 – Palazzo des Cinquecento an Piazza di San Lorenzo – Teil 1/3 (Y 65–74)
+### Schritt 4.153 – Reihenhaus an Via dei Martelli: Innenausbau – Teil 1/2 (Y 64–81)
+
+- **Y-Bereich:** 64 bis 81
+- **Blöcke:** 1.068
+- **Bauteile:** `w477257672_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 964 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 48 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 19 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 17 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 38 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.154 – Reihenhaus an Via dei Martelli: Innenausbau – Teil 2/2 (Y 82–100)
+
+- **Y-Bereich:** 82 bis 100
+- **Blöcke:** 1.062
+- **Bauteile:** `w477257672_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 943 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 51 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 20 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 42 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.155 – Palazzo des Cinquecento an Piazza di San Lorenzo – Teil 1/3 (Y 65–74)
 
 - **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.503
+- **Blöcke:** 1.499
 - **Bauteile:** `w477257673`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 675 |
+| Polierter Tuffstein | `polished_tuff` | 671 |
 | Rosa Keramik | `pink_terracotta` | 631 |
 | Weißer Beton | `white_concrete` | 108 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
@@ -3496,7 +5371,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.111 – Palazzo des Cinquecento an Piazza di San Lorenzo – Teil 2/3 (Y 75–90)
+### Schritt 4.156 – Palazzo des Cinquecento an Piazza di San Lorenzo – Teil 2/3 (Y 75–90)
 
 - **Y-Bereich:** 75 bis 90
 - **Blöcke:** 1.440
@@ -3527,7 +5402,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.112 – Palazzo des Cinquecento an Piazza di San Lorenzo – Teil 3/3 (Y 91–101)
+### Schritt 4.157 – Palazzo des Cinquecento an Piazza di San Lorenzo – Teil 3/3 (Y 91–101)
 
 - **Y-Bereich:** 91 bis 101
 - **Blöcke:** 1.467
@@ -3559,21 +5434,65 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.113 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 65–81)
+### Schritt 4.158 – Palazzo des Cinquecento an Piazza di San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 65 bis 86
+- **Blöcke:** 1.261
+- **Bauteile:** `w477257673_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.136 |
+| Glatter Stein | `smooth_stone` | 52 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.159 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 65–81)
 
 - **Y-Bereich:** 65 bis 81
-- **Blöcke:** 2.043
+- **Blöcke:** 2.024
 - **Bauteile:** `w477257675`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.488 |
-| Polierter Tuffstein | `polished_tuff` | 443 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Weißer Beton | `white_concrete` | 1.515 |
+| Polierter Tuffstein | `polished_tuff` | 440 |
 | Grüner Beton | `green_concrete` | 27 |
-| Glatter Stein | `smooth_stone` | 27 |
+| Graues Buntglas | `gray_stained_glass` | 21 |
+| Glatter Stein | `smooth_stone` | 19 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -3592,7 +5511,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.114 – Reihenhaus an Borgo San Lorenzo – Teil 2/2 (Y 82–100)
+### Schritt 4.160 – Reihenhaus an Borgo San Lorenzo – Teil 2/2 (Y 82–100)
 
 - **Y-Bereich:** 82 bis 100
 - **Blöcke:** 2.026
@@ -3625,10 +5544,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.115 – Nebengebäude an Piazza del Duomo
+### Schritt 4.161 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 1.142
+- **Bauteile:** `w477257675_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 987 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.162 – Nebengebäude an Piazza del Duomo
 
 - **Y-Bereich:** 64 bis 96
-- **Blöcke:** 1.280
+- **Blöcke:** 1.279
 - **Bauteile:** `w477257678`
 
 **Teileliste**
@@ -3637,7 +5598,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 880 |
 | Terrakotta | `terracotta` | 128 |
-| Polierter Tuffstein | `polished_tuff` | 112 |
+| Polierter Tuffstein | `polished_tuff` | 111 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Fichtenholz-Bretter | `spruce_planks` | 64 |
 | Glatter Stein | `smooth_stone` | 30 |
@@ -3659,21 +5620,59 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.116 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 65–82)
+### Schritt 4.163 – Nebengebäude an Piazza del Duomo: Innenausbau
+
+- **Y-Bereich:** 64 bis 87
+- **Blöcke:** 317
+- **Bauteile:** `w477257678_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 198 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.164 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 65–82)
 
 - **Y-Bereich:** 65 bis 82
-- **Blöcke:** 1.187
+- **Blöcke:** 1.169
 - **Bauteile:** `w477257679`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 591 |
-| Polierter Tuffstein | `polished_tuff` | 435 |
+| Hellgrauer Beton | `light_gray_concrete` | 619 |
+| Polierter Tuffstein | `polished_tuff` | 432 |
 | Weißer Beton | `white_concrete` | 81 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Glatter Stein | `smooth_stone` | 13 |
 | Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
@@ -3692,7 +5691,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.117 – Reihenhaus an Borgo San Lorenzo – Teil 2/2 (Y 83–100)
+### Schritt 4.165 – Reihenhaus an Borgo San Lorenzo – Teil 2/2 (Y 83–100)
 
 - **Y-Bereich:** 83 bis 100
 - **Blöcke:** 1.175
@@ -3726,10 +5725,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.118 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–77)
+### Schritt 4.166 – Reihenhaus an Borgo San Lorenzo: Innenausbau
+
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 1.283
+- **Bauteile:** `w477257679_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.131 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 70 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.167 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–77)
 
 - **Y-Bereich:** 64 bis 77
-- **Blöcke:** 2.053
+- **Blöcke:** 2.048
 - **Bauteile:** `w477257680`
 
 **Teileliste**
@@ -3737,7 +5778,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.109 |
-| Polierter Tuffstein | `polished_tuff` | 762 |
+| Polierter Tuffstein | `polished_tuff` | 757 |
 | Polierter Andesit | `polished_andesite` | 134 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
@@ -3757,7 +5798,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.119 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 78–95)
+### Schritt 4.168 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.960
@@ -3787,7 +5828,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.120 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 96–107)
+### Schritt 4.169 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 96–107)
 
 - **Y-Bereich:** 96 bis 107
 - **Blöcke:** 2.020
@@ -3819,10 +5860,94 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.121 – Reihenhaus an Piazza San Giovanni – Teil 1/4 (Y 63–71)
+### Schritt 4.170 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 1/2 (Y 64–80)
+
+- **Y-Bereich:** 64 bis 80
+- **Blöcke:** 1.389
+- **Bauteile:** `w477257680_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.286 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
+| Seelaterne | `sea_lantern` | 15 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 36 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.171 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 2/2 (Y 81–95)
+
+- **Y-Bereich:** 81 bis 95
+- **Blöcke:** 1.346
+- **Bauteile:** `w477257680_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.241 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 43 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 13 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.172 – Reihenhaus an Piazza San Giovanni – Teil 1/4 (Y 63–71)
 
 - **Y-Bereich:** 63 bis 71
-- **Blöcke:** 1.776
+- **Blöcke:** 1.772
 - **Bauteile:** `w477257681`
 
 **Teileliste**
@@ -3830,7 +5955,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 883 |
-| Polierter Tuffstein | `polished_tuff` | 756 |
+| Polierter Tuffstein | `polished_tuff` | 752 |
 | Weißer Beton | `white_concrete` | 66 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 | Glatter Stein | `smooth_stone` | 20 |
@@ -3852,7 +5977,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.122 – Reihenhaus an Piazza San Giovanni – Teil 2/4 (Y 72–84)
+### Schritt 4.173 – Reihenhaus an Piazza San Giovanni – Teil 2/4 (Y 72–84)
 
 - **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.696
@@ -3883,7 +6008,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.123 – Reihenhaus an Piazza San Giovanni – Teil 3/4 (Y 85–96)
+### Schritt 4.174 – Reihenhaus an Piazza San Giovanni – Teil 3/4 (Y 85–96)
 
 - **Y-Bereich:** 85 bis 96
 - **Blöcke:** 1.672
@@ -3914,7 +6039,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.124 – Reihenhaus an Piazza San Giovanni – Teil 4/4 (Y 97–108)
+### Schritt 4.175 – Reihenhaus an Piazza San Giovanni – Teil 4/4 (Y 97–108)
 
 - **Y-Bereich:** 97 bis 108
 - **Blöcke:** 1.711
@@ -3947,17 +6072,101 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.125 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–84)
+### Schritt 4.176 – Reihenhaus an Piazza San Giovanni: Innenausbau – Teil 1/2 (Y 63–79)
+
+- **Y-Bereich:** 63 bis 79
+- **Blöcke:** 1.316
+- **Bauteile:** `w477257681_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.216 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 17 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 36 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.177 – Reihenhaus an Piazza San Giovanni: Innenausbau – Teil 2/2 (Y 80–94)
+
+- **Y-Bereich:** 80 bis 94
+- **Blöcke:** 1.319
+- **Bauteile:** `w477257681_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.216 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 43 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 14 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.178 – Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 64–84)
 
 - **Y-Bereich:** 64 bis 84
-- **Blöcke:** 1.595
+- **Blöcke:** 1.591
 - **Bauteile:** `w477257683`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 777 |
+| Polierter Tuffstein | `polished_tuff` | 773 |
 | Hellgrauer Beton | `light_gray_concrete` | 654 |
 | Glatter Stein | `smooth_stone` | 103 |
 | Graues Buntglas | `gray_stained_glass` | 37 |
@@ -3979,7 +6188,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.126 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 85–105)
+### Schritt 4.179 – Reihenhaus an Borgo San Lorenzo – Teil 2/3 (Y 85–105)
 
 - **Y-Bereich:** 85 bis 105
 - **Blöcke:** 1.653
@@ -4010,7 +6219,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.127 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 106–114)
+### Schritt 4.180 – Reihenhaus an Borgo San Lorenzo – Teil 3/3 (Y 106–114)
 
 - **Y-Bereich:** 106 bis 114
 - **Blöcke:** 1.582
@@ -4041,20 +6250,100 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.128 – Reihenhaus an Piazza San Giovanni – Teil 1/3 (Y 64–79)
+### Schritt 4.181 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 1/2 (Y 64–81)
+
+- **Y-Bereich:** 64 bis 81
+- **Blöcke:** 1.544
+- **Bauteile:** `w477257683_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.440 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 48 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 20 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 18 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 38 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.182 – Reihenhaus an Borgo San Lorenzo: Innenausbau – Teil 2/2 (Y 82–100)
+
+- **Y-Bereich:** 82 bis 100
+- **Blöcke:** 1.520
+- **Bauteile:** `w477257683_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.404 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 50 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 18 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 40 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.183 – Reihenhaus an Piazza San Giovanni – Teil 1/3 (Y 64–79)
 
 - **Y-Bereich:** 64 bis 79
-- **Blöcke:** 1.767
+- **Blöcke:** 1.735
 - **Bauteile:** `w477257684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.085 |
-| Polierter Tuffstein | `polished_tuff` | 522 |
-| Polierter Andesit | `polished_andesite` | 105 |
-| Graues Buntglas | `gray_stained_glass` | 55 |
+| Orange Keramik | `orange_terracotta` | 1.080 |
+| Polierter Tuffstein | `polished_tuff` | 520 |
+| Polierter Andesit | `polished_andesite` | 86 |
+| Graues Buntglas | `gray_stained_glass` | 49 |
 
 **Beschreibung**
 
@@ -4072,7 +6361,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.129 – Reihenhaus an Piazza San Giovanni – Teil 2/3 (Y 80–100)
+### Schritt 4.184 – Reihenhaus an Piazza San Giovanni – Teil 2/3 (Y 80–100)
 
 - **Y-Bereich:** 80 bis 100
 - **Blöcke:** 1.777
@@ -4102,7 +6391,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.130 – Reihenhaus an Piazza San Giovanni – Teil 3/3 (Y 101–114)
+### Schritt 4.185 – Reihenhaus an Piazza San Giovanni – Teil 3/3 (Y 101–114)
 
 - **Y-Bereich:** 101 bis 114
 - **Blöcke:** 1.758
@@ -4135,10 +6424,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.131 – Reihenhaus an Piazza San Giovanni – Teil 1/2 (Y 63–81)
+### Schritt 4.186 – Reihenhaus an Piazza San Giovanni: Innenausbau
+
+- **Y-Bereich:** 64 bis 100
+- **Blöcke:** 1.913
+- **Bauteile:** `w477257684_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.693 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 102 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 39 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 33 |
+| Seelaterne | `sea_lantern` | 14 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 80 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.187 – Reihenhaus an Piazza San Giovanni – Teil 1/2 (Y 63–81)
 
 - **Y-Bereich:** 63 bis 81
-- **Blöcke:** 1.060
+- **Blöcke:** 1.058
 - **Bauteile:** `w477257685`
 
 **Teileliste**
@@ -4146,7 +6477,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 540 |
-| Polierter Tuffstein | `polished_tuff` | 385 |
+| Polierter Tuffstein | `polished_tuff` | 383 |
 | Weißer Beton | `white_concrete` | 71 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 | Glatter Stein | `smooth_stone` | 26 |
@@ -4168,7 +6499,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.132 – Reihenhaus an Piazza San Giovanni – Teil 2/2 (Y 82–98)
+### Schritt 4.188 – Reihenhaus an Piazza San Giovanni – Teil 2/2 (Y 82–98)
 
 - **Y-Bereich:** 82 bis 98
 - **Blöcke:** 1.053
@@ -4200,3 +6531,45 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 **Fakt**
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 4.189 – Reihenhaus an Piazza San Giovanni: Innenausbau
+
+- **Y-Bereich:** 63 bis 87
+- **Blöcke:** 1.153
+- **Bauteile:** `w477257685_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.005 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

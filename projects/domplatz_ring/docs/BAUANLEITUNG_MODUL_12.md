@@ -8,53 +8,75 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 32.695 |
-| Bauschritte | 19 |
+| Blöcke | 41.107 |
+| Bauschritte | 25 |
 | Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | -101 bis -26 (76 Blöcke) |
 | Z-Ausdehnung | 117 bis 180 (64 Blöcke) |
-| Kleinster Schritt | 1.432 Blöcke (Schritt 12.6) |
-| Mittlerer Schritt | 1.721 Blöcke |
-| Größter Schritt | 2.024 Blöcke (Schritt 12.16) |
+| Kleinster Schritt | 1.367 Blöcke (Schritt 12.22) |
+| Mittlerer Schritt | 1.644 Blöcke |
+| Größter Schritt | 2.024 Blöcke (Schritt 12.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 10.082 | 30,8 % |
-| Endsteinziegel | `end_stone_bricks` | 6.329 | 19,4 % |
-| Terrakotta | `terracotta` | 5.279 | 16,1 % |
-| Polierter Tuffstein | `polished_tuff` | 3.796 | 11,6 % |
-| Tuffstein | `tuff` | 2.124 | 6,5 % |
-| Polierter Andesit | `polished_andesite` | 1.843 | 5,6 % |
-| Graues Buntglas | `gray_stained_glass` | 1.324 | 4,0 % |
-| Glatter Stein | `smooth_stone` | 675 | 2,1 % |
-| Grüner Beton | `green_concrete` | 440 | 1,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 356 | 1,1 % |
-| Ziegelsteine | `bricks` | 317 | 1,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 130 | 0,4 % |
+| Terrakotta | `terracotta` | 13.247 | 32,2 % |
+| Weißer Beton | `white_concrete` | 10.082 | 24,5 % |
+| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,4 % |
+| Polierter Tuffstein | `polished_tuff` | 3.738 | 9,1 % |
+| Tuffstein | `tuff` | 2.109 | 5,1 % |
+| Polierter Andesit | `polished_andesite` | 1.843 | 4,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.273 | 3,1 % |
+| Glatter Stein | `smooth_stone` | 721 | 1,8 % |
+| Grüner Beton | `green_concrete` | 440 | 1,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 356 | 0,9 % |
+| Ziegelsteine | `bricks` | 317 | 0,8 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 163 | 0,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 130 | 0,3 % |
+| Seelaterne | `sea_lantern` | 73 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 58 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 52 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 38 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 27 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 27 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 130 |
+| Steintreppe | `stone_stairs` | 42 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 38 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1594404` | Reihenhaus an Via della Canonica | 15.413 | 12.1–12.9 |
-| 2 | `w114220146` | Palazzo dei Canonici | 13.601 | 12.10–12.17 |
-| 3 | `w307544507` | Torre dei Pierozzi | 3.681 | 12.18–12.19 |
+| 1 | `r1594404` | Reihenhaus an Via della Canonica | 15.404 | 12.1–12.9 |
+| 2 | `r1594404_innen` | Reihenhaus an Via della Canonica: Innenausbau | 4.328 | 12.10–12.12 |
+| 3 | `w114220146` | Palazzo dei Canonici | 13.540 | 12.13–12.20 |
+| 4 | `w114220146_innen` | Palazzo dei Canonici: Innenausbau | 2.743 | 12.21–12.22 |
+| 5 | `w307544507` | Torre dei Pierozzi | 3.679 | 12.23–12.24 |
+| 6 | `w307544507_innen` | Torre dei Pierozzi: Innenausbau | 1.413 | 12.25 |
 
 ## Bauschritte
 
 ### Schritt 12.1 – Reihenhaus an Via della Canonica – Teil 1/9 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.890
+- **Blöcke:** 1.881
 - **Bauteile:** `r1594404`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.774 |
+| Polierter Tuffstein | `polished_tuff` | 1.765 |
 | Tuffstein | `tuff` | 116 |
 
 **Beschreibung**
@@ -318,18 +340,147 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.10 – Palazzo dei Canonici – Teil 1/8 (Y 65–66)
+### Schritt 12.10 – Reihenhaus an Via della Canonica: Innenausbau – Teil 1/3 (Y 67–76)
+
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.447
+- **Bauteile:** `r1594404_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.384 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Seelaterne | `sea_lantern` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 12.11 – Reihenhaus an Via della Canonica: Innenausbau – Teil 2/3 (Y 77–83)
+
+- **Y-Bereich:** 77 bis 83
+- **Blöcke:** 1.436
+- **Bauteile:** `r1594404_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.384 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Seelaterne | `sea_lantern` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 12.12 – Reihenhaus an Via della Canonica: Innenausbau – Teil 3/3 (Y 84–91)
+
+- **Y-Bereich:** 84 bis 91
+- **Blöcke:** 1.445
+- **Bauteile:** `r1594404_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.384 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Seelaterne | `sea_lantern` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 12.13 – Palazzo dei Canonici – Teil 1/8 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.690
+- **Blöcke:** 1.666
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.634 |
-| Tuffstein | `tuff` | 56 |
+| Polierter Tuffstein | `polished_tuff` | 1.587 |
+| Tuffstein | `tuff` | 41 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 38 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 38 |
 
 **Beschreibung**
 
@@ -347,18 +498,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.11 – Palazzo dei Canonici – Teil 2/8 (Y 67–72)
+### Schritt 12.14 – Palazzo dei Canonici – Teil 2/8 (Y 67–72)
 
 - **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.626
+- **Blöcke:** 1.588
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.017 |
-| Graues Buntglas | `gray_stained_glass` | 328 |
+| Endsteinziegel | `end_stone_bricks` | 1.029 |
+| Graues Buntglas | `gray_stained_glass` | 278 |
 | Weißer Beton | `white_concrete` | 117 |
 | Glatter Stein | `smooth_stone` | 108 |
 | Polierter Andesit | `polished_andesite` | 48 |
@@ -380,21 +531,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.12 – Palazzo dei Canonici – Teil 3/8 (Y 73–78)
+### Schritt 12.15 – Palazzo dei Canonici – Teil 3/8 (Y 73–78)
 
 - **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.905
+- **Blöcke:** 1.906
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.429 |
-| Glatter Stein | `smooth_stone` | 405 |
+| Endsteinziegel | `end_stone_bricks` | 1.439 |
+| Glatter Stein | `smooth_stone` | 397 |
 | Polierter Andesit | `polished_andesite` | 32 |
 | Weißer Beton | `white_concrete` | 30 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
 
@@ -412,7 +563,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.13 – Palazzo dei Canonici – Teil 4/8 (Y 79–83)
+### Schritt 12.16 – Palazzo dei Canonici – Teil 4/8 (Y 79–83)
 
 - **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.478
@@ -444,7 +595,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.14 – Palazzo dei Canonici – Teil 5/8 (Y 84–89)
+### Schritt 12.17 – Palazzo dei Canonici – Teil 5/8 (Y 84–89)
 
 - **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.875
@@ -477,7 +628,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.15 – Palazzo dei Canonici – Teil 6/8 (Y 90–94)
+### Schritt 12.18 – Palazzo dei Canonici – Teil 6/8 (Y 90–94)
 
 - **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.478
@@ -509,7 +660,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.16 – Palazzo dei Canonici – Teil 7/8 (Y 95–97)
+### Schritt 12.19 – Palazzo dei Canonici – Teil 7/8 (Y 95–97)
 
 - **Y-Bereich:** 95 bis 97
 - **Blöcke:** 2.024
@@ -541,7 +692,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.17 – Palazzo dei Canonici – Teil 8/8 (Y 98–104)
+### Schritt 12.20 – Palazzo dei Canonici – Teil 8/8 (Y 98–104)
 
 - **Y-Bereich:** 98 bis 104
 - **Blöcke:** 1.525
@@ -570,21 +721,107 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.18 – Torre dei Pierozzi – Teil 1/2 (Y 67–88)
+### Schritt 12.21 – Palazzo dei Canonici: Innenausbau – Teil 1/2 (Y 66–78)
 
-- **Y-Bereich:** 67 bis 88
-- **Blöcke:** 1.804
+- **Y-Bereich:** 66 bis 78
+- **Blöcke:** 1.376
+- **Bauteile:** `w114220146_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.298 |
+| Glatter Stein | `smooth_stone` | 30 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 24 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 12.22 – Palazzo dei Canonici: Innenausbau – Teil 2/2 (Y 79–88)
+
+- **Y-Bereich:** 79 bis 88
+- **Blöcke:** 1.367
+- **Bauteile:** `w114220146_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.298 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 12.23 – Torre dei Pierozzi – Teil 1/2 (Y 67–89)
+
+- **Y-Bereich:** 67 bis 89
+- **Blöcke:** 1.875
 - **Bauteile:** `w307544507`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 917 |
-| Polierter Tuffstein | `polished_tuff` | 388 |
-| Polierter Andesit | `polished_andesite` | 299 |
+| Tuffstein | `tuff` | 980 |
+| Polierter Tuffstein | `polished_tuff` | 386 |
+| Polierter Andesit | `polished_andesite` | 307 |
 | Graues Buntglas | `gray_stained_glass` | 119 |
-| Tuffsteinziegel | `tuff_bricks` | 81 |
+| Tuffsteinziegel | `tuff_bricks` | 83 |
 
 **Beschreibung**
 
@@ -602,21 +839,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.19 – Torre dei Pierozzi – Teil 2/2 (Y 89–109)
+### Schritt 12.24 – Torre dei Pierozzi – Teil 2/2 (Y 90–109)
 
-- **Y-Bereich:** 89 bis 109
-- **Blöcke:** 1.877
+- **Y-Bereich:** 90 bis 109
+- **Blöcke:** 1.804
 - **Bauteile:** `w307544507`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.035 |
+| Tuffstein | `tuff` | 972 |
 | Terrakotta | `terracotta` | 478 |
-| Polierter Andesit | `polished_andesite` | 196 |
+| Polierter Andesit | `polished_andesite` | 188 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
-| Tuffsteinziegel | `tuff_bricks` | 49 |
+| Tuffsteinziegel | `tuff_bricks` | 47 |
 | Ziegelsteine | `bricks` | 27 |
 
 **Beschreibung**
@@ -634,3 +871,45 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 **Fakt**
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 12.25 – Torre dei Pierozzi: Innenausbau
+
+- **Y-Bereich:** 67 bis 98
+- **Blöcke:** 1.413
+- **Bauteile:** `w307544507_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.220 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 89 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 32 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 28 |
+| Rote Keramik | `red_terracotta` | 12 |
+| Weiße Keramik | `white_terracotta` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 70 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

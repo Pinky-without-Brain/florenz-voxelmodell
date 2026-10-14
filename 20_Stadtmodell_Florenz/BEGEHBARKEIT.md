@@ -51,7 +51,7 @@ Jeder ausgestaltete Raum ist ein eigenes Bauteil mit Content-Text: was er zeigt,
 ## 4. Bestehende Projekte
 - **Dom, Domplatz-Ring, Loggia, Orsanmichele, Palazzo Vecchio, Uffizien:** nachrüsten nach §1 und §2.
 - **Dom:** Die Regel „bit-identisch“ ist damit aufgehoben. Der Nutzer will das neue Ziel.
-- **Häuser (Quartiergenerator):** Haustür, Treppenhaus, Böden je Geschoss, Licht. Einfache Ausstattung: Tische und Betten aus Holz, ein Laden im EG, wenn die Akte `eg.art = laden` hat.
+- **Häuser (Quartiergenerator):** Haustür, Treppenhaus, Böden je Geschoss, Licht. Einfache Ausstattung: Tische und Betten aus Holz, ein Laden im EG, wenn die Akte `eg.art = laden` hat. **Umgesetzt in B4, siehe §6.**
 - Die Bauanleitung bleibt gültig: Innenausbau sind eigene Bauteile und Bauschritte nach dem Rohbau.
 
 ## 5. Werkzeuge (B0, seit 13.10.2026)
@@ -62,3 +62,15 @@ Jeder ausgestaltete Raum ist ein eigenes Bauteil mit Content-Text: was er zeigt,
 - **Schalter:** `"begehbarkeit": "pflicht"` in `project.json` macht R13/R14 zu Fehlern; ohne das Feld sind es Warnungen mit Kennzahlen. Der Bericht steht in `build/report_<id>.json` unter `begehbarkeit`.
 - **Bestand:** `20_Stadtmodell_Florenz/BEGEHBARKEIT_BESTAND.md`; Werkzeug `node tools/diag/begehbarkeit_bestand.js [projekt-id ...] [--csv ordner]`.
 - **Webapp:** `ChunkMesher` zeichnet Treppen als echte Treppenform (11 Flächen je Block, Rauminhalt 0,75), `voxel-renderer.js` baut für jeden Treppentyp eine eigene Instanz-Geometrie. **Minecraft (Bedrock):** `weirdo_direction` o/w/s/n = 0/1/2/3, `upside_down_bit` für `_oben`; die Steintreppe heißt `normal_stone_stairs`, `stone_stairs` ist die Bruchsteintreppe.
+
+## 6. Quartierhäuser (B4, seit 14.10.2026)
+Der Hausgenerator baut jedes Haus begehbar; `domplatz_ring` steht auf `"begehbarkeit": "pflicht"`.
+- **Haustür** (`tools/city/fassade.js`): Hat die Hauptfassade kein offenes Portal, kommt eine Tür von 2 × 4 (schräge Wände 4 breit) dazu, bei Ladenbögen als Ladentür im mittleren Bogen. Über der Tür bleibt die Wand im Erdgeschoss geschlossen. Häuser ohne Hauptfassade bekommen die Tür an der längsten Straßenkante ab 3 Blöcken.
+- **Türdurchbruch** (`haus.js`, `tuerDurchbruch`): Trifft die Tür in schrägen Wänden die innere Wandlage nur über Eck, werden die Wandzellen auf dem kürzesten Weg zum Innenraum in Türhöhe geöffnet.
+- **Eingangsstufen** (`haus.js`, `eingangsStufen`): Liegt die Straße d = 2..6 Blöcke unter dem Hausboden, führen d Treppenblöcke (`polished_tuff_stairs`) in der Türlaibung nach innen hinauf. Alles bleibt innerhalb der Parzelle (keine Konflikte mit dem Stadtgrund).
+- **Innenausbau** (`tools/city/innen.js`, eigenes Bauteil `<haus>_innen` nach dem Rohbau): Ebenen = Geschosse, niedrige Geschosse (h < 5, Mezzanin) gehören zur Ebene darunter. Je Ebene ein Boden (Cotto, `terracotta`) in der obersten Reihe des Geschosses darunter. Ein Treppenhaus je Innenbereich (Komponente ab 20 Zellen): Podesttreppen (Breite 2, Podest 2 tief) übereinander, Teilung n1/n2 je Lauf per Suche so, dass die Kopffreiheit (3) frei bleibt; Auflager unter jeder Stufe (R3). Holztreppen in Bürgerhäusern, Steintreppen in Palazzi und Kirchen. Beim Flachdach führt die Treppe auf die Terrasse.
+- **Licht:** Seelaternen im Boden jeder Ebene, höchstens 12 Blöcke Abstand (`lichtRaster`). **Ausstattung:** Tisch mit zwei Stühlen (Treppenblöcke), Betten (weiße/rote Keramik) in den Obergeschossen, Ladentheke bei `bottega_arcata`.
+- **Bewusst unzugänglich** (deklariert): Mauerkronen von Teilwänden zum Nachbarhaus; Hinterhäuser ohne Straßenfront (2 Häuser im Domplatz-Ring).
+- **Grenze:** 6 sehr schmale oder schräge Kleinhäuser (Innenbreite < 4) haben keinen Platz für ein Treppenhaus der Breite 2; sie bleiben ein hoher Raum ohne Obergeschossböden (R13 erfüllt).
+- **Messung Domplatz-Ring:** 2.370.843 Blöcke (vorher 1.803.412), 98,7 % der 766.284 Raumzellen erreichbar, 0 nicht erreichbare Komponenten. Tests: `tools/test/city_innen.test.js`.
+

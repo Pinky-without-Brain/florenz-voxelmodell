@@ -37,10 +37,21 @@ function einheiten(ctx) {
   const typ = ctx.project && ctx.project.type;
   const out = [];
   if (typ === 'quartier') {
-    for (const m of world.modules) for (const p of m.parts) {
-      if (!p.keys.length) continue;
-      out.push({ id: p.id, modul: m.module, label: `Modul ${m.module}, Haus ${p.id}`, keys: p.keys, alle: false,
-        grundriss: (world.grundrisse && world.grundrisse.get(`${m.module}|${p.id}`)) || null });
+    // Je Haus eine Einheit; der Innenausbau "<id>_innen" gehört zum Haus <id>
+    for (const m of world.modules) {
+      const jeHaus = new Map();
+      for (const p of m.parts) {
+        if (!p.keys.length) continue;
+        const basis = p.id.endsWith('_innen') ? p.id.slice(0, -6) : p.id;
+        let u = jeHaus.get(basis);
+        if (!u) {
+          u = { id: basis, modul: m.module, label: `Modul ${m.module}, Haus ${basis}`, keys: [], alle: false,
+            grundriss: (world.grundrisse && world.grundrisse.get(`${m.module}|${basis}`)) || null };
+          jeHaus.set(basis, u);
+          out.push(u);
+        }
+        for (const k of p.keys) u.keys.push(k);
+      }
     }
   } else if (typ === 'wahrzeichen' || !typ) {
     const keys = [];

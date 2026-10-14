@@ -8,48 +8,64 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.297 |
-| Bauschritte | 9 |
+| Blöcke | 20.458 |
+| Bauschritte | 11 |
 | Y-Bereich | 66 bis 100 |
 | X-Ausdehnung | 71 bis 143 (73 Blöcke) |
 | Z-Ausdehnung | 117 bis 168 (52 Blöcke) |
-| Kleinster Schritt | 1.236 Blöcke (Schritt 17.1) |
-| Mittlerer Schritt | 1.811 Blöcke |
-| Größter Schritt | 2.082 Blöcke (Schritt 17.3) |
+| Kleinster Schritt | 1.231 Blöcke (Schritt 17.1) |
+| Mittlerer Schritt | 1.860 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 17.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 6.504 | 39,9 % |
-| Terrakotta | `terracotta` | 3.463 | 21,2 % |
-| Glatter Stein | `smooth_stone` | 2.501 | 15,3 % |
-| Polierter Tuffstein | `polished_tuff` | 2.479 | 15,2 % |
-| Graues Buntglas | `gray_stained_glass` | 618 | 3,8 % |
-| Grüner Beton | `green_concrete` | 297 | 1,8 % |
-| Polierter Andesit | `polished_andesite` | 252 | 1,5 % |
-| Ziegelsteine | `bricks` | 170 | 1,0 % |
+| Terrakotta | `terracotta` | 7.505 | 36,7 % |
+| Orange Keramik | `orange_terracotta` | 6.504 | 31,8 % |
+| Glatter Stein | `smooth_stone` | 2.545 | 12,4 % |
+| Polierter Tuffstein | `polished_tuff` | 2.468 | 12,1 % |
+| Graues Buntglas | `gray_stained_glass` | 618 | 3,0 % |
+| Grüner Beton | `green_concrete` | 297 | 1,5 % |
+| Polierter Andesit | `polished_andesite` | 252 | 1,2 % |
+| Ziegelsteine | `bricks` | 170 | 0,8 % |
+| Seelaterne | `sea_lantern` | 33 | 0,2 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 32 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114369700` | Palazzo des Cinquecento an Piazza del Duomo | 16.297 | 17.1–17.9 |
+| 1 | `w114369700` | Palazzo des Cinquecento an Piazza del Duomo | 16.286 | 17.1–17.9 |
+| 2 | `w114369700_innen` | Palazzo des Cinquecento an Piazza del Duomo: Innenausbau | 4.172 | 17.10–17.11 |
 
 ## Bauschritte
 
 ### Schritt 17.1 – Palazzo des Cinquecento an Piazza del Duomo – Teil 1/9 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.236
+- **Blöcke:** 1.231
 - **Bauteile:** `w114369700`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.236 |
+| Polierter Tuffstein | `polished_tuff` | 1.231 |
 
 **Beschreibung**
 
@@ -67,20 +83,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.2 – Palazzo des Cinquecento an Piazza del Duomo – Teil 2/9 (Y 66–67)
+### Schritt 17.2 – Palazzo des Cinquecento an Piazza del Duomo – Teil 2/9 (Y 66–68)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.672
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 2.095
 - **Bauteile:** `w114369700`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.243 |
-| Orange Keramik | `orange_terracotta` | 414 |
-| Polierter Andesit | `polished_andesite` | 11 |
-| Glatter Stein | `smooth_stone` | 2 |
+| Polierter Tuffstein | `polished_tuff` | 1.237 |
+| Orange Keramik | `orange_terracotta` | 834 |
+| Polierter Andesit | `polished_andesite` | 18 |
+| Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
@@ -99,22 +115,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.3 – Palazzo des Cinquecento an Piazza del Duomo – Teil 3/9 (Y 68–72)
+### Schritt 17.3 – Palazzo des Cinquecento an Piazza del Duomo – Teil 3/9 (Y 69–73)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 2.082
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 2.030
 - **Bauteile:** `w114369700`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.401 |
-| Glatter Stein | `smooth_stone` | 334 |
-| Graues Buntglas | `gray_stained_glass` | 164 |
-| Polierter Andesit | `polished_andesite` | 98 |
-| Grüner Beton | `green_concrete` | 81 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Orange Keramik | `orange_terracotta` | 1.204 |
+| Glatter Stein | `smooth_stone` | 391 |
+| Graues Buntglas | `gray_stained_glass` | 219 |
+| Grüner Beton | `green_concrete` | 108 |
+| Polierter Andesit | `polished_andesite` | 102 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
@@ -132,22 +148,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.4 – Palazzo des Cinquecento an Piazza del Duomo – Teil 4/9 (Y 73–76)
+### Schritt 17.4 – Palazzo des Cinquecento an Piazza del Duomo – Teil 4/9 (Y 74–77)
 
-- **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.694
+- **Y-Bereich:** 74 bis 77
+- **Blöcke:** 1.803
 - **Bauteile:** `w114369700`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.166 |
-| Glatter Stein | `smooth_stone` | 405 |
-| Graues Buntglas | `gray_stained_glass` | 55 |
-| Polierter Andesit | `polished_andesite` | 34 |
-| Grüner Beton | `green_concrete` | 27 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Orange Keramik | `orange_terracotta` | 1.255 |
+| Glatter Stein | `smooth_stone` | 508 |
+| Polierter Andesit | `polished_andesite` | 35 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -165,42 +179,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.5 – Palazzo des Cinquecento an Piazza del Duomo – Teil 5/9 (Y 77–81)
+### Schritt 17.5 – Palazzo des Cinquecento an Piazza del Duomo – Teil 5/9 (Y 78–82)
 
-- **Y-Bereich:** 77 bis 81
-- **Blöcke:** 2.074
-- **Bauteile:** `w114369700`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.325 |
-| Glatter Stein | `smooth_stone` | 451 |
-| Graues Buntglas | `gray_stained_glass` | 171 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 46 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 17.6 – Palazzo des Cinquecento an Piazza del Duomo – Teil 6/9 (Y 82–86)
-
-- **Y-Bereich:** 82 bis 86
-- **Blöcke:** 2.074
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 2.027
 - **Bauteile:** `w114369700`
 
 **Teileliste**
@@ -208,7 +190,39 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.223 |
-| Glatter Stein | `smooth_stone` | 565 |
+| Glatter Stein | `smooth_stone` | 518 |
+| Graues Buntglas | `gray_stained_glass` | 171 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 34 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 17.6 – Palazzo des Cinquecento an Piazza del Duomo – Teil 6/9 (Y 83–86)
+
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 1.635
+- **Bauteile:** `w114369700`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.013 |
+| Glatter Stein | `smooth_stone` | 336 |
 | Graues Buntglas | `gray_stained_glass` | 171 |
 | Grüner Beton | `green_concrete` | 81 |
 | Polierter Andesit | `polished_andesite` | 34 |
@@ -317,3 +331,89 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 **Fakt**
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 17.10 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 1/2 (Y 66–76)
+
+- **Y-Bereich:** 66 bis 76
+- **Blöcke:** 2.092
+- **Bauteile:** `w114369700_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.021 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 22 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 17.11 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 2/2 (Y 77–83)
+
+- **Y-Bereich:** 77 bis 83
+- **Blöcke:** 2.080
+- **Bauteile:** `w114369700_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 2.021 |
+| Glatter Stein | `smooth_stone` | 18 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 12 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
