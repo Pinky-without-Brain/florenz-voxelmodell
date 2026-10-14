@@ -1,0 +1,49 @@
+{
+  "id": "w305683536",
+  "typ": "chiesa_minore",
+  "epoche": "Mittelalter bis Neuzeit",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 14
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 3,
+    "material": "putz",
+    "putzfarbe": "sand",
+    "erdgeschoss": {
+      "art": "portal_giebel",
+      "portalBreiteBl": 7,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "keiner",
+      "tiefeBl": 0
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "sattel",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Chiesa di San Giovannino degli Scolopi"
+}

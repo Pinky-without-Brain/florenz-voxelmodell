@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 125.513 |
+| Blöcke | 125.139 |
 | Bauschritte | 73 |
 | Y-Bereich | 48 bis 67 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
 | Z-Ausdehnung | 1072 bis 1391 (320 Blöcke) |
 | Kleinster Schritt | 399 Blöcke (Schritt 129.62) |
-| Mittlerer Schritt | 1.719 Blöcke |
+| Mittlerer Schritt | 1.714 Blöcke |
 | Größter Schritt | 2.082 Blöcke (Schritt 129.52) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 59.278 | 47,2 % |
-| Kies | `gravel` | 29.639 | 23,6 % |
-| Polierter Tuffstein | `polished_tuff` | 23.022 | 18,3 % |
-| Stein | `stone` | 7.154 | 5,7 % |
+| Wasser | `water` | 59.278 | 47,4 % |
+| Kies | `gravel` | 29.639 | 23,7 % |
+| Polierter Tuffstein | `polished_tuff` | 23.022 | 18,4 % |
+| Stein | `stone` | 6.780 | 5,4 % |
 | Grasblock | `grass_block` | 2.523 | 2,0 % |
 | Glatter Stein | `smooth_stone` | 1.776 | 1,4 % |
 | Polierter Andesit | `polished_andesite` | 1.731 | 1,4 % |
@@ -49,7 +49,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 8.677 | 129.1–129.6 |
+| 1 | `boeschung` | Böschung und Mantel | 8.303 | 129.1–129.6 |
 | 2 | `arno_bett` | Flussbett | 29.639 | 129.7–129.21 |
 | 3 | `arno_wasser` | Arno | 59.278 | 129.22–129.51 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 12.144 | 129.52–129.60 |
@@ -151,14 +151,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 129.4 – Böschung und Mantel – Teil 4/6 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.839
+- **Blöcke:** 1.262
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.839 |
+| Stein | `stone` | 1.262 |
 
 **Beschreibung**
 
@@ -179,14 +179,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 129.5 – Böschung und Mantel – Teil 5/6 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.226
+- **Blöcke:** 1.429
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.226 |
+| Stein | `stone` | 1.429 |
 
 **Beschreibung**
 

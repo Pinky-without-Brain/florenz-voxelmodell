@@ -1,0 +1,56 @@
+{
+  "id": "r1592494",
+  "typ": "palazzo_ottocento",
+  "epoche": "19. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 9
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 10,
+    "material": "putz",
+    "putzfarbe": "ocker",
+    "erdgeschoss": {
+      "art": "portal_mittig",
+      "portalBreiteBl": 7,
+      "fenster": "rechteck_vergittert"
+    },
+    "fenster": {
+      "typ": "tabernakel",
+      "rahmen": "putz",
+      "laeden": "gruen"
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 2
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+}

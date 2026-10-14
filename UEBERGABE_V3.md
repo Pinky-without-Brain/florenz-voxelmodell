@@ -22,7 +22,9 @@ node tools/build.js --all --cross --no-emit   # alle Projekte + projektübergrei
 node --test "tools/test/**/*.test.js"         # alle Tests (~55 s)
 node tools/emit/webindex.js                   # Projektindex der Webapp (webapp/data/projekte.js) nach jedem Projekt-Bau
 node tools/diag/begehbarkeit_bestand.js <id>  # Begehbarkeits-Bestandsaufnahme eines Projekts
-node tools/city/besitz.js                     # Besitzraster des Stadtgrunds neu (nach Änderungen an der Unterkante eines Projekts!)
+node tools/city/besitz.js [<id> …]            # Besitzraster des Stadtgrunds neu (alle oder nur diese Projekte; nach Änderungen an der Unterkante!)
+node tools/city/quartier_neu.js <id> "<Titel>" <kacheln>  # neues Quartier aus allen freien Gebäuden der Kacheln
+node tools/city/aktiv.js <kacheln>            # Stadtgrund-Kacheln aktivieren (projects/stadtgrund/project.json)
 node tools/build.js --project stadtgrund --modules 113   # genau eine Kachel bauen (unabhängige Module)
 ```
 Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ein Lauf **mit** Emit schreibt die Doku neu; Ergebnis dann OK. Ohne `minecraft.local.json` wird keine Minecraft-Welt geschrieben (`--ohne-minecraft` erzwingt das).
@@ -47,9 +49,16 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `quartier_brunelleschi` | Quartier (79 Häuser, Kachel 55) | 909.321 | **pflicht**, 99,2 % | E3 (14.10.) |
 | `quartier_tornabuoni` | Quartier (70 Häuser, Kacheln 97, 111) | 1.028.941 | **pflicht**, 98,4 % | E3 (14.10.) |
 | `quartier_santo_spirito` | Quartier (104 Häuser, Kacheln 126, 127) | 921.246 | **pflicht**, 98,2 % | E3 (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.709.859 (28 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `quartier_san_lorenzo` | Quartier (245 Häuser, Kacheln 38, 52–54, 67, 68) | 2.585.689 | **pflicht**, 99 % | E4 (14.10.) |
+| `quartier_pergola` | Quartier (243 Häuser, Kacheln 56, 57, 70–72, 86) | 3.445.911 | **pflicht**, 99,1 % | E4 (14.10.) |
+| `quartier_sant_ambrogio` | Quartier (262 Häuser, Kacheln 73, 87–89) | 2.494.509 | **pflicht**, 98,3 % | E4 (14.10.) |
+| `quartier_strozzi` | Quartier (257 Häuser, Kacheln 66, 81–84, 96, 98) | 2.967.004 | **pflicht**, 98,7 % | E4 (14.10.) |
+| `quartier_ghibellina` | Quartier (288 Häuser, Kacheln 102–104) | 2.181.883 | **pflicht**, 98 % | E4 (14.10.) |
+| `quartier_conce` | Quartier (245 Häuser, Kacheln 117–119, 133, 134) | 2.102.284 | **pflicht**, 98,9 % | E4 (14.10.) |
+| `quartier_tintori` | Quartier (150 Häuser, Kacheln 130–132, 147–149) | 2.353.284 | **pflicht**, 98,6 % | E4 (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 3.444.340 (54 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 12 Projekte: Build OK, `--cross` 0 Konflikte (66 Paare), 422 Tests grün (2 übersprungen). Webdaten 45 MB.
+Alle 24 Projekte: Build OK, `--cross` 0 Konflikte (276 Paare, 225 s), 422 Tests grün (2 übersprungen). Webdaten 158 MB.
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -108,6 +117,14 @@ Borgo degli Albizi, Santa Croce, Brunelleschi, Tornabuoni, Santo Spirito (`tools
 - **Speicher:** Generator-Caches werden nach jedem Projekt in `--all` und `--cross` freigegeben (`vergissGenerator`). `--all --cross` in einem Prozess braucht trotzdem viel; besser getrennt laufen lassen (`--all --no-emit`, dann `--cross --no-emit`, jeweils im Hintergrund).
 - **GitHub Pages:** `.github/workflows/pages.yml` veröffentlicht bei jedem Push (main und Arbeitszweig) die Webapp und die Minecraft-Welt als `florenz_voxelmodell.mcworld` (Download-Seite `webapp/minecraft.html`, `stand.json` mit Commit/Zeit/Größe). **Aktiv seit 14.10.2026** (Repo öffentlich, Source „GitHub Actions“): https://pinky-without-brain.github.io/florenz-voxelmodell/ und `…/minecraft.html` (Welt 40 MB, Bau im Runner 163 s). Veröffentlicht wird nur von `main` (Pushes auf den Arbeitszweig bauen, das Deploy lehnt das Environment `github-pages` ab, solange der Zweig dort nicht freigegeben ist) – neuer Stand online nach Merge nach `main` bzw. `run_workflow` auf `main`.
 - **Minecraft:** In der Cloud gibt es kein `minecraft.local.json`, der Build-Hook exportiert dort nichts (deshalb war die Welt des Nutzers nicht aktuell). Export direkt: `node --max-old-space-size=8000 tools/minecraft/export.js --ziel build/minecraft/florenz_voxelmodell` – gemessen 280 s, Spitzen-RSS 5,7 GB, 40 MB, 17,5 Mio Projektblöcke. **Regel:** nach jedem Projekt pushen (Pages baut die Welt) bzw. lokal mit `minecraft.local.json` bauen.
+
+### E4 Häuserzeilen Welle 1: sieben Quartiere im Zentrum – **erledigt**
+Nutzerwunsch: erst alle leeren Häuserzeilen, danach weitere Wahrzeichen. Vorher 5.918 freie Gebäude in 166 Kacheln.
+- `quartier_neu.js` nimmt jetzt **jedes freie Gebäude** der Kacheln (vorher wurden ganze Isolati übersprungen, sobald eines ihrer Gebäude einem anderen Projekt oder einem Wahrzeichen gehörte); ein Isolat kann auf mehrere Projekte verteilt sein (Parzellen sind projektübergreifend dieselben, Überstände regelt `Kontext.beanspruche`).
+- Neu: San Lorenzo, Pergola, Sant'Ambrogio, Strozzi, Ghibellina, Conce, Tintori (1.690 Häuser, alle 0 unerreichbare Komponenten, Bau je 43–89 s). Stadtgrund auf 54 Kacheln (`tools/city/aktiv.js`).
+- `besitz.js` brach bei den großen Quartieren still ab (Heap) – die Datei blieb alt und `--cross` meldete 18.731 Konflikte Quartier/Stadtgrund-Böschung. Jetzt: Quartiere modulweise, Generator-Cache je Projekt freigeben, **inkrementell** `node tools/city/besitz.js <id> …` (7 Projekte 99 s). Danach 0 Konflikte.
+- Minecraft-Export (`welt.js`): Generator-Cache nach jedem Projekt freigeben – gemessen 366 s, **Heap 558 MB** (vorher 4,9 GB), 37,3 Mio Projektblöcke, Welt 43,6 MB.
+- **Rezept je Welle:** `quartier_neu.js` → `akten_entwurf.js --project <id>` → `build.js --project <id>` → `aktiv.js <kacheln>` → `besitz.js <neue ids>` → `build.js --project stadtgrund` → `webindex.js` → `build.js --cross --no-emit` (Hintergrund) → Tests → Übergabe → Commit/Push. Restliche freie Gebäude je Kachel: `node tools/city/frei_kacheln.js`.
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.

@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 224.207 |
-| Bauschritte | 116 |
+| Blöcke | 224.832 |
+| Bauschritte | 117 |
 | Y-Bereich | 48 bis 66 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
-| Kleinster Schritt | 390 Blöcke (Schritt 111.116) |
-| Mittlerer Schritt | 1.933 Blöcke |
+| Kleinster Schritt | 390 Blöcke (Schritt 111.117) |
+| Mittlerer Schritt | 1.922 Blöcke |
 | Größter Schritt | 2.083 Blöcke (Schritt 111.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 131.302 | 58,6 % |
-| Kies | `gravel` | 65.651 | 29,3 % |
-| Polierter Tuffstein | `polished_tuff` | 9.853 | 4,4 % |
+| Wasser | `water` | 131.302 | 58,4 % |
+| Kies | `gravel` | 65.651 | 29,2 % |
+| Polierter Tuffstein | `polished_tuff` | 10.696 | 4,8 % |
 | Polierter Andesit | `polished_andesite` | 5.034 | 2,2 % |
 | Glatter Stein | `smooth_stone` | 4.431 | 2,0 % |
 | Grasblock | `grass_block` | 4.044 | 1,8 % |
-| Stein | `stone` | 3.182 | 1,4 % |
+| Stein | `stone` | 2.964 | 1,3 % |
 | Steinziegel | `stone_bricks` | 312 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 93 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 91 | 0,0 % |
@@ -48,16 +48,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 7.351 | 111.1–111.4 |
+| 1 | `boeschung` | Böschung und Mantel | 7.133 | 111.1–111.4 |
 | 2 | `arno_bett` | Flussbett | 65.651 | 111.5–111.36 |
 | 3 | `arno_wasser` | Arno | 131.302 | 111.37–111.100 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 6.654 | 111.101–111.105 |
 | 5 | `gehwege` | Gehwege | 3.987 | 111.106–111.108 |
 | 6 | `stufen` | Treppenflächen | 398 | 111.109 |
-| 7 | `hof_pflaster` | Höfe | 3.493 | 111.110–111.111 |
-| 8 | `rasen` | Grün und offenes Gelände | 4.415 | 111.112–111.114 |
-| 9 | `ufer_bruestung` | Brüstung der Lungarni | 566 | 111.115 |
-| 10 | `mauern_garten` | Gartenmauern | 390 | 111.116 |
+| 7 | `hof_pflaster` | Höfe | 4.336 | 111.110–111.112 |
+| 8 | `rasen` | Grün und offenes Gelände | 4.415 | 111.113–111.115 |
+| 9 | `ufer_bruestung` | Brüstung der Lungarni | 566 | 111.116 |
+| 10 | `mauern_garten` | Gartenmauern | 390 | 111.117 |
 
 ## Bauschritte
 
@@ -122,7 +122,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 111.3 – Böschung und Mantel – Teil 3/4 (Y 56–59)
 
 - **Y-Bereich:** 56 bis 59
-- **Blöcke:** 1.948
+- **Blöcke:** 1.775
 - **Bauteile:** `boeschung`
 
 **Teileliste**
@@ -130,7 +130,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.105 |
-| Stein | `stone` | 843 |
+| Stein | `stone` | 670 |
 
 **Beschreibung**
 
@@ -151,14 +151,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 111.4 – Böschung und Mantel – Teil 4/4 (Y 60–64)
 
 - **Y-Bereich:** 60 bis 64
-- **Blöcke:** 1.712
+- **Blöcke:** 1.667
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.357 |
+| Stein | `stone` | 1.312 |
 | Polierter Andesit | `polished_andesite` | 355 |
 
 **Beschreibung**
@@ -3138,17 +3138,45 @@ Treppenblöcke folgen in einer späteren Stufe.
 
 Viele Treppen führen in Oltrarno die Hänge hinauf.
 
-### Schritt 111.110 – Höfe – Teil 1/2 (Y 50–52)
+### Schritt 111.110 – Höfe – Teil 1/3 (Y 50–50)
 
-- **Y-Bereich:** 50 bis 52
-- **Blöcke:** 1.726
+- **Y-Bereich:** 50 bis 50
+- **Blöcke:** 1.404
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.725 |
+| Polierter Tuffstein | `polished_tuff` | 1.404 |
+
+**Beschreibung**
+
+Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
+
+**Tipp**
+
+Glatt verlegen.
+
+**Achtung**
+
+Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
+
+**Fakt**
+
+Hinter den Fassaden liegen viele kleine Innenhöfe.
+
+### Schritt 111.111 – Höfe – Teil 2/3 (Y 51–59)
+
+- **Y-Bereich:** 51 bis 59
+- **Blöcke:** 1.715
+- **Bauteile:** `hof_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.714 |
 | Polierter Andesit | `polished_andesite` | 1 |
 
 **Beschreibung**
@@ -3167,17 +3195,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 111.111 – Höfe – Teil 2/2 (Y 53–63)
+### Schritt 111.112 – Höfe – Teil 3/3 (Y 60–63)
 
-- **Y-Bereich:** 53 bis 63
-- **Blöcke:** 1.767
+- **Y-Bereich:** 60 bis 63
+- **Blöcke:** 1.217
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.767 |
+| Polierter Tuffstein | `polished_tuff` | 1.217 |
 
 **Beschreibung**
 
@@ -3195,7 +3223,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 111.112 – Grün und offenes Gelände – Teil 1/3 (Y 50–50)
+### Schritt 111.113 – Grün und offenes Gelände – Teil 1/3 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.551
@@ -3224,7 +3252,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 111.113 – Grün und offenes Gelände – Teil 2/3 (Y 51–54)
+### Schritt 111.114 – Grün und offenes Gelände – Teil 2/3 (Y 51–54)
 
 - **Y-Bereich:** 51 bis 54
 - **Blöcke:** 1.494
@@ -3254,7 +3282,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 111.114 – Grün und offenes Gelände – Teil 3/3 (Y 55–64)
+### Schritt 111.115 – Grün und offenes Gelände – Teil 3/3 (Y 55–64)
 
 - **Y-Bereich:** 55 bis 64
 - **Blöcke:** 1.370
@@ -3284,7 +3312,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 111.115 – Brüstung der Lungarni
+### Schritt 111.116 – Brüstung der Lungarni
 
 - **Y-Bereich:** 56 bis 66
 - **Blöcke:** 566
@@ -3312,7 +3340,7 @@ An Brücken und Wahrzeichen bleibt die Brüstung offen.
 
 Die Lungarni wurden im 19. Jahrhundert als Uferstraßen mit Mauern ausgebaut.
 
-### Schritt 111.116 – Gartenmauern
+### Schritt 111.117 – Gartenmauern
 
 - **Y-Bereich:** 52 bis 60
 - **Blöcke:** 390

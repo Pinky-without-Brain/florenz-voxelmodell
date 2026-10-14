@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 29.669 |
+| Blöcke | 29.662 |
 | Bauschritte | 19 |
 | Y-Bereich | 61 bis 65 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
 | Z-Ausdehnung | 432 bis 751 (320 Blöcke) |
 | Kleinster Schritt | 417 Blöcke (Schritt 97.13) |
-| Mittlerer Schritt | 1.562 Blöcke |
+| Mittlerer Schritt | 1.561 Blöcke |
 | Größter Schritt | 2.054 Blöcke (Schritt 97.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 20.047 | 67,6 % |
-| Stein | `stone` | 6.624 | 22,3 % |
-| Glatter Stein | `smooth_stone` | 2.377 | 8,0 % |
+| Polierter Tuffstein | `polished_tuff` | 20.036 | 67,5 % |
+| Stein | `stone` | 6.668 | 22,5 % |
+| Glatter Stein | `smooth_stone` | 2.337 | 7,9 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 179 | 0,6 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 134 | 0,5 % |
 | Grasblock | `grass_block` | 111 | 0,4 % |
@@ -45,9 +45,9 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 6.624 | 97.1–97.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 13.798 | 97.6–97.13 |
-| 3 | `gehwege` | Gehwege | 2.020 | 97.14 |
+| 1 | `boeschung` | Böschung und Mantel | 6.668 | 97.1–97.5 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 13.787 | 97.6–97.13 |
+| 3 | `gehwege` | Gehwege | 1.980 | 97.14 |
 | 4 | `stufen` | Treppenflächen | 510 | 97.15 |
 | 5 | `plaetze_pflaster` | Plätze | 2.831 | 97.16–97.17 |
 | 6 | `hof_pflaster` | Höfe | 3.775 | 97.18–97.19 |
@@ -58,14 +58,14 @@
 ### Schritt 97.1 – Böschung und Mantel – Teil 1/5 (Y 61–62)
 
 - **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.530
+- **Blöcke:** 1.532
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.530 |
+| Stein | `stone` | 1.532 |
 
 **Beschreibung**
 
@@ -86,14 +86,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 97.2 – Böschung und Mantel – Teil 2/5 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.492
+- **Blöcke:** 1.521
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.492 |
+| Stein | `stone` | 1.521 |
 
 **Beschreibung**
 
@@ -114,14 +114,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 97.3 – Böschung und Mantel – Teil 3/5 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.431
+- **Blöcke:** 1.409
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.431 |
+| Stein | `stone` | 1.409 |
 
 **Beschreibung**
 
@@ -170,14 +170,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 97.5 – Böschung und Mantel – Teil 5/5 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 773
+- **Blöcke:** 808
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 773 |
+| Stein | `stone` | 808 |
 
 **Beschreibung**
 
@@ -282,14 +282,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 97.9 – Straßenpflaster – Teil 4/8 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.955
+- **Blöcke:** 1.944
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.955 |
+| Polierter Tuffstein | `polished_tuff` | 1.944 |
 
 **Beschreibung**
 
@@ -422,14 +422,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 97.14 – Gehwege
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 2.020
+- **Blöcke:** 1.980
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 2.020 |
+| Glatter Stein | `smooth_stone` | 1.980 |
 
 **Beschreibung**
 

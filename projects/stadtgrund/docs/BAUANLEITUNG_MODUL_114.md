@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 48.181 |
+| Blöcke | 48.169 |
 | Bauschritte | 32 |
 | Y-Bereich | 58 bis 80 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 505 Blöcke (Schritt 114.28) |
-| Mittlerer Schritt | 1.506 Blöcke |
+| Mittlerer Schritt | 1.505 Blöcke |
 | Größter Schritt | 1.939 Blöcke (Schritt 114.21) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 33.743 | 70,0 % |
-| Stein | `stone` | 9.421 | 19,6 % |
+| Polierter Tuffstein | `polished_tuff` | 33.743 | 70,1 % |
+| Stein | `stone` | 9.409 | 19,5 % |
 | Glatter Stein | `smooth_stone` | 3.253 | 6,8 % |
 | Polierter Andesit | `polished_andesite` | 505 | 1,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 285 | 0,6 % |
@@ -50,7 +50,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 9.421 | 114.1–114.7 |
+| 1 | `boeschung` | Böschung und Mantel | 9.409 | 114.1–114.7 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 16.506 | 114.8–114.17 |
 | 3 | `gehwege` | Gehwege | 1.269 | 114.18 |
 | 4 | `stufen` | Treppenflächen | 722 | 114.19 |
@@ -65,14 +65,14 @@
 ### Schritt 114.1 – Böschung und Mantel – Teil 1/7 (Y 58–61)
 
 - **Y-Bereich:** 58 bis 61
-- **Blöcke:** 1.063
+- **Blöcke:** 1.051
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.063 |
+| Stein | `stone` | 1.051 |
 
 **Beschreibung**
 
