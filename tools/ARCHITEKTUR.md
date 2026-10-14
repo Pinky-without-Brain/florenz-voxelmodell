@@ -73,6 +73,7 @@ Module werden in der Reihenfolge 0..9 in **ein** Grid gebaut. Was ein Modul nich
   2. Ist das Bauteil ≤ 2.100, ergibt es einen Schritt.
   3. Sonst `n = ceil(total / 2100)` und Ziel `t = total / n`. Ganze Y-Lagen werden gesammelt, bis die nächste Lage den Schritt über `min(2100, 1.15·t)` brächte. Dann wird geschnitten.
   4. Eine einzelne Lage mit mehr als 2.100 Blöcken wird nach X-Bereichen geteilt, zusammenhängend und aufsteigend.
+  5. **Halt (seit 14.10.2026, nur mit Bodenprovider `planModule(m, content, grid, { ground })`, so in `tools/build.js`):** Zellen eines Stücks, die wie bei R3 keinen Halt haben (kein Flächenkontakt zu früheren Modulen, früheren Bauteilen/Stücken oder zum Gelände, auch nicht über Zellen desselben Stücks), rücken ins nächste Stück desselben Bauteils. Typischer Fall: ein Gesims an der Westseite eines großen Hauses, dessen Wand bei spaltenweise geteilten Lagen erst im folgenden Stück liegt. Bauteile, die R3 schon erfüllen, bleiben unverändert.
 - Danach folgt ein Zusammenlegen: Aufeinanderfolgende Schritte desselben Moduls mit < 300 Blöcken werden mit dem Nachfolger zusammengelegt, ersatzweise mit dem Vorgänger, sofern die Summe ≤ 2.100 bleibt.
 - Schritt-Objekt:
 ```js

@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 116.431 |
+| Blöcke | 116.707 |
 | Bauschritte | 68 |
 | Y-Bereich | 48 bis 65 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 384 Blöcke (Schritt 112.59) |
-| Mittlerer Schritt | 1.712 Blöcke |
+| Mittlerer Schritt | 1.716 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 112.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 55.708 | 47,8 % |
+| Wasser | `water` | 55.708 | 47,7 % |
 | Kies | `gravel` | 27.854 | 23,9 % |
-| Polierter Tuffstein | `polished_tuff` | 21.755 | 18,7 % |
+| Polierter Tuffstein | `polished_tuff` | 22.053 | 18,9 % |
 | Polierter Andesit | `polished_andesite` | 4.846 | 4,2 % |
-| Stein | `stone` | 3.293 | 2,8 % |
+| Stein | `stone` | 3.271 | 2,8 % |
 | Glatter Stein | `smooth_stone` | 1.193 | 1,0 % |
 | Steinziegel | `stone_bricks` | 736 | 0,6 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 325 | 0,3 % |
@@ -48,13 +48,13 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 7.437 | 112.1–112.6 |
+| 1 | `boeschung` | Böschung und Mantel | 7.415 | 112.1–112.6 |
 | 2 | `arno_bett` | Flussbett | 27.854 | 112.7–112.20 |
 | 3 | `arno_wasser` | Arno | 55.708 | 112.21–112.48 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 13.829 | 112.49–112.58 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 14.075 | 112.49–112.58 |
 | 5 | `gehwege` | Gehwege | 384 | 112.59 |
 | 6 | `stufen` | Treppenflächen | 1.011 | 112.60 |
-| 7 | `hof_pflaster` | Höfe | 8.576 | 112.61–112.66 |
+| 7 | `hof_pflaster` | Höfe | 8.628 | 112.61–112.66 |
 | 8 | `rasen` | Grün und offenes Gelände | 38 | 112.67 |
 | 9 | `ufer_bruestung` | Brüstung der Lungarni | 674 | 112.67 |
 | 10 | `mauern_garten` | Gartenmauern | 920 | 112.68 |
@@ -120,7 +120,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 112.3 – Böschung und Mantel – Teil 3/6 (Y 56–58)
 
 - **Y-Bereich:** 56 bis 58
-- **Blöcke:** 1.196
+- **Blöcke:** 1.146
 - **Bauteile:** `boeschung`
 
 **Teileliste**
@@ -128,7 +128,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.006 |
-| Stein | `stone` | 190 |
+| Stein | `stone` | 140 |
 
 **Beschreibung**
 
@@ -146,18 +146,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 112.4 – Böschung und Mantel – Teil 4/6 (Y 59–60)
+### Schritt 112.4 – Böschung und Mantel – Teil 4/6 (Y 59–61)
 
-- **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.041
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.551
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 556 |
-| Polierter Andesit | `polished_andesite` | 485 |
+| Stein | `stone` | 990 |
+| Polierter Andesit | `polished_andesite` | 561 |
 
 **Beschreibung**
 
@@ -175,18 +175,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 112.5 – Böschung und Mantel – Teil 5/6 (Y 61–62)
+### Schritt 112.5 – Böschung und Mantel – Teil 5/6 (Y 62–62)
 
-- **Y-Bereich:** 61 bis 62
-- **Blöcke:** 2.078
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.651
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.894 |
-| Polierter Andesit | `polished_andesite` | 184 |
+| Stein | `stone` | 1.543 |
+| Polierter Andesit | `polished_andesite` | 108 |
 
 **Beschreibung**
 
@@ -204,17 +204,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 112.6 – Böschung und Mantel – Teil 6/6 (Y 63–65)
+### Schritt 112.6 – Böschung und Mantel – Teil 6/6 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 653
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 598
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 653 |
+| Stein | `stone` | 598 |
 
 **Beschreibung**
 
@@ -1440,14 +1440,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 112.50 – Straßenpflaster – Teil 2/10 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.173
+- **Blöcke:** 1.429
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.133 |
+| Polierter Tuffstein | `polished_tuff` | 1.389 |
 | Polierter Andesit | `polished_andesite` | 40 |
 
 **Beschreibung**
@@ -1639,14 +1639,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 112.57 – Straßenpflaster – Teil 9/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.466
+- **Blöcke:** 1.456
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.466 |
+| Polierter Tuffstein | `polished_tuff` | 1.456 |
 
 **Beschreibung**
 
@@ -1794,14 +1794,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 112.62 – Höfe – Teil 2/6 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.574
+- **Blöcke:** 1.561
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.574 |
+| Polierter Tuffstein | `polished_tuff` | 1.561 |
 
 **Beschreibung**
 
@@ -1822,14 +1822,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 112.63 – Höfe – Teil 3/6 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.522
+- **Blöcke:** 1.590
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.522 |
+| Polierter Tuffstein | `polished_tuff` | 1.590 |
 
 **Beschreibung**
 
@@ -1908,14 +1908,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 112.66 – Höfe – Teil 6/6 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.134
+- **Blöcke:** 1.131
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.134 |
+| Polierter Tuffstein | `polished_tuff` | 1.131 |
 
 **Beschreibung**
 

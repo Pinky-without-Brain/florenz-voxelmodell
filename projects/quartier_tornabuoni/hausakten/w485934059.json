@@ -1,0 +1,55 @@
+{
+  "id": "w485934059",
+  "typ": "palazzo_ottocento",
+  "epoche": "19. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    },
+    {
+      "art": "attika",
+      "hoeheBl": 9
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 7,
+    "material": "putz",
+    "putzfarbe": "grau",
+    "erdgeschoss": {
+      "art": "bottega_arcata",
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rahmen_stuck",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 2
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "flach",
+    "material": "terrasse",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen."
+}

@@ -42,7 +42,12 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
 | `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
 | `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.266.139 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `quartier_borgo_albizi` | Quartier (111 Häuser, Kacheln 85, 86, 100) | 1.226.015 | **pflicht**, 98,7 % | E3 (14.10.) |
+| `quartier_santa_croce` | Quartier (163 Häuser, Kacheln 101, 116) | 1.399.156 | **pflicht**, 98,6 % | E3 (14.10.) |
+| `quartier_brunelleschi` | Quartier (79 Häuser, Kachel 55) | 909.321 | **pflicht**, 99,2 % | E3 (14.10.) |
+| `quartier_tornabuoni` | Quartier (70 Häuser, Kacheln 97, 111) | 1.028.941 | **pflicht**, 98,4 % | E3 (14.10.) |
+| `quartier_santo_spirito` | Quartier (104 Häuser, Kacheln 126, 127) | 921.246 | **pflicht**, 98,2 % | E3 (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.709.859 (28 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
 Alle 12 Projekte: Build OK, `--cross` 0 Konflikte (66 Paare), 422 Tests grün (2 übersprungen). Webdaten 45 MB.
 
@@ -94,6 +99,9 @@ Mit dem neuen Werkzeug `tools/city/quartier_neu.js` (Rezept aus E1): `quartier_l
 ### B6 Webapp: Stadtansicht lädt Module nach Nähe – **erledigt**
 `tools/emit/webindex.js` schreibt je Modul die Grundriss-Grenzen `b: [x0, z0, x1, z1]`; `ProjectLoader.fillWorldModules(world, id, [n])` füllt einzelne Module; `city-view.js` legt Voxelprojekte nur an und lädt in `ladeNahe()` die Module im Umkreis `showDist + ladeRand` (200) der Kamera nach (höchstens 2 gleichzeitig, nächste zuerst; Chunks an Modulgrenzen werden neu vermascht). Gemessen (Chromium/Swiftshader): Start 2,3 Mio statt ≈ 13 Mio Blöcke, nach Flug zum Pitti 5,4 Mio, keine Seitenfehler. **Offen:** ferne Module wieder entladen (Speicher wächst beim Herumfliegen).
 Die Bauanleitungs-Ansicht zeigt die Dom-Kulisse (Hügel, Zypressen, Arno-Fläche) nur noch beim Dom (vorher lagen Uffizien, Ponte Vecchio und Stadtgrund teilweise darunter).
+
+### E3 Fünf weitere Quartiere – **erledigt**
+Borgo degli Albizi, Santa Croce, Brunelleschi, Tornabuoni, Santo Spirito (`tools/city/quartier_neu.js`), alle 0 unerreichbare Komponenten. Stadtgrund um die Kacheln 86, 97, 100, 101, 111, 116, 126 erweitert (28 Kacheln). Besitzraster: 16 Projekte. **Planer** (`tools/steps/planner.js`): Zellen ohne Halt rücken mit Bodenprovider in das nächste Stück desselben Bauteils (ARCHITEKTUR §4 Punkt 5; behob ein Gesims an einem großen Haus). 422 Tests grün. Der `--all --cross`-Lauf dauert jetzt deutlich über 10 Minuten (im Hintergrund starten).
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.

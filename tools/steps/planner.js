@@ -166,9 +166,50 @@ function titleOf(segs) {
  * planModule(moduleBuild, content, grid) -> Array von Schritten.
  * Am Array hängt die nicht aufzählbare Eigenschaft `warnings` (Array von Texten).
  */
-function planModule(moduleBuild, content, grid) {
+// Halt wie R3 (Flächenkontakt zu früher Gesetztem oder Gelände, im Schritt zusammenhängend): Zellen eines Stücks ohne
+// Halt rücken ins nächste Stück desselben Bauteils (z. B. ein Gesims, dessen Wand bei spaltenweise geteilten Lagen erst
+// im folgenden Stück liegt). Nur mit Bodenprovider (opts.ground); gültige Bauteile bleiben unverändert.
+const N6 = [[1, 0, 0], [-1, 0, 0], [0, 1, 0], [0, -1, 0], [0, 0, 1], [0, 0, -1]];
+function stueckeMitHalt(pieces, frueher, ground) {
+  for (let i = 0; i + 1 < pieces.length; i++) {
+    const S = new Set(pieces[i]);
+    const ok = new Set();
+    const stack = [];
+    for (const k of pieces[i]) {
+      const x = xOf(k), y = yOf(k), z = zOfKey(k);
+      let h = ground.hasGroundContact(x, y, z);
+      if (!h) for (const [dx, dy, dz] of N6) { if (frueher(x + dx, y + dy, z + dz)) { h = true; break; } }
+      if (h) { ok.add(k); stack.push(k); }
+    }
+    while (stack.length) {
+      const k = stack.pop();
+      const x = xOf(k), y = yOf(k), z = zOfKey(k);
+      for (const [dx, dy, dz] of N6) {
+        const nk = ((x + dx + 4096) * 8192 + (z + dz + 4096)) * 512 + (y + dy);
+        if (S.has(nk) && !ok.has(nk)) { ok.add(nk); stack.push(nk); }
+      }
+    }
+    if (ok.size === S.size) { for (const k of pieces[i]) frueher.add(k); continue; }
+    const bleibt = pieces[i].filter((k) => ok.has(k));
+    const weiter = pieces[i].filter((k) => !ok.has(k));
+    pieces[i] = bleibt;
+    pieces[i + 1] = sortedKeys([...weiter, ...pieces[i + 1]]);
+    for (const k of bleibt) frueher.add(k);
+  }
+  for (const k of pieces[pieces.length - 1]) frueher.add(k);
+  return pieces.filter((p) => p.length);
+}
+
+function planModule(moduleBuild, content, grid, opts = {}) {
   const warnings = [];
   const n = moduleBuild.module;
+  // früher Gesetztes: frühere Module (Grid) und frühere Bauteile/Stücke dieses Moduls
+  const frueherSet = new Set();
+  const frueherFn = Object.assign((x, y, z) => {
+    if (frueherSet.has(((x + 4096) * 8192 + (z + 4096)) * 512 + y)) return true;
+    const e = grid && grid.get ? grid.get(x, y, z) : null;
+    return !!(e && e.module < n);
+  }, { add: (k) => frueherSet.add(k) });
   const cparts = (content && content.parts) || {};
   if (!content) warnings.push(`Modul ${n}: kein Content, Titel = Bauteil-ID, Texte leer`);
 
@@ -186,7 +227,9 @@ function planModule(moduleBuild, content, grid) {
       for (const f of TEXT_FIELDS) if (!c[f]) missing.push(f);
       if (missing.length) warnings.push(`Modul ${n}, Bauteil ${part.id}: Content fehlt (${missing.join(', ')})`);
     }
-    const pieces = splitPart(sortedKeys(part.keys));
+    let pieces = splitPart(sortedKeys(part.keys));
+    if (opts.ground && pieces.length > 1) pieces = stueckeMitHalt(pieces, frueherFn, opts.ground);
+    else if (opts.ground) for (const k of pieces[0]) frueherSet.add(k);
     pieces.forEach((cells, idx) => {
       const b = bboxOf(cells);
       segs.push({ partId: part.id, baseTitle: c.title || part.id, i: idx + 1, n: pieces.length,

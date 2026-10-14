@@ -81,7 +81,7 @@ function buildProject(project, opts, env) {
   t = process.hrtime.bigint();
   const stepsByModule = {};
   for (const m of world.modules) {
-    const steps = planModule(m, m.content, world.grid);
+    const steps = planModule(m, m.content, world.grid, { ground: specs.ground });
     stepsByModule[m.module] = steps;
     warnings.push(...steps.warnings);
   }
