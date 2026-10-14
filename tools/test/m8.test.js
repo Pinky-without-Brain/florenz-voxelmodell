@@ -72,13 +72,13 @@ test('Flagged Bauteile ohne Portale sind D4-symmetrisch (eigene Prüfung)', () =
   }
 });
 
-test('Portale: Türblätter nur auf O, N, S in ρ 29; Ostflügel hat 10 goldene Felder', () => {
+test('Portale: Türblatt nur im Osten (Paradiespforte, ρ 29); Nord und Süd offen (B5)', () => {
   const cells = cellsOf('portale');
   assert.ok(cells.every((c) => c.y >= 65 && c.y <= 82));
   const gold = cells.filter((c) => c.type === 'gold_block');
   assert.equal(gold.length, 96);                       // 2 Spalten à 4 Zellen × (2+2+2+3+3) Zeilen
   assert.ok(gold.every((c) => c.x === CX + 29));
-  assert.ok(cells.some((c) => c.z === CZ - 29) && cells.some((c) => c.z === CZ + 29));
+  assert.ok(!cells.some((c) => c.z === CZ - 29 || c.z === CZ + 29));
   assert.ok(!cells.some((c) => c.x < CX - 5 && Math.abs(c.z - CZ) < 12));
   assert.ok(!has(CX + 33, 70, CZ) && !has(CX, 70, CZ - 33) && !has(CX, 70, CZ + 33), 'Portalöffnungen frei');
 });

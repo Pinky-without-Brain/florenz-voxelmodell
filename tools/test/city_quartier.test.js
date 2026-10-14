@@ -76,7 +76,8 @@ test('Quartier-Projekt mit 12 Isolati: ein Modul je Isolato, Teile je Haus, Date
     const w = buildWorld({ project });
     assert.deepEqual(w.errors, []);
     assert.equal(w.modules.length, 12);
-    assert.deepEqual(w.modules[0].parts.map((p) => p.id), ['w1001', 'w1002']);
+    // je Haus der Rohbau und danach der Innenausbau (B4)
+    assert.deepEqual(w.modules[0].parts.map((p) => p.id), ['w1001', 'w1001_innen', 'w1002', 'w1002_innen']);
     assert.equal(w.modules[11].parts[0].id, 'w1013');
     assert.equal(w.modules[0].content.parts.w1001.title.startsWith('Reihenhaus an Via Prova') ||
       w.modules[0].content.parts.w1001.title.includes('an Via Prova'), true, w.modules[0].content.parts.w1001.title);

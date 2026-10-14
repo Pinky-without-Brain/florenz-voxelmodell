@@ -60,6 +60,16 @@ function wallCell(u, w, y, view) {
 }
 
 const ringBox = (y0, y1) => box(CX - OUT, y0, CZ - OUT, CX + OUT, y1, CZ + OUT);
+// Luftzellen der Wandöffnungen (B5): offene Biforien/Triforien und Nischen innerhalb der Wanddicke
+function wandLuft(y0, y1, view) {
+  const out = [];
+  for (let y = y0; y <= y1; y++) for (let u = -HALF; u <= HALF; u++) for (let w = -HALF; w <= HALF; w++) {
+    const m = Math.max(ab(u), ab(w));
+    if (m < WALL_IN || inPillar(u, w)) continue;
+    if (wallCell(u, w, y, view) === null) out.push({ x: CX + u, y, z: CZ + w });
+  }
+  return out;
+}
 function fillWall(w, y0, y1, view, filter) {
   return w.fill(ringBox(y0, y1), (x, y, z) => {
     const u = x - CX, v = z - CZ;
@@ -229,7 +239,7 @@ function posCells(q) {
 const CORNER_GAPS = [0, SIDE_N, 2 * SIDE_N, 3 * SIDE_N, RING_N];
 const cornerDist = (g) => Math.min(...CORNER_GAPS.map((c) => ab(g - c)));
 const HOLE_Q = [RING_N, 1, 2, 3];             // Positionen im Treppenloch
-const START_Q = 23;                           // Ostseite, vor der Tür
+const START_Q = 31;                           // Ostseite, nördlich neben der Tür (die Tür bleibt frei, B5)
 
 // Läuft von Position qFrom bis qTo; Stufen (Anstieg 1) liegen mittig an den Seiten, Podeste an den Ecken.
 function addRun(path, qFrom, qTo, h0, h1) {
@@ -258,16 +268,36 @@ function stairPath() {
   }
   return path;
 }
-// Zellen der Treppe: Map "u,w,y" -> Typ
+// Zellen der Treppe: Map "u,w,y" -> Typ. Steigt ein Tritt gegenüber dem vorigen, ist er ein Treppenblock
+// (Aufstieg in Laufrichtung, B5); ebene Tritte (Podeste an den Ecken) sind Vollblöcke. Unter jedem Tritt ein Stützblock.
 function stairCells() {
   const cells = new Map();
-  for (const { q, t } of stairPath()) {
+  const path = stairPath();
+  const mitte = (q) => { const c = posCells(q); return [(c[0][0] + c[1][0]) / 2, (c[0][1] + c[1][1]) / 2]; };
+  for (let i = 0; i < path.length; i++) {
+    const { q, t } = path[i];
+    let type = 'polished_andesite';
+    if (i > 0 && t > path[i - 1].t) {
+      const [a0, b0] = mitte(path[i - 1].q), [a1, b1] = mitte(q);
+      const du = a1 - a0, dw = b1 - b0;
+      const dir = Math.abs(du) >= Math.abs(dw) ? (du > 0 ? 'o' : 'w') : (dw > 0 ? 's' : 'n');
+      type = 'polished_andesite_stairs@' + dir;
+    }
     for (const [u, w] of posCells(q)) {
-      cells.set(keyOf(u, w, t), 'polished_andesite');
-      if (t - 1 >= WALK_Y) cells.set(keyOf(u, w, t - 1), 'stone_bricks');
+      cells.set(keyOf(u, w, t), type);
+      if (t - 1 >= WALK_Y && !cells.has(keyOf(u, w, t - 1))) cells.set(keyOf(u, w, t - 1), 'stone_bricks');
     }
   }
   return cells;
+}
+// Treppenloch je Decke (B5): Zellen über Tritten, deren Kopffreiheit (3) die Decke schneidet, und Tritte in Deckenhöhe
+function deckLoch(deckY) {
+  const s = new Set();
+  for (const { q, t } of stairPath()) {
+    if (t < deckY - 3 || t > deckY) continue;
+    for (const [u, w] of posCells(q)) s.add(u + ',' + w);
+  }
+  return s;
 }
 const STAIR_SECTIONS = [[65, 100], [101, 122], [123, 150], [151, 178], [179, 221], [222, 225]];
 
@@ -307,8 +337,13 @@ function build(ctx) {
   };
   const deck = (id, y) => {
     const w = ctx.part(id);
+    const loch = deckLoch(y);
     w.fill(box(CX - INNER, y, CZ - INNER, CX + INNER, y, CZ + INNER),
-      (x, yy, z) => (inHole(x - CX, z - CZ) ? null : 'smooth_stone'));
+      (x, yy, z) => {
+        const u = x - CX, v = z - CZ;
+        if (inHole(u, v) || loch.has(u + ',' + v) || stair.has(keyOf(u, v, yy))) return null;
+        return Math.abs(u) === 4 && Math.abs(v) === 4 ? 'sea_lantern' : 'smooth_stone'; // Licht (B5) je Geschoss
+      });
   };
 
   // 1 Sockel mit den zwei Reliefregistern (Tür im Osten ausgespart, darum ohne Symmetrie-Flag)
@@ -324,11 +359,14 @@ function build(ctx) {
       tuer.set(x, WALK_Y + h, CZ + v, 'chiseled_quartz');
     }
   }
+  // B5: Bronzeflügel offen; das Bogenfeld über dem Kämpfer bleibt aus Bronze
+  const tuerLuft = [];
   for (const key of DOOR_OPEN) {
     const [v, h] = key.split(',').map(Number);
-    const knob = ab(v) === 1 && h === 3;
-    tuer.set(CX + HALF - 2, WALK_Y + h, CZ + v, knob ? 'gold_block' : 'cut_copper');
+    if (h >= DOOR_SPRING) { tuer.set(CX + HALF - 2, WALK_Y + h, CZ + v, 'cut_copper'); continue; }
+    for (let d = 0; d < WALL_T; d++) tuerLuft.push({ x: CX + HALF - d, y: WALK_Y + h, z: CZ + v });
   }
+  ctx.oeffnung(tuerLuft, 'tuer');
 
   stairPart('treppe_1', STAIR_SECTIONS[0]);
   deck('zwischendecke_1', DECKS[0]);
@@ -352,6 +390,14 @@ function build(ctx) {
   fillWall(ctx.part('triforien', SYM), TRIF[0], TRIF[1], triforienView);
   stairPart('treppe_5', STAIR_SECTIONS[4]);
 
+  // B5: Öffnungen der Glockengeschosse (offene Bögen, im Original ohne Glas) und Laibungen hoch über dem Boden
+  for (const [seg, view] of [[BIF1, biforienView(BIF1)], [BIF2, biforienView(BIF2)], [TRIF, triforienView], [NISCHEN, nischenView]]) {
+    const luft = wandLuft(seg[0], seg[1], view);
+    if (!luft.length) continue;
+    if (view !== nischenView) ctx.oeffnung(luft, 'fenster_offen');
+    ctx.unzugaenglich(luft, 'Laibung der offenen Glockenbögen bzw. Statuennischen: Sohlbank hoch über dem Boden, nicht begehbar');
+  }
+
   // 7 Glockenstuhl: Balkenkreuz, Hänger und sieben Glocken aus Kupfer
   const gs = ctx.part('glockenstuhl');
   for (const k of beamCells()) {
@@ -371,6 +417,11 @@ function build(ctx) {
         }
       }
     }
+    const bl = [];
+    for (let y = b.rim; y < BEAM_Y; y++) for (let dx = -b.r - 1; dx <= b.r + 1; dx++) for (let dz = -b.r - 1; dz <= b.r + 1; dz++) {
+      bl.push({ x: CX + b.u + dx, y, z: CZ + b.w + dz });
+    }
+    ctx.unzugaenglich(bl, 'Glocke und Hänger: Oberseite der Glocke ist kein Standplatz');
     if (b.r > 1) {                              // Klöppel im hohlen Inneren, hängt an der Glockenspitze
       for (let dy = 0; dy < b.r; dy++) gs.set(CX + b.u, b.rim + dy, CZ + b.w, 'polished_deepslate');
     }
@@ -383,7 +434,14 @@ function build(ctx) {
 
   // 9 Terrassenboden (mit Treppenloch, deshalb ohne Flag)
   const terr = ctx.part('terrassenboden');
-  terr.fill(box(CX - OUT, TERRACE_Y, CZ - OUT, CX + OUT, TERRACE_Y, CZ + OUT), (x, y, z) => terraceCell(x - CX, z - CZ));
+  const lochT = deckLoch(TERRACE_Y);
+  const ausstieg = [];
+  for (let u = -INNER; u <= INNER; u++) for (let w = -INNER; w <= INNER; w++) {
+    if ((inHole(u, w) || lochT.has(u + ',' + w)) && !stair.has(keyOf(u, w, TERRACE_Y))) ausstieg.push({ x: CX + u, y: TERRACE_Y, z: CZ + w });
+  }
+  ctx.oeffnung(ausstieg, 'tuer'); // Treppenausstieg auf die Terrasse
+  terr.fill(box(CX - OUT, TERRACE_Y, CZ - OUT, CX + OUT, TERRACE_Y, CZ + OUT),
+    (x, y, z) => (lochT.has((x - CX) + ',' + (z - CZ)) || stair.has(keyOf(x - CX, z - CZ, y)) ? null : terraceCell(x - CX, z - CZ)));
 
   // 10 Brüstung und Eckfialen
   const brue = ctx.part('bruestung_und_fialen', SYM);

@@ -1,0 +1,60 @@
+# Webapp und Minecraft-Welt über GitHub Pages veröffentlichen (bei jedem Push auf main oder den Arbeitszweig).
+# Voraussetzung im Repository: Settings → Pages → Source „GitHub Actions“; für den Arbeitszweig zusätzlich
+# Settings → Environments → github-pages → Deployment branches: Zweig claude/lucid-thompson-gb03b1 erlauben.
+name: Webapp und Minecraft-Welt (GitHub Pages)
+
+on:
+  push:
+    branches: [main, claude/lucid-thompson-gb03b1]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Minecraft-Welt (Bedrock) bauen
+        id: welt
+        continue-on-error: true
+        run: node --max-old-space-size=6144 tools/minecraft/export.js --ziel build/minecraft/florenz_voxelmodell
+      - name: Seite zusammenstellen
+        run: |
+          mkdir -p _site
+          cp -r webapp/. _site/
+          if [ -f build/minecraft/florenz_voxelmodell/level.dat ]; then
+            (cd build/minecraft/florenz_voxelmodell && zip -qr ../../../_site/florenz_voxelmodell.mcworld .)
+            GROESSE=$(du -m _site/florenz_voxelmodell.mcworld | cut -f1)
+            WELT=true
+          else
+            GROESSE=0
+            WELT=false
+          fi
+          printf '{"commit":"%s","zeit":"%s","welt":%s,"mb":%s}\n' "${GITHUB_SHA::7}" "$(date -u +%Y-%m-%dT%H:%MZ)" "$WELT" "$GROESSE" > _site/stand.json
+          cat _site/stand.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

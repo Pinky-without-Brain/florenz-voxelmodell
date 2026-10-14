@@ -122,6 +122,13 @@
       "tip": "Baue jeden Sockel als Halbkreis vom Achteck nach außen. Mit dem Mittelpunkt als Ausgangspunkt zählst du 11 Blöcke in jede Richtung.",
       "caution": "Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst hat das nächste Modul keinen festen Stand.",
       "fact": "Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour."
+    },
+    "kapellendach_abschluss": {
+      "title": "Abschluss der Kapellendächer",
+      "description": "Wo die Tribunen an die Eckbauten stoßen, ist der Raum unter dem Pultdach der Kapellen zur Vierung hin offen. Diese Randzellen über der Kapellenmauer (Y 105 bis 111) füllst du mit Steinziegeln.",
+      "tip": "Baue erst die Eckbauten, dann siehst du genau, wo die Lücke liegt.",
+      "caution": "Die Kapellen selbst bleiben unverändert; der Abschluss liegt über ihren Gewölben.",
+      "fact": "Jede der drei Tribunen hat fünf Kapellen. Zusammen sind es fünfzehn Kapellen rund um den Chor."
     }
   }
 }

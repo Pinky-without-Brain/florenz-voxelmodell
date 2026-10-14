@@ -7,7 +7,7 @@ const path = require('node:path');
 const GEL = require('../geo/gelaende.js');
 const grid = require('../geom/grid.js');
 const { loadRegistry, ROOT } = require('../projects.js');
-const { buildWorld } = require('../model/world.js');
+const { buildWorld, listModules, isUnabhaengig } = require('../model/world.js');
 const { typesForRole } = require('../spec/palette.js');
 const { ALLE_TYPEN } = require('./bedrock_bloecke.js');
 
@@ -136,13 +136,22 @@ class WeltDaten {
   _projekte() {
     const reg = loadRegistry(this.opts.registry || {});
     this.projektGebaeude = new Set(DOM_IDS);
+    this.gebauteProjekte = new Set(['duomo']);
     const bucketAdd = (key, v) => { let a = this.buckets.get(key); if (!a) this.buckets.set(key, a = []); a.push(v); };
     for (const p of reg.projects) {
-      const w = buildWorld({ project: p });
+      // Unabhängige Module (Stadtgrund) einzeln bauen: ein Grid je Modul
+      const laeufe = isUnabhaengig(p) ? listModules(p).numbers.map((n) => [n]) : [undefined];
+      for (const mods of laeufe) this._projekt(p, buildWorld({ project: p, modules: mods }), bucketAdd);
+    }
+  }
+
+  _projekt(p, w, bucketAdd) {
+    {
       if (w.errors.length) throw new Error(`Projekt ${p.id}: Fehler im Bau (${w.errors[0].message})`);
       const g = w.grid;
-      if (!g.size) continue;
+      if (!g.size) return;
       const json = p.json || {};
+      this.gebauteProjekte.add(p.id);
       for (const id of json.gebaeude || []) this.projektGebaeude.add(id);
       for (const m of Object.values(json.masken && typeof json.masken === 'object' ? json.masken : {})) for (const id of (m && m.gebaeude) || []) this.projektGebaeude.add(id);
       const bounds = { minX: Infinity, maxX: -Infinity, minY: Infinity, maxY: -Infinity, minZ: Infinity, maxZ: -Infinity };
@@ -165,7 +174,12 @@ class WeltDaten {
         n++;
       });
       this.stats.projektBloecke += n;
-      this.projects.push({ id: p.id, blocks: n, bounds, modMin });
+      const alt = this.projects.find((e) => e.id === p.id);
+      if (!alt) { this.projects.push({ id: p.id, blocks: n, bounds, modMin }); return; }
+      alt.blocks += n;
+      for (const k of ['minX', 'minY', 'minZ']) alt.bounds[k] = Math.min(alt.bounds[k], bounds[k]);
+      for (const k of ['maxX', 'maxY', 'maxZ']) alt.bounds[k] = Math.max(alt.bounds[k], bounds[k]);
+      Object.assign(alt.modMin, modMin);
     }
   }
 
@@ -226,7 +240,10 @@ class WeltDaten {
     const geb = JSON.parse(fs.readFileSync(path.join(dir, 'gebaeude.json'), 'utf8')).gebaeude;
     const byId = new Map(geb.map((b) => [b.id, b]));
     const { x0, z0, x1, z1, W } = this.r;
-    const vor = fs.existsSync(path.join(dir, 'vorrang.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'vorrang.json'), 'utf8')).ids : {};
+    const vorAlle = fs.existsSync(path.join(dir, 'vorrang.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'vorrang.json'), 'utf8')).ids : {};
+    // Vorrang gilt nur für Wahrzeichen, die schon gebaut sind; die übrigen bleiben Platzhalter-Häuser
+    const gebaut = this.gebauteProjekte || null;
+    const vor = Object.fromEntries(Object.entries(vorAlle).filter(([, pid]) => !gebaut || gebaut.has(pid)));
     for (const id of Object.keys(vor)) {
       const b = byId.get(id);
       if (!b) continue;
@@ -288,14 +305,15 @@ class WeltDaten {
    * Die Puffer werden bei jedem Aufruf wiederverwendet.
    */
   chunkBlocks(cx, cz) {
-    if (!this._buf) { this._buf = new Uint8Array(SUBS * 4096); this._minP = new Int16Array(256); this._top = new Int16Array(256); this._projCol = new Uint8Array(256); }
-    const bl = this._buf, minP = this._minP, topY = this._top, projCol = this._projCol;
-    bl.fill(0); minP.fill(32767); topY.fill(-32768); projCol.fill(0);
+    if (!this._buf) { this._buf = new Uint8Array(SUBS * 4096); this._minP = new Int16Array(256); this._maxP = new Int16Array(256); this._top = new Int16Array(256); this._projCol = new Uint8Array(256); }
+    const bl = this._buf, minP = this._minP, maxP = this._maxP, topY = this._top, projCol = this._projCol;
+    bl.fill(0); minP.fill(32767); maxP.fill(-32768); topY.fill(-32768); projCol.fill(0);
     const b = this.buckets.get(cx * 65536 + cz);
     if (b) for (const v of b) {
       const pos = (v >> 7) & 255, y = v >> 15;
       projCol[pos] = 1;
       if (y < minP[pos]) minP[pos] = y;
+      if (y > maxP[pos]) maxP[pos] = y;
     }
     const T = this.T, r = this.r, surf = this.surf;
     const set = (pos, y, id) => { bl[((y - Y_MIN) >> 4) * 4096 + pos * 16 + ((y - Y_MIN) & 15)] = id; if (y > topY[pos]) topY[pos] = y; };
@@ -311,7 +329,10 @@ class WeltDaten {
         const kind = surf[i] & 3;
         if (top >= Y_MIN) {
           set(pos, Y_MIN, T.bedrock);
-          if (kind === S_WASSER) {
+          if (projCol[pos] && minP[pos] <= gy) {
+            // Projekt reicht in den Boden (Stadtgrund, Fundamente): darunter nur Fels
+            for (let y = Y_MIN + 1; y <= top; y++) set(pos, y, T.stone);
+          } else if (kind === S_WASSER) {
             for (let y = Y_MIN + 1; y <= top - 5; y++) set(pos, y, T.stone);
             for (let y = Math.max(Y_MIN + 1, top - 4); y <= top - 3; y++) set(pos, y, T.kies);
             for (let y = Math.max(Y_MIN + 1, top - 2); y <= top; y++) set(pos, y, T.wasser);
@@ -326,7 +347,8 @@ class WeltDaten {
         }
         const dy = this.deck.get(i);
         if (dy !== undefined && !projCol[pos] && dy >= Y_MIN && dy <= Y_MAX) { set(pos, dy, T.pflaster); set(pos, dy - 1, T.stone); }
-        if (this.hInfo && !projCol[pos] && top === gy) {
+        // Platzhalter-Haus: Spalte ohne Projekt, oder nur Stadtgrund-Mantel im Boden (Haus noch nicht gebaut)
+        if (this.hInfo && (projCol[pos] ? maxP[pos] < gy : top === gy)) {
           const h = this.hInfo[i];
           if (h) {
             const ht = this.hTop[i], color = this.putz[(h & 7) - 1];

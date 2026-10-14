@@ -195,7 +195,7 @@ test('Projektfelder: Prüfung und Vorrang-Datei', () => {
   assert.equal(pruefeFelder({ ...ok, masken: { k: { gebaeude: [] } } }).length, 1);
   assert.deepEqual(pruefeFelder({ ohneMaske: true }), []);
   const v = wahrzeichenVorrang(REAL_ROOT);
-  assert.equal(v.size, 8);
+  assert.equal(v.size, 19); // Welle 1 (8) und Welle 2 (11)
   assert.equal(v.get('r1461712'), 'palazzo_vecchio');
   assert.equal(v.get('w1394931261'), 'orsanmichele');
   assert.equal(wahrzeichenVorrang(os.tmpdir() + path.sep + 'gibt-es-nicht').size, 0);

@@ -1,8 +1,8 @@
 # 🍀 Modul 3: Vierung & Die drei Tribunen
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 349.479 Blöcke in 222 Bauschritten, Y 65 bis 148, X -54 bis 96, Z -96 bis 96.
-Schrittgröße: kleinster 1.111, mittlerer 1.574, größter 2.092 Blöcke.
+**Statistik (generiert):** 348.730 Blöcke in 224 Bauschritten, Y 65 bis 148, X -54 bis 96, Z -96 bis 96.
+Schrittgröße: kleinster 1.056, mittlerer 1.557, größter 2.092 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md)
 <!-- STATISTIK:END -->

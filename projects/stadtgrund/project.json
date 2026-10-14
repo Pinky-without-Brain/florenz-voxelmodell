@@ -1,0 +1,24 @@
+{
+  "id": "stadtgrund",
+  "title": "Stadtgrund Florenz",
+  "type": "stadtgrund",
+  "generator": "stadtgrund",
+  "unabhaengig": true,
+  "kacheln": {
+    "x0": -3104,
+    "z0": -1488,
+    "groesse": 320,
+    "spalten": 15,
+    "zeilen": 13
+  },
+  "aktiv": [52, 53, 54, 55, 67, 68, 69, 70, 82, 83, 84, 85, 86, 97, 98, 99, 100, 101, 111, 112, 113, 114, 115, 116, 126, 127, 128, 129],
+  "wasser": {
+    "lagen": 2,
+    "bett": 1
+  },
+  "glaettung": {
+    "band": 6,
+    "ruecklauf": 6,
+    "maxDelta": 3
+  }
+}

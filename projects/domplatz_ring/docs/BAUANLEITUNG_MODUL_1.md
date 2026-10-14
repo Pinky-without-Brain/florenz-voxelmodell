@@ -8,36 +8,54 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 39.068 |
-| Bauschritte | 22 |
+| Blöcke | 52.458 |
+| Bauschritte | 31 |
 | Y-Bereich | 66 bis 115 |
 | X-Ausdehnung | -385 bis -346 (40 Blöcke) |
 | Z-Ausdehnung | 218 bis 354 (137 Blöcke) |
 | Kleinster Schritt | 1.232 Blöcke (Schritt 1.17) |
-| Mittlerer Schritt | 1.776 Blöcke |
+| Mittlerer Schritt | 1.692 Blöcke |
 | Größter Schritt | 2.076 Blöcke (Schritt 1.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 16.068 | 41,1 % |
-| Terrakotta | `terracotta` | 7.160 | 18,3 % |
-| Polierter Tuffstein | `polished_tuff` | 5.093 | 13,0 % |
-| Weißer Beton | `white_concrete` | 3.648 | 9,3 % |
-| Tuffstein | `tuff` | 2.931 | 7,5 % |
-| Graues Buntglas | `gray_stained_glass` | 1.705 | 4,4 % |
-| Grüner Beton | `green_concrete` | 1.060 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 850 | 2,2 % |
-| Polierter Andesit | `polished_andesite` | 289 | 0,7 % |
-| Ziegelsteine | `bricks` | 250 | 0,6 % |
+| Terrakotta | `terracotta` | 20.324 | 38,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 16.068 | 30,6 % |
+| Polierter Tuffstein | `polished_tuff` | 5.057 | 9,6 % |
+| Weißer Beton | `white_concrete` | 3.648 | 7,0 % |
+| Tuffstein | `tuff` | 2.925 | 5,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.705 | 3,3 % |
+| Grüner Beton | `green_concrete` | 1.060 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 924 | 1,8 % |
+| Polierter Andesit | `polished_andesite` | 289 | 0,6 % |
+| Ziegelsteine | `bricks` | 250 | 0,5 % |
+| Seelaterne | `sea_lantern` | 96 | 0,2 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 56 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112725476` | Palazzo des Cinquecento an Via dei Medici | 39.068 | 1.1–1.22 |
+| 1 | `w112725476` | Palazzo des Cinquecento an Via dei Medici | 39.038 | 1.1–1.22 |
+| 2 | `w112725476_innen` | Palazzo des Cinquecento an Via dei Medici: Innenausbau | 13.420 | 1.23–1.31 |
 
 ## Bauschritte
 
@@ -79,7 +97,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.445 |
+| Tuffstein | `tuff` | 1.439 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -100,14 +125,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.3 – Palazzo des Cinquecento an Via dei Medici – Teil 3/22 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.742
+- **Blöcke:** 1.733
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.742 |
+| Polierter Tuffstein | `polished_tuff` | 1.733 |
 
 **Beschreibung**
 
@@ -128,14 +153,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.4 – Palazzo des Cinquecento an Via dei Medici – Teil 4/22 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.608
+- **Blöcke:** 1.600
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.608 |
+| Polierter Tuffstein | `polished_tuff` | 1.600 |
 
 **Beschreibung**
 
@@ -156,14 +181,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.5 – Palazzo des Cinquecento an Via dei Medici – Teil 5/22 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.743
+- **Blöcke:** 1.730
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.743 |
+| Polierter Tuffstein | `polished_tuff` | 1.724 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -709,3 +741,318 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 **Fakt**
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.23 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 1/9 (Y 67–77)
+
+- **Y-Bereich:** 67 bis 77
+- **Blöcke:** 1.495
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.413 |
+| Seelaterne | `sea_lantern` | 33 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.24 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 2/9 (Y 77–77)
+
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 1.560
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.552 |
+| Seelaterne | `sea_lantern` | 8 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.25 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 3/9 (Y 77–77)
+
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 1.430
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.423 |
+| Seelaterne | `sea_lantern` | 7 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.26 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 4/9 (Y 78–86)
+
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 1.473
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.413 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.27 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 5/9 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.560
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.552 |
+| Seelaterne | `sea_lantern` | 8 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.28 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 6/9 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.430
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.423 |
+| Seelaterne | `sea_lantern` | 7 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.29 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 7/9 (Y 87–95)
+
+- **Y-Bereich:** 87 bis 95
+- **Blöcke:** 1.473
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.413 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.30 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 8/9 (Y 95–95)
+
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 1.560
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.552 |
+| Seelaterne | `sea_lantern` | 8 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 1.31 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 9/9 (Y 95–96)
+
+- **Y-Bereich:** 95 bis 96
+- **Blöcke:** 1.439
+- **Bauteile:** `w112725476_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.423 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

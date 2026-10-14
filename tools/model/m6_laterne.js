@@ -130,7 +130,7 @@ function build(ctx) {
 
   // ---- 4) Kegeldach: Achteckpyramide a 9 -> 1, Y 275..283 ------------------------------------
   const dach = ctx.part('kegeldach', SYM8);
-  const rc = [...ctx.roofs.octPyramid({ cx: 0, cz: 0, a0: LN.halfFlat, y0: CONE_Y0, a1: 1, y1: CONE_Y1 })];
+  const rc = [...ctx.roofs.octPyramid({ cx: 0, cz: 0, a0: LN.halfFlat, y0: CONE_Y0, a1: 1, y1: CONE_Y1, solid: true })]; // B5: massiv (dicht)
   rc.sort((p, q) => p.y - q.y || p.x - q.x || p.z - q.z);
   dach.fill(rc, (x, y, z) => (rho(x, z) >= 2 && ctx.dome.cornerAngleDelta(x, z) <= CONE_EDGE_DELTA
     ? 'chiseled_quartz' : 'smooth_quartz'));
@@ -150,6 +150,23 @@ function build(ctx) {
   kc.push({ x: 0, y: CROSS_BAR_Y, z: -1 }, { x: 0, y: CROSS_BAR_Y, z: 1 });
   kc.sort((p, q) => p.y - q.y || p.x - q.x || p.z - q.z);
   kk.fill(kc, 'gold_block');
+
+  // B5: Inneres der Laterne (Sockel, Tempel, Kegel) ist bewusst unzugänglich; der Kuppelaufstieg wird nicht modelliert
+  const innen = [];
+  for (let y = BASE_Y; y <= CONE_Y1; y++) for (let x = -ENTAB_RHO; x <= ENTAB_RHO; x++) for (let z = -ENTAB_RHO; z <= ENTAB_RHO; z++) {
+    if (ctx.shapes.inOctagon(x, z, ENTAB_RHO) && !ctx.grid.has(x, y, z)) innen.push({ x, y, z });
+  }
+  ctx.unzugaenglich(innen, 'Inneres der Laterne: im Modell ohne Kuppelaufstieg erreichbar nur über Dach und Kuppel, nicht begehbar');
+  // Offene Bereiche außen an der Laterne (R14): Umgang zwischen Tempelwand und vorkragendem Gebälk bzw. Voluten,
+  // Luft unter den Kreuzarmen
+  const umgang = innen.filter((c) => c.y >= TEMPLE_Y0 && c.y <= LN.templeTopY && rho(c.x, c.z) > LN.halfFlat);
+  ctx.oeffnung(umgang, 'loggia');
+  ctx.oeffnung([{ x: 0, y: CROSS_BAR_Y - 1, z: -1 }, { x: 0, y: CROSS_BAR_Y - 1, z: 1 }], 'scharte');
+  const unterKugel = [];
+  for (let y = CONE_Y0; y < SPHERE_Y; y++) for (let x = -LN.sphereRadius - 1; x <= LN.sphereRadius + 1; x++) for (let z = -LN.sphereRadius - 1; z <= LN.sphereRadius + 1; z++) {
+    if (!ctx.grid.has(x, y, z)) unterKugel.push({ x, y, z });
+  }
+  ctx.oeffnung(unterKugel, 'loggia'); // außen, unter der Kugel
 }
 
 module.exports = {

@@ -37,10 +37,21 @@ function einheiten(ctx) {
   const typ = ctx.project && ctx.project.type;
   const out = [];
   if (typ === 'quartier') {
-    for (const m of world.modules) for (const p of m.parts) {
-      if (!p.keys.length) continue;
-      out.push({ id: p.id, modul: m.module, label: `Modul ${m.module}, Haus ${p.id}`, keys: p.keys, alle: false,
-        grundriss: (world.grundrisse && world.grundrisse.get(`${m.module}|${p.id}`)) || null });
+    // Je Haus eine Einheit; der Innenausbau "<id>_innen" gehört zum Haus <id>
+    for (const m of world.modules) {
+      const jeHaus = new Map();
+      for (const p of m.parts) {
+        if (!p.keys.length) continue;
+        const basis = p.id.endsWith('_innen') ? p.id.slice(0, -6) : p.id;
+        let u = jeHaus.get(basis);
+        if (!u) {
+          u = { id: basis, modul: m.module, label: `Modul ${m.module}, Haus ${basis}`, keys: [], alle: false,
+            grundriss: (world.grundrisse && world.grundrisse.get(`${m.module}|${basis}`)) || null };
+          jeHaus.set(basis, u);
+          out.push(u);
+        }
+        for (const k of p.keys) u.keys.push(k);
+      }
     }
   } else if (typ === 'wahrzeichen' || !typ) {
     const keys = [];
@@ -52,6 +63,21 @@ function einheiten(ctx) {
 
 function maskeVon(ctx) {
   const p = ctx.project;
+  // Dom (Registry-Projekt, B5): Grundriss aus Modul 0 (footprint) als Maske
+  if (p && p.legacy && p.modelDir) {
+    try {
+      const fp = require(path.join(p.modelDir, 'm0_fundament.js')).footprint;
+      // Um 4 Zellen eingezogen: Reliefnischen, Blendarkaden und Laibungen der äußeren vier Wandlagen sind keine
+      // Lecks (alle Außenmauern des Doms sind mindestens 4 dick, Durchbrüche bleiben sichtbar)
+      const EIN = 4;
+      if (typeof fp === 'function') {
+        return { innen: (x, z) => {
+          for (let dx = -EIN; dx <= EIN; dx++) for (let dz = -EIN; dz <= EIN; dz++) if (!fp(x + dx, z + dz)) return false;
+          return true;
+        } };
+      }
+    } catch (e) { /* ohne Grundriss: Ersatz über Säulen */ }
+  }
   const json = p && p.json;
   if (!json || json.ohneMaske === true || !Array.isArray(json.gebaeude) || p.type !== 'wahrzeichen') return null;
   try {

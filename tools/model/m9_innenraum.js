@@ -103,6 +103,18 @@ const ALTAR_Y0 = WALK, ALTAR_Y1 = WALK + 1;    // Y 65..66
 const CROSS_Y0 = ALTAR_Y1 + 1, CROSS_Y1 = CROSS_Y0 + 7; // Y 67..74
 const ARMS_Y = CROSS_Y1 - 2;                   // Querbalken auf Y 72
 
+// --- Abgang zur Krypta (B5) ---------------------------------------------------
+// Gerade Treppe im südlichen Seitenschiff der Krypta, Aufstieg nach Westen: unterste Stufe bei x −180 auf dem
+// Kryptaboden (Stehhöhe Y 58), 7 Stufen bis zum Langhausboden (Oberkante Y 64). Die oberste Stufe liegt in der
+// Bodenplatte (Hoheitsgebiet Modul 0) und wird dort gesetzt; darüber hat Modul 0 ein Treppenloch.
+const ABGANG = { start: { x: -180, y: FLOOR_Y + 1, z: 13 }, richtung: 'w', stufen: L.floorY - FLOOR_Y, breite: 2 };
+function abgang(palette) {
+  const T = require('../wahrzeichen/treppe.js');
+  const b = T.geradeTreppe({ ...ABGANG, rolle: 'pietra_serena' });
+  const loch = T.treppenloch(b.lauf, 4).filter((c) => c.y === L.floorY); // 4: Kopffreiheit auch beim Hinabgehen
+  return { stufen: b, loch };
+}
+
 function* area(x0, x1, z0, z1, pred, y) {
   for (let x = x0; x <= x1; x++) for (let z = z0; z <= z1; z++) if (pred(x, z)) yield { x, y, z };
 }
@@ -115,7 +127,8 @@ function build(ctx) {
   const boden = ctx.part('krypta_boden');
   const mos = mosaic(patterns);
   boden.fill(area(bx0, bx1, bz0, bz1,
-    (x, z) => inOutline(x, z) && !isWallColumn(x, z) && !inPillar(x, z) && !inGrave(x, z), FLOOR_Y), mos);
+    (x, z) => inOutline(x, z) && !isWallColumn(x, z) && !inPillar(x, z) && !inGrave(x, z), FLOOR_Y),
+    (x, y, z) => (x % 8 === 0 && z % 8 === 4 ? 'sea_lantern' : mos(x, y, z))); // Licht (B5) im Mosaik
 
   // 1 Mauern: Y 57..61, flächig auf dem Grubenboden
   const mauern = ctx.part('krypta_mauern');
@@ -148,6 +161,33 @@ function build(ctx) {
         !(x < 0 && Math.abs(z) <= DOOR_HALF), y), screenMaterial);
   }
 
+  // Treppe zur Krypta: Stufen unter der Bodenplatte samt Auflagern (die oberste Stufe setzt Modul 0)
+  const tr = ctx.part('krypta_treppe');
+  const { stufen } = abgang(ctx.palette);
+  const voll = 'smooth_stone';
+  for (const c of stufen) {
+    if (c.y >= L.floorY) continue;
+    tr.set(c.x, c.y, c.z, c.typ);
+    for (let y = FLOOR_Y + 1; y < c.y; y++) tr.set(c.x, y, c.z, voll);
+  }
+
+  // Stufe zum erhöhten Chorboden (Presbyterium, 2 Lagen) und Grabungsgrube außerhalb der Mauern
+  for (let z = -NAVE_HALF; z <= NAVE_HALF; z++) tr.set(PRESB_X - 1, FLOOR_Y + 1, z, ctx.palette.treppe('antik', 'o'));
+  const grube = [];
+  for (let x = bx0; x <= bx1; x++) for (let z = bz0; z <= bz1; z++) {
+    if (inOutline(x, z)) continue;
+    for (let y = FLOOR_Y; y <= CEIL_Y; y++) if (!ctx.grid.has(x, y, z)) grube.push({ x, y, z });
+  }
+  ctx.unzugaenglich(grube, 'Grabungsgrube außerhalb der Mauern von Santa Reparata: Erdreich der Ausgrabung, nicht begehbar');
+
+  // B5: Mauerkrone der Chorschranke (Stehfläche auf der Schranke unter der Kuppel) bewusst unzugänglich
+  const krone = [];
+  for (let x = -SCREEN_OUT; x <= SCREEN_OUT; x++) for (let z = -SCREEN_OUT; z <= SCREEN_OUT; z++) {
+    if (!inOctagon(x, z, SCREEN_OUT) || inOctagon(x, z, SCREEN_IN - 1)) continue;
+    for (let y = SCREEN_Y1 + 1; y <= SCREEN_Y1 + 3; y++) krone.push({ x, y, z });
+  }
+  ctx.unzugaenglich(krone, 'Mauerkrone der Chorschranke: Brüstung, kein Standplatz');
+
   // 6 Hochaltar mit Kruzifix
   const altar = ctx.part('hochaltar', { symmetry: { order: 4, cx: 0, cz: 0 } });
   for (let y = ALTAR_Y0; y <= ALTAR_Y1; y++) {
@@ -160,4 +200,4 @@ function build(ctx) {
   for (const z of [-2, -1, 1, 2]) altar.set(0, ARMS_Y, z, 'dark_oak_planks');
 }
 
-module.exports = { module: 9, build, _internal: { isWallColumn, inOutline, inPillar, inGrave } };
+module.exports = { module: 9, build, ABGANG, abgang, _internal: { isWallColumn, inOutline, inPillar, inGrave } };

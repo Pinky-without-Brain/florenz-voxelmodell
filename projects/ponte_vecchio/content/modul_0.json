@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Gründung",
+  "subtitle": "Pfeiler, Vorköpfe und Widerlager",
+  "icon": "🪨",
+  "parts": {
+    "pfeiler": {
+      "title": "Brückenpfeiler",
+      "description": "Die beiden Pfeiler stehen im Arno (u 55..63 und 118..126), 39 Blöcke breit, von Y 47 bis Y 62. Außen Rustika, innen Pietra forte.",
+      "tip": "Baue die Pfeiler zuerst; der Stadtgrund lässt ihre Spalten frei, das Flussbett liegt dazwischen.",
+      "caution": "Die Pfeiler beginnen unter dem Wasserspiegel (Y 50). Erst Pfeiler, dann Bögen.",
+      "fact": "Der Ponte Vecchio wurde 1345 nach einem Hochwasser neu gebaut, vermutlich von Neri di Fioravanti."
+    },
+    "vorkoepfe": {
+      "title": "Vorköpfe",
+      "description": "An beiden Seiten jedes Pfeilers ein dreieckiger Vorkopf aus Rustika (7, 5 und 3 Zellen), Y 47 bis 56.",
+      "tip": "Die Spitze zeigt nach außen in die Strömung.",
+      "caution": "Nur bis Y 56; darüber kragen die Läden aus.",
+      "fact": "Vorköpfe teilen das Wasser und schützen die Pfeiler vor Treibgut."
+    },
+    "widerlager_nord": {
+      "title": "Widerlager Nord",
+      "description": "Am Lungarno füllst du unter Fahrbahn und Läden alles vom Gelände bis Y 62 mit Mauerwerk, am Rand Rustika.",
+      "tip": "Folge der Uferböschung von oben nach unten.",
+      "caution": "Nur in der Maske der Brücke bauen; die Ufermauer gehört zum Stadtgrund.",
+      "fact": "Das Nordende der Brücke liegt direkt an den Uffizien."
+    },
+    "widerlager_sued": {
+      "title": "Widerlager Süd",
+      "description": "Am Oltrarno-Ufer der gleiche Unterbau bis Y 62: eine lange Rampe vom Ufer zur Fahrbahn.",
+      "tip": "Das Gelände steigt hier von Y 51 auf 64; baue Lage für Lage.",
+      "caution": "Unter dem Turm baut Modul 5 das Fundament.",
+      "fact": "Die Via de' Guicciardini führt von hier zum Palazzo Pitti."
+    }
+  }
+}

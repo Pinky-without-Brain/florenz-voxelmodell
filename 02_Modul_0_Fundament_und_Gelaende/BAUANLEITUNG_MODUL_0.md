@@ -8,39 +8,54 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.661 |
-| Bauschritte | 27 |
+| Blöcke | 46.807 |
+| Bauschritte | 28 |
 | Y-Bereich | 56 bis 64 |
 | X-Ausdehnung | -347 bis 96 (444 Blöcke) |
 | Z-Ausdehnung | -96 bis 96 (193 Blöcke) |
-| Kleinster Schritt | 841 Blöcke (Schritt 0.25) |
-| Mittlerer Schritt | 1.728 Blöcke |
-| Größter Schritt | 2.060 Blöcke (Schritt 0.6) |
+| Kleinster Schritt | 154 Blöcke (Schritt 0.28) |
+| Mittlerer Schritt | 1.672 Blöcke |
+| Größter Schritt | 2.059 Blöcke (Schritt 0.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 12.084 | 25,9 % |
-| Glatter Quarzblock | `smooth_quartz` | 11.775 | 25,2 % |
-| Polierter Granit | `polished_granite` | 9.717 | 20,8 % |
-| Bruchstein | `cobblestone` | 7.779 | 16,7 % |
-| Calcit | `calcite` | 2.920 | 6,3 % |
+| Dunkler Prismarin | `dark_prismarine` | 11.971 | 25,6 % |
+| Glatter Quarzblock | `smooth_quartz` | 11.665 | 24,9 % |
+| Polierter Granit | `polished_granite` | 9.629 | 20,6 % |
+| Bruchstein | `cobblestone` | 7.779 | 16,6 % |
+| Calcit | `calcite` | 2.868 | 6,1 % |
 | Steinziegel | `stone_bricks` | 2.364 | 5,1 % |
-| Goldblock | `gold_block` | 22 | 0,0 % |
+| Seelaterne | `sea_lantern` | 354 | 0,8 % |
+| Treppe aus glattem Quarz, Aufstieg nach Osten | `smooth_quartz_stairs@o` | 89 | 0,2 % |
+| Treppe aus glattem Quarz, Aufstieg nach Norden | `smooth_quartz_stairs@n` | 28 | 0,1 % |
+| Treppe aus glattem Quarz, Aufstieg nach Süden | `smooth_quartz_stairs@s` | 28 | 0,1 % |
+| Goldblock | `gold_block` | 21 | 0,0 % |
+| Treppe aus glattem Quarz, Aufstieg nach Westen | `smooth_quartz_stairs@w` | 9 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus glattem Quarz | `smooth_quartz_stairs` | 154 |
+| Steintreppe | `stone_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `krypta_grube` | Krypta-Grube | 7.891 | 0.1–0.5 |
-| 2 | `boden_langhaus` | Boden des Langhauses | 14.418 | 0.6–0.12 |
-| 3 | `boden_vierung` | Boden der Vierung | 11.661 | 0.13–0.18 |
-| 4 | `boden_tribune_nord` | Boden der Nordtribune | 2.644 | 0.19–0.20 |
-| 5 | `boden_tribune_ost` | Boden der Osttribune | 2.644 | 0.21–0.22 |
-| 6 | `boden_tribune_sued` | Boden der Südtribune | 2.644 | 0.23–0.24 |
-| 7 | `boden_campanile` | Boden des Campanile | 841 | 0.25 |
-| 8 | `boden_baptisterium` | Boden des Baptisteriums | 3.918 | 0.26–0.27 |
+| 2 | `boden_langhaus` | Boden des Langhauses | 14.408 | 0.6–0.12 |
+| 3 | `krypta_abgang` | Oberste Stufe zur Krypta | 2 | 0.13 |
+| 4 | `boden_vierung` | Boden der Vierung | 11.661 | 0.13–0.18 |
+| 5 | `boden_tribune_nord` | Boden der Nordtribune | 2.644 | 0.19–0.20 |
+| 6 | `boden_tribune_ost` | Boden der Osttribune | 2.644 | 0.21–0.22 |
+| 7 | `boden_tribune_sued` | Boden der Südtribune | 2.644 | 0.23–0.24 |
+| 8 | `boden_campanile` | Boden des Campanile | 841 | 0.25 |
+| 9 | `boden_baptisterium` | Boden des Baptisteriums | 3.918 | 0.26–0.27 |
+| 10 | `aussenstufen` | Stufen vor den Eingängen | 154 | 0.28 |
 
 ## Bauschritte
 
@@ -190,7 +205,7 @@ Unter dem Dom liegen die Reste der Vorgängerkirche Santa Reparata. Sie wurden b
 ### Schritt 0.6 – Boden des Langhauses – Teil 1/7 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.060
+- **Blöcke:** 2.058
 - **Bauteile:** `boden_langhaus`
 
 **Teileliste**
@@ -198,10 +213,11 @@ Unter dem Dom liegen die Reste der Vorgängerkirche Santa Reparata. Sie wurden b
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 590 |
-| Polierter Granit | `polished_granite` | 438 |
-| Calcit | `calcite` | 392 |
-| Dunkler Prismarin | `dark_prismarine` | 355 |
+| Polierter Granit | `polished_granite` | 429 |
+| Calcit | `calcite` | 388 |
+| Dunkler Prismarin | `dark_prismarine` | 352 |
 | Glatter Quarzblock | `smooth_quartz` | 285 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -229,11 +245,12 @@ Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 578 |
-| Dunkler Prismarin | `dark_prismarine` | 444 |
-| Calcit | `calcite` | 433 |
-| Glatter Quarzblock | `smooth_quartz` | 328 |
+| Polierter Granit | `polished_granite` | 573 |
+| Dunkler Prismarin | `dark_prismarine` | 440 |
+| Calcit | `calcite` | 424 |
+| Glatter Quarzblock | `smooth_quartz` | 330 |
 | Steinziegel | `stone_bricks` | 276 |
+| Seelaterne | `sea_lantern` | 16 |
 
 **Beschreibung**
 
@@ -254,18 +271,19 @@ Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von
 ### Schritt 0.8 – Boden des Langhauses – Teil 3/7 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.060
+- **Blöcke:** 2.058
 - **Bauteile:** `boden_langhaus`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 600 |
-| Dunkler Prismarin | `dark_prismarine` | 437 |
-| Calcit | `calcite` | 432 |
+| Polierter Granit | `polished_granite` | 588 |
+| Dunkler Prismarin | `dark_prismarine` | 433 |
+| Calcit | `calcite` | 427 |
 | Glatter Quarzblock | `smooth_quartz` | 315 |
 | Steinziegel | `stone_bricks` | 276 |
+| Seelaterne | `sea_lantern` | 19 |
 
 **Beschreibung**
 
@@ -286,18 +304,19 @@ Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von
 ### Schritt 0.9 – Boden des Langhauses – Teil 4/7 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.060
+- **Blöcke:** 2.058
 - **Bauteile:** `boden_langhaus`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 606 |
-| Dunkler Prismarin | `dark_prismarine` | 447 |
-| Calcit | `calcite` | 405 |
-| Glatter Quarzblock | `smooth_quartz` | 326 |
+| Polierter Granit | `polished_granite` | 604 |
+| Dunkler Prismarin | `dark_prismarine` | 441 |
+| Calcit | `calcite` | 399 |
+| Glatter Quarzblock | `smooth_quartz` | 324 |
 | Steinziegel | `stone_bricks` | 276 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -318,18 +337,19 @@ Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von
 ### Schritt 0.10 – Boden des Langhauses – Teil 5/7 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.060
+- **Blöcke:** 2.058
 - **Bauteile:** `boden_langhaus`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 606 |
-| Dunkler Prismarin | `dark_prismarine` | 451 |
-| Calcit | `calcite` | 394 |
-| Glatter Quarzblock | `smooth_quartz` | 333 |
+| Polierter Granit | `polished_granite` | 599 |
+| Dunkler Prismarin | `dark_prismarine` | 449 |
+| Calcit | `calcite` | 386 |
+| Glatter Quarzblock | `smooth_quartz` | 334 |
 | Steinziegel | `stone_bricks` | 276 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -357,11 +377,12 @@ Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 604 |
-| Dunkler Prismarin | `dark_prismarine` | 436 |
-| Calcit | `calcite` | 432 |
+| Polierter Granit | `polished_granite` | 597 |
+| Dunkler Prismarin | `dark_prismarine` | 433 |
+| Calcit | `calcite` | 421 |
 | Glatter Quarzblock | `smooth_quartz` | 311 |
 | Steinziegel | `stone_bricks` | 276 |
+| Seelaterne | `sea_lantern` | 21 |
 
 **Beschreibung**
 
@@ -382,18 +403,19 @@ Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von
 ### Schritt 0.12 – Boden des Langhauses – Teil 7/7 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.060
+- **Blöcke:** 2.058
 - **Bauteile:** `boden_langhaus`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 579 |
-| Dunkler Prismarin | `dark_prismarine` | 442 |
-| Calcit | `calcite` | 432 |
-| Glatter Quarzblock | `smooth_quartz` | 325 |
+| Polierter Granit | `polished_granite` | 577 |
+| Dunkler Prismarin | `dark_prismarine` | 438 |
+| Calcit | `calcite` | 423 |
+| Glatter Quarzblock | `smooth_quartz` | 324 |
 | Steinziegel | `stone_bricks` | 282 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -411,35 +433,43 @@ Die Wandzonen aus Steinziegeln sind kein Fehler. Dort stehen später die Mauern,
 
 Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von Baccio d'Agnolo begonnen. Seine Muster aus weißem, grünem und rotem Marmor zeigen die Farben der toskanischen Steinbrüche.
 
-### Schritt 0.13 – Boden der Vierung – Teil 1/6 (Y 64–64)
+### Schritt 0.13 – Oberste Stufe zur Krypta & Boden der Vierung – Teil 1/6 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.961
-- **Bauteile:** `boden_vierung`
+- **Blöcke:** 1.963
+- **Bauteile:** `krypta_abgang`, `boden_vierung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 664 |
-| Glatter Quarzblock | `smooth_quartz` | 652 |
-| Polierter Granit | `polished_granite` | 645 |
+| Dunkler Prismarin | `dark_prismarine` | 654 |
+| Glatter Quarzblock | `smooth_quartz` | 644 |
+| Polierter Granit | `polished_granite` | 643 |
+| Seelaterne | `sea_lantern` | 20 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
 
-Du füllst den Ostkomplex auf Y 64: die Vierung mit ihren Ecken und den Ansätzen der Sakristeien (|X| ≤ 54, |Z| ≤ 54, |X| + |Z| ≤ 98). Um den Goldblock im Nullpunkt (0 | 0) liegt eine Rosette. Darum laufen Achteckbänder, drei Blöcke breit, aus Quarz, dunklem Prismarin und rotem Granit.
+Im Mittelschiff bleibt über der Krypta-Treppe ein Loch von 4 × 2 Blöcken im Fußboden frei (X −182 bis −185, Z 12 bis 13). Westlich davon setzt du in die Bodenplatte (Y 64) die oberste Stufe der Kryptatreppe: zwei Steintreppen mit Aufstieg nach Westen. Du füllst den Ostkomplex auf Y 64: die Vierung mit ihren Ecken und den Ansätzen der Sakristeien (|X| ≤ 54, |Z| ≤ 54, |X| + |Z| ≤ 98). Um den Goldblock im Nullpunkt (0 | 0) liegt eine Rosette. Darum laufen Achteckbänder, drei Blöcke breit, aus Quarz, dunklem Prismarin und rotem Granit.
 
 **Tipp**
 
-Beginne mit dem Goldblock in der Mitte und arbeite Ring für Ring nach außen. Jeder Ring ist ein Achteck, nicht ein Quadrat.
+Lass das Treppenloch beim Verlegen des Kosmatenbodens gleich aus, dann musst du nichts wieder abbauen. Beginne mit dem Goldblock in der Mitte und arbeite Ring für Ring nach außen. Jeder Ring ist ein Achteck, nicht ein Quadrat.
 
 **Achtung**
 
-Das Muster ist an allen vier Achsen und Diagonalen gespiegelt. Prüfe nach jedem Ring, ob alle acht Seiten gleich aussehen.
+Das Loch ist eine Absturzkante. Die übrigen sechs Stufen setzt du erst in Modul 9 von unten her. Das Muster ist an allen vier Achsen und Diagonalen gespiegelt. Prüfe nach jedem Ring, ob alle acht Seiten gleich aussehen.
 
 **Fakt**
 
-Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister Arnolfo di Cambio. Über der Vierung wölbte später Brunelleschi seine Kuppel.
+Die Reste von Santa Reparata wurden ab 1965 ausgegraben. Heute steigt man aus dem rechten Seitenschiff in die Krypta hinab. Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister Arnolfo di Cambio. Über der Vierung wölbte später Brunelleschi seine Kuppel.
 
 ### Schritt 0.14 – Boden der Vierung – Teil 2/6 (Y 64–64)
 
@@ -451,9 +481,10 @@ Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister A
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 676 |
-| Dunkler Prismarin | `dark_prismarine` | 658 |
-| Glatter Quarzblock | `smooth_quartz` | 628 |
+| Polierter Granit | `polished_granite` | 668 |
+| Dunkler Prismarin | `dark_prismarine` | 654 |
+| Glatter Quarzblock | `smooth_quartz` | 618 |
+| Seelaterne | `sea_lantern` | 22 |
 
 **Beschreibung**
 
@@ -481,9 +512,10 @@ Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister A
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 653 |
+| Glatter Quarzblock | `smooth_quartz` | 648 |
 | Polierter Granit | `polished_granite` | 607 |
-| Dunkler Prismarin | `dark_prismarine` | 593 |
+| Dunkler Prismarin | `dark_prismarine` | 587 |
+| Seelaterne | `sea_lantern` | 11 |
 
 **Beschreibung**
 
@@ -511,10 +543,10 @@ Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister A
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 683 |
-| Dunkler Prismarin | `dark_prismarine` | 639 |
+| Glatter Quarzblock | `smooth_quartz` | 672 |
 | Polierter Granit | `polished_granite` | 639 |
-| Goldblock | `gold_block` | 1 |
+| Dunkler Prismarin | `dark_prismarine` | 629 |
+| Seelaterne | `sea_lantern` | 22 |
 
 **Beschreibung**
 
@@ -542,9 +574,10 @@ Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister A
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 676 |
-| Dunkler Prismarin | `dark_prismarine` | 658 |
-| Glatter Quarzblock | `smooth_quartz` | 628 |
+| Polierter Granit | `polished_granite` | 668 |
+| Dunkler Prismarin | `dark_prismarine` | 654 |
+| Glatter Quarzblock | `smooth_quartz` | 618 |
+| Seelaterne | `sea_lantern` | 22 |
 
 **Beschreibung**
 
@@ -572,9 +605,10 @@ Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister A
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 664 |
-| Glatter Quarzblock | `smooth_quartz` | 652 |
-| Polierter Granit | `polished_granite` | 645 |
+| Dunkler Prismarin | `dark_prismarine` | 654 |
+| Glatter Quarzblock | `smooth_quartz` | 644 |
+| Polierter Granit | `polished_granite` | 643 |
+| Seelaterne | `sea_lantern` | 20 |
 
 **Beschreibung**
 
@@ -602,9 +636,10 @@ Die Grundsteinlegung des Doms war am 8. September 1296, geplant vom Baumeister A
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 605 |
-| Glatter Quarzblock | `smooth_quartz` | 556 |
-| Polierter Granit | `polished_granite` | 140 |
+| Dunkler Prismarin | `dark_prismarine` | 603 |
+| Glatter Quarzblock | `smooth_quartz` | 549 |
+| Polierter Granit | `polished_granite` | 138 |
+| Seelaterne | `sea_lantern` | 11 |
 
 **Beschreibung**
 
@@ -632,9 +667,10 @@ Die Kuppel von Santa Maria del Fiore wurde am 25. März 1436 von Papst Eugen IV.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 699 |
-| Dunkler Prismarin | `dark_prismarine` | 497 |
-| Polierter Granit | `polished_granite` | 147 |
+| Glatter Quarzblock | `smooth_quartz` | 694 |
+| Dunkler Prismarin | `dark_prismarine` | 490 |
+| Polierter Granit | `polished_granite` | 144 |
+| Seelaterne | `sea_lantern` | 15 |
 
 **Beschreibung**
 
@@ -662,9 +698,10 @@ Die Kuppel von Santa Maria del Fiore wurde am 25. März 1436 von Papst Eugen IV.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 683 |
-| Dunkler Prismarin | `dark_prismarine` | 574 |
-| Polierter Granit | `polished_granite` | 93 |
+| Glatter Quarzblock | `smooth_quartz` | 676 |
+| Dunkler Prismarin | `dark_prismarine` | 568 |
+| Polierter Granit | `polished_granite` | 92 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -692,9 +729,10 @@ Brunelleschis Kuppel wurde ohne durchgehendes Lehrgerüst aus Holz gewölbt. Das
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 572 |
-| Dunkler Prismarin | `dark_prismarine` | 528 |
-| Polierter Granit | `polished_granite` | 194 |
+| Glatter Quarzblock | `smooth_quartz` | 567 |
+| Dunkler Prismarin | `dark_prismarine` | 525 |
+| Polierter Granit | `polished_granite` | 190 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Beschreibung**
 
@@ -722,9 +760,10 @@ Brunelleschis Kuppel wurde ohne durchgehendes Lehrgerüst aus Holz gewölbt. Das
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 605 |
-| Glatter Quarzblock | `smooth_quartz` | 556 |
-| Polierter Granit | `polished_granite` | 140 |
+| Dunkler Prismarin | `dark_prismarine` | 603 |
+| Glatter Quarzblock | `smooth_quartz` | 549 |
+| Polierter Granit | `polished_granite` | 138 |
+| Seelaterne | `sea_lantern` | 11 |
 
 **Beschreibung**
 
@@ -752,9 +791,10 @@ Der Name „Santa Maria del Fiore“ bedeutet „Heilige Maria von der Blume“.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 699 |
-| Dunkler Prismarin | `dark_prismarine` | 497 |
-| Polierter Granit | `polished_granite` | 147 |
+| Glatter Quarzblock | `smooth_quartz` | 694 |
+| Dunkler Prismarin | `dark_prismarine` | 490 |
+| Polierter Granit | `polished_granite` | 144 |
+| Seelaterne | `sea_lantern` | 15 |
 
 **Beschreibung**
 
@@ -782,8 +822,9 @@ Der Name „Santa Maria del Fiore“ bedeutet „Heilige Maria von der Blume“.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 421 |
-| Dunkler Prismarin | `dark_prismarine` | 420 |
+| Glatter Quarzblock | `smooth_quartz` | 418 |
+| Dunkler Prismarin | `dark_prismarine` | 417 |
+| Seelaterne | `sea_lantern` | 6 |
 
 **Beschreibung**
 
@@ -811,9 +852,10 @@ Giotto begann 1334 den Bau des Campanile und starb 1337. Seine Nachfolger Andrea
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 709 |
-| Dunkler Prismarin | `dark_prismarine` | 683 |
-| Polierter Granit | `polished_granite` | 558 |
+| Glatter Quarzblock | `smooth_quartz` | 699 |
+| Dunkler Prismarin | `dark_prismarine` | 676 |
+| Polierter Granit | `polished_granite` | 553 |
+| Seelaterne | `sea_lantern` | 22 |
 | Goldblock | `gold_block` | 3 |
 
 **Beschreibung**
@@ -842,9 +884,10 @@ Im Boden des Baptisteriums San Giovanni ist ein Tierkreis aus Marmor eingelegt, 
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 787 |
-| Glatter Quarzblock | `smooth_quartz` | 761 |
-| Polierter Granit | `polished_granite` | 399 |
+| Dunkler Prismarin | `dark_prismarine` | 781 |
+| Glatter Quarzblock | `smooth_quartz` | 752 |
+| Polierter Granit | `polished_granite` | 395 |
+| Seelaterne | `sea_lantern` | 19 |
 | Goldblock | `gold_block` | 18 |
 
 **Beschreibung**
@@ -862,3 +905,40 @@ Die Scarsella ist ein Rechteck und gehört nicht zum Achteck. Setze an der Nahts
 **Fakt**
 
 Im Boden des Baptisteriums San Giovanni ist ein Tierkreis aus Marmor eingelegt, den man dort bis heute sehen kann.
+
+### Schritt 0.28 – Stufen vor den Eingängen
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 154
+- **Bauteile:** `aussenstufen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus glattem Quarz, Aufstieg nach Osten | `smooth_quartz_stairs@o` | 89 |
+| Treppe aus glattem Quarz, Aufstieg nach Norden | `smooth_quartz_stairs@n` | 28 |
+| Treppe aus glattem Quarz, Aufstieg nach Süden | `smooth_quartz_stairs@s` | 28 |
+| Treppe aus glattem Quarz, Aufstieg nach Westen | `smooth_quartz_stairs@w` | 9 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus glattem Quarz | `smooth_quartz_stairs` | 154 |
+
+**Beschreibung**
+
+Vor jedem Eingang liegt eine Stufe aus Marmor-Treppenblöcken auf Y 64, eine Stufe über dem Platz: über die ganze Breite der Westfassade (X −217), vor den beiden Seitenportalen des Langhauses, vor dem Nord- und dem Südportal des Baptisteriums und vor der Tür des Campanile. Der Aufstieg zeigt immer zur Tür.
+
+**Tipp**
+
+Lege die Stufen zum Schluss, wenn die Portale stehen. So siehst du genau, wo die Türen sind.
+
+**Achtung**
+
+Die Treppenblöcke müssen mit der hohen Seite zur Tür zeigen, sonst stolpert man.
+
+**Fakt**
+
+Vor der Westfassade liegt der Sagrato, eine leicht erhöhte Plattform mit Stufen, auf der früher die Prozessionen ankamen.

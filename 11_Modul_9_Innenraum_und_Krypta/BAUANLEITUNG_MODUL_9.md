@@ -8,31 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 6.409 |
+| Blöcke | 6.468 |
 | Bauschritte | 4 |
 | Y-Bereich | 57 bis 74 |
 | X-Ausdehnung | -202 bis 17 (220 Blöcke) |
 | Z-Ausdehnung | -19 bis 19 (39 Blöcke) |
 | Kleinster Schritt | 1.256 Blöcke (Schritt 9.2) |
-| Mittlerer Schritt | 1.602 Blöcke |
+| Mittlerer Schritt | 1.617 Blöcke |
 | Größter Schritt | 1.798 Blöcke (Schritt 9.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Bemooste Steinziegel | `mossy_stone_bricks` | 2.037 | 31,8 % |
-| Rote Keramik | `red_terracotta` | 1.055 | 16,5 % |
-| Glatter Quarzblock | `smooth_quartz` | 1.039 | 16,2 % |
-| Bruchstein | `cobblestone` | 1.017 | 15,9 % |
-| Weiße Keramik | `white_terracotta` | 577 | 9,0 % |
-| Polierter Granit | `polished_granite` | 474 | 7,4 % |
+| Bemooste Steinziegel | `mossy_stone_bricks` | 2.037 | 31,5 % |
+| Rote Keramik | `red_terracotta` | 1.041 | 16,1 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.039 | 16,1 % |
+| Bruchstein | `cobblestone` | 1.017 | 15,7 % |
+| Weiße Keramik | `white_terracotta` | 577 | 8,9 % |
+| Polierter Granit | `polished_granite` | 474 | 7,3 % |
 | Steinziegel | `stone_bricks` | 144 | 2,2 % |
+| Glatter Stein | `smooth_stone` | 30 | 0,5 % |
 | Polierter Andesit | `polished_andesite` | 24 | 0,4 % |
+| Bruchsteintreppe, Aufstieg nach Osten | `cobblestone_stairs@o` | 17 | 0,3 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 15 | 0,2 % |
+| Seelaterne | `sea_lantern` | 14 | 0,2 % |
 | Polierter Tiefenschiefer | `polished_deepslate` | 12 | 0,2 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 8 | 0,1 % |
 | Goldblock | `gold_block` | 7 | 0,1 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Bruchsteintreppe | `cobblestone_stairs` | 17 |
+| Steintreppe | `stone_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -43,7 +54,8 @@
 | 3 | `krypta_stuetzen` | Stützen unter dem Domboden | 168 | 9.4 |
 | 4 | `brunelleschi_grab` | Das Grab von Filippo Brunelleschi | 15 | 9.4 |
 | 5 | `chorschranke` | Achteckige Chorschranke | 1.498 | 9.4 |
-| 6 | `hochaltar` | Hochaltar mit Kruzifix | 42 | 9.4 |
+| 6 | `krypta_treppe` | Treppe in die Krypta | 59 | 9.4 |
+| 7 | `hochaltar` | Hochaltar mit Kruzifix | 42 | 9.4 |
 
 ## Bauschritte
 
@@ -57,8 +69,9 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rote Keramik | `red_terracotta` | 1.055 |
+| Rote Keramik | `red_terracotta` | 1.041 |
 | Weiße Keramik | `white_terracotta` | 577 |
+| Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
 
@@ -134,11 +147,11 @@ Lass die Durchgänge in den Mittelschiffwänden frei (4 Blöcke breit). Die Maue
 
 Santa Reparata war eine frühchristliche Kirche, die später mehrmals umgebaut wurde. Als man ab 1296 den neuen Dom baute, riss man sie nach und nach ab. Von 1965 bis 1974 gruben Archäologen ihre Reste unter dem Boden des Doms aus.
 
-### Schritt 9.4 – Stützen unter dem Domboden & Das Grab von Filippo Brunelleschi & Achteckige Chorschranke & Hochaltar mit Kruzifix
+### Schritt 9.4 – Stützen unter dem Domboden & Das Grab von Filippo Brunelleschi & Achteckige Chorschranke & Treppe in die Krypta & Hochaltar mit Kruzifix
 
 - **Y-Bereich:** 57 bis 74
-- **Blöcke:** 1.723
-- **Bauteile:** `krypta_stuetzen`, `brunelleschi_grab`, `chorschranke`, `hochaltar`
+- **Blöcke:** 1.782
+- **Bauteile:** `krypta_stuetzen`, `brunelleschi_grab`, `chorschranke`, `krypta_treppe`, `hochaltar`
 
 **Teileliste**
 
@@ -147,24 +160,34 @@ Santa Reparata war eine frühchristliche Kirche, die später mehrmals umgebaut w
 | Glatter Quarzblock | `smooth_quartz` | 1.039 |
 | Polierter Granit | `polished_granite` | 474 |
 | Steinziegel | `stone_bricks` | 144 |
+| Glatter Stein | `smooth_stone` | 30 |
 | Polierter Andesit | `polished_andesite` | 24 |
+| Bruchsteintreppe, Aufstieg nach Osten | `cobblestone_stairs@o` | 17 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 15 |
 | Polierter Tiefenschiefer | `polished_deepslate` | 12 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 8 |
 | Goldblock | `gold_block` | 7 |
 
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Bruchsteintreppe | `cobblestone_stairs` | 17 |
+| Steintreppe | `stone_stairs` | 12 |
+
 **Beschreibung**
 
-Im Mittelschiff stellst du sechs Pfeiler auf, in drei Reihen zu je zwei, jeder 2 mal 2 Blöcke breit. Sie stehen bei X −188, −172 und −156, mit Z −6 bis −5 und Z 4 bis 5. Sie wachsen von Y 57 bis Y 63 und berühren oben von unten den Domboden aus Modul 0. Die oberste Lage ist aus poliertem Andesit, der Rest aus Steinziegeln. In den Kryptaboden setzt du eine Grabplatte aus poliertem Tiefenschiefer: 5 Blöcke lang (X −180 bis −176) und 3 Blöcke breit (Z −1 bis 1). In der Mitte läuft eine Zeile aus drei goldenen Blöcken als Inschrift. Die Platte ersetzt dort die Bodenmosaik-Blöcke, die du vorhin ausgelassen hast. Unter der Kuppel baust du auf dem Domboden (Y 64) eine achteckige Schranke aus weißem Marmor, 2 Blöcke dick und 7 Blöcke hoch (Y 65 bis 71). Die Wand liegt zwischen den Abständen 16 und 17 vom Mittelpunkt. Auf der Westseite lässt du einen Eingang von 5 Blöcken Breite (Z −2 bis 2) offen. Zwei Bänder aus rotem Granit (Y 66 und 70) und kleine Felder darüber zieren die Wand. In die Mitte der Kuppel baust du den Altarblock: 5 Blöcke lang (X −2 bis 2), 3 breit (Z −1 bis 1) und 2 hoch (Y 65 und 66) aus weißem Marmor, oben aus gemeißeltem Quarz. Darauf steht ein Kreuz, 8 Blöcke hoch (Y 67 bis 74). Der Stamm besteht aus dunklem Holz. Der Körper Christi in der Mitte ist aus Gold. Der Querbalken liegt auf Y 72 und ist 5 Blöcke breit.
+Im Mittelschiff stellst du sechs Pfeiler auf, in drei Reihen zu je zwei, jeder 2 mal 2 Blöcke breit. Sie stehen bei X −188, −172 und −156, mit Z −6 bis −5 und Z 4 bis 5. Sie wachsen von Y 57 bis Y 63 und berühren oben von unten den Domboden aus Modul 0. Die oberste Lage ist aus poliertem Andesit, der Rest aus Steinziegeln. In den Kryptaboden setzt du eine Grabplatte aus poliertem Tiefenschiefer: 5 Blöcke lang (X −180 bis −176) und 3 Blöcke breit (Z −1 bis 1). In der Mitte läuft eine Zeile aus drei goldenen Blöcken als Inschrift. Die Platte ersetzt dort die Bodenmosaik-Blöcke, die du vorhin ausgelassen hast. Unter der Kuppel baust du auf dem Domboden (Y 64) eine achteckige Schranke aus weißem Marmor, 2 Blöcke dick und 7 Blöcke hoch (Y 65 bis 71). Die Wand liegt zwischen den Abständen 16 und 17 vom Mittelpunkt. Auf der Westseite lässt du einen Eingang von 5 Blöcken Breite (Z −2 bis 2) offen. Zwei Bänder aus rotem Granit (Y 66 und 70) und kleine Felder darüber zieren die Wand. Im südlichen Seitenschiff der Krypta baust du eine gerade Treppe aus Steintreppen, 2 breit (Z 12 und 13). Die unterste Stufe steht bei X −180 auf dem Kryptaboden, jede weitere eine Zelle westlich und einen Block höher bis X −185 (Y 63); unter jede Stufe kommt ein Stützblock. Vor dem erhöhten Chorboden der Krypta setzt du eine Stufenreihe aus Bruchstein-Treppen (X −154). In die Mitte der Kuppel baust du den Altarblock: 5 Blöcke lang (X −2 bis 2), 3 breit (Z −1 bis 1) und 2 hoch (Y 65 und 66) aus weißem Marmor, oben aus gemeißeltem Quarz. Darauf steht ein Kreuz, 8 Blöcke hoch (Y 67 bis 74). Der Stamm besteht aus dunklem Holz. Der Körper Christi in der Mitte ist aus Gold. Der Querbalken liegt auf Y 72 und ist 5 Blöcke breit.
 
 **Tipp**
 
-Baue jeden Pfeiler Lage für Lage und kontrolliere mit einem Lot oder einem Block als Richtschnur, dass er gerade steht. Schau von oben, ob die Pfeiler in den Reihen fluchten. Lege zuerst den Rand aus dunklem Stein und dann die goldene Zeile in die Mitte. So sitzt die Inschrift genau mittig. Baue zuerst den untersten Ring und zähle die Seiten: Das Achteck hat acht gleiche Flächen. Setze die Bänder immer gleichzeitig um den ganzen Ring, dann bleibt das Muster gleichmäßig. Beginne mit dem Altarblock und setze dann das Kreuz in der Mitte darauf. Prüfe von der Seite, ob es senkrecht steht und der Balken mittig sitzt.
+Baue jeden Pfeiler Lage für Lage und kontrolliere mit einem Lot oder einem Block als Richtschnur, dass er gerade steht. Schau von oben, ob die Pfeiler in den Reihen fluchten. Lege zuerst den Rand aus dunklem Stein und dann die goldene Zeile in die Mitte. So sitzt die Inschrift genau mittig. Baue zuerst den untersten Ring und zähle die Seiten: Das Achteck hat acht gleiche Flächen. Setze die Bänder immer gleichzeitig um den ganzen Ring, dann bleibt das Muster gleichmäßig. Baue von unten nach oben und stelle dich zum Prüfen auf jede Stufe: Über dir muss das Treppenloch im Langhausboden frei sein. Beginne mit dem Altarblock und setze dann das Kreuz in der Mitte darauf. Prüfe von der Seite, ob es senkrecht steht und der Balken mittig sitzt.
 
 **Achtung**
 
-Die Pfeiler müssen genau bis Y 63 reichen, damit sie den Boden darüber stützen. Hör nicht schon auf Höhe der Mauern bei Y 61 auf, sonst bleibt eine Lücke. Das Grab liegt auf derselben Höhe wie der Boden (Y 57), nicht höher. Setze keinen Block auf das Mosaik, das Grab ersetzt dort die Bodenblöcke. Der Eingang liegt im Westen, dort, wo das Langhaus ankommt. Die Schranke steht ganz innen in der Vierung und berührt keine Wand. Bis zu den Pfeilern bleibt viel Platz. Der Altar steht genau über dem goldenen Block im Mittelpunkt des Bodens. Setze ihn nicht seitlich versetzt, sonst stimmt die Symmetrie der Kuppel nicht mehr.
+Die Pfeiler müssen genau bis Y 63 reichen, damit sie den Boden darüber stützen. Hör nicht schon auf Höhe der Mauern bei Y 61 auf, sonst bleibt eine Lücke. Das Grab liegt auf derselben Höhe wie der Boden (Y 57), nicht höher. Setze keinen Block auf das Mosaik, das Grab ersetzt dort die Bodenblöcke. Der Eingang liegt im Westen, dort, wo das Langhaus ankommt. Die Schranke steht ganz innen in der Vierung und berührt keine Wand. Bis zu den Pfeilern bleibt viel Platz. Die oberste Stufe liegt in der Bodenplatte und gehört zu Modul 0. Die Treppe endet genau dort. Der Altar steht genau über dem goldenen Block im Mittelpunkt des Bodens. Setze ihn nicht seitlich versetzt, sonst stimmt die Symmetrie der Kuppel nicht mehr.
 
 **Fakt**
 
-Der Boden des Doms liegt über der Krypta. Damit er nicht einsackt, braucht er Auflager. Unsere Pfeiler sind nur eine vereinfachte Darstellung, wie das im echten Dom gelöst ist, zeigt dieses Modell nicht genau. Filippo Brunelleschi, der Baumeister der Kuppel, starb 1446 und wurde im Dom beigesetzt, eine seltene Ehre für einen Baumeister. Sein Grab wurde 1972 bei den Grabungen unter dem Dom wiedergefunden. Die achteckige Marmorschranke um den Altar entstand in der Mitte des 16. Jahrhunderts nach Plänen von Baccio Bandinelli. Sie umgibt den Chor genau unter der Kuppel. Auf dem Hochaltar des Doms steht ein hölzernes Kruzifix, das Benedetto da Maiano in den 1490er Jahren schuf. Benedetto da Maiano war ein berühmter Bildhauer der Frührenaissance in Florenz.
+Der Boden des Doms liegt über der Krypta. Damit er nicht einsackt, braucht er Auflager. Unsere Pfeiler sind nur eine vereinfachte Darstellung, wie das im echten Dom gelöst ist, zeigt dieses Modell nicht genau. Filippo Brunelleschi, der Baumeister der Kuppel, starb 1446 und wurde im Dom beigesetzt, eine seltene Ehre für einen Baumeister. Sein Grab wurde 1972 bei den Grabungen unter dem Dom wiedergefunden. Die achteckige Marmorschranke um den Altar entstand in der Mitte des 16. Jahrhunderts nach Plänen von Baccio Bandinelli. Sie umgibt den Chor genau unter der Kuppel. In der Krypta liegt das Grab Brunelleschis. Er war einer der wenigen, die im Dom selbst bestattet werden durften. Auf dem Hochaltar des Doms steht ein hölzernes Kruzifix, das Benedetto da Maiano in den 1490er Jahren schuf. Benedetto da Maiano war ein berühmter Bildhauer der Frührenaissance in Florenz.

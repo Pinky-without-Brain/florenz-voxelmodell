@@ -1,8 +1,8 @@
 # 🕯️ Modul 9: Innenraum & Krypta
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 6.409 Blöcke in 4 Bauschritten, Y 57 bis 74, X -202 bis 17, Z -19 bis 19.
-Schrittgröße: kleinster 1.256, mittlerer 1.602, größter 1.798 Blöcke.
+**Statistik (generiert):** 6.468 Blöcke in 4 Bauschritten, Y 57 bis 74, X -202 bis 17, Z -19 bis 19.
+Schrittgröße: kleinster 1.256, mittlerer 1.617, größter 1.798 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md)
 <!-- STATISTIK:END -->

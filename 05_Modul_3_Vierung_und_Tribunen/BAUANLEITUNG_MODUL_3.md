@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 349.479 |
-| Bauschritte | 222 |
+| Blöcke | 348.730 |
+| Bauschritte | 224 |
 | Y-Bereich | 65 bis 148 |
 | X-Ausdehnung | -54 bis 96 (151 Blöcke) |
 | Z-Ausdehnung | -96 bis 96 (193 Blöcke) |
-| Kleinster Schritt | 1.111 Blöcke (Schritt 3.108) |
-| Mittlerer Schritt | 1.574 Blöcke |
+| Kleinster Schritt | 1.056 Blöcke (Schritt 3.89) |
+| Mittlerer Schritt | 1.557 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 3.61) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Steinziegel | `stone_bricks` | 195.742 | 56,0 % |
-| Glatter Stein | `smooth_stone` | 87.293 | 25,0 % |
+| Steinziegel | `stone_bricks` | 195.862 | 56,2 % |
+| Glatter Stein | `smooth_stone` | 86.131 | 24,7 % |
 | Glatter Quarzblock | `smooth_quartz` | 37.474 | 10,7 % |
 | Dunkler Prismarin | `dark_prismarine` | 12.321 | 3,5 % |
 | Terrakotta | `terracotta` | 11.936 | 3,4 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 1.704 | 0,5 % |
 | Polierter Granit | `polished_granite` | 1.499 | 0,4 % |
-| Gelbes Buntglas | `yellow_stained_glass` | 333 | 0,1 % |
+| Gelbes Buntglas | `yellow_stained_glass` | 666 | 0,2 % |
+| Oranges Buntglas | `orange_stained_glass` | 330 | 0,1 % |
 | Blaues Buntglas | `blue_stained_glass` | 270 | 0,1 % |
 | Hellblaues Buntglas | `light_blue_stained_glass` | 270 | 0,1 % |
-| Geschnittener Kupferblock | `cut_copper` | 258 | 0,1 % |
-| Oranges Buntglas | `orange_stained_glass` | 144 | 0,0 % |
 | Rotes Buntglas | `red_stained_glass` | 135 | 0,0 % |
 | Polierter Andesit | `polished_andesite` | 100 | 0,0 % |
+| Geschnittener Kupferblock | `cut_copper` | 32 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -42,21 +42,22 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `vierung_wand` | Vierungswand mit den vier großen Bögen | 116.592 | 3.1–3.88 |
 | 2 | `vierung_gesims` | Kämpfergesims der Vierung | 100 | 3.89 |
-| 3 | `sakristei_tueren` | Türen zu den Sakristeien | 2.344 | 3.89–3.90 |
-| 4 | `tribune_nord_mauern` | Nordtribune: Mauern mit fünf Kapellen | 39.254 | 3.91–3.113 |
-| 5 | `tribune_nord_gewoelbe` | Nordtribune: Gewölbe | 3.580 | 3.114–3.115 |
-| 6 | `tribune_nord_obergaden` | Nordtribune: Obergaden mit Rundfenstern | 11.853 | 3.116–3.121 |
+| 3 | `sakristei_tueren` | Türen zu den Sakristeien | 956 | 3.89 |
+| 4 | `tribune_nord_mauern` | Nordtribune: Mauern mit fünf Kapellen | 39.254 | 3.90–3.112 |
+| 5 | `tribune_nord_gewoelbe` | Nordtribune: Gewölbe | 3.580 | 3.113–3.114 |
+| 6 | `tribune_nord_obergaden` | Nordtribune: Obergaden mit Rundfenstern | 12.026 | 3.115–3.121 |
 | 7 | `tribune_nord_daecher` | Nordtribune: Dächer | 3.378 | 3.122–3.123 |
 | 8 | `tribune_ost_mauern` | Osttribune: Mauern mit fünf Kapellen | 39.254 | 3.124–3.146 |
 | 9 | `tribune_ost_gewoelbe` | Osttribune: Gewölbe | 3.580 | 3.147–3.148 |
-| 10 | `tribune_ost_obergaden` | Osttribune: Obergaden mit Rundfenstern | 11.853 | 3.149–3.154 |
-| 11 | `tribune_ost_daecher` | Osttribune: Dächer | 3.378 | 3.155–3.156 |
-| 12 | `tribune_sued_mauern` | Südtribune: Mauern mit fünf Kapellen | 39.254 | 3.157–3.179 |
-| 13 | `tribune_sued_gewoelbe` | Südtribune: Gewölbe | 3.580 | 3.180–3.181 |
-| 14 | `tribune_sued_obergaden` | Südtribune: Obergaden mit Rundfenstern | 11.853 | 3.182–3.187 |
-| 15 | `tribune_sued_daecher` | Südtribune: Dächer | 3.378 | 3.188–3.189 |
-| 16 | `eckbauten` | Eckbauten und Sakristeien | 37.976 | 3.190–3.211 |
-| 17 | `exedra_sockel` | Sockel für die „tribune morte“ | 18.272 | 3.212–3.222 |
+| 10 | `tribune_ost_obergaden` | Osttribune: Obergaden mit Rundfenstern | 12.026 | 3.149–3.155 |
+| 11 | `tribune_ost_daecher` | Osttribune: Dächer | 3.378 | 3.156–3.157 |
+| 12 | `tribune_sued_mauern` | Südtribune: Mauern mit fünf Kapellen | 39.254 | 3.158–3.180 |
+| 13 | `tribune_sued_gewoelbe` | Südtribune: Gewölbe | 3.580 | 3.181–3.182 |
+| 14 | `tribune_sued_obergaden` | Südtribune: Obergaden mit Rundfenstern | 12.026 | 3.183–3.189 |
+| 15 | `tribune_sued_daecher` | Südtribune: Dächer | 3.378 | 3.190–3.191 |
+| 16 | `eckbauten` | Eckbauten und Sakristeien | 37.976 | 3.192–3.213 |
+| 17 | `kapellendach_abschluss` | Abschluss der Kapellendächer | 120 | 3.214 |
+| 18 | `exedra_sockel` | Sockel für die „tribune morte“ | 18.272 | 3.214–3.224 |
 
 ## Bauschritte
 
@@ -2807,20 +2808,19 @@ Die obersten Lagen Y 146 bis 148 müssen ringsum voll sein, denn darauf steht sp
 
 Über dieser Vierung wölbte Brunelleschi die Kuppel. Sie überspannt innen rund 45 Meter und gilt bis heute als größte gemauerte Kuppel der Welt.
 
-### Schritt 3.89 – Kämpfergesims der Vierung & Türen zu den Sakristeien – Teil 1/2 (Y 65–71)
+### Schritt 3.89 – Kämpfergesims der Vierung & Türen zu den Sakristeien
 
 - **Y-Bereich:** 65 bis 112
-- **Blöcke:** 1.332
+- **Blöcke:** 1.056
 - **Bauteile:** `vierung_gesims`, `sakristei_tueren`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 686 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 392 |
-| Geschnittener Kupferblock | `cut_copper` | 154 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 924 |
 | Polierter Andesit | `polished_andesite` | 100 |
+| Geschnittener Kupferblock | `cut_copper` | 32 |
 
 **Beschreibung**
 
@@ -2838,37 +2838,7 @@ An den vier Bögen darf kein Gesims liegen, sonst verengst du die Öffnung. Prü
 
 Pietra serena heißt „heiterer Stein“. Der graue Sandstein aus der Umgebung von Florenz prägt die Innenräume vieler Kirchen von Brunelleschi. Beim Anschlag der Familie Pazzi am 26. April 1478 rettete sich Lorenzo de' Medici in eine Sakristei des Doms. Seine Freunde schlossen hinter ihm die schweren Bronzetüren.
 
-### Schritt 3.90 – Türen zu den Sakristeien – Teil 2/2 (Y 72–78)
-
-- **Y-Bereich:** 72 bis 78
-- **Blöcke:** 1.112
-- **Bauteile:** `sakristei_tueren`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 532 |
-| Glatter Stein | `smooth_stone` | 476 |
-| Geschnittener Kupferblock | `cut_copper` | 104 |
-
-**Beschreibung**
-
-Du setzt die Türen in die schrägen Seiten der Vierungswand. Im Nordosten und im Südosten (Y 65 bis 78) rahmt gemeißelter Quarz einen Rundbogen mit 5 Blöcken Breite, dahinter schließt ein Türblatt aus Kupferblock den Durchgang. Im Nordwesten und Südwesten bleiben es zugemauerte Blendnischen aus grauem Stein.
-
-**Tipp**
-
-Die Türen liegen schräg in der Wand. Baue erst den Rahmen, dann das Türblatt in der Wandmitte.
-
-**Achtung**
-
-Nur die beiden Ostseiten bekommen echte Türen. Die Westseiten bleiben geschlossen, sonst fehlt der Wand der Halt.
-
-**Fakt**
-
-Beim Anschlag der Familie Pazzi am 26. April 1478 rettete sich Lorenzo de' Medici in eine Sakristei des Doms. Seine Freunde schlossen hinter ihm die schweren Bronzetüren.
-
-### Schritt 3.91 – Nordtribune: Mauern mit fünf Kapellen – Teil 1/23 (Y 65–65)
+### Schritt 3.90 – Nordtribune: Mauern mit fünf Kapellen – Teil 1/23 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.244
@@ -2898,7 +2868,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.92 – Nordtribune: Mauern mit fünf Kapellen – Teil 2/23 (Y 66–67)
+### Schritt 3.91 – Nordtribune: Mauern mit fünf Kapellen – Teil 2/23 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
 - **Blöcke:** 2.064
@@ -2929,7 +2899,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.93 – Nordtribune: Mauern mit fünf Kapellen – Teil 3/23 (Y 68–69)
+### Schritt 3.92 – Nordtribune: Mauern mit fünf Kapellen – Teil 3/23 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.640
@@ -2960,7 +2930,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.94 – Nordtribune: Mauern mit fünf Kapellen – Teil 4/23 (Y 70–71)
+### Schritt 3.93 – Nordtribune: Mauern mit fünf Kapellen – Teil 4/23 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.640
@@ -2992,7 +2962,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.95 – Nordtribune: Mauern mit fünf Kapellen – Teil 5/23 (Y 72–73)
+### Schritt 3.94 – Nordtribune: Mauern mit fünf Kapellen – Teil 5/23 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.640
@@ -3024,7 +2994,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.96 – Nordtribune: Mauern mit fünf Kapellen – Teil 6/23 (Y 74–75)
+### Schritt 3.95 – Nordtribune: Mauern mit fünf Kapellen – Teil 6/23 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.640
@@ -3055,7 +3025,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.97 – Nordtribune: Mauern mit fünf Kapellen – Teil 7/23 (Y 76–77)
+### Schritt 3.96 – Nordtribune: Mauern mit fünf Kapellen – Teil 7/23 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
 - **Blöcke:** 2.064
@@ -3086,7 +3056,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.98 – Nordtribune: Mauern mit fünf Kapellen – Teil 8/23 (Y 78–79)
+### Schritt 3.97 – Nordtribune: Mauern mit fünf Kapellen – Teil 8/23 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.482
@@ -3120,7 +3090,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.99 – Nordtribune: Mauern mit fünf Kapellen – Teil 9/23 (Y 80–81)
+### Schritt 3.98 – Nordtribune: Mauern mit fünf Kapellen – Teil 9/23 (Y 80–81)
 
 - **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.482
@@ -3154,7 +3124,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.100 – Nordtribune: Mauern mit fünf Kapellen – Teil 10/23 (Y 82–83)
+### Schritt 3.99 – Nordtribune: Mauern mit fünf Kapellen – Teil 10/23 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.482
@@ -3189,7 +3159,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.101 – Nordtribune: Mauern mit fünf Kapellen – Teil 11/23 (Y 84–85)
+### Schritt 3.100 – Nordtribune: Mauern mit fünf Kapellen – Teil 11/23 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.482
@@ -3224,7 +3194,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.102 – Nordtribune: Mauern mit fünf Kapellen – Teil 12/23 (Y 86–87)
+### Schritt 3.101 – Nordtribune: Mauern mit fünf Kapellen – Teil 12/23 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.494
@@ -3259,7 +3229,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.103 – Nordtribune: Mauern mit fünf Kapellen – Teil 13/23 (Y 88–89)
+### Schritt 3.102 – Nordtribune: Mauern mit fünf Kapellen – Teil 13/23 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.950
@@ -3293,7 +3263,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.104 – Nordtribune: Mauern mit fünf Kapellen – Teil 14/23 (Y 90–91)
+### Schritt 3.103 – Nordtribune: Mauern mit fünf Kapellen – Teil 14/23 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.618
@@ -3327,7 +3297,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.105 – Nordtribune: Mauern mit fünf Kapellen – Teil 15/23 (Y 92–93)
+### Schritt 3.104 – Nordtribune: Mauern mit fünf Kapellen – Teil 15/23 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.773
@@ -3361,7 +3331,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.106 – Nordtribune: Mauern mit fünf Kapellen – Teil 16/23 (Y 94–95)
+### Schritt 3.105 – Nordtribune: Mauern mit fünf Kapellen – Teil 16/23 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.965
@@ -3392,7 +3362,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.107 – Nordtribune: Mauern mit fünf Kapellen – Teil 17/23 (Y 96–97)
+### Schritt 3.106 – Nordtribune: Mauern mit fünf Kapellen – Teil 17/23 (Y 96–97)
 
 - **Y-Bereich:** 96 bis 97
 - **Blöcke:** 2.046
@@ -3424,7 +3394,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.108 – Nordtribune: Mauern mit fünf Kapellen – Teil 18/23 (Y 98–98)
+### Schritt 3.107 – Nordtribune: Mauern mit fünf Kapellen – Teil 18/23 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.111
@@ -3456,7 +3426,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.109 – Nordtribune: Mauern mit fünf Kapellen – Teil 19/23 (Y 99–100)
+### Schritt 3.108 – Nordtribune: Mauern mit fünf Kapellen – Teil 19/23 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.957
@@ -3488,7 +3458,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.110 – Nordtribune: Mauern mit fünf Kapellen – Teil 20/23 (Y 101–101)
+### Schritt 3.109 – Nordtribune: Mauern mit fünf Kapellen – Teil 20/23 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.870
@@ -3519,7 +3489,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.111 – Nordtribune: Mauern mit fünf Kapellen – Teil 21/23 (Y 102–102)
+### Schritt 3.110 – Nordtribune: Mauern mit fünf Kapellen – Teil 21/23 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.870
@@ -3550,7 +3520,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.112 – Nordtribune: Mauern mit fünf Kapellen – Teil 22/23 (Y 103–103)
+### Schritt 3.111 – Nordtribune: Mauern mit fünf Kapellen – Teil 22/23 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.870
@@ -3581,7 +3551,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.113 – Nordtribune: Mauern mit fünf Kapellen – Teil 23/23 (Y 104–104)
+### Schritt 3.112 – Nordtribune: Mauern mit fünf Kapellen – Teil 23/23 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.870
@@ -3611,7 +3581,7 @@ Die Kapellenräume bleiben leer, ihr Gewölbe kommt im nächsten Schritt. Die zw
 
 Der Dom hat drei Tribunen, und jede besitzt fünf Kapellen. Zusammen sind das 15 Kapellen.
 
-### Schritt 3.114 – Nordtribune: Gewölbe – Teil 1/2 (Y 92–108)
+### Schritt 3.113 – Nordtribune: Gewölbe – Teil 1/2 (Y 92–108)
 
 - **Y-Bereich:** 92 bis 108
 - **Blöcke:** 1.829
@@ -3639,7 +3609,7 @@ Das Gewölbe ist nur zwei Blöcke dick. Lass zwischen Gewölbe und Wand keine L�
 
 Ein Kreuzgewölbe entsteht, wenn sich zwei Tonnengewölbe im rechten Winkel durchdringen. Die Kanten, an denen sie sich treffen, heißen Grate.
 
-### Schritt 3.115 – Nordtribune: Gewölbe – Teil 2/2 (Y 109–126)
+### Schritt 3.114 – Nordtribune: Gewölbe – Teil 2/2 (Y 109–126)
 
 - **Y-Bereich:** 109 bis 126
 - **Blöcke:** 1.751
@@ -3667,183 +3637,219 @@ Das Gewölbe ist nur zwei Blöcke dick. Lass zwischen Gewölbe und Wand keine L�
 
 Ein Kreuzgewölbe entsteht, wenn sich zwei Tonnengewölbe im rechten Winkel durchdringen. Die Kanten, an denen sie sich treffen, heißen Grate.
 
-### Schritt 3.116 – Nordtribune: Obergaden mit Rundfenstern – Teil 1/6 (Y 105–108)
+### Schritt 3.115 – Nordtribune: Obergaden mit Rundfenstern – Teil 1/7 (Y 105–107)
 
-- **Y-Bereich:** 105 bis 108
-- **Blöcke:** 1.968
+- **Y-Bereich:** 105 bis 107
+- **Blöcke:** 1.476
 - **Bauteile:** `tribune_nord_obergaden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 300 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-
-**Beschreibung**
-
-Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
-
-**Tipp**
-
-Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
-
-**Achtung**
-
-Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
-
-**Fakt**
-
-Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
-
-### Schritt 3.117 – Nordtribune: Obergaden mit Rundfenstern – Teil 2/6 (Y 109–112)
-
-- **Y-Bereich:** 109 bis 112
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_nord_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 268 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-| Polierter Granit | `polished_granite` | 32 |
-
-**Beschreibung**
-
-Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
-
-**Tipp**
-
-Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
-
-**Achtung**
-
-Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
-
-**Fakt**
-
-Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
-
-### Schritt 3.118 – Nordtribune: Obergaden mit Rundfenstern – Teil 3/6 (Y 113–117)
-
-- **Y-Bereich:** 113 bis 117
-- **Blöcke:** 2.075
-- **Bauteile:** `tribune_nord_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.406 |
-| Glatter Quarzblock | `smooth_quartz` | 213 |
-| Glatter Stein | `smooth_stone` | 195 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 120 |
-| Dunkler Prismarin | `dark_prismarine` | 76 |
-| Gelbes Buntglas | `yellow_stained_glass` | 45 |
-| Oranges Buntglas | `orange_stained_glass` | 20 |
-
-**Beschreibung**
-
-Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
-
-**Tipp**
-
-Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
-
-**Achtung**
-
-Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
-
-**Fakt**
-
-Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
-
-### Schritt 3.119 – Nordtribune: Obergaden mit Rundfenstern – Teil 4/6 (Y 118–122)
-
-- **Y-Bereich:** 118 bis 122
-- **Blöcke:** 1.906
-- **Bauteile:** `tribune_nord_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.268 |
-| Glatter Quarzblock | `smooth_quartz` | 210 |
-| Glatter Stein | `smooth_stone` | 154 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 140 |
-| Gelbes Buntglas | `yellow_stained_glass` | 66 |
-| Dunkler Prismarin | `dark_prismarine` | 40 |
-| Oranges Buntglas | `orange_stained_glass` | 28 |
-
-**Beschreibung**
-
-Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
-
-**Tipp**
-
-Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
-
-**Achtung**
-
-Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
-
-**Fakt**
-
-Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
-
-### Schritt 3.120 – Nordtribune: Obergaden mit Rundfenstern – Teil 5/6 (Y 123–126)
-
-- **Y-Bereich:** 123 bis 126
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_nord_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 267 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Polierter Granit | `polished_granite` | 33 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-
-**Beschreibung**
-
-Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
-
-**Tipp**
-
-Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
-
-**Achtung**
-
-Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
-
-**Fakt**
-
-Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
-
-### Schritt 3.121 – Nordtribune: Obergaden mit Rundfenstern – Teil 6/6 (Y 127–130)
-
-- **Y-Bereich:** 127 bis 130
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_nord_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Stein | `smooth_stone` | 260 |
+| Steinziegel | `stone_bricks` | 1.032 |
 | Glatter Quarzblock | `smooth_quartz` | 225 |
-| Dunkler Prismarin | `dark_prismarine` | 107 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Dunkler Prismarin | `dark_prismarine` | 24 |
+
+**Beschreibung**
+
+Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
+
+**Tipp**
+
+Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
+
+**Achtung**
+
+Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
+
+**Fakt**
+
+Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
+
+### Schritt 3.116 – Nordtribune: Obergaden mit Rundfenstern – Teil 2/7 (Y 108–111)
+
+- **Y-Bereich:** 108 bis 111
+- **Blöcke:** 1.968
+- **Bauteile:** `tribune_nord_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.376 |
+| Glatter Quarzblock | `smooth_quartz` | 272 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Polierter Granit | `polished_granite` | 28 |
+
+**Beschreibung**
+
+Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
+
+**Tipp**
+
+Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
+
+**Achtung**
+
+Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
+
+**Fakt**
+
+Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
+
+### Schritt 3.117 – Nordtribune: Obergaden mit Rundfenstern – Teil 3/7 (Y 112–115)
+
+- **Y-Bereich:** 112 bis 115
+- **Blöcke:** 1.902
+- **Bauteile:** `tribune_nord_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.310 |
+| Glatter Quarzblock | `smooth_quartz` | 248 |
+| Glatter Stein | `smooth_stone` | 208 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Gelbes Buntglas | `yellow_stained_glass` | 18 |
+| Oranges Buntglas | `orange_stained_glass` | 10 |
+| Polierter Granit | `polished_granite` | 4 |
+
+**Beschreibung**
+
+Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
+
+**Tipp**
+
+Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
+
+**Achtung**
+
+Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
+
+**Fakt**
+
+Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
+
+### Schritt 3.118 – Nordtribune: Obergaden mit Rundfenstern – Teil 4/7 (Y 116–119)
+
+- **Y-Bereich:** 116 bis 119
+- **Blöcke:** 1.444
+- **Bauteile:** `tribune_nord_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 852 |
+| Gelbes Buntglas | `yellow_stained_glass` | 156 |
+| Glatter Quarzblock | `smooth_quartz` | 108 |
+| Glatter Stein | `smooth_stone` | 100 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 88 |
+| Oranges Buntglas | `orange_stained_glass` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 68 |
+
+**Beschreibung**
+
+Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
+
+**Tipp**
+
+Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
+
+**Achtung**
+
+Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
+
+**Fakt**
+
+Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
+
+### Schritt 3.119 – Nordtribune: Obergaden mit Rundfenstern – Teil 5/7 (Y 120–123)
+
+- **Y-Bereich:** 120 bis 123
+- **Blöcke:** 1.792
+- **Bauteile:** `tribune_nord_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.200 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 171 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 100 |
+| Gelbes Buntglas | `yellow_stained_glass` | 48 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Oranges Buntglas | `orange_stained_glass` | 28 |
+| Polierter Granit | `polished_granite` | 13 |
+
+**Beschreibung**
+
+Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
+
+**Tipp**
+
+Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
+
+**Achtung**
+
+Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
+
+**Fakt**
+
+Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
+
+### Schritt 3.120 – Nordtribune: Obergaden mit Rundfenstern – Teil 6/7 (Y 124–127)
+
+- **Y-Bereich:** 124 bis 127
+- **Blöcke:** 1.968
+- **Bauteile:** `tribune_nord_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.376 |
+| Glatter Quarzblock | `smooth_quartz` | 280 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Polierter Granit | `polished_granite` | 20 |
+
+**Beschreibung**
+
+Über den Kapellen wächst die Wand weiter, von Y 105 bis Y 130 und 6 Blöcke dick. In ihr sitzen fünf Rundfenster mit Radius 3 und Mitte bei Y 118, gefüllt mit gelbem und orangem Glas. Gemeißelter Quarz bildet den Rahmen.
+
+**Tipp**
+
+Zähle bei den Fenstern von der Mitte aus: 3 Blöcke nach oben, unten, links und rechts. Das Glas steht in der Wandmitte.
+
+**Achtung**
+
+Die Rundfenster liegen jeweils in der Mitte einer der fünf Außenseiten. Die schrägen Seiten brauchen Fenster, die ebenfalls schräg durch die Wand gehen.
+
+**Fakt**
+
+Ein rundes Fenster heißt auf Lateinisch „Oculus“, das bedeutet „Auge“. Im Italienischen nennt man sie „occhi“.
+
+### Schritt 3.121 – Nordtribune: Obergaden mit Rundfenstern – Teil 7/7 (Y 128–130)
+
+- **Y-Bereich:** 128 bis 130
+- **Blöcke:** 1.476
+- **Bauteile:** `tribune_nord_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.032 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Glatter Quarzblock | `smooth_quartz` | 150 |
+| Dunkler Prismarin | `dark_prismarine` | 99 |
 
 **Beschreibung**
 
@@ -4716,183 +4722,20 @@ Ein Klostergewölbe sieht aus wie eine umgedrehte Schüssel aus acht Segeln. Die
 
 Spitzbögen leiten das Gewicht steiler nach unten als Rundbögen. Darum konnten gotische Baumeister hohe, schlanke Gewölbe bauen.
 
-### Schritt 3.149 – Osttribune: Obergaden mit Rundfenstern – Teil 1/6 (Y 105–108)
+### Schritt 3.149 – Osttribune: Obergaden mit Rundfenstern – Teil 1/7 (Y 105–107)
 
-- **Y-Bereich:** 105 bis 108
-- **Blöcke:** 1.968
+- **Y-Bereich:** 105 bis 107
+- **Blöcke:** 1.476
 - **Bauteile:** `tribune_ost_obergaden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 300 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
-
-**Tipp**
-
-Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
-
-**Achtung**
-
-Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
-
-**Fakt**
-
-Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
-
-### Schritt 3.150 – Osttribune: Obergaden mit Rundfenstern – Teil 2/6 (Y 109–112)
-
-- **Y-Bereich:** 109 bis 112
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_ost_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 268 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-| Polierter Granit | `polished_granite` | 32 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
-
-**Tipp**
-
-Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
-
-**Achtung**
-
-Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
-
-**Fakt**
-
-Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
-
-### Schritt 3.151 – Osttribune: Obergaden mit Rundfenstern – Teil 3/6 (Y 113–117)
-
-- **Y-Bereich:** 113 bis 117
-- **Blöcke:** 2.075
-- **Bauteile:** `tribune_ost_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.406 |
-| Glatter Quarzblock | `smooth_quartz` | 213 |
-| Glatter Stein | `smooth_stone` | 195 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 120 |
-| Dunkler Prismarin | `dark_prismarine` | 76 |
-| Gelbes Buntglas | `yellow_stained_glass` | 45 |
-| Oranges Buntglas | `orange_stained_glass` | 20 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
-
-**Tipp**
-
-Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
-
-**Achtung**
-
-Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
-
-**Fakt**
-
-Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
-
-### Schritt 3.152 – Osttribune: Obergaden mit Rundfenstern – Teil 4/6 (Y 118–122)
-
-- **Y-Bereich:** 118 bis 122
-- **Blöcke:** 1.906
-- **Bauteile:** `tribune_ost_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.268 |
-| Glatter Quarzblock | `smooth_quartz` | 210 |
-| Glatter Stein | `smooth_stone` | 154 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 140 |
-| Gelbes Buntglas | `yellow_stained_glass` | 66 |
-| Dunkler Prismarin | `dark_prismarine` | 40 |
-| Oranges Buntglas | `orange_stained_glass` | 28 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
-
-**Tipp**
-
-Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
-
-**Achtung**
-
-Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
-
-**Fakt**
-
-Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
-
-### Schritt 3.153 – Osttribune: Obergaden mit Rundfenstern – Teil 5/6 (Y 123–126)
-
-- **Y-Bereich:** 123 bis 126
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_ost_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 267 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Polierter Granit | `polished_granite` | 33 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
-
-**Tipp**
-
-Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
-
-**Achtung**
-
-Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
-
-**Fakt**
-
-Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
-
-### Schritt 3.154 – Osttribune: Obergaden mit Rundfenstern – Teil 6/6 (Y 127–130)
-
-- **Y-Bereich:** 127 bis 130
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_ost_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Stein | `smooth_stone` | 260 |
+| Steinziegel | `stone_bricks` | 1.032 |
 | Glatter Quarzblock | `smooth_quartz` | 225 |
-| Dunkler Prismarin | `dark_prismarine` | 107 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Dunkler Prismarin | `dark_prismarine` | 24 |
 
 **Beschreibung**
 
@@ -4910,7 +4753,206 @@ Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapel
 
 Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
 
-### Schritt 3.155 – Osttribune: Dächer – Teil 1/2 (Y 105–109)
+### Schritt 3.150 – Osttribune: Obergaden mit Rundfenstern – Teil 2/7 (Y 108–111)
+
+- **Y-Bereich:** 108 bis 111
+- **Blöcke:** 1.968
+- **Bauteile:** `tribune_ost_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.376 |
+| Glatter Quarzblock | `smooth_quartz` | 272 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Polierter Granit | `polished_granite` | 28 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
+
+**Tipp**
+
+Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
+
+**Achtung**
+
+Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
+
+**Fakt**
+
+Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
+
+### Schritt 3.151 – Osttribune: Obergaden mit Rundfenstern – Teil 3/7 (Y 112–115)
+
+- **Y-Bereich:** 112 bis 115
+- **Blöcke:** 1.902
+- **Bauteile:** `tribune_ost_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.310 |
+| Glatter Quarzblock | `smooth_quartz` | 248 |
+| Glatter Stein | `smooth_stone` | 208 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Gelbes Buntglas | `yellow_stained_glass` | 18 |
+| Oranges Buntglas | `orange_stained_glass` | 10 |
+| Polierter Granit | `polished_granite` | 4 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
+
+**Tipp**
+
+Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
+
+**Achtung**
+
+Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
+
+**Fakt**
+
+Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
+
+### Schritt 3.152 – Osttribune: Obergaden mit Rundfenstern – Teil 4/7 (Y 116–119)
+
+- **Y-Bereich:** 116 bis 119
+- **Blöcke:** 1.444
+- **Bauteile:** `tribune_ost_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 852 |
+| Gelbes Buntglas | `yellow_stained_glass` | 156 |
+| Glatter Quarzblock | `smooth_quartz` | 108 |
+| Glatter Stein | `smooth_stone` | 100 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 88 |
+| Oranges Buntglas | `orange_stained_glass` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 68 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
+
+**Tipp**
+
+Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
+
+**Achtung**
+
+Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
+
+**Fakt**
+
+Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
+
+### Schritt 3.153 – Osttribune: Obergaden mit Rundfenstern – Teil 5/7 (Y 120–123)
+
+- **Y-Bereich:** 120 bis 123
+- **Blöcke:** 1.792
+- **Bauteile:** `tribune_ost_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.200 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 171 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 100 |
+| Gelbes Buntglas | `yellow_stained_glass` | 48 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Oranges Buntglas | `orange_stained_glass` | 28 |
+| Polierter Granit | `polished_granite` | 13 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
+
+**Tipp**
+
+Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
+
+**Achtung**
+
+Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
+
+**Fakt**
+
+Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
+
+### Schritt 3.154 – Osttribune: Obergaden mit Rundfenstern – Teil 6/7 (Y 124–127)
+
+- **Y-Bereich:** 124 bis 127
+- **Blöcke:** 1.968
+- **Bauteile:** `tribune_ost_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.376 |
+| Glatter Quarzblock | `smooth_quartz` | 280 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Polierter Granit | `polished_granite` | 20 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
+
+**Tipp**
+
+Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
+
+**Achtung**
+
+Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
+
+**Fakt**
+
+Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
+
+### Schritt 3.155 – Osttribune: Obergaden mit Rundfenstern – Teil 7/7 (Y 128–130)
+
+- **Y-Bereich:** 128 bis 130
+- **Blöcke:** 1.476
+- **Bauteile:** `tribune_ost_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.032 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Glatter Quarzblock | `smooth_quartz` | 150 |
+| Dunkler Prismarin | `dark_prismarine` | 99 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Osttribune von Y 105 bis Y 130, 6 Blöcke dick. Fünf Rundfenster mit Radius 3 (Mitte Y 118) lassen gelbes und oranges Licht herein. Ein Rahmenring aus gemeißeltem Quarz fasst jedes Fenster ein.
+
+**Tipp**
+
+Setze zuerst die Wand ohne Fenster und schneide dann die Kreise aus. So bleiben alle Fenster gleich groß.
+
+**Achtung**
+
+Die Wand muss auf den Mauern darunter ruhen. Lass keinen Block über einer Kapellenöffnung schweben.
+
+**Fakt**
+
+Die Fenster des Doms bestehen aus buntem Glas. Berühmte Künstler wie Ghiberti, Donatello, Uccello und Castagno lieferten Entwürfe dafür.
+
+### Schritt 3.156 – Osttribune: Dächer – Teil 1/2 (Y 105–109)
 
 - **Y-Bereich:** 105 bis 109
 - **Blöcke:** 1.774
@@ -4938,7 +4980,7 @@ An der Vierungswand (X 54) endet das Dach. Setze dort keinen Block in die Wand h
 
 Die Ziegel heißen in Florenz „coppi“. Sie liegen wie halbe Röhren auf dem Dach, einmal mit der Wölbung nach oben und einmal nach unten.
 
-### Schritt 3.156 – Osttribune: Dächer – Teil 2/2 (Y 110–136)
+### Schritt 3.157 – Osttribune: Dächer – Teil 2/2 (Y 110–136)
 
 - **Y-Bereich:** 110 bis 136
 - **Blöcke:** 1.604
@@ -4966,7 +5008,7 @@ An der Vierungswand (X 54) endet das Dach. Setze dort keinen Block in die Wand h
 
 Die Ziegel heißen in Florenz „coppi“. Sie liegen wie halbe Röhren auf dem Dach, einmal mit der Wölbung nach oben und einmal nach unten.
 
-### Schritt 3.157 – Südtribune: Mauern mit fünf Kapellen – Teil 1/23 (Y 65–65)
+### Schritt 3.158 – Südtribune: Mauern mit fünf Kapellen – Teil 1/23 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.244
@@ -4996,7 +5038,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.158 – Südtribune: Mauern mit fünf Kapellen – Teil 2/23 (Y 66–67)
+### Schritt 3.159 – Südtribune: Mauern mit fünf Kapellen – Teil 2/23 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
 - **Blöcke:** 2.064
@@ -5027,7 +5069,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.159 – Südtribune: Mauern mit fünf Kapellen – Teil 3/23 (Y 68–69)
+### Schritt 3.160 – Südtribune: Mauern mit fünf Kapellen – Teil 3/23 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.640
@@ -5058,7 +5100,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.160 – Südtribune: Mauern mit fünf Kapellen – Teil 4/23 (Y 70–71)
+### Schritt 3.161 – Südtribune: Mauern mit fünf Kapellen – Teil 4/23 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.640
@@ -5090,7 +5132,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.161 – Südtribune: Mauern mit fünf Kapellen – Teil 5/23 (Y 72–73)
+### Schritt 3.162 – Südtribune: Mauern mit fünf Kapellen – Teil 5/23 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.640
@@ -5122,7 +5164,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.162 – Südtribune: Mauern mit fünf Kapellen – Teil 6/23 (Y 74–75)
+### Schritt 3.163 – Südtribune: Mauern mit fünf Kapellen – Teil 6/23 (Y 74–75)
 
 - **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.640
@@ -5153,7 +5195,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.163 – Südtribune: Mauern mit fünf Kapellen – Teil 7/23 (Y 76–77)
+### Schritt 3.164 – Südtribune: Mauern mit fünf Kapellen – Teil 7/23 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
 - **Blöcke:** 2.064
@@ -5184,7 +5226,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.164 – Südtribune: Mauern mit fünf Kapellen – Teil 8/23 (Y 78–79)
+### Schritt 3.165 – Südtribune: Mauern mit fünf Kapellen – Teil 8/23 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.482
@@ -5218,7 +5260,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.165 – Südtribune: Mauern mit fünf Kapellen – Teil 9/23 (Y 80–81)
+### Schritt 3.166 – Südtribune: Mauern mit fünf Kapellen – Teil 9/23 (Y 80–81)
 
 - **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.482
@@ -5252,7 +5294,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.166 – Südtribune: Mauern mit fünf Kapellen – Teil 10/23 (Y 82–83)
+### Schritt 3.167 – Südtribune: Mauern mit fünf Kapellen – Teil 10/23 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.482
@@ -5287,7 +5329,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.167 – Südtribune: Mauern mit fünf Kapellen – Teil 11/23 (Y 84–85)
+### Schritt 3.168 – Südtribune: Mauern mit fünf Kapellen – Teil 11/23 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.482
@@ -5322,7 +5364,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.168 – Südtribune: Mauern mit fünf Kapellen – Teil 12/23 (Y 86–87)
+### Schritt 3.169 – Südtribune: Mauern mit fünf Kapellen – Teil 12/23 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.494
@@ -5357,7 +5399,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.169 – Südtribune: Mauern mit fünf Kapellen – Teil 13/23 (Y 88–89)
+### Schritt 3.170 – Südtribune: Mauern mit fünf Kapellen – Teil 13/23 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.950
@@ -5391,7 +5433,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.170 – Südtribune: Mauern mit fünf Kapellen – Teil 14/23 (Y 90–91)
+### Schritt 3.171 – Südtribune: Mauern mit fünf Kapellen – Teil 14/23 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.618
@@ -5425,7 +5467,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.171 – Südtribune: Mauern mit fünf Kapellen – Teil 15/23 (Y 92–93)
+### Schritt 3.172 – Südtribune: Mauern mit fünf Kapellen – Teil 15/23 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.773
@@ -5459,7 +5501,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.172 – Südtribune: Mauern mit fünf Kapellen – Teil 16/23 (Y 94–95)
+### Schritt 3.173 – Südtribune: Mauern mit fünf Kapellen – Teil 16/23 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.965
@@ -5490,7 +5532,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.173 – Südtribune: Mauern mit fünf Kapellen – Teil 17/23 (Y 96–97)
+### Schritt 3.174 – Südtribune: Mauern mit fünf Kapellen – Teil 17/23 (Y 96–97)
 
 - **Y-Bereich:** 96 bis 97
 - **Blöcke:** 2.046
@@ -5522,7 +5564,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.174 – Südtribune: Mauern mit fünf Kapellen – Teil 18/23 (Y 98–98)
+### Schritt 3.175 – Südtribune: Mauern mit fünf Kapellen – Teil 18/23 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.111
@@ -5554,7 +5596,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.175 – Südtribune: Mauern mit fünf Kapellen – Teil 19/23 (Y 99–100)
+### Schritt 3.176 – Südtribune: Mauern mit fünf Kapellen – Teil 19/23 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.957
@@ -5586,7 +5628,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.176 – Südtribune: Mauern mit fünf Kapellen – Teil 20/23 (Y 101–101)
+### Schritt 3.177 – Südtribune: Mauern mit fünf Kapellen – Teil 20/23 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.870
@@ -5617,7 +5659,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.177 – Südtribune: Mauern mit fünf Kapellen – Teil 21/23 (Y 102–102)
+### Schritt 3.178 – Südtribune: Mauern mit fünf Kapellen – Teil 21/23 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.870
@@ -5648,7 +5690,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.178 – Südtribune: Mauern mit fünf Kapellen – Teil 22/23 (Y 103–103)
+### Schritt 3.179 – Südtribune: Mauern mit fünf Kapellen – Teil 22/23 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.870
@@ -5679,7 +5721,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.179 – Südtribune: Mauern mit fünf Kapellen – Teil 23/23 (Y 104–104)
+### Schritt 3.180 – Südtribune: Mauern mit fünf Kapellen – Teil 23/23 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.870
@@ -5709,7 +5751,7 @@ Der Campanile steht weit im Westen. Hier im Süden baust du nur Mauern der Tribu
 
 Als Brunelleschi 1420 mit der Kuppel begann, standen Tribunen und Tambour des Doms schon. Er musste seine Kuppel auf ein fertiges Achteck setzen.
 
-### Schritt 3.180 – Südtribune: Gewölbe – Teil 1/2 (Y 92–108)
+### Schritt 3.181 – Südtribune: Gewölbe – Teil 1/2 (Y 92–108)
 
 - **Y-Bereich:** 92 bis 108
 - **Blöcke:** 1.829
@@ -5737,7 +5779,7 @@ Die Kapellengewölbe haben ihren Scheitel bei Y 98, das Raumgewölbe erst bei Y 
 
 Gotische Gewölbe leiten ihr Gewicht über Grate und Rippen in die Pfeiler und Wände. Darum können die Wände dazwischen so dünn und die Fenster so groß sein.
 
-### Schritt 3.181 – Südtribune: Gewölbe – Teil 2/2 (Y 109–126)
+### Schritt 3.182 – Südtribune: Gewölbe – Teil 2/2 (Y 109–126)
 
 - **Y-Bereich:** 109 bis 126
 - **Blöcke:** 1.751
@@ -5765,183 +5807,20 @@ Die Kapellengewölbe haben ihren Scheitel bei Y 98, das Raumgewölbe erst bei Y 
 
 Gotische Gewölbe leiten ihr Gewicht über Grate und Rippen in die Pfeiler und Wände. Darum können die Wände dazwischen so dünn und die Fenster so groß sein.
 
-### Schritt 3.182 – Südtribune: Obergaden mit Rundfenstern – Teil 1/6 (Y 105–108)
+### Schritt 3.183 – Südtribune: Obergaden mit Rundfenstern – Teil 1/7 (Y 105–107)
 
-- **Y-Bereich:** 105 bis 108
-- **Blöcke:** 1.968
+- **Y-Bereich:** 105 bis 107
+- **Blöcke:** 1.476
 - **Bauteile:** `tribune_sued_obergaden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 300 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
-
-**Tipp**
-
-Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
-
-**Achtung**
-
-Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
-
-**Fakt**
-
-Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
-
-### Schritt 3.183 – Südtribune: Obergaden mit Rundfenstern – Teil 2/6 (Y 109–112)
-
-- **Y-Bereich:** 109 bis 112
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_sued_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 268 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-| Polierter Granit | `polished_granite` | 32 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
-
-**Tipp**
-
-Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
-
-**Achtung**
-
-Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
-
-**Fakt**
-
-Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
-
-### Schritt 3.184 – Südtribune: Obergaden mit Rundfenstern – Teil 3/6 (Y 113–117)
-
-- **Y-Bereich:** 113 bis 117
-- **Blöcke:** 2.075
-- **Bauteile:** `tribune_sued_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.406 |
-| Glatter Quarzblock | `smooth_quartz` | 213 |
-| Glatter Stein | `smooth_stone` | 195 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 120 |
-| Dunkler Prismarin | `dark_prismarine` | 76 |
-| Gelbes Buntglas | `yellow_stained_glass` | 45 |
-| Oranges Buntglas | `orange_stained_glass` | 20 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
-
-**Tipp**
-
-Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
-
-**Achtung**
-
-Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
-
-**Fakt**
-
-Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
-
-### Schritt 3.185 – Südtribune: Obergaden mit Rundfenstern – Teil 4/6 (Y 118–122)
-
-- **Y-Bereich:** 118 bis 122
-- **Blöcke:** 1.906
-- **Bauteile:** `tribune_sued_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.268 |
-| Glatter Quarzblock | `smooth_quartz` | 210 |
-| Glatter Stein | `smooth_stone` | 154 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 140 |
-| Gelbes Buntglas | `yellow_stained_glass` | 66 |
-| Dunkler Prismarin | `dark_prismarine` | 40 |
-| Oranges Buntglas | `orange_stained_glass` | 28 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
-
-**Tipp**
-
-Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
-
-**Achtung**
-
-Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
-
-**Fakt**
-
-Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
-
-### Schritt 3.186 – Südtribune: Obergaden mit Rundfenstern – Teil 5/6 (Y 123–126)
-
-- **Y-Bereich:** 123 bis 126
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_sued_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Quarzblock | `smooth_quartz` | 267 |
-| Glatter Stein | `smooth_stone` | 260 |
-| Polierter Granit | `polished_granite` | 33 |
-| Dunkler Prismarin | `dark_prismarine` | 32 |
-
-**Beschreibung**
-
-Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
-
-**Tipp**
-
-Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
-
-**Achtung**
-
-Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
-
-**Fakt**
-
-Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
-
-### Schritt 3.187 – Südtribune: Obergaden mit Rundfenstern – Teil 6/6 (Y 127–130)
-
-- **Y-Bereich:** 127 bis 130
-- **Blöcke:** 1.968
-- **Bauteile:** `tribune_sued_obergaden`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.376 |
-| Glatter Stein | `smooth_stone` | 260 |
+| Steinziegel | `stone_bricks` | 1.032 |
 | Glatter Quarzblock | `smooth_quartz` | 225 |
-| Dunkler Prismarin | `dark_prismarine` | 107 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Dunkler Prismarin | `dark_prismarine` | 24 |
 
 **Beschreibung**
 
@@ -5959,7 +5838,206 @@ Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, dam
 
 Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
 
-### Schritt 3.188 – Südtribune: Dächer – Teil 1/2 (Y 105–109)
+### Schritt 3.184 – Südtribune: Obergaden mit Rundfenstern – Teil 2/7 (Y 108–111)
+
+- **Y-Bereich:** 108 bis 111
+- **Blöcke:** 1.968
+- **Bauteile:** `tribune_sued_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.376 |
+| Glatter Quarzblock | `smooth_quartz` | 272 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Polierter Granit | `polished_granite` | 28 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
+
+**Tipp**
+
+Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
+
+**Achtung**
+
+Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
+
+**Fakt**
+
+Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
+
+### Schritt 3.185 – Südtribune: Obergaden mit Rundfenstern – Teil 3/7 (Y 112–115)
+
+- **Y-Bereich:** 112 bis 115
+- **Blöcke:** 1.902
+- **Bauteile:** `tribune_sued_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.310 |
+| Glatter Quarzblock | `smooth_quartz` | 248 |
+| Glatter Stein | `smooth_stone` | 208 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Gelbes Buntglas | `yellow_stained_glass` | 18 |
+| Oranges Buntglas | `orange_stained_glass` | 10 |
+| Polierter Granit | `polished_granite` | 4 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
+
+**Tipp**
+
+Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
+
+**Achtung**
+
+Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
+
+**Fakt**
+
+Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
+
+### Schritt 3.186 – Südtribune: Obergaden mit Rundfenstern – Teil 4/7 (Y 116–119)
+
+- **Y-Bereich:** 116 bis 119
+- **Blöcke:** 1.444
+- **Bauteile:** `tribune_sued_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 852 |
+| Gelbes Buntglas | `yellow_stained_glass` | 156 |
+| Glatter Quarzblock | `smooth_quartz` | 108 |
+| Glatter Stein | `smooth_stone` | 100 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 88 |
+| Oranges Buntglas | `orange_stained_glass` | 72 |
+| Dunkler Prismarin | `dark_prismarine` | 68 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
+
+**Tipp**
+
+Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
+
+**Achtung**
+
+Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
+
+**Fakt**
+
+Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
+
+### Schritt 3.187 – Südtribune: Obergaden mit Rundfenstern – Teil 5/7 (Y 120–123)
+
+- **Y-Bereich:** 120 bis 123
+- **Blöcke:** 1.792
+- **Bauteile:** `tribune_sued_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.200 |
+| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 171 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 100 |
+| Gelbes Buntglas | `yellow_stained_glass` | 48 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Oranges Buntglas | `orange_stained_glass` | 28 |
+| Polierter Granit | `polished_granite` | 13 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
+
+**Tipp**
+
+Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
+
+**Achtung**
+
+Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
+
+**Fakt**
+
+Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
+
+### Schritt 3.188 – Südtribune: Obergaden mit Rundfenstern – Teil 6/7 (Y 124–127)
+
+- **Y-Bereich:** 124 bis 127
+- **Blöcke:** 1.968
+- **Bauteile:** `tribune_sued_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.376 |
+| Glatter Quarzblock | `smooth_quartz` | 280 |
+| Glatter Stein | `smooth_stone` | 260 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
+| Polierter Granit | `polished_granite` | 20 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
+
+**Tipp**
+
+Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
+
+**Achtung**
+
+Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
+
+**Fakt**
+
+Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
+
+### Schritt 3.189 – Südtribune: Obergaden mit Rundfenstern – Teil 7/7 (Y 128–130)
+
+- **Y-Bereich:** 128 bis 130
+- **Blöcke:** 1.476
+- **Bauteile:** `tribune_sued_obergaden`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.032 |
+| Glatter Stein | `smooth_stone` | 195 |
+| Glatter Quarzblock | `smooth_quartz` | 150 |
+| Dunkler Prismarin | `dark_prismarine` | 99 |
+
+**Beschreibung**
+
+Du mauerst den Obergaden der Südtribune von Y 105 bis Y 130, 6 Blöcke dick, mit fünf Rundfenstern (Radius 3, Mitte Y 118) aus gelbem und orangem Glas. Gemeißelter Quarz rahmt die Fenster.
+
+**Tipp**
+
+Arbeite von der Achse aus nach beiden Seiten. So entsteht ein gleichmäßiges Bild.
+
+**Achtung**
+
+Die Fenster der schrägen Seiten gehen schräg durch die Wand. Zähle genau, damit sie rund wirken.
+
+**Fakt**
+
+Das Wort „Okulus“ ist Latein und heißt „Auge“. Auch die acht großen Fenster am Tambour des Doms heißen so.
+
+### Schritt 3.190 – Südtribune: Dächer – Teil 1/2 (Y 105–109)
 
 - **Y-Bereich:** 105 bis 109
 - **Blöcke:** 1.774
@@ -5987,7 +6065,7 @@ Das Tribunendach lehnt sich an die Vierungswand an. Setze die Blöcke bündig an
 
 Berühmte Terrakotta-Ziegel kommen aus Impruneta, einem Ort südlich von Florenz. Dort wird seit Jahrhunderten Ton gebrannt.
 
-### Schritt 3.189 – Südtribune: Dächer – Teil 2/2 (Y 110–136)
+### Schritt 3.191 – Südtribune: Dächer – Teil 2/2 (Y 110–136)
 
 - **Y-Bereich:** 110 bis 136
 - **Blöcke:** 1.604
@@ -6015,7 +6093,7 @@ Das Tribunendach lehnt sich an die Vierungswand an. Setze die Blöcke bündig an
 
 Berühmte Terrakotta-Ziegel kommen aus Impruneta, einem Ort südlich von Florenz. Dort wird seit Jahrhunderten Ton gebrannt.
 
-### Schritt 3.190 – Eckbauten und Sakristeien – Teil 1/22 (Y 65–66)
+### Schritt 3.192 – Eckbauten und Sakristeien – Teil 1/22 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.636
@@ -6046,7 +6124,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.191 – Eckbauten und Sakristeien – Teil 2/22 (Y 67–68)
+### Schritt 3.193 – Eckbauten und Sakristeien – Teil 2/22 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.636
@@ -6077,7 +6155,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.192 – Eckbauten und Sakristeien – Teil 3/22 (Y 69–70)
+### Schritt 3.194 – Eckbauten und Sakristeien – Teil 3/22 (Y 69–70)
 
 - **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.636
@@ -6109,7 +6187,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.193 – Eckbauten und Sakristeien – Teil 4/22 (Y 71–72)
+### Schritt 3.195 – Eckbauten und Sakristeien – Teil 4/22 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.636
@@ -6141,7 +6219,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.194 – Eckbauten und Sakristeien – Teil 5/22 (Y 73–74)
+### Schritt 3.196 – Eckbauten und Sakristeien – Teil 5/22 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.636
@@ -6173,7 +6251,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.195 – Eckbauten und Sakristeien – Teil 6/22 (Y 75–76)
+### Schritt 3.197 – Eckbauten und Sakristeien – Teil 6/22 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.636
@@ -6204,7 +6282,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.196 – Eckbauten und Sakristeien – Teil 7/22 (Y 77–78)
+### Schritt 3.198 – Eckbauten und Sakristeien – Teil 7/22 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.636
@@ -6235,7 +6313,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.197 – Eckbauten und Sakristeien – Teil 8/22 (Y 79–80)
+### Schritt 3.199 – Eckbauten und Sakristeien – Teil 8/22 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.636
@@ -6266,7 +6344,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.198 – Eckbauten und Sakristeien – Teil 9/22 (Y 81–82)
+### Schritt 3.200 – Eckbauten und Sakristeien – Teil 9/22 (Y 81–82)
 
 - **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.636
@@ -6297,7 +6375,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.199 – Eckbauten und Sakristeien – Teil 10/22 (Y 83–84)
+### Schritt 3.201 – Eckbauten und Sakristeien – Teil 10/22 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.636
@@ -6329,7 +6407,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.200 – Eckbauten und Sakristeien – Teil 11/22 (Y 85–86)
+### Schritt 3.202 – Eckbauten und Sakristeien – Teil 11/22 (Y 85–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.636
@@ -6361,7 +6439,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.201 – Eckbauten und Sakristeien – Teil 12/22 (Y 87–88)
+### Schritt 3.203 – Eckbauten und Sakristeien – Teil 12/22 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.636
@@ -6392,7 +6470,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.202 – Eckbauten und Sakristeien – Teil 13/22 (Y 89–90)
+### Schritt 3.204 – Eckbauten und Sakristeien – Teil 13/22 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.636
@@ -6423,7 +6501,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.203 – Eckbauten und Sakristeien – Teil 14/22 (Y 91–92)
+### Schritt 3.205 – Eckbauten und Sakristeien – Teil 14/22 (Y 91–92)
 
 - **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.828
@@ -6454,7 +6532,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.204 – Eckbauten und Sakristeien – Teil 15/22 (Y 93–94)
+### Schritt 3.206 – Eckbauten und Sakristeien – Teil 15/22 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
 - **Blöcke:** 2.058
@@ -6485,7 +6563,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.205 – Eckbauten und Sakristeien – Teil 16/22 (Y 95–96)
+### Schritt 3.207 – Eckbauten und Sakristeien – Teil 16/22 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 2.058
@@ -6517,7 +6595,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.206 – Eckbauten und Sakristeien – Teil 17/22 (Y 97–98)
+### Schritt 3.208 – Eckbauten und Sakristeien – Teil 17/22 (Y 97–98)
 
 - **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.892
@@ -6549,7 +6627,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.207 – Eckbauten und Sakristeien – Teil 18/22 (Y 99–100)
+### Schritt 3.209 – Eckbauten und Sakristeien – Teil 18/22 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.664
@@ -6581,7 +6659,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.208 – Eckbauten und Sakristeien – Teil 19/22 (Y 101–101)
+### Schritt 3.210 – Eckbauten und Sakristeien – Teil 19/22 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.802
@@ -6609,7 +6687,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.209 – Eckbauten und Sakristeien – Teil 20/22 (Y 102–102)
+### Schritt 3.211 – Eckbauten und Sakristeien – Teil 20/22 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.802
@@ -6637,7 +6715,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.210 – Eckbauten und Sakristeien – Teil 21/22 (Y 103–103)
+### Schritt 3.212 – Eckbauten und Sakristeien – Teil 21/22 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.802
@@ -6665,7 +6743,7 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.211 – Eckbauten und Sakristeien – Teil 22/22 (Y 104–104)
+### Schritt 3.213 – Eckbauten und Sakristeien – Teil 22/22 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.802
@@ -6693,37 +6771,37 @@ Die Räume sind leer, auch wenn sie zugedeckt sind. Fülle sie nicht auf. Die De
 
 Die Sagrestia delle Messe im Dom ist mit Intarsien aus eingelegtem Holz geschmückt. Ihre Bronzetür schuf Luca della Robbia.
 
-### Schritt 3.212 – Sockel für die „tribune morte“ – Teil 1/11 (Y 105–106)
+### Schritt 3.214 – Abschluss der Kapellendächer & Sockel für die „tribune morte“ – Teil 1/11 (Y 105–106)
 
-- **Y-Bereich:** 105 bis 106
-- **Blöcke:** 1.616
-- **Bauteile:** `exedra_sockel`
+- **Y-Bereich:** 105 bis 108
+- **Blöcke:** 1.736
+- **Bauteile:** `kapellendach_abschluss`, `exedra_sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.368 |
+| Steinziegel | `stone_bricks` | 1.488 |
 | Glatter Quarzblock | `smooth_quartz` | 232 |
 | Dunkler Prismarin | `dark_prismarine` | 16 |
 
 **Beschreibung**
 
-Du setzt vier massive Sockel auf die Eckbauten, jeder ein Halbkreis mit Radius 11 um die Mittelpunkte (±38 | ±38) und von Y 105 bis Y 148. Die Sockel sind hohl gemauert, die obersten drei Lagen sind voll. Auf der Lage Y 148 bilden sie zusammen mit dem Ring der Vierung eine durchgehende Fläche für den Tambour.
+Wo die Tribunen an die Eckbauten stoßen, ist der Raum unter dem Pultdach der Kapellen zur Vierung hin offen. Diese Randzellen über der Kapellenmauer (Y 105 bis 111) füllst du mit Steinziegeln. Du setzt vier massive Sockel auf die Eckbauten, jeder ein Halbkreis mit Radius 11 um die Mittelpunkte (±38 | ±38) und von Y 105 bis Y 148. Die Sockel sind hohl gemauert, die obersten drei Lagen sind voll. Auf der Lage Y 148 bilden sie zusammen mit dem Ring der Vierung eine durchgehende Fläche für den Tambour.
 
 **Tipp**
 
-Baue jeden Sockel als Halbkreis vom Achteck nach außen. Mit dem Mittelpunkt als Ausgangspunkt zählst du 11 Blöcke in jede Richtung.
+Baue erst die Eckbauten, dann siehst du genau, wo die Lücke liegt. Baue jeden Sockel als Halbkreis vom Achteck nach außen. Mit dem Mittelpunkt als Ausgangspunkt zählst du 11 Blöcke in jede Richtung.
 
 **Achtung**
 
-Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst hat das nächste Modul keinen festen Stand.
+Die Kapellen selbst bleiben unverändert; der Abschluss liegt über ihren Gewölben. Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst hat das nächste Modul keinen festen Stand.
 
 **Fakt**
 
-Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
+Jede der drei Tribunen hat fünf Kapellen. Zusammen sind es fünfzehn Kapellen rund um den Chor. Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.213 – Sockel für die „tribune morte“ – Teil 2/11 (Y 107–111)
+### Schritt 3.215 – Sockel für die „tribune morte“ – Teil 2/11 (Y 107–111)
 
 - **Y-Bereich:** 107 bis 111
 - **Blöcke:** 1.640
@@ -6754,7 +6832,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.214 – Sockel für die „tribune morte“ – Teil 3/11 (Y 112–116)
+### Schritt 3.216 – Sockel für die „tribune morte“ – Teil 3/11 (Y 112–116)
 
 - **Y-Bereich:** 112 bis 116
 - **Blöcke:** 1.640
@@ -6785,7 +6863,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.215 – Sockel für die „tribune morte“ – Teil 4/11 (Y 117–120)
+### Schritt 3.217 – Sockel für die „tribune morte“ – Teil 4/11 (Y 117–120)
 
 - **Y-Bereich:** 117 bis 120
 - **Blöcke:** 1.792
@@ -6815,7 +6893,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.216 – Sockel für die „tribune morte“ – Teil 5/11 (Y 121–125)
+### Schritt 3.218 – Sockel für die „tribune morte“ – Teil 5/11 (Y 121–125)
 
 - **Y-Bereich:** 121 bis 125
 - **Blöcke:** 1.640
@@ -6846,7 +6924,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.217 – Sockel für die „tribune morte“ – Teil 6/11 (Y 126–129)
+### Schritt 3.219 – Sockel für die „tribune morte“ – Teil 6/11 (Y 126–129)
 
 - **Y-Bereich:** 126 bis 129
 - **Blöcke:** 1.792
@@ -6876,7 +6954,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.218 – Sockel für die „tribune morte“ – Teil 7/11 (Y 130–134)
+### Schritt 3.220 – Sockel für die „tribune morte“ – Teil 7/11 (Y 130–134)
 
 - **Y-Bereich:** 130 bis 134
 - **Blöcke:** 1.640
@@ -6906,7 +6984,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.219 – Sockel für die „tribune morte“ – Teil 8/11 (Y 135–139)
+### Schritt 3.221 – Sockel für die „tribune morte“ – Teil 8/11 (Y 135–139)
 
 - **Y-Bereich:** 135 bis 139
 - **Blöcke:** 1.640
@@ -6937,7 +7015,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.220 – Sockel für die „tribune morte“ – Teil 9/11 (Y 140–142)
+### Schritt 3.222 – Sockel für die „tribune morte“ – Teil 9/11 (Y 140–142)
 
 - **Y-Bereich:** 140 bis 142
 - **Blöcke:** 1.464
@@ -6967,7 +7045,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.221 – Sockel für die „tribune morte“ – Teil 10/11 (Y 143–146)
+### Schritt 3.223 – Sockel für die „tribune morte“ – Teil 10/11 (Y 143–146)
 
 - **Y-Bereich:** 143 bis 146
 - **Blöcke:** 1.792
@@ -6997,7 +7075,7 @@ Die oberste Lage Y 148 muss lückenlos sein, auch am Rand des Halbkreises. Sonst
 
 Brunelleschi baute vier „tribune morte“ an das Achteck der Kuppel. Der Name bedeutet „tote Tribünen“, denn anders als die drei großen Tribunen sind es nur kleine Halbrundnischen am Tambour.
 
-### Schritt 3.222 – Sockel für die „tribune morte“ – Teil 11/11 (Y 147–148)
+### Schritt 3.224 – Sockel für die „tribune morte“ – Teil 11/11 (Y 147–148)
 
 - **Y-Bereich:** 147 bis 148
 - **Blöcke:** 1.616

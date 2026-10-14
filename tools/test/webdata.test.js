@@ -60,7 +60,7 @@ test('Projektindex: Dom gebaut, Wahrzeichen geplant, Demo ausgeschlossen', () =>
   assert.equal(duomo.modules.length, 10);
   assert.deepEqual(duomo.gebaeude.slice().sort(), wi.DOM_IDS.slice().sort());
   assert.ok(duomo.bounds.x0 < -300 && duomo.bounds.y1 === 293);
-  assert.equal(duomo.modules.reduce((a, m) => a + m.blocks, 0), 909019);
+  assert.equal(duomo.modules.reduce((a, m) => a + m.blocks, 0), 908560); // B5: begehbar (Stand 14.10.2026)
   assert.ok(duomo.modules.every((m) => fs.existsSync(path.join(WEB, m.file))));
   assert.ok(!idx.some((e) => e.id.startsWith('_')), 'kein Demo im Index');
   const planned = idx.filter((e) => e.status === 'geplant');

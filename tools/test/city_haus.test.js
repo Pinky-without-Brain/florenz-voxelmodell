@@ -62,6 +62,10 @@ function lecks(grid, plan) {
   const x0 = Math.min(...xs) - 4, x1 = Math.max(...xs) + 4, z0 = Math.min(...zs) - 4, z1 = Math.max(...zs) + 4;
   const y0 = plan.boden + 1, y1 = plan.eaves + 16;
   const key = (x, y, z) => `${x},${y},${z}`;
+  // Haustüren (B4) sind gewollte Öffnungen: Tür-, Durchbruch- und offene Wandzellen im Erdgeschoss gelten als zu
+  const tuer = new Set([...(plan.tuerZellen || []).map(([x, z]) => P.ck(x, z)), ...(plan.durchbruch || [])]);
+  const egTop = plan.boden + plan.storeys[0].h;
+  const zu = (x, y, z) => y <= egTop && tuer.has(P.ck(x, z));
   const seen = new Set();
   const st = [[x0, y1, z0]];
   seen.add(key(x0, y1, z0));
@@ -70,7 +74,7 @@ function lecks(grid, plan) {
     for (const [dx, dy, dz] of N6) {
       const nx = x + dx, ny = y + dy, nz = z + dz;
       if (nx < x0 || nx > x1 || nz < z0 || nz > z1 || ny < y0 || ny > y1) continue;
-      if (grid.has(nx, ny, nz) || seen.has(key(nx, ny, nz))) continue;
+      if (grid.has(nx, ny, nz) || zu(nx, ny, nz) || seen.has(key(nx, ny, nz))) continue;
       seen.add(key(nx, ny, nz)); st.push([nx, ny, nz]);
     }
   }

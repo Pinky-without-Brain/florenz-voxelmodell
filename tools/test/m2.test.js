@@ -69,10 +69,10 @@ test('Keine Lücke von Westen: jede (z,y)-Spalte des Langhaus-Querschnitts ist v
   assert.deepEqual(gaps.slice(0, 5), []);
 });
 
-test('Fassade hat drei Portale mit Bronzetür und 12 Nischen', () => {
-  const doors = new Set();
-  grid.forEach((x, y, z, e) => { if (e.module === 2 && e.type === 'cut_copper' && x === -214) doors.add(z); });
-  for (const cu of [0, -29, 29]) assert.ok(doors.has(cu), `Tür bei z ${cu}`);
+test('Fassade hat drei offene Portale bis zum Fußboden (B5) und 12 Nischen', () => {
+  for (const cu of [0, -29, 29]) {
+    for (let x = -216; x <= -213; x++) for (let y = 65; y <= 67; y++) assert.equal(grid.has(x, y, cu), false, `Portal offen bei ${x},${y},${cu}`);
+  }
   // Nischen: Zellen in Schicht d = 0 leer, Schicht d = 1 belegt, y 105 (nur Nischenzone)
   let open = 0;
   for (let z = -44; z <= 44; z++) if (!grid.has(-216, 106, z) && grid.has(-215, 106, z)) open++;

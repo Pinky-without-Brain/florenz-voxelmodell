@@ -11,7 +11,7 @@ window.CityView = (function () {
   var ROOF_COLORS = [0xA8523A, 0xB65E44, 0x9A4A36, 0xAF6A4E];
   var STATUS_COLORS = { gebaut: "#2e9e4f", in_arbeit: "#e8a317", geplant: "#9a7b7b" };
 
-  var cfg = { showDist: 1400, maxChunks: 2500, meshMs: 12, flySpeed: 1 };
+  var cfg = { showDist: 1400, maxChunks: 2500, meshMs: 12, flySpeed: 1, ladeRand: 200, ladeParallel: 2 };
   var container, renderer, scene, camera, controls, sun;
   var basis = null, index = [];
   var terrain = null;         // { x0, z0, step, w, h, y: Int16Array, extX, extZ }
@@ -350,25 +350,71 @@ window.CityView = (function () {
   }
 
   // ---------------------------------------------------------------- Voxel-Projekte (lazy je Chunk)
+  // Voxelprojekte werden modulweise nach Nähe geladen: loadVoxels legt nur die Welt an, ladeNahe() füllt Module, deren
+  // Grundriss im Umkreis cfg.showDist + cfg.ladeRand der Kamera liegt (höchstens cfg.ladeParallel gleichzeitig).
+  // Module ohne Grenzen im Index (ältere Daten) werden beim ersten Bedarf alle auf einmal geladen.
+  var laedt = 0, letzteLadung = 0;
   function loadVoxels(id) {
     if (voxelProjects[id]) return Promise.resolve(voxelProjects[id]);
     var e = window.ProjectLoader.entry(id);
     if (!e || !e.modules.length) return Promise.reject(new Error("Projekt hat keine Daten: " + id));
-    var world = window.ProjectLoader.worldFor(id);
-    var t0 = performance.now();
-    var vp = { id: id, entry: e, world: world, group: new THREE.Group(), chunks: [], near: false, loadMs: 0, blocks: 0 };
+    var vp = { id: id, entry: e, world: window.ProjectLoader.worldFor(id), group: new THREE.Group(), chunks: [], chunkByKey: new Map(),
+      near: false, loadMs: 0, blocks: 0, geladen: new Set(), inArbeit: new Set() };
     voxelProjects[id] = vp;
     scene.add(vp.group);
-    return window.ProjectLoader.fillWorld(world, id).then(function (n) {
-      vp.blocks = n;
-      world.chunks.forEach(function (c, key) {
-        vp.chunks.push({ key: key, cx: c.cx, cz: c.cz, x: c.cx * 16 + 8, z: c.cz * 16 + 8, meshes: null, used: 0 });
+    ladeNahe(true);
+    return Promise.resolve(vp);
+  }
+
+  function moduleNah(cam, m) {
+    if (!m.b) return true;
+    var dx = Math.max(m.b[0] - cam.x, 0, cam.x - m.b[2]), dz = Math.max(m.b[1] - cam.z, 0, cam.z - m.b[3]);
+    return Math.hypot(dx, dz) < cfg.showDist + cfg.ladeRand;
+  }
+
+  function ladeNahe(sofort) {
+    var now = performance.now();
+    if (!sofort && now - letzteLadung < 400) return;
+    letzteLadung = now;
+    var cam = camera.position;
+    var kandidaten = [];
+    Object.keys(voxelProjects).forEach(function (id) {
+      var vp = voxelProjects[id];
+      vp.entry.modules.forEach(function (m) {
+        if (vp.geladen.has(m.n) || vp.inArbeit.has(m.n) || !moduleNah(cam, m)) return;
+        var d = m.b ? Math.hypot((m.b[0] + m.b[2]) / 2 - cam.x, (m.b[1] + m.b[3]) / 2 - cam.z) : 0;
+        kandidaten.push({ vp: vp, m: m, d: d });
       });
-      vp.loadMs = performance.now() - t0;
-      stats.voxelBlocks += n;
-      updateVoxels(true);
-      return vp;
     });
+    kandidaten.sort(function (a, b) { return a.d - b.d; });
+    kandidaten.slice(0, Math.max(0, cfg.ladeParallel - laedt)).forEach(function (k) { ladeModul(k.vp, k.m); });
+  }
+
+  function ladeModul(vp, m) {
+    var t0 = performance.now();
+    vp.inArbeit.add(m.n);
+    laedt++;
+    window.ProjectLoader.fillWorldModules(vp.world, vp.id, [m.n]).then(function (n) {
+      vp.inArbeit.delete(m.n);
+      vp.geladen.add(m.n);
+      laedt--;
+      vp.blocks += n;
+      stats.voxelBlocks += n;
+      vp.loadMs += performance.now() - t0;
+      // neue Chunks aufnehmen; schon vermaschte Chunks im Bereich des Moduls neu vermaschen (Modulgrenzen)
+      vp.world.chunks.forEach(function (c, key) {
+        var ch = vp.chunkByKey.get(key);
+        if (!ch) {
+          ch = { key: key, cx: c.cx, cz: c.cz, x: c.cx * 16 + 8, z: c.cz * 16 + 8, meshes: null, used: 0 };
+          vp.chunkByKey.set(key, ch);
+          vp.chunks.push(ch);
+        } else if (ch.meshes && (!m.b || (ch.x + 8 >= m.b[0] && ch.x - 8 <= m.b[2] && ch.z + 8 >= m.b[1] && ch.z - 8 <= m.b[3]))) {
+          dropOne(vp, ch);
+        }
+      });
+      updateVoxels(true);
+      ladeNahe(true);
+    }).catch(function (err) { laedt--; vp.inArbeit.delete(m.n); console.error(err); });
   }
 
   function makeMesh(part, mat) {
@@ -408,6 +454,7 @@ window.CityView = (function () {
 
   var meshBudgetOverride = 0;
   function updateVoxels(force) {
+    ladeNahe(false);
     var cam = camera.position, visible = 0, frameStart = performance.now();
     var deadline = performance.now() + (meshBudgetOverride ? 1e9 : cfg.meshMs), pending = 0;
     Object.keys(voxelProjects).forEach(function (id) {

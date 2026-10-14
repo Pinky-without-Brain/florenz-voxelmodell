@@ -1,0 +1,16 @@
+{
+  "id": "palazzo_pitti",
+  "title": "Palazzo Pitti",
+  "type": "wahrzeichen",
+  "gebaeude": ["r1637338"],
+  "bodenY": 83,
+  "rahmen": { "ox": -1226, "oz": 1864.5, "thetaDeg": -33.1 },
+  "masken": {
+    "korridor": { "gebaeude": ["w1344547176", "w1394832037", "w1394832038", "w1394832039", "w1394832040",
+                               "w1394832041", "w1394832042", "w1394832043"],
+                  "xMax": -529, "abzugHaupt": true, "abzugProjekte": ["ponte_vecchio", "uffizi"],
+                  "abzugAlle": true, "gelaendeBis": "frei" }
+  },
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

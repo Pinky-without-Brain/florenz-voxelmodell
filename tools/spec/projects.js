@@ -8,5 +8,6 @@
 module.exports = { PROJECTS: [
   { id: 'duomo', title: 'Santa Maria del Fiore', type: 'wahrzeichen',
     modelDir: 'tools/model', contentDir: 'content/steps_de', interfaces: 'tools/spec/interfaces.js',
-    ground: 'tools/spec/ground_duomo.js', webDataDir: 'webapp/js/data/v2', docs: 'legacy-duomo' }
+    ground: 'tools/spec/ground_duomo.js', webDataDir: 'webapp/js/data/v2', docs: 'legacy-duomo',
+    json: { begehbarkeit: 'pflicht' } }
 ] };

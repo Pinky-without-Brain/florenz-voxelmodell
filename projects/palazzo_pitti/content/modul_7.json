@@ -1,0 +1,113 @@
+{
+  "module": 7,
+  "title": "Räume, Treppen, Zugänge, Licht",
+  "subtitle": "Raumteilung und Begehbarkeit",
+  "icon": "🚪",
+  "parts": {
+    "spinnwand_haupt": {
+      "title": "Spinnwand",
+      "description": "Längsmittelwand (w 26..27) durch alle Geschosse, Türen 3 × 5 je Raum, im EG Portal 7 × 9 vom Vestibül zum Hof.",
+      "tip": "Türen zuerst anreißen.",
+      "caution": "Putz, 2 dick.",
+      "fact": "Die Enfilade der Säle liegt an der Fassade."
+    },
+    "trennwaende_eg": {
+      "title": "Trennwände EG",
+      "description": "Auf dem Achsraster, Türen 3 × 5 in der Raummitte.",
+      "tip": "Türen in einer Flucht.",
+      "caution": "Vestibül bleibt ungeteilt.",
+      "fact": "Türen in einer Flucht heißen Enfilade."
+    },
+    "trennwaende_pn": {
+      "title": "Trennwände Piano nobile",
+      "description": "Raumreihen der Galerie, Treppenraumwände.",
+      "tip": "Türen in einer Flucht.",
+      "caution": "Durchgänge durch dicke Mauern sind breit.",
+      "fact": "Die Palatina zeigt Raffael, Tizian und Rubens."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände 2. OG",
+      "description": "Wie im Piano nobile.",
+      "tip": "Türen in einer Flucht.",
+      "caution": "Putz.",
+      "fact": "Die Räume dienten zuletzt als Museum moderner Kunst."
+    },
+    "appartamenti_waende": {
+      "title": "Wände der Appartamenti",
+      "description": "Drei Räume im Westblock hinter dem Hof (Piano nobile).",
+      "tip": "Türen in der Flucht.",
+      "caution": "Vereinfachte Raumteilung.",
+      "fact": "Die Appartamenti Reali wurden von den Savoyern bewohnt."
+    },
+    "treppe_s3_west_eg": {
+      "title": "Treppe West, EG → PN",
+      "description": "Podesttreppe 13 + 12 Stufen, 3 breit, Pietra serena.",
+      "tip": "Unter jeder Stufe ein Auflager.",
+      "caution": "Über jeder Stufe 3 Luft.",
+      "fact": "Breite Treppen gehören zur Würdeform eines Palastes."
+    },
+    "treppe_s1_ost_eg": {
+      "title": "Treppe Ost, EG → PN",
+      "description": "Podesttreppe 13 + 12 Stufen (Scalone).",
+      "tip": "Unter jeder Stufe ein Auflager.",
+      "caution": "Treppenloch in der Decke.",
+      "fact": "Ammannati baute eine monumentale Treppe zum Piano nobile."
+    },
+    "treppe_s4_west_pn": {
+      "title": "Treppe West, PN → OG",
+      "description": "Podesttreppe 13 + 12 Stufen.",
+      "tip": "Unter jeder Stufe ein Auflager.",
+      "caution": "Treppenloch in der Decke.",
+      "fact": "Jedes Geschoss ist über zwei Treppen erreichbar."
+    },
+    "treppe_s2_ost_pn": {
+      "title": "Treppe Ost, PN → OG",
+      "description": "Podesttreppe 13 + 12 Stufen.",
+      "tip": "Unter jeder Stufe ein Auflager.",
+      "caution": "Treppenloch in der Decke.",
+      "fact": "Die Treppen liegen in den Endräumen der Raumreihen."
+    },
+    "treppe_w_eg": {
+      "title": "Treppe Nebenbau",
+      "description": "Podesttreppe EG → Obergeschoss im westlichen Nebenbau.",
+      "tip": "Unter jeder Stufe ein Auflager.",
+      "caution": "Treppenloch in der Decke.",
+      "fact": "Der Nebenbau hat zwei Geschosse."
+    },
+    "treppe_ali_west": {
+      "title": "Flügeltreppe West",
+      "description": "Gerade Treppe 22 Stufen auf die Dachterrasse, Pietra forte.",
+      "tip": "Austritt im Terrassendach offen.",
+      "caution": "Kopffreiheit 3.",
+      "fact": "Die Flügeldächer sind begehbare Terrassen."
+    },
+    "treppe_ali_ost": {
+      "title": "Flügeltreppe Ost",
+      "description": "Wie im Westflügel.",
+      "tip": "Austritt offen.",
+      "caution": "Kopffreiheit 3.",
+      "fact": "Von hier sieht man die Fassade von der Seite."
+    },
+    "ali_bruestung": {
+      "title": "Brüstung der Terrassen",
+      "description": "Lage 23..24 am Rand der Flügeldächer.",
+      "tip": "Ringsum geschlossen.",
+      "caution": "Austritt der Treppe bleibt frei.",
+      "fact": "Brüstungen sichern die Dachterrassen."
+    },
+    "aussenstufen": {
+      "title": "Außenstufen",
+      "description": "Treppenblöcke vor Arkaden, Portal und Tor, wo der Platz tiefer liegt (bis zu drei Stufen).",
+      "tip": "Aufstieg zum Gebäude hin.",
+      "caution": "Der Stadtgrund gleicht den Platz vor dem Palast später auf Y 83 an.",
+      "fact": "Die Piazza dei Pitti steigt zum Palast hin an."
+    },
+    "raum_licht": {
+      "title": "Licht",
+      "description": "Seelaternen in den Decken, höchstens 10 Zellen Abstand, in allen Räumen.",
+      "tip": "Lichter sitzen in der untersten Deckenlage.",
+      "caution": "Nie über Treppen.",
+      "fact": "Kronleuchter erhellten früher die Säle."
+    }
+  }
+}

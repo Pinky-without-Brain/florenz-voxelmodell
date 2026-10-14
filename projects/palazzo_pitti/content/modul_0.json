@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Bodenplatte",
+  "subtitle": "Sockel vor dem Boboli-Hang",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Bruchstein von der Geländeoberkante bis Y 82, wo der Platz tiefer liegt; außen zwei Zellen Rustika als sichtbarer Sockel.",
+      "tip": "Erst die Außenkante, dann das Innere füllen.",
+      "caution": "Im hinteren Teil ist das Gelände höher: dort trägt der Stadtgrund den Hang bis Y 82 ab (Aushub).",
+      "fact": "Der Palast wurde ab 1458 für Luca Pitti an den Hang des Boboli-Hügels gebaut."
+    },
+    "bodenplatte": {
+      "title": "Bodenplatte",
+      "description": "Lage 0 (Y 83) unter dem ganzen Palast: Wandband Bruchstein, Räume Pietra serena, Höfe Pflaster.",
+      "tip": "Die Platte ist der Boden aller Erdgeschossräume und Höfe.",
+      "caution": "Die Höfe gehören zum Projekt, nicht zum Stadtgrund.",
+      "fact": "Der Ammannati-Hof ist etwa 35 × 50 m groß."
+    }
+  }
+}

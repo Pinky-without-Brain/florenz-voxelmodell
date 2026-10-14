@@ -284,3 +284,13 @@ Je Kachel siehe §2.2 (min 23,7 k, Median 63,9 k, max 274,2 k). ≈ **8.300 Baus
 4. **Mauerhöhen** (8 m Stadtmauer, 2,5 m Gartenmauer) ohne Quelle. Empfehlung: bauen, Content-Hinweis „geschätzt“.
 5. **Straßenmaterial** (Pietra-forte-Pflaster auch auf Hauptstraßen?). Empfehlung: Hauptstraßen `pietra_forte` und Palettenwunsch „dunkles Grau“ nach Sichtprüfung entscheiden.
 6. **Hang unter dem Pitti** (Aushub 21.023 Zellen, Stützwand bis 38 Blöcke). Empfehlung: akzeptieren (Referenzmaße Pitti §6.3).
+
+## 16. Umsetzungsstand (14.10.2026)
+**Umgesetzt (S0, S1 Teil 1):** Pipeline für unabhängige Module (`tools/build.js`, `tools/model/world.js`, `tools/validate/x_projects.js`, Minecraft-Export), Besitzraster `tools/city/besitz.js` + `data/stadt/besitz_projekte.json`, Generator `tools/city/stadtgrund.js`, Projekt `projects/stadtgrund` mit den 8 Kacheln der gebauten Wahrzeichen (`aktiv`: 69, 98, 99, 112, 113, 114, 127, 128; 665.743 Blöcke). Test `tools/test/stadtgrund.test.js`. `--cross` gegen alle 7 Projekte: 0 Konflikte, 0 Säulen mit y-Überschneidung.
+**S1 Teil 2 (umgesetzt):** Gefällebegrenzung (§8a.1, 3 gleichzeitige Runden, je Spalte ±3, nicht im Glättungsband), Treppenblöcke (§8a.2, Voreinstellung „stufen“: Treppenflächen, Plätze, Fußgängerstraßen; genau ein begehbarer Nachbar 1 tiefer), Ufer-Brüstung (§7.2), Mauern (§9; Durchgänge in Straßen-, Weg- und Platzspalten), Neptunbrunnen (425 Blöcke) und Reiterstandbild (400 Blöcke). **Berichtigung §11/§7.3:** Das Reiterstandbild (z 742) liegt in Kachel **99** (z 432..751), nicht in 114; jedes Monument wird in der Kachel seiner Mitte gebaut.
+**Abweichungen von dieser Spezifikation (bewusst, vereinfacht):**
+- Besitz gebauter Projekte aus ihren echten Säulen-minY (statt aus Masken und `bodenY`): konfliktfrei und lückenlos. Liegt minY ≥ groundTopY + 4 (Gesims, Brücke, Korridor über der Straße), bleibt die Spalte frei. Noch nicht gebaute Gebäude (auch Wahrzeichen ohne Projekt): `tMax = groundTopY − 1` (Rückfall §3.2); kein globales Parzellenraster.
+- Wasserspiegel: Median je 16er-Block über 3 × 3 Blöcke (48 × 48) statt Fenster 31; Wasserflächen bis 50.000 Zellen sind Teiche mit einem Spiegel je Polygon. Ergebnis am Ponte Vecchio Y 50 (Test).
+- Wasserspalten füllen das Bett von `groundTopY + 1` bis `W − 2`, wenn das Gelände tiefer liegt (Auflager, R3).
+**Stand 14.10.2026 abends:** 21 aktive Kacheln (alle, die ein gebautes Projekt berühren), 1.240.083 Blöcke, `--cross` 0 Konflikte.
+**Offen (nächste Pakete):** weitere Kacheln in `aktiv` (Kern, 131 Kacheln mit ≥ 30 % Gebäuden), danach Rand (S2); Uferabgänge (S4) und Bäume (S3) optional.

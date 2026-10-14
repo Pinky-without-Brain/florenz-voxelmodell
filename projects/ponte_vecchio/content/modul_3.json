@@ -1,0 +1,43 @@
+{
+  "module": 3,
+  "title": "Läden West",
+  "subtitle": "Westzeile und Terrasse",
+  "icon": "🏪",
+  "parts": {
+    "laeden_west_waende": {
+      "title": "Außenwände der Westläden",
+      "description": "Wie die Ostläden: Wandband 2, offene Türen 2 × 5, Schaufenster, Läden und Fenster.",
+      "tip": "Die Front liegt zur Fahrbahn hin (w ≈ 7).",
+      "caution": "Die Lücke in der Mitte ist die Terrasse.",
+      "fact": "Viele Läden haben noch heute ihre hölzernen Klappläden."
+    },
+    "laeden_west_trennwaende": {
+      "title": "Trennwände",
+      "description": "Querwände je 8 Blöcke mit Türen unten und oben.",
+      "tip": "Wie im Osten.",
+      "caution": "Türen frei lassen.",
+      "fact": "Die Läden sind bis heute einzeln vermietet."
+    },
+    "laeden_west_zwischendecke": {
+      "title": "Zwischendecke",
+      "description": "Holzdecke Lage 8 bis 9.",
+      "tip": "Treppenloch frei lassen.",
+      "caution": "Lichter in der Decke.",
+      "fact": "Das Obergeschoss war meist Lager."
+    },
+    "laeden_west_decke": {
+      "title": "Decke der Westläden",
+      "description": "Lage 14 bis 15 über der Westzeile, darauf das Dach.",
+      "tip": "Ganzflächig.",
+      "caution": "Lichter in der Decke.",
+      "fact": "Die Westzeile hat kein Obergeschoss des Korridors."
+    },
+    "terrasse_bruestung": {
+      "title": "Brüstung der Terrasse",
+      "description": "Auf der Westfreifläche eine niedrige Brüstung (Lage 1 bis 2) am Rand, in der Mitte offen.",
+      "tip": "Lass in der Mitte 9 Blöcke frei.",
+      "caution": "Der Brunnen steht in der Mitte.",
+      "fact": "Von hier sieht man den Ponte Santa Trinita."
+    }
+  }
+}

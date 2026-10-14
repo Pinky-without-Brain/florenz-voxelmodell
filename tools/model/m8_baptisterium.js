@@ -191,8 +191,25 @@ function wallCell(x, y, z) {
   return null;
 }
 
-function fillWall(w, y0, y1) {
+function fillWall(w, y0, y1, ctx) {
   w.fill(box(CX - A_OUT - 1, y0, CZ - A_OUT - 1, CX + A_OUT + 1, y1, CZ + A_OUT + 1), (x, y, z) => wallCell(x, y, z));
+  if (!ctx) return;
+  // B5: Hohlkern (A1) und Durchgänge deklarieren
+  const hohl = [], tor = [];
+  for (let y = y0; y <= y1; y++) {
+    for (let x = CX - A_OUT; x <= CX + A_OUT; x++) {
+      for (let z = CZ - A_OUT; z <= CZ + A_OUT; z++) {
+        const dx = x - CX, dz = z - CZ;
+        if (!inWall(dx, dz)) continue;
+        const f = info(dx, dz);
+        const t = wallType(f.k, f.ua, f.d, y);
+        if (t !== null && t !== GLASS && isHollow(x, y, z)) hohl.push({ x, y, z });
+        if (t === null && (portalOpen(f.k, f.ua, y) || westOpen(f.k, f.ua, y)) && f.k !== 0) tor.push({ x, y, z });
+      }
+    }
+  }
+  if (hohl.length) ctx.unzugaenglich(hohl, 'Hohlkern des Schalenmauerwerks (A1): ringsum geschlossen, kein Raum');
+  if (tor.length) ctx.oeffnung(tor, 'tor');
 }
 
 // --- Scarsella ----------------------------------------------------------------
@@ -269,8 +286,10 @@ function lanternCells() {
   const colRing = (dx, dz) => inOctagon(dx, dz, LANT_A) && (ab(dx) + ab(dz) === Math.floor(LANT_A * Math.SQRT2 + 0.5));
   for (let dx = -LANT_A; dx <= LANT_A; dx++) {
     for (let dz = -LANT_A; dz <= LANT_A; dz++) {
-      if (!colRing(dx, dz) || ab(dx) === ab(dz)) continue;
-      for (let y = LANT_Y0; y <= LANT_COL_TOP; y++) cells.push({ x: CX + dx, y, z: CZ + dz, t: 'quartz_pillar' });
+      const rand = inOctagon(dx, dz, LANT_A) && !inOctagon(dx, dz, LANT_A - 1);
+      const saeule = colRing(dx, dz) && ab(dx) !== ab(dz);
+      // B5: zwischen den Säulen verglast (das Kuppelauge darunter ist offen)
+      if (saeule || rand) for (let y = LANT_Y0; y <= LANT_COL_TOP; y++) cells.push({ x: CX + dx, y, z: CZ + dz, t: saeule ? 'quartz_pillar' : GLASS });
     }
   }
   for (const c of octagonPrism(CX, CZ, LANT_A + 1, LANT_BEAM_Y, LANT_BEAM_Y)) {
@@ -287,7 +306,8 @@ function lanternCells() {
 function portalLeafCells() {
   const cells = [];
   const leafPos = (k, u) => (k === 0 ? [CX + PORTAL_A, CZ + u] : k === 6 ? [CX + u, CZ - PORTAL_A] : [CX + u, CZ + PORTAL_A]);
-  for (const k of [0, 6, 2]) {
+  // B5: Nord- und Südportal stehen offen (Zugang), das Ostportal (Paradiespforte) bleibt geschlossen
+  for (const k of [0]) {
     for (let u = -PORTAL_W; u <= PORTAL_W; u++) {
       for (let y = WALK; y <= PORTAL_TOP_Y; y++) {
         const v = y - WALK, c = u + PORTAL_W;
@@ -306,7 +326,7 @@ function build(ctx) {
   const SYM = { symmetry: { order: 8, cx: CX, cz: CZ } };
 
   // 1 Sockel und Untergeschoss (Portale O/N/S, Durchgang W; ohne Symmetrie-Flag)
-  fillWall(ctx.part('sockel_und_untergeschoss'), UG[0], UG[1]);
+  fillWall(ctx.part('sockel_und_untergeschoss'), UG[0], UG[1], ctx);
 
   // 2 Türblätter der Portale
   const leaves = ctx.part('portale');
@@ -317,8 +337,8 @@ function build(ctx) {
   for (const c of scarsellaCells()) sc.set(c.x, c.y, c.z, c.t);
 
   // 4 Obergeschoss, 5 Attika
-  fillWall(ctx.part('obergeschoss', SYM), OG[0], OG[1]);
-  fillWall(ctx.part('attika', SYM), AT[0], AT[1]);
+  fillWall(ctx.part('obergeschoss', SYM), OG[0], OG[1], ctx);
+  fillWall(ctx.part('attika', SYM), AT[0], AT[1], ctx);
 
   // 6 Innenkuppel (liegt auf der Wand), 7 Pyramidendach (liegt auf Attika und Kuppel), 8 Laterne
   const dome = ctx.part('innenkuppel', SYM);
@@ -327,6 +347,34 @@ function build(ctx) {
   for (const c of roofCells()) roof.set(c.x, c.y, c.z, c.t);
   const lantern = ctx.part('laterne', SYM);
   for (const c of lanternCells()) lantern.set(c.x, c.y, c.z, c.t);
+
+  // B5: Dachraum über der Innenkuppel, Laternenraum, Mauerkrone der Scarsella (bewusst unzugänglich)
+  const domeTop = new Map();
+  for (const c of domeCells()) { const k = c.x + ',' + c.z; if (!(domeTop.get(k) >= c.y)) domeTop.set(k, c.y); }
+  const dach = [];
+  for (const [k, top] of domeTop) {
+    const [x, z] = k.split(',').map(Number);
+    for (let y = top + 1; y <= B.roofApexY; y++) if (!ctx.grid.has(x, y, z)) dach.push({ x, y, z });
+  }
+  ctx.unzugaenglich(dach, 'Dachraum zwischen Innenkuppel und Pyramidendach: leerer Raum ohne Bedeutung');
+  const lr = [];
+  for (let dx = -LANT_A; dx <= LANT_A; dx++) for (let dz = -LANT_A; dz <= LANT_A; dz++) {
+    if (!inOctagon(dx, dz, LANT_A)) continue;
+    for (let y = B.roofApexY - 1; y < LANT_BEAM_Y; y++) if (!ctx.grid.has(CX + dx, y, CZ + dz)) lr.push({ x: CX + dx, y, z: CZ + dz });
+  }
+  ctx.unzugaenglich(lr, 'Inneres der Laterne über dem Dachauge: nur Lichtschacht, nicht begehbar');
+  const unterGebaelk = [];
+  for (let dx = -LANT_A - 1; dx <= LANT_A + 1; dx++) for (let dz = -LANT_A - 1; dz <= LANT_A + 1; dz++) {
+    if (!inOctagon(dx, dz, LANT_A + 1) || inOctagon(dx, dz, LANT_A)) continue;
+    for (let y = B.roofApexY - 2; y < LANT_BEAM_Y; y++) if (!ctx.grid.has(CX + dx, y, CZ + dz)) unterGebaelk.push({ x: CX + dx, y, z: CZ + dz });
+  }
+  ctx.oeffnung(unterGebaelk, 'loggia'); // außen, nur vom Gebälk der Laterne überdeckt
+  const sk = [];
+  for (let z = -SC.halfZ; z <= SC.halfZ; z++) for (let y = SC_ROOF_HIGH_Y + 1; y < OG[1]; y++) {
+    if (!ctx.grid.has(SC_X_EAST, y, z)) sk.push({ x: SC_X_EAST, y, z });
+  }
+  ctx.unzugaenglich(sk, 'Dachkante der Scarsella unter dem Gesims des Achtecks: kein Standplatz');
+  ctx.oeffnung(sk, 'loggia'); // außen, nur vom Gesims überdeckt
 }
 
 module.exports = {

@@ -4,7 +4,7 @@
 // Nur dort, wo sich Säulen zweier Projekte im y-Bereich überschneiden, wird die Welt erneut gebaut
 // und zellweise geprüft.
 
-const { buildWorld } = require('../model/world.js');
+const { buildWorld, listModules, isUnabhaengig, vergissGenerator } = require('../model/world.js');
 const { loadRegistry } = require('../projects.js');
 const { Z_MIN, X_MIN, unpackKey } = require('../geom/grid.js');
 
@@ -46,10 +46,33 @@ function yOverlap(va, vb) {
   return Math.max(aLo, bLo) <= Math.min(aHi, bHi);
 }
 
-function buildGrid(project, errors) {
-  const world = buildWorld({ project });
+function buildGrid(project, errors, modules) {
+  const world = buildWorld({ project, modules });
   for (const e of world.errors) errors.push(`Projekt ${project.id}: ${e.message}`);
   return world.grid;
+}
+
+// Projekt mit unabhängigen Modulen (Stadtgrund): Modul für Modul bauen; behalten werden nur Säulen in den Umrissen
+// der übrigen Projekte (boxes), dazu je Säule das Modul (für die zellweise Zweitprüfung).
+function scanUnabhaengig(project, errors, boxes) {
+  const cols = new Map(), modulVon = new Map();
+  const box = { minX: Infinity, maxX: -Infinity, minZ: Infinity, maxZ: -Infinity };
+  let zellen = 0;
+  const inBox = (x, z) => boxes.some((b) => x >= b.minX && x <= b.maxX && z >= b.minZ && z <= b.maxZ);
+  for (const n of listModules(project).numbers) {
+    const grid = buildGrid(project, errors, [n]);
+    zellen += grid.size;
+    const sc = scanColumns(grid);
+    for (const [col, v] of sc.cols) {
+      const x = colX(col), z = colZ(col);
+      if (!inBox(x, z)) continue;
+      cols.set(col, v);
+      modulVon.set(col, n);
+      if (x < box.minX) box.minX = x; if (x > box.maxX) box.maxX = x;
+      if (z < box.minZ) box.minZ = z; if (z > box.maxZ) box.maxZ = z;
+    }
+  }
+  return { cols, box, modulVon, zellen };
 }
 
 const fmtCell = (key) => {
@@ -80,10 +103,19 @@ function checkCrossProject(projectIds, opts = {}) {
   // 1) Raster je Projekt, Grid wird sofort verworfen
   const maps = new Map();
   for (const p of projects) {
+    if (isUnabhaengig(p)) continue;
     const grid = buildGrid(p, errors);
     const sc = scanColumns(grid);
+    vergissGenerator(p);
     maps.set(p.id, sc);
     log(`  ${p.id}: ${grid.size} Zellen, ${sc.cols.size} Säulen`);
+  }
+  const boxes = [...maps.values()].filter((m) => m.cols.size).map((m) => m.box);
+  for (const p of projects) {
+    if (!isUnabhaengig(p)) continue;
+    const sc = scanUnabhaengig(p, errors, boxes);
+    maps.set(p.id, sc);
+    log(`  ${p.id}: ${sc.zellen} Zellen (unabhängige Module), ${sc.cols.size} Säulen in den Umrissen der übrigen Projekte`);
   }
 
   // 2) Säulen mit überlappendem y-Bereich je Paar
@@ -113,16 +145,21 @@ function checkCrossProject(projectIds, opts = {}) {
   for (const p of projects) {
     const cols = need.get(p.id);
     if (!cols.size) continue;
-    const grid = buildGrid(p, errors);
+    const mv = maps.get(p.id).modulVon;
+    const gruppen = mv ? [...new Set([...cols].map((c) => mv.get(c)))].sort((a, b) => a - b).map((n) => [n]) : [undefined];
     const m = new Map();
-    grid.forEachKey((key) => {
-      if (cols.has(colOf(key))) {
-        const c = unpackKey(key);
-        const e = grid.get(c.x, c.y, c.z);
-        m.set(key, `${e.module}/${e.part}`);
-      }
-    });
+    for (const mods of gruppen) {
+      const grid = buildGrid(p, errors, mods);
+      grid.forEachKey((key) => {
+        if (cols.has(colOf(key))) {
+          const c = unpackKey(key);
+          const e = grid.get(c.x, c.y, c.z);
+          m.set(key, `${e.module}/${e.part}`);
+        }
+      });
+    }
     cells.set(p.id, m);
+    vergissGenerator(p);
   }
   let columnOverlaps = 0, conflicts = 0;
   for (const pair of pairs) {

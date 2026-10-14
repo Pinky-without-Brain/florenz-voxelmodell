@@ -142,6 +142,20 @@ window.ProjectLoader = (function () {
     });
   }
 
+  // Nur die genannten Module in eine Welt füllen (Stadtansicht: Laden nach Nähe)
+  function fillWorldModules(world, id, nums) {
+    return Promise.all(nums.map(function (n) { return loadModule(id, n); })).then(function (raws) {
+      var n = 0;
+      raws.forEach(function (m) {
+        var ids = m.palette.map(function (t) { return world.typeId(t); });
+        m.steps.forEach(function (s) {
+          forEachRun(s.runs, function (x, y, z0, len, t) { world.setRun(x, y, z0, len, ids[t]); n += len; });
+        });
+      });
+      return n;
+    });
+  }
+
   // Demo-Projekt nur mit ?demo=1 (nicht im generierten Index)
   function loadDemoIfRequested() {
     try {
@@ -152,7 +166,7 @@ window.ProjectLoader = (function () {
 
   return {
     index: index, entry: entry, loadScript: loadScript, loadBasis: loadBasis, loadModule: loadModule, loadProject: loadProject,
-    fillWorld: fillWorld, worldFor: worldFor, blockInfo: blockInfo, forEachRun: forEachRun, decodeRuns: decodeRuns,
+    fillWorld: fillWorld, fillWorldModules: fillWorldModules, worldFor: worldFor, blockInfo: blockInfo, forEachRun: forEachRun, decodeRuns: decodeRuns,
     loadDemoIfRequested: loadDemoIfRequested
   };
 })();

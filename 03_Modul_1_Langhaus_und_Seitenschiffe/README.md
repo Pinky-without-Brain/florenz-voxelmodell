@@ -1,8 +1,8 @@
 # ⛪ Modul 1: Langhaus & Seitenschiffe
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 174.461 Blöcke in 109 Bauschritten, Y 65 bis 156, X -212 bis -55, Z -45 bis 45.
-Schrittgröße: kleinster 328, mittlerer 1.601, größter 2.030 Blöcke.
+**Statistik (generiert):** 176.049 Blöcke in 110 Bauschritten, Y 65 bis 156, X -212 bis -55, Z -45 bis 45.
+Schrittgröße: kleinster 328, mittlerer 1.600, größter 2.030 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md)
 <!-- STATISTIK:END -->

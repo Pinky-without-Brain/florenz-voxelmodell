@@ -93,7 +93,8 @@ test('Material-Tabelle: Rollen und Typen stehen in der Palette', () => {
   for (const [role, type] of Object.entries(M.ROLE_TYPE)) {
     assert.ok(palette.TYPES.includes(type), `${type} fehlt in palette.js`);
     // 'dach' und 'dach_first' sind Rollen des Generators; die Palette führt terracotta als 'dachziegel', bricks als 'ziegel_kuppel'
-    const pr = role === 'dach' ? 'dachziegel' : role === 'dach_first' ? 'ziegel_kuppel' : role;
+    // Bettwäsche (B4) nutzt Keramikfarben der Rolle 'fresko'
+    const pr = role === 'dach' ? 'dachziegel' : role === 'dach_first' ? 'ziegel_kuppel' : role.startsWith('bett_') ? 'fresko' : role;
     assert.ok(palette.rolesOf(type).includes(pr), `${type} hat die Rolle ${pr} nicht`);
   }
   assert.throws(() => M.typ('gibt_es_nicht'), RangeError);

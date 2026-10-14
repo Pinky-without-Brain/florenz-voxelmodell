@@ -1,0 +1,106 @@
+{
+  "module": 9,
+  "title": "Corridoio Vasariano (Oltrarno)",
+  "subtitle": "Vom Ponte Vecchio zum Palazzo Pitti",
+  "icon": "🚶",
+  "parts": {
+    "korridor_unterbau": {
+      "title": "Unterbau des Korridors",
+      "description": "Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.",
+      "tip": "Spalte für Spalte von unten.",
+      "caution": "Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.",
+      "fact": "Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang."
+    },
+    "korridor_0_boden": {
+      "title": "Boden, Nordabschnitt (Via de' Bardi)",
+      "description": "Gangboden zwei Lagen; steigt von Y 78 am Anschluss zum Ponte Vecchio höchstens um 1 je 40 Zellen auf Y 83 am Palast; Höhenwechsel als Treppenblöcke.",
+      "tip": "Stufen zeigen zum Palast hin.",
+      "caution": "Über Straßen trägt der Boden frei.",
+      "fact": "Der Corridoio ist rund einen Kilometer lang."
+    },
+    "korridor_0_waende": {
+      "title": "Wände, Nordabschnitt (Via de' Bardi)",
+      "description": "Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.",
+      "tip": "Fenster mit der Wand Lage für Lage.",
+      "caution": "An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.",
+      "fact": "Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden."
+    },
+    "korridor_0_decke": {
+      "title": "Decke, Nordabschnitt (Via de' Bardi)",
+      "description": "Zwei Lagen Pietra forte über dem Gang (Gang 7 hoch).",
+      "tip": "Lichter in der unteren Lage aussparen.",
+      "caution": "Ohne Stirnwand am Schnitt zum Ponte Vecchio.",
+      "fact": "Vasari baute den Korridor 1565 in nur fünf Monaten."
+    },
+    "korridor_1_boden": {
+      "title": "Boden, Abschnitt Santa Felicita",
+      "description": "Gangboden zwei Lagen; steigt von Y 78 am Anschluss zum Ponte Vecchio höchstens um 1 je 40 Zellen auf Y 83 am Palast; Höhenwechsel als Treppenblöcke.",
+      "tip": "Stufen zeigen zum Palast hin.",
+      "caution": "Über Straßen trägt der Boden frei.",
+      "fact": "Der Corridoio ist rund einen Kilometer lang."
+    },
+    "korridor_1_waende": {
+      "title": "Wände, Abschnitt Santa Felicita",
+      "description": "Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.",
+      "tip": "Fenster mit der Wand Lage für Lage.",
+      "caution": "An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.",
+      "fact": "Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden."
+    },
+    "korridor_1_decke": {
+      "title": "Decke, Abschnitt Santa Felicita",
+      "description": "Zwei Lagen Pietra forte über dem Gang (Gang 7 hoch).",
+      "tip": "Lichter in der unteren Lage aussparen.",
+      "caution": "Ohne Stirnwand am Schnitt zum Ponte Vecchio.",
+      "fact": "Vasari baute den Korridor 1565 in nur fünf Monaten."
+    },
+    "korridor_2_boden": {
+      "title": "Boden, Abschnitt Boboli",
+      "description": "Gangboden zwei Lagen; steigt von Y 78 am Anschluss zum Ponte Vecchio höchstens um 1 je 40 Zellen auf Y 83 am Palast; Höhenwechsel als Treppenblöcke.",
+      "tip": "Stufen zeigen zum Palast hin.",
+      "caution": "Über Straßen trägt der Boden frei.",
+      "fact": "Der Corridoio ist rund einen Kilometer lang."
+    },
+    "korridor_2_waende": {
+      "title": "Wände, Abschnitt Boboli",
+      "description": "Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.",
+      "tip": "Fenster mit der Wand Lage für Lage.",
+      "caution": "An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.",
+      "fact": "Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden."
+    },
+    "korridor_2_decke": {
+      "title": "Decke, Abschnitt Boboli",
+      "description": "Zwei Lagen Pietra forte über dem Gang (Gang 7 hoch).",
+      "tip": "Lichter in der unteren Lage aussparen.",
+      "caution": "Ohne Stirnwand am Schnitt zum Ponte Vecchio.",
+      "fact": "Vasari baute den Korridor 1565 in nur fünf Monaten."
+    },
+    "korridor_3_boden": {
+      "title": "Boden, Südabschnitt bis zum Ostflügel",
+      "description": "Gangboden zwei Lagen; steigt von Y 78 am Anschluss zum Ponte Vecchio höchstens um 1 je 40 Zellen auf Y 83 am Palast; Höhenwechsel als Treppenblöcke.",
+      "tip": "Stufen zeigen zum Palast hin.",
+      "caution": "Über Straßen trägt der Boden frei.",
+      "fact": "Der Corridoio ist rund einen Kilometer lang."
+    },
+    "korridor_3_waende": {
+      "title": "Wände, Südabschnitt bis zum Ostflügel",
+      "description": "Wände 2 dick, kleine Fenster 2 × 3 alle 8 Zellen (Glas durch beide Lagen); an der Flügelwand ist die Palastwand die Gangwand.",
+      "tip": "Fenster mit der Wand Lage für Lage.",
+      "caution": "An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.",
+      "fact": "Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden."
+    },
+    "korridor_3_decke": {
+      "title": "Decke, Südabschnitt bis zum Ostflügel",
+      "description": "Zwei Lagen Pietra forte über dem Gang (Gang 7 hoch).",
+      "tip": "Lichter in der unteren Lage aussparen.",
+      "caution": "Ohne Stirnwand am Schnitt zum Ponte Vecchio.",
+      "fact": "Vasari baute den Korridor 1565 in nur fünf Monaten."
+    },
+    "korridor_licht_olt": {
+      "title": "Licht im Korridor",
+      "description": "Seelaternen in der Decke, höchstens 10 Zellen Abstand.",
+      "tip": "Auf der Gangmitte.",
+      "caution": "Nie über Stufen.",
+      "fact": "Bis 2016 hing im Korridor die Sammlung der Selbstbildnisse der Uffizien."
+    }
+  }
+}

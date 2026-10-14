@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minecraft-Welt Florenz</title>
+<style>
+:root{--bg:#faf7f2;--card:#fff;--text:#2b2620;--muted:#7a6f63;--accent:#b5532c;--line:#e8e0d4}
+@media (prefers-color-scheme:dark){:root{--bg:#1c1a17;--card:#262320;--text:#eee6da;--muted:#a89c8d;--accent:#e08a5f;--line:#3a352f}}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,sans-serif}
+main{max-width:640px;margin:0 auto;padding:24px 16px}
+a.knopf{display:inline-block;background:var(--accent);color:#fff;padding:12px 18px;border-radius:8px;text-decoration:none;font-weight:600}
+.k{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin:16px 0}
+.muted{color:var(--muted)}
+</style>
+</head>
+<body><main>
+<h1>Minecraft-Welt (Bedrock)</h1>
+<p>Die Welt wird bei jedem Push automatisch aus dem aktuellen Modell gebaut.</p>
+<div class="k" id="stand">Stand wird geladen …</div>
+<p><a class="knopf" id="laden" href="florenz_voxelmodell.mcworld" download>Welt herunterladen (.mcworld)</a></p>
+<p class="muted">Doppelklick auf die Datei öffnet sie in Minecraft (Bedrock) und legt eine neue Welt „Florenz Voxelmodell“ an. Eine bereits importierte Welt bleibt unverändert; zum Aktualisieren die neue Datei erneut öffnen.</p>
+<p><a href="index.html">Zur Webapp</a></p>
+<script>
+fetch('stand.json', { cache: 'no-store' }).then((r) => r.json()).then((s) => {
+  const el = document.getElementById('stand');
+  if (!s.welt) { el.textContent = 'Beim letzten Lauf (' + s.commit + ', ' + s.zeit + ') konnte die Welt nicht gebaut werden.'; document.getElementById('laden').style.display = 'none'; return; }
+  el.textContent = 'Stand: Commit ' + s.commit + ', gebaut ' + s.zeit.replace('T', ' ') + ' UTC, ' + s.mb + ' MB';
+}).catch(() => { document.getElementById('stand').textContent = 'Kein Stand verfügbar (nur auf GitHub Pages).'; });
+</script>
+</main></body></html>

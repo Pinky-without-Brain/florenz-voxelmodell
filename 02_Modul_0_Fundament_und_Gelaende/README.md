@@ -1,8 +1,8 @@
 # 🏛️ Modul 0: Fundament, Böden und Krypta-Grube
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 46.661 Blöcke in 27 Bauschritten, Y 56 bis 64, X -347 bis 96, Z -96 bis 96.
-Schrittgröße: kleinster 841, mittlerer 1.728, größter 2.060 Blöcke.
+**Statistik (generiert):** 46.807 Blöcke in 28 Bauschritten, Y 56 bis 64, X -347 bis 96, Z -96 bis 96.
+Schrittgröße: kleinster 154, mittlerer 1.672, größter 2.059 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md)
 <!-- STATISTIK:END -->

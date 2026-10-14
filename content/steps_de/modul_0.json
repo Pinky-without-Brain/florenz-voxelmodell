@@ -18,6 +18,13 @@
       "caution": "Die Wandzonen aus Steinziegeln sind kein Fehler. Dort stehen später die Mauern, deshalb gehört hier kein Muster hin.",
       "fact": "Der prächtige Marmorboden des Doms wurde im 16. Jahrhundert nach Entwürfen von Baccio d'Agnolo begonnen. Seine Muster aus weißem, grünem und rotem Marmor zeigen die Farben der toskanischen Steinbrüche."
     },
+    "krypta_abgang": {
+      "title": "Oberste Stufe zur Krypta",
+      "description": "Im Mittelschiff bleibt über der Krypta-Treppe ein Loch von 4 × 2 Blöcken im Fußboden frei (X −182 bis −185, Z 12 bis 13). Westlich davon setzt du in die Bodenplatte (Y 64) die oberste Stufe der Kryptatreppe: zwei Steintreppen mit Aufstieg nach Westen.",
+      "tip": "Lass das Treppenloch beim Verlegen des Kosmatenbodens gleich aus, dann musst du nichts wieder abbauen.",
+      "caution": "Das Loch ist eine Absturzkante. Die übrigen sechs Stufen setzt du erst in Modul 9 von unten her.",
+      "fact": "Die Reste von Santa Reparata wurden ab 1965 ausgegraben. Heute steigt man aus dem rechten Seitenschiff in die Krypta hinab."
+    },
     "boden_vierung": {
       "title": "Boden der Vierung",
       "description": "Du füllst den Ostkomplex auf Y 64: die Vierung mit ihren Ecken und den Ansätzen der Sakristeien (|X| ≤ 54, |Z| ≤ 54, |X| + |Z| ≤ 98). Um den Goldblock im Nullpunkt (0 | 0) liegt eine Rosette. Darum laufen Achteckbänder, drei Blöcke breit, aus Quarz, dunklem Prismarin und rotem Granit.",
@@ -59,6 +66,13 @@
       "tip": "Die zwölf Sektoren erinnern an den Tierkreis. Zähle sie, bevor du das Kreisband legst.",
       "caution": "Die Scarsella ist ein Rechteck und gehört nicht zum Achteck. Setze an der Nahtstelle keinen Block doppelt.",
       "fact": "Im Boden des Baptisteriums San Giovanni ist ein Tierkreis aus Marmor eingelegt, den man dort bis heute sehen kann."
+    },
+    "aussenstufen": {
+      "title": "Stufen vor den Eingängen",
+      "description": "Vor jedem Eingang liegt eine Stufe aus Marmor-Treppenblöcken auf Y 64, eine Stufe über dem Platz: über die ganze Breite der Westfassade (X −217), vor den beiden Seitenportalen des Langhauses, vor dem Nord- und dem Südportal des Baptisteriums und vor der Tür des Campanile. Der Aufstieg zeigt immer zur Tür.",
+      "tip": "Lege die Stufen zum Schluss, wenn die Portale stehen. So siehst du genau, wo die Türen sind.",
+      "caution": "Die Treppenblöcke müssen mit der hohen Seite zur Tür zeigen, sonst stolpert man.",
+      "fact": "Vor der Westfassade liegt der Sagrato, eine leicht erhöhte Plattform mit Stufen, auf der früher die Prozessionen ankamen."
     }
   }
 }

@@ -1,0 +1,57 @@
+{
+  "module": 5,
+  "title": "Torre dei Mannelli",
+  "subtitle": "Wohnturm am Südende",
+  "icon": "🏰",
+  "parts": {
+    "turm_fundament": {
+      "title": "Fundament und Boden",
+      "description": "Unter dem Turm vom Gelände bis Y 62, darauf der Boden.",
+      "tip": "Zuerst das Fundament.",
+      "caution": "Rustika folgt mit den Wänden.",
+      "fact": "Die Familie Mannelli weigerte sich, den Turm für den Korridor abzureißen."
+    },
+    "turm_waende": {
+      "title": "Turmwände",
+      "description": "Wandband 3, Lagen 1 bis 56, unten Rustika. Fenster 2 × 4 je Geschoss, ein Tor 3 × 5 zur Fahrbahn.",
+      "tip": "Fenster im Abstand 8.",
+      "caution": "Das Tor bleibt Luft.",
+      "fact": "Deshalb führt der Korridor auf Konsolen um den Turm herum."
+    },
+    "turm_wendeltreppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Steintreppen um einen Kern, vom Boden bis auf die Dachterrasse.",
+      "tip": "Je Seite eine Stufe, Podeste an den Ecken.",
+      "caution": "Die Decken haben dort ein Loch.",
+      "fact": "Im Turm wohnten früher Wachen."
+    },
+    "turm_decken": {
+      "title": "Decken",
+      "description": "Decken in Lage 14 bis 15, 28 bis 29, 42 bis 43 und 55 bis 56.",
+      "tip": "Treppenfuß frei lassen.",
+      "caution": "Lichter in den Decken.",
+      "fact": "Vier Geschosse."
+    },
+    "turm_dach": {
+      "title": "Dachterrasse",
+      "description": "Flaches Dach Lage 57 bis 58.",
+      "tip": "Die Treppe mündet hier.",
+      "caution": "Die Zinnen setzt das nächste Bauteil.",
+      "fact": "Ein schöner Aussichtspunkt."
+    },
+    "turm_zinnen": {
+      "title": "Zinnen",
+      "description": "Am Rand Lage 57 bis 59, je 2 Zahn, 2 Lücke.",
+      "tip": "Ringsum.",
+      "caution": "Nur auf der äußersten Lage.",
+      "fact": "Zinnen gehören zu jedem Florentiner Wehrturm."
+    },
+    "turm_konsolen": {
+      "title": "Konsolen (Beccatelli)",
+      "description": "Wo der Korridor am Turm vorbeiführt, tragen Steinkonsolen den Gang.",
+      "tip": "Im Schachbrett.",
+      "caution": "Nur dort, wo kein Unterbau steht.",
+      "fact": "Diese Umgehung ist bis heute zu sehen."
+    }
+  }
+}

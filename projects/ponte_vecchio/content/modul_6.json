@@ -1,0 +1,22 @@
+{
+  "module": 6,
+  "title": "Dächer",
+  "subtitle": "Walmdächer der Läden",
+  "icon": "🏠",
+  "parts": {
+    "dach_west": {
+      "title": "Dach der Westzeile",
+      "description": "Walmdach aus Ziegeln auf der Decke, bis 3 Blöcke hoch, massiv.",
+      "tip": "Von außen nach innen ansteigen.",
+      "caution": "Kein hohler Dachraum.",
+      "fact": "Die Dächer sind flach geneigt."
+    },
+    "dach_ost_sued": {
+      "title": "Dach am Südende der Ostzeile",
+      "description": "Wo kein Korridor über der Ostzeile liegt, ein Walmdach wie im Westen.",
+      "tip": "Nur außerhalb des Korridors.",
+      "caution": "Massiv.",
+      "fact": "Am Südende steht der Turm."
+    }
+  }
+}

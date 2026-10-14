@@ -1,0 +1,22 @@
+{
+  "module": 5,
+  "title": "Dächer",
+  "subtitle": "Walmdach und Dachterrassen",
+  "icon": "🏠",
+  "parts": {
+    "dach_haupt": {
+      "title": "Walmdach",
+      "description": "Über Hauptbau und Nebenbau, Traufe Lage 77 (53), Anstieg 0,4 je Zelle, massiv bis zur obersten Decke.",
+      "tip": "Von außen nach innen ansteigen.",
+      "caution": "Kein Dachraum: das Dach ist massiv.",
+      "fact": "Das Dach ist von der Piazza aus kaum zu sehen."
+    },
+    "dach_ali": {
+      "title": "Dachterrassen der Flügel",
+      "description": "Flaches Dach Lage 21..22, begehbar über die Flügeltreppen.",
+      "tip": "Treppenloch freilassen.",
+      "caution": "Die Brüstung setzt Modul 7.",
+      "fact": "Von den Terrassen blickt man über die Piazza."
+    }
+  }
+}

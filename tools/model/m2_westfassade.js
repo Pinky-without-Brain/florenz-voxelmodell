@@ -120,38 +120,44 @@ function build(ctx) {
   const rectZone = (y0, y1) => (az, y) => y >= y0 && y <= y1;
   const noClock = (cells) => cells.filter((c) => !isClock(c.x, c.y, c.z));
 
-  // 1 Sockel
+  // Portale (B5): Die drei Portale reichen bis zum Fußboden (Y 65), die Bronzetüren stehen offen.
+  // Laibung (Schichten d = 0, 1), Sturz und Lünette (d = 2, 3) gelten für Sockel- und Portalzone gemeinsam.
+  const portal = newOverrides();
+  const pz = Y0;                                          // Portalboden = Laufniveau
+  const portalOpen = PORTALS.map((p) => ({ type: 'arch', w: p.w, f: 0.5, springV: p.spring - pz, cu: p.cu, v0: 0 }));
+  const doorOpen = PORTALS.map((p) => ({ type: 'rect', u0: p.cu - p.w, u1: p.cu + p.w, v0: 0, v1: p.spring - 2 - Y0 }));
+  const portalLuft = [];
+  for (const p of PORTALS) {
+    const springV = p.spring - pz;
+    for (const c of archRing(p.w, 0.5, 1, { springV, jambs: true })) {
+      const z = p.cu + c.u, y = pz + c.v;
+      portal.put(XF, y, z, 'chiseled_quartz');
+      portal.put(XF + 1, y, z, 'smooth_quartz');
+    }
+    for (const c of archOpening(p.w, 0.5, { springV })) {
+      const z = p.cu + c.u, y = pz + c.v;
+      portalLuft.push({ x: XF, y, z }, { x: XF + 1, y, z });
+      if (y <= p.spring - 2) { portalLuft.push({ x: XF + 2, y, z }, { x: XF + 3, y, z }); continue; } // offene Tür
+      const t = y === p.spring - 1 ? 'chiseled_quartz'
+        : (Math.floor(Math.hypot(c.u, y - p.spring)) % 2 === 0 ? 'gold_block' : 'blue_terracotta');
+      portal.put(XF + 2, y, z, t);
+      portal.put(XF + 3, y, z, t);
+    }
+  }
+  const portalOpenings = { 0: portalOpen, 1: portalOpen, 2: doorOpen, 3: doorOpen };
+
+  // 1 Sockel (mit den unteren Teilen der Portale)
   {
     const w = ctx.part('sockel');
-    const { mat } = newOverrides();
-    w.fill(zoneCells({ y0: Y0, y1: SOCKEL_TOP, inside: rectZone(Y0, SOCKEL_TOP) }), mat);
+    w.fill(zoneCells({ y0: Y0, y1: SOCKEL_TOP, inside: rectZone(Y0, SOCKEL_TOP), openings: portalOpenings }), portal.mat);
+    ctx.oeffnung(portalLuft.filter((c) => c.y <= SOCKEL_TOP), 'tor');
   }
 
   // 2 Portalzone
   {
     const w = ctx.part('portalzone');
-    const { put, mat } = newOverrides();
-    const v0 = SOCKEL_TOP + 1 - Y0;                       // Portalboden Y 73 relativ zu Y 65
-    const openings01 = PORTALS.map((p) => ({ type: 'arch', w: p.w, f: 0.5, springV: p.spring - (SOCKEL_TOP + 1), cu: p.cu, v0 }));
-    const pz = SOCKEL_TOP + 1;
+    const { put } = portal;
     for (const p of PORTALS) {
-      const springV = p.spring - pz;
-      // Laibung (Ring um die Öffnung) in den beiden Rücksprungschichten
-      for (const c of archRing(p.w, 0.5, 1, { springV, jambs: true })) {
-        const z = p.cu + c.u, y = pz + c.v;
-        put(XF, y, z, 'chiseled_quartz');
-        put(XF + 1, y, z, 'smooth_quartz');
-      }
-      // Tür (bis Kämpfer −2), Sturz (Kämpfer −1), Lünette mit Mosaik darüber: Schichten d = 2, 3
-      for (const c of archOpening(p.w, 0.5, { springV })) {
-        const z = p.cu + c.u, y = pz + c.v;
-        let t;
-        if (y <= p.spring - 2) t = 'cut_copper';
-        else if (y === p.spring - 1) t = 'chiseled_quartz';
-        else t = Math.floor(Math.hypot(c.u, y - p.spring)) % 2 === 0 ? 'gold_block' : 'blue_terracotta';
-        put(XF + 2, y, z, t);
-        put(XF + 3, y, z, t);
-      }
       // Wimperg: Dreieck-Umriss auf der Außenschicht, Spitze auf Y 100
       const base = p.spring + p.w + 2;
       const hw0 = p.w + 2;
@@ -166,9 +172,9 @@ function build(ctx) {
         }
       }
     }
-    // Der Ring wird vor der Tür gesetzt; Türzellen liegen in den Wandschichten d = 2, 3
-    w.fill(zoneCells({ y0: pz, y1: PORTAL_TOP, inside: rectZone(pz, PORTAL_TOP),
-      openings: { 0: openings01, 1: openings01 } }), mat);
+    w.fill(zoneCells({ y0: SOCKEL_TOP + 1, y1: PORTAL_TOP, inside: rectZone(SOCKEL_TOP + 1, PORTAL_TOP),
+      openings: portalOpenings }), portal.mat);
+    ctx.oeffnung(portalLuft.filter((c) => c.y > SOCKEL_TOP), 'tor');
   }
 
   // 3 Nischenzone: 12 Statuennischen, 1 Block tief (Schicht d = 0)
@@ -248,6 +254,13 @@ function build(ctx) {
       }
     }
     w.fill(fial, (x, y) => (y === FIAL_OUT_TOP ? 'chiseled_quartz' : 'smooth_quartz'));
+    // B5: Laibung der Rosette hinter dem Glas (Schichten d = 2, 3), hoch über dem Fußboden
+    const laibung = [];
+    for (let dy = -ROSE.r; dy <= ROSE.r; dy++) for (let dz = -ROSE.r; dz <= ROSE.r; dz++) {
+      if (!inDisk(dz, dy, ROSE.r)) continue;
+      for (const d of [2, 3]) if (!isClock(XF + d, ROSE.y + dy, dz)) laibung.push({ x: XF + d, y: ROSE.y + dy, z: dz });
+    }
+    ctx.unzugaenglich(laibung, 'Laibung der Rosette auf der Innenseite: Fensterrund hoch über dem Boden, nicht begehbar');
   }
 
   // 5 Giebel: Wandkörper |z| ≤ 21 bis Traufe Y 150, darüber Dreieck bis zur Spitze Y 164

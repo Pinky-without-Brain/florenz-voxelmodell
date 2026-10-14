@@ -123,6 +123,23 @@ function itemRolle(it, u, v) {
   return null;
 }
 
+// ------------------------------------------------------------------ Haustür
+const TUER_H = 4;            // lichte Höhe der Haustür (Blöcke), mindestens 3
+const TUER_W_SCHRAEG = 4;    // Breite in schrägen Wänden (Treppeneffekt), sonst 2
+
+/** Hat das Erdgeschoss eine begehbare Öffnung (offen, ab Boden, >= 2 breit, >= 3 hoch)? */
+function hatTuer(items0) {
+  return items0.some((it) => it.offen && it.v0 === 0 && it.w >= 2 - 1e-9 && it.top - it.v0 >= 3);
+}
+
+/** Tür (offenes Rechteck ab Boden) vor alle anderen Elemente des Erdgeschosses setzen. */
+function tuerEinsetzen(lay, uc, w, h) {
+  const it = mkItem([mkRect(uc, w, 0, h)], { offen: true, frameRole: null, jamb: false, sill: false, tuer: true });
+  lay.items[0].unshift(it);
+  lay.tuer = it;
+  return it;
+}
+
 // ------------------------------------------------------------------ Achsen
 /** Anzahl Achsen so wählen, dass der Abstand 5..9 Blöcke bleibt (nächste Zahl zum Wunsch der Akte). */
 function achsenWahl(avail, wunsch) {
@@ -341,6 +358,27 @@ function layoutKante(e, o) {
     }
   }
 
+  // Haustür (BEGEHBARKEIT §1.1): ohne offenes Portal bekommt die Hauptfassade eine Tür von mindestens 2 x 3
+  if (o.istHaupt && !hatTuer(items0)) {
+    const h = Math.max(3, Math.min(TUER_H, eg.h - 2));
+    const boegen = items0.filter((it) => !it.offen && it.shapes[0].t === 'arch' && it.v0 === 0);
+    if (boegen.length) {
+      // Ladentür im mittleren Ladenbogen (gleiche Parität wie der Bogen, damit die Mitte stimmt)
+      const b = boegen[Math.floor(boegen.length / 2)];
+      const bw = Math.round(b.w);
+      const w = !achsparallel ? bw : (bw % 2 === 1 ? Math.min(3, bw) : 2);
+      tuerEinsetzen(lay, b.uc, w, Math.min(h, b.top - 1));
+    } else {
+      const w = achsparallel ? 2 : TUER_W_SCHRAEG;
+      const frei = centers.filter((uc) => !blocked.some(([a, b]) => uc >= a && uc <= b));
+      const wahl = frei.length ? frei : centers;
+      const uc0 = wahl.reduce((best, uc) => (Math.abs(uc - L / 2) < Math.abs(best - L / 2) - 1e-9 ? uc : best), wahl[0]);
+      const uc = snap(uc0, w);
+      for (let i = items0.length - 1; i >= 0; i--) if (Math.abs(items0[i].uc - uc) < 1.5) items0.splice(i, 1);
+      tuerEinsetzen(lay, uc, w, h);
+    }
+  }
+
   // ---------------------------------------------------------------- Obergeschosse
   for (let s = 1; s < n; s++) {
     const st = storeys[s];
@@ -427,6 +465,9 @@ function basis(lay, s, v, c) {
 
 function zelle(lay, s, v, c) {
   const items = lay.items[s], u = c.u;
+  // Über einer eingesetzten Haustür bleibt die Wand im Erdgeschoss geschlossen (Sturz, kein hängendes Glas)
+  const ueberTuer = s === 0 && lay.tuer && u >= lay.tuer.uL && u < lay.tuer.uR && v >= lay.tuer.top;
+  if (ueberTuer) return c.layer === 1 ? (lay.tuerSturz || basis(lay, s, v, c)) : basis(lay, s, v, c);
   for (const it of items) {
     if (u < it.bu0 || u >= it.bu1) continue;
     const r = itemOeffnung(it, u, v, c, lay);
@@ -452,4 +493,5 @@ function vorsprungeAn(lay, s, u) {
   return out;
 }
 
-module.exports = { layoutKante, zelle, vorsprungeAn, inShape, inItem, achsenWahl, hash3, MIN_LEN, MARGIN, SP_MIN, SP_MAX };
+module.exports = { layoutKante, zelle, vorsprungeAn, inShape, inItem, achsenWahl, hash3, hatTuer, tuerEinsetzen, MIN_LEN, MARGIN, SP_MIN, SP_MAX,
+  TUER_H, TUER_W_SCHRAEG };

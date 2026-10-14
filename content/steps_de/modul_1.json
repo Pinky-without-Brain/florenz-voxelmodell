@@ -80,6 +80,13 @@
       "tip": "Das Dach ist flach, es steigt auf 21 Blöcke nur 6 Blöcke an. Arbeite von beiden Seiten zum First.",
       "caution": "Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide Seiten gleich hoch sind.",
       "fact": "Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas."
+    },
+    "ostgiebel_seitenschiffe": {
+      "title": "Ostabschluss der Seitenschiffe",
+      "description": "Am Ostende der Seitenschiffe (X −55) schließt du die Lücke zwischen dem niedrigen Dach der Eckbauten und dem Pultdach: überall dort, wo östlich kein Block anschließt, kommt eine Lage Steinziegel in die Wand, innen glatter Stein.",
+      "tip": "Schau von innen nach Osten: Wo du Himmel siehst, fehlt noch ein Block.",
+      "caution": "Nur die Lücke schließen, nicht die Seitenschiffe selbst verbauen. Unter dem Gewölbe bleibt der Raum offen.",
+      "fact": "Der Dom wurde über 140 Jahre gebaut. Langhaus und Ostteile trafen sich erst, als Brunelleschis Kuppel stand."
     }
   }
 }

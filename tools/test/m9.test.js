@@ -18,7 +18,7 @@ const inCrypt = (c) => c.x >= CRYPT.x[0] && c.x <= CRYPT.x[1] && c.z >= CRYPT.z[
 test('Modul 9 baut ohne Fehler, Reihenfolge: Boden vor Mauern', () => {
   assert.deepEqual(world.errors, []);
   assert.deepEqual(mod9.parts.map((p) => p.id), [
-    'krypta_boden', 'krypta_mauern', 'krypta_stuetzen', 'brunelleschi_grab', 'chorschranke', 'hochaltar']);
+    'krypta_boden', 'krypta_mauern', 'krypta_stuetzen', 'brunelleschi_grab', 'chorschranke', 'krypta_treppe', 'hochaltar']);
 });
 
 test('Alle krypta_*-Blöcke und das Grab liegen im RESERVED-Volumen, Rest auf dem Boden', () => {
