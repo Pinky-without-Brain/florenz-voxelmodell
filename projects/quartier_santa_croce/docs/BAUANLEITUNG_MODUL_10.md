@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 103.819 |
+| Blöcke | 103.813 |
 | Bauschritte | 67 |
 | Y-Bereich | 63 bis 103 |
 | X-Ausdehnung | 607 bis 807 (201 Blöcke) |
 | Z-Ausdehnung | 482 bis 612 (131 Blöcke) |
 | Kleinster Schritt | 1.069 Blöcke (Schritt 10.10) |
-| Mittlerer Schritt | 1.550 Blöcke |
+| Mittlerer Schritt | 1.549 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 10.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 33.559 | 32,3 % |
+| Terrakotta | `terracotta` | 33.557 | 32,3 % |
 | Tuffstein | `tuff` | 20.601 | 19,8 % |
 | Polierter Tuffstein | `polished_tuff` | 11.361 | 10,9 % |
 | Glatter Stein | `smooth_stone` | 7.957 | 7,7 % |
 | Polierter Andesit | `polished_andesite` | 6.986 | 6,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.584 | 5,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.325 | 3,2 % |
-| Weißer Beton | `white_concrete` | 3.244 | 3,1 % |
+| Weißer Beton | `white_concrete` | 3.240 | 3,1 % |
 | Graues Buntglas | `gray_stained_glass` | 3.126 | 3,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.671 | 2,6 % |
 | Orange Keramik | `orange_terracotta` | 2.660 | 2,6 % |
@@ -65,7 +65,7 @@
 | 6 | `w306984428_innen` | Reihenhaus an Via dei Pandolfini: Innenausbau | 1.330 | 10.63 |
 | 7 | `w306984429` | Reihenhaus an Via Giuseppe Verdi | 4.232 | 10.64–10.66 |
 | 8 | `w306984429_innen` | Reihenhaus an Via Giuseppe Verdi: Innenausbau | 2 | 10.67 |
-| 9 | `w675879822` | Nebengebäude an Via Giuseppe Verdi | 1.697 | 10.67 |
+| 9 | `w675879822` | Nebengebäude an Via Giuseppe Verdi | 1.691 | 10.67 |
 | 10 | `w675879822_innen` | Nebengebäude an Via Giuseppe Verdi: Innenausbau | 1 | 10.67 |
 
 ## Bauschritte
@@ -2157,16 +2157,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.67 – Reihenhaus an Via Giuseppe Verdi: Innenausbau & Nebengebäude an Via Giuseppe Verdi & Nebengebäude an Via Giuseppe Verdi: Innenausbau
 
 - **Y-Bereich:** 63 bis 90
-- **Blöcke:** 1.700
+- **Blöcke:** 1.694
 - **Bauteile:** `w306984429_innen`, `w675879822`, `w675879822_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.197 |
+| Weißer Beton | `white_concrete` | 1.193 |
 | Hellgrauer Beton | `light_gray_concrete` | 140 |
-| Terrakotta | `terracotta` | 140 |
+| Terrakotta | `terracotta` | 138 |
 | Polierter Tuffstein | `polished_tuff` | 114 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Glatter Stein | `smooth_stone` | 16 |

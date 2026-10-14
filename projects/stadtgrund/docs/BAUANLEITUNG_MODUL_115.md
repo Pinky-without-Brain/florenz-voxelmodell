@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 27.098 |
+| Blöcke | 27.101 |
 | Bauschritte | 17 |
 | Y-Bereich | 58 bis 66 |
 | X-Ausdehnung | 96 bis 415 (320 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 22.754 | 84,0 % |
+| Polierter Tuffstein | `polished_tuff` | 22.757 | 84,0 % |
 | Stein | `stone` | 3.613 | 13,3 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 237 | 0,9 % |
 | Grasblock | `grass_block` | 145 | 0,5 % |
@@ -41,7 +41,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `boeschung` | Böschung und Mantel | 3.613 | 115.1–115.2 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 17.114 | 115.3–115.12 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 17.117 | 115.3–115.12 |
 | 3 | `gehwege` | Gehwege | 110 | 115.13 |
 | 4 | `stufen` | Treppenflächen | 476 | 115.13 |
 | 5 | `hof_pflaster` | Höfe | 5.640 | 115.14–115.17 |
@@ -360,14 +360,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 115.12 – Straßenpflaster – Teil 10/10 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.666
+- **Blöcke:** 1.669
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.666 |
+| Polierter Tuffstein | `polished_tuff` | 1.669 |
 
 **Beschreibung**
 

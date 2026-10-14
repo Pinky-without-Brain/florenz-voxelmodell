@@ -8,30 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.776 |
+| Blöcke | 65.631 |
 | Bauschritte | 38 |
 | Y-Bereich | 63 bis 104 |
 | X-Ausdehnung | 89 bis 162 (74 Blöcke) |
-| Z-Ausdehnung | 361 bis 491 (131 Blöcke) |
+| Z-Ausdehnung | 361 bis 490 (130 Blöcke) |
 | Kleinster Schritt | 1.088 Blöcke (Schritt 0.7) |
-| Mittlerer Schritt | 1.731 Blöcke |
+| Mittlerer Schritt | 1.727 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 0.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 24.123 | 36,7 % |
-| Rosa Keramik | `pink_terracotta` | 14.873 | 22,6 % |
+| Terrakotta | `terracotta` | 24.065 | 36,7 % |
+| Rosa Keramik | `pink_terracotta` | 14.873 | 22,7 % |
 | Polierter Tuffstein | `polished_tuff` | 7.627 | 11,6 % |
-| Weißer Beton | `white_concrete` | 5.039 | 7,7 % |
-| Tuffstein | `tuff` | 4.898 | 7,4 % |
+| Weißer Beton | `white_concrete` | 5.023 | 7,7 % |
+| Tuffstein | `tuff` | 4.898 | 7,5 % |
 | Glatter Stein | `smooth_stone` | 2.427 | 3,7 % |
 | Graues Buntglas | `gray_stained_glass` | 1.990 | 3,0 % |
 | Polierter Andesit | `polished_andesite` | 1.550 | 2,4 % |
 | Grüner Beton | `green_concrete` | 950 | 1,4 % |
 | Ziegelsteine | `bricks` | 565 | 0,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 547 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 476 | 0,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 451 | 0,7 % |
 | Tuffsteinziegel | `tuff_bricks` | 299 | 0,5 % |
 | Seelaterne | `sea_lantern` | 114 | 0,2 % |
@@ -62,7 +62,7 @@
 | 4 | `w479774488_innen` | Palazzo des Cinquecento an Via del Proconsolo: Innenausbau | 4.167 | 0.18–0.19 |
 | 5 | `w479774491` | Reihenhaus an Via del Corso | 4.393 | 0.20–0.22 |
 | 6 | `w479774491_innen` | Reihenhaus an Via del Corso: Innenausbau | 1.520 | 0.23 |
-| 7 | `w479774493` | Palazzo des Cinquecento an Via Dante Alighieri | 19.559 | 0.24–0.34 |
+| 7 | `w479774493` | Palazzo des Cinquecento an Via Dante Alighieri | 19.414 | 0.24–0.34 |
 | 8 | `w479774493_innen` | Palazzo des Cinquecento an Via Dante Alighieri: Innenausbau | 6.135 | 0.35–0.38 |
 
 ## Bauschritte
@@ -908,7 +908,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.26 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 3/11 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
-- **Blöcke:** 1.862
+- **Blöcke:** 1.846
 - **Bauteile:** `w479774493`
 
 **Teileliste**
@@ -916,7 +916,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.282 |
-| Weißer Beton | `white_concrete` | 343 |
+| Weißer Beton | `white_concrete` | 327 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 | Grüner Beton | `green_concrete` | 70 |
 | Polierter Andesit | `polished_andesite` | 33 |
@@ -1073,7 +1073,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.31 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 8/11 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.494
+- **Blöcke:** 1.481
 - **Bauteile:** `w479774493`
 
 **Teileliste**
@@ -1084,7 +1084,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weißer Beton | `white_concrete` | 349 |
 | Graues Buntglas | `gray_stained_glass` | 126 |
 | Grüner Beton | `green_concrete` | 74 |
-| Fichtenholz-Bretter | `spruce_planks` | 74 |
+| Fichtenholz-Bretter | `spruce_planks` | 61 |
 | Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
@@ -1106,16 +1106,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.32 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 9/11 (Y 93–94)
 
 - **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.971
+- **Blöcke:** 1.855
 - **Bauteile:** `w479774493`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.285 |
+| Terrakotta | `terracotta` | 1.227 |
 | Rosa Keramik | `pink_terracotta` | 382 |
-| Fichtenholz-Bretter | `spruce_planks` | 301 |
+| Fichtenholz-Bretter | `spruce_planks` | 243 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**

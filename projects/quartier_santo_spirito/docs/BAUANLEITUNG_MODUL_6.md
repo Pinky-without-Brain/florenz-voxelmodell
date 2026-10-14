@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 150.773 |
+| Blöcke | 150.771 |
 | Bauschritte | 102 |
 | Y-Bereich | 63 bis 113 |
 | X-Ausdehnung | -984 bis -863 (122 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 46.769 | 31,0 % |
+| Terrakotta | `terracotta` | 46.768 | 31,0 % |
 | Weißer Beton | `white_concrete` | 27.464 | 18,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 21.089 | 14,0 % |
 | Polierter Tuffstein | `polished_tuff` | 13.214 | 8,8 % |
@@ -34,7 +34,7 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.570 | 1,0 % |
 | Grüner Beton | `green_concrete` | 1.044 | 0,7 % |
 | Ziegelsteine | `bricks` | 884 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 518 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 517 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 339 | 0,2 % |
 | Seelaterne | `sea_lantern` | 333 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 311 | 0,2 % |
@@ -102,7 +102,7 @@
 | 42 | `w506785834_innen` | Reihenhaus an Via dei Ramaglianti: Innenausbau | 1.376 | 6.86 |
 | 43 | `w506785836` | Reihenhaus an Via dello Sprone | 930 | 6.87 |
 | 44 | `w506785836_innen` | Reihenhaus an Via dello Sprone: Innenausbau | 670 | 6.88 |
-| 45 | `w506785838` | Reihenhaus an Via dello Sprone | 985 | 6.89 |
+| 45 | `w506785838` | Reihenhaus an Via dello Sprone | 983 | 6.89 |
 | 46 | `w506785838_innen` | Reihenhaus an Via dello Sprone: Innenausbau | 716 | 6.90 |
 | 47 | `w506785843` | Reihenhaus an Via dei Barbadori | 7.559 | 6.91–6.94 |
 | 48 | `w506785843_innen` | Reihenhaus an Via dei Barbadori: Innenausbau | 1.984 | 6.95 |
@@ -3151,7 +3151,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.89 – Reihenhaus an Via dello Sprone
 
 - **Y-Bereich:** 63 bis 98
-- **Blöcke:** 985
+- **Blöcke:** 983
 - **Bauteile:** `w506785838`
 
 **Teileliste**
@@ -3159,11 +3159,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 395 |
-| Terrakotta | `terracotta` | 270 |
+| Terrakotta | `terracotta` | 269 |
 | Polierter Tuffstein | `polished_tuff` | 223 |
 | Glatter Stein | `smooth_stone` | 52 |
 | Graues Buntglas | `gray_stained_glass` | 22 |
-| Fichtenholz-Bretter | `spruce_planks` | 17 |
+| Fichtenholz-Bretter | `spruce_planks` | 16 |
 | Ziegelsteine | `bricks` | 6 |
 
 **Beschreibung**

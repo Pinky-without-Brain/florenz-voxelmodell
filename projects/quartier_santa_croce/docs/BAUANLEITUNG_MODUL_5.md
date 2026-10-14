@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.246 |
+| Blöcke | 84.151 |
 | Bauschritte | 55 |
 | Y-Bereich | 63 bis 100 |
 | X-Ausdehnung | 449 bis 627 (179 Blöcke) |
 | Z-Ausdehnung | 747 bis 873 (127 Blöcke) |
 | Kleinster Schritt | 461 Blöcke (Schritt 5.23) |
-| Mittlerer Schritt | 1.532 Blöcke |
+| Mittlerer Schritt | 1.530 Blöcke |
 | Größter Schritt | 2.039 Blöcke (Schritt 5.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 25.246 | 30,0 % |
+| Terrakotta | `terracotta` | 25.204 | 30,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 8.621 | 10,2 % |
 | Polierter Tuffstein | `polished_tuff` | 8.230 | 9,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.972 | 9,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.968 | 9,5 % |
 | Endsteinziegel | `end_stone_bricks` | 7.461 | 8,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 7.173 | 8,5 % |
 | Orange Keramik | `orange_terracotta` | 7.168 | 8,5 % |
@@ -36,7 +36,7 @@
 | Grüner Beton | `green_concrete` | 651 | 0,8 % |
 | Polierter Andesit | `polished_andesite` | 521 | 0,6 % |
 | Ziegelsteine | `bricks` | 451 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 293 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 244 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 178 | 0,2 % |
 | Seelaterne | `sea_lantern` | 173 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 166 | 0,2 % |
@@ -68,7 +68,7 @@
 | 8 | `w486624926_innen` | Reihenhaus an Via Torta: Innenausbau | 727 | 5.21 |
 | 9 | `w486624929` | Reihenhaus an Via Torta | 2.035 | 5.22 |
 | 10 | `w486624929_innen` | Reihenhaus an Via Torta: Innenausbau | 461 | 5.23 |
-| 11 | `w486624931` | Reihenhaus an Via Torta | 6.600 | 5.24–5.27 |
+| 11 | `w486624931` | Reihenhaus an Via Torta | 6.510 | 5.24–5.27 |
 | 12 | `w486624931_innen` | Reihenhaus an Via Torta: Innenausbau | 1.626 | 5.28 |
 | 13 | `w486624933` | Reihenhaus an Via dell'Anguillara | 3.621 | 5.29–5.30 |
 | 14 | `w486624933_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 835 | 5.31 |
@@ -80,7 +80,7 @@
 | 20 | `w486624941_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 5 | 5.37 |
 | 21 | `w486624942` | Reihenhaus an Via Torta | 4.838 | 5.37–5.39 |
 | 22 | `w486624942_innen` | Reihenhaus an Via Torta: Innenausbau | 2.011 | 5.40 |
-| 23 | `w486624946` | Reihenhaus an Via dell'Anguillara | 3.572 | 5.41–5.42 |
+| 23 | `w486624946` | Reihenhaus an Via dell'Anguillara | 3.567 | 5.41–5.42 |
 | 24 | `w486624946_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 730 | 5.43 |
 | 25 | `w486624950` | Reihenhaus an Via Torta | 2.726 | 5.44–5.45 |
 | 26 | `w486624950_innen` | Reihenhaus an Via Torta: Innenausbau | 1.010 | 5.46 |
@@ -963,18 +963,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.27 – Reihenhaus an Via Torta – Teil 4/4 (Y 90–100)
 
 - **Y-Bereich:** 90 bis 100
-- **Blöcke:** 1.729
+- **Blöcke:** 1.639
 - **Bauteile:** `w486624931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 914 |
+| Terrakotta | `terracotta` | 873 |
 | Orange Keramik | `orange_terracotta` | 581 |
-| Fichtenholz-Bretter | `spruce_planks` | 99 |
 | Ziegelsteine | `bricks` | 60 |
 | Weißer Beton | `white_concrete` | 60 |
+| Fichtenholz-Bretter | `spruce_planks` | 50 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
 | Grüner Beton | `green_concrete` | 5 |
 
@@ -1493,15 +1493,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.42 – Reihenhaus an Via dell'Anguillara – Teil 2/2 (Y 80–97)
 
 - **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.774
+- **Blöcke:** 1.769
 - **Bauteile:** `w486624946`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.046 |
-| Terrakotta | `terracotta` | 374 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.042 |
+| Terrakotta | `terracotta` | 373 |
 | Weißer Beton | `white_concrete` | 296 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Ziegelsteine | `bricks` | 10 |

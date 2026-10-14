@@ -8,36 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 126.991 |
+| Blöcke | 126.729 |
 | Bauschritte | 83 |
 | Y-Bereich | 63 bis 105 |
-| X-Ausdehnung | -1201 bis -998 (204 Blöcke) |
-| Z-Ausdehnung | 1289 bis 1439 (151 Blöcke) |
+| X-Ausdehnung | -1201 bis -999 (203 Blöcke) |
+| Z-Ausdehnung | 1289 bis 1437 (149 Blöcke) |
 | Kleinster Schritt | 536 Blöcke (Schritt 1.35) |
-| Mittlerer Schritt | 1.530 Blöcke |
+| Mittlerer Schritt | 1.527 Blöcke |
 | Größter Schritt | 2.045 Blöcke (Schritt 1.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 39.150 | 30,8 % |
+| Terrakotta | `terracotta` | 39.046 | 30,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 12.149 | 9,6 % |
 | Polierter Tuffstein | `polished_tuff` | 11.558 | 9,1 % |
 | Orange Keramik | `orange_terracotta` | 11.059 | 8,7 % |
-| Rosa Keramik | `pink_terracotta` | 10.716 | 8,4 % |
-| Endsteinziegel | `end_stone_bricks` | 9.380 | 7,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.946 | 4,7 % |
+| Rosa Keramik | `pink_terracotta` | 10.716 | 8,5 % |
+| Endsteinziegel | `end_stone_bricks` | 9.360 | 7,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 5.934 | 4,7 % |
 | Tuffstein | `tuff` | 5.714 | 4,5 % |
-| Polierter Andesit | `polished_andesite` | 5.041 | 4,0 % |
+| Polierter Andesit | `polished_andesite` | 5.037 | 4,0 % |
 | Weißer Beton | `white_concrete` | 4.558 | 3,6 % |
-| Glatter Stein | `smooth_stone` | 3.854 | 3,0 % |
+| Glatter Stein | `smooth_stone` | 3.829 | 3,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.106 | 1,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 1.296 | 1,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.231 | 1,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 847 | 0,7 % |
 | Ziegelsteine | `bricks` | 548 | 0,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 514 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 417 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 292 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 272 | 0,2 % |
 | Seelaterne | `sea_lantern` | 262 | 0,2 % |
@@ -59,7 +59,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306811231` | Palazzo Martellini-Rosselli del Turco | 19.752 | 1.1–1.12 |
+| 1 | `w306811231` | Palazzo Martellini-Rosselli del Turco | 19.697 | 1.1–1.12 |
 | 2 | `w306811231_innen` | Palazzo Martellini-Rosselli del Turco: Innenausbau | 4.081 | 1.13–1.14 |
 | 3 | `w306811248` | Reihenhaus an Via dei Velluti | 5.989 | 1.15–1.17 |
 | 4 | `w306811248_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.594 | 1.18 |
@@ -73,23 +73,23 @@
 | 12 | `w506787321_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1 | 1.33 |
 | 13 | `w506787323` | Reihenhaus an Via dei Vellutini | 2.920 | 1.33–1.34 |
 | 14 | `w506787323_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 536 | 1.35 |
-| 15 | `w506787326` | Reihenhaus an Via dei Velluti | 5.127 | 1.36–1.38 |
+| 15 | `w506787326` | Reihenhaus an Via dei Velluti | 5.034 | 1.36–1.38 |
 | 16 | `w506787326_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 796 | 1.39 |
 | 17 | `w506787328` | Reihenhaus an Via dei Vellutini | 2.806 | 1.40–1.41 |
 | 18 | `w506787328_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 753 | 1.42 |
-| 19 | `w506787332` | Reihenhaus an Via dei Velluti | 5.948 | 1.43–1.45 |
+| 19 | `w506787332` | Reihenhaus an Via dei Velluti | 5.918 | 1.43–1.45 |
 | 20 | `w506787332_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.706 | 1.46 |
 | 21 | `w506787335` | Reihenhaus an Piazza della Passera | 4.802 | 1.47–1.49 |
 | 22 | `w506787335_innen` | Reihenhaus an Piazza della Passera: Innenausbau | 1.204 | 1.50 |
-| 23 | `w506787337` | Reihenhaus an Via Toscanella | 8.394 | 1.51–1.55 |
+| 23 | `w506787337` | Reihenhaus an Via Toscanella | 8.338 | 1.51–1.55 |
 | 24 | `w506787337_innen` | Reihenhaus an Via Toscanella: Innenausbau | 3.680 | 1.56–1.58 |
-| 25 | `w506787340` | Reihenhaus an Piazza della Passera | 2.933 | 1.59–1.60 |
+| 25 | `w506787340` | Reihenhaus an Piazza della Passera | 2.911 | 1.59–1.60 |
 | 26 | `w506787340_innen` | Reihenhaus an Piazza della Passera: Innenausbau | 790 | 1.61 |
 | 27 | `w506787342` | Reihenhaus an Via dei Vellutini | 1.853 | 1.62 |
 | 28 | `w506787342_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 728 | 1.63 |
 | 29 | `w506787344` | Reihenhaus an Via dei Velluti | 2.949 | 1.64–1.65 |
 | 30 | `w506787344_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.687 | 1.66 |
-| 31 | `w506787346` | Reihenhaus an Via dei Velluti | 3.458 | 1.67–1.68 |
+| 31 | `w506787346` | Reihenhaus an Via dei Velluti | 3.456 | 1.67–1.68 |
 | 32 | `w506787346_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 652 | 1.69 |
 | 33 | `w506787348` | Reihenhaus an Via dei Velluti | 1.430 | 1.70 |
 | 34 | `w506787348_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 803 | 1.71 |
@@ -97,7 +97,7 @@
 | 36 | `w506787350_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 847 | 1.73 |
 | 37 | `w506787352` | Reihenhaus an Via dei Vellutini | 5.637 | 1.74–1.76 |
 | 38 | `w506787352_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 1.650 | 1.77 |
-| 39 | `w506787354` | Reihenhaus an Via dei Velluti | 2.638 | 1.78–1.79 |
+| 39 | `w506787354` | Reihenhaus an Via dei Velluti | 2.634 | 1.78–1.79 |
 | 40 | `w506787354_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 844 | 1.80 |
 | 41 | `w506787357` | Reihenhaus an Via dei Vellutini | 3.105 | 1.81–1.82 |
 | 42 | `w506787357_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 1.595 | 1.83 |
@@ -167,7 +167,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.3 – Palazzo Martellini-Rosselli del Turco – Teil 3/12 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
-- **Blöcke:** 1.788
+- **Blöcke:** 1.787
 - **Bauteile:** `w306811231`
 
 **Teileliste**
@@ -177,7 +177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Tuffstein | `tuff` | 758 |
 | Tuffsteinziegel | `tuff_bricks` | 329 |
 | Polierter Andesit | `polished_andesite` | 312 |
-| Glatter Stein | `smooth_stone` | 297 |
+| Glatter Stein | `smooth_stone` | 296 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 
 **Beschreibung**
@@ -231,7 +231,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.5 – Palazzo Martellini-Rosselli del Turco – Teil 5/12 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
-- **Blöcke:** 2.002
+- **Blöcke:** 1.990
 - **Bauteile:** `w306811231`
 
 **Teileliste**
@@ -239,7 +239,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 828 |
-| Glatter Stein | `smooth_stone` | 540 |
+| Glatter Stein | `smooth_stone` | 528 |
 | Polierter Andesit | `polished_andesite` | 518 |
 | Tuffsteinziegel | `tuff_bricks` | 116 |
 
@@ -293,7 +293,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.7 – Palazzo Martellini-Rosselli del Turco – Teil 7/12 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
-- **Blöcke:** 1.904
+- **Blöcke:** 1.894
 - **Bauteile:** `w306811231`
 
 **Teileliste**
@@ -301,7 +301,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 763 |
-| Glatter Stein | `smooth_stone` | 641 |
+| Glatter Stein | `smooth_stone` | 631 |
 | Polierter Andesit | `polished_andesite` | 407 |
 | Graues Buntglas | `gray_stained_glass` | 93 |
 
@@ -324,7 +324,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.8 – Palazzo Martellini-Rosselli del Turco – Teil 8/12 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.380
+- **Blöcke:** 1.378
 - **Bauteile:** `w306811231`
 
 **Teileliste**
@@ -333,7 +333,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 588 |
 | Polierter Andesit | `polished_andesite` | 515 |
-| Glatter Stein | `smooth_stone` | 229 |
+| Glatter Stein | `smooth_stone` | 227 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
@@ -386,7 +386,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.10 – Palazzo Martellini-Rosselli del Turco – Teil 10/12 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.648
+- **Blöcke:** 1.628
 - **Bauteile:** `w306811231`
 
 **Teileliste**
@@ -395,7 +395,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 640 |
 | Tuffstein | `tuff` | 621 |
-| Endsteinziegel | `end_stone_bricks` | 268 |
+| Endsteinziegel | `end_stone_bricks` | 248 |
 | Glatter Stein | `smooth_stone` | 119 |
 
 **Beschreibung**
@@ -417,14 +417,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.11 – Palazzo Martellini-Rosselli del Turco – Teil 11/12 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.579
+- **Blöcke:** 1.569
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.579 |
+| Terrakotta | `terracotta` | 1.569 |
 
 **Beschreibung**
 
@@ -1316,7 +1316,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.38 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 86–98)
 
 - **Y-Bereich:** 86 bis 98
-- **Blöcke:** 1.722
+- **Blöcke:** 1.629
 - **Bauteile:** `w506787326`
 
 **Teileliste**
@@ -1324,9 +1324,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 968 |
-| Terrakotta | `terracotta` | 505 |
+| Terrakotta | `terracotta` | 462 |
 | Weißer Beton | `white_concrete` | 127 |
-| Fichtenholz-Bretter | `spruce_planks` | 83 |
+| Fichtenholz-Bretter | `spruce_planks` | 33 |
 | Ziegelsteine | `bricks` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 
@@ -1552,7 +1552,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.45 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 87–98)
 
 - **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.972
+- **Blöcke:** 1.942
 - **Bauteile:** `w506787332`
 
 **Teileliste**
@@ -1560,9 +1560,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 987 |
-| Terrakotta | `terracotta` | 853 |
-| Fichtenholz-Bretter | `spruce_planks` | 60 |
+| Terrakotta | `terracotta` | 839 |
 | Ziegelsteine | `bricks` | 45 |
+| Fichtenholz-Bretter | `spruce_planks` | 44 |
 | Polierter Andesit | `polished_andesite` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
@@ -1847,7 +1847,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.54 – Reihenhaus an Via Toscanella – Teil 4/5 (Y 86–93)
 
 - **Y-Bereich:** 86 bis 93
-- **Blöcke:** 1.461
+- **Blöcke:** 1.433
 - **Bauteile:** `w506787337`
 
 **Teileliste**
@@ -1856,7 +1856,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.197 |
 | Weißer Beton | `white_concrete` | 123 |
-| Fichtenholz-Bretter | `spruce_planks` | 99 |
+| Fichtenholz-Bretter | `spruce_planks` | 71 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
@@ -1878,14 +1878,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.55 – Reihenhaus an Via Toscanella – Teil 5/5 (Y 94–101)
 
 - **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.886
+- **Blöcke:** 1.858
 - **Bauteile:** `w506787337`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.797 |
+| Terrakotta | `terracotta` | 1.769 |
 | Ziegelsteine | `bricks` | 89 |
 
 **Beschreibung**
@@ -2027,7 +2027,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.59 – Reihenhaus an Piazza della Passera – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.459
+- **Blöcke:** 1.457
 - **Bauteile:** `w506787340`
 
 **Teileliste**
@@ -2036,7 +2036,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 860 |
 | Polierter Tuffstein | `polished_tuff` | 307 |
-| Polierter Andesit | `polished_andesite` | 212 |
+| Polierter Andesit | `polished_andesite` | 210 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Fichtenholz-Bretter | `spruce_planks` | 10 |
 
@@ -2059,16 +2059,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.60 – Reihenhaus an Piazza della Passera – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
-- **Blöcke:** 1.474
+- **Blöcke:** 1.454
 - **Bauteile:** `w506787340`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 730 |
-| Terrakotta | `terracotta` | 384 |
-| Polierter Andesit | `polished_andesite` | 250 |
+| Glatter Sandstein | `smooth_sandstone` | 718 |
+| Terrakotta | `terracotta` | 378 |
+| Polierter Andesit | `polished_andesite` | 248 |
 | Graues Buntglas | `gray_stained_glass` | 90 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
 | Ziegelsteine | `bricks` | 8 |
@@ -2341,7 +2341,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.68 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–95)
 
 - **Y-Bereich:** 80 bis 95
-- **Blöcke:** 1.688
+- **Blöcke:** 1.686
 - **Bauteile:** `w506787346`
 
 **Teileliste**
@@ -2349,9 +2349,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.262 |
-| Terrakotta | `terracotta` | 343 |
+| Terrakotta | `terracotta` | 342 |
 | Hellgrauer Beton | `light_gray_concrete` | 52 |
-| Fichtenholz-Bretter | `spruce_planks` | 23 |
+| Fichtenholz-Bretter | `spruce_planks` | 22 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
@@ -2721,7 +2721,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.79 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–95)
 
 - **Y-Bereich:** 80 bis 95
-- **Blöcke:** 1.347
+- **Blöcke:** 1.343
 - **Bauteile:** `w506787354`
 
 **Teileliste**
@@ -2729,9 +2729,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 746 |
-| Terrakotta | `terracotta` | 409 |
+| Terrakotta | `terracotta` | 407 |
 | Weißer Beton | `white_concrete` | 108 |
-| Fichtenholz-Bretter | `spruce_planks` | 60 |
+| Fichtenholz-Bretter | `spruce_planks` | 58 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**

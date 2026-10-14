@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 104.849 |
+| Blöcke | 104.831 |
 | Bauschritte | 68 |
 | Y-Bereich | 66 bis 106 |
 | X-Ausdehnung | -136 bis 4 (141 Blöcke) |
@@ -21,8 +21,8 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 37.852 | 36,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 21.163 | 20,2 % |
+| Terrakotta | `terracotta` | 37.846 | 36,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 21.151 | 20,2 % |
 | Polierter Tuffstein | `polished_tuff` | 11.333 | 10,8 % |
 | Weißer Beton | `white_concrete` | 6.386 | 6,1 % |
 | Tuffstein | `tuff` | 5.429 | 5,2 % |
@@ -87,7 +87,7 @@
 | 22 | `w542315417_innen` | Reihenhaus an Via delle Oche: Innenausbau | 9 | 11.55 |
 | 23 | `w542315419` | Reihenhaus an Piazza degli Alberighi | 3.040 | 11.55–11.56 |
 | 24 | `w542315419_innen` | Reihenhaus an Piazza degli Alberighi: Innenausbau | 1.632 | 11.57 |
-| 25 | `w542315421` | Reihenhaus an Via Sant'Elisabetta | 3.047 | 11.58–11.59 |
+| 25 | `w542315421` | Reihenhaus an Via Sant'Elisabetta | 3.029 | 11.58–11.59 |
 | 26 | `w542315421_innen` | Reihenhaus an Via Sant'Elisabetta: Innenausbau | 1.072 | 11.60 |
 | 27 | `w542315423` | Reihenhaus an Via delle Oche | 1.952 | 11.61 |
 | 28 | `w542315423_innen` | Reihenhaus an Via delle Oche: Innenausbau | 870 | 11.62 |
@@ -2102,15 +2102,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.59 – Reihenhaus an Via Sant'Elisabetta – Teil 2/2 (Y 85–103)
 
 - **Y-Bereich:** 85 bis 103
-- **Blöcke:** 1.500
+- **Blöcke:** 1.482
 - **Bauteile:** `w542315421`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 842 |
-| Terrakotta | `terracotta` | 505 |
+| Gelbe Keramik | `yellow_terracotta` | 830 |
+| Terrakotta | `terracotta` | 499 |
 | Weißer Beton | `white_concrete` | 73 |
 | Ziegelsteine | `bricks` | 35 |
 | Graues Buntglas | `gray_stained_glass` | 25 |

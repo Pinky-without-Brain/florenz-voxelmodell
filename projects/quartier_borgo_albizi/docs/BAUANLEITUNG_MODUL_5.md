@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 221.763 |
+| Blöcke | 221.743 |
 | Bauschritte | 139 |
 | Y-Bereich | 63 bis 104 |
 | X-Ausdehnung | 301 bis 491 (191 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 82.110 | 37,0 % |
+| Terrakotta | `terracotta` | 82.100 | 37,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 34.634 | 15,6 % |
 | Polierter Tuffstein | `polished_tuff` | 22.461 | 10,1 % |
 | Endsteinziegel | `end_stone_bricks` | 17.598 | 7,9 % |
@@ -34,7 +34,7 @@
 | Glatter Stein | `smooth_stone` | 3.269 | 1,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.733 | 0,8 % |
 | Ziegelsteine | `bricks` | 1.481 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.423 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.413 | 0,6 % |
 | Grüner Beton | `green_concrete` | 932 | 0,4 % |
 | Polierter Andesit | `polished_andesite` | 839 | 0,4 % |
 | Seelaterne | `sea_lantern` | 512 | 0,2 % |
@@ -107,7 +107,7 @@
 | 46 | `w474220894_innen` | Reihenhaus an Via delle Seggiole: Innenausbau | 1.785 | 5.113 |
 | 47 | `w474220895` | Reihenhaus an Via de' Giraldi | 6.936 | 5.114–5.117 |
 | 48 | `w474220895_innen` | Reihenhaus an Via de' Giraldi: Innenausbau | 2.082 | 5.118 |
-| 49 | `w474220896` | Reihenhaus an Borgo degli Albizi | 1.777 | 5.119 |
+| 49 | `w474220896` | Reihenhaus an Borgo degli Albizi | 1.757 | 5.119 |
 | 50 | `w474220896_innen` | Reihenhaus an Borgo degli Albizi: Innenausbau | 1.030 | 5.120 |
 | 51 | `w474220897` | Haus w474220897 | 10.149 | 5.121–5.126 |
 | 52 | `w474220897_innen` | Haus w474220897: Innenausbau | 4.248 | 5.127–5.129 |
@@ -4197,7 +4197,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.119 – Reihenhaus an Borgo degli Albizi
 
 - **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.777
+- **Blöcke:** 1.757
 - **Bauteile:** `w474220896`
 
 **Teileliste**
@@ -4205,11 +4205,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 744 |
-| Terrakotta | `terracotta` | 428 |
+| Terrakotta | `terracotta` | 418 |
 | Polierter Tuffstein | `polished_tuff` | 336 |
 | Polierter Andesit | `polished_andesite` | 140 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
-| Fichtenholz-Bretter | `spruce_planks` | 63 |
+| Fichtenholz-Bretter | `spruce_planks` | 53 |
 
 **Beschreibung**
 

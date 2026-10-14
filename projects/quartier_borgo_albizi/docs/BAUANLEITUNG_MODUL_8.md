@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 197.347 |
+| Blöcke | 197.272 |
 | Bauschritte | 125 |
 | Y-Bereich | 63 bis 102 |
 | X-Ausdehnung | 493 bis 708 (216 Blöcke) |
 | Z-Ausdehnung | 349 bis 481 (133 Blöcke) |
 | Kleinster Schritt | 456 Blöcke (Schritt 8.41) |
-| Mittlerer Schritt | 1.579 Blöcke |
+| Mittlerer Schritt | 1.578 Blöcke |
 | Größter Schritt | 2.068 Blöcke (Schritt 8.24) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 70.671 | 35,8 % |
+| Terrakotta | `terracotta` | 70.646 | 35,8 % |
 | Polierter Tuffstein | `polished_tuff` | 25.344 | 12,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 22.299 | 11,3 % |
 | Weißer Beton | `white_concrete` | 17.974 | 9,1 % |
-| Orange Keramik | `orange_terracotta` | 12.547 | 6,4 % |
+| Orange Keramik | `orange_terracotta` | 12.497 | 6,3 % |
 | Rosa Keramik | `pink_terracotta` | 8.270 | 4,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.775 | 3,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.399 | 3,2 % |
@@ -86,7 +86,7 @@
 | 24 | `w480014080_innen` | Renaissance-Palazzo an Borgo degli Albizi: Innenausbau | 2.205 | 8.95–8.96 |
 | 25 | `w480014081` | Reihenhaus an Via delle Seggiole | 1.725 | 8.97 |
 | 26 | `w480014081_innen` | Reihenhaus an Via delle Seggiole: Innenausbau | 793 | 8.98 |
-| 27 | `w480014082` | Reihenhaus an Piazzetta Piero Calamandrei | 10.567 | 8.99–8.104 |
+| 27 | `w480014082` | Reihenhaus an Piazzetta Piero Calamandrei | 10.492 | 8.99–8.104 |
 | 28 | `w480014082_innen` | Reihenhaus an Piazzetta Piero Calamandrei: Innenausbau | 3.132 | 8.105–8.106 |
 | 29 | `w480014083` | Reihenhaus an Piazza San Pier Maggiore | 6.247 | 8.107–8.110 |
 | 30 | `w480014083_innen` | Reihenhaus an Piazza San Pier Maggiore: Innenausbau | 2.849 | 8.111–8.112 |
@@ -3473,18 +3473,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.101 – Reihenhaus an Piazzetta Piero Calamandrei – Teil 3/6 (Y 73–80)
+### Schritt 8.101 – Reihenhaus an Piazzetta Piero Calamandrei – Teil 3/6 (Y 73–79)
 
-- **Y-Bereich:** 73 bis 80
-- **Blöcke:** 1.962
+- **Y-Bereich:** 73 bis 79
+- **Blöcke:** 1.707
 - **Bauteile:** `w480014082`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.638 |
-| Weißer Beton | `white_concrete` | 203 |
+| Orange Keramik | `orange_terracotta` | 1.424 |
+| Weißer Beton | `white_concrete` | 162 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
 | Grüner Beton | `green_concrete` | 40 |
 
@@ -3504,18 +3504,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.102 – Reihenhaus an Piazzetta Piero Calamandrei – Teil 4/6 (Y 81–87)
+### Schritt 8.102 – Reihenhaus an Piazzetta Piero Calamandrei – Teil 4/6 (Y 80–87)
 
-- **Y-Bereich:** 81 bis 87
-- **Blöcke:** 1.707
+- **Y-Bereich:** 80 bis 87
+- **Blöcke:** 1.962
 - **Bauteile:** `w480014082`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.465 |
-| Weißer Beton | `white_concrete` | 121 |
+| Orange Keramik | `orange_terracotta` | 1.679 |
+| Weißer Beton | `white_concrete` | 162 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
 | Grüner Beton | `green_concrete` | 40 |
 
@@ -3538,14 +3538,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.103 – Reihenhaus an Piazzetta Piero Calamandrei – Teil 5/6 (Y 88–93)
 
 - **Y-Bereich:** 88 bis 93
-- **Blöcke:** 1.666
+- **Blöcke:** 1.616
 - **Bauteile:** `w480014082`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.424 |
+| Orange Keramik | `orange_terracotta` | 1.374 |
 | Weißer Beton | `white_concrete` | 140 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 | Grüner Beton | `green_concrete` | 42 |
@@ -3569,14 +3569,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.104 – Reihenhaus an Piazzetta Piero Calamandrei – Teil 6/6 (Y 94–100)
 
 - **Y-Bereich:** 94 bis 100
-- **Blöcke:** 1.796
+- **Blöcke:** 1.771
 - **Bauteile:** `w480014082`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.707 |
+| Terrakotta | `terracotta` | 1.682 |
 | Ziegelsteine | `bricks` | 89 |
 
 **Beschreibung**

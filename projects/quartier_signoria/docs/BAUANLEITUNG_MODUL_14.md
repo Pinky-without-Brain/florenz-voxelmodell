@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.944 |
+| Blöcke | 52.826 |
 | Bauschritte | 32 |
 | Y-Bereich | 63 bis 108 |
-| X-Ausdehnung | -352 bis -260 (93 Blöcke) |
+| X-Ausdehnung | -351 bis -260 (92 Blöcke) |
 | Z-Ausdehnung | 425 bis 502 (78 Blöcke) |
 | Kleinster Schritt | 714 Blöcke (Schritt 14.26) |
-| Mittlerer Schritt | 1.655 Blöcke |
+| Mittlerer Schritt | 1.651 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 14.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.966 | 35,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 11.440 | 21,6 % |
-| Rosa Keramik | `pink_terracotta` | 5.153 | 9,7 % |
+| Terrakotta | `terracotta` | 18.920 | 35,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 11.440 | 21,7 % |
+| Rosa Keramik | `pink_terracotta` | 5.153 | 9,8 % |
 | Polierter Tuffstein | `polished_tuff` | 4.960 | 9,4 % |
 | Weißer Beton | `white_concrete` | 2.580 | 4,9 % |
-| Endsteinziegel | `end_stone_bricks` | 2.054 | 3,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 1.982 | 3,7 % |
+| Endsteinziegel | `end_stone_bricks` | 2.008 | 3,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.982 | 3,8 % |
 | Graues Buntglas | `gray_stained_glass` | 1.188 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 1.121 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 1.118 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 875 | 1,7 % |
 | Grüner Beton | `green_concrete` | 650 | 1,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 522 | 1,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 499 | 0,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 418 | 0,8 % |
 | Ziegelsteine | `bricks` | 395 | 0,7 % |
 | Seelaterne | `sea_lantern` | 112 | 0,2 % |
@@ -61,13 +61,13 @@
 | 2 | `r7752954_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 6.286 | 14.13–14.15 |
 | 3 | `w542316812` | Reihenhaus an Piazza dei Tre Re | 3.107 | 14.16–14.17 |
 | 4 | `w542316812_innen` | Reihenhaus an Piazza dei Tre Re: Innenausbau | 1.019 | 14.18 |
-| 5 | `w542316813` | Reihenhaus an Vicolo del Ferro | 3.791 | 14.19–14.20 |
+| 5 | `w542316813` | Reihenhaus an Vicolo del Ferro | 3.745 | 14.19–14.20 |
 | 6 | `w542316813_innen` | Reihenhaus an Vicolo del Ferro: Innenausbau | 769 | 14.21 |
 | 7 | `w542316814` | Reihenhaus an Via Orsanmichele | 3.763 | 14.22–14.23 |
 | 8 | `w542316814_innen` | Reihenhaus an Via Orsanmichele: Innenausbau | 1.680 | 14.24 |
 | 9 | `w542316815` | Reihenhaus an Via Orsanmichele | 1.852 | 14.25 |
 | 10 | `w542316815_innen` | Reihenhaus an Via Orsanmichele: Innenausbau | 714 | 14.26 |
-| 11 | `w542316817` | Reihenhaus an Vicolo del Ferro | 4.217 | 14.27–14.29 |
+| 11 | `w542316817` | Reihenhaus an Vicolo del Ferro | 4.145 | 14.27–14.29 |
 | 12 | `w542316817_innen` | Reihenhaus an Vicolo del Ferro: Innenausbau | 1.514 | 14.30 |
 | 13 | `w542316818` | Reihenhaus an Via Orsanmichele | 1.620 | 14.31 |
 | 14 | `w542316818_innen` | Reihenhaus an Via Orsanmichele: Innenausbau | 1.301 | 14.32 |
@@ -717,7 +717,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.20 – Reihenhaus an Vicolo del Ferro – Teil 2/2 (Y 80–99)
 
 - **Y-Bereich:** 80 bis 99
-- **Blöcke:** 1.943
+- **Blöcke:** 1.897
 - **Bauteile:** `w542316813`
 
 **Teileliste**
@@ -725,9 +725,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.186 |
-| Terrakotta | `terracotta` | 456 |
+| Terrakotta | `terracotta` | 433 |
 | Polierter Andesit | `polished_andesite` | 136 |
-| Fichtenholz-Bretter | `spruce_planks` | 85 |
+| Fichtenholz-Bretter | `spruce_planks` | 62 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
 | Ziegelsteine | `bricks` | 24 |
 
@@ -970,19 +970,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.27 – Reihenhaus an Vicolo del Ferro – Teil 1/3 (Y 63–73)
+### Schritt 14.27 – Reihenhaus an Vicolo del Ferro – Teil 1/3 (Y 63–72)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.440
+- **Y-Bereich:** 63 bis 72
+- **Blöcke:** 1.334
 - **Bauteile:** `w542316817`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 643 |
+| Endsteinziegel | `end_stone_bricks` | 565 |
 | Polierter Tuffstein | `polished_tuff` | 563 |
-| Glatter Stein | `smooth_stone` | 141 |
+| Glatter Stein | `smooth_stone` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 85 |
 | Grüner Beton | `green_concrete` | 8 |
 
@@ -1002,18 +1002,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.28 – Reihenhaus an Vicolo del Ferro – Teil 2/3 (Y 74–87)
+### Schritt 14.28 – Reihenhaus an Vicolo del Ferro – Teil 2/3 (Y 73–87)
 
-- **Y-Bereich:** 74 bis 87
-- **Blöcke:** 1.340
+- **Y-Bereich:** 73 bis 87
+- **Blöcke:** 1.443
 - **Bauteile:** `w542316817`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 940 |
-| Glatter Stein | `smooth_stone` | 200 |
+| Endsteinziegel | `end_stone_bricks` | 1.018 |
+| Glatter Stein | `smooth_stone` | 225 |
 | Grüner Beton | `green_concrete` | 104 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 
@@ -1036,15 +1036,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.29 – Reihenhaus an Vicolo del Ferro – Teil 3/3 (Y 88–98)
 
 - **Y-Bereich:** 88 bis 98
-- **Blöcke:** 1.437
+- **Blöcke:** 1.368
 - **Bauteile:** `w542316817`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 745 |
-| Endsteinziegel | `end_stone_bricks` | 471 |
+| Terrakotta | `terracotta` | 722 |
+| Endsteinziegel | `end_stone_bricks` | 425 |
 | Glatter Stein | `smooth_stone` | 72 |
 | Grüner Beton | `green_concrete` | 52 |
 | Ziegelsteine | `bricks` | 49 |

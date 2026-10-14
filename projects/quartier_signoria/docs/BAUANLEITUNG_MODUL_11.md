@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 276.578 |
+| Blöcke | 276.251 |
 | Bauschritte | 167 |
 | Y-Bereich | 63 bis 120 |
 | X-Ausdehnung | -471 bis -238 (234 Blöcke) |
 | Z-Ausdehnung | 795 bis 992 (198 Blöcke) |
 | Kleinster Schritt | 477 Blöcke (Schritt 11.125) |
-| Mittlerer Schritt | 1.656 Blöcke |
+| Mittlerer Schritt | 1.654 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 11.91) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 85.843 | 31,0 % |
-| Endsteinziegel | `end_stone_bricks` | 37.441 | 13,5 % |
+| Terrakotta | `terracotta` | 85.702 | 31,0 % |
+| Endsteinziegel | `end_stone_bricks` | 37.393 | 13,5 % |
 | Rosa Keramik | `pink_terracotta` | 27.626 | 10,0 % |
 | Orange Keramik | `orange_terracotta` | 23.952 | 8,7 % |
 | Polierter Tuffstein | `polished_tuff` | 22.968 | 8,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 19.091 | 6,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 16.240 | 5,9 % |
 | Weißer Beton | `white_concrete` | 10.025 | 3,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 9.860 | 3,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 9.854 | 3,6 % |
 | Graues Buntglas | `gray_stained_glass` | 5.475 | 2,0 % |
 | Glatter Stein | `smooth_stone` | 4.642 | 1,7 % |
 | Polierter Andesit | `polished_andesite` | 4.458 | 1,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.085 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.838 | 0,7 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.706 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.293 | 0,5 % |
 | Grüner Beton | `green_concrete` | 1.167 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 573 | 0,2 % |
@@ -61,11 +61,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7508030` | Reihenhaus an Via Lambertesca | 9.659 | 11.1–11.5 |
 | 2 | `r7508030_innen` | Reihenhaus an Via Lambertesca: Innenausbau | 2.358 | 11.6–11.7 |
-| 3 | `w518531686` | Reihenhaus an Chiasso dei Baroncelli | 2.908 | 11.8–11.9 |
+| 3 | `w518531686` | Reihenhaus an Chiasso dei Baroncelli | 2.894 | 11.8–11.9 |
 | 4 | `w518531686_innen` | Reihenhaus an Chiasso dei Baroncelli: Innenausbau | 2 | 11.10 |
-| 5 | `w518531689` | Reihenhaus an Piazza dei Baroncelli | 2.629 | 11.10–11.11 |
+| 5 | `w518531689` | Reihenhaus an Piazza dei Baroncelli | 2.620 | 11.10–11.11 |
 | 6 | `w518531689_innen` | Reihenhaus an Piazza dei Baroncelli: Innenausbau | 667 | 11.12 |
-| 7 | `w518531690` | Reihenhaus an Chiasso dei Baroncelli | 4.071 | 11.13–11.14 |
+| 7 | `w518531690` | Reihenhaus an Chiasso dei Baroncelli | 3.973 | 11.13–11.14 |
 | 8 | `w518531690_innen` | Reihenhaus an Chiasso dei Baroncelli: Innenausbau | 774 | 11.15 |
 | 9 | `w518531693` | Reihenhaus an Piazza della Signoria | 6.031 | 11.16–11.18 |
 | 10 | `w518531693_innen` | Reihenhaus an Piazza della Signoria: Innenausbau | 1.357 | 11.19 |
@@ -79,7 +79,7 @@
 | 18 | `w518531699_innen` | Reihenhaus an Via Vacchereccia: Innenausbau | 1.688 | 11.40 |
 | 19 | `w518531701` | Reihenhaus an Piazza dei Saltarelli | 15.897 | 11.41–11.49 |
 | 20 | `w518531701_innen` | Reihenhaus an Piazza dei Saltarelli: Innenausbau | 5.066 | 11.50–11.52 |
-| 21 | `w518531702` | Reihenhaus an Chiasso del Buco | 19.732 | 11.53–11.63 |
+| 21 | `w518531702` | Reihenhaus an Chiasso del Buco | 19.704 | 11.53–11.63 |
 | 22 | `w518531702_innen` | Reihenhaus an Chiasso del Buco: Innenausbau | 3.737 | 11.64–11.65 |
 | 23 | `w518531703` | Reihenhaus an Chiasso del Buco | 6.104 | 11.66–11.68 |
 | 24 | `w518531703_innen` | Reihenhaus an Chiasso del Buco: Innenausbau | 2.573 | 11.69–11.70 |
@@ -97,19 +97,19 @@
 | 36 | `w518531711_innen` | Palazzo des Ottocento an Via Por Santa Maria: Innenausbau | 7.064 | 11.104–11.107 |
 | 37 | `w518531712` | Reihenhaus an Via Por Santa Maria | 8.895 | 11.108–11.112 |
 | 38 | `w518531712_innen` | Reihenhaus an Via Por Santa Maria: Innenausbau | 2.134 | 11.113–11.114 |
-| 39 | `w518531713` | Reihenhaus an Chiasso dei Baroncelli | 3.002 | 11.115–11.116 |
+| 39 | `w518531713` | Reihenhaus an Chiasso dei Baroncelli | 2.996 | 11.115–11.116 |
 | 40 | `w518531713_innen` | Reihenhaus an Chiasso dei Baroncelli: Innenausbau | 844 | 11.117 |
 | 41 | `w518531714` | Reihenhaus an Via Vacchereccia | 6.606 | 11.118–11.121 |
 | 42 | `w518531714_innen` | Reihenhaus an Via Vacchereccia: Innenausbau | 3.392 | 11.122–11.123 |
 | 43 | `w518531715` | Reihenhaus an Chiasso del Buco | 1.669 | 11.124 |
 | 44 | `w518531715_innen` | Reihenhaus an Chiasso del Buco: Innenausbau | 477 | 11.125 |
-| 45 | `w518531716` | Reihenhaus an Chiasso dei Baroncelli | 7.543 | 11.126–11.129 |
+| 45 | `w518531716` | Reihenhaus an Chiasso dei Baroncelli | 7.443 | 11.126–11.129 |
 | 46 | `w518531716_innen` | Reihenhaus an Chiasso dei Baroncelli: Innenausbau | 3.064 | 11.130–11.131 |
 | 47 | `w518531717` | Reihenhaus an Chiasso dei Baroncelli | 3.201 | 11.132–11.133 |
 | 48 | `w518531717_innen` | Reihenhaus an Chiasso dei Baroncelli: Innenausbau | 1.881 | 11.134 |
 | 49 | `w518531718` | Reihenhaus an Piazza dei Saltarelli | 8.767 | 11.135–11.139 |
 | 50 | `w518531718_innen` | Reihenhaus an Piazza dei Saltarelli: Innenausbau | 3.513 | 11.140–11.141 |
-| 51 | `w518531719` | Reihenhaus an Via Lambertesca | 11.395 | 11.142–11.147 |
+| 51 | `w518531719` | Reihenhaus an Via Lambertesca | 11.323 | 11.142–11.147 |
 | 52 | `w518531719_innen` | Reihenhaus an Via Lambertesca: Innenausbau | 3.997 | 11.148–11.149 |
 | 53 | `w518531721` | Reihenhaus an Chiasso del Buco | 6.379 | 11.150–11.153 |
 | 54 | `w518531721_innen` | Reihenhaus an Chiasso del Buco: Innenausbau | 2.404 | 11.154–11.155 |
@@ -390,7 +390,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.9 – Reihenhaus an Chiasso dei Baroncelli – Teil 2/2 (Y 79–98)
 
 - **Y-Bereich:** 79 bis 98
-- **Blöcke:** 1.489
+- **Blöcke:** 1.475
 - **Bauteile:** `w518531686`
 
 **Teileliste**
@@ -398,9 +398,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.219 |
-| Terrakotta | `terracotta` | 197 |
+| Terrakotta | `terracotta` | 190 |
 | Polierter Andesit | `polished_andesite` | 42 |
-| Fichtenholz-Bretter | `spruce_planks` | 20 |
+| Fichtenholz-Bretter | `spruce_planks` | 13 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 | Ziegelsteine | `bricks` | 3 |
 
@@ -456,15 +456,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 11.11 – Reihenhaus an Piazza dei Baroncelli – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
-- **Blöcke:** 1.285
+- **Blöcke:** 1.276
 - **Bauteile:** `w518531689`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 882 |
-| Terrakotta | `terracotta` | 298 |
+| Glatter Sandstein | `smooth_sandstone` | 876 |
+| Terrakotta | `terracotta` | 295 |
 | Weißer Beton | `white_concrete` | 80 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Ziegelsteine | `bricks` | 9 |
@@ -560,7 +560,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.14 – Reihenhaus an Chiasso dei Baroncelli – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
-- **Blöcke:** 2.045
+- **Blöcke:** 1.947
 - **Bauteile:** `w518531690`
 
 **Teileliste**
@@ -568,9 +568,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.378 |
-| Terrakotta | `terracotta` | 452 |
-| Fichtenholz-Bretter | `spruce_planks` | 106 |
+| Terrakotta | `terracotta` | 408 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
+| Fichtenholz-Bretter | `spruce_planks` | 52 |
 | Ziegelsteine | `bricks` | 21 |
 
 **Beschreibung**
@@ -2150,7 +2150,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.62 – Reihenhaus an Chiasso del Buco – Teil 10/11 (Y 105–107)
 
 - **Y-Bereich:** 105 bis 107
-- **Blöcke:** 1.508
+- **Blöcke:** 1.494
 - **Bauteile:** `w518531702`
 
 **Teileliste**
@@ -2158,7 +2158,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 909 |
-| Fichtenholz-Bretter | `spruce_planks` | 356 |
+| Fichtenholz-Bretter | `spruce_planks` | 342 |
 | Weißer Beton | `white_concrete` | 243 |
 
 **Beschreibung**
@@ -2180,14 +2180,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.63 – Reihenhaus an Chiasso del Buco – Teil 11/11 (Y 108–113)
 
 - **Y-Bereich:** 108 bis 113
-- **Blöcke:** 1.974
+- **Blöcke:** 1.960
 - **Bauteile:** `w518531702`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.880 |
+| Terrakotta | `terracotta` | 1.866 |
 | Ziegelsteine | `bricks` | 94 |
 
 **Beschreibung**
@@ -4005,7 +4005,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.116 – Reihenhaus an Chiasso dei Baroncelli – Teil 2/2 (Y 81–98)
 
 - **Y-Bereich:** 81 bis 98
-- **Blöcke:** 1.477
+- **Blöcke:** 1.471
 - **Bauteile:** `w518531713`
 
 **Teileliste**
@@ -4013,9 +4013,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 710 |
-| Terrakotta | `terracotta` | 437 |
+| Terrakotta | `terracotta` | 434 |
 | Polierter Andesit | `polished_andesite` | 142 |
-| Fichtenholz-Bretter | `spruce_planks` | 119 |
+| Fichtenholz-Bretter | `spruce_planks` | 116 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Ziegelsteine | `bricks` | 6 |
 
@@ -4387,18 +4387,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.127 – Reihenhaus an Chiasso dei Baroncelli – Teil 2/4 (Y 69–80)
+### Schritt 11.127 – Reihenhaus an Chiasso dei Baroncelli – Teil 2/4 (Y 69–79)
 
-- **Y-Bereich:** 69 bis 80
-- **Blöcke:** 1.920
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 1.758
 - **Bauteile:** `w518531716`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.714 |
-| Hellgrauer Beton | `light_gray_concrete` | 177 |
+| Weißer Beton | `white_concrete` | 1.576 |
+| Hellgrauer Beton | `light_gray_concrete` | 153 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
 
 **Beschreibung**
@@ -4417,18 +4417,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.128 – Reihenhaus an Chiasso dei Baroncelli – Teil 3/4 (Y 81–91)
+### Schritt 11.128 – Reihenhaus an Chiasso dei Baroncelli – Teil 3/4 (Y 80–91)
 
-- **Y-Bereich:** 81 bis 91
-- **Blöcke:** 1.742
+- **Y-Bereich:** 80 bis 91
+- **Blöcke:** 1.904
 - **Bauteile:** `w518531716`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.502 |
-| Hellgrauer Beton | `light_gray_concrete` | 192 |
+| Weißer Beton | `white_concrete` | 1.640 |
+| Hellgrauer Beton | `light_gray_concrete` | 216 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
@@ -4450,18 +4450,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.129 – Reihenhaus an Chiasso dei Baroncelli – Teil 4/4 (Y 92–103)
 
 - **Y-Bereich:** 92 bis 103
-- **Blöcke:** 1.965
+- **Blöcke:** 1.865
 - **Bauteile:** `w518531716`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.476 |
+| Terrakotta | `terracotta` | 1.430 |
 | Weißer Beton | `white_concrete` | 300 |
 | Ziegelsteine | `bricks` | 87 |
-| Fichtenholz-Bretter | `spruce_planks` | 78 |
 | Hellgrauer Beton | `light_gray_concrete` | 24 |
+| Fichtenholz-Bretter | `spruce_planks` | 24 |
 
 **Beschreibung**
 
@@ -4995,17 +4995,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.145 – Reihenhaus an Via Lambertesca – Teil 4/6 (Y 88–97)
+### Schritt 11.145 – Reihenhaus an Via Lambertesca – Teil 4/6 (Y 88–96)
 
-- **Y-Bereich:** 88 bis 97
-- **Blöcke:** 1.935
+- **Y-Bereich:** 88 bis 96
+- **Blöcke:** 1.728
 - **Bauteile:** `w518531719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.635 |
+| Endsteinziegel | `end_stone_bricks` | 1.428 |
 | Graues Buntglas | `gray_stained_glass` | 172 |
 | Grüner Beton | `green_concrete` | 128 |
 
@@ -5025,17 +5025,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.146 – Reihenhaus an Via Lambertesca – Teil 5/6 (Y 98–106)
+### Schritt 11.146 – Reihenhaus an Via Lambertesca – Teil 5/6 (Y 97–106)
 
-- **Y-Bereich:** 98 bis 106
-- **Blöcke:** 1.809
+- **Y-Bereich:** 97 bis 106
+- **Blöcke:** 1.992
 - **Bauteile:** `w518531719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.509 |
+| Endsteinziegel | `end_stone_bricks` | 1.692 |
 | Graues Buntglas | `gray_stained_glass` | 172 |
 | Grüner Beton | `green_concrete` | 128 |
 
@@ -5058,15 +5058,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.147 – Reihenhaus an Via Lambertesca – Teil 6/6 (Y 107–116)
 
 - **Y-Bereich:** 107 bis 116
-- **Blöcke:** 1.928
+- **Blöcke:** 1.880
 - **Bauteile:** `w518531719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.563 |
-| Endsteinziegel | `end_stone_bricks` | 277 |
+| Terrakotta | `terracotta` | 1.539 |
+| Endsteinziegel | `end_stone_bricks` | 253 |
 | Ziegelsteine | `bricks` | 88 |
 
 **Beschreibung**

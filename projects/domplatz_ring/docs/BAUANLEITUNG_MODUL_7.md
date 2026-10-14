@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 213.651 |
+| Blöcke | 213.603 |
 | Bauschritte | 142 |
 | Y-Bereich | 60 bis 115 |
 | X-Ausdehnung | -241 bis -60 (182 Blöcke) |
 | Z-Ausdehnung | -306 bis -83 (224 Blöcke) |
 | Kleinster Schritt | 518 Blöcke (Schritt 7.75) |
-| Mittlerer Schritt | 1.505 Blöcke |
+| Mittlerer Schritt | 1.504 Blöcke |
 | Größter Schritt | 2.052 Blöcke (Schritt 7.106) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 84.381 | 39,5 % |
+| Terrakotta | `terracotta` | 84.358 | 39,5 % |
 | Rosa Keramik | `pink_terracotta` | 44.945 | 21,0 % |
 | Polierter Tuffstein | `polished_tuff` | 21.382 | 10,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 18.654 | 8,7 % |
@@ -33,7 +33,7 @@
 | Weißer Beton | `white_concrete` | 3.660 | 1,7 % |
 | Ziegelsteine | `bricks` | 2.241 | 1,0 % |
 | Grüner Beton | `green_concrete` | 1.544 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.031 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.006 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 573 | 0,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 499 | 0,2 % |
 | Seelaterne | `sea_lantern` | 422 | 0,2 % |
@@ -62,7 +62,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7069013` | Palazzo des Cinquecento an Via dei Biffi | 75.151 | 7.1–7.57 |
+| 1 | `r7069013` | Palazzo des Cinquecento an Via dei Biffi | 75.103 | 7.1–7.57 |
 | 2 | `r7069013_innen` | Palazzo des Cinquecento an Via dei Biffi: Innenausbau | 26.395 | 7.58–7.72 |
 | 3 | `r7069014` | Palazzo des Ottocento an Via dei Martelli | 23.300 | 7.73–7.88 |
 | 4 | `r7069014_innen` | Palazzo des Ottocento an Via dei Martelli: Innenausbau | 6.883 | 7.89–7.92 |
@@ -1477,7 +1477,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.46 – Palazzo des Cinquecento an Via dei Biffi – Teil 46/57 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.287
+- **Blöcke:** 1.285
 - **Bauteile:** `r7069013`
 
 **Teileliste**
@@ -1486,7 +1486,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 965 |
 | Weißer Beton | `white_concrete` | 194 |
-| Fichtenholz-Bretter | `spruce_planks` | 125 |
+| Fichtenholz-Bretter | `spruce_planks` | 123 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -1508,7 +1508,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.47 – Palazzo des Cinquecento an Via dei Biffi – Teil 47/57 (Y 103–103)
 
 - **Y-Bereich:** 103 bis 103
-- **Blöcke:** 1.717
+- **Blöcke:** 1.694
 - **Bauteile:** `r7069013`
 
 **Teileliste**
@@ -1516,7 +1516,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.154 |
-| Fichtenholz-Bretter | `spruce_planks` | 555 |
+| Fichtenholz-Bretter | `spruce_planks` | 532 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
@@ -1538,14 +1538,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.48 – Palazzo des Cinquecento an Via dei Biffi – Teil 48/57 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
-- **Blöcke:** 1.899
+- **Blöcke:** 1.912
 - **Bauteile:** `r7069013`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
+| Terrakotta | `terracotta` | 1.912 |
 
 **Beschreibung**
 
@@ -1566,14 +1566,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.49 – Palazzo des Cinquecento an Via dei Biffi – Teil 49/57 (Y 104–104)
 
 - **Y-Bereich:** 104 bis 104
-- **Blöcke:** 1.925
+- **Blöcke:** 1.889
 - **Bauteile:** `r7069013`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.925 |
+| Terrakotta | `terracotta` | 1.889 |
 
 **Beschreibung**
 

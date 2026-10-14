@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 62.862 |
+| Blöcke | 62.773 |
 | Bauschritte | 38 |
 | Y-Bereich | 63 bis 103 |
 | X-Ausdehnung | -121 bis -5 (117 Blöcke) |
 | Z-Ausdehnung | 487 bis 576 (90 Blöcke) |
 | Kleinster Schritt | 954 Blöcke (Schritt 23.21) |
-| Mittlerer Schritt | 1.654 Blöcke |
-| Größter Schritt | 1.976 Blöcke (Schritt 23.36) |
+| Mittlerer Schritt | 1.652 Blöcke |
+| Größter Schritt | 1.939 Blöcke (Schritt 23.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 24.790 | 39,4 % |
-| Orange Keramik | `orange_terracotta` | 8.641 | 13,7 % |
+| Terrakotta | `terracotta` | 24.746 | 39,4 % |
+| Orange Keramik | `orange_terracotta` | 8.641 | 13,8 % |
 | Polierter Tuffstein | `polished_tuff` | 7.231 | 11,5 % |
 | Weißer Beton | `white_concrete` | 5.418 | 8,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 4.846 | 7,7 % |
@@ -32,8 +32,8 @@
 | Graues Buntglas | `gray_stained_glass` | 1.627 | 2,6 % |
 | Ziegelsteine | `bricks` | 515 | 0,8 % |
 | Tuffsteinziegel | `tuff_bricks` | 410 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 365 | 0,6 % |
 | Grüner Beton | `green_concrete` | 352 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 320 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 219 | 0,3 % |
 | Seelaterne | `sea_lantern` | 137 | 0,2 % |
 | Endsteinziegel | `end_stone_bricks` | 132 | 0,2 % |
@@ -63,11 +63,11 @@
 | 4 | `w497263204_innen` | Reihenhaus an Via del Canto alla Quarconia: Innenausbau | 4.113 | 23.15–23.17 |
 | 5 | `w497263244` | Reihenhaus an Via dei Cimatori | 5.341 | 23.18–23.20 |
 | 6 | `w497263244_innen` | Reihenhaus an Via dei Cimatori: Innenausbau | 2.732 | 23.21–23.22 |
-| 7 | `w497263253` | Reihenhaus an Via Dante Alighieri | 5.654 | 23.23–23.25 |
+| 7 | `w497263253` | Reihenhaus an Via Dante Alighieri | 5.632 | 23.23–23.25 |
 | 8 | `w497263253_innen` | Reihenhaus an Via Dante Alighieri: Innenausbau | 1.548 | 23.26 |
 | 9 | `w497263272` | Renaissance-Palazzo an Via dei Magazzini | 10.022 | 23.27–23.32 |
 | 10 | `w497263272_innen` | Renaissance-Palazzo an Via dei Magazzini: Innenausbau | 3.209 | 23.33–23.34 |
-| 11 | `w497263274` | Palazzo des Cinquecento an Via Dante Alighieri | 5.594 | 23.35–23.37 |
+| 11 | `w497263274` | Palazzo des Cinquecento an Via Dante Alighieri | 5.527 | 23.35–23.37 |
 | 12 | `w497263274_innen` | Palazzo des Cinquecento an Via Dante Alighieri: Innenausbau | 1.474 | 23.38 |
 
 ## Bauschritte
@@ -891,17 +891,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 23.25 – Reihenhaus an Via Dante Alighieri – Teil 3/3 (Y 88–99)
 
 - **Y-Bereich:** 88 bis 99
-- **Blöcke:** 1.855
+- **Blöcke:** 1.833
 - **Bauteile:** `w497263253`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 864 |
+| Terrakotta | `terracotta` | 853 |
 | Orange Keramik | `orange_terracotta` | 631 |
-| Fichtenholz-Bretter | `spruce_planks` | 135 |
 | Weißer Beton | `white_concrete` | 131 |
+| Fichtenholz-Bretter | `spruce_planks` | 124 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Ziegelsteine | `bricks` | 40 |
 
@@ -1269,20 +1269,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.36 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 2/3 (Y 73–89)
+### Schritt 23.36 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 2/3 (Y 73–88)
 
-- **Y-Bereich:** 73 bis 89
-- **Blöcke:** 1.976
+- **Y-Bereich:** 73 bis 88
+- **Blöcke:** 1.870
 - **Bauteile:** `w497263274`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.254 |
-| Glatter Stein | `smooth_stone` | 490 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-| Polierter Andesit | `polished_andesite` | 66 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.188 |
+| Glatter Stein | `smooth_stone` | 471 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Polierter Andesit | `polished_andesite` | 63 |
 | Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
@@ -1301,23 +1301,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.37 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 3/3 (Y 90–100)
+### Schritt 23.37 – Palazzo des Cinquecento an Via Dante Alighieri – Teil 3/3 (Y 89–100)
 
-- **Y-Bereich:** 90 bis 100
-- **Blöcke:** 1.814
+- **Y-Bereich:** 89 bis 100
+- **Blöcke:** 1.853
 - **Bauteile:** `w497263274`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.140 |
-| Hellgrauer Beton | `light_gray_concrete` | 331 |
-| Fichtenholz-Bretter | `spruce_planks` | 137 |
-| Glatter Stein | `smooth_stone` | 113 |
+| Terrakotta | `terracotta` | 1.107 |
+| Hellgrauer Beton | `light_gray_concrete` | 397 |
+| Glatter Stein | `smooth_stone` | 132 |
+| Fichtenholz-Bretter | `spruce_planks` | 103 |
 | Ziegelsteine | `bricks` | 59 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Polierter Andesit | `polished_andesite` | 19 |
 
 **Beschreibung**
 

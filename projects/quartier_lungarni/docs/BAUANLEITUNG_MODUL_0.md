@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 261.804 |
+| Blöcke | 261.784 |
 | Bauschritte | 166 |
 | Y-Bereich | 63 bis 103 |
 | X-Ausdehnung | -877 bis -600 (278 Blöcke) |
@@ -21,16 +21,16 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 87.702 | 33,5 % |
+| Terrakotta | `terracotta` | 87.701 | 33,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 28.890 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 25.950 | 9,9 % |
 | Orange Keramik | `orange_terracotta` | 21.974 | 8,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 15.925 | 6,1 % |
-| Weißer Beton | `white_concrete` | 14.530 | 5,5 % |
+| Weißer Beton | `white_concrete` | 14.530 | 5,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 13.714 | 5,2 % |
-| Endsteinziegel | `end_stone_bricks` | 11.241 | 4,3 % |
+| Endsteinziegel | `end_stone_bricks` | 11.239 | 4,3 % |
 | Rosa Keramik | `pink_terracotta` | 11.128 | 4,3 % |
-| Glatter Stein | `smooth_stone` | 8.686 | 3,3 % |
+| Glatter Stein | `smooth_stone` | 8.669 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 7.011 | 2,7 % |
 | Tuffstein | `tuff` | 2.967 | 1,1 % |
 | Polierter Andesit | `polished_andesite` | 2.956 | 1,1 % |
@@ -62,7 +62,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114916779` | Palazzo Buondelmonti | 9.893 | 0.1–0.6 |
+| 1 | `w114916779` | Palazzo Buondelmonti | 9.876 | 0.1–0.6 |
 | 2 | `w114916779_innen` | Palazzo Buondelmonti: Innenausbau | 2.364 | 0.7–0.8 |
 | 3 | `w307174622` | Palazzo Scali-Ricasoli | 11.533 | 0.9–0.15 |
 | 4 | `w307174622_innen` | Palazzo Scali-Ricasoli: Innenausbau | 3.706 | 0.16–0.17 |
@@ -86,7 +86,7 @@
 | 22 | `w495057067_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 974 | 0.63 |
 | 23 | `w495057069` | Reihenhaus an Via delle Bombarde | 6.824 | 0.64–0.67 |
 | 24 | `w495057069_innen` | Reihenhaus an Via delle Bombarde: Innenausbau | 2.201 | 0.68–0.69 |
-| 25 | `w495057075` | Reihenhaus an Via delle Terme | 6.273 | 0.70–0.73 |
+| 25 | `w495057075` | Reihenhaus an Via delle Terme | 6.270 | 0.70–0.73 |
 | 26 | `w495057075_innen` | Reihenhaus an Via delle Terme: Innenausbau | 1.369 | 0.74 |
 | 27 | `w495057077` | Reihenhaus an Via del Fiordaliso | 7.920 | 0.75–0.78 |
 | 28 | `w495057077_innen` | Reihenhaus an Via del Fiordaliso: Innenausbau | 1.980 | 0.79 |
@@ -269,7 +269,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.5 – Palazzo Buondelmonti – Teil 5/6 (Y 89–93)
 
 - **Y-Bereich:** 89 bis 93
-- **Blöcke:** 1.293
+- **Blöcke:** 1.276
 - **Bauteile:** `w114916779`
 
 **Teileliste**
@@ -277,7 +277,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 932 |
-| Glatter Stein | `smooth_stone` | 204 |
+| Glatter Stein | `smooth_stone` | 187 |
 | Weißer Beton | `white_concrete` | 74 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 | Grüner Beton | `green_concrete` | 36 |
@@ -2583,15 +2583,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.73 – Reihenhaus an Via delle Terme – Teil 4/4 (Y 89–98)
 
 - **Y-Bereich:** 89 bis 98
-- **Blöcke:** 1.593
+- **Blöcke:** 1.590
 - **Bauteile:** `w495057075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 837 |
-| Terrakotta | `terracotta` | 709 |
+| Endsteinziegel | `end_stone_bricks` | 835 |
+| Terrakotta | `terracotta` | 708 |
 | Ziegelsteine | `bricks` | 31 |
 | Weißer Beton | `white_concrete` | 14 |
 | Graues Buntglas | `gray_stained_glass` | 2 |

@@ -8,11 +8,11 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 151.613 |
+| Blöcke | 151.551 |
 | Bauschritte | 96 |
 | Y-Bereich | 63 bis 208 |
 | X-Ausdehnung | -3 bis 157 (161 Blöcke) |
-| Z-Ausdehnung | 489 bis 672 (184 Blöcke) |
+| Z-Ausdehnung | 490 bis 672 (183 Blöcke) |
 | Kleinster Schritt | 438 Blöcke (Schritt 27.62) |
 | Mittlerer Schritt | 1.579 Blöcke |
 | Größter Schritt | 2.091 Blöcke (Schritt 27.60) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 51.445 | 33,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 31.565 | 20,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 31.503 | 20,8 % |
 | Polierter Tuffstein | `polished_tuff` | 18.526 | 12,2 % |
 | Endsteinziegel | `end_stone_bricks` | 15.473 | 10,2 % |
 | Weißer Beton | `white_concrete` | 9.129 | 6,0 % |
@@ -75,7 +75,7 @@
 | 14 | `w542316320_innen` | Palazzo des Cinquecento an Piazza San Firenze: Innenausbau | 1.301 | 27.73 |
 | 15 | `w542316321` | Reihenhaus an Piazza San Firenze | 6.238 | 27.74–27.77 |
 | 16 | `w542316321_innen` | Reihenhaus an Piazza San Firenze: Innenausbau | 2.465 | 27.78–27.79 |
-| 17 | `w542316323` | Palazzo des Ottocento an Via del Proconsolo | 14.432 | 27.80–27.87 |
+| 17 | `w542316323` | Palazzo des Ottocento an Via del Proconsolo | 14.370 | 27.80–27.87 |
 | 18 | `w542316323_innen` | Palazzo des Ottocento an Via del Proconsolo: Innenausbau | 3.972 | 27.88–27.89 |
 | 19 | `w542316328` | Reihenhaus an Via della Condotta | 3.042 | 27.90–27.91 |
 | 20 | `w542316328_innen` | Reihenhaus an Via della Condotta: Innenausbau | 1.788 | 27.92 |
@@ -2844,15 +2844,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 27.86 – Palazzo des Ottocento an Via del Proconsolo – Teil 7/8 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
-- **Blöcke:** 2.009
+- **Blöcke:** 1.895
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.047 |
-| Glatter Sandstein | `smooth_sandstone` | 718 |
+| Polierter Tuffstein | `polished_tuff` | 977 |
+| Glatter Sandstein | `smooth_sandstone` | 674 |
 | Weißer Beton | `white_concrete` | 236 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
@@ -2875,15 +2875,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 27.87 – Palazzo des Ottocento an Via del Proconsolo – Teil 8/8 (Y 93–95)
 
 - **Y-Bereich:** 93 bis 95
-- **Blöcke:** 1.823
+- **Blöcke:** 1.875
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 967 |
-| Polierter Tuffstein | `polished_tuff` | 853 |
+| Glatter Sandstein | `smooth_sandstone` | 949 |
+| Polierter Tuffstein | `polished_tuff` | 923 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**

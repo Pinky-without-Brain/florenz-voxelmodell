@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 39.048 |
+| Blöcke | 39.051 |
 | Bauschritte | 23 |
 | Y-Bereich | 60 bis 68 |
 | X-Ausdehnung | 416 bis 735 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
-| Kleinster Schritt | 326 Blöcke (Schritt 116.17) |
+| Kleinster Schritt | 329 Blöcke (Schritt 116.17) |
 | Mittlerer Schritt | 1.698 Blöcke |
 | Größter Schritt | 1.956 Blöcke (Schritt 116.13) |
 
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 33.794 | 86,5 % |
+| Polierter Tuffstein | `polished_tuff` | 33.797 | 86,5 % |
 | Stein | `stone` | 3.328 | 8,5 % |
 | Glatter Stein | `smooth_stone` | 1.320 | 3,4 % |
 | Steinziegel | `stone_bricks` | 216 | 0,6 % |
@@ -47,7 +47,7 @@
 | 1 | `boeschung` | Böschung und Mantel | 3.364 | 116.1–116.2 |
 | 2 | `arno_bett` | Flussbett | 24 | 116.3 |
 | 3 | `arno_wasser` | Arno | 48 | 116.3 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 25.620 | 116.3–116.17 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 25.623 | 116.3–116.17 |
 | 5 | `gehwege` | Gehwege | 1.266 | 116.18 |
 | 6 | `stufen` | Treppenflächen | 280 | 116.19 |
 | 7 | `hof_pflaster` | Höfe | 8.174 | 116.19–116.23 |
@@ -510,14 +510,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 116.17 – Straßenpflaster – Teil 15/15 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 326
+- **Blöcke:** 329
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 326 |
+| Polierter Tuffstein | `polished_tuff` | 329 |
 
 **Beschreibung**
 

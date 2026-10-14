@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.949 |
+| Blöcke | 40.950 |
 | Bauschritte | 27 |
 | Y-Bereich | 48 bis 67 |
 | X-Ausdehnung | -544 bis -225 (320 Blöcke) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 25.154 | 61,4 % |
+| Polierter Tuffstein | `polished_tuff` | 25.155 | 61,4 % |
 | Stein | `stone` | 12.703 | 31,0 % |
 | Glatter Stein | `smooth_stone` | 1.260 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 563 | 1,4 % |
@@ -53,7 +53,7 @@
 | 1 | `boeschung` | Böschung und Mantel | 13.262 | 113.1–113.8 |
 | 2 | `arno_bett` | Flussbett | 90 | 113.9 |
 | 3 | `arno_wasser` | Arno | 180 | 113.9 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 16.239 | 113.9–113.18 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 16.240 | 113.9–113.18 |
 | 5 | `gehwege` | Gehwege | 803 | 113.19 |
 | 6 | `stufen` | Treppenflächen | 732 | 113.20 |
 | 7 | `plaetze_pflaster` | Plätze | 4.775 | 113.21–113.23 |
@@ -96,14 +96,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.2 – Böschung und Mantel – Teil 2/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.845
+- **Blöcke:** 1.846
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.766 |
+| Stein | `stone` | 1.767 |
 | Polierter Andesit | `polished_andesite` | 79 |
 
 **Beschreibung**
@@ -210,14 +210,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.6 – Böschung und Mantel – Teil 6/8 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.453
+- **Blöcke:** 1.452
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.443 |
+| Stein | `stone` | 1.442 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
@@ -409,14 +409,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 113.13 – Straßenpflaster – Teil 5/10 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.783
+- **Blöcke:** 1.784
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.783 |
+| Polierter Tuffstein | `polished_tuff` | 1.784 |
 
 **Beschreibung**
 

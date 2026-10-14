@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 116.001 |
+| Blöcke | 115.975 |
 | Bauschritte | 73 |
 | Y-Bereich | 66 bis 114 |
 | X-Ausdehnung | -18 bis 154 (173 Blöcke) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 45.661 | 39,4 % |
+| Terrakotta | `terracotta` | 45.651 | 39,4 % |
 | Rosa Keramik | `pink_terracotta` | 15.447 | 13,3 % |
 | Polierter Tuffstein | `polished_tuff` | 14.438 | 12,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.745 | 8,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.737 | 8,4 % |
 | Tuffstein | `tuff` | 9.115 | 7,9 % |
 | Weißer Beton | `white_concrete` | 7.493 | 6,5 % |
 | Endsteinziegel | `end_stone_bricks` | 4.504 | 3,9 % |
@@ -33,7 +33,7 @@
 | Polierter Andesit | `polished_andesite` | 1.260 | 1,1 % |
 | Ziegelsteine | `bricks` | 1.251 | 1,1 % |
 | Grüner Beton | `green_concrete` | 776 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 724 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 716 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 464 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 384 | 0,3 % |
 | Seelaterne | `sea_lantern` | 238 | 0,2 % |
@@ -65,13 +65,13 @@
 | 4 | `w491889267_innen` | Palazzo des Cinquecento an Via dello Studio: Innenausbau | 4.566 | 16.24–16.27 |
 | 5 | `w491889270` | Reihenhaus an Via dello Studio | 6.604 | 16.28–16.31 |
 | 6 | `w491889270_innen` | Reihenhaus an Via dello Studio: Innenausbau | 2.221 | 16.32–16.33 |
-| 7 | `w491889272` | Reihenhaus an Via dello Studio | 6.210 | 16.34–16.37 |
+| 7 | `w491889272` | Reihenhaus an Via dello Studio | 6.198 | 16.34–16.37 |
 | 8 | `w491889272_innen` | Reihenhaus an Via dello Studio: Innenausbau | 2.331 | 16.38–16.39 |
 | 9 | `w491889273` | Reihenhaus an Via del Proconsolo | 5.622 | 16.40–16.42 |
 | 10 | `w491889273_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 1.761 | 16.43 |
 | 11 | `w491889281` | Haus w491889281 | 2.569 | 16.44–16.45 |
 | 12 | `w491889281_innen` | Haus w491889281: Innenausbau | 883 | 16.46 |
-| 13 | `w491889282` | Reihenhaus an Via dei Bonizzi | 20.218 | 16.47–16.58 |
+| 13 | `w491889282` | Reihenhaus an Via dei Bonizzi | 20.204 | 16.47–16.58 |
 | 14 | `w491889282_innen` | Reihenhaus an Via dei Bonizzi: Innenausbau | 4.407 | 16.59–16.61 |
 | 15 | `w491889284` | Reihenhaus an Vie dei Maccheroni | 5.965 | 16.62–16.64 |
 | 16 | `w491889284_innen` | Reihenhaus an Vie dei Maccheroni: Innenausbau | 1.920 | 16.65 |
@@ -1283,15 +1283,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.37 – Reihenhaus an Via dello Studio – Teil 4/4 (Y 97–107)
 
 - **Y-Bereich:** 97 bis 107
-- **Blöcke:** 1.598
+- **Blöcke:** 1.586
 - **Bauteile:** `w491889272`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.159 |
-| Gelbe Keramik | `yellow_terracotta` | 322 |
+| Terrakotta | `terracotta` | 1.155 |
+| Gelbe Keramik | `yellow_terracotta` | 314 |
 | Ziegelsteine | `bricks` | 91 |
 | Weißer Beton | `white_concrete` | 26 |
 
@@ -1854,7 +1854,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.54 – Reihenhaus an Via dei Bonizzi – Teil 8/12 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.391
+- **Blöcke:** 1.383
 - **Bauteile:** `w491889282`
 
 **Teileliste**
@@ -1862,7 +1862,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.083 |
-| Fichtenholz-Bretter | `spruce_planks` | 260 |
+| Fichtenholz-Bretter | `spruce_planks` | 252 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
@@ -1884,14 +1884,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 16.55 – Reihenhaus an Via dei Bonizzi – Teil 9/12 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.817
+- **Blöcke:** 1.811
 - **Bauteile:** `w491889282`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.817 |
+| Terrakotta | `terracotta` | 1.811 |
 
 **Beschreibung**
 

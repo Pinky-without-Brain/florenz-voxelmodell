@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 91.359 |
+| Blöcke | 91.318 |
 | Bauschritte | 56 |
 | Y-Bereich | 63 bis 112 |
-| X-Ausdehnung | -1240 bis -1109 (132 Blöcke) |
+| X-Ausdehnung | -1239 bis -1109 (131 Blöcke) |
 | Z-Ausdehnung | 1006 bis 1124 (119 Blöcke) |
 | Kleinster Schritt | 901 Blöcke (Schritt 0.19) |
 | Mittlerer Schritt | 1.631 Blöcke |
@@ -21,12 +21,12 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 28.954 | 31,7 % |
+| Terrakotta | `terracotta` | 28.936 | 31,7 % |
 | Tuffstein | `tuff` | 8.555 | 9,4 % |
 | Polierter Tuffstein | `polished_tuff` | 8.251 | 9,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.992 | 8,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.992 | 8,8 % |
 | Rosa Keramik | `pink_terracotta` | 7.160 | 7,8 % |
-| Glatter Stein | `smooth_stone` | 5.657 | 6,2 % |
+| Glatter Stein | `smooth_stone` | 5.652 | 6,2 % |
 | Endsteinziegel | `end_stone_bricks` | 5.572 | 6,1 % |
 | Weißer Beton | `white_concrete` | 5.419 | 5,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.868 | 5,3 % |
@@ -34,7 +34,7 @@
 | Graues Buntglas | `gray_stained_glass` | 2.413 | 2,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 808 | 0,9 % |
 | Ziegelsteine | `bricks` | 490 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 423 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 405 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 355 | 0,4 % |
 | Grüner Beton | `green_concrete` | 237 | 0,3 % |
 | Seelaterne | `sea_lantern` | 164 | 0,2 % |
@@ -62,9 +62,9 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w118131733` | Renaissance-Palazzo an Piazza de' Frescobaldi | 21.128 | 0.1–0.12 |
 | 2 | `w118131733_innen` | Renaissance-Palazzo an Piazza de' Frescobaldi: Innenausbau | 4.210 | 0.13–0.15 |
-| 3 | `w306798510` | Palazzo Segni | 6.148 | 0.16–0.18 |
+| 3 | `w306798510` | Palazzo Segni | 6.112 | 0.16–0.18 |
 | 4 | `w306798510_innen` | Palazzo Segni: Innenausbau | 901 | 0.19 |
-| 5 | `w306798531` | Palazzo Capponi-Vettori | 10.307 | 0.20–0.25 |
+| 5 | `w306798531` | Palazzo Capponi-Vettori | 10.302 | 0.20–0.25 |
 | 6 | `w306798531_innen` | Palazzo Capponi-Vettori: Innenausbau | 2.194 | 0.26–0.27 |
 | 7 | `w477942441` | Reihenhaus an Piazza de' Frescobaldi | 5.191 | 0.28–0.30 |
 | 8 | `w477942441_innen` | Reihenhaus an Piazza de' Frescobaldi: Innenausbau | 1.034 | 0.31 |
@@ -645,7 +645,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.18 – Palazzo Segni – Teil 3/3 (Y 87–99)
 
 - **Y-Bereich:** 87 bis 99
-- **Blöcke:** 2.022
+- **Blöcke:** 1.986
 - **Bauteile:** `w306798510`
 
 **Teileliste**
@@ -653,9 +653,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 861 |
-| Terrakotta | `terracotta` | 794 |
-| Fichtenholz-Bretter | `spruce_planks` | 114 |
+| Terrakotta | `terracotta` | 776 |
 | Glatter Stein | `smooth_stone` | 110 |
+| Fichtenholz-Bretter | `spruce_planks` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Ziegelsteine | `bricks` | 43 |
 | Polierter Andesit | `polished_andesite` | 20 |
@@ -855,7 +855,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.24 – Palazzo Capponi-Vettori – Teil 5/6 (Y 88–93)
 
 - **Y-Bereich:** 88 bis 93
-- **Blöcke:** 1.608
+- **Blöcke:** 1.603
 - **Bauteile:** `w306798531`
 
 **Teileliste**
@@ -863,8 +863,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.108 |
-| Glatter Stein | `smooth_stone` | 189 |
 | Weißer Beton | `white_concrete` | 188 |
+| Glatter Stein | `smooth_stone` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 42 |
 | Polierter Andesit | `polished_andesite` | 12 |

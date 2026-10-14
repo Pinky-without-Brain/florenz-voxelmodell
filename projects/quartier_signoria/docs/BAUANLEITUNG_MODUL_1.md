@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 53.110 |
-| Bauschritte | 33 |
+| Blöcke | 52.992 |
+| Bauschritte | 32 |
 | Y-Bereich | 63 bis 103 |
-| X-Ausdehnung | -555 bis -458 (98 Blöcke) |
+| X-Ausdehnung | -554 bis -458 (97 Blöcke) |
 | Z-Ausdehnung | 747 bis 845 (99 Blöcke) |
-| Kleinster Schritt | 576 Blöcke (Schritt 1.33) |
-| Mittlerer Schritt | 1.609 Blöcke |
-| Größter Schritt | 1.931 Blöcke (Schritt 1.8) |
+| Kleinster Schritt | 576 Blöcke (Schritt 1.32) |
+| Mittlerer Schritt | 1.656 Blöcke |
+| Größter Schritt | 2.074 Blöcke (Schritt 1.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 19.569 | 36,8 % |
-| Rosa Keramik | `pink_terracotta` | 13.475 | 25,4 % |
+| Terrakotta | `terracotta` | 19.534 | 36,9 % |
+| Rosa Keramik | `pink_terracotta` | 13.405 | 25,3 % |
 | Polierter Tuffstein | `polished_tuff` | 5.463 | 10,3 % |
-| Tuffstein | `tuff` | 5.168 | 9,7 % |
-| Glatter Stein | `smooth_stone` | 3.595 | 6,8 % |
+| Tuffstein | `tuff` | 5.168 | 9,8 % |
+| Glatter Stein | `smooth_stone` | 3.582 | 6,8 % |
 | Graues Buntglas | `gray_stained_glass` | 2.005 | 3,8 % |
 | Polierter Andesit | `polished_andesite` | 1.934 | 3,6 % |
 | Ziegelsteine | `bricks` | 498 | 0,9 % |
@@ -57,9 +57,9 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w328478521` | Renaissance-Palazzo an Via di Capaccio | 13.934 | 1.1–1.8 |
 | 2 | `w328478521_innen` | Renaissance-Palazzo an Via di Capaccio: Innenausbau | 3.212 | 1.9–1.10 |
-| 3 | `w772990982` | Reihenhaus an Chiasso di San Biagio | 26.207 | 1.11–1.26 |
-| 4 | `w772990982_innen` | Reihenhaus an Chiasso di San Biagio: Innenausbau | 9.181 | 1.27–1.32 |
-| 5 | `w1560755450` | Biblioteca di Palagio di parte Guelfa | 576 | 1.33 |
+| 3 | `w772990982` | Reihenhaus an Chiasso di San Biagio | 26.089 | 1.11–1.25 |
+| 4 | `w772990982_innen` | Reihenhaus an Chiasso di San Biagio: Innenausbau | 9.181 | 1.26–1.31 |
+| 5 | `w1560755450` | Biblioteca di Palagio di parte Guelfa | 576 | 1.32 |
 | 6 | `w1560755450_innen` | Biblioteca di Palagio di parte Guelfa: Innenausbau | 0 | – |
 
 ## Bauschritte
@@ -397,7 +397,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.11 – Reihenhaus an Chiasso di San Biagio – Teil 1/16 (Y 63–63)
+### Schritt 1.11 – Reihenhaus an Chiasso di San Biagio – Teil 1/15 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.765
@@ -425,7 +425,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Reihenhaus an Chiasso di San Biagio – Teil 2/16 (Y 63–63)
+### Schritt 1.12 – Reihenhaus an Chiasso di San Biagio – Teil 2/15 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.827
@@ -453,101 +453,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Reihenhaus an Chiasso di San Biagio – Teil 3/16 (Y 64–65)
+### Schritt 1.13 – Reihenhaus an Chiasso di San Biagio – Teil 3/15 (Y 64–66)
 
-- **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.148
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.096 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
-| Glatter Stein | `smooth_stone` | 20 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.14 – Reihenhaus an Chiasso di San Biagio – Teil 4/16 (Y 66–68)
-
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.661
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.112 |
-| Glatter Stein | `smooth_stone` | 327 |
-| Graues Buntglas | `gray_stained_glass` | 192 |
-| Fichtenholz-Bretter | `spruce_planks` | 30 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.15 – Reihenhaus an Chiasso di San Biagio – Teil 5/16 (Y 69–71)
-
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.707
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.356 |
-| Glatter Stein | `smooth_stone` | 239 |
-| Graues Buntglas | `gray_stained_glass` | 97 |
-| Fichtenholz-Bretter | `spruce_planks` | 15 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.16 – Reihenhaus an Chiasso di San Biagio – Teil 6/16 (Y 72–74)
-
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.763
 - **Bauteile:** `w772990982`
 
@@ -555,8 +463,161 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.511 |
+| Glatter Stein | `smooth_stone` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.14 – Reihenhaus an Chiasso di San Biagio – Teil 4/15 (Y 67–69)
+
+- **Y-Bereich:** 67 bis 69
+- **Blöcke:** 1.572
+- **Bauteile:** `w772990982`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.050 |
+| Graues Buntglas | `gray_stained_glass` | 264 |
+| Glatter Stein | `smooth_stone` | 213 |
+| Fichtenholz-Bretter | `spruce_planks` | 45 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.15 – Reihenhaus an Chiasso di San Biagio – Teil 5/15 (Y 70–72)
+
+- **Y-Bereich:** 70 bis 72
+- **Blöcke:** 1.774
+- **Bauteile:** `w772990982`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.597 |
+| Glatter Stein | `smooth_stone` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 9 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.16 – Reihenhaus an Chiasso di San Biagio – Teil 6/15 (Y 73–75)
+
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.695
+- **Bauteile:** `w772990982`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.142 |
+| Glatter Stein | `smooth_stone` | 339 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
+| Fichtenholz-Bretter | `spruce_planks` | 50 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.17 – Reihenhaus an Chiasso di San Biagio – Teil 7/15 (Y 76–78)
+
+- **Y-Bereich:** 76 bis 78
+- **Blöcke:** 1.679
+- **Bauteile:** `w772990982`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.236 |
+| Glatter Stein | `smooth_stone` | 295 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Fichtenholz-Bretter | `spruce_planks` | 14 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.18 – Reihenhaus an Chiasso di San Biagio – Teil 8/15 (Y 79–81)
+
+- **Y-Bereich:** 79 bis 81
+- **Blöcke:** 1.759
+- **Bauteile:** `w772990982`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.385 |
-| Glatter Stein | `smooth_stone` | 271 |
+| Glatter Stein | `smooth_stone` | 267 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 | Fichtenholz-Bretter | `spruce_planks` | 25 |
 
@@ -576,9 +637,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Reihenhaus an Chiasso di San Biagio – Teil 7/16 (Y 75–77)
+### Schritt 1.19 – Reihenhaus an Chiasso di San Biagio – Teil 9/15 (Y 82–84)
 
-- **Y-Bereich:** 75 bis 77
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.615
 - **Bauteile:** `w772990982`
 
@@ -607,10 +668,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.18 – Reihenhaus an Chiasso di San Biagio – Teil 8/16 (Y 78–80)
+### Schritt 1.20 – Reihenhaus an Chiasso di San Biagio – Teil 10/15 (Y 85–87)
 
-- **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.827
+- **Y-Bereich:** 85 bis 87
+- **Blöcke:** 1.823
 - **Bauteile:** `w772990982`
 
 **Teileliste**
@@ -618,7 +679,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.504 |
-| Glatter Stein | `smooth_stone` | 323 |
+| Glatter Stein | `smooth_stone` | 319 |
 
 **Beschreibung**
 
@@ -636,9 +697,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Reihenhaus an Chiasso di San Biagio – Teil 9/16 (Y 81–83)
+### Schritt 1.21 – Reihenhaus an Chiasso di San Biagio – Teil 11/15 (Y 88–90)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.590
 - **Bauteile:** `w772990982`
 
@@ -667,17 +728,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Reihenhaus an Chiasso di San Biagio – Teil 10/16 (Y 84–86)
+### Schritt 1.22 – Reihenhaus an Chiasso di San Biagio – Teil 12/15 (Y 91–93)
 
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.743
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 2.074
 - **Bauteile:** `w772990982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.467 |
+| Rosa Keramik | `pink_terracotta` | 1.798 |
 | Glatter Stein | `smooth_stone` | 223 |
 | Graues Buntglas | `gray_stained_glass` | 53 |
 
@@ -697,108 +758,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Reihenhaus an Chiasso di San Biagio – Teil 11/16 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.169
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 791 |
-| Glatter Stein | `smooth_stone` | 271 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Fichtenholz-Bretter | `spruce_planks` | 25 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.22 – Reihenhaus an Chiasso di San Biagio – Teil 12/16 (Y 89–91)
-
-- **Y-Bereich:** 89 bis 91
-- **Blöcke:** 1.615
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.117 |
-| Glatter Stein | `smooth_stone` | 243 |
-| Graues Buntglas | `gray_stained_glass` | 216 |
-| Fichtenholz-Bretter | `spruce_planks` | 39 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.23 – Reihenhaus an Chiasso di San Biagio – Teil 13/16 (Y 92–93)
-
-- **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.589
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.465 |
-| Glatter Stein | `smooth_stone` | 124 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.24 – Reihenhaus an Chiasso di San Biagio – Teil 14/16 (Y 94–94)
+### Schritt 1.23 – Reihenhaus an Chiasso di San Biagio – Teil 13/15 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.655
+- **Blöcke:** 1.620
 - **Bauteile:** `w772990982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.655 |
+| Terrakotta | `terracotta` | 1.620 |
 
 **Beschreibung**
 
@@ -816,7 +786,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Reihenhaus an Chiasso di San Biagio – Teil 15/16 (Y 95–96)
+### Schritt 1.24 – Reihenhaus an Chiasso di San Biagio – Teil 14/15 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.805
@@ -844,7 +814,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Reihenhaus an Chiasso di San Biagio – Teil 16/16 (Y 97–102)
+### Schritt 1.25 – Reihenhaus an Chiasso di San Biagio – Teil 15/15 (Y 97–102)
 
 - **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.728
@@ -873,7 +843,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.27 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 1/6 (Y 63–72)
+### Schritt 1.26 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 1/6 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.553
@@ -911,7 +881,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.28 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 1.27 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 2/6 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.519
@@ -947,7 +917,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.29 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 3/6 (Y 73–79)
+### Schritt 1.28 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 3/6 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.531
@@ -987,7 +957,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.30 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 4/6 (Y 79–79)
+### Schritt 1.29 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 4/6 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.519
@@ -1023,7 +993,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.31 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 5/6 (Y 80–86)
+### Schritt 1.30 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 5/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.531
@@ -1065,7 +1035,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.32 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 6/6 (Y 86–87)
+### Schritt 1.31 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 6/6 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.528
@@ -1105,7 +1075,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.33 – Biblioteca di Palagio di parte Guelfa
+### Schritt 1.32 – Biblioteca di Palagio di parte Guelfa
 
 - **Y-Bereich:** 63 bis 94
 - **Blöcke:** 576

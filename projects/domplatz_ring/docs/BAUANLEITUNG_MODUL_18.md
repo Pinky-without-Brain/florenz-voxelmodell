@@ -8,11 +8,11 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 259.862 |
+| Blöcke | 259.792 |
 | Bauschritte | 161 |
 | Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | 47 bis 322 (276 Blöcke) |
-| Z-Ausdehnung | -208 bis 30 (239 Blöcke) |
+| Z-Ausdehnung | -208 bis 28 (237 Blöcke) |
 | Kleinster Schritt | 300 Blöcke (Schritt 18.159) |
 | Mittlerer Schritt | 1.614 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 18.82) |
@@ -21,14 +21,14 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 102.652 | 39,5 % |
+| Terrakotta | `terracotta` | 102.638 | 39,5 % |
 | Polierter Tuffstein | `polished_tuff` | 32.580 | 12,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 31.288 | 12,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 31.249 | 12,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 25.641 | 9,9 % |
 | Tuffstein | `tuff` | 20.132 | 7,7 % |
-| Glatter Stein | `smooth_stone` | 9.579 | 3,7 % |
+| Glatter Stein | `smooth_stone` | 9.566 | 3,7 % |
 | Orange Keramik | `orange_terracotta` | 8.159 | 3,1 % |
-| Endsteinziegel | `end_stone_bricks` | 7.983 | 3,1 % |
+| Endsteinziegel | `end_stone_bricks` | 7.979 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 6.348 | 2,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.309 | 1,7 % |
 | Graues Buntglas | `gray_stained_glass` | 2.724 | 1,0 % |
@@ -80,13 +80,13 @@
 | 12 | `w307544530_innen` | Palazzo Naldini: Innenausbau | 3.721 | 18.65–18.66 |
 | 13 | `w456578417` | Reihenhaus an Piazza del Duomo | 7.762 | 18.67–18.70 |
 | 14 | `w456578417_innen` | Reihenhaus an Piazza del Duomo: Innenausbau | 2.421 | 18.71–18.72 |
-| 15 | `w456578419` | Museo dell'Opera del Duomo | 61.074 | 18.73–18.112 |
+| 15 | `w456578419` | Museo dell'Opera del Duomo | 61.014 | 18.73–18.112 |
 | 16 | `w456578419_innen` | Museo dell'Opera del Duomo: Innenausbau | 26.628 | 18.113–18.126 |
 | 17 | `w456578422` | Palazzo des Cinquecento an Via Maurizio Bufalini | 7.344 | 18.127–18.130 |
 | 18 | `w456578422_innen` | Palazzo des Cinquecento an Via Maurizio Bufalini: Innenausbau | 1.826 | 18.131 |
 | 19 | `w456578426` | Reihenhaus an Via dei Servi | 5.049 | 18.132–18.134 |
 | 20 | `w456578426_innen` | Reihenhaus an Via dei Servi: Innenausbau | 3.289 | 18.135–18.137 |
-| 21 | `w456578429` | Haus w456578429 | 16.130 | 18.138–18.147 |
+| 21 | `w456578429` | Haus w456578429 | 16.120 | 18.138–18.147 |
 | 22 | `w456578429_innen` | Haus w456578429: Innenausbau | 2.570 | 18.148–18.149 |
 | 23 | `w682528171` | Nebengebäude an Via Maurizio Bufalini | 501 | 18.150 |
 | 24 | `w682528171_innen` | Nebengebäude an Via Maurizio Bufalini: Innenausbau | 1 | 18.151 |
@@ -2893,7 +2893,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.88 – Museo dell'Opera del Duomo – Teil 16/40 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 828
+- **Blöcke:** 825
 - **Bauteile:** `w456578419`
 
 **Teileliste**
@@ -2901,7 +2901,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 636 |
-| Glatter Stein | `smooth_stone` | 190 |
+| Glatter Stein | `smooth_stone` | 187 |
 | Polierter Andesit | `polished_andesite` | 1 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
@@ -3081,7 +3081,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.94 – Museo dell'Opera del Duomo – Teil 22/40 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.611
+- **Blöcke:** 1.608
 - **Bauteile:** `w456578419`
 
 **Teileliste**
@@ -3089,7 +3089,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.246 |
-| Glatter Stein | `smooth_stone` | 279 |
+| Glatter Stein | `smooth_stone` | 276 |
 | Graues Buntglas | `gray_stained_glass` | 71 |
 | Grüner Beton | `green_concrete` | 15 |
 
@@ -3174,7 +3174,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.97 – Museo dell'Opera del Duomo – Teil 25/40 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.648
+- **Blöcke:** 1.645
 - **Bauteile:** `w456578419`
 
 **Teileliste**
@@ -3182,7 +3182,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.068 |
-| Glatter Stein | `smooth_stone` | 580 |
+| Glatter Stein | `smooth_stone` | 577 |
 
 **Beschreibung**
 
@@ -3234,14 +3234,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.99 – Museo dell'Opera del Duomo – Teil 27/40 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
-- **Blöcke:** 1.823
+- **Blöcke:** 1.811
 - **Bauteile:** `w456578419`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.494 |
+| Gelbe Keramik | `yellow_terracotta` | 1.482 |
 | Glatter Stein | `smooth_stone` | 243 |
 | Graues Buntglas | `gray_stained_glass` | 71 |
 | Grüner Beton | `green_concrete` | 15 |
@@ -3265,14 +3265,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.100 – Museo dell'Opera del Duomo – Teil 28/40 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.277
+- **Blöcke:** 1.250
 - **Bauteile:** `w456578419`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.277 |
+| Gelbe Keramik | `yellow_terracotta` | 1.250 |
 
 **Beschreibung**
 
@@ -3293,14 +3293,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.101 – Museo dell'Opera del Duomo – Teil 29/40 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.282
+- **Blöcke:** 1.278
 - **Bauteile:** `w456578419`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.282 |
+| Terrakotta | `terracotta` | 1.278 |
 
 **Beschreibung**
 
@@ -3321,14 +3321,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.102 – Museo dell'Opera del Duomo – Teil 30/40 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.304
+- **Blöcke:** 1.296
 - **Bauteile:** `w456578419`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.304 |
+| Terrakotta | `terracotta` | 1.296 |
 
 **Beschreibung**
 
@@ -4565,7 +4565,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.141 – Haus w456578429 – Teil 4/10 (Y 75–78)
 
 - **Y-Bereich:** 75 bis 78
-- **Blöcke:** 1.700
+- **Blöcke:** 1.698
 - **Bauteile:** `w456578429`
 
 **Teileliste**
@@ -4573,7 +4573,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 672 |
-| Glatter Stein | `smooth_stone` | 436 |
+| Glatter Stein | `smooth_stone` | 434 |
 | Polierter Andesit | `polished_andesite` | 421 |
 | Tuffsteinziegel | `tuff_bricks` | 171 |
 
@@ -4627,14 +4627,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.143 – Haus w456578429 – Teil 6/10 (Y 83–86)
 
 - **Y-Bereich:** 83 bis 86
-- **Blöcke:** 1.680
+- **Blöcke:** 1.678
 - **Bauteile:** `w456578429`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 656 |
+| Glatter Stein | `smooth_stone` | 654 |
 | Tuffstein | `tuff` | 652 |
 | Polierter Andesit | `polished_andesite` | 339 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
@@ -4720,17 +4720,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.146 – Haus w456578429 – Teil 9/10 (Y 95–97)
 
 - **Y-Bereich:** 95 bis 97
-- **Blöcke:** 2.013
+- **Blöcke:** 2.007
 - **Bauteile:** `w456578429`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 965 |
+| Terrakotta | `terracotta` | 963 |
 | Tuffstein | `tuff` | 368 |
 | Polierter Andesit | `polished_andesite` | 299 |
-| Endsteinziegel | `end_stone_bricks` | 218 |
+| Endsteinziegel | `end_stone_bricks` | 214 |
 | Glatter Stein | `smooth_stone` | 163 |
 
 **Beschreibung**

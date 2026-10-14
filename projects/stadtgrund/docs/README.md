@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 1.709.859 Blöcke in 1.021 Bauschritten, 28 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.709.883 Blöcke in 1.021 Bauschritten, 28 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -1184 bis 735, Y 48 bis 84, Z -528 bis 1391.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -24,26 +24,26 @@ Ausdehnung des Modells: X -1184 bis 735, Y 48 bis 84, Z -528 bis 1391.
 | 86 | Kachel 11/5 – Piazzetta Piero Calamandrei | 40.078 | 28 | [BAUANLEITUNG_MODUL_86.md](BAUANLEITUNG_MODUL_86.md) |
 | 97 | Kachel 7/6 – Piazza dei Davanzati | 29.669 | 19 | [BAUANLEITUNG_MODUL_97.md](BAUANLEITUNG_MODUL_97.md) |
 | 98 | Kachel 8/6 – Piazza della Repubblica | 59.503 | 35 | [BAUANLEITUNG_MODUL_98.md](BAUANLEITUNG_MODUL_98.md) |
-| 99 | Kachel 9/6 – Piazza della Signoria | 51.454 | 34 | [BAUANLEITUNG_MODUL_99.md](BAUANLEITUNG_MODUL_99.md) |
-| 100 | Kachel 10/6 – Via Ghibellina | 36.418 | 24 | [BAUANLEITUNG_MODUL_100.md](BAUANLEITUNG_MODUL_100.md) |
+| 99 | Kachel 9/6 – Piazza della Signoria | 51.458 | 34 | [BAUANLEITUNG_MODUL_99.md](BAUANLEITUNG_MODUL_99.md) |
+| 100 | Kachel 10/6 – Via Ghibellina | 36.430 | 24 | [BAUANLEITUNG_MODUL_100.md](BAUANLEITUNG_MODUL_100.md) |
 | 101 | Kachel 11/6 – Via Ghibellina | 30.970 | 22 | [BAUANLEITUNG_MODUL_101.md](BAUANLEITUNG_MODUL_101.md) |
 | 111 | Kachel 6/7 – Lungarno Guicciardini | 224.207 | 116 | [BAUANLEITUNG_MODUL_111.md](BAUANLEITUNG_MODUL_111.md) |
 | 112 | Kachel 7/7 – Lungarno degli Acciaioli | 116.707 | 68 | [BAUANLEITUNG_MODUL_112.md](BAUANLEITUNG_MODUL_112.md) |
-| 113 | Kachel 8/7 – Piazza della Signoria | 40.949 | 27 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
+| 113 | Kachel 8/7 – Piazza della Signoria | 40.950 | 27 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
 | 114 | Kachel 9/7 – Piazza della Signoria | 48.181 | 32 | [BAUANLEITUNG_MODUL_114.md](BAUANLEITUNG_MODUL_114.md) |
-| 115 | Kachel 10/7 – Via dei Neri | 27.098 | 17 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
-| 116 | Kachel 11/7 – Piazza di Santa Croce | 39.048 | 23 | [BAUANLEITUNG_MODUL_116.md](BAUANLEITUNG_MODUL_116.md) |
-| 126 | Kachel 6/8 – Borgo San Iacopo | 35.168 | 24 | [BAUANLEITUNG_MODUL_126.md](BAUANLEITUNG_MODUL_126.md) |
+| 115 | Kachel 10/7 – Via dei Neri | 27.101 | 17 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
+| 116 | Kachel 11/7 – Piazza di Santa Croce | 39.051 | 23 | [BAUANLEITUNG_MODUL_116.md](BAUANLEITUNG_MODUL_116.md) |
+| 126 | Kachel 6/8 – Borgo San Iacopo | 35.169 | 24 | [BAUANLEITUNG_MODUL_126.md](BAUANLEITUNG_MODUL_126.md) |
 | 127 | Kachel 7/8 – Piazza di Santa Felicita | 131.311 | 70 | [BAUANLEITUNG_MODUL_127.md](BAUANLEITUNG_MODUL_127.md) |
 | 128 | Kachel 8/8 – Lungarno degli Archibusieri | 203.378 | 108 | [BAUANLEITUNG_MODUL_128.md](BAUANLEITUNG_MODUL_128.md) |
 | 129 | Kachel 9/8 – Piazza dei Giudici | 125.513 | 73 | [BAUANLEITUNG_MODUL_129.md](BAUANLEITUNG_MODUL_129.md) |
-| | **Summe** | **1.709.859** | **1.021** | |
+| | **Summe** | **1.709.883** | **1.021** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 693.113 | 40,5 % |
+| Polierter Tuffstein | `polished_tuff` | 693.137 | 40,5 % |
 | Wasser | `water` | 424.766 | 24,8 % |
 | Stein | `stone` | 246.811 | 14,4 % |
 | Kies | `gravel` | 213.003 | 12,5 % |

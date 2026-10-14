@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 147.827 |
+| Blöcke | 147.811 |
 | Bauschritte | 92 |
 | Y-Bereich | 63 bis 109 |
-| X-Ausdehnung | -246 bis -125 (122 Blöcke) |
+| X-Ausdehnung | -246 bis -126 (121 Blöcke) |
 | Z-Ausdehnung | 365 bis 506 (142 Blöcke) |
 | Kleinster Schritt | 592 Blöcke (Schritt 17.52) |
 | Mittlerer Schritt | 1.607 Blöcke |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 60.174 | 40,7 % |
+| Terrakotta | `terracotta` | 60.166 | 40,7 % |
 | Orange Keramik | `orange_terracotta` | 18.819 | 12,7 % |
 | Polierter Tuffstein | `polished_tuff` | 15.420 | 10,4 % |
 | Endsteinziegel | `end_stone_bricks` | 10.589 | 7,2 % |
@@ -36,7 +36,7 @@
 | Ziegelsteine | `bricks` | 1.056 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 999 | 0,7 % |
 | Grüner Beton | `green_concrete` | 562 | 0,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 521 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 513 | 0,3 % |
 | Seelaterne | `sea_lantern` | 347 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 273 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 253 | 0,2 % |
@@ -81,7 +81,7 @@
 | 18 | `w497263254_innen` | Reihenhaus an Vicolo del Bazar: Innenausbau | 1.078 | 17.55 |
 | 19 | `w497263256` | Reihenhaus an Via dei Cerchi | 5.914 | 17.56–17.58 |
 | 20 | `w497263256_innen` | Reihenhaus an Via dei Cerchi: Innenausbau | 2.310 | 17.59–17.60 |
-| 21 | `w497263257` | Reihenhaus an Via dei Cerchi | 11.281 | 17.61–17.67 |
+| 21 | `w497263257` | Reihenhaus an Via dei Cerchi | 11.265 | 17.61–17.67 |
 | 22 | `w497263257_innen` | Reihenhaus an Via dei Cerchi: Innenausbau | 6.091 | 17.68–17.70 |
 | 23 | `w497263259` | Reihenhaus an Via del Corso | 5.011 | 17.71–17.73 |
 | 24 | `w497263259_innen` | Reihenhaus an Via del Corso: Innenausbau | 1.622 | 17.74 |
@@ -2280,7 +2280,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 17.65 – Reihenhaus an Via dei Cerchi – Teil 5/7 (Y 86–93)
 
 - **Y-Bereich:** 86 bis 93
-- **Blöcke:** 1.692
+- **Blöcke:** 1.684
 - **Bauteile:** `w497263257`
 
 **Teileliste**
@@ -2289,7 +2289,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.410 |
 | Glatter Stein | `smooth_stone` | 122 |
-| Fichtenholz-Bretter | `spruce_planks` | 105 |
+| Fichtenholz-Bretter | `spruce_planks` | 97 |
 | Graues Buntglas | `gray_stained_glass` | 55 |
 
 **Beschreibung**
@@ -2311,14 +2311,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 17.66 – Reihenhaus an Via dei Cerchi – Teil 6/7 (Y 94–95)
 
 - **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.539
+- **Blöcke:** 1.531
 - **Bauteile:** `w497263257`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.539 |
+| Terrakotta | `terracotta` | 1.531 |
 
 **Beschreibung**
 

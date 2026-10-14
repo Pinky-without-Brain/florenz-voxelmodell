@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.954 |
+| Blöcke | 65.860 |
 | Bauschritte | 39 |
 | Y-Bereich | 65 bis 115 |
 | X-Ausdehnung | 148 bis 252 (105 Blöcke) |
-| Z-Ausdehnung | -295 bis -168 (128 Blöcke) |
+| Z-Ausdehnung | -295 bis -169 (127 Blöcke) |
 | Kleinster Schritt | 140 Blöcke (Schritt 20.17) |
-| Mittlerer Schritt | 1.691 Blöcke |
+| Mittlerer Schritt | 1.689 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 20.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 23.019 | 34,9 % |
-| Endsteinziegel | `end_stone_bricks` | 13.690 | 20,8 % |
-| Weißer Beton | `white_concrete` | 10.310 | 15,6 % |
+| Terrakotta | `terracotta` | 22.989 | 34,9 % |
+| Endsteinziegel | `end_stone_bricks` | 13.680 | 20,8 % |
+| Weißer Beton | `white_concrete` | 10.260 | 15,6 % |
 | Tuffstein | `tuff` | 7.324 | 11,1 % |
 | Polierter Tuffstein | `polished_tuff` | 6.134 | 9,3 % |
 | Polierter Andesit | `polished_andesite` | 2.041 | 3,1 % |
-| Glatter Stein | `smooth_stone` | 1.217 | 1,8 % |
-| Graues Buntglas | `gray_stained_glass` | 1.087 | 1,6 % |
+| Glatter Stein | `smooth_stone` | 1.213 | 1,8 % |
+| Graues Buntglas | `gray_stained_glass` | 1.087 | 1,7 % |
 | Ziegelsteine | `bricks` | 392 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 334 | 0,5 % |
 | Seelaterne | `sea_lantern` | 124 | 0,2 % |
@@ -58,9 +58,9 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w307544521` | Palazzo Pasqui | 22.939 | 20.1–20.13 |
 | 2 | `w307544521_innen` | Palazzo Pasqui: Innenausbau | 6.266 | 20.13–20.16 |
-| 3 | `w491816880` | Renaissance-Palazzo an Via Maurizio Bufalini | 13.488 | 20.17–20.24 |
+| 3 | `w491816880` | Renaissance-Palazzo an Via Maurizio Bufalini | 13.469 | 20.17–20.24 |
 | 4 | `w491816880_innen` | Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau | 3.587 | 20.25–20.26 |
-| 5 | `w491816885` | Reihenhaus an Via dei Servi | 13.813 | 20.27–20.35 |
+| 5 | `w491816885` | Reihenhaus an Via dei Servi | 13.738 | 20.27–20.35 |
 | 6 | `w491816885_innen` | Reihenhaus an Via dei Servi: Innenausbau | 5.861 | 20.36–20.39 |
 
 ## Bauschritte
@@ -691,7 +691,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 20.20 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 4/8 (Y 74–80)
 
 - **Y-Bereich:** 74 bis 80
-- **Blöcke:** 2.039
+- **Blöcke:** 2.037
 - **Bauteile:** `w491816880`
 
 **Teileliste**
@@ -700,7 +700,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.389 |
 | Polierter Andesit | `polished_andesite` | 408 |
-| Glatter Stein | `smooth_stone` | 121 |
+| Glatter Stein | `smooth_stone` | 119 |
 | Tuffsteinziegel | `tuff_bricks` | 103 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 
@@ -723,7 +723,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 20.21 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 5/8 (Y 81–87)
 
 - **Y-Bereich:** 81 bis 87
-- **Blöcke:** 2.019
+- **Blöcke:** 2.017
 - **Bauteile:** `w491816880`
 
 **Teileliste**
@@ -732,7 +732,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.376 |
 | Polierter Andesit | `polished_andesite` | 482 |
-| Glatter Stein | `smooth_stone` | 121 |
+| Glatter Stein | `smooth_stone` | 119 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
@@ -784,17 +784,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 20.23 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 7/8 (Y 95–97)
 
 - **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.507
+- **Blöcke:** 1.492
 - **Bauteile:** `w491816880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 859 |
+| Terrakotta | `terracotta` | 854 |
 | Tuffstein | `tuff` | 400 |
 | Polierter Andesit | `polished_andesite` | 174 |
-| Endsteinziegel | `end_stone_bricks` | 74 |
+| Endsteinziegel | `end_stone_bricks` | 64 |
 
 **Beschreibung**
 
@@ -1025,17 +1025,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.30 – Reihenhaus an Via dei Servi – Teil 4/9 (Y 75–81)
+### Schritt 20.30 – Reihenhaus an Via dei Servi – Teil 4/9 (Y 75–80)
 
-- **Y-Bereich:** 75 bis 81
-- **Blöcke:** 1.630
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.392
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.566 |
+| Weißer Beton | `white_concrete` | 1.328 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 
 **Beschreibung**
@@ -1054,17 +1054,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.31 – Reihenhaus an Via dei Servi – Teil 5/9 (Y 82–87)
+### Schritt 20.31 – Reihenhaus an Via dei Servi – Teil 5/9 (Y 81–87)
 
-- **Y-Bereich:** 82 bis 87
-- **Blöcke:** 1.392
+- **Y-Bereich:** 81 bis 87
+- **Blöcke:** 1.630
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.328 |
+| Weißer Beton | `white_concrete` | 1.566 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 
 **Beschreibung**
@@ -1144,15 +1144,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 20.34 – Reihenhaus an Via dei Servi – Teil 8/9 (Y 101–104)
 
 - **Y-Bereich:** 101 bis 104
-- **Blöcke:** 1.712
+- **Blöcke:** 1.637
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 858 |
-| Weißer Beton | `white_concrete` | 838 |
+| Terrakotta | `terracotta` | 833 |
+| Weißer Beton | `white_concrete` | 788 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 
 **Beschreibung**

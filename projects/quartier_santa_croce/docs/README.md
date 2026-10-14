@@ -4,7 +4,7 @@
 
 *Projekt `quartier_santa_croce`, Art: quartier*
 
-**Statistik (generiert):** 1.399.156 Blöcke in 897 Bauschritten, 11 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.399.055 Blöcke in 897 Bauschritten, 11 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X 293 bis 807, Y 63 bis 117, Z 482 bis 1158.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -14,25 +14,25 @@ Ausdehnung des Modells: X 293 bis 807, Y 63 bis 117, Z 482 bis 1158.
 | 2 | Isolato I0587 – Via dell'Anguillara | 128.252 | 76 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0588 – Borgo de' Greci | 147.101 | 96 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Isolato I0593 – Via dei Pandolfini | 60.353 | 36 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
-| 5 | Isolato I0595 – Via Torta | 84.246 | 55 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
+| 5 | Isolato I0595 – Via Torta | 84.151 | 55 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
 | 6 | Isolato I0599 – Via Torta | 96.760 | 61 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | 7 | Isolato I0601 – Via Matteo Palmieri | 61.941 | 43 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
 | 8 | Isolato I0604 – Borgo Santa Croce | 309.131 | 190 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
 | 9 | Isolato I0607 – Via Ghibellina | 104.372 | 64 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
-| 10 | Isolato I0620 – Via Giuseppe Verdi | 103.819 | 67 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
-| | **Summe** | **1.399.156** | **897** | |
+| 10 | Isolato I0620 – Via Giuseppe Verdi | 103.813 | 67 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
+| | **Summe** | **1.399.055** | **897** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 464.680 | 33,2 % |
+| Terrakotta | `terracotta` | 464.636 | 33,2 % |
 | Polierter Tuffstein | `polished_tuff` | 136.720 | 9,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 108.065 | 7,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 108.061 | 7,7 % |
 | Orange Keramik | `orange_terracotta` | 100.487 | 7,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 81.943 | 5,9 % |
 | Tuffstein | `tuff` | 79.232 | 5,7 % |
-| Weißer Beton | `white_concrete` | 74.306 | 5,3 % |
+| Weißer Beton | `white_concrete` | 74.302 | 5,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 73.598 | 5,3 % |
 | Rosa Keramik | `pink_terracotta` | 58.705 | 4,2 % |
 | Polierter Andesit | `polished_andesite` | 48.347 | 3,5 % |
@@ -43,7 +43,7 @@ Ausdehnung des Modells: X 293 bis 807, Y 63 bis 117, Z 482 bis 1158.
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 8.240 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 7.082 | 0,5 % |
 | Grüner Beton | `green_concrete` | 6.136 | 0,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 5.262 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 5.213 | 0,4 % |
 | Seelaterne | `sea_lantern` | 2.840 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.064 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.922 | 0,1 % |

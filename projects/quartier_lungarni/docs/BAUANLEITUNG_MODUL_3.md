@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.847 |
+| Blöcke | 25.795 |
 | Bauschritte | 15 |
 | Y-Bereich | 63 bis 102 |
 | X-Ausdehnung | -513 bis -435 (79 Blöcke) |
 | Z-Ausdehnung | 1349 bis 1403 (55 Blöcke) |
 | Kleinster Schritt | 1.118 Blöcke (Schritt 3.1) |
-| Mittlerer Schritt | 1.723 Blöcke |
-| Größter Schritt | 2.037 Blöcke (Schritt 3.12) |
+| Mittlerer Schritt | 1.720 Blöcke |
+| Größter Schritt | 2.033 Blöcke (Schritt 3.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 10.837 | 41,9 % |
-| Terrakotta | `terracotta` | 5.328 | 20,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 10.785 | 41,8 % |
+| Terrakotta | `terracotta` | 5.328 | 20,7 % |
 | Polierter Tuffstein | `polished_tuff` | 4.000 | 15,5 % |
 | Weißer Beton | `white_concrete` | 2.667 | 10,3 % |
 | Graues Buntglas | `gray_stained_glass` | 956 | 3,7 % |
@@ -50,7 +50,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119009553` | Palazzo des Ottocento an Via dei Bardi | 20.286 | 3.1–3.12 |
+| 1 | `w119009553` | Palazzo des Ottocento an Via dei Bardi | 20.234 | 3.1–3.12 |
 | 2 | `w119009553_innen` | Palazzo des Ottocento an Via dei Bardi: Innenausbau | 5.561 | 3.13–3.15 |
 
 ## Bauschritte
@@ -347,14 +347,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.10 – Palazzo des Ottocento an Via dei Bardi – Teil 10/12 (Y 96–99)
 
 - **Y-Bereich:** 96 bis 99
-- **Blöcke:** 1.768
+- **Blöcke:** 1.742
 - **Bauteile:** `w119009553`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.015 |
+| Glatter Sandstein | `smooth_sandstone` | 989 |
 | Weißer Beton | `white_concrete` | 459 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
 | Grüner Beton | `green_concrete` | 114 |
@@ -379,7 +379,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.11 – Palazzo des Ottocento an Via dei Bardi – Teil 11/12 (Y 100–100)
 
 - **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.191
+- **Blöcke:** 1.169
 - **Bauteile:** `w119009553`
 
 **Teileliste**
@@ -387,7 +387,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 898 |
-| Glatter Sandstein | `smooth_sandstone` | 285 |
+| Glatter Sandstein | `smooth_sandstone` | 263 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
@@ -409,14 +409,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.12 – Palazzo des Ottocento an Via dei Bardi – Teil 12/12 (Y 100–102)
 
 - **Y-Bereich:** 100 bis 102
-- **Blöcke:** 2.037
+- **Blöcke:** 2.033
 - **Bauteile:** `w119009553`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.141 |
+| Glatter Sandstein | `smooth_sandstone` | 1.137 |
 | Polierter Tuffstein | `polished_tuff` | 888 |
 | Polierter Andesit | `polished_andesite` | 8 |
 

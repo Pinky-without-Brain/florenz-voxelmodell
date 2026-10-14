@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 79.570 |
+| Blöcke | 79.555 |
 | Bauschritte | 52 |
 | Y-Bereich | 66 bis 112 |
 | X-Ausdehnung | -244 bis -137 (108 Blöcke) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 25.860 | 32,5 % |
+| Terrakotta | `terracotta` | 25.855 | 32,5 % |
 | Endsteinziegel | `end_stone_bricks` | 15.931 | 20,0 % |
 | Polierter Tuffstein | `polished_tuff` | 6.861 | 8,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 6.461 | 8,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 6.451 | 8,1 % |
 | Weißer Beton | `white_concrete` | 5.412 | 6,8 % |
 | Rosa Keramik | `pink_terracotta` | 5.264 | 6,6 % |
 | Gelbe Keramik | `yellow_terracotta` | 5.007 | 6,3 % |
@@ -79,7 +79,7 @@
 | 16 | `w542315426_innen` | Reihenhaus an Vicolo del Giglio: Innenausbau | 982 | 6.32 |
 | 17 | `w542315427` | Reihenhaus an Via delle Oche | 987 | 6.33 |
 | 18 | `w542315427_innen` | Reihenhaus an Via delle Oche: Innenausbau | 721 | 6.34 |
-| 19 | `w542315428` | Reihenhaus an Piazza del Giglio | 5.255 | 6.35–6.37 |
+| 19 | `w542315428` | Reihenhaus an Piazza del Giglio | 5.240 | 6.35–6.37 |
 | 20 | `w542315428_innen` | Reihenhaus an Piazza del Giglio: Innenausbau | 1.494 | 6.38 |
 | 21 | `w542315429` | Reihenhaus an Via Sant'Elisabetta | 4.321 | 6.39–6.41 |
 | 22 | `w542315429_innen` | Reihenhaus an Via Sant'Elisabetta: Innenausbau | 1.267 | 6.42 |
@@ -1344,15 +1344,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.37 – Reihenhaus an Piazza del Giglio – Teil 3/3 (Y 97–112)
 
 - **Y-Bereich:** 97 bis 112
-- **Blöcke:** 1.705
+- **Blöcke:** 1.690
 - **Bauteile:** `w542315428`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 954 |
-| Terrakotta | `terracotta` | 592 |
+| Hellgrauer Beton | `light_gray_concrete` | 944 |
+| Terrakotta | `terracotta` | 587 |
 | Weißer Beton | `white_concrete` | 96 |
 | Ziegelsteine | `bricks` | 31 |
 | Graues Buntglas | `gray_stained_glass` | 16 |

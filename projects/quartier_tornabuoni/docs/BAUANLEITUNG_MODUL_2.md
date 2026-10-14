@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 156.517 |
+| Blöcke | 156.465 |
 | Bauschritte | 96 |
 | Y-Bereich | 63 bis 103 |
 | X-Ausdehnung | -879 bis -765 (115 Blöcke) |
@@ -21,13 +21,13 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 58.243 | 37,2 % |
+| Terrakotta | `terracotta` | 58.224 | 37,2 % |
 | Polierter Tuffstein | `polished_tuff` | 17.948 | 11,5 % |
 | Rosa Keramik | `pink_terracotta` | 15.164 | 9,7 % |
 | Weißer Beton | `white_concrete` | 11.723 | 7,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.555 | 7,4 % |
 | Tuffstein | `tuff` | 9.332 | 6,0 % |
-| Endsteinziegel | `end_stone_bricks` | 6.104 | 3,9 % |
+| Endsteinziegel | `end_stone_bricks` | 6.078 | 3,9 % |
 | Glatter Stein | `smooth_stone` | 5.957 | 3,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 4.961 | 3,2 % |
 | Polierter Andesit | `polished_andesite` | 3.911 | 2,5 % |
@@ -35,7 +35,7 @@
 | Gelbe Keramik | `yellow_terracotta` | 2.545 | 1,6 % |
 | Ziegelsteine | `bricks` | 1.181 | 0,8 % |
 | Tuffsteinziegel | `tuff_bricks` | 846 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 799 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 792 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 704 | 0,4 % |
 | Grüner Beton | `green_concrete` | 702 | 0,4 % |
 | Seelaterne | `sea_lantern` | 329 | 0,2 % |
@@ -79,17 +79,17 @@
 | 16 | `w541408521_innen` | Reihenhaus an Via Porta Rossa: Innenausbau | 1.448 | 2.52 |
 | 17 | `w541408522` | Palazzo des Cinquecento an Via Monalda | 6.753 | 2.53–2.56 |
 | 18 | `w541408522_innen` | Palazzo des Cinquecento an Via Monalda: Innenausbau | 1.558 | 2.57 |
-| 19 | `w541408523` | Reihenhaus an Via Monalda | 2.224 | 2.58–2.59 |
+| 19 | `w541408523` | Reihenhaus an Via Monalda | 2.185 | 2.58–2.59 |
 | 20 | `w541408523_innen` | Reihenhaus an Via Monalda: Innenausbau | 474 | 2.60 |
 | 21 | `w541408525` | Haus w541408525 | 3.026 | 2.61–2.62 |
 | 22 | `w541408525_innen` | Haus w541408525: Innenausbau | 799 | 2.63 |
-| 23 | `w541408526` | Reihenhaus an Via dei Tornabuoni | 8.768 | 2.64–2.68 |
+| 23 | `w541408526` | Reihenhaus an Via dei Tornabuoni | 8.762 | 2.64–2.68 |
 | 24 | `w541408526_innen` | Reihenhaus an Via dei Tornabuoni: Innenausbau | 4.859 | 2.69–2.71 |
 | 25 | `w541408529` | Reihenhaus an Via Monalda | 8.459 | 2.72–2.76 |
 | 26 | `w541408529_innen` | Reihenhaus an Via Monalda: Innenausbau | 2.695 | 2.77–2.78 |
 | 27 | `w541408530` | Reihenhaus an Via Monalda | 4.576 | 2.79–2.81 |
 | 28 | `w541408530_innen` | Reihenhaus an Via Monalda: Innenausbau | 2.659 | 2.82–2.83 |
-| 29 | `w541408531` | Reihenhaus an Piazza degli Strozzi | 6.686 | 2.84–2.87 |
+| 29 | `w541408531` | Reihenhaus an Piazza degli Strozzi | 6.679 | 2.84–2.87 |
 | 30 | `w541408531_innen` | Reihenhaus an Piazza degli Strozzi: Innenausbau | 3.035 | 2.88–2.89 |
 | 31 | `w541408532` | Reihenhaus an Piazza degli Strozzi | 5.803 | 2.90–2.93 |
 | 32 | `w541408532_innen` | Reihenhaus an Piazza degli Strozzi: Innenausbau | 4.829 | 2.94–2.96 |
@@ -2079,15 +2079,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.59 – Reihenhaus an Via Monalda – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
-- **Blöcke:** 1.122
+- **Blöcke:** 1.083
 - **Bauteile:** `w541408523`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 820 |
-| Terrakotta | `terracotta` | 232 |
+| Endsteinziegel | `end_stone_bricks` | 794 |
+| Terrakotta | `terracotta` | 219 |
 | Weißer Beton | `white_concrete` | 32 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Ziegelsteine | `bricks` | 12 |
@@ -2348,7 +2348,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.67 – Reihenhaus an Via dei Tornabuoni – Teil 4/5 (Y 87–94)
 
 - **Y-Bereich:** 87 bis 94
-- **Blöcke:** 1.883
+- **Blöcke:** 1.877
 - **Bauteile:** `w541408526`
 
 **Teileliste**
@@ -2356,8 +2356,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 934 |
-| Terrakotta | `terracotta` | 753 |
-| Fichtenholz-Bretter | `spruce_planks` | 87 |
+| Terrakotta | `terracotta` | 750 |
+| Fichtenholz-Bretter | `spruce_planks` | 84 |
 | Glatter Stein | `smooth_stone` | 73 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
@@ -3006,7 +3006,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.86 – Reihenhaus an Piazza degli Strozzi – Teil 3/4 (Y 81–92)
 
 - **Y-Bereich:** 81 bis 92
-- **Blöcke:** 1.598
+- **Blöcke:** 1.597
 - **Bauteile:** `w541408531`
 
 **Teileliste**
@@ -3016,7 +3016,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rosa Keramik | `pink_terracotta` | 1.393 |
 | Glatter Stein | `smooth_stone` | 130 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
-| Fichtenholz-Bretter | `spruce_planks` | 11 |
+| Fichtenholz-Bretter | `spruce_planks` | 10 |
 
 **Beschreibung**
 
@@ -3037,17 +3037,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.87 – Reihenhaus an Piazza degli Strozzi – Teil 4/4 (Y 93–101)
 
 - **Y-Bereich:** 93 bis 101
-- **Blöcke:** 1.746
+- **Blöcke:** 1.740
 - **Bauteile:** `w541408531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.477 |
+| Terrakotta | `terracotta` | 1.474 |
 | Rosa Keramik | `pink_terracotta` | 137 |
 | Ziegelsteine | `bricks` | 82 |
-| Fichtenholz-Bretter | `spruce_planks` | 50 |
+| Fichtenholz-Bretter | `spruce_planks` | 47 |
 
 **Beschreibung**
 

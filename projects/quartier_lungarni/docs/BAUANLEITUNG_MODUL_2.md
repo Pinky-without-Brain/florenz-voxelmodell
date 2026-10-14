@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 139.507 |
+| Blöcke | 139.453 |
 | Bauschritte | 91 |
 | Y-Bereich | 63 bis 115 |
 | X-Ausdehnung | -642 bis -451 (192 Blöcke) |
-| Z-Ausdehnung | 793 bis 940 (148 Blöcke) |
+| Z-Ausdehnung | 795 bis 940 (146 Blöcke) |
 | Kleinster Schritt | 366 Blöcke (Schritt 2.8) |
-| Mittlerer Schritt | 1.533 Blöcke |
+| Mittlerer Schritt | 1.532 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 2.31) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 43.125 | 30,9 % |
+| Terrakotta | `terracotta` | 43.101 | 30,9 % |
 | Rosa Keramik | `pink_terracotta` | 24.781 | 17,8 % |
 | Orange Keramik | `orange_terracotta` | 13.935 | 10,0 % |
 | Polierter Tuffstein | `polished_tuff` | 12.032 | 8,6 % |
@@ -37,7 +37,7 @@
 | Gelbe Keramik | `yellow_terracotta` | 804 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 788 | 0,6 % |
 | Ziegelsteine | `bricks` | 642 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 460 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 430 | 0,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 288 | 0,2 % |
 | Seelaterne | `sea_lantern` | 266 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 175 | 0,1 % |
@@ -74,7 +74,7 @@
 | 10 | `w478339470_innen` | Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau | 4.676 | 2.33–2.35 |
 | 11 | `w485935631` | Reihenhaus an Chiasso delle Misure | 6.258 | 2.36–2.39 |
 | 12 | `w485935631_innen` | Reihenhaus an Chiasso delle Misure: Innenausbau | 1.351 | 2.40 |
-| 13 | `w485935632` | Reihenhaus an Via delle Terme | 8.439 | 2.41–2.45 |
+| 13 | `w485935632` | Reihenhaus an Via delle Terme | 8.385 | 2.41–2.45 |
 | 14 | `w485935632_innen` | Reihenhaus an Via delle Terme: Innenausbau | 2.392 | 2.46–2.47 |
 | 15 | `w485935633` | Reihenhaus an Borgo Santi Apostoli | 11.997 | 2.48–2.54 |
 | 16 | `w485935633_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 3.300 | 2.55–2.57 |
@@ -1542,7 +1542,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.44 – Reihenhaus an Via delle Terme – Teil 4/5 (Y 85–92)
 
 - **Y-Bereich:** 85 bis 92
-- **Blöcke:** 1.633
+- **Blöcke:** 1.627
 - **Bauteile:** `w485935632`
 
 **Teileliste**
@@ -1552,7 +1552,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weißer Beton | `white_concrete` | 1.324 |
 | Hellgrauer Beton | `light_gray_concrete` | 244 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
-| Fichtenholz-Bretter | `spruce_planks` | 29 |
+| Fichtenholz-Bretter | `spruce_planks` | 23 |
 
 **Beschreibung**
 
@@ -1573,16 +1573,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.45 – Reihenhaus an Via delle Terme – Teil 5/5 (Y 93–101)
 
 - **Y-Bereich:** 93 bis 101
-- **Blöcke:** 1.688
+- **Blöcke:** 1.640
 - **Bauteile:** `w485935632`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.303 |
+| Terrakotta | `terracotta` | 1.279 |
 | Weißer Beton | `white_concrete` | 204 |
-| Fichtenholz-Bretter | `spruce_planks` | 107 |
+| Fichtenholz-Bretter | `spruce_planks` | 83 |
 | Ziegelsteine | `bricks` | 74 |
 
 **Beschreibung**

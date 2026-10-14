@@ -8,35 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 352.992 |
+| Blöcke | 352.740 |
 | Bauschritte | 227 |
 | Y-Bereich | 61 bis 111 |
 | X-Ausdehnung | -554 bis -331 (224 Blöcke) |
 | Z-Ausdehnung | -356 bis -73 (284 Blöcke) |
 | Kleinster Schritt | 480 Blöcke (Schritt 0.218) |
-| Mittlerer Schritt | 1.555 Blöcke |
+| Mittlerer Schritt | 1.554 Blöcke |
 | Größter Schritt | 2.085 Blöcke (Schritt 0.219) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 131.042 | 37,1 % |
+| Terrakotta | `terracotta` | 130.942 | 37,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 38.685 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 37.660 | 10,7 % |
-| Rosa Keramik | `pink_terracotta` | 32.235 | 9,1 % |
+| Rosa Keramik | `pink_terracotta` | 32.227 | 9,1 % |
 | Tuffstein | `tuff` | 28.186 | 8,0 % |
 | Orange Keramik | `orange_terracotta` | 18.802 | 5,3 % |
-| Weißer Beton | `white_concrete` | 16.458 | 4,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 12.525 | 3,5 % |
+| Weißer Beton | `white_concrete` | 16.454 | 4,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 12.525 | 3,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.154 | 3,2 % |
-| Glatter Stein | `smooth_stone` | 6.287 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 6.271 | 1,8 % |
 | Graues Buntglas | `gray_stained_glass` | 4.366 | 1,2 % |
 | Ziegelsteine | `bricks` | 3.509 | 1,0 % |
 | Polierter Andesit | `polished_andesite` | 2.869 | 0,8 % |
-| Endsteinziegel | `end_stone_bricks` | 2.603 | 0,7 % |
+| Endsteinziegel | `end_stone_bricks` | 2.594 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.649 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.366 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.251 | 0,4 % |
 | Seelaterne | `sea_lantern` | 706 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 585 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 401 | 0,1 % |
@@ -64,7 +64,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4101358` | Haus r4101358 | 83.506 | 0.1–0.58 |
+| 1 | `r4101358` | Haus r4101358 | 83.427 | 0.1–0.58 |
 | 2 | `r4101358_innen` | Haus r4101358: Innenausbau | 24.570 | 0.58–0.70 |
 | 3 | `r7270590` | Reihenhaus an Borgo San Lorenzo | 15.382 | 0.71–0.80 |
 | 4 | `r7270590_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 5.127 | 0.81–0.84 |
@@ -80,7 +80,7 @@
 | 14 | `w495259305_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 5 | 0.130 |
 | 15 | `w495259306` | Haus w495259306 | 3.035 | 0.130–0.131 |
 | 16 | `w495259306_innen` | Haus w495259306: Innenausbau | 774 | 0.132 |
-| 17 | `w495259318` | Renaissance-Palazzo an Piazza San Lorenzo | 13.691 | 0.133–0.140 |
+| 17 | `w495259318` | Renaissance-Palazzo an Piazza San Lorenzo | 13.672 | 0.133–0.140 |
 | 18 | `w495259318_innen` | Renaissance-Palazzo an Piazza San Lorenzo: Innenausbau | 2.547 | 0.141–0.142 |
 | 19 | `w495259326` | Reihenhaus an Borgo San Lorenzo | 3.186 | 0.143–0.144 |
 | 20 | `w495259326_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.079 | 0.145 |
@@ -100,19 +100,19 @@
 | 34 | `w495261003_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.142 | 0.171 |
 | 35 | `w495261005` | Reihenhaus an Via dei Cerretani | 3.199 | 0.172–0.173 |
 | 36 | `w495261005_innen` | Reihenhaus an Via dei Cerretani: Innenausbau | 1.502 | 0.174 |
-| 37 | `w495261007` | Haus w495261007 | 10.683 | 0.175–0.180 |
+| 37 | `w495261007` | Haus w495261007 | 10.667 | 0.175–0.180 |
 | 38 | `w495261007_innen` | Haus w495261007: Innenausbau | 2.902 | 0.181–0.182 |
 | 39 | `w495261008` | Haus w495261008 | 6.595 | 0.183–0.186 |
 | 40 | `w495261008_innen` | Haus w495261008: Innenausbau | 2.657 | 0.187–0.188 |
-| 41 | `w495261009` | Haus w495261009 | 14.351 | 0.189–0.197 |
+| 41 | `w495261009` | Haus w495261009 | 14.252 | 0.189–0.197 |
 | 42 | `w495261009_innen` | Haus w495261009: Innenausbau | 4.223 | 0.198–0.200 |
 | 43 | `w495261012` | Haus w495261012 | 922 | 0.201 |
 | 44 | `w495261012_innen` | Haus w495261012: Innenausbau | 5 | 0.202 |
-| 45 | `w495261013` | Haus w495261013 | 7.643 | 0.202–0.205 |
+| 45 | `w495261013` | Haus w495261013 | 7.636 | 0.202–0.205 |
 | 46 | `w495261013_innen` | Haus w495261013: Innenausbau | 2.329 | 0.206–0.207 |
 | 47 | `w495261016` | Reihenhaus an Borgo San Lorenzo | 4.921 | 0.208–0.210 |
 | 48 | `w495261016_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 2.631 | 0.211–0.212 |
-| 49 | `w495261018` | Reihenhaus an Via Ferdinando Zannetti | 4.511 | 0.213–0.215 |
+| 49 | `w495261018` | Reihenhaus an Via Ferdinando Zannetti | 4.479 | 0.213–0.215 |
 | 50 | `w495261018_innen` | Reihenhaus an Via Ferdinando Zannetti: Innenausbau | 1.743 | 0.216 |
 | 51 | `w495261019` | Haus w495261019 | 1.201 | 0.217 |
 | 52 | `w495261019_innen` | Haus w495261019: Innenausbau | 480 | 0.218 |
@@ -554,7 +554,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.16 – Haus r4101358 – Teil 16/58 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.357
+- **Blöcke:** 1.356
 - **Bauteile:** `r4101358`
 
 **Teileliste**
@@ -562,7 +562,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.194 |
-| Glatter Stein | `smooth_stone` | 161 |
+| Glatter Stein | `smooth_stone` | 160 |
 | Polierter Andesit | `polished_andesite` | 1 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
@@ -834,7 +834,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.25 – Haus r4101358 – Teil 25/58 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.372
+- **Blöcke:** 1.371
 - **Bauteile:** `r4101358`
 
 **Teileliste**
@@ -842,7 +842,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.202 |
-| Glatter Stein | `smooth_stone` | 170 |
+| Glatter Stein | `smooth_stone` | 169 |
 
 **Beschreibung**
 
@@ -1129,7 +1129,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.35 – Haus r4101358 – Teil 35/58 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.372
+- **Blöcke:** 1.371
 - **Bauteile:** `r4101358`
 
 **Teileliste**
@@ -1137,7 +1137,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.202 |
-| Glatter Stein | `smooth_stone` | 170 |
+| Glatter Stein | `smooth_stone` | 169 |
 
 **Beschreibung**
 
@@ -1337,7 +1337,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.42 – Haus r4101358 – Teil 42/58 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.429
+- **Blöcke:** 1.419
 - **Bauteile:** `r4101358`
 
 **Teileliste**
@@ -1345,7 +1345,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.328 |
-| Fichtenholz-Bretter | `spruce_planks` | 101 |
+| Fichtenholz-Bretter | `spruce_planks` | 91 |
 
 **Beschreibung**
 
@@ -1366,7 +1366,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.43 – Haus r4101358 – Teil 43/58 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.776
+- **Blöcke:** 1.743
 - **Bauteile:** `r4101358`
 
 **Teileliste**
@@ -1374,7 +1374,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.328 |
-| Fichtenholz-Bretter | `spruce_planks` | 448 |
+| Fichtenholz-Bretter | `spruce_planks` | 415 |
 
 **Beschreibung**
 
@@ -1395,14 +1395,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.44 – Haus r4101358 – Teil 44/58 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.445
+- **Blöcke:** 1.432
 - **Bauteile:** `r4101358`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.445 |
+| Terrakotta | `terracotta` | 1.432 |
 
 **Beschreibung**
 
@@ -1423,14 +1423,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.45 – Haus r4101358 – Teil 45/58 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.452
+- **Blöcke:** 1.432
 - **Bauteile:** `r4101358`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.452 |
+| Terrakotta | `terracotta` | 1.432 |
 
 **Beschreibung**
 
@@ -4352,7 +4352,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.135 – Renaissance-Palazzo an Piazza San Lorenzo – Teil 3/8 (Y 73–77)
 
 - **Y-Bereich:** 73 bis 77
-- **Blöcke:** 1.647
+- **Blöcke:** 1.644
 - **Bauteile:** `w495259318`
 
 **Teileliste**
@@ -4360,7 +4360,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 936 |
-| Glatter Stein | `smooth_stone` | 324 |
+| Glatter Stein | `smooth_stone` | 321 |
 | Polierter Andesit | `polished_andesite` | 193 |
 | Tuffsteinziegel | `tuff_bricks` | 150 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
@@ -4415,7 +4415,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.137 – Renaissance-Palazzo an Piazza San Lorenzo – Teil 5/8 (Y 83–87)
 
 - **Y-Bereich:** 83 bis 87
-- **Blöcke:** 1.686
+- **Blöcke:** 1.683
 - **Bauteile:** `w495259318`
 
 **Teileliste**
@@ -4423,7 +4423,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 963 |
-| Glatter Stein | `smooth_stone` | 376 |
+| Glatter Stein | `smooth_stone` | 373 |
 | Polierter Andesit | `polished_andesite` | 323 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -4477,17 +4477,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.139 – Renaissance-Palazzo an Piazza San Lorenzo – Teil 7/8 (Y 94–97)
 
 - **Y-Bereich:** 94 bis 97
-- **Blöcke:** 1.981
+- **Blöcke:** 1.968
 - **Bauteile:** `w495259318`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 818 |
+| Terrakotta | `terracotta` | 814 |
 | Tuffstein | `tuff` | 591 |
 | Polierter Andesit | `polished_andesite` | 254 |
-| Endsteinziegel | `end_stone_bricks` | 179 |
+| Endsteinziegel | `end_stone_bricks` | 170 |
 | Glatter Stein | `smooth_stone` | 139 |
 
 **Beschreibung**
@@ -5808,7 +5808,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.176 – Haus w495261007 – Teil 2/6 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.939
+- **Blöcke:** 1.938
 - **Bauteile:** `w495261007`
 
 **Teileliste**
@@ -5817,7 +5817,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.580 |
 | Rosa Keramik | `pink_terracotta` | 339 |
-| Weißer Beton | `white_concrete` | 12 |
+| Weißer Beton | `white_concrete` | 11 |
 | Polierter Andesit | `polished_andesite` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
@@ -5840,7 +5840,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.177 – Haus w495261007 – Teil 3/6 (Y 68–78)
 
 - **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.994
+- **Blöcke:** 1.991
 - **Bauteile:** `w495261007`
 
 **Teileliste**
@@ -5848,7 +5848,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.786 |
-| Weißer Beton | `white_concrete` | 98 |
+| Weißer Beton | `white_concrete` | 95 |
 | Graues Buntglas | `gray_stained_glass` | 37 |
 | Glatter Stein | `smooth_stone` | 33 |
 | Polierter Andesit | `polished_andesite` | 30 |
@@ -5904,15 +5904,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.179 – Haus w495261007 – Teil 5/6 (Y 89–96)
 
 - **Y-Bereich:** 89 bis 96
-- **Blöcke:** 1.994
+- **Blöcke:** 1.982
 - **Bauteile:** `w495261007`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.200 |
-| Terrakotta | `terracotta` | 666 |
+| Rosa Keramik | `pink_terracotta` | 1.192 |
+| Terrakotta | `terracotta` | 662 |
 | Weißer Beton | `white_concrete` | 92 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
@@ -6435,18 +6435,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.195 – Haus w495261009 – Teil 7/9 (Y 87–94)
+### Schritt 0.195 – Haus w495261009 – Teil 7/9 (Y 87–93)
 
-- **Y-Bereich:** 87 bis 94
-- **Blöcke:** 1.811
+- **Y-Bereich:** 87 bis 93
+- **Blöcke:** 1.576
 - **Bauteile:** `w495261009`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.444 |
-| Weißer Beton | `white_concrete` | 268 |
+| Glatter Sandstein | `smooth_sandstone` | 1.256 |
+| Weißer Beton | `white_concrete` | 221 |
 | Graues Buntglas | `gray_stained_glass` | 81 |
 | Grüner Beton | `green_concrete` | 18 |
 
@@ -6466,20 +6466,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.196 – Haus w495261009 – Teil 8/9 (Y 95–97)
+### Schritt 0.196 – Haus w495261009 – Teil 8/9 (Y 94–97)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.635
+- **Y-Bereich:** 94 bis 97
+- **Blöcke:** 1.771
 - **Bauteile:** `w495261009`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 917 |
-| Glatter Sandstein | `smooth_sandstone` | 453 |
-| Fichtenholz-Bretter | `spruce_planks` | 198 |
-| Weißer Beton | `white_concrete` | 67 |
+| Terrakotta | `terracotta` | 872 |
+| Glatter Sandstein | `smooth_sandstone` | 641 |
+| Fichtenholz-Bretter | `spruce_planks` | 144 |
+| Weißer Beton | `white_concrete` | 114 |
 
 **Beschreibung**
 
@@ -6779,7 +6779,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.205 – Haus w495261013 – Teil 4/4 (Y 93–96)
 
 - **Y-Bereich:** 93 bis 96
-- **Blöcke:** 1.853
+- **Blöcke:** 1.846
 - **Bauteile:** `w495261013`
 
 **Teileliste**
@@ -6788,7 +6788,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.062 |
 | Glatter Sandstein | `smooth_sandstone` | 653 |
-| Glatter Stein | `smooth_stone` | 138 |
+| Glatter Stein | `smooth_stone` | 131 |
 
 **Beschreibung**
 
@@ -7141,18 +7141,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.215 – Reihenhaus an Via Ferdinando Zannetti – Teil 3/3 (Y 88–100)
 
 - **Y-Bereich:** 88 bis 100
-- **Blöcke:** 1.523
+- **Blöcke:** 1.491
 - **Bauteile:** `w495261018`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 832 |
+| Terrakotta | `terracotta` | 818 |
 | Rosa Keramik | `pink_terracotta` | 492 |
 | Weißer Beton | `white_concrete` | 80 |
-| Fichtenholz-Bretter | `spruce_planks` | 61 |
 | Ziegelsteine | `bricks` | 46 |
+| Fichtenholz-Bretter | `spruce_planks` | 43 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**

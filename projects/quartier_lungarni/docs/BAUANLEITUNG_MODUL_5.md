@@ -8,35 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 108.944 |
+| Blöcke | 108.570 |
 | Bauschritte | 68 |
 | Y-Bereich | 63 bis 114 |
-| X-Ausdehnung | -39 bis 101 (141 Blöcke) |
+| X-Ausdehnung | -39 bis 100 (140 Blöcke) |
 | Z-Ausdehnung | 1018 bis 1203 (186 Blöcke) |
-| Kleinster Schritt | 713 Blöcke (Schritt 5.60) |
-| Mittlerer Schritt | 1.602 Blöcke |
-| Größter Schritt | 2.079 Blöcke (Schritt 5.40) |
+| Kleinster Schritt | 690 Blöcke (Schritt 5.60) |
+| Mittlerer Schritt | 1.597 Blöcke |
+| Größter Schritt | 2.044 Blöcke (Schritt 5.40) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 31.436 | 28,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 23.846 | 21,9 % |
-| Polierter Tuffstein | `polished_tuff` | 9.308 | 8,5 % |
+| Terrakotta | `terracotta` | 31.302 | 28,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 23.846 | 22,0 % |
+| Polierter Tuffstein | `polished_tuff` | 9.308 | 8,6 % |
 | Weißer Beton | `white_concrete` | 8.823 | 8,1 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.496 | 6,9 % |
 | Rosa Keramik | `pink_terracotta` | 6.322 | 5,8 % |
 | Tuffstein | `tuff` | 5.433 | 5,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.730 | 3,4 % |
 | Glatter Stein | `smooth_stone` | 3.235 | 3,0 % |
-| Polierter Andesit | `polished_andesite` | 2.455 | 2,3 % |
+| Polierter Andesit | `polished_andesite` | 2.399 | 2,2 % |
 | Graues Buntglas | `gray_stained_glass` | 2.090 | 1,9 % |
-| Endsteinziegel | `end_stone_bricks` | 1.312 | 1,2 % |
+| Endsteinziegel | `end_stone_bricks` | 1.260 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 867 | 0,8 % |
 | Ziegelsteine | `bricks` | 505 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 483 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 384 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 351 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 210 | 0,2 % |
 | Seelaterne | `sea_lantern` | 207 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 200 | 0,2 % |
@@ -69,7 +69,7 @@
 | 8 | `w496440054_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 1 | 5.20 |
 | 9 | `w496440058` | Reihenhaus an Via del Castello d'Altafronte | 4.007 | 5.20–5.21 |
 | 10 | `w496440058_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 1.193 | 5.22 |
-| 11 | `w496440059` | Reihenhaus an Via dell'Osteria del Guanto | 7.756 | 5.23–5.26 |
+| 11 | `w496440059` | Reihenhaus an Via dell'Osteria del Guanto | 7.694 | 5.23–5.26 |
 | 12 | `w496440059_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 1.731 | 5.27 |
 | 13 | `w496440060` | Reihenhaus an Via del Castello d'Altafronte | 5.299 | 5.28–5.30 |
 | 14 | `w496440060_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 1.828 | 5.31 |
@@ -77,23 +77,23 @@
 | 16 | `w496440061_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 1.040 | 5.35 |
 | 17 | `w496440064` | Reihenhaus an Via del Castello d'Altafronte | 5.370 | 5.36–5.38 |
 | 18 | `w496440064_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 1.456 | 5.39 |
-| 19 | `w496440065` | Reihenhaus an Via dell'Osteria del Guanto | 2.079 | 5.40 |
+| 19 | `w496440065` | Reihenhaus an Via dell'Osteria del Guanto | 2.044 | 5.40 |
 | 20 | `w496440065_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 725 | 5.41 |
 | 21 | `w496440066` | Reihenhaus an Via del Castello d'Altafronte | 6.249 | 5.42–5.45 |
 | 22 | `w496440066_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 771 | 5.46 |
 | 23 | `w496440068` | Nebengebäude an Via dell'Osteria del Guanto | 2.165 | 5.47–5.48 |
 | 24 | `w496440068_innen` | Nebengebäude an Via dell'Osteria del Guanto: Innenausbau | 1 | 5.49 |
-| 25 | `w496440069` | Palazzo des Cinquecento an Via dell'Osteria del Guanto | 7.200 | 5.49–5.52 |
+| 25 | `w496440069` | Palazzo des Cinquecento an Via dell'Osteria del Guanto | 7.080 | 5.49–5.52 |
 | 26 | `w496440069_innen` | Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau | 2.769 | 5.53–5.54 |
 | 27 | `w496440071` | Wohnturm an Via del Castello d'Altafronte | 1.966 | 5.55 |
 | 28 | `w496440071_innen` | Wohnturm an Via del Castello d'Altafronte: Innenausbau | 1.034 | 5.56 |
 | 29 | `w496440073` | Reihenhaus an Via del Castello d'Altafronte | 3.406 | 5.57–5.58 |
 | 30 | `w496440073_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 1.228 | 5.59 |
-| 31 | `w496440078` | Reihenhaus an Via dell'Osteria del Guanto | 713 | 5.60 |
+| 31 | `w496440078` | Reihenhaus an Via dell'Osteria del Guanto | 690 | 5.60 |
 | 32 | `w496440078_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 2 | 5.61 |
-| 33 | `w496440080` | Reihenhaus an Via dell'Osteria del Guanto | 6.390 | 5.61–5.64 |
+| 33 | `w496440080` | Reihenhaus an Via dell'Osteria del Guanto | 6.368 | 5.61–5.64 |
 | 34 | `w496440080_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 2.342 | 5.65–5.66 |
-| 35 | `w1091240559` | Palazzo des Cinquecento an Via dell'Osteria del Guanto | 2.744 | 5.67–5.68 |
+| 35 | `w1091240559` | Palazzo des Cinquecento an Via dell'Osteria del Guanto | 2.632 | 5.67–5.68 |
 | 36 | `w1091240559_innen` | Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau | 2 | 5.68 |
 
 ## Bauschritte
@@ -931,7 +931,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.26 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/4 (Y 100–113)
 
 - **Y-Bereich:** 100 bis 113
-- **Blöcke:** 2.010
+- **Blöcke:** 1.948
 - **Bauteile:** `w496440059`
 
 **Teileliste**
@@ -939,10 +939,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.178 |
-| Terrakotta | `terracotta` | 685 |
+| Terrakotta | `terracotta` | 657 |
 | Weißer Beton | `white_concrete` | 54 |
-| Fichtenholz-Bretter | `spruce_planks` | 51 |
 | Ziegelsteine | `bricks` | 34 |
+| Fichtenholz-Bretter | `spruce_planks` | 17 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
@@ -1416,7 +1416,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.40 – Reihenhaus an Via dell'Osteria del Guanto
 
 - **Y-Bereich:** 63 bis 97
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `w496440065`
 
 **Teileliste**
@@ -1424,11 +1424,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.356 |
-| Terrakotta | `terracotta` | 311 |
+| Terrakotta | `terracotta` | 295 |
 | Polierter Tuffstein | `polished_tuff` | 258 |
 | Weißer Beton | `white_concrete` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
-| Fichtenholz-Bretter | `spruce_planks` | 19 |
 | Polierter Andesit | `polished_andesite` | 15 |
 | Ziegelsteine | `bricks` | 6 |
 
@@ -1745,18 +1744,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.50 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/4 (Y 67–81)
+### Schritt 5.50 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/4 (Y 67–80)
 
-- **Y-Bereich:** 67 bis 81
-- **Blöcke:** 1.819
+- **Y-Bereich:** 67 bis 80
+- **Blöcke:** 1.694
 - **Bauteile:** `w496440069`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.444 |
-| Weißer Beton | `white_concrete` | 192 |
+| Rosa Keramik | `pink_terracotta` | 1.345 |
+| Weißer Beton | `white_concrete` | 166 |
 | Graues Buntglas | `gray_stained_glass` | 85 |
 | Glatter Stein | `smooth_stone` | 63 |
 | Polierter Andesit | `polished_andesite` | 27 |
@@ -1778,21 +1777,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.51 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 3/4 (Y 82–93)
+### Schritt 5.51 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 3/4 (Y 81–93)
 
-- **Y-Bereich:** 82 bis 93
-- **Blöcke:** 1.563
+- **Y-Bereich:** 81 bis 93
+- **Blöcke:** 1.622
 - **Bauteile:** `w496440069`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.143 |
-| Weißer Beton | `white_concrete` | 209 |
-| Fichtenholz-Bretter | `spruce_planks` | 93 |
+| Rosa Keramik | `pink_terracotta` | 1.242 |
+| Weißer Beton | `white_concrete` | 235 |
 | Glatter Stein | `smooth_stone` | 63 |
 | Graues Buntglas | `gray_stained_glass` | 55 |
+| Fichtenholz-Bretter | `spruce_planks` | 27 |
 
 **Beschreibung**
 
@@ -1813,14 +1812,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.52 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 4/4 (Y 94–101)
 
 - **Y-Bereich:** 94 bis 101
-- **Blöcke:** 2.010
+- **Blöcke:** 1.956
 - **Bauteile:** `w496440069`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.911 |
+| Terrakotta | `terracotta` | 1.857 |
 | Ziegelsteine | `bricks` | 99 |
 
 **Beschreibung**
@@ -2106,7 +2105,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.60 – Reihenhaus an Via dell'Osteria del Guanto
 
 - **Y-Bereich:** 63 bis 97
-- **Blöcke:** 713
+- **Blöcke:** 690
 - **Bauteile:** `w496440078`
 
 **Teileliste**
@@ -2114,10 +2113,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 354 |
-| Terrakotta | `terracotta` | 177 |
+| Terrakotta | `terracotta` | 167 |
 | Polierter Tuffstein | `polished_tuff` | 163 |
-| Fichtenholz-Bretter | `spruce_planks` | 16 |
 | Ziegelsteine | `bricks` | 3 |
+| Fichtenholz-Bretter | `spruce_planks` | 3 |
 
 **Beschreibung**
 
@@ -2138,7 +2137,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.61 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau & Reihenhaus an Via dell'Osteria del Guanto – Teil 1/4 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.572
+- **Blöcke:** 1.568
 - **Bauteile:** `w496440078_innen`, `w496440080`
 
 **Teileliste**
@@ -2147,7 +2146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 879 |
 | Glatter Sandstein | `smooth_sandstone` | 548 |
-| Polierter Andesit | `polished_andesite` | 118 |
+| Polierter Andesit | `polished_andesite` | 114 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
 | Seelaterne | `sea_lantern` | 2 |
 
@@ -2170,7 +2169,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.62 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/4 (Y 69–80)
 
 - **Y-Bereich:** 69 bis 80
-- **Blöcke:** 1.688
+- **Blöcke:** 1.676
 - **Bauteile:** `w496440080`
 
 **Teileliste**
@@ -2178,7 +2177,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.310 |
-| Polierter Andesit | `polished_andesite` | 280 |
+| Polierter Andesit | `polished_andesite` | 268 |
 | Graues Buntglas | `gray_stained_glass` | 98 |
 
 **Beschreibung**
@@ -2200,7 +2199,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.63 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/4 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
-- **Blöcke:** 1.474
+- **Blöcke:** 1.468
 - **Bauteile:** `w496440080`
 
 **Teileliste**
@@ -2208,7 +2207,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.140 |
-| Polierter Andesit | `polished_andesite` | 214 |
+| Polierter Andesit | `polished_andesite` | 208 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 
 **Beschreibung**
@@ -2346,7 +2345,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.67 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 1/2 (Y 63–75)
 
 - **Y-Bereich:** 63 bis 75
-- **Blöcke:** 1.359
+- **Blöcke:** 1.333
 - **Bauteile:** `w1091240559`
 
 **Teileliste**
@@ -2355,7 +2354,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 671 |
 | Polierter Tuffstein | `polished_tuff` | 298 |
-| Polierter Andesit | `polished_andesite` | 243 |
+| Polierter Andesit | `polished_andesite` | 217 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Glatter Stein | `smooth_stone` | 59 |
 | Tuffsteinziegel | `tuff_bricks` | 16 |
@@ -2379,16 +2378,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.68 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/2 (Y 76–88) & Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau
 
 - **Y-Bereich:** 63 bis 88
-- **Blöcke:** 1.387
+- **Blöcke:** 1.301
 - **Bauteile:** `w1091240559`, `w1091240559_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 641 |
-| Terrakotta | `terracotta` | 365 |
-| Polierter Andesit | `polished_andesite` | 224 |
+| Endsteinziegel | `end_stone_bricks` | 589 |
+| Terrakotta | `terracotta` | 339 |
+| Polierter Andesit | `polished_andesite` | 216 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Glatter Stein | `smooth_stone` | 59 |
 | Seelaterne | `sea_lantern` | 2 |

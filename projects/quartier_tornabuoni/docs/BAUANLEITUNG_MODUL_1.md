@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 111.571 |
+| Blöcke | 111.353 |
 | Bauschritte | 70 |
 | Y-Bereich | 63 bis 103 |
-| X-Ausdehnung | -975 bis -828 (148 Blöcke) |
-| Z-Ausdehnung | 728 bis 893 (166 Blöcke) |
+| X-Ausdehnung | -975 bis -829 (147 Blöcke) |
+| Z-Ausdehnung | 728 bis 892 (165 Blöcke) |
 | Kleinster Schritt | 1.029 Blöcke (Schritt 1.30) |
-| Mittlerer Schritt | 1.594 Blöcke |
-| Größter Schritt | 2.095 Blöcke (Schritt 1.64) |
+| Mittlerer Schritt | 1.591 Blöcke |
+| Größter Schritt | 2.070 Blöcke (Schritt 1.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 40.713 | 36,5 % |
-| Endsteinziegel | `end_stone_bricks` | 20.470 | 18,3 % |
+| Terrakotta | `terracotta` | 40.650 | 36,5 % |
+| Endsteinziegel | `end_stone_bricks` | 20.470 | 18,4 % |
 | Polierter Tuffstein | `polished_tuff` | 12.052 | 10,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.925 | 8,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.879 | 8,0 % |
 | Weißer Beton | `white_concrete` | 8.158 | 7,3 % |
-| Orange Keramik | `orange_terracotta` | 6.267 | 5,6 % |
+| Orange Keramik | `orange_terracotta` | 6.187 | 5,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.257 | 4,7 % |
-| Glatter Stein | `smooth_stone` | 2.236 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 2.207 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.074 | 1,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.703 | 1,5 % |
 | Polierter Andesit | `polished_andesite` | 949 | 0,9 % |
@@ -70,11 +70,11 @@
 | 8 | `w495057048_innen` | Reihenhaus an Lungarno degli Acciaioli: Innenausbau | 3.391 | 1.44–1.46 |
 | 9 | `w495057065` | Haus w495057065 | 2.318 | 1.47–1.48 |
 | 10 | `w495057065_innen` | Haus w495057065: Innenausbau | 1.230 | 1.49 |
-| 11 | `w495057106` | Reihenhaus an Chiasso Altoviti | 6.610 | 1.50–1.53 |
+| 11 | `w495057106` | Reihenhaus an Chiasso Altoviti | 6.541 | 1.50–1.53 |
 | 12 | `w495057106_innen` | Reihenhaus an Chiasso Altoviti: Innenausbau | 1.272 | 1.54 |
 | 13 | `w495057107` | Reihenhaus an Borgo Santi Apostoli | 5.485 | 1.55–1.57 |
 | 14 | `w495057107_innen` | Reihenhaus an Borgo Santi Apostoli: Innenausbau | 1.842 | 1.58 |
-| 15 | `w495057117` | Palazzo des Cinquecento an Chiasso Altoviti | 11.969 | 1.59–1.65 |
+| 15 | `w495057117` | Palazzo des Cinquecento an Chiasso Altoviti | 11.820 | 1.59–1.65 |
 | 16 | `w495057117_innen` | Palazzo des Cinquecento an Chiasso Altoviti: Innenausbau | 2.706 | 1.66–1.67 |
 | 17 | `w495057118` | Reihenhaus an Lungarno degli Acciaioli | 3.547 | 1.68–1.69 |
 | 18 | `w495057118_innen` | Reihenhaus an Lungarno degli Acciaioli: Innenausbau | 1.715 | 1.70 |
@@ -1770,15 +1770,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.53 – Reihenhaus an Chiasso Altoviti – Teil 4/4 (Y 89–99)
 
 - **Y-Bereich:** 89 bis 99
-- **Blöcke:** 1.709
+- **Blöcke:** 1.640
 - **Bauteile:** `w495057106`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 761 |
-| Terrakotta | `terracotta` | 726 |
+| Gelbe Keramik | `yellow_terracotta` | 715 |
+| Terrakotta | `terracotta` | 703 |
 | Weißer Beton | `white_concrete` | 81 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
 | Grüner Beton | `green_concrete` | 48 |
@@ -2005,7 +2005,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.60 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 2/7 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.862
+- **Blöcke:** 1.853
 - **Bauteile:** `w495057117`
 
 **Teileliste**
@@ -2013,7 +2013,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.459 |
-| Glatter Stein | `smooth_stone` | 224 |
+| Glatter Stein | `smooth_stone` | 215 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Polierter Andesit | `polished_andesite` | 50 |
 | Grüner Beton | `green_concrete` | 48 |
@@ -2038,7 +2038,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.61 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 3/7 (Y 71–76)
 
 - **Y-Bereich:** 71 bis 76
-- **Blöcke:** 1.667
+- **Blöcke:** 1.657
 - **Bauteile:** `w495057117`
 
 **Teileliste**
@@ -2046,7 +2046,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.283 |
-| Glatter Stein | `smooth_stone` | 330 |
+| Glatter Stein | `smooth_stone` | 320 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Grüner Beton | `green_concrete` | 16 |
 | Polierter Andesit | `polished_andesite` | 11 |
@@ -2067,18 +2067,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.62 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 4/7 (Y 77–83)
+### Schritt 1.62 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 4/7 (Y 77–82)
 
-- **Y-Bereich:** 77 bis 83
-- **Blöcke:** 1.848
+- **Y-Bereich:** 77 bis 82
+- **Blöcke:** 1.569
 - **Bauteile:** `w495057117`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.222 |
-| Glatter Stein | `smooth_stone` | 399 |
+| Orange Keramik | `orange_terracotta` | 1.105 |
+| Glatter Stein | `smooth_stone` | 237 |
 | Graues Buntglas | `gray_stained_glass` | 135 |
 | Grüner Beton | `green_concrete` | 80 |
 | Polierter Andesit | `polished_andesite` | 12 |
@@ -2099,18 +2099,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.63 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 5/7 (Y 84–89)
+### Schritt 1.63 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 5/7 (Y 83–89)
 
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.604
+- **Y-Bereich:** 83 bis 89
+- **Blöcke:** 1.873
 - **Bauteile:** `w495057117`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.204 |
-| Glatter Stein | `smooth_stone` | 216 |
+| Orange Keramik | `orange_terracotta` | 1.321 |
+| Glatter Stein | `smooth_stone` | 368 |
 | Graues Buntglas | `gray_stained_glass` | 108 |
 | Grüner Beton | `green_concrete` | 64 |
 | Polierter Andesit | `polished_andesite` | 12 |
@@ -2134,15 +2134,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.64 – Palazzo des Cinquecento an Chiasso Altoviti – Teil 6/7 (Y 90–94)
 
 - **Y-Bereich:** 90 bis 94
-- **Blöcke:** 2.095
+- **Blöcke:** 1.975
 - **Bauteile:** `w495057117`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.099 |
-| Terrakotta | `terracotta` | 848 |
+| Orange Keramik | `orange_terracotta` | 1.019 |
+| Terrakotta | `terracotta` | 808 |
 | Glatter Stein | `smooth_stone` | 97 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Grüner Beton | `green_concrete` | 16 |

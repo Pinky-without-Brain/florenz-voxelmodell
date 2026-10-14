@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 225.657 |
+| Blöcke | 225.523 |
 | Bauschritte | 144 |
 | Y-Bereich | 63 bis 110 |
 | X-Ausdehnung | 137 bis 436 (300 Blöcke) |
 | Z-Ausdehnung | 716 bis 880 (165 Blöcke) |
 | Kleinster Schritt | 338 Blöcke (Schritt 4.95) |
-| Mittlerer Schritt | 1.567 Blöcke |
+| Mittlerer Schritt | 1.566 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 4.39) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 69.803 | 30,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 43.870 | 19,4 % |
+| Terrakotta | `terracotta` | 69.753 | 30,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 43.870 | 19,5 % |
 | Polierter Tuffstein | `polished_tuff` | 33.532 | 14,9 % |
 | Endsteinziegel | `end_stone_bricks` | 17.953 | 8,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 17.020 | 7,5 % |
-| Glatter Stein | `smooth_stone` | 9.781 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 9.769 | 4,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 9.399 | 4,2 % |
 | Weißer Beton | `white_concrete` | 6.721 | 3,0 % |
 | Graues Buntglas | `gray_stained_glass` | 5.729 | 2,5 % |
 | Rosa Keramik | `pink_terracotta` | 3.151 | 1,4 % |
 | Grüner Beton | `green_concrete` | 2.177 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 1.879 | 0,8 % |
+| Polierter Andesit | `polished_andesite` | 1.867 | 0,8 % |
 | Ziegelsteine | `bricks` | 1.665 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 789 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 729 | 0,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 703 | 0,3 % |
 | Seelaterne | `sea_lantern` | 442 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 166 | 0,1 % |
@@ -86,9 +86,9 @@
 | 24 | `w491891885_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 567 | 4.127 |
 | 25 | `w491891886` | Reihenhaus an Via Borgognona | 3.706 | 4.128–4.129 |
 | 26 | `w491891886_innen` | Reihenhaus an Via Borgognona: Innenausbau | 1.317 | 4.130 |
-| 27 | `w491891887` | Reihenhaus an Via dell'Anguillara | 6.648 | 4.131–4.134 |
+| 27 | `w491891887` | Reihenhaus an Via dell'Anguillara | 6.526 | 4.131–4.134 |
 | 28 | `w491891887_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 1.785 | 4.135 |
-| 29 | `w491891888` | Reihenhaus an Via dei Bentaccordi | 5.670 | 4.136–4.138 |
+| 29 | `w491891888` | Reihenhaus an Via dei Bentaccordi | 5.658 | 4.136–4.138 |
 | 30 | `w491891888_innen` | Reihenhaus an Via dei Bentaccordi: Innenausbau | 1.460 | 4.139 |
 | 31 | `w491891890` | Reihenhaus an Via Borgognona | 4.823 | 4.140–4.142 |
 | 32 | `w491891890_innen` | Reihenhaus an Via Borgognona: Innenausbau | 2.766 | 4.143–4.144 |
@@ -4328,7 +4328,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.131 – Reihenhaus an Via dell'Anguillara – Teil 1/4 (Y 63–69)
 
 - **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.633
+- **Blöcke:** 1.630
 - **Bauteile:** `w491891887`
 
 **Teileliste**
@@ -4337,7 +4337,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 767 |
 | Polierter Tuffstein | `polished_tuff` | 718 |
-| Glatter Stein | `smooth_stone` | 109 |
+| Glatter Stein | `smooth_stone` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 
 **Beschreibung**
@@ -4359,7 +4359,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.132 – Reihenhaus an Via dell'Anguillara – Teil 2/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.610
+- **Blöcke:** 1.607
 - **Bauteile:** `w491891887`
 
 **Teileliste**
@@ -4367,7 +4367,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.345 |
-| Glatter Stein | `smooth_stone` | 206 |
+| Glatter Stein | `smooth_stone` | 203 |
 | Graues Buntglas | `gray_stained_glass` | 59 |
 
 **Beschreibung**
@@ -4386,19 +4386,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.133 – Reihenhaus an Via dell'Anguillara – Teil 3/4 (Y 80–90)
+### Schritt 4.133 – Reihenhaus an Via dell'Anguillara – Teil 3/4 (Y 80–89)
 
-- **Y-Bereich:** 80 bis 90
-- **Blöcke:** 1.753
+- **Y-Bereich:** 80 bis 89
+- **Blöcke:** 1.593
 - **Bauteile:** `w491891887`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.380 |
-| Glatter Stein | `smooth_stone` | 269 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
+| Weißer Beton | `white_concrete` | 1.262 |
+| Glatter Stein | `smooth_stone` | 242 |
+| Graues Buntglas | `gray_stained_glass` | 89 |
 
 **Beschreibung**
 
@@ -4416,22 +4416,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.134 – Reihenhaus an Via dell'Anguillara – Teil 4/4 (Y 91–100)
+### Schritt 4.134 – Reihenhaus an Via dell'Anguillara – Teil 4/4 (Y 90–100)
 
-- **Y-Bereich:** 91 bis 100
-- **Blöcke:** 1.652
+- **Y-Bereich:** 90 bis 100
+- **Blöcke:** 1.696
 - **Bauteile:** `w491891887`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 986 |
-| Weißer Beton | `white_concrete` | 414 |
-| Fichtenholz-Bretter | `spruce_planks` | 130 |
-| Glatter Stein | `smooth_stone` | 57 |
+| Terrakotta | `terracotta` | 936 |
+| Weißer Beton | `white_concrete` | 532 |
+| Glatter Stein | `smooth_stone` | 78 |
+| Fichtenholz-Bretter | `spruce_planks` | 70 |
 | Ziegelsteine | `bricks` | 51 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
+| Graues Buntglas | `gray_stained_glass` | 29 |
 
 **Beschreibung**
 
@@ -4494,7 +4494,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.136 – Reihenhaus an Via dei Bentaccordi – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.853
+- **Blöcke:** 1.850
 - **Bauteile:** `w491891888`
 
 **Teileliste**
@@ -4503,7 +4503,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.109 |
 | Polierter Tuffstein | `polished_tuff` | 593 |
-| Polierter Andesit | `polished_andesite` | 122 |
+| Polierter Andesit | `polished_andesite` | 119 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
 | Grüner Beton | `green_concrete` | 4 |
 
@@ -4526,7 +4526,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.137 – Reihenhaus an Via dei Bentaccordi – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
-- **Blöcke:** 1.864
+- **Blöcke:** 1.858
 - **Bauteile:** `w491891888`
 
 **Teileliste**
@@ -4534,7 +4534,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.508 |
-| Polierter Andesit | `polished_andesite` | 252 |
+| Polierter Andesit | `polished_andesite` | 246 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 | Grüner Beton | `green_concrete` | 12 |
 
@@ -4557,7 +4557,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.138 – Reihenhaus an Via dei Bentaccordi – Teil 3/3 (Y 86–99)
 
 - **Y-Bereich:** 86 bis 99
-- **Blöcke:** 1.953
+- **Blöcke:** 1.950
 - **Bauteile:** `w491891888`
 
 **Teileliste**
@@ -4566,7 +4566,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.011 |
 | Terrakotta | `terracotta` | 737 |
-| Polierter Andesit | `polished_andesite` | 110 |
+| Polierter Andesit | `polished_andesite` | 107 |
 | Ziegelsteine | `bricks` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 6 |

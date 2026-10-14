@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.902 |
+| Blöcke | 40.898 |
 | Bauschritte | 25 |
 | Y-Bereich | 63 bis 110 |
 | X-Ausdehnung | 361 bis 441 (81 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 11.863 | 29,0 % |
 | Tuffstein | `tuff` | 9.075 | 22,2 % |
-| Glatter Stein | `smooth_stone` | 4.576 | 11,2 % |
+| Glatter Stein | `smooth_stone` | 4.572 | 11,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.718 | 9,1 % |
 | Polierter Tuffstein | `polished_tuff` | 3.358 | 8,2 % |
 | Polierter Andesit | `polished_andesite` | 2.993 | 7,3 % |
@@ -61,7 +61,7 @@
 | 4 | `w486626748_innen` | Reihenhaus an Via delle Brache: Innenausbau | 718 | 7.7 |
 | 5 | `w486626749` | Wohnturm an Via delle Brache | 4.663 | 7.8–7.10 |
 | 6 | `w486626749_innen` | Wohnturm an Via delle Brache: Innenausbau | 5 | 7.11 |
-| 7 | `w486626750` | Palazzo Salutati | 20.040 | 7.11–7.22 |
+| 7 | `w486626750` | Palazzo Salutati | 20.036 | 7.11–7.22 |
 | 8 | `w486626750_innen` | Palazzo Salutati: Innenausbau | 6.295 | 7.22–7.25 |
 
 ## Bauschritte
@@ -695,14 +695,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.20 – Palazzo Salutati – Teil 10/12 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
-- **Blöcke:** 1.395
+- **Blöcke:** 1.391
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 816 |
+| Glatter Stein | `smooth_stone` | 812 |
 | Polierter Andesit | `polished_andesite` | 303 |
 | Tuffstein | `tuff` | 276 |
 

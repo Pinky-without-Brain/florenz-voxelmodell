@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 94.218 |
+| Blöcke | 94.187 |
 | Bauschritte | 56 |
 | Y-Bereich | 66 bis 110 |
 | X-Ausdehnung | 151 bis 244 (94 Blöcke) |
@@ -21,14 +21,14 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 28.705 | 30,5 % |
+| Terrakotta | `terracotta` | 28.693 | 30,5 % |
 | Endsteinziegel | `end_stone_bricks` | 12.195 | 12,9 % |
 | Weißer Beton | `white_concrete` | 10.769 | 11,4 % |
 | Rosa Keramik | `pink_terracotta` | 9.097 | 9,7 % |
 | Polierter Tuffstein | `polished_tuff` | 8.164 | 8,7 % |
-| Orange Keramik | `orange_terracotta` | 7.458 | 7,9 % |
+| Orange Keramik | `orange_terracotta` | 7.452 | 7,9 % |
 | Tuffstein | `tuff` | 6.160 | 6,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 3.274 | 3,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 3.268 | 3,5 % |
 | Glatter Stein | `smooth_stone` | 2.464 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.886 | 2,0 % |
 | Polierter Andesit | `polished_andesite` | 1.039 | 1,1 % |
@@ -38,7 +38,7 @@
 | Hellgrauer Beton | `light_gray_concrete` | 358 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 275 | 0,3 % |
 | Seelaterne | `sea_lantern` | 192 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 137 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 130 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 115 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 109 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 72 | 0,1 % |
@@ -62,15 +62,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7109833` | Haus r7109833 | 14.757 | 19.1–19.9 |
+| 1 | `r7109833` | Haus r7109833 | 14.744 | 19.1–19.9 |
 | 2 | `r7109833_innen` | Haus r7109833: Innenausbau | 2.971 | 19.10–19.11 |
-| 3 | `w306984418` | Reihenhaus an Via del Proconsolo | 4.531 | 19.12–19.14 |
+| 3 | `w306984418` | Reihenhaus an Via del Proconsolo | 4.522 | 19.12–19.14 |
 | 4 | `w306984418_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 1.714 | 19.15 |
 | 5 | `w482814879` | Reihenhaus an Via del Proconsolo | 13.209 | 19.16–19.22 |
 | 6 | `w482814879_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 3.614 | 19.23–19.25 |
 | 7 | `w482814880` | Reihenhaus an Via dell'Oriuolo | 9.985 | 19.26–19.30 |
 | 8 | `w482814880_innen` | Reihenhaus an Via dell'Oriuolo: Innenausbau | 2.362 | 19.31–19.32 |
-| 9 | `w482814881` | Reihenhaus an Via del Proconsolo | 5.597 | 19.33–19.35 |
+| 9 | `w482814881` | Reihenhaus an Via del Proconsolo | 5.588 | 19.33–19.35 |
 | 10 | `w482814881_innen` | Reihenhaus an Via del Proconsolo: Innenausbau | 1.987 | 19.36 |
 | 11 | `w482814896` | Reihenhaus an Piazza di Santa Maria in Campo | 9.881 | 19.37–19.41 |
 | 12 | `w482814896_innen` | Reihenhaus an Piazza di Santa Maria in Campo: Innenausbau | 2.748 | 19.42–19.43 |
@@ -307,16 +307,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 19.8 – Haus r7109833 – Teil 8/9 (Y 97–99)
 
 - **Y-Bereich:** 97 bis 99
-- **Blöcke:** 1.886
+- **Blöcke:** 1.873
 - **Bauteile:** `r7109833`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.127 |
+| Terrakotta | `terracotta` | 1.121 |
 | Weißer Beton | `white_concrete` | 600 |
-| Fichtenholz-Bretter | `spruce_planks` | 113 |
+| Fichtenholz-Bretter | `spruce_planks` | 106 |
 | Hellgrauer Beton | `light_gray_concrete` | 37 |
 | Polierter Andesit | `polished_andesite` | 9 |
 
@@ -520,15 +520,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 19.14 – Reihenhaus an Via del Proconsolo – Teil 3/3 (Y 96–108)
 
 - **Y-Bereich:** 96 bis 108
-- **Blöcke:** 1.504
+- **Blöcke:** 1.495
 - **Bauteile:** `w306984418`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 832 |
-| Terrakotta | `terracotta` | 606 |
+| Gelbe Keramik | `yellow_terracotta` | 826 |
+| Terrakotta | `terracotta` | 603 |
 | Ziegelsteine | `bricks` | 40 |
 | Weißer Beton | `white_concrete` | 14 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
@@ -1236,15 +1236,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 19.35 – Reihenhaus an Via del Proconsolo – Teil 3/3 (Y 88–97)
 
 - **Y-Bereich:** 88 bis 97
-- **Blöcke:** 1.887
+- **Blöcke:** 1.878
 - **Bauteile:** `w482814881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.441 |
-| Orange Keramik | `orange_terracotta` | 302 |
+| Terrakotta | `terracotta` | 1.438 |
+| Orange Keramik | `orange_terracotta` | 296 |
 | Ziegelsteine | `bricks` | 94 |
 | Weißer Beton | `white_concrete` | 50 |
 

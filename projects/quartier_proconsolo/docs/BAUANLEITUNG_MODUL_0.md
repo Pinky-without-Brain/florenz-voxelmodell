@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 202.864 |
+| Blöcke | 202.717 |
 | Bauschritte | 133 |
 | Y-Bereich | 63 bis 102 |
-| X-Ausdehnung | -124 bis 100 (225 Blöcke) |
-| Z-Ausdehnung | 362 bis 495 (134 Blöcke) |
+| X-Ausdehnung | -124 bis 99 (224 Blöcke) |
+| Z-Ausdehnung | 362 bis 494 (133 Blöcke) |
 | Kleinster Schritt | 355 Blöcke (Schritt 0.67) |
-| Mittlerer Schritt | 1.525 Blöcke |
+| Mittlerer Schritt | 1.524 Blöcke |
 | Größter Schritt | 2.075 Blöcke (Schritt 0.110) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 71.138 | 35,1 % |
+| Terrakotta | `terracotta` | 71.100 | 35,1 % |
 | Glatter Sandstein | `smooth_sandstone` | 26.982 | 13,3 % |
-| Polierter Tuffstein | `polished_tuff` | 19.977 | 9,8 % |
-| Endsteinziegel | `end_stone_bricks` | 18.648 | 9,2 % |
+| Polierter Tuffstein | `polished_tuff` | 19.977 | 9,9 % |
+| Endsteinziegel | `end_stone_bricks` | 18.588 | 9,2 % |
 | Orange Keramik | `orange_terracotta` | 10.985 | 5,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 9.525 | 4,7 % |
 | Rosa Keramik | `pink_terracotta` | 8.999 | 4,4 % |
@@ -32,11 +32,11 @@
 | Gelbe Keramik | `yellow_terracotta` | 6.731 | 3,3 % |
 | Polierter Andesit | `polished_andesite` | 4.340 | 2,1 % |
 | Graues Buntglas | `gray_stained_glass` | 4.292 | 2,1 % |
-| Glatter Stein | `smooth_stone` | 3.644 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 3.604 | 1,8 % |
 | Tuffstein | `tuff` | 2.636 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.077 | 1,0 % |
 | Ziegelsteine | `bricks` | 1.441 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 937 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 928 | 0,5 % |
 | Grüner Beton | `green_concrete` | 792 | 0,4 % |
 | Seelaterne | `sea_lantern` | 455 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 429 | 0,2 % |
@@ -62,7 +62,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w204127867` | Reihenhaus an Via Santa Margherita | 3.869 | 0.1–0.2 |
+| 1 | `w204127867` | Reihenhaus an Via Santa Margherita | 3.858 | 0.1–0.2 |
 | 2 | `w204127867_innen` | Reihenhaus an Via Santa Margherita: Innenausbau | 994 | 0.3 |
 | 3 | `w307544518` | Reihenhaus an Piazza dei Donati | 3.381 | 0.4–0.5 |
 | 4 | `w307544518_innen` | Reihenhaus an Piazza dei Donati: Innenausbau | 388 | 0.6 |
@@ -70,7 +70,7 @@
 | 6 | `w307544525_innen` | Torre dei Donati: Innenausbau | 1.306 | 0.10 |
 | 7 | `w307545799` | Santa Margherita dei Cerchi | 3.799 | 0.11–0.12 |
 | 8 | `w307545799_innen` | Santa Margherita dei Cerchi: Innenausbau | 801 | 0.13 |
-| 9 | `w497263196` | Palazzo des Cinquecento an Via del Corso | 11.084 | 0.14–0.19 |
+| 9 | `w497263196` | Palazzo des Cinquecento an Via del Corso | 11.066 | 0.14–0.19 |
 | 10 | `w497263196_innen` | Palazzo des Cinquecento an Via del Corso: Innenausbau | 2.897 | 0.20–0.21 |
 | 11 | `w497263198` | Reihenhaus an Piazza de' Cimatori | 6.517 | 0.22–0.25 |
 | 12 | `w497263198_innen` | Reihenhaus an Piazza de' Cimatori: Innenausbau | 1.887 | 0.26 |
@@ -84,7 +84,7 @@
 | 20 | `w497263212_innen` | Reihenhaus an Via dei Cerchi: Innenausbau | 802 | 0.40 |
 | 21 | `w497263214` | Reihenhaus an Via Santa Margherita | 2.986 | 0.41–0.42 |
 | 22 | `w497263214_innen` | Reihenhaus an Via Santa Margherita: Innenausbau | 1.460 | 0.43 |
-| 23 | `w497263216` | Reihenhaus an Via Dante Alighieri | 3.372 | 0.44–0.45 |
+| 23 | `w497263216` | Reihenhaus an Via Dante Alighieri | 3.366 | 0.44–0.45 |
 | 24 | `w497263216_innen` | Reihenhaus an Via Dante Alighieri: Innenausbau | 850 | 0.46 |
 | 25 | `w497263220` | Reihenhaus an Vicolo Vecchio del Panico | 12.176 | 0.47–0.53 |
 | 26 | `w497263220_innen` | Reihenhaus an Vicolo Vecchio del Panico: Innenausbau | 3.053 | 0.54–0.55 |
@@ -98,7 +98,7 @@
 | 34 | `w497263235_innen` | Reihenhaus an Via dei Cerchi: Innenausbau | 2.648 | 0.72–0.73 |
 | 35 | `w497263237` | Reihenhaus an Via del Corso | 3.527 | 0.74–0.75 |
 | 36 | `w497263237_innen` | Reihenhaus an Via del Corso: Innenausbau | 1.286 | 0.76 |
-| 37 | `w497263239` | Reihenhaus an Via Santa Margherita | 7.105 | 0.77–0.80 |
+| 37 | `w497263239` | Reihenhaus an Via Santa Margherita | 6.993 | 0.77–0.80 |
 | 38 | `w497263239_innen` | Reihenhaus an Via Santa Margherita: Innenausbau | 2.791 | 0.81–0.82 |
 | 39 | `w497263241` | Reihenhaus an Via Santa Margherita | 2.548 | 0.83–0.84 |
 | 40 | `w497263241_innen` | Reihenhaus an Via Santa Margherita: Innenausbau | 604 | 0.85 |
@@ -171,7 +171,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.2 – Reihenhaus an Via Santa Margherita – Teil 2/2 (Y 80–97)
 
 - **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.962
+- **Blöcke:** 1.951
 - **Bauteile:** `w204127867`
 
 **Teileliste**
@@ -179,10 +179,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.180 |
-| Terrakotta | `terracotta` | 524 |
+| Terrakotta | `terracotta` | 519 |
 | Weißer Beton | `white_concrete` | 124 |
-| Fichtenholz-Bretter | `spruce_planks` | 44 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
+| Fichtenholz-Bretter | `spruce_planks` | 38 |
 | Ziegelsteine | `bricks` | 36 |
 | Grüner Beton | `green_concrete` | 12 |
 
@@ -723,7 +723,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.18 – Palazzo des Cinquecento an Via del Corso – Teil 5/6 (Y 89–94)
 
 - **Y-Bereich:** 89 bis 94
-- **Blöcke:** 2.055
+- **Blöcke:** 2.037
 - **Bauteile:** `w497263196`
 
 **Teileliste**
@@ -732,7 +732,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 935 |
 | Terrakotta | `terracotta` | 675 |
-| Glatter Stein | `smooth_stone` | 225 |
+| Glatter Stein | `smooth_stone` | 207 |
 | Polierter Andesit | `polished_andesite` | 156 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Grüner Beton | `green_concrete` | 22 |
@@ -1669,7 +1669,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.45 – Reihenhaus an Via Dante Alighieri – Teil 2/2 (Y 80–99)
 
 - **Y-Bereich:** 80 bis 99
-- **Blöcke:** 1.692
+- **Blöcke:** 1.686
 - **Bauteile:** `w497263216`
 
 **Teileliste**
@@ -1677,9 +1677,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.134 |
-| Terrakotta | `terracotta` | 426 |
+| Terrakotta | `terracotta` | 423 |
 | Weißer Beton | `white_concrete` | 48 |
-| Fichtenholz-Bretter | `spruce_planks` | 47 |
+| Fichtenholz-Bretter | `spruce_planks` | 44 |
 | Ziegelsteine | `bricks` | 22 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
 
@@ -2772,7 +2772,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.77 – Reihenhaus an Via Santa Margherita – Teil 1/4 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.767
+- **Blöcke:** 1.763
 - **Bauteile:** `w497263239`
 
 **Teileliste**
@@ -2781,7 +2781,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.042 |
 | Endsteinziegel | `end_stone_bricks` | 597 |
-| Glatter Stein | `smooth_stone` | 90 |
+| Glatter Stein | `smooth_stone` | 86 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 2 |
 
@@ -2804,7 +2804,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.78 – Reihenhaus an Via Santa Margherita – Teil 2/4 (Y 69–80)
 
 - **Y-Bereich:** 69 bis 80
-- **Blöcke:** 1.823
+- **Blöcke:** 1.811
 - **Bauteile:** `w497263239`
 
 **Teileliste**
@@ -2812,7 +2812,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.459 |
-| Glatter Stein | `smooth_stone` | 274 |
+| Glatter Stein | `smooth_stone` | 262 |
 | Graues Buntglas | `gray_stained_glass` | 86 |
 | Grüner Beton | `green_concrete` | 4 |
 
@@ -2832,18 +2832,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.79 – Reihenhaus an Via Santa Margherita – Teil 3/4 (Y 81–92)
+### Schritt 0.79 – Reihenhaus an Via Santa Margherita – Teil 3/4 (Y 81–91)
 
-- **Y-Bereich:** 81 bis 92
-- **Blöcke:** 1.827
+- **Y-Bereich:** 81 bis 91
+- **Blöcke:** 1.597
 - **Bauteile:** `w497263239`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.401 |
-| Glatter Stein | `smooth_stone` | 270 |
+| Endsteinziegel | `end_stone_bricks` | 1.207 |
+| Glatter Stein | `smooth_stone` | 234 |
 | Graues Buntglas | `gray_stained_glass` | 148 |
 | Grüner Beton | `green_concrete` | 8 |
 
@@ -2863,19 +2863,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.80 – Reihenhaus an Via Santa Margherita – Teil 4/4 (Y 93–100)
+### Schritt 0.80 – Reihenhaus an Via Santa Margherita – Teil 4/4 (Y 92–100)
 
-- **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.688
+- **Y-Bereich:** 92 bis 100
+- **Blöcke:** 1.822
 - **Bauteile:** `w497263239`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.401 |
-| Endsteinziegel | `end_stone_bricks` | 223 |
+| Terrakotta | `terracotta` | 1.371 |
+| Endsteinziegel | `end_stone_bricks` | 357 |
 | Ziegelsteine | `bricks` | 64 |
+| Glatter Stein | `smooth_stone` | 30 |
 
 **Beschreibung**
 
