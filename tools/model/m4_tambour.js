@@ -10,6 +10,7 @@ const D = require('../spec/dimensions.js');
 const { inExedra, EXEDRA_CENTERS, EXEDRA_R } = require('../spec/interfaces.js');
 const { inOctagon } = require('../geom/shapes.js');
 const { connectEdges } = require('../geom/vaults.js');
+const { luftRaum } = require('./_luft.js');
 
 const L = D.LEVELS;
 const C = D.CATHEDRAL;
@@ -293,16 +294,20 @@ function build(ctx) {
   // ---- 1 Ring ---------------------------------------------------------------------------
   const ring = ctx.part('tambour_ring', SYM8);
   const hol = ringHollow();
+  const ringHohl = [];
   for (let y = Y_BASE; y <= Y_TOP; y++) {
     for (let x = -RING_OUT; x <= RING_OUT; x++) {
       for (let z = -RING_OUT; z <= RING_OUT; z++) {
-        if (ringSolid(x, y, z) && !hol(x, y, z)) ring.set(x, y, z, ringMaterial(x, y, z));
+        if (!ringSolid(x, y, z)) continue;
+        if (!hol(x, y, z)) ring.set(x, y, z, ringMaterial(x, y, z)); else ringHohl.push({ x, y, z });
       }
     }
   }
+  ctx.unzugaenglich(ringHohl, 'Hohlkern des Schalenmauerwerks (A1): ringsum geschlossen, kein Raum');
 
   // ---- 2 Ochsenaugen: Rahmen über die volle Wanddicke, Glas in der mittleren Schicht ------------
   const oc = ctx.part('ochsenaugen', SYM8);
+  const ocLuft = [];
   for (let y = OC_Y - OC_R - 1; y <= OC_Y + OC_R + 1; y++) {
     for (let x = -RING_OUT; x <= RING_OUT; x++) {
       for (let z = -RING_OUT; z <= RING_OUT; z++) {
@@ -312,14 +317,22 @@ function build(ctx) {
         if (m > OC_OPEN) { oc.set(x, y, z, 'chiseled_quartz'); continue; }
         const n = octN(Math.abs(x), Math.abs(z));
         if (n >= GLASS_N[0] && n <= GLASS_N[1]) oc.set(x, y, z, glassType(x, y, z));
+        else ocLuft.push({ x, y, z });
       }
     }
   }
+  ctx.unzugaenglich(ocLuft, 'Laibung der Ochsenaugen (innen und außen vor dem Glas): Fensterrund hoch in der Wand, nicht begehbar');
 
   // ---- 3 tribune morte ---------------------------------------------------------------------
   const morte = ctx.part('tribune_morte', SYM8);
   for (const c of EXEDRA_CENTERS) {
     for (const [x, y, z, t] of exedraCells(c)) morte.set(x, y, z, t);
+  }
+  for (const c of EXEDRA_CENTERS) {
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: [[c.cx + c.sx * 4, EX_FLOOR_Y + 1, c.cz + c.sz * 4]],
+      box: { x0: c.cx - EXEDRA_R - 1, x1: c.cx + EXEDRA_R + 1, y0: EX_FLOOR_Y + 1, y1: EX_DOME_Y + EX_DOME_V,
+        z0: c.cz - EXEDRA_R - 1, z1: c.cz + EXEDRA_R + 1 } }),
+    'Blindexedra (tribuna morta) außen am Tambour: Schmucknische über den Dächern, ohne Zugang');
   }
 
   // ---- 4 Kranzgesims (Y 171, ρ 55, auf Y 170 getragen); läuft ringsum durch, auch über den Diagonalflächen ---------

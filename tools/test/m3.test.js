@@ -102,22 +102,20 @@ test('Schalenmauerwerk: hohler Kern, Binderlage Y 77 und oberste Lagen voll', ()
   assert.equal(solid(46, 80, 25), false, 'Kern (Norm 50)');
 });
 
-test('Sakristeitüren: Türblatt nur im Osten, Blendnischen im Westen, Rahmen aus gemeißeltem Quarz', () => {
+test('Sakristeitüren (B5): alle vier offen, Bronze nur im Bogenfeld, Rahmen aus gemeißeltem Quarz', () => {
   const doors = cellsOf('sakristei_tueren');
-  const leaves = { ne: 0, se: 0, nw: 0, sw: 0 };
-  let frames = 0, blind = 0;
+  let frames = 0, bronze = 0;
   for (const [k, t] of doors) {
-    const [x, , z] = k.split(',').map(Number);
-    if (t === 'cut_copper') leaves[(z < 0 ? 'n' : 's') + (x > 0 ? 'e' : 'w')]++;
+    const y = Number(k.split(',')[1]);
+    if (t === 'cut_copper') { bronze++; assert.ok(y > 75, 'Bronze nur über dem Kämpfer'); }
     if (t === 'chiseled_quartz') frames++;
-    if (t === 'smooth_stone') { blind++; assert.ok(x < 0); }
   }
-  assert.ok(leaves.ne > 20 && leaves.se > 20);
-  assert.equal(leaves.nw + leaves.sw, 0);
-  assert.ok(frames > 100 && blind > 40);
-  // Durchgang NO: Zelle auf der Diagonalen in der äußeren Wandhälfte ist offen (Y 70)
-  assert.equal(solid(36, 70, -36), false);
-  assert.equal(solid(37, 70, -37), false);
+  assert.ok(frames > 100 && bronze > 0);
+  // Durchgang in allen vier Diagonalen offen (Y 70)
+  for (const [sx, sz] of [[1, -1], [1, 1], [-1, -1], [-1, 1]]) {
+    assert.equal(solid(36 * sx, 70, 36 * sz), false);
+    assert.equal(solid(37 * sx, 70, 37 * sz), false);
+  }
 });
 
 // Lokale Zellen (a, y, w, Typ) einer Tribune aus der Welt

@@ -84,8 +84,10 @@ test('Gewölbescheitel: Seitenschiff ≤ aisleVaultY, Mittelschiff ≤ naveVault
 });
 
 // Dichtheit: Flutfüllung von innen darf weder durch Wände/Gewölbe noch in die Dachräume gelangen.
-test('Innenraum ist dicht (kein Leck in Dachräume oder nach außen)', () => {
+test('Innenraum ist dicht (kein Leck in Dachräume oder nach außen; Portale als gewollte Öffnung zu)', () => {
   const x0 = N.interiorWestX, x1 = -D.CATHEDRAL.crossing.outerHalfFlat - 1;
+  const tor = new Set(world.oeffnungen.flatMap((o) => o.keys));
+  assert.ok(tor.size > 0, 'Seitenportale sind als Öffnung deklariert');
   const seen = new Set();
   const key = packKey;
   const stack = [[-155, 66, 0]];
@@ -99,7 +101,7 @@ test('Innenraum ist dicht (kein Leck in Dachräume oder nach außen)', () => {
       const nx = x + dx, ny = y + dy, nz = z + dz;
       if (nx < x0 || nx > x1 || ny < 65 || ny > 170 || Math.abs(nz) > 48) continue;
       const k = key(nx, ny, nz);
-      if (seen.has(k) || grid.has(nx, ny, nz)) continue;
+      if (seen.has(k) || grid.has(nx, ny, nz) || tor.has(k)) continue;
       seen.add(k);
       stack.push([nx, ny, nz]);
     }

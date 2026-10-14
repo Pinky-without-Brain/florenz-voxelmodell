@@ -39,6 +39,13 @@
       "caution": "Der Eingang liegt im Westen, dort, wo das Langhaus ankommt. Die Schranke steht ganz innen in der Vierung und berührt keine Wand. Bis zu den Pfeilern bleibt viel Platz.",
       "fact": "Die achteckige Marmorschranke um den Altar entstand in der Mitte des 16. Jahrhunderts nach Plänen von Baccio Bandinelli. Sie umgibt den Chor genau unter der Kuppel."
     },
+    "krypta_treppe": {
+      "title": "Treppe in die Krypta",
+      "description": "Im südlichen Seitenschiff der Krypta baust du eine gerade Treppe aus Steintreppen, 2 breit (Z 12 und 13). Die unterste Stufe steht bei X −180 auf dem Kryptaboden, jede weitere eine Zelle westlich und einen Block höher bis X −185 (Y 63); unter jede Stufe kommt ein Stützblock. Vor dem erhöhten Chorboden der Krypta setzt du eine Stufenreihe aus Bruchstein-Treppen (X −154).",
+      "tip": "Baue von unten nach oben und stelle dich zum Prüfen auf jede Stufe: Über dir muss das Treppenloch im Langhausboden frei sein.",
+      "caution": "Die oberste Stufe liegt in der Bodenplatte und gehört zu Modul 0. Die Treppe endet genau dort.",
+      "fact": "In der Krypta liegt das Grab Brunelleschis. Er war einer der wenigen, die im Dom selbst bestattet werden durften."
+    },
     "hochaltar": {
       "title": "Hochaltar mit Kruzifix",
       "description": "In die Mitte der Kuppel baust du den Altarblock: 5 Blöcke lang (X −2 bis 2), 3 breit (Z −1 bis 1) und 2 hoch (Y 65 und 66) aus weißem Marmor, oben aus gemeißeltem Quarz. Darauf steht ein Kreuz, 8 Blöcke hoch (Y 67 bis 74). Der Stamm besteht aus dunklem Holz. Der Körper Christi in der Mitte ist aus Gold. Der Querbalken liegt auf Y 72 und ist 5 Blöcke breit.",

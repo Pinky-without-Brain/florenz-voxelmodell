@@ -10,6 +10,7 @@ const { archHeight, archOpening } = require('../geom/arches.js');
 const { rho, connectEdges } = require('../geom/vaults.js');
 const { surface } = require('../geom/roofs.js');
 const patterns = require('../geom/patterns.js');
+const { luftRaum } = require('./_luft.js');
 
 const L = D.LEVELS;
 const C = D.CATHEDRAL;
@@ -60,6 +61,7 @@ const SAK_SPRING_Y = 88, SAK_CROWN_Y = 99;
 const SOCKEL_Y0 = 105;
 // Schalenmauerwerk (A1): Schalen 2, Binderlage alle 12, oberste 3 Lagen voll
 const SHELL = 2, BINDER = 12, TOP_FULL = 3;
+const HOHL_GRUND = 'Hohlkern des Schalenmauerwerks (A1): ringsum geschlossen, kein Raum';
 // Inkrustation (wie Modul 1)
 const PANEL_W = 9, PANEL_H = 12, FRAME_W = 1;
 
@@ -285,7 +287,7 @@ const GLASS_OCULUS = ['yellow_stained_glass', 'orange_stained_glass', 'yellow_st
   'orange_stained_glass', 'yellow_stained_glass'];
 
 function buildTribuneLocal() {
-  const out = { mauern: [], gewoelbe: [], obergaden: [], daecher: [] };
+  const out = { mauern: [], gewoelbe: [], obergaden: [], daecher: [], hohl: [] };
   const K = (a, w) => a * 256 + (w + 128);
   const A0 = RING_OUT, A1 = TC + TA;
 
@@ -347,7 +349,7 @@ function buildTribuneLocal() {
     const wi = win.get(K(a, w));
     for (let y = WALK; y <= CHAPEL_TOP_Y; y++) {
       if (geomMauern(a, w, y)) {
-        if (hollow(a, y, w)) continue;
+        if (hollow(a, y, w)) { out.hohl.push([a, y, w]); continue; }
         out.mauern.push([a, y, w, colMat(a, w, y, ext, int)]);
       } else if (wi && y >= CH_WIN_Y0 && y <= CH_WIN_Y1 && wi.p >= WIN_GLASS_P[0] && wi.p < WIN_GLASS_P[1]) {
         out.mauern.push([a, y, w, GLASS_SLIT[wi.k]]);
@@ -510,13 +512,16 @@ function build(ctx) {
   // ---- 1 Vierungswand --------------------------------------------------------
   const wand = ctx.part('vierung_wand', { symmetry: { order: 8, cx: 0, cz: 0 } });
   const hol = ringHollow();
+  const ringHohl = [];
   for (let y = WALK; y <= TOP_Y; y++) {
     for (let x = -RING_OUT; x <= RING_OUT; x++) {
       for (let z = -RING_OUT; z <= RING_OUT; z++) {
-        if (ringSolid(x, y, z) && !hol(x, y, z)) wand.set(x, y, z, ringMaterial(x, y, z));
+        if (!ringSolid(x, y, z)) continue;
+        if (!hol(x, y, z)) wand.set(x, y, z, ringMaterial(x, y, z)); else ringHohl.push({ x, y, z });
       }
     }
   }
+  ctx.unzugaenglich(ringHohl, HOHL_GRUND);
 
   // ---- 2 Kämpfergesims (nur Diagonalseiten) -----------------------------------
   const gesims = ctx.part('vierung_gesims', { symmetry: { order: 8, cx: 0, cz: 0 } });
@@ -529,8 +534,9 @@ function build(ctx) {
     }
   }
 
-  // ---- 3 Sakristeitüren (NO, SO offen; NW, SW als Blendnischen) -------------------
+  // ---- 3 Sakristeitüren (B5: alle vier offen; die Räume in den Eckbauten sind begehbar) -------------
   const tueren = ctx.part('sakristei_tueren');
+  const tuerLuft = [];
   for (let y = WALK; y <= DOOR_SPRING_Y + DOOR_HALF + DOOR_FRAME + 1; y++) {
     for (let x = -RING_OUT; x <= RING_OUT; x++) {
       for (let z = -RING_OUT; z <= RING_OUT; z++) {
@@ -538,11 +544,12 @@ function build(ctx) {
         const cls = doorClass(Math.abs(x), Math.abs(z), y);
         if (!cls) continue;
         if (cls === 'frame') { tueren.set(x, y, z, 'chiseled_quartz'); continue; }
-        if (x < 0) { tueren.set(x, y, z, 'smooth_stone'); continue; }          // Blendnische im Westen
-        if (DOOR_LEAF_N.includes(octN(Math.abs(x), Math.abs(z)))) tueren.set(x, y, z, 'cut_copper');
+        if (y > DOOR_SPRING_Y && DOOR_LEAF_N.includes(octN(Math.abs(x), Math.abs(z)))) { tueren.set(x, y, z, 'cut_copper'); continue; }
+        tuerLuft.push({ x, y, z });
       }
     }
   }
+  ctx.oeffnung(tuerLuft, 'tuer');
 
   // ---- 4–15 Tribunen -----------------------------------------------------------
   const local = buildTribuneLocal();
@@ -555,7 +562,15 @@ function build(ctx) {
         const [x, z] = t.toXZ(a, wl);
         w.set(x, y, z, type);
       }
+      if (id === 'mauern') ctx.unzugaenglich(local.hohl.map(([a, y, wl]) => { const [x, z] = t.toXZ(a, wl); return { x, y, z }; }), HOHL_GRUND);
     }
+    // Dachraum über dem Tribunengewölbe samt Laibungen der Obergaden-Rundfenster (B5)
+    const ecken = [[RING_OUT, -TA], [RING_OUT, TA], [TC + TA, -TA], [TC + TA, TA]].map(([a, w]) => t.toXZ(a, w));
+    const xs = ecken.map((e) => e[0]), zs = ecken.map((e) => e[1]);
+    const seeds = [[TC, VAULT_CROWN_Y + 3, 0], [RING_OUT + 1, R2_Y1 - 2, 0]].map(([a, y, w]) => { const [x, z] = t.toXZ(a, w); return [x, y, z]; });
+    ctx.unzugaenglich(luftRaum(ctx, { seeds, box: { x0: Math.min(...xs), x1: Math.max(...xs), y0: VAULT_SPRING_Y, y1: R2_Y1 + 1,
+      z0: Math.min(...zs), z1: Math.max(...zs) } }),
+    'Dachraum zwischen Tribunengewölbe und Dach: leerer Raum ohne Bedeutung, im Original nur über Luken erreichbar');
   }
 
   // ---- 16 Eckbauten -------------------------------------------------------------
@@ -585,6 +600,10 @@ function build(ctx) {
   for (const sz of [-1, 1]) {
     const cells = [...room].map((s) => s.split(',').map(Number)).filter(([x, z]) => x > 0 && Math.sign(z) === sz);
     for (const c of sakristeiVault(cells)) eck.set(c.x, c.y, c.z, 'smooth_stone');
+    const xs = cells.map((c) => c[0]), zs = cells.map((c) => c[1]);
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: cells.map(([x, z]) => [x, ECK_ROOM_TOP_Y, z]),
+      box: { x0: Math.min(...xs), x1: Math.max(...xs), y0: SAK_SPRING_Y, y1: ECK_ROOM_TOP_Y, z0: Math.min(...zs), z1: Math.max(...zs) } }),
+    'Zwickel über dem Sakristeigewölbe unter der Deckenplatte: kein Raum');
   }
 
   // ---- 17 Exedra-Sockel -----------------------------------------------------------
@@ -596,18 +615,20 @@ function build(ctx) {
     yBase: SOCKEL_Y0, yTop: TOP_Y
   });
   const sOut = (x, z) => !(inExedra(x, z) || inOctagon(x, z, RING_OUT));
+  const sockelHohl = [];
   for (let x = -RING_OUT; x <= RING_OUT; x++) {
     for (let z = -RING_OUT; z <= RING_OUT; z++) {
       if (!sockelCell(x, z)) continue;
       const xOut = sOut(x + 1, z) || sOut(x - 1, z), zOut = sOut(x, z + 1) || sOut(x, z - 1);
       for (let y = SOCKEL_Y0; y <= TOP_Y; y++) {
-        if (sHollow(x, y, z)) continue;
+        if (sHollow(x, y, z)) { sockelHohl.push({ x, y, z }); continue; }
         let t = 'stone_bricks';
         if (xOut || zOut) t = (xOut && !zOut ? incrZ : incr)(x, y, z);
         sockel.set(x, y, z, t);
       }
     }
   }
+  ctx.unzugaenglich(sockelHohl, HOHL_GRUND);
 }
 
 module.exports = {

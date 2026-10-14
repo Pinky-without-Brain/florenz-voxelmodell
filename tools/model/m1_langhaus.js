@@ -4,6 +4,7 @@ const D = require('../spec/dimensions.js');
 const { archHeight, archOpening, archRing, elevation, placeElevation } = require('../geom/arches.js');
 const { inOctagon, inDisk } = require('../geom/shapes.js');
 const { gableRoof, shedRoof } = require('../geom/roofs.js');
+const { luftRaum } = require('./_luft.js');
 
 const L = D.LEVELS;
 const C = D.CATHEDRAL;
@@ -172,11 +173,15 @@ function build(ctx) {
       }
     });
     w.fill(glass, 'white_stained_glass');
-    const door = [];
+    // Bronzetür (B5): unterhalb des Kämpfers offen (Durchgang), darüber das Bogenfeld aus Bronze
+    const door = [], luft = [];
     for (const o of archOpening(PORTAL.w, PORTAL.f, { springV: PORTAL.springY - Y0 })) {
-      door.push({ x: cu + o.u, y: Y0 + o.v, z: s * Z_DOOR });
+      const y = Y0 + o.v;
+      if (y >= PORTAL.springY) door.push({ x: cu + o.u, y, z: s * Z_DOOR });
+      else for (let az = Z_IN + 1; az <= Z_IN + Z_WALL_T; az++) luft.push({ x: cu + o.u, y, z: s * az });
     }
     w.fill(door, 'cut_copper');
+    ctx.oeffnung(luft, 'tor');
   };
   outerWall('aussenwand_nord', -1);
   outerWall('aussenwand_sued', 1);
@@ -332,6 +337,23 @@ function build(ctx) {
   const dm = ctx.part('dach_mittelschiff');
   dm.fill(gableRoof({ x0: XW, x1: XE, z0: -(CLE_Z1 + 1), z1: CLE_Z1 + 1, ridgeAxis: 'x',
     eaveY: N.naveVaultY, ridgeY: N.roofRidgeY }), 'terracotta');
+
+  // 12 Bewusst unzugänglich (B5): Dachräume über den Gewölben, Mauerkronen und Kapitelle
+  const DACH = 'Dachraum zwischen Gewölbe und Dach: leerer Raum ohne Bedeutung, im Original nur über Luken erreichbar; bleibt im Modell geschlossen';
+  for (const s of sides) {
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), N.aisleVaultY + 1, s * 30]),
+      box: { x0: XW, x1: XE, y0: AISLE_SPRING_Y, y1: ROOF_AISLE_HIGH, z0: s < 0 ? -Z_EXT : AISLE_Z0, z1: s < 0 ? -AISLE_Z0 : Z_EXT } }), DACH);
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), ARC_WALL_TOP + 1, s * ARC_Z1]),
+      box: { x0: XW, x1: XE + 4, y0: ARC_WALL_TOP, y1: N.clerestoryTopY, z0: s < 0 ? -(ARC_Z1 + 2) : ARC_Z1, z1: s < 0 ? -ARC_Z1 : ARC_Z1 + 2 } }),
+    'Mauerkrone der Arkadenwand neben der Hochschiffwand, unter dem Kranzgesims: kein Raum, nur über das Dach erreichbar');
+    const kap = [];
+    for (let k = 1; k < N.bays; k++) kap.push([px(k), CAP_TOP + 1, s * (Z_IN - 1)]);
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: kap, box: { x0: XW, x1: XE, y0: CAP_TOP + 1, y1: CAP_TOP + 4,
+      z0: s < 0 ? -Z_IN : Z_IN - 4, z1: s < 0 ? -(Z_IN - 4) : Z_IN } }),
+    'Oberseite der Wandpfeiler-Kapitelle unter dem Gewölbeansatz: kein Standplatz');
+  }
+  ctx.unzugaenglich(luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), NAVE_TOP_Y + 2, 0]),
+    box: { x0: XW, x1: XE + 4, y0: NAVE_SPRING_Y, y1: N.roofRidgeY + 6, z0: -CLE_Z1 - 1, z1: CLE_Z1 + 1 } }), DACH);
 }
 
 module.exports = { module: 1, build, PORTAL_BAY, BAY_CENTER, XW, XE };

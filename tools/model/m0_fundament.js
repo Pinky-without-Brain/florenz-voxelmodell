@@ -132,8 +132,14 @@ function build(ctx) {
   const langhaus = ctx.part('boden_langhaus');
   const cosm = ctx.patterns.cosmati({ center: [C.nave.interiorWestX, -C.nave.interiorHalfZ], cell: 8 });
   const inNaveInterior = (x, z) => x >= C.nave.interiorWestX && Math.abs(z) <= C.nave.interiorHalfZ;
-  langhaus.fill(area(NAVE_X0, NAVE_X1, -NAVE_HALF_Z, NAVE_HALF_Z, inNave),
+  // Abgang zur Krypta (B5): Treppenloch und oberste Stufe in der Bodenplatte (Treppe sonst in Modul 9)
+  const { stufen: kStufen, loch: kLoch } = require('./m9_innenraum.js').abgang();
+  const kTop = kStufen.filter((c) => c.y === FLOOR_Y);
+  const kFrei = new Set([...kLoch, ...kTop].map((c) => c.x + ',' + c.z));
+  langhaus.fill(area(NAVE_X0, NAVE_X1, -NAVE_HALF_Z, NAVE_HALF_Z, (x, z) => inNave(x, z) && !kFrei.has(x + ',' + z)),
     (x, y, z) => (inNaveInterior(x, z) ? cosm(x, y, z) : 'stone_bricks'));
+  const kTreppe = ctx.part('krypta_abgang');
+  for (const c of kTop) kTreppe.set(c.x, c.y, c.z, c.typ);
 
   // 3 Vierung: ganzer Ostkomplex, Achteckbänder
   const vierung = ctx.part('boden_vierung', { symmetry: { order: 8, cx: 0, cz: 0 } });
@@ -157,6 +163,21 @@ function build(ctx) {
   bapt.fill(area(BAPT.centerX - BAPT_A, BAPT.centerX + BAPT_A, -BAPT_A, BAPT_A, inBaptOct), baptisteriumPattern);
   bapt.fillUnion(area(BAPT.scarsella.westX, BAPT.centerX, -BAPT.scarsella.halfZ, BAPT.scarsella.halfZ,
     inScarsella), baptisteriumPattern);
+
+  // 9 Außenstufen (B5): je eine Stufe aus Marmor-Treppenblöcken vor den Eingängen, vom Platz (Y 63) auf den
+  // Fußboden (Oberkante Y 64): Sagrato vor der Westfassade, Seitenportale, Baptisterium Nord/Süd, Campanile Ost
+  const stufen = ctx.part('aussenstufen');
+  const st = (dir) => ctx.palette.treppe('marmor_weiss', dir);
+  const { BAY_CENTER, PORTAL_BAY } = require('./m1_langhaus.js');
+  for (let z = -NAVE_HALF_Z; z <= NAVE_HALF_Z; z++) stufen.set(NAVE_X0 - 1, FLOOR_Y, z, st('o'));
+  for (const [s, k] of [[-1, PORTAL_BAY.nord], [1, PORTAL_BAY.sued]]) {
+    const c = BAY_CENTER[k];
+    for (let x = c - 6; x <= c + 6; x++) stufen.set(x, FLOOR_Y, s * (NAVE_HALF_Z + 1), st(s < 0 ? 's' : 'n'));
+  }
+  for (const s of [-1, 1]) {
+    for (let dx = -7; dx <= 7; dx++) stufen.set(BAPT.centerX + dx, FLOOR_Y, BAPT.centerZ + s * (BAPT_A + 1), st(s < 0 ? 's' : 'n'));
+  }
+  for (let dz = -4; dz <= 4; dz++) stufen.set(CAMP.centerX + CAMP.half + 1, FLOOR_Y, CAMP.centerZ + dz, st('w'));
 }
 
 module.exports = { module: 0, build, footprint };
