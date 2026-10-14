@@ -405,7 +405,7 @@ function buildTribuneLocal() {
       const dy = y - OB_CY;
       const d2 = q * q + dy * dy;
       if (d2 <= OB_R * OB_R + OB_R) {
-        if (p >= 21.5 && p < 22.5) out.obergaden.push([a, y, w, GLASS_OCULUS[k]]);
+        if (ext || p >= OB_P1 - 1.5) out.obergaden.push([a, y, w, GLASS_OCULUS[k]]); // B5: Glas in den äußeren Lagen (dicht, keine Laibung außen)
         continue;
       }
       if (d2 <= (OB_R + 1) * (OB_R + 1) + (OB_R + 1) && (p < 20.5 || p >= OB_P1 - 0.5)) {
@@ -571,6 +571,11 @@ function build(ctx) {
     ctx.unzugaenglich(luftRaum(ctx, { seeds, box: { x0: Math.min(...xs), x1: Math.max(...xs), y0: VAULT_SPRING_Y, y1: R2_Y1 + 1,
       z0: Math.min(...zs), z1: Math.max(...zs) } }),
     'Dachraum zwischen Tribunengewölbe und Dach: leerer Raum ohne Bedeutung, im Original nur über Luken erreichbar');
+    // Dachraum über den Kapellen (unter dem Pultdach der Kapellen)
+    const kSeeds = NORMALS.map(([nd, nw]) => { const [x, z] = t.toXZ(Math.round(TC + nd * 30), Math.round(nw * 30)); return [x, CHAPEL_TOP_Y + 1, z]; });
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: kSeeds, box: { x0: Math.min(...xs), x1: Math.max(...xs), y0: CHAPEL_TOP_Y + 1, y1: R1_Y0 + 1,
+      z0: Math.min(...zs), z1: Math.max(...zs) } }),
+    'Dachraum zwischen den Kapellengewölben und dem Pultdach: leerer Raum ohne Bedeutung');
   }
 
   // ---- 16 Eckbauten -------------------------------------------------------------
@@ -604,6 +609,28 @@ function build(ctx) {
     ctx.unzugaenglich(luftRaum(ctx, { seeds: cells.map(([x, z]) => [x, ECK_ROOM_TOP_Y, z]),
       box: { x0: Math.min(...xs), x1: Math.max(...xs), y0: SAK_SPRING_Y, y1: ECK_ROOM_TOP_Y, z0: Math.min(...zs), z1: Math.max(...zs) } }),
     'Zwickel über dem Sakristeigewölbe unter der Deckenplatte: kein Raum');
+  }
+
+  // ---- 16b Abschluss der Kapellen-Dachräume (B5): wo der Eckbau (Dach Y 104) niedriger ist, ist der Dachraum
+  //      über den Kapellen zur Vierung hin offen; die Randzellen des Dachraums werden Mauer
+  const abschluss = ctx.part('kapellendach_abschluss');
+  for (const key of ['nord', 'ost', 'sued']) {
+    const t = TRIBUNES[key];
+    const ecken = [[RING_OUT, -TA], [RING_OUT, TA], [TC + TA, -TA], [TC + TA, TA]].map(([a, w]) => t.toXZ(a, w));
+    const xs = ecken.map((e) => e[0]), zs = ecken.map((e) => e[1]);
+    const kSeeds = NORMALS.map(([nd, nw]) => { const [x, z] = t.toXZ(Math.round(TC + nd * 30), Math.round(nw * 30)); return [x, CHAPEL_TOP_Y + 1, z]; });
+    const raum = luftRaum(ctx, { seeds: kSeeds, box: { x0: Math.min(...xs), x1: Math.max(...xs), y0: CHAPEL_TOP_Y + 1, y1: R1_Y0 + 1,
+      z0: Math.min(...zs), z1: Math.max(...zs) } });
+    const inRaum = new Set(raum.map((c) => c.x + ',' + c.y + ',' + c.z));
+    const rand = raum.filter((c) => {
+      const [a] = t.toAW(c.x, c.z);
+      if (a > RING_OUT + 1) return false;
+      return [[1, 0], [-1, 0], [0, 1], [0, -1]].some(([dx, dz]) => {
+        const k = (c.x + dx) + ',' + c.y + ',' + (c.z + dz);
+        return !inRaum.has(k) && !ctx.grid.has(c.x + dx, c.y, c.z + dz);
+      });
+    }).sort((p, q) => p.y - q.y || p.x - q.x || p.z - q.z);
+    for (const c of rand) abschluss.set(c.x, c.y, c.z, 'stone_bricks');
   }
 
   // ---- 17 Exedra-Sockel -----------------------------------------------------------

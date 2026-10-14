@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 352.995 |
+| Blöcke | 352.992 |
 | Bauschritte | 227 |
 | Y-Bereich | 61 bis 111 |
 | X-Ausdehnung | -554 bis -331 (224 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 131.042 | 37,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 38.685 | 11,0 % |
-| Polierter Tuffstein | `polished_tuff` | 37.663 | 10,7 % |
+| Polierter Tuffstein | `polished_tuff` | 37.660 | 10,7 % |
 | Rosa Keramik | `pink_terracotta` | 32.235 | 9,1 % |
 | Tuffstein | `tuff` | 28.186 | 8,0 % |
 | Orange Keramik | `orange_terracotta` | 18.802 | 5,3 % |
@@ -86,7 +86,7 @@
 | 20 | `w495259326_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.079 | 0.145 |
 | 21 | `w495259327` | Haus w495259327 | 3.435 | 0.146–0.147 |
 | 22 | `w495259327_innen` | Haus w495259327: Innenausbau | 5 | 0.148 |
-| 23 | `w495259342` | Reihenhaus an Borgo San Lorenzo | 4.242 | 0.148–0.150 |
+| 23 | `w495259342` | Reihenhaus an Borgo San Lorenzo | 4.240 | 0.148–0.150 |
 | 24 | `w495259342_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 2.844 | 0.151–0.152 |
 | 25 | `w495259343` | Reihenhaus an Borgo San Lorenzo | 11.558 | 0.153–0.158 |
 | 26 | `w495259343_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 3.943 | 0.159–0.160 |
@@ -120,7 +120,7 @@
 | 54 | `w495261021_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 3.187 | 0.221–0.222 |
 | 55 | `w495261022` | Haus w495261022 | 1.163 | 0.223 |
 | 56 | `w495261022_innen` | Haus w495261022: Innenausbau | 841 | 0.224 |
-| 57 | `w495261025` | Reihenhaus an Borgo San Lorenzo | 2.193 | 0.225–0.226 |
+| 57 | `w495261025` | Reihenhaus an Borgo San Lorenzo | 2.192 | 0.225–0.226 |
 | 58 | `w495261025_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.731 | 0.227 |
 
 ## Bauschritte
@@ -4808,14 +4808,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.148 – Haus w495259327: Innenausbau & Reihenhaus an Borgo San Lorenzo – Teil 1/3 (Y 65–73)
 
 - **Y-Bereich:** 65 bis 73
-- **Blöcke:** 1.403
+- **Blöcke:** 1.401
 - **Bauteile:** `w495259327_innen`, `w495259342`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 963 |
+| Polierter Tuffstein | `polished_tuff` | 961 |
 | Gelbe Keramik | `yellow_terracotta` | 363 |
 | Glatter Stein | `smooth_stone` | 38 |
 | Tuffstein | `tuff` | 13 |
@@ -7519,14 +7519,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.225 – Reihenhaus an Borgo San Lorenzo – Teil 1/2 (Y 65–82)
 
 - **Y-Bereich:** 65 bis 82
-- **Blöcke:** 1.106
+- **Blöcke:** 1.105
 - **Bauteile:** `w495261025`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 567 |
+| Polierter Tuffstein | `polished_tuff` | 566 |
 | Glatter Sandstein | `smooth_sandstone` | 493 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Grüner Beton | `green_concrete` | 9 |

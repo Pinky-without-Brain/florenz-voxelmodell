@@ -17,22 +17,22 @@ Dieses Projekt vereint die Faszination eines der berühmtesten Bauwerke der Rena
 ---
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 909.019 Blöcke in 582 Bauschritten, 10 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 908.560 Blöcke in 584 Bauschritten, 10 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -347 bis 96, Y 56 bis 293, Z -96 bis 96.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
-| 0 | Fundament & Böden | 46.661 | 27 | [BAUANLEITUNG_MODUL_0.md](02_Modul_0_Fundament_und_Gelaende/BAUANLEITUNG_MODUL_0.md) |
-| 1 | Langhaus & Seitenschiffe | 174.461 | 109 | [BAUANLEITUNG_MODUL_1.md](03_Modul_1_Langhaus_und_Seitenschiffe/BAUANLEITUNG_MODUL_1.md) |
-| 2 | Die Westfassade | 24.677 | 15 | [BAUANLEITUNG_MODUL_2.md](04_Modul_2_Westfassade/BAUANLEITUNG_MODUL_2.md) |
-| 3 | Vierung & Tribunen | 349.479 | 222 | [BAUANLEITUNG_MODUL_3.md](05_Modul_3_Vierung_und_Tribunen/BAUANLEITUNG_MODUL_3.md) |
+| 0 | Fundament & Böden | 46.807 | 28 | [BAUANLEITUNG_MODUL_0.md](02_Modul_0_Fundament_und_Gelaende/BAUANLEITUNG_MODUL_0.md) |
+| 1 | Langhaus & Seitenschiffe | 176.049 | 110 | [BAUANLEITUNG_MODUL_1.md](03_Modul_1_Langhaus_und_Seitenschiffe/BAUANLEITUNG_MODUL_1.md) |
+| 2 | Die Westfassade | 22.961 | 14 | [BAUANLEITUNG_MODUL_2.md](04_Modul_2_Westfassade/BAUANLEITUNG_MODUL_2.md) |
+| 3 | Vierung & Tribunen | 348.730 | 224 | [BAUANLEITUNG_MODUL_3.md](05_Modul_3_Vierung_und_Tribunen/BAUANLEITUNG_MODUL_3.md) |
 | 4 | Der Tambour | 55.400 | 36 | [BAUANLEITUNG_MODUL_4.md](06_Modul_4_Tambour/BAUANLEITUNG_MODUL_4.md) |
 | 5 | Brunelleschis Doppelkuppel | 112.856 | 77 | [BAUANLEITUNG_MODUL_5.md](07_Modul_5_Brunelleschis_Kuppel/BAUANLEITUNG_MODUL_5.md) |
-| 6 | Die Laterne | 6.885 | 5 | [BAUANLEITUNG_MODUL_6.md](08_Modul_6_Laterne_und_Kugel/BAUANLEITUNG_MODUL_6.md) |
-| 7 | Campanile di Giotto | 69.550 | 44 | [BAUANLEITUNG_MODUL_7.md](09_Modul_7_Campanile_di_Giotto/BAUANLEITUNG_MODUL_7.md) |
-| 8 | Baptisterium San Giovanni | 62.641 | 43 | [BAUANLEITUNG_MODUL_8.md](10_Modul_8_Baptisterium_San_Giovanni/BAUANLEITUNG_MODUL_8.md) |
-| 9 | Innenraum & Krypta | 6.409 | 4 | [BAUANLEITUNG_MODUL_9.md](11_Modul_9_Innenraum_und_Krypta/BAUANLEITUNG_MODUL_9.md) |
-| | **Summe** | **909.019** | **582** | |
+| 6 | Die Laterne | 7.429 | 5 | [BAUANLEITUNG_MODUL_6.md](08_Modul_6_Laterne_und_Kugel/BAUANLEITUNG_MODUL_6.md) |
+| 7 | Campanile di Giotto | 69.447 | 43 | [BAUANLEITUNG_MODUL_7.md](09_Modul_7_Campanile_di_Giotto/BAUANLEITUNG_MODUL_7.md) |
+| 8 | Baptisterium San Giovanni | 62.413 | 43 | [BAUANLEITUNG_MODUL_8.md](10_Modul_8_Baptisterium_San_Giovanni/BAUANLEITUNG_MODUL_8.md) |
+| 9 | Innenraum & Krypta | 6.468 | 4 | [BAUANLEITUNG_MODUL_9.md](11_Modul_9_Innenraum_und_Krypta/BAUANLEITUNG_MODUL_9.md) |
+| | **Summe** | **908.560** | **584** | |
 <!-- STATISTIK:END -->
 
 ---

@@ -1,8 +1,8 @@
 # 🔔 Modul 7: Campanile di Giotto (Glockenturm)
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 69.550 Blöcke in 44 Bauschritten, Y 65 bis 233, X -215 bis -185, Z 50 bis 80.
-Schrittgröße: kleinster 352, mittlerer 1.581, größter 2.016 Blöcke.
+**Statistik (generiert):** 69.447 Blöcke in 43 Bauschritten, Y 65 bis 233, X -215 bis -185, Z 50 bis 80.
+Schrittgröße: kleinster 614, mittlerer 1.615, größter 2.016 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md)
 <!-- STATISTIK:END -->

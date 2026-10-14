@@ -1,8 +1,8 @@
 # 👑 Modul 2: Die prächtige Westfassade
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 24.677 Blöcke in 15 Bauschritten, Y 65 bis 164, X -216 bis -213, Z -44 bis 44.
-Schrittgröße: kleinster 1.252, mittlerer 1.645, größter 1.892 Blöcke.
+**Statistik (generiert):** 22.961 Blöcke in 14 Bauschritten, Y 65 bis 164, X -216 bis -213, Z -44 bis 44.
+Schrittgröße: kleinster 1.252, mittlerer 1.640, größter 1.856 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md)
 <!-- STATISTIK:END -->

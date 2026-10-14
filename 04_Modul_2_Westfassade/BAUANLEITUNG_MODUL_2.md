@@ -8,60 +8,62 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 24.677 |
-| Bauschritte | 15 |
+| Blöcke | 22.961 |
+| Bauschritte | 14 |
 | Y-Bereich | 65 bis 164 |
 | X-Ausdehnung | -216 bis -213 (4 Blöcke) |
 | Z-Ausdehnung | -44 bis 44 (89 Blöcke) |
-| Kleinster Schritt | 1.252 Blöcke (Schritt 2.9) |
-| Mittlerer Schritt | 1.645 Blöcke |
-| Größter Schritt | 1.892 Blöcke (Schritt 2.5) |
+| Kleinster Schritt | 1.252 Blöcke (Schritt 2.8) |
+| Mittlerer Schritt | 1.640 Blöcke |
+| Größter Schritt | 1.856 Blöcke (Schritt 2.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Steinziegel | `stone_bricks` | 10.666 | 43,2 % |
-| Glatter Stein | `smooth_stone` | 5.503 | 22,3 % |
-| Glatter Quarzblock | `smooth_quartz` | 3.743 | 15,2 % |
-| Polierter Granit | `polished_granite` | 1.380 | 5,6 % |
-| Dunkler Prismarin | `dark_prismarine` | 1.110 | 4,5 % |
-| Geschnittener Kupferblock | `cut_copper` | 724 | 2,9 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 642 | 2,6 % |
-| Blaue Keramik | `blue_terracotta` | 278 | 1,1 % |
-| Goldblock | `gold_block` | 197 | 0,8 % |
+| Steinziegel | `stone_bricks` | 10.418 | 45,4 % |
+| Glatter Stein | `smooth_stone` | 5.255 | 22,9 % |
+| Glatter Quarzblock | `smooth_quartz` | 3.791 | 16,5 % |
+| Dunkler Prismarin | `dark_prismarine` | 1.036 | 4,5 % |
+| Polierter Granit | `polished_granite` | 862 | 3,8 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 690 | 3,0 % |
+| Blaue Keramik | `blue_terracotta` | 278 | 1,2 % |
+| Goldblock | `gold_block` | 197 | 0,9 % |
 | Weiße Keramik | `white_terracotta` | 167 | 0,7 % |
-| Oranges Buntglas | `orange_stained_glass` | 104 | 0,4 % |
-| Gelbes Buntglas | `yellow_stained_glass` | 104 | 0,4 % |
+| Oranges Buntglas | `orange_stained_glass` | 104 | 0,5 % |
+| Gelbes Buntglas | `yellow_stained_glass` | 104 | 0,5 % |
 | Schwarzer Beton | `black_concrete` | 47 | 0,2 % |
-| Calcit | `calcite` | 12 | 0,0 % |
+| Calcit | `calcite` | 12 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `sockel` | Der Sockel der Fassade | 2.848 | 2.1–2.2 |
-| 2 | `portalzone` | Portale mit Bronzetüren | 8.917 | 2.3–2.7 |
-| 3 | `nischenzone` | Zwölf Statuennischen | 4.600 | 2.8–2.10 |
-| 4 | `rosenzone` | Fensterrose und Seitengiebel | 5.077 | 2.11–2.13 |
-| 5 | `giebel` | Der Giebel mit Tondo | 2.942 | 2.14–2.15 |
-| 6 | `facade_innenseite_uhr` | Uccellos Uhr auf der Innenseite | 293 | 2.15 |
+| 1 | `sockel` | Der Sockel der Fassade | 1.856 | 2.1 |
+| 2 | `portalzone` | Portale mit Bronzetüren | 8.193 | 2.2–2.6 |
+| 3 | `nischenzone` | Zwölf Statuennischen | 4.600 | 2.7–2.9 |
+| 4 | `rosenzone` | Fensterrose und Seitengiebel | 5.077 | 2.10–2.12 |
+| 5 | `giebel` | Der Giebel mit Tondo | 2.942 | 2.13–2.14 |
+| 6 | `facade_innenseite_uhr` | Uccellos Uhr auf der Innenseite | 293 | 2.14 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Der Sockel der Fassade – Teil 1/2 (Y 65–68)
+### Schritt 2.1 – Der Sockel der Fassade
 
-- **Y-Bereich:** 65 bis 68
-- **Blöcke:** 1.424
+- **Y-Bereich:** 65 bis 72
+- **Blöcke:** 1.856
 - **Bauteile:** `sockel`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 712 |
-| Glatter Stein | `smooth_stone` | 356 |
-| Steinziegel | `stone_bricks` | 356 |
+| Polierter Granit | `polished_granite` | 728 |
+| Glatter Stein | `smooth_stone` | 464 |
+| Steinziegel | `stone_bricks` | 464 |
+| Dunkler Prismarin | `dark_prismarine` | 104 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 48 |
+| Glatter Quarzblock | `smooth_quartz` | 48 |
 
 **Beschreibung**
 
@@ -79,53 +81,21 @@ Der Sockel ist rundum geschlossen. Die Portale beginnen erst darüber in Y 73, s
 
 Die Fassade ist mit Marmor in drei Farben verkleidet: weiß aus Carrara, grün aus Prato und rot aus der Maremma. Diese Farben tragen auch die Seitenwände des Doms.
 
-### Schritt 2.2 – Der Sockel der Fassade – Teil 2/2 (Y 69–72)
+### Schritt 2.2 – Portale mit Bronzetüren – Teil 1/5 (Y 73–79)
 
-- **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.424
-- **Bauteile:** `sockel`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Granit | `polished_granite` | 534 |
-| Glatter Stein | `smooth_stone` | 356 |
-| Steinziegel | `stone_bricks` | 356 |
-| Dunkler Prismarin | `dark_prismarine` | 178 |
-
-**Beschreibung**
-
-Du legst den Sockel der Westfassade an: vier Blöcke dick bei X −216 bis −213, über die ganze Breite von Z −44 bis 44 und von Y 65 bis 72. Außen sitzen polierter Granit, innen Steinziegel und glatter Stein; ganz oben läuft ein Band aus dunklem Prismarin.
-
-**Tipp**
-
-Baue erst die äußere Schicht bei X −216, dann nach innen bis X −213. Das dunkle Band in Y 72 setzt du zuletzt, es zeigt dir die Oberkante.
-
-**Achtung**
-
-Der Sockel ist rundum geschlossen. Die Portale beginnen erst darüber in Y 73, spare also unten keine Tür aus.
-
-**Fakt**
-
-Die Fassade ist mit Marmor in drei Farben verkleidet: weiß aus Carrara, grün aus Prato und rot aus der Maremma. Diese Farben tragen auch die Seitenwände des Doms.
-
-### Schritt 2.3 – Portale mit Bronzetüren – Teil 1/5 (Y 73–78)
-
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.764
+- **Y-Bereich:** 73 bis 79
+- **Blöcke:** 1.624
 - **Bauteile:** `portalzone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 660 |
-| Geschnittener Kupferblock | `cut_copper` | 372 |
-| Glatter Stein | `smooth_stone` | 348 |
-| Glatter Quarzblock | `smooth_quartz` | 246 |
-| Dunkler Prismarin | `dark_prismarine` | 102 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 36 |
+| Steinziegel | `stone_bricks` | 770 |
+| Glatter Stein | `smooth_stone` | 406 |
+| Glatter Quarzblock | `smooth_quartz` | 294 |
+| Dunkler Prismarin | `dark_prismarine` | 112 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 42 |
 
 **Beschreibung**
 
@@ -143,61 +113,24 @@ Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vie
 
 Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli.
 
-### Schritt 2.4 – Portale mit Bronzetüren – Teil 2/5 (Y 79–84)
+### Schritt 2.3 – Portale mit Bronzetüren – Teil 2/5 (Y 80–86)
 
-- **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.764
+- **Y-Bereich:** 80 bis 86
+- **Blöcke:** 1.776
 - **Bauteile:** `portalzone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 660 |
-| Glatter Stein | `smooth_stone` | 348 |
-| Geschnittener Kupferblock | `cut_copper` | 300 |
-| Glatter Quarzblock | `smooth_quartz` | 274 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 72 |
-| Dunkler Prismarin | `dark_prismarine` | 60 |
-| Goldblock | `gold_block` | 20 |
-| Blaue Keramik | `blue_terracotta` | 16 |
-| Polierter Granit | `polished_granite` | 14 |
-
-**Beschreibung**
-
-Du baust die Portalzone von Y 73 bis 100 und sparst drei Portalbögen aus: das große Hauptportal bei Z 0 (Halbweite 6, Kämpfer Y 88) und zwei kleinere bei Z −29 und Z 29 (Halbweite 4, Kämpfer Y 84). Die zwei äußeren Schichten bleiben als Rücksprung offen, dahinter stehen bei X −214 und −213 die Bronzetüren aus geschnittenem Kupfer. Über jeder Tür füllt ein Mosaik aus Gold und blauer Keramik die Lünette; darüber sitzt ein Giebel aus gemeißeltem Quarz.
-
-**Tipp**
-
-Setze zuerst die Wand und lass die Bögen offen. Danach fügst du Rahmen, Türen und die Mosaike ein. Die Mosaike bilden Ringe um den Kämpferpunkt, abwechselnd Gold und Blau.
-
-**Achtung**
-
-Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vier Schichten aussparst, steht die Fassade offen.
-
-**Fakt**
-
-Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli.
-
-### Schritt 2.5 – Portale mit Bronzetüren – Teil 3/5 (Y 85–90)
-
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.892
-- **Bauteile:** `portalzone`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 782 |
-| Glatter Stein | `smooth_stone` | 412 |
-| Glatter Quarzblock | `smooth_quartz` | 302 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 94 |
-| Goldblock | `gold_block` | 84 |
-| Blaue Keramik | `blue_terracotta` | 82 |
+| Steinziegel | `stone_bricks` | 778 |
+| Glatter Stein | `smooth_stone` | 410 |
+| Glatter Quarzblock | `smooth_quartz` | 312 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 78 |
 | Dunkler Prismarin | `dark_prismarine` | 70 |
-| Geschnittener Kupferblock | `cut_copper` | 52 |
-| Polierter Granit | `polished_granite` | 14 |
+| Goldblock | `gold_block` | 56 |
+| Blaue Keramik | `blue_terracotta` | 44 |
+| Polierter Granit | `polished_granite` | 28 |
 
 **Beschreibung**
 
@@ -215,23 +148,57 @@ Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vie
 
 Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli.
 
-### Schritt 2.6 – Portale mit Bronzetüren – Teil 4/5 (Y 91–95)
+### Schritt 2.4 – Portale mit Bronzetüren – Teil 3/5 (Y 87–91)
 
-- **Y-Bereich:** 91 bis 95
-- **Blöcke:** 1.724
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.630
 - **Bauteile:** `portalzone`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 817 |
-| Glatter Stein | `smooth_stone` | 417 |
-| Glatter Quarzblock | `smooth_quartz` | 265 |
-| Dunkler Prismarin | `dark_prismarine` | 106 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 57 |
-| Blaue Keramik | `blue_terracotta` | 40 |
-| Goldblock | `gold_block` | 16 |
+| Steinziegel | `stone_bricks` | 708 |
+| Glatter Stein | `smooth_stone` | 370 |
+| Glatter Quarzblock | `smooth_quartz` | 228 |
+| Dunkler Prismarin | `dark_prismarine` | 108 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 92 |
+| Blaue Keramik | `blue_terracotta` | 72 |
+| Goldblock | `gold_block` | 52 |
+
+**Beschreibung**
+
+Du baust die Portalzone von Y 73 bis 100 und sparst drei Portalbögen aus: das große Hauptportal bei Z 0 (Halbweite 6, Kämpfer Y 88) und zwei kleinere bei Z −29 und Z 29 (Halbweite 4, Kämpfer Y 84). Die zwei äußeren Schichten bleiben als Rücksprung offen, dahinter stehen bei X −214 und −213 die Bronzetüren aus geschnittenem Kupfer. Über jeder Tür füllt ein Mosaik aus Gold und blauer Keramik die Lünette; darüber sitzt ein Giebel aus gemeißeltem Quarz.
+
+**Tipp**
+
+Setze zuerst die Wand und lass die Bögen offen. Danach fügst du Rahmen, Türen und die Mosaike ein. Die Mosaike bilden Ringe um den Kämpferpunkt, abwechselnd Gold und Blau.
+
+**Achtung**
+
+Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vier Schichten aussparst, steht die Fassade offen.
+
+**Fakt**
+
+Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli.
+
+### Schritt 2.5 – Portale mit Bronzetüren – Teil 4/5 (Y 92–95)
+
+- **Y-Bereich:** 92 bis 95
+- **Blöcke:** 1.390
+- **Bauteile:** `portalzone`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 663 |
+| Glatter Stein | `smooth_stone` | 339 |
+| Glatter Quarzblock | `smooth_quartz` | 253 |
+| Dunkler Prismarin | `dark_prismarine` | 48 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 47 |
+| Blaue Keramik | `blue_terracotta` | 22 |
+| Goldblock | `gold_block` | 12 |
 | Polierter Granit | `polished_granite` | 6 |
 
 **Beschreibung**
@@ -250,7 +217,7 @@ Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vie
 
 Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli.
 
-### Schritt 2.7 – Portale mit Bronzetüren – Teil 5/5 (Y 96–100)
+### Schritt 2.6 – Portale mit Bronzetüren – Teil 5/5 (Y 96–100)
 
 - **Y-Bereich:** 96 bis 100
 - **Blöcke:** 1.773
@@ -283,7 +250,7 @@ Die Türen sind nur die hinteren zwei Schichten. Wenn du die Bögen in allen vie
 
 Die Bronzetüren des Doms entstanden um 1899 bis 1903. Die Bronzetüren entstanden nach Entwürfen von Augusto Passaglia und Giuseppe Cassioli.
 
-### Schritt 2.8 – Zwölf Statuennischen – Teil 1/3 (Y 101–105)
+### Schritt 2.7 – Zwölf Statuennischen – Teil 1/3 (Y 101–105)
 
 - **Y-Bereich:** 101 bis 105
 - **Blöcke:** 1.659
@@ -314,7 +281,7 @@ Die Nischen sind nur eine Schicht tief. Dahinter muss die Wand bei X −215 gesc
 
 Die Fassade des Doms ist mit Statuen geschmückt. Einige Figuren der älteren Fassade von Arnolfo di Cambio werden heute im Museo dell'Opera del Duomo gezeigt.
 
-### Schritt 2.9 – Zwölf Statuennischen – Teil 2/3 (Y 106–109)
+### Schritt 2.8 – Zwölf Statuennischen – Teil 2/3 (Y 106–109)
 
 - **Y-Bereich:** 106 bis 109
 - **Blöcke:** 1.252
@@ -346,7 +313,7 @@ Die Nischen sind nur eine Schicht tief. Dahinter muss die Wand bei X −215 gesc
 
 Die Fassade des Doms ist mit Statuen geschmückt. Einige Figuren der älteren Fassade von Arnolfo di Cambio werden heute im Museo dell'Opera del Duomo gezeigt.
 
-### Schritt 2.10 – Zwölf Statuennischen – Teil 3/3 (Y 110–114)
+### Schritt 2.9 – Zwölf Statuennischen – Teil 3/3 (Y 110–114)
 
 - **Y-Bereich:** 110 bis 114
 - **Blöcke:** 1.689
@@ -378,7 +345,7 @@ Die Nischen sind nur eine Schicht tief. Dahinter muss die Wand bei X −215 gesc
 
 Die Fassade des Doms ist mit Statuen geschmückt. Einige Figuren der älteren Fassade von Arnolfo di Cambio werden heute im Museo dell'Opera del Duomo gezeigt.
 
-### Schritt 2.11 – Fensterrose und Seitengiebel – Teil 1/3 (Y 115–119)
+### Schritt 2.10 – Fensterrose und Seitengiebel – Teil 1/3 (Y 115–119)
 
 - **Y-Bereich:** 115 bis 119
 - **Blöcke:** 1.649
@@ -412,7 +379,7 @@ Der Ring des Fensters reicht unten bis Y 118 und berührt dort die Uhr der Innen
 
 Die heutige Fassade stammt vom Architekten Emilio De Fabris. Sie wurde von 1876 bis 1887 gebaut, im neugotischen Stil des 19. Jahrhunderts.
 
-### Schritt 2.12 – Fensterrose und Seitengiebel – Teil 2/3 (Y 120–128)
+### Schritt 2.11 – Fensterrose und Seitengiebel – Teil 2/3 (Y 120–128)
 
 - **Y-Bereich:** 120 bis 128
 - **Blöcke:** 1.727
@@ -447,7 +414,7 @@ Der Ring des Fensters reicht unten bis Y 118 und berührt dort die Uhr der Innen
 
 Die heutige Fassade stammt vom Architekten Emilio De Fabris. Sie wurde von 1876 bis 1887 gebaut, im neugotischen Stil des 19. Jahrhunderts.
 
-### Schritt 2.13 – Fensterrose und Seitengiebel – Teil 3/3 (Y 129–140)
+### Schritt 2.12 – Fensterrose und Seitengiebel – Teil 3/3 (Y 129–140)
 
 - **Y-Bereich:** 129 bis 140
 - **Blöcke:** 1.701
@@ -482,7 +449,7 @@ Der Ring des Fensters reicht unten bis Y 118 und berührt dort die Uhr der Innen
 
 Die heutige Fassade stammt vom Architekten Emilio De Fabris. Sie wurde von 1876 bis 1887 gebaut, im neugotischen Stil des 19. Jahrhunderts.
 
-### Schritt 2.14 – Der Giebel mit Tondo – Teil 1/2 (Y 141–148)
+### Schritt 2.13 – Der Giebel mit Tondo – Teil 1/2 (Y 141–148)
 
 - **Y-Bereich:** 141 bis 148
 - **Blöcke:** 1.406
@@ -515,7 +482,7 @@ Die Fassade darf nicht über Z ±44 und nicht nach Westen über X −216 hinausr
 
 Die erste Fassade begann Arnolfo di Cambio gegen Ende des 13. Jahrhunderts. Sie blieb unvollendet und wurde 1587 abgebrochen, bevor die heutige Fassade entstand.
 
-### Schritt 2.15 – Der Giebel mit Tondo – Teil 2/2 (Y 149–164) & Uccellos Uhr auf der Innenseite
+### Schritt 2.14 – Der Giebel mit Tondo – Teil 2/2 (Y 149–164) & Uccellos Uhr auf der Innenseite
 
 - **Y-Bereich:** 100 bis 164
 - **Blöcke:** 1.829

@@ -340,12 +340,23 @@ function build(ctx) {
 
   // 12 Bewusst unzugänglich (B5): Dachräume über den Gewölben, Mauerkronen und Kapitelle
   const DACH = 'Dachraum zwischen Gewölbe und Dach: leerer Raum ohne Bedeutung, im Original nur über Luken erreichbar; bleibt im Modell geschlossen';
+  // Ostgiebel (B5): Über dem Dach der Eckbauten (Y 104) sind Seitenschiff und Dachraum am Ostende offen;
+  // eine Wand in x = XE schließt sie überall dort, wo östlich nichts anschließt
+  const giebel = ctx.part('ostgiebel_seitenschiffe');
   for (const s of sides) {
-    ctx.unzugaenglich(luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), N.aisleVaultY + 1, s * 30]),
-      box: { x0: XW, x1: XE, y0: AISLE_SPRING_Y, y1: ROOF_AISLE_HIGH, z0: s < 0 ? -Z_EXT : AISLE_Z0, z1: s < 0 ? -AISLE_Z0 : Z_EXT } }), DACH);
-    ctx.unzugaenglich(luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), ARC_WALL_TOP + 1, s * ARC_Z1]),
-      box: { x0: XW, x1: XE + 4, y0: ARC_WALL_TOP, y1: N.clerestoryTopY, z0: s < 0 ? -(ARC_Z1 + 2) : ARC_Z1, z1: s < 0 ? -ARC_Z1 : ARC_Z1 + 2 } }),
-    'Mauerkrone der Arkadenwand neben der Hochschiffwand, unter dem Kranzgesims: kein Raum, nur über das Dach erreichbar');
+    for (let y = Y0; y <= ROOF_AISLE_HIGH; y++) for (let az = AISLE_Z0; az <= Z_EXT; az++) {
+      const z = s * az;
+      if (!ctx.grid.has(XE, y, z) && !ctx.grid.has(XE + 1, y, z)) giebel.set(XE, y, z, az === Z_IN + 1 ? 'smooth_stone' : 'stone_bricks');
+    }
+  }
+  for (const s of sides) {
+    const dachraum = luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), N.aisleVaultY + 1, s * 30]),
+      box: { x0: XW, x1: XE, y0: AISLE_SPRING_Y, y1: ROOF_AISLE_HIGH, z0: s < 0 ? -Z_EXT : AISLE_Z0, z1: s < 0 ? -AISLE_Z0 : Z_EXT } });
+    ctx.unzugaenglich(dachraum, DACH);
+    const krone = luftRaum(ctx, { seeds: BAY_CENTER.map((c) => [Math.round(c), ARC_WALL_TOP + 1, s * ARC_Z1]),
+      box: { x0: XW, x1: XE + 4, y0: ARC_WALL_TOP, y1: N.clerestoryTopY, z0: s < 0 ? -(ARC_Z1 + 2) : ARC_Z1, z1: s < 0 ? -ARC_Z1 : ARC_Z1 + 2 } });
+    ctx.unzugaenglich(krone, 'Mauerkrone der Arkadenwand neben der Hochschiffwand, unter dem Kranzgesims: kein Raum, nur über das Dach erreichbar');
+    ctx.oeffnung(krone, 'loggia'); // außen, nur vom Kranzgesims überdeckt
     const kap = [];
     for (let k = 1; k < N.bays; k++) kap.push([px(k), CAP_TOP + 1, s * (Z_IN - 1)]);
     ctx.unzugaenglich(luftRaum(ctx, { seeds: kap, box: { x0: XW, x1: XE, y0: CAP_TOP + 1, y1: CAP_TOP + 4,

@@ -2,7 +2,7 @@
 
 # Materialliste und Blockpalette
 
-Alle 53 erlaubten Vollblocktypen des Modells, gruppiert nach Rolle, dazu 20 Treppenmaterialien mit je 8 Typen (4 Ausrichtungen, jeweils normal und umgedreht; Rolle `treppe`). Das Modell besteht aus 909.019 Blöcken; es werden volle Würfelblöcke und Treppenblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
+Alle 53 erlaubten Vollblocktypen des Modells, gruppiert nach Rolle, dazu 20 Treppenmaterialien mit je 8 Typen (4 Ausrichtungen, jeweils normal und umgedreht; Rolle `treppe`). Das Modell besteht aus 908.560 Blöcken; es werden volle Würfelblöcke und Treppenblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
 
 Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde di Prato, Rot für Rosso di Maremma. Die Dächer und die Kuppel tragen das Terrakotta-Rot der florentinischen Dachlinie.
 
@@ -10,26 +10,26 @@ Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde d
 
 | Rolle | Blocktypen | Blöcke | Anteil |
 | :--- | ---: | ---: | ---: |
-| Weißer Marmor (Bianco di Carrara) | 2 | 134.464 | 14,8 % |
-| Gemeißelter weißer Marmor | 1 | 10.329 | 1,1 % |
+| Weißer Marmor (Bianco di Carrara) | 2 | 134.914 | 14,8 % |
+| Gemeißelter weißer Marmor | 1 | 10.409 | 1,1 % |
 | Marmorsäulen | 1 | 2.264 | 0,2 % |
-| Weißer Marmor, Variante | 1 | 2.996 | 0,3 % |
-| Grüner Marmor (Verde di Prato) | 1 | 42.008 | 4,6 % |
-| Roter Marmor (Rosso di Maremma) | 1 | 16.286 | 1,8 % |
+| Weißer Marmor, Variante | 1 | 2.944 | 0,3 % |
+| Grüner Marmor (Verde di Prato) | 1 | 41.817 | 4,6 % |
+| Roter Marmor (Rosso di Maremma) | 1 | 15.680 | 1,7 % |
 | Roter Marmor, Variante | 1 | 0 | 0,0 % |
-| Mauerwerk | 1 | 333.878 | 36,7 % |
-| Pietra serena | 1 | 209.244 | 23,0 % |
-| Pietra forte | 1 | 4.463 | 0,5 % |
+| Mauerwerk | 1 | 335.614 | 36,9 % |
+| Pietra serena | 1 | 207.830 | 22,9 % |
+| Pietra forte | 1 | 4.127 | 0,5 % |
 | Kuppelziegel | 1 | 59.300 | 6,5 % |
 | Dachziegel | 1 | 56.926 | 6,3 % |
 | Dunkler Kontraststein | 1 | 23 | 0,0 % |
 | Antikes Mauerwerk | 2 | 10.833 | 1,2 % |
 | Holz | 1 | 130 | 0,0 % |
-| Gold | 1 | 1.796 | 0,2 % |
-| Bronze und Kupfer | 1 | 2.207 | 0,2 % |
-| Licht | 1 | 0 | 0,0 % |
-| Buntglas | 6 | 5.419 | 0,6 % |
-| Freskenfarben | 9 | 16.453 | 1,8 % |
+| Gold | 1 | 1.793 | 0,2 % |
+| Bronze und Kupfer | 1 | 522 | 0,1 % |
+| Licht | 1 | 384 | 0,0 % |
+| Buntglas | 6 | 6.106 | 0,7 % |
+| Freskenfarben | 9 | 16.439 | 1,8 % |
 | Putz gelb | 1 | 0 | 0,0 % |
 | Putz rosa | 1 | 0 | 0,0 % |
 | Putz sand | 1 | 0 | 0,0 % |
@@ -48,8 +48,8 @@ Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde d
 | Baumkronen | 1 | 0 | 0,0 % |
 | Baumstämme | 1 | 0 | 0,0 % |
 | Wasser | 1 | 0 | 0,0 % |
-| Treppen | 20 Materialien | 0 | 0,0 % |
-| **Summe** | **53** | **909.019** | **100,0 %** |
+| Treppen | 20 Materialien | 505 | 0,1 % |
+| **Summe** | **53** | **908.560** | **100,0 %** |
 
 ## Weißer Marmor (Bianco di Carrara)
 
@@ -57,7 +57,7 @@ Verkleidung, Pilaster, Rippen und Gesimse. (Rolle `marmor_weiss`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock |`smooth_quartz` | 128.627 | 14,2 % |
+| Glatter Quarzblock |`smooth_quartz` | 129.077 | 14,2 % |
 | Quarzziegel |`quartz_bricks` | 5.837 | 0,6 % |
 
 ## Gemeißelter weißer Marmor
@@ -66,7 +66,7 @@ Gesimse, Schlusssteine und Zierbänder. (Rolle `marmor_ornament`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gemeißelter Quarzblock |`chiseled_quartz` | 10.329 | 1,1 % |
+| Gemeißelter Quarzblock |`chiseled_quartz` | 10.409 | 1,1 % |
 
 ## Marmorsäulen
 
@@ -82,7 +82,7 @@ Calcit für Balustraden, Statuen und Maßwerk. (Rolle `marmor_weiss_alt`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Calcit |`calcite` | 2.996 | 0,3 % |
+| Calcit |`calcite` | 2.944 | 0,3 % |
 
 ## Grüner Marmor (Verde di Prato)
 
@@ -90,7 +90,7 @@ Streifen, Rauten und Rahmen. (Rolle `marmor_gruen`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Dunkler Prismarin |`dark_prismarine` | 42.008 | 4,6 % |
+| Dunkler Prismarin |`dark_prismarine` | 41.817 | 4,6 % |
 
 ## Roter Marmor (Rosso di Maremma)
 
@@ -98,7 +98,7 @@ Rautenfelder, Rosetten und Akzente. (Rolle `marmor_rot`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Granit |`polished_granite` | 16.286 | 1,8 % |
+| Polierter Granit |`polished_granite` | 15.680 | 1,7 % |
 
 ## Roter Marmor, Variante
 
@@ -114,7 +114,7 @@ Tragende Wandkerne und Fundament. (Rolle `mauerwerk`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Steinziegel |`stone_bricks` | 333.878 | 36,7 % |
+| Steinziegel |`stone_bricks` | 335.614 | 36,9 % |
 
 ## Pietra serena
 
@@ -122,7 +122,7 @@ Innenseiten der Wände, Pfeiler und Treppen. (Rolle `pietra_serena`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein |`smooth_stone` | 209.244 | 23,0 % |
+| Glatter Stein |`smooth_stone` | 207.830 | 22,9 % |
 
 ## Pietra forte
 
@@ -130,7 +130,7 @@ Kapitelle, Gesimse und Auflager. (Rolle `pietra_forte`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit |`polished_andesite` | 4.463 | 0,5 % |
+| Polierter Andesit |`polished_andesite` | 4.127 | 0,5 % |
 
 ## Kuppelziegel
 
@@ -179,7 +179,7 @@ Kugel, Kreuz, Mosaike und Glocken. (Rolle `gold`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Goldblock |`gold_block` | 1.796 | 0,2 % |
+| Goldblock |`gold_block` | 1.793 | 0,2 % |
 
 ## Bronze und Kupfer
 
@@ -187,7 +187,7 @@ Bronzetüren und Zierteile. (Rolle `bronze`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Geschnittener Kupferblock |`cut_copper` | 2.207 | 0,2 % |
+| Geschnittener Kupferblock |`cut_copper` | 522 | 0,1 % |
 
 ## Licht
 
@@ -195,7 +195,7 @@ Leuchtende Fenster und Lichtquellen. (Rolle `licht`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Seelaterne |`sea_lantern` | 0 | 0,0 % |
+| Seelaterne |`sea_lantern` | 384 | 0,0 % |
 
 ## Buntglas
 
@@ -203,10 +203,10 @@ Fenster und Ochsenaugen. (Rolle `glas`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißes Buntglas |`white_stained_glass` | 2.207 | 0,2 % |
+| Weißes Buntglas |`white_stained_glass` | 2.375 | 0,3 % |
+| Gelbes Buntglas |`yellow_stained_glass` | 1.310 | 0,1 % |
 | Blaues Buntglas |`blue_stained_glass` | 1.102 | 0,1 % |
-| Gelbes Buntglas |`yellow_stained_glass` | 977 | 0,1 % |
-| Oranges Buntglas |`orange_stained_glass` | 728 | 0,1 % |
+| Oranges Buntglas |`orange_stained_glass` | 914 | 0,1 % |
 | Hellblaues Buntglas |`light_blue_stained_glass` | 270 | 0,0 % |
 | Rotes Buntglas |`red_stained_glass` | 135 | 0,0 % |
 
@@ -218,7 +218,7 @@ Kuppelfresko und Uccello-Uhr. (Rolle `fresko`)
 | :--- | :--- | ---: | ---: |
 | Weiße Keramik |`white_terracotta` | 2.476 | 0,3 % |
 | Schwarzer Beton |`black_concrete` | 2.363 | 0,3 % |
-| Rote Keramik |`red_terracotta` | 2.255 | 0,2 % |
+| Rote Keramik |`red_terracotta` | 2.241 | 0,2 % |
 | Braune Keramik |`brown_terracotta` | 2.240 | 0,2 % |
 | Gelbe Keramik (auch: `putz_ocker`) |`yellow_terracotta` | 2.096 | 0,2 % |
 | Blaue Keramik |`blue_terracotta` | 2.087 | 0,2 % |
@@ -376,24 +376,24 @@ Treppenblöcke mit Ausrichtung des Aufstiegs (Norden, Osten, Süden, Westen), au
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
+| Treppe aus poliertem Andesit (4 Richtungen, normal und umgedreht) | `polished_andesite_stairs@n\|o\|s\|w[_oben]` | 320 | 0,0 % |
+| Treppe aus glattem Quarz (4 Richtungen, normal und umgedreht) | `smooth_quartz_stairs@n\|o\|s\|w[_oben]` | 154 | 0,0 % |
+| Bruchsteintreppe (4 Richtungen, normal und umgedreht) | `cobblestone_stairs@n\|o\|s\|w[_oben]` | 17 | 0,0 % |
+| Steintreppe (4 Richtungen, normal und umgedreht) | `stone_stairs@n\|o\|s\|w[_oben]` | 14 | 0,0 % |
 | Ziegeltreppe (4 Richtungen, normal und umgedreht) | `brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
-| Bruchsteintreppe (4 Richtungen, normal und umgedreht) | `cobblestone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus geschnittenem Kupfer (4 Richtungen, normal und umgedreht) | `cut_copper_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Schwarzeichentreppe (4 Richtungen, normal und umgedreht) | `dark_oak_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus dunklem Prismarin (4 Richtungen, normal und umgedreht) | `dark_prismarine_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Endsteinziegeltreppe (4 Richtungen, normal und umgedreht) | `end_stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus bemoosten Steinziegeln (4 Richtungen, normal und umgedreht) | `mossy_stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
-| Treppe aus poliertem Andesit (4 Richtungen, normal und umgedreht) | `polished_andesite_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus poliertem Tiefenschiefer (4 Richtungen, normal und umgedreht) | `polished_deepslate_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus poliertem Granit (4 Richtungen, normal und umgedreht) | `polished_granite_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus poliertem Tuffstein (4 Richtungen, normal und umgedreht) | `polished_tuff_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Quarztreppe (4 Richtungen, normal und umgedreht) | `quartz_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus rotem Sandstein (4 Richtungen, normal und umgedreht) | `red_sandstone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
-| Treppe aus glattem Quarz (4 Richtungen, normal und umgedreht) | `smooth_quartz_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus glattem Sandstein (4 Richtungen, normal und umgedreht) | `smooth_sandstone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Fichtentreppe (4 Richtungen, normal und umgedreht) | `spruce_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Steinziegeltreppe (4 Richtungen, normal und umgedreht) | `stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
-| Steintreppe (4 Richtungen, normal und umgedreht) | `stone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Tuffziegeltreppe (4 Richtungen, normal und umgedreht) | `tuff_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Tuffsteintreppe (4 Richtungen, normal und umgedreht) | `tuff_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 

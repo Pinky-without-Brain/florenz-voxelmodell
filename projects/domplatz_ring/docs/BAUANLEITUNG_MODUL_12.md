@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 41.107 |
+| Blöcke | 41.099 |
 | Bauschritte | 25 |
 | Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | -101 bis -26 (76 Blöcke) |
@@ -23,8 +23,8 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 13.247 | 32,2 % |
 | Weißer Beton | `white_concrete` | 10.082 | 24,5 % |
-| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,4 % |
-| Polierter Tuffstein | `polished_tuff` | 3.738 | 9,1 % |
+| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,5 % |
+| Polierter Tuffstein | `polished_tuff` | 3.730 | 9,1 % |
 | Tuffstein | `tuff` | 2.109 | 5,1 % |
 | Polierter Andesit | `polished_andesite` | 1.843 | 4,5 % |
 | Graues Buntglas | `gray_stained_glass` | 1.273 | 3,1 % |
@@ -59,7 +59,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1594404` | Reihenhaus an Via della Canonica | 15.404 | 12.1–12.9 |
 | 2 | `r1594404_innen` | Reihenhaus an Via della Canonica: Innenausbau | 4.328 | 12.10–12.12 |
-| 3 | `w114220146` | Palazzo dei Canonici | 13.540 | 12.13–12.20 |
+| 3 | `w114220146` | Palazzo dei Canonici | 13.532 | 12.13–12.20 |
 | 4 | `w114220146_innen` | Palazzo dei Canonici: Innenausbau | 2.743 | 12.21–12.22 |
 | 5 | `w307544507` | Torre dei Pierozzi | 3.679 | 12.23–12.24 |
 | 6 | `w307544507_innen` | Torre dei Pierozzi: Innenausbau | 1.413 | 12.25 |
@@ -465,14 +465,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 12.13 – Palazzo dei Canonici – Teil 1/8 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.666
+- **Blöcke:** 1.658
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.587 |
+| Polierter Tuffstein | `polished_tuff` | 1.579 |
 | Tuffstein | `tuff` | 41 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 38 |
 

@@ -282,7 +282,37 @@ function pruefeDichtheit(R, opts) {
   const o18 = N18.map(off), o6 = N6.map(off);
   // Innenluft: Luft in Gebäudesäulen unterhalb der obersten festen Zelle der Säule, nicht gesperrt
   const istInnen = (i, c, yi) => occ[i] === 0 && sperre[i] === 0 && inCol[c] === 1 && yi <= colTop[c];
-  const istAussen = (i, c, yi) => occ[i] === 0 && sperre[i] === 0 && (inCol[c] === 0 || yi > colTop[c]);
+  const istAussenRoh = (i, c, yi) => occ[i] === 0 && sperre[i] === 0 && (inCol[c] === 0 || yi > colTop[c]);
+  // Außenluft zählt nur, wenn sie über Außenluft (6er) mit dem Rand des Rasters verbunden ist: versiegelte
+  // Hohlräume außerhalb der Maske (z. B. Hohlkerne im Mauerwerk) sind keine Außenluft
+  const aussen = new Uint8Array(N);
+  {
+    let q = new Int32Array(1 << 16), qt = 0, qh = 0;
+    const add = (j) => {
+      if (aussen[j]) return;
+      if (qt === q.length) { const nq = new Int32Array(q.length * 2); nq.set(q); q = nq; }
+      aussen[j] = 1; q[qt++] = j;
+    };
+    for (let xi = 0; xi < Xn; xi++) for (let zi = 0; zi < Zn; zi++) {
+      const c = xi * Zn + zi, base = c * Yn;
+      const rand = xi === 0 || zi === 0 || xi === Xn - 1 || zi === Zn - 1;
+      for (let yi = 0; yi < Yn; yi++) {
+        if ((rand || yi === Yn - 1) && istAussenRoh(base + yi, c, yi)) add(base + yi);
+      }
+    }
+    while (qh < qt) {
+      const i = q[qh++];
+      const yi = i % Yn, c = (i - yi) / Yn, zi = c % Zn, xi = (c - zi) / Zn;
+      for (const n of N6) {
+        const x2 = xi + n[0], y2 = yi + n[1], z2 = zi + n[2];
+        if (x2 < 0 || x2 >= Xn || y2 < 0 || y2 >= Yn || z2 < 0 || z2 >= Zn) continue;
+        const c2 = x2 * Zn + z2, j = c2 * Yn + y2;
+        if (!aussen[j] && istAussenRoh(j, c2, y2)) add(j);
+      }
+    }
+  }
+  const istAussen = (i) => aussen[i] === 1;
+  const aussenVon = new Map(); // Eintrittszelle -> eine benachbarte Außenluftzelle (für Berichte)
   const floods = [];
   for (const [offs, nbr] of [[o6, N6], [o18, N18]]) {
     const reached = new Uint8Array(N);
@@ -306,7 +336,7 @@ function pruefeDichtheit(R, opts) {
             const nj = nbr[k];
             const c2 = c + nj[0] * Zn + nj[2];
             const y2 = yi + nj[1];
-            if (istAussen(j, c2, y2)) { push(i); eintritt.push(i); break; }
+            if (istAussen(j, c2, y2)) { push(i); eintritt.push(i); if (!aussenVon.has(i)) aussenVon.set(i, j); break; }
           }
         }
       }
@@ -360,6 +390,8 @@ function pruefeDichtheit(R, opts) {
       }
     }
     const e = koord(comp[0]);
+    const aj = aussenVon.get(comp[0]);
+    const a = aj === undefined ? null : koord(aj);
     let bx0 = Infinity, bx1 = -Infinity, by0 = Infinity, by1 = -Infinity, bz0 = Infinity, bz1 = -Infinity;
     for (const i of comp) {
       const c = koord(i);
@@ -367,7 +399,8 @@ function pruefeDichtheit(R, opts) {
       if (c.y < by0) by0 = c.y; if (c.y > by1) by1 = c.y;
       if (c.z < bz0) bz0 = c.z; if (c.z > bz1) bz1 = c.z;
     }
-    cluster.push({ zellen: comp.length, diagonal: diag, beispiel: `(${e.x},${e.y},${e.z})`, bauteile: haeufigste(teile, 2),
+    cluster.push({ zellen: comp.length, diagonal: diag, beispiel: `(${e.x},${e.y},${e.z})`,
+      aussen: a ? `(${a.x},${a.y},${a.z})` : null, bauteile: haeufigste(teile, 2),
       bbox: { x: [bx0, bx1], y: [by0, by1], z: [bz0, bz1] } });
   }
   cluster.sort((a, b) => b.zellen - a.zellen);

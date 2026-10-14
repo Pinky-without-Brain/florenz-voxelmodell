@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 6.885 |
+| Blöcke | 7.429 |
 | Bauschritte | 5 |
 | Y-Bereich | 247 bis 293 |
 | X-Ausdehnung | -14 bis 14 (29 Blöcke) |
 | Z-Ausdehnung | -14 bis 14 (29 Blöcke) |
-| Kleinster Schritt | 649 Blöcke (Schritt 6.5) |
-| Mittlerer Schritt | 1.377 Blöcke |
+| Kleinster Schritt | 672 Blöcke (Schritt 6.2) |
+| Mittlerer Schritt | 1.486 Blöcke |
 | Größter Schritt | 1.904 Blöcke (Schritt 6.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 4.933 | 71,6 % |
-| Weißes Buntglas | `white_stained_glass` | 808 | 11,7 % |
-| Quarzsäule | `quartz_pillar` | 672 | 9,8 % |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 288 | 4,2 % |
-| Goldblock | `gold_block` | 184 | 2,7 % |
+| Glatter Quarzblock | `smooth_quartz` | 5.445 | 73,3 % |
+| Weißes Buntglas | `white_stained_glass` | 808 | 10,9 % |
+| Quarzsäule | `quartz_pillar` | 672 | 9,0 % |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 320 | 4,3 % |
+| Goldblock | `gold_block` | 184 | 2,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -34,7 +34,7 @@
 | 1 | `laternen_sockel` | Der Sockel der Laterne | 1.784 | 6.1 |
 | 2 | `voluten` | Die Voluten: Stützen mit Schwung | 672 | 6.2 |
 | 3 | `tempel` | Der Tempel mit den Fenstern | 3.780 | 6.3–6.4 |
-| 4 | `kegeldach` | Das Kegeldach | 465 | 6.5 |
+| 4 | `kegeldach` | Das Kegeldach | 1.009 | 6.5 |
 | 5 | `kugel_und_kreuz` | Die goldene Kugel und das Kreuz | 184 | 6.5 |
 
 ## Bauschritte
@@ -159,16 +159,16 @@ Die Laterne ist achteckig wie die Kuppel selbst. Mit ihren Fenstern lässt sie L
 ### Schritt 6.5 – Das Kegeldach & Die goldene Kugel und das Kreuz
 
 - **Y-Bereich:** 275 bis 293
-- **Blöcke:** 649
+- **Blöcke:** 1.193
 - **Bauteile:** `kegeldach`, `kugel_und_kreuz`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 425 |
+| Glatter Quarzblock | `smooth_quartz` | 937 |
 | Goldblock | `gold_block` | 184 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 40 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 72 |
 
 **Beschreibung**
 

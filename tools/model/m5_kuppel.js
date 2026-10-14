@@ -168,6 +168,11 @@ function build(ctx) {
   for (const c of byY.get(yTop)) if (rho(c.x, c.z) > RING_RHO_MAX) ringCells.push({ x: c.x, y: ringY0, z: c.z });
   const bandY = ringY0 + RING_BAND_Y_OFFSET;
   ring.fill(ringCells, (x, y) => (y === bandY ? 'polished_granite' : 'smooth_quartz'));
+
+  // B5: Zwischenraum der Schalen ist im Modell nur 2 Blöcke breit und durch Rippen und Ringketten in Kammern
+  // geteilt; der Kuppelaufstieg wird nicht modelliert (Entscheidung des Nutzers, 14.10.2026)
+  ctx.unzugaenglich(gapCells.filter((c) => !mat.has(key(c.x, c.y, c.z))),
+    'Zwischenraum der Doppelkuppel: Kammern zwischen Rippen und Ringketten, Kuppelaufstieg nicht modelliert');
 }
 
 module.exports = {

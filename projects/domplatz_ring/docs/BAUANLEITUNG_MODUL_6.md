@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 79.571 |
+| Blöcke | 79.570 |
 | Bauschritte | 52 |
 | Y-Bereich | 66 bis 112 |
 | X-Ausdehnung | -244 bis -137 (108 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 25.860 | 32,5 % |
 | Endsteinziegel | `end_stone_bricks` | 15.931 | 20,0 % |
-| Polierter Tuffstein | `polished_tuff` | 6.862 | 8,6 % |
+| Polierter Tuffstein | `polished_tuff` | 6.861 | 8,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 6.461 | 8,1 % |
 | Weißer Beton | `white_concrete` | 5.412 | 6,8 % |
 | Rosa Keramik | `pink_terracotta` | 5.264 | 6,6 % |
@@ -83,7 +83,7 @@
 | 20 | `w542315428_innen` | Reihenhaus an Piazza del Giglio: Innenausbau | 1.494 | 6.38 |
 | 21 | `w542315429` | Reihenhaus an Via Sant'Elisabetta | 4.321 | 6.39–6.41 |
 | 22 | `w542315429_innen` | Reihenhaus an Via Sant'Elisabetta: Innenausbau | 1.267 | 6.42 |
-| 23 | `w682529759` | Palazzo des Cinquecento an Via dei Calzaiuoli | 13.393 | 6.43–6.49 |
+| 23 | `w682529759` | Palazzo des Cinquecento an Via dei Calzaiuoli | 13.392 | 6.43–6.49 |
 | 24 | `w682529759_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 3.584 | 6.50–6.52 |
 
 ## Bauschritte
@@ -1558,14 +1558,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.43 – Palazzo des Cinquecento an Via dei Calzaiuoli – Teil 1/7 (Y 67–69)
 
 - **Y-Bereich:** 67 bis 69
-- **Blöcke:** 1.783
+- **Blöcke:** 1.782
 - **Bauteile:** `w682529759`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.404 |
+| Polierter Tuffstein | `polished_tuff` | 1.403 |
 | Endsteinziegel | `end_stone_bricks` | 251 |
 | Tuffstein | `tuff` | 117 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |

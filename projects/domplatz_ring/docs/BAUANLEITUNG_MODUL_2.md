@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 147.280 |
+| Blöcke | 147.279 |
 | Bauschritte | 90 |
 | Y-Bereich | 65 bis 118 |
 | X-Ausdehnung | -387 bis -256 (132 Blöcke) |
@@ -24,7 +24,7 @@
 | Terrakotta | `terracotta` | 53.123 | 36,1 % |
 | Glatter Sandstein | `smooth_sandstone` | 22.464 | 15,3 % |
 | Endsteinziegel | `end_stone_bricks` | 17.290 | 11,7 % |
-| Polierter Tuffstein | `polished_tuff` | 14.199 | 9,6 % |
+| Polierter Tuffstein | `polished_tuff` | 14.198 | 9,6 % |
 | Tuffstein | `tuff` | 9.879 | 6,7 % |
 | Weißer Beton | `white_concrete` | 8.431 | 5,7 % |
 | Glatter Stein | `smooth_stone` | 4.313 | 2,9 % |
@@ -72,7 +72,7 @@
 | 6 | `w491923432_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 4.217 | 2.23–2.25 |
 | 7 | `w491923433` | Reihenhaus an Piazza degli Adimari | 8.311 | 2.26–2.30 |
 | 8 | `w491923433_innen` | Reihenhaus an Piazza degli Adimari: Innenausbau | 2.038 | 2.31 |
-| 9 | `w491923439` | Renaissance-Palazzo an Via dei Tosinghi | 19.060 | 2.32–2.42 |
+| 9 | `w491923439` | Renaissance-Palazzo an Via dei Tosinghi | 19.059 | 2.32–2.42 |
 | 10 | `w491923439_innen` | Renaissance-Palazzo an Via dei Tosinghi: Innenausbau | 5.592 | 2.43–2.46 |
 | 11 | `w491923441` | Palazzo des Cinquecento an Via Roma | 18.379 | 2.47–2.58 |
 | 12 | `w491923441_innen` | Palazzo des Cinquecento an Via Roma: Innenausbau | 4.888 | 2.59–2.62 |
@@ -1145,14 +1145,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 2.32 – Renaissance-Palazzo an Via dei Tosinghi – Teil 1/11 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.785
+- **Blöcke:** 1.784
 - **Bauteile:** `w491923439`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.514 |
+| Polierter Tuffstein | `polished_tuff` | 1.513 |
 | Tuffstein | `tuff` | 250 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 21 |
 

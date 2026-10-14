@@ -29,8 +29,8 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 
 | Projekt | Typ | Blöcke | Begehbarkeit | Stand |
 |---|---|---:|---|---|
-| `duomo` | Wahrzeichen (Dom, Campanile, Baptisterium) | 909.019 | nicht nachgerüstet (1,6 % erreichbar) | **nächstes Paket B5** |
-| `domplatz_ring` | Quartier (202 Häuser) | 2.370.843 | **pflicht**, 98,7 %, 0 Komponenten | B4 erledigt (14.10.) |
+| `duomo` | Wahrzeichen (Dom, Campanile, Baptisterium) | 908.560 | **pflicht**, 0 Komponenten, R14 0 Lücken | B5 erledigt (14.10.) |
+| `domplatz_ring` | Quartier (202 Häuser) | 2.370.822 | **pflicht**, 98,7 %, 0 Komponenten | B4 erledigt (14.10.) |
 | `uffizi` | Wahrzeichen | 736.705 | pflicht | B1 erledigt |
 | `palazzo_vecchio` | Wahrzeichen | 567.730 | pflicht | B2 erledigt |
 | `orsanmichele` | Wahrzeichen | 88.949 | pflicht | B3 erledigt |
@@ -49,14 +49,19 @@ Alle Projekte: Build OK, `--cross` 0 Konflikte, 400 Tests grün (2 übersprungen
 - `projects/domplatz_ring/project.json`: `"begehbarkeit": "pflicht"`.
 - Doku: `BEGEHBARKEIT.md` §6. Tests: `tools/test/city_innen.test.js` (7 Tests), angepasst `city_haus`, `city_quartier`, `city_poly`.
 
+### B5 Dom begehbar – **erledigt**
+Details: `20_Stadtmodell_Florenz/BEGEHBARKEIT.md` §7. Kurz: alle Portale/Türen offen, Außenstufen, Krypta-Treppe, Campanile-Treppe aus Treppenblöcken, Hohlkerne/Dachräume/Laibungen deklariert, Lecks geschlossen, Licht. **Nutzerentscheidung 14.10.2026: Kuppelaufstieg (Treppen zwischen den Schalen) wird nicht modelliert**, Zwischenraum und Laterne sind als unzugänglich deklariert. Hilfsmodul `tools/model/_luft.js` (Flutfüllung für Deklarationen). R14 geschärft (Außenluft = mit dem Rasterrand verbunden), Bericht mit `aussen`-Beispielzelle. Dom-Maske für R13/R14 = Grundriss aus Modul 0, 4 eingezogen.
+Diagnose-Skripte, die sich bewährt haben (nicht im Repo, schnell neu zu schreiben): R13-Komponenten nach Bauteil gruppieren über `laufe(ctx,'r13')` aus `tools/validate/begehbarkeit_projekt.js`; R14-Cluster mit `laufe(ctx,'r14')` (Felder `beispiel`, `aussen`).
+
 ## 5. Nächste Schritte (Priorität)
-1. **B5 Dom begehbar** (`duomo`, Module in `tools/model/m0..m9`): Freitreppe/Portale der Westfassade (Sockel `2/sockel` Y 65–72 massiv, Portale ab Y 73), Zugänge zu Langhaus, Tribünen, Baptisterium, Campanile; Krypta-Abgang; Räume über Gewölben als `unzugaenglich` oder mit Gangnetz; Kuppelumgänge und Laterne mit Treppen aus Treppenblöcken; Fenster verglasen; Licht. Danach `"begehbarkeit": "pflicht"` in der Registry (`tools/spec/projects.js` hat kein project.json → Feld dort oder in `begehbarkeit_projekt` ergänzen). Bestand: `BEGEHBARKEIT_BESTAND.md` §3.
-2. **Welle 2 Infrastruktur** (Spezifikation fertig: `wahrzeichen/UEBERSICHT_WELLE2.md` §6): W0-Erweiterungen in `project.json` (`flaechen`-Maskenquelle, `zMin/zMax`, `abzugAlle`, `gelaendeBis`), Vorrang-IDs, `data/stadt/aussparung.json`.
-3. **Stadtgrund** (S0 + Generator, Spezifikation `stadtgrund/SPEZIFIKATION.md`), Kern zuerst.
-4. **Ponte Vecchio**, dann **Palazzo Pitti** (Kataloge in `wahrzeichen/ponte_vecchio`, `wahrzeichen/palazzo_pitti`).
-5. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren, wenn sich Blockzahlen ändern.
+1. **Welle 2 Infrastruktur** (Spezifikation fertig: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE2.md` §6): W0-Erweiterungen in `project.json` (`flaechen`-Maskenquelle, `zMin/zMax`, `abzugAlle`, `gelaendeBis`), Vorrang-IDs in `data/stadt/vorrang.json`, `data/stadt/aussparung.json`.
+2. **Stadtgrund** (S0 + Generator, Spezifikation `20_Stadtmodell_Florenz/stadtgrund/SPEZIFIKATION.md`), Kern zuerst.
+3. **Ponte Vecchio**, dann **Palazzo Pitti** (Kataloge in `20_Stadtmodell_Florenz/wahrzeichen/ponte_vecchio`, `.../palazzo_pitti`), jeweils gleich mit Begehbarkeit „pflicht“.
+4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert).
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).
+- Dom: Kuppelaufstieg bewusst weggelassen (Nutzerwunsch). Baptisterium hat im Modell keine Emporen (ein hoher Raum).
+- `UEBERGABE_V2.md` nennt noch 909.019 Dom-Blöcke (historischer Stand V2).
 - Quartiere: R14 (Dichtheit) wird für Häuser nicht geprüft.
 - Inhalte der Hausakten sind überwiegend typologisch (`quelle: typologie`); Bildindex A5 steht aus.

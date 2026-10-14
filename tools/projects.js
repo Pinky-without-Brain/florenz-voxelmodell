@@ -27,7 +27,7 @@ function fromEntry(e, root) {
     interfacesFile: abs(e.interfaces), groundFile: abs(e.ground),
     webDataDir: abs(e.webDataDir), docs: e.docs || 'project',
     docsDir: e.docs && e.docs !== 'project' ? null : abs(e.docsDir || path.join('projects', e.id, 'docs')),
-    dir: null, json: null
+    dir: null, json: e.json || null
   };
   p.legacy = p.docs === 'legacy-duomo';
   p.meta = meta(p);

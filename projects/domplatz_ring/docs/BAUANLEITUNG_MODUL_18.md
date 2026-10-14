@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 259.867 |
+| Blöcke | 259.862 |
 | Bauschritte | 161 |
 | Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | 47 bis 322 (276 Blöcke) |
@@ -22,10 +22,10 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 102.652 | 39,5 % |
-| Polierter Tuffstein | `polished_tuff` | 32.583 | 12,5 % |
+| Polierter Tuffstein | `polished_tuff` | 32.580 | 12,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 31.288 | 12,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 25.641 | 9,9 % |
-| Tuffstein | `tuff` | 20.134 | 7,7 % |
+| Tuffstein | `tuff` | 20.132 | 7,7 % |
 | Glatter Stein | `smooth_stone` | 9.579 | 3,7 % |
 | Orange Keramik | `orange_terracotta` | 8.159 | 3,1 % |
 | Endsteinziegel | `end_stone_bricks` | 7.983 | 3,1 % |
@@ -70,7 +70,7 @@
 | 2 | `r6748305_innen` | Palazzo des Ottocento an Via Maurizio Bufalini: Innenausbau | 7.185 | 18.17–18.20 |
 | 3 | `r6748307` | Reihenhaus an Via Maurizio Bufalini | 18.519 | 18.21–18.31 |
 | 4 | `r6748307_innen` | Reihenhaus an Via Maurizio Bufalini: Innenausbau | 5.818 | 18.32–18.34 |
-| 5 | `w113662070` | Reihenhaus an Via dei Servi | 5.711 | 18.35–18.37 |
+| 5 | `w113662070` | Reihenhaus an Via dei Servi | 5.710 | 18.35–18.37 |
 | 6 | `w113662070_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.323 | 18.38 |
 | 7 | `w266213439` | San Michele Visdomini | 15.476 | 18.39–18.47 |
 | 8 | `w266213439_innen` | San Michele Visdomini: Innenausbau | 3.813 | 18.48–18.49 |
@@ -80,7 +80,7 @@
 | 12 | `w307544530_innen` | Palazzo Naldini: Innenausbau | 3.721 | 18.65–18.66 |
 | 13 | `w456578417` | Reihenhaus an Piazza del Duomo | 7.762 | 18.67–18.70 |
 | 14 | `w456578417_innen` | Reihenhaus an Piazza del Duomo: Innenausbau | 2.421 | 18.71–18.72 |
-| 15 | `w456578419` | Museo dell'Opera del Duomo | 61.078 | 18.73–18.112 |
+| 15 | `w456578419` | Museo dell'Opera del Duomo | 61.074 | 18.73–18.112 |
 | 16 | `w456578419_innen` | Museo dell'Opera del Duomo: Innenausbau | 26.628 | 18.113–18.126 |
 | 17 | `w456578422` | Palazzo des Cinquecento an Via Maurizio Bufalini | 7.344 | 18.127–18.130 |
 | 18 | `w456578422_innen` | Palazzo des Cinquecento an Via Maurizio Bufalini: Innenausbau | 1.826 | 18.131 |
@@ -1196,7 +1196,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 18.35 – Reihenhaus an Via dei Servi – Teil 1/3 (Y 66–75)
 
 - **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.867
+- **Blöcke:** 1.866
 - **Bauteile:** `w113662070`
 
 **Teileliste**
@@ -1204,7 +1204,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.275 |
-| Polierter Tuffstein | `polished_tuff` | 555 |
+| Polierter Tuffstein | `polished_tuff` | 554 |
 | Weißer Beton | `white_concrete` | 17 |
 | Glatter Stein | `smooth_stone` | 16 |
 | Graues Buntglas | `gray_stained_glass` | 3 |
@@ -2479,14 +2479,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.74 – Museo dell'Opera del Duomo – Teil 2/40 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.717
+- **Blöcke:** 1.715
 - **Bauteile:** `w456578419`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.711 |
+| Tuffstein | `tuff` | 1.709 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
 
@@ -2627,14 +2627,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 18.79 – Museo dell'Opera del Duomo – Teil 7/40 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.966
+- **Blöcke:** 1.964
 - **Bauteile:** `w456578419`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.960 |
+| Polierter Tuffstein | `polished_tuff` | 1.958 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
 

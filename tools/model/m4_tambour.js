@@ -329,10 +329,12 @@ function build(ctx) {
     for (const [x, y, z, t] of exedraCells(c)) morte.set(x, y, z, t);
   }
   for (const c of EXEDRA_CENTERS) {
-    ctx.unzugaenglich(luftRaum(ctx, { seeds: [[c.cx + c.sx * 4, EX_FLOOR_Y + 1, c.cz + c.sz * 4]],
-      box: { x0: c.cx - EXEDRA_R - 1, x1: c.cx + EXEDRA_R + 1, y0: EX_FLOOR_Y + 1, y1: EX_DOME_Y + EX_DOME_V,
+    const oben = [];
+    for (let d = 0; d <= EXEDRA_R; d++) oben.push([c.cx + c.sx * d, EX_DOME_Y + EX_DOME_V + 1, c.cz + c.sz * d]);
+    ctx.unzugaenglich(luftRaum(ctx, { seeds: [[c.cx + c.sx * 4, EX_FLOOR_Y + 1, c.cz + c.sz * 4], ...oben],
+      box: { x0: c.cx - EXEDRA_R - 1, x1: c.cx + EXEDRA_R + 1, y0: EX_FLOOR_Y + 1, y1: OC_Y,
         z0: c.cz - EXEDRA_R - 1, z1: c.cz + EXEDRA_R + 1 } }),
-    'Blindexedra (tribuna morta) außen am Tambour: Schmucknische über den Dächern, ohne Zugang');
+    'Blindexedra (tribuna morta) außen am Tambour und die Fläche über ihrer Halbkuppel: Schmucknische über den Dächern, ohne Zugang');
   }
 
   // ---- 4 Kranzgesims (Y 171, ρ 55, auf Y 170 getragen); läuft ringsum durch, auch über den Diagonalflächen ---------
@@ -343,6 +345,14 @@ function build(ctx) {
       gesims.set(x, GESIMS_Y, z, (Math.abs(x) + Math.abs(z)) % 4 === 0 ? 'chiseled_quartz' : 'quartz_bricks');
     }
   }
+
+  // B5: Luft unter dem vorkragenden Kranzgesims (Bänder ρ 55/56) über den Dächern ist außen, nur überdeckt
+  const unterGesims = [];
+  for (let x = -RING_OUT - 2; x <= RING_OUT + 2; x++) for (let z = -RING_OUT - 2; z <= RING_OUT + 2; z++) {
+    if (!inBandA(x, z) && !inBandB(x, z)) continue;
+    for (let y = C.crossing.archTopY - 50; y < GESIMS_Y; y++) if (!ctx.grid.has(x, y, z)) unterGesims.push({ x, y, z });
+  }
+  ctx.oeffnung(unterGesims, 'loggia');
 
   // ---- 5 Galerie Südost (Konsolen 168, Boden 169, Brüstung 170) -----------------------------------
   const gal = ctx.part('galerie_suedost');

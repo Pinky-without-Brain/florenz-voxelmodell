@@ -110,6 +110,11 @@ function baptisteriumPattern(x, y, z) {
   return s % 2 === 0 ? 'smooth_quartz' : 'dark_prismarine';
 }
 
+// Licht (B5, BEGEHBARKEIT §1.5): Seelaternen im Fußboden auf einem 10er-Raster (Abstand zur nächsten Lichtquelle
+// höchstens 5·√2 ≈ 7 Blöcke); das Raster liegt auf ganzen Zehnern und ist damit symmetrisch zur Kuppelmitte
+const LICHT_RASTER = 10;
+const mitLicht = (fn) => (x, y, z) => (x % LICHT_RASTER === 0 && z % LICHT_RASTER === 0 ? 'sea_lantern' : fn(x, y, z));
+
 // --- Bau --------------------------------------------------------------------
 function build(ctx) {
   const { CRYPT } = ctx.interfaces;
@@ -137,30 +142,30 @@ function build(ctx) {
   const kTop = kStufen.filter((c) => c.y === FLOOR_Y);
   const kFrei = new Set([...kLoch, ...kTop].map((c) => c.x + ',' + c.z));
   langhaus.fill(area(NAVE_X0, NAVE_X1, -NAVE_HALF_Z, NAVE_HALF_Z, (x, z) => inNave(x, z) && !kFrei.has(x + ',' + z)),
-    (x, y, z) => (inNaveInterior(x, z) ? cosm(x, y, z) : 'stone_bricks'));
+    (x, y, z) => (inNaveInterior(x, z) ? mitLicht(cosm)(x, y, z) : 'stone_bricks'));
   const kTreppe = ctx.part('krypta_abgang');
   for (const c of kTop) kTreppe.set(c.x, c.y, c.z, c.typ);
 
   // 3 Vierung: ganzer Ostkomplex, Achteckbänder
   const vierung = ctx.part('boden_vierung', { symmetry: { order: 8, cx: 0, cz: 0 } });
-  vierung.fill(area(-EAST_HALF, EAST_HALF, -EAST_HALF, EAST_HALF, inEastComplex), vierungPattern);
+  vierung.fill(area(-EAST_HALF, EAST_HALF, -EAST_HALF, EAST_HALF, inEastComplex), mitLicht(vierungPattern));
 
   // 4–6 Tribunen ohne den Teil im Ostkomplex
   for (const key of ['nord', 'ost', 'sued']) {
     const t = TRIBUNES[key];
     const w = ctx.part('boden_tribune_' + key);
     w.fill(area(-TRIB_MAX, TRIB_MAX, -TRIB_MAX, TRIB_MAX,
-      (x, z) => inTribune(t, x, z) && !inEastComplex(x, z)), tribunePattern(t));
+      (x, z) => inTribune(t, x, z) && !inEastComplex(x, z)), mitLicht(tribunePattern(t)));
   }
 
   // 7 Campanile
   const camp = ctx.part('boden_campanile');
   camp.fill(area(CAMP.centerX - CAMP.half, CAMP.centerX + CAMP.half,
-    CAMP.centerZ - CAMP.half, CAMP.centerZ + CAMP.half, inCampanile), campanilePattern());
+    CAMP.centerZ - CAMP.half, CAMP.centerZ + CAMP.half, inCampanile), mitLicht(campanilePattern()));
 
   // 8 Baptisterium: Achteck, dann Scarsella (Überlappungsspalte per fillUnion)
   const bapt = ctx.part('boden_baptisterium');
-  bapt.fill(area(BAPT.centerX - BAPT_A, BAPT.centerX + BAPT_A, -BAPT_A, BAPT_A, inBaptOct), baptisteriumPattern);
+  bapt.fill(area(BAPT.centerX - BAPT_A, BAPT.centerX + BAPT_A, -BAPT_A, BAPT_A, inBaptOct), mitLicht(baptisteriumPattern));
   bapt.fillUnion(area(BAPT.scarsella.westX, BAPT.centerX, -BAPT.scarsella.halfZ, BAPT.scarsella.halfZ,
     inScarsella), baptisteriumPattern);
 

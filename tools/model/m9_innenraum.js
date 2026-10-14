@@ -127,7 +127,8 @@ function build(ctx) {
   const boden = ctx.part('krypta_boden');
   const mos = mosaic(patterns);
   boden.fill(area(bx0, bx1, bz0, bz1,
-    (x, z) => inOutline(x, z) && !isWallColumn(x, z) && !inPillar(x, z) && !inGrave(x, z), FLOOR_Y), mos);
+    (x, z) => inOutline(x, z) && !isWallColumn(x, z) && !inPillar(x, z) && !inGrave(x, z), FLOOR_Y),
+    (x, y, z) => (x % 8 === 0 && z % 8 === 4 ? 'sea_lantern' : mos(x, y, z))); // Licht (B5) im Mosaik
 
   // 1 Mauern: Y 57..61, flächig auf dem Grubenboden
   const mauern = ctx.part('krypta_mauern');

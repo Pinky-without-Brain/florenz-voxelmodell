@@ -8,58 +8,68 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 69.550 |
-| Bauschritte | 44 |
+| Blöcke | 69.447 |
+| Bauschritte | 43 |
 | Y-Bereich | 65 bis 233 |
 | X-Ausdehnung | -215 bis -185 (31 Blöcke) |
 | Z-Ausdehnung | 50 bis 80 (31 Blöcke) |
-| Kleinster Schritt | 352 Blöcke (Schritt 7.11) |
-| Mittlerer Schritt | 1.581 Blöcke |
+| Kleinster Schritt | 614 Blöcke (Schritt 7.17) |
+| Mittlerer Schritt | 1.615 Blöcke |
 | Größter Schritt | 2.016 Blöcke (Schritt 7.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Steinziegel | `stone_bricks` | 30.171 | 43,4 % |
-| Glatter Quarzblock | `smooth_quartz` | 18.462 | 26,5 % |
-| Glatter Stein | `smooth_stone` | 11.003 | 15,8 % |
-| Dunkler Prismarin | `dark_prismarine` | 2.715 | 3,9 % |
+| Steinziegel | `stone_bricks` | 30.155 | 43,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 18.462 | 26,6 % |
+| Glatter Stein | `smooth_stone` | 10.955 | 15,8 % |
+| Dunkler Prismarin | `dark_prismarine` | 2.711 | 3,9 % |
 | Polierter Granit | `polished_granite` | 1.654 | 2,4 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 1.579 | 2,3 % |
 | Quarzsäule | `quartz_pillar` | 1.440 | 2,1 % |
 | Quarzziegel | `quartz_bricks` | 1.152 | 1,7 % |
-| Polierter Andesit | `polished_andesite` | 840 | 1,2 % |
-| Geschnittener Kupferblock | `cut_copper` | 335 | 0,5 % |
+| Polierter Andesit | `polished_andesite` | 504 | 0,7 % |
+| Geschnittener Kupferblock | `cut_copper` | 302 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 122 | 0,2 % |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 108 | 0,2 % |
+| Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 82 | 0,1 % |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 74 | 0,1 % |
 | Calcit | `calcite` | 64 | 0,1 % |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 56 | 0,1 % |
+| Seelaterne | `sea_lantern` | 16 | 0,0 % |
 | Polierter Tiefenschiefer | `polished_deepslate` | 11 | 0,0 % |
-| Goldblock | `gold_block` | 2 | 0,0 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 320 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `sockel_reliefs` | Sockel mit Reliefs | 17.775 | 7.1–7.9 |
-| 2 | `eingangstuer` | Eingangstür (Ostseite) | 161 | 7.10 |
-| 3 | `treppe_1` | Treppe, Teil 1 (Sockel) | 192 | 7.10 |
-| 4 | `zwischendecke_1` | Zwischendecke 1 (Y 100) | 352 | 7.11 |
-| 5 | `nischengeschoss` | Nischengeschoss | 10.720 | 7.12–7.17 |
-| 6 | `treppe_2` | Treppe, Teil 2 | 272 | 7.18 |
-| 7 | `zwischendecke_2` | Zwischendecke 2 (Y 122) | 352 | 7.18 |
-| 8 | `biforien_1` | Doppelbogenfenster, erstes Geschoss | 10.228 | 7.19–7.24 |
-| 9 | `treppe_3` | Treppe, Teil 3 | 272 | 7.25 |
-| 10 | `zwischendecke_3` | Zwischendecke 3 (Y 150) | 352 | 7.25 |
-| 11 | `biforien_2` | Doppelbogenfenster, zweites Geschoss | 10.228 | 7.26–7.31 |
-| 12 | `treppe_4` | Treppe, Teil 4 | 272 | 7.32 |
-| 13 | `zwischendecke_4` | Zwischendecke 4 (Y 178) | 352 | 7.32 |
-| 14 | `triforien` | Dreibogenfenster im Glockengeschoss | 14.036 | 7.33–7.40 |
-| 15 | `treppe_5` | Treppe, Teil 5 | 254 | 7.41 |
-| 16 | `glockenstuhl` | Glockenstuhl mit sieben Glocken | 424 | 7.41 |
-| 17 | `kranz_konsolenfries` | Kranz mit Konsolenfries | 1.688 | 7.42 |
-| 18 | `treppe_6` | Treppe, Austritt zur Terrasse | 16 | 7.43 |
-| 19 | `terrassenboden` | Terrassenboden | 952 | 7.43 |
-| 20 | `bruestung_und_fialen` | Brüstung und Eckfialen | 652 | 7.44 |
+| 2 | `eingangstuer` | Eingangstür (Ostseite) | 126 | 7.10 |
+| 3 | `treppe_1` | Treppe, Teil 1 (Sockel) | 160 | 7.10 |
+| 4 | `zwischendecke_1` | Zwischendecke 1 (Y 100) | 350 | 7.10 |
+| 5 | `nischengeschoss` | Nischengeschoss | 10.720 | 7.11–7.16 |
+| 6 | `treppe_2` | Treppe, Teil 2 | 272 | 7.17 |
+| 7 | `zwischendecke_2` | Zwischendecke 2 (Y 122) | 342 | 7.17 |
+| 8 | `biforien_1` | Doppelbogenfenster, erstes Geschoss | 10.228 | 7.18–7.23 |
+| 9 | `treppe_3` | Treppe, Teil 3 | 272 | 7.24 |
+| 10 | `zwischendecke_3` | Zwischendecke 3 (Y 150) | 342 | 7.24 |
+| 11 | `biforien_2` | Doppelbogenfenster, zweites Geschoss | 10.228 | 7.25–7.30 |
+| 12 | `treppe_4` | Treppe, Teil 4 | 272 | 7.31 |
+| 13 | `zwischendecke_4` | Zwischendecke 4 (Y 178) | 342 | 7.31 |
+| 14 | `triforien` | Dreibogenfenster im Glockengeschoss | 14.036 | 7.32–7.39 |
+| 15 | `treppe_5` | Treppe, Teil 5 | 254 | 7.40 |
+| 16 | `glockenstuhl` | Glockenstuhl mit sieben Glocken | 424 | 7.40 |
+| 17 | `kranz_konsolenfries` | Kranz mit Konsolenfries | 1.688 | 7.41 |
+| 18 | `treppe_6` | Treppe, Austritt zur Terrasse | 16 | 7.42 |
+| 19 | `terrassenboden` | Terrassenboden | 948 | 7.42 |
+| 20 | `bruestung_und_fialen` | Brüstung und Eckfialen | 652 | 7.43 |
 
 ## Bauschritte
 
@@ -351,67 +361,50 @@ Nur die Ostseite hat eine Türlücke in der Mitte (Z 62 bis 68, bis Y 75). Mauer
 
 Am Sockel des echten Turms zeigen sechseckige Reliefs unter anderem die Schöpfung und die Künste und Handwerke der Menschen. Die Originale stehen heute im Museo dell'Opera del Duomo, am Turm sitzen Kopien.
 
-### Schritt 7.10 – Eingangstür (Ostseite) & Treppe, Teil 1 (Sockel)
+### Schritt 7.10 – Eingangstür (Ostseite) & Treppe, Teil 1 (Sockel) & Zwischendecke 1 (Y 100)
 
 - **Y-Bereich:** 65 bis 100
-- **Blöcke:** 353
-- **Bauteile:** `eingangstuer`, `treppe_1`
+- **Blöcke:** 636
+- **Bauteile:** `eingangstuer`, `treppe_1`, `zwischendecke_1`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 346 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 115 |
-| Polierter Andesit | `polished_andesite` | 96 |
-| Steinziegel | `stone_bricks` | 96 |
-| Geschnittener Kupferblock | `cut_copper` | 44 |
-| Goldblock | `gold_block` | 2 |
+| Steinziegel | `stone_bricks` | 80 |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 34 |
+| Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 30 |
+| Geschnittener Kupferblock | `cut_copper` | 11 |
+| Polierter Andesit | `polished_andesite` | 10 |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 4 |
+| Seelaterne | `sea_lantern` | 4 |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 2 |
 
-**Beschreibung**
+**Treppen je Material** (alle Richtungen)
 
-In die Lücke der Ostwand (X −190 bis −186, Z 62 bis 68) setzt du einen Rahmen aus gemeißeltem Quarz mit Rundbogen. Mittig in der Wand, bei X −188, sitzt die Tür aus Kupferblöcken, mit zwei goldenen Griffen auf Y 68. Im Inneren läuft die Treppe an den Wänden entlang, zwei Blöcke breit. Sie beginnt hinter der Tür bei (−191 | 61), steigt in kurzen Stufen mit flachen Podesten an den Ecken und führt zwischen Y 98 und 101 durch das Treppenloch in der Nordwest-Ecke (X −209 bis −207, Z 56 bis 58). Die Stufen sind polierter Andesit, darunter liegen Steinziegel als Stütze.
-
-**Tipp**
-
-Baue zuerst die beiden Pfosten des Rahmens, dann den Bogen von beiden Seiten zur Mitte. Erst danach setzt du die Kupferblöcke der Tür ein. Jede Stufe steigt einen Block und geht einen Block weiter. Zähle die Stufen bis zum nächsten Podest, dort bleibt die Höhe gleich.
-
-**Achtung**
-
-Der Rahmen geht durch die ganze Wanddicke von 5 Blöcken, die Tür sitzt aber nur in der Mitte. Lass vorn und hinten die Öffnung frei. Setze die Treppe ganz an die Wand, mit der inneren Reihe direkt daneben. Das Treppenloch bleibt frei, hier kommt gleich die Decke herum.
-
-**Fakt**
-
-Giotto begann den Bau des Campanile im Jahr 1334, als er Baumeister der Dombauhütte von Florenz war. Wer den echten Campanile besteigt, muss 414 Stufen bis zur Terrasse steigen.
-
-### Schritt 7.11 – Zwischendecke 1 (Y 100)
-
-- **Y-Bereich:** 100 bis 100
-- **Blöcke:** 352
-- **Bauteile:** `zwischendecke_1`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
+| Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 352 |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 70 |
 
 **Beschreibung**
 
-Auf Y 100 legst du eine Decke aus glattem Stein in den Innenraum (X −209 bis −191, Z 56 bis 74), 19 mal 19 Blöcke. In der Nordwest-Ecke bleibt ein Loch von 3 mal 3 Blöcken für die Treppe. Die Decke liegt rundum auf der Wand auf.
+In die Lücke der Ostwand (X −190 bis −186, Z 62 bis 68) setzt du einen Rahmen aus gemeißeltem Quarz mit Rundbogen. Mittig in der Wand, bei X −188, sitzt die Tür aus Kupferblöcken, mit zwei goldenen Griffen auf Y 68. Im Inneren läuft die Treppe an den Wänden entlang, zwei Blöcke breit. Sie beginnt hinter der Tür bei (−191 | 61), steigt in kurzen Stufen mit flachen Podesten an den Ecken und führt zwischen Y 98 und 101 durch das Treppenloch in der Nordwest-Ecke (X −209 bis −207, Z 56 bis 58). Die Stufen sind polierter Andesit, darunter liegen Steinziegel als Stütze. Auf Y 100 legst du eine Decke aus glattem Stein in den Innenraum (X −209 bis −191, Z 56 bis 74), 19 mal 19 Blöcke. In der Nordwest-Ecke bleibt ein Loch von 3 mal 3 Blöcken für die Treppe. Die Decke liegt rundum auf der Wand auf.
 
 **Tipp**
 
-Fülle zuerst den Rand an der Wand, dann die Fläche. Markiere dir das 3×3-Loch, bevor du anfängst.
+Baue zuerst die beiden Pfosten des Rahmens, dann den Bogen von beiden Seiten zur Mitte. Erst danach setzt du die Kupferblöcke der Tür ein. Jede Stufe steigt einen Block und geht einen Block weiter. Zähle die Stufen bis zum nächsten Podest, dort bleibt die Höhe gleich. Fülle zuerst den Rand an der Wand, dann die Fläche. Markiere dir das 3×3-Loch, bevor du anfängst.
 
 **Achtung**
 
-Das Loch ist kein Fehler: Die Treppe steigt hier hindurch. Wenn du es zubaust, kommt niemand ins nächste Geschoss.
+Der Rahmen geht durch die ganze Wanddicke von 5 Blöcken, die Tür sitzt aber nur in der Mitte. Lass vorn und hinten die Öffnung frei. Setze die Treppe ganz an die Wand, mit der inneren Reihe direkt daneben. Das Treppenloch bleibt frei, hier kommt gleich die Decke herum. Das Loch ist kein Fehler: Die Treppe steigt hier hindurch. Wenn du es zubaust, kommt niemand ins nächste Geschoss.
 
 **Fakt**
 
-Giotto starb 1337. Zu dieser Zeit war erst das unterste Geschoss des Turms fertig.
+Giotto begann den Bau des Campanile im Jahr 1334, als er Baumeister der Dombauhütte von Florenz war. Wer den echten Campanile besteigt, muss 414 Stufen bis zur Terrasse steigen. Giotto starb 1337. Zu dieser Zeit war erst das unterste Geschoss des Turms fertig.
 
-### Schritt 7.12 – Nischengeschoss – Teil 1/6 (Y 101–104)
+### Schritt 7.11 – Nischengeschoss – Teil 1/6 (Y 101–104)
 
 - **Y-Bereich:** 101 bis 104
 - **Blöcke:** 2.016
@@ -442,7 +435,7 @@ Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die
 
 In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo.
 
-### Schritt 7.13 – Nischengeschoss – Teil 2/6 (Y 105–107)
+### Schritt 7.12 – Nischengeschoss – Teil 2/6 (Y 105–107)
 
 - **Y-Bereich:** 105 bis 107
 - **Blöcke:** 1.448
@@ -477,7 +470,7 @@ Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die
 
 In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo.
 
-### Schritt 7.14 – Nischengeschoss – Teil 3/6 (Y 108–111)
+### Schritt 7.13 – Nischengeschoss – Teil 3/6 (Y 108–111)
 
 - **Y-Bereich:** 108 bis 111
 - **Blöcke:** 1.872
@@ -509,7 +502,7 @@ Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die
 
 In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo.
 
-### Schritt 7.15 – Nischengeschoss – Teil 4/6 (Y 112–115)
+### Schritt 7.14 – Nischengeschoss – Teil 4/6 (Y 112–115)
 
 - **Y-Bereich:** 112 bis 115
 - **Blöcke:** 1.856
@@ -540,7 +533,7 @@ Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die
 
 In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo.
 
-### Schritt 7.16 – Nischengeschoss – Teil 5/6 (Y 116–118)
+### Schritt 7.15 – Nischengeschoss – Teil 5/6 (Y 116–118)
 
 - **Y-Bereich:** 116 bis 118
 - **Blöcke:** 1.512
@@ -572,7 +565,7 @@ Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die
 
 In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo.
 
-### Schritt 7.17 – Nischengeschoss – Teil 6/6 (Y 119–122)
+### Schritt 7.16 – Nischengeschoss – Teil 6/6 (Y 119–122)
 
 - **Y-Bereich:** 119 bis 122
 - **Blöcke:** 2.016
@@ -605,19 +598,30 @@ Nur die äußerste Schicht bleibt offen, dahinter ist die Wand voll. Vergiss die
 
 In den Nischen des echten Turms standen Statuen großer Bildhauer, zum Beispiel von Donatello. Die Originale sind heute im Museo dell'Opera del Duomo.
 
-### Schritt 7.18 – Treppe, Teil 2 & Zwischendecke 2 (Y 122)
+### Schritt 7.17 – Treppe, Teil 2 & Zwischendecke 2 (Y 122)
 
 - **Y-Bereich:** 101 bis 122
-- **Blöcke:** 624
+- **Blöcke:** 614
 - **Bauteile:** `treppe_2`, `zwischendecke_2`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 352 |
-| Polierter Andesit | `polished_andesite` | 136 |
+| Glatter Stein | `smooth_stone` | 338 |
 | Steinziegel | `stone_bricks` | 136 |
+| Polierter Andesit | `polished_andesite` | 92 |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 14 |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 14 |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 8 |
+| Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 8 |
+| Seelaterne | `sea_lantern` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 44 |
 
 **Beschreibung**
 
@@ -635,7 +639,7 @@ Prüfe, dass zwischen Treppe und Decke darüber genug Platz bleibt: Nur im Trepp
 
 Der Campanile ist 84,7 Meter hoch. Im Modell mit 1 Block für 0,5 Meter sind das etwa 169 Blöcke. Der Turm hat einen quadratischen Grundriss mit gut 14 Metern Seitenlänge, im Modell 29 mal 29 Blöcke.
 
-### Schritt 7.19 – Doppelbogenfenster, erstes Geschoss – Teil 1/6 (Y 123–126)
+### Schritt 7.18 – Doppelbogenfenster, erstes Geschoss – Teil 1/6 (Y 123–126)
 
 - **Y-Bereich:** 123 bis 126
 - **Blöcke:** 1.740
@@ -669,7 +673,7 @@ Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große
 
 Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter.
 
-### Schritt 7.20 – Doppelbogenfenster, erstes Geschoss – Teil 2/6 (Y 127–132)
+### Schritt 7.19 – Doppelbogenfenster, erstes Geschoss – Teil 2/6 (Y 127–132)
 
 - **Y-Bereich:** 127 bis 132
 - **Blöcke:** 1.728
@@ -703,7 +707,7 @@ Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große
 
 Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter.
 
-### Schritt 7.21 – Doppelbogenfenster, erstes Geschoss – Teil 3/6 (Y 133–138)
+### Schritt 7.20 – Doppelbogenfenster, erstes Geschoss – Teil 3/6 (Y 133–138)
 
 - **Y-Bereich:** 133 bis 138
 - **Blöcke:** 1.728
@@ -737,7 +741,7 @@ Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große
 
 Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter.
 
-### Schritt 7.22 – Doppelbogenfenster, erstes Geschoss – Teil 4/6 (Y 139–143)
+### Schritt 7.21 – Doppelbogenfenster, erstes Geschoss – Teil 4/6 (Y 139–143)
 
 - **Y-Bereich:** 139 bis 143
 - **Blöcke:** 1.644
@@ -772,7 +776,7 @@ Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große
 
 Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter.
 
-### Schritt 7.23 – Doppelbogenfenster, erstes Geschoss – Teil 5/6 (Y 144–147)
+### Schritt 7.22 – Doppelbogenfenster, erstes Geschoss – Teil 5/6 (Y 144–147)
 
 - **Y-Bereich:** 144 bis 147
 - **Blöcke:** 1.888
@@ -805,7 +809,7 @@ Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große
 
 Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter.
 
-### Schritt 7.24 – Doppelbogenfenster, erstes Geschoss – Teil 6/6 (Y 148–150)
+### Schritt 7.23 – Doppelbogenfenster, erstes Geschoss – Teil 6/6 (Y 148–150)
 
 - **Y-Bereich:** 148 bis 150
 - **Blöcke:** 1.500
@@ -839,19 +843,30 @@ Die beiden kleinen Fenster gehen durch die ganze Wand von 5 Blöcken. Der große
 
 Je höher man am Turm kommt, desto größer werden die Fenster: unten sind es Nischen, dann zweiteilige, ganz oben dreiteilige Fenster. So wirkt der Turm nach oben immer leichter.
 
-### Schritt 7.25 – Treppe, Teil 3 & Zwischendecke 3 (Y 150)
+### Schritt 7.24 – Treppe, Teil 3 & Zwischendecke 3 (Y 150)
 
 - **Y-Bereich:** 123 bis 150
-- **Blöcke:** 624
+- **Blöcke:** 614
 - **Bauteile:** `treppe_3`, `zwischendecke_3`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 352 |
-| Polierter Andesit | `polished_andesite` | 136 |
+| Glatter Stein | `smooth_stone` | 338 |
 | Steinziegel | `stone_bricks` | 136 |
+| Polierter Andesit | `polished_andesite` | 80 |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 16 |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 16 |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 12 |
+| Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 12 |
+| Seelaterne | `sea_lantern` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 56 |
 
 **Beschreibung**
 
@@ -869,7 +884,7 @@ Vor den Fensteröffnungen liegt die Treppe frei im Raum. Baue die Stützblöcke 
 
 Nach Giottos Tod führte Andrea Pisano den Bau des Turms weiter. Vollendet wurde der Campanile von Francesco Talenti im Jahr 1359.
 
-### Schritt 7.26 – Doppelbogenfenster, zweites Geschoss – Teil 1/6 (Y 151–154)
+### Schritt 7.25 – Doppelbogenfenster, zweites Geschoss – Teil 1/6 (Y 151–154)
 
 - **Y-Bereich:** 151 bis 154
 - **Blöcke:** 1.740
@@ -903,7 +918,7 @@ Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links d
 
 Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet.
 
-### Schritt 7.27 – Doppelbogenfenster, zweites Geschoss – Teil 2/6 (Y 155–160)
+### Schritt 7.26 – Doppelbogenfenster, zweites Geschoss – Teil 2/6 (Y 155–160)
 
 - **Y-Bereich:** 155 bis 160
 - **Blöcke:** 1.728
@@ -937,7 +952,7 @@ Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links d
 
 Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet.
 
-### Schritt 7.28 – Doppelbogenfenster, zweites Geschoss – Teil 3/6 (Y 161–166)
+### Schritt 7.27 – Doppelbogenfenster, zweites Geschoss – Teil 3/6 (Y 161–166)
 
 - **Y-Bereich:** 161 bis 166
 - **Blöcke:** 1.728
@@ -971,7 +986,7 @@ Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links d
 
 Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet.
 
-### Schritt 7.29 – Doppelbogenfenster, zweites Geschoss – Teil 4/6 (Y 167–171)
+### Schritt 7.28 – Doppelbogenfenster, zweites Geschoss – Teil 4/6 (Y 167–171)
 
 - **Y-Bereich:** 167 bis 171
 - **Blöcke:** 1.644
@@ -1006,7 +1021,7 @@ Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links d
 
 Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet.
 
-### Schritt 7.30 – Doppelbogenfenster, zweites Geschoss – Teil 5/6 (Y 172–175)
+### Schritt 7.29 – Doppelbogenfenster, zweites Geschoss – Teil 5/6 (Y 172–175)
 
 - **Y-Bereich:** 172 bis 175
 - **Blöcke:** 1.888
@@ -1039,7 +1054,7 @@ Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links d
 
 Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet.
 
-### Schritt 7.31 – Doppelbogenfenster, zweites Geschoss – Teil 6/6 (Y 176–178)
+### Schritt 7.30 – Doppelbogenfenster, zweites Geschoss – Teil 6/6 (Y 176–178)
 
 - **Y-Bereich:** 176 bis 178
 - **Blöcke:** 1.500
@@ -1073,19 +1088,30 @@ Zähle nach: Die Mittelsäule steht genau in der Seitenmitte, rechts und links d
 
 Wie der Dom ist auch der Turm mit weißem, grünem und rotem Marmor aus der Toskana verkleidet.
 
-### Schritt 7.32 – Treppe, Teil 4 & Zwischendecke 4 (Y 178)
+### Schritt 7.31 – Treppe, Teil 4 & Zwischendecke 4 (Y 178)
 
 - **Y-Bereich:** 151 bis 178
-- **Blöcke:** 624
+- **Blöcke:** 614
 - **Bauteile:** `treppe_4`, `zwischendecke_4`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 352 |
-| Polierter Andesit | `polished_andesite` | 136 |
+| Glatter Stein | `smooth_stone` | 338 |
 | Steinziegel | `stone_bricks` | 136 |
+| Polierter Andesit | `polished_andesite` | 80 |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 16 |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 16 |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 12 |
+| Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 12 |
+| Seelaterne | `sea_lantern` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 56 |
 
 **Beschreibung**
 
@@ -1103,7 +1129,7 @@ Setze die Stufen nur an die Innenwand. In der Mitte des Raumes bleibt alles frei
 
 Giotto war vor allem Maler. Seine Fresken in der Arenakapelle in Padua sind weltberühmt. Der Turm war nach etwa 25 Jahren Bauzeit fertig: Baubeginn 1334, Vollendung 1359.
 
-### Schritt 7.33 – Dreibogenfenster im Glockengeschoss – Teil 1/8 (Y 179–181)
+### Schritt 7.32 – Dreibogenfenster im Glockengeschoss – Teil 1/8 (Y 179–181)
 
 - **Y-Bereich:** 179 bis 181
 - **Blöcke:** 1.512
@@ -1134,7 +1160,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.34 – Dreibogenfenster im Glockengeschoss – Teil 2/8 (Y 182–185)
+### Schritt 7.33 – Dreibogenfenster im Glockengeschoss – Teil 2/8 (Y 182–185)
 
 - **Y-Bereich:** 182 bis 185
 - **Blöcke:** 2.016
@@ -1166,7 +1192,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.35 – Dreibogenfenster im Glockengeschoss – Teil 3/8 (Y 186–194)
+### Schritt 7.34 – Dreibogenfenster im Glockengeschoss – Teil 3/8 (Y 186–194)
 
 - **Y-Bereich:** 186 bis 194
 - **Blöcke:** 1.836
@@ -1198,7 +1224,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.36 – Dreibogenfenster im Glockengeschoss – Teil 4/8 (Y 195–202)
+### Schritt 7.35 – Dreibogenfenster im Glockengeschoss – Teil 4/8 (Y 195–202)
 
 - **Y-Bereich:** 195 bis 202
 - **Blöcke:** 1.632
@@ -1230,7 +1256,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.37 – Dreibogenfenster im Glockengeschoss – Teil 5/8 (Y 203–210)
+### Schritt 7.36 – Dreibogenfenster im Glockengeschoss – Teil 5/8 (Y 203–210)
 
 - **Y-Bereich:** 203 bis 210
 - **Blöcke:** 1.752
@@ -1264,7 +1290,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.38 – Dreibogenfenster im Glockengeschoss – Teil 6/8 (Y 211–214)
+### Schritt 7.37 – Dreibogenfenster im Glockengeschoss – Teil 6/8 (Y 211–214)
 
 - **Y-Bereich:** 211 bis 214
 - **Blöcke:** 1.904
@@ -1296,7 +1322,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.39 – Dreibogenfenster im Glockengeschoss – Teil 7/8 (Y 215–217)
+### Schritt 7.38 – Dreibogenfenster im Glockengeschoss – Teil 7/8 (Y 215–217)
 
 - **Y-Bereich:** 215 bis 217
 - **Blöcke:** 1.404
@@ -1328,7 +1354,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.40 – Dreibogenfenster im Glockengeschoss – Teil 8/8 (Y 218–221)
+### Schritt 7.39 – Dreibogenfenster im Glockengeschoss – Teil 8/8 (Y 218–221)
 
 - **Y-Bereich:** 218 bis 221
 - **Blöcke:** 1.980
@@ -1361,7 +1387,7 @@ Die Säulen stehen zwischen den Bögen bei 3 Blöcken Abstand von der Mitte. Der
 
 Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fenster lassen ihren Klang hinaus über die Stadt.
 
-### Schritt 7.41 – Treppe, Teil 5 & Glockenstuhl mit sieben Glocken
+### Schritt 7.40 – Treppe, Teil 5 & Glockenstuhl mit sieben Glocken
 
 - **Y-Bereich:** 179 bis 221
 - **Blöcke:** 678
@@ -1373,9 +1399,19 @@ Im obersten Geschoss hängen die Glocken des Turms. Die großen dreiteiligen Fen
 | :--- | :--- | ---: |
 | Geschnittener Kupferblock | `cut_copper` | 291 |
 | Steinziegel | `stone_bricks` | 128 |
-| Polierter Andesit | `polished_andesite` | 126 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 122 |
+| Polierter Andesit | `polished_andesite` | 40 |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 24 |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 22 |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 20 |
+| Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 20 |
 | Polierter Tiefenschiefer | `polished_deepslate` | 11 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 86 |
 
 **Beschreibung**
 
@@ -1393,7 +1429,7 @@ Die Mitte des Raumes bleibt frei für den Glockenstuhl. Die Treppe darf nicht we
 
 Mit 84,7 Metern ist der Campanile rund 30 Meter niedriger als die Domkuppel samt Kreuz, die 114,5 Meter erreicht. Die größte Glocke des Turms, der Campanone, wurde im Jahr 1705 gegossen.
 
-### Schritt 7.42 – Kranz mit Konsolenfries
+### Schritt 7.41 – Kranz mit Konsolenfries
 
 - **Y-Bereich:** 222 bis 224
 - **Blöcke:** 1.688
@@ -1425,20 +1461,28 @@ Die Eckpfeiler enden bei Y 222. Darüber ist die Ecke ein ganz gewöhnliches St�
 
 Man nimmt an, dass Giotto über dem Turm einen Spitzhelm plante. Er wurde nie gebaut, der Turm endet in einer flachen Terrasse.
 
-### Schritt 7.43 – Treppe, Austritt zur Terrasse & Terrassenboden
+### Schritt 7.42 – Treppe, Austritt zur Terrasse & Terrassenboden
 
 - **Y-Bereich:** 222 bis 225
-- **Blöcke:** 968
+- **Blöcke:** 964
 - **Bauteile:** `treppe_6`, `terrassenboden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Dunkler Prismarin | `dark_prismarine` | 480 |
+| Dunkler Prismarin | `dark_prismarine` | 476 |
 | Glatter Quarzblock | `smooth_quartz` | 472 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 6 |
 | Steinziegel | `stone_bricks` | 6 |
+| Polierter Andesit | `polished_andesite` | 2 |
+| Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 8 |
 
 **Beschreibung**
 
@@ -1456,7 +1500,7 @@ Die letzte Stufe liegt auf Y 225, in gleicher Höhe wie der Boden der Terrasse. 
 
 Der Campanile steht frei neben dem Dom und ist nicht mit ihm verbunden. Von der Terrasse des echten Campanile sieht man weit über Florenz und aus nächster Nähe auf die Kuppel von Brunelleschi.
 
-### Schritt 7.44 – Brüstung und Eckfialen
+### Schritt 7.43 – Brüstung und Eckfialen
 
 - **Y-Bereich:** 226 bis 233
 - **Blöcke:** 652

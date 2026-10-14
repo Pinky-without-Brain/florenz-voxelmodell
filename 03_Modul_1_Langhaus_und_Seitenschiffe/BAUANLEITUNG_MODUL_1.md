@@ -8,39 +8,39 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 174.461 |
-| Bauschritte | 109 |
+| Blöcke | 176.049 |
+| Bauschritte | 110 |
 | Y-Bereich | 65 bis 156 |
 | X-Ausdehnung | -212 bis -55 (158 Blöcke) |
 | Z-Ausdehnung | -45 bis 45 (91 Blöcke) |
 | Kleinster Schritt | 328 Blöcke (Schritt 1.93) |
-| Mittlerer Schritt | 1.601 Blöcke |
+| Mittlerer Schritt | 1.600 Blöcke |
 | Größter Schritt | 2.030 Blöcke (Schritt 1.38) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein | `smooth_stone` | 81.836 | 46,9 % |
-| Steinziegel | `stone_bricks` | 35.444 | 20,3 % |
-| Glatter Quarzblock | `smooth_quartz` | 20.600 | 11,8 % |
-| Terrakotta | `terracotta` | 18.012 | 10,3 % |
-| Dunkler Prismarin | `dark_prismarine` | 7.264 | 4,2 % |
+| Glatter Stein | `smooth_stone` | 81.850 | 46,5 % |
+| Steinziegel | `stone_bricks` | 37.324 | 21,2 % |
+| Glatter Quarzblock | `smooth_quartz` | 20.600 | 11,7 % |
+| Terrakotta | `terracotta` | 18.012 | 10,2 % |
+| Dunkler Prismarin | `dark_prismarine` | 7.264 | 4,1 % |
 | Polierter Andesit | `polished_andesite` | 3.499 | 2,0 % |
 | Quarzziegel | `quartz_bricks` | 3.476 | 2,0 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 1.640 | 0,9 % |
 | Weißes Buntglas | `white_stained_glass` | 918 | 0,5 % |
 | Polierter Granit | `polished_granite` | 604 | 0,3 % |
 | Oranges Buntglas | `orange_stained_glass` | 480 | 0,3 % |
-| Geschnittener Kupferblock | `cut_copper` | 392 | 0,2 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 296 | 0,2 % |
+| Geschnittener Kupferblock | `cut_copper` | 86 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand_nord` | Nordwand des Seitenschiffs | 29.635 | 1.1–1.17 |
-| 2 | `aussenwand_sued` | Südwand des Seitenschiffs | 29.635 | 1.18–1.34 |
+| 1 | `aussenwand_nord` | Nordwand des Seitenschiffs | 29.482 | 1.1–1.17 |
+| 2 | `aussenwand_sued` | Südwand des Seitenschiffs | 29.482 | 1.18–1.34 |
 | 3 | `wandvorlagen` | Wandvorlagen außen | 4.000 | 1.35–1.36 |
 | 4 | `pfeiler` | Bündelpfeiler | 15.036 | 1.37–1.44 |
 | 5 | `arkaden` | Arkaden zum Mittelschiff | 29.640 | 1.45–1.63 |
@@ -50,13 +50,14 @@
 | 9 | `gesimse` | Kranzgesimse | 3.476 | 1.94–1.96 |
 | 10 | `dach_seitenschiffe` | Pultdächer der Seitenschiffe | 9.480 | 1.97–1.103 |
 | 11 | `dach_mittelschiff` | Satteldach des Mittelschiffs | 8.532 | 1.104–1.109 |
+| 12 | `ostgiebel_seitenschiffe` | Ostabschluss der Seitenschiffe | 1.894 | 1.110 |
 
 ## Bauschritte
 
 ### Schritt 1.1 – Nordwand des Seitenschiffs – Teil 1/17 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
@@ -67,7 +68,6 @@
 | Glatter Stein | `smooth_stone` | 441 |
 | Glatter Quarzblock | `smooth_quartz` | 264 |
 | Dunkler Prismarin | `dark_prismarine` | 177 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -89,7 +89,7 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 ### Schritt 1.2 – Nordwand des Seitenschiffs – Teil 2/17 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
@@ -100,7 +100,6 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | Glatter Stein | `smooth_stone` | 441 |
 | Glatter Quarzblock | `smooth_quartz` | 388 |
 | Dunkler Prismarin | `dark_prismarine` | 45 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 | Polierter Granit | `polished_granite` | 8 |
 
@@ -123,7 +122,7 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 ### Schritt 1.3 – Nordwand des Seitenschiffs – Teil 3/17 (Y 71–73)
 
 - **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
@@ -135,7 +134,6 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | Glatter Quarzblock | `smooth_quartz` | 340 |
 | Polierter Granit | `polished_granite` | 56 |
 | Dunkler Prismarin | `dark_prismarine` | 45 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -157,7 +155,7 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 ### Schritt 1.4 – Nordwand des Seitenschiffs – Teil 4/17 (Y 74–76)
 
 - **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
@@ -168,7 +166,6 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | Glatter Stein | `smooth_stone` | 441 |
 | Glatter Quarzblock | `smooth_quartz` | 396 |
 | Dunkler Prismarin | `dark_prismarine` | 45 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -187,55 +184,20 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.5 – Nordwand des Seitenschiffs – Teil 5/17 (Y 77–78)
+### Schritt 1.5 – Nordwand des Seitenschiffs – Teil 5/17 (Y 77–79)
 
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.210
+- **Y-Bereich:** 77 bis 79
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 588 |
-| Glatter Stein | `smooth_stone` | 294 |
-| Dunkler Prismarin | `dark_prismarine` | 162 |
-| Glatter Quarzblock | `smooth_quartz` | 132 |
-| Geschnittener Kupferblock | `cut_copper` | 18 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 16 |
-
-**Beschreibung**
-
-Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
-
-**Tipp**
-
-Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
-
-**Achtung**
-
-Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
-
-**Fakt**
-
-Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
-
-### Schritt 1.6 – Nordwand des Seitenschiffs – Teil 6/17 (Y 79–81)
-
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.689
-- **Bauteile:** `aussenwand_nord`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 798 |
-| Glatter Stein | `smooth_stone` | 399 |
-| Glatter Quarzblock | `smooth_quartz` | 358 |
-| Weißes Buntglas | `white_stained_glass` | 42 |
-| Dunkler Prismarin | `dark_prismarine` | 41 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 264 |
+| Dunkler Prismarin | `dark_prismarine` | 177 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -254,10 +216,44 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.7 – Nordwand des Seitenschiffs – Teil 7/17 (Y 82–84)
+### Schritt 1.6 – Nordwand des Seitenschiffs – Teil 6/17 (Y 80–82)
 
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.626
+- **Y-Bereich:** 80 bis 82
+- **Blöcke:** 1.608
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 756 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Glatter Quarzblock | `smooth_quartz` | 339 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 39 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Geschnittener Kupferblock | `cut_copper` | 9 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.7 – Nordwand des Seitenschiffs – Teil 7/17 (Y 83–85)
+
+- **Y-Bereich:** 83 bis 85
+- **Blöcke:** 1.632
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
@@ -265,13 +261,13 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 754 |
-| Glatter Stein | `smooth_stone` | 378 |
-| Glatter Quarzblock | `smooth_quartz` | 319 |
+| Glatter Stein | `smooth_stone` | 380 |
+| Glatter Quarzblock | `smooth_quartz` | 304 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
-| Dunkler Prismarin | `dark_prismarine` | 38 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 28 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
-| Polierter Granit | `polished_granite` | 19 |
+| Dunkler Prismarin | `dark_prismarine` | 37 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 36 |
+| Polierter Granit | `polished_granite` | 33 |
+| Geschnittener Kupferblock | `cut_copper` | 25 |
 
 **Beschreibung**
 
@@ -289,58 +285,24 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.8 – Nordwand des Seitenschiffs – Teil 8/17 (Y 85–87)
+### Schritt 1.8 – Nordwand des Seitenschiffs – Teil 8/17 (Y 86–88)
 
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.662
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.680
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 762 |
-| Glatter Stein | `smooth_stone` | 386 |
-| Glatter Quarzblock | `smooth_quartz` | 319 |
+| Steinziegel | `stone_bricks` | 770 |
+| Glatter Stein | `smooth_stone` | 390 |
+| Glatter Quarzblock | `smooth_quartz` | 336 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 68 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 60 |
-| Dunkler Prismarin | `dark_prismarine` | 38 |
-| Polierter Granit | `polished_granite` | 19 |
-| Geschnittener Kupferblock | `cut_copper` | 15 |
-
-**Beschreibung**
-
-Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
-
-**Tipp**
-
-Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
-
-**Achtung**
-
-Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
-
-**Fakt**
-
-Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
-
-### Schritt 1.9 – Nordwand des Seitenschiffs – Teil 9/17 (Y 88–90)
-
-- **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.704
-- **Bauteile:** `aussenwand_nord`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 794 |
-| Glatter Stein | `smooth_stone` | 403 |
-| Glatter Quarzblock | `smooth_quartz` | 352 |
-| Weißes Buntglas | `white_stained_glass` | 63 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 52 |
 | Dunkler Prismarin | `dark_prismarine` | 39 |
-| Geschnittener Kupferblock | `cut_copper` | 1 |
+| Geschnittener Kupferblock | `cut_copper` | 9 |
+| Polierter Granit | `polished_granite` | 5 |
 
 **Beschreibung**
 
@@ -358,9 +320,42 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.10 – Nordwand des Seitenschiffs – Teil 10/17 (Y 91–93)
+### Schritt 1.9 – Nordwand des Seitenschiffs – Teil 9/17 (Y 89–91)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 89 bis 91
+- **Blöcke:** 1.707
+- **Bauteile:** `aussenwand_nord`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 804 |
+| Glatter Stein | `smooth_stone` | 408 |
+| Glatter Quarzblock | `smooth_quartz` | 237 |
+| Dunkler Prismarin | `dark_prismarine` | 159 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 36 |
+
+**Beschreibung**
+
+Du mauerst die Nordwand: vier Blöcke dick bei Z −42 bis −39, von X −212 bis −55 und von Y 65 bis 114. Außen liegt eine Marmor-Inkrustation aus Quarz, dunklem Prismarin und rotem Granit, innen glatter Stein, dazwischen Steinziegel. In den Jochen 1 bis 3 sparst du je ein Spitzbogenfenster mit weißem Buntglas aus; in Joch 4 (X −76) öffnet sich die Porta della Mandorla mit Bronzetür und einem Giebel aus gemeißeltem Quarz bis Y 100.
+
+**Tipp**
+
+Baue Lage für Lage von West nach Ost. Das Glas sitzt in der Mitte der Mauer bei Z −40, die Bronzetür bei Z −41. Setze zuerst die Laibung des Portals, dann den Giebel darüber.
+
+**Achtung**
+
+Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In Joch 4 gibt es kein Fenster, dort steht das Portal.
+
+**Fakt**
+
+Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
+
+### Schritt 1.10 – Nordwand des Seitenschiffs – Teil 10/17 (Y 92–94)
+
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.707
 - **Bauteile:** `aussenwand_nord`
 
@@ -370,9 +365,9 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 810 |
 | Glatter Stein | `smooth_stone` | 411 |
-| Glatter Quarzblock | `smooth_quartz` | 238 |
-| Dunkler Prismarin | `dark_prismarine` | 161 |
+| Glatter Quarzblock | `smooth_quartz` | 357 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 42 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -391,9 +386,9 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.11 – Nordwand des Seitenschiffs – Teil 11/17 (Y 94–96)
+### Schritt 1.11 – Nordwand des Seitenschiffs – Teil 11/17 (Y 95–97)
 
-- **Y-Bereich:** 94 bis 96
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 1.707
 - **Bauteile:** `aussenwand_nord`
 
@@ -401,13 +396,13 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 810 |
+| Steinziegel | `stone_bricks` | 811 |
 | Glatter Stein | `smooth_stone` | 411 |
-| Glatter Quarzblock | `smooth_quartz` | 349 |
+| Glatter Quarzblock | `smooth_quartz` | 326 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
-| Polierter Granit | `polished_granite` | 8 |
+| Polierter Granit | `polished_granite` | 32 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 22 |
 
 **Beschreibung**
 
@@ -425,23 +420,23 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.12 – Nordwand des Seitenschiffs – Teil 12/17 (Y 97–99)
+### Schritt 1.12 – Nordwand des Seitenschiffs – Teil 12/17 (Y 98–100)
 
-- **Y-Bereich:** 97 bis 99
-- **Blöcke:** 1.707
+- **Y-Bereich:** 98 bis 100
+- **Blöcke:** 1.725
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 815 |
-| Glatter Stein | `smooth_stone` | 411 |
-| Glatter Quarzblock | `smooth_quartz` | 306 |
-| Weißes Buntglas | `white_stained_glass` | 63 |
-| Polierter Granit | `polished_granite` | 56 |
-| Dunkler Prismarin | `dark_prismarine` | 42 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 14 |
+| Steinziegel | `stone_bricks` | 829 |
+| Glatter Stein | `smooth_stone` | 417 |
+| Glatter Quarzblock | `smooth_quartz` | 337 |
+| Weißes Buntglas | `white_stained_glass` | 57 |
+| Dunkler Prismarin | `dark_prismarine` | 43 |
+| Polierter Granit | `polished_granite` | 32 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 10 |
 
 **Beschreibung**
 
@@ -459,22 +454,21 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.13 – Nordwand des Seitenschiffs – Teil 13/17 (Y 100–102)
+### Schritt 1.13 – Nordwand des Seitenschiffs – Teil 13/17 (Y 101–103)
 
-- **Y-Bereich:** 100 bis 102
-- **Blöcke:** 1.779
+- **Y-Bereich:** 101 bis 103
+- **Blöcke:** 1.824
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 869 |
-| Glatter Stein | `smooth_stone` | 435 |
-| Glatter Quarzblock | `smooth_quartz` | 389 |
-| Dunkler Prismarin | `dark_prismarine` | 45 |
-| Weißes Buntglas | `white_stained_glass` | 39 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 2 |
+| Steinziegel | `stone_bricks` | 900 |
+| Glatter Stein | `smooth_stone` | 450 |
+| Glatter Quarzblock | `smooth_quartz` | 404 |
+| Dunkler Prismarin | `dark_prismarine` | 46 |
+| Weißes Buntglas | `white_stained_glass` | 24 |
 
 **Beschreibung**
 
@@ -492,9 +486,9 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.14 – Nordwand des Seitenschiffs – Teil 14/17 (Y 103–105)
+### Schritt 1.14 – Nordwand des Seitenschiffs – Teil 14/17 (Y 104–106)
 
-- **Y-Bereich:** 103 bis 105
+- **Y-Bereich:** 104 bis 106
 - **Blöcke:** 1.896
 - **Bauteile:** `aussenwand_nord`
 
@@ -523,9 +517,9 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.15 – Nordwand des Seitenschiffs – Teil 15/17 (Y 106–108)
+### Schritt 1.15 – Nordwand des Seitenschiffs – Teil 15/17 (Y 107–109)
 
-- **Y-Bereich:** 106 bis 108
+- **Y-Bereich:** 107 bis 109
 - **Blöcke:** 1.896
 - **Bauteile:** `aussenwand_nord`
 
@@ -535,8 +529,9 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 948 |
 | Glatter Stein | `smooth_stone` | 474 |
-| Glatter Quarzblock | `smooth_quartz` | 426 |
+| Glatter Quarzblock | `smooth_quartz` | 418 |
 | Dunkler Prismarin | `dark_prismarine` | 48 |
+| Polierter Granit | `polished_granite` | 8 |
 
 **Beschreibung**
 
@@ -554,21 +549,21 @@ Lass die Fenster- und Portalöffnungen frei, bevor du Glas und Tür einsetzt. In
 
 Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt ein Relief von Nanni di Banco die Himmelfahrt Mariens in einer mandelförmigen Gloriole, die „Mandorla“. Er schuf es etwa zwischen 1414 und 1421.
 
-### Schritt 1.16 – Nordwand des Seitenschiffs – Teil 16/17 (Y 109–111)
+### Schritt 1.16 – Nordwand des Seitenschiffs – Teil 16/17 (Y 110–111)
 
-- **Y-Bereich:** 109 bis 111
-- **Blöcke:** 1.896
+- **Y-Bereich:** 110 bis 111
+- **Blöcke:** 1.264
 - **Bauteile:** `aussenwand_nord`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 948 |
-| Glatter Stein | `smooth_stone` | 474 |
-| Glatter Quarzblock | `smooth_quartz` | 370 |
-| Polierter Granit | `polished_granite` | 56 |
-| Dunkler Prismarin | `dark_prismarine` | 48 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Stein | `smooth_stone` | 316 |
+| Glatter Quarzblock | `smooth_quartz` | 236 |
+| Polierter Granit | `polished_granite` | 48 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
 
 **Beschreibung**
 
@@ -621,7 +616,7 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 ### Schritt 1.18 – Südwand des Seitenschiffs – Teil 1/17 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
@@ -632,7 +627,6 @@ Die Porta della Mandorla an der Nordseite wurde ab 1391 gebaut. Im Giebel zeigt 
 | Glatter Stein | `smooth_stone` | 441 |
 | Glatter Quarzblock | `smooth_quartz` | 266 |
 | Dunkler Prismarin | `dark_prismarine` | 175 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -654,7 +648,7 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 ### Schritt 1.19 – Südwand des Seitenschiffs – Teil 2/17 (Y 68–70)
 
 - **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
@@ -665,7 +659,6 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 | Glatter Stein | `smooth_stone` | 441 |
 | Glatter Quarzblock | `smooth_quartz` | 391 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 | Polierter Granit | `polished_granite` | 8 |
 
@@ -688,7 +681,7 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 ### Schritt 1.20 – Südwand des Seitenschiffs – Teil 3/17 (Y 71–73)
 
 - **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
@@ -700,7 +693,6 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 | Glatter Quarzblock | `smooth_quartz` | 343 |
 | Polierter Granit | `polished_granite` | 56 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -722,7 +714,7 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 ### Schritt 1.21 – Südwand des Seitenschiffs – Teil 4/17 (Y 74–76)
 
 - **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.815
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
@@ -733,7 +725,6 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 | Glatter Stein | `smooth_stone` | 441 |
 | Glatter Quarzblock | `smooth_quartz` | 399 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -752,55 +743,20 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.22 – Südwand des Seitenschiffs – Teil 5/17 (Y 77–78)
+### Schritt 1.22 – Südwand des Seitenschiffs – Teil 5/17 (Y 77–79)
 
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.210
+- **Y-Bereich:** 77 bis 79
+- **Blöcke:** 1.788
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 588 |
-| Glatter Stein | `smooth_stone` | 294 |
-| Dunkler Prismarin | `dark_prismarine` | 161 |
-| Glatter Quarzblock | `smooth_quartz` | 133 |
-| Geschnittener Kupferblock | `cut_copper` | 18 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 16 |
-
-**Beschreibung**
-
-Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
-
-**Tipp**
-
-Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
-
-**Achtung**
-
-Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
-
-**Fakt**
-
-Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
-
-### Schritt 1.23 – Südwand des Seitenschiffs – Teil 6/17 (Y 79–81)
-
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.689
-- **Bauteile:** `aussenwand_sued`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 798 |
-| Glatter Stein | `smooth_stone` | 399 |
-| Glatter Quarzblock | `smooth_quartz` | 361 |
-| Weißes Buntglas | `white_stained_glass` | 42 |
-| Dunkler Prismarin | `dark_prismarine` | 38 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
+| Steinziegel | `stone_bricks` | 882 |
+| Glatter Stein | `smooth_stone` | 441 |
+| Glatter Quarzblock | `smooth_quartz` | 266 |
+| Dunkler Prismarin | `dark_prismarine` | 175 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
 
 **Beschreibung**
@@ -819,10 +775,44 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.24 – Südwand des Seitenschiffs – Teil 7/17 (Y 82–84)
+### Schritt 1.23 – Südwand des Seitenschiffs – Teil 6/17 (Y 80–82)
 
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.626
+- **Y-Bereich:** 80 bis 82
+- **Blöcke:** 1.608
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 756 |
+| Glatter Stein | `smooth_stone` | 378 |
+| Glatter Quarzblock | `smooth_quartz` | 342 |
+| Weißes Buntglas | `white_stained_glass` | 63 |
+| Dunkler Prismarin | `dark_prismarine` | 36 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Geschnittener Kupferblock | `cut_copper` | 9 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.24 – Südwand des Seitenschiffs – Teil 7/17 (Y 83–85)
+
+- **Y-Bereich:** 83 bis 85
+- **Blöcke:** 1.632
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
@@ -830,13 +820,13 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 754 |
-| Glatter Stein | `smooth_stone` | 378 |
-| Glatter Quarzblock | `smooth_quartz` | 321 |
+| Glatter Stein | `smooth_stone` | 380 |
+| Glatter Quarzblock | `smooth_quartz` | 305 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 36 |
 | Dunkler Prismarin | `dark_prismarine` | 36 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 28 |
-| Geschnittener Kupferblock | `cut_copper` | 27 |
-| Polierter Granit | `polished_granite` | 19 |
+| Polierter Granit | `polished_granite` | 33 |
+| Geschnittener Kupferblock | `cut_copper` | 25 |
 
 **Beschreibung**
 
@@ -854,24 +844,24 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.25 – Südwand des Seitenschiffs – Teil 8/17 (Y 85–87)
+### Schritt 1.25 – Südwand des Seitenschiffs – Teil 8/17 (Y 86–88)
 
-- **Y-Bereich:** 85 bis 87
-- **Blöcke:** 1.662
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.680
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 762 |
-| Glatter Stein | `smooth_stone` | 386 |
-| Glatter Quarzblock | `smooth_quartz` | 321 |
+| Steinziegel | `stone_bricks` | 770 |
+| Glatter Stein | `smooth_stone` | 390 |
+| Glatter Quarzblock | `smooth_quartz` | 339 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 68 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 60 |
 | Dunkler Prismarin | `dark_prismarine` | 36 |
-| Polierter Granit | `polished_granite` | 19 |
-| Geschnittener Kupferblock | `cut_copper` | 15 |
+| Geschnittener Kupferblock | `cut_copper` | 9 |
+| Polierter Granit | `polished_granite` | 5 |
 
 **Beschreibung**
 
@@ -889,43 +879,9 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.26 – Südwand des Seitenschiffs – Teil 9/17 (Y 88–90)
+### Schritt 1.26 – Südwand des Seitenschiffs – Teil 9/17 (Y 89–91)
 
-- **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.704
-- **Bauteile:** `aussenwand_sued`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 794 |
-| Glatter Stein | `smooth_stone` | 403 |
-| Glatter Quarzblock | `smooth_quartz` | 351 |
-| Weißes Buntglas | `white_stained_glass` | 63 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 52 |
-| Dunkler Prismarin | `dark_prismarine` | 40 |
-| Geschnittener Kupferblock | `cut_copper` | 1 |
-
-**Beschreibung**
-
-Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
-
-**Tipp**
-
-Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
-
-**Achtung**
-
-Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
-
-**Fakt**
-
-Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
-
-### Schritt 1.27 – Südwand des Seitenschiffs – Teil 10/17 (Y 91–93)
-
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.707
 - **Bauteile:** `aussenwand_sued`
 
@@ -933,12 +889,12 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 810 |
-| Glatter Stein | `smooth_stone` | 411 |
-| Glatter Quarzblock | `smooth_quartz` | 238 |
+| Steinziegel | `stone_bricks` | 804 |
+| Glatter Stein | `smooth_stone` | 408 |
+| Glatter Quarzblock | `smooth_quartz` | 235 |
 | Dunkler Prismarin | `dark_prismarine` | 161 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 36 |
 
 **Beschreibung**
 
@@ -956,9 +912,9 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.28 – Südwand des Seitenschiffs – Teil 11/17 (Y 94–96)
+### Schritt 1.27 – Südwand des Seitenschiffs – Teil 10/17 (Y 92–94)
 
-- **Y-Bereich:** 94 bis 96
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.707
 - **Bauteile:** `aussenwand_sued`
 
@@ -968,11 +924,10 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 810 |
 | Glatter Stein | `smooth_stone` | 411 |
-| Glatter Quarzblock | `smooth_quartz` | 349 |
+| Glatter Quarzblock | `smooth_quartz` | 357 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 24 |
-| Polierter Granit | `polished_granite` | 8 |
 
 **Beschreibung**
 
@@ -990,9 +945,9 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.29 – Südwand des Seitenschiffs – Teil 12/17 (Y 97–99)
+### Schritt 1.28 – Südwand des Seitenschiffs – Teil 11/17 (Y 95–97)
 
-- **Y-Bereich:** 97 bis 99
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 1.707
 - **Bauteile:** `aussenwand_sued`
 
@@ -1000,13 +955,13 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 815 |
+| Steinziegel | `stone_bricks` | 811 |
 | Glatter Stein | `smooth_stone` | 411 |
-| Glatter Quarzblock | `smooth_quartz` | 306 |
+| Glatter Quarzblock | `smooth_quartz` | 326 |
 | Weißes Buntglas | `white_stained_glass` | 63 |
-| Polierter Granit | `polished_granite` | 56 |
 | Dunkler Prismarin | `dark_prismarine` | 42 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 14 |
+| Polierter Granit | `polished_granite` | 32 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 22 |
 
 **Beschreibung**
 
@@ -1024,22 +979,23 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.30 – Südwand des Seitenschiffs – Teil 13/17 (Y 100–102)
+### Schritt 1.29 – Südwand des Seitenschiffs – Teil 12/17 (Y 98–100)
 
-- **Y-Bereich:** 100 bis 102
-- **Blöcke:** 1.779
+- **Y-Bereich:** 98 bis 100
+- **Blöcke:** 1.725
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 869 |
-| Glatter Stein | `smooth_stone` | 435 |
-| Glatter Quarzblock | `smooth_quartz` | 389 |
-| Dunkler Prismarin | `dark_prismarine` | 45 |
-| Weißes Buntglas | `white_stained_glass` | 39 |
-| Gemeißelter Quarzblock | `chiseled_quartz` | 2 |
+| Steinziegel | `stone_bricks` | 829 |
+| Glatter Stein | `smooth_stone` | 417 |
+| Glatter Quarzblock | `smooth_quartz` | 337 |
+| Weißes Buntglas | `white_stained_glass` | 57 |
+| Dunkler Prismarin | `dark_prismarine` | 43 |
+| Polierter Granit | `polished_granite` | 32 |
+| Gemeißelter Quarzblock | `chiseled_quartz` | 10 |
 
 **Beschreibung**
 
@@ -1057,9 +1013,41 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.31 – Südwand des Seitenschiffs – Teil 14/17 (Y 103–105)
+### Schritt 1.30 – Südwand des Seitenschiffs – Teil 13/17 (Y 101–103)
 
-- **Y-Bereich:** 103 bis 105
+- **Y-Bereich:** 101 bis 103
+- **Blöcke:** 1.824
+- **Bauteile:** `aussenwand_sued`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 900 |
+| Glatter Stein | `smooth_stone` | 450 |
+| Glatter Quarzblock | `smooth_quartz` | 404 |
+| Dunkler Prismarin | `dark_prismarine` | 46 |
+| Weißes Buntglas | `white_stained_glass` | 24 |
+
+**Beschreibung**
+
+Du baust die Südwand als Spiegelbild der Nordwand: bei Z 39 bis 42, von X −212 bis −55 und von Y 65 bis 114. Außen liegt wieder die Marmor-Inkrustation, innen glatter Stein. Hier sitzt die Porta dei Canonici im Joch 3 (X −117) mit Bronzetür aus geschnittenem Kupfer; die Joche 1, 2 und 4 haben je ein Spitzbogenfenster.
+
+**Tipp**
+
+Die Wand ist fast gleich wie im Norden, nur die Lage des Portals ist anders. Vergleiche die X-Werte der Fenster mit der Nordwand.
+
+**Achtung**
+
+Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche von der Fassade aus: X −193, −155, −117 und −76 sind die Jochmitten.
+
+**Fakt**
+
+Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
+
+### Schritt 1.31 – Südwand des Seitenschiffs – Teil 14/17 (Y 104–106)
+
+- **Y-Bereich:** 104 bis 106
 - **Blöcke:** 1.896
 - **Bauteile:** `aussenwand_sued`
 
@@ -1088,9 +1076,9 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.32 – Südwand des Seitenschiffs – Teil 15/17 (Y 106–108)
+### Schritt 1.32 – Südwand des Seitenschiffs – Teil 15/17 (Y 107–109)
 
-- **Y-Bereich:** 106 bis 108
+- **Y-Bereich:** 107 bis 109
 - **Blöcke:** 1.896
 - **Bauteile:** `aussenwand_sued`
 
@@ -1100,8 +1088,9 @@ Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato
 | :--- | :--- | ---: |
 | Steinziegel | `stone_bricks` | 948 |
 | Glatter Stein | `smooth_stone` | 474 |
-| Glatter Quarzblock | `smooth_quartz` | 426 |
+| Glatter Quarzblock | `smooth_quartz` | 418 |
 | Dunkler Prismarin | `dark_prismarine` | 48 |
+| Polierter Granit | `polished_granite` | 8 |
 
 **Beschreibung**
 
@@ -1119,21 +1108,21 @@ Das Portal steht im Joch 3 und nicht im Joch 4 wie im Norden. Zähle die Joche v
 
 Die Seitenwände des Doms sind mit weißem Marmor aus Carrara, grünem aus Prato und rotem aus der Maremma verkleidet. Die drei Farben zeigen die Marmorsorten der Toskana.
 
-### Schritt 1.33 – Südwand des Seitenschiffs – Teil 16/17 (Y 109–111)
+### Schritt 1.33 – Südwand des Seitenschiffs – Teil 16/17 (Y 110–111)
 
-- **Y-Bereich:** 109 bis 111
-- **Blöcke:** 1.896
+- **Y-Bereich:** 110 bis 111
+- **Blöcke:** 1.264
 - **Bauteile:** `aussenwand_sued`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 948 |
-| Glatter Stein | `smooth_stone` | 474 |
-| Glatter Quarzblock | `smooth_quartz` | 370 |
-| Polierter Granit | `polished_granite` | 56 |
-| Dunkler Prismarin | `dark_prismarine` | 48 |
+| Steinziegel | `stone_bricks` | 632 |
+| Glatter Stein | `smooth_stone` | 316 |
+| Glatter Quarzblock | `smooth_quartz` | 236 |
+| Polierter Granit | `polished_granite` | 48 |
+| Dunkler Prismarin | `dark_prismarine` | 32 |
 
 **Beschreibung**
 
@@ -3367,3 +3356,32 @@ Der First sitzt genau bei Z 0 und ist nur eine Spalte breit. Prüfe, dass beide 
 **Fakt**
 
 Santa Maria del Fiore ist etwa 153 Meter lang. Damit gehört der Dom zu den größten Kirchen Europas.
+
+### Schritt 1.110 – Ostabschluss der Seitenschiffe
+
+- **Y-Bereich:** 65 bis 123
+- **Blöcke:** 1.894
+- **Bauteile:** `ostgiebel_seitenschiffe`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Steinziegel | `stone_bricks` | 1.880 |
+| Glatter Stein | `smooth_stone` | 14 |
+
+**Beschreibung**
+
+Am Ostende der Seitenschiffe (X −55) schließt du die Lücke zwischen dem niedrigen Dach der Eckbauten und dem Pultdach: überall dort, wo östlich kein Block anschließt, kommt eine Lage Steinziegel in die Wand, innen glatter Stein.
+
+**Tipp**
+
+Schau von innen nach Osten: Wo du Himmel siehst, fehlt noch ein Block.
+
+**Achtung**
+
+Nur die Lücke schließen, nicht die Seitenschiffe selbst verbauen. Unter dem Gewölbe bleibt der Raum offen.
+
+**Fakt**
+
+Der Dom wurde über 140 Jahre gebaut. Langhaus und Ostteile trafen sich erst, als Brunelleschis Kuppel stand.

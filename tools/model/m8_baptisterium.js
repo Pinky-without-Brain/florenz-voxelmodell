@@ -286,8 +286,10 @@ function lanternCells() {
   const colRing = (dx, dz) => inOctagon(dx, dz, LANT_A) && (ab(dx) + ab(dz) === Math.floor(LANT_A * Math.SQRT2 + 0.5));
   for (let dx = -LANT_A; dx <= LANT_A; dx++) {
     for (let dz = -LANT_A; dz <= LANT_A; dz++) {
-      if (!colRing(dx, dz) || ab(dx) === ab(dz)) continue;
-      for (let y = LANT_Y0; y <= LANT_COL_TOP; y++) cells.push({ x: CX + dx, y, z: CZ + dz, t: 'quartz_pillar' });
+      const rand = inOctagon(dx, dz, LANT_A) && !inOctagon(dx, dz, LANT_A - 1);
+      const saeule = colRing(dx, dz) && ab(dx) !== ab(dz);
+      // B5: zwischen den Säulen verglast (das Kuppelauge darunter ist offen)
+      if (saeule || rand) for (let y = LANT_Y0; y <= LANT_COL_TOP; y++) cells.push({ x: CX + dx, y, z: CZ + dz, t: saeule ? 'quartz_pillar' : GLASS });
     }
   }
   for (const c of octagonPrism(CX, CZ, LANT_A + 1, LANT_BEAM_Y, LANT_BEAM_Y)) {
@@ -361,11 +363,18 @@ function build(ctx) {
     for (let y = B.roofApexY - 1; y < LANT_BEAM_Y; y++) if (!ctx.grid.has(CX + dx, y, CZ + dz)) lr.push({ x: CX + dx, y, z: CZ + dz });
   }
   ctx.unzugaenglich(lr, 'Inneres der Laterne über dem Dachauge: nur Lichtschacht, nicht begehbar');
+  const unterGebaelk = [];
+  for (let dx = -LANT_A - 1; dx <= LANT_A + 1; dx++) for (let dz = -LANT_A - 1; dz <= LANT_A + 1; dz++) {
+    if (!inOctagon(dx, dz, LANT_A + 1) || inOctagon(dx, dz, LANT_A)) continue;
+    for (let y = B.roofApexY - 2; y < LANT_BEAM_Y; y++) if (!ctx.grid.has(CX + dx, y, CZ + dz)) unterGebaelk.push({ x: CX + dx, y, z: CZ + dz });
+  }
+  ctx.oeffnung(unterGebaelk, 'loggia'); // außen, nur vom Gebälk der Laterne überdeckt
   const sk = [];
-  for (let z = -SC.halfZ; z <= SC.halfZ; z++) for (let y = SC_ROOF_HIGH_Y + 1; y <= SC_ROOF_HIGH_Y + 4; y++) {
+  for (let z = -SC.halfZ; z <= SC.halfZ; z++) for (let y = SC_ROOF_HIGH_Y + 1; y < OG[1]; y++) {
     if (!ctx.grid.has(SC_X_EAST, y, z)) sk.push({ x: SC_X_EAST, y, z });
   }
   ctx.unzugaenglich(sk, 'Dachkante der Scarsella unter dem Gesims des Achtecks: kein Standplatz');
+  ctx.oeffnung(sk, 'loggia'); // außen, nur vom Gesims überdeckt
 }
 
 module.exports = {

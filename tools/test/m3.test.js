@@ -18,7 +18,7 @@ const { TRIBUNES } = m3._internal;
 const PART_ORDER = [
   'vierung_wand', 'vierung_gesims', 'sakristei_tueren',
   ...['nord', 'ost', 'sued'].flatMap((t) => ['mauern', 'gewoelbe', 'obergaden', 'daecher'].map((p) => `tribune_${t}_${p}`)),
-  'eckbauten', 'exedra_sockel'
+  'eckbauten', 'kapellendach_abschluss', 'exedra_sockel'
 ];
 
 // Zellen eines Bauteils als Map "x,y,z" -> Typ

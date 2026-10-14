@@ -1,8 +1,8 @@
 # 🚪 Modul 8: Baptisterium San Giovanni
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 62.641 Blöcke in 43 Bauschritten, Y 65 bis 138, X -347 bis -273, Z -34 bis 34.
-Schrittgröße: kleinster 594, mittlerer 1.457, größter 2.070 Blöcke.
+**Statistik (generiert):** 62.413 Blöcke in 43 Bauschritten, Y 65 bis 138, X -347 bis -273, Z -34 bis 34.
+Schrittgröße: kleinster 405, mittlerer 1.451, größter 2.070 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md)
 <!-- STATISTIK:END -->

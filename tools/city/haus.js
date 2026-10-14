@@ -448,17 +448,21 @@ function eingangsStufen(plan, kontext) {
     const typ = palette.treppe('pflaster', richtung(best.dx, best.dz));
     for (const [cx, cz, ys] of zellen) {
       const t = top(cx, cz);
-      if (ys > t || ys === plan.boden) {
+      if (ys > t) {
         const k = cx + ',' + ys + ',' + cz;
         if (!out.stufen.has(k)) out.stufen.set(k, typ);
         for (let y = ys + 1; y <= plan.boden; y++) out.luft.add(cx + ',' + y + ',' + cz);
-      } else {
+      } else if (t < plan.boden) {
         for (let y = t + 1; y <= plan.boden; y++) out.luft.add(cx + ',' + y + ',' + cz); // Gelände ist die Stufe
-      }
+      } // sonst bleibt die Bodenplatte als Stufe stehen
       out.spalten.add(P.ck(cx, cz));
     }
   }
-  for (const k of out.stufen.keys()) out.luft.delete(k);
+  // Stufen haben Vorrang; unter jeder Stufe bleibt das Fundament stehen (überlappende Eingänge, R3)
+  for (const k of out.stufen.keys()) {
+    const [x, y, z] = k.split(',').map(Number);
+    for (let yy = y; yy >= y - EINGANG_MAX - 1; yy--) out.luft.delete(x + ',' + yy + ',' + z);
+  }
   return out;
 }
 

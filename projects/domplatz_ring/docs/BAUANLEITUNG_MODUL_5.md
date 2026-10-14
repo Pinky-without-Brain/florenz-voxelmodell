@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.940 |
+| Blöcke | 52.937 |
 | Bauschritte | 34 |
 | Y-Bereich | 65 bis 112 |
 | X-Ausdehnung | -244 bis -181 (64 Blöcke) |
@@ -24,7 +24,7 @@
 | Terrakotta | `terracotta` | 18.147 | 34,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 8.793 | 16,6 % |
 | Rosa Keramik | `pink_terracotta` | 5.755 | 10,9 % |
-| Polierter Tuffstein | `polished_tuff` | 4.724 | 8,9 % |
+| Polierter Tuffstein | `polished_tuff` | 4.721 | 8,9 % |
 | Endsteinziegel | `end_stone_bricks` | 4.122 | 7,8 % |
 | Glatter Stein | `smooth_stone` | 3.132 | 5,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.305 | 4,4 % |
@@ -72,7 +72,7 @@
 | 6 | `w491889266_innen` | Reihenhaus an Via del Campanile: Innenausbau | 1.333 | 5.19 |
 | 7 | `w491889268` | Reihenhaus an Via del Campanile | 2.343 | 5.20–5.21 |
 | 8 | `w491889268_innen` | Reihenhaus an Via del Campanile: Innenausbau | 961 | 5.22 |
-| 9 | `w491889275` | Palazzo des Cinquecento an Via dei Calzaiuoli | 8.938 | 5.23–5.27 |
+| 9 | `w491889275` | Palazzo des Cinquecento an Via dei Calzaiuoli | 8.935 | 5.23–5.27 |
 | 10 | `w491889275_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 2.992 | 5.28–5.29 |
 | 11 | `w491889277` | Reihenhaus an Via del Campanile | 3.223 | 5.30–5.31 |
 | 12 | `w491889277_innen` | Reihenhaus an Via del Campanile: Innenausbau | 604 | 5.32 |
@@ -855,14 +855,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.23 – Palazzo des Cinquecento an Via dei Calzaiuoli – Teil 1/5 (Y 66–70)
 
 - **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.746
+- **Blöcke:** 1.743
 - **Bauteile:** `w491889275`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.099 |
+| Polierter Tuffstein | `polished_tuff` | 1.096 |
 | Endsteinziegel | `end_stone_bricks` | 389 |
 | Tuffstein | `tuff` | 182 |
 | Glatter Stein | `smooth_stone` | 58 |

@@ -1,8 +1,8 @@
 # ☀️ Modul 6: Laterne & Die Goldene Kugel
 
 <!-- STATISTIK:START -->
-**Statistik (generiert):** 6.885 Blöcke in 5 Bauschritten, Y 247 bis 293, X -14 bis 14, Z -14 bis 14.
-Schrittgröße: kleinster 649, mittlerer 1.377, größter 1.904 Blöcke.
+**Statistik (generiert):** 7.429 Blöcke in 5 Bauschritten, Y 247 bis 293, X -14 bis 14, Z -14 bis 14.
+Schrittgröße: kleinster 672, mittlerer 1.486, größter 1.904 Blöcke.
 
 Zur vollständigen Bauanleitung mit Teilelisten: [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md)
 <!-- STATISTIK:END -->

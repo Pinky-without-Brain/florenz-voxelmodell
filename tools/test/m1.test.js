@@ -16,7 +16,7 @@ const parts = world.modules[0].parts.map((p) => p.id);
 
 const EXPECTED_PARTS = ['aussenwand_nord', 'aussenwand_sued', 'wandvorlagen', 'pfeiler', 'arkaden',
   'seitenschiff_gewoelbe', 'hochschiffwand', 'mittelschiff_gewoelbe', 'gesimse', 'dach_seitenschiffe',
-  'dach_mittelschiff'];
+  'dach_mittelschiff', 'ostgiebel_seitenschiffe'];
 
 test('Modul 1 baut ohne Fehler, Bauteile in Katalogreihenfolge', () => {
   assert.deepEqual(world.errors, []);

@@ -339,7 +339,11 @@ function build(ctx) {
     const w = ctx.part(id);
     const loch = deckLoch(y);
     w.fill(box(CX - INNER, y, CZ - INNER, CX + INNER, y, CZ + INNER),
-      (x, yy, z) => (inHole(x - CX, z - CZ) || loch.has((x - CX) + ',' + (z - CZ)) || stair.has(keyOf(x - CX, z - CZ, yy)) ? null : 'smooth_stone'));
+      (x, yy, z) => {
+        const u = x - CX, v = z - CZ;
+        if (inHole(u, v) || loch.has(u + ',' + v) || stair.has(keyOf(u, v, yy))) return null;
+        return Math.abs(u) === 4 && Math.abs(v) === 4 ? 'sea_lantern' : 'smooth_stone'; // Licht (B5) je Geschoss
+      });
   };
 
   // 1 Sockel mit den zwei Reliefregistern (Tür im Osten ausgespart, darum ohne Symmetrie-Flag)
@@ -431,6 +435,11 @@ function build(ctx) {
   // 9 Terrassenboden (mit Treppenloch, deshalb ohne Flag)
   const terr = ctx.part('terrassenboden');
   const lochT = deckLoch(TERRACE_Y);
+  const ausstieg = [];
+  for (let u = -INNER; u <= INNER; u++) for (let w = -INNER; w <= INNER; w++) {
+    if ((inHole(u, w) || lochT.has(u + ',' + w)) && !stair.has(keyOf(u, w, TERRACE_Y))) ausstieg.push({ x: CX + u, y: TERRACE_Y, z: CZ + w });
+  }
+  ctx.oeffnung(ausstieg, 'tuer'); // Treppenausstieg auf die Terrasse
   terr.fill(box(CX - OUT, TERRACE_Y, CZ - OUT, CX + OUT, TERRACE_Y, CZ + OUT),
     (x, y, z) => (lochT.has((x - CX) + ',' + (z - CZ)) || stair.has(keyOf(x - CX, z - CZ, y)) ? null : terraceCell(x - CX, z - CZ)));
 

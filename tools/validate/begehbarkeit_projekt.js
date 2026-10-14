@@ -63,6 +63,21 @@ function einheiten(ctx) {
 
 function maskeVon(ctx) {
   const p = ctx.project;
+  // Dom (Registry-Projekt, B5): Grundriss aus Modul 0 (footprint) als Maske
+  if (p && p.legacy && p.modelDir) {
+    try {
+      const fp = require(path.join(p.modelDir, 'm0_fundament.js')).footprint;
+      // Um 4 Zellen eingezogen: Reliefnischen, Blendarkaden und Laibungen der äußeren vier Wandlagen sind keine
+      // Lecks (alle Außenmauern des Doms sind mindestens 4 dick, Durchbrüche bleiben sichtbar)
+      const EIN = 4;
+      if (typeof fp === 'function') {
+        return { innen: (x, z) => {
+          for (let dx = -EIN; dx <= EIN; dx++) for (let dz = -EIN; dz <= EIN; dz++) if (!fp(x + dx, z + dz)) return false;
+          return true;
+        } };
+      }
+    } catch (e) { /* ohne Grundriss: Ersatz über Säulen */ }
+  }
   const json = p && p.json;
   if (!json || json.ohneMaske === true || !Array.isArray(json.gebaeude) || p.type !== 'wahrzeichen') return null;
   try {
