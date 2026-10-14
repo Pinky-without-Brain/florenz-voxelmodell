@@ -38,14 +38,24 @@ function discoverModuleFiles(modelDir) {
   return out;
 }
 
-// Quartier-Projekte (generator "quartier"): Module entstehen aus den Isolati, nicht aus Dateien
+// Generator-Projekte: Module entstehen aus Daten, nicht aus Dateien. "quartier": Isolati (tools/city/quartier.js),
+// "stadtgrund": Kacheln (tools/city/stadtgrund.js). Ein Generator liefert { moduleNummern(), moduleBuild(n), contentFor(n) }.
+const GENERATOREN = {
+  quartier: () => require('../city/quartier.js').loadQuartier,
+  stadtgrund: () => require('../city/stadtgrund.js').loadStadtgrund
+};
+const generatorVon = (project) => (project && project.meta && GENERATOREN[project.meta.generator]) || null;
 const isQuartier = (project) => !!(project && project.meta && project.meta.generator === 'quartier');
+const isGeneriert = (project) => !!generatorVon(project);
+/** Unabhängige Module (Stadtgrund, ARCHITEKTUR §10 S0): jedes Modul wird für sich in einem eigenen Grid gebaut. */
+const isUnabhaengig = (project) => !!(project && project.meta && project.meta.unabhaengig === true);
+const ladeGenerator = (project) => generatorVon(project)()(project);
 
-/** Modulnummern eines Projekts (Dateien mN_*.js bzw. Isolati). Bei Quartierfehlern: { numbers: [], error }. */
+/** Modulnummern eines Projekts (Dateien mN_*.js bzw. Generator). Bei Generatorfehlern: { numbers: [], error }. */
 function listModules(project, modelDir) {
-  if (isQuartier(project)) {
+  if (isGeneriert(project)) {
     try {
-      return { numbers: require('../city/quartier.js').loadQuartier(project).moduleNummern(), error: null };
+      return { numbers: ladeGenerator(project).moduleNummern(), error: null };
     } catch (e) {
       return { numbers: [], error: e };
     }
@@ -87,7 +97,7 @@ function buildWorld(opts = {}) {
   const warnings = [];
   const errors = [];
   const grid = new VoxelGrid();
-  const quartier = isQuartier(project);
+  const generiert = isGeneriert(project);
   let q = null;
   const files = new Map();
   const result = [];
@@ -102,9 +112,9 @@ function buildWorld(opts = {}) {
     }
     return keys;
   };
-  if (quartier) {
+  if (generiert) {
     try {
-      q = require('../city/quartier.js').loadQuartier(project);
+      q = ladeGenerator(project);
       for (const n of q.moduleNummern()) files.set(n, null);
     } catch (e) {
       errors.push({ rule: 'LOAD', module: null, part: null, message: `Projekt ${project.id}: ${e.message}` });
@@ -129,13 +139,13 @@ function buildWorld(opts = {}) {
 
   for (const n of wanted) {
     const file = files.get(n);
-    if (!quartier && !file) {
+    if (!generiert && !file) {
       warnings.push(`Keine Moduldatei m${n}_*.js in ${modelDir}`);
       continue;
     }
     let mod;
     try {
-      mod = quartier ? q.moduleBuild(n) : require(file);
+      mod = generiert ? q.moduleBuild(n) : require(file);
     } catch (e) {
       errors.push({ rule: 'LOAD', module: n, part: null, message: `Modul ${n}: Datei nicht ladbar: ${e.message}` });
       continue;
@@ -147,7 +157,7 @@ function buildWorld(opts = {}) {
     }
 
     let content, cErr, cRel;
-    if (quartier) {
+    if (generiert) {
       content = q.contentFor(n);
     } else {
       ({ content, error: cErr } = loadContent(contentDir, n));
@@ -214,4 +224,5 @@ function buildWorld(opts = {}) {
   return { grid, modules: result, errors, warnings, modelDir, contentDir, project: projectMeta, oeffnungen, unzugaenglich, grundrisse };
 }
 
-module.exports = { OEFFNUNG_ARTEN, buildWorld, discoverModuleFiles, listModules, isQuartier, DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };
+module.exports = { OEFFNUNG_ARTEN, buildWorld, discoverModuleFiles, listModules, isQuartier, isGeneriert, isUnabhaengig, ladeGenerator,
+  DEFAULT_MODEL_DIR, DEFAULT_CONTENT_DIR };

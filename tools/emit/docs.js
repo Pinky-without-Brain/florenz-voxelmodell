@@ -457,6 +457,28 @@ function renderDocs({ modules, stepsByModule, grid, root, project, complete }) {
   return out;
 }
 
+/**
+ * README eines Projekts mit unabhängigen Modulen (Stadtgrund): aus gesammelten Modulstatistiken statt aus einem Grid.
+ * mods: [{ module, meta: { title } }], stats: Map Modul -> moduleStats(...). -> { rel, text }
+ */
+function renderReadmeAusStats({ project, mods, stats, root }) {
+  const dims = require('../spec/dimensions.js');
+  const palette = require('../spec/palette.js');
+  const blockTypes = loadBlockTypes(path.join(root, 'webapp', 'js', 'data', 'block-types.js'));
+  const sorted = mods.slice().sort((a, b) => a.module - b.module);
+  const typeTotals = new Map();
+  let totalBlocks = 0, totalSteps = 0;
+  for (const m of sorted) {
+    const st = stats.get(m.module);
+    totalBlocks += st.blocks;
+    totalSteps += st.steps;
+    for (const [t, v] of st.typeCounts) typeTotals.set(t, (typeTotals.get(t) || 0) + v);
+  }
+  const ctx = { dims, palette, stats, typeTotals, totalBlocks, totalSteps, bounds: null, names: (t) => typeNameOf(blockTypes, palette, t) };
+  const base = path.relative(root, project.docsDir).split(path.sep).join('/');
+  return { rel: `${base}/README.md`, text: renderProjectReadme(project, sorted, ctx) };
+}
+
 // Schreibt alle Dateien; Rückgabe: { files: [Pfade], changed: [Pfade mit neuem Inhalt] }
 function emitDocs({ modules, stepsByModule, grid, root, project, complete }) {
   const docs = renderDocs({ modules, stepsByModule, grid, root, project, complete });
@@ -475,4 +497,4 @@ function emitDocs({ modules, stepsByModule, grid, root, project, complete }) {
   return { files, changed };
 }
 
-module.exports = { emitDocs, renderDocs, replaceMarkerBlock, MARK_START, MARK_END, GEN_HEADER };
+module.exports = { emitDocs, renderDocs, renderReadmeAusStats, moduleStats, replaceMarkerBlock, MARK_START, MARK_END, GEN_HEADER };
