@@ -39,9 +39,9 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `turm_treppe` | turm_treppe | 199 | 2.1 |
-| 2 | `turm_laternen` | turm_laternen | 4 | 2.1 |
-| 3 | `turm_huelle` | turm_huelle | 690 | 2.1 |
+| 1 | `turm_treppe` | Treppenturm: Wendeltreppe (Spielzugang) | 199 | 2.1 |
+| 2 | `turm_laternen` | Laternen im Turmkern | 4 | 2.1 |
+| 3 | `turm_huelle` | Turmmantel mit Tür | 690 | 2.1 |
 | 4 | `sockel_waende` | Sockel der Rück- und Westwand | 782 | 2.2 |
 | 5 | `rueckwand` | Rückwand | 9.601 | 2.3–2.8 |
 | 6 | `wand_west` | Westwand | 1.030 | 2.9 |
@@ -51,7 +51,7 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – turm_treppe & turm_laternen & turm_huelle
+### Schritt 2.1 – Treppenturm: Wendeltreppe (Spielzugang) & Laternen im Turmkern & Turmmantel mit Tür
 
 - **Y-Bereich:** 68 bis 96
 - **Blöcke:** 893
@@ -74,6 +74,22 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 58 |
+
+**Beschreibung**
+
+Du baust in der Rückwand eine Wendeltreppe 5 × 5 aus Treppenblöcken (Pietra serena) um einen Kern aus Vollblöcken. Pro Viertelumlauf steigt sie um einen Block; nach 29 Blöcken erreichst du die Terrasse auf Y 97. Kennzeichnung: Spielzugang, nicht historisch. Im Kern des Treppenturms ersetzt du vier Kernblöcke durch Seelaternen (Y 72, 78, 84, 90), damit der Schacht hell ist. Du ummantelst die Wendeltreppe mit einer Wand aus Pietra forte (7 × 7, Y 68 bis 96). Auf der Hallenseite sparst du eine Tür 2 breit und 3 hoch aus, bei Bedarf als kurzer Tunnel durch die Rückwand. Sie öffnet auf den Hallenboden.
+
+**Tipp**
+
+Baue Umlauf für Umlauf; die Podeste an den Ecken sind Vollblöcke, die Seiten Treppenblöcke. Nimm den Kernblock heraus und setze die Laterne an seine Stelle. Setze zuerst den Ring, dann lasse die Türzellen aus.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft frei. Lasse die Laternen nicht aus; Minecraft-Innenräume sind sonst dunkel. Die Tür muss frei bleiben, sonst ist die Terrasse nicht erreichbar.
+
+**Fakt**
+
+Historisch führte der Zugang zur Terrasse von der Rückseite der Uffizien her, die an die Loggia angeschlossen sind. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1. Licht im Innern ist ein Spielzugeständnis; im Original fiel Tageslicht durch die Bogenöffnungen. Die Rückwand der Loggia ist im Westteil sechs Blöcke dick und nimmt den Turm auf. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1.
 
 ### Schritt 2.2 – Sockel der Rück- und Westwand
 

@@ -34,8 +34,8 @@
 | 2 | `kreuzgewoelbe_mitte` | Kreuzgewölbe Mitte | 928 | 4.2 |
 | 3 | `kreuzgewoelbe_ost` | Kreuzgewölbe Ost | 941 | 4.3 |
 | 4 | `konsolen_peducci` | Konsolsteine | 68 | 4.4 |
-| 5 | `gewoelbe_laternen` | gewoelbe_laternen | 6 | 4.4 |
-| 6 | `gewoelbe_hinterfuellung` | gewoelbe_hinterfuellung | 6.094 | 4.4–4.7 |
+| 5 | `gewoelbe_laternen` | Laternen in den Gewölbescheiteln | 6 | 4.4 |
+| 6 | `gewoelbe_hinterfuellung` | Hinterfüllung über den Gewölben | 6.094 | 4.4–4.7 |
 
 ## Bauschritte
 
@@ -123,7 +123,7 @@ Der Seitenbogen ist niedriger als die Frontbögen; prüfe die Höhe an der Schni
 
 Die Gewölbe steigen neun Blöcke über dem Kämpfer an, das sind im Modell viereinhalb Meter.
 
-### Schritt 4.4 – Konsolsteine & gewoelbe_laternen & gewoelbe_hinterfuellung – Teil 1/4 (Y 86–91)
+### Schritt 4.4 – Konsolsteine & Laternen in den Gewölbescheiteln & Hinterfüllung über den Gewölben – Teil 1/4 (Y 86–91)
 
 - **Y-Bereich:** 78 bis 91
 - **Blöcke:** 2.094
@@ -139,21 +139,21 @@ Die Gewölbe steigen neun Blöcke über dem Kämpfer an, das sind im Modell vier
 
 **Beschreibung**
 
-An den Rückwandpilastern setzt du acht kleine Konsolsteine aus gemeißeltem Quarz, je zwei mal zwei Blöcke, auf Y 78 bis 79 (68 Blöcke). Sie nehmen die Gewölbe an den Ansätzen auf.
+An den Rückwandpilastern setzt du acht kleine Konsolsteine aus gemeißeltem Quarz, je zwei mal zwei Blöcke, auf Y 78 bis 79 (68 Blöcke). Sie nehmen die Gewölbe an den Ansätzen auf. Du ersetzt in jedem der drei Joche zwei Schalenblöcke auf der Längsachse durch Seelaternen. Sie beleuchten die Halle so, dass kein Hallenboden weiter als 12 Blöcke von einer Laterne entfernt liegt. Über den Gewölben füllst du die Zwickel bis zur Unterkante der Terrasse (Y 94) mit Bruchstein auf. Es bleibt kein Hohlraum ohne Zugang, und die Terrasse ruht sicher.
 
 **Tipp**
 
-Die Konsolen sitzen zwei Lagen unter dem Gewölbeansatz, direkt an der Rückwand.
+Die Konsolen sitzen zwei Lagen unter dem Gewölbeansatz, direkt an der Rückwand. Setze die Laternen anstelle der untersten Gewölbeschicht, die Schale darüber bleibt geschlossen. Fülle Lage für Lage von der Gewölbeschale aus.
 
 **Achtung**
 
-Am Ostende ist der äußere Ansatz zur Halle hin versetzt, weil der Seitenbogen die Zellen belegt.
+Am Ostende ist der äußere Ansatz zur Halle hin versetzt, weil der Seitenbogen die Zellen belegt. Lasse die Schale darüber unberührt. Die Laternen bleiben unter der Schale sichtbar, nicht überbauen.
 
 **Fakt**
 
-Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen.
+Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen. Die Kreuzgewölbe der Loggia ruhen auf vier Pfeilern; Licht spendeten ursprünglich die weiten Bögen. Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1. Gewölbe bekommen in der Praxis eine Aufschüttung, die die Lasten verteilt (Bauweise, vereinfacht).
 
-### Schritt 4.5 – gewoelbe_hinterfuellung – Teil 2/4 (Y 92–92)
+### Schritt 4.5 – Hinterfüllung über den Gewölben – Teil 2/4 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.358
@@ -165,7 +165,23 @@ Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen.
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.358 |
 
-### Schritt 4.6 – gewoelbe_hinterfuellung – Teil 3/4 (Y 93–93)
+**Beschreibung**
+
+Über den Gewölben füllst du die Zwickel bis zur Unterkante der Terrasse (Y 94) mit Bruchstein auf. Es bleibt kein Hohlraum ohne Zugang, und die Terrasse ruht sicher.
+
+**Tipp**
+
+Fülle Lage für Lage von der Gewölbeschale aus.
+
+**Achtung**
+
+Die Laternen bleiben unter der Schale sichtbar, nicht überbauen.
+
+**Fakt**
+
+Gewölbe bekommen in der Praxis eine Aufschüttung, die die Lasten verteilt (Bauweise, vereinfacht).
+
+### Schritt 4.6 – Hinterfüllung über den Gewölben – Teil 3/4 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.358
@@ -177,7 +193,23 @@ Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen.
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.358 |
 
-### Schritt 4.7 – gewoelbe_hinterfuellung – Teil 4/4 (Y 94–94)
+**Beschreibung**
+
+Über den Gewölben füllst du die Zwickel bis zur Unterkante der Terrasse (Y 94) mit Bruchstein auf. Es bleibt kein Hohlraum ohne Zugang, und die Terrasse ruht sicher.
+
+**Tipp**
+
+Fülle Lage für Lage von der Gewölbeschale aus.
+
+**Achtung**
+
+Die Laternen bleiben unter der Schale sichtbar, nicht überbauen.
+
+**Fakt**
+
+Gewölbe bekommen in der Praxis eine Aufschüttung, die die Lasten verteilt (Bauweise, vereinfacht).
+
+### Schritt 4.7 – Hinterfüllung über den Gewölben – Teil 4/4 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.358
@@ -188,3 +220,19 @@ Peducci heißen die Konsolsteine, auf denen die Gewölbe ansetzen.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.358 |
+
+**Beschreibung**
+
+Über den Gewölben füllst du die Zwickel bis zur Unterkante der Terrasse (Y 94) mit Bruchstein auf. Es bleibt kein Hohlraum ohne Zugang, und die Terrasse ruht sicher.
+
+**Tipp**
+
+Fülle Lage für Lage von der Gewölbeschale aus.
+
+**Achtung**
+
+Die Laternen bleiben unter der Schale sichtbar, nicht überbauen.
+
+**Fakt**
+
+Gewölbe bekommen in der Praxis eine Aufschüttung, die die Lasten verteilt (Bauweise, vereinfacht).

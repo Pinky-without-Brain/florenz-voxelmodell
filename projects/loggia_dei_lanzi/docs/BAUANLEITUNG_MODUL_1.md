@@ -61,7 +61,7 @@ Miss die 6 + 18 + 6 + 18 + 6 + 18 + 6 Blöcke der Front einmal ab und markiere d
 
 **Achtung**
 
-Die vier Pfeiler sind spiegelbildlich um die Mitte der Front angeordnet; achte darauf, dass die Bögen gleich breit werden. Die Halbsäulen der Endpfeiler zur Halle hin entfallen, denn dort stehen später die Seitenwände.
+Die vier Pfeiler sind spiegelbildlich um die Mitte der Front angeordnet; achte darauf, dass die Bögen gleich breit werden. Die Halbsäulen der Endpfeiler zur Halle hin entfallen, denn dort stehen später die Seitenwände. Die Eckkerben der Pfeiler bleiben offen (Teil der Arkade).
 
 **Fakt**
 

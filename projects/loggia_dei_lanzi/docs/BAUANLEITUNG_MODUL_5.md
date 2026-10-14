@@ -36,7 +36,7 @@
 | 1 | `fries` | Fries | 567 | 5.1 |
 | 2 | `medaillons` | Vier Medaillons | 63 | 5.2 |
 | 3 | `terrasse` | Dachterrasse | 3.136 | 5.2–5.3 |
-| 4 | `dachaustritt` | Aufbauhaube | 115 | 5.4 |
+| 4 | `dachaustritt` | Aufbauhaube über dem Treppenturm | 115 | 5.4 |
 | 5 | `brustung` | Brüstung | 570 | 5.4 |
 
 ## Bauschritte
@@ -128,7 +128,7 @@ Die Wände reichen schon bis Y 96; setze die Platte nur in die freien Zellen.
 
 Die Terrasse auf dem Dach ließ Bernardo Buontalenti 1583 anlegen.
 
-### Schritt 5.4 – Aufbauhaube & Brüstung
+### Schritt 5.4 – Aufbauhaube über dem Treppenturm & Brüstung
 
 - **Y-Bereich:** 97 bis 100
 - **Blöcke:** 685
@@ -144,16 +144,16 @@ Die Terrasse auf dem Dach ließ Bernardo Buontalenti 1583 anlegen.
 
 **Beschreibung**
 
-Optional setzt du auf der Terrasse eine kleine Haube als Zugang zum Dach: vier Blöcke breit, drei tief, vier hoch (48 Blöcke, X −209 bis −205, Y 97 bis 100, Z 883 bis 886). Entlang der Außenkante setzt du die Brüstung aus weißem Marmor: zwei Lagen mit Balusterlücken, darüber ein durchgehender Handlauf (Y 97 bis 99, 458 Blöcke, X −244 bis −164, Z 852 bis 900). An der Rückseite im Osten, vor den Uffizien, entfällt sie.
+Über dem Treppenturm baust du ein Häuschen 7 × 7 mit Wand aus Pietra forte (Y 97 bis 99) und flachem Ziegeldach (Y 100). Im Norden bleibt eine Tür 2 × 3 zur Terrasse offen. Spielzugang, nicht historisch. Du setzt am Terrassenrand einen Ring aus weißem Marmor: unten einen durchgehenden Fuß (Y 97), darüber Baluster (jede zweite Zelle, Y 98) und oben einen durchgehenden Handlauf (Y 99). Diagonale Stöße des gedrehten Rings schließt du mit einer Zusatzzelle. Die Lücken zwischen den Balustern sind offene Brüstungsöffnungen.
 
 **Tipp**
 
-Sie sitzt nahe der Rückwand, etwa in der Mitte der Halle. Lass in den beiden unteren Lagen jede zweite Zelle frei und schließe oben mit dem Handlauf.
+Lasse die Innenfläche frei; der Turmschacht öffnet in die Haube. Lass in den beiden unteren Lagen jede zweite Zelle frei und schließe oben mit dem Handlauf.
 
 **Achtung**
 
-Die Haube hat nur ein Dach; im Modell gibt es keine Treppe darin. Die Oberkante liegt auf Y 99.
+Die Tür gehört zur Terrasse; keine Brüstung davor setzen. Die Oberkante liegt auf Y 99.
 
 **Fakt**
 
-Solche Aufbauten führen von innen auf eine begehbare Dachterrasse. Die Brüstung gibt dem Dach der Loggia die Form einer Terrasse über der Piazza.
+Die Terrasse wurde 1583 von Buontalenti auf der Loggia angelegt (Zeremonien auf dem Platz). Quelle: it.wikipedia.org/wiki/Loggia_dei_Lanzi; PRUEFBERICHT_D1. Die Brüstung gibt dem Dach der Loggia die Form einer Terrasse über der Piazza.
