@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Pfeiler und Arkaden",
+  "subtitle": "Bautüte 2: Achteckpfeiler und Spitzbögen zwischen Mittel- und Seitenschiffen",
+  "icon": "🏛️",
+  "parts": {
+    "pfeiler": {
+      "title": "Achteckpfeiler",
+      "description": "Auf den Jochgrenzen stehen beidseits des Mittelschiffs sechs achteckige Pfeiler aus Glattem Stein, dazu die Vierungspfeiler: fünf Blöcke breit mit abgeschrägten Ecken, von Lage 1 bis 23, darüber ein Kapitell aus Gemeißeltem Quarzblock auf Lage 24.",
+      "tip": "Die Pfeilerachsen liegen bei w ±21,5; zähle die Joche von der Fassade aus.",
+      "caution": "Die Pfeiler stehen frei, nichts lehnt sich an sie an.",
+      "fact": "Die Pfeiler aus Pietra serena tragen Spitzbögen, wie die Opera di Santa Croce beschreibt."
+    },
+    "arkaden": {
+      "title": "Spitzbogenarkaden",
+      "description": "Zwischen den Pfeilern spannst du in der drei Blöcke dicken Mittelschiffwand Spitzbögen: Kämpfer Lage 24, Scheitel Lage 39. Die Bogenlaibung ist zwei Lagen Glatter Stein, die Wand darüber weißer Putz bis Lage 40.",
+      "tip": "Baue die Bögen von beiden Seiten nach oben zur Spitze hin.",
+      "caution": "Unter den Bögen bleibt der Durchgang zwischen den Schiffen offen.",
+      "fact": "Die weiten, hohen Arkaden lassen Mittel- und Seitenschiffe zu einem einzigen Raum verschmelzen."
+    }
+  }
+}

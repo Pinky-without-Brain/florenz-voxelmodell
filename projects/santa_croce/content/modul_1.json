@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Außenmauern des Langhauses",
+  "subtitle": "Bautüte 1: Seitenschiffwände mit Giebeln, Lanzettfenstern und Nordportal",
+  "icon": "🏰",
+  "parts": {
+    "seitenwand_nord": {
+      "title": "Nördliche Seitenwand",
+      "description": "Die Nordwand ist drei Blöcke dick: außen Polierter Andesit (Pietraforte) über einem Sockel aus Glattem Stein, in der Mitte Steinziegel, innen weißer Putz. Sie steigt bis Lage 30 und bildet über jedem der sieben Joche einen Giebel bis Lage 42. Im sechsten Joch bleibt das Nordportal vier Blöcke breit und acht hoch offen.",
+      "tip": "Baue erst die sieben Joche bis Lage 30, dann die Giebel Joch für Joch.",
+      "caution": "Das Nordportal und die Fensterschlitze bleiben frei; die Fenster setzt du im nächsten Bauteil ein.",
+      "fact": "Heute betreten Besucher Santa Croce meist von der Nordseite."
+    },
+    "seitenwand_sued": {
+      "title": "Südliche Seitenwand",
+      "description": "Die Südwand gleicht der Nordwand: drei Blöcke dick, sieben Joche, je Joch ein Giebel bis Lage 42; dahinter liegen die Kreuzgänge.",
+      "tip": "Die Giebel sitzen genau über den Jochmitten.",
+      "caution": "Auf der Südseite gibt es kein Portal.",
+      "fact": "Die Giebelreihe der Seitenschiffe nennt die Opera di Santa Croce eine Folge spitzer Giebel mit Kreuzschmuck."
+    },
+    "seitenfenster": {
+      "title": "Lanzettfenster der Seitenschiffe",
+      "description": "In jeder Jochmitte setzt du ein Lanzettfenster ein: zwei Blöcke breit, von Lage 12 bis 26, durch die ganze Mauerstärke aus farbigem Glas.",
+      "tip": "Wechsle die Glasfarben, dann wirkt das Fenster wie ein Kirchenfenster.",
+      "caution": "Das Glas füllt alle drei Mauerschichten.",
+      "fact": "Die Kirche besitzt noch originale Glasfenster aus dem 14. bis 19. Jahrhundert."
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "module": 4,
+  "title": "Querhaus, Kapellen und Chor",
+  "subtitle": "Bautüte 4: Querhaus, zehn Ostkapellen und die Cappella maggiore",
+  "icon": "⛪",
+  "parts": {
+    "querhaus_waende": {
+      "title": "Querhauswände",
+      "description": "Das Querhaus ist 73 Meter lang. Seine Außenwände sind drei Blöcke dick und steigen bis Lage 56; an den Stirnseiten bilden sie Giebel bis Lage 66.",
+      "tip": "Die Wände folgen genau dem Umriss des Gebäudes.",
+      "caution": "An den Seitenschiffen bleibt das Querhaus bis Lage 30 offen.",
+      "fact": "Die Decke des Querhauses wurde 1314 mit bemalten Balken versehen."
+    },
+    "kapellen_aussen": {
+      "title": "Außenwände der Kapellen",
+      "description": "Die Ostkapellen schließen nach außen mit drei Blöcken starken Wänden ab, bis Lage 36 an der Querhausseite und 30 außen.",
+      "tip": "Die Kapellen haben Pultdächer, die nach Osten fallen.",
+      "caution": "Vor dem Campanile bleibt eine Tür in den Turm offen.",
+      "fact": "Die Kapellen gehörten Florentiner Familien wie den Bardi, Peruzzi und Baroncelli."
+    },
+    "kapellenwand": {
+      "title": "Ostwand mit Kapellenbögen",
+      "description": "Die Ostwand des Querhauses ist zwei Blöcke dick. In ihr öffnen sich elf Spitzbögen: zehn Kapellenbögen bis Lage 26 und in der Mitte der Triumphbogen zur Cappella maggiore bis Lage 48. Über der Vierung steigt die Wand als Giebel bis unter das Dach des Mittelschiffs.",
+      "tip": "Baue erst die Pfeiler zwischen den Bögen, dann die Bögen selbst.",
+      "caution": "Am Nordende des Querarms öffnet sich ein weiterer Bogen in eine Endkapelle.",
+      "fact": "Die Opera di Santa Croce zählt fünf Kapellen auf jeder Seite des Chors."
+    },
+    "kapellen_trennwaende": {
+      "title": "Trennwände der Kapellen",
+      "description": "Zwischen den Kapellen stehen zwei Blöcke dicke Wände aus weißem Putz, quer zur Achse.",
+      "tip": "Die Wände reichen bis unter das Pultdach.",
+      "caution": "Die Wände stehen auf den Grenzen der Kapellen, nicht in den Bögen.",
+      "fact": "In den Kapellen Bardi und Peruzzi malte Giotto seine berühmten Fresken."
+    },
+    "querhaus_fenster": {
+      "title": "Fenster in Querhaus und Kapellen",
+      "description": "In die Stirnwände der Querarme setzt du je drei Lanzetten von Lage 14 bis 44, in die Ostwand jeder Kapelle eine Lanzette von Lage 8 bis 22, alle aus farbigem Glas.",
+      "tip": "Die Fenster gehen durch die ganze Mauerstärke.",
+      "caution": "Vor dem Campanile gibt es kein Kapellenfenster.",
+      "fact": "Die Glasfenster der Chorkapellen werden Taddeo Gaddi zugeschrieben."
+    },
+    "chor": {
+      "title": "Cappella maggiore",
+      "description": "Der Hauptchor schließt mit einem halben Achteck. Seine Wände sind drei Blöcke dick und steigen bis Lage 56.",
+      "tip": "Die Polygonseiten folgen dem Gebäudeumriss.",
+      "caution": "Die Lanzetten setzt du im nächsten Bauteil ein.",
+      "fact": "Agnolo Gaddi malte im Chor die Legende vom Wahren Kreuz."
+    },
+    "chorfenster": {
+      "title": "Chorfenster",
+      "description": "Im Polygonschluss sitzen vier hohe Lanzetten aus farbigem Glas von Lage 10 bis 50.",
+      "tip": "Die Fenster stehen in gleichen Winkeln um die Chormitte.",
+      "caution": "Die Lanzetten sind schmal: zwei Blöcke.",
+      "fact": "Die Chorfenster gehören zu den ältesten Glasfenstern von Florenz."
+    }
+  }
+}

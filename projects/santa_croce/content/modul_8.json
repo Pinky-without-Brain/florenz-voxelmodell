@@ -1,0 +1,36 @@
+{
+  "module": 8,
+  "title": "Ausstattung und Licht",
+  "subtitle": "Bautüte 8: Altäre, Kanzel, Hochaltar und Beleuchtung",
+  "icon": "🕯️",
+  "parts": {
+    "altaere": {
+      "title": "Seitenaltäre",
+      "description": "An den Außenwänden der Seitenschiffe stehen in den Jochen zwei bis sieben je ein Altar aus Glattem Stein, sechs Blöcke breit, drei hoch mit einer Platte aus Glattem Quarzblock.",
+      "tip": "Die Altäre stehen in der Jochmitte vor der Wand.",
+      "caution": "Lass vor den Altären Platz zum Gehen.",
+      "fact": "Vasari ließ ab 1566 vierzehn große steinerne Altäre einbauen."
+    },
+    "kanzel": {
+      "title": "Kanzel",
+      "description": "Am dritten Pfeiler der Südseite hängt die Kanzel: ein Block aus Glattem Quarzblock auf Lage 5 bis 7 mit einer Brüstung aus Gemeißeltem Quarzblock.",
+      "tip": "Die Kanzel ragt ins Mittelschiff.",
+      "caution": "Die Kanzel ist vereinfacht.",
+      "fact": "Die Marmorkanzel schuf Benedetto da Maiano 1481 bis 1487."
+    },
+    "hauptaltar": {
+      "title": "Hochaltar",
+      "description": "In der Cappella maggiore steht der Hochaltar aus Glattem Quarzblock mit einer Goldplatte.",
+      "tip": "Er steht in der Achse des Triumphbogens.",
+      "caution": "Der Altar ist vereinfacht.",
+      "fact": "Über dem Hochaltar hängt ein großes gemaltes Kruzifix."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "In den Boden setzt du Seelaternen, so dass keine Stelle der Kirche weiter als zwölf Blöcke von einem Licht entfernt ist.",
+      "tip": "Die Lichter ersetzen einzelne Bodenplatten.",
+      "caution": "Setze die Lichter erst, wenn der Boden liegt.",
+      "fact": "In der echten Kirche fällt das Licht durch die bunten Glasfenster."
+    }
+  }
+}

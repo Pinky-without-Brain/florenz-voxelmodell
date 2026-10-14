@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 19.869.348 Blöcke in 12.010 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 19.870.328 Blöcke in 12.010 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -126,8 +126,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 114 | Kachel 9/7 – Piazza della Signoria | 47.993 | 32 | [BAUANLEITUNG_MODUL_114.md](BAUANLEITUNG_MODUL_114.md) |
 | 115 | Kachel 10/7 – Via dei Neri | 26.939 | 17 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
 | 116 | Kachel 11/7 – Piazza di Santa Croce | 38.469 | 23 | [BAUANLEITUNG_MODUL_116.md](BAUANLEITUNG_MODUL_116.md) |
-| 117 | Kachel 12/7 – Largo San Francesco d'Assisi | 44.760 | 29 | [BAUANLEITUNG_MODUL_117.md](BAUANLEITUNG_MODUL_117.md) |
-| 118 | Kachel 13/7 – Borgo Allegri | 34.175 | 22 | [BAUANLEITUNG_MODUL_118.md](BAUANLEITUNG_MODUL_118.md) |
+| 117 | Kachel 12/7 – Largo San Francesco d'Assisi | 44.249 | 28 | [BAUANLEITUNG_MODUL_117.md](BAUANLEITUNG_MODUL_117.md) |
+| 118 | Kachel 13/7 – Borgo Allegri | 35.674 | 23 | [BAUANLEITUNG_MODUL_118.md](BAUANLEITUNG_MODUL_118.md) |
 | 119 | Kachel 14/7 – Via Ghibellina | 41.533 | 27 | [BAUANLEITUNG_MODUL_119.md](BAUANLEITUNG_MODUL_119.md) |
 | 120 | Kachel 0/8 – Via Domenico Burchiello | 106.788 | 61 | [BAUANLEITUNG_MODUL_120.md](BAUANLEITUNG_MODUL_120.md) |
 | 121 | Kachel 1/8 – Piazza Torquato Tasso | 106.438 | 64 | [BAUANLEITUNG_MODUL_121.md](BAUANLEITUNG_MODUL_121.md) |
@@ -141,8 +141,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 129 | Kachel 9/8 – Piazza dei Giudici | 124.911 | 72 | [BAUANLEITUNG_MODUL_129.md](BAUANLEITUNG_MODUL_129.md) |
 | 130 | Kachel 10/8 – Piazza Mentana | 57.603 | 38 | [BAUANLEITUNG_MODUL_130.md](BAUANLEITUNG_MODUL_130.md) |
 | 131 | Kachel 11/8 – Corso dei Tintori | 32.691 | 20 | [BAUANLEITUNG_MODUL_131.md](BAUANLEITUNG_MODUL_131.md) |
-| 132 | Kachel 12/8 – Via Antonio Magliabechi | 47.936 | 30 | [BAUANLEITUNG_MODUL_132.md](BAUANLEITUNG_MODUL_132.md) |
-| 133 | Kachel 13/8 – Via delle Casine | 77.852 | 45 | [BAUANLEITUNG_MODUL_133.md](BAUANLEITUNG_MODUL_133.md) |
+| 132 | Kachel 12/8 – Via Antonio Magliabechi | 47.819 | 30 | [BAUANLEITUNG_MODUL_132.md](BAUANLEITUNG_MODUL_132.md) |
+| 133 | Kachel 13/8 – Via delle Casine | 77.961 | 45 | [BAUANLEITUNG_MODUL_133.md](BAUANLEITUNG_MODUL_133.md) |
 | 134 | Kachel 14/8 – Via delle Casine | 56.790 | 36 | [BAUANLEITUNG_MODUL_134.md](BAUANLEITUNG_MODUL_134.md) |
 | 135 | Kachel 0/9 – Via San Francesco di Paola | 100.000 | 64 | [BAUANLEITUNG_MODUL_135.md](BAUANLEITUNG_MODUL_135.md) |
 | 136 | Kachel 1/9 – Via dei Villani | 102.646 | 66 | [BAUANLEITUNG_MODUL_136.md](BAUANLEITUNG_MODUL_136.md) |
@@ -204,25 +204,25 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 192 | Kachel 12/12 – Viale Galileo | 149.451 | 93 | [BAUANLEITUNG_MODUL_192.md](BAUANLEITUNG_MODUL_192.md) |
 | 193 | Kachel 13/12 – Via del Monte alle Croci | 194.239 | 121 | [BAUANLEITUNG_MODUL_193.md](BAUANLEITUNG_MODUL_193.md) |
 | 194 | Kachel 14/12 – Viale Michelangiolo | 211.959 | 138 | [BAUANLEITUNG_MODUL_194.md](BAUANLEITUNG_MODUL_194.md) |
-| | **Summe** | **19.869.348** | **12.010** | |
+| | **Summe** | **19.870.328** | **12.010** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 6.328.094 | 31,8 % |
+| Polierter Tuffstein | `polished_tuff` | 6.328.123 | 31,8 % |
 | Grasblock | `grass_block` | 4.600.051 | 23,2 % |
-| Stein | `stone` | 4.082.740 | 20,5 % |
+| Stein | `stone` | 4.083.718 | 20,6 % |
 | Wasser | `water` | 2.145.522 | 10,8 % |
 | Kies | `gravel` | 1.361.400 | 6,9 % |
 | Glatter Stein | `smooth_stone` | 804.595 | 4,0 % |
 | Polierter Andesit | `polished_andesite` | 224.118 | 1,1 % |
 | Tuffstein | `tuff` | 223.322 | 1,1 % |
 | Steinziegel | `stone_bricks` | 58.392 | 0,3 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.757 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.513 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.090 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.064 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.728 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.514 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.087 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.068 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 1.393 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1.075 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 724 | 0,0 % |
@@ -238,6 +238,6 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36.424 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36.397 |
 | Steintreppe | `stone_stairs` | 3.577 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 479 |

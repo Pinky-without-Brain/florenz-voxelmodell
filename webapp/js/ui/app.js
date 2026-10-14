@@ -436,10 +436,14 @@ window.App = (function() {
     if (els.stepBadge) els.stepBadge.textContent = "🌟";
     if (els.stepCategory) els.stepCategory.textContent = "Meisterbau Florenz • Gesamtmodell";
     if (els.stepTitle) els.stepTitle.textContent = currentProject && currentProjectId !== "duomo" ? currentProject.title : "Cathedral of Santa Maria del Fiore";
+    const istDom = !currentProject || currentProjectId === "duomo";
+    const name = istDom ? "Kathedrale" : (currentProject.title || "das Bauwerk");
     if (els.stepDesc) {
-      els.stepDesc.innerHTML = `Hier siehst du die gesamte Kathedrale mit allen bisher vollendeten Modulen im Zusammenspiel! 
+      els.stepDesc.innerHTML = istDom
+        ? `Hier siehst du die gesamte Kathedrale mit allen bisher vollendeten Modulen im Zusammenspiel! 
       Vom kolossalen Fundament über das gotische Hauptschiff mit seinen Hallen bis zur prachtvollen Marmorfassade. 
-      Insgesamt sind bisher <strong>${allBlocks.length.toLocaleString('de-DE')} Blöcke</strong> verbaut.`;
+      Insgesamt sind bisher <strong>${allBlocks.length.toLocaleString('de-DE')} Blöcke</strong> verbaut.`
+        : `Hier siehst du ${name} mit allen Modulen im Zusammenspiel. Insgesamt sind <strong>${allBlocks.length.toLocaleString('de-DE')} Blöcke</strong> verbaut.`;
     }
     if (els.stepTip) {
       els.stepTip.innerHTML = `<strong>💡 Meisterbauer-Ansicht:</strong> Du kannst mit der Maus frei um das gesamte Bauwerk kreisen, hineinzoomen und die Details aus jedem Winkel bestaunen!`;
@@ -448,7 +452,9 @@ window.App = (function() {
       els.stepCaution.innerHTML = `<strong>⚠️ Nächste Schritte:</strong> Klicke auf 'Zurück zur Anleitung' oder bewege die Schritt-Tasten, um an einem einzelnen Modul weiterzubauen.`;
     }
     if (els.stepFact) {
-      els.stepFact.innerHTML = `<strong>🎨 Meisterwerk der Welt:</strong> Die Kathedrale Santa Maria del Fiore ist mit über 150 Metern Länge eine der größten Kirchen der Welt und das Herz der Renaissance-Metropole Florenz.`;
+      els.stepFact.innerHTML = istDom
+        ? `<strong>🎨 Meisterwerk der Welt:</strong> Die Kathedrale Santa Maria del Fiore ist mit über 150 Metern Länge eine der größten Kirchen der Welt und das Herz der Renaissance-Metropole Florenz.`
+        : `<strong>🎨 Stadtmodell Florenz:</strong> ${name} ist eines der Projekte des Stadtmodells; in der Stadtansicht steht es an seinem Platz zwischen den Quartieren.`;
     }
 
     if (els.partsTotalCount) {

@@ -1,0 +1,13 @@
+{
+  "id": "santa_croce",
+  "title": "Basilica di Santa Croce",
+  "type": "wahrzeichen",
+  "gebaeude": ["w777563049"],
+  "bodenY": 64,
+  "rahmen": { "ox": 873.25, "oz": 975, "thetaDeg": 28.4 },
+  "masken": {
+    "campanile": { "gebaeude": ["w662908308"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

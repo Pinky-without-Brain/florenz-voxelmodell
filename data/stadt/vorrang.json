@@ -1,5 +1,5 @@
 {
-  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) und UEBERSICHT_WELLE2.md §2 (Welle 2)",
+  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2) und UEBERSICHT_WELLE3.md (Welle 3)",
   "ids": {
     "r1461712": "palazzo_vecchio",
     "w43284457": "loggia_dei_lanzi",
@@ -19,6 +19,8 @@
     "w1394832040": "palazzo_pitti",
     "w1394832041": "palazzo_pitti",
     "w1394832042": "palazzo_pitti",
-    "w1394832043": "palazzo_pitti"
+    "w1394832043": "palazzo_pitti",
+    "w777563049": "santa_croce",
+    "w662908308": "santa_croce"
   }
 }
