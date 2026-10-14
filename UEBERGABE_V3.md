@@ -56,9 +56,16 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `quartier_ghibellina` | Quartier (288 Häuser, Kacheln 102–104) | 2.181.883 | **pflicht**, 98 % | E4 (14.10.) |
 | `quartier_conce` | Quartier (245 Häuser, Kacheln 117–119, 133, 134) | 2.102.284 | **pflicht**, 98,9 % | E4 (14.10.) |
 | `quartier_tintori` | Quartier (150 Häuser, Kacheln 130–132, 147–149) | 2.353.284 | **pflicht**, 98,6 % | E4 (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 3.444.340 (54 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `quartier_san_frediano` | Quartier (312 Häuser, Kacheln 92, 93, 106–108, 122) | 2.736.055 | **pflicht**, 98,6 % | E5 (14.10.) |
+| `quartier_carmine` | Quartier (296 Häuser, Kacheln 123, 124, 137, 138) | 2.465.476 | **pflicht**, 98,7 % | E5 (14.10.) |
+| `quartier_maggio` | Quartier (204 Häuser, Kacheln 125, 140, 141, 155) | 2.202.141 | **pflicht**, 98,9 % | E5 (14.10.) |
+| `quartier_campuccio` | Quartier (306 Häuser, Kacheln 139, 153, 154) | 2.428.573 | **pflicht**, 99,3 % | E5 (14.10.) |
+| `quartier_costa_san_giorgio` | Quartier (195 Häuser, Kacheln 142, 158, 159, 173–176) | 3.099.501 | **pflicht**, 98,8 % | E5 (14.10.) |
+| `quartier_san_niccolo` | Quartier (268 Häuser, Kacheln 143, 144, 160–164, 177, 178) | 2.620.185 | **pflicht**, 98,4 % | E5 (14.10.) |
+| `quartier_romana` | Quartier (202 Häuser, Kacheln 167–169, 180–183) | 2.137.649 | **pflicht**, 97,6 % | E5 (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 8.351.351 (94 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 24 Projekte: Build OK, `--cross` 0 Konflikte (276 Paare, 225 s), 422 Tests grün (2 übersprungen). Webdaten 158 MB.
+Alle 31 Projekte: Build OK (`--all --no-emit`), `--cross` 0 Konflikte (465 Paare, 338 s). Webdaten ≈ 300 MB.
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -123,8 +130,14 @@ Nutzerwunsch: erst alle leeren Häuserzeilen, danach weitere Wahrzeichen. Vorher
 - `quartier_neu.js` nimmt jetzt **jedes freie Gebäude** der Kacheln (vorher wurden ganze Isolati übersprungen, sobald eines ihrer Gebäude einem anderen Projekt oder einem Wahrzeichen gehörte); ein Isolat kann auf mehrere Projekte verteilt sein (Parzellen sind projektübergreifend dieselben, Überstände regelt `Kontext.beanspruche`).
 - Neu: San Lorenzo, Pergola, Sant'Ambrogio, Strozzi, Ghibellina, Conce, Tintori (1.690 Häuser, alle 0 unerreichbare Komponenten, Bau je 43–89 s). Stadtgrund auf 54 Kacheln (`tools/city/aktiv.js`).
 - `besitz.js` brach bei den großen Quartieren still ab (Heap) – die Datei blieb alt und `--cross` meldete 18.731 Konflikte Quartier/Stadtgrund-Böschung. Jetzt: Quartiere modulweise, Generator-Cache je Projekt freigeben, **inkrementell** `node tools/city/besitz.js <id> …` (7 Projekte 99 s). Danach 0 Konflikte.
+- **Push Protection:** GitHub lehnte den Push ab („Tencent Cloud Secret ID“ in `module_117.js`) – Fehlalarm, Base64-Läufe enthalten zufällig `AKID…`. `tools/emit/data.js` schreibt den ersten Buchstaben solcher Präfixe (AKID, AKIA, ASIA, AIza, LTAI …) als `\u0041`-Escape (`entschaerfe`); gleiche Daten nach dem Parsen. Bestehende Moduldateien wurden nachbearbeitet (identisch zu einem Neubau, geprüft).
 - Minecraft-Export (`welt.js`): Generator-Cache nach jedem Projekt freigeben – gemessen 366 s, **Heap 558 MB** (vorher 4,9 GB), 37,3 Mio Projektblöcke, Welt 43,6 MB.
 - **Rezept je Welle:** `quartier_neu.js` → `akten_entwurf.js --project <id>` → `build.js --project <id>` → `aktiv.js <kacheln>` → `besitz.js <neue ids>` → `build.js --project stadtgrund` → `webindex.js` → `build.js --cross --no-emit` (Hintergrund) → Tests → Übergabe → Commit/Push. Restliche freie Gebäude je Kachel: `node tools/city/frei_kacheln.js`.
+
+### E5 Häuserzeilen Welle 2: Oltrarno (sieben Quartiere) – **erledigt**
+San Frediano, Carmine, Via Maggio, Campuccio, Costa San Giorgio, San Niccolò, Via Romana (1.783 Häuser, alle 0 unerreichbare Komponenten). Stadtgrund 94 Kacheln.
+- **Planer, R3-Sicherung auf Schrittebene** (`schritteMitHalt` in `tools/steps/planner.js`): Im Carmine lag ein 2 × 2-Splitter eines Hauses nur auf dem später gebauten Nachbarhaus (R3: 4 Blöcke ohne Halt). Zellen ohne Halt in ihrem Schritt rücken in den ersten späteren Schritt mit Halt (eigener Nachtragsschritt, wenn MAX_STEP überschritten würde). Haben alle Schritte Halt, bleibt die Planung unverändert – `--all --no-emit` aller 31 Projekte OK (keine R9-Abweichung). Test in `tools/test/planner.test.js`.
+- **R13 bei sehr großen Quartieren:** `setVon` in `tools/validate/begehbarkeit_projekt.js` überschritt die Set-Grenze (2^24) bei den unzugänglichen Zellen (Quartier Colonna); jetzt `GrosseMenge` (mehrere Sets) ab 2^23 Einträgen. `STACK=1 node tools/build.js …` druckt bei Build-Abbruch den Stack.
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.

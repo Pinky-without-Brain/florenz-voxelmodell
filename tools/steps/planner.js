@@ -200,6 +200,64 @@ function stueckeMitHalt(pieces, frueher, ground) {
   return pieces.filter((p) => p.length);
 }
 
+/**
+ * Letzte Sicherung für R3 auf Schrittebene: Zellen, die in ihrem Schritt keinen Halt haben (weder Boden noch Nachbar
+ * aus früheren Schritten/Modulen oder zusammenhängend im selben Schritt), rücken in den ersten späteren Schritt, in
+ * dem sie Halt finden (z. B. ein Hausrest, der nur auf dem später gebauten Nachbarhaus aufliegt). Passt der Schritt
+ * nicht mehr unter MAX_STEP, folgt ein eigener Nachtragsschritt. Ohne solche Zellen bleiben die Schritte unverändert.
+ */
+function schritteMitHalt(steps, frueherModul, ground, mkStep) {
+  const key = (x, y, z) => ((x + 4096) * 8192 + (z + 4096)) * 512 + y;
+  const gesetzt = new Set();
+  const frueher = (x, y, z) => gesetzt.has(key(x, y, z)) || frueherModul(x, y, z);
+  const halt = (cells) => {
+    const S = new Set(cells);
+    const ok = new Set();
+    const stack = [];
+    for (const k of cells) {
+      const x = xOf(k), y = yOf(k), z = zOfKey(k);
+      let h = ground.hasGroundContact(x, y, z);
+      if (!h) for (const [dx, dy, dz] of N6) { if (frueher(x + dx, y + dy, z + dz)) { h = true; break; } }
+      if (h) { ok.add(k); stack.push(k); }
+    }
+    while (stack.length) {
+      const k = stack.pop();
+      const x = xOf(k), y = yOf(k), z = zOfKey(k);
+      for (const [dx, dy, dz] of N6) {
+        const nk = key(x + dx, y + dy, z + dz);
+        if (S.has(nk) && !ok.has(nk)) { ok.add(nk); stack.push(nk); }
+      }
+    }
+    return ok;
+  };
+  // Prüfung ohne Änderung: alle Schritte haben Halt -> unverändert zurück
+  let alleOk = true;
+  for (const st of steps) {
+    const ok = halt(st.cells);
+    for (const k of st.cells) gesetzt.add(k);
+    if (ok.size !== st.cells.length) { alleOk = false; break; }
+  }
+  if (alleOk) return steps;
+  gesetzt.clear();
+  const out = [];
+  let offen = [];
+  for (const st of steps) {
+    const ok = halt(offen.length ? st.cells.concat(offen) : st.cells);
+    const eigen = st.cells.filter((k) => ok.has(k));
+    const nach = offen.filter((k) => ok.has(k));
+    offen = offen.filter((k) => !ok.has(k)).concat(st.cells.filter((k) => !ok.has(k)));
+    if (nach.length && eigen.length + nach.length > MAX_STEP) {
+      if (eigen.length) out.push(mkStep(st, sortedKeys(eigen)));
+      out.push(mkStep(st, sortedKeys(nach)));
+    } else if (eigen.length || nach.length) out.push(mkStep(st, sortedKeys(eigen.concat(nach))));
+    for (const k of eigen) gesetzt.add(k);
+    for (const k of nach) gesetzt.add(k);
+  }
+  if (offen.length) { const last = out.pop(); out.push(mkStep(last, sortedKeys(last.cells.concat(offen)))); }
+  out.forEach((st, i) => { st.stepNumber = i + 1; });
+  return out;
+}
+
 function planModule(moduleBuild, content, grid, opts = {}) {
   const warnings = [];
   const n = moduleBuild.module;
@@ -274,8 +332,15 @@ function planModule(moduleBuild, content, grid, opts = {}) {
       cameraHint: cameraFor(b), cells
     };
   });
-  Object.defineProperty(steps, 'warnings', { value: warnings, enumerable: false });
-  return steps;
+  const fertig = opts.ground ? schritteMitHalt(steps, (x, y, z) => {
+    const e = grid && grid.get ? grid.get(x, y, z) : null;
+    return !!(e && e.module < n);
+  }, opts.ground, (st, cells) => {
+    const b = bboxOf(cells);
+    return { ...st, yRange: [b.y0, b.y1], count: cells.length, cameraHint: cameraFor(b), cells };
+  }) : steps;
+  Object.defineProperty(fertig, 'warnings', { value: warnings, enumerable: false });
+  return fertig;
 }
 
 module.exports = { planModule, splitPart, sortedKeys, MAX_STEP, TARGET_MAX, MIN_STEP };

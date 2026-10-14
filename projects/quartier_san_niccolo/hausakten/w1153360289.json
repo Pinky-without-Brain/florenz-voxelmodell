@@ -1,0 +1,40 @@
+{
+  "id": "w1153360289",
+  "typ": "zweckbau",
+  "epoche": "19.–20. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 1,
+    "material": "putz",
+    "putzfarbe": "gelb",
+    "erdgeschoss": {
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 5,
+      "fenster": "rechteck"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "keiner",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "sattel",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ zweckbau nach Kleinbau/Nebengebäude; Epoche, Achsen und Farbe sind Schätzungen."
+}

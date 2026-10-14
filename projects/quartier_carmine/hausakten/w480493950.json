@@ -1,0 +1,51 @@
+{
+  "id": "w480493950",
+  "typ": "zweckbau",
+  "epoche": "19.–20. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 8
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 2,
+    "material": "putz",
+    "putzfarbe": "sand",
+    "erdgeschoss": {
+      "art": "geschlossen",
+      "fenster": "keine"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "keiner",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "sattel",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ zweckbau nach Kleinbau/Nebengebäude; Epoche, Achsen und Farbe sind Schätzungen."
+}

@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 224.832 |
-| Bauschritte | 117 |
+| Blöcke | 225.851 |
+| Bauschritte | 118 |
 | Y-Bereich | 48 bis 66 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
-| Kleinster Schritt | 390 Blöcke (Schritt 111.117) |
-| Mittlerer Schritt | 1.922 Blöcke |
+| Kleinster Schritt | 395 Blöcke (Schritt 111.118) |
+| Mittlerer Schritt | 1.914 Blöcke |
 | Größter Schritt | 2.083 Blöcke (Schritt 111.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 131.302 | 58,4 % |
-| Kies | `gravel` | 65.651 | 29,2 % |
-| Polierter Tuffstein | `polished_tuff` | 10.696 | 4,8 % |
+| Wasser | `water` | 131.302 | 58,1 % |
+| Kies | `gravel` | 65.651 | 29,1 % |
+| Polierter Tuffstein | `polished_tuff` | 11.772 | 5,2 % |
 | Polierter Andesit | `polished_andesite` | 5.034 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 4.431 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 4.442 | 2,0 % |
 | Grasblock | `grass_block` | 4.044 | 1,8 % |
-| Stein | `stone` | 2.964 | 1,3 % |
-| Steinziegel | `stone_bricks` | 312 | 0,1 % |
+| Stein | `stone` | 2.892 | 1,3 % |
+| Steinziegel | `stone_bricks` | 316 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 93 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 91 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 73 | 0,0 % |
@@ -48,23 +48,23 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 7.133 | 111.1–111.4 |
+| 1 | `boeschung` | Böschung und Mantel | 7.061 | 111.1–111.4 |
 | 2 | `arno_bett` | Flussbett | 65.651 | 111.5–111.36 |
 | 3 | `arno_wasser` | Arno | 131.302 | 111.37–111.100 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 6.654 | 111.101–111.105 |
-| 5 | `gehwege` | Gehwege | 3.987 | 111.106–111.108 |
+| 5 | `gehwege` | Gehwege | 3.993 | 111.106–111.108 |
 | 6 | `stufen` | Treppenflächen | 398 | 111.109 |
-| 7 | `hof_pflaster` | Höfe | 4.336 | 111.110–111.112 |
-| 8 | `rasen` | Grün und offenes Gelände | 4.415 | 111.113–111.115 |
-| 9 | `ufer_bruestung` | Brüstung der Lungarni | 566 | 111.116 |
-| 10 | `mauern_garten` | Gartenmauern | 390 | 111.117 |
+| 7 | `hof_pflaster` | Höfe | 5.412 | 111.110–111.113 |
+| 8 | `rasen` | Grün und offenes Gelände | 4.415 | 111.114–111.116 |
+| 9 | `ufer_bruestung` | Brüstung der Lungarni | 570 | 111.117 |
+| 10 | `mauern_garten` | Gartenmauern | 395 | 111.118 |
 
 ## Bauschritte
 
 ### Schritt 111.1 – Böschung und Mantel – Teil 1/4 (Y 48–51)
 
 - **Y-Bereich:** 48 bis 51
-- **Blöcke:** 1.776
+- **Blöcke:** 1.783
 - **Bauteile:** `boeschung`
 
 **Teileliste**
@@ -72,7 +72,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.559 |
-| Stein | `stone` | 217 |
+| Stein | `stone` | 224 |
 
 **Beschreibung**
 
@@ -93,7 +93,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 111.2 – Böschung und Mantel – Teil 2/4 (Y 52–55)
 
 - **Y-Bereich:** 52 bis 55
-- **Blöcke:** 1.915
+- **Blöcke:** 1.876
 - **Bauteile:** `boeschung`
 
 **Teileliste**
@@ -101,7 +101,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.272 |
-| Stein | `stone` | 643 |
+| Stein | `stone` | 604 |
 
 **Beschreibung**
 
@@ -122,7 +122,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 111.3 – Böschung und Mantel – Teil 3/4 (Y 56–59)
 
 - **Y-Bereich:** 56 bis 59
-- **Blöcke:** 1.775
+- **Blöcke:** 1.730
 - **Bauteile:** `boeschung`
 
 **Teileliste**
@@ -130,7 +130,7 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.105 |
-| Stein | `stone` | 670 |
+| Stein | `stone` | 625 |
 
 **Beschreibung**
 
@@ -151,14 +151,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 111.4 – Böschung und Mantel – Teil 4/4 (Y 60–64)
 
 - **Y-Bereich:** 60 bis 64
-- **Blöcke:** 1.667
+- **Blöcke:** 1.672
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.312 |
+| Stein | `stone` | 1.317 |
 | Polierter Andesit | `polished_andesite` | 355 |
 
 **Beschreibung**
@@ -3013,14 +3013,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 111.106 – Gehwege – Teil 1/3 (Y 51–59)
 
 - **Y-Bereich:** 51 bis 59
-- **Blöcke:** 1.280
+- **Blöcke:** 1.287
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.176 |
+| Glatter Stein | `smooth_stone` | 1.183 |
 | Polierter Andesit | `polished_andesite` | 104 |
 
 **Beschreibung**
@@ -3042,14 +3042,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 111.107 – Gehwege – Teil 2/3 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 901
+- **Blöcke:** 902
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 833 |
+| Glatter Stein | `smooth_stone` | 834 |
 | Polierter Andesit | `polished_andesite` | 68 |
 
 **Beschreibung**
@@ -3071,14 +3071,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 111.108 – Gehwege – Teil 3/3 (Y 62–65)
 
 - **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.806
+- **Blöcke:** 1.804
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.778 |
+| Glatter Stein | `smooth_stone` | 1.776 |
 | Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
@@ -3138,17 +3138,17 @@ Treppenblöcke folgen in einer späteren Stufe.
 
 Viele Treppen führen in Oltrarno die Hänge hinauf.
 
-### Schritt 111.110 – Höfe – Teil 1/3 (Y 50–50)
+### Schritt 111.110 – Höfe – Teil 1/4 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
-- **Blöcke:** 1.404
+- **Blöcke:** 1.403
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.404 |
+| Polierter Tuffstein | `polished_tuff` | 1.403 |
 
 **Beschreibung**
 
@@ -3166,17 +3166,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 111.111 – Höfe – Teil 2/3 (Y 51–59)
+### Schritt 111.111 – Höfe – Teil 2/4 (Y 51–55)
 
-- **Y-Bereich:** 51 bis 59
-- **Blöcke:** 1.715
+- **Y-Bereich:** 51 bis 55
+- **Blöcke:** 1.245
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.714 |
+| Polierter Tuffstein | `polished_tuff` | 1.244 |
 | Polierter Andesit | `polished_andesite` | 1 |
 
 **Beschreibung**
@@ -3195,7 +3195,35 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 111.112 – Höfe – Teil 3/3 (Y 60–63)
+### Schritt 111.112 – Höfe – Teil 3/4 (Y 56–59)
+
+- **Y-Bereich:** 56 bis 59
+- **Blöcke:** 1.547
+- **Bauteile:** `hof_pflaster`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.547 |
+
+**Beschreibung**
+
+Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
+
+**Tipp**
+
+Glatt verlegen.
+
+**Achtung**
+
+Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
+
+**Fakt**
+
+Hinter den Fassaden liegen viele kleine Innenhöfe.
+
+### Schritt 111.113 – Höfe – Teil 4/4 (Y 60–63)
 
 - **Y-Bereich:** 60 bis 63
 - **Blöcke:** 1.217
@@ -3223,7 +3251,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 111.113 – Grün und offenes Gelände – Teil 1/3 (Y 50–50)
+### Schritt 111.114 – Grün und offenes Gelände – Teil 1/3 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.551
@@ -3252,7 +3280,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 111.114 – Grün und offenes Gelände – Teil 2/3 (Y 51–54)
+### Schritt 111.115 – Grün und offenes Gelände – Teil 2/3 (Y 51–54)
 
 - **Y-Bereich:** 51 bis 54
 - **Blöcke:** 1.494
@@ -3282,7 +3310,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 111.115 – Grün und offenes Gelände – Teil 3/3 (Y 55–64)
+### Schritt 111.116 – Grün und offenes Gelände – Teil 3/3 (Y 55–64)
 
 - **Y-Bereich:** 55 bis 64
 - **Blöcke:** 1.370
@@ -3312,17 +3340,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 111.116 – Brüstung der Lungarni
+### Schritt 111.117 – Brüstung der Lungarni
 
 - **Y-Bereich:** 56 bis 66
-- **Blöcke:** 566
+- **Blöcke:** 570
 - **Bauteile:** `ufer_bruestung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 566 |
+| Glatter Stein | `smooth_stone` | 570 |
 
 **Beschreibung**
 
@@ -3340,18 +3368,18 @@ An Brücken und Wahrzeichen bleibt die Brüstung offen.
 
 Die Lungarni wurden im 19. Jahrhundert als Uferstraßen mit Mauern ausgebaut.
 
-### Schritt 111.117 – Gartenmauern
+### Schritt 111.118 – Gartenmauern
 
 - **Y-Bereich:** 52 bis 60
-- **Blöcke:** 390
+- **Blöcke:** 395
 - **Bauteile:** `mauern_garten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 312 |
-| Glatter Stein | `smooth_stone` | 78 |
+| Steinziegel | `stone_bricks` | 316 |
+| Glatter Stein | `smooth_stone` | 79 |
 
 **Beschreibung**
 

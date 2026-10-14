@@ -76,3 +76,20 @@ test('einlagiges Bauteil aus 162 Spalten à 89 (14.418) wird ausgewogen in 7 Sch
   assert.equal(steps.reduce((a, s) => a + s.count, 0), 14418);
   for (const s of steps) assert.ok(s.count >= 1900 && s.count <= 2100, `Schritt mit ${s.count}`);
 });
+
+test('Zellen ohne Halt im eigenen Schritt rücken in den ersten Schritt mit Halt (schritteMitHalt)', () => {
+  const k = (x, y, z) => ((x + 4096) * 8192 + (z + 4096)) * 512 + y;
+  // Bauteil A: Wand x 0..29, y 0..49 bei z 0 (1.500 Zellen, am Boden) + Splitter (40, 10, 0) / (40, 11, 0),
+  // der nur an Bauteil B grenzt; Bauteil B: Wand x 41..70 bei z 0, später gebaut.
+  const a = [], b = [];
+  for (let x = 0; x < 30; x++) for (let y = 0; y < 50; y++) { a.push(k(x, y, 0)); b.push(k(x + 41, y, 0)); }
+  a.push(k(40, 10, 0), k(40, 11, 0));
+  const m = { module: 1, parts: [{ id: 'a', keys: a }, { id: 'b', keys: b }] };
+  const ground = { hasGroundContact: (x, y) => y === 0 };
+  const steps = planModule(m, null, null, { ground });
+  const wo = (key) => steps.findIndex((s) => s.cells.includes(key));
+  assert.ok(wo(k(40, 10, 0)) > wo(k(0, 10, 0)), 'Splitter liegt nach seinem Bauteil');
+  assert.ok(wo(k(40, 10, 0)) >= wo(k(41, 10, 0)), 'Splitter liegt nicht vor seiner Stütze');
+  assert.equal(steps.reduce((s, st) => s + st.count, 0), 3002);
+  steps.forEach((s, i) => assert.equal(s.stepNumber, i + 1));
+});
