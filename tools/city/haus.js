@@ -620,14 +620,14 @@ function bauHaus(writer, g, akte, kontext) {
   const sorted = plan.gesims.slice().sort((a, b) => (a.x - b.x) || (a.z - b.z));
   for (const c of sorted) {
     for (const row of gesimsReihen(gsm.art, gsm.tiefeBl, c.depth, c.par, plan.flach, gr)) {
-      if (!kontext.beanspruche(c.x, eaves + row.dy, c.z)) continue;
+      if (!kontext.beanspruche(c.x, eaves + row.dy, c.z, plan.id)) continue;
       set(c.x, eaves + row.dy, c.z, row.role);
     }
   }
 
   // Vorsprünge der Fassade (Sohlbänke, Konsolen, Marcapiano)
   for (const v of plan.vorsprung) {
-    if (!kontext.beanspruche(v.x, v.y, v.z)) continue;
+    if (!kontext.beanspruche(v.x, v.y, v.z, plan.id)) continue;
     set(v.x, v.y, v.z, v.role);
   }
   return n;

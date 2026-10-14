@@ -18,7 +18,7 @@ const { ladeVorrang } = require('../wahrzeichen/projekt.js');
 const ROOT = path.resolve(__dirname, '..', '..');
 const DEFAULT_DATEN = path.join(ROOT, 'data', 'stadt');
 const MAX_MODULE = 511;
-const NEIGHBOUR_MARGIN = 3;   // Blöcke: Gebäude innerhalb dieses Abstands zählen als direkte Nachbarn
+const NEIGHBOUR_MARGIN = 7;   // Blöcke: Gebäude in diesem Abstand kommen ins Parzellenraster (Vorsprünge: 2 × Gesimstiefe + 1)
 const BUCKET = 64;
 
 const TYP_NAME = {

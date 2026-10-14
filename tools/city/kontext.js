@@ -1,7 +1,10 @@
 'use strict';
 // Kontext des Hausgenerators: Parzellenraster, Umfeld, Boden und Pläne der Häuser eines Quartiers.
 
-const { makeParzellen, istVorrangId } = require('./parzellen.js');
+const { makeParzellen, istVorrangId, compareIds } = require('./parzellen.js');
+
+// Umkreis für Vorsprünge über Projektgrenzen (Gesimstiefe höchstens 3, siehe akte.js)
+const VORSPRUNG_R = 3;
 const { umfeldVon } = require('./umfeld.js');
 const { planHaus } = require('./haus.js');
 const A = require('./akte.js');
@@ -38,8 +41,16 @@ class Kontext {
   }
 
   /** Beansprucht die Zelle für ein überstehendes Bauteil (Gesims); true, wenn sie noch frei war. Vorrangzellen nie. */
-  beanspruche(x, y, z) {
+  beanspruche(x, y, z, id) {
     if (this.parz.istVorrang(x, z)) return false;
+    // Über Projektgrenzen eindeutig: steht im Umkreis VORSPRUNG_R ein Gebäude eines anderen Projekts (auch ein noch nicht
+    // gebautes) mit kleinerer ID, gehört die Zelle diesem; sonst würden sich Gesimse benachbarter Quartiere überlagern
+    if (id !== undefined) {
+      for (let dx = -VORSPRUNG_R; dx <= VORSPRUNG_R; dx++) for (let dz = -VORSPRUNG_R; dz <= VORSPRUNG_R; dz++) {
+        const o = this.parz.owner(x + dx, z + dz);
+        if (o && o !== id && !istVorrangId(o) && !this.projekt.has(o) && compareIds(o, id) < 0) return false;
+      }
+    }
     const k = `${x},${y},${z}`;
     if (this._claims.has(k)) return false;
     this._claims.add(k);
