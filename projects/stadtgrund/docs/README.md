@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 1.240.386 Blöcke in 742 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.265.238 Blöcke in 755 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -864 bis 415, Y 48 bis 84, Z -528 bis 1391.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -18,35 +18,35 @@ Ausdehnung des Modells: X -864 bis 415, Y 48 bis 84, Z -528 bis 1391.
 | 69 | Kachel 9/4 – Piazza del Duomo | 42.331 | 24 | [BAUANLEITUNG_MODUL_69.md](BAUANLEITUNG_MODUL_69.md) |
 | 70 | Kachel 10/4 – Piazza del Duomo | 35.986 | 22 | [BAUANLEITUNG_MODUL_70.md](BAUANLEITUNG_MODUL_70.md) |
 | 82 | Kachel 7/5 – Via degli Strozzi | 35.158 | 23 | [BAUANLEITUNG_MODUL_82.md](BAUANLEITUNG_MODUL_82.md) |
-| 83 | Kachel 8/5 – Piazza della Repubblica | 57.185 | 35 | [BAUANLEITUNG_MODUL_83.md](BAUANLEITUNG_MODUL_83.md) |
-| 84 | Kachel 9/5 – Piazza del Duomo | 25.964 | 19 | [BAUANLEITUNG_MODUL_84.md](BAUANLEITUNG_MODUL_84.md) |
+| 83 | Kachel 8/5 – Piazza della Repubblica | 57.720 | 35 | [BAUANLEITUNG_MODUL_83.md](BAUANLEITUNG_MODUL_83.md) |
+| 84 | Kachel 9/5 – Piazza del Duomo | 26.607 | 19 | [BAUANLEITUNG_MODUL_84.md](BAUANLEITUNG_MODUL_84.md) |
 | 85 | Kachel 10/5 – Piazza del Duomo | 31.566 | 22 | [BAUANLEITUNG_MODUL_85.md](BAUANLEITUNG_MODUL_85.md) |
-| 98 | Kachel 8/6 – Piazza della Repubblica | 50.292 | 29 | [BAUANLEITUNG_MODUL_98.md](BAUANLEITUNG_MODUL_98.md) |
-| 99 | Kachel 9/6 – Piazza della Signoria | 36.518 | 25 | [BAUANLEITUNG_MODUL_99.md](BAUANLEITUNG_MODUL_99.md) |
-| 112 | Kachel 7/7 – Lungarno degli Acciaioli | 113.551 | 65 | [BAUANLEITUNG_MODUL_112.md](BAUANLEITUNG_MODUL_112.md) |
-| 113 | Kachel 8/7 – Piazza della Signoria | 39.153 | 27 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
-| 114 | Kachel 9/7 – Piazza della Signoria | 48.716 | 32 | [BAUANLEITUNG_MODUL_114.md](BAUANLEITUNG_MODUL_114.md) |
-| 115 | Kachel 10/7 – Via dei Neri | 31.228 | 21 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
+| 98 | Kachel 8/6 – Piazza della Repubblica | 59.145 | 35 | [BAUANLEITUNG_MODUL_98.md](BAUANLEITUNG_MODUL_98.md) |
+| 99 | Kachel 9/6 – Piazza della Signoria | 49.715 | 32 | [BAUANLEITUNG_MODUL_99.md](BAUANLEITUNG_MODUL_99.md) |
+| 112 | Kachel 7/7 – Lungarno degli Acciaioli | 113.484 | 65 | [BAUANLEITUNG_MODUL_112.md](BAUANLEITUNG_MODUL_112.md) |
+| 113 | Kachel 8/7 – Piazza della Signoria | 40.842 | 27 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
+| 114 | Kachel 9/7 – Piazza della Signoria | 48.763 | 32 | [BAUANLEITUNG_MODUL_114.md](BAUANLEITUNG_MODUL_114.md) |
+| 115 | Kachel 10/7 – Via dei Neri | 31.183 | 21 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
 | 127 | Kachel 7/8 – Piazza di Santa Felicita | 132.271 | 70 | [BAUANLEITUNG_MODUL_127.md](BAUANLEITUNG_MODUL_127.md) |
 | 128 | Kachel 8/8 – Lungarno degli Archibusieri | 203.214 | 106 | [BAUANLEITUNG_MODUL_128.md](BAUANLEITUNG_MODUL_128.md) |
 | 129 | Kachel 9/8 – Piazza dei Giudici | 126.629 | 74 | [BAUANLEITUNG_MODUL_129.md](BAUANLEITUNG_MODUL_129.md) |
-| | **Summe** | **1.240.386** | **742** | |
+| | **Summe** | **1.265.238** | **755** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 530.889 | 42,8 % |
-| Wasser | `water` | 290.398 | 23,4 % |
-| Stein | `stone` | 167.978 | 13,5 % |
-| Kies | `gravel` | 145.819 | 11,8 % |
-| Glatter Stein | `smooth_stone` | 53.509 | 4,3 % |
-| Grasblock | `grass_block` | 24.540 | 2,0 % |
+| Polierter Tuffstein | `polished_tuff` | 529.682 | 41,9 % |
+| Wasser | `water` | 290.398 | 23,0 % |
+| Stein | `stone` | 194.347 | 15,4 % |
+| Kies | `gravel` | 145.819 | 11,5 % |
+| Glatter Stein | `smooth_stone` | 53.275 | 4,2 % |
+| Grasblock | `grass_block` | 24.498 | 1,9 % |
 | Polierter Andesit | `polished_andesite` | 12.180 | 1,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3.495 | 0,3 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2.929 | 0,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2.796 | 0,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2.774 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3.483 | 0,3 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2.921 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2.787 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2.769 | 0,2 % |
 | Steinziegel | `stone_bricks` | 1.536 | 0,1 % |
 | Glatter Quarzblock | `smooth_quartz` | 490 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 180 | 0,0 % |
@@ -63,6 +63,6 @@ Ausdehnung des Modells: X -864 bis 415, Y 48 bis 84, Z -528 bis 1391.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 11.994 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 11.960 |
 | Steintreppe | `stone_stairs` | 608 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 301 |

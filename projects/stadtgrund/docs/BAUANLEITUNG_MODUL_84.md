@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.964 |
+| Blöcke | 26.607 |
 | Bauschritte | 19 |
-| Y-Bereich | 63 bis 68 |
+| Y-Bereich | 62 bis 68 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
 | Z-Ausdehnung | 112 bis 431 (320 Blöcke) |
 | Kleinster Schritt | 305 Blöcke (Schritt 84.14) |
-| Mittlerer Schritt | 1.367 Blöcke |
-| Größter Schritt | 1.856 Blöcke (Schritt 84.6) |
+| Mittlerer Schritt | 1.400 Blöcke |
+| Größter Schritt | 2.057 Blöcke (Schritt 84.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 18.679 | 71,9 % |
-| Stein | `stone` | 6.416 | 24,7 % |
+| Polierter Tuffstein | `polished_tuff` | 18.656 | 70,1 % |
+| Stein | `stone` | 7.082 | 26,6 % |
 | Glatter Stein | `smooth_stone` | 291 | 1,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 156 | 0,6 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 156 | 0,6 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 134 | 0,5 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 117 | 0,5 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 117 | 0,4 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 | 0,0 % |
 | Grasblock | `grass_block` | 4 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1 | 0,0 % |
@@ -43,8 +43,8 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 6.416 | 84.1–84.5 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 13.999 | 84.6–84.14 |
+| 1 | `boeschung` | Böschung und Mantel | 7.082 | 84.1–84.5 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 13.976 | 84.6–84.14 |
 | 3 | `gehwege` | Gehwege | 8 | 84.15 |
 | 4 | `stufen` | Treppenflächen | 574 | 84.15 |
 | 5 | `plaetze_pflaster` | Plätze | 2.237 | 84.16–84.17 |
@@ -53,17 +53,17 @@
 
 ## Bauschritte
 
-### Schritt 84.1 – Böschung und Mantel – Teil 1/5 (Y 63–65)
+### Schritt 84.1 – Böschung und Mantel – Teil 1/5 (Y 62–64)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.628
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.174
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.628 |
+| Stein | `stone` | 1.174 |
 
 **Beschreibung**
 
@@ -84,14 +84,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 84.2 – Böschung und Mantel – Teil 2/5 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.247
+- **Blöcke:** 1.285
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.247 |
+| Stein | `stone` | 1.285 |
 
 **Beschreibung**
 
@@ -109,17 +109,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 84.3 – Böschung und Mantel – Teil 3/5 (Y 66–66)
+### Schritt 84.3 – Böschung und Mantel – Teil 3/5 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.353
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.292
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.353 |
+| Stein | `stone` | 1.292 |
 
 **Beschreibung**
 
@@ -140,14 +140,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 84.4 – Böschung und Mantel – Teil 4/5 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.359
+- **Blöcke:** 1.274
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.359 |
+| Stein | `stone` | 1.274 |
 
 **Beschreibung**
 
@@ -165,17 +165,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 84.5 – Böschung und Mantel – Teil 5/5 (Y 67–68)
+### Schritt 84.5 – Böschung und Mantel – Teil 5/5 (Y 66–68)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 829
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 2.057
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 829 |
+| Stein | `stone` | 2.057 |
 
 **Beschreibung**
 
@@ -252,14 +252,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 84.8 – Straßenpflaster – Teil 3/9 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.688
+- **Blöcke:** 1.680
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.688 |
+| Polierter Tuffstein | `polished_tuff` | 1.680 |
 
 **Beschreibung**
 
@@ -280,14 +280,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 84.9 – Straßenpflaster – Teil 4/9 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.624
+- **Blöcke:** 1.609
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.624 |
+| Polierter Tuffstein | `polished_tuff` | 1.609 |
 
 **Beschreibung**
 

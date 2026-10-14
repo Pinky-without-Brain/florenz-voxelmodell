@@ -1,0 +1,56 @@
+{
+  "id": "w495062055",
+  "typ": "casa_torre",
+  "epoche": "13. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 1,
+    "material": "bruchstein",
+    "putzfarbe": null,
+    "erdgeschoss": {
+      "art": "portal_seitlich",
+      "portalBreiteBl": 5,
+      "fenster": "rundbogen"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "pietra_forte",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "keiner",
+      "tiefeBl": 0
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.2,
+  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Proportion (schmal und hoch); Epoche, Achsen und Farbe sind Schätzungen."
+}

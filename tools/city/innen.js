@@ -405,6 +405,18 @@ function planInnen(plan, opts = {}) {
     for (const y of pt.ys) if (!ys.has(y + 1) && y + 1 <= plan.eaves) for (let h = 1; h <= 3; h++) kronen.push([x, y + h, z]);
   }
   if (kronen.length) res.unzugaenglich.push({ zellen: kronen, begruendung: 'Mauerkrone einer Teilwand zum Nachbarhaus, kein Raum' });
+  // Innenbereiche ohne Haustür (der Grundriss zerfällt an einer Engstelle in getrennte Bereiche): unzugänglich
+  if ((opts.tuerZellen || []).length) {
+    const tuerKeys = new Set();
+    for (const [x, z] of opts.tuerZellen) { tuerKeys.add(P.ck(x, z)); for (const [dx, dz] of N4) tuerKeys.add(P.ck(x + dx, z + dz)); }
+    const yTop = plan.eaves + 12;
+    for (const C of komponenten(I)) {
+      if ([...C].some((k) => tuerKeys.has(k))) continue;
+      const zellen = [];
+      for (const k of [...C].sort((a, b) => a - b)) for (let y = st[0].base; y <= yTop; y++) zellen.push([P.ckX(k), y, P.ckZ(k)]);
+      res.unzugaenglich.push({ zellen, begruendung: 'Hausteil ohne eigenen Zugang: der Grundriss zerfällt an einer Engstelle, die Verbindung ist nicht modelliert' });
+    }
+  }
   if (!(opts.tuerZellen || []).length) {
     const alle = [];
     const yTop = plan.eaves + 12;

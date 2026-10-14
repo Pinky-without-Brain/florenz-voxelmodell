@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 113.551 |
+| Blöcke | 113.484 |
 | Bauschritte | 65 |
 | Y-Bereich | 48 bis 65 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 384 Blöcke (Schritt 112.60) |
-| Mittlerer Schritt | 1.747 Blöcke |
+| Mittlerer Schritt | 1.746 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 112.9) |
 
 ## Gesamt-Stückliste
@@ -24,7 +24,7 @@
 | Wasser | `water` | 55.708 | 49,1 % |
 | Kies | `gravel` | 27.854 | 24,5 % |
 | Polierter Tuffstein | `polished_tuff` | 16.117 | 14,2 % |
-| Stein | `stone` | 6.044 | 5,3 % |
+| Stein | `stone` | 5.977 | 5,3 % |
 | Polierter Andesit | `polished_andesite` | 4.858 | 4,3 % |
 | Glatter Stein | `smooth_stone` | 1.193 | 1,1 % |
 | Steinziegel | `stone_bricks` | 736 | 0,6 % |
@@ -48,7 +48,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 10.200 | 112.1–112.8 |
+| 1 | `boeschung` | Böschung und Mantel | 10.133 | 112.1–112.8 |
 | 2 | `arno_bett` | Flussbett | 27.854 | 112.9–112.22 |
 | 3 | `arno_wasser` | Arno | 55.708 | 112.23–112.50 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 13.091 | 112.51–112.59 |
@@ -178,14 +178,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 112.5 – Böschung und Mantel – Teil 5/8 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.463
+- **Blöcke:** 1.433
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.303 |
+| Stein | `stone` | 1.273 |
 | Polierter Andesit | `polished_andesite` | 160 |
 
 **Beschreibung**
@@ -207,14 +207,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 112.6 – Böschung und Mantel – Teil 6/8 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.382
+- **Blöcke:** 1.280
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.306 |
+| Stein | `stone` | 1.204 |
 | Polierter Andesit | `polished_andesite` | 76 |
 
 **Beschreibung**
@@ -236,14 +236,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 112.7 – Böschung und Mantel – Teil 7/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.256
+- **Blöcke:** 1.315
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.148 |
+| Stein | `stone` | 1.207 |
 | Polierter Andesit | `polished_andesite` | 108 |
 
 **Beschreibung**
@@ -265,14 +265,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 112.8 – Böschung und Mantel – Teil 8/8 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 922
+- **Blöcke:** 928
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 922 |
+| Stein | `stone` | 928 |
 
 **Beschreibung**
 

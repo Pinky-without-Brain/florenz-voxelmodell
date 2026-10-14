@@ -39,9 +39,10 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
 | `palazzo_pitti` | Wahrzeichen (Palast, Corridoio Oltrarno) | 1.381.031 (Module 0–9) | **pflicht**, 94,6 %, 0 Komponenten, R14 0 | W7 erledigt (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.240.386 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.265.238 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 9 Projekte: Build OK, `--cross` 0 Konflikte (36 Paare), 422 Tests grün (2 übersprungen).
+Alle 10 Projekte: Build OK, `--cross` 0 Konflikte (45 Paare), 422 Tests grün (2 übersprungen).
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -81,11 +82,16 @@ Projekt `projects/palazzo_pitti/` nach `20_Stadtmodell_Florenz/wahrzeichen/palaz
 ### W7c Palazzo Pitti, Modul 8 (Innenräume) – **erledigt**
 Ausstattung als Reservierungen im Raumplan (`_raum.js`: `RESERVIERT`, `ausstattung(x, y, z)`): Wandfelder (Gold/Fresko) auf der Raumseite der Spinnwand und an den Appartamenti-Wänden, Schachböden, Deckenfresken, Wappen über dem Portal (Lage 19..21, über der Archivolte); die Rohbaumodule 0, 1, 6, 7 lassen diese Zellen aus, Modul 8 setzt sie. Dazu Möbel (Throne in Sala di Giove und Sala del Trono, Bänke, vier Pfeilerpaare im Vestibül). Je Raum ein Bauteil mit Content (Sala Bianca, fünf Planetensäle, Sala della Stufa, hintere Galerieräume, Galleria d'arte moderna, Vestibül, Appartamenti Reali, Wappen).
 
+### E1 Quartier Signoria – **erledigt**
+`projects/quartier_signoria/`: alle Isolati mit Schwerpunkt in den Kacheln 98, 99, 113 ohne Wahrzeichen- und Domplatz-Ring-Gebäude (182 Häuser; Badia Fiorentina und Mercato Nuovo herausgenommen, sie sind geplante Wahrzeichen). Akten per `node tools/city/akten_entwurf.js --project quartier_signoria` (Typologie). `tools/city/innen.js`: Innenbereiche ohne Haustür (Grundriss zerfällt an einer Engstelle) werden als unzugänglich deklariert. Danach Besitzraster und Stadtgrund neu.
+**Rezept für weitere Quartiere:** Isolati wählen (ohne `vorrang.json`-IDs, ohne Gebäude anderer Quartiere, ohne Gebäude geplanter Wahrzeichen aus `loadLandmarks()` in `tools/emit/stadtbasis.js`), `project.json` mit `generator: "quartier"`, `begehbarkeit: "pflicht"`, Akten entwerfen, bauen, `node tools/city/besitz.js`, Stadtgrund neu bauen, `--all --cross`, `node tools/emit/webindex.js`.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
-2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
-3. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
-4. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
+2. **Quartiere (Phase E)** nach dem Rezept oben, z. B. die Kacheln 84, 112, 115, 129 (Isolati um Uffizien-Ost, Lungarni, Santa Croce-Rand); jeweils ≈ 180 Häuser je Projekt.
+3. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
+4. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
+5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).
