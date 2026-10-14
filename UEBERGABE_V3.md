@@ -38,7 +38,7 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `orsanmichele` | Wahrzeichen | 88.949 | pflicht | B3 erledigt |
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 665.743 (8 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.240.083 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
 Alle 8 Projekte: Build OK, `--cross` 0 Konflikte (28 Paare), 418 Tests grün (2 übersprungen).
 
@@ -69,11 +69,11 @@ Pipeline für unabhängige Module (`"unabhaengig": true`: je Modul eigenes Grid,
 **Wichtig:** Ändert sich die Unterkante eines Projekts, `node tools/city/besitz.js` laufen lassen und den Stadtgrund neu bauen.
 
 ### S1 Teil 2 Stadtgrund – **erledigt**
-Gefällebegrenzung und Treppenblöcke (§8a), Ufer-Brüstung, Stadt- und Gartenmauern, Neptunbrunnen (Kachel 114) und Reiterstandbild (Kachel **99**, Berichtigung der Spezifikation). `aktiv` jetzt 69, 98, 99, 112, 113, 114, 127, 128.
+Gefällebegrenzung und Treppenblöcke (§8a), Ufer-Brüstung, Stadt- und Gartenmauern, Neptunbrunnen (Kachel 114) und Reiterstandbild (Kachel **99**, Berichtigung der Spezifikation). `aktiv` jetzt alle 21 Kacheln, die ein gebautes Projekt berühren (52–55, 67–70, 82–85, 98, 99, 112–115, 127–129), dazu Kachel 99 (Reiterstandbild).
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
-2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
+2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
 3. **Palazzo Pitti** (Katalog `20_Stadtmodell_Florenz/wahrzeichen/palazzo_pitti`), gleich mit Begehbarkeit „pflicht“. Der Korridor des Ponte Vecchio endet am Schnitt z = 1311 (als `tor` deklariert) und muss dort anschließen.
 4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert, Ponte Vecchio neu).
 

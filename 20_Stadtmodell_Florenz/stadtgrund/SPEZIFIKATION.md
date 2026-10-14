@@ -292,4 +292,5 @@ Je Kachel siehe §2.2 (min 23,7 k, Median 63,9 k, max 274,2 k). ≈ **8.300 Baus
 - Besitz gebauter Projekte aus ihren echten Säulen-minY (statt aus Masken und `bodenY`): konfliktfrei und lückenlos. Liegt minY ≥ groundTopY + 4 (Gesims, Brücke, Korridor über der Straße), bleibt die Spalte frei. Noch nicht gebaute Gebäude (auch Wahrzeichen ohne Projekt): `tMax = groundTopY − 1` (Rückfall §3.2); kein globales Parzellenraster.
 - Wasserspiegel: Median je 16er-Block über 3 × 3 Blöcke (48 × 48) statt Fenster 31; Wasserflächen bis 50.000 Zellen sind Teiche mit einem Spiegel je Polygon. Ergebnis am Ponte Vecchio Y 50 (Test).
 - Wasserspalten füllen das Bett von `groundTopY + 1` bis `W − 2`, wenn das Gelände tiefer liegt (Auflager, R3).
+**Stand 14.10.2026 abends:** 21 aktive Kacheln (alle, die ein gebautes Projekt berühren), 1.240.083 Blöcke, `--cross` 0 Konflikte.
 **Offen (nächste Pakete):** weitere Kacheln in `aktiv` (Kern, 131 Kacheln mit ≥ 30 % Gebäuden), danach Rand (S2); Uferabgänge (S4) und Bäume (S3) optional.
