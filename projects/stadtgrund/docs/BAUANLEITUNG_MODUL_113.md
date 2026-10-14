@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.842 |
+| Blöcke | 40.882 |
 | Bauschritte | 27 |
 | Y-Bereich | 48 bis 67 |
 | X-Ausdehnung | -544 bis -225 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 732 Blöcke (Schritt 113.20) |
-| Mittlerer Schritt | 1.513 Blöcke |
+| Mittlerer Schritt | 1.514 Blöcke |
 | Größter Schritt | 1.961 Blöcke (Schritt 113.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 25.191 | 61,7 % |
-| Stein | `stone` | 12.546 | 30,7 % |
-| Glatter Stein | `smooth_stone` | 1.273 | 3,1 % |
+| Polierter Tuffstein | `polished_tuff` | 25.154 | 61,5 % |
+| Stein | `stone` | 12.636 | 30,9 % |
+| Glatter Stein | `smooth_stone` | 1.260 | 3,1 % |
 | Polierter Andesit | `polished_andesite` | 563 | 1,4 % |
 | Grasblock | `grass_block` | 267 | 0,7 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 224 | 0,5 % |
@@ -50,15 +50,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 13.105 | 113.1–113.8 |
+| 1 | `boeschung` | Böschung und Mantel | 13.195 | 113.1–113.8 |
 | 2 | `arno_bett` | Flussbett | 90 | 113.9 |
 | 3 | `arno_wasser` | Arno | 180 | 113.9 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 16.259 | 113.9–113.18 |
-| 5 | `gehwege` | Gehwege | 816 | 113.19 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 16.239 | 113.9–113.18 |
+| 5 | `gehwege` | Gehwege | 803 | 113.19 |
 | 6 | `stufen` | Treppenflächen | 732 | 113.20 |
 | 7 | `plaetze_pflaster` | Plätze | 4.775 | 113.21–113.23 |
 | 8 | `plaetze_rand` | Randband | 4 | 113.24 |
-| 9 | `hof_pflaster` | Höfe | 4.606 | 113.24–113.27 |
+| 9 | `hof_pflaster` | Höfe | 4.589 | 113.24–113.27 |
 | 10 | `rasen` | Grün und offenes Gelände | 267 | 113.27 |
 | 11 | `ufer_bruestung` | Brüstung der Lungarni | 8 | 113.27 |
 
@@ -96,14 +96,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.2 – Böschung und Mantel – Teil 2/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.741
+- **Blöcke:** 1.835
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.662 |
+| Stein | `stone` | 1.756 |
 | Polierter Andesit | `polished_andesite` | 79 |
 
 **Beschreibung**
@@ -125,14 +125,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.3 – Böschung und Mantel – Teil 3/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.737
+- **Blöcke:** 1.834
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.737 |
+| Stein | `stone` | 1.834 |
 
 **Beschreibung**
 
@@ -153,14 +153,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.4 – Böschung und Mantel – Teil 4/8 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.951
+- **Blöcke:** 1.958
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.941 |
+| Stein | `stone` | 1.948 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
@@ -210,14 +210,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.6 – Böschung und Mantel – Teil 6/8 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.499
+- **Blöcke:** 1.435
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.489 |
+| Stein | `stone` | 1.425 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
@@ -239,14 +239,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.7 – Böschung und Mantel – Teil 7/8 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.504
+- **Blöcke:** 1.448
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.504 |
+| Stein | `stone` | 1.448 |
 
 **Beschreibung**
 
@@ -267,14 +267,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 113.8 – Böschung und Mantel – Teil 8/8 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.656
+- **Blöcke:** 1.668
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.656 |
+| Stein | `stone` | 1.668 |
 
 **Beschreibung**
 
@@ -325,14 +325,14 @@ Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell). B
 ### Schritt 113.10 – Straßenpflaster – Teil 2/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.914
+- **Blöcke:** 1.906
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.914 |
+| Polierter Tuffstein | `polished_tuff` | 1.906 |
 
 **Beschreibung**
 
@@ -353,14 +353,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 113.11 – Straßenpflaster – Teil 3/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.911
+- **Blöcke:** 1.908
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.911 |
+| Polierter Tuffstein | `polished_tuff` | 1.908 |
 
 **Beschreibung**
 
@@ -409,14 +409,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 113.13 – Straßenpflaster – Teil 5/10 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.790
+- **Blöcke:** 1.783
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.790 |
+| Polierter Tuffstein | `polished_tuff` | 1.783 |
 
 **Beschreibung**
 
@@ -493,14 +493,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 113.16 – Straßenpflaster – Teil 8/10 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.067
+- **Blöcke:** 1.065
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.067 |
+| Polierter Tuffstein | `polished_tuff` | 1.065 |
 
 **Beschreibung**
 
@@ -577,14 +577,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 113.19 – Gehwege
 
 - **Y-Bereich:** 56 bis 67
-- **Blöcke:** 816
+- **Blöcke:** 803
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 816 |
+| Glatter Stein | `smooth_stone` | 803 |
 
 **Beschreibung**
 
@@ -736,14 +736,14 @@ Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 ### Schritt 113.24 – Randband & Höfe – Teil 1/4 (Y 53–63)
 
 - **Y-Bereich:** 53 bis 67
-- **Blöcke:** 1.339
+- **Blöcke:** 1.336
 - **Bauteile:** `plaetze_rand`, `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.335 |
+| Polierter Tuffstein | `polished_tuff` | 1.332 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
@@ -765,14 +765,14 @@ Pietra forte ist der braune Sandstein der Palastfassaden. Hinter den Fassaden li
 ### Schritt 113.25 – Höfe – Teil 2/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.104
+- **Blöcke:** 1.100
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.104 |
+| Polierter Tuffstein | `polished_tuff` | 1.100 |
 
 **Beschreibung**
 
@@ -793,14 +793,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 113.26 – Höfe – Teil 3/4 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.584
+- **Blöcke:** 1.574
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.584 |
+| Polierter Tuffstein | `polished_tuff` | 1.574 |
 
 **Beschreibung**
 

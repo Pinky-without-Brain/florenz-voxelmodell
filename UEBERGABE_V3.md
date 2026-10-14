@@ -40,9 +40,11 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
 | `palazzo_pitti` | Wahrzeichen (Palast, Corridoio Oltrarno) | 1.381.031 (Module 0–9) | **pflicht**, 94,6 %, 0 Komponenten, R14 0 | W7 erledigt (14.10.) |
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
-| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.265.238 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
+| `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
+| `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
+| `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.266.139 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 10 Projekte: Build OK, `--cross` 0 Konflikte (45 Paare), 422 Tests grün (2 übersprungen).
+Alle 12 Projekte: Build OK, `--cross` 0 Konflikte (66 Paare), 422 Tests grün (2 übersprungen). Webdaten 45 MB.
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -84,11 +86,14 @@ Ausstattung als Reservierungen im Raumplan (`_raum.js`: `RESERVIERT`, `ausstattu
 
 ### E1 Quartier Signoria – **erledigt**
 `projects/quartier_signoria/`: alle Isolati mit Schwerpunkt in den Kacheln 98, 99, 113 ohne Wahrzeichen- und Domplatz-Ring-Gebäude (182 Häuser; Badia Fiorentina und Mercato Nuovo herausgenommen, sie sind geplante Wahrzeichen). Akten per `node tools/city/akten_entwurf.js --project quartier_signoria` (Typologie). `tools/city/innen.js`: Innenbereiche ohne Haustür (Grundriss zerfällt an einer Engstelle) werden als unzugänglich deklariert. Danach Besitzraster und Stadtgrund neu.
-**Rezept für weitere Quartiere:** Isolati wählen (ohne `vorrang.json`-IDs, ohne Gebäude anderer Quartiere, ohne Gebäude geplanter Wahrzeichen aus `loadLandmarks()` in `tools/emit/stadtbasis.js`), `project.json` mit `generator: "quartier"`, `begehbarkeit: "pflicht"`, Akten entwerfen, bauen, `node tools/city/besitz.js`, Stadtgrund neu bauen, `--all --cross`, `node tools/emit/webindex.js`.
+**Rezept für weitere Quartiere** (seit E2 als Werkzeug `node tools/city/quartier_neu.js <id> "<Titel>" <kacheln>`): Isolati wählen (ohne `vorrang.json`-IDs, ohne Gebäude anderer Quartiere, ohne Gebäude geplanter Wahrzeichen aus `loadLandmarks()` in `tools/emit/stadtbasis.js`), `project.json` mit `generator: "quartier"`, `begehbarkeit: "pflicht"`, Akten entwerfen, bauen, `node tools/city/besitz.js`, Stadtgrund neu bauen, `--all --cross`, `node tools/emit/webindex.js`.
+
+### E2 Quartiere Lungarni und Proconsolo – **erledigt**
+Mit dem neuen Werkzeug `tools/city/quartier_neu.js` (Rezept aus E1): `quartier_lungarni` (Kacheln 112, 128, 129; 103 Häuser) und `quartier_proconsolo` (84, 115; 134 Häuser), Akten aus Typologie, Begehbarkeit pflicht. Besitzraster (11 Projekte) und Stadtgrund neu.
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
-2. **Quartiere (Phase E)** nach dem Rezept oben, z. B. die Kacheln 84, 112, 115, 129 (Isolati um Uffizien-Ost, Lungarni, Santa Croce-Rand); jeweils ≈ 180 Häuser je Projekt.
+2. **Quartiere (Phase E)** mit `tools/city/quartier_neu.js`; erledigt: Kacheln 52–55/67–70/82–85 teilweise (Domplatz-Ring), 98, 99, 113 (Signoria), 112, 128, 129 (Lungarni), 84, 115 (Proconsolo). Vor jeder neuen Kachel `aktiv` des Stadtgrunds prüfen (Quartier und Stadtgrund gemeinsam). **Achtung Größe:** Webdaten 45 MB, die Stadtansicht lädt alle gebauten Projekte als Voxel (≈ 13 Mio Blöcke) – vor weiteren großen Wellen Detailstufen/Laden nach Sichtweite in der Webapp vorsehen (Phase B).
 3. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
 4. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).

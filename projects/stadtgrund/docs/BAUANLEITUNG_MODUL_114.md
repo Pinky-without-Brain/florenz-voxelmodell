@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 48.763 |
+| Blöcke | 48.181 |
 | Bauschritte | 32 |
 | Y-Bereich | 58 bis 80 |
 | X-Ausdehnung | -224 bis 95 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 505 Blöcke (Schritt 114.28) |
-| Mittlerer Schritt | 1.524 Blöcke |
-| Größter Schritt | 2.049 Blöcke (Schritt 114.2) |
+| Mittlerer Schritt | 1.506 Blöcke |
+| Größter Schritt | 1.939 Blöcke (Schritt 114.21) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 33.744 | 69,2 % |
-| Stein | `stone` | 10.002 | 20,5 % |
-| Glatter Stein | `smooth_stone` | 3.253 | 6,7 % |
+| Polierter Tuffstein | `polished_tuff` | 33.743 | 70,0 % |
+| Stein | `stone` | 9.421 | 19,6 % |
+| Glatter Stein | `smooth_stone` | 3.253 | 6,8 % |
 | Polierter Andesit | `polished_andesite` | 505 | 1,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 285 | 0,6 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 224 | 0,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 193 | 0,4 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 150 | 0,3 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 121 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 121 | 0,3 % |
 | Wasser | `water` | 120 | 0,2 % |
 | Grasblock | `grass_block` | 118 | 0,2 % |
 | Geschnittener Kupferblock | `cut_copper` | 20 | 0,0 % |
@@ -50,29 +50,29 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 10.002 | 114.1–114.7 |
+| 1 | `boeschung` | Böschung und Mantel | 9.421 | 114.1–114.7 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 16.506 | 114.8–114.17 |
 | 3 | `gehwege` | Gehwege | 1.269 | 114.18 |
 | 4 | `stufen` | Treppenflächen | 722 | 114.19 |
 | 5 | `plaetze_pflaster` | Plätze | 14.836 | 114.19–114.27 |
 | 6 | `plaetze_rand` | Randband | 505 | 114.28 |
-| 7 | `hof_pflaster` | Höfe | 4.380 | 114.29–114.31 |
+| 7 | `hof_pflaster` | Höfe | 4.379 | 114.29–114.31 |
 | 8 | `rasen` | Grün und offenes Gelände | 118 | 114.32 |
 | 9 | `nettuno_brunnen` | Neptunbrunnen | 425 | 114.32 |
 
 ## Bauschritte
 
-### Schritt 114.1 – Böschung und Mantel – Teil 1/7 (Y 58–60)
+### Schritt 114.1 – Böschung und Mantel – Teil 1/7 (Y 58–61)
 
-- **Y-Bereich:** 58 bis 60
-- **Blöcke:** 1.091
+- **Y-Bereich:** 58 bis 61
+- **Blöcke:** 1.063
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.091 |
+| Stein | `stone` | 1.063 |
 
 **Beschreibung**
 
@@ -90,17 +90,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 114.2 – Böschung und Mantel – Teil 2/7 (Y 61–63)
+### Schritt 114.2 – Böschung und Mantel – Teil 2/7 (Y 62–63)
 
-- **Y-Bereich:** 61 bis 63
-- **Blöcke:** 2.049
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.496
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.049 |
+| Stein | `stone` | 1.496 |
 
 **Beschreibung**
 
@@ -930,14 +930,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 114.31 – Höfe – Teil 3/3 (Y 62–67)
 
 - **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.488
+- **Blöcke:** 1.487
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.488 |
+| Polierter Tuffstein | `polished_tuff` | 1.487 |
 
 **Beschreibung**
 
