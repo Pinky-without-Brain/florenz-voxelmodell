@@ -8,7 +8,9 @@
 const path = require('node:path');
 const R = path.resolve(__dirname, '..', '..');
 const fs=require('fs');
-const [id, titel, kl] = process.argv.slice(2); const kacheln = kl.split(',').map(Number);
+const [id, titel, kl] = process.argv.slice(2);
+if (!id || !titel || !kl) { console.error('Aufruf: node tools/city/quartier_neu.js <id> "<Titel>" <kachel,kachel,...>'); process.exit(1); }
+const kacheln = kl.split(',').map(Number);
 const iso=require(R+'/data/stadt/isolati.json').isolati;
 const vor=new Set(Object.keys(require(R+'/data/stadt/vorrang.json').ids));
 const andere=new Set(); for (const d of fs.readdirSync(R+'/projects')) { const f=R+'/projects/'+d+'/project.json'; if (!fs.existsSync(f)) continue; const j=JSON.parse(fs.readFileSync(f,'utf8')); if (j.id!==id && j.type==='quartier') for (const g of j.gebaeude) andere.add(g); }
