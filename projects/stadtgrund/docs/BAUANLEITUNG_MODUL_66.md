@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 41.994 |
+| Blöcke | 41.914 |
 | Bauschritte | 26 |
 | Y-Bereich | 58 bis 63 |
 | X-Ausdehnung | -1184 bis -865 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
 | Kleinster Schritt | 559 Blöcke (Schritt 66.10) |
-| Mittlerer Schritt | 1.615 Blöcke |
+| Mittlerer Schritt | 1.612 Blöcke |
 | Größter Schritt | 2.027 Blöcke (Schritt 66.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 33.036 | 78,7 % |
+| Polierter Tuffstein | `polished_tuff` | 33.036 | 78,8 % |
 | Glatter Stein | `smooth_stone` | 4.729 | 11,3 % |
-| Stein | `stone` | 2.795 | 6,7 % |
+| Stein | `stone` | 2.715 | 6,5 % |
 | Grasblock | `grass_block` | 875 | 2,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 193 | 0,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 148 | 0,4 % |
@@ -45,7 +45,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 2.795 | 66.1–66.2 |
+| 1 | `boeschung` | Böschung und Mantel | 2.715 | 66.1–66.2 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 9.104 | 66.3–66.7 |
 | 3 | `gehwege` | Gehwege | 2.226 | 66.8–66.9 |
 | 4 | `stufen` | Treppenflächen | 559 | 66.10 |
@@ -55,17 +55,17 @@
 
 ## Bauschritte
 
-### Schritt 66.1 – Böschung und Mantel – Teil 1/2 (Y 58–60)
+### Schritt 66.1 – Böschung und Mantel – Teil 1/2 (Y 58–61)
 
-- **Y-Bereich:** 58 bis 60
-- **Blöcke:** 1.112
+- **Y-Bereich:** 58 bis 61
+- **Blöcke:** 1.663
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.112 |
+| Stein | `stone` | 1.663 |
 
 **Beschreibung**
 
@@ -83,17 +83,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 66.2 – Böschung und Mantel – Teil 2/2 (Y 61–63)
+### Schritt 66.2 – Böschung und Mantel – Teil 2/2 (Y 62–63)
 
-- **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.683
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.052
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.683 |
+| Stein | `stone` | 1.052 |
 
 **Beschreibung**
 

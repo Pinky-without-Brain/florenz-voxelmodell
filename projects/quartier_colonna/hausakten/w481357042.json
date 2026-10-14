@@ -1,0 +1,48 @@
+{
+  "id": "w481357042",
+  "typ": "palazzo_ottocento",
+  "epoche": "19. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 11
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 9
+    },
+    {
+      "art": "og",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 10,
+    "material": "putz",
+    "putzfarbe": "grau",
+    "erdgeschoss": {
+      "art": "bottega_arcata",
+      "fenster": "rechteck_vergittert"
+    },
+    "fenster": {
+      "typ": "rechteck",
+      "rahmen": "pietra_serena",
+      "laeden": "gruen"
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Kunsthistorisches Institut in Florenz"
+}

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 97.702 |
+| Blöcke | 97.696 |
 | Bauschritte | 55 |
 | Y-Bereich | 57 bis 82 |
 | X-Ausdehnung | -2464 bis -2145 (320 Blöcke) |
@@ -21,9 +21,9 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 72.204 | 73,9 % |
+| Grasblock | `grass_block` | 72.211 | 73,9 % |
 | Polierter Tuffstein | `polished_tuff` | 7.374 | 7,5 % |
-| Stein | `stone` | 6.731 | 6,9 % |
+| Stein | `stone` | 6.718 | 6,9 % |
 | Tuffstein | `tuff` | 5.024 | 5,1 % |
 | Kies | `gravel` | 3.546 | 3,6 % |
 | Glatter Stein | `smooth_stone` | 1.962 | 2,0 % |
@@ -34,12 +34,12 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 6.731 | 167.1–167.5 |
+| 1 | `boeschung` | Böschung und Mantel | 6.718 | 167.1–167.5 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 4.157 | 167.6–167.8 |
 | 3 | `strassen_fahrbahn` | Hauptstraßen | 89 | 167.9 |
 | 4 | `gehwege` | Gehwege | 1.769 | 167.9 |
 | 5 | `hof_pflaster` | Höfe | 3.217 | 167.10–167.11 |
-| 6 | `rasen` | Grün und offenes Gelände | 72.204 | 167.12–167.49 |
+| 6 | `rasen` | Grün und offenes Gelände | 72.211 | 167.12–167.49 |
 | 7 | `gruen_wege` | Wege im Grün | 3.546 | 167.50–167.51 |
 | 8 | `mauern_stadt` | Stadtmauer | 5.024 | 167.52–167.54 |
 | 9 | `mauern_garten` | Gartenmauern | 965 | 167.55 |
@@ -49,14 +49,14 @@
 ### Schritt 167.1 – Böschung und Mantel – Teil 1/5 (Y 57–60)
 
 - **Y-Bereich:** 57 bis 60
-- **Blöcke:** 1.671
+- **Blöcke:** 1.656
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.671 |
+| Stein | `stone` | 1.656 |
 
 **Beschreibung**
 
@@ -77,14 +77,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 167.2 – Böschung und Mantel – Teil 2/5 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 969
+- **Blöcke:** 971
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 969 |
+| Stein | `stone` | 971 |
 
 **Beschreibung**
 
@@ -358,14 +358,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 167.12 – Grün und offenes Gelände – Teil 1/38 (Y 57–59)
 
 - **Y-Bereich:** 57 bis 59
-- **Blöcke:** 2.069
+- **Blöcke:** 2.076
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.069 |
+| Grasblock | `grass_block` | 2.076 |
 
 **Beschreibung**
 

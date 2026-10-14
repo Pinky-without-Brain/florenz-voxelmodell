@@ -1,0 +1,52 @@
+{
+  "id": "w484069209",
+  "typ": "loggia",
+  "epoche": "14.–15. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    },
+    {
+      "art": "og",
+      "hoeheBl": 6
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 3,
+    "material": "stein_glatt",
+    "putzfarbe": null,
+    "erdgeschoss": {
+      "art": "loggia_offen",
+      "fenster": "keine"
+    },
+    "fenster": {
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
+      "laeden": null
+    },
+    "gesims": {
+      "art": "cornicione_stein",
+      "tiefeBl": 2
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ loggia nach Name (Loggia); Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Loggia Reale"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "w479740604",
+  "typ": "palazzo_cinquecento",
+  "epoche": "16.–17. Jh.",
+  "geschosse": [
+    {
+      "art": "eg",
+      "hoeheBl": 10
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 10
+    },
+    {
+      "art": "og",
+      "hoeheBl": 10
+    }
+  ],
+  "fassade": {
+    "kanten": "strasse",
+    "achsen": 8,
+    "material": "putz",
+    "putzfarbe": "ocker",
+    "erdgeschoss": {
+      "art": "portal_seitlich",
+      "portalBreiteBl": 7,
+      "fenster": "kniefenster"
+    },
+    "fenster": {
+      "typ": "tabernakel",
+      "rahmen": "pietra_forte",
+      "laeden": "gruen"
+    },
+    "gesims": {
+      "art": "putzgesims",
+      "tiefeBl": 1
+    },
+    "extras": []
+  },
+  "dach": {
+    "form": "walm",
+    "material": "coppi",
+    "altana": false
+  },
+  "quelle": "typologie",
+  "sicherheit": 0.3,
+  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "name": "Villa Ruspoli o villino Barbolani"
+}

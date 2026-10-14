@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 45.897 |
+| Blöcke | 45.879 |
 | Bauschritte | 29 |
 | Y-Bereich | 57 bis 67 |
 | X-Ausdehnung | 1056 bis 1375 (320 Blöcke) |
 | Z-Ausdehnung | 112 bis 431 (320 Blöcke) |
 | Kleinster Schritt | 395 Blöcke (Schritt 88.15) |
-| Mittlerer Schritt | 1.583 Blöcke |
+| Mittlerer Schritt | 1.582 Blöcke |
 | Größter Schritt | 2.073 Blöcke (Schritt 88.9) |
 
 ## Gesamt-Stückliste
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 31.311 | 68,2 % |
-| Stein | `stone` | 9.304 | 20,3 % |
+| Stein | `stone` | 9.286 | 20,2 % |
 | Glatter Stein | `smooth_stone` | 3.093 | 6,7 % |
 | Grasblock | `grass_block` | 1.794 | 3,9 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 122 | 0,3 % |
@@ -45,7 +45,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 9.304 | 88.1–88.6 |
+| 1 | `boeschung` | Böschung und Mantel | 9.286 | 88.1–88.6 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 10.919 | 88.7–88.12 |
 | 3 | `gehwege` | Gehwege | 2.248 | 88.13–88.14 |
 | 4 | `stufen` | Treppenflächen | 395 | 88.15 |
@@ -58,14 +58,14 @@
 ### Schritt 88.1 – Böschung und Mantel – Teil 1/6 (Y 57–62)
 
 - **Y-Bereich:** 57 bis 62
-- **Blöcke:** 1.844
+- **Blöcke:** 1.859
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.844 |
+| Stein | `stone` | 1.859 |
 
 **Beschreibung**
 
@@ -84,6 +84,34 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
 ### Schritt 88.2 – Böschung und Mantel – Teil 2/6 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.616
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.616 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 88.3 – Böschung und Mantel – Teil 3/6 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.631
@@ -111,45 +139,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 88.3 – Böschung und Mantel – Teil 3/6 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.624
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 1.624 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
 ### Schritt 88.4 – Böschung und Mantel – Teil 4/6 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.435
+- **Blöcke:** 1.413
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.435 |
+| Stein | `stone` | 1.413 |
 
 **Beschreibung**
 
@@ -170,14 +170,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 88.5 – Böschung und Mantel – Teil 5/6 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.432
+- **Blöcke:** 1.429
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.432 |
+| Stein | `stone` | 1.429 |
 
 **Beschreibung**
 

@@ -253,7 +253,10 @@ function schritteMitHalt(steps, frueherModul, ground, mkStep) {
     for (const k of eigen) gesetzt.add(k);
     for (const k of nach) gesetzt.add(k);
   }
-  if (offen.length) { const last = out.pop(); out.push(mkStep(last, sortedKeys(last.cells.concat(offen)))); }
+  if (offen.length) {                    // bleibt ohne Halt (R3 meldet es): an den letzten Schritt anhängen
+    if (out.length) { const last = out.pop(); out.push(mkStep(last, sortedKeys(last.cells.concat(offen)))); }
+    else out.push(mkStep(steps[steps.length - 1], sortedKeys(offen)));  // kein Schritt hatte Halt
+  }
   out.forEach((st, i) => { st.stepNumber = i + 1; });
   return out;
 }

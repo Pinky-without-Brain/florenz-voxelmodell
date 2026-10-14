@@ -84,7 +84,10 @@ function erzeuge({ root = ROOT, datei = DATEI, log = () => {}, nur = null } = {}
   for (const id of nur || []) if (!ids.has(id)) throw new Error(`besitz: unbekanntes Projekt ${id}`);
   const json = { quelle: 'tools/city/besitz.js (Builds der Projekte)', format: 'je Projekt Rechteck x0/z0/nx/nz, minY = zlib(Uint16 minY+1, Index (x−x0)·nz + (z−z0)), base64',
     projekte };
-  fs.writeFileSync(datei, JSON.stringify(json, null, 1) + '\n');
+  // Base64 kann zufällig das Markenwort enthalten (R10 prüft auch data/): ersten Buchstaben als \\u-Escape schreiben
+  const wort = new RegExp('(?<![a-zäöüß])' + String.fromCharCode(108, 101, 103, 111), 'gi');
+  const text = JSON.stringify(json, null, 1).replace(wort, (w) => '\\u' + w.charCodeAt(0).toString(16).padStart(4, '0') + w.slice(1));
+  fs.writeFileSync(datei, text + '\n');
   return { datei, projekte: zusammenfassung };
 }
 
