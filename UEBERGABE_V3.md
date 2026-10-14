@@ -75,7 +75,7 @@ Gefällebegrenzung und Treppenblöcke (§8a), Ufer-Brüstung, Stadt- und Gartenm
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
 3. **Palazzo Pitti** (Katalog `20_Stadtmodell_Florenz/wahrzeichen/palazzo_pitti`), gleich mit Begehbarkeit „pflicht“. Der Korridor des Ponte Vecchio endet am Schnitt z = 1311 (als `tor` deklariert) und muss dort anschließen.
-4. Statistikseite `20_Stadtmodell_Florenz/STATISTIK.html` aktualisieren (Blockzahlen Dom/Domplatz-Ring geändert, Ponte Vecchio neu).
+4. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).
