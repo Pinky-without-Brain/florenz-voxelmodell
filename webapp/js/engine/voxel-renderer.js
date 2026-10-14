@@ -22,6 +22,7 @@ window.VoxelRenderer = (function() {
   let plazaMeshRef = null;
   let isPaused = false;
   let siteVisible = true;    // Dom-Umgebung (Piazza, OSM-Häuser, Richtungsschilder)
+  const landschaft = [];     // Kulisse um den Dom (Hügel ab Radius 650, Zypressen, Arno-Fläche); nur beim Dom sichtbar
   let groundY = 64;          // Boden-Y des Rasters (Dom: 64); setContext() ändert ihn für andere Projekte
   let overviewMesher = false; // Gesamtansicht per Chunk-Mesher (V3 B2, ?overview=mesh); Standard bleibt InstancedMesh (Messung: kein Gewinn)
 
@@ -320,6 +321,7 @@ window.VoxelRenderer = (function() {
     const terrainMesh = new THREE.Mesh(terrainGeo, terrainMat);
     terrainMesh.receiveShadow = true;
     scene.add(terrainMesh);
+    landschaft.push(terrainMesh);
 
     // 4. Toskanische Zypressen (AUF DEN ENTFERNTEN HÜGELN: dist > 680)
     const trunkGeo = new THREE.CylinderGeometry(0.5, 0.7, 5.0, 6);
@@ -353,6 +355,7 @@ window.VoxelRenderer = (function() {
       cypressGroup.add(tree);
     }
     scene.add(cypressGroup);
+    landschaft.push(cypressGroup);
 
     // 5. HISTORISCHE RENAISSANCE-PALÄSTE DER PIAZZA DEL DUOMO (ORIGINALGETREU PLATZIERT)
     setupAuthenticFlorencePiazza();
@@ -370,6 +373,8 @@ window.VoxelRenderer = (function() {
     const riverMesh = new THREE.Mesh(riverGeo, riverMat);
     riverMesh.position.set(0, 63.5, 550);
     scene.add(riverMesh);
+    landschaft.push(riverMesh);
+    for (const o of landschaft) o.visible = siteVisible;
   }
 
   // Umgebungsbebauung aus SITE_V2 (OpenStreetMap): extrudierte Polygone ab Y 64 mit rotem Dach, dazu Straßenschilder.
@@ -686,6 +691,8 @@ window.VoxelRenderer = (function() {
     if (opts.site !== undefined) {
       siteVisible = !!opts.site;
       if (siteGroup) siteGroup.visible = siteVisible;
+      // Die Kulisse ist um den Dom gebaut; Projekte weiter draußen (Uffizien, Ponte Vecchio, Stadtgrund) lägen in den Hügeln
+      for (const o of landschaft) o.visible = siteVisible;
     }
     setupGroundGrid();
   }
