@@ -1,0 +1,92 @@
+{
+  "module": 8,
+  "title": "Ausgestaltete Innenräume",
+  "subtitle": "Galleria Palatina, Appartamenti, Vestibül",
+  "icon": "🖼️",
+  "parts": {
+    "sala_bianca": {
+      "title": "Sala Bianca",
+      "description": "Weißer Saal (ehemals Ballsaal) im Piano nobile: weiße Wandfelder, weiße Decke, Boden im Schachmuster Marmor/Pietra serena.",
+      "tip": "Erst den Boden, dann die Wandfelder.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Sala Bianca dient heute für Wechselausstellungen (Quelle: en.wikipedia, Palatine Gallery)."
+    },
+    "sala_di_venere": {
+      "title": "Sala di Venere",
+      "description": "Erster der fünf Planetensäle an der Fassade: Gemäldefelder (Gold und Blau), Deckenfresko Blau/Gold, Schachboden Marmor.",
+      "tip": "Felder in zwei Reihen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Pietro da Cortona begann 1641 am Venussaal mit den Deckenfresken."
+    },
+    "sala_di_apollo": {
+      "title": "Sala di Apollo",
+      "description": "Planetensaal: Gemäldefelder Gelb/Gold, Deckenfresko Gelb/Gold.",
+      "tip": "Felder in zwei Reihen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Planetensäle zeigen die Lebensalter eines Fürsten."
+    },
+    "sala_di_marte": {
+      "title": "Sala di Marte",
+      "description": "Planetensaal hinter dem Portal: Deckenfresko Rot/Blau (Triumph der Medici).",
+      "tip": "Felder in zwei Reihen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Das Gewölbefresko im Marssaal stammt von Pietro da Cortona."
+    },
+    "sala_di_giove": {
+      "title": "Sala di Giove",
+      "description": "Thronsaal der Medici: Thronpodest aus rotem Marmor, Holzthron mit goldener Lehne, Felder Blau/Gold.",
+      "tip": "Podest vor dem Thron setzen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Der Jupitersaal war der Thronsaal der Medici."
+    },
+    "sala_di_saturno": {
+      "title": "Sala di Saturno",
+      "description": "Planetensaal: Felder Orange/Gold, Deckenfresko Orange/Gold.",
+      "tip": "Felder in zwei Reihen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Hier hängen heute Werke Raffaels."
+    },
+    "sala_della_stufa": {
+      "title": "Sala della Stufa",
+      "description": "Kleiner Saal mit vier Wandfeldern für die vier Zeitalter (Gelb, Weiß, Braun, Schwarz).",
+      "tip": "Gold oben links, Eisen unten rechts.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Pietro da Cortona malte hier 1637–1641 die Vier Zeitalter."
+    },
+    "galerie_hintere_raeume": {
+      "title": "Hintere Galerieräume",
+      "description": "Sieben Räume der Rückreihe (u. a. Sala dell'Iliade, di Ulisse, di Prometeo, della Giustizia, di Psiche): Gemäldefelder Grün/Gold, Bänke aus Holz, Schachboden.",
+      "tip": "Bänke in Raummitte.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Säle sind nach den Themen ihrer Deckenfresken benannt."
+    },
+    "og_galerie_moderna": {
+      "title": "Galleria d'arte moderna",
+      "description": "Zweites Obergeschoss: eine Reihe Gemäldefelder Braun/Gold in der Raumfolge.",
+      "tip": "Eine Reihe genügt.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Galleria d'arte moderna liegt im zweiten Obergeschoss des Palastes."
+    },
+    "vestibuel_eg": {
+      "title": "Vestibül",
+      "description": "Eingangshalle hinter dem Portal: vier Pfeilerpaare aus Rustika, Schachboden aus rotem und weißem Marmor; Durchgang zum Hof.",
+      "tip": "Mittelgang frei lassen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Vom Vestibül blickt man durch den Hof bis zur Grotte am Boboli-Hang."
+    },
+    "appartamenti_reali": {
+      "title": "Appartamenti Reali",
+      "description": "Drei der vierzehn königlichen Räume: Sala Verde, Sala del Trono (Thron mit Podest), Sala Blu – farbige Wandfelder an den Raumwänden.",
+      "tip": "Thron zuletzt.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Appartamenti wurden von den Savoyern bewohnt, als Florenz 1865–1871 Hauptstadt war."
+    },
+    "wappen_portal": {
+      "title": "Wappen über dem Portal",
+      "description": "Medici-Wappen 3 × 3 in der Außenlage über der Archivolte, Rot mit goldener Mitte.",
+      "tip": "In die Fassade einsetzen.",
+      "caution": "Lage 19..21 statt 17..19 (über der Archivolte).",
+      "fact": "Die Medici kauften den Palast 1549."
+    }
+  }
+}

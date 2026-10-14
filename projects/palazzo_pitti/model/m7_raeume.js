@@ -26,7 +26,7 @@ module.exports = {
         const teil = sp ? 'spinnwand_haupt' : ap ? 'appartamenti_waende' : `trennwaende_${g}`;
         for (let L = def.stand; L <= bis; L++) {
           if (RA.tuer(c, L)) { plan.luftL(c, L); continue; }
-          if (RA.ausgespart(c.x, G.Y(L), c.z)) continue;
+          if (RA.ausgespart(c.x, G.Y(L), c.z) || RA.ausstattung(c.x, G.Y(L), c.z)) continue;
           plan.festL(teil, c, L, T.putz);
         }
       }

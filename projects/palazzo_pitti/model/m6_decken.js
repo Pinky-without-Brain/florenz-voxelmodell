@@ -9,7 +9,7 @@ module.exports = {
   build(ctx) {
     const B = G.belegung(ctx);
     const { T, MATERIAL } = G;
-    const frei = (c, L) => !RA.ausgespart(c.x, G.Y(L), c.z) && !RA.istLicht(c.x, G.Y(L), c.z);
+    const frei = (c, L) => !RA.ausgespart(c.x, G.Y(L), c.z) && !RA.istLicht(c.x, G.Y(L), c.z) && !RA.ausstattung(c.x, G.Y(L), c.z);
     for (const [id, lagen, zonen] of [['decke_eg', G.DECKEN.eg, ['H', 'W']], ['decke_pn', G.DECKEN.pn, ['H', 'W']], ['decke_og', G.DECKEN.og, ['H']]]) {
       const w = ctx.part(id);
       for (const c of MATERIAL) {

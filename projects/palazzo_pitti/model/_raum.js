@@ -254,8 +254,121 @@ for (const [g, def] of Object.entries(GESCHOSSE)) {
 }
 const istLicht = (x, y, z) => LICHT.has(ck3(x, y, z));
 
+// ---------------------------------------------------------------- Ausstattung (Modul 8, Katalog §9)
+// Reservierte Zellen in Wänden, Böden und Decken (die Rohbaumodule lassen sie aus, Modul 8 setzt sie) und Möbel.
+const typ = (r) => WZ.typ(r);
+const FR = (f) => (f === 'gold' ? WZ.typ('gold') : WZ.fresko(f));
+const RAEUME = [
+  { teil: 'sala_bianca', g: 'pn', u: [26, UN(4)], reihe: V, boden: ['marmor_weiss', null], wand: 'weiss', decke: 'marmor_weiss' },
+  { teil: 'sala_di_venere', g: 'pn', u: [UN(4), UN(7)], reihe: V, boden: ['marmor_weiss', 'marmor_rot'], wand: 'blau', decke: ['blau', 'gold'] },
+  { teil: 'sala_di_apollo', g: 'pn', u: [UN(7), UN(10)], reihe: V, boden: ['marmor_weiss', 'marmor_rot'], wand: 'gelb', decke: ['gelb', 'gold'] },
+  { teil: 'sala_di_marte', g: 'pn', u: [UN(10), UN(13)], reihe: V, boden: ['marmor_weiss', 'marmor_rot'], wand: 'rot', decke: ['rot', 'blau'] },
+  { teil: 'sala_di_giove', g: 'pn', u: [UN(13), UN(16)], reihe: V, boden: ['marmor_weiss', 'marmor_rot'], wand: 'blau', decke: ['blau', 'gold'], thron: true },
+  { teil: 'sala_di_saturno', g: 'pn', u: [UN(16), UN(19)], reihe: V, boden: ['marmor_weiss', 'marmor_rot'], wand: 'orange', decke: ['orange', 'gold'] },
+  { teil: 'sala_della_stufa', g: 'pn', u: [UN(19), 327], reihe: V, boden: ['marmor_weiss', null], wand: 'zeitalter' },
+  { teil: 'galerie_hintere_raeume', g: 'pn', u: [6, 340], reihe: RR, boden: ['marmor_weiss', null], wand: 'gruen', baenke: true },
+  { teil: 'og_galerie_moderna', g: 'og', u: [28, 327], reihe: V, boden: null, wand: 'braun', eineReihe: true },
+  { teil: 'vestibuel_eg', g: 'eg', u: [UN(9) + 2, UN(12)], reihe: [5, 26], boden: ['marmor_rot', 'marmor_weiss'], pfeiler: true }
+];
+const RESERVIERT = new Map();             // ck3 -> { teil, typ }
+const MOEBEL = [];                        // { teil, x, y, z, typ }
+const raumMitte = (r) => (r.u[0] + r.u[1]) / 2 + 1;
+const imRaum = (r, c) => imH(c) && c.u >= r.u[0] && c.u < r.u[1] && c.w >= r.reihe[0] && c.w < r.reihe[1];
+const reserviere = (c, L, teil, t) => { const k = ck3(c.x, Y(L), c.z); if (!RESERVIERT.has(k) && !ausgespart(c.x, Y(L), c.z) && !istLicht(c.x, Y(L), c.z)) RESERVIERT.set(k, { teil, typ: t }); };
+const bodenL = { eg: 0, pn: G.DECKEN.eg[1], og: G.DECKEN.pn[1] };
+const deckeL = { eg: G.DECKEN.eg[0], pn: G.DECKEN.pn[0], og: G.DECKEN.og[0] };
+const ZEITALTER = ['gelb', 'weiss', 'braun', 'schwarz'];
+for (const r of RAEUME) {
+  const st = GESCHOSSE[r.g].stand;
+  const mitte = raumMitte(r);
+  for (const c of MATERIAL) {
+    // Boden: Schach 4 × 4 im Rahmen PI
+    if (r.boden && imRaum(r, c) && !wandIm(c, r.g)) {
+      const par = (Math.floor(c.u / 4) + Math.floor(c.w / 4)) & 1;
+      if (r.boden[par]) reserviere(c, bodenL[r.g], r.teil, typ(r.boden[par]));
+    }
+    // Decke: Fresko-Felder auf der untersten Deckenlage
+    if (r.decke && imRaum(r, c) && !wandIm(c, r.g)) {
+      const t = Array.isArray(r.decke) ? FR(r.decke[((Math.floor(c.u / 6) + Math.floor(c.w / 6)) & 1)]) : typ(r.decke);
+      reserviere(c, deckeL[r.g], r.teil, t);
+    }
+    // Wandfelder auf der Raumseite der Spinnwand: 6 × 4, Rahmen Gold, Feld Fresko; zwei Reihen (+2..+5, +8..+11)
+    if (r.wand && spinnwand(c) && c.u >= r.u[0] + 2 && c.u < r.u[1] - 2 && Math.abs(c.u - mitte) >= 3.5) {
+      const seite = r.reihe === V ? c.w < SPINE[0] + 1 : c.w >= SPINE[0] + 1;
+      if (!seite) continue;
+      const k = Math.floor((c.u - r.u[0] - 2) / 8), du = c.u - r.u[0] - 2 - 8 * k;
+      if (du >= 6) continue;
+      const reihen = r.eineReihe ? [st + 2] : [st + 2, st + 8];
+      for (const l0 of reihen) {
+        for (let L = l0; L < l0 + 4; L++) {
+          if (tuer(c, L)) continue;
+          let t;
+          if (r.wand === 'weiss') t = typ('marmor_weiss');
+          else {
+            const rand = du < 1 || du >= 5 || L === l0 || L === l0 + 3;
+            const farbe = r.wand === 'zeitalter' ? ZEITALTER[(k + (l0 === st + 2 ? 0 : 2)) % 4] : r.wand;
+            t = rand ? typ('gold') : FR(farbe);
+          }
+          reserviere(c, L, r.teil, t);
+        }
+      }
+    }
+  }
+}
+// Appartamenti Reali (PN, Westblock hinter dem Hof): Sala Verde, Sala del Trono, Sala Blu – Wandfelder an den
+// Appartamenti-Wänden (Raumseite), Lage 28..35
+for (const c of MATERIAL) {
+  if (!appartamenti(c, 'pn')) continue;
+  for (let L = 28; L <= 35; L++) {
+    if (tuer(c, L) || Math.abs(c.u - 114) < 3) continue;
+    const verde = c.w < 84, blu = c.w >= 116;
+    const t = verde ? FR('gruen') : blu ? FR('blau') : typ('gold');
+    reserviere(c, L, 'appartamenti_reali', t);
+  }
+}
+// Wappen der Medici über dem Hauptportal (Außenlage, über der Archivolte: Lage 19..21), Rot mit goldenem Rand
+for (const c of MATERIAL) {
+  if (c.zone !== 'H' || c.d8 !== 1 || Math.abs(c.u - G.PORTAL_U) >= 1.5 || c.w > 12) continue;
+  for (let L = 19; L <= 21; L++) reserviere(c, L, 'wappen_portal', L === 20 && Math.abs(c.u - G.PORTAL_U) < 0.5 ? typ('gold') : FR('rot'));
+}
+// Möbel
+const raumZelle = (u, w) => { const p = G.R.toWorld(u + 0.5, w + 0.5); return AN.get(K2(Math.floor(p.x), Math.floor(p.z))); };
+function quader(teil, u0, u1, w0, w1, L0, L1, t) {
+  const seen = new Set();
+  for (let u = u0; u < u1; u += 0.5) for (let w = w0; w < w1; w += 0.5) {
+    const c = raumZelle(u, w);
+    if (!c || seen.has(K2(c.x, c.z))) continue;
+    seen.add(K2(c.x, c.z));
+    for (let L = L0; L <= L1; L++) MOEBEL.push({ teil, x: c.x, y: Y(L), z: c.z, typ: t });
+  }
+}
+for (const r of RAEUME) {
+  const st = GESCHOSSE[r.g].stand, m = raumMitte(r);
+  if (r.thron) {
+    quader(r.teil, m + 4, m + 9, 20, 23, st, st, typ('marmor_rot'));
+    quader(r.teil, m + 5, m + 8, 22, 23, st + 1, st + 3, typ('holz'));
+    quader(r.teil, m + 5, m + 8, 23, 24, st + 1, st + 4, typ('gold'));
+  }
+  if (r.baenke) {
+    const grenzen = [6, ...TRENN.pn.map(UN), 340];
+    for (let i = 0; i + 1 < grenzen.length; i++) {
+      const mm = (grenzen[i] + grenzen[i + 1]) / 2;
+      for (const du of [-6, 4]) quader(r.teil, mm + du, mm + du + 3, 33, 34, st, st, typ('holz'));
+    }
+  }
+  if (r.pfeiler) {
+    for (const u0 of [155, 162, 182, 189]) for (const w0 of [9, 17]) quader(r.teil, u0, u0 + 3, w0, w0 + 3, st, G.DECKEN.eg[0] - 1, typ('pietra_forte_rustika'));
+  }
+}
+// Thron der Sala del Trono (Appartamenti)
+quader('appartamenti_reali', 112, 117, 96, 99, 26, 26, typ('marmor_rot'));
+quader('appartamenti_reali', 113, 116, 98, 99, 27, 29, typ('holz'));
+quader('appartamenti_reali', 113, 116, 99, 100, 27, 30, typ('gold'));
+const ausstattung = (x, y, z) => RESERVIERT.get(ck3(x, y, z)) || null;
+const MOEBEL_FREI = MOEBEL.filter((b) => !ausgespart(b.x, b.y, b.z) && !istLicht(b.x, b.y, b.z));
+
 /** Treppentyp aus Palette (für Module) */
 const treppenTyp = (rolle, richtung) => PAL.treppe(rolle, richtung);
 
-module.exports = { UNVERBINDBAR, GESCHOSSE, TUEREN, tuer, wandIm, innenwand, spinnwand, trennwand, appartamenti, TREPPEN, ausgespart, istLicht,
+module.exports = { RAEUME, RESERVIERT, MOEBEL: MOEBEL_FREI, ausstattung, UNVERBINDBAR, GESCHOSSE, TUEREN, tuer, wandIm, innenwand, spinnwand, trennwand, appartamenti, TREPPEN, ausgespart, istLicht,
   LICHT_LISTE, treppenTyp, gruppen };

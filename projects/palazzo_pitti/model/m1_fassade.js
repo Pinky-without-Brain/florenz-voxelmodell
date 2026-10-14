@@ -23,6 +23,7 @@ module.exports = {
         // offene Torflügel (Holz) an der Innenseite der Laibung: eigenes Bauteil nach der Wand
         if (L <= 9 && tiefe >= G.t(c, L) && Math.abs(dp) >= 3.5 && Math.abs(dp) < 4.5) { fluegel.push([c, L]); plan.luftL(c, L); continue; }
         if (RA.tuer(c, L)) { plan.luftL(c, L); continue; }
+        if (RA.ausstattung(c.x, G.Y(L), c.z)) continue;   // Wappen (Modul 8)
         const op = G.fassadenOeffnung(c, L);
         if (op === 'portal') { plan.luftL(c, L, 'tor'); continue; }
         if (op === 'laibung' || op === 'rahmen') { plan.festL(teil, c, L, T.forte); continue; }

@@ -8,30 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.821 |
+| Blöcke | 64.957 |
 | Bauschritte | 33 |
 | Y-Bereich | 70 bis 83 |
 | X-Ausdehnung | -1306 bis -888 (419 Blöcke) |
 | Z-Ausdehnung | 1579 bis 1954 (376 Blöcke) |
 | Kleinster Schritt | 1.378 Blöcke (Schritt 0.3) |
-| Mittlerer Schritt | 1.995 Blöcke |
-| Größter Schritt | 2.080 Blöcke (Schritt 0.11) |
+| Mittlerer Schritt | 1.968 Blöcke |
+| Größter Schritt | 2.045 Blöcke (Schritt 0.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein | `smooth_stone` | 27.366 | 41,6 % |
-| Tuffstein | `tuff` | 26.997 | 41,0 % |
-| Polierter Tuffstein | `polished_tuff` | 8.024 | 12,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 3.434 | 5,2 % |
+| Tuffstein | `tuff` | 26.997 | 41,6 % |
+| Glatter Stein | `smooth_stone` | 26.502 | 40,8 % |
+| Polierter Tuffstein | `polished_tuff` | 8.024 | 12,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 3.434 | 5,3 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament | 13.840 | 0.1–0.8 |
-| 2 | `bodenplatte` | Bodenplatte | 51.981 | 0.9–0.33 |
+| 2 | `bodenplatte` | Bodenplatte | 51.117 | 0.9–0.33 |
 
 ## Bauschritte
 
@@ -270,15 +270,15 @@ Der Palast wurde ab 1458 für Luca Pitti an den Hang des Boboli-Hügels gebaut.
 ### Schritt 0.9 – Bodenplatte – Teil 1/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.047 |
-| Tuffstein | `tuff` | 1.032 |
+| Glatter Stein | `smooth_stone` | 1.037 |
+| Tuffstein | `tuff` | 1.008 |
 
 **Beschreibung**
 
@@ -299,15 +299,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.10 – Bodenplatte – Teil 2/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.135 |
-| Tuffstein | `tuff` | 944 |
+| Glatter Stein | `smooth_stone` | 1.115 |
+| Tuffstein | `tuff` | 929 |
 
 **Beschreibung**
 
@@ -328,15 +328,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.11 – Bodenplatte – Teil 3/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.080
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.055 |
-| Tuffstein | `tuff` | 1.025 |
+| Glatter Stein | `smooth_stone` | 1.023 |
+| Tuffstein | `tuff` | 1.022 |
 
 **Beschreibung**
 
@@ -357,15 +357,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.12 – Bodenplatte – Teil 4/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.105 |
-| Tuffstein | `tuff` | 974 |
+| Glatter Stein | `smooth_stone` | 1.088 |
+| Tuffstein | `tuff` | 957 |
 
 **Beschreibung**
 
@@ -386,15 +386,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.13 – Bodenplatte – Teil 5/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.406 |
-| Tuffstein | `tuff` | 673 |
+| Glatter Stein | `smooth_stone` | 1.364 |
+| Tuffstein | `tuff` | 680 |
 
 **Beschreibung**
 
@@ -415,16 +415,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.14 – Bodenplatte – Teil 6/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.007 |
-| Tuffstein | `tuff` | 880 |
-| Polierter Tuffstein | `polished_tuff` | 192 |
+| Glatter Stein | `smooth_stone` | 1.056 |
+| Tuffstein | `tuff` | 850 |
+| Polierter Tuffstein | `polished_tuff` | 139 |
 
 **Beschreibung**
 
@@ -445,16 +445,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.15 – Bodenplatte – Teil 7/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.080
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 861 |
-| Tuffstein | `tuff` | 838 |
-| Polierter Tuffstein | `polished_tuff` | 381 |
+| Tuffstein | `tuff` | 851 |
+| Glatter Stein | `smooth_stone` | 765 |
+| Polierter Tuffstein | `polished_tuff` | 429 |
 
 **Beschreibung**
 
@@ -475,15 +475,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.16 – Bodenplatte – Teil 8/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.685 |
-| Tuffstein | `tuff` | 394 |
+| Glatter Stein | `smooth_stone` | 1.613 |
+| Tuffstein | `tuff` | 426 |
+| Polierter Tuffstein | `polished_tuff` | 5 |
 
 **Beschreibung**
 
@@ -504,15 +505,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.17 – Bodenplatte – Teil 9/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.818 |
-| Tuffstein | `tuff` | 261 |
+| Glatter Stein | `smooth_stone` | 1.795 |
+| Tuffstein | `tuff` | 250 |
 
 **Beschreibung**
 
@@ -533,15 +534,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.18 – Bodenplatte – Teil 10/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.382 |
-| Tuffstein | `tuff` | 538 |
+| Glatter Stein | `smooth_stone` | 1.288 |
+| Tuffstein | `tuff` | 598 |
 | Polierter Tuffstein | `polished_tuff` | 159 |
 
 **Beschreibung**
@@ -563,16 +564,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.19 – Bodenplatte – Teil 11/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.080
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.130 |
-| Tuffstein | `tuff` | 490 |
-| Polierter Tuffstein | `polished_tuff` | 460 |
+| Glatter Stein | `smooth_stone` | 968 |
+| Tuffstein | `tuff` | 544 |
+| Polierter Tuffstein | `polished_tuff` | 532 |
 
 **Beschreibung**
 
@@ -593,16 +594,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.20 – Bodenplatte – Teil 12/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 908 |
-| Polierter Tuffstein | `polished_tuff` | 731 |
-| Tuffstein | `tuff` | 440 |
+| Polierter Tuffstein | `polished_tuff` | 858 |
+| Glatter Stein | `smooth_stone` | 730 |
+| Tuffstein | `tuff` | 457 |
 
 **Beschreibung**
 
@@ -623,16 +624,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.21 – Bodenplatte – Teil 13/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.027 |
-| Glatter Stein | `smooth_stone` | 635 |
-| Tuffstein | `tuff` | 417 |
+| Polierter Tuffstein | `polished_tuff` | 1.089 |
+| Glatter Stein | `smooth_stone` | 552 |
+| Tuffstein | `tuff` | 404 |
 
 **Beschreibung**
 
@@ -653,16 +654,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.22 – Bodenplatte – Teil 14/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.314 |
-| Glatter Stein | `smooth_stone` | 470 |
-| Tuffstein | `tuff` | 295 |
+| Polierter Tuffstein | `polished_tuff` | 1.291 |
+| Glatter Stein | `smooth_stone` | 494 |
+| Tuffstein | `tuff` | 260 |
 
 **Beschreibung**
 
@@ -683,16 +684,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.23 – Bodenplatte – Teil 15/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.080
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.202 |
-| Glatter Stein | `smooth_stone` | 557 |
-| Tuffstein | `tuff` | 321 |
+| Polierter Tuffstein | `polished_tuff` | 1.096 |
+| Glatter Stein | `smooth_stone` | 582 |
+| Tuffstein | `tuff` | 366 |
 
 **Beschreibung**
 
@@ -713,16 +714,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.24 – Bodenplatte – Teil 16/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 845 |
-| Glatter Stein | `smooth_stone` | 837 |
-| Tuffstein | `tuff` | 397 |
+| Glatter Stein | `smooth_stone` | 865 |
+| Polierter Tuffstein | `polished_tuff` | 802 |
+| Tuffstein | `tuff` | 378 |
 
 **Beschreibung**
 
@@ -743,16 +744,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.25 – Bodenplatte – Teil 17/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.111 |
-| Polierter Tuffstein | `polished_tuff` | 598 |
-| Tuffstein | `tuff` | 370 |
+| Glatter Stein | `smooth_stone` | 1.072 |
+| Polierter Tuffstein | `polished_tuff` | 601 |
+| Tuffstein | `tuff` | 372 |
 
 **Beschreibung**
 
@@ -773,16 +774,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.26 – Bodenplatte – Teil 18/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.050 |
-| Tuffstein | `tuff` | 565 |
-| Polierter Tuffstein | `polished_tuff` | 464 |
+| Glatter Stein | `smooth_stone` | 1.057 |
+| Tuffstein | `tuff` | 571 |
+| Polierter Tuffstein | `polished_tuff` | 416 |
 
 **Beschreibung**
 
@@ -803,16 +804,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.27 – Bodenplatte – Teil 19/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.080
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.071 |
-| Tuffstein | `tuff` | 619 |
-| Polierter Tuffstein | `polished_tuff` | 390 |
+| Glatter Stein | `smooth_stone` | 1.054 |
+| Tuffstein | `tuff` | 607 |
+| Polierter Tuffstein | `polished_tuff` | 384 |
 
 **Beschreibung**
 
@@ -833,16 +834,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.28 – Bodenplatte – Teil 20/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.242 |
-| Tuffstein | `tuff` | 622 |
-| Polierter Tuffstein | `polished_tuff` | 215 |
+| Glatter Stein | `smooth_stone` | 1.245 |
+| Tuffstein | `tuff` | 610 |
+| Polierter Tuffstein | `polished_tuff` | 190 |
 
 **Beschreibung**
 
@@ -863,16 +864,16 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.29 – Bodenplatte – Teil 21/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.347 |
-| Tuffstein | `tuff` | 686 |
-| Polierter Tuffstein | `polished_tuff` | 46 |
+| Glatter Stein | `smooth_stone` | 1.339 |
+| Tuffstein | `tuff` | 672 |
+| Polierter Tuffstein | `polished_tuff` | 33 |
 
 **Beschreibung**
 
@@ -893,15 +894,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.30 – Bodenplatte – Teil 22/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.427 |
-| Tuffstein | `tuff` | 652 |
+| Glatter Stein | `smooth_stone` | 1.385 |
+| Tuffstein | `tuff` | 660 |
 
 **Beschreibung**
 
@@ -922,15 +923,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.31 – Bodenplatte – Teil 23/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.080
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.239 |
-| Tuffstein | `tuff` | 841 |
+| Glatter Stein | `smooth_stone` | 1.223 |
+| Tuffstein | `tuff` | 822 |
 
 **Beschreibung**
 
@@ -951,15 +952,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.32 – Bodenplatte – Teil 24/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.044
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.052 |
-| Tuffstein | `tuff` | 1.027 |
+| Glatter Stein | `smooth_stone` | 1.028 |
+| Tuffstein | `tuff` | 1.016 |
 
 **Beschreibung**
 
@@ -980,15 +981,15 @@ Der Ammannati-Hof ist etwa 35 × 50 m groß.
 ### Schritt 0.33 – Bodenplatte – Teil 25/25 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.079
+- **Blöcke:** 2.045
 - **Bauteile:** `bodenplatte`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.290 |
-| Glatter Stein | `smooth_stone` | 789 |
+| Tuffstein | `tuff` | 1.281 |
+| Glatter Stein | `smooth_stone` | 764 |
 
 **Beschreibung**
 

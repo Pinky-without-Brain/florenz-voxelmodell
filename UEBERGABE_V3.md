@@ -38,7 +38,7 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `orsanmichele` | Wahrzeichen | 88.949 | pflicht | B3 erledigt |
 | `loggia_dei_lanzi` | Wahrzeichen | 34.034 | pflicht | B3 erledigt |
 | `ponte_vecchio` | Wahrzeichen (Brücke, Korridor, Turm) | 169.366 | **pflicht**, 98,4 %, 0 Komponenten, R14 0 | W6 erledigt (14.10.) |
-| `palazzo_pitti` | Wahrzeichen (Palast, Corridoio Oltrarno) | 1.378.485 (Module 0–7, 9) | **pflicht**, 94,6 %, 0 Komponenten, R14 0 | W7a/b erledigt (14.10.), Modul 8 offen |
+| `palazzo_pitti` | Wahrzeichen (Palast, Corridoio Oltrarno) | 1.381.031 (Module 0–9) | **pflicht**, 94,6 %, 0 Komponenten, R14 0 | W7 erledigt (14.10.) |
 | `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 1.240.386 (21 von 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
 Alle 9 Projekte: Build OK, `--cross` 0 Konflikte (36 Paare), 422 Tests grün (2 übersprungen).
@@ -78,10 +78,13 @@ Projekt `projects/palazzo_pitti/` nach `20_Stadtmodell_Florenz/wahrzeichen/palaz
 ### W7b Palazzo Pitti, Modul 9 (Corridoio Oltrarno) – **erledigt**
 `model/m9_korridor.js`: Gangboden nach Wegabstand vom Schnitt z = 1312 (Y 78, wie Ponte Vecchio) bis zum Ostflügel (Y 83), höchstens +1 je 40 Zellen, Höhenwechsel als Treppenblöcke; Wände 2 dick über das Abstandsfeld Korridor ∪ Palast (die Flügelwand ist die Gangwand, das Korridortor öffnet direkt in den Gang); Gangdurchbruch an diagonalen Engstellen; Unterbau massiv außer über Straßen (Luft als `arkade` deklariert); Schnitt zum Ponte Vecchio als `tor`. Stadtgrund-Kachel 127 danach neu gebaut (Besitzraster).
 
+### W7c Palazzo Pitti, Modul 8 (Innenräume) – **erledigt**
+Ausstattung als Reservierungen im Raumplan (`_raum.js`: `RESERVIERT`, `ausstattung(x, y, z)`): Wandfelder (Gold/Fresko) auf der Raumseite der Spinnwand und an den Appartamenti-Wänden, Schachböden, Deckenfresken, Wappen über dem Portal (Lage 19..21, über der Archivolte); die Rohbaumodule 0, 1, 6, 7 lassen diese Zellen aus, Modul 8 setzt sie. Dazu Möbel (Throne in Sala di Giove und Sala del Trono, Bänke, vier Pfeilerpaare im Vestibül). Je Raum ein Bauteil mit Content (Sala Bianca, fünf Planetensäle, Sala della Stufa, hintere Galerieräume, Galleria d'arte moderna, Vestibül, Appartamenti Reali, Wappen).
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. **Stadtgrund Kern:** `aktiv` in `projects/stadtgrund/project.json` schrittweise auf den Kern erweitern (Stand: 21 Kacheln um die gebauten Projekte, 1,24 Mio Blöcke, Webdaten 3,2 MB; Achtung: die Stadtansicht der Webapp lädt alle gebauten Projekte als Voxel, derzeit ≈ 6 Mio Blöcke) (131 Kacheln mit ≥ 30 % Gebäuden; Liste messen: Gebäudeanteil je Kachel aus `gebaeude.json`), je Erweiterung Build + `--cross`; Laufzeit ≈ 1 s je Kachel, Webdaten ≈ 170 KB je Kachel (Repo-Größe beachten). Danach Rand (S2).
-3. **Palazzo Pitti, Rest:** Modul 8 (ausgestaltete Räume, Katalog §9: Sala Bianca, Planetensäle, Thronsaal, hintere Galerieräume, Appartamenti, Vestibül, Wappen; Bilderfelder im Korridor). Danach `node tools/city/besitz.js`, Stadtgrund neu bauen, `--cross`.
+3. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
 4. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 
 ## 6. Bekannte Punkte
