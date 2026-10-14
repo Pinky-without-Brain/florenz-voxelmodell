@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 1.240.083 Blöcke in 742 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.240.386 Blöcke in 742 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -864 bis 415, Y 48 bis 84, Z -528 bis 1391.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -27,24 +27,24 @@ Ausdehnung des Modells: X -864 bis 415, Y 48 bis 84, Z -528 bis 1391.
 | 113 | Kachel 8/7 – Piazza della Signoria | 39.153 | 27 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
 | 114 | Kachel 9/7 – Piazza della Signoria | 48.716 | 32 | [BAUANLEITUNG_MODUL_114.md](BAUANLEITUNG_MODUL_114.md) |
 | 115 | Kachel 10/7 – Via dei Neri | 31.228 | 21 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
-| 127 | Kachel 7/8 – Piazza di Santa Felicita | 131.968 | 70 | [BAUANLEITUNG_MODUL_127.md](BAUANLEITUNG_MODUL_127.md) |
+| 127 | Kachel 7/8 – Piazza di Santa Felicita | 132.271 | 70 | [BAUANLEITUNG_MODUL_127.md](BAUANLEITUNG_MODUL_127.md) |
 | 128 | Kachel 8/8 – Lungarno degli Archibusieri | 203.214 | 106 | [BAUANLEITUNG_MODUL_128.md](BAUANLEITUNG_MODUL_128.md) |
 | 129 | Kachel 9/8 – Piazza dei Giudici | 126.629 | 74 | [BAUANLEITUNG_MODUL_129.md](BAUANLEITUNG_MODUL_129.md) |
-| | **Summe** | **1.240.083** | **742** | |
+| | **Summe** | **1.240.386** | **742** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 530.758 | 42,8 % |
+| Polierter Tuffstein | `polished_tuff` | 530.889 | 42,8 % |
 | Wasser | `water` | 290.398 | 23,4 % |
-| Stein | `stone` | 167.876 | 13,5 % |
+| Stein | `stone` | 167.978 | 13,5 % |
 | Kies | `gravel` | 145.819 | 11,8 % |
-| Glatter Stein | `smooth_stone` | 53.535 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 53.509 | 4,3 % |
 | Grasblock | `grass_block` | 24.540 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 12.086 | 1,0 % |
+| Polierter Andesit | `polished_andesite` | 12.180 | 1,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3.495 | 0,3 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2.928 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2.929 | 0,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2.796 | 0,2 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2.774 | 0,2 % |
 | Steinziegel | `stone_bricks` | 1.536 | 0,1 % |
@@ -57,11 +57,12 @@ Ausdehnung des Modells: X -864 bis 415, Y 48 bis 84, Z -528 bis 1391.
 | Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 124 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 89 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Westen | `polished_andesite_stairs@w` | 14 | 0,0 % |
+| Treppe aus poliertem Andesit, Aufstieg nach Süden | `polished_andesite_stairs@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 11.993 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 11.994 |
 | Steintreppe | `stone_stairs` | 608 |
-| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 300 |
+| Treppe aus poliertem Andesit | `polished_andesite_stairs` | 301 |
