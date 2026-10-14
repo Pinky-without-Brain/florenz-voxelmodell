@@ -1,0 +1,50 @@
+{
+  "module": 4,
+  "title": "Vierung und Kuppel",
+  "subtitle": "Bautüte 4: Vierungspfeiler, Bögen, Tambour und Kuppel",
+  "icon": "⛪",
+  "parts": {
+    "vierungspfeiler": {
+      "title": "Vierungspfeiler",
+      "description": "An den vier Ecken der Vierung stehen Pfeiler aus Glattem Stein, vier mal vier Blöcke, bis Lage 38.",
+      "tip": "Die Vierung misst 26 mal 26 Blöcke.",
+      "caution": "Die Pfeiler tragen die Bögen und den Tambour.",
+      "fact": "Die Vierung ist doppelt so breit wie ein Seitenschiffjoch."
+    },
+    "vierungsboegen": {
+      "title": "Vierungsbögen",
+      "description": "Zwischen den Pfeilern spannen vier Rundbögen mit Kämpfer auf Lage 27 und Scheitel auf Lage 38.",
+      "tip": "Die Laibung ist Glatter Stein, darüber weißer Putz.",
+      "caution": "Unter den Bögen bleibt die Vierung offen.",
+      "fact": "Die Bögen öffnen die Vierung zu Langhaus, Querarmen und Chor."
+    },
+    "pendentifs": {
+      "title": "Pendentifs",
+      "description": "Zwischen den Bögen füllst du die Ecken auf Lage 39 bis 47 außerhalb des Kuppelkreises.",
+      "tip": "Innen bleibt ein Kreis mit 25 Blöcken Durchmesser offen.",
+      "caution": "Die Pendentifs tragen den runden Tambour.",
+      "fact": "Pendentifs führen vom Quadrat zum Kreis."
+    },
+    "tambour": {
+      "title": "Tambour",
+      "description": "Auf Lage 48 bis 57 mauerst du einen runden Tambour aus Glattem Stein mit acht Fenstern.",
+      "tip": "Die Fenster liegen zwischen den Hauptachsen.",
+      "caution": "Der Tambour ist zwei Blöcke dick.",
+      "fact": "Der Tambour hebt die Kuppel über die Dächer."
+    },
+    "vierungskuppel": {
+      "title": "Kuppel",
+      "description": "Darüber wölbt sich eine Halbkugel mit innen weißem Putz und außen Terrakotta bis Lage 72.",
+      "tip": "Baue Ring für Ring nach innen.",
+      "caution": "Die Kuppel ist hohl.",
+      "fact": "Die Kuppel ist innen mit einer Gloria der Florentiner Heiligen von Vincenzo Meucci (1742) bemalt."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Auf die Kuppel setzt du eine schmale Laterne aus Glattem Quarzblock bis Lage 80 mit einer Goldkugel.",
+      "tip": "Die Laterne ist fünf Blöcke breit.",
+      "caution": "Sie ist massiv.",
+      "fact": "Die Laterne schließt die Kuppel oben ab."
+    }
+  }
+}

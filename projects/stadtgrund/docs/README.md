@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 19.870.328 Blöcke in 12.010 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 19.871.545 Blöcke in 12.011 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -61,8 +61,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 49 | Kachel 4/3 – Via della Scala | 107.408 | 61 | [BAUANLEITUNG_MODUL_49.md](BAUANLEITUNG_MODUL_49.md) |
 | 50 | Kachel 5/3 – Piazza Santa Maria Novella | 96.771 | 62 | [BAUANLEITUNG_MODUL_50.md](BAUANLEITUNG_MODUL_50.md) |
 | 51 | Kachel 6/3 – Piazza Santa Maria Novella | 62.354 | 38 | [BAUANLEITUNG_MODUL_51.md](BAUANLEITUNG_MODUL_51.md) |
-| 52 | Kachel 7/3 – Piazza Madonna degli Aldobrandini | 29.419 | 20 | [BAUANLEITUNG_MODUL_52.md](BAUANLEITUNG_MODUL_52.md) |
-| 53 | Kachel 8/3 – Piazza San Lorenzo | 40.483 | 27 | [BAUANLEITUNG_MODUL_53.md](BAUANLEITUNG_MODUL_53.md) |
+| 52 | Kachel 7/3 – Piazza Madonna degli Aldobrandini | 29.352 | 20 | [BAUANLEITUNG_MODUL_52.md](BAUANLEITUNG_MODUL_52.md) |
+| 53 | Kachel 8/3 – Piazza San Lorenzo | 41.767 | 28 | [BAUANLEITUNG_MODUL_53.md](BAUANLEITUNG_MODUL_53.md) |
 | 54 | Kachel 9/3 – Via Camillo Cavour | 36.818 | 22 | [BAUANLEITUNG_MODUL_54.md](BAUANLEITUNG_MODUL_54.md) |
 | 55 | Kachel 10/3 – Piazza Brunelleschi | 40.921 | 30 | [BAUANLEITUNG_MODUL_55.md](BAUANLEITUNG_MODUL_55.md) |
 | 56 | Kachel 11/3 – Piazza Brunelleschi | 58.971 | 37 | [BAUANLEITUNG_MODUL_56.md](BAUANLEITUNG_MODUL_56.md) |
@@ -204,30 +204,30 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 192 | Kachel 12/12 – Viale Galileo | 149.451 | 93 | [BAUANLEITUNG_MODUL_192.md](BAUANLEITUNG_MODUL_192.md) |
 | 193 | Kachel 13/12 – Via del Monte alle Croci | 194.239 | 121 | [BAUANLEITUNG_MODUL_193.md](BAUANLEITUNG_MODUL_193.md) |
 | 194 | Kachel 14/12 – Viale Michelangiolo | 211.959 | 138 | [BAUANLEITUNG_MODUL_194.md](BAUANLEITUNG_MODUL_194.md) |
-| | **Summe** | **19.870.328** | **12.010** | |
+| | **Summe** | **19.871.545** | **12.011** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 6.328.123 | 31,8 % |
-| Grasblock | `grass_block` | 4.600.051 | 23,2 % |
-| Stein | `stone` | 4.083.718 | 20,6 % |
+| Polierter Tuffstein | `polished_tuff` | 6.328.132 | 31,8 % |
+| Grasblock | `grass_block` | 4.600.051 | 23,1 % |
+| Stein | `stone` | 4.084.935 | 20,6 % |
 | Wasser | `water` | 2.145.522 | 10,8 % |
 | Kies | `gravel` | 1.361.400 | 6,9 % |
-| Glatter Stein | `smooth_stone` | 804.595 | 4,0 % |
+| Glatter Stein | `smooth_stone` | 804.587 | 4,0 % |
 | Polierter Andesit | `polished_andesite` | 224.118 | 1,1 % |
 | Tuffstein | `tuff` | 223.322 | 1,1 % |
 | Steinziegel | `stone_bricks` | 58.392 | 0,3 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.728 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.514 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.087 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.068 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 1.393 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1.075 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 724 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.709 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.504 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.117 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.058 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 1.398 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1.072 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 732 | 0,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 490 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 385 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 383 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 254 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 198 | 0,0 % |
 | Geschnittener Kupferblock | `cut_copper` | 144 | 0,0 % |
@@ -238,6 +238,6 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36.397 |
-| Steintreppe | `stone_stairs` | 3.577 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36.388 |
+| Steintreppe | `stone_stairs` | 3.585 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 479 |

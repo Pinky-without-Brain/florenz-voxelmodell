@@ -1,0 +1,36 @@
+{
+  "module": 6,
+  "title": "Sakristeien",
+  "subtitle": "Bautüte 6: Alte Sakristei von Brunelleschi und Neue Sakristei von Michelangelo",
+  "icon": "🕍",
+  "parts": {
+    "sakristei_alt": {
+      "title": "Alte Sakristei",
+      "description": "Am südlichen Querarm baust du einen Würfelraum mit zwei Blöcke dicken Wänden bis Lage 26, Tür vom Querarm und zum Raum dahinter.",
+      "tip": "Der Raum ist so hoch wie breit.",
+      "caution": "Die Pendentifs füllen die Ecken über Lage 22.",
+      "fact": "Brunelleschi baute die Alte Sakristei 1421 bis 1428 als ersten Zentralbau der Renaissance."
+    },
+    "sakristei_alt_kuppel": {
+      "title": "Schirmkuppel der Alten Sakristei",
+      "description": "Über dem Kreis wölbst du eine Halbkugel mit einer kleinen Laterne.",
+      "tip": "Innen weißer Putz, am Rand Glatter Stein.",
+      "caution": "Die Kuppel ist hohl.",
+      "fact": "Die Schirmkuppel ist durch Rippen in zwölf Segmente geteilt."
+    },
+    "sakristei_neu": {
+      "title": "Neue Sakristei",
+      "description": "Am nördlichen Querarm baust du den zweiten Würfelraum, bis Lage 28, mit Tür zum Querarm.",
+      "tip": "Er ist das Gegenstück zur Alten Sakristei.",
+      "caution": "Lass die Tür frei.",
+      "fact": "Michelangelo baute die Neue Sakristei ab 1520 mit den Medici-Gräbern."
+    },
+    "sakristei_neu_kuppel": {
+      "title": "Kuppel der Neuen Sakristei",
+      "description": "Über der Neuen Sakristei sitzt eine Halbkugel mit Laterne.",
+      "tip": "Die Laterne ist schmal.",
+      "caution": "Die Kuppel ist hohl.",
+      "fact": "Michelangelo gestaltete die Kuppel mit Kassetten."
+    }
+  }
+}

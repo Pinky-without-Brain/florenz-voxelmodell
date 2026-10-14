@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Böden und Krypta",
+  "subtitle": "Bautüte 0: Fundament, Krypta der Medici und die Böden",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter der Kirche füllst du das Gelände mit Tuff bis Y 66 auf; unter der Cappella dei Principi bis Y 60, dort liegt die Krypta.",
+      "tip": "Im Osten an der Piazza liegt das Gelände schon fast auf Bodenhöhe, nach Westen fällt es um sechs Blöcke.",
+      "caution": "Unter der Krypta bleibt das Fundament niedrig: hier wird ausgehoben.",
+      "fact": "San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz."
+    },
+    "krypta": {
+      "title": "Krypta",
+      "description": "Unter dem Achteck legst du auf Y 61 den Kryptaboden aus Poliertem Tuff und stellst ein Raster kleiner Pfeiler aus Glattem Stein bis Y 65.",
+      "tip": "Die Pfeiler stehen alle acht Blöcke.",
+      "caution": "Die Krypta ist niedrig: vier Lagen bis zur Decke.",
+      "fact": "Durch die Krypta betritt man heute die Cappelle Medicee; hier liegen viele Mitglieder der Familie begraben."
+    },
+    "krypta_treppe": {
+      "title": "Treppe zum Vorraum",
+      "description": "Im hinteren Vorraum führt eine zwei Blöcke breite Treppe aus Steintreppen von der Krypta sechs Stufen hinauf auf Kapellenhöhe; unter die Stufen setzt du Glatten Stein.",
+      "tip": "Die Treppe läuft auf das Achteck zu.",
+      "caution": "Über der Treppe bleibt die Decke offen.",
+      "fact": "Der Besucherweg führt von der Krypta über Treppen hinauf in die Fürstenkapelle."
+    },
+    "boden": {
+      "title": "Böden der Kirche",
+      "description": "Auf Y 67 legst du die Böden: im Mittelschiff, in der Vierung und im Chor ein Schachbrett aus Glattem Stein und Glattem Quarzblock, in den Sakristeien rosa Terrakotta, sonst Glatter Stein.",
+      "tip": "Beginne an der Mittelachse, dann geht das Muster auf.",
+      "caution": "Einige Felder bleiben frei für die Seelaternen.",
+      "fact": "Der Fußboden aus grauem und weißem Stein spiegelt das Raster der Säulen."
+    }
+  }
+}

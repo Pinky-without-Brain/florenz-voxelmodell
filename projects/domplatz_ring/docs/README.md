@@ -4,12 +4,12 @@
 
 *Projekt `domplatz_ring`, Art: quartier*
 
-**Statistik (generiert):** 2.370.268 Blöcke in 1.500 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.366.492 Blöcke in 1.500 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -554 bis 322, Y 60 bis 122, Z -367 bis 363.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
-| 0 | Isolato I0433 – Borgo San Lorenzo | 352.740 | 227 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
+| 0 | Isolato I0433 – Borgo San Lorenzo | 348.964 | 227 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
 | 1 | Isolato I0461 – Via dei Medici | 52.458 | 31 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
 | 2 | Isolato I0471 – Piazza San Giovanni | 147.279 | 90 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0481 – Via dei Calzaiuoli | 55.341 | 36 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
@@ -30,26 +30,26 @@ Ausdehnung des Modells: X -554 bis 322, Y 60 bis 122, Z -367 bis 363.
 | 18 | Isolato I0552 – Via Maurizio Bufalini | 259.792 | 161 | [BAUANLEITUNG_MODUL_18.md](BAUANLEITUNG_MODUL_18.md) |
 | 19 | Isolato I0582 – Via del Proconsolo | 94.187 | 56 | [BAUANLEITUNG_MODUL_19.md](BAUANLEITUNG_MODUL_19.md) |
 | 20 | Isolato I0590 – Via dei Servi | 65.860 | 39 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
-| | **Summe** | **2.370.268** | **1.500** | |
+| | **Summe** | **2.366.492** | **1.500** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 858.231 | 36,2 % |
-| Polierter Tuffstein | `polished_tuff` | 243.006 | 10,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 174.172 | 7,3 % |
+| Terrakotta | `terracotta` | 858.487 | 36,3 % |
+| Polierter Tuffstein | `polished_tuff` | 243.002 | 10,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 174.172 | 7,4 % |
 | Rosa Keramik | `pink_terracotta` | 160.701 | 6,8 % |
 | Weißer Beton | `white_concrete` | 144.506 | 6,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 136.203 | 5,7 % |
-| Tuffstein | `tuff` | 124.626 | 5,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 132.183 | 5,6 % |
+| Tuffstein | `tuff` | 124.622 | 5,3 % |
 | Endsteinziegel | `end_stone_bricks` | 103.913 | 4,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 101.565 | 4,3 % |
 | Orange Keramik | `orange_terracotta` | 99.435 | 4,2 % |
 | Glatter Stein | `smooth_stone` | 65.496 | 2,8 % |
 | Graues Buntglas | `gray_stained_glass` | 45.681 | 1,9 % |
 | Polierter Andesit | `polished_andesite` | 35.899 | 1,5 % |
-| Ziegelsteine | `bricks` | 19.394 | 0,8 % |
+| Ziegelsteine | `bricks` | 19.390 | 0,8 % |
 | Grüner Beton | `green_concrete` | 13.151 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 10.674 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 9.188 | 0,4 % |

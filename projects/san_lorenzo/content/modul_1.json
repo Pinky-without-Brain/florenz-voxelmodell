@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: die nie verkleidete Bruchsteinfront",
+  "icon": "🏚️",
+  "parts": {
+    "fassade": {
+      "title": "Rohe Fassade",
+      "description": "Die Ostfront ist drei Blöcke dick aus Tuff mit eingestreuten Steinziegeln, in der Mitte bis Lage 58, an den Seiten bis Lage 34. Drei Rundbogenportale bleiben offen, das mittlere sieben Blöcke breit; ihre Rahmen sind aus Glattem Stein.",
+      "tip": "Die Fassade folgt oben dem Dachquerschnitt.",
+      "caution": "Die Portale gehen durch die ganze Mauerdicke.",
+      "fact": "Michelangelo entwarf eine Marmorfassade, die nie gebaut wurde; die Front blieb bis heute roh."
+    },
+    "fassade_okulus": {
+      "title": "Rundfenster",
+      "description": "In der Mitte der Fassade sitzt auf Lage 38 ein rundes Fenster aus farbigem Glas.",
+      "tip": "Das Fenster liegt genau über dem Mittelportal.",
+      "caution": "Es geht durch die ganze Wand.",
+      "fact": "Durch das Rundfenster fällt Licht in die Achse des Mittelschiffs."
+    }
+  }
+}

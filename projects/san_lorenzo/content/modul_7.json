@@ -1,0 +1,57 @@
+{
+  "module": 7,
+  "title": "Cappella dei Principi",
+  "subtitle": "Bautüte 7: die achteckige Fürstenkapelle mit Tambour und großer Kuppel",
+  "icon": "👑",
+  "parts": {
+    "oktogon_wand": {
+      "title": "Achteckwände",
+      "description": "Die Achteckwände sind sieben Blöcke dick und reichen von der Krypta bis Lage 50: außen Polierter Andesit mit weißen Bändern, innen ein Wechsel aus Poliertem Tiefenschiefer, Poliertem Granit und Dunklem Prismarin wie die Steineinlagen. In jeder Seite sitzt ein großes Fenster, im Osten und Westen eine Tür.",
+      "tip": "Baue Seite für Seite um die Mitte.",
+      "caution": "Lass die Fenster und Türen frei.",
+      "fact": "Der Innenraum ist 28 Meter breit und mit kostbaren Steinen verkleidet."
+    },
+    "nebenraeume": {
+      "title": "Nebenräume",
+      "description": "Vor und hinter dem Achteck liegen Nebenräume mit Decken auf Lage 20; der hintere ist der Vorraum mit der Kryptatreppe und dem Eingang.",
+      "tip": "Der Eingang liegt auf Straßenhöhe.",
+      "caution": "Die vorderen Nebenräume sind ohne Zugang.",
+      "fact": "Der Eingang der Cappelle Medicee liegt an der Piazza Madonna degli Aldobrandini."
+    },
+    "krypta_decke": {
+      "title": "Kryptadecke",
+      "description": "Über der Krypta legst du auf Y 66 eine Decke aus Glattem Stein.",
+      "tip": "Über der Treppe bleibt ein Loch.",
+      "caution": "Die Decke trägt den Boden der Kapelle.",
+      "fact": "Unter der Kapelle liegen die Gräber."
+    },
+    "oktogon_boden": {
+      "title": "Boden der Kapelle",
+      "description": "Auf Y 67 legst du einen Boden in Ringen aus Poliertem Granit, Glattem Quarzblock und Dunklem Prismarin.",
+      "tip": "Die Ringe sind vier Blöcke breit.",
+      "caution": "Über der Treppe bleibt der Boden offen.",
+      "fact": "Der Boden ist aus farbigem Marmor gelegt."
+    },
+    "tambour_principi": {
+      "title": "Tambour",
+      "description": "Auf dem Achteck steht von Lage 51 bis 66 ein Tambour mit acht Fenstern.",
+      "tip": "Der Tambour ist vier Blöcke dick.",
+      "caution": "Die Fenster liegen in den Seitenmitten.",
+      "fact": "Der Tambour hebt die Kuppel weit über die Dächer."
+    },
+    "kuppel_principi": {
+      "title": "Kuppel",
+      "description": "Die achtseitige Kuppel wölbt sich bis Lage 104: außen Ziegel mit weißen Marmorrippen an den Ecken, innen Fresken.",
+      "tip": "Baue Ring für Ring und lass innen den Hohlraum frei.",
+      "caution": "Die Rippen sitzen an den acht Ecken.",
+      "fact": "Die Kuppel ist mit 59 Metern nach dem Dom die zweitgrößte der Stadt."
+    },
+    "laterne_principi": {
+      "title": "Laterne",
+      "description": "Auf die Kuppel setzt du eine Laterne aus Glattem Quarzblock mit Fenstern bis Lage 112, oben Gold.",
+      "tip": "Die Laterne ist rund.",
+      "caution": "Ihr Inneres ist unzugänglich.",
+      "fact": "Die Cappella dei Principi wurde ab 1604 nach einem Entwurf von Matteo Nigetti gebaut."
+    }
+  }
+}

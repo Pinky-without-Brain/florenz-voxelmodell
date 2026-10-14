@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 120.722 |
+| Blöcke | 120.085 |
 | Bauschritte | 78 |
 | Y-Bereich | 63 bis 106 |
 | X-Ausdehnung | -665 bis -394 (272 Blöcke) |
-| Z-Ausdehnung | -382 bis -124 (259 Blöcke) |
+| Z-Ausdehnung | -383 bis -124 (260 Blöcke) |
 | Kleinster Schritt | 752 Blöcke (Schritt 10.12) |
-| Mittlerer Schritt | 1.548 Blöcke |
+| Mittlerer Schritt | 1.540 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 10.64) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 43.589 | 36,1 % |
+| Terrakotta | `terracotta` | 43.696 | 36,4 % |
 | Orange Keramik | `orange_terracotta` | 14.830 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 14.402 | 11,9 % |
+| Polierter Tuffstein | `polished_tuff` | 14.402 | 12,0 % |
 | Tuffstein | `tuff` | 10.259 | 8,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 9.870 | 8,2 % |
-| Polierter Andesit | `polished_andesite` | 7.157 | 5,9 % |
+| Polierter Andesit | `polished_andesite` | 7.163 | 6,0 % |
 | Endsteinziegel | `end_stone_bricks` | 4.975 | 4,1 % |
-| Glatter Sandstein | `smooth_sandstone` | 3.872 | 3,2 % |
 | Weißer Beton | `white_concrete` | 3.320 | 2,8 % |
-| Glatter Stein | `smooth_stone` | 2.312 | 1,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.032 | 2,5 % |
+| Glatter Stein | `smooth_stone` | 2.402 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 1.842 | 1,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.354 | 1,1 % |
 | Ziegelsteine | `bricks` | 1.009 | 0,8 % |
@@ -38,12 +38,12 @@
 | Grüner Beton | `green_concrete` | 258 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 251 | 0,2 % |
 | Seelaterne | `sea_lantern` | 222 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 68 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 64 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 70 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 66 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 34 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 32 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 30 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 25 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 25 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
@@ -64,15 +64,15 @@
 | 2 | `r4101351_innen` | Palazzo Martelli: Innenausbau | 9.010 | 10.25–10.30 |
 | 3 | `r4101353` | Reihenhaus an Via dei Conti | 12.612 | 10.31–10.39 |
 | 4 | `r4101353_innen` | Reihenhaus an Via dei Conti: Innenausbau | 2.233 | 10.40–10.41 |
-| 5 | `w307153309` | Reihenhaus an Piazza San Lorenzo | 5.655 | 10.42–10.44 |
-| 6 | `w307153309_innen` | Reihenhaus an Piazza San Lorenzo: Innenausbau | 1.926 | 10.45 |
+| 5 | `w307153309` | Reihenhaus an Piazza San Lorenzo | 4.815 | 10.42–10.44 |
+| 6 | `w307153309_innen` | Reihenhaus an Piazza San Lorenzo: Innenausbau | 2.010 | 10.45 |
 | 7 | `w495261004` | Renaissance-Palazzo an Via dei Conti | 18.462 | 10.46–10.55 |
 | 8 | `w495261004_innen` | Renaissance-Palazzo an Via dei Conti: Innenausbau | 3.839 | 10.56–10.57 |
 | 9 | `w495261015` | Haus w495261015 | 8.860 | 10.58–10.62 |
 | 10 | `w495261015_innen` | Haus w495261015: Innenausbau | 3.198 | 10.63–10.64 |
 | 11 | `w495261017` | Haus w495261017 | 6.487 | 10.65–10.68 |
 | 12 | `w495261017_innen` | Haus w495261017: Innenausbau | 1.911 | 10.69 |
-| 13 | `w495261020` | Renaissance-Palazzo an Piazza Madonna degli Aldobrandini | 12.322 | 10.70–10.76 |
+| 13 | `w495261020` | Renaissance-Palazzo an Piazza Madonna degli Aldobrandini | 12.441 | 10.70–10.76 |
 | 14 | `w495261020_innen` | Renaissance-Palazzo an Piazza Madonna degli Aldobrandini: Innenausbau | 3.205 | 10.77–10.78 |
 
 ## Bauschritte
@@ -1373,14 +1373,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 10.42 – Reihenhaus an Piazza San Lorenzo – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.870
+- **Blöcke:** 1.618
 - **Bauteile:** `w307153309`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.142 |
+| Glatter Sandstein | `smooth_sandstone` | 890 |
 | Polierter Tuffstein | `polished_tuff` | 728 |
 
 **Beschreibung**
@@ -1399,17 +1399,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.43 – Reihenhaus an Piazza San Lorenzo – Teil 2/3 (Y 73–87)
+### Schritt 10.43 – Reihenhaus an Piazza San Lorenzo – Teil 2/3 (Y 73–88)
 
-- **Y-Bereich:** 73 bis 87
-- **Blöcke:** 1.950
+- **Y-Bereich:** 73 bis 88
+- **Blöcke:** 1.632
 - **Bauteile:** `w307153309`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.950 |
+| Glatter Sandstein | `smooth_sandstone` | 1.632 |
 
 **Beschreibung**
 
@@ -1427,10 +1427,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.44 – Reihenhaus an Piazza San Lorenzo – Teil 3/3 (Y 88–101)
+### Schritt 10.44 – Reihenhaus an Piazza San Lorenzo – Teil 3/3 (Y 89–101)
 
-- **Y-Bereich:** 88 bis 101
-- **Blöcke:** 1.835
+- **Y-Bereich:** 89 bis 101
+- **Blöcke:** 1.565
 - **Bauteile:** `w307153309`
 
 **Teileliste**
@@ -1438,7 +1438,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 940 |
-| Glatter Sandstein | `smooth_sandstone` | 780 |
+| Glatter Sandstein | `smooth_sandstone` | 510 |
 | Ziegelsteine | `bricks` | 99 |
 | Fichtenholz-Bretter | `spruce_planks` | 16 |
 
@@ -1461,22 +1461,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.45 – Reihenhaus an Piazza San Lorenzo: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.926
+- **Blöcke:** 2.010
 - **Bauteile:** `w307153309_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.770 |
+| Terrakotta | `terracotta` | 1.854 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2306,7 +2306,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.71 – Renaissance-Palazzo an Piazza Madonna degli Aldobrandini – Teil 2/7 (Y 64–71)
 
 - **Y-Bereich:** 64 bis 71
-- **Blöcke:** 1.812
+- **Blöcke:** 1.814
 - **Bauteile:** `w495261020`
 
 **Teileliste**
@@ -2315,7 +2315,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.053 |
 | Tuffsteinziegel | `tuff_bricks` | 313 |
-| Polierter Andesit | `polished_andesite` | 288 |
+| Polierter Andesit | `polished_andesite` | 290 |
 | Graues Buntglas | `gray_stained_glass` | 110 |
 | Glatter Stein | `smooth_stone` | 48 |
 
@@ -2338,7 +2338,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.72 – Renaissance-Palazzo an Piazza Madonna degli Aldobrandini – Teil 3/7 (Y 72–77)
 
 - **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.572
+- **Blöcke:** 1.583
 - **Bauteile:** `w495261020`
 
 **Teileliste**
@@ -2346,8 +2346,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 681 |
-| Polierter Andesit | `polished_andesite` | 379 |
-| Glatter Stein | `smooth_stone` | 258 |
+| Polierter Andesit | `polished_andesite` | 381 |
+| Glatter Stein | `smooth_stone` | 267 |
 | Tuffsteinziegel | `tuff_bricks` | 231 |
 | Graues Buntglas | `gray_stained_glass` | 23 |
 
@@ -2370,7 +2370,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.73 – Renaissance-Palazzo an Piazza Madonna degli Aldobrandini – Teil 4/7 (Y 78–84)
 
 - **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.872
+- **Blöcke:** 1.881
 - **Bauteile:** `w495261020`
 
 **Teileliste**
@@ -2379,7 +2379,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 768 |
 | Tuffstein | `tuff` | 615 |
-| Glatter Stein | `smooth_stone` | 210 |
+| Glatter Stein | `smooth_stone` | 219 |
 | Tuffsteinziegel | `tuff_bricks` | 210 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 
@@ -2402,17 +2402,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.74 – Renaissance-Palazzo an Piazza Madonna degli Aldobrandini – Teil 5/7 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.861
+- **Blöcke:** 1.872
 - **Bauteile:** `w495261020`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.056 |
+| Polierter Andesit | `polished_andesite` | 1.058 |
 | Tuffstein | `tuff` | 591 |
 | Graues Buntglas | `gray_stained_glass` | 115 |
-| Glatter Stein | `smooth_stone` | 99 |
+| Glatter Stein | `smooth_stone` | 108 |
 
 **Beschreibung**
 
@@ -2433,15 +2433,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 10.75 – Renaissance-Palazzo an Piazza Madonna degli Aldobrandini – Teil 6/7 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
-- **Blöcke:** 1.739
+- **Blöcke:** 1.825
 - **Bauteile:** `w495261020`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 869 |
-| Glatter Stein | `smooth_stone` | 354 |
+| Terrakotta | `terracotta` | 892 |
+| Glatter Stein | `smooth_stone` | 417 |
 | Polierter Andesit | `polished_andesite` | 330 |
 | Tuffstein | `tuff` | 186 |
 

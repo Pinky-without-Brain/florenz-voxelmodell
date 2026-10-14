@@ -1,0 +1,50 @@
+{
+  "module": 5,
+  "title": "Decken und Dächer",
+  "subtitle": "Bautüte 5: Kassettendecke, Hängekuppeln und Dächer",
+  "icon": "🏠",
+  "parts": {
+    "kassettendecke": {
+      "title": "Kassettendecke",
+      "description": "Über Mittelschiff, Querhaus und Chor liegt auf Lage 42 eine flache Decke aus Dunkler Eiche mit Rosetten aus Gold alle vier Blöcke.",
+      "tip": "Die Rosetten bilden ein Raster.",
+      "caution": "Wo die Decke außen sichtbar wäre, nimmst du Steinziegel.",
+      "fact": "Die Kassettendecke trägt goldene Rosetten auf weißem Grund."
+    },
+    "gewoelbe": {
+      "title": "Hängekuppeln",
+      "description": "Jedes Seitenschiffjoch bekommt eine flache Hängekuppel aus weißem Putz mit Scheitel auf Lage 24; Gurtbögen aus Glattem Stein trennen die Joche.",
+      "tip": "Die Kuppel steigt von den Rändern zur Mitte.",
+      "caution": "Darüber liegt ein Dachraum ohne Zugang.",
+      "fact": "Die Seitenschiffe haben Gewölbe, das Mittelschiff eine Holzdecke."
+    },
+    "dach_langhaus": {
+      "title": "Dach des Mittelschiffs",
+      "description": "Das Satteldach hat den First auf Lage 54.",
+      "tip": "Lege das Dach von der Traufe zum First.",
+      "caution": "Die Dachhaut reicht bis zur Höhe des tiefsten Nachbarn.",
+      "fact": "Das Dach ist mit roten Ziegeln gedeckt."
+    },
+    "dach_querhaus": {
+      "title": "Dach des Querhauses",
+      "description": "Das Querhausdach läuft quer zur Achse mit First auf Lage 54.",
+      "tip": "Um den Tambour bleibt eine flache Terrasse.",
+      "caution": "Die Kuppel ragt aus dem Dach.",
+      "fact": "Von der Piazza sieht man über dem Querhaus die Kuppel."
+    },
+    "dach_seiten": {
+      "title": "Pultdächer",
+      "description": "Seitenschiffe und Kapellen tragen Pultdächer von Lage 32 an der Hochwand bis Lage 27 außen.",
+      "tip": "Das Dach fällt nach außen.",
+      "caution": "Darunter liegen Dachräume ohne Zugang.",
+      "fact": "Die Pultdächer liegen tiefer als die Fenster des Obergadens."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo höhere Dächer an tiefere stoßen, schließt du mit Steinziegeln.",
+      "tip": "Die Wände hängen an der Dachhaut.",
+      "caution": "Ohne sie wäre das Dach offen.",
+      "fact": "Solche Wände heißen Schildwände."
+    }
+  }
+}
