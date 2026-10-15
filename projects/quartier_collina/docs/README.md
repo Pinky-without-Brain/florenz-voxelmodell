@@ -4,7 +4,7 @@
 
 *Projekt `quartier_collina`, Art: quartier*
 
-**Statistik (generiert):** 827.696 Blöcke in 541 Bauschritten, 45 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 827.684 Blöcke in 541 Bauschritten, 45 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -1524 bis 1680, Y 89 bis 244, Z 1729 bis 2723.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -20,7 +20,7 @@ Ausdehnung des Modells: X -1524 bis 1680, Y 89 bis 244, Z 1729 bis 2723.
 | 8 | Isolato I0377 | 2.635 | 2 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
 | 9 | Isolato I0378 | 49.755 | 36 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
 | 10 | Isolato I0380 | 50.740 | 36 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
-| 11 | Isolato I0405 | 26.349 | 17 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |
+| 11 | Isolato I0405 | 26.337 | 17 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |
 | 12 | Isolato I0407 | 3.682 | 3 | [BAUANLEITUNG_MODUL_12.md](BAUANLEITUNG_MODUL_12.md) |
 | 13 | Isolato I0412 | 12.038 | 7 | [BAUANLEITUNG_MODUL_13.md](BAUANLEITUNG_MODUL_13.md) |
 | 14 | Isolato I0417 | 4.621 | 4 | [BAUANLEITUNG_MODUL_14.md](BAUANLEITUNG_MODUL_14.md) |
@@ -54,7 +54,7 @@ Ausdehnung des Modells: X -1524 bis 1680, Y 89 bis 244, Z 1729 bis 2723.
 | 42 | Isolato I0775 | 1.913 | 1 | [BAUANLEITUNG_MODUL_42.md](BAUANLEITUNG_MODUL_42.md) |
 | 43 | Isolato I0784 | 8.216 | 5 | [BAUANLEITUNG_MODUL_43.md](BAUANLEITUNG_MODUL_43.md) |
 | 44 | Isolato I0790 | 5.909 | 4 | [BAUANLEITUNG_MODUL_44.md](BAUANLEITUNG_MODUL_44.md) |
-| | **Summe** | **827.696** | **541** | |
+| | **Summe** | **827.684** | **541** | |
 
 ## Gesamt-Stückliste
 
@@ -65,7 +65,7 @@ Ausdehnung des Modells: X -1524 bis 1680, Y 89 bis 244, Z 1729 bis 2723.
 | Endsteinziegel | `end_stone_bricks` | 122.899 | 14,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 62.552 | 7,6 % |
 | Polierter Tuffstein | `polished_tuff` | 54.280 | 6,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 48.697 | 5,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 48.685 | 5,9 % |
 | Weißer Beton | `white_concrete` | 48.064 | 5,8 % |
 | Glatter Stein | `smooth_stone` | 32.259 | 3,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 27.552 | 3,3 % |

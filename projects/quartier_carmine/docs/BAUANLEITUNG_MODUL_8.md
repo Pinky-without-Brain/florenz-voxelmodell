@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 350.198 |
+| Blöcke | 350.194 |
 | Bauschritte | 219 |
 | Y-Bereich | 55 bis 102 |
 | X-Ausdehnung | -1762 bis -1518 (245 Blöcke) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 120.284 | 34,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 48.839 | 13,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 48.831 | 13,9 % |
 | Polierter Tuffstein | `polished_tuff` | 37.385 | 10,7 % |
 | Tuffstein | `tuff` | 24.300 | 6,9 % |
 | Weißer Beton | `white_concrete` | 23.273 | 6,6 % |
@@ -52,8 +52,9 @@
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 23 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 9 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -71,7 +72,7 @@
 | 2 | `r4088608_innen` | Palazzo Antinori di Brindisi: Innenausbau | 9.687 | 8.22–8.27 |
 | 3 | `r4088609` | Palazzo Rosselli del Turco | 15.953 | 8.28–8.36 |
 | 4 | `r4088609_innen` | Palazzo Rosselli del Turco: Innenausbau | 3.883 | 8.37–8.38 |
-| 5 | `r7510656` | Reihenhaus an Via Maffia | 14.108 | 8.39–8.48 |
+| 5 | `r7510656` | Reihenhaus an Via Maffia | 14.100 | 8.39–8.48 |
 | 6 | `r7510656_innen` | Reihenhaus an Via Maffia: Innenausbau | 3.912 | 8.49–8.51 |
 | 7 | `r10837859` | Palazzo des Ottocento an Via dei Serragli | 78.504 | 8.52–8.105 |
 | 8 | `r10837859_innen` | Palazzo des Ottocento an Via dei Serragli: Innenausbau | 23.329 | 8.106–8.117 |
@@ -121,7 +122,7 @@
 | 52 | `w518843708_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 1.911 | 8.216 |
 | 53 | `w518843711` | Reihenhaus an Via Sant'Agostino | 3.590 | 8.217–8.218 |
 | 54 | `w518843711_innen` | Reihenhaus an Via Sant'Agostino: Innenausbau | 1.326 | 8.219 |
-| 55 | `strassenschilder` | Straßenschilder | 3 | 8.219 |
+| 55 | `strassenschilder` | Straßenschilder | 7 | 8.219 |
 
 ## Bauschritte
 
@@ -1376,14 +1377,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.40 – Reihenhaus an Via Maffia – Teil 2/10 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.352
+- **Blöcke:** 1.344
 - **Bauteile:** `r7510656`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.292 |
+| Glatter Sandstein | `smooth_sandstone` | 1.284 |
 | Weißer Beton | `white_concrete` | 32 |
 | Polierter Andesit | `polished_andesite` | 16 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
@@ -7236,7 +7237,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 8.219 – Reihenhaus an Via Sant'Agostino: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 59 bis 83
-- **Blöcke:** 1.329
+- **Blöcke:** 1.333
 - **Bauteile:** `w518843711_innen`, `strassenschilder`
 
 **Teileliste**
@@ -7248,10 +7249,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
 | Seelaterne | `sea_lantern` | 12 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

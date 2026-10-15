@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 26.349 |
+| Blöcke | 26.337 |
 | Bauschritte | 17 |
 | Y-Bereich | 182 bis 226 |
 | X-Ausdehnung | -715 bis -641 (75 Blöcke) |
 | Z-Ausdehnung | 2483 bis 2541 (59 Blöcke) |
 | Kleinster Schritt | 1.079 Blöcke (Schritt 11.2) |
-| Mittlerer Schritt | 1.550 Blöcke |
+| Mittlerer Schritt | 1.549 Blöcke |
 | Größter Schritt | 2.066 Blöcke (Schritt 11.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 10.038 | 38,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 10.026 | 38,1 % |
 | Tuffstein | `tuff` | 5.712 | 21,7 % |
 | Terrakotta | `terracotta` | 5.099 | 19,4 % |
 | Weißer Beton | `white_concrete` | 2.803 | 10,6 % |
@@ -49,7 +49,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w315223125` | Haus w315223125 | 23.065 | 11.1–11.14 |
+| 1 | `w315223125` | Haus w315223125 | 23.053 | 11.1–11.14 |
 | 2 | `w315223125_innen` | Haus w315223125: Innenausbau | 3.284 | 11.15–11.17 |
 
 ## Bauschritte
@@ -197,7 +197,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.5 – Haus w315223125 – Teil 5/14 (Y 189–190)
 
 - **Y-Bereich:** 189 bis 190
-- **Blöcke:** 2.056
+- **Blöcke:** 2.053
 - **Bauteile:** `w315223125`
 
 **Teileliste**
@@ -205,7 +205,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.588 |
-| Glatter Sandstein | `smooth_sandstone` | 463 |
+| Glatter Sandstein | `smooth_sandstone` | 460 |
 | Glatter Stein | `smooth_stone` | 4 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
 
@@ -234,14 +234,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.6 – Haus w315223125 – Teil 6/14 (Y 191–194)
 
 - **Y-Bereich:** 191 bis 194
-- **Blöcke:** 1.796
+- **Blöcke:** 1.787
 - **Bauteile:** `w315223125`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.337 |
+| Glatter Sandstein | `smooth_sandstone` | 1.328 |
 | Weißer Beton | `white_concrete` | 302 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 | Glatter Stein | `smooth_stone` | 19 |

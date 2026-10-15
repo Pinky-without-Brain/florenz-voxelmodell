@@ -206,6 +206,21 @@ Nutzerbefund: Häuser zu tief, Fenster halb im Boden. Ursache: Quartiere hatten 
 ### H4 Webapp: ferne Module entladen – **erledigt**
 `webapp/js/engine/city-view.js`: `entladeFerne()` baut die Welt eines Projekts aus den nahen Modulen neu auf, sobald ≥ 3 geladene Module (oder alle) weiter als `showDist + ladeRand + entladeRand` (1400 + 200 + 600) entfernt sind; Rohdaten der fernen Module gibt `ProjectLoader.forgetModule` frei. Browsertest (Playwright, Flug Mitte → Pitti → Westrand → Mitte): 12,0 → 6,3 Mio geladene Blöcke, 96 Module entladen, keine Fehler. Kennzahl `stats().modulesUnloaded`.
 
+### Übergabe an die lokale Sitzung (15.10.2026 spät) – **Stand und offene Arbeit**
+**Unterbrochen mitten in H1.** Der Nutzer meldete schwebende bzw. versunkene Häuser. Gemessen (Scratch-Skript `hoehe.js`: Straßenoberkante des gebauten Stadtgrunds minus Hausboden an den Hausrändern): Altstadt vorher 0 bis −2 Lagen, am Hang (Costa San Giorgio) bis −31, weil der Hausboden das **höchste** Gelände des Grundrisses war. Hinzu kommt: GitHub Pages zeigt noch `main` mit dem alten Bau (alle Häuser auf Y 63).
+- **Neu, noch nicht committet-getestet im Gesamtlauf:** `hausBoden()` in `tools/city/haus.js` = Median des Geländes der freien Nachbarzellen an benannten Straßen/Plätzen (sonst aller freien Nachbarn), begrenzt auf [min, max] Gelände im Grundriss. Messung danach: Signoria 0/+1 (2.534 + 1.050 von 4.233 Randzellen), Costa San Giorgio meist −5…+6, Ausreißer bis +27/−15 bei sehr großen Grundstücken am Steilhang (ein Baukörper über ~30 Lagen Gefälle; mögliche Verbesserung: solche Häuser terrassieren). `quartier_signoria` mit `--no-emit`-Regeln (ohne R9): fehlerfrei, R13 98,5 %. `quartier_costa_san_giorgio` noch **nicht** geprüft (Hinweis: das Scratch-Skript `wztest.js` scheitert bei großen Quartieren an der R13-Rastergrenze – mit `node tools/build.js --project <id> --no-emit` prüfen).
+- Ebenfalls neu seit dem letzten Gesamtlauf (gehören zum selben Neubau): Schilder nur in freien Spalten + Namenssuche bis 4 Zellen (`schilder.js`, `quartier.js` übergibt `frei`), `taschenDurchbruch` (≤ 8 Wandzellen), keine Vorsprünge vor durchbrochenen Wänden (`haus.js`), Galerie-Ring der Palazzi in allen Geschossen (`palazzo.js`, Bauteil `innenwaende_og` in Modul 3; die fünf Palazzi sind damit bereits neu gebaut, Test `palazzi.test.js` grün).
+- **Abgebrochen:** Kette 3 (alle Quartiere neu). Gebaut waren nur `domplatz_ring`, `quartier_brunelleschi`, `quartier_campuccio`, `quartier_carmine` (mit älterem Hausboden!), `quartier_borgo_albizi` fehlgeschlagen (Vorsprung-Fehler, inzwischen behoben). Webdaten/Doku der Quartiere sind daher **gemischt** (teils 15.10. mit Max-Boden, teils älter) – vollständiger Neubau nötig.
+
+**Nächste Schritte (genau in dieser Reihenfolge):**
+1. `node tools/build.js --project quartier_costa_san_giorgio --no-emit` → R1/R3/R13 prüfen (Hangfälle); ggf. `hausBoden` nachbessern.
+2. Alle 35 Quartiere mit Emit bauen (Skript-Vorlage: Liste wie in Abschnitt 3; je Quartier 1,5–3 min, Spitzen-RSS ~3 GB), Fehlschläge einzeln nachbauen.
+3. `node tools/city/besitz.js` für alle Quartiere **und** die 15 neuen Wahrzeichen (santo_spirito … ponte_amerigo_vespucci), dann `node tools/build.js --project stadtgrund`, `node tools/emit/webindex.js`.
+4. `node --max-old-space-size=8000 tools/build.js --cross --no-emit` (~12 min). Der letzte Lauf (vor besitz der neuen Wahrzeichen) zeigte nur Konflikte neue Wahrzeichen ↔ Stadtgrund (erwartet, behebt Schritt 3) und drei Schilder in Nachbarhäusern (behoben).
+5. Tests: `node --test "tools/test/**/*.test.js"`.
+6. Minecraft-Export (`node --max-old-space-size=6144 tools/minecraft/export.js --ziel build/minecraft/florenz_voxelmodell`), Schilder im Ergebnis prüfen; dann Statistik `node tools/emit/statistik.js --pdf <datei>` und dem Nutzer das PDF geben (offene Nutzerbitte).
+7. Commit, Push, PR und **Merge auf `main`** (vom Nutzer ausdrücklich gewünscht), damit Pages den neuen Stand zeigt.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).

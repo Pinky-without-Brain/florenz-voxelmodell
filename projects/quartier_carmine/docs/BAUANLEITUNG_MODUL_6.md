@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 187.438 |
+| Blöcke | 187.442 |
 | Bauschritte | 115 |
 | Y-Bereich | 57 bis 98 |
 | X-Ausdehnung | -2009 bis -1788 (222 Blöcke) |
@@ -54,9 +54,10 @@
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 18 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 12 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -110,7 +111,7 @@
 | 38 | `w479743971_innen` | Renaissance-Palazzo an Via Santa Monaca: Innenausbau | 2.803 | 6.107–6.108 |
 | 39 | `w479743972` | Reihenhaus an Via d'Ardiglione | 7.260 | 6.109–6.112 |
 | 40 | `w479743972_innen` | Reihenhaus an Via d'Ardiglione: Innenausbau | 5.740 | 6.113–6.115 |
-| 41 | `strassenschilder` | Straßenschilder | 4 | 6.115 |
+| 41 | `strassenschilder` | Straßenschilder | 8 | 6.115 |
 
 ## Bauschritte
 
@@ -4052,8 +4053,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 6.115 – Reihenhaus an Via d'Ardiglione: Innenausbau – Teil 3/3 (Y 76–83) & Straßenschilder
 
-- **Y-Bereich:** 66 bis 83
-- **Blöcke:** 1.919
+- **Y-Bereich:** 65 bis 83
+- **Blöcke:** 1.923
 - **Bauteile:** `w479743972_innen`, `strassenschilder`
 
 **Teileliste**
@@ -4067,9 +4068,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

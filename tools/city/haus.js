@@ -71,6 +71,28 @@ function abstandsfeld(cells, S) {
 }
 
 // ------------------------------------------------------------------ Plan
+// Hausboden (Oberkante der Bodenplatte): Straßenniveau vor dem Haus = Median des Geländes der freien Nachbarzellen an
+// benannten Straßen und Plätzen (sonst aller freien Nachbarzellen), begrenzt auf das Gelände im Grundriss. Am Hang
+// steht das Haus so auf der Straße; bergseitig schneidet es ins Gelände ein (der Stadtgrund baut unter dem Haus nur
+// bis unter die Bodenplatte), talseitig trägt ein Sockel aus Bruchstein.
+function hausBoden(cells, S, kontext) {
+  const top = (x, z) => kontext.groundTopY(x, z);
+  let gMin = Infinity, gMax = -Infinity;
+  const strasse = [], frei = [];
+  for (const [x, z] of cells) {
+    const t = top(x, z); if (t < gMin) gMin = t; if (t > gMax) gMax = t;
+    for (const [dx, dz] of N4) {
+      const nx = x + dx, nz = z + dz;
+      if (S.has(P.ck(nx, nz)) || kontext.parz.owner(nx, nz) !== null) continue;
+      const h = top(nx, nz);
+      if (kontext.umfeld && kontext.umfeld.nameBei(nx, nz)) strasse.push(h); else frei.push(h);
+    }
+  }
+  const median = (a) => { const b = a.slice().sort((p, q) => p - q); return b[Math.floor(b.length / 2)]; };
+  const h = strasse.length ? median(strasse) : frei.length ? median(frei) : gMax;
+  return Math.max(gMin, Math.min(gMax, h));
+}
+
 function planHaus(g, akte, kontext) {
   const id = g.id;
   const cells = kontext.parz.cellsOf(id);
@@ -79,8 +101,7 @@ function planHaus(g, akte, kontext) {
   const S = new Set(cells.map((c) => P.ck(c[0], c[1])));
   plan.S = S;
   const top = (x, z) => kontext.groundTopY(x, z);
-  let boden = -Infinity;
-  for (const [x, z] of cells) boden = Math.max(boden, top(x, z));
+  const boden = hausBoden(cells, S, kontext);
   plan.boden = boden;
   plan.storeys = geschosseMitBasis(akte, boden);
   const summe = akte.geschosse.reduce((a, s) => a + s.hoeheBl, 0);

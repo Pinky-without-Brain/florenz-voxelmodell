@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 651.195 |
+| Blöcke | 651.169 |
 | Bauschritte | 420 |
 | Y-Bereich | 56 bis 103 |
 | X-Ausdehnung | -2462 bis -1911 (552 Blöcke) |
@@ -25,8 +25,8 @@
 | Glatter Sandstein | `smooth_sandstone` | 69.695 | 10,7 % |
 | Endsteinziegel | `end_stone_bricks` | 66.845 | 10,3 % |
 | Polierter Tuffstein | `polished_tuff` | 58.890 | 9,0 % |
-| Rosa Keramik | `pink_terracotta` | 44.552 | 6,8 % |
-| Orange Keramik | `orange_terracotta` | 41.658 | 6,4 % |
+| Rosa Keramik | `pink_terracotta` | 44.536 | 6,8 % |
+| Orange Keramik | `orange_terracotta` | 41.642 | 6,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 39.527 | 6,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 36.370 | 5,6 % |
 | Weißer Beton | `white_concrete` | 35.470 | 5,4 % |
@@ -53,8 +53,11 @@
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 40 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 16 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -134,7 +137,7 @@
 | 64 | `w518847828_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 1.117 | 0.214 |
 | 65 | `w518847829` | Reihenhaus an Via del Campuccio | 2.884 | 0.215–0.216 |
 | 66 | `w518847829_innen` | Reihenhaus an Via del Campuccio: Innenausbau | 804 | 0.217 |
-| 67 | `w518847830` | Reihenhaus an Via dei Serragli | 4.886 | 0.218–0.220 |
+| 67 | `w518847830` | Reihenhaus an Via dei Serragli | 4.870 | 0.218–0.220 |
 | 68 | `w518847830_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 1.435 | 0.221 |
 | 69 | `w518847831` | Reihenhaus an Via dei Serragli | 2.998 | 0.222–0.223 |
 | 70 | `w518847831_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 842 | 0.224 |
@@ -210,7 +213,7 @@
 | 140 | `w518877231_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 1.486 | 0.347 |
 | 141 | `w518877234` | Palazzo des Cinquecento an Via della Chiesa | 11.034 | 0.348–0.353 |
 | 142 | `w518877234_innen` | Palazzo des Cinquecento an Via della Chiesa: Innenausbau | 3.139 | 0.354–0.355 |
-| 143 | `w518877238` | Reihenhaus an Via della Chiesa | 5.643 | 0.356–0.358 |
+| 143 | `w518877238` | Reihenhaus an Via della Chiesa | 5.627 | 0.356–0.358 |
 | 144 | `w518877238_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 1.512 | 0.359 |
 | 145 | `w518877241` | Haus w518877241 | 12.975 | 0.360–0.366 |
 | 146 | `w518877241_innen` | Haus w518877241: Innenausbau | 1.892 | 0.367 |
@@ -242,7 +245,7 @@
 | 172 | `w780650071_innen` | Haus w780650071: Innenausbau | 553 | 0.417 |
 | 173 | `w780650084` | Reihenhaus an Via della Chiesa | 3.186 | 0.418–0.419 |
 | 174 | `w780650084_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 1.763 | 0.420 |
-| 175 | `strassenschilder` | Straßenschilder | 2 | 0.420 |
+| 175 | `strassenschilder` | Straßenschilder | 8 | 0.420 |
 
 ## Bauschritte
 
@@ -7392,14 +7395,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.218 – Reihenhaus an Via dei Serragli – Teil 1/3 (Y 61–70)
 
 - **Y-Bereich:** 61 bis 70
-- **Blöcke:** 1.664
+- **Blöcke:** 1.648
 - **Bauteile:** `w518847830`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.127 |
+| Rosa Keramik | `pink_terracotta` | 1.111 |
 | Polierter Tuffstein | `polished_tuff` | 537 |
 
 **Beschreibung**
@@ -12170,14 +12173,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 0.356 – Reihenhaus an Via della Chiesa – Teil 1/3 (Y 56–66)
 
 - **Y-Bereich:** 56 bis 66
-- **Blöcke:** 1.823
+- **Blöcke:** 1.807
 - **Bauteile:** `w518877238`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.057 |
+| Orange Keramik | `orange_terracotta` | 1.041 |
 | Polierter Tuffstein | `polished_tuff` | 626 |
 | Tuffstein | `tuff` | 92 |
 | Polierter Andesit | `polished_andesite` | 28 |
@@ -14384,7 +14387,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.420 – Reihenhaus an Via della Chiesa: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 84
-- **Blöcke:** 1.765
+- **Blöcke:** 1.771
 - **Bauteile:** `w780650084_innen`, `strassenschilder`
 
 **Teileliste**
@@ -14396,7 +14399,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
 | Seelaterne | `sea_lantern` | 16 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 113.295 |
+| Blöcke | 113.300 |
 | Bauschritte | 76 |
 | Y-Bereich | 58 bis 96 |
 | X-Ausdehnung | -1840 bis -1711 (130 Blöcke) |
@@ -48,8 +48,10 @@
 | Tuffsteinziegel | `tuff_bricks` | 21 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -98,7 +100,7 @@
 | 34 | `w478557091_innen` | Reihenhaus an Borgo della Stella: Innenausbau | 650 | 7.71 |
 | 35 | `w478557092` | Reihenhaus an Via d'Ardiglione | 6.844 | 7.72–7.75 |
 | 36 | `w478557092_innen` | Reihenhaus an Via d'Ardiglione: Innenausbau | 1.737 | 7.76 |
-| 37 | `strassenschilder` | Straßenschilder | 2 | 7.76 |
+| 37 | `strassenschilder` | Straßenschilder | 7 | 7.76 |
 
 ## Bauschritte
 
@@ -2661,7 +2663,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.76 – Reihenhaus an Via d'Ardiglione: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 59 bis 83
-- **Blöcke:** 1.739
+- **Blöcke:** 1.744
 - **Bauteile:** `w478557092_innen`, `strassenschilder`
 
 **Teileliste**
@@ -2675,8 +2677,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
