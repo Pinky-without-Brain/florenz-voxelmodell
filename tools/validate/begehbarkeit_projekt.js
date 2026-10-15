@@ -60,7 +60,7 @@ function einheiten(ctx) {
     for (const m of world.modules) {
       const jeHaus = new Map();
       for (const p of m.parts) {
-        if (!p.keys.length) continue;
+        if (!p.keys.length || p.id === 'strassenschilder') continue;   // Schilder sind kein Haus (über das ganze Isolat verstreut)
         const basis = p.id.endsWith('_innen') ? p.id.slice(0, -6) : p.id;
         let u = jeHaus.get(basis);
         if (!u) {
