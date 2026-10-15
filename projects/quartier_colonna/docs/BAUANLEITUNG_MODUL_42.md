@@ -8,74 +8,133 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 105.953 |
-| Bauschritte | 66 |
-| Y-Bereich | 63 bis 102 |
+| Blöcke | 112.461 |
+| Bauschritte | 71 |
+| Y-Bereich | 62 bis 106 |
 | X-Ausdehnung | 1471 bis 1629 (159 Blöcke) |
 | Z-Ausdehnung | -546 bis -283 (264 Blöcke) |
-| Kleinster Schritt | 751 Blöcke (Schritt 42.14) |
-| Mittlerer Schritt | 1.605 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 42.49) |
+| Kleinster Schritt | 751 Blöcke (Schritt 42.16) |
+| Mittlerer Schritt | 1.584 Blöcke |
+| Größter Schritt | 2.083 Blöcke (Schritt 42.65) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 36.555 | 34,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 19.465 | 18,4 % |
-| Polierter Tuffstein | `polished_tuff` | 11.552 | 10,9 % |
-| Orange Keramik | `orange_terracotta` | 8.401 | 7,9 % |
-| Weißer Beton | `white_concrete` | 8.120 | 7,7 % |
-| Polierter Andesit | `polished_andesite` | 5.404 | 5,1 % |
-| Tuffstein | `tuff` | 4.133 | 3,9 % |
-| Glatter Stein | `smooth_stone` | 3.153 | 3,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 3.069 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 2.502 | 2,4 % |
+| Terrakotta | `terracotta` | 36.555 | 32,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 19.465 | 17,3 % |
+| Polierter Tuffstein | `polished_tuff` | 11.549 | 10,3 % |
+| Tuffstein | `tuff` | 10.539 | 9,4 % |
+| Orange Keramik | `orange_terracotta` | 8.506 | 7,6 % |
+| Weißer Beton | `white_concrete` | 8.120 | 7,2 % |
+| Polierter Andesit | `polished_andesite` | 5.404 | 4,8 % |
+| Glatter Stein | `smooth_stone` | 3.153 | 2,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.069 | 2,7 % |
+| Graues Buntglas | `gray_stained_glass` | 2.502 | 2,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 996 | 0,9 % |
-| Ziegelsteine | `bricks` | 710 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 707 | 0,7 % |
-| Grüner Beton | `green_concrete` | 265 | 0,3 % |
+| Ziegelsteine | `bricks` | 710 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 707 | 0,6 % |
+| Grüner Beton | `green_concrete` | 265 | 0,2 % |
 | Endsteinziegel | `end_stone_bricks` | 236 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 226 | 0,2 % |
-| Seelaterne | `sea_lantern` | 201 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 225 | 0,2 % |
+| Seelaterne | `sea_lantern` | 198 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 61 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 59 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 14 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 14 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 15 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 170 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 168 |
 | Steintreppe | `stone_stairs` | 60 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1588168` | Reihenhaus an Piazza Massimo d'Azeglio | 32.286 | 42.1–42.23 |
-| 2 | `r1588168_innen` | Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau | 9.713 | 42.24–42.29 |
-| 3 | `w306488509` | Reihenhaus an Piazza Massimo d'Azeglio | 5.698 | 42.30–42.32 |
-| 4 | `w306488509_innen` | Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau | 793 | 42.33 |
-| 5 | `w306488518` | Villino Puccioni | 8.731 | 42.34–42.38 |
-| 6 | `w306488518_innen` | Villino Puccioni: Innenausbau | 2.710 | 42.39–42.40 |
-| 7 | `w306488531` | Renaissance-Palazzo an Piazza Massimo d'Azeglio | 17.381 | 42.41–42.50 |
-| 8 | `w306488531_innen` | Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau | 4.033 | 42.51–42.52 |
-| 9 | `w306488533` | Villino Uzielli | 9.751 | 42.53–42.57 |
-| 10 | `w306488533_innen` | Villino Uzielli: Innenausbau | 3.288 | 42.58–42.60 |
-| 11 | `w306488537` | Villa Sepp | 9.856 | 42.61–42.65 |
-| 12 | `w306488537_innen` | Villa Sepp: Innenausbau | 1.713 | 42.66 |
+| 1 | `r1588168` | Reihenhaus an Piazza Massimo d'Azeglio | 35.076 | 42.1–42.25 |
+| 2 | `r1588168_innen` | Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau | 9.713 | 42.26–42.31 |
+| 3 | `w306488509` | Reihenhaus an Piazza Massimo d'Azeglio | 6.401 | 42.32–42.35 |
+| 4 | `w306488509_innen` | Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau | 793 | 42.36 |
+| 5 | `w306488518` | Villino Puccioni | 10.839 | 42.37–42.42 |
+| 6 | `w306488518_innen` | Villino Puccioni: Innenausbau | 2.710 | 42.43–42.44 |
+| 7 | `w306488531` | Renaissance-Palazzo an Piazza Massimo d'Azeglio | 18.083 | 42.45–42.54 |
+| 8 | `w306488531_innen` | Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau | 4.029 | 42.55–42.56 |
+| 9 | `w306488533` | Villino Uzielli | 9.772 | 42.57–42.61 |
+| 10 | `w306488533_innen` | Villino Uzielli: Innenausbau | 3.288 | 42.62–42.64 |
+| 11 | `w306488537` | Villa Sepp | 10.044 | 42.65–42.70 |
+| 12 | `w306488537_innen` | Villa Sepp: Innenausbau | 1.713 | 42.71 |
 
 ## Bauschritte
 
-### Schritt 42.1 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 1/23 (Y 63–63)
+### Schritt 42.1 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 1/25 (Y 63–65)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 63 bis 65
+- **Blöcke:** 1.166
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.166 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.2 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 2/25 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.624
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.624 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.3 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 3/25 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.008
 - **Bauteile:** `r1588168`
 
@@ -101,9 +160,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.2 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 2/23 (Y 63–63)
+### Schritt 42.4 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 4/25 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.954
 - **Bauteile:** `r1588168`
 
@@ -129,9 +188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.3 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 3/23 (Y 64–64)
+### Schritt 42.5 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 5/25 (Y 68–68)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 775
 - **Bauteile:** `r1588168`
 
@@ -159,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.4 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 4/23 (Y 65–65)
+### Schritt 42.6 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 6/25 (Y 69–69)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 775
 - **Bauteile:** `r1588168`
 
@@ -189,9 +248,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.5 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 5/23 (Y 66–67)
+### Schritt 42.7 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 7/25 (Y 70–71)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.514
 - **Bauteile:** `r1588168`
 
@@ -221,9 +280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.6 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 6/23 (Y 68–69)
+### Schritt 42.8 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 8/25 (Y 72–73)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.492
 - **Bauteile:** `r1588168`
 
@@ -253,9 +312,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.7 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 7/23 (Y 70–71)
+### Schritt 42.9 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 9/25 (Y 74–75)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.572
 - **Bauteile:** `r1588168`
 
@@ -284,9 +343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.8 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 8/23 (Y 72–72)
+### Schritt 42.10 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 10/25 (Y 76–76)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 789
 - **Bauteile:** `r1588168`
 
@@ -312,69 +371,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.9 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 9/23 (Y 73–74)
-
-- **Y-Bereich:** 73 bis 74
-- **Blöcke:** 1.540
-- **Bauteile:** `r1588168`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.248 |
-| Weißer Beton | `white_concrete` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-| Fichtenholz-Bretter | `spruce_planks` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.10 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 10/23 (Y 75–76)
-
-- **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.502
-- **Bauteile:** `r1588168`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
-| Weißer Beton | `white_concrete` | 138 |
-| Graues Buntglas | `gray_stained_glass` | 126 |
-| Fichtenholz-Bretter | `spruce_planks` | 56 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.11 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 11/23 (Y 77–78)
+### Schritt 42.11 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 11/25 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.540
@@ -405,38 +402,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.12 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 12/23 (Y 79–80)
+### Schritt 42.12 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 12/25 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.578
-- **Bauteile:** `r1588168`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.446 |
-| Weißer Beton | `white_concrete` | 132 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.13 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 13/23 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.502
 - **Bauteile:** `r1588168`
 
@@ -465,40 +433,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.14 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 14/23 (Y 83–83)
+### Schritt 42.13 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 13/25 (Y 81–82)
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 751
-- **Bauteile:** `r1588168`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 591 |
-| Weißer Beton | `white_concrete` | 69 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-| Fichtenholz-Bretter | `spruce_planks` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.15 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 15/23 (Y 84–85)
-
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.540
 - **Bauteile:** `r1588168`
 
@@ -527,9 +464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.16 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 16/23 (Y 86–87)
+### Schritt 42.14 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 14/25 (Y 83–84)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.578
 - **Bauteile:** `r1588168`
 
@@ -556,20 +493,82 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.17 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 17/23 (Y 88–89)
+### Schritt 42.15 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 15/25 (Y 85–86)
+
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.502
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
+| Weißer Beton | `white_concrete` | 138 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.16 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 16/25 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 751
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 591 |
+| Weißer Beton | `white_concrete` | 69 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
+| Fichtenholz-Bretter | `spruce_planks` | 28 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.17 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 17/25 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
-- **Blöcke:** 1.502
+- **Blöcke:** 1.540
 - **Bauteile:** `r1588168`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
-| Weißer Beton | `white_concrete` | 138 |
-| Graues Buntglas | `gray_stained_glass` | 126 |
-| Fichtenholz-Bretter | `spruce_planks` | 56 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.248 |
+| Weißer Beton | `white_concrete` | 201 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
+| Fichtenholz-Bretter | `spruce_planks` | 28 |
 
 **Beschreibung**
 
@@ -587,40 +586,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.18 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 18/23 (Y 90–91)
+### Schritt 42.18 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 18/25 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.502
-- **Bauteile:** `r1588168`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
-| Weißer Beton | `white_concrete` | 138 |
-| Graues Buntglas | `gray_stained_glass` | 126 |
-| Fichtenholz-Bretter | `spruce_planks` | 56 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.19 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 19/23 (Y 92–93)
-
-- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.578
 - **Bauteile:** `r1588168`
 
@@ -647,9 +615,100 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.20 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 20/23 (Y 94–94)
+### Schritt 42.19 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 19/25 (Y 92–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 92 bis 93
+- **Blöcke:** 1.502
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
+| Weißer Beton | `white_concrete` | 138 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.20 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 20/25 (Y 94–95)
+
+- **Y-Bereich:** 94 bis 95
+- **Blöcke:** 1.502
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.182 |
+| Weißer Beton | `white_concrete` | 138 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.21 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 21/25 (Y 96–97)
+
+- **Y-Bereich:** 96 bis 97
+- **Blöcke:** 1.578
+- **Bauteile:** `r1588168`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.446 |
+| Weißer Beton | `white_concrete` | 132 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.22 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 22/25 (Y 98–98)
+
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.830
 - **Bauteile:** `r1588168`
 
@@ -675,9 +734,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.21 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 21/23 (Y 95–95)
+### Schritt 42.23 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 23/25 (Y 99–99)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.167
 - **Bauteile:** `r1588168`
 
@@ -703,9 +762,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.22 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 22/23 (Y 96–96)
+### Schritt 42.24 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 24/25 (Y 100–100)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.106
 - **Bauteile:** `r1588168`
 
@@ -731,9 +790,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.23 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 23/23 (Y 97–102)
+### Schritt 42.25 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 25/25 (Y 101–106)
 
-- **Y-Bereich:** 97 bis 102
+- **Y-Bereich:** 101 bis 106
 - **Blöcke:** 1.191
 - **Bauteile:** `r1588168`
 
@@ -760,9 +819,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.24 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 1/6 (Y 63–72)
+### Schritt 42.26 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 1/6 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.682
 - **Bauteile:** `r1588168_innen`
 
@@ -800,9 +859,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.25 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 42.27 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 2/6 (Y 76–76)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.571
 - **Bauteile:** `r1588168_innen`
 
@@ -836,9 +895,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.26 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 3/6 (Y 73–79)
+### Schritt 42.28 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 3/6 (Y 77–83)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.655
 - **Bauteile:** `r1588168_innen`
 
@@ -878,9 +937,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.27 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 4/6 (Y 79–79)
+### Schritt 42.29 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 4/6 (Y 83–83)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.571
 - **Bauteile:** `r1588168_innen`
 
@@ -914,9 +973,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.28 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 5/6 (Y 80–86)
+### Schritt 42.30 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 5/6 (Y 84–90)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 84 bis 90
 - **Blöcke:** 1.657
 - **Bauteile:** `r1588168_innen`
 
@@ -956,9 +1015,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.29 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 6/6 (Y 86–87)
+### Schritt 42.31 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau – Teil 6/6 (Y 90–91)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.577
 - **Bauteile:** `r1588168_innen`
 
@@ -994,10 +1053,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.30 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 1/3 (Y 63–68)
+### Schritt 42.32 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 1/4 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.946
+- **Y-Bereich:** 62 bis 65
+- **Blöcke:** 1.655
 - **Bauteile:** `w306488509`
 
 **Teileliste**
@@ -1005,9 +1064,37 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 952 |
-| Glatter Sandstein | `smooth_sandstone` | 886 |
-| Glatter Stein | `smooth_stone` | 78 |
-| Graues Buntglas | `gray_stained_glass` | 15 |
+| Tuffstein | `tuff` | 703 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 2 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.33 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 2/4 (Y 66–73)
+
+- **Y-Bereich:** 66 bis 73
+- **Blöcke:** 1.599
+- **Bauteile:** `w306488509`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.439 |
+| Glatter Stein | `smooth_stone` | 115 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
 | Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
@@ -1026,19 +1113,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.31 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 2/3 (Y 69–77)
+### Schritt 42.34 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 3/4 (Y 74–81)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 1.815
+- **Y-Bereich:** 74 bis 81
+- **Blöcke:** 1.631
 - **Bauteile:** `w306488509`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.622 |
-| Glatter Stein | `smooth_stone` | 127 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
+| Glatter Sandstein | `smooth_sandstone` | 1.426 |
+| Glatter Stein | `smooth_stone` | 121 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
 
 **Beschreibung**
 
@@ -1056,10 +1143,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.32 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 3/3 (Y 78–88)
+### Schritt 42.35 – Reihenhaus an Piazza Massimo d'Azeglio – Teil 4/4 (Y 82–90)
 
-- **Y-Bereich:** 78 bis 88
-- **Blöcke:** 1.937
+- **Y-Bereich:** 82 bis 90
+- **Blöcke:** 1.516
 - **Bauteile:** `w306488509`
 
 **Teileliste**
@@ -1067,10 +1154,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.218 |
-| Glatter Sandstein | `smooth_sandstone` | 561 |
+| Glatter Sandstein | `smooth_sandstone` | 204 |
 | Ziegelsteine | `bricks` | 64 |
-| Glatter Stein | `smooth_stone` | 61 |
-| Graues Buntglas | `gray_stained_glass` | 33 |
+| Glatter Stein | `smooth_stone` | 30 |
 
 **Beschreibung**
 
@@ -1088,9 +1174,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.33 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau
+### Schritt 42.36 – Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 793
 - **Bauteile:** `w306488509_innen`
 
@@ -1126,20 +1212,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.34 – Villino Puccioni – Teil 1/5 (Y 63–67)
+### Schritt 42.37 – Villino Puccioni – Teil 1/6 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.763
+- **Y-Bereich:** 62 bis 65
+- **Blöcke:** 2.058
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.070 |
-| Orange Keramik | `orange_terracotta` | 569 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
+| Tuffstein | `tuff` | 2.056 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1157,19 +1248,58 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.35 – Villino Puccioni – Teil 2/5 (Y 68–77)
+### Schritt 42.38 – Villino Puccioni – Teil 2/6 (Y 66–69)
 
-- **Y-Bereich:** 68 bis 77
-- **Blöcke:** 1.809
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.593
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.442 |
-| Glatter Stein | `smooth_stone` | 252 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
+| Polierter Tuffstein | `polished_tuff` | 1.066 |
+| Orange Keramik | `orange_terracotta` | 443 |
+| Glatter Stein | `smooth_stone` | 58 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.39 – Villino Puccioni – Teil 3/6 (Y 70–79)
+
+- **Y-Bereich:** 70 bis 79
+- **Blöcke:** 1.801
+- **Bauteile:** `w306488518`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.434 |
+| Glatter Stein | `smooth_stone` | 251 |
+| Graues Buntglas | `gray_stained_glass` | 95 |
 | Grüner Beton | `green_concrete` | 21 |
 
 **Beschreibung**
@@ -1188,17 +1318,48 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.36 – Villino Puccioni – Teil 3/5 (Y 78–85)
+### Schritt 42.40 – Villino Puccioni – Teil 4/6 (Y 80–87)
 
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.719
+- **Y-Bereich:** 80 bis 87
+- **Blöcke:** 1.709
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.397 |
+| Orange Keramik | `orange_terracotta` | 1.385 |
+| Glatter Stein | `smooth_stone` | 225 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Grüner Beton | `green_concrete` | 21 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.41 – Villino Puccioni – Teil 5/6 (Y 88–95)
+
+- **Y-Bereich:** 88 bis 95
+- **Blöcke:** 1.930
+- **Bauteile:** `w306488518`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.608 |
 | Glatter Stein | `smooth_stone` | 238 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 21 |
@@ -1219,40 +1380,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.37 – Villino Puccioni – Teil 4/5 (Y 86–92)
+### Schritt 42.42 – Villino Puccioni – Teil 6/6 (Y 96–104)
 
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 1.692
-- **Bauteile:** `w306488518`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.410 |
-| Glatter Stein | `smooth_stone` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-| Grüner Beton | `green_concrete` | 21 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.38 – Villino Puccioni – Teil 5/5 (Y 93–101)
-
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 96 bis 104
 - **Blöcke:** 1.748
 - **Bauteile:** `w306488518`
 
@@ -1280,9 +1410,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.39 – Villino Puccioni: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 42.43 – Villino Puccioni: Innenausbau – Teil 1/2 (Y 66–81)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 66 bis 81
 - **Blöcke:** 962
 - **Bauteile:** `w306488518_innen`
 
@@ -1318,9 +1448,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.40 – Villino Puccioni: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 42.44 – Villino Puccioni: Innenausbau – Teil 2/2 (Y 82–89)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.748
 - **Bauteile:** `w306488518_innen`
 
@@ -1356,10 +1486,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.41 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 1/10 (Y 63–63)
+### Schritt 42.45 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 1/10 (Y 62–66)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.156
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.818
 - **Bauteile:** `w306488531`
 
 **Teileliste**
@@ -1367,6 +1497,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.156 |
+| Tuffstein | `tuff` | 662 |
 
 **Beschreibung**
 
@@ -1384,18 +1515,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.42 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 2/10 (Y 63–65)
+### Schritt 42.46 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 2/10 (Y 66–68)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.947
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.987
 - **Bauteile:** `w306488531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.187 |
-| Tuffstein | `tuff` | 288 |
+| Polierter Tuffstein | `polished_tuff` | 1.188 |
+| Tuffstein | `tuff` | 327 |
 | Tuffsteinziegel | `tuff_bricks` | 252 |
 | Polierter Andesit | `polished_andesite` | 213 |
 | Glatter Stein | `smooth_stone` | 7 |
@@ -1416,83 +1547,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.43 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 3/10 (Y 66–70)
+### Schritt 42.47 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 3/10 (Y 69–72)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.872
+- **Y-Bereich:** 69 bis 72
+- **Blöcke:** 1.502
 - **Bauteile:** `w306488531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 661 |
-| Polierter Andesit | `polished_andesite` | 633 |
-| Tuffsteinziegel | `tuff_bricks` | 435 |
-| Graues Buntglas | `gray_stained_glass` | 124 |
-| Glatter Stein | `smooth_stone` | 19 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.44 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 4/10 (Y 71–75)
-
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 2.032
-- **Bauteile:** `w306488531`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 718 |
-| Polierter Andesit | `polished_andesite` | 617 |
-| Glatter Stein | `smooth_stone` | 365 |
-| Tuffsteinziegel | `tuff_bricks` | 301 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.45 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 5/10 (Y 76–79)
-
-- **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.515
-- **Bauteile:** `w306488531`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 868 |
-| Tuffstein | `tuff` | 534 |
-| Graues Buntglas | `gray_stained_glass` | 99 |
+| Tuffstein | `tuff` | 531 |
+| Polierter Andesit | `polished_andesite` | 528 |
+| Tuffsteinziegel | `tuff_bricks` | 336 |
+| Graues Buntglas | `gray_stained_glass` | 93 |
 | Glatter Stein | `smooth_stone` | 14 |
 
 **Beschreibung**
@@ -1511,19 +1579,82 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.46 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 6/10 (Y 80–84)
+### Schritt 42.48 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 4/10 (Y 73–77)
 
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 2.013
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 2.015
 - **Bauteile:** `w306488531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 878 |
-| Tuffstein | `tuff` | 699 |
-| Glatter Stein | `smooth_stone` | 371 |
+| Tuffstein | `tuff` | 701 |
+| Polierter Andesit | `polished_andesite` | 484 |
+| Tuffsteinziegel | `tuff_bricks` | 400 |
+| Glatter Stein | `smooth_stone` | 368 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.49 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 5/10 (Y 78–82)
+
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.902
+- **Bauteile:** `w306488531`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 1.106 |
+| Tuffstein | `tuff` | 681 |
+| Graues Buntglas | `gray_stained_glass` | 99 |
+| Glatter Stein | `smooth_stone` | 16 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.50 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 6/10 (Y 83–86)
+
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 1.626
+- **Bauteile:** `w306488531`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 643 |
+| Tuffstein | `tuff` | 552 |
+| Glatter Stein | `smooth_stone` | 366 |
 | Graues Buntglas | `gray_stained_glass` | 65 |
 
 **Beschreibung**
@@ -1542,20 +1673,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.47 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 7/10 (Y 85–88)
+### Schritt 42.51 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 7/10 (Y 87–91)
 
-- **Y-Bereich:** 85 bis 88
-- **Blöcke:** 1.515
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.902
 - **Bauteile:** `w306488531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 868 |
-| Tuffstein | `tuff` | 534 |
+| Polierter Andesit | `polished_andesite` | 1.103 |
+| Tuffstein | `tuff` | 681 |
 | Graues Buntglas | `gray_stained_glass` | 99 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
@@ -1573,9 +1704,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.48 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 8/10 (Y 89–92)
+### Schritt 42.52 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 8/10 (Y 92–95)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 92 bis 95
 - **Blöcke:** 1.630
 - **Bauteile:** `w306488531`
 
@@ -1605,9 +1736,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.49 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 9/10 (Y 93–95)
+### Schritt 42.53 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 9/10 (Y 96–98)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 2.068
 - **Bauteile:** `w306488531`
 
@@ -1637,9 +1768,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.50 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 10/10 (Y 96–102)
+### Schritt 42.54 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 10/10 (Y 99–105)
 
-- **Y-Bereich:** 96 bis 102
+- **Y-Bereich:** 99 bis 105
 - **Blöcke:** 1.633
 - **Bauteile:** `w306488531`
 
@@ -1666,10 +1797,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.51 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 42.55 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 1/2 (Y 66–77)
 
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 2.027
+- **Y-Bereich:** 66 bis 77
+- **Blöcke:** 2.025
 - **Bauteile:** `w306488531_innen`
 
 **Teileliste**
@@ -1678,9 +1809,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.948 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -1708,10 +1839,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.52 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 42.56 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 2/2 (Y 78–87)
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 2.006
+- **Y-Bereich:** 78 bis 87
+- **Blöcke:** 2.004
 - **Bauteile:** `w306488531_innen`
 
 **Teileliste**
@@ -1720,19 +1851,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.948 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Seelaterne | `sea_lantern` | 13 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Seelaterne | `sea_lantern` | 12 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1750,10 +1879,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.53 – Villino Uzielli – Teil 1/5 (Y 63–66)
+### Schritt 42.57 – Villino Uzielli – Teil 1/5 (Y 66–70)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.955
+- **Y-Bereich:** 66 bis 70
+- **Blöcke:** 1.976
 - **Bauteile:** `w306488533`
 
 **Teileliste**
@@ -1763,6 +1892,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Tuffstein | `polished_tuff` | 1.277 |
 | Weißer Beton | `white_concrete` | 597 |
 | Glatter Stein | `smooth_stone` | 81 |
+| Tuffstein | `tuff` | 21 |
 
 **Beschreibung**
 
@@ -1780,9 +1910,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.54 – Villino Uzielli – Teil 2/5 (Y 67–75)
+### Schritt 42.58 – Villino Uzielli – Teil 2/5 (Y 71–79)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.964
 - **Bauteile:** `w306488533`
 
@@ -1812,9 +1942,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.55 – Villino Uzielli – Teil 3/5 (Y 76–84)
+### Schritt 42.59 – Villino Uzielli – Teil 3/5 (Y 80–88)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.951
 - **Bauteile:** `w306488533`
 
@@ -1843,9 +1973,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.56 – Villino Uzielli – Teil 4/5 (Y 85–92)
+### Schritt 42.60 – Villino Uzielli – Teil 4/5 (Y 89–96)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.846
 - **Bauteile:** `w306488533`
 
@@ -1874,9 +2004,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.57 – Villino Uzielli – Teil 5/5 (Y 93–100)
+### Schritt 42.61 – Villino Uzielli – Teil 5/5 (Y 97–104)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 97 bis 104
 - **Blöcke:** 2.035
 - **Bauteile:** `w306488533`
 
@@ -1904,9 +2034,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.58 – Villino Uzielli: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 42.62 – Villino Uzielli: Innenausbau – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.103
 - **Bauteile:** `w306488533_innen`
 
@@ -1942,9 +2072,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.59 – Villino Uzielli: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 42.63 – Villino Uzielli: Innenausbau – Teil 2/3 (Y 77–83)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.090
 - **Bauteile:** `w306488533_innen`
 
@@ -1982,9 +2112,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.60 – Villino Uzielli: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 42.64 – Villino Uzielli: Innenausbau – Teil 3/3 (Y 84–91)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.095
 - **Bauteile:** `w306488533_innen`
 
@@ -2022,10 +2152,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.61 – Villa Sepp – Teil 1/5 (Y 63–63)
+### Schritt 42.65 – Villa Sepp – Teil 1/6 (Y 64–66)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.948
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 2.083
 - **Bauteile:** `w306488537`
 
 **Teileliste**
@@ -2033,6 +2163,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.948 |
+| Tuffstein | `tuff` | 135 |
 
 **Beschreibung**
 
@@ -2050,23 +2181,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.62 – Villa Sepp – Teil 2/5 (Y 64–70)
+### Schritt 42.66 – Villa Sepp – Teil 2/6 (Y 67–70)
 
-- **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.988
+- **Y-Bereich:** 67 bis 70
+- **Blöcke:** 1.175
 - **Bauteile:** `w306488537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.348 |
-| Weißer Beton | `white_concrete` | 295 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
-| Grüner Beton | `green_concrete` | 112 |
-| Polierter Andesit | `polished_andesite` | 78 |
-| Glatter Stein | `smooth_stone` | 19 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Orange Keramik | `orange_terracotta` | 866 |
+| Weißer Beton | `white_concrete` | 193 |
+| Polierter Andesit | `polished_andesite` | 40 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+| Grüner Beton | `green_concrete` | 28 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -2084,22 +2215,56 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.63 – Villa Sepp – Teil 3/5 (Y 71–77)
+### Schritt 42.67 – Villa Sepp – Teil 3/6 (Y 71–76)
 
-- **Y-Bereich:** 71 bis 77
-- **Blöcke:** 1.971
+- **Y-Bereich:** 71 bis 76
+- **Blöcke:** 1.686
 - **Bauteile:** `w306488537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.290 |
-| Weißer Beton | `white_concrete` | 249 |
-| Glatter Stein | `smooth_stone` | 183 |
+| Orange Keramik | `orange_terracotta` | 1.088 |
+| Glatter Stein | `smooth_stone` | 190 |
+| Weißer Beton | `white_concrete` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Grüner Beton | `green_concrete` | 84 |
+| Polierter Andesit | `polished_andesite` | 56 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 2 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.68 – Villa Sepp – Teil 4/6 (Y 77–82)
+
+- **Y-Bereich:** 77 bis 82
+- **Blöcke:** 1.728
+- **Bauteile:** `w306488537`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.058 |
+| Weißer Beton | `white_concrete` | 373 |
 | Graues Buntglas | `gray_stained_glass` | 105 |
 | Grüner Beton | `green_concrete` | 90 |
 | Polierter Andesit | `polished_andesite` | 54 |
+| Fichtenholz-Bretter | `spruce_planks` | 48 |
 
 **Beschreibung**
 
@@ -2117,21 +2282,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.64 – Villa Sepp – Teil 4/5 (Y 78–81)
+### Schritt 42.69 – Villa Sepp – Teil 5/6 (Y 83–85)
 
-- **Y-Bereich:** 78 bis 81
-- **Blöcke:** 2.062
+- **Y-Bereich:** 83 bis 85
+- **Blöcke:** 1.903
 - **Bauteile:** `w306488537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 926 |
-| Orange Keramik | `orange_terracotta` | 652 |
-| Fichtenholz-Bretter | `spruce_planks` | 263 |
-| Weißer Beton | `white_concrete` | 190 |
-| Polierter Andesit | `polished_andesite` | 31 |
+| Terrakotta | `terracotta` | 1.344 |
+| Orange Keramik | `orange_terracotta` | 331 |
+| Fichtenholz-Bretter | `spruce_planks` | 215 |
+| Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
 
@@ -2149,17 +2313,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.65 – Villa Sepp – Teil 5/5 (Y 82–91)
+### Schritt 42.70 – Villa Sepp – Teil 6/6 (Y 86–94)
 
-- **Y-Bereich:** 82 bis 91
-- **Blöcke:** 1.887
+- **Y-Bereich:** 86 bis 94
+- **Blöcke:** 1.469
 - **Bauteile:** `w306488537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.770 |
+| Terrakotta | `terracotta` | 1.352 |
 | Ziegelsteine | `bricks` | 117 |
 
 **Beschreibung**
@@ -2178,9 +2342,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.66 – Villa Sepp: Innenausbau
+### Schritt 42.71 – Villa Sepp: Innenausbau
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.713
 - **Bauteile:** `w306488537_innen`
 
@@ -2191,8 +2355,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.649 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.678 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 68 bis 104 |
 | X-Ausdehnung | 1282 bis 1329 (48 Blöcke) |
 | Z-Ausdehnung | -887 bis -847 (41 Blöcke) |
 | Kleinster Schritt | 978 Blöcke (Schritt 22.6) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 22.1 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 1/5 (Y 63–67)
+### Schritt 22.1 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 1/5 (Y 68–72)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.833
 - **Bauteile:** `w491607980`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.2 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 2/5 (Y 68–75)
+### Schritt 22.2 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 2/5 (Y 73–80)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 73 bis 80
 - **Blöcke:** 2.087
 - **Bauteile:** `w491607980`
 
@@ -119,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.3 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 3/5 (Y 76–83)
+### Schritt 22.3 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 3/5 (Y 81–88)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 2.023
 - **Bauteile:** `w491607980`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.4 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 4/5 (Y 84–90)
+### Schritt 22.4 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 4/5 (Y 89–95)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 89 bis 95
 - **Blöcke:** 1.752
 - **Bauteile:** `w491607980`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.5 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 5/5 (Y 91–99)
+### Schritt 22.5 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 5/5 (Y 96–104)
 
-- **Y-Bereich:** 91 bis 99
+- **Y-Bereich:** 96 bis 104
 - **Blöcke:** 2.005
 - **Bauteile:** `w491607980`
 
@@ -218,7 +218,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.6 – Palazzo des Cinquecento an Via Giuseppe Giusti: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 68 bis 88
 - **Blöcke:** 978
 - **Bauteile:** `w491607980_innen`
 

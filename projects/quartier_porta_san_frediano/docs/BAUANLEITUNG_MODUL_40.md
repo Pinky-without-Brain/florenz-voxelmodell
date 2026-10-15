@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.090 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 60 bis 96 |
 | X-Ausdehnung | -2703 bis -2673 (31 Blöcke) |
 | Z-Ausdehnung | 1333 bis 1362 (30 Blöcke) |
 | Kleinster Schritt | 961 Blöcke (Schritt 40.5) |
@@ -21,11 +21,11 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 3.711 | 52,3 % |
+| Tuffstein | `tuff` | 3.706 | 52,3 % |
 | Terrakotta | `terracotta` | 1.391 | 19,6 % |
 | Polierter Andesit | `polished_andesite` | 780 | 11,0 % |
 | Polierter Tuffstein | `polished_tuff` | 463 | 6,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 428 | 6,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 433 | 6,1 % |
 | Graues Buntglas | `gray_stained_glass` | 162 | 2,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,9 % |
 | Ziegelsteine | `bricks` | 37 | 0,5 % |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 40.1 – Wohnturm an Viale Vasco Pratolini – Teil 1/4 (Y 63–69)
+### Schritt 40.1 – Wohnturm an Viale Vasco Pratolini – Teil 1/4 (Y 60–66)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.461
 - **Bauteile:** `w118821965`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.2 – Wohnturm an Viale Vasco Pratolini – Teil 2/4 (Y 70–78)
+### Schritt 40.2 – Wohnturm an Viale Vasco Pratolini – Teil 2/4 (Y 67–75)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 67 bis 75
 - **Blöcke:** 1.531
 - **Bauteile:** `w118821965`
 
@@ -90,8 +90,39 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.109 |
+| Tuffstein | `tuff` | 1.116 |
 | Polierter Andesit | `polished_andesite` | 241 |
+| Tuffsteinziegel | `tuff_bricks` | 126 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+
+**Beschreibung**
+
+Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.3 – Wohnturm an Viale Vasco Pratolini – Teil 3/4 (Y 76–84)
+
+- **Y-Bereich:** 76 bis 84
+- **Blöcke:** 1.531
+- **Bauteile:** `w118821965`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.145 |
+| Polierter Andesit | `polished_andesite` | 205 |
 | Tuffsteinziegel | `tuff_bricks` | 133 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
@@ -111,40 +142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.3 – Wohnturm an Viale Vasco Pratolini – Teil 3/4 (Y 79–87)
+### Schritt 40.4 – Wohnturm an Viale Vasco Pratolini – Teil 4/4 (Y 85–96)
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.531
-- **Bauteile:** `w118821965`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.144 |
-| Polierter Andesit | `polished_andesite` | 205 |
-| Tuffsteinziegel | `tuff_bricks` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 40.4 – Wohnturm an Viale Vasco Pratolini – Teil 4/4 (Y 88–99)
-
-- **Y-Bereich:** 88 bis 99
+- **Y-Bereich:** 85 bis 96
 - **Blöcke:** 1.606
 - **Bauteile:** `w118821965`
 
@@ -152,10 +152,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 736 |
+| Tuffstein | `tuff` | 723 |
 | Terrakotta | `terracotta` | 548 |
 | Polierter Andesit | `polished_andesite` | 177 |
-| Tuffsteinziegel | `tuff_bricks` | 72 |
+| Tuffsteinziegel | `tuff_bricks` | 85 |
 | Ziegelsteine | `bricks` | 37 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
@@ -177,7 +177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 40.5 – Wohnturm an Viale Vasco Pratolini: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 961
 - **Bauteile:** `w118821965_innen`
 

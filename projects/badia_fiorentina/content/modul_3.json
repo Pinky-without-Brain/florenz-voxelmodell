@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Decken und Dächer",
+  "subtitle": "Bautüte 3: Gamberais Kassettendecke, das Fresko im Presbyterium und die Dächer",
+  "icon": "🏠",
+  "parts": {
+    "decken": {
+      "title": "Decken",
+      "description": "Über dem Saal liegt die geschnitzte Kassettendecke aus Dunkler Eiche mit Gold (Y 104), über dem Presbyterium eine bemalte Decke (Y 100), im Nordarm eine weiße Decke (Y 96).",
+      "tip": "Das goldene Raster hat vier Blöcke Abstand.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Felice Gamberai schnitzte die Decke bis 1631; sie verdeckt die gotischen Dachbinder."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Satteldach über dem Saal (First Y 116), niedrigere Dächer über den Armen, alles Terrakotta.",
+      "tip": "Von der Traufe zum First.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Gian Domenico Ferretti malte 1734 die Fresken im Presbyterium."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo Dächer verschieden hoch sind, schließen Schildwände die Lücke.",
+      "tip": "Sie folgen der Dachneigung.",
+      "caution": "Keine Öffnungen.",
+      "fact": "So bleibt der Dachraum dicht."
+    }
+  }
+}

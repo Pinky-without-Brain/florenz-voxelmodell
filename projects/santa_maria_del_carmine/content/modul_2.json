@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Kapellen des Langhauses",
+  "subtitle": "Bautüte 2: fünf flache Kapellen je Seite und die Hochwand darüber",
+  "icon": "🕯️",
+  "parts": {
+    "kapellenpfeiler": {
+      "title": "Kapellenpfeiler und Bögen",
+      "description": "Zwischen den Kapellen stehen Pfeiler aus Pietra serena bis Y 82; zum Schiff öffnet sich jede Kapelle mit einem Rundbogen.",
+      "tip": "Die Kapellen sind gleich lang, je knapp 19 Blöcke.",
+      "caution": "Unter den Bögen bleibt alles frei.",
+      "fact": "Nach dem Brand von 1771 entstanden fünf flache Kapellen je Seite."
+    },
+    "kapellendecken": {
+      "title": "Kapellendecken",
+      "description": "Jede Kapelle bekommt eine flache Decke auf Y 82.",
+      "tip": "Sie liegt auf den Pfeilern und der Außenwand.",
+      "caution": "Die Decke ist nur eine Lage dick.",
+      "fact": "Die Kapellen sind nur gut zwei Meter tief."
+    },
+    "altaere": {
+      "title": "Altäre",
+      "description": "An der Rückwand jeder Kapelle steht ein kleiner Altar aus hellem Quarz mit goldener Platte.",
+      "tip": "Genau in der Kapellenmitte.",
+      "caution": "Nur drei Lagen hoch.",
+      "fact": "Die Altarbilder stammen meist aus dem 18. Jahrhundert."
+    },
+    "hochwand": {
+      "title": "Hochwand",
+      "description": "Über den Kapellen ist die Wand massiv bis zum Dach (Y 107); innen weiß verputzt.",
+      "tip": "Unter dem Gewölbeansatz läuft ein Gesims aus Glattem Stein.",
+      "caution": "Lass in jedem Joch das Fenster frei.",
+      "fact": "Die Hochwand trägt die bemalte Tonne des Schiffs."
+    }
+  }
+}

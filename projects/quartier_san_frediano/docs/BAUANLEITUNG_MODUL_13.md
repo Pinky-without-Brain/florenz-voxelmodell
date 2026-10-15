@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.583 |
-| Bauschritte | 32 |
-| Y-Bereich | 63 bis 106 |
+| Blöcke | 52.827 |
+| Bauschritte | 34 |
+| Y-Bereich | 56 bis 100 |
 | X-Ausdehnung | -2378 bis -2278 (101 Blöcke) |
 | Z-Ausdehnung | 520 bis 631 (112 Blöcke) |
-| Kleinster Schritt | 797 Blöcke (Schritt 13.5) |
-| Mittlerer Schritt | 1.581 Blöcke |
-| Größter Schritt | 2.091 Blöcke (Schritt 13.17) |
+| Kleinster Schritt | 808 Blöcke (Schritt 13.16) |
+| Mittlerer Schritt | 1.554 Blöcke |
+| Größter Schritt | 2.014 Blöcke (Schritt 13.23) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 19.852 | 39,2 % |
-| Tuffstein | `tuff` | 10.303 | 20,4 % |
-| Polierter Tuffstein | `polished_tuff` | 6.362 | 12,6 % |
-| Glatter Stein | `smooth_stone` | 5.574 | 11,0 % |
-| Polierter Andesit | `polished_andesite` | 4.563 | 9,0 % |
-| Graues Buntglas | `gray_stained_glass` | 2.001 | 4,0 % |
-| Tuffsteinziegel | `tuff_bricks` | 999 | 2,0 % |
+| Terrakotta | `terracotta` | 19.852 | 37,6 % |
+| Tuffstein | `tuff` | 12.547 | 23,8 % |
+| Polierter Tuffstein | `polished_tuff` | 6.362 | 12,0 % |
+| Glatter Stein | `smooth_stone` | 5.574 | 10,6 % |
+| Polierter Andesit | `polished_andesite` | 4.563 | 8,6 % |
+| Graues Buntglas | `gray_stained_glass` | 2.001 | 3,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 999 | 1,9 % |
 | Endsteinziegel | `end_stone_bricks` | 504 | 1,0 % |
-| Ziegelsteine | `bricks` | 283 | 0,6 % |
+| Ziegelsteine | `bricks` | 283 | 0,5 % |
 | Seelaterne | `sea_lantern` | 87 | 0,2 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
@@ -50,14 +50,70 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7037353` | Renaissance-Palazzo an Via Sant'Onofrio | 39.297 | 13.1–13.26 |
-| 2 | `r7037353_innen` | Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau | 11.286 | 13.27–13.32 |
+| 1 | `r7037353` | Renaissance-Palazzo an Via Sant'Onofrio | 41.541 | 13.1–13.28 |
+| 2 | `r7037353_innen` | Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau | 11.286 | 13.29–13.34 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 1/26 (Y 63–63)
+### Schritt 13.1 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 1/28 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 1.118
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.118 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.2 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 2/28 (Y 56–56)
+
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 1.126
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.126 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.3 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 3/28 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.552
 - **Bauteile:** `r7037353`
 
@@ -83,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 2/26 (Y 63–63)
+### Schritt 13.4 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 4/28 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.640
 - **Bauteile:** `r7037353`
 
@@ -111,9 +167,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.3 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 3/26 (Y 63–63)
+### Schritt 13.5 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 5/28 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.579
 - **Bauteile:** `r7037353`
 
@@ -139,9 +195,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.4 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 4/26 (Y 63–63)
+### Schritt 13.6 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 6/28 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.591
 - **Bauteile:** `r7037353`
 
@@ -167,41 +223,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.5 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 5/26 (Y 64–64)
+### Schritt 13.7 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 7/28 (Y 58–59)
 
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 797
-- **Bauteile:** `r7037353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 391 |
-| Tuffsteinziegel | `tuff_bricks` | 201 |
-| Polierter Andesit | `polished_andesite` | 187 |
-| Glatter Stein | `smooth_stone` | 18 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.6 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 6/26 (Y 65–66)
-
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.681
+- **Y-Bereich:** 58 bis 59
+- **Blöcke:** 1.594
 - **Bauteile:** `r7037353`
 
 **Teileliste**
@@ -209,9 +234,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 782 |
-| Glatter Stein | `smooth_stone` | 354 |
-| Tuffsteinziegel | `tuff_bricks` | 275 |
-| Polierter Andesit | `polished_andesite` | 270 |
+| Tuffsteinziegel | `tuff_bricks` | 404 |
+| Polierter Andesit | `polished_andesite` | 382 |
+| Glatter Stein | `smooth_stone` | 26 |
 
 **Beschreibung**
 
@@ -229,21 +254,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.7 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 7/26 (Y 67–69)
+### Schritt 13.8 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 8/28 (Y 60–61)
 
-- **Y-Bereich:** 67 bis 69
-- **Blöcke:** 2.067
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.573
 - **Bauteile:** `r7037353`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 849 |
-| Graues Buntglas | `gray_stained_glass` | 423 |
-| Glatter Stein | `smooth_stone` | 334 |
-| Polierter Andesit | `polished_andesite` | 324 |
-| Tuffsteinziegel | `tuff_bricks` | 137 |
+| Tuffstein | `tuff` | 674 |
+| Glatter Stein | `smooth_stone` | 454 |
+| Polierter Andesit | `polished_andesite` | 153 |
+| Tuffsteinziegel | `tuff_bricks` | 151 |
+| Graues Buntglas | `gray_stained_glass` | 141 |
 
 **Beschreibung**
 
@@ -261,9 +286,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.8 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 8/26 (Y 70–71)
+### Schritt 13.9 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 9/28 (Y 62–63)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.378
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 566 |
+| Graues Buntglas | `gray_stained_glass` | 282 |
+| Polierter Andesit | `polished_andesite` | 246 |
+| Glatter Stein | `smooth_stone` | 226 |
+| Tuffsteinziegel | `tuff_bricks` | 58 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.10 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 10/28 (Y 64–65)
+
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.380
 - **Bauteile:** `r7037353`
 
@@ -293,9 +350,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.9 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 9/26 (Y 72–73)
+### Schritt 13.11 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 11/28 (Y 66–67)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.616
 - **Bauteile:** `r7037353`
 
@@ -324,39 +381,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.10 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 10/26 (Y 74–74)
+### Schritt 13.12 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 12/28 (Y 68–69)
 
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.060
-- **Bauteile:** `r7037353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 664 |
-| Tuffstein | `tuff` | 396 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.11 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 11/26 (Y 75–76)
-
-- **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.707
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 1.868
 - **Bauteile:** `r7037353`
 
 **Teileliste**
@@ -364,8 +392,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 792 |
-| Polierter Andesit | `polished_andesite` | 555 |
-| Glatter Stein | `smooth_stone` | 360 |
+| Glatter Stein | `smooth_stone` | 670 |
+| Polierter Andesit | `polished_andesite` | 406 |
 
 **Beschreibung**
 
@@ -383,101 +411,132 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.12 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 12/26 (Y 77–78)
+### Schritt 13.13 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 13/28 (Y 70–71)
+
+- **Y-Bereich:** 70 bis 71
+- **Blöcke:** 1.596
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 681 |
+| Glatter Stein | `smooth_stone` | 463 |
+| Polierter Andesit | `polished_andesite` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.14 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 14/28 (Y 72–73)
+
+- **Y-Bereich:** 72 bis 73
+- **Blöcke:** 1.394
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 570 |
+| Polierter Andesit | `polished_andesite` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 288 |
+| Glatter Stein | `smooth_stone` | 228 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.15 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 15/28 (Y 74–75)
+
+- **Y-Bereich:** 74 bis 75
+- **Blöcke:** 1.505
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 681 |
+| Glatter Stein | `smooth_stone` | 372 |
+| Polierter Andesit | `polished_andesite` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.16 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 16/28 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 808
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 396 |
+| Glatter Stein | `smooth_stone` | 364 |
+| Polierter Andesit | `polished_andesite` | 48 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.17 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 17/28 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.394
-- **Bauteile:** `r7037353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 570 |
-| Polierter Andesit | `polished_andesite` | 308 |
-| Graues Buntglas | `gray_stained_glass` | 288 |
-| Glatter Stein | `smooth_stone` | 228 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.13 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 13/26 (Y 79–80)
-
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.394
-- **Bauteile:** `r7037353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 570 |
-| Polierter Andesit | `polished_andesite` | 308 |
-| Graues Buntglas | `gray_stained_glass` | 288 |
-| Glatter Stein | `smooth_stone` | 228 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.14 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 14/26 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.616
-- **Bauteile:** `r7037353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 792 |
-| Glatter Stein | `smooth_stone` | 617 |
-| Polierter Andesit | `polished_andesite` | 207 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.15 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 15/26 (Y 83–84)
-
-- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.868
 - **Bauteile:** `r7037353`
 
@@ -505,19 +564,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.16 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 16/26 (Y 85–85)
+### Schritt 13.18 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 18/28 (Y 79–80)
 
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 899
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.596
 - **Bauteile:** `r7037353`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 396 |
-| Glatter Stein | `smooth_stone` | 344 |
-| Polierter Andesit | `polished_andesite` | 159 |
+| Tuffstein | `tuff` | 681 |
+| Glatter Stein | `smooth_stone` | 463 |
+| Polierter Andesit | `polished_andesite` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
 
 **Beschreibung**
 
@@ -535,40 +595,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.17 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 17/26 (Y 86–88)
+### Schritt 13.19 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 19/28 (Y 81–82)
 
-- **Y-Bereich:** 86 bis 88
-- **Blöcke:** 2.091
-- **Bauteile:** `r7037353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 855 |
-| Polierter Andesit | `polished_andesite` | 457 |
-| Graues Buntglas | `gray_stained_glass` | 432 |
-| Glatter Stein | `smooth_stone` | 347 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.18 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 18/26 (Y 89–90)
-
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.394
 - **Bauteile:** `r7037353`
 
@@ -597,9 +626,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.19 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 19/26 (Y 91–92)
+### Schritt 13.20 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 20/28 (Y 83–84)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.394
+- **Bauteile:** `r7037353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 570 |
+| Polierter Andesit | `polished_andesite` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 288 |
+| Glatter Stein | `smooth_stone` | 228 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.21 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 21/28 (Y 85–86)
+
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.868
 - **Bauteile:** `r7037353`
 
@@ -628,9 +688,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.20 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 20/26 (Y 93–93)
+### Schritt 13.22 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 22/28 (Y 87–87)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.060
 - **Bauteile:** `r7037353`
 
@@ -659,9 +719,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.21 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 21/26 (Y 94–94)
+### Schritt 13.23 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 23/28 (Y 88–88)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 2.014
 - **Bauteile:** `r7037353`
 
@@ -687,9 +747,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.22 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 22/26 (Y 95–95)
+### Schritt 13.24 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 24/28 (Y 89–89)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.236
 - **Bauteile:** `r7037353`
 
@@ -715,9 +775,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.23 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 23/26 (Y 96–96)
+### Schritt 13.25 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 25/28 (Y 90–90)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.352
 - **Bauteile:** `r7037353`
 
@@ -743,9 +803,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.24 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 24/26 (Y 97–97)
+### Schritt 13.26 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 26/28 (Y 91–91)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.208
 - **Bauteile:** `r7037353`
 
@@ -772,9 +832,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.25 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 25/26 (Y 98–99)
+### Schritt 13.27 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 27/28 (Y 92–93)
 
-- **Y-Bereich:** 98 bis 99
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.862
 - **Bauteile:** `r7037353`
 
@@ -801,9 +861,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.26 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 26/26 (Y 100–106)
+### Schritt 13.28 – Renaissance-Palazzo an Via Sant'Onofrio – Teil 28/28 (Y 94–100)
 
-- **Y-Bereich:** 100 bis 106
+- **Y-Bereich:** 94 bis 100
 - **Blöcke:** 1.371
 - **Bauteile:** `r7037353`
 
@@ -830,9 +890,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.27 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 13.29 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 1/6 (Y 57–68)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 57 bis 68
 - **Blöcke:** 1.914
 - **Bauteile:** `r7037353_innen`
 
@@ -868,9 +928,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.28 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 13.30 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 2/6 (Y 68–68)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.857
 - **Bauteile:** `r7037353_innen`
 
@@ -897,9 +957,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.29 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 3/6 (Y 74–74)
+### Schritt 13.31 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 3/6 (Y 68–68)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.883
 - **Bauteile:** `r7037353_innen`
 
@@ -933,9 +993,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.30 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 4/6 (Y 75–83)
+### Schritt 13.32 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 4/6 (Y 69–77)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.883
 - **Bauteile:** `r7037353_innen`
 
@@ -973,9 +1033,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.31 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 5/6 (Y 83–83)
+### Schritt 13.33 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 5/6 (Y 77–77)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.857
 - **Bauteile:** `r7037353_innen`
 
@@ -1002,9 +1062,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.32 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 6/6 (Y 83–84)
+### Schritt 13.34 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 6/6 (Y 77–78)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.892
 - **Bauteile:** `r7037353_innen`
 

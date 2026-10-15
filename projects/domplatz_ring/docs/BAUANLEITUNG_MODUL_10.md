@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.945 |
+| Blöcke | 46.963 |
 | Bauschritte | 32 |
 | Y-Bereich | 66 bis 108 |
-| X-Ausdehnung | -181 bis -27 (155 Blöcke) |
+| X-Ausdehnung | -181 bis -26 (156 Blöcke) |
 | Z-Ausdehnung | 167 bis 213 (47 Blöcke) |
 | Kleinster Schritt | 435 Blöcke (Schritt 10.4) |
-| Mittlerer Schritt | 1.467 Blöcke |
+| Mittlerer Schritt | 1.468 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 10.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 14.204 | 30,3 % |
+| Terrakotta | `terracotta` | 14.204 | 30,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 7.192 | 15,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.888 | 12,5 % |
 | Polierter Tuffstein | `polished_tuff` | 4.336 | 9,2 % |
@@ -47,6 +47,10 @@
 | Tuffsteinziegel | `tuff_bricks` | 57 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,1 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -79,6 +83,7 @@
 | 18 | `w491889291_innen` | Reihenhaus an Via del Campanile: Innenausbau | 1.066 | 10.30 |
 | 19 | `w491889293` | Reihenhaus an Via delle Oche | 1.158 | 10.31 |
 | 20 | `w491889293_innen` | Reihenhaus an Via delle Oche: Innenausbau | 786 | 10.32 |
+| 21 | `strassenschilder` | Straßenschilder | 18 | 10.32 |
 
 ## Bauschritte
 
@@ -1184,11 +1189,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Reihenhaus an Via delle Oche: Innenausbau
+### Schritt 10.32 – Reihenhaus an Via delle Oche: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 90
-- **Blöcke:** 786
-- **Bauteile:** `w491889293_innen`
+- **Blöcke:** 804
+- **Bauteile:** `w491889293_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1200,6 +1205,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
 | Seelaterne | `sea_lantern` | 4 |
@@ -1212,16 +1221,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

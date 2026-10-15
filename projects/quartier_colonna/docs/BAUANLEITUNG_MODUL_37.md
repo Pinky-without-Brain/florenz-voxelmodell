@@ -8,24 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.734 |
-| Bauschritte | 27 |
-| Y-Bereich | 63 bis 105 |
+| Blöcke | 49.198 |
+| Bauschritte | 29 |
+| Y-Bereich | 66 bis 109 |
 | X-Ausdehnung | 1452 bis 1569 (118 Blöcke) |
 | Z-Ausdehnung | 1 bis 106 (106 Blöcke) |
-| Kleinster Schritt | 718 Blöcke (Schritt 37.4) |
-| Mittlerer Schritt | 1.731 Blöcke |
-| Größter Schritt | 2.088 Blöcke (Schritt 37.13) |
+| Kleinster Schritt | 1.216 Blöcke (Schritt 37.1) |
+| Mittlerer Schritt | 1.696 Blöcke |
+| Größter Schritt | 2.088 Blöcke (Schritt 37.18) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.930 | 40,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 17.810 | 38,1 % |
-| Polierter Tuffstein | `polished_tuff` | 6.196 | 13,3 % |
-| Glatter Stein | `smooth_stone` | 2.346 | 5,0 % |
-| Graues Buntglas | `gray_stained_glass` | 1.028 | 2,2 % |
+| Terrakotta | `terracotta` | 18.930 | 38,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 17.810 | 36,2 % |
+| Polierter Tuffstein | `polished_tuff` | 6.196 | 12,6 % |
+| Tuffstein | `tuff` | 2.464 | 5,0 % |
+| Glatter Stein | `smooth_stone` | 2.346 | 4,8 % |
+| Graues Buntglas | `gray_stained_glass` | 1.028 | 2,1 % |
 | Ziegelsteine | `bricks` | 223 | 0,5 % |
 | Seelaterne | `sea_lantern` | 84 | 0,2 % |
 | Polierter Andesit | `polished_andesite` | 70 | 0,1 % |
@@ -46,14 +47,70 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w102979678` | Tempio Maggiore Israelitico - Sinagoga | 35.619 | 37.1–37.21 |
-| 2 | `w102979678_innen` | Tempio Maggiore Israelitico - Sinagoga: Innenausbau | 11.115 | 37.22–37.27 |
+| 1 | `w102979678` | Tempio Maggiore Israelitico - Sinagoga | 38.083 | 37.1–37.23 |
+| 2 | `w102979678_innen` | Tempio Maggiore Israelitico - Sinagoga: Innenausbau | 11.115 | 37.24–37.29 |
 
 ## Bauschritte
 
-### Schritt 37.1 – Tempio Maggiore Israelitico - Sinagoga – Teil 1/21 (Y 63–63)
+### Schritt 37.1 – Tempio Maggiore Israelitico - Sinagoga – Teil 1/23 (Y 66–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.216
+- **Bauteile:** `w102979678`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.216 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 37.2 – Tempio Maggiore Israelitico - Sinagoga – Teil 2/23 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.248
+- **Bauteile:** `w102979678`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.248 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 37.3 – Tempio Maggiore Israelitico - Sinagoga – Teil 3/23 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.073
 - **Bauteile:** `w102979678`
 
@@ -79,9 +136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.2 – Tempio Maggiore Israelitico - Sinagoga – Teil 2/21 (Y 63–63)
+### Schritt 37.4 – Tempio Maggiore Israelitico - Sinagoga – Teil 4/23 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.074
 - **Bauteile:** `w102979678`
 
@@ -107,9 +164,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.3 – Tempio Maggiore Israelitico - Sinagoga – Teil 3/21 (Y 63–63)
+### Schritt 37.5 – Tempio Maggiore Israelitico - Sinagoga – Teil 5/23 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.049
 - **Bauteile:** `w102979678`
 
@@ -135,18 +192,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.4 – Tempio Maggiore Israelitico - Sinagoga – Teil 4/21 (Y 64–64)
+### Schritt 37.6 – Tempio Maggiore Israelitico - Sinagoga – Teil 6/23 (Y 68–69)
 
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 718
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 1.436
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 715 |
-| Glatter Stein | `smooth_stone` | 3 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.430 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -164,18 +221,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.5 – Tempio Maggiore Israelitico - Sinagoga – Teil 5/21 (Y 65–66)
+### Schritt 37.7 – Tempio Maggiore Israelitico - Sinagoga – Teil 7/23 (Y 70–71)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.476
+- **Y-Bereich:** 70 bis 71
+- **Blöcke:** 1.436
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.282 |
-| Glatter Stein | `smooth_stone` | 194 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.094 |
+| Glatter Stein | `smooth_stone` | 272 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
 
@@ -193,18 +251,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.6 – Tempio Maggiore Israelitico - Sinagoga – Teil 6/21 (Y 67–69)
+### Schritt 37.8 – Tempio Maggiore Israelitico - Sinagoga – Teil 8/23 (Y 72–74)
 
-- **Y-Bereich:** 67 bis 69
-- **Blöcke:** 2.046
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 2.052
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.593 |
-| Glatter Stein | `smooth_stone` | 243 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.602 |
+| Glatter Stein | `smooth_stone` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
 | Polierter Andesit | `polished_andesite` | 70 |
 
@@ -224,19 +282,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.7 – Tempio Maggiore Israelitico - Sinagoga – Teil 7/21 (Y 70–71)
+### Schritt 37.9 – Tempio Maggiore Israelitico - Sinagoga – Teil 9/23 (Y 75–76)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.368
+- **Y-Bereich:** 75 bis 76
+- **Blöcke:** 1.408
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.072 |
-| Glatter Stein | `smooth_stone` | 156 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.106 |
+| Glatter Stein | `smooth_stone` | 232 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
 
@@ -254,19 +312,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.8 – Tempio Maggiore Israelitico - Sinagoga – Teil 8/21 (Y 72–73)
+### Schritt 37.10 – Tempio Maggiore Israelitico - Sinagoga – Teil 10/23 (Y 77–78)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.446
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.444
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.286 |
-| Glatter Stein | `smooth_stone` | 156 |
-| Graues Buntglas | `gray_stained_glass` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.432 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -284,19 +342,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.9 – Tempio Maggiore Israelitico - Sinagoga – Teil 9/21 (Y 74–75)
+### Schritt 37.11 – Tempio Maggiore Israelitico - Sinagoga – Teil 11/23 (Y 79–80)
 
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.446
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.448
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.434 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Graues Buntglas | `gray_stained_glass` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.442 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -314,9 +371,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.10 – Tempio Maggiore Israelitico - Sinagoga – Teil 10/21 (Y 76–77)
+### Schritt 37.12 – Tempio Maggiore Israelitico - Sinagoga – Teil 12/23 (Y 81–82)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.448
 - **Bauteile:** `w102979678`
 
@@ -342,18 +399,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.11 – Tempio Maggiore Israelitico - Sinagoga – Teil 11/21 (Y 78–79)
+### Schritt 37.13 – Tempio Maggiore Israelitico - Sinagoga – Teil 13/23 (Y 83–84)
 
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.491
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.449
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.292 |
-| Glatter Stein | `smooth_stone` | 199 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.094 |
+| Glatter Stein | `smooth_stone` | 281 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
 
 **Beschreibung**
 
@@ -371,9 +429,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.12 – Tempio Maggiore Israelitico - Sinagoga – Teil 12/21 (Y 80–82)
+### Schritt 37.14 – Tempio Maggiore Israelitico - Sinagoga – Teil 14/23 (Y 85–87)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 2.046
 - **Bauteile:** `w102979678`
 
@@ -401,19 +459,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.13 – Tempio Maggiore Israelitico - Sinagoga – Teil 13/21 (Y 83–85)
+### Schritt 37.15 – Tempio Maggiore Israelitico - Sinagoga – Teil 15/23 (Y 88–89)
 
-- **Y-Bereich:** 83 bis 85
-- **Blöcke:** 2.088
+- **Y-Bereich:** 88 bis 89
+- **Blöcke:** 1.406
 - **Bauteile:** `w102979678`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.620 |
-| Glatter Stein | `smooth_stone` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 148 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.094 |
+| Glatter Stein | `smooth_stone` | 238 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
 
 **Beschreibung**
 
@@ -431,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.14 – Tempio Maggiore Israelitico - Sinagoga – Teil 14/21 (Y 86–87)
+### Schritt 37.16 – Tempio Maggiore Israelitico - Sinagoga – Teil 16/23 (Y 90–91)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.491
 - **Bauteile:** `w102979678`
 
@@ -460,9 +518,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.15 – Tempio Maggiore Israelitico - Sinagoga – Teil 15/21 (Y 88–90)
+### Schritt 37.17 – Tempio Maggiore Israelitico - Sinagoga – Teil 17/23 (Y 92–94)
 
-- **Y-Bereich:** 88 bis 90
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 2.046
 - **Bauteile:** `w102979678`
 
@@ -490,9 +548,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.16 – Tempio Maggiore Israelitico - Sinagoga – Teil 16/21 (Y 91–93)
+### Schritt 37.18 – Tempio Maggiore Israelitico - Sinagoga – Teil 18/23 (Y 95–97)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 2.088
 - **Bauteile:** `w102979678`
 
@@ -520,9 +578,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.17 – Tempio Maggiore Israelitico - Sinagoga – Teil 17/21 (Y 94–94)
+### Schritt 37.19 – Tempio Maggiore Israelitico - Sinagoga – Teil 19/23 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.402
 - **Bauteile:** `w102979678`
 
@@ -548,9 +606,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.18 – Tempio Maggiore Israelitico - Sinagoga – Teil 18/21 (Y 95–96)
+### Schritt 37.20 – Tempio Maggiore Israelitico - Sinagoga – Teil 20/23 (Y 99–100)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.796
 - **Bauteile:** `w102979678`
 
@@ -576,9 +634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.19 – Tempio Maggiore Israelitico - Sinagoga – Teil 19/21 (Y 97–98)
+### Schritt 37.21 – Tempio Maggiore Israelitico - Sinagoga – Teil 21/23 (Y 101–102)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 101 bis 102
 - **Blöcke:** 1.645
 - **Bauteile:** `w102979678`
 
@@ -605,9 +663,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.20 – Tempio Maggiore Israelitico - Sinagoga – Teil 20/21 (Y 99–101)
+### Schritt 37.22 – Tempio Maggiore Israelitico - Sinagoga – Teil 22/23 (Y 103–105)
 
-- **Y-Bereich:** 99 bis 101
+- **Y-Bereich:** 103 bis 105
 - **Blöcke:** 1.878
 - **Bauteile:** `w102979678`
 
@@ -634,9 +692,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.21 – Tempio Maggiore Israelitico - Sinagoga – Teil 21/21 (Y 102–105)
+### Schritt 37.23 – Tempio Maggiore Israelitico - Sinagoga – Teil 23/23 (Y 106–109)
 
-- **Y-Bereich:** 102 bis 105
+- **Y-Bereich:** 106 bis 109
 - **Blöcke:** 1.504
 - **Bauteile:** `w102979678`
 
@@ -663,9 +721,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.22 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 1/6 (Y 63–77)
+### Schritt 37.24 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 1/6 (Y 67–81)
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 67 bis 81
 - **Blöcke:** 1.951
 - **Bauteile:** `w102979678_innen`
 
@@ -705,9 +763,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.23 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 2/6 (Y 77–77)
+### Schritt 37.25 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 2/6 (Y 81–81)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.798
 - **Bauteile:** `w102979678_innen`
 
@@ -734,9 +792,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.24 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 3/6 (Y 77–77)
+### Schritt 37.26 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 3/6 (Y 81–81)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.836
 - **Bauteile:** `w102979678_innen`
 
@@ -763,9 +821,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.25 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 4/6 (Y 78–85)
+### Schritt 37.27 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 4/6 (Y 82–89)
 
-- **Y-Bereich:** 78 bis 85
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.896
 - **Bauteile:** `w102979678_innen`
 
@@ -801,9 +859,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.26 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 5/6 (Y 85–85)
+### Schritt 37.28 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 5/6 (Y 89–89)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.798
 - **Bauteile:** `w102979678_innen`
 
@@ -830,9 +888,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.27 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 6/6 (Y 85–85)
+### Schritt 37.29 – Tempio Maggiore Israelitico - Sinagoga: Innenausbau – Teil 6/6 (Y 89–89)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.836
 - **Bauteile:** `w102979678_innen`
 

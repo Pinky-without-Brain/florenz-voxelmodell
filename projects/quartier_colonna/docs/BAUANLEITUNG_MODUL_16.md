@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.673 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 69 bis 101 |
 | X-Ausdehnung | 1169 bis 1204 (36 Blöcke) |
 | Z-Ausdehnung | -1153 bis -1103 (51 Blöcke) |
 | Kleinster Schritt | 1.831 Blöcke (Schritt 16.1) |
@@ -39,9 +39,9 @@
 
 ## Bauschritte
 
-### Schritt 16.1 – Haus w491607934 – Teil 1/4 (Y 63–71)
+### Schritt 16.1 – Haus w491607934 – Teil 1/4 (Y 69–77)
 
-- **Y-Bereich:** 63 bis 71
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.831
 - **Bauteile:** `w491607934`
 
@@ -72,9 +72,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Haus w491607934 – Teil 2/4 (Y 72–80)
+### Schritt 16.2 – Haus w491607934 – Teil 2/4 (Y 78–86)
 
-- **Y-Bereich:** 72 bis 80
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.950
 - **Bauteile:** `w491607934`
 
@@ -104,9 +104,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Haus w491607934 – Teil 3/4 (Y 81–89)
+### Schritt 16.3 – Haus w491607934 – Teil 3/4 (Y 87–95)
 
-- **Y-Bereich:** 81 bis 89
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.980
 - **Bauteile:** `w491607934`
 
@@ -136,9 +136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Haus w491607934 – Teil 4/4 (Y 90–95) & Haus w491607934: Innenausbau
+### Schritt 16.4 – Haus w491607934 – Teil 4/4 (Y 96–101) & Haus w491607934: Innenausbau
 
-- **Y-Bereich:** 63 bis 95
+- **Y-Bereich:** 69 bis 101
 - **Blöcke:** 1.912
 - **Bauteile:** `w491607934`, `w491607934_innen`
 

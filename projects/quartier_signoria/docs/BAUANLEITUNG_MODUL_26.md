@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 20.612 |
+| Blöcke | 20.620 |
 | Bauschritte | 12 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 66 bis 104 |
 | X-Ausdehnung | 37 bis 87 (51 Blöcke) |
 | Z-Ausdehnung | 443 bis 494 (52 Blöcke) |
-| Kleinster Schritt | 1.092 Blöcke (Schritt 26.1) |
+| Kleinster Schritt | 1.097 Blöcke (Schritt 26.1) |
 | Mittlerer Schritt | 1.718 Blöcke |
 | Größter Schritt | 2.065 Blöcke (Schritt 26.3) |
 
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 8.006 | 38,8 % |
-| Terrakotta | `terracotta` | 6.649 | 32,3 % |
+| Terrakotta | `terracotta` | 6.649 | 32,2 % |
 | Polierter Tuffstein | `polished_tuff` | 2.204 | 10,7 % |
 | Weißer Beton | `white_concrete` | 1.114 | 5,4 % |
 | Graues Buntglas | `gray_stained_glass` | 973 | 4,7 % |
@@ -36,8 +36,11 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 6 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Tuffstein | `tuff` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
@@ -52,15 +55,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1598029` | Palazzo des Ottocento an Via Santa Margherita | 16.879 | 26.1–26.10 |
+| 1 | `r1598029` | Palazzo des Ottocento an Via Santa Margherita | 16.884 | 26.1–26.10 |
 | 2 | `r1598029_innen` | Palazzo des Ottocento an Via Santa Margherita: Innenausbau | 3.733 | 26.11–26.12 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 26.12 |
 
 ## Bauschritte
 
-### Schritt 26.1 – Palazzo des Ottocento an Via Santa Margherita – Teil 1/10 (Y 63–63)
+### Schritt 26.1 – Palazzo des Ottocento an Via Santa Margherita – Teil 1/10 (Y 66–67)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.092
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.097
 - **Bauteile:** `r1598029`
 
 **Teileliste**
@@ -68,6 +72,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.092 |
+| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
@@ -85,9 +90,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Palazzo des Ottocento an Via Santa Margherita – Teil 2/10 (Y 63–65)
+### Schritt 26.2 – Palazzo des Ottocento an Via Santa Margherita – Teil 2/10 (Y 67–69)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.840
 - **Bauteile:** `r1598029`
 
@@ -117,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Palazzo des Ottocento an Via Santa Margherita – Teil 3/10 (Y 66–71)
+### Schritt 26.3 – Palazzo des Ottocento an Via Santa Margherita – Teil 3/10 (Y 70–75)
 
-- **Y-Bereich:** 66 bis 71
+- **Y-Bereich:** 70 bis 75
 - **Blöcke:** 2.065
 - **Bauteile:** `r1598029`
 
@@ -150,9 +155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Palazzo des Ottocento an Via Santa Margherita – Teil 4/10 (Y 72–75)
+### Schritt 26.4 – Palazzo des Ottocento an Via Santa Margherita – Teil 4/10 (Y 76–79)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.616
 - **Bauteile:** `r1598029`
 
@@ -181,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.5 – Palazzo des Ottocento an Via Santa Margherita – Teil 5/10 (Y 76–80)
+### Schritt 26.5 – Palazzo des Ottocento an Via Santa Margherita – Teil 5/10 (Y 80–84)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.792
 - **Bauteile:** `r1598029`
 
@@ -213,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.6 – Palazzo des Ottocento an Via Santa Margherita – Teil 6/10 (Y 81–84)
+### Schritt 26.6 – Palazzo des Ottocento an Via Santa Margherita – Teil 6/10 (Y 85–88)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 85 bis 88
 - **Blöcke:** 1.559
 - **Bauteile:** `r1598029`
 
@@ -246,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.7 – Palazzo des Ottocento an Via Santa Margherita – Teil 7/10 (Y 85–89)
+### Schritt 26.7 – Palazzo des Ottocento an Via Santa Margherita – Teil 7/10 (Y 89–93)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 89 bis 93
 - **Blöcke:** 1.792
 - **Bauteile:** `r1598029`
 
@@ -278,9 +283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.8 – Palazzo des Ottocento an Via Santa Margherita – Teil 8/10 (Y 90–93)
+### Schritt 26.8 – Palazzo des Ottocento an Via Santa Margherita – Teil 8/10 (Y 94–97)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.891
 - **Bauteile:** `r1598029`
 
@@ -310,9 +315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.9 – Palazzo des Ottocento an Via Santa Margherita – Teil 9/10 (Y 94–95)
+### Schritt 26.9 – Palazzo des Ottocento an Via Santa Margherita – Teil 9/10 (Y 98–99)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.681
 - **Bauteile:** `r1598029`
 
@@ -338,9 +343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.10 – Palazzo des Ottocento an Via Santa Margherita – Teil 10/10 (Y 96–100)
+### Schritt 26.10 – Palazzo des Ottocento an Via Santa Margherita – Teil 10/10 (Y 100–104)
 
-- **Y-Bereich:** 96 bis 100
+- **Y-Bereich:** 100 bis 104
 - **Blöcke:** 1.551
 - **Bauteile:** `r1598029`
 
@@ -367,9 +372,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.11 – Palazzo des Ottocento an Via Santa Margherita: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 26.11 – Palazzo des Ottocento an Via Santa Margherita: Innenausbau – Teil 1/2 (Y 67–78)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.870
 - **Bauteile:** `r1598029_innen`
 
@@ -409,11 +414,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.12 – Palazzo des Ottocento an Via Santa Margherita: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 26.12 – Palazzo des Ottocento an Via Santa Margherita: Innenausbau – Teil 2/2 (Y 79–88) & Straßenschilder
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.863
-- **Bauteile:** `r1598029_innen`
+- **Y-Bereich:** 74 bis 88
+- **Blöcke:** 1.866
+- **Bauteile:** `r1598029_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -426,7 +431,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -441,16 +448,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

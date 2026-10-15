@@ -8,63 +8,70 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.181 |
+| Blöcke | 3.243 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 99 bis 140 |
 | X-Ausdehnung | 572 bis 588 (17 Blöcke) |
 | Z-Ausdehnung | 2161 bis 2174 (14 Blöcke) |
-| Kleinster Schritt | 1.423 Blöcke (Schritt 32.1) |
-| Mittlerer Schritt | 1.591 Blöcke |
-| Größter Schritt | 1.758 Blöcke (Schritt 32.2) |
+| Kleinster Schritt | 1.582 Blöcke (Schritt 32.1) |
+| Mittlerer Schritt | 1.622 Blöcke |
+| Größter Schritt | 1.661 Blöcke (Schritt 32.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 1.697 | 53,3 % |
-| Polierter Andesit | `polished_andesite` | 498 | 15,7 % |
-| Terrakotta | `terracotta` | 327 | 10,3 % |
-| Graues Buntglas | `gray_stained_glass` | 212 | 6,7 % |
-| Tuffsteinziegel | `tuff_bricks` | 172 | 5,4 % |
-| Polierter Tuffstein | `polished_tuff` | 152 | 4,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 2,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,8 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,7 % |
-| Seelaterne | `sea_lantern` | 4 | 0,1 % |
+| Tuffstein | `tuff` | 2.037 | 62,8 % |
+| Polierter Andesit | `polished_andesite` | 498 | 15,4 % |
+| Graues Buntglas | `gray_stained_glass` | 212 | 6,5 % |
+| Terrakotta | `terracotta` | 171 | 5,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 168 | 5,2 % |
+| Polierter Tuffstein | `polished_tuff` | 134 | 4,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 16 | 0,5 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 3 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 3 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
+| Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758461` | Wohnturm an Via di Belvedere | 2.905 | 32.1–32.2 |
-| 2 | `w397758461_innen` | Wohnturm an Via di Belvedere: Innenausbau | 276 | 32.2 |
+| 1 | `w397758461` | Wohnturm an Via di Belvedere | 3.239 | 32.1–32.2 |
+| 2 | `w397758461_innen` | Wohnturm an Via di Belvedere: Innenausbau | 4 | 32.2 |
 
 ## Bauschritte
 
-### Schritt 32.1 – Wohnturm an Via di Belvedere – Teil 1/2 (Y 63–78)
+### Schritt 32.1 – Wohnturm an Via di Belvedere – Teil 1/2 (Y 99–119)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.423
+- **Y-Bereich:** 99 bis 119
+- **Blöcke:** 1.582
 - **Bauteile:** `w397758461`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 835 |
-| Polierter Andesit | `polished_andesite` | 254 |
-| Polierter Tuffstein | `polished_tuff` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
+| Tuffstein | `tuff` | 1.049 |
+| Polierter Andesit | `polished_andesite` | 213 |
+| Polierter Tuffstein | `polished_tuff` | 134 |
 | Tuffsteinziegel | `tuff_bricks` | 90 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 16 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
 
 **Beschreibung**
 
@@ -82,34 +89,32 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 32.2 – Wohnturm an Via di Belvedere – Teil 2/2 (Y 79–97) & Wohnturm an Via di Belvedere: Innenausbau
+### Schritt 32.2 – Wohnturm an Via di Belvedere – Teil 2/2 (Y 120–140) & Wohnturm an Via di Belvedere: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
-- **Blöcke:** 1.758
+- **Y-Bereich:** 106 bis 140
+- **Blöcke:** 1.661
 - **Bauteile:** `w397758461`, `w397758461_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 862 |
-| Terrakotta | `terracotta` | 327 |
-| Polierter Andesit | `polished_andesite` | 244 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Tuffsteinziegel | `tuff_bricks` | 82 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 4 |
+| Tuffstein | `tuff` | 988 |
+| Polierter Andesit | `polished_andesite` | 285 |
+| Terrakotta | `terracotta` | 171 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Tuffsteinziegel | `tuff_bricks` | 78 |
 | Ziegelsteine | `bricks` | 3 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Seelaterne | `sea_lantern` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

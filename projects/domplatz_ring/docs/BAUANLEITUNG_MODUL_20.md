@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.860 |
+| Blöcke | 65.862 |
 | Bauschritte | 39 |
 | Y-Bereich | 65 bis 115 |
 | X-Ausdehnung | 148 bis 252 (105 Blöcke) |
@@ -41,6 +41,7 @@
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
@@ -62,6 +63,7 @@
 | 4 | `w491816880_innen` | Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau | 3.587 | 20.25–20.26 |
 | 5 | `w491816885` | Reihenhaus an Via dei Servi | 13.738 | 20.27–20.35 |
 | 6 | `w491816885_innen` | Reihenhaus an Via dei Servi: Innenausbau | 5.861 | 20.36–20.39 |
+| 7 | `strassenschilder` | Straßenschilder | 2 | 20.39 |
 
 ## Bauschritte
 
@@ -1318,11 +1320,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.39 – Reihenhaus an Via dei Servi: Innenausbau – Teil 4/4 (Y 90–97)
+### Schritt 20.39 – Reihenhaus an Via dei Servi: Innenausbau – Teil 4/4 (Y 90–97) & Straßenschilder
 
-- **Y-Bereich:** 90 bis 97
-- **Blöcke:** 1.466
-- **Bauteile:** `w491816885_innen`
+- **Y-Bereich:** 73 bis 97
+- **Blöcke:** 1.468
+- **Bauteile:** `w491816885_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1335,6 +1337,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -1346,16 +1349,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

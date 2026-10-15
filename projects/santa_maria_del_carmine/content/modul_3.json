@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Wände und Kapellen",
+  "subtitle": "Bautüte 3: Außenwände, Fenster, Cappella Brancacci und Corsini-Bogen",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwand läuft um Schiff, Querhaus und Chor bis unter die Dächer; außen Tuff mit Ziegelbändern, innen weißer Putz.",
+      "tip": "Die Wand ist zwei Blöcke dick.",
+      "caution": "Lass die Fenster frei.",
+      "fact": "Die Außenmauern stammen zum Teil noch vom gotischen Bau."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster aus farbigem Glas: je Joch eines in der Hochwand, dazu Fenster in Querhaus, Chor und Cappella Brancacci.",
+      "tip": "Sie sitzen über dem Gesims.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Durch die hohen Fenster fällt Licht auf die gemalte Tonne."
+    },
+    "brancacci": {
+      "title": "Cappella Brancacci",
+      "description": "Am Ende des rechten (westlichen) Querarms liegt die Cappella Brancacci; ihr Bogen zum Querhaus reicht bis Y 81, innen sind die Wände mit Fresken in Blau, Rot, Gelb und Grün bemalt.",
+      "tip": "Die Fresken sitzen auf der Innenseite der Wände, Y 64 bis 85.",
+      "caution": "Die Seitenwände bleiben geschlossen.",
+      "fact": "Masolino, Masaccio und Filippino Lippi malten hier die Geschichten des Petrus; die Kapelle überstand den Brand von 1771."
+    },
+    "corsini": {
+      "title": "Bogen der Cappella Corsini",
+      "description": "Am linken (östlichen) Querarm öffnet sich die Cappella Corsini mit einem großen Rundbogen bis Y 84.",
+      "tip": "Der Bogen ist 16 Blöcke breit.",
+      "caution": "Die Wand darüber reicht bis unter das Dach.",
+      "fact": "Pier Francesco Silvani baute die Kapelle ab 1675."
+    }
+  }
+}

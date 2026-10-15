@@ -8,103 +8,538 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 391.500 |
-| Bauschritte | 229 |
-| Y-Bereich | 63 bis 107 |
+| Blöcke | 430.101 |
+| Bauschritte | 252 |
+| Y-Bereich | 63 bis 114 |
 | X-Ausdehnung | 27 bis 368 (342 Blöcke) |
 | Z-Ausdehnung | -1485 bis -1109 (377 Blöcke) |
-| Kleinster Schritt | 432 Blöcke (Schritt 5.108) |
-| Mittlerer Schritt | 1.710 Blöcke |
-| Größter Schritt | 2.100 Blöcke (Schritt 5.56) |
+| Kleinster Schritt | 771 Blöcke (Schritt 5.165) |
+| Mittlerer Schritt | 1.707 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 5.71) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 149.290 | 38,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 52.434 | 13,4 % |
-| Polierter Tuffstein | `polished_tuff` | 44.988 | 11,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 34.183 | 8,7 % |
-| Endsteinziegel | `end_stone_bricks` | 29.952 | 7,7 % |
-| Weißer Beton | `white_concrete` | 26.957 | 6,9 % |
-| Rosa Keramik | `pink_terracotta` | 10.773 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 8.627 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 8.333 | 2,1 % |
-| Polierter Andesit | `polished_andesite` | 7.411 | 1,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.590 | 1,2 % |
-| Tuffstein | `tuff` | 3.963 | 1,0 % |
+| Terrakotta | `terracotta` | 148.985 | 34,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 52.434 | 12,2 % |
+| Polierter Tuffstein | `polished_tuff` | 44.942 | 10,4 % |
+| Tuffstein | `tuff` | 42.327 | 9,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 34.500 | 8,0 % |
+| Endsteinziegel | `end_stone_bricks` | 30.054 | 7,0 % |
+| Weißer Beton | `white_concrete` | 27.050 | 6,3 % |
+| Rosa Keramik | `pink_terracotta` | 10.841 | 2,5 % |
+| Graues Buntglas | `gray_stained_glass` | 8.627 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 8.337 | 1,9 % |
+| Polierter Andesit | `polished_andesite` | 7.411 | 1,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.655 | 1,1 % |
 | Grüner Beton | `green_concrete` | 3.310 | 0,8 % |
-| Ziegelsteine | `bricks` | 2.239 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.660 | 0,4 % |
-| Seelaterne | `sea_lantern` | 740 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 728 | 0,2 % |
+| Ziegelsteine | `bricks` | 2.239 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.677 | 0,4 % |
+| Seelaterne | `sea_lantern` | 726 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 667 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 368 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 149 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 141 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 131 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 127 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 121 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 117 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 106 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 94 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 66 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 66 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 60 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 32 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 9 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 542 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 496 |
 | Steintreppe | `stone_stairs` | 280 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 53 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4086116` | Casino mediceo di San Marco | 108.417 | 5.1–5.57 |
-| 2 | `r4086116_innen` | Casino mediceo di San Marco: Innenausbau | 35.135 | 5.58–5.75 |
-| 3 | `r7161787` | Reihenhaus an Via San Gallo | 11.422 | 5.76–5.81 |
-| 4 | `r7161787_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2.817 | 5.82–5.83 |
-| 5 | `r7161792` | Palazzo des Ottocento an Via San Gallo | 19.269 | 5.84–5.94 |
-| 6 | `r7161792_innen` | Palazzo des Ottocento an Via San Gallo: Innenausbau | 5.775 | 5.95–5.98 |
-| 7 | `w306240095` | Ex oratorio di Gesù Pellegrino | 9.110 | 5.99–5.103 |
-| 8 | `w306240095_innen` | Ex oratorio di Gesù Pellegrino: Innenausbau | 1.362 | 5.104 |
-| 9 | `w306240099` | Casino mediceo di San Marco | 1.674 | 5.105 |
-| 10 | `w306240099_innen` | Casino mediceo di San Marco: Innenausbau | 1 | 5.106 |
-| 11 | `w306240101` | Reihenhaus an Via Camillo Cavour | 3.293 | 5.106–5.107 |
-| 12 | `w306240101_innen` | Reihenhaus an Via Camillo Cavour: Innenausbau | 432 | 5.108 |
-| 13 | `w306252415` | Palazzina della Livia | 13.363 | 5.109–5.116 |
-| 14 | `w306252415_innen` | Palazzina della Livia: Innenausbau | 2.700 | 5.117–5.118 |
-| 15 | `w487162455` | Reihenhaus an Via San Gallo | 7.420 | 5.119–5.122 |
-| 16 | `w487162455_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.839 | 5.123 |
-| 17 | `w487162462` | Reihenhaus an Via San Gallo | 8.270 | 5.124–5.128 |
-| 18 | `w487162462_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.766 | 5.129 |
-| 19 | `w487162481` | Reihenhaus an Via San Gallo | 11.365 | 5.130–5.136 |
-| 20 | `w487162481_innen` | Reihenhaus an Via San Gallo: Innenausbau | 4.664 | 5.137–5.139 |
-| 21 | `w487162485` | Reihenhaus an Via degli Arazzieri | 37.707 | 5.140–5.165 |
-| 22 | `w487162485_innen` | Reihenhaus an Via degli Arazzieri: Innenausbau | 15.254 | 5.166–5.174 |
-| 23 | `w487162497` | Reihenhaus an Via San Gallo | 5.188 | 5.175–5.177 |
-| 24 | `w487162497_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.704 | 5.178 |
-| 25 | `w487162500` | Reihenhaus an Via San Gallo | 8.984 | 5.179–5.183 |
-| 26 | `w487162500_innen` | Reihenhaus an Via San Gallo: Innenausbau | 3.192 | 5.184–5.185 |
-| 27 | `w487162506` | Reihenhaus an Via San Gallo | 3.262 | 5.186–5.187 |
-| 28 | `w487162506_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2.552 | 5.188–5.189 |
-| 29 | `w487162516` | Reihenhaus an Via San Gallo | 2.933 | 5.190–5.191 |
-| 30 | `w487162516_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.536 | 5.192 |
-| 31 | `w487162526` | Reihenhaus an Via San Gallo | 10.080 | 5.193–5.199 |
-| 32 | `w487162526_innen` | Reihenhaus an Via San Gallo: Innenausbau | 4.415 | 5.200–5.202 |
-| 33 | `w487162528` | Haus w487162528 | 6.162 | 5.203–5.206 |
-| 34 | `w487162528_innen` | Haus w487162528: Innenausbau | 775 | 5.207 |
-| 35 | `w781509455` | Casino mediceo di San Marco | 17.913 | 5.208–5.217 |
-| 36 | `w781509455_innen` | Casino mediceo di San Marco: Innenausbau | 3.797 | 5.218–5.219 |
-| 37 | `w781509458` | Casino mediceo di San Marco | 13.363 | 5.220–5.227 |
-| 38 | `w781509458_innen` | Casino mediceo di San Marco: Innenausbau | 2.589 | 5.228–5.229 |
+| 1 | `r4086116` | Casino mediceo di San Marco | 132.818 | 5.1–5.72 |
+| 2 | `r4086116_innen` | Casino mediceo di San Marco: Innenausbau | 35.135 | 5.73–5.90 |
+| 3 | `r7161787` | Reihenhaus an Via San Gallo | 12.138 | 5.91–5.97 |
+| 4 | `r7161787_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2.817 | 5.98–5.99 |
+| 5 | `r7161792` | Palazzo des Ottocento an Via San Gallo | 20.235 | 5.100–5.111 |
+| 6 | `r7161792_innen` | Palazzo des Ottocento an Via San Gallo: Innenausbau | 5.774 | 5.112–5.115 |
+| 7 | `w306240095` | Ex oratorio di Gesù Pellegrino | 9.110 | 5.116–5.120 |
+| 8 | `w306240095_innen` | Ex oratorio di Gesù Pellegrino: Innenausbau | 1.362 | 5.121 |
+| 9 | `w306240099` | Casino mediceo di San Marco | 1.684 | 5.122 |
+| 10 | `w306240099_innen` | Casino mediceo di San Marco: Innenausbau | 1 | 5.123 |
+| 11 | `w306240101` | Reihenhaus an Via Camillo Cavour | 3.306 | 5.123–5.124 |
+| 12 | `w306240101_innen` | Reihenhaus an Via Camillo Cavour: Innenausbau | 1 | 5.125 |
+| 13 | `w306252415` | Palazzina della Livia | 13.613 | 5.125–5.132 |
+| 14 | `w306252415_innen` | Palazzina della Livia: Innenausbau | 2.700 | 5.133–5.134 |
+| 15 | `w487162455` | Reihenhaus an Via San Gallo | 8.439 | 5.135–5.139 |
+| 16 | `w487162455_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.839 | 5.140 |
+| 17 | `w487162462` | Reihenhaus an Via San Gallo | 8.270 | 5.141–5.145 |
+| 18 | `w487162462_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.766 | 5.146 |
+| 19 | `w487162481` | Reihenhaus an Via San Gallo | 11.365 | 5.147–5.153 |
+| 20 | `w487162481_innen` | Reihenhaus an Via San Gallo: Innenausbau | 4.664 | 5.154–5.156 |
+| 21 | `w487162485` | Reihenhaus an Via degli Arazzieri | 45.272 | 5.157–5.187 |
+| 22 | `w487162485_innen` | Reihenhaus an Via degli Arazzieri: Innenausbau | 15.267 | 5.188–5.196 |
+| 23 | `w487162497` | Reihenhaus an Via San Gallo | 5.221 | 5.197–5.199 |
+| 24 | `w487162497_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.699 | 5.200 |
+| 25 | `w487162500` | Reihenhaus an Via San Gallo | 9.657 | 5.201–5.205 |
+| 26 | `w487162500_innen` | Reihenhaus an Via San Gallo: Innenausbau | 3.193 | 5.206–5.207 |
+| 27 | `w487162506` | Reihenhaus an Via San Gallo | 3.346 | 5.208–5.209 |
+| 28 | `w487162506_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2.554 | 5.210–5.211 |
+| 29 | `w487162516` | Reihenhaus an Via San Gallo | 4.033 | 5.212–5.213 |
+| 30 | `w487162516_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.525 | 5.214 |
+| 31 | `w487162526` | Reihenhaus an Via San Gallo | 10.509 | 5.215–5.221 |
+| 32 | `w487162526_innen` | Reihenhaus an Via San Gallo: Innenausbau | 4.411 | 5.222–5.224 |
+| 33 | `w487162528` | Haus w487162528 | 6.703 | 5.225–5.228 |
+| 34 | `w487162528_innen` | Haus w487162528: Innenausbau | 772 | 5.229 |
+| 35 | `w781509455` | Casino mediceo di San Marco | 19.155 | 5.230–5.240 |
+| 36 | `w781509455_innen` | Casino mediceo di San Marco: Innenausbau | 3.793 | 5.241–5.242 |
+| 37 | `w781509458` | Casino mediceo di San Marco | 13.363 | 5.243–5.250 |
+| 38 | `w781509458_innen` | Casino mediceo di San Marco: Innenausbau | 2.589 | 5.251–5.252 |
+| 39 | `strassenschilder` | Straßenschilder | 2 | 5.252 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Casino mediceo di San Marco – Teil 1/57 (Y 63–63)
+### Schritt 5.1 – Casino mediceo di San Marco – Teil 1/72 (Y 63–65)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 63 bis 65
+- **Blöcke:** 964
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 964 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.2 – Casino mediceo di San Marco – Teil 2/72 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.292
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.292 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.3 – Casino mediceo di San Marco – Teil 3/72 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.151
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.151 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.4 – Casino mediceo di San Marco – Teil 4/72 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.137
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.137 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.5 – Casino mediceo di San Marco – Teil 5/72 (Y 68–68)
+
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.416
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.416 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.6 – Casino mediceo di San Marco – Teil 6/72 (Y 68–68)
+
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.430
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.430 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.7 – Casino mediceo di San Marco – Teil 7/72 (Y 68–68)
+
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.404
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.404 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.8 – Casino mediceo di San Marco – Teil 8/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.949
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.949 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.9 – Casino mediceo di San Marco – Teil 9/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 2.000
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.000 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.10 – Casino mediceo di San Marco – Teil 10/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.909
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.909 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.11 – Casino mediceo di San Marco – Teil 11/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.954
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.954 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.12 – Casino mediceo di San Marco – Teil 12/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.892
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.892 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.13 – Casino mediceo di San Marco – Teil 13/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.949
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.949 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.14 – Casino mediceo di San Marco – Teil 14/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 2.016
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.013 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.15 – Casino mediceo di San Marco – Teil 15/72 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.941
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.941 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.16 – Casino mediceo di San Marco – Teil 16/72 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.934
 - **Bauteile:** `r4086116`
 
@@ -130,9 +565,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Casino mediceo di San Marco – Teil 2/57 (Y 63–63)
+### Schritt 5.17 – Casino mediceo di San Marco – Teil 17/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.951
 - **Bauteile:** `r4086116`
 
@@ -158,9 +593,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Casino mediceo di San Marco – Teil 3/57 (Y 63–63)
+### Schritt 5.18 – Casino mediceo di San Marco – Teil 18/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.916
 - **Bauteile:** `r4086116`
 
@@ -186,9 +621,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Casino mediceo di San Marco – Teil 4/57 (Y 63–63)
+### Schritt 5.19 – Casino mediceo di San Marco – Teil 19/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 2.035
 - **Bauteile:** `r4086116`
 
@@ -214,9 +649,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Casino mediceo di San Marco – Teil 5/57 (Y 63–63)
+### Schritt 5.20 – Casino mediceo di San Marco – Teil 20/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.869
 - **Bauteile:** `r4086116`
 
@@ -242,9 +677,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Casino mediceo di San Marco – Teil 6/57 (Y 63–63)
+### Schritt 5.21 – Casino mediceo di San Marco – Teil 21/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.979
 - **Bauteile:** `r4086116`
 
@@ -270,9 +705,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Casino mediceo di San Marco – Teil 7/57 (Y 63–63)
+### Schritt 5.22 – Casino mediceo di San Marco – Teil 22/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.924
 - **Bauteile:** `r4086116`
 
@@ -298,9 +733,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Casino mediceo di San Marco – Teil 8/57 (Y 63–63)
+### Schritt 5.23 – Casino mediceo di San Marco – Teil 23/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.977
 - **Bauteile:** `r4086116`
 
@@ -326,17 +761,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Casino mediceo di San Marco – Teil 9/57 (Y 63–63)
+### Schritt 5.24 – Casino mediceo di San Marco – Teil 24/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.911
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.908
 - **Bauteile:** `r4086116`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.911 |
+| Polierter Tuffstein | `polished_tuff` | 1.905 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -354,9 +796,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.10 – Casino mediceo di San Marco – Teil 10/57 (Y 63–63)
+### Schritt 5.25 – Casino mediceo di San Marco – Teil 25/72 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.987
 - **Bauteile:** `r4086116`
 
@@ -382,9 +824,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.11 – Casino mediceo di San Marco – Teil 11/57 (Y 64–64)
+### Schritt 5.26 – Casino mediceo di San Marco – Teil 26/72 (Y 71–71)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 2.077
 - **Bauteile:** `r4086116`
 
@@ -413,9 +855,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Casino mediceo di San Marco – Teil 12/57 (Y 65–65)
+### Schritt 5.27 – Casino mediceo di San Marco – Teil 27/72 (Y 72–72)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 2.077
 - **Bauteile:** `r4086116`
 
@@ -443,9 +885,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Casino mediceo di San Marco – Teil 13/57 (Y 66–66)
+### Schritt 5.28 – Casino mediceo di San Marco – Teil 28/72 (Y 73–73)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 2.077
 - **Bauteile:** `r4086116`
 
@@ -475,9 +917,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.14 – Casino mediceo di San Marco – Teil 14/57 (Y 67–67)
+### Schritt 5.29 – Casino mediceo di San Marco – Teil 29/72 (Y 74–74)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.968
 - **Bauteile:** `r4086116`
 
@@ -508,9 +950,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Casino mediceo di San Marco – Teil 15/57 (Y 68–68)
+### Schritt 5.30 – Casino mediceo di San Marco – Teil 30/72 (Y 75–75)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.974
 - **Bauteile:** `r4086116`
 
@@ -542,9 +984,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Casino mediceo di San Marco – Teil 16/57 (Y 69–69)
+### Schritt 5.31 – Casino mediceo di San Marco – Teil 31/72 (Y 76–76)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.974
 - **Bauteile:** `r4086116`
 
@@ -575,9 +1017,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.17 – Casino mediceo di San Marco – Teil 17/57 (Y 70–70)
+### Schritt 5.32 – Casino mediceo di San Marco – Teil 32/72 (Y 77–77)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.985
 - **Bauteile:** `r4086116`
 
@@ -606,9 +1048,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.18 – Casino mediceo di San Marco – Teil 18/57 (Y 71–71)
+### Schritt 5.33 – Casino mediceo di San Marco – Teil 33/72 (Y 78–78)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -636,9 +1078,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.19 – Casino mediceo di San Marco – Teil 19/57 (Y 72–72)
+### Schritt 5.34 – Casino mediceo di San Marco – Teil 34/72 (Y 79–79)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -665,9 +1107,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.20 – Casino mediceo di San Marco – Teil 20/57 (Y 73–73)
+### Schritt 5.35 – Casino mediceo di San Marco – Teil 35/72 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -694,9 +1136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.21 – Casino mediceo di San Marco – Teil 21/57 (Y 74–74)
+### Schritt 5.36 – Casino mediceo di San Marco – Teil 36/72 (Y 81–81)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -723,229 +1165,229 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.22 – Casino mediceo di San Marco – Teil 22/57 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 2.084
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
-| Weißer Beton | `white_concrete` | 384 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.23 – Casino mediceo di San Marco – Teil 23/57 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.24 – Casino mediceo di San Marco – Teil 24/57 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.25 – Casino mediceo di San Marco – Teil 25/57 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.26 – Casino mediceo di San Marco – Teil 26/57 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.27 – Casino mediceo di San Marco – Teil 27/57 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.28 – Casino mediceo di San Marco – Teil 28/57 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 2.084
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
-| Weißer Beton | `white_concrete` | 384 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.29 – Casino mediceo di San Marco – Teil 29/57 (Y 82–82)
+### Schritt 5.37 – Casino mediceo di San Marco – Teil 37/72 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
+- **Blöcke:** 2.084
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
+| Weißer Beton | `white_concrete` | 384 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.38 – Casino mediceo di San Marco – Teil 38/72 (Y 83–83)
+
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.39 – Casino mediceo di San Marco – Teil 39/72 (Y 84–84)
+
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.40 – Casino mediceo di San Marco – Teil 40/72 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.41 – Casino mediceo di San Marco – Teil 41/72 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.42 – Casino mediceo di San Marco – Teil 42/72 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.43 – Casino mediceo di San Marco – Teil 43/72 (Y 88–88)
+
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 2.084
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
+| Weißer Beton | `white_concrete` | 384 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.44 – Casino mediceo di San Marco – Teil 44/72 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -973,9 +1415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.30 – Casino mediceo di San Marco – Teil 30/57 (Y 83–83)
+### Schritt 5.45 – Casino mediceo di San Marco – Teil 45/72 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -1002,9 +1444,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.31 – Casino mediceo di San Marco – Teil 31/57 (Y 84–84)
+### Schritt 5.46 – Casino mediceo di San Marco – Teil 46/72 (Y 91–91)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 2.084
 - **Bauteile:** `r4086116`
 
@@ -1031,229 +1473,229 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.32 – Casino mediceo di San Marco – Teil 32/57 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 2.084
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
-| Weißer Beton | `white_concrete` | 384 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.33 – Casino mediceo di San Marco – Teil 33/57 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.34 – Casino mediceo di San Marco – Teil 34/57 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.35 – Casino mediceo di San Marco – Teil 35/57 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.36 – Casino mediceo di San Marco – Teil 36/57 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.37 – Casino mediceo di San Marco – Teil 37/57 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.971
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
-| Weißer Beton | `white_concrete` | 204 |
-| Graues Buntglas | `gray_stained_glass` | 180 |
-| Grüner Beton | `green_concrete` | 81 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.38 – Casino mediceo di San Marco – Teil 38/57 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 2.084
-- **Bauteile:** `r4086116`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
-| Weißer Beton | `white_concrete` | 384 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.39 – Casino mediceo di San Marco – Teil 39/57 (Y 92–92)
+### Schritt 5.47 – Casino mediceo di San Marco – Teil 47/72 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
+- **Blöcke:** 2.084
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
+| Weißer Beton | `white_concrete` | 384 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.48 – Casino mediceo di San Marco – Teil 48/72 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.49 – Casino mediceo di San Marco – Teil 49/72 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.50 – Casino mediceo di San Marco – Teil 50/72 (Y 95–95)
+
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.51 – Casino mediceo di San Marco – Teil 51/72 (Y 96–96)
+
+- **Y-Bereich:** 96 bis 96
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.501 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.52 – Casino mediceo di San Marco – Teil 52/72 (Y 97–97)
+
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.971
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.490 |
+| Weißer Beton | `white_concrete` | 204 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Grüner Beton | `green_concrete` | 81 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.53 – Casino mediceo di San Marco – Teil 53/72 (Y 98–98)
+
+- **Y-Bereich:** 98 bis 98
+- **Blöcke:** 2.084
+- **Bauteile:** `r4086116`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.695 |
+| Weißer Beton | `white_concrete` | 384 |
+| Polierter Andesit | `polished_andesite` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.54 – Casino mediceo di San Marco – Teil 54/72 (Y 99–99)
+
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.255
 - **Bauteile:** `r4086116`
 
@@ -1282,9 +1724,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.40 – Casino mediceo di San Marco – Teil 40/57 (Y 92–92)
+### Schritt 5.55 – Casino mediceo di San Marco – Teil 55/72 (Y 99–99)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.254
 - **Bauteile:** `r4086116`
 
@@ -1313,9 +1755,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.41 – Casino mediceo di San Marco – Teil 41/57 (Y 93–93)
+### Schritt 5.56 – Casino mediceo di San Marco – Teil 56/72 (Y 100–100)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.530
 - **Bauteile:** `r4086116`
 
@@ -1343,9 +1785,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.42 – Casino mediceo di San Marco – Teil 42/57 (Y 93–93)
+### Schritt 5.57 – Casino mediceo di San Marco – Teil 57/72 (Y 100–100)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.518
 - **Bauteile:** `r4086116`
 
@@ -1373,9 +1815,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.43 – Casino mediceo di San Marco – Teil 43/57 (Y 94–94)
+### Schritt 5.58 – Casino mediceo di San Marco – Teil 58/72 (Y 101–101)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.819
 - **Bauteile:** `r4086116`
 
@@ -1401,9 +1843,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.44 – Casino mediceo di San Marco – Teil 44/57 (Y 94–94)
+### Schritt 5.59 – Casino mediceo di San Marco – Teil 59/72 (Y 101–101)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.819
 - **Bauteile:** `r4086116`
 
@@ -1429,9 +1871,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.45 – Casino mediceo di San Marco – Teil 45/57 (Y 94–94)
+### Schritt 5.60 – Casino mediceo di San Marco – Teil 60/72 (Y 101–101)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.802
 - **Bauteile:** `r4086116`
 
@@ -1457,9 +1899,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.46 – Casino mediceo di San Marco – Teil 46/57 (Y 95–95)
+### Schritt 5.61 – Casino mediceo di San Marco – Teil 61/72 (Y 102–102)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.713
 - **Bauteile:** `r4086116`
 
@@ -1485,9 +1927,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.47 – Casino mediceo di San Marco – Teil 47/57 (Y 95–95)
+### Schritt 5.62 – Casino mediceo di San Marco – Teil 62/72 (Y 102–102)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.715
 - **Bauteile:** `r4086116`
 
@@ -1513,9 +1955,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.48 – Casino mediceo di San Marco – Teil 48/57 (Y 96–96)
+### Schritt 5.63 – Casino mediceo di San Marco – Teil 63/72 (Y 103–103)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.785
 - **Bauteile:** `r4086116`
 
@@ -1541,9 +1983,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.49 – Casino mediceo di San Marco – Teil 49/57 (Y 96–96)
+### Schritt 5.64 – Casino mediceo di San Marco – Teil 64/72 (Y 103–103)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.804
 - **Bauteile:** `r4086116`
 
@@ -1569,9 +2011,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.50 – Casino mediceo di San Marco – Teil 50/57 (Y 97–97)
+### Schritt 5.65 – Casino mediceo di San Marco – Teil 65/72 (Y 104–104)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.856
 - **Bauteile:** `r4086116`
 
@@ -1598,9 +2040,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.51 – Casino mediceo di San Marco – Teil 51/57 (Y 97–97)
+### Schritt 5.66 – Casino mediceo di San Marco – Teil 66/72 (Y 104–104)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.847
 - **Bauteile:** `r4086116`
 
@@ -1627,9 +2069,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.52 – Casino mediceo di San Marco – Teil 52/57 (Y 98–98)
+### Schritt 5.67 – Casino mediceo di San Marco – Teil 67/72 (Y 105–105)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 105 bis 105
 - **Blöcke:** 1.534
 - **Bauteile:** `r4086116`
 
@@ -1656,9 +2098,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.53 – Casino mediceo di San Marco – Teil 53/57 (Y 98–98)
+### Schritt 5.68 – Casino mediceo di San Marco – Teil 68/72 (Y 105–105)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 105 bis 105
 - **Blöcke:** 1.527
 - **Bauteile:** `r4086116`
 
@@ -1685,9 +2127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.54 – Casino mediceo di San Marco – Teil 54/57 (Y 99–99)
+### Schritt 5.69 – Casino mediceo di San Marco – Teil 69/72 (Y 106–106)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 106 bis 106
 - **Blöcke:** 1.965
 - **Bauteile:** `r4086116`
 
@@ -1714,9 +2156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.55 – Casino mediceo di San Marco – Teil 55/57 (Y 100–100)
+### Schritt 5.70 – Casino mediceo di San Marco – Teil 70/72 (Y 107–107)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 107 bis 107
 - **Blöcke:** 1.556
 - **Bauteile:** `r4086116`
 
@@ -1743,9 +2185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.56 – Casino mediceo di San Marco – Teil 56/57 (Y 101–102)
+### Schritt 5.71 – Casino mediceo di San Marco – Teil 71/72 (Y 108–109)
 
-- **Y-Bereich:** 101 bis 102
+- **Y-Bereich:** 108 bis 109
 - **Blöcke:** 2.100
 - **Bauteile:** `r4086116`
 
@@ -1772,9 +2214,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.57 – Casino mediceo di San Marco – Teil 57/57 (Y 103–107)
+### Schritt 5.72 – Casino mediceo di San Marco – Teil 72/72 (Y 110–114)
 
-- **Y-Bereich:** 103 bis 107
+- **Y-Bereich:** 110 bis 114
 - **Blöcke:** 1.769
 - **Bauteile:** `r4086116`
 
@@ -1801,9 +2243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.58 – Casino mediceo di San Marco: Innenausbau – Teil 1/18 (Y 63–73)
+### Schritt 5.73 – Casino mediceo di San Marco: Innenausbau – Teil 1/18 (Y 70–80)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 70 bis 80
 - **Blöcke:** 2.088
 - **Bauteile:** `r4086116_innen`
 
@@ -1839,9 +2281,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.59 – Casino mediceo di San Marco: Innenausbau – Teil 2/18 (Y 73–73)
+### Schritt 5.74 – Casino mediceo di San Marco: Innenausbau – Teil 2/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.873
 - **Bauteile:** `r4086116_innen`
 
@@ -1868,9 +2310,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.60 – Casino mediceo di San Marco: Innenausbau – Teil 3/18 (Y 73–73)
+### Schritt 5.75 – Casino mediceo di San Marco: Innenausbau – Teil 3/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.941
 - **Bauteile:** `r4086116_innen`
 
@@ -1897,9 +2339,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.61 – Casino mediceo di San Marco: Innenausbau – Teil 4/18 (Y 73–73)
+### Schritt 5.76 – Casino mediceo di San Marco: Innenausbau – Teil 4/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.007
 - **Bauteile:** `r4086116_innen`
 
@@ -1926,9 +2368,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.62 – Casino mediceo di San Marco: Innenausbau – Teil 5/18 (Y 73–73)
+### Schritt 5.77 – Casino mediceo di San Marco: Innenausbau – Teil 5/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.963
 - **Bauteile:** `r4086116_innen`
 
@@ -1955,9 +2397,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.63 – Casino mediceo di San Marco: Innenausbau – Teil 6/18 (Y 73–73)
+### Schritt 5.78 – Casino mediceo di San Marco: Innenausbau – Teil 6/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.937
 - **Bauteile:** `r4086116_innen`
 
@@ -1984,9 +2426,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.64 – Casino mediceo di San Marco: Innenausbau – Teil 7/18 (Y 73–73)
+### Schritt 5.79 – Casino mediceo di San Marco: Innenausbau – Teil 7/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.874
 - **Bauteile:** `r4086116_innen`
 
@@ -2013,9 +2455,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.65 – Casino mediceo di San Marco: Innenausbau – Teil 8/18 (Y 73–73)
+### Schritt 5.80 – Casino mediceo di San Marco: Innenausbau – Teil 8/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.013
 - **Bauteile:** `r4086116_innen`
 
@@ -2042,9 +2484,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.66 – Casino mediceo di San Marco: Innenausbau – Teil 9/18 (Y 73–73)
+### Schritt 5.81 – Casino mediceo di San Marco: Innenausbau – Teil 9/18 (Y 80–80)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.915
 - **Bauteile:** `r4086116_innen`
 
@@ -2071,9 +2513,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.67 – Casino mediceo di San Marco: Innenausbau – Teil 10/18 (Y 74–83)
+### Schritt 5.82 – Casino mediceo di San Marco: Innenausbau – Teil 10/18 (Y 81–90)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 81 bis 90
 - **Blöcke:** 2.001
 - **Bauteile:** `r4086116_innen`
 
@@ -2109,9 +2551,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.68 – Casino mediceo di San Marco: Innenausbau – Teil 11/18 (Y 83–83)
+### Schritt 5.83 – Casino mediceo di San Marco: Innenausbau – Teil 11/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.873
 - **Bauteile:** `r4086116_innen`
 
@@ -2138,9 +2580,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.69 – Casino mediceo di San Marco: Innenausbau – Teil 12/18 (Y 83–83)
+### Schritt 5.84 – Casino mediceo di San Marco: Innenausbau – Teil 12/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.941
 - **Bauteile:** `r4086116_innen`
 
@@ -2167,9 +2609,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.70 – Casino mediceo di San Marco: Innenausbau – Teil 13/18 (Y 83–83)
+### Schritt 5.85 – Casino mediceo di San Marco: Innenausbau – Teil 13/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 2.007
 - **Bauteile:** `r4086116_innen`
 
@@ -2196,9 +2638,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.71 – Casino mediceo di San Marco: Innenausbau – Teil 14/18 (Y 83–83)
+### Schritt 5.86 – Casino mediceo di San Marco: Innenausbau – Teil 14/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.963
 - **Bauteile:** `r4086116_innen`
 
@@ -2225,9 +2667,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.72 – Casino mediceo di San Marco: Innenausbau – Teil 15/18 (Y 83–83)
+### Schritt 5.87 – Casino mediceo di San Marco: Innenausbau – Teil 15/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.937
 - **Bauteile:** `r4086116_innen`
 
@@ -2254,9 +2696,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.73 – Casino mediceo di San Marco: Innenausbau – Teil 16/18 (Y 83–83)
+### Schritt 5.88 – Casino mediceo di San Marco: Innenausbau – Teil 16/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.874
 - **Bauteile:** `r4086116_innen`
 
@@ -2283,9 +2725,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.74 – Casino mediceo di San Marco: Innenausbau – Teil 17/18 (Y 83–83)
+### Schritt 5.89 – Casino mediceo di San Marco: Innenausbau – Teil 17/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 2.013
 - **Bauteile:** `r4086116_innen`
 
@@ -2312,9 +2754,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.75 – Casino mediceo di San Marco: Innenausbau – Teil 18/18 (Y 83–83)
+### Schritt 5.90 – Casino mediceo di San Marco: Innenausbau – Teil 18/18 (Y 90–90)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.915
 - **Bauteile:** `r4086116_innen`
 
@@ -2341,19 +2783,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.76 – Reihenhaus an Via San Gallo – Teil 1/6 (Y 63–65)
+### Schritt 5.91 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 66–68)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.764
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.904
 - **Bauteile:** `r7161787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.188 |
-| Rosa Keramik | `pink_terracotta` | 570 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.184 |
+| Tuffstein | `tuff` | 716 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -2371,19 +2819,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.77 – Reihenhaus an Via San Gallo – Teil 2/6 (Y 66–72)
+### Schritt 5.92 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 69–73)
 
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 2.035
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.440
 - **Bauteile:** `r7161787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.811 |
-| Polierter Andesit | `polished_andesite` | 154 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Rosa Keramik | `pink_terracotta` | 1.283 |
+| Polierter Andesit | `polished_andesite` | 103 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 | Fichtenholz-Bretter | `spruce_planks` | 14 |
 
 **Beschreibung**
@@ -2402,18 +2850,80 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.78 – Reihenhaus an Via San Gallo – Teil 3/6 (Y 73–79)
+### Schritt 5.93 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 74–79)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 2.034
+- **Y-Bereich:** 74 bis 79
+- **Blöcke:** 1.764
 - **Bauteile:** `r7161787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.742 |
-| Polierter Andesit | `polished_andesite` | 183 |
+| Rosa Keramik | `pink_terracotta` | 1.583 |
+| Polierter Andesit | `polished_andesite` | 135 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+| Fichtenholz-Bretter | `spruce_planks` | 7 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.94 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 80–85)
+
+- **Y-Bereich:** 80 bis 85
+- **Blöcke:** 1.751
+- **Bauteile:** `r7161787`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.509 |
+| Polierter Andesit | `polished_andesite` | 163 |
+| Graues Buntglas | `gray_stained_glass` | 65 |
+| Fichtenholz-Bretter | `spruce_planks` | 14 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.95 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 86–91)
+
+- **Y-Bereich:** 86 bis 91
+- **Blöcke:** 1.724
+- **Bauteile:** `r7161787`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.490 |
+| Polierter Andesit | `polished_andesite` | 125 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
 | Fichtenholz-Bretter | `spruce_planks` | 21 |
 
@@ -2433,9 +2943,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.79 – Reihenhaus an Via San Gallo – Teil 4/6 (Y 80–85)
+### Schritt 5.96 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 92–97)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.739
 - **Bauteile:** `r7161787`
 
@@ -2464,40 +2974,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.80 – Reihenhaus an Via San Gallo – Teil 5/6 (Y 86–92)
+### Schritt 5.97 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 98–104)
 
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 2.034
-- **Bauteile:** `r7161787`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.742 |
-| Polierter Andesit | `polished_andesite` | 183 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
-| Fichtenholz-Bretter | `spruce_planks` | 21 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.81 – Reihenhaus an Via San Gallo – Teil 6/6 (Y 93–99)
-
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 98 bis 104
 - **Blöcke:** 1.816
 - **Bauteile:** `r7161787`
 
@@ -2525,9 +3004,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.82 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 5.98 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 68–83)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 68 bis 83
 - **Blöcke:** 985
 - **Bauteile:** `r7161787_innen`
 
@@ -2567,9 +3046,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.83 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 5.99 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 84–92)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.832
 - **Bauteile:** `r7161787_innen`
 
@@ -2609,17 +3088,24 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.84 – Palazzo des Ottocento an Via San Gallo – Teil 1/11 (Y 63–63)
+### Schritt 5.100 – Palazzo des Ottocento an Via San Gallo – Teil 1/12 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.573
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 894
 - **Bauteile:** `r7161792`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.573 |
+| Tuffstein | `tuff` | 891 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -2637,18 +3123,53 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.85 – Palazzo des Ottocento an Via San Gallo – Teil 2/11 (Y 63–64)
+### Schritt 5.101 – Palazzo des Ottocento an Via San Gallo – Teil 2/12 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.995
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.570
 - **Bauteile:** `r7161792`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.636 |
-| Weißer Beton | `white_concrete` | 292 |
+| Polierter Tuffstein | `polished_tuff` | 1.567 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.102 – Palazzo des Ottocento an Via San Gallo – Teil 3/12 (Y 68–69)
+
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 2.031
+- **Bauteile:** `r7161792`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.637 |
+| Weißer Beton | `white_concrete` | 327 |
 | Graues Buntglas | `gray_stained_glass` | 38 |
 | Glatter Stein | `smooth_stone` | 22 |
 | Polierter Andesit | `polished_andesite` | 7 |
@@ -2669,17 +3190,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.86 – Palazzo des Ottocento an Via San Gallo – Teil 3/11 (Y 65–69)
+### Schritt 5.103 – Palazzo des Ottocento an Via San Gallo – Teil 4/12 (Y 70–74)
 
-- **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.783
+- **Y-Bereich:** 70 bis 74
+- **Blöcke:** 1.818
 - **Bauteile:** `r7161792`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.274 |
+| Weißer Beton | `white_concrete` | 1.309 |
 | Graues Buntglas | `gray_stained_glass` | 250 |
 | Glatter Stein | `smooth_stone` | 110 |
 | Hellgrauer Beton | `light_gray_concrete` | 96 |
@@ -2702,19 +3223,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.87 – Palazzo des Ottocento an Via San Gallo – Teil 4/11 (Y 70–73)
+### Schritt 5.104 – Palazzo des Ottocento an Via San Gallo – Teil 5/12 (Y 75–79)
 
-- **Y-Bereich:** 70 bis 73
-- **Blöcke:** 1.486
+- **Y-Bereich:** 75 bis 79
+- **Blöcke:** 1.879
 - **Bauteile:** `r7161792`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.108 |
+| Weißer Beton | `white_concrete` | 1.321 |
+| Glatter Stein | `smooth_stone` | 303 |
 | Graues Buntglas | `gray_stained_glass` | 138 |
-| Glatter Stein | `smooth_stone` | 123 |
 | Hellgrauer Beton | `light_gray_concrete` | 77 |
 | Grüner Beton | `green_concrete` | 22 |
 | Polierter Andesit | `polished_andesite` | 18 |
@@ -2735,22 +3256,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.88 – Palazzo des Ottocento an Via San Gallo – Teil 5/11 (Y 74–78)
+### Schritt 5.105 – Palazzo des Ottocento an Via San Gallo – Teil 6/12 (Y 80–84)
 
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.915
+- **Y-Bereich:** 80 bis 84
+- **Blöcke:** 1.890
 - **Bauteile:** `r7161792`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.405 |
-| Glatter Stein | `smooth_stone` | 180 |
-| Hellgrauer Beton | `light_gray_concrete` | 166 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-| Grüner Beton | `green_concrete` | 66 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Weißer Beton | `white_concrete` | 1.443 |
+| Hellgrauer Beton | `light_gray_concrete` | 208 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Grüner Beton | `green_concrete` | 99 |
+| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
@@ -2768,19 +3288,84 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.89 – Palazzo des Ottocento an Via San Gallo – Teil 6/11 (Y 79–83)
+### Schritt 5.106 – Palazzo des Ottocento an Via San Gallo – Teil 7/12 (Y 85–88)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.915
+- **Y-Bereich:** 85 bis 88
+- **Blöcke:** 1.547
 - **Bauteile:** `r7161792`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.281 |
-| Hellgrauer Beton | `light_gray_concrete` | 369 |
+| Weißer Beton | `white_concrete` | 1.030 |
+| Hellgrauer Beton | `light_gray_concrete` | 327 |
 | Glatter Stein | `smooth_stone` | 103 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+| Grüner Beton | `green_concrete` | 33 |
+| Polierter Andesit | `polished_andesite` | 14 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.107 – Palazzo des Ottocento an Via San Gallo – Teil 8/12 (Y 89–93)
+
+- **Y-Bereich:** 89 bis 93
+- **Blöcke:** 1.890
+- **Bauteile:** `r7161792`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.438 |
+| Hellgrauer Beton | `light_gray_concrete` | 208 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Grüner Beton | `green_concrete` | 99 |
+| Polierter Andesit | `polished_andesite` | 25 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.108 – Palazzo des Ottocento an Via San Gallo – Teil 9/12 (Y 94–97)
+
+- **Y-Bereich:** 94 bis 97
+- **Blöcke:** 1.626
+- **Bauteile:** `r7161792`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.073 |
+| Hellgrauer Beton | `light_gray_concrete` | 287 |
+| Glatter Stein | `smooth_stone` | 104 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Grüner Beton | `green_concrete` | 66 |
 | Polierter Andesit | `polished_andesite` | 16 |
@@ -2801,75 +3386,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.90 – Palazzo des Ottocento an Via San Gallo – Teil 7/11 (Y 84–87)
+### Schritt 5.109 – Palazzo des Ottocento an Via San Gallo – Teil 10/12 (Y 98–99)
 
-- **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.522
-- **Bauteile:** `r7161792`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.192 |
-| Hellgrauer Beton | `light_gray_concrete` | 166 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-| Grüner Beton | `green_concrete` | 66 |
-| Polierter Andesit | `polished_andesite` | 18 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.91 – Palazzo des Ottocento an Via San Gallo – Teil 8/11 (Y 88–92)
-
-- **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.994
-- **Bauteile:** `r7161792`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.319 |
-| Hellgrauer Beton | `light_gray_concrete` | 329 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 104 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 23 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.92 – Palazzo des Ottocento an Via San Gallo – Teil 9/11 (Y 93–94)
-
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.894
+- **Y-Bereich:** 98 bis 99
+- **Blöcke:** 1.898
 - **Bauteile:** `r7161792`
 
 **Teileliste**
@@ -2878,7 +3398,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.273 |
 | Weißer Beton | `white_concrete` | 391 |
-| Glatter Stein | `smooth_stone` | 228 |
+| Glatter Stein | `smooth_stone` | 232 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -2897,9 +3417,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.93 – Palazzo des Ottocento an Via San Gallo – Teil 10/11 (Y 95–96)
+### Schritt 5.110 – Palazzo des Ottocento an Via San Gallo – Teil 11/12 (Y 100–101)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 100 bis 101
 - **Blöcke:** 1.345
 - **Bauteile:** `r7161792`
 
@@ -2925,9 +3445,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.94 – Palazzo des Ottocento an Via San Gallo – Teil 11/11 (Y 97–104)
+### Schritt 5.111 – Palazzo des Ottocento an Via San Gallo – Teil 12/12 (Y 102–109)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 102 bis 109
 - **Blöcke:** 1.847
 - **Bauteile:** `r7161792`
 
@@ -2954,10 +3474,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.95 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 5.112 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 1/4 (Y 68–79)
 
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.514
+- **Y-Bereich:** 68 bis 79
+- **Blöcke:** 1.510
 - **Bauteile:** `r7161792_innen`
 
 **Teileliste**
@@ -2966,19 +3486,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.437 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 23 |
+| Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2996,9 +3513,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.96 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 5.113 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 2/4 (Y 79–79)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.381
 - **Bauteile:** `r7161792_innen`
 
@@ -3006,8 +3523,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.370 |
-| Seelaterne | `sea_lantern` | 9 |
+| Terrakotta | `terracotta` | 1.371 |
+| Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -3032,10 +3549,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.97 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 5.114 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 3/4 (Y 80–88)
 
-- **Y-Bereich:** 75 bis 83
-- **Blöcke:** 1.490
+- **Y-Bereich:** 80 bis 88
+- **Blöcke:** 1.493
 - **Bauteile:** `r7161792_innen`
 
 **Teileliste**
@@ -3049,12 +3566,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -3072,9 +3593,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.98 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 5.115 – Palazzo des Ottocento an Via San Gallo: Innenausbau – Teil 4/4 (Y 88–89)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.390
 - **Bauteile:** `r7161792_innen`
 
@@ -3082,14 +3603,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.370 |
-| Seelaterne | `sea_lantern` | 9 |
+| Terrakotta | `terracotta` | 1.371 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3114,9 +3635,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.99 – Ex oratorio di Gesù Pellegrino – Teil 1/5 (Y 63–67)
+### Schritt 5.116 – Ex oratorio di Gesù Pellegrino – Teil 1/5 (Y 67–71)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.733
 - **Bauteile:** `w306240095`
 
@@ -3147,9 +3668,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.100 – Ex oratorio di Gesù Pellegrino – Teil 2/5 (Y 68–75)
+### Schritt 5.117 – Ex oratorio di Gesù Pellegrino – Teil 2/5 (Y 72–79)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.804
 - **Bauteile:** `w306240095`
 
@@ -3179,9 +3700,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.101 – Ex oratorio di Gesù Pellegrino – Teil 3/5 (Y 76–84)
+### Schritt 5.118 – Ex oratorio di Gesù Pellegrino – Teil 3/5 (Y 80–88)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 2.029
 - **Bauteile:** `w306240095`
 
@@ -3210,9 +3731,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.102 – Ex oratorio di Gesù Pellegrino – Teil 4/5 (Y 85–91)
+### Schritt 5.119 – Ex oratorio di Gesù Pellegrino – Teil 4/5 (Y 89–95)
 
-- **Y-Bereich:** 85 bis 91
+- **Y-Bereich:** 89 bis 95
 - **Blöcke:** 1.568
 - **Bauteile:** `w306240095`
 
@@ -3241,9 +3762,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.103 – Ex oratorio di Gesù Pellegrino – Teil 5/5 (Y 92–100)
+### Schritt 5.120 – Ex oratorio di Gesù Pellegrino – Teil 5/5 (Y 96–104)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 96 bis 104
 - **Blöcke:** 1.976
 - **Bauteile:** `w306240095`
 
@@ -3273,9 +3794,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.104 – Ex oratorio di Gesù Pellegrino: Innenausbau
+### Schritt 5.121 – Ex oratorio di Gesù Pellegrino: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 67 bis 87
 - **Blöcke:** 1.362
 - **Bauteile:** `w306240095_innen`
 
@@ -3311,18 +3832,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.105 – Casino mediceo di San Marco
+### Schritt 5.122 – Casino mediceo di San Marco
 
-- **Y-Bereich:** 63 bis 98
-- **Blöcke:** 1.674
+- **Y-Bereich:** 69 bis 104
+- **Blöcke:** 1.684
 - **Bauteile:** `w306240099`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.283 |
-| Terrakotta | `terracotta` | 118 |
+| Gelbe Keramik | `yellow_terracotta` | 1.294 |
+| Terrakotta | `terracotta` | 117 |
 | Polierter Tuffstein | `polished_tuff` | 98 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 | Grüner Beton | `green_concrete` | 71 |
@@ -3346,17 +3867,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.106 – Casino mediceo di San Marco: Innenausbau & Reihenhaus an Via Camillo Cavour – Teil 1/2 (Y 63–79)
+### Schritt 5.123 – Casino mediceo di San Marco: Innenausbau & Reihenhaus an Via Camillo Cavour – Teil 1/2 (Y 69–85)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.631
+- **Y-Bereich:** 69 bis 85
+- **Blöcke:** 1.643
 - **Bauteile:** `w306240099_innen`, `w306240101`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 994 |
+| Rosa Keramik | `pink_terracotta` | 1.006 |
 | Weißer Beton | `white_concrete` | 311 |
 | Polierter Tuffstein | `polished_tuff` | 209 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
@@ -3379,10 +3900,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.107 – Reihenhaus an Via Camillo Cavour – Teil 2/2 (Y 80–95)
+### Schritt 5.124 – Reihenhaus an Via Camillo Cavour – Teil 2/2 (Y 86–101)
 
-- **Y-Bereich:** 80 bis 95
-- **Blöcke:** 1.663
+- **Y-Bereich:** 86 bis 101
+- **Blöcke:** 1.664
 - **Bauteile:** `w306240101`
 
 **Teileliste**
@@ -3391,9 +3912,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 756 |
 | Weißer Beton | `white_concrete` | 388 |
-| Terrakotta | `terracotta` | 315 |
+| Terrakotta | `terracotta` | 312 |
 | Graues Buntglas | `gray_stained_glass` | 108 |
-| Fichtenholz-Bretter | `spruce_planks` | 96 |
+| Fichtenholz-Bretter | `spruce_planks` | 100 |
 
 **Beschreibung**
 
@@ -3411,55 +3932,61 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.108 – Reihenhaus an Via Camillo Cavour: Innenausbau
+### Schritt 5.125 – Reihenhaus an Via Camillo Cavour: Innenausbau & Palazzina della Livia – Teil 1/8 (Y 68–69)
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 432
-- **Bauteile:** `w306240101_innen`
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 1.867
+- **Bauteile:** `w306240101_innen`, `w306252415`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 318 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 4 |
+| Polierter Tuffstein | `polished_tuff` | 1.613 |
+| Tuffstein | `tuff` | 249 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+| Seelaterne | `sea_lantern` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.109 – Palazzina della Livia – Teil 1/8 (Y 63–63)
+### Schritt 5.126 – Palazzina della Livia – Teil 2/8 (Y 70–74)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.616
+- **Y-Bereich:** 70 bis 74
+- **Blöcke:** 1.529
 - **Bauteile:** `w306252415`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.616 |
+| Endsteinziegel | `end_stone_bricks` | 1.254 |
+| Weißer Beton | `white_concrete` | 108 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 48 |
+| Polierter Andesit | `polished_andesite` | 33 |
+| Glatter Stein | `smooth_stone` | 19 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
@@ -3477,9 +4004,43 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.110 – Palazzina della Livia – Teil 2/8 (Y 64–69)
+### Schritt 5.127 – Palazzina della Livia – Teil 3/8 (Y 75–79)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 75 bis 79
+- **Blöcke:** 1.557
+- **Bauteile:** `w306252415`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.211 |
+| Glatter Stein | `smooth_stone` | 131 |
+| Weißer Beton | `white_concrete` | 108 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Grüner Beton | `green_concrete` | 24 |
+| Polierter Andesit | `polished_andesite` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.128 – Palazzina della Livia – Teil 4/8 (Y 80–85)
+
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.830
 - **Bauteile:** `w306252415`
 
@@ -3487,77 +4048,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.464 |
-| Weißer Beton | `white_concrete` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-| Grüner Beton | `green_concrete` | 72 |
-| Polierter Andesit | `polished_andesite` | 39 |
-| Glatter Stein | `smooth_stone` | 19 |
-| Tuffsteinziegel | `tuff_bricks` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.111 – Palazzina della Livia – Teil 3/8 (Y 70–74)
-
-- **Y-Bereich:** 70 bis 74
-- **Blöcke:** 1.573
-- **Bauteile:** `w306252415`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.311 |
-| Glatter Stein | `smooth_stone` | 131 |
-| Weißer Beton | `white_concrete` | 82 |
-| Graues Buntglas | `gray_stained_glass` | 26 |
-| Polierter Andesit | `polished_andesite` | 23 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.112 – Palazzina della Livia – Teil 4/8 (Y 75–79)
-
-- **Y-Bereich:** 75 bis 79
-- **Blöcke:** 1.513
-- **Bauteile:** `w306252415`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.080 |
+| Endsteinziegel | `end_stone_bricks` | 1.390 |
 | Weißer Beton | `white_concrete` | 177 |
 | Graues Buntglas | `gray_stained_glass` | 128 |
 | Grüner Beton | `green_concrete` | 108 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
@@ -3575,9 +4070,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.113 – Palazzina della Livia – Teil 5/8 (Y 80–85)
+### Schritt 5.129 – Palazzina della Livia – Teil 5/8 (Y 86–91)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.884
 - **Bauteile:** `w306252415`
 
@@ -3608,9 +4103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.114 – Palazzina della Livia – Teil 6/8 (Y 86–90)
+### Schritt 5.130 – Palazzina della Livia – Teil 6/8 (Y 92–96)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.495
 - **Bauteile:** `w306252415`
 
@@ -3640,9 +4135,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.115 – Palazzina della Livia – Teil 7/8 (Y 91–94)
+### Schritt 5.131 – Palazzina della Livia – Teil 7/8 (Y 97–100)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 97 bis 100
 - **Blöcke:** 2.031
 - **Bauteile:** `w306252415`
 
@@ -3672,9 +4167,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.116 – Palazzina della Livia – Teil 8/8 (Y 95–101)
+### Schritt 5.132 – Palazzina della Livia – Teil 8/8 (Y 101–107)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.421
 - **Bauteile:** `w306252415`
 
@@ -3701,9 +4196,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.117 – Palazzina della Livia: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 5.133 – Palazzina della Livia: Innenausbau – Teil 1/2 (Y 69–79)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.353
 - **Bauteile:** `w306252415_innen`
 
@@ -3739,9 +4234,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.118 – Palazzina della Livia: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 5.134 – Palazzina della Livia: Innenausbau – Teil 2/2 (Y 80–90)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.347
 - **Bauteile:** `w306252415_innen`
 
@@ -3779,19 +4274,54 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.119 – Reihenhaus an Via San Gallo – Teil 1/4 (Y 63–69)
+### Schritt 5.135 – Reihenhaus an Via San Gallo – Teil 1/5 (Y 66–69)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.867
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.787
 - **Bauteile:** `w487162455`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.019 |
-| Polierter Tuffstein | `polished_tuff` | 768 |
-| Weißer Beton | `white_concrete` | 38 |
+| Tuffstein | `tuff` | 1.019 |
+| Polierter Tuffstein | `polished_tuff` | 762 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.136 – Reihenhaus an Via San Gallo – Teil 2/5 (Y 70–78)
+
+- **Y-Bereich:** 70 bis 78
+- **Blöcke:** 1.666
+- **Bauteile:** `w487162455`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.572 |
+| Weißer Beton | `white_concrete` | 52 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Fichtenholz-Bretter | `spruce_planks` | 6 |
@@ -3812,20 +4342,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.120 – Reihenhaus an Via San Gallo – Teil 2/4 (Y 70–79)
+### Schritt 5.137 – Reihenhaus an Via San Gallo – Teil 3/5 (Y 79–87)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.875
+- **Y-Bereich:** 79 bis 87
+- **Blöcke:** 1.681
 - **Bauteile:** `w487162455`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.734 |
-| Weißer Beton | `white_concrete` | 111 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
-| Fichtenholz-Bretter | `spruce_planks` | 9 |
+| Endsteinziegel | `end_stone_bricks` | 1.515 |
+| Weißer Beton | `white_concrete` | 126 |
+| Graues Buntglas | `gray_stained_glass` | 28 |
+| Fichtenholz-Bretter | `spruce_planks` | 12 |
 
 **Beschreibung**
 
@@ -3843,18 +4373,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.121 – Reihenhaus an Via San Gallo – Teil 3/4 (Y 80–89)
+### Schritt 5.138 – Reihenhaus an Via San Gallo – Teil 4/5 (Y 88–96)
 
-- **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.865
+- **Y-Bereich:** 88 bis 96
+- **Blöcke:** 1.676
 - **Bauteile:** `w487162455`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.678 |
-| Weißer Beton | `white_concrete` | 137 |
+| Endsteinziegel | `end_stone_bricks` | 1.507 |
+| Weißer Beton | `white_concrete` | 119 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Fichtenholz-Bretter | `spruce_planks` | 15 |
 
@@ -3874,10 +4404,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.122 – Reihenhaus an Via San Gallo – Teil 4/4 (Y 90–98)
+### Schritt 5.139 – Reihenhaus an Via San Gallo – Teil 5/5 (Y 97–104)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.813
+- **Y-Bereich:** 97 bis 104
+- **Blöcke:** 1.629
 - **Bauteile:** `w487162455`
 
 **Teileliste**
@@ -3885,11 +4415,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 958 |
-| Endsteinziegel | `end_stone_bricks` | 738 |
-| Weißer Beton | `white_concrete` | 57 |
+| Endsteinziegel | `end_stone_bricks` | 575 |
 | Ziegelsteine | `bricks` | 50 |
-| Graues Buntglas | `gray_stained_glass` | 7 |
-| Fichtenholz-Bretter | `spruce_planks` | 3 |
+| Weißer Beton | `white_concrete` | 46 |
 
 **Beschreibung**
 
@@ -3907,9 +4435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.123 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 5.140 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 69 bis 92
 - **Blöcke:** 1.839
 - **Bauteile:** `w487162455_innen`
 
@@ -3945,9 +4473,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.124 – Reihenhaus an Via San Gallo – Teil 1/5 (Y 63–67)
+### Schritt 5.141 – Reihenhaus an Via San Gallo – Teil 1/5 (Y 67–71)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.600
 - **Bauteile:** `w487162462`
 
@@ -3978,9 +4506,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.125 – Reihenhaus an Via San Gallo – Teil 2/5 (Y 68–75)
+### Schritt 5.142 – Reihenhaus an Via San Gallo – Teil 2/5 (Y 72–79)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.718
 - **Bauteile:** `w487162462`
 
@@ -4011,9 +4539,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.126 – Reihenhaus an Via San Gallo – Teil 3/5 (Y 76–83)
+### Schritt 5.143 – Reihenhaus an Via San Gallo – Teil 3/5 (Y 80–87)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.716
 - **Bauteile:** `w487162462`
 
@@ -4042,9 +4570,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.127 – Reihenhaus an Via San Gallo – Teil 4/5 (Y 84–90)
+### Schritt 5.144 – Reihenhaus an Via San Gallo – Teil 4/5 (Y 88–94)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.506
 - **Bauteile:** `w487162462`
 
@@ -4073,9 +4601,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.128 – Reihenhaus an Via San Gallo – Teil 5/5 (Y 91–98)
+### Schritt 5.145 – Reihenhaus an Via San Gallo – Teil 5/5 (Y 95–102)
 
-- **Y-Bereich:** 91 bis 98
+- **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.730
 - **Bauteile:** `w487162462`
 
@@ -4105,9 +4633,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.129 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 5.146 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.766
 - **Bauteile:** `w487162462_innen`
 
@@ -4147,9 +4675,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.130 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 63–63)
+### Schritt 5.147 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.755
 - **Bauteile:** `w487162481`
 
@@ -4175,9 +4703,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.131 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 64–69)
+### Schritt 5.148 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 68–73)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.399
 - **Bauteile:** `w487162481`
 
@@ -4205,9 +4733,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.132 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 70–76)
+### Schritt 5.149 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 74–80)
 
-- **Y-Bereich:** 70 bis 76
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.709
 - **Bauteile:** `w487162481`
 
@@ -4236,9 +4764,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.133 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 77–83)
+### Schritt 5.150 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 81–87)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.701
 - **Bauteile:** `w487162481`
 
@@ -4267,9 +4795,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.134 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 84–89)
+### Schritt 5.151 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 88–93)
 
-- **Y-Bereich:** 84 bis 89
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.466
 - **Bauteile:** `w487162481`
 
@@ -4298,9 +4826,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.135 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 90–94)
+### Schritt 5.152 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 94–98)
 
-- **Y-Bereich:** 90 bis 94
+- **Y-Bereich:** 94 bis 98
 - **Blöcke:** 1.786
 - **Bauteile:** `w487162481`
 
@@ -4330,9 +4858,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.136 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 95–100)
+### Schritt 5.153 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 99–104)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 99 bis 104
 - **Blöcke:** 1.549
 - **Bauteile:** `w487162481`
 
@@ -4359,9 +4887,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.137 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 5.154 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.560
 - **Bauteile:** `w487162481_innen`
 
@@ -4397,9 +4925,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.138 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 5.155 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/3 (Y 77–83)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.546
 - **Bauteile:** `w487162481_innen`
 
@@ -4437,9 +4965,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.139 – Reihenhaus an Via San Gallo: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 5.156 – Reihenhaus an Via San Gallo: Innenausbau – Teil 3/3 (Y 84–91)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.558
 - **Bauteile:** `w487162481_innen`
 
@@ -4479,17 +5007,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.140 – Reihenhaus an Via degli Arazzieri – Teil 1/26 (Y 63–63)
+### Schritt 5.157 – Reihenhaus an Via degli Arazzieri – Teil 1/31 (Y 67–68)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.910
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.327
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.910 |
+| Tuffstein | `tuff` | 1.327 |
 
 **Beschreibung**
 
@@ -4507,17 +5035,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.141 – Reihenhaus an Via degli Arazzieri – Teil 2/26 (Y 63–63)
+### Schritt 5.158 – Reihenhaus an Via degli Arazzieri – Teil 2/31 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.985
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.358
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.985 |
+| Tuffstein | `tuff` | 1.355 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -4535,17 +5071,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.142 – Reihenhaus an Via degli Arazzieri – Teil 3/26 (Y 63–63)
+### Schritt 5.159 – Reihenhaus an Via degli Arazzieri – Teil 3/31 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.908
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.557
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.908 |
+| Tuffstein | `tuff` | 1.555 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -4563,9 +5107,164 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.143 – Reihenhaus an Via degli Arazzieri – Teil 4/26 (Y 64–64)
+### Schritt 5.160 – Reihenhaus an Via degli Arazzieri – Teil 4/31 (Y 69–69)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.545
+- **Bauteile:** `w487162485`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.544 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.161 – Reihenhaus an Via degli Arazzieri – Teil 5/31 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.561
+- **Bauteile:** `w487162485`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.561 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.162 – Reihenhaus an Via degli Arazzieri – Teil 6/31 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.956
+- **Bauteile:** `w487162485`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.953 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.163 – Reihenhaus an Via degli Arazzieri – Teil 7/31 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.935
+- **Bauteile:** `w487162485`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.935 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.164 – Reihenhaus an Via degli Arazzieri – Teil 8/31 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.907
+- **Bauteile:** `w487162485`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.907 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.165 – Reihenhaus an Via degli Arazzieri – Teil 9/31 (Y 71–71)
+
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 771
 - **Bauteile:** `w487162485`
 
@@ -4593,9 +5292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.144 – Reihenhaus an Via degli Arazzieri – Teil 5/26 (Y 65–65)
+### Schritt 5.166 – Reihenhaus an Via degli Arazzieri – Teil 10/31 (Y 72–72)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 771
 - **Bauteile:** `w487162485`
 
@@ -4623,9 +5322,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.145 – Reihenhaus an Via degli Arazzieri – Teil 6/26 (Y 66–67)
+### Schritt 5.167 – Reihenhaus an Via degli Arazzieri – Teil 11/31 (Y 73–74)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.539
 - **Bauteile:** `w487162485`
 
@@ -4654,9 +5353,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.146 – Reihenhaus an Via degli Arazzieri – Teil 7/26 (Y 68–69)
+### Schritt 5.168 – Reihenhaus an Via degli Arazzieri – Teil 12/31 (Y 75–76)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.438
 - **Bauteile:** `w487162485`
 
@@ -4685,9 +5384,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.147 – Reihenhaus an Via degli Arazzieri – Teil 8/26 (Y 70–71)
+### Schritt 5.169 – Reihenhaus an Via degli Arazzieri – Teil 13/31 (Y 77–78)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.568
 - **Bauteile:** `w487162485`
 
@@ -4715,9 +5414,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.148 – Reihenhaus an Via degli Arazzieri – Teil 9/26 (Y 72–72)
+### Schritt 5.170 – Reihenhaus an Via degli Arazzieri – Teil 14/31 (Y 79–79)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 788
 - **Bauteile:** `w487162485`
 
@@ -4743,9 +5442,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.149 – Reihenhaus an Via degli Arazzieri – Teil 10/26 (Y 73–74)
+### Schritt 5.171 – Reihenhaus an Via degli Arazzieri – Teil 15/31 (Y 80–81)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.573
 - **Bauteile:** `w487162485`
 
@@ -4774,9 +5473,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.150 – Reihenhaus an Via degli Arazzieri – Teil 11/26 (Y 75–76)
+### Schritt 5.172 – Reihenhaus an Via degli Arazzieri – Teil 16/31 (Y 82–83)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.440
 - **Bauteile:** `w487162485`
 
@@ -4805,9 +5504,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.151 – Reihenhaus an Via degli Arazzieri – Teil 12/26 (Y 77–78)
+### Schritt 5.173 – Reihenhaus an Via degli Arazzieri – Teil 17/31 (Y 84–85)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.508
 - **Bauteile:** `w487162485`
 
@@ -4836,9 +5535,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.152 – Reihenhaus an Via degli Arazzieri – Teil 13/26 (Y 79–80)
+### Schritt 5.174 – Reihenhaus an Via degli Arazzieri – Teil 18/31 (Y 86–87)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.641
 - **Bauteile:** `w487162485`
 
@@ -4865,9 +5564,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.153 – Reihenhaus an Via degli Arazzieri – Teil 14/26 (Y 81–82)
+### Schritt 5.175 – Reihenhaus an Via degli Arazzieri – Teil 19/31 (Y 88–89)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.440
 - **Bauteile:** `w487162485`
 
@@ -4896,9 +5595,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.154 – Reihenhaus an Via degli Arazzieri – Teil 15/26 (Y 83–84)
+### Schritt 5.176 – Reihenhaus an Via degli Arazzieri – Teil 20/31 (Y 90–91)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.440
 - **Bauteile:** `w487162485`
 
@@ -4927,9 +5626,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.155 – Reihenhaus an Via degli Arazzieri – Teil 16/26 (Y 85–86)
+### Schritt 5.177 – Reihenhaus an Via degli Arazzieri – Teil 21/31 (Y 92–93)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.576
 - **Bauteile:** `w487162485`
 
@@ -4956,9 +5655,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.156 – Reihenhaus an Via degli Arazzieri – Teil 17/26 (Y 87–88)
+### Schritt 5.178 – Reihenhaus an Via degli Arazzieri – Teil 22/31 (Y 94–95)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.641
 - **Bauteile:** `w487162485`
 
@@ -4985,9 +5684,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.157 – Reihenhaus an Via degli Arazzieri – Teil 18/26 (Y 89–90)
+### Schritt 5.179 – Reihenhaus an Via degli Arazzieri – Teil 23/31 (Y 96–97)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.440
 - **Bauteile:** `w487162485`
 
@@ -5016,17 +5715,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.158 – Reihenhaus an Via degli Arazzieri – Teil 19/26 (Y 91–92)
+### Schritt 5.180 – Reihenhaus an Via degli Arazzieri – Teil 24/31 (Y 98–99)
 
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.625
+- **Y-Bereich:** 98 bis 99
+- **Blöcke:** 1.699
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.045 |
+| Glatter Sandstein | `smooth_sandstone` | 1.119 |
 | Polierter Andesit | `polished_andesite` | 307 |
 | Fichtenholz-Bretter | `spruce_planks` | 117 |
 | Graues Buntglas | `gray_stained_glass` | 101 |
@@ -5048,18 +5747,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.159 – Reihenhaus an Via degli Arazzieri – Teil 20/26 (Y 93–93)
+### Schritt 5.181 – Reihenhaus an Via degli Arazzieri – Teil 25/31 (Y 100–100)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.303
+- **Y-Bereich:** 100 bis 100
+- **Blöcke:** 1.446
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 788 |
-| Fichtenholz-Bretter | `spruce_planks` | 515 |
+| Glatter Sandstein | `smooth_sandstone` | 927 |
+| Fichtenholz-Bretter | `spruce_planks` | 519 |
 
 **Beschreibung**
 
@@ -5077,17 +5776,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.160 – Reihenhaus an Via degli Arazzieri – Teil 21/26 (Y 94–94)
+### Schritt 5.182 – Reihenhaus an Via degli Arazzieri – Teil 26/31 (Y 101–101)
 
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.277
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.280
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.277 |
+| Terrakotta | `terracotta` | 1.280 |
 
 **Beschreibung**
 
@@ -5105,17 +5804,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.161 – Reihenhaus an Via degli Arazzieri – Teil 22/26 (Y 94–94)
+### Schritt 5.183 – Reihenhaus an Via degli Arazzieri – Teil 27/31 (Y 101–101)
 
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.269
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.271
 - **Bauteile:** `w487162485`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.269 |
+| Terrakotta | `terracotta` | 1.271 |
 
 **Beschreibung**
 
@@ -5133,9 +5832,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.162 – Reihenhaus an Via degli Arazzieri – Teil 23/26 (Y 95–95)
+### Schritt 5.184 – Reihenhaus an Via degli Arazzieri – Teil 28/31 (Y 102–102)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.299
 - **Bauteile:** `w487162485`
 
@@ -5161,9 +5860,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.163 – Reihenhaus an Via degli Arazzieri – Teil 24/26 (Y 96–96)
+### Schritt 5.185 – Reihenhaus an Via degli Arazzieri – Teil 29/31 (Y 103–103)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.277
 - **Bauteile:** `w487162485`
 
@@ -5189,9 +5888,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.164 – Reihenhaus an Via degli Arazzieri – Teil 25/26 (Y 97–98)
+### Schritt 5.186 – Reihenhaus an Via degli Arazzieri – Teil 30/31 (Y 104–105)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 104 bis 105
 - **Blöcke:** 1.932
 - **Bauteile:** `w487162485`
 
@@ -5218,9 +5917,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.165 – Reihenhaus an Via degli Arazzieri – Teil 26/26 (Y 99–105)
+### Schritt 5.187 – Reihenhaus an Via degli Arazzieri – Teil 31/31 (Y 106–112)
 
-- **Y-Bereich:** 99 bis 105
+- **Y-Bereich:** 106 bis 112
 - **Blöcke:** 1.348
 - **Bauteile:** `w487162485`
 
@@ -5247,19 +5946,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.166 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 1/9 (Y 63–72)
+### Schritt 5.188 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 1/9 (Y 70–79)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.737
+- **Y-Bereich:** 70 bis 79
+- **Blöcke:** 1.740
 - **Bauteile:** `w487162485_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.655 |
-| Seelaterne | `sea_lantern` | 37 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Terrakotta | `terracotta` | 1.654 |
+| Seelaterne | `sea_lantern` | 38 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 11 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
 
@@ -5285,105 +5984,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.167 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 2/9 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.684
-- **Bauteile:** `w487162485_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.676 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 5.168 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 3/9 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.686
-- **Bauteile:** `w487162485_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.675 |
-| Seelaterne | `sea_lantern` | 11 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 5.169 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 4/9 (Y 73–79)
-
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.700
-- **Bauteile:** `w487162485_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.655 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 5.170 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 5/9 (Y 79–79)
+### Schritt 5.189 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 2/9 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.684
@@ -5393,8 +5994,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.676 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.678 |
+| Seelaterne | `sea_lantern` | 6 |
 
 **Beschreibung**
 
@@ -5412,7 +6013,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.171 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 6/9 (Y 79–79)
+### Schritt 5.190 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 3/9 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.686
@@ -5422,8 +6023,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.675 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.674 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Beschreibung**
 
@@ -5441,21 +6042,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.172 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 7/9 (Y 80–86)
+### Schritt 5.191 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 4/9 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
-- **Blöcke:** 1.701
+- **Blöcke:** 1.707
 - **Bauteile:** `w487162485_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.655 |
+| Terrakotta | `terracotta` | 1.654 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
-| Seelaterne | `sea_lantern` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -5479,7 +6082,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.173 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 8/9 (Y 86–86)
+### Schritt 5.192 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 5/9 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.684
@@ -5489,8 +6092,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.676 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 1.678 |
+| Seelaterne | `sea_lantern` | 6 |
 
 **Beschreibung**
 
@@ -5508,9 +6111,107 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.174 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 9/9 (Y 86–87)
+### Schritt 5.193 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 6/9 (Y 86–86)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.686
+- **Bauteile:** `w487162485_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.674 |
+| Seelaterne | `sea_lantern` | 12 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 5.194 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 7/9 (Y 87–93)
+
+- **Y-Bereich:** 87 bis 93
+- **Blöcke:** 1.704
+- **Bauteile:** `w487162485_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.654 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 5.195 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 8/9 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 1.684
+- **Bauteile:** `w487162485_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.678 |
+| Seelaterne | `sea_lantern` | 6 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 5.196 – Reihenhaus an Via degli Arazzieri: Innenausbau – Teil 9/9 (Y 93–94)
+
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.692
 - **Bauteile:** `w487162485_innen`
 
@@ -5518,8 +6219,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.675 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.674 |
+| Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 
@@ -5539,17 +6240,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.175 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 63–72)
+### Schritt 5.197 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.712
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.730
 - **Bauteile:** `w487162497`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.022 |
+| Endsteinziegel | `end_stone_bricks` | 1.040 |
 | Polierter Tuffstein | `polished_tuff` | 653 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
@@ -5571,9 +6272,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.176 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 73–86)
+### Schritt 5.198 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 77–90)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 77 bis 90
 - **Blöcke:** 1.712
 - **Bauteile:** `w487162497`
 
@@ -5601,19 +6302,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.177 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 87–98)
+### Schritt 5.199 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 91–102)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.764
+- **Y-Bereich:** 91 bis 102
+- **Blöcke:** 1.779
 - **Bauteile:** `w487162497`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 829 |
 | Endsteinziegel | `end_stone_bricks` | 824 |
-| Terrakotta | `terracotta` | 822 |
-| Fichtenholz-Bretter | `spruce_planks` | 62 |
+| Fichtenholz-Bretter | `spruce_planks` | 70 |
 | Ziegelsteine | `bricks` | 36 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
 
@@ -5633,10 +6334,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.178 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 5.200 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.704
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 1.699
 - **Bauteile:** `w487162497_innen`
 
 **Teileliste**
@@ -5644,20 +6345,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.563 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 8 |
-| Weiße Keramik | `white_terracotta` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Rote Keramik | `red_terracotta` | 7 |
+| Weiße Keramik | `white_terracotta` | 7 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -5675,19 +6374,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.179 – Reihenhaus an Via San Gallo – Teil 1/5 (Y 63–66)
+### Schritt 5.201 – Reihenhaus an Via San Gallo – Teil 1/5 (Y 67–69)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.815
+- **Y-Bereich:** 67 bis 69
+- **Blöcke:** 1.885
 - **Bauteile:** `w487162500`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.227 |
-| Glatter Sandstein | `smooth_sandstone` | 579 |
-| Glatter Stein | `smooth_stone` | 9 |
+| Polierter Tuffstein | `polished_tuff` | 1.222 |
+| Tuffstein | `tuff` | 657 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -5705,80 +6411,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.180 – Reihenhaus an Via San Gallo – Teil 2/5 (Y 67–75)
+### Schritt 5.202 – Reihenhaus an Via San Gallo – Teil 2/5 (Y 70–79)
 
-- **Y-Bereich:** 67 bis 75
-- **Blöcke:** 1.784
+- **Y-Bereich:** 70 bis 79
+- **Blöcke:** 1.996
 - **Bauteile:** `w487162500`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.703 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Grüner Beton | `green_concrete` | 15 |
+| Glatter Sandstein | `smooth_sandstone` | 1.936 |
+| Graues Buntglas | `gray_stained_glass` | 22 |
+| Glatter Stein | `smooth_stone` | 18 |
 | Polierter Andesit | `polished_andesite` | 11 |
-| Glatter Stein | `smooth_stone` | 9 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.181 – Reihenhaus an Via San Gallo – Teil 3/5 (Y 76–84)
-
-- **Y-Bereich:** 76 bis 84
-- **Blöcke:** 1.779
-- **Bauteile:** `w487162500`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.695 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.182 – Reihenhaus an Via San Gallo – Teil 4/5 (Y 85–93)
-
-- **Y-Bereich:** 85 bis 93
-- **Blöcke:** 1.923
-- **Bauteile:** `w487162500`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.866 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
 | Grüner Beton | `green_concrete` | 9 |
 
 **Beschreibung**
@@ -5797,17 +6443,78 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.183 – Reihenhaus an Via San Gallo – Teil 5/5 (Y 94–101)
+### Schritt 5.203 – Reihenhaus an Via San Gallo – Teil 3/5 (Y 80–89)
 
-- **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.683
+- **Y-Bereich:** 80 bis 89
+- **Blöcke:** 1.974
 - **Bauteile:** `w487162500`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.597 |
+| Glatter Sandstein | `smooth_sandstone` | 1.872 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
+| Grüner Beton | `green_concrete` | 18 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.204 – Reihenhaus an Via San Gallo – Teil 4/5 (Y 90–98)
+
+- **Y-Bereich:** 90 bis 98
+- **Blöcke:** 1.853
+- **Bauteile:** `w487162500`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.784 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+| Grüner Beton | `green_concrete` | 9 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.205 – Reihenhaus an Via San Gallo – Teil 5/5 (Y 99–107)
+
+- **Y-Bereich:** 99 bis 107
+- **Blöcke:** 1.949
+- **Bauteile:** `w487162500`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.595 |
+| Glatter Sandstein | `smooth_sandstone` | 268 |
 | Ziegelsteine | `bricks` | 86 |
 
 **Beschreibung**
@@ -5826,10 +6533,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.184 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 5.206 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 69–84)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.106
+- **Y-Bereich:** 69 bis 84
+- **Blöcke:** 1.107
 - **Bauteile:** `w487162500_innen`
 
 **Teileliste**
@@ -5837,18 +6544,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.016 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 |
 | Seelaterne | `sea_lantern` | 14 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
 
 **Beschreibung**
 
@@ -5866,9 +6571,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.185 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 5.207 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 85–93)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 2.086
 - **Bauteile:** `w487162500_innen`
 
@@ -5906,10 +6611,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.186 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 63–82)
+### Schritt 5.208 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 67–85)
 
-- **Y-Bereich:** 63 bis 82
-- **Blöcke:** 1.632
+- **Y-Bereich:** 67 bis 85
+- **Blöcke:** 1.677
 - **Bauteile:** `w487162506`
 
 **Teileliste**
@@ -5917,9 +6622,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 859 |
-| Endsteinziegel | `end_stone_bricks` | 543 |
-| Polierter Andesit | `polished_andesite` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
+| Endsteinziegel | `end_stone_bricks` | 604 |
+| Polierter Andesit | `polished_andesite` | 139 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
 
@@ -5937,10 +6642,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.187 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 83–100)
+### Schritt 5.209 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 86–104)
 
-- **Y-Bereich:** 83 bis 100
-- **Blöcke:** 1.630
+- **Y-Bereich:** 86 bis 104
+- **Blöcke:** 1.669
 - **Bauteile:** `w487162506`
 
 **Teileliste**
@@ -5948,10 +6653,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.077 |
-| Endsteinziegel | `end_stone_bricks` | 365 |
-| Polierter Andesit | `polished_andesite` | 98 |
+| Endsteinziegel | `end_stone_bricks` | 388 |
+| Polierter Andesit | `polished_andesite` | 107 |
 | Ziegelsteine | `bricks` | 55 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 
@@ -5969,10 +6674,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.188 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 5.210 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 67–82)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 892
+- **Y-Bereich:** 67 bis 82
+- **Blöcke:** 894
 - **Bauteile:** `w487162506_innen`
 
 **Teileliste**
@@ -5984,6 +6689,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
 | Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -6007,9 +6714,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.189 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 5.211 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 83–90)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.660
 - **Bauteile:** `w487162506_innen`
 
@@ -6045,21 +6752,29 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.190 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 63–80)
+### Schritt 5.212 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 66–77)
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.468
+- **Y-Bereich:** 66 bis 77
+- **Blöcke:** 1.999
 - **Bauteile:** `w487162516`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 800 |
-| Polierter Tuffstein | `polished_tuff` | 528 |
-| Polierter Andesit | `polished_andesite` | 103 |
-| Graues Buntglas | `gray_stained_glass` | 25 |
-| Fichtenholz-Bretter | `spruce_planks` | 12 |
+| Tuffstein | `tuff` | 1.043 |
+| Polierter Tuffstein | `polished_tuff` | 523 |
+| Rosa Keramik | `pink_terracotta` | 370 |
+| Polierter Andesit | `polished_andesite` | 42 |
+| Graues Buntglas | `gray_stained_glass` | 9 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
+| Fichtenholz-Bretter | `spruce_planks` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -6077,21 +6792,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.191 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 81–97)
+### Schritt 5.213 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 78–103)
 
-- **Y-Bereich:** 81 bis 97
-- **Blöcke:** 1.465
+- **Y-Bereich:** 78 bis 103
+- **Blöcke:** 2.034
 - **Bauteile:** `w487162516`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.102 |
 | Terrakotta | `terracotta` | 666 |
-| Rosa Keramik | `pink_terracotta` | 616 |
-| Fichtenholz-Bretter | `spruce_planks` | 78 |
-| Polierter Andesit | `polished_andesite` | 75 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
+| Polierter Andesit | `polished_andesite` | 136 |
+| Fichtenholz-Bretter | `spruce_planks` | 84 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
 | Ziegelsteine | `bricks` | 2 |
 
 **Beschreibung**
@@ -6110,31 +6825,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.192 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 5.214 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.536
+- **Y-Bereich:** 69 bis 93
+- **Blöcke:** 1.525
 - **Bauteile:** `w487162516_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.389 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Terrakotta | `terracotta` | 1.392 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
@@ -6152,17 +6865,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.193 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 63–63)
+### Schritt 5.215 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 67–68)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.639
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.981
 - **Bauteile:** `w487162526`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.639 |
+| Polierter Tuffstein | `polished_tuff` | 1.640 |
+| Tuffstein | `tuff` | 341 |
 
 **Beschreibung**
 
@@ -6180,20 +6894,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.194 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 64–69)
+### Schritt 5.216 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 69–73)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.224
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.023
 - **Bauteile:** `w487162526`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 977 |
-| Weißer Beton | `white_concrete` | 115 |
-| Grüner Beton | `green_concrete` | 60 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
+| Glatter Sandstein | `smooth_sandstone` | 839 |
+| Weißer Beton | `white_concrete` | 91 |
+| Grüner Beton | `green_concrete` | 40 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
 | Glatter Stein | `smooth_stone` | 15 |
 
 **Beschreibung**
@@ -6212,20 +6926,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.195 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 70–76)
+### Schritt 5.217 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 74–80)
 
-- **Y-Bereich:** 70 bis 76
-- **Blöcke:** 1.461
+- **Y-Bereich:** 74 bis 80
+- **Blöcke:** 1.463
 - **Bauteile:** `w487162526`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.156 |
-| Weißer Beton | `white_concrete` | 173 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Grüner Beton | `green_concrete` | 66 |
+| Glatter Sandstein | `smooth_sandstone` | 1.166 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 64 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
 
 **Beschreibung**
 
@@ -6243,9 +6957,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.196 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 77–83)
+### Schritt 5.218 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 81–87)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.461
 - **Bauteile:** `w487162526`
 
@@ -6274,20 +6988,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.197 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 84–90)
+### Schritt 5.219 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 88–95)
 
-- **Y-Bereich:** 84 bis 90
-- **Blöcke:** 1.478
+- **Y-Bereich:** 88 bis 95
+- **Blöcke:** 1.677
 - **Bauteile:** `w487162526`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.167 |
-| Weißer Beton | `white_concrete` | 223 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Grüner Beton | `green_concrete` | 44 |
+| Glatter Sandstein | `smooth_sandstone` | 1.295 |
+| Weißer Beton | `white_concrete` | 250 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 66 |
 
 **Beschreibung**
 
@@ -6305,10 +7019,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.198 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 91–94)
+### Schritt 5.220 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 96–99)
 
-- **Y-Bereich:** 91 bis 94
-- **Blöcke:** 1.513
+- **Y-Bereich:** 96 bis 99
+- **Blöcke:** 1.600
 - **Bauteile:** `w487162526`
 
 **Teileliste**
@@ -6316,7 +7030,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 865 |
-| Glatter Sandstein | `smooth_sandstone` | 528 |
+| Glatter Sandstein | `smooth_sandstone` | 615 |
 | Weißer Beton | `white_concrete` | 120 |
 
 **Beschreibung**
@@ -6335,9 +7049,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.199 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 95–100)
+### Schritt 5.221 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 100–105)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 100 bis 105
 - **Blöcke:** 1.304
 - **Bauteile:** `w487162526`
 
@@ -6364,19 +7078,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.200 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 5.222 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/3 (Y 68–77)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.478
+- **Y-Bereich:** 68 bis 77
+- **Blöcke:** 1.477
 - **Bauteile:** `w487162526_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.415 |
+| Terrakotta | `terracotta` | 1.416 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
@@ -6404,63 +7118,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.201 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 5.223 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/3 (Y 78–84)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.464
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 1.465
 - **Bauteile:** `w487162526_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.415 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 5.202 – Reihenhaus an Via San Gallo: Innenausbau – Teil 3/3 (Y 80–87)
-
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.473
-- **Bauteile:** `w487162526_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.415 |
+| Terrakotta | `terracotta` | 1.416 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Seelaterne | `sea_lantern` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -6486,23 +7160,74 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.203 – Haus w487162528 – Teil 1/4 (Y 63–69)
+### Schritt 5.224 – Reihenhaus an Via San Gallo: Innenausbau – Teil 3/3 (Y 85–92)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.506
+- **Y-Bereich:** 85 bis 92
+- **Blöcke:** 1.469
+- **Bauteile:** `w487162526_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.416 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 5.225 – Haus w487162528 – Teil 1/4 (Y 66–73)
+
+- **Y-Bereich:** 66 bis 73
+- **Blöcke:** 1.699
 - **Bauteile:** `w487162528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 644 |
-| Polierter Tuffstein | `polished_tuff` | 512 |
-| Glatter Stein | `smooth_stone` | 214 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
-| Grüner Beton | `green_concrete` | 42 |
-| Polierter Andesit | `polished_andesite` | 10 |
-| Tuffsteinziegel | `tuff_bricks` | 9 |
+| Polierter Tuffstein | `polished_tuff` | 507 |
+| Gelbe Keramik | `yellow_terracotta` | 494 |
+| Tuffstein | `tuff` | 486 |
+| Glatter Stein | `smooth_stone` | 159 |
+| Graues Buntglas | `gray_stained_glass` | 25 |
+| Grüner Beton | `green_concrete` | 14 |
+| Polierter Andesit | `polished_andesite` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -6520,20 +7245,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.204 – Haus w487162528 – Teil 2/4 (Y 70–79)
+### Schritt 5.226 – Haus w487162528 – Teil 2/4 (Y 74–83)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.629
+- **Y-Bereich:** 74 bis 83
+- **Blöcke:** 1.633
 - **Bauteile:** `w487162528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.060 |
-| Glatter Stein | `smooth_stone` | 350 |
-| Graues Buntglas | `gray_stained_glass` | 137 |
-| Grüner Beton | `green_concrete` | 82 |
+| Gelbe Keramik | `yellow_terracotta` | 1.062 |
+| Glatter Stein | `smooth_stone` | 353 |
+| Graues Buntglas | `gray_stained_glass` | 131 |
+| Grüner Beton | `green_concrete` | 76 |
+| Polierter Andesit | `polished_andesite` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -6551,20 +7278,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.205 – Haus w487162528 – Teil 3/4 (Y 80–88)
+### Schritt 5.227 – Haus w487162528 – Teil 3/4 (Y 84–94)
 
-- **Y-Bereich:** 80 bis 88
-- **Blöcke:** 1.456
+- **Y-Bereich:** 84 bis 94
+- **Blöcke:** 1.758
 - **Bauteile:** `w487162528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 874 |
-| Glatter Stein | `smooth_stone` | 357 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
-| Grüner Beton | `green_concrete` | 85 |
+| Gelbe Keramik | `yellow_terracotta` | 1.034 |
+| Glatter Stein | `smooth_stone` | 409 |
+| Graues Buntglas | `gray_stained_glass` | 196 |
+| Grüner Beton | `green_concrete` | 119 |
 
 **Beschreibung**
 
@@ -6582,17 +7309,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.206 – Haus w487162528 – Teil 4/4 (Y 89–95)
+### Schritt 5.228 – Haus w487162528 – Teil 4/4 (Y 95–101)
 
-- **Y-Bereich:** 89 bis 95
-- **Blöcke:** 1.571
+- **Y-Bereich:** 95 bis 101
+- **Blöcke:** 1.613
 - **Bauteile:** `w487162528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 729 |
+| Gelbe Keramik | `yellow_terracotta` | 771 |
 | Terrakotta | `terracotta` | 646 |
 | Glatter Stein | `smooth_stone` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
@@ -6614,10 +7341,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.207 – Haus w487162528: Innenausbau
+### Schritt 5.229 – Haus w487162528: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 775
+- **Y-Bereich:** 69 bis 89
+- **Blöcke:** 772
 - **Bauteile:** `w487162528_innen`
 
 **Teileliste**
@@ -6629,14 +7356,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
 | Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -6654,9 +7385,37 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.208 – Casino mediceo di San Marco – Teil 1/10 (Y 63–63)
+### Schritt 5.230 – Casino mediceo di San Marco – Teil 1/11 (Y 64–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.219
+- **Bauteile:** `w781509455`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.219 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.231 – Casino mediceo di San Marco – Teil 2/11 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.122
 - **Bauteile:** `w781509455`
 
@@ -6682,10 +7441,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.209 – Casino mediceo di San Marco – Teil 2/10 (Y 63–65)
+### Schritt 5.232 – Casino mediceo di San Marco – Teil 3/11 (Y 69–71)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.986
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 2.009
 - **Bauteile:** `w781509455`
 
 **Teileliste**
@@ -6693,7 +7452,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.129 |
-| Weißer Beton | `white_concrete` | 726 |
+| Weißer Beton | `white_concrete` | 749 |
 | Hellgrauer Beton | `light_gray_concrete` | 102 |
 | Polierter Andesit | `polished_andesite` | 22 |
 | Glatter Stein | `smooth_stone` | 4 |
@@ -6715,9 +7474,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.210 – Casino mediceo di San Marco – Teil 3/10 (Y 66–70)
+### Schritt 5.233 – Casino mediceo di San Marco – Teil 4/11 (Y 72–76)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.983
 - **Bauteile:** `w781509455`
 
@@ -6749,9 +7508,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.211 – Casino mediceo di San Marco – Teil 4/10 (Y 71–75)
+### Schritt 5.234 – Casino mediceo di San Marco – Teil 5/11 (Y 77–81)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 2.065
 - **Bauteile:** `w781509455`
 
@@ -6780,9 +7539,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.212 – Casino mediceo di San Marco – Teil 5/10 (Y 76–80)
+### Schritt 5.235 – Casino mediceo di San Marco – Teil 6/11 (Y 82–86)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 82 bis 86
 - **Blöcke:** 1.880
 - **Bauteile:** `w781509455`
 
@@ -6812,20 +7571,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.213 – Casino mediceo di San Marco – Teil 6/10 (Y 81–84)
+### Schritt 5.236 – Casino mediceo di San Marco – Teil 7/11 (Y 87–91)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.652
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 2.065
 - **Bauteile:** `w781509455`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.072 |
-| Hellgrauer Beton | `light_gray_concrete` | 412 |
+| Weißer Beton | `white_concrete` | 1.362 |
+| Hellgrauer Beton | `light_gray_concrete` | 530 |
 | Glatter Stein | `smooth_stone` | 135 |
-| Polierter Andesit | `polished_andesite` | 33 |
+| Polierter Andesit | `polished_andesite` | 38 |
 
 **Beschreibung**
 
@@ -6843,21 +7602,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.214 – Casino mediceo di San Marco – Teil 7/10 (Y 85–89)
+### Schritt 5.237 – Casino mediceo di San Marco – Teil 8/11 (Y 92–95)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.917
+- **Y-Bereich:** 92 bis 95
+- **Blöcke:** 1.504
 - **Bauteile:** `w781509455`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.244 |
-| Hellgrauer Beton | `light_gray_concrete` | 358 |
+| Weißer Beton | `white_concrete` | 954 |
+| Hellgrauer Beton | `light_gray_concrete` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 232 |
-| Polierter Andesit | `polished_andesite` | 43 |
 | Grüner Beton | `green_concrete` | 40 |
+| Polierter Andesit | `polished_andesite` | 38 |
 
 **Beschreibung**
 
@@ -6875,10 +7634,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.215 – Casino mediceo di San Marco – Teil 8/10 (Y 90–93)
+### Schritt 5.238 – Casino mediceo di San Marco – Teil 9/11 (Y 96–99)
 
-- **Y-Bereich:** 90 bis 93
-- **Blöcke:** 1.987
+- **Y-Bereich:** 96 bis 99
+- **Blöcke:** 1.988
 - **Bauteile:** `w781509455`
 
 **Teileliste**
@@ -6886,7 +7645,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.155 |
-| Fichtenholz-Bretter | `spruce_planks` | 372 |
+| Fichtenholz-Bretter | `spruce_planks` | 373 |
 | Hellgrauer Beton | `light_gray_concrete` | 354 |
 | Graues Buntglas | `gray_stained_glass` | 58 |
 | Polierter Andesit | `polished_andesite` | 38 |
@@ -6908,17 +7667,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.216 – Casino mediceo di San Marco – Teil 9/10 (Y 94–95)
+### Schritt 5.239 – Casino mediceo di San Marco – Teil 10/11 (Y 100–101)
 
-- **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.671
+- **Y-Bereich:** 100 bis 101
+- **Blöcke:** 1.670
 - **Bauteile:** `w781509455`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.671 |
+| Terrakotta | `terracotta` | 1.670 |
 
 **Beschreibung**
 
@@ -6936,9 +7695,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.217 – Casino mediceo di San Marco – Teil 10/10 (Y 96–102)
+### Schritt 5.240 – Casino mediceo di San Marco – Teil 11/11 (Y 102–108)
 
-- **Y-Bereich:** 96 bis 102
+- **Y-Bereich:** 102 bis 108
 - **Blöcke:** 1.650
 - **Bauteile:** `w781509455`
 
@@ -6965,9 +7724,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.218 – Casino mediceo di San Marco: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 5.241 – Casino mediceo di San Marco: Innenausbau – Teil 1/2 (Y 69–79)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.900
 - **Bauteile:** `w781509455_innen`
 
@@ -7003,10 +7762,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.219 – Casino mediceo di San Marco: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 5.242 – Casino mediceo di San Marco: Innenausbau – Teil 2/2 (Y 80–90)
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.897
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.893
 - **Bauteile:** `w781509455_innen`
 
 **Teileliste**
@@ -7018,11 +7777,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 12 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7047,9 +7806,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.220 – Casino mediceo di San Marco – Teil 1/8 (Y 63–63)
+### Schritt 5.243 – Casino mediceo di San Marco – Teil 1/8 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.564
 - **Bauteile:** `w781509458`
 
@@ -7075,9 +7834,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.221 – Casino mediceo di San Marco – Teil 2/8 (Y 64–69)
+### Schritt 5.244 – Casino mediceo di San Marco – Teil 2/8 (Y 70–75)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 70 bis 75
 - **Blöcke:** 1.836
 - **Bauteile:** `w781509458`
 
@@ -7108,9 +7867,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.222 – Casino mediceo di San Marco – Teil 3/8 (Y 70–74)
+### Schritt 5.245 – Casino mediceo di San Marco – Teil 3/8 (Y 76–80)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.560
 - **Bauteile:** `w781509458`
 
@@ -7140,9 +7899,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.223 – Casino mediceo di San Marco – Teil 4/8 (Y 75–80)
+### Schritt 5.246 – Casino mediceo di San Marco – Teil 4/8 (Y 81–86)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.844
 - **Bauteile:** `w781509458`
 
@@ -7171,9 +7930,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.224 – Casino mediceo di San Marco – Teil 5/8 (Y 81–85)
+### Schritt 5.247 – Casino mediceo di San Marco – Teil 5/8 (Y 87–91)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 87 bis 91
 - **Blöcke:** 1.590
 - **Bauteile:** `w781509458`
 
@@ -7202,9 +7961,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.225 – Casino mediceo di San Marco – Teil 6/8 (Y 86–90)
+### Schritt 5.248 – Casino mediceo di San Marco – Teil 6/8 (Y 92–96)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.510
 - **Bauteile:** `w781509458`
 
@@ -7233,9 +7992,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.226 – Casino mediceo di San Marco – Teil 7/8 (Y 91–94)
+### Schritt 5.249 – Casino mediceo di San Marco – Teil 7/8 (Y 97–100)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 97 bis 100
 - **Blöcke:** 2.019
 - **Bauteile:** `w781509458`
 
@@ -7265,9 +8024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.227 – Casino mediceo di San Marco – Teil 8/8 (Y 95–102)
+### Schritt 5.250 – Casino mediceo di San Marco – Teil 8/8 (Y 101–108)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 101 bis 108
 - **Blöcke:** 1.440
 - **Bauteile:** `w781509458`
 
@@ -7294,9 +8053,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.228 – Casino mediceo di San Marco: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 5.251 – Casino mediceo di San Marco: Innenausbau – Teil 1/2 (Y 69–80)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 69 bis 80
 - **Blöcke:** 1.302
 - **Bauteile:** `w781509458_innen`
 
@@ -7332,11 +8091,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.229 – Casino mediceo di San Marco: Innenausbau – Teil 2/2 (Y 75–83)
+### Schritt 5.252 – Casino mediceo di San Marco: Innenausbau – Teil 2/2 (Y 81–89) & Straßenschilder
 
-- **Y-Bereich:** 75 bis 83
-- **Blöcke:** 1.287
-- **Bauteile:** `w781509458_innen`
+- **Y-Bereich:** 76 bis 89
+- **Blöcke:** 1.289
+- **Bauteile:** `w781509458_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -7347,6 +8106,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7356,16 +8117,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

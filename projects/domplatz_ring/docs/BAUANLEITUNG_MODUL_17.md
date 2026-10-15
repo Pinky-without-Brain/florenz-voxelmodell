@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 20.458 |
+| Blöcke | 20.461 |
 | Bauschritte | 11 |
 | Y-Bereich | 66 bis 100 |
 | X-Ausdehnung | 71 bis 143 (73 Blöcke) |
@@ -38,6 +38,8 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -52,6 +54,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w114369700` | Palazzo des Cinquecento an Piazza del Duomo | 16.286 | 17.1–17.9 |
 | 2 | `w114369700_innen` | Palazzo des Cinquecento an Piazza del Duomo: Innenausbau | 4.172 | 17.10–17.11 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 17.11 |
 
 ## Bauschritte
 
@@ -374,11 +377,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 17.11 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 2/2 (Y 77–83)
+### Schritt 17.11 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 2/2 (Y 77–83) & Straßenschilder
 
-- **Y-Bereich:** 77 bis 83
-- **Blöcke:** 2.080
-- **Bauteile:** `w114369700_innen`
+- **Y-Bereich:** 73 bis 83
+- **Blöcke:** 2.083
+- **Bauteile:** `w114369700_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -391,9 +394,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -404,16 +409,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

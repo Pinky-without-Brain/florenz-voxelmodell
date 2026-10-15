@@ -1,0 +1,15 @@
+{
+  "module": 3,
+  "title": "Dach",
+  "subtitle": "Bautüte 3: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Terrakotta steigt von allen Seiten bis Y 104.",
+      "tip": "Von der Traufe zum First.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Von der Via Calimala sieht man das Dach über den Nachbarhäusern."
+    }
+  }
+}

@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 53.159 |
+| Blöcke | 53.635 |
 | Bauschritte | 39 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 65 bis 105 |
 | X-Ausdehnung | 1517 bis 1651 (135 Blöcke) |
 | Z-Ausdehnung | -733 bis -624 (110 Blöcke) |
-| Kleinster Schritt | 817 Blöcke (Schritt 45.33) |
-| Mittlerer Schritt | 1.363 Blöcke |
-| Größter Schritt | 2.075 Blöcke (Schritt 45.17) |
+| Kleinster Schritt | 480 Blöcke (Schritt 45.1) |
+| Mittlerer Schritt | 1.375 Blöcke |
+| Größter Schritt | 2.075 Blöcke (Schritt 45.25) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 15.956 | 30,0 % |
-| Tuffstein | `tuff` | 13.779 | 25,9 % |
-| Polierter Andesit | `polished_andesite` | 10.365 | 19,5 % |
-| Polierter Tuffstein | `polished_tuff` | 5.437 | 10,2 % |
+| Terrakotta | `terracotta` | 15.956 | 29,7 % |
+| Tuffstein | `tuff` | 14.256 | 26,6 % |
+| Polierter Andesit | `polished_andesite` | 10.365 | 19,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.431 | 10,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.666 | 5,0 % |
 | Glatter Stein | `smooth_stone` | 2.414 | 4,5 % |
 | Graues Buntglas | `gray_stained_glass` | 1.443 | 2,7 % |
@@ -35,6 +35,8 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 5 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -44,20 +46,57 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1588121` | Renaissance-Palazzo an Via Giuseppe Giusti | 44.260 | 45.1–45.33 |
+| 1 | `r1588121` | Renaissance-Palazzo an Via Giuseppe Giusti | 44.736 | 45.1–45.33 |
 | 2 | `r1588121_innen` | Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau | 8.899 | 45.34–45.39 |
 
 ## Bauschritte
 
-### Schritt 45.1 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 1/33 (Y 63–63)
+### Schritt 45.1 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 1/33 (Y 65–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 480
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 477 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 45.2 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 2/33 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.798
 - **Bauteile:** `r1588121`
 
@@ -83,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.2 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 2/33 (Y 63–63)
+### Schritt 45.3 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 3/33 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.802
 - **Bauteile:** `r1588121`
 
@@ -111,17 +150,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.3 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 3/33 (Y 63–63)
+### Schritt 45.4 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 4/33 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.837
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.833
 - **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.837 |
+| Polierter Tuffstein | `polished_tuff` | 1.831 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -139,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.4 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 4/33 (Y 64–64)
+### Schritt 45.5 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 5/33 (Y 68–68)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 920
 - **Bauteile:** `r1588121`
 
@@ -170,9 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.5 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 5/33 (Y 65–65)
+### Schritt 45.6 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 6/33 (Y 69–69)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 920
 - **Bauteile:** `r1588121`
 
@@ -201,51 +248,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.6 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 6/33 (Y 66–66)
+### Schritt 45.7 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 7/33 (Y 70–71)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 838
+- **Y-Bereich:** 70 bis 71
+- **Blöcke:** 1.731
 - **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 490 |
-| Polierter Andesit | `polished_andesite` | 310 |
-| Glatter Stein | `smooth_stone` | 38 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 45.7 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 7/33 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 893
-- **Bauteile:** `r1588121`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 472 |
+| Tuffstein | `tuff` | 962 |
+| Polierter Andesit | `polished_andesite` | 449 |
 | Tuffsteinziegel | `tuff_bricks` | 167 |
-| Polierter Andesit | `polished_andesite` | 139 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
@@ -263,9 +280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.8 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 8/33 (Y 68–69)
+### Schritt 45.8 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 8/33 (Y 72–73)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.721
 - **Bauteile:** `r1588121`
 
@@ -295,9 +312,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.9 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 9/33 (Y 70–70)
+### Schritt 45.9 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 9/33 (Y 74–74)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 962
 - **Bauteile:** `r1588121`
 
@@ -327,9 +344,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.10 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 10/33 (Y 71–72)
+### Schritt 45.10 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 10/33 (Y 75–76)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.806
 - **Bauteile:** `r1588121`
 
@@ -359,9 +376,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.11 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 11/33 (Y 73–73)
+### Schritt 45.11 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 11/33 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 988
 - **Bauteile:** `r1588121`
 
@@ -389,9 +406,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.12 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 12/33 (Y 74–74)
+### Schritt 45.12 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 12/33 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.379
 - **Bauteile:** `r1588121`
 
@@ -418,9 +435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.13 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 13/33 (Y 75–75)
+### Schritt 45.13 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 13/33 (Y 79–79)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.071
 - **Bauteile:** `r1588121`
 
@@ -449,9 +466,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.14 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 14/33 (Y 76–76)
+### Schritt 45.14 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 14/33 (Y 80–80)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.138
 - **Bauteile:** `r1588121`
 
@@ -480,9 +497,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.15 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 15/33 (Y 77–78)
+### Schritt 45.15 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 15/33 (Y 81–82)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 2.008
 - **Bauteile:** `r1588121`
 
@@ -512,9 +529,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.16 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 16/33 (Y 79–79)
+### Schritt 45.16 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 16/33 (Y 83–83)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.004
 - **Bauteile:** `r1588121`
 
@@ -544,21 +561,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.17 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 17/33 (Y 80–81)
+### Schritt 45.17 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 17/33 (Y 84–84)
 
-- **Y-Bereich:** 80 bis 81
-- **Blöcke:** 2.075
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.004
 - **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 795 |
-| Polierter Andesit | `polished_andesite` | 791 |
-| Tuffsteinziegel | `tuff_bricks` | 334 |
+| Polierter Andesit | `polished_andesite` | 375 |
+| Tuffstein | `tuff` | 364 |
+| Tuffsteinziegel | `tuff_bricks` | 123 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
-| Glatter Stein | `smooth_stone` | 51 |
+| Glatter Stein | `smooth_stone` | 38 |
 
 **Beschreibung**
 
@@ -576,9 +593,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.18 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 18/33 (Y 82–82)
+### Schritt 45.18 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 18/33 (Y 85–85)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.071
+- **Bauteile:** `r1588121`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 431 |
+| Polierter Andesit | `polished_andesite` | 416 |
+| Tuffsteinziegel | `tuff_bricks` | 211 |
+| Glatter Stein | `smooth_stone` | 13 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 45.19 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 19/33 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.071
 - **Bauteile:** `r1588121`
 
@@ -607,9 +655,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.19 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 19/33 (Y 83–83)
+### Schritt 45.20 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 20/33 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.379
 - **Bauteile:** `r1588121`
 
@@ -637,9 +685,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.20 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 20/33 (Y 84–84)
+### Schritt 45.21 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 21/33 (Y 88–88)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.071
 - **Bauteile:** `r1588121`
 
@@ -667,9 +715,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.21 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 21/33 (Y 85–85)
+### Schritt 45.22 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 22/33 (Y 89–89)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.138
 - **Bauteile:** `r1588121`
 
@@ -697,9 +745,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.22 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 22/33 (Y 86–87)
+### Schritt 45.23 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 23/33 (Y 90–91)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 2.008
 - **Bauteile:** `r1588121`
 
@@ -728,20 +776,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.23 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 23/33 (Y 88–88)
+### Schritt 45.24 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 24/33 (Y 92–93)
 
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.004
+- **Y-Bereich:** 92 bis 93
+- **Blöcke:** 2.008
 - **Bauteile:** `r1588121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 498 |
-| Tuffstein | `tuff` | 364 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Glatter Stein | `smooth_stone` | 38 |
+| Polierter Andesit | `polished_andesite` | 1.021 |
+| Tuffstein | `tuff` | 728 |
+| Graues Buntglas | `gray_stained_glass` | 208 |
+| Glatter Stein | `smooth_stone` | 51 |
 
 **Beschreibung**
 
@@ -759,40 +807,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.24 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 24/33 (Y 89–89)
+### Schritt 45.25 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 25/33 (Y 94–95)
 
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.004
-- **Bauteile:** `r1588121`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 523 |
-| Tuffstein | `tuff` | 364 |
-| Graues Buntglas | `gray_stained_glass` | 104 |
-| Glatter Stein | `smooth_stone` | 13 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 45.25 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 25/33 (Y 90–91)
-
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 2.075
 - **Bauteile:** `r1588121`
 
@@ -821,9 +838,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.26 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 26/33 (Y 92–92)
+### Schritt 45.26 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 26/33 (Y 96–96)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.392
 - **Bauteile:** `r1588121`
 
@@ -852,9 +869,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.27 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 27/33 (Y 93–93)
+### Schritt 45.27 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 27/33 (Y 97–97)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.392
 - **Bauteile:** `r1588121`
 
@@ -883,9 +900,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.28 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 28/33 (Y 94–94)
+### Schritt 45.28 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 28/33 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.242
 - **Bauteile:** `r1588121`
 
@@ -911,9 +928,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.29 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 29/33 (Y 94–94)
+### Schritt 45.29 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 29/33 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.253
 - **Bauteile:** `r1588121`
 
@@ -939,9 +956,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.30 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 30/33 (Y 95–95)
+### Schritt 45.30 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 30/33 (Y 99–99)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.449
 - **Bauteile:** `r1588121`
 
@@ -967,9 +984,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.31 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 31/33 (Y 96–96)
+### Schritt 45.31 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 31/33 (Y 100–100)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.511
 - **Bauteile:** `r1588121`
 
@@ -995,9 +1012,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.32 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 32/33 (Y 97–97)
+### Schritt 45.32 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 32/33 (Y 101–101)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.294
 - **Bauteile:** `r1588121`
 
@@ -1024,9 +1041,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.33 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 33/33 (Y 98–101)
+### Schritt 45.33 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 33/33 (Y 102–105)
 
-- **Y-Bereich:** 98 bis 101
+- **Y-Bereich:** 102 bis 105
 - **Blöcke:** 817
 - **Bauteile:** `r1588121`
 
@@ -1053,9 +1070,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.34 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 45.34 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 1/6 (Y 67–78)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.534
 - **Bauteile:** `r1588121_innen`
 
@@ -1091,9 +1108,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 45.35 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 45.35 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 2/6 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.475
 - **Bauteile:** `r1588121_innen`
 
@@ -1127,9 +1144,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 45.36 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 3/6 (Y 74–74)
+### Schritt 45.36 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 3/6 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.451
 - **Bauteile:** `r1588121_innen`
 
@@ -1156,9 +1173,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 45.37 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 4/6 (Y 75–83)
+### Schritt 45.37 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 4/6 (Y 79–87)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.506
 - **Bauteile:** `r1588121_innen`
 
@@ -1196,9 +1213,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 45.38 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 5/6 (Y 83–83)
+### Schritt 45.38 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 5/6 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.475
 - **Bauteile:** `r1588121_innen`
 
@@ -1232,9 +1249,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 45.39 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 6/6 (Y 83–84)
+### Schritt 45.39 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 6/6 (Y 87–88)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.458
 - **Bauteile:** `r1588121_innen`
 

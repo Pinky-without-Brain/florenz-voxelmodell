@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 31.304 |
 | Bauschritte | 18 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 58 bis 95 |
 | X-Ausdehnung | -3069 bis -3017 (53 Blöcke) |
 | Z-Ausdehnung | 229 bis 361 (133 Blöcke) |
 | Kleinster Schritt | 1.149 Blöcke (Schritt 2.6) |
@@ -61,9 +61,9 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Reihenhaus an Via della Fonderia – Teil 1/4 (Y 63–70)
+### Schritt 2.1 – Reihenhaus an Via della Fonderia – Teil 1/4 (Y 58–65)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 58 bis 65
 - **Blöcke:** 1.691
 - **Bauteile:** `w495948927`
 
@@ -93,9 +93,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Reihenhaus an Via della Fonderia – Teil 2/4 (Y 71–79)
+### Schritt 2.2 – Reihenhaus an Via della Fonderia – Teil 2/4 (Y 66–74)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.507
 - **Bauteile:** `w495948927`
 
@@ -124,9 +124,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Reihenhaus an Via della Fonderia – Teil 3/4 (Y 80–89)
+### Schritt 2.3 – Reihenhaus an Via della Fonderia – Teil 3/4 (Y 75–84)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.658
 - **Bauteile:** `w495948927`
 
@@ -155,9 +155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Reihenhaus an Via della Fonderia – Teil 4/4 (Y 90–100)
+### Schritt 2.4 – Reihenhaus an Via della Fonderia – Teil 4/4 (Y 85–95)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.631
 - **Bauteile:** `w495948927`
 
@@ -190,7 +190,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.5 – Reihenhaus an Via della Fonderia: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 1.326
 - **Bauteile:** `w495948927_innen`
 
@@ -230,9 +230,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.6 – Palazzo des Cinquecento an Via della Fonderia – Teil 1/11 (Y 63–63)
+### Schritt 2.6 – Palazzo des Cinquecento an Via della Fonderia – Teil 1/11 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.149
 - **Bauteile:** `w495948953`
 
@@ -258,9 +258,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.7 – Palazzo des Cinquecento an Via della Fonderia – Teil 2/11 (Y 63–65)
+### Schritt 2.7 – Palazzo des Cinquecento an Via della Fonderia – Teil 2/11 (Y 58–60)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 58 bis 60
 - **Blöcke:** 2.085
 - **Bauteile:** `w495948953`
 
@@ -290,9 +290,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.8 – Palazzo des Cinquecento an Via della Fonderia – Teil 3/11 (Y 66–69)
+### Schritt 2.8 – Palazzo des Cinquecento an Via della Fonderia – Teil 3/11 (Y 61–64)
 
-- **Y-Bereich:** 66 bis 69
+- **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.728
 - **Bauteile:** `w495948953`
 
@@ -323,9 +323,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.9 – Palazzo des Cinquecento an Via della Fonderia – Teil 4/11 (Y 70–73)
+### Schritt 2.9 – Palazzo des Cinquecento an Via della Fonderia – Teil 4/11 (Y 65–68)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.825
 - **Bauteile:** `w495948953`
 
@@ -356,9 +356,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.10 – Palazzo des Cinquecento an Via della Fonderia – Teil 5/11 (Y 74–77)
+### Schritt 2.10 – Palazzo des Cinquecento an Via della Fonderia – Teil 5/11 (Y 69–72)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.819
 - **Bauteile:** `w495948953`
 
@@ -388,9 +388,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.11 – Palazzo des Cinquecento an Via della Fonderia – Teil 6/11 (Y 78–81)
+### Schritt 2.11 – Palazzo des Cinquecento an Via della Fonderia – Teil 6/11 (Y 73–76)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.624
 - **Bauteile:** `w495948953`
 
@@ -420,9 +420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.12 – Palazzo des Cinquecento an Via della Fonderia – Teil 7/11 (Y 82–85)
+### Schritt 2.12 – Palazzo des Cinquecento an Via della Fonderia – Teil 7/11 (Y 77–80)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.963
 - **Bauteile:** `w495948953`
 
@@ -450,9 +450,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.13 – Palazzo des Cinquecento an Via della Fonderia – Teil 8/11 (Y 86–90)
+### Schritt 2.13 – Palazzo des Cinquecento an Via della Fonderia – Teil 8/11 (Y 81–85)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 2.030
 - **Bauteile:** `w495948953`
 
@@ -482,9 +482,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.14 – Palazzo des Cinquecento an Via della Fonderia – Teil 9/11 (Y 91–93)
+### Schritt 2.14 – Palazzo des Cinquecento an Via della Fonderia – Teil 9/11 (Y 86–88)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.793
 - **Bauteile:** `w495948953`
 
@@ -513,9 +513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.15 – Palazzo des Cinquecento an Via della Fonderia – Teil 10/11 (Y 94–95)
+### Schritt 2.15 – Palazzo des Cinquecento an Via della Fonderia – Teil 10/11 (Y 89–90)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 2.060
 - **Bauteile:** `w495948953`
 
@@ -541,9 +541,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.16 – Palazzo des Cinquecento an Via della Fonderia – Teil 11/11 (Y 96–99)
+### Schritt 2.16 – Palazzo des Cinquecento an Via della Fonderia – Teil 11/11 (Y 91–94)
 
-- **Y-Bereich:** 96 bis 99
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.682
 - **Bauteile:** `w495948953`
 
@@ -570,9 +570,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.17 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 2.17 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.866
 - **Bauteile:** `w495948953_innen`
 
@@ -612,9 +612,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.18 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 2.18 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 2/2 (Y 69–79)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.867
 - **Bauteile:** `w495948953_innen`
 

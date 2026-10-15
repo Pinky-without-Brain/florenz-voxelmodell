@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.898 |
-| Bauschritte | 5 |
-| Y-Bereich | 63 bis 97 |
+| Blöcke | 9.592 |
+| Bauschritte | 6 |
+| Y-Bereich | 107 bis 144 |
 | X-Ausdehnung | -1240 bis -1213 (28 Blöcke) |
 | Z-Ausdehnung | 2582 bis 2624 (43 Blöcke) |
-| Kleinster Schritt | 1.249 Blöcke (Schritt 3.5) |
-| Mittlerer Schritt | 1.780 Blöcke |
-| Größter Schritt | 2.003 Blöcke (Schritt 3.2) |
+| Kleinster Schritt | 1.249 Blöcke (Schritt 3.6) |
+| Mittlerer Schritt | 1.599 Blöcke |
+| Größter Schritt | 1.765 Blöcke (Schritt 3.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 4.234 | 47,6 % |
-| Terrakotta | `terracotta` | 2.006 | 22,5 % |
-| Weißer Beton | `white_concrete` | 1.238 | 13,9 % |
-| Polierter Tuffstein | `polished_tuff` | 585 | 6,6 % |
-| Graues Buntglas | `gray_stained_glass` | 382 | 4,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 229 | 2,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 | 0,8 % |
-| Ziegelsteine | `bricks` | 59 | 0,7 % |
+| Endsteinziegel | `end_stone_bricks` | 4.234 | 44,1 % |
+| Terrakotta | `terracotta` | 2.006 | 20,9 % |
+| Weißer Beton | `white_concrete` | 1.238 | 12,9 % |
+| Tuffstein | `tuff` | 694 | 7,2 % |
+| Polierter Tuffstein | `polished_tuff` | 585 | 6,1 % |
+| Graues Buntglas | `gray_stained_glass` | 382 | 4,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 229 | 2,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 | 0,7 % |
+| Ziegelsteine | `bricks` | 59 | 0,6 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,3 % |
 | Glatter Stein | `smooth_stone` | 20 | 0,2 % |
@@ -46,26 +47,25 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w475937780` | Haus w475937780 | 7.649 | 3.1–3.4 |
-| 2 | `w475937780_innen` | Haus w475937780: Innenausbau | 1.249 | 3.5 |
+| 1 | `w475937780` | Haus w475937780 | 8.343 | 3.1–3.5 |
+| 2 | `w475937780_innen` | Haus w475937780: Innenausbau | 1.249 | 3.6 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Haus w475937780 – Teil 1/4 (Y 63–70)
+### Schritt 3.1 – Haus w475937780 – Teil 1/5 (Y 107–112)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.913
+- **Y-Bereich:** 107 bis 112
+- **Blöcke:** 1.677
 - **Bauteile:** `w475937780`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.002 |
+| Tuffstein | `tuff` | 694 |
 | Polierter Tuffstein | `polished_tuff` | 585 |
-| Weißer Beton | `white_concrete` | 221 |
-| Graues Buntglas | `gray_stained_glass` | 85 |
-| Glatter Stein | `smooth_stone` | 20 |
+| Endsteinziegel | `end_stone_bricks` | 394 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -83,19 +83,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Haus w475937780 – Teil 2/4 (Y 71–80)
+### Schritt 3.2 – Haus w475937780 – Teil 2/5 (Y 113–121)
 
-- **Y-Bereich:** 71 bis 80
-- **Blöcke:** 2.003
+- **Y-Bereich:** 113 bis 121
+- **Blöcke:** 1.737
 - **Bauteile:** `w475937780`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.497 |
-| Weißer Beton | `white_concrete` | 407 |
-| Graues Buntglas | `gray_stained_glass` | 99 |
+| Endsteinziegel | `end_stone_bricks` | 1.280 |
+| Weißer Beton | `white_concrete` | 323 |
+| Graues Buntglas | `gray_stained_glass` | 118 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
@@ -113,19 +114,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Haus w475937780 – Teil 3/4 (Y 81–89)
+### Schritt 3.3 – Haus w475937780 – Teil 3/5 (Y 122–129)
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 1.736
+- **Y-Bereich:** 122 bis 129
+- **Blöcke:** 1.556
 - **Bauteile:** `w475937780`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.164 |
-| Weißer Beton | `white_concrete` | 407 |
-| Graues Buntglas | `gray_stained_glass` | 165 |
+| Endsteinziegel | `end_stone_bricks` | 1.051 |
+| Weißer Beton | `white_concrete` | 373 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
 
 **Beschreibung**
 
@@ -143,10 +144,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Haus w475937780 – Teil 4/4 (Y 90–97)
+### Schritt 3.4 – Haus w475937780 – Teil 4/5 (Y 130–138)
 
-- **Y-Bereich:** 90 bis 97
-- **Blöcke:** 1.997
+- **Y-Bereich:** 130 bis 138
+- **Blöcke:** 1.765
+- **Bauteile:** `w475937780`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.192 |
+| Weißer Beton | `white_concrete` | 441 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.5 – Haus w475937780 – Teil 5/5 (Y 139–144)
+
+- **Y-Bereich:** 139 bis 144
+- **Blöcke:** 1.608
 - **Bauteile:** `w475937780`
 
 **Teileliste**
@@ -154,11 +185,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 902 |
-| Endsteinziegel | `end_stone_bricks` | 571 |
+| Endsteinziegel | `end_stone_bricks` | 317 |
 | Fichtenholz-Bretter | `spruce_planks` | 229 |
-| Weißer Beton | `white_concrete` | 203 |
+| Weißer Beton | `white_concrete` | 101 |
 | Ziegelsteine | `bricks` | 59 |
-| Graues Buntglas | `gray_stained_glass` | 33 |
 
 **Beschreibung**
 
@@ -176,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Haus w475937780: Innenausbau
+### Schritt 3.6 – Haus w475937780: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 110 bis 134
 - **Blöcke:** 1.249
 - **Bauteile:** `w475937780_innen`
 

@@ -4,33 +4,33 @@
 
 *Projekt `domplatz_ring`, Art: quartier*
 
-**Statistik (generiert):** 2.366.492 Blöcke in 1.500 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.366.622 Blöcke in 1.500 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -554 bis 322, Y 60 bis 122, Z -367 bis 363.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
-| 0 | Isolato I0433 – Borgo San Lorenzo | 348.964 | 227 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
-| 1 | Isolato I0461 – Via dei Medici | 52.458 | 31 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
-| 2 | Isolato I0471 – Piazza San Giovanni | 147.279 | 90 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
+| 0 | Isolato I0433 – Borgo San Lorenzo | 348.967 | 227 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
+| 1 | Isolato I0461 – Via dei Medici | 52.461 | 31 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
+| 2 | Isolato I0471 – Piazza San Giovanni | 147.292 | 90 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0481 – Via dei Calzaiuoli | 55.341 | 36 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
-| 4 | Isolato I0484 – Borgo San Lorenzo | 289.514 | 189 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
-| 5 | Isolato I0497 – Via del Campanile | 52.937 | 34 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
-| 6 | Isolato I0501 – Vicolo del Giglio | 79.555 | 52 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
-| 7 | Isolato I0506 – Piazza del Duomo | 213.603 | 142 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
-| 8 | Isolato I0510 – Piazza del Duomo | 28.907 | 20 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
-| 9 | Isolato I0515 – Via Ricasoli | 9.810 | 7 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
-| 10 | Isolato I0516 – Via delle Oche | 46.945 | 32 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
-| 11 | Isolato I0520 – Via delle Oche | 104.831 | 68 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |
-| 12 | Isolato I0522 – Via della Canonica | 41.099 | 25 | [BAUANLEITUNG_MODUL_12.md](BAUANLEITUNG_MODUL_12.md) |
-| 13 | Isolato I0528 – Via Ricasoli | 273.613 | 166 | [BAUANLEITUNG_MODUL_13.md](BAUANLEITUNG_MODUL_13.md) |
-| 14 | Isolato I0530 – Piazza del Duomo | 46.700 | 28 | [BAUANLEITUNG_MODUL_14.md](BAUANLEITUNG_MODUL_14.md) |
-| 15 | Isolato I0540 – Via dei Bonizzi | 18.664 | 13 | [BAUANLEITUNG_MODUL_15.md](BAUANLEITUNG_MODUL_15.md) |
-| 16 | Isolato I0541 – Via del Proconsolo | 115.975 | 73 | [BAUANLEITUNG_MODUL_16.md](BAUANLEITUNG_MODUL_16.md) |
-| 17 | Isolato I0542 – Piazza del Duomo | 20.458 | 11 | [BAUANLEITUNG_MODUL_17.md](BAUANLEITUNG_MODUL_17.md) |
-| 18 | Isolato I0552 – Via Maurizio Bufalini | 259.792 | 161 | [BAUANLEITUNG_MODUL_18.md](BAUANLEITUNG_MODUL_18.md) |
+| 4 | Isolato I0484 – Borgo San Lorenzo | 289.520 | 189 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
+| 5 | Isolato I0497 – Via del Campanile | 52.942 | 34 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
+| 6 | Isolato I0501 – Vicolo del Giglio | 79.568 | 52 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
+| 7 | Isolato I0506 – Piazza del Duomo | 213.607 | 142 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
+| 8 | Isolato I0510 – Piazza del Duomo | 28.910 | 20 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
+| 9 | Isolato I0515 – Via Ricasoli | 9.815 | 7 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
+| 10 | Isolato I0516 – Via delle Oche | 46.963 | 32 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
+| 11 | Isolato I0520 – Via delle Oche | 104.841 | 68 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |
+| 12 | Isolato I0522 – Via della Canonica | 41.106 | 25 | [BAUANLEITUNG_MODUL_12.md](BAUANLEITUNG_MODUL_12.md) |
+| 13 | Isolato I0528 – Via Ricasoli | 273.621 | 166 | [BAUANLEITUNG_MODUL_13.md](BAUANLEITUNG_MODUL_13.md) |
+| 14 | Isolato I0530 – Piazza del Duomo | 46.710 | 28 | [BAUANLEITUNG_MODUL_14.md](BAUANLEITUNG_MODUL_14.md) |
+| 15 | Isolato I0540 – Via dei Bonizzi | 18.671 | 13 | [BAUANLEITUNG_MODUL_15.md](BAUANLEITUNG_MODUL_15.md) |
+| 16 | Isolato I0541 – Via del Proconsolo | 115.983 | 73 | [BAUANLEITUNG_MODUL_16.md](BAUANLEITUNG_MODUL_16.md) |
+| 17 | Isolato I0542 – Piazza del Duomo | 20.461 | 11 | [BAUANLEITUNG_MODUL_17.md](BAUANLEITUNG_MODUL_17.md) |
+| 18 | Isolato I0552 – Via Maurizio Bufalini | 259.794 | 161 | [BAUANLEITUNG_MODUL_18.md](BAUANLEITUNG_MODUL_18.md) |
 | 19 | Isolato I0582 – Via del Proconsolo | 94.187 | 56 | [BAUANLEITUNG_MODUL_19.md](BAUANLEITUNG_MODUL_19.md) |
-| 20 | Isolato I0590 – Via dei Servi | 65.860 | 39 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
-| | **Summe** | **2.366.492** | **1.500** | |
+| 20 | Isolato I0590 – Via dei Servi | 65.862 | 39 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
+| | **Summe** | **2.366.622** | **1.500** | |
 
 ## Gesamt-Stückliste
 
@@ -68,6 +68,10 @@ Ausdehnung des Modells: X -554 bis 322, Y 60 bis 122, Z -367 bis 363.
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 182 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 123 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 69 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 41 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 37 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 29 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 23 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 23 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)

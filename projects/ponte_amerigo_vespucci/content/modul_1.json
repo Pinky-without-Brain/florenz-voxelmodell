@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Bögen",
+  "subtitle": "Bautüte 1: drei weit gespannte, flache Felder",
+  "icon": "🌉",
+  "parts": {
+    "boegen": {
+      "title": "Bögen",
+      "description": "Zwischen Ufern und Pfeilern spannen sich drei weit gespannte, flache Felder (3 insgesamt); sie beginnen zwei bis drei Lagen über dem Wasser und reichen bis kurz unter die Fahrbahn.",
+      "tip": "Baue die Bögen von den Pfeilern zur Mitte hin.",
+      "caution": "Unter den Bögen bleibt die Durchfahrt frei.",
+      "fact": "Sie ist 163 Meter lang und bis zu 22,5 Meter breit."
+    }
+  }
+}

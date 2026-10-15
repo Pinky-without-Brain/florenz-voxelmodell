@@ -8,24 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.639 |
-| Bauschritte | 10 |
-| Y-Bereich | 63 bis 98 |
+| Blöcke | 17.054 |
+| Bauschritte | 11 |
+| Y-Bereich | 81 bis 118 |
 | X-Ausdehnung | 652 bis 711 (60 Blöcke) |
 | Z-Ausdehnung | 2259 bis 2333 (75 Blöcke) |
-| Kleinster Schritt | 754 Blöcke (Schritt 38.9) |
-| Mittlerer Schritt | 1.664 Blöcke |
-| Größter Schritt | 1.935 Blöcke (Schritt 38.6) |
+| Kleinster Schritt | 754 Blöcke (Schritt 38.10) |
+| Mittlerer Schritt | 1.550 Blöcke |
+| Größter Schritt | 1.935 Blöcke (Schritt 38.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 9.232 | 55,5 % |
-| Terrakotta | `terracotta` | 3.545 | 21,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 1.936 | 11,6 % |
-| Polierter Tuffstein | `polished_tuff` | 1.068 | 6,4 % |
-| Graues Buntglas | `gray_stained_glass` | 327 | 2,0 % |
+| Weißer Beton | `white_concrete` | 9.232 | 54,1 % |
+| Terrakotta | `terracotta` | 3.545 | 20,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 1.936 | 11,4 % |
+| Polierter Tuffstein | `polished_tuff` | 1.068 | 6,3 % |
+| Tuffstein | `tuff` | 415 | 2,4 % |
+| Graues Buntglas | `gray_stained_glass` | 327 | 1,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 316 | 1,9 % |
 | Ziegelsteine | `bricks` | 66 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,4 % |
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w120114788` | Reihenhaus an Via dell'Erta Canina | 14.499 | 38.1–38.8 |
-| 2 | `w120114788_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 2.140 | 38.9–38.10 |
+| 1 | `w120114788` | Reihenhaus an Via dell'Erta Canina | 14.914 | 38.1–38.9 |
+| 2 | `w120114788_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 2.140 | 38.10–38.11 |
 
 ## Bauschritte
 
-### Schritt 38.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/8 (Y 63–65)
+### Schritt 38.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/9 (Y 81–83)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.836
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.483
 - **Bauteile:** `w120114788`
 
 **Teileliste**
@@ -60,8 +61,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.068 |
-| Weißer Beton | `white_concrete` | 762 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Tuffstein | `tuff` | 415 |
 
 **Beschreibung**
 
@@ -79,20 +79,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/8 (Y 66–70)
+### Schritt 38.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/9 (Y 84–88)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.896
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.898
 - **Bauteile:** `w120114788`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.423 |
-| Hellgrauer Beton | `light_gray_concrete` | 373 |
-| Graues Buntglas | `gray_stained_glass` | 87 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Weißer Beton | `white_concrete` | 1.603 |
+| Hellgrauer Beton | `light_gray_concrete` | 218 |
+| Graues Buntglas | `gray_stained_glass` | 58 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
@@ -110,9 +110,129 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/8 (Y 71–74)
+### Schritt 38.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/9 (Y 89–92)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 89 bis 92
+- **Blöcke:** 1.546
+- **Bauteile:** `w120114788`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.362 |
+| Hellgrauer Beton | `light_gray_concrete` | 155 |
+| Graues Buntglas | `gray_stained_glass` | 29 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/9 (Y 93–96)
+
+- **Y-Bereich:** 93 bis 96
+- **Blöcke:** 1.515
+- **Bauteile:** `w120114788`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.131 |
+| Hellgrauer Beton | `light_gray_concrete` | 294 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.5 – Reihenhaus an Via dell'Erta Canina – Teil 5/9 (Y 97–101)
+
+- **Y-Bereich:** 97 bis 101
+- **Blöcke:** 1.935
+- **Bauteile:** `w120114788`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.494 |
+| Hellgrauer Beton | `light_gray_concrete` | 411 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.6 – Reihenhaus an Via dell'Erta Canina – Teil 6/9 (Y 102–105)
+
+- **Y-Bereich:** 102 bis 105
+- **Blöcke:** 1.530
+- **Bauteile:** `w120114788`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.089 |
+| Hellgrauer Beton | `light_gray_concrete` | 381 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.7 – Reihenhaus an Via dell'Erta Canina – Teil 7/9 (Y 106–109)
+
+- **Y-Bereich:** 106 bis 109
 - **Blöcke:** 1.545
 - **Bauteile:** `w120114788`
 
@@ -140,99 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/8 (Y 75–79)
+### Schritt 38.8 – Reihenhaus an Via dell'Erta Canina – Teil 8/9 (Y 110–113)
 
-- **Y-Bereich:** 75 bis 79
-- **Blöcke:** 1.920
-- **Bauteile:** `w120114788`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.479 |
-| Hellgrauer Beton | `light_gray_concrete` | 381 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.5 – Reihenhaus an Via dell'Erta Canina – Teil 5/8 (Y 80–84)
-
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.905
-- **Bauteile:** `w120114788`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.425 |
-| Hellgrauer Beton | `light_gray_concrete` | 390 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.6 – Reihenhaus an Via dell'Erta Canina – Teil 6/8 (Y 85–89)
-
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.935
-- **Bauteile:** `w120114788`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.590 |
-| Hellgrauer Beton | `light_gray_concrete` | 315 |
-| Graues Buntglas | `gray_stained_glass` | 30 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.7 – Reihenhaus an Via dell'Erta Canina – Teil 7/8 (Y 90–93)
-
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 110 bis 113
 - **Blöcke:** 1.861
 - **Bauteile:** `w120114788`
 
@@ -261,9 +291,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.8 – Reihenhaus an Via dell'Erta Canina – Teil 8/8 (Y 94–98)
+### Schritt 38.9 – Reihenhaus an Via dell'Erta Canina – Teil 9/9 (Y 114–118)
 
-- **Y-Bereich:** 94 bis 98
+- **Y-Bereich:** 114 bis 118
 - **Blöcke:** 1.601
 - **Bauteile:** `w120114788`
 
@@ -290,9 +320,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.9 – Reihenhaus an Via dell'Erta Canina: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 38.10 – Reihenhaus an Via dell'Erta Canina: Innenausbau – Teil 1/2 (Y 83–98)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 83 bis 98
 - **Blöcke:** 754
 - **Bauteile:** `w120114788_innen`
 
@@ -328,9 +358,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.10 – Reihenhaus an Via dell'Erta Canina: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 38.11 – Reihenhaus an Via dell'Erta Canina: Innenausbau – Teil 2/2 (Y 99–106)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 1.386
 - **Bauteile:** `w120114788_innen`
 

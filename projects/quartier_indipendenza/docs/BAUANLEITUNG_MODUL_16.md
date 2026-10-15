@@ -8,55 +8,59 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 236.814 |
-| Bauschritte | 146 |
-| Y-Bereich | 63 bis 102 |
+| Blöcke | 240.977 |
+| Bauschritte | 147 |
+| Y-Bereich | 66 bis 106 |
 | X-Ausdehnung | -90 bis 125 (216 Blöcke) |
 | Z-Ausdehnung | -1457 bis -1214 (244 Blöcke) |
-| Kleinster Schritt | 652 Blöcke (Schritt 16.93) |
-| Mittlerer Schritt | 1.622 Blöcke |
-| Größter Schritt | 2.096 Blöcke (Schritt 16.122) |
+| Kleinster Schritt | 652 Blöcke (Schritt 16.94) |
+| Mittlerer Schritt | 1.639 Blöcke |
+| Größter Schritt | 2.096 Blöcke (Schritt 16.123) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 74.640 | 31,5 % |
-| Rosa Keramik | `pink_terracotta` | 34.964 | 14,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 31.725 | 13,4 % |
-| Polierter Tuffstein | `polished_tuff` | 22.924 | 9,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 20.813 | 8,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 14.480 | 6,1 % |
-| Weißer Beton | `white_concrete` | 8.270 | 3,5 % |
-| Glatter Stein | `smooth_stone` | 5.337 | 2,3 % |
-| Endsteinziegel | `end_stone_bricks` | 5.116 | 2,2 % |
+| Terrakotta | `terracotta` | 74.349 | 30,9 % |
+| Rosa Keramik | `pink_terracotta` | 35.386 | 14,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 31.934 | 13,3 % |
+| Polierter Tuffstein | `polished_tuff` | 22.906 | 9,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 20.888 | 8,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 14.524 | 6,0 % |
+| Weißer Beton | `white_concrete` | 8.327 | 3,5 % |
+| Tuffstein | `tuff` | 5.728 | 2,4 % |
+| Glatter Stein | `smooth_stone` | 5.337 | 2,2 % |
+| Endsteinziegel | `end_stone_bricks` | 5.116 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 4.494 | 1,9 % |
-| Graues Buntglas | `gray_stained_glass` | 4.425 | 1,9 % |
-| Tuffstein | `tuff` | 1.977 | 0,8 % |
+| Graues Buntglas | `gray_stained_glass` | 4.425 | 1,8 % |
 | Grüner Beton | `green_concrete` | 1.328 | 0,6 % |
-| Ziegelsteine | `bricks` | 1.305 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.262 | 0,5 % |
-| Orange Keramik | `orange_terracotta` | 1.110 | 0,5 % |
-| Seelaterne | `sea_lantern` | 462 | 0,2 % |
+| Ziegelsteine | `bricks` | 1.305 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.195 | 0,5 % |
+| Orange Keramik | `orange_terracotta` | 1.158 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 455 | 0,2 % |
+| Seelaterne | `sea_lantern` | 441 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 351 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 280 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 260 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 216 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 200 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 90 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 90 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 258 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 238 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 211 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 195 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 84 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 956 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 902 |
 | Steintreppe | `stone_stairs` | 240 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -68,60 +72,60 @@
 | 4 | `r7035155_innen` | Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau | 3.039 | 16.22–16.23 |
 | 5 | `r7035156` | Palazzo des Cinquecento an Via Ventisette Aprile | 16.432 | 16.24–16.33 |
 | 6 | `r7035156_innen` | Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau | 3.158 | 16.34–16.35 |
-| 7 | `r7035157` | Palazzo des Cinquecento an Via San Gallo | 14.499 | 16.36–16.43 |
-| 8 | `r7035157_innen` | Palazzo des Cinquecento an Via San Gallo: Innenausbau | 2.312 | 16.44–16.45 |
-| 9 | `r7035158` | Reihenhaus an Via Santa Reparata | 6.397 | 16.46–16.49 |
-| 10 | `r7035158_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.279 | 16.50 |
-| 11 | `w478556030` | Reihenhaus an Via Santa Reparata | 7.648 | 16.51–16.54 |
-| 12 | `w478556030_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.657 | 16.55 |
-| 13 | `w478556034` | Reihenhaus an Via San Gallo | 2.874 | 16.56–16.57 |
-| 14 | `w478556034_innen` | Reihenhaus an Via San Gallo: Innenausbau | 838 | 16.58 |
-| 15 | `w478556039` | Reihenhaus an Via San Gallo | 5.481 | 16.59–16.61 |
-| 16 | `w478556039_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.445 | 16.62 |
-| 17 | `w478556043` | Reihenhaus an Via Santa Reparata | 1.582 | 16.63 |
-| 18 | `w478556043_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 925 | 16.64 |
-| 19 | `w478556046` | Haus w478556046 | 9.638 | 16.65–16.69 |
-| 20 | `w478556046_innen` | Haus w478556046: Innenausbau | 2.237 | 16.70–16.71 |
-| 21 | `w478556055` | Reihenhaus an Via San Gallo | 2.657 | 16.72–16.73 |
-| 22 | `w478556055_innen` | Reihenhaus an Via San Gallo: Innenausbau | 5 | 16.74 |
-| 23 | `w478556057` | Reihenhaus an Via San Gallo | 3.272 | 16.74–16.75 |
-| 24 | `w478556057_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.559 | 16.76 |
-| 25 | `w478556067` | Haus w478556067 | 5.299 | 16.77–16.79 |
-| 26 | `w478556067_innen` | Haus w478556067: Innenausbau | 2.435 | 16.80–16.81 |
-| 27 | `w478556069` | Reihenhaus an Via Santa Reparata | 2.380 | 16.82–16.83 |
-| 28 | `w478556069_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 2 | 16.84 |
-| 29 | `w478556070` | Haus w478556070 | 2.451 | 16.84–16.85 |
-| 30 | `w478556070_innen` | Haus w478556070: Innenausbau | 815 | 16.86 |
-| 31 | `w478556071` | Reihenhaus an Via San Gallo | 5.498 | 16.87–16.89 |
-| 32 | `w478556071_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.062 | 16.90 |
-| 33 | `w478556072` | Reihenhaus an Via San Gallo | 2.323 | 16.91–16.92 |
-| 34 | `w478556072_innen` | Reihenhaus an Via San Gallo: Innenausbau | 652 | 16.93 |
-| 35 | `w478556075` | Reihenhaus an Via Santa Reparata | 6.529 | 16.94–16.97 |
-| 36 | `w478556075_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 2.919 | 16.98–16.99 |
-| 37 | `w478556076` | Reihenhaus an Via Santa Reparata | 9.843 | 16.100–16.104 |
-| 38 | `w478556076_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 3.086 | 16.105–16.106 |
-| 39 | `w478556077` | Renaissance-Palazzo an Via Santa Reparata | 6.058 | 16.107–16.109 |
-| 40 | `w478556077_innen` | Renaissance-Palazzo an Via Santa Reparata: Innenausbau | 1.652 | 16.110 |
-| 41 | `w478556078` | Reihenhaus an Via San Gallo | 4.224 | 16.111–16.113 |
-| 42 | `w478556078_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2.281 | 16.114–16.115 |
-| 43 | `w478556079` | Reihenhaus an Via San Gallo | 13.154 | 16.116–16.122 |
-| 44 | `w478556079_innen` | Reihenhaus an Via San Gallo: Innenausbau | 3.898 | 16.123–16.125 |
-| 45 | `w478556081` | Haus w478556081 | 6.403 | 16.126–16.129 |
-| 46 | `w478556081_innen` | Haus w478556081: Innenausbau | 1.467 | 16.130 |
-| 47 | `w478556084` | Reihenhaus an Via San Gallo | 2.030 | 16.131 |
-| 48 | `w478556084_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.135 | 16.132 |
-| 49 | `w478556085` | Reihenhaus an Via Santa Reparata | 10.510 | 16.133–16.138 |
-| 50 | `w478556085_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.701 | 16.139 |
-| 51 | `w478556088` | Haus w478556088 | 1.440 | 16.140 |
-| 52 | `w478556088_innen` | Haus w478556088: Innenausbau | 275 | 16.141 |
-| 53 | `w478556091` | Reihenhaus an Via Santa Reparata | 6.657 | 16.141–16.144 |
-| 54 | `w478556091_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 3.110 | 16.145–16.146 |
+| 7 | `r7035157` | Palazzo des Cinquecento an Via San Gallo | 16.427 | 16.36–16.44 |
+| 8 | `r7035157_innen` | Palazzo des Cinquecento an Via San Gallo: Innenausbau | 2.312 | 16.45–16.46 |
+| 9 | `r7035158` | Reihenhaus an Via Santa Reparata | 6.397 | 16.47–16.50 |
+| 10 | `r7035158_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.279 | 16.51 |
+| 11 | `w478556030` | Reihenhaus an Via Santa Reparata | 7.648 | 16.52–16.55 |
+| 12 | `w478556030_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.657 | 16.56 |
+| 13 | `w478556034` | Reihenhaus an Via San Gallo | 2.874 | 16.57–16.58 |
+| 14 | `w478556034_innen` | Reihenhaus an Via San Gallo: Innenausbau | 838 | 16.59 |
+| 15 | `w478556039` | Reihenhaus an Via San Gallo | 5.609 | 16.60–16.62 |
+| 16 | `w478556039_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.283 | 16.63 |
+| 17 | `w478556043` | Reihenhaus an Via Santa Reparata | 1.582 | 16.64 |
+| 18 | `w478556043_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 925 | 16.65 |
+| 19 | `w478556046` | Haus w478556046 | 9.638 | 16.66–16.70 |
+| 20 | `w478556046_innen` | Haus w478556046: Innenausbau | 2.237 | 16.71–16.72 |
+| 21 | `w478556055` | Reihenhaus an Via San Gallo | 2.700 | 16.73–16.74 |
+| 22 | `w478556055_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2 | 16.75 |
+| 23 | `w478556057` | Reihenhaus an Via San Gallo | 3.858 | 16.75–16.76 |
+| 24 | `w478556057_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.548 | 16.77 |
+| 25 | `w478556067` | Haus w478556067 | 5.733 | 16.78–16.80 |
+| 26 | `w478556067_innen` | Haus w478556067: Innenausbau | 2.438 | 16.81–16.82 |
+| 27 | `w478556069` | Reihenhaus an Via Santa Reparata | 2.424 | 16.83–16.84 |
+| 28 | `w478556069_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 2 | 16.85 |
+| 29 | `w478556070` | Haus w478556070 | 2.508 | 16.85–16.86 |
+| 30 | `w478556070_innen` | Haus w478556070: Innenausbau | 811 | 16.87 |
+| 31 | `w478556071` | Reihenhaus an Via San Gallo | 5.498 | 16.88–16.90 |
+| 32 | `w478556071_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.062 | 16.91 |
+| 33 | `w478556072` | Reihenhaus an Via San Gallo | 2.323 | 16.92–16.93 |
+| 34 | `w478556072_innen` | Reihenhaus an Via San Gallo: Innenausbau | 652 | 16.94 |
+| 35 | `w478556075` | Reihenhaus an Via Santa Reparata | 6.816 | 16.95–16.98 |
+| 36 | `w478556075_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 2.932 | 16.99–16.100 |
+| 37 | `w478556076` | Reihenhaus an Via Santa Reparata | 9.855 | 16.101–16.105 |
+| 38 | `w478556076_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 3.091 | 16.106–16.107 |
+| 39 | `w478556077` | Renaissance-Palazzo an Via Santa Reparata | 6.080 | 16.108–16.110 |
+| 40 | `w478556077_innen` | Renaissance-Palazzo an Via Santa Reparata: Innenausbau | 1.652 | 16.111 |
+| 41 | `w478556078` | Reihenhaus an Via San Gallo | 4.266 | 16.112–16.114 |
+| 42 | `w478556078_innen` | Reihenhaus an Via San Gallo: Innenausbau | 2.281 | 16.115–16.116 |
+| 43 | `w478556079` | Reihenhaus an Via San Gallo | 13.656 | 16.117–16.123 |
+| 44 | `w478556079_innen` | Reihenhaus an Via San Gallo: Innenausbau | 3.890 | 16.124–16.126 |
+| 45 | `w478556081` | Haus w478556081 | 6.403 | 16.127–16.130 |
+| 46 | `w478556081_innen` | Haus w478556081: Innenausbau | 1.467 | 16.131 |
+| 47 | `w478556084` | Reihenhaus an Via San Gallo | 2.078 | 16.132 |
+| 48 | `w478556084_innen` | Reihenhaus an Via San Gallo: Innenausbau | 1.125 | 16.133 |
+| 49 | `w478556085` | Reihenhaus an Via Santa Reparata | 10.960 | 16.134–16.139 |
+| 50 | `w478556085_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 1.704 | 16.140 |
+| 51 | `w478556088` | Haus w478556088 | 1.468 | 16.141 |
+| 52 | `w478556088_innen` | Haus w478556088: Innenausbau | 1 | 16.142 |
+| 53 | `w478556091` | Reihenhaus an Via Santa Reparata | 6.657 | 16.142–16.145 |
+| 54 | `w478556091_innen` | Reihenhaus an Via Santa Reparata: Innenausbau | 3.110 | 16.146–16.147 |
 
 ## Bauschritte
 
-### Schritt 16.1 – Palazzo des Cinquecento an Via San Gallo – Teil 1/10 (Y 63–63)
+### Schritt 16.1 – Palazzo des Cinquecento an Via San Gallo – Teil 1/10 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.175
 - **Bauteile:** `r4086113`
 
@@ -147,9 +151,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Palazzo des Cinquecento an Via San Gallo – Teil 2/10 (Y 63–65)
+### Schritt 16.2 – Palazzo des Cinquecento an Via San Gallo – Teil 2/10 (Y 67–69)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.891
 - **Bauteile:** `r4086113`
 
@@ -179,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Palazzo des Cinquecento an Via San Gallo – Teil 3/10 (Y 66–70)
+### Schritt 16.3 – Palazzo des Cinquecento an Via San Gallo – Teil 3/10 (Y 70–74)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.759
 - **Bauteile:** `r4086113`
 
@@ -211,9 +215,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Palazzo des Cinquecento an Via San Gallo – Teil 4/10 (Y 71–75)
+### Schritt 16.4 – Palazzo des Cinquecento an Via San Gallo – Teil 4/10 (Y 75–79)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.862
 - **Bauteile:** `r4086113`
 
@@ -242,9 +246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.5 – Palazzo des Cinquecento an Via San Gallo – Teil 5/10 (Y 76–80)
+### Schritt 16.5 – Palazzo des Cinquecento an Via San Gallo – Teil 5/10 (Y 80–84)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.725
 - **Bauteile:** `r4086113`
 
@@ -272,9 +276,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.6 – Palazzo des Cinquecento an Via San Gallo – Teil 6/10 (Y 81–84)
+### Schritt 16.6 – Palazzo des Cinquecento an Via San Gallo – Teil 6/10 (Y 85–88)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 85 bis 88
 - **Blöcke:** 1.468
 - **Bauteile:** `r4086113`
 
@@ -301,9 +305,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.7 – Palazzo des Cinquecento an Via San Gallo – Teil 7/10 (Y 85–89)
+### Schritt 16.7 – Palazzo des Cinquecento an Via San Gallo – Teil 7/10 (Y 89–93)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 89 bis 93
 - **Blöcke:** 1.774
 - **Bauteile:** `r4086113`
 
@@ -331,9 +335,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.8 – Palazzo des Cinquecento an Via San Gallo – Teil 8/10 (Y 90–93)
+### Schritt 16.8 – Palazzo des Cinquecento an Via San Gallo – Teil 8/10 (Y 94–97)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.669
 - **Bauteile:** `r4086113`
 
@@ -361,9 +365,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.9 – Palazzo des Cinquecento an Via San Gallo – Teil 9/10 (Y 94–95)
+### Schritt 16.9 – Palazzo des Cinquecento an Via San Gallo – Teil 9/10 (Y 98–99)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.665
 - **Bauteile:** `r4086113`
 
@@ -389,9 +393,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.10 – Palazzo des Cinquecento an Via San Gallo – Teil 10/10 (Y 96–101)
+### Schritt 16.10 – Palazzo des Cinquecento an Via San Gallo – Teil 10/10 (Y 100–105)
 
-- **Y-Bereich:** 96 bis 101
+- **Y-Bereich:** 100 bis 105
 - **Blöcke:** 1.537
 - **Bauteile:** `r4086113`
 
@@ -418,9 +422,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.11 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 16.11 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 1/2 (Y 67–77)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 2.023
 - **Bauteile:** `r4086113_innen`
 
@@ -460,9 +464,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.12 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 16.12 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 2/2 (Y 78–88)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 78 bis 88
 - **Blöcke:** 2.023
 - **Bauteile:** `r4086113_innen`
 
@@ -504,9 +508,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.13 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 1/9 (Y 63–63)
+### Schritt 16.13 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 1/9 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.851
 - **Bauteile:** `r7035155`
 
@@ -532,9 +536,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.14 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 2/9 (Y 64–67)
+### Schritt 16.14 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 2/9 (Y 68–71)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.534
 - **Bauteile:** `r7035155`
 
@@ -565,9 +569,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.15 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 3/9 (Y 68–72)
+### Schritt 16.15 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 3/9 (Y 72–76)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.902
 - **Bauteile:** `r7035155`
 
@@ -598,9 +602,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.16 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 4/9 (Y 73–77)
+### Schritt 16.16 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 4/9 (Y 77–81)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.931
 - **Bauteile:** `r7035155`
 
@@ -630,9 +634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.17 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 5/9 (Y 78–81)
+### Schritt 16.17 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 5/9 (Y 82–85)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.498
 - **Bauteile:** `r7035155`
 
@@ -662,9 +666,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.18 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 6/9 (Y 82–86)
+### Schritt 16.18 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 6/9 (Y 86–90)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.953
 - **Bauteile:** `r7035155`
 
@@ -694,9 +698,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.19 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 7/9 (Y 87–91)
+### Schritt 16.19 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 7/9 (Y 91–95)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.867
 - **Bauteile:** `r7035155`
 
@@ -726,9 +730,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.20 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 8/9 (Y 92–94)
+### Schritt 16.20 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 8/9 (Y 96–98)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 1.944
 - **Bauteile:** `r7035155`
 
@@ -757,9 +761,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.21 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 9/9 (Y 95–102)
+### Schritt 16.21 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 9/9 (Y 99–106)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 1.540
 - **Bauteile:** `r7035155`
 
@@ -786,9 +790,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.22 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 16.22 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 1/2 (Y 67–77)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.517
 - **Bauteile:** `r7035155_innen`
 
@@ -824,9 +828,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.23 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 16.23 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 2/2 (Y 78–88)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.522
 - **Bauteile:** `r7035155_innen`
 
@@ -868,9 +872,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.24 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 1/10 (Y 63–63)
+### Schritt 16.24 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 1/10 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.912
 - **Bauteile:** `r7035156`
 
@@ -896,9 +900,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.25 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 2/10 (Y 64–66)
+### Schritt 16.25 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 2/10 (Y 68–70)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.221
 - **Bauteile:** `r7035156`
 
@@ -926,9 +930,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.26 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 3/10 (Y 67–71)
+### Schritt 16.26 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 3/10 (Y 71–75)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.893
 - **Bauteile:** `r7035156`
 
@@ -958,9 +962,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.27 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 4/10 (Y 72–75)
+### Schritt 16.27 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 4/10 (Y 76–79)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.606
 - **Bauteile:** `r7035156`
 
@@ -988,9 +992,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.28 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 5/10 (Y 76–79)
+### Schritt 16.28 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 5/10 (Y 80–83)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.488
 - **Bauteile:** `r7035156`
 
@@ -1019,9 +1023,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.29 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 6/10 (Y 80–84)
+### Schritt 16.29 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 6/10 (Y 84–88)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 84 bis 88
 - **Blöcke:** 1.929
 - **Bauteile:** `r7035156`
 
@@ -1051,9 +1055,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.30 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 7/10 (Y 85–88)
+### Schritt 16.30 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 7/10 (Y 89–92)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 89 bis 92
 - **Blöcke:** 1.537
 - **Bauteile:** `r7035156`
 
@@ -1082,9 +1086,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.31 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 8/10 (Y 89–92)
+### Schritt 16.31 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 8/10 (Y 93–96)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 93 bis 96
 - **Blöcke:** 1.630
 - **Bauteile:** `r7035156`
 
@@ -1114,9 +1118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.32 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 9/10 (Y 93–94)
+### Schritt 16.32 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 9/10 (Y 97–98)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.749
 - **Bauteile:** `r7035156`
 
@@ -1145,9 +1149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.33 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 10/10 (Y 95–100)
+### Schritt 16.33 – Palazzo des Cinquecento an Via Ventisette Aprile – Teil 10/10 (Y 99–104)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 99 bis 104
 - **Blöcke:** 1.467
 - **Bauteile:** `r7035156`
 
@@ -1174,9 +1178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.34 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 16.34 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 1/2 (Y 67–77)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.576
 - **Bauteile:** `r7035156_innen`
 
@@ -1216,9 +1220,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.35 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 16.35 – Palazzo des Cinquecento an Via Ventisette Aprile: Innenausbau – Teil 2/2 (Y 78–88)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.582
 - **Bauteile:** `r7035156_innen`
 
@@ -1262,20 +1266,24 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.36 – Palazzo des Cinquecento an Via San Gallo – Teil 1/8 (Y 63–64)
+### Schritt 16.36 – Palazzo des Cinquecento an Via San Gallo – Teil 1/9 (Y 67–68)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.829
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.932
 - **Bauteile:** `r7035157`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.466 |
-| Glatter Sandstein | `smooth_sandstone` | 357 |
-| Polierter Andesit | `polished_andesite` | 5 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
+| Tuffstein | `tuff` | 1.928 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -1293,9 +1301,47 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.37 – Palazzo des Cinquecento an Via San Gallo – Teil 2/8 (Y 65–69)
+### Schritt 16.37 – Palazzo des Cinquecento an Via San Gallo – Teil 2/9 (Y 69–70)
 
-- **Y-Bereich:** 65 bis 69
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.825
+- **Bauteile:** `r7035157`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.460 |
+| Glatter Sandstein | `smooth_sandstone` | 357 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 16.38 – Palazzo des Cinquecento an Via San Gallo – Teil 3/9 (Y 71–75)
+
+- **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.803
 - **Bauteile:** `r7035157`
 
@@ -1325,9 +1371,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.38 – Palazzo des Cinquecento an Via San Gallo – Teil 3/8 (Y 70–74)
+### Schritt 16.39 – Palazzo des Cinquecento an Via San Gallo – Teil 4/9 (Y 76–80)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.837
 - **Bauteile:** `r7035157`
 
@@ -1356,9 +1402,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.39 – Palazzo des Cinquecento an Via San Gallo – Teil 4/8 (Y 75–79)
+### Schritt 16.40 – Palazzo des Cinquecento an Via San Gallo – Teil 5/9 (Y 81–85)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.809
 - **Bauteile:** `r7035157`
 
@@ -1386,9 +1432,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.40 – Palazzo des Cinquecento an Via San Gallo – Teil 5/8 (Y 80–84)
+### Schritt 16.41 – Palazzo des Cinquecento an Via San Gallo – Teil 6/9 (Y 86–90)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.836
 - **Bauteile:** `r7035157`
 
@@ -1417,9 +1463,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.41 – Palazzo des Cinquecento an Via San Gallo – Teil 6/8 (Y 85–89)
+### Schritt 16.42 – Palazzo des Cinquecento an Via San Gallo – Teil 7/9 (Y 91–95)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.809
 - **Bauteile:** `r7035157`
 
@@ -1447,9 +1493,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.42 – Palazzo des Cinquecento an Via San Gallo – Teil 7/8 (Y 90–93)
+### Schritt 16.43 – Palazzo des Cinquecento an Via San Gallo – Teil 8/9 (Y 96–99)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 96 bis 99
 - **Blöcke:** 1.587
 - **Bauteile:** `r7035157`
 
@@ -1478,9 +1524,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.43 – Palazzo des Cinquecento an Via San Gallo – Teil 8/8 (Y 94–98)
+### Schritt 16.44 – Palazzo des Cinquecento an Via San Gallo – Teil 9/9 (Y 100–104)
 
-- **Y-Bereich:** 94 bis 98
+- **Y-Bereich:** 100 bis 104
 - **Blöcke:** 1.989
 - **Bauteile:** `r7035157`
 
@@ -1507,9 +1553,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.44 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 16.45 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 1/2 (Y 69–79)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.152
 - **Bauteile:** `r7035157_innen`
 
@@ -1549,9 +1595,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.45 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 16.46 – Palazzo des Cinquecento an Via San Gallo: Innenausbau – Teil 2/2 (Y 80–90)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.160
 - **Bauteile:** `r7035157_innen`
 
@@ -1595,9 +1641,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.46 – Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 63–69)
+### Schritt 16.47 – Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 67–73)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.533
 - **Bauteile:** `r7035158`
 
@@ -1626,9 +1672,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.47 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 70–79)
+### Schritt 16.48 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 74–83)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.695
 - **Bauteile:** `r7035158`
 
@@ -1656,9 +1702,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.48 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 80–88)
+### Schritt 16.49 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 84–92)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.528
 - **Bauteile:** `r7035158`
 
@@ -1686,9 +1732,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.49 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 89–98)
+### Schritt 16.50 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 93–102)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 93 bis 102
 - **Blöcke:** 1.641
 - **Bauteile:** `r7035158`
 
@@ -1719,9 +1765,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.50 – Reihenhaus an Via Santa Reparata: Innenausbau
+### Schritt 16.51 – Reihenhaus an Via Santa Reparata: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.279
 - **Bauteile:** `r7035158_innen`
 
@@ -1761,9 +1807,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.51 – Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 63–69)
+### Schritt 16.52 – Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 67–73)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.874
 - **Bauteile:** `w478556030`
 
@@ -1793,9 +1839,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.52 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 70–79)
+### Schritt 16.53 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 74–83)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.989
 - **Bauteile:** `w478556030`
 
@@ -1824,9 +1870,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.53 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 80–88)
+### Schritt 16.54 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 84–92)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.788
 - **Bauteile:** `w478556030`
 
@@ -1854,9 +1900,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.54 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 89–100)
+### Schritt 16.55 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 93–104)
 
-- **Y-Bereich:** 89 bis 100
+- **Y-Bereich:** 93 bis 104
 - **Blöcke:** 1.997
 - **Bauteile:** `w478556030`
 
@@ -1886,9 +1932,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.55 – Reihenhaus an Via Santa Reparata: Innenausbau
+### Schritt 16.56 – Reihenhaus an Via Santa Reparata: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.657
 - **Bauteile:** `w478556030_innen`
 
@@ -1928,9 +1974,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.56 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 63–79)
+### Schritt 16.57 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 67–83)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 67 bis 83
 - **Blöcke:** 1.449
 - **Bauteile:** `w478556034`
 
@@ -1959,9 +2005,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.57 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 80–95)
+### Schritt 16.58 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 84–99)
 
-- **Y-Bereich:** 80 bis 95
+- **Y-Bereich:** 84 bis 99
 - **Blöcke:** 1.425
 - **Bauteile:** `w478556034`
 
@@ -1991,9 +2037,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.58 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 16.59 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 838
 - **Bauteile:** `w478556034_innen`
 
@@ -2031,17 +2077,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.59 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 63–72)
+### Schritt 16.60 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 67–75)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.831
+- **Y-Bereich:** 67 bis 75
+- **Blöcke:** 1.816
 - **Bauteile:** `w478556039`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.198 |
+| Rosa Keramik | `pink_terracotta` | 1.183 |
 | Polierter Tuffstein | `polished_tuff` | 587 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
@@ -2064,17 +2110,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.60 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 73–85)
+### Schritt 16.61 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 76–89)
 
-- **Y-Bereich:** 73 bis 85
-- **Blöcke:** 1.811
+- **Y-Bereich:** 76 bis 89
+- **Blöcke:** 1.954
 - **Bauteile:** `w478556039`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.723 |
+| Rosa Keramik | `pink_terracotta` | 1.866 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Grüner Beton | `green_concrete` | 16 |
 
@@ -2094,9 +2140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.61 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 86–97)
+### Schritt 16.62 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 90–101)
 
-- **Y-Bereich:** 86 bis 97
+- **Y-Bereich:** 90 bis 101
 - **Blöcke:** 1.839
 - **Bauteile:** `w478556039`
 
@@ -2126,29 +2172,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.62 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 16.63 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.445
+- **Y-Bereich:** 67 bis 90
+- **Blöcke:** 1.283
 - **Bauteile:** `w478556039_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.308 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
-| Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Terrakotta | `terracotta` | 1.164 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -2166,9 +2210,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.63 – Reihenhaus an Via Santa Reparata
+### Schritt 16.64 – Reihenhaus an Via Santa Reparata
 
-- **Y-Bereich:** 63 bis 95
+- **Y-Bereich:** 67 bis 99
 - **Blöcke:** 1.582
 - **Bauteile:** `w478556043`
 
@@ -2199,9 +2243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.64 – Reihenhaus an Via Santa Reparata: Innenausbau
+### Schritt 16.65 – Reihenhaus an Via Santa Reparata: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 67 bis 90
 - **Blöcke:** 925
 - **Bauteile:** `w478556043_innen`
 
@@ -2237,9 +2281,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.65 – Haus w478556046 – Teil 1/5 (Y 63–66)
+### Schritt 16.66 – Haus w478556046 – Teil 1/5 (Y 67–70)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.940
 - **Bauteile:** `w478556046`
 
@@ -2269,9 +2313,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.66 – Haus w478556046 – Teil 2/5 (Y 67–75)
+### Schritt 16.67 – Haus w478556046 – Teil 2/5 (Y 71–79)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.966
 - **Bauteile:** `w478556046`
 
@@ -2302,9 +2346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.67 – Haus w478556046 – Teil 3/5 (Y 76–84)
+### Schritt 16.68 – Haus w478556046 – Teil 3/5 (Y 80–88)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.957
 - **Bauteile:** `w478556046`
 
@@ -2334,9 +2378,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.68 – Haus w478556046 – Teil 4/5 (Y 85–92)
+### Schritt 16.69 – Haus w478556046 – Teil 4/5 (Y 89–96)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.767
 - **Bauteile:** `w478556046`
 
@@ -2365,9 +2409,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.69 – Haus w478556046 – Teil 5/5 (Y 93–102)
+### Schritt 16.70 – Haus w478556046 – Teil 5/5 (Y 97–106)
 
-- **Y-Bereich:** 93 bis 102
+- **Y-Bereich:** 97 bis 106
 - **Blöcke:** 2.008
 - **Bauteile:** `w478556046`
 
@@ -2396,9 +2440,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.70 – Haus w478556046: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 16.71 – Haus w478556046: Innenausbau – Teil 1/2 (Y 67–77)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.121
 - **Bauteile:** `w478556046_innen`
 
@@ -2438,9 +2482,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.71 – Haus w478556046: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 16.72 – Haus w478556046: Innenausbau – Teil 2/2 (Y 78–88)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.116
 - **Bauteile:** `w478556046_innen`
 
@@ -2482,17 +2526,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.72 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 63–79)
+### Schritt 16.73 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 66–81)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.350
+- **Y-Bereich:** 66 bis 81
+- **Blöcke:** 1.323
 - **Bauteile:** `w478556055`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 981 |
+| Rosa Keramik | `pink_terracotta` | 954 |
 | Polierter Tuffstein | `polished_tuff` | 261 |
 | Weißer Beton | `white_concrete` | 60 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
@@ -2514,17 +2558,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.73 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 80–97)
+### Schritt 16.74 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 82–100)
 
-- **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.307
+- **Y-Bereich:** 82 bis 100
+- **Blöcke:** 1.377
 - **Bauteile:** `w478556055`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 864 |
+| Rosa Keramik | `pink_terracotta` | 934 |
 | Terrakotta | `terracotta` | 302 |
 | Weißer Beton | `white_concrete` | 74 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
@@ -2547,31 +2591,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.74 – Reihenhaus an Via San Gallo: Innenausbau & Reihenhaus an Via San Gallo – Teil 1/2 (Y 63–79)
+### Schritt 16.75 – Reihenhaus an Via San Gallo: Innenausbau & Reihenhaus an Via San Gallo – Teil 1/2 (Y 67–82)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.629
+- **Y-Bereich:** 66 bis 82
+- **Blöcke:** 1.921
 - **Bauteile:** `w478556055_innen`, `w478556057`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.021 |
-| Polierter Tuffstein | `polished_tuff` | 549 |
+| Rosa Keramik | `pink_terracotta` | 817 |
+| Polierter Tuffstein | `polished_tuff` | 550 |
+| Tuffstein | `tuff` | 501 |
 | Fichtenholz-Bretter | `spruce_planks` | 20 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
 | Glatter Stein | `smooth_stone` | 16 |
+| Graues Buntglas | `gray_stained_glass` | 15 |
 | Seelaterne | `sea_lantern` | 2 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2589,20 +2625,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.75 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 80–97)
+### Schritt 16.76 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 83–103)
 
-- **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.648
+- **Y-Bereich:** 83 bis 103
+- **Blöcke:** 1.939
 - **Bauteile:** `w478556057`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 908 |
+| Rosa Keramik | `pink_terracotta` | 1.196 |
 | Terrakotta | `terracotta` | 659 |
 | Ziegelsteine | `bricks` | 33 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
+| Graues Buntglas | `gray_stained_glass` | 27 |
 | Fichtenholz-Bretter | `spruce_planks` | 24 |
 
 **Beschreibung**
@@ -2621,29 +2657,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.76 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 16.77 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.559
+- **Y-Bereich:** 69 bis 93
+- **Blöcke:** 1.548
 - **Bauteile:** `w478556057_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.413 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 7 |
-| Weiße Keramik | `white_terracotta` | 7 |
+| Terrakotta | `terracotta` | 1.416 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -2661,22 +2697,30 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.77 – Haus w478556067 – Teil 1/3 (Y 63–71)
+### Schritt 16.78 – Haus w478556067 – Teil 1/3 (Y 68–75)
 
-- **Y-Bereich:** 63 bis 71
-- **Blöcke:** 1.748
+- **Y-Bereich:** 68 bis 75
+- **Blöcke:** 1.874
 - **Bauteile:** `w478556067`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 882 |
-| Glatter Sandstein | `smooth_sandstone` | 822 |
+| Polierter Tuffstein | `polished_tuff` | 879 |
+| Glatter Sandstein | `smooth_sandstone` | 603 |
+| Tuffstein | `tuff` | 349 |
 | Glatter Stein | `smooth_stone` | 19 |
-| Weißer Beton | `white_concrete` | 19 |
+| Weißer Beton | `white_concrete` | 14 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
 | Polierter Andesit | `polished_andesite` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -2694,18 +2738,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.78 – Haus w478556067 – Teil 2/3 (Y 72–87)
+### Schritt 16.79 – Haus w478556067 – Teil 2/3 (Y 76–93)
 
-- **Y-Bereich:** 72 bis 87
-- **Blöcke:** 1.760
+- **Y-Bereich:** 76 bis 93
+- **Blöcke:** 1.984
 - **Bauteile:** `w478556067`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.617 |
-| Weißer Beton | `white_concrete` | 111 |
+| Glatter Sandstein | `smooth_sandstone` | 1.836 |
+| Weißer Beton | `white_concrete` | 116 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 
 **Beschreibung**
@@ -2724,10 +2768,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.79 – Haus w478556067 – Teil 3/3 (Y 88–100)
+### Schritt 16.80 – Haus w478556067 – Teil 3/3 (Y 94–106)
 
-- **Y-Bereich:** 88 bis 100
-- **Blöcke:** 1.791
+- **Y-Bereich:** 94 bis 106
+- **Blöcke:** 1.875
 - **Bauteile:** `w478556067`
 
 **Teileliste**
@@ -2735,7 +2779,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.078 |
-| Glatter Sandstein | `smooth_sandstone` | 601 |
+| Glatter Sandstein | `smooth_sandstone` | 685 |
 | Ziegelsteine | `bricks` | 57 |
 | Weißer Beton | `white_concrete` | 39 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -2756,23 +2800,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.80 – Haus w478556067: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 16.81 – Haus w478556067: Innenausbau – Teil 1/2 (Y 69–84)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 852
+- **Y-Bereich:** 69 bis 84
+- **Blöcke:** 855
 - **Bauteile:** `w478556067_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 762 |
+| Terrakotta | `terracotta` | 763 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 16 |
+| Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2796,9 +2840,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.81 – Haus w478556067: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 16.82 – Haus w478556067: Innenausbau – Teil 2/2 (Y 85–93)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.583
 - **Bauteile:** `w478556067_innen`
 
@@ -2806,11 +2850,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.524 |
+| Terrakotta | `terracotta` | 1.526 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 11 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 11 |
+| Seelaterne | `sea_lantern` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
 | Rote Keramik | `red_terracotta` | 5 |
 | Weiße Keramik | `white_terracotta` | 5 |
 
@@ -2836,17 +2880,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.82 – Reihenhaus an Via Santa Reparata – Teil 1/2 (Y 63–78)
+### Schritt 16.83 – Reihenhaus an Via Santa Reparata – Teil 1/2 (Y 68–84)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.170
+- **Y-Bereich:** 68 bis 84
+- **Blöcke:** 1.236
 - **Bauteile:** `w478556069`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 958 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.024 |
 | Polierter Tuffstein | `polished_tuff` | 212 |
 
 **Beschreibung**
@@ -2865,17 +2909,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.83 – Reihenhaus an Via Santa Reparata – Teil 2/2 (Y 79–97)
+### Schritt 16.84 – Reihenhaus an Via Santa Reparata – Teil 2/2 (Y 85–102)
 
-- **Y-Bereich:** 79 bis 97
-- **Blöcke:** 1.210
+- **Y-Bereich:** 85 bis 102
+- **Blöcke:** 1.188
 - **Bauteile:** `w478556069`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 990 |
+| Hellgrauer Beton | `light_gray_concrete` | 968 |
 | Terrakotta | `terracotta` | 214 |
 | Ziegelsteine | `bricks` | 6 |
 
@@ -2895,17 +2939,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.84 – Reihenhaus an Via Santa Reparata: Innenausbau & Haus w478556070 – Teil 1/2 (Y 63–79)
+### Schritt 16.85 – Reihenhaus an Via Santa Reparata: Innenausbau & Haus w478556070 – Teil 1/2 (Y 68–84)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.209
+- **Y-Bereich:** 68 bis 84
+- **Blöcke:** 1.266
 - **Bauteile:** `w478556069_innen`, `w478556070`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 665 |
+| Weißer Beton | `white_concrete` | 722 |
 | Polierter Tuffstein | `polished_tuff` | 299 |
 | Polierter Andesit | `polished_andesite` | 179 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
@@ -2927,9 +2971,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.85 – Haus w478556070 – Teil 2/2 (Y 80–98)
+### Schritt 16.86 – Haus w478556070 – Teil 2/2 (Y 85–103)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 85 bis 103
 - **Blöcke:** 1.244
 - **Bauteile:** `w478556070`
 
@@ -2959,10 +3003,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.86 – Haus w478556070: Innenausbau
+### Schritt 16.87 – Haus w478556070: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 815
+- **Y-Bereich:** 68 bis 91
+- **Blöcke:** 811
 - **Bauteile:** `w478556070_innen`
 
 **Teileliste**
@@ -2971,11 +3015,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 693 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2999,9 +3041,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.87 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 63–72)
+### Schritt 16.88 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 66–75)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 66 bis 75
 - **Blöcke:** 1.776
 - **Bauteile:** `w478556071`
 
@@ -3029,9 +3071,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.88 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 73–85)
+### Schritt 16.89 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 76–88)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 76 bis 88
 - **Blöcke:** 1.960
 - **Bauteile:** `w478556071`
 
@@ -3059,9 +3101,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.89 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 86–97)
+### Schritt 16.90 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 89–100)
 
-- **Y-Bereich:** 86 bis 97
+- **Y-Bereich:** 89 bis 100
 - **Blöcke:** 1.762
 - **Bauteile:** `w478556071`
 
@@ -3091,9 +3133,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.90 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 16.91 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.062
 - **Bauteile:** `w478556071_innen`
 
@@ -3133,9 +3175,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.91 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 63–79)
+### Schritt 16.92 – Reihenhaus an Via San Gallo – Teil 1/2 (Y 66–82)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 66 bis 82
 - **Blöcke:** 1.190
 - **Bauteile:** `w478556072`
 
@@ -3164,9 +3206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.92 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 80–98)
+### Schritt 16.93 – Reihenhaus an Via San Gallo – Teil 2/2 (Y 83–101)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 83 bis 101
 - **Blöcke:** 1.133
 - **Bauteile:** `w478556072`
 
@@ -3196,9 +3238,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.93 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 16.94 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 66 bis 89
 - **Blöcke:** 652
 - **Bauteile:** `w478556072_innen`
 
@@ -3234,22 +3276,30 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.94 – Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 63–67)
+### Schritt 16.95 – Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 67–72)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.595
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.751
 - **Bauteile:** `w478556075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.072 |
-| Rosa Keramik | `pink_terracotta` | 447 |
+| Polierter Tuffstein | `polished_tuff` | 1.068 |
+| Rosa Keramik | `pink_terracotta` | 486 |
+| Tuffstein | `tuff` | 119 |
 | Weißer Beton | `white_concrete` | 45 |
 | Graues Buntglas | `gray_stained_glass` | 13 |
 | Glatter Stein | `smooth_stone` | 12 |
 | Grüner Beton | `green_concrete` | 6 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -3267,9 +3317,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.95 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 68–79)
+### Schritt 16.96 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 73–84)
 
-- **Y-Bereich:** 68 bis 79
+- **Y-Bereich:** 73 bis 84
 - **Blöcke:** 1.606
 - **Bauteile:** `w478556075`
 
@@ -3299,17 +3349,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.96 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 80–92)
+### Schritt 16.97 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 85–97)
 
-- **Y-Bereich:** 80 bis 92
-- **Blöcke:** 1.767
+- **Y-Bereich:** 85 bis 97
+- **Blöcke:** 1.765
 - **Bauteile:** `w478556075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.350 |
+| Rosa Keramik | `pink_terracotta` | 1.348 |
 | Weißer Beton | `white_concrete` | 278 |
 | Graues Buntglas | `gray_stained_glass` | 103 |
 | Grüner Beton | `green_concrete` | 36 |
@@ -3330,18 +3380,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.97 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 93–99)
+### Schritt 16.98 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 98–104)
 
-- **Y-Bereich:** 93 bis 99
-- **Blöcke:** 1.561
+- **Y-Bereich:** 98 bis 104
+- **Blöcke:** 1.694
 - **Bauteile:** `w478556075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.321 |
-| Rosa Keramik | `pink_terracotta` | 174 |
+| Terrakotta | `terracotta` | 1.324 |
+| Rosa Keramik | `pink_terracotta` | 304 |
 | Ziegelsteine | `bricks` | 66 |
 
 **Beschreibung**
@@ -3360,10 +3410,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.98 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 16.99 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 1/2 (Y 68–83)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.013
+- **Y-Bereich:** 68 bis 83
+- **Blöcke:** 1.020
 - **Bauteile:** `w478556075_innen`
 
 **Teileliste**
@@ -3371,16 +3421,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 925 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
 | Seelaterne | `sea_lantern` | 14 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
 
 **Beschreibung**
 
@@ -3398,10 +3452,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.99 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 16.100 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 2/2 (Y 84–92)
 
-- **Y-Bereich:** 79 bis 86
-- **Blöcke:** 1.906
+- **Y-Bereich:** 84 bis 92
+- **Blöcke:** 1.912
 - **Bauteile:** `w478556075_innen`
 
 **Teileliste**
@@ -3413,8 +3467,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 14 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3438,9 +3492,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.100 – Reihenhaus an Via Santa Reparata – Teil 1/5 (Y 63–66)
+### Schritt 16.101 – Reihenhaus an Via Santa Reparata – Teil 1/5 (Y 67–70)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.894
 - **Bauteile:** `w478556076`
 
@@ -3468,9 +3522,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.101 – Reihenhaus an Via Santa Reparata – Teil 2/5 (Y 67–75)
+### Schritt 16.102 – Reihenhaus an Via Santa Reparata – Teil 2/5 (Y 71–79)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 2.060
 - **Bauteile:** `w478556076`
 
@@ -3498,9 +3552,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.102 – Reihenhaus an Via Santa Reparata – Teil 3/5 (Y 76–84)
+### Schritt 16.103 – Reihenhaus an Via Santa Reparata – Teil 3/5 (Y 80–88)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 2.057
 - **Bauteile:** `w478556076`
 
@@ -3528,9 +3582,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.103 – Reihenhaus an Via Santa Reparata – Teil 4/5 (Y 85–92)
+### Schritt 16.104 – Reihenhaus an Via Santa Reparata – Teil 4/5 (Y 89–96)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.860
 - **Bauteile:** `w478556076`
 
@@ -3559,10 +3613,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.104 – Reihenhaus an Via Santa Reparata – Teil 5/5 (Y 93–100)
+### Schritt 16.105 – Reihenhaus an Via Santa Reparata – Teil 5/5 (Y 97–104)
 
-- **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.972
+- **Y-Bereich:** 97 bis 104
+- **Blöcke:** 1.984
 - **Bauteile:** `w478556076`
 
 **Teileliste**
@@ -3570,7 +3624,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.586 |
-| Gelbe Keramik | `yellow_terracotta` | 232 |
+| Gelbe Keramik | `yellow_terracotta` | 244 |
 | Ziegelsteine | `bricks` | 80 |
 | Fichtenholz-Bretter | `spruce_planks` | 74 |
 
@@ -3590,10 +3644,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.105 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 16.106 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 1/2 (Y 67–82)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.071
+- **Y-Bereich:** 67 bis 82
+- **Blöcke:** 1.076
 - **Bauteile:** `w478556076_innen`
 
 **Teileliste**
@@ -3601,20 +3655,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 976 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Seelaterne | `sea_lantern` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
 
 **Beschreibung**
 
@@ -3632,9 +3686,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.106 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 16.107 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 2/2 (Y 83–91)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 83 bis 91
 - **Blöcke:** 2.015
 - **Bauteile:** `w478556076_innen`
 
@@ -3674,10 +3728,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.107 – Renaissance-Palazzo an Via Santa Reparata – Teil 1/3 (Y 63–73)
+### Schritt 16.108 – Renaissance-Palazzo an Via Santa Reparata – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 2.083
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.976
 - **Bauteile:** `w478556077`
 
 **Teileliste**
@@ -3685,9 +3739,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 915 |
-| Tuffstein | `tuff` | 765 |
+| Tuffstein | `tuff` | 687 |
 | Polierter Andesit | `polished_andesite` | 183 |
-| Tuffsteinziegel | `tuff_bricks` | 142 |
+| Tuffsteinziegel | `tuff_bricks` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 
 **Beschreibung**
@@ -3706,20 +3760,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.108 – Renaissance-Palazzo an Via Santa Reparata – Teil 2/3 (Y 74–87)
+### Schritt 16.109 – Renaissance-Palazzo an Via Santa Reparata – Teil 2/3 (Y 77–91)
 
-- **Y-Bereich:** 74 bis 87
-- **Blöcke:** 1.908
+- **Y-Bereich:** 77 bis 91
+- **Blöcke:** 2.037
 - **Bauteile:** `w478556077`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 848 |
+| Tuffstein | `tuff` | 948 |
 | Polierter Andesit | `polished_andesite` | 575 |
 | Glatter Stein | `smooth_stone` | 206 |
-| Tuffsteinziegel | `tuff_bricks` | 149 |
+| Tuffsteinziegel | `tuff_bricks` | 178 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
 
 **Beschreibung**
@@ -3738,9 +3792,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.109 – Renaissance-Palazzo an Via Santa Reparata – Teil 3/3 (Y 88–98)
+### Schritt 16.110 – Renaissance-Palazzo an Via Santa Reparata – Teil 3/3 (Y 92–102)
 
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 92 bis 102
 - **Blöcke:** 2.067
 - **Bauteile:** `w478556077`
 
@@ -3771,9 +3825,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.110 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau
+### Schritt 16.111 – Renaissance-Palazzo an Via Santa Reparata: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 67 bis 87
 - **Blöcke:** 1.652
 - **Bauteile:** `w478556077_innen`
 
@@ -3809,17 +3863,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.111 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 63–71)
+### Schritt 16.112 – Reihenhaus an Via San Gallo – Teil 1/3 (Y 67–75)
 
-- **Y-Bereich:** 63 bis 71
-- **Blöcke:** 1.389
+- **Y-Bereich:** 67 bis 75
+- **Blöcke:** 1.390
 - **Bauteile:** `w478556078`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 797 |
+| Polierter Tuffstein | `polished_tuff` | 798 |
 | Glatter Sandstein | `smooth_sandstone` | 539 |
 | Weißer Beton | `white_concrete` | 21 |
 | Glatter Stein | `smooth_stone` | 19 |
@@ -3842,9 +3896,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.112 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 72–90)
+### Schritt 16.113 – Reihenhaus an Via San Gallo – Teil 2/3 (Y 76–94)
 
-- **Y-Bereich:** 72 bis 90
+- **Y-Bereich:** 76 bis 94
 - **Blöcke:** 1.440
 - **Bauteile:** `w478556078`
 
@@ -3873,10 +3927,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.113 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 91–99)
+### Schritt 16.114 – Reihenhaus an Via San Gallo – Teil 3/3 (Y 95–103)
 
-- **Y-Bereich:** 91 bis 99
-- **Blöcke:** 1.395
+- **Y-Bereich:** 95 bis 103
+- **Blöcke:** 1.436
 - **Bauteile:** `w478556078`
 
 **Teileliste**
@@ -3884,7 +3938,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.034 |
-| Glatter Sandstein | `smooth_sandstone` | 210 |
+| Glatter Sandstein | `smooth_sandstone` | 251 |
 | Fichtenholz-Bretter | `spruce_planks` | 66 |
 | Ziegelsteine | `bricks` | 64 |
 | Weißer Beton | `white_concrete` | 16 |
@@ -3906,21 +3960,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.114 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 16.115 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/2 (Y 67–82)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 803
+- **Y-Bereich:** 67 bis 82
+- **Blöcke:** 802
 - **Bauteile:** `w478556078_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 711 |
+| Terrakotta | `terracotta` | 712 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 
@@ -3946,31 +4000,31 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.115 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 16.116 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/2 (Y 83–91)
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.478
+- **Y-Bereich:** 83 bis 91
+- **Blöcke:** 1.479
 - **Bauteile:** `w478556078_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.422 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
+| Terrakotta | `terracotta` | 1.424 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 
@@ -3988,19 +4042,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.116 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 63–64)
+### Schritt 16.117 – Reihenhaus an Via San Gallo – Teil 1/7 (Y 67–68)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.899
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.998
 - **Bauteile:** `w478556079`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.580 |
-| Glatter Sandstein | `smooth_sandstone` | 316 |
-| Polierter Andesit | `polished_andesite` | 3 |
+| Polierter Tuffstein | `polished_tuff` | 1.575 |
+| Tuffstein | `tuff` | 417 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -4018,18 +4079,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.117 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 65–70)
+### Schritt 16.118 – Reihenhaus an Via San Gallo – Teil 2/7 (Y 69–74)
 
-- **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.888
+- **Y-Bereich:** 69 bis 74
+- **Blöcke:** 1.882
 - **Bauteile:** `w478556079`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.524 |
-| Polierter Andesit | `polished_andesite` | 269 |
+| Glatter Sandstein | `smooth_sandstone` | 1.572 |
+| Polierter Andesit | `polished_andesite` | 215 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 | Grüner Beton | `green_concrete` | 45 |
 
@@ -4049,19 +4110,112 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.118 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 71–76)
+### Schritt 16.119 – Reihenhaus an Via San Gallo – Teil 3/7 (Y 75–80)
 
-- **Y-Bereich:** 71 bis 76
-- **Blöcke:** 1.902
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.925
 - **Bauteile:** `w478556079`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.579 |
-| Polierter Andesit | `polished_andesite` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
+| Glatter Sandstein | `smooth_sandstone` | 1.625 |
+| Polierter Andesit | `polished_andesite` | 210 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Grüner Beton | `green_concrete` | 36 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 16.120 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 81–86)
+
+- **Y-Bereich:** 81 bis 86
+- **Blöcke:** 1.905
+- **Bauteile:** `w478556079`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.544 |
+| Polierter Andesit | `polished_andesite` | 246 |
+| Graues Buntglas | `gray_stained_glass` | 79 |
+| Grüner Beton | `green_concrete` | 36 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 16.121 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 87–92)
+
+- **Y-Bereich:** 87 bis 92
+- **Blöcke:** 1.905
+- **Bauteile:** `w478556079`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.544 |
+| Polierter Andesit | `polished_andesite` | 246 |
+| Graues Buntglas | `gray_stained_glass` | 79 |
+| Grüner Beton | `green_concrete` | 36 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 16.122 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 93–98)
+
+- **Y-Bereich:** 93 bis 98
+- **Blöcke:** 1.945
+- **Bauteile:** `w478556079`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.587 |
+| Polierter Andesit | `polished_andesite` | 198 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
 | Grüner Beton | `green_concrete` | 54 |
 
 **Beschreibung**
@@ -4080,102 +4234,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.119 – Reihenhaus an Via San Gallo – Teil 4/7 (Y 77–82)
+### Schritt 16.123 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 99–106)
 
-- **Y-Bereich:** 77 bis 82
-- **Blöcke:** 1.905
-- **Bauteile:** `w478556079`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.544 |
-| Polierter Andesit | `polished_andesite` | 246 |
-| Graues Buntglas | `gray_stained_glass` | 79 |
-| Grüner Beton | `green_concrete` | 36 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 16.120 – Reihenhaus an Via San Gallo – Teil 5/7 (Y 83–88)
-
-- **Y-Bereich:** 83 bis 88
-- **Blöcke:** 1.905
-- **Bauteile:** `w478556079`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.544 |
-| Polierter Andesit | `polished_andesite` | 246 |
-| Graues Buntglas | `gray_stained_glass` | 79 |
-| Grüner Beton | `green_concrete` | 36 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 16.121 – Reihenhaus an Via San Gallo – Teil 6/7 (Y 89–93)
-
-- **Y-Bereich:** 89 bis 93
-- **Blöcke:** 1.559
-- **Bauteile:** `w478556079`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.281 |
-| Polierter Andesit | `polished_andesite` | 163 |
-| Graues Buntglas | `gray_stained_glass` | 79 |
-| Grüner Beton | `green_concrete` | 36 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 16.122 – Reihenhaus an Via San Gallo – Teil 7/7 (Y 94–101)
-
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 2.096
 - **Bauteile:** `w478556079`
 
@@ -4202,9 +4263,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.123 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 16.124 – Reihenhaus an Via San Gallo: Innenausbau – Teil 1/3 (Y 68–77)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.307
 - **Bauteile:** `w478556079_innen`
 
@@ -4212,9 +4273,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.246 |
+| Terrakotta | `terracotta` | 1.247 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 15 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -4242,23 +4303,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.124 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 16.125 – Reihenhaus an Via San Gallo: Innenausbau – Teil 2/3 (Y 78–84)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.292
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 1.290
 - **Bauteile:** `w478556079_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.246 |
+| Terrakotta | `terracotta` | 1.247 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4282,23 +4343,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.125 – Reihenhaus an Via San Gallo: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 16.126 – Reihenhaus an Via San Gallo: Innenausbau – Teil 3/3 (Y 85–92)
 
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.299
+- **Y-Bereich:** 85 bis 92
+- **Blöcke:** 1.293
 - **Bauteile:** `w478556079_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.246 |
+| Terrakotta | `terracotta` | 1.247 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4322,9 +4385,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.126 – Haus w478556081 – Teil 1/4 (Y 63–69)
+### Schritt 16.127 – Haus w478556081 – Teil 1/4 (Y 67–73)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.571
 - **Bauteile:** `w478556081`
 
@@ -4354,9 +4417,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.127 – Haus w478556081 – Teil 2/4 (Y 70–79)
+### Schritt 16.128 – Haus w478556081 – Teil 2/4 (Y 74–83)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.649
 - **Bauteile:** `w478556081`
 
@@ -4385,9 +4448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.128 – Haus w478556081 – Teil 3/4 (Y 80–89)
+### Schritt 16.129 – Haus w478556081 – Teil 3/4 (Y 84–93)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 84 bis 93
 - **Blöcke:** 1.635
 - **Bauteile:** `w478556081`
 
@@ -4415,9 +4478,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.129 – Haus w478556081 – Teil 4/4 (Y 90–99)
+### Schritt 16.130 – Haus w478556081 – Teil 4/4 (Y 94–103)
 
-- **Y-Bereich:** 90 bis 99
+- **Y-Bereich:** 94 bis 103
 - **Blöcke:** 1.548
 - **Bauteile:** `w478556081`
 
@@ -4447,9 +4510,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.130 – Haus w478556081: Innenausbau
+### Schritt 16.131 – Haus w478556081: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.467
 - **Bauteile:** `w478556081_innen`
 
@@ -4489,17 +4552,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.131 – Reihenhaus an Via San Gallo
+### Schritt 16.132 – Reihenhaus an Via San Gallo
 
-- **Y-Bereich:** 63 bis 95
-- **Blöcke:** 2.030
+- **Y-Bereich:** 66 bis 98
+- **Blöcke:** 2.078
 - **Bauteile:** `w478556084`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.110 |
+| Orange Keramik | `orange_terracotta` | 1.158 |
 | Terrakotta | `terracotta` | 453 |
 | Polierter Tuffstein | `polished_tuff` | 381 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
@@ -4521,10 +4584,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.132 – Reihenhaus an Via San Gallo: Innenausbau
+### Schritt 16.133 – Reihenhaus an Via San Gallo: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.135
+- **Y-Bereich:** 66 bis 90
+- **Blöcke:** 1.125
 - **Bauteile:** `w478556084_innen`
 
 **Teileliste**
@@ -4533,11 +4596,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 993 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
-| Rote Keramik | `red_terracotta` | 9 |
-| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -4563,21 +4626,28 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.133 – Reihenhaus an Via Santa Reparata – Teil 1/6 (Y 63–66)
+### Schritt 16.134 – Reihenhaus an Via Santa Reparata – Teil 1/6 (Y 67–71)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.683
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.820
 - **Bauteile:** `w478556085`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 861 |
-| Gelbe Keramik | `yellow_terracotta` | 728 |
-| Weißer Beton | `white_concrete` | 43 |
-| Glatter Stein | `smooth_stone` | 27 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
+| Polierter Tuffstein | `polished_tuff` | 859 |
+| Gelbe Keramik | `yellow_terracotta` | 514 |
+| Tuffstein | `tuff` | 411 |
+| Glatter Stein | `smooth_stone` | 18 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -4595,20 +4665,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.134 – Reihenhaus an Via Santa Reparata – Teil 2/6 (Y 67–73)
+### Schritt 16.135 – Reihenhaus an Via Santa Reparata – Teil 2/6 (Y 72–78)
 
-- **Y-Bereich:** 67 bis 73
-- **Blöcke:** 1.956
+- **Y-Bereich:** 72 bis 78
+- **Blöcke:** 1.944
 - **Bauteile:** `w478556085`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.641 |
-| Weißer Beton | `white_concrete` | 170 |
-| Graues Buntglas | `gray_stained_glass` | 83 |
-| Glatter Stein | `smooth_stone` | 44 |
+| Gelbe Keramik | `yellow_terracotta` | 1.627 |
+| Weißer Beton | `white_concrete` | 155 |
+| Graues Buntglas | `gray_stained_glass` | 91 |
+| Glatter Stein | `smooth_stone` | 53 |
 | Grüner Beton | `green_concrete` | 18 |
 
 **Beschreibung**
@@ -4627,40 +4697,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.135 – Reihenhaus an Via Santa Reparata – Teil 3/6 (Y 74–79)
+### Schritt 16.136 – Reihenhaus an Via Santa Reparata – Teil 3/6 (Y 79–84)
 
-- **Y-Bereich:** 74 bis 79
-- **Blöcke:** 1.660
-- **Bauteile:** `w478556085`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.310 |
-| Weißer Beton | `white_concrete` | 178 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-| Grüner Beton | `green_concrete` | 60 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 16.136 – Reihenhaus an Via Santa Reparata – Teil 4/6 (Y 80–85)
-
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 79 bis 84
 - **Blöcke:** 1.660
 - **Bauteile:** `w478556085`
 
@@ -4689,9 +4728,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.137 – Reihenhaus an Via Santa Reparata – Teil 5/6 (Y 86–91)
+### Schritt 16.137 – Reihenhaus an Via Santa Reparata – Teil 4/6 (Y 85–91)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 85 bis 91
+- **Blöcke:** 1.946
+- **Bauteile:** `w478556085`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.538 |
+| Weißer Beton | `white_concrete` | 236 |
+| Graues Buntglas | `gray_stained_glass` | 112 |
+| Grüner Beton | `green_concrete` | 60 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 16.138 – Reihenhaus an Via Santa Reparata – Teil 5/6 (Y 92–97)
+
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.660
 - **Bauteile:** `w478556085`
 
@@ -4720,10 +4790,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.138 – Reihenhaus an Via Santa Reparata – Teil 6/6 (Y 92–100)
+### Schritt 16.139 – Reihenhaus an Via Santa Reparata – Teil 6/6 (Y 98–106)
 
-- **Y-Bereich:** 92 bis 100
-- **Blöcke:** 1.891
+- **Y-Bereich:** 98 bis 106
+- **Blöcke:** 1.930
 - **Bauteile:** `w478556085`
 
 **Teileliste**
@@ -4731,7 +4801,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.112 |
-| Gelbe Keramik | `yellow_terracotta` | 676 |
+| Gelbe Keramik | `yellow_terracotta` | 715 |
 | Weißer Beton | `white_concrete` | 58 |
 | Ziegelsteine | `bricks` | 45 |
 
@@ -4751,17 +4821,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.139 – Reihenhaus an Via Santa Reparata: Innenausbau
+### Schritt 16.140 – Reihenhaus an Via Santa Reparata: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.701
+- **Y-Bereich:** 69 bis 93
+- **Blöcke:** 1.704
 - **Bauteile:** `w478556085_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.566 |
+| Terrakotta | `terracotta` | 1.569 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
@@ -4791,21 +4861,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.140 – Haus w478556088
+### Schritt 16.141 – Haus w478556088
 
-- **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.440
+- **Y-Bereich:** 67 bis 100
+- **Blöcke:** 1.468
 - **Bauteile:** `w478556088`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.133 |
+| Gelbe Keramik | `yellow_terracotta` | 1.157 |
 | Terrakotta | `terracotta` | 107 |
 | Polierter Tuffstein | `polished_tuff` | 105 |
 | Weißer Beton | `white_concrete` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
+| Tuffstein | `tuff` | 4 |
 
 **Beschreibung**
 
@@ -4823,10 +4894,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.141 – Haus w478556088: Innenausbau & Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 63–67)
+### Schritt 16.142 – Haus w478556088: Innenausbau & Reihenhaus an Via Santa Reparata – Teil 1/4 (Y 67–71)
 
-- **Y-Bereich:** 63 bis 85
-- **Blöcke:** 1.911
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.637
 - **Bauteile:** `w478556088_innen`, `w478556091`
 
 **Teileliste**
@@ -4835,21 +4906,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.130 |
 | Weißer Beton | `white_concrete` | 437 |
-| Terrakotta | `terracotta` | 165 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 62 |
 | Hellgrauer Beton | `light_gray_concrete` | 42 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 20 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
 | Glatter Stein | `smooth_stone` | 8 |
 | Grüner Beton | `green_concrete` | 5 |
-| Seelaterne | `sea_lantern` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 44 |
+| Seelaterne | `sea_lantern` | 1 |
 
 **Beschreibung**
 
@@ -4867,9 +4928,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.142 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 68–80)
+### Schritt 16.143 – Reihenhaus an Via Santa Reparata – Teil 2/4 (Y 72–84)
 
-- **Y-Bereich:** 68 bis 80
+- **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.702
 - **Bauteile:** `w478556091`
 
@@ -4899,9 +4960,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.143 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 81–92)
+### Schritt 16.144 – Reihenhaus an Via Santa Reparata – Teil 3/4 (Y 85–96)
 
-- **Y-Bereich:** 81 bis 92
+- **Y-Bereich:** 85 bis 96
 - **Blöcke:** 1.595
 - **Bauteile:** `w478556091`
 
@@ -4930,9 +4991,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.144 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 93–102)
+### Schritt 16.145 – Reihenhaus an Via Santa Reparata – Teil 4/4 (Y 97–106)
 
-- **Y-Bereich:** 93 bis 102
+- **Y-Bereich:** 97 bis 106
 - **Blöcke:** 1.724
 - **Bauteile:** `w478556091`
 
@@ -4960,9 +5021,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.145 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 16.146 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 1/2 (Y 67–82)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 67 bis 82
 - **Blöcke:** 1.076
 - **Bauteile:** `w478556091_innen`
 
@@ -4998,9 +5059,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.146 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 16.147 – Reihenhaus an Via Santa Reparata: Innenausbau – Teil 2/2 (Y 83–91)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 83 bis 91
 - **Blöcke:** 2.034
 - **Bauteile:** `w478556091_innen`
 

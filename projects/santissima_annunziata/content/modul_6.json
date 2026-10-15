@@ -1,0 +1,22 @@
+{
+  "module": 6,
+  "title": "Ausstattung und Licht",
+  "subtitle": "Bautüte 6: Hochaltar und Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "hochaltar": {
+      "title": "Hochaltar",
+      "description": "In der Mitte der Tribuna steht der Hochaltar aus hellem Quarz mit goldener Platte bis Y 71.",
+      "tip": "Genau unter der Laterne.",
+      "caution": "Rundherum bleibt Platz.",
+      "fact": "Der Tempietto war ursprünglich vielleicht für die Mitte der Tribuna gedacht."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "Im Boden setzt du Seelaternen im Raster von 12 Blöcken.",
+      "tip": "Ersetze dazu den Bodenblock.",
+      "caution": "Nicht im offenen Hof und nicht unter Pfeilern.",
+      "fact": "So bleibt der ganze Innenraum hell."
+    }
+  }
+}

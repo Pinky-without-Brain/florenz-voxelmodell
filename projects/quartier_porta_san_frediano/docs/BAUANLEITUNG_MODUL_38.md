@@ -8,30 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 62.259 |
-| Bauschritte | 39 |
-| Y-Bereich | 63 bis 103 |
+| Blöcke | 86.511 |
+| Bauschritte | 54 |
+| Y-Bereich | 53 bis 100 |
 | X-Ausdehnung | -2807 bis -2678 (130 Blöcke) |
 | Z-Ausdehnung | 314 bis 424 (111 Blöcke) |
-| Kleinster Schritt | 974 Blöcke (Schritt 38.9) |
-| Mittlerer Schritt | 1.596 Blöcke |
-| Größter Schritt | 2.097 Blöcke (Schritt 38.36) |
+| Kleinster Schritt | 961 Blöcke (Schritt 38.23) |
+| Mittlerer Schritt | 1.602 Blöcke |
+| Größter Schritt | 2.097 Blöcke (Schritt 38.51) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 22.361 | 35,9 % |
-| Terrakotta | `terracotta` | 22.044 | 35,4 % |
-| Polierter Tuffstein | `polished_tuff` | 7.206 | 11,6 % |
-| Glatter Stein | `smooth_stone` | 5.676 | 9,1 % |
-| Graues Buntglas | `gray_stained_glass` | 2.062 | 3,3 % |
-| Grüner Beton | `green_concrete` | 1.390 | 2,2 % |
-| Polierter Andesit | `polished_andesite` | 797 | 1,3 % |
-| Ziegelsteine | `bricks` | 566 | 0,9 % |
-| Seelaterne | `sea_lantern` | 96 | 0,2 % |
+| Tuffstein | `tuff` | 24.252 | 28,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 22.361 | 25,8 % |
+| Terrakotta | `terracotta` | 22.044 | 25,5 % |
+| Polierter Tuffstein | `polished_tuff` | 7.196 | 8,3 % |
+| Glatter Stein | `smooth_stone` | 5.676 | 6,6 % |
+| Graues Buntglas | `gray_stained_glass` | 2.062 | 2,4 % |
+| Grüner Beton | `green_concrete` | 1.390 | 1,6 % |
+| Polierter Andesit | `polished_andesite` | 797 | 0,9 % |
+| Ziegelsteine | `bricks` | 566 | 0,7 % |
+| Seelaterne | `sea_lantern` | 96 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 | 0,0 % |
@@ -45,28 +47,29 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r2173353` | Azienda ASL 10 Di Firenze | 49.830 | 38.1–38.33 |
-| 2 | `r2173353_innen` | Azienda ASL 10 Di Firenze: Innenausbau | 12.429 | 38.33–38.39 |
+| 1 | `r2173353` | Azienda ASL 10 Di Firenze | 74.082 | 38.1–38.48 |
+| 2 | `r2173353_innen` | Azienda ASL 10 Di Firenze: Innenausbau | 12.429 | 38.48–38.54 |
 
 ## Bauschritte
 
-### Schritt 38.1 – Azienda ASL 10 Di Firenze – Teil 1/33 (Y 63–63)
+### Schritt 38.1 – Azienda ASL 10 Di Firenze – Teil 1/48 (Y 53–54)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.808
+- **Y-Bereich:** 53 bis 54
+- **Blöcke:** 1.518
 - **Bauteile:** `r2173353`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.808 |
+| Tuffstein | `tuff` | 1.518 |
 
 **Beschreibung**
 
@@ -84,9 +87,443 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.2 – Azienda ASL 10 Di Firenze – Teil 2/33 (Y 63–63)
+### Schritt 38.2 – Azienda ASL 10 Di Firenze – Teil 2/48 (Y 55–55)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 55 bis 55
+- **Blöcke:** 1.186
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.186 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.3 – Azienda ASL 10 Di Firenze – Teil 3/48 (Y 55–55)
+
+- **Y-Bereich:** 55 bis 55
+- **Blöcke:** 1.164
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.164 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.4 – Azienda ASL 10 Di Firenze – Teil 4/48 (Y 56–56)
+
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 1.673
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.673 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.5 – Azienda ASL 10 Di Firenze – Teil 5/48 (Y 56–56)
+
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 1.663
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.663 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.6 – Azienda ASL 10 Di Firenze – Teil 6/48 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.460
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.460 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.7 – Azienda ASL 10 Di Firenze – Teil 7/48 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.479
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.479 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.8 – Azienda ASL 10 Di Firenze – Teil 8/48 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.477
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.477 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.9 – Azienda ASL 10 Di Firenze – Teil 9/48 (Y 58–58)
+
+- **Y-Bereich:** 58 bis 58
+- **Blöcke:** 1.852
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.852 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.10 – Azienda ASL 10 Di Firenze – Teil 10/48 (Y 58–58)
+
+- **Y-Bereich:** 58 bis 58
+- **Blöcke:** 1.858
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.858 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.11 – Azienda ASL 10 Di Firenze – Teil 11/48 (Y 58–58)
+
+- **Y-Bereich:** 58 bis 58
+- **Blöcke:** 1.879
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.879 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.12 – Azienda ASL 10 Di Firenze – Teil 12/48 (Y 59–59)
+
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 1.753
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.748 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.13 – Azienda ASL 10 Di Firenze – Teil 13/48 (Y 59–59)
+
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 1.767
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.767 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.14 – Azienda ASL 10 Di Firenze – Teil 14/48 (Y 59–59)
+
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 1.755
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.755 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.15 – Azienda ASL 10 Di Firenze – Teil 15/48 (Y 59–59)
+
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 1.773
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.773 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.16 – Azienda ASL 10 Di Firenze – Teil 16/48 (Y 60–60)
+
+- **Y-Bereich:** 60 bis 60
+- **Blöcke:** 1.803
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.798 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.17 – Azienda ASL 10 Di Firenze – Teil 17/48 (Y 60–60)
+
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.780
 - **Bauteile:** `r2173353`
 
@@ -112,9 +549,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.3 – Azienda ASL 10 Di Firenze – Teil 3/33 (Y 63–63)
+### Schritt 38.18 – Azienda ASL 10 Di Firenze – Teil 18/48 (Y 60–60)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.820
 - **Bauteile:** `r2173353`
 
@@ -140,9 +577,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.4 – Azienda ASL 10 Di Firenze – Teil 4/33 (Y 63–63)
+### Schritt 38.19 – Azienda ASL 10 Di Firenze – Teil 19/48 (Y 60–60)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.798
 - **Bauteile:** `r2173353`
 
@@ -168,9 +605,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.5 – Azienda ASL 10 Di Firenze – Teil 5/33 (Y 64–64)
+### Schritt 38.20 – Azienda ASL 10 Di Firenze – Teil 20/48 (Y 61–61)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.034
 - **Bauteile:** `r2173353`
 
@@ -199,9 +636,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.6 – Azienda ASL 10 Di Firenze – Teil 6/33 (Y 65–65)
+### Schritt 38.21 – Azienda ASL 10 Di Firenze – Teil 21/48 (Y 62–62)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.034
 - **Bauteile:** `r2173353`
 
@@ -230,9 +667,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.7 – Azienda ASL 10 Di Firenze – Teil 7/33 (Y 66–66)
+### Schritt 38.22 – Azienda ASL 10 Di Firenze – Teil 22/48 (Y 63–63)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.102
 - **Bauteile:** `r2173353`
 
@@ -261,53 +698,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.8 – Azienda ASL 10 Di Firenze – Teil 8/33 (Y 67–68)
+### Schritt 38.23 – Azienda ASL 10 Di Firenze – Teil 23/48 (Y 64–64)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.933
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 961
 - **Bauteile:** `r2173353`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.177 |
-| Graues Buntglas | `gray_stained_glass` | 306 |
-| Glatter Stein | `smooth_stone` | 248 |
-| Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 50 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.9 – Azienda ASL 10 Di Firenze – Teil 9/33 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 974
-- **Bauteile:** `r2173353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 606 |
+| Hellgrauer Beton | `light_gray_concrete` | 595 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
 | Glatter Stein | `smooth_stone` | 124 |
-| Polierter Andesit | `polished_andesite` | 110 |
 | Grüner Beton | `green_concrete` | 76 |
-| Graues Buntglas | `gray_stained_glass` | 58 |
+| Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
 
@@ -325,50 +730,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.10 – Azienda ASL 10 Di Firenze – Teil 10/33 (Y 70–71)
+### Schritt 38.24 – Azienda ASL 10 Di Firenze – Teil 24/48 (Y 65–65)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.948
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 972
 - **Bauteile:** `r2173353`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.192 |
-| Graues Buntglas | `gray_stained_glass` | 300 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 50 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 38.11 – Azienda ASL 10 Di Firenze – Teil 11/33 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.088
-- **Bauteile:** `r2173353`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 777 |
-| Glatter Stein | `smooth_stone` | 274 |
+| Hellgrauer Beton | `light_gray_concrete` | 582 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
+| Glatter Stein | `smooth_stone` | 124 |
+| Grüner Beton | `green_concrete` | 76 |
 | Polierter Andesit | `polished_andesite` | 37 |
 
 **Beschreibung**
@@ -387,9 +762,73 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.12 – Azienda ASL 10 Di Firenze – Teil 12/33 (Y 73–73)
+### Schritt 38.25 – Azienda ASL 10 Di Firenze – Teil 25/48 (Y 66–67)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.946
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.188 |
+| Glatter Stein | `smooth_stone` | 248 |
+| Graues Buntglas | `gray_stained_glass` | 211 |
+| Grüner Beton | `green_concrete` | 152 |
+| Polierter Andesit | `polished_andesite` | 147 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.26 – Azienda ASL 10 Di Firenze – Teil 26/48 (Y 68–69)
+
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 2.064
+- **Bauteile:** `r2173353`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.387 |
+| Glatter Stein | `smooth_stone` | 404 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+| Grüner Beton | `green_concrete` | 76 |
+| Polierter Andesit | `polished_andesite` | 50 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 38.27 – Azienda ASL 10 Di Firenze – Teil 27/48 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.088
 - **Bauteile:** `r2173353`
 
@@ -416,9 +855,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.13 – Azienda ASL 10 Di Firenze – Teil 13/33 (Y 74–74)
+### Schritt 38.28 – Azienda ASL 10 Di Firenze – Teil 28/48 (Y 71–71)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.088
 - **Bauteile:** `r2173353`
 
@@ -445,9 +884,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.14 – Azienda ASL 10 Di Firenze – Teil 14/33 (Y 75–75)
+### Schritt 38.29 – Azienda ASL 10 Di Firenze – Teil 29/48 (Y 72–72)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.088
 - **Bauteile:** `r2173353`
 
@@ -474,9 +913,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.15 – Azienda ASL 10 Di Firenze – Teil 15/33 (Y 76–76)
+### Schritt 38.30 – Azienda ASL 10 Di Firenze – Teil 30/48 (Y 73–73)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.172
 - **Bauteile:** `r2173353`
 
@@ -504,9 +943,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.16 – Azienda ASL 10 Di Firenze – Teil 16/33 (Y 77–78)
+### Schritt 38.31 – Azienda ASL 10 Di Firenze – Teil 31/48 (Y 74–75)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.992
 - **Bauteile:** `r2173353`
 
@@ -536,9 +975,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.17 – Azienda ASL 10 Di Firenze – Teil 17/33 (Y 79–80)
+### Schritt 38.32 – Azienda ASL 10 Di Firenze – Teil 32/48 (Y 76–77)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.992
 - **Bauteile:** `r2173353`
 
@@ -568,9 +1007,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.18 – Azienda ASL 10 Di Firenze – Teil 18/33 (Y 81–82)
+### Schritt 38.33 – Azienda ASL 10 Di Firenze – Teil 33/48 (Y 78–79)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 2.084
 - **Bauteile:** `r2173353`
 
@@ -600,9 +1039,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.19 – Azienda ASL 10 Di Firenze – Teil 19/33 (Y 83–83)
+### Schritt 38.34 – Azienda ASL 10 Di Firenze – Teil 34/48 (Y 80–80)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.088
 - **Bauteile:** `r2173353`
 
@@ -629,9 +1068,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.20 – Azienda ASL 10 Di Firenze – Teil 20/33 (Y 84–84)
+### Schritt 38.35 – Azienda ASL 10 Di Firenze – Teil 35/48 (Y 81–81)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.088
 - **Bauteile:** `r2173353`
 
@@ -658,9 +1097,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.21 – Azienda ASL 10 Di Firenze – Teil 21/33 (Y 85–85)
+### Schritt 38.36 – Azienda ASL 10 Di Firenze – Teil 36/48 (Y 82–82)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.172
 - **Bauteile:** `r2173353`
 
@@ -688,9 +1127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.22 – Azienda ASL 10 Di Firenze – Teil 22/33 (Y 86–87)
+### Schritt 38.37 – Azienda ASL 10 Di Firenze – Teil 37/48 (Y 83–84)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.992
 - **Bauteile:** `r2173353`
 
@@ -720,9 +1159,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.23 – Azienda ASL 10 Di Firenze – Teil 23/33 (Y 88–89)
+### Schritt 38.38 – Azienda ASL 10 Di Firenze – Teil 38/48 (Y 85–86)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.992
 - **Bauteile:** `r2173353`
 
@@ -752,9 +1191,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.24 – Azienda ASL 10 Di Firenze – Teil 24/33 (Y 90–91)
+### Schritt 38.39 – Azienda ASL 10 Di Firenze – Teil 39/48 (Y 87–88)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 2.084
 - **Bauteile:** `r2173353`
 
@@ -784,9 +1223,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.25 – Azienda ASL 10 Di Firenze – Teil 25/33 (Y 92–92)
+### Schritt 38.40 – Azienda ASL 10 Di Firenze – Teil 40/48 (Y 89–89)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.406
 - **Bauteile:** `r2173353`
 
@@ -814,9 +1253,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.26 – Azienda ASL 10 Di Firenze – Teil 26/33 (Y 93–93)
+### Schritt 38.41 – Azienda ASL 10 Di Firenze – Teil 41/48 (Y 90–90)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.795
 - **Bauteile:** `r2173353`
 
@@ -844,9 +1283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.27 – Azienda ASL 10 Di Firenze – Teil 27/33 (Y 94–94)
+### Schritt 38.42 – Azienda ASL 10 Di Firenze – Teil 42/48 (Y 91–91)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.425
 - **Bauteile:** `r2173353`
 
@@ -872,9 +1311,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.28 – Azienda ASL 10 Di Firenze – Teil 28/33 (Y 94–94)
+### Schritt 38.43 – Azienda ASL 10 Di Firenze – Teil 43/48 (Y 91–91)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.414
 - **Bauteile:** `r2173353`
 
@@ -900,9 +1339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.29 – Azienda ASL 10 Di Firenze – Teil 29/33 (Y 95–95)
+### Schritt 38.44 – Azienda ASL 10 Di Firenze – Teil 44/48 (Y 92–92)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.727
 - **Bauteile:** `r2173353`
 
@@ -928,9 +1367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.30 – Azienda ASL 10 Di Firenze – Teil 30/33 (Y 96–96)
+### Schritt 38.45 – Azienda ASL 10 Di Firenze – Teil 45/48 (Y 93–93)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.717
 - **Bauteile:** `r2173353`
 
@@ -956,9 +1395,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.31 – Azienda ASL 10 Di Firenze – Teil 31/33 (Y 97–97)
+### Schritt 38.46 – Azienda ASL 10 Di Firenze – Teil 46/48 (Y 94–94)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.593
 - **Bauteile:** `r2173353`
 
@@ -985,9 +1424,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.32 – Azienda ASL 10 Di Firenze – Teil 32/33 (Y 98–98)
+### Schritt 38.47 – Azienda ASL 10 Di Firenze – Teil 47/48 (Y 95–95)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.522
 - **Bauteile:** `r2173353`
 
@@ -1014,9 +1453,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.33 – Azienda ASL 10 Di Firenze – Teil 33/33 (Y 99–103) & Azienda ASL 10 Di Firenze: Innenausbau – Teil 1/7 (Y 63–73)
+### Schritt 38.48 – Azienda ASL 10 Di Firenze – Teil 48/48 (Y 96–100) & Azienda ASL 10 Di Firenze: Innenausbau – Teil 1/7 (Y 60–70)
 
-- **Y-Bereich:** 63 bis 103
+- **Y-Bereich:** 60 bis 100
 - **Blöcke:** 1.078
 - **Bauteile:** `r2173353`, `r2173353_innen`
 
@@ -1057,9 +1496,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.34 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 2/7 (Y 74–74)
+### Schritt 38.49 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 2/7 (Y 71–71)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 2.055
 - **Bauteile:** `r2173353_innen`
 
@@ -1093,9 +1532,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.35 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 3/7 (Y 74–74)
+### Schritt 38.50 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 3/7 (Y 71–71)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 2.038
 - **Bauteile:** `r2173353_innen`
 
@@ -1122,9 +1561,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.36 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 4/7 (Y 74–82)
+### Schritt 38.51 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 4/7 (Y 71–79)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 2.097
 - **Bauteile:** `r2173353_innen`
 
@@ -1162,9 +1601,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.37 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 5/7 (Y 83–83)
+### Schritt 38.52 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 5/7 (Y 80–80)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.055
 - **Bauteile:** `r2173353_innen`
 
@@ -1198,9 +1637,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.38 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 6/7 (Y 83–83)
+### Schritt 38.53 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 6/7 (Y 80–80)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 2.038
 - **Bauteile:** `r2173353_innen`
 
@@ -1227,9 +1666,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 38.39 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 7/7 (Y 83–84)
+### Schritt 38.54 – Azienda ASL 10 Di Firenze: Innenausbau – Teil 7/7 (Y 80–81)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 2.060
 - **Bauteile:** `r2173353_innen`
 

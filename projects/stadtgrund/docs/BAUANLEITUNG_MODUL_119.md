@@ -8,49 +8,49 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 41.533 |
+| Blöcke | 42.063 |
 | Bauschritte | 27 |
 | Y-Bereich | 60 bis 66 |
 | X-Ausdehnung | 1376 bis 1695 (320 Blöcke) |
 | Z-Ausdehnung | 752 bis 1071 (320 Blöcke) |
 | Kleinster Schritt | 194 Blöcke (Schritt 119.27) |
-| Mittlerer Schritt | 1.538 Blöcke |
-| Größter Schritt | 2.011 Blöcke (Schritt 119.14) |
+| Mittlerer Schritt | 1.558 Blöcke |
+| Größter Schritt | 2.001 Blöcke (Schritt 119.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 24.610 | 59,3 % |
-| Grasblock | `grass_block` | 11.425 | 27,5 % |
-| Stein | `stone` | 4.324 | 10,4 % |
-| Glatter Stein | `smooth_stone` | 980 | 2,4 % |
+| Polierter Tuffstein | `polished_tuff` | 24.564 | 58,4 % |
+| Grasblock | `grass_block` | 11.425 | 27,2 % |
+| Stein | `stone` | 4.870 | 11,6 % |
+| Glatter Stein | `smooth_stone` | 1.010 | 2,4 % |
 | Kies | `gravel` | 194 | 0,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 4.324 | 119.1–119.3 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 12.643 | 119.4–119.11 |
-| 3 | `gehwege` | Gehwege | 980 | 119.12 |
-| 4 | `hof_pflaster` | Höfe | 11.967 | 119.13–119.19 |
+| 1 | `boeschung` | Böschung und Mantel | 4.870 | 119.1–119.3 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 12.605 | 119.4–119.11 |
+| 3 | `gehwege` | Gehwege | 1.010 | 119.12 |
+| 4 | `hof_pflaster` | Höfe | 11.959 | 119.13–119.19 |
 | 5 | `rasen` | Grün und offenes Gelände | 11.425 | 119.20–119.26 |
 | 6 | `gruen_wege` | Wege im Grün | 194 | 119.27 |
 
 ## Bauschritte
 
-### Schritt 119.1 – Böschung und Mantel – Teil 1/3 (Y 60–62)
+### Schritt 119.1 – Böschung und Mantel – Teil 1/3 (Y 60–61)
 
-- **Y-Bereich:** 60 bis 62
-- **Blöcke:** 1.925
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.202
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.925 |
+| Stein | `stone` | 1.202 |
 
 **Beschreibung**
 
@@ -71,14 +71,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 119.2 – Böschung und Mantel – Teil 2/3 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.298
+- **Blöcke:** 2.001
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.298 |
+| Stein | `stone` | 2.001 |
 
 **Beschreibung**
 
@@ -99,14 +99,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 119.3 – Böschung und Mantel – Teil 3/3 (Y 63–65)
 
 - **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.101
+- **Blöcke:** 1.667
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.101 |
+| Stein | `stone` | 1.667 |
 
 **Beschreibung**
 
@@ -155,14 +155,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 119.5 – Straßenpflaster – Teil 2/8 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.973
+- **Blöcke:** 1.964
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.973 |
+| Polierter Tuffstein | `polished_tuff` | 1.964 |
 
 **Beschreibung**
 
@@ -183,14 +183,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 119.6 – Straßenpflaster – Teil 3/8 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.982
+- **Blöcke:** 1.969
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.982 |
+| Polierter Tuffstein | `polished_tuff` | 1.969 |
 
 **Beschreibung**
 
@@ -211,14 +211,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 119.7 – Straßenpflaster – Teil 4/8 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.968
+- **Blöcke:** 1.961
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.968 |
+| Polierter Tuffstein | `polished_tuff` | 1.961 |
 
 **Beschreibung**
 
@@ -239,14 +239,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 119.8 – Straßenpflaster – Teil 5/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.413
+- **Blöcke:** 1.391
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.413 |
+| Polierter Tuffstein | `polished_tuff` | 1.391 |
 
 **Beschreibung**
 
@@ -267,14 +267,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 119.9 – Straßenpflaster – Teil 6/8 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.394
+- **Blöcke:** 1.407
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.394 |
+| Polierter Tuffstein | `polished_tuff` | 1.407 |
 
 **Beschreibung**
 
@@ -351,14 +351,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 119.12 – Gehwege
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 980
+- **Blöcke:** 1.010
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 980 |
+| Glatter Stein | `smooth_stone` | 1.010 |
 
 **Beschreibung**
 
@@ -379,14 +379,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 119.13 – Höfe – Teil 1/7 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 656
+- **Blöcke:** 655
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 656 |
+| Polierter Tuffstein | `polished_tuff` | 655 |
 
 **Beschreibung**
 
@@ -407,14 +407,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 119.14 – Höfe – Teil 2/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.011
+- **Blöcke:** 1.999
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.011 |
+| Polierter Tuffstein | `polished_tuff` | 1.999 |
 
 **Beschreibung**
 
@@ -463,14 +463,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 119.16 – Höfe – Teil 4/7 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.990
+- **Blöcke:** 1.983
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.990 |
+| Polierter Tuffstein | `polished_tuff` | 1.983 |
 
 **Beschreibung**
 
@@ -491,14 +491,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 119.17 – Höfe – Teil 5/7 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.778
+- **Blöcke:** 1.789
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.778 |
+| Polierter Tuffstein | `polished_tuff` | 1.789 |
 
 **Beschreibung**
 
@@ -547,14 +547,14 @@ Hinter den Fassaden liegen viele kleine Innenhöfe.
 ### Schritt 119.19 – Höfe – Teil 7/7 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.776
+- **Blöcke:** 1.777
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.776 |
+| Polierter Tuffstein | `polished_tuff` | 1.777 |
 
 **Beschreibung**
 

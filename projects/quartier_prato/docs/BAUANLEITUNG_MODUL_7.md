@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 27.124 |
+| Blöcke | 27.127 |
 | Bauschritte | 17 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 58 bis 99 |
 | X-Ausdehnung | -2932 bis -2844 (89 Blöcke) |
 | Z-Ausdehnung | -353 bis -278 (76 Blöcke) |
 | Kleinster Schritt | 1.134 Blöcke (Schritt 7.12) |
@@ -34,6 +34,8 @@
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 9 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -47,12 +49,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w1424443617` | Palazzo des Cinquecento an Piazza Maria Callas | 21.963 | 7.1–7.13 |
 | 2 | `w1424443617_innen` | Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau | 5.161 | 7.14–7.17 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 7.17 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 1/13 (Y 63–63)
+### Schritt 7.1 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 1/13 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.505
 - **Bauteile:** `w1424443617`
 
@@ -78,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 2/13 (Y 63–64)
+### Schritt 7.2 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 2/13 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 58 bis 59
 - **Blöcke:** 1.999
 - **Bauteile:** `w1424443617`
 
@@ -110,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 3/13 (Y 65–67)
+### Schritt 7.3 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 3/13 (Y 60–62)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 60 bis 62
 - **Blöcke:** 1.554
 - **Bauteile:** `w1424443617`
 
@@ -144,9 +147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 4/13 (Y 68–71)
+### Schritt 7.4 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 4/13 (Y 63–66)
 
-- **Y-Bereich:** 68 bis 71
+- **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.838
 - **Bauteile:** `w1424443617`
 
@@ -178,9 +181,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 5/13 (Y 72–74)
+### Schritt 7.5 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 5/13 (Y 67–69)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.482
 - **Bauteile:** `w1424443617`
 
@@ -208,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 6/13 (Y 75–78)
+### Schritt 7.6 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 6/13 (Y 70–73)
 
-- **Y-Bereich:** 75 bis 78
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 1.835
 - **Bauteile:** `w1424443617`
 
@@ -240,9 +243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 7/13 (Y 79–81)
+### Schritt 7.7 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 7/13 (Y 74–76)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.388
 - **Bauteile:** `w1424443617`
 
@@ -272,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 8/13 (Y 82–85)
+### Schritt 7.8 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 8/13 (Y 77–80)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.976
 - **Bauteile:** `w1424443617`
 
@@ -303,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 9/13 (Y 86–89)
+### Schritt 7.9 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 9/13 (Y 81–84)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.788
 - **Bauteile:** `w1424443617`
 
@@ -335,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 10/13 (Y 90–92)
+### Schritt 7.10 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 10/13 (Y 85–87)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.586
 - **Bauteile:** `w1424443617`
 
@@ -368,9 +371,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 11/13 (Y 93–94)
+### Schritt 7.11 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 11/13 (Y 88–89)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.943
 - **Bauteile:** `w1424443617`
 
@@ -399,9 +402,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 12/13 (Y 95–96)
+### Schritt 7.12 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 12/13 (Y 90–91)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.134
 - **Bauteile:** `w1424443617`
 
@@ -427,9 +430,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 13/13 (Y 97–104)
+### Schritt 7.13 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 13/13 (Y 92–99)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 92 bis 99
 - **Blöcke:** 1.935
 - **Bauteile:** `w1424443617`
 
@@ -456,9 +459,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 7.14 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 1/4 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.317
 - **Bauteile:** `w1424443617_innen`
 
@@ -494,9 +497,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.15 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 7.15 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 2/4 (Y 68–68)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.270
 - **Bauteile:** `w1424443617_innen`
 
@@ -523,9 +526,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.16 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 7.16 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 3/4 (Y 69–78)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.304
 - **Bauteile:** `w1424443617_innen`
 
@@ -561,11 +564,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.17 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 4/4 (Y 83–83)
+### Schritt 7.17 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 4/4 (Y 78–78) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.270
-- **Bauteile:** `w1424443617_innen`
+- **Y-Bereich:** 65 bis 78
+- **Blöcke:** 1.273
+- **Bauteile:** `w1424443617_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -573,19 +576,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.264 |
 | Seelaterne | `sea_lantern` | 6 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

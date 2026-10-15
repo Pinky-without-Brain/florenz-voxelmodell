@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Fahrbahn und Brüstungen",
+  "subtitle": "Bautüte 2: Pflaster, Brüstungen und die vier Jahreszeiten und Laternen",
+  "icon": "🚶",
+  "parts": {
+    "fahrbahn": {
+      "title": "Fahrbahn",
+      "description": "Über die ganze Brücke läuft ein Pflaster; es schließt an beiden Enden bündig an die Uferstraßen an.",
+      "tip": "Eine Lage über den Bögen.",
+      "caution": "An den Enden keine Stufe.",
+      "fact": "Die Statuen der vier Jahreszeiten kamen 1608 auf die Brücke; der Kopf des Frühlings wurde erst 1961 im Arno gefunden."
+    },
+    "bruestung": {
+      "title": "Brüstungen",
+      "description": "An beiden Längsseiten steht eine zwei Blöcke hohe Brüstung mit Abdeckung aus Pietra serena.",
+      "tip": "Nur an den Längsseiten.",
+      "caution": "An den Brückenenden bleibt die Fahrbahn offen.",
+      "fact": "Von der Brüstung blickt man auf den Ponte Vecchio und die Lungarni."
+    },
+    "statuen": {
+      "title": "Statuen der vier Jahreszeiten",
+      "description": "An den vier Ecken stehen Statuen aus weißem Marmor auf der Brüstung.",
+      "tip": "Vier Blöcke hoch.",
+      "caution": "Nicht auf die Fahrbahn setzen.",
+      "fact": "Winter von Taddeo Landini, Herbst und Sommer von Giovanni Battista Caccini, Frühling von Pietro Francavilla."
+    },
+    "licht": {
+      "title": "Laternen",
+      "description": "Auf der Brüstung sitzen Laternen im Abstand von 12 Blöcken.",
+      "tip": "Ersetze dazu den Deckstein.",
+      "caution": "Nur auf den Längsseiten.",
+      "fact": "So ist die Brücke auch nachts gut zu sehen."
+    }
+  }
+}

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 2.474 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 113 bis 145 |
 | X-Ausdehnung | -926 bis -911 (16 Blöcke) |
 | Z-Ausdehnung | 2018 bis 2032 (15 Blöcke) |
 | Kleinster Schritt | 1.229 Blöcke (Schritt 7.2) |
@@ -38,9 +38,9 @@
 
 ## Bauschritte
 
-### Schritt 7.1 – Vasca in granito grigio – Teil 1/2 (Y 63–79)
+### Schritt 7.1 – Vasca in granito grigio – Teil 1/2 (Y 113–129)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 113 bis 129
 - **Blöcke:** 1.245
 - **Bauteile:** `w375220925`
 
@@ -70,9 +70,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Vasca in granito grigio – Teil 2/2 (Y 80–95) & Vasca in granito grigio: Innenausbau
+### Schritt 7.2 – Vasca in granito grigio – Teil 2/2 (Y 130–145) & Vasca in granito grigio: Innenausbau
 
-- **Y-Bereich:** 63 bis 95
+- **Y-Bereich:** 113 bis 145
 - **Blöcke:** 1.229
 - **Bauteile:** `w375220925`, `w375220925_innen`
 

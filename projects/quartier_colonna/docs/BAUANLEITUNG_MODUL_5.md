@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.381 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 70 bis 106 |
 | X-Ausdehnung | 818 bis 849 (32 Blöcke) |
 | Z-Ausdehnung | -1215 bis -1185 (31 Blöcke) |
 | Kleinster Schritt | 1.052 Blöcke (Schritt 5.5) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 5.1 – Haus w155641513 – Teil 1/4 (Y 63–70)
+### Schritt 5.1 – Haus w155641513 – Teil 1/4 (Y 70–77)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.669
 - **Bauteile:** `w155641513`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Haus w155641513 – Teil 2/4 (Y 71–79)
+### Schritt 5.2 – Haus w155641513 – Teil 2/4 (Y 78–86)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.578
 - **Bauteile:** `w155641513`
 
@@ -110,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Haus w155641513 – Teil 3/4 (Y 80–88)
+### Schritt 5.3 – Haus w155641513 – Teil 3/4 (Y 87–95)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.578
 - **Bauteile:** `w155641513`
 
@@ -140,9 +140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Haus w155641513 – Teil 4/4 (Y 89–99)
+### Schritt 5.4 – Haus w155641513 – Teil 4/4 (Y 96–106)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 96 bis 106
 - **Blöcke:** 1.504
 - **Bauteile:** `w155641513`
 
@@ -174,7 +174,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.5 – Haus w155641513: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 70 bis 93
 - **Blöcke:** 1.052
 - **Bauteile:** `w155641513_innen`
 

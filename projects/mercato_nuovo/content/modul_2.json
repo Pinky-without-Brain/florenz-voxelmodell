@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Gewölbe und Attika",
+  "subtitle": "Bautüte 2: Kreuzgewölbe und Attikageschoss",
+  "icon": "⛪",
+  "parts": {
+    "gewoelbe": {
+      "title": "Kreuzgewölbe",
+      "description": "Jedes Joch schließt mit einem Kreuzgewölbe aus weißem Putz bis Y 91.",
+      "tip": "Die Gewölbe ruhen auf Säulen und Pfeilern.",
+      "caution": "Darüber liegt ein unzugänglicher Raum.",
+      "fact": "Zwölf Gewölbe überspannen die Halle."
+    },
+    "attika": {
+      "title": "Attika",
+      "description": "Über den Bögen läuft ein Attikageschoss bis Y 97 mit kleinen Fenstern in der Mitte jedes Jochs (Y 93 bis 95).",
+      "tip": "Oben ein Gesims aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Die Attika gibt dem offenen Bau einen festen Abschluss."
+    }
+  }
+}

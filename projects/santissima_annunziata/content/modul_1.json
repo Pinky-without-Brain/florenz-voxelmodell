@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Portikus und Chiostrino",
+  "subtitle": "Bautüte 1: Caccinis Portikus, der Vorhof Chiostrino dei Voti und der Seitenraum",
+  "icon": "🏛️",
+  "parts": {
+    "portikus": {
+      "title": "Portikus",
+      "description": "Sieben Rundbögen auf Säulen aus Pietra serena öffnen sich zur Piazza; die Bögen enden auf Y 84, die Decke liegt auf Y 85, das Dach auf Y 87.",
+      "tip": "Baue zuerst die Säulenreihe, dann Bögen und Decke.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Giovanni Battista Caccini vollendete den Portikus 1601; seine Bögen liegen genau so hoch wie die der Loggien am Platz."
+    },
+    "chiostrino": {
+      "title": "Chiostrino dei Voti",
+      "description": "Hinter dem Portikus liegt ein offener Hof mit Bogengängen auf schlanken Säulen; die Wände der Gänge tragen Fresken in vielen Farben (Y 70 bis 78), die Gänge haben eine flache Decke auf Y 80.",
+      "tip": "Der Hof in der Mitte bleibt ohne Dach.",
+      "caution": "Lass die Bögen zum Hof offen.",
+      "fact": "Michelozzo begann den Vorhof 1447; Andrea del Sarto, Pontormo und Rosso Fiorentino malten hier."
+    },
+    "seitenraum": {
+      "title": "Seitenraum",
+      "description": "Links am Portikus liegt ein geschlossener Raum mit eigener Tür und Decke auf Y 85.",
+      "tip": "Die Tür liegt in der Rückwand des Portikus.",
+      "caution": "Über der Decke bleibt ein Hohlraum.",
+      "fact": "Neben der Kirche liegen die Räume des großen Servitenklosters."
+    }
+  }
+}

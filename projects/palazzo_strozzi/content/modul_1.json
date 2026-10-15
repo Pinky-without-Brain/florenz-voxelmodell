@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den ganzen Block bis Y 126: allseitig Rustika aus Pietra forte, im Erdgeschoss mit kräftigen Fugen, nach oben flacher. Gesimse aus Pietra serena trennen die Geschosse (Y 88, 108). Drei Portale führen hinein: von der Via Tornabuoni, der Via Strozzi und der Piazza Strozzi.",
+      "tip": "Zwei Blöcke dick: außen Stein, innen Putz.",
+      "caution": "Lass die Portale frei.",
+      "fact": "Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Erdgeschoss kleine Fenster hoch über der Straße (Y 76 bis 81), in den Obergeschossen Biforen mit Mittelsäule aus Pietra serena (Y 92 bis 103 und Y 112 bis 122).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die Biforen sind das Kennzeichen der Florentiner Frührenaissance."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Pietra serena die Fassade ab (Y 125 bis 126).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Das mächtige Kranzgesims schuf Il Cronaca; es blieb auf einer Seite unvollendet."
+    }
+  }
+}

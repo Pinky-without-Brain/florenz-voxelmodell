@@ -623,3 +623,18 @@ window.BLOCK_TYPES = {
     });
   });
 })();
+
+// ---- Straßenschilder: Wandschild birch_wall_sign@<richtung> (Richtung = Blickrichtung der Schrift), Liste wie
+// tools/spec/palette.js. In der Webapp ein heller Block an der Hauswand; den Text trägt die Minecraft-Welt.
+(function () {
+  var BT = window.BLOCK_TYPES;
+  var DIRS = { n: 'Norden', o: 'Osten', s: 'Süden', w: 'Westen' };
+  Object.keys(DIRS).forEach(function (d) {
+    var id = 'birch_wall_sign@' + d;
+    BT[id] = {
+      id: id, name: 'Straßenschild, Schrift nach ' + DIRS[d], color: '#ECE6D3', topColor: '#F2EDDD', sideColor: '#DDD6C1',
+      edgeColor: '#2B2B2B', category: 'Ausstattung', icon: '🪧',
+      description: 'Straßenschild an einem Eckhaus wie die Marmortafeln in Florenz; in Minecraft ein Wandschild mit dem Straßennamen.'
+    };
+  });
+})();

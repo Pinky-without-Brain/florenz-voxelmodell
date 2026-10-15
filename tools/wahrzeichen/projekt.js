@@ -32,7 +32,10 @@ function pruefeFelder(json) {
   const p = [];
   if (json.ohneMaske === true) return p;
   const idsOk = (a) => Array.isArray(a) && a.length > 0 && a.every((s) => typeof s === 'string' && s);
-  if (!idsOk(json.gebaeude)) p.push('gebaeude muss eine nichtleere Liste von OSM-IDs sein');
+  // Hauptmaske aus Gebäuden oder (Brücken) aus Flächen von flaechen.json: "gebaeude": [] mit "flaechen": [...]
+  const nurFlaechen = Array.isArray(json.gebaeude) && json.gebaeude.length === 0 && idsOk(json.flaechen);
+  if (!idsOk(json.gebaeude) && !nurFlaechen) p.push('gebaeude muss eine nichtleere Liste von OSM-IDs sein (oder [] mit nichtleeren "flaechen")');
+  if (json.flaechen !== undefined && !idsOk(json.flaechen)) p.push('flaechen muss eine nichtleere Liste von OSM-IDs sein');
   if (!isNum(json.bodenY)) p.push('bodenY muss eine Zahl sein');
   const r = json.rahmen;
   if (!r || typeof r !== 'object' || !isNum(r.ox) || !isNum(r.oz) || !isNum(r.thetaDeg)) {
@@ -81,6 +84,7 @@ function projektJson(pid, root, projectsRoot) {
 /**
  * ladeMasken(projectJson, { dir?, root?, projectsRoot? }) ->
  *   { id, haupt, masken: { name: Maske }, alle, luftraum, bodenY, rahmen, gelaendeBis: { haupt, <name>... } }
+ * haupt: Gebäude aus "gebaeude", vereinigt mit den Flächen aus "flaechen" (Brücken: "gebaeude": [])
  * dir: Projektordner (für "daten", relativ dazu); root: Repository-Wurzel (Vorgabe: dieses Repository).
  * masken.<name>: { gebaeude? | flaechen?, xMin?, xMax?, zMin?, zMax?, abzugHaupt?, abzugProjekte?, abzugAlle?, gelaendeBis? }
  *   -> Vereinigung der Gebäude- und Flächenpolygone, beschnitten auf x/z, abzüglich der genannten Masken.
@@ -112,6 +116,7 @@ function ladeMasken(projectJson, opts = {}, _besucht = new Set()) {
   // Hauptmaske, optional beschnitten (hauptGrenzen: { xMin, xMax, zMin, zMax, abzugProjekte, abzugAlle })
   const hg = projectJson.hauptGrenzen || {};
   let haupt = Maske.ausGebaeude(projectJson.gebaeude, { daten, xMin: hg.xMin, xMax: hg.xMax, zMin: hg.zMin, zMax: hg.zMax });
+  if (projectJson.flaechen) haupt = haupt.union(Maske.ausFlaechen(projectJson.flaechen, { daten, xMin: hg.xMin, xMax: hg.xMax, zMin: hg.zMin, zMax: hg.zMax }));
   if (hg.abzugProjekte) { const a = abzugVon({ ...hg, abzugHaupt: false }, null).filter(Boolean); if (a.length) haupt = haupt.minus(...a); }
   const masken = {};
   const gelaendeBis = { haupt: projectJson.gelaendeBis || 'boden' };

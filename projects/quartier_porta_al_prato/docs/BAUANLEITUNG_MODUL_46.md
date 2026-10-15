@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 1.161 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 60 bis 91 |
 | X-Ausdehnung | -1616 bis -1608 (9 Blöcke) |
 | Z-Ausdehnung | -664 bis -658 (7 Blöcke) |
 | Kleinster Schritt | 1.161 Blöcke (Schritt 46.1) |
@@ -39,7 +39,7 @@
 
 ### Schritt 46.1 – Nebengebäude an Via Luigi Alamanni
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 60 bis 91
 - **Blöcke:** 1.161
 - **Bauteile:** `w1152900477`
 

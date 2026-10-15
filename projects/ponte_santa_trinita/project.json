@@ -1,0 +1,12 @@
+{
+  "id": "ponte_santa_trinita",
+  "title": "Ponte Santa Trinita",
+  "type": "wahrzeichen",
+  "gebaeude": [],
+  "flaechen": ["w167367668"],
+  "bodenY": 60,
+  "rahmen": { "ox": -1010, "oz": 839, "thetaDeg": 112 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

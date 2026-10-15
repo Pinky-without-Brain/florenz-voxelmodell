@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.629 |
+| Blöcke | 50.641 |
 | Bauschritte | 32 |
-| Y-Bereich | 63 bis 113 |
+| Y-Bereich | 66 bis 117 |
 | X-Ausdehnung | -336 bis -261 (76 Blöcke) |
 | Z-Ausdehnung | 269 bis 355 (87 Blöcke) |
 | Kleinster Schritt | 737 Blöcke (Schritt 23.32) |
-| Mittlerer Schritt | 1.582 Blöcke |
+| Mittlerer Schritt | 1.583 Blöcke |
 | Größter Schritt | 2.083 Blöcke (Schritt 23.21) |
 
 ## Gesamt-Stückliste
@@ -23,22 +23,22 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 15.330 | 30,3 % |
 | Endsteinziegel | `end_stone_bricks` | 9.076 | 17,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 6.810 | 13,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.810 | 13,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 4.865 | 9,6 % |
 | Polierter Tuffstein | `polished_tuff` | 4.131 | 8,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.878 | 7,7 % |
 | Glatter Stein | `smooth_stone` | 1.946 | 3,8 % |
 | Weißer Beton | `white_concrete` | 1.339 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.042 | 2,1 % |
-| Tuffstein | `tuff` | 523 | 1,0 % |
+| Tuffstein | `tuff` | 540 | 1,1 % |
 | Ziegelsteine | `bricks` | 297 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 287 | 0,6 % |
 | Polierter Andesit | `polished_andesite` | 278 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 231 | 0,5 % |
 | Seelaterne | `sea_lantern` | 104 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 72 | 0,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 68 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 64 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 63 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 52 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 50 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 47 | 0,1 % |
@@ -63,16 +63,16 @@
 | 4 | `w491923431_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 1.345 | 23.18 |
 | 5 | `w491923435` | Reihenhaus an Via dei Calzaiuoli | 6.191 | 23.19–23.21 |
 | 6 | `w491923435_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 2.548 | 23.22–23.23 |
-| 7 | `w491923444` | Palazzo des Cinquecento an Via dei Medici | 9.638 | 23.24–23.29 |
+| 7 | `w491923444` | Palazzo des Cinquecento an Via dei Medici | 9.650 | 23.24–23.29 |
 | 8 | `w491923444_innen` | Palazzo des Cinquecento an Via dei Medici: Innenausbau | 2.041 | 23.30 |
 | 9 | `w491923449` | Wohnturm an Via dei Calzaiuoli | 1.045 | 23.31 |
 | 10 | `w491923449_innen` | Wohnturm an Via dei Calzaiuoli: Innenausbau | 737 | 23.32 |
 
 ## Bauschritte
 
-### Schritt 23.1 – Palazzo des Cinquecento an Via degli Speziali – Teil 1/9 (Y 63–63)
+### Schritt 23.1 – Palazzo des Cinquecento an Via degli Speziali – Teil 1/9 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.602
 - **Bauteile:** `r7225171`
 
@@ -98,9 +98,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.2 – Palazzo des Cinquecento an Via degli Speziali – Teil 2/9 (Y 64–69)
+### Schritt 23.2 – Palazzo des Cinquecento an Via degli Speziali – Teil 2/9 (Y 68–73)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.740
 - **Bauteile:** `r7225171`
 
@@ -131,9 +131,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.3 – Palazzo des Cinquecento an Via degli Speziali – Teil 3/9 (Y 70–74)
+### Schritt 23.3 – Palazzo des Cinquecento an Via degli Speziali – Teil 3/9 (Y 74–78)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.475
 - **Bauteile:** `r7225171`
 
@@ -164,9 +164,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.4 – Palazzo des Cinquecento an Via degli Speziali – Teil 4/9 (Y 75–80)
+### Schritt 23.4 – Palazzo des Cinquecento an Via degli Speziali – Teil 4/9 (Y 79–84)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 79 bis 84
 - **Blöcke:** 1.710
 - **Bauteile:** `r7225171`
 
@@ -195,9 +195,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.5 – Palazzo des Cinquecento an Via degli Speziali – Teil 5/9 (Y 81–86)
+### Schritt 23.5 – Palazzo des Cinquecento an Via degli Speziali – Teil 5/9 (Y 85–90)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 85 bis 90
 - **Blöcke:** 1.758
 - **Bauteile:** `r7225171`
 
@@ -227,9 +227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.6 – Palazzo des Cinquecento an Via degli Speziali – Teil 6/9 (Y 87–91)
+### Schritt 23.6 – Palazzo des Cinquecento an Via degli Speziali – Teil 6/9 (Y 91–95)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.457
 - **Bauteile:** `r7225171`
 
@@ -259,9 +259,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.7 – Palazzo des Cinquecento an Via degli Speziali – Teil 7/9 (Y 92–97)
+### Schritt 23.7 – Palazzo des Cinquecento an Via degli Speziali – Teil 7/9 (Y 96–101)
 
-- **Y-Bereich:** 92 bis 97
+- **Y-Bereich:** 96 bis 101
 - **Blöcke:** 1.710
 - **Bauteile:** `r7225171`
 
@@ -290,9 +290,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.8 – Palazzo des Cinquecento an Via degli Speziali – Teil 8/9 (Y 98–101)
+### Schritt 23.8 – Palazzo des Cinquecento an Via degli Speziali – Teil 8/9 (Y 102–105)
 
-- **Y-Bereich:** 98 bis 101
+- **Y-Bereich:** 102 bis 105
 - **Blöcke:** 1.954
 - **Bauteile:** `r7225171`
 
@@ -321,9 +321,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.9 – Palazzo des Cinquecento an Via degli Speziali – Teil 9/9 (Y 102–106)
+### Schritt 23.9 – Palazzo des Cinquecento an Via degli Speziali – Teil 9/9 (Y 106–110)
 
-- **Y-Bereich:** 102 bis 106
+- **Y-Bereich:** 106 bis 110
 - **Blöcke:** 1.378
 - **Bauteile:** `r7225171`
 
@@ -350,9 +350,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.10 – Palazzo des Cinquecento an Via degli Speziali: Innenausbau – Teil 1/3 (Y 63–73)
+### Schritt 23.10 – Palazzo des Cinquecento an Via degli Speziali: Innenausbau – Teil 1/3 (Y 67–77)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.360
 - **Bauteile:** `r7225171_innen`
 
@@ -392,9 +392,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.11 – Palazzo des Cinquecento an Via degli Speziali: Innenausbau – Teil 2/3 (Y 74–82)
+### Schritt 23.11 – Palazzo des Cinquecento an Via degli Speziali: Innenausbau – Teil 2/3 (Y 78–86)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.353
 - **Bauteile:** `r7225171_innen`
 
@@ -436,9 +436,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.12 – Palazzo des Cinquecento an Via degli Speziali: Innenausbau – Teil 3/3 (Y 83–92)
+### Schritt 23.12 – Palazzo des Cinquecento an Via degli Speziali: Innenausbau – Teil 3/3 (Y 87–96)
 
-- **Y-Bereich:** 83 bis 92
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.362
 - **Bauteile:** `r7225171_innen`
 
@@ -482,9 +482,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.13 – Reihenhaus an Via dei Calzaiuoli – Teil 1/5 (Y 63–70)
+### Schritt 23.13 – Reihenhaus an Via dei Calzaiuoli – Teil 1/5 (Y 67–74)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.573
 - **Bauteile:** `w491923431`
 
@@ -513,9 +513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.14 – Reihenhaus an Via dei Calzaiuoli – Teil 2/5 (Y 71–80)
+### Schritt 23.14 – Reihenhaus an Via dei Calzaiuoli – Teil 2/5 (Y 75–84)
 
-- **Y-Bereich:** 71 bis 80
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.642
 - **Bauteile:** `w491923431`
 
@@ -543,9 +543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.15 – Reihenhaus an Via dei Calzaiuoli – Teil 3/5 (Y 81–91)
+### Schritt 23.15 – Reihenhaus an Via dei Calzaiuoli – Teil 3/5 (Y 85–95)
 
-- **Y-Bereich:** 81 bis 91
+- **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.802
 - **Bauteile:** `w491923431`
 
@@ -573,9 +573,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.16 – Reihenhaus an Via dei Calzaiuoli – Teil 4/5 (Y 92–101)
+### Schritt 23.16 – Reihenhaus an Via dei Calzaiuoli – Teil 4/5 (Y 96–105)
 
-- **Y-Bereich:** 92 bis 101
+- **Y-Bereich:** 96 bis 105
 - **Blöcke:** 1.634
 - **Bauteile:** `w491923431`
 
@@ -603,9 +603,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.17 – Reihenhaus an Via dei Calzaiuoli – Teil 5/5 (Y 102–113)
+### Schritt 23.17 – Reihenhaus an Via dei Calzaiuoli – Teil 5/5 (Y 106–117)
 
-- **Y-Bereich:** 102 bis 113
+- **Y-Bereich:** 106 bis 117
 - **Blöcke:** 1.574
 - **Bauteile:** `w491923431`
 
@@ -637,7 +637,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 23.18 – Reihenhaus an Via dei Calzaiuoli: Innenausbau
 
-- **Y-Bereich:** 63 bis 99
+- **Y-Bereich:** 67 bis 103
 - **Blöcke:** 1.345
 - **Bauteile:** `w491923431_innen`
 
@@ -675,9 +675,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.19 – Reihenhaus an Via dei Calzaiuoli – Teil 1/3 (Y 63–74)
+### Schritt 23.19 – Reihenhaus an Via dei Calzaiuoli – Teil 1/3 (Y 67–78)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 2.045
 - **Bauteile:** `w491923435`
 
@@ -707,9 +707,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.20 – Reihenhaus an Via dei Calzaiuoli – Teil 2/3 (Y 75–91)
+### Schritt 23.20 – Reihenhaus an Via dei Calzaiuoli – Teil 2/3 (Y 79–95)
 
-- **Y-Bereich:** 75 bis 91
+- **Y-Bereich:** 79 bis 95
 - **Blöcke:** 2.063
 - **Bauteile:** `w491923435`
 
@@ -737,9 +737,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.21 – Reihenhaus an Via dei Calzaiuoli – Teil 3/3 (Y 92–107)
+### Schritt 23.21 – Reihenhaus an Via dei Calzaiuoli – Teil 3/3 (Y 96–111)
 
-- **Y-Bereich:** 92 bis 107
+- **Y-Bereich:** 96 bis 111
 - **Blöcke:** 2.083
 - **Bauteile:** `w491923435`
 
@@ -769,9 +769,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.22 – Reihenhaus an Via dei Calzaiuoli: Innenausbau – Teil 1/2 (Y 63–79)
+### Schritt 23.22 – Reihenhaus an Via dei Calzaiuoli: Innenausbau – Teil 1/2 (Y 67–83)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 67 bis 83
 - **Blöcke:** 1.273
 - **Bauteile:** `w491923435_innen`
 
@@ -811,9 +811,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.23 – Reihenhaus an Via dei Calzaiuoli: Innenausbau – Teil 2/2 (Y 80–94)
+### Schritt 23.23 – Reihenhaus an Via dei Calzaiuoli: Innenausbau – Teil 2/2 (Y 84–98)
 
-- **Y-Bereich:** 80 bis 94
+- **Y-Bereich:** 84 bis 98
 - **Blöcke:** 1.275
 - **Bauteile:** `w491923435_innen`
 
@@ -853,10 +853,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.24 – Palazzo des Cinquecento an Via dei Medici – Teil 1/6 (Y 63–65)
+### Schritt 23.24 – Palazzo des Cinquecento an Via dei Medici – Teil 1/6 (Y 66–69)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.614
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.626
 - **Bauteile:** `w491923444`
 
 **Teileliste**
@@ -865,6 +865,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.188 |
 | Hellgrauer Beton | `light_gray_concrete` | 414 |
+| Tuffstein | `tuff` | 12 |
 | Polierter Andesit | `polished_andesite` | 6 |
 | Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
@@ -885,9 +886,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.25 – Palazzo des Cinquecento an Via dei Medici – Teil 2/6 (Y 66–73)
+### Schritt 23.25 – Palazzo des Cinquecento an Via dei Medici – Teil 2/6 (Y 70–77)
 
-- **Y-Bereich:** 66 bis 73
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.692
 - **Bauteile:** `w491923444`
 
@@ -917,9 +918,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.26 – Palazzo des Cinquecento an Via dei Medici – Teil 3/6 (Y 74–80)
+### Schritt 23.26 – Palazzo des Cinquecento an Via dei Medici – Teil 3/6 (Y 78–84)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.471
 - **Bauteile:** `w491923444`
 
@@ -948,9 +949,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.27 – Palazzo des Cinquecento an Via dei Medici – Teil 4/6 (Y 81–87)
+### Schritt 23.27 – Palazzo des Cinquecento an Via dei Medici – Teil 4/6 (Y 85–91)
 
-- **Y-Bereich:** 81 bis 87
+- **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.549
 - **Bauteile:** `w491923444`
 
@@ -979,9 +980,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.28 – Palazzo des Cinquecento an Via dei Medici – Teil 5/6 (Y 88–93)
+### Schritt 23.28 – Palazzo des Cinquecento an Via dei Medici – Teil 5/6 (Y 92–97)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.503
 - **Bauteile:** `w491923444`
 
@@ -1011,9 +1012,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.29 – Palazzo des Cinquecento an Via dei Medici – Teil 6/6 (Y 94–100)
+### Schritt 23.29 – Palazzo des Cinquecento an Via dei Medici – Teil 6/6 (Y 98–104)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 98 bis 104
 - **Blöcke:** 1.809
 - **Bauteile:** `w491923444`
 
@@ -1042,7 +1043,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 23.30 – Palazzo des Cinquecento an Via dei Medici: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 67 bis 88
 - **Blöcke:** 2.041
 - **Bauteile:** `w491923444_innen`
 
@@ -1088,7 +1089,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 23.31 – Wohnturm an Via dei Calzaiuoli
 
-- **Y-Bereich:** 63 bis 104
+- **Y-Bereich:** 67 bis 108
 - **Blöcke:** 1.045
 - **Bauteile:** `w491923449`
 
@@ -1096,11 +1097,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 523 |
+| Tuffstein | `tuff` | 528 |
 | Terrakotta | `terracotta` | 186 |
 | Polierter Tuffstein | `polished_tuff` | 166 |
 | Polierter Andesit | `polished_andesite` | 94 |
-| Tuffsteinziegel | `tuff_bricks` | 41 |
+| Tuffsteinziegel | `tuff_bricks` | 36 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 | Ziegelsteine | `bricks` | 3 |
 
@@ -1122,7 +1123,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 23.32 – Wohnturm an Via dei Calzaiuoli: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 67 bis 98
 - **Blöcke:** 737
 - **Bauteile:** `w491923449_innen`
 

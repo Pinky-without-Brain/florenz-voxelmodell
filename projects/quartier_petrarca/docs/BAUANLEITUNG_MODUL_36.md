@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.858 |
+| Blöcke | 15.910 |
 | Bauschritte | 11 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 63 bis 99 |
 | X-Ausdehnung | -2659 bis -2595 (65 Blöcke) |
 | Z-Ausdehnung | 1850 bis 1923 (74 Blöcke) |
 | Kleinster Schritt | 568 Blöcke (Schritt 36.9) |
-| Mittlerer Schritt | 1.442 Blöcke |
+| Mittlerer Schritt | 1.446 Blöcke |
 | Größter Schritt | 1.787 Blöcke (Schritt 36.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 3.505 | 22,1 % |
-| Orange Keramik | `orange_terracotta` | 3.107 | 19,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 3.041 | 19,2 % |
+| Terrakotta | `terracotta` | 3.505 | 22,0 % |
+| Orange Keramik | `orange_terracotta` | 3.107 | 19,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 3.041 | 19,1 % |
 | Polierter Tuffstein | `polished_tuff` | 1.481 | 9,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.383 | 8,7 % |
 | Weißer Beton | `white_concrete` | 1.101 | 6,9 % |
@@ -34,6 +34,7 @@
 | Ziegelsteine | `bricks` | 138 | 0,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 120 | 0,8 % |
 | Glatter Stein | `smooth_stone` | 53 | 0,3 % |
+| Tuffstein | `tuff` | 52 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 35 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 35 | 0,2 % |
 | Seelaterne | `sea_lantern` | 20 | 0,1 % |
@@ -52,7 +53,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w461683375` | Haus w461683375 | 4.995 | 36.1–36.3 |
+| 1 | `w461683375` | Haus w461683375 | 5.047 | 36.1–36.3 |
 | 2 | `w461683375_innen` | Haus w461683375: Innenausbau | 748 | 36.4 |
 | 3 | `w461683400` | Reihenhaus an Via Giano della Bella | 6.241 | 36.5–36.8 |
 | 4 | `w461683400_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 568 | 36.9 |
@@ -64,17 +65,18 @@
 ### Schritt 36.1 – Haus w461683375 – Teil 1/3 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.732
+- **Blöcke:** 1.636
 - **Bauteile:** `w461683375`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.093 |
+| Gelbe Keramik | `yellow_terracotta` | 989 |
 | Polierter Tuffstein | `polished_tuff` | 356 |
-| Weißer Beton | `white_concrete` | 181 |
+| Weißer Beton | `white_concrete` | 137 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
+| Tuffstein | `tuff` | 52 |
 | Glatter Stein | `smooth_stone` | 27 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
 
@@ -104,8 +106,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.116 |
-| Weißer Beton | `white_concrete` | 384 |
+| Gelbe Keramik | `yellow_terracotta` | 1.135 |
+| Weißer Beton | `white_concrete` | 365 |
 | Graues Buntglas | `gray_stained_glass` | 138 |
 | Fichtenholz-Bretter | `spruce_planks` | 24 |
 
@@ -125,19 +127,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.3 – Haus w461683375 – Teil 3/3 (Y 86–98)
+### Schritt 36.3 – Haus w461683375 – Teil 3/3 (Y 86–99)
 
-- **Y-Bereich:** 86 bis 98
-- **Blöcke:** 1.601
+- **Y-Bereich:** 86 bis 99
+- **Blöcke:** 1.749
 - **Bauteile:** `w461683375`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 832 |
+| Gelbe Keramik | `yellow_terracotta` | 917 |
 | Terrakotta | `terracotta` | 443 |
-| Weißer Beton | `white_concrete` | 214 |
+| Weißer Beton | `white_concrete` | 277 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Ziegelsteine | `bricks` | 31 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
@@ -160,7 +162,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.4 – Haus w461683375: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 748
 - **Bauteile:** `w461683375_innen`
 
@@ -200,9 +202,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.5 – Reihenhaus an Via Giano della Bella – Teil 1/4 (Y 63–66)
+### Schritt 36.5 – Reihenhaus an Via Giano della Bella – Teil 1/4 (Y 65–68)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.499
 - **Bauteile:** `w461683400`
 
@@ -230,9 +232,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.6 – Reihenhaus an Via Giano della Bella – Teil 2/4 (Y 67–73)
+### Schritt 36.6 – Reihenhaus an Via Giano della Bella – Teil 2/4 (Y 69–75)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.632
 - **Bauteile:** `w461683400`
 
@@ -261,9 +263,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.7 – Reihenhaus an Via Giano della Bella – Teil 3/4 (Y 74–79)
+### Schritt 36.7 – Reihenhaus an Via Giano della Bella – Teil 3/4 (Y 76–81)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 76 bis 81
 - **Blöcke:** 1.406
 - **Bauteile:** `w461683400`
 
@@ -293,9 +295,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.8 – Reihenhaus an Via Giano della Bella – Teil 4/4 (Y 79–86)
+### Schritt 36.8 – Reihenhaus an Via Giano della Bella – Teil 4/4 (Y 81–88)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.704
 - **Bauteile:** `w461683400`
 
@@ -327,7 +329,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.9 – Reihenhaus an Via Giano della Bella: Innenausbau
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 568
 - **Bauteile:** `w461683400_innen`
 
@@ -367,9 +369,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.10 – Haus w495766108 – Teil 1/2 (Y 63–73)
+### Schritt 36.10 – Haus w495766108 – Teil 1/2 (Y 65–75)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.519
 - **Bauteile:** `w495766108`
 
@@ -401,9 +403,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.11 – Haus w495766108 – Teil 2/2 (Y 74–85) & Haus w495766108: Innenausbau
+### Schritt 36.11 – Haus w495766108 – Teil 2/2 (Y 76–87) & Haus w495766108: Innenausbau
 
-- **Y-Bereich:** 63 bis 85
+- **Y-Bereich:** 65 bis 87
 - **Blöcke:** 1.787
 - **Bauteile:** `w495766108`, `w495766108_innen`
 

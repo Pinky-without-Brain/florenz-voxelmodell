@@ -1,0 +1,50 @@
+{
+  "module": 3,
+  "title": "Wände und Kapellen am Querhaus",
+  "subtitle": "Bautüte 3: Außenwände, Fenster, Kopfkapellen, Sassetti, Gualberto und Sakristei",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umschließt die Kirche bis unter die Dächer; die linke Flanke trägt Rustika, die rechte ist verputzt.",
+      "tip": "Zwei Blöcke dick.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Die linke Flanke hat Diamantquader, die rechte ist verputzt."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Spitzbogenfenster aus farbigem Glas in Seitenschiffen und Querhaus; in der quadratischen Apsis die lange Bifora (Y 71 bis 91).",
+      "tip": "Sie sitzen in der Jochmitte.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die Bifora der Apsis wurde im 19. Jahrhundert wiederhergestellt."
+    },
+    "kopfkapellen": {
+      "title": "Kopfkapellen",
+      "description": "Am Kopf des Querhauses liegen die Cappella maggiore mit Spitzbogen bis Y 93 und daneben die kleineren Kapellen; Wände bis unter die Dächer.",
+      "tip": "Baue die Trennwände vor den Gewölben.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Die Kirche hat die Form eines T (croce commissa), typisch für Klosterkirchen."
+    },
+    "sassetti": {
+      "title": "Cappella Sassetti",
+      "description": "Rechts außen am Querhauskopf die Cappella Sassetti mit großem Bogen und Fresken in vielen Farben.",
+      "tip": "Die Fresken sitzen innen auf den Wänden.",
+      "caution": "Den Bogen freilassen.",
+      "fact": "Domenico Ghirlandaio malte hier 1483–86 die Geschichten des hl. Franziskus."
+    },
+    "gualberto": {
+      "title": "Kapelle des hl. Giovanni Gualberto",
+      "description": "Am rechten Querhauskopf trennt eine Bogenwand die Kapelle des Ordensgründers ab (Bogen bis Y 85).",
+      "tip": "Der Bogen ist zehn Blöcke breit.",
+      "caution": "Darunter bleibt alles frei.",
+      "fact": "Giovanni Gualberto gründete den Orden der Vallombrosaner."
+    },
+    "sakristei": {
+      "title": "Sakristei",
+      "description": "Am linken Querhausende liegt die Sakristei, die frühere Strozzi-Kapelle, hinter einer Wand mit Tür.",
+      "tip": "Die Tür ist vier Blöcke breit.",
+      "caution": "Tür frei lassen.",
+      "fact": "Die Sakristei war früher die Kapelle der Familie Strozzi."
+    }
+  }
+}

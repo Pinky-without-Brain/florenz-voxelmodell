@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 1.582 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 88 bis 123 |
 | X-Ausdehnung | 690 bis 702 (13 Blöcke) |
 | Z-Ausdehnung | 2344 bis 2356 (13 Blöcke) |
 | Kleinster Schritt | 1.582 Blöcke (Schritt 39.1) |
@@ -41,7 +41,7 @@
 
 ### Schritt 39.1 – Nebengebäude an Via dell'Erta Canina & Nebengebäude an Via dell'Erta Canina: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 88 bis 123
 - **Blöcke:** 1.582
 - **Bauteile:** `w120114786`, `w120114786_innen`
 

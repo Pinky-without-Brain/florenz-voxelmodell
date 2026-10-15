@@ -2,100 +2,105 @@
 
 # Bauanleitung Modul 27: Isolato I0539 – Via della Condotta
 
-*Quartier Signoria: 11 Häuser*
+*Quartier Signoria: 10 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 151.551 |
-| Bauschritte | 96 |
-| Y-Bereich | 63 bis 208 |
+| Blöcke | 139.274 |
+| Bauschritte | 88 |
+| Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | -3 bis 157 (161 Blöcke) |
 | Z-Ausdehnung | 490 bis 672 (183 Blöcke) |
-| Kleinster Schritt | 438 Blöcke (Schritt 27.62) |
-| Mittlerer Schritt | 1.579 Blöcke |
-| Größter Schritt | 2.091 Blöcke (Schritt 27.60) |
+| Kleinster Schritt | 53 Blöcke (Schritt 27.50) |
+| Mittlerer Schritt | 1.583 Blöcke |
+| Größter Schritt | 2.097 Blöcke (Schritt 27.49) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 51.445 | 33,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 31.503 | 20,8 % |
-| Polierter Tuffstein | `polished_tuff` | 18.526 | 12,2 % |
-| Endsteinziegel | `end_stone_bricks` | 15.473 | 10,2 % |
-| Weißer Beton | `white_concrete` | 9.129 | 6,0 % |
-| Tuffstein | `tuff` | 7.917 | 5,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.219 | 4,8 % |
-| Graues Buntglas | `gray_stained_glass` | 3.088 | 2,0 % |
-| Glatter Stein | `smooth_stone` | 1.972 | 1,3 % |
-| Grüner Beton | `green_concrete` | 1.100 | 0,7 % |
-| Ziegelsteine | `bricks` | 1.038 | 0,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 721 | 0,5 % |
+| Terrakotta | `terracotta` | 50.209 | 36,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 28.077 | 20,2 % |
+| Polierter Tuffstein | `polished_tuff` | 18.340 | 13,2 % |
+| Endsteinziegel | `end_stone_bricks` | 13.539 | 9,7 % |
+| Weißer Beton | `white_concrete` | 9.176 | 6,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.219 | 5,2 % |
+| Tuffstein | `tuff` | 3.245 | 2,3 % |
+| Graues Buntglas | `gray_stained_glass` | 3.088 | 2,2 % |
+| Glatter Stein | `smooth_stone` | 1.970 | 1,4 % |
+| Grüner Beton | `green_concrete` | 1.100 | 0,8 % |
+| Ziegelsteine | `bricks` | 1.028 | 0,7 % |
 | Polierter Andesit | `polished_andesite` | 613 | 0,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 338 | 0,2 % |
-| Seelaterne | `sea_lantern` | 309 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 346 | 0,2 % |
+| Seelaterne | `sea_lantern` | 298 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 228 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 193 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 191 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 100 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 96 | 0,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 96 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 92 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 88 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 80 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 76 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 66 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 66 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 66 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 62 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 50 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 7 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 6 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 580 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 284 |
 | Steintreppe | `stone_stairs` | 220 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 58 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r5441462` | Palazzo des Ottocento an Via della Condotta | 10.038 | 27.1–27.6 |
-| 2 | `r5441462_innen` | Palazzo des Ottocento an Via della Condotta: Innenausbau | 829 | 27.7 |
-| 3 | `r7752941` | Reihenhaus an Via della Condotta | 10.928 | 27.8–27.14 |
-| 4 | `r7752941_innen` | Reihenhaus an Via della Condotta: Innenausbau | 4.108 | 27.15–27.17 |
-| 5 | `r7752942` | Palazzo des Cinquecento an Via dei Magazzini | 45.630 | 27.18–27.49 |
-| 6 | `r7752942_innen` | Palazzo des Cinquecento an Via dei Magazzini: Innenausbau | 12.491 | 27.49–27.55 |
-| 7 | `w249686038` | Haus w249686038 | 7.672 | 27.56–27.59 |
-| 8 | `w249686038_innen` | Haus w249686038: Innenausbau | 2.091 | 27.60 |
-| 9 | `w307545803` | Torre della Castagna | 1.593 | 27.61 |
-| 10 | `w307545803_innen` | Torre della Castagna: Innenausbau | 438 | 27.62 |
-| 11 | `w542316319` | Reihenhaus an Via della Condotta | 4.946 | 27.63–27.65 |
-| 12 | `w542316319_innen` | Reihenhaus an Via della Condotta: Innenausbau | 3.839 | 27.66–27.68 |
-| 13 | `w542316320` | Palazzo des Cinquecento an Piazza San Firenze | 6.825 | 27.69–27.72 |
-| 14 | `w542316320_innen` | Palazzo des Cinquecento an Piazza San Firenze: Innenausbau | 1.301 | 27.73 |
-| 15 | `w542316321` | Reihenhaus an Piazza San Firenze | 6.238 | 27.74–27.77 |
-| 16 | `w542316321_innen` | Reihenhaus an Piazza San Firenze: Innenausbau | 2.465 | 27.78–27.79 |
-| 17 | `w542316323` | Palazzo des Ottocento an Via del Proconsolo | 14.370 | 27.80–27.87 |
-| 18 | `w542316323_innen` | Palazzo des Ottocento an Via del Proconsolo: Innenausbau | 3.972 | 27.88–27.89 |
-| 19 | `w542316328` | Reihenhaus an Via della Condotta | 3.042 | 27.90–27.91 |
-| 20 | `w542316328_innen` | Reihenhaus an Via della Condotta: Innenausbau | 1.788 | 27.92 |
-| 21 | `w542316331` | Palazzo des Cinquecento an Via dei Magazzini | 5.537 | 27.93–27.95 |
-| 22 | `w542316331_innen` | Palazzo des Cinquecento an Via dei Magazzini: Innenausbau | 1.410 | 27.96 |
+| 1 | `r5441462` | Palazzo des Ottocento an Via della Condotta | 9.141 | 27.1–27.5 |
+| 2 | `r5441462_innen` | Palazzo des Ottocento an Via della Condotta: Innenausbau | 862 | 27.6 |
+| 3 | `r7752941` | Reihenhaus an Via della Condotta | 10.931 | 27.7–27.13 |
+| 4 | `r7752941_innen` | Reihenhaus an Via della Condotta: Innenausbau | 4.108 | 27.14–27.16 |
+| 5 | `r7752942` | Palazzo des Cinquecento an Via dei Magazzini | 44.054 | 27.17–27.46 |
+| 6 | `r7752942_innen` | Palazzo des Cinquecento an Via dei Magazzini: Innenausbau | 12.641 | 27.46–27.54 |
+| 7 | `w307545803` | Torre della Castagna | 1.593 | 27.54 |
+| 8 | `w307545803_innen` | Torre della Castagna: Innenausbau | 438 | 27.55 |
+| 9 | `w542316319` | Reihenhaus an Via della Condotta | 5.191 | 27.56–27.58 |
+| 10 | `w542316319_innen` | Reihenhaus an Via della Condotta: Innenausbau | 3.839 | 27.59–27.61 |
+| 11 | `w542316320` | Palazzo des Cinquecento an Piazza San Firenze | 7.123 | 27.62–27.65 |
+| 12 | `w542316320_innen` | Palazzo des Cinquecento an Piazza San Firenze: Innenausbau | 1.301 | 27.66 |
+| 13 | `w542316321` | Reihenhaus an Piazza San Firenze | 5.443 | 27.67–27.69 |
+| 14 | `w542316321_innen` | Reihenhaus an Piazza San Firenze: Innenausbau | 2.561 | 27.70–27.71 |
+| 15 | `w542316323` | Palazzo des Ottocento an Via del Proconsolo | 14.139 | 27.72–27.79 |
+| 16 | `w542316323_innen` | Palazzo des Ottocento an Via del Proconsolo: Innenausbau | 4.051 | 27.80–27.81 |
+| 17 | `w542316328` | Reihenhaus an Via della Condotta | 3.115 | 27.82–27.83 |
+| 18 | `w542316328_innen` | Reihenhaus an Via della Condotta: Innenausbau | 1.788 | 27.84 |
+| 19 | `w542316331` | Palazzo des Cinquecento an Via dei Magazzini | 5.537 | 27.85–27.87 |
+| 20 | `w542316331_innen` | Palazzo des Cinquecento an Via dei Magazzini: Innenausbau | 1.410 | 27.88 |
+| 21 | `strassenschilder` | Straßenschilder | 8 | 27.88 |
 
 ## Bauschritte
 
-### Schritt 27.1 – Palazzo des Ottocento an Via della Condotta – Teil 1/6 (Y 63–67)
+### Schritt 27.1 – Palazzo des Ottocento an Via della Condotta – Teil 1/5 (Y 66–71)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.812
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.944
 - **Bauteile:** `r5441462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.164 |
-| Polierter Tuffstein | `polished_tuff` | 648 |
+| Endsteinziegel | `end_stone_bricks` | 1.310 |
+| Polierter Tuffstein | `polished_tuff` | 634 |
 
 **Beschreibung**
 
@@ -113,17 +118,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Palazzo des Ottocento an Via della Condotta – Teil 2/6 (Y 68–72)
+### Schritt 27.2 – Palazzo des Ottocento an Via della Condotta – Teil 2/5 (Y 72–78)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.455
+- **Y-Bereich:** 72 bis 78
+- **Blöcke:** 1.834
 - **Bauteile:** `r5441462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.455 |
+| Endsteinziegel | `end_stone_bricks` | 1.834 |
 
 **Beschreibung**
 
@@ -141,17 +146,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.3 – Palazzo des Ottocento an Via della Condotta – Teil 3/6 (Y 73–78)
+### Schritt 27.3 – Palazzo des Ottocento an Via della Condotta – Teil 3/5 (Y 79–85)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.746
+- **Y-Bereich:** 79 bis 85
+- **Blöcke:** 1.834
 - **Bauteile:** `r5441462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.746 |
+| Endsteinziegel | `end_stone_bricks` | 1.834 |
 
 **Beschreibung**
 
@@ -169,17 +174,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.4 – Palazzo des Ottocento an Via della Condotta – Teil 4/6 (Y 79–84)
+### Schritt 27.4 – Palazzo des Ottocento an Via della Condotta – Teil 4/5 (Y 86–91)
 
-- **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.746
+- **Y-Bereich:** 86 bis 91
+- **Blöcke:** 1.572
 - **Bauteile:** `r5441462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.746 |
+| Endsteinziegel | `end_stone_bricks` | 1.572 |
 
 **Beschreibung**
 
@@ -197,46 +202,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.5 – Palazzo des Ottocento an Via della Condotta – Teil 5/6 (Y 85–90)
+### Schritt 27.5 – Palazzo des Ottocento an Via della Condotta – Teil 5/5 (Y 92–100)
 
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.746
+- **Y-Bereich:** 92 bis 100
+- **Blöcke:** 1.957
 - **Bauteile:** `r5441462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.746 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.6 – Palazzo des Ottocento an Via della Condotta – Teil 6/6 (Y 91–97)
-
-- **Y-Bereich:** 91 bis 97
-- **Blöcke:** 1.533
-- **Bauteile:** `r5441462`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 873 |
-| Terrakotta | `terracotta` | 654 |
+| Endsteinziegel | `end_stone_bricks` | 1.310 |
+| Terrakotta | `terracotta` | 641 |
 | Ziegelsteine | `bricks` | 6 |
 
 **Beschreibung**
@@ -255,20 +232,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.7 – Palazzo des Ottocento an Via della Condotta: Innenausbau
+### Schritt 27.6 – Palazzo des Ottocento an Via della Condotta: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 829
+- **Y-Bereich:** 66 bis 87
+- **Blöcke:** 862
 - **Bauteile:** `r5441462_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 698 |
+| Terrakotta | `terracotta` | 728 |
 | Glatter Stein | `smooth_stone` | 52 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 21 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
@@ -301,10 +278,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.8 – Reihenhaus an Via della Condotta – Teil 1/7 (Y 63–63)
+### Schritt 27.7 – Reihenhaus an Via della Condotta – Teil 1/7 (Y 66–67)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.561
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.564
 - **Bauteile:** `r7752941`
 
 **Teileliste**
@@ -312,6 +289,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.561 |
+| Tuffstein | `tuff` | 3 |
 
 **Beschreibung**
 
@@ -329,9 +307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.9 – Reihenhaus an Via della Condotta – Teil 2/7 (Y 64–70)
+### Schritt 27.8 – Reihenhaus an Via della Condotta – Teil 2/7 (Y 68–74)
 
-- **Y-Bereich:** 64 bis 70
+- **Y-Bereich:** 68 bis 74
 - **Blöcke:** 1.615
 - **Bauteile:** `r7752941`
 
@@ -362,9 +340,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.10 – Reihenhaus an Via della Condotta – Teil 3/7 (Y 71–76)
+### Schritt 27.9 – Reihenhaus an Via della Condotta – Teil 3/7 (Y 75–80)
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.419
 - **Bauteile:** `r7752941`
 
@@ -393,9 +371,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.11 – Reihenhaus an Via della Condotta – Teil 4/7 (Y 77–83)
+### Schritt 27.10 – Reihenhaus an Via della Condotta – Teil 4/7 (Y 81–87)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.660
 - **Bauteile:** `r7752941`
 
@@ -424,9 +402,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.12 – Reihenhaus an Via della Condotta – Teil 5/7 (Y 84–90)
+### Schritt 27.11 – Reihenhaus an Via della Condotta – Teil 5/7 (Y 88–94)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.660
 - **Bauteile:** `r7752941`
 
@@ -455,9 +433,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.13 – Reihenhaus an Via della Condotta – Teil 6/7 (Y 91–94)
+### Schritt 27.12 – Reihenhaus an Via della Condotta – Teil 6/7 (Y 95–98)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 95 bis 98
 - **Blöcke:** 1.619
 - **Bauteile:** `r7752941`
 
@@ -486,9 +464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.14 – Reihenhaus an Via della Condotta – Teil 7/7 (Y 95–102)
+### Schritt 27.13 – Reihenhaus an Via della Condotta – Teil 7/7 (Y 99–106)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 1.394
 - **Bauteile:** `r7752941`
 
@@ -515,9 +493,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.15 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 27.14 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.373
 - **Bauteile:** `r7752941_innen`
 
@@ -553,9 +531,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.16 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 27.15 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/3 (Y 77–83)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.363
 - **Bauteile:** `r7752941_innen`
 
@@ -593,9 +571,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.17 – Reihenhaus an Via della Condotta: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 27.16 – Reihenhaus an Via della Condotta: Innenausbau – Teil 3/3 (Y 84–91)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.372
 - **Bauteile:** `r7752941_innen`
 
@@ -633,9 +611,37 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.18 – Palazzo des Cinquecento an Via dei Magazzini – Teil 1/32 (Y 63–63)
+### Schritt 27.17 – Palazzo des Cinquecento an Via dei Magazzini – Teil 1/30 (Y 64–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 726
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 726 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.18 – Palazzo des Cinquecento an Via dei Magazzini – Teil 2/30 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.798
 - **Bauteile:** `r7752942`
 
@@ -661,196 +667,164 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.19 – Palazzo des Cinquecento an Via dei Magazzini – Teil 2/32 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.784
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.784 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.20 – Palazzo des Cinquecento an Via dei Magazzini – Teil 3/32 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.730
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.730 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.21 – Palazzo des Cinquecento an Via dei Magazzini – Teil 4/32 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.801
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.801 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.22 – Palazzo des Cinquecento an Via dei Magazzini – Teil 5/32 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 958
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 954 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Polierter Andesit | `polished_andesite` | 1 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.23 – Palazzo des Cinquecento an Via dei Magazzini – Teil 6/32 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 997
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 890 |
-| Weißer Beton | `white_concrete` | 103 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Polierter Andesit | `polished_andesite` | 1 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.24 – Palazzo des Cinquecento an Via dei Magazzini – Teil 7/32 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.058
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 801 |
-| Weißer Beton | `white_concrete` | 253 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Polierter Andesit | `polished_andesite` | 1 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.25 – Palazzo des Cinquecento an Via dei Magazzini – Teil 8/32 (Y 67–67)
+### Schritt 27.19 – Palazzo des Cinquecento an Via dei Magazzini – Teil 3/30 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 869
+- **Blöcke:** 1.732
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 653 |
+| Polierter Tuffstein | `polished_tuff` | 1.732 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.20 – Palazzo des Cinquecento an Via dei Magazzini – Teil 4/30 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.781
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.781 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.21 – Palazzo des Cinquecento an Via dei Magazzini – Teil 5/30 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.800
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.800 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.22 – Palazzo des Cinquecento an Via dei Magazzini – Teil 6/30 (Y 68–68)
+
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 881
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 877 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Polierter Andesit | `polished_andesite` | 1 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.23 – Palazzo des Cinquecento an Via dei Magazzini – Teil 7/30 (Y 69–70)
+
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.901
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.537 |
+| Weißer Beton | `white_concrete` | 356 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Polierter Andesit | `polished_andesite` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.24 – Palazzo des Cinquecento an Via dei Magazzini – Teil 8/30 (Y 71–71)
+
+- **Y-Bereich:** 71 bis 71
+- **Blöcke:** 792
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 576 |
 | Graues Buntglas | `gray_stained_glass` | 89 |
 | Weißer Beton | `white_concrete` | 64 |
 | Grüner Beton | `green_concrete` | 59 |
@@ -874,17 +848,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.26 – Palazzo des Cinquecento an Via dei Magazzini – Teil 9/32 (Y 68–69)
+### Schritt 27.25 – Palazzo des Cinquecento an Via dei Magazzini – Teil 9/30 (Y 72–73)
 
-- **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.738
+- **Y-Bereich:** 72 bis 73
+- **Blöcke:** 1.584
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.306 |
+| Glatter Sandstein | `smooth_sandstone` | 1.152 |
 | Graues Buntglas | `gray_stained_glass` | 178 |
 | Weißer Beton | `white_concrete` | 128 |
 | Grüner Beton | `green_concrete` | 118 |
@@ -908,17 +882,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.27 – Palazzo des Cinquecento an Via dei Magazzini – Teil 10/32 (Y 70–71)
+### Schritt 27.26 – Palazzo des Cinquecento an Via dei Magazzini – Teil 10/30 (Y 74–75)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.833
+- **Y-Bereich:** 74 bis 75
+- **Blöcke:** 1.679
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.457 |
+| Glatter Sandstein | `smooth_sandstone` | 1.303 |
 | Weißer Beton | `white_concrete` | 217 |
 | Graues Buntglas | `gray_stained_glass` | 89 |
 | Grüner Beton | `green_concrete` | 59 |
@@ -942,111 +916,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.28 – Palazzo des Cinquecento an Via dei Magazzini – Teil 11/32 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 970
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 961 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-| Polierter Andesit | `polished_andesite` | 1 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.29 – Palazzo des Cinquecento an Via dei Magazzini – Teil 12/32 (Y 73–74)
-
-- **Y-Bereich:** 73 bis 74
-- **Blöcke:** 1.940
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.633 |
-| Glatter Stein | `smooth_stone` | 299 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.30 – Palazzo des Cinquecento an Via dei Magazzini – Teil 13/32 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 970
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 812 |
-| Weißer Beton | `white_concrete` | 158 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.31 – Palazzo des Cinquecento an Via dei Magazzini – Teil 14/32 (Y 76–77)
+### Schritt 27.27 – Palazzo des Cinquecento an Via dei Magazzini – Teil 11/30 (Y 76–77)
 
 - **Y-Bereich:** 76 bis 77
-- **Blöcke:** 1.756
+- **Blöcke:** 1.786
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.318 |
-| Graues Buntglas | `gray_stained_glass` | 184 |
-| Weißer Beton | `white_concrete` | 132 |
-| Grüner Beton | `green_concrete` | 122 |
+| Glatter Sandstein | `smooth_sandstone` | 1.470 |
+| Glatter Stein | `smooth_stone` | 305 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
@@ -1064,19 +947,47 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.32 – Palazzo des Cinquecento an Via dei Magazzini – Teil 15/32 (Y 78–78)
+### Schritt 27.28 – Palazzo des Cinquecento an Via dei Magazzini – Teil 12/30 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 878
+- **Blöcke:** 893
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 659 |
+| Glatter Sandstein | `smooth_sandstone` | 893 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.29 – Palazzo des Cinquecento an Via dei Magazzini – Teil 13/30 (Y 79–80)
+
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.694
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.317 |
+| Weißer Beton | `white_concrete` | 224 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
-| Weißer Beton | `white_concrete` | 66 |
 | Grüner Beton | `green_concrete` | 61 |
 
 **Beschreibung**
@@ -1095,17 +1006,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.33 – Palazzo des Cinquecento an Via dei Magazzini – Teil 16/32 (Y 79–80)
+### Schritt 27.30 – Palazzo des Cinquecento an Via dei Magazzini – Teil 14/30 (Y 81–82)
 
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.756
+- **Y-Bereich:** 81 bis 82
+- **Blöcke:** 1.602
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.318 |
+| Glatter Sandstein | `smooth_sandstone` | 1.164 |
 | Graues Buntglas | `gray_stained_glass` | 184 |
 | Weißer Beton | `white_concrete` | 132 |
 | Grüner Beton | `green_concrete` | 122 |
@@ -1126,17 +1037,48 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.34 – Palazzo des Cinquecento an Via dei Magazzini – Teil 17/32 (Y 81–81)
+### Schritt 27.31 – Palazzo des Cinquecento an Via dei Magazzini – Teil 15/30 (Y 83–84)
 
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 970
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 1.602
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 812 |
+| Glatter Sandstein | `smooth_sandstone` | 1.164 |
+| Graues Buntglas | `gray_stained_glass` | 184 |
+| Weißer Beton | `white_concrete` | 132 |
+| Grüner Beton | `green_concrete` | 122 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.32 – Palazzo des Cinquecento an Via dei Magazzini – Teil 16/30 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 893
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 735 |
 | Weißer Beton | `white_concrete` | 158 |
 
 **Beschreibung**
@@ -1155,17 +1097,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.35 – Palazzo des Cinquecento an Via dei Magazzini – Teil 18/32 (Y 82–83)
+### Schritt 27.33 – Palazzo des Cinquecento an Via dei Magazzini – Teil 17/30 (Y 86–87)
 
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.940
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.786
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.410 |
+| Glatter Sandstein | `smooth_sandstone` | 1.256 |
 | Glatter Stein | `smooth_stone` | 307 |
 | Weißer Beton | `white_concrete` | 223 |
 
@@ -1185,17 +1127,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.36 – Palazzo des Cinquecento an Via dei Magazzini – Teil 19/32 (Y 84–84)
+### Schritt 27.34 – Palazzo des Cinquecento an Via dei Magazzini – Teil 18/30 (Y 88–89)
 
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 970
+- **Y-Bereich:** 88 bis 89
+- **Blöcke:** 1.786
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 970 |
+| Glatter Sandstein | `smooth_sandstone` | 1.628 |
+| Weißer Beton | `white_concrete` | 158 |
 
 **Beschreibung**
 
@@ -1213,79 +1156,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.37 – Palazzo des Cinquecento an Via dei Magazzini – Teil 20/32 (Y 85–86)
+### Schritt 27.35 – Palazzo des Cinquecento an Via dei Magazzini – Teil 19/30 (Y 90–90)
 
-- **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.848
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 801
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.471 |
-| Weißer Beton | `white_concrete` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Grüner Beton | `green_concrete` | 61 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.38 – Palazzo des Cinquecento an Via dei Magazzini – Teil 21/32 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.756
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.318 |
-| Graues Buntglas | `gray_stained_glass` | 184 |
-| Weißer Beton | `white_concrete` | 132 |
-| Grüner Beton | `green_concrete` | 122 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.39 – Palazzo des Cinquecento an Via dei Magazzini – Teil 22/32 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 878
-- **Bauteile:** `r7752942`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 659 |
+| Glatter Sandstein | `smooth_sandstone` | 582 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 | Weißer Beton | `white_concrete` | 66 |
 | Grüner Beton | `green_concrete` | 61 |
@@ -1306,20 +1187,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.40 – Palazzo des Cinquecento an Via dei Magazzini – Teil 23/32 (Y 90–91)
+### Schritt 27.36 – Palazzo des Cinquecento an Via dei Magazzini – Teil 20/30 (Y 91–92)
 
-- **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.848
+- **Y-Bereich:** 91 bis 92
+- **Blöcke:** 1.602
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.471 |
-| Weißer Beton | `white_concrete` | 224 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Grüner Beton | `green_concrete` | 61 |
+| Glatter Sandstein | `smooth_sandstone` | 1.164 |
+| Graues Buntglas | `gray_stained_glass` | 184 |
+| Weißer Beton | `white_concrete` | 132 |
+| Grüner Beton | `green_concrete` | 122 |
 
 **Beschreibung**
 
@@ -1337,18 +1218,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.41 – Palazzo des Cinquecento an Via dei Magazzini – Teil 24/32 (Y 92–92)
+### Schritt 27.37 – Palazzo des Cinquecento an Via dei Magazzini – Teil 21/30 (Y 93–94)
 
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.202
+- **Y-Bereich:** 93 bis 94
+- **Blöcke:** 1.602
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 979 |
-| Weißer Beton | `white_concrete` | 223 |
+| Glatter Sandstein | `smooth_sandstone` | 1.164 |
+| Graues Buntglas | `gray_stained_glass` | 184 |
+| Weißer Beton | `white_concrete` | 132 |
+| Grüner Beton | `green_concrete` | 122 |
 
 **Beschreibung**
 
@@ -1366,17 +1249,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.42 – Palazzo des Cinquecento an Via dei Magazzini – Teil 25/32 (Y 93–93)
+### Schritt 27.38 – Palazzo des Cinquecento an Via dei Magazzini – Teil 22/30 (Y 95–96)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.202
+- **Y-Bereich:** 95 bis 96
+- **Blöcke:** 2.018
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.202 |
+| Glatter Sandstein | `smooth_sandstone` | 1.637 |
+| Weißer Beton | `white_concrete` | 381 |
 
 **Beschreibung**
 
@@ -1394,9 +1278,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.43 – Palazzo des Cinquecento an Via dei Magazzini – Teil 26/32 (Y 94–94)
+### Schritt 27.39 – Palazzo des Cinquecento an Via dei Magazzini – Teil 23/30 (Y 97–97)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.140
+- **Bauteile:** `r7752942`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.140 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.40 – Palazzo des Cinquecento an Via dei Magazzini – Teil 24/30 (Y 98–98)
+
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.466
 - **Bauteile:** `r7752942`
 
@@ -1422,17 +1334,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.44 – Palazzo des Cinquecento an Via dei Magazzini – Teil 27/32 (Y 94–94)
+### Schritt 27.41 – Palazzo des Cinquecento an Via dei Magazzini – Teil 25/30 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.462
+- **Y-Bereich:** 98 bis 98
+- **Blöcke:** 1.461
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.462 |
+| Terrakotta | `terracotta` | 1.461 |
 
 **Beschreibung**
 
@@ -1450,9 +1362,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.45 – Palazzo des Cinquecento an Via dei Magazzini – Teil 28/32 (Y 95–95)
+### Schritt 27.42 – Palazzo des Cinquecento an Via dei Magazzini – Teil 26/30 (Y 99–99)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.918
 - **Bauteile:** `r7752942`
 
@@ -1478,9 +1390,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.46 – Palazzo des Cinquecento an Via dei Magazzini – Teil 29/32 (Y 96–96)
+### Schritt 27.43 – Palazzo des Cinquecento an Via dei Magazzini – Teil 27/30 (Y 100–100)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.085
 - **Bauteile:** `r7752942`
 
@@ -1506,9 +1418,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.47 – Palazzo des Cinquecento an Via dei Magazzini – Teil 30/32 (Y 96–96)
+### Schritt 27.44 – Palazzo des Cinquecento an Via dei Magazzini – Teil 28/30 (Y 100–100)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.081
 - **Bauteile:** `r7752942`
 
@@ -1534,17 +1446,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.48 – Palazzo des Cinquecento an Via dei Magazzini – Teil 31/32 (Y 97–97)
+### Schritt 27.45 – Palazzo des Cinquecento an Via dei Magazzini – Teil 29/30 (Y 101–101)
 
-- **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.511
+- **Y-Bereich:** 101 bis 101
+- **Blöcke:** 1.510
 - **Bauteile:** `r7752942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.407 |
+| Terrakotta | `terracotta` | 1.406 |
 | Ziegelsteine | `bricks` | 104 |
 
 **Beschreibung**
@@ -1563,25 +1475,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.49 – Palazzo des Cinquecento an Via dei Magazzini – Teil 32/32 (Y 98–102) & Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 1/7 (Y 63–72)
+### Schritt 27.46 – Palazzo des Cinquecento an Via dei Magazzini – Teil 30/30 (Y 102–106) & Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 1/9 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 102
-- **Blöcke:** 1.740
+- **Y-Bereich:** 67 bis 106
+- **Blöcke:** 1.737
 - **Bauteile:** `r7752942`, `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.221 |
-| Ziegelsteine | `bricks` | 436 |
+| Terrakotta | `terracotta` | 1.220 |
+| Ziegelsteine | `bricks` | 434 |
 | Seelaterne | `sea_lantern` | 36 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1606,17 +1518,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.50 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 2/7 (Y 73–73)
+### Schritt 27.47 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 2/9 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 2.062
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 2.086
 - **Bauteile:** `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.048 |
+| Terrakotta | `terracotta` | 2.072 |
 | Seelaterne | `sea_lantern` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 
@@ -1642,17 +1554,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.51 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 3/7 (Y 73–73)
+### Schritt 27.48 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 3/9 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 2.089
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 2.065
 - **Bauteile:** `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.076 |
+| Terrakotta | `terracotta` | 2.052 |
 | Seelaterne | `sea_lantern` | 13 |
 
 **Beschreibung**
@@ -1671,26 +1583,53 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.52 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 4/7 (Y 73–82)
+### Schritt 27.49 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 4/9 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 2.075
+- **Y-Bereich:** 77 bis 77
+- **Blöcke:** 2.097
 - **Bauteile:** `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.011 |
-| Glatter Stein | `smooth_stone` | 26 |
+| Terrakotta | `terracotta` | 2.086 |
 | Seelaterne | `sea_lantern` | 11 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 27.50 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 5/9 (Y 78–86)
+
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 53
+- **Bauteile:** `r7752942_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1715,17 +1654,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.53 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 5/7 (Y 83–83)
+### Schritt 27.51 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 6/9 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.062
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 2.086
 - **Bauteile:** `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.048 |
+| Terrakotta | `terracotta` | 2.072 |
 | Seelaterne | `sea_lantern` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
 
@@ -1751,17 +1690,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.54 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 6/7 (Y 83–83)
+### Schritt 27.52 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 7/9 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.089
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 2.065
 - **Bauteile:** `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.076 |
+| Terrakotta | `terracotta` | 2.052 |
 | Seelaterne | `sea_lantern` | 13 |
 
 **Beschreibung**
@@ -1780,29 +1719,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.55 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 7/7 (Y 83–84)
+### Schritt 27.53 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 8/9 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 2.031
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 2.097
 - **Bauteile:** `r7752942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.011 |
+| Terrakotta | `terracotta` | 2.086 |
 | Seelaterne | `sea_lantern` | 11 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1820,203 +1748,55 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.56 – Haus w249686038 – Teil 1/4 (Y 63–107)
+### Schritt 27.54 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau – Teil 9/9 (Y 88–88) & Torre della Castagna
 
-- **Y-Bereich:** 63 bis 107
-- **Blöcke:** 1.927
-- **Bauteile:** `w249686038`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.702 |
-| Polierter Tuffstein | `polished_tuff` | 149 |
-| Tuffsteinziegel | `tuff_bricks` | 76 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 17 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.57 – Haus w249686038 – Teil 2/4 (Y 108–140)
-
-- **Y-Bereich:** 108 bis 140
-- **Blöcke:** 1.914
-- **Bauteile:** `w249686038`
+- **Y-Bereich:** 67 bis 102
+- **Blöcke:** 1.602
+- **Bauteile:** `r7752942_innen`, `w307545803`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.848 |
-| Tuffsteinziegel | `tuff_bricks` | 66 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 17 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.58 – Haus w249686038 – Teil 3/4 (Y 141–173)
-
-- **Y-Bereich:** 141 bis 173
-- **Blöcke:** 1.914
-- **Bauteile:** `w249686038`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.862 |
-| Tuffsteinziegel | `tuff_bricks` | 52 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 17 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.59 – Haus w249686038 – Teil 4/4 (Y 174–208)
-
-- **Y-Bereich:** 174 bis 208
-- **Blöcke:** 1.917
-- **Bauteile:** `w249686038`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.695 |
-| Terrakotta | `terracotta` | 169 |
-| Tuffsteinziegel | `tuff_bricks` | 45 |
-| Ziegelsteine | `bricks` | 8 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 17 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.60 – Haus w249686038: Innenausbau
-
-- **Y-Bereich:** 63 bis 195
-- **Blöcke:** 2.091
-- **Bauteile:** `w249686038_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.403 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 375 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 134 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 128 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 17 |
-| Seelaterne | `sea_lantern` | 17 |
+| Tuffstein | `tuff` | 813 |
+| Polierter Andesit | `polished_andesite` | 225 |
+| Terrakotta | `terracotta` | 213 |
+| Polierter Tuffstein | `polished_tuff` | 153 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
+| Tuffsteinziegel | `tuff_bricks` | 57 |
+| Fichtenholz-Bretter | `spruce_planks` | 41 |
+| Ziegelsteine | `bricks` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 296 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.61 – Torre della Castagna
+### Schritt 27.55 – Torre della Castagna: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
-- **Blöcke:** 1.593
-- **Bauteile:** `w307545803`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 810 |
-| Polierter Andesit | `polished_andesite` | 225 |
-| Terrakotta | `terracotta` | 213 |
-| Polierter Tuffstein | `polished_tuff` | 153 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Tuffsteinziegel | `tuff_bricks` | 60 |
-| Fichtenholz-Bretter | `spruce_planks` | 41 |
-| Ziegelsteine | `bricks` | 7 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.62 – Torre della Castagna: Innenausbau
-
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 438
 - **Bauteile:** `w307545803_innen`
 
@@ -2056,21 +1836,62 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.63 – Reihenhaus an Via della Condotta – Teil 1/3 (Y 63–69)
+### Schritt 27.56 – Reihenhaus an Via della Condotta – Teil 1/3 (Y 66–71)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.636
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.706
 - **Bauteile:** `w542316319`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.293 |
-| Weißer Beton | `white_concrete` | 311 |
-| Glatter Stein | `smooth_stone` | 12 |
-| Hellgrauer Beton | `light_gray_concrete` | 11 |
-| Graues Buntglas | `gray_stained_glass` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.286 |
+| Tuffstein | `tuff` | 197 |
+| Weißer Beton | `white_concrete` | 197 |
+| Glatter Stein | `smooth_stone` | 8 |
+| Hellgrauer Beton | `light_gray_concrete` | 7 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 6 |
+| Graues Buntglas | `gray_stained_glass` | 3 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.57 – Reihenhaus an Via della Condotta – Teil 2/3 (Y 72–97)
+
+- **Y-Bereich:** 72 bis 97
+- **Blöcke:** 1.702
+- **Bauteile:** `w542316319`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.474 |
+| Hellgrauer Beton | `light_gray_concrete` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
+| Fichtenholz-Bretter | `spruce_planks` | 27 |
+| Glatter Stein | `smooth_stone` | 6 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -2089,41 +1910,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.64 – Reihenhaus an Via della Condotta – Teil 2/3 (Y 70–93)
+### Schritt 27.58 – Reihenhaus an Via della Condotta – Teil 3/3 (Y 98–104)
 
-- **Y-Bereich:** 70 bis 93
-- **Blöcke:** 1.527
-- **Bauteile:** `w542316319`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.313 |
-| Hellgrauer Beton | `light_gray_concrete` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Fichtenholz-Bretter | `spruce_planks` | 27 |
-| Glatter Stein | `smooth_stone` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.65 – Reihenhaus an Via della Condotta – Teil 3/3 (Y 94–100)
-
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 98 bis 104
 - **Blöcke:** 1.783
 - **Bauteile:** `w542316319`
 
@@ -2150,9 +1939,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.66 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 27.59 – Reihenhaus an Via della Condotta: Innenausbau – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.286
 - **Bauteile:** `w542316319_innen`
 
@@ -2188,9 +1977,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.67 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 27.60 – Reihenhaus an Via della Condotta: Innenausbau – Teil 2/3 (Y 77–83)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.272
 - **Bauteile:** `w542316319_innen`
 
@@ -2228,9 +2017,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.68 – Reihenhaus an Via della Condotta: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 27.61 – Reihenhaus an Via della Condotta: Innenausbau – Teil 3/3 (Y 84–91)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.281
 - **Bauteile:** `w542316319_innen`
 
@@ -2240,13 +2029,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.220 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2270,24 +2057,32 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.69 – Palazzo des Cinquecento an Piazza San Firenze – Teil 1/4 (Y 63–69)
+### Schritt 27.62 – Palazzo des Cinquecento an Piazza San Firenze – Teil 1/4 (Y 64–69)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.740
+- **Y-Bereich:** 64 bis 69
+- **Blöcke:** 1.710
 - **Bauteile:** `w542316320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 815 |
-| Polierter Tuffstein | `polished_tuff` | 765 |
-| Weißer Beton | `white_concrete` | 68 |
-| Polierter Andesit | `polished_andesite` | 32 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Glatter Stein | `smooth_stone` | 19 |
-| Tuffsteinziegel | `tuff_bricks` | 11 |
-| Grüner Beton | `green_concrete` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 761 |
+| Endsteinziegel | `end_stone_bricks` | 574 |
+| Tuffstein | `tuff` | 287 |
+| Weißer Beton | `white_concrete` | 38 |
+| Polierter Andesit | `polished_andesite` | 18 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
+| Grüner Beton | `green_concrete` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -2305,55 +2100,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.70 – Palazzo des Cinquecento an Piazza San Firenze – Teil 2/4 (Y 70–79)
+### Schritt 27.63 – Palazzo des Cinquecento an Piazza San Firenze – Teil 2/4 (Y 70–80)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.661
+- **Y-Bereich:** 70 bis 80
+- **Blöcke:** 1.826
 - **Bauteile:** `w542316320`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.375 |
-| Weißer Beton | `white_concrete` | 137 |
-| Glatter Stein | `smooth_stone` | 68 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 29 |
-| Grüner Beton | `green_concrete` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.71 – Palazzo des Cinquecento an Piazza San Firenze – Teil 3/4 (Y 80–89)
-
-- **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.660
-- **Bauteile:** `w542316320`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.322 |
-| Weißer Beton | `white_concrete` | 213 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
-| Glatter Stein | `smooth_stone` | 41 |
-| Polierter Andesit | `polished_andesite` | 29 |
+| Endsteinziegel | `end_stone_bricks` | 1.494 |
+| Weißer Beton | `white_concrete` | 149 |
+| Glatter Stein | `smooth_stone` | 75 |
+| Graues Buntglas | `gray_stained_glass` | 51 |
+| Polierter Andesit | `polished_andesite` | 42 |
 | Grüner Beton | `green_concrete` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -2371,9 +2134,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.72 – Palazzo des Cinquecento an Piazza San Firenze – Teil 4/4 (Y 90–98)
+### Schritt 27.64 – Palazzo des Cinquecento an Piazza San Firenze – Teil 3/4 (Y 81–91)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 81 bis 91
+- **Blöcke:** 1.823
+- **Bauteile:** `w542316320`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.455 |
+| Weißer Beton | `white_concrete` | 231 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Glatter Stein | `smooth_stone` | 41 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Grüner Beton | `green_concrete` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 27.65 – Palazzo des Cinquecento an Piazza San Firenze – Teil 4/4 (Y 92–100)
+
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.764
 - **Bauteile:** `w542316320`
 
@@ -2405,9 +2201,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.73 – Palazzo des Cinquecento an Piazza San Firenze: Innenausbau
+### Schritt 27.66 – Palazzo des Cinquecento an Piazza San Firenze: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 65 bis 86
 - **Blöcke:** 1.301
 - **Bauteile:** `w542316320_innen`
 
@@ -2423,10 +2219,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2451,20 +2245,28 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.74 – Reihenhaus an Piazza San Firenze – Teil 1/4 (Y 63–65)
+### Schritt 27.67 – Reihenhaus an Piazza San Firenze – Teil 1/3 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.586
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.799
 - **Bauteile:** `w542316321`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.322 |
-| Endsteinziegel | `end_stone_bricks` | 228 |
+| Polierter Tuffstein | `polished_tuff` | 1.318 |
+| Tuffstein | `tuff` | 280 |
+| Endsteinziegel | `end_stone_bricks` | 161 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 | Glatter Stein | `smooth_stone` | 18 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -2482,19 +2284,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.75 – Reihenhaus an Piazza San Firenze – Teil 2/4 (Y 66–76)
+### Schritt 27.68 – Reihenhaus an Piazza San Firenze – Teil 2/3 (Y 68–88)
 
-- **Y-Bereich:** 66 bis 76
-- **Blöcke:** 1.491
+- **Y-Bereich:** 68 bis 88
+- **Blöcke:** 1.858
 - **Bauteile:** `w542316321`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.218 |
-| Weißer Beton | `white_concrete` | 122 |
-| Graues Buntglas | `gray_stained_glass` | 83 |
+| Endsteinziegel | `end_stone_bricks` | 1.361 |
+| Weißer Beton | `white_concrete` | 296 |
+| Graues Buntglas | `gray_stained_glass` | 133 |
 | Glatter Stein | `smooth_stone` | 63 |
 | Polierter Andesit | `polished_andesite` | 5 |
 
@@ -2514,39 +2316,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.76 – Reihenhaus an Piazza San Firenze – Teil 3/4 (Y 77–86)
+### Schritt 27.69 – Reihenhaus an Piazza San Firenze – Teil 3/3 (Y 89–96)
 
-- **Y-Bereich:** 77 bis 86
-- **Blöcke:** 1.375
-- **Bauteile:** `w542316321`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.151 |
-| Weißer Beton | `white_concrete` | 174 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.77 – Reihenhaus an Piazza San Firenze – Teil 4/4 (Y 87–94)
-
-- **Y-Bereich:** 87 bis 94
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.786
 - **Bauteile:** `w542316321`
 
@@ -2573,21 +2345,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.78 – Reihenhaus an Piazza San Firenze: Innenausbau – Teil 1/2 (Y 63–72)
+### Schritt 27.70 – Reihenhaus an Piazza San Firenze: Innenausbau – Teil 1/2 (Y 65–74)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.234
+- **Y-Bereich:** 65 bis 74
+- **Blöcke:** 1.282
 - **Bauteile:** `w542316321_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.172 |
+| Terrakotta | `terracotta` | 1.220 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
 | Seelaterne | `sea_lantern` | 14 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2611,17 +2385,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.79 – Reihenhaus an Piazza San Firenze: Innenausbau – Teil 2/2 (Y 73–80)
+### Schritt 27.71 – Reihenhaus an Piazza San Firenze: Innenausbau – Teil 2/2 (Y 75–82)
 
-- **Y-Bereich:** 73 bis 80
-- **Blöcke:** 1.231
+- **Y-Bereich:** 75 bis 82
+- **Blöcke:** 1.279
 - **Bauteile:** `w542316321_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.172 |
+| Terrakotta | `terracotta` | 1.220 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
@@ -2653,10 +2427,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.80 – Palazzo des Ottocento an Via del Proconsolo – Teil 1/8 (Y 63–63)
+### Schritt 27.72 – Palazzo des Ottocento an Via del Proconsolo – Teil 1/8 (Y 64–66)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.101
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 2.060
 - **Bauteile:** `w542316323`
 
 **Teileliste**
@@ -2664,6 +2438,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.101 |
+| Tuffstein | `tuff` | 939 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 20 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 **Beschreibung**
 
@@ -2681,22 +2463,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.81 – Palazzo des Ottocento an Via del Proconsolo – Teil 2/8 (Y 63–66)
+### Schritt 27.73 – Palazzo des Ottocento an Via del Proconsolo – Teil 2/8 (Y 66–67)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 2.028
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.403
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.137 |
-| Glatter Sandstein | `smooth_sandstone` | 720 |
-| Weißer Beton | `white_concrete` | 66 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Glatter Stein | `smooth_stone` | 30 |
-| Polierter Andesit | `polished_andesite` | 15 |
+| Polierter Tuffstein | `polished_tuff` | 1.092 |
+| Glatter Sandstein | `smooth_sandstone` | 253 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 22 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
+| Glatter Stein | `smooth_stone` | 10 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 22 |
 
 **Beschreibung**
 
@@ -2714,21 +2502,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.82 – Palazzo des Ottocento an Via del Proconsolo – Teil 3/8 (Y 67–72)
+### Schritt 27.74 – Palazzo des Ottocento an Via del Proconsolo – Teil 3/8 (Y 68–74)
 
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.765
+- **Y-Bereich:** 68 bis 74
+- **Blöcke:** 1.758
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.103 |
-| Graues Buntglas | `gray_stained_glass` | 299 |
+| Glatter Sandstein | `smooth_sandstone` | 1.064 |
+| Graues Buntglas | `gray_stained_glass` | 326 |
 | Weißer Beton | `white_concrete` | 231 |
-| Glatter Stein | `smooth_stone` | 72 |
-| Polierter Andesit | `polished_andesite` | 60 |
+| Glatter Stein | `smooth_stone` | 74 |
+| Polierter Andesit | `polished_andesite` | 63 |
 
 **Beschreibung**
 
@@ -2746,20 +2534,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.83 – Palazzo des Ottocento an Via del Proconsolo – Teil 4/8 (Y 73–78)
+### Schritt 27.75 – Palazzo des Ottocento an Via del Proconsolo – Teil 4/8 (Y 75–80)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.948
+- **Y-Bereich:** 75 bis 80
+- **Blöcke:** 1.748
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.464 |
-| Weißer Beton | `white_concrete` | 190 |
-| Glatter Stein | `smooth_stone` | 173 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
+| Glatter Sandstein | `smooth_sandstone` | 1.265 |
+| Weißer Beton | `white_concrete` | 209 |
+| Glatter Stein | `smooth_stone` | 190 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
 | Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
@@ -2778,21 +2566,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.84 – Palazzo des Ottocento an Via del Proconsolo – Teil 5/8 (Y 79–84)
+### Schritt 27.76 – Palazzo des Ottocento an Via del Proconsolo – Teil 5/8 (Y 81–87)
 
-- **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.948
+- **Y-Bereich:** 81 bis 87
+- **Blöcke:** 1.969
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.337 |
-| Weißer Beton | `white_concrete` | 426 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-| Glatter Stein | `smooth_stone` | 62 |
-| Polierter Andesit | `polished_andesite` | 23 |
+| Glatter Sandstein | `smooth_sandstone` | 1.256 |
+| Weißer Beton | `white_concrete` | 473 |
+| Graues Buntglas | `gray_stained_glass` | 150 |
+| Glatter Stein | `smooth_stone` | 61 |
+| Polierter Andesit | `polished_andesite` | 29 |
 
 **Beschreibung**
 
@@ -2810,17 +2598,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.85 – Palazzo des Ottocento an Via del Proconsolo – Teil 6/8 (Y 85–90)
+### Schritt 27.77 – Palazzo des Ottocento an Via del Proconsolo – Teil 6/8 (Y 88–93)
 
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.810
+- **Y-Bereich:** 88 bis 93
+- **Blöcke:** 1.576
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.202 |
+| Glatter Sandstein | `smooth_sandstone` | 968 |
 | Weißer Beton | `white_concrete` | 331 |
 | Graues Buntglas | `gray_stained_glass` | 250 |
 | Polierter Andesit | `polished_andesite` | 27 |
@@ -2841,18 +2629,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.86 – Palazzo des Ottocento an Via del Proconsolo – Teil 7/8 (Y 91–93)
+### Schritt 27.78 – Palazzo des Ottocento an Via del Proconsolo – Teil 7/8 (Y 94–96)
 
-- **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.895
+- **Y-Bereich:** 94 bis 96
+- **Blöcke:** 1.825
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 977 |
-| Glatter Sandstein | `smooth_sandstone` | 674 |
+| Polierter Tuffstein | `polished_tuff` | 1.007 |
+| Glatter Sandstein | `smooth_sandstone` | 574 |
 | Weißer Beton | `white_concrete` | 236 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
@@ -2872,18 +2660,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.87 – Palazzo des Ottocento an Via del Proconsolo – Teil 8/8 (Y 93–95)
+### Schritt 27.79 – Palazzo des Ottocento an Via del Proconsolo – Teil 8/8 (Y 96–98)
 
-- **Y-Bereich:** 93 bis 95
-- **Blöcke:** 1.875
+- **Y-Bereich:** 96 bis 98
+- **Blöcke:** 1.800
 - **Bauteile:** `w542316323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 949 |
-| Polierter Tuffstein | `polished_tuff` | 923 |
+| Polierter Tuffstein | `polished_tuff` | 932 |
+| Glatter Sandstein | `smooth_sandstone` | 865 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -2902,19 +2690,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.88 – Palazzo des Ottocento an Via del Proconsolo: Innenausbau – Teil 1/2 (Y 63–77)
+### Schritt 27.80 – Palazzo des Ottocento an Via del Proconsolo: Innenausbau – Teil 1/2 (Y 66–80)
 
-- **Y-Bereich:** 63 bis 77
-- **Blöcke:** 1.987
+- **Y-Bereich:** 66 bis 80
+- **Blöcke:** 2.027
 - **Bauteile:** `w542316323_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.890 |
+| Terrakotta | `terracotta` | 1.928 |
 | Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 20 |
+| Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 |
@@ -2948,21 +2736,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.89 – Palazzo des Ottocento an Via del Proconsolo: Innenausbau – Teil 2/2 (Y 78–93)
+### Schritt 27.81 – Palazzo des Ottocento an Via del Proconsolo: Innenausbau – Teil 2/2 (Y 81–96)
 
-- **Y-Bereich:** 78 bis 93
-- **Blöcke:** 1.985
+- **Y-Bereich:** 81 bis 96
+- **Blöcke:** 2.024
 - **Bauteile:** `w542316323_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.890 |
+| Terrakotta | `terracotta` | 1.928 |
 | Glatter Stein | `smooth_stone` | 44 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Seelaterne | `sea_lantern` | 10 |
+| Seelaterne | `sea_lantern` | 11 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -2992,20 +2780,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.90 – Reihenhaus an Via della Condotta – Teil 1/2 (Y 63–81)
+### Schritt 27.82 – Reihenhaus an Via della Condotta – Teil 1/2 (Y 65–82)
 
-- **Y-Bereich:** 63 bis 81
-- **Blöcke:** 1.511
+- **Y-Bereich:** 65 bis 82
+- **Blöcke:** 1.536
 - **Bauteile:** `w542316328`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 629 |
 | Polierter Tuffstein | `polished_tuff` | 607 |
-| Glatter Sandstein | `smooth_sandstone` | 584 |
-| Glatter Stein | `smooth_stone` | 188 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Glatter Stein | `smooth_stone` | 180 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
 
 **Beschreibung**
 
@@ -3023,10 +2811,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.91 – Reihenhaus an Via della Condotta – Teil 2/2 (Y 82–99)
+### Schritt 27.83 – Reihenhaus an Via della Condotta – Teil 2/2 (Y 83–101)
 
-- **Y-Bereich:** 82 bis 99
-- **Blöcke:** 1.531
+- **Y-Bereich:** 83 bis 101
+- **Blöcke:** 1.579
 - **Bauteile:** `w542316328`
 
 **Teileliste**
@@ -3034,9 +2822,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 809 |
-| Glatter Sandstein | `smooth_sandstone` | 416 |
-| Glatter Stein | `smooth_stone` | 126 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
+| Glatter Sandstein | `smooth_sandstone` | 444 |
+| Glatter Stein | `smooth_stone` | 134 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
 | Fichtenholz-Bretter | `spruce_planks` | 50 |
 | Ziegelsteine | `bricks` | 46 |
 
@@ -3056,9 +2844,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.92 – Reihenhaus an Via della Condotta: Innenausbau
+### Schritt 27.84 – Reihenhaus an Via della Condotta: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.788
 - **Bauteile:** `w542316328_innen`
 
@@ -3068,13 +2856,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.629 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3098,9 +2884,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.93 – Palazzo des Cinquecento an Via dei Magazzini – Teil 1/3 (Y 63–72)
+### Schritt 27.85 – Palazzo des Cinquecento an Via dei Magazzini – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.812
 - **Bauteile:** `w542316331`
 
@@ -3133,9 +2919,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.94 – Palazzo des Cinquecento an Via dei Magazzini – Teil 2/3 (Y 73–88)
+### Schritt 27.86 – Palazzo des Cinquecento an Via dei Magazzini – Teil 2/3 (Y 77–92)
 
-- **Y-Bereich:** 73 bis 88
+- **Y-Bereich:** 77 bis 92
 - **Blöcke:** 1.895
 - **Bauteile:** `w542316331`
 
@@ -3167,9 +2953,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.95 – Palazzo des Cinquecento an Via dei Magazzini – Teil 3/3 (Y 89–99)
+### Schritt 27.87 – Palazzo des Cinquecento an Via dei Magazzini – Teil 3/3 (Y 93–103)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 93 bis 103
 - **Blöcke:** 1.830
 - **Bauteile:** `w542316331`
 
@@ -3201,11 +2987,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.96 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau
+### Schritt 27.88 – Palazzo des Cinquecento an Via dei Magazzini: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.410
-- **Bauteile:** `w542316331_innen`
+- **Y-Bereich:** 67 bis 88
+- **Blöcke:** 1.418
+- **Bauteile:** `w542316331_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -3216,11 +3002,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Seelaterne | `sea_lantern` | 15 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -3233,16 +3021,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

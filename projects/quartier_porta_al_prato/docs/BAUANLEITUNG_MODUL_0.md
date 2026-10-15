@@ -8,25 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.700 |
+| Blöcke | 2.704 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 53 bis 89 |
 | X-Ausdehnung | -3071 bis -3057 (15 Blöcke) |
 | Z-Ausdehnung | -1355 bis -1337 (19 Blöcke) |
 | Kleinster Schritt | 1.332 Blöcke (Schritt 0.2) |
-| Mittlerer Schritt | 1.350 Blöcke |
-| Größter Schritt | 1.368 Blöcke (Schritt 0.1) |
+| Mittlerer Schritt | 1.352 Blöcke |
+| Größter Schritt | 1.372 Blöcke (Schritt 0.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 2.159 | 80,0 % |
+| Weißer Beton | `white_concrete` | 2.159 | 79,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 216 | 8,0 % |
 | Terrakotta | `terracotta` | 143 | 5,3 % |
 | Polierter Tuffstein | `polished_tuff` | 107 | 4,0 % |
 | Graues Buntglas | `gray_stained_glass` | 48 | 1,8 % |
 | Glatter Stein | `smooth_stone` | 18 | 0,7 % |
+| Tuffstein | `tuff` | 4 | 0,1 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Polierter Andesit | `polished_andesite` | 2 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w595010847` | Nebengebäude an Largo Porta Leopolda | 2.696 | 0.1–0.2 |
+| 1 | `w595010847` | Nebengebäude an Largo Porta Leopolda | 2.700 | 0.1–0.2 |
 | 2 | `w595010847_innen` | Nebengebäude an Largo Porta Leopolda: Innenausbau | 4 | 0.2 |
 
 ## Bauschritte
 
-### Schritt 0.1 – Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 63–79)
+### Schritt 0.1 – Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 53–70)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.368
+- **Y-Bereich:** 53 bis 70
+- **Blöcke:** 1.372
 - **Bauteile:** `w595010847`
 
 **Teileliste**
@@ -64,6 +65,7 @@
 | Polierter Tuffstein | `polished_tuff` | 107 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
 | Glatter Stein | `smooth_stone` | 18 |
+| Tuffstein | `tuff` | 4 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -82,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Nebengebäude an Largo Porta Leopolda – Teil 2/2 (Y 80–98) & Nebengebäude an Largo Porta Leopolda: Innenausbau
+### Schritt 0.2 – Nebengebäude an Largo Porta Leopolda – Teil 2/2 (Y 71–89) & Nebengebäude an Largo Porta Leopolda: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 54 bis 89
 - **Blöcke:** 1.332
 - **Bauteile:** `w595010847`, `w595010847_innen`
 

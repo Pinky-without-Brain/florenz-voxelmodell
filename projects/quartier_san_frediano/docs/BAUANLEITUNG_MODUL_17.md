@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 960 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 60 bis 91 |
 | X-Ausdehnung | -2232 bis -2225 (8 Blöcke) |
 | Z-Ausdehnung | 1190 bis 1196 (7 Blöcke) |
 | Kleinster Schritt | 960 Blöcke (Schritt 17.1) |
@@ -36,7 +36,7 @@
 
 ### Schritt 17.1 – Haus w481443738
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 60 bis 91
 - **Blöcke:** 960
 - **Bauteile:** `w481443738`
 

@@ -1,0 +1,22 @@
+{
+  "module": 8,
+  "title": "Ausstattung und Licht",
+  "subtitle": "Bautüte 8: Hochaltar und Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "hochaltar": {
+      "title": "Hochaltar",
+      "description": "Unter der Kuppel steht der Hochaltar als Ciborium aus Marmor mit goldenem Aufsatz bis Y 76.",
+      "tip": "Er steht genau in der Vierungsmitte.",
+      "caution": "Rundherum bleibt der Umgang frei.",
+      "fact": "Der barocke Hochaltar von Giovanni Caccini entstand ab 1599."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "Im Boden setzt du Seelaternen im Raster von 12 Blöcken.",
+      "tip": "Ersetze dazu den Bodenblock.",
+      "caution": "Nicht unter Säulen setzen.",
+      "fact": "So bleibt der ganze Innenraum hell."
+    }
+  }
+}

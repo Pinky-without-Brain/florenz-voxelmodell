@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 94.425 |
+| Blöcke | 94.448 |
 | Bauschritte | 60 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 62 bis 103 |
 | X-Ausdehnung | 288 bis 496 (209 Blöcke) |
 | Z-Ausdehnung | 693 bis 758 (66 Blöcke) |
 | Kleinster Schritt | 1.028 Blöcke (Schritt 4.46) |
@@ -24,7 +24,7 @@
 | Terrakotta | `terracotta` | 37.136 | 39,3 % |
 | Weißer Beton | `white_concrete` | 13.244 | 14,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 10.303 | 10,9 % |
-| Polierter Tuffstein | `polished_tuff` | 9.739 | 10,3 % |
+| Polierter Tuffstein | `polished_tuff` | 9.735 | 10,3 % |
 | Endsteinziegel | `end_stone_bricks` | 6.398 | 6,8 % |
 | Rosa Keramik | `pink_terracotta` | 4.385 | 4,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.314 | 2,5 % |
@@ -44,12 +44,19 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 112 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 90 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 90 | 0,1 % |
+| Tuffstein | `tuff` | 15 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 540 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -57,11 +64,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7224702` | Reihenhaus an Via delle Burella | 19.243 | 4.1–4.13 |
 | 2 | `r7224702_innen` | Reihenhaus an Via delle Burella: Innenausbau | 7.133 | 4.14–4.19 |
-| 3 | `r7224703` | Reihenhaus an Via dell'Acqua | 7.561 | 4.20–4.23 |
+| 3 | `r7224703` | Reihenhaus an Via dell'Acqua | 7.568 | 4.20–4.23 |
 | 4 | `r7224703_innen` | Reihenhaus an Via dell'Acqua: Innenausbau | 1.951 | 4.24 |
 | 5 | `w114689027` | Reihenhaus an Via delle Burella | 10.472 | 4.25–4.30 |
 | 6 | `w114689027_innen` | Reihenhaus an Via delle Burella: Innenausbau | 3.977 | 4.31–4.33 |
-| 7 | `w361442656` | Reihenhaus an Via delle Burella | 4.167 | 4.34–4.36 |
+| 7 | `w361442656` | Reihenhaus an Via delle Burella | 4.173 | 4.34–4.36 |
 | 8 | `w361442656_innen` | Reihenhaus an Via delle Burella: Innenausbau | 1.653 | 4.37 |
 | 9 | `w491891366` | Reihenhaus an Via delle Burella | 4.834 | 4.38–4.40 |
 | 10 | `w491891366_innen` | Reihenhaus an Via delle Burella: Innenausbau | 1.926 | 4.41 |
@@ -75,6 +82,7 @@
 | 18 | `w491891387_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 1.545 | 4.58 |
 | 19 | `w491891394` | Reihenhaus an Via delle Burella | 2.030 | 4.59 |
 | 20 | `w491891394_innen` | Reihenhaus an Via delle Burella: Innenausbau | 1.178 | 4.60 |
+| 21 | `strassenschilder` | Straßenschilder | 10 | 4.60 |
 
 ## Bauschritte
 
@@ -692,10 +700,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.20 – Reihenhaus an Via dell'Acqua – Teil 1/4 (Y 63–69)
+### Schritt 4.20 – Reihenhaus an Via dell'Acqua – Teil 1/4 (Y 62–69)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.833
+- **Y-Bereich:** 62 bis 69
+- **Blöcke:** 1.840
 - **Bauteile:** `r7224703`
 
 **Teileliste**
@@ -703,9 +711,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 836 |
-| Polierter Tuffstein | `polished_tuff` | 800 |
+| Polierter Tuffstein | `polished_tuff` | 796 |
 | Polierter Andesit | `polished_andesite` | 102 |
 | Graues Buntglas | `gray_stained_glass` | 95 |
+| Tuffstein | `tuff` | 9 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1160,21 +1176,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.34 – Reihenhaus an Via delle Burella – Teil 1/3 (Y 63–73)
+### Schritt 4.34 – Reihenhaus an Via delle Burella – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.435
+- **Y-Bereich:** 62 bis 72
+- **Blöcke:** 1.345
 - **Bauteile:** `w361442656`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 687 |
 | Polierter Tuffstein | `polished_tuff` | 602 |
+| Glatter Sandstein | `smooth_sandstone` | 591 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Glatter Stein | `smooth_stone` | 59 |
 | Grüner Beton | `green_concrete` | 18 |
+| Tuffstein | `tuff` | 6 |
 
 **Beschreibung**
 
@@ -1192,17 +1209,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.35 – Reihenhaus an Via delle Burella – Teil 2/3 (Y 74–88)
+### Schritt 4.35 – Reihenhaus an Via delle Burella – Teil 2/3 (Y 73–88)
 
-- **Y-Bereich:** 74 bis 88
-- **Blöcke:** 1.350
+- **Y-Bereich:** 73 bis 88
+- **Blöcke:** 1.446
 - **Bauteile:** `w361442656`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.180 |
+| Glatter Sandstein | `smooth_sandstone` | 1.276 |
 | Graues Buntglas | `gray_stained_glass` | 98 |
 | Grüner Beton | `green_concrete` | 72 |
 
@@ -2054,11 +2071,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.60 – Reihenhaus an Via delle Burella: Innenausbau
+### Schritt 4.60 – Reihenhaus an Via delle Burella: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.178
-- **Bauteile:** `w491891394_innen`
+- **Blöcke:** 1.188
+- **Bauteile:** `w491891394_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -2071,8 +2088,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2082,16 +2103,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

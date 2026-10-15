@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 638 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 77 |
+| Y-Bereich | 55 bis 69 |
 | X-Ausdehnung | -2436 bis -2427 (10 Blöcke) |
 | Z-Ausdehnung | 720 bis 728 (9 Blöcke) |
 | Kleinster Schritt | 638 Blöcke (Schritt 7.1) |
@@ -38,7 +38,7 @@
 
 ### Schritt 7.1 – Il trippaio di San Frediano & Il trippaio di San Frediano: Innenausbau
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 55 bis 69
 - **Blöcke:** 638
 - **Bauteile:** `w1198800403`, `w1198800403_innen`
 

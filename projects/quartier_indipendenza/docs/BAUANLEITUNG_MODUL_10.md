@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 683 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 64 bis 95 |
 | X-Ausdehnung | -538 bis -531 (8 Blöcke) |
 | Z-Ausdehnung | -1342 bis -1334 (9 Blöcke) |
 | Kleinster Schritt | 683 Blöcke (Schritt 10.1) |
@@ -36,7 +36,7 @@
 
 ### Schritt 10.1 – Nebengebäude an Piazza dell'Indipendenza
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 64 bis 95
 - **Blöcke:** 683
 - **Bauteile:** `w1192826626`
 

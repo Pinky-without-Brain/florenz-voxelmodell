@@ -1,0 +1,36 @@
+{
+  "module": 7,
+  "title": "Campanile",
+  "subtitle": "Bautüte 7: der Glockenturm von Baccio d'Agnolo",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Turm steht neben der Sakristei; seine Wände aus Poliertem Andesit und Steinziegeln reichen bis Y 175. Eine Tür führt aus dem Sakristeivorraum hinein.",
+      "tip": "Weiße Gurte alle 28 Lagen.",
+      "caution": "Lass die Tür frei.",
+      "fact": "Baccio d'Agnolo begann den Turm 1503; fertig wurde er 1570."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Steinstufen bis zur Glockenstube auf Y 176.",
+      "tip": "Je Seite drei Stufen, in den Ecken Podeste.",
+      "caution": "Über der Treppe bleiben drei Blöcke frei.",
+      "fact": "Der Turm ist 70 Meter hoch."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Von Y 176 bis 189 öffnet sich die Glockenstube mit Bogenöffnungen auf jeder Seite; Boden aus Holz.",
+      "tip": "Die Öffnungen liegen in der Seitenmitte.",
+      "caution": "Sie bleiben offen.",
+      "fact": "Der Turm gilt als einer der schönsten der Stadt."
+    },
+    "turmspitze": {
+      "title": "Turmspitze",
+      "description": "Darüber wächst eine Spitze aus Ziegeln bis Y 202.",
+      "tip": "Sie wird alle zwei Lagen schmaler.",
+      "caution": "Innen hohl und unzugänglich.",
+      "fact": "Von der Piazza aus sieht man den Turm über den Dächern des Oltrarno."
+    }
+  }
+}

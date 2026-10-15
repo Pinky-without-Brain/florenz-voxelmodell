@@ -8,31 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.668 |
-| Bauschritte | 25 |
-| Y-Bereich | 63 bis 99 |
+| Blöcke | 58.905 |
+| Bauschritte | 38 |
+| Y-Bereich | 113 bis 165 |
 | X-Ausdehnung | -1035 bis -884 (152 Blöcke) |
 | Z-Ausdehnung | 1985 bis 2125 (141 Blöcke) |
-| Kleinster Schritt | 884 Blöcke (Schritt 5.11) |
-| Mittlerer Schritt | 1.547 Blöcke |
-| Größter Schritt | 2.025 Blöcke (Schritt 5.19) |
+| Kleinster Schritt | 884 Blöcke (Schritt 5.23) |
+| Mittlerer Schritt | 1.550 Blöcke |
+| Größter Schritt | 2.070 Blöcke (Schritt 5.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 21.304 | 55,1 % |
-| Terrakotta | `terracotta` | 7.370 | 19,1 % |
-| Glatter Stein | `smooth_stone` | 4.358 | 11,3 % |
-| Polierter Tuffstein | `polished_tuff` | 2.660 | 6,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.198 | 3,1 % |
-| Fichtenholz-Bretter | `spruce_planks` | 827 | 2,1 % |
-| Polierter Andesit | `polished_andesite` | 498 | 1,3 % |
-| Ziegelsteine | `bricks` | 181 | 0,5 % |
-| Grüner Beton | `green_concrete` | 165 | 0,4 % |
+| Endsteinziegel | `end_stone_bricks` | 21.304 | 36,2 % |
+| Tuffstein | `tuff` | 20.237 | 34,4 % |
+| Terrakotta | `terracotta` | 7.370 | 12,5 % |
+| Glatter Stein | `smooth_stone` | 4.358 | 7,4 % |
+| Polierter Tuffstein | `polished_tuff` | 2.660 | 4,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.198 | 2,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 827 | 1,4 % |
+| Polierter Andesit | `polished_andesite` | 498 | 0,8 % |
+| Ziegelsteine | `bricks` | 181 | 0,3 % |
+| Grüner Beton | `green_concrete` | 165 | 0,3 % |
 | Seelaterne | `sea_lantern` | 36 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 10 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
@@ -51,14 +52,406 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w1559153730` | Haus w1559153730 | 35.091 | 5.1–5.23 |
-| 2 | `w1559153730_innen` | Haus w1559153730: Innenausbau | 3.577 | 5.24–5.25 |
+| 1 | `w1559153730` | Haus w1559153730 | 55.328 | 5.1–5.36 |
+| 2 | `w1559153730_innen` | Haus w1559153730: Innenausbau | 3.577 | 5.37–5.38 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Haus w1559153730 – Teil 1/23 (Y 63–63)
+### Schritt 5.1 – Haus w1559153730 – Teil 1/36 (Y 113–117)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 113 bis 117
+- **Blöcke:** 1.823
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.823 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.2 – Haus w1559153730 – Teil 2/36 (Y 118–119)
+
+- **Y-Bereich:** 118 bis 119
+- **Blöcke:** 1.673
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.673 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.3 – Haus w1559153730 – Teil 3/36 (Y 120–120)
+
+- **Y-Bereich:** 120 bis 120
+- **Blöcke:** 1.077
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.077 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.4 – Haus w1559153730 – Teil 4/36 (Y 121–121)
+
+- **Y-Bereich:** 121 bis 121
+- **Blöcke:** 1.290
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.290 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.5 – Haus w1559153730 – Teil 5/36 (Y 122–122)
+
+- **Y-Bereich:** 122 bis 122
+- **Blöcke:** 1.504
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.504 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.6 – Haus w1559153730 – Teil 6/36 (Y 123–123)
+
+- **Y-Bereich:** 123 bis 123
+- **Blöcke:** 1.715
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.715 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.7 – Haus w1559153730 – Teil 7/36 (Y 124–124)
+
+- **Y-Bereich:** 124 bis 124
+- **Blöcke:** 1.897
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.897 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.8 – Haus w1559153730 – Teil 8/36 (Y 125–125)
+
+- **Y-Bereich:** 125 bis 125
+- **Blöcke:** 2.070
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.070 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.9 – Haus w1559153730 – Teil 9/36 (Y 126–126)
+
+- **Y-Bereich:** 126 bis 126
+- **Blöcke:** 1.126
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.126 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.10 – Haus w1559153730 – Teil 10/36 (Y 126–126)
+
+- **Y-Bereich:** 126 bis 126
+- **Blöcke:** 1.109
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.109 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.11 – Haus w1559153730 – Teil 11/36 (Y 127–127)
+
+- **Y-Bereich:** 127 bis 127
+- **Blöcke:** 1.200
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.200 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.12 – Haus w1559153730 – Teil 12/36 (Y 127–127)
+
+- **Y-Bereich:** 127 bis 127
+- **Blöcke:** 1.200
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.200 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.13 – Haus w1559153730 – Teil 13/36 (Y 128–128)
+
+- **Y-Bereich:** 128 bis 128
+- **Blöcke:** 1.275
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.275 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.14 – Haus w1559153730 – Teil 14/36 (Y 128–128)
+
+- **Y-Bereich:** 128 bis 128
+- **Blöcke:** 1.278
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.278 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.15 – Haus w1559153730 – Teil 15/36 (Y 129–129)
+
+- **Y-Bereich:** 129 bis 129
 - **Blöcke:** 1.319
 - **Bauteile:** `w1559153730`
 
@@ -84,9 +477,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Haus w1559153730 – Teil 2/23 (Y 63–63)
+### Schritt 5.16 – Haus w1559153730 – Teil 16/36 (Y 129–129)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 129 bis 129
 - **Blöcke:** 1.341
 - **Bauteile:** `w1559153730`
 
@@ -112,9 +505,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Haus w1559153730 – Teil 3/23 (Y 64–65)
+### Schritt 5.17 – Haus w1559153730 – Teil 17/36 (Y 130–131)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 130 bis 131
 - **Blöcke:** 1.862
 - **Bauteile:** `w1559153730`
 
@@ -143,9 +536,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Haus w1559153730 – Teil 4/23 (Y 66–67)
+### Schritt 5.18 – Haus w1559153730 – Teil 18/36 (Y 132–133)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 132 bis 133
 - **Blöcke:** 1.863
 - **Bauteile:** `w1559153730`
 
@@ -176,41 +569,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Haus w1559153730 – Teil 5/23 (Y 68–68)
+### Schritt 5.19 – Haus w1559153730 – Teil 19/36 (Y 134–135)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 886
-- **Bauteile:** `w1559153730`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 648 |
-| Glatter Stein | `smooth_stone` | 121 |
-| Graues Buntglas | `gray_stained_glass` | 83 |
-| Polierter Andesit | `polished_andesite` | 23 |
-| Grüner Beton | `green_concrete` | 11 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.6 – Haus w1559153730 – Teil 6/23 (Y 69–70)
-
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 134 bis 135
 - **Blöcke:** 1.786
 - **Bauteile:** `w1559153730`
 
@@ -218,9 +579,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.319 |
-| Glatter Stein | `smooth_stone` | 228 |
-| Polierter Andesit | `polished_andesite` | 114 |
+| Endsteinziegel | `end_stone_bricks` | 1.310 |
+| Glatter Stein | `smooth_stone` | 235 |
+| Polierter Andesit | `polished_andesite` | 116 |
 | Graues Buntglas | `gray_stained_glass` | 97 |
 | Grüner Beton | `green_concrete` | 22 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
@@ -241,9 +602,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Haus w1559153730 – Teil 7/23 (Y 71–72)
+### Schritt 5.20 – Haus w1559153730 – Teil 20/36 (Y 136–137)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 136 bis 137
+- **Blöcke:** 1.824
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.391 |
+| Glatter Stein | `smooth_stone` | 311 |
+| Graues Buntglas | `gray_stained_glass` | 83 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Grüner Beton | `green_concrete` | 11 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.21 – Haus w1559153730 – Teil 21/36 (Y 138–139)
+
+- **Y-Bereich:** 138 bis 139
 - **Blöcke:** 1.876
 - **Bauteile:** `w1559153730`
 
@@ -251,38 +644,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.651 |
-| Glatter Stein | `smooth_stone` | 197 |
-| Polierter Andesit | `polished_andesite` | 28 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.8 – Haus w1559153730 – Teil 8/23 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 938
-- **Bauteile:** `w1559153730`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.283 |
 | Glatter Stein | `smooth_stone` | 572 |
-| Endsteinziegel | `end_stone_bricks` | 366 |
+| Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
 
@@ -300,9 +664,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Haus w1559153730 – Teil 9/23 (Y 74–75)
+### Schritt 5.22 – Haus w1559153730 – Teil 22/36 (Y 140–141)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 140 bis 141
 - **Blöcke:** 1.928
 - **Bauteile:** `w1559153730`
 
@@ -330,41 +694,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.10 – Haus w1559153730 – Teil 10/23 (Y 76–77)
+### Schritt 5.23 – Haus w1559153730 – Teil 23/36 (Y 142–142)
 
-- **Y-Bereich:** 76 bis 77
-- **Blöcke:** 1.768
-- **Bauteile:** `w1559153730`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.308 |
-| Glatter Stein | `smooth_stone` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 170 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Grüner Beton | `green_concrete` | 22 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.11 – Haus w1559153730 – Teil 11/23 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 142 bis 142
 - **Blöcke:** 884
 - **Bauteile:** `w1559153730`
 
@@ -394,9 +726,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Haus w1559153730 – Teil 12/23 (Y 79–80)
+### Schritt 5.24 – Haus w1559153730 – Teil 24/36 (Y 143–144)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 143 bis 144
 - **Blöcke:** 1.768
 - **Bauteile:** `w1559153730`
 
@@ -426,9 +758,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Haus w1559153730 – Teil 13/23 (Y 81–82)
+### Schritt 5.25 – Haus w1559153730 – Teil 25/36 (Y 145–146)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 145 bis 146
+- **Blöcke:** 1.768
+- **Bauteile:** `w1559153730`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.308 |
+| Glatter Stein | `smooth_stone` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 170 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Grüner Beton | `green_concrete` | 22 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.26 – Haus w1559153730 – Teil 26/36 (Y 147–148)
+
+- **Y-Bereich:** 147 bis 148
 - **Blöcke:** 1.822
 - **Bauteile:** `w1559153730`
 
@@ -458,9 +822,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.14 – Haus w1559153730 – Teil 14/23 (Y 83–83)
+### Schritt 5.27 – Haus w1559153730 – Teil 27/36 (Y 149–149)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 149 bis 149
 - **Blöcke:** 938
 - **Bauteile:** `w1559153730`
 
@@ -487,9 +851,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Haus w1559153730 – Teil 15/23 (Y 84–85)
+### Schritt 5.28 – Haus w1559153730 – Teil 28/36 (Y 150–151)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 150 bis 151
 - **Blöcke:** 1.928
 - **Bauteile:** `w1559153730`
 
@@ -517,9 +881,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Haus w1559153730 – Teil 16/23 (Y 86–87)
+### Schritt 5.29 – Haus w1559153730 – Teil 29/36 (Y 152–153)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 152 bis 153
 - **Blöcke:** 1.768
 - **Bauteile:** `w1559153730`
 
@@ -549,9 +913,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.17 – Haus w1559153730 – Teil 17/23 (Y 88–88)
+### Schritt 5.30 – Haus w1559153730 – Teil 30/36 (Y 154–154)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 154 bis 154
 - **Blöcke:** 884
 - **Bauteile:** `w1559153730`
 
@@ -581,9 +945,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.18 – Haus w1559153730 – Teil 18/23 (Y 89–90)
+### Schritt 5.31 – Haus w1559153730 – Teil 31/36 (Y 155–156)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 155 bis 156
 - **Blöcke:** 1.768
 - **Bauteile:** `w1559153730`
 
@@ -613,9 +977,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.19 – Haus w1559153730 – Teil 19/23 (Y 91–92)
+### Schritt 5.32 – Haus w1559153730 – Teil 32/36 (Y 157–158)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 157 bis 158
 - **Blöcke:** 2.025
 - **Bauteile:** `w1559153730`
 
@@ -644,9 +1008,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.20 – Haus w1559153730 – Teil 20/23 (Y 93–93)
+### Schritt 5.33 – Haus w1559153730 – Teil 33/36 (Y 159–159)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 159 bis 159
 - **Blöcke:** 1.616
 - **Bauteile:** `w1559153730`
 
@@ -674,9 +1038,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.21 – Haus w1559153730 – Teil 21/23 (Y 94–94)
+### Schritt 5.34 – Haus w1559153730 – Teil 34/36 (Y 160–160)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 160 bis 160
 - **Blöcke:** 1.256
 - **Bauteile:** `w1559153730`
 
@@ -702,9 +1066,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.22 – Haus w1559153730 – Teil 22/23 (Y 94–94)
+### Schritt 5.35 – Haus w1559153730 – Teil 35/36 (Y 160–160)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 160 bis 160
 - **Blöcke:** 1.256
 - **Bauteile:** `w1559153730`
 
@@ -730,9 +1094,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.23 – Haus w1559153730 – Teil 23/23 (Y 95–99)
+### Schritt 5.36 – Haus w1559153730 – Teil 36/36 (Y 161–165)
 
-- **Y-Bereich:** 95 bis 99
+- **Y-Bereich:** 161 bis 165
 - **Blöcke:** 1.611
 - **Bauteile:** `w1559153730`
 
@@ -759,9 +1123,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.24 – Haus w1559153730: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 5.37 – Haus w1559153730: Innenausbau – Teil 1/2 (Y 129–139)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 129 bis 139
 - **Blöcke:** 1.787
 - **Bauteile:** `w1559153730_innen`
 
@@ -801,9 +1165,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.25 – Haus w1559153730: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 5.38 – Haus w1559153730: Innenausbau – Teil 2/2 (Y 140–150)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 140 bis 150
 - **Blöcke:** 1.790
 - **Bauteile:** `w1559153730_innen`
 

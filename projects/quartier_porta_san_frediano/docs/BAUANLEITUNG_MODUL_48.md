@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 21.347 |
 | Bauschritte | 13 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 56 bis 93 |
 | X-Ausdehnung | -2573 bis -2489 (85 Blöcke) |
 | Z-Ausdehnung | 520 bis 573 (54 Blöcke) |
 | Kleinster Schritt | 1.164 Blöcke (Schritt 48.10) |
@@ -54,9 +54,9 @@
 
 ## Bauschritte
 
-### Schritt 48.1 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 1/11 (Y 63–63)
+### Schritt 48.1 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 1/11 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.966
 - **Bauteile:** `w118807856`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.2 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 2/11 (Y 64–66)
+### Schritt 48.2 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 2/11 (Y 57–59)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 57 bis 59
 - **Blöcke:** 1.318
 - **Bauteile:** `w118807856`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.3 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 3/11 (Y 67–71)
+### Schritt 48.3 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 3/11 (Y 60–64)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 60 bis 64
 - **Blöcke:** 1.723
 - **Bauteile:** `w118807856`
 
@@ -145,9 +145,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.4 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 4/11 (Y 72–74)
+### Schritt 48.4 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 4/11 (Y 65–67)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.438
 - **Bauteile:** `w118807856`
 
@@ -176,9 +176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.5 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 5/11 (Y 75–79)
+### Schritt 48.5 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 5/11 (Y 68–72)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.980
 - **Bauteile:** `w118807856`
 
@@ -207,9 +207,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.6 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 6/11 (Y 80–83)
+### Schritt 48.6 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 6/11 (Y 73–76)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.713
 - **Bauteile:** `w118807856`
 
@@ -238,9 +238,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.7 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 7/11 (Y 84–86)
+### Schritt 48.7 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 7/11 (Y 77–79)
 
-- **Y-Bereich:** 84 bis 86
+- **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.276
 - **Bauteile:** `w118807856`
 
@@ -269,9 +269,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.8 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 8/11 (Y 87–91)
+### Schritt 48.8 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 8/11 (Y 80–84)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.988
 - **Bauteile:** `w118807856`
 
@@ -300,9 +300,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.9 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 9/11 (Y 92–93)
+### Schritt 48.9 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 9/11 (Y 85–86)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.745
 - **Bauteile:** `w118807856`
 
@@ -330,9 +330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.10 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 10/11 (Y 94–94)
+### Schritt 48.10 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 10/11 (Y 87–87)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.164
 - **Bauteile:** `w118807856`
 
@@ -358,9 +358,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.11 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 11/11 (Y 95–100)
+### Schritt 48.11 – Renaissance-Palazzo an Via Lorenzo Bartolini – Teil 11/11 (Y 88–93)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.841
 - **Bauteile:** `w118807856`
 
@@ -387,9 +387,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.12 – Renaissance-Palazzo an Via Lorenzo Bartolini: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 48.12 – Renaissance-Palazzo an Via Lorenzo Bartolini: Innenausbau – Teil 1/2 (Y 56–67)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 56 bis 67
 - **Blöcke:** 1.602
 - **Bauteile:** `w118807856_innen`
 
@@ -429,9 +429,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 48.13 – Renaissance-Palazzo an Via Lorenzo Bartolini: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 48.13 – Renaissance-Palazzo an Via Lorenzo Bartolini: Innenausbau – Teil 2/2 (Y 68–77)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.593
 - **Bauteile:** `w118807856_innen`
 

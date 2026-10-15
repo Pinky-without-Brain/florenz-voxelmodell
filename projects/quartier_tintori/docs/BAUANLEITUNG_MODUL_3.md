@@ -8,28 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.423 |
-| Bauschritte | 50 |
-| Y-Bereich | 63 bis 110 |
+| Blöcke | 89.970 |
+| Bauschritte | 53 |
+| Y-Bereich | 63 bis 111 |
 | X-Ausdehnung | 186 bis 386 (201 Blöcke) |
 | Z-Ausdehnung | 1266 bis 1370 (105 Blöcke) |
-| Kleinster Schritt | 786 Blöcke (Schritt 3.29) |
-| Mittlerer Schritt | 1.688 Blöcke |
-| Größter Schritt | 2.092 Blöcke (Schritt 3.19) |
+| Kleinster Schritt | 786 Blöcke (Schritt 3.32) |
+| Mittlerer Schritt | 1.698 Blöcke |
+| Größter Schritt | 2.092 Blöcke (Schritt 3.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 25.995 | 30,8 % |
-| Terrakotta | `terracotta` | 19.293 | 22,9 % |
-| Polierter Tuffstein | `polished_tuff` | 13.611 | 16,1 % |
-| Weißer Beton | `white_concrete` | 6.763 | 8,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.550 | 5,4 % |
-| Graues Buntglas | `gray_stained_glass` | 3.853 | 4,6 % |
-| Glatter Stein | `smooth_stone` | 3.728 | 4,4 % |
-| Grüner Beton | `green_concrete` | 2.099 | 2,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 1.927 | 2,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 26.021 | 28,9 % |
+| Terrakotta | `terracotta` | 19.293 | 21,4 % |
+| Polierter Tuffstein | `polished_tuff` | 13.593 | 15,1 % |
+| Weißer Beton | `white_concrete` | 6.763 | 7,5 % |
+| Tuffstein | `tuff` | 5.496 | 6,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.550 | 5,1 % |
+| Graues Buntglas | `gray_stained_glass` | 3.853 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 3.728 | 4,1 % |
+| Grüner Beton | `green_concrete` | 2.099 | 2,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.950 | 2,2 % |
 | Polierter Andesit | `polished_andesite` | 1.051 | 1,2 % |
 | Ziegelsteine | `bricks` | 498 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 360 | 0,4 % |
@@ -46,6 +47,10 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 31 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -53,29 +58,122 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 186 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 132 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1605477` | Palazzo Malenchini Alberti | 30.252 | 3.1–3.18 |
-| 2 | `r1605477_innen` | Palazzo Malenchini Alberti: Innenausbau | 4.312 | 3.18–3.21 |
-| 3 | `w673458417` | Palazzo des Cinquecento an Via Vincenzo Malenchini | 8.523 | 3.21–3.25 |
-| 4 | `w673458417_innen` | Palazzo des Cinquecento an Via Vincenzo Malenchini: Innenausbau | 1.662 | 3.26 |
-| 5 | `w673458426` | Reihenhaus an Piazza Mentana | 3.345 | 3.27–3.28 |
-| 6 | `w673458426_innen` | Reihenhaus an Piazza Mentana: Innenausbau | 786 | 3.29 |
-| 7 | `w673458428` | Reihenhaus an Via Vincenzo Malenchini | 5.533 | 3.30–3.32 |
-| 8 | `w673458428_innen` | Reihenhaus an Via Vincenzo Malenchini: Innenausbau | 1.178 | 3.33 |
-| 9 | `w673458437` | Kleine Kirche an Lungarno Generale Diaz | 6.220 | 3.34–3.37 |
-| 10 | `w673458437_innen` | Kleine Kirche an Lungarno Generale Diaz: Innenausbau | 1.145 | 3.38 |
-| 11 | `w673458440` | Palazzo des Cinquecento an Lungarno Generale Diaz | 16.454 | 3.39–3.47 |
-| 12 | `w673458440_innen` | Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau | 5.013 | 3.48–3.50 |
+| 1 | `r1605477` | Palazzo Malenchini Alberti | 35.547 | 3.1–3.21 |
+| 2 | `r1605477_innen` | Palazzo Malenchini Alberti: Innenausbau | 4.312 | 3.21–3.24 |
+| 3 | `w673458417` | Palazzo des Cinquecento an Via Vincenzo Malenchini | 8.608 | 3.24–3.28 |
+| 4 | `w673458417_innen` | Palazzo des Cinquecento an Via Vincenzo Malenchini: Innenausbau | 1.662 | 3.29 |
+| 5 | `w673458426` | Reihenhaus an Piazza Mentana | 3.368 | 3.30–3.31 |
+| 6 | `w673458426_innen` | Reihenhaus an Piazza Mentana: Innenausbau | 786 | 3.32 |
+| 7 | `w673458428` | Reihenhaus an Via Vincenzo Malenchini | 5.672 | 3.33–3.35 |
+| 8 | `w673458428_innen` | Reihenhaus an Via Vincenzo Malenchini: Innenausbau | 1.178 | 3.36 |
+| 9 | `w673458437` | Kleine Kirche an Lungarno Generale Diaz | 6.220 | 3.37–3.40 |
+| 10 | `w673458437_innen` | Kleine Kirche an Lungarno Generale Diaz: Innenausbau | 1.145 | 3.41 |
+| 11 | `w673458440` | Palazzo des Cinquecento an Lungarno Generale Diaz | 16.455 | 3.42–3.50 |
+| 12 | `w673458440_innen` | Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau | 5.013 | 3.51–3.53 |
+| 13 | `strassenschilder` | Straßenschilder | 4 | 3.53 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Palazzo Malenchini Alberti – Teil 1/18 (Y 63–63)
+### Schritt 3.1 – Palazzo Malenchini Alberti – Teil 1/21 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 2.082
+- **Bauteile:** `r1605477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.082 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.2 – Palazzo Malenchini Alberti – Teil 2/21 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.601
+- **Bauteile:** `r1605477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.601 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.3 – Palazzo Malenchini Alberti – Teil 3/21 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.617
+- **Bauteile:** `r1605477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.612 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 2 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.4 – Palazzo Malenchini Alberti – Teil 4/21 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.640
 - **Bauteile:** `r1605477`
 
@@ -101,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Palazzo Malenchini Alberti – Teil 2/18 (Y 63–63)
+### Schritt 3.5 – Palazzo Malenchini Alberti – Teil 5/21 (Y 66–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.746
 - **Bauteile:** `r1605477`
 
@@ -129,17 +227,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Palazzo Malenchini Alberti – Teil 3/18 (Y 63–63)
+### Schritt 3.6 – Palazzo Malenchini Alberti – Teil 6/21 (Y 66–66)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.647
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.642
 - **Bauteile:** `r1605477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.647 |
+| Polierter Tuffstein | `polished_tuff` | 1.637 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 **Beschreibung**
 
@@ -157,9 +262,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Palazzo Malenchini Alberti – Teil 4/18 (Y 64–65)
+### Schritt 3.7 – Palazzo Malenchini Alberti – Teil 7/21 (Y 67–68)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.626
 - **Bauteile:** `r1605477`
 
@@ -188,9 +293,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Palazzo Malenchini Alberti – Teil 5/18 (Y 66–67)
+### Schritt 3.8 – Palazzo Malenchini Alberti – Teil 8/21 (Y 69–70)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.543
 - **Bauteile:** `r1605477`
 
@@ -221,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Palazzo Malenchini Alberti – Teil 6/18 (Y 68–69)
+### Schritt 3.9 – Palazzo Malenchini Alberti – Teil 9/21 (Y 71–72)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.486
 - **Bauteile:** `r1605477`
 
@@ -254,9 +359,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Palazzo Malenchini Alberti – Teil 7/18 (Y 70–71)
+### Schritt 3.10 – Palazzo Malenchini Alberti – Teil 10/21 (Y 73–74)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -287,9 +392,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Palazzo Malenchini Alberti – Teil 8/18 (Y 72–73)
+### Schritt 3.11 – Palazzo Malenchini Alberti – Teil 11/21 (Y 75–76)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.734
 - **Bauteile:** `r1605477`
 
@@ -319,9 +424,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.9 – Palazzo Malenchini Alberti – Teil 9/18 (Y 74–75)
+### Schritt 3.12 – Palazzo Malenchini Alberti – Teil 12/21 (Y 77–78)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.756
 - **Bauteile:** `r1605477`
 
@@ -349,9 +454,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.10 – Palazzo Malenchini Alberti – Teil 10/18 (Y 76–77)
+### Schritt 3.13 – Palazzo Malenchini Alberti – Teil 13/21 (Y 79–80)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.756
 - **Bauteile:** `r1605477`
 
@@ -379,9 +484,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.11 – Palazzo Malenchini Alberti – Teil 11/18 (Y 78–79)
+### Schritt 3.14 – Palazzo Malenchini Alberti – Teil 14/21 (Y 81–82)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -411,9 +516,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.12 – Palazzo Malenchini Alberti – Teil 12/18 (Y 80–81)
+### Schritt 3.15 – Palazzo Malenchini Alberti – Teil 15/21 (Y 83–84)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -443,9 +548,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.13 – Palazzo Malenchini Alberti – Teil 13/18 (Y 82–83)
+### Schritt 3.16 – Palazzo Malenchini Alberti – Teil 16/21 (Y 85–86)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.534
 - **Bauteile:** `r1605477`
 
@@ -475,9 +580,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.14 – Palazzo Malenchini Alberti – Teil 14/18 (Y 84–85)
+### Schritt 3.17 – Palazzo Malenchini Alberti – Teil 17/21 (Y 87–88)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 2.067
 - **Bauteile:** `r1605477`
 
@@ -505,9 +610,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.15 – Palazzo Malenchini Alberti – Teil 15/18 (Y 86–86)
+### Schritt 3.18 – Palazzo Malenchini Alberti – Teil 18/21 (Y 89–89)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.819
 - **Bauteile:** `r1605477`
 
@@ -535,9 +640,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.16 – Palazzo Malenchini Alberti – Teil 16/18 (Y 86–86)
+### Schritt 3.19 – Palazzo Malenchini Alberti – Teil 19/21 (Y 89–89)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.790
 - **Bauteile:** `r1605477`
 
@@ -564,9 +669,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.17 – Palazzo Malenchini Alberti – Teil 17/18 (Y 86–86)
+### Schritt 3.20 – Palazzo Malenchini Alberti – Teil 20/21 (Y 89–89)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.750
 - **Bauteile:** `r1605477`
 
@@ -594,9 +699,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.18 – Palazzo Malenchini Alberti – Teil 18/18 (Y 87–88) & Palazzo Malenchini Alberti: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 3.21 – Palazzo Malenchini Alberti – Teil 21/21 (Y 90–91) & Palazzo Malenchini Alberti: Innenausbau – Teil 1/4 (Y 66–76)
 
-- **Y-Bereich:** 63 bis 88
+- **Y-Bereich:** 66 bis 91
 - **Blöcke:** 1.833
 - **Bauteile:** `r1605477`, `r1605477_innen`
 
@@ -636,9 +741,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.19 – Palazzo Malenchini Alberti: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 3.22 – Palazzo Malenchini Alberti: Innenausbau – Teil 2/4 (Y 77–77)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.092
 - **Bauteile:** `r1605477_innen`
 
@@ -672,9 +777,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.20 – Palazzo Malenchini Alberti: Innenausbau – Teil 3/4 (Y 74–74)
+### Schritt 3.23 – Palazzo Malenchini Alberti: Innenausbau – Teil 3/4 (Y 77–77)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.080
 - **Bauteile:** `r1605477_innen`
 
@@ -701,23 +806,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.21 – Palazzo Malenchini Alberti: Innenausbau – Teil 4/4 (Y 75–86) & Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 1/5 (Y 63–66)
+### Schritt 3.24 – Palazzo Malenchini Alberti: Innenausbau – Teil 4/4 (Y 78–89) & Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 1/5 (Y 63–67)
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.681
+- **Y-Bereich:** 63 bis 89
+- **Blöcke:** 1.766
 - **Bauteile:** `r1605477_innen`, `w673458417`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 985 |
+| Polierter Tuffstein | `polished_tuff` | 977 |
 | Gelbe Keramik | `yellow_terracotta` | 524 |
 | Weißer Beton | `white_concrete` | 97 |
+| Tuffstein | `tuff` | 87 |
 | Glatter Stein | `smooth_stone` | 30 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
 | Polierter Andesit | `polished_andesite` | 9 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -730,6 +837,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 24 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -748,9 +856,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.22 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 2/5 (Y 67–75)
+### Schritt 3.25 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 2/5 (Y 68–76)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 1.766
 - **Bauteile:** `w673458417`
 
@@ -782,9 +890,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.23 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 3/5 (Y 76–84)
+### Schritt 3.26 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 3/5 (Y 77–85)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.790
 - **Bauteile:** `w673458417`
 
@@ -814,9 +922,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.24 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 4/5 (Y 85–92)
+### Schritt 3.27 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 4/5 (Y 86–93)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.642
 - **Bauteile:** `w673458417`
 
@@ -845,9 +953,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.25 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 5/5 (Y 93–101)
+### Schritt 3.28 – Palazzo des Cinquecento an Via Vincenzo Malenchini – Teil 5/5 (Y 94–102)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 94 bis 102
 - **Blöcke:** 1.707
 - **Bauteile:** `w673458417`
 
@@ -875,9 +983,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.26 – Palazzo des Cinquecento an Via Vincenzo Malenchini: Innenausbau
+### Schritt 3.29 – Palazzo des Cinquecento an Via Vincenzo Malenchini: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 64 bis 85
 - **Blöcke:** 1.662
 - **Bauteile:** `w673458417_innen`
 
@@ -921,19 +1029,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.27 – Reihenhaus an Piazza Mentana – Teil 1/2 (Y 63–80)
+### Schritt 3.30 – Reihenhaus an Piazza Mentana – Teil 1/2 (Y 63–79)
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.712
+- **Y-Bereich:** 63 bis 79
+- **Blöcke:** 1.645
 - **Bauteile:** `w673458426`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.053 |
+| Glatter Sandstein | `smooth_sandstone` | 1.012 |
 | Polierter Tuffstein | `polished_tuff` | 312 |
-| Weißer Beton | `white_concrete` | 225 |
+| Weißer Beton | `white_concrete` | 199 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Fichtenholz-Bretter | `spruce_planks` | 24 |
 | Glatter Stein | `smooth_stone` | 20 |
@@ -954,19 +1062,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.28 – Reihenhaus an Piazza Mentana – Teil 2/2 (Y 81–98)
+### Schritt 3.31 – Reihenhaus an Piazza Mentana – Teil 2/2 (Y 80–98)
 
-- **Y-Bereich:** 81 bis 98
-- **Blöcke:** 1.633
+- **Y-Bereich:** 80 bis 98
+- **Blöcke:** 1.723
 - **Bauteile:** `w673458426`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 874 |
+| Glatter Sandstein | `smooth_sandstone` | 938 |
 | Terrakotta | `terracotta` | 429 |
-| Weißer Beton | `white_concrete` | 212 |
+| Weißer Beton | `white_concrete` | 238 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Ziegelsteine | `bricks` | 28 |
 | Fichtenholz-Bretter | `spruce_planks` | 20 |
@@ -987,7 +1095,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.29 – Reihenhaus an Piazza Mentana: Innenausbau
+### Schritt 3.32 – Reihenhaus an Piazza Mentana: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 786
@@ -1029,19 +1137,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.30 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/3 (Y 63–73)
+### Schritt 3.33 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/3 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.901
+- **Y-Bereich:** 64 bis 74
+- **Blöcke:** 1.865
 - **Bauteile:** `w673458428`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.165 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.058 |
 | Polierter Tuffstein | `polished_tuff` | 497 |
-| Glatter Stein | `smooth_stone` | 157 |
+| Glatter Stein | `smooth_stone` | 115 |
+| Tuffstein | `tuff` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Grüner Beton | `green_concrete` | 18 |
 | Polierter Andesit | `polished_andesite` | 16 |
@@ -1062,18 +1171,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.31 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/3 (Y 74–86)
+### Schritt 3.34 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/3 (Y 75–88)
 
-- **Y-Bereich:** 74 bis 86
-- **Blöcke:** 1.801
+- **Y-Bereich:** 75 bis 88
+- **Blöcke:** 1.958
 - **Bauteile:** `w673458428`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.359 |
-| Glatter Stein | `smooth_stone` | 210 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.474 |
+| Glatter Stein | `smooth_stone` | 252 |
 | Graues Buntglas | `gray_stained_glass` | 168 |
 | Grüner Beton | `green_concrete` | 64 |
 
@@ -1093,17 +1202,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.32 – Reihenhaus an Via Vincenzo Malenchini – Teil 3/3 (Y 87–98)
+### Schritt 3.35 – Reihenhaus an Via Vincenzo Malenchini – Teil 3/3 (Y 89–100)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.831
+- **Y-Bereich:** 89 bis 100
+- **Blöcke:** 1.849
 - **Bauteile:** `w673458428`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 956 |
+| Hellgrauer Beton | `light_gray_concrete` | 974 |
 | Terrakotta | `terracotta` | 652 |
 | Glatter Stein | `smooth_stone` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
@@ -1126,9 +1235,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.33 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau
+### Schritt 3.36 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.178
 - **Bauteile:** `w673458428_innen`
 
@@ -1168,9 +1277,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.34 – Kleine Kirche an Lungarno Generale Diaz – Teil 1/4 (Y 63–69)
+### Schritt 3.37 – Kleine Kirche an Lungarno Generale Diaz – Teil 1/4 (Y 65–71)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.559
 - **Bauteile:** `w673458437`
 
@@ -1199,9 +1308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.35 – Kleine Kirche an Lungarno Generale Diaz – Teil 2/4 (Y 70–79)
+### Schritt 3.38 – Kleine Kirche an Lungarno Generale Diaz – Teil 2/4 (Y 72–81)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.579
 - **Bauteile:** `w673458437`
 
@@ -1229,9 +1338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.36 – Kleine Kirche an Lungarno Generale Diaz – Teil 3/4 (Y 80–89)
+### Schritt 3.39 – Kleine Kirche an Lungarno Generale Diaz – Teil 3/4 (Y 82–91)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.542
 - **Bauteile:** `w673458437`
 
@@ -1259,9 +1368,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.37 – Kleine Kirche an Lungarno Generale Diaz – Teil 4/4 (Y 90–99)
+### Schritt 3.40 – Kleine Kirche an Lungarno Generale Diaz – Teil 4/4 (Y 92–101)
 
-- **Y-Bereich:** 90 bis 99
+- **Y-Bereich:** 92 bis 101
 - **Blöcke:** 1.540
 - **Bauteile:** `w673458437`
 
@@ -1291,9 +1400,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.38 – Kleine Kirche an Lungarno Generale Diaz: Innenausbau
+### Schritt 3.41 – Kleine Kirche an Lungarno Generale Diaz: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 65 bis 88
 - **Blöcke:** 1.145
 - **Bauteile:** `w673458437_innen`
 
@@ -1335,10 +1444,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.39 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 1/9 (Y 63–63)
+### Schritt 3.42 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 1/9 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.929
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 1.930
 - **Bauteile:** `w673458440`
 
 **Teileliste**
@@ -1346,6 +1455,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.929 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -1363,17 +1473,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.40 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 2/9 (Y 64–69)
+### Schritt 3.43 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 2/9 (Y 65–70)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.753
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.790
 - **Bauteile:** `w673458440`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.176 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.213 |
 | Glatter Stein | `smooth_stone` | 228 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
 | Grüner Beton | `green_concrete` | 105 |
@@ -1396,9 +1506,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.41 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 3/9 (Y 70–75)
+### Schritt 3.44 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 3/9 (Y 71–76)
 
-- **Y-Bereich:** 70 bis 75
+- **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.859
 - **Bauteile:** `w673458440`
 
@@ -1429,9 +1539,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.42 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 4/9 (Y 76–81)
+### Schritt 3.45 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 4/9 (Y 77–82)
 
-- **Y-Bereich:** 76 bis 81
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.654
 - **Bauteile:** `w673458440`
 
@@ -1461,21 +1571,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.43 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 5/9 (Y 82–88)
+### Schritt 3.46 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 5/9 (Y 83–88)
 
-- **Y-Bereich:** 82 bis 88
-- **Blöcke:** 2.050
+- **Y-Bereich:** 83 bis 88
+- **Blöcke:** 1.782
 - **Bauteile:** `w673458440`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.211 |
-| Glatter Stein | `smooth_stone` | 439 |
-| Graues Buntglas | `gray_stained_glass` | 228 |
-| Grüner Beton | `green_concrete` | 148 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.077 |
+| Glatter Stein | `smooth_stone` | 405 |
+| Graues Buntglas | `gray_stained_glass` | 171 |
+| Grüner Beton | `green_concrete` | 111 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
@@ -1493,17 +1603,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.44 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 6/9 (Y 89–94)
+### Schritt 3.47 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 6/9 (Y 89–94)
 
 - **Y-Bereich:** 89 bis 94
-- **Blöcke:** 1.865
+- **Blöcke:** 1.828
 - **Bauteile:** `w673458440`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.191 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.154 |
 | Glatter Stein | `smooth_stone` | 464 |
 | Graues Buntglas | `gray_stained_glass` | 114 |
 | Grüner Beton | `green_concrete` | 74 |
@@ -1525,22 +1635,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.45 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 7/9 (Y 95–99)
+### Schritt 3.48 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 7/9 (Y 95–100)
 
-- **Y-Bereich:** 95 bis 99
-- **Blöcke:** 1.628
+- **Y-Bereich:** 95 bis 100
+- **Blöcke:** 1.896
 - **Bauteile:** `w673458440`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 948 |
-| Glatter Stein | `smooth_stone` | 229 |
-| Graues Buntglas | `gray_stained_glass` | 228 |
-| Grüner Beton | `green_concrete` | 148 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.082 |
+| Graues Buntglas | `gray_stained_glass` | 285 |
+| Glatter Stein | `smooth_stone` | 263 |
+| Grüner Beton | `green_concrete` | 185 |
 | Fichtenholz-Bretter | `spruce_planks` | 57 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Polierter Andesit | `polished_andesite` | 24 |
 
 **Beschreibung**
 
@@ -1558,9 +1668,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.46 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 8/9 (Y 100–102)
+### Schritt 3.49 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 8/9 (Y 101–103)
 
-- **Y-Bereich:** 100 bis 102
+- **Y-Bereich:** 101 bis 103
 - **Blöcke:** 2.056
 - **Bauteile:** `w673458440`
 
@@ -1589,9 +1699,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.47 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 9/9 (Y 103–110)
+### Schritt 3.50 – Palazzo des Cinquecento an Lungarno Generale Diaz – Teil 9/9 (Y 104–111)
 
-- **Y-Bereich:** 103 bis 110
+- **Y-Bereich:** 104 bis 111
 - **Blöcke:** 1.660
 - **Bauteile:** `w673458440`
 
@@ -1618,9 +1728,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.48 – Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau – Teil 1/3 (Y 63–73)
+### Schritt 3.51 – Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau – Teil 1/3 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.672
 - **Bauteile:** `w673458440_innen`
 
@@ -1660,9 +1770,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.49 – Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau – Teil 2/3 (Y 74–82)
+### Schritt 3.52 – Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau – Teil 2/3 (Y 75–83)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.666
 - **Bauteile:** `w673458440_innen`
 
@@ -1704,11 +1814,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.50 – Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau – Teil 3/3 (Y 83–92)
+### Schritt 3.53 – Palazzo des Cinquecento an Lungarno Generale Diaz: Innenausbau – Teil 3/3 (Y 84–93) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 92
-- **Blöcke:** 1.675
-- **Bauteile:** `w673458440_innen`
+- **Y-Bereich:** 70 bis 93
+- **Blöcke:** 1.679
+- **Bauteile:** `w673458440_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1721,6 +1831,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
@@ -1734,16 +1846,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

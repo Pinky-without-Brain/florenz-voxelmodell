@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 528 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 59 bis 90 |
 | X-Ausdehnung | -2528 bis -2526 (3 Blöcke) |
 | Z-Ausdehnung | 1535 bis 1542 (8 Blöcke) |
 | Kleinster Schritt | 528 Blöcke (Schritt 42.1) |
@@ -38,7 +38,7 @@
 
 ### Schritt 42.1 – Nebengebäude an Via Gusciana
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 59 bis 90
 - **Blöcke:** 528
 - **Bauteile:** `w1153363172`
 

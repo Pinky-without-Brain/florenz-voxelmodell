@@ -8,25 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.364 |
+| Blöcke | 3.682 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 157 bis 196 |
 | X-Ausdehnung | -679 bis -662 (18 Blöcke) |
 | Z-Ausdehnung | 2001 bis 2018 (18 Blöcke) |
 | Kleinster Schritt | 329 Blöcke (Schritt 12.3) |
-| Mittlerer Schritt | 1.121 Blöcke |
-| Größter Schritt | 1.548 Blöcke (Schritt 12.2) |
+| Mittlerer Schritt | 1.227 Blöcke |
+| Größter Schritt | 1.714 Blöcke (Schritt 12.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 2.490 | 74,0 % |
-| Terrakotta | `terracotta` | 476 | 14,1 % |
-| Polierter Tuffstein | `polished_tuff` | 159 | 4,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 109 | 3,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 | 2,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,8 % |
+| Rosa Keramik | `pink_terracotta` | 2.490 | 67,6 % |
+| Terrakotta | `terracotta` | 476 | 12,9 % |
+| Tuffstein | `tuff` | 318 | 8,6 % |
+| Polierter Tuffstein | `polished_tuff` | 159 | 4,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 109 | 3,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 | 1,8 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,7 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,7 % |
 | Ziegelsteine | `bricks` | 5 | 0,1 % |
 | Seelaterne | `sea_lantern` | 4 | 0,1 % |
@@ -43,22 +44,23 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w267801118` | Kaffeehaus del Giardino di Boboli | 3.035 | 12.1–12.2 |
+| 1 | `w267801118` | Kaffeehaus del Giardino di Boboli | 3.353 | 12.1–12.2 |
 | 2 | `w267801118_innen` | Kaffeehaus del Giardino di Boboli: Innenausbau | 329 | 12.3 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Kaffeehaus del Giardino di Boboli – Teil 1/2 (Y 63–79)
+### Schritt 12.1 – Kaffeehaus del Giardino di Boboli – Teil 1/2 (Y 157–176)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.487
+- **Y-Bereich:** 157 bis 176
+- **Blöcke:** 1.639
 - **Bauteile:** `w267801118`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.328 |
+| Rosa Keramik | `pink_terracotta` | 1.162 |
+| Tuffstein | `tuff` | 318 |
 | Polierter Tuffstein | `polished_tuff` | 159 |
 
 **Beschreibung**
@@ -77,17 +79,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Kaffeehaus del Giardino di Boboli – Teil 2/2 (Y 80–97)
+### Schritt 12.2 – Kaffeehaus del Giardino di Boboli – Teil 2/2 (Y 177–196)
 
-- **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.548
+- **Y-Bereich:** 177 bis 196
+- **Blöcke:** 1.714
 - **Bauteile:** `w267801118`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.162 |
+| Rosa Keramik | `pink_terracotta` | 1.328 |
 | Terrakotta | `terracotta` | 272 |
 | Fichtenholz-Bretter | `spruce_planks` | 109 |
 | Ziegelsteine | `bricks` | 5 |
@@ -110,7 +112,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.3 – Kaffeehaus del Giardino di Boboli: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 162 bis 186
 - **Blöcke:** 329
 - **Bauteile:** `w267801118_innen`
 

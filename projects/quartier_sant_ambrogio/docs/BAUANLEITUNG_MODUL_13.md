@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.150 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 77 |
+| Y-Bereich | 64 bis 78 |
 | X-Ausdehnung | 1259 bis 1322 (64 Blöcke) |
 | Z-Ausdehnung | 356 bis 369 (14 Blöcke) |
 | Kleinster Schritt | 1.378 Blöcke (Schritt 13.2) |
@@ -46,9 +46,9 @@
 
 ## Bauschritte
 
-### Schritt 13.1 – Loggia del Pesce – Teil 1/3 (Y 63–66)
+### Schritt 13.1 – Loggia del Pesce – Teil 1/3 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.386
 - **Bauteile:** `w204145494`
 
@@ -76,9 +76,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Loggia del Pesce – Teil 2/3 (Y 67–72)
+### Schritt 13.2 – Loggia del Pesce – Teil 2/3 (Y 68–73)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.378
 - **Bauteile:** `w204145494`
 
@@ -105,9 +105,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.3 – Loggia del Pesce – Teil 3/3 (Y 73–77) & Loggia del Pesce: Innenausbau
+### Schritt 13.3 – Loggia del Pesce – Teil 3/3 (Y 74–78) & Loggia del Pesce: Innenausbau
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 64 bis 78
 - **Blöcke:** 1.386
 - **Bauteile:** `w204145494`, `w204145494_innen`
 

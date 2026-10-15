@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 35.224 |
+| Blöcke | 35.229 |
 | Bauschritte | 22 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 64 bis 103 |
 | X-Ausdehnung | -776 bis -722 (55 Blöcke) |
 | Z-Ausdehnung | 10 bis 90 (81 Blöcke) |
-| Kleinster Schritt | 402 Blöcke (Schritt 3.22) |
+| Kleinster Schritt | 407 Blöcke (Schritt 3.22) |
 | Mittlerer Schritt | 1.601 Blöcke |
 | Größter Schritt | 2.091 Blöcke (Schritt 3.14) |
 
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 10.339 | 29,4 % |
+| Terrakotta | `terracotta` | 10.339 | 29,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.580 | 13,0 % |
 | Tuffstein | `tuff` | 4.326 | 12,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 4.032 | 11,4 % |
@@ -45,6 +45,8 @@
 | Weiße Keramik | `white_terracotta` | 33 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,1 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -67,12 +69,13 @@
 | 8 | `w476954212_innen` | Reihenhaus an Via Teatina: Innenausbau | 751 | 3.20 |
 | 9 | `w476954213` | Reihenhaus an Via Teatina | 1.424 | 3.21 |
 | 10 | `w476954213_innen` | Reihenhaus an Via Teatina: Innenausbau | 402 | 3.22 |
+| 11 | `strassenschilder` | Straßenschilder | 5 | 3.22 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Renaissance-Palazzo an Via dei Pecori – Teil 1/6 (Y 63–65)
+### Schritt 3.1 – Renaissance-Palazzo an Via dei Pecori – Teil 1/6 (Y 64–66)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.800
 - **Bauteile:** `w476954209`
 
@@ -102,9 +105,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Renaissance-Palazzo an Via dei Pecori – Teil 2/6 (Y 66–73)
+### Schritt 3.2 – Renaissance-Palazzo an Via dei Pecori – Teil 2/6 (Y 67–74)
 
-- **Y-Bereich:** 66 bis 73
+- **Y-Bereich:** 67 bis 74
 - **Blöcke:** 2.018
 - **Bauteile:** `w476954209`
 
@@ -134,9 +137,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Renaissance-Palazzo an Via dei Pecori – Teil 3/6 (Y 74–80)
+### Schritt 3.3 – Renaissance-Palazzo an Via dei Pecori – Teil 3/6 (Y 75–81)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.873
 - **Bauteile:** `w476954209`
 
@@ -166,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Renaissance-Palazzo an Via dei Pecori – Teil 4/6 (Y 81–86)
+### Schritt 3.4 – Renaissance-Palazzo an Via dei Pecori – Teil 4/6 (Y 82–87)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 82 bis 87
 - **Blöcke:** 1.696
 - **Bauteile:** `w476954209`
 
@@ -197,9 +200,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Renaissance-Palazzo an Via dei Pecori – Teil 5/6 (Y 87–93)
+### Schritt 3.5 – Renaissance-Palazzo an Via dei Pecori – Teil 5/6 (Y 88–94)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.979
 - **Bauteile:** `w476954209`
 
@@ -229,9 +232,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Renaissance-Palazzo an Via dei Pecori – Teil 6/6 (Y 94–102)
+### Schritt 3.6 – Renaissance-Palazzo an Via dei Pecori – Teil 6/6 (Y 95–103)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.858
 - **Bauteile:** `w476954209`
 
@@ -258,9 +261,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Renaissance-Palazzo an Via dei Pecori: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 3.7 – Renaissance-Palazzo an Via dei Pecori: Innenausbau – Teil 1/2 (Y 64–75)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.070
 - **Bauteile:** `w476954209_innen`
 
@@ -300,9 +303,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.8 – Renaissance-Palazzo an Via dei Pecori: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 3.8 – Renaissance-Palazzo an Via dei Pecori: Innenausbau – Teil 2/2 (Y 76–85)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 76 bis 85
 - **Blöcke:** 1.071
 - **Bauteile:** `w476954209_innen`
 
@@ -344,9 +347,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.9 – Palazzo des Cinquecento an Via dei Boni – Teil 1/5 (Y 63–66)
+### Schritt 3.9 – Palazzo des Cinquecento an Via dei Boni – Teil 1/5 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.865
 - **Bauteile:** `w476954210`
 
@@ -376,9 +379,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.10 – Palazzo des Cinquecento an Via dei Boni – Teil 2/5 (Y 67–75)
+### Schritt 3.10 – Palazzo des Cinquecento an Via dei Boni – Teil 2/5 (Y 68–76)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 1.801
 - **Bauteile:** `w476954210`
 
@@ -410,9 +413,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.11 – Palazzo des Cinquecento an Via dei Boni – Teil 3/5 (Y 76–85)
+### Schritt 3.11 – Palazzo des Cinquecento an Via dei Boni – Teil 3/5 (Y 77–86)
 
-- **Y-Bereich:** 76 bis 85
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 2.020
 - **Bauteile:** `w476954210`
 
@@ -443,9 +446,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.12 – Palazzo des Cinquecento an Via dei Boni – Teil 4/5 (Y 86–93)
+### Schritt 3.12 – Palazzo des Cinquecento an Via dei Boni – Teil 4/5 (Y 87–94)
 
-- **Y-Bereich:** 86 bis 93
+- **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.798
 - **Bauteile:** `w476954210`
 
@@ -476,9 +479,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.13 – Palazzo des Cinquecento an Via dei Boni – Teil 5/5 (Y 94–101)
+### Schritt 3.13 – Palazzo des Cinquecento an Via dei Boni – Teil 5/5 (Y 95–102)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.824
 - **Bauteile:** `w476954210`
 
@@ -507,7 +510,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.14 – Palazzo des Cinquecento an Via dei Boni: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 64 bis 85
 - **Blöcke:** 2.091
 - **Bauteile:** `w476954210_innen`
 
@@ -549,9 +552,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.15 – Reihenhaus an Via Teatina – Teil 1/2 (Y 63–80)
+### Schritt 3.15 – Reihenhaus an Via Teatina – Teil 1/2 (Y 64–81)
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 64 bis 81
 - **Blöcke:** 1.941
 - **Bauteile:** `w476954211`
 
@@ -583,9 +586,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.16 – Reihenhaus an Via Teatina – Teil 2/2 (Y 81–98)
+### Schritt 3.16 – Reihenhaus an Via Teatina – Teil 2/2 (Y 82–99)
 
-- **Y-Bereich:** 81 bis 98
+- **Y-Bereich:** 82 bis 99
 - **Blöcke:** 1.899
 - **Bauteile:** `w476954211`
 
@@ -619,7 +622,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.17 – Reihenhaus an Via Teatina: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.072
 - **Bauteile:** `w476954211_innen`
 
@@ -659,9 +662,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.18 – Reihenhaus an Via Teatina – Teil 1/2 (Y 63–79)
+### Schritt 3.18 – Reihenhaus an Via Teatina – Teil 1/2 (Y 64–80)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 64 bis 80
 - **Blöcke:** 1.505
 - **Bauteile:** `w476954212`
 
@@ -693,9 +696,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.19 – Reihenhaus an Via Teatina – Teil 2/2 (Y 80–98)
+### Schritt 3.19 – Reihenhaus an Via Teatina – Teil 2/2 (Y 81–99)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 81 bis 99
 - **Blöcke:** 1.466
 - **Bauteile:** `w476954212`
 
@@ -728,7 +731,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.20 – Reihenhaus an Via Teatina: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 751
 - **Bauteile:** `w476954212_innen`
 
@@ -770,7 +773,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 3.21 – Reihenhaus an Via Teatina
 
-- **Y-Bereich:** 63 bis 95
+- **Y-Bereich:** 64 bis 96
 - **Blöcke:** 1.424
 - **Bauteile:** `w476954213`
 
@@ -801,11 +804,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.22 – Reihenhaus an Via Teatina: Innenausbau
+### Schritt 3.22 – Reihenhaus an Via Teatina: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 402
-- **Bauteile:** `w476954213_innen`
+- **Y-Bereich:** 64 bis 88
+- **Blöcke:** 407
+- **Bauteile:** `w476954213_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -818,8 +821,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
 | Seelaterne | `sea_lantern` | 4 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -829,16 +834,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

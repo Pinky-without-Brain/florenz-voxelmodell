@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 41.547 |
 | Bauschritte | 27 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | 1570 bis 1653 (84 Blöcke) |
 | Z-Ausdehnung | 477 bis 598 (122 Blöcke) |
 | Kleinster Schritt | 875 Blöcke (Schritt 22.18) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 22.1 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 1/21 (Y 63–63)
+### Schritt 22.1 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 1/21 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.700
 - **Bauteile:** `w788615414`
 
@@ -79,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.2 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 2/21 (Y 63–63)
+### Schritt 22.2 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 2/21 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.824
 - **Bauteile:** `w788615414`
 
@@ -107,9 +107,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.3 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 3/21 (Y 63–63)
+### Schritt 22.3 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 3/21 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.728
 - **Bauteile:** `w788615414`
 
@@ -135,9 +135,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.4 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 4/21 (Y 64–65)
+### Schritt 22.4 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 4/21 (Y 65–66)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.151
 - **Bauteile:** `w788615414`
 
@@ -166,9 +166,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.5 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 5/21 (Y 66–67)
+### Schritt 22.5 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 5/21 (Y 67–68)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.078
 - **Bauteile:** `w788615414`
 
@@ -198,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.6 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 6/21 (Y 68–70)
+### Schritt 22.6 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 6/21 (Y 69–71)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.577
 - **Bauteile:** `w788615414`
 
@@ -230,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.7 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 7/21 (Y 71–73)
+### Schritt 22.7 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 7/21 (Y 72–74)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.740
 - **Bauteile:** `w788615414`
 
@@ -262,9 +262,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.8 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 8/21 (Y 74–75)
+### Schritt 22.8 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 8/21 (Y 75–76)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.580
 - **Bauteile:** `w788615414`
 
@@ -293,9 +293,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.9 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 9/21 (Y 76–77)
+### Schritt 22.9 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 9/21 (Y 77–78)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.358
 - **Bauteile:** `w788615414`
 
@@ -325,9 +325,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.10 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 10/21 (Y 78–80)
+### Schritt 22.10 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 10/21 (Y 79–81)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.806
 - **Bauteile:** `w788615414`
 
@@ -357,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.11 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 11/21 (Y 81–82)
+### Schritt 22.11 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 11/21 (Y 82–83)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.368
 - **Bauteile:** `w788615414`
 
@@ -388,9 +388,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.12 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 12/21 (Y 83–84)
+### Schritt 22.12 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 12/21 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.580
 - **Bauteile:** `w788615414`
 
@@ -418,9 +418,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.13 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 13/21 (Y 85–86)
+### Schritt 22.13 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 13/21 (Y 86–87)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.358
 - **Bauteile:** `w788615414`
 
@@ -449,9 +449,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.14 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 14/21 (Y 87–89)
+### Schritt 22.14 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 14/21 (Y 88–90)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.806
 - **Bauteile:** `w788615414`
 
@@ -480,9 +480,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.15 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 15/21 (Y 90–91)
+### Schritt 22.15 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 15/21 (Y 91–92)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.286
 - **Bauteile:** `w788615414`
 
@@ -511,9 +511,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.16 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 16/21 (Y 92–93)
+### Schritt 22.16 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 16/21 (Y 93–94)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.842
 - **Bauteile:** `w788615414`
 
@@ -542,9 +542,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.17 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 17/21 (Y 94–94)
+### Schritt 22.17 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 17/21 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.565
 - **Bauteile:** `w788615414`
 
@@ -570,9 +570,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.18 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 18/21 (Y 95–95)
+### Schritt 22.18 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 18/21 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 875
 - **Bauteile:** `w788615414`
 
@@ -598,9 +598,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.19 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 19/21 (Y 96–97)
+### Schritt 22.19 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 19/21 (Y 97–98)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.660
 - **Bauteile:** `w788615414`
 
@@ -627,9 +627,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.20 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 20/21 (Y 98–100)
+### Schritt 22.20 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 20/21 (Y 99–101)
 
-- **Y-Bereich:** 98 bis 100
+- **Y-Bereich:** 99 bis 101
 - **Blöcke:** 2.056
 - **Bauteile:** `w788615414`
 
@@ -656,9 +656,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.21 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 21/21 (Y 101–105)
+### Schritt 22.21 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti – Teil 21/21 (Y 102–106)
 
-- **Y-Bereich:** 101 bis 105
+- **Y-Bereich:** 102 bis 106
 - **Blöcke:** 1.316
 - **Bauteile:** `w788615414`
 
@@ -685,9 +685,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.22 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 22.22 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 1/6 (Y 64–75)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.586
 - **Bauteile:** `w788615414_innen`
 
@@ -723,9 +723,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.23 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 22.23 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 2/6 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.521
 - **Bauteile:** `w788615414_innen`
 
@@ -752,9 +752,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.24 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 3/6 (Y 74–74)
+### Schritt 22.24 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 3/6 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.549
 - **Bauteile:** `w788615414_innen`
 
@@ -781,9 +781,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.25 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 4/6 (Y 75–83)
+### Schritt 22.25 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 4/6 (Y 76–84)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.561
 - **Bauteile:** `w788615414_innen`
 
@@ -821,9 +821,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.26 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 5/6 (Y 83–83)
+### Schritt 22.26 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 5/6 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.521
 - **Bauteile:** `w788615414_innen`
 
@@ -850,9 +850,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.27 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 6/6 (Y 83–84)
+### Schritt 22.27 – Renaissance-Palazzo an Piazza Lorenzo Ghiberti: Innenausbau – Teil 6/6 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.555
 - **Bauteile:** `w788615414_innen`
 

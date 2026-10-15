@@ -8,11 +8,11 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 289.514 |
+| Blöcke | 289.520 |
 | Bauschritte | 189 |
 | Y-Bereich | 63 bis 122 |
 | X-Ausdehnung | -385 bis -207 (179 Blöcke) |
-| Z-Ausdehnung | -367 bis -68 (300 Blöcke) |
+| Z-Ausdehnung | -367 bis -67 (301 Blöcke) |
 | Kleinster Schritt | 317 Blöcke (Schritt 4.163) |
 | Mittlerer Schritt | 1.532 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 4.127) |
@@ -52,6 +52,10 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 36 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -119,6 +123,7 @@
 | 52 | `w477257684_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 1.913 | 4.186 |
 | 53 | `w477257685` | Reihenhaus an Piazza San Giovanni | 2.111 | 4.187–4.188 |
 | 54 | `w477257685_innen` | Reihenhaus an Piazza San Giovanni: Innenausbau | 1.153 | 4.189 |
+| 55 | `strassenschilder` | Straßenschilder | 6 | 4.189 |
 
 ## Bauschritte
 
@@ -6532,11 +6537,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.189 – Reihenhaus an Piazza San Giovanni: Innenausbau
+### Schritt 4.189 – Reihenhaus an Piazza San Giovanni: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.153
-- **Bauteile:** `w477257685_innen`
+- **Blöcke:** 1.159
+- **Bauteile:** `w477257685_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -6551,6 +6556,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -6560,16 +6569,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

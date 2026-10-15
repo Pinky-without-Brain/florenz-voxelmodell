@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.030 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 68 bis 100 |
 | X-Ausdehnung | 1304 bis 1326 (23 Blöcke) |
 | Z-Ausdehnung | -981 bis -961 (21 Blöcke) |
 | Kleinster Schritt | 360 Blöcke (Schritt 23.3) |
@@ -47,9 +47,9 @@
 
 ## Bauschritte
 
-### Schritt 23.1 – Haus w1239614079 – Teil 1/2 (Y 63–79)
+### Schritt 23.1 – Haus w1239614079 – Teil 1/2 (Y 68–84)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 68 bis 84
 - **Blöcke:** 1.857
 - **Bauteile:** `w1239614079`
 
@@ -79,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.2 – Haus w1239614079 – Teil 2/2 (Y 80–95)
+### Schritt 23.2 – Haus w1239614079 – Teil 2/2 (Y 85–100)
 
-- **Y-Bereich:** 80 bis 95
+- **Y-Bereich:** 85 bis 100
 - **Blöcke:** 1.813
 - **Bauteile:** `w1239614079`
 
@@ -113,7 +113,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 23.3 – Haus w1239614079: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 68 bis 91
 - **Blöcke:** 360
 - **Bauteile:** `w1239614079_innen`
 

@@ -1,0 +1,11 @@
+{
+  "id": "ospedale_degli_innocenti",
+  "title": "Spedale degli Innocenti",
+  "type": "wahrzeichen",
+  "gebaeude": ["r7085758"],
+  "bodenY": 66,
+  "rahmen": { "ox": 657.5, "oz": -772, "thetaDeg": 37.2 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

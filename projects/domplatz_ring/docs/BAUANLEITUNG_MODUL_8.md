@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 28.907 |
+| Blöcke | 28.910 |
 | Bauschritte | 20 |
 | Y-Bereich | 65 bis 104 |
 | X-Ausdehnung | -180 bis -108 (73 Blöcke) |
 | Z-Ausdehnung | 118 bis 171 (54 Blöcke) |
 | Kleinster Schritt | 749 Blöcke (Schritt 8.1) |
-| Mittlerer Schritt | 1.445 Blöcke |
+| Mittlerer Schritt | 1.446 Blöcke |
 | Größter Schritt | 2.029 Blöcke (Schritt 8.13) |
 
 ## Gesamt-Stückliste
@@ -38,9 +38,11 @@
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
@@ -58,6 +60,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1594403` | Palazzo des Ottocento an Piazza del Duomo | 24.120 | 8.1–8.16 |
 | 2 | `r1594403_innen` | Palazzo des Ottocento an Piazza del Duomo: Innenausbau | 4.787 | 8.17–8.20 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 8.20 |
 
 ## Bauschritte
 
@@ -688,11 +691,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.20 – Palazzo des Ottocento an Piazza del Duomo: Innenausbau – Teil 4/4 (Y 86–87)
+### Schritt 8.20 – Palazzo des Ottocento an Piazza del Duomo: Innenausbau – Teil 4/4 (Y 86–87) & Straßenschilder
 
-- **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.171
-- **Bauteile:** `r1594403_innen`
+- **Y-Bereich:** 73 bis 87
+- **Blöcke:** 1.174
+- **Bauteile:** `r1594403_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -702,6 +705,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -714,16 +719,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

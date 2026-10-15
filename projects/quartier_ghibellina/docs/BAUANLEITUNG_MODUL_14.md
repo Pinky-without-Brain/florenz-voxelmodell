@@ -8,26 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 31.942 |
-| Bauschritte | 22 |
-| Y-Bereich | 63 bis 104 |
+| Blöcke | 33.014 |
+| Bauschritte | 23 |
+| Y-Bereich | 62 bis 105 |
 | X-Ausdehnung | 1176 bis 1266 (91 Blöcke) |
 | Z-Ausdehnung | 504 bis 573 (70 Blöcke) |
-| Kleinster Schritt | 1.107 Blöcke (Schritt 14.10) |
-| Mittlerer Schritt | 1.452 Blöcke |
-| Größter Schritt | 1.746 Blöcke (Schritt 14.8) |
+| Kleinster Schritt | 1.050 Blöcke (Schritt 14.8) |
+| Mittlerer Schritt | 1.435 Blöcke |
+| Größter Schritt | 2.065 Blöcke (Schritt 14.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 14.543 | 45,5 % |
-| Terrakotta | `terracotta` | 11.516 | 36,1 % |
-| Polierter Tuffstein | `polished_tuff` | 2.999 | 9,4 % |
-| Graues Buntglas | `gray_stained_glass` | 1.139 | 3,6 % |
-| Grüner Beton | `green_concrete` | 904 | 2,8 % |
+| Weißer Beton | `white_concrete` | 14.543 | 44,1 % |
+| Terrakotta | `terracotta` | 11.516 | 34,9 % |
+| Polierter Tuffstein | `polished_tuff` | 2.999 | 9,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.139 | 3,5 % |
+| Tuffstein | `tuff` | 1.072 | 3,2 % |
+| Grüner Beton | `green_concrete` | 904 | 2,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 486 | 1,5 % |
-| Ziegelsteine | `bricks` | 146 | 0,5 % |
+| Ziegelsteine | `bricks` | 146 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 | 0,2 % |
 | Seelaterne | `sea_lantern` | 56 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,1 % |
@@ -48,14 +49,42 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1606430` | Reihenhaus an Borgo Allegri | 24.528 | 14.1–14.16 |
-| 2 | `r1606430_innen` | Reihenhaus an Borgo Allegri: Innenausbau | 7.414 | 14.17–14.22 |
+| 1 | `r1606430` | Reihenhaus an Borgo Allegri | 25.600 | 14.1–14.17 |
+| 2 | `r1606430_innen` | Reihenhaus an Borgo Allegri: Innenausbau | 7.414 | 14.18–14.23 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Reihenhaus an Borgo Allegri – Teil 1/16 (Y 63–63)
+### Schritt 14.1 – Reihenhaus an Borgo Allegri – Teil 1/17 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.072
+- **Bauteile:** `r1606430`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.072 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.2 – Reihenhaus an Borgo Allegri – Teil 2/17 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.507
 - **Bauteile:** `r1606430`
 
@@ -81,10 +110,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Borgo Allegri – Teil 2/16 (Y 63–63)
+### Schritt 14.3 – Reihenhaus an Borgo Allegri – Teil 3/17 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.492
+- **Y-Bereich:** 64 bis 65
+- **Blöcke:** 2.065
 - **Bauteile:** `r1606430`
 
 **Teileliste**
@@ -92,6 +121,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.492 |
+| Weißer Beton | `white_concrete` | 571 |
+| Glatter Stein | `smooth_stone` | 2 |
 
 **Beschreibung**
 
@@ -109,18 +140,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Reihenhaus an Borgo Allegri – Teil 3/16 (Y 64–66)
+### Schritt 14.4 – Reihenhaus an Borgo Allegri – Teil 4/17 (Y 66–67)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.719
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.146
 - **Bauteile:** `r1606430`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.713 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Weißer Beton | `white_concrete` | 1.142 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -138,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Reihenhaus an Borgo Allegri – Teil 4/16 (Y 67–69)
+### Schritt 14.5 – Reihenhaus an Borgo Allegri – Teil 5/17 (Y 68–70)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.554
 - **Bauteile:** `r1606430`
 
@@ -169,17 +200,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.5 – Reihenhaus an Borgo Allegri – Teil 5/16 (Y 70–71)
+### Schritt 14.6 – Reihenhaus an Borgo Allegri – Teil 6/17 (Y 71–73)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.158
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.740
 - **Bauteile:** `r1606430`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.148 |
+| Weißer Beton | `white_concrete` | 1.730 |
 | Glatter Stein | `smooth_stone` | 10 |
 
 **Beschreibung**
@@ -198,9 +229,127 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.6 – Reihenhaus an Borgo Allegri – Teil 6/16 (Y 72–74)
+### Schritt 14.7 – Reihenhaus an Borgo Allegri – Teil 7/17 (Y 74–76)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.632
+- **Bauteile:** `r1606430`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.338 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
+| Grüner Beton | `green_concrete` | 130 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.8 – Reihenhaus an Borgo Allegri – Teil 8/17 (Y 77–78)
+
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.050
+- **Bauteile:** `r1606430`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 756 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
+| Grüner Beton | `green_concrete` | 130 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.9 – Reihenhaus an Borgo Allegri – Teil 9/17 (Y 79–81)
+
+- **Y-Bereich:** 79 bis 81
+- **Blöcke:** 1.746
+- **Bauteile:** `r1606430`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.746 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.10 – Reihenhaus an Borgo Allegri – Teil 10/17 (Y 82–84)
+
+- **Y-Bereich:** 82 bis 84
+- **Blöcke:** 1.575
+- **Bauteile:** `r1606430`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.134 |
+| Graues Buntglas | `gray_stained_glass` | 246 |
+| Grüner Beton | `green_concrete` | 195 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.11 – Reihenhaus an Borgo Allegri – Teil 11/17 (Y 85–87)
+
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.689
 - **Bauteile:** `r1606430`
 
@@ -228,9 +377,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.7 – Reihenhaus an Borgo Allegri – Teil 7/16 (Y 75–77)
+### Schritt 14.12 – Reihenhaus an Borgo Allegri – Teil 12/17 (Y 88–89)
 
-- **Y-Bereich:** 75 bis 77
+- **Y-Bereich:** 88 bis 89
+- **Blöcke:** 1.164
+- **Bauteile:** `r1606430`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.164 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.13 – Reihenhaus an Borgo Allegri – Teil 13/17 (Y 90–92)
+
+- **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.575
 - **Bauteile:** `r1606430`
 
@@ -258,155 +435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.8 – Reihenhaus an Borgo Allegri – Teil 8/16 (Y 78–80)
+### Schritt 14.14 – Reihenhaus an Borgo Allegri – Teil 14/17 (Y 93–94)
 
-- **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.746
-- **Bauteile:** `r1606430`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.746 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.9 – Reihenhaus an Borgo Allegri – Teil 9/16 (Y 81–83)
-
-- **Y-Bereich:** 81 bis 83
-- **Blöcke:** 1.575
-- **Bauteile:** `r1606430`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.134 |
-| Graues Buntglas | `gray_stained_glass` | 246 |
-| Grüner Beton | `green_concrete` | 195 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.10 – Reihenhaus an Borgo Allegri – Teil 10/16 (Y 84–85)
-
-- **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.107
-- **Bauteile:** `r1606430`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 960 |
-| Graues Buntglas | `gray_stained_glass` | 82 |
-| Grüner Beton | `green_concrete` | 65 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.11 – Reihenhaus an Borgo Allegri – Teil 11/16 (Y 86–88)
-
-- **Y-Bereich:** 86 bis 88
-- **Blöcke:** 1.746
-- **Bauteile:** `r1606430`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.746 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.12 – Reihenhaus an Borgo Allegri – Teil 12/16 (Y 89–91)
-
-- **Y-Bereich:** 89 bis 91
-- **Blöcke:** 1.575
-- **Bauteile:** `r1606430`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.134 |
-| Graues Buntglas | `gray_stained_glass` | 246 |
-| Grüner Beton | `green_concrete` | 195 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.13 – Reihenhaus an Borgo Allegri – Teil 13/16 (Y 92–93)
-
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.650
 - **Bauteile:** `r1606430`
 
@@ -433,9 +464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.14 – Reihenhaus an Borgo Allegri – Teil 14/16 (Y 94–94)
+### Schritt 14.15 – Reihenhaus an Borgo Allegri – Teil 15/17 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.638
 - **Bauteile:** `r1606430`
 
@@ -461,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.15 – Reihenhaus an Borgo Allegri – Teil 15/16 (Y 95–96)
+### Schritt 14.16 – Reihenhaus an Borgo Allegri – Teil 16/17 (Y 96–97)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.311
 - **Bauteile:** `r1606430`
 
@@ -489,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.16 – Reihenhaus an Borgo Allegri – Teil 16/16 (Y 97–104)
+### Schritt 14.17 – Reihenhaus an Borgo Allegri – Teil 17/17 (Y 98–105)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 98 bis 105
 - **Blöcke:** 1.486
 - **Bauteile:** `r1606430`
 
@@ -518,9 +549,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.17 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 1/6 (Y 63–72)
+### Schritt 14.18 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 1/6 (Y 64–73)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.282
 - **Bauteile:** `r1606430_innen`
 
@@ -556,9 +587,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.18 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 14.19 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 2/6 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.197
 - **Bauteile:** `r1606430_innen`
 
@@ -592,9 +623,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.19 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 3/6 (Y 73–79)
+### Schritt 14.20 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 3/6 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.269
 - **Bauteile:** `r1606430_innen`
 
@@ -634,9 +665,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.20 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 4/6 (Y 79–79)
+### Schritt 14.21 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 4/6 (Y 80–80)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.197
 - **Bauteile:** `r1606430_innen`
 
@@ -670,9 +701,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.21 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 5/6 (Y 80–86)
+### Schritt 14.22 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 5/6 (Y 81–87)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.266
 - **Bauteile:** `r1606430_innen`
 
@@ -710,9 +741,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.22 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 6/6 (Y 86–87)
+### Schritt 14.23 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 6/6 (Y 87–88)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.203
 - **Bauteile:** `r1606430_innen`
 

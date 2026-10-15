@@ -8,51 +8,51 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 109.495 |
-| Bauschritte | 62 |
+| Blöcke | 58.197 |
+| Bauschritte | 37 |
 | Y-Bereich | 48 bis 63 |
 | X-Ausdehnung | -2144 bis -1825 (320 Blöcke) |
 | Z-Ausdehnung | -848 bis -529 (320 Blöcke) |
-| Kleinster Schritt | 467 Blöcke (Schritt 33.51) |
-| Mittlerer Schritt | 1.766 Blöcke |
-| Größter Schritt | 2.090 Blöcke (Schritt 33.26) |
+| Kleinster Schritt | 527 Blöcke (Schritt 33.36) |
+| Mittlerer Schritt | 1.573 Blöcke |
+| Größter Schritt | 2.048 Blöcke (Schritt 33.21) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 81.666 | 74,6 % |
-| Grasblock | `grass_block` | 13.675 | 12,5 % |
-| Stein | `stone` | 6.519 | 6,0 % |
-| Glatter Stein | `smooth_stone` | 6.384 | 5,8 % |
-| Steinziegel | `stone_bricks` | 724 | 0,7 % |
-| Kies | `gravel` | 527 | 0,5 % |
+| Polierter Tuffstein | `polished_tuff` | 31.859 | 54,7 % |
+| Grasblock | `grass_block` | 13.648 | 23,5 % |
+| Stein | `stone` | 6.068 | 10,4 % |
+| Glatter Stein | `smooth_stone` | 5.383 | 9,2 % |
+| Steinziegel | `stone_bricks` | 712 | 1,2 % |
+| Kies | `gravel` | 527 | 0,9 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 6.519 | 33.1–33.4 |
-| 2 | `strassen_pflaster` | Straßenpflaster | 10.159 | 33.5–33.10 |
-| 3 | `gehwege` | Gehwege | 6.204 | 33.11–33.14 |
-| 4 | `hof_pflaster` | Höfe | 71.507 | 33.15–33.51 |
-| 5 | `rasen` | Grün und offenes Gelände | 13.675 | 33.52–33.60 |
-| 6 | `gruen_wege` | Wege im Grün | 527 | 33.61 |
-| 7 | `mauern_garten` | Gartenmauern | 904 | 33.62 |
+| 1 | `boeschung` | Böschung und Mantel | 6.068 | 33.1–33.4 |
+| 2 | `strassen_pflaster` | Straßenpflaster | 10.032 | 33.5–33.10 |
+| 3 | `gehwege` | Gehwege | 5.205 | 33.11–33.14 |
+| 4 | `hof_pflaster` | Höfe | 21.827 | 33.15–33.26 |
+| 5 | `rasen` | Grün und offenes Gelände | 13.648 | 33.27–33.35 |
+| 6 | `gruen_wege` | Wege im Grün | 527 | 33.36 |
+| 7 | `mauern_garten` | Gartenmauern | 890 | 33.37 |
 
 ## Bauschritte
 
 ### Schritt 33.1 – Böschung und Mantel – Teil 1/4 (Y 48–55)
 
 - **Y-Bereich:** 48 bis 55
-- **Blöcke:** 2.003
+- **Blöcke:** 1.532
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.003 |
+| Stein | `stone` | 1.532 |
 
 **Beschreibung**
 
@@ -73,14 +73,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 33.2 – Böschung und Mantel – Teil 2/4 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.058
+- **Blöcke:** 1.589
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.058 |
+| Stein | `stone` | 1.589 |
 
 **Beschreibung**
 
@@ -101,14 +101,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 33.3 – Böschung und Mantel – Teil 3/4 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.884
+- **Blöcke:** 2.029
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.884 |
+| Stein | `stone` | 2.029 |
 
 **Beschreibung**
 
@@ -126,17 +126,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 33.4 – Böschung und Mantel – Teil 4/4 (Y 58–61)
+### Schritt 33.4 – Böschung und Mantel – Teil 4/4 (Y 58–60)
 
-- **Y-Bereich:** 58 bis 61
-- **Blöcke:** 574
+- **Y-Bereich:** 58 bis 60
+- **Blöcke:** 918
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 574 |
+| Stein | `stone` | 918 |
 
 **Beschreibung**
 
@@ -297,14 +297,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 33.10 – Straßenpflaster – Teil 6/6 (Y 57–58)
 
 - **Y-Bereich:** 57 bis 58
-- **Blöcke:** 2.088
+- **Blöcke:** 1.961
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.088 |
+| Polierter Tuffstein | `polished_tuff` | 1.961 |
 
 **Beschreibung**
 
@@ -325,14 +325,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 33.11 – Gehwege – Teil 1/4 (Y 55–56)
 
 - **Y-Bereich:** 55 bis 56
-- **Blöcke:** 1.508
+- **Blöcke:** 1.280
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.508 |
+| Glatter Stein | `smooth_stone` | 1.280 |
 
 **Beschreibung**
 
@@ -353,14 +353,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 33.12 – Gehwege – Teil 2/4 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.467
+- **Blöcke:** 1.237
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.467 |
+| Glatter Stein | `smooth_stone` | 1.237 |
 
 **Beschreibung**
 
@@ -381,14 +381,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 33.13 – Gehwege – Teil 3/4 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.418
+- **Blöcke:** 1.193
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.418 |
+| Glatter Stein | `smooth_stone` | 1.193 |
 
 **Beschreibung**
 
@@ -409,14 +409,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 33.14 – Gehwege – Teil 4/4 (Y 57–59)
 
 - **Y-Bereich:** 57 bis 59
-- **Blöcke:** 1.811
+- **Blöcke:** 1.495
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.811 |
+| Glatter Stein | `smooth_stone` | 1.495 |
 
 **Beschreibung**
 
@@ -434,17 +434,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 33.15 – Höfe – Teil 1/37 (Y 48–53)
+### Schritt 33.15 – Höfe – Teil 1/12 (Y 48–55)
 
-- **Y-Bereich:** 48 bis 53
-- **Blöcke:** 1.274
+- **Y-Bereich:** 48 bis 55
+- **Blöcke:** 1.525
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.274 |
+| Polierter Tuffstein | `polished_tuff` | 1.525 |
 
 **Beschreibung**
 
@@ -462,101 +462,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.16 – Höfe – Teil 2/37 (Y 54–54)
-
-- **Y-Bereich:** 54 bis 54
-- **Blöcke:** 1.518
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.518 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.17 – Höfe – Teil 3/37 (Y 55–55)
-
-- **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.699
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.699 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.18 – Höfe – Teil 4/37 (Y 55–55)
-
-- **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.740
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.740 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.19 – Höfe – Teil 5/37 (Y 56–56)
+### Schritt 33.16 – Höfe – Teil 2/12 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
+- **Blöcke:** 1.606
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
+| Polierter Tuffstein | `polished_tuff` | 1.606 |
 
 **Beschreibung**
 
@@ -574,17 +490,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.20 – Höfe – Teil 6/37 (Y 56–56)
+### Schritt 33.17 – Höfe – Teil 3/12 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
+- **Blöcke:** 1.603
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
+| Polierter Tuffstein | `polished_tuff` | 1.603 |
 
 **Beschreibung**
 
@@ -602,17 +518,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.21 – Höfe – Teil 7/37 (Y 56–56)
+### Schritt 33.18 – Höfe – Teil 4/12 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
+- **Blöcke:** 1.637
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
+| Polierter Tuffstein | `polished_tuff` | 1.637 |
 
 **Beschreibung**
 
@@ -630,129 +546,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.22 – Höfe – Teil 8/37 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.23 – Höfe – Teil 9/37 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.24 – Höfe – Teil 10/37 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.25 – Höfe – Teil 11/37 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.26 – Höfe – Teil 12/37 (Y 57–57)
+### Schritt 33.19 – Höfe – Teil 5/12 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
+- **Blöcke:** 2.016
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
+| Polierter Tuffstein | `polished_tuff` | 2.016 |
 
 **Beschreibung**
 
@@ -770,17 +574,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.27 – Höfe – Teil 13/37 (Y 57–57)
+### Schritt 33.20 – Höfe – Teil 6/12 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
+- **Blöcke:** 2.023
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
+| Polierter Tuffstein | `polished_tuff` | 2.023 |
 
 **Beschreibung**
 
@@ -798,17 +602,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.28 – Höfe – Teil 14/37 (Y 57–57)
+### Schritt 33.21 – Höfe – Teil 7/12 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.089
+- **Blöcke:** 2.048
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
+| Polierter Tuffstein | `polished_tuff` | 2.048 |
 
 **Beschreibung**
 
@@ -826,17 +630,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.29 – Höfe – Teil 15/37 (Y 57–57)
+### Schritt 33.22 – Höfe – Teil 8/12 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
+- **Blöcke:** 2.015
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
+| Polierter Tuffstein | `polished_tuff` | 2.015 |
 
 **Beschreibung**
 
@@ -854,325 +658,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.30 – Höfe – Teil 16/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.31 – Höfe – Teil 17/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.32 – Höfe – Teil 18/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.33 – Höfe – Teil 19/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.089
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.34 – Höfe – Teil 20/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.35 – Höfe – Teil 21/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.36 – Höfe – Teil 22/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.37 – Höfe – Teil 23/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.38 – Höfe – Teil 24/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.089
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.089 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.39 – Höfe – Teil 25/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.40 – Höfe – Teil 26/37 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.090
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.090 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.41 – Höfe – Teil 27/37 (Y 58–58)
+### Schritt 33.23 – Höfe – Teil 9/12 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.873
+- **Blöcke:** 2.027
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.873 |
+| Polierter Tuffstein | `polished_tuff` | 2.027 |
 
 **Beschreibung**
 
@@ -1190,17 +686,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.42 – Höfe – Teil 28/37 (Y 58–58)
+### Schritt 33.24 – Höfe – Teil 10/12 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.993
+- **Blöcke:** 1.994
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.993 |
+| Polierter Tuffstein | `polished_tuff` | 1.994 |
 
 **Beschreibung**
 
@@ -1218,17 +714,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.43 – Höfe – Teil 29/37 (Y 58–58)
+### Schritt 33.25 – Höfe – Teil 11/12 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.890
+- **Blöcke:** 2.026
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.890 |
+| Polierter Tuffstein | `polished_tuff` | 2.026 |
 
 **Beschreibung**
 
@@ -1246,17 +742,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.44 – Höfe – Teil 30/37 (Y 58–58)
+### Schritt 33.26 – Höfe – Teil 12/12 (Y 59–61)
 
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.917
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.307
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.917 |
+| Polierter Tuffstein | `polished_tuff` | 1.307 |
 
 **Beschreibung**
 
@@ -1274,203 +770,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 33.45 – Höfe – Teil 31/37 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.938
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.938 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.46 – Höfe – Teil 32/37 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.882
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.882 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.47 – Höfe – Teil 33/37 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.917
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.917 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.48 – Höfe – Teil 34/37 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.968
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.968 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.49 – Höfe – Teil 35/37 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.879
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.879 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.50 – Höfe – Teil 36/37 (Y 59–59)
-
-- **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.645
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.645 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.51 – Höfe – Teil 37/37 (Y 60–61)
-
-- **Y-Bereich:** 60 bis 61
-- **Blöcke:** 467
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 467 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 33.52 – Grün und offenes Gelände – Teil 1/9 (Y 55–55)
+### Schritt 33.27 – Grün und offenes Gelände – Teil 1/9 (Y 55–55)
 
 - **Y-Bereich:** 55 bis 55
 - **Blöcke:** 988
@@ -1498,7 +798,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.53 – Grün und offenes Gelände – Teil 2/9 (Y 56–56)
+### Schritt 33.28 – Grün und offenes Gelände – Teil 2/9 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.671
@@ -1526,7 +826,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.54 – Grün und offenes Gelände – Teil 3/9 (Y 56–56)
+### Schritt 33.29 – Grün und offenes Gelände – Teil 3/9 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.725
@@ -1554,7 +854,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.55 – Grün und offenes Gelände – Teil 4/9 (Y 56–56)
+### Schritt 33.30 – Grün und offenes Gelände – Teil 4/9 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.608
@@ -1582,7 +882,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.56 – Grün und offenes Gelände – Teil 5/9 (Y 56–56)
+### Schritt 33.31 – Grün und offenes Gelände – Teil 5/9 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.709
@@ -1610,17 +910,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.57 – Grün und offenes Gelände – Teil 6/9 (Y 57–57)
+### Schritt 33.32 – Grün und offenes Gelände – Teil 6/9 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.578
+- **Blöcke:** 1.575
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.578 |
+| Grasblock | `grass_block` | 1.575 |
 
 **Beschreibung**
 
@@ -1638,17 +938,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.58 – Grün und offenes Gelände – Teil 7/9 (Y 57–57)
+### Schritt 33.33 – Grün und offenes Gelände – Teil 7/9 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.583
+- **Blöcke:** 1.580
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.583 |
+| Grasblock | `grass_block` | 1.580 |
 
 **Beschreibung**
 
@@ -1666,17 +966,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.59 – Grün und offenes Gelände – Teil 8/9 (Y 57–57)
+### Schritt 33.34 – Grün und offenes Gelände – Teil 8/9 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.589
+- **Blöcke:** 1.575
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.589 |
+| Grasblock | `grass_block` | 1.575 |
 
 **Beschreibung**
 
@@ -1694,17 +994,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.60 – Grün und offenes Gelände – Teil 9/9 (Y 58–59)
+### Schritt 33.35 – Grün und offenes Gelände – Teil 9/9 (Y 58–59)
 
 - **Y-Bereich:** 58 bis 59
-- **Blöcke:** 1.224
+- **Blöcke:** 1.217
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.224 |
+| Grasblock | `grass_block` | 1.217 |
 
 **Beschreibung**
 
@@ -1722,7 +1022,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 33.61 – Wege im Grün
+### Schritt 33.36 – Wege im Grün
 
 - **Y-Bereich:** 55 bis 56
 - **Blöcke:** 527
@@ -1750,18 +1050,18 @@ Treppen im Park bleiben Treppenflächen.
 
 Die Kieswege von Boboli sind typisch für italienische Gärten.
 
-### Schritt 33.62 – Gartenmauern
+### Schritt 33.37 – Gartenmauern
 
 - **Y-Bereich:** 54 bis 63
-- **Blöcke:** 904
+- **Blöcke:** 890
 - **Bauteile:** `mauern_garten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 724 |
-| Glatter Stein | `smooth_stone` | 180 |
+| Steinziegel | `stone_bricks` | 712 |
+| Glatter Stein | `smooth_stone` | 178 |
 
 **Beschreibung**
 

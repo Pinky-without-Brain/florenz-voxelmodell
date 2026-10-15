@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 17.313 |
+| Blöcke | 17.631 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 69 bis 107 |
 | X-Ausdehnung | 507 bis 563 (57 Blöcke) |
 | Z-Ausdehnung | -1096 bis -1034 (63 Blöcke) |
-| Kleinster Schritt | 1.684 Blöcke (Schritt 12.3) |
-| Mittlerer Schritt | 1.924 Blöcke |
-| Größter Schritt | 2.041 Blöcke (Schritt 12.1) |
+| Kleinster Schritt | 1.696 Blöcke (Schritt 12.9) |
+| Mittlerer Schritt | 1.959 Blöcke |
+| Größter Schritt | 2.070 Blöcke (Schritt 12.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 7.914 | 45,7 % |
-| Terrakotta | `terracotta` | 3.366 | 19,4 % |
-| Polierter Andesit | `polished_andesite` | 2.418 | 14,0 % |
-| Polierter Tuffstein | `polished_tuff` | 1.213 | 7,0 % |
-| Graues Buntglas | `gray_stained_glass` | 955 | 5,5 % |
-| Glatter Stein | `smooth_stone` | 572 | 3,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 7.914 | 44,9 % |
+| Terrakotta | `terracotta` | 3.366 | 19,1 % |
+| Polierter Andesit | `polished_andesite` | 2.418 | 13,7 % |
+| Polierter Tuffstein | `polished_tuff` | 1.213 | 6,9 % |
+| Graues Buntglas | `gray_stained_glass` | 955 | 5,4 % |
+| Glatter Stein | `smooth_stone` | 572 | 3,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 385 | 2,2 % |
-| Grüner Beton | `green_concrete` | 322 | 1,9 % |
+| Grüner Beton | `green_concrete` | 322 | 1,8 % |
+| Tuffstein | `tuff` | 318 | 1,8 % |
 | Ziegelsteine | `bricks` | 82 | 0,5 % |
 | Seelaterne | `sea_lantern` | 21 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
@@ -51,15 +52,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w113005162` | Haus w113005162 | 15.617 | 12.1–12.8 |
+| 1 | `w113005162` | Haus w113005162 | 15.935 | 12.1–12.8 |
 | 2 | `w113005162_innen` | Haus w113005162: Innenausbau | 1.696 | 12.9 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Haus w113005162 – Teil 1/8 (Y 63–65)
+### Schritt 12.1 – Haus w113005162 – Teil 1/8 (Y 69–71)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 2.041
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.945
 - **Bauteile:** `w113005162`
 
 **Teileliste**
@@ -67,9 +68,10 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.213 |
-| Gelbe Keramik | `yellow_terracotta` | 784 |
-| Polierter Andesit | `polished_andesite` | 42 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
+| Gelbe Keramik | `yellow_terracotta` | 383 |
+| Tuffstein | `tuff` | 318 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
@@ -87,21 +89,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Haus w113005162 – Teil 2/8 (Y 66–70)
+### Schritt 12.2 – Haus w113005162 – Teil 2/8 (Y 72–76)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.982
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 2.010
 - **Bauteile:** `w113005162`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.121 |
-| Polierter Andesit | `polished_andesite` | 544 |
-| Graues Buntglas | `gray_stained_glass` | 240 |
+| Gelbe Keramik | `yellow_terracotta` | 1.288 |
+| Polierter Andesit | `polished_andesite` | 458 |
+| Graues Buntglas | `gray_stained_glass` | 186 |
 | Grüner Beton | `green_concrete` | 69 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
@@ -119,19 +121,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Haus w113005162 – Teil 3/8 (Y 71–74)
+### Schritt 12.3 – Haus w113005162 – Teil 3/8 (Y 77–81)
 
-- **Y-Bereich:** 71 bis 74
-- **Blöcke:** 1.684
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 2.070
 - **Bauteile:** `w113005162`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.249 |
+| Gelbe Keramik | `yellow_terracotta` | 1.483 |
+| Polierter Andesit | `polished_andesite` | 273 |
 | Glatter Stein | `smooth_stone` | 260 |
-| Polierter Andesit | `polished_andesite` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
 
@@ -149,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Haus w113005162 – Teil 4/8 (Y 75–79)
+### Schritt 12.4 – Haus w113005162 – Teil 4/8 (Y 82–86)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 82 bis 86
 - **Blöcke:** 1.988
 - **Bauteile:** `w113005162`
 
@@ -180,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.5 – Haus w113005162 – Teil 5/8 (Y 80–84)
+### Schritt 12.5 – Haus w113005162 – Teil 5/8 (Y 87–91)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 87 bis 91
 - **Blöcke:** 2.025
 - **Bauteile:** `w113005162`
 
@@ -212,9 +215,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Haus w113005162 – Teil 6/8 (Y 85–89)
+### Schritt 12.6 – Haus w113005162 – Teil 6/8 (Y 92–96)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.988
 - **Bauteile:** `w113005162`
 
@@ -243,9 +246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Haus w113005162 – Teil 7/8 (Y 90–93)
+### Schritt 12.7 – Haus w113005162 – Teil 7/8 (Y 97–100)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 97 bis 100
 - **Blöcke:** 2.029
 - **Bauteile:** `w113005162`
 
@@ -275,9 +278,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.8 – Haus w113005162 – Teil 8/8 (Y 94–100)
+### Schritt 12.8 – Haus w113005162 – Teil 8/8 (Y 101–107)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.880
 - **Bauteile:** `w113005162`
 
@@ -306,7 +309,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.9 – Haus w113005162: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 70 bis 91
 - **Blöcke:** 1.696
 - **Bauteile:** `w113005162_innen`
 

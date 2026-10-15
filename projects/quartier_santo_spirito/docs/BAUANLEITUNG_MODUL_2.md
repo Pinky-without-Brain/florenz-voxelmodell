@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.221 |
+| Blöcke | 16.226 |
 | Bauschritte | 10 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 62 bis 97 |
 | X-Ausdehnung | -1058 bis -1016 (43 Blöcke) |
 | Z-Ausdehnung | 1278 bis 1350 (73 Blöcke) |
-| Kleinster Schritt | 892 Blöcke (Schritt 2.10) |
-| Mittlerer Schritt | 1.622 Blöcke |
+| Kleinster Schritt | 897 Blöcke (Schritt 2.10) |
+| Mittlerer Schritt | 1.623 Blöcke |
 | Größter Schritt | 1.913 Blöcke (Schritt 2.2) |
 
 ## Gesamt-Stückliste
@@ -42,6 +42,9 @@
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -58,12 +61,13 @@
 | 2 | `r1629428_innen` | Palazzo des Cinquecento an Piazza della Passera: Innenausbau | 1.398 | 2.6 |
 | 3 | `w463258225` | Reihenhaus an Via dello Sprone | 4.992 | 2.7–2.9 |
 | 4 | `w463258225_innen` | Reihenhaus an Via dello Sprone: Innenausbau | 892 | 2.10 |
+| 5 | `strassenschilder` | Straßenschilder | 5 | 2.10 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Palazzo des Cinquecento an Piazza della Passera – Teil 1/5 (Y 63–66)
+### Schritt 2.1 – Palazzo des Cinquecento an Piazza della Passera – Teil 1/5 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.789
 - **Bauteile:** `r1629428`
 
@@ -94,9 +98,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Palazzo des Cinquecento an Piazza della Passera – Teil 2/5 (Y 67–73)
+### Schritt 2.2 – Palazzo des Cinquecento an Piazza della Passera – Teil 2/5 (Y 66–72)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.913
 - **Bauteile:** `r1629428`
 
@@ -128,9 +132,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Palazzo des Cinquecento an Piazza della Passera – Teil 3/5 (Y 74–79)
+### Schritt 2.3 – Palazzo des Cinquecento an Piazza della Passera – Teil 3/5 (Y 73–78)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.694
 - **Bauteile:** `r1629428`
 
@@ -161,9 +165,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Palazzo des Cinquecento an Piazza della Passera – Teil 4/5 (Y 80–85)
+### Schritt 2.4 – Palazzo des Cinquecento an Piazza della Passera – Teil 4/5 (Y 79–84)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 79 bis 84
 - **Blöcke:** 1.753
 - **Bauteile:** `r1629428`
 
@@ -194,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Palazzo des Cinquecento an Piazza della Passera – Teil 5/5 (Y 86–92)
+### Schritt 2.5 – Palazzo des Cinquecento an Piazza della Passera – Teil 5/5 (Y 85–91)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.790
 - **Bauteile:** `r1629428`
 
@@ -228,7 +232,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.6 – Palazzo des Cinquecento an Piazza della Passera: Innenausbau
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 62 bis 79
 - **Blöcke:** 1.398
 - **Bauteile:** `r1629428_innen`
 
@@ -270,9 +274,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.7 – Reihenhaus an Via dello Sprone – Teil 1/3 (Y 63–73)
+### Schritt 2.7 – Reihenhaus an Via dello Sprone – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.642
 - **Bauteile:** `w463258225`
 
@@ -304,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.8 – Reihenhaus an Via dello Sprone – Teil 2/3 (Y 74–86)
+### Schritt 2.8 – Reihenhaus an Via dello Sprone – Teil 2/3 (Y 73–85)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.625
 - **Bauteile:** `w463258225`
 
@@ -335,9 +339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.9 – Reihenhaus an Via dello Sprone – Teil 3/3 (Y 87–98)
+### Schritt 2.9 – Reihenhaus an Via dello Sprone – Teil 3/3 (Y 86–97)
 
-- **Y-Bereich:** 87 bis 98
+- **Y-Bereich:** 86 bis 97
 - **Blöcke:** 1.725
 - **Bauteile:** `w463258225`
 
@@ -368,11 +372,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.10 – Reihenhaus an Via dello Sprone: Innenausbau
+### Schritt 2.10 – Reihenhaus an Via dello Sprone: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 892
-- **Bauteile:** `w463258225_innen`
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 897
+- **Bauteile:** `w463258225_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -385,8 +389,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 7 |
 | Weiße Keramik | `white_terracotta` | 7 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -396,16 +403,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

@@ -8,31 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.002 |
+| Blöcke | 9.234 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 139 bis 183 |
 | X-Ausdehnung | -1245 bis -1208 (38 Blöcke) |
 | Z-Ausdehnung | 2187 bis 2216 (30 Blöcke) |
 | Kleinster Schritt | 968 Blöcke (Schritt 2.5) |
-| Mittlerer Schritt | 1.600 Blöcke |
-| Größter Schritt | 1.859 Blöcke (Schritt 2.3) |
+| Mittlerer Schritt | 1.847 Blöcke |
+| Größter Schritt | 2.084 Blöcke (Schritt 2.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 4.144 | 51,8 % |
-| Terrakotta | `terracotta` | 1.573 | 19,7 % |
-| Weißer Beton | `white_concrete` | 832 | 10,4 % |
-| Polierter Tuffstein | `polished_tuff` | 484 | 6,0 % |
-| Graues Buntglas | `gray_stained_glass` | 420 | 5,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 191 | 2,4 % |
-| Grüner Beton | `green_concrete` | 129 | 1,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,8 % |
-| Glatter Stein | `smooth_stone` | 63 | 0,8 % |
-| Ziegelsteine | `bricks` | 38 | 0,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.144 | 44,9 % |
+| Terrakotta | `terracotta` | 1.573 | 17,0 % |
+| Tuffstein | `tuff` | 1.232 | 13,3 % |
+| Weißer Beton | `white_concrete` | 832 | 9,0 % |
+| Polierter Tuffstein | `polished_tuff` | 484 | 5,2 % |
+| Graues Buntglas | `gray_stained_glass` | 420 | 4,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 191 | 2,1 % |
+| Grüner Beton | `green_concrete` | 129 | 1,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,7 % |
+| Glatter Stein | `smooth_stone` | 63 | 0,7 % |
+| Ziegelsteine | `bricks` | 38 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,2 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 3 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
@@ -47,27 +48,26 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w375220463` | Haus w375220463 | 7.034 | 2.1–2.4 |
+| 1 | `w375220463` | Haus w375220463 | 8.266 | 2.1–2.4 |
 | 2 | `w375220463_innen` | Haus w375220463: Innenausbau | 968 | 2.5 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Haus w375220463 – Teil 1/4 (Y 63–70)
+### Schritt 2.1 – Haus w375220463 – Teil 1/4 (Y 139–150)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.765
+- **Y-Bereich:** 139 bis 150
+- **Blöcke:** 2.084
 - **Bauteile:** `w375220463`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 953 |
+| Tuffstein | `tuff` | 1.232 |
 | Polierter Tuffstein | `polished_tuff` | 484 |
-| Weißer Beton | `white_concrete` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Glatter Stein | `smooth_stone` | 63 |
-| Grüner Beton | `green_concrete` | 12 |
+| Glatter Sandstein | `smooth_sandstone` | 336 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
@@ -85,19 +85,51 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Haus w375220463 – Teil 2/4 (Y 71–79)
+### Schritt 2.2 – Haus w375220463 – Teil 2/4 (Y 151–161)
 
-- **Y-Bereich:** 71 bis 79
-- **Blöcke:** 1.697
+- **Y-Bereich:** 151 bis 161
+- **Blöcke:** 2.038
 - **Bauteile:** `w375220463`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.325 |
-| Weißer Beton | `white_concrete` | 228 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
+| Glatter Sandstein | `smooth_sandstone` | 1.479 |
+| Weißer Beton | `white_concrete` | 291 |
+| Graues Buntglas | `gray_stained_glass` | 170 |
+| Grüner Beton | `green_concrete` | 51 |
+| Glatter Stein | `smooth_stone` | 47 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 2.3 – Haus w375220463 – Teil 3/4 (Y 162–172)
+
+- **Y-Bereich:** 162 bis 172
+- **Blöcke:** 2.073
+- **Bauteile:** `w375220463`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.536 |
+| Weißer Beton | `white_concrete` | 369 |
+| Graues Buntglas | `gray_stained_glass` | 129 |
 | Grüner Beton | `green_concrete` | 39 |
 
 **Beschreibung**
@@ -116,54 +148,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Haus w375220463 – Teil 3/4 (Y 80–89)
+### Schritt 2.4 – Haus w375220463 – Teil 4/4 (Y 173–183)
 
-- **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.859
+- **Y-Bereich:** 173 bis 183
+- **Blöcke:** 2.071
 - **Bauteile:** `w375220463`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.293 |
-| Weißer Beton | `white_concrete` | 342 |
-| Graues Buntglas | `gray_stained_glass` | 159 |
-| Grüner Beton | `green_concrete` | 65 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 2.4 – Haus w375220463 – Teil 4/4 (Y 90–98)
-
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.713
-- **Bauteile:** `w375220463`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 793 |
 | Terrakotta | `terracotta` | 733 |
-| Glatter Sandstein | `smooth_sandstone` | 573 |
 | Fichtenholz-Bretter | `spruce_planks` | 191 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
+| Weißer Beton | `white_concrete` | 172 |
+| Graues Buntglas | `gray_stained_glass` | 105 |
+| Grüner Beton | `green_concrete` | 39 |
 | Ziegelsteine | `bricks` | 38 |
-| Grüner Beton | `green_concrete` | 13 |
 
 **Beschreibung**
 
@@ -183,7 +184,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.5 – Haus w375220463: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 148 bis 172
 - **Blöcke:** 968
 - **Bauteile:** `w375220463_innen`
 

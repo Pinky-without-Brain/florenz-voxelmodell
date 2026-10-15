@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 3.066 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 84 bis 116 |
 | X-Ausdehnung | 643 bis 659 (17 Blöcke) |
 | Z-Ausdehnung | 2327 bis 2344 (18 Blöcke) |
 | Kleinster Schritt | 1.513 Blöcke (Schritt 35.1) |
@@ -37,9 +37,9 @@
 
 ## Bauschritte
 
-### Schritt 35.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/2 (Y 63–78)
+### Schritt 35.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/2 (Y 84–99)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 84 bis 99
 - **Blöcke:** 1.513
 - **Bauteile:** `w120114783`
 
@@ -68,9 +68,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/2 (Y 79–95) & Reihenhaus an Via dell'Erta Canina: Innenausbau
+### Schritt 35.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/2 (Y 100–116) & Reihenhaus an Via dell'Erta Canina: Innenausbau
 
-- **Y-Bereich:** 63 bis 95
+- **Y-Bereich:** 84 bis 116
 - **Blöcke:** 1.553
 - **Bauteile:** `w120114783`, `w120114783_innen`
 

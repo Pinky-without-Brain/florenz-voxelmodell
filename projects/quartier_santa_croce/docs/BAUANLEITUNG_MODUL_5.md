@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.151 |
+| Blöcke | 84.158 |
 | Bauschritte | 55 |
-| Y-Bereich | 63 bis 100 |
-| X-Ausdehnung | 449 bis 627 (179 Blöcke) |
+| Y-Bereich | 62 bis 100 |
+| X-Ausdehnung | 448 bis 627 (180 Blöcke) |
 | Z-Ausdehnung | 747 bis 873 (127 Blöcke) |
 | Kleinster Schritt | 461 Blöcke (Schritt 5.23) |
 | Mittlerer Schritt | 1.530 Blöcke |
@@ -21,13 +21,13 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 25.204 | 30,0 % |
+| Terrakotta | `terracotta` | 25.144 | 29,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 8.621 | 10,2 % |
 | Polierter Tuffstein | `polished_tuff` | 8.230 | 9,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.968 | 9,5 % |
 | Endsteinziegel | `end_stone_bricks` | 7.461 | 8,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 7.173 | 8,5 % |
-| Orange Keramik | `orange_terracotta` | 7.168 | 8,5 % |
+| Orange Keramik | `orange_terracotta` | 7.208 | 8,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 7.193 | 8,5 % |
 | Rosa Keramik | `pink_terracotta` | 2.800 | 3,3 % |
 | Weißer Beton | `white_concrete` | 2.554 | 3,0 % |
 | Glatter Stein | `smooth_stone` | 1.819 | 2,2 % |
@@ -46,6 +46,10 @@
 | Weiße Keramik | `white_terracotta` | 87 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -78,8 +82,8 @@
 | 18 | `w486624939_innen` | Reihenhaus an Via Torta: Innenausbau | 2 | 5.36 |
 | 19 | `w486624941` | Reihenhaus an Via dell'Anguillara | 1.848 | 5.36 |
 | 20 | `w486624941_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 5 | 5.37 |
-| 21 | `w486624942` | Reihenhaus an Via Torta | 4.838 | 5.37–5.39 |
-| 22 | `w486624942_innen` | Reihenhaus an Via Torta: Innenausbau | 2.011 | 5.40 |
+| 21 | `w486624942` | Reihenhaus an Via Torta | 4.878 | 5.37–5.39 |
+| 22 | `w486624942_innen` | Reihenhaus an Via Torta: Innenausbau | 1.971 | 5.40 |
 | 23 | `w486624946` | Reihenhaus an Via dell'Anguillara | 3.567 | 5.41–5.42 |
 | 24 | `w486624946_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 730 | 5.43 |
 | 25 | `w486624950` | Reihenhaus an Via Torta | 2.726 | 5.44–5.45 |
@@ -88,8 +92,9 @@
 | 28 | `w486624952_innen` | Reihenhaus an Via Torta: Innenausbau | 1.911 | 5.49 |
 | 29 | `w486624955` | Reihenhaus an Via dell'Anguillara | 2.300 | 5.50–5.51 |
 | 30 | `w486624955_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 666 | 5.52 |
-| 31 | `w486624956` | Reihenhaus an Via dell'Anguillara | 2.560 | 5.53–5.54 |
-| 32 | `w486624956_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 963 | 5.55 |
+| 31 | `w486624956` | Reihenhaus an Via dell'Anguillara | 2.580 | 5.53–5.54 |
+| 32 | `w486624956_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 943 | 5.55 |
+| 33 | `strassenschilder` | Straßenschilder | 7 | 5.55 |
 
 ## Bauschritte
 
@@ -264,9 +269,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.6 – Palazzo Cocchi-Serristori – Teil 1/8 (Y 63–63)
+### Schritt 5.6 – Palazzo Cocchi-Serristori – Teil 1/8 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 2.039
 - **Bauteile:** `w307104283`
 
@@ -292,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Palazzo Cocchi-Serristori – Teil 2/8 (Y 64–67)
+### Schritt 5.7 – Palazzo Cocchi-Serristori – Teil 2/8 (Y 63–66)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.382
 - **Bauteile:** `w307104283`
 
@@ -325,9 +330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Palazzo Cocchi-Serristori – Teil 3/8 (Y 68–72)
+### Schritt 5.8 – Palazzo Cocchi-Serristori – Teil 3/8 (Y 67–71)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.738
 - **Bauteile:** `w307104283`
 
@@ -358,9 +363,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Palazzo Cocchi-Serristori – Teil 4/8 (Y 73–76)
+### Schritt 5.9 – Palazzo Cocchi-Serristori – Teil 4/8 (Y 72–75)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.520
 - **Bauteile:** `w307104283`
 
@@ -388,9 +393,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.10 – Palazzo Cocchi-Serristori – Teil 5/8 (Y 77–81)
+### Schritt 5.10 – Palazzo Cocchi-Serristori – Teil 5/8 (Y 76–80)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.808
 - **Bauteile:** `w307104283`
 
@@ -420,9 +425,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.11 – Palazzo Cocchi-Serristori – Teil 6/8 (Y 82–85)
+### Schritt 5.11 – Palazzo Cocchi-Serristori – Teil 6/8 (Y 81–84)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.580
 - **Bauteile:** `w307104283`
 
@@ -453,9 +458,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Palazzo Cocchi-Serristori – Teil 7/8 (Y 86–88)
+### Schritt 5.12 – Palazzo Cocchi-Serristori – Teil 7/8 (Y 85–87)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.975
 - **Bauteile:** `w307104283`
 
@@ -484,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Palazzo Cocchi-Serristori – Teil 8/8 (Y 89–94)
+### Schritt 5.13 – Palazzo Cocchi-Serristori – Teil 8/8 (Y 88–93)
 
-- **Y-Bereich:** 89 bis 94
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.469
 - **Bauteile:** `w307104283`
 
@@ -515,7 +520,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.14 – Palazzo Cocchi-Serristori: Innenausbau
 
-- **Y-Bereich:** 63 bis 75
+- **Y-Bereich:** 62 bis 74
 - **Blöcke:** 1.725
 - **Bauteile:** `w307104283_innen`
 
@@ -792,7 +797,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 5.22 – Reihenhaus an Via Torta
 
-- **Y-Bereich:** 63 bis 90
+- **Y-Bereich:** 62 bis 89
 - **Blöcke:** 2.035
 - **Bauteile:** `w486624929`
 
@@ -825,7 +830,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.23 – Reihenhaus an Via Torta: Innenausbau
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 62 bis 79
 - **Blöcke:** 461
 - **Bauteile:** `w486624929_innen`
 
@@ -1357,14 +1362,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.38 – Reihenhaus an Via Torta – Teil 2/3 (Y 74–88)
 
 - **Y-Bereich:** 74 bis 88
-- **Blöcke:** 1.520
+- **Blöcke:** 1.560
 - **Bauteile:** `w486624942`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.330 |
+| Orange Keramik | `orange_terracotta` | 1.370 |
 | Glatter Stein | `smooth_stone` | 91 |
 | Grüner Beton | `green_concrete` | 54 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
@@ -1421,14 +1426,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.40 – Reihenhaus an Via Torta: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 2.011
+- **Blöcke:** 1.971
 - **Bauteile:** `w486624942_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.863 |
+| Terrakotta | `terracotta` | 1.823 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
@@ -1916,14 +1921,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.54 – Reihenhaus an Via dell'Anguillara – Teil 2/2 (Y 82–98)
 
 - **Y-Bereich:** 82 bis 98
-- **Blöcke:** 1.276
+- **Blöcke:** 1.296
 - **Bauteile:** `w486624956`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 583 |
+| Gelbe Keramik | `yellow_terracotta` | 603 |
 | Terrakotta | `terracotta` | 436 |
 | Glatter Stein | `smooth_stone` | 102 |
 | Graues Buntglas | `gray_stained_glass` | 47 |
@@ -1947,23 +1952,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.55 – Reihenhaus an Via dell'Anguillara: Innenausbau
+### Schritt 5.55 – Reihenhaus an Via dell'Anguillara: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 963
-- **Bauteile:** `w486624956_innen`
+- **Blöcke:** 950
+- **Bauteile:** `w486624956_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 837 |
+| Terrakotta | `terracotta` | 817 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 4 |
 | Weiße Keramik | `white_terracotta` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1973,16 +1982,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

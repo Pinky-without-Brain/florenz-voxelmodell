@@ -1,0 +1,43 @@
+{
+  "module": 4,
+  "title": "Vierung und Kuppel",
+  "subtitle": "Bautüte 4: Vierungsbögen, Tambour, Kuppel und Laterne",
+  "icon": "🔵",
+  "parts": {
+    "vierungsboegen": {
+      "title": "Vierungsbögen",
+      "description": "Vier Bögen spannen sich zwischen den Vierungspfeilern (Y 95 bis 107).",
+      "tip": "Weißer Putz mit Rand aus Glattem Stein.",
+      "caution": "Unter den Bögen bleibt alles frei.",
+      "fact": "Die Bögen tragen den Kuppelring."
+    },
+    "pendentifs": {
+      "title": "Pendentifs",
+      "description": "In den Ecken leiten Zwickel (Y 105 bis 113) vom Quadrat zum Kreis über.",
+      "tip": "Sie wachsen Lage für Lage nach innen.",
+      "caution": "Die Mitte bleibt offen.",
+      "fact": "Pendentifs sind ein Kennzeichen der Renaissancekuppeln."
+    },
+    "tambour": {
+      "title": "Tambour",
+      "description": "Auf dem Ring steht ein niedriger Tambour mit Rundfenstern (Y 114 bis 123).",
+      "tip": "Fenster aus grauem Glas.",
+      "caution": "Der Tambour ist innen offen.",
+      "fact": "Salvi d'Andrea baute die Kuppel 1479 bis 1481."
+    },
+    "kuppel": {
+      "title": "Kuppel",
+      "description": "Die Kuppelschale wölbt sich bis Y 138; innen weißer Putz, außen Terrakotta.",
+      "tip": "Jede Lage wird ein wenig enger.",
+      "caution": "Innen hohl bis zur Laterne.",
+      "fact": "Die Kirche wurde 1481 geweiht, noch vor ihrer Vollendung 1487."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Obenauf sitzt die kleine Laterne aus hellem Quarz bis Y 146 mit goldener Spitze.",
+      "tip": "Baue sie in der Mitte der Kuppel.",
+      "caution": "Sie ist klein: nur wenige Blöcke breit.",
+      "fact": "Von der Piazza ist die Laterne über dem Dach gerade noch zu sehen."
+    }
+  }
+}

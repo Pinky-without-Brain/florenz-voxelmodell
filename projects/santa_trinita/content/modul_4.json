@@ -1,0 +1,29 @@
+{
+  "module": 4,
+  "title": "Gewölbe und Dächer",
+  "subtitle": "Bautüte 4: Kreuzgewölbe, Decken und Dächer",
+  "icon": "🏠",
+  "parts": {
+    "gewoelbe": {
+      "title": "Kreuzgewölbe",
+      "description": "Mittelschiff und Querhaus tragen Kreuzgewölbe bis Y 104, die Seitenschiffe bis Y 89, der Chor bis Y 97; die Kapellen am Querhaus haben Decken auf Y 83 und 85.",
+      "tip": "Gurtbögen aus Pietra serena an den Jochgrenzen.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Die Gewölbe stammen aus dem Umbau von 1365 bis etwa 1405."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Satteldach über Mittelschiff und Querhaus (First Y 117), Pultdächer über den Seitenschiffen, niedrige Dächer über den Kapellen, alles Terrakotta.",
+      "tip": "Von der Traufe zum First.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Der Campanile lehnt ohne eigenes Fundament an einer Seitenwand und ist nur über das Dach erreichbar."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo Dächer verschieden hoch sind, schließen Schildwände aus Steinziegeln die Lücke.",
+      "tip": "Sie folgen der Dachneigung.",
+      "caution": "Keine Öffnungen.",
+      "fact": "So bleibt der Dachraum dicht."
+    }
+  }
+}

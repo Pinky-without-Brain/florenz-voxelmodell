@@ -8,37 +8,37 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 266.992 |
+| Blöcke | 266.029 |
 | Bauschritte | 143 |
-| Y-Bereich | 48 bis 71 |
+| Y-Bereich | 48 bis 72 |
 | X-Ausdehnung | 96 bis 415 (320 Blöcke) |
 | Z-Ausdehnung | 1392 bis 1711 (320 Blöcke) |
 | Kleinster Schritt | 769 Blöcke (Schritt 145.131) |
-| Mittlerer Schritt | 1.867 Blöcke |
+| Mittlerer Schritt | 1.860 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 145.37) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 153.274 | 57,4 % |
-| Kies | `gravel` | 78.000 | 29,2 % |
+| Wasser | `water` | 153.274 | 57,6 % |
+| Kies | `gravel` | 78.000 | 29,3 % |
 | Grasblock | `grass_block` | 12.555 | 4,7 % |
-| Stein | `stone` | 6.917 | 2,6 % |
-| Polierter Tuffstein | `polished_tuff` | 5.939 | 2,2 % |
+| Polierter Tuffstein | `polished_tuff` | 5.945 | 2,2 % |
+| Stein | `stone` | 5.940 | 2,2 % |
 | Polierter Andesit | `polished_andesite` | 5.749 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 4.558 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 4.566 | 1,7 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 10.750 | 145.1–145.6 |
+| 1 | `boeschung` | Böschung und Mantel | 9.773 | 145.1–145.6 |
 | 2 | `arno_bett` | Flussbett | 76.835 | 145.7–145.47 |
 | 3 | `arno_wasser` | Arno | 153.274 | 145.48–145.123 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 5.160 | 145.124–145.127 |
-| 5 | `gehwege` | Gehwege | 3.642 | 145.128–145.129 |
-| 6 | `hof_pflaster` | Höfe | 842 | 145.130 |
+| 5 | `gehwege` | Gehwege | 3.650 | 145.128–145.129 |
+| 6 | `hof_pflaster` | Höfe | 848 | 145.130 |
 | 7 | `rasen` | Grün und offenes Gelände | 14.226 | 145.131–145.141 |
 | 8 | `gruen_wege` | Wege im Grün | 1.165 | 145.142 |
 | 9 | `ufer_bruestung` | Brüstung der Lungarni | 1.098 | 145.143 |
@@ -103,18 +103,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 145.3 – Böschung und Mantel – Teil 3/6 (Y 56–60)
+### Schritt 145.3 – Böschung und Mantel – Teil 3/6 (Y 56–59)
 
-- **Y-Bereich:** 56 bis 60
-- **Blöcke:** 1.965
+- **Y-Bereich:** 56 bis 59
+- **Blöcke:** 1.574
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.081 |
-| Polierter Andesit | `polished_andesite` | 884 |
+| Stein | `stone` | 857 |
+| Polierter Andesit | `polished_andesite` | 717 |
 
 **Beschreibung**
 
@@ -132,18 +132,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 145.4 – Böschung und Mantel – Teil 4/6 (Y 61–63)
+### Schritt 145.4 – Böschung und Mantel – Teil 4/6 (Y 60–63)
 
-- **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.504
+- **Y-Bereich:** 60 bis 63
+- **Blöcke:** 1.617
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.008 |
-| Polierter Andesit | `polished_andesite` | 496 |
+| Stein | `stone` | 954 |
+| Polierter Andesit | `polished_andesite` | 663 |
 
 **Beschreibung**
 
@@ -164,14 +164,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 145.5 – Böschung und Mantel – Teil 5/6 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.831
+- **Blöcke:** 1.353
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.499 |
+| Stein | `stone` | 1.021 |
 | Polierter Andesit | `polished_andesite` | 332 |
 
 **Beschreibung**
@@ -190,17 +190,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 145.6 – Böschung und Mantel – Teil 6/6 (Y 67–70)
+### Schritt 145.6 – Böschung und Mantel – Teil 6/6 (Y 67–72)
 
-- **Y-Bereich:** 67 bis 70
-- **Blöcke:** 2.031
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.810
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.027 |
+| Stein | `stone` | 1.806 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
@@ -3640,14 +3640,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 145.129 – Gehwege – Teil 2/2 (Y 68–69)
 
 - **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.844
+- **Blöcke:** 1.852
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.842 |
+| Glatter Stein | `smooth_stone` | 1.850 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -3669,14 +3669,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 145.130 – Höfe
 
 - **Y-Bereich:** 67 bis 71
-- **Blöcke:** 842
+- **Blöcke:** 848
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 842 |
+| Polierter Tuffstein | `polished_tuff` | 848 |
 
 **Beschreibung**
 

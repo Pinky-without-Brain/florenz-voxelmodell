@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Fahrbahn und Brüstungen",
+  "subtitle": "Bautüte 2: Pflaster, Brüstungen und Laternen",
+  "icon": "🚶",
+  "parts": {
+    "fahrbahn": {
+      "title": "Fahrbahn",
+      "description": "Über die ganze Brücke läuft ein Pflaster; es schließt an beiden Enden bündig an die Uferstraßen an.",
+      "tip": "Eine Lage über den Bögen.",
+      "caution": "An den Enden keine Stufe.",
+      "fact": "Die Pfeiler sind mit Pietra forte verkleidet, die Fahrbahn mit Porphyr gepflastert."
+    },
+    "bruestung": {
+      "title": "Brüstungen",
+      "description": "An beiden Längsseiten steht eine zwei Blöcke hohe Brüstung mit Abdeckung aus Pietra serena.",
+      "tip": "Nur an den Längsseiten.",
+      "caution": "An den Brückenenden bleibt die Fahrbahn offen.",
+      "fact": "Von der Brüstung blickt man auf den Ponte Vecchio und die Lungarni."
+    },
+    "licht": {
+      "title": "Laternen",
+      "description": "Auf der Brüstung sitzen Laternen im Abstand von 12 Blöcken.",
+      "tip": "Ersetze dazu den Deckstein.",
+      "caution": "Nur auf den Längsseiten.",
+      "fact": "So ist die Brücke auch nachts gut zu sehen."
+    }
+  }
+}

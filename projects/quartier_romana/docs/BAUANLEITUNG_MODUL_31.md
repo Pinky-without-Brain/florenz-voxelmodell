@@ -8,29 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 9.933 |
+| Blöcke | 9.956 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 65 bis 101 |
 | X-Ausdehnung | -2192 bis -2142 (51 Blöcke) |
 | Z-Ausdehnung | 2024 bis 2058 (35 Blöcke) |
 | Kleinster Schritt | 1.086 Blöcke (Schritt 31.6) |
-| Mittlerer Schritt | 1.656 Blöcke |
+| Mittlerer Schritt | 1.659 Blöcke |
 | Größter Schritt | 1.904 Blöcke (Schritt 31.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 6.003 | 60,4 % |
-| Terrakotta | `terracotta` | 1.806 | 18,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.003 | 60,3 % |
+| Terrakotta | `terracotta` | 1.806 | 18,1 % |
 | Weißer Beton | `white_concrete` | 819 | 8,2 % |
-| Polierter Tuffstein | `polished_tuff` | 572 | 5,8 % |
+| Polierter Tuffstein | `polished_tuff` | 572 | 5,7 % |
 | Graues Buntglas | `gray_stained_glass` | 260 | 2,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 223 | 2,2 % |
 | Grüner Beton | `green_concrete` | 71 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 | 0,7 % |
 | Ziegelsteine | `bricks` | 29 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,2 % |
+| Tuffstein | `tuff` | 23 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 18 | 0,2 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
@@ -49,15 +50,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w487046660` | Haus w487046660 | 8.847 | 31.1–31.5 |
+| 1 | `w487046660` | Haus w487046660 | 8.870 | 31.1–31.5 |
 | 2 | `w487046660_innen` | Haus w487046660: Innenausbau | 1.086 | 31.6 |
 
 ## Bauschritte
 
-### Schritt 31.1 – Haus w487046660 – Teil 1/5 (Y 63–68)
+### Schritt 31.1 – Haus w487046660 – Teil 1/5 (Y 65–71)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.756
+- **Y-Bereich:** 65 bis 71
+- **Blöcke:** 1.779
 - **Bauteile:** `w487046660`
 
 **Teileliste**
@@ -68,6 +69,7 @@
 | Polierter Tuffstein | `polished_tuff` | 572 |
 | Weißer Beton | `white_concrete` | 97 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
+| Tuffstein | `tuff` | 23 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Grüner Beton | `green_concrete` | 8 |
 
@@ -87,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.2 – Haus w487046660 – Teil 2/5 (Y 69–75)
+### Schritt 31.2 – Haus w487046660 – Teil 2/5 (Y 72–78)
 
-- **Y-Bereich:** 69 bis 75
+- **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.686
 - **Bauteile:** `w487046660`
 
@@ -118,9 +120,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.3 – Haus w487046660 – Teil 3/5 (Y 76–83)
+### Schritt 31.3 – Haus w487046660 – Teil 3/5 (Y 79–86)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.904
 - **Bauteile:** `w487046660`
 
@@ -149,9 +151,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.4 – Haus w487046660 – Teil 4/5 (Y 84–90)
+### Schritt 31.4 – Haus w487046660 – Teil 4/5 (Y 87–93)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.671
 - **Bauteile:** `w487046660`
 
@@ -180,9 +182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.5 – Haus w487046660 – Teil 5/5 (Y 91–98)
+### Schritt 31.5 – Haus w487046660 – Teil 5/5 (Y 94–101)
 
-- **Y-Bereich:** 91 bis 98
+- **Y-Bereich:** 94 bis 101
 - **Blöcke:** 1.830
 - **Bauteile:** `w487046660`
 
@@ -215,7 +217,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 31.6 – Haus w487046660: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.086
 - **Bauteile:** `w487046660_innen`
 

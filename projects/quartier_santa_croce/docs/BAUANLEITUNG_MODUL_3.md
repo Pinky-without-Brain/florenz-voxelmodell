@@ -8,48 +8,54 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 147.101 |
+| Blöcke | 148.128 |
 | Bauschritte | 96 |
-| Y-Bereich | 63 bis 117 |
+| Y-Bereich | 62 bis 117 |
 | X-Ausdehnung | 394 bis 585 (192 Blöcke) |
 | Z-Ausdehnung | 890 bis 1021 (132 Blöcke) |
 | Kleinster Schritt | 801 Blöcke (Schritt 3.91) |
-| Mittlerer Schritt | 1.532 Blöcke |
+| Mittlerer Schritt | 1.543 Blöcke |
 | Größter Schritt | 2.068 Blöcke (Schritt 3.65) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 50.189 | 34,1 % |
-| Glatter Sandstein | `smooth_sandstone` | 19.976 | 13,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 14.990 | 10,2 % |
-| Polierter Tuffstein | `polished_tuff` | 12.285 | 8,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 10.844 | 7,4 % |
-| Rosa Keramik | `pink_terracotta` | 8.463 | 5,8 % |
+| Terrakotta | `terracotta` | 50.145 | 33,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 19.976 | 13,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 14.990 | 10,1 % |
+| Polierter Tuffstein | `polished_tuff` | 12.274 | 8,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 10.900 | 7,4 % |
+| Rosa Keramik | `pink_terracotta` | 8.463 | 5,7 % |
 | Polierter Andesit | `polished_andesite` | 6.745 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 6.523 | 4,4 % |
-| Tuffstein | `tuff` | 4.353 | 3,0 % |
-| Endsteinziegel | `end_stone_bricks` | 3.238 | 2,2 % |
+| Tuffstein | `tuff` | 5.333 | 3,6 % |
+| Endsteinziegel | `end_stone_bricks` | 3.264 | 2,2 % |
 | Graues Buntglas | `gray_stained_glass` | 2.841 | 1,9 % |
 | Orange Keramik | `orange_terracotta` | 2.262 | 1,5 % |
 | Ziegelsteine | `bricks` | 967 | 0,7 % |
 | Grüner Beton | `green_concrete` | 710 | 0,5 % |
 | Weißer Beton | `white_concrete` | 541 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 414 | 0,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 368 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 368 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 301 | 0,2 % |
 | Seelaterne | `sea_lantern` | 275 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 126 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 116 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 106 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 96 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 104 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 94 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 89 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 89 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 72 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 66 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 74 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 68 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 30 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -57,14 +63,15 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 340 |
 | Steintreppe | `stone_stairs` | 298 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4100893` | Palazzo Caccia Peruzzi | 31.748 | 3.1–3.22 |
+| 1 | `r4100893` | Palazzo Caccia Peruzzi | 32.589 | 3.1–3.22 |
 | 2 | `r4100893_innen` | Palazzo Caccia Peruzzi: Innenausbau | 10.067 | 3.23–3.30 |
-| 3 | `r4100935` | Palazzo Peruzzi-Bourbon del Monte | 25.594 | 3.31–3.46 |
+| 3 | `r4100935` | Palazzo Peruzzi-Bourbon del Monte | 25.624 | 3.31–3.46 |
 | 4 | `r4100935_innen` | Palazzo Peruzzi-Bourbon del Monte: Innenausbau | 7.987 | 3.47–3.52 |
 | 5 | `w115554542` | Reihenhaus an Borgo de' Greci | 8.402 | 3.53–3.57 |
 | 6 | `w115554542_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 1.959 | 3.58 |
@@ -74,28 +81,36 @@
 | 10 | `w307106619_innen` | Palazzo Mari: Innenausbau | 3.079 | 3.71–3.72 |
 | 11 | `w486626746` | Reihenhaus an Borgo de' Greci | 4.869 | 3.73–3.75 |
 | 12 | `w486626746_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 1.033 | 3.76 |
-| 13 | `w486626747` | Reihenhaus an Borgo de' Greci | 4.862 | 3.77–3.79 |
+| 13 | `w486626747` | Reihenhaus an Borgo de' Greci | 4.888 | 3.77–3.79 |
 | 14 | `w486626747_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 1.867 | 3.80 |
 | 15 | `w486626753` | Reihenhaus an Piazza dei Peruzzi | 8.506 | 3.81–3.85 |
 | 16 | `w486626753_innen` | Reihenhaus an Piazza dei Peruzzi: Innenausbau | 3.063 | 3.86–3.87 |
 | 17 | `w486626755` | Palazzo des Cinquecento an Piazza dei Peruzzi | 4.447 | 3.88–3.90 |
 | 18 | `w486626755_innen` | Palazzo des Cinquecento an Piazza dei Peruzzi: Innenausbau | 2.257 | 3.91–3.92 |
-| 19 | `w486626759` | Reihenhaus an Piazza dei Peruzzi | 3.764 | 3.93–3.94 |
-| 20 | `w486626759_innen` | Reihenhaus an Piazza dei Peruzzi: Innenausbau | 2.541 | 3.95–3.96 |
+| 19 | `w486626759` | Reihenhaus an Piazza dei Peruzzi | 3.930 | 3.93–3.94 |
+| 20 | `w486626759_innen` | Reihenhaus an Piazza dei Peruzzi: Innenausbau | 2.497 | 3.95–3.96 |
+| 21 | `strassenschilder` | Straßenschilder | 8 | 3.96 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Palazzo Caccia Peruzzi – Teil 1/22 (Y 63–63)
+### Schritt 3.1 – Palazzo Caccia Peruzzi – Teil 1/22 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.543
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 844
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.543 |
+| Tuffstein | `tuff` | 841 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -116,7 +131,42 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.2 – Palazzo Caccia Peruzzi – Teil 2/22 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.479
+- **Blöcke:** 1.540
+- **Bauteile:** `r4100893`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.537 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.3 – Palazzo Caccia Peruzzi – Teil 3/22 (Y 63–64)
+
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 2.033
 - **Bauteile:** `r4100893`
 
 **Teileliste**
@@ -124,6 +174,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.479 |
+| Glatter Sandstein | `smooth_sandstone` | 542 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
@@ -141,19 +194,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Palazzo Caccia Peruzzi – Teil 3/22 (Y 64–65)
+### Schritt 3.4 – Palazzo Caccia Peruzzi – Teil 4/22 (Y 65–67)
 
-- **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.108
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.664
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.088 |
-| Polierter Andesit | `polished_andesite` | 17 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Glatter Sandstein | `smooth_sandstone` | 1.418 |
+| Polierter Andesit | `polished_andesite` | 184 |
+| Graues Buntglas | `gray_stained_glass` | 33 |
+| Grüner Beton | `green_concrete` | 24 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -171,53 +226,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Palazzo Caccia Peruzzi – Teil 4/22 (Y 66–68)
+### Schritt 3.5 – Palazzo Caccia Peruzzi – Teil 5/22 (Y 68–69)
 
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.647
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 1.076
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.285 |
-| Polierter Andesit | `polished_andesite` | 244 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Grüner Beton | `green_concrete` | 48 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.5 – Palazzo Caccia Peruzzi – Teil 5/22 (Y 69–71)
-
-- **Y-Bereich:** 69 bis 71
-- **Blöcke:** 1.637
-- **Bauteile:** `r4100893`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.315 |
-| Polierter Andesit | `polished_andesite` | 233 |
+| Glatter Sandstein | `smooth_sandstone` | 830 |
+| Polierter Andesit | `polished_andesite` | 156 |
 | Grüner Beton | `green_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
@@ -235,19 +258,50 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Palazzo Caccia Peruzzi – Teil 6/22 (Y 72–73)
+### Schritt 3.6 – Palazzo Caccia Peruzzi – Teil 6/22 (Y 70–72)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.122
+- **Y-Bereich:** 70 bis 72
+- **Blöcke:** 1.659
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 898 |
+| Glatter Sandstein | `smooth_sandstone` | 1.453 |
+| Polierter Andesit | `polished_andesite` | 149 |
+| Graues Buntglas | `gray_stained_glass` | 33 |
+| Grüner Beton | `green_concrete` | 24 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.7 – Palazzo Caccia Peruzzi – Teil 7/22 (Y 73–75)
+
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.709
+- **Bauteile:** `r4100893`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.367 |
 | Glatter Stein | `smooth_stone` | 218 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Polierter Andesit | `polished_andesite` | 124 |
 
 **Beschreibung**
 
@@ -265,40 +319,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Palazzo Caccia Peruzzi – Teil 7/22 (Y 74–76)
+### Schritt 3.8 – Palazzo Caccia Peruzzi – Teil 8/22 (Y 76–77)
 
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.683
-- **Bauteile:** `r4100893`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 185 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Grüner Beton | `green_concrete` | 26 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.8 – Palazzo Caccia Peruzzi – Teil 8/22 (Y 77–78)
-
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.070
 - **Bauteile:** `r4100893`
 
@@ -327,18 +350,49 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.9 – Palazzo Caccia Peruzzi – Teil 9/22 (Y 79–81)
+### Schritt 3.9 – Palazzo Caccia Peruzzi – Teil 9/22 (Y 78–80)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.683
+- **Y-Bereich:** 78 bis 80
+- **Blöcke:** 1.657
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.229 |
-| Polierter Andesit | `polished_andesite` | 326 |
+| Glatter Sandstein | `smooth_sandstone` | 1.299 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
+| Grüner Beton | `green_concrete` | 26 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.10 – Palazzo Caccia Peruzzi – Teil 10/22 (Y 81–83)
+
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.709
+- **Bauteile:** `r4100893`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.367 |
+| Polierter Andesit | `polished_andesite` | 214 |
 | Glatter Stein | `smooth_stone` | 128 |
 
 **Beschreibung**
@@ -357,40 +411,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.10 – Palazzo Caccia Peruzzi – Teil 10/22 (Y 82–84)
+### Schritt 3.11 – Palazzo Caccia Peruzzi – Teil 11/22 (Y 84–85)
 
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 1.683
-- **Bauteile:** `r4100893`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 185 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Grüner Beton | `green_concrete` | 26 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.11 – Palazzo Caccia Peruzzi – Teil 11/22 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.070
 - **Bauteile:** `r4100893`
 
@@ -419,19 +442,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.12 – Palazzo Caccia Peruzzi – Teil 12/22 (Y 87–89)
+### Schritt 3.12 – Palazzo Caccia Peruzzi – Teil 12/22 (Y 86–88)
 
-- **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.683
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.657
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.229 |
-| Polierter Andesit | `polished_andesite` | 236 |
-| Glatter Stein | `smooth_stone` | 218 |
+| Glatter Sandstein | `smooth_sandstone` | 1.299 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
+| Grüner Beton | `green_concrete` | 26 |
 
 **Beschreibung**
 
@@ -449,17 +473,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.13 – Palazzo Caccia Peruzzi – Teil 13/22 (Y 90–91)
+### Schritt 3.13 – Palazzo Caccia Peruzzi – Teil 13/22 (Y 89–91)
 
-- **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.148
+- **Y-Bereich:** 89 bis 91
+- **Blöcke:** 1.709
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.024 |
+| Glatter Sandstein | `smooth_sandstone` | 1.367 |
+| Glatter Stein | `smooth_stone` | 218 |
 | Polierter Andesit | `polished_andesite` | 124 |
 
 **Beschreibung**
@@ -509,18 +534,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.15 – Palazzo Caccia Peruzzi – Teil 15/22 (Y 95–97)
+### Schritt 3.15 – Palazzo Caccia Peruzzi – Teil 15/22 (Y 95–96)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.657
+- **Y-Bereich:** 95 bis 96
+- **Blöcke:** 1.096
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.303 |
-| Polierter Andesit | `polished_andesite` | 293 |
+| Glatter Sandstein | `smooth_sandstone` | 882 |
+| Polierter Andesit | `polished_andesite` | 153 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 | Grüner Beton | `green_concrete` | 26 |
 
@@ -540,39 +565,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.16 – Palazzo Caccia Peruzzi – Teil 16/22 (Y 98–99)
+### Schritt 3.16 – Palazzo Caccia Peruzzi – Teil 16/22 (Y 97–99)
 
-- **Y-Bereich:** 98 bis 99
-- **Blöcke:** 1.122
-- **Bauteile:** `r4100893`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 902 |
-| Glatter Stein | `smooth_stone` | 218 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.17 – Palazzo Caccia Peruzzi – Teil 17/22 (Y 100–102)
-
-- **Y-Bereich:** 100 bis 102
+- **Y-Bereich:** 97 bis 99
 - **Blöcke:** 1.683
 - **Bauteile:** `r4100893`
 
@@ -580,10 +575,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.437 |
-| Polierter Andesit | `polished_andesite` | 185 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Grüner Beton | `green_concrete` | 26 |
+| Glatter Sandstein | `smooth_sandstone` | 1.323 |
+| Glatter Stein | `smooth_stone` | 218 |
+| Polierter Andesit | `polished_andesite` | 142 |
 
 **Beschreibung**
 
@@ -601,20 +595,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.18 – Palazzo Caccia Peruzzi – Teil 18/22 (Y 103–105)
+### Schritt 3.17 – Palazzo Caccia Peruzzi – Teil 17/22 (Y 100–101)
 
-- **Y-Bereich:** 103 bis 105
-- **Blöcke:** 1.631
+- **Y-Bereich:** 100 bis 101
+- **Blöcke:** 1.148
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.299 |
-| Polierter Andesit | `polished_andesite` | 210 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Grüner Beton | `green_concrete` | 52 |
+| Glatter Sandstein | `smooth_sandstone` | 1.024 |
+| Polierter Andesit | `polished_andesite` | 124 |
 
 **Beschreibung**
 
@@ -632,18 +624,49 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.19 – Palazzo Caccia Peruzzi – Teil 19/22 (Y 106–107)
+### Schritt 3.18 – Palazzo Caccia Peruzzi – Teil 18/22 (Y 102–104)
 
-- **Y-Bereich:** 106 bis 107
-- **Blöcke:** 1.336
+- **Y-Bereich:** 102 bis 104
+- **Blöcke:** 1.605
 - **Bauteile:** `r4100893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.190 |
-| Polierter Andesit | `polished_andesite` | 146 |
+| Glatter Sandstein | `smooth_sandstone` | 1.243 |
+| Polierter Andesit | `polished_andesite` | 179 |
+| Graues Buntglas | `gray_stained_glass` | 105 |
+| Grüner Beton | `green_concrete` | 78 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.19 – Palazzo Caccia Peruzzi – Teil 19/22 (Y 105–107)
+
+- **Y-Bereich:** 105 bis 107
+- **Blöcke:** 1.897
+- **Bauteile:** `r4100893`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.659 |
+| Polierter Andesit | `polished_andesite` | 238 |
 
 **Beschreibung**
 
@@ -1034,10 +1057,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.31 – Palazzo Peruzzi-Bourbon del Monte – Teil 1/16 (Y 63–63)
+### Schritt 3.31 – Palazzo Peruzzi-Bourbon del Monte – Teil 1/16 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.540
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.570
 - **Bauteile:** `r4100935`
 
 **Teileliste**
@@ -1045,6 +1068,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.540 |
+| Tuffstein | `tuff` | 30 |
 
 **Beschreibung**
 
@@ -1185,21 +1209,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.36 – Palazzo Peruzzi-Bourbon del Monte – Teil 6/16 (Y 74–77)
+### Schritt 3.36 – Palazzo Peruzzi-Bourbon del Monte – Teil 6/16 (Y 74–76)
 
-- **Y-Bereich:** 74 bis 77
-- **Blöcke:** 1.935
+- **Y-Bereich:** 74 bis 76
+- **Blöcke:** 1.475
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.650 |
-| Glatter Stein | `smooth_stone` | 157 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Grüner Beton | `green_concrete` | 24 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.274 |
+| Glatter Stein | `smooth_stone` | 127 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Polierter Andesit | `polished_andesite` | 24 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
@@ -1217,21 +1241,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.37 – Palazzo Peruzzi-Bourbon del Monte – Teil 7/16 (Y 78–80)
+### Schritt 3.37 – Palazzo Peruzzi-Bourbon del Monte – Teil 7/16 (Y 77–80)
 
-- **Y-Bereich:** 78 bis 80
-- **Blöcke:** 1.413
+- **Y-Bereich:** 77 bis 80
+- **Blöcke:** 1.873
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.161 |
-| Glatter Stein | `smooth_stone` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Grüner Beton | `green_concrete` | 24 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.537 |
+| Glatter Stein | `smooth_stone` | 158 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Grüner Beton | `green_concrete` | 36 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
@@ -1279,21 +1303,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.39 – Palazzo Peruzzi-Bourbon del Monte – Teil 9/16 (Y 84–87)
+### Schritt 3.39 – Palazzo Peruzzi-Bourbon del Monte – Teil 9/16 (Y 84–86)
 
-- **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.902
+- **Y-Bereich:** 84 bis 86
+- **Blöcke:** 1.442
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.537 |
-| Glatter Stein | `smooth_stone` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 28 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.161 |
+| Glatter Stein | `smooth_stone` | 157 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Grüner Beton | `green_concrete` | 24 |
+| Polierter Andesit | `polished_andesite` | 24 |
 
 **Beschreibung**
 
@@ -1311,21 +1335,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.40 – Palazzo Peruzzi-Bourbon del Monte – Teil 10/16 (Y 88–90)
+### Schritt 3.40 – Palazzo Peruzzi-Bourbon del Monte – Teil 10/16 (Y 87–90)
 
-- **Y-Bereich:** 88 bis 90
-- **Blöcke:** 1.446
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.906
 - **Bauteile:** `r4100935`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.177 |
-| Glatter Stein | `smooth_stone` | 195 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
-| Polierter Andesit | `polished_andesite` | 24 |
-| Grüner Beton | `green_concrete` | 12 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.553 |
+| Glatter Stein | `smooth_stone` | 225 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
@@ -1750,9 +1774,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.53 – Reihenhaus an Borgo de' Greci – Teil 1/5 (Y 63–69)
+### Schritt 3.53 – Reihenhaus an Borgo de' Greci – Teil 1/5 (Y 62–68)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.692
 - **Bauteile:** `w115554542`
 
@@ -1783,9 +1807,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.54 – Reihenhaus an Borgo de' Greci – Teil 2/5 (Y 70–78)
+### Schritt 3.54 – Reihenhaus an Borgo de' Greci – Teil 2/5 (Y 69–77)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.627
 - **Bauteile:** `w115554542`
 
@@ -1814,9 +1838,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.55 – Reihenhaus an Borgo de' Greci – Teil 3/5 (Y 79–87)
+### Schritt 3.55 – Reihenhaus an Borgo de' Greci – Teil 3/5 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.646
 - **Bauteile:** `w115554542`
 
@@ -1845,9 +1869,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.56 – Reihenhaus an Borgo de' Greci – Teil 4/5 (Y 88–97)
+### Schritt 3.56 – Reihenhaus an Borgo de' Greci – Teil 4/5 (Y 87–96)
 
-- **Y-Bereich:** 88 bis 97
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.762
 - **Bauteile:** `w115554542`
 
@@ -1876,9 +1900,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.57 – Reihenhaus an Borgo de' Greci – Teil 5/5 (Y 98–107)
+### Schritt 3.57 – Reihenhaus an Borgo de' Greci – Teil 5/5 (Y 97–106)
 
-- **Y-Bereich:** 98 bis 107
+- **Y-Bereich:** 97 bis 106
 - **Blöcke:** 1.675
 - **Bauteile:** `w115554542`
 
@@ -1911,7 +1935,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.58 – Reihenhaus an Borgo de' Greci: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 62 bis 93
 - **Blöcke:** 1.959
 - **Bauteile:** `w115554542_innen`
 
@@ -2433,9 +2457,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.73 – Reihenhaus an Borgo de' Greci – Teil 1/3 (Y 63–73)
+### Schritt 3.73 – Reihenhaus an Borgo de' Greci – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.661
 - **Bauteile:** `w486626746`
 
@@ -2465,9 +2489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.74 – Reihenhaus an Borgo de' Greci – Teil 2/3 (Y 74–86)
+### Schritt 3.74 – Reihenhaus an Borgo de' Greci – Teil 2/3 (Y 73–85)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.601
 - **Bauteile:** `w486626746`
 
@@ -2496,9 +2520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.75 – Reihenhaus an Borgo de' Greci – Teil 3/3 (Y 87–99)
+### Schritt 3.75 – Reihenhaus an Borgo de' Greci – Teil 3/3 (Y 86–98)
 
-- **Y-Bereich:** 87 bis 99
+- **Y-Bereich:** 86 bis 98
 - **Blöcke:** 1.607
 - **Bauteile:** `w486626746`
 
@@ -2532,7 +2556,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.76 – Reihenhaus an Borgo de' Greci: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.033
 - **Bauteile:** `w486626746_innen`
 
@@ -2572,17 +2596,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.77 – Reihenhaus an Borgo de' Greci – Teil 1/3 (Y 63–75)
+### Schritt 3.77 – Reihenhaus an Borgo de' Greci – Teil 1/3 (Y 62–74)
 
-- **Y-Bereich:** 63 bis 75
-- **Blöcke:** 1.614
+- **Y-Bereich:** 62 bis 74
+- **Blöcke:** 1.640
 - **Bauteile:** `w486626747`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 933 |
+| Endsteinziegel | `end_stone_bricks` | 959 |
 | Polierter Tuffstein | `polished_tuff` | 524 |
 | Weißer Beton | `white_concrete` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
@@ -2605,9 +2629,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.78 – Reihenhaus an Borgo de' Greci – Teil 2/3 (Y 76–92)
+### Schritt 3.78 – Reihenhaus an Borgo de' Greci – Teil 2/3 (Y 75–91)
 
-- **Y-Bereich:** 76 bis 92
+- **Y-Bereich:** 75 bis 91
 - **Blöcke:** 1.612
 - **Bauteile:** `w486626747`
 
@@ -2636,9 +2660,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.79 – Reihenhaus an Borgo de' Greci – Teil 3/3 (Y 93–104)
+### Schritt 3.79 – Reihenhaus an Borgo de' Greci – Teil 3/3 (Y 92–103)
 
-- **Y-Bereich:** 93 bis 104
+- **Y-Bereich:** 92 bis 103
 - **Blöcke:** 1.636
 - **Bauteile:** `w486626747`
 
@@ -2671,7 +2695,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.80 – Reihenhaus an Borgo de' Greci: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 62 bis 93
 - **Blöcke:** 1.867
 - **Bauteile:** `w486626747_innen`
 
@@ -2681,13 +2705,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.668 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 89 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 34 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 30 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 36 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 32 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 12 |
 | Weiße Keramik | `white_terracotta` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2711,9 +2735,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.81 – Reihenhaus an Piazza dei Peruzzi – Teil 1/5 (Y 63–66)
+### Schritt 3.81 – Reihenhaus an Piazza dei Peruzzi – Teil 1/5 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.745
 - **Bauteile:** `w486626753`
 
@@ -2741,9 +2765,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.82 – Reihenhaus an Piazza dei Peruzzi – Teil 2/5 (Y 67–75)
+### Schritt 3.82 – Reihenhaus an Piazza dei Peruzzi – Teil 2/5 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.695
 - **Bauteile:** `w486626753`
 
@@ -2771,9 +2795,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.83 – Reihenhaus an Piazza dei Peruzzi – Teil 3/5 (Y 76–84)
+### Schritt 3.83 – Reihenhaus an Piazza dei Peruzzi – Teil 3/5 (Y 75–83)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.689
 - **Bauteile:** `w486626753`
 
@@ -2801,9 +2825,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.84 – Reihenhaus an Piazza dei Peruzzi – Teil 4/5 (Y 85–92)
+### Schritt 3.84 – Reihenhaus an Piazza dei Peruzzi – Teil 4/5 (Y 84–91)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.566
 - **Bauteile:** `w486626753`
 
@@ -2831,9 +2855,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.85 – Reihenhaus an Piazza dei Peruzzi – Teil 5/5 (Y 93–101)
+### Schritt 3.85 – Reihenhaus an Piazza dei Peruzzi – Teil 5/5 (Y 92–100)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.811
 - **Bauteile:** `w486626753`
 
@@ -2861,9 +2885,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.86 – Reihenhaus an Piazza dei Peruzzi: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 3.86 – Reihenhaus an Piazza dei Peruzzi: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.061
 - **Bauteile:** `w486626753_innen`
 
@@ -2899,9 +2923,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.87 – Reihenhaus an Piazza dei Peruzzi: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 3.87 – Reihenhaus an Piazza dei Peruzzi: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 2.002
 - **Bauteile:** `w486626753_innen`
 
@@ -3122,10 +3146,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.93 – Reihenhaus an Piazza dei Peruzzi – Teil 1/2 (Y 63–86)
+### Schritt 3.93 – Reihenhaus an Piazza dei Peruzzi – Teil 1/2 (Y 62–86)
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.855
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.965
 - **Bauteile:** `w486626759`
 
 **Teileliste**
@@ -3133,11 +3157,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.052 |
-| Polierter Tuffstein | `polished_tuff` | 652 |
+| Polierter Tuffstein | `polished_tuff` | 647 |
+| Tuffstein | `tuff` | 109 |
 | Weißer Beton | `white_concrete` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 | Glatter Stein | `smooth_stone` | 18 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
 | Polierter Andesit | `polished_andesite` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -3158,14 +3191,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.94 – Reihenhaus an Piazza dei Peruzzi – Teil 2/2 (Y 87–107)
 
 - **Y-Bereich:** 87 bis 107
-- **Blöcke:** 1.909
+- **Blöcke:** 1.965
 - **Bauteile:** `w486626759`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 948 |
+| Gelbe Keramik | `yellow_terracotta` | 1.004 |
 | Terrakotta | `terracotta` | 806 |
 | Weißer Beton | `white_concrete` | 84 |
 | Ziegelsteine | `bricks` | 47 |
@@ -3225,23 +3258,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.96 – Reihenhaus an Piazza dei Peruzzi: Innenausbau – Teil 2/2 (Y 80–94)
+### Schritt 3.96 – Reihenhaus an Piazza dei Peruzzi: Innenausbau – Teil 2/2 (Y 80–94) & Straßenschilder
 
-- **Y-Bereich:** 80 bis 94
-- **Blöcke:** 1.273
-- **Bauteile:** `w486626759_innen`
+- **Y-Bereich:** 69 bis 94
+- **Blöcke:** 1.237
+- **Bauteile:** `w486626759_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.180 |
+| Terrakotta | `terracotta` | 1.136 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 41 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 12 |
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 7 |
 | Weiße Keramik | `white_terracotta` | 7 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -3253,16 +3289,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

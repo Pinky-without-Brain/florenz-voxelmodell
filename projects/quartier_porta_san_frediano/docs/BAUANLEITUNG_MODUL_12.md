@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 37.690 |
 | Bauschritte | 24 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 59 bis 97 |
 | X-Ausdehnung | -3039 bis -2913 (127 Blöcke) |
 | Z-Ausdehnung | 1153 bis 1230 (78 Blöcke) |
 | Kleinster Schritt | 761 Blöcke (Schritt 12.4) |
@@ -72,9 +72,9 @@
 
 ## Bauschritte
 
-### Schritt 12.1 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/3 (Y 63–73)
+### Schritt 12.1 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/3 (Y 59–69)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.673
 - **Bauteile:** `w442946753`
 
@@ -103,9 +103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/3 (Y 74–85)
+### Schritt 12.2 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/3 (Y 70–81)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 70 bis 81
 - **Blöcke:** 1.562
 - **Bauteile:** `w442946753`
 
@@ -133,9 +133,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Reihenhaus an Viale Aleardo Aleardi – Teil 3/3 (Y 86–98)
+### Schritt 12.3 – Reihenhaus an Viale Aleardo Aleardi – Teil 3/3 (Y 82–94)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 82 bis 94
 - **Blöcke:** 1.634
 - **Bauteile:** `w442946753`
 
@@ -167,7 +167,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.4 – Reihenhaus an Viale Aleardo Aleardi: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 59 bis 83
 - **Blöcke:** 761
 - **Bauteile:** `w442946753_innen`
 
@@ -205,9 +205,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.5 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 1/5 (Y 63–67)
+### Schritt 12.5 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 1/5 (Y 59–63)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 59 bis 63
 - **Blöcke:** 1.856
 - **Bauteile:** `w442946755`
 
@@ -240,9 +240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 2/5 (Y 68–75)
+### Schritt 12.6 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 2/5 (Y 64–71)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.769
 - **Bauteile:** `w442946755`
 
@@ -274,9 +274,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 3/5 (Y 76–83)
+### Schritt 12.7 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 3/5 (Y 72–79)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.738
 - **Bauteile:** `w442946755`
 
@@ -306,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.8 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 4/5 (Y 84–92)
+### Schritt 12.8 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 4/5 (Y 80–88)
 
-- **Y-Bereich:** 84 bis 92
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.993
 - **Bauteile:** `w442946755`
 
@@ -338,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.9 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 5/5 (Y 93–100)
+### Schritt 12.9 – Palazzo des Cinquecento an Viale Aleardo Aleardi – Teil 5/5 (Y 89–96)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.739
 - **Bauteile:** `w442946755`
 
@@ -371,7 +371,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.10 – Palazzo des Cinquecento an Viale Aleardo Aleardi: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 59 bis 79
 - **Blöcke:** 1.561
 - **Bauteile:** `w442946755_innen`
 
@@ -409,9 +409,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.11 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/2 (Y 63–79)
+### Schritt 12.11 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/2 (Y 59–75)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 59 bis 75
 - **Blöcke:** 1.651
 - **Bauteile:** `w442946756`
 
@@ -443,9 +443,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.12 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/2 (Y 80–97)
+### Schritt 12.12 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/2 (Y 76–93)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 76 bis 93
 - **Blöcke:** 1.648
 - **Bauteile:** `w442946756`
 
@@ -478,7 +478,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.13 – Reihenhaus an Viale Aleardo Aleardi: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 59 bis 82
 - **Blöcke:** 842
 - **Bauteile:** `w442946756_innen`
 
@@ -514,9 +514,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.14 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/4 (Y 63–69)
+### Schritt 12.14 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/4 (Y 59–65)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 59 bis 65
 - **Blöcke:** 1.880
 - **Bauteile:** `w442946775`
 
@@ -547,9 +547,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.15 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/4 (Y 70–79)
+### Schritt 12.15 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/4 (Y 66–75)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 66 bis 75
 - **Blöcke:** 1.835
 - **Bauteile:** `w442946775`
 
@@ -578,9 +578,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.16 – Reihenhaus an Viale Aleardo Aleardi – Teil 3/4 (Y 80–90)
+### Schritt 12.16 – Reihenhaus an Viale Aleardo Aleardi – Teil 3/4 (Y 76–86)
 
-- **Y-Bereich:** 80 bis 90
+- **Y-Bereich:** 76 bis 86
 - **Blöcke:** 1.978
 - **Bauteile:** `w442946775`
 
@@ -609,9 +609,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.17 – Reihenhaus an Viale Aleardo Aleardi – Teil 4/4 (Y 91–101)
+### Schritt 12.17 – Reihenhaus an Viale Aleardo Aleardi – Teil 4/4 (Y 87–97)
 
-- **Y-Bereich:** 91 bis 101
+- **Y-Bereich:** 87 bis 97
 - **Blöcke:** 1.813
 - **Bauteile:** `w442946775`
 
@@ -642,7 +642,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.18 – Reihenhaus an Viale Aleardo Aleardi: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 59 bis 83
 - **Blöcke:** 2.004
 - **Bauteile:** `w442946775_innen`
 
@@ -680,9 +680,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.19 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/2 (Y 63–79)
+### Schritt 12.19 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/2 (Y 59–75)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 59 bis 75
 - **Blöcke:** 1.635
 - **Bauteile:** `w442946779`
 
@@ -712,9 +712,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.20 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/2 (Y 80–98)
+### Schritt 12.20 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/2 (Y 76–94)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 76 bis 94
 - **Blöcke:** 1.684
 - **Bauteile:** `w442946779`
 
@@ -748,7 +748,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.21 – Reihenhaus an Viale Aleardo Aleardi: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 59 bis 83
 - **Blöcke:** 870
 - **Bauteile:** `w442946779_innen`
 
@@ -786,9 +786,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.22 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/2 (Y 63–79)
+### Schritt 12.22 – Reihenhaus an Viale Aleardo Aleardi – Teil 1/2 (Y 59–75)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 59 bis 75
 - **Blöcke:** 1.267
 - **Bauteile:** `w442946783`
 
@@ -818,9 +818,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.23 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/2 (Y 80–99)
+### Schritt 12.23 – Reihenhaus an Viale Aleardo Aleardi – Teil 2/2 (Y 76–95)
 
-- **Y-Bereich:** 80 bis 99
+- **Y-Bereich:** 76 bis 95
 - **Blöcke:** 1.272
 - **Bauteile:** `w442946783`
 
@@ -852,7 +852,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.24 – Reihenhaus an Viale Aleardo Aleardi: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 59 bis 83
 - **Blöcke:** 1.025
 - **Bauteile:** `w442946783_innen`
 

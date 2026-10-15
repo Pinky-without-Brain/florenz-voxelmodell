@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 40.418 |
 | Bauschritte | 25 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 56 bis 94 |
 | X-Ausdehnung | -2456 bis -2330 (127 Blöcke) |
 | Z-Ausdehnung | 951 bis 1030 (80 Blöcke) |
 | Kleinster Schritt | 1.025 Blöcke (Schritt 10.20) |
@@ -57,9 +57,9 @@
 
 ## Bauschritte
 
-### Schritt 10.1 – Palazzo des Ottocento an Via dell'Orto – Teil 1/21 (Y 63–63)
+### Schritt 10.1 – Palazzo des Ottocento an Via dell'Orto – Teil 1/21 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.423
 - **Bauteile:** `w118429105`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Palazzo des Ottocento an Via dell'Orto – Teil 2/21 (Y 63–63)
+### Schritt 10.2 – Palazzo des Ottocento an Via dell'Orto – Teil 2/21 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.469
 - **Bauteile:** `w118429105`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Palazzo des Ottocento an Via dell'Orto – Teil 3/21 (Y 63–63)
+### Schritt 10.3 – Palazzo des Ottocento an Via dell'Orto – Teil 3/21 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.437
 - **Bauteile:** `w118429105`
 
@@ -141,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Palazzo des Ottocento an Via dell'Orto – Teil 4/21 (Y 64–66)
+### Schritt 10.4 – Palazzo des Ottocento an Via dell'Orto – Teil 4/21 (Y 57–59)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 57 bis 59
 - **Blöcke:** 2.070
 - **Bauteile:** `w118429105`
 
@@ -173,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Palazzo des Ottocento an Via dell'Orto – Teil 5/21 (Y 67–68)
+### Schritt 10.5 – Palazzo des Ottocento an Via dell'Orto – Teil 5/21 (Y 60–61)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 60 bis 61
 - **Blöcke:** 1.262
 - **Bauteile:** `w118429105`
 
@@ -206,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Palazzo des Ottocento an Via dell'Orto – Teil 6/21 (Y 69–71)
+### Schritt 10.6 – Palazzo des Ottocento an Via dell'Orto – Teil 6/21 (Y 62–64)
 
-- **Y-Bereich:** 69 bis 71
+- **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.943
 - **Bauteile:** `w118429105`
 
@@ -239,9 +239,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Palazzo des Ottocento an Via dell'Orto – Teil 7/21 (Y 72–73)
+### Schritt 10.7 – Palazzo des Ottocento an Via dell'Orto – Teil 7/21 (Y 65–66)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.519
 - **Bauteile:** `w118429105`
 
@@ -271,9 +271,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Palazzo des Ottocento an Via dell'Orto – Teil 8/21 (Y 74–75)
+### Schritt 10.8 – Palazzo des Ottocento an Via dell'Orto – Teil 8/21 (Y 67–68)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.546
 - **Bauteile:** `w118429105`
 
@@ -301,9 +301,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Palazzo des Ottocento an Via dell'Orto – Teil 9/21 (Y 76–77)
+### Schritt 10.9 – Palazzo des Ottocento an Via dell'Orto – Teil 9/21 (Y 69–70)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.441
 - **Bauteile:** `w118429105`
 
@@ -333,9 +333,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Palazzo des Ottocento an Via dell'Orto – Teil 10/21 (Y 78–80)
+### Schritt 10.10 – Palazzo des Ottocento an Via dell'Orto – Teil 10/21 (Y 71–73)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 2.004
 - **Bauteile:** `w118429105`
 
@@ -365,9 +365,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Palazzo des Ottocento an Via dell'Orto – Teil 11/21 (Y 81–82)
+### Schritt 10.11 – Palazzo des Ottocento an Via dell'Orto – Teil 11/21 (Y 74–75)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.546
 - **Bauteile:** `w118429105`
 
@@ -395,9 +395,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Palazzo des Ottocento an Via dell'Orto – Teil 12/21 (Y 83–84)
+### Schritt 10.12 – Palazzo des Ottocento an Via dell'Orto – Teil 12/21 (Y 76–77)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.546
 - **Bauteile:** `w118429105`
 
@@ -425,9 +425,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.13 – Palazzo des Ottocento an Via dell'Orto – Teil 13/21 (Y 85–86)
+### Schritt 10.13 – Palazzo des Ottocento an Via dell'Orto – Teil 13/21 (Y 78–79)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.441
 - **Bauteile:** `w118429105`
 
@@ -457,9 +457,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.14 – Palazzo des Ottocento an Via dell'Orto – Teil 14/21 (Y 87–88)
+### Schritt 10.14 – Palazzo des Ottocento an Via dell'Orto – Teil 14/21 (Y 80–81)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.336
 - **Bauteile:** `w118429105`
 
@@ -489,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.15 – Palazzo des Ottocento an Via dell'Orto – Teil 15/21 (Y 89–90)
+### Schritt 10.15 – Palazzo des Ottocento an Via dell'Orto – Teil 15/21 (Y 82–83)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.336
 - **Bauteile:** `w118429105`
 
@@ -521,9 +521,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.16 – Palazzo des Ottocento an Via dell'Orto – Teil 16/21 (Y 91–92)
+### Schritt 10.16 – Palazzo des Ottocento an Via dell'Orto – Teil 16/21 (Y 84–85)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.827
 - **Bauteile:** `w118429105`
 
@@ -552,9 +552,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.17 – Palazzo des Ottocento an Via dell'Orto – Teil 17/21 (Y 93–93)
+### Schritt 10.17 – Palazzo des Ottocento an Via dell'Orto – Teil 17/21 (Y 86–86)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.407
 - **Bauteile:** `w118429105`
 
@@ -582,9 +582,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.18 – Palazzo des Ottocento an Via dell'Orto – Teil 18/21 (Y 94–94)
+### Schritt 10.18 – Palazzo des Ottocento an Via dell'Orto – Teil 18/21 (Y 87–87)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.778
 - **Bauteile:** `w118429105`
 
@@ -610,9 +610,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.19 – Palazzo des Ottocento an Via dell'Orto – Teil 19/21 (Y 95–96)
+### Schritt 10.19 – Palazzo des Ottocento an Via dell'Orto – Teil 19/21 (Y 88–89)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 2.064
 - **Bauteile:** `w118429105`
 
@@ -638,9 +638,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.20 – Palazzo des Ottocento an Via dell'Orto – Teil 20/21 (Y 97–97)
+### Schritt 10.20 – Palazzo des Ottocento an Via dell'Orto – Teil 20/21 (Y 90–90)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.025
 - **Bauteile:** `w118429105`
 
@@ -667,9 +667,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.21 – Palazzo des Ottocento an Via dell'Orto – Teil 21/21 (Y 98–101)
+### Schritt 10.21 – Palazzo des Ottocento an Via dell'Orto – Teil 21/21 (Y 91–94)
 
-- **Y-Bereich:** 98 bis 101
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.729
 - **Bauteile:** `w118429105`
 
@@ -696,9 +696,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.22 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 10.22 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 1/4 (Y 56–67)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 56 bis 67
 - **Blöcke:** 1.846
 - **Bauteile:** `w118429105_innen`
 
@@ -738,9 +738,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.23 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 10.23 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 2/4 (Y 67–67)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.796
 - **Bauteile:** `w118429105_innen`
 
@@ -774,9 +774,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.24 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 10.24 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 3/4 (Y 68–76)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 1.822
 - **Bauteile:** `w118429105_innen`
 
@@ -818,9 +818,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.25 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 10.25 – Palazzo des Ottocento an Via dell'Orto: Innenausbau – Teil 4/4 (Y 76–77)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.805
 - **Bauteile:** `w118429105_innen`
 

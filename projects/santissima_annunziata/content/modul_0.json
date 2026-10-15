@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament bis Y 66 und Boden auf Y 67",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter dem ganzen Bau füllst du das Gelände mit Tuff bis Y 66 auf; zur Tribuna hin steigt das Gelände bis Y 69 und wird abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 66 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Die Serviten gründeten die Kirche 1250 vor den Mauern der Stadt."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 67 legst du den Boden: im Schiff und in der Tribuna ein Schachbrett aus Glattem Stein und hellem Quarz, im Hof Glatter Stein, in Kapellen und Nebenräumen rosa Terrakotta.",
+      "tip": "Ein Feld des Schachbretts ist vier Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 6.",
+      "fact": "Der Boden liegt eine Stufe über der Piazza Santissima Annunziata."
+    }
+  }
+}

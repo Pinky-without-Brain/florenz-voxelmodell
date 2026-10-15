@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 23.840 |
+| Blöcke | 23.843 |
 | Bauschritte | 16 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 64 bis 101 |
 | X-Ausdehnung | -722 bis -679 (44 Blöcke) |
 | Z-Ausdehnung | 20 bis 87 (68 Blöcke) |
 | Kleinster Schritt | 880 Blöcke (Schritt 4.13) |
 | Mittlerer Schritt | 1.490 Blöcke |
-| Größter Schritt | 1.983 Blöcke (Schritt 4.16) |
+| Größter Schritt | 1.986 Blöcke (Schritt 4.16) |
 
 ## Gesamt-Stückliste
 
@@ -36,8 +36,10 @@
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
@@ -54,12 +56,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1592547` | Palazzo des Cinquecento an Via dei Vecchietti | 19.878 | 4.1–4.14 |
 | 2 | `r1592547_innen` | Palazzo des Cinquecento an Via dei Vecchietti: Innenausbau | 3.962 | 4.15–4.16 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 4.16 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 1/14 (Y 63–63)
+### Schritt 4.1 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 1/14 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.222
 - **Bauteile:** `r1592547`
 
@@ -85,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 2/14 (Y 63–64)
+### Schritt 4.2 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 2/14 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.632
 - **Bauteile:** `r1592547`
 
@@ -116,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 3/14 (Y 65–67)
+### Schritt 4.3 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 3/14 (Y 66–68)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.465
 - **Bauteile:** `r1592547`
 
@@ -148,9 +151,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 4/14 (Y 68–70)
+### Schritt 4.4 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 4/14 (Y 69–71)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.241
 - **Bauteile:** `r1592547`
 
@@ -180,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 5/14 (Y 71–73)
+### Schritt 4.5 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 5/14 (Y 72–74)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.419
 - **Bauteile:** `r1592547`
 
@@ -211,9 +214,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.6 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 6/14 (Y 74–76)
+### Schritt 4.6 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 6/14 (Y 75–77)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.419
 - **Bauteile:** `r1592547`
 
@@ -242,9 +245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.7 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 7/14 (Y 77–80)
+### Schritt 4.7 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 7/14 (Y 78–81)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 1.692
 - **Bauteile:** `r1592547`
 
@@ -273,9 +276,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.8 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 8/14 (Y 81–83)
+### Schritt 4.8 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 8/14 (Y 82–84)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.373
 - **Bauteile:** `r1592547`
 
@@ -305,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.9 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 9/14 (Y 84–86)
+### Schritt 4.9 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 9/14 (Y 85–87)
 
-- **Y-Bereich:** 84 bis 86
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.419
 - **Bauteile:** `r1592547`
 
@@ -336,9 +339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.10 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 10/14 (Y 87–89)
+### Schritt 4.10 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 10/14 (Y 88–90)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.269
 - **Bauteile:** `r1592547`
 
@@ -367,9 +370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.11 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 11/14 (Y 90–92)
+### Schritt 4.11 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 11/14 (Y 91–93)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.546
 - **Bauteile:** `r1592547`
 
@@ -398,9 +401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.12 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 12/14 (Y 93–94)
+### Schritt 4.12 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 12/14 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.949
 - **Bauteile:** `r1592547`
 
@@ -428,9 +431,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.13 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 13/14 (Y 95–95)
+### Schritt 4.13 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 13/14 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 880
 - **Bauteile:** `r1592547`
 
@@ -456,9 +459,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.14 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 14/14 (Y 96–100)
+### Schritt 4.14 – Palazzo des Cinquecento an Via dei Vecchietti – Teil 14/14 (Y 97–101)
 
-- **Y-Bereich:** 96 bis 100
+- **Y-Bereich:** 97 bis 101
 - **Blöcke:** 1.352
 - **Bauteile:** `r1592547`
 
@@ -485,9 +488,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.15 – Palazzo des Cinquecento an Via dei Vecchietti: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 4.15 – Palazzo des Cinquecento an Via dei Vecchietti: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.979
 - **Bauteile:** `r1592547_innen`
 
@@ -527,11 +530,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.16 – Palazzo des Cinquecento an Via dei Vecchietti: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 4.16 – Palazzo des Cinquecento an Via dei Vecchietti: Innenausbau – Teil 2/2 (Y 75–85) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.983
-- **Bauteile:** `r1592547_innen`
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.986
+- **Bauteile:** `r1592547_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -544,7 +547,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -559,16 +564,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

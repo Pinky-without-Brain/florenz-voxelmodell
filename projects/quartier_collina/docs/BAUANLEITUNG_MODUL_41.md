@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 1.258 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 153 bis 184 |
 | X-Ausdehnung | 1541 bis 1550 (10 Blöcke) |
 | Z-Ausdehnung | 2234 bis 2242 (9 Blöcke) |
 | Kleinster Schritt | 1.258 Blöcke (Schritt 41.1) |
@@ -37,7 +37,7 @@
 
 ### Schritt 41.1 – Haus w686730260 & Haus w686730260: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 153 bis 184
 - **Blöcke:** 1.258
 - **Bauteile:** `w686730260`, `w686730260_innen`
 

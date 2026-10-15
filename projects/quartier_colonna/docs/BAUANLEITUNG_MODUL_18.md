@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 138.279 |
+| Blöcke | 138.363 |
 | Bauschritte | 88 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 68 bis 110 |
 | X-Ausdehnung | 1071 bis 1429 (359 Blöcke) |
 | Z-Ausdehnung | -1059 bis -756 (304 Blöcke) |
 | Kleinster Schritt | 831 Blöcke (Schritt 18.4) |
-| Mittlerer Schritt | 1.571 Blöcke |
+| Mittlerer Schritt | 1.572 Blöcke |
 | Größter Schritt | 2.065 Blöcke (Schritt 18.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 40.952 | 29,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 27.097 | 19,6 % |
-| Polierter Tuffstein | `polished_tuff` | 13.597 | 9,8 % |
-| Glatter Stein | `smooth_stone` | 11.962 | 8,7 % |
+| Terrakotta | `terracotta` | 40.951 | 29,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 27.135 | 19,6 % |
+| Polierter Tuffstein | `polished_tuff` | 13.596 | 9,8 % |
+| Glatter Stein | `smooth_stone` | 11.962 | 8,6 % |
 | Tuffstein | `tuff` | 8.126 | 5,9 % |
 | Orange Keramik | `orange_terracotta` | 7.800 | 5,6 % |
 | Polierter Andesit | `polished_andesite` | 7.011 | 5,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.851 | 5,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.895 | 5,0 % |
 | Graues Buntglas | `gray_stained_glass` | 5.213 | 3,8 % |
 | Weißer Beton | `white_concrete` | 2.313 | 1,7 % |
 | Grüner Beton | `green_concrete` | 2.292 | 1,7 % |
@@ -36,20 +36,22 @@
 | Tuffsteinziegel | `tuff_bricks` | 1.393 | 1,0 % |
 | Ziegelsteine | `bricks` | 776 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 445 | 0,3 % |
-| Seelaterne | `sea_lantern` | 203 | 0,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 202 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 77 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 75 | 0,1 % |
+| Seelaterne | `sea_lantern` | 207 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 204 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 78 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 76 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 64 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 56 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 12 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 152 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 156 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -62,20 +64,20 @@
 | 4 | `w481356945_innen` | Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau | 5.618 | 18.23–18.26 |
 | 5 | `w481356971` | Palazzo des Cinquecento an Via Giuseppe Giusti | 16.649 | 18.27–18.36 |
 | 6 | `w481356971_innen` | Palazzo des Cinquecento an Via Giuseppe Giusti: Innenausbau | 3.566 | 18.37–18.38 |
-| 7 | `w481356978` | Reihenhaus an Via Giuseppe Giusti | 7.726 | 18.39–18.42 |
-| 8 | `w481356978_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 1.750 | 18.43 |
-| 9 | `w481357042` | Kunsthistorisches Institut in Florenz | 47.192 | 18.44–18.77 |
-| 10 | `w481357042_innen` | Kunsthistorisches Institut in Florenz: Innenausbau | 9.932 | 18.78–18.83 |
-| 11 | `w481357057` | Reihenhaus an Via Giuseppe Giusti | 5.349 | 18.84–18.86 |
-| 12 | `w481357057_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 1.987 | 18.87 |
+| 7 | `w481356978` | Reihenhaus an Via Giuseppe Giusti | 7.757 | 18.39–18.42 |
+| 8 | `w481356978_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 1.745 | 18.43 |
+| 9 | `w481357042` | Kunsthistorisches Institut in Florenz | 47.201 | 18.44–18.77 |
+| 10 | `w481357042_innen` | Kunsthistorisches Institut in Florenz: Innenausbau | 9.935 | 18.78–18.83 |
+| 11 | `w481357057` | Reihenhaus an Via Giuseppe Giusti | 5.392 | 18.84–18.86 |
+| 12 | `w481357057_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 1.990 | 18.87 |
 | 13 | `w676106024` | Reihenhaus an Via Giuseppe Giusti | 1.997 | 18.88 |
 | 14 | `w676106024_innen` | Reihenhaus an Via Giuseppe Giusti: Innenausbau | 1 | 18.88 |
 
 ## Bauschritte
 
-### Schritt 18.1 – Reihenhaus an Via Giuseppe Giusti – Teil 1/3 (Y 63–73)
+### Schritt 18.1 – Reihenhaus an Via Giuseppe Giusti – Teil 1/3 (Y 68–78)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 68 bis 78
 - **Blöcke:** 1.894
 - **Bauteile:** `w481356944`
 
@@ -104,9 +106,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.2 – Reihenhaus an Via Giuseppe Giusti – Teil 2/3 (Y 74–85)
+### Schritt 18.2 – Reihenhaus an Via Giuseppe Giusti – Teil 2/3 (Y 79–90)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 79 bis 90
 - **Blöcke:** 1.780
 - **Bauteile:** `w481356944`
 
@@ -134,9 +136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.3 – Reihenhaus an Via Giuseppe Giusti – Teil 3/3 (Y 86–99)
+### Schritt 18.3 – Reihenhaus an Via Giuseppe Giusti – Teil 3/3 (Y 91–104)
 
-- **Y-Bereich:** 86 bis 99
+- **Y-Bereich:** 91 bis 104
 - **Blöcke:** 1.811
 - **Bauteile:** `w481356944`
 
@@ -168,7 +170,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.4 – Reihenhaus an Via Giuseppe Giusti: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 68 bis 92
 - **Blöcke:** 831
 - **Bauteile:** `w481356944_innen`
 
@@ -206,9 +208,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.5 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 1/18 (Y 63–63)
+### Schritt 18.5 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 1/18 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.721
 - **Bauteile:** `w481356945`
 
@@ -234,9 +236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.6 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 2/18 (Y 63–63)
+### Schritt 18.6 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 2/18 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.747
 - **Bauteile:** `w481356945`
 
@@ -262,9 +264,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.7 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 3/18 (Y 64–65)
+### Schritt 18.7 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 3/18 (Y 69–70)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.432
 - **Bauteile:** `w481356945`
 
@@ -293,9 +295,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.8 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 4/18 (Y 66–67)
+### Schritt 18.8 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 4/18 (Y 71–72)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.439
 - **Bauteile:** `w481356945`
 
@@ -325,9 +327,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.9 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 5/18 (Y 68–70)
+### Schritt 18.9 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 5/18 (Y 73–75)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 73 bis 75
 - **Blöcke:** 2.007
 - **Bauteile:** `w481356945`
 
@@ -357,9 +359,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.10 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 6/18 (Y 71–72)
+### Schritt 18.10 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 6/18 (Y 76–77)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.398
 - **Bauteile:** `w481356945`
 
@@ -389,9 +391,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.11 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 7/18 (Y 73–74)
+### Schritt 18.11 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 7/18 (Y 78–79)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.660
 - **Bauteile:** `w481356945`
 
@@ -420,9 +422,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.12 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 8/18 (Y 75–76)
+### Schritt 18.12 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 8/18 (Y 80–81)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.508
 - **Bauteile:** `w481356945`
 
@@ -450,9 +452,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.13 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 9/18 (Y 77–79)
+### Schritt 18.13 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 9/18 (Y 82–84)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 2.004
 - **Bauteile:** `w481356945`
 
@@ -481,9 +483,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.14 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 10/18 (Y 80–82)
+### Schritt 18.14 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 10/18 (Y 85–87)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 2.065
 - **Bauteile:** `w481356945`
 
@@ -512,9 +514,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.15 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 11/18 (Y 83–84)
+### Schritt 18.15 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 11/18 (Y 88–89)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.660
 - **Bauteile:** `w481356945`
 
@@ -542,9 +544,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.16 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 12/18 (Y 85–86)
+### Schritt 18.16 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 12/18 (Y 90–91)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.453
 - **Bauteile:** `w481356945`
 
@@ -573,9 +575,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.17 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 13/18 (Y 87–89)
+### Schritt 18.17 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 13/18 (Y 92–94)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 2.004
 - **Bauteile:** `w481356945`
 
@@ -604,9 +606,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.18 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 14/18 (Y 90–91)
+### Schritt 18.18 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 14/18 (Y 95–96)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.397
 - **Bauteile:** `w481356945`
 
@@ -635,9 +637,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.19 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 15/18 (Y 92–93)
+### Schritt 18.19 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 15/18 (Y 97–98)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.874
 - **Bauteile:** `w481356945`
 
@@ -666,9 +668,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.20 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 16/18 (Y 94–94)
+### Schritt 18.20 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 16/18 (Y 99–99)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.652
 - **Bauteile:** `w481356945`
 
@@ -694,9 +696,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.21 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 17/18 (Y 95–96)
+### Schritt 18.21 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 17/18 (Y 100–101)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 100 bis 101
 - **Blöcke:** 1.803
 - **Bauteile:** `w481356945`
 
@@ -722,9 +724,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.22 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 18/18 (Y 97–101)
+### Schritt 18.22 – Renaissance-Palazzo an Via Giuseppe Giusti – Teil 18/18 (Y 102–106)
 
-- **Y-Bereich:** 97 bis 101
+- **Y-Bereich:** 102 bis 106
 - **Blöcke:** 1.372
 - **Bauteile:** `w481356945`
 
@@ -751,9 +753,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.23 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 18.23 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 1/4 (Y 68–79)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.448
 - **Bauteile:** `w481356945_innen`
 
@@ -789,9 +791,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.24 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 18.24 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 2/4 (Y 79–79)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.371
 - **Bauteile:** `w481356945_innen`
 
@@ -818,9 +820,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.25 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 18.25 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 3/4 (Y 80–88)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 1.426
 - **Bauteile:** `w481356945_innen`
 
@@ -858,9 +860,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.26 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 18.26 – Renaissance-Palazzo an Via Giuseppe Giusti: Innenausbau – Teil 4/4 (Y 88–89)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.373
 - **Bauteile:** `w481356945_innen`
 
@@ -889,9 +891,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.27 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 1/10 (Y 63–63)
+### Schritt 18.27 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 1/10 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.054
 - **Bauteile:** `w481356971`
 
@@ -917,9 +919,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.28 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 2/10 (Y 63–65)
+### Schritt 18.28 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 2/10 (Y 68–70)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.843
 - **Bauteile:** `w481356971`
 
@@ -950,9 +952,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.29 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 3/10 (Y 66–70)
+### Schritt 18.29 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 3/10 (Y 71–75)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.851
 - **Bauteile:** `w481356971`
 
@@ -984,9 +986,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.30 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 4/10 (Y 71–75)
+### Schritt 18.30 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 4/10 (Y 76–80)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.935
 - **Bauteile:** `w481356971`
 
@@ -1014,9 +1016,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.31 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 5/10 (Y 76–80)
+### Schritt 18.31 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 5/10 (Y 81–85)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.775
 - **Bauteile:** `w481356971`
 
@@ -1045,9 +1047,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.32 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 6/10 (Y 81–84)
+### Schritt 18.32 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 6/10 (Y 86–89)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.548
 - **Bauteile:** `w481356971`
 
@@ -1075,9 +1077,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.33 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 7/10 (Y 85–89)
+### Schritt 18.33 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 7/10 (Y 90–94)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.807
 - **Bauteile:** `w481356971`
 
@@ -1106,9 +1108,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.34 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 8/10 (Y 90–93)
+### Schritt 18.34 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 8/10 (Y 95–98)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 95 bis 98
 - **Blöcke:** 1.811
 - **Bauteile:** `w481356971`
 
@@ -1138,9 +1140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.35 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 9/10 (Y 94–94)
+### Schritt 18.35 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 9/10 (Y 99–99)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.132
 - **Bauteile:** `w481356971`
 
@@ -1166,9 +1168,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.36 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 10/10 (Y 95–101)
+### Schritt 18.36 – Palazzo des Cinquecento an Via Giuseppe Giusti – Teil 10/10 (Y 100–106)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 100 bis 106
 - **Blöcke:** 1.893
 - **Bauteile:** `w481356971`
 
@@ -1195,9 +1197,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.37 – Palazzo des Cinquecento an Via Giuseppe Giusti: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 18.37 – Palazzo des Cinquecento an Via Giuseppe Giusti: Innenausbau – Teil 1/2 (Y 68–78)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 68 bis 78
 - **Blöcke:** 1.787
 - **Bauteile:** `w481356971_innen`
 
@@ -1237,9 +1239,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.38 – Palazzo des Cinquecento an Via Giuseppe Giusti: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 18.38 – Palazzo des Cinquecento an Via Giuseppe Giusti: Innenausbau – Teil 2/2 (Y 79–89)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 79 bis 89
 - **Blöcke:** 1.779
 - **Bauteile:** `w481356971_innen`
 
@@ -1279,9 +1281,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.39 – Reihenhaus an Via Giuseppe Giusti – Teil 1/4 (Y 63–69)
+### Schritt 18.39 – Reihenhaus an Via Giuseppe Giusti – Teil 1/4 (Y 69–75)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.882
 - **Bauteile:** `w481356978`
 
@@ -1311,9 +1313,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.40 – Reihenhaus an Via Giuseppe Giusti – Teil 2/4 (Y 70–79)
+### Schritt 18.40 – Reihenhaus an Via Giuseppe Giusti – Teil 2/4 (Y 76–85)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 76 bis 85
 - **Blöcke:** 1.942
 - **Bauteile:** `w481356978`
 
@@ -1342,9 +1344,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.41 – Reihenhaus an Via Giuseppe Giusti – Teil 3/4 (Y 80–89)
+### Schritt 18.41 – Reihenhaus an Via Giuseppe Giusti – Teil 3/4 (Y 86–95)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 86 bis 95
 - **Blöcke:** 1.908
 - **Bauteile:** `w481356978`
 
@@ -1372,18 +1374,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.42 – Reihenhaus an Via Giuseppe Giusti – Teil 4/4 (Y 90–98)
+### Schritt 18.42 – Reihenhaus an Via Giuseppe Giusti – Teil 4/4 (Y 96–104)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.994
+- **Y-Bereich:** 96 bis 104
+- **Blöcke:** 2.025
 - **Bauteile:** `w481356978`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.031 |
-| Hellgrauer Beton | `light_gray_concrete` | 623 |
+| Terrakotta | `terracotta` | 1.033 |
+| Hellgrauer Beton | `light_gray_concrete` | 652 |
 | Fichtenholz-Bretter | `spruce_planks` | 150 |
 | Weißer Beton | `white_concrete` | 99 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
@@ -1407,8 +1409,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.43 – Reihenhaus an Via Giuseppe Giusti: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.750
+- **Y-Bereich:** 69 bis 92
+- **Blöcke:** 1.745
 - **Bauteile:** `w481356978_innen`
 
 **Teileliste**
@@ -1416,18 +1418,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.611 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -1445,9 +1447,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.44 – Kunsthistorisches Institut in Florenz – Teil 1/34 (Y 63–63)
+### Schritt 18.44 – Kunsthistorisches Institut in Florenz – Teil 1/34 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 2.025
 - **Bauteile:** `w481357042`
 
@@ -1473,9 +1475,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.45 – Kunsthistorisches Institut in Florenz – Teil 2/34 (Y 63–63)
+### Schritt 18.45 – Kunsthistorisches Institut in Florenz – Teil 2/34 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.963
 - **Bauteile:** `w481357042`
 
@@ -1501,9 +1503,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.46 – Kunsthistorisches Institut in Florenz – Teil 3/34 (Y 63–63)
+### Schritt 18.46 – Kunsthistorisches Institut in Florenz – Teil 3/34 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 2.013
 - **Bauteile:** `w481357042`
 
@@ -1529,9 +1531,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.47 – Kunsthistorisches Institut in Florenz – Teil 4/34 (Y 64–64)
+### Schritt 18.47 – Kunsthistorisches Institut in Florenz – Teil 4/34 (Y 70–70)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.077
 - **Bauteile:** `w481357042`
 
@@ -1560,9 +1562,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.48 – Kunsthistorisches Institut in Florenz – Teil 5/34 (Y 65–65)
+### Schritt 18.48 – Kunsthistorisches Institut in Florenz – Teil 5/34 (Y 71–71)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.077
 - **Bauteile:** `w481357042`
 
@@ -1591,9 +1593,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.49 – Kunsthistorisches Institut in Florenz – Teil 6/34 (Y 66–66)
+### Schritt 18.49 – Kunsthistorisches Institut in Florenz – Teil 6/34 (Y 72–72)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.147
 - **Bauteile:** `w481357042`
 
@@ -1622,9 +1624,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.50 – Kunsthistorisches Institut in Florenz – Teil 7/34 (Y 67–67)
+### Schritt 18.50 – Kunsthistorisches Institut in Florenz – Teil 7/34 (Y 73–73)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.009
 - **Bauteile:** `w481357042`
 
@@ -1654,9 +1656,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.51 – Kunsthistorisches Institut in Florenz – Teil 8/34 (Y 68–68)
+### Schritt 18.51 – Kunsthistorisches Institut in Florenz – Teil 8/34 (Y 74–74)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.016
 - **Bauteile:** `w481357042`
 
@@ -1686,9 +1688,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.52 – Kunsthistorisches Institut in Florenz – Teil 9/34 (Y 69–69)
+### Schritt 18.52 – Kunsthistorisches Institut in Florenz – Teil 9/34 (Y 75–75)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.016
 - **Bauteile:** `w481357042`
 
@@ -1718,9 +1720,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.53 – Kunsthistorisches Institut in Florenz – Teil 10/34 (Y 70–71)
+### Schritt 18.53 – Kunsthistorisches Institut in Florenz – Teil 10/34 (Y 76–77)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 2.032
 - **Bauteile:** `w481357042`
 
@@ -1750,9 +1752,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.54 – Kunsthistorisches Institut in Florenz – Teil 11/34 (Y 72–72)
+### Schritt 18.54 – Kunsthistorisches Institut in Florenz – Teil 11/34 (Y 78–78)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.088
 - **Bauteile:** `w481357042`
 
@@ -1781,9 +1783,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.55 – Kunsthistorisches Institut in Florenz – Teil 12/34 (Y 73–73)
+### Schritt 18.55 – Kunsthistorisches Institut in Florenz – Teil 12/34 (Y 79–79)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.117
 - **Bauteile:** `w481357042`
 
@@ -1811,9 +1813,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.56 – Kunsthistorisches Institut in Florenz – Teil 13/34 (Y 74–74)
+### Schritt 18.56 – Kunsthistorisches Institut in Florenz – Teil 13/34 (Y 80–80)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.117
 - **Bauteile:** `w481357042`
 
@@ -1840,9 +1842,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.57 – Kunsthistorisches Institut in Florenz – Teil 14/34 (Y 75–75)
+### Schritt 18.57 – Kunsthistorisches Institut in Florenz – Teil 14/34 (Y 81–81)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.117
 - **Bauteile:** `w481357042`
 
@@ -1869,9 +1871,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.58 – Kunsthistorisches Institut in Florenz – Teil 15/34 (Y 76–76)
+### Schritt 18.58 – Kunsthistorisches Institut in Florenz – Teil 15/34 (Y 82–82)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.210
 - **Bauteile:** `w481357042`
 
@@ -1899,9 +1901,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.59 – Kunsthistorisches Institut in Florenz – Teil 16/34 (Y 77–78)
+### Schritt 18.59 – Kunsthistorisches Institut in Florenz – Teil 16/34 (Y 83–84)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 2.052
 - **Bauteile:** `w481357042`
 
@@ -1931,9 +1933,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.60 – Kunsthistorisches Institut in Florenz – Teil 17/34 (Y 79–79)
+### Schritt 18.60 – Kunsthistorisches Institut in Florenz – Teil 17/34 (Y 85–85)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.026
 - **Bauteile:** `w481357042`
 
@@ -1963,157 +1965,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.61 – Kunsthistorisches Institut in Florenz – Teil 18/34 (Y 80–81)
-
-- **Y-Bereich:** 80 bis 81
-- **Blöcke:** 2.052
-- **Bauteile:** `w481357042`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.177 |
-| Glatter Stein | `smooth_stone` | 328 |
-| Graues Buntglas | `gray_stained_glass` | 288 |
-| Grüner Beton | `green_concrete` | 230 |
-| Polierter Andesit | `polished_andesite` | 29 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.62 – Kunsthistorisches Institut in Florenz – Teil 19/34 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.117
-- **Bauteile:** `w481357042`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 787 |
-| Glatter Stein | `smooth_stone` | 308 |
-| Polierter Andesit | `polished_andesite` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.63 – Kunsthistorisches Institut in Florenz – Teil 20/34 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.117
-- **Bauteile:** `w481357042`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 682 |
-| Hellgrauer Beton | `light_gray_concrete` | 435 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.64 – Kunsthistorisches Institut in Florenz – Teil 21/34 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.117
-- **Bauteile:** `w481357042`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.095 |
-| Polierter Andesit | `polished_andesite` | 22 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.65 – Kunsthistorisches Institut in Florenz – Teil 22/34 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.210
-- **Bauteile:** `w481357042`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 802 |
-| Glatter Stein | `smooth_stone` | 401 |
-| Polierter Andesit | `polished_andesite` | 7 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 18.66 – Kunsthistorisches Institut in Florenz – Teil 23/34 (Y 86–87)
+### Schritt 18.61 – Kunsthistorisches Institut in Florenz – Teil 18/34 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 2.052
@@ -2145,9 +1997,127 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.67 – Kunsthistorisches Institut in Florenz – Teil 24/34 (Y 88–89)
+### Schritt 18.62 – Kunsthistorisches Institut in Florenz – Teil 19/34 (Y 88–88)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.117
+- **Bauteile:** `w481357042`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 787 |
+| Glatter Stein | `smooth_stone` | 308 |
+| Polierter Andesit | `polished_andesite` | 22 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 18.63 – Kunsthistorisches Institut in Florenz – Teil 20/34 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.117
+- **Bauteile:** `w481357042`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 682 |
+| Hellgrauer Beton | `light_gray_concrete` | 435 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 18.64 – Kunsthistorisches Institut in Florenz – Teil 21/34 (Y 90–90)
+
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 1.117
+- **Bauteile:** `w481357042`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.095 |
+| Polierter Andesit | `polished_andesite` | 22 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 18.65 – Kunsthistorisches Institut in Florenz – Teil 22/34 (Y 91–91)
+
+- **Y-Bereich:** 91 bis 91
+- **Blöcke:** 1.210
+- **Bauteile:** `w481357042`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 802 |
+| Glatter Stein | `smooth_stone` | 401 |
+| Polierter Andesit | `polished_andesite` | 7 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 18.66 – Kunsthistorisches Institut in Florenz – Teil 23/34 (Y 92–93)
+
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 2.052
 - **Bauteile:** `w481357042`
 
@@ -2177,9 +2147,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.68 – Kunsthistorisches Institut in Florenz – Teil 25/34 (Y 90–90)
+### Schritt 18.67 – Kunsthistorisches Institut in Florenz – Teil 24/34 (Y 94–95)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 94 bis 95
+- **Blöcke:** 2.052
+- **Bauteile:** `w481357042`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.177 |
+| Glatter Stein | `smooth_stone` | 328 |
+| Graues Buntglas | `gray_stained_glass` | 288 |
+| Grüner Beton | `green_concrete` | 230 |
+| Polierter Andesit | `polished_andesite` | 29 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 18.68 – Kunsthistorisches Institut in Florenz – Teil 25/34 (Y 96–96)
+
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.026
 - **Bauteile:** `w481357042`
 
@@ -2209,9 +2211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.69 – Kunsthistorisches Institut in Florenz – Teil 26/34 (Y 91–91)
+### Schritt 18.69 – Kunsthistorisches Institut in Florenz – Teil 26/34 (Y 97–97)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.117
 - **Bauteile:** `w481357042`
 
@@ -2239,9 +2241,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.70 – Kunsthistorisches Institut in Florenz – Teil 27/34 (Y 92–92)
+### Schritt 18.70 – Kunsthistorisches Institut in Florenz – Teil 27/34 (Y 98–98)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.446
 - **Bauteile:** `w481357042`
 
@@ -2268,17 +2270,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.71 – Kunsthistorisches Institut in Florenz – Teil 28/34 (Y 93–93)
+### Schritt 18.71 – Kunsthistorisches Institut in Florenz – Teil 28/34 (Y 99–99)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.446
+- **Y-Bereich:** 99 bis 99
+- **Blöcke:** 1.455
 - **Bauteile:** `w481357042`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.439 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.448 |
 | Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
@@ -2297,9 +2299,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.72 – Kunsthistorisches Institut in Florenz – Teil 29/34 (Y 94–94)
+### Schritt 18.72 – Kunsthistorisches Institut in Florenz – Teil 29/34 (Y 100–100)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.278
 - **Bauteile:** `w481357042`
 
@@ -2325,9 +2327,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.73 – Kunsthistorisches Institut in Florenz – Teil 30/34 (Y 94–94)
+### Schritt 18.73 – Kunsthistorisches Institut in Florenz – Teil 30/34 (Y 100–100)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.281
 - **Bauteile:** `w481357042`
 
@@ -2353,9 +2355,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.74 – Kunsthistorisches Institut in Florenz – Teil 31/34 (Y 95–95)
+### Schritt 18.74 – Kunsthistorisches Institut in Florenz – Teil 31/34 (Y 101–101)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.450
 - **Bauteile:** `w481357042`
 
@@ -2381,9 +2383,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.75 – Kunsthistorisches Institut in Florenz – Teil 32/34 (Y 96–96)
+### Schritt 18.75 – Kunsthistorisches Institut in Florenz – Teil 32/34 (Y 102–102)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.397
 - **Bauteile:** `w481357042`
 
@@ -2409,9 +2411,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.76 – Kunsthistorisches Institut in Florenz – Teil 33/34 (Y 97–98)
+### Schritt 18.76 – Kunsthistorisches Institut in Florenz – Teil 33/34 (Y 103–104)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.899
 - **Bauteile:** `w481357042`
 
@@ -2438,9 +2440,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.77 – Kunsthistorisches Institut in Florenz – Teil 34/34 (Y 99–104)
+### Schritt 18.77 – Kunsthistorisches Institut in Florenz – Teil 34/34 (Y 105–110)
 
-- **Y-Bereich:** 99 bis 104
+- **Y-Bereich:** 105 bis 110
 - **Blöcke:** 1.033
 - **Bauteile:** `w481357042`
 
@@ -2467,9 +2469,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.78 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 18.78 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 1/6 (Y 69–80)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 69 bis 80
 - **Blöcke:** 1.715
 - **Bauteile:** `w481357042_innen`
 
@@ -2506,9 +2508,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.79 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 18.79 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 2/6 (Y 80–80)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.635
 - **Bauteile:** `w481357042_innen`
 
@@ -2535,9 +2537,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.80 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 3/6 (Y 74–74)
+### Schritt 18.80 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 3/6 (Y 80–80)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.633
 - **Bauteile:** `w481357042_innen`
 
@@ -2571,9 +2573,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.81 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 4/6 (Y 75–83)
+### Schritt 18.81 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 4/6 (Y 81–89)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.679
 - **Bauteile:** `w481357042_innen`
 
@@ -2611,9 +2613,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.82 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 5/6 (Y 83–83)
+### Schritt 18.82 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 5/6 (Y 89–89)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.635
 - **Bauteile:** `w481357042_innen`
 
@@ -2640,10 +2642,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.83 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 6/6 (Y 83–84)
+### Schritt 18.83 – Kunsthistorisches Institut in Florenz: Innenausbau – Teil 6/6 (Y 89–90)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.635
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.638
 - **Bauteile:** `w481357042_innen`
 
 **Teileliste**
@@ -2653,6 +2655,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 1.622 |
 | Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 
@@ -2660,6 +2665,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 | Steintreppe | `stone_stairs` | 2 |
 
 **Beschreibung**
@@ -2678,18 +2684,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.84 – Reihenhaus an Via Giuseppe Giusti – Teil 1/3 (Y 63–72)
+### Schritt 18.84 – Reihenhaus an Via Giuseppe Giusti – Teil 1/3 (Y 68–76)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.832
+- **Y-Bereich:** 68 bis 76
+- **Blöcke:** 1.751
 - **Bauteile:** `w481357057`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 953 |
-| Polierter Tuffstein | `polished_tuff` | 751 |
+| Gelbe Keramik | `yellow_terracotta` | 873 |
+| Polierter Tuffstein | `polished_tuff` | 750 |
 | Glatter Stein | `smooth_stone` | 104 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -2709,17 +2715,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.85 – Reihenhaus an Via Giuseppe Giusti – Teil 2/3 (Y 73–86)
+### Schritt 18.85 – Reihenhaus an Via Giuseppe Giusti – Teil 2/3 (Y 77–91)
 
-- **Y-Bereich:** 73 bis 86
-- **Blöcke:** 1.698
+- **Y-Bereich:** 77 bis 91
+- **Blöcke:** 1.822
 - **Bauteile:** `w481357057`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.378 |
+| Gelbe Keramik | `yellow_terracotta` | 1.502 |
 | Glatter Stein | `smooth_stone` | 250 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 
@@ -2739,9 +2745,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.86 – Reihenhaus an Via Giuseppe Giusti – Teil 3/3 (Y 87–100)
+### Schritt 18.86 – Reihenhaus an Via Giuseppe Giusti – Teil 3/3 (Y 92–105)
 
-- **Y-Bereich:** 87 bis 100
+- **Y-Bereich:** 92 bis 105
 - **Blöcke:** 1.819
 - **Bauteile:** `w481357057`
 
@@ -2773,21 +2779,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.87 – Reihenhaus an Via Giuseppe Giusti: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.987
+- **Y-Bereich:** 68 bis 92
+- **Blöcke:** 1.990
 - **Bauteile:** `w481357057_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.857 |
+| Terrakotta | `terracotta` | 1.854 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Seelaterne | `sea_lantern` | 20 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2813,7 +2819,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 18.88 – Reihenhaus an Via Giuseppe Giusti & Reihenhaus an Via Giuseppe Giusti: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 69 bis 104
 - **Blöcke:** 1.998
 - **Bauteile:** `w676106024`, `w676106024_innen`
 

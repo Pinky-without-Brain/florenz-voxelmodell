@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Bögen und Ausstattung",
+  "subtitle": "Bautüte 2: Bogenwände zu den Armen, Chorgestühl und Hochaltar",
+  "icon": "🏛️",
+  "parts": {
+    "boegen": {
+      "title": "Bogenwände",
+      "description": "Zwischen Saal und Nordarm sowie Saal und Presbyterium spannen sich große Rundbögen (Scheitel Y 95 und Y 99); darüber geht die Wand bis zum Dach.",
+      "tip": "Erst die Bogenlaibung aus Pietra serena, dann die Wand.",
+      "caution": "Unter den Bögen bleibt alles frei.",
+      "fact": "Matteo Segaloni baute die Kirche 1627–31 zum griechischen Kreuz um und verlegte den Altar nach Süden."
+    },
+    "chorgestuehl": {
+      "title": "Chorgestühl",
+      "description": "Entlang der Wände des Presbyteriums läuft das hölzerne Chorgestühl aus Dunkler Eiche.",
+      "tip": "Eine Lage hoch, eine Reihe vor der Wand.",
+      "caution": "Davor bleibt der Gang frei.",
+      "fact": "Das Chorgestühl schufen Francesco und Marco Del Tasso im 16. Jahrhundert."
+    },
+    "hochaltar": {
+      "title": "Hochaltar",
+      "description": "An der Südwand des Presbyteriums steht der Hochaltar aus hellem Quarz mit goldener Platte bis Y 70.",
+      "tip": "In der Mitte der Südwand.",
+      "caution": "Rundherum bleibt Platz.",
+      "fact": "Seit dem Umbau zeigt der Altar nach Süden, zum Arno."
+    }
+  }
+}

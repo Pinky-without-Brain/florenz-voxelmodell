@@ -1,0 +1,36 @@
+{
+  "module": 5,
+  "title": "Decken und Dächer",
+  "subtitle": "Bautüte 5: Kassettendecke, Hängekuppeln und Dächer",
+  "icon": "🏠",
+  "parts": {
+    "kassettendecke": {
+      "title": "Kassettendecke",
+      "description": "Über dem Mittelschiff, den Querarmen und dem Chor liegt eine flache Kassettendecke aus Dunkler Eiche mit goldenen Rosetten (bis Y 108).",
+      "tip": "Die Kassetten folgen dem Halbmodul.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Das Mittelschiff trägt eine flache Kassettendecke, die Seitenschiffe dagegen kleine Hängekuppeln."
+    },
+    "gewoelbe": {
+      "title": "Hängekuppeln",
+      "description": "Die Joche des Umgangs schließen mit kleinen Hängekuppeln aus weißem Putz (Y 79 bis 89).",
+      "tip": "Jede Kuppel deckt genau ein Joch.",
+      "caution": "Über ihnen liegt das Pultdach.",
+      "fact": "Diese kleinen Kuppeln geben den Seitenschiffen ihren Rhythmus."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Satteldach über dem Kreuz bis Y 120 und Pultdächer über dem Umgang, alles mit Terrakotta gedeckt.",
+      "tip": "Lege die Dachflächen von der Traufe zum First.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Außen versteckt die schlichte Dachlandschaft den Reichtum des Innenraums."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo Dächer verschieden hoch sind, schließen Schildwände aus Steinziegeln die Lücke (Y 96 bis 119).",
+      "tip": "Sie folgen der Dachneigung.",
+      "caution": "Keine Öffnungen.",
+      "fact": "So bleibt der Dachraum dicht."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "module": 5,
+  "title": "Licht",
+  "subtitle": "Bautüte 5: Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "licht": {
+      "title": "Licht",
+      "description": "Im Boden setzt du Seelaternen im Raster von 12 Blöcken.",
+      "tip": "Ersetze dazu den Bodenblock.",
+      "caution": "Nicht unter dem Chorgestühl.",
+      "fact": "So bleibt der ganze Innenraum hell."
+    }
+  }
+}

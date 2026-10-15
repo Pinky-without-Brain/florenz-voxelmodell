@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.735 |
+| Blöcke | 11.859 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 69 bis 106 |
 | X-Ausdehnung | 1251 bis 1292 (42 Blöcke) |
 | Z-Ausdehnung | -967 bis -913 (55 Blöcke) |
 | Kleinster Schritt | 1.229 Blöcke (Schritt 20.7) |
-| Mittlerer Schritt | 1.676 Blöcke |
+| Mittlerer Schritt | 1.694 Blöcke |
 | Größter Schritt | 1.903 Blöcke (Schritt 20.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 5.401 | 46,0 % |
-| Terrakotta | `terracotta` | 2.381 | 20,3 % |
-| Weißer Beton | `white_concrete` | 1.262 | 10,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 5.401 | 45,5 % |
+| Terrakotta | `terracotta` | 2.381 | 20,1 % |
+| Weißer Beton | `white_concrete` | 1.262 | 10,6 % |
 | Polierter Tuffstein | `polished_tuff` | 850 | 7,2 % |
 | Graues Buntglas | `gray_stained_glass` | 673 | 5,7 % |
 | Glatter Stein | `smooth_stone` | 428 | 3,6 % |
 | Polierter Andesit | `polished_andesite` | 357 | 3,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 258 | 2,2 % |
+| Tuffstein | `tuff` | 124 | 1,0 % |
 | Ziegelsteine | `bricks` | 56 | 0,5 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,2 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,2 % |
@@ -51,15 +52,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w113286755` | Haus w113286755 | 10.506 | 20.1–20.6 |
+| 1 | `w113286755` | Haus w113286755 | 10.630 | 20.1–20.6 |
 | 2 | `w113286755_innen` | Haus w113286755: Innenausbau | 1.229 | 20.7 |
 
 ## Bauschritte
 
-### Schritt 20.1 – Haus w113286755 – Teil 1/6 (Y 63–66)
+### Schritt 20.1 – Haus w113286755 – Teil 1/6 (Y 69–73)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.678
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.802
 - **Bauteile:** `w113286755`
 
 **Teileliste**
@@ -68,6 +69,7 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 850 |
 | Glatter Sandstein | `smooth_sandstone` | 683 |
+| Tuffstein | `tuff` | 124 |
 | Weißer Beton | `white_concrete` | 88 |
 | Polierter Andesit | `polished_andesite` | 44 |
 | Glatter Stein | `smooth_stone` | 9 |
@@ -89,9 +91,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.2 – Haus w113286755 – Teil 2/6 (Y 67–73)
+### Schritt 20.2 – Haus w113286755 – Teil 2/6 (Y 74–80)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.877
 - **Bauteile:** `w113286755`
 
@@ -122,9 +124,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.3 – Haus w113286755 – Teil 3/6 (Y 74–79)
+### Schritt 20.3 – Haus w113286755 – Teil 3/6 (Y 81–86)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.594
 - **Bauteile:** `w113286755`
 
@@ -153,9 +155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.4 – Haus w113286755 – Teil 4/6 (Y 80–86)
+### Schritt 20.4 – Haus w113286755 – Teil 4/6 (Y 87–93)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.903
 - **Bauteile:** `w113286755`
 
@@ -185,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.5 – Haus w113286755 – Teil 5/6 (Y 87–92)
+### Schritt 20.5 – Haus w113286755 – Teil 5/6 (Y 94–99)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 94 bis 99
 - **Blöcke:** 1.641
 - **Bauteile:** `w113286755`
 
@@ -217,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.6 – Haus w113286755 – Teil 6/6 (Y 93–99)
+### Schritt 20.6 – Haus w113286755 – Teil 6/6 (Y 100–106)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 100 bis 106
 - **Blöcke:** 1.813
 - **Bauteile:** `w113286755`
 
@@ -251,7 +253,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 20.7 – Haus w113286755: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 70 bis 91
 - **Blöcke:** 1.229
 - **Bauteile:** `w113286755_innen`
 

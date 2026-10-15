@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden auf Y 61",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Nur an wenigen Stellen liegt das Gelände tiefer; dort füllst du mit Tuff bis Y 60 auf.",
+      "tip": "Fast überall liegt der Boden direkt auf dem Gelände.",
+      "caution": "Nicht zu hoch füllen.",
+      "fact": "Unter der Kirche liegt die Krypta des älteren Oratoriums Santa Maria dello Spasimo (1077 belegt)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 61 legst du den Boden: im Mittelschiff, im Querhaus und im Chor ein Schachbrett aus Glattem Stein und hellem Quarz, in den Kapellen rosa Terrakotta.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Der Boden liegt bündig mit der Piazza Santa Trinita."
+    }
+  }
+}

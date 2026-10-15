@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 57.603 |
-| Bauschritte | 38 |
+| Blöcke | 57.598 |
+| Bauschritte | 39 |
 | Y-Bereich | 48 bis 70 |
 | X-Ausdehnung | 96 bis 415 (320 Blöcke) |
 | Z-Ausdehnung | 1072 bis 1391 (320 Blöcke) |
-| Kleinster Schritt | 434 Blöcke (Schritt 130.28) |
-| Mittlerer Schritt | 1.516 Blöcke |
-| Größter Schritt | 2.082 Blöcke (Schritt 130.17) |
+| Kleinster Schritt | 434 Blöcke (Schritt 130.29) |
+| Mittlerer Schritt | 1.477 Blöcke |
+| Größter Schritt | 2.085 Blöcke (Schritt 130.18) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 28.961 | 50,3 % |
-| Stein | `stone` | 7.730 | 13,4 % |
+| Polierter Tuffstein | `polished_tuff` | 28.925 | 50,2 % |
+| Stein | `stone` | 7.729 | 13,4 % |
 | Wasser | `water` | 6.602 | 11,5 % |
 | Grasblock | `grass_block` | 5.060 | 8,8 % |
-| Glatter Stein | `smooth_stone` | 4.623 | 8,0 % |
+| Glatter Stein | `smooth_stone` | 4.654 | 8,1 % |
 | Kies | `gravel` | 3.301 | 5,7 % |
 | Polierter Andesit | `polished_andesite` | 1.049 | 1,8 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 108 | 0,2 % |
 | Steinziegel | `stone_bricks` | 64 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 35 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 36 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 32 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 27 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 | 0,0 % |
@@ -41,39 +41,39 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 202 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 203 |
 | Steintreppe | `stone_stairs` | 11 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 8.027 | 130.1–130.5 |
-| 2 | `arno_bett` | Flussbett | 3.301 | 130.6–130.7 |
-| 3 | `arno_wasser` | Arno | 6.602 | 130.8–130.11 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 15.719 | 130.12–130.21 |
-| 5 | `gehwege` | Gehwege | 3.608 | 130.22–130.23 |
-| 6 | `stufen` | Treppenflächen | 231 | 130.24 |
-| 7 | `plaetze_pflaster` | Plätze | 6.382 | 130.24–130.28 |
-| 8 | `hof_pflaster` | Höfe | 7.657 | 130.29–130.34 |
-| 9 | `rasen` | Grün und offenes Gelände | 5.800 | 130.35–130.38 |
-| 10 | `ufer_bruestung` | Brüstung der Lungarni | 196 | 130.38 |
-| 11 | `mauern_garten` | Gartenmauern | 80 | 130.38 |
+| 1 | `boeschung` | Böschung und Mantel | 8.026 | 130.1–130.6 |
+| 2 | `arno_bett` | Flussbett | 3.301 | 130.7–130.8 |
+| 3 | `arno_wasser` | Arno | 6.602 | 130.9–130.12 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 15.681 | 130.13–130.22 |
+| 5 | `gehwege` | Gehwege | 3.639 | 130.23–130.24 |
+| 6 | `stufen` | Treppenflächen | 232 | 130.25 |
+| 7 | `plaetze_pflaster` | Plätze | 6.382 | 130.25–130.29 |
+| 8 | `hof_pflaster` | Höfe | 7.659 | 130.30–130.35 |
+| 9 | `rasen` | Grün und offenes Gelände | 5.800 | 130.36–130.39 |
+| 10 | `ufer_bruestung` | Brüstung der Lungarni | 196 | 130.39 |
+| 11 | `mauern_garten` | Gartenmauern | 80 | 130.39 |
 
 ## Bauschritte
 
-### Schritt 130.1 – Böschung und Mantel – Teil 1/5 (Y 48–54)
+### Schritt 130.1 – Böschung und Mantel – Teil 1/6 (Y 48–53)
 
-- **Y-Bereich:** 48 bis 54
-- **Blöcke:** 1.508
+- **Y-Bereich:** 48 bis 53
+- **Blöcke:** 1.253
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 796 |
-| Stein | `stone` | 712 |
+| Polierter Andesit | `polished_andesite` | 744 |
+| Stein | `stone` | 509 |
 
 **Beschreibung**
 
@@ -91,18 +91,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 130.2 – Böschung und Mantel – Teil 2/5 (Y 55–60)
+### Schritt 130.2 – Böschung und Mantel – Teil 2/6 (Y 54–58)
 
-- **Y-Bereich:** 55 bis 60
-- **Blöcke:** 1.696
+- **Y-Bereich:** 54 bis 58
+- **Blöcke:** 1.299
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.556 |
-| Polierter Andesit | `polished_andesite` | 140 |
+| Stein | `stone` | 1.120 |
+| Polierter Andesit | `polished_andesite` | 179 |
 
 **Beschreibung**
 
@@ -120,17 +120,46 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 130.3 – Böschung und Mantel – Teil 3/5 (Y 61–61)
+### Schritt 130.3 – Böschung und Mantel – Teil 3/6 (Y 59–60)
+
+- **Y-Bereich:** 59 bis 60
+- **Blöcke:** 1.493
+- **Bauteile:** `boeschung`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Stein | `stone` | 1.480 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
+
+**Tipp**
+
+Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
+
+**Achtung**
+
+Im Uferband ist die Böschung die Ufermauer (Pietra forte).
+
+**Fakt**
+
+Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
+
+### Schritt 130.4 – Böschung und Mantel – Teil 4/6 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.109
+- **Blöcke:** 1.535
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.103 |
+| Stein | `stone` | 1.529 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -149,17 +178,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 130.4 – Böschung und Mantel – Teil 4/5 (Y 62–62)
+### Schritt 130.5 – Böschung und Mantel – Teil 5/6 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.791
+- **Blöcke:** 857
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.786 |
+| Stein | `stone` | 852 |
 | Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
@@ -178,17 +207,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 130.5 – Böschung und Mantel – Teil 5/5 (Y 63–66)
+### Schritt 130.6 – Böschung und Mantel – Teil 6/6 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.923
+- **Blöcke:** 1.589
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.905 |
+| Stein | `stone` | 1.571 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
@@ -207,7 +236,7 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 130.6 – Flussbett – Teil 1/2 (Y 48–48)
+### Schritt 130.7 – Flussbett – Teil 1/2 (Y 48–48)
 
 - **Y-Bereich:** 48 bis 48
 - **Blöcke:** 1.524
@@ -235,7 +264,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 130.7 – Flussbett – Teil 2/2 (Y 48–49)
+### Schritt 130.8 – Flussbett – Teil 2/2 (Y 48–49)
 
 - **Y-Bereich:** 48 bis 49
 - **Blöcke:** 1.777
@@ -263,7 +292,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 130.8 – Arno – Teil 1/4 (Y 49–49)
+### Schritt 130.9 – Arno – Teil 1/4 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 1.524
@@ -291,7 +320,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 130.9 – Arno – Teil 2/4 (Y 49–49)
+### Schritt 130.10 – Arno – Teil 2/4 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 1.520
@@ -319,7 +348,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 130.10 – Arno – Teil 3/4 (Y 50–50)
+### Schritt 130.11 – Arno – Teil 3/4 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.650
@@ -347,7 +376,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 130.11 – Arno – Teil 4/4 (Y 50–51)
+### Schritt 130.12 – Arno – Teil 4/4 (Y 50–51)
 
 - **Y-Bereich:** 50 bis 51
 - **Blöcke:** 1.908
@@ -375,7 +404,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 130.12 – Straßenpflaster – Teil 1/10 (Y 54–60)
+### Schritt 130.13 – Straßenpflaster – Teil 1/10 (Y 54–60)
 
 - **Y-Bereich:** 54 bis 60
 - **Blöcke:** 1.749
@@ -403,7 +432,7 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.13 – Straßenpflaster – Teil 2/10 (Y 60–60)
+### Schritt 130.14 – Straßenpflaster – Teil 2/10 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.409
@@ -431,17 +460,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.14 – Straßenpflaster – Teil 3/10 (Y 61–61)
+### Schritt 130.15 – Straßenpflaster – Teil 3/10 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.437
+- **Blöcke:** 1.423
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.437 |
+| Polierter Tuffstein | `polished_tuff` | 1.423 |
 
 **Beschreibung**
 
@@ -459,17 +488,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.15 – Straßenpflaster – Teil 4/10 (Y 61–61)
+### Schritt 130.16 – Straßenpflaster – Teil 4/10 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.433
+- **Blöcke:** 1.408
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.433 |
+| Polierter Tuffstein | `polished_tuff` | 1.408 |
 
 **Beschreibung**
 
@@ -487,17 +516,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.16 – Straßenpflaster – Teil 5/10 (Y 61–61)
+### Schritt 130.17 – Straßenpflaster – Teil 5/10 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.445
+- **Blöcke:** 1.426
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.445 |
+| Polierter Tuffstein | `polished_tuff` | 1.426 |
 
 **Beschreibung**
 
@@ -515,17 +544,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.17 – Straßenpflaster – Teil 6/10 (Y 62–62)
+### Schritt 130.18 – Straßenpflaster – Teil 6/10 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.082
+- **Blöcke:** 2.085
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.082 |
+| Polierter Tuffstein | `polished_tuff` | 2.085 |
 
 **Beschreibung**
 
@@ -543,17 +572,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.18 – Straßenpflaster – Teil 7/10 (Y 63–63)
+### Schritt 130.19 – Straßenpflaster – Teil 7/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.451
+- **Blöcke:** 1.462
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.451 |
+| Polierter Tuffstein | `polished_tuff` | 1.462 |
 
 **Beschreibung**
 
@@ -571,7 +600,7 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.19 – Straßenpflaster – Teil 8/10 (Y 64–64)
+### Schritt 130.20 – Straßenpflaster – Teil 8/10 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.275
@@ -599,17 +628,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.20 – Straßenpflaster – Teil 9/10 (Y 64–65)
+### Schritt 130.21 – Straßenpflaster – Teil 9/10 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 2.040
+- **Blöcke:** 2.046
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.040 |
+| Polierter Tuffstein | `polished_tuff` | 2.046 |
 
 **Beschreibung**
 
@@ -627,7 +656,7 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.21 – Straßenpflaster – Teil 10/10 (Y 66–67)
+### Schritt 130.22 – Straßenpflaster – Teil 10/10 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.398
@@ -655,17 +684,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 130.22 – Gehwege – Teil 1/2 (Y 50–63)
+### Schritt 130.23 – Gehwege – Teil 1/2 (Y 50–63)
 
 - **Y-Bereich:** 50 bis 63
-- **Blöcke:** 1.916
+- **Blöcke:** 1.936
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.916 |
+| Glatter Stein | `smooth_stone` | 1.936 |
 
 **Beschreibung**
 
@@ -683,17 +712,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 130.23 – Gehwege – Teil 2/2 (Y 64–67)
+### Schritt 130.24 – Gehwege – Teil 2/2 (Y 64–67)
 
 - **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.692
+- **Blöcke:** 1.703
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.680 |
+| Glatter Stein | `smooth_stone` | 1.691 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
@@ -712,10 +741,10 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 130.24 – Treppenflächen & Plätze – Teil 1/5 (Y 61–61)
+### Schritt 130.25 – Treppenflächen & Plätze – Teil 1/5 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.611
+- **Blöcke:** 1.612
 - **Bauteile:** `stufen`, `plaetze_pflaster`
 
 **Teileliste**
@@ -725,7 +754,7 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 | Polierter Tuffstein | `polished_tuff` | 1.218 |
 | Glatter Stein | `smooth_stone` | 180 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 108 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 35 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 36 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 32 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 27 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
@@ -736,7 +765,7 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 202 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 203 |
 | Steintreppe | `stone_stairs` | 11 |
 
 **Beschreibung**
@@ -755,7 +784,7 @@ Treppenblöcke folgen in einer späteren Stufe. Das Muster ist geschätzt, das P
 
 Viele Treppen führen in Oltrarno die Hänge hinauf. Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 130.25 – Plätze – Teil 2/5 (Y 62–62)
+### Schritt 130.26 – Plätze – Teil 2/5 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.345
@@ -784,7 +813,7 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 130.26 – Plätze – Teil 3/5 (Y 62–62)
+### Schritt 130.27 – Plätze – Teil 3/5 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.319
@@ -813,7 +842,7 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 130.27 – Plätze – Teil 4/5 (Y 63–63)
+### Schritt 130.28 – Plätze – Teil 4/5 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.904
@@ -842,7 +871,7 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 130.28 – Plätze – Teil 5/5 (Y 64–64)
+### Schritt 130.29 – Plätze – Teil 5/5 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 434
@@ -871,17 +900,17 @@ Das Muster ist geschätzt, das Pflaster selbst belegt.
 
 Die Piazza della Signoria wurde 1385 erstmals gepflastert.
 
-### Schritt 130.29 – Höfe – Teil 1/6 (Y 60–61)
+### Schritt 130.30 – Höfe – Teil 1/6 (Y 60–61)
 
 - **Y-Bereich:** 60 bis 61
-- **Blöcke:** 1.230
+- **Blöcke:** 1.226
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.230 |
+| Polierter Tuffstein | `polished_tuff` | 1.226 |
 
 **Beschreibung**
 
@@ -899,17 +928,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 130.30 – Höfe – Teil 2/6 (Y 61–61)
+### Schritt 130.31 – Höfe – Teil 2/6 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.116
+- **Blöcke:** 1.114
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.116 |
+| Polierter Tuffstein | `polished_tuff` | 1.114 |
 
 **Beschreibung**
 
@@ -927,17 +956,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 130.31 – Höfe – Teil 3/6 (Y 62–62)
+### Schritt 130.32 – Höfe – Teil 3/6 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.565
+- **Blöcke:** 1.549
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.565 |
+| Polierter Tuffstein | `polished_tuff` | 1.549 |
 
 **Beschreibung**
 
@@ -955,17 +984,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 130.32 – Höfe – Teil 4/6 (Y 63–64)
+### Schritt 130.33 – Höfe – Teil 4/6 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.380
+- **Blöcke:** 1.404
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.380 |
+| Polierter Tuffstein | `polished_tuff` | 1.404 |
 
 **Beschreibung**
 
@@ -983,7 +1012,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 130.33 – Höfe – Teil 5/6 (Y 65–65)
+### Schritt 130.34 – Höfe – Teil 5/6 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.193
@@ -1011,7 +1040,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 130.34 – Höfe – Teil 6/6 (Y 65–66)
+### Schritt 130.35 – Höfe – Teil 6/6 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.173
@@ -1039,7 +1068,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 130.35 – Grün und offenes Gelände – Teil 1/4 (Y 50–50)
+### Schritt 130.36 – Grün und offenes Gelände – Teil 1/4 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.179
@@ -1067,7 +1096,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 130.36 – Grün und offenes Gelände – Teil 2/4 (Y 51–54)
+### Schritt 130.37 – Grün und offenes Gelände – Teil 2/4 (Y 51–54)
 
 - **Y-Bereich:** 51 bis 54
 - **Blöcke:** 1.857
@@ -1097,7 +1126,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 130.37 – Grün und offenes Gelände – Teil 3/4 (Y 55–60)
+### Schritt 130.38 – Grün und offenes Gelände – Teil 3/4 (Y 55–60)
 
 - **Y-Bereich:** 55 bis 60
 - **Blöcke:** 1.328
@@ -1127,7 +1156,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 130.38 – Grün und offenes Gelände – Teil 4/4 (Y 61–67) & Brüstung der Lungarni & Gartenmauern
+### Schritt 130.39 – Grün und offenes Gelände – Teil 4/4 (Y 61–67) & Brüstung der Lungarni & Gartenmauern
 
 - **Y-Bereich:** 56 bis 70
 - **Blöcke:** 1.712

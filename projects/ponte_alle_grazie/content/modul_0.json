@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Pfeiler und Widerlager",
+  "subtitle": "Bautüte 0: 4 Pfeiler im Fluss und die Widerlager an den Ufern",
+  "icon": "🧱",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Im Arno stehen 4 Pfeiler aus Pietra forte; sie reichen vom Flussbett unter dem Wasserspiegel (Y 51) bis unter die Fahrbahn, mit spitzen Vorköpfen gegen die Strömung.",
+      "tip": "Baue jeden Pfeiler von unten nach oben.",
+      "caution": "Die Vorköpfe gehören zur Brückenfläche.",
+      "fact": "Die erste Brücke hieß Rubaconte, nach dem Podestà Rubaconte da Mandello, und hatte neun Bögen."
+    },
+    "widerlager": {
+      "title": "Widerlager",
+      "description": "An beiden Ufern tragen massive Widerlager die Fahrbahn bis zur Höhe der Uferstraßen (Y 67 und Y 69).",
+      "tip": "Außen glatte Steine, innen Füllmauerwerk.",
+      "caution": "Bis unter die Fahrbahn füllen.",
+      "fact": "Der Name stammt von einer Kapelle der Madonna delle Grazie, die einst auf der Brücke stand."
+    }
+  }
+}

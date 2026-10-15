@@ -8,22 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.617 |
+| Blöcke | 2.724 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 78 |
+| Y-Bereich | 69 bis 85 |
 | X-Ausdehnung | 655 bis 683 (29 Blöcke) |
 | Z-Ausdehnung | -1425 bis -1393 (33 Blöcke) |
 | Kleinster Schritt | 1.285 Blöcke (Schritt 13.2) |
-| Mittlerer Schritt | 1.309 Blöcke |
-| Größter Schritt | 1.332 Blöcke (Schritt 13.1) |
+| Mittlerer Schritt | 1.362 Blöcke |
+| Größter Schritt | 1.439 Blöcke (Schritt 13.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.722 | 65,8 % |
-| Terrakotta | `terracotta` | 492 | 18,8 % |
-| Polierter Tuffstein | `polished_tuff` | 374 | 14,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 1.722 | 63,2 % |
+| Terrakotta | `terracotta` | 492 | 18,1 % |
+| Polierter Tuffstein | `polished_tuff` | 374 | 13,7 % |
+| Tuffstein | `tuff` | 107 | 3,9 % |
 | Ziegelsteine | `bricks` | 27 | 1,0 % |
 | Seelaterne | `sea_lantern` | 2 | 0,1 % |
 
@@ -31,15 +32,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w155641514` | Haus w155641514 | 2.615 | 13.1–13.2 |
+| 1 | `w155641514` | Haus w155641514 | 2.722 | 13.1–13.2 |
 | 2 | `w155641514_innen` | Haus w155641514: Innenausbau | 2 | 13.2 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Haus w155641514 – Teil 1/2 (Y 63–69)
+### Schritt 13.1 – Haus w155641514 – Teil 1/2 (Y 69–76)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.332
+- **Y-Bereich:** 69 bis 76
+- **Blöcke:** 1.439
 - **Bauteile:** `w155641514`
 
 **Teileliste**
@@ -48,6 +49,7 @@
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 958 |
 | Polierter Tuffstein | `polished_tuff` | 374 |
+| Tuffstein | `tuff` | 107 |
 
 **Beschreibung**
 
@@ -65,9 +67,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Haus w155641514 – Teil 2/2 (Y 70–78) & Haus w155641514: Innenausbau
+### Schritt 13.2 – Haus w155641514 – Teil 2/2 (Y 77–85) & Haus w155641514: Innenausbau
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 70 bis 85
 - **Blöcke:** 1.285
 - **Bauteile:** `w155641514`, `w155641514_innen`
 

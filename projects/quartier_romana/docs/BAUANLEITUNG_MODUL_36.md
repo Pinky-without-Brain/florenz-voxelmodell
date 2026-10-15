@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 4.083 |
+| Blöcke | 4.084 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 69 bis 104 |
 | X-Ausdehnung | -2135 bis -2108 (28 Blöcke) |
 | Z-Ausdehnung | 2570 bis 2590 (21 Blöcke) |
-| Kleinster Schritt | 1.988 Blöcke (Schritt 36.1) |
+| Kleinster Schritt | 1.989 Blöcke (Schritt 36.1) |
 | Mittlerer Schritt | 2.042 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 36.2) |
 
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Rosa Keramik | `pink_terracotta` | 2.414 | 59,1 % |
-| Weißer Beton | `white_concrete` | 737 | 18,1 % |
+| Weißer Beton | `white_concrete` | 737 | 18,0 % |
 | Terrakotta | `terracotta` | 351 | 8,6 % |
 | Polierter Tuffstein | `polished_tuff` | 212 | 5,2 % |
 | Graues Buntglas | `gray_stained_glass` | 186 | 4,6 % |
@@ -30,20 +30,21 @@
 | Polierter Andesit | `polished_andesite` | 44 | 1,1 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
+| Tuffstein | `tuff` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w482812648` | Haus w482812648 | 4.082 | 36.1–36.2 |
+| 1 | `w482812648` | Haus w482812648 | 4.083 | 36.1–36.2 |
 | 2 | `w482812648_innen` | Haus w482812648: Innenausbau | 1 | 36.2 |
 
 ## Bauschritte
 
-### Schritt 36.1 – Haus w482812648 – Teil 1/2 (Y 63–79)
+### Schritt 36.1 – Haus w482812648 – Teil 1/2 (Y 69–86)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.988
+- **Y-Bereich:** 69 bis 86
+- **Blöcke:** 1.989
 - **Bauteile:** `w482812648`
 
 **Teileliste**
@@ -55,6 +56,7 @@
 | Polierter Tuffstein | `polished_tuff` | 212 |
 | Graues Buntglas | `gray_stained_glass` | 91 |
 | Polierter Andesit | `polished_andesite` | 44 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -72,9 +74,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.2 – Haus w482812648 – Teil 2/2 (Y 80–97) & Haus w482812648: Innenausbau
+### Schritt 36.2 – Haus w482812648 – Teil 2/2 (Y 87–104) & Haus w482812648: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 70 bis 104
 - **Blöcke:** 2.095
 - **Bauteile:** `w482812648`, `w482812648_innen`
 

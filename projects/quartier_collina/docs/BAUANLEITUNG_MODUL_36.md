@@ -8,33 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 30.620 |
-| Bauschritte | 21 |
-| Y-Bereich | 63 bis 104 |
+| Blöcke | 43.209 |
+| Bauschritte | 29 |
+| Y-Bereich | 107 bis 162 |
 | X-Ausdehnung | 992 bis 1071 (80 Blöcke) |
 | Z-Ausdehnung | 2408 bis 2493 (86 Blöcke) |
-| Kleinster Schritt | 1.098 Blöcke (Schritt 36.12) |
-| Mittlerer Schritt | 1.458 Blöcke |
-| Größter Schritt | 1.888 Blöcke (Schritt 36.16) |
+| Kleinster Schritt | 1.044 Blöcke (Schritt 36.3) |
+| Mittlerer Schritt | 1.490 Blöcke |
+| Größter Schritt | 2.076 Blöcke (Schritt 36.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 12.206 | 39,9 % |
-| Terrakotta | `terracotta` | 9.389 | 30,7 % |
-| Polierter Tuffstein | `polished_tuff` | 3.158 | 10,3 % |
-| Polierter Andesit | `polished_andesite` | 2.807 | 9,2 % |
-| Graues Buntglas | `gray_stained_glass` | 1.167 | 3,8 % |
-| Grüner Beton | `green_concrete` | 831 | 2,7 % |
-| Glatter Stein | `smooth_stone` | 784 | 2,6 % |
-| Ziegelsteine | `bricks` | 169 | 0,6 % |
+| Tuffstein | `tuff` | 12.589 | 29,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 12.206 | 28,2 % |
+| Terrakotta | `terracotta` | 9.389 | 21,7 % |
+| Polierter Tuffstein | `polished_tuff` | 3.148 | 7,3 % |
+| Polierter Andesit | `polished_andesite` | 2.807 | 6,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.167 | 2,7 % |
+| Grüner Beton | `green_concrete` | 831 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 784 | 1,8 % |
+| Ziegelsteine | `bricks` | 169 | 0,4 % |
 | Seelaterne | `sea_lantern` | 42 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 12 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -44,28 +47,29 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762530` | Palazzo des Cinquecento an Via del Monte alle Croci | 25.373 | 36.1–36.17 |
-| 2 | `w119762530_innen` | Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau | 5.247 | 36.18–36.21 |
+| 1 | `w119762530` | Palazzo des Cinquecento an Via del Monte alle Croci | 37.962 | 36.1–36.25 |
+| 2 | `w119762530_innen` | Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau | 5.247 | 36.26–36.29 |
 
 ## Bauschritte
 
-### Schritt 36.1 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 1/17 (Y 63–63)
+### Schritt 36.1 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 1/25 (Y 107–112)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.599
+- **Y-Bereich:** 107 bis 112
+- **Blöcke:** 1.303
 - **Bauteile:** `w119762530`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.599 |
+| Tuffstein | `tuff` | 1.303 |
 
 **Beschreibung**
 
@@ -83,9 +87,292 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.2 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 2/17 (Y 63–63)
+### Schritt 36.2 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 2/25 (Y 113–114)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 113 bis 114
+- **Blöcke:** 1.611
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.611 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.3 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 3/25 (Y 115–115)
+
+- **Y-Bereich:** 115 bis 115
+- **Blöcke:** 1.044
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.044 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.4 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 4/25 (Y 116–116)
+
+- **Y-Bereich:** 116 bis 116
+- **Blöcke:** 1.206
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.206 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.5 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 5/25 (Y 117–117)
+
+- **Y-Bereich:** 117 bis 117
+- **Blöcke:** 1.364
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.364 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.6 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 6/25 (Y 118–118)
+
+- **Y-Bereich:** 118 bis 118
+- **Blöcke:** 1.547
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.546 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.7 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 7/25 (Y 119–119)
+
+- **Y-Bereich:** 119 bis 119
+- **Blöcke:** 2.076
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.073 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.8 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 8/25 (Y 120–120)
+
+- **Y-Bereich:** 120 bis 120
+- **Blöcke:** 1.207
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.204 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.9 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 9/25 (Y 120–120)
+
+- **Y-Bereich:** 120 bis 120
+- **Blöcke:** 1.238
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.238 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.10 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 10/25 (Y 121–121)
+
+- **Y-Bereich:** 121 bis 121
+- **Blöcke:** 1.592
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.589 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.11 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 11/25 (Y 121–121)
+
+- **Y-Bereich:** 121 bis 121
 - **Blöcke:** 1.559
 - **Bauteile:** `w119762530`
 
@@ -111,50 +398,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.3 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 3/17 (Y 64–65)
+### Schritt 36.12 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 12/25 (Y 122–124)
 
-- **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.188
+- **Y-Bereich:** 122 bis 124
+- **Blöcke:** 1.830
 - **Bauteile:** `w119762530`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.139 |
-| Polierter Andesit | `polished_andesite` | 46 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.4 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 4/17 (Y 66–68)
-
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.738
-- **Bauteile:** `w119762530`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.035 |
-| Polierter Andesit | `polished_andesite` | 430 |
-| Graues Buntglas | `gray_stained_glass` | 154 |
-| Grüner Beton | `green_concrete` | 114 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.549 |
+| Polierter Andesit | `polished_andesite` | 276 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
@@ -173,21 +428,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.5 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 5/17 (Y 69–70)
+### Schritt 36.13 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 13/25 (Y 125–127)
 
-- **Y-Bereich:** 69 bis 70
-- **Blöcke:** 1.106
+- **Y-Bereich:** 125 bis 127
+- **Blöcke:** 1.647
 - **Bauteile:** `w119762530`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 699 |
-| Polierter Andesit | `polished_andesite` | 202 |
-| Graues Buntglas | `gray_stained_glass` | 144 |
-| Grüner Beton | `green_concrete` | 57 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 948 |
+| Polierter Andesit | `polished_andesite` | 290 |
+| Graues Buntglas | `gray_stained_glass` | 231 |
+| Grüner Beton | `green_concrete` | 171 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
@@ -205,47 +460,48 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.6 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 6/17 (Y 71–73)
+### Schritt 36.14 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 14/25 (Y 128–130)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.803
+- **Y-Bereich:** 128 bis 130
+- **Blöcke:** 1.757
 - **Bauteile:** `w119762530`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.256 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.397 |
+| Polierter Andesit | `polished_andesite` | 293 |
+| Graues Buntglas | `gray_stained_glass` | 67 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.15 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 15/25 (Y 131–133)
+
+- **Y-Bereich:** 131 bis 133
+- **Blöcke:** 1.852
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.242 |
 | Glatter Stein | `smooth_stone` | 366 |
-| Polierter Andesit | `polished_andesite` | 181 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.7 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 7/17 (Y 74–75)
-
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.251
-- **Bauteile:** `w119762530`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.007 |
 | Polierter Andesit | `polished_andesite` | 244 |
 
 **Beschreibung**
@@ -264,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.8 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 8/17 (Y 76–78)
+### Schritt 36.16 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 16/25 (Y 134–136)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 134 bis 136
 - **Blöcke:** 1.647
 - **Bauteile:** `w119762530`
 
@@ -295,101 +551,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.9 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 9/17 (Y 79–81)
+### Schritt 36.17 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 17/25 (Y 137–138)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.647
-- **Bauteile:** `w119762530`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 949 |
-| Polierter Andesit | `polished_andesite` | 281 |
-| Graues Buntglas | `gray_stained_glass` | 237 |
-| Grüner Beton | `green_concrete` | 180 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.10 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 10/17 (Y 82–83)
-
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.202
-- **Bauteile:** `w119762530`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 652 |
-| Glatter Stein | `smooth_stone` | 366 |
-| Polierter Andesit | `polished_andesite` | 184 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.11 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 11/17 (Y 84–86)
-
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.800
-- **Bauteile:** `w119762530`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.312 |
-| Polierter Andesit | `polished_andesite` | 349 |
-| Graues Buntglas | `gray_stained_glass` | 79 |
-| Grüner Beton | `green_concrete` | 60 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.12 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 12/17 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 137 bis 138
 - **Blöcke:** 1.098
 - **Bauteile:** `w119762530`
 
@@ -418,9 +582,101 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.13 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 13/17 (Y 89–91)
+### Schritt 36.18 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 18/25 (Y 139–141)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 139 bis 141
+- **Blöcke:** 1.751
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 974 |
+| Glatter Stein | `smooth_stone` | 366 |
+| Polierter Andesit | `polished_andesite` | 272 |
+| Graues Buntglas | `gray_stained_glass` | 79 |
+| Grüner Beton | `green_concrete` | 60 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.19 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 19/25 (Y 142–143)
+
+- **Y-Bereich:** 142 bis 143
+- **Blöcke:** 1.251
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.007 |
+| Polierter Andesit | `polished_andesite` | 244 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.20 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 20/25 (Y 144–146)
+
+- **Y-Bereich:** 144 bis 146
+- **Blöcke:** 1.647
+- **Bauteile:** `w119762530`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 932 |
+| Polierter Andesit | `polished_andesite` | 298 |
+| Graues Buntglas | `gray_stained_glass` | 237 |
+| Grüner Beton | `green_concrete` | 180 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.21 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 21/25 (Y 147–149)
+
+- **Y-Bereich:** 147 bis 149
 - **Blöcke:** 1.699
 - **Bauteile:** `w119762530`
 
@@ -449,9 +705,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.14 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 14/17 (Y 92–93)
+### Schritt 36.22 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 22/25 (Y 150–151)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 150 bis 151
 - **Blöcke:** 1.576
 - **Bauteile:** `w119762530`
 
@@ -478,9 +734,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.15 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 15/17 (Y 94–94)
+### Schritt 36.23 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 23/25 (Y 152–152)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 152 bis 152
 - **Blöcke:** 1.334
 - **Bauteile:** `w119762530`
 
@@ -506,9 +762,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.16 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 16/17 (Y 95–97)
+### Schritt 36.24 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 24/25 (Y 153–155)
 
-- **Y-Bereich:** 95 bis 97
+- **Y-Bereich:** 153 bis 155
 - **Blöcke:** 1.888
 - **Bauteile:** `w119762530`
 
@@ -535,9 +791,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.17 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 17/17 (Y 98–104)
+### Schritt 36.25 – Palazzo des Cinquecento an Via del Monte alle Croci – Teil 25/25 (Y 156–162)
 
-- **Y-Bereich:** 98 bis 104
+- **Y-Bereich:** 156 bis 162
 - **Blöcke:** 1.238
 - **Bauteile:** `w119762530`
 
@@ -564,9 +820,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.18 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 36.26 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 1/4 (Y 121–131)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 121 bis 131
 - **Blöcke:** 1.317
 - **Bauteile:** `w119762530_innen`
 
@@ -602,9 +858,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.19 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 36.27 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 2/4 (Y 131–131)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 131 bis 131
 - **Blöcke:** 1.306
 - **Bauteile:** `w119762530_innen`
 
@@ -631,9 +887,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.20 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 36.28 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 3/4 (Y 132–141)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 132 bis 141
 - **Blöcke:** 1.312
 - **Bauteile:** `w119762530_innen`
 
@@ -675,9 +931,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.21 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 36.29 – Palazzo des Cinquecento an Via del Monte alle Croci: Innenausbau – Teil 4/4 (Y 141–142)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 141 bis 142
 - **Blöcke:** 1.312
 - **Bauteile:** `w119762530_innen`
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 2.406 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 64 bis 95 |
 | X-Ausdehnung | 1199 bis 1210 (12 Blöcke) |
 | Z-Ausdehnung | 491 bis 507 (17 Blöcke) |
 | Kleinster Schritt | 1.188 Blöcke (Schritt 13.1) |
@@ -38,9 +38,9 @@
 
 ## Bauschritte
 
-### Schritt 13.1 – Nebengebäude an Via Michelangelo Buonarroti – Teil 1/2 (Y 63–78)
+### Schritt 13.1 – Nebengebäude an Via Michelangelo Buonarroti – Teil 1/2 (Y 64–79)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 64 bis 79
 - **Blöcke:** 1.188
 - **Bauteile:** `w686347939`
 
@@ -70,9 +70,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Nebengebäude an Via Michelangelo Buonarroti – Teil 2/2 (Y 79–94) & Nebengebäude an Via Michelangelo Buonarroti: Innenausbau
+### Schritt 13.2 – Nebengebäude an Via Michelangelo Buonarroti – Teil 2/2 (Y 80–95) & Nebengebäude an Via Michelangelo Buonarroti: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 64 bis 95
 - **Blöcke:** 1.218
 - **Bauteile:** `w686347939`, `w686347939_innen`
 

@@ -1,0 +1,15 @@
+{
+  "module": 5,
+  "title": "Torre Volognana",
+  "subtitle": "Bautüte 5: der Turm des Bargello",
+  "icon": "🗼",
+  "parts": {
+    "turm": {
+      "title": "Torre Volognana",
+      "description": "An der Nordwestecke steigt der Turm über das Dach bis Y 178, oben ein Zinnenkranz; innen ist der Schaft hohl.",
+      "tip": "Zwei Blöcke dicke Wände, Gesims unter den Zinnen.",
+      "caution": "Der Schaft ist im Modell ohne Zugang.",
+      "fact": "Der Turm ist 57 Meter hoch; er ist älter als der Palast und wurde in den Bau einbezogen."
+    }
+  }
+}

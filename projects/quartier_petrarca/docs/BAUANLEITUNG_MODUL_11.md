@@ -8,34 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 85.122 |
+| Blöcke | 85.854 |
 | Bauschritte | 50 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 58 bis 98 |
 | X-Ausdehnung | -2964 bis -2847 (118 Blöcke) |
 | Z-Ausdehnung | 1302 bis 1539 (238 Blöcke) |
-| Kleinster Schritt | 975 Blöcke (Schritt 11.41) |
-| Mittlerer Schritt | 1.702 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 11.27) |
+| Kleinster Schritt | 974 Blöcke (Schritt 11.41) |
+| Mittlerer Schritt | 1.717 Blöcke |
+| Größter Schritt | 2.082 Blöcke (Schritt 11.48) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 25.866 | 30,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 12.168 | 14,3 % |
-| Orange Keramik | `orange_terracotta` | 11.279 | 13,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.015 | 10,6 % |
-| Polierter Tuffstein | `polished_tuff` | 7.459 | 8,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.761 | 6,8 % |
+| Terrakotta | `terracotta` | 25.869 | 30,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 12.200 | 14,2 % |
+| Orange Keramik | `orange_terracotta` | 11.315 | 13,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.015 | 10,5 % |
+| Polierter Tuffstein | `polished_tuff` | 7.456 | 8,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 5.814 | 6,8 % |
 | Endsteinziegel | `end_stone_bricks` | 3.614 | 4,2 % |
-| Weißer Beton | `white_concrete` | 3.537 | 4,2 % |
+| Weißer Beton | `white_concrete` | 3.537 | 4,1 % |
 | Glatter Stein | `smooth_stone` | 1.738 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 1.523 | 1,8 % |
 | Polierter Andesit | `polished_andesite` | 1.252 | 1,5 % |
+| Tuffstein | `tuff` | 603 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 578 | 0,7 % |
 | Ziegelsteine | `bricks` | 503 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 186 | 0,2 % |
-| Seelaterne | `sea_lantern` | 162 | 0,2 % |
+| Seelaterne | `sea_lantern` | 158 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 120 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 114 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 96 | 0,1 % |
@@ -43,8 +44,9 @@
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 5 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -52,49 +54,51 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 418 |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464120045` | Reihenhaus an Via Domenico Burchiello | 6.352 | 11.1–11.4 |
+| 1 | `w464120045` | Reihenhaus an Via Domenico Burchiello | 6.719 | 11.1–11.4 |
 | 2 | `w464120045_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.397 | 11.5 |
-| 3 | `w464120052` | Reihenhaus an Via Domenico Burchiello | 5.977 | 11.6–11.8 |
-| 4 | `w464120052_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.659 | 11.9 |
-| 5 | `w464120053` | Reihenhaus an Via Domenico Burchiello | 4.794 | 11.10–11.12 |
+| 3 | `w464120052` | Reihenhaus an Via Domenico Burchiello | 6.097 | 11.6–11.8 |
+| 4 | `w464120052_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.665 | 11.9 |
+| 5 | `w464120053` | Reihenhaus an Via Domenico Burchiello | 4.826 | 11.10–11.12 |
 | 6 | `w464120053_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.352 | 11.13 |
 | 7 | `w464120054` | Reihenhaus an Via Domenico Burchiello | 5.024 | 11.14–11.16 |
 | 8 | `w464120054_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.410 | 11.17 |
-| 9 | `w464120073` | Palazzo des Cinquecento an Via Luigi Pulci | 9.904 | 11.18–11.23 |
+| 9 | `w464120073` | Palazzo des Cinquecento an Via Luigi Pulci | 10.020 | 11.18–11.23 |
 | 10 | `w464120073_innen` | Palazzo des Cinquecento an Via Luigi Pulci: Innenausbau | 1.702 | 11.24 |
 | 11 | `w464120092` | Reihenhaus an Via Luigi Pulci | 5.923 | 11.25–11.27 |
 | 12 | `w464120092_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.307 | 11.28 |
 | 13 | `w464120136` | Reihenhaus an Via Luigi Pulci | 8.604 | 11.29–11.33 |
 | 14 | `w464120136_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 2.827 | 11.34–11.35 |
-| 15 | `w464120145` | Reihenhaus an Via Luigi Pulci | 9.605 | 11.36–11.40 |
-| 16 | `w464120145_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 2.801 | 11.41–11.42 |
+| 15 | `w464120145` | Reihenhaus an Via Luigi Pulci | 9.674 | 11.36–11.40 |
+| 16 | `w464120145_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 2.800 | 11.41–11.42 |
 | 17 | `w464120229` | Reihenhaus an Via Domenico Burchiello | 7.269 | 11.43–11.46 |
 | 18 | `w464120229_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.786 | 11.47 |
-| 19 | `w464120232` | Reihenhaus an Via Luigi Pulci | 4.083 | 11.48–11.49 |
-| 20 | `w464120232_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.346 | 11.50 |
+| 19 | `w464120232` | Reihenhaus an Via Luigi Pulci | 4.104 | 11.48–11.49 |
+| 20 | `w464120232_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.348 | 11.50 |
 
 ## Bauschritte
 
-### Schritt 11.1 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 63–69)
+### Schritt 11.1 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 59–66)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.555
+- **Y-Bereich:** 59 bis 66
+- **Blöcke:** 1.760
 - **Bauteile:** `w464120045`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 871 |
+| Gelbe Keramik | `yellow_terracotta` | 725 |
 | Polierter Tuffstein | `polished_tuff` | 598 |
-| Weißer Beton | `white_concrete` | 49 |
+| Tuffstein | `tuff` | 367 |
+| Weißer Beton | `white_concrete` | 38 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Graues Buntglas | `gray_stained_glass` | 15 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
 
 **Beschreibung**
 
@@ -112,9 +116,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.2 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 70–79)
+### Schritt 11.2 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 67–76)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.638
+- **Bauteile:** `w464120045`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.470 |
+| Weißer Beton | `white_concrete` | 142 |
+| Graues Buntglas | `gray_stained_glass` | 26 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 11.3 – Reihenhaus an Via Domenico Burchiello – Teil 3/4 (Y 77–86)
+
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.641
 - **Bauteile:** `w464120045`
 
@@ -122,8 +156,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.489 |
-| Weißer Beton | `white_concrete` | 131 |
+| Gelbe Keramik | `yellow_terracotta` | 1.485 |
+| Weißer Beton | `white_concrete` | 135 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
 
 **Beschreibung**
@@ -142,51 +176,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Reihenhaus an Via Domenico Burchiello – Teil 3/4 (Y 80–89)
+### Schritt 11.4 – Reihenhaus an Via Domenico Burchiello – Teil 4/4 (Y 87–97)
 
-- **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.638
+- **Y-Bereich:** 87 bis 97
+- **Blöcke:** 1.680
 - **Bauteile:** `w464120045`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.462 |
-| Weißer Beton | `white_concrete` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.4 – Reihenhaus an Via Domenico Burchiello – Teil 4/4 (Y 90–99)
-
-- **Y-Bereich:** 90 bis 99
-- **Blöcke:** 1.518
-- **Bauteile:** `w464120045`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 783 |
 | Terrakotta | `terracotta` | 757 |
-| Gelbe Keramik | `yellow_terracotta` | 641 |
-| Weißer Beton | `white_concrete` | 69 |
+| Weißer Beton | `white_concrete` | 82 |
 | Ziegelsteine | `bricks` | 44 |
-| Graues Buntglas | `gray_stained_glass` | 7 |
+| Graues Buntglas | `gray_stained_glass` | 14 |
 
 **Beschreibung**
 
@@ -206,7 +210,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.5 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.397
 - **Bauteile:** `w464120045_innen`
 
@@ -242,19 +246,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.6 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 63–72)
+### Schritt 11.6 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 58–69)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.929
+- **Y-Bereich:** 58 bis 69
+- **Blöcke:** 2.049
 - **Bauteile:** `w464120052`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.144 |
+| Glatter Sandstein | `smooth_sandstone` | 1.176 |
 | Polierter Tuffstein | `polished_tuff` | 665 |
 | Weißer Beton | `white_concrete` | 93 |
+| Tuffstein | `tuff` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 
 **Beschreibung**
@@ -273,9 +278,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.7 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 73–86)
+### Schritt 11.7 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 70–83)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 70 bis 83
 - **Blöcke:** 2.002
 - **Bauteile:** `w464120052`
 
@@ -303,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.8 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 87–100)
+### Schritt 11.8 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 84–97)
 
-- **Y-Bereich:** 87 bis 100
+- **Y-Bereich:** 84 bis 97
 - **Blöcke:** 2.046
 - **Bauteile:** `w464120052`
 
@@ -338,8 +343,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.9 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.659
+- **Y-Bereich:** 60 bis 84
+- **Blöcke:** 1.665
 - **Bauteile:** `w464120052_innen`
 
 **Teileliste**
@@ -348,9 +353,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.533 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -374,9 +381,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.10 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 63–72)
+### Schritt 11.10 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 61–70)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.590
 - **Bauteile:** `w464120053`
 
@@ -406,17 +413,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.11 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 73–85)
+### Schritt 11.11 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 71–84)
 
-- **Y-Bereich:** 73 bis 85
-- **Blöcke:** 1.555
+- **Y-Bereich:** 71 bis 84
+- **Blöcke:** 1.676
 - **Bauteile:** `w464120053`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.329 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.450 |
 | Weißer Beton | `white_concrete` | 202 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -436,17 +443,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.12 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 86–98)
+### Schritt 11.12 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 85–96)
 
-- **Y-Bereich:** 86 bis 98
-- **Blöcke:** 1.649
+- **Y-Bereich:** 85 bis 96
+- **Blöcke:** 1.560
 - **Bauteile:** `w464120053`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 866 |
+| Hellgrauer Beton | `light_gray_concrete` | 777 |
 | Terrakotta | `terracotta` | 651 |
 | Weißer Beton | `white_concrete` | 88 |
 | Ziegelsteine | `bricks` | 36 |
@@ -470,7 +477,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.13 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.352
 - **Bauteile:** `w464120053_innen`
 
@@ -508,9 +515,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.14 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 63–72)
+### Schritt 11.14 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 61–70)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.646
 - **Bauteile:** `w464120054`
 
@@ -539,9 +546,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.15 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 73–86)
+### Schritt 11.15 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 71–84)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 71 bis 84
 - **Blöcke:** 1.720
 - **Bauteile:** `w464120054`
 
@@ -568,9 +575,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.16 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 87–100)
+### Schritt 11.16 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 85–98)
 
-- **Y-Bereich:** 87 bis 100
+- **Y-Bereich:** 85 bis 98
 - **Blöcke:** 1.658
 - **Bauteile:** `w464120054`
 
@@ -601,7 +608,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.17 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.410
 - **Bauteile:** `w464120054_innen`
 
@@ -637,21 +644,29 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.18 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 1/6 (Y 63–65)
+### Schritt 11.18 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 1/6 (Y 60–63)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.536
+- **Y-Bereich:** 60 bis 63
+- **Blöcke:** 1.652
 - **Bauteile:** `w464120073`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.042 |
+| Polierter Tuffstein | `polished_tuff` | 1.038 |
 | Orange Keramik | `orange_terracotta` | 426 |
+| Tuffstein | `tuff` | 116 |
 | Glatter Stein | `smooth_stone` | 55 |
 | Polierter Andesit | `polished_andesite` | 10 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -669,9 +684,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.19 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 2/6 (Y 66–72)
+### Schritt 11.19 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 2/6 (Y 64–70)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.685
 - **Bauteile:** `w464120073`
 
@@ -701,9 +716,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.20 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 3/6 (Y 73–79)
+### Schritt 11.20 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 3/6 (Y 71–77)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.682
 - **Bauteile:** `w464120073`
 
@@ -732,9 +747,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.21 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 4/6 (Y 80–86)
+### Schritt 11.21 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 4/6 (Y 78–84)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.700
 - **Bauteile:** `w464120073`
 
@@ -763,9 +778,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.22 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 5/6 (Y 87–92)
+### Schritt 11.22 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 5/6 (Y 85–90)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 85 bis 90
 - **Blöcke:** 1.490
 - **Bauteile:** `w464120073`
 
@@ -794,9 +809,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.23 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 6/6 (Y 93–100)
+### Schritt 11.23 – Palazzo des Cinquecento an Via Luigi Pulci – Teil 6/6 (Y 91–98)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.811
 - **Bauteile:** `w464120073`
 
@@ -828,7 +843,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.24 – Palazzo des Cinquecento an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.702
 - **Bauteile:** `w464120073_innen`
 
@@ -870,9 +885,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.25 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 63–72)
+### Schritt 11.25 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 60–69)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.896
 - **Bauteile:** `w464120092`
 
@@ -901,9 +916,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.26 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 73–85)
+### Schritt 11.26 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 70–82)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 70 bis 82
 - **Blöcke:** 1.959
 - **Bauteile:** `w464120092`
 
@@ -931,9 +946,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.27 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 86–100)
+### Schritt 11.27 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 83–97)
 
-- **Y-Bereich:** 86 bis 100
+- **Y-Bereich:** 83 bis 97
 - **Blöcke:** 2.068
 - **Bauteile:** `w464120092`
 
@@ -966,7 +981,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.28 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.307
 - **Bauteile:** `w464120092_innen`
 
@@ -1002,9 +1017,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.29 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 63–66)
+### Schritt 11.29 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 60–63)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 60 bis 63
 - **Blöcke:** 1.689
 - **Bauteile:** `w464120136`
 
@@ -1034,9 +1049,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.30 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 67–75)
+### Schritt 11.30 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 64–72)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 64 bis 72
 - **Blöcke:** 1.803
 - **Bauteile:** `w464120136`
 
@@ -1065,9 +1080,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.31 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 76–83)
+### Schritt 11.31 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 73–80)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 73 bis 80
 - **Blöcke:** 1.618
 - **Bauteile:** `w464120136`
 
@@ -1095,9 +1110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.32 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 84–92)
+### Schritt 11.32 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 81–89)
 
-- **Y-Bereich:** 84 bis 92
+- **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.830
 - **Bauteile:** `w464120136`
 
@@ -1125,9 +1140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.33 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 93–100)
+### Schritt 11.33 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 90–97)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 90 bis 97
 - **Blöcke:** 1.664
 - **Bauteile:** `w464120136`
 
@@ -1155,9 +1170,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.34 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 11.34 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 60 bis 75
 - **Blöcke:** 983
 - **Bauteile:** `w464120136_innen`
 
@@ -1193,9 +1208,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.35 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 11.35 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 76–83)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.844
 - **Bauteile:** `w464120136_innen`
 
@@ -1231,21 +1246,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.36 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 63–67)
+### Schritt 11.36 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 58–62)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 2.008
+- **Y-Bereich:** 58 bis 62
+- **Blöcke:** 1.861
 - **Bauteile:** `w464120145`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.126 |
-| Orange Keramik | `orange_terracotta` | 782 |
-| Weißer Beton | `white_concrete` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Polierter Tuffstein | `polished_tuff` | 1.127 |
+| Orange Keramik | `orange_terracotta` | 650 |
+| Weißer Beton | `white_concrete` | 46 |
+| Tuffstein | `tuff` | 32 |
+| Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
 
@@ -1263,20 +1278,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.37 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 68–75)
+### Schritt 11.37 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 63–71)
 
-- **Y-Bereich:** 68 bis 75
-- **Blöcke:** 1.806
+- **Y-Bereich:** 63 bis 71
+- **Blöcke:** 2.022
 - **Bauteile:** `w464120145`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.508 |
-| Weißer Beton | `white_concrete` | 217 |
-| Graues Buntglas | `gray_stained_glass` | 74 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Orange Keramik | `orange_terracotta` | 1.676 |
+| Weißer Beton | `white_concrete` | 245 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
+| Glatter Stein | `smooth_stone` | 9 |
 
 **Beschreibung**
 
@@ -1294,9 +1309,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.38 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 76–84)
+### Schritt 11.38 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 72–80)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 2.033
 - **Bauteile:** `w464120145`
 
@@ -1324,9 +1339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.39 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 85–92)
+### Schritt 11.39 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 81–88)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.896
 - **Bauteile:** `w464120145`
 
@@ -1354,9 +1369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.40 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 93–102)
+### Schritt 11.40 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 89–98)
 
-- **Y-Bereich:** 93 bis 102
+- **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.862
 - **Bauteile:** `w464120145`
 
@@ -1384,21 +1399,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.41 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 11.41 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 59–74)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 975
+- **Y-Bereich:** 59 bis 74
+- **Blöcke:** 974
 - **Bauteile:** `w464120145_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 889 |
+| Terrakotta | `terracotta` | 890 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1422,9 +1437,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.42 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 11.42 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 75–82)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.826
 - **Bauteile:** `w464120145_innen`
 
@@ -1432,10 +1447,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.778 |
+| Terrakotta | `terracotta` | 1.780 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 
 **Treppen je Material** (alle Richtungen)
@@ -1460,9 +1475,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.43 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 63–69)
+### Schritt 11.43 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 61–67)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.807
 - **Bauteile:** `w464120229`
 
@@ -1493,9 +1508,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.44 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 70–79)
+### Schritt 11.44 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 68–77)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.814
 - **Bauteile:** `w464120229`
 
@@ -1523,9 +1538,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.45 – Reihenhaus an Via Domenico Burchiello – Teil 3/4 (Y 80–89)
+### Schritt 11.45 – Reihenhaus an Via Domenico Burchiello – Teil 3/4 (Y 78–87)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.805
 - **Bauteile:** `w464120229`
 
@@ -1553,9 +1568,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.46 – Reihenhaus an Via Domenico Burchiello – Teil 4/4 (Y 90–100)
+### Schritt 11.46 – Reihenhaus an Via Domenico Burchiello – Teil 4/4 (Y 88–98)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 88 bis 98
 - **Blöcke:** 1.843
 - **Bauteile:** `w464120229`
 
@@ -1587,7 +1602,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.47 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.786
 - **Bauteile:** `w464120229_innen`
 
@@ -1623,17 +1638,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.48 – Reihenhaus an Via Luigi Pulci – Teil 1/2 (Y 63–79)
+### Schritt 11.48 – Reihenhaus an Via Luigi Pulci – Teil 1/2 (Y 60–76)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 2.061
+- **Y-Bereich:** 60 bis 76
+- **Blöcke:** 2.082
 - **Bauteile:** `w464120232`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.204 |
+| Glatter Sandstein | `smooth_sandstone` | 1.225 |
 | Polierter Tuffstein | `polished_tuff` | 516 |
 | Polierter Andesit | `polished_andesite` | 281 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
@@ -1654,9 +1669,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.49 – Reihenhaus an Via Luigi Pulci – Teil 2/2 (Y 80–99)
+### Schritt 11.49 – Reihenhaus an Via Luigi Pulci – Teil 2/2 (Y 77–96)
 
-- **Y-Bereich:** 80 bis 99
+- **Y-Bereich:** 77 bis 96
 - **Blöcke:** 2.022
 - **Bauteile:** `w464120232`
 
@@ -1688,8 +1703,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.50 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.346
+- **Y-Bereich:** 60 bis 84
+- **Blöcke:** 1.348
 - **Bauteile:** `w464120232_innen`
 
 **Teileliste**
@@ -1698,9 +1713,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.224 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

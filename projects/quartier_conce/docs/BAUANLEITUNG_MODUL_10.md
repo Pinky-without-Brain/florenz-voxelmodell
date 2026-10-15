@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 161.419 |
+| Blöcke | 161.851 |
 | Bauschritte | 108 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 61 bis 102 |
 | X-Ausdehnung | 1309 bis 1532 (224 Blöcke) |
 | Z-Ausdehnung | 1153 bis 1364 (212 Blöcke) |
 | Kleinster Schritt | 624 Blöcke (Schritt 10.13) |
-| Mittlerer Schritt | 1.495 Blöcke |
+| Mittlerer Schritt | 1.499 Blöcke |
 | Größter Schritt | 2.071 Blöcke (Schritt 10.81) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 48.963 | 30,3 % |
-| Orange Keramik | `orange_terracotta` | 30.295 | 18,8 % |
-| Weißer Beton | `white_concrete` | 20.793 | 12,9 % |
-| Polierter Tuffstein | `polished_tuff` | 14.849 | 9,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 12.534 | 7,8 % |
-| Endsteinziegel | `end_stone_bricks` | 9.613 | 6,0 % |
-| Rosa Keramik | `pink_terracotta` | 7.277 | 4,5 % |
+| Terrakotta | `terracotta` | 48.987 | 30,3 % |
+| Orange Keramik | `orange_terracotta` | 30.295 | 18,7 % |
+| Weißer Beton | `white_concrete` | 20.793 | 12,8 % |
+| Polierter Tuffstein | `polished_tuff` | 14.850 | 9,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 12.534 | 7,7 % |
+| Endsteinziegel | `end_stone_bricks` | 9.674 | 6,0 % |
+| Rosa Keramik | `pink_terracotta` | 7.300 | 4,5 % |
 | Graues Buntglas | `gray_stained_glass` | 4.721 | 2,9 % |
 | Glatter Stein | `smooth_stone` | 3.934 | 2,4 % |
 | Grüner Beton | `green_concrete` | 2.841 | 1,8 % |
@@ -35,16 +35,19 @@
 | Polierter Andesit | `polished_andesite` | 1.207 | 0,7 % |
 | Ziegelsteine | `bricks` | 826 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 696 | 0,4 % |
-| Seelaterne | `sea_lantern` | 288 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 225 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 209 | 0,1 % |
+| Tuffstein | `tuff` | 325 | 0,2 % |
+| Seelaterne | `sea_lantern` | 284 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 247 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 229 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 108 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 108 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 62 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 60 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 58 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 40 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 40 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 38 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -63,13 +66,13 @@
 | 4 | `w443464395_innen` | Reihenhaus an Via Tripoli: Innenausbau | 624 | 10.13 |
 | 5 | `w443464396` | Reihenhaus an Via Tripoli | 6.336 | 10.14–10.17 |
 | 6 | `w443464396_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.821 | 10.18 |
-| 7 | `w443464397` | Reihenhaus an Via Tripoli | 7.098 | 10.19–10.22 |
+| 7 | `w443464397` | Reihenhaus an Via Tripoli | 7.147 | 10.19–10.22 |
 | 8 | `w443464397_innen` | Reihenhaus an Via Tripoli: Innenausbau | 2.170 | 10.23–10.24 |
 | 9 | `w443464398` | Palazzo des Cinquecento an Via delle Casine | 14.318 | 10.25–10.32 |
 | 10 | `w443464398_innen` | Palazzo des Cinquecento an Via delle Casine: Innenausbau | 2.032 | 10.33 |
-| 11 | `w443464400` | Reihenhaus an Via Tripoli | 7.117 | 10.34–10.37 |
+| 11 | `w443464400` | Reihenhaus an Via Tripoli | 7.142 | 10.34–10.37 |
 | 12 | `w443464400_innen` | Reihenhaus an Via Tripoli: Innenausbau | 2.438 | 10.38–10.39 |
-| 13 | `w443464401` | Reihenhaus an Via Tripoli | 10.019 | 10.40–10.45 |
+| 13 | `w443464401` | Reihenhaus an Via Tripoli | 10.270 | 10.40–10.45 |
 | 14 | `w443464401_innen` | Reihenhaus an Via Tripoli: Innenausbau | 2.687 | 10.46–10.47 |
 | 15 | `w443464402` | Palazzo des Cinquecento an Via dei Malcontenti | 43.448 | 10.48–10.80 |
 | 16 | `w443464402_innen` | Palazzo des Cinquecento an Via dei Malcontenti: Innenausbau | 8.098 | 10.81–10.84 |
@@ -77,12 +80,13 @@
 | 18 | `w443464403_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.749 | 10.89 |
 | 19 | `w443464406` | Reihenhaus an Via Tripoli | 4.279 | 10.90–10.92 |
 | 20 | `w443464406_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.479 | 10.93 |
-| 21 | `w443464408` | Haus w443464408 | 10.011 | 10.94–10.99 |
-| 22 | `w443464408_innen` | Haus w443464408: Innenausbau | 1.420 | 10.100 |
+| 21 | `w443464408` | Haus w443464408 | 10.034 | 10.94–10.99 |
+| 22 | `w443464408_innen` | Haus w443464408: Innenausbau | 1.441 | 10.100 |
 | 23 | `w443464409` | Reihenhaus an Via Tripoli | 2.333 | 10.101–10.102 |
 | 24 | `w443464409_innen` | Reihenhaus an Via Tripoli: Innenausbau | 1.420 | 10.103 |
-| 25 | `w443464413` | Reihenhaus an Via Tripoli | 4.665 | 10.104–10.106 |
-| 26 | `w443464413_innen` | Reihenhaus an Via Tripoli: Innenausbau | 2.122 | 10.107–10.108 |
+| 25 | `w443464413` | Reihenhaus an Via Tripoli | 4.727 | 10.104–10.106 |
+| 26 | `w443464413_innen` | Reihenhaus an Via Tripoli: Innenausbau | 2.121 | 10.107–10.108 |
+| 27 | `strassenschilder` | Straßenschilder | 2 | 10.108 |
 
 ## Bauschritte
 
@@ -699,20 +703,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.19 – Reihenhaus an Via Tripoli – Teil 1/4 (Y 63–69)
+### Schritt 10.19 – Reihenhaus an Via Tripoli – Teil 1/4 (Y 62–68)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.832
+- **Y-Bereich:** 62 bis 68
+- **Blöcke:** 1.720
 - **Bauteile:** `w443464397`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 901 |
 | Polierter Tuffstein | `polished_tuff` | 850 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Grüner Beton | `green_concrete` | 33 |
+| Endsteinziegel | `end_stone_bricks` | 763 |
+| Tuffstein | `tuff` | 49 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
+| Grüner Beton | `green_concrete` | 22 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
@@ -731,19 +736,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.20 – Reihenhaus an Via Tripoli – Teil 2/4 (Y 70–79)
+### Schritt 10.20 – Reihenhaus an Via Tripoli – Teil 2/4 (Y 69–79)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.675
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 1.836
 - **Bauteile:** `w443464397`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.582 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Grüner Beton | `green_concrete` | 39 |
+| Endsteinziegel | `end_stone_bricks` | 1.720 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 50 |
 
 **Beschreibung**
 
@@ -1200,10 +1205,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.34 – Reihenhaus an Via Tripoli – Teil 1/4 (Y 63–68)
+### Schritt 10.34 – Reihenhaus an Via Tripoli – Teil 1/4 (Y 62–68)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.724
+- **Y-Bereich:** 62 bis 68
+- **Blöcke:** 1.749
 - **Bauteile:** `w443464400`
 
 **Teileliste**
@@ -1213,6 +1218,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Tuffstein | `polished_tuff` | 938 |
 | Hellgrauer Beton | `light_gray_concrete` | 704 |
 | Weißer Beton | `white_concrete` | 48 |
+| Tuffstein | `tuff` | 25 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 | Glatter Stein | `smooth_stone` | 10 |
 
@@ -1409,10 +1415,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.40 – Reihenhaus an Via Tripoli – Teil 1/6 (Y 63–65)
+### Schritt 10.40 – Reihenhaus an Via Tripoli – Teil 1/6 (Y 61–65)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.566
+- **Y-Bereich:** 61 bis 65
+- **Blöcke:** 1.817
 - **Bauteile:** `w443464401`
 
 **Teileliste**
@@ -1421,6 +1427,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.096 |
 | Orange Keramik | `orange_terracotta` | 466 |
+| Tuffstein | `tuff` | 251 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
@@ -1439,18 +1446,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.41 – Reihenhaus an Via Tripoli – Teil 2/6 (Y 66–73)
+### Schritt 10.41 – Reihenhaus an Via Tripoli – Teil 2/6 (Y 66–72)
 
-- **Y-Bereich:** 66 bis 73
-- **Blöcke:** 1.868
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.621
 - **Bauteile:** `w443464401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.433 |
-| Weißer Beton | `white_concrete` | 233 |
+| Orange Keramik | `orange_terracotta` | 1.245 |
+| Weißer Beton | `white_concrete` | 174 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Fichtenholz-Bretter | `spruce_planks` | 66 |
 | Polierter Andesit | `polished_andesite` | 32 |
@@ -1472,9 +1479,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.42 – Reihenhaus an Via Tripoli – Teil 3/6 (Y 74–80)
+### Schritt 10.42 – Reihenhaus an Via Tripoli – Teil 3/6 (Y 73–79)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.605
 - **Bauteile:** `w443464401`
 
@@ -1503,18 +1510,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.43 – Reihenhaus an Via Tripoli – Teil 4/6 (Y 81–87)
+### Schritt 10.43 – Reihenhaus an Via Tripoli – Teil 4/6 (Y 80–87)
 
-- **Y-Bereich:** 81 bis 87
-- **Blöcke:** 1.605
+- **Y-Bereich:** 80 bis 87
+- **Blöcke:** 1.852
 - **Bauteile:** `w443464401`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.214 |
-| Weißer Beton | `white_concrete` | 155 |
+| Orange Keramik | `orange_terracotta` | 1.402 |
+| Weißer Beton | `white_concrete` | 214 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
 | Fichtenholz-Bretter | `spruce_planks` | 96 |
 
@@ -3136,17 +3143,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.94 – Haus w443464408 – Teil 1/6 (Y 63–67)
+### Schritt 10.94 – Haus w443464408 – Teil 1/6 (Y 62–66)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.760
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.783
 - **Bauteile:** `w443464408`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 878 |
+| Rosa Keramik | `pink_terracotta` | 901 |
 | Polierter Tuffstein | `polished_tuff` | 735 |
 | Weißer Beton | `white_concrete` | 97 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
@@ -3169,9 +3176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.95 – Haus w443464408 – Teil 2/6 (Y 68–73)
+### Schritt 10.95 – Haus w443464408 – Teil 2/6 (Y 67–72)
 
-- **Y-Bereich:** 68 bis 73
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.578
 - **Bauteile:** `w443464408`
 
@@ -3202,9 +3209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.96 – Haus w443464408 – Teil 3/6 (Y 74–79)
+### Schritt 10.96 – Haus w443464408 – Teil 3/6 (Y 73–78)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.551
 - **Bauteile:** `w443464408`
 
@@ -3233,9 +3240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.97 – Haus w443464408 – Teil 4/6 (Y 80–86)
+### Schritt 10.97 – Haus w443464408 – Teil 4/6 (Y 79–85)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.824
 - **Bauteile:** `w443464408`
 
@@ -3264,9 +3271,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.98 – Haus w443464408 – Teil 5/6 (Y 87–92)
+### Schritt 10.98 – Haus w443464408 – Teil 5/6 (Y 86–91)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 86 bis 91
 - **Blöcke:** 1.631
 - **Bauteile:** `w443464408`
 
@@ -3296,9 +3303,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.99 – Haus w443464408 – Teil 6/6 (Y 93–99)
+### Schritt 10.99 – Haus w443464408 – Teil 6/6 (Y 92–98)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.667
 - **Bauteile:** `w443464408`
 
@@ -3329,23 +3336,23 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 10.100 – Haus w443464408: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.420
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.441
 - **Bauteile:** `w443464408_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.263 |
+| Terrakotta | `terracotta` | 1.284 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Seelaterne | `sea_lantern` | 17 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3473,18 +3480,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.104 – Reihenhaus an Via Tripoli – Teil 1/3 (Y 63–72)
+### Schritt 10.104 – Reihenhaus an Via Tripoli – Teil 1/3 (Y 62–70)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.571
+- **Y-Bereich:** 62 bis 70
+- **Blöcke:** 1.529
 - **Bauteile:** `w443464413`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 765 |
-| Endsteinziegel | `end_stone_bricks` | 647 |
+| Polierter Tuffstein | `polished_tuff` | 766 |
+| Endsteinziegel | `end_stone_bricks` | 604 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Weißer Beton | `white_concrete` | 56 |
 | Glatter Stein | `smooth_stone` | 37 |
@@ -3505,19 +3512,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.105 – Reihenhaus an Via Tripoli – Teil 2/3 (Y 73–88)
+### Schritt 10.105 – Reihenhaus an Via Tripoli – Teil 2/3 (Y 71–86)
 
-- **Y-Bereich:** 73 bis 88
-- **Blöcke:** 1.566
+- **Y-Bereich:** 71 bis 86
+- **Blöcke:** 1.580
 - **Bauteile:** `w443464413`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.148 |
-| Weißer Beton | `white_concrete` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 98 |
+| Endsteinziegel | `end_stone_bricks` | 1.190 |
+| Weißer Beton | `white_concrete` | 306 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
 
 **Beschreibung**
 
@@ -3535,10 +3542,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.106 – Reihenhaus an Via Tripoli – Teil 3/3 (Y 89–100)
+### Schritt 10.106 – Reihenhaus an Via Tripoli – Teil 3/3 (Y 87–99)
 
-- **Y-Bereich:** 89 bis 100
-- **Blöcke:** 1.528
+- **Y-Bereich:** 87 bis 99
+- **Blöcke:** 1.618
 - **Bauteile:** `w443464413`
 
 **Teileliste**
@@ -3546,10 +3553,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 988 |
-| Endsteinziegel | `end_stone_bricks` | 367 |
-| Weißer Beton | `white_concrete` | 97 |
+| Endsteinziegel | `end_stone_bricks` | 429 |
+| Weißer Beton | `white_concrete` | 111 |
 | Ziegelsteine | `bricks` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
 
@@ -3567,21 +3574,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.107 – Reihenhaus an Via Tripoli: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 10.107 – Reihenhaus an Via Tripoli: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 752
+- **Y-Bereich:** 62 bis 77
+- **Blöcke:** 751
 - **Bauteile:** `w443464413_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 653 |
+| Terrakotta | `terracotta` | 654 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 17 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 15 |
-| Seelaterne | `sea_lantern` | 10 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
@@ -3609,25 +3616,27 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.108 – Reihenhaus an Via Tripoli: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 10.108 – Reihenhaus an Via Tripoli: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.370
-- **Bauteile:** `w443464413_innen`
+- **Y-Bereich:** 70 bis 86
+- **Blöcke:** 1.372
+- **Bauteile:** `w443464413_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.306 |
+| Terrakotta | `terracotta` | 1.308 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
-| Seelaterne | `sea_lantern` | 10 |
+| Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3637,16 +3646,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

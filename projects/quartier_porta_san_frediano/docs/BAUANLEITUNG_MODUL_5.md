@@ -8,38 +8,41 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.908 |
+| Blöcke | 15.196 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 59 bis 98 |
 | X-Ausdehnung | -3040 bis -2993 (48 Blöcke) |
 | Z-Ausdehnung | 1326 bis 1380 (55 Blöcke) |
 | Kleinster Schritt | 1.286 Blöcke (Schritt 5.9) |
-| Mittlerer Schritt | 1.656 Blöcke |
-| Größter Schritt | 1.836 Blöcke (Schritt 5.2) |
+| Mittlerer Schritt | 1.688 Blöcke |
+| Größter Schritt | 1.955 Blöcke (Schritt 5.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 4.541 | 30,5 % |
-| Terrakotta | `terracotta` | 3.757 | 25,2 % |
-| Weißer Beton | `white_concrete` | 3.384 | 22,7 % |
-| Polierter Tuffstein | `polished_tuff` | 1.140 | 7,6 % |
-| Glatter Stein | `smooth_stone` | 689 | 4,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.541 | 29,9 % |
+| Terrakotta | `terracotta` | 3.757 | 24,7 % |
+| Weißer Beton | `white_concrete` | 3.384 | 22,3 % |
+| Polierter Tuffstein | `polished_tuff` | 1.136 | 7,5 % |
+| Glatter Stein | `smooth_stone` | 689 | 4,5 % |
 | Hellgrauer Beton | `light_gray_concrete` | 662 | 4,4 % |
-| Graues Buntglas | `gray_stained_glass` | 325 | 2,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 128 | 0,9 % |
+| Graues Buntglas | `gray_stained_glass` | 325 | 2,1 % |
+| Tuffstein | `tuff` | 288 | 1,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 128 | 0,8 % |
 | Ziegelsteine | `bricks` | 84 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 82 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 82 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 48 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 44 | 0,3 % |
 | Seelaterne | `sea_lantern` | 24 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 92 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -47,14 +50,14 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w464120033` | Reihenhaus an Via Domenico Burchiello | 6.854 | 5.1–5.4 |
 | 2 | `w464120033_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.343 | 5.5 |
-| 3 | `w464120121` | Reihenhaus an Via Domenico Burchiello | 5.425 | 5.6–5.8 |
+| 3 | `w464120121` | Reihenhaus an Via Domenico Burchiello | 5.713 | 5.6–5.8 |
 | 4 | `w464120121_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.286 | 5.9 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 63–69)
+### Schritt 5.1 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 60–66)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.681
 - **Bauteile:** `w464120033`
 
@@ -84,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 70–79)
+### Schritt 5.2 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 67–76)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.836
 - **Bauteile:** `w464120033`
 
@@ -115,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Reihenhaus an Via Domenico Burchiello – Teil 3/4 (Y 80–88)
+### Schritt 5.3 – Reihenhaus an Via Domenico Burchiello – Teil 3/4 (Y 77–85)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.658
 - **Bauteile:** `w464120033`
 
@@ -146,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Reihenhaus an Via Domenico Burchiello – Teil 4/4 (Y 89–101)
+### Schritt 5.4 – Reihenhaus an Via Domenico Burchiello – Teil 4/4 (Y 86–98)
 
-- **Y-Bereich:** 89 bis 101
+- **Y-Bereich:** 86 bis 98
 - **Blöcke:** 1.679
 - **Bauteile:** `w464120033`
 
@@ -181,7 +184,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.5 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.343
 - **Bauteile:** `w464120033_innen`
 
@@ -217,21 +220,29 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.6 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 63–72)
+### Schritt 5.6 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 59–68)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.784
+- **Y-Bereich:** 59 bis 68
+- **Blöcke:** 1.929
 - **Bauteile:** `w464120121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.089 |
-| Polierter Tuffstein | `polished_tuff` | 539 |
+| Weißer Beton | `white_concrete` | 946 |
+| Polierter Tuffstein | `polished_tuff` | 535 |
+| Tuffstein | `tuff` | 288 |
 | Hellgrauer Beton | `light_gray_concrete` | 107 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 | Glatter Stein | `smooth_stone` | 16 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -249,9 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 73–85)
+### Schritt 5.7 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 69–81)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 69 bis 81
 - **Blöcke:** 1.829
 - **Bauteile:** `w464120121`
 
@@ -259,8 +270,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.387 |
-| Hellgrauer Beton | `light_gray_concrete` | 370 |
+| Weißer Beton | `white_concrete` | 1.443 |
+| Hellgrauer Beton | `light_gray_concrete` | 314 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 
 **Beschreibung**
@@ -279,19 +290,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 86–98)
+### Schritt 5.8 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 82–95)
 
-- **Y-Bereich:** 86 bis 98
-- **Blöcke:** 1.812
+- **Y-Bereich:** 82 bis 95
+- **Blöcke:** 1.955
 - **Bauteile:** `w464120121`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 908 |
+| Weißer Beton | `white_concrete` | 995 |
 | Terrakotta | `terracotta` | 646 |
-| Hellgrauer Beton | `light_gray_concrete` | 185 |
+| Hellgrauer Beton | `light_gray_concrete` | 241 |
 | Ziegelsteine | `bricks` | 37 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
@@ -313,7 +324,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.9 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.286
 - **Bauteile:** `w464120121_innen`
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 18.642 |
 | Bauschritte | 10 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 61 bis 96 |
 | X-Ausdehnung | -2455 bis -2364 (92 Blöcke) |
 | Z-Ausdehnung | 2154 bis 2210 (57 Blöcke) |
 | Kleinster Schritt | 1.691 Blöcke (Schritt 16.10) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 16.1 – Haus w118965508 – Teil 1/9 (Y 63–64)
+### Schritt 16.1 – Haus w118965508 – Teil 1/9 (Y 61–62)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.709
 - **Bauteile:** `w118965508`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Haus w118965508 – Teil 2/9 (Y 65–68)
+### Schritt 16.2 – Haus w118965508 – Teil 2/9 (Y 63–66)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.839
 - **Bauteile:** `w118965508`
 
@@ -114,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Haus w118965508 – Teil 3/9 (Y 69–72)
+### Schritt 16.3 – Haus w118965508 – Teil 3/9 (Y 67–70)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.747
 - **Bauteile:** `w118965508`
 
@@ -146,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Haus w118965508 – Teil 4/9 (Y 73–76)
+### Schritt 16.4 – Haus w118965508 – Teil 4/9 (Y 71–74)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.846
 - **Bauteile:** `w118965508`
 
@@ -178,9 +178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.5 – Haus w118965508 – Teil 5/9 (Y 77–81)
+### Schritt 16.5 – Haus w118965508 – Teil 5/9 (Y 75–79)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 2.095
 - **Bauteile:** `w118965508`
 
@@ -209,9 +209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.6 – Haus w118965508 – Teil 6/9 (Y 82–85)
+### Schritt 16.6 – Haus w118965508 – Teil 6/9 (Y 80–83)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.888
 - **Bauteile:** `w118965508`
 
@@ -239,9 +239,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.7 – Haus w118965508 – Teil 7/9 (Y 86–90)
+### Schritt 16.7 – Haus w118965508 – Teil 7/9 (Y 84–88)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 84 bis 88
 - **Blöcke:** 2.095
 - **Bauteile:** `w118965508`
 
@@ -270,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.8 – Haus w118965508 – Teil 8/9 (Y 91–93)
+### Schritt 16.8 – Haus w118965508 – Teil 8/9 (Y 89–91)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.910
 - **Bauteile:** `w118965508`
 
@@ -300,9 +300,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.9 – Haus w118965508 – Teil 9/9 (Y 94–98)
+### Schritt 16.9 – Haus w118965508 – Teil 9/9 (Y 92–96)
 
-- **Y-Bereich:** 94 bis 98
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.822
 - **Bauteile:** `w118965508`
 
@@ -331,7 +331,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 16.10 – Haus w118965508: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.691
 - **Bauteile:** `w118965508_innen`
 

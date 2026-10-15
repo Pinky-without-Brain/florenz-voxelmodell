@@ -1,0 +1,22 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden und oberste Decke",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Die Böden der Obergeschosse (Y 87, Y 105) aus Dunkler Eiche und Terrakotta im Wechsel, mit Treppenloch.",
+      "tip": "Lass das Treppenloch frei.",
+      "caution": "Die Böden liegen auf den Wänden auf.",
+      "fact": "Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz."
+    },
+    "decke": {
+      "title": "Decke",
+      "description": "Die oberste Decke auf Y 121 schließt die Säle nach oben.",
+      "tip": "Weiß verputzt.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Der Spiegelsaal mit Luca Giordanos Deckenfresko entstand unter den Riccardi."
+    }
+  }
+}

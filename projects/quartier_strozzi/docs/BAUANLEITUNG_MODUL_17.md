@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 33.601 |
 | Bauschritte | 21 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 64 bis 102 |
 | X-Ausdehnung | -725 bis -667 (59 Blöcke) |
 | Z-Ausdehnung | 384 bis 469 (86 Blöcke) |
 | Kleinster Schritt | 562 Blöcke (Schritt 17.3) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 17.1 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 1/17 (Y 63–63)
+### Schritt 17.1 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 1/17 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.999
 - **Bauteile:** `r1593624`
 
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.2 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 2/17 (Y 63–63)
+### Schritt 17.2 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 2/17 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.022
 - **Bauteile:** `r1593624`
 
@@ -112,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.3 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 3/17 (Y 64–64)
+### Schritt 17.3 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 3/17 (Y 65–65)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 562
 - **Bauteile:** `r1593624`
 
@@ -143,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.4 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 4/17 (Y 65–67)
+### Schritt 17.4 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 4/17 (Y 66–68)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.764
 - **Bauteile:** `r1593624`
 
@@ -177,9 +177,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.5 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 5/17 (Y 68–70)
+### Schritt 17.5 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 5/17 (Y 69–71)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.427
 - **Bauteile:** `r1593624`
 
@@ -211,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.6 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 6/17 (Y 71–73)
+### Schritt 17.6 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 6/17 (Y 72–74)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.716
 - **Bauteile:** `r1593624`
 
@@ -243,9 +243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.7 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 7/17 (Y 74–76)
+### Schritt 17.7 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 7/17 (Y 75–77)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.632
 - **Bauteile:** `r1593624`
 
@@ -275,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.8 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 8/17 (Y 77–79)
+### Schritt 17.8 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 8/17 (Y 78–80)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.452
 - **Bauteile:** `r1593624`
 
@@ -307,9 +307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.9 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 9/17 (Y 80–82)
+### Schritt 17.9 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 9/17 (Y 81–83)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.632
 - **Bauteile:** `r1593624`
 
@@ -339,9 +339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.10 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 10/17 (Y 83–84)
+### Schritt 17.10 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 10/17 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.148
 - **Bauteile:** `r1593624`
 
@@ -369,9 +369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.11 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 11/17 (Y 85–88)
+### Schritt 17.11 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 11/17 (Y 86–89)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 2.026
 - **Bauteile:** `r1593624`
 
@@ -401,9 +401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.12 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 12/17 (Y 89–91)
+### Schritt 17.12 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 12/17 (Y 90–92)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.542
 - **Bauteile:** `r1593624`
 
@@ -433,9 +433,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.13 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 13/17 (Y 92–93)
+### Schritt 17.13 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 13/17 (Y 93–94)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.801
 - **Bauteile:** `r1593624`
 
@@ -464,9 +464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.14 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 14/17 (Y 94–94)
+### Schritt 17.14 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 14/17 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.467
 - **Bauteile:** `r1593624`
 
@@ -492,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.15 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 15/17 (Y 95–95)
+### Schritt 17.15 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 15/17 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 924
 - **Bauteile:** `r1593624`
 
@@ -520,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.16 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 16/17 (Y 96–97)
+### Schritt 17.16 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 16/17 (Y 97–98)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 2.080
 - **Bauteile:** `r1593624`
 
@@ -549,9 +549,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.17 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 17/17 (Y 98–101)
+### Schritt 17.17 – Palazzo des Cinquecento an Piazza degli Strozzi – Teil 17/17 (Y 99–102)
 
-- **Y-Bereich:** 98 bis 101
+- **Y-Bereich:** 99 bis 102
 - **Blöcke:** 1.365
 - **Bauteile:** `r1593624`
 
@@ -578,9 +578,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.18 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 17.18 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 1/4 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.779
 - **Bauteile:** `r1593624_innen`
 
@@ -620,9 +620,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 17.19 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 17.19 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 2/4 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.743
 - **Bauteile:** `r1593624_innen`
 
@@ -649,9 +649,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 17.20 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 17.20 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 3/4 (Y 75–84)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.768
 - **Bauteile:** `r1593624_innen`
 
@@ -693,9 +693,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 17.21 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 17.21 – Palazzo des Cinquecento an Piazza degli Strozzi: Innenausbau – Teil 4/4 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.752
 - **Bauteile:** `r1593624_innen`
 

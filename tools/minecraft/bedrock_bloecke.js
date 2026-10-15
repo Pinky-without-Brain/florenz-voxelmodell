@@ -48,8 +48,13 @@ const EXTRA = ['bedrock'];
 /** Alle Typen, die der Export kennt (Luft ist Id 0 und steht nicht hier). */
 const ALLE_TYPEN = [...new Set([...TYPES, ...EXTRA])];
 
+// Wandschild: facing_direction 2 = Norden, 3 = Süden, 4 = Westen, 5 = Osten (Blickrichtung der Schrift)
+const SCHILD_FACING = { n: 2, s: 3, w: 4, o: 5 };
+const schildRichtung = (type) => (type.startsWith('birch_wall_sign@') ? type.slice(16) : null);
+
 function bedrockName(type) {
   if (!ALLE_TYPEN.includes(type)) throw new Error(`Minecraft-Export: unbekannter Blocktyp "${type}"`);
+  if (schildRichtung(type)) return 'minecraft:birch_wall_sign';
   const tr = treppeInfo(type);
   if (tr) return 'minecraft:' + (TREPPEN_NAME[tr.base] || tr.base);
   return 'minecraft:' + (ABWEICHUNG[type] || type);
@@ -58,6 +63,7 @@ function bedrockName(type) {
 function statesOf(type) {
   const tr = treppeInfo(type);
   if (tr) return [['upside_down_bit', 'byte', tr.oben ? 1 : 0], ['weirdo_direction', 'int', WEIRDO[tr.dir]]];
+  if (schildRichtung(type)) return [['facing_direction', 'int', SCHILD_FACING[schildRichtung(type)]]];
   return ZUSTAENDE[bedrockName(type).slice(10)] || [];
 }
 

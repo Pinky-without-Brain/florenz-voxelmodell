@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.651 |
+| Blöcke | 11.669 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 192 bis 229 |
 | X-Ausdehnung | -128 bis -67 (62 Blöcke) |
 | Z-Ausdehnung | 2190 bis 2220 (31 Blöcke) |
 | Kleinster Schritt | 1.082 Blöcke (Schritt 24.7) |
-| Mittlerer Schritt | 1.664 Blöcke |
+| Mittlerer Schritt | 1.667 Blöcke |
 | Größter Schritt | 1.962 Blöcke (Schritt 24.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 5.419 | 46,5 % |
+| Rosa Keramik | `pink_terracotta` | 5.419 | 46,4 % |
 | Terrakotta | `terracotta` | 2.051 | 17,6 % |
-| Weißer Beton | `white_concrete` | 1.417 | 12,2 % |
+| Weißer Beton | `white_concrete` | 1.417 | 12,1 % |
 | Polierter Tuffstein | `polished_tuff` | 784 | 6,7 % |
 | Graues Buntglas | `gray_stained_glass` | 604 | 5,2 % |
 | Grüner Beton | `green_concrete` | 562 | 4,8 % |
@@ -32,6 +32,7 @@
 | Ziegelsteine | `bricks` | 63 | 0,5 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,2 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,2 % |
+| Tuffstein | `tuff` | 18 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 16 | 0,1 % |
 | Seelaterne | `sea_lantern` | 9 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,1 % |
@@ -53,15 +54,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758448` | Haus w397758448 | 10.569 | 24.1–24.6 |
+| 1 | `w397758448` | Haus w397758448 | 10.587 | 24.1–24.6 |
 | 2 | `w397758448_innen` | Haus w397758448: Innenausbau | 1.082 | 24.7 |
 
 ## Bauschritte
 
-### Schritt 24.1 – Haus w397758448 – Teil 1/6 (Y 63–66)
+### Schritt 24.1 – Haus w397758448 – Teil 1/6 (Y 192–196)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.704
+- **Y-Bereich:** 192 bis 196
+- **Blöcke:** 1.722
 - **Bauteile:** `w397758448`
 
 **Teileliste**
@@ -72,6 +73,7 @@
 | Rosa Keramik | `pink_terracotta` | 684 |
 | Weißer Beton | `white_concrete` | 182 |
 | Polierter Andesit | `polished_andesite` | 39 |
+| Tuffstein | `tuff` | 18 |
 | Glatter Stein | `smooth_stone` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
@@ -91,9 +93,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.2 – Haus w397758448 – Teil 2/6 (Y 67–73)
+### Schritt 24.2 – Haus w397758448 – Teil 2/6 (Y 197–203)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 197 bis 203
 - **Blöcke:** 1.895
 - **Bauteile:** `w397758448`
 
@@ -125,9 +127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.3 – Haus w397758448 – Teil 3/6 (Y 74–79)
+### Schritt 24.3 – Haus w397758448 – Teil 3/6 (Y 204–209)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 204 bis 209
 - **Blöcke:** 1.648
 - **Bauteile:** `w397758448`
 
@@ -157,9 +159,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.4 – Haus w397758448 – Teil 4/6 (Y 80–85)
+### Schritt 24.4 – Haus w397758448 – Teil 4/6 (Y 210–215)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 210 bis 215
 - **Blöcke:** 1.744
 - **Bauteile:** `w397758448`
 
@@ -190,9 +192,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.5 – Haus w397758448 – Teil 5/6 (Y 86–91)
+### Schritt 24.5 – Haus w397758448 – Teil 5/6 (Y 216–221)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 216 bis 221
 - **Blöcke:** 1.616
 - **Bauteile:** `w397758448`
 
@@ -222,9 +224,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.6 – Haus w397758448 – Teil 6/6 (Y 92–99)
+### Schritt 24.6 – Haus w397758448 – Teil 6/6 (Y 222–229)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 222 bis 229
 - **Blöcke:** 1.962
 - **Bauteile:** `w397758448`
 
@@ -256,7 +258,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 24.7 – Haus w397758448: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 193 bis 214
 - **Blöcke:** 1.082
 - **Bauteile:** `w397758448_innen`
 

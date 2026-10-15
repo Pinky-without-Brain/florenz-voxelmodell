@@ -8,37 +8,38 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 911 |
+| Blöcke | 927 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 64 bis 96 |
 | X-Ausdehnung | -1965 bis -1958 (8 Blöcke) |
 | Z-Ausdehnung | 2242 bis 2249 (8 Blöcke) |
-| Kleinster Schritt | 911 Blöcke (Schritt 42.1) |
-| Mittlerer Schritt | 911 Blöcke |
-| Größter Schritt | 911 Blöcke (Schritt 42.1) |
+| Kleinster Schritt | 927 Blöcke (Schritt 42.1) |
+| Mittlerer Schritt | 927 Blöcke |
+| Größter Schritt | 927 Blöcke (Schritt 42.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 838 | 92,0 % |
-| Terrakotta | `terracotta` | 44 | 4,8 % |
-| Polierter Tuffstein | `polished_tuff` | 28 | 3,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 838 | 90,4 % |
+| Terrakotta | `terracotta` | 44 | 4,7 % |
+| Polierter Tuffstein | `polished_tuff` | 28 | 3,0 % |
+| Tuffstein | `tuff` | 16 | 1,7 % |
 | Seelaterne | `sea_lantern` | 1 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w775123569` | Nebengebäude an Via dei Mori | 910 | 42.1 |
+| 1 | `w775123569` | Nebengebäude an Via dei Mori | 926 | 42.1 |
 | 2 | `w775123569_innen` | Nebengebäude an Via dei Mori: Innenausbau | 1 | 42.1 |
 
 ## Bauschritte
 
 ### Schritt 42.1 – Nebengebäude an Via dei Mori & Nebengebäude an Via dei Mori: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
-- **Blöcke:** 911
+- **Y-Bereich:** 64 bis 96
+- **Blöcke:** 927
 - **Bauteile:** `w775123569`, `w775123569_innen`
 
 **Teileliste**
@@ -48,6 +49,7 @@
 | Gelbe Keramik | `yellow_terracotta` | 838 |
 | Terrakotta | `terracotta` | 44 |
 | Polierter Tuffstein | `polished_tuff` | 28 |
+| Tuffstein | `tuff` | 16 |
 | Seelaterne | `sea_lantern` | 1 |
 
 **Beschreibung**

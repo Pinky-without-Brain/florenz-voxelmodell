@@ -8,33 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 6.257 |
-| Bauschritte | 4 |
-| Y-Bereich | 63 bis 97 |
+| Blöcke | 7.291 |
+| Bauschritte | 5 |
+| Y-Bereich | 142 bis 182 |
 | X-Ausdehnung | -1261 bis -1224 (38 Blöcke) |
 | Z-Ausdehnung | 2212 bis 2232 (21 Blöcke) |
-| Kleinster Schritt | 429 Blöcke (Schritt 1.4) |
-| Mittlerer Schritt | 1.564 Blöcke |
-| Größter Schritt | 2.000 Blöcke (Schritt 1.2) |
+| Kleinster Schritt | 429 Blöcke (Schritt 1.5) |
+| Mittlerer Schritt | 1.458 Blöcke |
+| Größter Schritt | 1.760 Blöcke (Schritt 1.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 3.079 | 49,2 % |
-| Weißer Beton | `white_concrete` | 847 | 13,5 % |
-| Terrakotta | `terracotta` | 776 | 12,4 % |
-| Graues Buntglas | `gray_stained_glass` | 342 | 5,5 % |
-| Polierter Tuffstein | `polished_tuff` | 338 | 5,4 % |
-| Polierter Andesit | `polished_andesite` | 327 | 5,2 % |
-| Grüner Beton | `green_concrete` | 236 | 3,8 % |
-| Glatter Stein | `smooth_stone` | 228 | 3,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 3.079 | 42,2 % |
+| Tuffstein | `tuff` | 1.033 | 14,2 % |
+| Weißer Beton | `white_concrete` | 847 | 11,6 % |
+| Terrakotta | `terracotta` | 776 | 10,6 % |
+| Graues Buntglas | `gray_stained_glass` | 342 | 4,7 % |
+| Polierter Andesit | `polished_andesite` | 327 | 4,5 % |
+| Polierter Tuffstein | `polished_tuff` | 324 | 4,4 % |
+| Grüner Beton | `green_concrete` | 236 | 3,2 % |
+| Glatter Stein | `smooth_stone` | 228 | 3,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,3 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,1 % |
 | Seelaterne | `sea_lantern` | 6 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 | 0,1 % |
 | Ziegelsteine | `bricks` | 3 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
@@ -45,35 +48,42 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w375220462` | Haus w375220462 | 5.828 | 1.1–1.3 |
-| 2 | `w375220462_innen` | Haus w375220462: Innenausbau | 429 | 1.4 |
+| 1 | `w375220462` | Haus w375220462 | 6.862 | 1.1–1.4 |
+| 2 | `w375220462_innen` | Haus w375220462: Innenausbau | 429 | 1.5 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Haus w375220462 – Teil 1/3 (Y 63–73)
+### Schritt 1.1 – Haus w375220462 – Teil 1/4 (Y 142–150)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.915
+- **Y-Bereich:** 142 bis 150
+- **Blöcke:** 1.694
 - **Bauteile:** `w375220462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 993 |
-| Polierter Tuffstein | `polished_tuff` | 338 |
-| Weißer Beton | `white_concrete` | 184 |
-| Glatter Stein | `smooth_stone` | 123 |
-| Polierter Andesit | `polished_andesite` | 115 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Grüner Beton | `green_concrete` | 56 |
-| Tuffsteinziegel | `tuff_bricks` | 14 |
+| Tuffstein | `tuff` | 1.033 |
+| Polierter Tuffstein | `polished_tuff` | 324 |
+| Hellgrauer Beton | `light_gray_concrete` | 293 |
+| Polierter Andesit | `polished_andesite` | 23 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
 
 **Beschreibung**
 
@@ -91,20 +101,54 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Haus w375220462 – Teil 2/3 (Y 74–85)
+### Schritt 1.2 – Haus w375220462 – Teil 2/4 (Y 151–161)
 
-- **Y-Bereich:** 74 bis 85
-- **Blöcke:** 2.000
+- **Y-Bereich:** 151 bis 161
+- **Blöcke:** 1.760
 - **Bauteile:** `w375220462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.199 |
-| Weißer Beton | `white_concrete` | 408 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.047 |
+| Weißer Beton | `white_concrete` | 261 |
+| Polierter Andesit | `polished_andesite` | 130 |
+| Glatter Stein | `smooth_stone` | 119 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+| Grüner Beton | `green_concrete` | 74 |
+| Tuffsteinziegel | `tuff_bricks` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.3 – Haus w375220462 – Teil 3/4 (Y 162–171)
+
+- **Y-Bereich:** 162 bis 171
+- **Blöcke:** 1.650
+- **Bauteile:** `w375220462`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 922 |
+| Weißer Beton | `white_concrete` | 357 |
 | Graues Buntglas | `gray_stained_glass` | 125 |
-| Polierter Andesit | `polished_andesite` | 125 |
+| Polierter Andesit | `polished_andesite` | 103 |
 | Grüner Beton | `green_concrete` | 90 |
 | Glatter Stein | `smooth_stone` | 53 |
 
@@ -124,22 +168,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Haus w375220462 – Teil 3/3 (Y 86–97)
+### Schritt 1.4 – Haus w375220462 – Teil 4/4 (Y 172–182)
 
-- **Y-Bereich:** 86 bis 97
-- **Blöcke:** 1.913
+- **Y-Bereich:** 172 bis 182
+- **Blöcke:** 1.758
 - **Bauteile:** `w375220462`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 887 |
+| Hellgrauer Beton | `light_gray_concrete` | 817 |
 | Terrakotta | `terracotta` | 466 |
-| Weißer Beton | `white_concrete` | 255 |
-| Graues Buntglas | `gray_stained_glass` | 125 |
-| Grüner Beton | `green_concrete` | 90 |
-| Polierter Andesit | `polished_andesite` | 87 |
+| Weißer Beton | `white_concrete` | 229 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Grüner Beton | `green_concrete` | 72 |
+| Polierter Andesit | `polished_andesite` | 71 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
@@ -158,9 +202,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Haus w375220462: Innenausbau
+### Schritt 1.5 – Haus w375220462: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 148 bis 169
 - **Blöcke:** 429
 - **Bauteile:** `w375220462_innen`
 

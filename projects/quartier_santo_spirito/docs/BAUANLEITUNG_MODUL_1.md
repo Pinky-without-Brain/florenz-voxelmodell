@@ -8,45 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 126.729 |
+| Blöcke | 127.122 |
 | Bauschritte | 83 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 61 bis 104 |
 | X-Ausdehnung | -1201 bis -999 (203 Blöcke) |
 | Z-Ausdehnung | 1289 bis 1437 (149 Blöcke) |
 | Kleinster Schritt | 536 Blöcke (Schritt 1.35) |
-| Mittlerer Schritt | 1.527 Blöcke |
+| Mittlerer Schritt | 1.532 Blöcke |
 | Größter Schritt | 2.045 Blöcke (Schritt 1.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 39.046 | 30,8 % |
-| Hellgrauer Beton | `light_gray_concrete` | 12.149 | 9,6 % |
-| Polierter Tuffstein | `polished_tuff` | 11.558 | 9,1 % |
+| Terrakotta | `terracotta` | 39.040 | 30,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 12.199 | 9,6 % |
+| Polierter Tuffstein | `polished_tuff` | 11.557 | 9,1 % |
 | Orange Keramik | `orange_terracotta` | 11.059 | 8,7 % |
-| Rosa Keramik | `pink_terracotta` | 10.716 | 8,5 % |
-| Endsteinziegel | `end_stone_bricks` | 9.360 | 7,4 % |
+| Rosa Keramik | `pink_terracotta` | 10.716 | 8,4 % |
+| Endsteinziegel | `end_stone_bricks` | 9.377 | 7,4 % |
+| Tuffstein | `tuff` | 6.010 | 4,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.934 | 4,7 % |
-| Tuffstein | `tuff` | 5.714 | 4,5 % |
 | Polierter Andesit | `polished_andesite` | 5.037 | 4,0 % |
 | Weißer Beton | `white_concrete` | 4.558 | 3,6 % |
 | Glatter Stein | `smooth_stone` | 3.829 | 3,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.106 | 1,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 1.296 | 1,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 1.326 | 1,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.231 | 1,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 847 | 0,7 % |
 | Ziegelsteine | `bricks` | 548 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 417 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 292 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 272 | 0,2 % |
-| Seelaterne | `sea_lantern` | 262 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 171 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 169 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 59 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 59 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 269 | 0,2 % |
+| Seelaterne | `sea_lantern` | 266 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 251 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 194 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 190 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 58 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 58 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -59,7 +62,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306811231` | Palazzo Martellini-Rosselli del Turco | 19.697 | 1.1–1.12 |
+| 1 | `w306811231` | Palazzo Martellini-Rosselli del Turco | 19.993 | 1.1–1.12 |
 | 2 | `w306811231_innen` | Palazzo Martellini-Rosselli del Turco: Innenausbau | 4.081 | 1.13–1.14 |
 | 3 | `w306811248` | Reihenhaus an Via dei Velluti | 5.989 | 1.15–1.17 |
 | 4 | `w306811248_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.594 | 1.18 |
@@ -77,8 +80,8 @@
 | 16 | `w506787326_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 796 | 1.39 |
 | 17 | `w506787328` | Reihenhaus an Via dei Vellutini | 2.806 | 1.40–1.41 |
 | 18 | `w506787328_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 753 | 1.42 |
-| 19 | `w506787332` | Reihenhaus an Via dei Velluti | 5.918 | 1.43–1.45 |
-| 20 | `w506787332_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.706 | 1.46 |
+| 19 | `w506787332` | Reihenhaus an Via dei Velluti | 5.943 | 1.43–1.45 |
+| 20 | `w506787332_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.696 | 1.46 |
 | 21 | `w506787335` | Reihenhaus an Piazza della Passera | 4.802 | 1.47–1.49 |
 | 22 | `w506787335_innen` | Reihenhaus an Piazza della Passera: Innenausbau | 1.204 | 1.50 |
 | 23 | `w506787337` | Reihenhaus an Via Toscanella | 8.338 | 1.51–1.55 |
@@ -87,27 +90,28 @@
 | 26 | `w506787340_innen` | Reihenhaus an Piazza della Passera: Innenausbau | 790 | 1.61 |
 | 27 | `w506787342` | Reihenhaus an Via dei Vellutini | 1.853 | 1.62 |
 | 28 | `w506787342_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 728 | 1.63 |
-| 29 | `w506787344` | Reihenhaus an Via dei Velluti | 2.949 | 1.64–1.65 |
-| 30 | `w506787344_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.687 | 1.66 |
+| 29 | `w506787344` | Reihenhaus an Via dei Velluti | 2.966 | 1.64–1.65 |
+| 30 | `w506787344_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.685 | 1.66 |
 | 31 | `w506787346` | Reihenhaus an Via dei Velluti | 3.456 | 1.67–1.68 |
 | 32 | `w506787346_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 652 | 1.69 |
 | 33 | `w506787348` | Reihenhaus an Via dei Velluti | 1.430 | 1.70 |
 | 34 | `w506787348_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 803 | 1.71 |
-| 35 | `w506787350` | Reihenhaus an Via dei Vellutini | 1.633 | 1.72 |
-| 36 | `w506787350_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 847 | 1.73 |
+| 35 | `w506787350` | Reihenhaus an Via dei Vellutini | 1.658 | 1.72 |
+| 36 | `w506787350_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 854 | 1.73 |
 | 37 | `w506787352` | Reihenhaus an Via dei Vellutini | 5.637 | 1.74–1.76 |
 | 38 | `w506787352_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 1.650 | 1.77 |
 | 39 | `w506787354` | Reihenhaus an Via dei Velluti | 2.634 | 1.78–1.79 |
 | 40 | `w506787354_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 844 | 1.80 |
-| 41 | `w506787357` | Reihenhaus an Via dei Vellutini | 3.105 | 1.81–1.82 |
-| 42 | `w506787357_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 1.595 | 1.83 |
+| 41 | `w506787357` | Reihenhaus an Via dei Vellutini | 3.134 | 1.81–1.82 |
+| 42 | `w506787357_innen` | Reihenhaus an Via dei Vellutini: Innenausbau | 1.596 | 1.83 |
+| 43 | `strassenschilder` | Straßenschilder | 5 | 1.83 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo Martellini-Rosselli del Turco – Teil 1/12 (Y 63–63)
+### Schritt 1.1 – Palazzo Martellini-Rosselli del Turco – Teil 1/12 (Y 61–62)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.242
+- **Y-Bereich:** 61 bis 62
+- **Blöcke:** 1.538
 - **Bauteile:** `w306811231`
 
 **Teileliste**
@@ -115,6 +119,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.242 |
+| Tuffstein | `tuff` | 296 |
 
 **Beschreibung**
 
@@ -132,9 +137,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Palazzo Martellini-Rosselli del Turco – Teil 2/12 (Y 63–64)
+### Schritt 1.2 – Palazzo Martellini-Rosselli del Turco – Teil 2/12 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.648
 - **Bauteile:** `w306811231`
 
@@ -164,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Palazzo Martellini-Rosselli del Turco – Teil 3/12 (Y 65–68)
+### Schritt 1.3 – Palazzo Martellini-Rosselli del Turco – Teil 3/12 (Y 64–67)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.787
 - **Bauteile:** `w306811231`
 
@@ -196,9 +201,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo Martellini-Rosselli del Turco – Teil 4/12 (Y 69–72)
+### Schritt 1.4 – Palazzo Martellini-Rosselli del Turco – Teil 4/12 (Y 68–71)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.744
 - **Bauteile:** `w306811231`
 
@@ -228,19 +233,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Palazzo Martellini-Rosselli del Turco – Teil 5/12 (Y 73–76)
+### Schritt 1.5 – Palazzo Martellini-Rosselli del Turco – Teil 5/12 (Y 72–74)
 
-- **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.990
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 1.499
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 828 |
-| Glatter Stein | `smooth_stone` | 528 |
-| Polierter Andesit | `polished_andesite` | 518 |
+| Tuffstein | `tuff` | 621 |
+| Polierter Andesit | `polished_andesite` | 386 |
+| Glatter Stein | `smooth_stone` | 376 |
 | Tuffsteinziegel | `tuff_bricks` | 116 |
 
 **Beschreibung**
@@ -259,19 +264,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo Martellini-Rosselli del Turco – Teil 6/12 (Y 77–79)
+### Schritt 1.6 – Palazzo Martellini-Rosselli del Turco – Teil 6/12 (Y 75–78)
 
-- **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.281
+- **Y-Bereich:** 75 bis 78
+- **Blöcke:** 1.772
 - **Bauteile:** `w306811231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 522 |
-| Polierter Andesit | `polished_andesite` | 406 |
-| Glatter Stein | `smooth_stone` | 209 |
+| Tuffstein | `tuff` | 729 |
+| Polierter Andesit | `polished_andesite` | 538 |
+| Glatter Stein | `smooth_stone` | 361 |
 | Graues Buntglas | `gray_stained_glass` | 144 |
 
 **Beschreibung**
@@ -290,9 +295,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo Martellini-Rosselli del Turco – Teil 7/12 (Y 80–83)
+### Schritt 1.7 – Palazzo Martellini-Rosselli del Turco – Teil 7/12 (Y 79–82)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.894
 - **Bauteile:** `w306811231`
 
@@ -321,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo Martellini-Rosselli del Turco – Teil 8/12 (Y 84–86)
+### Schritt 1.8 – Palazzo Martellini-Rosselli del Turco – Teil 8/12 (Y 83–85)
 
-- **Y-Bereich:** 84 bis 86
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.378
 - **Bauteile:** `w306811231`
 
@@ -352,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Palazzo Martellini-Rosselli del Turco – Teil 9/12 (Y 87–90)
+### Schritt 1.9 – Palazzo Martellini-Rosselli del Turco – Teil 9/12 (Y 86–89)
 
-- **Y-Bereich:** 87 bis 90
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.709
 - **Bauteile:** `w306811231`
 
@@ -383,9 +388,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Palazzo Martellini-Rosselli del Turco – Teil 10/12 (Y 91–93)
+### Schritt 1.10 – Palazzo Martellini-Rosselli del Turco – Teil 10/12 (Y 90–92)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.628
 - **Bauteile:** `w306811231`
 
@@ -414,9 +419,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo Martellini-Rosselli del Turco – Teil 11/12 (Y 94–95)
+### Schritt 1.11 – Palazzo Martellini-Rosselli del Turco – Teil 11/12 (Y 93–94)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.569
 - **Bauteile:** `w306811231`
 
@@ -442,9 +447,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Palazzo Martellini-Rosselli del Turco – Teil 12/12 (Y 96–105)
+### Schritt 1.12 – Palazzo Martellini-Rosselli del Turco – Teil 12/12 (Y 95–104)
 
-- **Y-Bereich:** 96 bis 105
+- **Y-Bereich:** 95 bis 104
 - **Blöcke:** 1.827
 - **Bauteile:** `w306811231`
 
@@ -471,9 +476,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 1.13 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 1/2 (Y 62–73)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 2.043
 - **Bauteile:** `w306811231_innen`
 
@@ -509,9 +514,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.14 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 1.14 – Palazzo Martellini-Rosselli del Turco: Innenausbau – Teil 2/2 (Y 74–83)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 2.038
 - **Bauteile:** `w306811231_innen`
 
@@ -553,9 +558,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.15 – Reihenhaus an Via dei Velluti – Teil 1/3 (Y 63–72)
+### Schritt 1.15 – Reihenhaus an Via dei Velluti – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.989
 - **Bauteile:** `w306811248`
 
@@ -584,9 +589,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Reihenhaus an Via dei Velluti – Teil 2/3 (Y 73–85)
+### Schritt 1.16 – Reihenhaus an Via dei Velluti – Teil 2/3 (Y 72–84)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.955
 - **Bauteile:** `w306811248`
 
@@ -614,9 +619,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 86–100)
+### Schritt 1.17 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 85–99)
 
-- **Y-Bereich:** 86 bis 100
+- **Y-Bereich:** 85 bis 99
 - **Blöcke:** 2.045
 - **Bauteile:** `w306811248`
 
@@ -648,7 +653,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.18 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 1.594
 - **Bauteile:** `w306811248_innen`
 
@@ -686,9 +691,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.19 – Reihenhaus an Via dei Vellutini – Teil 1/3 (Y 63–73)
+### Schritt 1.19 – Reihenhaus an Via dei Vellutini – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.736
 - **Bauteile:** `w506787315`
 
@@ -717,9 +722,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Reihenhaus an Via dei Vellutini – Teil 2/3 (Y 74–85)
+### Schritt 1.20 – Reihenhaus an Via dei Vellutini – Teil 2/3 (Y 73–84)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 73 bis 84
 - **Blöcke:** 1.639
 - **Bauteile:** `w506787315`
 
@@ -747,9 +752,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Reihenhaus an Via dei Vellutini – Teil 3/3 (Y 86–98)
+### Schritt 1.21 – Reihenhaus an Via dei Vellutini – Teil 3/3 (Y 85–97)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 85 bis 97
 - **Blöcke:** 1.671
 - **Bauteile:** `w506787315`
 
@@ -781,7 +786,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.22 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 898
 - **Bauteile:** `w506787315_innen`
 
@@ -819,9 +824,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.23 – Reihenhaus an Via dei Velluti – Teil 1/4 (Y 63–69)
+### Schritt 1.23 – Reihenhaus an Via dei Velluti – Teil 1/4 (Y 62–68)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.771
 - **Bauteile:** `w506787317`
 
@@ -852,9 +857,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Reihenhaus an Via dei Velluti – Teil 2/4 (Y 70–79)
+### Schritt 1.24 – Reihenhaus an Via dei Velluti – Teil 2/4 (Y 69–78)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.858
 - **Bauteile:** `w506787317`
 
@@ -882,9 +887,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Reihenhaus an Via dei Velluti – Teil 3/4 (Y 80–88)
+### Schritt 1.25 – Reihenhaus an Via dei Velluti – Teil 3/4 (Y 79–87)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.667
 - **Bauteile:** `w506787317`
 
@@ -912,9 +917,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Reihenhaus an Via dei Velluti – Teil 4/4 (Y 89–99)
+### Schritt 1.26 – Reihenhaus an Via dei Velluti – Teil 4/4 (Y 88–98)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 88 bis 98
 - **Blöcke:** 1.795
 - **Bauteile:** `w506787317`
 
@@ -946,7 +951,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.27 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 1.603
 - **Bauteile:** `w506787317_innen`
 
@@ -982,9 +987,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.28 – Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 63–79)
+### Schritt 1.28 – Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.842
 - **Bauteile:** `w506787319`
 
@@ -1014,9 +1019,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.29 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 80–98)
+### Schritt 1.29 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 79–97)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 79 bis 97
 - **Blöcke:** 1.809
 - **Bauteile:** `w506787319`
 
@@ -1049,7 +1054,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.30 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 677
 - **Bauteile:** `w506787319_innen`
 
@@ -1087,9 +1092,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.31 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 63–78)
+### Schritt 1.31 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.327
 - **Bauteile:** `w506787321`
 
@@ -1118,9 +1123,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.32 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 79–95)
+### Schritt 1.32 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 78–94)
 
-- **Y-Bereich:** 79 bis 95
+- **Y-Bereich:** 78 bis 94
 - **Blöcke:** 1.377
 - **Bauteile:** `w506787321`
 
@@ -1149,9 +1154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.33 – Reihenhaus an Via dei Velluti: Innenausbau & Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 63–79)
+### Schritt 1.33 – Reihenhaus an Via dei Velluti: Innenausbau & Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.492
 - **Bauteile:** `w506787321_innen`, `w506787323`
 
@@ -1181,9 +1186,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.34 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 80–98)
+### Schritt 1.34 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 79–97)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 79 bis 97
 - **Blöcke:** 1.429
 - **Bauteile:** `w506787323`
 
@@ -1215,7 +1220,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.35 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 536
 - **Bauteile:** `w506787323_innen`
 
@@ -1386,9 +1391,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.40 – Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 63–79)
+### Schritt 1.40 – Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.433
 - **Bauteile:** `w506787328`
 
@@ -1417,9 +1422,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.41 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 80–97)
+### Schritt 1.41 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 79–96)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 79 bis 96
 - **Blöcke:** 1.373
 - **Bauteile:** `w506787328`
 
@@ -1451,7 +1456,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.42 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 753
 - **Bauteile:** `w506787328_innen`
 
@@ -1552,14 +1557,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.45 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 87–98)
 
 - **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.942
+- **Blöcke:** 1.967
 - **Bauteile:** `w506787332`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 987 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.012 |
 | Terrakotta | `terracotta` | 839 |
 | Ziegelsteine | `bricks` | 45 |
 | Fichtenholz-Bretter | `spruce_planks` | 44 |
@@ -1585,26 +1590,26 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.46 – Reihenhaus an Via dei Velluti: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.706
+- **Blöcke:** 1.696
 - **Bauteile:** `w506787332_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.557 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Terrakotta | `terracotta` | 1.554 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 7 |
-| Weiße Keramik | `white_terracotta` | 7 |
+| Rote Keramik | `red_terracotta` | 5 |
+| Weiße Keramik | `white_terracotta` | 5 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -2131,7 +2136,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 1.62 – Reihenhaus an Via dei Vellutini
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 62 bis 97
 - **Blöcke:** 1.853
 - **Bauteile:** `w506787342`
 
@@ -2165,7 +2170,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.63 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 728
 - **Bauteile:** `w506787342_innen`
 
@@ -2203,19 +2208,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.64 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 63–80)
+### Schritt 1.64 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.502
+- **Y-Bereich:** 62 bis 78
+- **Blöcke:** 1.460
 - **Bauteile:** `w506787344`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 873 |
+| Endsteinziegel | `end_stone_bricks` | 836 |
 | Polierter Tuffstein | `polished_tuff` | 581 |
-| Polierter Andesit | `polished_andesite` | 44 |
+| Polierter Andesit | `polished_andesite` | 39 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
 
 **Beschreibung**
@@ -2234,19 +2239,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.65 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 81–98)
+### Schritt 1.65 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 79–97)
 
-- **Y-Bereich:** 81 bis 98
-- **Blöcke:** 1.447
+- **Y-Bereich:** 79 bis 97
+- **Blöcke:** 1.506
 - **Bauteile:** `w506787344`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 694 |
+| Endsteinziegel | `end_stone_bricks` | 748 |
 | Terrakotta | `terracotta` | 691 |
-| Polierter Andesit | `polished_andesite` | 37 |
+| Polierter Andesit | `polished_andesite` | 42 |
 | Ziegelsteine | `bricks` | 17 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
@@ -2268,8 +2273,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.66 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.687
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.685
 - **Bauteile:** `w506787344_innen`
 
 **Teileliste**
@@ -2281,8 +2286,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2306,9 +2311,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.67 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 63–79)
+### Schritt 1.67 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.770
 - **Bauteile:** `w506787346`
 
@@ -2338,9 +2343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.68 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–95)
+### Schritt 1.68 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 79–94)
 
-- **Y-Bereich:** 80 bis 95
+- **Y-Bereich:** 79 bis 94
 - **Blöcke:** 1.686
 - **Bauteile:** `w506787346`
 
@@ -2372,7 +2377,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.69 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 652
 - **Bauteile:** `w506787346_innen`
 
@@ -2410,7 +2415,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 1.70 – Reihenhaus an Via dei Velluti
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 62 bis 97
 - **Blöcke:** 1.430
 - **Bauteile:** `w506787348`
 
@@ -2443,7 +2448,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.71 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 803
 - **Bauteile:** `w506787348_innen`
 
@@ -2483,15 +2488,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 1.72 – Reihenhaus an Via dei Vellutini
 
-- **Y-Bereich:** 63 bis 97
-- **Blöcke:** 1.633
+- **Y-Bereich:** 62 bis 96
+- **Blöcke:** 1.658
 - **Bauteile:** `w506787350`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.020 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.045 |
 | Terrakotta | `terracotta` | 322 |
 | Polierter Tuffstein | `polished_tuff` | 285 |
 | Ziegelsteine | `bricks` | 6 |
@@ -2514,8 +2519,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.73 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 847
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 854
 - **Bauteile:** `w506787350_innen`
 
 **Teileliste**
@@ -2523,16 +2528,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 729 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
@@ -2550,9 +2559,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.74 – Reihenhaus an Via dei Vellutini – Teil 1/3 (Y 63–73)
+### Schritt 1.74 – Reihenhaus an Via dei Vellutini – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.953
 - **Bauteile:** `w506787352`
 
@@ -2581,9 +2590,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.75 – Reihenhaus an Via dei Vellutini – Teil 2/3 (Y 74–87)
+### Schritt 1.75 – Reihenhaus an Via dei Vellutini – Teil 2/3 (Y 73–86)
 
-- **Y-Bereich:** 74 bis 87
+- **Y-Bereich:** 73 bis 86
 - **Blöcke:** 1.850
 - **Bauteile:** `w506787352`
 
@@ -2611,9 +2620,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.76 – Reihenhaus an Via dei Vellutini – Teil 3/3 (Y 88–98)
+### Schritt 1.76 – Reihenhaus an Via dei Vellutini – Teil 3/3 (Y 87–97)
 
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 87 bis 97
 - **Blöcke:** 1.834
 - **Bauteile:** `w506787352`
 
@@ -2646,7 +2655,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.77 – Reihenhaus an Via dei Vellutini: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.650
 - **Bauteile:** `w506787352_innen`
 
@@ -2686,9 +2695,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.78 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 63–79)
+### Schritt 1.78 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.291
 - **Bauteile:** `w506787354`
 
@@ -2718,9 +2727,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.79 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–95)
+### Schritt 1.79 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 79–94)
 
-- **Y-Bereich:** 80 bis 95
+- **Y-Bereich:** 79 bis 94
 - **Blöcke:** 1.343
 - **Bauteile:** `w506787354`
 
@@ -2752,7 +2761,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.80 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 844
 - **Bauteile:** `w506787354_innen`
 
@@ -2790,19 +2799,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.81 – Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 63–80)
+### Schritt 1.81 – Reihenhaus an Via dei Vellutini – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.572
+- **Y-Bereich:** 62 bis 78
+- **Blöcke:** 1.535
 - **Bauteile:** `w506787357`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 727 |
-| Polierter Tuffstein | `polished_tuff` | 559 |
-| Weißer Beton | `white_concrete` | 122 |
+| Gelbe Keramik | `yellow_terracotta` | 712 |
+| Polierter Tuffstein | `polished_tuff` | 558 |
+| Weißer Beton | `white_concrete` | 101 |
 | Graues Buntglas | `gray_stained_glass` | 94 |
 | Polierter Andesit | `polished_andesite` | 70 |
 
@@ -2822,10 +2831,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.82 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 81–99)
+### Schritt 1.82 – Reihenhaus an Via dei Vellutini – Teil 2/2 (Y 79–98)
 
-- **Y-Bereich:** 81 bis 99
-- **Blöcke:** 1.533
+- **Y-Bereich:** 79 bis 98
+- **Blöcke:** 1.599
 - **Bauteile:** `w506787357`
 
 **Teileliste**
@@ -2833,8 +2842,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 683 |
-| Gelbe Keramik | `yellow_terracotta` | 569 |
-| Weißer Beton | `white_concrete` | 181 |
+| Gelbe Keramik | `yellow_terracotta` | 614 |
+| Weißer Beton | `white_concrete` | 202 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Ziegelsteine | `bricks` | 34 |
 
@@ -2854,23 +2863,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.83 – Reihenhaus an Via dei Vellutini: Innenausbau
+### Schritt 1.83 – Reihenhaus an Via dei Vellutini: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.595
-- **Bauteile:** `w506787357_innen`
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.601
+- **Bauteile:** `w506787357_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.455 |
+| Terrakotta | `terracotta` | 1.452 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2880,16 +2892,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

@@ -1,0 +1,11 @@
+{
+  "id": "santa_maria_del_carmine",
+  "title": "Basilica di Santa Maria del Carmine",
+  "type": "wahrzeichen",
+  "gebaeude": ["w118425485"],
+  "bodenY": 60,
+  "rahmen": { "ox": -2055.5, "oz": 1133.75, "thetaDeg": 101.5 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

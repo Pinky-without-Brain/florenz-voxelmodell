@@ -8,41 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 56.623 |
-| Bauschritte | 37 |
-| Y-Bereich | 63 bis 101 |
+| Blöcke | 103.495 |
+| Bauschritte | 67 |
+| Y-Bereich | 82 bis 136 |
 | X-Ausdehnung | -2799 bis -2722 (78 Blöcke) |
 | Z-Ausdehnung | 2501 bis 2646 (146 Blöcke) |
-| Kleinster Schritt | 1.123 Blöcke (Schritt 9.21) |
-| Mittlerer Schritt | 1.530 Blöcke |
-| Größter Schritt | 1.924 Blöcke (Schritt 9.31) |
+| Kleinster Schritt | 937 Blöcke (Schritt 9.56) |
+| Mittlerer Schritt | 1.545 Blöcke |
+| Größter Schritt | 2.085 Blöcke (Schritt 9.60) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.662 | 31,2 % |
-| Endsteinziegel | `end_stone_bricks` | 8.868 | 15,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.467 | 13,2 % |
-| Polierter Tuffstein | `polished_tuff` | 5.418 | 9,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.311 | 9,4 % |
-| Weißer Beton | `white_concrete` | 3.555 | 6,3 % |
-| Rosa Keramik | `pink_terracotta` | 2.525 | 4,5 % |
-| Graues Buntglas | `gray_stained_glass` | 1.811 | 3,2 % |
-| Grüner Beton | `green_concrete` | 1.173 | 2,1 % |
-| Glatter Stein | `smooth_stone` | 801 | 1,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 580 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 506 | 0,9 % |
-| Ziegelsteine | `bricks` | 417 | 0,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 145 | 0,3 % |
-| Seelaterne | `sea_lantern` | 96 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 35 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 33 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 30 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 30 | 0,1 % |
+| Tuffstein | `tuff` | 46.545 | 45,0 % |
+| Terrakotta | `terracotta` | 17.665 | 17,1 % |
+| Endsteinziegel | `end_stone_bricks` | 8.868 | 8,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.511 | 7,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 5.461 | 5,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.186 | 5,0 % |
+| Weißer Beton | `white_concrete` | 3.555 | 3,4 % |
+| Rosa Keramik | `pink_terracotta` | 2.661 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.811 | 1,7 % |
+| Grüner Beton | `green_concrete` | 1.173 | 1,1 % |
+| Glatter Stein | `smooth_stone` | 801 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 580 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 506 | 0,5 % |
+| Ziegelsteine | `bricks` | 417 | 0,4 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 196 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 145 | 0,1 % |
+| Seelaterne | `sea_lantern` | 92 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 34 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 34 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 32 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 30 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 30 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 28 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
@@ -52,6 +55,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 230 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 120 |
 | Steintreppe | `stone_stairs` | 80 |
 
@@ -59,28 +63,28 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r11750636` | Palazzo des Cinquecento an Via Ippolito Pindemonte | 15.734 | 9.1–9.10 |
-| 2 | `r11750636_innen` | Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau | 2.688 | 9.11–9.12 |
-| 3 | `r11750637` | Reihenhaus an Via Ippolito Pindemonte | 13.247 | 9.13–9.21 |
-| 4 | `r11750637_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 3.793 | 9.22–9.24 |
-| 5 | `w465419713` | Reihenhaus an Via Ippolito Pindemonte | 4.326 | 9.25–9.27 |
-| 6 | `w465419713_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.392 | 9.28 |
-| 7 | `w465419740` | Palazzo des Cinquecento an Via Ippolito Pindemonte | 12.568 | 9.29–9.35 |
-| 8 | `w465419740_innen` | Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau | 2.875 | 9.36–9.37 |
+| 1 | `r11750636` | Palazzo des Cinquecento an Via Ippolito Pindemonte | 36.770 | 9.1–9.23 |
+| 2 | `r11750636_innen` | Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau | 2.688 | 9.24–9.25 |
+| 3 | `r11750637` | Reihenhaus an Via Ippolito Pindemonte | 29.770 | 9.26–9.45 |
+| 4 | `r11750637_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 3.793 | 9.46–9.48 |
+| 5 | `w465419713` | Reihenhaus an Via Ippolito Pindemonte | 6.409 | 9.49–9.52 |
+| 6 | `w465419713_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.391 | 9.53 |
+| 7 | `w465419740` | Palazzo des Cinquecento an Via Ippolito Pindemonte | 19.799 | 9.54–9.65 |
+| 8 | `w465419740_innen` | Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau | 2.875 | 9.66–9.67 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 1/10 (Y 63–63)
+### Schritt 9.1 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 1/23 (Y 82–83)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.688
+- **Y-Bereich:** 82 bis 83
+- **Blöcke:** 1.401
 - **Bauteile:** `r11750636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.688 |
+| Tuffstein | `tuff` | 1.401 |
 
 **Beschreibung**
 
@@ -98,23 +102,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 2/10 (Y 64–67)
+### Schritt 9.2 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 2/23 (Y 84–84)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.525
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.179
 - **Bauteile:** `r11750636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.282 |
-| Weißer Beton | `white_concrete` | 118 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
-| Grüner Beton | `green_concrete` | 31 |
-| Polierter Andesit | `polished_andesite` | 31 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Tuffstein | `tuff` | 1.179 |
 
 **Beschreibung**
 
@@ -132,23 +130,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 3/10 (Y 68–71)
+### Schritt 9.3 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 3/23 (Y 85–85)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.486
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.358
 - **Bauteile:** `r11750636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.152 |
-| Weißer Beton | `white_concrete` | 153 |
-| Graues Buntglas | `gray_stained_glass` | 103 |
-| Grüner Beton | `green_concrete` | 31 |
-| Polierter Andesit | `polished_andesite` | 31 |
-| Glatter Stein | `smooth_stone` | 12 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Tuffstein | `tuff` | 1.358 |
 
 **Beschreibung**
 
@@ -166,21 +158,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 4/10 (Y 72–75)
+### Schritt 9.4 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 4/23 (Y 86–86)
 
-- **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.624
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.433
 - **Bauteile:** `r11750636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.332 |
-| Glatter Stein | `smooth_stone` | 165 |
-| Weißer Beton | `white_concrete` | 91 |
-| Polierter Andesit | `polished_andesite` | 30 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Tuffstein | `tuff` | 1.433 |
 
 **Beschreibung**
 
@@ -198,21 +186,442 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 5/10 (Y 76–79)
+### Schritt 9.5 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 5/23 (Y 87–87)
 
-- **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.424
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.465
 - **Bauteile:** `r11750636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 906 |
+| Tuffstein | `tuff` | 1.465 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.6 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 6/23 (Y 88–88)
+
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.501
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.501 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.7 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 7/23 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.537
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.537 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.8 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 8/23 (Y 90–90)
+
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 1.567
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.567 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.9 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 9/23 (Y 91–91)
+
+- **Y-Bereich:** 91 bis 91
+- **Blöcke:** 1.585
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.585 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.10 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 10/23 (Y 92–92)
+
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.595
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.591 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.11 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 11/23 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 1.596
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.590 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.12 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 12/23 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.595
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.589 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.13 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 13/23 (Y 95–95)
+
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 1.604
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.598 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.14 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 14/23 (Y 96–96)
+
+- **Y-Bereich:** 96 bis 96
+- **Blöcke:** 1.648
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.642 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.15 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 15/23 (Y 97–98)
+
+- **Y-Bereich:** 97 bis 98
+- **Blöcke:** 2.053
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.654 |
+| Endsteinziegel | `end_stone_bricks` | 379 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.16 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 16/23 (Y 99–103)
+
+- **Y-Bereich:** 99 bis 103
+- **Blöcke:** 1.825
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.375 |
+| Weißer Beton | `white_concrete` | 185 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
+| Grüner Beton | `green_concrete` | 62 |
+| Polierter Andesit | `polished_andesite` | 35 |
+| Glatter Stein | `smooth_stone` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.17 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 17/23 (Y 104–108)
+
+- **Y-Bereich:** 104 bis 108
+- **Blöcke:** 2.011
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.701 |
+| Glatter Stein | `smooth_stone` | 173 |
+| Weißer Beton | `white_concrete` | 86 |
+| Polierter Andesit | `polished_andesite` | 42 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Graues Buntglas | `gray_stained_glass` | 1 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.18 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 18/23 (Y 109–113)
+
+- **Y-Bereich:** 109 bis 113
+- **Blöcke:** 1.830
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.217 |
+| Weißer Beton | `white_concrete` | 235 |
 | Graues Buntglas | `gray_stained_glass` | 216 |
-| Weißer Beton | `white_concrete` | 144 |
 | Grüner Beton | `green_concrete` | 132 |
-| Polierter Andesit | `polished_andesite` | 26 |
+| Polierter Andesit | `polished_andesite` | 30 |
 
 **Beschreibung**
 
@@ -230,9 +639,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 6/10 (Y 80–83)
+### Schritt 9.19 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 19/23 (Y 114–117)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 114 bis 117
 - **Blöcke:** 1.524
 - **Bauteile:** `r11750636`
 
@@ -263,49 +672,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.7 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 7/10 (Y 84–88)
+### Schritt 9.20 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 20/23 (Y 118–121)
 
-- **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.880
+- **Y-Bereich:** 118 bis 121
+- **Blöcke:** 1.524
 - **Bauteile:** `r11750636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.384 |
-| Weißer Beton | `white_concrete` | 199 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 36 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.8 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 8/10 (Y 89–92)
-
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.650
-- **Bauteile:** `r11750636`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.286 |
+| Endsteinziegel | `end_stone_bricks` | 1.160 |
 | Weißer Beton | `white_concrete` | 163 |
 | Graues Buntglas | `gray_stained_glass` | 108 |
 | Grüner Beton | `green_concrete` | 66 |
@@ -327,9 +704,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.9 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 9/10 (Y 93–94)
+### Schritt 9.21 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 21/23 (Y 122–126)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 122 bis 126
+- **Blöcke:** 2.006
+- **Bauteile:** `r11750636`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.510 |
+| Weißer Beton | `white_concrete` | 199 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Grüner Beton | `green_concrete` | 99 |
+| Polierter Andesit | `polished_andesite` | 36 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.22 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 22/23 (Y 127–128)
+
+- **Y-Bereich:** 127 bis 128
 - **Blöcke:** 1.640
 - **Bauteile:** `r11750636`
 
@@ -357,9 +766,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.10 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 10/10 (Y 95–100)
+### Schritt 9.23 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 23/23 (Y 129–134)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 129 bis 134
 - **Blöcke:** 1.293
 - **Bauteile:** `r11750636`
 
@@ -386,9 +795,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.11 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 9.24 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 1/2 (Y 97–107)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 97 bis 107
 - **Blöcke:** 1.341
 - **Bauteile:** `r11750636_innen`
 
@@ -428,9 +837,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.12 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 9.25 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 2/2 (Y 108–118)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 108 bis 118
 - **Blöcke:** 1.347
 - **Bauteile:** `r11750636_innen`
 
@@ -472,17 +881,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.13 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/9 (Y 63–63)
+### Schritt 9.26 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/20 (Y 83–84)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.539
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 996
 - **Bauteile:** `r11750637`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.539 |
+| Tuffstein | `tuff` | 996 |
 
 **Beschreibung**
 
@@ -500,22 +909,444 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.14 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/9 (Y 64–68)
+### Schritt 9.27 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/20 (Y 85–85)
 
-- **Y-Bereich:** 64 bis 68
-- **Blöcke:** 1.523
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.174
 - **Bauteile:** `r11750637`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.278 |
-| Weißer Beton | `white_concrete` | 104 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Grüner Beton | `green_concrete` | 48 |
+| Tuffstein | `tuff` | 1.169 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.28 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/20 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.369
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.364 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.29 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/20 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.421
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.416 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.30 – Reihenhaus an Via Ippolito Pindemonte – Teil 5/20 (Y 88–88)
+
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.437
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.432 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.31 – Reihenhaus an Via Ippolito Pindemonte – Teil 6/20 (Y 89–89)
+
+- **Y-Bereich:** 89 bis 89
+- **Blöcke:** 1.447
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.442 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.32 – Reihenhaus an Via Ippolito Pindemonte – Teil 7/20 (Y 90–90)
+
+- **Y-Bereich:** 90 bis 90
+- **Blöcke:** 1.450
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.445 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.33 – Reihenhaus an Via Ippolito Pindemonte – Teil 8/20 (Y 91–91)
+
+- **Y-Bereich:** 91 bis 91
+- **Blöcke:** 1.448
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.443 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.34 – Reihenhaus an Via Ippolito Pindemonte – Teil 9/20 (Y 92–92)
+
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.447
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.442 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.35 – Reihenhaus an Via Ippolito Pindemonte – Teil 10/20 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
+- **Blöcke:** 1.447
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.442 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.36 – Reihenhaus an Via Ippolito Pindemonte – Teil 11/20 (Y 94–94)
+
+- **Y-Bereich:** 94 bis 94
+- **Blöcke:** 1.447
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.442 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.37 – Reihenhaus an Via Ippolito Pindemonte – Teil 12/20 (Y 95–95)
+
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 1.451
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.446 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.38 – Reihenhaus an Via Ippolito Pindemonte – Teil 13/20 (Y 96–97)
+
+- **Y-Bereich:** 96 bis 97
+- **Blöcke:** 1.838
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.479 |
+| Hellgrauer Beton | `light_gray_concrete` | 352 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 |
+| Glatter Stein | `smooth_stone` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.39 – Reihenhaus an Via Ippolito Pindemonte – Teil 14/20 (Y 98–103)
+
+- **Y-Bereich:** 98 bis 103
+- **Blöcke:** 1.817
+- **Bauteile:** `r11750637`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.434 |
+| Weißer Beton | `white_concrete` | 183 |
+| Graues Buntglas | `gray_stained_glass` | 82 |
+| Grüner Beton | `green_concrete` | 72 |
 | Polierter Andesit | `polished_andesite` | 29 |
-| Glatter Stein | `smooth_stone` | 10 |
+| Glatter Stein | `smooth_stone` | 17 |
 
 **Beschreibung**
 
@@ -533,50 +1364,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.15 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/9 (Y 69–72)
+### Schritt 9.40 – Reihenhaus an Via Ippolito Pindemonte – Teil 15/20 (Y 104–109)
 
-- **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.244
+- **Y-Bereich:** 104 bis 109
+- **Blöcke:** 1.830
 - **Bauteile:** `r11750637`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.104 |
-| Weißer Beton | `white_concrete` | 79 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-| Grüner Beton | `green_concrete` | 24 |
-| Glatter Stein | `smooth_stone` | 9 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.16 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/9 (Y 73–77)
-
-- **Y-Bereich:** 73 bis 77
-- **Blöcke:** 1.510
-- **Bauteile:** `r11750637`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.140 |
-| Weißer Beton | `white_concrete` | 199 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.519 |
+| Weißer Beton | `white_concrete` | 140 |
 | Graues Buntglas | `gray_stained_glass` | 93 |
 | Grüner Beton | `green_concrete` | 78 |
 
@@ -596,18 +1395,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.17 – Reihenhaus an Via Ippolito Pindemonte – Teil 5/9 (Y 78–82)
+### Schritt 9.41 – Reihenhaus an Via Ippolito Pindemonte – Teil 16/20 (Y 110–115)
 
-- **Y-Bereich:** 78 bis 82
-- **Blöcke:** 1.540
+- **Y-Bereich:** 110 bis 115
+- **Blöcke:** 1.860
 - **Bauteile:** `r11750637`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.228 |
-| Weißer Beton | `white_concrete` | 198 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.489 |
+| Weißer Beton | `white_concrete` | 257 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
 | Grüner Beton | `green_concrete` | 52 |
 
@@ -627,9 +1426,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.18 – Reihenhaus an Via Ippolito Pindemonte – Teil 6/9 (Y 83–87)
+### Schritt 9.42 – Reihenhaus an Via Ippolito Pindemonte – Teil 17/20 (Y 116–120)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 116 bis 120
 - **Blöcke:** 1.570
 - **Bauteile:** `r11750637`
 
@@ -658,21 +1457,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.19 – Reihenhaus an Via Ippolito Pindemonte – Teil 7/9 (Y 88–92)
+### Schritt 9.43 – Reihenhaus an Via Ippolito Pindemonte – Teil 18/20 (Y 121–124)
 
-- **Y-Bereich:** 88 bis 92
-- **Blöcke:** 1.556
+- **Y-Bereich:** 121 bis 124
+- **Blöcke:** 1.190
 - **Bauteile:** `r11750637`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.114 |
-| Weißer Beton | `white_concrete` | 225 |
+| Hellgrauer Beton | `light_gray_concrete` | 879 |
+| Weißer Beton | `white_concrete` | 140 |
 | Graues Buntglas | `gray_stained_glass` | 93 |
 | Grüner Beton | `green_concrete` | 78 |
-| Fichtenholz-Bretter | `spruce_planks` | 46 |
 
 **Beschreibung**
 
@@ -690,10 +1488,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.20 – Reihenhaus an Via Ippolito Pindemonte – Teil 8/9 (Y 93–94)
+### Schritt 9.44 – Reihenhaus an Via Ippolito Pindemonte – Teil 19/20 (Y 125–127)
 
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.642
+- **Y-Bereich:** 125 bis 127
+- **Blöcke:** 2.008
 - **Bauteile:** `r11750637`
 
 **Teileliste**
@@ -701,8 +1499,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.121 |
-| Hellgrauer Beton | `light_gray_concrete` | 320 |
-| Fichtenholz-Bretter | `spruce_planks` | 201 |
+| Hellgrauer Beton | `light_gray_concrete` | 555 |
+| Fichtenholz-Bretter | `spruce_planks` | 247 |
+| Weißer Beton | `white_concrete` | 85 |
 
 **Beschreibung**
 
@@ -720,9 +1519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.21 – Reihenhaus an Via Ippolito Pindemonte – Teil 9/9 (Y 95–98)
+### Schritt 9.45 – Reihenhaus an Via Ippolito Pindemonte – Teil 20/20 (Y 128–131)
 
-- **Y-Bereich:** 95 bis 98
+- **Y-Bereich:** 128 bis 131
 - **Blöcke:** 1.123
 - **Bauteile:** `r11750637`
 
@@ -749,9 +1548,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.22 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 9.46 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau – Teil 1/3 (Y 96–105)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 96 bis 105
 - **Blöcke:** 1.268
 - **Bauteile:** `r11750637_innen`
 
@@ -762,10 +1561,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.208 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
 | Seelaterne | `sea_lantern` | 15 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -789,9 +1586,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.23 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 9.47 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau – Teil 2/3 (Y 106–112)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 106 bis 112
 - **Blöcke:** 1.258
 - **Bauteile:** `r11750637_innen`
 
@@ -801,11 +1598,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.208 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -829,9 +1628,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.24 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 9.48 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau – Teil 3/3 (Y 113–120)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 113 bis 120
 - **Blöcke:** 1.267
 - **Bauteile:** `r11750637_innen`
 
@@ -841,13 +1640,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.208 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
 | Seelaterne | `sea_lantern` | 7 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -871,21 +1670,24 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.25 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/3 (Y 63–72)
+### Schritt 9.49 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 85–90)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.415
+- **Y-Bereich:** 85 bis 90
+- **Blöcke:** 1.547
 - **Bauteile:** `w465419713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 761 |
-| Polierter Tuffstein | `polished_tuff` | 528 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-| Weißer Beton | `white_concrete` | 46 |
-| Glatter Stein | `smooth_stone` | 32 |
+| Tuffstein | `tuff` | 1.495 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 52 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 52 |
 
 **Beschreibung**
 
@@ -903,20 +1705,61 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.26 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/3 (Y 73–86)
+### Schritt 9.50 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 91–98)
 
-- **Y-Bereich:** 73 bis 86
-- **Blöcke:** 1.466
+- **Y-Bereich:** 91 bis 98
+- **Blöcke:** 1.624
 - **Bauteile:** `w465419713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.152 |
-| Weißer Beton | `white_concrete` | 218 |
+| Rosa Keramik | `pink_terracotta` | 590 |
+| Polierter Tuffstein | `polished_tuff` | 456 |
+| Tuffstein | `tuff` | 452 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Weißer Beton | `white_concrete` | 33 |
+| Glatter Stein | `smooth_stone` | 25 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 20 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.51 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 99–114)
+
+- **Y-Bereich:** 99 bis 114
+- **Blöcke:** 1.684
+- **Bauteile:** `w465419713`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.350 |
+| Weißer Beton | `white_concrete` | 231 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Fichtenholz-Bretter | `spruce_planks` | 24 |
+| Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
 
@@ -934,18 +1777,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.27 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/3 (Y 87–98)
+### Schritt 9.52 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 115–127)
 
-- **Y-Bereich:** 87 bis 98
-- **Blöcke:** 1.445
+- **Y-Bereich:** 115 bis 127
+- **Blöcke:** 1.554
 - **Bauteile:** `w465419713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 721 |
 | Terrakotta | `terracotta` | 664 |
-| Rosa Keramik | `pink_terracotta` | 612 |
 | Weißer Beton | `white_concrete` | 99 |
 | Ziegelsteine | `bricks` | 38 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
@@ -967,21 +1810,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.28 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
+### Schritt 9.53 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.392
+- **Y-Bereich:** 92 bis 116
+- **Blöcke:** 1.391
 - **Bauteile:** `w465419713_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.233 |
+| Terrakotta | `terracotta` | 1.236 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 
@@ -1007,17 +1850,24 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.29 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 1/7 (Y 63–63)
+### Schritt 9.54 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 1/12 (Y 86–92)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.663
+- **Y-Bereich:** 86 bis 92
+- **Blöcke:** 1.898
 - **Bauteile:** `w465419740`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.663 |
+| Tuffstein | `tuff` | 1.870 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 28 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 28 |
 
 **Beschreibung**
 
@@ -1035,22 +1885,200 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.30 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 2/7 (Y 64–70)
+### Schritt 9.55 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 2/12 (Y 93–94)
 
-- **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.795
+- **Y-Bereich:** 93 bis 94
+- **Blöcke:** 1.485
 - **Bauteile:** `w465419740`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.260 |
-| Weißer Beton | `white_concrete` | 187 |
+| Tuffstein | `tuff` | 1.473 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.56 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 3/12 (Y 95–95)
+
+- **Y-Bereich:** 95 bis 95
+- **Blöcke:** 937
+- **Bauteile:** `w465419740`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 931 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.57 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 4/12 (Y 96–96)
+
+- **Y-Bereich:** 96 bis 96
+- **Blöcke:** 1.307
+- **Bauteile:** `w465419740`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.301 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.58 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 5/12 (Y 97–97)
+
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.514
+- **Bauteile:** `w465419740`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.508 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.59 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 6/12 (Y 98–99)
+
+- **Y-Bereich:** 98 bis 99
+- **Blöcke:** 1.877
+- **Bauteile:** `w465419740`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.597 |
+| Glatter Sandstein | `smooth_sandstone` | 258 |
+| Polierter Andesit | `polished_andesite` | 15 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.60 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 7/12 (Y 100–107)
+
+- **Y-Bereich:** 100 bis 107
+- **Blöcke:** 2.085
+- **Bauteile:** `w465419740`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.467 |
+| Weißer Beton | `white_concrete` | 254 |
 | Graues Buntglas | `gray_stained_glass` | 148 |
 | Grüner Beton | `green_concrete` | 112 |
-| Polierter Andesit | `polished_andesite` | 81 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Polierter Andesit | `polished_andesite` | 95 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
@@ -1068,55 +2096,55 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.31 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 3/7 (Y 71–77)
+### Schritt 9.61 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 8/12 (Y 108–114)
 
-- **Y-Bereich:** 71 bis 77
-- **Blöcke:** 1.924
+- **Y-Bereich:** 108 bis 114
+- **Blöcke:** 1.862
 - **Bauteile:** `w465419740`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.348 |
-| Weißer Beton | `white_concrete` | 213 |
+| Glatter Sandstein | `smooth_sandstone` | 1.151 |
+| Weißer Beton | `white_concrete` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
 | Glatter Stein | `smooth_stone` | 143 |
+| Grüner Beton | `green_concrete` | 132 |
+| Polierter Andesit | `polished_andesite` | 52 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.62 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 9/12 (Y 115–121)
+
+- **Y-Bereich:** 115 bis 121
+- **Blöcke:** 1.932
+- **Bauteile:** `w465419740`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.246 |
+| Weißer Beton | `white_concrete` | 331 |
+| Glatter Stein | `smooth_stone` | 151 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 | Grüner Beton | `green_concrete` | 66 |
-| Polierter Andesit | `polished_andesite` | 65 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.32 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 4/7 (Y 78–84)
-
-- **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.897
-- **Bauteile:** `w465419740`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.178 |
-| Weißer Beton | `white_concrete` | 290 |
-| Glatter Stein | `smooth_stone` | 151 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Grüner Beton | `green_concrete` | 99 |
 | Polierter Andesit | `polished_andesite` | 56 |
 
 **Beschreibung**
@@ -1135,21 +2163,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.33 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 5/7 (Y 85–91)
+### Schritt 9.63 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 10/12 (Y 122–127)
 
-- **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.827
+- **Y-Bereich:** 122 bis 127
+- **Blöcke:** 1.758
 - **Bauteile:** `w465419740`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.078 |
-| Weißer Beton | `white_concrete` | 327 |
-| Graues Buntglas | `gray_stained_glass` | 205 |
-| Grüner Beton | `green_concrete` | 165 |
-| Polierter Andesit | `polished_andesite` | 52 |
+| Glatter Sandstein | `smooth_sandstone` | 1.032 |
+| Weißer Beton | `white_concrete` | 325 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
+| Grüner Beton | `green_concrete` | 132 |
+| Fichtenholz-Bretter | `spruce_planks` | 57 |
+| Polierter Andesit | `polished_andesite` | 48 |
 
 **Beschreibung**
 
@@ -1167,10 +2196,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.34 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 6/7 (Y 92–94)
+### Schritt 9.64 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 11/12 (Y 128–129)
 
-- **Y-Bereich:** 92 bis 94
-- **Blöcke:** 1.754
+- **Y-Bereich:** 128 bis 129
+- **Blöcke:** 1.436
 - **Bauteile:** `w465419740`
 
 **Teileliste**
@@ -1178,10 +2207,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 881 |
-| Glatter Sandstein | `smooth_sandstone` | 447 |
-| Fichtenholz-Bretter | `spruce_planks` | 301 |
-| Weißer Beton | `white_concrete` | 109 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Glatter Sandstein | `smooth_sandstone` | 307 |
+| Fichtenholz-Bretter | `spruce_planks` | 244 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -1199,9 +2227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.35 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 7/7 (Y 95–101)
+### Schritt 9.65 – Palazzo des Cinquecento an Via Ippolito Pindemonte – Teil 12/12 (Y 130–136)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 130 bis 136
 - **Blöcke:** 1.708
 - **Bauteile:** `w465419740`
 
@@ -1228,9 +2256,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.36 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 9.66 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 1/2 (Y 98–108)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 98 bis 108
 - **Blöcke:** 1.434
 - **Bauteile:** `w465419740_innen`
 
@@ -1270,9 +2298,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.37 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 9.67 – Palazzo des Cinquecento an Via Ippolito Pindemonte: Innenausbau – Teil 2/2 (Y 109–119)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 109 bis 119
 - **Blöcke:** 1.441
 - **Bauteile:** `w465419740_innen`
 

@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 121.779 |
+| Blöcke | 121.783 |
 | Bauschritte | 74 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 62 bis 100 |
 | X-Ausdehnung | 1252 bis 1391 (140 Blöcke) |
 | Z-Ausdehnung | 923 bis 1109 (187 Blöcke) |
 | Kleinster Schritt | 414 Blöcke (Schritt 7.3) |
@@ -49,6 +49,9 @@
 | Tuffsteinziegel | `tuff_bricks` | 41 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -89,12 +92,13 @@
 | 26 | `w476740691_innen` | Reihenhaus an Via dei Macci: Innenausbau | 2.605 | 7.64–7.65 |
 | 27 | `w476740693` | Palazzo des Cinquecento an Via delle Conce | 11.800 | 7.66–7.72 |
 | 28 | `w476740693_innen` | Palazzo des Cinquecento an Via delle Conce: Innenausbau | 3.422 | 7.73–7.74 |
+| 29 | `strassenschilder` | Straßenschilder | 4 | 7.74 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Chiesa di Santa Maria Vergine della Croce al Tempio – Teil 1/2 (Y 63–79)
+### Schritt 7.1 – Chiesa di Santa Maria Vergine della Croce al Tempio – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.612
 - **Bauteile:** `w307539768`
 
@@ -123,9 +127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Chiesa di Santa Maria Vergine della Croce al Tempio – Teil 2/2 (Y 80–98)
+### Schritt 7.2 – Chiesa di Santa Maria Vergine della Croce al Tempio – Teil 2/2 (Y 79–97)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 79 bis 97
 - **Blöcke:** 1.544
 - **Bauteile:** `w307539768`
 
@@ -157,7 +161,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.3 – Chiesa di Santa Maria Vergine della Croce al Tempio: Innenausbau
 
-- **Y-Bereich:** 63 bis 85
+- **Y-Bereich:** 62 bis 84
 - **Blöcke:** 414
 - **Bauteile:** `w307539768_innen`
 
@@ -193,9 +197,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.4 – Reihenhaus an Via delle Conce – Teil 1/6 (Y 63–65)
+### Schritt 7.4 – Reihenhaus an Via delle Conce – Teil 1/6 (Y 62–64)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.585
 - **Bauteile:** `w476740624`
 
@@ -223,9 +227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Reihenhaus an Via delle Conce – Teil 2/6 (Y 66–72)
+### Schritt 7.5 – Reihenhaus an Via delle Conce – Teil 2/6 (Y 65–71)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.661
 - **Bauteile:** `w476740624`
 
@@ -255,9 +259,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Reihenhaus an Via delle Conce – Teil 3/6 (Y 73–79)
+### Schritt 7.6 – Reihenhaus an Via delle Conce – Teil 3/6 (Y 72–78)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.687
 - **Bauteile:** `w476740624`
 
@@ -286,9 +290,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Reihenhaus an Via delle Conce – Teil 4/6 (Y 80–86)
+### Schritt 7.7 – Reihenhaus an Via delle Conce – Teil 4/6 (Y 79–85)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.687
 - **Bauteile:** `w476740624`
 
@@ -317,9 +321,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Reihenhaus an Via delle Conce – Teil 5/6 (Y 87–93)
+### Schritt 7.8 – Reihenhaus an Via delle Conce – Teil 5/6 (Y 86–92)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.785
 - **Bauteile:** `w476740624`
 
@@ -348,9 +352,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Reihenhaus an Via delle Conce – Teil 6/6 (Y 94–101)
+### Schritt 7.9 – Reihenhaus an Via delle Conce – Teil 6/6 (Y 93–100)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.517
 - **Bauteile:** `w476740624`
 
@@ -377,9 +381,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Reihenhaus an Via delle Conce: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 7.10 – Reihenhaus an Via delle Conce: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 950
 - **Bauteile:** `w476740624_innen`
 
@@ -417,9 +421,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.11 – Reihenhaus an Via delle Conce: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 7.11 – Reihenhaus an Via delle Conce: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.764
 - **Bauteile:** `w476740624_innen`
 
@@ -459,9 +463,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.12 – Palazzo des Cinquecento an Via delle Conce – Teil 1/6 (Y 63–65)
+### Schritt 7.12 – Palazzo des Cinquecento an Via delle Conce – Teil 1/6 (Y 62–64)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.913
 - **Bauteile:** `w476740625`
 
@@ -491,9 +495,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Palazzo des Cinquecento an Via delle Conce – Teil 2/6 (Y 66–72)
+### Schritt 7.13 – Palazzo des Cinquecento an Via delle Conce – Teil 2/6 (Y 65–71)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.779
 - **Bauteile:** `w476740625`
 
@@ -525,9 +529,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Palazzo des Cinquecento an Via delle Conce – Teil 3/6 (Y 73–80)
+### Schritt 7.14 – Palazzo des Cinquecento an Via delle Conce – Teil 3/6 (Y 72–79)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 2.046
 - **Bauteile:** `w476740625`
 
@@ -558,9 +562,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.15 – Palazzo des Cinquecento an Via delle Conce – Teil 4/6 (Y 81–87)
+### Schritt 7.15 – Palazzo des Cinquecento an Via delle Conce – Teil 4/6 (Y 80–86)
 
-- **Y-Bereich:** 81 bis 87
+- **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.833
 - **Bauteile:** `w476740625`
 
@@ -591,9 +595,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.16 – Palazzo des Cinquecento an Via delle Conce – Teil 5/6 (Y 88–93)
+### Schritt 7.16 – Palazzo des Cinquecento an Via delle Conce – Teil 5/6 (Y 87–92)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.730
 - **Bauteile:** `w476740625`
 
@@ -624,9 +628,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.17 – Palazzo des Cinquecento an Via delle Conce – Teil 6/6 (Y 94–100)
+### Schritt 7.17 – Palazzo des Cinquecento an Via delle Conce – Teil 6/6 (Y 93–99)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.995
 - **Bauteile:** `w476740625`
 
@@ -653,9 +657,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.18 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 7.18 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 1/2 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.182
 - **Bauteile:** `w476740625_innen`
 
@@ -691,9 +695,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.19 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 7.19 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 2/2 (Y 73–83)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.192
 - **Bauteile:** `w476740625_innen`
 
@@ -737,9 +741,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.20 – Reihenhaus an Via dei Conciatori – Teil 1/2 (Y 63–79)
+### Schritt 7.20 – Reihenhaus an Via dei Conciatori – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 2.068
 - **Bauteile:** `w476740626`
 
@@ -768,9 +772,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.21 – Reihenhaus an Via dei Conciatori – Teil 2/2 (Y 80–97)
+### Schritt 7.21 – Reihenhaus an Via dei Conciatori – Teil 2/2 (Y 79–96)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 79 bis 96
 - **Blöcke:** 2.075
 - **Bauteile:** `w476740626`
 
@@ -803,7 +807,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.22 – Reihenhaus an Via dei Conciatori: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 669
 - **Bauteile:** `w476740626_innen`
 
@@ -841,9 +845,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.23 – Reihenhaus an Via dei Macci – Teil 1/3 (Y 63–72)
+### Schritt 7.23 – Reihenhaus an Via dei Macci – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.757
 - **Bauteile:** `w476740629`
 
@@ -871,9 +875,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.24 – Reihenhaus an Via dei Macci – Teil 2/3 (Y 73–85)
+### Schritt 7.24 – Reihenhaus an Via dei Macci – Teil 2/3 (Y 72–84)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.895
 - **Bauteile:** `w476740629`
 
@@ -901,9 +905,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.25 – Reihenhaus an Via dei Macci – Teil 3/3 (Y 86–97)
+### Schritt 7.25 – Reihenhaus an Via dei Macci – Teil 3/3 (Y 85–96)
 
-- **Y-Bereich:** 86 bis 97
+- **Y-Bereich:** 85 bis 96
 - **Blöcke:** 1.726
 - **Bauteile:** `w476740629`
 
@@ -935,7 +939,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.26 – Reihenhaus an Via dei Macci: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.147
 - **Bauteile:** `w476740629_innen`
 
@@ -975,9 +979,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.27 – Reihenhaus an Via dei Macci – Teil 1/4 (Y 63–69)
+### Schritt 7.27 – Reihenhaus an Via dei Macci – Teil 1/4 (Y 62–68)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 62 bis 68
 - **Blöcke:** 2.079
 - **Bauteile:** `w476740631`
 
@@ -1007,9 +1011,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.28 – Reihenhaus an Via dei Macci – Teil 2/4 (Y 70–79)
+### Schritt 7.28 – Reihenhaus an Via dei Macci – Teil 2/4 (Y 69–78)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 2.058
 - **Bauteile:** `w476740631`
 
@@ -1037,9 +1041,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.29 – Reihenhaus an Via dei Macci – Teil 3/4 (Y 80–89)
+### Schritt 7.29 – Reihenhaus an Via dei Macci – Teil 3/4 (Y 79–88)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 79 bis 88
 - **Blöcke:** 2.056
 - **Bauteile:** `w476740631`
 
@@ -1067,9 +1071,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.30 – Reihenhaus an Via dei Macci – Teil 4/4 (Y 90–100)
+### Schritt 7.30 – Reihenhaus an Via dei Macci – Teil 4/4 (Y 89–99)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 89 bis 99
 - **Blöcke:** 2.079
 - **Bauteile:** `w476740631`
 
@@ -1099,9 +1103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.31 – Reihenhaus an Via dei Macci: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 7.31 – Reihenhaus an Via dei Macci: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 768
 - **Bauteile:** `w476740631_innen`
 
@@ -1141,9 +1145,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.32 – Reihenhaus an Via dei Macci: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 7.32 – Reihenhaus an Via dei Macci: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.406
 - **Bauteile:** `w476740631_innen`
 
@@ -1181,9 +1185,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.33 – Reihenhaus an Via dei Macci – Teil 1/3 (Y 63–72)
+### Schritt 7.33 – Reihenhaus an Via dei Macci – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 2.035
 - **Bauteile:** `w476740634`
 
@@ -1212,9 +1216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.34 – Reihenhaus an Via dei Macci – Teil 2/3 (Y 73–86)
+### Schritt 7.34 – Reihenhaus an Via dei Macci – Teil 2/3 (Y 72–85)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 72 bis 85
 - **Blöcke:** 2.034
 - **Bauteile:** `w476740634`
 
@@ -1243,9 +1247,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.35 – Reihenhaus an Via dei Macci – Teil 3/3 (Y 87–99)
+### Schritt 7.35 – Reihenhaus an Via dei Macci – Teil 3/3 (Y 86–98)
 
-- **Y-Bereich:** 87 bis 99
+- **Y-Bereich:** 86 bis 98
 - **Blöcke:** 2.099
 - **Bauteile:** `w476740634`
 
@@ -1279,7 +1283,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.36 – Reihenhaus an Via dei Macci: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 1.923
 - **Bauteile:** `w476740634_innen`
 
@@ -1315,9 +1319,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.37 – Reihenhaus an Via dei Macci – Teil 1/4 (Y 63–69)
+### Schritt 7.37 – Reihenhaus an Via dei Macci – Teil 1/4 (Y 62–68)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.711
 - **Bauteile:** `w476740635`
 
@@ -1348,9 +1352,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.38 – Reihenhaus an Via dei Macci – Teil 2/4 (Y 70–80)
+### Schritt 7.38 – Reihenhaus an Via dei Macci – Teil 2/4 (Y 69–79)
 
-- **Y-Bereich:** 70 bis 80
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.659
 - **Bauteile:** `w476740635`
 
@@ -1380,9 +1384,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.39 – Reihenhaus an Via dei Macci – Teil 3/4 (Y 81–91)
+### Schritt 7.39 – Reihenhaus an Via dei Macci – Teil 3/4 (Y 80–90)
 
-- **Y-Bereich:** 81 bis 91
+- **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.634
 - **Bauteile:** `w476740635`
 
@@ -1411,9 +1415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.40 – Reihenhaus an Via dei Macci – Teil 4/4 (Y 92–99)
+### Schritt 7.40 – Reihenhaus an Via dei Macci – Teil 4/4 (Y 91–98)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.642
 - **Bauteile:** `w476740635`
 
@@ -1443,9 +1447,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.41 – Reihenhaus an Via dei Macci: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 7.41 – Reihenhaus an Via dei Macci: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 797
 - **Bauteile:** `w476740635_innen`
 
@@ -1485,9 +1489,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.42 – Reihenhaus an Via dei Macci: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 7.42 – Reihenhaus an Via dei Macci: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.463
 - **Bauteile:** `w476740635_innen`
 
@@ -1527,9 +1531,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.43 – Reihenhaus an Via dei Macci – Teil 1/2 (Y 63–79)
+### Schritt 7.43 – Reihenhaus an Via dei Macci – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.631
 - **Bauteile:** `w476740656`
 
@@ -1558,9 +1562,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.44 – Reihenhaus an Via dei Macci – Teil 2/2 (Y 80–95)
+### Schritt 7.44 – Reihenhaus an Via dei Macci – Teil 2/2 (Y 79–94)
 
-- **Y-Bereich:** 80 bis 95
+- **Y-Bereich:** 79 bis 94
 - **Blöcke:** 1.624
 - **Bauteile:** `w476740656`
 
@@ -1591,7 +1595,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.45 – Reihenhaus an Via dei Macci: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 934
 - **Bauteile:** `w476740656_innen`
 
@@ -1629,9 +1633,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.46 – Reihenhaus an Via dei Macci – Teil 1/2 (Y 63–81)
+### Schritt 7.46 – Reihenhaus an Via dei Macci – Teil 1/2 (Y 62–80)
 
-- **Y-Bereich:** 63 bis 81
+- **Y-Bereich:** 62 bis 80
 - **Blöcke:** 1.748
 - **Bauteile:** `w476740669`
 
@@ -1662,9 +1666,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.47 – Reihenhaus an Via dei Macci – Teil 2/2 (Y 82–99)
+### Schritt 7.47 – Reihenhaus an Via dei Macci – Teil 2/2 (Y 81–98)
 
-- **Y-Bereich:** 82 bis 99
+- **Y-Bereich:** 81 bis 98
 - **Blöcke:** 1.695
 - **Bauteile:** `w476740669`
 
@@ -1697,7 +1701,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.48 – Reihenhaus an Via dei Macci: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.938
 - **Bauteile:** `w476740669_innen`
 
@@ -1735,9 +1739,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.49 – Reihenhaus an Via di San Giuseppe – Teil 1/5 (Y 63–66)
+### Schritt 7.49 – Reihenhaus an Via di San Giuseppe – Teil 1/5 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.754
 - **Bauteile:** `w476740679`
 
@@ -1766,9 +1770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.50 – Reihenhaus an Via di San Giuseppe – Teil 2/5 (Y 67–75)
+### Schritt 7.50 – Reihenhaus an Via di San Giuseppe – Teil 2/5 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.885
 - **Bauteile:** `w476740679`
 
@@ -1798,9 +1802,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.51 – Reihenhaus an Via di San Giuseppe – Teil 3/5 (Y 76–84)
+### Schritt 7.51 – Reihenhaus an Via di San Giuseppe – Teil 3/5 (Y 75–83)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.863
 - **Bauteile:** `w476740679`
 
@@ -1829,9 +1833,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.52 – Reihenhaus an Via di San Giuseppe – Teil 4/5 (Y 85–92)
+### Schritt 7.52 – Reihenhaus an Via di San Giuseppe – Teil 4/5 (Y 84–91)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.708
 - **Bauteile:** `w476740679`
 
@@ -1861,9 +1865,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.53 – Reihenhaus an Via di San Giuseppe – Teil 5/5 (Y 93–101)
+### Schritt 7.53 – Reihenhaus an Via di San Giuseppe – Teil 5/5 (Y 92–100)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.944
 - **Bauteile:** `w476740679`
 
@@ -1892,9 +1896,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.54 – Reihenhaus an Via di San Giuseppe: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 7.54 – Reihenhaus an Via di San Giuseppe: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 978
 - **Bauteile:** `w476740679_innen`
 
@@ -1932,9 +1936,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.55 – Reihenhaus an Via di San Giuseppe: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 7.55 – Reihenhaus an Via di San Giuseppe: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.833
 - **Bauteile:** `w476740679_innen`
 
@@ -1974,9 +1978,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.56 – Palazzo des Cinquecento an Via dei Conciatori – Teil 1/5 (Y 63–66)
+### Schritt 7.56 – Palazzo des Cinquecento an Via dei Conciatori – Teil 1/5 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.672
 - **Bauteile:** `w476740689`
 
@@ -2007,9 +2011,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.57 – Palazzo des Cinquecento an Via dei Conciatori – Teil 2/5 (Y 67–75)
+### Schritt 7.57 – Palazzo des Cinquecento an Via dei Conciatori – Teil 2/5 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.609
 - **Bauteile:** `w476740689`
 
@@ -2040,9 +2044,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.58 – Palazzo des Cinquecento an Via dei Conciatori – Teil 3/5 (Y 76–84)
+### Schritt 7.58 – Palazzo des Cinquecento an Via dei Conciatori – Teil 3/5 (Y 75–83)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.569
 - **Bauteile:** `w476740689`
 
@@ -2072,9 +2076,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.59 – Palazzo des Cinquecento an Via dei Conciatori – Teil 4/5 (Y 85–93)
+### Schritt 7.59 – Palazzo des Cinquecento an Via dei Conciatori – Teil 4/5 (Y 84–92)
 
-- **Y-Bereich:** 85 bis 93
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.718
 - **Bauteile:** `w476740689`
 
@@ -2103,9 +2107,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.60 – Palazzo des Cinquecento an Via dei Conciatori – Teil 5/5 (Y 94–100)
+### Schritt 7.60 – Palazzo des Cinquecento an Via dei Conciatori – Teil 5/5 (Y 93–99)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.486
 - **Bauteile:** `w476740689`
 
@@ -2134,7 +2138,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.61 – Palazzo des Cinquecento an Via dei Conciatori: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 62 bis 83
 - **Blöcke:** 1.893
 - **Bauteile:** `w476740689_innen`
 
@@ -2176,9 +2180,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.62 – Reihenhaus an Via dei Macci – Teil 1/2 (Y 63–81)
+### Schritt 7.62 – Reihenhaus an Via dei Macci – Teil 1/2 (Y 62–80)
 
-- **Y-Bereich:** 63 bis 81
+- **Y-Bereich:** 62 bis 80
 - **Blöcke:** 1.882
 - **Bauteile:** `w476740691`
 
@@ -2208,9 +2212,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.63 – Reihenhaus an Via dei Macci – Teil 2/2 (Y 82–99)
+### Schritt 7.63 – Reihenhaus an Via dei Macci – Teil 2/2 (Y 81–98)
 
-- **Y-Bereich:** 82 bis 99
+- **Y-Bereich:** 81 bis 98
 - **Blöcke:** 1.932
 - **Bauteile:** `w476740691`
 
@@ -2241,9 +2245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.64 – Reihenhaus an Via dei Macci: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 7.64 – Reihenhaus an Via dei Macci: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 908
 - **Bauteile:** `w476740691_innen`
 
@@ -2283,9 +2287,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.65 – Reihenhaus an Via dei Macci: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 7.65 – Reihenhaus an Via dei Macci: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.697
 - **Bauteile:** `w476740691_innen`
 
@@ -2325,9 +2329,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.66 – Palazzo des Cinquecento an Via delle Conce – Teil 1/7 (Y 63–63)
+### Schritt 7.66 – Palazzo des Cinquecento an Via delle Conce – Teil 1/7 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.903
 - **Bauteile:** `w476740693`
 
@@ -2353,9 +2357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.67 – Palazzo des Cinquecento an Via delle Conce – Teil 2/7 (Y 64–69)
+### Schritt 7.67 – Palazzo des Cinquecento an Via delle Conce – Teil 2/7 (Y 63–68)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.392
 - **Bauteile:** `w476740693`
 
@@ -2386,9 +2390,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.68 – Palazzo des Cinquecento an Via delle Conce – Teil 3/7 (Y 70–76)
+### Schritt 7.68 – Palazzo des Cinquecento an Via delle Conce – Teil 3/7 (Y 69–75)
 
-- **Y-Bereich:** 70 bis 76
+- **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.704
 - **Bauteile:** `w476740693`
 
@@ -2419,9 +2423,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.69 – Palazzo des Cinquecento an Via delle Conce – Teil 4/7 (Y 77–84)
+### Schritt 7.69 – Palazzo des Cinquecento an Via delle Conce – Teil 4/7 (Y 76–83)
 
-- **Y-Bereich:** 77 bis 84
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.851
 - **Bauteile:** `w476740693`
 
@@ -2451,9 +2455,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.70 – Palazzo des Cinquecento an Via delle Conce – Teil 5/7 (Y 85–91)
+### Schritt 7.70 – Palazzo des Cinquecento an Via delle Conce – Teil 5/7 (Y 84–90)
 
-- **Y-Bereich:** 85 bis 91
+- **Y-Bereich:** 84 bis 90
 - **Blöcke:** 1.633
 - **Bauteile:** `w476740693`
 
@@ -2483,9 +2487,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.71 – Palazzo des Cinquecento an Via delle Conce – Teil 6/7 (Y 92–94)
+### Schritt 7.71 – Palazzo des Cinquecento an Via delle Conce – Teil 6/7 (Y 91–93)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.550
 - **Bauteile:** `w476740693`
 
@@ -2513,9 +2517,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.72 – Palazzo des Cinquecento an Via delle Conce – Teil 7/7 (Y 95–101)
+### Schritt 7.72 – Palazzo des Cinquecento an Via delle Conce – Teil 7/7 (Y 94–100)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 94 bis 100
 - **Blöcke:** 1.767
 - **Bauteile:** `w476740693`
 
@@ -2542,9 +2546,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.73 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 7.73 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 1/2 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.714
 - **Bauteile:** `w476740693_innen`
 
@@ -2580,11 +2584,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.74 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 7.74 – Palazzo des Cinquecento an Via delle Conce: Innenausbau – Teil 2/2 (Y 73–83) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.708
-- **Bauteile:** `w476740693_innen`
+- **Y-Bereich:** 69 bis 83
+- **Blöcke:** 1.712
+- **Bauteile:** `w476740693_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -2595,8 +2599,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 10 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2606,16 +2613,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

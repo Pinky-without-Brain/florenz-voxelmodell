@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 18.141 |
 | Bauschritte | 11 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 64 bis 101 |
 | X-Ausdehnung | -2390 bis -2356 (35 Blöcke) |
 | Z-Ausdehnung | 2336 bis 2410 (75 Blöcke) |
 | Kleinster Schritt | 1.313 Blöcke (Schritt 19.10) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 19.1 – Haus w118965485 – Teil 1/9 (Y 63–63)
+### Schritt 19.1 – Haus w118965485 – Teil 1/9 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.651
 - **Bauteile:** `w118965485`
 
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Haus w118965485 – Teil 2/9 (Y 64–68)
+### Schritt 19.2 – Haus w118965485 – Teil 2/9 (Y 65–69)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.907
 - **Bauteile:** `w118965485`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.3 – Haus w118965485 – Teil 3/9 (Y 69–72)
+### Schritt 19.3 – Haus w118965485 – Teil 3/9 (Y 70–73)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 1.452
 - **Bauteile:** `w118965485`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.4 – Haus w118965485 – Teil 4/9 (Y 73–77)
+### Schritt 19.4 – Haus w118965485 – Teil 4/9 (Y 74–78)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.861
 - **Bauteile:** `w118965485`
 
@@ -186,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.5 – Haus w118965485 – Teil 5/9 (Y 78–82)
+### Schritt 19.5 – Haus w118965485 – Teil 5/9 (Y 79–83)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.809
 - **Bauteile:** `w118965485`
 
@@ -218,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.6 – Haus w118965485 – Teil 6/9 (Y 83–86)
+### Schritt 19.6 – Haus w118965485 – Teil 6/9 (Y 84–87)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.520
 - **Bauteile:** `w118965485`
 
@@ -251,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.7 – Haus w118965485 – Teil 7/9 (Y 87–91)
+### Schritt 19.7 – Haus w118965485 – Teil 7/9 (Y 88–92)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 88 bis 92
 - **Blöcke:** 1.757
 - **Bauteile:** `w118965485`
 
@@ -283,9 +283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.8 – Haus w118965485 – Teil 8/9 (Y 92–94)
+### Schritt 19.8 – Haus w118965485 – Teil 8/9 (Y 93–95)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 93 bis 95
 - **Blöcke:** 1.999
 - **Bauteile:** `w118965485`
 
@@ -314,9 +314,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.9 – Haus w118965485 – Teil 9/9 (Y 95–100)
+### Schritt 19.9 – Haus w118965485 – Teil 9/9 (Y 96–101)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 96 bis 101
 - **Blöcke:** 1.551
 - **Bauteile:** `w118965485`
 
@@ -343,9 +343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.10 – Haus w118965485: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 19.10 – Haus w118965485: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.313
 - **Bauteile:** `w118965485_innen`
 
@@ -385,9 +385,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.11 – Haus w118965485: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 19.11 – Haus w118965485: Innenausbau – Teil 2/2 (Y 75–85)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.321
 - **Bauteile:** `w118965485_innen`
 

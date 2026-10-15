@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.894 |
+| Blöcke | 50.927 |
 | Bauschritte | 28 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 71 bis 104 |
 | X-Ausdehnung | 1470 bis 1599 (130 Blöcke) |
 | Z-Ausdehnung | -1315 bis -1135 (181 Blöcke) |
 | Kleinster Schritt | 1.318 Blöcke (Schritt 41.18) |
-| Mittlerer Schritt | 1.818 Blöcke |
+| Mittlerer Schritt | 1.819 Blöcke |
 | Größter Schritt | 2.024 Blöcke (Schritt 41.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 24.818 | 48,8 % |
-| Polierter Tuffstein | `polished_tuff` | 9.801 | 19,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 24.818 | 48,7 % |
+| Polierter Tuffstein | `polished_tuff` | 9.801 | 19,2 % |
 | Terrakotta | `terracotta` | 8.754 | 17,2 % |
 | Weißer Beton | `white_concrete` | 3.709 | 7,3 % |
 | Glatter Stein | `smooth_stone` | 1.710 | 3,4 % |
@@ -30,6 +30,7 @@
 | Polierter Andesit | `polished_andesite` | 589 | 1,2 % |
 | Grüner Beton | `green_concrete` | 84 | 0,2 % |
 | Seelaterne | `sea_lantern` | 81 | 0,2 % |
+| Tuffstein | `tuff` | 33 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
@@ -49,15 +50,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306486067` | Palazzo des Ottocento an Viale Giacomo Matteotti | 41.906 | 41.1–41.22 |
+| 1 | `w306486067` | Palazzo des Ottocento an Viale Giacomo Matteotti | 41.939 | 41.1–41.22 |
 | 2 | `w306486067_innen` | Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau | 8.988 | 41.23–41.28 |
 
 ## Bauschritte
 
-### Schritt 41.1 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 1/22 (Y 63–63)
+### Schritt 41.1 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 1/22 (Y 71–72)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.779
+- **Y-Bereich:** 71 bis 72
+- **Blöcke:** 1.812
 - **Bauteile:** `w306486067`
 
 **Teileliste**
@@ -65,6 +66,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.779 |
+| Tuffstein | `tuff` | 33 |
 
 **Beschreibung**
 
@@ -82,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.2 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 2/22 (Y 63–63)
+### Schritt 41.2 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 2/22 (Y 72–72)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.830
 - **Bauteile:** `w306486067`
 
@@ -110,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.3 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 3/22 (Y 63–63)
+### Schritt 41.3 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 3/22 (Y 72–72)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.788
 - **Bauteile:** `w306486067`
 
@@ -138,9 +140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.4 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 4/22 (Y 64–65)
+### Schritt 41.4 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 4/22 (Y 73–74)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.956
 - **Bauteile:** `w306486067`
 
@@ -169,9 +171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.5 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 5/22 (Y 66–67)
+### Schritt 41.5 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 5/22 (Y 75–76)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.914
 - **Bauteile:** `w306486067`
 
@@ -202,9 +204,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.6 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 6/22 (Y 68–69)
+### Schritt 41.6 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 6/22 (Y 77–78)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.890
 - **Bauteile:** `w306486067`
 
@@ -235,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.7 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 7/22 (Y 70–71)
+### Schritt 41.7 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 7/22 (Y 79–80)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.886
 - **Bauteile:** `w306486067`
 
@@ -268,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.8 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 8/22 (Y 72–73)
+### Schritt 41.8 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 8/22 (Y 81–82)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 2.024
 - **Bauteile:** `w306486067`
 
@@ -299,9 +301,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.9 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 9/22 (Y 74–75)
+### Schritt 41.9 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 9/22 (Y 83–84)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 2.024
 - **Bauteile:** `w306486067`
 
@@ -329,9 +331,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.10 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 10/22 (Y 76–77)
+### Schritt 41.10 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 10/22 (Y 85–86)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.975
 - **Bauteile:** `w306486067`
 
@@ -361,9 +363,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.11 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 11/22 (Y 78–79)
+### Schritt 41.11 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 11/22 (Y 87–88)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.926
 - **Bauteile:** `w306486067`
 
@@ -393,9 +395,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.12 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 12/22 (Y 80–81)
+### Schritt 41.12 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 12/22 (Y 89–90)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.975
 - **Bauteile:** `w306486067`
 
@@ -425,9 +427,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.13 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 13/22 (Y 82–83)
+### Schritt 41.13 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 13/22 (Y 91–92)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 2.024
 - **Bauteile:** `w306486067`
 
@@ -456,9 +458,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.14 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 14/22 (Y 84–85)
+### Schritt 41.14 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 14/22 (Y 93–94)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 2.024
 - **Bauteile:** `w306486067`
 
@@ -486,9 +488,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.15 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 15/22 (Y 86–87)
+### Schritt 41.15 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 15/22 (Y 95–96)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.926
 - **Bauteile:** `w306486067`
 
@@ -518,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.16 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 16/22 (Y 88–89)
+### Schritt 41.16 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 16/22 (Y 97–98)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.926
 - **Bauteile:** `w306486067`
 
@@ -550,9 +552,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.17 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 17/22 (Y 90–91)
+### Schritt 41.17 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 17/22 (Y 99–100)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.975
 - **Bauteile:** `w306486067`
 
@@ -582,9 +584,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.18 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 18/22 (Y 92–92)
+### Schritt 41.18 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 18/22 (Y 101–101)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.318
 - **Bauteile:** `w306486067`
 
@@ -612,9 +614,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.19 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 19/22 (Y 93–93)
+### Schritt 41.19 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 19/22 (Y 102–102)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.902
 - **Bauteile:** `w306486067`
 
@@ -642,9 +644,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.20 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 20/22 (Y 93–93)
+### Schritt 41.20 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 20/22 (Y 102–102)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.929
 - **Bauteile:** `w306486067`
 
@@ -672,9 +674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.21 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 21/22 (Y 93–93)
+### Schritt 41.21 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 21/22 (Y 102–102)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.891
 - **Bauteile:** `w306486067`
 
@@ -702,9 +704,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.22 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 22/22 (Y 94–95)
+### Schritt 41.22 – Palazzo des Ottocento an Viale Giacomo Matteotti – Teil 22/22 (Y 103–104)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 103 bis 104
 - **Blöcke:** 2.024
 - **Bauteile:** `w306486067`
 
@@ -730,9 +732,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.23 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 41.23 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 1/6 (Y 72–83)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 72 bis 83
 - **Blöcke:** 1.539
 - **Bauteile:** `w306486067_innen`
 
@@ -772,9 +774,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.24 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 41.24 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 2/6 (Y 83–83)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.457
 - **Bauteile:** `w306486067_innen`
 
@@ -801,9 +803,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.25 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 3/6 (Y 74–75)
+### Schritt 41.25 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 3/6 (Y 83–84)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.498
 - **Bauteile:** `w306486067_innen`
 
@@ -841,9 +843,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.26 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 4/6 (Y 76–83)
+### Schritt 41.26 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 4/6 (Y 85–92)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.497
 - **Bauteile:** `w306486067_innen`
 
@@ -879,9 +881,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.27 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 5/6 (Y 83–83)
+### Schritt 41.27 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 5/6 (Y 92–92)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.457
 - **Bauteile:** `w306486067_innen`
 
@@ -908,9 +910,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.28 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 6/6 (Y 83–93)
+### Schritt 41.28 – Palazzo des Ottocento an Viale Giacomo Matteotti: Innenausbau – Teil 6/6 (Y 92–102)
 
-- **Y-Bereich:** 83 bis 93
+- **Y-Bereich:** 92 bis 102
 - **Blöcke:** 1.540
 - **Bauteile:** `w306486067_innen`
 

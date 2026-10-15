@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 919 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 67 bis 98 |
 | X-Ausdehnung | -288 bis -282 (7 Blöcke) |
 | Z-Ausdehnung | -1146 bis -1138 (9 Blöcke) |
 | Kleinster Schritt | 919 Blöcke (Schritt 15.1) |
@@ -38,7 +38,7 @@
 
 ### Schritt 15.1 – Haus w518974232
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 67 bis 98
 - **Blöcke:** 919
 - **Bauteile:** `w518974232`
 

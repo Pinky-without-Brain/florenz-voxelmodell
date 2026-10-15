@@ -8,31 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.535 |
-| Bauschritte | 24 |
-| Y-Bereich | 63 bis 101 |
+| Blöcke | 45.023 |
+| Bauschritte | 27 |
+| Y-Bereich | 59 bis 100 |
 | X-Ausdehnung | -1193 bis -1112 (82 Blöcke) |
 | Z-Ausdehnung | -1048 bis -941 (108 Blöcke) |
-| Kleinster Schritt | 1.156 Blöcke (Schritt 0.18) |
-| Mittlerer Schritt | 1.689 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 0.20) |
+| Kleinster Schritt | 1.156 Blöcke (Schritt 0.21) |
+| Mittlerer Schritt | 1.668 Blöcke |
+| Größter Schritt | 2.089 Blöcke (Schritt 0.23) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 13.654 | 33,7 % |
-| Tuffstein | `tuff` | 9.033 | 22,3 % |
-| Polierter Andesit | `polished_andesite` | 8.318 | 20,5 % |
-| Polierter Tuffstein | `polished_tuff` | 4.513 | 11,1 % |
-| Glatter Stein | `smooth_stone` | 1.586 | 3,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.310 | 3,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.254 | 3,1 % |
-| Endsteinziegel | `end_stone_bricks` | 478 | 1,2 % |
-| Ziegelsteine | `bricks` | 271 | 0,7 % |
+| Terrakotta | `terracotta` | 13.654 | 30,3 % |
+| Tuffstein | `tuff` | 13.521 | 30,0 % |
+| Polierter Andesit | `polished_andesite` | 8.318 | 18,5 % |
+| Polierter Tuffstein | `polished_tuff` | 4.507 | 10,0 % |
+| Glatter Stein | `smooth_stone` | 1.586 | 3,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.310 | 2,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.254 | 2,8 % |
+| Endsteinziegel | `end_stone_bricks` | 478 | 1,1 % |
+| Ziegelsteine | `bricks` | 271 | 0,6 % |
 | Seelaterne | `sea_lantern` | 60 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 | 0,0 % |
@@ -44,28 +45,29 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1582308` | Renaissance-Palazzo an Via Fiume | 32.807 | 0.1–0.20 |
-| 2 | `r1582308_innen` | Renaissance-Palazzo an Via Fiume: Innenausbau | 7.728 | 0.21–0.24 |
+| 1 | `r1582308` | Renaissance-Palazzo an Via Fiume | 37.295 | 0.1–0.23 |
+| 2 | `r1582308_innen` | Renaissance-Palazzo an Via Fiume: Innenausbau | 7.728 | 0.24–0.27 |
 
 ## Bauschritte
 
-### Schritt 0.1 – Renaissance-Palazzo an Via Fiume – Teil 1/20 (Y 63–63)
+### Schritt 0.1 – Renaissance-Palazzo an Via Fiume – Teil 1/23 (Y 59–60)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.473
+- **Y-Bereich:** 59 bis 60
+- **Blöcke:** 1.572
 - **Bauteile:** `r1582308`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.473 |
+| Tuffstein | `tuff` | 1.572 |
 
 **Beschreibung**
 
@@ -83,17 +85,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Renaissance-Palazzo an Via Fiume – Teil 2/20 (Y 63–63)
+### Schritt 0.2 – Renaissance-Palazzo an Via Fiume – Teil 2/23 (Y 61–61)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.531
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.435
 - **Bauteile:** `r1582308`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.531 |
+| Tuffstein | `tuff` | 1.432 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -111,9 +120,100 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.3 – Renaissance-Palazzo an Via Fiume – Teil 3/20 (Y 63–63)
+### Schritt 0.3 – Renaissance-Palazzo an Via Fiume – Teil 3/23 (Y 61–61)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.484
+- **Bauteile:** `r1582308`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.484 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.4 – Renaissance-Palazzo an Via Fiume – Teil 4/23 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.472
+- **Bauteile:** `r1582308`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.472 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.5 – Renaissance-Palazzo an Via Fiume – Teil 5/23 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.529
+- **Bauteile:** `r1582308`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.526 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.6 – Renaissance-Palazzo an Via Fiume – Teil 6/23 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.509
 - **Bauteile:** `r1582308`
 
@@ -139,9 +239,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.4 – Renaissance-Palazzo an Via Fiume – Teil 4/20 (Y 64–65)
+### Schritt 0.7 – Renaissance-Palazzo an Via Fiume – Teil 7/23 (Y 63–64)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.438
 - **Bauteile:** `r1582308`
 
@@ -170,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.5 – Renaissance-Palazzo an Via Fiume – Teil 5/20 (Y 66–67)
+### Schritt 0.8 – Renaissance-Palazzo an Via Fiume – Teil 8/23 (Y 65–66)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.447
 - **Bauteile:** `r1582308`
 
@@ -202,9 +302,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.6 – Renaissance-Palazzo an Via Fiume – Teil 6/20 (Y 68–70)
+### Schritt 0.9 – Renaissance-Palazzo an Via Fiume – Teil 9/23 (Y 67–69)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.977
 - **Bauteile:** `r1582308`
 
@@ -234,9 +334,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.7 – Renaissance-Palazzo an Via Fiume – Teil 7/20 (Y 71–72)
+### Schritt 0.10 – Renaissance-Palazzo an Via Fiume – Teil 10/23 (Y 70–71)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.385
 - **Bauteile:** `r1582308`
 
@@ -266,9 +366,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.8 – Renaissance-Palazzo an Via Fiume – Teil 8/20 (Y 73–74)
+### Schritt 0.11 – Renaissance-Palazzo an Via Fiume – Teil 11/23 (Y 72–73)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.688
 - **Bauteile:** `r1582308`
 
@@ -297,9 +397,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.9 – Renaissance-Palazzo an Via Fiume – Teil 9/20 (Y 75–76)
+### Schritt 0.12 – Renaissance-Palazzo an Via Fiume – Teil 12/23 (Y 74–75)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.531
 - **Bauteile:** `r1582308`
 
@@ -327,9 +427,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.10 – Renaissance-Palazzo an Via Fiume – Teil 10/20 (Y 77–79)
+### Schritt 0.13 – Renaissance-Palazzo an Via Fiume – Teil 13/23 (Y 76–78)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.971
 - **Bauteile:** `r1582308`
 
@@ -358,9 +458,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.11 – Renaissance-Palazzo an Via Fiume – Teil 11/20 (Y 80–82)
+### Schritt 0.14 – Renaissance-Palazzo an Via Fiume – Teil 14/23 (Y 79–81)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 2.048
 - **Bauteile:** `r1582308`
 
@@ -389,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.12 – Renaissance-Palazzo an Via Fiume – Teil 12/20 (Y 83–84)
+### Schritt 0.15 – Renaissance-Palazzo an Via Fiume – Teil 15/23 (Y 82–83)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.688
 - **Bauteile:** `r1582308`
 
@@ -419,9 +519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.13 – Renaissance-Palazzo an Via Fiume – Teil 13/20 (Y 85–86)
+### Schritt 0.16 – Renaissance-Palazzo an Via Fiume – Teil 16/23 (Y 84–85)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.462
 - **Bauteile:** `r1582308`
 
@@ -450,9 +550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.14 – Renaissance-Palazzo an Via Fiume – Teil 14/20 (Y 87–89)
+### Schritt 0.17 – Renaissance-Palazzo an Via Fiume – Teil 17/23 (Y 86–88)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.971
 - **Bauteile:** `r1582308`
 
@@ -481,9 +581,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.15 – Renaissance-Palazzo an Via Fiume – Teil 15/20 (Y 90–91)
+### Schritt 0.18 – Renaissance-Palazzo an Via Fiume – Teil 18/23 (Y 89–90)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.391
 - **Bauteile:** `r1582308`
 
@@ -512,9 +612,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.16 – Renaissance-Palazzo an Via Fiume – Teil 16/20 (Y 92–93)
+### Schritt 0.19 – Renaissance-Palazzo an Via Fiume – Teil 19/23 (Y 91–92)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.930
 - **Bauteile:** `r1582308`
 
@@ -543,9 +643,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.17 – Renaissance-Palazzo an Via Fiume – Teil 17/20 (Y 94–94)
+### Schritt 0.20 – Renaissance-Palazzo an Via Fiume – Teil 20/23 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.852
 - **Bauteile:** `r1582308`
 
@@ -571,9 +671,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.18 – Renaissance-Palazzo an Via Fiume – Teil 18/20 (Y 95–95)
+### Schritt 0.21 – Renaissance-Palazzo an Via Fiume – Teil 21/23 (Y 94–94)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.156
 - **Bauteile:** `r1582308`
 
@@ -599,9 +699,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.19 – Renaissance-Palazzo an Via Fiume – Teil 19/20 (Y 96–96)
+### Schritt 0.22 – Renaissance-Palazzo an Via Fiume – Teil 22/23 (Y 95–95)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.270
 - **Bauteile:** `r1582308`
 
@@ -627,9 +727,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.20 – Renaissance-Palazzo an Via Fiume – Teil 20/20 (Y 97–101)
+### Schritt 0.23 – Renaissance-Palazzo an Via Fiume – Teil 23/23 (Y 96–100)
 
-- **Y-Bereich:** 97 bis 101
+- **Y-Bereich:** 96 bis 100
 - **Blöcke:** 2.089
 - **Bauteile:** `r1582308`
 
@@ -656,9 +756,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.21 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 0.24 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 1/4 (Y 62–73)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.937
 - **Bauteile:** `r1582308_innen`
 
@@ -698,9 +798,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.22 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 0.25 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 2/4 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.935
 - **Bauteile:** `r1582308_innen`
 
@@ -734,9 +834,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.23 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 0.26 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 3/4 (Y 74–82)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.915
 - **Bauteile:** `r1582308_innen`
 
@@ -778,9 +878,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.24 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 0.27 – Renaissance-Palazzo an Via Fiume: Innenausbau – Teil 4/4 (Y 82–83)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.941
 - **Bauteile:** `r1582308_innen`
 

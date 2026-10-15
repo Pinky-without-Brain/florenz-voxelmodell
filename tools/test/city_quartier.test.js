@@ -1,5 +1,5 @@
 'use strict';
-// V3 C1: Quartier-Projekte (>10 Module), Entwurfs-Akten, Validator R11, Ablehnung außerhalb des Geländerasters.
+// V3 C1: Quartier-Projekte (>10 Module), Entwurfs-Akten, Validator R11, Randhäuser am Geländeraster.
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
@@ -143,17 +143,15 @@ test('R11 erkennt falsche Höhe, ungültige Felder, fehlende Akte und gleiche Na
   } finally { cleanup(f.root); }
 });
 
-test('Gebäude außerhalb des Geländerasters werden mit klarer Meldung abgelehnt', (t) => {
+test('Gebäude, die über das Geländeraster hinausragen, werden trotzdem gebaut (Boden liefert den Randwert)', (t) => {
   quiet(t);
   const f = makeRoot({ ground: "'use strict';\nmodule.exports = { groundTopY: () => 63, inRaster: (x) => x < 500, minY: 0, maxY: 511 };\n" });
   try {
     const reg = loadRegistry(f.env);
     const project = reg.projects.find((p) => p.id === 'qtest');
     const w = buildWorld({ project });
-    assert.equal(w.modules.length, 0);
-    assert.match(w.errors[0].message, /außerhalb des Geländerasters/);
-    assert.match(w.errors[0].message, /w1013/);
-    assert.equal(main(['--project', 'qtest', '--no-emit'], f.env), 1);
+    assert.deepEqual(w.errors, []);
+    assert.ok(w.modules.length > 0);
   } finally { cleanup(f.root); }
 });
 

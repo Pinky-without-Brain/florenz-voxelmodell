@@ -8,31 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 24.320 |
-| Bauschritte | 15 |
-| Y-Bereich | 63 bis 104 |
+| Blöcke | 30.867 |
+| Bauschritte | 20 |
+| Y-Bereich | 105 bis 149 |
 | X-Ausdehnung | -543 bis -467 (77 Blöcke) |
 | Z-Ausdehnung | 1715 bis 1779 (65 Blöcke) |
-| Kleinster Schritt | 1.073 Blöcke (Schritt 7.13) |
-| Mittlerer Schritt | 1.621 Blöcke |
-| Größter Schritt | 2.100 Blöcke (Schritt 7.4) |
+| Kleinster Schritt | 1.073 Blöcke (Schritt 7.18) |
+| Mittlerer Schritt | 1.543 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 7.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 7.914 | 32,5 % |
-| Polierter Andesit | `polished_andesite` | 5.603 | 23,0 % |
-| Tuffstein | `tuff` | 4.759 | 19,6 % |
-| Polierter Tuffstein | `polished_tuff` | 2.610 | 10,7 % |
-| Glatter Stein | `smooth_stone` | 1.093 | 4,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 943 | 3,9 % |
-| Graues Buntglas | `gray_stained_glass` | 886 | 3,6 % |
-| Endsteinziegel | `end_stone_bricks` | 312 | 1,3 % |
-| Ziegelsteine | `bricks` | 115 | 0,5 % |
+| Tuffstein | `tuff` | 11.304 | 36,6 % |
+| Terrakotta | `terracotta` | 7.914 | 25,6 % |
+| Polierter Andesit | `polished_andesite` | 5.603 | 18,2 % |
+| Polierter Tuffstein | `polished_tuff` | 2.596 | 8,4 % |
+| Glatter Stein | `smooth_stone` | 1.093 | 3,5 % |
+| Tuffsteinziegel | `tuff_bricks` | 943 | 3,1 % |
+| Graues Buntglas | `gray_stained_glass` | 886 | 2,9 % |
+| Endsteinziegel | `end_stone_bricks` | 312 | 1,0 % |
+| Ziegelsteine | `bricks` | 115 | 0,4 % |
 | Seelaterne | `sea_lantern` | 33 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 
@@ -41,27 +43,36 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119220022` | Haus w119220022 | 19.881 | 7.1–7.11 |
-| 2 | `w119220022_innen` | Haus w119220022: Innenausbau | 4.439 | 7.12–7.15 |
+| 1 | `w119220022` | Haus w119220022 | 26.428 | 7.1–7.16 |
+| 2 | `w119220022_innen` | Haus w119220022: Innenausbau | 4.439 | 7.17–7.20 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Haus w119220022 – Teil 1/11 (Y 63–63)
+### Schritt 7.1 – Haus w119220022 – Teil 1/16 (Y 105–105)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.319
+- **Y-Bereich:** 105 bis 105
+- **Blöcke:** 1.530
 - **Bauteile:** `w119220022`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.319 |
+| Tuffstein | `tuff` | 1.526 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -79,9 +90,173 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Haus w119220022 – Teil 2/11 (Y 63–64)
+### Schritt 7.2 – Haus w119220022 – Teil 2/16 (Y 106–106)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 106 bis 106
+- **Blöcke:** 1.234
+- **Bauteile:** `w119220022`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.230 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.3 – Haus w119220022 – Teil 3/16 (Y 106–106)
+
+- **Y-Bereich:** 106 bis 106
+- **Blöcke:** 1.207
+- **Bauteile:** `w119220022`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.207 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.4 – Haus w119220022 – Teil 4/16 (Y 107–107)
+
+- **Y-Bereich:** 107 bis 107
+- **Blöcke:** 1.274
+- **Bauteile:** `w119220022`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.270 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.5 – Haus w119220022 – Teil 5/16 (Y 107–107)
+
+- **Y-Bereich:** 107 bis 107
+- **Blöcke:** 1.312
+- **Bauteile:** `w119220022`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.312 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.6 – Haus w119220022 – Teil 6/16 (Y 108–108)
+
+- **Y-Bereich:** 108 bis 108
+- **Blöcke:** 1.309
+- **Bauteile:** `w119220022`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.305 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 7.7 – Haus w119220022 – Teil 7/16 (Y 108–109)
+
+- **Y-Bereich:** 108 bis 109
 - **Blöcke:** 1.733
 - **Bauteile:** `w119220022`
 
@@ -111,9 +286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Haus w119220022 – Teil 3/11 (Y 65–68)
+### Schritt 7.8 – Haus w119220022 – Teil 8/16 (Y 110–113)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 110 bis 113
 - **Blöcke:** 1.715
 - **Bauteile:** `w119220022`
 
@@ -143,9 +318,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Haus w119220022 – Teil 4/11 (Y 69–73)
+### Schritt 7.9 – Haus w119220022 – Teil 9/16 (Y 114–118)
 
-- **Y-Bereich:** 69 bis 73
+- **Y-Bereich:** 114 bis 118
 - **Blöcke:** 2.100
 - **Bauteile:** `w119220022`
 
@@ -175,9 +350,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Haus w119220022 – Teil 5/11 (Y 74–77)
+### Schritt 7.10 – Haus w119220022 – Teil 10/16 (Y 119–122)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 119 bis 122
 - **Blöcke:** 1.953
 - **Bauteile:** `w119220022`
 
@@ -206,9 +381,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Haus w119220022 – Teil 6/11 (Y 78–81)
+### Schritt 7.11 – Haus w119220022 – Teil 11/16 (Y 123–126)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 123 bis 126
 - **Blöcke:** 1.657
 - **Bauteile:** `w119220022`
 
@@ -237,9 +412,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Haus w119220022 – Teil 7/11 (Y 82–85)
+### Schritt 7.12 – Haus w119220022 – Teil 12/16 (Y 127–130)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 127 bis 130
 - **Blöcke:** 2.002
 - **Bauteile:** `w119220022`
 
@@ -267,9 +442,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Haus w119220022 – Teil 8/11 (Y 86–90)
+### Schritt 7.13 – Haus w119220022 – Teil 13/16 (Y 131–135)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 131 bis 135
 - **Blöcke:** 2.010
 - **Bauteile:** `w119220022`
 
@@ -298,9 +473,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Haus w119220022 – Teil 9/11 (Y 91–93)
+### Schritt 7.14 – Haus w119220022 – Teil 14/16 (Y 136–138)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 136 bis 138
 - **Blöcke:** 1.665
 - **Bauteile:** `w119220022`
 
@@ -329,9 +504,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Haus w119220022 – Teil 10/11 (Y 94–96)
+### Schritt 7.15 – Haus w119220022 – Teil 15/16 (Y 139–141)
 
-- **Y-Bereich:** 94 bis 96
+- **Y-Bereich:** 139 bis 141
 - **Blöcke:** 2.051
 - **Bauteile:** `w119220022`
 
@@ -357,9 +532,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Haus w119220022 – Teil 11/11 (Y 97–104)
+### Schritt 7.16 – Haus w119220022 – Teil 16/16 (Y 142–149)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 142 bis 149
 - **Blöcke:** 1.676
 - **Bauteile:** `w119220022`
 
@@ -386,9 +561,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Haus w119220022: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 7.17 – Haus w119220022: Innenausbau – Teil 1/4 (Y 108–119)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 108 bis 119
 - **Blöcke:** 1.150
 - **Bauteile:** `w119220022_innen`
 
@@ -424,9 +599,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.13 – Haus w119220022: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 7.18 – Haus w119220022: Innenausbau – Teil 2/4 (Y 119–119)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 119 bis 119
 - **Blöcke:** 1.073
 - **Bauteile:** `w119220022_innen`
 
@@ -453,9 +628,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.14 – Haus w119220022: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 7.19 – Haus w119220022: Innenausbau – Teil 3/4 (Y 120–128)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 120 bis 128
 - **Blöcke:** 1.137
 - **Bauteile:** `w119220022_innen`
 
@@ -493,9 +668,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.15 – Haus w119220022: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 7.20 – Haus w119220022: Innenausbau – Teil 4/4 (Y 128–129)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 128 bis 129
 - **Blöcke:** 1.079
 - **Bauteile:** `w119220022_innen`
 

@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 76.037 |
-| Bauschritte | 47 |
-| Y-Bereich | 63 bis 105 |
+| Blöcke | 78.404 |
+| Bauschritte | 49 |
+| Y-Bereich | 54 bis 100 |
 | X-Ausdehnung | -3096 bis -2963 (134 Blöcke) |
 | Z-Ausdehnung | -375 bis -230 (146 Blöcke) |
-| Kleinster Schritt | 979 Blöcke (Schritt 1.36) |
-| Mittlerer Schritt | 1.618 Blöcke |
+| Kleinster Schritt | 979 Blöcke (Schritt 1.38) |
+| Mittlerer Schritt | 1.600 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 1.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 23.487 | 30,9 % |
-| Orange Keramik | `orange_terracotta` | 20.798 | 27,4 % |
-| Polierter Tuffstein | `polished_tuff` | 7.715 | 10,1 % |
-| Tuffstein | `tuff` | 6.987 | 9,2 % |
-| Polierter Andesit | `polished_andesite` | 4.106 | 5,4 % |
-| Glatter Stein | `smooth_stone` | 4.031 | 5,3 % |
-| Weißer Beton | `white_concrete` | 3.202 | 4,2 % |
-| Graues Buntglas | `gray_stained_glass` | 2.549 | 3,4 % |
+| Terrakotta | `terracotta` | 23.487 | 30,0 % |
+| Orange Keramik | `orange_terracotta` | 20.798 | 26,5 % |
+| Tuffstein | `tuff` | 9.354 | 11,9 % |
+| Polierter Tuffstein | `polished_tuff` | 7.715 | 9,8 % |
+| Polierter Andesit | `polished_andesite` | 4.106 | 5,2 % |
+| Glatter Stein | `smooth_stone` | 4.031 | 5,1 % |
+| Weißer Beton | `white_concrete` | 3.202 | 4,1 % |
+| Graues Buntglas | `gray_stained_glass` | 2.549 | 3,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.170 | 1,5 % |
 | Grüner Beton | `green_concrete` | 858 | 1,1 % |
 | Ziegelsteine | `bricks` | 441 | 0,6 % |
@@ -57,18 +57,18 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w461619476` | Renaissance-Palazzo an Corso Italia | 20.084 | 1.1–1.11 |
 | 2 | `w461619476_innen` | Renaissance-Palazzo an Corso Italia: Innenausbau | 3.707 | 1.12–1.13 |
-| 3 | `w461619479` | Palazzo des Cinquecento an Via Magenta | 20.105 | 1.14–1.26 |
-| 4 | `w461619479_innen` | Palazzo des Cinquecento an Via Magenta: Innenausbau | 4.782 | 1.27–1.30 |
-| 5 | `w461619487` | Reihenhaus an Corso Italia | 9.907 | 1.31–1.35 |
-| 6 | `w461619487_innen` | Reihenhaus an Corso Italia: Innenausbau | 2.795 | 1.36–1.37 |
-| 7 | `w461619493` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci | 12.120 | 1.38–1.45 |
-| 8 | `w461619493_innen` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau | 2.537 | 1.46–1.47 |
+| 3 | `w461619479` | Palazzo des Cinquecento an Via Magenta | 22.472 | 1.14–1.28 |
+| 4 | `w461619479_innen` | Palazzo des Cinquecento an Via Magenta: Innenausbau | 4.782 | 1.29–1.32 |
+| 5 | `w461619487` | Reihenhaus an Corso Italia | 9.907 | 1.33–1.37 |
+| 6 | `w461619487_innen` | Reihenhaus an Corso Italia: Innenausbau | 2.795 | 1.38–1.39 |
+| 7 | `w461619493` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci | 12.120 | 1.40–1.47 |
+| 8 | `w461619493_innen` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau | 2.537 | 1.48–1.49 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Renaissance-Palazzo an Corso Italia – Teil 1/11 (Y 63–63)
+### Schritt 1.1 – Renaissance-Palazzo an Corso Italia – Teil 1/11 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.151
 - **Bauteile:** `w461619476`
 
@@ -94,9 +94,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Renaissance-Palazzo an Corso Italia – Teil 2/11 (Y 63–65)
+### Schritt 1.2 – Renaissance-Palazzo an Corso Italia – Teil 2/11 (Y 58–60)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 58 bis 60
 - **Blöcke:** 2.017
 - **Bauteile:** `w461619476`
 
@@ -126,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Renaissance-Palazzo an Corso Italia – Teil 3/11 (Y 66–70)
+### Schritt 1.3 – Renaissance-Palazzo an Corso Italia – Teil 3/11 (Y 61–65)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 61 bis 65
 - **Blöcke:** 2.096
 - **Bauteile:** `w461619476`
 
@@ -158,9 +158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Renaissance-Palazzo an Corso Italia – Teil 4/11 (Y 71–74)
+### Schritt 1.4 – Renaissance-Palazzo an Corso Italia – Teil 4/11 (Y 66–69)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.965
 - **Bauteile:** `w461619476`
 
@@ -189,9 +189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Renaissance-Palazzo an Corso Italia – Teil 5/11 (Y 75–78)
+### Schritt 1.5 – Renaissance-Palazzo an Corso Italia – Teil 5/11 (Y 70–73)
 
-- **Y-Bereich:** 75 bis 78
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 1.968
 - **Bauteile:** `w461619476`
 
@@ -221,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Renaissance-Palazzo an Corso Italia – Teil 6/11 (Y 79–82)
+### Schritt 1.6 – Renaissance-Palazzo an Corso Italia – Teil 6/11 (Y 74–77)
 
-- **Y-Bereich:** 79 bis 82
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.902
 - **Bauteile:** `w461619476`
 
@@ -253,9 +253,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Renaissance-Palazzo an Corso Italia – Teil 7/11 (Y 83–85)
+### Schritt 1.7 – Renaissance-Palazzo an Corso Italia – Teil 7/11 (Y 78–80)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.677
 - **Bauteile:** `w461619476`
 
@@ -283,9 +283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Renaissance-Palazzo an Corso Italia – Teil 8/11 (Y 86–89)
+### Schritt 1.8 – Renaissance-Palazzo an Corso Italia – Teil 8/11 (Y 81–84)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.856
 - **Bauteile:** `w461619476`
 
@@ -314,9 +314,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Renaissance-Palazzo an Corso Italia – Teil 9/11 (Y 90–92)
+### Schritt 1.9 – Renaissance-Palazzo an Corso Italia – Teil 9/11 (Y 85–87)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.619
 - **Bauteile:** `w461619476`
 
@@ -346,9 +346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Renaissance-Palazzo an Corso Italia – Teil 10/11 (Y 93–94)
+### Schritt 1.10 – Renaissance-Palazzo an Corso Italia – Teil 10/11 (Y 88–89)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.803
 - **Bauteile:** `w461619476`
 
@@ -378,9 +378,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Renaissance-Palazzo an Corso Italia – Teil 11/11 (Y 95–101)
+### Schritt 1.11 – Renaissance-Palazzo an Corso Italia – Teil 11/11 (Y 90–96)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 90 bis 96
 - **Blöcke:** 2.030
 - **Bauteile:** `w461619476`
 
@@ -407,9 +407,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 1.12 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 1/2 (Y 58–69)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 58 bis 69
 - **Blöcke:** 1.862
 - **Bauteile:** `w461619476_innen`
 
@@ -449,9 +449,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.13 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 1.13 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 2/2 (Y 70–79)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.845
 - **Bauteile:** `w461619476_innen`
 
@@ -493,9 +493,65 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.14 – Palazzo des Cinquecento an Via Magenta – Teil 1/13 (Y 63–63)
+### Schritt 1.14 – Palazzo des Cinquecento an Via Magenta – Teil 1/15 (Y 54–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 54 bis 56
+- **Blöcke:** 1.032
+- **Bauteile:** `w461619479`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.032 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.15 – Palazzo des Cinquecento an Via Magenta – Teil 2/15 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.335
+- **Bauteile:** `w461619479`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.335 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.16 – Palazzo des Cinquecento an Via Magenta – Teil 3/15 (Y 58–58)
+
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.377
 - **Bauteile:** `w461619479`
 
@@ -521,9 +577,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Palazzo des Cinquecento an Via Magenta – Teil 2/13 (Y 63–64)
+### Schritt 1.17 – Palazzo des Cinquecento an Via Magenta – Teil 4/15 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 58 bis 59
 - **Blöcke:** 1.855
 - **Bauteile:** `w461619479`
 
@@ -552,22 +608,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Palazzo des Cinquecento an Via Magenta – Teil 3/13 (Y 65–67)
+### Schritt 1.18 – Palazzo des Cinquecento an Via Magenta – Teil 5/15 (Y 60–63)
 
-- **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.315
+- **Y-Bereich:** 60 bis 63
+- **Blöcke:** 1.738
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.038 |
-| Weißer Beton | `white_concrete` | 158 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Grüner Beton | `green_concrete` | 33 |
-| Polierter Andesit | `polished_andesite` | 31 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Orange Keramik | `orange_terracotta` | 1.303 |
+| Weißer Beton | `white_concrete` | 212 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Grüner Beton | `green_concrete` | 66 |
+| Polierter Andesit | `polished_andesite` | 51 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
@@ -585,22 +641,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Palazzo des Cinquecento an Via Magenta – Teil 4/13 (Y 68–71)
+### Schritt 1.19 – Palazzo des Cinquecento an Via Magenta – Teil 6/15 (Y 64–67)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.725
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.758
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.163 |
-| Weißer Beton | `white_concrete` | 266 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 42 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Orange Keramik | `orange_terracotta` | 1.342 |
+| Weißer Beton | `white_concrete` | 212 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Grüner Beton | `green_concrete` | 66 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -618,9 +674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.18 – Palazzo des Cinquecento an Via Magenta – Teil 5/13 (Y 72–74)
+### Schritt 1.20 – Palazzo des Cinquecento an Via Magenta – Teil 7/15 (Y 68–70)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.368
 - **Bauteile:** `w461619479`
 
@@ -628,9 +684,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.092 |
+| Orange Keramik | `orange_terracotta` | 993 |
 | Glatter Stein | `smooth_stone` | 252 |
-| Polierter Andesit | `polished_andesite` | 24 |
+| Weißer Beton | `white_concrete` | 108 |
+| Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
 
@@ -648,20 +705,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Palazzo des Cinquecento an Via Magenta – Teil 6/13 (Y 75–78)
+### Schritt 1.21 – Palazzo des Cinquecento an Via Magenta – Teil 8/15 (Y 71–74)
 
-- **Y-Bereich:** 75 bis 78
-- **Blöcke:** 1.722
+- **Y-Bereich:** 71 bis 74
+- **Blöcke:** 1.688
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.163 |
-| Weißer Beton | `white_concrete` | 279 |
-| Graues Buntglas | `gray_stained_glass` | 153 |
-| Grüner Beton | `green_concrete` | 99 |
+| Orange Keramik | `orange_terracotta` | 1.096 |
+| Weißer Beton | `white_concrete` | 228 |
+| Graues Buntglas | `gray_stained_glass` | 204 |
+| Grüner Beton | `green_concrete` | 132 |
 | Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
@@ -680,21 +737,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Palazzo des Cinquecento an Via Magenta – Teil 7/13 (Y 79–81)
+### Schritt 1.22 – Palazzo des Cinquecento an Via Magenta – Teil 9/15 (Y 75–77)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.300
+- **Y-Bereich:** 75 bis 77
+- **Blöcke:** 1.334
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 893 |
-| Weißer Beton | `white_concrete` | 222 |
-| Graues Buntglas | `gray_stained_glass` | 102 |
-| Grüner Beton | `green_concrete` | 66 |
-| Polierter Andesit | `polished_andesite` | 17 |
+| Orange Keramik | `orange_terracotta` | 889 |
+| Weißer Beton | `white_concrete` | 337 |
+| Graues Buntglas | `gray_stained_glass` | 51 |
+| Grüner Beton | `green_concrete` | 33 |
+| Polierter Andesit | `polished_andesite` | 24 |
 
 **Beschreibung**
 
@@ -712,20 +769,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Palazzo des Cinquecento an Via Magenta – Teil 8/13 (Y 82–85)
+### Schritt 1.23 – Palazzo des Cinquecento an Via Magenta – Teil 10/15 (Y 78–80)
 
-- **Y-Bereich:** 82 bis 85
-- **Blöcke:** 1.824
+- **Y-Bereich:** 78 bis 80
+- **Blöcke:** 1.368
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.267 |
-| Weißer Beton | `white_concrete` | 280 |
+| Orange Keramik | `orange_terracotta` | 993 |
 | Glatter Stein | `smooth_stone` | 252 |
-| Polierter Andesit | `polished_andesite` | 25 |
+| Weißer Beton | `white_concrete` | 108 |
+| Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
 
@@ -743,21 +800,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Palazzo des Cinquecento an Via Magenta – Teil 9/13 (Y 86–88)
+### Schritt 1.24 – Palazzo des Cinquecento an Via Magenta – Teil 11/15 (Y 81–84)
 
-- **Y-Bereich:** 86 bis 88
-- **Blöcke:** 1.266
+- **Y-Bereich:** 81 bis 84
+- **Blöcke:** 1.688
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 818 |
-| Weißer Beton | `white_concrete` | 171 |
-| Graues Buntglas | `gray_stained_glass` | 153 |
-| Grüner Beton | `green_concrete` | 99 |
-| Polierter Andesit | `polished_andesite` | 25 |
+| Orange Keramik | `orange_terracotta` | 1.096 |
+| Weißer Beton | `white_concrete` | 228 |
+| Graues Buntglas | `gray_stained_glass` | 204 |
+| Grüner Beton | `green_concrete` | 132 |
+| Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
 
@@ -775,21 +832,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Palazzo des Cinquecento an Via Magenta – Teil 10/13 (Y 89–92)
+### Schritt 1.25 – Palazzo des Cinquecento an Via Magenta – Teil 12/15 (Y 85–87)
 
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.885
+- **Y-Bereich:** 85 bis 87
+- **Blöcke:** 1.463
 - **Bauteile:** `w461619479`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.296 |
-| Weißer Beton | `white_concrete` | 394 |
-| Graues Buntglas | `gray_stained_glass` | 102 |
-| Grüner Beton | `green_concrete` | 66 |
-| Polierter Andesit | `polished_andesite` | 27 |
+| Orange Keramik | `orange_terracotta` | 1.018 |
+| Weißer Beton | `white_concrete` | 337 |
+| Graues Buntglas | `gray_stained_glass` | 51 |
+| Grüner Beton | `green_concrete` | 33 |
+| Polierter Andesit | `polished_andesite` | 24 |
 
 **Beschreibung**
 
@@ -807,9 +864,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Palazzo des Cinquecento an Via Magenta – Teil 11/13 (Y 93–94)
+### Schritt 1.26 – Palazzo des Cinquecento an Via Magenta – Teil 13/15 (Y 88–89)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.698
 - **Bauteile:** `w461619479`
 
@@ -837,9 +894,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Palazzo des Cinquecento an Via Magenta – Teil 12/13 (Y 95–96)
+### Schritt 1.27 – Palazzo des Cinquecento an Via Magenta – Teil 14/15 (Y 90–91)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.181
 - **Bauteile:** `w461619479`
 
@@ -865,9 +922,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Palazzo des Cinquecento an Via Magenta – Teil 13/13 (Y 97–105)
+### Schritt 1.28 – Palazzo des Cinquecento an Via Magenta – Teil 15/15 (Y 92–100)
 
-- **Y-Bereich:** 97 bis 105
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.589
 - **Bauteile:** `w461619479`
 
@@ -894,9 +951,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.27 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 1.29 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 1/4 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.225
 - **Bauteile:** `w461619479_innen`
 
@@ -936,9 +993,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.28 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 1.30 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 2/4 (Y 68–68)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.168
 - **Bauteile:** `w461619479_innen`
 
@@ -965,9 +1022,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.29 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 1.31 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 3/4 (Y 69–78)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.215
 - **Bauteile:** `w461619479_innen`
 
@@ -1005,9 +1062,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.30 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 1.32 – Palazzo des Cinquecento an Via Magenta: Innenausbau – Teil 4/4 (Y 78–79)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.174
 - **Bauteile:** `w461619479_innen`
 
@@ -1036,9 +1093,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.31 – Reihenhaus an Corso Italia – Teil 1/5 (Y 63–67)
+### Schritt 1.33 – Reihenhaus an Corso Italia – Teil 1/5 (Y 58–62)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 58 bis 62
 - **Blöcke:** 2.081
 - **Bauteile:** `w461619487`
 
@@ -1068,9 +1125,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.32 – Reihenhaus an Corso Italia – Teil 2/5 (Y 68–75)
+### Schritt 1.34 – Reihenhaus an Corso Italia – Teil 2/5 (Y 63–70)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.948
 - **Bauteile:** `w461619487`
 
@@ -1099,9 +1156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.33 – Reihenhaus an Corso Italia – Teil 3/5 (Y 76–83)
+### Schritt 1.35 – Reihenhaus an Corso Italia – Teil 3/5 (Y 71–78)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.942
 - **Bauteile:** `w461619487`
 
@@ -1130,9 +1187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.34 – Reihenhaus an Corso Italia – Teil 4/5 (Y 84–91)
+### Schritt 1.36 – Reihenhaus an Corso Italia – Teil 4/5 (Y 79–86)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.942
 - **Bauteile:** `w461619487`
 
@@ -1161,9 +1218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.35 – Reihenhaus an Corso Italia – Teil 5/5 (Y 92–99)
+### Schritt 1.37 – Reihenhaus an Corso Italia – Teil 5/5 (Y 87–94)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.994
 - **Bauteile:** `w461619487`
 
@@ -1192,9 +1249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.36 – Reihenhaus an Corso Italia: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 1.38 – Reihenhaus an Corso Italia: Innenausbau – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 979
 - **Bauteile:** `w461619487_innen`
 
@@ -1234,9 +1291,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.37 – Reihenhaus an Corso Italia: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 1.39 – Reihenhaus an Corso Italia: Innenausbau – Teil 2/2 (Y 74–82)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.816
 - **Bauteile:** `w461619487_innen`
 
@@ -1276,9 +1333,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.38 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 1/8 (Y 63–63)
+### Schritt 1.40 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 1/8 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.495
 - **Bauteile:** `w461619493`
 
@@ -1304,9 +1361,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.39 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 2/8 (Y 64–68)
+### Schritt 1.41 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 2/8 (Y 59–63)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 59 bis 63
 - **Blöcke:** 1.409
 - **Bauteile:** `w461619493`
 
@@ -1337,9 +1394,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.40 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 3/8 (Y 69–74)
+### Schritt 1.42 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 3/8 (Y 64–69)
 
-- **Y-Bereich:** 69 bis 74
+- **Y-Bereich:** 64 bis 69
 - **Blöcke:** 1.642
 - **Bauteile:** `w461619493`
 
@@ -1371,9 +1428,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.41 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 4/8 (Y 75–80)
+### Schritt 1.43 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 4/8 (Y 70–75)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 70 bis 75
 - **Blöcke:** 1.579
 - **Bauteile:** `w461619493`
 
@@ -1403,9 +1460,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.42 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 5/8 (Y 81–85)
+### Schritt 1.44 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 5/8 (Y 76–80)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.420
 - **Bauteile:** `w461619493`
 
@@ -1434,9 +1491,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.43 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 6/8 (Y 86–91)
+### Schritt 1.45 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 6/8 (Y 81–86)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.579
 - **Bauteile:** `w461619493`
 
@@ -1466,9 +1523,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.44 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 7/8 (Y 92–94)
+### Schritt 1.46 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 7/8 (Y 87–89)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.625
 - **Bauteile:** `w461619493`
 
@@ -1498,9 +1555,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.45 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 8/8 (Y 95–102)
+### Schritt 1.47 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 8/8 (Y 90–97)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 90 bis 97
 - **Blöcke:** 1.371
 - **Bauteile:** `w461619493`
 
@@ -1527,9 +1584,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.46 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 1.48 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.268
 - **Bauteile:** `w461619493_innen`
 
@@ -1569,9 +1626,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.47 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 1.49 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 2/2 (Y 69–79)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.269
 - **Bauteile:** `w461619493_innen`
 

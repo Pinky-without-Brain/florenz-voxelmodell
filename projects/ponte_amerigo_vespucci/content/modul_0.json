@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Pfeiler und Widerlager",
+  "subtitle": "Bautüte 0: 2 Pfeiler im Fluss und die Widerlager an den Ufern",
+  "icon": "🧱",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Im Arno stehen 2 Pfeiler aus Pietra forte; sie reichen vom Flussbett unter dem Wasserspiegel (Y 41) bis unter die Fahrbahn, mit spitzen Vorköpfen gegen die Strömung.",
+      "tip": "Baue jeden Pfeiler von unten nach oben.",
+      "caution": "Die Vorköpfe gehören zur Brückenfläche.",
+      "fact": "Die Brücke entstand 1955–1957 zum 500. Geburtstag von Amerigo Vespucci."
+    },
+    "widerlager": {
+      "title": "Widerlager",
+      "description": "An beiden Ufern tragen massive Widerlager die Fahrbahn bis zur Höhe der Uferstraßen (Y 59 und Y 59).",
+      "tip": "Außen glatte Steine, innen Füllmauerwerk.",
+      "caution": "Bis unter die Fahrbahn füllen.",
+      "fact": "Entworfen von Giuseppe Giorgio Gori, Enzo Gori und Ernesto Nelli, berechnet von Riccardo Morandi."
+    }
+  }
+}

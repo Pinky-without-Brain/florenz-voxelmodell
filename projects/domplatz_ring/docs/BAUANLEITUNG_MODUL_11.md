@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 104.831 |
+| Blöcke | 104.841 |
 | Bauschritte | 68 |
 | Y-Bereich | 66 bis 106 |
 | X-Ausdehnung | -136 bis 4 (141 Blöcke) |
@@ -50,6 +50,9 @@
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -95,6 +98,7 @@
 | 30 | `w542315425_innen` | Reihenhaus an Piazza degli Alberighi: Innenausbau | 856 | 11.64 |
 | 31 | `w542315432` | Reihenhaus an Piazzetta Cardinale Giovanni Benelli | 4.323 | 11.65–11.67 |
 | 32 | `w542315432_innen` | Reihenhaus an Piazzetta Cardinale Giovanni Benelli: Innenausbau | 1.795 | 11.68 |
+| 33 | `strassenschilder` | Straßenschilder | 10 | 11.68 |
 
 ## Bauschritte
 
@@ -2418,11 +2422,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.68 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli: Innenausbau
+### Schritt 11.68 – Reihenhaus an Piazzetta Cardinale Giovanni Benelli: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 68 bis 92
-- **Blöcke:** 1.795
-- **Bauteile:** `w542315432_innen`
+- **Blöcke:** 1.805
+- **Bauteile:** `w542315432_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -2435,6 +2439,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2444,16 +2451,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

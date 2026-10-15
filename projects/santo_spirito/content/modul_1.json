@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: die schlichte Putzfront zur Piazza Santo Spirito",
+  "icon": "⛪",
+  "parts": {
+    "fassade": {
+      "title": "Putzfassade",
+      "description": "Die Front zur Piazza ist bis heute unvollendet: eine glatte Putzwand mit geschwungenem Giebelumriss bis Y 124 und drei Portalen, das mittlere 12 Lagen hoch.",
+      "tip": "Die Rahmen der Portale sind aus Glattem Stein.",
+      "caution": "Lass die Portale ganz frei.",
+      "fact": "Die Fassade blieb roh und wurde erst im 18. Jahrhundert verputzt."
+    },
+    "fassade_okulus": {
+      "title": "Rundfenster",
+      "description": "Oben in der Mitte sitzt ein großes Rundfenster aus farbigem Glas (Y 100 bis 108).",
+      "tip": "Die Glasfarben wechseln reihenweise.",
+      "caution": "Setze es in die Öffnung, nicht davor.",
+      "fact": "Hinter dem Okulus liegt das Glasfenster mit der Ausgießung des Heiligen Geistes."
+    }
+  }
+}

@@ -91,7 +91,8 @@ function buildLandmarks(buildings, areas) {
   const bnames = (areas.bruecken || []).filter((x) => x.name).map((x) => ({ x, n: norm(x.name) }));
   for (const br of BRIDGES) {
     const m = bnames.filter((o) => br.re.test(o.n));
-    const ponteBauten = buildings.filter((b) => b.name && br.re.test(norm(b.name)));
+    // Gebäude nur, wenn ihr Name selbst eine Brücke nennt (sonst trifft /san niccolo/ Kirche, Oratorium und Stadttor)
+    const ponteBauten = buildings.filter((b) => b.name && /\bponte\b/.test(norm(b.name)) && br.re.test(norm(b.name)));
     bridgeHits.push({ name: br.name, bruecken: m.map((o) => o.x.id), gebaeude: ponteBauten.map((b) => b.id), gefunden: m.length > 0 || ponteBauten.length > 0 });
   }
   // Plan-Einträge für Brücken ergänzen

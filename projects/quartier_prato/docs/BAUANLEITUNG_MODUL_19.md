@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 24.417 |
+| Blöcke | 24.419 |
 | Bauschritte | 15 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 58 bis 97 |
 | X-Ausdehnung | -2682 bis -2592 (91 Blöcke) |
 | Z-Ausdehnung | -134 bis -69 (66 Blöcke) |
 | Kleinster Schritt | 50 Blöcke (Schritt 19.14) |
 | Mittlerer Schritt | 1.628 Blöcke |
-| Größter Schritt | 2.087 Blöcke (Schritt 19.13) |
+| Größter Schritt | 2.089 Blöcke (Schritt 19.15) |
 
 ## Gesamt-Stückliste
 
@@ -35,6 +35,8 @@
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 3 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -48,12 +50,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w117864760` | Consolato Generale degli Stati Uniti | 20.137 | 19.1–19.12 |
 | 2 | `w117864760_innen` | Consolato Generale degli Stati Uniti: Innenausbau | 4.280 | 19.12–19.15 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 19.15 |
 
 ## Bauschritte
 
-### Schritt 19.1 – Consolato Generale degli Stati Uniti – Teil 1/12 (Y 63–63)
+### Schritt 19.1 – Consolato Generale degli Stati Uniti – Teil 1/12 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.291
 - **Bauteile:** `w117864760`
 
@@ -79,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Consolato Generale degli Stati Uniti – Teil 2/12 (Y 63–64)
+### Schritt 19.2 – Consolato Generale degli Stati Uniti – Teil 2/12 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 58 bis 59
 - **Blöcke:** 1.722
 - **Bauteile:** `w117864760`
 
@@ -109,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.3 – Consolato Generale degli Stati Uniti – Teil 3/12 (Y 65–68)
+### Schritt 19.3 – Consolato Generale degli Stati Uniti – Teil 3/12 (Y 60–63)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 60 bis 63
 - **Blöcke:** 1.810
 - **Bauteile:** `w117864760`
 
@@ -141,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.4 – Consolato Generale degli Stati Uniti – Teil 4/12 (Y 69–72)
+### Schritt 19.4 – Consolato Generale degli Stati Uniti – Teil 4/12 (Y 64–67)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.798
 - **Bauteile:** `w117864760`
 
@@ -173,9 +176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.5 – Consolato Generale degli Stati Uniti – Teil 5/12 (Y 73–76)
+### Schritt 19.5 – Consolato Generale degli Stati Uniti – Teil 5/12 (Y 68–71)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.866
 - **Bauteile:** `w117864760`
 
@@ -205,9 +208,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.6 – Consolato Generale degli Stati Uniti – Teil 6/12 (Y 77–80)
+### Schritt 19.6 – Consolato Generale degli Stati Uniti – Teil 6/12 (Y 72–75)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.712
 - **Bauteile:** `w117864760`
 
@@ -236,9 +239,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.7 – Consolato Generale degli Stati Uniti – Teil 7/12 (Y 81–83)
+### Schritt 19.7 – Consolato Generale degli Stati Uniti – Teil 7/12 (Y 76–78)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.366
 - **Bauteile:** `w117864760`
 
@@ -268,9 +271,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.8 – Consolato Generale degli Stati Uniti – Teil 8/12 (Y 84–87)
+### Schritt 19.8 – Consolato Generale degli Stati Uniti – Teil 8/12 (Y 79–82)
 
-- **Y-Bereich:** 84 bis 87
+- **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.825
 - **Bauteile:** `w117864760`
 
@@ -299,9 +302,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.9 – Consolato Generale degli Stati Uniti – Teil 9/12 (Y 88–91)
+### Schritt 19.9 – Consolato Generale degli Stati Uniti – Teil 9/12 (Y 83–86)
 
-- **Y-Bereich:** 88 bis 91
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.753
 - **Bauteile:** `w117864760`
 
@@ -330,9 +333,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.10 – Consolato Generale degli Stati Uniti – Teil 10/12 (Y 92–93)
+### Schritt 19.10 – Consolato Generale degli Stati Uniti – Teil 10/12 (Y 87–88)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.429
 - **Bauteile:** `w117864760`
 
@@ -360,9 +363,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.11 – Consolato Generale degli Stati Uniti – Teil 11/12 (Y 94–95)
+### Schritt 19.11 – Consolato Generale degli Stati Uniti – Teil 11/12 (Y 89–90)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.596
 - **Bauteile:** `w117864760`
 
@@ -388,9 +391,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.12 – Consolato Generale degli Stati Uniti – Teil 12/12 (Y 96–102) & Consolato Generale degli Stati Uniti: Innenausbau – Teil 1/4 (Y 63–72)
+### Schritt 19.12 – Consolato Generale degli Stati Uniti – Teil 12/12 (Y 91–97) & Consolato Generale degli Stati Uniti: Innenausbau – Teil 1/4 (Y 58–67)
 
-- **Y-Bereich:** 63 bis 102
+- **Y-Bereich:** 58 bis 97
 - **Blöcke:** 2.025
 - **Bauteile:** `w117864760`, `w117864760_innen`
 
@@ -427,9 +430,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.13 – Consolato Generale degli Stati Uniti: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 19.13 – Consolato Generale degli Stati Uniti: Innenausbau – Teil 2/4 (Y 68–68)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.087
 - **Bauteile:** `w117864760_innen`
 
@@ -463,9 +466,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.14 – Consolato Generale degli Stati Uniti: Innenausbau – Teil 3/4 (Y 74–82)
+### Schritt 19.14 – Consolato Generale degli Stati Uniti: Innenausbau – Teil 3/4 (Y 69–77)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 50
 - **Bauteile:** `w117864760_innen`
 
@@ -501,11 +504,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.15 – Consolato Generale degli Stati Uniti: Innenausbau – Teil 4/4 (Y 83–83)
+### Schritt 19.15 – Consolato Generale degli Stati Uniti: Innenausbau – Teil 4/4 (Y 78–78) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 2.087
-- **Bauteile:** `w117864760_innen`
+- **Y-Bereich:** 65 bis 78
+- **Blöcke:** 2.089
+- **Bauteile:** `w117864760_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -514,6 +517,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Terrakotta | `terracotta` | 2.073 |
 | Seelaterne | `sea_lantern` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -523,16 +528,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

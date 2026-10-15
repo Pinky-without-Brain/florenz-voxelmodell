@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 12.597 |
+| Blöcke | 12.631 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 182 bis 217 |
 | X-Ausdehnung | 1288 bis 1345 (58 Blöcke) |
 | Z-Ausdehnung | 2414 bis 2444 (31 Blöcke) |
 | Kleinster Schritt | 1.562 Blöcke (Schritt 39.7) |
-| Mittlerer Schritt | 1.800 Blöcke |
-| Größter Schritt | 2.004 Blöcke (Schritt 39.6) |
+| Mittlerer Schritt | 1.804 Blöcke |
+| Größter Schritt | 2.038 Blöcke (Schritt 39.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 5.460 | 43,3 % |
+| Weißer Beton | `white_concrete` | 5.460 | 43,2 % |
 | Terrakotta | `terracotta` | 2.840 | 22,5 % |
-| Polierter Andesit | `polished_andesite` | 1.342 | 10,7 % |
+| Polierter Andesit | `polished_andesite` | 1.342 | 10,6 % |
 | Polierter Tuffstein | `polished_tuff` | 1.013 | 8,0 % |
-| Glatter Stein | `smooth_stone` | 678 | 5,4 % |
+| Glatter Stein | `smooth_stone` | 712 | 5,6 % |
 | Grüner Beton | `green_concrete` | 580 | 4,6 % |
 | Graues Buntglas | `gray_stained_glass` | 494 | 3,9 % |
 | Ziegelsteine | `bricks` | 100 | 0,8 % |
@@ -52,14 +52,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w1239430832` | Palazzo des Cinquecento an Piazzale Michelangiolo | 11.035 | 39.1–39.6 |
+| 1 | `w1239430832` | Palazzo des Cinquecento an Piazzale Michelangiolo | 11.069 | 39.1–39.6 |
 | 2 | `w1239430832_innen` | Palazzo des Cinquecento an Piazzale Michelangiolo: Innenausbau | 1.562 | 39.7 |
 
 ## Bauschritte
 
-### Schritt 39.1 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 1/6 (Y 63–66)
+### Schritt 39.1 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 1/6 (Y 182–185)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 182 bis 185
 - **Blöcke:** 1.902
 - **Bauteile:** `w1239430832`
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.2 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 2/6 (Y 67–73)
+### Schritt 39.2 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 2/6 (Y 186–192)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 186 bis 192
 - **Blöcke:** 1.851
 - **Bauteile:** `w1239430832`
 
@@ -121,9 +121,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.3 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 3/6 (Y 74–80)
+### Schritt 39.3 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 3/6 (Y 193–199)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 193 bis 199
 - **Blöcke:** 1.881
 - **Bauteile:** `w1239430832`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.4 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 4/6 (Y 81–86)
+### Schritt 39.4 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 4/6 (Y 200–205)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 200 bis 205
 - **Blöcke:** 1.689
 - **Bauteile:** `w1239430832`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.5 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 5/6 (Y 87–92)
+### Schritt 39.5 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 5/6 (Y 206–211)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 206 bis 211
 - **Blöcke:** 1.708
 - **Bauteile:** `w1239430832`
 
@@ -216,10 +216,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.6 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 6/6 (Y 93–98)
+### Schritt 39.6 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 6/6 (Y 212–217)
 
-- **Y-Bereich:** 93 bis 98
-- **Blöcke:** 2.004
+- **Y-Bereich:** 212 bis 217
+- **Blöcke:** 2.038
 - **Bauteile:** `w1239430832`
 
 **Teileliste**
@@ -228,7 +228,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.406 |
 | Weißer Beton | `white_concrete` | 284 |
-| Glatter Stein | `smooth_stone` | 210 |
+| Glatter Stein | `smooth_stone` | 244 |
 | Ziegelsteine | `bricks` | 100 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
@@ -250,7 +250,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 39.7 – Palazzo des Cinquecento an Piazzale Michelangiolo: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 182 bis 203
 - **Blöcke:** 1.562
 - **Bauteile:** `w1239430832_innen`
 

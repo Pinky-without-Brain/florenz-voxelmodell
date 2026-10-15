@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 40.092 |
 | Bauschritte | 24 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 60 bis 97 |
 | X-Ausdehnung | -2999 bis -2912 (88 Blöcke) |
 | Z-Ausdehnung | 1296 bis 1417 (122 Blöcke) |
 | Kleinster Schritt | 779 Blöcke (Schritt 15.6) |
@@ -65,9 +65,9 @@
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 63–67)
+### Schritt 15.1 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 60–64)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 60 bis 64
 - **Blöcke:** 1.824
 - **Bauteile:** `w464120036`
 
@@ -98,9 +98,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 68–75)
+### Schritt 15.2 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 65–72)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 65 bis 72
 - **Blöcke:** 1.806
 - **Bauteile:** `w464120036`
 
@@ -130,9 +130,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 76–84)
+### Schritt 15.3 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 73–81)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 2.036
 - **Bauteile:** `w464120036`
 
@@ -161,9 +161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 85–92)
+### Schritt 15.4 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 82–89)
 
-- **Y-Bereich:** 85 bis 92
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.860
 - **Bauteile:** `w464120036`
 
@@ -193,9 +193,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 93–100)
+### Schritt 15.5 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 90–97)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 90 bis 97
 - **Blöcke:** 1.737
 - **Bauteile:** `w464120036`
 
@@ -224,9 +224,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 15.6 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 60 bis 75
 - **Blöcke:** 779
 - **Bauteile:** `w464120036_innen`
 
@@ -262,9 +262,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.7 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 15.7 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 76–83)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.436
 - **Bauteile:** `w464120036_innen`
 
@@ -300,9 +300,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.8 – Reihenhaus an Via Luigi Pulci – Teil 1/4 (Y 63–69)
+### Schritt 15.8 – Reihenhaus an Via Luigi Pulci – Teil 1/4 (Y 60–66)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.615
 - **Bauteile:** `w464120051`
 
@@ -331,9 +331,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.9 – Reihenhaus an Via Luigi Pulci – Teil 2/4 (Y 70–79)
+### Schritt 15.9 – Reihenhaus an Via Luigi Pulci – Teil 2/4 (Y 67–76)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.654
 - **Bauteile:** `w464120051`
 
@@ -360,9 +360,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.10 – Reihenhaus an Via Luigi Pulci – Teil 3/4 (Y 80–88)
+### Schritt 15.10 – Reihenhaus an Via Luigi Pulci – Teil 3/4 (Y 77–85)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.487
 - **Bauteile:** `w464120051`
 
@@ -389,9 +389,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.11 – Reihenhaus an Via Luigi Pulci – Teil 4/4 (Y 89–100)
+### Schritt 15.11 – Reihenhaus an Via Luigi Pulci – Teil 4/4 (Y 86–97)
 
-- **Y-Bereich:** 89 bis 100
+- **Y-Bereich:** 86 bis 97
 - **Blöcke:** 1.658
 - **Bauteile:** `w464120051`
 
@@ -422,7 +422,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.12 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.557
 - **Bauteile:** `w464120051_innen`
 
@@ -458,9 +458,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.13 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 63–72)
+### Schritt 15.13 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 60–69)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.671
 - **Bauteile:** `w464120059`
 
@@ -489,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.14 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 73–86)
+### Schritt 15.14 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 70–83)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 70 bis 83
 - **Blöcke:** 1.708
 - **Bauteile:** `w464120059`
 
@@ -519,9 +519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.15 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 87–98)
+### Schritt 15.15 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 84–95)
 
-- **Y-Bereich:** 87 bis 98
+- **Y-Bereich:** 84 bis 95
 - **Blöcke:** 1.759
 - **Bauteile:** `w464120059`
 
@@ -554,7 +554,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.16 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.540
 - **Bauteile:** `w464120059_innen`
 
@@ -592,9 +592,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.17 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 63–73)
+### Schritt 15.17 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 60–70)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 2.064
 - **Bauteile:** `w464120095`
 
@@ -623,9 +623,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.18 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 74–86)
+### Schritt 15.18 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 71–83)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.881
 - **Bauteile:** `w464120095`
 
@@ -652,9 +652,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.19 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 87–99)
+### Schritt 15.19 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 84–96)
 
-- **Y-Bereich:** 87 bis 99
+- **Y-Bereich:** 84 bis 96
 - **Blöcke:** 2.059
 - **Bauteile:** `w464120095`
 
@@ -686,7 +686,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.20 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.512
 - **Bauteile:** `w464120095_innen`
 
@@ -722,9 +722,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.21 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 63–72)
+### Schritt 15.21 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 60–69)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.535
 - **Bauteile:** `w464120233`
 
@@ -755,9 +755,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.22 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 73–88)
+### Schritt 15.22 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 70–85)
 
-- **Y-Bereich:** 73 bis 88
+- **Y-Bereich:** 70 bis 85
 - **Blöcke:** 1.522
 - **Bauteile:** `w464120233`
 
@@ -785,9 +785,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.23 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 89–100)
+### Schritt 15.23 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 86–97)
 
-- **Y-Bereich:** 89 bis 100
+- **Y-Bereich:** 86 bis 97
 - **Blöcke:** 1.470
 - **Bauteile:** `w464120233`
 
@@ -819,7 +819,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.24 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 1.922
 - **Bauteile:** `w464120233_innen`
 

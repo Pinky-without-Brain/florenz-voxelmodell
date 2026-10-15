@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.268 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 55 bis 90 |
 | X-Ausdehnung | -2247 bis -2206 (42 Blöcke) |
 | Z-Ausdehnung | -968 bis -919 (50 Blöcke) |
 | Kleinster Schritt | 984 Blöcke (Schritt 27.6) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 27.1 – Haus w482739734 – Teil 1/5 (Y 63–68)
+### Schritt 27.1 – Haus w482739734 – Teil 1/5 (Y 55–60)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 55 bis 60
 - **Blöcke:** 1.916
 - **Bauteile:** `w482739734`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Haus w482739734 – Teil 2/5 (Y 69–75)
+### Schritt 27.2 – Haus w482739734 – Teil 2/5 (Y 61–67)
 
-- **Y-Bereich:** 69 bis 75
+- **Y-Bereich:** 61 bis 67
 - **Blöcke:** 1.725
 - **Bauteile:** `w482739734`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.3 – Haus w482739734 – Teil 3/5 (Y 76–83)
+### Schritt 27.3 – Haus w482739734 – Teil 3/5 (Y 68–75)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 68 bis 75
 - **Blöcke:** 1.966
 - **Bauteile:** `w482739734`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.4 – Haus w482739734 – Teil 4/5 (Y 84–90)
+### Schritt 27.4 – Haus w482739734 – Teil 4/5 (Y 76–82)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 76 bis 82
 - **Blöcke:** 1.700
 - **Bauteile:** `w482739734`
 
@@ -175,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.5 – Haus w482739734 – Teil 5/5 (Y 91–98)
+### Schritt 27.5 – Haus w482739734 – Teil 5/5 (Y 83–90)
 
-- **Y-Bereich:** 91 bis 98
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.977
 - **Bauteile:** `w482739734`
 
@@ -209,7 +209,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 27.6 – Haus w482739734: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 55 bis 75
 - **Blöcke:** 984
 - **Bauteile:** `w482739734_innen`
 

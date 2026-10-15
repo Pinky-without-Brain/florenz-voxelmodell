@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 277.230 |
-| Bauschritte | 142 |
+| Blöcke | 273.027 |
+| Bauschritte | 140 |
 | Y-Bereich | 48 bis 62 |
 | X-Ausdehnung | -1824 bis -1505 (320 Blöcke) |
 | Z-Ausdehnung | 432 bis 751 (320 Blöcke) |
-| Kleinster Schritt | 302 Blöcke (Schritt 94.142) |
-| Mittlerer Schritt | 1.952 Blöcke |
+| Kleinster Schritt | 302 Blöcke (Schritt 94.140) |
+| Mittlerer Schritt | 1.950 Blöcke |
 | Größter Schritt | 2.093 Blöcke (Schritt 94.16) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 170.984 | 61,7 % |
-| Kies | `gravel` | 85.492 | 30,8 % |
-| Polierter Tuffstein | `polished_tuff` | 8.092 | 2,9 % |
-| Glatter Stein | `smooth_stone` | 4.202 | 1,5 % |
-| Grasblock | `grass_block` | 3.708 | 1,3 % |
+| Wasser | `water` | 170.984 | 62,6 % |
+| Kies | `gravel` | 85.492 | 31,3 % |
+| Polierter Tuffstein | `polished_tuff` | 4.063 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 3.987 | 1,5 % |
+| Grasblock | `grass_block` | 3.708 | 1,4 % |
 | Polierter Andesit | `polished_andesite` | 3.346 | 1,2 % |
-| Stein | `stone` | 1.399 | 0,5 % |
+| Stein | `stone` | 1.440 | 0,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 | 0,0 % |
 
@@ -41,16 +41,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 4.203 | 94.1–94.3 |
+| 1 | `boeschung` | Böschung und Mantel | 4.244 | 94.1–94.3 |
 | 2 | `arno_bett` | Flussbett | 85.492 | 94.4–94.46 |
 | 3 | `arno_wasser` | Arno | 170.984 | 94.47–94.130 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 3.553 | 94.131–94.132 |
-| 5 | `gehwege` | Gehwege | 4.163 | 94.133–94.135 |
+| 5 | `gehwege` | Gehwege | 3.948 | 94.133–94.135 |
 | 6 | `stufen` | Treppenflächen | 7 | 94.136 |
 | 7 | `plaetze_pflaster` | Plätze | 33 | 94.136 |
-| 8 | `hof_pflaster` | Höfe | 4.506 | 94.136–94.138 |
-| 9 | `rasen` | Grün und offenes Gelände | 3.987 | 94.139–94.141 |
-| 10 | `ufer_bruestung` | Brüstung der Lungarni | 302 | 94.142 |
+| 8 | `hof_pflaster` | Höfe | 477 | 94.136 |
+| 9 | `rasen` | Grün und offenes Gelände | 3.987 | 94.137–94.139 |
+| 10 | `ufer_bruestung` | Brüstung der Lungarni | 302 | 94.140 |
 
 ## Bauschritte
 
@@ -82,18 +82,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 94.2 – Böschung und Mantel – Teil 2/3 (Y 52–55)
+### Schritt 94.2 – Böschung und Mantel – Teil 2/3 (Y 52–56)
 
-- **Y-Bereich:** 52 bis 55
-- **Blöcke:** 1.350
+- **Y-Bereich:** 52 bis 56
+- **Blöcke:** 1.679
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.012 |
-| Stein | `stone` | 338 |
+| Polierter Andesit | `polished_andesite` | 1.200 |
+| Stein | `stone` | 479 |
 
 **Beschreibung**
 
@@ -111,18 +111,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 94.3 – Böschung und Mantel – Teil 3/3 (Y 56–60)
+### Schritt 94.3 – Böschung und Mantel – Teil 3/3 (Y 57–60)
 
-- **Y-Bereich:** 56 bis 60
-- **Blöcke:** 1.568
+- **Y-Bereich:** 57 bis 60
+- **Blöcke:** 1.280
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 978 |
-| Polierter Andesit | `polished_andesite` | 590 |
+| Stein | `stone` | 878 |
+| Polierter Andesit | `polished_andesite` | 402 |
 
 **Beschreibung**
 
@@ -3755,14 +3755,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 94.133 – Gehwege – Teil 1/3 (Y 52–58)
 
 - **Y-Bereich:** 52 bis 58
-- **Blöcke:** 984
+- **Blöcke:** 904
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 734 |
+| Glatter Stein | `smooth_stone` | 654 |
 | Polierter Andesit | `polished_andesite` | 250 |
 
 **Beschreibung**
@@ -3784,14 +3784,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 94.134 – Gehwege – Teil 2/3 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.271
+- **Blöcke:** 1.216
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.258 |
+| Glatter Stein | `smooth_stone` | 1.203 |
 | Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
@@ -3813,14 +3813,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 94.135 – Gehwege – Teil 3/3 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.908
+- **Blöcke:** 1.828
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.908 |
+| Glatter Stein | `smooth_stone` | 1.828 |
 
 **Beschreibung**
 
@@ -3838,17 +3838,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 94.136 – Treppenflächen & Plätze & Höfe – Teil 1/3 (Y 55–57)
+### Schritt 94.136 – Treppenflächen & Plätze & Höfe
 
 - **Y-Bereich:** 55 bis 60
-- **Blöcke:** 1.715
+- **Blöcke:** 517
 - **Bauteile:** `stufen`, `plaetze_pflaster`, `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.708 |
+| Polierter Tuffstein | `polished_tuff` | 510 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
 
@@ -3874,63 +3874,7 @@ Treppenblöcke folgen in einer späteren Stufe. Das Muster ist geschätzt, das P
 
 Viele Treppen führen in Oltrarno die Hänge hinauf. Die Piazza della Signoria wurde 1385 erstmals gepflastert. Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 94.137 – Höfe – Teil 2/3 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.199
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.199 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 94.138 – Höfe – Teil 3/3 (Y 59–60)
-
-- **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.632
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.632 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 94.139 – Grün und offenes Gelände – Teil 1/3 (Y 50–52)
+### Schritt 94.137 – Grün und offenes Gelände – Teil 1/3 (Y 50–52)
 
 - **Y-Bereich:** 50 bis 52
 - **Blöcke:** 1.359
@@ -3959,7 +3903,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 94.140 – Grün und offenes Gelände – Teil 2/3 (Y 53–54)
+### Schritt 94.138 – Grün und offenes Gelände – Teil 2/3 (Y 53–54)
 
 - **Y-Bereich:** 53 bis 54
 - **Blöcke:** 1.621
@@ -3989,7 +3933,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 94.141 – Grün und offenes Gelände – Teil 3/3 (Y 55–60)
+### Schritt 94.139 – Grün und offenes Gelände – Teil 3/3 (Y 55–60)
 
 - **Y-Bereich:** 55 bis 60
 - **Blöcke:** 1.007
@@ -4019,7 +3963,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 94.142 – Brüstung der Lungarni
+### Schritt 94.140 – Brüstung der Lungarni
 
 - **Y-Bereich:** 56 bis 62
 - **Blöcke:** 302

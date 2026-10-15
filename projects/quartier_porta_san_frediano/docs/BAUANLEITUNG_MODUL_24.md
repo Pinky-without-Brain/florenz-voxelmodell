@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.939 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 60 bis 95 |
 | X-Ausdehnung | -2925 bis -2897 (29 Blöcke) |
 | Z-Ausdehnung | 403 bis 421 (19 Blöcke) |
 | Kleinster Schritt | 637 Blöcke (Schritt 24.4) |
@@ -52,9 +52,9 @@
 
 ## Bauschritte
 
-### Schritt 24.1 – Reihenhaus an Via dell'Anconella – Teil 1/3 (Y 63–73)
+### Schritt 24.1 – Reihenhaus an Via dell'Anconella – Teil 1/3 (Y 60–70)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.758
 - **Bauteile:** `w118884433`
 
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.2 – Reihenhaus an Via dell'Anconella – Teil 2/3 (Y 74–85)
+### Schritt 24.2 – Reihenhaus an Via dell'Anconella – Teil 2/3 (Y 71–82)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 71 bis 82
 - **Blöcke:** 1.752
 - **Bauteile:** `w118884433`
 
@@ -114,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 24.3 – Reihenhaus an Via dell'Anconella – Teil 3/3 (Y 86–98)
+### Schritt 24.3 – Reihenhaus an Via dell'Anconella – Teil 3/3 (Y 83–95)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 83 bis 95
 - **Blöcke:** 1.792
 - **Bauteile:** `w118884433`
 
@@ -148,7 +148,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 24.4 – Reihenhaus an Via dell'Anconella: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 637
 - **Bauteile:** `w118884433_innen`
 

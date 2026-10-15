@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.223 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 57 bis 92 |
 | X-Ausdehnung | -3040 bis -3016 (25 Blöcke) |
 | Z-Ausdehnung | -805 bis -782 (24 Blöcke) |
 | Kleinster Schritt | 594 Blöcke (Schritt 2.4) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.808 | 53,8 % |
+| Tuffstein | `tuff` | 2.802 | 53,6 % |
 | Terrakotta | `terracotta` | 828 | 15,9 % |
 | Polierter Andesit | `polished_andesite` | 667 | 12,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 303 | 5,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 309 | 5,9 % |
 | Polierter Tuffstein | `polished_tuff` | 302 | 5,8 % |
 | Graues Buntglas | `gray_stained_glass` | 177 | 3,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,2 % |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Torre della Serpe – Teil 1/3 (Y 63–72)
+### Schritt 2.1 – Torre della Serpe – Teil 1/3 (Y 57–66)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 57 bis 66
 - **Blöcke:** 1.476
 - **Bauteile:** `w72915046`
 
@@ -58,10 +58,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 868 |
+| Tuffstein | `tuff` | 872 |
 | Polierter Tuffstein | `polished_tuff` | 302 |
 | Polierter Andesit | `polished_andesite` | 154 |
-| Tuffsteinziegel | `tuff_bricks` | 119 |
+| Tuffsteinziegel | `tuff_bricks` | 115 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 
 **Beschreibung**
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Torre della Serpe – Teil 2/3 (Y 73–84)
+### Schritt 2.2 – Torre della Serpe – Teil 2/3 (Y 67–78)
 
-- **Y-Bereich:** 73 bis 84
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.586
 - **Bauteile:** `w72915046`
 
@@ -90,9 +90,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.080 |
+| Tuffstein | `tuff` | 1.077 |
 | Polierter Andesit | `polished_andesite` | 307 |
-| Tuffsteinziegel | `tuff_bricks` | 103 |
+| Tuffsteinziegel | `tuff_bricks` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Torre della Serpe – Teil 3/3 (Y 85–98)
+### Schritt 2.3 – Torre della Serpe – Teil 3/3 (Y 79–92)
 
-- **Y-Bereich:** 85 bis 98
+- **Y-Bereich:** 79 bis 92
 - **Blöcke:** 1.567
 - **Bauteile:** `w72915046`
 
@@ -121,10 +121,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 860 |
+| Tuffstein | `tuff` | 853 |
 | Terrakotta | `terracotta` | 348 |
 | Polierter Andesit | `polished_andesite` | 206 |
-| Tuffsteinziegel | `tuff_bricks` | 81 |
+| Tuffsteinziegel | `tuff_bricks` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Ziegelsteine | `bricks` | 24 |
 
@@ -146,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.4 – Torre della Serpe: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 57 bis 80
 - **Blöcke:** 594
 - **Bauteile:** `w72915046_innen`
 

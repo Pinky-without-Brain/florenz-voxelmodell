@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Wände und Nebenräume",
+  "subtitle": "Bautüte 3: Außenwände, Fenster und Nebenräume der Tribuna",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umschließt Schiff, Kapellen und Tribuna bis unter die Dächer; außen Bruchstein, innen Putz.",
+      "tip": "Zwei Blöcke dick.",
+      "caution": "Lass die Fenster frei.",
+      "fact": "Die Kirche wurde mehrfach erweitert."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In den Außenwänden der Kapellen sitzen Rundbogenfenster aus farbigem Glas (Y 75 bis 83), dazu die Fenster der Hochwand.",
+      "tip": "Je Kapelle eines.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Das Licht fällt von der Seite und von oben ein."
+    },
+    "nebenraeume": {
+      "title": "Nebenräume",
+      "description": "In den Ecken zwischen der runden Tribuna und dem rechteckigen Umriss liegen geschlossene Nebenräume mit Decke auf Y 91.",
+      "tip": "Nur die Wände und die Decke bauen.",
+      "caution": "Innen bleiben sie hohl.",
+      "fact": "Hier liegen Sakristeien und Gänge zum Kloster."
+    }
+  }
+}

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 3.787 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 175 bis 210 |
 | X-Ausdehnung | -229 bis -209 (21 Blöcke) |
 | Z-Ausdehnung | 2090 bis 2106 (17 Blöcke) |
 | Kleinster Schritt | 348 Blöcke (Schritt 19.3) |
@@ -54,9 +54,9 @@
 
 ## Bauschritte
 
-### Schritt 19.1 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/2 (Y 63–80)
+### Schritt 19.1 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/2 (Y 175–192)
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 175 bis 192
 - **Blöcke:** 1.766
 - **Bauteile:** `w119220014`
 
@@ -87,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/2 (Y 81–98)
+### Schritt 19.2 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/2 (Y 193–210)
 
-- **Y-Bereich:** 81 bis 98
+- **Y-Bereich:** 193 bis 210
 - **Blöcke:** 1.673
 - **Bauteile:** `w119220014`
 
@@ -123,7 +123,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 19.3 – Reihenhaus an Via del Forte di San Giorgio: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 175 bis 199
 - **Blöcke:** 348
 - **Bauteile:** `w119220014_innen`
 

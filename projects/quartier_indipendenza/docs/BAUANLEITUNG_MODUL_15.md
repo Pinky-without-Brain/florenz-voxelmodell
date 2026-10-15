@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 800 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 78 |
+| Y-Bereich | 66 bis 81 |
 | X-Ausdehnung | -109 bis -95 (15 Blöcke) |
 | Z-Ausdehnung | -1290 bis -1277 (14 Blöcke) |
 | Kleinster Schritt | 800 Blöcke (Schritt 15.1) |
@@ -41,7 +41,7 @@
 
 ### Schritt 15.1 – Nebengebäude an Via Ventisette Aprile & Nebengebäude an Via Ventisette Aprile: Innenausbau
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 66 bis 81
 - **Blöcke:** 800
 - **Bauteile:** `w519721718`, `w519721718_innen`
 

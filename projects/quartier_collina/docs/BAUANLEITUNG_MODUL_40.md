@@ -8,24 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 118.224 |
-| Bauschritte | 67 |
-| Y-Bereich | 63 bis 105 |
+| Blöcke | 127.677 |
+| Bauschritte | 74 |
+| Y-Bereich | 197 bis 244 |
 | X-Ausdehnung | 1347 bis 1555 (209 Blöcke) |
 | Z-Ausdehnung | 2533 bis 2723 (191 Blöcke) |
-| Kleinster Schritt | 1.040 Blöcke (Schritt 40.42) |
-| Mittlerer Schritt | 1.765 Blöcke |
-| Größter Schritt | 2.085 Blöcke (Schritt 40.37) |
+| Kleinster Schritt | 805 Blöcke (Schritt 40.57) |
+| Mittlerer Schritt | 1.725 Blöcke |
+| Größter Schritt | 2.085 Blöcke (Schritt 40.42) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 52.881 | 44,7 % |
-| Terrakotta | `terracotta` | 41.066 | 34,7 % |
-| Polierter Tuffstein | `polished_tuff` | 13.789 | 11,7 % |
-| Glatter Stein | `smooth_stone` | 6.517 | 5,5 % |
-| Graues Buntglas | `gray_stained_glass` | 2.964 | 2,5 % |
+| Endsteinziegel | `end_stone_bricks` | 53.030 | 41,5 % |
+| Terrakotta | `terracotta` | 41.066 | 32,2 % |
+| Polierter Tuffstein | `polished_tuff` | 13.789 | 10,8 % |
+| Tuffstein | `tuff` | 9.304 | 7,3 % |
+| Glatter Stein | `smooth_stone` | 6.517 | 5,1 % |
+| Graues Buntglas | `gray_stained_glass` | 2.964 | 2,3 % |
 | Ziegelsteine | `bricks` | 712 | 0,6 % |
 | Seelaterne | `sea_lantern` | 195 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
@@ -49,16 +50,156 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1645127` | Convento di San Salvatore al Monte alle Croci | 73.051 | 40.1–40.43 |
-| 2 | `r1645127_innen` | Convento di San Salvatore al Monte alle Croci: Innenausbau | 16.207 | 40.43–40.51 |
-| 3 | `w91371849` | Chiesa di San Salvatore al Monte | 21.482 | 40.52–40.63 |
-| 4 | `w91371849_innen` | Chiesa di San Salvatore al Monte: Innenausbau | 7.484 | 40.64–40.67 |
+| 1 | `r1645127` | Convento di San Salvatore al Monte alle Croci | 79.499 | 40.1–40.48 |
+| 2 | `r1645127_innen` | Convento di San Salvatore al Monte alle Croci: Innenausbau | 16.207 | 40.48–40.56 |
+| 3 | `w91371849` | Chiesa di San Salvatore al Monte | 24.487 | 40.57–40.70 |
+| 4 | `w91371849_innen` | Chiesa di San Salvatore al Monte: Innenausbau | 7.484 | 40.71–40.74 |
 
 ## Bauschritte
 
-### Schritt 40.1 – Convento di San Salvatore al Monte alle Croci – Teil 1/43 (Y 63–63)
+### Schritt 40.1 – Convento di San Salvatore al Monte alle Croci – Teil 1/48 (Y 197–199)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 197 bis 199
+- **Blöcke:** 1.030
+- **Bauteile:** `r1645127`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.030 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.2 – Convento di San Salvatore al Monte alle Croci – Teil 2/48 (Y 200–200)
+
+- **Y-Bereich:** 200 bis 200
+- **Blöcke:** 1.174
+- **Bauteile:** `r1645127`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.174 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.3 – Convento di San Salvatore al Monte alle Croci – Teil 3/48 (Y 201–201)
+
+- **Y-Bereich:** 201 bis 201
+- **Blöcke:** 1.780
+- **Bauteile:** `r1645127`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.780 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.4 – Convento di San Salvatore al Monte alle Croci – Teil 4/48 (Y 202–202)
+
+- **Y-Bereich:** 202 bis 202
+- **Blöcke:** 1.214
+- **Bauteile:** `r1645127`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.214 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.5 – Convento di San Salvatore al Monte alle Croci – Teil 5/48 (Y 202–202)
+
+- **Y-Bereich:** 202 bis 202
+- **Blöcke:** 1.250
+- **Bauteile:** `r1645127`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.250 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.6 – Convento di San Salvatore al Monte alle Croci – Teil 6/48 (Y 203–203)
+
+- **Y-Bereich:** 203 bis 203
 - **Blöcke:** 1.914
 - **Bauteile:** `r1645127`
 
@@ -84,9 +225,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.2 – Convento di San Salvatore al Monte alle Croci – Teil 2/43 (Y 63–63)
+### Schritt 40.7 – Convento di San Salvatore al Monte alle Croci – Teil 7/48 (Y 203–203)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 203 bis 203
 - **Blöcke:** 1.958
 - **Bauteile:** `r1645127`
 
@@ -112,9 +253,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.3 – Convento di San Salvatore al Monte alle Croci – Teil 3/43 (Y 63–63)
+### Schritt 40.8 – Convento di San Salvatore al Monte alle Croci – Teil 8/48 (Y 203–203)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 203 bis 203
 - **Blöcke:** 1.952
 - **Bauteile:** `r1645127`
 
@@ -140,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.4 – Convento di San Salvatore al Monte alle Croci – Teil 4/43 (Y 63–63)
+### Schritt 40.9 – Convento di San Salvatore al Monte alle Croci – Teil 9/48 (Y 203–203)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 203 bis 203
 - **Blöcke:** 1.932
 - **Bauteile:** `r1645127`
 
@@ -168,9 +309,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.5 – Convento di San Salvatore al Monte alle Croci – Teil 5/43 (Y 63–63)
+### Schritt 40.10 – Convento di San Salvatore al Monte alle Croci – Teil 10/48 (Y 203–203)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 203 bis 203
 - **Blöcke:** 1.950
 - **Bauteile:** `r1645127`
 
@@ -196,9 +337,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.6 – Convento di San Salvatore al Monte alle Croci – Teil 6/43 (Y 64–64)
+### Schritt 40.11 – Convento di San Salvatore al Monte alle Croci – Teil 11/48 (Y 204–204)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 204 bis 204
 - **Blöcke:** 1.711
 - **Bauteile:** `r1645127`
 
@@ -225,9 +366,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.7 – Convento di San Salvatore al Monte alle Croci – Teil 7/43 (Y 65–65)
+### Schritt 40.12 – Convento di San Salvatore al Monte alle Croci – Teil 12/48 (Y 205–205)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 205 bis 205
 - **Blöcke:** 1.711
 - **Bauteile:** `r1645127`
 
@@ -254,9 +395,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.8 – Convento di San Salvatore al Monte alle Croci – Teil 8/43 (Y 66–66)
+### Schritt 40.13 – Convento di San Salvatore al Monte alle Croci – Teil 13/48 (Y 206–206)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 206 bis 206
 - **Blöcke:** 1.805
 - **Bauteile:** `r1645127`
 
@@ -283,9 +424,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.9 – Convento di San Salvatore al Monte alle Croci – Teil 9/43 (Y 67–67)
+### Schritt 40.14 – Convento di San Salvatore al Monte alle Croci – Teil 14/48 (Y 207–207)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 207 bis 207
 - **Blöcke:** 1.620
 - **Bauteile:** `r1645127`
 
@@ -313,9 +454,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.10 – Convento di San Salvatore al Monte alle Croci – Teil 10/43 (Y 68–68)
+### Schritt 40.15 – Convento di San Salvatore al Monte alle Croci – Teil 15/48 (Y 208–208)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 208 bis 208
 - **Blöcke:** 1.627
 - **Bauteile:** `r1645127`
 
@@ -343,9 +484,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.11 – Convento di San Salvatore al Monte alle Croci – Teil 11/43 (Y 69–69)
+### Schritt 40.16 – Convento di San Salvatore al Monte alle Croci – Teil 16/48 (Y 209–209)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 209 bis 209
 - **Blöcke:** 1.627
 - **Bauteile:** `r1645127`
 
@@ -373,9 +514,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.12 – Convento di San Salvatore al Monte alle Croci – Teil 12/43 (Y 70–70)
+### Schritt 40.17 – Convento di San Salvatore al Monte alle Croci – Teil 17/48 (Y 210–210)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 210 bis 210
 - **Blöcke:** 1.627
 - **Bauteile:** `r1645127`
 
@@ -403,9 +544,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.13 – Convento di San Salvatore al Monte alle Croci – Teil 13/43 (Y 71–71)
+### Schritt 40.18 – Convento di San Salvatore al Monte alle Croci – Teil 18/48 (Y 211–211)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 211 bis 211
 - **Blöcke:** 1.627
 - **Bauteile:** `r1645127`
 
@@ -433,9 +574,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.14 – Convento di San Salvatore al Monte alle Croci – Teil 14/43 (Y 72–72)
+### Schritt 40.19 – Convento di San Salvatore al Monte alle Croci – Teil 19/48 (Y 212–212)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 212 bis 212
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -462,9 +603,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.15 – Convento di San Salvatore al Monte alle Croci – Teil 15/43 (Y 73–73)
+### Schritt 40.20 – Convento di San Salvatore al Monte alle Croci – Teil 20/48 (Y 213–213)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 213 bis 213
 - **Blöcke:** 1.715
 - **Bauteile:** `r1645127`
 
@@ -492,9 +633,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.16 – Convento di San Salvatore al Monte alle Croci – Teil 16/43 (Y 74–74)
+### Schritt 40.21 – Convento di San Salvatore al Monte alle Croci – Teil 21/48 (Y 214–214)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 214 bis 214
 - **Blöcke:** 1.715
 - **Bauteile:** `r1645127`
 
@@ -522,9 +663,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.17 – Convento di San Salvatore al Monte alle Croci – Teil 17/43 (Y 75–75)
+### Schritt 40.22 – Convento di San Salvatore al Monte alle Croci – Teil 22/48 (Y 215–215)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 215 bis 215
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -551,9 +692,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.18 – Convento di San Salvatore al Monte alle Croci – Teil 18/43 (Y 76–76)
+### Schritt 40.23 – Convento di San Salvatore al Monte alle Croci – Teil 23/48 (Y 216–216)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 216 bis 216
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -579,9 +720,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.19 – Convento di San Salvatore al Monte alle Croci – Teil 19/43 (Y 77–77)
+### Schritt 40.24 – Convento di San Salvatore al Monte alle Croci – Teil 24/48 (Y 217–217)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 217 bis 217
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -607,9 +748,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.20 – Convento di San Salvatore al Monte alle Croci – Teil 20/43 (Y 78–78)
+### Schritt 40.25 – Convento di San Salvatore al Monte alle Croci – Teil 25/48 (Y 218–218)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 218 bis 218
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -635,9 +776,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.21 – Convento di San Salvatore al Monte alle Croci – Teil 21/43 (Y 79–79)
+### Schritt 40.26 – Convento di San Salvatore al Monte alle Croci – Teil 26/48 (Y 219–219)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 219 bis 219
 - **Blöcke:** 1.818
 - **Bauteile:** `r1645127`
 
@@ -664,9 +805,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.22 – Convento di San Salvatore al Monte alle Croci – Teil 22/43 (Y 80–80)
+### Schritt 40.27 – Convento di San Salvatore al Monte alle Croci – Teil 27/48 (Y 220–220)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 220 bis 220
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -694,9 +835,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.23 – Convento di San Salvatore al Monte alle Croci – Teil 23/43 (Y 81–81)
+### Schritt 40.28 – Convento di San Salvatore al Monte alle Croci – Teil 28/48 (Y 221–221)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 221 bis 221
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -724,9 +865,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.24 – Convento di San Salvatore al Monte alle Croci – Teil 24/43 (Y 82–82)
+### Schritt 40.29 – Convento di San Salvatore al Monte alle Croci – Teil 29/48 (Y 222–222)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 222 bis 222
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -754,9 +895,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.25 – Convento di San Salvatore al Monte alle Croci – Teil 25/43 (Y 83–83)
+### Schritt 40.30 – Convento di San Salvatore al Monte alle Croci – Teil 30/48 (Y 223–223)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 223 bis 223
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -784,9 +925,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.26 – Convento di San Salvatore al Monte alle Croci – Teil 26/43 (Y 84–84)
+### Schritt 40.31 – Convento di San Salvatore al Monte alle Croci – Teil 31/48 (Y 224–224)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 224 bis 224
 - **Blöcke:** 1.629
 - **Bauteile:** `r1645127`
 
@@ -814,9 +955,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.27 – Convento di San Salvatore al Monte alle Croci – Teil 27/43 (Y 85–85)
+### Schritt 40.32 – Convento di San Salvatore al Monte alle Croci – Teil 32/48 (Y 225–225)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 225 bis 225
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -843,9 +984,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.28 – Convento di San Salvatore al Monte alle Croci – Teil 28/43 (Y 86–86)
+### Schritt 40.33 – Convento di San Salvatore al Monte alle Croci – Teil 33/48 (Y 226–226)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 226 bis 226
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -871,9 +1012,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.29 – Convento di San Salvatore al Monte alle Croci – Teil 29/43 (Y 87–87)
+### Schritt 40.34 – Convento di San Salvatore al Monte alle Croci – Teil 34/48 (Y 227–227)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 227 bis 227
 - **Blöcke:** 1.818
 - **Bauteile:** `r1645127`
 
@@ -900,9 +1041,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.30 – Convento di San Salvatore al Monte alle Croci – Teil 30/43 (Y 88–88)
+### Schritt 40.35 – Convento di San Salvatore al Monte alle Croci – Teil 35/48 (Y 228–228)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 228 bis 228
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -930,9 +1071,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.31 – Convento di San Salvatore al Monte alle Croci – Teil 31/43 (Y 89–89)
+### Schritt 40.36 – Convento di San Salvatore al Monte alle Croci – Teil 36/48 (Y 229–229)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 229 bis 229
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -960,9 +1101,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.32 – Convento di San Salvatore al Monte alle Croci – Teil 32/43 (Y 90–90)
+### Schritt 40.37 – Convento di San Salvatore al Monte alle Croci – Teil 37/48 (Y 230–230)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 230 bis 230
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -990,9 +1131,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.33 – Convento di San Salvatore al Monte alle Croci – Teil 33/43 (Y 91–91)
+### Schritt 40.38 – Convento di San Salvatore al Monte alle Croci – Teil 38/48 (Y 231–231)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 231 bis 231
 - **Blöcke:** 1.623
 - **Bauteile:** `r1645127`
 
@@ -1020,9 +1161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.34 – Convento di San Salvatore al Monte alle Croci – Teil 34/43 (Y 92–92)
+### Schritt 40.39 – Convento di San Salvatore al Monte alle Croci – Teil 39/48 (Y 232–232)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 232 bis 232
 - **Blöcke:** 1.629
 - **Bauteile:** `r1645127`
 
@@ -1050,9 +1191,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.35 – Convento di San Salvatore al Monte alle Croci – Teil 35/43 (Y 93–93)
+### Schritt 40.40 – Convento di San Salvatore al Monte alle Croci – Teil 40/48 (Y 233–233)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 233 bis 233
 - **Blöcke:** 1.718
 - **Bauteile:** `r1645127`
 
@@ -1079,9 +1220,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.36 – Convento di San Salvatore al Monte alle Croci – Teil 36/43 (Y 94–94)
+### Schritt 40.41 – Convento di San Salvatore al Monte alle Croci – Teil 41/48 (Y 234–234)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 234 bis 234
 - **Blöcke:** 2.064
 - **Bauteile:** `r1645127`
 
@@ -1107,9 +1248,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.37 – Convento di San Salvatore al Monte alle Croci – Teil 37/43 (Y 94–94)
+### Schritt 40.42 – Convento di San Salvatore al Monte alle Croci – Teil 42/48 (Y 234–234)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 234 bis 234
 - **Blöcke:** 2.085
 - **Bauteile:** `r1645127`
 
@@ -1135,9 +1276,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.38 – Convento di San Salvatore al Monte alle Croci – Teil 38/43 (Y 95–95)
+### Schritt 40.43 – Convento di San Salvatore al Monte alle Croci – Teil 43/48 (Y 235–235)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 235 bis 235
 - **Blöcke:** 1.289
 - **Bauteile:** `r1645127`
 
@@ -1163,9 +1304,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.39 – Convento di San Salvatore al Monte alle Croci – Teil 39/43 (Y 95–95)
+### Schritt 40.44 – Convento di San Salvatore al Monte alle Croci – Teil 44/48 (Y 235–235)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 235 bis 235
 - **Blöcke:** 1.299
 - **Bauteile:** `r1645127`
 
@@ -1191,9 +1332,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.40 – Convento di San Salvatore al Monte alle Croci – Teil 40/43 (Y 96–96)
+### Schritt 40.45 – Convento di San Salvatore al Monte alle Croci – Teil 45/48 (Y 236–236)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 236 bis 236
 - **Blöcke:** 1.979
 - **Bauteile:** `r1645127`
 
@@ -1219,9 +1360,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.41 – Convento di San Salvatore al Monte alle Croci – Teil 41/43 (Y 97–97)
+### Schritt 40.46 – Convento di San Salvatore al Monte alle Croci – Teil 46/48 (Y 237–237)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 237 bis 237
 - **Blöcke:** 1.589
 - **Bauteile:** `r1645127`
 
@@ -1248,9 +1389,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.42 – Convento di San Salvatore al Monte alle Croci – Teil 42/43 (Y 98–98)
+### Schritt 40.47 – Convento di San Salvatore al Monte alle Croci – Teil 47/48 (Y 238–238)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 238 bis 238
 - **Blöcke:** 1.040
 - **Bauteile:** `r1645127`
 
@@ -1277,9 +1418,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.43 – Convento di San Salvatore al Monte alle Croci – Teil 43/43 (Y 99–104) & Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 1/9 (Y 63–76)
+### Schritt 40.48 – Convento di San Salvatore al Monte alle Croci – Teil 48/48 (Y 239–244) & Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 1/9 (Y 203–216)
 
-- **Y-Bereich:** 63 bis 104
+- **Y-Bereich:** 203 bis 244
 - **Blöcke:** 1.703
 - **Bauteile:** `r1645127`, `r1645127_innen`
 
@@ -1320,9 +1461,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.44 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 2/9 (Y 77–77)
+### Schritt 40.49 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 2/9 (Y 217–217)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 217 bis 217
 - **Blöcke:** 2.027
 - **Bauteile:** `r1645127_innen`
 
@@ -1356,9 +1497,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.45 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 3/9 (Y 77–77)
+### Schritt 40.50 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 3/9 (Y 217–217)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 217 bis 217
 - **Blöcke:** 1.964
 - **Bauteile:** `r1645127_innen`
 
@@ -1385,9 +1526,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.46 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 4/9 (Y 77–77)
+### Schritt 40.51 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 4/9 (Y 217–217)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 217 bis 217
 - **Blöcke:** 2.034
 - **Bauteile:** `r1645127_innen`
 
@@ -1414,9 +1555,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.47 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 5/9 (Y 77–84)
+### Schritt 40.52 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 5/9 (Y 217–224)
 
-- **Y-Bereich:** 77 bis 84
+- **Y-Bereich:** 217 bis 224
 - **Blöcke:** 2.043
 - **Bauteile:** `r1645127_innen`
 
@@ -1456,9 +1597,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.48 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 6/9 (Y 85–85)
+### Schritt 40.53 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 6/9 (Y 225–225)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 225 bis 225
 - **Blöcke:** 2.027
 - **Bauteile:** `r1645127_innen`
 
@@ -1492,9 +1633,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.49 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 7/9 (Y 85–85)
+### Schritt 40.54 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 7/9 (Y 225–225)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 225 bis 225
 - **Blöcke:** 1.964
 - **Bauteile:** `r1645127_innen`
 
@@ -1521,9 +1662,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.50 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 8/9 (Y 85–85)
+### Schritt 40.55 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 8/9 (Y 225–225)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 225 bis 225
 - **Blöcke:** 2.034
 - **Bauteile:** `r1645127_innen`
 
@@ -1550,9 +1691,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.51 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 9/9 (Y 85–85)
+### Schritt 40.56 – Convento di San Salvatore al Monte alle Croci: Innenausbau – Teil 9/9 (Y 225–225)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 225 bis 225
 - **Blöcke:** 2.004
 - **Bauteile:** `r1645127_innen`
 
@@ -1579,9 +1720,65 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.52 – Chiesa di San Salvatore al Monte – Teil 1/12 (Y 63–63)
+### Schritt 40.57 – Chiesa di San Salvatore al Monte – Teil 1/14 (Y 199–200)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 199 bis 200
+- **Blöcke:** 805
+- **Bauteile:** `w91371849`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 805 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.58 – Chiesa di San Salvatore al Monte – Teil 2/14 (Y 201–201)
+
+- **Y-Bereich:** 201 bis 201
+- **Blöcke:** 2.051
+- **Bauteile:** `w91371849`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.051 |
+
+**Beschreibung**
+
+Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 40.59 – Chiesa di San Salvatore al Monte – Teil 3/14 (Y 202–202)
+
+- **Y-Bereich:** 202 bis 202
 - **Blöcke:** 2.030
 - **Bauteile:** `w91371849`
 
@@ -1607,9 +1804,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.53 – Chiesa di San Salvatore al Monte – Teil 2/12 (Y 63–63)
+### Schritt 40.60 – Chiesa di San Salvatore al Monte – Teil 4/14 (Y 202–202)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 202 bis 202
 - **Blöcke:** 2.053
 - **Bauteile:** `w91371849`
 
@@ -1635,18 +1832,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.54 – Chiesa di San Salvatore al Monte – Teil 3/12 (Y 64–66)
+### Schritt 40.61 – Chiesa di San Salvatore al Monte – Teil 5/14 (Y 203–206)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.253
+- **Y-Bereich:** 203 bis 206
+- **Blöcke:** 1.766
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.086 |
-| Glatter Stein | `smooth_stone` | 167 |
+| Endsteinziegel | `end_stone_bricks` | 1.479 |
+| Glatter Stein | `smooth_stone` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
 
 **Beschreibung**
 
@@ -1664,19 +1862,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.55 – Chiesa di San Salvatore al Monte – Teil 4/12 (Y 67–71)
+### Schritt 40.62 – Chiesa di San Salvatore al Monte – Teil 6/14 (Y 207–211)
 
-- **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.832
+- **Y-Bereich:** 207 bis 211
+- **Blöcke:** 1.881
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.227 |
-| Glatter Stein | `smooth_stone` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 285 |
+| Endsteinziegel | `end_stone_bricks` | 1.279 |
+| Glatter Stein | `smooth_stone` | 374 |
+| Graues Buntglas | `gray_stained_glass` | 228 |
 
 **Beschreibung**
 
@@ -1694,9 +1892,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.56 – Chiesa di San Salvatore al Monte – Teil 5/12 (Y 72–75)
+### Schritt 40.63 – Chiesa di San Salvatore al Monte – Teil 7/14 (Y 212–215)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 212 bis 215
 - **Blöcke:** 1.646
 - **Bauteile:** `w91371849`
 
@@ -1704,8 +1902,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.511 |
-| Glatter Stein | `smooth_stone` | 129 |
+| Endsteinziegel | `end_stone_bricks` | 1.622 |
+| Glatter Stein | `smooth_stone` | 18 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
 **Beschreibung**
@@ -1724,18 +1922,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.57 – Chiesa di San Salvatore al Monte – Teil 6/12 (Y 76–80)
+### Schritt 40.64 – Chiesa di San Salvatore al Monte – Teil 8/14 (Y 216–219)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 2.068
+- **Y-Bereich:** 216 bis 219
+- **Blöcke:** 1.655
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.772 |
-| Glatter Stein | `smooth_stone` | 236 |
+| Endsteinziegel | `end_stone_bricks` | 1.365 |
+| Glatter Stein | `smooth_stone` | 230 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 
 **Beschreibung**
@@ -1754,18 +1952,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.58 – Chiesa di San Salvatore al Monte – Teil 7/12 (Y 81–84)
+### Schritt 40.65 – Chiesa di San Salvatore al Monte – Teil 9/14 (Y 220–224)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.488
+- **Y-Bereich:** 220 bis 224
+- **Blöcke:** 1.901
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 996 |
-| Glatter Stein | `smooth_stone` | 252 |
+| Endsteinziegel | `end_stone_bricks` | 1.286 |
+| Glatter Stein | `smooth_stone` | 375 |
 | Graues Buntglas | `gray_stained_glass` | 240 |
 
 **Beschreibung**
@@ -1784,18 +1982,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.59 – Chiesa di San Salvatore al Monte – Teil 8/12 (Y 85–89)
+### Schritt 40.66 – Chiesa di San Salvatore al Monte – Teil 10/14 (Y 225–228)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 2.027
+- **Y-Bereich:** 225 bis 228
+- **Blöcke:** 1.614
 - **Bauteile:** `w91371849`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.491 |
-| Glatter Stein | `smooth_stone` | 416 |
+| Endsteinziegel | `end_stone_bricks` | 1.201 |
+| Glatter Stein | `smooth_stone` | 293 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 
 **Beschreibung**
@@ -1814,9 +2012,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.60 – Chiesa di San Salvatore al Monte – Teil 9/12 (Y 90–93)
+### Schritt 40.67 – Chiesa di San Salvatore al Monte – Teil 11/14 (Y 229–232)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 229 bis 232
 - **Blöcke:** 1.529
 - **Bauteile:** `w91371849`
 
@@ -1844,9 +2042,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.61 – Chiesa di San Salvatore al Monte – Teil 10/12 (Y 94–95)
+### Schritt 40.68 – Chiesa di San Salvatore al Monte – Teil 12/14 (Y 233–234)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 233 bis 234
 - **Blöcke:** 2.075
 - **Bauteile:** `w91371849`
 
@@ -1872,9 +2070,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.62 – Chiesa di San Salvatore al Monte – Teil 11/12 (Y 96–97)
+### Schritt 40.69 – Chiesa di San Salvatore al Monte – Teil 13/14 (Y 235–236)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 235 bis 236
 - **Blöcke:** 1.485
 - **Bauteile:** `w91371849`
 
@@ -1901,9 +2099,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.63 – Chiesa di San Salvatore al Monte – Teil 12/12 (Y 98–105)
+### Schritt 40.70 – Chiesa di San Salvatore al Monte – Teil 14/14 (Y 237–244)
 
-- **Y-Bereich:** 98 bis 105
+- **Y-Bereich:** 237 bis 244
 - **Blöcke:** 1.996
 - **Bauteile:** `w91371849`
 
@@ -1930,9 +2128,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.64 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 1/4 (Y 63–77)
+### Schritt 40.71 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 1/4 (Y 202–216)
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 202 bis 216
 - **Blöcke:** 1.903
 - **Bauteile:** `w91371849_innen`
 
@@ -1972,9 +2170,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.65 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 2/4 (Y 77–77)
+### Schritt 40.72 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 2/4 (Y 216–216)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 216 bis 216
 - **Blöcke:** 1.860
 - **Bauteile:** `w91371849_innen`
 
@@ -2008,9 +2206,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.66 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 3/4 (Y 78–85)
+### Schritt 40.73 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 3/4 (Y 217–224)
 
-- **Y-Bereich:** 78 bis 85
+- **Y-Bereich:** 217 bis 224
 - **Blöcke:** 1.861
 - **Bauteile:** `w91371849_innen`
 
@@ -2050,9 +2248,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.67 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 4/4 (Y 85–85)
+### Schritt 40.74 – Chiesa di San Salvatore al Monte: Innenausbau – Teil 4/4 (Y 224–224)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 224 bis 224
 - **Blöcke:** 1.860
 - **Bauteile:** `w91371849_innen`
 

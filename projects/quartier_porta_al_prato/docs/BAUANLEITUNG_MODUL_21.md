@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 15.565 |
 | Bauschritte | 10 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 56 bis 96 |
 | X-Ausdehnung | -2464 bis -2407 (58 Blöcke) |
 | Z-Ausdehnung | -1124 bis -1065 (60 Blöcke) |
 | Kleinster Schritt | 1.234 Blöcke (Schritt 21.10) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 21.1 – Palazzo des Cinquecento an Via della Scala – Teil 1/8 (Y 63–63)
+### Schritt 21.1 – Palazzo des Cinquecento an Via della Scala – Teil 1/8 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.505
 - **Bauteile:** `w117767567`
 
@@ -78,9 +78,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Palazzo des Cinquecento an Via della Scala – Teil 2/8 (Y 64–69)
+### Schritt 21.2 – Palazzo des Cinquecento an Via della Scala – Teil 2/8 (Y 57–62)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 57 bis 62
 - **Blöcke:** 1.818
 - **Bauteile:** `w117767567`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Palazzo des Cinquecento an Via della Scala – Teil 3/8 (Y 70–74)
+### Schritt 21.3 – Palazzo des Cinquecento an Via della Scala – Teil 3/8 (Y 63–67)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 63 bis 67
 - **Blöcke:** 1.563
 - **Bauteile:** `w117767567`
 
@@ -143,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Palazzo des Cinquecento an Via della Scala – Teil 4/8 (Y 75–80)
+### Schritt 21.4 – Palazzo des Cinquecento an Via della Scala – Teil 4/8 (Y 68–73)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.806
 - **Bauteile:** `w117767567`
 
@@ -174,9 +174,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Palazzo des Cinquecento an Via della Scala – Teil 5/8 (Y 81–85)
+### Schritt 21.5 – Palazzo des Cinquecento an Via della Scala – Teil 5/8 (Y 74–78)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.580
 - **Bauteile:** `w117767567`
 
@@ -205,9 +205,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.6 – Palazzo des Cinquecento an Via della Scala – Teil 6/8 (Y 86–90)
+### Schritt 21.6 – Palazzo des Cinquecento an Via della Scala – Teil 6/8 (Y 79–83)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.490
 - **Bauteile:** `w117767567`
 
@@ -236,9 +236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.7 – Palazzo des Cinquecento an Via della Scala – Teil 7/8 (Y 91–94)
+### Schritt 21.7 – Palazzo des Cinquecento an Via della Scala – Teil 7/8 (Y 84–87)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.937
 - **Bauteile:** `w117767567`
 
@@ -268,9 +268,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.8 – Palazzo des Cinquecento an Via della Scala – Teil 8/8 (Y 95–103)
+### Schritt 21.8 – Palazzo des Cinquecento an Via della Scala – Teil 8/8 (Y 88–96)
 
-- **Y-Bereich:** 95 bis 103
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.391
 - **Bauteile:** `w117767567`
 
@@ -297,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.9 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 21.9 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 1/2 (Y 56–66)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 56 bis 66
 - **Blöcke:** 1.241
 - **Bauteile:** `w117767567_innen`
 
@@ -335,9 +335,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.10 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 2/2 (Y 74–83)
+### Schritt 21.10 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 2/2 (Y 67–76)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.234
 - **Bauteile:** `w117767567_innen`
 

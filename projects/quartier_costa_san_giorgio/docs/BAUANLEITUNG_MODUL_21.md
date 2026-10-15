@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.847 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 193 bis 228 |
 | X-Ausdehnung | -211 bis -147 (65 Blöcke) |
 | Z-Ausdehnung | 2215 bis 2243 (29 Blöcke) |
 | Kleinster Schritt | 762 Blöcke (Schritt 21.7) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 21.1 – Palazzo des Cinquecento an Via di Belvedere – Teil 1/6 (Y 63–67)
+### Schritt 21.1 – Palazzo des Cinquecento an Via di Belvedere – Teil 1/6 (Y 193–197)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 193 bis 197
 - **Blöcke:** 1.767
 - **Bauteile:** `w397758455`
 
@@ -90,9 +90,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Palazzo des Cinquecento an Via di Belvedere – Teil 2/6 (Y 68–73)
+### Schritt 21.2 – Palazzo des Cinquecento an Via di Belvedere – Teil 2/6 (Y 198–203)
 
-- **Y-Bereich:** 68 bis 73
+- **Y-Bereich:** 198 bis 203
 - **Blöcke:** 1.591
 - **Bauteile:** `w397758455`
 
@@ -123,9 +123,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Palazzo des Cinquecento an Via di Belvedere – Teil 3/6 (Y 74–79)
+### Schritt 21.3 – Palazzo des Cinquecento an Via di Belvedere – Teil 3/6 (Y 204–209)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 204 bis 209
 - **Blöcke:** 1.621
 - **Bauteile:** `w397758455`
 
@@ -155,9 +155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Palazzo des Cinquecento an Via di Belvedere – Teil 4/6 (Y 80–85)
+### Schritt 21.4 – Palazzo des Cinquecento an Via di Belvedere – Teil 4/6 (Y 210–215)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 210 bis 215
 - **Blöcke:** 1.691
 - **Bauteile:** `w397758455`
 
@@ -187,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Palazzo des Cinquecento an Via di Belvedere – Teil 5/6 (Y 86–92)
+### Schritt 21.5 – Palazzo des Cinquecento an Via di Belvedere – Teil 5/6 (Y 216–222)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 216 bis 222
 - **Blöcke:** 1.902
 - **Bauteile:** `w397758455`
 
@@ -220,9 +220,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.6 – Palazzo des Cinquecento an Via di Belvedere – Teil 6/6 (Y 93–98)
+### Schritt 21.6 – Palazzo des Cinquecento an Via di Belvedere – Teil 6/6 (Y 223–228)
 
-- **Y-Bereich:** 93 bis 98
+- **Y-Bereich:** 223 bis 228
 - **Blöcke:** 1.513
 - **Bauteile:** `w397758455`
 
@@ -254,7 +254,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 21.7 – Palazzo des Cinquecento an Via di Belvedere: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 193 bis 214
 - **Blöcke:** 762
 - **Bauteile:** `w397758455_innen`
 

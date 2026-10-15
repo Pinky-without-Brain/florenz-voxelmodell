@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 182.302 |
-| Bauschritte | 99 |
+| Blöcke | 169.594 |
+| Bauschritte | 93 |
 | Y-Bereich | 39 bis 63 |
 | X-Ausdehnung | -2784 bis -2465 (320 Blöcke) |
 | Z-Ausdehnung | -208 bis 111 (320 Blöcke) |
-| Kleinster Schritt | 569 Blöcke (Schritt 61.75) |
-| Mittlerer Schritt | 1.841 Blöcke |
-| Größter Schritt | 2.080 Blöcke (Schritt 61.78) |
+| Kleinster Schritt | 326 Blöcke (Schritt 61.75) |
+| Mittlerer Schritt | 1.824 Blöcke |
+| Größter Schritt | 2.067 Blöcke (Schritt 61.43) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 71.498 | 39,2 % |
-| Kies | `gravel` | 35.749 | 19,6 % |
-| Polierter Tuffstein | `polished_tuff` | 30.089 | 16,5 % |
-| Grasblock | `grass_block` | 25.869 | 14,2 % |
-| Stein | `stone` | 9.047 | 5,0 % |
-| Glatter Stein | `smooth_stone` | 8.050 | 4,4 % |
-| Polierter Andesit | `polished_andesite` | 1.666 | 0,9 % |
+| Wasser | `water` | 71.498 | 42,2 % |
+| Kies | `gravel` | 35.749 | 21,1 % |
+| Grasblock | `grass_block` | 25.846 | 15,2 % |
+| Polierter Tuffstein | `polished_tuff` | 18.106 | 10,7 % |
+| Stein | `stone` | 9.049 | 5,3 % |
+| Glatter Stein | `smooth_stone` | 7.346 | 4,3 % |
+| Polierter Andesit | `polished_andesite` | 1.666 | 1,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 140 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 133 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 29 | 0,0 % |
@@ -44,16 +44,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 9.248 | 61.1–61.7 |
+| 1 | `boeschung` | Böschung und Mantel | 9.250 | 61.1–61.7 |
 | 2 | `arno_bett` | Flussbett | 35.749 | 61.8–61.25 |
 | 3 | `arno_wasser` | Arno | 71.498 | 61.26–61.60 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 16.047 | 61.61–61.69 |
-| 5 | `gehwege` | Gehwege | 7.984 | 61.70–61.74 |
+| 5 | `gehwege` | Gehwege | 7.280 | 61.70–61.74 |
 | 6 | `stufen` | Treppenflächen | 326 | 61.75 |
-| 7 | `hof_pflaster` | Höfe | 14.042 | 61.75–61.82 |
-| 8 | `rasen` | Grün und offenes Gelände | 27.334 | 61.83–61.99 |
-| 9 | `ufer_bruestung` | Brüstung der Lungarni | 64 | 61.99 |
-| 10 | `mauern_garten` | Gartenmauern | 10 | 61.99 |
+| 7 | `hof_pflaster` | Höfe | 2.059 | 61.76 |
+| 8 | `rasen` | Grün und offenes Gelände | 27.311 | 61.77–61.93 |
+| 9 | `ufer_bruestung` | Brüstung der Lungarni | 64 | 61.93 |
+| 10 | `mauern_garten` | Gartenmauern | 10 | 61.93 |
 
 ## Bauschritte
 
@@ -147,14 +147,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 61.4 – Böschung und Mantel – Teil 4/7 (Y 50–53)
 
 - **Y-Bereich:** 50 bis 53
-- **Blöcke:** 1.371
+- **Blöcke:** 1.358
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.371 |
+| Stein | `stone` | 1.358 |
 
 **Beschreibung**
 
@@ -175,14 +175,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 61.5 – Böschung und Mantel – Teil 5/7 (Y 54–56)
 
 - **Y-Bereich:** 54 bis 56
-- **Blöcke:** 1.310
+- **Blöcke:** 1.296
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.310 |
+| Stein | `stone` | 1.296 |
 
 **Beschreibung**
 
@@ -203,14 +203,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 61.6 – Böschung und Mantel – Teil 6/7 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.035
+- **Blöcke:** 1.964
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.035 |
+| Stein | `stone` | 1.964 |
 
 **Beschreibung**
 
@@ -231,14 +231,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 61.7 – Böschung und Mantel – Teil 7/7 (Y 58–61)
 
 - **Y-Bereich:** 58 bis 61
-- **Blöcke:** 652
+- **Blöcke:** 752
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 652 |
+| Stein | `stone` | 752 |
 
 **Beschreibung**
 
@@ -1995,14 +1995,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 61.70 – Gehwege – Teil 1/5 (Y 52–57)
 
 - **Y-Bereich:** 52 bis 57
-- **Blöcke:** 1.680
+- **Blöcke:** 1.556
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.680 |
+| Glatter Stein | `smooth_stone` | 1.556 |
 
 **Beschreibung**
 
@@ -2023,14 +2023,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 61.71 – Gehwege – Teil 2/5 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.600
+- **Blöcke:** 1.472
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.600 |
+| Glatter Stein | `smooth_stone` | 1.472 |
 
 **Beschreibung**
 
@@ -2051,14 +2051,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 61.72 – Gehwege – Teil 3/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.564
+- **Blöcke:** 1.417
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.564 |
+| Glatter Stein | `smooth_stone` | 1.417 |
 
 **Beschreibung**
 
@@ -2079,14 +2079,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 61.73 – Gehwege – Teil 4/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.581
+- **Blöcke:** 1.414
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.581 |
+| Glatter Stein | `smooth_stone` | 1.414 |
 
 **Beschreibung**
 
@@ -2107,14 +2107,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 61.74 – Gehwege – Teil 5/5 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.559
+- **Blöcke:** 1.421
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.559 |
+| Glatter Stein | `smooth_stone` | 1.421 |
 
 **Beschreibung**
 
@@ -2132,17 +2132,16 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 61.75 – Treppenflächen & Höfe – Teil 1/8 (Y 52–56)
+### Schritt 61.75 – Treppenflächen
 
-- **Y-Bereich:** 52 bis 58
-- **Blöcke:** 569
-- **Bauteile:** `stufen`, `hof_pflaster`
+- **Y-Bereich:** 58 bis 58
+- **Blöcke:** 326
+- **Bauteile:** `stufen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 243 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 140 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 133 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 29 |
@@ -2156,31 +2155,31 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
 **Beschreibung**
 
-Treppen aus den Stadtdaten; die Stufen entstehen durch den Höhenverlauf. Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
+Treppen aus den Stadtdaten; die Stufen entstehen durch den Höhenverlauf.
 
 **Tipp**
 
-Von unten nach oben. Glatt verlegen.
+Von unten nach oben.
 
 **Achtung**
 
-Treppenblöcke folgen in einer späteren Stufe. Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
+Treppenblöcke folgen in einer späteren Stufe.
 
 **Fakt**
 
-Viele Treppen führen in Oltrarno die Hänge hinauf. Hinter den Fassaden liegen viele kleine Innenhöfe.
+Viele Treppen führen in Oltrarno die Hänge hinauf.
 
-### Schritt 61.76 – Höfe – Teil 2/8 (Y 57–57)
+### Schritt 61.76 – Höfe
 
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.034
+- **Y-Bereich:** 52 bis 62
+- **Blöcke:** 2.059
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.034 |
+| Polierter Tuffstein | `polished_tuff` | 2.059 |
 
 **Beschreibung**
 
@@ -2198,175 +2197,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 61.77 – Höfe – Teil 3/8 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 2.037
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.037 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 61.78 – Höfe – Teil 4/8 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 61.79 – Höfe – Teil 5/8 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 61.80 – Höfe – Teil 6/8 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 61.81 – Höfe – Teil 7/8 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 2.080
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.080 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 61.82 – Höfe – Teil 8/8 (Y 59–62)
-
-- **Y-Bereich:** 59 bis 62
-- **Blöcke:** 1.408
-- **Bauteile:** `hof_pflaster`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.408 |
-
-**Beschreibung**
-
-Freie Flächen innerhalb der Häuserblöcke als Pflaster (Cortile).
-
-**Tipp**
-
-Glatt verlegen.
-
-**Achtung**
-
-Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
-
-**Fakt**
-
-Hinter den Fassaden liegen viele kleine Innenhöfe.
-
-### Schritt 61.83 – Grün und offenes Gelände – Teil 1/17 (Y 41–42)
+### Schritt 61.77 – Grün und offenes Gelände – Teil 1/17 (Y 41–42)
 
 - **Y-Bereich:** 41 bis 42
 - **Blöcke:** 1.280
@@ -2394,7 +2225,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.84 – Grün und offenes Gelände – Teil 2/17 (Y 42–42)
+### Schritt 61.78 – Grün und offenes Gelände – Teil 2/17 (Y 42–42)
 
 - **Y-Bereich:** 42 bis 42
 - **Blöcke:** 1.237
@@ -2422,7 +2253,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.85 – Grün und offenes Gelände – Teil 3/17 (Y 43–43)
+### Schritt 61.79 – Grün und offenes Gelände – Teil 3/17 (Y 43–43)
 
 - **Y-Bereich:** 43 bis 43
 - **Blöcke:** 1.094
@@ -2450,7 +2281,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.86 – Grün und offenes Gelände – Teil 4/17 (Y 43–43)
+### Schritt 61.80 – Grün und offenes Gelände – Teil 4/17 (Y 43–43)
 
 - **Y-Bereich:** 43 bis 43
 - **Blöcke:** 1.094
@@ -2478,7 +2309,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.87 – Grün und offenes Gelände – Teil 5/17 (Y 44–44)
+### Schritt 61.81 – Grün und offenes Gelände – Teil 5/17 (Y 44–44)
 
 - **Y-Bereich:** 44 bis 44
 - **Blöcke:** 1.058
@@ -2506,7 +2337,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.88 – Grün und offenes Gelände – Teil 6/17 (Y 44–44)
+### Schritt 61.82 – Grün und offenes Gelände – Teil 6/17 (Y 44–44)
 
 - **Y-Bereich:** 44 bis 44
 - **Blöcke:** 1.054
@@ -2534,7 +2365,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.89 – Grün und offenes Gelände – Teil 7/17 (Y 45–45)
+### Schritt 61.83 – Grün und offenes Gelände – Teil 7/17 (Y 45–45)
 
 - **Y-Bereich:** 45 bis 45
 - **Blöcke:** 1.987
@@ -2564,7 +2395,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.90 – Grün und offenes Gelände – Teil 8/17 (Y 46–46)
+### Schritt 61.84 – Grün und offenes Gelände – Teil 8/17 (Y 46–46)
 
 - **Y-Bereich:** 46 bis 46
 - **Blöcke:** 2.030
@@ -2593,7 +2424,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.91 – Grün und offenes Gelände – Teil 9/17 (Y 46–46)
+### Schritt 61.85 – Grün und offenes Gelände – Teil 9/17 (Y 46–46)
 
 - **Y-Bereich:** 46 bis 46
 - **Blöcke:** 2.046
@@ -2623,7 +2454,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.92 – Grün und offenes Gelände – Teil 10/17 (Y 47–55)
+### Schritt 61.86 – Grün und offenes Gelände – Teil 10/17 (Y 47–55)
 
 - **Y-Bereich:** 47 bis 55
 - **Blöcke:** 1.852
@@ -2653,7 +2484,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.93 – Grün und offenes Gelände – Teil 11/17 (Y 56–57)
+### Schritt 61.87 – Grün und offenes Gelände – Teil 11/17 (Y 56–57)
 
 - **Y-Bereich:** 56 bis 57
 - **Blöcke:** 1.932
@@ -2682,17 +2513,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.94 – Grün und offenes Gelände – Teil 12/17 (Y 58–58)
+### Schritt 61.88 – Grün und offenes Gelände – Teil 12/17 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 2.050
+- **Blöcke:** 2.048
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.038 |
+| Grasblock | `grass_block` | 2.036 |
 | Stein | `stone` | 12 |
 
 **Beschreibung**
@@ -2711,17 +2542,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.95 – Grün und offenes Gelände – Teil 13/17 (Y 58–58)
+### Schritt 61.89 – Grün und offenes Gelände – Teil 13/17 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
-- **Blöcke:** 2.068
+- **Blöcke:** 2.054
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 2.050 |
+| Grasblock | `grass_block` | 2.036 |
 | Stein | `stone` | 18 |
 
 **Beschreibung**
@@ -2740,7 +2571,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.96 – Grün und offenes Gelände – Teil 14/17 (Y 58–58)
+### Schritt 61.90 – Grün und offenes Gelände – Teil 14/17 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
 - **Blöcke:** 2.029
@@ -2769,7 +2600,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.97 – Grün und offenes Gelände – Teil 15/17 (Y 58–58)
+### Schritt 61.91 – Grün und offenes Gelände – Teil 15/17 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
 - **Blöcke:** 2.046
@@ -2798,7 +2629,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.98 – Grün und offenes Gelände – Teil 16/17 (Y 59–59)
+### Schritt 61.92 – Grün und offenes Gelände – Teil 16/17 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.243
@@ -2827,17 +2658,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 61.99 – Grün und offenes Gelände – Teil 17/17 (Y 60–61) & Brüstung der Lungarni & Gartenmauern
+### Schritt 61.93 – Grün und offenes Gelände – Teil 17/17 (Y 60–61) & Brüstung der Lungarni & Gartenmauern
 
 - **Y-Bereich:** 48 bis 63
-- **Blöcke:** 1.308
+- **Blöcke:** 1.301
 - **Bauteile:** `rasen`, `ufer_bruestung`, `mauern_garten`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.232 |
+| Grasblock | `grass_block` | 1.225 |
 | Glatter Stein | `smooth_stone` | 66 |
 | Steinziegel | `stone_bricks` | 8 |
 | Stein | `stone` | 2 |

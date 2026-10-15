@@ -8,24 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.080 |
+| Blöcke | 14.318 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 64 bis 97 |
 | X-Ausdehnung | -2802 bis -2746 (57 Blöcke) |
 | Z-Ausdehnung | 1628 bis 1687 (60 Blöcke) |
 | Kleinster Schritt | 1.307 Blöcke (Schritt 21.8) |
-| Mittlerer Schritt | 1.760 Blöcke |
+| Mittlerer Schritt | 1.790 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 21.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 6.265 | 44,5 % |
-| Terrakotta | `terracotta` | 4.521 | 32,1 % |
-| Polierter Tuffstein | `polished_tuff` | 1.616 | 11,5 % |
-| Glatter Stein | `smooth_stone` | 1.173 | 8,3 % |
-| Graues Buntglas | `gray_stained_glass` | 278 | 2,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.265 | 43,8 % |
+| Terrakotta | `terracotta` | 4.521 | 31,6 % |
+| Polierter Tuffstein | `polished_tuff` | 1.616 | 11,3 % |
+| Glatter Stein | `smooth_stone` | 1.173 | 8,2 % |
+| Graues Buntglas | `gray_stained_glass` | 278 | 1,9 % |
+| Tuffstein | `tuff` | 238 | 1,7 % |
 | Ziegelsteine | `bricks` | 103 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 | 0,3 % |
 | Polierter Andesit | `polished_andesite` | 27 | 0,2 % |
@@ -43,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w461683370` | Reihenhaus an Via dei Villani | 11.451 | 21.1–21.6 |
+| 1 | `w461683370` | Reihenhaus an Via dei Villani | 11.689 | 21.1–21.6 |
 | 2 | `w461683370_innen` | Reihenhaus an Via dei Villani: Innenausbau | 2.629 | 21.7–21.8 |
 
 ## Bauschritte
 
-### Schritt 21.1 – Reihenhaus an Via dei Villani – Teil 1/6 (Y 63–64)
+### Schritt 21.1 – Reihenhaus an Via dei Villani – Teil 1/6 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.950
+- **Y-Bereich:** 64 bis 65
+- **Blöcke:** 1.854
 - **Bauteile:** `w461683370`
 
 **Teileliste**
@@ -59,8 +60,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.616 |
-| Glatter Sandstein | `smooth_sandstone` | 332 |
-| Glatter Stein | `smooth_stone` | 2 |
+| Tuffstein | `tuff` | 238 |
 
 **Beschreibung**
 
@@ -78,18 +78,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Reihenhaus an Via dei Villani – Teil 2/6 (Y 65–70)
+### Schritt 21.2 – Reihenhaus an Via dei Villani – Teil 2/6 (Y 66–71)
 
-- **Y-Bereich:** 65 bis 70
-- **Blöcke:** 2.009
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 2.001
 - **Bauteile:** `w461683370`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.581 |
-| Glatter Stein | `smooth_stone` | 347 |
+| Glatter Sandstein | `smooth_sandstone` | 1.650 |
+| Glatter Stein | `smooth_stone` | 270 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Polierter Andesit | `polished_andesite` | 27 |
 
@@ -109,18 +109,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Reihenhaus an Via dei Villani – Teil 3/6 (Y 71–75)
+### Schritt 21.3 – Reihenhaus an Via dei Villani – Teil 3/6 (Y 72–77)
 
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.702
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 2.044
 - **Bauteile:** `w461683370`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.430 |
-| Glatter Stein | `smooth_stone` | 216 |
+| Glatter Sandstein | `smooth_sandstone` | 1.693 |
+| Glatter Stein | `smooth_stone` | 295 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
 
 **Beschreibung**
@@ -139,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Reihenhaus an Via dei Villani – Teil 4/6 (Y 76–81)
+### Schritt 21.4 – Reihenhaus an Via dei Villani – Teil 4/6 (Y 78–83)
 
-- **Y-Bereich:** 76 bis 81
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 2.030
 - **Bauteile:** `w461683370`
 
@@ -169,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Reihenhaus an Via dei Villani – Teil 5/6 (Y 82–86)
+### Schritt 21.5 – Reihenhaus an Via dei Villani – Teil 5/6 (Y 84–88)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 84 bis 88
 - **Blöcke:** 1.668
 - **Bauteile:** `w461683370`
 
@@ -199,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.6 – Reihenhaus an Via dei Villani – Teil 6/6 (Y 87–95)
+### Schritt 21.6 – Reihenhaus an Via dei Villani – Teil 6/6 (Y 89–97)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 89 bis 97
 - **Blöcke:** 2.092
 - **Bauteile:** `w461683370`
 
@@ -228,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.7 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 63–72)
+### Schritt 21.7 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 65–74)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.322
 - **Bauteile:** `w461683370_innen`
 
@@ -266,9 +266,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.8 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 73–79)
+### Schritt 21.8 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 75–81)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.307
 - **Bauteile:** `w461683370_innen`
 

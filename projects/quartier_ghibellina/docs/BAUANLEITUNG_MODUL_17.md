@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.009 |
+| Blöcke | 2.011 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 65 bis 100 |
 | X-Ausdehnung | 1400 bis 1413 (14 Blöcke) |
 | Z-Ausdehnung | 480 bis 489 (10 Blöcke) |
-| Kleinster Schritt | 2.009 Blöcke (Schritt 17.1) |
-| Mittlerer Schritt | 2.009 Blöcke |
-| Größter Schritt | 2.009 Blöcke (Schritt 17.1) |
+| Kleinster Schritt | 2.011 Blöcke (Schritt 17.1) |
+| Mittlerer Schritt | 2.011 Blöcke |
+| Größter Schritt | 2.011 Blöcke (Schritt 17.1) |
 
 ## Gesamt-Stückliste
 
@@ -24,10 +24,13 @@
 | Hellgrauer Beton | `light_gray_concrete` | 1.632 | 81,2 % |
 | Graues Buntglas | `gray_stained_glass` | 122 | 6,1 % |
 | Terrakotta | `terracotta` | 88 | 4,4 % |
-| Polierter Tuffstein | `polished_tuff` | 86 | 4,3 % |
+| Polierter Tuffstein | `polished_tuff` | 77 | 3,8 % |
 | Grüner Beton | `green_concrete` | 46 | 2,3 % |
 | Glatter Stein | `smooth_stone` | 28 | 1,4 % |
+| Tuffstein | `tuff` | 5 | 0,2 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 | 0,2 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -37,21 +40,22 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w476894569` | Haus w476894569 | 2.005 | 17.1 |
+| 1 | `w476894569` | Haus w476894569 | 2.007 | 17.1 |
 | 2 | `w476894569_innen` | Haus w476894569: Innenausbau | 4 | 17.1 |
 
 ## Bauschritte
 
 ### Schritt 17.1 – Haus w476894569 & Haus w476894569: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
-- **Blöcke:** 2.009
+- **Y-Bereich:** 65 bis 100
+- **Blöcke:** 2.011
 - **Bauteile:** `w476894569`, `w476894569_innen`
 
 **Teileliste**
@@ -61,10 +65,13 @@
 | Hellgrauer Beton | `light_gray_concrete` | 1.632 |
 | Graues Buntglas | `gray_stained_glass` | 122 |
 | Terrakotta | `terracotta` | 88 |
-| Polierter Tuffstein | `polished_tuff` | 86 |
+| Polierter Tuffstein | `polished_tuff` | 77 |
 | Grüner Beton | `green_concrete` | 46 |
 | Glatter Stein | `smooth_stone` | 28 |
+| Tuffstein | `tuff` | 5 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
 | Ziegelsteine | `bricks` | 3 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -74,6 +81,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**

@@ -1,0 +1,50 @@
+{
+  "module": 4,
+  "title": "Vierung und Kuppeln",
+  "subtitle": "Bautüte 4: achteckige Vierung, Kuppel, Laterne und Corsini-Kuppel",
+  "icon": "🔵",
+  "parts": {
+    "vierungspfeiler": {
+      "title": "Vierungspfeiler",
+      "description": "Auf den vier schrägen Seiten des Achtecks stehen massive Pfeiler bis Y 100.",
+      "tip": "Baue sie zuerst, sie tragen den Tambour.",
+      "caution": "Die Pfeiler bleiben massiv.",
+      "fact": "Das Achteck ist im Grundriss knapp 18 Meter breit."
+    },
+    "vierungsboegen": {
+      "title": "Vierungsbögen",
+      "description": "Auf den vier geraden Seiten spannen sich Bögen zum Schiff, zu den Querarmen und zum Chor (Scheitel Y 95).",
+      "tip": "Der Bogen beginnt auf Y 88.",
+      "caution": "Unter den Bögen bleibt alles frei.",
+      "fact": "Durch die Bögen sieht man vom Schiff bis in den Chor."
+    },
+    "tambour": {
+      "title": "Tambour",
+      "description": "Auf Pfeilern und Bögen steht der achteckige Tambour bis Y 113, außen aus Ziegeln, mit Fenstern auf Y 105 bis 110.",
+      "tip": "Die Fenster liegen nahe den Ecken.",
+      "caution": "Innen offen bis zur Kuppel.",
+      "fact": "Von außen ist der Tambour fast ganz von den Dächern verdeckt."
+    },
+    "kuppel": {
+      "title": "Kuppel",
+      "description": "Darüber wölbt sich die Kuppel bis Y 130, innen hellblau bemalt, außen Terrakotta.",
+      "tip": "Jede Lage wird ein wenig enger.",
+      "caution": "Innen hohl bis zur Laterne.",
+      "fact": "Giuseppe Romei malte in der Kuppel die Dreifaltigkeit (1774–75); sie ist etwa 35 Meter hoch."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Obenauf die kleine Laterne aus hellem Quarz bis Y 138 mit Kupferspitze.",
+      "tip": "Genau in der Kuppelmitte.",
+      "caution": "Sie ist nur fünf Blöcke breit.",
+      "fact": "Die Laterne ist von der Piazza del Carmine aus zu sehen."
+    },
+    "corsini_kuppel": {
+      "title": "Kuppel der Cappella Corsini",
+      "description": "Über der Cappella Corsini wölbt sich eine eigene kleine Kuppel bis Y 110, innen farbig bemalt.",
+      "tip": "Sie sitzt direkt auf den Kapellenwänden.",
+      "caution": "Innen offen.",
+      "fact": "Luca Giordano freskierte die Kuppel 1682, Giovan Battista Foggini schuf den Stuck."
+    }
+  }
+}

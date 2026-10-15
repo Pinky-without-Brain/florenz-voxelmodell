@@ -1,0 +1,12 @@
+{
+  "id": "ponte_alla_carraia",
+  "title": "Ponte alla Carraia",
+  "type": "wahrzeichen",
+  "gebaeude": [],
+  "flaechen": ["w167595838"],
+  "bodenY": 60,
+  "rahmen": { "ox": -1488, "oz": 594, "thetaDeg": 120.3 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

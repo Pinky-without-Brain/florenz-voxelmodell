@@ -8,30 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 87.197 |
+| Blöcke | 88.602 |
 | Bauschritte | 50 |
-| Y-Bereich | 63 bis 110 |
+| Y-Bereich | 58 bis 110 |
 | X-Ausdehnung | 1026 bis 1207 (182 Blöcke) |
 | Z-Ausdehnung | 391 bis 496 (106 Blöcke) |
 | Kleinster Schritt | 1.042 Blöcke (Schritt 10.29) |
-| Mittlerer Schritt | 1.744 Blöcke |
+| Mittlerer Schritt | 1.772 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 10.18) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 27.441 | 31,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 13.874 | 15,9 % |
-| Orange Keramik | `orange_terracotta` | 10.203 | 11,7 % |
-| Weißer Beton | `white_concrete` | 9.854 | 11,3 % |
-| Polierter Tuffstein | `polished_tuff` | 8.509 | 9,8 % |
-| Glatter Stein | `smooth_stone` | 4.491 | 5,2 % |
+| Terrakotta | `terracotta` | 27.441 | 31,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 13.874 | 15,7 % |
+| Orange Keramik | `orange_terracotta` | 10.203 | 11,5 % |
+| Weißer Beton | `white_concrete` | 9.854 | 11,1 % |
+| Polierter Tuffstein | `polished_tuff` | 8.509 | 9,6 % |
+| Glatter Stein | `smooth_stone` | 4.491 | 5,1 % |
 | Polierter Andesit | `polished_andesite` | 3.766 | 4,3 % |
-| Graues Buntglas | `gray_stained_glass` | 3.455 | 4,0 % |
+| Graues Buntglas | `gray_stained_glass` | 3.455 | 3,9 % |
 | Grüner Beton | `green_concrete` | 2.358 | 2,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 2.105 | 2,4 % |
-| Ziegelsteine | `bricks` | 568 | 0,7 % |
+| Tuffstein | `tuff` | 1.405 | 1,6 % |
+| Ziegelsteine | `bricks` | 568 | 0,6 % |
 | Seelaterne | `sea_lantern` | 139 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 72 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 54 | 0,1 % |
@@ -60,11 +61,11 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w476952762` | Palazzo des Cinquecento an Via dei Martiri del Popolo | 20.263 | 10.1–10.11 |
 | 2 | `w476952762_innen` | Palazzo des Cinquecento an Via dei Martiri del Popolo: Innenausbau | 5.370 | 10.12–10.14 |
-| 3 | `w476952766` | Palazzo des Cinquecento an Via dell'Ulivo | 17.359 | 10.15–10.24 |
+| 3 | `w476952766` | Palazzo des Cinquecento an Via dell'Ulivo | 17.374 | 10.15–10.24 |
 | 4 | `w476952766_innen` | Palazzo des Cinquecento an Via dell'Ulivo: Innenausbau | 3.602 | 10.25–10.26 |
 | 5 | `w476952773` | Reihenhaus an Via dei Martiri del Popolo | 3.626 | 10.27–10.28 |
 | 6 | `w476952773_innen` | Reihenhaus an Via dei Martiri del Popolo: Innenausbau | 1.042 | 10.29 |
-| 7 | `w476952784` | Palazzo des Cinquecento an Via dei Martiri del Popolo | 29.549 | 10.30–10.46 |
+| 7 | `w476952784` | Palazzo des Cinquecento an Via dei Martiri del Popolo | 30.939 | 10.30–10.46 |
 | 8 | `w476952784_innen` | Palazzo des Cinquecento an Via dei Martiri del Popolo: Innenausbau | 6.386 | 10.47–10.50 |
 
 ## Bauschritte
@@ -542,10 +543,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.15 – Palazzo des Cinquecento an Via dell'Ulivo – Teil 1/10 (Y 63–63)
+### Schritt 10.15 – Palazzo des Cinquecento an Via dell'Ulivo – Teil 1/10 (Y 61–63)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.090
+- **Y-Bereich:** 61 bis 63
+- **Blöcke:** 1.105
 - **Bauteile:** `w476952766`
 
 **Teileliste**
@@ -553,6 +554,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.090 |
+| Tuffstein | `tuff` | 15 |
 
 **Beschreibung**
 
@@ -1041,7 +1043,35 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.30 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 1/17 (Y 63–63)
+### Schritt 10.30 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 1/17 (Y 58–62)
+
+- **Y-Bereich:** 58 bis 62
+- **Blöcke:** 1.390
+- **Bauteile:** `w476952784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.390 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.31 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 2/17 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.899
@@ -1069,7 +1099,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.31 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 2/17 (Y 63–63)
+### Schritt 10.32 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 3/17 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.916
@@ -1097,7 +1127,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 3/17 (Y 64–65)
+### Schritt 10.33 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 4/17 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.370
@@ -1127,7 +1157,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.33 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 4/17 (Y 66–68)
+### Schritt 10.34 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 5/17 (Y 66–68)
 
 - **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.957
@@ -1159,21 +1189,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.34 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 5/17 (Y 69–70)
+### Schritt 10.35 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 6/17 (Y 69–71)
 
-- **Y-Bereich:** 69 bis 70
-- **Blöcke:** 1.271
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.967
 - **Bauteile:** `w476952784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 839 |
-| Polierter Andesit | `polished_andesite` | 270 |
+| Gelbe Keramik | `yellow_terracotta` | 1.462 |
+| Polierter Andesit | `polished_andesite` | 341 |
 | Graues Buntglas | `gray_stained_glass` | 131 |
 | Grüner Beton | `green_concrete` | 28 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -1191,9 +1221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.35 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 6/17 (Y 71–73)
+### Schritt 10.36 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 7/17 (Y 72–74)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 2.088
 - **Bauteile:** `w476952784`
 
@@ -1201,10 +1231,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.593 |
+| Gelbe Keramik | `yellow_terracotta` | 1.655 |
 | Glatter Stein | `smooth_stone` | 400 |
-| Polierter Andesit | `polished_andesite` | 88 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Polierter Andesit | `polished_andesite` | 28 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -1222,18 +1252,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.36 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 7/17 (Y 74–75)
+### Schritt 10.37 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 8/17 (Y 75–77)
 
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.464
+- **Y-Bereich:** 75 bis 77
+- **Blöcke:** 1.986
 - **Bauteile:** `w476952784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.179 |
-| Polierter Andesit | `polished_andesite` | 285 |
+| Gelbe Keramik | `yellow_terracotta` | 1.132 |
+| Polierter Andesit | `polished_andesite` | 452 |
+| Graues Buntglas | `gray_stained_glass` | 232 |
+| Grüner Beton | `green_concrete` | 170 |
 
 **Beschreibung**
 
@@ -1251,9 +1283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.37 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 8/17 (Y 76–78)
+### Schritt 10.38 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 9/17 (Y 78–80)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.827
 - **Bauteile:** `w476952784`
 
@@ -1282,143 +1314,112 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.38 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 9/17 (Y 79–81)
+### Schritt 10.39 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 10/17 (Y 81–83)
 
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.827
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 2.001
 - **Bauteile:** `w476952784`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 960 |
-| Graues Buntglas | `gray_stained_glass` | 348 |
-| Polierter Andesit | `polished_andesite` | 264 |
-| Grüner Beton | `green_concrete` | 255 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.39 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 10/17 (Y 82–84)
-
-- **Y-Bereich:** 82 bis 84
-- **Blöcke:** 2.088
-- **Bauteile:** `w476952784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.469 |
+| Gelbe Keramik | `yellow_terracotta` | 1.106 |
 | Glatter Stein | `smooth_stone` | 400 |
-| Polierter Andesit | `polished_andesite` | 219 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.40 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 11/17 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.377
-- **Bauteile:** `w476952784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 810 |
-| Polierter Andesit | `polished_andesite` | 366 |
-| Graues Buntglas | `gray_stained_glass` | 116 |
-| Grüner Beton | `green_concrete` | 85 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.41 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 12/17 (Y 87–89)
-
-- **Y-Bereich:** 87 bis 89
-- **Blöcke:** 1.827
-- **Bauteile:** `w476952784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 960 |
-| Graues Buntglas | `gray_stained_glass` | 348 |
-| Polierter Andesit | `polished_andesite` | 264 |
-| Grüner Beton | `green_concrete` | 255 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.42 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 13/17 (Y 90–91)
-
-- **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.305
-- **Bauteile:** `w476952784`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 810 |
 | Polierter Andesit | `polished_andesite` | 294 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 | Grüner Beton | `green_concrete` | 85 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.40 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 11/17 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.464
+- **Bauteile:** `w476952784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.179 |
+| Polierter Andesit | `polished_andesite` | 285 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.41 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 12/17 (Y 86–88)
+
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.827
+- **Bauteile:** `w476952784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 954 |
+| Graues Buntglas | `gray_stained_glass` | 348 |
+| Polierter Andesit | `polished_andesite` | 270 |
+| Grüner Beton | `green_concrete` | 255 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.42 – Palazzo des Cinquecento an Via dei Martiri del Popolo – Teil 13/17 (Y 89–91)
+
+- **Y-Bereich:** 89 bis 91
+- **Blöcke:** 1.914
+- **Bauteile:** `w476952784`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.132 |
+| Polierter Andesit | `polished_andesite` | 380 |
+| Graues Buntglas | `gray_stained_glass` | 232 |
+| Grüner Beton | `green_concrete` | 170 |
 
 **Beschreibung**
 

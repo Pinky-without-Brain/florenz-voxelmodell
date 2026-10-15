@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.896 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 53 bis 91 |
 | X-Ausdehnung | -3028 bis -2993 (36 Blöcke) |
 | Z-Ausdehnung | -1375 bis -1329 (47 Blöcke) |
 | Kleinster Schritt | 1.617 Blöcke (Schritt 2.3) |
@@ -52,9 +52,9 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Reihenhaus an Via Pierluigi da Palestrina – Teil 1/5 (Y 63–68)
+### Schritt 2.1 – Reihenhaus an Via Pierluigi da Palestrina – Teil 1/5 (Y 53–58)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 53 bis 58
 - **Blöcke:** 1.856
 - **Bauteile:** `w463119887`
 
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Reihenhaus an Via Pierluigi da Palestrina – Teil 2/5 (Y 69–76)
+### Schritt 2.2 – Reihenhaus an Via Pierluigi da Palestrina – Teil 2/5 (Y 59–66)
 
-- **Y-Bereich:** 69 bis 76
+- **Y-Bereich:** 59 bis 66
 - **Blöcke:** 1.841
 - **Bauteile:** `w463119887`
 
@@ -115,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Reihenhaus an Via Pierluigi da Palestrina – Teil 3/5 (Y 77–83)
+### Schritt 2.3 – Reihenhaus an Via Pierluigi da Palestrina – Teil 3/5 (Y 67–73)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.617
 - **Bauteile:** `w463119887`
 
@@ -145,9 +145,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Reihenhaus an Via Pierluigi da Palestrina – Teil 4/5 (Y 84–91)
+### Schritt 2.4 – Reihenhaus an Via Pierluigi da Palestrina – Teil 4/5 (Y 74–81)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.842
 - **Bauteile:** `w463119887`
 
@@ -175,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Reihenhaus an Via Pierluigi da Palestrina – Teil 5/5 (Y 92–101)
+### Schritt 2.5 – Reihenhaus an Via Pierluigi da Palestrina – Teil 5/5 (Y 82–91)
 
-- **Y-Bereich:** 92 bis 101
+- **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.828
 - **Bauteile:** `w463119887`
 
@@ -207,7 +207,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.6 – Reihenhaus an Via Pierluigi da Palestrina: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 53 bis 77
 - **Blöcke:** 1.912
 - **Bauteile:** `w463119887_innen`
 

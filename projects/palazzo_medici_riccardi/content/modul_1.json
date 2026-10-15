@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den ganzen Block bis Y 121: im Erdgeschoss grobe Rustika, im Piano nobile flache Quader, im obersten Geschoss glatter Stein – je höher, desto feiner. Gesimse aus Pietra serena trennen die Geschosse (Y 87, 105). Das Hauptportal liegt an der Via Cavour, ein zweites an der Via de' Gori.",
+      "tip": "Zwei Blöcke dick: außen Stein, innen Putz.",
+      "caution": "Lass die Portale frei.",
+      "fact": "Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zum Vorbild vieler Florentiner Paläste."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Erdgeschoss Fenster ab Y 74, in den Obergeschossen Biforen mit Mittelsäule (Y 90 bis 101 und Y 108 bis 118).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die vergitterten „knienden Fenster“ an der Ecke werden Michelangelo zugeschrieben (1517)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Pietra serena die Fassade ab (Y 120 bis 121).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Das Kranzgesims ist ein Werk Michelozzos."
+    }
+  }
+}

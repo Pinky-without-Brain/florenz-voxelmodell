@@ -154,8 +154,8 @@ function planHaus(g, akte, kontext) {
       if (o === null || o === id || compareIds(o, id) >= 0 || !kontext.gebaut(o)) continue;
       const np = kontext.plan(o);
       if (!np || np.leer) continue;
-      if (np.boden > boden) ranges.push([boden + 1, np.boden]);
-      if (plan.eaves > np.eaves) ranges.push([np.eaves + 1, plan.eaves]);
+      if (np.boden > boden) ranges.push([boden + 1, Math.min(np.boden, plan.eaves)]);
+      if (plan.eaves > np.eaves) ranges.push([Math.max(np.eaves, boden) + 1, plan.eaves]);
     }
     if (ranges.length) {
       const ys = new Set();
@@ -422,7 +422,7 @@ function tuerDurchbruch(plan) {
 // Liegt die Straße vor einer Tür d = boden - Gelände >= 2 Blöcke tiefer, führen d Treppenblöcke in der Türlaibung
 // und dahinter nach innen hinauf (Zelle k = 0 ist die Außenlage, Stufe in y = Gelände + 1 + k, darüber Luft bis zum
 // Boden). So bleibt jede Stufe <= 1 und alles innerhalb der Parzelle (BEGEHBARKEIT §1.1, §1.3).
-const EINGANG_MAX = 6;
+const EINGANG_MAX = 14;
 function eingangsStufen(plan, kontext) {
   const out = { stufen: new Map(), luft: new Set(), spalten: new Set() };
   const top = (x, z) => kontext.groundTopY(x, z);

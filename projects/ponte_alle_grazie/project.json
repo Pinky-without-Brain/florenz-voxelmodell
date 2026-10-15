@@ -1,0 +1,12 @@
+{
+  "id": "ponte_alle_grazie",
+  "title": "Ponte alle Grazie",
+  "type": "wahrzeichen",
+  "gebaeude": [],
+  "flaechen": ["w167368139"],
+  "bodenY": 60,
+  "rahmen": { "ox": 361, "oz": 1398, "thetaDeg": 106.6 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

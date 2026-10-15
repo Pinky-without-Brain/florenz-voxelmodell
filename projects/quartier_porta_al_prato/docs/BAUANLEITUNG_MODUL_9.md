@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 36.171 |
 | Bauschritte | 20 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 56 bis 95 |
 | X-Ausdehnung | -2823 bis -2701 (123 Blöcke) |
 | Z-Ausdehnung | -1145 bis -1074 (72 Blöcke) |
 | Kleinster Schritt | 1.372 Blöcke (Schritt 9.3) |
@@ -58,9 +58,9 @@
 
 ## Bauschritte
 
-### Schritt 9.1 – Palazzo Poniatowsky Guadagni – Teil 1/16 (Y 63–63)
+### Schritt 9.1 – Palazzo Poniatowsky Guadagni – Teil 1/16 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.851
 - **Bauteile:** `w458906118`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Palazzo Poniatowsky Guadagni – Teil 2/16 (Y 63–63)
+### Schritt 9.2 – Palazzo Poniatowsky Guadagni – Teil 2/16 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.843
 - **Bauteile:** `w458906118`
 
@@ -114,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Palazzo Poniatowsky Guadagni – Teil 3/16 (Y 64–65)
+### Schritt 9.3 – Palazzo Poniatowsky Guadagni – Teil 3/16 (Y 57–58)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 57 bis 58
 - **Blöcke:** 1.372
 - **Bauteile:** `w458906118`
 
@@ -145,9 +145,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Palazzo Poniatowsky Guadagni – Teil 4/16 (Y 66–68)
+### Schritt 9.4 – Palazzo Poniatowsky Guadagni – Teil 4/16 (Y 59–61)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 59 bis 61
 - **Blöcke:** 2.010
 - **Bauteile:** `w458906118`
 
@@ -178,9 +178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Palazzo Poniatowsky Guadagni – Teil 5/16 (Y 69–71)
+### Schritt 9.5 – Palazzo Poniatowsky Guadagni – Teil 5/16 (Y 62–64)
 
-- **Y-Bereich:** 69 bis 71
+- **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.957
 - **Bauteile:** `w458906118`
 
@@ -211,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Palazzo Poniatowsky Guadagni – Teil 6/16 (Y 72–74)
+### Schritt 9.6 – Palazzo Poniatowsky Guadagni – Teil 6/16 (Y 65–67)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 2.085
 - **Bauteile:** `w458906118`
 
@@ -242,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.7 – Palazzo Poniatowsky Guadagni – Teil 7/16 (Y 75–77)
+### Schritt 9.7 – Palazzo Poniatowsky Guadagni – Teil 7/16 (Y 68–70)
 
-- **Y-Bereich:** 75 bis 77
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 2.036
 - **Bauteile:** `w458906118`
 
@@ -274,9 +274,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.8 – Palazzo Poniatowsky Guadagni – Teil 8/16 (Y 78–80)
+### Schritt 9.8 – Palazzo Poniatowsky Guadagni – Teil 8/16 (Y 71–73)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.911
 - **Bauteile:** `w458906118`
 
@@ -306,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.9 – Palazzo Poniatowsky Guadagni – Teil 9/16 (Y 81–83)
+### Schritt 9.9 – Palazzo Poniatowsky Guadagni – Teil 9/16 (Y 74–76)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 2.027
 - **Bauteile:** `w458906118`
 
@@ -338,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.10 – Palazzo Poniatowsky Guadagni – Teil 10/16 (Y 84–85)
+### Schritt 9.10 – Palazzo Poniatowsky Guadagni – Teil 10/16 (Y 77–78)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.457
 - **Bauteile:** `w458906118`
 
@@ -368,9 +368,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.11 – Palazzo Poniatowsky Guadagni – Teil 11/16 (Y 86–88)
+### Schritt 9.11 – Palazzo Poniatowsky Guadagni – Teil 11/16 (Y 79–81)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.911
 - **Bauteile:** `w458906118`
 
@@ -400,9 +400,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.12 – Palazzo Poniatowsky Guadagni – Teil 12/16 (Y 89–91)
+### Schritt 9.12 – Palazzo Poniatowsky Guadagni – Teil 12/16 (Y 82–84)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.969
 - **Bauteile:** `w458906118`
 
@@ -432,9 +432,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.13 – Palazzo Poniatowsky Guadagni – Teil 13/16 (Y 92–93)
+### Schritt 9.13 – Palazzo Poniatowsky Guadagni – Teil 13/16 (Y 85–86)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 2.051
 - **Bauteile:** `w458906118`
 
@@ -462,9 +462,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.14 – Palazzo Poniatowsky Guadagni – Teil 14/16 (Y 94–94)
+### Schritt 9.14 – Palazzo Poniatowsky Guadagni – Teil 14/16 (Y 87–87)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.881
 - **Bauteile:** `w458906118`
 
@@ -490,9 +490,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.15 – Palazzo Poniatowsky Guadagni – Teil 15/16 (Y 95–96)
+### Schritt 9.15 – Palazzo Poniatowsky Guadagni – Teil 15/16 (Y 88–89)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.832
 - **Bauteile:** `w458906118`
 
@@ -518,9 +518,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.16 – Palazzo Poniatowsky Guadagni – Teil 16/16 (Y 97–102)
+### Schritt 9.16 – Palazzo Poniatowsky Guadagni – Teil 16/16 (Y 90–95)
 
-- **Y-Bereich:** 97 bis 102
+- **Y-Bereich:** 90 bis 95
 - **Blöcke:** 1.826
 - **Bauteile:** `w458906118`
 
@@ -547,9 +547,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.17 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 9.17 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 1/4 (Y 56–66)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 56 bis 66
 - **Blöcke:** 1.586
 - **Bauteile:** `w458906118_innen`
 
@@ -589,9 +589,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.18 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 9.18 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 2/4 (Y 66–66)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.492
 - **Bauteile:** `w458906118_innen`
 
@@ -618,9 +618,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.19 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 9.19 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 3/4 (Y 67–76)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.573
 - **Bauteile:** `w458906118_innen`
 
@@ -662,9 +662,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.20 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 9.20 – Palazzo Poniatowsky Guadagni: Innenausbau – Teil 4/4 (Y 76–77)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.501
 - **Bauteile:** `w458906118_innen`
 

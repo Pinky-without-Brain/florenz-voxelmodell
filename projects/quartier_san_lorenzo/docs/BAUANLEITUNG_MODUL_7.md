@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 60.571 |
+| Blöcke | 60.573 |
 | Bauschritte | 40 |
 | Y-Bereich | 63 bis 105 |
 | X-Ausdehnung | -625 bis -512 (114 Blöcke) |
@@ -28,7 +28,7 @@
 | Graues Buntglas | `gray_stained_glass` | 1.578 | 2,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 764 | 1,3 % |
 | Grüner Beton | `green_concrete` | 742 | 1,2 % |
-| Ziegelsteine | `bricks` | 636 | 1,1 % |
+| Ziegelsteine | `bricks` | 636 | 1,0 % |
 | Polierter Andesit | `polished_andesite` | 284 | 0,5 % |
 | Seelaterne | `sea_lantern` | 102 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
@@ -39,6 +39,8 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -53,6 +55,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1590682` | Palazzo des Cinquecento an Via dei Cerretani | 47.056 | 7.1–7.32 |
 | 2 | `r1590682_innen` | Palazzo des Cinquecento an Via dei Cerretani: Innenausbau | 13.515 | 7.33–7.40 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 7.40 |
 
 ## Bauschritte
 
@@ -1254,11 +1257,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.40 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 8/8 (Y 83–84)
+### Schritt 7.40 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 8/8 (Y 83–84) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.706
-- **Bauteile:** `r1590682_innen`
+- **Y-Bereich:** 70 bis 84
+- **Blöcke:** 1.708
+- **Bauteile:** `r1590682_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1268,6 +1271,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1280,16 +1285,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

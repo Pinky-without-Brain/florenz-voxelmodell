@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 213.603 |
+| Blöcke | 213.607 |
 | Bauschritte | 142 |
 | Y-Bereich | 60 bis 115 |
 | X-Ausdehnung | -241 bis -60 (182 Blöcke) |
@@ -49,6 +49,8 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 48 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 44 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -80,6 +82,7 @@
 | 16 | `w480206299_innen` | Renaissance-Palazzo an Via Ricasoli: Innenausbau | 7.905 | 7.135–7.140 |
 | 17 | `w480206300` | Wohnturm an Piazza del Duomo | 1.987 | 7.141 |
 | 18 | `w480206300_innen` | Wohnturm an Piazza del Duomo: Innenausbau | 1.202 | 7.142 |
+| 19 | `strassenschilder` | Straßenschilder | 4 | 7.142 |
 
 ## Bauschritte
 
@@ -4656,11 +4659,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.142 – Wohnturm an Piazza del Duomo: Innenausbau
+### Schritt 7.142 – Wohnturm an Piazza del Duomo: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 100
-- **Blöcke:** 1.202
-- **Bauteile:** `w480206300_innen`
+- **Blöcke:** 1.206
+- **Bauteile:** `w480206300_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -4673,6 +4676,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 12 |
 | Weiße Keramik | `white_terracotta` | 12 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4682,16 +4687,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

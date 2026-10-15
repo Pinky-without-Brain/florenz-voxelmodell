@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.344 |
+| Blöcke | 10.347 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 65 bis 102 |
 | X-Ausdehnung | -380 bis -347 (34 Blöcke) |
 | Z-Ausdehnung | 849 bis 887 (39 Blöcke) |
-| Kleinster Schritt | 1.535 Blöcke (Schritt 9.6) |
-| Mittlerer Schritt | 1.724 Blöcke |
+| Kleinster Schritt | 1.538 Blöcke (Schritt 9.6) |
+| Mittlerer Schritt | 1.725 Blöcke |
 | Größter Schritt | 1.867 Blöcke (Schritt 9.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 5.003 | 48,4 % |
+| Tuffstein | `tuff` | 5.004 | 48,4 % |
 | Terrakotta | `terracotta` | 2.465 | 23,8 % |
 | Polierter Andesit | `polished_andesite` | 925 | 8,9 % |
 | Polierter Tuffstein | `polished_tuff` | 702 | 6,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 412 | 4,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 411 | 4,0 % |
 | Graues Buntglas | `gray_stained_glass` | 366 | 3,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 246 | 2,4 % |
 | Ziegelsteine | `bricks` | 73 | 0,7 % |
@@ -37,6 +37,8 @@
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -50,12 +52,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w115190032` | Torre dei Salterelli | 8.809 | 9.1–9.5 |
 | 2 | `w115190032_innen` | Torre dei Salterelli: Innenausbau | 1.535 | 9.6 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 9.6 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Torre dei Salterelli – Teil 1/5 (Y 63–68)
+### Schritt 9.1 – Torre dei Salterelli – Teil 1/5 (Y 65–70)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.812
 - **Bauteile:** `w115190032`
 
@@ -63,10 +66,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 831 |
+| Tuffstein | `tuff` | 835 |
 | Polierter Tuffstein | `polished_tuff` | 702 |
 | Polierter Andesit | `polished_andesite` | 157 |
-| Tuffsteinziegel | `tuff_bricks` | 80 |
+| Tuffsteinziegel | `tuff_bricks` | 76 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
@@ -85,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Torre dei Salterelli – Teil 2/5 (Y 69–76)
+### Schritt 9.2 – Torre dei Salterelli – Teil 2/5 (Y 71–78)
 
-- **Y-Bereich:** 69 bis 76
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.760
 - **Bauteile:** `w115190032`
 
@@ -95,10 +98,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.242 |
+| Tuffstein | `tuff` | 1.253 |
 | Polierter Andesit | `polished_andesite` | 262 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
-| Tuffsteinziegel | `tuff_bricks` | 120 |
+| Tuffsteinziegel | `tuff_bricks` | 109 |
 
 **Beschreibung**
 
@@ -116,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Torre dei Salterelli – Teil 3/5 (Y 77–84)
+### Schritt 9.3 – Torre dei Salterelli – Teil 3/5 (Y 79–86)
 
-- **Y-Bereich:** 77 bis 84
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.789
 - **Bauteile:** `w115190032`
 
@@ -126,10 +129,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.286 |
+| Tuffstein | `tuff` | 1.282 |
 | Polierter Andesit | `polished_andesite` | 296 |
 | Graues Buntglas | `gray_stained_glass` | 113 |
-| Tuffsteinziegel | `tuff_bricks` | 94 |
+| Tuffsteinziegel | `tuff_bricks` | 98 |
 
 **Beschreibung**
 
@@ -147,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Torre dei Salterelli – Teil 4/5 (Y 85–91)
+### Schritt 9.4 – Torre dei Salterelli – Teil 4/5 (Y 87–93)
 
-- **Y-Bereich:** 85 bis 91
+- **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.581
 - **Bauteile:** `w115190032`
 
@@ -157,9 +160,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.257 |
+| Tuffstein | `tuff` | 1.256 |
 | Polierter Andesit | `polished_andesite` | 156 |
-| Tuffsteinziegel | `tuff_bricks` | 93 |
+| Tuffsteinziegel | `tuff_bricks` | 94 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
@@ -178,9 +181,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Torre dei Salterelli – Teil 5/5 (Y 92–100)
+### Schritt 9.5 – Torre dei Salterelli – Teil 5/5 (Y 94–102)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 94 bis 102
 - **Blöcke:** 1.867
 - **Bauteile:** `w115190032`
 
@@ -189,11 +192,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.082 |
-| Tuffstein | `tuff` | 387 |
+| Tuffstein | `tuff` | 378 |
 | Fichtenholz-Bretter | `spruce_planks` | 246 |
 | Ziegelsteine | `bricks` | 73 |
 | Polierter Andesit | `polished_andesite` | 54 |
-| Tuffsteinziegel | `tuff_bricks` | 25 |
+| Tuffsteinziegel | `tuff_bricks` | 34 |
 
 **Beschreibung**
 
@@ -211,11 +214,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Torre dei Salterelli: Innenausbau
+### Schritt 9.6 – Torre dei Salterelli: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.535
-- **Bauteile:** `w115190032_innen`
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 1.538
+- **Bauteile:** `w115190032_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -230,6 +233,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weiße Keramik | `white_terracotta` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -239,16 +244,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

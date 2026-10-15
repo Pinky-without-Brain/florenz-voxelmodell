@@ -1,0 +1,11 @@
+{
+  "id": "palazzo_rucellai",
+  "title": "Palazzo Rucellai",
+  "type": "wahrzeichen",
+  "gebaeude": ["r4103996"],
+  "bodenY": 60,
+  "rahmen": { "ox": -1204.5, "oz": 459, "thetaDeg": -13.5 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

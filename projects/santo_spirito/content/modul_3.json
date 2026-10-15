@@ -1,0 +1,22 @@
+{
+  "module": 3,
+  "title": "Außenwände",
+  "subtitle": "Bautüte 3: die Außenwand mit den Kapellennischen",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwand läuft um die ganze Kirche bis Y 97; innen sind halbrunde Kapellennischen ausgespart, je eine hinter jedem Umgangsjoch.",
+      "tip": "Außen Tuff, innen weißer Putz.",
+      "caution": "Die Nischen und die Türen zur Sakristei bleiben frei.",
+      "fact": "Es gibt 38 Seitenaltäre und zwei Apsidiolen, zusammen 40 Kapellen."
+    },
+    "fenster": {
+      "title": "Kapellenfenster",
+      "description": "Über jeder Nische sitzt ein Rundbogenfenster aus farbigem Glas (Y 86 bis 92).",
+      "tip": "Die Farben wechseln von Lage zu Lage.",
+      "caution": "Sie liegen genau über der Nischenmitte.",
+      "fact": "Viele Kapellen tragen noch die Altarbilder ihrer Stifterfamilien."
+    }
+  }
+}

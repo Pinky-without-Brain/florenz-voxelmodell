@@ -1,4 +1,5 @@
 'use strict';
+const nbt = require('./nbt_le.js');
 // Minecraft-Export (Bedrock): schreibt das Stadtmodell als Weltordner (db/, level.dat, levelname.txt).
 // Aufruf: node tools/minecraft/export.js [--ziel <Weltordner>] [--ohne-platzhalter]
 // Spezifikation: 20_Stadtmodell_Florenz/MINECRAFT_EXPORT.md
@@ -60,6 +61,14 @@ function lesePlayer(dbDir, log) {
     log(`Warnung: vorhandene db/ nicht lesbar (${e.message}); Spielerdaten werden nicht übernommen`);
     return [];
   }
+}
+
+// Block-Entity eines Wandschilds (Bedrock 1.20+: FrontText/BackText), Text schwarz, gewachst (nicht editierbar)
+function schildEntity(s) {
+  const seite = (text) => nbt.compound([['Text', nbt.string(text)], ['TextOwner', nbt.string('')], ['SignTextColor', nbt.int(-16777216)],
+    ['IgnoreLighting', nbt.byte(0)], ['HideGlowOutline', nbt.byte(0)], ['PersistFormatting', nbt.byte(1)]]);
+  return nbt.write('', nbt.compound([['id', nbt.string('Sign')], ['isMovable', nbt.byte(1)], ['x', nbt.int(s.x)], ['y', nbt.int(s.y)], ['z', nbt.int(s.z)],
+    ['FrontText', seite(s.text)], ['BackText', seite('')], ['IsWaxed', nbt.byte(1)]]));
 }
 
 function rmrf(p) { fs.rmSync(p, { recursive: true, force: true }); }
@@ -129,6 +138,8 @@ function exportWorld(opts = {}) {
       add(chunk.chunkKey(cx, cz, chunk.TAG.SUBCHUNK, yi), val);
       st.subchunks++;
     }
+    const be = welt.blockEntities(cx, cz);
+    if (be.length) { add(chunk.chunkKey(cx, cz, chunk.TAG.BLOCKENTITY), Buffer.concat(be.map(schildEntity))); st.schilder = (st.schilder || 0) + be.length; }
     add(chunk.chunkKey(cx, cz, chunk.TAG.FINALIZED), finalized);
     st.chunks++;
     if (n % 5000 === 4999) {
@@ -161,12 +172,16 @@ function exportWorld(opts = {}) {
   const result = {
     ziel, ms: Date.now() - t0, msVorbereitung: tVorbereitet - t0, dbBytes: dbInfo.bytes, tabellen: dbInfo.tables, eintraege: dbInfo.entries,
     chunks: st.chunks, subchunks: st.subchunks, bloecke: st.bloecke, projektBloecke: welt.stats.projektBloecke,
-    verworfen: welt.stats.verworfen, haeuser: welt.stats.haeuser, spawn, heapMB: Math.round(peakHeap / 1048576),
+    verworfen: welt.stats.verworfen, haeuser: welt.stats.haeuser, schilder: st.schilder || 0, spawn, heapMB: Math.round(peakHeap / 1048576),
     rssMB: Math.round(process.memoryUsage().rss / 1048576), spieler: spieler.length, projekte: welt.projects.map((p) => p.id)
   };
   log(`Fertig in ${(result.ms / 1000).toFixed(1)} s: db ${(result.dbBytes / 1048576).toFixed(1)} MB (${result.tabellen} Tabellen), ${result.chunks} Chunks, ` +
-    `${result.subchunks} Subchunks, ${result.bloecke} Blöcke (davon Projekte ${result.projektBloecke}), Platzhalter-Häuser ${result.haeuser}, ` +
+    `${result.subchunks} Subchunks, ${result.bloecke} Blöcke (davon Projekte ${result.projektBloecke}), Platzhalter-Häuser ${result.haeuser}, Straßenschilder ${result.schilder}, ` +
     `Spawn ${spawn.x} ${spawn.y} ${spawn.z}, Heap ${result.heapMB} MB`);
+  try { // Messwerte für die Statistikseite (tools/emit/statistik.js)
+    fs.mkdirSync(path.join(ROOT, 'build', 'minecraft'), { recursive: true });
+    fs.writeFileSync(path.join(ROOT, 'build', 'minecraft', 'export_ergebnis.json'), JSON.stringify({ ...result, stand: new Date(now * 1000).toISOString() }, null, 1));
+  } catch (e) { /* Statistik ist optional */ }
   if (result.verworfen) log(`Warnung: ${result.verworfen} Projektblöcke außerhalb Y -64..319 verworfen`);
   return result;
 }
@@ -191,4 +206,4 @@ if (require.main === module) {
   }
 }
 
-module.exports = { exportWorld, parseArgs, zielAusKonfig, standardZiel, pruefeSperre, WeltOffenFehler, WELT_NAME, CHUNK_VERSION, FINALIZED };
+module.exports = { exportWorld, parseArgs, zielAusKonfig, standardZiel, pruefeSperre, WeltOffenFehler, WELT_NAME, CHUNK_VERSION, FINALIZED, schildEntity };

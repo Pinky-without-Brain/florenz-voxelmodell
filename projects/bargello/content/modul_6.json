@@ -1,0 +1,15 @@
+{
+  "module": 6,
+  "title": "Licht",
+  "subtitle": "Bautüte 6: Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "licht": {
+      "title": "Licht",
+      "description": "In jedem Geschoss setzt du Seelaternen im Raster von 12 Blöcken in den Boden.",
+      "tip": "Ersetze dazu den Bodenblock.",
+      "caution": "Nicht im Treppenloch.",
+      "fact": "So bleiben alle Säle hell."
+    }
+  }
+}

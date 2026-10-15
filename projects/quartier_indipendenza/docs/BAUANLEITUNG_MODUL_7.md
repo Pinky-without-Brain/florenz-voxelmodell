@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 35.557 |
+| Blöcke | 35.559 |
 | Bauschritte | 20 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 64 bis 104 |
 | X-Ausdehnung | -795 bis -699 (97 Blöcke) |
 | Z-Ausdehnung | -1467 bis -1372 (96 Blöcke) |
 | Kleinster Schritt | 1.231 Blöcke (Schritt 7.4) |
@@ -37,6 +37,8 @@
 | Rote Keramik | `red_terracotta` | 4 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 4 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
@@ -55,12 +57,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w487045079` | Palazzo des Ottocento an Piazza dell'Indipendenza | 29.277 | 7.1–7.16 |
 | 2 | `w487045079_innen` | Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau | 6.280 | 7.17–7.20 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 7.20 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 1/16 (Y 63–63)
+### Schritt 7.1 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 1/16 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.904
 - **Bauteile:** `w487045079`
 
@@ -86,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 2/16 (Y 63–63)
+### Schritt 7.2 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 2/16 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.854
 - **Bauteile:** `w487045079`
 
@@ -114,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 3/16 (Y 64–66)
+### Schritt 7.3 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 3/16 (Y 65–67)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 2.040
 - **Bauteile:** `w487045079`
 
@@ -146,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 4/16 (Y 67–68)
+### Schritt 7.4 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 4/16 (Y 68–69)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.231
 - **Bauteile:** `w487045079`
 
@@ -180,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 5/16 (Y 69–71)
+### Schritt 7.5 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 5/16 (Y 70–72)
 
-- **Y-Bereich:** 69 bis 71
+- **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.869
 - **Bauteile:** `w487045079`
 
@@ -213,9 +216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 6/16 (Y 72–74)
+### Schritt 7.6 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 6/16 (Y 73–75)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 73 bis 75
 - **Blöcke:** 2.061
 - **Bauteile:** `w487045079`
 
@@ -244,9 +247,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 7/16 (Y 75–77)
+### Schritt 7.7 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 7/16 (Y 76–78)
 
-- **Y-Bereich:** 75 bis 77
+- **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.991
 - **Bauteile:** `w487045079`
 
@@ -276,9 +279,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 8/16 (Y 78–80)
+### Schritt 7.8 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 8/16 (Y 79–81)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.851
 - **Bauteile:** `w487045079`
 
@@ -308,9 +311,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 9/16 (Y 81–83)
+### Schritt 7.9 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 9/16 (Y 82–84)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.991
 - **Bauteile:** `w487045079`
 
@@ -341,9 +344,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 10/16 (Y 84–85)
+### Schritt 7.10 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 10/16 (Y 85–86)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.374
 - **Bauteile:** `w487045079`
 
@@ -371,9 +374,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 11/16 (Y 86–88)
+### Schritt 7.11 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 11/16 (Y 87–89)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.851
 - **Bauteile:** `w487045079`
 
@@ -403,9 +406,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 12/16 (Y 89–91)
+### Schritt 7.12 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 12/16 (Y 90–92)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.921
 - **Bauteile:** `w487045079`
 
@@ -435,9 +438,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 13/16 (Y 92–93)
+### Schritt 7.13 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 13/16 (Y 93–94)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 2.091
 - **Bauteile:** `w487045079`
 
@@ -465,9 +468,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 14/16 (Y 94–94)
+### Schritt 7.14 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 14/16 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.546
 - **Bauteile:** `w487045079`
 
@@ -493,9 +496,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.15 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 15/16 (Y 95–96)
+### Schritt 7.15 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 15/16 (Y 96–97)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.608
 - **Bauteile:** `w487045079`
 
@@ -521,9 +524,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.16 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 16/16 (Y 97–103)
+### Schritt 7.16 – Palazzo des Ottocento an Piazza dell'Indipendenza – Teil 16/16 (Y 98–104)
 
-- **Y-Bereich:** 97 bis 103
+- **Y-Bereich:** 98 bis 104
 - **Blöcke:** 2.094
 - **Bauteile:** `w487045079`
 
@@ -550,9 +553,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.17 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 7.17 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 1/4 (Y 64–75)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.625
 - **Bauteile:** `w487045079_innen`
 
@@ -592,9 +595,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.18 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 7.18 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 2/4 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.523
 - **Bauteile:** `w487045079_innen`
 
@@ -621,9 +624,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.19 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 7.19 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 3/4 (Y 76–84)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.604
 - **Bauteile:** `w487045079_innen`
 
@@ -661,11 +664,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.20 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 7.20 – Palazzo des Ottocento an Piazza dell'Indipendenza: Innenausbau – Teil 4/4 (Y 84–85) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.528
-- **Bauteile:** `w487045079_innen`
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.530
+- **Bauteile:** `w487045079_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -673,6 +676,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.515 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -687,16 +692,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

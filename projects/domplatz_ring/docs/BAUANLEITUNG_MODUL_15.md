@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.664 |
+| Blöcke | 18.671 |
 | Bauschritte | 13 |
 | Y-Bereich | 66 bis 104 |
-| X-Ausdehnung | 53 bis 97 (45 Blöcke) |
+| X-Ausdehnung | 52 bis 97 (46 Blöcke) |
 | Z-Ausdehnung | 147 bis 209 (63 Blöcke) |
 | Kleinster Schritt | 578 Blöcke (Schritt 15.9) |
 | Mittlerer Schritt | 1.436 Blöcke |
@@ -40,6 +40,10 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 21 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 21 | 0,1 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -57,6 +61,7 @@
 | 4 | `w491889285_innen` | Reihenhaus an Piazza delle Pallottole: Innenausbau | 578 | 15.9 |
 | 5 | `w491889286` | Reihenhaus an Via dei Bonizzi | 4.328 | 15.10–15.12 |
 | 6 | `w491889286_innen` | Reihenhaus an Via dei Bonizzi: Innenausbau | 1.300 | 15.13 |
+| 7 | `strassenschilder` | Straßenschilder | 7 | 15.13 |
 
 ## Bauschritte
 
@@ -458,11 +463,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.13 – Reihenhaus an Via dei Bonizzi: Innenausbau
+### Schritt 15.13 – Reihenhaus an Via dei Bonizzi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 67 bis 91
-- **Blöcke:** 1.300
-- **Bauteile:** `w491889286_innen`
+- **Blöcke:** 1.307
+- **Bauteile:** `w491889286_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -475,6 +480,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -484,16 +493,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

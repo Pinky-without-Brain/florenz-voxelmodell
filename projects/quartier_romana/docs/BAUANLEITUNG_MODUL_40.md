@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 18.551 |
 | Bauschritte | 12 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 65 bis 103 |
 | X-Ausdehnung | -2042 bis -1982 (61 Blöcke) |
 | Z-Ausdehnung | 2220 bis 2280 (61 Blöcke) |
 | Kleinster Schritt | 501 Blöcke (Schritt 40.5) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 40.1 – Palazzo des Cinquecento an Via dei Mori – Teil 1/4 (Y 63–70)
+### Schritt 40.1 – Palazzo des Cinquecento an Via dei Mori – Teil 1/4 (Y 65–72)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 65 bis 72
 - **Blöcke:** 1.776
 - **Bauteile:** `w118948108`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.2 – Palazzo des Cinquecento an Via dei Mori – Teil 2/4 (Y 71–79)
+### Schritt 40.2 – Palazzo des Cinquecento an Via dei Mori – Teil 2/4 (Y 73–81)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.799
 - **Bauteile:** `w118948108`
 
@@ -117,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.3 – Palazzo des Cinquecento an Via dei Mori – Teil 3/4 (Y 80–87)
+### Schritt 40.3 – Palazzo des Cinquecento an Via dei Mori – Teil 3/4 (Y 82–89)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.596
 - **Bauteile:** `w118948108`
 
@@ -149,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.4 – Palazzo des Cinquecento an Via dei Mori – Teil 4/4 (Y 88–98)
+### Schritt 40.4 – Palazzo des Cinquecento an Via dei Mori – Teil 4/4 (Y 90–100)
 
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 90 bis 100
 - **Blöcke:** 1.821
 - **Bauteile:** `w118948108`
 
@@ -185,7 +185,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 40.5 – Palazzo des Cinquecento an Via dei Mori: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 65 bis 85
 - **Blöcke:** 501
 - **Bauteile:** `w118948108_innen`
 
@@ -221,9 +221,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.6 – Chiesa di San Pier Gattolino – Teil 1/5 (Y 63–66)
+### Schritt 40.6 – Chiesa di San Pier Gattolino – Teil 1/5 (Y 65–68)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.839
 - **Bauteile:** `w306378148`
 
@@ -251,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.7 – Chiesa di San Pier Gattolino – Teil 2/5 (Y 67–75)
+### Schritt 40.7 – Chiesa di San Pier Gattolino – Teil 2/5 (Y 69–77)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.732
 - **Bauteile:** `w306378148`
 
@@ -281,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.8 – Chiesa di San Pier Gattolino – Teil 3/5 (Y 76–84)
+### Schritt 40.8 – Chiesa di San Pier Gattolino – Teil 3/5 (Y 78–86)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.748
 - **Bauteile:** `w306378148`
 
@@ -311,9 +311,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.9 – Chiesa di San Pier Gattolino – Teil 4/5 (Y 85–93)
+### Schritt 40.9 – Chiesa di San Pier Gattolino – Teil 4/5 (Y 87–95)
 
-- **Y-Bereich:** 85 bis 93
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.858
 - **Bauteile:** `w306378148`
 
@@ -341,9 +341,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.10 – Chiesa di San Pier Gattolino – Teil 5/5 (Y 94–101)
+### Schritt 40.10 – Chiesa di San Pier Gattolino – Teil 5/5 (Y 96–103)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.666
 - **Bauteile:** `w306378148`
 
@@ -370,9 +370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.11 – Chiesa di San Pier Gattolino: Innenausbau – Teil 1/2 (Y 63–77)
+### Schritt 40.11 – Chiesa di San Pier Gattolino: Innenausbau – Teil 1/2 (Y 65–79)
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 65 bis 79
 - **Blöcke:** 1.123
 - **Bauteile:** `w306378148_innen`
 
@@ -408,9 +408,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.12 – Chiesa di San Pier Gattolino: Innenausbau – Teil 2/2 (Y 78–85)
+### Schritt 40.12 – Chiesa di San Pier Gattolino: Innenausbau – Teil 2/2 (Y 80–87)
 
-- **Y-Bereich:** 78 bis 85
+- **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.092
 - **Bauteile:** `w306378148_innen`
 

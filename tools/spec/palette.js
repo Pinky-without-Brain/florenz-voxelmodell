@@ -123,6 +123,15 @@ for (const [base, material, name] of STAIR_BASES) {
   }
 }
 
+// Straßenschilder: Wandschild aus Birke, Typname birch_wall_sign@<richtung>, Richtung = wohin die Schrift zeigt
+// (n = -z, o = +x, s = +z, w = -x). Der Text steht nicht im Blocktyp: der Quartiergenerator führt ihn (q.schilder),
+// der Minecraft-Export schreibt ihn als Block-Entity.
+for (const dir of STAIR_DIRS) {
+  PALETTE[`birch_wall_sign@${dir}`] = { role: 'schild', de: `Straßenschild (Wandschild), Schrift nach ${STAIR_DIR_DE[dir]}` };
+}
+/** Typname des Straßenschilds, das nach richtung (n|o|s|w) zeigt. */
+const schild = (richtung) => `birch_wall_sign@${richtung}`;
+
 const TYPES = Object.keys(PALETTE);
 
 /** Ist der Typ ein Treppenblock? */
@@ -157,5 +166,5 @@ function typesForRole(role) {
 const ROLES = [];
 for (const t of TYPES) if (!isTreppe(t)) for (const r of rolesOf(t)) if (!ROLES.includes(r)) ROLES.push(r);
 
-module.exports = { PALETTE, TYPES, ROLES, rolesOf, typesForRole, STAIR_DIRS, STAIR_DIR_DE, STAIR_BASES, TREPPE_FUER_ROLLE,
+module.exports = { schild, PALETTE, TYPES, ROLES, rolesOf, typesForRole, STAIR_DIRS, STAIR_DIR_DE, STAIR_BASES, TREPPE_FUER_ROLLE,
   isTreppe, treppeInfo, treppeFuerRolle, treppe };

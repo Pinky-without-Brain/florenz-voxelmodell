@@ -8,33 +8,35 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 132.487 |
-| Bauschritte | 81 |
-| Y-Bereich | 63 bis 106 |
+| Blöcke | 160.600 |
+| Bauschritte | 97 |
+| Y-Bereich | 62 bis 110 |
 | X-Ausdehnung | 1517 bis 1793 (277 Blöcke) |
 | Z-Ausdehnung | 1216 bis 1368 (153 Blöcke) |
-| Kleinster Schritt | 1.108 Blöcke (Schritt 14.9) |
-| Mittlerer Schritt | 1.636 Blöcke |
-| Größter Schritt | 2.085 Blöcke (Schritt 14.19) |
+| Kleinster Schritt | 554 Blöcke (Schritt 14.1) |
+| Mittlerer Schritt | 1.656 Blöcke |
+| Größter Schritt | 2.085 Blöcke (Schritt 14.35) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 46.353 | 35,0 % |
-| Tuffstein | `tuff` | 27.300 | 20,6 % |
-| Glatter Stein | `smooth_stone` | 17.844 | 13,5 % |
-| Polierter Andesit | `polished_andesite` | 17.700 | 13,4 % |
-| Polierter Tuffstein | `polished_tuff` | 14.795 | 11,2 % |
-| Graues Buntglas | `gray_stained_glass` | 4.108 | 3,1 % |
-| Tuffsteinziegel | `tuff_bricks` | 3.446 | 2,6 % |
-| Ziegelsteine | `bricks` | 673 | 0,5 % |
-| Seelaterne | `sea_lantern` | 207 | 0,2 % |
+| Tuffstein | `tuff` | 55.357 | 34,5 % |
+| Terrakotta | `terracotta` | 46.368 | 28,9 % |
+| Glatter Stein | `smooth_stone` | 17.883 | 11,1 % |
+| Polierter Andesit | `polished_andesite` | 17.700 | 11,0 % |
+| Polierter Tuffstein | `polished_tuff` | 14.788 | 9,2 % |
+| Graues Buntglas | `gray_stained_glass` | 4.108 | 2,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 3.446 | 2,1 % |
+| Ziegelsteine | `bricks` | 673 | 0,4 % |
+| Seelaterne | `sea_lantern` | 207 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 6 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
@@ -45,20 +47,485 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1607726` | Ex spedale di Sant'Onofrio dei Tintori | 107.045 | 14.1–14.67 |
-| 2 | `r1607726_innen` | Ex spedale di Sant'Onofrio dei Tintori: Innenausbau | 25.442 | 14.68–14.81 |
+| 1 | `r1607726` | Ex spedale di Sant'Onofrio dei Tintori | 135.158 | 14.1–14.83 |
+| 2 | `r1607726_innen` | Ex spedale di Sant'Onofrio dei Tintori: Innenausbau | 25.442 | 14.84–14.97 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Ex spedale di Sant'Onofrio dei Tintori – Teil 1/67 (Y 63–63)
+### Schritt 14.1 – Ex spedale di Sant'Onofrio dei Tintori – Teil 1/83 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 554
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 554 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.2 – Ex spedale di Sant'Onofrio dei Tintori – Teil 2/83 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.561
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.561 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.3 – Ex spedale di Sant'Onofrio dei Tintori – Teil 3/83 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.536
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.536 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.4 – Ex spedale di Sant'Onofrio dei Tintori – Teil 4/83 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.878
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.878 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.5 – Ex spedale di Sant'Onofrio dei Tintori – Teil 5/83 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.901
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.901 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.6 – Ex spedale di Sant'Onofrio dei Tintori – Teil 6/83 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.869
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.866 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.7 – Ex spedale di Sant'Onofrio dei Tintori – Teil 7/83 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.871
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.871 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.8 – Ex spedale di Sant'Onofrio dei Tintori – Teil 8/83 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.892
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.892 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.9 – Ex spedale di Sant'Onofrio dei Tintori – Teil 9/83 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.863
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.863 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.10 – Ex spedale di Sant'Onofrio dei Tintori – Teil 10/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.902
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.902 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.11 – Ex spedale di Sant'Onofrio dei Tintori – Teil 11/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.828
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.828 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.12 – Ex spedale di Sant'Onofrio dei Tintori – Teil 12/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.901
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.898 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.13 – Ex spedale di Sant'Onofrio dei Tintori – Teil 13/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.891
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.891 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.14 – Ex spedale di Sant'Onofrio dei Tintori – Teil 14/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.864
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.864 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.15 – Ex spedale di Sant'Onofrio dei Tintori – Teil 15/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.876
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.876 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.16 – Ex spedale di Sant'Onofrio dei Tintori – Teil 16/83 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.876
+- **Bauteile:** `r1607726`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.876 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.17 – Ex spedale di Sant'Onofrio dei Tintori – Teil 17/83 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.893
 - **Bauteile:** `r1607726`
 
@@ -84,9 +551,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Ex spedale di Sant'Onofrio dei Tintori – Teil 2/67 (Y 63–63)
+### Schritt 14.18 – Ex spedale di Sant'Onofrio dei Tintori – Teil 18/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.779
 - **Bauteile:** `r1607726`
 
@@ -112,9 +579,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Ex spedale di Sant'Onofrio dei Tintori – Teil 3/67 (Y 63–63)
+### Schritt 14.19 – Ex spedale di Sant'Onofrio dei Tintori – Teil 19/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.859
 - **Bauteile:** `r1607726`
 
@@ -140,17 +607,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Ex spedale di Sant'Onofrio dei Tintori – Teil 4/67 (Y 63–63)
+### Schritt 14.20 – Ex spedale di Sant'Onofrio dei Tintori – Teil 20/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.885
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 1.881
 - **Bauteile:** `r1607726`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.885 |
+| Polierter Tuffstein | `polished_tuff` | 1.878 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -168,9 +643,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.5 – Ex spedale di Sant'Onofrio dei Tintori – Teil 5/67 (Y 63–63)
+### Schritt 14.21 – Ex spedale di Sant'Onofrio dei Tintori – Teil 21/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.824
 - **Bauteile:** `r1607726`
 
@@ -196,9 +671,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.6 – Ex spedale di Sant'Onofrio dei Tintori – Teil 6/67 (Y 63–63)
+### Schritt 14.22 – Ex spedale di Sant'Onofrio dei Tintori – Teil 22/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.855
 - **Bauteile:** `r1607726`
 
@@ -224,9 +699,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.7 – Ex spedale di Sant'Onofrio dei Tintori – Teil 7/67 (Y 63–63)
+### Schritt 14.23 – Ex spedale di Sant'Onofrio dei Tintori – Teil 23/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.834
 - **Bauteile:** `r1607726`
 
@@ -252,9 +727,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.8 – Ex spedale di Sant'Onofrio dei Tintori – Teil 8/67 (Y 63–63)
+### Schritt 14.24 – Ex spedale di Sant'Onofrio dei Tintori – Teil 24/83 (Y 67–67)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.866
 - **Bauteile:** `r1607726`
 
@@ -280,9 +755,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.9 – Ex spedale di Sant'Onofrio dei Tintori – Teil 9/67 (Y 64–64)
+### Schritt 14.25 – Ex spedale di Sant'Onofrio dei Tintori – Teil 25/83 (Y 68–68)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.108
 - **Bauteile:** `r1607726`
 
@@ -311,9 +786,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.10 – Ex spedale di Sant'Onofrio dei Tintori – Teil 10/67 (Y 64–64)
+### Schritt 14.26 – Ex spedale di Sant'Onofrio dei Tintori – Teil 26/83 (Y 68–68)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -342,9 +817,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.11 – Ex spedale di Sant'Onofrio dei Tintori – Teil 11/67 (Y 65–65)
+### Schritt 14.27 – Ex spedale di Sant'Onofrio dei Tintori – Teil 27/83 (Y 69–69)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.108
 - **Bauteile:** `r1607726`
 
@@ -373,9 +848,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.12 – Ex spedale di Sant'Onofrio dei Tintori – Teil 12/67 (Y 65–65)
+### Schritt 14.28 – Ex spedale di Sant'Onofrio dei Tintori – Teil 28/83 (Y 69–69)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -404,9 +879,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.13 – Ex spedale di Sant'Onofrio dei Tintori – Teil 13/67 (Y 66–66)
+### Schritt 14.29 – Ex spedale di Sant'Onofrio dei Tintori – Teil 29/83 (Y 70–70)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.218
 - **Bauteile:** `r1607726`
 
@@ -435,9 +910,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.14 – Ex spedale di Sant'Onofrio dei Tintori – Teil 14/67 (Y 66–66)
+### Schritt 14.30 – Ex spedale di Sant'Onofrio dei Tintori – Teil 30/83 (Y 70–70)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.209
 - **Bauteile:** `r1607726`
 
@@ -466,9 +941,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.15 – Ex spedale di Sant'Onofrio dei Tintori – Teil 15/67 (Y 67–67)
+### Schritt 14.31 – Ex spedale di Sant'Onofrio dei Tintori – Teil 31/83 (Y 71–71)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.988
 - **Bauteile:** `r1607726`
 
@@ -498,9 +973,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.16 – Ex spedale di Sant'Onofrio dei Tintori – Teil 16/67 (Y 68–68)
+### Schritt 14.32 – Ex spedale di Sant'Onofrio dei Tintori – Teil 32/83 (Y 72–72)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.988
 - **Bauteile:** `r1607726`
 
@@ -530,9 +1005,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.17 – Ex spedale di Sant'Onofrio dei Tintori – Teil 17/67 (Y 69–69)
+### Schritt 14.33 – Ex spedale di Sant'Onofrio dei Tintori – Teil 33/83 (Y 73–73)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.989
 - **Bauteile:** `r1607726`
 
@@ -562,9 +1037,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.18 – Ex spedale di Sant'Onofrio dei Tintori – Teil 18/67 (Y 70–70)
+### Schritt 14.34 – Ex spedale di Sant'Onofrio dei Tintori – Teil 34/83 (Y 74–74)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.992
 - **Bauteile:** `r1607726`
 
@@ -594,9 +1069,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.19 – Ex spedale di Sant'Onofrio dei Tintori – Teil 19/67 (Y 71–71)
+### Schritt 14.35 – Ex spedale di Sant'Onofrio dei Tintori – Teil 35/83 (Y 75–75)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 2.085
 - **Bauteile:** `r1607726`
 
@@ -626,9 +1101,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.20 – Ex spedale di Sant'Onofrio dei Tintori – Teil 20/67 (Y 72–72)
+### Schritt 14.36 – Ex spedale di Sant'Onofrio dei Tintori – Teil 36/83 (Y 76–76)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.117
 - **Bauteile:** `r1607726`
 
@@ -657,9 +1132,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.21 – Ex spedale di Sant'Onofrio dei Tintori – Teil 21/67 (Y 72–72)
+### Schritt 14.37 – Ex spedale di Sant'Onofrio dei Tintori – Teil 37/83 (Y 76–76)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -688,9 +1163,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.22 – Ex spedale di Sant'Onofrio dei Tintori – Teil 22/67 (Y 73–73)
+### Schritt 14.38 – Ex spedale di Sant'Onofrio dei Tintori – Teil 38/83 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.117
 - **Bauteile:** `r1607726`
 
@@ -719,9 +1194,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.23 – Ex spedale di Sant'Onofrio dei Tintori – Teil 23/67 (Y 73–73)
+### Schritt 14.39 – Ex spedale di Sant'Onofrio dei Tintori – Teil 39/83 (Y 77–77)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -750,9 +1225,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.24 – Ex spedale di Sant'Onofrio dei Tintori – Teil 24/67 (Y 74–74)
+### Schritt 14.40 – Ex spedale di Sant'Onofrio dei Tintori – Teil 40/83 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.470
 - **Bauteile:** `r1607726`
 
@@ -779,9 +1254,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.25 – Ex spedale di Sant'Onofrio dei Tintori – Teil 25/67 (Y 74–74)
+### Schritt 14.41 – Ex spedale di Sant'Onofrio dei Tintori – Teil 41/83 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.472
 - **Bauteile:** `r1607726`
 
@@ -808,9 +1283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.26 – Ex spedale di Sant'Onofrio dei Tintori – Teil 26/67 (Y 75–75)
+### Schritt 14.42 – Ex spedale di Sant'Onofrio dei Tintori – Teil 42/83 (Y 79–79)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.117
 - **Bauteile:** `r1607726`
 
@@ -838,9 +1313,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.27 – Ex spedale di Sant'Onofrio dei Tintori – Teil 27/67 (Y 75–75)
+### Schritt 14.43 – Ex spedale di Sant'Onofrio dei Tintori – Teil 43/83 (Y 79–79)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -868,9 +1343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.28 – Ex spedale di Sant'Onofrio dei Tintori – Teil 28/67 (Y 76–76)
+### Schritt 14.44 – Ex spedale di Sant'Onofrio dei Tintori – Teil 44/83 (Y 80–80)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.216
 - **Bauteile:** `r1607726`
 
@@ -898,9 +1373,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.29 – Ex spedale di Sant'Onofrio dei Tintori – Teil 29/67 (Y 76–76)
+### Schritt 14.45 – Ex spedale di Sant'Onofrio dei Tintori – Teil 45/83 (Y 80–80)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.221
 - **Bauteile:** `r1607726`
 
@@ -928,9 +1403,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.30 – Ex spedale di Sant'Onofrio dei Tintori – Teil 30/67 (Y 77–77)
+### Schritt 14.46 – Ex spedale di Sant'Onofrio dei Tintori – Teil 46/83 (Y 81–81)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.996
 - **Bauteile:** `r1607726`
 
@@ -959,9 +1434,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.31 – Ex spedale di Sant'Onofrio dei Tintori – Teil 31/67 (Y 78–78)
+### Schritt 14.47 – Ex spedale di Sant'Onofrio dei Tintori – Teil 47/83 (Y 82–82)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.996
 - **Bauteile:** `r1607726`
 
@@ -990,9 +1465,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.32 – Ex spedale di Sant'Onofrio dei Tintori – Teil 32/67 (Y 79–79)
+### Schritt 14.48 – Ex spedale di Sant'Onofrio dei Tintori – Teil 48/83 (Y 83–83)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.996
 - **Bauteile:** `r1607726`
 
@@ -1021,9 +1496,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.33 – Ex spedale di Sant'Onofrio dei Tintori – Teil 33/67 (Y 80–80)
+### Schritt 14.49 – Ex spedale di Sant'Onofrio dei Tintori – Teil 49/83 (Y 84–84)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.997
 - **Bauteile:** `r1607726`
 
@@ -1052,9 +1527,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.34 – Ex spedale di Sant'Onofrio dei Tintori – Teil 34/67 (Y 81–81)
+### Schritt 14.50 – Ex spedale di Sant'Onofrio dei Tintori – Teil 50/83 (Y 85–85)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 2.081
 - **Bauteile:** `r1607726`
 
@@ -1083,9 +1558,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.35 – Ex spedale di Sant'Onofrio dei Tintori – Teil 35/67 (Y 82–82)
+### Schritt 14.51 – Ex spedale di Sant'Onofrio dei Tintori – Teil 51/83 (Y 86–86)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.117
 - **Bauteile:** `r1607726`
 
@@ -1113,9 +1588,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.36 – Ex spedale di Sant'Onofrio dei Tintori – Teil 36/67 (Y 82–82)
+### Schritt 14.52 – Ex spedale di Sant'Onofrio dei Tintori – Teil 52/83 (Y 86–86)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -1143,9 +1618,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.37 – Ex spedale di Sant'Onofrio dei Tintori – Teil 37/67 (Y 83–83)
+### Schritt 14.53 – Ex spedale di Sant'Onofrio dei Tintori – Teil 53/83 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.470
 - **Bauteile:** `r1607726`
 
@@ -1172,9 +1647,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.38 – Ex spedale di Sant'Onofrio dei Tintori – Teil 38/67 (Y 83–83)
+### Schritt 14.54 – Ex spedale di Sant'Onofrio dei Tintori – Teil 54/83 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.472
 - **Bauteile:** `r1607726`
 
@@ -1201,9 +1676,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.39 – Ex spedale di Sant'Onofrio dei Tintori – Teil 39/67 (Y 84–84)
+### Schritt 14.55 – Ex spedale di Sant'Onofrio dei Tintori – Teil 55/83 (Y 88–88)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.117
 - **Bauteile:** `r1607726`
 
@@ -1231,9 +1706,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.40 – Ex spedale di Sant'Onofrio dei Tintori – Teil 40/67 (Y 84–84)
+### Schritt 14.56 – Ex spedale di Sant'Onofrio dei Tintori – Teil 56/83 (Y 88–88)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.109
 - **Bauteile:** `r1607726`
 
@@ -1261,9 +1736,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.41 – Ex spedale di Sant'Onofrio dei Tintori – Teil 41/67 (Y 85–85)
+### Schritt 14.57 – Ex spedale di Sant'Onofrio dei Tintori – Teil 57/83 (Y 89–89)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.216
 - **Bauteile:** `r1607726`
 
@@ -1291,9 +1766,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.42 – Ex spedale di Sant'Onofrio dei Tintori – Teil 42/67 (Y 85–85)
+### Schritt 14.58 – Ex spedale di Sant'Onofrio dei Tintori – Teil 58/83 (Y 89–89)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.221
 - **Bauteile:** `r1607726`
 
@@ -1321,9 +1796,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.43 – Ex spedale di Sant'Onofrio dei Tintori – Teil 43/67 (Y 86–86)
+### Schritt 14.59 – Ex spedale di Sant'Onofrio dei Tintori – Teil 59/83 (Y 90–90)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.996
 - **Bauteile:** `r1607726`
 
@@ -1352,9 +1827,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.44 – Ex spedale di Sant'Onofrio dei Tintori – Teil 44/67 (Y 87–87)
+### Schritt 14.60 – Ex spedale di Sant'Onofrio dei Tintori – Teil 60/83 (Y 91–91)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.996
 - **Bauteile:** `r1607726`
 
@@ -1383,9 +1858,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.45 – Ex spedale di Sant'Onofrio dei Tintori – Teil 45/67 (Y 88–88)
+### Schritt 14.61 – Ex spedale di Sant'Onofrio dei Tintori – Teil 61/83 (Y 92–92)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.996
 - **Bauteile:** `r1607726`
 
@@ -1414,9 +1889,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.46 – Ex spedale di Sant'Onofrio dei Tintori – Teil 46/67 (Y 89–89)
+### Schritt 14.62 – Ex spedale di Sant'Onofrio dei Tintori – Teil 62/83 (Y 93–93)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.997
 - **Bauteile:** `r1607726`
 
@@ -1445,9 +1920,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.47 – Ex spedale di Sant'Onofrio dei Tintori – Teil 47/67 (Y 90–90)
+### Schritt 14.63 – Ex spedale di Sant'Onofrio dei Tintori – Teil 63/83 (Y 94–94)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 2.081
 - **Bauteile:** `r1607726`
 
@@ -1476,9 +1951,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.48 – Ex spedale di Sant'Onofrio dei Tintori – Teil 48/67 (Y 91–91)
+### Schritt 14.64 – Ex spedale di Sant'Onofrio dei Tintori – Teil 64/83 (Y 95–95)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.472
 - **Bauteile:** `r1607726`
 
@@ -1506,9 +1981,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.49 – Ex spedale di Sant'Onofrio dei Tintori – Teil 49/67 (Y 91–91)
+### Schritt 14.65 – Ex spedale di Sant'Onofrio dei Tintori – Teil 65/83 (Y 95–95)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.472
 - **Bauteile:** `r1607726`
 
@@ -1536,9 +2011,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.50 – Ex spedale di Sant'Onofrio dei Tintori – Teil 50/67 (Y 92–92)
+### Schritt 14.66 – Ex spedale di Sant'Onofrio dei Tintori – Teil 66/83 (Y 96–96)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.919
 - **Bauteile:** `r1607726`
 
@@ -1566,9 +2041,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.51 – Ex spedale di Sant'Onofrio dei Tintori – Teil 51/67 (Y 92–92)
+### Schritt 14.67 – Ex spedale di Sant'Onofrio dei Tintori – Teil 67/83 (Y 96–96)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.902
 - **Bauteile:** `r1607726`
 
@@ -1596,19 +2071,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.52 – Ex spedale di Sant'Onofrio dei Tintori – Teil 52/67 (Y 93–93)
+### Schritt 14.68 – Ex spedale di Sant'Onofrio dei Tintori – Teil 68/83 (Y 97–97)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.546
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.558
 - **Bauteile:** `r1607726`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 815 |
-| Polierter Andesit | `polished_andesite` | 414 |
-| Tuffstein | `tuff` | 317 |
+| Glatter Stein | `smooth_stone` | 840 |
+| Polierter Andesit | `polished_andesite` | 410 |
+| Tuffstein | `tuff` | 308 |
 
 **Beschreibung**
 
@@ -1626,19 +2101,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.53 – Ex spedale di Sant'Onofrio dei Tintori – Teil 53/67 (Y 93–93)
+### Schritt 14.69 – Ex spedale di Sant'Onofrio dei Tintori – Teil 69/83 (Y 97–97)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.563
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.570
 - **Bauteile:** `r1607726`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 768 |
-| Tuffstein | `tuff` | 403 |
-| Polierter Andesit | `polished_andesite` | 392 |
+| Glatter Stein | `smooth_stone` | 771 |
+| Tuffstein | `tuff` | 408 |
+| Polierter Andesit | `polished_andesite` | 391 |
 
 **Beschreibung**
 
@@ -1656,19 +2131,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.54 – Ex spedale di Sant'Onofrio dei Tintori – Teil 54/67 (Y 93–93)
+### Schritt 14.70 – Ex spedale di Sant'Onofrio dei Tintori – Teil 70/83 (Y 97–97)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.549
+- **Y-Bereich:** 97 bis 97
+- **Blöcke:** 1.569
 - **Bauteile:** `r1607726`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 867 |
-| Polierter Andesit | `polished_andesite` | 385 |
-| Tuffstein | `tuff` | 297 |
+| Glatter Stein | `smooth_stone` | 878 |
+| Polierter Andesit | `polished_andesite` | 390 |
+| Tuffstein | `tuff` | 301 |
 
 **Beschreibung**
 
@@ -1686,17 +2161,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.55 – Ex spedale di Sant'Onofrio dei Tintori – Teil 55/67 (Y 94–94)
+### Schritt 14.71 – Ex spedale di Sant'Onofrio dei Tintori – Teil 71/83 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 2.064
+- **Y-Bereich:** 98 bis 98
+- **Blöcke:** 2.079
 - **Bauteile:** `r1607726`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.064 |
+| Terrakotta | `terracotta` | 2.079 |
 
 **Beschreibung**
 
@@ -1714,9 +2189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.56 – Ex spedale di Sant'Onofrio dei Tintori – Teil 56/67 (Y 94–94)
+### Schritt 14.72 – Ex spedale di Sant'Onofrio dei Tintori – Teil 72/83 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 2.062
 - **Bauteile:** `r1607726`
 
@@ -1742,9 +2217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.57 – Ex spedale di Sant'Onofrio dei Tintori – Teil 57/67 (Y 94–94)
+### Schritt 14.73 – Ex spedale di Sant'Onofrio dei Tintori – Teil 73/83 (Y 98–98)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 2.069
 - **Bauteile:** `r1607726`
 
@@ -1770,9 +2245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.58 – Ex spedale di Sant'Onofrio dei Tintori – Teil 58/67 (Y 95–95)
+### Schritt 14.74 – Ex spedale di Sant'Onofrio dei Tintori – Teil 74/83 (Y 99–99)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.610
 - **Bauteile:** `r1607726`
 
@@ -1798,9 +2273,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.59 – Ex spedale di Sant'Onofrio dei Tintori – Teil 59/67 (Y 95–95)
+### Schritt 14.75 – Ex spedale di Sant'Onofrio dei Tintori – Teil 75/83 (Y 99–99)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.603
 - **Bauteile:** `r1607726`
 
@@ -1826,9 +2301,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.60 – Ex spedale di Sant'Onofrio dei Tintori – Teil 60/67 (Y 96–96)
+### Schritt 14.76 – Ex spedale di Sant'Onofrio dei Tintori – Teil 76/83 (Y 100–100)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.670
 - **Bauteile:** `r1607726`
 
@@ -1854,9 +2329,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.61 – Ex spedale di Sant'Onofrio dei Tintori – Teil 61/67 (Y 96–96)
+### Schritt 14.77 – Ex spedale di Sant'Onofrio dei Tintori – Teil 77/83 (Y 100–100)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.653
 - **Bauteile:** `r1607726`
 
@@ -1882,9 +2357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.62 – Ex spedale di Sant'Onofrio dei Tintori – Teil 62/67 (Y 97–97)
+### Schritt 14.78 – Ex spedale di Sant'Onofrio dei Tintori – Teil 78/83 (Y 101–101)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.526
 - **Bauteile:** `r1607726`
 
@@ -1911,9 +2386,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.63 – Ex spedale di Sant'Onofrio dei Tintori – Teil 63/67 (Y 97–97)
+### Schritt 14.79 – Ex spedale di Sant'Onofrio dei Tintori – Teil 79/83 (Y 101–101)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.532
 - **Bauteile:** `r1607726`
 
@@ -1940,9 +2415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.64 – Ex spedale di Sant'Onofrio dei Tintori – Teil 64/67 (Y 98–98)
+### Schritt 14.80 – Ex spedale di Sant'Onofrio dei Tintori – Teil 80/83 (Y 102–102)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.273
 - **Bauteile:** `r1607726`
 
@@ -1969,9 +2444,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.65 – Ex spedale di Sant'Onofrio dei Tintori – Teil 65/67 (Y 98–98)
+### Schritt 14.81 – Ex spedale di Sant'Onofrio dei Tintori – Teil 81/83 (Y 102–102)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.278
 - **Bauteile:** `r1607726`
 
@@ -1998,9 +2473,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.66 – Ex spedale di Sant'Onofrio dei Tintori – Teil 66/67 (Y 99–99)
+### Schritt 14.82 – Ex spedale di Sant'Onofrio dei Tintori – Teil 82/83 (Y 103–103)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.817
 - **Bauteile:** `r1607726`
 
@@ -2027,9 +2502,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.67 – Ex spedale di Sant'Onofrio dei Tintori – Teil 67/67 (Y 100–106)
+### Schritt 14.83 – Ex spedale di Sant'Onofrio dei Tintori – Teil 83/83 (Y 104–110)
 
-- **Y-Bereich:** 100 bis 106
+- **Y-Bereich:** 104 bis 110
 - **Blöcke:** 1.747
 - **Bauteile:** `r1607726`
 
@@ -2056,9 +2531,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.68 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 1/14 (Y 63–74)
+### Schritt 14.84 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 1/14 (Y 67–78)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.911
 - **Bauteile:** `r1607726_innen`
 
@@ -2098,9 +2573,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.69 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 2/14 (Y 74–74)
+### Schritt 14.85 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 2/14 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.787
 - **Bauteile:** `r1607726_innen`
 
@@ -2127,9 +2602,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.70 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 3/14 (Y 74–74)
+### Schritt 14.86 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 3/14 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.861
 - **Bauteile:** `r1607726_innen`
 
@@ -2156,9 +2631,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.71 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 4/14 (Y 74–74)
+### Schritt 14.87 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 4/14 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.772
 - **Bauteile:** `r1607726_innen`
 
@@ -2192,9 +2667,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.72 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 5/14 (Y 74–74)
+### Schritt 14.88 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 5/14 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.803
 - **Bauteile:** `r1607726_innen`
 
@@ -2221,9 +2696,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.73 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 6/14 (Y 74–74)
+### Schritt 14.89 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 6/14 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.806
 - **Bauteile:** `r1607726_innen`
 
@@ -2250,9 +2725,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.74 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 7/14 (Y 74–74)
+### Schritt 14.90 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 7/14 (Y 78–78)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.812
 - **Bauteile:** `r1607726_innen`
 
@@ -2279,9 +2754,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.75 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 8/14 (Y 75–83)
+### Schritt 14.91 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 8/14 (Y 79–87)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.840
 - **Bauteile:** `r1607726_innen`
 
@@ -2323,9 +2798,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.76 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 9/14 (Y 83–83)
+### Schritt 14.92 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 9/14 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.787
 - **Bauteile:** `r1607726_innen`
 
@@ -2352,9 +2827,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.77 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 10/14 (Y 83–83)
+### Schritt 14.93 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 10/14 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.861
 - **Bauteile:** `r1607726_innen`
 
@@ -2381,9 +2856,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.78 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 11/14 (Y 83–83)
+### Schritt 14.94 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 11/14 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.772
 - **Bauteile:** `r1607726_innen`
 
@@ -2417,9 +2892,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.79 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 12/14 (Y 83–83)
+### Schritt 14.95 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 12/14 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.803
 - **Bauteile:** `r1607726_innen`
 
@@ -2446,9 +2921,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.80 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 13/14 (Y 83–83)
+### Schritt 14.96 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 13/14 (Y 87–87)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.806
 - **Bauteile:** `r1607726_innen`
 
@@ -2475,9 +2950,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.81 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 14/14 (Y 83–84)
+### Schritt 14.97 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 14/14 (Y 87–88)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.821
 - **Bauteile:** `r1607726_innen`
 

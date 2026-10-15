@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 26.261 |
 | Bauschritte | 15 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 68 bis 107 |
 | X-Ausdehnung | 797 bis 888 (92 Blöcke) |
 | Z-Ausdehnung | -659 bis -589 (71 Blöcke) |
 | Kleinster Schritt | 1.162 Blöcke (Schritt 7.1) |
@@ -54,9 +54,9 @@
 
 ## Bauschritte
 
-### Schritt 7.1 – Renaissance-Palazzo an Via della Colonna – Teil 1/13 (Y 63–63)
+### Schritt 7.1 – Renaissance-Palazzo an Via della Colonna – Teil 1/13 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.162
 - **Bauteile:** `w307544541`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Renaissance-Palazzo an Via della Colonna – Teil 2/13 (Y 63–65)
+### Schritt 7.2 – Renaissance-Palazzo an Via della Colonna – Teil 2/13 (Y 68–70)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 2.093
 - **Bauteile:** `w307544541`
 
@@ -114,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Renaissance-Palazzo an Via della Colonna – Teil 3/13 (Y 66–69)
+### Schritt 7.3 – Renaissance-Palazzo an Via della Colonna – Teil 3/13 (Y 71–74)
 
-- **Y-Bereich:** 66 bis 69
+- **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.760
 - **Bauteile:** `w307544541`
 
@@ -146,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Renaissance-Palazzo an Via della Colonna – Teil 4/13 (Y 70–73)
+### Schritt 7.4 – Renaissance-Palazzo an Via della Colonna – Teil 4/13 (Y 75–78)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 75 bis 78
 - **Blöcke:** 1.915
 - **Bauteile:** `w307544541`
 
@@ -177,9 +177,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Renaissance-Palazzo an Via della Colonna – Teil 5/13 (Y 74–76)
+### Schritt 7.5 – Renaissance-Palazzo an Via della Colonna – Teil 5/13 (Y 79–81)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.841
 - **Bauteile:** `w307544541`
 
@@ -208,9 +208,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Renaissance-Palazzo an Via della Colonna – Teil 6/13 (Y 77–79)
+### Schritt 7.6 – Renaissance-Palazzo an Via della Colonna – Teil 6/13 (Y 82–84)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.542
 - **Bauteile:** `w307544541`
 
@@ -240,9 +240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Renaissance-Palazzo an Via della Colonna – Teil 7/13 (Y 80–82)
+### Schritt 7.7 – Renaissance-Palazzo an Via della Colonna – Teil 7/13 (Y 85–87)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.608
 - **Bauteile:** `w307544541`
 
@@ -272,9 +272,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Renaissance-Palazzo an Via della Colonna – Teil 8/13 (Y 83–85)
+### Schritt 7.8 – Renaissance-Palazzo an Via della Colonna – Teil 8/13 (Y 88–90)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.841
 - **Bauteile:** `w307544541`
 
@@ -302,9 +302,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Renaissance-Palazzo an Via della Colonna – Teil 9/13 (Y 86–89)
+### Schritt 7.9 – Renaissance-Palazzo an Via della Colonna – Teil 9/13 (Y 91–94)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 2.056
 - **Bauteile:** `w307544541`
 
@@ -333,9 +333,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Renaissance-Palazzo an Via della Colonna – Teil 10/13 (Y 90–91)
+### Schritt 7.10 – Renaissance-Palazzo an Via della Colonna – Teil 10/13 (Y 95–96)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.229
 - **Bauteile:** `w307544541`
 
@@ -364,9 +364,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Renaissance-Palazzo an Via della Colonna – Teil 11/13 (Y 92–93)
+### Schritt 7.11 – Renaissance-Palazzo an Via della Colonna – Teil 11/13 (Y 97–98)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 2.077
 - **Bauteile:** `w307544541`
 
@@ -394,9 +394,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Renaissance-Palazzo an Via della Colonna – Teil 12/13 (Y 94–95)
+### Schritt 7.12 – Renaissance-Palazzo an Via della Colonna – Teil 12/13 (Y 99–100)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.924
 - **Bauteile:** `w307544541`
 
@@ -422,9 +422,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Renaissance-Palazzo an Via della Colonna – Teil 13/13 (Y 96–102)
+### Schritt 7.13 – Renaissance-Palazzo an Via della Colonna – Teil 13/13 (Y 101–107)
 
-- **Y-Bereich:** 96 bis 102
+- **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.509
 - **Bauteile:** `w307544541`
 
@@ -451,9 +451,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Renaissance-Palazzo an Via della Colonna: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 7.14 – Renaissance-Palazzo an Via della Colonna: Innenausbau – Teil 1/2 (Y 68–79)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.859
 - **Bauteile:** `w307544541_innen`
 
@@ -489,9 +489,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.15 – Renaissance-Palazzo an Via della Colonna: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 7.15 – Renaissance-Palazzo an Via della Colonna: Innenausbau – Teil 2/2 (Y 80–89)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.845
 - **Bauteile:** `w307544541_innen`
 

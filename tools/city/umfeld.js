@@ -53,6 +53,19 @@ class Umfeld {
     return best;
   }
 
+  /** Name der benannten Straße (sonst des Platzes), deren Fläche die Zelle enthält, oder null. */
+  nameBei(x, z) {
+    let platz = null;
+    for (const i of this._near(x, z, 0)) {
+      const r = this.polys[i];
+      if (!r.name || r.klasse === 'wasser') continue;
+      if (x < r.bb.x0 || x > r.bb.x1 || z < r.bb.z0 || z > r.bb.z1 || !P.contains(r.poly, x, z)) continue;
+      if (r.klasse === 'strasse') return r.name;
+      if (!platz) platz = r.name;
+    }
+    return platz;
+  }
+
   /** Nächster benannter Straßen- oder Platzname innerhalb maxD Blöcken: { name, d } oder null */
   nearestName(x, z, maxD = 40) {
     let best = null;

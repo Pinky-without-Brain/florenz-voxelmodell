@@ -1,0 +1,22 @@
+{
+  "module": 5,
+  "title": "Ausstattung und Licht",
+  "subtitle": "Bautüte 5: Hochaltar und Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "hochaltar": {
+      "title": "Hochaltar",
+      "description": "In der Cappella maggiore steht der Hochaltar aus hellem Quarz mit goldener Platte bis Y 65.",
+      "tip": "Auf der Achse der Kirche.",
+      "caution": "Rundherum bleibt Platz.",
+      "fact": "Die quadratische Apsis ist typisch für Zisterzienser- und Vallombrosanerkirchen."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "Im Boden setzt du Seelaternen im Raster von 12 Blöcken.",
+      "tip": "Ersetze dazu den Bodenblock.",
+      "caution": "Nicht unter Pfeilern setzen.",
+      "fact": "So bleibt der ganze Innenraum hell."
+    }
+  }
+}

@@ -8,26 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 12.759 |
+| Blöcke | 12.786 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 54 bis 92 |
 | X-Ausdehnung | -2719 bis -2676 (44 Blöcke) |
 | Z-Ausdehnung | -1314 bis -1267 (48 Blöcke) |
 | Kleinster Schritt | 853 Blöcke (Schritt 12.7) |
-| Mittlerer Schritt | 1.595 Blöcke |
+| Mittlerer Schritt | 1.598 Blöcke |
 | Größter Schritt | 1.846 Blöcke (Schritt 12.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.285 | 49,3 % |
+| Endsteinziegel | `end_stone_bricks` | 6.285 | 49,2 % |
 | Terrakotta | `terracotta` | 3.588 | 28,1 % |
-| Weißer Beton | `white_concrete` | 1.373 | 10,8 % |
+| Weißer Beton | `white_concrete` | 1.373 | 10,7 % |
 | Polierter Tuffstein | `polished_tuff` | 1.047 | 8,2 % |
 | Graues Buntglas | `gray_stained_glass` | 222 | 1,7 % |
 | Ziegelsteine | `bricks` | 99 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,5 % |
+| Tuffstein | `tuff` | 27 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,2 % |
 | Polierter Andesit | `polished_andesite` | 19 | 0,1 % |
@@ -43,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w458906114` | Reihenhaus an Via delle Porte Nuove | 10.320 | 12.1–12.6 |
+| 1 | `w458906114` | Reihenhaus an Via delle Porte Nuove | 10.347 | 12.1–12.6 |
 | 2 | `w458906114_innen` | Reihenhaus an Via delle Porte Nuove: Innenausbau | 2.439 | 12.7–12.8 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Reihenhaus an Via delle Porte Nuove – Teil 1/6 (Y 63–66)
+### Schritt 12.1 – Reihenhaus an Via delle Porte Nuove – Teil 1/6 (Y 54–57)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.833
+- **Y-Bereich:** 54 bis 57
+- **Blöcke:** 1.598
 - **Bauteile:** `w458906114`
 
 **Teileliste**
@@ -59,9 +60,9 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.047 |
-| Endsteinziegel | `end_stone_bricks` | 716 |
-| Weißer Beton | `white_concrete` | 61 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Endsteinziegel | `end_stone_bricks` | 518 |
+| Tuffstein | `tuff` | 27 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
@@ -79,20 +80,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Reihenhaus an Via delle Porte Nuove – Teil 2/6 (Y 67–72)
+### Schritt 12.2 – Reihenhaus an Via delle Porte Nuove – Teil 2/6 (Y 58–64)
 
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.575
+- **Y-Bereich:** 58 bis 64
+- **Blöcke:** 1.837
 - **Bauteile:** `w458906114`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.321 |
-| Weißer Beton | `white_concrete` | 193 |
+| Endsteinziegel | `end_stone_bricks` | 1.519 |
+| Weißer Beton | `white_concrete` | 254 |
 | Graues Buntglas | `gray_stained_glass` | 51 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Polierter Andesit | `polished_andesite` | 13 |
 
 **Beschreibung**
 
@@ -110,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Reihenhaus an Via delle Porte Nuove – Teil 3/6 (Y 73–79)
+### Schritt 12.3 – Reihenhaus an Via delle Porte Nuove – Teil 3/6 (Y 65–71)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.846
 - **Bauteile:** `w458906114`
 
@@ -140,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Reihenhaus an Via delle Porte Nuove – Teil 4/6 (Y 80–85)
+### Schritt 12.4 – Reihenhaus an Via delle Porte Nuove – Teil 4/6 (Y 72–77)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 72 bis 77
 - **Blöcke:** 1.578
 - **Bauteile:** `w458906114`
 
@@ -170,9 +171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.5 – Reihenhaus an Via delle Porte Nuove – Teil 5/6 (Y 86–92)
+### Schritt 12.5 – Reihenhaus an Via delle Porte Nuove – Teil 5/6 (Y 78–84)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.846
 - **Bauteile:** `w458906114`
 
@@ -200,9 +201,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Reihenhaus an Via delle Porte Nuove – Teil 6/6 (Y 93–100)
+### Schritt 12.6 – Reihenhaus an Via delle Porte Nuove – Teil 6/6 (Y 85–92)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.642
 - **Bauteile:** `w458906114`
 
@@ -230,9 +231,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 12.7 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 1/2 (Y 55–70)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 55 bis 70
 - **Blöcke:** 853
 - **Bauteile:** `w458906114_innen`
 
@@ -268,9 +269,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.8 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 12.8 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 2/2 (Y 71–78)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.586
 - **Bauteile:** `w458906114_innen`
 

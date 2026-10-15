@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 3.921 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 60 bis 95 |
 | X-Ausdehnung | -2564 bis -2547 (18 Blöcke) |
 | Z-Ausdehnung | 1490 bis 1509 (20 Blöcke) |
 | Kleinster Schritt | 369 Blöcke (Schritt 40.3) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.099 | 53,5 % |
+| Tuffstein | `tuff` | 2.097 | 53,5 % |
 | Polierter Andesit | `polished_andesite` | 584 | 14,9 % |
 | Terrakotta | `terracotta` | 483 | 12,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 223 | 5,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 225 | 5,7 % |
 | Graues Buntglas | `gray_stained_glass` | 207 | 5,3 % |
 | Polierter Tuffstein | `polished_tuff` | 201 | 5,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,6 % |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 40.1 – Wohnturm an Via Gusciana – Teil 1/2 (Y 63–78)
+### Schritt 40.1 – Wohnturm an Via Gusciana – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 60 bis 75
 - **Blöcke:** 1.747
 - **Bauteile:** `w464120152`
 
@@ -58,10 +58,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.044 |
+| Tuffstein | `tuff` | 1.045 |
 | Polierter Andesit | `polished_andesite` | 294 |
 | Polierter Tuffstein | `polished_tuff` | 201 |
-| Tuffsteinziegel | `tuff_bricks` | 110 |
+| Tuffsteinziegel | `tuff_bricks` | 109 |
 | Graues Buntglas | `gray_stained_glass` | 98 |
 
 **Beschreibung**
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.2 – Wohnturm an Via Gusciana – Teil 2/2 (Y 79–98)
+### Schritt 40.2 – Wohnturm an Via Gusciana – Teil 2/2 (Y 76–95)
 
-- **Y-Bereich:** 79 bis 98
+- **Y-Bereich:** 76 bis 95
 - **Blöcke:** 1.805
 - **Bauteile:** `w464120152`
 
@@ -90,10 +90,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.055 |
+| Tuffstein | `tuff` | 1.052 |
 | Polierter Andesit | `polished_andesite` | 290 |
 | Terrakotta | `terracotta` | 228 |
-| Tuffsteinziegel | `tuff_bricks` | 113 |
+| Tuffsteinziegel | `tuff_bricks` | 116 |
 | Graues Buntglas | `gray_stained_glass` | 109 |
 | Ziegelsteine | `bricks` | 10 |
 
@@ -115,7 +115,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 40.3 – Wohnturm an Via Gusciana: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 369
 - **Bauteile:** `w464120152_innen`
 

@@ -1,0 +1,29 @@
+{
+  "module": 4,
+  "title": "Campanile",
+  "subtitle": "Bautüte 4: der sechseckige Glockenturm",
+  "icon": "🔔",
+  "parts": {
+    "turmschaft": {
+      "title": "Turmschaft",
+      "description": "Auf dem alten Sockel steigt der sechseckige Schaft aus Pietra forte bis Y 114.",
+      "tip": "Zwei Blöcke dicke Wände.",
+      "caution": "Innen ist der Schaft hohl und im Modell ohne Zugang.",
+      "fact": "1307 wurde der alte Turm zur Strafe für die Mönche, die eine Steuer verweigerten, auf die halbe Höhe gekürzt."
+    },
+    "glockengeschosse": {
+      "title": "Glockengeschosse",
+      "description": "Darüber folgen drei Geschosse mit immer mehr Öffnungen je Seite: einfache Fenster (Y 118 bis 126), zweiteilige (Y 132 bis 144) und dreiteilige (Y 150 bis 164), getrennt durch Gesimse und Holzböden.",
+      "tip": "Die Öffnungen liegen in den Seitenmitten.",
+      "caution": "Lass die Öffnungen frei.",
+      "fact": "Der neue Turm entstand 1310 bis 1330 auf Betreiben von Kardinal Matteo Orsini."
+    },
+    "turmspitze": {
+      "title": "Turmspitze",
+      "description": "Obenauf sitzt eine spitze, sechseckige Pyramide aus Ziegeln bis Y 206, oben Kupfer.",
+      "tip": "Sie wird alle paar Lagen schmaler.",
+      "caution": "Innen hohl und unzugänglich.",
+      "fact": "Mit etwa 70 Metern ist der Turm eine der markanten Spitzen im Stadtbild."
+    }
+  }
+}

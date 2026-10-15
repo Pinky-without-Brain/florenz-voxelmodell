@@ -156,6 +156,16 @@ window.ProjectLoader = (function () {
     });
   }
 
+  // Rohdaten eines Moduls freigeben (Stadtansicht: ferne Module entladen); beim nächsten Bedarf wird die Datei neu geladen
+  function forgetModule(id, n) {
+    if (id === "duomo") return;
+    var e = entry(id);
+    var m = e && e.modules.filter(function (x) { return x.n === n; })[0];
+    if (window.PROJECT_DATA_V3[id]) delete window.PROJECT_DATA_V3[id][n];
+    if (m) delete scriptCache[m.file];
+    delete projectCache[id];
+  }
+
   // Demo-Projekt nur mit ?demo=1 (nicht im generierten Index)
   function loadDemoIfRequested() {
     try {
@@ -167,6 +177,6 @@ window.ProjectLoader = (function () {
   return {
     index: index, entry: entry, loadScript: loadScript, loadBasis: loadBasis, loadModule: loadModule, loadProject: loadProject,
     fillWorld: fillWorld, fillWorldModules: fillWorldModules, worldFor: worldFor, blockInfo: blockInfo, forEachRun: forEachRun, decodeRuns: decodeRuns,
-    loadDemoIfRequested: loadDemoIfRequested
+    loadDemoIfRequested: loadDemoIfRequested, forgetModule: forgetModule
   };
 })();

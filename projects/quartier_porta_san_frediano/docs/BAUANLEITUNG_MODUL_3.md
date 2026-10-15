@@ -8,24 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.673 |
+| Blöcke | 5.860 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 52 bis 88 |
 | X-Ausdehnung | -3033 bis -3010 (24 Blöcke) |
 | Z-Ausdehnung | 808 bis 843 (36 Blöcke) |
-| Kleinster Schritt | 1.809 Blöcke (Schritt 3.3) |
-| Mittlerer Schritt | 1.891 Blöcke |
-| Größter Schritt | 1.944 Blöcke (Schritt 3.1) |
+| Kleinster Schritt | 1.940 Blöcke (Schritt 3.1) |
+| Mittlerer Schritt | 1.953 Blöcke |
+| Größter Schritt | 1.980 Blöcke (Schritt 3.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 3.626 | 63,9 % |
-| Glatter Stein | `smooth_stone` | 994 | 17,5 % |
-| Graues Buntglas | `gray_stained_glass` | 389 | 6,9 % |
-| Terrakotta | `terracotta` | 358 | 6,3 % |
-| Polierter Tuffstein | `polished_tuff` | 277 | 4,9 % |
+| Weißer Beton | `white_concrete` | 3.626 | 61,9 % |
+| Glatter Stein | `smooth_stone` | 994 | 17,0 % |
+| Graues Buntglas | `gray_stained_glass` | 389 | 6,6 % |
+| Terrakotta | `terracotta` | 358 | 6,1 % |
+| Polierter Tuffstein | `polished_tuff` | 277 | 4,7 % |
+| Tuffstein | `tuff` | 187 | 3,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 24 | 0,4 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Seelaterne | `sea_lantern` | 2 | 0,0 % |
@@ -34,24 +35,25 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w484825985` | Haus w484825985 | 5.671 | 3.1–3.3 |
+| 1 | `w484825985` | Haus w484825985 | 5.858 | 3.1–3.3 |
 | 2 | `w484825985_innen` | Haus w484825985: Innenausbau | 2 | 3.3 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Haus w484825985 – Teil 1/3 (Y 63–73)
+### Schritt 3.1 – Haus w484825985 – Teil 1/3 (Y 52–63)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.944
+- **Y-Bereich:** 52 bis 63
+- **Blöcke:** 1.940
 - **Bauteile:** `w484825985`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.268 |
-| Glatter Stein | `smooth_stone` | 315 |
+| Weißer Beton | `white_concrete` | 1.157 |
 | Polierter Tuffstein | `polished_tuff` | 277 |
+| Glatter Stein | `smooth_stone` | 235 |
+| Tuffstein | `tuff` | 187 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Fichtenholz-Bretter | `spruce_planks` | 6 |
 
@@ -71,18 +73,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Haus w484825985 – Teil 2/3 (Y 74–85)
+### Schritt 3.2 – Haus w484825985 – Teil 2/3 (Y 64–75)
 
-- **Y-Bereich:** 74 bis 85
-- **Blöcke:** 1.920
+- **Y-Bereich:** 64 bis 75
+- **Blöcke:** 1.940
 - **Bauteile:** `w484825985`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.238 |
-| Glatter Stein | `smooth_stone` | 446 |
+| Weißer Beton | `white_concrete` | 1.233 |
+| Glatter Stein | `smooth_stone` | 471 |
 | Graues Buntglas | `gray_stained_glass` | 224 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
 
@@ -102,19 +104,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Haus w484825985 – Teil 3/3 (Y 86–97) & Haus w484825985: Innenausbau
+### Schritt 3.3 – Haus w484825985 – Teil 3/3 (Y 76–88) & Haus w484825985: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
-- **Blöcke:** 1.809
+- **Y-Bereich:** 54 bis 88
+- **Blöcke:** 1.980
 - **Bauteile:** `w484825985`, `w484825985_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.120 |
+| Weißer Beton | `white_concrete` | 1.236 |
 | Terrakotta | `terracotta` | 358 |
-| Glatter Stein | `smooth_stone` | 233 |
+| Glatter Stein | `smooth_stone` | 288 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Fichtenholz-Bretter | `spruce_planks` | 6 |
 | Ziegelsteine | `bricks` | 3 |

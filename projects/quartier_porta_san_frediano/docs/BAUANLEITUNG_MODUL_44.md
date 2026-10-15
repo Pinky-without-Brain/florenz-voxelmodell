@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 12.644 |
-| Bauschritte | 7 |
-| Y-Bereich | 63 bis 99 |
+| Blöcke | 13.268 |
+| Bauschritte | 8 |
+| Y-Bereich | 59 bis 96 |
 | X-Ausdehnung | -2678 bis -2650 (29 Blöcke) |
 | Z-Ausdehnung | 389 bis 446 (58 Blöcke) |
-| Kleinster Schritt | 1.552 Blöcke (Schritt 44.7) |
-| Mittlerer Schritt | 1.806 Blöcke |
-| Größter Schritt | 1.938 Blöcke (Schritt 44.6) |
+| Kleinster Schritt | 1.498 Blöcke (Schritt 44.5) |
+| Mittlerer Schritt | 1.659 Blöcke |
+| Größter Schritt | 1.904 Blöcke (Schritt 44.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 6.768 | 53,5 % |
-| Terrakotta | `terracotta` | 2.217 | 17,5 % |
-| Weißer Beton | `white_concrete` | 1.426 | 11,3 % |
-| Polierter Tuffstein | `polished_tuff` | 776 | 6,1 % |
-| Graues Buntglas | `gray_stained_glass` | 692 | 5,5 % |
-| Grüner Beton | `green_concrete` | 369 | 2,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.768 | 51,0 % |
+| Terrakotta | `terracotta` | 2.217 | 16,7 % |
+| Weißer Beton | `white_concrete` | 1.426 | 10,7 % |
+| Polierter Tuffstein | `polished_tuff` | 774 | 5,8 % |
+| Graues Buntglas | `gray_stained_glass` | 692 | 5,2 % |
+| Tuffstein | `tuff` | 624 | 4,7 % |
+| Grüner Beton | `green_concrete` | 369 | 2,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 132 | 1,0 % |
-| Ziegelsteine | `bricks` | 59 | 0,5 % |
+| Ziegelsteine | `bricks` | 59 | 0,4 % |
 | Polierter Andesit | `polished_andesite` | 50 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,2 % |
@@ -38,36 +39,45 @@
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 100 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118884412` | Reihenhaus an Lungarno Santa Rosa | 11.092 | 44.1–44.6 |
-| 2 | `w118884412_innen` | Reihenhaus an Lungarno Santa Rosa: Innenausbau | 1.552 | 44.7 |
+| 1 | `w118884412` | Reihenhaus an Lungarno Santa Rosa | 11.716 | 44.1–44.7 |
+| 2 | `w118884412_innen` | Reihenhaus an Lungarno Santa Rosa: Innenausbau | 1.552 | 44.8 |
 
 ## Bauschritte
 
-### Schritt 44.1 – Reihenhaus an Lungarno Santa Rosa – Teil 1/6 (Y 63–66)
+### Schritt 44.1 – Reihenhaus an Lungarno Santa Rosa – Teil 1/7 (Y 59–61)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.736
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.720
 - **Bauteile:** `w118884412`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 857 |
-| Polierter Tuffstein | `polished_tuff` | 776 |
-| Weißer Beton | `white_concrete` | 94 |
-| Glatter Stein | `smooth_stone` | 9 |
+| Polierter Tuffstein | `polished_tuff` | 774 |
+| Tuffstein | `tuff` | 624 |
+| Glatter Sandstein | `smooth_sandstone` | 317 |
+| Glatter Stein | `smooth_stone` | 3 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -85,22 +95,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.2 – Reihenhaus an Lungarno Santa Rosa – Teil 2/6 (Y 67–72)
+### Schritt 44.2 – Reihenhaus an Lungarno Santa Rosa – Teil 2/7 (Y 62–66)
 
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.858
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.508
 - **Bauteile:** `w118884412`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.385 |
+| Glatter Sandstein | `smooth_sandstone` | 1.036 |
 | Weißer Beton | `white_concrete` | 226 |
 | Graues Buntglas | `gray_stained_glass` | 109 |
 | Grüner Beton | `green_concrete` | 72 |
 | Polierter Andesit | `polished_andesite` | 50 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Glatter Stein | `smooth_stone` | 15 |
 
 **Beschreibung**
 
@@ -118,71 +128,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Reihenhaus an Lungarno Santa Rosa – Teil 3/6 (Y 73–78)
+### Schritt 44.3 – Reihenhaus an Lungarno Santa Rosa – Teil 3/7 (Y 67–72)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.828
-- **Bauteile:** `w118884412`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.124 |
-| Weißer Beton | `white_concrete` | 384 |
-| Graues Buntglas | `gray_stained_glass` | 212 |
-| Grüner Beton | `green_concrete` | 108 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.4 – Reihenhaus an Lungarno Santa Rosa – Teil 4/6 (Y 79–84)
-
-- **Y-Bereich:** 79 bis 84
-- **Blöcke:** 1.828
-- **Bauteile:** `w118884412`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.224 |
-| Weißer Beton | `white_concrete` | 284 |
-| Graues Buntglas | `gray_stained_glass` | 212 |
-| Grüner Beton | `green_concrete` | 108 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.5 – Reihenhaus an Lungarno Santa Rosa – Teil 5/6 (Y 85–90)
-
-- **Y-Bereich:** 85 bis 90
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.904
 - **Bauteile:** `w118884412`
 
@@ -190,7 +138,39 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.452 |
+| Glatter Sandstein | `smooth_sandstone` | 1.451 |
+| Weißer Beton | `white_concrete` | 286 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Grüner Beton | `green_concrete` | 54 |
+| Glatter Stein | `smooth_stone` | 7 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.4 – Reihenhaus an Lungarno Santa Rosa – Teil 4/7 (Y 73–77)
+
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.574
+- **Bauteile:** `w118884412`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.122 |
 | Weißer Beton | `white_concrete` | 292 |
 | Graues Buntglas | `gray_stained_glass` | 106 |
 | Grüner Beton | `green_concrete` | 54 |
@@ -211,22 +191,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.6 – Reihenhaus an Lungarno Santa Rosa – Teil 6/6 (Y 91–99)
+### Schritt 44.5 – Reihenhaus an Lungarno Santa Rosa – Teil 5/7 (Y 78–82)
 
-- **Y-Bereich:** 91 bis 99
-- **Blöcke:** 1.938
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.498
 - **Bauteile:** `w118884412`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 927 |
-| Glatter Sandstein | `smooth_sandstone` | 726 |
-| Weißer Beton | `white_concrete` | 146 |
-| Ziegelsteine | `bricks` | 59 |
-| Graues Buntglas | `gray_stained_glass` | 53 |
-| Grüner Beton | `green_concrete` | 27 |
+| Glatter Sandstein | `smooth_sandstone` | 894 |
+| Weißer Beton | `white_concrete` | 284 |
+| Graues Buntglas | `gray_stained_glass` | 212 |
+| Grüner Beton | `green_concrete` | 108 |
 
 **Beschreibung**
 
@@ -244,9 +222,71 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.7 – Reihenhaus an Lungarno Santa Rosa: Innenausbau
+### Schritt 44.6 – Reihenhaus an Lungarno Santa Rosa – Teil 6/7 (Y 83–88)
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 83 bis 88
+- **Blöcke:** 1.866
+- **Bauteile:** `w118884412`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.388 |
+| Weißer Beton | `white_concrete` | 238 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Grüner Beton | `green_concrete` | 81 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.7 – Reihenhaus an Lungarno Santa Rosa – Teil 7/7 (Y 89–96)
+
+- **Y-Bereich:** 89 bis 96
+- **Blöcke:** 1.646
+- **Bauteile:** `w118884412`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 927 |
+| Glatter Sandstein | `smooth_sandstone` | 560 |
+| Weißer Beton | `white_concrete` | 100 |
+| Ziegelsteine | `bricks` | 59 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.8 – Reihenhaus an Lungarno Santa Rosa: Innenausbau
+
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 1.552
 - **Bauteile:** `w118884412_innen`
 

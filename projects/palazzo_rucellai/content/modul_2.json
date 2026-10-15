@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Hof",
+  "subtitle": "Bautüte 2: Hofarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof; dahinter liegt eine Loggia.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Gegenüber steht die Loggia Rucellai, ebenfalls nach Alberti."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 112, weiß verputzt, mit Gesimsen auf Höhe der Geschossböden.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Die Fassade war ursprünglich auf fünf Achsen angelegt und wurde später erweitert."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zum Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Hinter der prachtvollen Fassade liegt ein bescheidener Hof."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen Loggia und Sälen steht im Erdgeschoss eine Innenwand mit Türen (bis Y 79).",
+      "tip": "Türen in regelmäßigem Abstand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Die Sitzbank am Sockel lud Besucher und Passanten ein."
+    }
+  }
+}

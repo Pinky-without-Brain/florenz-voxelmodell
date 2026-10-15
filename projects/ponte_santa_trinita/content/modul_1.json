@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Bögen",
+  "subtitle": "Bautüte 1: drei flache, elliptische Bögen",
+  "icon": "🌉",
+  "parts": {
+    "boegen": {
+      "title": "Bögen",
+      "description": "Zwischen Ufern und Pfeilern spannen sich drei flache, elliptische Bögen (3 insgesamt); sie beginnen zwei bis drei Lagen über dem Wasser und reichen bis kurz unter die Fahrbahn.",
+      "tip": "Baue die Bögen von den Pfeilern zur Mitte hin.",
+      "caution": "Unter den Bögen bleibt die Durchfahrt frei.",
+      "fact": "Deutsche Truppen sprengten die Brücke in der Nacht zum 3. August 1944; 1958 stand sie wieder, aus den geborgenen Steinen."
+    }
+  }
+}

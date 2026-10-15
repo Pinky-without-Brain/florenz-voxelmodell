@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.466 |
+| Blöcke | 7.487 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 93 bis 130 |
 | X-Ausdehnung | -2790 bis -2759 (32 Blöcke) |
 | Z-Ausdehnung | 2435 bis 2464 (30 Blöcke) |
 | Kleinster Schritt | 1.058 Blöcke (Schritt 8.5) |
-| Mittlerer Schritt | 1.493 Blöcke |
-| Größter Schritt | 1.774 Blöcke (Schritt 8.2) |
+| Mittlerer Schritt | 1.497 Blöcke |
+| Größter Schritt | 1.770 Blöcke (Schritt 8.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 4.300 | 57,6 % |
-| Terrakotta | `terracotta` | 1.538 | 20,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 639 | 8,6 % |
+| Weißer Beton | `white_concrete` | 4.300 | 57,4 % |
+| Terrakotta | `terracotta` | 1.538 | 20,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 639 | 8,5 % |
 | Polierter Tuffstein | `polished_tuff` | 501 | 6,7 % |
 | Graues Buntglas | `gray_stained_glass` | 254 | 3,4 % |
 | Glatter Stein | `smooth_stone` | 70 | 0,9 % |
@@ -31,6 +31,7 @@
 | Ziegelsteine | `bricks` | 42 | 0,6 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,3 % |
+| Tuffstein | `tuff` | 21 | 0,3 % |
 | Seelaterne | `sea_lantern` | 12 | 0,2 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -43,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464975840` | Reihenhaus an Via Ippolito Pindemonte | 6.408 | 8.1–8.4 |
+| 1 | `w464975840` | Reihenhaus an Via Ippolito Pindemonte | 6.429 | 8.1–8.4 |
 | 2 | `w464975840_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.058 | 8.5 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 63–69)
+### Schritt 8.1 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 93–100)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.520
+- **Y-Bereich:** 93 bis 100
+- **Blöcke:** 1.541
 - **Bauteile:** `w464975840`
 
 **Teileliste**
@@ -63,6 +64,7 @@
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Hellgrauer Beton | `light_gray_concrete` | 78 |
 | Glatter Stein | `smooth_stone` | 48 |
+| Tuffstein | `tuff` | 21 |
 
 **Beschreibung**
 
@@ -80,17 +82,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 70–79)
+### Schritt 8.2 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 101–109)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.774
+- **Y-Bereich:** 101 bis 109
+- **Blöcke:** 1.593
 - **Bauteile:** `w464975840`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.483 |
+| Weißer Beton | `white_concrete` | 1.302 |
 | Hellgrauer Beton | `light_gray_concrete` | 205 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Glatter Stein | `smooth_stone` | 22 |
@@ -111,17 +113,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 80–88)
+### Schritt 8.3 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 110–119)
 
-- **Y-Bereich:** 80 bis 88
-- **Blöcke:** 1.589
+- **Y-Bereich:** 110 bis 119
+- **Blöcke:** 1.770
 - **Bauteile:** `w464975840`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.277 |
+| Weißer Beton | `white_concrete` | 1.458 |
 | Hellgrauer Beton | `light_gray_concrete` | 242 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 
@@ -141,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 89–99)
+### Schritt 8.4 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 120–130)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 120 bis 130
 - **Blöcke:** 1.525
 - **Bauteile:** `w464975840`
 
@@ -175,7 +177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.5 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 94 bis 117
 - **Blöcke:** 1.058
 - **Bauteile:** `w464975840_innen`
 
