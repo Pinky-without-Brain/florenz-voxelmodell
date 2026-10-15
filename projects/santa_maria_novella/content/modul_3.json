@@ -1,0 +1,50 @@
+{
+  "module": 3,
+  "title": "Wände, Querhaus und Chor",
+  "subtitle": "Bautüte 3: Außenwände, Querhaus, Kapellen und Cappella Tornabuoni",
+  "icon": "🧱",
+  "parts": {
+    "seitenwaende": {
+      "title": "Seitenwände",
+      "description": "Die Außenwände sind drei Blöcke dick: außen Ziegel und Steinziegel über einem Sockel aus Glattem Stein, innen weißer Putz.",
+      "tip": "Die Wände folgen dem Gebäudeumriss.",
+      "caution": "Fenster setzt du später ein.",
+      "fact": "An der Ostseite liegt die Via degli Avelli mit Grabnischen."
+    },
+    "querhaus_waende": {
+      "title": "Querhauswände",
+      "description": "Das Querhaus ist 61,54 Meter lang; seine Wände reichen bis zum Dach.",
+      "tip": "An der Westseite schließt der Campanile an.",
+      "caution": "Lass die Tür zum Turm frei.",
+      "fact": "Das Querhaus macht den Grundriss zu einem T."
+    },
+    "querhaus_nordwand": {
+      "title": "Nordwand mit Kapellenbögen",
+      "description": "Die Nordwand des Querhauses öffnet sich mit Spitzbögen zu den Kapellen und mit einem hohen Bogen zur Cappella Tornabuoni.",
+      "tip": "Die Bögen der Kapellen reichen bis Lage 30.",
+      "caution": "Lass die Bögen offen.",
+      "fact": "Hier liegen die Cappella Strozzi, die Cappella Gondi und der Hauptchor."
+    },
+    "kapellenwaende": {
+      "title": "Kapellenwände",
+      "description": "Zwischen den Kapellen und neben dem Chor stehen Trennwände aus weißem Putz.",
+      "tip": "Sie reichen bis unter das Dach.",
+      "caution": "Sie stehen quer zum Querhaus.",
+      "fact": "Giuliano da Sangallo gestaltete 1503 die Cappella Gondi."
+    },
+    "chor": {
+      "title": "Cappella Tornabuoni",
+      "description": "Der Hauptchor ist rechteckig, seine Wände drei Blöcke dick.",
+      "tip": "Er liegt in der Achse des Mittelschiffs.",
+      "caution": "Die hohen Fenster setzt du danach ein.",
+      "fact": "Domenico Ghirlandaio malte hier das Leben Mariens und Johannes des Täufers."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Je Joch ein Spitzbogenfenster in den Seitenwänden, hohe Fenster in den Stirnwänden des Querhauses und drei Lanzetten in der Rückwand des Chors.",
+      "tip": "Alles aus farbigem Glas.",
+      "caution": "Die Fenster gehen durch die ganze Wand.",
+      "fact": "Die Chorfenster entwarf Ghirlandaio."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "santa_maria_novella",
+  "title": "Basilica di Santa Maria Novella",
+  "type": "wahrzeichen",
+  "gebaeude": ["w449369047"],
+  "bodenY": 61,
+  "rahmen": { "ox": -1226.9, "oz": -214.5, "thetaDeg": -90 },
+  "masken": {
+    "campanile": { "gebaeude": ["w449369043"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

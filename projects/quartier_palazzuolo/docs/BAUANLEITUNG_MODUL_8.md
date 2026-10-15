@@ -2,49 +2,48 @@
 
 # Bauanleitung Modul 8: Isolato I0306 – Via della Scala
 
-*Quartier Via Palazzuolo: 17 Häuser*
+*Quartier Via Palazzuolo: 16 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 598.261 |
-| Bauschritte | 337 |
+| Blöcke | 588.806 |
+| Bauschritte | 330 |
 | Y-Bereich | 63 bis 107 |
 | X-Ausdehnung | -1703 bis -1239 (465 Blöcke) |
 | Z-Ausdehnung | -445 bis -10 (436 Blöcke) |
-| Kleinster Schritt | 570 Blöcke (Schritt 8.240) |
-| Mittlerer Schritt | 1.775 Blöcke |
+| Kleinster Schritt | 582 Blöcke (Schritt 8.164) |
+| Mittlerer Schritt | 1.784 Blöcke |
 | Größter Schritt | 2.098 Blöcke (Schritt 8.138) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 256.380 | 42,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 104.818 | 17,5 % |
-| Polierter Tuffstein | `polished_tuff` | 76.030 | 12,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 47.900 | 8,0 % |
-| Orange Keramik | `orange_terracotta` | 24.970 | 4,2 % |
-| Rosa Keramik | `pink_terracotta` | 16.202 | 2,7 % |
-| Weißer Beton | `white_concrete` | 15.811 | 2,6 % |
-| Glatter Stein | `smooth_stone` | 15.107 | 2,5 % |
-| Endsteinziegel | `end_stone_bricks` | 8.630 | 1,4 % |
+| Terrakotta | `terracotta` | 256.362 | 43,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 104.818 | 17,8 % |
+| Polierter Tuffstein | `polished_tuff` | 75.805 | 12,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 40.070 | 6,8 % |
+| Orange Keramik | `orange_terracotta` | 24.610 | 4,2 % |
+| Rosa Keramik | `pink_terracotta` | 16.202 | 2,8 % |
+| Weißer Beton | `white_concrete` | 15.811 | 2,7 % |
+| Glatter Stein | `smooth_stone` | 15.107 | 2,6 % |
+| Endsteinziegel | `end_stone_bricks` | 8.630 | 1,5 % |
 | Graues Buntglas | `gray_stained_glass` | 8.397 | 1,4 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.192 | 1,2 % |
-| Ziegelsteine | `bricks` | 4.557 | 0,8 % |
+| Ziegelsteine | `bricks` | 4.544 | 0,8 % |
 | Grüner Beton | `green_concrete` | 3.584 | 0,6 % |
 | Polierter Andesit | `polished_andesite` | 3.444 | 0,6 % |
-| Seelaterne | `sea_lantern` | 1.249 | 0,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.122 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 900 | 0,2 % |
-| Tuffstein | `tuff` | 870 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 250 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 234 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 113 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 105 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 98 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 98 | 0,0 % |
+| Seelaterne | `sea_lantern` | 1.245 | 0,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.121 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 832 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 247 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 231 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 92 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 92 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 88 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 82 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 40 | 0,0 % |
@@ -55,7 +54,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 702 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 648 |
 | Steintreppe | `stone_stairs` | 160 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -64,38 +63,36 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1615373` | Ex monastero della Santissima Concezione | 226.720 | 8.1–8.118 |
 | 2 | `r1615373_innen` | Ex monastero della Santissima Concezione: Innenausbau | 82.267 | 8.118–8.158 |
-| 3 | `r1615528` | Reihenhaus an Piazza Santa Maria Novella | 49.867 | 8.159–8.190 |
-| 4 | `r1615528_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 28.064 | 8.191–8.205 |
-| 5 | `r7108697` | Palazzo des Cinquecento an Via della Scala | 26.888 | 8.206–8.221 |
-| 6 | `r7108697_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 5.685 | 8.222–8.225 |
-| 7 | `w204143229` | Reihenhaus an Via della Scala | 5.468 | 8.226–8.228 |
-| 8 | `w204143229_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.058 | 8.229 |
-| 9 | `w306398156` | Palazzo Dal Borgo | 13.571 | 8.230–8.236 |
-| 10 | `w306398156_innen` | Palazzo Dal Borgo: Innenausbau | 2.480 | 8.237–8.238 |
-| 11 | `w449369043` | Haus w449369043 | 1.276 | 8.239 |
-| 12 | `w449369043_innen` | Haus w449369043: Innenausbau | 570 | 8.240 |
-| 13 | `w449369044` | Reihenhaus an Piazza della Stazione | 5.861 | 8.241–8.243 |
-| 14 | `w449369044_innen` | Reihenhaus an Piazza della Stazione: Innenausbau | 2.254 | 8.244–8.245 |
-| 15 | `w449369045` | Convento dei frati domenicani di S. Maria Novella | 32.522 | 8.246–8.271 |
-| 16 | `w449369045_innen` | Convento dei frati domenicani di S. Maria Novella: Innenausbau | 10.256 | 8.272–8.277 |
-| 17 | `w449369050` | Reihenhaus an Via della Scala | 7.723 | 8.278–8.281 |
-| 18 | `w449369050_innen` | Reihenhaus an Via della Scala: Innenausbau | 3.068 | 8.282–8.283 |
-| 19 | `w482739742` | Reihenhaus an Piazza Santa Maria Novella | 5.871 | 8.284–8.286 |
-| 20 | `w482739742_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 1.463 | 8.287 |
-| 21 | `w482739743` | Reihenhaus an Via della Scala | 6.062 | 8.288–8.290 |
-| 22 | `w482739743_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.604 | 8.291 |
-| 23 | `w482739746` | Reihenhaus an Piazza Santa Maria Novella | 7.369 | 8.292–8.295 |
-| 24 | `w482739746_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 2.798 | 8.296–8.297 |
-| 25 | `w482739751` | Reihenhaus an Via della Scala | 12.831 | 8.298–8.304 |
-| 26 | `w482739751_innen` | Reihenhaus an Via della Scala: Innenausbau | 4.682 | 8.305–8.307 |
-| 27 | `w482739752` | Reihenhaus an Via della Scala | 6.142 | 8.308–8.311 |
-| 28 | `w482739752_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.858 | 8.312 |
-| 29 | `w482739754` | Reihenhaus an Piazza Santa Maria Novella | 6.109 | 8.313–8.315 |
-| 30 | `w482739754_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 2.125 | 8.316–8.317 |
-| 31 | `w482739765` | Reihenhaus an Via della Scala | 5.374 | 8.318–8.320 |
-| 32 | `w482739765_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.808 | 8.321 |
-| 33 | `w482739783` | Palazzo des Cinquecento an Piazza Santa Maria Novella | 20.655 | 8.322–8.333 |
-| 34 | `w482739783_innen` | Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau | 5.912 | 8.334–8.337 |
+| 3 | `r1615528` | Reihenhaus an Piazza Santa Maria Novella | 41.956 | 8.159–8.185 |
+| 4 | `r1615528_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 28.748 | 8.186–8.200 |
+| 5 | `r7108697` | Palazzo des Cinquecento an Via della Scala | 26.888 | 8.201–8.216 |
+| 6 | `r7108697_innen` | Palazzo des Cinquecento an Via della Scala: Innenausbau | 5.685 | 8.217–8.220 |
+| 7 | `w204143229` | Reihenhaus an Via della Scala | 5.468 | 8.221–8.223 |
+| 8 | `w204143229_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.058 | 8.224 |
+| 9 | `w306398156` | Palazzo Dal Borgo | 13.571 | 8.225–8.231 |
+| 10 | `w306398156_innen` | Palazzo Dal Borgo: Innenausbau | 2.480 | 8.232–8.233 |
+| 11 | `w449369044` | Reihenhaus an Piazza della Stazione | 5.476 | 8.234–8.236 |
+| 12 | `w449369044_innen` | Reihenhaus an Piazza della Stazione: Innenausbau | 2.257 | 8.237–8.238 |
+| 13 | `w449369045` | Convento dei frati domenicani di S. Maria Novella | 32.522 | 8.239–8.264 |
+| 14 | `w449369045_innen` | Convento dei frati domenicani di S. Maria Novella: Innenausbau | 10.256 | 8.265–8.270 |
+| 15 | `w449369050` | Reihenhaus an Via della Scala | 7.723 | 8.271–8.274 |
+| 16 | `w449369050_innen` | Reihenhaus an Via della Scala: Innenausbau | 3.068 | 8.275–8.276 |
+| 17 | `w482739742` | Reihenhaus an Piazza Santa Maria Novella | 5.871 | 8.277–8.279 |
+| 18 | `w482739742_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 1.463 | 8.280 |
+| 19 | `w482739743` | Reihenhaus an Via della Scala | 6.062 | 8.281–8.283 |
+| 20 | `w482739743_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.604 | 8.284 |
+| 21 | `w482739746` | Reihenhaus an Piazza Santa Maria Novella | 7.369 | 8.285–8.288 |
+| 22 | `w482739746_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 2.798 | 8.289–8.290 |
+| 23 | `w482739751` | Reihenhaus an Via della Scala | 12.831 | 8.291–8.297 |
+| 24 | `w482739751_innen` | Reihenhaus an Via della Scala: Innenausbau | 4.682 | 8.298–8.300 |
+| 25 | `w482739752` | Reihenhaus an Via della Scala | 6.142 | 8.301–8.304 |
+| 26 | `w482739752_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.858 | 8.305 |
+| 27 | `w482739754` | Reihenhaus an Piazza Santa Maria Novella | 6.109 | 8.306–8.308 |
+| 28 | `w482739754_innen` | Reihenhaus an Piazza Santa Maria Novella: Innenausbau | 2.125 | 8.309–8.310 |
+| 29 | `w482739765` | Reihenhaus an Via della Scala | 5.374 | 8.311–8.313 |
+| 30 | `w482739765_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.808 | 8.314 |
+| 31 | `w482739783` | Palazzo des Cinquecento an Piazza Santa Maria Novella | 20.655 | 8.315–8.326 |
+| 32 | `w482739783_innen` | Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau | 5.912 | 8.327–8.330 |
 
 ## Bauschritte
 
@@ -4809,7 +4806,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.159 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/32 (Y 63–63)
+### Schritt 8.159 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/27 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.994
@@ -4837,7 +4834,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.160 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/32 (Y 63–63)
+### Schritt 8.160 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/27 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.079
@@ -4865,7 +4862,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.161 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/32 (Y 63–63)
+### Schritt 8.161 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/27 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.990
@@ -4893,17 +4890,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.162 – Reihenhaus an Piazza Santa Maria Novella – Teil 4/32 (Y 63–63)
+### Schritt 8.162 – Reihenhaus an Piazza Santa Maria Novella – Teil 4/27 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 2.054
+- **Blöcke:** 1.956
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.054 |
+| Polierter Tuffstein | `polished_tuff` | 1.956 |
 
 **Beschreibung**
 
@@ -4921,17 +4918,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.163 – Reihenhaus an Piazza Santa Maria Novella – Teil 5/32 (Y 63–63)
+### Schritt 8.163 – Reihenhaus an Piazza Santa Maria Novella – Teil 5/27 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.991
+- **Blöcke:** 2.056
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.991 |
+| Polierter Tuffstein | `polished_tuff` | 2.056 |
 
 **Beschreibung**
 
@@ -4949,17 +4946,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.164 – Reihenhaus an Piazza Santa Maria Novella – Teil 6/32 (Y 64–64)
+### Schritt 8.164 – Reihenhaus an Piazza Santa Maria Novella – Teil 6/27 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 843
+- **Blöcke:** 582
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 823 |
+| Hellgrauer Beton | `light_gray_concrete` | 562 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
 | Glatter Stein | `smooth_stone` | 6 |
 
@@ -4979,17 +4976,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.165 – Reihenhaus an Piazza Santa Maria Novella – Teil 7/32 (Y 65–65)
+### Schritt 8.165 – Reihenhaus an Piazza Santa Maria Novella – Teil 7/27 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 843
+- **Blöcke:** 582
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 823 |
+| Hellgrauer Beton | `light_gray_concrete` | 562 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
 | Glatter Stein | `smooth_stone` | 6 |
 
@@ -5009,50 +5006,51 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.166 – Reihenhaus an Piazza Santa Maria Novella – Teil 8/32 (Y 66–66)
+### Schritt 8.166 – Reihenhaus an Piazza Santa Maria Novella – Teil 8/27 (Y 66–67)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 843
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 1.154
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 823 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
-| Glatter Stein | `smooth_stone` | 6 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.167 – Reihenhaus an Piazza Santa Maria Novella – Teil 9/32 (Y 67–68)
-
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.682
-- **Bauteile:** `r1615528`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.590 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Grüner Beton | `green_concrete` | 20 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.094 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
 | Glatter Stein | `smooth_stone` | 12 |
+| Grüner Beton | `green_concrete` | 10 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.167 – Reihenhaus an Piazza Santa Maria Novella – Teil 9/27 (Y 68–70)
+
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.766
+- **Bauteile:** `r1615528`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.653 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Glatter Stein | `smooth_stone` | 27 |
+| Grüner Beton | `green_concrete` | 20 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
@@ -5071,20 +5069,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.168 – Reihenhaus an Piazza Santa Maria Novella – Teil 10/32 (Y 69–69)
+### Schritt 8.168 – Reihenhaus an Piazza Santa Maria Novella – Teil 10/27 (Y 71–72)
 
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 842
+- **Y-Bereich:** 71 bis 72
+- **Blöcke:** 1.208
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 800 |
-| Graues Buntglas | `gray_stained_glass` | 23 |
-| Grüner Beton | `green_concrete` | 10 |
-| Glatter Stein | `smooth_stone` | 9 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.195 |
+| Glatter Stein | `smooth_stone` | 13 |
 
 **Beschreibung**
 
@@ -5102,75 +5098,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.169 – Reihenhaus an Piazza Santa Maria Novella – Teil 11/32 (Y 70–71)
+### Schritt 8.169 – Reihenhaus an Piazza Santa Maria Novella – Teil 11/27 (Y 73–75)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.723
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.774
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.691 |
-| Glatter Stein | `smooth_stone` | 25 |
-| Graues Buntglas | `gray_stained_glass` | 7 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.170 – Reihenhaus an Piazza Santa Maria Novella – Teil 12/32 (Y 72–73)
-
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.730
-- **Bauteile:** `r1615528`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.730 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.171 – Reihenhaus an Piazza Santa Maria Novella – Teil 13/32 (Y 74–75)
-
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.692
-- **Bauteile:** `r1615528`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.622 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.704 |
 | Graues Buntglas | `gray_stained_glass` | 38 |
 | Grüner Beton | `green_concrete` | 32 |
 
@@ -5190,17 +5128,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.172 – Reihenhaus an Piazza Santa Maria Novella – Teil 14/32 (Y 76–77)
+### Schritt 8.170 – Reihenhaus an Piazza Santa Maria Novella – Teil 12/27 (Y 76–78)
 
-- **Y-Bereich:** 76 bis 77
-- **Blöcke:** 1.703
+- **Y-Bereich:** 76 bis 78
+- **Blöcke:** 1.785
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.666 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.748 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Grüner Beton | `green_concrete` | 10 |
 
@@ -5220,17 +5158,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.173 – Reihenhaus an Piazza Santa Maria Novella – Teil 15/32 (Y 78–79)
+### Schritt 8.171 – Reihenhaus an Piazza Santa Maria Novella – Teil 13/27 (Y 79–80)
 
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.730
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.208
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.730 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.208 |
 
 **Beschreibung**
 
@@ -5248,17 +5186,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.174 – Reihenhaus an Piazza Santa Maria Novella – Teil 16/32 (Y 80–80)
+### Schritt 8.172 – Reihenhaus an Piazza Santa Maria Novella – Teil 14/27 (Y 81–83)
 
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 865
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.755
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 865 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.656 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
+| Grüner Beton | `green_concrete` | 42 |
 
 **Beschreibung**
 
@@ -5276,19 +5216,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.175 – Reihenhaus an Piazza Santa Maria Novella – Teil 17/32 (Y 81–82)
+### Schritt 8.173 – Reihenhaus an Piazza Santa Maria Novella – Teil 15/27 (Y 84–85)
 
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.692
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.200
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.622 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
-| Grüner Beton | `green_concrete` | 32 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.192 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
 
 **Beschreibung**
 
@@ -5306,75 +5245,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.176 – Reihenhaus an Piazza Santa Maria Novella – Teil 18/32 (Y 83–84)
+### Schritt 8.174 – Reihenhaus an Piazza Santa Maria Novella – Teil 16/27 (Y 86–88)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.703
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 1.793
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.666 |
-| Graues Buntglas | `gray_stained_glass` | 27 |
-| Grüner Beton | `green_concrete` | 10 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.177 – Reihenhaus an Piazza Santa Maria Novella – Teil 19/32 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.730
-- **Bauteile:** `r1615528`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.730 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.178 – Reihenhaus an Piazza Santa Maria Novella – Teil 20/32 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.711
-- **Bauteile:** `r1615528`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.676 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.758 |
 | Graues Buntglas | `gray_stained_glass` | 19 |
 | Grüner Beton | `green_concrete` | 16 |
 
@@ -5394,18 +5275,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.179 – Reihenhaus an Piazza Santa Maria Novella – Teil 21/32 (Y 89–90)
+### Schritt 8.175 – Reihenhaus an Piazza Santa Maria Novella – Teil 17/27 (Y 89–91)
 
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.692
+- **Y-Bereich:** 89 bis 91
+- **Blöcke:** 1.766
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.628 |
-| Graues Buntglas | `gray_stained_glass` | 38 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.694 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
 | Grüner Beton | `green_concrete` | 26 |
 
 **Beschreibung**
@@ -5424,46 +5305,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.180 – Reihenhaus an Piazza Santa Maria Novella – Teil 22/32 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 857
-- **Bauteile:** `r1615528`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 849 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.181 – Reihenhaus an Piazza Santa Maria Novella – Teil 23/32 (Y 92–93)
+### Schritt 8.176 – Reihenhaus an Piazza Santa Maria Novella – Teil 18/27 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.889
+- **Blöcke:** 1.367
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.889 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.367 |
 
 **Beschreibung**
 
@@ -5481,7 +5333,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.182 – Reihenhaus an Piazza Santa Maria Novella – Teil 24/32 (Y 94–94)
+### Schritt 8.177 – Reihenhaus an Piazza Santa Maria Novella – Teil 19/27 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.917
@@ -5509,17 +5361,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.183 – Reihenhaus an Piazza Santa Maria Novella – Teil 25/32 (Y 94–94)
+### Schritt 8.178 – Reihenhaus an Piazza Santa Maria Novella – Teil 20/27 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.946
+- **Blöcke:** 1.931
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.946 |
+| Terrakotta | `terracotta` | 1.931 |
 
 **Beschreibung**
 
@@ -5537,7 +5389,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.184 – Reihenhaus an Piazza Santa Maria Novella – Teil 26/32 (Y 95–95)
+### Schritt 8.179 – Reihenhaus an Piazza Santa Maria Novella – Teil 21/27 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.132
@@ -5565,17 +5417,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.185 – Reihenhaus an Piazza Santa Maria Novella – Teil 27/32 (Y 95–95)
+### Schritt 8.180 – Reihenhaus an Piazza Santa Maria Novella – Teil 22/27 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.137
+- **Blöcke:** 1.124
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.137 |
+| Terrakotta | `terracotta` | 1.124 |
 
 **Beschreibung**
 
@@ -5593,17 +5445,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.186 – Reihenhaus an Piazza Santa Maria Novella – Teil 28/32 (Y 96–96)
+### Schritt 8.181 – Reihenhaus an Piazza Santa Maria Novella – Teil 23/27 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.915
+- **Blöcke:** 1.903
 - **Bauteile:** `r1615528`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.915 |
+| Terrakotta | `terracotta` | 1.903 |
 
 **Beschreibung**
 
@@ -5621,10 +5473,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.187 – Reihenhaus an Piazza Santa Maria Novella – Teil 29/32 (Y 97–97)
+### Schritt 8.182 – Reihenhaus an Piazza Santa Maria Novella – Teil 24/27 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.300
+- **Blöcke:** 1.292
 - **Bauteile:** `r1615528`
 
 **Teileliste**
@@ -5632,7 +5484,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.140 |
-| Ziegelsteine | `bricks` | 160 |
+| Ziegelsteine | `bricks` | 152 |
 
 **Beschreibung**
 
@@ -5650,7 +5502,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.188 – Reihenhaus an Piazza Santa Maria Novella – Teil 30/32 (Y 98–98)
+### Schritt 8.183 – Reihenhaus an Piazza Santa Maria Novella – Teil 25/27 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.248
@@ -5679,7 +5531,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.189 – Reihenhaus an Piazza Santa Maria Novella – Teil 31/32 (Y 99–100)
+### Schritt 8.184 – Reihenhaus an Piazza Santa Maria Novella – Teil 26/27 (Y 99–100)
 
 - **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.718
@@ -5708,7 +5560,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.190 – Reihenhaus an Piazza Santa Maria Novella – Teil 32/32 (Y 101–107)
+### Schritt 8.185 – Reihenhaus an Piazza Santa Maria Novella – Teil 27/27 (Y 101–107)
 
 - **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.676
@@ -5718,8 +5570,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.458 |
-| Ziegelsteine | `bricks` | 218 |
+| Terrakotta | `terracotta` | 1.457 |
+| Ziegelsteine | `bricks` | 219 |
 
 **Beschreibung**
 
@@ -5737,18 +5589,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.191 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 1/15 (Y 63–72)
+### Schritt 8.186 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 1/15 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.945
+- **Blöcke:** 2.050
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.829 |
-| Seelaterne | `sea_lantern` | 68 |
+| Terrakotta | `terracotta` | 1.933 |
+| Seelaterne | `sea_lantern` | 69 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
@@ -5775,17 +5627,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.192 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 2/15 (Y 72–72)
+### Schritt 8.187 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 2/15 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.864
+- **Blöcke:** 1.865
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.856 |
+| Terrakotta | `terracotta` | 1.857 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
@@ -5804,17 +5656,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.193 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 3/15 (Y 72–72)
+### Schritt 8.188 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 3/15 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.844
+- **Blöcke:** 1.871
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.836 |
+| Terrakotta | `terracotta` | 1.863 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
@@ -5833,18 +5685,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.194 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 4/15 (Y 72–72)
+### Schritt 8.189 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 4/15 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.883
+- **Blöcke:** 1.900
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.873 |
-| Seelaterne | `sea_lantern` | 10 |
+| Terrakotta | `terracotta` | 1.891 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Beschreibung**
 
@@ -5862,17 +5714,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.195 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 5/15 (Y 72–72)
+### Schritt 8.190 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 5/15 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.855
+- **Blöcke:** 1.933
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.841 |
+| Terrakotta | `terracotta` | 1.919 |
 | Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
@@ -5891,19 +5743,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.196 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 6/15 (Y 73–79)
+### Schritt 8.191 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 6/15 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.886
+- **Blöcke:** 1.991
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.829 |
+| Terrakotta | `terracotta` | 1.933 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Seelaterne | `sea_lantern` | 14 |
+| Seelaterne | `sea_lantern` | 15 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -5933,17 +5785,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.197 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 7/15 (Y 79–79)
+### Schritt 8.192 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 7/15 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.864
+- **Blöcke:** 1.865
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.856 |
+| Terrakotta | `terracotta` | 1.857 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
@@ -5962,17 +5814,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.198 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 8/15 (Y 79–79)
+### Schritt 8.193 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 8/15 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.844
+- **Blöcke:** 1.871
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.836 |
+| Terrakotta | `terracotta` | 1.863 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
@@ -5991,18 +5843,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.199 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 9/15 (Y 79–79)
+### Schritt 8.194 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 9/15 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.883
+- **Blöcke:** 1.900
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.873 |
-| Seelaterne | `sea_lantern` | 10 |
+| Terrakotta | `terracotta` | 1.891 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Beschreibung**
 
@@ -6020,17 +5872,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.200 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 10/15 (Y 79–79)
+### Schritt 8.195 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 10/15 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.855
+- **Blöcke:** 1.933
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.841 |
+| Terrakotta | `terracotta` | 1.919 |
 | Seelaterne | `sea_lantern` | 14 |
 
 **Beschreibung**
@@ -6049,19 +5901,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.201 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 11/15 (Y 80–86)
+### Schritt 8.196 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 11/15 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
-- **Blöcke:** 1.886
+- **Blöcke:** 1.991
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.829 |
+| Terrakotta | `terracotta` | 1.933 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Seelaterne | `sea_lantern` | 14 |
+| Seelaterne | `sea_lantern` | 15 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -6091,17 +5943,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.202 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 12/15 (Y 86–86)
+### Schritt 8.197 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 12/15 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.864
+- **Blöcke:** 1.865
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.856 |
+| Terrakotta | `terracotta` | 1.857 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
@@ -6120,17 +5972,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.203 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 13/15 (Y 86–86)
+### Schritt 8.198 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 13/15 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.844
+- **Blöcke:** 1.871
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.836 |
+| Terrakotta | `terracotta` | 1.863 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Beschreibung**
@@ -6149,18 +6001,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.204 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 14/15 (Y 86–86)
+### Schritt 8.199 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 14/15 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.883
+- **Blöcke:** 1.900
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.873 |
-| Seelaterne | `sea_lantern` | 10 |
+| Terrakotta | `terracotta` | 1.891 |
+| Seelaterne | `sea_lantern` | 9 |
 
 **Beschreibung**
 
@@ -6178,17 +6030,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.205 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 15/15 (Y 86–87)
+### Schritt 8.200 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 15/15 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.864
+- **Blöcke:** 1.942
 - **Bauteile:** `r1615528_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.841 |
+| Terrakotta | `terracotta` | 1.919 |
 | Seelaterne | `sea_lantern` | 14 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -6218,7 +6070,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.206 – Palazzo des Cinquecento an Via della Scala – Teil 1/16 (Y 63–63)
+### Schritt 8.201 – Palazzo des Cinquecento an Via della Scala – Teil 1/16 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.675
@@ -6246,7 +6098,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.207 – Palazzo des Cinquecento an Via della Scala – Teil 2/16 (Y 63–63)
+### Schritt 8.202 – Palazzo des Cinquecento an Via della Scala – Teil 2/16 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.726
@@ -6274,7 +6126,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.208 – Palazzo des Cinquecento an Via della Scala – Teil 3/16 (Y 64–66)
+### Schritt 8.203 – Palazzo des Cinquecento an Via della Scala – Teil 3/16 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.872
@@ -6306,7 +6158,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.209 – Palazzo des Cinquecento an Via della Scala – Teil 4/16 (Y 67–68)
+### Schritt 8.204 – Palazzo des Cinquecento an Via della Scala – Teil 4/16 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.214
@@ -6339,7 +6191,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.210 – Palazzo des Cinquecento an Via della Scala – Teil 5/16 (Y 69–71)
+### Schritt 8.205 – Palazzo des Cinquecento an Via della Scala – Teil 5/16 (Y 69–71)
 
 - **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.857
@@ -6371,7 +6223,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.211 – Palazzo des Cinquecento an Via della Scala – Teil 6/16 (Y 72–74)
+### Schritt 8.206 – Palazzo des Cinquecento an Via della Scala – Teil 6/16 (Y 72–74)
 
 - **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.890
@@ -6400,7 +6252,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.212 – Palazzo des Cinquecento an Via della Scala – Teil 7/16 (Y 75–76)
+### Schritt 8.207 – Palazzo des Cinquecento an Via della Scala – Teil 7/16 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.239
@@ -6430,7 +6282,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.213 – Palazzo des Cinquecento an Via della Scala – Teil 8/16 (Y 77–79)
+### Schritt 8.208 – Palazzo des Cinquecento an Via della Scala – Teil 8/16 (Y 77–79)
 
 - **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.827
@@ -6460,7 +6312,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.214 – Palazzo des Cinquecento an Via della Scala – Teil 9/16 (Y 80–82)
+### Schritt 8.209 – Palazzo des Cinquecento an Via della Scala – Teil 9/16 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.869
@@ -6490,7 +6342,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.215 – Palazzo des Cinquecento an Via della Scala – Teil 10/16 (Y 83–85)
+### Schritt 8.210 – Palazzo des Cinquecento an Via della Scala – Teil 10/16 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.890
@@ -6520,7 +6372,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.216 – Palazzo des Cinquecento an Via della Scala – Teil 11/16 (Y 86–87)
+### Schritt 8.211 – Palazzo des Cinquecento an Via della Scala – Teil 11/16 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.218
@@ -6550,7 +6402,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.217 – Palazzo des Cinquecento an Via della Scala – Teil 12/16 (Y 88–90)
+### Schritt 8.212 – Palazzo des Cinquecento an Via della Scala – Teil 12/16 (Y 88–90)
 
 - **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.827
@@ -6580,7 +6432,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.218 – Palazzo des Cinquecento an Via della Scala – Teil 13/16 (Y 91–93)
+### Schritt 8.213 – Palazzo des Cinquecento an Via della Scala – Teil 13/16 (Y 91–93)
 
 - **Y-Bereich:** 91 bis 93
 - **Blöcke:** 2.092
@@ -6610,7 +6462,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.219 – Palazzo des Cinquecento an Via della Scala – Teil 14/16 (Y 94–94)
+### Schritt 8.214 – Palazzo des Cinquecento an Via della Scala – Teil 14/16 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.903
@@ -6638,7 +6490,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.220 – Palazzo des Cinquecento an Via della Scala – Teil 15/16 (Y 95–95)
+### Schritt 8.215 – Palazzo des Cinquecento an Via della Scala – Teil 15/16 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.084
@@ -6666,7 +6518,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.221 – Palazzo des Cinquecento an Via della Scala – Teil 16/16 (Y 96–101)
+### Schritt 8.216 – Palazzo des Cinquecento an Via della Scala – Teil 16/16 (Y 96–101)
 
 - **Y-Bereich:** 96 bis 101
 - **Blöcke:** 1.705
@@ -6695,7 +6547,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.222 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 8.217 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 1/4 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
 - **Blöcke:** 1.432
@@ -6737,7 +6589,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.223 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 8.218 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 2/4 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.411
@@ -6773,7 +6625,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.224 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 8.219 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 3/4 (Y 74–83)
 
 - **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.422
@@ -6817,7 +6669,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.225 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 8.220 – Palazzo des Cinquecento an Via della Scala: Innenausbau – Teil 4/4 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.420
@@ -6859,7 +6711,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.226 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–72)
+### Schritt 8.221 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.774
@@ -6892,7 +6744,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.227 – Reihenhaus an Via della Scala – Teil 2/3 (Y 73–85)
+### Schritt 8.222 – Reihenhaus an Via della Scala – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.910
@@ -6922,7 +6774,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.228 – Reihenhaus an Via della Scala – Teil 3/3 (Y 86–99)
+### Schritt 8.223 – Reihenhaus an Via della Scala – Teil 3/3 (Y 86–99)
 
 - **Y-Bereich:** 86 bis 99
 - **Blöcke:** 1.784
@@ -6954,7 +6806,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.229 – Reihenhaus an Via della Scala: Innenausbau
+### Schritt 8.224 – Reihenhaus an Via della Scala: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 1.058
@@ -6992,7 +6844,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.230 – Palazzo Dal Borgo – Teil 1/7 (Y 63–64)
+### Schritt 8.225 – Palazzo Dal Borgo – Teil 1/7 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.838
@@ -7023,7 +6875,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.231 – Palazzo Dal Borgo – Teil 2/7 (Y 65–70)
+### Schritt 8.226 – Palazzo Dal Borgo – Teil 2/7 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.879
@@ -7054,7 +6906,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.232 – Palazzo Dal Borgo – Teil 3/7 (Y 71–76)
+### Schritt 8.227 – Palazzo Dal Borgo – Teil 3/7 (Y 71–76)
 
 - **Y-Bereich:** 71 bis 76
 - **Blöcke:** 2.000
@@ -7085,7 +6937,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.233 – Palazzo Dal Borgo – Teil 4/7 (Y 77–82)
+### Schritt 8.228 – Palazzo Dal Borgo – Teil 4/7 (Y 77–82)
 
 - **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.926
@@ -7116,7 +6968,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.234 – Palazzo Dal Borgo – Teil 5/7 (Y 83–88)
+### Schritt 8.229 – Palazzo Dal Borgo – Teil 5/7 (Y 83–88)
 
 - **Y-Bereich:** 83 bis 88
 - **Blöcke:** 1.950
@@ -7148,7 +7000,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.235 – Palazzo Dal Borgo – Teil 6/7 (Y 89–93)
+### Schritt 8.230 – Palazzo Dal Borgo – Teil 6/7 (Y 89–93)
 
 - **Y-Bereich:** 89 bis 93
 - **Blöcke:** 1.902
@@ -7180,7 +7032,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.236 – Palazzo Dal Borgo – Teil 7/7 (Y 94–100)
+### Schritt 8.231 – Palazzo Dal Borgo – Teil 7/7 (Y 94–100)
 
 - **Y-Bereich:** 94 bis 100
 - **Blöcke:** 2.076
@@ -7209,7 +7061,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.237 – Palazzo Dal Borgo: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 8.232 – Palazzo Dal Borgo: Innenausbau – Teil 1/2 (Y 63–74)
 
 - **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.247
@@ -7251,7 +7103,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.238 – Palazzo Dal Borgo: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 8.233 – Palazzo Dal Borgo: Innenausbau – Teil 2/2 (Y 75–84)
 
 - **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.233
@@ -7295,91 +7147,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.239 – Haus w449369043
-
-- **Y-Bereich:** 63 bis 98
-- **Blöcke:** 1.276
-- **Bauteile:** `w449369043`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 870 |
-| Terrakotta | `terracotta` | 216 |
-| Polierter Tuffstein | `polished_tuff` | 181 |
-| Ziegelsteine | `bricks` | 9 |
-
-**Beschreibung**
-
-Wohnturm (13. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.240 – Haus w449369043: Innenausbau
-
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 570
-- **Bauteile:** `w449369043_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 432 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Seelaterne | `sea_lantern` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 8.241 – Reihenhaus an Piazza della Stazione – Teil 1/3 (Y 63–72)
+### Schritt 8.234 – Reihenhaus an Piazza della Stazione – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.894
+- **Blöcke:** 1.775
 - **Bauteile:** `w449369044`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 890 |
-| Polierter Tuffstein | `polished_tuff` | 833 |
+| Polierter Tuffstein | `polished_tuff` | 822 |
+| Orange Keramik | `orange_terracotta` | 782 |
 | Polierter Andesit | `polished_andesite` | 105 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 30 |
@@ -7400,20 +7179,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.242 – Reihenhaus an Piazza della Stazione – Teil 2/3 (Y 73–88)
+### Schritt 8.235 – Reihenhaus an Piazza della Stazione – Teil 2/3 (Y 73–89)
 
-- **Y-Bereich:** 73 bis 88
-- **Blöcke:** 1.976
+- **Y-Bereich:** 73 bis 89
+- **Blöcke:** 1.887
 - **Bauteile:** `w449369044`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.560 |
-| Polierter Andesit | `polished_andesite` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Grüner Beton | `green_concrete` | 64 |
+| Orange Keramik | `orange_terracotta` | 1.435 |
+| Polierter Andesit | `polished_andesite` | 268 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Grüner Beton | `green_concrete` | 76 |
 
 **Beschreibung**
 
@@ -7431,23 +7210,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.243 – Reihenhaus an Piazza della Stazione – Teil 3/3 (Y 89–100)
+### Schritt 8.236 – Reihenhaus an Piazza della Stazione – Teil 3/3 (Y 90–99)
 
-- **Y-Bereich:** 89 bis 100
-- **Blöcke:** 1.991
+- **Y-Bereich:** 90 bis 99
+- **Blöcke:** 1.814
 - **Bauteile:** `w449369044`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.188 |
-| Orange Keramik | `orange_terracotta` | 467 |
-| Fichtenholz-Bretter | `spruce_planks` | 147 |
-| Polierter Andesit | `polished_andesite` | 60 |
-| Ziegelsteine | `bricks` | 57 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Grüner Beton | `green_concrete` | 36 |
+| Terrakotta | `terracotta` | 1.172 |
+| Orange Keramik | `orange_terracotta` | 340 |
+| Fichtenholz-Bretter | `spruce_planks` | 146 |
+| Ziegelsteine | `bricks` | 60 |
+| Polierter Andesit | `polished_andesite` | 48 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
+| Grüner Beton | `green_concrete` | 24 |
 
 **Beschreibung**
 
@@ -7465,17 +7244,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.244 – Reihenhaus an Piazza della Stazione: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 8.237 – Reihenhaus an Piazza della Stazione: Innenausbau – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
-- **Blöcke:** 794
+- **Blöcke:** 795
 - **Bauteile:** `w449369044_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 698 |
+| Terrakotta | `terracotta` | 699 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 |
@@ -7507,23 +7286,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.245 – Reihenhaus an Piazza della Stazione: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 8.238 – Reihenhaus an Piazza della Stazione: Innenausbau – Teil 2/2 (Y 79–87)
 
 - **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.460
+- **Blöcke:** 1.462
 - **Bauteile:** `w449369044_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.396 |
+| Terrakotta | `terracotta` | 1.398 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 11 |
 | Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7547,7 +7328,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.246 – Convento dei frati domenicani di S. Maria Novella – Teil 1/26 (Y 63–63)
+### Schritt 8.239 – Convento dei frati domenicani di S. Maria Novella – Teil 1/26 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.066
@@ -7575,7 +7356,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.247 – Convento dei frati domenicani di S. Maria Novella – Teil 2/26 (Y 63–63)
+### Schritt 8.240 – Convento dei frati domenicani di S. Maria Novella – Teil 2/26 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.052
@@ -7603,7 +7384,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.248 – Convento dei frati domenicani di S. Maria Novella – Teil 3/26 (Y 64–64)
+### Schritt 8.241 – Convento dei frati domenicani di S. Maria Novella – Teil 3/26 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 756
@@ -7632,7 +7413,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.249 – Convento dei frati domenicani di S. Maria Novella – Teil 4/26 (Y 65–65)
+### Schritt 8.242 – Convento dei frati domenicani di S. Maria Novella – Teil 4/26 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 756
@@ -7661,7 +7442,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.250 – Convento dei frati domenicani di S. Maria Novella – Teil 5/26 (Y 66–66)
+### Schritt 8.243 – Convento dei frati domenicani di S. Maria Novella – Teil 5/26 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 756
@@ -7691,7 +7472,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.251 – Convento dei frati domenicani di S. Maria Novella – Teil 6/26 (Y 67–68)
+### Schritt 8.244 – Convento dei frati domenicani di S. Maria Novella – Teil 6/26 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.334
@@ -7723,7 +7504,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.252 – Convento dei frati domenicani di S. Maria Novella – Teil 7/26 (Y 69–69)
+### Schritt 8.245 – Convento dei frati domenicani di S. Maria Novella – Teil 7/26 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 720
@@ -7754,7 +7535,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.253 – Convento dei frati domenicani di S. Maria Novella – Teil 8/26 (Y 70–71)
+### Schritt 8.246 – Convento dei frati domenicani di S. Maria Novella – Teil 8/26 (Y 70–71)
 
 - **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.532
@@ -7784,7 +7565,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.254 – Convento dei frati domenicani di S. Maria Novella – Teil 9/26 (Y 72–73)
+### Schritt 8.247 – Convento dei frati domenicani di S. Maria Novella – Teil 9/26 (Y 72–73)
 
 - **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.532
@@ -7813,7 +7594,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.255 – Convento dei frati domenicani di S. Maria Novella – Teil 10/26 (Y 74–74)
+### Schritt 8.248 – Convento dei frati domenicani di S. Maria Novella – Teil 10/26 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 673
@@ -7844,7 +7625,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.256 – Convento dei frati domenicani di S. Maria Novella – Teil 11/26 (Y 75–76)
+### Schritt 8.249 – Convento dei frati domenicani di S. Maria Novella – Teil 11/26 (Y 75–76)
 
 - **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.346
@@ -7875,7 +7656,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.257 – Convento dei frati domenicani di S. Maria Novella – Teil 12/26 (Y 77–78)
+### Schritt 8.250 – Convento dei frati domenicani di S. Maria Novella – Teil 12/26 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.532
@@ -7904,7 +7685,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.258 – Convento dei frati domenicani di S. Maria Novella – Teil 13/26 (Y 79–80)
+### Schritt 8.251 – Convento dei frati domenicani di S. Maria Novella – Teil 13/26 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.532
@@ -7933,7 +7714,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.259 – Convento dei frati domenicani di S. Maria Novella – Teil 14/26 (Y 81–81)
+### Schritt 8.252 – Convento dei frati domenicani di S. Maria Novella – Teil 14/26 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 673
@@ -7964,7 +7745,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.260 – Convento dei frati domenicani di S. Maria Novella – Teil 15/26 (Y 82–83)
+### Schritt 8.253 – Convento dei frati domenicani di S. Maria Novella – Teil 15/26 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.346
@@ -7995,7 +7776,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.261 – Convento dei frati domenicani di S. Maria Novella – Teil 16/26 (Y 84–85)
+### Schritt 8.254 – Convento dei frati domenicani di S. Maria Novella – Teil 16/26 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.532
@@ -8024,7 +7805,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.262 – Convento dei frati domenicani di S. Maria Novella – Teil 17/26 (Y 86–86)
+### Schritt 8.255 – Convento dei frati domenicani di S. Maria Novella – Teil 17/26 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 766
@@ -8052,7 +7833,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.263 – Convento dei frati domenicani di S. Maria Novella – Teil 18/26 (Y 87–88)
+### Schritt 8.256 – Convento dei frati domenicani di S. Maria Novella – Teil 18/26 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.532
@@ -8081,7 +7862,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.264 – Convento dei frati domenicani di S. Maria Novella – Teil 19/26 (Y 89–90)
+### Schritt 8.257 – Convento dei frati domenicani di S. Maria Novella – Teil 19/26 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.346
@@ -8112,7 +7893,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.265 – Convento dei frati domenicani di S. Maria Novella – Teil 20/26 (Y 91–91)
+### Schritt 8.258 – Convento dei frati domenicani di S. Maria Novella – Teil 20/26 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 766
@@ -8141,7 +7922,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.266 – Convento dei frati domenicani di S. Maria Novella – Teil 21/26 (Y 92–93)
+### Schritt 8.259 – Convento dei frati domenicani di S. Maria Novella – Teil 21/26 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
 - **Blöcke:** 2.075
@@ -8170,7 +7951,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.267 – Convento dei frati domenicani di S. Maria Novella – Teil 22/26 (Y 94–94)
+### Schritt 8.260 – Convento dei frati domenicani di S. Maria Novella – Teil 22/26 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.135
@@ -8198,7 +7979,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.268 – Convento dei frati domenicani di S. Maria Novella – Teil 23/26 (Y 94–94)
+### Schritt 8.261 – Convento dei frati domenicani di S. Maria Novella – Teil 23/26 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.147
@@ -8226,7 +8007,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.269 – Convento dei frati domenicani di S. Maria Novella – Teil 24/26 (Y 95–95)
+### Schritt 8.262 – Convento dei frati domenicani di S. Maria Novella – Teil 24/26 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.204
@@ -8254,7 +8035,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.270 – Convento dei frati domenicani di S. Maria Novella – Teil 25/26 (Y 96–96)
+### Schritt 8.263 – Convento dei frati domenicani di S. Maria Novella – Teil 25/26 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 991
@@ -8282,7 +8063,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.271 – Convento dei frati domenicani di S. Maria Novella – Teil 26/26 (Y 97–103)
+### Schritt 8.264 – Convento dei frati domenicani di S. Maria Novella – Teil 26/26 (Y 97–103)
 
 - **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.422
@@ -8311,7 +8092,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.272 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 1/6 (Y 63–72)
+### Schritt 8.265 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 1/6 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.763
@@ -8351,7 +8132,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.273 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 8.266 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 2/6 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.668
@@ -8387,7 +8168,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.274 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 3/6 (Y 73–79)
+### Schritt 8.267 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 3/6 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.740
@@ -8429,7 +8210,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.275 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 4/6 (Y 79–79)
+### Schritt 8.268 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 4/6 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.668
@@ -8465,7 +8246,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.276 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 5/6 (Y 80–86)
+### Schritt 8.269 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 5/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.740
@@ -8507,7 +8288,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.277 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 6/6 (Y 86–87)
+### Schritt 8.270 – Convento dei frati domenicani di S. Maria Novella: Innenausbau – Teil 6/6 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.677
@@ -8547,7 +8328,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.278 – Reihenhaus an Via della Scala – Teil 1/4 (Y 63–68)
+### Schritt 8.271 – Reihenhaus an Via della Scala – Teil 1/4 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.954
@@ -8579,7 +8360,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.279 – Reihenhaus an Via della Scala – Teil 2/4 (Y 69–79)
+### Schritt 8.272 – Reihenhaus an Via della Scala – Teil 2/4 (Y 69–79)
 
 - **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.876
@@ -8610,7 +8391,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.280 – Reihenhaus an Via della Scala – Teil 3/4 (Y 80–91)
+### Schritt 8.273 – Reihenhaus an Via della Scala – Teil 3/4 (Y 80–91)
 
 - **Y-Bereich:** 80 bis 91
 - **Blöcke:** 2.040
@@ -8640,7 +8421,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.281 – Reihenhaus an Via della Scala – Teil 4/4 (Y 92–101)
+### Schritt 8.274 – Reihenhaus an Via della Scala – Teil 4/4 (Y 92–101)
 
 - **Y-Bereich:** 92 bis 101
 - **Blöcke:** 1.853
@@ -8671,7 +8452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.282 – Reihenhaus an Via della Scala: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 8.275 – Reihenhaus an Via della Scala: Innenausbau – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
 - **Blöcke:** 1.064
@@ -8711,7 +8492,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.283 – Reihenhaus an Via della Scala: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 8.276 – Reihenhaus an Via della Scala: Innenausbau – Teil 2/2 (Y 79–87)
 
 - **Y-Bereich:** 79 bis 87
 - **Blöcke:** 2.004
@@ -8751,7 +8532,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.284 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/3 (Y 63–72)
+### Schritt 8.277 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.930
@@ -8783,7 +8564,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.285 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/3 (Y 73–85)
+### Schritt 8.278 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.959
@@ -8813,7 +8594,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.286 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/3 (Y 86–99)
+### Schritt 8.279 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/3 (Y 86–99)
 
 - **Y-Bereich:** 86 bis 99
 - **Blöcke:** 1.982
@@ -8845,7 +8626,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.287 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau
+### Schritt 8.280 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.463
@@ -8887,7 +8668,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.288 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–75)
+### Schritt 8.281 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–75)
 
 - **Y-Bereich:** 63 bis 75
 - **Blöcke:** 2.022
@@ -8920,7 +8701,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.289 – Reihenhaus an Via della Scala – Teil 2/3 (Y 76–91)
+### Schritt 8.282 – Reihenhaus an Via della Scala – Teil 2/3 (Y 76–91)
 
 - **Y-Bereich:** 76 bis 91
 - **Blöcke:** 2.018
@@ -8950,7 +8731,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.290 – Reihenhaus an Via della Scala – Teil 3/3 (Y 92–106)
+### Schritt 8.283 – Reihenhaus an Via della Scala – Teil 3/3 (Y 92–106)
 
 - **Y-Bereich:** 92 bis 106
 - **Blöcke:** 2.022
@@ -8982,7 +8763,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.291 – Reihenhaus an Via della Scala: Innenausbau
+### Schritt 8.284 – Reihenhaus an Via della Scala: Innenausbau
 
 - **Y-Bereich:** 63 bis 94
 - **Blöcke:** 1.604
@@ -9022,7 +8803,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.292 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/4 (Y 63–68)
+### Schritt 8.285 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/4 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.839
@@ -9055,7 +8836,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.293 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/4 (Y 69–79)
+### Schritt 8.286 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/4 (Y 69–79)
 
 - **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.840
@@ -9087,7 +8868,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.294 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/4 (Y 80–90)
+### Schritt 8.287 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/4 (Y 80–90)
 
 - **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.827
@@ -9118,7 +8899,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.295 – Reihenhaus an Piazza Santa Maria Novella – Teil 4/4 (Y 91–101)
+### Schritt 8.288 – Reihenhaus an Piazza Santa Maria Novella – Teil 4/4 (Y 91–101)
 
 - **Y-Bereich:** 91 bis 101
 - **Blöcke:** 1.863
@@ -9149,7 +8930,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.296 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 8.289 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
 - **Blöcke:** 978
@@ -9189,7 +8970,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.297 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 8.290 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 2/2 (Y 79–87)
 
 - **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.820
@@ -9231,7 +9012,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.298 – Reihenhaus an Via della Scala – Teil 1/7 (Y 63–63)
+### Schritt 8.291 – Reihenhaus an Via della Scala – Teil 1/7 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.806
@@ -9259,7 +9040,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.299 – Reihenhaus an Via della Scala – Teil 2/7 (Y 64–70)
+### Schritt 8.292 – Reihenhaus an Via della Scala – Teil 2/7 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.989
@@ -9292,7 +9073,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.300 – Reihenhaus an Via della Scala – Teil 3/7 (Y 71–76)
+### Schritt 8.293 – Reihenhaus an Via della Scala – Teil 3/7 (Y 71–76)
 
 - **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.719
@@ -9323,7 +9104,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.301 – Reihenhaus an Via della Scala – Teil 4/7 (Y 77–82)
+### Schritt 8.294 – Reihenhaus an Via della Scala – Teil 4/7 (Y 77–82)
 
 - **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.734
@@ -9354,7 +9135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.302 – Reihenhaus an Via della Scala – Teil 5/7 (Y 83–89)
+### Schritt 8.295 – Reihenhaus an Via della Scala – Teil 5/7 (Y 83–89)
 
 - **Y-Bereich:** 83 bis 89
 - **Blöcke:** 2.013
@@ -9385,7 +9166,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.303 – Reihenhaus an Via della Scala – Teil 6/7 (Y 90–94)
+### Schritt 8.296 – Reihenhaus an Via della Scala – Teil 6/7 (Y 90–94)
 
 - **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.913
@@ -9417,7 +9198,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.304 – Reihenhaus an Via della Scala – Teil 7/7 (Y 95–103)
+### Schritt 8.297 – Reihenhaus an Via della Scala – Teil 7/7 (Y 95–103)
 
 - **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.657
@@ -9446,7 +9227,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.305 – Reihenhaus an Via della Scala: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 8.298 – Reihenhaus an Via della Scala: Innenausbau – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.564
@@ -9484,7 +9265,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.306 – Reihenhaus an Via della Scala: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 8.299 – Reihenhaus an Via della Scala: Innenausbau – Teil 2/3 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.556
@@ -9526,7 +9307,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.307 – Reihenhaus an Via della Scala: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 8.300 – Reihenhaus an Via della Scala: Innenausbau – Teil 3/3 (Y 80–87)
 
 - **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.562
@@ -9568,7 +9349,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.308 – Reihenhaus an Via della Scala – Teil 1/4 (Y 63–69)
+### Schritt 8.301 – Reihenhaus an Via della Scala – Teil 1/4 (Y 63–69)
 
 - **Y-Bereich:** 63 bis 69
 - **Blöcke:** 1.574
@@ -9600,7 +9381,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.309 – Reihenhaus an Via della Scala – Teil 2/4 (Y 70–79)
+### Schritt 8.302 – Reihenhaus an Via della Scala – Teil 2/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.452
@@ -9630,7 +9411,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.310 – Reihenhaus an Via della Scala – Teil 3/4 (Y 80–90)
+### Schritt 8.303 – Reihenhaus an Via della Scala – Teil 3/4 (Y 80–90)
 
 - **Y-Bereich:** 80 bis 90
 - **Blöcke:** 1.581
@@ -9660,7 +9441,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.311 – Reihenhaus an Via della Scala – Teil 4/4 (Y 91–98)
+### Schritt 8.304 – Reihenhaus an Via della Scala – Teil 4/4 (Y 91–98)
 
 - **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.535
@@ -9692,7 +9473,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.312 – Reihenhaus an Via della Scala: Innenausbau
+### Schritt 8.305 – Reihenhaus an Via della Scala: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 1.858
@@ -9730,7 +9511,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.313 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/3 (Y 63–72)
+### Schritt 8.306 – Reihenhaus an Piazza Santa Maria Novella – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.988
@@ -9761,7 +9542,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.314 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/3 (Y 73–87)
+### Schritt 8.307 – Reihenhaus an Piazza Santa Maria Novella – Teil 2/3 (Y 73–87)
 
 - **Y-Bereich:** 73 bis 87
 - **Blöcke:** 2.037
@@ -9791,7 +9572,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.315 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/3 (Y 88–101)
+### Schritt 8.308 – Reihenhaus an Piazza Santa Maria Novella – Teil 3/3 (Y 88–101)
 
 - **Y-Bereich:** 88 bis 101
 - **Blöcke:** 2.084
@@ -9824,7 +9605,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.316 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 8.309 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
 - **Blöcke:** 751
@@ -9866,7 +9647,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.317 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 8.310 – Reihenhaus an Piazza Santa Maria Novella: Innenausbau – Teil 2/2 (Y 79–87)
 
 - **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.374
@@ -9906,7 +9687,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.318 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–72)
+### Schritt 8.311 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.767
@@ -9937,7 +9718,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.319 – Reihenhaus an Via della Scala – Teil 2/3 (Y 73–87)
+### Schritt 8.312 – Reihenhaus an Via della Scala – Teil 2/3 (Y 73–87)
 
 - **Y-Bereich:** 73 bis 87
 - **Blöcke:** 1.828
@@ -9967,7 +9748,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.320 – Reihenhaus an Via della Scala – Teil 3/3 (Y 88–98)
+### Schritt 8.313 – Reihenhaus an Via della Scala – Teil 3/3 (Y 88–98)
 
 - **Y-Bereich:** 88 bis 98
 - **Blöcke:** 1.779
@@ -10000,7 +9781,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.321 – Reihenhaus an Via della Scala: Innenausbau
+### Schritt 8.314 – Reihenhaus an Via della Scala: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.808
@@ -10040,7 +9821,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.322 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 1/12 (Y 63–63)
+### Schritt 8.315 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 1/12 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.643
@@ -10068,7 +9849,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.323 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 2/12 (Y 63–63)
+### Schritt 8.316 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 2/12 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.659
@@ -10096,7 +9877,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.324 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 3/12 (Y 64–68)
+### Schritt 8.317 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 3/12 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.978
@@ -10128,7 +9909,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.325 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 4/12 (Y 69–72)
+### Schritt 8.318 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 4/12 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.548
@@ -10160,7 +9941,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.326 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 5/12 (Y 73–76)
+### Schritt 8.319 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 5/12 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.673
@@ -10193,7 +9974,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.327 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 6/12 (Y 77–81)
+### Schritt 8.320 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 6/12 (Y 77–81)
 
 - **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.892
@@ -10224,7 +10005,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.328 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 7/12 (Y 82–85)
+### Schritt 8.321 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 7/12 (Y 82–85)
 
 - **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.725
@@ -10254,7 +10035,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.329 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 8/12 (Y 86–89)
+### Schritt 8.322 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 8/12 (Y 86–89)
 
 - **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.472
@@ -10285,7 +10066,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.330 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 9/12 (Y 90–93)
+### Schritt 8.323 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 9/12 (Y 90–93)
 
 - **Y-Bereich:** 90 bis 93
 - **Blöcke:** 2.028
@@ -10317,7 +10098,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.331 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 10/12 (Y 94–94)
+### Schritt 8.324 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 10/12 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.679
@@ -10345,7 +10126,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.332 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 11/12 (Y 95–96)
+### Schritt 8.325 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 11/12 (Y 95–96)
 
 - **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.843
@@ -10373,7 +10154,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.333 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 12/12 (Y 97–102)
+### Schritt 8.326 – Palazzo des Cinquecento an Piazza Santa Maria Novella – Teil 12/12 (Y 97–102)
 
 - **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.515
@@ -10402,7 +10183,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.334 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 8.327 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 1/4 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
 - **Blöcke:** 1.528
@@ -10444,7 +10225,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.335 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 8.328 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 2/4 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.429
@@ -10473,7 +10254,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.336 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 8.329 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 3/4 (Y 74–83)
 
 - **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.517
@@ -10517,7 +10298,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.337 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 8.330 – Palazzo des Cinquecento an Piazza Santa Maria Novella: Innenausbau – Teil 4/4 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.438

@@ -1,0 +1,29 @@
+{
+  "module": 4,
+  "title": "Gewölbe und Dächer",
+  "subtitle": "Bautüte 4: Kreuzrippengewölbe und Dächer",
+  "icon": "🏠",
+  "parts": {
+    "gewoelbe": {
+      "title": "Kreuzrippengewölbe",
+      "description": "Jedes Joch erhält ein Kreuzgewölbe aus weißem Putz mit Rippen und Gurtbögen aus Glattem Stein: im Mittelschiff von Lage 44 bis 54, in den Seitenschiffen von Lage 26 bis 42.",
+      "tip": "Baue jedes Gewölbe von den Ecken zur Mitte.",
+      "caution": "Darüber liegt ein Dachraum ohne Zugang.",
+      "fact": "Die Gewölbe sind gestreift wie die Fassade."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Über dem Mittelschiff liegt ein Satteldach bis Lage 64, über den Seitenschiffen Pultdächer, über Querhaus und Chor Satteldächer.",
+      "tip": "Die Dachhaut reicht bis zur Höhe des tiefsten Nachbarn.",
+      "caution": "Die Fassade ist höher als das Dach.",
+      "fact": "Das Dach ist mit roten Ziegeln gedeckt."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo höhere Dächer an tiefere stoßen, schließt du mit Steinziegeln.",
+      "tip": "Sie hängen an der Dachhaut.",
+      "caution": "Ohne sie wäre das Dach offen.",
+      "fact": "Solche Wände heißen Schildwände."
+    }
+  }
+}
