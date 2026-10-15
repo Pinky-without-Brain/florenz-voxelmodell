@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Pfeiler und Arkaden",
+  "subtitle": "Bautüte 2: Bündelpfeiler, Spitzbögen und Obergaden",
+  "icon": "⛪",
+  "parts": {
+    "pfeiler": {
+      "title": "Bündelpfeiler",
+      "description": "An den Jochgrenzen stehen beidseits des Mittelschiffs Pfeiler aus Glattem Stein, vier Blöcke breit, bis Lage 24 mit einem Kapitell aus Gemeißeltem Quarzblock; die Vierungspfeiler reichen bis Lage 40.",
+      "tip": "Die Joche werden nach Norden kürzer.",
+      "caution": "Die Pfeiler stehen frei.",
+      "fact": "Die verkürzten Joche lassen die Kirche länger wirken, als sie ist."
+    },
+    "arkaden": {
+      "title": "Spitzbogenarkaden",
+      "description": "Zwischen den Pfeilern spannst du Spitzbögen mit Kämpfer auf Lage 24 und Scheitel auf Lage 40; die Laibung ist Glatter Stein, die Wand weißer Putz.",
+      "tip": "Die Bögen sind spitz.",
+      "caution": "Unter den Bögen bleibt der Durchgang offen.",
+      "fact": "Die Arkaden sind so hoch, dass die Schiffe wie ein großer Saal wirken."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Arkaden steigt die Hochwand bis zur Traufe auf Lage 56.",
+      "tip": "Außen über den Seitenschiffdächern sind die Wände aus Steinziegeln.",
+      "caution": "Die Rundfenster setzt du danach ein.",
+      "fact": "Das Mittelschiff ist sehr hoch für eine Kirche dieser Breite."
+    },
+    "obergaden_fenster": {
+      "title": "Rundfenster des Obergadens",
+      "description": "Je Joch und Seite sitzt auf Lage 52 ein rundes Fenster aus farbigem Glas.",
+      "tip": "Das Fenster liegt über der Jochmitte.",
+      "caution": "Es geht durch die Wand.",
+      "fact": "Die Rundfenster sind typisch für Santa Maria Novella."
+    }
+  }
+}

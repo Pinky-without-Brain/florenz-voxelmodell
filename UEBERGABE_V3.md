@@ -43,6 +43,7 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `palazzo_pitti` | Wahrzeichen (Palast, Corridoio Oltrarno) | 1.381.031 (Module 0–9) | **pflicht**, 94,6 %, 0 Komponenten, R14 0 | W7 erledigt (14.10.) |
 | `santa_croce` | Wahrzeichen (Basilika, Campanile) | 269.988 | **pflicht**, 89,7 %, 0 Komponenten, R14 0 | W8 (14.10.) |
 | `san_lorenzo` | Wahrzeichen (Basilika, Sakristeien, Cappella dei Principi mit Krypta) | 307.968 | **pflicht**, 70,8 %, 0 Komponenten, R14 0 | W9 (14.10.) |
+| `santa_maria_novella` | Wahrzeichen (Basilika, Alberti-Fassade, Campanile 68 m) | 218.670 | **pflicht**, 52,5 %, 0 Komponenten, R14 0 | W10 (15.10.) |
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
 | `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
 | `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
@@ -79,7 +80,7 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `quartier_collina` | Quartier (50 Häuser, Kacheln 145, 146, 156, 157, 170–172, 179, 184–194) | 632.015 | **pflicht**, 97,5 % | E6 (14.10.) |
 | `stadtgrund` | Stadtgrund (Kacheln, unabhängige Module) | 19.869.348 (alle 195 Kacheln) | – (keine Innenräume) | S0 + S1 (14.10.) |
 
-Alle 45 Projekte: Build OK (`--all --no-emit` zuletzt mit 43, Santa Croce und San Lorenzo einzeln), `--cross` 0 Konflikte (990 Paare, 534 s), 430 Tests grün (2 übersprungen). Webdaten 448 MB. **Alle 7.106 Gebäude des Stadtgebiets sind vergeben** (`node tools/city/frei_kacheln.js` → frei 0).
+Alle 46 Projekte: Build OK (`--all --no-emit` zuletzt mit 43, die drei Kirchen einzeln), `--cross` 0 Konflikte (1035 Paare, 565 s), 433 Tests grün (2 übersprungen). Webdaten 448 MB. **Alle 7.106 Gebäude des Stadtgebiets sind vergeben** (`node tools/city/frei_kacheln.js` → frei 0).
 
 ## 4. Sitzungsprotokoll 14.10.2026
 
@@ -174,10 +175,13 @@ Katalog `wahrzeichen/san_lorenzo/` (REFERENZMASSE, BAUTEIL_KATALOG). Belegt: Mod
 - Neue Regeln aus diesem Bau: `set()` respektiert Öffnungen/Treppenlöcher (`force` nur für Treppen); Kryptadecke und Kapellenboden liegen in Modul 7 (auf den Achteckwänden, sonst R3/R2-Sammelschritt); Tambour und Kuppel werden auch über das Vierungsquadrat hinaus gebaut (sonst R14-Löcher an den Seitenmitten); Decken an Rändern zu tieferen Dächern in Steinziegeln (sonst Holz außen sichtbar).
 - Vorrang w599900778, w24883267 → `san_lorenzo`; Nachbarn `domplatz_ring`, `quartier_san_lorenzo` neu gebaut. Campanile (54 m) nicht modelliert (kein eigenes OSM-Gebäude).
 
+### W10 Santa Maria Novella – **erledigt**
+Katalog `wahrzeichen/santa_maria_novella/`. Belegt (it.wikipedia): 99,20 × 28,20 m, Querhaus 61,54 m, **6 Joche nach Norden kürzer (15 → 11,5 m)**, Kreuzrippengewölbe auf Bündelpfeilern, Alberti-Fassade quadratisch (Mittelportal 1,5 × Breite, Rosette, Voluten), Campanile über 68 m (Talenti 1332–33). Projekt `projects/santa_maria_novella` (θ −90°, achsparallel, bodenY 61), Bauplan `model/_smn.js` mit Kreuzgewölbe-Funktion (Vereinigung zweier Spitztonnen), Wendeltreppe 7 × 7 im Campanile, Giottos Kruzifix an einer Aufhängung. Campanile w449369043 aus `quartier_palazzuolo` gelöst. Test `tools/test/santa_maria_novella.test.js`.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe; **Entladen ferner Module steht noch aus** (bei 448 MB Webdaten wichtiger denn je).
-3. **Wahrzeichen Welle 3/4** nach `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md` (Reihenfolge ~~Santa Croce~~ (W8) → ~~San Lorenzo + Cappelle Medicee~~ (W9) → Santa Maria Novella → Santo Spirito → …). Je Wahrzeichen: Gebäude in `vorrang.json`, aus Quartieren lösen (z. B. Campanile von Santa Croce w662908308 liegt in `quartier_tintori`), Quartier neu bauen.
+3. **Wahrzeichen Welle 3/4** nach `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md` (Reihenfolge ~~Santa Croce~~ (W8) → ~~San Lorenzo + Cappelle Medicee~~ (W9) → ~~Santa Maria Novella~~ (W10) → Santo Spirito → …). Je Wahrzeichen: Gebäude in `vorrang.json`, aus Quartieren lösen (z. B. Campanile von Santa Croce w662908308 liegt in `quartier_tintori`), Quartier neu bauen.
 4. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 

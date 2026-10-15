@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: die Marmorfassade von Leon Battista Alberti",
+  "icon": "🏛️",
+  "parts": {
+    "fassade_kern": {
+      "title": "Fassadenkern",
+      "description": "Hinter dem Marmor mauerst du die Front aus Steinziegeln. Drei Portale bleiben offen: das mittlere zehn Blöcke breit und anderthalbmal so hoch, die seitlichen vier breit.",
+      "tip": "Die Portale gehen durch die ganze Tiefe.",
+      "caution": "Der Kern ist von außen nicht zu sehen.",
+      "fact": "Das Mittelportal ist eineinhalbmal so hoch wie breit – eine Proportion Albertis."
+    },
+    "fassade_unten": {
+      "title": "Untergeschoss",
+      "description": "Das Untergeschoss bis Lage 34 verkleidest du mit weißem Quarz und grünen Streifen aus Dunklem Prismarin: Felder von acht Blöcken mit grünen Pfeilern, an den Ecken gestreifte Pilaster. Auf Lage 35 bis 38 läuft ein Fries mit grünen Segeln.",
+      "tip": "Lege zuerst die grünen Linien, dann die weißen Felder.",
+      "caution": "Die Gesimse auf Lage 35 und 38 sind Gemeißelter Quarzblock.",
+      "fact": "Das Segel im Fries ist das Wappen der Familie Rucellai, die die Fassade bezahlte."
+    },
+    "fassade_oben": {
+      "title": "Obergeschoss mit Voluten",
+      "description": "Über dem Fries steht in der Mitte eine Tempelfront bis Lage 58 mit Giebel bis Lage 67; an den Seiten schwingen Voluten von Lage 54 herab zum Untergeschoss.",
+      "tip": "Die Voluten haben grüne Ringe.",
+      "caution": "Die Fassade ist so hoch wie breit: ein Quadrat.",
+      "fact": "Albertis Voluten verdecken den Höhenunterschied zwischen Mittel- und Seitenschiffen – das erste Beispiel dieses Motivs."
+    },
+    "rosette": {
+      "title": "Rosette",
+      "description": "In der Tempelfront sitzt auf Lage 47 eine Rosette mit elf Blöcken Durchmesser aus farbigem Glas mit Marmorrahmen.",
+      "tip": "Baue sie von der Mitte nach außen.",
+      "caution": "Sie geht durch die ganze Wand.",
+      "fact": "Das Rundfenster entstand 1365 bis 1367 mit einer Marienkrönung."
+    }
+  }
+}

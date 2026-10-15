@@ -1,0 +1,29 @@
+{
+  "module": 6,
+  "title": "Ausstattung und Licht",
+  "subtitle": "Bautüte 6: Hochaltar, Kruzifix und Beleuchtung",
+  "icon": "🕯️",
+  "parts": {
+    "hochaltar": {
+      "title": "Hochaltar",
+      "description": "In der Cappella Tornabuoni steht der Hochaltar aus Glattem Quarzblock mit Goldplatte.",
+      "tip": "Er steht in der Achse.",
+      "caution": "Er ist vereinfacht.",
+      "fact": "Hinter dem Altar liegen Ghirlandaios Fresken."
+    },
+    "kruzifix": {
+      "title": "Giottos Kruzifix",
+      "description": "Über dem Mittelschiff hängt in der Achse ein Kreuz aus Gold auf Lage 28 bis 36.",
+      "tip": "Es hängt frei an der Gewölbekante.",
+      "caution": "Es ist vereinfacht.",
+      "fact": "Giottos gemaltes Kruzifix hängt wieder an seinem ursprünglichen Platz im Mittelschiff."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "In den Boden setzt du Seelaternen im Abstand von höchstens zwölf Blöcken.",
+      "tip": "Sie ersetzen Bodenplatten.",
+      "caution": "Setze sie zuletzt.",
+      "fact": "Masaccios Dreifaltigkeit an der linken Wand ist eines der ersten Bilder mit Zentralperspektive."
+    }
+  }
+}

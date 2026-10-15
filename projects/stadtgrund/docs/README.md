@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 19.871.545 Blöcke in 12.011 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 19.872.267 Blöcke in 12.009 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -59,8 +59,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 47 | Kachel 2/3 – Via Montebello | 107.689 | 61 | [BAUANLEITUNG_MODUL_47.md](BAUANLEITUNG_MODUL_47.md) |
 | 48 | Kachel 3/3 – Via Palazzuolo | 107.083 | 58 | [BAUANLEITUNG_MODUL_48.md](BAUANLEITUNG_MODUL_48.md) |
 | 49 | Kachel 4/3 – Via della Scala | 107.408 | 61 | [BAUANLEITUNG_MODUL_49.md](BAUANLEITUNG_MODUL_49.md) |
-| 50 | Kachel 5/3 – Piazza Santa Maria Novella | 96.771 | 62 | [BAUANLEITUNG_MODUL_50.md](BAUANLEITUNG_MODUL_50.md) |
-| 51 | Kachel 6/3 – Piazza Santa Maria Novella | 62.354 | 38 | [BAUANLEITUNG_MODUL_51.md](BAUANLEITUNG_MODUL_51.md) |
+| 50 | Kachel 5/3 – Piazza Santa Maria Novella | 96.704 | 60 | [BAUANLEITUNG_MODUL_50.md](BAUANLEITUNG_MODUL_50.md) |
+| 51 | Kachel 6/3 – Piazza Santa Maria Novella | 62.880 | 38 | [BAUANLEITUNG_MODUL_51.md](BAUANLEITUNG_MODUL_51.md) |
 | 52 | Kachel 7/3 – Piazza Madonna degli Aldobrandini | 29.352 | 20 | [BAUANLEITUNG_MODUL_52.md](BAUANLEITUNG_MODUL_52.md) |
 | 53 | Kachel 8/3 – Piazza San Lorenzo | 41.767 | 28 | [BAUANLEITUNG_MODUL_53.md](BAUANLEITUNG_MODUL_53.md) |
 | 54 | Kachel 9/3 – Via Camillo Cavour | 36.818 | 22 | [BAUANLEITUNG_MODUL_54.md](BAUANLEITUNG_MODUL_54.md) |
@@ -74,7 +74,7 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 62 | Kachel 2/4 – Via Montebello | 107.735 | 63 | [BAUANLEITUNG_MODUL_62.md](BAUANLEITUNG_MODUL_62.md) |
 | 63 | Kachel 3/4 – Via Montebello | 107.870 | 62 | [BAUANLEITUNG_MODUL_63.md](BAUANLEITUNG_MODUL_63.md) |
 | 64 | Kachel 4/4 – Via Palazzuolo | 107.591 | 57 | [BAUANLEITUNG_MODUL_64.md](BAUANLEITUNG_MODUL_64.md) |
-| 65 | Kachel 5/4 – Piazza Santa Maria Novella | 96.894 | 53 | [BAUANLEITUNG_MODUL_65.md](BAUANLEITUNG_MODUL_65.md) |
+| 65 | Kachel 5/4 – Piazza Santa Maria Novella | 97.157 | 53 | [BAUANLEITUNG_MODUL_65.md](BAUANLEITUNG_MODUL_65.md) |
 | 66 | Kachel 6/4 – Piazza Santa Maria Novella | 41.914 | 26 | [BAUANLEITUNG_MODUL_66.md](BAUANLEITUNG_MODUL_66.md) |
 | 67 | Kachel 7/4 – Piazza di Santa Maria Maggiore | 35.873 | 23 | [BAUANLEITUNG_MODUL_67.md](BAUANLEITUNG_MODUL_67.md) |
 | 68 | Kachel 8/4 – Piazza San Giovanni | 48.825 | 29 | [BAUANLEITUNG_MODUL_68.md](BAUANLEITUNG_MODUL_68.md) |
@@ -204,30 +204,30 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 192 | Kachel 12/12 – Viale Galileo | 149.451 | 93 | [BAUANLEITUNG_MODUL_192.md](BAUANLEITUNG_MODUL_192.md) |
 | 193 | Kachel 13/12 – Via del Monte alle Croci | 194.239 | 121 | [BAUANLEITUNG_MODUL_193.md](BAUANLEITUNG_MODUL_193.md) |
 | 194 | Kachel 14/12 – Viale Michelangiolo | 211.959 | 138 | [BAUANLEITUNG_MODUL_194.md](BAUANLEITUNG_MODUL_194.md) |
-| | **Summe** | **19.871.545** | **12.011** | |
+| | **Summe** | **19.872.267** | **12.009** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Tuffstein | `polished_tuff` | 6.328.132 | 31,8 % |
+| Polierter Tuffstein | `polished_tuff` | 6.327.792 | 31,8 % |
 | Grasblock | `grass_block` | 4.600.051 | 23,1 % |
-| Stein | `stone` | 4.084.935 | 20,6 % |
+| Stein | `stone` | 4.085.875 | 20,6 % |
 | Wasser | `water` | 2.145.522 | 10,8 % |
 | Kies | `gravel` | 1.361.400 | 6,9 % |
-| Glatter Stein | `smooth_stone` | 804.587 | 4,0 % |
+| Glatter Stein | `smooth_stone` | 804.583 | 4,0 % |
 | Polierter Andesit | `polished_andesite` | 224.118 | 1,1 % |
 | Tuffstein | `tuff` | 223.322 | 1,1 % |
 | Steinziegel | `stone_bricks` | 58.392 | 0,3 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.709 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.504 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.117 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.058 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.512 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.160 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.129 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 1.398 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1.072 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 732 | 0,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 490 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 383 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 387 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 254 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 198 | 0,0 % |
 | Geschnittener Kupferblock | `cut_copper` | 144 | 0,0 % |
@@ -238,6 +238,6 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36.388 |
-| Steintreppe | `stone_stairs` | 3.585 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36.510 |
+| Steintreppe | `stone_stairs` | 3.589 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 479 |

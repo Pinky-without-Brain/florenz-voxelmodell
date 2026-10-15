@@ -1,0 +1,36 @@
+{
+  "module": 5,
+  "title": "Campanile",
+  "subtitle": "Bautüte 5: der Glockenturm von Jacopo Talenti",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Turm ist gut sieben Meter breit; seine Wände sind zwei Blöcke dick aus Poliertem Andesit und Steinziegeln mit weißen Bogenfriesen alle 26 Lagen. Eine Tür führt aus dem westlichen Querarm hinein.",
+      "tip": "Der Schaft reicht bis Lage 103.",
+      "caution": "Lass die Tür frei.",
+      "fact": "Jacopo Talenti baute den Turm 1332 bis 1333."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Steinstufen um einen Kern bis zur Glockenstube auf Lage 104.",
+      "tip": "Je Seite drei Stufen, in den Ecken Podeste.",
+      "caution": "Über der Treppe bleiben drei Blöcke frei.",
+      "fact": "Der Turm ist über 68 Meter hoch."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Von Lage 104 bis 116 öffnet sich die Glockenstube mit Triforen auf jeder Seite; Boden aus Dunkler Eiche.",
+      "tip": "Die Öffnungen sind durch schmale Pfeiler geteilt.",
+      "caution": "Sie bleiben offen.",
+      "fact": "Der Turm verbindet romanische Triforen mit einer gotischen Spitze."
+    },
+    "turmspitze": {
+      "title": "Turmspitze",
+      "description": "Darüber steigt eine schlanke Spitze aus Ziegeln bis Lage 136, oben Kupfer.",
+      "tip": "Sie wird alle drei Lagen schmaler.",
+      "caution": "Innen ist sie hohl und unzugänglich.",
+      "fact": "Die Spitze ist ein Wahrzeichen am Bahnhof Santa Maria Novella."
+    }
+  }
+}
