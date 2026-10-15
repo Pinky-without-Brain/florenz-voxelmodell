@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 273.621 |
+| Blöcke | 273.597 |
 | Bauschritte | 166 |
 | Y-Bereich | 60 bis 109 |
 | X-Ausdehnung | -148 bis 141 (290 Blöcke) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 96.956 | 35,4 % |
-| Orange Keramik | `orange_terracotta` | 28.765 | 10,5 % |
+| Orange Keramik | `orange_terracotta` | 28.741 | 10,5 % |
 | Polierter Tuffstein | `polished_tuff` | 27.360 | 10,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 17.211 | 6,3 % |
 | Rosa Keramik | `pink_terracotta` | 16.598 | 6,1 % |
@@ -80,7 +80,7 @@
 | 10 | `w477749371_innen` | Reihenhaus an Via dei Pucci: Innenausbau | 841 | 13.46 |
 | 11 | `w477749405` | Haus w477749405 | 11.138 | 13.47–13.53 |
 | 12 | `w477749405_innen` | Haus w477749405: Innenausbau | 4.265 | 13.54–13.56 |
-| 13 | `w477749413` | Reihenhaus an Piazza del Duomo | 11.071 | 13.57–13.62 |
+| 13 | `w477749413` | Reihenhaus an Piazza del Duomo | 11.047 | 13.57–13.62 |
 | 14 | `w477749413_innen` | Reihenhaus an Piazza del Duomo: Innenausbau | 3.585 | 13.63–13.64 |
 | 15 | `w477749439` | Reihenhaus an Piazza del Duomo | 10.186 | 13.65–13.69 |
 | 16 | `w477749439_innen` | Reihenhaus an Piazza del Duomo: Innenausbau | 3.508 | 13.70–13.71 |
@@ -1962,10 +1962,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.57 – Reihenhaus an Piazza del Duomo – Teil 1/6 (Y 65–68)
+### Schritt 13.57 – Reihenhaus an Piazza del Duomo – Teil 1/6 (Y 65–69)
 
-- **Y-Bereich:** 65 bis 68
-- **Blöcke:** 1.743
+- **Y-Bereich:** 65 bis 69
+- **Blöcke:** 1.932
 - **Bauteile:** `w477749413`
 
 **Teileliste**
@@ -1973,9 +1973,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.088 |
-| Orange Keramik | `orange_terracotta` | 612 |
-| Glatter Stein | `smooth_stone` | 25 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
+| Orange Keramik | `orange_terracotta` | 782 |
+| Glatter Stein | `smooth_stone` | 33 |
+| Graues Buntglas | `gray_stained_glass` | 29 |
 
 **Beschreibung**
 
@@ -1993,19 +1993,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.58 – Reihenhaus an Piazza del Duomo – Teil 2/6 (Y 69–77)
+### Schritt 13.58 – Reihenhaus an Piazza del Duomo – Teil 2/6 (Y 70–77)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 2.035
+- **Y-Bereich:** 70 bis 77
+- **Blöcke:** 1.822
 - **Bauteile:** `w477749413`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.885 |
-| Glatter Stein | `smooth_stone` | 85 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Orange Keramik | `orange_terracotta` | 1.691 |
+| Glatter Stein | `smooth_stone` | 77 |
+| Graues Buntglas | `gray_stained_glass` | 41 |
 | Grüner Beton | `green_concrete` | 8 |
 | Polierter Andesit | `polished_andesite` | 5 |
 

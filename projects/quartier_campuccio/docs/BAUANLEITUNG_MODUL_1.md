@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 341.744 |
+| Blöcke | 341.736 |
 | Bauschritte | 217 |
 | Y-Bereich | 58 bis 106 |
 | X-Ausdehnung | -2208 bis -1975 (234 Blöcke) |
@@ -27,7 +27,7 @@
 | Orange Keramik | `orange_terracotta` | 31.980 | 9,4 % |
 | Weißer Beton | `white_concrete` | 20.856 | 6,1 % |
 | Rosa Keramik | `pink_terracotta` | 18.594 | 5,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 17.319 | 5,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 17.307 | 5,1 % |
 | Polierter Andesit | `polished_andesite` | 13.414 | 3,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 11.394 | 3,3 % |
 | Glatter Stein | `smooth_stone` | 9.792 | 2,9 % |
@@ -53,6 +53,8 @@
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 33 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 28 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 15 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -96,7 +98,7 @@
 | 28 | `w487046652_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 833 | 1.126 |
 | 29 | `w487046653` | Reihenhaus an Via dei Serragli | 8.600 | 1.127–1.131 |
 | 30 | `w487046653_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 3.016 | 1.132–1.133 |
-| 31 | `w487046656` | Palazzo des Cinquecento an Via del Campuccio | 20.128 | 1.134–1.145 |
+| 31 | `w487046656` | Palazzo des Cinquecento an Via del Campuccio | 20.116 | 1.134–1.145 |
 | 32 | `w487046656_innen` | Palazzo des Cinquecento an Via del Campuccio: Innenausbau | 4.152 | 1.146–1.147 |
 | 33 | `w487046658` | Haus w487046658 | 34.744 | 1.148–1.169 |
 | 34 | `w487046658_innen` | Haus w487046658: Innenausbau | 10.085 | 1.170–1.175 |
@@ -110,6 +112,7 @@
 | 42 | `w487046666_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 2.083 | 1.212 |
 | 43 | `w487046668` | Reihenhaus an Via dei Serragli | 4.253 | 1.213–1.215 |
 | 44 | `w487046668_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 2.206 | 1.216–1.217 |
+| 45 | `strassenschilder` | Straßenschilder | 4 | 1.217 |
 
 ## Bauschritte
 
@@ -4475,7 +4478,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.135 – Palazzo des Cinquecento an Via del Campuccio – Teil 2/12 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.655
+- **Blöcke:** 1.652
 - **Bauteile:** `w487046656`
 
 **Teileliste**
@@ -4483,7 +4486,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.219 |
-| Glatter Sandstein | `smooth_sandstone` | 426 |
+| Glatter Sandstein | `smooth_sandstone` | 423 |
 | Polierter Andesit | `polished_andesite` | 3 |
 | Glatter Stein | `smooth_stone` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
@@ -4514,14 +4517,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.136 – Palazzo des Cinquecento an Via del Campuccio – Teil 3/12 (Y 64–67)
 
 - **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.797
+- **Blöcke:** 1.788
 - **Bauteile:** `w487046656`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.297 |
+| Glatter Sandstein | `smooth_sandstone` | 1.288 |
 | Weißer Beton | `white_concrete` | 370 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Grüner Beton | `green_concrete` | 24 |
@@ -7153,11 +7156,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.217 – Reihenhaus an Via dei Serragli: Innenausbau – Teil 2/2 (Y 75–83)
+### Schritt 1.217 – Reihenhaus an Via dei Serragli: Innenausbau – Teil 2/2 (Y 75–83) & Straßenschilder
 
-- **Y-Bereich:** 75 bis 83
-- **Blöcke:** 1.428
-- **Bauteile:** `w487046668_innen`
+- **Y-Bereich:** 67 bis 83
+- **Blöcke:** 1.432
+- **Bauteile:** `w487046668_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -7168,8 +7171,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7179,16 +7184,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

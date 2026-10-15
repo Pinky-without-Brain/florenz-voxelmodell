@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.187 |
-| Bauschritte | 6 |
+| Blöcke | 11.487 |
+| Bauschritte | 8 |
 | Y-Bereich | 80 bis 112 |
 | X-Ausdehnung | -1215 bis -1156 (60 Blöcke) |
 | Z-Ausdehnung | 381 bis 455 (75 Blöcke) |
 | Kleinster Schritt | 1.354 Blöcke (Schritt 3.1) |
-| Mittlerer Schritt | 1.365 Blöcke |
-| Größter Schritt | 1.394 Blöcke (Schritt 3.6) |
+| Mittlerer Schritt | 1.436 Blöcke |
+| Größter Schritt | 1.650 Blöcke (Schritt 3.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 2.756 | 33,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.726 | 33,3 % |
-| Rosa Keramik | `pink_terracotta` | 2.705 | 33,0 % |
+| Weißer Beton | `white_concrete` | 6.056 | 52,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.726 | 23,7 % |
+| Rosa Keramik | `pink_terracotta` | 2.705 | 23,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -31,6 +31,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `geschossboeden` | Geschossböden | 5.431 | 3.1–3.4 |
 | 2 | `decke` | Decke | 2.756 | 3.5–3.6 |
+| 3 | `innenwaende_og` | Innenwände der Obergeschosse | 3.300 | 3.7–3.8 |
 
 ## Bauschritte
 
@@ -205,3 +206,59 @@ Darüber liegt der unzugängliche Dachraum.
 **Fakt**
 
 Die Fassade gilt als ein Schlüsselwerk der Renaissance-Architektur.
+
+### Schritt 3.7 – Innenwände der Obergeschosse – Teil 1/2 (Y 81–95)
+
+- **Y-Bereich:** 81 bis 95
+- **Blöcke:** 1.650
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.650 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.8 – Innenwände der Obergeschosse – Teil 2/2 (Y 96–111)
+
+- **Y-Bereich:** 96 bis 111
+- **Blöcke:** 1.650
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.650 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.

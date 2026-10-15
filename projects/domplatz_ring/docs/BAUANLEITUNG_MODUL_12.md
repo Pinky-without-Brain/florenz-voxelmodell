@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 41.106 |
+| Blöcke | 41.107 |
 | Bauschritte | 25 |
 | Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | -101 bis -26 (76 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 13.247 | 32,2 % |
 | Weißer Beton | `white_concrete` | 10.082 | 24,5 % |
-| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,5 % |
+| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,4 % |
 | Polierter Tuffstein | `polished_tuff` | 3.730 | 9,1 % |
 | Tuffstein | `tuff` | 2.109 | 5,1 % |
 | Polierter Andesit | `polished_andesite` | 1.843 | 4,5 % |
@@ -46,7 +46,7 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -66,7 +66,7 @@
 | 4 | `w114220146_innen` | Palazzo dei Canonici: Innenausbau | 2.743 | 12.21–12.22 |
 | 5 | `w307544507` | Torre dei Pierozzi | 3.679 | 12.23–12.24 |
 | 6 | `w307544507_innen` | Torre dei Pierozzi: Innenausbau | 1.413 | 12.25 |
-| 7 | `strassenschilder` | Straßenschilder | 7 | 12.25 |
+| 7 | `strassenschilder` | Straßenschilder | 8 | 12.25 |
 
 ## Bauschritte
 
@@ -879,7 +879,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.25 – Torre dei Pierozzi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 67 bis 98
-- **Blöcke:** 1.420
+- **Blöcke:** 1.421
 - **Bauteile:** `w307544507_innen`, `strassenschilder`
 
 **Teileliste**
@@ -897,7 +897,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 

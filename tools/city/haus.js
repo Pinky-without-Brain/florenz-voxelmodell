@@ -227,6 +227,7 @@ function planHaus(g, akte, kontext) {
   }
   plan.tuerZellen.sort((a, b) => (a[0] - b[0]) || (a[1] - b[1]));
   plan.durchbruch = tuerDurchbruch(plan);
+  taschenDurchbruch(plan, plan.durchbruch);
   plan.eingang = eingangsStufen(plan, kontext);
 
   // Vorsprünge (Sohlbänke, Konsolen, Marcapiano): eine Zelle vor der Außenlage, nie in fremden Parzellen,
@@ -235,6 +236,7 @@ function planHaus(g, akte, kontext) {
   {
     const vmap = new Map();
     const ks = [...w1.keys()].sort((a, b) => a - b);
+    const dbTop = boden + Math.max(3, Math.min(F.TUER_H, plan.storeys[0].h - 2));
     for (const k of ks) {
       const c = w1.get(k);
       const lay = c.klasse === 'strasse' ? plan.fassaden.get(c.edge) : null;
@@ -244,6 +246,7 @@ function planHaus(g, akte, kontext) {
         for (const vo of F.vorsprungeAn(lay, s, c.u)) {
           const y = plan.storeys[s].base + vo.v;
           if (y > plan.eaves || vo.v < 0) continue;
+          if (plan.durchbruch.has(k) && y <= dbTop) continue;               // Wand dahinter ist durchbrochen: kein Halt
           const r0 = F.zelle(lay, s, vo.v, c);
           if (r0 === 'offen' || r0 === 'glas') continue;
           for (const [dx, dz] of N4) {
@@ -414,6 +417,56 @@ function tuerDurchbruch(plan) {
       q = nq;
     }
     for (let k = ziel; k !== null && k !== start; k = prev.get(k)) out.add(k);
+  }
+  return out;
+}
+
+// Taschen im Erdgeschoss: Innenbereiche, die Wände (z. B. Teilwände zu tiefer liegenden Nachbarn am Hang) vom Rest
+// abschneiden, bekommen einen Durchbruch auf kürzestem Weg (≤ TASCHE_MAX Wandzellen) zum Bereich mit der Tür.
+const TASCHE_MAX = 8;
+function taschenDurchbruch(plan, out) {
+  const eg = (k) => { const p = plan.partial.get(k); return !!p && (p.ys.includes(plan.boden + 1) || p.ys.includes(plan.boden + 2)); };
+  const wand = (k) => (plan.w1.has(k) || plan.w2.has(k) || eg(k)) && !out.has(k);
+  const innen = (k) => plan.S.has(k) && !wand(k);
+  const comp = new Map(), groesse = [];
+  for (const k of plan.S) {
+    if (!innen(k) || comp.has(k)) continue;
+    const id = groesse.length; let n = 0; let q = [k]; comp.set(k, id);
+    while (q.length) {
+      const nq = [];
+      for (const a of q) { n++; for (const [dx, dz] of N4) { const b = P.ck(P.ckX(a) + dx, P.ckZ(a) + dz); if (!comp.has(b) && innen(b)) { comp.set(b, id); nq.push(b); } } }
+      q = nq;
+    }
+    groesse.push(n);
+  }
+  if (groesse.length < 2) return out;
+  const haupt = new Set();
+  const start = [...plan.tuerZellen.map(([x, z]) => P.ck(x, z)), ...out];
+  for (const k of start) for (const [dx, dz] of N4) { const b = P.ck(P.ckX(k) + dx, P.ckZ(k) + dz); if (comp.has(b)) haupt.add(comp.get(b)); }
+  if (!haupt.size) haupt.add(groesse.indexOf(Math.max(...groesse)));
+  const ids = groesse.map((n, i) => i).filter((i) => !haupt.has(i) && groesse[i] >= 4).sort((a, b) => groesse[b] - groesse[a]);
+  for (const id of ids) {
+    if (haupt.has(id)) continue;
+    const prev = new Map(); let q = [];
+    for (const [k, c] of comp) if (c === id) { prev.set(k, null); q.push(k); }
+    let ziel = null;
+    for (let tiefe = 0; tiefe <= TASCHE_MAX && q.length && ziel === null; tiefe++) {
+      const nq = [];
+      for (const a of q) {
+        for (const [dx, dz] of N4) {
+          const b = P.ck(P.ckX(a) + dx, P.ckZ(a) + dz);
+          if (prev.has(b) || !plan.S.has(b)) continue;
+          prev.set(b, a);
+          if (innen(b) && haupt.has(comp.get(b))) { ziel = a; break; }
+          if (wand(b)) nq.push(b);
+        }
+        if (ziel !== null) break;
+      }
+      q = nq;
+    }
+    if (ziel === null) continue;
+    for (let k = ziel; k !== null && comp.get(k) !== id; k = prev.get(k)) out.add(k);
+    haupt.add(id);
   }
   return out;
 }

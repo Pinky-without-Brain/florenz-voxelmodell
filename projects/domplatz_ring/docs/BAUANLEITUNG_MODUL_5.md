@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.942 |
+| Blöcke | 52.944 |
 | Bauschritte | 34 |
 | Y-Bereich | 65 bis 112 |
 | X-Ausdehnung | -244 bis -181 (64 Blöcke) |
@@ -51,9 +51,9 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 24 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -81,7 +81,7 @@
 | 12 | `w491889277_innen` | Reihenhaus an Via del Campanile: Innenausbau | 604 | 5.32 |
 | 13 | `w491889278` | Reihenhaus an Via delle Oche | 1.350 | 5.33 |
 | 14 | `w491889278_innen` | Reihenhaus an Via delle Oche: Innenausbau | 1.063 | 5.34 |
-| 15 | `strassenschilder` | Straßenschilder | 5 | 5.34 |
+| 15 | `strassenschilder` | Straßenschilder | 7 | 5.34 |
 
 ## Bauschritte
 
@@ -1254,7 +1254,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.34 – Reihenhaus an Via delle Oche: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.068
+- **Blöcke:** 1.070
 - **Bauteile:** `w491889278_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1270,9 +1270,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

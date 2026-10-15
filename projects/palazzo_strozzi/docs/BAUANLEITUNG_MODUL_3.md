@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.129 |
-| Bauschritte | 13 |
+| Blöcke | 30.313 |
+| Bauschritte | 16 |
 | Y-Bereich | 88 bis 126 |
 | X-Ausdehnung | -878 bis -767 (112 Blöcke) |
 | Z-Ausdehnung | 386 bis 472 (87 Blöcke) |
 | Kleinster Schritt | 1.647 Blöcke (Schritt 3.10) |
-| Mittlerer Schritt | 1.933 Blöcke |
+| Mittlerer Schritt | 1.895 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 3.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 8.421 | 33,5 % |
-| Rosa Keramik | `pink_terracotta` | 8.373 | 33,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8.335 | 33,2 % |
+| Weißer Beton | `white_concrete` | 13.605 | 44,9 % |
+| Rosa Keramik | `pink_terracotta` | 8.369 | 27,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8.339 | 27,5 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -31,6 +31,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `geschossboeden` | Geschossböden | 16.708 | 3.1–3.8 |
 | 2 | `decke` | Decke | 8.421 | 3.9–3.13 |
+| 3 | `innenwaende_og` | Innenwände der Obergeschosse | 5.184 | 3.14–3.16 |
 
 ## Bauschritte
 
@@ -66,7 +67,7 @@ Im Piano nobile wohnte und repräsentierte die Familie.
 ### Schritt 3.2 – Geschossböden – Teil 2/8 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 2.093
+- **Blöcke:** 2.094
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
@@ -74,7 +75,7 @@ Im Piano nobile wohnte und repräsentierte die Familie.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.049 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.044 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.045 |
 
 **Beschreibung**
 
@@ -95,15 +96,15 @@ Im Piano nobile wohnte und repräsentierte die Familie.
 ### Schritt 3.3 – Geschossböden – Teil 3/8 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 2.088
+- **Blöcke:** 2.087
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.047 |
-| Rosa Keramik | `pink_terracotta` | 1.041 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.048 |
+| Rosa Keramik | `pink_terracotta` | 1.039 |
 
 **Beschreibung**
 
@@ -182,7 +183,7 @@ Im Piano nobile wohnte und repräsentierte die Familie.
 ### Schritt 3.6 – Geschossböden – Teil 6/8 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
-- **Blöcke:** 2.093
+- **Blöcke:** 2.094
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
@@ -190,7 +191,7 @@ Im Piano nobile wohnte und repräsentierte die Familie.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.049 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.044 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.045 |
 
 **Beschreibung**
 
@@ -211,15 +212,15 @@ Im Piano nobile wohnte und repräsentierte die Familie.
 ### Schritt 3.7 – Geschossböden – Teil 7/8 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
-- **Blöcke:** 2.088
+- **Blöcke:** 2.087
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.047 |
-| Rosa Keramik | `pink_terracotta` | 1.041 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.048 |
+| Rosa Keramik | `pink_terracotta` | 1.039 |
 
 **Beschreibung**
 
@@ -405,3 +406,87 @@ Darüber liegt der unzugängliche Dachraum.
 **Fakt**
 
 Der Bau dauerte bis 1538.
+
+### Schritt 3.14 – Innenwände der Obergeschosse – Teil 1/3 (Y 89–100)
+
+- **Y-Bereich:** 89 bis 100
+- **Blöcke:** 1.656
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.656 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.15 – Innenwände der Obergeschosse – Teil 2/3 (Y 101–114)
+
+- **Y-Bereich:** 101 bis 114
+- **Blöcke:** 1.812
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.812 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.16 – Innenwände der Obergeschosse – Teil 3/3 (Y 115–125)
+
+- **Y-Bereich:** 115 bis 125
+- **Blöcke:** 1.716
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.716 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.

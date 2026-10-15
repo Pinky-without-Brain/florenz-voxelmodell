@@ -55,3 +55,13 @@ test('schildEntity: Bedrock-NBT mit Text vorne, gewachst', () => {
   assert.equal(v.FrontText.Text, 'VIA UNO');
   assert.equal(v.IsWaxed, 1);
 });
+
+test('schilderFuerHaus: kein Schild in der Spalte eines Nachbarhauses; Name auch hinter einem Gehweg', () => {
+  const { plan, env } = umgebung();
+  env.frei = (x, z) => !(z < 0 && x >= 0 && x < 3);                     // Nachbarhaus vor dem westlichen Teil der Nordseite
+  env.umfeld.nameBei = (x, z) => (x < -2 && z >= 0 ? 'Via Uno' : z < 0 && x >= 0 ? 'Via Due' : null);   // Via Uno erst ab 3 Zellen Abstand
+  const s = schilderFuerHaus(plan, env);
+  assert.equal(s.length, 2);
+  for (const o of s) assert.ok(env.frei(o.x, o.z), `Schild bei ${o.x},${o.z} in freier Spalte`);
+  assert.ok(s.find((o) => o.name === 'Via Due').x >= 3);
+});

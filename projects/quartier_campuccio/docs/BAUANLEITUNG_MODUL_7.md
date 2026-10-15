@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 240.779 |
+| Blöcke | 240.783 |
 | Bauschritte | 151 |
 | Y-Bereich | 62 bis 107 |
-| X-Ausdehnung | -1780 bis -1559 (222 Blöcke) |
+| X-Ausdehnung | -1781 bis -1559 (223 Blöcke) |
 | Z-Ausdehnung | 1739 bis 1948 (210 Blöcke) |
 | Kleinster Schritt | 444 Blöcke (Schritt 7.91) |
 | Mittlerer Schritt | 1.595 Blöcke |
@@ -49,9 +49,10 @@
 | Weiße Keramik | `white_terracotta` | 63 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 56 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 20 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -131,7 +132,7 @@
 | 64 | `w480917008_innen` | Reihenhaus an Via del Campuccio: Innenausbau | 1.027 | 7.148 |
 | 65 | `w480917009` | Reihenhaus an Via delle Caldaie | 2.818 | 7.149–7.150 |
 | 66 | `w480917009_innen` | Reihenhaus an Via delle Caldaie: Innenausbau | 593 | 7.151 |
-| 67 | `strassenschilder` | Straßenschilder | 4 | 7.151 |
+| 67 | `strassenschilder` | Straßenschilder | 8 | 7.151 |
 
 ## Bauschritte
 
@@ -5188,7 +5189,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.151 – Reihenhaus an Via delle Caldaie: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 65 bis 89
-- **Blöcke:** 597
+- **Blöcke:** 601
 - **Bauteile:** `w480917009_innen`, `strassenschilder`
 
 **Teileliste**
@@ -5200,11 +5201,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 6 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

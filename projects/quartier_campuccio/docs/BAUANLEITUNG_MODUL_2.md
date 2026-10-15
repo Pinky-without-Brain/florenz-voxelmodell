@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 417.449 |
+| Blöcke | 417.433 |
 | Bauschritte | 259 |
 | Y-Bereich | 59 bis 108 |
 | X-Ausdehnung | -2093 bis -1678 (416 Blöcke) |
@@ -25,7 +25,7 @@
 | Tuffstein | `tuff` | 96.763 | 23,2 % |
 | Polierter Tuffstein | `polished_tuff` | 41.487 | 9,9 % |
 | Orange Keramik | `orange_terracotta` | 40.952 | 9,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 39.572 | 9,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 39.552 | 9,5 % |
 | Weißer Beton | `white_concrete` | 30.807 | 7,4 % |
 | Polierter Andesit | `polished_andesite` | 10.131 | 2,4 % |
 | Glatter Stein | `smooth_stone` | 9.374 | 2,2 % |
@@ -50,7 +50,10 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 7 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -80,7 +83,7 @@
 | 14 | `w486369631_innen` | Palazzo des Cinquecento an Via dei Serragli: Innenausbau | 2.661 | 2.184–2.185 |
 | 15 | `w486369632` | Reihenhaus an Via Romana | 4.078 | 2.186–2.187 |
 | 16 | `w486369632_innen` | Reihenhaus an Via Romana: Innenausbau | 1.204 | 2.188 |
-| 17 | `w486369636` | Reihenhaus an Via dei Serragli | 57.099 | 2.189–2.221 |
+| 17 | `w486369636` | Reihenhaus an Via dei Serragli | 57.079 | 2.189–2.221 |
 | 18 | `w486369636_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 3.166 | 2.222–2.223 |
 | 19 | `w486369639` | Renaissance-Palazzo an Via Romana | 12.090 | 2.224–2.230 |
 | 20 | `w486369639_innen` | Renaissance-Palazzo an Via Romana: Innenausbau | 2.285 | 2.231–2.232 |
@@ -92,6 +95,7 @@
 | 26 | `w486369645_innen` | Reihenhaus an Via Romana: Innenausbau | 1.630 | 2.248 |
 | 27 | `w486369648` | Palazzo des Cinquecento an Via Santa Maria | 13.074 | 2.249–2.255 |
 | 28 | `w486369648_innen` | Palazzo des Cinquecento an Via Santa Maria: Innenausbau | 4.911 | 2.256–2.259 |
+| 29 | `strassenschilder` | Straßenschilder | 4 | 2.259 |
 
 ## Bauschritte
 
@@ -6575,14 +6579,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.210 – Reihenhaus an Via dei Serragli – Teil 22/33 (Y 71–72)
 
 - **Y-Bereich:** 71 bis 72
-- **Blöcke:** 1.800
+- **Blöcke:** 1.790
 - **Bauteile:** `w486369636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.796 |
+| Gelbe Keramik | `yellow_terracotta` | 1.786 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
@@ -6604,14 +6608,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.211 – Reihenhaus an Via dei Serragli – Teil 23/33 (Y 73–74)
 
 - **Y-Bereich:** 73 bis 74
-- **Blöcke:** 1.785
+- **Blöcke:** 1.775
 - **Bauteile:** `w486369636`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.111 |
+| Gelbe Keramik | `yellow_terracotta` | 1.101 |
 | Glatter Stein | `smooth_stone` | 443 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
 | Grüner Beton | `green_concrete` | 91 |
@@ -8169,11 +8173,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.259 – Palazzo des Cinquecento an Via Santa Maria: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 2.259 – Palazzo des Cinquecento an Via Santa Maria: Innenausbau – Teil 4/4 (Y 83–84) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.227
-- **Bauteile:** `w486369648_innen`
+- **Y-Bereich:** 70 bis 84
+- **Blöcke:** 1.231
+- **Bauteile:** `w486369648_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -8183,6 +8187,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 5 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -8195,16 +8202,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

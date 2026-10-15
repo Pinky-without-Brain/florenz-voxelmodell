@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.713 |
-| Bauschritte | 21 |
+| Blöcke | 48.725 |
+| Bauschritte | 26 |
 | Y-Bereich | 87 bis 121 |
 | X-Ausdehnung | -292 bis -139 (154 Blöcke) |
 | Z-Ausdehnung | -560 bis -383 (178 Blöcke) |
 | Kleinster Schritt | 1.748 Blöcke (Schritt 3.16) |
-| Mittlerer Schritt | 1.843 Blöcke |
-| Größter Schritt | 1.957 Blöcke (Schritt 3.17) |
+| Mittlerer Schritt | 1.874 Blöcke |
+| Größter Schritt | 2.098 Blöcke (Schritt 3.25) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 12.965 | 33,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 12.895 | 33,3 % |
-| Rosa Keramik | `pink_terracotta` | 12.853 | 33,2 % |
+| Weißer Beton | `white_concrete` | 22.977 | 47,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 12.893 | 26,5 % |
+| Rosa Keramik | `pink_terracotta` | 12.855 | 26,4 % |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -31,6 +31,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `geschossboeden` | Geschossböden | 25.748 | 3.1–3.14 |
 | 2 | `decke` | Decke | 12.965 | 3.15–3.21 |
+| 3 | `innenwaende_og` | Innenwände der Obergeschosse | 10.012 | 3.22–3.26 |
 
 ## Bauschritte
 
@@ -160,8 +161,8 @@ Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 930 |
-| Rosa Keramik | `pink_terracotta` | 921 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 931 |
+| Rosa Keramik | `pink_terracotta` | 920 |
 
 **Beschreibung**
 
@@ -189,8 +190,8 @@ Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 908 |
-| Rosa Keramik | `pink_terracotta` | 908 |
+| Rosa Keramik | `pink_terracotta` | 909 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 907 |
 
 **Beschreibung**
 
@@ -218,8 +219,8 @@ Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 936 |
-| Rosa Keramik | `pink_terracotta` | 930 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 935 |
+| Rosa Keramik | `pink_terracotta` | 931 |
 
 **Beschreibung**
 
@@ -363,8 +364,8 @@ Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 930 |
-| Rosa Keramik | `pink_terracotta` | 921 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 931 |
+| Rosa Keramik | `pink_terracotta` | 920 |
 
 **Beschreibung**
 
@@ -392,8 +393,8 @@ Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 905 |
-| Rosa Keramik | `pink_terracotta` | 903 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 904 |
+| Rosa Keramik | `pink_terracotta` | 904 |
 
 **Beschreibung**
 
@@ -421,8 +422,8 @@ Heute sitzen im Palazzo die Präfektur und die Metropolitanstadt Florenz.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 936 |
-| Rosa Keramik | `pink_terracotta` | 930 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 935 |
+| Rosa Keramik | `pink_terracotta` | 931 |
 
 **Beschreibung**
 
@@ -635,3 +636,143 @@ Darüber liegt der unzugängliche Dachraum.
 **Fakt**
 
 Der Spiegelsaal mit Luca Giordanos Deckenfresko entstand unter den Riccardi.
+
+### Schritt 3.22 – Innenwände der Obergeschosse – Teil 1/5 (Y 88–94)
+
+- **Y-Bereich:** 88 bis 94
+- **Blöcke:** 1.964
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.964 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.23 – Innenwände der Obergeschosse – Teil 2/5 (Y 95–100)
+
+- **Y-Bereich:** 95 bis 100
+- **Blöcke:** 2.028
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 2.028 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.24 – Innenwände der Obergeschosse – Teil 3/5 (Y 101–107)
+
+- **Y-Bereich:** 101 bis 107
+- **Blöcke:** 1.894
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.894 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.25 – Innenwände der Obergeschosse – Teil 4/5 (Y 108–114)
+
+- **Y-Bereich:** 108 bis 114
+- **Blöcke:** 2.098
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 2.098 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.26 – Innenwände der Obergeschosse – Teil 5/5 (Y 115–120)
+
+- **Y-Bereich:** 115 bis 120
+- **Blöcke:** 2.028
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 2.028 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.

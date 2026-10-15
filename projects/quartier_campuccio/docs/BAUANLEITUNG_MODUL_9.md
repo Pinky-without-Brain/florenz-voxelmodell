@@ -8,11 +8,11 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 96.953 |
+| Blöcke | 96.959 |
 | Bauschritte | 66 |
 | Y-Bereich | 62 bis 100 |
-| X-Ausdehnung | -1669 bis -1526 (144 Blöcke) |
-| Z-Ausdehnung | 1667 bis 1805 (139 Blöcke) |
+| X-Ausdehnung | -1670 bis -1526 (145 Blöcke) |
+| Z-Ausdehnung | 1667 bis 1806 (140 Blöcke) |
 | Kleinster Schritt | 435 Blöcke (Schritt 9.18) |
 | Mittlerer Schritt | 1.469 Blöcke |
 | Größter Schritt | 2.086 Blöcke (Schritt 9.55) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 31.656 | 32,7 % |
+| Terrakotta | `terracotta` | 31.656 | 32,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 17.896 | 18,5 % |
 | Orange Keramik | `orange_terracotta` | 11.468 | 11,8 % |
 | Polierter Tuffstein | `polished_tuff` | 9.424 | 9,7 % |
@@ -48,7 +48,9 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 7 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 7 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -100,7 +102,7 @@
 | 36 | `w478249842_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 642 | 9.64 |
 | 37 | `w478249843` | Reihenhaus an Via dei Preti | 2.162 | 9.65–9.66 |
 | 38 | `w478249843_innen` | Reihenhaus an Via dei Preti: Innenausbau | 5 | 9.66 |
-| 39 | `strassenschilder` | Straßenschilder | 2 | 9.66 |
+| 39 | `strassenschilder` | Straßenschilder | 8 | 9.66 |
 
 ## Bauschritte
 
@@ -2313,7 +2315,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.66 – Reihenhaus an Via dei Preti – Teil 2/2 (Y 79–95) & Reihenhaus an Via dei Preti: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.112
+- **Blöcke:** 1.118
 - **Bauteile:** `w478249843`, `w478249843_innen`, `strassenschilder`
 
 **Teileliste**
@@ -2324,8 +2326,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 226 |
 | Glatter Stein | `smooth_stone` | 134 |
 | Graues Buntglas | `gray_stained_glass` | 28 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Seelaterne | `sea_lantern` | 2 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |

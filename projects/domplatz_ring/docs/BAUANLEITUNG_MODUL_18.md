@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 259.794 |
+| Blöcke | 259.798 |
 | Bauschritte | 161 |
 | Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | 47 bis 322 (276 Blöcke) |
@@ -51,6 +51,8 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 13 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
@@ -103,7 +105,7 @@
 | 34 | `w682528185_innen` | Reihenhaus an Via Maurizio Bufalini: Innenausbau | 520 | 18.160 |
 | 35 | `w682528186` | Haus w682528186 | 772 | 18.161 |
 | 36 | `w682528186_innen` | Haus w682528186: Innenausbau | 1 | 18.161 |
-| 37 | `strassenschilder` | Straßenschilder | 2 | 18.161 |
+| 37 | `strassenschilder` | Straßenschilder | 6 | 18.161 |
 
 ## Bauschritte
 
@@ -5248,7 +5250,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 18.161 – Haus w682528186 & Haus w682528186: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 101
-- **Blöcke:** 775
+- **Blöcke:** 779
 - **Bauteile:** `w682528186`, `w682528186_innen`, `strassenschilder`
 
 **Teileliste**
@@ -5261,6 +5263,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Graues Buntglas | `gray_stained_glass` | 26 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Ziegelsteine | `bricks` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Seelaterne | `sea_lantern` | 1 |
 

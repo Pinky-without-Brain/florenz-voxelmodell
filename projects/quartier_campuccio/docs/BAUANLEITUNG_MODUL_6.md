@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 141.739 |
+| Blöcke | 141.745 |
 | Bauschritte | 89 |
 | Y-Bereich | 63 bis 106 |
 | X-Ausdehnung | -1829 bis -1610 (220 Blöcke) |
@@ -52,8 +52,10 @@
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 9 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -115,7 +117,7 @@
 | 46 | `w478937684_innen` | Reihenhaus an Via Romana: Innenausbau | 1.008 | 6.86 |
 | 47 | `w478937685` | Reihenhaus an Via Santa Maria | 3.689 | 6.87–6.88 |
 | 48 | `w478937685_innen` | Reihenhaus an Via Santa Maria: Innenausbau | 1.118 | 6.89 |
-| 49 | `strassenschilder` | Straßenschilder | 2 | 6.89 |
+| 49 | `strassenschilder` | Straßenschilder | 8 | 6.89 |
 
 ## Bauschritte
 
@@ -3138,7 +3140,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 6.89 – Reihenhaus an Via Santa Maria: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 88
-- **Blöcke:** 1.120
+- **Blöcke:** 1.126
 - **Bauteile:** `w478937685_innen`, `strassenschilder`
 
 **Teileliste**
@@ -3150,10 +3152,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Seelaterne | `sea_lantern` | 12 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

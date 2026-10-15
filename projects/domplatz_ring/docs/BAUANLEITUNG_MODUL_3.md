@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 55.341 |
+| Blöcke | 55.345 |
 | Bauschritte | 36 |
 | Y-Bereich | 66 bis 118 |
 | X-Ausdehnung | -336 bis -261 (76 Blöcke) |
 | Z-Ausdehnung | 216 bis 310 (95 Blöcke) |
-| Kleinster Schritt | 814 Blöcke (Schritt 3.36) |
+| Kleinster Schritt | 818 Blöcke (Schritt 3.36) |
 | Mittlerer Schritt | 1.537 Blöcke |
 | Größter Schritt | 2.078 Blöcke (Schritt 3.29) |
 
@@ -46,6 +46,9 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 34 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -68,6 +71,7 @@
 | 8 | `w491923440_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 5.314 | 3.30–3.33 |
 | 9 | `w491923447` | Reihenhaus an Via dei Tosinghi | 2.178 | 3.34–3.35 |
 | 10 | `w491923447_innen` | Reihenhaus an Via dei Tosinghi: Innenausbau | 814 | 3.36 |
+| 11 | `strassenschilder` | Straßenschilder | 4 | 3.36 |
 
 ## Bauschritte
 
@@ -1275,11 +1279,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.36 – Reihenhaus an Via dei Tosinghi: Innenausbau
+### Schritt 3.36 – Reihenhaus an Via dei Tosinghi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 90
-- **Blöcke:** 814
-- **Bauteile:** `w491923447_innen`
+- **Blöcke:** 818
+- **Bauteile:** `w491923447_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1294,6 +1298,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1303,16 +1310,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

@@ -8,29 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 37.996 |
-| Bauschritte | 20 |
+| Blöcke | 40.619 |
+| Bauschritte | 22 |
 | Y-Bereich | 86 bis 100 |
 | X-Ausdehnung | 574 bis 821 (248 Blöcke) |
 | Z-Ausdehnung | -768 bis -553 (216 Blöcke) |
-| Kleinster Schritt | 1.844 Blöcke (Schritt 3.7) |
-| Mittlerer Schritt | 1.900 Blöcke |
+| Kleinster Schritt | 1.306 Blöcke (Schritt 3.21) |
+| Mittlerer Schritt | 1.846 Blöcke |
 | Größter Schritt | 1.995 Blöcke (Schritt 3.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 19.061 | 50,2 % |
-| Rosa Keramik | `pink_terracotta` | 9.479 | 24,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 9.456 | 24,9 % |
+| Weißer Beton | `white_concrete` | 21.687 | 53,4 % |
+| Rosa Keramik | `pink_terracotta` | 9.479 | 23,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 9.453 | 23,3 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `geschossboeden` | Geschossböden | 18.935 | 3.1–3.10 |
+| 1 | `geschossboeden` | Geschossböden | 18.932 | 3.1–3.10 |
 | 2 | `decke` | Decke | 19.061 | 3.11–3.20 |
+| 3 | `innenwaende_og` | Innenwände der Obergeschosse | 2.626 | 3.21–3.22 |
 
 ## Bauschritte
 
@@ -73,8 +74,8 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 976 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 968 |
+| Rosa Keramik | `pink_terracotta` | 977 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 967 |
 
 **Beschreibung**
 
@@ -102,8 +103,8 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 937 |
-| Rosa Keramik | `pink_terracotta` | 931 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 936 |
+| Rosa Keramik | `pink_terracotta` | 932 |
 
 **Beschreibung**
 
@@ -189,8 +190,8 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 950 |
-| Rosa Keramik | `pink_terracotta` | 945 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 949 |
+| Rosa Keramik | `pink_terracotta` | 946 |
 
 **Beschreibung**
 
@@ -211,7 +212,7 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 ### Schritt 3.7 – Geschossböden – Teil 7/10 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.844
+- **Blöcke:** 1.845
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
@@ -219,7 +220,7 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 923 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 921 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 922 |
 
 **Beschreibung**
 
@@ -240,15 +241,15 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 ### Schritt 3.8 – Geschossböden – Teil 8/10 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.946
+- **Blöcke:** 1.945
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 975 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 971 |
+| Rosa Keramik | `pink_terracotta` | 973 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 972 |
 
 **Beschreibung**
 
@@ -269,15 +270,15 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 ### Schritt 3.9 – Geschossböden – Teil 9/10 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.867
+- **Blöcke:** 1.866
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 934 |
-| Rosa Keramik | `pink_terracotta` | 933 |
+| Rosa Keramik | `pink_terracotta` | 934 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 932 |
 
 **Beschreibung**
 
@@ -298,14 +299,14 @@ Das Findelhaus nahm 1445 das erste Kind auf.
 ### Schritt 3.10 – Geschossböden – Teil 10/10 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.912
+- **Blöcke:** 1.910
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 958 |
+| Rosa Keramik | `pink_terracotta` | 956 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 954 |
 
 **Beschreibung**
@@ -603,3 +604,59 @@ Darüber liegt der unzugängliche Dachraum.
 **Fakt**
 
 Die Loggia wurde zum Vorbild für die Platzfront: Annunziata und Loggia dei Serviti folgen ihr.
+
+### Schritt 3.21 – Innenwände der Obergeschosse – Teil 1/2 (Y 87–93)
+
+- **Y-Bereich:** 87 bis 93
+- **Blöcke:** 1.306
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.306 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
+
+### Schritt 3.22 – Innenwände der Obergeschosse – Teil 2/2 (Y 94–99)
+
+- **Y-Bereich:** 94 bis 99
+- **Blöcke:** 1.320
+- **Bauteile:** `innenwaende_og`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.320 |
+
+**Beschreibung**
+
+Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.

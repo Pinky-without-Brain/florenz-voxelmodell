@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 349.330 |
+| Blöcke | 349.272 |
 | Bauschritte | 224 |
 | Y-Bereich | 60 bis 105 |
 | X-Ausdehnung | -1959 bis -1682 (278 Blöcke) |
 | Z-Ausdehnung | 1600 bis 1857 (258 Blöcke) |
 | Kleinster Schritt | 392 Blöcke (Schritt 4.117) |
-| Mittlerer Schritt | 1.560 Blöcke |
+| Mittlerer Schritt | 1.559 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 4.125) |
 
 ## Gesamt-Stückliste
@@ -22,9 +22,9 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 85.798 | 24,6 % |
-| Endsteinziegel | `end_stone_bricks` | 39.740 | 11,4 % |
+| Endsteinziegel | `end_stone_bricks` | 39.728 | 11,4 % |
 | Gelbe Keramik | `yellow_terracotta` | 38.242 | 10,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 32.833 | 9,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 32.793 | 9,4 % |
 | Polierter Tuffstein | `polished_tuff` | 27.697 | 7,9 % |
 | Orange Keramik | `orange_terracotta` | 27.649 | 7,9 % |
 | Weißer Beton | `white_concrete` | 26.816 | 7,7 % |
@@ -32,7 +32,7 @@
 | Rosa Keramik | `pink_terracotta` | 13.819 | 4,0 % |
 | Tuffstein | `tuff` | 12.030 | 3,4 % |
 | Graues Buntglas | `gray_stained_glass` | 6.637 | 1,9 % |
-| Glatter Stein | `smooth_stone` | 5.125 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 5.117 | 1,5 % |
 | Polierter Andesit | `polished_andesite` | 4.175 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.742 | 0,8 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.726 | 0,5 % |
@@ -51,9 +51,9 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 14 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -83,7 +83,7 @@
 | 14 | `w485930059_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 2 | 4.55 |
 | 15 | `w485930061` | Reihenhaus an Via del Campuccio | 7.655 | 4.55–4.58 |
 | 16 | `w485930061_innen` | Reihenhaus an Via del Campuccio: Innenausbau | 1.869 | 4.59 |
-| 17 | `w485930063` | Reihenhaus an Via del Campuccio | 9.277 | 4.60–4.64 |
+| 17 | `w485930063` | Reihenhaus an Via del Campuccio | 9.273 | 4.60–4.64 |
 | 18 | `w485930063_innen` | Reihenhaus an Via del Campuccio: Innenausbau | 3 | 4.65 |
 | 19 | `w485930064` | Haus w485930064 | 2.227 | 4.65–4.66 |
 | 20 | `w485930064_innen` | Haus w485930064: Innenausbau | 1 | 4.67 |
@@ -95,7 +95,7 @@
 | 26 | `w485930071_innen` | Haus w485930071: Innenausbau | 586 | 4.75 |
 | 27 | `w485930073` | Nebengebäude an Via del Campuccio | 1.814 | 4.76 |
 | 28 | `w485930073_innen` | Nebengebäude an Via del Campuccio: Innenausbau | 1 | 4.77 |
-| 29 | `w485930075` | Reihenhaus an Via della Chiesa | 7.119 | 4.77–4.80 |
+| 29 | `w485930075` | Reihenhaus an Via della Chiesa | 7.099 | 4.77–4.80 |
 | 30 | `w485930075_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 3 | 4.81 |
 | 31 | `w485930077` | Haus w485930077 | 1.891 | 4.81 |
 | 32 | `w485930077_innen` | Haus w485930077: Innenausbau | 1 | 4.82 |
@@ -115,9 +115,9 @@
 | 46 | `w485930093_innen` | Haus w485930093: Innenausbau | 1 | 4.100 |
 | 47 | `w485930095` | Reihenhaus an Via delle Caldaie | 5.434 | 4.100–4.102 |
 | 48 | `w485930095_innen` | Reihenhaus an Via delle Caldaie: Innenausbau | 1.066 | 4.103 |
-| 49 | `w485930097` | Reihenhaus an Via del Campuccio | 4.154 | 4.104–4.106 |
+| 49 | `w485930097` | Reihenhaus an Via del Campuccio | 4.130 | 4.104–4.106 |
 | 50 | `w485930097_innen` | Reihenhaus an Via del Campuccio: Innenausbau | 560 | 4.107 |
-| 51 | `w485930102` | Haus w485930102 | 9.834 | 4.108–4.113 |
+| 51 | `w485930102` | Haus w485930102 | 9.822 | 4.108–4.113 |
 | 52 | `w485930102_innen` | Haus w485930102: Innenausbau | 1.167 | 4.114 |
 | 53 | `w485930107` | Haus w485930107 | 2.483 | 4.115–4.116 |
 | 54 | `w485930107_innen` | Haus w485930107: Innenausbau | 392 | 4.117 |
@@ -187,7 +187,7 @@
 | 118 | `w485930186_innen` | Reihenhaus an Via dei Serragli: Innenausbau | 842 | 4.222 |
 | 119 | `w485930187` | Reihenhaus an Via della Chiesa | 1.518 | 4.223 |
 | 120 | `w485930187_innen` | Reihenhaus an Via della Chiesa: Innenausbau | 728 | 4.224 |
-| 121 | `strassenschilder` | Straßenschilder | 2 | 4.224 |
+| 121 | `strassenschilder` | Straßenschilder | 4 | 4.224 |
 
 ## Bauschritte
 
@@ -2147,7 +2147,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.60 – Reihenhaus an Via del Campuccio – Teil 1/5 (Y 63–67)
 
 - **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.869
+- **Blöcke:** 1.868
 - **Bauteile:** `w485930063`
 
 **Teileliste**
@@ -2156,7 +2156,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.104 |
 | Polierter Tuffstein | `polished_tuff` | 535 |
-| Hellgrauer Beton | `light_gray_concrete` | 222 |
+| Hellgrauer Beton | `light_gray_concrete` | 221 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
 | Glatter Stein | `smooth_stone` | 2 |
 
@@ -2185,14 +2185,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.61 – Reihenhaus an Via del Campuccio – Teil 2/5 (Y 68–75)
 
 - **Y-Bereich:** 68 bis 75
-- **Blöcke:** 1.816
+- **Blöcke:** 1.813
 - **Bauteile:** `w485930063`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.763 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.760 |
 | Graues Buntglas | `gray_stained_glass` | 22 |
 | Glatter Stein | `smooth_stone` | 14 |
 | Polierter Andesit | `polished_andesite` | 11 |
@@ -2717,17 +2717,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.77 – Nebengebäude an Via del Campuccio: Innenausbau & Reihenhaus an Via della Chiesa – Teil 1/4 (Y 62–69)
 
 - **Y-Bereich:** 62 bis 69
-- **Blöcke:** 1.809
+- **Blöcke:** 1.789
 - **Bauteile:** `w485930073_innen`, `w485930075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.375 |
+| Endsteinziegel | `end_stone_bricks` | 1.363 |
 | Polierter Tuffstein | `polished_tuff` | 394 |
-| Glatter Stein | `smooth_stone` | 19 |
 | Weißer Beton | `white_concrete` | 17 |
+| Glatter Stein | `smooth_stone` | 11 |
 | Graues Buntglas | `gray_stained_glass` | 3 |
 | Seelaterne | `sea_lantern` | 1 |
 
@@ -2747,17 +2747,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.78 – Reihenhaus an Via della Chiesa – Teil 2/4 (Y 70–77)
+### Schritt 4.78 – Reihenhaus an Via della Chiesa – Teil 2/4 (Y 70–78)
 
-- **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.650
+- **Y-Bereich:** 70 bis 78
+- **Blöcke:** 1.857
 - **Bauteile:** `w485930075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.596 |
+| Endsteinziegel | `end_stone_bricks` | 1.803 |
 | Weißer Beton | `white_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
@@ -2777,17 +2777,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.79 – Reihenhaus an Via della Chiesa – Teil 3/4 (Y 78–86)
+### Schritt 4.79 – Reihenhaus an Via della Chiesa – Teil 3/4 (Y 79–86)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 1.857
+- **Y-Bereich:** 79 bis 86
+- **Blöcke:** 1.650
 - **Bauteile:** `w485930075`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.803 |
+| Endsteinziegel | `end_stone_bricks` | 1.596 |
 | Weißer Beton | `white_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
 
@@ -3620,14 +3620,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.104 – Reihenhaus an Via del Campuccio – Teil 1/3 (Y 61–72)
 
 - **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.427
+- **Blöcke:** 1.403
 - **Bauteile:** `w485930097`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.134 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.110 |
 | Polierter Tuffstein | `polished_tuff` | 281 |
 | Weißer Beton | `white_concrete` | 6 |
 | Tuffstein | `tuff` | 4 |
@@ -3761,14 +3761,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.108 – Haus w485930102 – Teil 1/6 (Y 63–68)
 
 - **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.766
+- **Blöcke:** 1.754
 - **Bauteile:** `w485930102`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 952 |
+| Hellgrauer Beton | `light_gray_concrete` | 940 |
 | Polierter Tuffstein | `polished_tuff` | 689 |
 | Polierter Andesit | `polished_andesite` | 93 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
@@ -7767,7 +7767,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.224 – Reihenhaus an Via della Chiesa: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 62 bis 86
-- **Blöcke:** 730
+- **Blöcke:** 732
 - **Bauteile:** `w485930187_innen`, `strassenschilder`
 
 **Teileliste**
@@ -7779,10 +7779,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

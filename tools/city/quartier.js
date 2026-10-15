@@ -264,7 +264,8 @@ function baue(project) {
             if (!plan || plan.leer || !plan.cells) continue;
             liste.push(...schilderFuerHaus({ id, cells: plan.cells, boden: plan.boden }, {
               umfeld, groundTopY: kontext.groundTopY, hat: (x, y, z) => ctx.grid.has(x, y, z),
-              beanspruche: (x, y, z, hid) => kontext.beanspruche(x, y, z, hid)
+              beanspruche: (x, y, z, hid) => kontext.beanspruche(x, y, z, hid),
+              frei: (x, z) => parz.owner(x, z) === null
             }));
           }
           if (liste.length) {

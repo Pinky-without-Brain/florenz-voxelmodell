@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 225.060 |
+| Blöcke | 225.031 |
 | Bauschritte | 140 |
 | Y-Bereich | 65 bis 112 |
 | X-Ausdehnung | 226 bis 489 (264 Blöcke) |
 | Z-Ausdehnung | -579 bis -310 (270 Blöcke) |
 | Kleinster Schritt | 749 Blöcke (Schritt 1.110) |
-| Mittlerer Schritt | 1.608 Blöcke |
+| Mittlerer Schritt | 1.607 Blöcke |
 | Größter Schritt | 2.098 Blöcke (Schritt 1.125) |
 
 ## Gesamt-Stückliste
@@ -26,9 +26,9 @@
 | Glatter Sandstein | `smooth_sandstone` | 23.963 | 10,6 % |
 | Polierter Tuffstein | `polished_tuff` | 21.446 | 9,5 % |
 | Weißer Beton | `white_concrete` | 17.214 | 7,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 15.669 | 7,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 15.665 | 7,0 % |
 | Hellgrauer Beton | `light_gray_concrete` | 11.582 | 5,1 % |
-| Endsteinziegel | `end_stone_bricks` | 9.488 | 4,2 % |
+| Endsteinziegel | `end_stone_bricks` | 9.460 | 4,2 % |
 | Orange Keramik | `orange_terracotta` | 8.178 | 3,6 % |
 | Tuffstein | `tuff` | 5.604 | 2,5 % |
 | Polierter Andesit | `polished_andesite` | 2.492 | 1,1 % |
@@ -47,9 +47,9 @@
 | Weiße Keramik | `white_terracotta` | 58 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -64,7 +64,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r4107741` | Palazzo di Sforza Almeni | 14.200 | 1.1–1.8 |
 | 2 | `r4107741_innen` | Palazzo di Sforza Almeni: Innenausbau | 1.773 | 1.9 |
-| 3 | `r4107743` | Casa Bardi | 13.662 | 1.10–1.17 |
+| 3 | `r4107743` | Casa Bardi | 13.658 | 1.10–1.17 |
 | 4 | `r4107743_innen` | Casa Bardi: Innenausbau | 3.321 | 1.18–1.20 |
 | 5 | `r4107746` | Palazzo Durazzo | 24.549 | 1.21–1.37 |
 | 6 | `r4107746_innen` | Palazzo Durazzo: Innenausbau | 6.565 | 1.38–1.43 |
@@ -80,7 +80,7 @@
 | 16 | `w477103982_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.728 | 1.71 |
 | 17 | `w477103986` | Reihenhaus an Via del Castellaccio | 4.818 | 1.72–1.74 |
 | 18 | `w477103986_innen` | Reihenhaus an Via del Castellaccio: Innenausbau | 867 | 1.75 |
-| 19 | `w477103997` | Reihenhaus an Via dei Servi | 12.375 | 1.76–1.82 |
+| 19 | `w477103997` | Reihenhaus an Via dei Servi | 12.347 | 1.76–1.82 |
 | 20 | `w477103997_innen` | Reihenhaus an Via dei Servi: Innenausbau | 2.961 | 1.83–1.84 |
 | 21 | `w477103999` | Reihenhaus an Via dei Servi | 5.120 | 1.85–1.87 |
 | 22 | `w477103999_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.987 | 1.88 |
@@ -112,7 +112,7 @@
 | 48 | `w477104045_innen` | Reihenhaus an Via dei Servi: Innenausbau | 2.540 | 1.135–1.136 |
 | 49 | `w781613860` | Reihenhaus an Via del Castellaccio | 4.709 | 1.137–1.139 |
 | 50 | `w781613860_innen` | Reihenhaus an Via del Castellaccio: Innenausbau | 1.623 | 1.140 |
-| 51 | `strassenschilder` | Straßenschilder | 4 | 1.140 |
+| 51 | `strassenschilder` | Straßenschilder | 7 | 1.140 |
 
 ## Bauschritte
 
@@ -414,7 +414,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.10 – Casa Bardi – Teil 1/8 (Y 65–66)
 
 - **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.757
+- **Blöcke:** 1.756
 - **Bauteile:** `r4107743`
 
 **Teileliste**
@@ -422,7 +422,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.416 |
-| Gelbe Keramik | `yellow_terracotta` | 338 |
+| Gelbe Keramik | `yellow_terracotta` | 337 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -444,14 +444,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.11 – Casa Bardi – Teil 2/8 (Y 67–71)
 
 - **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.716
+- **Blöcke:** 1.713
 - **Bauteile:** `r4107743`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.646 |
+| Gelbe Keramik | `yellow_terracotta` | 1.643 |
 | Polierter Andesit | `polished_andesite` | 62 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 
@@ -2549,7 +2549,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 1.76 – Reihenhaus an Via dei Servi – Teil 1/7 (Y 66–69)
 
 - **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.796
+- **Blöcke:** 1.775
 - **Bauteile:** `w477103997`
 
 **Teileliste**
@@ -2557,7 +2557,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 992 |
-| Endsteinziegel | `end_stone_bricks` | 772 |
+| Endsteinziegel | `end_stone_bricks` | 751 |
 | Weißer Beton | `white_concrete` | 23 |
 | Glatter Stein | `smooth_stone` | 9 |
 
@@ -2580,14 +2580,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.77 – Reihenhaus an Via dei Servi – Teil 2/7 (Y 70–75)
 
 - **Y-Bereich:** 70 bis 75
-- **Blöcke:** 1.626
+- **Blöcke:** 1.619
 - **Bauteile:** `w477103997`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.524 |
+| Endsteinziegel | `end_stone_bricks` | 1.517 |
 | Weißer Beton | `white_concrete` | 66 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 | Glatter Stein | `smooth_stone` | 10 |
@@ -4728,7 +4728,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.140 – Reihenhaus an Via del Castellaccio: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.627
+- **Blöcke:** 1.630
 - **Bauteile:** `w781613860_innen`, `strassenschilder`
 
 **Teileliste**
@@ -4742,11 +4742,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 17 |
 | Rote Keramik | `red_terracotta` | 4 |
 | Weiße Keramik | `white_terracotta` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

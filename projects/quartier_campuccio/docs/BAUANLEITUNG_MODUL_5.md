@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 573.917 |
+| Blöcke | 573.925 |
 | Bauschritte | 357 |
 | Y-Bereich | 57 bis 109 |
-| X-Ausdehnung | -1901 bis -1559 (343 Blöcke) |
+| X-Ausdehnung | -1901 bis -1558 (344 Blöcke) |
 | Z-Ausdehnung | 1272 bis 1733 (462 Blöcke) |
 | Kleinster Schritt | 519 Blöcke (Schritt 5.188) |
 | Mittlerer Schritt | 1.608 Blöcke |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 181.473 | 31,6 % |
 | Polierter Tuffstein | `polished_tuff` | 55.356 | 9,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 50.218 | 8,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 50.218 | 8,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 49.795 | 8,7 % |
 | Weißer Beton | `white_concrete` | 49.186 | 8,6 % |
 | Endsteinziegel | `end_stone_bricks` | 39.698 | 6,9 % |
@@ -52,7 +52,10 @@
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 52 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 30 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -206,6 +209,7 @@
 | 138 | `w481068444_innen` | Reihenhaus an Via Maffia: Innenausbau | 2.656 | 5.354–5.355 |
 | 139 | `w481068445` | Reihenhaus an Via Maffia | 1.622 | 5.356 |
 | 140 | `w481068445_innen` | Reihenhaus an Via Maffia: Innenausbau | 859 | 5.357 |
+| 141 | `strassenschilder` | Straßenschilder | 8 | 5.357 |
 
 ## Bauschritte
 
@@ -12114,11 +12118,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.357 – Reihenhaus an Via Maffia: Innenausbau
+### Schritt 5.357 – Reihenhaus an Via Maffia: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 84
-- **Blöcke:** 859
-- **Bauteile:** `w481068445_innen`
+- **Blöcke:** 867
+- **Bauteile:** `w481068445_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -12129,6 +12133,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -12138,16 +12145,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

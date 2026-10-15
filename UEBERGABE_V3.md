@@ -1,6 +1,6 @@
 # Übergabe V3 – Stadtmodell Florenz (laufendes Protokoll)
 
-**Stand:** 14. Oktober 2026 · **Branch:** `claude/lucid-thompson-gb03b1`
+**Stand:** 15. Oktober 2026 · **Branch:** `claude/lucid-thompson-gb03b1`
 **Zweck:** Eine neue Claude-Instanz soll hier nahtlos weiterarbeiten. Dieses Protokoll wird nach jedem abgeschlossenen Arbeitspaket fortgeschrieben (Abschnitt 4 und 5).
 **Vorgänger:** `UEBERGABE_V2.md` (Dom, V2), `20_Stadtmodell_Florenz/STADTMODELL_PLAN.md` (Programmplan V3, Phasen A–G).
 
@@ -178,10 +178,38 @@ Katalog `wahrzeichen/san_lorenzo/` (REFERENZMASSE, BAUTEIL_KATALOG). Belegt: Mod
 ### W10 Santa Maria Novella – **erledigt**
 Katalog `wahrzeichen/santa_maria_novella/`. Belegt (it.wikipedia): 99,20 × 28,20 m, Querhaus 61,54 m, **6 Joche nach Norden kürzer (15 → 11,5 m)**, Kreuzrippengewölbe auf Bündelpfeilern, Alberti-Fassade quadratisch (Mittelportal 1,5 × Breite, Rosette, Voluten), Campanile über 68 m (Talenti 1332–33). Projekt `projects/santa_maria_novella` (θ −90°, achsparallel, bodenY 61), Bauplan `model/_smn.js` mit Kreuzgewölbe-Funktion (Vereinigung zweier Spitztonnen), Wendeltreppe 7 × 7 im Campanile, Giottos Kruzifix an einer Aufhängung. Campanile w449369043 aus `quartier_palazzuolo` gelöst. Test `tools/test/santa_maria_novella.test.js`.
 
+## 4b. Sitzungsprotokoll 15.10.2026
+
+### H1 Hausböden auf dem Stadtgelände – **erledigt**
+Nutzerbefund: Häuser zu tief, Fenster halb im Boden. Ursache: Quartiere hatten keinen eigenen Boden → Rückfall Y 63. `tools/projects.js` gibt Quartieren jetzt `tools/city/ground_stadt.js` als Boden (`groundFile`), `ground_stadt.groundTopY` klemmt Abfragen außerhalb des Rasters an den Rand; Gebäude am Rasterrand werden gebaut (kein Abbruch mehr).
+- Folgen am Hang (Costa San Giorgio, San Niccolò, Collina): Hausboden = höchstes Gelände des Grundrisses. `tools/city/haus.js`: Eingangsstufen bis **14** Lagen (`EINGANG_MAX`), Teilwände zu Nachbarn reichen höchstens bis zur eigenen Traufe und beginnen frühestens über dem eigenen Boden (vorher R1-Konflikte mit Fundament/Dach), Taschen im Erdgeschoss bekommen einen Durchbruch (`taschenDurchbruch`, ≤ 8 Wandzellen; Teilwände zählen dort nur, wenn sie im Erdgeschoss stehen).
+- Alle 35 Quartiere neu gebaut (Kette in `<scratch>/kette3.sh`: Quartiere → `besitz.js` → Stadtgrund → `webindex.js` → `--cross` → Tests).
+
+### H2 Straßenschilder an Eckhäusern – **erledigt**
+`tools/city/schilder.js`: Jedes Haus an ≥ 2 benannten Straßen/Plätzen bekommt je Name (höchstens 3) ein Wandschild nahe der Ecke, 7 Blöcke über Straße/Boden (Ausweichhöhen 8, 6, 9, 5), in einer freien Straßenzelle vor massiver Wand; Name in der Nachbarzelle oder bis 4 Zellen davor (Gehweg), nie in der Spalte eines anderen Gebäudes. Block `birch_wall_sign@<richtung>` (Palette Rolle `schild`), Text in `q.schilder` → Minecraft-Export schreibt Bedrock-Block-Entities (Tag 49, `schildEntity` in `tools/minecraft/export.js`). Test `tools/test/schilder.test.js`. Gezählt vor dem letzten Neubau: 1.827 Schilder.
+
+### H3 Restliche Platzhalter – **erledigt** (alle Einträge der Welle 3/4)
+| Projekt | Kern | Bauplan |
+|---|---|---|
+| `santo_spirito` | Brunelleschi-Raster (M = 11 Braccia), Umgang, 40 Nischen, Vierungskuppel, Sakristei (Achteck, Loch im OSM-Umriss geschlossen), Campanile 69 m | `model/_ss.js` |
+| `santa_maria_del_carmine` | einschiffig, 5 Kapellen je Seite, Vierungskuppel 35 m, Cappella Brancacci (Fresken), Corsini-Kuppel | `model/_cm.js` |
+| `santissima_annunziata` | Portikus (7 Bögen), Chiostrino dei Voti (offener Hof, Arkaden), Kapellen 8 + 9, Tempietto, Rundtribuna mit 9 Kapellen und Kuppel | `model/_sa.js` |
+| `santa_trinita` | T-Kreuz, 3 Schiffe, 5 Joche, Kapellen am Querhauskopf (Sassetti mit Fresken), Gualberto, Sakristei, Buontalenti-Fassade | `model/_st.js` |
+| `badia_fiorentina` | Saal mit Kassettendecke, Presbyterium im Süden, sechseckiger Campanile 70 m (aus `quartier_signoria` gelöst) | `model/_bf.js` |
+| `palazzo_strozzi`, `palazzo_rucellai`, `palazzo_medici_riccardi`, `bargello`, `ospedale_degli_innocenti` | gemeinsamer Bauplan **`tools/wahrzeichen/palazzo.js`** (Höfe = Löcher des OSM-Polygons, Arkaden/Loggia/Innenwand, Geschossböden, Wendeltreppe mit Kopffreiheit über den Eckpodesten, Walmdach oder Zinnen, Portikus an der Straße); Projektdateien nur Einstellungen (Material, Fensterraster, Portale, Extras wie Torre Volognana oder Della-Robbia-Medaillons) | `model/_ps/_pr/_pm/_ba/_oi.js` |
+| `mercato_nuovo` | offene Halle 3 × 4 Joche, Kreuzgewölbe, Attika, Porcellino | `model/_mn.js` |
+| `ponte_santa_trinita`, `ponte_alla_carraia`, `ponte_alle_grazie`, `ponte_amerigo_vespucci` | **`tools/wahrzeichen/bruecke.js`**: Pfeiler aus den Ausbuchtungen des Umrisses, Wasserspiegel und Fahrbahnhöhe gemessen, Bögen (Ellipse/Segment), Luft unter den Bögen als `arkade`; Hauptmaske aus Flächen (`"gebaeude": []`, `"flaechen": [...]`, neu in `tools/wahrzeichen/projekt.js`) | `model/_p*.js` |
+- Daten: `data/stadt/vorrang.json` um alle neuen IDs ergänzt; Sakristei r7101376 und Campanile w482302683 aus `quartier_maggio`, Badia-Campanile w249686038 aus `quartier_signoria` gelöst (Hausakten gelöscht). „Ponte San Niccolò“ war ein Fehltreffer (Kirche/Oratorium/Stadttor) → `tools/data/wahrzeichen_build.js` verlangt „ponte“ im Namen, `wahrzeichen.json` korrigiert; die Brücke liegt außerhalb des Datengebiets.
+- Tests: `santo_spirito`, `santa_maria_del_carmine`, `santissima_annunziata`, `santa_trinita`, `badia_fiorentina`, `palazzi` (alle fünf), `mercato_nuovo`, `bruecken` (alle vier). Doku je Projekt unter `20_Stadtmodell_Florenz/wahrzeichen/<id>/`; Übersicht `UEBERSICHT_WELLE3.md` (Stand 15.10.: alles gebaut).
+- Hilfsskripte (Scratch, nicht im Repo): `wztest.js <id>` (Bau + R1–R14 ohne R9), `elev.js <id> <θ> <png>` (Ansicht), `pz_content.py` (Inhalte der Palazzi aus einer JSON-Konfiguration), `br_content.py` (Brücken).
+
+### H4 Webapp: ferne Module entladen – **erledigt**
+`webapp/js/engine/city-view.js`: `entladeFerne()` baut die Welt eines Projekts aus den nahen Modulen neu auf, sobald ≥ 3 geladene Module (oder alle) weiter als `showDist + ladeRand + entladeRand` (1400 + 200 + 600) entfernt sind; Rohdaten der fernen Module gibt `ProjectLoader.forgetModule` frei. Browsertest (Playwright, Flug Mitte → Pitti → Westrand → Mitte): 12,0 → 6,3 Mio geladene Blöcke, 96 Module entladen, keine Fehler. Kennzahl `stats().modulesUnloaded`.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
-2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe; **Entladen ferner Module steht noch aus** (bei 448 MB Webdaten wichtiger denn je).
-3. **Wahrzeichen Welle 3/4** nach `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md` (Reihenfolge ~~Santa Croce~~ (W8) → ~~San Lorenzo + Cappelle Medicee~~ (W9) → ~~Santa Maria Novella~~ (W10) → Santo Spirito → …). Je Wahrzeichen: Gebäude in `vorrang.json`, aus Quartieren lösen (z. B. Campanile von Santa Croce w662908308 liegt in `quartier_tintori`), Quartier neu bauen.
+2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
+3. ~~Wahrzeichen Welle 3/4~~ (15.10. alle gebaut). Verfeinerungen möglich: Innenräume der Palazzi (heute offene Säle je Geschoss), Freitreppe im Bargello-Hof, Campanili ohne eigenes OSM-Gebäude (San Lorenzo, Carmine, Annunziata), eiserne Brüstung der Vespucci-Brücke.
 4. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 

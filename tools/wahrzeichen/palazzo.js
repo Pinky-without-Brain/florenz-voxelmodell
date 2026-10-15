@@ -1,7 +1,8 @@
 'use strict';
 // Gemeinsamer Bauplan für Florentiner Palazzi (Wahrzeichen-Welle 4): Block um einen oder mehrere Höfe (Löcher des
 // OSM-Polygons), Geschosse mit Böden, Außenwand mit Fenstern je Geschoss, Hof mit Arkaden im Erdgeschoss, Loggia
-// dahinter, Innenwand mit Türen, eine Wendeltreppe durch alle Geschosse, Kranzgesims und Walmdach (oder Zinnen).
+// dahinter, Innenwand mit Türen (Ring um den Hof in allen Geschossen: Galerie und Säle), eine Wendeltreppe durch alle
+// Geschosse, Kranzgesims und Walmdach (oder Zinnen).
 // Ein Projekt ruft palazzo(cfg) auf und bekommt { lade, plan, modul, zelleBei, Y }; Sonderbauteile (Turm, Loggia an
 // der Straße) hängen über cfg.extra an. Erste Setzung gewinnt; Öffnungen werden vor allen Wänden freigehalten.
 //
@@ -172,9 +173,9 @@ function palazzo(cfg) {
         if (imRaster(v, 20, 3) !== null) for (let yr = 1; yr <= 6; yr++) oeffnung('tuer', 'hofwaende', c.x, Y(yr), c.z);
       }
       if (istPortikuswand(c) && imRaster(c.entlangPortikus === 'u' ? c.u : c.w, cfg.portikus.joch * 2, 3) !== null) for (let yr = 1; yr <= 7; yr++) oeffnung('tuer', 'loggiawand', c.x, Y(yr), c.z);
-      if (istInnenwand(c)) {
+      if (istInnenwand(c)) {                                          // Ring um den Hof in allen Geschossen, Türen je Geschoss
         const v = c.hofEntlang ? (c.hofEntlang === 'u' ? c.u : c.w) : c.u + c.w;
-        if (imRaster(v, 14, 3) !== null) for (let yr = 1; yr <= 6; yr++) oeffnung('tuer', 'innenwaende', c.x, Y(yr), c.z);
+        if (imRaster(v, 14, 3) !== null) for (let s = 0; s < cfg.geschosse.length; s++) for (let yr = BASIS[s] + 1; yr <= BASIS[s] + 6; yr++) oeffnung('tuer', 'innenwaende', c.x, Y(yr), c.z);
       }
     }
     if (cfg.extra && cfg.extra.oeffnungen) cfg.extra.oeffnungen(api);
@@ -249,7 +250,11 @@ function palazzo(cfg) {
     for (const c of D.haupt) {
       if (!istInnenwand(c) && !istPortikuswand(c)) continue;
       const p = istPortikuswand(c) ? 'loggiawand' : 'innenwaende';
-      for (let yr = 1; yr < BASIS[1]; yr++) if (!hat(c.x, Y(yr), c.z) && !luft.has(key(c.x, Y(yr), c.z))) set(c.x, Y(yr), c.z, p === 'loggiawand' ? T.serena : T.putz, p);
+      const bis = p === 'innenwaende' ? TRAUFE : BASIS[1];
+      for (let yr = 1; yr < bis; yr++) {
+        if (BASIS.includes(yr) || hat(c.x, Y(yr), c.z) || luft.has(key(c.x, Y(yr), c.z))) continue;   // Geschossböden laufen durch
+        set(c.x, Y(yr), c.z, p === 'loggiawand' ? T.serena : T.putz, p === 'innenwaende' && yr > BASIS[1] ? 'innenwaende_og' : p);   // Obergeschosse nach den Böden (Modul 3)
+      }
     }
 
     // ---- Modul 3: Geschossböden (mit Treppenloch), oberste Decke

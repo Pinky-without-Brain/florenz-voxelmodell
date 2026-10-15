@@ -8,11 +8,11 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 76.925 |
+| Blöcke | 76.933 |
 | Bauschritte | 52 |
 | Y-Bereich | 61 bis 98 |
 | X-Ausdehnung | -1604 bis -1495 (110 Blöcke) |
-| Z-Ausdehnung | 1606 bis 1744 (139 Blöcke) |
+| Z-Ausdehnung | 1606 bis 1745 (140 Blöcke) |
 | Kleinster Schritt | 552 Blöcke (Schritt 10.40) |
 | Mittlerer Schritt | 1.479 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 10.42) |
@@ -45,6 +45,10 @@
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 12 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -89,6 +93,7 @@
 | 30 | `w478249844_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 1.179 | 10.49 |
 | 31 | `w478249845` | Reihenhaus an Via dei Preti | 3.234 | 10.50–10.51 |
 | 32 | `w478249845_innen` | Reihenhaus an Via dei Preti: Innenausbau | 1.386 | 10.52 |
+| 33 | `strassenschilder` | Straßenschilder | 8 | 10.52 |
 
 ## Bauschritte
 
@@ -1812,11 +1817,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.52 – Reihenhaus an Via dei Preti: Innenausbau
+### Schritt 10.52 – Reihenhaus an Via dei Preti: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 62 bis 86
-- **Blöcke:** 1.386
-- **Bauteile:** `w478249845_innen`
+- **Blöcke:** 1.394
+- **Bauteile:** `w478249845_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1827,8 +1832,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1838,16 +1847,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

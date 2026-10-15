@@ -8,7 +8,7 @@
 const { schild } = require('../spec/palette.js');
 
 const N4 = [[1, 0, 'o'], [-1, 0, 'w'], [0, 1, 's'], [0, -1, 'n']];
-const HOEHE = 7, HOEHE_MIN = 5, HOEHE_MAX = 9, MAX_PRO_HAUS = 3;
+const HOEHE = 7, HOEHE_MIN = 5, HOEHE_MAX = 9, MAX_PRO_HAUS = 3, SUCHE = 4;
 
 /** Text für ein Schild: Großbuchstaben, Wortumbruch auf Zeilen ≤ 15 Zeichen, höchstens 4 Zeilen. */
 function schildText(name) {
@@ -23,7 +23,8 @@ function schildText(name) {
 }
 
 /**
- * schilderFuerHaus({ id, cells, boden }, { umfeld, groundTopY, hat(x,y,z), beanspruche(x,y,z,id) })
+ * schilderFuerHaus({ id, cells, boden }, { umfeld, groundTopY, hat(x,y,z), beanspruche(x,y,z,id), frei?(x,z) })
+ * frei(x, z): Spalte gehört keinem Gebäude (sonst kein Schild dort und keine Namenssuche darüber hinaus).
  * -> [{ x, y, z, typ, richtung, name, text }]. hat = Zelle im Grid belegt (Wand), beanspruche reserviert die Schildzelle.
  */
 function schilderFuerHaus(plan, env) {
@@ -33,7 +34,14 @@ function schilderFuerHaus(plan, env) {
     for (const [dx, dz, richtung] of N4) {
       const ox = x + dx, oz = z + dz;
       if (S.has(ox + ',' + oz)) continue;
-      const name = env.umfeld.nameBei(ox, oz);
+      if (env.frei && !env.frei(ox, oz)) continue;                         // Nachbarhaus, keine Straße
+      // Name der Straße: in der Nachbarzelle oder bis SUCHE Zellen weiter vor der Fassade (Gehweg, Straßenrand)
+      let name = null;
+      for (let k = 0; k <= SUCHE && !name; k++) {
+        const sx = ox + dx * k, sz = oz + dz * k;
+        if (k > 0 && env.frei && !env.frei(sx, sz)) break;
+        name = env.umfeld.nameBei(sx, sz);
+      }
       if (!name) continue;
       if (!jeName.has(name)) jeName.set(name, []);
       jeName.get(name).push({ cx: x, cz: z, ox, oz, richtung });

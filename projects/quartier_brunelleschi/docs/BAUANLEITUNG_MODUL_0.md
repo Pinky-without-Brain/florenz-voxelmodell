@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 694.630 |
+| Blöcke | 694.633 |
 | Bauschritte | 435 |
 | Y-Bereich | 62 bis 110 |
 | X-Ausdehnung | -30 bis 417 (448 Blöcke) |
@@ -51,10 +51,10 @@
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 84 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 76 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -176,7 +176,7 @@
 | 106 | `w519726569_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 3.051 | 0.432–0.433 |
 | 107 | `w519726570` | Reihenhaus an Via dei Servi | 1.723 | 0.434 |
 | 108 | `w519726570_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.394 | 0.435 |
-| 109 | `strassenschilder` | Straßenschilder | 4 | 0.435 |
+| 109 | `strassenschilder` | Straßenschilder | 7 | 0.435 |
 
 ## Bauschritte
 
@@ -14302,7 +14302,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.435 – Reihenhaus an Via dei Servi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.398
+- **Blöcke:** 1.401
 - **Bauteile:** `w519726570_innen`, `strassenschilder`
 
 **Teileliste**
@@ -14314,13 +14314,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

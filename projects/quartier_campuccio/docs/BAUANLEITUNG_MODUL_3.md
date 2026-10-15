@@ -8,10 +8,10 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 131.127 |
+| Blöcke | 131.133 |
 | Bauschritte | 98 |
 | Y-Bereich | 59 bis 99 |
-| X-Ausdehnung | -1985 bis -1792 (194 Blöcke) |
+| X-Ausdehnung | -1986 bis -1792 (195 Blöcke) |
 | Z-Ausdehnung | 1753 bis 1908 (156 Blöcke) |
 | Kleinster Schritt | 512 Blöcke (Schritt 3.16) |
 | Mittlerer Schritt | 1.338 Blöcke |
@@ -46,10 +46,13 @@
 | Rote Keramik | `red_terracotta` | 48 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 48 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -126,7 +129,7 @@
 | 62 | `w483076893_innen` | Reihenhaus an Via Santa Maria: Innenausbau | 930 | 3.96 |
 | 63 | `w483076894` | Reihenhaus an Via Santa Maria | 1.530 | 3.97 |
 | 64 | `w483076894_innen` | Reihenhaus an Via Santa Maria: Innenausbau | 1.056 | 3.98 |
-| 65 | `strassenschilder` | Straßenschilder | 2 | 3.98 |
+| 65 | `strassenschilder` | Straßenschilder | 8 | 3.98 |
 
 ## Bauschritte
 
@@ -3451,7 +3454,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.98 – Reihenhaus an Via Santa Maria: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 61 bis 84
-- **Blöcke:** 1.058
+- **Blöcke:** 1.064
 - **Bauteile:** `w483076894_innen`, `strassenschilder`
 
 **Teileliste**
@@ -3463,7 +3466,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Rote Keramik | `red_terracotta` | 1 |
 | Weiße Keramik | `white_terracotta` | 1 |
 

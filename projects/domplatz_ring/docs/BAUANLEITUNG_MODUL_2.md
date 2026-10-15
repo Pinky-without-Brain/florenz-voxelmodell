@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 147.292 |
+| Blöcke | 147.303 |
 | Bauschritte | 90 |
 | Y-Bereich | 65 bis 118 |
 | X-Ausdehnung | -387 bis -256 (132 Blöcke) |
@@ -51,10 +51,10 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 9 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -92,7 +92,7 @@
 | 22 | `w491923452_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 2.079 | 2.87 |
 | 23 | `w491923453` | Reihenhaus an Piazza degli Adimari | 3.337 | 2.88–2.89 |
 | 24 | `w491923453_innen` | Reihenhaus an Piazza degli Adimari: Innenausbau | 1.503 | 2.90 |
-| 25 | `strassenschilder` | Straßenschilder | 13 | 2.90 |
+| 25 | `strassenschilder` | Straßenschilder | 24 | 2.90 |
 
 ## Bauschritte
 
@@ -3131,7 +3131,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 2.90 – Reihenhaus an Piazza degli Adimari: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 66 bis 102
-- **Blöcke:** 1.516
+- **Blöcke:** 1.527
 - **Bauteile:** `w491923453_innen`, `strassenschilder`
 
 **Teileliste**
@@ -3145,12 +3145,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 12 |
 | Weiße Keramik | `white_terracotta` | 12 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 9 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 5 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 5 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 213.607 |
+| Blöcke | 213.610 |
 | Bauschritte | 142 |
 | Y-Bereich | 60 bis 115 |
 | X-Ausdehnung | -241 bis -60 (182 Blöcke) |
@@ -49,8 +49,10 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 48 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 44 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -82,7 +84,7 @@
 | 16 | `w480206299_innen` | Renaissance-Palazzo an Via Ricasoli: Innenausbau | 7.905 | 7.135–7.140 |
 | 17 | `w480206300` | Wohnturm an Piazza del Duomo | 1.987 | 7.141 |
 | 18 | `w480206300_innen` | Wohnturm an Piazza del Duomo: Innenausbau | 1.202 | 7.142 |
-| 19 | `strassenschilder` | Straßenschilder | 4 | 7.142 |
+| 19 | `strassenschilder` | Straßenschilder | 7 | 7.142 |
 
 ## Bauschritte
 
@@ -4662,7 +4664,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.142 – Wohnturm an Piazza del Duomo: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 100
-- **Blöcke:** 1.206
+- **Blöcke:** 1.209
 - **Bauteile:** `w480206300_innen`, `strassenschilder`
 
 **Teileliste**
@@ -4676,8 +4678,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 12 |
 | Weiße Keramik | `white_terracotta` | 12 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

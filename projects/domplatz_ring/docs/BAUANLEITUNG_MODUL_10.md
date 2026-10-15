@@ -47,10 +47,9 @@
 | Tuffsteinziegel | `tuff_bricks` | 57 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,1 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 8 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1205,10 +1204,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 8 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 6 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
 | Seelaterne | `sea_lantern` | 4 |

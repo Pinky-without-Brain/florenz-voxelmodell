@@ -17,6 +17,13 @@
       "tip": "Weiß verputzt.",
       "caution": "Darüber liegt der unzugängliche Dachraum.",
       "fact": "Die Loggia wurde zum Vorbild für die Platzfront: Annunziata und Loggia dei Serviti folgen ihr."
+    },
+    "innenwaende_og": {
+      "title": "Innenwände der Obergeschosse",
+      "description": "Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.",
+      "tip": "Erst den Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse."
     }
   }
 }

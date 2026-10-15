@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 79.568 |
+| Blöcke | 79.569 |
 | Bauschritte | 52 |
 | Y-Bereich | 66 bis 112 |
 | X-Ausdehnung | -244 bis -137 (108 Blöcke) |
@@ -50,7 +50,7 @@
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 6 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -89,7 +89,7 @@
 | 22 | `w542315429_innen` | Reihenhaus an Via Sant'Elisabetta: Innenausbau | 1.267 | 6.42 |
 | 23 | `w682529759` | Palazzo des Cinquecento an Via dei Calzaiuoli | 13.392 | 6.43–6.49 |
 | 24 | `w682529759_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 3.584 | 6.50–6.52 |
-| 25 | `strassenschilder` | Straßenschilder | 13 | 6.52 |
+| 25 | `strassenschilder` | Straßenschilder | 14 | 6.52 |
 
 ## Bauschritte
 
@@ -1885,7 +1885,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 6.52 – Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau – Teil 3/3 (Y 88–97) & Straßenschilder
 
 - **Y-Bereich:** 73 bis 97
-- **Blöcke:** 1.212
+- **Blöcke:** 1.213
 - **Bauteile:** `w682529759_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1901,7 +1901,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |

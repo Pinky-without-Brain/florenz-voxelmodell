@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 348.967 |
+| Blöcke | 348.971 |
 | Bauschritte | 227 |
 | Y-Bereich | 61 bis 111 |
 | X-Ausdehnung | -554 bis -331 (224 Blöcke) |
@@ -51,8 +51,10 @@
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 47 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -124,7 +126,7 @@
 | 56 | `w495261022_innen` | Haus w495261022: Innenausbau | 841 | 0.224 |
 | 57 | `w495261025` | Reihenhaus an Borgo San Lorenzo | 2.192 | 0.225–0.226 |
 | 58 | `w495261025_innen` | Reihenhaus an Borgo San Lorenzo: Innenausbau | 1.731 | 0.227 |
-| 59 | `strassenschilder` | Straßenschilder | 3 | 0.227 |
+| 59 | `strassenschilder` | Straßenschilder | 7 | 0.227 |
 
 ## Bauschritte
 
@@ -7593,7 +7595,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.227 – Reihenhaus an Borgo San Lorenzo: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 65 bis 89
-- **Blöcke:** 1.734
+- **Blöcke:** 1.738
 - **Bauteile:** `w495261025_innen`, `strassenschilder`
 
 **Teileliste**
@@ -7607,8 +7609,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 

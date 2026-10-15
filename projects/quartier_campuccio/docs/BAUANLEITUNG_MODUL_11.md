@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 157.576 |
+| Blöcke | 157.587 |
 | Bauschritte | 106 |
 | Y-Bereich | 62 bis 104 |
 | X-Ausdehnung | -1639 bis -1423 (217 Blöcke) |
@@ -48,6 +48,9 @@
 | Rote Keramik | `red_terracotta` | 24 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 24 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 9 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -89,6 +92,7 @@
 | 26 | `w483269096_innen` | Reihenhaus an Via Romana: Innenausbau | 1.728 | 11.105 |
 | 27 | `w483269098` | Reihenhaus an Via Romana | 918 | 11.106 |
 | 28 | `w483269098_innen` | Reihenhaus an Via Romana: Innenausbau | 2 | 11.106 |
+| 29 | `strassenschilder` | Straßenschilder | 11 | 11.106 |
 
 ## Bauschritte
 
@@ -3460,11 +3464,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.106 – Reihenhaus an Via Romana & Reihenhaus an Via Romana: Innenausbau
+### Schritt 11.106 – Reihenhaus an Via Romana & Reihenhaus an Via Romana: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 98
-- **Blöcke:** 920
-- **Bauteile:** `w483269098`, `w483269098_innen`
+- **Blöcke:** 931
+- **Bauteile:** `w483269098`, `w483269098_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -3473,21 +3477,24 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rosa Keramik | `pink_terracotta` | 383 |
 | Terrakotta | `terracotta` | 274 |
 | Polierter Tuffstein | `polished_tuff` | 258 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
 | Ziegelsteine | `bricks` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.
