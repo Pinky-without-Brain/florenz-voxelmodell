@@ -29,7 +29,7 @@ Polygon im Rahmen (u \| w, Blöcke): Langhaus u 0..≈100 × w −32..31,5; Vier
 | Seitenkapellen | sieben auf der rechten Seite | it.wikipedia | B |
 | Alte Sakristei | Würfel mit Schirmkuppel aus 12 Segmenten | it.wikipedia | A |
 | **Cappella dei Principi** | Achteck innen **56 Blöcke = 28 m**, Laterne bis Lage 112 = **Y 179 = 59 m über Gelände 61** | „ambiente ottagonale … largo 28 metri“, „altezza di 59 metri“ ([it.wikipedia Cappella dei Principi](https://it.wikipedia.org/wiki/Cappella_dei_Principi)) | A |
-| Campanile | nicht modelliert (kein eigenes OSM-Gebäude) | 54 m, Ruggieri 1740 (it.wikipedia) | – |
+| Campanile | seit V5b gebaut (Modul 9): 54 m = Oberkante Lage 104 über Gelände 63, Lage **neben der Neuen Sakristei am Nordende des Querhauses**, Rechteck u 114..128 × w 51..67 | 54 m, Ruggieri 1740–41 (it.wikipedia, gonews.it); Lage „accanto alla Sagrestia Nuova, all’estremità destra del transetto“ (it.wikipedia) | Höhe A, Lage B/C |
 
 ## 3. Entwurfswerte (Stufe C)
 Säulen Lage 1..14, Kapitell 15, Kämpfer 16, Bögen ab 17; Kassettendecke Lage 42 (21 m); Traufe 46, First 54; Seitenschiff-Hängekuppeln Lage 19..24, Pultdach 32→27; Vierung: Bögen Kämpfer 27, Pendentifs 39..47, Tambour 48..57, Kuppel bis 72, Laterne bis 80; Sakristeien Würfel bis Lage 24/26 mit Halbkugel; Cappella dei Principi: Wände bis Lage 50, Tambour bis 66, Kuppel bis 104.

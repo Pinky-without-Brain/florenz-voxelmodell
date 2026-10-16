@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 33.800 |
+| Blöcke | 33.794 |
 | Bauschritte | 23 |
 | Y-Bereich | 68 bis 121 |
 | X-Ausdehnung | 640 bis 759 (120 Blöcke) |
 | Z-Ausdehnung | -967 bis -827 (141 Blöcke) |
 | Kleinster Schritt | 338 Blöcke (Schritt 2.23) |
-| Mittlerer Schritt | 1.470 Blöcke |
+| Mittlerer Schritt | 1.469 Blöcke |
 | Größter Schritt | 1.906 Blöcke (Schritt 2.21) |
 
 ## Gesamt-Stückliste
@@ -22,11 +22,11 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Glatter Stein | `smooth_stone` | 16.656 | 49,3 % |
-| Weißer Beton | `white_concrete` | 9.953 | 29,4 % |
+| Weißer Beton | `white_concrete` | 9.953 | 29,5 % |
 | Steinziegel | `stone_bricks` | 3.490 | 10,3 % |
 | Tuffstein | `tuff` | 2.063 | 6,1 % |
-| Glatter Quarzblock | `smooth_quartz` | 479 | 1,4 % |
-| Goldblock | `gold_block` | 190 | 0,6 % |
+| Glatter Quarzblock | `smooth_quartz` | 475 | 1,4 % |
+| Goldblock | `gold_block` | 188 | 0,6 % |
 | Terrakotta | `terracotta` | 159 | 0,5 % |
 | Hellblaues Buntglas | `light_blue_stained_glass` | 112 | 0,3 % |
 | Rotes Buntglas | `red_stained_glass` | 111 | 0,3 % |
@@ -45,7 +45,7 @@
 | 1 | `innenfassade` | Innenfassade | 6.262 | 2.1–2.4 |
 | 2 | `kapellenpfeiler` | Kapellenpfeiler und Bögen | 17.302 | 2.5–2.15 |
 | 3 | `kapellendecken` | Kapellendecken | 4.163 | 2.16–2.18 |
-| 4 | `altaere` | Altäre | 537 | 2.19 |
+| 4 | `altaere` | Altäre | 531 | 2.19 |
 | 5 | `hochwand` | Hochwand | 5.198 | 2.20–2.22 |
 | 6 | `tempietto` | Tempietto | 338 | 2.23 |
 
@@ -568,15 +568,15 @@ Die Kapellen sind unterschiedlich tief.
 ### Schritt 2.19 – Altäre
 
 - **Y-Bereich:** 68 bis 70
-- **Blöcke:** 537
+- **Blöcke:** 531
 - **Bauteile:** `altaere`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 358 |
-| Goldblock | `gold_block` | 179 |
+| Glatter Quarzblock | `smooth_quartz` | 354 |
+| Goldblock | `gold_block` | 177 |
 
 **Beschreibung**
 

@@ -13,6 +13,7 @@ const PAL = require('../../../tools/spec/palette.js');
 const ground = require('../../../tools/city/ground_stadt.js');
 
 const { P, K2, Y, T, WZ } = G;
+const WZ_FRESKO = (f) => T.fresko(f);
 const MK = G.M.masken.korridor;
 const N4 = [[1, 0], [-1, 0], [0, 1], [0, -1]];
 const ALLE_KORRIDOR = WZ.Maske.ausGebaeude(['w1344547176', 'w1394832044', 'w1394832037', 'w1394832038', 'w1394832039',
@@ -143,6 +144,12 @@ const LICHT = new Set();
 }
 const istWand = (c) => c.d8 <= 2;
 const abschnitt = (c) => `korridor_${Math.min(3, Math.floor(c.d / 180))}`;
+// Bilderfelder (Katalog §10 Teil 6): 6 breit × 4 hoch, Unterkante 2 über der Gehfläche (yf + 3), innerste Wandlage
+// (d8 = 2), beide Wände. Die Fenster stehen im Raster 8 (d % 8 < 2); in jeder Lücke von 6 Zellen sitzt ein Feld.
+const BILD_FARBEN = ['rot', 'blau', 'gelb', 'gruen', 'braun'];
+const bildBlock = (c) => (c.d8 === 2 && c.d <= D_MAX && c.d % 8 >= 2 ? Math.floor(c.d / 8) : -1);
+const bildRand = (c, y) => c.d % 8 === 2 || c.d % 8 === 7 || y === c.yf + 3 || y === c.yf + 6;
+const istBild = (c, y) => y >= c.yf + 3 && y <= c.yf + 6 && bildBlock(c) >= 0;
 const DIR_VON = (dx, dz) => (dz === -1 ? 'n' : dx === 1 ? 'o' : dz === 1 ? 's' : 'w');
 
 module.exports = {
@@ -181,6 +188,7 @@ module.exports = {
       for (const c of zellen) {
         if (!istWand(c)) continue;
         for (let y = c.yf + 1; y <= c.yf + 7; y++) {
+          if (istBild(c, y)) continue;
           const fenster = c.d < D_MAX + 1 && (c.d % 8) < 2 && y >= c.yf + 3 && y <= c.yf + 5;
           B.set(wa, c.x, y, c.z, fenster ? T.glas : (c.d8 === 1 ? T.forte : T.putz));
         }
@@ -191,6 +199,15 @@ module.exports = {
     // 3 Licht in der Decke über dem Gang (Abstand ≤ 10)
     const li = teil('korridor_licht_olt');
     for (const k of LICHT) { const [x, y, z] = k.split(',').map(Number); B.set(li, x, y, z, T.licht); }
+    // 3a Bilderfelder (vereinfacht, nicht nach Vorbild): Rahmen Gold, Feld Fresko
+    const bi = teil('korridor_bilder');
+    for (const c of ZK) {
+      if (!istWand(c)) continue;
+      for (let y = c.yf + 3; y <= c.yf + 6; y++) {
+        if (!istBild(c, y)) continue;
+        B.set(bi, c.x, y, c.z, bildRand(c, y) ? T.gold : WZ_FRESKO(BILD_FARBEN[bildBlock(c) % BILD_FARBEN.length]));
+      }
+    }
     // 3b Luft unter dem Gang über Straßen und am abgehobenen Teilstück: Durchgang (wie beim Ponte Vecchio)
     const unten = [];
     for (const c of ZK) if (ohneUnterbau(c)) for (let y = c.gt + 1; y <= c.yf - 2; y++) if (B.frei(c.x, y, c.z)) unten.push({ x: c.x, y, z: c.z });

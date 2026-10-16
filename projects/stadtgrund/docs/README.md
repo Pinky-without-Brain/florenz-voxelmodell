@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 15.898.795 Blöcke in 9.699 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 15.897.777 Blöcke in 9.699 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -62,7 +62,7 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 50 | Kachel 5/3 – Piazza Santa Maria Novella | 60.875 | 43 | [BAUANLEITUNG_MODUL_50.md](BAUANLEITUNG_MODUL_50.md) |
 | 51 | Kachel 6/3 – Piazza Santa Maria Novella | 58.349 | 35 | [BAUANLEITUNG_MODUL_51.md](BAUANLEITUNG_MODUL_51.md) |
 | 52 | Kachel 7/3 – Piazza Madonna degli Aldobrandini | 31.991 | 22 | [BAUANLEITUNG_MODUL_52.md](BAUANLEITUNG_MODUL_52.md) |
-| 53 | Kachel 8/3 – Piazza San Lorenzo | 42.742 | 29 | [BAUANLEITUNG_MODUL_53.md](BAUANLEITUNG_MODUL_53.md) |
+| 53 | Kachel 8/3 – Piazza San Lorenzo | 42.299 | 29 | [BAUANLEITUNG_MODUL_53.md](BAUANLEITUNG_MODUL_53.md) |
 | 54 | Kachel 9/3 – palazzo_medici_riccardi | 34.135 | 21 | [BAUANLEITUNG_MODUL_54.md](BAUANLEITUNG_MODUL_54.md) |
 | 55 | Kachel 10/3 – Piazza Brunelleschi | 34.999 | 26 | [BAUANLEITUNG_MODUL_55.md](BAUANLEITUNG_MODUL_55.md) |
 | 56 | Kachel 11/3 – Piazza Brunelleschi | 48.181 | 28 | [BAUANLEITUNG_MODUL_56.md](BAUANLEITUNG_MODUL_56.md) |
@@ -90,8 +90,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 78 | Kachel 3/5 – Piazza d'Ognissanti | 184.956 | 105 | [BAUANLEITUNG_MODUL_78.md](BAUANLEITUNG_MODUL_78.md) |
 | 79 | Kachel 4/5 – Piazza d'Ognissanti | 52.017 | 37 | [BAUANLEITUNG_MODUL_79.md](BAUANLEITUNG_MODUL_79.md) |
 | 80 | Kachel 5/5 – Piazza degli Ottaviani | 30.151 | 21 | [BAUANLEITUNG_MODUL_80.md](BAUANLEITUNG_MODUL_80.md) |
-| 81 | Kachel 6/5 – Via del Moro | 34.391 | 22 | [BAUANLEITUNG_MODUL_81.md](BAUANLEITUNG_MODUL_81.md) |
-| 82 | Kachel 7/5 – palazzo_strozzi | 34.359 | 20 | [BAUANLEITUNG_MODUL_82.md](BAUANLEITUNG_MODUL_82.md) |
+| 81 | Kachel 6/5 – Via del Moro | 34.299 | 22 | [BAUANLEITUNG_MODUL_81.md](BAUANLEITUNG_MODUL_81.md) |
+| 82 | Kachel 7/5 – palazzo_strozzi | 34.146 | 20 | [BAUANLEITUNG_MODUL_82.md](BAUANLEITUNG_MODUL_82.md) |
 | 83 | Kachel 8/5 – Piazza della Repubblica | 56.998 | 34 | [BAUANLEITUNG_MODUL_83.md](BAUANLEITUNG_MODUL_83.md) |
 | 84 | Kachel 9/5 – Piazza del Duomo | 27.113 | 18 | [BAUANLEITUNG_MODUL_84.md](BAUANLEITUNG_MODUL_84.md) |
 | 85 | Kachel 10/5 – Piazza del Duomo | 31.048 | 23 | [BAUANLEITUNG_MODUL_85.md](BAUANLEITUNG_MODUL_85.md) |
@@ -105,8 +105,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 93 | Kachel 3/6 – Piazza di Cestello | 206.154 | 117 | [BAUANLEITUNG_MODUL_93.md](BAUANLEITUNG_MODUL_93.md) |
 | 94 | Kachel 4/6 – ponte_alla_carraia | 271.233 | 138 | [BAUANLEITUNG_MODUL_94.md](BAUANLEITUNG_MODUL_94.md) |
 | 95 | Kachel 5/6 – Piazza Carlo Goldoni | 141.050 | 79 | [BAUANLEITUNG_MODUL_95.md](BAUANLEITUNG_MODUL_95.md) |
-| 96 | Kachel 6/6 – Piazza dei Rucellai | 34.249 | 23 | [BAUANLEITUNG_MODUL_96.md](BAUANLEITUNG_MODUL_96.md) |
-| 97 | Kachel 7/6 – Piazza dei Davanzati | 29.917 | 19 | [BAUANLEITUNG_MODUL_97.md](BAUANLEITUNG_MODUL_97.md) |
+| 96 | Kachel 6/6 – Piazza dei Rucellai | 34.160 | 23 | [BAUANLEITUNG_MODUL_96.md](BAUANLEITUNG_MODUL_96.md) |
+| 97 | Kachel 7/6 – Piazza dei Davanzati | 29.734 | 19 | [BAUANLEITUNG_MODUL_97.md](BAUANLEITUNG_MODUL_97.md) |
 | 98 | Kachel 8/6 – Piazza della Repubblica | 49.170 | 30 | [BAUANLEITUNG_MODUL_98.md](BAUANLEITUNG_MODUL_98.md) |
 | 99 | Kachel 9/6 – Piazza della Signoria | 35.530 | 25 | [BAUANLEITUNG_MODUL_99.md](BAUANLEITUNG_MODUL_99.md) |
 | 100 | Kachel 10/6 – badia_fiorentina | 39.037 | 25 | [BAUANLEITUNG_MODUL_100.md](BAUANLEITUNG_MODUL_100.md) |
@@ -151,7 +151,7 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 139 | Kachel 4/9 – Via della Chiesa | 47.680 | 29 | [BAUANLEITUNG_MODUL_139.md](BAUANLEITUNG_MODUL_139.md) |
 | 140 | Kachel 5/9 – Via Maggio | 34.799 | 24 | [BAUANLEITUNG_MODUL_140.md](BAUANLEITUNG_MODUL_140.md) |
 | 141 | Kachel 6/9 – Piazza dei Pitti | 60.613 | 42 | [BAUANLEITUNG_MODUL_141.md](BAUANLEITUNG_MODUL_141.md) |
-| 142 | Kachel 7/9 – Costa di San Giorgio | 85.338 | 56 | [BAUANLEITUNG_MODUL_142.md](BAUANLEITUNG_MODUL_142.md) |
+| 142 | Kachel 7/9 – grotta_buontalenti | 85.340 | 56 | [BAUANLEITUNG_MODUL_142.md](BAUANLEITUNG_MODUL_142.md) |
 | 143 | Kachel 8/9 – Costa di San Giorgio | 73.969 | 48 | [BAUANLEITUNG_MODUL_143.md](BAUANLEITUNG_MODUL_143.md) |
 | 144 | Kachel 9/9 – Via dei Bardi | 159.719 | 89 | [BAUANLEITUNG_MODUL_144.md](BAUANLEITUNG_MODUL_144.md) |
 | 145 | Kachel 10/9 – ponte_alle_grazie | 264.342 | 141 | [BAUANLEITUNG_MODUL_145.md](BAUANLEITUNG_MODUL_145.md) |
@@ -204,18 +204,18 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 192 | Kachel 12/12 – Viale Galileo | 117.785 | 72 | [BAUANLEITUNG_MODUL_192.md](BAUANLEITUNG_MODUL_192.md) |
 | 193 | Kachel 13/12 – Via del Monte alle Croci | 124.575 | 80 | [BAUANLEITUNG_MODUL_193.md](BAUANLEITUNG_MODUL_193.md) |
 | 194 | Kachel 14/12 – Viale Michelangiolo | 108.348 | 77 | [BAUANLEITUNG_MODUL_194.md](BAUANLEITUNG_MODUL_194.md) |
-| | **Summe** | **15.898.795** | **9.699** | |
+| | **Summe** | **15.897.777** | **9.699** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Grasblock | `grass_block` | 4.605.394 | 29,0 % |
-| Polierter Tuffstein | `polished_tuff` | 4.382.336 | 27,6 % |
+| Polierter Tuffstein | `polished_tuff` | 4.381.935 | 27,6 % |
 | Wasser | `water` | 2.138.530 | 13,5 % |
-| Stein | `stone` | 2.118.193 | 13,3 % |
+| Stein | `stone` | 2.117.740 | 13,3 % |
 | Kies | `gravel` | 1.358.225 | 8,5 % |
-| Glatter Stein | `smooth_stone` | 739.957 | 4,7 % |
+| Glatter Stein | `smooth_stone` | 739.793 | 4,7 % |
 | Tuffstein | `tuff` | 236.931 | 1,5 % |
 | Polierter Andesit | `polished_andesite` | 219.603 | 1,4 % |
 | Steinziegel | `stone_bricks` | 57.937 | 0,4 % |

@@ -8,32 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 26.570 |
+| Blöcke | 26.124 |
 | Bauschritte | 17 |
 | Y-Bereich | 68 bis 149 |
 | X-Ausdehnung | 706 bis 761 (56 Blöcke) |
 | Z-Ausdehnung | -969 bis -914 (56 Blöcke) |
 | Kleinster Schritt | 342 Blöcke (Schritt 4.17) |
-| Mittlerer Schritt | 1.563 Blöcke |
+| Mittlerer Schritt | 1.537 Blöcke |
 | Größter Schritt | 2.016 Blöcke (Schritt 4.15) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 10.919 | 41,1 % |
-| Glatter Stein | `smooth_stone` | 4.136 | 15,6 % |
-| Tuffstein | `tuff` | 3.361 | 12,6 % |
-| Ziegelsteine | `bricks` | 2.262 | 8,5 % |
-| Terrakotta | `terracotta` | 1.585 | 6,0 % |
+| Weißer Beton | `white_concrete` | 10.590 | 40,5 % |
+| Glatter Stein | `smooth_stone` | 4.136 | 15,8 % |
+| Tuffstein | `tuff` | 3.244 | 12,4 % |
+| Ziegelsteine | `bricks` | 2.262 | 8,7 % |
+| Terrakotta | `terracotta` | 1.585 | 6,1 % |
 | Braune Keramik | `brown_terracotta` | 473 | 1,8 % |
 | Blaue Keramik | `blue_terracotta` | 472 | 1,8 % |
-| Grüne Keramik | `green_terracotta` | 464 | 1,7 % |
-| Orange Keramik | `orange_terracotta` | 464 | 1,7 % |
+| Grüne Keramik | `green_terracotta` | 464 | 1,8 % |
+| Orange Keramik | `orange_terracotta` | 464 | 1,8 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 457 | 1,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 457 | 1,7 % |
 | Rote Keramik | `red_terracotta` | 450 | 1,7 % |
-| Glatter Quarzblock | `smooth_quartz` | 304 | 1,1 % |
+| Glatter Quarzblock | `smooth_quartz` | 304 | 1,2 % |
 | Graues Buntglas | `gray_stained_glass` | 280 | 1,1 % |
 | Weißes Buntglas | `white_stained_glass` | 80 | 0,3 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 80 | 0,3 % |
@@ -47,7 +47,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `kranz` | Kapellenkranz | 12.616 | 4.1–4.7 |
+| 1 | `kranz` | Kapellenkranz | 12.170 | 4.1–4.7 |
 | 2 | `triumphbogen` | Triumphbogen | 577 | 4.8 |
 | 3 | `tambour` | Tambour | 6.094 | 4.9–4.12 |
 | 4 | `kuppel` | Kuppel | 6.941 | 4.13–4.16 |
@@ -58,7 +58,7 @@
 ### Schritt 4.1 – Kapellenkranz – Teil 1/7 (Y 68–71)
 
 - **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.816
+- **Blöcke:** 1.792
 - **Bauteile:** `kranz`
 
 **Teileliste**
@@ -66,8 +66,8 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 764 |
-| Weißer Beton | `white_concrete` | 528 |
-| Tuffstein | `tuff` | 524 |
+| Weißer Beton | `white_concrete` | 520 |
+| Tuffstein | `tuff` | 508 |
 
 **Beschreibung**
 
@@ -151,9 +151,45 @@ Lass die Kapellenbögen offen.
 
 Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf, geweiht wurde die Tribuna 1477.
 
-### Schritt 4.4 – Kapellenkranz – Teil 4/7 (Y 80–83)
+### Schritt 4.4 – Kapellenkranz – Teil 4/7 (Y 80–82)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 80 bis 82
+- **Blöcke:** 1.362
+- **Bauteile:** `kranz`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Stein | `smooth_stone` | 573 |
+| Tuffstein | `tuff` | 312 |
+| Weißer Beton | `white_concrete` | 309 |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 32 |
+| Gelbes Buntglas | `yellow_stained_glass` | 32 |
+| Blaues Buntglas | `blue_stained_glass` | 29 |
+| Weißes Buntglas | `white_stained_glass` | 28 |
+| Rotes Buntglas | `red_stained_glass` | 25 |
+| Oranges Buntglas | `orange_stained_glass` | 22 |
+
+**Beschreibung**
+
+Rund um die Tribuna öffnen sich neun Kapellen mit Rundbögen, getrennt durch Pfeiler aus Pietra serena; jede Kapelle hat ein Fenster und eine Decke auf Y 88.
+
+**Tipp**
+
+Baue Pfeiler für Pfeiler im Kreis.
+
+**Achtung**
+
+Lass die Kapellenbögen offen.
+
+**Fakt**
+
+Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf, geweiht wurde die Tribuna 1477.
+
+### Schritt 4.5 – Kapellenkranz – Teil 5/7 (Y 83–86)
+
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.816
 - **Bauteile:** `kranz`
 
@@ -162,14 +198,14 @@ Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 764 |
-| Tuffstein | `tuff` | 416 |
-| Weißer Beton | `white_concrete` | 412 |
-| Weißes Buntglas | `white_stained_glass` | 40 |
-| Gelbes Buntglas | `yellow_stained_glass` | 40 |
-| Hellblaues Buntglas | `light_blue_stained_glass` | 38 |
-| Rotes Buntglas | `red_stained_glass` | 38 |
-| Blaues Buntglas | `blue_stained_glass` | 34 |
-| Oranges Buntglas | `orange_stained_glass` | 34 |
+| Weißer Beton | `white_concrete` | 499 |
+| Tuffstein | `tuff` | 497 |
+| Rotes Buntglas | `red_stained_glass` | 13 |
+| Oranges Buntglas | `orange_stained_glass` | 12 |
+| Weißes Buntglas | `white_stained_glass` | 12 |
+| Gelbes Buntglas | `yellow_stained_glass` | 8 |
+| Hellblaues Buntglas | `light_blue_stained_glass` | 6 |
+| Blaues Buntglas | `blue_stained_glass` | 5 |
 
 **Beschreibung**
 
@@ -187,19 +223,19 @@ Lass die Kapellenbögen offen.
 
 Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf, geweiht wurde die Tribuna 1477.
 
-### Schritt 4.5 – Kapellenkranz – Teil 5/7 (Y 84–87)
+### Schritt 4.6 – Kapellenkranz – Teil 6/7 (Y 87–90)
 
-- **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.840
+- **Y-Bereich:** 87 bis 90
+- **Blöcke:** 1.846
 - **Bauteile:** `kranz`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 788 |
-| Weißer Beton | `white_concrete` | 528 |
-| Tuffstein | `tuff` | 524 |
+| Weißer Beton | `white_concrete` | 1.139 |
+| Tuffstein | `tuff` | 492 |
+| Glatter Stein | `smooth_stone` | 215 |
 
 **Beschreibung**
 
@@ -217,47 +253,18 @@ Lass die Kapellenbögen offen.
 
 Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf, geweiht wurde die Tribuna 1477.
 
-### Schritt 4.6 – Kapellenkranz – Teil 6/7 (Y 88–91)
+### Schritt 4.7 – Kapellenkranz – Teil 7/7 (Y 91–98)
 
-- **Y-Bereich:** 88 bis 91
-- **Blöcke:** 1.863
+- **Y-Bereich:** 91 bis 98
+- **Blöcke:** 1.722
 - **Bauteile:** `kranz`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.339 |
-| Tuffstein | `tuff` | 524 |
-
-**Beschreibung**
-
-Rund um die Tribuna öffnen sich neun Kapellen mit Rundbögen, getrennt durch Pfeiler aus Pietra serena; jede Kapelle hat ein Fenster und eine Decke auf Y 88.
-
-**Tipp**
-
-Baue Pfeiler für Pfeiler im Kreis.
-
-**Achtung**
-
-Lass die Kapellenbögen offen.
-
-**Fakt**
-
-Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf, geweiht wurde die Tribuna 1477.
-
-### Schritt 4.7 – Kapellenkranz – Teil 7/7 (Y 92–98)
-
-- **Y-Bereich:** 92 bis 98
-- **Blöcke:** 1.649
-- **Bauteile:** `kranz`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.216 |
-| Tuffstein | `tuff` | 433 |
+| Weißer Beton | `white_concrete` | 1.227 |
+| Tuffstein | `tuff` | 495 |
 
 **Beschreibung**
 

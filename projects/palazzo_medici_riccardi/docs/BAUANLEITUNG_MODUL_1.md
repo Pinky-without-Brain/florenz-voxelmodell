@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 75.528 |
+| Blöcke | 75.043 |
 | Bauschritte | 59 |
 | Y-Bereich | 66 bis 121 |
 | X-Ausdehnung | -295 bis -135 (161 Blöcke) |
 | Z-Ausdehnung | -563 bis -380 (184 Blöcke) |
-| Kleinster Schritt | 1.145 Blöcke (Schritt 1.9) |
-| Mittlerer Schritt | 1.280 Blöcke |
+| Kleinster Schritt | 1.136 Blöcke (Schritt 1.26) |
+| Mittlerer Schritt | 1.272 Blöcke |
 | Größter Schritt | 1.735 Blöcke (Schritt 1.56) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 37.428 | 49,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 14.813 | 19,6 % |
-| Polierter Andesit | `polished_andesite` | 11.105 | 14,7 % |
-| Tuffstein | `tuff` | 4.248 | 5,6 % |
+| Weißer Beton | `white_concrete` | 36.943 | 49,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 14.813 | 19,7 % |
+| Polierter Andesit | `polished_andesite` | 11.105 | 14,8 % |
+| Tuffstein | `tuff` | 4.248 | 5,7 % |
 | Glatter Stein | `smooth_stone` | 3.591 | 4,8 % |
 | Blaues Buntglas | `blue_stained_glass` | 799 | 1,1 % |
-| Oranges Buntglas | `orange_stained_glass` | 790 | 1,0 % |
+| Oranges Buntglas | `orange_stained_glass` | 790 | 1,1 % |
 | Hellblaues Buntglas | `light_blue_stained_glass` | 705 | 0,9 % |
 | Rotes Buntglas | `red_stained_glass` | 684 | 0,9 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 683 | 0,9 % |
@@ -37,7 +37,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 67.620 | 1.1–1.54 |
+| 1 | `aussenwand` | Außenwände | 67.135 | 1.1–1.54 |
 | 2 | `fenster` | Fenster | 5.198 | 1.55–1.57 |
 | 3 | `kranzgesims` | Kranzgesims | 2.710 | 1.58–1.59 |
 
@@ -684,7 +684,7 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.23 – Außenwände – Teil 23/54 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.355
+- **Blöcke:** 1.322
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
@@ -692,7 +692,7 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 684 |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 638 |
 
 **Beschreibung**
 
@@ -713,7 +713,7 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.24 – Außenwände – Teil 24/54 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.355
+- **Blöcke:** 1.322
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
@@ -721,7 +721,7 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 684 |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 638 |
 
 **Beschreibung**
 
@@ -742,14 +742,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.25 – Außenwände – Teil 25/54 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.175
+- **Blöcke:** 1.142
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 638 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -771,14 +771,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.26 – Außenwände – Teil 26/54 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -800,14 +800,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.27 – Außenwände – Teil 27/54 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Polierter Andesit | `polished_andesite` | 504 |
 
 **Beschreibung**
@@ -829,14 +829,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.28 – Außenwände – Teil 28/54 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -858,14 +858,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.29 – Außenwände – Teil 29/54 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -887,14 +887,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.30 – Außenwände – Teil 30/54 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Polierter Andesit | `polished_andesite` | 504 |
 
 **Beschreibung**
@@ -916,14 +916,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.31 – Außenwände – Teil 31/54 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -945,14 +945,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.32 – Außenwände – Teil 32/54 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -974,14 +974,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.33 – Außenwände – Teil 33/54 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Polierter Andesit | `polished_andesite` | 504 |
 
 **Beschreibung**
@@ -1003,14 +1003,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.34 – Außenwände – Teil 34/54 (Y 99–99)
 
 - **Y-Bereich:** 99 bis 99
-- **Blöcke:** 1.175
+- **Blöcke:** 1.136
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 632 |
 | Tuffsteinziegel | `tuff_bricks` | 504 |
 
 **Beschreibung**
@@ -1032,14 +1032,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.35 – Außenwände – Teil 35/54 (Y 100–100)
 
 - **Y-Bereich:** 100 bis 100
-- **Blöcke:** 1.180
+- **Blöcke:** 1.147
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 638 |
 | Tuffsteinziegel | `tuff_bricks` | 509 |
 
 **Beschreibung**
@@ -1061,14 +1061,14 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.36 – Außenwände – Teil 36/54 (Y 101–101)
 
 - **Y-Bereich:** 101 bis 101
-- **Blöcke:** 1.235
+- **Blöcke:** 1.234
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 670 |
 | Polierter Andesit | `polished_andesite` | 564 |
 
 **Beschreibung**
@@ -1090,7 +1090,7 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 ### Schritt 1.37 – Außenwände – Teil 37/54 (Y 102–102)
 
 - **Y-Bereich:** 102 bis 102
-- **Blöcke:** 1.355
+- **Blöcke:** 1.354
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
@@ -1098,7 +1098,7 @@ Michelozzo di Bartolomeo entwarf den Palazzo; die Abstufung der Rustika wurde zu
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffsteinziegel | `tuff_bricks` | 684 |
-| Weißer Beton | `white_concrete` | 671 |
+| Weißer Beton | `white_concrete` | 670 |
 
 **Beschreibung**
 

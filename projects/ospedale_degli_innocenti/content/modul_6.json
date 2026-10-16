@@ -1,0 +1,57 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Innenräume und Höfe",
+  "subtitle": "Bautüte 6: Museo, Ruota und die beiden Chiostri",
+  "icon": "🏛️",
+  "parts": {
+    "ruota": {
+      "title": "Ruota",
+      "description": "Das Findelrad als Fensternische in der Loggiawand: runder Rahmen aus Pietra serena, Speichen und Nabe aus Bronze, dahinter dunkles Glas. Die Nische ist dicht, es führt keine Öffnung ins Haus.",
+      "tip": "Radius 2,6 Blöcke, Mitte auf Lage 5.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "In der Ruota, einem drehbaren Fach in der Wand, konnten Neugeborene anonym abgegeben werden (Quelle: it.wikipedia, Spedale degli Innocenti)."
+    },
+    "chiostro_uomini": {
+      "title": "Chiostro degli Uomini",
+      "description": "Hofpflaster mit Wegekreuz und Mittelrondell aus Pietra serena, ein Brunnenbecken in der Mitte, über den Pfeilern der Arkaden runde Lünettenfelder in Blau und Weiß mit Goldrand.",
+      "tip": "Radius der Lünetten 2,6 Blöcke, Mitte auf Lage 15.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Der Chiostro degli Uomini ist der größere der beiden Kreuzgänge des Findelhauses (Quelle: it.wikipedia, Spedale degli Innocenti)."
+    },
+    "chiostro_donne": {
+      "title": "Chiostro delle Donne",
+      "description": "Langgestreckter Hof mit Rasen, Kieswegen, einem Brunnenbecken mit Mittelsäule und vier Bäumen.",
+      "tip": "Erst Rasen und Wege, dann Brunnen und Bäume.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Arkaden fehlen im Modell.",
+      "fact": "Der Chiostro delle Donne diente den Frauen des Findelhauses (Quelle: it.wikipedia, Spedale degli Innocenti)."
+    },
+    "museo_tafelbilder": {
+      "title": "Museo, Saal der Tafelbilder",
+      "description": "Saal im 1. Obergeschoss über der Loggia: Schachbrettboden, Wandfelder in Gelb, Orange, Blau und Rot mit Goldrahmen in Augenhöhe, Kassettendecke, zwei Vitrinen.",
+      "tip": "Bildunterkante 2 Blöcke über dem Boden.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Das Museo degli Innocenti zeigt Tafelbilder, darunter Werke von Botticelli und Piero di Cosimo (Quelle: it.wikipedia, Spedale degli Innocenti)."
+    },
+    "museo_ghirlandaio": {
+      "title": "Museo, Saal der Anbetung",
+      "description": "Saal mit dem großen Bild der Anbetung der Könige als Farbfeld (10 Blöcke breit, 10 hoch) in der Fassadenwand: blauer Himmel, grüne Wiese, Gestalten in bunten Gewändern, Goldrahmen.",
+      "tip": "Das Bild sitzt zwischen zwei Fenstern.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Bild ist nur als Farbfeld angedeutet.",
+      "fact": "Domenico Ghirlandaio malte die Anbetung der Könige 1488 für die Kirche des Findelhauses (Quelle: it.wikipedia, Spedale degli Innocenti)."
+    },
+    "museo_robbia": {
+      "title": "Museo, Saal der Terrakotten",
+      "description": "Saal mit blau-weißen Wandfeldern nach Art der glasierten Terrakotten, Holzrahmen, Schachbrettboden, Kassettendecke und zwei Vitrinen.",
+      "tip": "Blau und Weiß wechseln von Tafel zu Tafel.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Andrea della Robbia schuf 1487 die Wickelkinder-Medaillons an der Loggia (Quelle: it.wikipedia, Spedale degli Innocenti)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

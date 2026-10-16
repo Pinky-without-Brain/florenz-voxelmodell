@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.857 |
+| Blöcke | 49.329 |
 | Bauschritte | 29 |
 | Y-Bereich | 65 bis 126 |
 | X-Ausdehnung | -880 bis -764 (117 Blöcke) |
 | Z-Ausdehnung | 384 bis 474 (91 Blöcke) |
-| Kleinster Schritt | 1.344 Blöcke (Schritt 1.24) |
-| Mittlerer Schritt | 1.719 Blöcke |
-| Größter Schritt | 2.085 Blöcke (Schritt 1.25) |
+| Kleinster Schritt | 1.344 Blöcke (Schritt 1.16) |
+| Mittlerer Schritt | 1.701 Blöcke |
+| Größter Schritt | 2.040 Blöcke (Schritt 1.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 24.616 | 49,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 12.241 | 24,6 % |
-| Polierter Andesit | `polished_andesite` | 7.476 | 15,0 % |
-| Glatter Stein | `smooth_stone` | 2.309 | 4,6 % |
-| Rotes Buntglas | `red_stained_glass` | 621 | 1,2 % |
+| Weißer Beton | `white_concrete` | 24.088 | 48,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 12.241 | 24,8 % |
+| Polierter Andesit | `polished_andesite` | 7.476 | 15,2 % |
+| Glatter Stein | `smooth_stone` | 2.309 | 4,7 % |
+| Rotes Buntglas | `red_stained_glass` | 621 | 1,3 % |
 | Hellblaues Buntglas | `light_blue_stained_glass` | 616 | 1,2 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 548 | 1,1 % |
 | Weißes Buntglas | `white_stained_glass` | 547 | 1,1 % |
@@ -36,7 +36,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 44.351 | 1.1–1.26 |
+| 1 | `aussenwand` | Außenwände | 43.823 | 1.1–1.26 |
 | 2 | `fenster` | Fenster | 3.880 | 1.27–1.28 |
 | 3 | `kranzgesims` | Kranzgesims | 1.626 | 1.29 |
 
@@ -398,18 +398,18 @@ Lass die Portale frei.
 
 Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
 
-### Schritt 1.13 – Außenwände – Teil 13/26 (Y 91–92)
+### Schritt 1.13 – Außenwände – Teil 13/26 (Y 91–93)
 
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.485
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.893
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 804 |
-| Tuffsteinziegel | `tuff_bricks` | 411 |
+| Weißer Beton | `white_concrete` | 942 |
+| Tuffsteinziegel | `tuff_bricks` | 681 |
 | Polierter Andesit | `polished_andesite` | 270 |
 
 **Beschreibung**
@@ -428,9 +428,39 @@ Lass die Portale frei.
 
 Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
 
-### Schritt 1.14 – Außenwände – Teil 14/26 (Y 93–95)
+### Schritt 1.14 – Außenwände – Teil 14/26 (Y 94–96)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 94 bis 96
+- **Blöcke:** 1.752
+- **Bauteile:** `aussenwand`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 942 |
+| Tuffsteinziegel | `tuff_bricks` | 540 |
+| Polierter Andesit | `polished_andesite` | 270 |
+
+**Beschreibung**
+
+Die Außenwand umläuft den ganzen Block bis Y 126: allseitig Rustika aus Pietra forte, im Erdgeschoss mit kräftigen Fugen, nach oben flacher. Gesimse aus Pietra serena trennen die Geschosse (Y 88, 108). Drei Portale führen hinein: von der Via Tornabuoni, der Via Strozzi und der Piazza Strozzi.
+
+**Tipp**
+
+Zwei Blöcke dick: außen Stein, innen Putz.
+
+**Achtung**
+
+Lass die Portale frei.
+
+**Fakt**
+
+Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
+
+### Schritt 1.15 – Außenwände – Teil 15/26 (Y 97–99)
+
+- **Y-Bereich:** 97 bis 99
 - **Blöcke:** 2.016
 - **Bauteile:** `aussenwand`
 
@@ -457,49 +487,19 @@ Lass die Portale frei.
 
 Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
 
-### Schritt 1.15 – Außenwände – Teil 15/26 (Y 96–98)
+### Schritt 1.16 – Außenwände – Teil 16/26 (Y 100–101)
 
-- **Y-Bereich:** 96 bis 98
-- **Blöcke:** 2.016
+- **Y-Bereich:** 100 bis 101
+- **Blöcke:** 1.344
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.206 |
-| Tuffsteinziegel | `tuff_bricks` | 540 |
+| Weißer Beton | `white_concrete` | 804 |
 | Polierter Andesit | `polished_andesite` | 270 |
-
-**Beschreibung**
-
-Die Außenwand umläuft den ganzen Block bis Y 126: allseitig Rustika aus Pietra forte, im Erdgeschoss mit kräftigen Fugen, nach oben flacher. Gesimse aus Pietra serena trennen die Geschosse (Y 88, 108). Drei Portale führen hinein: von der Via Tornabuoni, der Via Strozzi und der Piazza Strozzi.
-
-**Tipp**
-
-Zwei Blöcke dick: außen Stein, innen Putz.
-
-**Achtung**
-
-Lass die Portale frei.
-
-**Fakt**
-
-Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
-
-### Schritt 1.16 – Außenwände – Teil 16/26 (Y 99–101)
-
-- **Y-Bereich:** 99 bis 101
-- **Blöcke:** 2.016
-- **Bauteile:** `aussenwand`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.206 |
-| Tuffsteinziegel | `tuff_bricks` | 540 |
-| Polierter Andesit | `polished_andesite` | 270 |
+| Tuffsteinziegel | `tuff_bricks` | 270 |
 
 **Beschreibung**
 
@@ -723,18 +723,18 @@ Lass die Portale frei.
 
 Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
 
-### Schritt 1.24 – Außenwände – Teil 24/26 (Y 118–119)
+### Schritt 1.24 – Außenwände – Teil 24/26 (Y 118–120)
 
-- **Y-Bereich:** 118 bis 119
-- **Blöcke:** 1.344
+- **Y-Bereich:** 118 bis 120
+- **Blöcke:** 2.016
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 804 |
-| Polierter Andesit | `polished_andesite` | 270 |
+| Weißer Beton | `white_concrete` | 1.206 |
+| Polierter Andesit | `polished_andesite` | 540 |
 | Tuffsteinziegel | `tuff_bricks` | 270 |
 
 **Beschreibung**
@@ -753,18 +753,18 @@ Lass die Portale frei.
 
 Benedetto da Maiano entwarf den Palazzo; Filippo Strozzi starb 1491, kurz nach der Grundsteinlegung.
 
-### Schritt 1.25 – Außenwände – Teil 25/26 (Y 120–122)
+### Schritt 1.25 – Außenwände – Teil 25/26 (Y 121–122)
 
-- **Y-Bereich:** 120 bis 122
-- **Blöcke:** 2.085
+- **Y-Bereich:** 121 bis 122
+- **Blöcke:** 1.413
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.206 |
-| Polierter Andesit | `polished_andesite` | 879 |
+| Weißer Beton | `white_concrete` | 804 |
+| Polierter Andesit | `polished_andesite` | 609 |
 
 **Beschreibung**
 

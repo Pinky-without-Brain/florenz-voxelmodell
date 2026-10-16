@@ -36,7 +36,10 @@ const TAMBUR0 = 48, KUPPEL0 = 58, R_KI = 12.5, R_KA = 14.5;
 const SAK_ALT = { u: 144.4, w: -54.5, ri: 11.5, wand: 24 };   // Kreis w673454442
 const SAK_NEU = { u: 144.0, w: 55.0, ri: 11.5, wand: 26 };
 const OKT = { u: 201, w: -2.3, innen: 28, aussen: 34.5, wand: 50, tambur: 66, kuppel: 104, laterne: 112 };
-const KRYPTA0 = -6, KRYPTA1 = -2;         // Krypta: Boden yr −6 (Y 61), Stehhöhe −5..−3, Decke −1
+const KRYPTA0 = -6, KRYPTA1 = -2;
+// Campanile (Ferdinando Ruggieri 1740–41, 54 m; Lage: neben der Sagrestia Nuova am Nordende des Querhauses, Stufe C)
+// Gelände dort Y 63–64, Boden des Turms Y 67 (wie die Kirche); 54 m = 108 Blöcke ab Gelände 63 -> Oberkante Y 171 = Lage 104.
+const CAMP = { rect: { u0: 114, u1: 128, w0: 51, w1: 67 }, u: 121, top: 104, glocke0: 78, glocke1: 92, spitze0: 93 };         // Krypta: Boden yr −6 (Y 61), Stehhöhe −5..−3, Decke −1
 
 const T = {
   forte: WZ.typ('pietra_forte'), bruch: WZ.typ('pietra_forte_bruch'), mauer: WZ.typ('mauerwerk'),
@@ -55,7 +58,7 @@ function lade() {
   if (L) return L;
   const json = JSON.parse(fs.readFileSync(path.join(DIR, 'project.json'), 'utf8'));
   const masken = WZ.ladeMasken(json, { dir: DIR });
-  const R = masken.rahmen, H = masken.haupt, PR = masken.masken.principi;
+  const R = masken.rahmen, H = masken.haupt, PR = masken.masken.principi, CA = masken.masken.campanile;
   const geb = new Map(require('../../../data/stadt/gebaeude.json').gebaeude.map((g) => [g.id, g]));
   // Sakristeien: OSM-Teile von w599900778 als eigene Masken (Randabstand für die Wände)
   const teil = (osm) => {
@@ -72,10 +75,12 @@ function lade() {
   for (const c of haupt) {
     if (SA.has(c.x, c.z)) { c.zone = 'sak_alt'; c.ds = SA.d8(c.x, c.z); } else if (SN.has(c.x, c.z)) { c.zone = 'sak_neu'; c.ds = SN.d8(c.x, c.z); } else c.zone = zone(c);
   }
+  const camp = CA.cells.map(([x, z]) => mk(x, z, CA, 'campanile'));
+  for (const c of camp) c.zone = 'campanile';
   for (const c of prin) { c.do = dOkt(c); c.zone = c.do < OKT.innen ? 'oktogon' : c.do < OKT.aussen ? 'oktwand' : 'nebenraum'; }
   const byKey = new Map();
-  for (const c of haupt.concat(prin)) byKey.set(P.ck(c.x, c.z), c);
-  L = { json, masken, R, H, PR, haupt, prin, alle: haupt.concat(prin), byKey };
+  for (const c of haupt.concat(prin, camp)) byKey.set(P.ck(c.x, c.z), c);
+  L = { json, masken, R, H, PR, CA, haupt, prin, camp, alle: haupt.concat(prin, camp), byKey };
   return L;
 }
 const zelleBei = (x, z) => lade().byKey.get(P.ck(x, z));
@@ -186,6 +191,10 @@ function plan() {
     if (c.zone === 'sak_alt' && c.ds <= 2 && c.w > -42 && c.u >= 132 && c.u < 135) for (let yr = 1; yr <= 5; yr++) oeffnung('tuer', 'sakristei_alt', c.x, Y(yr), c.z);
     if (c.zone === 'sak_alt' && c.ds <= 2 && c.u > 154 && c.w > -61 && c.w < -57) for (let yr = 1; yr <= 5; yr++) oeffnung('tuer', 'sakristei_alt', c.x, Y(yr), c.z); // in den Raum hinter der Sakristei
     if (c.zone === 'sak_neu' && c.ds <= 2 && c.w < 42 && c.u >= 130 && c.u < 133) for (let yr = 1; yr <= 5; yr++) oeffnung('tuer', 'sakristei_neu', c.x, Y(yr), c.z);
+  }
+  // Campanile (V5b): Tür aus der Querarm-Kapelle durch die Nordwand (3 breit, 4 hoch), über beide Wände bis in den Turm
+  for (const c of D.alle) {
+    if ((c.wo === 'kirche' || c.wo === 'campanile') && c.d8 <= 2 && Math.abs(c.u - CAMP.u) < 1.5 && c.w >= 49 && c.w < 55.5) for (let yr = 1; yr <= 4; yr++) oeffnung('tuer', 'campanile_schaft', c.x, Y(yr), c.z);
   }
   // Krypta-Eingang (Westseite, Piazza Madonna degli Aldobrandini), Tür der Krypta ins Oktogon, Tür Vorraum -> Oktogon
   for (const c of D.prin) {
@@ -477,6 +486,16 @@ function plan() {
     for (let yr = 1; yr <= 4; yr++) set(c.x, Y(yr), c.z, yr === 4 ? T.bronze : T.rot, 'grabmaeler');
   }
 
+  // ---- Modul 9: Campanile (Ruggieri 1740, 54 m): Schaft, Wendeltreppe, Glockenstube mit fünf Glocken, Kuppelhelm
+  const camp = WZ.campanile.baueCampanile({
+    cells: D.camp, set, frei, istFrei, hat, oeffnung, unzug, Y, zellen, teile, key,
+    T: { wand: T.forte, sockel: T.rustika, gesims: T.serena, dach: T.kuppel, spitze: T.bronze, holz: T.holz, glocke: T.bronze, fenster: T.fenster, licht: T.licht }
+  }, {
+    rect: CAMP.rect, top: CAMP.top, glocke0: CAMP.glocke0, glocke1: CAMP.glocke1, spitze0: CAMP.spitze0, abschluss: 'kuppel', sockel: 6,
+    gesimse: [18, 38, 58, CAMP.glocke0 - 1], schlitze: { periode: 20, a: 8, b: 11, bis: CAMP.glocke0 },
+    bogen: { anzahl: 1, breite: 6 }, kleineGlocken: 2, lichtAbstand: 8
+  });
+
   // ---- Licht: Kirche, Oktogon, Krypta, Nebenräume
   const steh = [], stehK = [];
   for (const c of D.alle) {
@@ -492,7 +511,7 @@ function plan() {
   }
   teile.set('licht', lichtTeil);
 
-  PLAN = { zellen, teile, oeff, unz, treppe };
+  PLAN = { zellen, teile, oeff, unz, treppe, camp };
   return PLAN;
 }
 
@@ -516,4 +535,4 @@ function modul(n, liste) {
   };
 }
 
-module.exports = { modul, lade, plan, zelleBei, Y, BODEN_Y, T, OKT, JOCH };
+module.exports = { modul, lade, plan, zelleBei, Y, BODEN_Y, T, OKT, JOCH, CAMP };

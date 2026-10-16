@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.735 |
+| Blöcke | 3.736 |
 | Bauschritte | 3 |
 | Y-Bereich | 64 bis 66 |
 | X-Ausdehnung | 77 bis 144 (68 Blöcke) |
 | Z-Ausdehnung | 552 bis 604 (53 Blöcke) |
 | Kleinster Schritt | 901 Blöcke (Schritt 0.1) |
 | Mittlerer Schritt | 1.245 Blöcke |
-| Größter Schritt | 1.433 Blöcke (Schritt 0.2) |
+| Größter Schritt | 1.434 Blöcke (Schritt 0.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 1.410 | 37,8 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.411 | 37,8 % |
 | Tuffstein | `tuff` | 901 | 24,1 % |
 | Glatter Stein | `smooth_stone` | 851 | 22,8 % |
 | Rosa Keramik | `pink_terracotta` | 573 | 15,3 % |
@@ -31,7 +31,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament | 901 | 0.1 |
-| 2 | `boden` | Boden | 2.834 | 0.2–0.3 |
+| 2 | `boden` | Boden | 2.835 | 0.2–0.3 |
 
 ## Bauschritte
 
@@ -66,15 +66,15 @@ Die Abtei wurde 978 von Willa, der Mutter des Markgrafen Hugo, gegründet.
 ### Schritt 0.2 – Boden – Teil 1/2 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.433
+- **Blöcke:** 1.434
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 688 |
-| Glatter Stein | `smooth_stone` | 463 |
+| Glatter Quarzblock | `smooth_quartz` | 690 |
+| Glatter Stein | `smooth_stone` | 462 |
 | Rosa Keramik | `pink_terracotta` | 282 |
 
 **Beschreibung**
@@ -103,8 +103,8 @@ Der Boden liegt bündig mit der Via Dante Alighieri.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 722 |
-| Glatter Stein | `smooth_stone` | 388 |
+| Glatter Quarzblock | `smooth_quartz` | 721 |
+| Glatter Stein | `smooth_stone` | 389 |
 | Rosa Keramik | `pink_terracotta` | 291 |
 
 **Beschreibung**

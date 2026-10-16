@@ -1,0 +1,57 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume und Fassade",
+  "subtitle": "Bautüte 6: Ausstellungssäle, Hof, Steinbank und Laternen",
+  "icon": "🖼️",
+  "parts": {
+    "ausstellung_nord": {
+      "title": "Ausstellungssaal Nord",
+      "description": "Ausstellungssaal im Piano nobile (Nordflügel): Boden im Schachmuster aus dunkler Eiche und Polierstein, weiße Wände mit farbigen Bildfeldern in Augenhöhe (Unterkante 2 Blöcke über dem Boden), zwei freistehende Stellwände mit Bildern und eine Sitzbank in der Mitte.",
+      "tip": "Boden und Wandfelder zuerst, dann die Stellwände.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage der Säle Stufe C.",
+      "fact": "Das Piano nobile des Palazzo Strozzi dient heute der Fondazione Palazzo Strozzi für Wechselausstellungen (Quelle: it.wikipedia, Palazzo Strozzi)."
+    },
+    "ausstellung_sued": {
+      "title": "Ausstellungssaal Süd",
+      "description": "Ausstellungssaal im Piano nobile (Südflügel): Boden im Schachmuster aus dunkler Eiche und Polierstein, weiße Wände mit farbigen Bildfeldern in Augenhöhe (Unterkante 2 Blöcke über dem Boden), zwei freistehende Stellwände mit Bildern und eine Sitzbank in der Mitte.",
+      "tip": "Die Stellwände lassen Durchgänge frei.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Fondazione zeigt Kunst vom Mittelalter bis zur Gegenwart (Quelle: it.wikipedia, Palazzo Strozzi)."
+    },
+    "ausstellung_west": {
+      "title": "Ausstellungssaal West",
+      "description": "Ausstellungssaal im Piano nobile (Westflügel): Boden im Schachmuster aus dunkler Eiche und Polierstein, weiße Wände mit farbigen Bildfeldern in Augenhöhe (Unterkante 2 Blöcke über dem Boden), zwei freistehende Stellwände mit Bildern und eine Sitzbank in der Mitte.",
+      "tip": "Die Bilder hängen auf Augenhöhe.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Benedetto da Maiano begann den Bau 1489; Il Cronaca vollendete Hof und Kranzgesims (Quelle: it.wikipedia, Palazzo Strozzi)."
+    },
+    "ausstellung_ost": {
+      "title": "Ausstellungssaal Ost",
+      "description": "Ausstellungssaal im Piano nobile (Ostflügel): Boden im Schachmuster aus dunkler Eiche und Polierstein, weiße Wände mit farbigen Bildfeldern in Augenhöhe (Unterkante 2 Blöcke über dem Boden), zwei freistehende Stellwände mit Bildern und eine Sitzbank in der Mitte.",
+      "tip": "Bilder in zwei Reihen sind nicht nötig, eine genügt.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Der Palast wurde bis 1538 gebaut (Quelle: it.wikipedia, Palazzo Strozzi)."
+    },
+    "hof_cronaca": {
+      "title": "Hof nach Cronaca",
+      "description": "Hofpflaster mit Wegekreuz aus Pietra serena und Schachmuster, vier Kübel mit Bäumchen an den Ecken und zwei Laternenpfosten aus Bronze in der Mitte.",
+      "tip": "Erst das Pflaster, dann Kübel und Pfosten.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Der Hof mit Arkaden und korinthischen Säulen geht auf Il Cronaca zurück (Quelle: it.wikipedia, Palazzo Strozzi)."
+    },
+    "panca_laternen": {
+      "title": "Steinbank und Laternenhalter",
+      "description": "Eine Steinbank (panca) aus Pietra serena zieht sich an den Straßenfassaden entlang, an den Portalen unterbrochen; an den Ecken und neben den Portalen hängen Halter aus Bronze mit Laternen.",
+      "tip": "Die Bank sitzt eine Lage hoch auf dem Straßenpflaster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Nur innerhalb des Luftraums von 2 Blöcken um die Fassade.",
+      "fact": "Die schmiedeeisernen Laternen und Fackelhalter an der Fassade schuf Niccolò Grosso, genannt il Caparra (Quelle: it.wikipedia, Palazzo Strozzi)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Säle, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "module": 7,
+  "title": "Ausgestaltete Innenräume und Hof",
+  "subtitle": "Bautüte 7: Freitreppe, Verone, Säle und Kapelle",
+  "icon": "🏛️",
+  "parts": {
+    "freitreppe": {
+      "title": "Freitreppe im Hof",
+      "description": "Zwanzig Treppenblöcke aus Pietra serena steigen entlang der Nordarkade des Hofs zur Verone; darunter ein massiver Unterbau, an der offenen Seite eine Brüstung.",
+      "tip": "Erst den Unterbau Lage für Lage, dann die Treppenblöcke mit Aufstieg nach Westen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage und Länge sind Stufe C.",
+      "fact": "Die Außentreppe führt zur Verone, der offenen Loggia im ersten Obergeschoss (Quelle: it.wikipedia, Palazzo del Bargello; Neri di Fioravante, 14. Jahrhundert)."
+    },
+    "verone": {
+      "title": "Verone",
+      "description": "Offene, überdachte Loggia am oberen Ende der Treppe: Plattform in der Höhe des ersten Obergeschosses, drei Säulen, niedrige Brüstung und Terrakottadach; ein Tor in der Hofwand führt in die Galerie.",
+      "tip": "Plattform, Säulen, Brüstung, dann das Dach.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Öffnung zum Hof ist gewollt.",
+      "fact": "Die Verone ist die Loggia, zu der die Hoftreppe emporsteigt (Quelle: it.wikipedia, Palazzo del Bargello)."
+    },
+    "hof_wappen": {
+      "title": "Wappen der Podestà",
+      "description": "An den Hofwänden des ersten und zweiten Obergeschosses hängen farbige Schilde zwischen den Fenstern: Schildhaupt in Gold, Feld in Rot, Blau, Grün, Gelb, Orange oder Braun.",
+      "tip": "Ein Schild ist 3 Blöcke breit und 4 hoch.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Farben sind nicht die echten Wappen.",
+      "fact": "Die Wände des Bargello-Hofs sind mit den Wappen der Podestà und Richter geschmückt (Quelle: it.wikipedia, Palazzo del Bargello)."
+    },
+    "hofbrunnen": {
+      "title": "Brunnen im Hof",
+      "description": "Rundes Becken aus Pietra serena in der Mitte des Hofs, Wasser im Becken und eine kurze Mittelsäule.",
+      "tip": "Erst den Rand, dann das Wasser.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Im Hof steht ein Brunnen (pozzo); Form und Lage sind hier Stufe C (Quelle: it.wikipedia, Palazzo del Bargello)."
+    },
+    "michelangelo_saal": {
+      "title": "Michelangelo-Saal",
+      "description": "Saal im Erdgeschoss des Westflügels: Schachbrettboden aus Marmor und rotem Granit, Wandfelder mit Pilastern, Holz-Kassettendecke, Bacchus als Blockfigur, Brutus-Büste auf hohem Sockel, Tondo Pitti als Marmorscheibe in der Westwand, vier Vitrinen.",
+      "tip": "Boden und Wandfelder zuerst, die Figuren zuletzt.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Lage im Haus ist Stufe C.",
+      "fact": "Das Museum zeigt Michelangelos Bacchus, den Brutus und den Tondo Pitti (Quelle: it.wikipedia, Museo nazionale del Bargello)."
+    },
+    "salone_di_donatello": {
+      "title": "Salone di Donatello",
+      "description": "Großer Saal im ersten Obergeschoss des Ostflügels: Boden aus Terrakotta und Marmor, Wandfelder mit Wappenschilden, Holz-Kassettendecke, zwei Davids (Bronze und Marmor), der heilige Georg und der Marzocco-Löwe auf Sockeln.",
+      "tip": "Die Figuren stehen auf Sockeln in zwei Reihen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage und Maße sind Stufe C.",
+      "fact": "Der Salone del Consiglio Generale zeigt heute Donatellos Davids, den heiligen Georg und den Marzocco (Quelle: it.wikipedia, Palazzo del Bargello)."
+    },
+    "cappella_del_podesta": {
+      "title": "Cappella del Podestà",
+      "description": "Kapelle der Maddalena im ersten Obergeschoss des Nordflügels: Wandfelder mit Figurenfries in Hellblau, Grün und Rot (Fresken der Giotto-Schule), blaue Decke mit goldenen Sternen, Altar mit goldenem Kreuz und drei Bankreihen.",
+      "tip": "Der Fries hat Himmel oben, Wiese unten und Figuren dazwischen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Kapelle der Maddalena trägt Fresken aus dem Umkreis Giottos mit Paradies und Hölle (Quelle: it.wikipedia, Palazzo del Bargello)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

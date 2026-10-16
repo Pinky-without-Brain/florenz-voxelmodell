@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 20.170 |
+| Blöcke | 19.559 |
 | Bauschritte | 12 |
 | Y-Bereich | 62 bis 105 |
 | X-Ausdehnung | -295 bis -135 (161 Blöcke) |
 | Z-Ausdehnung | -563 bis -380 (184 Blöcke) |
 | Kleinster Schritt | 500 Blöcke (Schritt 0.12) |
-| Mittlerer Schritt | 1.681 Blöcke |
-| Größter Schritt | 1.949 Blöcke (Schritt 0.5) |
+| Mittlerer Schritt | 1.630 Blöcke |
+| Größter Schritt | 1.948 Blöcke (Schritt 0.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 6.905 | 34,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 6.888 | 34,1 % |
-| Grasblock | `grass_block` | 2.141 | 10,6 % |
-| Glatter Stein | `smooth_stone` | 1.859 | 9,2 % |
-| Tuffstein | `tuff` | 1.457 | 7,2 % |
-| Polierter Tuffstein | `polished_tuff` | 840 | 4,2 % |
+| Rosa Keramik | `pink_terracotta` | 6.897 | 35,3 % |
+| Glatter Quarzblock | `smooth_quartz` | 6.887 | 35,2 % |
+| Glatter Stein | `smooth_stone` | 1.861 | 9,5 % |
+| Grasblock | `grass_block` | 1.778 | 9,1 % |
+| Tuffstein | `tuff` | 1.457 | 7,4 % |
+| Polierter Tuffstein | `polished_tuff` | 599 | 3,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 24 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 | 0,1 % |
@@ -43,8 +43,8 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament | 1.457 | 0.1 |
-| 2 | `boden` | Boden | 15.232 | 0.2–0.9 |
-| 3 | `hof` | Hof | 2.981 | 0.10–0.11 |
+| 2 | `boden` | Boden | 15.225 | 0.2–0.9 |
+| 3 | `hof` | Hof | 2.377 | 0.10–0.11 |
 | 4 | `treppe` | Wendeltreppe | 500 | 0.12 |
 
 ## Bauschritte
@@ -80,15 +80,15 @@ Cosimo il Vecchio ließ den Palazzo ab 1444 an der damaligen Via Larga bauen.
 ### Schritt 0.2 – Boden – Teil 1/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.937
+- **Blöcke:** 1.936
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 976 |
-| Glatter Quarzblock | `smooth_quartz` | 961 |
+| Rosa Keramik | `pink_terracotta` | 977 |
+| Glatter Quarzblock | `smooth_quartz` | 959 |
 
 **Beschreibung**
 
@@ -109,7 +109,7 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.3 – Boden – Teil 2/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.897
+- **Blöcke:** 1.898
 - **Bauteile:** `boden`
 
 **Teileliste**
@@ -117,7 +117,7 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Quarzblock | `smooth_quartz` | 950 |
-| Rosa Keramik | `pink_terracotta` | 947 |
+| Rosa Keramik | `pink_terracotta` | 948 |
 
 **Beschreibung**
 
@@ -138,16 +138,16 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.4 – Boden – Teil 3/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.875
+- **Blöcke:** 1.873
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 849 |
-| Rosa Keramik | `pink_terracotta` | 822 |
-| Glatter Stein | `smooth_stone` | 204 |
+| Glatter Quarzblock | `smooth_quartz` | 852 |
+| Rosa Keramik | `pink_terracotta` | 818 |
+| Glatter Stein | `smooth_stone` | 203 |
 
 **Beschreibung**
 
@@ -168,16 +168,16 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.5 – Boden – Teil 4/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.949
+- **Blöcke:** 1.948
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 884 |
+| Glatter Quarzblock | `smooth_quartz` | 882 |
 | Rosa Keramik | `pink_terracotta` | 873 |
-| Glatter Stein | `smooth_stone` | 192 |
+| Glatter Stein | `smooth_stone` | 193 |
 
 **Beschreibung**
 
@@ -198,16 +198,16 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.6 – Boden – Teil 5/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.905
+- **Blöcke:** 1.904
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 716 |
-| Glatter Quarzblock | `smooth_quartz` | 711 |
-| Glatter Stein | `smooth_stone` | 478 |
+| Rosa Keramik | `pink_terracotta` | 712 |
+| Glatter Quarzblock | `smooth_quartz` | 712 |
+| Glatter Stein | `smooth_stone` | 480 |
 
 **Beschreibung**
 
@@ -228,7 +228,7 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.7 – Boden – Teil 6/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.835
+- **Blöcke:** 1.834
 - **Bauteile:** `boden`
 
 **Teileliste**
@@ -237,7 +237,7 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 817 |
 | Glatter Quarzblock | `smooth_quartz` | 807 |
-| Glatter Stein | `smooth_stone` | 211 |
+| Glatter Stein | `smooth_stone` | 210 |
 
 **Beschreibung**
 
@@ -258,16 +258,16 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.8 – Boden – Teil 7/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.889
+- **Blöcke:** 1.888
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 835 |
+| Rosa Keramik | `pink_terracotta` | 833 |
 | Glatter Quarzblock | `smooth_quartz` | 810 |
-| Glatter Stein | `smooth_stone` | 244 |
+| Glatter Stein | `smooth_stone` | 245 |
 
 **Beschreibung**
 
@@ -288,7 +288,7 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.9 – Boden – Teil 8/8 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.945
+- **Blöcke:** 1.944
 - **Bauteile:** `boden`
 
 **Teileliste**
@@ -296,7 +296,7 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 919 |
-| Glatter Quarzblock | `smooth_quartz` | 916 |
+| Glatter Quarzblock | `smooth_quartz` | 915 |
 | Glatter Stein | `smooth_stone` | 110 |
 
 **Beschreibung**
@@ -318,14 +318,14 @@ Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog.
 ### Schritt 0.10 – Hof – Teil 1/2 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.483
+- **Blöcke:** 1.193
 - **Bauteile:** `hof`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.483 |
+| Grasblock | `grass_block` | 1.193 |
 
 **Beschreibung**
 
@@ -346,15 +346,15 @@ Der dritte, große Hof ist ein Garten mit Rasen.
 ### Schritt 0.11 – Hof – Teil 2/2 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.498
+- **Blöcke:** 1.184
 - **Bauteile:** `hof`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 840 |
-| Grasblock | `grass_block` | 658 |
+| Polierter Tuffstein | `polished_tuff` | 599 |
+| Grasblock | `grass_block` | 585 |
 
 **Beschreibung**
 

@@ -1,0 +1,57 @@
+{
+  "module": 2,
+  "title": "Trennwände, Gewölbe und Dach",
+  "subtitle": "Bautüte 2: drei Kammern unter bemalten Tonnengewölben",
+  "icon": "🏺",
+  "parts": {
+    "trennwand_1": {
+      "title": "Trennwand zur zweiten Kammer",
+      "description": "Eine 2 Blöcke dicke Wand trennt die erste von der zweiten Kammer. In der Mitte bleibt ein Durchgang von 5 × 7 Blöcken mit einem Rahmen aus Pietra serena.",
+      "tip": "Setze erst den Rahmen, dann die Wand.",
+      "caution": "Lass den Durchgang frei, sonst kommt man nicht weiter.",
+      "fact": "Die Grotta Grande hat drei hintereinander liegende Räume (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "trennwand_2": {
+      "title": "Trennwand zur dritten Kammer",
+      "description": "Wie die erste Trennwand, nur zwischen zweiter und dritter Kammer.",
+      "tip": "Gleicher Durchgang 5 × 7.",
+      "caution": "Hier endet der Weg vor dem Brunnenbecken.",
+      "fact": "Die dritte Kammer ist als Grotte mit gemaltem Himmel und Vögeln gestaltet (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "kammer_1_gewoelbe": {
+      "title": "Gewölbe der ersten Kammer",
+      "description": "Ein Tonnengewölbe überspannt die Kammer: am Rand Y 81, in der Mitte Y 86. Die untere Fläche ist bemalt wie eine Pergola, im Wechsel Grün und Gelb, darüber füllst du mit Mauerwerk bis unter das Dach. In der Mitte bleibt ein rundes Auge, das Oculus.",
+      "tip": "Baue das Gewölbe von den Rändern zur Mitte.",
+      "caution": "Das Oculus bleibt frei und wird oben mit Glas geschlossen.",
+      "fact": "Bernardino Poccetti malte die Fresken; die Decke wirkt wie eine Laube mit einem Lichtauge in der Mitte (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "kammer_2_gewoelbe": {
+      "title": "Gewölbe der zweiten Kammer",
+      "description": "Das Gewölbe ist ebenso geformt, aber bemalt mit orangen und roten Feldern und braunen Korallen, als Anspielung auf Muscheln und Stalaktiten.",
+      "tip": "Von den Rändern zur Mitte.",
+      "caution": "Die Fläche unter dem Gewölbe bleibt frei.",
+      "fact": "Die zweite Kammer ist mit Fresken sowie Muschel- und Tropfsteinschmuck dekoriert (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "kammer_3_gewoelbe": {
+      "title": "Gewölbe der dritten Kammer",
+      "description": "Die dritte Kammer trägt einen gemalten Himmel: hellblaue Fläche mit weißen Punkten als Vögel.",
+      "tip": "Streue die weißen Punkte unregelmäßig.",
+      "caution": "Auch hier gilt: Ränder zuerst.",
+      "fact": "Die dritte Kammer ist als Grotte mit gemaltem Himmel und Vögeln gestaltet (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "dach": {
+      "title": "Dach",
+      "description": "Das Dach liegt als Platte aus Pietra serena auf Y 88 über allen Wänden und Gewölben.",
+      "tip": "Setze es zuletzt, es verschließt das Gebäude.",
+      "caution": "Die Glasfläche des Oculus kommt separat.",
+      "fact": "Der Bau liegt im Boboli-Garten; das Dach ist (vereinfacht, nicht nach Vorbild)."
+    },
+    "oculus": {
+      "title": "Oculus mit Glas",
+      "description": "Über dem runden Auge der ersten Kammer schließt eine Scheibe aus weißem Glas das Dach und lässt Licht herein.",
+      "tip": "Das Glas liegt bündig im Dach.",
+      "caution": "Es muss rundum an die Dachplatte anschließen.",
+      "fact": "Ein zentrales Oculus erhellt die erste Kammer (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

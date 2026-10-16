@@ -1,0 +1,43 @@
+{
+  "module": 3,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 3: Statuen, Brunnenbecken und Licht",
+  "icon": "⛲",
+  "parts": {
+    "nischenstatuen": {
+      "title": "Statuen in den Fassadennischen",
+      "description": "In den beiden Nischen stehen Ceres und Apollo als Blockfiguren, 4 Blöcke hoch auf einem Sockel aus Pietra serena.",
+      "tip": "Eine Figur je Nische.",
+      "caution": "Der Sockel ist 1 Block hoch.",
+      "fact": "Die Statuen von Baccio Bandinelli stehen in den Nischen der Fassade (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "gefangene": {
+      "title": "Erste Kammer: die „Gefangenen“",
+      "description": "Vier Figuren aus rauem Kalzit stehen auf 2 × 2-Sockeln in den Ecken: je 3 Blöcke Körper, ein Kopf und ein erhobener Arm.",
+      "tip": "Setze zuerst die Sockel.",
+      "caution": "Lass zwischen den Figuren einen Weg zu den Durchgängen frei.",
+      "fact": "Michelangelos unvollendete „Gefangene“ standen bis 1924 hier; heute stehen Kopien an ihrem Platz, die Originale in der Galleria dell’Accademia (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "paris_helena": {
+      "title": "Zweite Kammer: Paris und Helena",
+      "description": "Auf einem Sockel von 3 × 3 Blöcken steht die Gruppe: Paris als Körper von 2 × 2 × 4 mit Kopf, daneben Helena auf seinem Arm.",
+      "tip": "Sockel zuerst, dann Paris, dann Helena.",
+      "caution": "Gehe auf allen Seiten um die Gruppe herum.",
+      "fact": "Vincenzo de’ Rossi schuf die Marmorgruppe „Paris entführt Helena“ (um 1560) (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "venus_brunnen": {
+      "title": "Dritte Kammer: Venus im Brunnenbecken",
+      "description": "Ein rundes Becken mit zwei Blöcken hohem Rand aus Pietra serena und Marmor umgibt das Wasser. In der Mitte steht auf einem Sockel die Venus, rund um das Becken vier kleine Satyrn aus Bronze.",
+      "tip": "Rand zuerst, dann Wasser, dann die Figur.",
+      "caution": "Das Wasser liegt nur einen Block hoch und reicht nicht über den Rand.",
+      "fact": "Giambolognas „Venus beim Bade“ steht über einem Marmorbecken, in das vier Satyrn Wasser spritzten (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "Seelaternen im Boden jeder Kammer sorgen für Licht, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Ersetze einen Bodenstein durch eine Laterne.",
+      "caution": "Nicht unter Figuren setzen.",
+      "fact": "Ohne Lichtquelle sind Innenräume in Minecraft dunkel."
+    }
+  }
+}

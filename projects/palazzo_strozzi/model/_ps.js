@@ -6,6 +6,7 @@
 const path = require('node:path');
 const WZ = require('../../../tools/wahrzeichen');
 const { palazzo } = require('../../../tools/wahrzeichen/palazzo.js');
+const RAUM = require('./_raeume.js');
 
 const RUSTIKA = WZ.typ('pietra_forte_rustika'), FORTE = WZ.typ('pietra_forte'), SERENA = WZ.typ('pietra_serena');
 const PZ = palazzo({
@@ -17,6 +18,7 @@ const PZ = palazzo({
   // Rustika in allen Geschossen; Fugen (jede dritte Lage) im Erdgeschoss kräftiger, oben glatter
   material: (s, c, yr, i) => (i.gesims || i.kranz ? SERENA : (s === 0 ? (yr % 3 === 0 ? FORTE : RUSTIKA) : s === 1 ? (yr % 4 === 0 ? FORTE : RUSTIKA) : (yr % 5 === 0 ? RUSTIKA : FORTE))),
   portale: [{ u: 0.5, w: 43.5, breite: 6, hoehe: 14 }, { u: 57, w: 0, breite: 6, hoehe: 14 }, { u: 114, w: 43.5, breite: 6, hoehe: 14 }],
-  treppe: { u: 20, w: 20 }
+  treppe: { u: 20, w: 20 },
+  raeume: { waende: RAUM.WAENDE, ausstatten: RAUM.ausstatten }
 });
 module.exports = PZ;

@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 60.118 |
+| Blöcke | 60.833 |
 | Bauschritte | 33 |
 | Y-Bereich | 61 bis 67 |
 | X-Ausdehnung | -634 bis -382 (253 Blöcke) |
 | Z-Ausdehnung | -473 bis -322 (152 Blöcke) |
 | Kleinster Schritt | 1.400 Blöcke (Schritt 0.23) |
-| Mittlerer Schritt | 1.822 Blöcke |
-| Größter Schritt | 2.056 Blöcke (Schritt 0.20) |
+| Mittlerer Schritt | 1.843 Blöcke |
+| Größter Schritt | 2.076 Blöcke (Schritt 0.17) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 39.713 | 66,1 % |
-| Glatter Stein | `smooth_stone` | 13.379 | 22,3 % |
+| Tuffstein | `tuff` | 40.229 | 66,1 % |
+| Glatter Stein | `smooth_stone` | 13.579 | 22,3 % |
 | Polierter Tuffstein | `polished_tuff` | 2.832 | 4,7 % |
 | Glatter Quarzblock | `smooth_quartz` | 2.100 | 3,5 % |
-| Rosa Keramik | `pink_terracotta` | 2.082 | 3,5 % |
+| Rosa Keramik | `pink_terracotta` | 2.081 | 3,4 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -38,10 +38,10 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `fundament` | Fundament | 39.713 | 0.1–0.22 |
+| 1 | `fundament` | Fundament | 40.229 | 0.1–0.22 |
 | 2 | `krypta` | Krypta | 3.400 | 0.23–0.24 |
 | 3 | `krypta_treppe` | Treppe zum Vorraum | 42 | 0.25 |
-| 4 | `boden` | Böden der Kirche | 16.963 | 0.25–0.33 |
+| 4 | `boden` | Böden der Kirche | 17.162 | 0.25–0.33 |
 
 ## Bauschritte
 
@@ -272,14 +272,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.9 – Fundament – Teil 9/22 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.903
+- **Blöcke:** 1.997
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.903 |
+| Tuffstein | `tuff` | 1.997 |
 
 **Beschreibung**
 
@@ -300,14 +300,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.10 – Fundament – Teil 10/22 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.895
+- **Blöcke:** 1.926
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.895 |
+| Tuffstein | `tuff` | 1.926 |
 
 **Beschreibung**
 
@@ -328,14 +328,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.11 – Fundament – Teil 11/22 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.895
+- **Blöcke:** 1.888
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.895 |
+| Tuffstein | `tuff` | 1.888 |
 
 **Beschreibung**
 
@@ -440,14 +440,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.15 – Fundament – Teil 15/22 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.788
+- **Blöcke:** 1.917
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.788 |
+| Tuffstein | `tuff` | 1.917 |
 
 **Beschreibung**
 
@@ -468,14 +468,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.16 – Fundament – Teil 16/22 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.849
+- **Blöcke:** 1.917
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.849 |
+| Tuffstein | `tuff` | 1.917 |
 
 **Beschreibung**
 
@@ -496,14 +496,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.17 – Fundament – Teil 17/22 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.007
+- **Blöcke:** 2.076
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.007 |
+| Tuffstein | `tuff` | 2.076 |
 
 **Beschreibung**
 
@@ -524,14 +524,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.18 – Fundament – Teil 18/22 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.022
+- **Blöcke:** 2.044
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.022 |
+| Tuffstein | `tuff` | 2.044 |
 
 **Beschreibung**
 
@@ -552,14 +552,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.19 – Fundament – Teil 19/22 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.961
+- **Blöcke:** 1.998
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.961 |
+| Tuffstein | `tuff` | 1.998 |
 
 **Beschreibung**
 
@@ -580,14 +580,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.20 – Fundament – Teil 20/22 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.056
+- **Blöcke:** 2.057
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.056 |
+| Tuffstein | `tuff` | 2.057 |
 
 **Beschreibung**
 
@@ -608,14 +608,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.21 – Fundament – Teil 21/22 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 2.035
+- **Blöcke:** 2.047
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.035 |
+| Tuffstein | `tuff` | 2.047 |
 
 **Beschreibung**
 
@@ -636,14 +636,14 @@ San Lorenzo wurde 393 geweiht und war die erste Bischofskirche von Florenz.
 ### Schritt 0.22 – Fundament – Teil 22/22 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.995
+- **Blöcke:** 2.055
 - **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.995 |
+| Tuffstein | `tuff` | 2.055 |
 
 **Beschreibung**
 
@@ -721,14 +721,14 @@ Durch die Krypta betritt man heute die Cappelle Medicee; hier liegen viele Mitgl
 ### Schritt 0.25 – Treppe zum Vorraum & Böden der Kirche – Teil 1/9 (Y 67–67)
 
 - **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.912
+- **Blöcke:** 1.975
 - **Bauteile:** `krypta_treppe`, `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.900 |
+| Glatter Stein | `smooth_stone` | 1.963 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 
 **Treppen je Material** (alle Richtungen)
@@ -756,15 +756,16 @@ Der Besucherweg führt von der Krypta über Treppen hinauf in die Fürstenkapell
 ### Schritt 0.26 – Böden der Kirche – Teil 2/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.864
+- **Blöcke:** 1.896
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.479 |
-| Rosa Keramik | `pink_terracotta` | 385 |
+| Glatter Stein | `smooth_stone` | 1.470 |
+| Rosa Keramik | `pink_terracotta` | 423 |
+| Glatter Quarzblock | `smooth_quartz` | 3 |
 
 **Beschreibung**
 
@@ -785,16 +786,16 @@ Der Fußboden aus grauem und weißem Stein spiegelt das Raster der Säulen.
 ### Schritt 0.27 – Böden der Kirche – Teil 3/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.859
+- **Blöcke:** 1.887
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 954 |
-| Rosa Keramik | `pink_terracotta` | 712 |
-| Glatter Quarzblock | `smooth_quartz` | 193 |
+| Glatter Stein | `smooth_stone` | 963 |
+| Rosa Keramik | `pink_terracotta` | 719 |
+| Glatter Quarzblock | `smooth_quartz` | 205 |
 
 **Beschreibung**
 
@@ -815,16 +816,16 @@ Der Fußboden aus grauem und weißem Stein spiegelt das Raster der Säulen.
 ### Schritt 0.28 – Böden der Kirche – Teil 4/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.910
+- **Blöcke:** 1.914
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.130 |
-| Rosa Keramik | `pink_terracotta` | 580 |
-| Glatter Quarzblock | `smooth_quartz` | 200 |
+| Glatter Stein | `smooth_stone` | 1.145 |
+| Rosa Keramik | `pink_terracotta` | 571 |
+| Glatter Quarzblock | `smooth_quartz` | 198 |
 
 **Beschreibung**
 
@@ -845,16 +846,16 @@ Der Fußboden aus grauem und weißem Stein spiegelt das Raster der Säulen.
 ### Schritt 0.29 – Böden der Kirche – Teil 5/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.964
+- **Blöcke:** 1.887
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.343 |
-| Rosa Keramik | `pink_terracotta` | 405 |
-| Glatter Quarzblock | `smooth_quartz` | 216 |
+| Glatter Stein | `smooth_stone` | 1.316 |
+| Rosa Keramik | `pink_terracotta` | 368 |
+| Glatter Quarzblock | `smooth_quartz` | 203 |
 
 **Beschreibung**
 
@@ -875,15 +876,15 @@ Der Fußboden aus grauem und weißem Stein spiegelt das Raster der Säulen.
 ### Schritt 0.30 – Böden der Kirche – Teil 6/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.829
+- **Blöcke:** 1.913
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.531 |
-| Glatter Quarzblock | `smooth_quartz` | 298 |
+| Glatter Stein | `smooth_stone` | 1.629 |
+| Glatter Quarzblock | `smooth_quartz` | 284 |
 
 **Beschreibung**
 
@@ -904,15 +905,15 @@ Der Fußboden aus grauem und weißem Stein spiegelt das Raster der Säulen.
 ### Schritt 0.31 – Böden der Kirche – Teil 7/9 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.882
+- **Blöcke:** 1.947
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.469 |
-| Glatter Quarzblock | `smooth_quartz` | 413 |
+| Glatter Stein | `smooth_stone` | 1.520 |
+| Glatter Quarzblock | `smooth_quartz` | 427 |
 
 **Beschreibung**
 

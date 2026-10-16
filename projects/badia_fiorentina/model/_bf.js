@@ -194,6 +194,94 @@ function plan() {
     }
   }
 
+  // ---- Modul 6 (V5b): Ausstattung nach Quellen (it.wikipedia Badia Fiorentina), vereinfacht in vollen Blöcken
+  //      Lage in Lokalkoordinaten (u, w): x = 77 + u, z = 580 + w (achsparallel); Stehzelle = Lage 1.
+  const put = (u, w, yr, t, p) => { const c = zelleBei(77 + u, 580 + w); if (c) set(c.x, Y(yr), c.z, t, p); };
+  const box = (u0, u1, w0, w1, y0, y1, t, p) => { for (let u = u0; u <= u1; u++) for (let w = w0; w <= w1; w++) for (let yr = y0; yr <= y1; yr++) put(u, w, yr, typ_(t, u, w, yr), p); };
+  const typ_ = (t, u, w, yr) => (typeof t === 'function' ? t(u, w, yr) : t);
+  const F = (n) => WZ.fresko(n);
+  // Bildfeld an einer Wand: Zeilen von oben nach unten, Spalten in Richtung wachsender w; Goldrahmen rundum
+  const tafel = (u, w0, yTop, zeilen, rahmen, p) => {
+    const h = zeilen.length, b = zeilen[0].length;
+    for (let j = 0; j < h; j++) for (let i = 0; i < b; i++) put(u, w0 + 1 + i, yTop - 1 - j, zeilen[j][i], p);
+    for (let i = -1; i <= b; i++) { put(u, w0 + 1 + i, yTop, rahmen, p); put(u, w0 + 1 + i, yTop - h - 1, rahmen, p); }
+    for (let j = 0; j < h; j++) { put(u, w0, yTop - 1 - j, rahmen, p); put(u, w0 + 1 + b, yTop - 1 - j, rahmen, p); }
+  };
+  const hb = F('hellblau'), bl = F('blau'), ge = F('gelb'), gr = F('gruen'), br = F('braun'), ro = F('rot'), we = F('weiss'), og = F('orange');
+
+  // 1. Filippino Lippi: Erscheinung der Madonna vor dem hl. Bernhard (1482-86), im Nordarm links gleich hinter dem Nordportal
+  //    (Ostwand des Nordarms u = 52, Blick nach Süden), 7 Blöcke breit, Unterkante Lage 2
+  tafel(52, -24, 8, [
+    [hb, hb, ge, hb, hb],
+    [hb, hb, bl, hb, gr],
+    [gr, hb, bl, gr, gr],
+    [gr, gr, og, gr, gr],
+    [br, we, gr, gr, ro]
+  ], T.gold, 'lippi_tafel');
+
+  // 2. Grabmal Bernardo Giugni (Mino da Fiesole, um 1466-69): Wandgrabmal nahe dem Eingang, Nordwand des Nordarms westlich des Portals
+  box(39, 46, -25, -24, 1, 1, T.weiss, 'giugni_grabmal');                      // Sockel
+  box(40, 45, -25, -24, 2, 3, T.weiss, 'giugni_grabmal');                      // Sarkophag
+  box(40, 45, -25, -24, 4, 4, T.ornament, 'giugni_grabmal');                   // Deckel
+  box(39, 39, -25, -25, 2, 9, T.ornament, 'giugni_grabmal');                   // Pilaster
+  box(46, 46, -25, -25, 2, 9, T.ornament, 'giugni_grabmal');
+  box(40, 45, -25, -25, 5, 8, bl, 'giugni_grabmal');                           // Lünettenfeld
+  box(40, 45, -25, -25, 9, 9, T.ornament, 'giugni_grabmal');                   // Gebälk
+  for (const [u, yr] of [[42, 6], [43, 6], [42, 7], [43, 7]]) put(u, -25, yr, we, 'giugni_grabmal');   // Tondo
+
+  // 3. Grabmal Ugo von Tuszien (Mino da Fiesole, 1469-81) unter der Cantoria des linken Querarms (Ostwand des Saals) und Vasaris Assunta (1568)
+  box(63, 64, -4, 4, 1, 2, T.weiss, 'ugo_grabmal');                            // Sockel
+  box(63, 64, -3, 3, 3, 5, T.weiss, 'ugo_grabmal');                            // Sarkophag
+  box(63, 64, -3, 3, 6, 6, T.ornament, 'ugo_grabmal');                         // Deckel
+  box(64, 64, -4, 4, 7, 7, T.ornament, 'ugo_grabmal');
+  box(64, 64, -3, 3, 8, 10, bl, 'ugo_grabmal');                                // Reliefgrund
+  put(64, 0, 9, we, 'ugo_grabmal'); put(64, 0, 8, we, 'ugo_grabmal'); put(64, 1, 9, we, 'ugo_grabmal'); put(64, -1, 9, we, 'ugo_grabmal');
+  box(62, 64, -6, 6, 11, 11, T.holz, 'cantoria_vasari');                       // Cantoria-Boden
+  box(62, 62, -6, 6, 12, 12, T.holz, 'cantoria_vasari');                       // Brüstung
+  box(63, 64, -6, -6, 12, 12, T.holz, 'cantoria_vasari'); box(63, 64, 6, 6, 12, 12, T.holz, 'cantoria_vasari');
+  tafel(64, -3, 21, [
+    [hb, we, ge, we, hb],
+    [we, hb, bl, hb, we],
+    [hb, we, bl, we, hb],
+    [br, ro, we, ro, br]
+  ], T.gold, 'cantoria_vasari');
+  for (let w = -6; w <= 6; w++) for (let u = 62; u <= 64; u++) for (let yr = 12; yr <= 14; yr++) { const c = zelleBei(77 + u, 580 + w); if (c) unzug('cantoria_vasari', 'Cantoria (Empore, Zugang nur über die Orgelbühne)', c.x, Y(yr), c.z); }
+
+  // 4. Orgel von Onofrio Zeffirini (1558) auf der Cantoria des rechten Querarms (Westwand des Saals)
+  box(3, 5, -5, 5, 11, 11, T.holz, 'orgel_zeffirini');                         // Cantoria-Boden
+  box(5, 5, -5, 5, 12, 12, T.holz, 'orgel_zeffirini');                         // Brüstung
+  box(4, 4, -5, 5, 12, 14, T.holz, 'orgel_zeffirini');                         // Gehäuse
+  for (let w = -5; w <= 5; w++) { const h = 24 - Math.abs(w) * 2 - (Math.abs(w) % 2); box(3, 3, w, w, 15, h, T.bronze, 'orgel_zeffirini'); put(4, w, 15, T.holz, 'orgel_zeffirini'); }
+  for (let w = -5; w <= 5; w++) for (let u = 3; u <= 5; u++) for (let yr = 12; yr <= 26; yr++) { const c = zelleBei(77 + u, 580 + w); if (c) unzug('orgel_zeffirini', 'Orgelbühne (Zugang nur für die Orgelpflege)', c.x, Y(yr), c.z); }
+
+  // 5. Hochaltar im Presbyterium (nach Süden zum Arno, 1627-31): Predella mit Stufen, Kruzifix und Leuchter auf der Mensa
+  box(38, 46, 15, 19, 1, 1, T.weiss, 'hochaltar_aufbau');
+  for (let u = 38; u <= 46; u++) put(u, 14, 1, PAL.treppe('marmor_weiss', 's'), 'hochaltar_aufbau');
+  for (let yr = 5; yr <= 9; yr++) put(42, 17, yr, T.gold, 'hochaltar_aufbau');   // Kruzifix
+  put(41, 17, 8, T.gold, 'hochaltar_aufbau'); put(43, 17, 8, T.gold, 'hochaltar_aufbau');
+  put(40, 17, 5, T.gold, 'hochaltar_aufbau'); put(44, 17, 5, T.gold, 'hochaltar_aufbau'); put(40, 17, 6, T.licht, 'hochaltar_aufbau'); put(44, 17, 6, T.licht, 'hochaltar_aufbau');
+
+  // 6. Chorgestühl der Del Tasso (16. Jh.): Rückwand hoch (Lage 2-4, Kranz in Gold), Sitzbank als Treppenblöcke davor
+  const DIRV = [[1, 0, 'o'], [-1, 0, 'w'], [0, 1, 's'], [0, -1, 'n']];
+  for (const c of D.haupt) {
+    if (c.zone !== 'sued') continue;
+    if (c.d8 === 3) {
+      for (let yr = 2; yr <= 4; yr++) set(c.x, Y(yr), c.z, yr === 4 ? T.gold : T.holz, 'chorgestuehl_lehnen');
+      unzug('chorgestuehl_lehnen', 'Oberkante des Chorgestühls (kein Gang)', c.x, Y(5), c.z);
+    } else if (c.d8 === 4) {
+      const d = DIRV.find(([dx, dz]) => { const n = zelleBei(c.x + dx, c.z + dz); return n && n.zone === 'sued' && n.d8 === 3; });
+      if (d) set(c.x, Y(1), c.z, PAL.treppe('holz', d[2]), 'chorgestuehl_sitze');
+    }
+  }
+
+  // 7. Kassettendecke des Saals (Felice Gamberai, bis 1631): hängende Rippen und goldene Rosetten in den Feldern
+  for (const c of D.haupt) {
+    if (c.zone !== 'saal' || c.d8 <= 2) continue;
+    const u = Math.round(c.u), w = Math.round(c.w);
+    if (u % 4 === 0 || w % 4 === 0) set(c.x, Y(SAAL.decke - 1), c.z, T.holz, 'kassettendecke');
+    else if (u % 4 === 2 && w % 4 === 2) set(c.x, Y(SAAL.decke - 1), c.z, T.gold, 'kassettendecke');
+  }
+
   // ---- Modul 5: Licht
   const steh = [];
   for (const c of D.haupt) {

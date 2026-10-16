@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: der Sockel im Hang und der Boden der Kammern",
+  "icon": "🪨",
+  "parts": {
+    "fundament": {
+      "title": "Fundament im Hang",
+      "description": "Du füllst den Grundriss vom Gelände bis unter den Boden mit Tuff aus; der Hang wird innerhalb des Gebäudes bis Y 75 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte von unten.",
+      "caution": "Hinten liegt der Hang höher als vorn; dort sitzt das Gebäude tief im Berg.",
+      "fact": "Die Grotta Grande liegt am Hang des Boboli-Gartens und ist teilweise in den Hügel gebaut (it.wikipedia, Grotta del Buontalenti). (vereinfacht, nicht nach Vorbild)."
+    },
+    "boden": {
+      "title": "Boden der Kammern",
+      "description": "Auf Y 76 legst du den Boden: in der ersten Kammer ein Schachbrett aus Pietra serena und Pflaster, in der zweiten aus Pietra forte und Marmor, in der dritten Pflaster und Pietra serena mit eingestreutem Tropfstein.",
+      "tip": "Das Schachbrett hat Felder von 2 × 2 Blöcken.",
+      "caution": "In die Zellen für die Seelaternen kommt später das Licht.",
+      "fact": "Der Boden ist vereinfacht und nicht nach einem Vorbild gezeichnet."
+    }
+  }
+}

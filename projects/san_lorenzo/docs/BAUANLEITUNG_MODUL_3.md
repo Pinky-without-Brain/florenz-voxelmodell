@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 30.651 |
+| Blöcke | 30.619 |
 | Bauschritte | 19 |
 | Y-Bereich | 68 bis 120 |
 | X-Ausdehnung | -572 bis -385 (188 Blöcke) |
 | Z-Ausdehnung | -445 bis -327 (119 Blöcke) |
 | Kleinster Schritt | 459 Blöcke (Schritt 3.19) |
-| Mittlerer Schritt | 1.613 Blöcke |
-| Größter Schritt | 2.034 Blöcke (Schritt 3.8) |
+| Mittlerer Schritt | 1.612 Blöcke |
+| Größter Schritt | 2.034 Blöcke (Schritt 3.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 16.288 | 53,1 % |
-| Steinziegel | `stone_bricks` | 11.494 | 37,5 % |
-| Tuffstein | `tuff` | 1.394 | 4,5 % |
-| Glatter Stein | `smooth_stone` | 1.240 | 4,0 % |
+| Weißer Beton | `white_concrete` | 16.272 | 53,1 % |
+| Steinziegel | `stone_bricks` | 11.486 | 37,5 % |
+| Tuffstein | `tuff` | 1.394 | 4,6 % |
+| Glatter Stein | `smooth_stone` | 1.232 | 4,0 % |
 | Graues Buntglas | `gray_stained_glass` | 235 | 0,8 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -32,7 +32,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `seitenwaende` | Seitenwände | 11.952 | 3.1–3.7 |
-| 2 | `querhaus_aussen` | Querhauswände | 5.876 | 3.8–3.10 |
+| 2 | `querhaus_aussen` | Querhauswände | 5.844 | 3.8–3.10 |
 | 3 | `chor_aussen` | Chorwände | 9.800 | 3.11–3.16 |
 | 4 | `chorwaende` | Chorwände zu den Kapellen | 594 | 3.17 |
 | 5 | `querhaus_ostwand` | Ostwand der Querarme | 1.970 | 3.18 |
@@ -247,16 +247,16 @@ Die Außenmauern sind schlicht verputzt und aus Bruchstein.
 ### Schritt 3.8 – Querhauswände – Teil 1/3 (Y 68–76)
 
 - **Y-Bereich:** 68 bis 76
-- **Blöcke:** 2.034
+- **Blöcke:** 2.002
 - **Bauteile:** `querhaus_aussen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 981 |
-| Steinziegel | `stone_bricks` | 819 |
-| Glatter Stein | `smooth_stone` | 234 |
+| Weißer Beton | `white_concrete` | 965 |
+| Steinziegel | `stone_bricks` | 811 |
+| Glatter Stein | `smooth_stone` | 226 |
 
 **Beschreibung**
 

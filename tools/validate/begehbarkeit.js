@@ -253,7 +253,13 @@ function pruefeBegehbarkeit(R, opts) {
   }
   out.sort((a, b) => b.zellen - a.zellen);
   return { innenZellen, erreichbar: erreicht, komponenten: out, kleineKomponenten: komponenten.length - out.length,
-    freiZellen: freiGesamt, freiUnerreichbar: freiUnerreicht, inCol };
+    freiZellen: freiGesamt, freiUnerreichbar: freiUnerreicht, inCol,
+    // Abfrage für Tests (kein Teil des JSON-Berichts): ist die Zelle erreichbar (Stehzelle mit Fuß auf y)?
+    erreicht: (x, y, z) => {
+      const xi = x - x0, zi = z - z0, yi = y - y0;
+      if (xi < 0 || xi >= Xn || zi < 0 || zi >= Zn || yi < 0 || yi >= Yn) return false;
+      return vis[(xi * Zn + zi) * Yn + yi] === 1;
+    } };
 }
 
 // 18er-Nachbarschaft: 6 Flächen- und 12 Kantennachbarn als (dx, dy, dz)

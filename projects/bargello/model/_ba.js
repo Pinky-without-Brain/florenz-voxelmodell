@@ -8,6 +8,7 @@ const path = require('node:path');
 const WZ = require('../../../tools/wahrzeichen');
 const P = require('../../../tools/city/poly.js');
 const { palazzo } = require('../../../tools/wahrzeichen/palazzo.js');
+const RAUM = require('./_raeume.js');
 
 const DIR = path.resolve(__dirname, '..');
 const BRUCH = WZ.typ('pietra_forte_bruch'), FORTE = WZ.typ('pietra_forte'), SERENA = WZ.typ('pietra_serena'), PUTZ = WZ.typ('putz_weiss');
@@ -37,7 +38,10 @@ const PZ = palazzo({
   hofMaterial: () => PUTZ,
   portale: [{ u: 6.4, w: 40, breite: 6, hoehe: 12 }, { u: 80, w: 83, breite: 5, hoehe: 10 }],
   treppe: { u: 110, w: 40 },
+  raeume: { waende: RAUM.WAENDE, ausstatten: RAUM.ausstatten },
+  oeffnungTeil: { verone: 'verone' },
   extra: {
+    oeffnungen: RAUM.oeffnungen,
     // Torre Volognana: Schaft über dem Dach bis Lage 114, Zinnen, innen hohl (unzugänglich)
     vorher(api) {
       const { set, unzug, frei, Y, TRAUFE } = api;

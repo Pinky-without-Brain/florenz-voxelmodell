@@ -6,7 +6,8 @@
   "bodenY": 67,
   "rahmen": { "ox": -388.5, "oz": -366.25, "thetaDeg": 192.8 },
   "masken": {
-    "principi": { "gebaeude": ["w24883267"], "abzugHaupt": true, "gelaendeBis": "boden" }
+    "principi": { "gebaeude": ["w24883267"], "abzugHaupt": true, "gelaendeBis": "boden" },
+    "campanile": { "rechtecke": [{ "u": [114, 128], "w": [51, 67] }], "abzugHaupt": true, "gelaendeBis": "boden" }
   },
   "luftraum": 2,
   "begehbarkeit": "pflicht"

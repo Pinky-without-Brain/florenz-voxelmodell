@@ -39,3 +39,5 @@ Die Gebäude der Liste stehen in `loadLandmarks()` (`tools/emit/stadtbasis.js`) 
 2. `data/stadt/vorrang.json` um die OSM-IDs ergänzen; die Quartiere enthalten sie bereits nicht (Prüfung: `quartier.js` bricht bei Vorrang-IDs ab).
 3. Projekt `projects/<id>/` (`type: wahrzeichen`, `rahmen`, `bodenY`, `begehbarkeit: pflicht`), Modelle `model/m*.js`, Content `content/modul_*.json`, Test in `tools/test/<id>.test.js`.
 4. Bauen, `node tools/city/besitz.js <id>`, Stadtgrund neu, `webindex.js`, `--cross`, Tests, Übergabe, Commit/Push.
+
+**V5c (16.10.2026):** Zusätzlich gebaut: `grotta_buontalenti` (Grotta Grande, w473825750, aus `quartier_costa_san_giorgio` gelöst), siehe `grotta_buontalenti/`.

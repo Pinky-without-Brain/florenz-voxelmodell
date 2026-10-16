@@ -28,7 +28,7 @@ Stufen: **A** mehrere Quellen übereinstimmend oder amtliche Quelle, **B** eine 
 | Schiffdecke | flache Holzdecke | **1664** nach Volterrano, mit der Himmelfahrt (it.wikipedia) | A |
 | Tempietto | 4 Säulen, **10,5 Blöcke = 5,25 m** | „quattro colonne … alte **5,25 m**“, Michelozzo/Pagno di Lapo **1447–48**, Bekrönung 1674 (it.wikipedia) | A |
 | Tribuna | rund, Innenradius 20 Blöcke (20 m Durchmesser), 9 Kapellen | Michelozzo, Grundstein **18.10.1444**, Alberti, geweiht **1477**; Kuppelfresko Volterrano **1680–83** (it.wikipedia) | Daten A, Maße C (aus dem OSM-Umriss u 138..192 abgeleitet) |
-| Glocken | – | „campanile a vela“ mit 5 Öffnungen auf dem Tambour (it.wikipedia) | im Modell nicht gebaut |
+| Glocken | Glockengiebel („campanile a vela“) mit **5 Öffnungen** auf dem hinteren Tambour, Plattform Lage 42, Giebelwand bis Lage 57 (Modul 7, V5b) | „campanile a vela“ mit 5 Öffnungen „sul tamburo posteriore“; Glocken 1872 von der Gießerei Moreni, Florenz (it.wikipedia) | Zahl A, Form und Maße C |
 
 ## 3. Entwurfswerte ohne Beleg (Stufe C)
 - Portikus Bogenscheitel Lage 17, Decke 18, Dach 20; Chiostrino Bögen bis Lage 10, Decke 13, Pultdach 14..16.
