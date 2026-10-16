@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Licht",
+  "subtitle": "Bautüte 4: Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "licht": {
+      "title": "Licht",
+      "description": "Seelaternen im Boden der Halle, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in die Bogenöffnungen setzen.",
+      "fact": "In Minecraft ist es unter dem Dach ohne Lichtquelle dunkel."
+    }
+  }
+}

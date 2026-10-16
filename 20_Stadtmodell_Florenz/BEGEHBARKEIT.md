@@ -192,3 +192,11 @@ Drei Wahrzeichen der Welle 6c stehen von Anfang an auf `"begehbarkeit": "pflicht
 - **Kirche:** Tonnengewölbe als Fläche an der Unterseite einer massiven Füllung bis zur Dachhaut (kein Hohlraum), Arkadenwände mit sechs Rundbögen, Durchgang zur Sakramentskapelle (Kuppel als Kugelkappe), Halbkuppel der Apsis. Altartische höchstens eine Lage hoch; das Hochaltarblock (Tisch 13 Stehzellen auf Höhe +3) bleibt unter der Grenze von 20 Zellen.
 - **Oratorium:** Gerade Treppe aus acht Treppenblöcken im Vestibül, der Platz wird per Suche in Weltachsen bestimmt (die Räume sind um 15° gedreht); Treppenloch in der Emporenplatte, Durchgänge in der Vestibülwand auf Emporenhöhe nur innerhalb der Innenlage (`d8 > 2`), sonst R14-Loch im Außeneck.
 - **Ausstattung:** Deckenbild Sagrestanis, Halbkuppel Lapis, Hochaltar mit Statuen, sechs Altarbilder, Sakramentskapelle (Kirche); Deckenfresko Traballesis, Wandbilder Ferris, Engel Burcis (Oratorium); Eingangshalle und Hof (Palast). Bilder sind Farbfelder; Fensterblöcke werden nie überschrieben.
+
+### Loggia del Pesce
+`loggia_del_pesce` (OSM w204145494, `building=roof`, 769 Zellen, aus `quartier_sant_ambrogio` gelöst) steht auf `"begehbarkeit": "pflicht"`. R13: 100 % der 678 Raumzellen erreichbar, 0 Komponenten; R14: 0 Lücken. 5.726 Blöcke, 6 Module. Test: `tools/test/loggia_del_pesce.test.js`. Plan aus Zellen wie Davanzati und Bigallo (`tools/wahrzeichen/zellplan.js`, `model/_lp.js`), Rahmen θ −2,24° entlang der Langseite.
+- **Offene Halle:** neun Rundbögen je Langseite, je ein Bogen an den Schmalseiten (alle Zellen der Öffnungen als `arkade` deklariert, bis zum Boden offen); Pfeiler 2,2 breit, Gebälk und Kranzgesims ringsum. Die Halle ist ein einziger Raum von 64 × 8 Blöcken.
+- **Gewölbe und Dach ohne Hohlraum:** je Joch ein Kuppelgewölbe (Fläche an der Unterseite einer massiven Füllung), darüber das Walmdach; ein Dachboden entsteht nicht (nichts zu deklarieren). Der Dachüberstand (zwei Blöcke, Lage 11) liegt außerhalb des Umrisses (`luftraum: 2`, R12).
+- **Schmuck:** 16 Tondi mit Fischen (3 × 3, Terrakotta), vier Eckwappen, Kartusche und Inschriftentafel als Farbfelder, drei Marktbänke (eine Lage hoch). Die acht Medaillons je Seite sind nicht gebaut.
+- **Kennzahl:** Vier Seelaternen genügen für die Halle (Raster 12); der Lichttest prüft nur die Halle, nicht die Bogenzellen der Wand.
+

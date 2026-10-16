@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament und Boden auf Y 64",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter der Loggia tiefer liegt als Y 63, füllst du mit Bruchstein bis Y 63 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 63 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Giorgio Vasari baute die Loggia 1568 bis 1569 für den Fischmarkt am Mercato Vecchio (Quelle: it.wikipedia, Loggia del Pesce)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 64 liegt der Boden der Halle als Schachbrett aus Pietra serena und Pflaster (drei Blöcke je Feld); unter den Pfeilern und Wänden Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt Bautüte 4.",
+      "fact": "Die Loggia wurde 1955 abgebaut und auf der Piazza dei Ciompi wieder aufgebaut (Quelle: it.wikipedia, Loggia del Pesce)."
+    }
+  }
+}

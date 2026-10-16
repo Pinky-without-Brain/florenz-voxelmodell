@@ -1,0 +1,22 @@
+{
+  "module": 3,
+  "title": "Gewölbe und Dach",
+  "subtitle": "Bautüte 3: Kuppelgewölbe und Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "gewoelbe": {
+      "title": "Kuppelgewölbe",
+      "description": "Über jedem der neun Joche eine flache Kuppel (Scheitel Y 74), darüber massives Mauerwerk bis unter das Dach.",
+      "tip": "Joch für Joch von den Wänden zur Mitte.",
+      "caution": "Zwischen Gewölbe und Dach gibt es keinen Hohlraum.",
+      "fact": "Die Loggia hat Kuppelgewölbe; Zuganker fangen den Schub, äußere Strebepfeiler gibt es nicht (Quelle: it.wikipedia, Loggia del Pesce)."
+    },
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Ziegeln (Y 76 bis 78) mit einem Überstand von zwei Blöcken (Y 75) rund um die Loggia.",
+      "tip": "Zuerst den Überstand, dann die Dachfläche.",
+      "caution": "Der Überstand liegt außerhalb des Umrisses.",
+      "fact": "OSM kennt die Loggia als Dach (building=roof) mit einer geschätzten Höhe von 10 Blöcken."
+    }
+  }
+}

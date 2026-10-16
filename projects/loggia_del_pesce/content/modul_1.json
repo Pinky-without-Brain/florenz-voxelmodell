@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Pfeiler und Arkaden",
+  "subtitle": "Bautüte 1: Pfeiler, Säulen und die Wände mit den Rundbögen",
+  "icon": "🏛️",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Die Pfeiler zwischen den Bögen und an den Ecken aus Pietra serena (2,2 Blöcke breit), unten ein Sockel aus Pietra forte, auf Lage 5 ein Kämpfer aus Marmor; die Schmalseiten sind drei Blöcke dick.",
+      "tip": "Pfeiler für Pfeiler von unten nach oben.",
+      "caution": "Lass die Bogenöffnungen dazwischen frei.",
+      "fact": "Die Bögen ruhen auf Pfeilern und Säulen toskanischer Ordnung aus Pietra serena (Quelle: it.wikipedia, Loggia del Pesce)."
+    },
+    "arkadenwand": {
+      "title": "Arkadenwände mit Rundbögen",
+      "description": "Neun Rundbögen (Scheitel Y 71) je Langseite und ein Bogen in der Mitte jeder Schmalseite; über den Bögen die Zwickelwand bis Y 73. Alle Bögen sind offen.",
+      "tip": "Erst die Pfeiler, dann die Wand über den Bögen.",
+      "caution": "Die Bögen bleiben bis zum Boden frei.",
+      "fact": "Zwei Reihen von je neun Rundbögen tragen die Loggia; 1699 kam an jeder Schmalseite ein Bogen dazu (Quelle: it.wikipedia, Loggia del Pesce)."
+    }
+  }
+}
