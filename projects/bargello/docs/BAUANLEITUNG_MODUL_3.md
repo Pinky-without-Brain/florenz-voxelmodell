@@ -32,7 +32,7 @@
 | 1 | `geschossboeden` | Geschossböden | 12.934 | 3.1–3.7 |
 | 2 | `decke` | Decke | 7.058 | 3.8–3.11 |
 | 3 | `innenwaende_og` | Innenwände der Obergeschosse | 6.522 | 3.12–3.15 |
-| 4 | `trennwaende_og` | trennwaende_og | 11.436 | 3.16–3.21 |
+| 4 | `trennwaende_og` | Trennwände der Obergeschosse | 11.436 | 3.16–3.21 |
 
 ## Bauschritte
 
@@ -463,7 +463,7 @@ Türen frei lassen.
 
 Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 
-### Schritt 3.16 – trennwaende_og – Teil 1/6 (Y 85–91)
+### Schritt 3.16 – Trennwände der Obergeschosse – Teil 1/6 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
 - **Blöcke:** 2.056
@@ -475,7 +475,23 @@ Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 2.056 |
 
-### Schritt 3.17 – trennwaende_og – Teil 2/6 (Y 92–96)
+**Beschreibung**
+
+Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße.
+
+### Schritt 3.17 – Trennwände der Obergeschosse – Teil 2/6 (Y 92–96)
 
 - **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.747
@@ -487,7 +503,23 @@ Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.747 |
 
-### Schritt 3.18 – trennwaende_og – Teil 3/6 (Y 97–101)
+**Beschreibung**
+
+Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße.
+
+### Schritt 3.18 – Trennwände der Obergeschosse – Teil 3/6 (Y 97–101)
 
 - **Y-Bereich:** 97 bis 101
 - **Blöcke:** 1.963
@@ -499,7 +531,23 @@ Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.963 |
 
-### Schritt 3.19 – trennwaende_og – Teil 4/6 (Y 103–108)
+**Beschreibung**
+
+Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße.
+
+### Schritt 3.19 – Trennwände der Obergeschosse – Teil 4/6 (Y 103–108)
 
 - **Y-Bereich:** 103 bis 108
 - **Blöcke:** 2.025
@@ -511,7 +559,23 @@ Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 2.025 |
 
-### Schritt 3.20 – trennwaende_og – Teil 5/6 (Y 109–112)
+**Beschreibung**
+
+Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße.
+
+### Schritt 3.20 – Trennwände der Obergeschosse – Teil 5/6 (Y 109–112)
 
 - **Y-Bereich:** 109 bis 112
 - **Blöcke:** 1.620
@@ -523,7 +587,23 @@ Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.620 |
 
-### Schritt 3.21 – trennwaende_og – Teil 6/6 (Y 113–117)
+**Beschreibung**
+
+Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße.
+
+### Schritt 3.21 – Trennwände der Obergeschosse – Teil 6/6 (Y 113–117)
 
 - **Y-Bereich:** 113 bis 117
 - **Blöcke:** 2.025
@@ -534,3 +614,19 @@ Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 2.025 |
+
+**Beschreibung**
+
+Auf den Geschossböden teilen Trennwände die Obergeschosse in Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Erst den Boden, dann die Wand darauf.
+
+**Achtung**
+
+Türen frei lassen.
+
+**Fakt**
+
+Das Hauptgeschoss (piano nobile) liegt in Florentiner Palazzi eine Treppe über der Straße.

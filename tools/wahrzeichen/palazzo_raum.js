@@ -186,7 +186,85 @@ function kit(api) {
     return j + 3;
   }
 
-  return { D, R, steh, block, boden, decke, waende, flaeche, quader, figur, loewe, zelle, imR, yS, lokal, alle };
+  /** Brunnen: Becken (Rand 2 hoch, Wasser innen), Mittelsäule; r = Außenradius (lokal). Teil und Geschoss wie bei quader. */
+  function brunnen(teil, s, u, w, r, o = {}) {
+    const rand = o.rand || WZ.typ('pietra_serena'), kopf = o.kopf || WZ.typ('marmor_weiss'), wasser = o.wasser || WZ.typ('wasser');
+    const j0 = o.j0 || 1;
+    let n = 0;
+    for (const c of alle) {
+      const d = Math.hypot(c.u - u, c.w - w);
+      if (d > r + 0.4) continue;
+      if (d > r - 1.3) { set(c.x, yS(s, j0), c.z, rand, teil); set(c.x, yS(s, j0 + 1), c.z, d > r - 0.6 ? kopf : rand, teil); n++; }
+      else {
+        set(c.x, yS(s, j0), c.z, wasser, teil);
+        if (d < 0.8) for (let h = 1; h <= (o.saeule === undefined ? 4 : o.saeule); h++) set(c.x, yS(s, j0 + h), c.z, h === (o.saeule === undefined ? 4 : o.saeule) ? kopf : rand, teil);
+      }
+    }
+    return n;
+  }
+
+  /** Baum: Stamm der Höhe h, Krone (Kugel mit Radius 2) darüber. */
+  function baum(teil, s, u, w, h, o = {}) {
+    const { x, z } = zelle(u, w);
+    const stamm = o.stamm || WZ.typ('gruen_stamm'), laub = o.laub || WZ.typ('gruen_baum');
+    for (let j = 1; j <= h; j++) set(x, yS(s, j), z, stamm, teil);
+    for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) for (let dj = -1; dj <= 2; dj++) {
+      if (dx * dx + dz * dz + dj * dj * 1.5 > 5.5) continue;
+      set(x + dx, yS(s, h + dj), z + dz, laub, teil);
+    }
+  }
+
+  /** Laterne: Pfosten aus Bronze der Höhe h mit Seelaterne oben. */
+  function laterne(teil, s, u, w, h, o = {}) {
+    const { x, z } = zelle(u, w);
+    for (let j = 1; j <= h; j++) set(x, yS(s, j), z, o.pfosten || WZ.typ('bronze'), teil);
+    set(x, yS(s, h + 1), z, WZ.typ('licht'), teil);
+  }
+
+  /**
+   * Kamin an einer Wand: Mitte (u, w), richtung = die Seite, zu der der Kamin schaut (u+, u-, w+ oder w-); die Wand liegt
+   * auf der abgewandten Seite. Breite 5 (Wangen), Tiefe 2, Feuerstelle aus dunklem Stein, Sturz und Rauchfang.
+   */
+  function kamin(teil, s, u, w, richtung, o = {}) {
+    const wange = o.wange || WZ.typ('pietra_serena'), feuer = o.feuer || WZ.typ('kontrast_dunkel'), sturz = o.sturz || WZ.typ('marmor_ornament');
+    const achseU = richtung[0] === 'w';                                  // schaut in w-Richtung: Breite entlang u
+    const sg = richtung[1] === '+' ? 1 : -1;
+    let n = 0;
+    for (const c of alle) {
+      const t = achseU ? c.u - u : c.w - w, tiefe = achseU ? (c.w - w) * sg : (c.u - u) * sg;
+      if (Math.abs(t) > 2.5 || tiefe < -0.5 || tiefe > 1.5) continue;
+      for (let j = 1; j <= 9; j++) {
+        let typ = null;
+        if (j <= 2) typ = Math.abs(t) >= 1.5 ? wange : (tiefe < 0.5 ? feuer : null);
+        else if (j === 3) typ = sturz;
+        else if (Math.abs(t) <= 1.2 && tiefe < 0.5) typ = wange;
+        if (typ && set(c.x, yS(s, j), c.z, typ, teil)) n++;
+      }
+    }
+    return n;
+  }
+
+  /**
+   * Stellwand (freistehende Tafel, 1 Zelle dick): entlang achse (u oder w) bei Koordinate v von von bis bis, Höhe 7;
+   * Bilder (4 breit, 3 hoch, Unterkante 2 über dem Boden) in den Farben aus farben (Freskofarben), dazwischen Wandfarbe.
+   */
+  function stellwand(teil, s, achse, v, von, bis, o) {
+    const farben = o.farben.map((f) => WZ.fresko(f));
+    let n = 0;
+    for (const c of D.haupt) {
+      const a = achse === 'u' ? c.u : c.w, t = achse === 'u' ? c.w : c.u;
+      if (a < v - 0.55 || a >= v + 0.55 || t < von || t > bis) continue;
+      const k = Math.floor((t - von) / 6), i = mod(Math.floor(t - von), 6);
+      for (let j = 1; j <= 7; j++) {
+        let typ = o.wand;
+        if (j >= 3 && j <= 5 && i >= 1 && i <= 4) typ = farben[mod(k + (j === 4 && i % 2 ? 1 : 0), farben.length)];
+        if (set(c.x, yS(s, j), c.z, typ, teil)) n++;
+      }
+    }
+    return n;
+  }
+
+  return { D, R, steh, block, boden, decke, waende, flaeche, quader, figur, loewe, brunnen, baum, laterne, kamin, stellwand, zelle, imR, yS, lokal, alle };
 }
 
 /** Schachbrettmuster aus lokalen Koordinaten (Kachelgröße k). */

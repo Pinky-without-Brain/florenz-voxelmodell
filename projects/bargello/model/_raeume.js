@@ -18,10 +18,10 @@ const WAENDE = [
   { achse: 'u', v: 94, von: 70, bis: 82, tueren: [76] }            // Südflügel | Ostflügel
 ];
 
-const TEILE = ['freitreppe', 'verone', 'hof_wappen', 'michelangelo_saal', 'salone_di_donatello', 'cappella_del_podesta', 'licht_ausstattung'];
+const TEILE = ['freitreppe', 'verone', 'hof_wappen', 'hofbrunnen', 'michelangelo_saal', 'salone_di_donatello', 'cappella_del_podesta', 'licht_ausstattung'];
 
 // Freitreppe (Weltzellen): Aufstieg nach Westen (Lauf 20 Stufen, Breite 3) entlang der Nordarkade zur Verone (1. OG)
-const FT = { x0: 235, z0: 588, n: 20, bx: [209, 215], bz: [586, 590], tor: [211, 214] };   // Start, Plattform, Hofwand-Tor
+const FT = { x0: 237, z0: 591, n: 20, bx: [210, 217], bz: [586, 592], tor: [211, 214] };   // Start, Plattform, Hofwand-Tor
 
 /** Öffnung der Hofwand im 1. Obergeschoss: Eingang der Verone (vor dem Rohbau der Hofwand freigehalten). */
 function oeffnungen(api) {
@@ -85,6 +85,9 @@ function ausstatten(api) {
     }
   }
 
+  // Brunnen (Pozzo) in der Mitte des Hofs, Rand aus Pietra serena
+  K.brunnen('hofbrunnen', 0, 62.5, 46, 4, { saeule: 3 });
+
   // ------------------------------------------------------------ Michelangelo-Saal (EG, Westflügel Nord)
   {
     const z = K.steh(0, { u0: 5, u1: 35, w0: 4, w1: 50 });
@@ -143,4 +146,20 @@ function ausstatten(api) {
   }
 }
 
-module.exports = { WAENDE, TEILE, FT, oeffnungen, ausstatten };
+// ---------------------------------------------------------------- Content der Bauteile (Modul 7), erzeugt content/modul_7.json
+const VER = 'Vereinfachte Ausstattung, nicht nach Vorbild.';
+const INHALT = {
+  titel: 'Ausgestaltete Innenräume und Hof', untertitel: 'Freitreppe, Verone, Säle und Kapelle', icon: '🏛️',
+  teile: {
+    freitreppe: { title: 'Freitreppe im Hof', description: 'Zwanzig Treppenblöcke aus Pietra serena steigen entlang der Nordarkade des Hofs zur Verone; darunter ein massiver Unterbau, an der offenen Seite eine Brüstung.', tip: 'Erst den Unterbau Lage für Lage, dann die Treppenblöcke mit Aufstieg nach Westen.', caution: VER + ' Lage und Länge sind Stufe C.', fact: 'Die Außentreppe führt zur Verone, der offenen Loggia im ersten Obergeschoss (Quelle: it.wikipedia, Palazzo del Bargello; Neri di Fioravante, 14. Jahrhundert).' },
+    verone: { title: 'Verone', description: 'Offene, überdachte Loggia am oberen Ende der Treppe: Plattform in der Höhe des ersten Obergeschosses, drei Säulen, niedrige Brüstung und Terrakottadach; ein Tor in der Hofwand führt in die Galerie.', tip: 'Plattform, Säulen, Brüstung, dann das Dach.', caution: VER + ' Die Öffnung zum Hof ist gewollt.', fact: 'Die Verone ist die Loggia, zu der die Hoftreppe emporsteigt (Quelle: it.wikipedia, Palazzo del Bargello).' },
+    hof_wappen: { title: 'Wappen der Podestà', description: 'An den Hofwänden des ersten und zweiten Obergeschosses hängen farbige Schilde zwischen den Fenstern: Schildhaupt in Gold, Feld in Rot, Blau, Grün, Gelb, Orange oder Braun.', tip: 'Ein Schild ist 3 Blöcke breit und 4 hoch.', caution: VER + ' Die Farben sind nicht die echten Wappen.', fact: 'Die Wände des Bargello-Hofs sind mit den Wappen der Podestà und Richter geschmückt (Quelle: it.wikipedia, Palazzo del Bargello).' },
+    hofbrunnen: { title: 'Brunnen im Hof', description: 'Rundes Becken aus Pietra serena in der Mitte des Hofs, Wasser im Becken und eine kurze Mittelsäule.', tip: 'Erst den Rand, dann das Wasser.', caution: VER, fact: 'Im Hof steht ein Brunnen (pozzo); Form und Lage sind hier Stufe C (Quelle: it.wikipedia, Palazzo del Bargello).' },
+    michelangelo_saal: { title: 'Michelangelo-Saal', description: 'Saal im Erdgeschoss des Westflügels: Schachbrettboden aus Marmor und rotem Granit, Wandfelder mit Pilastern, Holz-Kassettendecke, Bacchus als Blockfigur, Brutus-Büste auf hohem Sockel, Tondo Pitti als Marmorscheibe in der Westwand, vier Vitrinen.', tip: 'Boden und Wandfelder zuerst, die Figuren zuletzt.', caution: VER + ' Die Lage im Haus ist Stufe C.', fact: 'Das Museum zeigt Michelangelos Bacchus, den Brutus und den Tondo Pitti (Quelle: it.wikipedia, Museo nazionale del Bargello).' },
+    salone_di_donatello: { title: 'Salone di Donatello', description: 'Großer Saal im ersten Obergeschoss des Ostflügels: Boden aus Terrakotta und Marmor, Wandfelder mit Wappenschilden, Holz-Kassettendecke, zwei Davids (Bronze und Marmor), der heilige Georg und der Marzocco-Löwe auf Sockeln.', tip: 'Die Figuren stehen auf Sockeln in zwei Reihen.', caution: VER + ' Lage und Maße sind Stufe C.', fact: 'Der Salone del Consiglio Generale zeigt heute Donatellos Davids, den heiligen Georg und den Marzocco (Quelle: it.wikipedia, Palazzo del Bargello).' },
+    cappella_del_podesta: { title: 'Cappella del Podestà', description: 'Kapelle der Maddalena im ersten Obergeschoss des Nordflügels: Wandfelder mit Figurenfries in Hellblau, Grün und Rot (Fresken der Giotto-Schule), blaue Decke mit goldenen Sternen, Altar mit goldenem Kreuz und drei Bankreihen.', tip: 'Der Fries hat Himmel oben, Wiese unten und Figuren dazwischen.', caution: VER, fact: 'Die Kapelle der Maddalena trägt Fresken aus dem Umkreis Giottos mit Paradies und Hölle (Quelle: it.wikipedia, Palazzo del Bargello).' },
+    licht_ausstattung: { title: 'Licht in den Sälen', description: 'Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.', tip: 'Die Laternen ersetzen einzelne Bodenblöcke.', caution: 'Nicht in Türöffnungen setzen.', fact: 'In Minecraft sind Innenräume ohne Lichtquelle dunkel.' }
+  }
+};
+
+module.exports = { WAENDE, TEILE, FT, INHALT, oeffnungen, ausstatten };

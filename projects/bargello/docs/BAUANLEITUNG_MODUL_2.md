@@ -38,7 +38,7 @@
 | 2 | `hofwaende` | Hofwände | 18.278 | 2.3–2.12 |
 | 3 | `hoffenster` | Hoffenster | 1.644 | 2.13 |
 | 4 | `innenwaende` | Innenwände | 4.004 | 2.14–2.15 |
-| 5 | `trennwaende` | trennwaende | 6.819 | 2.16–2.19 |
+| 5 | `trennwaende` | Trennwände | 6.819 | 2.16–2.19 |
 
 ## Bauschritte
 
@@ -473,7 +473,7 @@ Türen frei lassen.
 
 Ab 1574 residierte hier der Bargello, nach dem der Palast heute heißt.
 
-### Schritt 2.16 – trennwaende – Teil 1/4 (Y 65–70)
+### Schritt 2.16 – Trennwände – Teil 1/4 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.812
@@ -485,7 +485,23 @@ Ab 1574 residierte hier der Bargello, nach dem der Palast heute heißt.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.812 |
 
-### Schritt 2.17 – trennwaende – Teil 2/4 (Y 71–74)
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.
+
+### Schritt 2.17 – Trennwände – Teil 2/4 (Y 71–74)
 
 - **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.448
@@ -497,7 +513,23 @@ Ab 1574 residierte hier der Bargello, nach dem der Palast heute heißt.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.448 |
 
-### Schritt 2.18 – trennwaende – Teil 3/4 (Y 75–79)
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.
+
+### Schritt 2.18 – Trennwände – Teil 3/4 (Y 75–79)
 
 - **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.939
@@ -509,7 +541,23 @@ Ab 1574 residierte hier der Bargello, nach dem der Palast heute heißt.
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.939 |
 
-### Schritt 2.19 – trennwaende – Teil 4/4 (Y 80–83)
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.
+
+### Schritt 2.19 – Trennwände – Teil 4/4 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.620
@@ -520,3 +568,19 @@ Ab 1574 residierte hier der Bargello, nach dem der Palast heute heißt.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.620 |
+
+**Beschreibung**
+
+Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.
+
+**Tipp**
+
+Türen beim Bauen frei lassen.
+
+**Achtung**
+
+Die Wände stehen auf dem Boden des Erdgeschosses.
+
+**Fakt**
+
+Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander.
