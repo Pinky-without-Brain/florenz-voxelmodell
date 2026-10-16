@@ -52,9 +52,11 @@ function pruefeFelder(json) {
     if (!json.masken || typeof json.masken !== 'object' || Array.isArray(json.masken)) p.push('masken muss ein Objekt sein');
     else {
       for (const [name, s] of Object.entries(json.masken)) {
-        const hatG = s && s.gebaeude !== undefined, hatF = s && s.flaechen !== undefined;
-        if (!s || (!hatG && !hatF)) p.push(`masken.${name} braucht gebaeude oder flaechen`);
+        const hatG = s && s.gebaeude !== undefined, hatF = s && s.flaechen !== undefined, hatR = s && s.rechtecke !== undefined;
+        const rechteckOk = (r) => r && Array.isArray(r.u) && Array.isArray(r.w) && r.u.length === 2 && r.w.length === 2 && [...r.u, ...r.w].every(isNum);
+        if (!s || (!hatG && !hatF && !hatR)) p.push(`masken.${name} braucht gebaeude, flaechen oder rechtecke`);
         else if ((hatG && !idsOk(s.gebaeude)) || (hatF && !idsOk(s.flaechen))) p.push(`masken.${name}.gebaeude/flaechen muss eine nichtleere ID-Liste sein`);
+        else if (hatR && !(Array.isArray(s.rechtecke) && s.rechtecke.length > 0 && s.rechtecke.every(rechteckOk))) p.push(`masken.${name}.rechtecke muss eine nichtleere Liste von { u: [u0, u1], w: [w0, w1] } sein`);
         else {
           for (const k of ['xMin', 'xMax', 'zMin', 'zMax']) if (s[k] !== undefined && !isNum(s[k])) p.push(`masken.${name}.${k} muss eine Zahl sein`);
           if (s.abzugAlle !== undefined && typeof s.abzugAlle !== 'boolean') p.push(`masken.${name}.abzugAlle muss true/false sein`);
@@ -79,6 +81,27 @@ function gebaeudeVon(pid, root, projectsRoot, vorrang, byId) {
 function projektJson(pid, root, projectsRoot) {
   const f = path.join(projectsRoot || path.join(root, 'projects'), pid, 'project.json');
   return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : null;
+}
+
+/**
+ * Maske aus Rechtecken im Rahmen des Projekts (Zusatzmasken auf freiem Grund ohne OSM-Gebäude, z. B. Campanili, V5b):
+ * rechtecke = [{ u: [u0, u1], w: [w0, w1] }]; eine Zelle gehört dazu, wenn ihre Ecke (x, z) mit u0 <= u < u1, w0 <= w < w1 liegt
+ * (gleiche Konvention wie c.u / c.w der Bauplaene).
+ */
+function rechteckMaske(rechtecke, rahmenJson) {
+  if (!rahmenJson) throw new Error('rechtecke brauchen einen Rahmen im Projekt');
+  const R = makeRahmen(rahmenJson);
+  const cells = [];
+  for (const r of rechtecke) {
+    const ecken = [[r.u[0], r.w[0]], [r.u[0], r.w[1]], [r.u[1], r.w[0]], [r.u[1], r.w[1]]].map(([u, w]) => R.toWorld(u, w));
+    const x0 = Math.floor(Math.min(...ecken.map((e) => e.x))) - 1, x1 = Math.ceil(Math.max(...ecken.map((e) => e.x))) + 1;
+    const z0 = Math.floor(Math.min(...ecken.map((e) => e.z))) - 1, z1 = Math.ceil(Math.max(...ecken.map((e) => e.z))) + 1;
+    for (let x = x0; x <= x1; x++) for (let z = z0; z <= z1; z++) {
+      const l = R.toLocal(x, z);
+      if (l.u >= r.u[0] && l.u < r.u[1] && l.w >= r.w[0] && l.w < r.w[1]) cells.push([x, z]);
+    }
+  }
+  return Maske.vonZellen(cells);
 }
 
 /**
@@ -126,6 +149,7 @@ function ladeMasken(projectJson, opts = {}, _besucht = new Set()) {
     const teile = [];
     if (s.gebaeude) teile.push(Maske.ausGebaeude(s.gebaeude, grenzen));
     if (s.flaechen) teile.push(Maske.ausFlaechen(s.flaechen, grenzen));
+    if (s.rechtecke) teile.push(rechteckMaske(s.rechtecke, projectJson.rahmen));
     let m = teile.length > 1 ? teile[0].union(...teile.slice(1)) : teile[0];
     if (abzug.length) m = m.minus(...abzug);
     masken[name] = m;

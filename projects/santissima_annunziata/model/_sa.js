@@ -28,6 +28,8 @@ const W_SCHIFF = 13;                       // Schiff innen |w − AX| < 13 (13 m
 const S_DECKE = 40, S_FIRST = 54, S_TRAUFE = 46, KAP_DECKE = 22, KAP_DACH_I = 34, KAP_DACH_A = 28;
 const KAP = { links: 8, rechts: 9 };
 const TRIB = { u: 165, w: 3.5, ri: 20, rd: 22.5, rk: 26, ra: 28, kap: 9, decke: 21, tambour: 42, rKa: 22.5 };
+// Glockengiebel (V5b, Stufe C): Plattform Lage 42 (Oberkante des Tambours) hinter dem Kuppelfuß, Giebelwand r 25..28, 17 Blöcke breit
+const GIEBEL = { plattform: 42, u1: 204, halb: 8.5, r0: 25, r1: 28, fuss: 53, hoehe: 5, abstand: 3.4, a: 1.2, kaempfer: 50, balken: 49, turm: { u: 198, w: 3.5 } };
 const TEMPIETTO = { u0: 49, u1: 58, w0: -8, w1: 0, saeule: 11 };   // 5,25 m hohe Säulen = 10,5 Blöcke
 
 const T = {
@@ -170,6 +172,10 @@ function plan() {
     if (c.zone === 'chiostrino' && c.u >= U_KIRCHE - 3 && Math.abs(c.w - AX) < 4) for (let yr = 1; yr <= rund(9, c.w - AX, 4); yr++) oeffnung('tor', 'innenfassade', c.x, Y(yr), c.z);
   }
 
+  // ---- Modul 7 (V5b): Glockengiebel (campanile a vela, 5 Öffnungen) auf dem hinteren Tambour, erreichbar über einen Treppenturm
+  // im Vorsprung hinter der Tribuna (Zugang durch die Rückkapelle). Lage und Maße: Stufe C (Quelle nennt nur sul tamburo posteriore).
+  const gt = giebelturm(D, { set, hat, frei, oeffnung, unzug, key, zellen, teile });
+
   // ---- Modul 0: Fundament und Boden
   for (const c of D.alle) for (let y = c.gt + 1; y <= Y(-1); y++) set(c.x, y, c.z, T.bruch, 'fundament');
   for (const c of D.alle) {
@@ -281,7 +287,7 @@ function plan() {
     if (c.zone !== 'neben' || c.d8 <= 2) continue;
     const wand = N8.some(([dx, dz]) => { const z = zoneBei(c.x + dx, c.z + dz); return z && z !== 'neben'; });
     for (let yr = 1; yr < 26; yr++) {
-      if (hat(c.x, Y(yr), c.z)) continue;
+      if (hat(c.x, Y(yr), c.z) || luft.has(key(c.x, Y(yr), c.z))) continue;
       if (wand || yr === 24) set(c.x, Y(yr), c.z, T.putz, 'nebenraeume');
       else unzug('nebenraeume', 'Nebenräume der Tribuna (im Modell ohne Zugang)', c.x, Y(yr), c.z);
     }
@@ -365,8 +371,102 @@ function plan() {
   }
   teile.set('licht', lt);
 
-  PLAN = { zellen, teile, oeff, unz };
+  PLAN = { zellen, teile, oeff, unz, giebel: gt };
   return PLAN;
+}
+
+// ------------------------------------------------------------------ Glockengiebel und Treppenturm (V5b)
+function giebelturm(D, env) {
+  const { set, frei, oeffnung, key } = env;
+  const info = {};
+  const p0 = D.R.toWorld(GIEBEL.turm.u, GIEBEL.turm.w);
+  const xs = Math.floor(p0.x), zs = Math.floor(p0.z);
+  const inRing = (c) => Math.abs(c.x - xs) <= 3 && Math.abs(c.z - zs) <= 3;
+  const inInnen = (x, z) => Math.abs(x - xs) <= 2 && Math.abs(z - zs) <= 2;
+  for (let dx = -3; dx <= 3; dx++) for (let dz = -3; dz <= 3; dz++) if (!D.byKey.has(P.ck(xs + dx, zs + dz))) throw new Error('Treppenturm: Zelle außerhalb der Maske');
+  const TOP = GIEBEL.plattform;
+  // Wendeltreppe 5 x 5 in Weltachsen, Innenraum frei bis unter die Plattform
+  for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) for (let yr = 1; yr < TOP; yr++) frei(xs + dx, Y(yr), zs + dz);
+  const tr = WZ.treppe.wendeltreppe({ mitte: { x: xs, z: zs }, radiusInnen: 0, radiusAussen: 2, yVon: Y(0), yBis: Y(TOP), rolle: 'pietra_serena', drehsinn: 'rechts' });
+  const trKeys = new Set([...tr].map((b) => key(b.x, b.y, b.z)));
+  for (const l of WZ.treppe.treppenloch(tr.lauf, 3)) { if (l.y >= Y(TOP)) oeffnung('loggia', 'campanile_plattform', l.x, l.y, l.z); else frei(l.x, l.y, l.z); }
+  for (const b of tr) if (b.y >= Y(TOP) - 3 && b.y < Y(TOP)) for (let h = 1; h <= 3; h++) if (!trKeys.has(key(b.x, b.y + h, b.z))) { if (b.y + h >= Y(TOP)) oeffnung('loggia', 'campanile_plattform', b.x, b.y + h, b.z); else frei(b.x, b.y + h, b.z); }
+  // Durchgang von der Rückkapelle der Tribuna zum Innenraum des Turms (kürzester 4er-Weg, 2 breit, 4 hoch)
+  let start = null, bs = Infinity;
+  for (const c of D.haupt) {
+    if (c.zone !== 'kranz' || c.u < TRIB.u) continue;
+    const d = Math.abs(rTrib(c) - (TRIB.rk - 2)) + Math.abs(c.w - TRIB.w);
+    if (d < bs) { bs = d; start = c; }
+  }
+  // freie Stehzellen am Fuß der Treppe: Zellen des Innenraums ohne Treppenblock in den Lagen 1..3 (Kopffreiheit)
+  const boden3 = new Set();
+  for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) {
+    if ([1, 2, 3].every((h) => !trKeys.has(key(xs + dx, Y(h), zs + dz)))) boden3.add(P.ck(xs + dx, zs + dz));
+  }
+  const prev = new Map(), q = [P.ck(start.x, start.z)];
+  prev.set(q[0], null);
+  let ziel = null;
+  while (q.length && ziel === null) {
+    const k = q.shift(), x = P.ckX(k), z = P.ckZ(k);
+    for (const [dx, dz] of [[1, 0], [-1, 0], [0, 1], [0, -1]]) {
+      const n = P.ck(x + dx, z + dz);
+      if (prev.has(n) || !D.byKey.has(n)) continue;
+      const nx = P.ckX(n), nz = P.ckZ(n);
+      if (inInnen(nx, nz) && !boden3.has(n)) continue;           // im Turm nur auf den freien Stehzellen am Fuß der Treppe
+      prev.set(n, k);
+      if (boden3.has(n)) { ziel = n; break; }
+      q.push(n);
+    }
+  }
+  if (ziel === null) throw new Error('Treppenturm: kein Durchgang');
+  const weg = [];
+  for (let k = prev.get(ziel); k !== null && k !== undefined; k = prev.get(k)) weg.push(k);
+  const tuer = new Set();
+  for (const k of weg) for (const [dx, dz] of [[0, 0], [1, 0], [0, 1], [1, 1]]) {
+    const x = P.ckX(k) + dx, z = P.ckZ(k) + dz;
+    if (D.byKey.has(P.ck(x, z)) && !inInnen(x, z)) tuer.add(P.ck(x, z));
+  }
+  for (const k of tuer) for (let yr = 1; yr <= 4; yr++) oeffnung('tuer', 'campanile_schaft', P.ckX(k), Y(yr), P.ckZ(k));
+  info.tuerZellen = tuer.size;
+  // Treppe setzen (Kern und Stufen), Schale des Turms (1 Zelle, Lagen 1 bis Plattform), Licht in der Schale
+  for (const b of tr) if (b.y > Y(0)) set(b.x, b.y, b.z, b.typ, 'campanile_treppe', true);
+  for (const c of D.haupt) {
+    if (!inRing(c) || inInnen(c.x, c.z)) continue;
+    for (let yr = 1; yr <= TOP; yr++) {
+      const lampe = yr % 8 === 5 && yr < TOP - 2 && ((Math.abs(c.x - xs) === 3 && c.z === zs) || (Math.abs(c.z - zs) === 3 && c.x === xs));
+      set(c.x, Y(yr), c.z, lampe ? T.licht : (yr === TOP ? T.serena : yr <= 3 ? T.bruch : T.mauer), lampe ? 'campanile_licht' : 'campanile_schaft');
+    }
+  }
+  // Sockel und Plattform: massiv hinter und über den Kapellendächern bis zur Plattform (Lage TOP)
+  const sockel = (c) => c.u >= TRIB.u && c.u < GIEBEL.u1 && Math.abs(c.w - TRIB.w) <= GIEBEL.halb && rTrib(c) >= TRIB.rd;
+  for (const c of D.haupt) {
+    if (!sockel(c)) continue;
+    const y0 = c.zone === 'kranz' ? TRIB.decke + 1 : c.zone === 'neben' ? 27 : 1;
+    for (let yr = y0; yr <= TOP; yr++) {
+      if (inInnen(c.x, c.z) && yr < TOP) continue;
+      const lampe = yr === TOP && Math.abs(c.w - TRIB.w) < 0.7 && Math.abs(rTrib(c) - 24) < 0.7;
+      set(c.x, Y(yr), c.z, lampe ? T.licht : yr === TOP ? T.serena : T.mauer, lampe ? 'campanile_licht' : yr === TOP ? 'campanile_plattform' : 'campanile_sockel');
+    }
+  }
+  // Glockengiebel: 3 Zellen dick (r 25..28) auf der Plattform, fünf Rundbogenöffnungen, Holzbalken mit Glocken, Giebelkrone
+  let glocken = 0;
+  for (const c of D.haupt) {
+    const r = rTrib(c), dw = c.w - TRIB.w;
+    if (c.u < TRIB.u || r < GIEBEL.r0 || r >= GIEBEL.r1 || Math.abs(dw) > GIEBEL.halb) continue;
+    const top = GIEBEL.fuss + Math.floor(GIEBEL.hoehe * (1 - (dw / GIEBEL.halb) ** 2));
+    const kk = Math.round(dw / GIEBEL.abstand), x = dw - kk * GIEBEL.abstand;
+    for (let yr = TOP + 1; yr <= top; yr++) {
+      const drin = Math.abs(kk) <= 2 && Math.abs(x) < GIEBEL.a && yr >= TOP + 3 && yr <= Math.floor(GIEBEL.kaempfer + Math.sqrt(Math.max(0, GIEBEL.a * GIEBEL.a - x * x)));
+      if (!drin) { set(c.x, Y(yr), c.z, yr === top ? T.serena : T.mauer, 'glockengiebel'); continue; }
+      if (yr === GIEBEL.balken) set(c.x, Y(yr), c.z, T.holz, 'glockenjoch');
+      else if (yr >= GIEBEL.balken - 3 && yr < GIEBEL.balken && Math.abs(r - (GIEBEL.r0 + GIEBEL.r1) / 2) < 0.9 && Math.abs(x) < 0.9) { set(c.x, Y(yr), c.z, T.bronze, 'glocken'); glocken++; }
+      else oeffnung('fenster_offen', 'glockengiebel', c.x, Y(yr), c.z);
+    }
+  }
+  info.glockenZellen = glocken;
+  info.turm = { x: xs, z: zs };
+  info.treppe = tr;
+  return info;
 }
 
 const OEFF_TEIL = {};
@@ -388,4 +488,4 @@ function modul(n, liste) {
   };
 }
 
-module.exports = { modul, lade, plan, zelleBei, zone, Y, BODEN_Y, T, TRIB, TEMPIETTO, KAP, W_SCHIFF, AX };
+module.exports = { modul, lade, plan, zelleBei, zone, Y, BODEN_Y, T, TRIB, TEMPIETTO, KAP, W_SCHIFF, AX, GIEBEL };

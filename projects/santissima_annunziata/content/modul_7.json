@@ -1,0 +1,64 @@
+{
+  "module": 7,
+  "title": "Glockengiebel",
+  "subtitle": "Bautüte 7: der Campanile a vela auf dem hinteren Tambour",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Treppenturm",
+      "description": "Hinter der Tribuna, im Vorsprung der Rückseite, steht ein Treppenturm von sieben mal sieben Blöcken aus Steinziegeln mit Bruchsteinsockel. Aus der hintersten Kapelle der Tribuna führt ein Durchgang, zwei Blöcke breit und vier hoch, durch die Kapellenwand zu den ersten Stufen; sein Weg ersetzt dort den Altar.",
+      "tip": "Der Turm reicht bis Lage 42, das ist die Oberkante des Tambours.",
+      "caution": "Der Treppenturm ist eine Modellannahme (Stufe C): Die Quellen nennen nur den Glockengiebel „sul tamburo posteriore“, nicht den Zugang. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Glocken der Kirche goss 1872 die Florentiner Gießerei Moreni; sie hängen in einem campanile a vela mit fünf Öffnungen (it.wikipedia)."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Im Turm windet sich eine Wendeltreppe aus Treppenblöcken aus Glattem Stein um einen Kern bis auf die Plattform auf Lage 42: an jeder Seite eine Stufe, in den Ecken Podeste. Über allen Stufen bleiben drei Blöcke Luft; oben ist die Treppe offen zum Himmel.",
+      "tip": "Die Treppe dreht im Uhrzeigersinn nach oben; die ersten Stufen liegen an der Westseite des Turms.",
+      "caution": "Lass die Luft über den Stufen und die offene Öffnung oben frei.",
+      "fact": "Wie man zum Glockengiebel gelangt, ist nicht überliefert; die Treppe ist angenommen (Stufe C)."
+    },
+    "campanile_sockel": {
+      "title": "Glockensockel",
+      "description": "Hinter dem Kuppelfuß füllt ein massiver Sockel aus Steinziegeln den Raum über den Kapellen- und Nebenraumdächern bis zur Plattform; er trägt Plattform und Glockengiebel.",
+      "tip": "Er füllt die Zellen von den Dächern bis Lage 41.",
+      "caution": "Er ist massiv, damit unter der Plattform kein verschlossener Hohlraum bleibt.",
+      "fact": "Der Sockel ist eine Modellannahme (Stufe C)."
+    },
+    "campanile_plattform": {
+      "title": "Plattform",
+      "description": "Auf Lage 42 liegt hinter der Kuppel eine Plattform aus Glattem Stein, 17 Blöcke breit. Auf ihr kommt man aus dem Treppenturm und geht bis zum Glockengiebel.",
+      "tip": "Zwei Seelaternen liegen im Plattformboden.",
+      "caution": "Die Öffnung der Treppe oben bleibt offen.",
+      "fact": "Die Höhe entspricht der Oberkante des Tambours (Lage 42)."
+    },
+    "glockengiebel": {
+      "title": "Glockengiebel",
+      "description": "Eine drei Blöcke dicke Mauer aus Steinziegeln mit gestufter Krone steht quer zur Tribuna-Achse über der Plattform. Fünf Rundbogenöffnungen, je zweieinhalb Blöcke breit, geben die Glocken frei. Die Giebelkrone steigt zur Mitte bis Lage 57.",
+      "tip": "Die Öffnungen beginnen auf Lage 45 und enden in Rundbögen um Lage 51.",
+      "caution": "Die Öffnungen bleiben offen, damit der Klang hinausdringt.",
+      "fact": "Der campanile a vela hat fünf Öffnungen für die Glocken (it.wikipedia). Maße und Giebelform sind angenommen (Stufe C)."
+    },
+    "glockenjoch": {
+      "title": "Glockenbalken",
+      "description": "In jeder Öffnung liegt in Lage 49 ein Balken aus Dunkler Eiche quer zur Wand; an ihm hängen die Glocken.",
+      "tip": "Der Balken liegt auf den Pfeilern zwischen den Öffnungen.",
+      "caution": "Setze ihn vor den Glocken.",
+      "fact": "Echte Glocken hängen an hölzernen Jochen, das Modell zeigt nur den Balken."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "In jeder der fünf Öffnungen hängt eine Glocke aus Geschnittenem Kupfer, drei Lagen hoch, unter dem Balken.",
+      "tip": "Ihre Unterkante liegt auf Lage 46.",
+      "caution": "Sie hängen frei am Balken.",
+      "fact": "Die Glocken goss 1872 die Gießerei Moreni in Florenz (it.wikipedia); Bronze wird im Modell durch Kupferblöcke gezeigt."
+    },
+    "campanile_licht": {
+      "title": "Licht",
+      "description": "In der Mauer des Treppenturms sitzen Seelaternen, alle acht Lagen auf vier Seiten, und zwei im Boden der Plattform.",
+      "tip": "Setze sie in die innere Wandlage, sie schließen bündig ab.",
+      "caution": "Nicht in den Durchgang setzen.",
+      "fact": "Licht ist für den Minecraft-Rundgang nötig."
+    }
+  }
+}

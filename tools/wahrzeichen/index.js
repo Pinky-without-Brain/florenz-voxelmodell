@@ -11,5 +11,6 @@ module.exports = {
   treppe: require('./treppe.js'),
   licht: require('./licht.js'),
   ...require('./licht.js'),
-  ...require('./projekt.js')
+  ...require('./projekt.js'),
+  campanile: require('./campanile.js')
 };

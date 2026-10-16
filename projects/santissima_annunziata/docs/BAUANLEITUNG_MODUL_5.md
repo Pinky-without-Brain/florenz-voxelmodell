@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.316 |
-| Bauschritte | 11 |
+| Blöcke | 16.013 |
+| Bauschritte | 10 |
 | Y-Bereich | 89 bis 121 |
 | X-Ausdehnung | 635 bis 775 (141 Blöcke) |
 | Z-Ausdehnung | -981 bis -830 (152 Blöcke) |
-| Kleinster Schritt | 1.249 Blöcke (Schritt 5.1) |
-| Mittlerer Schritt | 1.483 Blöcke |
-| Größter Schritt | 1.900 Blöcke (Schritt 5.5) |
+| Kleinster Schritt | 1.091 Blöcke (Schritt 5.4) |
+| Mittlerer Schritt | 1.601 Blöcke |
+| Größter Schritt | 1.988 Blöcke (Schritt 5.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 7.820 | 47,9 % |
-| Steinziegel | `stone_bricks` | 5.987 | 36,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.632 | 10,0 % |
-| Goldblock | `gold_block` | 742 | 4,5 % |
+| Terrakotta | `terracotta` | 7.675 | 47,9 % |
+| Steinziegel | `stone_bricks` | 5.829 | 36,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.632 | 10,2 % |
+| Goldblock | `gold_block` | 742 | 4,6 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 135 | 0,8 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -32,8 +32,8 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `decke` | Holzdecke | 2.509 | 5.1–5.2 |
-| 2 | `daecher` | Dächer | 7.820 | 5.3–5.7 |
-| 3 | `schildwaende` | Schildwände | 5.987 | 5.8–5.11 |
+| 2 | `daecher` | Dächer | 7.675 | 5.3–5.7 |
+| 3 | `schildwaende` | Schildwände | 5.829 | 5.8–5.10 |
 
 ## Bauschritte
 
@@ -97,17 +97,17 @@ Darüber liegt der unzugängliche Dachraum.
 
 Die Decke entstand 1664 nach Volterranos Entwurf; er malte darauf die Himmelfahrt Mariens.
 
-### Schritt 5.3 – Dächer – Teil 1/5 (Y 93–93)
+### Schritt 5.3 – Dächer – Teil 1/5 (Y 93–95)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.341
+- **Y-Bereich:** 93 bis 95
+- **Blöcke:** 1.728
 - **Bauteile:** `daecher`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.341 |
+| Terrakotta | `terracotta` | 1.728 |
 
 **Beschreibung**
 
@@ -125,17 +125,17 @@ Der Dachraum bleibt hohl.
 
 Von außen verschwindet die Kirche fast hinter Portikus und Kloster.
 
-### Schritt 5.4 – Dächer – Teil 2/5 (Y 95–97)
+### Schritt 5.4 – Dächer – Teil 2/5 (Y 96–97)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.587
+- **Y-Bereich:** 96 bis 97
+- **Blöcke:** 1.091
 - **Bauteile:** `daecher`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.587 |
+| Terrakotta | `terracotta` | 1.091 |
 
 **Beschreibung**
 
@@ -156,14 +156,14 @@ Von außen verschwindet die Kirche fast hinter Portikus und Kloster.
 ### Schritt 5.5 – Dächer – Teil 3/5 (Y 98–100)
 
 - **Y-Bereich:** 98 bis 100
-- **Blöcke:** 1.900
+- **Blöcke:** 1.864
 - **Bauteile:** `daecher`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.900 |
+| Terrakotta | `terracotta` | 1.864 |
 
 **Beschreibung**
 
@@ -237,17 +237,17 @@ Der Dachraum bleibt hohl.
 
 Von außen verschwindet die Kirche fast hinter Portikus und Kloster.
 
-### Schritt 5.8 – Schildwände – Teil 1/4 (Y 89–96)
+### Schritt 5.8 – Schildwände – Teil 1/3 (Y 89–98)
 
-- **Y-Bereich:** 89 bis 96
-- **Blöcke:** 1.434
+- **Y-Bereich:** 89 bis 98
+- **Blöcke:** 1.988
 - **Bauteile:** `schildwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.434 |
+| Steinziegel | `stone_bricks` | 1.988 |
 
 **Beschreibung**
 
@@ -265,17 +265,17 @@ Keine Öffnungen.
 
 So bleibt der Dachraum dicht.
 
-### Schritt 5.9 – Schildwände – Teil 2/4 (Y 97–104)
+### Schritt 5.9 – Schildwände – Teil 2/3 (Y 99–113)
 
-- **Y-Bereich:** 97 bis 104
-- **Blöcke:** 1.554
+- **Y-Bereich:** 99 bis 113
+- **Blöcke:** 1.943
 - **Bauteile:** `schildwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.554 |
+| Steinziegel | `stone_bricks` | 1.943 |
 
 **Beschreibung**
 
@@ -293,45 +293,17 @@ Keine Öffnungen.
 
 So bleibt der Dachraum dicht.
 
-### Schritt 5.10 – Schildwände – Teil 3/4 (Y 105–114)
+### Schritt 5.10 – Schildwände – Teil 3/3 (Y 114–120)
 
-- **Y-Bereich:** 105 bis 114
-- **Blöcke:** 1.405
+- **Y-Bereich:** 114 bis 120
+- **Blöcke:** 1.898
 - **Bauteile:** `schildwaende`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.405 |
-
-**Beschreibung**
-
-Wo Dächer verschieden hoch sind und am Übergang zur Kuppel schließen Schildwände aus Steinziegeln die Lücke.
-
-**Tipp**
-
-Sie folgen der Dachneigung.
-
-**Achtung**
-
-Keine Öffnungen.
-
-**Fakt**
-
-So bleibt der Dachraum dicht.
-
-### Schritt 5.11 – Schildwände – Teil 4/4 (Y 115–120)
-
-- **Y-Bereich:** 115 bis 120
-- **Blöcke:** 1.594
-- **Bauteile:** `schildwaende`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 1.594 |
+| Steinziegel | `stone_bricks` | 1.898 |
 
 **Beschreibung**
 

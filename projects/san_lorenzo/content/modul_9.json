@@ -1,0 +1,57 @@
+{
+  "module": 9,
+  "title": "Campanile",
+  "subtitle": "Bautüte 9: der Glockenturm von Ferdinando Ruggieri",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Turm steht 14 mal 16 Blöcke groß neben der Neuen Sakristei am Nordende des Querhauses. Seine Wände sind zwei Blöcke dick aus Poliertem Andesit (Pietra forte), unten mit einem Sockel aus Tuffziegeln und in Bändern aus Glattem Stein gegliedert. Alle 20 Lagen sitzt ein schmaler Fensterschlitz. Aus der Kapelle am Querhausende führt eine Tür, drei Blöcke breit und vier hoch, durch beide Mauern in den Turm.",
+      "tip": "Der Schaft reicht bis Lage 77; die Tür liegt in der Südwand.",
+      "caution": "Lass Tür und Fensterschlitze frei. Die Lage des Turms ist eine Annahme (Stufe C): Quellen sagen nur „neben der Sagrestia Nuova“.",
+      "fact": "Der Turm wurde 1740 bis 1741 nach Plänen von Ferdinando Ruggieri aus Pietra forte gebaut; sein Bruder Giuseppe vollendete ihn. Auftraggeberin war Anna Maria Luisa de’ Medici. Er ist 54 Meter hoch (Quellen: it.wikipedia, gonews.it 2020). Im Modell vereinfacht, nicht nach Vorbild."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Treppenblöcken aus Glattem Stein um einen Kern bis zum Boden der Glockenstube auf Lage 78: an jeder Seite eine Stufe, in den Ecken Podeste. Über allen Stufen und Podesten bleiben drei Blöcke Luft.",
+      "tip": "Die Treppe dreht im Uhrzeigersinn nach oben, die erste Stufe liegt gleich neben der Tür.",
+      "caution": "Der Kern in der Mitte trägt die Stufen, nimm ihn erst zuletzt weg, falls du ihn ersetzen willst.",
+      "fact": "Die Treppe ist eine Modellannahme: Pläne des Turminneren sind nicht überliefert (Stufe C)."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Von Lage 78 bis 92 öffnet sich die Glockenstube mit je einer hohen Rundbogenöffnung auf jeder Seite. Der Boden besteht aus Dunkler Eiche, die Decke aus Glattem Stein, und ein Gesims fasst sie oben und unten ein.",
+      "tip": "Die Öffnungen beginnen drei Lagen über dem Boden und enden im Rundbogen unter Lage 91.",
+      "caution": "Die Bogenöffnungen bleiben offen, damit der Klang hinausdringt.",
+      "fact": "Im Turm hängen fünf Glocken: drei große, die Gian Gastone de’ Medici 1740 stiftete, und zwei kleinere für die Werktage (gonews.it 2020). Im Modell vereinfacht."
+    },
+    "glockenjoch": {
+      "title": "Glockenjoch",
+      "description": "Ein umlaufender Balken aus Dunkler Eiche liegt innen an den Mauern der Glockenstube auf Lage 86. An ihm hängen die Glocken.",
+      "tip": "Der Balken liegt rundum an der inneren Mauerschale an.",
+      "caution": "Setze ihn vor den Glocken.",
+      "fact": "Echte Glocken hängen an hölzernen Jochen, die sich im Takt drehen; das Modell zeigt nur den Balken."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "Drei große Glocken (zwei mal zwei Blöcke, drei Lagen hoch) und zwei kleine (eine Zelle, zwei Lagen hoch) aus Geschnittenem Kupfer hängen mit vier Lagen Abstand zum Boden unter dem Joch, vor den Bogenöffnungen.",
+      "tip": "Unterkante der Glocken ist Lage 82, so bleibt der Weg zur Treppe frei.",
+      "caution": "Die Glocken hängen am Joch, nicht am Boden.",
+      "fact": "Bronze wird im Modell durch Kupferblöcke gezeigt; die Gießerei der jüngsten Glocke ist Ecat in Mondovì (2019, it.wikipedia)."
+    },
+    "campanile_spitze": {
+      "title": "Kuppelhelm",
+      "description": "Über der Glockenstube schließt eine gestufte Kuppel aus Ziegelsteinen den Turm ab, bekrönt von einer Spitze aus Geschnittenem Kupfer. Der Turm endet auf Lage 104, 54 Meter über dem Gelände.",
+      "tip": "Die Ringe werden nach oben dünner; ab Lage 93 beginnt der Helm.",
+      "caution": "Der Hohlraum im Helm bleibt leer und ist nicht begehbar.",
+      "fact": "Die Form des Helms ist nicht belegt (Stufe C); die Höhe von 54 Metern nennt it.wikipedia."
+    },
+    "campanile_licht": {
+      "title": "Turmlicht",
+      "description": "In der inneren Mauerschale sitzen Seelaternen, auf jeder Seite alle acht Lagen, damit die Treppe hell ist.",
+      "tip": "Setze sie in die innere Wandlage, sie schließen bündig ab.",
+      "caution": "Nicht in den Fensterschlitz setzen.",
+      "fact": "Licht ist für den Minecraft-Rundgang nötig; historisch gab es nur Schlitzfenster."
+    }
+  }
+}
