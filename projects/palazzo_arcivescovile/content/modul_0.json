@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 64, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 63, füllst du mit Bruchstein bis Y 63 auf; höher liegendes Gelände wurde bis Y 63 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 63 schon erreicht, bleibt die Spalte leer.",
+      "fact": "An dieser Stelle stand schon im 9. Jahrhundert ein Bischofssitz, die Domus Sancti Johannis (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 64 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor; unter den Hofarkaden liegt Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "1075 wird der Palast in einer Urkunde als Bischofssitz erwähnt (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster liegt auf Y 64.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der rechteckige Hof wird auf Dosio zurückgeführt und wurde von Bernardino Ciurini umgebaut (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt im Nordflügel vom Erdgeschoss bis ins oberste Geschoss (Y 101).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei. Die Palasttreppe im Hof ist hier vereinfacht.",
+      "fact": "Die Treppe des Palasts liegt im Hof und ist an drei Seiten von Rundbogenarkaden überdeckt (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    }
+  }
+}

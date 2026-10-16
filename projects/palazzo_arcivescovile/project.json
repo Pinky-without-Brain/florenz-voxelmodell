@@ -1,0 +1,11 @@
+{
+  "id": "palazzo_arcivescovile",
+  "title": "Palazzo Arcivescovile",
+  "type": "wahrzeichen",
+  "gebaeude": ["r1592495"],
+  "bodenY": 64,
+  "rahmen": { "ox": -399, "oz": -54.5, "thetaDeg": 93.7 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

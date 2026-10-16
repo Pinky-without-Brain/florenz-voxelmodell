@@ -174,3 +174,13 @@ Zwei Kirchen der Welle 3 haben einen begehbaren Glockenturm bzw. Glockengiebel b
 - **Treppe:** Podesttreppe aus 18 Treppenblöcken (5 + 4 Stufen, Breite 2) in der Halle, Platz per Suche in Weltachsen; das Treppenloch im Obergeschossboden nur über dem oberen Lauf (Kopffreiheit 3 über jeder Stufe, die Platte über dem Podest bleibt); Kragsteine unter allen Stufen.
 - **Museum:** drei Säle im Obergeschoss (Fresken, Triptychon, Misericordia Domini mit Stadtansicht als Wandfeld, Vitrinen); Details im Katalog.
 - **Dichtheit:** Bögen und Tür deklariert, Fenster mit Glas in allen drei Wandlagen, Dach massiv; die Nischen der Tabernakel liegen in der inneren Wandlage (kein Durchbruch nach außen).
+
+## 20. San Firenze, Palazzo Arcivescovile, Loggia del Pesce (W6c, 16.10.2026)
+Drei Wahrzeichen der Welle 6c stehen von Anfang an auf `"begehbarkeit": "pflicht"` (R13: 0 nicht erreichbare Komponenten, R14: 0 Lücken). Kataloge: `wahrzeichen/palazzo_arcivescovile/`, `wahrzeichen/san_firenze/`, `wahrzeichen/loggia_del_pesce/`.
+
+### Palazzo Arcivescovile
+`palazzo_arcivescovile` (OSM r1592495, 7.432 Zellen, ein Hof, aus `quartier_san_lorenzo` gelöst) mit `tools/wahrzeichen/palazzo.js`, Rahmen θ 93,7° entlang der Fassade zur Piazza San Giovanni. R13: 85,4 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 98.847 Blöcke, 7 Module. Test: `tools/test/palazzo_arcivescovile.test.js`.
+- **Zugang und Räume:** zwei Portale zur Piazza San Giovanni, Kutschentor und Kirchenportal zur Piazza dell'Olio; neun Trennwandlinien teilen alle vier Geschosse (EG, Piano nobile, zwei Mezzanin-Geschosse, 37 Blöcke wie OSM). Ausgestaltet (Modul 6): Sala dell'Udienza (Ferrucci), Salone, Treppenhaus, Kirche San Salvatore al Vescovo, Hof, Wappen.
+- **Kirche über zwei Geschosse:** Der Geschossboden des Piano nobile über dem Schiff entfällt (`extra.vorher` gibt die Bodenzellen frei, bevor `palazzo.js` sie setzt); das Tonnengewölbe ist massiv von der Bogenlinie bis unter den nächsten Boden (kein Hohlraum, R13). Die Tür der Hofinnenwand im Piano nobile bleibt an dieser Stelle zu (`innenwandTuer`), sonst führte sie in den Luftraum.
+- **Tore in schrägen Wänden:** `cfg.portale` öffnet nach der Außennormale der Zelle (`entlang`); in der um 3,7° geneigten Westwand blieben dadurch Wandreste am Torrand ohne Halt (R3). Die beiden Westtore schneiden deshalb im Rahmen (`oeffnungen` in `_raeume.js`, Breite entlang u).
+- **Stolperfalle:** Eine Tür am Rand der Lichtreichweite (Zelle 12,04 Blöcke von der nächsten Laterne) ließ den Lichttest scheitern; die Tür wurde verschoben.
