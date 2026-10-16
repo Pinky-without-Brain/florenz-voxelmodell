@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.115 |
+| Blöcke | 10.020 |
 | Bauschritte | 7 |
 | Y-Bereich | 63 bis 102 |
 | X-Ausdehnung | 154 bis 290 (137 Blöcke) |
 | Z-Ausdehnung | 560 bis 643 (84 Blöcke) |
 | Kleinster Schritt | 472 Blöcke (Schritt 0.7) |
-| Mittlerer Schritt | 1.588 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 0.2) |
+| Mittlerer Schritt | 1.431 Blöcke |
+| Größter Schritt | 1.851 Blöcke (Schritt 0.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 3.690 | 33,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 3.684 | 33,1 % |
-| Polierter Tuffstein | `polished_tuff` | 1.680 | 15,1 % |
-| Glatter Stein | `smooth_stone` | 1.417 | 12,7 % |
-| Tuffstein | `tuff` | 568 | 5,1 % |
+| Rosa Keramik | `pink_terracotta` | 3.149 | 31,4 % |
+| Glatter Quarzblock | `smooth_quartz` | 3.132 | 31,3 % |
+| Polierter Tuffstein | `polished_tuff` | 1.680 | 16,8 % |
+| Glatter Stein | `smooth_stone` | 1.415 | 14,1 % |
+| Tuffstein | `tuff` | 568 | 5,7 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 | 0,2 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,2 % |
@@ -42,7 +42,7 @@
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament | 568 | 0.1 |
-| 2 | `boden` | Boden | 8.395 | 0.2–0.5 |
+| 2 | `boden` | Boden | 7.300 | 0.2–0.5 |
 | 3 | `hof` | Hof | 1.680 | 0.6 |
 | 4 | `treppe` | Wendeltreppe | 472 | 0.7 |
 
@@ -79,15 +79,16 @@ Der Bau begann 1255 als Palazzo del Popolo, Sitz des Capitano del Popolo.
 ### Schritt 0.2 – Boden – Teil 1/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.099
+- **Blöcke:** 1.815
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.053 |
-| Glatter Quarzblock | `smooth_quartz` | 1.046 |
+| Glatter Quarzblock | `smooth_quartz` | 761 |
+| Rosa Keramik | `pink_terracotta` | 759 |
+| Glatter Stein | `smooth_stone` | 295 |
 
 **Beschreibung**
 
@@ -108,16 +109,16 @@ Seit 1865 ist der Palast das Nationalmuseum für Skulptur.
 ### Schritt 0.3 – Boden – Teil 2/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.099
+- **Blöcke:** 1.830
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 750 |
-| Rosa Keramik | `pink_terracotta` | 739 |
-| Glatter Stein | `smooth_stone` | 610 |
+| Rosa Keramik | `pink_terracotta` | 695 |
+| Glatter Quarzblock | `smooth_quartz` | 685 |
+| Glatter Stein | `smooth_stone` | 450 |
 
 **Beschreibung**
 
@@ -138,16 +139,16 @@ Seit 1865 ist der Palast das Nationalmuseum für Skulptur.
 ### Schritt 0.4 – Boden – Teil 3/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.098
+- **Blöcke:** 1.851
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 847 |
-| Glatter Quarzblock | `smooth_quartz` | 840 |
-| Glatter Stein | `smooth_stone` | 411 |
+| Rosa Keramik | `pink_terracotta` | 790 |
+| Glatter Quarzblock | `smooth_quartz` | 787 |
+| Glatter Stein | `smooth_stone` | 274 |
 
 **Beschreibung**
 
@@ -168,15 +169,15 @@ Seit 1865 ist der Palast das Nationalmuseum für Skulptur.
 ### Schritt 0.5 – Boden – Teil 4/4 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
-- **Blöcke:** 2.099
+- **Blöcke:** 1.804
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.051 |
-| Glatter Quarzblock | `smooth_quartz` | 1.048 |
+| Rosa Keramik | `pink_terracotta` | 905 |
+| Glatter Quarzblock | `smooth_quartz` | 899 |
 
 **Beschreibung**
 

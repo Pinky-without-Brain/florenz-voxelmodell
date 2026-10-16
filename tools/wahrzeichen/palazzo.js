@@ -19,6 +19,12 @@
 //   fenster.versatz?: Verschiebung des Fensterrasters (lokal)
 //   treppe?: { u, w }   bevorzugte Lage der Wendeltreppe (lokal)
 //   extra?(api)         zusätzliche Bauteile, api = { D, set, hat, frei, oeffnung, unzug, key, Y, T, zelleBei }
+//   raeume?: {          Raumteilung und Ausstattung (V5a, abwärtskompatibel: ohne Feld bleibt der Ring ein offener Saal)
+//     waende: [{ s?: Geschoss | [Geschosse] | 'alle', achse: 'u'|'w', v, von?, bis?, tueren: [Lagen entlang der Wand],
+//                breite?: 3.4, hoehe?: 5, dicke?: 2.2 }]   Trennwände (lokal), Teile trennwaende (EG) / trennwaende_og
+//     ausstatten?(api)  Ausstattung: ersetzt Zellen der Rohbauteile (api.ersetze) und setzt Möbel (api.set); läuft vor dem
+//                       Licht, damit Raumböden Lichter bekommen; Teile der Ausstattung gehören in ein eigenes Modul
+//   }
 // }
 
 const fs = require('node:fs');
@@ -83,6 +89,17 @@ function palazzo(cfg) {
         hofEntlang = Math.abs(l.u - c.u) > Math.abs(l.w - c.w) ? 'w' : 'u';
         break;
       }
+      if (!hofEntlang && c.dHof === 2) {                               // zweite Lage der Hofwand: nächste Lochzelle im Umkreis 2 (V5a: Arkaden gehen durch beide Lagen)
+        let bd = Infinity;
+        for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) {
+          if ((!dx && !dz) || !H.innen(c.x + dx, c.z + dz) || H.has(c.x + dx, c.z + dz)) continue;
+          const d = dx * dx + dz * dz;
+          if (d >= bd) continue;
+          bd = d;
+          const l = R.toLocal(c.x + dx, c.z + dz);
+          hofEntlang = Math.abs(l.u - c.u) > Math.abs(l.w - c.w) ? 'w' : 'u';
+        }
+      }
       c.hofEntlang = hofEntlang;
       c.portikus = !!(cfg.portikus && cfg.portikus.test(c));
       c.entlangPortikus = cfg.portikus ? (cfg.portikus.entlang || 'w') : null;
@@ -137,6 +154,20 @@ function palazzo(cfg) {
     const GLAS = PAL.typesForRole('glas');
     const glas = (a, b) => GLAS[Math.abs(a * 5 + b * 3) % GLAS.length];
     const api = { D, set, hat, frei, oeffnung, unzug, key, Y, T, zelleBei, BASIS, TRAUFE, luft, zellen, teile };
+    // Raumteilung und Ausstattung (V5a)
+    const RA = cfg.raeume || {};
+    const bodenTeile = new Set(['boden', 'geschossboeden']);               // Teile, die einen Geschossboden bilden
+    const ersetzt = new Set();                                              // Zellen, die die Ausstattung einem anderen Teil zugewiesen hat
+    const tuerBoden = cfg.geschosse.map(() => new Set());                   // je Geschoss: 'x,z' der Trennwand-Türen am Boden
+    const ersetze = (x, y, z, t, p) => {                                    // Zelle eines Rohbauteils umwidmen (Typ und Teil)
+      const k = key(x, y, z), e = zellen.get(k);
+      if (!e) return false;
+      e.t = t;
+      if (e.p !== p) { e.p = p; ersetzt.add(k); }
+      return true;
+    };
+    const WAND_TEILE = new Set(['aussenwand', 'innenwaende', 'innenwaende_og', 'trennwaende', 'trennwaende_og', 'loggiawand', 'hofwaende']);
+    Object.assign(api, { RA, bodenTeile, ersetzt, tuerBoden, ersetze, WAND_TEILE });
 
     // Zonen je Zelle
     const istHofwand = (c) => c.dHof <= 2;
@@ -144,6 +175,8 @@ function palazzo(cfg) {
     const istInnenwand = (c) => c.grossHof && hof.tiefe > 0 && c.dHof > 2 + hof.tiefe && c.dHof <= 3 + hof.tiefe && c.d8 > 2;
     // Rückwand der Straßenloggia: Nachbarzelle des Portikus, selbst kein Portikus (Erdgeschoss, mit Türen)
     const istPortikuswand = (c) => cfg.portikus && !c.portikus && c.d8 > 2 && N8.some(([dx, dz]) => { const n = zelleBei(c.x + dx, c.z + dz); return n && n.portikus; });
+
+    Object.assign(api, { istHofwand, istLoggia, istInnenwand, istPortikuswand });
 
     // ---- Öffnungen: Portale, Portikus (Erdgeschoss-Loggia zur Straße)
     for (const c of D.haupt) {
@@ -257,6 +290,28 @@ function palazzo(cfg) {
       }
     }
 
+    // ---- Raumteilung (V5a): Trennwände mit Türen je Geschoss (cfg.raeume.waende); Wand von Boden bis unter die Decke
+    const trennwandZelle = (c) => c.d8 > 2 && !istHofwand(c) && !istLoggia(c) && !istInnenwand(c) && !istPortikuswand(c) && !c.portikus;
+    for (const w of RA.waende || []) {
+      const ss = w.s === undefined || w.s === 'alle' ? cfg.geschosse.map((_, i) => i) : [].concat(w.s);
+      const dicke = w.dicke || 2.2, tb = w.breite || 3.4, th = w.hoehe || 5;
+      for (const s of ss) {
+        const y0 = BASIS[s] + 1, y1 = BASIS[s + 1] - 1, teil = s === 0 ? 'trennwaende' : 'trennwaende_og';
+        for (const c of D.haupt) {
+          if (!trennwandZelle(c)) continue;
+          const a = w.achse === 'u' ? c.u : c.w, t = w.achse === 'u' ? c.w : c.u;
+          if (a < w.v - dicke / 2 || a >= w.v + dicke / 2) continue;
+          if ((w.von !== undefined && t < w.von) || (w.bis !== undefined && t > w.bis)) continue;
+          const tuer = (w.tueren || []).some((q) => Math.abs(t - q) < tb / 2);
+          for (let yr = y0; yr <= y1; yr++) {
+            if (tuer && yr < y0 + th) oeffnung('tuer', teil, c.x, Y(yr), c.z);
+            else set(c.x, Y(yr), c.z, T.putz, teil);
+          }
+          if (tuer) tuerBoden[s].add(c.x + ',' + c.z);
+        }
+      }
+    }
+
     // ---- Modul 3: Geschossböden (mit Treppenloch), oberste Decke
     for (const c of D.haupt) {
       if (c.d8 <= 2 || istHofwand(c)) continue;
@@ -287,21 +342,41 @@ function palazzo(cfg) {
       }
     }
     if (cfg.extra && cfg.extra.nachher) cfg.extra.nachher(api);
+    if (RA.ausstatten) RA.ausstatten(api);
 
-    // ---- Licht: je Geschoss im Raster 12
-    const lt = [];
+    // ---- Licht: je Raum (Trennwand-Türen trennen die Räume) im Raster 12; Lichter neben Zellen der Ausstattung gehören
+    // zum Teil licht_ausstattung (Ausstattungsmodul), sonst zum Teil licht
+    const nachbarErsetzt = (x, y, z) => ersetzt.has(key(x, y, z)) || N4.some(([dx, dz]) => ersetzt.has(key(x + dx, y, z + dz)));
     for (let s = 0; s < cfg.geschosse.length; s++) {
-      const steh = [];
+      const steh = new Map();
       for (const c of D.haupt) {
         const b = zellen.get(key(c.x, Y(BASIS[s]), c.z));
-        if (b && (b.p === 'boden' || b.p === 'geschossboeden') && !hat(c.x, Y(BASIS[s] + 1), c.z) && !hat(c.x, Y(BASIS[s] + 2), c.z)) steh.push({ x: c.x, y: Y(BASIS[s] + 1), z: c.z });
+        if (b && bodenTeile.has(b.p) && !hat(c.x, Y(BASIS[s] + 1), c.z) && !hat(c.x, Y(BASIS[s] + 2), c.z)) steh.set(c.x + ',' + c.z, c);
       }
-      for (const l of WZ.lichtRaster(steh, { abstand: 12 })) {
-        const k = key(l.x, l.y, l.z); const e = zellen.get(k); if (!e) continue;
-        teile.set(e.p, teile.get(e.p).filter((q) => q !== k)); e.t = T.licht; e.p = 'licht'; lt.push(k);
+      const gesehen = new Set();
+      for (const [k0, c0] of steh) {
+        if (gesehen.has(k0) || tuerBoden[s].has(k0)) continue;
+        const comp = [], st = [c0];
+        gesehen.add(k0);
+        while (st.length) {
+          const c = st.pop();
+          comp.push({ x: c.x, y: Y(BASIS[s] + 1), z: c.z });
+          for (const [dx, dz] of N4) {
+            const k = (c.x + dx) + ',' + (c.z + dz);
+            if (steh.has(k) && !gesehen.has(k) && !tuerBoden[s].has(k)) { gesehen.add(k); st.push(steh.get(k)); }
+          }
+        }
+        for (const l of WZ.lichtRaster(comp, { abstand: 12 })) {
+          const k = key(l.x, l.y, l.z), e = zellen.get(k);
+          if (!e) continue;
+          e.p = nachbarErsetzt(l.x, l.y, l.z) ? 'licht_ausstattung' : 'licht';
+          e.t = T.licht;
+        }
       }
     }
-    teile.set('licht', lt);
+    // Teile neu aus den Zellen aufbauen (Umwidmungen durch Ausstattung und Licht)
+    teile.clear();
+    for (const [k, e] of zellen) { let a = teile.get(e.p); if (!a) teile.set(e.p, a = []); a.push(k); }
 
     PLAN = { zellen, teile, oeff, unz, treppe };
     return PLAN;
@@ -309,6 +384,9 @@ function palazzo(cfg) {
 
   const OEFF_TEIL = Object.assign({ portale: 'aussenwand', portikus: 'portikus', loggiawand: 'loggiawand', hofarkaden: 'hofarkaden', innenwaende: 'innenwaende' }, cfg.oeffnungTeil || {});
   function modul(n, liste) {
+    liste = liste.slice();                                            // Trennwände gehören zu den Innenwänden ihres Moduls
+    if (liste.includes('innenwaende') && !liste.includes('trennwaende')) liste.push('trennwaende');
+    if (liste.includes('innenwaende_og') && !liste.includes('trennwaende_og')) liste.push('trennwaende_og');
     return {
       module: n,
       build(ctx) {
