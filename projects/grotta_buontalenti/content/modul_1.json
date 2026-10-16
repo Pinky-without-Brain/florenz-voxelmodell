@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassade und Außenwände",
+  "subtitle": "Bautüte 1: Rustika, zwei Säulen, Nischen und das Medici-Wappen",
+  "icon": "🏛️",
+  "parts": {
+    "wappen": {
+      "title": "Medici-Wappen",
+      "description": "Über dem Sturz sitzt das Wappen der Medici: ein Rahmen aus Gold, in der Mitte eine rote Kugel, 3 Blöcke breit und 3 hoch.",
+      "tip": "Setze es zuerst, die Fassade lässt diese Zellen aus.",
+      "caution": "Es sitzt nur in der äußersten Lage der Wand.",
+      "fact": "Das Wappen der Medici steht in der Mitte des Giebelfelds (it.wikipedia); hier (vereinfacht, nicht nach Vorbild)."
+    },
+    "fassade": {
+      "title": "Fassade",
+      "description": "Die Fassadenwand ist 3 Blöcke dick und besteht aus Tropfstein-Rustika (Tuffziegel) mit eingestreutem Bruchstein. In der Mitte öffnet sich der Eingang, 5 Blöcke breit und 7 hoch, zwischen zwei Säulen aus Quarz (Y 77 bis 84) mit Kapitellen; darüber hängt Tropfstein. Ein Sturz, ein Kranzgesims und ein Giebelfeld schließen die Fassade nach oben ab. Links und rechts liegen zwei Nischen für Ceres und Apollo.",
+      "tip": "Setze zuerst Säulen und Sturz, dann die Rustika dazwischen.",
+      "caution": "Der Eingang geht durch die ganze Wandtiefe; die Nischen sind nur eine Lage tief.",
+      "fact": "Vasari begann den unteren Teil der Fassade, Buontalenti vollendete sie 1583 bis 1593: weiter Eingang zwischen zwei Säulen, darüber schwammartiger Tropfstein, seitlich Nischen mit Statuen von Bandinelli (Ceres und Apollo). (vereinfacht, nicht nach Vorbild)."
+    },
+    "seitenwaende": {
+      "title": "Seiten- und Rückwände",
+      "description": "Die Außenwände sind 2 Blöcke dick, außen aus rauem Tuff, innen aus Bruchstein und Moosstein, bis Y 87.",
+      "tip": "Gehe einmal rund und setze Lage für Lage.",
+      "caution": "Die Innenlage bleibt unregelmäßig, wie eine Höhlenwand.",
+      "fact": "Die Kammern ahmen eine natürliche Grotte nach: Mauerwerk mit Tropfstein- und Muscheldekor (it.wikipedia). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

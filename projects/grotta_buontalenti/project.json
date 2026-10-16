@@ -1,0 +1,12 @@
+{
+  "id": "grotta_buontalenti",
+  "title": "Grotta del Buontalenti",
+  "type": "wahrzeichen",
+  "gebaeude": ["w473825750"],
+  "bodenY": 76,
+  "rahmen": { "ox": -769.5, "oz": 1544, "thetaDeg": 59.7 },
+  "hauptGrenzen": { "abzugProjekte": ["palazzo_pitti"], "abzugAlle": true },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

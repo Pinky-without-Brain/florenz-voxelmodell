@@ -274,3 +274,6 @@ Optional (Welle 3): **Grotta del Buontalenti** (w473825750, 499 Zellen, Mitte (�
 - **Begehbarkeit (R13/R14):** Hauptportal, Hof-Tor, Flügelarkaden offen und deklariert; jede Trennwand mit Tür 3 × 5; vier Podesttreppen (25 Stufen) EG → PN → OG, Hoftreppe, Flügeltreppen (22 Stufen) auf die Dachterrassen; Treppenlöcher in den Decken; Licht ≤ 12; Fenster verglast; keine leere Kammer (Korridor-Unterbau massiv); Räume: Sala Bianca, fünf Planetensäle, Thronsaal, sieben hintere Galerieräume, drei Appartamenti, Vestibül.
 - Alle Teile ohne Zellkonflikt (K0), nur Luftraum nach §0.7; R12 mit `luftraum 3`.
 - Stadtgrund endet in der Spalte bei `min(groundTopY, 82)`; Platte Y 83; `--cross` mit Stadtgrund, `ponte_vecchio`, Quartieren: 0 Konflikte.
+
+### V5c Nachtrag Modul 9 Teil 6: Bilderfelder (gebaut)
+Bauteil `korridor_bilder` (nach `korridor_licht_olt`): Felder 6 × 4 in der inneren Wandlage (d8 = 2) beider Wände, Rahmen `gold`, Feld `fresko` (rot, blau, gelb, grün, braun im Wechsel), Unterkante yf + 3; je Fensterlücke (Raster 8) ein Feld, die Fenster bleiben frei.
