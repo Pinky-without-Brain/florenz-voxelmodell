@@ -241,6 +241,7 @@ Nutzerwunsch: San Marco, Ognissanti, Santa Felicita, Palazzo Davanzati, Loggia d
 - Alle fünf aus ihren Quartieren gelöst (Hausakten gelöscht, Quartiere neu gebaut), `vorrang.json` jetzt 47 IDs.
 - Santa Felicita: Der Corridoio Vasariano (`palazzo_pitti` Modul 9) spart jetzt einen offenen Portikus aus und hat das Balkonfenster zum Schiff; gemeinsame Geometrie in `projects/santa_felicita/model/_portikus.js`.
 - Integration: `besitz.js` für 11 Projekte, Stadtgrund neu (19,6 min, OK), `webindex.js` 67 Einträge, `--cross` 67 Projekte / 2.211 Paare / 0 Konflikte (6,4 min), Tests 522 / 0 / 0 (7,2 min).
+- Minecraft-Export (Build-Ordner): 477 s, 67 Projekte, **104.744.751 Projektblöcke**, 2.821 Schilder, db 57,2 MB; `.mcworld` und Statistik-PDF an den Nutzer.
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
