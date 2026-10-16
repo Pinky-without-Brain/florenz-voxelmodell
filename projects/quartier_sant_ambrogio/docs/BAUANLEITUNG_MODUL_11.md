@@ -5263,7 +5263,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5275,7 +5275,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.173 – Santa Maria Maddalena dei Pazzi – Teil 2/11 (Y 67–67)
 
@@ -5291,7 +5291,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5303,7 +5303,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.174 – Santa Maria Maddalena dei Pazzi – Teil 3/11 (Y 67–69)
 
@@ -5321,7 +5321,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5333,7 +5333,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.175 – Santa Maria Maddalena dei Pazzi – Teil 4/11 (Y 70–76)
 
@@ -5351,7 +5351,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5363,7 +5363,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.176 – Santa Maria Maddalena dei Pazzi – Teil 5/11 (Y 77–83)
 
@@ -5381,7 +5381,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5393,7 +5393,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.177 – Santa Maria Maddalena dei Pazzi – Teil 6/11 (Y 84–89)
 
@@ -5411,7 +5411,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5423,7 +5423,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.178 – Santa Maria Maddalena dei Pazzi – Teil 7/11 (Y 90–96)
 
@@ -5441,7 +5441,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5453,7 +5453,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.179 – Santa Maria Maddalena dei Pazzi – Teil 8/11 (Y 97–98)
 
@@ -5471,7 +5471,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5483,7 +5483,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.180 – Santa Maria Maddalena dei Pazzi – Teil 9/11 (Y 99–100)
 
@@ -5499,7 +5499,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5511,7 +5511,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.181 – Santa Maria Maddalena dei Pazzi – Teil 10/11 (Y 101–102)
 
@@ -5528,7 +5528,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5540,7 +5540,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.182 – Santa Maria Maddalena dei Pazzi – Teil 11/11 (Y 103–108)
 
@@ -5557,7 +5557,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 1257, Atrium 1481-1526 (Giuliano da Sangallo), Fassade Via della Colonna um 1870), 3 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -5569,7 +5569,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 11.183 – Santa Maria Maddalena dei Pazzi: Innenausbau – Teil 1/6 (Y 67–81)
 

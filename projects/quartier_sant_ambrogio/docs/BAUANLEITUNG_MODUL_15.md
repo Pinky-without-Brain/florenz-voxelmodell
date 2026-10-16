@@ -25,12 +25,13 @@
 | Tuffstein | `tuff` | 20.824 | 22,7 % |
 | Polierter Tuffstein | `polished_tuff` | 10.696 | 11,7 % |
 | Polierter Andesit | `polished_andesite` | 8.726 | 9,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 6.441 | 7,0 % |
 | Glatter Stein | `smooth_stone` | 6.389 | 7,0 % |
+| Weißer Beton | `white_concrete` | 5.877 | 6,4 % |
 | Graues Buntglas | `gray_stained_glass` | 2.645 | 2,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.616 | 1,8 % |
 | Endsteinziegel | `end_stone_bricks` | 822 | 0,9 % |
 | Ziegelsteine | `bricks` | 663 | 0,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 564 | 0,6 % |
 | Seelaterne | `sea_lantern` | 146 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
@@ -1721,7 +1722,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt. Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1733,7 +1734,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.55 – Sant'Ambrogio – Teil 2/8 (Y 63–66)
 
@@ -1746,12 +1747,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.137 |
-| Hellgrauer Beton | `light_gray_concrete` | 733 |
+| Weißer Beton | `white_concrete` | 733 |
 | Polierter Andesit | `polished_andesite` | 110 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1763,7 +1764,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.56 – Sant'Ambrogio – Teil 3/8 (Y 67–74)
 
@@ -1775,13 +1776,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.365 |
+| Weißer Beton | `white_concrete` | 1.365 |
 | Polierter Andesit | `polished_andesite` | 213 |
 | Graues Buntglas | `gray_stained_glass` | 169 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1793,7 +1794,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.57 – Sant'Ambrogio – Teil 4/8 (Y 75–80)
 
@@ -1805,13 +1806,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.331 |
+| Weißer Beton | `white_concrete` | 1.331 |
 | Polierter Andesit | `polished_andesite` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1823,7 +1824,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.58 – Sant'Ambrogio – Teil 5/8 (Y 81–87)
 
@@ -1835,13 +1836,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.251 |
+| Weißer Beton | `white_concrete` | 1.251 |
 | Polierter Andesit | `polished_andesite` | 288 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1853,7 +1854,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.59 – Sant'Ambrogio – Teil 6/8 (Y 88–93)
 
@@ -1865,13 +1866,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.197 |
+| Weißer Beton | `white_concrete` | 1.197 |
 | Polierter Andesit | `polished_andesite` | 208 |
 | Graues Buntglas | `gray_stained_glass` | 176 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1883,7 +1884,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.60 – Sant'Ambrogio – Teil 7/8 (Y 94–95)
 
@@ -1899,7 +1900,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -1911,7 +1912,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 15.61 – Sant'Ambrogio – Teil 8/8 (Y 96–101) & Sant'Ambrogio: Innenausbau – Teil 1/3 (Y 63–76)
 
@@ -1942,7 +1943,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Kleine Kirche (ab 13. Jh. gotisch, Fassade 1880 neugotisch), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze), Angaben belegt (Sicherheit 0,7). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1954,7 +1955,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
 ### Schritt 15.62 – Sant'Ambrogio: Innenausbau – Teil 2/3 (Y 77–84)
 
