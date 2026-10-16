@@ -1,7 +1,7 @@
 {
   "id": "r4095208",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "Trecento-Kern; Umbau 1458-65",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -27,7 +27,7 @@
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "rundbogen",
       "rahmen": "putz",
       "laeden": null
     },
@@ -35,15 +35,19 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "saeulenbalkon_1og",
+      "wappen_larioni",
+      "volksschild_aufgemalt"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Canigiani",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Frühes Beispiel eines in der Breite entwickelten Palazzo mit weitgehend mittelalterlicher Front und einem Portal des Quattrocento, Säulenbalkon (ballatoio) im 1. OG, zwei Larioni-Wappen. Annahme: Achsenzahl, Putzfarbe und Gesims.",
   "name": "Palazzo Canigiani"
 }

@@ -1,53 +1,57 @@
 {
   "id": "w306694378",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh. (Raffällo Antinori); Tempi ab 1654",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
       "hoeheBl": 9
     },
     {
-      "art": "og",
-      "hoeheBl": 9
+      "art": "attika",
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 7,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
+      "typ": "tabernakel",
       "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "durchfahrtsbogen_costa_dei_magnoli",
+      "buste_cosimo_ii_1609",
+      "balustraden_am_1og"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Tempi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Bogen durch die Fassade zur Costa dei Magnoli, EG in sichtbarem Stein mit großem Portal (Strahlenbossen) und Büste Cosimos II. (1609), Fenster mit Balustern und Rechteckgiebeln im 1. OG, gleiche Giebel ohne Balustraden im 2. OG, Reihe Rechtecköffnungen im Dachgeschoss und auskragendes Kranzgesims. Annahme: Putzfarbe, Achsenzahl.",
   "name": "Palazzo Tempi"
 }

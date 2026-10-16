@@ -8,32 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 49.502 |
-| Bauschritte | 35 |
+| Blöcke | 50.780 |
+| Bauschritte | 34 |
 | Y-Bereich | 62 bis 106 |
-| X-Ausdehnung | 657 bis 769 (113 Blöcke) |
-| Z-Ausdehnung | 1746 bis 1835 (90 Blöcke) |
-| Kleinster Schritt | 776 Blöcke (Schritt 14.5) |
-| Mittlerer Schritt | 1.414 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 14.27) |
+| X-Ausdehnung | 656 bis 770 (115 Blöcke) |
+| Z-Ausdehnung | 1745 bis 1836 (92 Blöcke) |
+| Kleinster Schritt | 774 Blöcke (Schritt 14.27) |
+| Mittlerer Schritt | 1.494 Blöcke |
+| Größter Schritt | 2.068 Blöcke (Schritt 14.26) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.712 | 37,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 14.655 | 29,6 % |
-| Polierter Tuffstein | `polished_tuff` | 5.877 | 11,9 % |
-| Weißer Beton | `white_concrete` | 3.577 | 7,2 % |
-| Graues Buntglas | `gray_stained_glass` | 1.718 | 3,5 % |
+| Terrakotta | `terracotta` | 19.097 | 37,6 % |
+| Orange Keramik | `orange_terracotta` | 14.899 | 29,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.877 | 11,6 % |
+| Weißer Beton | `white_concrete` | 3.047 | 6,0 % |
+| Graues Buntglas | `gray_stained_glass` | 1.843 | 3,6 % |
+| Glatter Stein | `smooth_stone` | 1.518 | 3,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.191 | 2,3 % |
 | Tuffstein | `tuff` | 1.097 | 2,2 % |
-| Grüner Beton | `green_concrete` | 950 | 1,9 % |
-| Glatter Stein | `smooth_stone` | 906 | 1,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 806 | 1,6 % |
+| Grüner Beton | `green_concrete` | 1.019 | 2,0 % |
 | Ziegelsteine | `bricks` | 537 | 1,1 % |
-| Polierter Andesit | `polished_andesite` | 508 | 1,0 % |
+| Polierter Andesit | `polished_andesite` | 494 | 1,0 % |
 | Seelaterne | `sea_lantern` | 78 | 0,2 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
@@ -49,20 +49,20 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Steintreppe | `stone_stairs` | 42 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119838545` | Palazzo Serristori | 39.147 | 14.1–14.29 |
-| 2 | `w119838545_innen` | Palazzo Serristori: Innenausbau | 10.353 | 14.30–14.35 |
-| 3 | `strassenschilder` | Straßenschilder | 2 | 14.35 |
+| 1 | `w119838545` | Palazzo Serristori | 40.421 | 14.1–14.28 |
+| 2 | `w119838545_innen` | Palazzo Serristori: Innenausbau | 10.357 | 14.29–14.34 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 14.34 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Palazzo Serristori – Teil 1/29 (Y 62–63)
+### Schritt 14.1 – Palazzo Serristori – Teil 1/28 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.097
@@ -76,7 +76,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.2 – Palazzo Serristori – Teil 2/29 (Y 64–64)
+### Schritt 14.2 – Palazzo Serristori – Teil 2/28 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.967
@@ -104,7 +104,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -116,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.3 – Palazzo Serristori – Teil 3/29 (Y 64–64)
+### Schritt 14.3 – Palazzo Serristori – Teil 3/28 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.953
@@ -132,7 +132,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.4 – Palazzo Serristori – Teil 4/29 (Y 64–64)
+### Schritt 14.4 – Palazzo Serristori – Teil 4/28 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.957
@@ -160,7 +160,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -172,9 +172,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.5 – Palazzo Serristori – Teil 5/29 (Y 65–65)
+### Schritt 14.5 – Palazzo Serristori – Teil 5/28 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 776
@@ -184,14 +184,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 747 |
+| Orange Keramik | `orange_terracotta` | 747 |
 | Polierter Andesit | `polished_andesite` | 26 |
 | Glatter Stein | `smooth_stone` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -203,9 +203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.6 – Palazzo Serristori – Teil 6/29 (Y 66–66)
+### Schritt 14.6 – Palazzo Serristori – Teil 6/28 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 822
@@ -215,7 +215,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 667 |
+| Orange Keramik | `orange_terracotta` | 667 |
 | Weißer Beton | `white_concrete` | 140 |
 | Polierter Andesit | `polished_andesite` | 11 |
 | Glatter Stein | `smooth_stone` | 2 |
@@ -223,7 +223,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -235,27 +235,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.7 – Palazzo Serristori – Teil 7/29 (Y 67–67)
+### Schritt 14.7 – Palazzo Serristori – Teil 7/28 (Y 67–68)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 921
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.597
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 537 |
-| Weißer Beton | `white_concrete` | 355 |
-| Polierter Andesit | `polished_andesite` | 26 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
+| Orange Keramik | `orange_terracotta` | 922 |
+| Weißer Beton | `white_concrete` | 449 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+| Grüner Beton | `green_concrete` | 65 |
+| Polierter Andesit | `polished_andesite` | 37 |
+| Glatter Stein | `smooth_stone` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -267,11 +269,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.8 – Palazzo Serristori – Teil 8/29 (Y 68–69)
+### Schritt 14.8 – Palazzo Serristori – Teil 8/28 (Y 69–70)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.352
 - **Bauteile:** `w119838545`
 
@@ -279,7 +281,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 756 |
+| Orange Keramik | `orange_terracotta` | 756 |
 | Graues Buntglas | `gray_stained_glass` | 234 |
 | Weißer Beton | `white_concrete` | 188 |
 | Grüner Beton | `green_concrete` | 130 |
@@ -289,7 +291,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -301,29 +303,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.9 – Palazzo Serristori – Teil 9/29 (Y 70–71)
+### Schritt 14.9 – Palazzo Serristori – Teil 9/28 (Y 71–72)
 
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 1.353
+- **Y-Bereich:** 71 bis 72
+- **Blöcke:** 1.457
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 757 |
-| Graues Buntglas | `gray_stained_glass` | 234 |
-| Weißer Beton | `white_concrete` | 188 |
-| Grüner Beton | `green_concrete` | 130 |
+| Orange Keramik | `orange_terracotta` | 925 |
+| Weißer Beton | `white_concrete` | 304 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+| Grüner Beton | `green_concrete` | 65 |
 | Polierter Andesit | `polished_andesite` | 37 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -335,27 +337,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.10 – Palazzo Serristori – Teil 10/29 (Y 72–73)
+### Schritt 14.10 – Palazzo Serristori – Teil 10/28 (Y 73–74)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.568
+- **Y-Bereich:** 73 bis 74
+- **Blöcke:** 1.881
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.307 |
-| Weißer Beton | `white_concrete` | 210 |
-| Polierter Andesit | `polished_andesite` | 37 |
-| Glatter Stein | `smooth_stone` | 10 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Orange Keramik | `orange_terracotta` | 1.123 |
+| Glatter Stein | `smooth_stone` | 722 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -367,11 +368,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.11 – Palazzo Serristori – Teil 11/29 (Y 74–74)
+### Schritt 14.11 – Palazzo Serristori – Teil 11/28 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 788
 - **Bauteile:** `w119838545`
 
@@ -379,14 +380,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 411 |
-| Glatter Sandstein | `smooth_sandstone` | 369 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Orange Keramik | `orange_terracotta` | 764 |
+| Polierter Andesit | `polished_andesite` | 24 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -398,11 +397,167 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.12 – Palazzo Serristori – Teil 12/29 (Y 75–76)
+### Schritt 14.12 – Palazzo Serristori – Teil 12/28 (Y 76–77)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 76 bis 77
+- **Blöcke:** 1.470
+- **Bauteile:** `w119838545`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 922 |
+| Weißer Beton | `white_concrete` | 320 |
+| Graues Buntglas | `gray_stained_glass` | 125 |
+| Grüner Beton | `green_concrete` | 69 |
+| Polierter Andesit | `polished_andesite` | 34 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 14.13 – Palazzo Serristori – Teil 13/28 (Y 78–79)
+
+- **Y-Bereich:** 78 bis 79
+- **Blöcke:** 1.364
+- **Bauteile:** `w119838545`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 746 |
+| Graues Buntglas | `gray_stained_glass` | 250 |
+| Weißer Beton | `white_concrete` | 196 |
+| Grüner Beton | `green_concrete` | 138 |
+| Polierter Andesit | `polished_andesite` | 34 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 14.14 – Palazzo Serristori – Teil 14/28 (Y 80–82)
+
+- **Y-Bereich:** 80 bis 82
+- **Blöcke:** 2.046
+- **Bauteile:** `w119838545`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.126 |
+| Graues Buntglas | `gray_stained_glass` | 375 |
+| Weißer Beton | `white_concrete` | 294 |
+| Grüner Beton | `green_concrete` | 207 |
+| Polierter Andesit | `polished_andesite` | 44 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 14.15 – Palazzo Serristori – Teil 15/28 (Y 83–83)
+
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 788
+- **Bauteile:** `w119838545`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 542 |
+| Weißer Beton | `white_concrete` | 222 |
+| Polierter Andesit | `polished_andesite` | 24 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 14.16 – Palazzo Serristori – Teil 16/28 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.881
+- **Bauteile:** `w119838545`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.147 |
+| Glatter Stein | `smooth_stone` | 724 |
+| Polierter Andesit | `polished_andesite` | 10 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 14.17 – Palazzo Serristori – Teil 17/28 (Y 86–87)
+
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.576
 - **Bauteile:** `w119838545`
 
@@ -410,13 +565,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.320 |
+| Orange Keramik | `orange_terracotta` | 1.320 |
 | Weißer Beton | `white_concrete` | 222 |
 | Polierter Andesit | `polished_andesite` | 34 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -428,197 +583,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.13 – Palazzo Serristori – Teil 13/29 (Y 77–78)
-
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.364
-- **Bauteile:** `w119838545`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
-| Graues Buntglas | `gray_stained_glass` | 250 |
-| Weißer Beton | `white_concrete` | 196 |
-| Grüner Beton | `green_concrete` | 138 |
-| Polierter Andesit | `polished_andesite` | 34 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.14 – Palazzo Serristori – Teil 14/29 (Y 79–80)
-
-- **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.364
-- **Bauteile:** `w119838545`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
-| Graues Buntglas | `gray_stained_glass` | 250 |
-| Weißer Beton | `white_concrete` | 196 |
-| Grüner Beton | `green_concrete` | 138 |
-| Polierter Andesit | `polished_andesite` | 34 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.15 – Palazzo Serristori – Teil 15/29 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.470
-- **Bauteile:** `w119838545`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 922 |
-| Weißer Beton | `white_concrete` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 125 |
-| Grüner Beton | `green_concrete` | 69 |
-| Polierter Andesit | `polished_andesite` | 34 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.16 – Palazzo Serristori – Teil 16/29 (Y 83–84)
-
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.576
-- **Bauteile:** `w119838545`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 819 |
-| Glatter Stein | `smooth_stone` | 419 |
-| Weißer Beton | `white_concrete` | 314 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.17 – Palazzo Serristori – Teil 17/29 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 788
-- **Bauteile:** `w119838545`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 764 |
-| Polierter Andesit | `polished_andesite` | 24 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.18 – Palazzo Serristori – Teil 18/29 (Y 86–87)
-
-- **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.470
-- **Bauteile:** `w119838545`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 922 |
-| Weißer Beton | `white_concrete` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 125 |
-| Grüner Beton | `green_concrete` | 69 |
-| Polierter Andesit | `polished_andesite` | 34 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.19 – Palazzo Serristori – Teil 19/29 (Y 88–89)
+### Schritt 14.18 – Palazzo Serristori – Teil 18/28 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.364
@@ -628,7 +595,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
+| Orange Keramik | `orange_terracotta` | 746 |
 | Graues Buntglas | `gray_stained_glass` | 250 |
 | Weißer Beton | `white_concrete` | 196 |
 | Grüner Beton | `green_concrete` | 138 |
@@ -636,7 +603,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -648,9 +615,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.20 – Palazzo Serristori – Teil 20/29 (Y 90–91)
+### Schritt 14.19 – Palazzo Serristori – Teil 19/28 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.364
@@ -660,7 +627,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
+| Orange Keramik | `orange_terracotta` | 746 |
 | Graues Buntglas | `gray_stained_glass` | 250 |
 | Weißer Beton | `white_concrete` | 196 |
 | Grüner Beton | `green_concrete` | 138 |
@@ -668,7 +635,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -680,26 +647,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.21 – Palazzo Serristori – Teil 21/29 (Y 92–93)
+### Schritt 14.20 – Palazzo Serristori – Teil 20/28 (Y 92–93)
 
 - **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.728
+- **Blöcke:** 1.622
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.006 |
-| Weißer Beton | `white_concrete` | 536 |
+| Orange Keramik | `orange_terracotta` | 922 |
+| Weißer Beton | `white_concrete` | 320 |
 | Fichtenholz-Bretter | `spruce_planks` | 152 |
+| Graues Buntglas | `gray_stained_glass` | 125 |
+| Grüner Beton | `green_concrete` | 69 |
 | Polierter Andesit | `polished_andesite` | 34 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -711,25 +680,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.22 – Palazzo Serristori – Teil 22/29 (Y 94–94)
+### Schritt 14.21 – Palazzo Serristori – Teil 21/28 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.442
+- **Blöcke:** 1.827
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 778 |
-| Fichtenholz-Bretter | `spruce_planks` | 654 |
+| Fichtenholz-Bretter | `spruce_planks` | 1.039 |
+| Orange Keramik | `orange_terracotta` | 778 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -741,23 +710,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.23 – Palazzo Serristori – Teil 23/29 (Y 95–95)
+### Schritt 14.22 – Palazzo Serristori – Teil 22/28 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.092
+- **Blöcke:** 1.284
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.092 |
+| Terrakotta | `terracotta` | 1.284 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -769,23 +738,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.24 – Palazzo Serristori – Teil 24/29 (Y 95–95)
+### Schritt 14.23 – Palazzo Serristori – Teil 23/28 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.098
+- **Blöcke:** 1.291
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.098 |
+| Terrakotta | `terracotta` | 1.291 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -797,9 +766,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.25 – Palazzo Serristori – Teil 25/29 (Y 96–96)
+### Schritt 14.24 – Palazzo Serristori – Teil 24/28 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.052
@@ -813,7 +782,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -825,9 +794,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.26 – Palazzo Serristori – Teil 26/29 (Y 97–97)
+### Schritt 14.25 – Palazzo Serristori – Teil 25/28 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.214
@@ -841,7 +810,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -853,9 +822,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.27 – Palazzo Serristori – Teil 27/29 (Y 98–99)
+### Schritt 14.26 – Palazzo Serristori – Teil 26/28 (Y 98–99)
 
 - **Y-Bereich:** 98 bis 99
 - **Blöcke:** 2.068
@@ -870,7 +839,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -882,24 +851,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.28 – Palazzo Serristori – Teil 28/29 (Y 100–101)
+### Schritt 14.27 – Palazzo Serristori – Teil 27/28 (Y 100–100)
 
-- **Y-Bereich:** 100 bis 101
-- **Blöcke:** 1.510
+- **Y-Bereich:** 100 bis 100
+- **Blöcke:** 774
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.352 |
-| Ziegelsteine | `bricks` | 158 |
+| Terrakotta | `terracotta` | 671 |
+| Ziegelsteine | `bricks` | 103 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -911,24 +880,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.29 – Palazzo Serristori – Teil 29/29 (Y 102–106)
+### Schritt 14.28 – Palazzo Serristori – Teil 28/28 (Y 101–106)
 
-- **Y-Bereich:** 102 bis 106
-- **Blöcke:** 1.053
+- **Y-Bereich:** 101 bis 106
+- **Blöcke:** 1.789
 - **Bauteile:** `w119838545`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 846 |
-| Ziegelsteine | `bricks` | 207 |
+| Terrakotta | `terracotta` | 1.527 |
+| Ziegelsteine | `bricks` | 262 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (1520-22 (Lorenzo Serristori); Lungarnofront 20. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Serristori, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -940,9 +909,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 14.30 – Palazzo Serristori: Innenausbau – Teil 1/6 (Y 64–74)
+### Schritt 14.29 – Palazzo Serristori: Innenausbau – Teil 1/6 (Y 64–74)
 
 - **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.792
@@ -984,7 +953,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.31 – Palazzo Serristori: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 14.30 – Palazzo Serristori: Innenausbau – Teil 2/6 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.708
@@ -1013,7 +982,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.32 – Palazzo Serristori: Innenausbau – Teil 3/6 (Y 74–74)
+### Schritt 14.31 – Palazzo Serristori: Innenausbau – Teil 3/6 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.682
@@ -1042,10 +1011,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.33 – Palazzo Serristori: Innenausbau – Teil 4/6 (Y 75–84)
+### Schritt 14.32 – Palazzo Serristori: Innenausbau – Teil 4/6 (Y 75–85)
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.772
+- **Y-Bereich:** 75 bis 85
+- **Blöcke:** 1.776
 - **Bauteile:** `w119838545_innen`
 
 **Teileliste**
@@ -1053,8 +1022,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.709 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -1067,7 +1036,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -1086,9 +1055,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.34 – Palazzo Serristori: Innenausbau – Teil 5/6 (Y 84–84)
+### Schritt 14.33 – Palazzo Serristori: Innenausbau – Teil 5/6 (Y 85–85)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.708
 - **Bauteile:** `w119838545_innen`
 
@@ -1115,9 +1084,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.35 – Palazzo Serristori: Innenausbau – Teil 6/6 (Y 84–85) & Straßenschilder
+### Schritt 14.34 – Palazzo Serristori: Innenausbau – Teil 6/6 (Y 85–86) & Straßenschilder
 
-- **Y-Bereich:** 71 bis 85
+- **Y-Bereich:** 71 bis 86
 - **Blöcke:** 1.693
 - **Bauteile:** `w119838545_innen`, `strassenschilder`
 
