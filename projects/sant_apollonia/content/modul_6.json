@@ -1,0 +1,71 @@
+{
+  "module": 6,
+  "title": "Cenacolo, Kreuzgänge, Kirche und Mensa",
+  "subtitle": "Bautüte 6: Refektorium mit Abendmahl, Chiostro della Badessa, ehemalige Kirche und Mensa",
+  "icon": "🍷",
+  "parts": {
+    "cenacolo": {
+      "title": "Cenacolo (Refektorium)",
+      "description": "Großer rechteckiger Saal im Erdgeschoss an der Via XXVII Aprile: Schachboden aus Cotto und Marmor, Wandfelder in Weiß und Gelb mit Holzrahmen und Pilastern, Kassettendecke aus Holz und Gold, zwei lange Tische. Die Fenster liegen in der Straßenwand.",
+      "tip": "Boden zuerst, dann die Wandfelder, die Decke zuletzt.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Höhe des Saales und die Zahl der Fenster sind nicht belegt; die Lage im Erdgeschoss folgt dem Eingang des Museums (Via XXVII Aprile 1).",
+      "fact": "Das Refektorium ist ein großer rechteckiger Saal mit Kassettendecke und einer Fensterreihe an der rechten Wand; Äbtissin Cecilia Donati ließ nach 1440 Kreuzgang und Cenacolo erweitern (Quelle: it.wikipedia, Cenacolo di Sant'Apollonia)."
+    },
+    "abendmahl": {
+      "title": "Abendmahl von Andrea del Castagno",
+      "description": "Auf der Westwand des Saals ein Farbfeld von 19 × 9 Blöcken: Marmortafeln in Rot und Orange im Hintergrund, ein langer Tisch mit weißem Tuch, dreizehn Gestalten in verschiedenen Gewändern, in der Mitte Christus in Weiß mit goldenem Heiligenschein, Goldrahmen.",
+      "tip": "Von unten nach oben: Tisch, Gewänder, Köpfe, Hintergrund, Rahmen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Gesichter, Gesten und die Anordnung der Apostel sind nicht nachgebildet; das Bild steht für das Fresko.",
+      "fact": "Andrea del Castagno malte das Abendmahl 1447 (Eingriff Juni bis Herbst 1447); es nimmt die ganze Westwand des Refektoriums ein, das Maß von 9,75 × 4,5 m nennt der Auftrag (Quelle: it.wikipedia, Cenacolo di Sant'Apollonia)."
+    },
+    "cenacolo_oben": {
+      "title": "Auferstehung, Kreuzigung und Grablegung",
+      "description": "Über dem Abendmahl drei Farbfelder von links nach rechts (Betrachter schaut nach Westen): Auferstehung, Kreuzigung, Grablegung; dazwischen zwei hellblaue Streifen für die beiden Fenster. Goldene Rahmen oben und unten.",
+      "tip": "Die Rahmen zuerst, dann die drei Bilder von links.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Szenen sind nur durch Farben und je eine Hauptfigur angedeutet; die Fenster sind gemalt, nicht verglast.",
+      "fact": "Über dem Abendmahl zeigt der obere Teil von links Auferstehung, Kreuzigung und Grablegung, von zwei Fenstern unterbrochen; der obere Teil wurde 1953 abgelöst, die Sinopien 1961 abgenommen (Quelle: it.wikipedia, Cenacolo di Sant'Apollonia)."
+    },
+    "chiostro_badessa": {
+      "title": "Chiostro della Badessa",
+      "description": "Der Boden des größten Kreuzgangs ist im Schachmuster aus Pflaster und Marmor gelegt, durchzogen von zwei Wegen aus Pietra serena; ringsum laufen Rundbogenarkaden auf Säulen.",
+      "tip": "Erst die Wegekreuz-Streifen, dann das Schachmuster.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Welcher der vier Höfe der Kreuzgang der Äbtissin ist, ist nicht belegt; der größte ist gewählt. Die ionischen Säulen und das obere Geschoss sind durch Arkaden und Fenster ersetzt.",
+      "fact": "Der Kreuzgang der Äbtissin wurde 1442 begonnen, hat zwei Geschosse und eine ionische Kolonnade und wird seit 2010 restauriert (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "meucci_lunette": {
+      "title": "Lünette von Vincenzo Meucci",
+      "description": "Über den Arkaden des Kreuzgangs, auf der Hofseite, ein halbrundes Farbfeld in Blau, Rot, Weiß und Gelb mit Goldrand.",
+      "tip": "Von außen nach innen: Goldrand, dann die Füllung.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Das Motiv ist nur als Farbfläche angedeutet; die Lage an der Nordseite des Hofs ist nicht belegt.",
+      "fact": "Die einzige noch an Ort und Stelle erhaltene Lünette des Kreuzgangs malte Vincenzo Meucci 1735 bis 1737 (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "kirche": {
+      "title": "Ehemalige Klosterkirche",
+      "description": "Einschiffige Kirche im Mittelstreifen an der Via San Gallo: Marmorboden mit Mittelstreifen und Rot-Weiß-Schach, Wandfelder in Weiß und Gelb zwischen Pilastern, Kassettendecke aus Holz und Gold, Altartisch aus Pietra serena und vier Bankreihen. Das Portal liegt in der Ostwand zur Via San Gallo.",
+      "tip": "Erst Boden und Wandfelder, dann Decke, Altar und Bänke.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Lage entlang der Via San Gallo, die Größe und das Portal sind Stufe C; der Nonnenchor auf Säulen ist nicht gebaut.",
+      "fact": "Die Kirche ist einschiffig mit einem Nonnenchor auf Säulen und einer hölzernen Kassettendecke mit dem Wappen des Klosters; das Portal an der Via San Gallo wurde Michelangelo zugeschrieben, gilt heute als Werk von Giovanni Antonio Dosio; sie dient heute als Tagungssaal (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "kirche_apsis": {
+      "title": "Apsis mit Fresken Poccettis",
+      "description": "Auf der Westwand der Kirche hinter dem Altar ein Farbfeld von 14 × 11 Blöcken: ein hellblauer Himmel über einer Reihe bunter Gestalten, mit Goldrahmen.",
+      "tip": "Die Farbfelder ersetzen Wandblöcke hinter dem Altar.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Das Bildprogramm Poccettis ist nicht belegt; es sind nur Farben angedeutet.",
+      "fact": "Die Apsis trägt Fresken von Bernardino Poccetti (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "mensa": {
+      "title": "Mensa im Kreuzgang",
+      "description": "Speisesaal der Studierenden im Erdgeschoss des Hinterblocks an der Via Santa Reparata: Pflaster-Marmor-Schachboden, Wandfelder, fünf lange Holztische (eine Lage hoch).",
+      "tip": "Die Tische stehen quer zum Saal, dazwischen bleibt ein Gang.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Lage und Größe des Saals sind nicht belegt, belegt ist nur die Mensa im Kreuzgang an der Via Santa Reparata.",
+      "fact": "Im Kreuzgang an der Via Santa Reparata befindet sich die Mensa der Universität; die Räume dienen heute zum Teil dem Verteidigungsministerium und der Universität Florenz (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

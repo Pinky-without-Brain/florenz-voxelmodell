@@ -3,6 +3,28 @@
 // Quellenangaben nur dort, wo eine geprüfte Quelle die Aussage trägt; sonst Hinweis auf Stufe C.
 
 module.exports = {
+  sant_apollonia: {
+    kuerzel: 'sa', bodenY: 66, geschosse: [18, 12], ausstattungModul: 6,
+    untertitel: { 0: 'Fundament, Boden, Kreuzgänge und Treppe', 1: 'Außenwände, Fenster und Kranzgesims', 2: 'Kreuzgangarkaden, Hofwände und Innenwände', 3: 'Geschossböden und oberste Decke', 4: 'Walmdach', 5: 'Beleuchtung' },
+    bodenZusatz: '; unter den Arkaden der Kreuzgänge liegt Pietra serena',
+    hofTitel: 'Kreuzgänge', hofText: 'Die vier Kreuzgänge bleiben offen, drei mit Rasen und der große Chiostro della Badessa gepflastert',
+    treppeOrt: 'im hinteren Flügel des Vorderblocks',
+    aussenText: 'schlichte weiße Putzfassaden mit Sockel aus Bruchstein und ockerfarbenen Bändern, zur Via XXVII Aprile das Portal des Museums, an der Via San Gallo das Kirchenportal und an der Via Santa Reparata der Eingang der Mensa.',
+    fensterText: 'Im Erdgeschoss sitzen hohe Fenster (Y 72 bis 80), im Obergeschoss etwas niedrigere (Y 87 bis 93); sie folgen einem festen Raster von 9 Blöcken entlang jeder Wand. Die Fensterreihe an der Straße gehört zum Refektorium.',
+    hofarkadenText: 'Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena die vier Kreuzgänge; dahinter liegt ein Umgang.',
+    hofwaendeText: 'Über den Arkaden steigen die Hofwände bis Y 96, verputzt, mit Gesimsen auf Höhe der Geschossböden.',
+    innenwaendeText: 'Zwischen Umgang und Räumen steht eine Innenwand mit Türen im Abstand von 14 Blöcken.',
+    trennText: 'Trennwände bilden das Refektorium mit dem Abendmahl, die Kirche mit der Sakristei und Räume im Vorder- und Hinterblock; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.',
+    trennOgText: 'Im Obergeschoss setzen sich die Wände fort: Räume über dem Refektorium und der Kirche; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.',
+    dachText: 'Ein Walmdach aus Dachziegeln steigt von der Traufe (Y 96) bis Y 101; der Dachraum darunter ist unzugänglich.',
+    fakten: {
+      fundament: 'Das Kloster der Camaldulenserinnen wurde 1339 von Piero di Ser Mino gegründet (Quelle: it.wikipedia, Complesso di Sant\'Apollonia).',
+      aussenwand: 'Ein Teil des Klosters wurde abgerissen, um die Via XXVII Aprile zu öffnen; 1863 wurde es militärisch genutzt, 1866 kam es in Staatsbesitz (Quelle: it.wikipedia, Complesso di Sant\'Apollonia).',
+      hofarkaden: 'Der Kreuzgang der Äbtissin wurde 1442 begonnen; zwei kleinere Kreuzgänge heißen del Silenzio und del Noviziato (Quelle: it.wikipedia, Complesso di Sant\'Apollonia).',
+      treppe: 'Die Treppe ist eine Annahme, die Quelle beschreibt keine Treppen (Stufe C).',
+      dach: 'Das Kloster wurde 1808 aufgehoben, 1824 wiederhergestellt und steht seit 1901 auf der Liste der nationalen Kunstdenkmäler (Quelle: it.wikipedia, Complesso di Sant\'Apollonia).'
+    }
+  },
   palazzo_nonfinito: {
     kuerzel: 'nf', bodenY: 66, geschosse: [10, 13], ausstattungModul: 6,
     untertitel: { 0: 'Fundament, Boden, Hof und Treppe', 1: 'Außenwände, Kniefenster und Kranzgesims', 2: 'Hofarkaden, Hofwände und Innenwände', 3: 'Geschossböden und oberste Decke', 4: 'Walmdach', 5: 'Beleuchtung' },
