@@ -1,7 +1,7 @@
 {
   "id": "w306811224",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh.; Silvani 1672; Umbau 1699",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,45 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
+    "achsen": 10,
     "material": "putz",
-    "putzfarbe": "ocker",
+    "putzfarbe": "sand",
     "erdgeschoss": {
-      "art": "portal_seitlich",
-      "portalBreiteBl": 7,
-      "fenster": "rechteck_vergittert"
+      "art": "tor_und_fenster",
+      "portalBreiteBl": 5,
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "zwillingsportale_an_den_enden",
+      "graffito_quader_im_eg"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pannocchieschi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Drei Geschosse auf zehn Achsen, zwei gleiche Portale an den Enden, EG mit Quader-Graffito und drei großen Kniefenstern zwischen kleineren Fenstern, Piano nobile mit zehn Rundbogenfenstern in glatten Steinrahmen auf einem Steingurt, heller Putz. Annahme: Gesimsart, genaue Putzfarbe.",
   "name": "Palazzo Pannocchieschi"
 }

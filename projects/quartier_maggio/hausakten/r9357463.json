@@ -1,28 +1,32 @@
 {
   "id": "r9357463",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "1621-1644 (Matteo Frescobaldi); Umbauten 1850 Poggi, 1960er Dori",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 9
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 4
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 11,
     "material": "putz",
     "putzfarbe": "gelb",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
       "fenster": "rundbogen"
     },
@@ -35,15 +39,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "laeden_im_eg",
+      "unregelmaessige_achsabstaende"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Frescobaldi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Fassade aus der Zusammenlegung mittelalterlicher und renaissancezeitlicher Häuser 1621-44, elf Fensterachsen über drei Geschosse plus Mezzanin mit uneinheitlichem Achsabstand, EG mit Läden und Werkstätten. Annahme: Putzfarbe, Fensterrahmen und Gesims.",
   "name": "Palazzo Frescobaldi"
 }

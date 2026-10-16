@@ -8,48 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 294.618 |
+| Blöcke | 295.560 |
 | Bauschritte | 181 |
 | Y-Bereich | 61 bis 105 |
 | X-Ausdehnung | -1485 bis -1276 (210 Blöcke) |
 | Z-Ausdehnung | 1455 bis 1821 (367 Blöcke) |
 | Kleinster Schritt | 540 Blöcke (Schritt 4.168) |
-| Mittlerer Schritt | 1.628 Blöcke |
+| Mittlerer Schritt | 1.633 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 4.144) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 103.613 | 35,2 % |
+| Terrakotta | `terracotta` | 103.985 | 35,2 % |
 | Polierter Tuffstein | `polished_tuff` | 30.123 | 10,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 27.271 | 9,3 % |
-| Endsteinziegel | `end_stone_bricks` | 26.313 | 8,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 24.648 | 8,4 % |
+| Endsteinziegel | `end_stone_bricks` | 25.789 | 8,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 24.648 | 8,3 % |
 | Orange Keramik | `orange_terracotta` | 21.235 | 7,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 18.438 | 6,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 15.431 | 5,2 % |
-| Glatter Stein | `smooth_stone` | 9.150 | 3,1 % |
-| Tuffstein | `tuff` | 6.978 | 2,4 % |
-| Rosa Keramik | `pink_terracotta` | 6.004 | 2,0 % |
-| Weißer Beton | `white_concrete` | 5.624 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 4.427 | 1,5 % |
-| Graues Buntglas | `gray_stained_glass` | 4.329 | 1,5 % |
-| Grüner Beton | `green_concrete` | 1.656 | 0,6 % |
-| Ziegelsteine | `bricks` | 1.636 | 0,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.552 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.480 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.079 | 0,4 % |
-| Seelaterne | `sea_lantern` | 605 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 318 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 292 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 256 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 240 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 92 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 92 | 0,0 % |
+| Tuffstein | `tuff` | 14.127 | 4,8 % |
+| Glatter Stein | `smooth_stone` | 10.006 | 3,4 % |
+| Polierter Andesit | `polished_andesite` | 6.907 | 2,3 % |
+| Rosa Keramik | `pink_terracotta` | 5.646 | 1,9 % |
+| Weißer Beton | `white_concrete` | 5.264 | 1,8 % |
+| Graues Buntglas | `gray_stained_glass` | 4.180 | 1,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.990 | 0,7 % |
+| Ziegelsteine | `bricks` | 1.634 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.513 | 0,5 % |
+| Grüner Beton | `green_concrete` | 1.290 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.282 | 0,4 % |
+| Seelaterne | `sea_lantern` | 604 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 274 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 246 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 233 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 219 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 89 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 89 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 88 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 88 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 66 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 62 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 58 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
@@ -59,38 +59,38 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.106 |
-| Steintreppe | `stone_stairs` | 160 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 972 |
+| Steintreppe | `stone_stairs` | 304 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4096877` | Palazzo Biliotti | 14.694 | 4.1–4.9 |
-| 2 | `r4096877_innen` | Palazzo Biliotti: Innenausbau | 2.794 | 4.10–4.11 |
-| 3 | `r4096879` | Palazzo Corsini-Rosselli del Turco | 15.276 | 4.12–4.21 |
-| 4 | `r4096879_innen` | Palazzo Corsini-Rosselli del Turco: Innenausbau | 4.055 | 4.22–4.24 |
+| 1 | `r4096877` | Palazzo Biliotti | 14.821 | 4.1–4.9 |
+| 2 | `r4096877_innen` | Palazzo Biliotti: Innenausbau | 4.164 | 4.10–4.12 |
+| 3 | `r4096879` | Palazzo Corsini-Rosselli del Turco | 15.331 | 4.13–4.22 |
+| 4 | `r4096879_innen` | Palazzo Corsini-Rosselli del Turco: Innenausbau | 2.735 | 4.23–4.24 |
 | 5 | `r4096880` | Palazzo Dami | 13.608 | 4.25–4.32 |
 | 6 | `r4096880_innen` | Palazzo Dami: Innenausbau | 2.870 | 4.33–4.34 |
-| 7 | `r4096881` | Palazzo Corsini Suarez | 18.093 | 4.35–4.45 |
-| 8 | `r4096881_innen` | Palazzo Corsini Suarez: Innenausbau | 5.659 | 4.46–4.48 |
+| 7 | `r4096881` | Palazzo Corsini Suarez | 18.471 | 4.35–4.45 |
+| 8 | `r4096881_innen` | Palazzo Corsini Suarez: Innenausbau | 5.656 | 4.46–4.48 |
 | 9 | `r4096882` | Palazzo des Cinquecento an Borgo Tegolaio | 23.976 | 4.49–4.63 |
 | 10 | `r4096882_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 8.096 | 4.64–4.67 |
 | 11 | `r7510669` | Haus r7510669 | 6.818 | 4.68–4.71 |
 | 12 | `r7510669_innen` | Haus r7510669: Innenausbau | 1.557 | 4.72 |
 | 13 | `r7510670` | Reihenhaus an Borgo Tegolaio | 8.975 | 4.73–4.77 |
 | 14 | `r7510670_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 2.294 | 4.78–4.79 |
-| 15 | `r7510671` | Reihenhaus an Borgo Tegolaio | 13.596 | 4.80–4.86 |
+| 15 | `r7510671` | Reihenhaus an Borgo Tegolaio | 13.595 | 4.80–4.86 |
 | 16 | `r7510671_innen` | Reihenhaus an Borgo Tegolaio: Innenausbau | 3.452 | 4.87–4.89 |
 | 17 | `w306811228` | Palazzo des Cinquecento an Borgo Tegolaio | 10.199 | 4.90–4.95 |
 | 18 | `w306811228_innen` | Palazzo des Cinquecento an Borgo Tegolaio: Innenausbau | 3.084 | 4.96–4.97 |
 | 19 | `w306811230` | Reihenhaus an Via Maggio | 7.854 | 4.98–4.101 |
 | 20 | `w306811230_innen` | Reihenhaus an Via Maggio: Innenausbau | 3.142 | 4.102–4.103 |
-| 21 | `w306811234` | Palazzo Corsini Suarez | 6.367 | 4.104–4.107 |
-| 22 | `w306811234_innen` | Palazzo Corsini Suarez: Innenausbau | 2.600 | 4.108–4.109 |
-| 23 | `w306811235` | Casa di Giovan Battista Foggini | 4.683 | 4.110–4.112 |
-| 24 | `w306811235_innen` | Casa di Giovan Battista Foggini: Innenausbau | 2.202 | 4.113–4.114 |
+| 21 | `w306811234` | Palazzo Corsini Suarez | 6.688 | 4.104–4.107 |
+| 22 | `w306811234_innen` | Palazzo Corsini Suarez: Innenausbau | 2.597 | 4.108–4.109 |
+| 23 | `w306811235` | Casa di Giovan Battista Foggini | 4.705 | 4.110–4.112 |
+| 24 | `w306811235_innen` | Casa di Giovan Battista Foggini: Innenausbau | 2.198 | 4.113–4.114 |
 | 25 | `w518844970` | Reihenhaus an Via Maggio | 5.350 | 4.115–4.117 |
 | 26 | `w518844970_innen` | Reihenhaus an Via Maggio: Innenausbau | 1.641 | 4.118 |
 | 27 | `w518844971` | Reihenhaus an Via Maggio | 3.418 | 4.119–4.120 |
@@ -135,7 +135,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -147,28 +147,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.2 – Palazzo Biliotti – Teil 2/9 (Y 62–65)
+### Schritt 4.2 – Palazzo Biliotti – Teil 2/9 (Y 62–66)
 
-- **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.413
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.627
 - **Bauteile:** `r4096877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.250 |
-| Glatter Stein | `smooth_stone` | 102 |
-| Graues Buntglas | `gray_stained_glass` | 23 |
-| Grüner Beton | `green_concrete` | 22 |
-| Polierter Andesit | `polished_andesite` | 12 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Tuffstein | `tuff` | 1.255 |
+| Polierter Andesit | `polished_andesite` | 189 |
+| Tuffsteinziegel | `tuff_bricks` | 126 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
+| Glatter Stein | `smooth_stone` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -180,28 +179,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.3 – Palazzo Biliotti – Teil 3/9 (Y 66–70)
+### Schritt 4.3 – Palazzo Biliotti – Teil 3/9 (Y 67–70)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.751
+- **Y-Bereich:** 67 bis 70
+- **Blöcke:** 1.433
 - **Bauteile:** `r4096877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.458 |
-| Glatter Stein | `smooth_stone` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
-| Grüner Beton | `green_concrete` | 66 |
-| Polierter Andesit | `polished_andesite` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Tuffstein | `tuff` | 1.002 |
+| Glatter Stein | `smooth_stone` | 187 |
+| Polierter Andesit | `polished_andesite` | 127 |
+| Tuffsteinziegel | `tuff_bricks` | 117 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -213,27 +210,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.4 – Palazzo Biliotti – Teil 4/9 (Y 71–75)
 
 - **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.777
+- **Blöcke:** 1.840
 - **Bauteile:** `r4096877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.426 |
-| Glatter Stein | `smooth_stone` | 243 |
+| Tuffstein | `tuff` | 1.170 |
+| Polierter Andesit | `polished_andesite` | 323 |
+| Glatter Stein | `smooth_stone` | 190 |
+| Tuffsteinziegel | `tuff_bricks` | 107 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
-| Grüner Beton | `green_concrete` | 50 |
-| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -245,27 +242,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.5 – Palazzo Biliotti – Teil 5/9 (Y 76–79)
 
 - **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.364
+- **Blöcke:** 1.472
 - **Bauteile:** `r4096877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.040 |
-| Glatter Stein | `smooth_stone` | 116 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Tuffstein | `tuff` | 933 |
+| Polierter Andesit | `polished_andesite` | 241 |
+| Glatter Stein | `smooth_stone` | 189 |
+| Tuffsteinziegel | `tuff_bricks` | 61 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -277,27 +274,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.6 – Palazzo Biliotti – Teil 6/9 (Y 80–84)
 
 - **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.797
+- **Blöcke:** 1.762
 - **Bauteile:** `r4096877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.469 |
-| Glatter Stein | `smooth_stone` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 25 |
-| Grüner Beton | `green_concrete` | 25 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Tuffstein | `tuff` | 1.155 |
+| Polierter Andesit | `polished_andesite` | 523 |
+| Graues Buntglas | `gray_stained_glass` | 73 |
+| Glatter Stein | `smooth_stone` | 11 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -309,27 +305,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.7 – Palazzo Biliotti – Teil 7/9 (Y 85–89)
 
 - **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.725
+- **Blöcke:** 1.820
 - **Bauteile:** `r4096877`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.346 |
-| Glatter Stein | `smooth_stone` | 170 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Tuffstein | `tuff` | 1.150 |
+| Polierter Andesit | `polished_andesite` | 405 |
+| Glatter Stein | `smooth_stone` | 190 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -341,7 +336,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.8 – Palazzo Biliotti – Teil 8/9 (Y 90–92)
 
@@ -354,12 +349,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 925 |
-| Glatter Sandstein | `smooth_sandstone` | 844 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Tuffstein | `tuff` | 484 |
+| Polierter Andesit | `polished_andesite` | 234 |
+| Endsteinziegel | `end_stone_bricks` | 126 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -371,7 +368,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.9 – Palazzo Biliotti – Teil 9/9 (Y 93–99)
 
@@ -388,7 +385,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Renaissance-Palazzo (spätes 14./15. Jh.; obere Geschosse später), 5 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Biliotti, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -400,9 +397,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.10 – Palazzo Biliotti: Innenausbau – Teil 1/2 (Y 61–71)
+### Schritt 4.10 – Palazzo Biliotti: Innenausbau – Teil 1/3 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.395
@@ -418,8 +415,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -444,10 +441,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.11 – Palazzo Biliotti: Innenausbau – Teil 2/2 (Y 72–82)
+### Schritt 4.11 – Palazzo Biliotti: Innenausbau – Teil 2/3 (Y 72–79)
 
-- **Y-Bereich:** 72 bis 82
-- **Blöcke:** 1.399
+- **Y-Bereich:** 72 bis 79
+- **Blöcke:** 1.382
 - **Bauteile:** `r4096877_innen`
 
 **Teileliste**
@@ -455,12 +452,56 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.332 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.12 – Palazzo Biliotti: Innenausbau – Teil 3/3 (Y 80–86)
+
+- **Y-Bereich:** 80 bis 86
+- **Blöcke:** 1.387
+- **Bauteile:** `r4096877_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.332 |
+| Glatter Stein | `smooth_stone` | 18 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 4 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -471,7 +512,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 12 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
@@ -490,7 +531,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.12 – Palazzo Corsini-Rosselli del Turco – Teil 1/10 (Y 63–63)
+### Schritt 4.13 – Palazzo Corsini-Rosselli del Turco – Teil 1/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.682
@@ -504,7 +545,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -516,26 +557,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.13 – Palazzo Corsini-Rosselli del Turco – Teil 2/10 (Y 64–67)
+### Schritt 4.14 – Palazzo Corsini-Rosselli del Turco – Teil 2/10 (Y 64–67)
 
 - **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.475
+- **Blöcke:** 1.482
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.431 |
-| Weißer Beton | `white_concrete` | 31 |
-| Graues Buntglas | `gray_stained_glass` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 1.417 |
+| Polierter Andesit | `polished_andesite` | 49 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 | Fichtenholz-Bretter | `spruce_planks` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -547,27 +589,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.14 – Palazzo Corsini-Rosselli del Turco – Teil 3/10 (Y 68–71)
+### Schritt 4.15 – Palazzo Corsini-Rosselli del Turco – Teil 3/10 (Y 68–71)
 
 - **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.506
+- **Blöcke:** 1.483
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.439 |
-| Weißer Beton | `white_concrete` | 41 |
-| Graues Buntglas | `gray_stained_glass` | 11 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 1.394 |
+| Polierter Andesit | `polished_andesite` | 70 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -579,26 +621,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.15 – Palazzo Corsini-Rosselli del Turco – Teil 4/10 (Y 72–75)
+### Schritt 4.16 – Palazzo Corsini-Rosselli del Turco – Teil 4/10 (Y 72–75)
 
 - **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.502
+- **Blöcke:** 1.516
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.420 |
-| Weißer Beton | `white_concrete` | 52 |
-| Graues Buntglas | `gray_stained_glass` | 26 |
-| Fichtenholz-Bretter | `spruce_planks` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 1.441 |
+| Glatter Stein | `smooth_stone` | 67 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -610,25 +652,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.16 – Palazzo Corsini-Rosselli del Turco – Teil 5/10 (Y 76–79)
+### Schritt 4.17 – Palazzo Corsini-Rosselli del Turco – Teil 5/10 (Y 76–79)
 
 - **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.504
+- **Blöcke:** 1.518
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.435 |
-| Weißer Beton | `white_concrete` | 47 |
-| Graues Buntglas | `gray_stained_glass` | 22 |
+| Endsteinziegel | `end_stone_bricks` | 1.380 |
+| Glatter Stein | `smooth_stone` | 75 |
+| Polierter Andesit | `polished_andesite` | 48 |
+| Graues Buntglas | `gray_stained_glass` | 13 |
+| Fichtenholz-Bretter | `spruce_planks` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -640,26 +684,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.17 – Palazzo Corsini-Rosselli del Turco – Teil 6/10 (Y 80–83)
+### Schritt 4.18 – Palazzo Corsini-Rosselli del Turco – Teil 6/10 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
-- **Blöcke:** 1.495
+- **Blöcke:** 1.490
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.387 |
-| Weißer Beton | `white_concrete` | 65 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
+| Endsteinziegel | `end_stone_bricks` | 1.383 |
+| Polierter Andesit | `polished_andesite` | 55 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -671,25 +715,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.18 – Palazzo Corsini-Rosselli del Turco – Teil 7/10 (Y 84–87)
+### Schritt 4.19 – Palazzo Corsini-Rosselli del Turco – Teil 7/10 (Y 84–87)
 
 - **Y-Bereich:** 84 bis 87
-- **Blöcke:** 1.511
+- **Blöcke:** 1.525
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.442 |
-| Weißer Beton | `white_concrete` | 60 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
+| Endsteinziegel | `end_stone_bricks` | 1.397 |
+| Glatter Stein | `smooth_stone` | 75 |
+| Polierter Andesit | `polished_andesite` | 53 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -701,9 +745,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.19 – Palazzo Corsini-Rosselli del Turco – Teil 8/10 (Y 88–91)
+### Schritt 4.20 – Palazzo Corsini-Rosselli del Turco – Teil 8/10 (Y 88–91)
 
 - **Y-Bereich:** 88 bis 91
 - **Blöcke:** 1.490
@@ -714,13 +758,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.383 |
-| Weißer Beton | `white_concrete` | 55 |
+| Polierter Andesit | `polished_andesite` | 55 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -732,9 +776,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.20 – Palazzo Corsini-Rosselli del Turco – Teil 9/10 (Y 92–94)
+### Schritt 4.21 – Palazzo Corsini-Rosselli del Turco – Teil 9/10 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.935
@@ -747,11 +791,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Terrakotta | `terracotta` | 1.060 |
 | Endsteinziegel | `end_stone_bricks` | 740 |
 | Fichtenholz-Bretter | `spruce_planks` | 117 |
-| Weißer Beton | `white_concrete` | 18 |
+| Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -763,24 +807,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.21 – Palazzo Corsini-Rosselli del Turco – Teil 10/10 (Y 95–100)
+### Schritt 4.22 – Palazzo Corsini-Rosselli del Turco – Teil 10/10 (Y 95–105)
 
-- **Y-Bereich:** 95 bis 100
-- **Blöcke:** 1.176
+- **Y-Bereich:** 95 bis 105
+- **Blöcke:** 1.210
 - **Bauteile:** `r4096879`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.095 |
-| Ziegelsteine | `bricks` | 81 |
+| Terrakotta | `terracotta` | 1.115 |
+| Ziegelsteine | `bricks` | 79 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (16. Jh. (Renaissance, Cinquecento-Manier)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini-Rosselli_del_Turco, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -792,12 +837,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.22 – Palazzo Corsini-Rosselli del Turco: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 4.23 – Palazzo Corsini-Rosselli del Turco: Innenausbau – Teil 1/2 (Y 63–76)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.359
+- **Y-Bereich:** 63 bis 76
+- **Blöcke:** 1.372
 - **Bauteile:** `r4096879_innen`
 
 **Teileliste**
@@ -805,20 +850,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.295 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
+| Glatter Stein | `smooth_stone` | 32 |
 | Seelaterne | `sea_lantern` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 12 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 26 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -832,10 +881,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.23 – Palazzo Corsini-Rosselli del Turco: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 4.24 – Palazzo Corsini-Rosselli del Turco: Innenausbau – Teil 2/2 (Y 77–86)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.344
+- **Y-Bereich:** 77 bis 86
+- **Blöcke:** 1.363
 - **Bauteile:** `r4096879_innen`
 
 **Teileliste**
@@ -843,64 +892,26 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.295 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.24 – Palazzo Corsini-Rosselli del Turco: Innenausbau – Teil 3/3 (Y 80–87)
-
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.352
-- **Bauteile:** `r4096879_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.295 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1257,7 +1268,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1269,12 +1280,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.36 – Palazzo Corsini Suarez – Teil 2/11 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
-- **Blöcke:** 1.977
+- **Blöcke:** 2.004
 - **Bauteile:** `r4096881`
 
 **Teileliste**
@@ -1283,12 +1294,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.141 |
 | Endsteinziegel | `end_stone_bricks` | 804 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Glatter Stein | `smooth_stone` | 47 |
+| Polierter Andesit | `polished_andesite` | 8 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1300,27 +1312,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.37 – Palazzo Corsini Suarez – Teil 3/11 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
-- **Blöcke:** 1.658
+- **Blöcke:** 1.701
 - **Bauteile:** `r4096881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.429 |
-| Glatter Stein | `smooth_stone` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
+| Endsteinziegel | `end_stone_bricks` | 1.435 |
+| Glatter Stein | `smooth_stone` | 183 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 | Polierter Andesit | `polished_andesite` | 18 |
-| Grüner Beton | `green_concrete` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 11 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1332,7 +1345,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.38 – Palazzo Corsini Suarez – Teil 4/11 (Y 69–72)
 
@@ -1344,12 +1357,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.605 |
-| Glatter Stein | `smooth_stone` | 126 |
+| Endsteinziegel | `end_stone_bricks` | 1.523 |
+| Glatter Stein | `smooth_stone` | 201 |
+| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1361,7 +1375,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.39 – Palazzo Corsini Suarez – Teil 5/11 (Y 73–76)
 
@@ -1373,14 +1387,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.396 |
+| Endsteinziegel | `end_stone_bricks` | 1.388 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 | Glatter Stein | `smooth_stone` | 116 |
 | Grüner Beton | `green_concrete` | 12 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1392,7 +1407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.40 – Palazzo Corsini Suarez – Teil 6/11 (Y 77–80)
 
@@ -1404,14 +1419,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.520 |
-| Glatter Stein | `smooth_stone` | 160 |
+| Endsteinziegel | `end_stone_bricks` | 1.385 |
+| Glatter Stein | `smooth_stone` | 288 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
+| Polierter Andesit | `polished_andesite` | 7 |
 | Grüner Beton | `green_concrete` | 3 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1423,7 +1439,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.41 – Palazzo Corsini Suarez – Teil 7/11 (Y 81–84)
 
@@ -1435,14 +1451,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.418 |
+| Endsteinziegel | `end_stone_bricks` | 1.410 |
 | Glatter Stein | `smooth_stone` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Grüner Beton | `green_concrete` | 9 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1454,7 +1471,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.42 – Palazzo Corsini Suarez – Teil 8/11 (Y 85–88)
 
@@ -1466,14 +1483,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.578 |
-| Glatter Stein | `smooth_stone` | 102 |
+| Endsteinziegel | `end_stone_bricks` | 1.445 |
+| Glatter Stein | `smooth_stone` | 230 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
+| Polierter Andesit | `polished_andesite` | 5 |
 | Grüner Beton | `green_concrete` | 3 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1485,26 +1503,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.43 – Palazzo Corsini Suarez – Teil 9/11 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.818
+- **Blöcke:** 1.954
 - **Bauteile:** `r4096881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.638 |
+| Endsteinziegel | `end_stone_bricks` | 1.490 |
+| Fichtenholz-Bretter | `spruce_planks` | 276 |
 | Glatter Stein | `smooth_stone` | 116 |
 | Graues Buntglas | `gray_stained_glass` | 58 |
+| Polierter Andesit | `polished_andesite` | 8 |
 | Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1516,23 +1536,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.44 – Palazzo Corsini Suarez – Teil 10/11 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.180
+- **Blöcke:** 1.352
 - **Bauteile:** `r4096881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.180 |
+| Terrakotta | `terracotta` | 1.352 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1544,7 +1564,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.45 – Palazzo Corsini Suarez – Teil 11/11 (Y 94–102)
 
@@ -1561,7 +1581,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Sand. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -1573,12 +1593,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.46 – Palazzo Corsini Suarez: Innenausbau – Teil 1/3 (Y 62–71)
+### Schritt 4.46 – Palazzo Corsini Suarez: Innenausbau – Teil 1/3 (Y 62–70)
 
-- **Y-Bereich:** 62 bis 71
-- **Blöcke:** 1.895
+- **Y-Bereich:** 62 bis 70
+- **Blöcke:** 1.888
 - **Bauteile:** `r4096881_innen`
 
 **Teileliste**
@@ -1586,20 +1606,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.825 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
 | Seelaterne | `sea_lantern` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Glatter Stein | `smooth_stone` | 22 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1613,10 +1637,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.47 – Palazzo Corsini Suarez: Innenausbau – Teil 2/3 (Y 72–78)
+### Schritt 4.47 – Palazzo Corsini Suarez: Innenausbau – Teil 2/3 (Y 71–78)
 
-- **Y-Bereich:** 72 bis 78
-- **Blöcke:** 1.879
+- **Y-Bereich:** 71 bis 78
+- **Blöcke:** 1.883
 - **Bauteile:** `r4096881_innen`
 
 **Teileliste**
@@ -1624,12 +1648,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.825 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Glatter Stein | `smooth_stone` | 22 |
 | Seelaterne | `sea_lantern` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -1637,11 +1662,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -1666,22 +1692,26 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.825 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Glatter Stein | `smooth_stone` | 20 |
 | Seelaterne | `sea_lantern` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -2863,7 +2893,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.85 – Reihenhaus an Borgo Tegolaio – Teil 6/7 (Y 87–91)
 
 - **Y-Bereich:** 87 bis 91
-- **Blöcke:** 1.835
+- **Blöcke:** 1.836
 - **Bauteile:** `r7510671`
 
 **Teileliste**
@@ -2871,7 +2901,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.460 |
-| Fichtenholz-Bretter | `spruce_planks` | 171 |
+| Fichtenholz-Bretter | `spruce_planks` | 172 |
 | Weißer Beton | `white_concrete` | 164 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 
@@ -2894,14 +2924,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.86 – Reihenhaus an Borgo Tegolaio – Teil 7/7 (Y 92–100)
 
 - **Y-Bereich:** 92 bis 100
-- **Blöcke:** 1.977
+- **Blöcke:** 1.975
 - **Bauteile:** `r7510671`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.899 |
+| Terrakotta | `terracotta` | 1.897 |
 | Ziegelsteine | `bricks` | 78 |
 
 **Beschreibung**
@@ -3174,9 +3204,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 746 |
+| Terrakotta | `terracotta` | 745 |
 | Glatter Sandstein | `smooth_sandstone` | 738 |
-| Glatter Stein | `smooth_stone` | 182 |
+| Glatter Stein | `smooth_stone` | 183 |
 | Polierter Andesit | `polished_andesite` | 159 |
 | Grüner Beton | `green_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
@@ -3518,7 +3548,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.104 – Palazzo Corsini Suarez – Teil 1/4 (Y 62–67)
 
 - **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.636
+- **Blöcke:** 1.637
 - **Bauteile:** `w306811234`
 
 **Teileliste**
@@ -3526,15 +3556,17 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 964 |
-| Rosa Keramik | `pink_terracotta` | 586 |
-| Weißer Beton | `white_concrete` | 50 |
+| Rosa Keramik | `pink_terracotta` | 521 |
+| Weißer Beton | `white_concrete` | 70 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Glatter Stein | `smooth_stone` | 18 |
 | Fichtenholz-Bretter | `spruce_planks` | 14 |
-| Graues Buntglas | `gray_stained_glass` | 11 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3546,26 +3578,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.105 – Palazzo Corsini Suarez – Teil 2/4 (Y 68–78)
+### Schritt 4.105 – Palazzo Corsini Suarez – Teil 2/4 (Y 68–79)
 
-- **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.546
+- **Y-Bereich:** 68 bis 79
+- **Blöcke:** 1.698
 - **Bauteile:** `w306811234`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.284 |
-| Weißer Beton | `white_concrete` | 184 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Fichtenholz-Bretter | `spruce_planks` | 28 |
+| Rosa Keramik | `pink_terracotta` | 1.204 |
+| Weißer Beton | `white_concrete` | 194 |
+| Glatter Stein | `smooth_stone` | 181 |
+| Polierter Andesit | `polished_andesite` | 52 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+| Fichtenholz-Bretter | `spruce_planks` | 21 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3577,26 +3612,28 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.106 – Palazzo Corsini Suarez – Teil 3/4 (Y 79–89)
+### Schritt 4.106 – Palazzo Corsini Suarez – Teil 3/4 (Y 80–91)
 
-- **Y-Bereich:** 79 bis 89
-- **Blöcke:** 1.524
+- **Y-Bereich:** 80 bis 91
+- **Blöcke:** 1.690
 - **Bauteile:** `w306811234`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.184 |
-| Weißer Beton | `white_concrete` | 220 |
+| Rosa Keramik | `pink_terracotta` | 1.153 |
+| Weißer Beton | `white_concrete` | 266 |
+| Glatter Stein | `smooth_stone` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
-| Fichtenholz-Bretter | `spruce_planks` | 42 |
+| Fichtenholz-Bretter | `spruce_planks` | 64 |
+| Polierter Andesit | `polished_andesite` | 42 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3608,26 +3645,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 4.107 – Palazzo Corsini Suarez – Teil 4/4 (Y 90–97)
+### Schritt 4.107 – Palazzo Corsini Suarez – Teil 4/4 (Y 92–97)
 
-- **Y-Bereich:** 90 bis 97
-- **Blöcke:** 1.661
+- **Y-Bereich:** 92 bis 97
+- **Blöcke:** 1.663
 - **Bauteile:** `w306811234`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.174 |
-| Rosa Keramik | `pink_terracotta` | 369 |
-| Weißer Beton | `white_concrete` | 74 |
+| Terrakotta | `terracotta` | 1.320 |
+| Rosa Keramik | `pink_terracotta` | 153 |
+| Fichtenholz-Bretter | `spruce_planks` | 144 |
 | Ziegelsteine | `bricks` | 44 |
+| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (17. Jh. (Filippo Corsini); Umbau Suarez 1. Hälfte 17. Jh. (Annahme)), 4 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Corsini_Suarez, Angaben belegt (Sicherheit 0,7).
 
 **Tipp**
 
@@ -3639,12 +3677,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 4.108 – Palazzo Corsini Suarez: Innenausbau – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
-- **Blöcke:** 913
+- **Blöcke:** 910
 - **Bauteile:** `w306811234_innen`
 
 **Teileliste**
@@ -3652,12 +3690,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 812 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
+| Glatter Stein | `smooth_stone` | 44 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
@@ -3665,11 +3704,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
+| Steintreppe | `stone_stairs` | 30 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
@@ -3694,12 +3734,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.624 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Glatter Stein | `smooth_stone` | 20 |
 | Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -3707,7 +3748,143 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.110 – Casa di Giovan Battista Foggini – Teil 1/3 (Y 63–71)
+
+- **Y-Bereich:** 63 bis 71
+- **Blöcke:** 1.536
+- **Bauteile:** `w306811235`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 792 |
+| Rosa Keramik | `pink_terracotta` | 720 |
+| Weißer Beton | `white_concrete` | 18 |
+| Graues Buntglas | `gray_stained_glass` | 3 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Reihenhaus (17./18. Jh. (Wohnhaus des Hofarchitekten Foggini)), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Giovan_Battista_Foggini, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 4.111 – Casa di Giovan Battista Foggini – Teil 2/3 (Y 72–88)
+
+- **Y-Bereich:** 72 bis 88
+- **Blöcke:** 1.630
+- **Bauteile:** `w306811235`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.476 |
+| Weißer Beton | `white_concrete` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+
+**Beschreibung**
+
+Reihenhaus (17./18. Jh. (Wohnhaus des Hofarchitekten Foggini)), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Giovan_Battista_Foggini, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 4.112 – Casa di Giovan Battista Foggini – Teil 3/3 (Y 89–99)
+
+- **Y-Bereich:** 89 bis 99
+- **Blöcke:** 1.539
+- **Bauteile:** `w306811235`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 974 |
+| Rosa Keramik | `pink_terracotta` | 419 |
+| Ziegelsteine | `bricks` | 58 |
+| Fichtenholz-Bretter | `spruce_planks` | 33 |
+| Weißer Beton | `white_concrete` | 31 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
+
+**Beschreibung**
+
+Reihenhaus (17./18. Jh. (Wohnhaus des Hofarchitekten Foggini)), 5 Geschosse, Putzfarbe Rosa. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_di_Giovan_Battista_Foggini, Angaben belegt (Sicherheit 0,7).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
+
+### Schritt 4.113 – Casa di Giovan Battista Foggini: Innenausbau – Teil 1/2 (Y 63–80)
+
+- **Y-Bereich:** 63 bis 80
+- **Blöcke:** 782
+- **Bauteile:** `w306811235_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 686 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 48 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 18 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
+| Seelaterne | `sea_lantern` | 10 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
 
 **Beschreibung**
 
@@ -3725,146 +3902,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.110 – Casa di Giovan Battista Foggini – Teil 1/3 (Y 63–72)
+### Schritt 4.114 – Casa di Giovan Battista Foggini: Innenausbau – Teil 2/2 (Y 81–87)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.608
-- **Bauteile:** `w306811235`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 792 |
-| Rosa Keramik | `pink_terracotta` | 769 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Weißer Beton | `white_concrete` | 16 |
-| Graues Buntglas | `gray_stained_glass` | 6 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.111 – Casa di Giovan Battista Foggini – Teil 2/3 (Y 73–88)
-
-- **Y-Bereich:** 73 bis 88
-- **Blöcke:** 1.532
-- **Bauteile:** `w306811235`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.378 |
-| Weißer Beton | `white_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.112 – Casa di Giovan Battista Foggini – Teil 3/3 (Y 89–99)
-
-- **Y-Bereich:** 89 bis 99
-- **Blöcke:** 1.543
-- **Bauteile:** `w306811235`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 974 |
-| Rosa Keramik | `pink_terracotta` | 434 |
-| Ziegelsteine | `bricks` | 58 |
-| Fichtenholz-Bretter | `spruce_planks` | 33 |
-| Weißer Beton | `white_concrete` | 26 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.113 – Casa di Giovan Battista Foggini: Innenausbau – Teil 1/2 (Y 63–78)
-
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 776
-- **Bauteile:** `w306811235_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 686 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
-| Seelaterne | `sea_lantern` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.114 – Casa di Giovan Battista Foggini: Innenausbau – Teil 2/2 (Y 79–87)
-
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.426
+- **Y-Bereich:** 81 bis 87
+- **Blöcke:** 1.416
 - **Bauteile:** `w306811235_innen`
 
 **Teileliste**
@@ -3872,22 +3913,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.372 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 18 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

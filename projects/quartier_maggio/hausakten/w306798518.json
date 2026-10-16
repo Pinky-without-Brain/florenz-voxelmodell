@@ -1,32 +1,32 @@
 {
   "id": "w306798518",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "2. Hälfte 16. Jh. (Michelozzi); Aufstockung Via Sguazza 1903",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 8,
+    "achsen": 6,
     "material": "putz",
     "putzfarbe": "weiss",
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rechteck_vergittert"
+      "art": "portal_mittig",
+      "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "rechteck",
+      "typ": "rundbogen",
       "rahmen": "putz",
       "laeden": "gruen"
     },
@@ -34,15 +34,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "kniefenster_zwei_links_drei_rechts",
+      "rundbogen_unter_putz_2og"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Michelozzi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Drei Geschosse auf sechs weit gestellten Achsen, Rundbogenportal mit je zwei und drei großen Kniefenstern (spätes 16./17. Jh.), Rundbogen im 2. OG 1925 wieder geöffnet. Annahme: Putzfarbe, Gesims, Rahmenmaterial.",
   "name": "Palazzo Michelozzi"
 }

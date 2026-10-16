@@ -8,47 +8,47 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 222.831 |
+| Blöcke | 223.415 |
 | Bauschritte | 138 |
 | Y-Bereich | 62 bis 108 |
 | X-Ausdehnung | -1330 bis -1129 (202 Blöcke) |
 | Z-Ausdehnung | 1490 bis 1724 (235 Blöcke) |
 | Kleinster Schritt | 720 Blöcke (Schritt 8.122) |
-| Mittlerer Schritt | 1.615 Blöcke |
+| Mittlerer Schritt | 1.619 Blöcke |
 | Größter Schritt | 2.090 Blöcke (Schritt 8.35) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 70.515 | 31,6 % |
-| Endsteinziegel | `end_stone_bricks` | 32.899 | 14,8 % |
+| Terrakotta | `terracotta` | 71.082 | 31,8 % |
+| Endsteinziegel | `end_stone_bricks` | 32.899 | 14,7 % |
 | Weißer Beton | `white_concrete` | 23.859 | 10,7 % |
 | Polierter Tuffstein | `polished_tuff` | 21.491 | 9,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 15.777 | 7,1 % |
 | Gelbe Keramik | `yellow_terracotta` | 15.404 | 6,9 % |
-| Tuffstein | `tuff` | 10.540 | 4,7 % |
+| Tuffstein | `tuff` | 10.303 | 4,6 % |
 | Rosa Keramik | `pink_terracotta` | 9.464 | 4,2 % |
-| Polierter Andesit | `polished_andesite` | 7.494 | 3,4 % |
-| Glatter Stein | `smooth_stone` | 5.405 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 2.695 | 1,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.379 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 8.104 | 3,6 % |
+| Glatter Stein | `smooth_stone` | 5.005 | 2,2 % |
+| Graues Buntglas | `gray_stained_glass` | 2.771 | 1,2 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.269 | 0,6 % |
 | Ziegelsteine | `bricks` | 1.239 | 0,6 % |
 | Orange Keramik | `orange_terracotta` | 1.143 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 956 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.020 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 828 | 0,4 % |
-| Seelaterne | `sea_lantern` | 424 | 0,2 % |
+| Seelaterne | `sea_lantern` | 428 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 256 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 236 | 0,1 % |
 | Grüner Beton | `green_concrete` | 181 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 125 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 117 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 149 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 139 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 84 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 80 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 80 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 82 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 82 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 76 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
@@ -56,8 +56,8 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 734 |
-| Steintreppe | `stone_stairs` | 240 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 780 |
+| Steintreppe | `stone_stairs` | 200 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -73,8 +73,8 @@
 | 8 | `r9572898_innen` | Palazzo des Cinquecento an Piazza dei Pitti: Innenausbau | 3.299 | 8.41–8.42 |
 | 9 | `w306811238` | Casa di Bernardo Buontalenti | 7.595 | 8.43–8.46 |
 | 10 | `w306811238_innen` | Casa di Bernardo Buontalenti: Innenausbau | 1.560 | 8.47 |
-| 11 | `w306811247` | Casa Velluti | 7.802 | 8.48–8.51 |
-| 12 | `w306811247_innen` | Casa Velluti: Innenausbau | 1.248 | 8.52 |
+| 11 | `w306811247` | Casa Velluti | 7.793 | 8.48–8.51 |
+| 12 | `w306811247_innen` | Casa Velluti: Innenausbau | 1.841 | 8.52 |
 | 13 | `w483437553` | Reihenhaus an Via Maggio | 11.028 | 8.53–8.58 |
 | 14 | `w483437553_innen` | Reihenhaus an Via Maggio: Innenausbau | 2.648 | 8.59–8.60 |
 | 15 | `w483437554` | Palazzo des Cinquecento an Piazza dei Pitti | 11.496 | 8.61–8.67 |
@@ -1660,23 +1660,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 8.48 – Casa Velluti – Teil 1/4 (Y 62–69)
 
 - **Y-Bereich:** 62 bis 69
-- **Blöcke:** 1.976
+- **Blöcke:** 2.045
 - **Bauteile:** `w306811247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 826 |
 | Polierter Tuffstein | `polished_tuff` | 769 |
-| Polierter Andesit | `polished_andesite` | 213 |
-| Tuffsteinziegel | `tuff_bricks` | 98 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-| Glatter Stein | `smooth_stone` | 22 |
+| Tuffstein | `tuff` | 695 |
+| Polierter Andesit | `polished_andesite` | 339 |
+| Tuffsteinziegel | `tuff_bricks` | 156 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (14. Jh. (EG-Bogen); obere Geschosse spätes 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Velluti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1688,27 +1687,26 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.49 – Casa Velluti – Teil 2/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.905
+- **Blöcke:** 1.901
 - **Bauteile:** `w306811247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.115 |
-| Polierter Andesit | `polished_andesite` | 373 |
-| Tuffsteinziegel | `tuff_bricks` | 171 |
-| Glatter Stein | `smooth_stone` | 158 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
+| Tuffstein | `tuff` | 1.035 |
+| Polierter Andesit | `polished_andesite` | 736 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
+| Tuffsteinziegel | `tuff_bricks` | 40 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (14. Jh. (EG-Bogen); obere Geschosse spätes 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Velluti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1720,27 +1718,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.50 – Casa Velluti – Teil 3/4 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.923
+- **Blöcke:** 1.862
 - **Bauteile:** `w306811247`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.022 |
-| Polierter Andesit | `polished_andesite` | 596 |
-| Glatter Stein | `smooth_stone` | 160 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Tuffsteinziegel | `tuff_bricks` | 37 |
+| Tuffstein | `tuff` | 1.009 |
+| Polierter Andesit | `polished_andesite` | 727 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (14. Jh. (EG-Bogen); obere Geschosse spätes 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Velluti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1752,12 +1748,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.51 – Casa Velluti – Teil 4/4 (Y 90–99)
 
 - **Y-Bereich:** 90 bis 99
-- **Blöcke:** 1.998
+- **Blöcke:** 1.985
 - **Bauteile:** `w306811247`
 
 **Teileliste**
@@ -1765,14 +1761,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.041 |
-| Tuffstein | `tuff` | 330 |
-| Glatter Stein | `smooth_stone` | 326 |
-| Polierter Andesit | `polished_andesite` | 244 |
+| Glatter Stein | `smooth_stone` | 318 |
+| Tuffstein | `tuff` | 317 |
+| Polierter Andesit | `polished_andesite` | 234 |
 | Ziegelsteine | `bricks` | 57 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
 
 **Beschreibung**
 
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Reihenhaus (14. Jh. (EG-Bogen); obere Geschosse spätes 18. Jh.), 4 Geschosse, Natursteinfassade. Quelle: recherche:https://it.wikipedia.org/wiki/Casa_Velluti, Angaben belegt (Sicherheit 0,65).
 
 **Tipp**
 
@@ -1784,35 +1781,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 8.52 – Casa Velluti: Innenausbau
 
-- **Y-Bereich:** 62 bis 83
-- **Blöcke:** 1.248
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.841
 - **Bauteile:** `w306811247_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.134 |
-| Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
-| Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Terrakotta | `terracotta` | 1.701 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 7 |
+| Weiße Keramik | `white_terracotta` | 7 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 40 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

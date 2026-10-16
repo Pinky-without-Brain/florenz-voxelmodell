@@ -1,53 +1,56 @@
 {
   "id": "w306811227",
   "typ": "casa_a_schiera",
-  "epoche": "15.–17. Jh.",
+  "epoche": "spätmittelalterlich bis Quattrocento (Annahme)",
   "geschosse": [
     {
       "art": "eg",
       "hoeheBl": 9
     },
     {
-      "art": "og",
-      "hoeheBl": 7
+      "art": "mezzanin",
+      "hoeheBl": 4
+    },
+    {
+      "art": "nobile",
+      "hoeheBl": 9
     },
     {
       "art": "og",
-      "hoeheBl": 7
-    },
-    {
-      "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 2,
-    "material": "putz",
-    "putzfarbe": "terrakotta",
+    "achsen": 4,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 5,
       "fenster": "rechteck"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_serena",
-      "laeden": "gruen"
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
+      "laeden": null
     },
     "gesims": {
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "wappen_ridolfi_di_piazza",
+      "zwei_fondaco_bogen"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_a_schiera nach schmale Front; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Ridolfi",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Fassade aus Pietraforte mit glatten Bossen, zwei große Bogen im EG (Fondaci) und links eine eingefasste Haustür, Mezzanin mit Rechteckfenstern, vier große Rundbogenfenster am Piano nobile auf einem Steingurt, Wappen Ridolfi di Piazza. Annahme: Datierung, obere Geschosse und Gesims.",
   "name": "Casa Ridolfi"
 }

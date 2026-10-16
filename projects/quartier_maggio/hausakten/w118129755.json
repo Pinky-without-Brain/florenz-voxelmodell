@@ -1,33 +1,33 @@
 {
   "id": "w118129755",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "Ende 16. Jh. (Santi di Tito zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 10
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 9,
-    "material": "bugnato_abgestuft",
-    "putzfarbe": null,
+    "achsen": 6,
+    "material": "putz",
+    "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
       "fenster": "rundbogen"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rundbogen",
       "rahmen": "pietra_forte",
       "laeden": null
     },
@@ -35,15 +35,19 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "wappen_zanchini_ecke",
+      "bossenrahmen_portal_und_nobile"
+    ],
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Zanchini-Corbinelli",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Drei hohe Geschosse auf sechs Achsen, Portal aus der Mitte auf die vierte Achse gerückt, Bossen rahmen Portal und Rundbogenfenster des Piano nobile, im obersten Geschoss bündig mit dem Putz, Eckbossen im Kammverband an der Via Sguazza, Wappen Zanchini. Annahme: Putzfarbe, Rahmenmaterial.",
   "name": "Palazzo Zanchini-Corbinelli"
 }
