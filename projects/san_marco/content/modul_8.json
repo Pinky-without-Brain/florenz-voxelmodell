@@ -1,0 +1,64 @@
+{
+  "module": 8,
+  "title": "Kirche: Decken, Kuppel, Dach",
+  "subtitle": "Bautüte 8: Kassettendecke, Kuppel über dem Presbyterium, Dächer",
+  "icon": "🕍",
+  "parts": {
+    "kassettendecke": {
+      "title": "Kassettendecke",
+      "description": "Die Decke des Mittelschiffs auf Lage 30 besteht aus Eichenholz und Mauerwerk mit goldenen Rosetten; in der Mitte ein Bildfeld von 16 mal 10 Blöcken mit blauem Himmel und weißer Wolke.",
+      "tip": "Zuerst die Rippen, dann die Füllung.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Das Bildfeld ist eine Farbfläche.",
+      "fact": "Die geschnitzte Holzdecke wurde 1679 nach Pier Francesco Silvani begonnen, das Mittelbild der Himmelfahrt Mariens malte Giovanni Antonio Pucci 1725 (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "gewoelbe": {
+      "title": "Gewölbe der Kapellen und Platten",
+      "description": "Die Kapellen haben flache Gewölbe mit Rippen aus Pietra serena auf Lage 15, die Cappella Salviati auf Lage 21; Chor und Apsis tragen eine blaue Decke mit goldenen Sternen; unter der Kuppel liegt eine Platte auf Lage 30.",
+      "tip": "Rippen zuerst.",
+      "caution": "Die Dachräume darüber sind unzugänglich.",
+      "fact": "Der Chor wurde von Michelozzo neu gebaut (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "tambour": {
+      "title": "Tambour der Kuppel",
+      "description": "Ein Ring aus Pietra serena (Radius 8 bis 10) trägt von Lage 31 bis 38 acht Fenster.",
+      "tip": "Lagenweise, die Fenster auf den Diagonalen.",
+      "caution": "Das Glas füllt den Ring.",
+      "fact": "Die Kuppel wurde vor 1712 nach einem Entwurf von Angelo Ferri erhöht (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "kuppel": {
+      "title": "Kuppel",
+      "description": "Die Kalotte über dem Presbyterium steigt ab Lage 39 bis zu einem Scheitel auf Lage 49: innen blau, außen mit Ziegeln gedeckt.",
+      "tip": "Ring für Ring nach innen.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Alessandro Gherardini malte die Kuppel 1717 aus (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Eine schmale Laterne aus weißem Marmor mit goldener Spitze sitzt auf dem Scheitel der Kuppel.",
+      "tip": "Ein massiver Zylinder mit Glasband.",
+      "caution": "Das Innere ist unzugänglich.",
+      "fact": "Die Laterne ist eine Vereinfachung des Aufbaus."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein Dach an ein tieferes grenzt, füllt Mauerwerk die Giebelfläche.",
+      "tip": "Von unten nach oben.",
+      "caution": "Sie schließen die Dachräume.",
+      "fact": "Das Mittelschiff steigt über die Kapellen hinaus."
+    },
+    "dach_langhaus": {
+      "title": "Dach des Langhauses",
+      "description": "Ein Satteldach aus Dachziegeln deckt das Mittelschiff, First auf Lage 44.",
+      "tip": "Von der Traufe zum First.",
+      "caution": "Der Raum darunter ist unzugänglich.",
+      "fact": "Das Dach ist Stufe C."
+    },
+    "dach_seiten": {
+      "title": "Dächer der Kapellen, Seitenmassen und Apsis",
+      "description": "Pultdächer decken die Kapellen, flache Dächer das Presbyterium und die Apsis.",
+      "tip": "Eine Lage Dachziegel.",
+      "caution": "Der Raum darunter ist unzugänglich.",
+      "fact": "Die Kapellendächer lehnen sich an das Mittelschiff."
+    }
+  }
+}

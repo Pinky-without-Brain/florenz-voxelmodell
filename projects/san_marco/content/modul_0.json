@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden, Höfe und Treppe",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 68, Höfe und die Treppe ins Obergeschoss",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter dem Konvent füllst du das Gelände mit Bruchstein bis Y 67 auf. Im Gebäudeumriss ist der Hang bis Y 67 abgetragen, weil der Boden des Erdgeschosses auf Y 68 liegt.",
+      "tip": "Arbeite Spalte für Spalte; wo das Gelände schon Y 67 erreicht, bleibt die Spalte leer.",
+      "caution": "Die Kreuzgänge bekommen kein Fundament über dem Gelände, nur Pflaster oder Rasen auf Y 68.",
+      "fact": "Michelozzo baute den Konvent von 1439 bis 1444 um, die Weihe war in der Epiphanienacht 1443 (en.wikipedia, San Marco, Florence)."
+    },
+    "boden": {
+      "title": "Boden des Erdgeschosses",
+      "description": "Auf Y 68 legst du den Boden des Erdgeschosses: in den Sälen ein Schachbrett aus Terrakotta und hellem Marmor, unter den Kreuzgängen Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Muster der Räume (Modul 6) ersetzen später einzelne Felder; die Lichtfelder setzt Modul 5.",
+      "fact": "Das Museo nazionale di San Marco zeigt heute die Werke Fra Angelicos in den Räumen des Konvents (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "hof": {
+      "title": "Kreuzgänge und Höfe",
+      "description": "Die Höfe bleiben offen: der Chiostro di Sant’Antonino und der Chiostro di San Domenico mit Rasen, dazu vier kleine Lichthöfe mit Pflaster. Die Höfe sind die Löcher des Umrisses.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe; Zypresse, Brunnen und Bäume folgen in Modul 6.",
+      "fact": "Michelozzo baute zwei Kreuzgänge: den ersten für Sant’Antonino, den zweiten für San Domenico (en.wikipedia, San Marco, Florence)."
+    },
+    "treppe": {
+      "title": "Treppe ins Obergeschoss",
+      "description": "Im Eingangsflügel führt eine Podesttreppe aus Treppenblöcken aus Pietra serena vom Erdgeschoss ins Dormitorium: zwei Läufe zu je sechs Stufen, drei Blöcke breit, dazwischen ein Podest. Unter den Stufen steht massives Mauerwerk als Auflager, über jeder Stufe bleiben drei Blöcke Luft.",
+      "tip": "Zuerst den Unterbau, dann die Stufen von unten nach oben.",
+      "caution": "Das Treppenloch in der Decke bleibt frei. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Vor der Treppe zum Dormitorium hängt Fra Angelicos Verkündigung (um 1442) (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    }
+  }
+}

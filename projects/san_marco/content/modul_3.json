@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossboden des Dormitoriums und oberste Decke",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Boden des Dormitoriums",
+      "description": "Der Boden des Obergeschosses auf Y 80 besteht aus dunkler Eiche und Terrakotta im Wechsel; die Treppe lässt ein Loch frei.",
+      "tip": "Das Treppenloch frei lassen.",
+      "caution": "Der Boden liegt auf Wänden und Arkaden auf.",
+      "fact": "Über den Arkaden des ersten Kreuzgangs liegen die Gänge des Dormitoriums (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die Decke auf Y 91 schließt die Räume und Gänge des Obergeschosses ab, weiß verputzt.",
+      "tip": "Weiß verputzt.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Die Bibliothek und die Zellen liegen unter dem Dach des Konvents (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "innenwaende_og": {
+      "title": "Innenwand der Obergeschosse",
+      "description": "Die Wand zwischen Gang und Zellen setzt sich über dem Kreuzgang fort; nur an der Treppenhalle öffnet eine Tür.",
+      "tip": "Erst den Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Der Gang über der Loggia des Kreuzgangs erschließt das Dormitorium."
+    },
+    "trennwaende_og": {
+      "title": "Zellenwände und Trennwände",
+      "description": "Zwischen Gang und Zellen stehen zwei Blöcke dicke Wände mit je einer Tür; Trennwände teilen die Zellen, die Zellen Savonarolas und die Bibliothek ab. Die Zellen sind etwa 5 mal 6 Blöcke groß, jede Tür ist 3 Blöcke hoch und mindestens 2 breit.",
+      "tip": "Erst den Boden, dann die Wände.",
+      "caution": "Türen frei lassen. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Dormitorium hat nach dem Museum 44 Zellen entlang von drei Gängen (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    }
+  }
+}

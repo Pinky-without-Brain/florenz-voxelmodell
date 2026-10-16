@@ -1,0 +1,13 @@
+{
+  "id": "san_marco",
+  "title": "Basilica und Konvent San Marco mit Museum",
+  "type": "wahrzeichen",
+  "gebaeude": ["r1575764"],
+  "bodenY": 68,
+  "rahmen": { "ox": 260, "oz": -1148.5, "thetaDeg": -61.78 },
+  "masken": {
+    "basilika": { "gebaeude": ["w225706552"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}
