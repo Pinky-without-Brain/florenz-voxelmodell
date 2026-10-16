@@ -1,5 +1,6 @@
 'use strict';
 // Angaben für tools/diag/w7a_inhalt.js (Module 0..5 der Palazzi der Welle 7a). Fakten stammen aus den im Katalog genannten Quellen.
+const T = (title, description, tip, caution, fact) => ({ title, description, tip, caution, fact });
 module.exports = {
   palazzo_gondi: {
     bodenY: 63, traufe: 23, quelle: 'it.wikipedia, Palazzo Gondi', loggiaBoden: true,
@@ -28,6 +29,32 @@ module.exports = {
       decke: 'Die Fertigstellung des Palasts wird mit 1874 angegeben',
       innenwaende_og: 'Im Piano nobile liegen Vestibül, Korridor, großer Saal und weitere Säle',
       dach: 'Auf dem Dach steht eine Altana mit Säulen in Achse mit dem zweiten Portal; sie ist hier nicht gebaut'
+    }
+  },
+  palazzo_spini_feroni: {
+    bodenY: 61, traufe: 30, quelle: 'it.wikipedia, Palazzo Spini Feroni', loggiaBoden: false, ohne: ['hofarkaden', 'innenwaende', 'innenwaende_og'],
+    hofText: 'Der Hof bleibt offen; sein Boden aus Pflaster, Marmor und Pietra serena liegt auf Y 61. Vier Türen aus dem Erdgeschoss führen hinein.',
+    fassadeTitel: 'Außenwände aus Pietra forte, Fenster, Kranzgesims',
+    aussenText: 'Die Außenwände sind zwei Blöcke dick und bestehen außen aus unverputztem Pietra-forte-Bruchstein mit Bändern aus behauener Pietra forte (jede vierte Lage); innen Putz.',
+    aussenTip: 'Jede vierte Lage ist behauene Pietra forte, dazwischen Bruchstein.',
+    fensterText: 'Rundbogenfenster mit Glas im Raster 9; in den beiden Obergeschossen mit einer Mittelsäule als Biforium; die Portale liegen in Fensterachsen.',
+    kranzText: 'Das Kranzgesims aus Pietra forte bei Y 91 trägt in der Wirklichkeit ein Ballatoio auf Konsolen; hier ein glattes Gesims, darüber der Zinnenkranz.',
+    arkadenText: '', trennText: 'Trennwände teilen den Palast im Erdgeschoss in die Vorderräume am Borgo Santi Apostoli, den Androne, die Flügel und den Ostflügel; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.',
+    dachTitel: 'Dach und Zinnen', dachTeilTitel: 'Walmdach', dachText: 'Ein flaches Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum (ohne Zugang).',
+    dachExtra: { zinnen: T('Zinnenkranz', 'Auf der Außenkante der Traufe steht ein Kranz aus Zinnen (Pietra forte), vier Lagen hoch, abwechselnd Zinne und Lücke.', 'Zwei Blöcke Zinne, zwei Blöcke Lücke.', 'Der Kranz ist nicht begehbar; dahinter liegt das Dach.', 'Ein Kranz guelfischer Zinnen gibt dem Palast das Aussehen einer Festung (Quelle: it.wikipedia, Palazzo Spini Feroni).') },
+    fakt: {
+      fundament: 'Der Bau begann 1289 für den Kaufmann und Politiker Geri Spini',
+      boden: 'Im Erdgeschoss liegt eine Loggia, in der heute Schaufenster stehen',
+      hof: 'Der Palast steht in gotischem Stil mit unverputzter Steinfassade',
+      treppe: 'Der Palast hat drei Geschosse, bekrönt von einem Ballatoio auf Konsolen',
+      aussenwand: 'Die Fassade aus Pietra forte ist nicht verputzt',
+      fenster: 'Die Rundbogenfenster sitzen an Gesimsbändern; bei der Wiederherstellung im 19. Jahrhundert wurden die Mezzaninfenster geschlossen',
+      kranzgesims: 'Das Ballatoio auf Konsolen schließt die drei Geschosse ab',
+      hofwaende: 'Der Hof ist in der Quelle nicht beschrieben; sein Umriss stammt aus OpenStreetMap',
+      hoffenster: 'Die Fenster des Hofs folgen hier dem Raster der Straßenfassaden',
+      geschossboeden: 'Die Privatkapelle mit Fresken von Poccetti wurde in den Palast versetzt, als eine ältere Kapelle abgerissen wurde',
+      decke: 'Die Stuckaturen von Foggini und Merlini entstanden unter der Familie Feroni',
+      dach: 'Ein Kranz guelfischer Zinnen gibt dem Palast das Aussehen einer Festung'
     }
   }
 };

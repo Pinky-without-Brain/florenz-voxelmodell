@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände aus Pietra forte, Fenster, Kranzgesims",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick und bestehen außen aus unverputztem Pietra-forte-Bruchstein mit Bändern aus behauener Pietra forte (jede vierte Lage); innen Putz.",
+      "tip": "Jede vierte Lage ist behauene Pietra forte, dazwischen Bruchstein.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Die Fassade aus Pietra forte ist nicht verputzt (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster mit Glas im Raster 9; in den beiden Obergeschossen mit einer Mittelsäule als Biforium; die Portale liegen in Fensterachsen.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Die Rundbogenfenster sitzen an Gesimsbändern; bei der Wiederherstellung im 19. Jahrhundert wurden die Mezzaninfenster geschlossen (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Pietra forte bei Y 91 trägt in der Wirklichkeit ein Ballatoio auf Konsolen; hier ein glattes Gesims, darüber der Zinnenkranz.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Das Ballatoio auf Konsolen schließt die drei Geschosse ab (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    }
+  }
+}

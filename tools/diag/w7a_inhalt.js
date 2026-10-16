@@ -45,6 +45,7 @@ function module(id, D, R) {
   m[5] = { title: 'Licht', subtitle: 'Bautüte 5: Seelaternen im Boden', icon: '💡', parts: {
     licht: T('Licht', 'Seelaternen im Boden jedes Raums, höchstens 12 Blöcke voneinander entfernt.', 'Sie ersetzen einzelne Bodenblöcke.', 'Nicht in Türöffnungen setzen.', 'In Minecraft sind Innenräume ohne Lichtquelle dunkel.')
   } };
+  for (const n of Object.keys(m)) for (const k of D.ohne || []) delete m[n].parts[k];   // Bauteile, die der Bauplan dieses Projekts nicht erzeugt
   const mod6 = D.ausstattungModul || 6;
   const teile = {};
   for (const t of R.TEILE) {

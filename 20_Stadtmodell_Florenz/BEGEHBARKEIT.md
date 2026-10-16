@@ -269,3 +269,10 @@ Vier Palazzi an Via Tornabuoni, Piazza San Firenze und Piazza Antinori sind eige
 - **Hoftreppe nach Sangallo:** neun Treppenblöcke (zwei breit) im Nordflügel, Aufstieg nach Westen in Weltachse (der Rahmen ist um 10° gedreht), **Kragstein unter jeder Stufe** (Muster Davanzati), Treppenloch über den oberen Stufen (`extra.vorher` setzt die Stufen und gibt die Zellen vor dem Boden frei). Die Stufen sind erreichbar und haben Kopffreiheit 3 (Test).
 - **Türen der Hofinnenwand:** `hofEntlang` ist an der Innenwand nicht gesetzt; `innenwandTuer` bestimmt die Hofseite aus der Lage zur Hofmitte (eine Tür je Seite).
 - **Stolperfalle:** `K.waende` ersetzt auch Hofwände eines benachbarten Lichthofs und lässt deren Glas allein stehen (R3); `nurTeile` schließt `hofwaende` aus.
+
+### Palazzo Spini Feroni
+`palazzo_spini_feroni` (OSM r4101722, 4.390 Zellen, ein Hof von 19 × 17 Blöcken, aus `quartier_tornabuoni` gelöst), Rahmen θ 122,43° entlang des Borgo Santi Apostoli, `bodenY` 61. R13: 89,8 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 62.154 Blöcke, 7 Module. Test: `tools/test/palazzo_spini_feroni.test.js` (6 Tests).
+- **Pietra-forte-Block mit Zinnen:** Bruchstein außen mit behauenen Bändern, Walmdach mit Zinnenkranz (wie Bargello, Teil `zinnen` im Dach-Modul), drei Geschosse mit Biforien in den Obergeschossen; Portale in Fensterachsen, Portalhöhe 9 (bei Höhe 8 blieb der Fensterscheitel über dem Portal als zwei Blöcke Glas ohne Halt, R3).
+- **Hof ohne Arkaden:** Die Quelle beschreibt keinen Hof; `hof.tiefe: 0` gibt eine geschlossene Hofwand, vier Türen (3 × 5) schneidet `extra.oeffnungen` (Seite aus der Lage zur Hofmitte).
+- **Museum im Erdgeschoss:** Das Museo Ferragamo liegt in Wirklichkeit im Untergeschoss; das Modell hat keins (Abweichung im Katalog).
+- **Stolperfalle:** Ein Altar mit 20 Stehzellen auf Höhe +2 (4 × 5) ist eine nicht erreichbare Komponente (R13-Grenze 20); auf 3 × 5 verkleinert.

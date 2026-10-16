@@ -1,0 +1,57 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Museum und Hof",
+  "subtitle": "Bautüte 6: Androne, Cappella, Säle, Museum Ferragamo und Hof",
+  "icon": "👞",
+  "parts": {
+    "androne": {
+      "title": "Androne",
+      "description": "Eingangshalle hinter dem mittleren Portal am Borgo Santi Apostoli: Schachboden aus Pietra serena und Marmor, Wandfelder mit Wappenschilden in Goldrahmen und ein Hochrelief aus Marmor in der Westwand; eine Tür führt in den Hof.",
+      "tip": "Boden, Wandraster, dann das Relief in die Wand einsetzen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Relief ist nur ein Marmorfeld, Wappen und Lage sind Stufe C.",
+      "fact": "Der Androne zeigt Wappenschmuck und ein Hochrelief von Giuseppe Piamontini von 1705 (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "cappella_poccetti": {
+      "title": "Cappella privata",
+      "description": "Kapelle im Piano nobile des Westflügels: Cottoboden, Wände mit einem Figurenfries in Hellblau, Grün und Gewändern, Altar mit Kreuz und sechs Bänke.",
+      "tip": "Boden und Wandfries zuerst, dann Altar und Bänke.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Szenen sind nur angedeutet; Lage Stufe C.",
+      "fact": "Die Privatkapelle trägt Fresken von Bernardino Poccetti (1609–1612) (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "sala_del_pace": {
+      "title": "Saal mit Fresken (Ranieri del Pace)",
+      "description": "Großer Saal im Piano nobile des Südtrakts: Cottoboden, Wandfelder in Hellblau, Gelb und Weiß mit Goldrahmen und Goldfries, Deckenfresko in Blau mit Goldrippen, Tafel.",
+      "tip": "Die Decke als Fläche unter dem Boden des Obergeschosses.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Deckenbild ist nur angedeutet; Lage Stufe C.",
+      "fact": "Die übrigen Repräsentationsräume sind mit Fresken des 17. und 18. Jahrhunderts von Ranieri del Pace geschmückt (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "museo_ferragamo": {
+      "title": "Museo Salvatore Ferragamo",
+      "description": "Museumshalle im Ostflügel: Schachboden in Schwarz und Weiß, weiße Wände mit bunten Bildfeldern, neun Vitrinen aus dunklem Sockel mit Glashaube.",
+      "tip": "Die Vitrinen sind einen Block hoch plus Glas.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Museum liegt in Wirklichkeit im Untergeschoss; im Modell steht es im Erdgeschoss, weil kein Untergeschoss gebaut wird.",
+      "fact": "Das Museo Salvatore Ferragamo befindet sich seit 1995 im Untergeschoss des Palasts (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "hof_spini": {
+      "title": "Hof",
+      "description": "Offener Hof mit Wegekreuz aus Pietra serena und Schachmuster aus Pflaster und Marmor; vier Türen aus dem Erdgeschoss führen hinein.",
+      "tip": "Erst das Pflaster, dann die Wegestreifen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Arkaden sind nicht belegt und deshalb nicht gebaut.",
+      "fact": "Der Palast ist ein gotischer Bau aus unverputzter Pietra forte (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "panca": {
+      "title": "Steinbank (panca di via)",
+      "description": "Steinbank aus Pietra serena entlang der Straßenfassaden, an den Portalen unterbrochen, eine Lage hoch auf dem Straßenpflaster.",
+      "tip": "Die Bank liegt einen Block hoch auf dem Pflaster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Nur innerhalb des Luftraums von 2 Blöcken und nur, wo das Gelände tiefer liegt.",
+      "fact": "Um das Erdgeschoss läuft eine Steinbank (panca di via) (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

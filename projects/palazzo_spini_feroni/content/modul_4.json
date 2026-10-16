@@ -1,0 +1,22 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Dach und Zinnen",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum (ohne Zugang).",
+      "tip": "Von der Außenkante und der Hofkante steigt das Dach lagenweise an.",
+      "caution": "Der Dachraum hat keinen Zugang.",
+      "fact": "Ein Kranz guelfischer Zinnen gibt dem Palast das Aussehen einer Festung (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    },
+    "zinnen": {
+      "title": "Zinnenkranz",
+      "description": "Auf der Außenkante der Traufe steht ein Kranz aus Zinnen (Pietra forte), vier Lagen hoch, abwechselnd Zinne und Lücke.",
+      "tip": "Zwei Blöcke Zinne, zwei Blöcke Lücke.",
+      "caution": "Der Kranz ist nicht begehbar; dahinter liegt das Dach.",
+      "fact": "Ein Kranz guelfischer Zinnen gibt dem Palast das Aussehen einer Festung (Quelle: it.wikipedia, Palazzo Spini Feroni)."
+    }
+  }
+}
