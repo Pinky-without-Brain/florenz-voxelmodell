@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 263.625 |
+| Blöcke | 263.642 |
 | Bauschritte | 167 |
 | Y-Bereich | 60 bis 103 |
 | X-Ausdehnung | -877 bis -600 (278 Blöcke) |
@@ -30,7 +30,7 @@
 | Glatter Sandstein | `smooth_sandstone` | 13.782 | 5,2 % |
 | Endsteinziegel | `end_stone_bricks` | 11.322 | 4,3 % |
 | Rosa Keramik | `pink_terracotta` | 11.258 | 4,3 % |
-| Glatter Stein | `smooth_stone` | 9.526 | 3,6 % |
+| Glatter Stein | `smooth_stone` | 9.543 | 3,6 % |
 | Graues Buntglas | `gray_stained_glass` | 7.139 | 2,7 % |
 | Tuffstein | `tuff` | 6.826 | 2,6 % |
 | Polierter Andesit | `polished_andesite` | 3.928 | 1,5 % |
@@ -66,7 +66,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w114916779` | Palazzo Buondelmonti | 9.882 | 0.1–0.6 |
+| 1 | `w114916779` | Palazzo Buondelmonti | 9.899 | 0.1–0.6 |
 | 2 | `w114916779_innen` | Palazzo Buondelmonti: Innenausbau | 3.516 | 0.7–0.9 |
 | 3 | `w307174622` | Palazzo Scali-Ricasoli | 11.572 | 0.10–0.16 |
 | 4 | `w307174622_innen` | Palazzo Scali-Ricasoli: Innenausbau | 3.706 | 0.17–0.18 |
@@ -268,7 +268,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 0.5 – Palazzo Buondelmonti – Teil 5/6 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
-- **Blöcke:** 1.869
+- **Blöcke:** 1.886
 - **Bauteile:** `w114916779`
 
 **Teileliste**
@@ -277,7 +277,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 653 |
 | Terrakotta | `terracotta` | 613 |
-| Glatter Stein | `smooth_stone` | 287 |
+| Glatter Stein | `smooth_stone` | 304 |
 | Polierter Andesit | `polished_andesite` | 255 |
 | Graues Buntglas | `gray_stained_glass` | 61 |
 

@@ -262,8 +262,8 @@ Nutzerentscheidung: Welle 7 und Hausakten-Recherche **parallel** (fünf Sonnet-A
 - **Wahrzeichen (elf Projekte, 746.651 neue Blöcke):** W7a Palazzi Gondi, Spini Feroni, Bartolini Salimbeni, Antinori; W7b Sant'Apollonia (Cenacolo Castagno), Loggia dei Servi di Maria, Palazzo Nonfinito; W7c Palazzo dell'Arte della Lana (Brücke zu Orsanmichele endet mit blinder Tür), Museo dell'Opera del Duomo (16 Säle, Sala del Paradiso), Santa Margherita de' Cerchi, Primo Chiostro als Zusatzmaske `primo_chiostro` (drei Rechtecke, 6.569 Zellen) in `cappella_pazzi`. Alle `pflicht`, R13 0 Komponenten, R14 0 Lücken. 14 Hausakten aus sieben Quartieren gelöst (`quartier_strozzi` von W7a und W7c, nach dem Merge neu gebaut). `vorrang.json` 71 IDs.
 - **Hausakten-Recherche R1 (129 Akten, 20 Quartiere):** R1a Osten/Norden 71, R1b Oltrarno/Westen 58; jetzt 146 Akten mit `quelle: recherche` (it.wikipedia), Quellenlisten `projects/<quartier>/docs/QUELLEN_HAUSAKTEN.md`; R11 0 Fehler. Schema-Grenzen: ≤ 15 Achsen, kein Kuppeldach, `extras` nur dokumentarisch. Welle-8-Kandidaten in UEBERSICHT_WELLE7 §7.
 - **Werkzeuge:** `palazzo.js` `portikus.entlang` (Bogenachse), `tools/diag/w7a_inhalt.js`, `w7b_inhalt.js`.
-- **Integration:** `besitz.js` 38 Projekte, Stadtgrund neu, `webindex.js` 86 Einträge, `--cross` __CROSS__, Tests __TESTS__.
-- **Minecraft-Export (Build-Ordner):** __EXPORT__
+- **Integration:** `besitz.js` 38 Projekte, Stadtgrund neu, `webindex.js` 86 Einträge, `--cross` 86 Projekte, 3.655 Paare, 0 Konflikte (81 min zusammen mit `--all --no-emit`), Tests 639 / 0 / 0 (10,7 min, nach Behebung der sechs Bank-Doppelbelegungen).
+- **Minecraft-Export (Build-Ordner):** 1.017 s (parallel zu Tests und Cross-Lauf), 86 Projekte, **105.257.061 Projektblöcke**, 2.780 Straßenschilder, 78.496 Chunks, db 57,5 MB, Heap 2,5 GB; als `florenz_voxelmodell_2026-10-17_w7.mcworld` an den Nutzer.
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.

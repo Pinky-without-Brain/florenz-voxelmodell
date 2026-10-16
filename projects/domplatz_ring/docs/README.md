@@ -4,7 +4,7 @@
 
 *Projekt `domplatz_ring`, Art: quartier*
 
-**Statistik (generiert):** 2.238.597 Blöcke in 1.423 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.236.204 Blöcke in 1.421 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -554 bis 322, Y 60 bis 120, Z -367 bis 363.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -28,19 +28,19 @@ Ausdehnung des Modells: X -554 bis 322, Y 60 bis 120, Z -367 bis 363.
 | 16 | Isolato I0541 – Via del Proconsolo | 113.961 | 72 | [BAUANLEITUNG_MODUL_16.md](BAUANLEITUNG_MODUL_16.md) |
 | 17 | Isolato I0542 – Piazza del Duomo | 20.461 | 11 | [BAUANLEITUNG_MODUL_17.md](BAUANLEITUNG_MODUL_17.md) |
 | 18 | Isolato I0552 – Via Maurizio Bufalini | 164.528 | 102 | [BAUANLEITUNG_MODUL_18.md](BAUANLEITUNG_MODUL_18.md) |
-| 19 | Isolato I0582 – Via del Proconsolo | 91.340 | 55 | [BAUANLEITUNG_MODUL_19.md](BAUANLEITUNG_MODUL_19.md) |
+| 19 | Isolato I0582 – Via del Proconsolo | 88.947 | 53 | [BAUANLEITUNG_MODUL_19.md](BAUANLEITUNG_MODUL_19.md) |
 | 20 | Isolato I0590 – Via dei Servi | 64.445 | 37 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
-| | **Summe** | **2.238.597** | **1.423** | |
+| | **Summe** | **2.236.204** | **1.421** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 814.664 | 36,4 % |
+| Terrakotta | `terracotta` | 814.915 | 36,4 % |
 | Polierter Tuffstein | `polished_tuff` | 229.011 | 10,2 % |
 | Rosa Keramik | `pink_terracotta` | 160.506 | 7,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 156.860 | 7,0 % |
-| Weißer Beton | `white_concrete` | 144.672 | 6,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 155.319 | 6,9 % |
+| Weißer Beton | `white_concrete` | 143.562 | 6,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 129.858 | 5,8 % |
 | Endsteinziegel | `end_stone_bricks` | 103.662 | 4,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 100.833 | 4,5 % |
@@ -52,13 +52,13 @@ Ausdehnung des Modells: X -554 bis 322, Y 60 bis 120, Z -367 bis 363.
 | Ziegelsteine | `bricks` | 18.628 | 0,8 % |
 | Grüner Beton | `green_concrete` | 13.007 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 10.696 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 9.048 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 9.055 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 5.369 | 0,2 % |
 | Seelaterne | `sea_lantern` | 4.505 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.186 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.170 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2.078 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2.052 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.200 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.156 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2.104 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2.026 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 1.573 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 1.573 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 594 | 0,0 % |

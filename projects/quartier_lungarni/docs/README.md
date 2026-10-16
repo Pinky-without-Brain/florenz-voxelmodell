@@ -4,19 +4,19 @@
 
 *Projekt `quartier_lungarni`, Art: quartier*
 
-**Statistik (generiert):** 975.217 Blöcke in 616 Bauschritten, 7 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 975.234 Blöcke in 616 Bauschritten, 7 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -877 bis 136, Y 59 bis 122, Z 693 bis 1403.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
-| 0 | Isolato I0393 – Borgo Santi Apostoli | 263.625 | 167 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
+| 0 | Isolato I0393 – Borgo Santi Apostoli | 263.642 | 167 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
 | 1 | Isolato I0399 – Borgo Santi Apostoli | 266.287 | 168 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
 | 2 | Isolato I0423 – Chiasso delle Misure | 139.632 | 91 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0440 – Via dei Bardi | 26.683 | 15 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Isolato I0526 – Via dei Castellani | 109.728 | 65 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Isolato I0534 – Via dell'Osteria del Guanto | 107.447 | 67 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
 | 6 | Isolato I0536 – Via dei Saponai | 61.815 | 43 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
-| | **Summe** | **975.217** | **616** | |
+| | **Summe** | **975.234** | **616** | |
 
 ## Gesamt-Stückliste
 
@@ -31,7 +31,7 @@ Ausdehnung des Modells: X -877 bis 136, Y 59 bis 122, Z 693 bis 1403.
 | Gelbe Keramik | `yellow_terracotta` | 54.822 | 5,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 51.453 | 5,3 % |
 | Rosa Keramik | `pink_terracotta` | 48.886 | 5,0 % |
-| Glatter Stein | `smooth_stone` | 40.193 | 4,1 % |
+| Glatter Stein | `smooth_stone` | 40.210 | 4,1 % |
 | Tuffstein | `tuff` | 34.164 | 3,5 % |
 | Graues Buntglas | `gray_stained_glass` | 25.096 | 2,6 % |
 | Polierter Andesit | `polished_andesite` | 19.837 | 2,0 % |
