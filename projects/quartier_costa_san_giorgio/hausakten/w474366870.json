@@ -1,7 +1,7 @@
 {
   "id": "w474366870",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "mittelalterliche Kirche; Innenraum 1705-08 (Foggini)",
   "geschosse": [
     {
       "art": "eg",
@@ -19,8 +19,8 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 3,
-    "material": "putz",
-    "putzfarbe": "sand",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_giebel",
       "portalBreiteBl": 7,
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "filaretto_1954_freigelegt",
+      "glockenaufsatz"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_alla_Costa",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Kirche mit Fassadenmauerwerk in Filaretto, 1954 unter dem Putz wiederentdeckt; Innenraum einschiffig mit Nonnenchor über dem Vorraum, 1705-08 von Foggini umgestaltet. Annahme: Glockenaufsatz und Portalform nicht belegt.",
   "name": "Chiesa di San Giorgio alla Costa"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w307129124",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "mittelalterlich (Altafronte bis 1180); Graffiti 1572-74 verloren; Putz 1883 entfernt",
   "geschosse": [
     {
       "art": "eg",
@@ -19,8 +19,8 @@
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "ocker",
+    "material": "bruchstein",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 7,
@@ -35,15 +35,19 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "graffito_poccetti_verloren",
+      "wappen_medici_ueber_fenster_1og",
+      "sichtmauerwerk_1883"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Castello_d'Altafronte",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Altes Castello; Graffiti Poccettis (1572-74) heute verloren, Medici-Wappen über dem Fenster des 1. OG, 1883 Putz und Graffiti der oberen Geschosse entfernt, Mauerwerk freigelegt. Annahme: Details der Fenster und des EG.",
   "name": "Castello d'Altafronte"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w306811250",
   "typ": "chiesa_minore",
-  "epoche": "Mittelalter bis Neuzeit",
+  "epoche": "romanische Gründung; Vorhalle 1580 (Radi)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,18 @@
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "vorhalle_1580_aus_san_donato_in_scopeto",
+      "apsis_auf_sporti_ueber_dem_arno"
+    ]
   },
   "dach": {
     "form": "sattel",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ chiesa_minore nach Name/Tags (Kirche); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_Soprarno",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia: Alte Kirche mit vorgesetzter Vorhalle aus romanischen Teilen von San Donato in Scopeto (1580, Bernardino Radi), Apsis ragt auf Sporti über das Arnoufer. Annahme: Fassadenmaterial und Fensterform bleiben typologisch.",
   "name": "Chiesa di San Jacopo Soprarno"
 }
