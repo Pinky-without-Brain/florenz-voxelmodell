@@ -38,6 +38,31 @@ Nachbarn, die **nicht** Teil der Projekte werden (bleiben Häuser): Seminario Ma
 ## 4. Integration (nach den Paketen)
 `w6-*` nach `claude/welle6` mergen (Konflikte erwartet nur in `vorrang.json` und `BEGEHBARKEIT.md`) → `node tools/city/besitz.js <neue und geänderte Projekte>` → `node tools/build.js --project stadtgrund` → `node tools/emit/webindex.js` → `node tools/build.js --all --cross --no-emit` (Hintergrund) → Tests → Minecraft-Export in den Build-Ordner → Statistik → Abschnitte 5 und 6 hier, Übergabe → PR nach `main` (Merge nur mit Freigabe des Nutzers).
 
-## 5. Projekte (gemessen) – wird nach der Integration ausgefüllt
+## 5. Projekte (gemessen, Integration 16.10.2026 abends)
 
-## 6. Offene Punkte – wird nach der Integration ausgefüllt
+Alle neun Projekte stehen auf `"begehbarkeit": "pflicht"`: R13 0 nicht erreichbare Komponenten, R14 0 Lücken. Der nicht erreichbare Rest der Raumzellen sind deklarierte Dach- und Gewölberäume.
+
+| Projekt | Paket | `bodenY` | Rahmen (ox \| oz; θ) | Zellen | Blöcke | Module | R13 erreichbar | Tests |
+|---|---|---:|---|---:|---:|---:|---:|---:|
+| `san_frediano_in_cestello` | W6a | 58 | (−2020 \| 706,5; 107,2°) | 5.610 | 60.865 | 6 | 60,3 % | 6 |
+| `san_gaetano` | W6a | 64 | (−774 \| 193; 179,04°) | 4.970 | 59.847 | 6 | 65,2 % | 6 |
+| `santa_maria_maggiore` | W6a | 63 | (−663,5 \| −45; 0°) | 2.604 | 31.434 | 6 | 57,1 % | 7 |
+| `santi_apostoli` | W6a | 59 | (−774 \| 866; 20°) | 1.127 | 10.683 | 5 | 94,5 % | 5 |
+| `cappella_pazzi` | W6b | 61 | (873,25 \| 975; 28,4°, wie `santa_croce`) | 26.180 + 1.624 (Maske `kapelle`) | 219.672 | 10 | 80,0 % | 6 |
+| `santo_stefano_al_ponte` | W6b | 64 | (−435 \| 974; 23,1°) | 3.460 | 41.111 | 5 | 98,2 % | 6 |
+| `san_firenze` | W6c | 62 | (137,5 \| 821; −75,2°) | 9.668 + 2.981 (`kirche`) + 1.947 (`oratorium`) | 188.910 | 12 | 90,6 % | 7 |
+| `palazzo_arcivescovile` | W6c | 64 | (−399 \| −54,5; 93,7°) | 7.432 | 98.847 | 7 | 85,4 % | 6 |
+| `loggia_del_pesce` | W6c | 64 | (1258,5 \| 358; −2,24°) | 769 | 5.726 | 6 | 100 % | 6 |
+
+Summe der neun Projekte: **717.095 Blöcke**. Aus den Quartieren gelöst (Hausakten gelöscht, Quartiere neu gebaut): `quartier_san_frediano` (2), `quartier_strozzi`, `quartier_san_lorenzo` (2, von W6a und W6c; nach dem Merge erneut gebaut), `quartier_lungarni`, `quartier_tintori` (2), `quartier_costa_san_giorgio`, `quartier_proconsolo` (3), `quartier_sant_ambrogio`. `vorrang.json`: 60 IDs. Besitzraster für 17 Projekte neu (78 s), Stadtgrund neu (20,8 min, OK), Projektindex 76 Einträge. Projektübergreifende Prüfung und Gesamttests: siehe `UEBERGABE_V3.md`, Abschnitt W6.
+
+Neue oder erweiterte Werkzeuge: `tools/wahrzeichen/kirche.js` (W6a, Hilfsfunktionen für Kirchenpläne, additiv); `tools/wahrzeichen/palazzo.js` Option `fenster.aus(c)` (W6c, Fenster je Zelle unterdrücken). Erfahrungen: `BEGEHBARKEIT.md` §18–§20.
+
+Abweichungen vom Plan (§1/§2): San Firenze führt den Palast als Hauptmaske, Kirche und Oratorium als Zusatzmasken (sonst baut `palazzo.js` alles als Palast); bei `cappella_pazzi` ist die Kapelle Zusatzmaske aus demselben Grund. Der Primo Chiostro von Santa Croce ist in OSM kein Polygonloch, sondern freie Fläche des Stadtgrunds und deshalb nicht gebaut (Portale und Kapelle öffnen sich darauf). Santo Stefano: Treppe von Buontalenti (1574), nicht Tacca.
+
+## 6. Offene Punkte
+- **Stufe C bei allen Höhen:** Keine der Quellen nennt Gebäudehöhen; alle Höhen sind Proportionsschätzungen. Raumaufteilungen in den Konventen (San Firenze, Santa Croce) dienen der Begehbarkeit.
+- **Campanili:** Cestello und San Gaetano Lage und Höhe Stufe C; Santa Maria Maggiore nur Stumpf (Glockenstube 1630 abgetragen, belegt); Santi Apostoli: Turm von Baccio d'Agnolo belegt, aber ohne Lage und Maße, nicht gebaut; Santo Stefano: kein Beleg, nicht gebaut.
+- **Nicht gebaut (belegt, aber ohne Lage oder außerhalb des Umrisses):** Konvent von Cestello (Seminario Maggiore bleibt Haus), Kreuzgang hinter Santa Maria Maggiore, Freitreppe vor San Gaetano, Krypta und Kreuzgang von Santo Stefano, Primo Chiostro von Santa Croce (Stadtgrund-Fläche; mögliche Erweiterung: Arkaden als Flächenmaske), Palasttreppe, Serliana und Loggia des Arcivescovile, Sakristei und Orgel von San Filippo Neri, Medaillons und Zuganker der Loggia del Pesce.
+- **Fassadenschmuck** (Statuen San Gaetano, Fensterbekrönungen Arcivescovile, Graffiti am Secondo Chiostro) fehlt.
+- Loggia del Pesce ist 14 Lagen hoch statt der OSM-Schätzung 10 (Gewölbe und Walmdach brauchen die Höhe).

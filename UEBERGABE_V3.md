@@ -1,6 +1,6 @@
 # Übergabe V3 – Stadtmodell Florenz (laufendes Protokoll)
 
-**Stand:** 15. Oktober 2026 · **Branch:** `claude/lucid-thompson-gb03b1`
+**Stand:** 16. Oktober 2026 (abends) · **Branch:** `claude/welle6` (PR nach `main` folgt) · Wahrzeichen der Wellen 3–6 stehen in den Übersichten `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE3.md`, `_WELLE5.md`, `_WELLE6.md`
 **Zweck:** Eine neue Claude-Instanz soll hier nahtlos weiterarbeiten. Dieses Protokoll wird nach jedem abgeschlossenen Arbeitspaket fortgeschrieben (Abschnitt 4 und 5).
 **Vorgänger:** `UEBERGABE_V2.md` (Dom, V2), `20_Stadtmodell_Florenz/STADTMODELL_PLAN.md` (Programmplan V3, Phasen A–G).
 
@@ -44,6 +44,9 @@ Hinweis: Nach Modelländerungen meldet `--no-emit` R9-Fehler (Doku veraltet). Ei
 | `santa_croce` | Wahrzeichen (Basilika, Campanile) | 269.988 | **pflicht**, 89,7 %, 0 Komponenten, R14 0 | W8 (14.10.) |
 | `san_lorenzo` | Wahrzeichen (Basilika, Sakristeien, Cappella dei Principi mit Krypta) | 307.968 | **pflicht**, 70,8 %, 0 Komponenten, R14 0 | W9 (14.10.) |
 | `santa_maria_novella` | Wahrzeichen (Basilika, Alberti-Fassade, Campanile 68 m) | 218.670 | **pflicht**, 52,5 %, 0 Komponenten, R14 0 | W10 (15.10.) |
+| `san_frediano_in_cestello`, `san_gaetano`, `santa_maria_maggiore`, `santi_apostoli` | Wahrzeichen (Kirchen, Welle 6a) | 60.865 / 59.847 / 31.434 / 10.683 | **pflicht**, 0 Komponenten, R14 0 | W6 (16.10.) |
+| `cappella_pazzi`, `santo_stefano_al_ponte` | Wahrzeichen (Kapelle mit Konvent und Kreuzgängen; Kirche, Welle 6b) | 219.672 / 41.111 | **pflicht**, 0 Komponenten, R14 0 | W6 (16.10.) |
+| `san_firenze`, `palazzo_arcivescovile`, `loggia_del_pesce` | Wahrzeichen (Barockkomplex, Palast, Loggia, Welle 6c) | 188.910 / 98.847 / 5.726 | **pflicht**, 0 Komponenten, R14 0 | W6 (16.10.) |
 | `quartier_signoria` | Quartier (182 Häuser, Isolati der Kacheln 98, 99, 113) | 1.919.119 | **pflicht**, 98,3 %, 0 Komponenten | E1 erledigt (14.10.) |
 | `quartier_lungarni` | Quartier (103 Häuser, Kacheln 112, 128, 129) | 983.961 | **pflicht**, 98,9 %, 0 Komponenten | E2 erledigt (14.10.) |
 | `quartier_proconsolo` | Quartier (134 Häuser, Kacheln 84, 115) | 1.110.364 | **pflicht**, 99 %, 0 Komponenten | E2 erledigt (14.10.) |
@@ -243,12 +246,21 @@ Nutzerwunsch: San Marco, Ognissanti, Santa Felicita, Palazzo Davanzati, Loggia d
 - Integration: `besitz.js` für 11 Projekte, Stadtgrund neu (19,6 min, OK), `webindex.js` 67 Einträge, `--cross` 67 Projekte / 2.211 Paare / 0 Konflikte (6,4 min), Tests 522 / 0 / 0 (7,2 min).
 - Minecraft-Export (Build-Ordner): 477 s, 67 Projekte, **104.744.751 Projektblöcke**, 2.821 Schilder, db 57,2 MB; `.mcworld` und Statistik-PDF an den Nutzer.
 
+### W6 Wahrzeichen-Welle 6 (lokale Sitzung 16.10.2026 abends, Zweig `claude/welle6`) – **erledigt**
+Nutzerwunsch: die bedeutendsten noch generischen Gebäude als Wahrzeichen. Neun Projekte in drei Paketen (W6a Kirchen: San Frediano in Cestello, San Gaetano, Santa Maria Maggiore, Santi Apostoli; W6b: Cappella de' Pazzi mit Konvent und Kreuzgängen von Santa Croce, Santo Stefano al Ponte; W6c: Complesso di San Firenze, Palazzo Arcivescovile, Loggia del Pesce), zusammen **717.095 Blöcke**, alle `pflicht` mit R13 0 Komponenten und R14 0 Lücken. Zahlen, Abweichungen und offene Punkte: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE6.md` §5/§6; Erfahrungen `BEGEHBARKEIT.md` §18–§20.
+- **Agenten-Worktrees:** Von Hand angelegte Worktrees sind für Agenten schreibgesperrt (Harness); Agenten brauchen die Worktree-Isolierung des Agent-Werkzeugs (eigener Zweig `worktree-agent-<id>`, abgezweigt vom HEAD der Sitzung, hier `main` → Plan-Commit per `git merge --ff-only claude/welle6` nachgeholt).
+- Aus acht Quartieren gelöst (14 Hausakten); `quartier_san_lorenzo` wurde von W6a und W6c angefasst und nach dem Merge erneut gebaut. `vorrang.json` 60 IDs.
+- Integration: `besitz.js` für 17 Projekte (78 s), Stadtgrund neu (20,8 min, OK), `webindex.js` 76 Einträge, `--cross` 76 Projekte, 2.850 Paare, 0 Konflikte (61 min zusammen mit `--all --no-emit`), Tests 577 / 0 / 0 (9,8 min).
+- Werkzeuge: neu `tools/wahrzeichen/kirche.js` (additiv), `palazzo.js` Option `fenster.aus(c)`.
+- Minecraft-Export (Build-Ordner): 537 s, 76 Projekte, **104.908.682 Projektblöcke**, 2.799 Straßenschilder, 78.496 Chunks, db 57,4 MB, Heap 2,3 GB; als `florenz_voxelmodell_2026-10-16_w6.mcworld` an den Nutzer.
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
 3. ~~Wahrzeichen Welle 3/4~~ (15.10. alle gebaut), ~~Innenräume der Palazzi, Bargello-Freitreppe, Campanili San Lorenzo/Annunziata~~ (V5). Offen: 2. OG der Palazzi ausstatten, eiserne Brüstung der Vespucci-Brücke (keine Gitter in der Palette).
 4. ~~Palazzo Pitti~~ (W7), ~~Bilderfelder im Corridoio Oltrarno, Grotta del Buontalenti~~ (V5c).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
+6. ~~Wahrzeichen Welle 5~~ (W5), ~~Welle 6~~ (W6, 76 Projekte). Offen danach: Primo Chiostro von Santa Croce (Stadtgrund-Fläche, mögliche Flächenmaske), Konvent von Cestello, weitere benannte Gebäude (noch 462 Hausakten mit OSM-Namen, alle typologisch), Hangterrassierung, Palazzi 2. OG, Vespucci-Brüstung.
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).
