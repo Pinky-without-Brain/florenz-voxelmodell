@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.427 |
+| Blöcke | 5.260 |
 | Bauschritte | 5 |
 | Y-Bereich | 61 bis 81 |
-| X-Ausdehnung | -971 bis -875 (97 Blöcke) |
-| Z-Ausdehnung | 728 bis 839 (112 Blöcke) |
-| Kleinster Schritt | 479 Blöcke (Schritt 6.1) |
-| Mittlerer Schritt | 1.085 Blöcke |
+| X-Ausdehnung | -971 bis -876 (96 Blöcke) |
+| Z-Ausdehnung | 731 bis 839 (109 Blöcke) |
+| Kleinster Schritt | 339 Blöcke (Schritt 6.5) |
+| Mittlerer Schritt | 1.052 Blöcke |
 | Größter Schritt | 1.765 Blöcke (Schritt 6.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 820 | 15,1 % |
-| Goldblock | `gold_block` | 766 | 14,1 % |
-| Polierter Tiefenschiefer | `polished_deepslate` | 677 | 12,5 % |
-| Glatter Stein | `smooth_stone` | 585 | 10,8 % |
-| Terrakotta | `terracotta` | 535 | 9,9 % |
-| Hellblaue Keramik | `light_blue_terracotta` | 467 | 8,6 % |
-| Weiße Keramik | `white_terracotta` | 436 | 8,0 % |
-| Polierter Tuffstein | `polished_tuff` | 398 | 7,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 258 | 4,8 % |
+| Glatter Quarzblock | `smooth_quartz` | 820 | 15,6 % |
+| Goldblock | `gold_block` | 766 | 14,6 % |
+| Polierter Tiefenschiefer | `polished_deepslate` | 677 | 12,9 % |
+| Terrakotta | `terracotta` | 535 | 10,2 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 467 | 8,9 % |
+| Weiße Keramik | `white_terracotta` | 436 | 8,3 % |
+| Glatter Stein | `smooth_stone` | 418 | 7,9 % |
+| Polierter Tuffstein | `polished_tuff` | 398 | 7,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 258 | 4,9 % |
 | Blaue Keramik | `blue_terracotta` | 133 | 2,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 102 | 1,9 % |
 | Graues Buntglas | `gray_stained_glass` | 91 | 1,7 % |
@@ -48,7 +48,7 @@
 | 3 | `sala_del_pace` | Saal mit Fresken (Ranieri del Pace) | 1.631 | 6.3 |
 | 4 | `museo_ferragamo` | Museo Salvatore Ferragamo | 1.765 | 6.4 |
 | 5 | `hof_spini` | Hof | 307 | 6.5 |
-| 6 | `panca` | Steinbank (panca di via) | 180 | 6.5 |
+| 6 | `panca` | Steinbank (panca di via) | 13 | 6.5 |
 | 7 | `licht_ausstattung` | Licht in den Räumen | 19 | 6.5 |
 
 ## Bauschritte
@@ -201,16 +201,16 @@ Das Museo Salvatore Ferragamo befindet sich seit 1995 im Untergeschoss des Palas
 ### Schritt 6.5 – Hof & Steinbank (panca di via) & Licht in den Räumen
 
 - **Y-Bereich:** 61 bis 72
-- **Blöcke:** 506
+- **Blöcke:** 339
 - **Bauteile:** `hof_spini`, `panca`, `licht_ausstattung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 257 |
 | Polierter Tuffstein | `polished_tuff` | 117 |
 | Glatter Quarzblock | `smooth_quartz` | 113 |
+| Glatter Stein | `smooth_stone` | 90 |
 | Seelaterne | `sea_lantern` | 19 |
 
 **Beschreibung**

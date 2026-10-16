@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.351 |
+| Blöcke | 7.344 |
 | Bauschritte | 6 |
 | Y-Bereich | 63 bis 81 |
 | X-Ausdehnung | 34 bis 101 (68 Blöcke) |
-| Z-Ausdehnung | 728 bis 802 (75 Blöcke) |
+| Z-Ausdehnung | 731 bis 802 (72 Blöcke) |
 | Kleinster Schritt | 560 Blöcke (Schritt 6.1) |
-| Mittlerer Schritt | 1.225 Blöcke |
+| Mittlerer Schritt | 1.224 Blöcke |
 | Größter Schritt | 1.778 Blöcke (Schritt 6.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock | `smooth_quartz` | 1.209 | 16,4 % |
-| Glatter Stein | `smooth_stone` | 1.144 | 15,6 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.209 | 16,5 % |
+| Glatter Stein | `smooth_stone` | 1.137 | 15,5 % |
 | Goldblock | `gold_block` | 1.021 | 13,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 874 | 11,9 % |
 | Terrakotta | `terracotta` | 869 | 11,8 % |
@@ -61,7 +61,7 @@
 | 8 | `sala_paesaggi` | Sala dei Paesaggi | 640 | 6.4 |
 | 9 | `sala_giove_ebe` | Sala di Giove ed Ebe | 1.420 | 6.5 |
 | 10 | `alkoven` | Alkoven von 1710 | 1.348 | 6.6 |
-| 11 | `panca` | Sockelbank (panca di via) | 40 | 6.6 |
+| 11 | `panca` | Sockelbank (panca di via) | 33 | 6.6 |
 | 12 | `licht_ausstattung` | Licht in den Räumen | 18 | 6.6 |
 
 ## Bauschritte
@@ -250,7 +250,7 @@ Die Sala di Giove ed Ebe gehört zu den Räumen des Piano nobile (Quelle: it.wik
 ### Schritt 6.6 – Alkoven von 1710 & Sockelbank (panca di via) & Licht in den Räumen
 
 - **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.406
+- **Blöcke:** 1.399
 - **Bauteile:** `alkoven`, `panca`, `licht_ausstattung`
 
 **Teileliste**
@@ -264,7 +264,7 @@ Die Sala di Giove ed Ebe gehört zu den Räumen des Piano nobile (Quelle: it.wik
 | Rote Keramik | `red_terracotta` | 85 |
 | Weiße Keramik | `white_terracotta` | 82 |
 | Glatter Quarzblock | `smooth_quartz` | 44 |
-| Glatter Stein | `smooth_stone` | 40 |
+| Glatter Stein | `smooth_stone` | 33 |
 | Seelaterne | `sea_lantern` | 18 |
 
 **Beschreibung**

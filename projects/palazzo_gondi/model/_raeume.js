@@ -6,6 +6,19 @@
 const { kit, typen, schach, kassette, hash } = require('../../../tools/wahrzeichen/palazzo_raum.js');
 const WZ = require('../../../tools/wahrzeichen');
 const GRUND = require('../spec/ground.js');
+const { umfeldVon } = require('../../../tools/city/umfeld.js');
+const UMFELD = umfeldVon(JSON.parse(require('node:fs').readFileSync(require('node:path').join(__dirname, '..', '..', '..', 'data', 'stadt', 'flaechen.json'), 'utf8')));
+const MASKE = WZ.ladeMasken(JSON.parse(require('node:fs').readFileSync(require('node:path').join(__dirname, '..', 'project.json'), 'utf8')), { dir: require('node:path').resolve(__dirname, '..') }).alle;
+// Fremde Gebäude (gebaeude.json) im Umfeld der Maske: Straßenpolygone überlappen dort teils Hausgrundrisse, deshalb genügt die Flächenklasse nicht
+const FREMDE = (() => { const PO = require('../../../tools/city/poly.js'); const g = JSON.parse(require('node:fs').readFileSync(require('node:path').join(__dirname, '..', '..', '..', 'data', 'stadt', 'gebaeude.json'), 'utf8')).gebaeude;
+  const xs = MASKE.cells.map((c) => c[0]), zs = MASKE.cells.map((c) => c[1]); const x0 = Math.min(...xs) - 6, x1 = Math.max(...xs) + 6, z0 = Math.min(...zs) - 6, z1 = Math.max(...zs) + 6;
+  const out = []; for (const b of g) { const r = b.polygon && b.polygon.aussen && b.polygon.aussen[0]; if (!r) continue; const bx = r.map((p) => p[0]), bz = r.map((p) => p[1]);
+    if (Math.max(...bx) < x0 || Math.min(...bx) > x1 || Math.max(...bz) < z0 || Math.min(...bz) > z1) continue; out.push(PO.normalize(b.polygon)); }
+  return { PO, out }; })();
+const inFremdemGebaeude = (x, z) => FREMDE.out.some((poly) => FREMDE.PO.contains(poly, x + 0.5, z + 0.5));
+const strasseOderEigen = (x, z) => { if (MASKE.innen(x, z)) return true; const k = UMFELD.klasse(x, z); return (k === 'strasse' || k === 'platz') && !inFremdemGebaeude(x, z); };
+// Bank nur auf Straßen-/Platzzellen, und nur, wenn im Umkreis von 2 Blöcken kein fremdes Gebäude liegt (Nachbarhäuser bauen Eingangsstufen auf die Straße)
+const aufStrasse = (x, z) => { if (!strasseOderEigen(x, z) || MASKE.innen(x, z)) return false; for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) if (!strasseOderEigen(x + dx, z + dz)) return false; return true; };
 
 const PORTALE = [{ u: 8.7, w: 0, breite: 7, hoehe: 8 }, { u: 28.7, w: 0, breite: 7, hoehe: 8 }, { u: 48.7, w: 0, breite: 7, hoehe: 8 }];
 const TREPPE = { u: 48, w: 50 };                                    // Wendeltreppe im Südwestraum (Aufstieg zum 2. Obergeschoss)
@@ -119,6 +132,7 @@ function ausstatten(api) {
     for (const p of K.aussenZellen()) {
       if (p.w > 3 || p.u < -1 || p.u > 74 || nahPortal(p)) continue;
       if (GRUND.groundTopY(p.x, p.z) >= Y(1)) continue;
+      if (!aufStrasse(p.x, p.z)) continue;
       set(p.x, Y(1), p.z, t.serena, 'panca');
     }
   }

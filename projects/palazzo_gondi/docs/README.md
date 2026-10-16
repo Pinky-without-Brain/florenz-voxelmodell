@@ -4,8 +4,8 @@
 
 *Projekt `palazzo_gondi`, Art: wahrzeichen*
 
-**Statistik (generiert):** 43.278 Blöcke in 32 Bauschritten, 7 Module. Maßstab 1:2, 1 Block = 0,5 m.
-Ausdehnung des Modells: X 33 bis 101, Y 63 bis 91, Z 728 bis 802.
+**Statistik (generiert):** 43.271 Blöcke in 32 Bauschritten, 7 Module. Maßstab 1:2, 1 Block = 0,5 m.
+Ausdehnung des Modells: X 33 bis 101, Y 63 bis 91, Z 729 bis 802.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
@@ -15,8 +15,8 @@ Ausdehnung des Modells: X 33 bis 101, Y 63 bis 91, Z 728 bis 802.
 | 3 | Böden und Decke | 10.856 | 8 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Dach | 5.291 | 3 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Licht | 43 | 1 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
-| 6 | Ausgestaltete Räume, Hoftreppe und Hof | 7.351 | 6 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
-| | **Summe** | **43.278** | **32** | |
+| 6 | Ausgestaltete Räume, Hoftreppe und Hof | 7.344 | 6 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
+| | **Summe** | **43.271** | **32** | |
 
 ## Gesamt-Stückliste
 
@@ -25,7 +25,7 @@ Ausdehnung des Modells: X 33 bis 101, Y 63 bis 91, Z 728 bis 802.
 | Weißer Beton | `white_concrete` | 15.575 | 36,0 % |
 | Terrakotta | `terracotta` | 4.866 | 11,2 % |
 | Rosa Keramik | `pink_terracotta` | 3.820 | 8,8 % |
-| Glatter Stein | `smooth_stone` | 3.449 | 8,0 % |
+| Glatter Stein | `smooth_stone` | 3.442 | 8,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.074 | 7,1 % |
 | Glatter Quarzblock | `smooth_quartz` | 2.799 | 6,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.650 | 6,1 % |

@@ -4,8 +4,8 @@
 
 *Projekt `palazzo_spini_feroni`, Art: wahrzeichen*
 
-**Statistik (generiert):** 62.154 Blöcke in 44 Bauschritten, 7 Module. Maßstab 1:2, 1 Block = 0,5 m.
-Ausdehnung des Modells: X -974 bis -875, Y 61 bis 96, Z 728 bis 843.
+**Statistik (generiert):** 61.987 Blöcke in 44 Bauschritten, 7 Module. Maßstab 1:2, 1 Block = 0,5 m.
+Ausdehnung des Modells: X -974 bis -876, Y 61 bis 96, Z 729 bis 843.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
@@ -15,21 +15,21 @@ Ausdehnung des Modells: X -974 bis -875, Y 61 bis 96, Z 728 bis 843.
 | 3 | Böden und Decke | 12.947 | 9 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Dach | 7.346 | 5 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Licht | 57 | 1 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
-| 6 | Ausgestaltete Räume, Museum und Hof | 5.427 | 5 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
-| | **Summe** | **62.154** | **44** | |
+| 6 | Ausgestaltete Räume, Museum und Hof | 5.260 | 5 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
+| | **Summe** | **61.987** | **44** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 25.499 | 41,0 % |
+| Weißer Beton | `white_concrete` | 25.499 | 41,1 % |
 | Tuffstein | `tuff` | 6.394 | 10,3 % |
 | Polierter Andesit | `polished_andesite` | 5.582 | 9,0 % |
 | Terrakotta | `terracotta` | 4.925 | 7,9 % |
 | Rosa Keramik | `pink_terracotta` | 4.447 | 7,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3.016 | 4,9 % |
-| Glatter Quarzblock | `smooth_quartz` | 2.576 | 4,1 % |
-| Glatter Stein | `smooth_stone` | 1.867 | 3,0 % |
+| Glatter Quarzblock | `smooth_quartz` | 2.576 | 4,2 % |
+| Glatter Stein | `smooth_stone` | 1.700 | 2,7 % |
 | Steinziegel | `stone_bricks` | 1.636 | 2,6 % |
 | Goldblock | `gold_block` | 766 | 1,2 % |
 | Polierter Tiefenschiefer | `polished_deepslate` | 677 | 1,1 % |
@@ -39,7 +39,7 @@ Ausdehnung des Modells: X -974 bis -875, Y 61 bis 96, Z 728 bis 843.
 | Rotes Buntglas | `red_stained_glass` | 485 | 0,8 % |
 | Blaues Buntglas | `blue_stained_glass` | 470 | 0,8 % |
 | Hellblaue Keramik | `light_blue_terracotta` | 467 | 0,8 % |
-| Oranges Buntglas | `orange_stained_glass` | 466 | 0,7 % |
+| Oranges Buntglas | `orange_stained_glass` | 466 | 0,8 % |
 | Weiße Keramik | `white_terracotta` | 436 | 0,7 % |
 | Polierter Tuffstein | `polished_tuff` | 398 | 0,6 % |
 | Blaue Keramik | `blue_terracotta` | 133 | 0,2 % |
