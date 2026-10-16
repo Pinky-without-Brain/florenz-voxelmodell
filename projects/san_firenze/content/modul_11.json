@@ -1,0 +1,29 @@
+{
+  "module": 11,
+  "title": "Ausgestaltete Innenräume des Palastes",
+  "subtitle": "Bautüte 11: Eingangshalle und Hof des Konvents",
+  "icon": "🏛️",
+  "parts": {
+    "eingangshalle": {
+      "title": "Eingangshalle",
+      "description": "Die Halle hinter dem Portal zur Piazza San Firenze: Schachboden aus Pietra serena und Marmor mit einem Mittelstreifen, Wandfelder in Weiß und Gelb zwischen Pilastern, Kassettendecke aus Holz und Gold.",
+      "tip": "Boden, Wandfelder, Decke.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Das Aussehen der Halle ist nicht überliefert.",
+      "fact": "Giovanni Filippo Ciocchi baute 1745 bis 1749 mit Zanobi Del Rosso den Konvent der Filippini; später war hier das Gericht (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "hof_san_firenze": {
+      "title": "Großer Hof",
+      "description": "Das Pflaster des großen Hofs im Schachmuster aus Stein und Marmor, durchzogen von einem Kreuz aus Pietra serena.",
+      "tip": "Erst das Kreuz, dann das Schachmuster.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Der Boden des Hofs ist nicht überliefert.",
+      "fact": "Der Palast des Complesso hat zwei Höfe (Quelle: OSM, Relation r4084510, zwei Löcher)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

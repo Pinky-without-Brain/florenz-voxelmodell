@@ -1,0 +1,29 @@
+{
+  "module": 10,
+  "title": "Ausstattung des Oratoriums",
+  "subtitle": "Bautüte 10: Deckenfresko, Wandbilder und Engel",
+  "icon": "🎼",
+  "parts": {
+    "o_deckenfresko": {
+      "title": "Deckenfresko des Oratoriums",
+      "description": "Die flache Decke des Saals als Himmelsfeld mit Goldrand: im Zentrum die weiße Gestalt der Jungfrau auf Blau, ringsum Wolken und Engel in Gelb, Rot und Hellblau, außen Holzrippen.",
+      "tip": "Von der Mitte nach außen bauen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Einzelne Figuren sind nicht erkennbar.",
+      "fact": "Giuliano Traballesi malte 1775 die „Assunzione della Vergine“ an die Decke (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_wandbilder": {
+      "title": "Wandbilder der Emporengeschosse",
+      "description": "Goldgerahmte Bildfelder in Rot, Blau, Grün und Hellblau auf beiden Längswänden und der Rückwand über den Emporen.",
+      "tip": "Die Felder ersetzen Wandblöcke; Rahmen zuerst.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Szenen sind nur als Farbfelder angedeutet.",
+      "fact": "Gesualdo Francesco Ferri malte Geschichten aus dem Leben des heiligen Filippo Neri (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "o_engel": {
+      "title": "Engel an der Empore",
+      "description": "Zwei weiße Engel mit Goldnimbus und Flügeln auf der Brüstung der Rückempore.",
+      "tip": "Je ein Pfeiler aus drei Blöcken, dazu die Flügel.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die genaue Lage ist nicht belegt.",
+      "fact": "Filippo Burci schuf die Engel an den Seiten der Empore (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    }
+  }
+}

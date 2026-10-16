@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln steigt von der Traufe (Y 101) bis Y 106; der Dachraum darunter ist massiv oder unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Das Dach liegt außerhalb des Hofs nicht über freier Luft.",
+      "fact": "Nach dem Brand von 1533 am Baptisterium wurde der Palast ab 1573 wieder aufgebaut (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    }
+  }
+}

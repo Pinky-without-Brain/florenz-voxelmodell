@@ -1,0 +1,14 @@
+{
+  "id": "san_firenze",
+  "title": "Complesso di San Firenze",
+  "type": "wahrzeichen",
+  "gebaeude": ["r4084510"],
+  "bodenY": 62,
+  "rahmen": { "ox": 137.5, "oz": 821, "thetaDeg": -75.2 },
+  "masken": {
+    "kirche": { "gebaeude": ["w361442655"], "abzugHaupt": true, "gelaendeBis": "boden" },
+    "oratorium": { "gebaeude": ["w307129115"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

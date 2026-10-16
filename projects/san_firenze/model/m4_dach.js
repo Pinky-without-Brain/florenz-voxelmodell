@@ -1,0 +1,3 @@
+'use strict';
+// Modul 4: Dach (Katalog §1). Bauplan in tools/wahrzeichen/palazzo.js, Einstellungen in _sf.js.
+module.exports = require('./_sf.js').modul(4, ['dach']);

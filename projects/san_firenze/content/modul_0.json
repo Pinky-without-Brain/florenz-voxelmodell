@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 62, Höfe und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 61, füllst du mit Bruchstein bis Y 61 auf; höher liegendes Gelände wurde bis Y 61 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 61 schon erreicht, bleibt die Spalte leer.",
+      "fact": "1640 schenkte Papst Urban VIII. den Filippinern das Grundstück mit älteren Türmen, Häusern und der Kirche San Firenze (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 62 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor; unter den Hofarkaden liegt Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Der Konvent wurde 1745 bis 1749 von Giovanni Filippo Ciocchi mit Zanobi Del Rosso gebaut (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "hof": {
+      "title": "Höfe",
+      "description": "Der große Hof und der kleine Lichthof bleiben offen; ihr Boden aus Pflaster liegt auf Y 62.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der Palast hat zwei Höfe (Quelle: OSM, Relation r4084510)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt im Westflügel vom Erdgeschoss bis ins oberste Geschoss (Y 92).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei. Lage und Form der Treppen sind Stufe C.",
+      "fact": "Das Gericht der Stadt war bis 2012 hier untergebracht (Quelle: it.wikipedia, Complesso di San Firenze)."
+    }
+  }
+}
