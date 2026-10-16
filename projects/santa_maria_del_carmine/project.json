@@ -5,9 +5,7 @@
   "gebaeude": ["w118425485"],
   "bodenY": 60,
   "rahmen": { "ox": -2055.5, "oz": 1133.75, "thetaDeg": 101.5 },
-  "masken": {
-    "campanile": { "rechtecke": [{ "u": [76, 90], "w": [31, 45] }], "abzugHaupt": true, "gelaendeBis": "boden" }
-  },
+  "masken": {},
   "luftraum": 2,
   "begehbarkeit": "pflicht"
 }

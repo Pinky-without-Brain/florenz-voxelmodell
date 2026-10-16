@@ -9,7 +9,7 @@ Stufen: **A** mehrere Quellen übereinstimmend oder amtliche Quelle, **B** eine 
 |---|---|---|
 | OSM-Objekt | Way **w118425485** „Basilica di Santa Maria del Carmine“ (`building=basilica`), **10.347 Zellen**; Teil w675876434 (Achteck der Vierung) | `data/stadt/gebaeude.json` |
 | Kloster | r1632337 (`building=monastery`) – nicht Teil dieses Projekts (Quartier Carmine) | `gebaeude.json` |
-| Campanile | in den OSM-Daten nicht als eigenes Gebäude erfasst; seit V5b als Annahme (Stufe C) im Kreuzgangshof gebaut (Modul 7), 36 m | `gebaeude.json`; keine Quelle gefunden (siehe Katalog §3) |
+| Campanile | in keiner geprüften Quelle belegt (it/en/de.wikipedia, cultura.gov.it, firenze-oltrarno.net, Commons) und in OSM nicht erfasst – nicht gebaut (V5b geprüft) | `gebaeude.json`, Quellenprüfung 16.10.2026 |
 | **Rahmen `CM`** | Ursprung (**−2055,5 \| 1133,75**) = Mitte der Fassadenlinie, **θ = 101,5°**; **u** von der Fassade (Norden) zum Chor (Süden), **w** quer, w > 0 Westen (Cappella Brancacci), w < 0 Osten (Cappella Corsini) | gefittet an den Langseiten (101,2° und 101,9°) |
 | Gelände | `groundTopY` im Footprint 58–61 (58: 3.561, **59: 5.772**, 60: 815, 61: 199 Zellen); Vorplatz vor dem Portal 60 | `tools/city/ground_stadt.js` |
 | **`bodenY`** | **60** (bündig mit dem Vorplatz) | Entwurf, B |

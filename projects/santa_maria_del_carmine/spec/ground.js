@@ -7,14 +7,11 @@ const WZ = require('../../../tools/wahrzeichen');
 
 const DIR = path.resolve(__dirname, '..');
 const PJ = JSON.parse(fs.readFileSync(path.join(DIR, 'project.json'), 'utf8'));
-let M = null;
-const masken = () => M || (M = WZ.ladeMasken(PJ, { dir: DIR }));
-const innen = (x, z) => masken().alle.innen(x, z);
+let maske = null;
+const innen = (x, z) => (maske || (maske = WZ.ladeMasken(PJ, { dir: DIR }).alle)).innen(x, z);
 
-// Der Campanile (V5b) steht im Kreuzgangshof, sein Boden liegt eine Lage tiefer als die Kirche (Y bodenY − 1, bündig mit dem Hof)
 function groundTopY(x, z) {
   const t = base.groundTopY(x, z);
-  if (masken().masken.campanile.innen(x, z)) return Math.min(t, PJ.bodenY - 2);
   return innen(x, z) ? Math.min(t, PJ.bodenY - 1) : t;
 }
 

@@ -8,30 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.060 |
+| Blöcke | 13.865 |
 | Bauschritte | 7 |
 | Y-Bereich | 59 bis 60 |
 | X-Ausdehnung | -2125 bis -2017 (109 Blöcke) |
 | Z-Ausdehnung | 1130 bis 1311 (182 Blöcke) |
 | Kleinster Schritt | 1.766 Blöcke (Schritt 0.1) |
-| Mittlerer Schritt | 2.009 Blöcke |
+| Mittlerer Schritt | 1.981 Blöcke |
 | Größter Schritt | 2.061 Blöcke (Schritt 0.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein | `smooth_stone` | 5.937 | 42,2 % |
-| Tuffstein | `tuff` | 3.561 | 25,3 % |
-| Glatter Quarzblock | `smooth_quartz` | 3.131 | 22,3 % |
-| Rosa Keramik | `pink_terracotta` | 1.431 | 10,2 % |
+| Glatter Stein | `smooth_stone` | 5.742 | 41,4 % |
+| Tuffstein | `tuff` | 3.561 | 25,7 % |
+| Glatter Quarzblock | `smooth_quartz` | 3.131 | 22,6 % |
+| Rosa Keramik | `pink_terracotta` | 1.431 | 10,3 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `fundament` | Fundament | 3.561 | 0.1–0.2 |
-| 2 | `boden` | Boden | 10.499 | 0.2–0.7 |
+| 2 | `boden` | Boden | 10.304 | 0.3–0.7 |
 
 ## Bauschritte
 
@@ -63,36 +63,35 @@ Wo das Gelände Y 59 schon erreicht, bleibt die Spalte leer.
 
 Die Karmeliter gründeten ihr Kloster hier im 13. Jahrhundert.
 
-### Schritt 0.2 – Fundament – Teil 2/2 (Y 59–59) & Boden – Teil 1/6 (Y 59–59)
+### Schritt 0.2 – Fundament – Teil 2/2 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.990
-- **Bauteile:** `fundament`, `boden`
+- **Blöcke:** 1.795
+- **Bauteile:** `fundament`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.795 |
-| Glatter Stein | `smooth_stone` | 195 |
 
 **Beschreibung**
 
-Unter der ganzen Kirche füllst du das Gelände mit Tuff bis Y 59 auf. Auf Y 60 legst du den Boden: im Schiff und unter der Kuppel ein Schachbrett aus Glattem Stein und hellem Quarz, in den Kapellen rosa Terrakotta, im Chor und in der Cappella Corsini heller Quarz.
+Unter der ganzen Kirche füllst du das Gelände mit Tuff bis Y 59 auf.
 
 **Tipp**
 
-Arbeite Spalte für Spalte. Ein Feld des Schachbretts ist vier Blöcke groß.
+Arbeite Spalte für Spalte.
 
 **Achtung**
 
-Wo das Gelände Y 59 schon erreicht, bleibt die Spalte leer. Die Lichtfelder setzt erst Bautüte 6.
+Wo das Gelände Y 59 schon erreicht, bleibt die Spalte leer.
 
 **Fakt**
 
-Die Karmeliter gründeten ihr Kloster hier im 13. Jahrhundert. Der Boden liegt bündig mit dem Vorplatz zur Piazza del Carmine.
+Die Karmeliter gründeten ihr Kloster hier im 13. Jahrhundert.
 
-### Schritt 0.3 – Boden – Teil 2/6 (Y 60–60)
+### Schritt 0.3 – Boden – Teil 1/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 2.061
@@ -122,7 +121,7 @@ Die Lichtfelder setzt erst Bautüte 6.
 
 Der Boden liegt bündig mit dem Vorplatz zur Piazza del Carmine.
 
-### Schritt 0.4 – Boden – Teil 3/6 (Y 60–60)
+### Schritt 0.4 – Boden – Teil 2/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 2.061
@@ -152,7 +151,7 @@ Die Lichtfelder setzt erst Bautüte 6.
 
 Der Boden liegt bündig mit dem Vorplatz zur Piazza del Carmine.
 
-### Schritt 0.5 – Boden – Teil 4/6 (Y 60–60)
+### Schritt 0.5 – Boden – Teil 3/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 2.060
@@ -182,7 +181,7 @@ Die Lichtfelder setzt erst Bautüte 6.
 
 Der Boden liegt bündig mit dem Vorplatz zur Piazza del Carmine.
 
-### Schritt 0.6 – Boden – Teil 5/6 (Y 60–60)
+### Schritt 0.6 – Boden – Teil 4/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 2.061
@@ -212,7 +211,7 @@ Die Lichtfelder setzt erst Bautüte 6.
 
 Der Boden liegt bündig mit dem Vorplatz zur Piazza del Carmine.
 
-### Schritt 0.7 – Boden – Teil 6/6 (Y 60–60)
+### Schritt 0.7 – Boden – Teil 5/5 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
 - **Blöcke:** 2.061
