@@ -2,7 +2,7 @@
 
 # Materialliste und Blockpalette
 
-Alle 53 erlaubten Vollblocktypen des Modells, gruppiert nach Rolle, dazu 20 Treppenmaterialien mit je 8 Typen (4 Ausrichtungen, jeweils normal und umgedreht; Rolle `treppe`). Das Modell besteht aus 908.560 Blöcken; es werden volle Würfelblöcke und Treppenblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
+Alle 57 erlaubten Vollblocktypen des Modells, gruppiert nach Rolle, dazu 20 Treppenmaterialien mit je 8 Typen (4 Ausrichtungen, jeweils normal und umgedreht; Rolle `treppe`). Das Modell besteht aus 910.236 Blöcken; es werden volle Würfelblöcke und Treppenblöcke verwendet. Quellen: `tools/spec/palette.js`, `webapp/js/data/block-types.js` und die Gesamtzahlen aus dem Build.
 
 Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde di Prato, Rot für Rosso di Maremma. Die Dächer und die Kuppel tragen das Terrakotta-Rot der florentinischen Dachlinie.
 
@@ -10,15 +10,15 @@ Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde d
 
 | Rolle | Blocktypen | Blöcke | Anteil |
 | :--- | ---: | ---: | ---: |
-| Weißer Marmor (Bianco di Carrara) | 2 | 134.914 | 14,8 % |
-| Gemeißelter weißer Marmor | 1 | 10.409 | 1,1 % |
-| Marmorsäulen | 1 | 2.264 | 0,2 % |
+| Weißer Marmor (Bianco di Carrara) | 2 | 135.306 | 14,9 % |
+| Gemeißelter weißer Marmor | 1 | 10.609 | 1,2 % |
+| Marmorsäulen | 1 | 2.284 | 0,3 % |
 | Weißer Marmor, Variante | 1 | 2.944 | 0,3 % |
-| Grüner Marmor (Verde di Prato) | 1 | 41.817 | 4,6 % |
+| Grüner Marmor (Verde di Prato) | 1 | 42.097 | 4,6 % |
 | Roter Marmor (Rosso di Maremma) | 1 | 15.680 | 1,7 % |
 | Roter Marmor, Variante | 1 | 0 | 0,0 % |
-| Mauerwerk | 1 | 335.614 | 36,9 % |
-| Pietra serena | 1 | 207.830 | 22,9 % |
+| Mauerwerk | 1 | 337.470 | 37,1 % |
+| Pietra serena | 1 | 206.534 | 22,7 % |
 | Pietra forte | 1 | 4.127 | 0,5 % |
 | Kuppelziegel | 1 | 59.300 | 6,5 % |
 | Dachziegel | 1 | 56.926 | 6,3 % |
@@ -27,7 +27,7 @@ Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde d
 | Holz | 1 | 130 | 0,0 % |
 | Gold | 1 | 1.793 | 0,2 % |
 | Bronze und Kupfer | 1 | 522 | 0,1 % |
-| Licht | 1 | 384 | 0,0 % |
+| Licht | 1 | 408 | 0,0 % |
 | Buntglas | 6 | 6.106 | 0,7 % |
 | Freskenfarben | 9 | 16.439 | 1,8 % |
 | Putz gelb | 1 | 0 | 0,0 % |
@@ -48,8 +48,9 @@ Die toskanische Farbwelt: Weiß steht für Bianco di Carrara, Grün für Verde d
 | Baumkronen | 1 | 0 | 0,0 % |
 | Baumstämme | 1 | 0 | 0,0 % |
 | Wasser | 1 | 0 | 0,0 % |
-| Treppen | 20 Materialien | 505 | 0,1 % |
-| **Summe** | **53** | **908.560** | **100,0 %** |
+| Treppen | 20 Materialien | 705 | 0,1 % |
+| schild | 4 | 0 | 0,0 % |
+| **Summe** | **57** | **910.236** | **100,0 %** |
 
 ## Weißer Marmor (Bianco di Carrara)
 
@@ -57,7 +58,7 @@ Verkleidung, Pilaster, Rippen und Gesimse. (Rolle `marmor_weiss`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Quarzblock |`smooth_quartz` | 129.077 | 14,2 % |
+| Glatter Quarzblock |`smooth_quartz` | 129.469 | 14,2 % |
 | Quarzziegel |`quartz_bricks` | 5.837 | 0,6 % |
 
 ## Gemeißelter weißer Marmor
@@ -66,7 +67,7 @@ Gesimse, Schlusssteine und Zierbänder. (Rolle `marmor_ornament`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gemeißelter Quarzblock |`chiseled_quartz` | 10.409 | 1,1 % |
+| Gemeißelter Quarzblock |`chiseled_quartz` | 10.609 | 1,2 % |
 
 ## Marmorsäulen
 
@@ -74,7 +75,7 @@ Säulen und Dienste. (Rolle `marmor_saeule`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Quarzsäule |`quartz_pillar` | 2.264 | 0,2 % |
+| Quarzsäule |`quartz_pillar` | 2.284 | 0,3 % |
 
 ## Weißer Marmor, Variante
 
@@ -90,7 +91,7 @@ Streifen, Rauten und Rahmen. (Rolle `marmor_gruen`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Dunkler Prismarin |`dark_prismarine` | 41.817 | 4,6 % |
+| Dunkler Prismarin |`dark_prismarine` | 42.097 | 4,6 % |
 
 ## Roter Marmor (Rosso di Maremma)
 
@@ -114,7 +115,7 @@ Tragende Wandkerne und Fundament. (Rolle `mauerwerk`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Steinziegel |`stone_bricks` | 335.614 | 36,9 % |
+| Steinziegel |`stone_bricks` | 337.470 | 37,1 % |
 
 ## Pietra serena
 
@@ -122,7 +123,7 @@ Innenseiten der Wände, Pfeiler und Treppen. (Rolle `pietra_serena`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Stein |`smooth_stone` | 207.830 | 22,9 % |
+| Glatter Stein |`smooth_stone` | 206.534 | 22,7 % |
 
 ## Pietra forte
 
@@ -195,7 +196,7 @@ Leuchtende Fenster und Lichtquellen. (Rolle `licht`)
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Seelaterne |`sea_lantern` | 384 | 0,0 % |
+| Seelaterne |`sea_lantern` | 408 | 0,0 % |
 
 ## Buntglas
 
@@ -377,6 +378,7 @@ Treppenblöcke mit Ausrichtung des Aufstiegs (Norden, Osten, Süden, Westen), au
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Treppe aus poliertem Andesit (4 Richtungen, normal und umgedreht) | `polished_andesite_stairs@n\|o\|s\|w[_oben]` | 320 | 0,0 % |
+| Steinziegeltreppe (4 Richtungen, normal und umgedreht) | `stone_brick_stairs@n\|o\|s\|w[_oben]` | 200 | 0,0 % |
 | Treppe aus glattem Quarz (4 Richtungen, normal und umgedreht) | `smooth_quartz_stairs@n\|o\|s\|w[_oben]` | 154 | 0,0 % |
 | Bruchsteintreppe (4 Richtungen, normal und umgedreht) | `cobblestone_stairs@n\|o\|s\|w[_oben]` | 17 | 0,0 % |
 | Steintreppe (4 Richtungen, normal und umgedreht) | `stone_stairs@n\|o\|s\|w[_oben]` | 14 | 0,0 % |
@@ -393,9 +395,17 @@ Treppenblöcke mit Ausrichtung des Aufstiegs (Norden, Osten, Süden, Westen), au
 | Treppe aus rotem Sandstein (4 Richtungen, normal und umgedreht) | `red_sandstone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Treppe aus glattem Sandstein (4 Richtungen, normal und umgedreht) | `smooth_sandstone_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Fichtentreppe (4 Richtungen, normal und umgedreht) | `spruce_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
-| Steinziegeltreppe (4 Richtungen, normal und umgedreht) | `stone_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Tuffziegeltreppe (4 Richtungen, normal und umgedreht) | `tuff_brick_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
 | Tuffsteintreppe (4 Richtungen, normal und umgedreht) | `tuff_stairs@n\|o\|s\|w[_oben]` | 0 | 0,0 % |
+
+## schild
+
+| Block | Typ | Anzahl | Anteil |
+| :--- | :--- | ---: | ---: |
+| Straßenschild, Schrift nach Norden |`birch_wall_sign@n` | 0 | 0,0 % |
+| Straßenschild, Schrift nach Osten |`birch_wall_sign@o` | 0 | 0,0 % |
+| Straßenschild, Schrift nach Süden |`birch_wall_sign@s` | 0 | 0,0 % |
+| Straßenschild, Schrift nach Westen |`birch_wall_sign@w` | 0 | 0,0 % |
 
 ## Bauhilfen
 
