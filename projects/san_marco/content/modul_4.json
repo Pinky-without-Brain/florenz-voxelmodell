@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Dach",
+      "description": "Ein Walmdach aus Dachziegeln deckt den Konvent; es steigt von den Außenkanten und von den Höfen zum First. Der Raum unter dem Dach ist massiv gefüllt.",
+      "tip": "Von der Traufe nach oben.",
+      "caution": "Das Dach ist kein begehbarer Raum.",
+      "fact": "Der Dachraum bleibt im Modell unzugänglich."
+    }
+  }
+}

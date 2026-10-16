@@ -1,0 +1,15 @@
+{
+  "module": 5,
+  "title": "Licht",
+  "subtitle": "Bautüte 5: Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "licht": {
+      "title": "Licht",
+      "description": "Seelaternen im Boden jedes Raumes, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

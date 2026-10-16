@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Außenwände",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände aus hellem Putz sind zwei Blöcke dick, unten ein Sockel aus Pietra forte. Zwei Portale an der Piazza San Marco sind offen: das Museumsportal und ein Seitentor.",
+      "tip": "Zuerst die Wand Schicht für Schicht, dann die Gesimse.",
+      "caution": "Lass die Portale (7 Blöcke breit, 10 hoch) frei.",
+      "fact": "Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht daneben (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster in gleichen Abständen, in den Obergeschosszellen auf Brusthöhe. Alle Fenster sind mit Glas gefüllt.",
+      "tip": "Das Glas liegt in der Mitte der zwei Wandlagen.",
+      "caution": "Auf den Hof zu sind die Fenster eigene Bauteile (Modul 2).",
+      "fact": "Das Dormitorium im Obergeschoss über dem Piazza-Flügel war 1442 fertig (en.wikipedia, San Marco, Florence)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Unter dem Dach schließt ein Gesims aus Pietra serena die Fassade ab.",
+      "tip": "Die zwei obersten Lagen.",
+      "caution": "Es ragt nicht über die Wand hinaus.",
+      "fact": "Das Gesims ist im Modell ein einfaches Band aus Pietra serena. Vereinfacht, nicht nach Vorbild."
+    }
+  }
+}
