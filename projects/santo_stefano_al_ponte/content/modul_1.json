@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Fassade und Außenwände",
+  "subtitle": "Bautüte 1: romanische Fassade, Außenwände und Obergadenfenster",
+  "icon": "🏛️",
+  "parts": {
+    "sa_fassade": {
+      "title": "Romanische Fassade",
+      "description": "Die Fassade ist 40 Blöcke breit. Die untere Zone (bis Lage 20) trägt eine Inkrustation aus weißem und grünem Marmor mit dem Mittelportal (7 breit, bis zum Boden offen) und zwei kleineren, geschlossenen Seitentüren. Darüber folgt glattes Mauerwerk mit drei Rundbogenfenstern und einer Nische, oben der Giebel mit Bogenfries.",
+      "tip": "Zuerst die untere Zone, dann den Giebel; das Portal bleibt frei.",
+      "caution": "Vereinfacht, nicht nach Vorbild: die Inkrustation ist ein Muster aus Streifen und Ringen. Die Nische ist ein Einschnitt der Außenlage.",
+      "fact": "Die Fassade zeigt unten romanische Reste, ein Portal mit Lünette und Okulus in weißem und grünem Prato-Marmor, zwei kleinere Seitentüren, oben glattes Mauerwerk, drei Rundbogenfenster, eine Nische und einen Giebel mit Bogenfries (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_fassade_fenster": {
+      "title": "Fenster der Fassade",
+      "description": "Über den Seitentüren sitzt je eine Biphore (mit Mittelsäule) und eine Rosette, am Mittelportal eine Lünette mit Okulus und im Obergeschoss drei Rundbogenfenster. Alle sind mit farbigem Glas gefüllt.",
+      "tip": "Das Glas liegt in beiden Wandlagen.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage der Fenster folgt der Beschreibung (Stufe C).",
+      "fact": "Über den Seitentüren liegen zwei Rosetten und zwei Biforien (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwände des Schiffs, der Kapellen, der Tribuna und des Chors sind zwei Blöcke dick: Sockel aus Pietra serena, darüber heller Putz, oben ein Gesims. Der östliche Teil des Schiffs ist vier Blöcke (2 m) höher als der westliche.",
+      "tip": "Wandschichten von unten nach oben; die Fenster werden ausgespart.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Höhen sind Stufe C.",
+      "fact": "Der frühgotische Teil des Schiffs reicht bis zum dritten Seitenaltar, der letzte Abschnitt hat ein etwa zwei Meter höheres Dach (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_fenster": {
+      "title": "Fenster der Schiffswände",
+      "description": "Rundbogenfenster mit Glas in den Schiffswänden, je zwei im westlichen und im östlichen Teil, dazu ein Fenster im Chor.",
+      "tip": "Das Glas liegt in beiden Wandlagen.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff war ursprünglich dreischiffig und wurde im 17. Jahrhundert zu einem Saal umgebaut (en.wikipedia, Santo Stefano al Ponte). Die Fensterlage ist Stufe C."
+    }
+  }
+}

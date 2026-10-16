@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Decken, Dächer und Kuppel",
+  "subtitle": "Bautüte 3: Holzdecken, Satteldächer, Tambour mit Okuli und achtseitige Kuppel",
+  "icon": "🕌",
+  "parts": {
+    "sa_decken": {
+      "title": "Decken",
+      "description": "Eine Holzdecke mit sichtbaren Balken alle vier Blöcke schließt das Schiff ab (Lage 17 im westlichen, Lage 21 im östlichen Teil; dazwischen eine Stufenwand). Auch Kapellen, Chor und die Seitenjoche der Tribuna haben flache Decken.",
+      "tip": "Eine Lage, die Balken sind Holzblöcke.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Das Dach darüber ist massiv.",
+      "fact": "Das Schiff hat ein sichtbares Gebälk der Dachbinder (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_dach": {
+      "title": "Dächer und Füllmauerwerk",
+      "description": "Über Schiff und Endwand liegt ein flaches Satteldach aus Terrakotta (First in der Mitte, sechs Blöcke über der Traufe); Kapellen, Tribuna und Chor haben Flachdächer. Das Mauerwerk darunter ist massiv.",
+      "tip": "Von unten nach oben, die Ziegel zuletzt.",
+      "caution": "Es gibt keinen Dachraum. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der östliche Schiffsabschnitt hat ein etwa zwei Meter höheres Dach (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_trommel": {
+      "title": "Tambour mit Okuli",
+      "description": "Über der Tribuna steigt ein achteckiger Tambour (Lage 23 bis 26, Wand zwei Blöcke dick) auf, mit acht Okuli aus farbigem Glas in den Flächen.",
+      "tip": "Ring um Ring, die Okuli zuletzt aussparen.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Das Achteck vermeidet Rundungen, wie die Quelle für den Barockbau beschreibt.",
+      "fact": "Über dem Hauptraum liegt eine segmentierte Kuppel mit Tambour und Okuli; der barocke Entwurf meidet Kurven (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_kuppel": {
+      "title": "Achtseitige Kuppel",
+      "description": "Die Kuppel schließt den Tambour mit einer achtseitigen Pyramidenschale ab, innen mit acht Rippen aus Pietra serena, außen mit Terrakotta; ein Glasauge bildet den Scheitel, darüber sitzt eine Goldkugel. Die Schale ist zwei Blöcke dick und massiv, zwischen den Schalen gibt es keinen Hohlraum.",
+      "tip": "Ring um Ring von unten nach oben.",
+      "caution": "Vereinfacht, nicht nach Vorbild: Höhe und Neigung sind Stufe C. Der Aufstieg ist nicht modelliert.",
+      "fact": "Die Kuppel ist segmentiert und hat einen Tambour mit Okuli (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    }
+  }
+}

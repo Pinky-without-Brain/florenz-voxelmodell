@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Podium",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 64 und das Podium der Tribuna",
+  "icon": "🧱",
+  "parts": {
+    "sa_fundament": {
+      "title": "Fundament",
+      "description": "Unter der Kirche füllst du das Gelände (Y 62 bis 66) mit Bruchstein bis Y 63 auf. Im Umriss ist der Hang bis Y 63 abgetragen, weil der Boden auf Y 64 liegt, bündig mit der Piazza Santo Stefano.",
+      "tip": "Arbeite Spalte für Spalte; im Norden liegt das Gelände höher, im Süden tiefer.",
+      "caution": "Nur innerhalb des Umrisses (OSM w253942619, 3.460 Zellen).",
+      "fact": "Die Kirche steht an der Piazza Santo Stefano nahe dem Ponte Vecchio; ihre Fassade zeigt zum Platz (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_boden": {
+      "title": "Boden des Schiffs",
+      "description": "Der Boden des Schiffs und der Kapellen auf Y 64 besteht aus Pietra serena und Terrakotta in Feldern von drei Blöcken, in den Kapellen aus Marmor im Schachbrett.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Das Muster ist frei gewählt (Stufe C); die Lichtfelder setzt Modul 4.",
+      "fact": "Das Schiff ist heute ein einziger Saal; ursprünglich hatte die Kirche drei Schiffe (en.wikipedia, Santo Stefano al Ponte)."
+    },
+    "sa_podium": {
+      "title": "Podium der Tribuna und des Chors",
+      "description": "Hinter der Treppe liegen Tribuna, Durchgang und Chor fünf Blöcke (2,5 m) höher: massives Podium mit einem Boden aus weißem und grünem Marmor im Schachbrett auf Y 69.",
+      "tip": "Zuerst die Füllung bis Y 68, dann die Bodenlage.",
+      "caution": "Das Podium ist massiv gebaut, darunter liegt keine Krypta. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Krypta ist nur über eine Öffnung im Schiff zugänglich, eine Lösung der Restaurierungen der 1990er Jahre; sie ist im Modell nicht gebaut (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    }
+  }
+}
