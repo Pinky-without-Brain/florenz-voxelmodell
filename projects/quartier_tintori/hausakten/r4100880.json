@@ -1,7 +1,7 @@
 {
   "id": "r4100880",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "um 1460-1470 (Rossellino zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
@@ -22,28 +22,33 @@
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "portal_mittig",
       "portalBreiteBl": 7,
       "fenster": "rechteck"
     },
     "fenster": {
       "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 2
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sgraffito_fassade",
+      "bugnato_portalrahmen",
+      "wappen_spinelli",
+      "beschlagene_holztuer"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Spinelli_(Firenze)",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: um 1460-70 erbaut (Bernardo Rossellino zugeschrieben), Erdgeschoss in Backstein, darüber Sgraffito, Fensterrahmen aus gestocktem Pietra forte, ungewöhnlich großes Portal mit leicht vorspringendem Rustika-Rahmen, weit auskragendes Dach zum Schutz des Sgraffitos, Spinelli-Wappen am Portal, beschlagene Holztür. Annahme: Geschosse (OSM-Höhe), Achsen und Dachform.",
   "name": "Palazzo Spinelli"
 }

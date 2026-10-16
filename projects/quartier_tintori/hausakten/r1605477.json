@@ -1,44 +1,52 @@
 {
   "id": "r1605477",
-  "typ": "palazzo_ottocento",
-  "epoche": "19. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1849-1851 (Razzi), neurenaissance",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 11
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 12
+      "hoeheBl": 8
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 10,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "achsen": 9,
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "bottega_arcata",
-      "fenster": "rundbogen"
+      "art": "portal_mittig",
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "putz",
+      "typ": "bifora",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "inschrift_alberti_portal",
+      "gedenktafeln_marmor",
+      "gartenloggia"
+    ]
   },
   "dach": {
     "form": "flach",
     "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_ottocento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Malenchini_Alberti",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: neurenaissancistische Fassade an der Via de Benci (Odoardo Razzi, 1849-51), neun Achsen, Rustika, großes Mittelportal, Biforien mit Trophäen und Köpfen berühmter Männer, Inschrift Case di Leon Battista Alberti über dem Portal, zwei Marmortafeln, Gartenloggia (Salvi). Annahme: Geschosszahl (OSM-Höhe), Gesims, Dach.",
   "name": "Palazzo Malenchini Alberti"
 }
