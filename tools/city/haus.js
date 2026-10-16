@@ -93,7 +93,7 @@ function hausBoden(cells, S, kontext) {
   return Math.max(gMin, Math.min(gMax, h));
 }
 
-function planHaus(g, akte, kontext) {
+function planHaus(g, akte, kontext, bodenVorgabe) {
   const id = g.id;
   const cells = kontext.parz.cellsOf(id);
   const plan = { id, leer: cells.length === 0, cells, akte };
@@ -101,7 +101,7 @@ function planHaus(g, akte, kontext) {
   const S = new Set(cells.map((c) => P.ck(c[0], c[1])));
   plan.S = S;
   const top = (x, z) => kontext.groundTopY(x, z);
-  const boden = hausBoden(cells, S, kontext);
+  const boden = bodenVorgabe !== undefined ? bodenVorgabe : hausBoden(cells, S, kontext);
   plan.boden = boden;
   plan.storeys = geschosseMitBasis(akte, boden);
   const summe = akte.geschosse.reduce((a, s) => a + s.hoeheBl, 0);
@@ -247,6 +247,16 @@ function planHaus(g, akte, kontext) {
     if (lay && F.zelle(lay, 0, 0, c) === 'offen') plan.tuerZellen.push([c.x, c.z]);
   }
   plan.tuerZellen.sort((a, b) => (a[0] - b[0]) || (a[1] - b[1]));
+  // Liegt die Straße vor der Tür ≥ 2 Lagen über dem Boden, Haus mit Boden eine Lage unter dieser Straße neu planen
+  if (bodenVorgabe === undefined && plan.tuerZellen.length) {
+    let tTuer = -Infinity;
+    for (const [x, z] of plan.tuerZellen) for (const [dx, dz] of N4) {
+      const ax = x + dx, az = z + dz;
+      if (S.has(P.ck(ax, az)) || kontext.parz.owner(ax, az) !== null) continue;
+      tTuer = Math.max(tTuer, top(ax, az));
+    }
+    if (tTuer - boden >= 2) return planHaus(g, akte, kontext, tTuer - 1);
+  }
   plan.durchbruch = tuerDurchbruch(plan);
   taschenDurchbruch(plan, plan.durchbruch);
   plan.eingang = eingangsStufen(plan, kontext);
