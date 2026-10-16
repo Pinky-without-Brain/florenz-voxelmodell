@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 156.078 | 29,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 63.771 | 12,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 63.763 | 12,2 % |
 | Polierter Tuffstein | `polished_tuff` | 51.258 | 9,8 % |
 | Rosa Keramik | `pink_terracotta` | 47.261 | 9,1 % |
 | Weißer Beton | `white_concrete` | 43.353 | 8,3 % |
@@ -30,10 +30,10 @@
 | Orange Keramik | `orange_terracotta` | 25.410 | 4,9 % |
 | Endsteinziegel | `end_stone_bricks` | 18.399 | 3,5 % |
 | Tuffstein | `tuff` | 15.800 | 3,0 % |
-| Polierter Andesit | `polished_andesite` | 14.290 | 2,7 % |
+| Polierter Andesit | `polished_andesite` | 14.291 | 2,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 11.467 | 2,2 % |
-| Glatter Stein | `smooth_stone` | 10.239 | 2,0 % |
-| Graues Buntglas | `gray_stained_glass` | 8.692 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 10.250 | 2,0 % |
+| Graues Buntglas | `gray_stained_glass` | 8.688 | 1,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.673 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 2.264 | 0,4 % |
 | Ziegelsteine | `bricks` | 2.186 | 0,4 % |
@@ -2098,7 +2098,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1313 (Spital); später Kloster San Martino), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_in_Santa_Maria_della_Scala, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2110,7 +2110,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.62 – Ex Chiesa di San Martino in Santa Maria della Scala – Teil 2/5 (Y 59–68)
 
@@ -2122,14 +2122,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.622 |
-| Glatter Stein | `smooth_stone` | 190 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Gelbe Keramik | `yellow_terracotta` | 1.614 |
+| Glatter Stein | `smooth_stone` | 201 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1313 (Spital); später Kloster San Martino), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_in_Santa_Maria_della_Scala, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2141,7 +2141,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.63 – Ex Chiesa di San Martino in Santa Maria della Scala – Teil 3/5 (Y 69–77)
 
@@ -2159,7 +2159,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1313 (Spital); später Kloster San Martino), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_in_Santa_Maria_della_Scala, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2171,7 +2171,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.64 – Ex Chiesa di San Martino in Santa Maria della Scala – Teil 4/5 (Y 78–85)
 
@@ -2189,7 +2189,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1313 (Spital); später Kloster San Martino), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_in_Santa_Maria_della_Scala, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2201,7 +2201,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.65 – Ex Chiesa di San Martino in Santa Maria della Scala – Teil 5/5 (Y 86–92)
 
@@ -2220,7 +2220,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Kleine Kirche (1313 (Spital); später Kloster San Martino), 3 Geschosse, Putzfarbe Ocker. Quelle: recherche:https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_in_Santa_Maria_della_Scala, Angaben belegt (Sicherheit 0,6).
 
 **Tipp**
 
@@ -2232,7 +2232,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 2.66 – Ex Chiesa di San Martino in Santa Maria della Scala: Innenausbau
 
