@@ -195,7 +195,7 @@ test('Projektfelder: Prüfung und Vorrang-Datei', () => {
   assert.equal(pruefeFelder({ ...ok, masken: { k: { gebaeude: [] } } }).length, 1);
   assert.deepEqual(pruefeFelder({ ohneMaske: true }), []);
   const v = wahrzeichenVorrang(REAL_ROOT);
-  assert.equal(v.size, 61); // Welle 7b: Loggia dei Servi (1); Welle 6: Cestello (2), San Gaetano, Santa Maria Maggiore, Santi Apostoli, Arcivescovile (1), San Firenze (3), Loggia del Pesce (1), Cappella de' Pazzi (2: Konvent r10782536, Kapelle w307539790), Santo Stefano al Ponte; Welle 5: San Marco (2), Davanzati, Bigallo, Ognissanti, Santa Felicita mit Torre dei Fifanti (2); Grotta del Buontalenti (V5c); Welle 1 (8), Welle 2 (11), Welle 3 (6), Welle 4 (Kirchen, Palazzi, Loggia: 14 Gebäude-IDs; Brücken ohne)
+  assert.equal(v.size, 62); // Welle 7b: Loggia dei Servi, Palazzo Nonfinito (je 1); Welle 6: Cestello (2), San Gaetano, Santa Maria Maggiore, Santi Apostoli, Arcivescovile (1), San Firenze (3), Loggia del Pesce (1), Cappella de' Pazzi (2: Konvent r10782536, Kapelle w307539790), Santo Stefano al Ponte; Welle 5: San Marco (2), Davanzati, Bigallo, Ognissanti, Santa Felicita mit Torre dei Fifanti (2); Grotta del Buontalenti (V5c); Welle 1 (8), Welle 2 (11), Welle 3 (6), Welle 4 (Kirchen, Palazzi, Loggia: 14 Gebäude-IDs; Brücken ohne)
   assert.equal(v.get('w777563049'), 'santa_croce');
   assert.equal(v.get('r1461712'), 'palazzo_vecchio');
   assert.equal(v.get('w1394931261'), 'orsanmichele');

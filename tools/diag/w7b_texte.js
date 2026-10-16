@@ -3,6 +3,28 @@
 // Quellenangaben nur dort, wo eine geprüfte Quelle die Aussage trägt; sonst Hinweis auf Stufe C.
 
 module.exports = {
+  palazzo_nonfinito: {
+    kuerzel: 'nf', bodenY: 66, geschosse: [10, 13], ausstattungModul: 6,
+    untertitel: { 0: 'Fundament, Boden, Hof und Treppe', 1: 'Außenwände, Kniefenster und Kranzgesims', 2: 'Hofarkaden, Hofwände und Innenwände', 3: 'Geschossböden und oberste Decke', 4: 'Walmdach', 5: 'Beleuchtung' },
+    bodenZusatz: '; unter den Hofarkaden liegt Pietra serena',
+    hofTitel: 'Höfe', hofText: 'Der Hof Cigolis und der kleine Lichthof im Süden bleiben offen',
+    treppeOrt: 'im Treppenhaus rechts vom Atrium',
+    aussenText: 'zur Via del Proconsolo und zum Borgo degli Albizi das Erdgeschoss mit glatter Rustika und Kniefenstern in Rahmen aus Pietra serena, darüber im Piano nobile verputzte Wände mit Pilastern aus Pietra serena zwischen den Fenstern; die Eckpilaster sind aus Pietra serena. Zwei Portale führen hinein.',
+    fensterText: 'Im Erdgeschoss sitzen die Kniefenster, tief angesetzt (Y 68 bis 75), im Piano nobile hohe Fenster (Y 80 bis 87); an der Via del Proconsolo links und rechts des Portals je drei, am Borgo degli Albizi je zwei.',
+    hofarkadenText: 'Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof Cigolis; dahinter liegt ein Umgang.',
+    hofwaendeText: 'Über den Arkaden steigen die Hofwände bis Y 89, verputzt, mit Gesimsen auf Höhe der Geschossböden.',
+    innenwaendeText: 'Zwischen Umgang und Räumen steht im Erdgeschoss eine Innenwand mit Türen im Abstand von 14 Blöcken.',
+    trennText: 'Trennwände bilden im Erdgeschoss das Atrium mit je zwei Räumen daneben und im Westflügel ein Vestibül; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.',
+    trennOgText: 'Im Piano nobile teilen Trennwände den Nordflügel in fünf Säle; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.',
+    dachText: 'Ein flaches Walmdach aus Dachziegeln steigt von der Traufe (Y 89) bis Y 93; der Dachraum darunter ist unzugänglich.',
+    fakten: {
+      aussenwand: 'Buontalenti begann im Juli 1593 mit dem Erdgeschoss, dem Portal am Borgo degli Albizi und den Kniefenstern auf großen Konsolen (Quelle: it.wikipedia, Palazzo Nonfinito).',
+      fenster: 'Die Kniefenster tragen Gitter und Giebel, teils dreieckig, teils gebrochen und eingerollt (Quelle: it.wikipedia, Palazzo Nonfinito).',
+      kranzgesims: 'Scamozzi und Caccini führten den Bau von 1600 bis 1612 weiter, ihnen werden das hohe Portal an der Via del Proconsolo und das Piano nobile mit ionischen Pilastern in Kolossalordnung zugeschrieben (Quelle: it.wikipedia, Palazzo Nonfinito).',
+      hofarkaden: 'Der Hof hat Serlianen nach venezianischem Vorbild auf toskanischen Säulen; zwei Seiten stammen von Cigoli um 1604 (Quelle: it.wikipedia, Palazzo Nonfinito).',
+      dach: 'Der Palast blieb unvollendet; Buontalentis und Scamozzis Entwurf sahen zwei weitere Geschosse vor (Quelle: it.wikipedia, Palazzo Nonfinito).'
+    }
+  },
   loggia_dei_servi: {
     kuerzel: 'ls', bodenY: 69, geschosse: [12, 11], ausstattungModul: 6,
     untertitel: { 0: 'Fundament, Boden und Treppe', 1: 'Außenwände, Portikus, Fenster und Kranzgesims', 2: 'Rückwand der Loggia, Höfe und Innenwände', 3: 'Geschossböden und oberste Decke', 4: 'Walmdach', 5: 'Beleuchtung' },

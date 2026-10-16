@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln steigt von der Traufe (Y 89) bis Y 93; der Dachraum darunter ist unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Der Dachraum darunter ist unzugänglich.",
+      "fact": "Der Palast blieb unvollendet; Buontalentis und Scamozzis Entwurf sahen zwei weitere Geschosse vor (Quelle: it.wikipedia, Palazzo Nonfinito)."
+    }
+  }
+}
