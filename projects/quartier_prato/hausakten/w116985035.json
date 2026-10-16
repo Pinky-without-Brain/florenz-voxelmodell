@@ -1,7 +1,7 @@
 {
   "id": "w116985035",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "um 1847 (Panoramarotunde)",
   "geschosse": [
     {
       "art": "eg",
@@ -35,15 +35,18 @@
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "rundbau_zwei_raeume_biabsidal",
+      "kuppelchen_mit_laterne"
+    ]
   },
   "dach": {
-    "form": "walm",
-    "material": "coppi",
+    "form": "flach",
+    "material": "terrasse",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Breite und Höhe; Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Rotonda_dei_Barbetti",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia: Zentralbau aus zwei kreisrunden Räumen mit Kuppelchen und Laterne, um 1847 für Stadtpanoramen errichtet, 1863 von Barbetti als Möbelwerkstatt erworben. Annahme: Flachdach als Annäherung an die Kuppelchen.",
   "name": "Rotonda dei Barbetti"
 }
