@@ -4,14 +4,14 @@
 
 *Projekt `domplatz_ring`, Art: quartier*
 
-**Statistik (generiert):** 2.326.740 Blöcke in 1.477 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.321.657 Blöcke in 1.474 Bauschritten, 21 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -554 bis 322, Y 60 bis 120, Z -367 bis 363.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
 | ---: | :--- | ---: | ---: | :--- |
 | 0 | Isolato I0433 – Borgo San Lorenzo | 341.571 | 224 | [BAUANLEITUNG_MODUL_0.md](BAUANLEITUNG_MODUL_0.md) |
 | 1 | Isolato I0461 – Via dei Medici | 49.536 | 29 | [BAUANLEITUNG_MODUL_1.md](BAUANLEITUNG_MODUL_1.md) |
-| 2 | Isolato I0471 – Piazza San Giovanni | 146.355 | 90 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
+| 2 | Isolato I0471 – Piazza degli Adimari | 141.272 | 87 | [BAUANLEITUNG_MODUL_2.md](BAUANLEITUNG_MODUL_2.md) |
 | 3 | Isolato I0481 – Via dei Calzaiuoli | 55.272 | 36 | [BAUANLEITUNG_MODUL_3.md](BAUANLEITUNG_MODUL_3.md) |
 | 4 | Isolato I0484 – Borgo San Lorenzo | 288.326 | 187 | [BAUANLEITUNG_MODUL_4.md](BAUANLEITUNG_MODUL_4.md) |
 | 5 | Isolato I0497 – Via del Campanile | 52.699 | 34 | [BAUANLEITUNG_MODUL_5.md](BAUANLEITUNG_MODUL_5.md) |
@@ -30,43 +30,43 @@ Ausdehnung des Modells: X -554 bis 322, Y 60 bis 120, Z -367 bis 363.
 | 18 | Isolato I0552 – Via Maurizio Bufalini | 247.588 | 153 | [BAUANLEITUNG_MODUL_18.md](BAUANLEITUNG_MODUL_18.md) |
 | 19 | Isolato I0582 – Via del Proconsolo | 91.340 | 55 | [BAUANLEITUNG_MODUL_19.md](BAUANLEITUNG_MODUL_19.md) |
 | 20 | Isolato I0590 – Via dei Servi | 64.445 | 37 | [BAUANLEITUNG_MODUL_20.md](BAUANLEITUNG_MODUL_20.md) |
-| | **Summe** | **2.326.740** | **1.477** | |
+| | **Summe** | **2.321.657** | **1.474** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 858.833 | 36,9 % |
-| Polierter Tuffstein | `polished_tuff` | 243.429 | 10,5 % |
+| Terrakotta | `terracotta` | 857.986 | 37,0 % |
+| Polierter Tuffstein | `polished_tuff` | 243.002 | 10,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 174.454 | 7,5 % |
 | Rosa Keramik | `pink_terracotta` | 160.602 | 6,9 % |
 | Weißer Beton | `white_concrete` | 144.672 | 6,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 132.097 | 5,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 131.388 | 5,7 % |
 | Endsteinziegel | `end_stone_bricks` | 104.052 | 4,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 101.288 | 4,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 100.881 | 4,3 % |
 | Orange Keramik | `orange_terracotta` | 99.376 | 4,3 % |
-| Tuffstein | `tuff` | 84.279 | 3,6 % |
-| Glatter Stein | `smooth_stone` | 65.501 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 45.681 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 35.899 | 1,5 % |
-| Ziegelsteine | `bricks` | 19.390 | 0,8 % |
+| Tuffstein | `tuff` | 83.429 | 3,6 % |
+| Glatter Stein | `smooth_stone` | 64.219 | 2,8 % |
+| Graues Buntglas | `gray_stained_glass` | 45.599 | 2,0 % |
+| Polierter Andesit | `polished_andesite` | 35.667 | 1,5 % |
+| Ziegelsteine | `bricks` | 19.349 | 0,8 % |
 | Grüner Beton | `green_concrete` | 13.151 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 10.666 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 9.188 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 10.634 | 0,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 9.048 | 0,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 5.384 | 0,2 % |
-| Seelaterne | `sea_lantern` | 4.678 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.254 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2.124 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.092 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2.000 | 0,1 % |
+| Seelaterne | `sea_lantern` | 4.674 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2.223 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2.109 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2.087 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2.023 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 1.579 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 1.579 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 630 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 584 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 572 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 532 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 49 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 43 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 48 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 42 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 39 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 35 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
@@ -75,6 +75,6 @@ Ausdehnung des Modells: X -554 bis 322, Y 60 bis 120, Z -367 bis 363.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 8.470 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 8.442 |
 | Steintreppe | `stone_stairs` | 2.318 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |

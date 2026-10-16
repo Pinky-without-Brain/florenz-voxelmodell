@@ -1,0 +1,36 @@
+{
+  "module": 5,
+  "title": "Museum und Halle",
+  "subtitle": "Bautüte 5: die drei Säle und die Eingangshalle",
+  "icon": "🖼️",
+  "parts": {
+    "saal_1": {
+      "title": "Saal 1: Kruzifix und Fresken",
+      "description": "Der erste Saal über der Halle hat einen Holzsockel, an der Südwand drei goldgerahmte Freskenfelder (Werkstatt Nardo di Cione) und an der Trennwand ein Tafelkreuz auf blauem Grund.",
+      "tip": "Setze den Sockel vor den Feldern.",
+      "caution": "Das Kreuz hängt in Augenhöhe.",
+      "fact": "Saal 1: Kruzifix des Maestro del Bigallo (1235–1255) und Fresken aus der Werkstatt von Nardo di Cione (it.wikipedia, Loggia del Bigallo) (vereinfacht, nicht nach Vorbild)."
+    },
+    "saal_2": {
+      "title": "Saal 2: Triptychon von Daddi",
+      "description": "Im zweiten Saal hängt an der Südwand ein dreiteiliges Altarbild: ein hohes Mittelbild in Blau und Rot und zwei niedrigere Seitentafeln, alle in Goldrahmen. Zwei Vitrinen (Sockel mit Glashaube) stehen im Raum.",
+      "tip": "Beginne mit den Rahmen.",
+      "caution": "Halte die Wege zu den Türen frei.",
+      "fact": "Saal 2: Triptychon von Bernardo Daddi (1333) (it.wikipedia, Loggia del Bigallo) (vereinfacht, nicht nach Vorbild)."
+    },
+    "saal_3": {
+      "title": "Saal 3: Misericordia Domini",
+      "description": "Der dritte Saal zeigt an der Westwand das Fresko als Farbfeld von 7 × 5 Blöcken in Goldrahmen: Madonna mit blauem Schutzmantel in der Mitte, dahinter die Stadt mit Dächern und Türmen, unten 18 Männer links und 18 Frauen rechts als Reihe von Punkten. Eine Vitrine steht im Raum.",
+      "tip": "Male die Stadtansicht vor den Figuren.",
+      "caution": "Das Feld sitzt in der inneren Wandlage.",
+      "fact": "Saal 3: Fresko Misericordia Domini (um 1350) mit einer der ältesten bekannten Stadtansichten von Florenz, umgeben von 18 Männern und 18 Frauen (it.wikipedia, Loggia del Bigallo) (vereinfacht, nicht nach Vorbild)."
+    },
+    "eingangshalle": {
+      "title": "Eingangshalle",
+      "description": "In der Halle stehen eine Steinbank an der Westwand und ein Kassentisch aus Holz.",
+      "tip": "Halte den Weg von der Tür zur Treppe frei.",
+      "caution": "Stelle nichts vor die Türen.",
+      "fact": "Das Museum ist über den Zugang an der Piazza San Giovanni erreichbar (it.wikipedia, Loggia del Bigallo) (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

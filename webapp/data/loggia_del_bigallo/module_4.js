@@ -1,0 +1,5 @@
+// GENERIERT von tools/emit/data.js - nicht von Hand ändern.
+// Modul 4: 1 Schritte, 10 Blöcke, 10 Läufe.
+window.PROJECT_DATA_V3 = window.PROJECT_DATA_V3 || {};
+window.PROJECT_DATA_V3["loggia_del_bigallo"] = window.PROJECT_DATA_V3["loggia_del_bigallo"] || {};
+window.PROJECT_DATA_V3["loggia_del_bigallo"][4] = {"module":4,"title":"Licht","subtitle":"Bautüte 4: Seelaternen im Boden","icon":"💡","palette":["sea_lantern"],"steps":[{"stepNumber":1,"title":"Seelaternen im Boden","description":"In Halle, Loggia und Sälen sitzen Seelaternen im Boden, höchstens 9 Blöcke voneinander entfernt, damit die Räume in Minecraft hell sind.","tip":"Ersetze nur Bodenblöcke, über denen nichts steht.","caution":"Stelle keine Möbel auf die Laternen.","fact":"Licht ist eine Entwurfsentscheidung für das Spiel (vereinfacht, nicht nach Vorbild).","cameraHint":{"eye":[-229,104.5,124.5],"target":[-277,68.5,76.5]},"count":10,"yRange":[64,73],"runs":"3/5AAE4AAQAAAOT+QABKAAEAAADm/kAAUAABAAAA7f5AAE4AAQAAAPL+QABJAAEAAADz/kAATgABAAAA9/5AAEoAAQAAAN/+SQBOAAEAAADq/kkATgABAAAA9f5JAEwAAQAAAA=="}]};

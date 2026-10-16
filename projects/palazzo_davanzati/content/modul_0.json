@@ -1,0 +1,15 @@
+{
+  "module": 0,
+  "title": "Erdgeschossboden",
+  "subtitle": "Bautüte 0: der Boden des ganzen Hauses",
+  "icon": "🪨",
+  "parts": {
+    "boden": {
+      "title": "Boden des Erdgeschosses",
+      "description": "Du legst auf Y 63 den Boden über den ganzen Grundriss: Pflaster in Haus und Anbau, in der Eingangshalle ein Schachbrett aus Pietra serena und Pflaster, im Hof Pflaster mit Rauten aus Pietra serena.",
+      "tip": "Fange an der Fassade an und arbeite nach hinten.",
+      "caution": "Der Boden liegt auf Straßenhöhe der Via Porta Rossa; im Grundriss trägt der Stadtgrund das Gelände ab.",
+      "fact": "Das Haus liegt auf Straßenhöhe; die Böden der Obergeschosse folgen in Modul 2 (Grundriss aus OpenStreetMap, Way 307153268). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

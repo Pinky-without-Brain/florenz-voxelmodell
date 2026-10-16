@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: Rundbögen, Marmorverkleidung, Bifore",
+  "icon": "🏛️",
+  "parts": {
+    "fassade_eg": {
+      "title": "Erdgeschoss: vier Rundbögen mit Marmorverkleidung",
+      "description": "Die Loggia öffnet sich mit drei Rundbögen von etwa 5 Blöcken Breite zur Piazza San Giovanni und mit einem zur Via dei Calzaiuoli. Die Wände sind 3 Blöcke dick und außen mit einem Schachbrett aus weißem und grünem Marmor verkleidet; die Bögen sind mit roten und weißen Keilsteinen eingefasst. Die Halle hat eine Straßentür von 3 × 5 Blöcken.",
+      "tip": "Setze zuerst die Archivolten, dann das Schachbrett.",
+      "caution": "Die Bögen sind offen: lass sie über die ganze Wandtiefe frei.",
+      "fact": "Die Loggia hat drei Arkaden zur Piazza und eine Öffnung zur Via dei Calzaiuoli; die dritte Arkade ist mit mehrfarbigem Marmor verkleidet (it.wikipedia, Loggia del Bigallo). Im Modell sind alle Bögen offen (vereinfacht, nicht nach Vorbild)."
+    },
+    "fassade_og": {
+      "title": "Obergeschoss: Bifore und Gesimse",
+      "description": "Das Obergeschoss aus Pietra forte trägt über jedem Bogen eine Bifora (zwei Fenster von je 2 Blöcken, getrennt durch eine Marmorsäule) mit weißem Rahmen; ein Marmorband trennt die Geschosse, ein Kranzgesims schließt ab. Die Halle erhält ein einzelnes Fenster.",
+      "tip": "Das Glas gehört in alle drei Lagen der Wand.",
+      "caution": "Die Säule der Bifora steht in der Mitte der Fensteröffnung.",
+      "fact": "Im Obergeschoss gibt es drei Bifore an der Fassade zur Piazza und eine zur Via dei Calzaiuoli; das Geschoss wurde nach dem Brand von 1442 erneuert (it.wikipedia, Loggia del Bigallo) (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}
