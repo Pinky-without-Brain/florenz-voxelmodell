@@ -259,3 +259,12 @@ Drei Wahrzeichen der Welle 6c stehen von Anfang an auf `"begehbarkeit": "pflicht
 - **Schmuck:** 16 Tondi mit Fischen (3 × 3, Terrakotta), vier Eckwappen, Kartusche und Inschriftentafel als Farbfelder, drei Marktbänke (eine Lage hoch). Die acht Medaillons je Seite sind nicht gebaut.
 - **Kennzahl:** Vier Seelaternen genügen für die Halle (Raster 12); der Lichttest prüft nur die Halle, nicht die Bogenzellen der Wand.
 
+
+## 22. Sant'Apollonia, Loggia dei Servi, Palazzo Nonfinito (W7b, 16.10.2026)
+Drei Wahrzeichen der Welle 7b stehen von Anfang an auf `"begehbarkeit": "pflicht"` (R13: 0 nicht erreichbare Komponenten, R14: 0 Lücken). Kataloge: `wahrzeichen/loggia_dei_servi/`, `wahrzeichen/palazzo_nonfinito/`, `wahrzeichen/sant_apollonia/`. Der Content der Standardmodule entsteht mit `node tools/diag/w7b_inhalt.js` aus den Texten in `tools/diag/w7b_texte.js` (Ausstattungsmodul aus `INHALT` in `_raeume.js`).
+
+### Loggia dei Servi di Maria
+`loggia_dei_servi` (OSM r7021619, 6.438 Zellen, sechs kleine Löcher, aus `quartier_san_marco` gelöst) mit `tools/wahrzeichen/palazzo.js` und der Option `portikus` (wie der Spedale degli Innocenti gegenüber), Rahmen θ 132,03° entlang der Fassade zur Piazza Santissima Annunziata. 74.956 Blöcke, 7 Module. Test: `tools/test/loggia_dei_servi.test.js` (7 Tests).
+- **Portikus:** neun Rundbögen (Joch 11, Mitten bei u 11 … 99, Tiefe 9) auf Säulen aus Pietra serena, alle bis zum Boden offen (`arkade`); die Rückwand hat Türen alle zwei Joche. Die Jochzahl ist Stufe C (die Quelle nennt keine). Neu in `palazzo.js` (abwärtskompatibel): `portikus.entlang` bestimmt auch die Achse der Bogenreihe in der Öffnungsberechnung (vorher nur die Außennormale der Zelle; auf der 45°-Treppenkante des gedrehten Rahmens ist sie bei Eckzellen leer, dort blieb ein Pfeiler offen).
+- **Module:** `portikus` (Modul 1) und `loggiawand` (Modul 2) müssen in den Modullisten stehen, sonst fehlen die Pfeiler im Grid und R14 meldet Lücken oder R13 ist trivial erfüllt.
+- **Raumplan:** zwei Längswände mit Flur, fünf Vorder- und vier Hinterzimmer, Empfangshalle um die Wendeltreppe (zwischen den Lichthöfen gelegen: Treppenplatz 9 × 9 braucht `dHof > 3` rundum), Oratorium. Türen der Längswand liegen in der Achse der Bögen; Türen an die Hinterzimmer vor den Ringen der Lichthöfe (Ring 2 Zellen), sonst führt die Tür in eine Wand.

@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Bau tiefer liegt als Y 68, füllst du mit Bruchstein bis Y 68 auf; höher liegendes Gelände wurde bis Y 68 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 68 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Die Geländehöhen stammen aus dem Höhenmodell der Stadt (Stufe B)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 69 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Das Schachmuster ist eine Gestaltungsannahme (Stufe C)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt in der Empfangshalle des Hinterhauses vom Erdgeschoss bis ins oberste Geschoss (Y 92).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Eine Wendeltreppe ist die einfachste Treppe, die alle Geschosse auf kleiner Fläche verbindet; sie ist hier eine Annahme (Stufe C)."
+    }
+  }
+}

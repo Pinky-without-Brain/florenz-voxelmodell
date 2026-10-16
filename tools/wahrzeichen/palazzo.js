@@ -192,7 +192,7 @@ function palazzo(cfg) {
         for (let yr = 1; yr <= rund(p.hoehe - p.breite / 2, v, p.breite / 2); yr++) oeffnung('tor', 'portale', c.x, Y(yr), c.z);
       }
       if (c.portikus && c.d8 === 1) {
-        const pk = cfg.portikus, v = c.entlang === 'u' ? c.u : c.w;
+        const pk = cfg.portikus, v = (pk.entlang || c.entlang) === 'u' ? c.u : c.w;   // pk.entlang: Bogenreihe läuft immer entlang dieser Achse (W7b, auch an Treppenzellen der schrägen Kante)
         const r = ((v - (pk.versatz || 0)) % pk.joch + pk.joch) % pk.joch - pk.joch / 2;
         if (Math.abs(r) < pk.joch / 2 - 1) for (let yr = 1; yr <= rund(pk.kaempfer, r, pk.joch / 2 - 1); yr++) oeffnung('arkade', 'portikus', c.x, Y(yr), c.z);
       }
