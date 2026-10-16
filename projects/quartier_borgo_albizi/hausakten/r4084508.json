@@ -1,49 +1,57 @@
 {
   "id": "r4084508",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_rinascimento",
+  "epoche": "1458-1469 (Giuliano da Maiano zugeschrieben)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 8,
-    "material": "putz",
-    "putzfarbe": "weiss",
+    "material": "bugnato_glatt",
+    "putzfarbe": null,
     "erdgeschoss": {
       "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
+      "typ": "bifora",
+      "rahmen": "pietra_serena",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "cornicione_stein",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "wappen_pazzi_ecke_kopie",
+      "eckedikula_madonna",
+      "weinluke_via_del_proconsolo",
+      "zahnschnitt_gurtgesims",
+      "oculi_unter_traufe"
+    ],
+    "eckquader": true,
+    "marcapiano": "vor"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Pazzi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: Renaissancebau 1458-69 (Giuliano da Maiano zugeschrieben), drei Geschosse, Erdgeschoss in grober Rustika mit prismenförmigen Fensterrahmen des 17. Jh., zwei Eingänge (Borgo Albizi, Via del Proconsolo) mit breiten Brachettoni, weiß verputzte Obergeschosse mit Biforien (Ranken, korinthische Säulchen, Pazzi-Wappen mit Halbmonden und Segelschiff), Gurtgesimse mit Zahnschnitt, vorspringendes Traufgesims mit Oculi, großes Eckwappen (Kopie von 2000), Eckedikula mit Madonnenrelief, Weinluke. Annahme: Achsenzahl, Dachform.",
   "name": "Palazzo Pazzi"
 }
