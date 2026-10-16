@@ -8,50 +8,49 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 192.777 |
-| Bauschritte | 126 |
-| Y-Bereich | 56 bis 104 |
+| Blöcke | 179.781 |
+| Bauschritte | 117 |
+| Y-Bereich | 55 bis 101 |
 | X-Ausdehnung | -1817 bis -1483 (335 Blöcke) |
 | Z-Ausdehnung | 252 bis 513 (262 Blöcke) |
-| Kleinster Schritt | 45 Blöcke (Schritt 8.49) |
-| Mittlerer Schritt | 1.530 Blöcke |
-| Größter Schritt | 2.094 Blöcke (Schritt 8.45) |
+| Kleinster Schritt | 45 Blöcke (Schritt 8.43) |
+| Mittlerer Schritt | 1.537 Blöcke |
+| Größter Schritt | 2.094 Blöcke (Schritt 8.39) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 66.534 | 34,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 24.951 | 12,9 % |
-| Polierter Tuffstein | `polished_tuff` | 20.274 | 10,5 % |
-| Tuffstein | `tuff` | 20.140 | 10,4 % |
-| Weißer Beton | `white_concrete` | 16.352 | 8,5 % |
-| Endsteinziegel | `end_stone_bricks` | 12.183 | 6,3 % |
-| Rosa Keramik | `pink_terracotta` | 11.459 | 5,9 % |
-| Glatter Stein | `smooth_stone` | 8.080 | 4,2 % |
-| Orange Keramik | `orange_terracotta` | 5.494 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 3.041 | 1,6 % |
-| Polierter Andesit | `polished_andesite` | 1.146 | 0,6 % |
-| Ziegelsteine | `bricks` | 1.028 | 0,5 % |
+| Terrakotta | `terracotta` | 66.531 | 37,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 24.951 | 13,9 % |
+| Polierter Tuffstein | `polished_tuff` | 20.294 | 11,3 % |
+| Weißer Beton | `white_concrete` | 16.664 | 9,3 % |
+| Endsteinziegel | `end_stone_bricks` | 12.131 | 6,7 % |
+| Rosa Keramik | `pink_terracotta` | 11.749 | 6,5 % |
+| Glatter Stein | `smooth_stone` | 8.082 | 4,5 % |
+| Tuffstein | `tuff` | 6.586 | 3,7 % |
+| Orange Keramik | `orange_terracotta` | 5.494 | 3,1 % |
+| Graues Buntglas | `gray_stained_glass` | 3.041 | 1,7 % |
+| Polierter Andesit | `polished_andesite` | 1.141 | 0,6 % |
+| Ziegelsteine | `bricks` | 1.028 | 0,6 % |
 | Grüner Beton | `green_concrete` | 587 | 0,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 393 | 0,2 % |
-| Seelaterne | `sea_lantern` | 322 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 395 | 0,2 % |
+| Seelaterne | `sea_lantern` | 328 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 220 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 94 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 84 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 60 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 60 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 60 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 54 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 43 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 91 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 81 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 65 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 59 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 31 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 14 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 14 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 24 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 16 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 16 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 6 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
@@ -59,47 +58,47 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 292 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 296 |
 | Steintreppe | `stone_stairs` | 160 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 46 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 24 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1615532` | The Excelsior, a Luxury Collection Hotel | 61.956 | 8.1–8.44 |
-| 2 | `r1615532_innen` | The Excelsior, a Luxury Collection Hotel: Innenausbau | 16.897 | 8.44–8.54 |
-| 3 | `r6971868` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci | 22.458 | 8.54–8.67 |
-| 4 | `r6971868_innen` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau | 4.857 | 8.68–8.71 |
-| 5 | `r7031390` | Palazzo della Marescialla | 18.178 | 8.72–8.82 |
-| 6 | `r7031390_innen` | Palazzo della Marescialla: Innenausbau | 4.639 | 8.83–8.86 |
-| 7 | `w474207922` | Reihenhaus an Borgo Ognissanti | 5.747 | 8.87–8.89 |
-| 8 | `w474207922_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.220 | 8.90–8.91 |
-| 9 | `w474207927` | Reihenhaus an Borgo Ognissanti | 2.474 | 8.92–8.93 |
-| 10 | `w474207927_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.333 | 8.94 |
-| 11 | `w474207928` | Palazzo des Cinquecento an Borgo Ognissanti | 17.997 | 8.95–8.105 |
-| 12 | `w474207928_innen` | Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau | 3.070 | 8.106–8.107 |
-| 13 | `w474207930` | Reihenhaus an Lungarno Amerigo Vespucci | 9.144 | 8.108–8.112 |
-| 14 | `w474207930_innen` | Reihenhaus an Lungarno Amerigo Vespucci: Innenausbau | 3.061 | 8.113–8.114 |
-| 15 | `w474207931` | Reihenhaus an Borgo Ognissanti | 6.756 | 8.115–8.118 |
-| 16 | `w474207931_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.332 | 8.119–8.120 |
-| 17 | `w474207933` | Reihenhaus an Borgo Ognissanti | 6.277 | 8.121–8.124 |
-| 18 | `w474207933_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 3.365 | 8.125–8.126 |
-| 19 | `strassenschilder` | Straßenschilder | 16 | 8.126 |
+| 1 | `r1615532` | The Excelsior, a Luxury Collection Hotel | 53.069 | 8.1–8.38 |
+| 2 | `r1615532_innen` | The Excelsior, a Luxury Collection Hotel: Innenausbau | 16.897 | 8.38–8.48 |
+| 3 | `r6971868` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci | 22.458 | 8.48–8.61 |
+| 4 | `r6971868_innen` | Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau | 4.857 | 8.62–8.65 |
+| 5 | `r7031390` | Palazzo della Marescialla | 18.215 | 8.66–8.76 |
+| 6 | `r7031390_innen` | Palazzo della Marescialla: Innenausbau | 4.641 | 8.77–8.80 |
+| 7 | `w474207922` | Reihenhaus an Borgo Ognissanti | 5.707 | 8.81–8.83 |
+| 8 | `w474207922_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.220 | 8.84–8.85 |
+| 9 | `w474207927` | Reihenhaus an Borgo Ognissanti | 2.405 | 8.86–8.87 |
+| 10 | `w474207927_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.342 | 8.88 |
+| 11 | `w474207928` | Palazzo des Cinquecento an Borgo Ognissanti | 15.728 | 8.89–8.98 |
+| 12 | `w474207928_innen` | Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau | 3.070 | 8.99–8.100 |
+| 13 | `w474207930` | Reihenhaus an Lungarno Amerigo Vespucci | 7.888 | 8.101–8.104 |
+| 14 | `w474207930_innen` | Reihenhaus an Lungarno Amerigo Vespucci: Innenausbau | 3.061 | 8.105–8.106 |
+| 15 | `w474207931` | Reihenhaus an Borgo Ognissanti | 6.857 | 8.107–8.110 |
+| 16 | `w474207931_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.332 | 8.111–8.112 |
+| 17 | `w474207933` | Reihenhaus an Borgo Ognissanti | 5.653 | 8.113–8.115 |
+| 18 | `w474207933_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 3.365 | 8.116–8.117 |
+| 19 | `strassenschilder` | Straßenschilder | 16 | 8.117 |
 
 ## Bauschritte
 
-### Schritt 8.1 – The Excelsior, a Luxury Collection Hotel – Teil 1/44 (Y 56–57)
+### Schritt 8.1 – The Excelsior, a Luxury Collection Hotel – Teil 1/38 (Y 56–56)
 
-- **Y-Bereich:** 56 bis 57
-- **Blöcke:** 2.069
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 471
 - **Bauteile:** `r1615532`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.069 |
+| Tuffstein | `tuff` | 471 |
 
 **Beschreibung**
 
@@ -117,121 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – The Excelsior, a Luxury Collection Hotel – Teil 2/44 (Y 57–57)
+### Schritt 8.2 – The Excelsior, a Luxury Collection Hotel – Teil 2/38 (Y 57–57)
 
 - **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.613
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.613 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.3 – The Excelsior, a Luxury Collection Hotel – Teil 3/44 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.916
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.916 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.4 – The Excelsior, a Luxury Collection Hotel – Teil 4/44 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.876
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.876 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.5 – The Excelsior, a Luxury Collection Hotel – Teil 5/44 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.884
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.884 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.6 – The Excelsior, a Luxury Collection Hotel – Teil 6/44 (Y 59–59)
-
-- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.908
 - **Bauteile:** `r1615532`
 
@@ -257,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – The Excelsior, a Luxury Collection Hotel – Teil 7/44 (Y 59–59)
+### Schritt 8.3 – The Excelsior, a Luxury Collection Hotel – Teil 3/38 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.856
 - **Bauteile:** `r1615532`
 
@@ -285,9 +172,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.8 – The Excelsior, a Luxury Collection Hotel – Teil 8/44 (Y 59–59)
+### Schritt 8.4 – The Excelsior, a Luxury Collection Hotel – Teil 4/38 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.862
 - **Bauteile:** `r1615532`
 
@@ -313,9 +200,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.9 – The Excelsior, a Luxury Collection Hotel – Teil 9/44 (Y 59–59)
+### Schritt 8.5 – The Excelsior, a Luxury Collection Hotel – Teil 5/38 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.831
 - **Bauteile:** `r1615532`
 
@@ -341,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – The Excelsior, a Luxury Collection Hotel – Teil 10/44 (Y 59–59)
+### Schritt 8.6 – The Excelsior, a Luxury Collection Hotel – Teil 6/38 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.913
 - **Bauteile:** `r1615532`
 
@@ -369,9 +256,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.11 – The Excelsior, a Luxury Collection Hotel – Teil 11/44 (Y 60–60)
+### Schritt 8.7 – The Excelsior, a Luxury Collection Hotel – Teil 7/38 (Y 58–58)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 984
 - **Bauteile:** `r1615532`
 
@@ -400,9 +287,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.12 – The Excelsior, a Luxury Collection Hotel – Teil 12/44 (Y 61–61)
+### Schritt 8.8 – The Excelsior, a Luxury Collection Hotel – Teil 8/38 (Y 59–59)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 984
 - **Bauteile:** `r1615532`
 
@@ -431,9 +318,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.13 – The Excelsior, a Luxury Collection Hotel – Teil 13/44 (Y 62–62)
+### Schritt 8.9 – The Excelsior, a Luxury Collection Hotel – Teil 9/38 (Y 60–60)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.016
 - **Bauteile:** `r1615532`
 
@@ -462,9 +349,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.14 – The Excelsior, a Luxury Collection Hotel – Teil 14/44 (Y 63–63)
+### Schritt 8.10 – The Excelsior, a Luxury Collection Hotel – Teil 10/38 (Y 61–61)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 963
 - **Bauteile:** `r1615532`
 
@@ -493,7 +380,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.15 – The Excelsior, a Luxury Collection Hotel – Teil 15/44 (Y 64–64)
+### Schritt 8.11 – The Excelsior, a Luxury Collection Hotel – Teil 11/38 (Y 62–63)
+
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.940
+- **Bauteile:** `r1615532`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.514 |
+| Glatter Stein | `smooth_stone` | 226 |
+| Graues Buntglas | `gray_stained_glass` | 190 |
+| Polierter Andesit | `polished_andesite` | 10 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.12 – The Excelsior, a Luxury Collection Hotel – Teil 12/38 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 970
@@ -524,71 +442,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.16 – The Excelsior, a Luxury Collection Hotel – Teil 16/44 (Y 65–65)
+### Schritt 8.13 – The Excelsior, a Luxury Collection Hotel – Teil 13/38 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 970
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 760 |
-| Glatter Stein | `smooth_stone` | 113 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.17 – The Excelsior, a Luxury Collection Hotel – Teil 17/44 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 970
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 754 |
-| Glatter Stein | `smooth_stone` | 113 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.18 – The Excelsior, a Luxury Collection Hotel – Teil 18/44 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 970
 - **Bauteile:** `r1615532`
 
@@ -617,19 +473,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.19 – The Excelsior, a Luxury Collection Hotel – Teil 19/44 (Y 68–68)
+### Schritt 8.14 – The Excelsior, a Luxury Collection Hotel – Teil 14/38 (Y 66–67)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.028
+- **Y-Bereich:** 66 bis 67
+- **Blöcke:** 2.056
 - **Bauteile:** `r1615532`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 815 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.841 |
 | Glatter Stein | `smooth_stone` | 205 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
@@ -647,7 +503,36 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.20 – The Excelsior, a Luxury Collection Hotel – Teil 20/44 (Y 69–69)
+### Schritt 8.15 – The Excelsior, a Luxury Collection Hotel – Teil 15/38 (Y 68–68)
+
+- **Y-Bereich:** 68 bis 68
+- **Blöcke:** 1.028
+- **Bauteile:** `r1615532`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 529 |
+| Glatter Stein | `smooth_stone` | 499 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.16 – The Excelsior, a Luxury Collection Hotel – Teil 16/38 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.028
@@ -676,67 +561,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.21 – The Excelsior, a Luxury Collection Hotel – Teil 21/44 (Y 70–70)
+### Schritt 8.17 – The Excelsior, a Luxury Collection Hotel – Teil 17/38 (Y 70–71)
 
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.028
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 529 |
-| Glatter Stein | `smooth_stone` | 499 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.22 – The Excelsior, a Luxury Collection Hotel – Teil 22/44 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.028
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.026 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.23 – The Excelsior, a Luxury Collection Hotel – Teil 23/44 (Y 72–73)
-
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 2.065
 - **Bauteile:** `r1615532`
 
@@ -765,9 +592,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.24 – The Excelsior, a Luxury Collection Hotel – Teil 24/44 (Y 74–74)
+### Schritt 8.18 – The Excelsior, a Luxury Collection Hotel – Teil 18/38 (Y 72–72)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 989
 - **Bauteile:** `r1615532`
 
@@ -796,50 +623,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.25 – The Excelsior, a Luxury Collection Hotel – Teil 25/44 (Y 75–75)
+### Schritt 8.19 – The Excelsior, a Luxury Collection Hotel – Teil 19/38 (Y 73–74)
 
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 989
+- **Y-Bereich:** 73 bis 74
+- **Blöcke:** 1.978
 - **Bauteile:** `r1615532`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 818 |
-| Glatter Stein | `smooth_stone` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 55 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.26 – The Excelsior, a Luxury Collection Hotel – Teil 26/44 (Y 76–77)
-
-- **Y-Bereich:** 76 bis 77
-- **Blöcke:** 2.017
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.669 |
-| Glatter Stein | `smooth_stone` | 283 |
-| Graues Buntglas | `gray_stained_glass` | 55 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.630 |
+| Glatter Stein | `smooth_stone` | 228 |
+| Graues Buntglas | `gray_stained_glass` | 110 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
@@ -858,9 +654,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.27 – The Excelsior, a Luxury Collection Hotel – Teil 27/44 (Y 78–78)
+### Schritt 8.20 – The Excelsior, a Luxury Collection Hotel – Teil 20/38 (Y 75–75)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 75 bis 75
+- **Blöcke:** 1.028
+- **Bauteile:** `r1615532`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 857 |
+| Glatter Stein | `smooth_stone` | 169 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.21 – The Excelsior, a Luxury Collection Hotel – Teil 21/38 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.028
 - **Bauteile:** `r1615532`
 
@@ -888,9 +714,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.28 – The Excelsior, a Luxury Collection Hotel – Teil 28/44 (Y 79–80)
+### Schritt 8.22 – The Excelsior, a Luxury Collection Hotel – Teil 22/38 (Y 77–78)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 2.056
 - **Bauteile:** `r1615532`
 
@@ -918,9 +744,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.29 – The Excelsior, a Luxury Collection Hotel – Teil 29/44 (Y 81–81)
+### Schritt 8.23 – The Excelsior, a Luxury Collection Hotel – Teil 23/38 (Y 79–79)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.076
 - **Bauteile:** `r1615532`
 
@@ -948,7 +774,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.30 – The Excelsior, a Luxury Collection Hotel – Teil 30/44 (Y 82–82)
+### Schritt 8.24 – The Excelsior, a Luxury Collection Hotel – Teil 24/38 (Y 80–81)
+
+- **Y-Bereich:** 80 bis 81
+- **Blöcke:** 1.978
+- **Bauteile:** `r1615532`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.630 |
+| Glatter Stein | `smooth_stone` | 228 |
+| Graues Buntglas | `gray_stained_glass` | 110 |
+| Polierter Andesit | `polished_andesite` | 10 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.25 – The Excelsior, a Luxury Collection Hotel – Teil 25/38 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 989
@@ -979,40 +836,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.31 – The Excelsior, a Luxury Collection Hotel – Teil 31/44 (Y 83–84)
+### Schritt 8.26 – The Excelsior, a Luxury Collection Hotel – Teil 26/38 (Y 83–83)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.978
-- **Bauteile:** `r1615532`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.630 |
-| Glatter Stein | `smooth_stone` | 228 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
-| Polierter Andesit | `polished_andesite` | 10 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.32 – The Excelsior, a Luxury Collection Hotel – Teil 32/44 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 989
 - **Bauteile:** `r1615532`
 
@@ -1041,9 +867,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.33 – The Excelsior, a Luxury Collection Hotel – Teil 33/44 (Y 86–87)
+### Schritt 8.27 – The Excelsior, a Luxury Collection Hotel – Teil 27/38 (Y 84–85)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 2.017
 - **Bauteile:** `r1615532`
 
@@ -1072,9 +898,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.34 – The Excelsior, a Luxury Collection Hotel – Teil 34/44 (Y 88–88)
+### Schritt 8.28 – The Excelsior, a Luxury Collection Hotel – Teil 28/38 (Y 86–86)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.254
 - **Bauteile:** `r1615532`
 
@@ -1102,9 +928,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.35 – The Excelsior, a Luxury Collection Hotel – Teil 35/44 (Y 89–89)
+### Schritt 8.29 – The Excelsior, a Luxury Collection Hotel – Teil 29/38 (Y 87–87)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.254
 - **Bauteile:** `r1615532`
 
@@ -1131,9 +957,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.36 – The Excelsior, a Luxury Collection Hotel – Teil 36/44 (Y 90–90)
+### Schritt 8.30 – The Excelsior, a Luxury Collection Hotel – Teil 30/38 (Y 88–88)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.264
 - **Bauteile:** `r1615532`
 
@@ -1159,9 +985,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.37 – The Excelsior, a Luxury Collection Hotel – Teil 37/44 (Y 90–90)
+### Schritt 8.31 – The Excelsior, a Luxury Collection Hotel – Teil 31/38 (Y 88–88)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.275
 - **Bauteile:** `r1615532`
 
@@ -1187,9 +1013,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.38 – The Excelsior, a Luxury Collection Hotel – Teil 38/44 (Y 91–91)
+### Schritt 8.32 – The Excelsior, a Luxury Collection Hotel – Teil 32/38 (Y 89–89)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.549
 - **Bauteile:** `r1615532`
 
@@ -1215,9 +1041,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.39 – The Excelsior, a Luxury Collection Hotel – Teil 39/44 (Y 92–92)
+### Schritt 8.33 – The Excelsior, a Luxury Collection Hotel – Teil 33/38 (Y 90–90)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.739
 - **Bauteile:** `r1615532`
 
@@ -1243,9 +1069,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.40 – The Excelsior, a Luxury Collection Hotel – Teil 40/44 (Y 93–93)
+### Schritt 8.34 – The Excelsior, a Luxury Collection Hotel – Teil 34/38 (Y 91–91)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.703
 - **Bauteile:** `r1615532`
 
@@ -1272,9 +1098,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.41 – The Excelsior, a Luxury Collection Hotel – Teil 41/44 (Y 94–94)
+### Schritt 8.35 – The Excelsior, a Luxury Collection Hotel – Teil 35/38 (Y 92–92)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.410
 - **Bauteile:** `r1615532`
 
@@ -1301,9 +1127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.42 – The Excelsior, a Luxury Collection Hotel – Teil 42/44 (Y 95–95)
+### Schritt 8.36 – The Excelsior, a Luxury Collection Hotel – Teil 36/38 (Y 93–93)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.230
 - **Bauteile:** `r1615532`
 
@@ -1330,9 +1156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.43 – The Excelsior, a Luxury Collection Hotel – Teil 43/44 (Y 96–96)
+### Schritt 8.37 – The Excelsior, a Luxury Collection Hotel – Teil 37/38 (Y 94–94)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.108
 - **Bauteile:** `r1615532`
 
@@ -1359,9 +1185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.44 – The Excelsior, a Luxury Collection Hotel – Teil 44/44 (Y 97–101) & The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 1/11 (Y 59–69)
+### Schritt 8.38 – The Excelsior, a Luxury Collection Hotel – Teil 38/38 (Y 95–99) & The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 1/11 (Y 57–67)
 
-- **Y-Bereich:** 59 bis 101
+- **Y-Bereich:** 57 bis 99
 - **Blöcke:** 1.401
 - **Bauteile:** `r1615532`, `r1615532_innen`
 
@@ -1399,9 +1225,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.45 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 2/11 (Y 70–70)
+### Schritt 8.39 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 2/11 (Y 68–68)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1435,9 +1261,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.46 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 3/11 (Y 70–70)
+### Schritt 8.40 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 3/11 (Y 68–68)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1464,9 +1290,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.47 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 4/11 (Y 70–70)
+### Schritt 8.41 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 4/11 (Y 68–68)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1493,9 +1319,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.48 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 5/11 (Y 70–70)
+### Schritt 8.42 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 5/11 (Y 68–68)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1522,9 +1348,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.49 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 6/11 (Y 71–78)
+### Schritt 8.43 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 6/11 (Y 69–76)
 
-- **Y-Bereich:** 71 bis 78
+- **Y-Bereich:** 69 bis 76
 - **Blöcke:** 45
 - **Bauteile:** `r1615532_innen`
 
@@ -1564,9 +1390,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.50 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 7/11 (Y 79–79)
+### Schritt 8.44 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 7/11 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1600,9 +1426,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.51 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 8/11 (Y 79–79)
+### Schritt 8.45 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 8/11 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1629,9 +1455,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.52 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 9/11 (Y 79–79)
+### Schritt 8.46 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 9/11 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1658,9 +1484,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.53 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 10/11 (Y 79–79)
+### Schritt 8.47 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 10/11 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 2.094
 - **Bauteile:** `r1615532_innen`
 
@@ -1687,9 +1513,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.54 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 11/11 (Y 80–80) & Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 1/14 (Y 56–57)
+### Schritt 8.48 – The Excelsior, a Luxury Collection Hotel: Innenausbau – Teil 11/11 (Y 78–78) & Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 1/14 (Y 56–57)
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 56 bis 78
 - **Blöcke:** 1.080
 - **Bauteile:** `r1615532_innen`, `r6971868`
 
@@ -1726,7 +1552,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.55 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 2/14 (Y 58–58)
+### Schritt 8.49 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 2/14 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.577
@@ -1754,7 +1580,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.56 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 3/14 (Y 59–59)
+### Schritt 8.50 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 3/14 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.419
@@ -1782,7 +1608,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.57 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 4/14 (Y 59–60)
+### Schritt 8.51 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 4/14 (Y 59–60)
 
 - **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.816
@@ -1814,7 +1640,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.58 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 5/14 (Y 61–64)
+### Schritt 8.52 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 5/14 (Y 61–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.709
@@ -1848,7 +1674,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.59 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 6/14 (Y 65–68)
+### Schritt 8.53 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 6/14 (Y 65–68)
 
 - **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.732
@@ -1881,7 +1707,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.60 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 7/14 (Y 69–72)
+### Schritt 8.54 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 7/14 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.743
@@ -1913,7 +1739,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.61 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 8/14 (Y 73–76)
+### Schritt 8.55 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 8/14 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.692
@@ -1944,7 +1770,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.62 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 9/14 (Y 77–80)
+### Schritt 8.56 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 9/14 (Y 77–80)
 
 - **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.760
@@ -1974,7 +1800,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.63 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 10/14 (Y 81–84)
+### Schritt 8.57 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 10/14 (Y 81–84)
 
 - **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.709
@@ -2005,7 +1831,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.64 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 11/14 (Y 85–87)
+### Schritt 8.58 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 11/14 (Y 85–87)
 
 - **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.286
@@ -2036,7 +1862,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.65 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 12/14 (Y 88–89)
+### Schritt 8.59 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 12/14 (Y 88–89)
 
 - **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.121
@@ -2066,7 +1892,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.66 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 13/14 (Y 90–91)
+### Schritt 8.60 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 13/14 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.924
@@ -2094,7 +1920,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.67 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 14/14 (Y 92–97)
+### Schritt 8.61 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci – Teil 14/14 (Y 92–97)
 
 - **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.899
@@ -2123,7 +1949,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.68 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 1/4 (Y 59–69)
+### Schritt 8.62 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 1/4 (Y 59–69)
 
 - **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.257
@@ -2165,7 +1991,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.69 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 2/4 (Y 69–69)
+### Schritt 8.63 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 2/4 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.174
@@ -2194,7 +2020,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.70 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 3/4 (Y 70–79)
+### Schritt 8.64 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 3/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.249
@@ -2238,7 +2064,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.71 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 4/4 (Y 79–80)
+### Schritt 8.65 – Palazzo des Cinquecento an Lungarno Amerigo Vespucci: Innenausbau – Teil 4/4 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.177
@@ -2276,7 +2102,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.72 – Palazzo della Marescialla – Teil 1/11 (Y 56–57)
+### Schritt 8.66 – Palazzo della Marescialla – Teil 1/11 (Y 56–57)
 
 - **Y-Bereich:** 56 bis 57
 - **Blöcke:** 913
@@ -2311,7 +2137,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.73 – Palazzo della Marescialla – Teil 2/11 (Y 58–58)
+### Schritt 8.67 – Palazzo della Marescialla – Teil 2/11 (Y 58–58)
 
 - **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.435
@@ -2346,7 +2172,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.74 – Palazzo della Marescialla – Teil 3/11 (Y 59–59)
+### Schritt 8.68 – Palazzo della Marescialla – Teil 3/11 (Y 59–59)
 
 - **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.292
@@ -2374,7 +2200,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.75 – Palazzo della Marescialla – Teil 4/11 (Y 59–61)
+### Schritt 8.69 – Palazzo della Marescialla – Teil 4/11 (Y 59–61)
 
 - **Y-Bereich:** 59 bis 61
 - **Blöcke:** 1.922
@@ -2413,7 +2239,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.76 – Palazzo della Marescialla – Teil 5/11 (Y 62–67)
+### Schritt 8.70 – Palazzo della Marescialla – Teil 5/11 (Y 62–67)
 
 - **Y-Bereich:** 62 bis 67
 - **Blöcke:** 1.921
@@ -2445,7 +2271,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.77 – Palazzo della Marescialla – Teil 6/11 (Y 68–73)
+### Schritt 8.71 – Palazzo della Marescialla – Teil 6/11 (Y 68–73)
 
 - **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.957
@@ -2475,7 +2301,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.78 – Palazzo della Marescialla – Teil 7/11 (Y 74–79)
+### Schritt 8.72 – Palazzo della Marescialla – Teil 7/11 (Y 74–79)
 
 - **Y-Bereich:** 74 bis 79
 - **Blöcke:** 1.916
@@ -2505,7 +2331,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.79 – Palazzo della Marescialla – Teil 8/11 (Y 80–85)
+### Schritt 8.73 – Palazzo della Marescialla – Teil 8/11 (Y 80–85)
 
 - **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.931
@@ -2535,18 +2361,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.80 – Palazzo della Marescialla – Teil 9/11 (Y 86–89)
+### Schritt 8.74 – Palazzo della Marescialla – Teil 9/11 (Y 86–89)
 
 - **Y-Bereich:** 86 bis 89
-- **Blöcke:** 1.467
+- **Blöcke:** 1.503
 - **Bauteile:** `r7031390`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.183 |
-| Glatter Stein | `smooth_stone` | 257 |
+| Rosa Keramik | `pink_terracotta` | 1.217 |
+| Glatter Stein | `smooth_stone` | 259 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 
 **Beschreibung**
@@ -2565,17 +2391,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.81 – Palazzo della Marescialla – Teil 10/11 (Y 90–91)
+### Schritt 8.75 – Palazzo della Marescialla – Teil 10/11 (Y 90–91)
 
 - **Y-Bereich:** 90 bis 91
-- **Blöcke:** 1.822
+- **Blöcke:** 1.823
 - **Bauteile:** `r7031390`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.822 |
+| Terrakotta | `terracotta` | 1.823 |
 
 **Beschreibung**
 
@@ -2593,7 +2419,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.82 – Palazzo della Marescialla – Teil 11/11 (Y 92–97)
+### Schritt 8.76 – Palazzo della Marescialla – Teil 11/11 (Y 92–97)
 
 - **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.602
@@ -2622,7 +2448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.83 – Palazzo della Marescialla: Innenausbau – Teil 1/4 (Y 59–69)
+### Schritt 8.77 – Palazzo della Marescialla: Innenausbau – Teil 1/4 (Y 59–69)
 
 - **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.185
@@ -2632,11 +2458,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.117 |
+| Terrakotta | `terracotta` | 1.118 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 19 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -2664,7 +2490,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.84 – Palazzo della Marescialla: Innenausbau – Teil 2/4 (Y 69–69)
+### Schritt 8.78 – Palazzo della Marescialla: Innenausbau – Teil 2/4 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.135
@@ -2674,8 +2500,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.130 |
-| Seelaterne | `sea_lantern` | 5 |
+| Terrakotta | `terracotta` | 1.128 |
+| Seelaterne | `sea_lantern` | 7 |
 
 **Beschreibung**
 
@@ -2693,26 +2519,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.85 – Palazzo della Marescialla: Innenausbau – Teil 3/4 (Y 70–79)
+### Schritt 8.79 – Palazzo della Marescialla: Innenausbau – Teil 3/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.175
+- **Blöcke:** 1.179
 - **Bauteile:** `r7031390_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.117 |
+| Terrakotta | `terracotta` | 1.118 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 7 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
+| Seelaterne | `sea_lantern` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2737,20 +2563,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.86 – Palazzo della Marescialla: Innenausbau – Teil 4/4 (Y 79–80)
+### Schritt 8.80 – Palazzo della Marescialla: Innenausbau – Teil 4/4 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.144
+- **Blöcke:** 1.142
 - **Bauteile:** `r7031390_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.130 |
-| Seelaterne | `sea_lantern` | 5 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Terrakotta | `terracotta` | 1.128 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -2777,30 +2603,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.87 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 56–64)
+### Schritt 8.81 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 55–61)
 
-- **Y-Bereich:** 56 bis 64
-- **Blöcke:** 1.913
+- **Y-Bereich:** 55 bis 61
+- **Blöcke:** 1.873
 - **Bauteile:** `w474207922`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 816 |
-| Rosa Keramik | `pink_terracotta` | 742 |
-| Tuffstein | `tuff` | 295 |
+| Rosa Keramik | `pink_terracotta` | 998 |
+| Polierter Tuffstein | `polished_tuff` | 821 |
 | Weißer Beton | `white_concrete` | 30 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -2818,17 +2635,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.88 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 65–80)
+### Schritt 8.82 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 62–78)
 
-- **Y-Bereich:** 65 bis 80
-- **Blöcke:** 1.872
+- **Y-Bereich:** 62 bis 78
+- **Blöcke:** 1.991
 - **Bauteile:** `w474207922`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.707 |
+| Rosa Keramik | `pink_terracotta` | 1.826 |
 | Weißer Beton | `white_concrete` | 133 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 
@@ -2848,10 +2665,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.89 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 81–92)
+### Schritt 8.83 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 79–89)
 
-- **Y-Bereich:** 81 bis 92
-- **Blöcke:** 1.962
+- **Y-Bereich:** 79 bis 89
+- **Blöcke:** 1.843
 - **Bauteile:** `w474207922`
 
 **Teileliste**
@@ -2859,7 +2676,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 972 |
-| Rosa Keramik | `pink_terracotta` | 858 |
+| Rosa Keramik | `pink_terracotta` | 739 |
 | Weißer Beton | `white_concrete` | 62 |
 | Ziegelsteine | `bricks` | 54 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -2880,9 +2697,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.90 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 58–73)
+### Schritt 8.84 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 55–70)
 
-- **Y-Bereich:** 58 bis 73
+- **Y-Bereich:** 55 bis 70
 - **Blöcke:** 784
 - **Bauteile:** `w474207922_innen`
 
@@ -2922,9 +2739,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.91 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 74–81)
+### Schritt 8.85 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 71–78)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.436
 - **Bauteile:** `w474207922_innen`
 
@@ -2962,28 +2779,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.92 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 56–72)
+### Schritt 8.86 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 55–71)
 
-- **Y-Bereich:** 56 bis 72
-- **Blöcke:** 1.242
+- **Y-Bereich:** 55 bis 71
+- **Blöcke:** 1.216
 - **Bauteile:** `w474207927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 679 |
-| Polierter Tuffstein | `polished_tuff` | 452 |
+| Endsteinziegel | `end_stone_bricks` | 670 |
+| Polierter Tuffstein | `polished_tuff` | 455 |
 | Polierter Andesit | `polished_andesite` | 73 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
-| Tuffstein | `tuff` | 16 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -3001,18 +2810,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.93 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 73–92)
+### Schritt 8.87 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 72–90)
 
-- **Y-Bereich:** 73 bis 92
-- **Blöcke:** 1.232
+- **Y-Bereich:** 72 bis 90
+- **Blöcke:** 1.189
 - **Bauteile:** `w474207927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 573 |
 | Terrakotta | `terracotta` | 538 |
+| Endsteinziegel | `end_stone_bricks` | 530 |
 | Polierter Andesit | `polished_andesite` | 76 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 | Ziegelsteine | `bricks` | 21 |
@@ -3033,27 +2842,31 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.94 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 8.88 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 57 bis 80
-- **Blöcke:** 1.333
+- **Y-Bereich:** 55 bis 79
+- **Blöcke:** 1.342
 - **Bauteile:** `w474207927_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.215 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Terrakotta | `terracotta` | 1.212 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -3071,52 +2884,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.95 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 1/11 (Y 57–59)
+### Schritt 8.89 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 1/10 (Y 57–58)
 
-- **Y-Bereich:** 57 bis 59
-- **Blöcke:** 1.422
+- **Y-Bereich:** 57 bis 58
+- **Blöcke:** 522
 - **Bauteile:** `w474207928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.418 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.96 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 2/11 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.373
-- **Bauteile:** `w474207928`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.371 |
+| Tuffstein | `tuff` | 520 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -3141,17 +2919,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.97 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 3/11 (Y 61–61)
+### Schritt 8.90 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 2/10 (Y 59–59)
 
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.836
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 1.840
 - **Bauteile:** `w474207928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.834 |
+| Polierter Tuffstein | `polished_tuff` | 1.838 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -3176,9 +2954,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.98 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 4/11 (Y 62–66)
+### Schritt 8.91 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 3/10 (Y 60–64)
 
-- **Y-Bereich:** 62 bis 66
+- **Y-Bereich:** 60 bis 64
 - **Blöcke:** 1.820
 - **Bauteile:** `w474207928`
 
@@ -3209,9 +2987,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.99 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 5/11 (Y 67–71)
+### Schritt 8.92 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 4/10 (Y 65–69)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.766
 - **Bauteile:** `w474207928`
 
@@ -3242,9 +3020,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.100 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 6/11 (Y 72–76)
+### Schritt 8.93 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 5/10 (Y 70–74)
 
-- **Y-Bereich:** 72 bis 76
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.771
 - **Bauteile:** `w474207928`
 
@@ -3274,18 +3052,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.101 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 7/11 (Y 77–80)
+### Schritt 8.94 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 6/10 (Y 75–79)
 
-- **Y-Bereich:** 77 bis 80
-- **Blöcke:** 1.389
+- **Y-Bereich:** 75 bis 79
+- **Blöcke:** 1.749
 - **Bauteile:** `w474207928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.034 |
-| Glatter Stein | `smooth_stone` | 194 |
+| Weißer Beton | `white_concrete` | 1.194 |
+| Glatter Stein | `smooth_stone` | 394 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 | Grüner Beton | `green_concrete` | 45 |
 | Polierter Andesit | `polished_andesite` | 14 |
@@ -3306,18 +3084,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.102 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 8/11 (Y 81–85)
+### Schritt 8.95 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 7/10 (Y 80–83)
 
-- **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.788
+- **Y-Bereich:** 80 bis 83
+- **Blöcke:** 1.428
 - **Bauteile:** `w474207928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.300 |
-| Glatter Stein | `smooth_stone` | 376 |
+| Weißer Beton | `white_concrete` | 1.140 |
+| Glatter Stein | `smooth_stone` | 176 |
 | Graues Buntglas | `gray_stained_glass` | 68 |
 | Grüner Beton | `green_concrete` | 30 |
 | Polierter Andesit | `polished_andesite` | 14 |
@@ -3338,21 +3116,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.103 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 9/11 (Y 86–89)
+### Schritt 8.96 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 8/10 (Y 84–88)
 
-- **Y-Bereich:** 86 bis 89
-- **Blöcke:** 1.389
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.850
 - **Bauteile:** `w474207928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.034 |
+| Weißer Beton | `white_concrete` | 1.490 |
 | Glatter Stein | `smooth_stone` | 194 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 | Grüner Beton | `green_concrete` | 45 |
-| Polierter Andesit | `polished_andesite` | 14 |
+| Polierter Andesit | `polished_andesite` | 19 |
 
 **Beschreibung**
 
@@ -3370,19 +3148,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.104 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 10/11 (Y 90–92)
+### Schritt 8.97 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 9/10 (Y 89–90)
 
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.753
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.292
 - **Bauteile:** `w474207928`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 915 |
 | Terrakotta | `terracotta` | 831 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Weißer Beton | `white_concrete` | 459 |
+| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
@@ -3400,9 +3178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.105 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 11/11 (Y 93–99)
+### Schritt 8.98 – Palazzo des Cinquecento an Borgo Ognissanti – Teil 10/10 (Y 91–97)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.690
 - **Bauteile:** `w474207928`
 
@@ -3429,9 +3207,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.106 – Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 61–71)
+### Schritt 8.99 – Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 59–69)
 
-- **Y-Bereich:** 61 bis 71
+- **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.540
 - **Bauteile:** `w474207928_innen`
 
@@ -3467,9 +3245,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.107 – Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 72–81)
+### Schritt 8.100 – Palazzo des Cinquecento an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 70–79)
 
-- **Y-Bereich:** 72 bis 81
+- **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.530
 - **Bauteile:** `w474207928_innen`
 
@@ -3505,45 +3283,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.108 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 1/5 (Y 56–59)
+### Schritt 8.101 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 1/4 (Y 56–63)
 
-- **Y-Bereich:** 56 bis 59
-- **Blöcke:** 1.256
+- **Y-Bereich:** 56 bis 63
+- **Blöcke:** 2.016
 - **Bauteile:** `w474207930`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.256 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.109 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 2/5 (Y 60–68)
-
-- **Y-Bereich:** 60 bis 68
-- **Blöcke:** 2.073
-- **Bauteile:** `w474207930`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.169 |
+| Orange Keramik | `orange_terracotta` | 1.112 |
 | Polierter Tuffstein | `polished_tuff` | 880 |
 | Grüner Beton | `green_concrete` | 12 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
@@ -3565,47 +3315,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.110 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 3/5 (Y 69–82)
+### Schritt 8.102 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 2/4 (Y 64–76)
 
-- **Y-Bereich:** 69 bis 82
-- **Blöcke:** 2.046
+- **Y-Bereich:** 64 bis 76
+- **Blöcke:** 1.902
 - **Bauteile:** `w474207930`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.950 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
-| Grüner Beton | `green_concrete` | 48 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.111 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 4/5 (Y 83–94)
-
-- **Y-Bereich:** 83 bis 94
-- **Blöcke:** 1.891
-- **Bauteile:** `w474207930`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.801 |
+| Orange Keramik | `orange_terracotta` | 1.812 |
 | Grüner Beton | `green_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 
@@ -3625,9 +3345,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.112 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 5/5 (Y 95–104)
+### Schritt 8.103 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 3/4 (Y 77–90)
 
-- **Y-Bereich:** 95 bis 104
+- **Y-Bereich:** 77 bis 90
+- **Blöcke:** 2.092
+- **Bauteile:** `w474207930`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.996 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Grüner Beton | `green_concrete` | 48 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.104 – Reihenhaus an Lungarno Amerigo Vespucci – Teil 4/4 (Y 91–100)
+
+- **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.878
 - **Bauteile:** `w474207930`
 
@@ -3657,9 +3407,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.113 – Reihenhaus an Lungarno Amerigo Vespucci: Innenausbau – Teil 1/2 (Y 60–76)
+### Schritt 8.105 – Reihenhaus an Lungarno Amerigo Vespucci: Innenausbau – Teil 1/2 (Y 56–72)
 
-- **Y-Bereich:** 60 bis 76
+- **Y-Bereich:** 56 bis 72
 - **Blöcke:** 1.537
 - **Bauteile:** `w474207930_innen`
 
@@ -3695,9 +3445,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.114 – Reihenhaus an Lungarno Amerigo Vespucci: Innenausbau – Teil 2/2 (Y 77–90)
+### Schritt 8.106 – Reihenhaus an Lungarno Amerigo Vespucci: Innenausbau – Teil 2/2 (Y 73–86)
 
-- **Y-Bereich:** 77 bis 90
+- **Y-Bereich:** 73 bis 86
 - **Blöcke:** 1.524
 - **Bauteile:** `w474207930_innen`
 
@@ -3733,10 +3483,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.115 – Reihenhaus an Borgo Ognissanti – Teil 1/4 (Y 56–62)
+### Schritt 8.107 – Reihenhaus an Borgo Ognissanti – Teil 1/4 (Y 56–63)
 
-- **Y-Bereich:** 56 bis 62
-- **Blöcke:** 1.682
+- **Y-Bereich:** 56 bis 63
+- **Blöcke:** 1.746
 - **Bauteile:** `w474207931`
 
 **Teileliste**
@@ -3745,9 +3495,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 665 |
 | Tuffstein | `tuff` | 608 |
-| Weißer Beton | `white_concrete` | 392 |
-| Glatter Stein | `smooth_stone` | 9 |
+| Weißer Beton | `white_concrete` | 441 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Graues Buntglas | `gray_stained_glass` | 8 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 |
+| Fichtenholz-Bretter | `spruce_planks` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3771,20 +3523,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.116 – Reihenhaus an Borgo Ognissanti – Teil 2/4 (Y 63–76)
+### Schritt 8.108 – Reihenhaus an Borgo Ognissanti – Teil 2/4 (Y 64–77)
 
-- **Y-Bereich:** 63 bis 76
-- **Blöcke:** 1.695
+- **Y-Bereich:** 64 bis 77
+- **Blöcke:** 1.701
 - **Bauteile:** `w474207931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.602 |
-| Graues Buntglas | `gray_stained_glass` | 59 |
+| Weißer Beton | `white_concrete` | 1.610 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
 | Fichtenholz-Bretter | `spruce_planks` | 24 |
-| Glatter Stein | `smooth_stone` | 10 |
+| Glatter Stein | `smooth_stone` | 7 |
 
 **Beschreibung**
 
@@ -3802,9 +3554,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.117 – Reihenhaus an Borgo Ognissanti – Teil 3/4 (Y 77–90)
+### Schritt 8.109 – Reihenhaus an Borgo Ognissanti – Teil 3/4 (Y 78–91)
 
-- **Y-Bereich:** 77 bis 90
+- **Y-Bereich:** 78 bis 91
 - **Blöcke:** 1.698
 - **Bauteile:** `w474207931`
 
@@ -3832,21 +3584,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.118 – Reihenhaus an Borgo Ognissanti – Teil 4/4 (Y 91–101)
+### Schritt 8.110 – Reihenhaus an Borgo Ognissanti – Teil 4/4 (Y 92–101)
 
-- **Y-Bereich:** 91 bis 101
-- **Blöcke:** 1.681
+- **Y-Bereich:** 92 bis 101
+- **Blöcke:** 1.712
 - **Bauteile:** `w474207931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 852 |
-| Weißer Beton | `white_concrete` | 674 |
-| Fichtenholz-Bretter | `spruce_planks` | 78 |
+| Terrakotta | `terracotta` | 853 |
+| Weißer Beton | `white_concrete` | 717 |
+| Fichtenholz-Bretter | `spruce_planks` | 74 |
 | Ziegelsteine | `bricks` | 41 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
+| Graues Buntglas | `gray_stained_glass` | 27 |
 
 **Beschreibung**
 
@@ -3864,7 +3616,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.119 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 59–75)
+### Schritt 8.111 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 59–75)
 
 - **Y-Bereich:** 59 bis 75
 - **Blöcke:** 1.172
@@ -3902,7 +3654,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.120 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 76–89)
+### Schritt 8.112 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 76–89)
 
 - **Y-Bereich:** 76 bis 89
 - **Blöcke:** 1.160
@@ -3940,25 +3692,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.121 – Reihenhaus an Borgo Ognissanti – Teil 1/4 (Y 56–59)
+### Schritt 8.113 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 55–62)
 
-- **Y-Bereich:** 56 bis 59
-- **Blöcke:** 1.723
+- **Y-Bereich:** 55 bis 62
+- **Blöcke:** 1.873
 - **Bauteile:** `w474207933`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 884 |
-| Tuffstein | `tuff` | 831 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
+| Polierter Tuffstein | `polished_tuff` | 892 |
+| Weißer Beton | `white_concrete` | 826 |
+| Polierter Andesit | `polished_andesite` | 106 |
+| Graues Buntglas | `gray_stained_glass` | 49 |
 
 **Beschreibung**
 
@@ -3976,19 +3723,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.122 – Reihenhaus an Borgo Ognissanti – Teil 2/4 (Y 60–77)
+### Schritt 8.114 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–85)
 
-- **Y-Bereich:** 60 bis 77
-- **Blöcke:** 1.449
+- **Y-Bereich:** 63 bis 85
+- **Blöcke:** 1.886
 - **Bauteile:** `w474207933`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.019 |
-| Polierter Andesit | `polished_andesite` | 327 |
-| Graues Buntglas | `gray_stained_glass` | 103 |
+| Weißer Beton | `white_concrete` | 1.301 |
+| Polierter Andesit | `polished_andesite` | 456 |
+| Graues Buntglas | `gray_stained_glass` | 129 |
 
 **Beschreibung**
 
@@ -4006,40 +3753,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.123 – Reihenhaus an Borgo Ognissanti – Teil 3/4 (Y 78–93)
+### Schritt 8.115 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 86–97)
 
-- **Y-Bereich:** 78 bis 93
-- **Blöcke:** 1.534
-- **Bauteile:** `w474207933`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.088 |
-| Polierter Andesit | `polished_andesite` | 338 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.124 – Reihenhaus an Borgo Ognissanti – Teil 4/4 (Y 94–101)
-
-- **Y-Bereich:** 94 bis 101
-- **Blöcke:** 1.571
+- **Y-Bereich:** 86 bis 97
+- **Blöcke:** 1.894
 - **Bauteile:** `w474207933`
 
 **Teileliste**
@@ -4047,10 +3764,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.093 |
-| Weißer Beton | `white_concrete` | 365 |
+| Weißer Beton | `white_concrete` | 557 |
+| Polierter Andesit | `polished_andesite` | 149 |
 | Ziegelsteine | `bricks` | 52 |
-| Polierter Andesit | `polished_andesite` | 51 |
-| Graues Buntglas | `gray_stained_glass` | 10 |
+| Graues Buntglas | `gray_stained_glass` | 43 |
 
 **Beschreibung**
 
@@ -4068,9 +3785,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.125 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 59–75)
+### Schritt 8.116 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 55–71)
 
-- **Y-Bereich:** 59 bis 75
+- **Y-Bereich:** 55 bis 71
 - **Blöcke:** 1.689
 - **Bauteile:** `w474207933_innen`
 
@@ -4080,8 +3797,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.598 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
 | Seelaterne | `sea_lantern` | 15 |
 
 **Treppen je Material** (alle Richtungen)
@@ -4106,9 +3823,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.126 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 76–89) & Straßenschilder
+### Schritt 8.117 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 72–85) & Straßenschilder
 
-- **Y-Bereich:** 66 bis 89
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 1.692
 - **Bauteile:** `w474207933_innen`, `strassenschilder`
 
@@ -4118,8 +3835,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.598 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 40 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 12 |
 | Seelaterne | `sea_lantern` | 10 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 7 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 6 |

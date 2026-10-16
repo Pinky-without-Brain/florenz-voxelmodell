@@ -8,27 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 6.854 |
+| Blöcke | 6.826 |
 | Bauschritte | 4 |
-| Y-Bereich | 79 bis 116 |
+| Y-Bereich | 79 bis 115 |
 | X-Ausdehnung | -1306 bis -1275 (32 Blöcke) |
 | Z-Ausdehnung | 1847 bis 1877 (31 Blöcke) |
 | Kleinster Schritt | 925 Blöcke (Schritt 6.4) |
-| Mittlerer Schritt | 1.714 Blöcke |
-| Größter Schritt | 2.063 Blöcke (Schritt 6.1) |
+| Mittlerer Schritt | 1.707 Blöcke |
+| Größter Schritt | 2.035 Blöcke (Schritt 6.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 3.682 | 53,7 % |
-| Terrakotta | `terracotta` | 1.372 | 20,0 % |
+| Orange Keramik | `orange_terracotta` | 3.682 | 53,9 % |
+| Terrakotta | `terracotta` | 1.372 | 20,1 % |
 | Polierter Andesit | `polished_andesite` | 944 | 13,8 % |
 | Polierter Tuffstein | `polished_tuff` | 440 | 6,4 % |
 | Graues Buntglas | `gray_stained_glass` | 235 | 3,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,9 % |
 | Ziegelsteine | `bricks` | 35 | 0,5 % |
-| Tuffstein | `tuff` | 28 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,3 % |
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
@@ -43,15 +42,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w483549902` | Haus w483549902 | 5.929 | 6.1–6.3 |
+| 1 | `w483549902` | Haus w483549902 | 5.901 | 6.1–6.3 |
 | 2 | `w483549902_innen` | Haus w483549902: Innenausbau | 925 | 6.4 |
 
 ## Bauschritte
 
-### Schritt 6.1 – Haus w483549902 – Teil 1/3 (Y 79–90)
+### Schritt 6.1 – Haus w483549902 – Teil 1/3 (Y 79–89)
 
-- **Y-Bereich:** 79 bis 90
-- **Blöcke:** 2.063
+- **Y-Bereich:** 79 bis 89
+- **Blöcke:** 2.035
 - **Bauteile:** `w483549902`
 
 **Teileliste**
@@ -62,7 +61,6 @@
 | Polierter Tuffstein | `polished_tuff` | 440 |
 | Polierter Andesit | `polished_andesite` | 277 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
-| Tuffstein | `tuff` | 28 |
 
 **Beschreibung**
 
@@ -80,9 +78,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.2 – Haus w483549902 – Teil 2/3 (Y 91–102)
+### Schritt 6.2 – Haus w483549902 – Teil 2/3 (Y 90–101)
 
-- **Y-Bereich:** 91 bis 102
+- **Y-Bereich:** 90 bis 101
 - **Blöcke:** 1.887
 - **Bauteile:** `w483549902`
 
@@ -110,9 +108,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.3 – Haus w483549902 – Teil 3/3 (Y 103–116)
+### Schritt 6.3 – Haus w483549902 – Teil 3/3 (Y 102–115)
 
-- **Y-Bereich:** 103 bis 116
+- **Y-Bereich:** 102 bis 115
 - **Blöcke:** 1.979
 - **Bauteile:** `w483549902`
 
@@ -144,7 +142,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.4 – Haus w483549902: Innenausbau
 
-- **Y-Bereich:** 80 bis 103
+- **Y-Bereich:** 79 bis 102
 - **Blöcke:** 925
 - **Bauteile:** `w483549902_innen`
 

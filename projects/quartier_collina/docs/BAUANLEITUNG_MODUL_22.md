@@ -8,47 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 17.445 |
+| Blöcke | 16.933 |
 | Bauschritte | 11 |
-| Y-Bereich | 184 bis 224 |
+| Y-Bereich | 183 bis 222 |
 | X-Ausdehnung | -434 bis -358 (77 Blöcke) |
 | Z-Ausdehnung | 2493 bis 2527 (35 Blöcke) |
 | Kleinster Schritt | 456 Blöcke (Schritt 22.3) |
-| Mittlerer Schritt | 1.586 Blöcke |
-| Größter Schritt | 2.006 Blöcke (Schritt 22.6) |
+| Mittlerer Schritt | 1.539 Blöcke |
+| Größter Schritt | 1.923 Blöcke (Schritt 22.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 3.684 | 21,1 % |
-| Weißer Beton | `white_concrete` | 3.622 | 20,8 % |
-| Terrakotta | `terracotta` | 3.599 | 20,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 2.413 | 13,8 % |
-| Polierter Tuffstein | `polished_tuff` | 1.113 | 6,4 % |
-| Glatter Stein | `smooth_stone` | 792 | 4,5 % |
-| Graues Buntglas | `gray_stained_glass` | 788 | 4,5 % |
-| Tuffstein | `tuff` | 514 | 2,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.700 | 21,9 % |
+| Terrakotta | `terracotta` | 3.599 | 21,3 % |
+| Weißer Beton | `white_concrete` | 3.596 | 21,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 2.413 | 14,3 % |
+| Polierter Tuffstein | `polished_tuff` | 1.128 | 6,7 % |
+| Graues Buntglas | `gray_stained_glass` | 788 | 4,7 % |
+| Glatter Stein | `smooth_stone` | 785 | 4,6 % |
 | Grüner Beton | `green_concrete` | 323 | 1,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 198 | 1,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 198 | 1,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 99 | 0,6 % |
 | Ziegelsteine | `bricks` | 68 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 49 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 45 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 24 | 0,1 % |
 | Seelaterne | `sea_lantern` | 24 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 24 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 12 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
+| Tuffstein | `tuff` | 20 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 144 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -56,16 +53,16 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w475937093` | Reihenhaus an Via di San Leonardo | 3.798 | 22.1–22.2 |
 | 2 | `w475937093_innen` | Reihenhaus an Via di San Leonardo: Innenausbau | 456 | 22.3 |
-| 3 | `w475937096` | Reihenhaus an Via di San Leonardo | 5.957 | 22.4–22.6 |
+| 3 | `w475937096` | Reihenhaus an Via di San Leonardo | 5.429 | 22.4–22.6 |
 | 4 | `w475937096_innen` | Reihenhaus an Via di San Leonardo: Innenausbau | 1.214 | 22.7 |
-| 5 | `w475937100` | Haus w475937100 | 5.176 | 22.8–22.10 |
+| 5 | `w475937100` | Haus w475937100 | 5.192 | 22.8–22.10 |
 | 6 | `w475937100_innen` | Haus w475937100: Innenausbau | 844 | 22.11 |
 
 ## Bauschritte
 
-### Schritt 22.1 – Reihenhaus an Via di San Leonardo – Teil 1/2 (Y 184–200)
+### Schritt 22.1 – Reihenhaus an Via di San Leonardo – Teil 1/2 (Y 183–199)
 
-- **Y-Bereich:** 184 bis 200
+- **Y-Bereich:** 183 bis 199
 - **Blöcke:** 1.875
 - **Bauteile:** `w475937093`
 
@@ -96,9 +93,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.2 – Reihenhaus an Via di San Leonardo – Teil 2/2 (Y 201–219)
+### Schritt 22.2 – Reihenhaus an Via di San Leonardo – Teil 2/2 (Y 200–218)
 
-- **Y-Bereich:** 201 bis 219
+- **Y-Bereich:** 200 bis 218
 - **Blöcke:** 1.923
 - **Bauteile:** `w475937093`
 
@@ -132,7 +129,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.3 – Reihenhaus an Via di San Leonardo: Innenausbau
 
-- **Y-Bereich:** 184 bis 208
+- **Y-Bereich:** 183 bis 207
 - **Blöcke:** 456
 - **Bauteile:** `w475937093_innen`
 
@@ -170,29 +167,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.4 – Reihenhaus an Via di San Leonardo – Teil 1/3 (Y 184–195)
+### Schritt 22.4 – Reihenhaus an Via di San Leonardo – Teil 1/3 (Y 184–194)
 
-- **Y-Bereich:** 184 bis 195
-- **Blöcke:** 1.969
+- **Y-Bereich:** 184 bis 194
+- **Blöcke:** 1.761
 - **Bauteile:** `w475937096`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 733 |
-| Tuffstein | `tuff` | 510 |
-| Polierter Tuffstein | `polished_tuff` | 496 |
-| Glatter Stein | `smooth_stone` | 157 |
+| Weißer Beton | `white_concrete` | 1.021 |
+| Polierter Tuffstein | `polished_tuff` | 511 |
+| Glatter Stein | `smooth_stone` | 156 |
 | Graues Buntglas | `gray_stained_glass` | 57 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 12 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
+| Tuffstein | `tuff` | 16 |
 
 **Beschreibung**
 
@@ -210,18 +199,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.5 – Reihenhaus an Via di San Leonardo – Teil 2/3 (Y 196–209)
+### Schritt 22.5 – Reihenhaus an Via di San Leonardo – Teil 2/3 (Y 195–207)
 
-- **Y-Bereich:** 196 bis 209
-- **Blöcke:** 1.982
+- **Y-Bereich:** 195 bis 207
+- **Blöcke:** 1.835
 - **Bauteile:** `w475937096`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.486 |
-| Glatter Stein | `smooth_stone` | 320 |
+| Weißer Beton | `white_concrete` | 1.303 |
+| Glatter Stein | `smooth_stone` | 356 |
 | Graues Buntglas | `gray_stained_glass` | 176 |
 
 **Beschreibung**
@@ -240,19 +229,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.6 – Reihenhaus an Via di San Leonardo – Teil 3/3 (Y 210–224)
+### Schritt 22.6 – Reihenhaus an Via di San Leonardo – Teil 3/3 (Y 208–221)
 
-- **Y-Bereich:** 210 bis 224
-- **Blöcke:** 2.006
+- **Y-Bereich:** 208 bis 221
+- **Blöcke:** 1.833
 - **Bauteile:** `w475937096`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.029 |
+| Weißer Beton | `white_concrete` | 898 |
 | Terrakotta | `terracotta` | 629 |
-| Glatter Stein | `smooth_stone` | 220 |
+| Glatter Stein | `smooth_stone` | 178 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
 | Ziegelsteine | `bricks` | 40 |
 
@@ -274,7 +263,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.7 – Reihenhaus an Via di San Leonardo: Innenausbau
 
-- **Y-Bereich:** 188 bis 212
+- **Y-Bereich:** 185 bis 209
 - **Blöcke:** 1.214
 - **Bauteile:** `w475937096_innen`
 
@@ -317,14 +306,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 22.8 – Haus w475937100 – Teil 1/3 (Y 186–197)
 
 - **Y-Bereich:** 186 bis 197
-- **Blöcke:** 1.745
+- **Blöcke:** 1.729
 - **Bauteile:** `w475937100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.163 |
+| Glatter Sandstein | `smooth_sandstone` | 1.147 |
 | Polierter Tuffstein | `polished_tuff` | 388 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 | Glatter Stein | `smooth_stone` | 72 |
@@ -347,17 +336,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.9 – Haus w475937100 – Teil 2/3 (Y 198–209)
+### Schritt 22.9 – Haus w475937100 – Teil 2/3 (Y 198–210)
 
-- **Y-Bereich:** 198 bis 209
-- **Blöcke:** 1.642
+- **Y-Bereich:** 198 bis 210
+- **Blöcke:** 1.788
 - **Bauteile:** `w475937100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.402 |
+| Glatter Sandstein | `smooth_sandstone` | 1.548 |
 | Graues Buntglas | `gray_stained_glass` | 132 |
 | Grüner Beton | `green_concrete` | 108 |
 
@@ -377,17 +366,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.10 – Haus w475937100 – Teil 3/3 (Y 210–222)
+### Schritt 22.10 – Haus w475937100 – Teil 3/3 (Y 211–222)
 
-- **Y-Bereich:** 210 bis 222
-- **Blöcke:** 1.789
+- **Y-Bereich:** 211 bis 222
+- **Blöcke:** 1.675
 - **Bauteile:** `w475937100`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.119 |
+| Glatter Sandstein | `smooth_sandstone` | 1.005 |
 | Terrakotta | `terracotta` | 527 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
 | Grüner Beton | `green_concrete` | 54 |

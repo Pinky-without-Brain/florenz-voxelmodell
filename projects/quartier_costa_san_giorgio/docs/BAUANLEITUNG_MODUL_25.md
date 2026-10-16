@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 13.402 |
+| Blöcke | 12.825 |
 | Bauschritte | 8 |
-| Y-Bereich | 183 bis 222 |
+| Y-Bereich | 183 bis 221 |
 | X-Ausdehnung | 38 bis 99 (62 Blöcke) |
 | Z-Ausdehnung | 2161 bis 2207 (47 Blöcke) |
 | Kleinster Schritt | 971 Blöcke (Schritt 25.8) |
-| Mittlerer Schritt | 1.675 Blöcke |
-| Größter Schritt | 1.867 Blöcke (Schritt 25.5) |
+| Mittlerer Schritt | 1.603 Blöcke |
+| Größter Schritt | 1.849 Blöcke (Schritt 25.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 3.995 | 29,8 % |
-| Polierter Andesit | `polished_andesite` | 2.939 | 21,9 % |
-| Glatter Stein | `smooth_stone` | 2.547 | 19,0 % |
-| Terrakotta | `terracotta` | 1.979 | 14,8 % |
-| Polierter Tuffstein | `polished_tuff` | 742 | 5,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 634 | 4,7 % |
-| Graues Buntglas | `gray_stained_glass` | 469 | 3,5 % |
+| Tuffstein | `tuff` | 3.418 | 26,7 % |
+| Polierter Andesit | `polished_andesite` | 2.939 | 22,9 % |
+| Glatter Stein | `smooth_stone` | 2.547 | 19,9 % |
+| Terrakotta | `terracotta` | 1.979 | 15,4 % |
+| Polierter Tuffstein | `polished_tuff` | 742 | 5,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 634 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 469 | 3,7 % |
 | Ziegelsteine | `bricks` | 48 | 0,4 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,2 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,1 % |
@@ -43,23 +43,26 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758438` | Haus w397758438 | 12.431 | 25.1–25.7 |
+| 1 | `w397758438` | Haus w397758438 | 11.854 | 25.1–25.7 |
 | 2 | `w397758438_innen` | Haus w397758438: Innenausbau | 971 | 25.8 |
 
 ## Bauschritte
 
-### Schritt 25.1 – Haus w397758438 – Teil 1/7 (Y 183–186)
+### Schritt 25.1 – Haus w397758438 – Teil 1/7 (Y 183–187)
 
-- **Y-Bereich:** 183 bis 186
-- **Blöcke:** 1.674
+- **Y-Bereich:** 183 bis 187
+- **Blöcke:** 1.683
 - **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 932 |
 | Polierter Tuffstein | `polished_tuff` | 742 |
+| Tuffstein | `tuff` | 573 |
+| Polierter Andesit | `polished_andesite` | 183 |
+| Tuffsteinziegel | `tuff_bricks` | 166 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
@@ -77,21 +80,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.2 – Haus w397758438 – Teil 2/7 (Y 187–192)
+### Schritt 25.2 – Haus w397758438 – Teil 2/7 (Y 188–193)
 
-- **Y-Bereich:** 187 bis 192
-- **Blöcke:** 1.739
+- **Y-Bereich:** 188 bis 193
+- **Blöcke:** 1.719
 - **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 607 |
-| Polierter Andesit | `polished_andesite` | 415 |
-| Tuffsteinziegel | `tuff_bricks` | 368 |
-| Glatter Stein | `smooth_stone` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 93 |
+| Tuffstein | `tuff` | 579 |
+| Tuffsteinziegel | `tuff_bricks` | 341 |
+| Glatter Stein | `smooth_stone` | 326 |
+| Polierter Andesit | `polished_andesite` | 320 |
+| Graues Buntglas | `gray_stained_glass` | 153 |
 
 **Beschreibung**
 
@@ -109,21 +112,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.3 – Haus w397758438 – Teil 3/7 (Y 193–198)
+### Schritt 25.3 – Haus w397758438 – Teil 3/7 (Y 194–198)
 
-- **Y-Bereich:** 193 bis 198
-- **Blöcke:** 1.850
+- **Y-Bereich:** 194 bis 198
+- **Blöcke:** 1.604
 - **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 634 |
-| Glatter Stein | `smooth_stone` | 446 |
-| Polierter Andesit | `polished_andesite` | 444 |
-| Tuffsteinziegel | `tuff_bricks` | 266 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Tuffstein | `tuff` | 555 |
+| Polierter Andesit | `polished_andesite` | 462 |
+| Glatter Stein | `smooth_stone` | 460 |
+| Tuffsteinziegel | `tuff_bricks` | 127 |
 
 **Beschreibung**
 
@@ -144,16 +146,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 25.4 – Haus w397758438 – Teil 4/7 (Y 199–204)
 
 - **Y-Bereich:** 199 bis 204
-- **Blöcke:** 1.727
+- **Blöcke:** 1.706
 - **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 657 |
+| Polierter Andesit | `polished_andesite` | 660 |
 | Tuffstein | `tuff` | 578 |
-| Glatter Stein | `smooth_stone` | 334 |
+| Glatter Stein | `smooth_stone` | 310 |
 | Graues Buntglas | `gray_stained_glass` | 158 |
 
 **Beschreibung**
@@ -175,17 +177,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 25.5 – Haus w397758438 – Teil 5/7 (Y 205–210)
 
 - **Y-Bereich:** 205 bis 210
-- **Blöcke:** 1.867
+- **Blöcke:** 1.849
 - **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 630 |
-| Polierter Andesit | `polished_andesite` | 619 |
-| Glatter Stein | `smooth_stone` | 554 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
+| Polierter Andesit | `polished_andesite` | 616 |
+| Tuffstein | `tuff` | 612 |
+| Glatter Stein | `smooth_stone` | 525 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
 
@@ -203,20 +205,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.6 – Haus w397758438 – Teil 6/7 (Y 211–215)
+### Schritt 25.6 – Haus w397758438 – Teil 6/7 (Y 211–214)
 
-- **Y-Bereich:** 211 bis 215
-- **Blöcke:** 1.763
+- **Y-Bereich:** 211 bis 214
+- **Blöcke:** 1.482
 - **Bauteile:** `w397758438`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 619 |
-| Glatter Stein | `smooth_stone` | 547 |
-| Tuffstein | `tuff` | 503 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
+| Polierter Andesit | `polished_andesite` | 513 |
+| Glatter Stein | `smooth_stone` | 497 |
+| Tuffstein | `tuff` | 410 |
+| Graues Buntglas | `gray_stained_glass` | 62 |
 
 **Beschreibung**
 
@@ -234,9 +236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.7 – Haus w397758438 – Teil 7/7 (Y 216–222)
+### Schritt 25.7 – Haus w397758438 – Teil 7/7 (Y 215–221)
 
-- **Y-Bereich:** 216 bis 222
+- **Y-Bereich:** 215 bis 221
 - **Blöcke:** 1.811
 - **Bauteile:** `w397758438`
 
@@ -268,7 +270,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 25.8 – Haus w397758438: Innenausbau
 
-- **Y-Bereich:** 186 bis 206
+- **Y-Bereich:** 185 bis 205
 - **Blöcke:** 971
 - **Bauteile:** `w397758438_innen`
 

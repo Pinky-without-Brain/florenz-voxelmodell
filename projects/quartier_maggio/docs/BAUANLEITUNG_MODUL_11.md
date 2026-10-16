@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 92.485 |
+| Blöcke | 92.500 |
 | Bauschritte | 61 |
 | Y-Bereich | 61 bis 102 |
 | X-Ausdehnung | -1220 bis -1041 (180 Blöcke) |
@@ -21,13 +21,13 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 26.031 | 28,1 % |
-| Weißer Beton | `white_concrete` | 25.236 | 27,3 % |
-| Endsteinziegel | `end_stone_bricks` | 11.663 | 12,6 % |
-| Polierter Tuffstein | `polished_tuff` | 8.149 | 8,8 % |
+| Terrakotta | `terracotta` | 26.028 | 28,1 % |
+| Weißer Beton | `white_concrete` | 25.212 | 27,3 % |
+| Endsteinziegel | `end_stone_bricks` | 11.686 | 12,6 % |
+| Polierter Tuffstein | `polished_tuff` | 8.148 | 8,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.734 | 6,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.119 | 4,5 % |
-| Orange Keramik | `orange_terracotta` | 2.773 | 3,0 % |
+| Orange Keramik | `orange_terracotta` | 2.785 | 3,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 2.724 | 2,9 % |
 | Graues Buntglas | `gray_stained_glass` | 1.647 | 1,8 % |
 | Glatter Stein | `smooth_stone` | 1.255 | 1,4 % |
@@ -35,18 +35,19 @@
 | Polierter Andesit | `polished_andesite` | 514 | 0,6 % |
 | Ziegelsteine | `bricks` | 388 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 264 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 221 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 207 | 0,2 % |
-| Seelaterne | `sea_lantern` | 167 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 130 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 120 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 200 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 188 | 0,2 % |
+| Seelaterne | `sea_lantern` | 171 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 151 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 139 | 0,2 % |
 | Grüner Beton | `green_concrete` | 120 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 29 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 29 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 31 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 31 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -74,7 +75,7 @@
 | 12 | `w463258218_innen` | Reihenhaus an Via Toscanella: Innenausbau | 444 | 11.31 |
 | 13 | `w463258219` | Reihenhaus an Via Sguazza | 3.619 | 11.32–11.33 |
 | 14 | `w463258219_innen` | Reihenhaus an Via Sguazza: Innenausbau | 1.144 | 11.34 |
-| 15 | `w463258220` | Reihenhaus an Via Sguazza | 2.174 | 11.35–11.36 |
+| 15 | `w463258220` | Reihenhaus an Via Sguazza | 2.197 | 11.35–11.36 |
 | 16 | `w463258220_innen` | Reihenhaus an Via Sguazza: Innenausbau | 2 | 11.37 |
 | 17 | `w463258221` | Reihenhaus an Via Toscanella | 4.175 | 11.37–11.38 |
 | 18 | `w463258221_innen` | Reihenhaus an Via Toscanella: Innenausbau | 982 | 11.39 |
@@ -86,14 +87,14 @@
 | 24 | `w463258224_innen` | Reihenhaus an Via Sguazza: Innenausbau | 466 | 11.46 |
 | 25 | `w463258226` | Reihenhaus an Via Toscanella | 2.285 | 11.47–11.48 |
 | 26 | `w463258226_innen` | Reihenhaus an Via Toscanella: Innenausbau | 354 | 11.49 |
-| 27 | `w463258227` | Reihenhaus an Via dei Velluti | 4.800 | 11.50–11.52 |
-| 28 | `w463258227_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.954 | 11.53 |
-| 29 | `w463258229` | Reihenhaus an Via Sguazza | 2.747 | 11.54–11.55 |
-| 30 | `w463258229_innen` | Reihenhaus an Via Sguazza: Innenausbau | 952 | 11.56 |
+| 27 | `w463258227` | Reihenhaus an Via dei Velluti | 4.812 | 11.50–11.52 |
+| 28 | `w463258227_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.956 | 11.53 |
+| 29 | `w463258229` | Reihenhaus an Via Sguazza | 2.726 | 11.54–11.55 |
+| 30 | `w463258229_innen` | Reihenhaus an Via Sguazza: Innenausbau | 962 | 11.56 |
 | 31 | `w463258230` | Reihenhaus an Via dei Velluti | 1.286 | 11.57 |
 | 32 | `w463258230_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.018 | 11.58 |
-| 33 | `w463258231` | Reihenhaus an Via dei Velluti | 3.535 | 11.59–11.60 |
-| 34 | `w463258231_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.575 | 11.61 |
+| 33 | `w463258231` | Reihenhaus an Via dei Velluti | 3.531 | 11.59–11.60 |
+| 34 | `w463258231_innen` | Reihenhaus an Via dei Velluti: Innenausbau | 1.568 | 11.61 |
 | 35 | `strassenschilder` | Straßenschilder | 9 | 11.61 |
 
 ## Bauschritte
@@ -1222,17 +1223,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.35 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 62–78)
+### Schritt 11.35 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 62 bis 78
-- **Blöcke:** 1.103
+- **Y-Bereich:** 61 bis 77
+- **Blöcke:** 1.126
 - **Bauteile:** `w463258220`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 897 |
+| Endsteinziegel | `end_stone_bricks` | 920 |
 | Polierter Tuffstein | `polished_tuff` | 179 |
 | Weißer Beton | `white_concrete` | 21 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
@@ -1253,9 +1254,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.36 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 79–94)
+### Schritt 11.36 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–93)
 
-- **Y-Bereich:** 79 bis 94
+- **Y-Bereich:** 78 bis 93
 - **Blöcke:** 1.071
 - **Bauteile:** `w463258220`
 
@@ -1287,7 +1288,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.37 – Reihenhaus an Via Sguazza: Innenausbau & Reihenhaus an Via Toscanella – Teil 1/2 (Y 63–79)
 
-- **Y-Bereich:** 62 bis 79
+- **Y-Bereich:** 61 bis 79
 - **Blöcke:** 2.090
 - **Bauteile:** `w463258220_innen`, `w463258221`
 
@@ -1791,7 +1792,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 11.52 – Reihenhaus an Via dei Velluti – Teil 3/3 (Y 87–99)
 
 - **Y-Bereich:** 87 bis 99
-- **Blöcke:** 1.617
+- **Blöcke:** 1.629
 - **Bauteile:** `w463258227`
 
 **Teileliste**
@@ -1799,7 +1800,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 904 |
-| Orange Keramik | `orange_terracotta` | 611 |
+| Orange Keramik | `orange_terracotta` | 623 |
 | Ziegelsteine | `bricks` | 47 |
 | Polierter Andesit | `polished_andesite` | 43 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
@@ -1822,8 +1823,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.53 – Reihenhaus an Via dei Velluti: Innenausbau
 
-- **Y-Bereich:** 62 bis 85
-- **Blöcke:** 1.954
+- **Y-Bereich:** 62 bis 86
+- **Blöcke:** 1.956
 - **Bauteile:** `w463258227_innen`
 
 **Teileliste**
@@ -1835,8 +1836,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1860,18 +1861,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.54 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 62–78)
+### Schritt 11.54 – Reihenhaus an Via Sguazza – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 62 bis 78
-- **Blöcke:** 1.352
+- **Y-Bereich:** 61 bis 77
+- **Blöcke:** 1.355
 - **Bauteile:** `w463258229`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 898 |
-| Polierter Tuffstein | `polished_tuff` | 351 |
+| Weißer Beton | `white_concrete` | 902 |
+| Polierter Tuffstein | `polished_tuff` | 350 |
 | Hellgrauer Beton | `light_gray_concrete` | 67 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -1893,17 +1894,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.55 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 79–96)
+### Schritt 11.55 – Reihenhaus an Via Sguazza – Teil 2/2 (Y 78–95)
 
-- **Y-Bereich:** 79 bis 96
-- **Blöcke:** 1.395
+- **Y-Bereich:** 78 bis 95
+- **Blöcke:** 1.371
 - **Bauteile:** `w463258229`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 796 |
+| Weißer Beton | `white_concrete` | 772 |
 | Terrakotta | `terracotta` | 435 |
 | Hellgrauer Beton | `light_gray_concrete` | 96 |
 | Fichtenholz-Bretter | `spruce_planks` | 40 |
@@ -1928,25 +1929,25 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.56 – Reihenhaus an Via Sguazza: Innenausbau
 
-- **Y-Bereich:** 62 bis 85
-- **Blöcke:** 952
+- **Y-Bereich:** 61 bis 85
+- **Blöcke:** 962
 - **Bauteile:** `w463258229_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 834 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
+| Terrakotta | `terracotta` | 831 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
 
 **Beschreibung**
 
@@ -2039,19 +2040,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.59 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 62–79)
+### Schritt 11.59 – Reihenhaus an Via dei Velluti – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 62 bis 79
-- **Blöcke:** 1.778
+- **Y-Bereich:** 61 bis 77
+- **Blöcke:** 1.730
 - **Bauteile:** `w463258231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 977 |
+| Weißer Beton | `white_concrete` | 945 |
 | Polierter Tuffstein | `polished_tuff` | 563 |
-| Hellgrauer Beton | `light_gray_concrete` | 115 |
+| Hellgrauer Beton | `light_gray_concrete` | 99 |
 | Grüner Beton | `green_concrete` | 57 |
 | Graues Buntglas | `gray_stained_glass` | 47 |
 | Glatter Stein | `smooth_stone` | 19 |
@@ -2072,19 +2073,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.60 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 80–98)
+### Schritt 11.60 – Reihenhaus an Via dei Velluti – Teil 2/2 (Y 78–97)
 
-- **Y-Bereich:** 80 bis 98
-- **Blöcke:** 1.757
+- **Y-Bereich:** 78 bis 97
+- **Blöcke:** 1.801
 - **Bauteile:** `w463258231`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 787 |
+| Weißer Beton | `white_concrete` | 815 |
 | Terrakotta | `terracotta` | 705 |
-| Hellgrauer Beton | `light_gray_concrete` | 104 |
+| Hellgrauer Beton | `light_gray_concrete` | 120 |
 | Grüner Beton | `green_concrete` | 63 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
 | Ziegelsteine | `bricks` | 42 |
@@ -2107,8 +2108,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.61 – Reihenhaus an Via dei Velluti: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 62 bis 86
-- **Blöcke:** 1.584
+- **Y-Bereich:** 61 bis 84
+- **Blöcke:** 1.577
 - **Bauteile:** `w463258231_innen`, `strassenschilder`
 
 **Teileliste**
@@ -2116,21 +2117,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.440 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 

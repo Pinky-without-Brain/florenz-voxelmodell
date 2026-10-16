@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 68.341 |
-| Bauschritte | 43 |
-| Y-Bereich | 62 bis 110 |
+| Blöcke | 67.974 |
+| Bauschritte | 42 |
+| Y-Bereich | 62 bis 109 |
 | X-Ausdehnung | 1087 bis 1246 (160 Blöcke) |
 | Z-Ausdehnung | 348 bis 429 (82 Blöcke) |
 | Kleinster Schritt | 731 Blöcke (Schritt 6.20) |
-| Mittlerer Schritt | 1.589 Blöcke |
+| Mittlerer Schritt | 1.618 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 6.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 20.841 | 30,5 % |
+| Terrakotta | `terracotta` | 20.841 | 30,7 % |
 | Weißer Beton | `white_concrete` | 8.168 | 12,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 7.864 | 11,5 % |
-| Polierter Tuffstein | `polished_tuff` | 6.337 | 9,3 % |
-| Glatter Stein | `smooth_stone` | 5.213 | 7,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 7.864 | 11,6 % |
+| Polierter Tuffstein | `polished_tuff` | 6.349 | 9,3 % |
+| Glatter Stein | `smooth_stone` | 5.211 | 7,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.913 | 7,2 % |
-| Tuffstein | `tuff` | 4.580 | 6,7 % |
+| Tuffstein | `tuff` | 4.215 | 6,2 % |
 | Orange Keramik | `orange_terracotta` | 2.321 | 3,4 % |
-| Graues Buntglas | `gray_stained_glass` | 2.080 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 2.080 | 3,1 % |
 | Rosa Keramik | `pink_terracotta` | 2.046 | 3,0 % |
 | Polierter Andesit | `polished_andesite` | 1.781 | 2,6 % |
 | Grüner Beton | `green_concrete` | 599 | 0,9 % |
@@ -44,14 +44,11 @@
 | Weiße Keramik | `white_terracotta` | 45 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 42 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 42 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 34 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 34 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 32 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -59,7 +56,6 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 152 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 150 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -73,11 +69,11 @@
 | 6 | `w476952761_innen` | Palazzo des Cinquecento an Piazza dei Ciompi: Innenausbau | 2.764 | 6.18–6.19 |
 | 7 | `w476952767` | Palazzo des Cinquecento an Via Pietrapiana | 14.726 | 6.20–6.28 |
 | 8 | `w476952767_innen` | Palazzo des Cinquecento an Via Pietrapiana: Innenausbau | 2.767 | 6.29–6.30 |
-| 9 | `w476952768` | Renaissance-Palazzo an Via Pietrapiana | 11.676 | 6.31–6.37 |
-| 10 | `w476952768_innen` | Renaissance-Palazzo an Via Pietrapiana: Innenausbau | 3.350 | 6.38–6.40 |
-| 11 | `w476952796` | Reihenhaus an Via dei Martiri del Popolo | 3.430 | 6.41–6.42 |
-| 12 | `w476952796_innen` | Reihenhaus an Via dei Martiri del Popolo: Innenausbau | 1.274 | 6.43 |
-| 13 | `strassenschilder` | Straßenschilder | 2 | 6.43 |
+| 9 | `w476952768` | Renaissance-Palazzo an Via Pietrapiana | 11.309 | 6.31–6.36 |
+| 10 | `w476952768_innen` | Renaissance-Palazzo an Via Pietrapiana: Innenausbau | 3.350 | 6.37–6.39 |
+| 11 | `w476952796` | Reihenhaus an Via dei Martiri del Popolo | 3.430 | 6.40–6.41 |
+| 12 | `w476952796_innen` | Reihenhaus an Via dei Martiri del Popolo: Innenausbau | 1.274 | 6.42 |
+| 13 | `strassenschilder` | Straßenschilder | 2 | 6.42 |
 
 ## Bauschritte
 
@@ -1098,27 +1094,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.31 – Renaissance-Palazzo an Via Pietrapiana – Teil 1/7 (Y 63–64)
+### Schritt 6.31 – Renaissance-Palazzo an Via Pietrapiana – Teil 1/6 (Y 63–66)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.614
+- **Y-Bereich:** 63 bis 66
+- **Blöcke:** 1.808
 - **Bauteile:** `w476952768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.263 |
-| Tuffstein | `tuff` | 339 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
+| Polierter Tuffstein | `polished_tuff` | 1.275 |
+| Tuffstein | `tuff` | 367 |
+| Glatter Stein | `smooth_stone` | 82 |
+| Tuffsteinziegel | `tuff_bricks` | 81 |
+| Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
 
@@ -1136,21 +1126,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.32 – Renaissance-Palazzo an Via Pietrapiana – Teil 2/7 (Y 65–74)
+### Schritt 6.32 – Renaissance-Palazzo an Via Pietrapiana – Teil 2/6 (Y 67–76)
 
-- **Y-Bereich:** 65 bis 74
-- **Blöcke:** 1.663
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.892
 - **Bauteile:** `w476952768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.046 |
-| Glatter Stein | `smooth_stone` | 264 |
-| Tuffsteinziegel | `tuff_bricks` | 216 |
+| Tuffstein | `tuff` | 989 |
+| Glatter Stein | `smooth_stone` | 450 |
+| Tuffsteinziegel | `tuff_bricks` | 204 |
 | Graues Buntglas | `gray_stained_glass` | 126 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Polierter Andesit | `polished_andesite` | 123 |
 
 **Beschreibung**
 
@@ -1168,21 +1158,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.33 – Renaissance-Palazzo an Via Pietrapiana – Teil 3/7 (Y 75–82)
+### Schritt 6.33 – Renaissance-Palazzo an Via Pietrapiana – Teil 3/6 (Y 77–85)
 
-- **Y-Bereich:** 75 bis 82
-- **Blöcke:** 1.694
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.883
 - **Bauteile:** `w476952768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 656 |
-| Glatter Stein | `smooth_stone` | 427 |
-| Polierter Andesit | `polished_andesite` | 331 |
-| Tuffsteinziegel | `tuff_bricks` | 156 |
-| Graues Buntglas | `gray_stained_glass` | 124 |
+| Tuffstein | `tuff` | 719 |
+| Glatter Stein | `smooth_stone` | 483 |
+| Polierter Andesit | `polished_andesite` | 434 |
+| Graues Buntglas | `gray_stained_glass` | 160 |
+| Tuffsteinziegel | `tuff_bricks` | 87 |
 
 **Beschreibung**
 
@@ -1200,20 +1190,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.34 – Renaissance-Palazzo an Via Pietrapiana – Teil 4/7 (Y 83–90)
+### Schritt 6.34 – Renaissance-Palazzo an Via Pietrapiana – Teil 4/6 (Y 86–94)
 
-- **Y-Bereich:** 83 bis 90
-- **Blöcke:** 1.690
+- **Y-Bereich:** 86 bis 94
+- **Blöcke:** 1.927
 - **Bauteile:** `w476952768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 640 |
-| Glatter Stein | `smooth_stone` | 473 |
-| Polierter Andesit | `polished_andesite` | 439 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
+| Tuffstein | `tuff` | 767 |
+| Polierter Andesit | `polished_andesite` | 573 |
+| Glatter Stein | `smooth_stone` | 485 |
+| Graues Buntglas | `gray_stained_glass` | 102 |
 
 **Beschreibung**
 
@@ -1231,20 +1221,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.35 – Renaissance-Palazzo an Via Pietrapiana – Teil 5/7 (Y 91–97)
+### Schritt 6.35 – Renaissance-Palazzo an Via Pietrapiana – Teil 5/6 (Y 95–100)
 
-- **Y-Bereich:** 91 bis 97
-- **Blöcke:** 1.610
+- **Y-Bereich:** 95 bis 100
+- **Blöcke:** 1.880
 - **Bauteile:** `w476952768`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 688 |
-| Polierter Andesit | `polished_andesite` | 473 |
-| Glatter Stein | `smooth_stone` | 387 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
+| Glatter Stein | `smooth_stone` | 670 |
+| Tuffstein | `tuff` | 642 |
+| Polierter Andesit | `polished_andesite` | 475 |
+| Graues Buntglas | `gray_stained_glass` | 93 |
 
 **Beschreibung**
 
@@ -1262,40 +1252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.36 – Renaissance-Palazzo an Via Pietrapiana – Teil 6/7 (Y 98–101)
+### Schritt 6.36 – Renaissance-Palazzo an Via Pietrapiana – Teil 6/6 (Y 101–109)
 
-- **Y-Bereich:** 98 bis 101
-- **Blöcke:** 1.486
-- **Bauteile:** `w476952768`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 621 |
-| Tuffstein | `tuff` | 480 |
-| Polierter Andesit | `polished_andesite` | 354 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 4 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 6.37 – Renaissance-Palazzo an Via Pietrapiana – Teil 7/7 (Y 102–110)
-
-- **Y-Bereich:** 102 bis 110
+- **Y-Bereich:** 101 bis 109
 - **Blöcke:** 1.919
 - **Bauteile:** `w476952768`
 
@@ -1322,9 +1281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.38 – Renaissance-Palazzo an Via Pietrapiana: Innenausbau – Teil 1/3 (Y 64–75)
+### Schritt 6.37 – Renaissance-Palazzo an Via Pietrapiana: Innenausbau – Teil 1/3 (Y 63–74)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.121
 - **Bauteile:** `w476952768_innen`
 
@@ -1364,9 +1323,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.39 – Renaissance-Palazzo an Via Pietrapiana: Innenausbau – Teil 2/3 (Y 76–83)
+### Schritt 6.38 – Renaissance-Palazzo an Via Pietrapiana: Innenausbau – Teil 2/3 (Y 75–82)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.108
 - **Bauteile:** `w476952768_innen`
 
@@ -1408,9 +1367,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.40 – Renaissance-Palazzo an Via Pietrapiana: Innenausbau – Teil 3/3 (Y 84–93)
+### Schritt 6.39 – Renaissance-Palazzo an Via Pietrapiana: Innenausbau – Teil 3/3 (Y 83–92)
 
-- **Y-Bereich:** 84 bis 93
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.121
 - **Bauteile:** `w476952768_innen`
 
@@ -1454,7 +1413,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.41 – Reihenhaus an Via dei Martiri del Popolo – Teil 1/2 (Y 63–82)
+### Schritt 6.40 – Reihenhaus an Via dei Martiri del Popolo – Teil 1/2 (Y 63–82)
 
 - **Y-Bereich:** 63 bis 82
 - **Blöcke:** 1.715
@@ -1487,7 +1446,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.42 – Reihenhaus an Via dei Martiri del Popolo – Teil 2/2 (Y 83–95)
+### Schritt 6.41 – Reihenhaus an Via dei Martiri del Popolo – Teil 2/2 (Y 83–95)
 
 - **Y-Bereich:** 83 bis 95
 - **Blöcke:** 1.715
@@ -1519,7 +1478,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.43 – Reihenhaus an Via dei Martiri del Popolo: Innenausbau & Straßenschilder
+### Schritt 6.42 – Reihenhaus an Via dei Martiri del Popolo: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.276

@@ -8,30 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.750 |
-| Bauschritte | 32 |
-| Y-Bereich | 60 bis 116 |
+| Blöcke | 27.065 |
+| Bauschritte | 17 |
+| Y-Bereich | 60 bis 104 |
 | X-Ausdehnung | -1320 bis -1257 (64 Blöcke) |
 | Z-Ausdehnung | -1411 bis -1349 (63 Blöcke) |
-| Kleinster Schritt | 1.017 Blöcke (Schritt 49.2) |
-| Mittlerer Schritt | 1.461 Blöcke |
-| Größter Schritt | 2.050 Blöcke (Schritt 49.19) |
+| Kleinster Schritt | 1.311 Blöcke (Schritt 49.13) |
+| Mittlerer Schritt | 1.592 Blöcke |
+| Größter Schritt | 2.015 Blöcke (Schritt 49.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 19.673 | 42,1 % |
-| Terrakotta | `terracotta` | 11.727 | 25,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.277 | 19,8 % |
-| Polierter Tuffstein | `polished_tuff` | 2.978 | 6,4 % |
-| Glatter Stein | `smooth_stone` | 1.936 | 4,1 % |
-| Graues Buntglas | `gray_stained_glass` | 650 | 1,4 % |
-| Ziegelsteine | `bricks` | 234 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,1 % |
-| Seelaterne | `sea_lantern` | 56 | 0,1 % |
-| Polierter Andesit | `polished_andesite` | 45 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 34 | 0,1 % |
+| Terrakotta | `terracotta` | 11.727 | 43,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.277 | 34,3 % |
+| Polierter Tuffstein | `polished_tuff` | 3.013 | 11,1 % |
+| Glatter Stein | `smooth_stone` | 1.923 | 7,1 % |
+| Graues Buntglas | `gray_stained_glass` | 650 | 2,4 % |
+| Ziegelsteine | `bricks` | 234 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,3 % |
+| Seelaterne | `sea_lantern` | 56 | 0,2 % |
+| Polierter Andesit | `polished_andesite` | 45 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,0 % |
@@ -44,524 +42,19 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 54 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 34 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112587684` | Palazzo dei congressi | 38.766 | 49.1–49.26 |
-| 2 | `w112587684_innen` | Palazzo dei congressi: Innenausbau | 7.984 | 49.27–49.32 |
+| 1 | `w112587684` | Palazzo dei congressi | 19.081 | 49.1–49.11 |
+| 2 | `w112587684_innen` | Palazzo dei congressi: Innenausbau | 7.984 | 49.12–49.17 |
 
 ## Bauschritte
 
-### Schritt 49.1 – Palazzo dei congressi – Teil 1/26 (Y 60–62)
+### Schritt 49.1 – Palazzo dei congressi – Teil 1/11 (Y 60–60)
 
-- **Y-Bereich:** 60 bis 62
-- **Blöcke:** 1.079
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.075 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.2 – Palazzo dei congressi – Teil 2/26 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.017
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.014 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.3 – Palazzo dei congressi – Teil 3/26 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.353
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.350 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.4 – Palazzo dei congressi – Teil 4/26 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.658
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.655 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.5 – Palazzo dei congressi – Teil 5/26 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.929
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.926 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.6 – Palazzo dei congressi – Teil 6/26 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.104
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.101 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.7 – Palazzo dei congressi – Teil 7/26 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.073
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.073 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.8 – Palazzo dei congressi – Teil 8/26 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.212
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.209 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.9 – Palazzo dei congressi – Teil 9/26 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.174
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.174 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.10 – Palazzo dei congressi – Teil 10/26 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.307
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.304 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.11 – Palazzo dei congressi – Teil 11/26 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.259
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.259 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.12 – Palazzo dei congressi – Teil 12/26 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.335
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.333 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.13 – Palazzo dei congressi – Teil 13/26 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.378
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.377 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.14 – Palazzo dei congressi – Teil 14/26 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.391
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.390 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.15 – Palazzo dei congressi – Teil 15/26 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.435
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.433 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.16 – Palazzo dei congressi – Teil 16/26 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.506
 - **Bauteile:** `w112587684`
 
@@ -587,26 +80,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.17 – Palazzo dei congressi – Teil 17/26 (Y 72–73)
+### Schritt 49.2 – Palazzo dei congressi – Teil 2/11 (Y 60–61)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.878
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.910
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.472 |
+| Polierter Tuffstein | `polished_tuff` | 1.507 |
 | Gelbe Keramik | `yellow_terracotta` | 401 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
 | Glatter Stein | `smooth_stone` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -624,10 +110,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.18 – Palazzo dei congressi – Teil 18/26 (Y 74–78)
+### Schritt 49.3 – Palazzo dei congressi – Teil 3/11 (Y 62–66)
 
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.980
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.971
 - **Bauteile:** `w112587684`
 
 **Teileliste**
@@ -635,7 +121,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.501 |
-| Glatter Stein | `smooth_stone` | 330 |
+| Glatter Stein | `smooth_stone` | 321 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
 | Polierter Andesit | `polished_andesite` | 45 |
 
@@ -655,19 +141,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.19 – Palazzo dei congressi – Teil 19/26 (Y 79–83)
+### Schritt 49.4 – Palazzo dei congressi – Teil 4/11 (Y 67–70)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 2.050
+- **Y-Bereich:** 67 bis 70
+- **Blöcke:** 1.672
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.690 |
-| Glatter Stein | `smooth_stone` | 313 |
-| Graues Buntglas | `gray_stained_glass` | 47 |
+| Gelbe Keramik | `yellow_terracotta` | 1.424 |
+| Glatter Stein | `smooth_stone` | 248 |
 
 **Beschreibung**
 
@@ -685,48 +170,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.20 – Palazzo dei congressi – Teil 20/26 (Y 84–88)
+### Schritt 49.5 – Palazzo dei congressi – Teil 5/11 (Y 71–74)
 
-- **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.943
+- **Y-Bereich:** 71 bis 74
+- **Blöcke:** 1.499
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.517 |
-| Glatter Stein | `smooth_stone` | 291 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.21 – Palazzo dei congressi – Teil 21/26 (Y 89–93)
-
-- **Y-Bereich:** 89 bis 93
-- **Blöcke:** 1.948
-- **Bauteile:** `w112587684`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.369 |
-| Glatter Stein | `smooth_stone` | 397 |
+| Gelbe Keramik | `yellow_terracotta` | 1.068 |
+| Glatter Stein | `smooth_stone` | 249 |
 | Graues Buntglas | `gray_stained_glass` | 182 |
 
 **Beschreibung**
@@ -745,19 +200,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.22 – Palazzo dei congressi – Teil 22/26 (Y 94–97)
+### Schritt 49.6 – Palazzo dei congressi – Teil 6/11 (Y 75–79)
 
-- **Y-Bereich:** 94 bis 97
-- **Blöcke:** 1.641
+- **Y-Bereich:** 75 bis 79
+- **Blöcke:** 2.015
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.282 |
-| Glatter Stein | `smooth_stone` | 312 |
-| Graues Buntglas | `gray_stained_glass` | 47 |
+| Gelbe Keramik | `yellow_terracotta` | 1.548 |
+| Glatter Stein | `smooth_stone` | 373 |
+| Graues Buntglas | `gray_stained_glass` | 94 |
 
 **Beschreibung**
 
@@ -775,19 +230,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.23 – Palazzo dei congressi – Teil 23/26 (Y 98–101)
+### Schritt 49.7 – Palazzo dei congressi – Teil 7/11 (Y 80–83)
 
-- **Y-Bereich:** 98 bis 101
-- **Blöcke:** 1.534
+- **Y-Bereich:** 80 bis 83
+- **Blöcke:** 1.569
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.108 |
-| Glatter Stein | `smooth_stone` | 291 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
+| Gelbe Keramik | `yellow_terracotta` | 1.251 |
+| Glatter Stein | `smooth_stone` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
 
 **Beschreibung**
 
@@ -805,18 +260,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.24 – Palazzo dei congressi – Teil 24/26 (Y 102–104)
+### Schritt 49.8 – Palazzo dei congressi – Teil 8/11 (Y 84–87)
 
-- **Y-Bereich:** 102 bis 104
-- **Blöcke:** 1.704
+- **Y-Bereich:** 84 bis 87
+- **Blöcke:** 1.571
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.295 |
-| Gelbe Keramik | `yellow_terracotta` | 409 |
+| Gelbe Keramik | `yellow_terracotta` | 1.099 |
+| Glatter Stein | `smooth_stone` | 331 |
+| Graues Buntglas | `gray_stained_glass` | 141 |
 
 **Beschreibung**
 
@@ -834,18 +290,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.25 – Palazzo dei congressi – Teil 25/26 (Y 105–107)
+### Schritt 49.9 – Palazzo dei congressi – Teil 9/11 (Y 88–91)
 
-- **Y-Bereich:** 105 bis 107
-- **Blöcke:** 1.418
+- **Y-Bereich:** 88 bis 91
+- **Blöcke:** 1.984
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.363 |
-| Ziegelsteine | `bricks` | 55 |
+| Gelbe Keramik | `yellow_terracotta` | 985 |
+| Terrakotta | `terracotta` | 789 |
+| Glatter Stein | `smooth_stone` | 169 |
+| Graues Buntglas | `gray_stained_glass` | 41 |
 
 **Beschreibung**
 
@@ -863,18 +321,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.26 – Palazzo dei congressi – Teil 26/26 (Y 108–116)
+### Schritt 49.10 – Palazzo dei congressi – Teil 10/11 (Y 92–94)
 
-- **Y-Bereich:** 108 bis 116
-- **Blöcke:** 1.460
+- **Y-Bereich:** 92 bis 94
+- **Blöcke:** 1.509
 - **Bauteile:** `w112587684`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.281 |
-| Ziegelsteine | `bricks` | 179 |
+| Terrakotta | `terracotta` | 1.476 |
+| Ziegelsteine | `bricks` | 33 |
 
 **Beschreibung**
 
@@ -892,9 +350,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.27 – Palazzo dei congressi: Innenausbau – Teil 1/6 (Y 72–81)
+### Schritt 49.11 – Palazzo dei congressi – Teil 11/11 (Y 95–104)
 
-- **Y-Bereich:** 72 bis 81
+- **Y-Bereich:** 95 bis 104
+- **Blöcke:** 1.875
+- **Bauteile:** `w112587684`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.674 |
+| Ziegelsteine | `bricks` | 201 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 49.12 – Palazzo dei congressi: Innenausbau – Teil 1/6 (Y 60–69)
+
+- **Y-Bereich:** 60 bis 69
 - **Blöcke:** 1.358
 - **Bauteile:** `w112587684_innen`
 
@@ -932,9 +419,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.28 – Palazzo dei congressi: Innenausbau – Teil 2/6 (Y 81–81)
+### Schritt 49.13 – Palazzo dei congressi: Innenausbau – Teil 2/6 (Y 69–69)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.311
 - **Bauteile:** `w112587684_innen`
 
@@ -961,9 +448,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.29 – Palazzo dei congressi: Innenausbau – Teil 3/6 (Y 82–88)
+### Schritt 49.14 – Palazzo dei congressi: Innenausbau – Teil 3/6 (Y 70–76)
 
-- **Y-Bereich:** 82 bis 88
+- **Y-Bereich:** 70 bis 76
 - **Blöcke:** 1.342
 - **Bauteile:** `w112587684_innen`
 
@@ -1001,9 +488,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.30 – Palazzo dei congressi: Innenausbau – Teil 4/6 (Y 88–88)
+### Schritt 49.15 – Palazzo dei congressi: Innenausbau – Teil 4/6 (Y 76–76)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.311
 - **Bauteile:** `w112587684_innen`
 
@@ -1030,9 +517,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.31 – Palazzo dei congressi: Innenausbau – Teil 5/6 (Y 89–95)
+### Schritt 49.16 – Palazzo dei congressi: Innenausbau – Teil 5/6 (Y 77–83)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.342
 - **Bauteile:** `w112587684_innen`
 
@@ -1070,9 +557,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 49.32 – Palazzo dei congressi: Innenausbau – Teil 6/6 (Y 95–96)
+### Schritt 49.17 – Palazzo dei congressi: Innenausbau – Teil 6/6 (Y 83–84)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.320
 - **Bauteile:** `w112587684_innen`
 

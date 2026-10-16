@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.910 |
+| Blöcke | 15.858 |
 | Bauschritte | 11 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 63 bis 98 |
 | X-Ausdehnung | -2659 bis -2595 (65 Blöcke) |
 | Z-Ausdehnung | 1850 bis 1923 (74 Blöcke) |
 | Kleinster Schritt | 568 Blöcke (Schritt 36.9) |
-| Mittlerer Schritt | 1.446 Blöcke |
+| Mittlerer Schritt | 1.442 Blöcke |
 | Größter Schritt | 1.787 Blöcke (Schritt 36.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 3.505 | 22,0 % |
-| Orange Keramik | `orange_terracotta` | 3.107 | 19,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 3.041 | 19,1 % |
+| Terrakotta | `terracotta` | 3.505 | 22,1 % |
+| Orange Keramik | `orange_terracotta` | 3.107 | 19,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 3.041 | 19,2 % |
 | Polierter Tuffstein | `polished_tuff` | 1.481 | 9,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.383 | 8,7 % |
 | Weißer Beton | `white_concrete` | 1.101 | 6,9 % |
@@ -34,7 +34,6 @@
 | Ziegelsteine | `bricks` | 138 | 0,9 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 120 | 0,8 % |
 | Glatter Stein | `smooth_stone` | 53 | 0,3 % |
-| Tuffstein | `tuff` | 52 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 35 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 35 | 0,2 % |
 | Seelaterne | `sea_lantern` | 20 | 0,1 % |
@@ -53,7 +52,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w461683375` | Haus w461683375 | 5.047 | 36.1–36.3 |
+| 1 | `w461683375` | Haus w461683375 | 4.995 | 36.1–36.3 |
 | 2 | `w461683375_innen` | Haus w461683375: Innenausbau | 748 | 36.4 |
 | 3 | `w461683400` | Reihenhaus an Via Giano della Bella | 6.241 | 36.5–36.8 |
 | 4 | `w461683400_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 568 | 36.9 |
@@ -65,18 +64,17 @@
 ### Schritt 36.1 – Haus w461683375 – Teil 1/3 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.636
+- **Blöcke:** 1.732
 - **Bauteile:** `w461683375`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 989 |
+| Gelbe Keramik | `yellow_terracotta` | 1.093 |
 | Polierter Tuffstein | `polished_tuff` | 356 |
-| Weißer Beton | `white_concrete` | 137 |
+| Weißer Beton | `white_concrete` | 181 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
-| Tuffstein | `tuff` | 52 |
 | Glatter Stein | `smooth_stone` | 27 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
 
@@ -106,8 +104,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.135 |
-| Weißer Beton | `white_concrete` | 365 |
+| Gelbe Keramik | `yellow_terracotta` | 1.116 |
+| Weißer Beton | `white_concrete` | 384 |
 | Graues Buntglas | `gray_stained_glass` | 138 |
 | Fichtenholz-Bretter | `spruce_planks` | 24 |
 
@@ -127,19 +125,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.3 – Haus w461683375 – Teil 3/3 (Y 86–99)
+### Schritt 36.3 – Haus w461683375 – Teil 3/3 (Y 86–98)
 
-- **Y-Bereich:** 86 bis 99
-- **Blöcke:** 1.749
+- **Y-Bereich:** 86 bis 98
+- **Blöcke:** 1.601
 - **Bauteile:** `w461683375`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 917 |
+| Gelbe Keramik | `yellow_terracotta` | 832 |
 | Terrakotta | `terracotta` | 443 |
-| Weißer Beton | `white_concrete` | 277 |
+| Weißer Beton | `white_concrete` | 214 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Ziegelsteine | `bricks` | 31 |
 | Fichtenholz-Bretter | `spruce_planks` | 12 |
@@ -162,7 +160,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.4 – Haus w461683375: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
+- **Y-Bereich:** 63 bis 87
 - **Blöcke:** 748
 - **Bauteile:** `w461683375_innen`
 

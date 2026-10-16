@@ -8,25 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.153 |
+| Blöcke | 3.087 |
 | Bauschritte | 2 |
-| Y-Bereich | 61 bis 96 |
+| Y-Bereich | 61 bis 95 |
 | X-Ausdehnung | -2854 bis -2838 (17 Blöcke) |
 | Z-Ausdehnung | 1494 bis 1514 (21 Blöcke) |
-| Kleinster Schritt | 1.534 Blöcke (Schritt 14.1) |
-| Mittlerer Schritt | 1.577 Blöcke |
-| Größter Schritt | 1.619 Blöcke (Schritt 14.2) |
+| Kleinster Schritt | 1.526 Blöcke (Schritt 14.2) |
+| Mittlerer Schritt | 1.544 Blöcke |
+| Größter Schritt | 1.561 Blöcke (Schritt 14.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 2.127 | 67,5 % |
-| Weißer Beton | `white_concrete` | 553 | 17,5 % |
-| Terrakotta | `terracotta` | 184 | 5,8 % |
-| Polierter Tuffstein | `polished_tuff` | 138 | 4,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 2.127 | 68,9 % |
+| Weißer Beton | `white_concrete` | 553 | 17,9 % |
+| Terrakotta | `terracotta` | 184 | 6,0 % |
+| Polierter Tuffstein | `polished_tuff` | 138 | 4,5 % |
 | Graues Buntglas | `gray_stained_glass` | 81 | 2,6 % |
-| Tuffstein | `tuff` | 66 | 2,1 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
@@ -34,7 +33,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464120063` | Reihenhaus an Via San Francesco di Paola | 3.152 | 14.1–14.2 |
+| 1 | `w464120063` | Reihenhaus an Via San Francesco di Paola | 3.086 | 14.1–14.2 |
 | 2 | `w464120063_innen` | Reihenhaus an Via San Francesco di Paola: Innenausbau | 1 | 14.2 |
 
 ## Bauschritte
@@ -42,17 +41,16 @@
 ### Schritt 14.1 – Reihenhaus an Via San Francesco di Paola – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
-- **Blöcke:** 1.534
+- **Blöcke:** 1.561
 - **Bauteile:** `w464120063`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.042 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.135 |
 | Weißer Beton | `white_concrete` | 249 |
 | Polierter Tuffstein | `polished_tuff` | 138 |
-| Tuffstein | `tuff` | 66 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 
 **Beschreibung**
@@ -71,17 +69,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Via San Francesco di Paola – Teil 2/2 (Y 78–96) & Reihenhaus an Via San Francesco di Paola: Innenausbau
+### Schritt 14.2 – Reihenhaus an Via San Francesco di Paola – Teil 2/2 (Y 78–95) & Reihenhaus an Via San Francesco di Paola: Innenausbau
 
-- **Y-Bereich:** 62 bis 96
-- **Blöcke:** 1.619
+- **Y-Bereich:** 61 bis 95
+- **Blöcke:** 1.526
 - **Bauteile:** `w464120063`, `w464120063_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.085 |
+| Hellgrauer Beton | `light_gray_concrete` | 992 |
 | Weißer Beton | `white_concrete` | 304 |
 | Terrakotta | `terracotta` | 184 |
 | Graues Buntglas | `gray_stained_glass` | 42 |

@@ -8,45 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.092 |
+| Blöcke | 40.231 |
 | Bauschritte | 24 |
-| Y-Bereich | 60 bis 97 |
+| Y-Bereich | 59 bis 97 |
 | X-Ausdehnung | -2999 bis -2912 (88 Blöcke) |
 | Z-Ausdehnung | 1296 bis 1417 (122 Blöcke) |
 | Kleinster Schritt | 779 Blöcke (Schritt 15.6) |
-| Mittlerer Schritt | 1.671 Blöcke |
-| Größter Schritt | 2.064 Blöcke (Schritt 15.17) |
+| Mittlerer Schritt | 1.676 Blöcke |
+| Größter Schritt | 2.059 Blöcke (Schritt 15.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 12.717 | 31,7 % |
-| Rosa Keramik | `pink_terracotta` | 10.433 | 26,0 % |
-| Orange Keramik | `orange_terracotta` | 7.377 | 18,4 % |
-| Polierter Tuffstein | `polished_tuff` | 3.511 | 8,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.300 | 5,7 % |
+| Terrakotta | `terracotta` | 12.721 | 31,6 % |
+| Rosa Keramik | `pink_terracotta` | 10.433 | 25,9 % |
+| Orange Keramik | `orange_terracotta` | 7.451 | 18,5 % |
+| Polierter Tuffstein | `polished_tuff` | 3.513 | 8,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.376 | 5,9 % |
 | Weißer Beton | `white_concrete` | 1.323 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 632 | 1,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 376 | 0,9 % |
 | Polierter Andesit | `polished_andesite` | 366 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 321 | 0,8 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 320 | 0,8 % |
 | Ziegelsteine | `bricks` | 255 | 0,6 % |
 | Grüner Beton | `green_concrete` | 110 | 0,3 % |
-| Seelaterne | `sea_lantern` | 84 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 73 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 67 | 0,2 % |
+| Seelaterne | `sea_lantern` | 76 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 72 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 66 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 49 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 48 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 44 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 3 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 48 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 44 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 232 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 230 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -56,18 +54,18 @@
 | 2 | `w464120036_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 2.215 | 15.6–15.7 |
 | 3 | `w464120051` | Reihenhaus an Via Luigi Pulci | 6.414 | 15.8–15.11 |
 | 4 | `w464120051_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.557 | 15.12 |
-| 5 | `w464120059` | Reihenhaus an Via Luigi Pulci | 5.138 | 15.13–15.15 |
-| 6 | `w464120059_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.540 | 15.16 |
-| 7 | `w464120095` | Reihenhaus an Via Domenico Burchiello | 6.004 | 15.17–15.19 |
-| 8 | `w464120095_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.512 | 15.20 |
-| 9 | `w464120233` | Reihenhaus an Via Luigi Pulci | 4.527 | 15.21–15.23 |
-| 10 | `w464120233_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.922 | 15.24 |
+| 5 | `w464120059` | Reihenhaus an Via Luigi Pulci | 5.176 | 15.13–15.15 |
+| 6 | `w464120059_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.535 | 15.16 |
+| 7 | `w464120095` | Reihenhaus an Via Domenico Burchiello | 6.042 | 15.17–15.19 |
+| 8 | `w464120095_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.511 | 15.20 |
+| 9 | `w464120233` | Reihenhaus an Via Luigi Pulci | 4.604 | 15.21–15.23 |
+| 10 | `w464120233_innen` | Reihenhaus an Via Luigi Pulci: Innenausbau | 1.914 | 15.24 |
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 60–64)
+### Schritt 15.1 – Reihenhaus an Via Luigi Pulci – Teil 1/5 (Y 59–63)
 
-- **Y-Bereich:** 60 bis 64
+- **Y-Bereich:** 59 bis 63
 - **Blöcke:** 1.824
 - **Bauteile:** `w464120036`
 
@@ -98,9 +96,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 65–72)
+### Schritt 15.2 – Reihenhaus an Via Luigi Pulci – Teil 2/5 (Y 64–71)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.806
 - **Bauteile:** `w464120036`
 
@@ -130,9 +128,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 73–81)
+### Schritt 15.3 – Reihenhaus an Via Luigi Pulci – Teil 3/5 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 2.036
 - **Bauteile:** `w464120036`
 
@@ -161,9 +159,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 82–89)
+### Schritt 15.4 – Reihenhaus an Via Luigi Pulci – Teil 4/5 (Y 81–88)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.860
 - **Bauteile:** `w464120036`
 
@@ -193,9 +191,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 90–97)
+### Schritt 15.5 – Reihenhaus an Via Luigi Pulci – Teil 5/5 (Y 89–96)
 
-- **Y-Bereich:** 90 bis 97
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.737
 - **Bauteile:** `w464120036`
 
@@ -224,9 +222,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 15.6 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 1/2 (Y 59–74)
 
-- **Y-Bereich:** 60 bis 75
+- **Y-Bereich:** 59 bis 74
 - **Blöcke:** 779
 - **Bauteile:** `w464120036_innen`
 
@@ -262,9 +260,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.7 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 76–83)
+### Schritt 15.7 – Reihenhaus an Via Luigi Pulci: Innenausbau – Teil 2/2 (Y 75–82)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.436
 - **Bauteile:** `w464120036_innen`
 
@@ -458,18 +456,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.13 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 60–69)
+### Schritt 15.13 – Reihenhaus an Via Luigi Pulci – Teil 1/3 (Y 59–68)
 
-- **Y-Bereich:** 60 bis 69
-- **Blöcke:** 1.671
+- **Y-Bereich:** 59 bis 68
+- **Blöcke:** 1.709
 - **Bauteile:** `w464120059`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 956 |
-| Polierter Tuffstein | `polished_tuff` | 602 |
+| Orange Keramik | `orange_terracotta` | 993 |
+| Polierter Tuffstein | `polished_tuff` | 603 |
 | Polierter Andesit | `polished_andesite` | 83 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 
@@ -489,9 +487,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.14 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 70–83)
+### Schritt 15.14 – Reihenhaus an Via Luigi Pulci – Teil 2/3 (Y 69–82)
 
-- **Y-Bereich:** 70 bis 83
+- **Y-Bereich:** 69 bis 82
 - **Blöcke:** 1.708
 - **Bauteile:** `w464120059`
 
@@ -519,9 +517,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.15 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 84–95)
+### Schritt 15.15 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 83–94)
 
-- **Y-Bereich:** 84 bis 95
+- **Y-Bereich:** 83 bis 94
 - **Blöcke:** 1.759
 - **Bauteile:** `w464120059`
 
@@ -554,21 +552,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.16 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
-- **Y-Bereich:** 60 bis 84
-- **Blöcke:** 1.540
+- **Y-Bereich:** 59 bis 82
+- **Blöcke:** 1.535
 - **Bauteile:** `w464120059_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.410 |
+| Terrakotta | `terracotta` | 1.413 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -592,18 +588,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.17 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 60–70)
+### Schritt 15.17 – Reihenhaus an Via Domenico Burchiello – Teil 1/3 (Y 59–68)
 
-- **Y-Bereich:** 60 bis 70
-- **Blöcke:** 2.064
+- **Y-Bereich:** 59 bis 68
+- **Blöcke:** 1.953
 - **Bauteile:** `w464120095`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.396 |
-| Polierter Tuffstein | `polished_tuff` | 619 |
+| Orange Keramik | `orange_terracotta` | 1.284 |
+| Polierter Tuffstein | `polished_tuff` | 620 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 | Glatter Stein | `smooth_stone` | 16 |
 
@@ -623,17 +619,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.18 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 71–83)
+### Schritt 15.18 – Reihenhaus an Via Domenico Burchiello – Teil 2/3 (Y 69–82)
 
-- **Y-Bereich:** 71 bis 83
-- **Blöcke:** 1.881
+- **Y-Bereich:** 69 bis 82
+- **Blöcke:** 2.030
 - **Bauteile:** `w464120095`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.785 |
+| Orange Keramik | `orange_terracotta` | 1.934 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
@@ -652,9 +648,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.19 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 84–96)
+### Schritt 15.19 – Reihenhaus an Via Domenico Burchiello – Teil 3/3 (Y 83–95)
 
-- **Y-Bereich:** 84 bis 96
+- **Y-Bereich:** 83 bis 95
 - **Blöcke:** 2.059
 - **Bauteile:** `w464120095`
 
@@ -686,19 +682,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.20 – Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 60 bis 83
-- **Blöcke:** 1.512
+- **Y-Bereich:** 59 bis 82
+- **Blöcke:** 1.511
 - **Bauteile:** `w464120095_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.386 |
+| Terrakotta | `terracotta` | 1.389 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -788,15 +784,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 15.23 – Reihenhaus an Via Luigi Pulci – Teil 3/3 (Y 86–97)
 
 - **Y-Bereich:** 86 bis 97
-- **Blöcke:** 1.470
+- **Blöcke:** 1.547
 - **Bauteile:** `w464120233`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 887 |
-| Gelbe Keramik | `yellow_terracotta` | 417 |
+| Terrakotta | `terracotta` | 888 |
+| Gelbe Keramik | `yellow_terracotta` | 493 |
 | Weißer Beton | `white_concrete` | 100 |
 | Ziegelsteine | `bricks` | 50 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -820,28 +816,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 15.24 – Reihenhaus an Via Luigi Pulci: Innenausbau
 
 - **Y-Bereich:** 60 bis 83
-- **Blöcke:** 1.922
+- **Blöcke:** 1.914
 - **Bauteile:** `w464120233_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.791 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Terrakotta | `terracotta` | 1.788 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 

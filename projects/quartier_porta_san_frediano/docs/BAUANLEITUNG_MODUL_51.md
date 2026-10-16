@@ -8,28 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 51.228 |
-| Bauschritte | 34 |
-| Y-Bereich | 57 bis 99 |
+| Blöcke | 48.934 |
+| Bauschritte | 32 |
+| Y-Bereich | 57 bis 97 |
 | X-Ausdehnung | -2563 bis -2392 (172 Blöcke) |
 | Z-Ausdehnung | 375 bis 465 (91 Blöcke) |
-| Kleinster Schritt | 856 Blöcke (Schritt 51.8) |
-| Mittlerer Schritt | 1.507 Blöcke |
-| Größter Schritt | 2.047 Blöcke (Schritt 51.7) |
+| Kleinster Schritt | 863 Blöcke (Schritt 51.12) |
+| Mittlerer Schritt | 1.529 Blöcke |
+| Größter Schritt | 2.067 Blöcke (Schritt 51.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 18.502 | 36,1 % |
-| Terrakotta | `terracotta` | 14.547 | 28,4 % |
-| Polierter Tuffstein | `polished_tuff` | 4.921 | 9,6 % |
-| Polierter Andesit | `polished_andesite` | 4.392 | 8,6 % |
-| Graues Buntglas | `gray_stained_glass` | 2.319 | 4,5 % |
-| Tuffstein | `tuff` | 2.294 | 4,5 % |
-| Glatter Stein | `smooth_stone` | 2.144 | 4,2 % |
-| Grüner Beton | `green_concrete` | 1.682 | 3,3 % |
-| Ziegelsteine | `bricks` | 279 | 0,5 % |
+| Weißer Beton | `white_concrete` | 18.502 | 37,8 % |
+| Terrakotta | `terracotta` | 14.547 | 29,7 % |
+| Polierter Tuffstein | `polished_tuff` | 4.921 | 10,1 % |
+| Polierter Andesit | `polished_andesite` | 4.392 | 9,0 % |
+| Graues Buntglas | `gray_stained_glass` | 2.319 | 4,7 % |
+| Glatter Stein | `smooth_stone` | 2.144 | 4,4 % |
+| Grüner Beton | `green_concrete` | 1.682 | 3,4 % |
+| Ziegelsteine | `bricks` | 279 | 0,6 % |
 | Seelaterne | `sea_lantern` | 72 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 21 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
@@ -51,70 +50,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1634587` | Palazzo des Cinquecento an Lungarno Soderini | 43.189 | 51.1–51.30 |
-| 2 | `r1634587_innen` | Palazzo des Cinquecento an Lungarno Soderini: Innenausbau | 8.039 | 51.31–51.34 |
+| 1 | `r1634587` | Palazzo des Cinquecento an Lungarno Soderini | 40.895 | 51.1–51.28 |
+| 2 | `r1634587_innen` | Palazzo des Cinquecento an Lungarno Soderini: Innenausbau | 8.039 | 51.29–51.32 |
 
 ## Bauschritte
 
-### Schritt 51.1 – Palazzo des Cinquecento an Lungarno Soderini – Teil 1/30 (Y 57–58)
+### Schritt 51.1 – Palazzo des Cinquecento an Lungarno Soderini – Teil 1/28 (Y 57–57)
 
-- **Y-Bereich:** 57 bis 58
-- **Blöcke:** 1.151
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.151 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.2 – Palazzo des Cinquecento an Lungarno Soderini – Teil 2/30 (Y 58–58)
-
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.143
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.143 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.3 – Palazzo des Cinquecento an Lungarno Soderini – Teil 3/30 (Y 59–59)
-
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.656
 - **Bauteile:** `r1634587`
 
@@ -140,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.4 – Palazzo des Cinquecento an Lungarno Soderini – Teil 4/30 (Y 59–59)
+### Schritt 51.2 – Palazzo des Cinquecento an Lungarno Soderini – Teil 2/28 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.630
 - **Bauteile:** `r1634587`
 
@@ -168,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.5 – Palazzo des Cinquecento an Lungarno Soderini – Teil 5/30 (Y 59–59)
+### Schritt 51.3 – Palazzo des Cinquecento an Lungarno Soderini – Teil 3/28 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.635
 - **Bauteile:** `r1634587`
 
@@ -196,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.6 – Palazzo des Cinquecento an Lungarno Soderini – Teil 6/30 (Y 60–60)
+### Schritt 51.4 – Palazzo des Cinquecento an Lungarno Soderini – Teil 4/28 (Y 58–58)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 974
 - **Bauteile:** `r1634587`
 
@@ -226,50 +169,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.7 – Palazzo des Cinquecento an Lungarno Soderini – Teil 7/30 (Y 61–62)
+### Schritt 51.5 – Palazzo des Cinquecento an Lungarno Soderini – Teil 5/28 (Y 59–59)
 
-- **Y-Bereich:** 61 bis 62
-- **Blöcke:** 2.047
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 974
 - **Bauteile:** `r1634587`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.625 |
-| Polierter Andesit | `polished_andesite` | 418 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.8 – Palazzo des Cinquecento an Lungarno Soderini – Teil 8/30 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 856
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 429 |
-| Graues Buntglas | `gray_stained_glass` | 159 |
-| Polierter Andesit | `polished_andesite` | 145 |
-| Grüner Beton | `green_concrete` | 122 |
+| Weißer Beton | `white_concrete` | 964 |
+| Polierter Andesit | `polished_andesite` | 9 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
@@ -288,9 +199,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.9 – Palazzo des Cinquecento an Lungarno Soderini – Teil 9/30 (Y 64–65)
+### Schritt 51.6 – Palazzo des Cinquecento an Lungarno Soderini – Teil 6/28 (Y 60–61)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.929
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.090 |
+| Polierter Andesit | `polished_andesite` | 554 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
+| Grüner Beton | `green_concrete` | 122 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.7 – Palazzo des Cinquecento an Lungarno Soderini – Teil 7/28 (Y 62–63)
+
+- **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.715
 - **Bauteile:** `r1634587`
 
@@ -320,20 +263,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.10 – Palazzo des Cinquecento an Lungarno Soderini – Teil 10/30 (Y 66–67)
+### Schritt 51.8 – Palazzo des Cinquecento an Lungarno Soderini – Teil 8/28 (Y 64–64)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.908
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 925
 - **Bauteile:** `r1634587`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.429 |
-| Polierter Andesit | `polished_andesite` | 408 |
+| Weißer Beton | `white_concrete` | 615 |
+| Polierter Andesit | `polished_andesite` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 67 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
@@ -351,39 +294,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.11 – Palazzo des Cinquecento an Lungarno Soderini – Teil 11/30 (Y 68–68)
+### Schritt 51.9 – Palazzo des Cinquecento an Lungarno Soderini – Teil 9/28 (Y 65–66)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 983
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 961 |
-| Polierter Andesit | `polished_andesite` | 17 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.12 – Palazzo des Cinquecento an Lungarno Soderini – Teil 12/30 (Y 69–70)
-
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.966
 - **Bauteile:** `r1634587`
 
@@ -391,9 +304,38 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.407 |
+| Weißer Beton | `white_concrete` | 1.775 |
+| Polierter Andesit | `polished_andesite` | 185 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.10 – Palazzo des Cinquecento an Lungarno Soderini – Teil 10/28 (Y 67–67)
+
+- **Y-Bereich:** 67 bis 67
+- **Blöcke:** 983
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 546 |
-| Polierter Andesit | `polished_andesite` | 13 |
+| Weißer Beton | `white_concrete` | 437 |
 
 **Beschreibung**
 
@@ -411,18 +353,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.13 – Palazzo des Cinquecento an Lungarno Soderini – Teil 13/30 (Y 71–71)
+### Schritt 51.11 – Palazzo des Cinquecento an Lungarno Soderini – Teil 11/28 (Y 68–69)
 
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.084
+- **Y-Bereich:** 68 bis 69
+- **Blöcke:** 2.067
 - **Bauteile:** `r1634587`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 679 |
-| Polierter Andesit | `polished_andesite` | 405 |
+| Weißer Beton | `white_concrete` | 1.649 |
+| Polierter Andesit | `polished_andesite` | 418 |
 
 **Beschreibung**
 
@@ -440,40 +382,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.14 – Palazzo des Cinquecento an Lungarno Soderini – Teil 14/30 (Y 72–73)
+### Schritt 51.12 – Palazzo des Cinquecento an Lungarno Soderini – Teil 12/28 (Y 70–70)
 
-- **Y-Bereich:** 72 bis 73
-- **Blöcke:** 1.726
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 861 |
-| Graues Buntglas | `gray_stained_glass` | 324 |
-| Polierter Andesit | `polished_andesite` | 293 |
-| Grüner Beton | `green_concrete` | 248 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.15 – Palazzo des Cinquecento an Lungarno Soderini – Teil 15/30 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 863
 - **Bauteile:** `r1634587`
 
@@ -502,9 +413,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.16 – Palazzo des Cinquecento an Lungarno Soderini – Teil 16/30 (Y 75–76)
+### Schritt 51.13 – Palazzo des Cinquecento an Lungarno Soderini – Teil 13/28 (Y 71–72)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.726
 - **Bauteile:** `r1634587`
 
@@ -533,129 +444,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.17 – Palazzo des Cinquecento an Lungarno Soderini – Teil 17/30 (Y 77–78)
+### Schritt 51.14 – Palazzo des Cinquecento an Lungarno Soderini – Teil 14/28 (Y 73–74)
 
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.846
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.105 |
-| Polierter Andesit | `polished_andesite` | 455 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-| Grüner Beton | `green_concrete` | 124 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.18 – Palazzo des Cinquecento an Lungarno Soderini – Teil 18/30 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 983
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 546 |
-| Weißer Beton | `white_concrete` | 437 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.19 – Palazzo des Cinquecento an Lungarno Soderini – Teil 19/30 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 983
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 970 |
-| Polierter Andesit | `polished_andesite` | 13 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.20 – Palazzo des Cinquecento an Lungarno Soderini – Teil 20/30 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
-- **Blöcke:** 1.947
-- **Bauteile:** `r1634587`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.105 |
-| Polierter Andesit | `polished_andesite` | 556 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-| Grüner Beton | `green_concrete` | 124 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 51.21 – Palazzo des Cinquecento an Lungarno Soderini – Teil 21/30 (Y 83–84)
-
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.726
 - **Bauteile:** `r1634587`
 
@@ -684,9 +475,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.22 – Palazzo des Cinquecento an Lungarno Soderini – Teil 22/30 (Y 85–85)
+### Schritt 51.15 – Palazzo des Cinquecento an Lungarno Soderini – Teil 15/28 (Y 75–75)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 863
 - **Bauteile:** `r1634587`
 
@@ -715,9 +506,161 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.23 – Palazzo des Cinquecento an Lungarno Soderini – Teil 23/30 (Y 86–87)
+### Schritt 51.16 – Palazzo des Cinquecento an Lungarno Soderini – Teil 16/28 (Y 76–77)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 76 bis 77
+- **Blöcke:** 1.966
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.107 |
+| Glatter Stein | `smooth_stone` | 546 |
+| Polierter Andesit | `polished_andesite` | 313 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.17 – Palazzo des Cinquecento an Lungarno Soderini – Teil 17/28 (Y 78–78)
+
+- **Y-Bereich:** 78 bis 78
+- **Blöcke:** 983
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 970 |
+| Polierter Andesit | `polished_andesite` | 13 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.18 – Palazzo des Cinquecento an Lungarno Soderini – Teil 18/28 (Y 79–80)
+
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.947
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.105 |
+| Polierter Andesit | `polished_andesite` | 556 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Grüner Beton | `green_concrete` | 124 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.19 – Palazzo des Cinquecento an Lungarno Soderini – Teil 19/28 (Y 81–81)
+
+- **Y-Bereich:** 81 bis 81
+- **Blöcke:** 863
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 435 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+| Polierter Andesit | `polished_andesite` | 142 |
+| Grüner Beton | `green_concrete` | 124 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.20 – Palazzo des Cinquecento an Lungarno Soderini – Teil 20/28 (Y 82–83)
+
+- **Y-Bereich:** 82 bis 83
+- **Blöcke:** 1.726
+- **Bauteile:** `r1634587`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 861 |
+| Graues Buntglas | `gray_stained_glass` | 324 |
+| Polierter Andesit | `polished_andesite` | 293 |
+| Grüner Beton | `green_concrete` | 248 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 51.21 – Palazzo des Cinquecento an Lungarno Soderini – Teil 21/28 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.846
 - **Bauteile:** `r1634587`
 
@@ -746,9 +689,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.24 – Palazzo des Cinquecento an Lungarno Soderini – Teil 24/30 (Y 88–88)
+### Schritt 51.22 – Palazzo des Cinquecento an Lungarno Soderini – Teil 22/28 (Y 86–86)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.287
 - **Bauteile:** `r1634587`
 
@@ -776,9 +719,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.25 – Palazzo des Cinquecento an Lungarno Soderini – Teil 25/30 (Y 89–89)
+### Schritt 51.23 – Palazzo des Cinquecento an Lungarno Soderini – Teil 23/28 (Y 87–87)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.679
 - **Bauteile:** `r1634587`
 
@@ -806,9 +749,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.26 – Palazzo des Cinquecento an Lungarno Soderini – Teil 26/30 (Y 90–90)
+### Schritt 51.24 – Palazzo des Cinquecento an Lungarno Soderini – Teil 24/28 (Y 88–88)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.200
 - **Bauteile:** `r1634587`
 
@@ -834,9 +777,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.27 – Palazzo des Cinquecento an Lungarno Soderini – Teil 27/30 (Y 90–90)
+### Schritt 51.25 – Palazzo des Cinquecento an Lungarno Soderini – Teil 25/28 (Y 88–88)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.197
 - **Bauteile:** `r1634587`
 
@@ -862,9 +805,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.28 – Palazzo des Cinquecento an Lungarno Soderini – Teil 28/30 (Y 91–91)
+### Schritt 51.26 – Palazzo des Cinquecento an Lungarno Soderini – Teil 26/28 (Y 89–89)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.476
 - **Bauteile:** `r1634587`
 
@@ -890,9 +833,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.29 – Palazzo des Cinquecento an Lungarno Soderini – Teil 29/30 (Y 92–92)
+### Schritt 51.27 – Palazzo des Cinquecento an Lungarno Soderini – Teil 27/28 (Y 90–90)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.362
 - **Bauteile:** `r1634587`
 
@@ -918,9 +861,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.30 – Palazzo des Cinquecento an Lungarno Soderini – Teil 30/30 (Y 93–99)
+### Schritt 51.28 – Palazzo des Cinquecento an Lungarno Soderini – Teil 28/28 (Y 91–97)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.731
 - **Bauteile:** `r1634587`
 
@@ -947,9 +890,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.31 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 1/4 (Y 59–69)
+### Schritt 51.29 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 1/4 (Y 57–67)
 
-- **Y-Bereich:** 59 bis 69
+- **Y-Bereich:** 57 bis 67
 - **Blöcke:** 2.045
 - **Bauteile:** `r1634587_innen`
 
@@ -985,9 +928,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 51.32 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 2/4 (Y 69–69)
+### Schritt 51.30 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 2/4 (Y 67–67)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.979
 - **Bauteile:** `r1634587_innen`
 
@@ -1014,9 +957,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 51.33 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 3/4 (Y 70–79)
+### Schritt 51.31 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 3/4 (Y 68–77)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 2.030
 - **Bauteile:** `r1634587_innen`
 
@@ -1058,9 +1001,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 51.34 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 4/4 (Y 79–80)
+### Schritt 51.32 – Palazzo des Cinquecento an Lungarno Soderini: Innenausbau – Teil 4/4 (Y 77–78)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.985
 - **Bauteile:** `r1634587_innen`
 

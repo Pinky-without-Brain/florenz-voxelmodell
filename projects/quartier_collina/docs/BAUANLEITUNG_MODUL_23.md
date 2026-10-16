@@ -8,51 +8,42 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.254 |
+| Blöcke | 3.121 |
 | Bauschritte | 2 |
-| Y-Bereich | 187 bis 224 |
+| Y-Bereich | 187 bis 222 |
 | X-Ausdehnung | -388 bis -368 (21 Blöcke) |
 | Z-Ausdehnung | 2444 bis 2463 (20 Blöcke) |
-| Kleinster Schritt | 1.607 Blöcke (Schritt 23.2) |
-| Mittlerer Schritt | 1.627 Blöcke |
-| Größter Schritt | 1.647 Blöcke (Schritt 23.1) |
+| Kleinster Schritt | 1.514 Blöcke (Schritt 23.1) |
+| Mittlerer Schritt | 1.561 Blöcke |
+| Größter Schritt | 1.607 Blöcke (Schritt 23.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 1.903 | 58,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 533 | 16,4 % |
-| Terrakotta | `terracotta` | 255 | 7,8 % |
-| Graues Buntglas | `gray_stained_glass` | 145 | 4,5 % |
-| Polierter Tuffstein | `polished_tuff` | 143 | 4,4 % |
-| Tuffstein | `tuff` | 133 | 4,1 % |
-| Fichtenholz-Bretter | `spruce_planks` | 106 | 3,3 % |
+| Weißer Beton | `white_concrete` | 1.903 | 61,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 533 | 17,1 % |
+| Terrakotta | `terracotta` | 255 | 8,2 % |
+| Polierter Tuffstein | `polished_tuff` | 152 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 145 | 4,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 106 | 3,4 % |
 | Glatter Stein | `smooth_stone` | 23 | 0,7 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 | 0,2 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,1 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w475937092` | Reihenhaus an Via di San Leonardo | 3.253 | 23.1–23.2 |
+| 1 | `w475937092` | Reihenhaus an Via di San Leonardo | 3.120 | 23.1–23.2 |
 | 2 | `w475937092_innen` | Reihenhaus an Via di San Leonardo: Innenausbau | 1 | 23.2 |
 
 ## Bauschritte
 
-### Schritt 23.1 – Reihenhaus an Via di San Leonardo – Teil 1/2 (Y 187–205)
+### Schritt 23.1 – Reihenhaus an Via di San Leonardo – Teil 1/2 (Y 187–203)
 
-- **Y-Bereich:** 187 bis 205
-- **Blöcke:** 1.647
+- **Y-Bereich:** 187 bis 203
+- **Blöcke:** 1.514
 - **Bauteile:** `w475937092`
 
 **Teileliste**
@@ -61,18 +52,9 @@
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 1.023 |
 | Hellgrauer Beton | `light_gray_concrete` | 241 |
-| Polierter Tuffstein | `polished_tuff` | 143 |
-| Tuffstein | `tuff` | 133 |
+| Polierter Tuffstein | `polished_tuff` | 152 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 | Glatter Stein | `smooth_stone` | 23 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
 
 **Beschreibung**
 
@@ -90,9 +72,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.2 – Reihenhaus an Via di San Leonardo – Teil 2/2 (Y 206–224) & Reihenhaus an Via di San Leonardo: Innenausbau
+### Schritt 23.2 – Reihenhaus an Via di San Leonardo – Teil 2/2 (Y 204–222) & Reihenhaus an Via di San Leonardo: Innenausbau
 
-- **Y-Bereich:** 189 bis 224
+- **Y-Bereich:** 187 bis 222
 - **Blöcke:** 1.607
 - **Bauteile:** `w475937092`, `w475937092_innen`
 

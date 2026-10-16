@@ -8,30 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.155 |
+| Blöcke | 11.136 |
 | Bauschritte | 6 |
-| Y-Bereich | 72 bis 110 |
+| Y-Bereich | 72 bis 109 |
 | X-Ausdehnung | 862 bis 906 (45 Blöcke) |
 | Z-Ausdehnung | -1475 bis -1426 (50 Blöcke) |
 | Kleinster Schritt | 1.302 Blöcke (Schritt 8.6) |
-| Mittlerer Schritt | 1.859 Blöcke |
+| Mittlerer Schritt | 1.856 Blöcke |
 | Größter Schritt | 2.006 Blöcke (Schritt 8.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 5.443 | 48,8 % |
-| Terrakotta | `terracotta` | 2.322 | 20,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 5.443 | 48,9 % |
+| Terrakotta | `terracotta` | 2.322 | 20,9 % |
 | Weißer Beton | `white_concrete` | 1.249 | 11,2 % |
 | Polierter Tuffstein | `polished_tuff` | 862 | 7,7 % |
 | Glatter Stein | `smooth_stone` | 613 | 5,5 % |
-| Graues Buntglas | `gray_stained_glass` | 262 | 2,3 % |
+| Graues Buntglas | `gray_stained_glass` | 262 | 2,4 % |
 | Polierter Andesit | `polished_andesite` | 259 | 2,3 % |
 | Ziegelsteine | `bricks` | 61 | 0,5 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,2 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,2 % |
-| Tuffstein | `tuff` | 19 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
 
@@ -45,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112941731` | Palazzo des Cinquecento an Via Luigi Salvatore Cherubini | 9.853 | 8.1–8.5 |
+| 1 | `w112941731` | Palazzo des Cinquecento an Via Luigi Salvatore Cherubini | 9.834 | 8.1–8.5 |
 | 2 | `w112941731_innen` | Palazzo des Cinquecento an Via Luigi Salvatore Cherubini: Innenausbau | 1.302 | 8.6 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 1/5 (Y 72–77)
+### Schritt 8.1 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 1/5 (Y 72–76)
 
-- **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.925
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.906
 - **Bauteile:** `w112941731`
 
 **Teileliste**
@@ -64,7 +63,6 @@
 | Gelbe Keramik | `yellow_terracotta` | 776 |
 | Weißer Beton | `white_concrete` | 192 |
 | Polierter Andesit | `polished_andesite` | 40 |
-| Tuffstein | `tuff` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 | Glatter Stein | `smooth_stone` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
@@ -85,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 2/5 (Y 78–85)
+### Schritt 8.2 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 2/5 (Y 77–84)
 
-- **Y-Bereich:** 78 bis 85
+- **Y-Bereich:** 77 bis 84
 - **Blöcke:** 2.006
 - **Bauteile:** `w112941731`
 
@@ -118,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 3/5 (Y 86–93)
+### Schritt 8.3 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 3/5 (Y 85–92)
 
-- **Y-Bereich:** 86 bis 93
+- **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.980
 - **Bauteile:** `w112941731`
 
@@ -150,9 +148,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 4/5 (Y 94–101)
+### Schritt 8.4 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 4/5 (Y 93–100)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.980
 - **Bauteile:** `w112941731`
 
@@ -181,9 +179,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 5/5 (Y 102–110)
+### Schritt 8.5 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 5/5 (Y 101–109)
 
-- **Y-Bereich:** 102 bis 110
+- **Y-Bereich:** 101 bis 109
 - **Blöcke:** 1.962
 - **Bauteile:** `w112941731`
 
@@ -216,7 +214,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.6 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini: Innenausbau
 
-- **Y-Bereich:** 73 bis 93
+- **Y-Bereich:** 72 bis 92
 - **Blöcke:** 1.302
 - **Bauteile:** `w112941731_innen`
 

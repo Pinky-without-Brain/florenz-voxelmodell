@@ -8,46 +8,44 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 156.102 |
-| Bauschritte | 96 |
-| Y-Bereich | 47 bis 107 |
+| Blöcke | 147.553 |
+| Bauschritte | 90 |
+| Y-Bereich | 47 bis 105 |
 | X-Ausdehnung | -2987 bis -2813 (175 Blöcke) |
 | Z-Ausdehnung | -1391 bis -1118 (274 Blöcke) |
-| Kleinster Schritt | 462 Blöcke (Schritt 5.51) |
-| Mittlerer Schritt | 1.626 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 5.67) |
+| Kleinster Schritt | 462 Blöcke (Schritt 5.49) |
+| Mittlerer Schritt | 1.639 Blöcke |
+| Größter Schritt | 2.099 Blöcke (Schritt 5.61) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 47.112 | 30,2 % |
-| Rosa Keramik | `pink_terracotta` | 31.614 | 20,3 % |
-| Tuffstein | `tuff` | 15.817 | 10,1 % |
-| Polierter Tuffstein | `polished_tuff` | 12.484 | 8,0 % |
-| Weißer Beton | `white_concrete` | 11.889 | 7,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 10.011 | 6,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 6.526 | 4,2 % |
-| Glatter Stein | `smooth_stone` | 5.793 | 3,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.070 | 3,2 % |
-| Polierter Andesit | `polished_andesite` | 3.634 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 3.294 | 2,1 % |
-| Ziegelsteine | `bricks` | 825 | 0,5 % |
+| Terrakotta | `terracotta` | 47.115 | 31,9 % |
+| Rosa Keramik | `pink_terracotta` | 31.614 | 21,4 % |
+| Polierter Tuffstein | `polished_tuff` | 12.493 | 8,5 % |
+| Weißer Beton | `white_concrete` | 11.889 | 8,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.990 | 6,8 % |
+| Tuffstein | `tuff` | 7.302 | 4,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.480 | 4,4 % |
+| Glatter Stein | `smooth_stone` | 5.793 | 3,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.102 | 3,5 % |
+| Polierter Andesit | `polished_andesite` | 3.634 | 2,5 % |
+| Graues Buntglas | `gray_stained_glass` | 3.294 | 2,2 % |
+| Ziegelsteine | `bricks` | 825 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 456 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 360 | 0,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 350 | 0,2 % |
-| Seelaterne | `sea_lantern` | 271 | 0,2 % |
+| Seelaterne | `sea_lantern` | 268 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 176 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 162 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 58 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 52 | 0,0 % |
 | Grüner Beton | `green_concrete` | 48 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 36 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 34 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 26 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 26 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -55,7 +53,6 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 338 |
 | Steintreppe | `stone_stairs` | 150 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -63,30 +60,30 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w458906124` | Reihenhaus an Via del Ponte alle Mosse | 13.526 | 5.1–5.8 |
 | 2 | `w458906124_innen` | Reihenhaus an Via del Ponte alle Mosse: Innenausbau | 4.197 | 5.9–5.11 |
-| 3 | `w463119719` | Haus w463119719 | 20.372 | 5.12–5.24 |
-| 4 | `w463119719_innen` | Haus w463119719: Innenausbau | 5.631 | 5.25–5.27 |
-| 5 | `w463119721` | Reihenhaus an Via del Ponte alle Mosse | 6.580 | 5.28–5.31 |
-| 6 | `w463119721_innen` | Reihenhaus an Via del Ponte alle Mosse: Innenausbau | 2.071 | 5.32 |
-| 7 | `w463119722` | Haus w463119722 | 3.794 | 5.33–5.34 |
-| 8 | `w463119722_innen` | Haus w463119722: Innenausbau | 754 | 5.35 |
-| 9 | `w463119775` | Reihenhaus an Via del Ponte alle Mosse | 9.410 | 5.36–5.40 |
-| 10 | `w463119775_innen` | Reihenhaus an Via del Ponte alle Mosse: Innenausbau | 2.759 | 5.41–5.42 |
-| 11 | `w463119781` | Palazzo des Cinquecento an Via del Ponte alle Mosse | 9.332 | 5.43–5.47 |
-| 12 | `w463119781_innen` | Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau | 1.921 | 5.48 |
-| 13 | `w463119787` | Haus w463119787 | 3.217 | 5.49–5.50 |
-| 14 | `w463119787_innen` | Haus w463119787: Innenausbau | 462 | 5.51 |
-| 15 | `w463119805` | Haus w463119805 | 4.666 | 5.52–5.54 |
-| 16 | `w463119805_innen` | Haus w463119805: Innenausbau | 1.102 | 5.55 |
-| 17 | `w463119865` | Palazzo des Cinquecento an Via del Ponte alle Mosse | 44.981 | 5.56–5.83 |
-| 18 | `w463119865_innen` | Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau | 11.406 | 5.84–5.91 |
-| 19 | `w463119868` | Renaissance-Palazzo an Via del Ponte alle Mosse | 7.862 | 5.92–5.95 |
-| 20 | `w463119868_innen` | Renaissance-Palazzo an Via del Ponte alle Mosse: Innenausbau | 2.059 | 5.96 |
+| 3 | `w463119719` | Haus w463119719 | 17.853 | 5.12–5.22 |
+| 4 | `w463119719_innen` | Haus w463119719: Innenausbau | 5.631 | 5.23–5.25 |
+| 5 | `w463119721` | Reihenhaus an Via del Ponte alle Mosse | 6.572 | 5.26–5.29 |
+| 6 | `w463119721_innen` | Reihenhaus an Via del Ponte alle Mosse: Innenausbau | 2.071 | 5.30 |
+| 7 | `w463119722` | Haus w463119722 | 3.756 | 5.31–5.32 |
+| 8 | `w463119722_innen` | Haus w463119722: Innenausbau | 758 | 5.33 |
+| 9 | `w463119775` | Reihenhaus an Via del Ponte alle Mosse | 9.405 | 5.34–5.38 |
+| 10 | `w463119775_innen` | Reihenhaus an Via del Ponte alle Mosse: Innenausbau | 2.759 | 5.39–5.40 |
+| 11 | `w463119781` | Palazzo des Cinquecento an Via del Ponte alle Mosse | 9.365 | 5.41–5.45 |
+| 12 | `w463119781_innen` | Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau | 1.921 | 5.46 |
+| 13 | `w463119787` | Haus w463119787 | 3.196 | 5.47–5.48 |
+| 14 | `w463119787_innen` | Haus w463119787: Innenausbau | 462 | 5.49 |
+| 15 | `w463119805` | Haus w463119805 | 4.666 | 5.50–5.52 |
+| 16 | `w463119805_innen` | Haus w463119805: Innenausbau | 1.102 | 5.53 |
+| 17 | `w463119865` | Palazzo des Cinquecento an Via del Ponte alle Mosse | 39.021 | 5.54–5.77 |
+| 18 | `w463119865_innen` | Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau | 11.406 | 5.78–5.85 |
+| 19 | `w463119868` | Renaissance-Palazzo an Via del Ponte alle Mosse | 7.832 | 5.86–5.89 |
+| 20 | `w463119868_innen` | Renaissance-Palazzo an Via del Ponte alle Mosse: Innenausbau | 2.054 | 5.90 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Reihenhaus an Via del Ponte alle Mosse – Teil 1/8 (Y 55–55)
+### Schritt 5.1 – Reihenhaus an Via del Ponte alle Mosse – Teil 1/8 (Y 54–54)
 
-- **Y-Bereich:** 55 bis 55
+- **Y-Bereich:** 54 bis 54
 - **Blöcke:** 1.669
 - **Bauteile:** `w458906124`
 
@@ -112,9 +109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Reihenhaus an Via del Ponte alle Mosse – Teil 2/8 (Y 56–61)
+### Schritt 5.2 – Reihenhaus an Via del Ponte alle Mosse – Teil 2/8 (Y 55–60)
 
-- **Y-Bereich:** 56 bis 61
+- **Y-Bereich:** 55 bis 60
 - **Blöcke:** 1.824
 - **Bauteile:** `w458906124`
 
@@ -144,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Reihenhaus an Via del Ponte alle Mosse – Teil 3/8 (Y 62–66)
+### Schritt 5.3 – Reihenhaus an Via del Ponte alle Mosse – Teil 3/8 (Y 61–65)
 
-- **Y-Bereich:** 62 bis 66
+- **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.565
 - **Bauteile:** `w458906124`
 
@@ -175,9 +172,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Reihenhaus an Via del Ponte alle Mosse – Teil 4/8 (Y 67–71)
+### Schritt 5.4 – Reihenhaus an Via del Ponte alle Mosse – Teil 4/8 (Y 66–70)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 66 bis 70
 - **Blöcke:** 1.550
 - **Bauteile:** `w458906124`
 
@@ -206,9 +203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Reihenhaus an Via del Ponte alle Mosse – Teil 5/8 (Y 72–77)
+### Schritt 5.5 – Reihenhaus an Via del Ponte alle Mosse – Teil 5/8 (Y 71–76)
 
-- **Y-Bereich:** 72 bis 77
+- **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.851
 - **Bauteile:** `w458906124`
 
@@ -237,9 +234,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Reihenhaus an Via del Ponte alle Mosse – Teil 6/8 (Y 78–82)
+### Schritt 5.6 – Reihenhaus an Via del Ponte alle Mosse – Teil 6/8 (Y 77–81)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.535
 - **Bauteile:** `w458906124`
 
@@ -268,9 +265,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Reihenhaus an Via del Ponte alle Mosse – Teil 7/8 (Y 83–86)
+### Schritt 5.7 – Reihenhaus an Via del Ponte alle Mosse – Teil 7/8 (Y 82–85)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.987
 - **Bauteile:** `w458906124`
 
@@ -299,9 +296,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Reihenhaus an Via del Ponte alle Mosse – Teil 8/8 (Y 87–94)
+### Schritt 5.8 – Reihenhaus an Via del Ponte alle Mosse – Teil 8/8 (Y 86–93)
 
-- **Y-Bereich:** 87 bis 94
+- **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.545
 - **Bauteile:** `w458906124`
 
@@ -328,9 +325,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 1/3 (Y 55–64)
+### Schritt 5.9 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 1/3 (Y 54–63)
 
-- **Y-Bereich:** 55 bis 64
+- **Y-Bereich:** 54 bis 63
 - **Blöcke:** 1.405
 - **Bauteile:** `w458906124_innen`
 
@@ -366,9 +363,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.10 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 2/3 (Y 65–71)
+### Schritt 5.10 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 2/3 (Y 64–70)
 
-- **Y-Bereich:** 65 bis 71
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.391
 - **Bauteile:** `w458906124_innen`
 
@@ -404,9 +401,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.11 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 3/3 (Y 72–79)
+### Schritt 5.11 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 3/3 (Y 71–78)
 
-- **Y-Bereich:** 72 bis 79
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.401
 - **Bauteile:** `w458906124_innen`
 
@@ -444,72 +441,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.12 – Haus w463119719 – Teil 1/13 (Y 55–55)
+### Schritt 5.12 – Haus w463119719 – Teil 1/11 (Y 55–55)
 
 - **Y-Bereich:** 55 bis 55
-- **Blöcke:** 510
-- **Bauteile:** `w463119719`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 510 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.13 – Haus w463119719 – Teil 2/13 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 2.011
-- **Bauteile:** `w463119719`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.009 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.14 – Haus w463119719 – Teil 3/13 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.111
 - **Bauteile:** `w463119719`
 
@@ -535,26 +469,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Haus w463119719 – Teil 4/13 (Y 57–59)
+### Schritt 5.13 – Haus w463119719 – Teil 2/11 (Y 55–57)
 
-- **Y-Bereich:** 57 bis 59
-- **Blöcke:** 1.993
+- **Y-Bereich:** 55 bis 57
+- **Blöcke:** 1.995
 - **Bauteile:** `w463119719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.145 |
+| Polierter Tuffstein | `polished_tuff` | 1.149 |
 | Rosa Keramik | `pink_terracotta` | 840 |
 | Glatter Stein | `smooth_stone` | 6 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -572,9 +499,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Haus w463119719 – Teil 5/13 (Y 60–63)
+### Schritt 5.14 – Haus w463119719 – Teil 3/11 (Y 58–61)
 
-- **Y-Bereich:** 60 bis 63
+- **Y-Bereich:** 58 bis 61
 - **Blöcke:** 1.673
 - **Bauteile:** `w463119719`
 
@@ -602,9 +529,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.17 – Haus w463119719 – Teil 6/13 (Y 64–67)
+### Schritt 5.15 – Haus w463119719 – Teil 4/11 (Y 62–65)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.744
 - **Bauteile:** `w463119719`
 
@@ -631,18 +558,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.18 – Haus w463119719 – Teil 7/13 (Y 68–72)
+### Schritt 5.16 – Haus w463119719 – Teil 5/11 (Y 66–69)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 2.065
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.636
 - **Bauteile:** `w463119719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.655 |
-| Glatter Stein | `smooth_stone` | 286 |
+| Rosa Keramik | `pink_terracotta` | 1.308 |
+| Glatter Stein | `smooth_stone` | 204 |
 | Graues Buntglas | `gray_stained_glass` | 124 |
 
 **Beschreibung**
@@ -661,18 +588,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.19 – Haus w463119719 – Teil 8/13 (Y 73–75)
+### Schritt 5.17 – Haus w463119719 – Teil 6/11 (Y 70–73)
 
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.295
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.724
 - **Bauteile:** `w463119719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.103 |
-| Glatter Stein | `smooth_stone` | 161 |
+| Rosa Keramik | `pink_terracotta` | 1.450 |
+| Glatter Stein | `smooth_stone` | 243 |
 | Graues Buntglas | `gray_stained_glass` | 31 |
 
 **Beschreibung**
@@ -691,9 +618,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.20 – Haus w463119719 – Teil 9/13 (Y 76–79)
+### Schritt 5.18 – Haus w463119719 – Teil 7/11 (Y 74–77)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.656
 - **Bauteile:** `w463119719`
 
@@ -721,19 +648,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.21 – Haus w463119719 – Teil 10/13 (Y 80–83)
+### Schritt 5.19 – Haus w463119719 – Teil 8/11 (Y 78–80)
 
-- **Y-Bereich:** 80 bis 83
-- **Blöcke:** 1.724
+- **Y-Bereich:** 78 bis 80
+- **Blöcke:** 1.315
 - **Bauteile:** `w463119719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.532 |
-| Glatter Stein | `smooth_stone` | 161 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
+| Rosa Keramik | `pink_terracotta` | 1.205 |
+| Glatter Stein | `smooth_stone` | 110 |
 
 **Beschreibung**
 
@@ -751,19 +677,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.22 – Haus w463119719 – Teil 11/13 (Y 84–86)
+### Schritt 5.20 – Haus w463119719 – Teil 9/11 (Y 81–84)
 
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.247
+- **Y-Bereich:** 81 bis 84
+- **Blöcke:** 1.656
 - **Bauteile:** `w463119719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.001 |
-| Glatter Stein | `smooth_stone` | 184 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
+| Rosa Keramik | `pink_terracotta` | 1.328 |
+| Glatter Stein | `smooth_stone` | 235 |
+| Graues Buntglas | `gray_stained_glass` | 93 |
 
 **Beschreibung**
 
@@ -781,9 +707,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.23 – Haus w463119719 – Teil 12/13 (Y 87–89)
+### Schritt 5.21 – Haus w463119719 – Teil 10/11 (Y 85–87)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.845
 - **Bauteile:** `w463119719`
 
@@ -810,9 +736,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.24 – Haus w463119719 – Teil 13/13 (Y 90–95)
+### Schritt 5.22 – Haus w463119719 – Teil 11/11 (Y 88–93)
 
-- **Y-Bereich:** 90 bis 95
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.498
 - **Bauteile:** `w463119719`
 
@@ -839,9 +765,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.25 – Haus w463119719: Innenausbau – Teil 1/3 (Y 57–66)
+### Schritt 5.23 – Haus w463119719: Innenausbau – Teil 1/3 (Y 55–64)
 
-- **Y-Bereich:** 57 bis 66
+- **Y-Bereich:** 55 bis 64
 - **Blöcke:** 1.887
 - **Bauteile:** `w463119719_innen`
 
@@ -877,9 +803,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.26 – Haus w463119719: Innenausbau – Teil 2/3 (Y 67–73)
+### Schritt 5.24 – Haus w463119719: Innenausbau – Teil 2/3 (Y 65–71)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.872
 - **Bauteile:** `w463119719_innen`
 
@@ -917,9 +843,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.27 – Haus w463119719: Innenausbau – Teil 3/3 (Y 74–81)
+### Schritt 5.25 – Haus w463119719: Innenausbau – Teil 3/3 (Y 72–79)
 
-- **Y-Bereich:** 74 bis 81
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.872
 - **Bauteile:** `w463119719_innen`
 
@@ -957,10 +883,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.28 – Reihenhaus an Via del Ponte alle Mosse – Teil 1/4 (Y 55–60)
+### Schritt 5.26 – Reihenhaus an Via del Ponte alle Mosse – Teil 1/4 (Y 54–59)
 
-- **Y-Bereich:** 55 bis 60
-- **Blöcke:** 1.600
+- **Y-Bereich:** 54 bis 59
+- **Blöcke:** 1.592
 - **Bauteile:** `w463119721`
 
 **Teileliste**
@@ -968,7 +894,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 813 |
-| Glatter Sandstein | `smooth_sandstone` | 669 |
+| Glatter Sandstein | `smooth_sandstone` | 661 |
 | Polierter Andesit | `polished_andesite` | 94 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
 | Fichtenholz-Bretter | `spruce_planks` | 4 |
@@ -989,9 +915,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.29 – Reihenhaus an Via del Ponte alle Mosse – Teil 2/4 (Y 61–71)
+### Schritt 5.27 – Reihenhaus an Via del Ponte alle Mosse – Teil 2/4 (Y 60–70)
 
-- **Y-Bereich:** 61 bis 71
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.741
 - **Bauteile:** `w463119721`
 
@@ -1020,9 +946,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.30 – Reihenhaus an Via del Ponte alle Mosse – Teil 3/4 (Y 72–81)
+### Schritt 5.28 – Reihenhaus an Via del Ponte alle Mosse – Teil 3/4 (Y 71–80)
 
-- **Y-Bereich:** 72 bis 81
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.588
 - **Bauteile:** `w463119721`
 
@@ -1051,9 +977,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.31 – Reihenhaus an Via del Ponte alle Mosse – Teil 4/4 (Y 82–92)
+### Schritt 5.29 – Reihenhaus an Via del Ponte alle Mosse – Teil 4/4 (Y 81–91)
 
-- **Y-Bereich:** 82 bis 92
+- **Y-Bereich:** 81 bis 91
 - **Blöcke:** 1.651
 - **Bauteile:** `w463119721`
 
@@ -1084,9 +1010,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.32 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau
+### Schritt 5.30 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau
 
-- **Y-Bereich:** 55 bis 79
+- **Y-Bereich:** 54 bis 78
 - **Blöcke:** 2.071
 - **Bauteile:** `w463119721_innen`
 
@@ -1124,17 +1050,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.33 – Haus w463119722 – Teil 1/2 (Y 55–71)
+### Schritt 5.31 – Haus w463119722 – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
-- **Blöcke:** 1.919
+- **Blöcke:** 1.881
 - **Bauteile:** `w463119722`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.402 |
+| Glatter Sandstein | `smooth_sandstone` | 1.364 |
 | Polierter Tuffstein | `polished_tuff` | 320 |
 | Weißer Beton | `white_concrete` | 148 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
@@ -1156,7 +1082,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.34 – Haus w463119722 – Teil 2/2 (Y 72–89)
+### Schritt 5.32 – Haus w463119722 – Teil 2/2 (Y 72–89)
 
 - **Y-Bereich:** 72 bis 89
 - **Blöcke:** 1.875
@@ -1189,10 +1115,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.35 – Haus w463119722: Innenausbau
+### Schritt 5.33 – Haus w463119722: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
-- **Blöcke:** 754
+- **Y-Bereich:** 55 bis 79
+- **Blöcke:** 758
 - **Bauteile:** `w463119722_innen`
 
 **Teileliste**
@@ -1204,6 +1130,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1227,10 +1155,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.36 – Reihenhaus an Via del Ponte alle Mosse – Teil 1/5 (Y 52–57)
+### Schritt 5.34 – Reihenhaus an Via del Ponte alle Mosse – Teil 1/5 (Y 52–56)
 
-- **Y-Bereich:** 52 bis 57
-- **Blöcke:** 1.791
+- **Y-Bereich:** 52 bis 56
+- **Blöcke:** 1.786
 - **Bauteile:** `w463119775`
 
 **Teileliste**
@@ -1240,7 +1168,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Tuffstein | `polished_tuff` | 1.112 |
 | Weißer Beton | `white_concrete` | 636 |
 | Polierter Andesit | `polished_andesite` | 36 |
-| Tuffstein | `tuff` | 7 |
+| Tuffstein | `tuff` | 2 |
 
 **Beschreibung**
 
@@ -1258,9 +1186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.37 – Reihenhaus an Via del Ponte alle Mosse – Teil 2/5 (Y 58–66)
+### Schritt 5.35 – Reihenhaus an Via del Ponte alle Mosse – Teil 2/5 (Y 57–65)
 
-- **Y-Bereich:** 58 bis 66
+- **Y-Bereich:** 57 bis 65
 - **Blöcke:** 2.021
 - **Bauteile:** `w463119775`
 
@@ -1288,9 +1216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.38 – Reihenhaus an Via del Ponte alle Mosse – Teil 3/5 (Y 67–74)
+### Schritt 5.36 – Reihenhaus an Via del Ponte alle Mosse – Teil 3/5 (Y 66–73)
 
-- **Y-Bereich:** 67 bis 74
+- **Y-Bereich:** 66 bis 73
 - **Blöcke:** 1.795
 - **Bauteile:** `w463119775`
 
@@ -1318,9 +1246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.39 – Reihenhaus an Via del Ponte alle Mosse – Teil 4/5 (Y 75–82)
+### Schritt 5.37 – Reihenhaus an Via del Ponte alle Mosse – Teil 4/5 (Y 74–81)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.803
 - **Bauteile:** `w463119775`
 
@@ -1348,9 +1276,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.40 – Reihenhaus an Via del Ponte alle Mosse – Teil 5/5 (Y 83–91)
+### Schritt 5.38 – Reihenhaus an Via del Ponte alle Mosse – Teil 5/5 (Y 82–90)
 
-- **Y-Bereich:** 83 bis 91
+- **Y-Bereich:** 82 bis 90
 - **Blöcke:** 2.000
 - **Bauteile:** `w463119775`
 
@@ -1379,9 +1307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.41 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 1/2 (Y 54–69)
+### Schritt 5.39 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 1/2 (Y 53–68)
 
-- **Y-Bereich:** 54 bis 69
+- **Y-Bereich:** 53 bis 68
 - **Blöcke:** 961
 - **Bauteile:** `w463119775_innen`
 
@@ -1417,9 +1345,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.42 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 2/2 (Y 70–77)
+### Schritt 5.40 – Reihenhaus an Via del Ponte alle Mosse: Innenausbau – Teil 2/2 (Y 69–76)
 
-- **Y-Bereich:** 70 bis 77
+- **Y-Bereich:** 69 bis 76
 - **Blöcke:** 1.798
 - **Bauteile:** `w463119775_innen`
 
@@ -1455,7 +1383,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.43 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 1/5 (Y 54–57)
+### Schritt 5.41 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 1/5 (Y 54–57)
 
 - **Y-Bereich:** 54 bis 57
 - **Blöcke:** 1.832
@@ -1487,7 +1415,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.44 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 2/5 (Y 58–66)
+### Schritt 5.42 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 2/5 (Y 58–66)
 
 - **Y-Bereich:** 58 bis 66
 - **Blöcke:** 1.974
@@ -1519,7 +1447,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.45 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 3/5 (Y 67–74)
+### Schritt 5.43 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 3/5 (Y 67–74)
 
 - **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.716
@@ -1549,7 +1477,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.46 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 4/5 (Y 75–83)
+### Schritt 5.44 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 4/5 (Y 75–83)
 
 - **Y-Bereich:** 75 bis 83
 - **Blöcke:** 2.017
@@ -1579,18 +1507,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.47 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 5/5 (Y 84–91)
+### Schritt 5.45 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 5/5 (Y 84–91)
 
 - **Y-Bereich:** 84 bis 91
-- **Blöcke:** 1.793
+- **Blöcke:** 1.826
 - **Bauteile:** `w463119781`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.435 |
-| Hellgrauer Beton | `light_gray_concrete` | 272 |
+| Terrakotta | `terracotta` | 1.436 |
+| Hellgrauer Beton | `light_gray_concrete` | 304 |
 | Ziegelsteine | `bricks` | 86 |
 
 **Beschreibung**
@@ -1609,7 +1537,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.48 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau
+### Schritt 5.46 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau
 
 - **Y-Bereich:** 54 bis 74
 - **Blöcke:** 1.921
@@ -1647,17 +1575,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.49 – Haus w463119787 – Teil 1/2 (Y 55–71)
+### Schritt 5.47 – Haus w463119787 – Teil 1/2 (Y 54–70)
 
-- **Y-Bereich:** 55 bis 71
-- **Blöcke:** 1.623
+- **Y-Bereich:** 54 bis 70
+- **Blöcke:** 1.602
 - **Bauteile:** `w463119787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.227 |
+| Gelbe Keramik | `yellow_terracotta` | 1.206 |
 | Polierter Tuffstein | `polished_tuff` | 212 |
 | Glatter Stein | `smooth_stone` | 138 |
 | Graues Buntglas | `gray_stained_glass` | 46 |
@@ -1678,9 +1606,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.50 – Haus w463119787 – Teil 2/2 (Y 72–87)
+### Schritt 5.48 – Haus w463119787 – Teil 2/2 (Y 71–86)
 
-- **Y-Bereich:** 72 bis 87
+- **Y-Bereich:** 71 bis 86
 - **Blöcke:** 1.594
 - **Bauteile:** `w463119787`
 
@@ -1710,9 +1638,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.51 – Haus w463119787: Innenausbau
+### Schritt 5.49 – Haus w463119787: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
+- **Y-Bereich:** 54 bis 77
 - **Blöcke:** 462
 - **Bauteile:** `w463119787_innen`
 
@@ -1748,9 +1676,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.52 – Haus w463119805 – Teil 1/3 (Y 55–64)
+### Schritt 5.50 – Haus w463119805 – Teil 1/3 (Y 54–63)
 
-- **Y-Bereich:** 55 bis 64
+- **Y-Bereich:** 54 bis 63
 - **Blöcke:** 1.506
 - **Bauteile:** `w463119805`
 
@@ -1780,9 +1708,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.53 – Haus w463119805 – Teil 2/3 (Y 65–77)
+### Schritt 5.51 – Haus w463119805 – Teil 2/3 (Y 64–76)
 
-- **Y-Bereich:** 65 bis 77
+- **Y-Bereich:** 64 bis 76
 - **Blöcke:** 1.576
 - **Bauteile:** `w463119805`
 
@@ -1810,9 +1738,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.54 – Haus w463119805 – Teil 3/3 (Y 78–90)
+### Schritt 5.52 – Haus w463119805 – Teil 3/3 (Y 77–89)
 
-- **Y-Bereich:** 78 bis 90
+- **Y-Bereich:** 77 bis 89
 - **Blöcke:** 1.584
 - **Bauteile:** `w463119805`
 
@@ -1842,9 +1770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.55 – Haus w463119805: Innenausbau
+### Schritt 5.53 – Haus w463119805: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
+- **Y-Bereich:** 54 bis 77
 - **Blöcke:** 1.102
 - **Bauteile:** `w463119805_innen`
 
@@ -1880,7 +1808,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.56 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 1/28 (Y 47–49)
+### Schritt 5.54 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 1/24 (Y 47–49)
 
 - **Y-Bereich:** 47 bis 49
 - **Blöcke:** 1.857
@@ -1908,7 +1836,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.57 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 2/28 (Y 50–50)
+### Schritt 5.55 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 2/24 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.631
@@ -1936,7 +1864,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.58 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 3/28 (Y 51–51)
+### Schritt 5.56 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 3/24 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 1.129
@@ -1964,7 +1892,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.59 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 4/28 (Y 51–51)
+### Schritt 5.57 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 4/24 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 1.050
@@ -1992,17 +1920,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.60 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 5/28 (Y 52–52)
+### Schritt 5.58 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 5/24 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
-- **Blöcke:** 1.327
+- **Blöcke:** 1.708
 - **Bauteile:** `w463119865`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.327 |
+| Polierter Tuffstein | `polished_tuff` | 1.708 |
 
 **Beschreibung**
 
@@ -2020,135 +1948,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.61 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 6/28 (Y 52–52)
+### Schritt 5.59 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 6/24 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
-- **Blöcke:** 1.411
-- **Bauteile:** `w463119865`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.411 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.62 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 7/28 (Y 53–53)
-
-- **Y-Bereich:** 53 bis 53
-- **Blöcke:** 1.632
-- **Bauteile:** `w463119865`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.630 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.63 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 8/28 (Y 53–53)
-
-- **Y-Bereich:** 53 bis 53
-- **Blöcke:** 1.592
-- **Bauteile:** `w463119865`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.592 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.64 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 9/28 (Y 54–54)
-
-- **Y-Bereich:** 54 bis 54
-- **Blöcke:** 1.706
-- **Bauteile:** `w463119865`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.704 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 5 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.65 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 10/28 (Y 54–54)
-
-- **Y-Bereich:** 54 bis 54
 - **Blöcke:** 1.667
 - **Bauteile:** `w463119865`
 
@@ -2174,17 +1976,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.66 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 11/28 (Y 55–57)
+### Schritt 5.60 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 7/24 (Y 53–55)
 
-- **Y-Bereich:** 55 bis 57
-- **Blöcke:** 1.719
+- **Y-Bereich:** 53 bis 55
+- **Blöcke:** 1.753
 - **Bauteile:** `w463119865`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.497 |
+| Rosa Keramik | `pink_terracotta` | 1.531 |
 | Weißer Beton | `white_concrete` | 155 |
 | Polierter Andesit | `polished_andesite` | 53 |
 | Glatter Stein | `smooth_stone` | 9 |
@@ -2206,9 +2008,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.67 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 12/28 (Y 58–61)
+### Schritt 5.61 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 8/24 (Y 56–59)
 
-- **Y-Bereich:** 58 bis 61
+- **Y-Bereich:** 56 bis 59
 - **Blöcke:** 2.099
 - **Bauteile:** `w463119865`
 
@@ -2239,9 +2041,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.68 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 13/28 (Y 62–64)
+### Schritt 5.62 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 9/24 (Y 60–62)
 
-- **Y-Bereich:** 62 bis 64
+- **Y-Bereich:** 60 bis 62
 - **Blöcke:** 1.737
 - **Bauteile:** `w463119865`
 
@@ -2270,9 +2072,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.69 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 14/28 (Y 65–67)
+### Schritt 5.63 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 10/24 (Y 63–65)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 63 bis 65
 - **Blöcke:** 1.682
 - **Bauteile:** `w463119865`
 
@@ -2301,9 +2103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.70 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 15/28 (Y 68–70)
+### Schritt 5.64 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 11/24 (Y 66–68)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.572
 - **Bauteile:** `w463119865`
 
@@ -2332,9 +2134,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.71 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 16/28 (Y 71–73)
+### Schritt 5.65 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 12/24 (Y 69–71)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.737
 - **Bauteile:** `w463119865`
 
@@ -2363,9 +2165,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.72 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 17/28 (Y 74–76)
+### Schritt 5.66 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 13/24 (Y 72–74)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.627
 - **Bauteile:** `w463119865`
 
@@ -2394,9 +2196,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.73 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 18/28 (Y 77–79)
+### Schritt 5.67 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 14/24 (Y 75–77)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.627
 - **Bauteile:** `w463119865`
 
@@ -2425,9 +2227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.74 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 19/28 (Y 80–82)
+### Schritt 5.68 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 15/24 (Y 78–80)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.737
 - **Bauteile:** `w463119865`
 
@@ -2456,17 +2258,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.75 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 20/28 (Y 83–85)
+### Schritt 5.69 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 16/24 (Y 81–83)
 
-- **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.606
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 1.572
 - **Bauteile:** `w463119865`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.069 |
+| Rosa Keramik | `pink_terracotta` | 1.035 |
 | Weißer Beton | `white_concrete` | 273 |
 | Graues Buntglas | `gray_stained_glass` | 216 |
 | Polierter Andesit | `polished_andesite` | 48 |
@@ -2487,9 +2289,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.76 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 21/28 (Y 86–88)
+### Schritt 5.70 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 17/24 (Y 84–86)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.729
 - **Bauteile:** `w463119865`
 
@@ -2518,9 +2320,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.77 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 22/28 (Y 89–90)
+### Schritt 5.71 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 18/24 (Y 87–88)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.226
 - **Bauteile:** `w463119865`
 
@@ -2548,9 +2350,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.78 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 23/28 (Y 91–93)
+### Schritt 5.72 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 19/24 (Y 89–91)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.729
 - **Bauteile:** `w463119865`
 
@@ -2579,9 +2381,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.79 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 24/28 (Y 94–96)
+### Schritt 5.73 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 20/24 (Y 92–94)
 
-- **Y-Bereich:** 94 bis 96
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.674
 - **Bauteile:** `w463119865`
 
@@ -2610,9 +2412,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.80 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 25/28 (Y 97–98)
+### Schritt 5.74 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 21/24 (Y 95–96)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.632
 - **Bauteile:** `w463119865`
 
@@ -2640,9 +2442,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.81 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 26/28 (Y 99–99)
+### Schritt 5.75 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 22/24 (Y 97–97)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.424
 - **Bauteile:** `w463119865`
 
@@ -2668,9 +2470,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.82 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 27/28 (Y 100–101)
+### Schritt 5.76 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 23/24 (Y 98–99)
 
-- **Y-Bereich:** 100 bis 101
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.647
 - **Bauteile:** `w463119865`
 
@@ -2696,9 +2498,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.83 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 28/28 (Y 102–107)
+### Schritt 5.77 – Palazzo des Cinquecento an Via del Ponte alle Mosse – Teil 24/24 (Y 100–105)
 
-- **Y-Bereich:** 102 bis 107
+- **Y-Bereich:** 100 bis 105
 - **Blöcke:** 1.775
 - **Bauteile:** `w463119865`
 
@@ -2725,9 +2527,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.84 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 1/8 (Y 54–64)
+### Schritt 5.78 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 1/8 (Y 52–62)
 
-- **Y-Bereich:** 54 bis 64
+- **Y-Bereich:** 52 bis 62
 - **Blöcke:** 1.500
 - **Bauteile:** `w463119865_innen`
 
@@ -2767,9 +2569,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.85 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 2/8 (Y 64–64)
+### Schritt 5.79 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 2/8 (Y 62–62)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.371
 - **Bauteile:** `w463119865_innen`
 
@@ -2796,9 +2598,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.86 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 3/8 (Y 65–72)
+### Schritt 5.80 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 3/8 (Y 63–70)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.481
 - **Bauteile:** `w463119865_innen`
 
@@ -2840,9 +2642,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.87 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 4/8 (Y 72–72)
+### Schritt 5.81 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 4/8 (Y 70–70)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.371
 - **Bauteile:** `w463119865_innen`
 
@@ -2869,9 +2671,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.88 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 5/8 (Y 73–80)
+### Schritt 5.82 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 5/8 (Y 71–78)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.481
 - **Bauteile:** `w463119865_innen`
 
@@ -2913,9 +2715,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.89 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 6/8 (Y 80–80)
+### Schritt 5.83 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 6/8 (Y 78–78)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.371
 - **Bauteile:** `w463119865_innen`
 
@@ -2942,9 +2744,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.90 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 7/8 (Y 81–89)
+### Schritt 5.84 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 7/8 (Y 79–87)
 
-- **Y-Bereich:** 81 bis 89
+- **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.485
 - **Bauteile:** `w463119865_innen`
 
@@ -2986,9 +2788,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.91 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 8/8 (Y 89–90)
+### Schritt 5.85 – Palazzo des Cinquecento an Via del Ponte alle Mosse: Innenausbau – Teil 8/8 (Y 87–88)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.346
 - **Bauteile:** `w463119865_innen`
 
@@ -3026,18 +2828,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.92 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 1/4 (Y 54–59)
+### Schritt 5.86 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 1/4 (Y 54–59)
 
 - **Y-Bereich:** 54 bis 59
-- **Blöcke:** 1.955
+- **Blöcke:** 1.925
 - **Bauteile:** `w463119868`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.137 |
-| Tuffstein | `tuff` | 316 |
+| Polierter Tuffstein | `polished_tuff` | 1.138 |
+| Tuffstein | `tuff` | 285 |
 | Polierter Andesit | `polished_andesite` | 219 |
 | Tuffsteinziegel | `tuff_bricks` | 167 |
 | Glatter Stein | `smooth_stone` | 98 |
@@ -3059,7 +2861,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.93 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 2/4 (Y 60–71)
+### Schritt 5.87 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 2/4 (Y 60–71)
 
 - **Y-Bereich:** 60 bis 71
 - **Blöcke:** 1.920
@@ -3091,7 +2893,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.94 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 3/4 (Y 72–83)
+### Schritt 5.88 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 3/4 (Y 72–83)
 
 - **Y-Bereich:** 72 bis 83
 - **Blöcke:** 2.078
@@ -3122,7 +2924,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.95 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 4/4 (Y 84–92)
+### Schritt 5.89 – Renaissance-Palazzo an Via del Ponte alle Mosse – Teil 4/4 (Y 84–92)
 
 - **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.909
@@ -3154,23 +2956,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.96 – Renaissance-Palazzo an Via del Ponte alle Mosse: Innenausbau
+### Schritt 5.90 – Renaissance-Palazzo an Via del Ponte alle Mosse: Innenausbau
 
-- **Y-Bereich:** 54 bis 75
-- **Blöcke:** 2.059
+- **Y-Bereich:** 54 bis 74
+- **Blöcke:** 2.054
 - **Bauteile:** `w463119868_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.942 |
+| Terrakotta | `terracotta` | 1.944 |
 | Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 21 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
 
 **Treppen je Material** (alle Richtungen)
 

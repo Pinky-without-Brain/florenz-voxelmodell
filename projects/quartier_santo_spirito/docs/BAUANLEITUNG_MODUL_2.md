@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 16.226 |
 | Bauschritte | 10 |
-| Y-Bereich | 62 bis 97 |
+| Y-Bereich | 61 bis 96 |
 | X-Ausdehnung | -1058 bis -1016 (43 Blöcke) |
 | Z-Ausdehnung | 1278 bis 1350 (73 Blöcke) |
 | Kleinster Schritt | 897 Blöcke (Schritt 2.10) |
@@ -274,17 +274,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.7 – Reihenhaus an Via dello Sprone – Teil 1/3 (Y 62–72)
+### Schritt 2.7 – Reihenhaus an Via dello Sprone – Teil 1/3 (Y 61–71)
 
-- **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.642
+- **Y-Bereich:** 61 bis 71
+- **Blöcke:** 1.672
 - **Bauteile:** `w463258225`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 978 |
+| Gelbe Keramik | `yellow_terracotta` | 1.008 |
 | Polierter Tuffstein | `polished_tuff` | 390 |
 | Weißer Beton | `white_concrete` | 174 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
@@ -308,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.8 – Reihenhaus an Via dello Sprone – Teil 2/3 (Y 73–85)
+### Schritt 2.8 – Reihenhaus an Via dello Sprone – Teil 2/3 (Y 72–84)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.625
 - **Bauteile:** `w463258225`
 
@@ -339,17 +339,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.9 – Reihenhaus an Via dello Sprone – Teil 3/3 (Y 86–97)
+### Schritt 2.9 – Reihenhaus an Via dello Sprone – Teil 3/3 (Y 85–96)
 
-- **Y-Bereich:** 86 bis 97
-- **Blöcke:** 1.725
+- **Y-Bereich:** 85 bis 96
+- **Blöcke:** 1.695
 - **Bauteile:** `w463258225`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 946 |
+| Gelbe Keramik | `yellow_terracotta` | 916 |
 | Terrakotta | `terracotta` | 508 |
 | Weißer Beton | `white_concrete` | 193 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
@@ -374,7 +374,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.10 – Reihenhaus an Via dello Sprone: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 62 bis 86
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 897
 - **Bauteile:** `w463258225_innen`, `strassenschilder`
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.285 |
 | Bauschritte | 4 |
-| Y-Bereich | 57 bis 92 |
+| Y-Bereich | 56 bis 91 |
 | X-Ausdehnung | -2809 bis -2782 (28 Blöcke) |
 | Z-Ausdehnung | -819 bis -791 (29 Blöcke) |
 | Kleinster Schritt | 555 Blöcke (Schritt 13.4) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 13.1 – Reihenhaus an Via Magenta – Teil 1/3 (Y 57–67)
+### Schritt 13.1 – Reihenhaus an Via Magenta – Teil 1/3 (Y 56–66)
 
-- **Y-Bereich:** 57 bis 67
+- **Y-Bereich:** 56 bis 66
 - **Blöcke:** 1.569
 - **Bauteile:** `w484069169`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Reihenhaus an Via Magenta – Teil 2/3 (Y 68–79)
+### Schritt 13.2 – Reihenhaus an Via Magenta – Teil 2/3 (Y 67–78)
 
-- **Y-Bereich:** 68 bis 79
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 1.548
 - **Bauteile:** `w484069169`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.3 – Reihenhaus an Via Magenta – Teil 3/3 (Y 80–92)
+### Schritt 13.3 – Reihenhaus an Via Magenta – Teil 3/3 (Y 79–91)
 
-- **Y-Bereich:** 80 bis 92
+- **Y-Bereich:** 79 bis 91
 - **Blöcke:** 1.613
 - **Bauteile:** `w484069169`
 
@@ -146,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 13.4 – Reihenhaus an Via Magenta: Innenausbau
 
-- **Y-Bereich:** 57 bis 80
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 555
 - **Bauteile:** `w484069169_innen`
 

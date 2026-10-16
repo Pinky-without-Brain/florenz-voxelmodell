@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.561 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 153 bis 189 |
 | X-Ausdehnung | 1153 bis 1192 (40 Blöcke) |
 | Z-Ausdehnung | 2136 bis 2163 (28 Blöcke) |
 | Kleinster Schritt | 1.626 Blöcke (Schritt 38.5) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 38.1 – Belvedere Franco Zeffirelli – Teil 1/5 (Y 63–67)
+### Schritt 38.1 – Belvedere Franco Zeffirelli – Teil 1/5 (Y 153–157)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 153 bis 157
 - **Blöcke:** 1.651
 - **Bauteile:** `w787789877`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.2 – Belvedere Franco Zeffirelli – Teil 2/5 (Y 68–75)
+### Schritt 38.2 – Belvedere Franco Zeffirelli – Teil 2/5 (Y 158–165)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 158 bis 165
 - **Blöcke:** 1.769
 - **Bauteile:** `w787789877`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.3 – Belvedere Franco Zeffirelli – Teil 3/5 (Y 76–83)
+### Schritt 38.3 – Belvedere Franco Zeffirelli – Teil 3/5 (Y 166–173)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 166 bis 173
 - **Blöcke:** 1.772
 - **Bauteile:** `w787789877`
 
@@ -149,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.4 – Belvedere Franco Zeffirelli – Teil 4/5 (Y 84–91)
+### Schritt 38.4 – Belvedere Franco Zeffirelli – Teil 4/5 (Y 174–181)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 174 bis 181
 - **Blöcke:** 1.793
 - **Bauteile:** `w787789877`
 
@@ -180,9 +180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 38.5 – Belvedere Franco Zeffirelli – Teil 5/5 (Y 92–99)
+### Schritt 38.5 – Belvedere Franco Zeffirelli – Teil 5/5 (Y 182–189)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 182 bis 189
 - **Blöcke:** 1.626
 - **Bauteile:** `w787789877`
 
@@ -213,7 +213,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 38.6 – Belvedere Franco Zeffirelli: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 153 bis 177
 - **Blöcke:** 1.950
 - **Bauteile:** `w787789877_innen`
 

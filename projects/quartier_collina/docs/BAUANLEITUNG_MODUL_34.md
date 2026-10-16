@@ -8,46 +8,39 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.348 |
+| Blöcke | 2.301 |
 | Bauschritte | 2 |
-| Y-Bereich | 101 bis 136 |
+| Y-Bereich | 101 bis 135 |
 | X-Ausdehnung | 968 bis 983 (16 Blöcke) |
 | Z-Ausdehnung | 2377 bis 2391 (15 Blöcke) |
-| Kleinster Schritt | 1.165 Blöcke (Schritt 34.1) |
-| Mittlerer Schritt | 1.174 Blöcke |
+| Kleinster Schritt | 1.118 Blöcke (Schritt 34.1) |
+| Mittlerer Schritt | 1.151 Blöcke |
 | Größter Schritt | 1.183 Blöcke (Schritt 34.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 1.965 | 83,7 % |
-| Terrakotta | `terracotta` | 131 | 5,6 % |
-| Polierter Tuffstein | `polished_tuff` | 96 | 4,1 % |
-| Tuffstein | `tuff` | 88 | 3,7 % |
+| Weißer Beton | `white_concrete` | 1.965 | 85,4 % |
+| Terrakotta | `terracotta` | 131 | 5,7 % |
+| Polierter Tuffstein | `polished_tuff` | 98 | 4,3 % |
 | Graues Buntglas | `gray_stained_glass` | 65 | 2,8 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,1 % |
+| Tuffstein | `tuff` | 41 | 1,8 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762538` | Nebengebäude an Via del Monte alle Croci | 2.347 | 34.1–34.2 |
+| 1 | `w119762538` | Nebengebäude an Via del Monte alle Croci | 2.300 | 34.1–34.2 |
 | 2 | `w119762538_innen` | Nebengebäude an Via del Monte alle Croci: Innenausbau | 1 | 34.2 |
 
 ## Bauschritte
 
-### Schritt 34.1 – Nebengebäude an Via del Monte alle Croci – Teil 1/2 (Y 101–119)
+### Schritt 34.1 – Nebengebäude an Via del Monte alle Croci – Teil 1/2 (Y 101–118)
 
-- **Y-Bereich:** 101 bis 119
-- **Blöcke:** 1.165
+- **Y-Bereich:** 101 bis 118
+- **Blöcke:** 1.118
 - **Bauteile:** `w119762538`
 
 **Teileliste**
@@ -55,16 +48,9 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 959 |
-| Polierter Tuffstein | `polished_tuff` | 96 |
-| Tuffstein | `tuff` | 88 |
+| Polierter Tuffstein | `polished_tuff` | 98 |
+| Tuffstein | `tuff` | 41 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -82,9 +68,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.2 – Nebengebäude an Via del Monte alle Croci – Teil 2/2 (Y 120–136) & Nebengebäude an Via del Monte alle Croci: Innenausbau
+### Schritt 34.2 – Nebengebäude an Via del Monte alle Croci – Teil 2/2 (Y 119–135) & Nebengebäude an Via del Monte alle Croci: Innenausbau
 
-- **Y-Bereich:** 104 bis 136
+- **Y-Bereich:** 103 bis 135
 - **Blöcke:** 1.183
 - **Bauteile:** `w119762538`, `w119762538_innen`
 

@@ -36,7 +36,7 @@
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -381,7 +381,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

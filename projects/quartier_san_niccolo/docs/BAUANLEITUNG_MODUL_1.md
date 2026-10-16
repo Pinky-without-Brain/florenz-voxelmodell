@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 29.177 |
+| Blöcke | 29.180 |
 | Bauschritte | 16 |
-| Y-Bereich | 63 bis 116 |
+| Y-Bereich | 68 bis 121 |
 | X-Ausdehnung | -517 bis -452 (66 Blöcke) |
 | Z-Ausdehnung | 1387 bis 1442 (56 Blöcke) |
 | Kleinster Schritt | 1.584 Blöcke (Schritt 1.2) |
@@ -37,6 +37,9 @@
 | Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -50,12 +53,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w119009551` | Reihenhaus an Vicolo del Canneto | 22.320 | 1.1–1.12 |
 | 2 | `w119009551_innen` | Reihenhaus an Vicolo del Canneto: Innenausbau | 6.857 | 1.13–1.16 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 1.16 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Reihenhaus an Vicolo del Canneto – Teil 1/12 (Y 63–63)
+### Schritt 1.1 – Reihenhaus an Vicolo del Canneto – Teil 1/12 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.073
 - **Bauteile:** `w119009551`
 
@@ -81,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Reihenhaus an Vicolo del Canneto – Teil 2/12 (Y 64–67)
+### Schritt 1.2 – Reihenhaus an Vicolo del Canneto – Teil 2/12 (Y 69–72)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.584
 - **Bauteile:** `w119009551`
 
@@ -113,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Reihenhaus an Vicolo del Canneto – Teil 3/12 (Y 68–72)
+### Schritt 1.3 – Reihenhaus an Vicolo del Canneto – Teil 3/12 (Y 73–77)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.980
 - **Bauteile:** `w119009551`
 
@@ -145,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Reihenhaus an Vicolo del Canneto – Teil 4/12 (Y 73–77)
+### Schritt 1.4 – Reihenhaus an Vicolo del Canneto – Teil 4/12 (Y 78–82)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 78 bis 82
 - **Blöcke:** 1.937
 - **Bauteile:** `w119009551`
 
@@ -176,9 +180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Reihenhaus an Vicolo del Canneto – Teil 5/12 (Y 78–81)
+### Schritt 1.5 – Reihenhaus an Vicolo del Canneto – Teil 5/12 (Y 83–86)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.648
 - **Bauteile:** `w119009551`
 
@@ -205,9 +209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Reihenhaus an Vicolo del Canneto – Teil 6/12 (Y 82–86)
+### Schritt 1.6 – Reihenhaus an Vicolo del Canneto – Teil 6/12 (Y 87–91)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 87 bis 91
 - **Blöcke:** 1.896
 - **Bauteile:** `w119009551`
 
@@ -236,9 +240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Reihenhaus an Vicolo del Canneto – Teil 7/12 (Y 87–91)
+### Schritt 1.7 – Reihenhaus an Vicolo del Canneto – Teil 7/12 (Y 92–96)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 2.060
 - **Bauteile:** `w119009551`
 
@@ -265,9 +269,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Reihenhaus an Vicolo del Canneto – Teil 8/12 (Y 92–96)
+### Schritt 1.8 – Reihenhaus an Vicolo del Canneto – Teil 8/12 (Y 97–101)
 
-- **Y-Bereich:** 92 bis 96
+- **Y-Bereich:** 97 bis 101
 - **Blöcke:** 1.896
 - **Bauteile:** `w119009551`
 
@@ -296,9 +300,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Reihenhaus an Vicolo del Canneto – Teil 9/12 (Y 97–100)
+### Schritt 1.9 – Reihenhaus an Vicolo del Canneto – Teil 9/12 (Y 102–105)
 
-- **Y-Bereich:** 97 bis 100
+- **Y-Bereich:** 102 bis 105
 - **Blöcke:** 1.648
 - **Bauteile:** `w119009551`
 
@@ -325,9 +329,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Reihenhaus an Vicolo del Canneto – Teil 10/12 (Y 101–105)
+### Schritt 1.10 – Reihenhaus an Vicolo del Canneto – Teil 10/12 (Y 106–110)
 
-- **Y-Bereich:** 101 bis 105
+- **Y-Bereich:** 106 bis 110
 - **Blöcke:** 1.937
 - **Bauteile:** `w119009551`
 
@@ -356,9 +360,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Reihenhaus an Vicolo del Canneto – Teil 11/12 (Y 106–108)
+### Schritt 1.11 – Reihenhaus an Vicolo del Canneto – Teil 11/12 (Y 111–113)
 
-- **Y-Bereich:** 106 bis 108
+- **Y-Bereich:** 111 bis 113
 - **Blöcke:** 1.600
 - **Bauteile:** `w119009551`
 
@@ -386,9 +390,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Reihenhaus an Vicolo del Canneto – Teil 12/12 (Y 109–116)
+### Schritt 1.12 – Reihenhaus an Vicolo del Canneto – Teil 12/12 (Y 114–121)
 
-- **Y-Bereich:** 109 bis 116
+- **Y-Bereich:** 114 bis 121
 - **Blöcke:** 2.061
 - **Bauteile:** `w119009551`
 
@@ -415,9 +419,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 1/4 (Y 63–72)
+### Schritt 1.13 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 1/4 (Y 68–77)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.716
 - **Bauteile:** `w119009551_innen`
 
@@ -453,9 +457,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.14 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 2/4 (Y 73–80)
+### Schritt 1.14 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 2/4 (Y 78–85)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.709
 - **Bauteile:** `w119009551_innen`
 
@@ -495,9 +499,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.15 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 3/4 (Y 81–89)
+### Schritt 1.15 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 3/4 (Y 86–94)
 
-- **Y-Bereich:** 81 bis 89
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.713
 - **Bauteile:** `w119009551_innen`
 
@@ -537,11 +541,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.16 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 4/4 (Y 90–99)
+### Schritt 1.16 – Reihenhaus an Vicolo del Canneto: Innenausbau – Teil 4/4 (Y 95–104) & Straßenschilder
 
-- **Y-Bereich:** 90 bis 99
-- **Blöcke:** 1.719
-- **Bauteile:** `w119009551_innen`
+- **Y-Bereich:** 75 bis 104
+- **Blöcke:** 1.722
+- **Bauteile:** `w119009551_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -554,6 +558,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
@@ -565,16 +572,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

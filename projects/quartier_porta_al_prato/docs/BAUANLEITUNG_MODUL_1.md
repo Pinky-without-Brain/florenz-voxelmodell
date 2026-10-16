@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.242 |
 | Bauschritte | 3 |
-| Y-Bereich | 54 bis 89 |
+| Y-Bereich | 53 bis 89 |
 | X-Ausdehnung | -3057 bis -3037 (21 Blöcke) |
 | Z-Ausdehnung | -1326 bis -1307 (20 Blöcke) |
 | Kleinster Schritt | 1.229 Blöcke (Schritt 1.2) |
@@ -43,7 +43,7 @@
 
 ### Schritt 1.1 – Nebengebäude an Via del Ponte alle Mosse
 
-- **Y-Bereich:** 54 bis 88
+- **Y-Bereich:** 53 bis 87
 - **Blöcke:** 1.754
 - **Bauteile:** `w595009020`
 
@@ -76,7 +76,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.2 – Nebengebäude an Via del Ponte alle Mosse: Innenausbau & Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 54–69)
 
-- **Y-Bereich:** 54 bis 69
+- **Y-Bereich:** 53 bis 69
 - **Blöcke:** 1.229
 - **Bauteile:** `w595009020_innen`, `w1123920468`
 

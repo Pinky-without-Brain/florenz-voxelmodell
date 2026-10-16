@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.347 |
 | Bauschritte | 6 |
-| Y-Bereich | 65 bis 102 |
+| Y-Bereich | 64 bis 101 |
 | X-Ausdehnung | -380 bis -347 (34 Blöcke) |
 | Z-Ausdehnung | 849 bis 887 (39 Blöcke) |
 | Kleinster Schritt | 1.538 Blöcke (Schritt 9.6) |
@@ -21,11 +21,11 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 5.004 | 48,4 % |
+| Tuffstein | `tuff` | 5.001 | 48,3 % |
 | Terrakotta | `terracotta` | 2.465 | 23,8 % |
 | Polierter Andesit | `polished_andesite` | 925 | 8,9 % |
 | Polierter Tuffstein | `polished_tuff` | 702 | 6,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 411 | 4,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 414 | 4,0 % |
 | Graues Buntglas | `gray_stained_glass` | 366 | 3,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 246 | 2,4 % |
 | Ziegelsteine | `bricks` | 73 | 0,7 % |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 9.1 – Torre dei Salterelli – Teil 1/5 (Y 65–70)
+### Schritt 9.1 – Torre dei Salterelli – Teil 1/5 (Y 64–69)
 
-- **Y-Bereich:** 65 bis 70
+- **Y-Bereich:** 64 bis 69
 - **Blöcke:** 1.812
 - **Bauteile:** `w115190032`
 
@@ -66,10 +66,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 835 |
+| Tuffstein | `tuff` | 831 |
 | Polierter Tuffstein | `polished_tuff` | 702 |
 | Polierter Andesit | `polished_andesite` | 157 |
-| Tuffsteinziegel | `tuff_bricks` | 76 |
+| Tuffsteinziegel | `tuff_bricks` | 80 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 
 **Beschreibung**
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Torre dei Salterelli – Teil 2/5 (Y 71–78)
+### Schritt 9.2 – Torre dei Salterelli – Teil 2/5 (Y 70–77)
 
-- **Y-Bereich:** 71 bis 78
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.760
 - **Bauteile:** `w115190032`
 
@@ -98,10 +98,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.253 |
+| Tuffstein | `tuff` | 1.254 |
 | Polierter Andesit | `polished_andesite` | 262 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
-| Tuffsteinziegel | `tuff_bricks` | 109 |
+| Tuffsteinziegel | `tuff_bricks` | 108 |
 
 **Beschreibung**
 
@@ -119,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Torre dei Salterelli – Teil 3/5 (Y 79–86)
+### Schritt 9.3 – Torre dei Salterelli – Teil 3/5 (Y 78–85)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.789
 - **Bauteile:** `w115190032`
 
@@ -129,10 +129,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.282 |
+| Tuffstein | `tuff` | 1.284 |
 | Polierter Andesit | `polished_andesite` | 296 |
 | Graues Buntglas | `gray_stained_glass` | 113 |
-| Tuffsteinziegel | `tuff_bricks` | 98 |
+| Tuffsteinziegel | `tuff_bricks` | 96 |
 
 **Beschreibung**
 
@@ -150,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Torre dei Salterelli – Teil 4/5 (Y 87–93)
+### Schritt 9.4 – Torre dei Salterelli – Teil 4/5 (Y 86–92)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.581
 - **Bauteile:** `w115190032`
 
@@ -160,9 +160,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.256 |
+| Tuffstein | `tuff` | 1.252 |
 | Polierter Andesit | `polished_andesite` | 156 |
-| Tuffsteinziegel | `tuff_bricks` | 94 |
+| Tuffsteinziegel | `tuff_bricks` | 98 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 
 **Beschreibung**
@@ -181,9 +181,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Torre dei Salterelli – Teil 5/5 (Y 94–102)
+### Schritt 9.5 – Torre dei Salterelli – Teil 5/5 (Y 93–101)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 93 bis 101
 - **Blöcke:** 1.867
 - **Bauteile:** `w115190032`
 
@@ -192,11 +192,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.082 |
-| Tuffstein | `tuff` | 378 |
+| Tuffstein | `tuff` | 380 |
 | Fichtenholz-Bretter | `spruce_planks` | 246 |
 | Ziegelsteine | `bricks` | 73 |
 | Polierter Andesit | `polished_andesite` | 54 |
-| Tuffsteinziegel | `tuff_bricks` | 34 |
+| Tuffsteinziegel | `tuff_bricks` | 32 |
 
 **Beschreibung**
 
@@ -216,7 +216,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.6 – Torre dei Salterelli: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 65 bis 89
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.538
 - **Bauteile:** `w115190032_innen`, `strassenschilder`
 

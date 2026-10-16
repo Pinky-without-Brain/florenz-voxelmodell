@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.223 |
 | Bauschritte | 4 |
-| Y-Bereich | 57 bis 92 |
+| Y-Bereich | 56 bis 91 |
 | X-Ausdehnung | -3040 bis -3016 (25 Blöcke) |
 | Z-Ausdehnung | -805 bis -782 (24 Blöcke) |
 | Kleinster Schritt | 594 Blöcke (Schritt 2.4) |
@@ -21,10 +21,10 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.802 | 53,6 % |
+| Tuffstein | `tuff` | 2.797 | 53,6 % |
 | Terrakotta | `terracotta` | 828 | 15,9 % |
 | Polierter Andesit | `polished_andesite` | 667 | 12,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 309 | 5,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 314 | 6,0 % |
 | Polierter Tuffstein | `polished_tuff` | 302 | 5,8 % |
 | Graues Buntglas | `gray_stained_glass` | 177 | 3,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,2 % |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Torre della Serpe – Teil 1/3 (Y 57–66)
+### Schritt 2.1 – Torre della Serpe – Teil 1/3 (Y 56–65)
 
-- **Y-Bereich:** 57 bis 66
+- **Y-Bereich:** 56 bis 65
 - **Blöcke:** 1.476
 - **Bauteile:** `w72915046`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Torre della Serpe – Teil 2/3 (Y 67–78)
+### Schritt 2.2 – Torre della Serpe – Teil 2/3 (Y 66–77)
 
-- **Y-Bereich:** 67 bis 78
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.586
 - **Bauteile:** `w72915046`
 
@@ -90,9 +90,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.077 |
+| Tuffstein | `tuff` | 1.072 |
 | Polierter Andesit | `polished_andesite` | 307 |
-| Tuffsteinziegel | `tuff_bricks` | 106 |
+| Tuffsteinziegel | `tuff_bricks` | 111 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Torre della Serpe – Teil 3/3 (Y 79–92)
+### Schritt 2.3 – Torre della Serpe – Teil 3/3 (Y 78–91)
 
-- **Y-Bereich:** 79 bis 92
+- **Y-Bereich:** 78 bis 91
 - **Blöcke:** 1.567
 - **Bauteile:** `w72915046`
 
@@ -146,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.4 – Torre della Serpe: Innenausbau
 
-- **Y-Bereich:** 57 bis 80
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 594
 - **Bauteile:** `w72915046_innen`
 

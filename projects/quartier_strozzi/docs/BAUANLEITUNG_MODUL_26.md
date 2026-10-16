@@ -8,36 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 78.805 |
-| Bauschritte | 49 |
-| Y-Bereich | 65 bis 108 |
+| Blöcke | 73.943 |
+| Bauschritte | 45 |
+| Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | -4 bis 159 (164 Blöcke) |
 | Z-Ausdehnung | 269 bis 361 (93 Blöcke) |
-| Kleinster Schritt | 477 Blöcke (Schritt 26.1) |
-| Mittlerer Schritt | 1.608 Blöcke |
-| Größter Schritt | 2.079 Blöcke (Schritt 26.42) |
+| Kleinster Schritt | 1.087 Blöcke (Schritt 26.18) |
+| Mittlerer Schritt | 1.643 Blöcke |
+| Größter Schritt | 2.090 Blöcke (Schritt 26.33) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 32.975 | 41,8 % |
-| Tuffstein | `tuff` | 24.813 | 31,5 % |
-| Polierter Tuffstein | `polished_tuff` | 10.292 | 13,1 % |
-| Polierter Andesit | `polished_andesite` | 3.766 | 4,8 % |
-| Glatter Stein | `smooth_stone` | 3.198 | 4,1 % |
-| Graues Buntglas | `gray_stained_glass` | 1.295 | 1,6 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.132 | 1,4 % |
-| Ziegelsteine | `bricks` | 720 | 0,9 % |
+| Terrakotta | `terracotta` | 32.975 | 44,6 % |
+| Tuffstein | `tuff` | 19.948 | 27,0 % |
+| Polierter Tuffstein | `polished_tuff` | 10.392 | 14,1 % |
+| Polierter Andesit | `polished_andesite` | 3.766 | 5,1 % |
+| Glatter Stein | `smooth_stone` | 3.198 | 4,3 % |
+| Graues Buntglas | `gray_stained_glass` | 1.295 | 1,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.132 | 1,5 % |
+| Ziegelsteine | `bricks` | 720 | 1,0 % |
 | Endsteinziegel | `end_stone_bricks` | 238 | 0,3 % |
 | Seelaterne | `sea_lantern` | 153 | 0,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 63 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 26 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 12 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 6 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 | 0,0 % |
@@ -51,7 +48,6 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 97 |
 | Steintreppe | `stone_stairs` | 80 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 12 |
 
@@ -59,32 +55,25 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4107742` | Palazzo Portinari-Salviati | 40.510 | 26.1–26.26 |
-| 2 | `r4107742_innen` | Palazzo Portinari-Salviati: Innenausbau | 12.825 | 26.27–26.34 |
-| 3 | `w491889265` | Renaissance-Palazzo an Via del Proconsolo | 19.174 | 26.35–26.45 |
-| 4 | `w491889265_innen` | Renaissance-Palazzo an Via del Proconsolo: Innenausbau | 6.292 | 26.46–26.49 |
-| 5 | `strassenschilder` | Straßenschilder | 4 | 26.49 |
+| 1 | `r4107742` | Palazzo Portinari-Salviati | 36.136 | 26.1–26.23 |
+| 2 | `r4107742_innen` | Palazzo Portinari-Salviati: Innenausbau | 12.825 | 26.24–26.31 |
+| 3 | `w491889265` | Renaissance-Palazzo an Via del Proconsolo | 18.686 | 26.32–26.41 |
+| 4 | `w491889265_innen` | Renaissance-Palazzo an Via del Proconsolo: Innenausbau | 6.292 | 26.42–26.45 |
+| 5 | `strassenschilder` | Straßenschilder | 4 | 26.45 |
 
 ## Bauschritte
 
-### Schritt 26.1 – Palazzo Portinari-Salviati – Teil 1/26 (Y 66–66)
+### Schritt 26.1 – Palazzo Portinari-Salviati – Teil 1/23 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
-- **Blöcke:** 477
+- **Blöcke:** 1.731
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 466 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 11 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 11 |
+| Polierter Tuffstein | `polished_tuff` | 1.731 |
 
 **Beschreibung**
 
@@ -102,26 +91,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Palazzo Portinari-Salviati – Teil 2/26 (Y 67–67)
+### Schritt 26.2 – Palazzo Portinari-Salviati – Teil 2/23 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.947
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.794
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.926 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 16 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 21 |
+| Polierter Tuffstein | `polished_tuff` | 1.794 |
 
 **Beschreibung**
 
@@ -139,24 +119,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Palazzo Portinari-Salviati – Teil 3/26 (Y 67–67)
+### Schritt 26.3 – Palazzo Portinari-Salviati – Teil 3/23 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.986
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.687
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.981 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+| Polierter Tuffstein | `polished_tuff` | 1.687 |
 
 **Beschreibung**
 
@@ -174,25 +147,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Palazzo Portinari-Salviati – Teil 4/26 (Y 68–68)
+### Schritt 26.4 – Palazzo Portinari-Salviati – Teil 4/23 (Y 66–66)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.717
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.751
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.708 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 9 |
+| Polierter Tuffstein | `polished_tuff` | 1.751 |
 
 **Beschreibung**
 
@@ -210,115 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.5 – Palazzo Portinari-Salviati – Teil 5/26 (Y 68–68)
+### Schritt 26.5 – Palazzo Portinari-Salviati – Teil 5/23 (Y 67–68)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.787
-- **Bauteile:** `r4107742`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.780 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 6 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 7 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 26.6 – Palazzo Portinari-Salviati – Teil 6/26 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.680
-- **Bauteile:** `r4107742`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.674 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 26.7 – Palazzo Portinari-Salviati – Teil 7/26 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.743
-- **Bauteile:** `r4107742`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.739 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 26.8 – Palazzo Portinari-Salviati – Teil 8/26 (Y 69–70)
-
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.164
 - **Bauteile:** `r4107742`
 
@@ -347,52 +206,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.9 – Palazzo Portinari-Salviati – Teil 9/26 (Y 71–73)
+### Schritt 26.6 – Palazzo Portinari-Salviati – Teil 6/23 (Y 69–70)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.705
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.128
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.356 |
-| Polierter Andesit | `polished_andesite` | 182 |
-| Graues Buntglas | `gray_stained_glass` | 87 |
-| Tuffsteinziegel | `tuff_bricks` | 73 |
-| Glatter Stein | `smooth_stone` | 7 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 26.10 – Palazzo Portinari-Salviati – Teil 10/26 (Y 74–75)
-
-- **Y-Bereich:** 74 bis 75
-- **Blöcke:** 1.105
-- **Bauteile:** `r4107742`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 913 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Polierter Andesit | `polished_andesite` | 71 |
-| Tuffsteinziegel | `tuff_bricks` | 21 |
+| Tuffstein | `tuff` | 900 |
+| Polierter Andesit | `polished_andesite` | 147 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+| Tuffsteinziegel | `tuff_bricks` | 38 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
@@ -411,9 +238,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.11 – Palazzo Portinari-Salviati – Teil 11/26 (Y 76–78)
+### Schritt 26.7 – Palazzo Portinari-Salviati – Teil 7/23 (Y 71–73)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.682
+- **Bauteile:** `r4107742`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.369 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Polierter Andesit | `polished_andesite` | 106 |
+| Tuffsteinziegel | `tuff_bricks` | 56 |
+| Glatter Stein | `smooth_stone` | 7 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 26.8 – Palazzo Portinari-Salviati – Teil 8/23 (Y 74–76)
+
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.774
 - **Bauteile:** `r4107742`
 
@@ -443,9 +302,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.12 – Palazzo Portinari-Salviati – Teil 12/26 (Y 79–80)
+### Schritt 26.9 – Palazzo Portinari-Salviati – Teil 9/23 (Y 77–78)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.399
 - **Bauteile:** `r4107742`
 
@@ -474,9 +333,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.13 – Palazzo Portinari-Salviati – Teil 13/26 (Y 81–83)
+### Schritt 26.10 – Palazzo Portinari-Salviati – Teil 10/23 (Y 79–81)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.875
 - **Bauteile:** `r4107742`
 
@@ -506,9 +365,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.14 – Palazzo Portinari-Salviati – Teil 14/26 (Y 84–85)
+### Schritt 26.11 – Palazzo Portinari-Salviati – Teil 11/23 (Y 82–83)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.198
 - **Bauteile:** `r4107742`
 
@@ -538,9 +397,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.15 – Palazzo Portinari-Salviati – Teil 15/26 (Y 86–88)
+### Schritt 26.12 – Palazzo Portinari-Salviati – Teil 12/23 (Y 84–86)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 2.046
 - **Bauteile:** `r4107742`
 
@@ -569,9 +428,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.16 – Palazzo Portinari-Salviati – Teil 16/26 (Y 89–90)
+### Schritt 26.13 – Palazzo Portinari-Salviati – Teil 13/23 (Y 87–88)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.328
 - **Bauteile:** `r4107742`
 
@@ -599,50 +458,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.17 – Palazzo Portinari-Salviati – Teil 17/26 (Y 91–93)
+### Schritt 26.14 – Palazzo Portinari-Salviati – Teil 14/23 (Y 89–90)
 
-- **Y-Bereich:** 91 bis 93
-- **Blöcke:** 1.791
+- **Y-Bereich:** 89 bis 90
+- **Blöcke:** 1.194
 - **Bauteile:** `r4107742`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.305 |
-| Polierter Andesit | `polished_andesite` | 317 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-| Glatter Stein | `smooth_stone` | 7 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 26.18 – Palazzo Portinari-Salviati – Teil 18/26 (Y 94–95)
-
-- **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.248
-- **Bauteile:** `r4107742`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 926 |
-| Polierter Andesit | `polished_andesite` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
+| Tuffstein | `tuff` | 870 |
+| Polierter Andesit | `polished_andesite` | 212 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
 | Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
@@ -661,9 +489,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.19 – Palazzo Portinari-Salviati – Teil 19/26 (Y 96–97)
+### Schritt 26.15 – Palazzo Portinari-Salviati – Teil 15/23 (Y 91–93)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.845
+- **Bauteile:** `r4107742`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.361 |
+| Polierter Andesit | `polished_andesite` | 373 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Glatter Stein | `smooth_stone` | 7 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 26.16 – Palazzo Portinari-Salviati – Teil 16/23 (Y 94–95)
+
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.588
 - **Bauteile:** `r4107742`
 
@@ -691,9 +550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.20 – Palazzo Portinari-Salviati – Teil 20/26 (Y 98–99)
+### Schritt 26.17 – Palazzo Portinari-Salviati – Teil 17/23 (Y 96–97)
 
-- **Y-Bereich:** 98 bis 99
+- **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.996
 - **Bauteile:** `r4107742`
 
@@ -722,9 +581,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.21 – Palazzo Portinari-Salviati – Teil 21/26 (Y 99–99)
+### Schritt 26.18 – Palazzo Portinari-Salviati – Teil 18/23 (Y 97–97)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.087
 - **Bauteile:** `r4107742`
 
@@ -750,9 +609,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.22 – Palazzo Portinari-Salviati – Teil 22/26 (Y 100–100)
+### Schritt 26.19 – Palazzo Portinari-Salviati – Teil 19/23 (Y 98–98)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.491
 - **Bauteile:** `r4107742`
 
@@ -778,9 +637,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.23 – Palazzo Portinari-Salviati – Teil 23/26 (Y 101–101)
+### Schritt 26.20 – Palazzo Portinari-Salviati – Teil 20/23 (Y 99–99)
 
-- **Y-Bereich:** 101 bis 101
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.897
 - **Bauteile:** `r4107742`
 
@@ -806,9 +665,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.24 – Palazzo Portinari-Salviati – Teil 24/26 (Y 102–102)
+### Schritt 26.21 – Palazzo Portinari-Salviati – Teil 21/23 (Y 100–100)
 
-- **Y-Bereich:** 102 bis 102
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.431
 - **Bauteile:** `r4107742`
 
@@ -835,9 +694,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.25 – Palazzo Portinari-Salviati – Teil 25/26 (Y 103–103)
+### Schritt 26.22 – Palazzo Portinari-Salviati – Teil 22/23 (Y 101–101)
 
-- **Y-Bereich:** 103 bis 103
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.429
 - **Bauteile:** `r4107742`
 
@@ -864,9 +723,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.26 – Palazzo Portinari-Salviati – Teil 26/26 (Y 104–108)
+### Schritt 26.23 – Palazzo Portinari-Salviati – Teil 23/23 (Y 102–106)
 
-- **Y-Bereich:** 104 bis 108
+- **Y-Bereich:** 102 bis 106
 - **Blöcke:** 1.621
 - **Bauteile:** `r4107742`
 
@@ -893,9 +752,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.27 – Palazzo Portinari-Salviati: Innenausbau – Teil 1/8 (Y 68–79)
+### Schritt 26.24 – Palazzo Portinari-Salviati: Innenausbau – Teil 1/8 (Y 66–77)
 
-- **Y-Bereich:** 68 bis 79
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.657
 - **Bauteile:** `r4107742_innen`
 
@@ -935,9 +794,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.28 – Palazzo Portinari-Salviati: Innenausbau – Teil 2/8 (Y 79–79)
+### Schritt 26.25 – Palazzo Portinari-Salviati: Innenausbau – Teil 2/8 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.610
 - **Bauteile:** `r4107742_innen`
 
@@ -971,9 +830,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.29 – Palazzo Portinari-Salviati: Innenausbau – Teil 3/8 (Y 79–79)
+### Schritt 26.26 – Palazzo Portinari-Salviati: Innenausbau – Teil 3/8 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.557
 - **Bauteile:** `r4107742_innen`
 
@@ -1000,9 +859,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.30 – Palazzo Portinari-Salviati: Innenausbau – Teil 4/8 (Y 79–79)
+### Schritt 26.27 – Palazzo Portinari-Salviati: Innenausbau – Teil 4/8 (Y 77–77)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.601
 - **Bauteile:** `r4107742_innen`
 
@@ -1029,9 +888,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.31 – Palazzo Portinari-Salviati: Innenausbau – Teil 5/8 (Y 80–88)
+### Schritt 26.28 – Palazzo Portinari-Salviati: Innenausbau – Teil 5/8 (Y 78–86)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.623
 - **Bauteile:** `r4107742_innen`
 
@@ -1073,9 +932,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.32 – Palazzo Portinari-Salviati: Innenausbau – Teil 6/8 (Y 88–88)
+### Schritt 26.29 – Palazzo Portinari-Salviati: Innenausbau – Teil 6/8 (Y 86–86)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.610
 - **Bauteile:** `r4107742_innen`
 
@@ -1109,9 +968,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.33 – Palazzo Portinari-Salviati: Innenausbau – Teil 7/8 (Y 88–88)
+### Schritt 26.30 – Palazzo Portinari-Salviati: Innenausbau – Teil 7/8 (Y 86–86)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.557
 - **Bauteile:** `r4107742_innen`
 
@@ -1138,9 +997,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.34 – Palazzo Portinari-Salviati: Innenausbau – Teil 8/8 (Y 88–89)
+### Schritt 26.31 – Palazzo Portinari-Salviati: Innenausbau – Teil 8/8 (Y 86–87)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.610
 - **Bauteile:** `r4107742_innen`
 
@@ -1178,45 +1037,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.35 – Renaissance-Palazzo an Via del Proconsolo – Teil 1/11 (Y 65–65)
+### Schritt 26.32 – Renaissance-Palazzo an Via del Proconsolo – Teil 1/10 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 507
-- **Bauteile:** `w491889265`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 492 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 26.36 – Renaissance-Palazzo an Via del Proconsolo – Teil 2/11 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.700
 - **Bauteile:** `w491889265`
 
@@ -1242,29 +1065,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.37 – Renaissance-Palazzo an Via del Proconsolo – Teil 3/11 (Y 66–67)
+### Schritt 26.33 – Renaissance-Palazzo an Via del Proconsolo – Teil 2/10 (Y 64–65)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 2.071
+- **Y-Bereich:** 64 bis 65
+- **Blöcke:** 2.090
 - **Bauteile:** `w491889265`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.691 |
+| Polierter Tuffstein | `polished_tuff` | 1.729 |
 | Tuffstein | `tuff` | 296 |
 | Tuffsteinziegel | `tuff_bricks` | 59 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 14 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 |
 | Glatter Stein | `smooth_stone` | 5 |
 | Polierter Andesit | `polished_andesite` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
 
 **Beschreibung**
 
@@ -1282,9 +1097,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.38 – Renaissance-Palazzo an Via del Proconsolo – Teil 4/11 (Y 68–73)
+### Schritt 26.34 – Renaissance-Palazzo an Via del Proconsolo – Teil 3/10 (Y 66–71)
 
-- **Y-Bereich:** 68 bis 73
+- **Y-Bereich:** 66 bis 71
 - **Blöcke:** 1.763
 - **Bauteile:** `w491889265`
 
@@ -1314,9 +1129,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.39 – Renaissance-Palazzo an Via del Proconsolo – Teil 5/11 (Y 74–78)
+### Schritt 26.35 – Renaissance-Palazzo an Via del Proconsolo – Teil 4/10 (Y 72–76)
 
-- **Y-Bereich:** 74 bis 78
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.734
 - **Bauteile:** `w491889265`
 
@@ -1346,9 +1161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.40 – Renaissance-Palazzo an Via del Proconsolo – Teil 6/11 (Y 79–84)
+### Schritt 26.36 – Renaissance-Palazzo an Via del Proconsolo – Teil 5/10 (Y 77–82)
 
-- **Y-Bereich:** 79 bis 84
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 2.003
 - **Bauteile:** `w491889265`
 
@@ -1378,9 +1193,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.41 – Renaissance-Palazzo an Via del Proconsolo – Teil 7/11 (Y 85–89)
+### Schritt 26.37 – Renaissance-Palazzo an Via del Proconsolo – Teil 6/10 (Y 83–87)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.912
 - **Bauteile:** `w491889265`
 
@@ -1410,9 +1225,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.42 – Renaissance-Palazzo an Via del Proconsolo – Teil 8/11 (Y 90–95)
+### Schritt 26.38 – Renaissance-Palazzo an Via del Proconsolo – Teil 7/10 (Y 88–93)
 
-- **Y-Bereich:** 90 bis 95
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 2.079
 - **Bauteile:** `w491889265`
 
@@ -1442,9 +1257,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.43 – Renaissance-Palazzo an Via del Proconsolo – Teil 9/11 (Y 96–97)
+### Schritt 26.39 – Renaissance-Palazzo an Via del Proconsolo – Teil 8/10 (Y 94–95)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.624
 - **Bauteile:** `w491889265`
 
@@ -1474,9 +1289,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.44 – Renaissance-Palazzo an Via del Proconsolo – Teil 10/11 (Y 98–100)
+### Schritt 26.40 – Renaissance-Palazzo an Via del Proconsolo – Teil 9/10 (Y 96–98)
 
-- **Y-Bereich:** 98 bis 100
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 2.071
 - **Bauteile:** `w491889265`
 
@@ -1503,9 +1318,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.45 – Renaissance-Palazzo an Via del Proconsolo – Teil 11/11 (Y 101–108)
+### Schritt 26.41 – Renaissance-Palazzo an Via del Proconsolo – Teil 10/10 (Y 99–106)
 
-- **Y-Bereich:** 101 bis 108
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 1.710
 - **Bauteile:** `w491889265`
 
@@ -1532,9 +1347,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.46 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 1/4 (Y 66–77)
+### Schritt 26.42 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 1/4 (Y 64–75)
 
-- **Y-Bereich:** 66 bis 77
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.597
 - **Bauteile:** `w491889265_innen`
 
@@ -1574,9 +1389,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.47 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 2/4 (Y 77–77)
+### Schritt 26.43 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 2/4 (Y 75–75)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.555
 - **Bauteile:** `w491889265_innen`
 
@@ -1603,9 +1418,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.48 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 3/4 (Y 78–86)
+### Schritt 26.44 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 3/4 (Y 76–84)
 
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.576
 - **Bauteile:** `w491889265_innen`
 
@@ -1647,9 +1462,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.49 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 4/4 (Y 86–87) & Straßenschilder
+### Schritt 26.45 – Renaissance-Palazzo an Via del Proconsolo: Innenausbau – Teil 4/4 (Y 84–85) & Straßenschilder
 
-- **Y-Bereich:** 75 bis 87
+- **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.568
 - **Bauteile:** `w491889265_innen`, `strassenschilder`
 

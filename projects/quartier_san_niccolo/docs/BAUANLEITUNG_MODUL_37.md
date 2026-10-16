@@ -8,25 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 4.997 |
+| Blöcke | 5.126 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 72 bis 111 |
 | X-Ausdehnung | 1132 bis 1151 (20 Blöcke) |
 | Z-Ausdehnung | 1947 bis 1972 (26 Blöcke) |
 | Kleinster Schritt | 547 Blöcke (Schritt 37.4) |
-| Mittlerer Schritt | 1.249 Blöcke |
-| Größter Schritt | 1.538 Blöcke (Schritt 37.1) |
+| Mittlerer Schritt | 1.282 Blöcke |
+| Größter Schritt | 1.557 Blöcke (Schritt 37.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 2.648 | 53,0 % |
-| Terrakotta | `terracotta` | 853 | 17,1 % |
-| Weißer Beton | `white_concrete` | 544 | 10,9 % |
-| Polierter Tuffstein | `polished_tuff` | 269 | 5,4 % |
-| Graues Buntglas | `gray_stained_glass` | 231 | 4,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.648 | 51,7 % |
+| Terrakotta | `terracotta` | 853 | 16,6 % |
+| Weißer Beton | `white_concrete` | 544 | 10,6 % |
+| Polierter Tuffstein | `polished_tuff` | 269 | 5,2 % |
+| Graues Buntglas | `gray_stained_glass` | 231 | 4,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 147 | 2,9 % |
+| Tuffstein | `tuff` | 129 | 2,5 % |
 | Grüner Beton | `green_concrete` | 77 | 1,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 | 1,4 % |
 | Glatter Stein | `smooth_stone` | 51 | 1,0 % |
@@ -50,27 +51,28 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119814737` | Reihenhaus an Via dei Bastioni | 4.450 | 37.1–37.3 |
+| 1 | `w119814737` | Reihenhaus an Via dei Bastioni | 4.579 | 37.1–37.3 |
 | 2 | `w119814737_innen` | Reihenhaus an Via dei Bastioni: Innenausbau | 547 | 37.4 |
 
 ## Bauschritte
 
-### Schritt 37.1 – Reihenhaus an Via dei Bastioni – Teil 1/3 (Y 63–74)
+### Schritt 37.1 – Reihenhaus an Via dei Bastioni – Teil 1/3 (Y 72–87)
 
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.538
+- **Y-Bereich:** 72 bis 87
+- **Blöcke:** 1.557
 - **Bauteile:** `w119814737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 973 |
+| Gelbe Keramik | `yellow_terracotta` | 905 |
 | Polierter Tuffstein | `polished_tuff` | 269 |
-| Weißer Beton | `white_concrete` | 114 |
-| Graues Buntglas | `gray_stained_glass` | 91 |
+| Tuffstein | `tuff` | 129 |
+| Weißer Beton | `white_concrete` | 99 |
+| Graues Buntglas | `gray_stained_glass` | 71 |
 | Glatter Stein | `smooth_stone` | 51 |
-| Grüner Beton | `green_concrete` | 28 |
+| Grüner Beton | `green_concrete` | 21 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
@@ -89,20 +91,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.2 – Reihenhaus an Via dei Bastioni – Teil 2/3 (Y 75–86)
+### Schritt 37.2 – Reihenhaus an Via dei Bastioni – Teil 2/3 (Y 88–100)
 
-- **Y-Bereich:** 75 bis 86
-- **Blöcke:** 1.439
+- **Y-Bereich:** 88 bis 100
+- **Blöcke:** 1.549
 - **Bauteile:** `w119814737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.024 |
-| Weißer Beton | `white_concrete` | 280 |
-| Graues Buntglas | `gray_stained_glass` | 100 |
-| Grüner Beton | `green_concrete` | 35 |
+| Gelbe Keramik | `yellow_terracotta` | 1.092 |
+| Weißer Beton | `white_concrete` | 295 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Grüner Beton | `green_concrete` | 42 |
 
 **Beschreibung**
 
@@ -120,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.3 – Reihenhaus an Via dei Bastioni – Teil 3/3 (Y 87–97)
+### Schritt 37.3 – Reihenhaus an Via dei Bastioni – Teil 3/3 (Y 101–111)
 
-- **Y-Bereich:** 87 bis 97
+- **Y-Bereich:** 101 bis 111
 - **Blöcke:** 1.473
 - **Bauteile:** `w119814737`
 
@@ -156,7 +158,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 37.4 – Reihenhaus an Via dei Bastioni: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 77 bis 101
 - **Blöcke:** 547
 - **Bauteile:** `w119814737_innen`
 

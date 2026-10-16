@@ -8,32 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.183 |
-| Bauschritte | 5 |
-| Y-Bereich | 60 bis 95 |
+| Blöcke | 7.114 |
+| Bauschritte | 4 |
+| Y-Bereich | 60 bis 94 |
 | X-Ausdehnung | -2472 bis -2451 (22 Blöcke) |
 | Z-Ausdehnung | 2002 bis 2036 (35 Blöcke) |
-| Kleinster Schritt | 935 Blöcke (Schritt 44.5) |
-| Mittlerer Schritt | 1.437 Blöcke |
-| Größter Schritt | 1.608 Blöcke (Schritt 44.3) |
+| Kleinster Schritt | 935 Blöcke (Schritt 44.4) |
+| Mittlerer Schritt | 1.779 Blöcke |
+| Größter Schritt | 2.070 Blöcke (Schritt 44.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 3.535 | 49,2 % |
-| Terrakotta | `terracotta` | 1.482 | 20,6 % |
-| Glatter Stein | `smooth_stone` | 882 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 431 | 6,0 % |
-| Graues Buntglas | `gray_stained_glass` | 396 | 5,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 189 | 2,6 % |
-| Tuffstein | `tuff` | 69 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,9 % |
+| Orange Keramik | `orange_terracotta` | 3.535 | 49,7 % |
+| Terrakotta | `terracotta` | 1.482 | 20,8 % |
+| Glatter Stein | `smooth_stone` | 882 | 12,4 % |
+| Polierter Tuffstein | `polished_tuff` | 441 | 6,2 % |
+| Graues Buntglas | `gray_stained_glass` | 396 | 5,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 189 | 2,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 1,0 % |
 | Ziegelsteine | `bricks` | 37 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,3 % |
 | Seelaterne | `sea_lantern` | 12 | 0,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
@@ -44,39 +42,30 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 54 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118965496` | Reihenhaus an Via Gusciana | 6.248 | 44.1–44.4 |
-| 2 | `w118965496_innen` | Reihenhaus an Via Gusciana: Innenausbau | 935 | 44.5 |
+| 1 | `w118965496` | Reihenhaus an Via Gusciana | 6.179 | 44.1–44.3 |
+| 2 | `w118965496_innen` | Reihenhaus an Via Gusciana: Innenausbau | 935 | 44.4 |
 
 ## Bauschritte
 
-### Schritt 44.1 – Reihenhaus an Via Gusciana – Teil 1/4 (Y 60–68)
+### Schritt 44.1 – Reihenhaus an Via Gusciana – Teil 1/3 (Y 60–70)
 
-- **Y-Bereich:** 60 bis 68
-- **Blöcke:** 1.607
+- **Y-Bereich:** 60 bis 70
+- **Blöcke:** 2.070
 - **Bauteile:** `w118965496`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 821 |
-| Polierter Tuffstein | `polished_tuff` | 431 |
-| Glatter Stein | `smooth_stone` | 204 |
+| Orange Keramik | `orange_terracotta` | 1.284 |
+| Polierter Tuffstein | `polished_tuff` | 441 |
+| Glatter Stein | `smooth_stone` | 273 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
-| Tuffstein | `tuff` | 69 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 10 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 **Beschreibung**
 
@@ -94,19 +83,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.2 – Reihenhaus an Via Gusciana – Teil 2/4 (Y 69–77)
+### Schritt 44.2 – Reihenhaus an Via Gusciana – Teil 2/3 (Y 71–83)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 1.468
+- **Y-Bereich:** 71 bis 83
+- **Blöcke:** 2.060
 - **Bauteile:** `w118965496`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.134 |
-| Glatter Stein | `smooth_stone` | 226 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
+| Orange Keramik | `orange_terracotta` | 1.461 |
+| Glatter Stein | `smooth_stone` | 383 |
+| Graues Buntglas | `gray_stained_glass` | 216 |
 
 **Beschreibung**
 
@@ -124,51 +113,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Reihenhaus an Via Gusciana – Teil 3/4 (Y 78–87)
+### Schritt 44.3 – Reihenhaus an Via Gusciana – Teil 3/3 (Y 84–94)
 
-- **Y-Bereich:** 78 bis 87
-- **Blöcke:** 1.608
+- **Y-Bereich:** 84 bis 94
+- **Blöcke:** 2.049
 - **Bauteile:** `w118965496`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.099 |
-| Glatter Stein | `smooth_stone` | 347 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.4 – Reihenhaus an Via Gusciana – Teil 4/4 (Y 88–95)
-
-- **Y-Bereich:** 88 bis 95
-- **Blöcke:** 1.565
-- **Bauteile:** `w118965496`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 790 |
 | Terrakotta | `terracotta` | 699 |
-| Orange Keramik | `orange_terracotta` | 481 |
+| Glatter Stein | `smooth_stone` | 226 |
 | Fichtenholz-Bretter | `spruce_planks` | 189 |
-| Glatter Stein | `smooth_stone` | 105 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
 | Ziegelsteine | `bricks` | 37 |
 
 **Beschreibung**
@@ -187,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.5 – Reihenhaus an Via Gusciana: Innenausbau
+### Schritt 44.4 – Reihenhaus an Via Gusciana: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 935
 - **Bauteile:** `w118965496_innen`
 

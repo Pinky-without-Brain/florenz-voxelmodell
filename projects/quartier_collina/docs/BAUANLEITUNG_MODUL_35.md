@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 48.034 |
-| Bauschritte | 31 |
-| Y-Bereich | 98 bis 151 |
+| Blöcke | 39.319 |
+| Bauschritte | 24 |
+| Y-Bereich | 98 bis 147 |
 | X-Ausdehnung | 933 bis 1023 (91 Blöcke) |
 | Z-Ausdehnung | 2325 bis 2403 (79 Blöcke) |
-| Kleinster Schritt | 1.067 Blöcke (Schritt 35.10) |
-| Mittlerer Schritt | 1.549 Blöcke |
-| Größter Schritt | 2.039 Blöcke (Schritt 35.8) |
+| Kleinster Schritt | 1.187 Blöcke (Schritt 35.8) |
+| Mittlerer Schritt | 1.638 Blöcke |
+| Größter Schritt | 2.003 Blöcke (Schritt 35.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 25.470 | 53,0 % |
-| Polierter Andesit | `polished_andesite` | 8.286 | 17,3 % |
-| Terrakotta | `terracotta` | 6.758 | 14,1 % |
-| Glatter Stein | `smooth_stone` | 2.978 | 6,2 % |
-| Polierter Tuffstein | `polished_tuff` | 2.332 | 4,9 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.162 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 799 | 1,7 % |
-| Ziegelsteine | `bricks` | 139 | 0,3 % |
+| Tuffstein | `tuff` | 16.759 | 42,6 % |
+| Polierter Andesit | `polished_andesite` | 8.282 | 21,1 % |
+| Terrakotta | `terracotta` | 6.758 | 17,2 % |
+| Glatter Stein | `smooth_stone` | 2.978 | 7,6 % |
+| Polierter Tuffstein | `polished_tuff` | 2.340 | 6,0 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.162 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 799 | 2,0 % |
+| Ziegelsteine | `bricks` | 139 | 0,4 % |
 | Seelaterne | `sea_lantern` | 36 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 4 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 4 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 | 0,0 % |
@@ -44,19 +44,19 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762537` | Renaissance-Palazzo an Via del Monte alle Croci | 44.404 | 35.1–35.29 |
-| 2 | `w119762537_innen` | Renaissance-Palazzo an Via del Monte alle Croci: Innenausbau | 3.630 | 35.30–35.31 |
+| 1 | `w119762537` | Renaissance-Palazzo an Via del Monte alle Croci | 35.689 | 35.1–35.22 |
+| 2 | `w119762537_innen` | Renaissance-Palazzo an Via del Monte alle Croci: Innenausbau | 3.630 | 35.23–35.24 |
 
 ## Bauschritte
 
-### Schritt 35.1 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 1/29 (Y 98–101)
+### Schritt 35.1 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 1/22 (Y 98–101)
 
 - **Y-Bereich:** 98 bis 101
 - **Blöcke:** 1.354
@@ -84,7 +84,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.2 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 2/29 (Y 102–103)
+### Schritt 35.2 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 2/22 (Y 102–103)
 
 - **Y-Bereich:** 102 bis 103
 - **Blöcke:** 1.272
@@ -112,7 +112,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.3 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 3/29 (Y 104–105)
+### Schritt 35.3 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 3/22 (Y 104–105)
 
 - **Y-Bereich:** 104 bis 105
 - **Blöcke:** 1.839
@@ -147,7 +147,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.4 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 4/29 (Y 106–106)
+### Schritt 35.4 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 4/22 (Y 106–106)
 
 - **Y-Bereich:** 106 bis 106
 - **Blöcke:** 1.218
@@ -182,7 +182,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.5 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 5/29 (Y 107–107)
+### Schritt 35.5 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 5/22 (Y 107–107)
 
 - **Y-Bereich:** 107 bis 107
 - **Blöcke:** 1.483
@@ -217,7 +217,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.6 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 6/29 (Y 108–108)
+### Schritt 35.6 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 6/22 (Y 108–108)
 
 - **Y-Bereich:** 108 bis 108
 - **Blöcke:** 1.712
@@ -252,7 +252,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.7 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 7/29 (Y 109–109)
+### Schritt 35.7 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 7/22 (Y 109–109)
 
 - **Y-Bereich:** 109 bis 109
 - **Blöcke:** 1.893
@@ -287,17 +287,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.8 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 8/29 (Y 110–110)
+### Schritt 35.8 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 8/22 (Y 110–110)
 
 - **Y-Bereich:** 110 bis 110
-- **Blöcke:** 2.039
+- **Blöcke:** 1.187
 - **Bauteile:** `w119762537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.037 |
+| Polierter Tuffstein | `polished_tuff` | 1.185 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -322,245 +322,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.9 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 9/29 (Y 111–111)
+### Schritt 35.9 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 9/22 (Y 110–111)
 
-- **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.084
+- **Y-Bereich:** 110 bis 111
+- **Blöcke:** 1.748
 - **Bauteile:** `w119762537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.084 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.10 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 10/29 (Y 111–111)
-
-- **Y-Bereich:** 111 bis 111
-- **Blöcke:** 1.067
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.065 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.11 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 11/29 (Y 112–112)
-
-- **Y-Bereich:** 112 bis 112
-- **Blöcke:** 1.118
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.118 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.12 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 12/29 (Y 112–112)
-
-- **Y-Bereich:** 112 bis 112
-- **Blöcke:** 1.116
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.114 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.13 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 13/29 (Y 113–113)
-
-- **Y-Bereich:** 113 bis 113
-- **Blöcke:** 1.152
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.152 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.14 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 14/29 (Y 113–113)
-
-- **Y-Bereich:** 113 bis 113
-- **Blöcke:** 1.143
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.141 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.15 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 15/29 (Y 114–114)
-
-- **Y-Bereich:** 114 bis 114
-- **Blöcke:** 1.180
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.180 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.16 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 16/29 (Y 114–115)
-
-- **Y-Bereich:** 114 bis 115
-- **Blöcke:** 1.747
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.152 |
+| Polierter Tuffstein | `polished_tuff` | 1.155 |
 | Tuffstein | `tuff` | 212 |
 | Polierter Andesit | `polished_andesite` | 185 |
 | Tuffsteinziegel | `tuff_bricks` | 163 |
 | Glatter Stein | `smooth_stone` | 33 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -578,17 +354,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.17 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 17/29 (Y 116–118)
+### Schritt 35.10 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 10/22 (Y 112–114)
 
-- **Y-Bereich:** 116 bis 118
-- **Blöcke:** 1.792
+- **Y-Bereich:** 112 bis 114
+- **Blöcke:** 1.788
 - **Bauteile:** `w119762537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 664 |
+| Polierter Andesit | `polished_andesite` | 660 |
 | Tuffstein | `tuff` | 608 |
 | Tuffsteinziegel | `tuff_bricks` | 408 |
 | Glatter Stein | `smooth_stone` | 59 |
@@ -610,9 +386,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.18 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 18/29 (Y 119–121)
+### Schritt 35.11 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 11/22 (Y 115–117)
 
-- **Y-Bereich:** 119 bis 121
+- **Y-Bereich:** 115 bis 117
 - **Blöcke:** 1.713
 - **Bauteile:** `w119762537`
 
@@ -642,9 +418,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.19 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 19/29 (Y 122–124)
+### Schritt 35.12 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 12/22 (Y 118–120)
 
-- **Y-Bereich:** 122 bis 124
+- **Y-Bereich:** 118 bis 120
 - **Blöcke:** 1.771
 - **Bauteile:** `w119762537`
 
@@ -674,9 +450,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.20 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 20/29 (Y 125–127)
+### Schritt 35.13 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 13/22 (Y 121–123)
 
-- **Y-Bereich:** 125 bis 127
+- **Y-Bereich:** 121 bis 123
 - **Blöcke:** 2.003
 - **Bauteile:** `w119762537`
 
@@ -704,9 +480,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.21 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 21/29 (Y 128–130)
+### Schritt 35.14 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 14/22 (Y 124–126)
 
-- **Y-Bereich:** 128 bis 130
+- **Y-Bereich:** 124 bis 126
 - **Blöcke:** 1.710
 - **Bauteile:** `w119762537`
 
@@ -735,9 +511,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.22 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 22/29 (Y 131–133)
+### Schritt 35.15 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 15/22 (Y 127–129)
 
-- **Y-Bereich:** 131 bis 133
+- **Y-Bereich:** 127 bis 129
 - **Blöcke:** 1.742
 - **Bauteile:** `w119762537`
 
@@ -766,19 +542,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.23 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 23/29 (Y 134–136)
+### Schritt 35.16 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 16/22 (Y 130–131)
 
-- **Y-Bereich:** 134 bis 136
-- **Blöcke:** 2.003
+- **Y-Bereich:** 130 bis 131
+- **Blöcke:** 1.360
 - **Bauteile:** `w119762537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 767 |
-| Tuffstein | `tuff` | 645 |
-| Glatter Stein | `smooth_stone` | 591 |
+| Glatter Stein | `smooth_stone` | 578 |
+| Tuffstein | `tuff` | 430 |
+| Polierter Andesit | `polished_andesite` | 352 |
 
 **Beschreibung**
 
@@ -796,19 +572,50 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.24 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 24/29 (Y 137–139)
+### Schritt 35.17 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 17/22 (Y 132–134)
 
-- **Y-Bereich:** 137 bis 139
-- **Blöcke:** 1.710
+- **Y-Bereich:** 132 bis 134
+- **Blöcke:** 1.783
 - **Bauteile:** `w119762537`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 914 |
-| Tuffstein | `tuff` | 555 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
+| Polierter Andesit | `polished_andesite` | 1.031 |
+| Tuffstein | `tuff` | 585 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Glatter Stein | `smooth_stone` | 59 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 35.18 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 18/22 (Y 135–137)
+
+- **Y-Bereich:** 135 bis 137
+- **Blöcke:** 1.712
+- **Bauteile:** `w119762537`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 917 |
+| Tuffstein | `tuff` | 557 |
+| Graues Buntglas | `gray_stained_glass` | 159 |
 | Glatter Stein | `smooth_stone` | 79 |
 
 **Beschreibung**
@@ -827,40 +634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.25 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 25/29 (Y 140–141)
+### Schritt 35.19 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 19/22 (Y 138–139)
 
-- **Y-Bereich:** 140 bis 141
-- **Blöcke:** 1.142
-- **Bauteile:** `w119762537`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 619 |
-| Tuffstein | `tuff` | 372 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Glatter Stein | `smooth_stone` | 46 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 35.26 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 26/29 (Y 142–143)
-
-- **Y-Bereich:** 142 bis 143
+- **Y-Bereich:** 138 bis 139
 - **Blöcke:** 1.760
 - **Bauteile:** `w119762537`
 
@@ -888,9 +664,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.27 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 27/29 (Y 144–144)
+### Schritt 35.20 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 20/22 (Y 140–140)
 
-- **Y-Bereich:** 144 bis 144
+- **Y-Bereich:** 140 bis 140
 - **Blöcke:** 1.232
 - **Bauteile:** `w119762537`
 
@@ -918,9 +694,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.28 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 28/29 (Y 145–145)
+### Schritt 35.21 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 21/22 (Y 141–141)
 
-- **Y-Bereich:** 145 bis 145
+- **Y-Bereich:** 141 bis 141
 - **Blöcke:** 1.533
 - **Bauteile:** `w119762537`
 
@@ -946,9 +722,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.29 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 29/29 (Y 146–151)
+### Schritt 35.22 – Renaissance-Palazzo an Via del Monte alle Croci – Teil 22/22 (Y 142–147)
 
-- **Y-Bereich:** 146 bis 151
+- **Y-Bereich:** 142 bis 147
 - **Blöcke:** 1.876
 - **Bauteile:** `w119762537`
 
@@ -975,9 +751,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.30 – Renaissance-Palazzo an Via del Monte alle Croci: Innenausbau – Teil 1/2 (Y 114–125)
+### Schritt 35.23 – Renaissance-Palazzo an Via del Monte alle Croci: Innenausbau – Teil 1/2 (Y 110–121)
 
-- **Y-Bereich:** 114 bis 125
+- **Y-Bereich:** 110 bis 121
 - **Blöcke:** 1.821
 - **Bauteile:** `w119762537_innen`
 
@@ -1017,9 +793,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 35.31 – Renaissance-Palazzo an Via del Monte alle Croci: Innenausbau – Teil 2/2 (Y 126–135)
+### Schritt 35.24 – Renaissance-Palazzo an Via del Monte alle Croci: Innenausbau – Teil 2/2 (Y 122–131)
 
-- **Y-Bereich:** 126 bis 135
+- **Y-Bereich:** 122 bis 131
 - **Blöcke:** 1.809
 - **Bauteile:** `w119762537_innen`
 

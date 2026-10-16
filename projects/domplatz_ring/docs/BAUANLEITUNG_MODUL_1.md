@@ -8,34 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.461 |
-| Bauschritte | 31 |
-| Y-Bereich | 66 bis 115 |
+| Blöcke | 49.536 |
+| Bauschritte | 29 |
+| Y-Bereich | 65 bis 113 |
 | X-Ausdehnung | -385 bis -346 (40 Blöcke) |
 | Z-Ausdehnung | 218 bis 354 (137 Blöcke) |
-| Kleinster Schritt | 1.232 Blöcke (Schritt 1.17) |
-| Mittlerer Schritt | 1.692 Blöcke |
-| Größter Schritt | 2.076 Blöcke (Schritt 1.20) |
+| Kleinster Schritt | 1.346 Blöcke (Schritt 1.13) |
+| Mittlerer Schritt | 1.708 Blöcke |
+| Größter Schritt | 2.076 Blöcke (Schritt 1.18) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 20.324 | 38,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 16.068 | 30,6 % |
-| Polierter Tuffstein | `polished_tuff` | 5.057 | 9,6 % |
-| Weißer Beton | `white_concrete` | 3.648 | 7,0 % |
-| Tuffstein | `tuff` | 2.925 | 5,6 % |
-| Graues Buntglas | `gray_stained_glass` | 1.705 | 3,3 % |
-| Grüner Beton | `green_concrete` | 1.060 | 2,0 % |
-| Glatter Stein | `smooth_stone` | 924 | 1,8 % |
+| Terrakotta | `terracotta` | 20.324 | 41,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 16.068 | 32,4 % |
+| Polierter Tuffstein | `polished_tuff` | 5.069 | 10,2 % |
+| Weißer Beton | `white_concrete` | 3.648 | 7,4 % |
+| Graues Buntglas | `gray_stained_glass` | 1.705 | 3,4 % |
+| Grüner Beton | `green_concrete` | 1.060 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 924 | 1,9 % |
 | Polierter Andesit | `polished_andesite` | 289 | 0,6 % |
 | Ziegelsteine | `bricks` | 250 | 0,5 % |
 | Seelaterne | `sea_lantern` | 96 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,1 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
@@ -49,85 +47,21 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 56 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112725476` | Palazzo des Cinquecento an Via dei Medici | 39.038 | 1.1–1.22 |
-| 2 | `w112725476_innen` | Palazzo des Cinquecento an Via dei Medici: Innenausbau | 13.420 | 1.23–1.31 |
-| 3 | `strassenschilder` | Straßenschilder | 3 | 1.31 |
+| 1 | `w112725476` | Palazzo des Cinquecento an Via dei Medici | 36.113 | 1.1–1.20 |
+| 2 | `w112725476_innen` | Palazzo des Cinquecento an Via dei Medici: Innenausbau | 13.420 | 1.21–1.29 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 1.29 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo des Cinquecento an Via dei Medici – Teil 1/22 (Y 66–66)
+### Schritt 1.1 – Palazzo des Cinquecento an Via dei Medici – Teil 1/20 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.486
-- **Bauteile:** `w112725476`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.486 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.2 – Palazzo des Cinquecento an Via dei Medici – Teil 2/22 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.445
-- **Bauteile:** `w112725476`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.439 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.3 – Palazzo des Cinquecento an Via dei Medici – Teil 3/22 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.733
 - **Bauteile:** `w112725476`
 
@@ -153,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo des Cinquecento an Via dei Medici – Teil 4/22 (Y 67–67)
+### Schritt 1.2 – Palazzo des Cinquecento an Via dei Medici – Teil 2/20 (Y 65–65)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.600
 - **Bauteile:** `w112725476`
 
@@ -181,24 +115,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Palazzo des Cinquecento an Via dei Medici – Teil 5/22 (Y 67–67)
+### Schritt 1.3 – Palazzo des Cinquecento an Via dei Medici – Teil 3/20 (Y 65–65)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.730
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.736
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.724 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.736 |
 
 **Beschreibung**
 
@@ -216,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo des Cinquecento an Via dei Medici – Teil 6/22 (Y 68–70)
+### Schritt 1.4 – Palazzo des Cinquecento an Via dei Medici – Teil 4/20 (Y 66–68)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.983
 - **Bauteile:** `w112725476`
 
@@ -248,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo des Cinquecento an Via dei Medici – Teil 7/22 (Y 71–73)
+### Schritt 1.5 – Palazzo des Cinquecento an Via dei Medici – Teil 5/20 (Y 69–71)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.654
 - **Bauteile:** `w112725476`
 
@@ -282,9 +209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo des Cinquecento an Via dei Medici – Teil 8/22 (Y 74–76)
+### Schritt 1.6 – Palazzo des Cinquecento an Via dei Medici – Teil 6/20 (Y 72–74)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.995
 - **Bauteile:** `w112725476`
 
@@ -315,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Palazzo des Cinquecento an Via dei Medici – Teil 9/22 (Y 77–79)
+### Schritt 1.7 – Palazzo des Cinquecento an Via dei Medici – Teil 7/20 (Y 75–77)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 2.019
 - **Bauteile:** `w112725476`
 
@@ -347,9 +274,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Palazzo des Cinquecento an Via dei Medici – Teil 10/22 (Y 80–82)
+### Schritt 1.8 – Palazzo des Cinquecento an Via dei Medici – Teil 8/20 (Y 78–80)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.677
 - **Bauteile:** `w112725476`
 
@@ -379,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo des Cinquecento an Via dei Medici – Teil 11/22 (Y 83–85)
+### Schritt 1.9 – Palazzo des Cinquecento an Via dei Medici – Teil 9/20 (Y 81–83)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.905
 - **Bauteile:** `w112725476`
 
@@ -411,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Palazzo des Cinquecento an Via dei Medici – Teil 12/22 (Y 86–88)
+### Schritt 1.10 – Palazzo des Cinquecento an Via dei Medici – Teil 10/20 (Y 84–86)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 2.019
 - **Bauteile:** `w112725476`
 
@@ -442,9 +369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo des Cinquecento an Via dei Medici – Teil 13/22 (Y 89–91)
+### Schritt 1.11 – Palazzo des Cinquecento an Via dei Medici – Teil 11/20 (Y 87–89)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.677
 - **Bauteile:** `w112725476`
 
@@ -474,9 +401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo des Cinquecento an Via dei Medici – Teil 14/22 (Y 92–94)
+### Schritt 1.12 – Palazzo des Cinquecento an Via dei Medici – Teil 12/20 (Y 90–92)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.905
 - **Bauteile:** `w112725476`
 
@@ -506,20 +433,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Palazzo des Cinquecento an Via dei Medici – Teil 15/22 (Y 95–97)
+### Schritt 1.13 – Palazzo des Cinquecento an Via dei Medici – Teil 13/20 (Y 93–94)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 2.019
+- **Y-Bereich:** 93 bis 94
+- **Blöcke:** 1.346
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.472 |
+| Gelbe Keramik | `yellow_terracotta` | 993 |
 | Glatter Stein | `smooth_stone` | 341 |
-| Weißer Beton | `white_concrete` | 190 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
@@ -537,20 +463,52 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Palazzo des Cinquecento an Via dei Medici – Teil 16/22 (Y 98–100)
+### Schritt 1.14 – Palazzo des Cinquecento an Via dei Medici – Teil 14/20 (Y 95–97)
 
-- **Y-Bereich:** 98 bis 100
-- **Blöcke:** 1.677
+- **Y-Bereich:** 95 bis 97
+- **Blöcke:** 1.791
 - **Bauteile:** `w112725476`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 851 |
-| Graues Buntglas | `gray_stained_glass` | 342 |
-| Grüner Beton | `green_concrete` | 228 |
-| Weißer Beton | `white_concrete` | 228 |
+| Gelbe Keramik | `yellow_terracotta` | 1.049 |
+| Weißer Beton | `white_concrete` | 342 |
+| Graues Buntglas | `gray_stained_glass` | 228 |
+| Grüner Beton | `green_concrete` | 152 |
+| Polierter Andesit | `polished_andesite` | 20 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.15 – Palazzo des Cinquecento an Via dei Medici – Teil 15/20 (Y 98–100)
+
+- **Y-Bereich:** 98 bis 100
+- **Blöcke:** 1.791
+- **Bauteile:** `w112725476`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.041 |
+| Weißer Beton | `white_concrete` | 342 |
+| Graues Buntglas | `gray_stained_glass` | 228 |
+| Grüner Beton | `green_concrete` | 152 |
 | Polierter Andesit | `polished_andesite` | 28 |
 
 **Beschreibung**
@@ -569,41 +527,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Palazzo des Cinquecento an Via dei Medici – Teil 17/22 (Y 101–102)
+### Schritt 1.16 – Palazzo des Cinquecento an Via dei Medici – Teil 16/20 (Y 101–102)
 
 - **Y-Bereich:** 101 bis 102
-- **Blöcke:** 1.232
-- **Bauteile:** `w112725476`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 760 |
-| Weißer Beton | `white_concrete` | 266 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Grüner Beton | `green_concrete` | 76 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.18 – Palazzo des Cinquecento an Via dei Medici – Teil 18/22 (Y 103–104)
-
-- **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.872
 - **Bauteile:** `w112725476`
 
@@ -631,9 +557,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Palazzo des Cinquecento an Via dei Medici – Teil 19/22 (Y 105–105)
+### Schritt 1.17 – Palazzo des Cinquecento an Via dei Medici – Teil 17/20 (Y 103–103)
 
-- **Y-Bereich:** 105 bis 105
+- **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.576
 - **Bauteile:** `w112725476`
 
@@ -659,9 +585,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Palazzo des Cinquecento an Via dei Medici – Teil 20/22 (Y 106–107)
+### Schritt 1.18 – Palazzo des Cinquecento an Via dei Medici – Teil 18/20 (Y 104–105)
 
-- **Y-Bereich:** 106 bis 107
+- **Y-Bereich:** 104 bis 105
 - **Blöcke:** 2.076
 - **Bauteile:** `w112725476`
 
@@ -687,9 +613,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Palazzo des Cinquecento an Via dei Medici – Teil 21/22 (Y 108–109)
+### Schritt 1.19 – Palazzo des Cinquecento an Via dei Medici – Teil 19/20 (Y 106–107)
 
-- **Y-Bereich:** 108 bis 109
+- **Y-Bereich:** 106 bis 107
 - **Blöcke:** 1.816
 - **Bauteile:** `w112725476`
 
@@ -716,9 +642,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Palazzo des Cinquecento an Via dei Medici – Teil 22/22 (Y 110–115)
+### Schritt 1.20 – Palazzo des Cinquecento an Via dei Medici – Teil 20/20 (Y 108–113)
 
-- **Y-Bereich:** 110 bis 115
+- **Y-Bereich:** 108 bis 113
 - **Blöcke:** 1.942
 - **Bauteile:** `w112725476`
 
@@ -745,9 +671,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 1/9 (Y 67–77)
+### Schritt 1.21 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 1/9 (Y 65–75)
 
-- **Y-Bereich:** 67 bis 77
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.495
 - **Bauteile:** `w112725476_innen`
 
@@ -787,9 +713,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.24 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 2/9 (Y 77–77)
+### Schritt 1.22 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 2/9 (Y 75–75)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.560
 - **Bauteile:** `w112725476_innen`
 
@@ -816,9 +742,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.25 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 3/9 (Y 77–77)
+### Schritt 1.23 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 3/9 (Y 75–75)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.430
 - **Bauteile:** `w112725476_innen`
 
@@ -845,9 +771,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.26 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 4/9 (Y 78–86)
+### Schritt 1.24 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 4/9 (Y 76–84)
 
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.473
 - **Bauteile:** `w112725476_innen`
 
@@ -889,9 +815,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.27 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 5/9 (Y 86–86)
+### Schritt 1.25 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 5/9 (Y 84–84)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.560
 - **Bauteile:** `w112725476_innen`
 
@@ -918,9 +844,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.28 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 6/9 (Y 86–86)
+### Schritt 1.26 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 6/9 (Y 84–84)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.430
 - **Bauteile:** `w112725476_innen`
 
@@ -947,9 +873,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.29 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 7/9 (Y 87–95)
+### Schritt 1.27 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 7/9 (Y 85–93)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.473
 - **Bauteile:** `w112725476_innen`
 
@@ -991,9 +917,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.30 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 8/9 (Y 95–95)
+### Schritt 1.28 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 8/9 (Y 93–93)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.560
 - **Bauteile:** `w112725476_innen`
 
@@ -1020,9 +946,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.31 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 9/9 (Y 95–96) & Straßenschilder
+### Schritt 1.29 – Palazzo des Cinquecento an Via dei Medici: Innenausbau – Teil 9/9 (Y 93–94) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 96
+- **Y-Bereich:** 72 bis 94
 - **Blöcke:** 1.442
 - **Bauteile:** `w112725476_innen`, `strassenschilder`
 

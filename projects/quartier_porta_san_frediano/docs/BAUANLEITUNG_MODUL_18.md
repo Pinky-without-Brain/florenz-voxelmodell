@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 44.836 |
+| Blöcke | 44.806 |
 | Bauschritte | 29 |
 | Y-Bereich | 58 bis 95 |
 | X-Ausdehnung | -3031 bis -2871 (161 Blöcke) |
 | Z-Ausdehnung | 980 bis 1078 (99 Blöcke) |
 | Kleinster Schritt | 599 Blöcke (Schritt 18.3) |
-| Mittlerer Schritt | 1.546 Blöcke |
+| Mittlerer Schritt | 1.545 Blöcke |
 | Größter Schritt | 1.986 Blöcke (Schritt 18.21) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 11.327 | 25,3 % |
-| Endsteinziegel | `end_stone_bricks` | 9.072 | 20,2 % |
+| Terrakotta | `terracotta` | 11.325 | 25,3 % |
+| Endsteinziegel | `end_stone_bricks` | 9.047 | 20,2 % |
 | Weißer Beton | `white_concrete` | 5.413 | 12,1 % |
 | Polierter Tuffstein | `polished_tuff` | 3.741 | 8,3 % |
 | Orange Keramik | `orange_terracotta` | 3.661 | 8,2 % |
@@ -33,11 +33,11 @@
 | Grüner Beton | `green_concrete` | 938 | 2,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 798 | 1,8 % |
 | Polierter Andesit | `polished_andesite` | 418 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 259 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 258 | 0,6 % |
 | Ziegelsteine | `bricks` | 223 | 0,5 % |
 | Seelaterne | `sea_lantern` | 76 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 73 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 67 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 72 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 66 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 58 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,1 % |
@@ -53,7 +53,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 190 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 188 |
 | Steintreppe | `stone_stairs` | 80 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -70,8 +70,8 @@
 | 8 | `w464120173_innen` | Palazzo des Cinquecento an Via Francesco Berni: Innenausbau | 1.441 | 18.17 |
 | 9 | `w464120188` | Reihenhaus an Via Francesco Berni | 3.107 | 18.18–18.19 |
 | 10 | `w464120188_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 720 | 18.20 |
-| 11 | `w464120235` | Palazzo des Cinquecento an Via Francesco Berni | 12.926 | 18.21–18.27 |
-| 12 | `w464120235_innen` | Palazzo des Cinquecento an Via Francesco Berni: Innenausbau | 2.135 | 18.28–18.29 |
+| 11 | `w464120235` | Palazzo des Cinquecento an Via Francesco Berni | 12.899 | 18.21–18.27 |
+| 12 | `w464120235_innen` | Palazzo des Cinquecento an Via Francesco Berni: Innenausbau | 2.132 | 18.28–18.29 |
 
 ## Bauschritte
 
@@ -754,9 +754,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.21 – Palazzo des Cinquecento an Via Francesco Berni – Teil 1/7 (Y 59–61)
+### Schritt 18.21 – Palazzo des Cinquecento an Via Francesco Berni – Teil 1/7 (Y 58–60)
 
-- **Y-Bereich:** 59 bis 61
+- **Y-Bereich:** 58 bis 60
 - **Blöcke:** 1.986
 - **Bauteile:** `w464120235`
 
@@ -786,21 +786,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.22 – Palazzo des Cinquecento an Via Francesco Berni – Teil 2/7 (Y 62–67)
+### Schritt 18.22 – Palazzo des Cinquecento an Via Francesco Berni – Teil 2/7 (Y 61–65)
 
-- **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.869
+- **Y-Bereich:** 61 bis 65
+- **Blöcke:** 1.541
 - **Bauteile:** `w464120235`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.104 |
-| Glatter Stein | `smooth_stone` | 366 |
+| Endsteinziegel | `end_stone_bricks` | 864 |
+| Glatter Stein | `smooth_stone` | 285 |
 | Graues Buntglas | `gray_stained_glass` | 160 |
 | Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 79 |
+| Polierter Andesit | `polished_andesite` | 72 |
 | Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
@@ -819,19 +819,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.23 – Palazzo des Cinquecento an Via Francesco Berni – Teil 3/7 (Y 68–72)
+### Schritt 18.23 – Palazzo des Cinquecento an Via Francesco Berni – Teil 3/7 (Y 66–71)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.638
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.966
 - **Bauteile:** `w464120235`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.138 |
-| Glatter Stein | `smooth_stone` | 358 |
-| Polierter Andesit | `polished_andesite` | 58 |
+| Endsteinziegel | `end_stone_bricks` | 1.378 |
+| Glatter Stein | `smooth_stone` | 439 |
+| Polierter Andesit | `polished_andesite` | 65 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
 | Grüner Beton | `green_concrete` | 41 |
 
@@ -851,9 +851,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.24 – Palazzo des Cinquecento an Via Francesco Berni – Teil 4/7 (Y 73–78)
+### Schritt 18.24 – Palazzo des Cinquecento an Via Francesco Berni – Teil 4/7 (Y 72–77)
 
-- **Y-Bereich:** 73 bis 78
+- **Y-Bereich:** 72 bis 77
 - **Blöcke:** 1.848
 - **Bauteile:** `w464120235`
 
@@ -883,9 +883,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.25 – Palazzo des Cinquecento an Via Francesco Berni – Teil 5/7 (Y 79–84)
+### Schritt 18.25 – Palazzo des Cinquecento an Via Francesco Berni – Teil 5/7 (Y 78–83)
 
-- **Y-Bereich:** 79 bis 84
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 1.906
 - **Bauteile:** `w464120235`
 
@@ -915,17 +915,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.26 – Palazzo des Cinquecento an Via Francesco Berni – Teil 6/7 (Y 85–89)
+### Schritt 18.26 – Palazzo des Cinquecento an Via Francesco Berni – Teil 6/7 (Y 84–88)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.822
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.797
 - **Bauteile:** `w464120235`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.298 |
+| Endsteinziegel | `end_stone_bricks` | 1.273 |
 | Glatter Stein | `smooth_stone` | 302 |
 | Graues Buntglas | `gray_stained_glass` | 86 |
 | Grüner Beton | `green_concrete` | 82 |
@@ -947,17 +947,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.27 – Palazzo des Cinquecento an Via Francesco Berni – Teil 7/7 (Y 90–95)
+### Schritt 18.27 – Palazzo des Cinquecento an Via Francesco Berni – Teil 7/7 (Y 89–94)
 
-- **Y-Bereich:** 90 bis 95
-- **Blöcke:** 1.857
+- **Y-Bereich:** 89 bis 94
+- **Blöcke:** 1.855
 - **Bauteile:** `w464120235`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.781 |
+| Terrakotta | `terracotta` | 1.779 |
 | Ziegelsteine | `bricks` | 76 |
 
 **Beschreibung**
@@ -976,9 +976,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.28 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 1/2 (Y 59–69)
+### Schritt 18.28 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 59 bis 69
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.070
 - **Bauteile:** `w464120235_innen`
 
@@ -1014,10 +1014,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.29 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 2/2 (Y 70–80)
+### Schritt 18.29 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 2/2 (Y 69–78)
 
-- **Y-Bereich:** 70 bis 80
-- **Blöcke:** 1.065
+- **Y-Bereich:** 69 bis 78
+- **Blöcke:** 1.062
 - **Bauteile:** `w464120235_innen`
 
 **Teileliste**
@@ -1029,16 +1029,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 

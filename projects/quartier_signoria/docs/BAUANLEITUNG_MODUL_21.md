@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 9.760 |
 | Bauschritte | 5 |
-| Y-Bereich | 67 bis 104 |
+| Y-Bereich | 66 bis 103 |
 | X-Ausdehnung | -121 bis -87 (35 Blöcke) |
 | Z-Ausdehnung | 504 bis 528 (25 Blöcke) |
 | Kleinster Schritt | 1.875 Blöcke (Schritt 21.5) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 21.1 – Reihenhaus an Via del Canto alla Quarconia – Teil 1/4 (Y 67–73)
+### Schritt 21.1 – Reihenhaus an Via del Canto alla Quarconia – Teil 1/4 (Y 66–72)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.975
 - **Bauteile:** `w114506869`
 
@@ -89,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Reihenhaus an Via del Canto alla Quarconia – Teil 2/4 (Y 74–83)
+### Schritt 21.2 – Reihenhaus an Via del Canto alla Quarconia – Teil 2/4 (Y 73–82)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 2.039
 - **Bauteile:** `w114506869`
 
@@ -120,9 +120,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Reihenhaus an Via del Canto alla Quarconia – Teil 3/4 (Y 84–93)
+### Schritt 21.3 – Reihenhaus an Via del Canto alla Quarconia – Teil 3/4 (Y 83–92)
 
-- **Y-Bereich:** 84 bis 93
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.983
 - **Bauteile:** `w114506869`
 
@@ -150,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Reihenhaus an Via del Canto alla Quarconia – Teil 4/4 (Y 94–104)
+### Schritt 21.4 – Reihenhaus an Via del Canto alla Quarconia – Teil 4/4 (Y 93–103)
 
-- **Y-Bereich:** 94 bis 104
+- **Y-Bereich:** 93 bis 103
 - **Blöcke:** 1.888
 - **Bauteile:** `w114506869`
 
@@ -184,7 +184,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 21.5 – Reihenhaus an Via del Canto alla Quarconia: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 67 bis 91
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.875
 - **Bauteile:** `w114506869_innen`, `strassenschilder`
 

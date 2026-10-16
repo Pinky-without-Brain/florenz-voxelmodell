@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 206.491 |
-| Bauschritte | 116 |
-| Y-Bereich | 45 bis 101 |
+| Blöcke | 205.769 |
+| Bauschritte | 115 |
+| Y-Bereich | 45 bis 100 |
 | X-Ausdehnung | -3365 bis -3032 (334 Blöcke) |
 | Z-Ausdehnung | -1214 bis -956 (259 Blöcke) |
-| Kleinster Schritt | 657 Blöcke (Schritt 0.84) |
-| Mittlerer Schritt | 1.780 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 0.100) |
+| Kleinster Schritt | 657 Blöcke (Schritt 0.83) |
+| Mittlerer Schritt | 1.789 Blöcke |
+| Größter Schritt | 2.099 Blöcke (Schritt 0.99) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 107.057 | 51,8 % |
+| Terrakotta | `terracotta` | 107.057 | 52,0 % |
 | Polierter Tuffstein | `polished_tuff` | 34.634 | 16,8 % |
-| Tuffstein | `tuff` | 25.461 | 12,3 % |
+| Tuffstein | `tuff` | 24.739 | 12,0 % |
 | Polierter Andesit | `polished_andesite` | 18.600 | 9,0 % |
-| Glatter Stein | `smooth_stone` | 11.846 | 5,7 % |
-| Tuffsteinziegel | `tuff_bricks` | 4.232 | 2,0 % |
+| Glatter Stein | `smooth_stone` | 11.846 | 5,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 4.232 | 2,1 % |
 | Graues Buntglas | `gray_stained_glass` | 2.425 | 1,2 % |
 | Endsteinziegel | `end_stone_bricks` | 1.120 | 0,5 % |
 | Ziegelsteine | `bricks` | 644 | 0,3 % |
@@ -44,12 +44,12 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w269666091` | Stazione Leopolda | 140.521 | 0.1–0.84 |
-| 2 | `w269666091_innen` | Stazione Leopolda: Innenausbau | 65.970 | 0.84–0.116 |
+| 1 | `w269666091` | Stazione Leopolda | 139.799 | 0.1–0.83 |
+| 2 | `w269666091_innen` | Stazione Leopolda: Innenausbau | 65.970 | 0.83–0.115 |
 
 ## Bauschritte
 
-### Schritt 0.1 – Stazione Leopolda – Teil 1/84 (Y 45–50)
+### Schritt 0.1 – Stazione Leopolda – Teil 1/83 (Y 45–50)
 
 - **Y-Bereich:** 45 bis 50
 - **Blöcke:** 1.543
@@ -77,7 +77,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Stazione Leopolda – Teil 2/84 (Y 51–53)
+### Schritt 0.2 – Stazione Leopolda – Teil 2/83 (Y 51–53)
 
 - **Y-Bereich:** 51 bis 53
 - **Blöcke:** 1.642
@@ -105,7 +105,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.3 – Stazione Leopolda – Teil 3/84 (Y 54–55)
+### Schritt 0.3 – Stazione Leopolda – Teil 3/83 (Y 54–55)
 
 - **Y-Bereich:** 54 bis 55
 - **Blöcke:** 1.444
@@ -133,37 +133,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.4 – Stazione Leopolda – Teil 4/84 (Y 56–56)
+### Schritt 0.4 – Stazione Leopolda – Teil 4/83 (Y 56–56)
 
 - **Y-Bereich:** 56 bis 56
-- **Blöcke:** 722
-- **Bauteile:** `w269666091`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 722 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.5 – Stazione Leopolda – Teil 5/84 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 2.028
 - **Bauteile:** `w269666091`
 
@@ -189,9 +161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.6 – Stazione Leopolda – Teil 6/84 (Y 57–57)
+### Schritt 0.5 – Stazione Leopolda – Teil 5/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.046
 - **Bauteile:** `w269666091`
 
@@ -217,9 +189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.7 – Stazione Leopolda – Teil 7/84 (Y 57–57)
+### Schritt 0.6 – Stazione Leopolda – Teil 6/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.038
 - **Bauteile:** `w269666091`
 
@@ -245,9 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.8 – Stazione Leopolda – Teil 8/84 (Y 57–57)
+### Schritt 0.7 – Stazione Leopolda – Teil 7/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.036
 - **Bauteile:** `w269666091`
 
@@ -273,9 +245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.9 – Stazione Leopolda – Teil 9/84 (Y 57–57)
+### Schritt 0.8 – Stazione Leopolda – Teil 8/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.039
 - **Bauteile:** `w269666091`
 
@@ -301,9 +273,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.10 – Stazione Leopolda – Teil 10/84 (Y 57–57)
+### Schritt 0.9 – Stazione Leopolda – Teil 9/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.038
 - **Bauteile:** `w269666091`
 
@@ -329,9 +301,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.11 – Stazione Leopolda – Teil 11/84 (Y 57–57)
+### Schritt 0.10 – Stazione Leopolda – Teil 10/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.037
 - **Bauteile:** `w269666091`
 
@@ -357,9 +329,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.12 – Stazione Leopolda – Teil 12/84 (Y 57–57)
+### Schritt 0.11 – Stazione Leopolda – Teil 11/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.041
 - **Bauteile:** `w269666091`
 
@@ -385,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.13 – Stazione Leopolda – Teil 13/84 (Y 57–57)
+### Schritt 0.12 – Stazione Leopolda – Teil 12/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.042
 - **Bauteile:** `w269666091`
 
@@ -413,9 +385,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.14 – Stazione Leopolda – Teil 14/84 (Y 57–57)
+### Schritt 0.13 – Stazione Leopolda – Teil 13/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.040
 - **Bauteile:** `w269666091`
 
@@ -441,9 +413,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.15 – Stazione Leopolda – Teil 15/84 (Y 57–57)
+### Schritt 0.14 – Stazione Leopolda – Teil 14/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.042
 - **Bauteile:** `w269666091`
 
@@ -469,9 +441,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.16 – Stazione Leopolda – Teil 16/84 (Y 57–57)
+### Schritt 0.15 – Stazione Leopolda – Teil 15/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.041
 - **Bauteile:** `w269666091`
 
@@ -497,9 +469,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.17 – Stazione Leopolda – Teil 17/84 (Y 57–57)
+### Schritt 0.16 – Stazione Leopolda – Teil 16/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.043
 - **Bauteile:** `w269666091`
 
@@ -525,9 +497,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.18 – Stazione Leopolda – Teil 18/84 (Y 57–57)
+### Schritt 0.17 – Stazione Leopolda – Teil 17/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.041
 - **Bauteile:** `w269666091`
 
@@ -553,9 +525,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.19 – Stazione Leopolda – Teil 19/84 (Y 57–57)
+### Schritt 0.18 – Stazione Leopolda – Teil 18/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.981
 - **Bauteile:** `w269666091`
 
@@ -581,9 +553,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.20 – Stazione Leopolda – Teil 20/84 (Y 57–57)
+### Schritt 0.19 – Stazione Leopolda – Teil 19/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.041
 - **Bauteile:** `w269666091`
 
@@ -609,9 +581,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.21 – Stazione Leopolda – Teil 21/84 (Y 57–57)
+### Schritt 0.20 – Stazione Leopolda – Teil 20/83 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.060
 - **Bauteile:** `w269666091`
 
@@ -637,9 +609,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.22 – Stazione Leopolda – Teil 22/84 (Y 58–58)
+### Schritt 0.21 – Stazione Leopolda – Teil 21/83 (Y 57–57)
 
-- **Y-Bereich:** 58 bis 58
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.896
 - **Bauteile:** `w269666091`
 
@@ -668,9 +640,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.23 – Stazione Leopolda – Teil 23/84 (Y 59–59)
+### Schritt 0.22 – Stazione Leopolda – Teil 22/83 (Y 58–58)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.896
 - **Bauteile:** `w269666091`
 
@@ -699,9 +671,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.24 – Stazione Leopolda – Teil 24/84 (Y 60–60)
+### Schritt 0.23 – Stazione Leopolda – Teil 23/83 (Y 59–59)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 2.017
 - **Bauteile:** `w269666091`
 
@@ -730,9 +702,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.25 – Stazione Leopolda – Teil 25/84 (Y 61–61)
+### Schritt 0.24 – Stazione Leopolda – Teil 24/83 (Y 60–60)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.804
 - **Bauteile:** `w269666091`
 
@@ -762,9 +734,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.26 – Stazione Leopolda – Teil 26/84 (Y 62–62)
+### Schritt 0.25 – Stazione Leopolda – Teil 25/83 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.811
 - **Bauteile:** `w269666091`
 
@@ -794,9 +766,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.27 – Stazione Leopolda – Teil 27/84 (Y 63–63)
+### Schritt 0.26 – Stazione Leopolda – Teil 26/83 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.811
 - **Bauteile:** `w269666091`
 
@@ -826,9 +798,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.28 – Stazione Leopolda – Teil 28/84 (Y 64–64)
+### Schritt 0.27 – Stazione Leopolda – Teil 27/83 (Y 63–63)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.811
 - **Bauteile:** `w269666091`
 
@@ -858,9 +830,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.29 – Stazione Leopolda – Teil 29/84 (Y 65–65)
+### Schritt 0.28 – Stazione Leopolda – Teil 28/83 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.811
 - **Bauteile:** `w269666091`
 
@@ -890,9 +862,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.30 – Stazione Leopolda – Teil 30/84 (Y 66–66)
+### Schritt 0.29 – Stazione Leopolda – Teil 29/83 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.903
 - **Bauteile:** `w269666091`
 
@@ -921,9 +893,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.31 – Stazione Leopolda – Teil 31/84 (Y 67–67)
+### Schritt 0.30 – Stazione Leopolda – Teil 30/83 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.903
 - **Bauteile:** `w269666091`
 
@@ -952,9 +924,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.32 – Stazione Leopolda – Teil 32/84 (Y 68–68)
+### Schritt 0.31 – Stazione Leopolda – Teil 31/83 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.231
 - **Bauteile:** `w269666091`
 
@@ -981,9 +953,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.33 – Stazione Leopolda – Teil 33/84 (Y 68–68)
+### Schritt 0.32 – Stazione Leopolda – Teil 32/83 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.232
 - **Bauteile:** `w269666091`
 
@@ -1010,9 +982,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.34 – Stazione Leopolda – Teil 34/84 (Y 69–69)
+### Schritt 0.33 – Stazione Leopolda – Teil 33/83 (Y 68–68)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.903
 - **Bauteile:** `w269666091`
 
@@ -1040,9 +1012,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.35 – Stazione Leopolda – Teil 35/84 (Y 70–70)
+### Schritt 0.34 – Stazione Leopolda – Teil 34/83 (Y 69–69)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 2.026
 - **Bauteile:** `w269666091`
 
@@ -1070,7 +1042,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.36 – Stazione Leopolda – Teil 36/84 (Y 71–71)
+### Schritt 0.35 – Stazione Leopolda – Teil 35/83 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.810
+- **Bauteile:** `w269666091`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 701 |
+| Tuffstein | `tuff` | 624 |
+| Glatter Stein | `smooth_stone` | 323 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.36 – Stazione Leopolda – Teil 36/83 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.810
@@ -1080,9 +1083,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 701 |
+| Polierter Andesit | `polished_andesite` | 690 |
 | Tuffstein | `tuff` | 624 |
-| Glatter Stein | `smooth_stone` | 323 |
+| Glatter Stein | `smooth_stone` | 334 |
 | Graues Buntglas | `gray_stained_glass` | 162 |
 
 **Beschreibung**
@@ -1101,7 +1104,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.37 – Stazione Leopolda – Teil 37/84 (Y 72–72)
+### Schritt 0.37 – Stazione Leopolda – Teil 37/83 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.810
@@ -1111,37 +1114,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 690 |
-| Tuffstein | `tuff` | 624 |
-| Glatter Stein | `smooth_stone` | 334 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.38 – Stazione Leopolda – Teil 38/84 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.810
-- **Bauteile:** `w269666091`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 701 |
 | Tuffstein | `tuff` | 624 |
 | Glatter Stein | `smooth_stone` | 323 |
@@ -1163,9 +1135,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.39 – Stazione Leopolda – Teil 39/84 (Y 74–74)
+### Schritt 0.38 – Stazione Leopolda – Teil 38/83 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.810
 - **Bauteile:** `w269666091`
 
@@ -1194,9 +1166,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.40 – Stazione Leopolda – Teil 40/84 (Y 75–75)
+### Schritt 0.39 – Stazione Leopolda – Teil 39/83 (Y 74–74)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.811
 - **Bauteile:** `w269666091`
 
@@ -1225,9 +1197,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.41 – Stazione Leopolda – Teil 41/84 (Y 76–76)
+### Schritt 0.40 – Stazione Leopolda – Teil 40/83 (Y 75–75)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.903
 - **Bauteile:** `w269666091`
 
@@ -1255,9 +1227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.42 – Stazione Leopolda – Teil 42/84 (Y 77–77)
+### Schritt 0.41 – Stazione Leopolda – Teil 41/83 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.231
 - **Bauteile:** `w269666091`
 
@@ -1284,9 +1256,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.43 – Stazione Leopolda – Teil 43/84 (Y 77–77)
+### Schritt 0.42 – Stazione Leopolda – Teil 42/83 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.232
 - **Bauteile:** `w269666091`
 
@@ -1313,9 +1285,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.44 – Stazione Leopolda – Teil 44/84 (Y 78–78)
+### Schritt 0.43 – Stazione Leopolda – Teil 43/83 (Y 77–77)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.903
 - **Bauteile:** `w269666091`
 
@@ -1343,9 +1315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.45 – Stazione Leopolda – Teil 45/84 (Y 79–79)
+### Schritt 0.44 – Stazione Leopolda – Teil 44/83 (Y 78–78)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 2.026
 - **Bauteile:** `w269666091`
 
@@ -1373,7 +1345,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.46 – Stazione Leopolda – Teil 46/84 (Y 80–80)
+### Schritt 0.45 – Stazione Leopolda – Teil 45/83 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.810
+- **Bauteile:** `w269666091`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 690 |
+| Tuffstein | `tuff` | 624 |
+| Glatter Stein | `smooth_stone` | 334 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.46 – Stazione Leopolda – Teil 46/83 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.810
@@ -1383,9 +1386,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 690 |
+| Polierter Andesit | `polished_andesite` | 701 |
 | Tuffstein | `tuff` | 624 |
-| Glatter Stein | `smooth_stone` | 334 |
+| Glatter Stein | `smooth_stone` | 323 |
 | Graues Buntglas | `gray_stained_glass` | 162 |
 
 **Beschreibung**
@@ -1404,7 +1407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.47 – Stazione Leopolda – Teil 47/84 (Y 81–81)
+### Schritt 0.47 – Stazione Leopolda – Teil 47/83 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.810
@@ -1414,37 +1417,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 701 |
-| Tuffstein | `tuff` | 624 |
-| Glatter Stein | `smooth_stone` | 323 |
-| Graues Buntglas | `gray_stained_glass` | 162 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.48 – Stazione Leopolda – Teil 48/84 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.810
-- **Bauteile:** `w269666091`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 690 |
 | Tuffstein | `tuff` | 624 |
 | Glatter Stein | `smooth_stone` | 334 |
@@ -1466,9 +1438,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.49 – Stazione Leopolda – Teil 49/84 (Y 83–83)
+### Schritt 0.48 – Stazione Leopolda – Teil 48/83 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.810
 - **Bauteile:** `w269666091`
 
@@ -1497,9 +1469,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.50 – Stazione Leopolda – Teil 50/84 (Y 84–84)
+### Schritt 0.49 – Stazione Leopolda – Teil 49/83 (Y 83–83)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.811
 - **Bauteile:** `w269666091`
 
@@ -1528,9 +1500,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.51 – Stazione Leopolda – Teil 51/84 (Y 85–85)
+### Schritt 0.50 – Stazione Leopolda – Teil 50/83 (Y 84–84)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.903
 - **Bauteile:** `w269666091`
 
@@ -1558,9 +1530,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.52 – Stazione Leopolda – Teil 52/84 (Y 86–86)
+### Schritt 0.51 – Stazione Leopolda – Teil 51/83 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.231
 - **Bauteile:** `w269666091`
 
@@ -1589,9 +1561,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.53 – Stazione Leopolda – Teil 53/84 (Y 86–86)
+### Schritt 0.52 – Stazione Leopolda – Teil 52/83 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.232
 - **Bauteile:** `w269666091`
 
@@ -1620,9 +1592,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.54 – Stazione Leopolda – Teil 54/84 (Y 87–87)
+### Schritt 0.53 – Stazione Leopolda – Teil 53/83 (Y 86–86)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.231
 - **Bauteile:** `w269666091`
 
@@ -1651,9 +1623,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.55 – Stazione Leopolda – Teil 55/84 (Y 87–87)
+### Schritt 0.54 – Stazione Leopolda – Teil 54/83 (Y 86–86)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.232
 - **Bauteile:** `w269666091`
 
@@ -1682,9 +1654,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.56 – Stazione Leopolda – Teil 56/84 (Y 88–88)
+### Schritt 0.55 – Stazione Leopolda – Teil 55/83 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.437
 - **Bauteile:** `w269666091`
 
@@ -1710,9 +1682,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.57 – Stazione Leopolda – Teil 57/84 (Y 88–88)
+### Schritt 0.56 – Stazione Leopolda – Teil 56/83 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.450
 - **Bauteile:** `w269666091`
 
@@ -1738,9 +1710,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.58 – Stazione Leopolda – Teil 58/84 (Y 88–88)
+### Schritt 0.57 – Stazione Leopolda – Teil 57/83 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.439
 - **Bauteile:** `w269666091`
 
@@ -1766,9 +1738,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.59 – Stazione Leopolda – Teil 59/84 (Y 89–89)
+### Schritt 0.58 – Stazione Leopolda – Teil 58/83 (Y 88–88)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.264
 - **Bauteile:** `w269666091`
 
@@ -1794,9 +1766,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.60 – Stazione Leopolda – Teil 60/84 (Y 89–89)
+### Schritt 0.59 – Stazione Leopolda – Teil 59/83 (Y 88–88)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.258
 - **Bauteile:** `w269666091`
 
@@ -1822,9 +1794,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.61 – Stazione Leopolda – Teil 61/84 (Y 90–90)
+### Schritt 0.60 – Stazione Leopolda – Teil 60/83 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.320
 - **Bauteile:** `w269666091`
 
@@ -1850,9 +1822,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.62 – Stazione Leopolda – Teil 62/84 (Y 90–90)
+### Schritt 0.61 – Stazione Leopolda – Teil 61/83 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.328
 - **Bauteile:** `w269666091`
 
@@ -1878,9 +1850,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.63 – Stazione Leopolda – Teil 63/84 (Y 91–91)
+### Schritt 0.62 – Stazione Leopolda – Teil 62/83 (Y 90–90)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.414
 - **Bauteile:** `w269666091`
 
@@ -1907,9 +1879,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.64 – Stazione Leopolda – Teil 64/84 (Y 91–91)
+### Schritt 0.63 – Stazione Leopolda – Teil 63/83 (Y 90–90)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.418
 - **Bauteile:** `w269666091`
 
@@ -1936,9 +1908,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.65 – Stazione Leopolda – Teil 65/84 (Y 92–92)
+### Schritt 0.64 – Stazione Leopolda – Teil 64/83 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.184
 - **Bauteile:** `w269666091`
 
@@ -1965,9 +1937,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.66 – Stazione Leopolda – Teil 66/84 (Y 92–92)
+### Schritt 0.65 – Stazione Leopolda – Teil 65/83 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.183
 - **Bauteile:** `w269666091`
 
@@ -1994,9 +1966,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.67 – Stazione Leopolda – Teil 67/84 (Y 93–93)
+### Schritt 0.66 – Stazione Leopolda – Teil 66/83 (Y 92–92)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.152
 - **Bauteile:** `w269666091`
 
@@ -2023,9 +1995,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.68 – Stazione Leopolda – Teil 68/84 (Y 93–93)
+### Schritt 0.67 – Stazione Leopolda – Teil 67/83 (Y 92–92)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.147
 - **Bauteile:** `w269666091`
 
@@ -2052,9 +2024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.69 – Stazione Leopolda – Teil 69/84 (Y 94–94)
+### Schritt 0.68 – Stazione Leopolda – Teil 68/83 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.197
 - **Bauteile:** `w269666091`
 
@@ -2081,9 +2053,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.70 – Stazione Leopolda – Teil 70/84 (Y 94–94)
+### Schritt 0.69 – Stazione Leopolda – Teil 69/83 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.202
 - **Bauteile:** `w269666091`
 
@@ -2110,9 +2082,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.71 – Stazione Leopolda – Teil 71/84 (Y 95–95)
+### Schritt 0.70 – Stazione Leopolda – Teil 70/83 (Y 94–94)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.265
 - **Bauteile:** `w269666091`
 
@@ -2139,9 +2111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.72 – Stazione Leopolda – Teil 72/84 (Y 95–95)
+### Schritt 0.71 – Stazione Leopolda – Teil 71/83 (Y 94–94)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.270
 - **Bauteile:** `w269666091`
 
@@ -2168,9 +2140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.73 – Stazione Leopolda – Teil 73/84 (Y 96–96)
+### Schritt 0.72 – Stazione Leopolda – Teil 72/83 (Y 95–95)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.057
 - **Bauteile:** `w269666091`
 
@@ -2197,9 +2169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.74 – Stazione Leopolda – Teil 74/84 (Y 96–96)
+### Schritt 0.73 – Stazione Leopolda – Teil 73/83 (Y 95–95)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.059
 - **Bauteile:** `w269666091`
 
@@ -2226,9 +2198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.75 – Stazione Leopolda – Teil 75/84 (Y 97–97)
+### Schritt 0.74 – Stazione Leopolda – Teil 74/83 (Y 96–96)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 2.052
 - **Bauteile:** `w269666091`
 
@@ -2255,9 +2227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.76 – Stazione Leopolda – Teil 76/84 (Y 98–98)
+### Schritt 0.75 – Stazione Leopolda – Teil 75/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.972
 - **Bauteile:** `w269666091`
 
@@ -2284,9 +2256,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.77 – Stazione Leopolda – Teil 77/84 (Y 98–98)
+### Schritt 0.76 – Stazione Leopolda – Teil 76/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.982
 - **Bauteile:** `w269666091`
 
@@ -2312,9 +2284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.78 – Stazione Leopolda – Teil 78/84 (Y 98–98)
+### Schritt 0.77 – Stazione Leopolda – Teil 77/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.915
 - **Bauteile:** `w269666091`
 
@@ -2340,9 +2312,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.79 – Stazione Leopolda – Teil 79/84 (Y 98–98)
+### Schritt 0.78 – Stazione Leopolda – Teil 78/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.985
 - **Bauteile:** `w269666091`
 
@@ -2368,9 +2340,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.80 – Stazione Leopolda – Teil 80/84 (Y 98–98)
+### Schritt 0.79 – Stazione Leopolda – Teil 79/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.987
 - **Bauteile:** `w269666091`
 
@@ -2396,9 +2368,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.81 – Stazione Leopolda – Teil 81/84 (Y 98–98)
+### Schritt 0.80 – Stazione Leopolda – Teil 80/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.920
 - **Bauteile:** `w269666091`
 
@@ -2424,9 +2396,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.82 – Stazione Leopolda – Teil 82/84 (Y 98–98)
+### Schritt 0.81 – Stazione Leopolda – Teil 81/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.990
 - **Bauteile:** `w269666091`
 
@@ -2452,9 +2424,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.83 – Stazione Leopolda – Teil 83/84 (Y 98–98)
+### Schritt 0.82 – Stazione Leopolda – Teil 82/83 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.943
 - **Bauteile:** `w269666091`
 
@@ -2481,9 +2453,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.84 – Stazione Leopolda – Teil 84/84 (Y 99–101) & Stazione Leopolda: Innenausbau – Teil 1/33 (Y 57–67)
+### Schritt 0.83 – Stazione Leopolda – Teil 83/83 (Y 98–100) & Stazione Leopolda: Innenausbau – Teil 1/33 (Y 56–66)
 
-- **Y-Bereich:** 57 bis 101
+- **Y-Bereich:** 56 bis 100
 - **Blöcke:** 657
 - **Bauteile:** `w269666091`, `w269666091_innen`
 
@@ -2519,9 +2491,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.85 – Stazione Leopolda: Innenausbau – Teil 2/33 (Y 68–68)
+### Schritt 0.84 – Stazione Leopolda: Innenausbau – Teil 2/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.029
 - **Bauteile:** `w269666091_innen`
 
@@ -2548,9 +2520,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.86 – Stazione Leopolda: Innenausbau – Teil 3/33 (Y 68–68)
+### Schritt 0.85 – Stazione Leopolda: Innenausbau – Teil 3/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.031
 - **Bauteile:** `w269666091_innen`
 
@@ -2577,9 +2549,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.87 – Stazione Leopolda: Innenausbau – Teil 4/33 (Y 68–68)
+### Schritt 0.86 – Stazione Leopolda: Innenausbau – Teil 4/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.083
 - **Bauteile:** `w269666091_innen`
 
@@ -2606,9 +2578,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.88 – Stazione Leopolda: Innenausbau – Teil 5/33 (Y 68–68)
+### Schritt 0.87 – Stazione Leopolda: Innenausbau – Teil 5/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.084
 - **Bauteile:** `w269666091_innen`
 
@@ -2635,9 +2607,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.89 – Stazione Leopolda: Innenausbau – Teil 6/33 (Y 68–68)
+### Schritt 0.88 – Stazione Leopolda: Innenausbau – Teil 6/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.086
 - **Bauteile:** `w269666091_innen`
 
@@ -2664,9 +2636,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.90 – Stazione Leopolda: Innenausbau – Teil 7/33 (Y 68–68)
+### Schritt 0.89 – Stazione Leopolda: Innenausbau – Teil 7/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.962
 - **Bauteile:** `w269666091_innen`
 
@@ -2693,9 +2665,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.91 – Stazione Leopolda: Innenausbau – Teil 8/33 (Y 68–68)
+### Schritt 0.90 – Stazione Leopolda: Innenausbau – Teil 8/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.086
 - **Bauteile:** `w269666091_innen`
 
@@ -2722,9 +2694,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.92 – Stazione Leopolda: Innenausbau – Teil 9/33 (Y 68–68)
+### Schritt 0.91 – Stazione Leopolda: Innenausbau – Teil 9/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.088
 - **Bauteile:** `w269666091_innen`
 
@@ -2751,9 +2723,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.93 – Stazione Leopolda: Innenausbau – Teil 10/33 (Y 68–68)
+### Schritt 0.92 – Stazione Leopolda: Innenausbau – Teil 10/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.087
 - **Bauteile:** `w269666091_innen`
 
@@ -2780,9 +2752,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.94 – Stazione Leopolda: Innenausbau – Teil 11/33 (Y 68–68)
+### Schritt 0.93 – Stazione Leopolda: Innenausbau – Teil 11/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.965
 - **Bauteile:** `w269666091_innen`
 
@@ -2809,9 +2781,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.95 – Stazione Leopolda: Innenausbau – Teil 12/33 (Y 68–68)
+### Schritt 0.94 – Stazione Leopolda: Innenausbau – Teil 12/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.088
 - **Bauteile:** `w269666091_innen`
 
@@ -2838,9 +2810,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.96 – Stazione Leopolda: Innenausbau – Teil 13/33 (Y 68–68)
+### Schritt 0.95 – Stazione Leopolda: Innenausbau – Teil 13/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.089
 - **Bauteile:** `w269666091_innen`
 
@@ -2867,9 +2839,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.97 – Stazione Leopolda: Innenausbau – Teil 14/33 (Y 68–68)
+### Schritt 0.96 – Stazione Leopolda: Innenausbau – Teil 14/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.089
 - **Bauteile:** `w269666091_innen`
 
@@ -2896,9 +2868,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.98 – Stazione Leopolda: Innenausbau – Teil 15/33 (Y 68–68)
+### Schritt 0.97 – Stazione Leopolda: Innenausbau – Teil 15/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.948
 - **Bauteile:** `w269666091_innen`
 
@@ -2925,9 +2897,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.99 – Stazione Leopolda: Innenausbau – Teil 16/33 (Y 68–68)
+### Schritt 0.98 – Stazione Leopolda: Innenausbau – Teil 16/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.095
 - **Bauteile:** `w269666091_innen`
 
@@ -2954,9 +2926,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.100 – Stazione Leopolda: Innenausbau – Teil 17/33 (Y 68–76)
+### Schritt 0.99 – Stazione Leopolda: Innenausbau – Teil 17/33 (Y 67–75)
 
-- **Y-Bereich:** 68 bis 76
+- **Y-Bereich:** 67 bis 75
 - **Blöcke:** 2.099
 - **Bauteile:** `w269666091_innen`
 
@@ -2992,9 +2964,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.101 – Stazione Leopolda: Innenausbau – Teil 18/33 (Y 77–77)
+### Schritt 0.100 – Stazione Leopolda: Innenausbau – Teil 18/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.029
 - **Bauteile:** `w269666091_innen`
 
@@ -3021,9 +2993,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.102 – Stazione Leopolda: Innenausbau – Teil 19/33 (Y 77–77)
+### Schritt 0.101 – Stazione Leopolda: Innenausbau – Teil 19/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.031
 - **Bauteile:** `w269666091_innen`
 
@@ -3050,9 +3022,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.103 – Stazione Leopolda: Innenausbau – Teil 20/33 (Y 77–77)
+### Schritt 0.102 – Stazione Leopolda: Innenausbau – Teil 20/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.083
 - **Bauteile:** `w269666091_innen`
 
@@ -3079,9 +3051,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.104 – Stazione Leopolda: Innenausbau – Teil 21/33 (Y 77–77)
+### Schritt 0.103 – Stazione Leopolda: Innenausbau – Teil 21/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.084
 - **Bauteile:** `w269666091_innen`
 
@@ -3108,9 +3080,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.105 – Stazione Leopolda: Innenausbau – Teil 22/33 (Y 77–77)
+### Schritt 0.104 – Stazione Leopolda: Innenausbau – Teil 22/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.086
 - **Bauteile:** `w269666091_innen`
 
@@ -3137,9 +3109,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.106 – Stazione Leopolda: Innenausbau – Teil 23/33 (Y 77–77)
+### Schritt 0.105 – Stazione Leopolda: Innenausbau – Teil 23/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.962
 - **Bauteile:** `w269666091_innen`
 
@@ -3166,9 +3138,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.107 – Stazione Leopolda: Innenausbau – Teil 24/33 (Y 77–77)
+### Schritt 0.106 – Stazione Leopolda: Innenausbau – Teil 24/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.086
 - **Bauteile:** `w269666091_innen`
 
@@ -3195,9 +3167,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.108 – Stazione Leopolda: Innenausbau – Teil 25/33 (Y 77–77)
+### Schritt 0.107 – Stazione Leopolda: Innenausbau – Teil 25/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.088
 - **Bauteile:** `w269666091_innen`
 
@@ -3224,9 +3196,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.109 – Stazione Leopolda: Innenausbau – Teil 26/33 (Y 77–77)
+### Schritt 0.108 – Stazione Leopolda: Innenausbau – Teil 26/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.087
 - **Bauteile:** `w269666091_innen`
 
@@ -3253,9 +3225,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.110 – Stazione Leopolda: Innenausbau – Teil 27/33 (Y 77–77)
+### Schritt 0.109 – Stazione Leopolda: Innenausbau – Teil 27/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.965
 - **Bauteile:** `w269666091_innen`
 
@@ -3282,9 +3254,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.111 – Stazione Leopolda: Innenausbau – Teil 28/33 (Y 77–77)
+### Schritt 0.110 – Stazione Leopolda: Innenausbau – Teil 28/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.088
 - **Bauteile:** `w269666091_innen`
 
@@ -3311,9 +3283,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.112 – Stazione Leopolda: Innenausbau – Teil 29/33 (Y 77–77)
+### Schritt 0.111 – Stazione Leopolda: Innenausbau – Teil 29/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.089
 - **Bauteile:** `w269666091_innen`
 
@@ -3340,9 +3312,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.113 – Stazione Leopolda: Innenausbau – Teil 30/33 (Y 77–77)
+### Schritt 0.112 – Stazione Leopolda: Innenausbau – Teil 30/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.089
 - **Bauteile:** `w269666091_innen`
 
@@ -3369,9 +3341,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.114 – Stazione Leopolda: Innenausbau – Teil 31/33 (Y 77–77)
+### Schritt 0.113 – Stazione Leopolda: Innenausbau – Teil 31/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.948
 - **Bauteile:** `w269666091_innen`
 
@@ -3398,9 +3370,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.115 – Stazione Leopolda: Innenausbau – Teil 32/33 (Y 77–77)
+### Schritt 0.114 – Stazione Leopolda: Innenausbau – Teil 32/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.095
 - **Bauteile:** `w269666091_innen`
 
@@ -3427,9 +3399,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.116 – Stazione Leopolda: Innenausbau – Teil 33/33 (Y 77–77)
+### Schritt 0.115 – Stazione Leopolda: Innenausbau – Teil 33/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.059
 - **Bauteile:** `w269666091_innen`
 

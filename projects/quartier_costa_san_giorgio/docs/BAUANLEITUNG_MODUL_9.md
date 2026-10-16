@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 12.446 |
-| Bauschritte | 7 |
-| Y-Bereich | 115 bis 164 |
+| Blöcke | 10.504 |
+| Bauschritte | 6 |
+| Y-Bereich | 115 bis 160 |
 | X-Ausdehnung | -474 bis -441 (34 Blöcke) |
 | Z-Ausdehnung | 1794 bis 1821 (28 Blöcke) |
-| Kleinster Schritt | 1.616 Blöcke (Schritt 9.4) |
-| Mittlerer Schritt | 1.778 Blöcke |
-| Größter Schritt | 1.899 Blöcke (Schritt 9.2) |
+| Kleinster Schritt | 1.672 Blöcke (Schritt 9.5) |
+| Mittlerer Schritt | 1.751 Blöcke |
+| Größter Schritt | 1.818 Blöcke (Schritt 9.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 4.401 | 35,4 % |
-| Tuffstein | `tuff` | 2.878 | 23,1 % |
-| Terrakotta | `terracotta` | 2.569 | 20,6 % |
-| Weißer Beton | `white_concrete` | 1.091 | 8,8 % |
-| Polierter Tuffstein | `polished_tuff` | 758 | 6,1 % |
-| Graues Buntglas | `gray_stained_glass` | 499 | 4,0 % |
-| Ziegelsteine | `bricks` | 77 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,5 % |
+| Orange Keramik | `orange_terracotta` | 4.401 | 41,9 % |
+| Terrakotta | `terracotta` | 2.569 | 24,5 % |
+| Weißer Beton | `white_concrete` | 1.091 | 10,4 % |
+| Tuffstein | `tuff` | 936 | 8,9 % |
+| Polierter Tuffstein | `polished_tuff` | 758 | 7,2 % |
+| Graues Buntglas | `gray_stained_glass` | 499 | 4,8 % |
+| Ziegelsteine | `bricks` | 77 | 0,7 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,6 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 21 | 0,2 % |
@@ -48,50 +48,22 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119219995` | Haus w119219995 | 10.698 | 9.1–9.6 |
-| 2 | `w119219995_innen` | Haus w119219995: Innenausbau | 1.748 | 9.7 |
+| 1 | `w119219995` | Haus w119219995 | 8.756 | 9.1–9.5 |
+| 2 | `w119219995_innen` | Haus w119219995: Innenausbau | 1.748 | 9.6 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Haus w119219995 – Teil 1/6 (Y 115–124)
+### Schritt 9.1 – Haus w119219995 – Teil 1/5 (Y 115–123)
 
-- **Y-Bereich:** 115 bis 124
-- **Blöcke:** 1.737
+- **Y-Bereich:** 115 bis 123
+- **Blöcke:** 1.694
 - **Bauteile:** `w119219995`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.737 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.2 – Haus w119219995 – Teil 2/6 (Y 125–127)
-
-- **Y-Bereich:** 125 bis 127
-- **Blöcke:** 1.899
-- **Bauteile:** `w119219995`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.141 |
+| Tuffstein | `tuff` | 936 |
 | Polierter Tuffstein | `polished_tuff` | 758 |
 
 **Beschreibung**
@@ -110,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Haus w119219995 – Teil 3/6 (Y 128–136)
+### Schritt 9.2 – Haus w119219995 – Teil 2/5 (Y 124–132)
 
-- **Y-Bereich:** 128 bis 136
+- **Y-Bereich:** 124 bis 132
 - **Blöcke:** 1.818
 - **Bauteile:** `w119219995`
 
@@ -141,19 +113,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Haus w119219995 – Teil 4/6 (Y 137–144)
+### Schritt 9.3 – Haus w119219995 – Teil 3/5 (Y 133–141)
 
-- **Y-Bereich:** 137 bis 144
-- **Blöcke:** 1.616
+- **Y-Bereich:** 133 bis 141
+- **Blöcke:** 1.802
 - **Bauteile:** `w119219995`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.123 |
-| Weißer Beton | `white_concrete` | 357 |
-| Graues Buntglas | `gray_stained_glass` | 136 |
+| Orange Keramik | `orange_terracotta` | 1.239 |
+| Weißer Beton | `white_concrete` | 393 |
+| Graues Buntglas | `gray_stained_glass` | 170 |
 
 **Beschreibung**
 
@@ -171,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Haus w119219995 – Teil 5/6 (Y 145–153)
+### Schritt 9.4 – Haus w119219995 – Teil 4/5 (Y 142–150)
 
-- **Y-Bereich:** 145 bis 153
+- **Y-Bereich:** 142 bis 150
 - **Blöcke:** 1.770
 - **Bauteile:** `w119219995`
 
@@ -201,10 +173,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Haus w119219995 – Teil 6/6 (Y 154–164)
+### Schritt 9.5 – Haus w119219995 – Teil 5/5 (Y 151–160)
 
-- **Y-Bereich:** 154 bis 164
-- **Blöcke:** 1.858
+- **Y-Bereich:** 151 bis 160
+- **Blöcke:** 1.672
 - **Bauteile:** `w119219995`
 
 **Teileliste**
@@ -212,10 +184,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 973 |
-| Orange Keramik | `orange_terracotta` | 597 |
-| Weißer Beton | `white_concrete` | 143 |
+| Orange Keramik | `orange_terracotta` | 481 |
+| Weißer Beton | `white_concrete` | 107 |
 | Ziegelsteine | `bricks` | 77 |
-| Graues Buntglas | `gray_stained_glass` | 68 |
+| Graues Buntglas | `gray_stained_glass` | 34 |
 
 **Beschreibung**
 
@@ -233,9 +205,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.7 – Haus w119219995: Innenausbau
+### Schritt 9.6 – Haus w119219995: Innenausbau
 
-- **Y-Bereich:** 127 bis 151
+- **Y-Bereich:** 123 bis 147
 - **Blöcke:** 1.748
 - **Bauteile:** `w119219995_innen`
 

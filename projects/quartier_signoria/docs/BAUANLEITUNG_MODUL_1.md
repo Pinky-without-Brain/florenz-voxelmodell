@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 55.035 |
-| Bauschritte | 35 |
-| Y-Bereich | 65 bis 106 |
+| Blöcke | 53.087 |
+| Bauschritte | 33 |
+| Y-Bereich | 64 bis 104 |
 | X-Ausdehnung | -554 bis -458 (97 Blöcke) |
 | Z-Ausdehnung | 747 bis 845 (99 Blöcke) |
-| Kleinster Schritt | 420 Blöcke (Schritt 1.1) |
-| Mittlerer Schritt | 1.572 Blöcke |
-| Größter Schritt | 2.093 Blöcke (Schritt 1.3) |
+| Kleinster Schritt | 581 Blöcke (Schritt 1.33) |
+| Mittlerer Schritt | 1.609 Blöcke |
+| Größter Schritt | 1.931 Blöcke (Schritt 1.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 19.537 | 35,5 % |
-| Rosa Keramik | `pink_terracotta` | 13.495 | 24,5 % |
-| Tuffstein | `tuff` | 7.115 | 12,9 % |
-| Polierter Tuffstein | `polished_tuff` | 5.428 | 9,9 % |
-| Glatter Stein | `smooth_stone` | 3.582 | 6,5 % |
-| Graues Buntglas | `gray_stained_glass` | 2.005 | 3,6 % |
-| Polierter Andesit | `polished_andesite` | 1.934 | 3,5 % |
+| Terrakotta | `terracotta` | 19.537 | 36,8 % |
+| Rosa Keramik | `pink_terracotta` | 13.495 | 25,4 % |
+| Polierter Tuffstein | `polished_tuff` | 5.464 | 10,3 % |
+| Tuffstein | `tuff` | 5.168 | 9,7 % |
+| Glatter Stein | `smooth_stone` | 3.582 | 6,7 % |
+| Graues Buntglas | `gray_stained_glass` | 2.005 | 3,8 % |
+| Polierter Andesit | `polished_andesite` | 1.934 | 3,6 % |
 | Ziegelsteine | `bricks` | 498 | 0,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 417 | 0,8 % |
 | Weißer Beton | `white_concrete` | 390 | 0,7 % |
@@ -35,18 +35,15 @@
 | Seelaterne | `sea_lantern` | 91 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 74 | 0,1 % |
 | Grüner Beton | `green_concrete` | 60 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 15 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 6 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
@@ -56,41 +53,32 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 60 |
 | Steintreppe | `stone_stairs` | 40 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 36 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w328478521` | Renaissance-Palazzo an Via di Capaccio | 14.339 | 1.1–1.9 |
-| 2 | `w328478521_innen` | Renaissance-Palazzo an Via di Capaccio: Innenausbau | 3.212 | 1.10–1.11 |
-| 3 | `w772990982` | Reihenhaus an Chiasso di San Biagio | 27.725 | 1.12–1.28 |
-| 4 | `w772990982_innen` | Reihenhaus an Chiasso di San Biagio: Innenausbau | 9.177 | 1.29–1.34 |
-| 5 | `w1560755450` | Biblioteca di Palagio di parte Guelfa | 576 | 1.35 |
+| 1 | `w328478521` | Renaissance-Palazzo an Via di Capaccio | 13.934 | 1.1–1.8 |
+| 2 | `w328478521_innen` | Renaissance-Palazzo an Via di Capaccio: Innenausbau | 3.212 | 1.9–1.10 |
+| 3 | `w772990982` | Reihenhaus an Chiasso di San Biagio | 26.183 | 1.11–1.26 |
+| 4 | `w772990982_innen` | Reihenhaus an Chiasso di San Biagio: Innenausbau | 9.177 | 1.27–1.32 |
+| 5 | `w1560755450` | Biblioteca di Palagio di parte Guelfa | 576 | 1.33 |
 | 6 | `w1560755450_innen` | Biblioteca di Palagio di parte Guelfa: Innenausbau | 0 | – |
-| 7 | `strassenschilder` | Straßenschilder | 6 | 1.35 |
+| 7 | `strassenschilder` | Straßenschilder | 5 | 1.33 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Renaissance-Palazzo an Via di Capaccio – Teil 1/9 (Y 65–65)
+### Schritt 1.1 – Renaissance-Palazzo an Via di Capaccio – Teil 1/8 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 420
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.853
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 405 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
+| Polierter Tuffstein | `polished_tuff` | 1.853 |
 
 **Beschreibung**
 
@@ -108,25 +96,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Renaissance-Palazzo an Via di Capaccio – Teil 2/9 (Y 66–66)
+### Schritt 1.2 – Renaissance-Palazzo an Via di Capaccio – Teil 2/8 (Y 65–70)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.838
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.572
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.823 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 12 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
+| Tuffstein | `tuff` | 1.069 |
+| Polierter Andesit | `polished_andesite` | 217 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Tuffsteinziegel | `tuff_bricks` | 130 |
+| Glatter Stein | `smooth_stone` | 24 |
 
 **Beschreibung**
 
@@ -144,21 +128,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Renaissance-Palazzo an Via di Capaccio – Teil 3/9 (Y 67–74)
+### Schritt 1.3 – Renaissance-Palazzo an Via di Capaccio – Teil 3/8 (Y 71–76)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 2.093
+- **Y-Bereich:** 71 bis 76
+- **Blöcke:** 1.783
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.408 |
-| Polierter Andesit | `polished_andesite` | 286 |
-| Graues Buntglas | `gray_stained_glass` | 220 |
-| Tuffsteinziegel | `tuff_bricks` | 147 |
-| Glatter Stein | `smooth_stone` | 32 |
+| Tuffstein | `tuff` | 1.125 |
+| Polierter Andesit | `polished_andesite` | 231 |
+| Glatter Stein | `smooth_stone` | 209 |
+| Tuffsteinziegel | `tuff_bricks` | 130 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
 
 **Beschreibung**
 
@@ -176,21 +160,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Renaissance-Palazzo an Via di Capaccio – Teil 4/9 (Y 75–80)
+### Schritt 1.4 – Renaissance-Palazzo an Via di Capaccio – Teil 4/8 (Y 77–82)
 
-- **Y-Bereich:** 75 bis 80
-- **Blöcke:** 1.878
+- **Y-Bereich:** 77 bis 82
+- **Blöcke:** 1.724
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.120 |
-| Polierter Andesit | `polished_andesite` | 343 |
-| Glatter Stein | `smooth_stone` | 210 |
-| Tuffsteinziegel | `tuff_bricks` | 157 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
+| Tuffstein | `tuff` | 938 |
+| Polierter Andesit | `polished_andesite` | 389 |
+| Graues Buntglas | `gray_stained_glass` | 240 |
+| Tuffsteinziegel | `tuff_bricks` | 130 |
+| Glatter Stein | `smooth_stone` | 27 |
 
 **Beschreibung**
 
@@ -208,21 +192,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Renaissance-Palazzo an Via di Capaccio – Teil 5/9 (Y 81–86)
+### Schritt 1.5 – Renaissance-Palazzo an Via di Capaccio – Teil 5/8 (Y 83–88)
 
-- **Y-Bereich:** 81 bis 86
-- **Blöcke:** 1.800
+- **Y-Bereich:** 83 bis 88
+- **Blöcke:** 1.894
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 970 |
-| Polierter Andesit | `polished_andesite` | 300 |
+| Tuffstein | `tuff` | 1.034 |
+| Polierter Andesit | `polished_andesite` | 512 |
 | Glatter Stein | `smooth_stone` | 225 |
-| Graues Buntglas | `gray_stained_glass` | 192 |
-| Tuffsteinziegel | `tuff_bricks` | 113 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Tuffsteinziegel | `tuff_bricks` | 27 |
 
 **Beschreibung**
 
@@ -240,10 +224,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Renaissance-Palazzo an Via di Capaccio – Teil 6/9 (Y 87–91)
+### Schritt 1.6 – Renaissance-Palazzo an Via di Capaccio – Teil 6/8 (Y 89–93)
 
-- **Y-Bereich:** 87 bis 91
-- **Blöcke:** 1.479
+- **Y-Bereich:** 89 bis 93
+- **Blöcke:** 1.702
 - **Bauteile:** `w328478521`
 
 **Teileliste**
@@ -251,9 +235,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 819 |
-| Polierter Andesit | `polished_andesite` | 491 |
+| Polierter Andesit | `polished_andesite` | 461 |
+| Glatter Stein | `smooth_stone` | 278 |
 | Graues Buntglas | `gray_stained_glass` | 144 |
-| Glatter Stein | `smooth_stone` | 25 |
 
 **Beschreibung**
 
@@ -271,48 +255,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Renaissance-Palazzo an Via di Capaccio – Teil 7/9 (Y 92–95)
+### Schritt 1.7 – Renaissance-Palazzo an Via di Capaccio – Teil 7/8 (Y 94–95)
 
-- **Y-Bereich:** 92 bis 95
-- **Blöcke:** 1.425
+- **Y-Bereich:** 94 bis 95
+- **Blöcke:** 1.475
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 668 |
-| Polierter Andesit | `polished_andesite` | 390 |
-| Glatter Stein | `smooth_stone` | 271 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.8 – Renaissance-Palazzo an Via di Capaccio – Teil 8/9 (Y 96–98)
-
-- **Y-Bereich:** 96 bis 98
-- **Blöcke:** 1.912
-- **Bauteile:** `w328478521`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.325 |
+| Terrakotta | `terracotta` | 888 |
 | Glatter Stein | `smooth_stone` | 280 |
 | Tuffstein | `tuff` | 183 |
 | Polierter Andesit | `polished_andesite` | 124 |
@@ -333,17 +286,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Renaissance-Palazzo an Via di Capaccio – Teil 9/9 (Y 99–106)
+### Schritt 1.8 – Renaissance-Palazzo an Via di Capaccio – Teil 8/8 (Y 96–104)
 
-- **Y-Bereich:** 99 bis 106
-- **Blöcke:** 1.494
+- **Y-Bereich:** 96 bis 104
+- **Blöcke:** 1.931
 - **Bauteile:** `w328478521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.289 |
+| Terrakotta | `terracotta` | 1.726 |
 | Ziegelsteine | `bricks` | 205 |
 
 **Beschreibung**
@@ -362,9 +315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Renaissance-Palazzo an Via di Capaccio: Innenausbau – Teil 1/2 (Y 66–77)
+### Schritt 1.9 – Renaissance-Palazzo an Via di Capaccio: Innenausbau – Teil 1/2 (Y 64–75)
 
-- **Y-Bereich:** 66 bis 77
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.607
 - **Bauteile:** `w328478521_innen`
 
@@ -404,9 +357,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.11 – Renaissance-Palazzo an Via di Capaccio: Innenausbau – Teil 2/2 (Y 78–87)
+### Schritt 1.10 – Renaissance-Palazzo an Via di Capaccio: Innenausbau – Teil 2/2 (Y 76–85)
 
-- **Y-Bereich:** 78 bis 87
+- **Y-Bereich:** 76 bis 85
 - **Blöcke:** 1.605
 - **Bauteile:** `w328478521_innen`
 
@@ -448,24 +401,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.12 – Reihenhaus an Chiasso di San Biagio – Teil 1/17 (Y 65–66)
+### Schritt 1.11 – Reihenhaus an Chiasso di San Biagio – Teil 1/16 (Y 65–65)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.545
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.766
 - **Bauteile:** `w772990982`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.542 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+| Polierter Tuffstein | `polished_tuff` | 1.766 |
 
 **Beschreibung**
 
@@ -483,44 +429,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Reihenhaus an Chiasso di San Biagio – Teil 2/17 (Y 67–67)
+### Schritt 1.12 – Reihenhaus an Chiasso di San Biagio – Teil 2/16 (Y 65–65)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.763
-- **Bauteile:** `w772990982`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.760 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.14 – Reihenhaus an Chiasso di San Biagio – Teil 3/17 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.827
 - **Bauteile:** `w772990982`
 
@@ -546,9 +457,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Reihenhaus an Chiasso di San Biagio – Teil 4/17 (Y 68–69)
+### Schritt 1.13 – Reihenhaus an Chiasso di San Biagio – Teil 3/16 (Y 66–67)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.148
 - **Bauteile:** `w772990982`
 
@@ -576,9 +487,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Reihenhaus an Chiasso di San Biagio – Teil 5/17 (Y 70–72)
+### Schritt 1.14 – Reihenhaus an Chiasso di San Biagio – Teil 4/16 (Y 68–70)
 
-- **Y-Bereich:** 70 bis 72
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.660
 - **Bauteile:** `w772990982`
 
@@ -607,9 +518,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Reihenhaus an Chiasso di San Biagio – Teil 6/17 (Y 73–75)
+### Schritt 1.15 – Reihenhaus an Chiasso di San Biagio – Teil 5/16 (Y 71–73)
 
-- **Y-Bereich:** 73 bis 75
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.707
 - **Bauteile:** `w772990982`
 
@@ -638,9 +549,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.18 – Reihenhaus an Chiasso di San Biagio – Teil 7/17 (Y 76–78)
+### Schritt 1.16 – Reihenhaus an Chiasso di San Biagio – Teil 6/16 (Y 74–76)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.759
 - **Bauteile:** `w772990982`
 
@@ -669,9 +580,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Reihenhaus an Chiasso di San Biagio – Teil 8/17 (Y 79–81)
+### Schritt 1.17 – Reihenhaus an Chiasso di San Biagio – Teil 7/16 (Y 77–79)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.615
 - **Bauteile:** `w772990982`
 
@@ -700,9 +611,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Reihenhaus an Chiasso di San Biagio – Teil 9/17 (Y 82–84)
+### Schritt 1.18 – Reihenhaus an Chiasso di San Biagio – Teil 8/16 (Y 80–82)
 
-- **Y-Bereich:** 82 bis 84
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.823
 - **Bauteile:** `w772990982`
 
@@ -729,9 +640,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Reihenhaus an Chiasso di San Biagio – Teil 10/17 (Y 85–87)
+### Schritt 1.19 – Reihenhaus an Chiasso di San Biagio – Teil 9/16 (Y 83–85)
 
-- **Y-Bereich:** 85 bis 87
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.590
 - **Bauteile:** `w772990982`
 
@@ -760,9 +671,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Reihenhaus an Chiasso di San Biagio – Teil 11/17 (Y 88–90)
+### Schritt 1.20 – Reihenhaus an Chiasso di San Biagio – Teil 10/16 (Y 86–88)
 
-- **Y-Bereich:** 88 bis 90
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.743
 - **Bauteile:** `w772990982`
 
@@ -790,9 +701,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Reihenhaus an Chiasso di San Biagio – Teil 12/17 (Y 91–92)
+### Schritt 1.21 – Reihenhaus an Chiasso di San Biagio – Teil 11/16 (Y 89–90)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.165
 - **Bauteile:** `w772990982`
 
@@ -821,9 +732,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Reihenhaus an Chiasso di San Biagio – Teil 13/17 (Y 93–95)
+### Schritt 1.22 – Reihenhaus an Chiasso di San Biagio – Teil 12/16 (Y 91–93)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.615
 - **Bauteile:** `w772990982`
 
@@ -852,9 +763,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Reihenhaus an Chiasso di San Biagio – Teil 14/17 (Y 96–97)
+### Schritt 1.23 – Reihenhaus an Chiasso di San Biagio – Teil 13/16 (Y 94–95)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.609
 - **Bauteile:** `w772990982`
 
@@ -881,9 +792,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Reihenhaus an Chiasso di San Biagio – Teil 15/17 (Y 98–98)
+### Schritt 1.24 – Reihenhaus an Chiasso di San Biagio – Teil 14/16 (Y 96–96)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.623
 - **Bauteile:** `w772990982`
 
@@ -909,9 +820,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.27 – Reihenhaus an Chiasso di San Biagio – Teil 16/17 (Y 99–100)
+### Schritt 1.25 – Reihenhaus an Chiasso di San Biagio – Teil 15/16 (Y 97–98)
 
-- **Y-Bereich:** 99 bis 100
+- **Y-Bereich:** 97 bis 98
 - **Blöcke:** 1.805
 - **Bauteile:** `w772990982`
 
@@ -937,9 +848,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.28 – Reihenhaus an Chiasso di San Biagio – Teil 17/17 (Y 101–106)
+### Schritt 1.26 – Reihenhaus an Chiasso di San Biagio – Teil 16/16 (Y 99–104)
 
-- **Y-Bereich:** 101 bis 106
+- **Y-Bereich:** 99 bis 104
 - **Blöcke:** 1.728
 - **Bauteile:** `w772990982`
 
@@ -966,9 +877,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.29 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 1/6 (Y 67–76)
+### Schritt 1.27 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 1/6 (Y 65–74)
 
-- **Y-Bereich:** 67 bis 76
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.552
 - **Bauteile:** `w772990982_innen`
 
@@ -1004,9 +915,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.30 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 2/6 (Y 76–76)
+### Schritt 1.28 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 2/6 (Y 74–74)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.518
 - **Bauteile:** `w772990982_innen`
 
@@ -1040,9 +951,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.31 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 3/6 (Y 77–83)
+### Schritt 1.29 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 3/6 (Y 75–81)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.531
 - **Bauteile:** `w772990982_innen`
 
@@ -1080,9 +991,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.32 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 4/6 (Y 83–83)
+### Schritt 1.30 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 4/6 (Y 81–81)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.518
 - **Bauteile:** `w772990982_innen`
 
@@ -1116,9 +1027,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.33 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 5/6 (Y 84–90)
+### Schritt 1.31 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 5/6 (Y 82–88)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 82 bis 88
 - **Blöcke:** 1.531
 - **Bauteile:** `w772990982_innen`
 
@@ -1158,9 +1069,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.34 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 6/6 (Y 90–91)
+### Schritt 1.32 – Reihenhaus an Chiasso di San Biagio: Innenausbau – Teil 6/6 (Y 88–89)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.527
 - **Bauteile:** `w772990982_innen`
 
@@ -1198,10 +1109,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.35 – Biblioteca di Palagio di parte Guelfa & Straßenschilder
+### Schritt 1.33 – Biblioteca di Palagio di parte Guelfa & Straßenschilder
 
 - **Y-Bereich:** 66 bis 97
-- **Blöcke:** 582
+- **Blöcke:** 581
 - **Bauteile:** `w1560755450`, `strassenschilder`
 
 **Teileliste**
@@ -1213,7 +1124,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Grüner Beton | `green_concrete` | 60 |
 | Polierter Tuffstein | `polished_tuff` | 18 |
 | Terrakotta | `terracotta` | 18 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 

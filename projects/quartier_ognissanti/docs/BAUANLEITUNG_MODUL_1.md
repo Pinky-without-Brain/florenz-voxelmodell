@@ -8,80 +8,79 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 47.411 |
-| Bauschritte | 27 |
-| Y-Bereich | 57 bis 96 |
+| Blöcke | 44.666 |
+| Bauschritte | 25 |
+| Y-Bereich | 56 bis 94 |
 | X-Ausdehnung | -2330 bis -2231 (100 Blöcke) |
 | Z-Ausdehnung | -139 bis -40 (100 Blöcke) |
-| Kleinster Schritt | 953 Blöcke (Schritt 1.1) |
-| Mittlerer Schritt | 1.756 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 1.27) |
+| Kleinster Schritt | 1.021 Blöcke (Schritt 1.9) |
+| Mittlerer Schritt | 1.787 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 1.25) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 15.160 | 32,0 % |
-| Terrakotta | `terracotta` | 12.558 | 26,5 % |
-| Weißer Beton | `white_concrete` | 5.882 | 12,4 % |
-| Polierter Tuffstein | `polished_tuff` | 3.846 | 8,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 3.352 | 7,1 % |
-| Tuffstein | `tuff` | 2.577 | 5,4 % |
-| Polierter Andesit | `polished_andesite` | 1.083 | 2,3 % |
-| Graues Buntglas | `gray_stained_glass` | 1.027 | 2,2 % |
+| Orange Keramik | `orange_terracotta` | 15.096 | 33,8 % |
+| Terrakotta | `terracotta` | 12.554 | 28,1 % |
+| Weißer Beton | `white_concrete` | 5.836 | 13,1 % |
+| Polierter Tuffstein | `polished_tuff` | 3.848 | 8,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 3.286 | 7,4 % |
+| Polierter Andesit | `polished_andesite` | 1.083 | 2,4 % |
+| Graues Buntglas | `gray_stained_glass` | 1.027 | 2,3 % |
 | Glatter Stein | `smooth_stone` | 455 | 1,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 333 | 0,7 % |
 | Grüner Beton | `green_concrete` | 326 | 0,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 257 | 0,5 % |
-| Ziegelsteine | `bricks` | 212 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 259 | 0,6 % |
+| Ziegelsteine | `bricks` | 212 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 96 | 0,2 % |
+| Seelaterne | `sea_lantern` | 89 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 88 | 0,2 % |
-| Seelaterne | `sea_lantern` | 83 | 0,2 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 12 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 8 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 8 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 186 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 190 |
 | Steintreppe | `stone_stairs` | 40 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1617713` | Reihenhaus an Via Montebello | 16.534 | 1.1–1.10 |
-| 2 | `r1617713_innen` | Reihenhaus an Via Montebello: Innenausbau | 2.824 | 1.11–1.12 |
-| 3 | `w477556285` | Reihenhaus an Via Montebello | 7.843 | 1.13–1.16 |
-| 4 | `w477556285_innen` | Reihenhaus an Via Montebello: Innenausbau | 2.007 | 1.17 |
-| 5 | `w477556288` | Reihenhaus an Via Montebello | 5.381 | 1.18–1.20 |
-| 6 | `w477556288_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.384 | 1.21 |
-| 7 | `w477556289` | Palazzo des Cinquecento an Via Curtatone | 9.349 | 1.22–1.26 |
-| 8 | `w477556289_innen` | Palazzo des Cinquecento an Via Curtatone: Innenausbau | 2.087 | 1.27 |
-| 9 | `strassenschilder` | Straßenschilder | 2 | 1.27 |
+| 1 | `r1617713` | Reihenhaus an Via Montebello | 14.374 | 1.1–1.8 |
+| 2 | `r1617713_innen` | Reihenhaus an Via Montebello: Innenausbau | 2.824 | 1.9–1.10 |
+| 3 | `w477556285` | Reihenhaus an Via Montebello | 7.779 | 1.11–1.14 |
+| 4 | `w477556285_innen` | Reihenhaus an Via Montebello: Innenausbau | 2.011 | 1.15 |
+| 5 | `w477556288` | Reihenhaus an Via Montebello | 4.898 | 1.16–1.18 |
+| 6 | `w477556288_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.384 | 1.19 |
+| 7 | `w477556289` | Palazzo des Cinquecento an Via Curtatone | 9.301 | 1.20–1.24 |
+| 8 | `w477556289_innen` | Palazzo des Cinquecento an Via Curtatone: Innenausbau | 2.093 | 1.25 |
+| 9 | `strassenschilder` | Straßenschilder | 2 | 1.25 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Reihenhaus an Via Montebello – Teil 1/10 (Y 57–57)
+### Schritt 1.1 – Reihenhaus an Via Montebello – Teil 1/8 (Y 56–57)
 
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 953
+- **Y-Bereich:** 56 bis 57
+- **Blöcke:** 1.647
 - **Bauteile:** `r1617713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 953 |
+| Polierter Tuffstein | `polished_tuff` | 1.261 |
+| Orange Keramik | `orange_terracotta` | 382 |
+| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -99,93 +98,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Reihenhaus an Via Montebello – Teil 2/10 (Y 58–58)
+### Schritt 1.2 – Reihenhaus an Via Montebello – Teil 2/8 (Y 58–62)
 
-- **Y-Bereich:** 58 bis 58
-- **Blöcke:** 1.209
+- **Y-Bereich:** 58 bis 62
+- **Blöcke:** 1.909
 - **Bauteile:** `r1617713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.207 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.3 – Reihenhaus an Via Montebello – Teil 3/10 (Y 59–61)
-
-- **Y-Bereich:** 59 bis 61
-- **Blöcke:** 2.031
-- **Bauteile:** `r1617713`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.257 |
-| Orange Keramik | `orange_terracotta` | 764 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.4 – Reihenhaus an Via Montebello – Teil 4/10 (Y 62–66)
-
-- **Y-Bereich:** 62 bis 66
-- **Blöcke:** 1.915
-- **Bauteile:** `r1617713`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.630 |
-| Weißer Beton | `white_concrete` | 181 |
+| Orange Keramik | `orange_terracotta` | 1.670 |
+| Weißer Beton | `white_concrete` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 21 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
@@ -203,19 +130,50 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Reihenhaus an Via Montebello – Teil 5/10 (Y 67–71)
+### Schritt 1.3 – Reihenhaus an Via Montebello – Teil 3/8 (Y 63–67)
 
-- **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.934
+- **Y-Bereich:** 63 bis 67
+- **Blöcke:** 1.947
 - **Bauteile:** `r1617713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.748 |
-| Weißer Beton | `white_concrete` | 118 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
+| Orange Keramik | `orange_terracotta` | 1.776 |
+| Weißer Beton | `white_concrete` | 137 |
+| Graues Buntglas | `gray_stained_glass` | 25 |
+| Grüner Beton | `green_concrete` | 9 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.4 – Reihenhaus an Via Montebello – Teil 4/8 (Y 68–71)
+
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 1.530
+- **Bauteile:** `r1617713`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.290 |
+| Weißer Beton | `white_concrete` | 151 |
+| Graues Buntglas | `gray_stained_glass` | 71 |
 | Grüner Beton | `green_concrete` | 18 |
 
 **Beschreibung**
@@ -234,9 +192,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Reihenhaus an Via Montebello – Teil 6/10 (Y 72–76)
+### Schritt 1.5 – Reihenhaus an Via Montebello – Teil 5/8 (Y 72–76)
 
 - **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.921
+- **Bauteile:** `r1617713`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.670 |
+| Weißer Beton | `white_concrete` | 149 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
+| Grüner Beton | `green_concrete` | 27 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.6 – Reihenhaus an Via Montebello – Teil 6/8 (Y 77–81)
+
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.935
 - **Bauteile:** `r1617713`
 
@@ -265,79 +254,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Reihenhaus an Via Montebello – Teil 7/10 (Y 77–80)
+### Schritt 1.7 – Reihenhaus an Via Montebello – Teil 7/8 (Y 82–85)
 
-- **Y-Bereich:** 77 bis 80
-- **Blöcke:** 1.517
+- **Y-Bereich:** 82 bis 85
+- **Blöcke:** 1.530
 - **Bauteile:** `r1617713`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.266 |
-| Weißer Beton | `white_concrete` | 128 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Grüner Beton | `green_concrete` | 27 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.8 – Reihenhaus an Via Montebello – Teil 8/10 (Y 81–84)
-
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.555
-- **Bauteile:** `r1617713`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.380 |
-| Weißer Beton | `white_concrete` | 141 |
-| Graues Buntglas | `gray_stained_glass` | 25 |
-| Grüner Beton | `green_concrete` | 9 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.9 – Reihenhaus an Via Montebello – Teil 9/10 (Y 85–89)
-
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.922
-- **Bauteile:** `r1617713`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.682 |
+| Orange Keramik | `orange_terracotta` | 1.290 |
 | Weißer Beton | `white_concrete` | 151 |
 | Graues Buntglas | `gray_stained_glass` | 71 |
 | Grüner Beton | `green_concrete` | 18 |
@@ -358,10 +285,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Reihenhaus an Via Montebello – Teil 10/10 (Y 90–96)
+### Schritt 1.8 – Reihenhaus an Via Montebello – Teil 8/8 (Y 86–93)
 
-- **Y-Bereich:** 90 bis 96
-- **Blöcke:** 1.563
+- **Y-Bereich:** 86 bis 93
+- **Blöcke:** 1.955
 - **Bauteile:** `r1617713`
 
 **Teileliste**
@@ -369,6 +296,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.506 |
+| Orange Keramik | `orange_terracotta` | 392 |
 | Ziegelsteine | `bricks` | 57 |
 
 **Beschreibung**
@@ -387,9 +315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Reihenhaus an Via Montebello: Innenausbau – Teil 1/2 (Y 59–74)
+### Schritt 1.9 – Reihenhaus an Via Montebello: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 59 bis 74
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 1.021
 - **Bauteile:** `r1617713_innen`
 
@@ -427,9 +355,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.12 – Reihenhaus an Via Montebello: Innenausbau – Teil 2/2 (Y 75–83)
+### Schritt 1.10 – Reihenhaus an Via Montebello: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.803
 - **Bauteile:** `r1617713_innen`
 
@@ -469,17 +397,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.13 – Reihenhaus an Via Montebello – Teil 1/4 (Y 57–63)
+### Schritt 1.11 – Reihenhaus an Via Montebello – Teil 1/4 (Y 56–62)
 
-- **Y-Bereich:** 57 bis 63
-- **Blöcke:** 1.969
+- **Y-Bereich:** 56 bis 62
+- **Blöcke:** 1.905
 - **Bauteile:** `w477556285`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 929 |
+| Orange Keramik | `orange_terracotta` | 865 |
 | Polierter Tuffstein | `polished_tuff` | 827 |
 | Graues Buntglas | `gray_stained_glass` | 109 |
 | Glatter Stein | `smooth_stone` | 72 |
@@ -501,9 +429,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Reihenhaus an Via Montebello – Teil 2/4 (Y 64–73)
+### Schritt 1.12 – Reihenhaus an Via Montebello – Teil 2/4 (Y 63–72)
 
-- **Y-Bereich:** 64 bis 73
+- **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.888
 - **Bauteile:** `w477556285`
 
@@ -532,9 +460,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Reihenhaus an Via Montebello – Teil 3/4 (Y 74–84)
+### Schritt 1.13 – Reihenhaus an Via Montebello – Teil 3/4 (Y 73–83)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 73 bis 83
 - **Blöcke:** 2.043
 - **Bauteile:** `w477556285`
 
@@ -562,9 +490,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Reihenhaus an Via Montebello – Teil 4/4 (Y 85–94)
+### Schritt 1.14 – Reihenhaus an Via Montebello – Teil 4/4 (Y 84–93)
 
-- **Y-Bereich:** 85 bis 94
+- **Y-Bereich:** 84 bis 93
 - **Blöcke:** 1.943
 - **Bauteile:** `w477556285`
 
@@ -595,10 +523,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 1.15 – Reihenhaus an Via Montebello: Innenausbau
 
-- **Y-Bereich:** 57 bis 81
-- **Blöcke:** 2.007
+- **Y-Bereich:** 56 bis 80
+- **Blöcke:** 2.011
 - **Bauteile:** `w477556285_innen`
 
 **Teileliste**
@@ -606,18 +534,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.875 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -635,20 +565,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.18 – Reihenhaus an Via Montebello – Teil 1/3 (Y 57–64)
+### Schritt 1.16 – Reihenhaus an Via Montebello – Teil 1/3 (Y 56–65)
 
-- **Y-Bereich:** 57 bis 64
-- **Blöcke:** 1.745
+- **Y-Bereich:** 56 bis 65
+- **Blöcke:** 1.637
 - **Bauteile:** `w477556288`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 721 |
+| Gelbe Keramik | `yellow_terracotta` | 1.016 |
 | Polierter Tuffstein | `polished_tuff` | 551 |
-| Tuffstein | `tuff` | 417 |
-| Weißer Beton | `white_concrete` | 44 |
+| Weißer Beton | `white_concrete` | 58 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
@@ -668,18 +597,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Reihenhaus an Via Montebello – Teil 2/3 (Y 65–79)
+### Schritt 1.17 – Reihenhaus an Via Montebello – Teil 2/3 (Y 66–78)
 
-- **Y-Bereich:** 65 bis 79
-- **Blöcke:** 1.863
+- **Y-Bereich:** 66 bis 78
+- **Blöcke:** 1.613
 - **Bauteile:** `w477556288`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.640 |
-| Weißer Beton | `white_concrete` | 187 |
+| Gelbe Keramik | `yellow_terracotta` | 1.375 |
+| Weißer Beton | `white_concrete` | 202 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 
 **Beschreibung**
@@ -698,19 +627,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Reihenhaus an Via Montebello – Teil 3/3 (Y 80–93)
+### Schritt 1.18 – Reihenhaus an Via Montebello – Teil 3/3 (Y 79–91)
 
-- **Y-Bereich:** 80 bis 93
-- **Blöcke:** 1.773
+- **Y-Bereich:** 79 bis 91
+- **Blöcke:** 1.648
 - **Bauteile:** `w477556288`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 991 |
+| Gelbe Keramik | `yellow_terracotta` | 895 |
 | Terrakotta | `terracotta` | 637 |
-| Weißer Beton | `white_concrete` | 118 |
+| Weißer Beton | `white_concrete` | 89 |
 | Ziegelsteine | `bricks` | 15 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 
@@ -730,9 +659,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 1.19 – Reihenhaus an Via Montebello: Innenausbau
 
-- **Y-Bereich:** 58 bis 81
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 1.384
 - **Bauteile:** `w477556288_innen`
 
@@ -768,18 +697,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.22 – Palazzo des Cinquecento an Via Curtatone – Teil 1/5 (Y 57–60)
+### Schritt 1.20 – Palazzo des Cinquecento an Via Curtatone – Teil 1/5 (Y 56–59)
 
-- **Y-Bereich:** 57 bis 60
-- **Blöcke:** 1.887
+- **Y-Bereich:** 56 bis 59
+- **Blöcke:** 1.839
 - **Bauteile:** `w477556289`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.211 |
-| Weißer Beton | `white_concrete` | 578 |
+| Polierter Tuffstein | `polished_tuff` | 1.209 |
+| Weißer Beton | `white_concrete` | 532 |
 | Polierter Andesit | `polished_andesite` | 93 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
@@ -799,9 +728,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Palazzo des Cinquecento an Via Curtatone – Teil 2/5 (Y 61–69)
+### Schritt 1.21 – Palazzo des Cinquecento an Via Curtatone – Teil 2/5 (Y 60–68)
 
-- **Y-Bereich:** 61 bis 69
+- **Y-Bereich:** 60 bis 68
 - **Blöcke:** 1.886
 - **Bauteile:** `w477556289`
 
@@ -831,9 +760,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Palazzo des Cinquecento an Via Curtatone – Teil 3/5 (Y 70–78)
+### Schritt 1.22 – Palazzo des Cinquecento an Via Curtatone – Teil 3/5 (Y 69–77)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.851
 - **Bauteile:** `w477556289`
 
@@ -862,9 +791,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Palazzo des Cinquecento an Via Curtatone – Teil 4/5 (Y 79–86)
+### Schritt 1.23 – Palazzo des Cinquecento an Via Curtatone – Teil 4/5 (Y 78–85)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.699
 - **Bauteile:** `w477556289`
 
@@ -893,9 +822,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.26 – Palazzo des Cinquecento an Via Curtatone – Teil 5/5 (Y 87–95)
+### Schritt 1.24 – Palazzo des Cinquecento an Via Curtatone – Teil 5/5 (Y 86–94)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 2.026
 - **Bauteile:** `w477556289`
 
@@ -925,22 +854,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.27 – Palazzo des Cinquecento an Via Curtatone: Innenausbau & Straßenschilder
+### Schritt 1.25 – Palazzo des Cinquecento an Via Curtatone: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 57 bis 77
-- **Blöcke:** 2.089
+- **Y-Bereich:** 56 bis 77
+- **Blöcke:** 2.095
 - **Bauteile:** `w477556289_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.980 |
+| Terrakotta | `terracotta` | 1.976 |
 | Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
-| Seelaterne | `sea_lantern` | 15 |
+| Seelaterne | `sea_lantern` | 21 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 

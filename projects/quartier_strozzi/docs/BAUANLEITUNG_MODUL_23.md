@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.641 |
+| Blöcke | 50.663 |
 | Bauschritte | 32 |
 | Y-Bereich | 66 bis 117 |
 | X-Ausdehnung | -336 bis -261 (76 Blöcke) |
 | Z-Ausdehnung | 269 bis 355 (87 Blöcke) |
-| Kleinster Schritt | 737 Blöcke (Schritt 23.32) |
+| Kleinster Schritt | 741 Blöcke (Schritt 23.32) |
 | Mittlerer Schritt | 1.583 Blöcke |
 | Größter Schritt | 2.083 Blöcke (Schritt 23.21) |
 
@@ -24,13 +24,13 @@
 | Terrakotta | `terracotta` | 15.330 | 30,3 % |
 | Endsteinziegel | `end_stone_bricks` | 9.076 | 17,9 % |
 | Glatter Sandstein | `smooth_sandstone` | 6.810 | 13,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 4.865 | 9,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.895 | 9,7 % |
 | Polierter Tuffstein | `polished_tuff` | 4.131 | 8,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.878 | 7,7 % |
 | Glatter Stein | `smooth_stone` | 1.946 | 3,8 % |
 | Weißer Beton | `white_concrete` | 1.339 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.042 | 2,1 % |
-| Tuffstein | `tuff` | 540 | 1,1 % |
+| Tuffstein | `tuff` | 528 | 1,0 % |
 | Ziegelsteine | `bricks` | 297 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 287 | 0,6 % |
 | Polierter Andesit | `polished_andesite` | 278 | 0,5 % |
@@ -45,6 +45,8 @@
 | Weiße Keramik | `white_terracotta` | 47 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 46 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 46 | 0,1 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -63,10 +65,11 @@
 | 4 | `w491923431_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 1.345 | 23.18 |
 | 5 | `w491923435` | Reihenhaus an Via dei Calzaiuoli | 6.191 | 23.19–23.21 |
 | 6 | `w491923435_innen` | Reihenhaus an Via dei Calzaiuoli: Innenausbau | 2.548 | 23.22–23.23 |
-| 7 | `w491923444` | Palazzo des Cinquecento an Via dei Medici | 9.650 | 23.24–23.29 |
+| 7 | `w491923444` | Palazzo des Cinquecento an Via dei Medici | 9.668 | 23.24–23.29 |
 | 8 | `w491923444_innen` | Palazzo des Cinquecento an Via dei Medici: Innenausbau | 2.041 | 23.30 |
 | 9 | `w491923449` | Wohnturm an Via dei Calzaiuoli | 1.045 | 23.31 |
 | 10 | `w491923449_innen` | Wohnturm an Via dei Calzaiuoli: Innenausbau | 737 | 23.32 |
+| 11 | `strassenschilder` | Straßenschilder | 4 | 23.32 |
 
 ## Bauschritte
 
@@ -853,10 +856,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.24 – Palazzo des Cinquecento an Via dei Medici – Teil 1/6 (Y 66–69)
+### Schritt 23.24 – Palazzo des Cinquecento an Via dei Medici – Teil 1/6 (Y 66–68)
 
-- **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.626
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.644
 - **Bauteile:** `w491923444`
 
 **Teileliste**
@@ -864,8 +867,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.188 |
-| Hellgrauer Beton | `light_gray_concrete` | 414 |
-| Tuffstein | `tuff` | 12 |
+| Hellgrauer Beton | `light_gray_concrete` | 444 |
 | Polierter Andesit | `polished_andesite` | 6 |
 | Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
@@ -886,21 +888,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.25 – Palazzo des Cinquecento an Via dei Medici – Teil 2/6 (Y 70–77)
+### Schritt 23.25 – Palazzo des Cinquecento an Via dei Medici – Teil 2/6 (Y 69–75)
 
-- **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.692
+- **Y-Bereich:** 69 bis 75
+- **Blöcke:** 1.467
 - **Bauteile:** `w491923444`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.233 |
-| Glatter Stein | `smooth_stone` | 310 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.107 |
+| Glatter Stein | `smooth_stone` | 218 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
-| Polierter Andesit | `polished_andesite` | 49 |
-| Tuffsteinziegel | `tuff_bricks` | 12 |
+| Polierter Andesit | `polished_andesite` | 46 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
 
@@ -918,20 +920,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.26 – Palazzo des Cinquecento an Via dei Medici – Teil 3/6 (Y 78–84)
+### Schritt 23.26 – Palazzo des Cinquecento an Via dei Medici – Teil 3/6 (Y 76–83)
 
-- **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.471
+- **Y-Bereich:** 76 bis 83
+- **Blöcke:** 1.696
 - **Bauteile:** `w491923444`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.118 |
-| Glatter Stein | `smooth_stone` | 208 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.244 |
+| Glatter Stein | `smooth_stone` | 300 |
 | Graues Buntglas | `gray_stained_glass` | 130 |
-| Polierter Andesit | `polished_andesite` | 15 |
+| Polierter Andesit | `polished_andesite` | 18 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -949,9 +952,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.27 – Palazzo des Cinquecento an Via dei Medici – Teil 4/6 (Y 85–91)
+### Schritt 23.27 – Palazzo des Cinquecento an Via dei Medici – Teil 4/6 (Y 84–90)
 
-- **Y-Bereich:** 85 bis 91
+- **Y-Bereich:** 84 bis 90
 - **Blöcke:** 1.549
 - **Bauteile:** `w491923444`
 
@@ -980,9 +983,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.28 – Palazzo des Cinquecento an Via dei Medici – Teil 5/6 (Y 92–97)
+### Schritt 23.28 – Palazzo des Cinquecento an Via dei Medici – Teil 5/6 (Y 91–96)
 
-- **Y-Bereich:** 92 bis 97
+- **Y-Bereich:** 91 bis 96
 - **Blöcke:** 1.503
 - **Bauteile:** `w491923444`
 
@@ -1012,9 +1015,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.29 – Palazzo des Cinquecento an Via dei Medici – Teil 6/6 (Y 98–104)
+### Schritt 23.29 – Palazzo des Cinquecento an Via dei Medici – Teil 6/6 (Y 97–103)
 
-- **Y-Bereich:** 98 bis 104
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.809
 - **Bauteile:** `w491923444`
 
@@ -1043,7 +1046,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 23.30 – Palazzo des Cinquecento an Via dei Medici: Innenausbau
 
-- **Y-Bereich:** 67 bis 88
+- **Y-Bereich:** 66 bis 87
 - **Blöcke:** 2.041
 - **Bauteile:** `w491923444_innen`
 
@@ -1121,11 +1124,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.32 – Wohnturm an Via dei Calzaiuoli: Innenausbau
+### Schritt 23.32 – Wohnturm an Via dei Calzaiuoli: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 67 bis 98
-- **Blöcke:** 737
-- **Bauteile:** `w491923449_innen`
+- **Blöcke:** 741
+- **Bauteile:** `w491923449_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1138,8 +1141,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 8 |
 | Weiße Keramik | `white_terracotta` | 8 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1149,16 +1154,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

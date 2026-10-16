@@ -8,40 +8,39 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 1.228 |
+| Blöcke | 1.200 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 62 bis 93 |
 | X-Ausdehnung | -2971 bis -2962 (10 Blöcke) |
 | Z-Ausdehnung | 1547 bis 1555 (9 Blöcke) |
-| Kleinster Schritt | 1.228 Blöcke (Schritt 6.1) |
-| Mittlerer Schritt | 1.228 Blöcke |
-| Größter Schritt | 1.228 Blöcke (Schritt 6.1) |
+| Kleinster Schritt | 1.200 Blöcke (Schritt 6.1) |
+| Mittlerer Schritt | 1.200 Blöcke |
+| Größter Schritt | 1.200 Blöcke (Schritt 6.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 884 | 72,0 % |
-| Weißer Beton | `white_concrete` | 150 | 12,2 % |
-| Graues Buntglas | `gray_stained_glass` | 78 | 6,4 % |
-| Terrakotta | `terracotta` | 44 | 3,6 % |
-| Polierter Tuffstein | `polished_tuff` | 43 | 3,5 % |
-| Tuffstein | `tuff` | 28 | 2,3 % |
+| Endsteinziegel | `end_stone_bricks` | 884 | 73,7 % |
+| Weißer Beton | `white_concrete` | 150 | 12,5 % |
+| Graues Buntglas | `gray_stained_glass` | 78 | 6,5 % |
+| Terrakotta | `terracotta` | 44 | 3,7 % |
+| Polierter Tuffstein | `polished_tuff` | 43 | 3,6 % |
 | Seelaterne | `sea_lantern` | 1 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464120135` | Haus w464120135 | 1.227 | 6.1 |
+| 1 | `w464120135` | Haus w464120135 | 1.199 | 6.1 |
 | 2 | `w464120135_innen` | Haus w464120135: Innenausbau | 1 | 6.1 |
 
 ## Bauschritte
 
 ### Schritt 6.1 – Haus w464120135 & Haus w464120135: Innenausbau
 
-- **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.228
+- **Y-Bereich:** 62 bis 93
+- **Blöcke:** 1.200
 - **Bauteile:** `w464120135`, `w464120135_innen`
 
 **Teileliste**
@@ -53,7 +52,6 @@
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Terrakotta | `terracotta` | 44 |
 | Polierter Tuffstein | `polished_tuff` | 43 |
-| Tuffstein | `tuff` | 28 |
 | Seelaterne | `sea_lantern` | 1 |
 
 **Beschreibung**

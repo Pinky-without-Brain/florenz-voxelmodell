@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.839 |
+| Blöcke | 65.785 |
 | Bauschritte | 43 |
-| Y-Bereich | 55 bis 93 |
+| Y-Bereich | 55 bis 92 |
 | X-Ausdehnung | -2416 bis -2280 (137 Blöcke) |
 | Z-Ausdehnung | 716 bis 801 (86 Blöcke) |
 | Kleinster Schritt | 853 Blöcke (Schritt 12.17) |
-| Mittlerer Schritt | 1.531 Blöcke |
+| Mittlerer Schritt | 1.530 Blöcke |
 | Größter Schritt | 2.050 Blöcke (Schritt 12.24) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 20.352 | 30,9 % |
+| Terrakotta | `terracotta` | 20.355 | 30,9 % |
 | Endsteinziegel | `end_stone_bricks` | 9.479 | 14,4 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.858 | 11,9 % |
-| Polierter Tuffstein | `polished_tuff` | 6.043 | 9,2 % |
+| Polierter Tuffstein | `polished_tuff` | 6.044 | 9,2 % |
 | Weißer Beton | `white_concrete` | 5.917 | 9,0 % |
 | Rosa Keramik | `pink_terracotta` | 4.370 | 6,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 3.242 | 4,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.186 | 4,8 % |
 | Orange Keramik | `orange_terracotta` | 2.418 | 3,7 % |
 | Graues Buntglas | `gray_stained_glass` | 1.370 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 1.359 | 2,1 % |
@@ -35,17 +35,19 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 584 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 402 | 0,6 % |
 | Ziegelsteine | `bricks` | 357 | 0,5 % |
-| Seelaterne | `sea_lantern` | 133 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 121 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 115 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 113 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 107 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 144 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 134 | 0,2 % |
+| Seelaterne | `sea_lantern` | 129 | 0,2 % |
 | Grüner Beton | `green_concrete` | 96 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 92 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 86 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 84 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 84 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -68,8 +70,8 @@
 | 8 | `w478717940_innen` | Palazzo des Cinquecento an Piazza dei Nerli: Innenausbau | 921 | 12.22 |
 | 9 | `w478717943` | Reihenhaus an Borgo San Frediano | 5.913 | 12.23–12.25 |
 | 10 | `w478717943_innen` | Reihenhaus an Borgo San Frediano: Innenausbau | 1.304 | 12.26 |
-| 11 | `w478717944` | Reihenhaus an Via dei Cardatori | 3.322 | 12.27–12.28 |
-| 12 | `w478717944_innen` | Reihenhaus an Via dei Cardatori: Innenausbau | 1.320 | 12.29 |
+| 11 | `w478717944` | Reihenhaus an Via dei Cardatori | 3.267 | 12.27–12.28 |
+| 12 | `w478717944_innen` | Reihenhaus an Via dei Cardatori: Innenausbau | 1.319 | 12.29 |
 | 13 | `w478717948` | Reihenhaus an Borgo San Frediano | 2.269 | 12.30–12.31 |
 | 14 | `w478717948_innen` | Reihenhaus an Borgo San Frediano: Innenausbau | 1.460 | 12.32 |
 | 15 | `w478717949` | Reihenhaus an Via del Drago d'Oro | 7.316 | 12.33–12.36 |
@@ -78,12 +80,13 @@
 | 18 | `w478717951_innen` | Reihenhaus an Piazza dei Nerli: Innenausbau | 919 | 12.40 |
 | 19 | `w478717952` | Reihenhaus an Borgo San Frediano | 2.539 | 12.41–12.42 |
 | 20 | `w478717952_innen` | Reihenhaus an Borgo San Frediano: Innenausbau | 1.233 | 12.43 |
+| 21 | `strassenschilder` | Straßenschilder | 2 | 12.43 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Reihenhaus an Via dei Cardatori – Teil 1/7 (Y 56–57)
+### Schritt 12.1 – Reihenhaus an Via dei Cardatori – Teil 1/7 (Y 55–56)
 
-- **Y-Bereich:** 56 bis 57
+- **Y-Bereich:** 55 bis 56
 - **Blöcke:** 1.699
 - **Bauteile:** `r7037354`
 
@@ -111,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Reihenhaus an Via dei Cardatori – Teil 2/7 (Y 58–63)
+### Schritt 12.2 – Reihenhaus an Via dei Cardatori – Teil 2/7 (Y 57–62)
 
-- **Y-Bereich:** 58 bis 63
+- **Y-Bereich:** 57 bis 62
 - **Blöcke:** 1.773
 - **Bauteile:** `r7037354`
 
@@ -143,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Reihenhaus an Via dei Cardatori – Teil 3/7 (Y 64–69)
+### Schritt 12.3 – Reihenhaus an Via dei Cardatori – Teil 3/7 (Y 63–68)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.818
 - **Bauteile:** `r7037354`
 
@@ -174,9 +177,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Reihenhaus an Via dei Cardatori – Teil 4/7 (Y 70–75)
+### Schritt 12.4 – Reihenhaus an Via dei Cardatori – Teil 4/7 (Y 69–74)
 
-- **Y-Bereich:** 70 bis 75
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.836
 - **Bauteile:** `r7037354`
 
@@ -204,9 +207,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.5 – Reihenhaus an Via dei Cardatori – Teil 5/7 (Y 76–81)
+### Schritt 12.5 – Reihenhaus an Via dei Cardatori – Teil 5/7 (Y 75–80)
 
-- **Y-Bereich:** 76 bis 81
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.836
 - **Bauteile:** `r7037354`
 
@@ -234,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Reihenhaus an Via dei Cardatori – Teil 6/7 (Y 82–86)
+### Schritt 12.6 – Reihenhaus an Via dei Cardatori – Teil 6/7 (Y 81–85)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.524
 - **Bauteile:** `r7037354`
 
@@ -264,9 +267,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Reihenhaus an Via dei Cardatori – Teil 7/7 (Y 87–93)
+### Schritt 12.7 – Reihenhaus an Via dei Cardatori – Teil 7/7 (Y 86–92)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.867
 - **Bauteile:** `r7037354`
 
@@ -293,9 +296,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.8 – Reihenhaus an Via dei Cardatori: Innenausbau – Teil 1/3 (Y 56–65)
+### Schritt 12.8 – Reihenhaus an Via dei Cardatori: Innenausbau – Teil 1/3 (Y 55–64)
 
-- **Y-Bereich:** 56 bis 65
+- **Y-Bereich:** 55 bis 64
 - **Blöcke:** 1.130
 - **Bauteile:** `r7037354_innen`
 
@@ -331,9 +334,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.9 – Reihenhaus an Via dei Cardatori: Innenausbau – Teil 2/3 (Y 66–72)
+### Schritt 12.9 – Reihenhaus an Via dei Cardatori: Innenausbau – Teil 2/3 (Y 65–71)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.125
 - **Bauteile:** `r7037354_innen`
 
@@ -371,9 +374,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.10 – Reihenhaus an Via dei Cardatori: Innenausbau – Teil 3/3 (Y 73–80)
+### Schritt 12.10 – Reihenhaus an Via dei Cardatori: Innenausbau – Teil 3/3 (Y 72–79)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.134
 - **Bauteile:** `r7037354_innen`
 
@@ -411,9 +414,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.11 – Reihenhaus an Via dei Cardatori – Teil 1/3 (Y 56–66)
+### Schritt 12.11 – Reihenhaus an Via dei Cardatori – Teil 1/3 (Y 55–65)
 
-- **Y-Bereich:** 56 bis 66
+- **Y-Bereich:** 55 bis 65
 - **Blöcke:** 2.022
 - **Bauteile:** `w442923935`
 
@@ -443,9 +446,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.12 – Reihenhaus an Via dei Cardatori – Teil 2/3 (Y 67–78)
+### Schritt 12.12 – Reihenhaus an Via dei Cardatori – Teil 2/3 (Y 66–77)
 
-- **Y-Bereich:** 67 bis 78
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.886
 - **Bauteile:** `w442923935`
 
@@ -473,9 +476,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.13 – Reihenhaus an Via dei Cardatori – Teil 3/3 (Y 79–91)
+### Schritt 12.13 – Reihenhaus an Via dei Cardatori – Teil 3/3 (Y 78–90)
 
-- **Y-Bereich:** 79 bis 91
+- **Y-Bereich:** 78 bis 90
 - **Blöcke:** 1.947
 - **Bauteile:** `w442923935`
 
@@ -508,7 +511,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.14 – Reihenhaus an Via dei Cardatori: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 55 bis 79
 - **Blöcke:** 1.103
 - **Bauteile:** `w442923935_innen`
 
@@ -548,9 +551,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.15 – Reihenhaus an Via dei Cardatori – Teil 1/2 (Y 56–73)
+### Schritt 12.15 – Reihenhaus an Via dei Cardatori – Teil 1/2 (Y 55–72)
 
-- **Y-Bereich:** 56 bis 73
+- **Y-Bereich:** 55 bis 72
 - **Blöcke:** 1.143
 - **Bauteile:** `w478717936`
 
@@ -579,9 +582,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.16 – Reihenhaus an Via dei Cardatori – Teil 2/2 (Y 74–91)
+### Schritt 12.16 – Reihenhaus an Via dei Cardatori – Teil 2/2 (Y 73–90)
 
-- **Y-Bereich:** 74 bis 91
+- **Y-Bereich:** 73 bis 90
 - **Blöcke:** 1.087
 - **Bauteile:** `w478717936`
 
@@ -613,7 +616,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.17 – Reihenhaus an Via dei Cardatori: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 55 bis 79
 - **Blöcke:** 853
 - **Bauteile:** `w478717936_innen`
 
@@ -826,9 +829,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.23 – Reihenhaus an Borgo San Frediano – Teil 1/3 (Y 56–65)
+### Schritt 12.23 – Reihenhaus an Borgo San Frediano – Teil 1/3 (Y 55–64)
 
-- **Y-Bereich:** 56 bis 65
+- **Y-Bereich:** 55 bis 64
 - **Blöcke:** 1.925
 - **Bauteile:** `w478717943`
 
@@ -859,9 +862,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.24 – Reihenhaus an Borgo San Frediano – Teil 2/3 (Y 66–78)
+### Schritt 12.24 – Reihenhaus an Borgo San Frediano – Teil 2/3 (Y 65–77)
 
-- **Y-Bereich:** 66 bis 78
+- **Y-Bereich:** 65 bis 77
 - **Blöcke:** 2.050
 - **Bauteile:** `w478717943`
 
@@ -890,9 +893,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.25 – Reihenhaus an Borgo San Frediano – Teil 3/3 (Y 79–92)
+### Schritt 12.25 – Reihenhaus an Borgo San Frediano – Teil 3/3 (Y 78–91)
 
-- **Y-Bereich:** 79 bis 92
+- **Y-Bereich:** 78 bis 91
 - **Blöcke:** 1.938
 - **Bauteile:** `w478717943`
 
@@ -925,7 +928,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.26 – Reihenhaus an Borgo San Frediano: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 55 bis 79
 - **Blöcke:** 1.304
 - **Bauteile:** `w478717943_innen`
 
@@ -968,15 +971,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 12.27 – Reihenhaus an Via dei Cardatori – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
-- **Blöcke:** 1.667
+- **Blöcke:** 1.612
 - **Bauteile:** `w478717944`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.031 |
-| Polierter Tuffstein | `polished_tuff` | 474 |
+| Glatter Sandstein | `smooth_sandstone` | 975 |
+| Polierter Tuffstein | `polished_tuff` | 475 |
 | Weißer Beton | `white_concrete` | 104 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 | Glatter Stein | `smooth_stone` | 22 |
@@ -1033,22 +1036,22 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.29 – Reihenhaus an Via dei Cardatori: Innenausbau
 
 - **Y-Bereich:** 55 bis 79
-- **Blöcke:** 1.320
+- **Blöcke:** 1.319
 - **Bauteile:** `w478717944_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.167 |
+| Terrakotta | `terracotta` | 1.170 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Seelaterne | `sea_lantern` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1072,9 +1075,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.30 – Reihenhaus an Borgo San Frediano – Teil 1/2 (Y 56–72)
+### Schritt 12.30 – Reihenhaus an Borgo San Frediano – Teil 1/2 (Y 55–71)
 
-- **Y-Bereich:** 56 bis 72
+- **Y-Bereich:** 55 bis 71
 - **Blöcke:** 1.119
 - **Bauteile:** `w478717948`
 
@@ -1103,9 +1106,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.31 – Reihenhaus an Borgo San Frediano – Teil 2/2 (Y 73–90)
+### Schritt 12.31 – Reihenhaus an Borgo San Frediano – Teil 2/2 (Y 72–89)
 
-- **Y-Bereich:** 73 bis 90
+- **Y-Bereich:** 72 bis 89
 - **Blöcke:** 1.150
 - **Bauteile:** `w478717948`
 
@@ -1137,7 +1140,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 12.32 – Reihenhaus an Borgo San Frediano: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 55 bis 79
 - **Blöcke:** 1.460
 - **Bauteile:** `w478717948_innen`
 
@@ -1446,9 +1449,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.41 – Reihenhaus an Borgo San Frediano – Teil 1/2 (Y 56–72)
+### Schritt 12.41 – Reihenhaus an Borgo San Frediano – Teil 1/2 (Y 55–71)
 
-- **Y-Bereich:** 56 bis 72
+- **Y-Bereich:** 55 bis 71
 - **Blöcke:** 1.243
 - **Bauteile:** `w478717952`
 
@@ -1478,9 +1481,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.42 – Reihenhaus an Borgo San Frediano – Teil 2/2 (Y 73–91)
+### Schritt 12.42 – Reihenhaus an Borgo San Frediano – Teil 2/2 (Y 72–90)
 
-- **Y-Bereich:** 73 bis 91
+- **Y-Bereich:** 72 bis 90
 - **Blöcke:** 1.296
 - **Bauteile:** `w478717952`
 
@@ -1510,11 +1513,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.43 – Reihenhaus an Borgo San Frediano: Innenausbau
+### Schritt 12.43 – Reihenhaus an Borgo San Frediano: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 56 bis 80
-- **Blöcke:** 1.233
-- **Bauteile:** `w478717952_innen`
+- **Y-Bereich:** 55 bis 79
+- **Blöcke:** 1.235
+- **Bauteile:** `w478717952_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1529,6 +1532,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weiße Keramik | `white_terracotta` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1538,16 +1543,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.267 |
+| Blöcke | 2.270 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 88 bis 123 |
 | X-Ausdehnung | 1578 bis 1591 (14 Blöcke) |
 | Z-Ausdehnung | 1893 bis 1902 (10 Blöcke) |
 | Kleinster Schritt | 178 Blöcke (Schritt 42.2) |
-| Mittlerer Schritt | 1.134 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 42.1) |
+| Mittlerer Schritt | 1.135 Blöcke |
+| Größter Schritt | 2.092 Blöcke (Schritt 42.1) |
 
 ## Gesamt-Stückliste
 
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.452 | 64,0 % |
 | Terrakotta | `terracotta` | 216 | 9,5 % |
-| Weißer Beton | `white_concrete` | 212 | 9,4 % |
+| Weißer Beton | `white_concrete` | 212 | 9,3 % |
 | Graues Buntglas | `gray_stained_glass` | 130 | 5,7 % |
 | Polierter Tuffstein | `polished_tuff` | 96 | 4,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 62 | 2,7 % |
@@ -31,6 +31,7 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 1,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 20 | 0,9 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
+| Tuffstein | `tuff` | 3 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -42,15 +43,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119814740` | Nebengebäude an Via dei Bastioni | 2.089 | 42.1 |
+| 1 | `w119814740` | Nebengebäude an Via dei Bastioni | 2.092 | 42.1 |
 | 2 | `w119814740_innen` | Nebengebäude an Via dei Bastioni: Innenausbau | 178 | 42.2 |
 
 ## Bauschritte
 
 ### Schritt 42.1 – Nebengebäude an Via dei Bastioni
 
-- **Y-Bereich:** 63 bis 97
-- **Blöcke:** 2.089
+- **Y-Bereich:** 88 bis 123
+- **Blöcke:** 2.092
 - **Bauteile:** `w119814740`
 
 **Teileliste**
@@ -64,6 +65,7 @@
 | Polierter Tuffstein | `polished_tuff` | 96 |
 | Fichtenholz-Bretter | `spruce_planks` | 52 |
 | Ziegelsteine | `bricks` | 3 |
+| Tuffstein | `tuff` | 3 |
 
 **Beschreibung**
 
@@ -83,7 +85,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 42.2 – Nebengebäude an Via dei Bastioni: Innenausbau
 
-- **Y-Bereich:** 64 bis 85
+- **Y-Bereich:** 90 bis 111
 - **Blöcke:** 178
 - **Bauteile:** `w119814740_innen`
 

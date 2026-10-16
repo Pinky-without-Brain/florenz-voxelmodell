@@ -8,30 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.551 |
+| Blöcke | 18.622 |
 | Bauschritte | 12 |
-| Y-Bereich | 65 bis 103 |
+| Y-Bereich | 64 bis 102 |
 | X-Ausdehnung | -2042 bis -1982 (61 Blöcke) |
 | Z-Ausdehnung | 2220 bis 2280 (61 Blöcke) |
 | Kleinster Schritt | 501 Blöcke (Schritt 40.5) |
-| Mittlerer Schritt | 1.546 Blöcke |
-| Größter Schritt | 1.858 Blöcke (Schritt 40.9) |
+| Mittlerer Schritt | 1.552 Blöcke |
+| Größter Schritt | 1.934 Blöcke (Schritt 40.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 9.875 | 53,2 % |
-| Terrakotta | `terracotta` | 4.573 | 24,7 % |
-| Polierter Tuffstein | `polished_tuff` | 1.664 | 9,0 % |
-| Polierter Andesit | `polished_andesite` | 1.032 | 5,6 % |
-| Glatter Stein | `smooth_stone` | 436 | 2,4 % |
+| Weißer Beton | `white_concrete` | 9.946 | 53,4 % |
+| Terrakotta | `terracotta` | 4.575 | 24,6 % |
+| Polierter Tuffstein | `polished_tuff` | 1.665 | 8,9 % |
+| Polierter Andesit | `polished_andesite` | 1.032 | 5,5 % |
+| Glatter Stein | `smooth_stone` | 436 | 2,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 434 | 2,3 % |
 | Graues Buntglas | `gray_stained_glass` | 326 | 1,8 % |
 | Ziegelsteine | `bricks` | 84 | 0,5 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,2 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 42 | 0,2 % |
-| Seelaterne | `sea_lantern` | 30 | 0,2 % |
+| Seelaterne | `sea_lantern` | 27 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -46,8 +46,8 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w118948108` | Palazzo des Cinquecento an Via dei Mori | 6.992 | 40.1–40.4 |
 | 2 | `w118948108_innen` | Palazzo des Cinquecento an Via dei Mori: Innenausbau | 501 | 40.5 |
-| 3 | `w306378148` | Chiesa di San Pier Gattolino | 8.843 | 40.6–40.10 |
-| 4 | `w306378148_innen` | Chiesa di San Pier Gattolino: Innenausbau | 2.215 | 40.11–40.12 |
+| 3 | `w306378148` | Chiesa di San Pier Gattolino | 8.915 | 40.6–40.10 |
+| 4 | `w306378148_innen` | Chiesa di San Pier Gattolino: Innenausbau | 2.214 | 40.11–40.12 |
 
 ## Bauschritte
 
@@ -221,19 +221,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.6 – Chiesa di San Pier Gattolino – Teil 1/5 (Y 65–68)
+### Schritt 40.6 – Chiesa di San Pier Gattolino – Teil 1/5 (Y 64–66)
 
-- **Y-Bereich:** 65 bis 68
-- **Blöcke:** 1.839
+- **Y-Bereich:** 64 bis 66
+- **Blöcke:** 1.707
 - **Bauteile:** `w306378148`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.253 |
-| Weißer Beton | `white_concrete` | 527 |
-| Polierter Andesit | `polished_andesite` | 59 |
+| Polierter Tuffstein | `polished_tuff` | 1.254 |
+| Weißer Beton | `white_concrete` | 447 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
@@ -251,18 +251,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.7 – Chiesa di San Pier Gattolino – Teil 2/5 (Y 69–77)
+### Schritt 40.7 – Chiesa di San Pier Gattolino – Teil 2/5 (Y 67–76)
 
-- **Y-Bereich:** 69 bis 77
-- **Blöcke:** 1.732
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.934
 - **Bauteile:** `w306378148`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.459 |
-| Polierter Andesit | `polished_andesite` | 229 |
+| Weißer Beton | `white_concrete` | 1.608 |
+| Polierter Andesit | `polished_andesite` | 282 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
 
 **Beschreibung**
@@ -281,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.8 – Chiesa di San Pier Gattolino – Teil 3/5 (Y 78–86)
+### Schritt 40.8 – Chiesa di San Pier Gattolino – Teil 3/5 (Y 77–85)
 
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.748
 - **Bauteile:** `w306378148`
 
@@ -311,17 +311,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.9 – Chiesa di San Pier Gattolino – Teil 4/5 (Y 87–95)
+### Schritt 40.9 – Chiesa di San Pier Gattolino – Teil 4/5 (Y 86–94)
 
-- **Y-Bereich:** 87 bis 95
-- **Blöcke:** 1.858
+- **Y-Bereich:** 86 bis 94
+- **Blöcke:** 1.860
 - **Bauteile:** `w306378148`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.447 |
+| Weißer Beton | `white_concrete` | 1.449 |
 | Polierter Andesit | `polished_andesite` | 356 |
 | Graues Buntglas | `gray_stained_glass` | 55 |
 
@@ -341,9 +341,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.10 – Chiesa di San Pier Gattolino – Teil 5/5 (Y 96–103)
+### Schritt 40.10 – Chiesa di San Pier Gattolino – Teil 5/5 (Y 95–102)
 
-- **Y-Bereich:** 96 bis 103
+- **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.666
 - **Bauteile:** `w306378148`
 
@@ -370,21 +370,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.11 – Chiesa di San Pier Gattolino: Innenausbau – Teil 1/2 (Y 65–79)
+### Schritt 40.11 – Chiesa di San Pier Gattolino: Innenausbau – Teil 1/2 (Y 64–78)
 
-- **Y-Bereich:** 65 bis 79
-- **Blöcke:** 1.123
+- **Y-Bereich:** 64 bis 78
+- **Blöcke:** 1.122
 - **Bauteile:** `w306378148_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.047 |
+| Terrakotta | `terracotta` | 1.048 |
 | Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 14 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -408,9 +408,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 40.12 – Chiesa di San Pier Gattolino: Innenausbau – Teil 2/2 (Y 80–87)
+### Schritt 40.12 – Chiesa di San Pier Gattolino: Innenausbau – Teil 2/2 (Y 79–86)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.092
 - **Bauteile:** `w306378148_innen`
 
@@ -418,11 +418,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.047 |
+| Terrakotta | `terracotta` | 1.048 |
 | Glatter Stein | `smooth_stone` | 22 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 7 |
+| Seelaterne | `sea_lantern` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,48 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 1.129 |
+| Blöcke | 1.096 |
 | Bauschritte | 1 |
-| Y-Bereich | 178 bis 212 |
+| Y-Bereich | 178 bis 210 |
 | X-Ausdehnung | -526 bis -517 (10 Blöcke) |
 | Z-Ausdehnung | 2007 bis 2015 (9 Blöcke) |
-| Kleinster Schritt | 1.129 Blöcke (Schritt 6.1) |
-| Mittlerer Schritt | 1.129 Blöcke |
-| Größter Schritt | 1.129 Blöcke (Schritt 6.1) |
+| Kleinster Schritt | 1.096 Blöcke (Schritt 6.1) |
+| Mittlerer Schritt | 1.096 Blöcke |
+| Größter Schritt | 1.096 Blöcke (Schritt 6.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 906 | 80,2 % |
-| Graues Buntglas | `gray_stained_glass` | 74 | 6,6 % |
-| Terrakotta | `terracotta` | 54 | 4,8 % |
-| Tuffstein | `tuff` | 40 | 3,5 % |
-| Polierter Tuffstein | `polished_tuff` | 28 | 2,5 % |
+| Weißer Beton | `white_concrete` | 906 | 82,7 % |
+| Graues Buntglas | `gray_stained_glass` | 74 | 6,8 % |
+| Terrakotta | `terracotta` | 54 | 4,9 % |
+| Polierter Tuffstein | `polished_tuff` | 36 | 3,3 % |
 | Glatter Stein | `smooth_stone` | 19 | 1,7 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 | 0,4 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 | 0,3 % |
+| Tuffstein | `tuff` | 6 | 0,5 % |
 | Seelaterne | `sea_lantern` | 1 | 0,1 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 7 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w1286030701` | Haus w1286030701 | 1.128 | 6.1 |
+| 1 | `w1286030701` | Haus w1286030701 | 1.095 | 6.1 |
 | 2 | `w1286030701_innen` | Haus w1286030701: Innenausbau | 1 | 6.1 |
 
 ## Bauschritte
 
 ### Schritt 6.1 – Haus w1286030701 & Haus w1286030701: Innenausbau
 
-- **Y-Bereich:** 178 bis 212
-- **Blöcke:** 1.129
+- **Y-Bereich:** 178 bis 210
+- **Blöcke:** 1.096
 - **Bauteile:** `w1286030701`, `w1286030701_innen`
 
 **Teileliste**
@@ -59,18 +51,10 @@
 | Weißer Beton | `white_concrete` | 906 |
 | Graues Buntglas | `gray_stained_glass` | 74 |
 | Terrakotta | `terracotta` | 54 |
-| Tuffstein | `tuff` | 40 |
-| Polierter Tuffstein | `polished_tuff` | 28 |
+| Polierter Tuffstein | `polished_tuff` | 36 |
 | Glatter Stein | `smooth_stone` | 19 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
+| Tuffstein | `tuff` | 6 |
 | Seelaterne | `sea_lantern` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 7 |
 
 **Beschreibung**
 

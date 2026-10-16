@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.848 |
+| Blöcke | 5.846 |
 | Bauschritte | 4 |
-| Y-Bereich | 61 bis 98 |
+| Y-Bereich | 61 bis 97 |
 | X-Ausdehnung | -1312 bis -1292 (21 Blöcke) |
 | Z-Ausdehnung | -1192 bis -1169 (24 Blöcke) |
 | Kleinster Schritt | 781 Blöcke (Schritt 48.4) |
@@ -37,7 +37,6 @@
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,1 % |
-| Tuffstein | `tuff` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -49,15 +48,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112587690` | Haus w112587690 | 5.067 | 48.1–48.3 |
+| 1 | `w112587690` | Haus w112587690 | 5.065 | 48.1–48.3 |
 | 2 | `w112587690_innen` | Haus w112587690: Innenausbau | 781 | 48.4 |
 
 ## Bauschritte
 
-### Schritt 48.1 – Haus w112587690 – Teil 1/3 (Y 61–71)
+### Schritt 48.1 – Haus w112587690 – Teil 1/3 (Y 61–70)
 
-- **Y-Bereich:** 61 bis 71
-- **Blöcke:** 1.616
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.614
 - **Bauteile:** `w112587690`
 
 **Teileliste**
@@ -70,7 +69,6 @@
 | Graues Buntglas | `gray_stained_glass` | 60 |
 | Polierter Andesit | `polished_andesite` | 21 |
 | Glatter Stein | `smooth_stone` | 21 |
-| Tuffstein | `tuff` | 2 |
 
 **Beschreibung**
 
@@ -88,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.2 – Haus w112587690 – Teil 2/3 (Y 72–84)
+### Schritt 48.2 – Haus w112587690 – Teil 2/3 (Y 71–83)
 
-- **Y-Bereich:** 72 bis 84
+- **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.817
 - **Bauteile:** `w112587690`
 
@@ -118,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 48.3 – Haus w112587690 – Teil 3/3 (Y 85–98)
+### Schritt 48.3 – Haus w112587690 – Teil 3/3 (Y 84–97)
 
-- **Y-Bereich:** 85 bis 98
+- **Y-Bereich:** 84 bis 97
 - **Blöcke:** 1.634
 - **Bauteile:** `w112587690`
 
@@ -152,7 +150,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 48.4 – Haus w112587690: Innenausbau
 
-- **Y-Bereich:** 62 bis 86
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 781
 - **Bauteile:** `w112587690_innen`
 

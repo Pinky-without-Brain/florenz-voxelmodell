@@ -8,27 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 96.929 |
-| Bauschritte | 65 |
-| Y-Bereich | 61 bis 97 |
+| Blöcke | 96.203 |
+| Bauschritte | 64 |
+| Y-Bereich | 60 bis 96 |
 | X-Ausdehnung | 350 bis 521 (172 Blöcke) |
 | Z-Ausdehnung | 985 bis 1192 (208 Blöcke) |
-| Kleinster Schritt | 543 Blöcke (Schritt 5.42) |
-| Mittlerer Schritt | 1.491 Blöcke |
-| Größter Schritt | 2.072 Blöcke (Schritt 5.1) |
+| Kleinster Schritt | 1.081 Blöcke (Schritt 5.8) |
+| Mittlerer Schritt | 1.503 Blöcke |
+| Größter Schritt | 2.040 Blöcke (Schritt 5.62) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 37.362 | 38,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 24.544 | 25,3 % |
-| Polierter Tuffstein | `polished_tuff` | 12.399 | 12,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 12.198 | 12,6 % |
+| Terrakotta | `terracotta` | 37.362 | 38,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 24.544 | 25,5 % |
+| Polierter Tuffstein | `polished_tuff` | 12.399 | 12,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 12.198 | 12,7 % |
 | Glatter Stein | `smooth_stone` | 4.355 | 4,5 % |
-| Weißer Beton | `white_concrete` | 1.876 | 1,9 % |
+| Weißer Beton | `white_concrete` | 1.876 | 2,0 % |
 | Graues Buntglas | `gray_stained_glass` | 1.294 | 1,3 % |
-| Tuffstein | `tuff` | 726 | 0,7 % |
 | Ziegelsteine | `bricks` | 668 | 0,7 % |
 | Grüner Beton | `green_concrete` | 561 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 312 | 0,3 % |
@@ -61,20 +60,20 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1605483` | Palazzo Peruzzi-Lotti | 44.208 | 5.1–5.33 |
+| 1 | `r1605483` | Palazzo Peruzzi-Lotti | 44.025 | 5.1–5.33 |
 | 2 | `r1605483_innen` | Palazzo Peruzzi-Lotti: Innenausbau | 13.118 | 5.34–5.41 |
-| 3 | `r4100894` | Palazzo des Cinquecento an Via dei Neri | 25.208 | 5.42–5.56 |
-| 4 | `r4100894_innen` | Palazzo des Cinquecento an Via dei Neri: Innenausbau | 6.115 | 5.57–5.60 |
-| 5 | `w307106630` | Chiesa evangelica metodista | 6.069 | 5.61–5.63 |
-| 6 | `w307106630_innen` | Chiesa evangelica metodista: Innenausbau | 2.207 | 5.64–5.65 |
-| 7 | `strassenschilder` | Straßenschilder | 4 | 5.65 |
+| 3 | `r4100894` | Palazzo des Cinquecento an Via dei Neri | 24.665 | 5.42–5.55 |
+| 4 | `r4100894_innen` | Palazzo des Cinquecento an Via dei Neri: Innenausbau | 6.115 | 5.56–5.59 |
+| 5 | `w307106630` | Chiesa evangelica metodista | 6.069 | 5.60–5.62 |
+| 6 | `w307106630_innen` | Chiesa evangelica metodista: Innenausbau | 2.207 | 5.63–5.64 |
+| 7 | `strassenschilder` | Straßenschilder | 4 | 5.64 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Palazzo Peruzzi-Lotti – Teil 1/33 (Y 61–62)
+### Schritt 5.1 – Palazzo Peruzzi-Lotti – Teil 1/33 (Y 61–61)
 
-- **Y-Bereich:** 61 bis 62
-- **Blöcke:** 2.072
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.889
 - **Bauteile:** `r1605483`
 
 **Teileliste**
@@ -82,7 +81,6 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.889 |
-| Tuffstein | `tuff` | 183 |
 
 **Beschreibung**
 
@@ -100,9 +98,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Palazzo Peruzzi-Lotti – Teil 2/33 (Y 62–62)
+### Schritt 5.2 – Palazzo Peruzzi-Lotti – Teil 2/33 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.923
 - **Bauteile:** `r1605483`
 
@@ -128,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Palazzo Peruzzi-Lotti – Teil 3/33 (Y 62–62)
+### Schritt 5.3 – Palazzo Peruzzi-Lotti – Teil 3/33 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.878
 - **Bauteile:** `r1605483`
 
@@ -156,9 +154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Palazzo Peruzzi-Lotti – Teil 4/33 (Y 62–62)
+### Schritt 5.4 – Palazzo Peruzzi-Lotti – Teil 4/33 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.896
 - **Bauteile:** `r1605483`
 
@@ -184,9 +182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Palazzo Peruzzi-Lotti – Teil 5/33 (Y 63–63)
+### Schritt 5.5 – Palazzo Peruzzi-Lotti – Teil 5/33 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.116
 - **Bauteile:** `r1605483`
 
@@ -215,9 +213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Palazzo Peruzzi-Lotti – Teil 6/33 (Y 64–64)
+### Schritt 5.6 – Palazzo Peruzzi-Lotti – Teil 6/33 (Y 63–63)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.116
 - **Bauteile:** `r1605483`
 
@@ -246,9 +244,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Palazzo Peruzzi-Lotti – Teil 7/33 (Y 65–65)
+### Schritt 5.7 – Palazzo Peruzzi-Lotti – Teil 7/33 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.153
 - **Bauteile:** `r1605483`
 
@@ -277,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Palazzo Peruzzi-Lotti – Teil 8/33 (Y 66–66)
+### Schritt 5.8 – Palazzo Peruzzi-Lotti – Teil 8/33 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.081
 - **Bauteile:** `r1605483`
 
@@ -310,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Palazzo Peruzzi-Lotti – Teil 9/33 (Y 67–67)
+### Schritt 5.9 – Palazzo Peruzzi-Lotti – Teil 9/33 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -343,9 +341,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.10 – Palazzo Peruzzi-Lotti – Teil 10/33 (Y 68–68)
+### Schritt 5.10 – Palazzo Peruzzi-Lotti – Teil 10/33 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -376,9 +374,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.11 – Palazzo Peruzzi-Lotti – Teil 11/33 (Y 69–69)
+### Schritt 5.11 – Palazzo Peruzzi-Lotti – Teil 11/33 (Y 68–68)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.088
 - **Bauteile:** `r1605483`
 
@@ -407,9 +405,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Palazzo Peruzzi-Lotti – Teil 12/33 (Y 70–70)
+### Schritt 5.12 – Palazzo Peruzzi-Lotti – Teil 12/33 (Y 69–69)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -437,9 +435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Palazzo Peruzzi-Lotti – Teil 13/33 (Y 71–71)
+### Schritt 5.13 – Palazzo Peruzzi-Lotti – Teil 13/33 (Y 70–70)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -466,9 +464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.14 – Palazzo Peruzzi-Lotti – Teil 14/33 (Y 72–72)
+### Schritt 5.14 – Palazzo Peruzzi-Lotti – Teil 14/33 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -495,9 +493,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Palazzo Peruzzi-Lotti – Teil 15/33 (Y 73–73)
+### Schritt 5.15 – Palazzo Peruzzi-Lotti – Teil 15/33 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.162
 - **Bauteile:** `r1605483`
 
@@ -525,9 +523,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Palazzo Peruzzi-Lotti – Teil 16/33 (Y 74–74)
+### Schritt 5.16 – Palazzo Peruzzi-Lotti – Teil 16/33 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -557,9 +555,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.17 – Palazzo Peruzzi-Lotti – Teil 17/33 (Y 75–75)
+### Schritt 5.17 – Palazzo Peruzzi-Lotti – Teil 17/33 (Y 74–74)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -589,9 +587,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.18 – Palazzo Peruzzi-Lotti – Teil 18/33 (Y 76–76)
+### Schritt 5.18 – Palazzo Peruzzi-Lotti – Teil 18/33 (Y 75–75)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -619,9 +617,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.19 – Palazzo Peruzzi-Lotti – Teil 19/33 (Y 77–77)
+### Schritt 5.19 – Palazzo Peruzzi-Lotti – Teil 19/33 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -649,9 +647,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.20 – Palazzo Peruzzi-Lotti – Teil 20/33 (Y 78–78)
+### Schritt 5.20 – Palazzo Peruzzi-Lotti – Teil 20/33 (Y 77–77)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -678,9 +676,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.21 – Palazzo Peruzzi-Lotti – Teil 21/33 (Y 79–79)
+### Schritt 5.21 – Palazzo Peruzzi-Lotti – Teil 21/33 (Y 78–78)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.162
 - **Bauteile:** `r1605483`
 
@@ -708,9 +706,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.22 – Palazzo Peruzzi-Lotti – Teil 22/33 (Y 80–80)
+### Schritt 5.22 – Palazzo Peruzzi-Lotti – Teil 22/33 (Y 79–79)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -740,9 +738,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.23 – Palazzo Peruzzi-Lotti – Teil 23/33 (Y 81–81)
+### Schritt 5.23 – Palazzo Peruzzi-Lotti – Teil 23/33 (Y 80–80)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -772,9 +770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.24 – Palazzo Peruzzi-Lotti – Teil 24/33 (Y 82–82)
+### Schritt 5.24 – Palazzo Peruzzi-Lotti – Teil 24/33 (Y 81–81)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.087
 - **Bauteile:** `r1605483`
 
@@ -804,9 +802,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.25 – Palazzo Peruzzi-Lotti – Teil 25/33 (Y 83–83)
+### Schritt 5.25 – Palazzo Peruzzi-Lotti – Teil 25/33 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.123
 - **Bauteile:** `r1605483`
 
@@ -834,9 +832,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.26 – Palazzo Peruzzi-Lotti – Teil 26/33 (Y 84–84)
+### Schritt 5.26 – Palazzo Peruzzi-Lotti – Teil 26/33 (Y 83–83)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.339
 - **Bauteile:** `r1605483`
 
@@ -864,9 +862,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.27 – Palazzo Peruzzi-Lotti – Teil 27/33 (Y 85–85)
+### Schritt 5.27 – Palazzo Peruzzi-Lotti – Teil 27/33 (Y 84–84)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.339
 - **Bauteile:** `r1605483`
 
@@ -893,9 +891,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.28 – Palazzo Peruzzi-Lotti – Teil 28/33 (Y 86–86)
+### Schritt 5.28 – Palazzo Peruzzi-Lotti – Teil 28/33 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.532
 - **Bauteile:** `r1605483`
 
@@ -921,9 +919,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.29 – Palazzo Peruzzi-Lotti – Teil 29/33 (Y 86–86)
+### Schritt 5.29 – Palazzo Peruzzi-Lotti – Teil 29/33 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.553
 - **Bauteile:** `r1605483`
 
@@ -949,9 +947,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.30 – Palazzo Peruzzi-Lotti – Teil 30/33 (Y 87–87)
+### Schritt 5.30 – Palazzo Peruzzi-Lotti – Teil 30/33 (Y 86–86)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.935
 - **Bauteile:** `r1605483`
 
@@ -977,9 +975,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.31 – Palazzo Peruzzi-Lotti – Teil 31/33 (Y 88–88)
+### Schritt 5.31 – Palazzo Peruzzi-Lotti – Teil 31/33 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.843
 - **Bauteile:** `r1605483`
 
@@ -1005,9 +1003,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.32 – Palazzo Peruzzi-Lotti – Teil 32/33 (Y 89–89)
+### Schritt 5.32 – Palazzo Peruzzi-Lotti – Teil 32/33 (Y 88–88)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.614
 - **Bauteile:** `r1605483`
 
@@ -1034,9 +1032,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.33 – Palazzo Peruzzi-Lotti – Teil 33/33 (Y 90–95)
+### Schritt 5.33 – Palazzo Peruzzi-Lotti – Teil 33/33 (Y 89–94)
 
-- **Y-Bereich:** 90 bis 95
+- **Y-Bereich:** 89 bis 94
 - **Blöcke:** 1.936
 - **Bauteile:** `r1605483`
 
@@ -1063,9 +1061,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.34 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 1/8 (Y 62–72)
+### Schritt 5.34 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 1/8 (Y 61–71)
 
-- **Y-Bereich:** 62 bis 72
+- **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.690
 - **Bauteile:** `r1605483_innen`
 
@@ -1105,9 +1103,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.35 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 2/8 (Y 72–72)
+### Schritt 5.35 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 2/8 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.668
 - **Bauteile:** `r1605483_innen`
 
@@ -1134,9 +1132,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.36 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 3/8 (Y 72–72)
+### Schritt 5.36 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 3/8 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.590
 - **Bauteile:** `r1605483_innen`
 
@@ -1170,9 +1168,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.37 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 4/8 (Y 72–72)
+### Schritt 5.37 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 4/8 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.632
 - **Bauteile:** `r1605483_innen`
 
@@ -1199,9 +1197,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.38 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 5/8 (Y 73–78)
+### Schritt 5.38 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 5/8 (Y 72–77)
 
-- **Y-Bereich:** 73 bis 78
+- **Y-Bereich:** 72 bis 77
 - **Blöcke:** 1.639
 - **Bauteile:** `r1605483_innen`
 
@@ -1239,9 +1237,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.39 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 6/8 (Y 78–78)
+### Schritt 5.39 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 6/8 (Y 77–77)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.668
 - **Bauteile:** `r1605483_innen`
 
@@ -1268,9 +1266,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.40 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 7/8 (Y 78–78)
+### Schritt 5.40 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 7/8 (Y 77–77)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.590
 - **Bauteile:** `r1605483_innen`
 
@@ -1304,9 +1302,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.41 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 8/8 (Y 78–79)
+### Schritt 5.41 – Palazzo Peruzzi-Lotti: Innenausbau – Teil 8/8 (Y 77–78)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.641
 - **Bauteile:** `r1605483_innen`
 
@@ -1344,37 +1342,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.42 – Palazzo des Cinquecento an Via dei Neri – Teil 1/15 (Y 61–61)
+### Schritt 5.42 – Palazzo des Cinquecento an Via dei Neri – Teil 1/14 (Y 60–60)
 
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 543
-- **Bauteile:** `r4100894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 543 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.43 – Palazzo des Cinquecento an Via dei Neri – Teil 2/15 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.822
 - **Bauteile:** `r4100894`
 
@@ -1400,9 +1370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.44 – Palazzo des Cinquecento an Via dei Neri – Teil 3/15 (Y 62–62)
+### Schritt 5.43 – Palazzo des Cinquecento an Via dei Neri – Teil 2/14 (Y 60–60)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.858
 - **Bauteile:** `r4100894`
 
@@ -1428,9 +1398,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.45 – Palazzo des Cinquecento an Via dei Neri – Teil 4/15 (Y 63–64)
+### Schritt 5.44 – Palazzo des Cinquecento an Via dei Neri – Teil 3/14 (Y 61–62)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.395
 - **Bauteile:** `r4100894`
 
@@ -1460,9 +1430,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.46 – Palazzo des Cinquecento an Via dei Neri – Teil 5/15 (Y 65–67)
+### Schritt 5.45 – Palazzo des Cinquecento an Via dei Neri – Teil 4/14 (Y 63–65)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 63 bis 65
 - **Blöcke:** 2.029
 - **Bauteile:** `r4100894`
 
@@ -1494,9 +1464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.47 – Palazzo des Cinquecento an Via dei Neri – Teil 6/15 (Y 68–70)
+### Schritt 5.46 – Palazzo des Cinquecento an Via dei Neri – Teil 5/14 (Y 66–68)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.990
 - **Bauteile:** `r4100894`
 
@@ -1527,72 +1497,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.48 – Palazzo des Cinquecento an Via dei Neri – Teil 7/15 (Y 71–73)
+### Schritt 5.47 – Palazzo des Cinquecento an Via dei Neri – Teil 6/14 (Y 69–70)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 2.064
-- **Bauteile:** `r4100894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.655 |
-| Glatter Stein | `smooth_stone` | 275 |
-| Weißer Beton | `white_concrete` | 122 |
-| Polierter Andesit | `polished_andesite` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.49 – Palazzo des Cinquecento an Via dei Neri – Teil 8/15 (Y 74–76)
-
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.988
-- **Bauteile:** `r4100894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.530 |
-| Weißer Beton | `white_concrete` | 240 |
-| Graues Buntglas | `gray_stained_glass` | 126 |
-| Grüner Beton | `green_concrete` | 82 |
-| Polierter Andesit | `polished_andesite` | 10 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.50 – Palazzo des Cinquecento an Via dei Neri – Teil 9/15 (Y 77–78)
-
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.376
 - **Bauteile:** `r4100894`
 
@@ -1600,9 +1507,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 910 |
-| Weißer Beton | `white_concrete` | 307 |
-| Glatter Stein | `smooth_stone` | 153 |
+| Gelbe Keramik | `yellow_terracotta` | 1.095 |
+| Glatter Stein | `smooth_stone` | 275 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -1621,7 +1527,102 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.51 – Palazzo des Cinquecento an Via dei Neri – Teil 10/15 (Y 79–81)
+### Schritt 5.48 – Palazzo des Cinquecento an Via dei Neri – Teil 7/14 (Y 71–73)
+
+- **Y-Bereich:** 71 bis 73
+- **Blöcke:** 1.988
+- **Bauteile:** `r4100894`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.526 |
+| Weißer Beton | `white_concrete` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
+| Grüner Beton | `green_concrete` | 82 |
+| Polierter Andesit | `polished_andesite` | 14 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.49 – Palazzo des Cinquecento an Via dei Neri – Teil 8/14 (Y 74–75)
+
+- **Y-Bereich:** 74 bis 75
+- **Blöcke:** 1.376
+- **Bauteile:** `r4100894`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.061 |
+| Weißer Beton | `white_concrete` | 307 |
+| Polierter Andesit | `polished_andesite` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.50 – Palazzo des Cinquecento an Via dei Neri – Teil 9/14 (Y 76–78)
+
+- **Y-Bereich:** 76 bis 78
+- **Blöcke:** 2.026
+- **Bauteile:** `r4100894`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.458 |
+| Weißer Beton | `white_concrete` | 303 |
+| Glatter Stein | `smooth_stone` | 153 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
+| Grüner Beton | `green_concrete` | 41 |
+| Polierter Andesit | `polished_andesite` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 5.51 – Palazzo des Cinquecento an Via dei Neri – Teil 10/14 (Y 79–81)
 
 - **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.988
@@ -1653,41 +1654,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.52 – Palazzo des Cinquecento an Via dei Neri – Teil 11/15 (Y 82–83)
+### Schritt 5.52 – Palazzo des Cinquecento an Via dei Neri – Teil 11/14 (Y 82–83)
 
 - **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.338
-- **Bauteile:** `r4100894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.045 |
-| Weißer Beton | `white_concrete` | 181 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-| Grüner Beton | `green_concrete` | 41 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.53 – Palazzo des Cinquecento an Via dei Neri – Teil 12/15 (Y 84–85)
-
-- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.688
 - **Bauteile:** `r4100894`
 
@@ -1716,9 +1685,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.54 – Palazzo des Cinquecento an Via dei Neri – Teil 13/15 (Y 86–86)
+### Schritt 5.53 – Palazzo des Cinquecento an Via dei Neri – Teil 12/14 (Y 84–84)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.875
 - **Bauteile:** `r4100894`
 
@@ -1744,9 +1713,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.55 – Palazzo des Cinquecento an Via dei Neri – Teil 14/15 (Y 87–88)
+### Schritt 5.54 – Palazzo des Cinquecento an Via dei Neri – Teil 13/14 (Y 85–86)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.657
 - **Bauteile:** `r4100894`
 
@@ -1772,9 +1741,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.56 – Palazzo des Cinquecento an Via dei Neri – Teil 15/15 (Y 89–95)
+### Schritt 5.55 – Palazzo des Cinquecento an Via dei Neri – Teil 14/14 (Y 87–93)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.597
 - **Bauteile:** `r4100894`
 
@@ -1801,9 +1770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.57 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 1/4 (Y 62–72)
+### Schritt 5.56 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 1/4 (Y 60–70)
 
-- **Y-Bereich:** 62 bis 72
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.559
 - **Bauteile:** `r4100894_innen`
 
@@ -1843,9 +1812,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.58 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 2/4 (Y 72–72)
+### Schritt 5.57 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 2/4 (Y 70–70)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.510
 - **Bauteile:** `r4100894_innen`
 
@@ -1879,9 +1848,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.59 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 3/4 (Y 73–78)
+### Schritt 5.58 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 3/4 (Y 71–76)
 
-- **Y-Bereich:** 73 bis 78
+- **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.527
 - **Bauteile:** `r4100894_innen`
 
@@ -1919,9 +1888,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.60 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 4/4 (Y 78–79)
+### Schritt 5.59 – Palazzo des Cinquecento an Via dei Neri: Innenausbau – Teil 4/4 (Y 76–77)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.519
 - **Bauteile:** `r4100894_innen`
 
@@ -1961,10 +1930,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.61 – Chiesa evangelica metodista – Teil 1/3 (Y 61–71)
+### Schritt 5.60 – Chiesa evangelica metodista – Teil 1/3 (Y 60–71)
 
-- **Y-Bereich:** 61 bis 71
-- **Blöcke:** 2.025
+- **Y-Bereich:** 60 bis 71
+- **Blöcke:** 2.032
 - **Bauteile:** `w307106630`
 
 **Teileliste**
@@ -1973,8 +1942,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.133 |
 | Hellgrauer Beton | `light_gray_concrete` | 758 |
-| Glatter Stein | `smooth_stone` | 94 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
+| Glatter Stein | `smooth_stone` | 96 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
 
 **Beschreibung**
 
@@ -1992,10 +1961,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.62 – Chiesa evangelica metodista – Teil 2/3 (Y 72–89)
+### Schritt 5.61 – Chiesa evangelica metodista – Teil 2/3 (Y 72–88)
 
-- **Y-Bereich:** 72 bis 89
-- **Blöcke:** 2.004
+- **Y-Bereich:** 72 bis 88
+- **Blöcke:** 1.997
 - **Bauteile:** `w307106630`
 
 **Teileliste**
@@ -2003,8 +1972,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.659 |
-| Glatter Stein | `smooth_stone` | 218 |
-| Graues Buntglas | `gray_stained_glass` | 127 |
+| Glatter Stein | `smooth_stone` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 122 |
 
 **Beschreibung**
 
@@ -2022,9 +1991,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.63 – Chiesa evangelica metodista – Teil 3/3 (Y 90–97)
+### Schritt 5.62 – Chiesa evangelica metodista – Teil 3/3 (Y 89–96)
 
-- **Y-Bereich:** 90 bis 97
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 2.040
 - **Bauteile:** `w307106630`
 
@@ -2054,9 +2023,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.64 – Chiesa evangelica metodista: Innenausbau – Teil 1/2 (Y 61–75)
+### Schritt 5.63 – Chiesa evangelica metodista: Innenausbau – Teil 1/2 (Y 60–74)
 
-- **Y-Bereich:** 61 bis 75
+- **Y-Bereich:** 60 bis 74
 - **Blöcke:** 1.119
 - **Bauteile:** `w307106630_innen`
 
@@ -2092,9 +2061,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.65 – Chiesa evangelica metodista: Innenausbau – Teil 2/2 (Y 76–83) & Straßenschilder
+### Schritt 5.64 – Chiesa evangelica metodista: Innenausbau – Teil 2/2 (Y 75–82) & Straßenschilder
 
-- **Y-Bereich:** 69 bis 83
+- **Y-Bereich:** 67 bis 82
 - **Blöcke:** 1.092
 - **Bauteile:** `w307106630_innen`, `strassenschilder`
 

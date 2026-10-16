@@ -8,32 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 33.444 |
-| Bauschritte | 23 |
-| Y-Bereich | 53 bis 94 |
+| Blöcke | 29.833 |
+| Bauschritte | 21 |
+| Y-Bereich | 53 bis 92 |
 | X-Ausdehnung | -2884 bis -2804 (81 Blöcke) |
 | Z-Ausdehnung | -750 bis -669 (82 Blöcke) |
-| Kleinster Schritt | 1.106 Blöcke (Schritt 10.10) |
-| Mittlerer Schritt | 1.454 Blöcke |
-| Größter Schritt | 2.073 Blöcke (Schritt 10.5) |
+| Kleinster Schritt | 1.106 Blöcke (Schritt 10.12) |
+| Mittlerer Schritt | 1.421 Blöcke |
+| Größter Schritt | 1.738 Blöcke (Schritt 10.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 12.890 | 38,5 % |
-| Terrakotta | `terracotta` | 8.854 | 26,5 % |
-| Tuffstein | `tuff` | 3.720 | 11,1 % |
-| Glatter Stein | `smooth_stone` | 3.525 | 10,5 % |
-| Polierter Tuffstein | `polished_tuff` | 3.035 | 9,1 % |
-| Graues Buntglas | `gray_stained_glass` | 667 | 2,0 % |
-| Polierter Andesit | `polished_andesite` | 467 | 1,4 % |
-| Ziegelsteine | `bricks` | 171 | 0,5 % |
+| Rosa Keramik | `pink_terracotta` | 12.890 | 43,2 % |
+| Terrakotta | `terracotta` | 8.854 | 29,7 % |
+| Glatter Stein | `smooth_stone` | 3.525 | 11,8 % |
+| Polierter Tuffstein | `polished_tuff` | 3.041 | 10,2 % |
+| Graues Buntglas | `gray_stained_glass` | 667 | 2,2 % |
+| Polierter Andesit | `polished_andesite` | 467 | 1,6 % |
+| Ziegelsteine | `bricks` | 171 | 0,6 % |
+| Tuffstein | `tuff` | 109 | 0,4 % |
 | Seelaterne | `sea_lantern` | 39 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 4 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 4 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
@@ -48,119 +47,20 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w117755631` | Palazzo des Cinquecento an Via Montebello | 28.386 | 10.1–10.19 |
-| 2 | `w117755631_innen` | Palazzo des Cinquecento an Via Montebello: Innenausbau | 5.058 | 10.20–10.23 |
+| 1 | `w117755631` | Palazzo des Cinquecento an Via Montebello | 24.775 | 10.1–10.17 |
+| 2 | `w117755631_innen` | Palazzo des Cinquecento an Via Montebello: Innenausbau | 5.058 | 10.18–10.21 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Palazzo des Cinquecento an Via Montebello – Teil 1/19 (Y 53–54)
+### Schritt 10.1 – Palazzo des Cinquecento an Via Montebello – Teil 1/17 (Y 53–54)
 
 - **Y-Bereich:** 53 bis 54
-- **Blöcke:** 1.390
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.388 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.2 – Palazzo des Cinquecento an Via Montebello – Teil 2/19 (Y 55–55)
-
-- **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.179
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.179 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.3 – Palazzo des Cinquecento an Via Montebello – Teil 3/19 (Y 55–55)
-
-- **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.155
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.153 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.4 – Palazzo des Cinquecento an Via Montebello – Teil 4/19 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.536
+- **Blöcke:** 1.645
 - **Bauteile:** `w117755631`
 
 **Teileliste**
@@ -168,6 +68,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.536 |
+| Tuffstein | `tuff` | 109 |
 
 **Beschreibung**
 
@@ -185,28 +86,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Palazzo des Cinquecento an Via Montebello – Teil 5/19 (Y 56–57)
+### Schritt 10.2 – Palazzo des Cinquecento an Via Montebello – Teil 2/17 (Y 54–54)
 
-- **Y-Bereich:** 56 bis 57
-- **Blöcke:** 2.073
+- **Y-Bereich:** 54 bis 54
+- **Blöcke:** 1.505
 - **Bauteile:** `w117755631`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.499 |
-| Rosa Keramik | `pink_terracotta` | 540 |
-| Polierter Andesit | `polished_andesite` | 26 |
-| Glatter Stein | `smooth_stone` | 3 |
-| Tuffsteinziegel | `tuff_bricks` | 3 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Polierter Tuffstein | `polished_tuff` | 1.505 |
 
 **Beschreibung**
 
@@ -224,20 +114,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Palazzo des Cinquecento an Via Montebello – Teil 6/19 (Y 58–60)
+### Schritt 10.3 – Palazzo des Cinquecento an Via Montebello – Teil 3/17 (Y 55–56)
 
-- **Y-Bereich:** 58 bis 60
-- **Blöcke:** 1.719
+- **Y-Bereich:** 55 bis 56
+- **Blöcke:** 1.144
 - **Bauteile:** `w117755631`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.378 |
-| Glatter Stein | `smooth_stone` | 253 |
-| Graues Buntglas | `gray_stained_glass` | 43 |
-| Polierter Andesit | `polished_andesite` | 42 |
+| Rosa Keramik | `pink_terracotta` | 1.101 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
@@ -256,21 +145,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Palazzo des Cinquecento an Via Montebello – Teil 7/19 (Y 61–63)
+### Schritt 10.4 – Palazzo des Cinquecento an Via Montebello – Teil 4/17 (Y 57–59)
 
-- **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.662
+- **Y-Bereich:** 57 bis 59
+- **Blöcke:** 1.701
 - **Bauteile:** `w117755631`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.195 |
-| Glatter Stein | `smooth_stone` | 268 |
-| Graues Buntglas | `gray_stained_glass` | 129 |
-| Polierter Andesit | `polished_andesite` | 63 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Rosa Keramik | `pink_terracotta` | 1.205 |
+| Glatter Stein | `smooth_stone` | 344 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Polierter Andesit | `polished_andesite` | 60 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
@@ -288,9 +177,163 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Palazzo des Cinquecento an Via Montebello – Teil 8/19 (Y 64–65)
+### Schritt 10.5 – Palazzo des Cinquecento an Via Montebello – Teil 5/17 (Y 60–61)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.108
+- **Bauteile:** `w117755631`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 807 |
+| Glatter Stein | `smooth_stone` | 174 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Polierter Andesit | `polished_andesite` | 37 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.6 – Palazzo des Cinquecento an Via Montebello – Teil 6/17 (Y 62–64)
+
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.734
+- **Bauteile:** `w117755631`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.190 |
+| Glatter Stein | `smooth_stone` | 513 |
+| Polierter Andesit | `polished_andesite` | 31 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.7 – Palazzo des Cinquecento an Via Montebello – Teil 7/17 (Y 65–66)
+
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 1.185
+- **Bauteile:** `w117755631`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 991 |
+| Glatter Stein | `smooth_stone` | 163 |
+| Polierter Andesit | `polished_andesite` | 31 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.8 – Palazzo des Cinquecento an Via Montebello – Teil 8/17 (Y 67–69)
+
+- **Y-Bereich:** 67 bis 69
+- **Blöcke:** 1.659
+- **Bauteile:** `w117755631`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.200 |
+| Glatter Stein | `smooth_stone` | 267 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Polierter Andesit | `polished_andesite` | 57 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.9 – Palazzo des Cinquecento an Via Montebello – Teil 9/17 (Y 70–72)
+
+- **Y-Bereich:** 70 bis 72
+- **Blöcke:** 1.659
+- **Bauteile:** `w117755631`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.221 |
+| Glatter Stein | `smooth_stone` | 267 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Polierter Andesit | `polished_andesite` | 36 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.10 – Palazzo des Cinquecento an Via Montebello – Teil 10/17 (Y 73–74)
+
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.156
 - **Bauteile:** `w117755631`
 
@@ -298,9 +341,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 995 |
-| Glatter Stein | `smooth_stone` | 130 |
-| Polierter Andesit | `polished_andesite` | 31 |
+| Rosa Keramik | `pink_terracotta` | 613 |
+| Glatter Stein | `smooth_stone` | 517 |
+| Polierter Andesit | `polished_andesite` | 26 |
 
 **Beschreibung**
 
@@ -318,19 +361,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Palazzo des Cinquecento an Via Montebello – Teil 9/19 (Y 66–68)
+### Schritt 10.11 – Palazzo des Cinquecento an Via Montebello – Teil 11/17 (Y 75–77)
 
-- **Y-Bereich:** 66 bis 68
-- **Blöcke:** 1.763
+- **Y-Bereich:** 75 bis 77
+- **Blöcke:** 1.738
 - **Bauteile:** `w117755631`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.186 |
-| Glatter Stein | `smooth_stone` | 546 |
-| Polierter Andesit | `polished_andesite` | 31 |
+| Rosa Keramik | `pink_terracotta` | 1.384 |
+| Glatter Stein | `smooth_stone` | 252 |
+| Polierter Andesit | `polished_andesite` | 57 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
 
 **Beschreibung**
 
@@ -348,9 +392,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Palazzo des Cinquecento an Via Montebello – Teil 10/19 (Y 69–70)
+### Schritt 10.12 – Palazzo des Cinquecento an Via Montebello – Teil 12/17 (Y 78–79)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.106
 - **Bauteile:** `w117755631`
 
@@ -379,132 +423,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Palazzo des Cinquecento an Via Montebello – Teil 11/19 (Y 71–73)
+### Schritt 10.13 – Palazzo des Cinquecento an Via Montebello – Teil 13/17 (Y 80–82)
 
-- **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.659
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.200 |
-| Glatter Stein | `smooth_stone` | 267 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Polierter Andesit | `polished_andesite` | 57 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.12 – Palazzo des Cinquecento an Via Montebello – Teil 12/19 (Y 74–76)
-
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.709
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.027 |
-| Glatter Stein | `smooth_stone` | 606 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
-| Polierter Andesit | `polished_andesite` | 31 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.13 – Palazzo des Cinquecento an Via Montebello – Teil 13/19 (Y 77–78)
-
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.185
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 991 |
-| Glatter Stein | `smooth_stone` | 163 |
-| Polierter Andesit | `polished_andesite` | 31 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.14 – Palazzo des Cinquecento an Via Montebello – Teil 14/19 (Y 79–81)
-
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 1.659
-- **Bauteile:** `w117755631`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.200 |
-| Glatter Stein | `smooth_stone` | 267 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
-| Polierter Andesit | `polished_andesite` | 57 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.15 – Palazzo des Cinquecento an Via Montebello – Teil 15/19 (Y 82–84)
-
-- **Y-Bereich:** 82 bis 84
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.684
 - **Bauteile:** `w117755631`
 
@@ -533,9 +454,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.16 – Palazzo des Cinquecento an Via Montebello – Teil 16/19 (Y 85–86)
+### Schritt 10.14 – Palazzo des Cinquecento an Via Montebello – Teil 14/17 (Y 83–84)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.636
 - **Bauteile:** `w117755631`
 
@@ -563,9 +484,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.17 – Palazzo des Cinquecento an Via Montebello – Teil 17/19 (Y 87–87)
+### Schritt 10.15 – Palazzo des Cinquecento an Via Montebello – Teil 15/17 (Y 85–85)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.267
 - **Bauteile:** `w117755631`
 
@@ -591,9 +512,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.18 – Palazzo des Cinquecento an Via Montebello – Teil 18/19 (Y 88–89)
+### Schritt 10.16 – Palazzo des Cinquecento an Via Montebello – Teil 16/17 (Y 86–87)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.397
 - **Bauteile:** `w117755631`
 
@@ -619,9 +540,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.19 – Palazzo des Cinquecento an Via Montebello – Teil 19/19 (Y 90–94)
+### Schritt 10.17 – Palazzo des Cinquecento an Via Montebello – Teil 17/17 (Y 88–92)
 
-- **Y-Bereich:** 90 bis 94
+- **Y-Bereich:** 88 bis 92
 - **Blöcke:** 1.451
 - **Bauteile:** `w117755631`
 
@@ -648,9 +569,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.20 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 1/4 (Y 56–66)
+### Schritt 10.18 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 1/4 (Y 54–64)
 
-- **Y-Bereich:** 56 bis 66
+- **Y-Bereich:** 54 bis 64
 - **Blöcke:** 1.296
 - **Bauteile:** `w117755631_innen`
 
@@ -690,9 +611,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.21 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 2/4 (Y 66–66)
+### Schritt 10.19 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 2/4 (Y 64–64)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.234
 - **Bauteile:** `w117755631_innen`
 
@@ -719,9 +640,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.22 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 3/4 (Y 67–76)
+### Schritt 10.20 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 3/4 (Y 65–74)
 
-- **Y-Bereich:** 67 bis 76
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.285
 - **Bauteile:** `w117755631_innen`
 
@@ -763,9 +684,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.23 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 4/4 (Y 76–77)
+### Schritt 10.21 – Palazzo des Cinquecento an Via Montebello: Innenausbau – Teil 4/4 (Y 74–75)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.243
 - **Bauteile:** `w117755631_innen`
 

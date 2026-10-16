@@ -8,47 +8,46 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 77.971 |
-| Bauschritte | 46 |
-| Y-Bereich | 58 bis 100 |
-| X-Ausdehnung | -1338 bis -1208 (131 Blöcke) |
+| Blöcke | 74.327 |
+| Bauschritte | 45 |
+| Y-Bereich | 58 bis 98 |
+| X-Ausdehnung | -1338 bis -1206 (133 Blöcke) |
 | Z-Ausdehnung | 360 bis 489 (130 Blöcke) |
 | Kleinster Schritt | 712 Blöcke (Schritt 14.34) |
-| Mittlerer Schritt | 1.695 Blöcke |
-| Größter Schritt | 2.086 Blöcke (Schritt 14.7) |
+| Mittlerer Schritt | 1.652 Blöcke |
+| Größter Schritt | 2.020 Blöcke (Schritt 14.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 23.628 | 30,3 % |
-| Tuffstein | `tuff` | 13.258 | 17,0 % |
-| Rosa Keramik | `pink_terracotta` | 11.548 | 14,8 % |
-| Polierter Tuffstein | `polished_tuff` | 6.982 | 9,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.057 | 6,5 % |
-| Glatter Stein | `smooth_stone` | 4.520 | 5,8 % |
-| Polierter Andesit | `polished_andesite` | 3.670 | 4,7 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.645 | 3,4 % |
-| Weißer Beton | `white_concrete` | 1.938 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 1.821 | 2,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 792 | 1,0 % |
+| Terrakotta | `terracotta` | 23.670 | 31,8 % |
+| Rosa Keramik | `pink_terracotta` | 11.544 | 15,5 % |
+| Tuffstein | `tuff` | 9.466 | 12,7 % |
+| Polierter Tuffstein | `polished_tuff` | 7.019 | 9,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.057 | 6,8 % |
+| Glatter Stein | `smooth_stone` | 4.664 | 6,3 % |
+| Polierter Andesit | `polished_andesite` | 3.670 | 4,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.645 | 3,6 % |
+| Weißer Beton | `white_concrete` | 1.907 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.821 | 2,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 792 | 1,1 % |
 | Ziegelsteine | `bricks` | 690 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 414 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 414 | 0,6 % |
 | Grüner Beton | `green_concrete` | 183 | 0,2 % |
 | Seelaterne | `sea_lantern` | 133 | 0,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 126 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 106 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 98 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 60 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 60 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 107 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 99 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 59 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 59 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 57 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 57 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 44 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 36 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 34 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -56,51 +55,42 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 324 |
 | Steintreppe | `stone_stairs` | 80 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6850586` | Renaissance-Palazzo an Via della Vigna Nuova | 16.907 | 14.1–14.9 |
+| 1 | `r6850586` | Renaissance-Palazzo an Via della Vigna Nuova | 15.244 | 14.1–14.9 |
 | 2 | `r6850586_innen` | Renaissance-Palazzo an Via della Vigna Nuova: Innenausbau | 3.511 | 14.10–14.11 |
 | 3 | `w116673419` | Reihenhaus an Via dei Federighi | 8.383 | 14.12–14.16 |
 | 4 | `w116673419_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 1.971 | 14.17 |
-| 5 | `w116673446` | Renaissance-Palazzo an Via dei Federighi | 10.978 | 14.18–14.23 |
+| 5 | `w116673446` | Renaissance-Palazzo an Via dei Federighi | 10.613 | 14.18–14.23 |
 | 6 | `w116673446_innen` | Renaissance-Palazzo an Via dei Federighi: Innenausbau | 1.534 | 14.24 |
-| 7 | `w463879822` | Reihenhaus an Via della Vigna Nuova | 9.160 | 14.25–14.29 |
+| 7 | `w463879822` | Reihenhaus an Via della Vigna Nuova | 8.426 | 14.25–14.29 |
 | 8 | `w463879822_innen` | Reihenhaus an Via della Vigna Nuova: Innenausbau | 2.458 | 14.30–14.31 |
-| 9 | `w463879826` | Reihenhaus an Via dei Federighi | 3.840 | 14.32–14.33 |
+| 9 | `w463879826` | Reihenhaus an Via dei Federighi | 3.734 | 14.32–14.33 |
 | 10 | `w463879826_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 712 | 14.34 |
 | 11 | `w463879860` | Reihenhaus an Via dei Federighi | 3.621 | 14.35–14.36 |
 | 12 | `w463879860_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 1.433 | 14.37 |
-| 13 | `w463879862` | Reihenhaus an Via dei Palchetti | 3.244 | 14.38–14.39 |
+| 13 | `w463879862` | Reihenhaus an Via dei Palchetti | 3.213 | 14.38–14.39 |
 | 14 | `w463879862_innen` | Reihenhaus an Via dei Palchetti: Innenausbau | 1.451 | 14.40 |
-| 15 | `w463879899` | Reihenhaus an Via dei Federighi | 6.332 | 14.41–14.44 |
-| 16 | `w463879899_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 2.428 | 14.45–14.46 |
-| 17 | `strassenschilder` | Straßenschilder | 8 | 14.46 |
+| 15 | `w463879899` | Reihenhaus an Via dei Federighi | 5.587 | 14.41–14.43 |
+| 16 | `w463879899_innen` | Reihenhaus an Via dei Federighi: Innenausbau | 2.428 | 14.44–14.45 |
+| 17 | `strassenschilder` | Straßenschilder | 8 | 14.45 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 1/9 (Y 59–60)
+### Schritt 14.1 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 1/9 (Y 59–59)
 
-- **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.825
+- **Y-Bereich:** 59 bis 59
+- **Blöcke:** 2.020
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.820 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+| Polierter Tuffstein | `polished_tuff` | 2.020 |
 
 **Beschreibung**
 
@@ -118,25 +108,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 2/9 (Y 61–61)
+### Schritt 14.2 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 2/9 (Y 60–63)
 
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 2.016
+- **Y-Bereich:** 60 bis 63
+- **Blöcke:** 1.257
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.011 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
+| Tuffstein | `tuff` | 769 |
+| Tuffsteinziegel | `tuff_bricks` | 148 |
+| Glatter Stein | `smooth_stone` | 147 |
+| Polierter Andesit | `polished_andesite` | 146 |
+| Graues Buntglas | `gray_stained_glass` | 47 |
 
 **Beschreibung**
 
@@ -154,19 +140,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 3/9 (Y 62–67)
+### Schritt 14.3 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 3/9 (Y 64–69)
 
-- **Y-Bereich:** 62 bis 67
-- **Blöcke:** 1.817
+- **Y-Bereich:** 64 bis 69
+- **Blöcke:** 1.811
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.095 |
-| Glatter Stein | `smooth_stone` | 214 |
-| Polierter Andesit | `polished_andesite` | 188 |
+| Tuffstein | `tuff` | 1.107 |
+| Polierter Andesit | `polished_andesite` | 192 |
+| Glatter Stein | `smooth_stone` | 192 |
 | Tuffsteinziegel | `tuff_bricks` | 179 |
 | Graues Buntglas | `gray_stained_glass` | 141 |
 
@@ -186,21 +172,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 4/9 (Y 68–73)
+### Schritt 14.4 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 4/9 (Y 70–74)
 
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.987
+- **Y-Bereich:** 70 bis 74
+- **Blöcke:** 1.685
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.195 |
-| Glatter Stein | `smooth_stone` | 329 |
-| Polierter Andesit | `polished_andesite` | 268 |
-| Tuffsteinziegel | `tuff_bricks` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 47 |
+| Tuffstein | `tuff` | 985 |
+| Glatter Stein | `smooth_stone` | 367 |
+| Polierter Andesit | `polished_andesite` | 267 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
 
 **Beschreibung**
 
@@ -218,9 +203,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.5 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 5/9 (Y 74–79)
+### Schritt 14.5 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 5/9 (Y 75–79)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 75 bis 79
+- **Blöcke:** 1.663
+- **Bauteile:** `r6850586`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 985 |
+| Glatter Stein | `smooth_stone` | 446 |
+| Polierter Andesit | `polished_andesite` | 166 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.6 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 6/9 (Y 80–85)
+
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.876
 - **Bauteile:** `r6850586`
 
@@ -229,8 +245,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.142 |
-| Glatter Stein | `smooth_stone` | 302 |
-| Polierter Andesit | `polished_andesite` | 300 |
+| Polierter Andesit | `polished_andesite` | 367 |
+| Glatter Stein | `smooth_stone` | 235 |
 | Graues Buntglas | `gray_stained_glass` | 132 |
 
 **Beschreibung**
@@ -249,19 +265,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.6 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 6/9 (Y 80–84)
+### Schritt 14.7 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 7/9 (Y 86–89)
 
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.712
+- **Y-Bereich:** 86 bis 89
+- **Blöcke:** 1.844
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.010 |
-| Glatter Stein | `smooth_stone` | 438 |
-| Polierter Andesit | `polished_andesite` | 231 |
+| Tuffstein | `tuff` | 803 |
+| Glatter Stein | `smooth_stone` | 775 |
+| Polierter Andesit | `polished_andesite` | 233 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 
 **Beschreibung**
@@ -280,20 +296,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.7 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 7/9 (Y 85–90)
+### Schritt 14.8 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 8/9 (Y 90–91)
 
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 2.086
+- **Y-Bereich:** 90 bis 91
+- **Blöcke:** 1.576
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.142 |
-| Glatter Stein | `smooth_stone` | 546 |
-| Polierter Andesit | `polished_andesite` | 266 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Terrakotta | `terracotta` | 1.576 |
 
 **Beschreibung**
 
@@ -311,48 +324,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.8 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 8/9 (Y 91–92)
+### Schritt 14.9 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 9/9 (Y 92–98)
 
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.519
+- **Y-Bereich:** 92 bis 98
+- **Blöcke:** 1.512
 - **Bauteile:** `r6850586`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 982 |
-| Glatter Stein | `smooth_stone` | 212 |
-| Tuffstein | `tuff` | 207 |
-| Polierter Andesit | `polished_andesite` | 118 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.9 – Renaissance-Palazzo an Via della Vigna Nuova – Teil 9/9 (Y 93–100)
-
-- **Y-Bereich:** 93 bis 100
-- **Blöcke:** 2.069
-- **Bauteile:** `r6850586`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.808 |
+| Terrakotta | `terracotta` | 1.251 |
 | Ziegelsteine | `bricks` | 261 |
 
 **Beschreibung**
@@ -371,9 +353,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.10 – Renaissance-Palazzo an Via della Vigna Nuova: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 14.10 – Renaissance-Palazzo an Via della Vigna Nuova: Innenausbau – Teil 1/2 (Y 59–70)
 
-- **Y-Bereich:** 61 bis 72
+- **Y-Bereich:** 59 bis 70
 - **Blöcke:** 1.757
 - **Bauteile:** `r6850586_innen`
 
@@ -413,9 +395,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.11 – Renaissance-Palazzo an Via della Vigna Nuova: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 14.11 – Renaissance-Palazzo an Via della Vigna Nuova: Innenausbau – Teil 2/2 (Y 71–80)
 
-- **Y-Bereich:** 73 bis 82
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.754
 - **Bauteile:** `r6850586_innen`
 
@@ -655,7 +637,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.18 – Renaissance-Palazzo an Via dei Federighi – Teil 1/6 (Y 60–63)
 
 - **Y-Bereich:** 60 bis 63
-- **Blöcke:** 1.878
+- **Blöcke:** 1.750
 - **Bauteile:** `w116673446`
 
 **Teileliste**
@@ -663,10 +645,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 973 |
-| Tuffstein | `tuff` | 647 |
-| Polierter Andesit | `polished_andesite` | 143 |
-| Tuffsteinziegel | `tuff_bricks` | 105 |
-| Glatter Stein | `smooth_stone` | 10 |
+| Tuffstein | `tuff` | 381 |
+| Polierter Andesit | `polished_andesite` | 183 |
+| Tuffsteinziegel | `tuff_bricks` | 150 |
+| Glatter Stein | `smooth_stone` | 63 |
 
 **Beschreibung**
 
@@ -687,17 +669,17 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.19 – Renaissance-Palazzo an Via dei Federighi – Teil 2/6 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.784
+- **Blöcke:** 1.781
 - **Bauteile:** `w116673446`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 839 |
-| Polierter Andesit | `polished_andesite` | 346 |
-| Tuffsteinziegel | `tuff_bricks` | 304 |
-| Glatter Stein | `smooth_stone` | 222 |
+| Tuffstein | `tuff` | 841 |
+| Polierter Andesit | `polished_andesite` | 383 |
+| Tuffsteinziegel | `tuff_bricks` | 315 |
+| Glatter Stein | `smooth_stone` | 169 |
 | Graues Buntglas | `gray_stained_glass` | 73 |
 
 **Beschreibung**
@@ -719,79 +701,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.20 – Renaissance-Palazzo an Via dei Federighi – Teil 3/6 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
-- **Blöcke:** 1.854
+- **Blöcke:** 1.841
 - **Bauteile:** `w116673446`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 861 |
-| Polierter Andesit | `polished_andesite` | 550 |
-| Glatter Stein | `smooth_stone` | 330 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
-| Tuffsteinziegel | `tuff_bricks` | 56 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.21 – Renaissance-Palazzo an Via dei Federighi – Teil 4/6 (Y 78–84)
-
-- **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.854
-- **Bauteile:** `w116673446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 861 |
-| Polierter Andesit | `polished_andesite` | 552 |
-| Glatter Stein | `smooth_stone` | 384 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.22 – Renaissance-Palazzo an Via dei Federighi – Teil 5/6 (Y 85–90)
-
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.720
-- **Bauteile:** `w116673446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 718 |
+| Tuffstein | `tuff` | 847 |
 | Polierter Andesit | `polished_andesite` | 556 |
-| Glatter Stein | `smooth_stone` | 370 |
+| Glatter Stein | `smooth_stone` | 362 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
 
 **Beschreibung**
@@ -810,18 +729,80 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.23 – Renaissance-Palazzo an Via dei Federighi – Teil 6/6 (Y 91–99)
+### Schritt 14.21 – Renaissance-Palazzo an Via dei Federighi – Teil 4/6 (Y 78–83)
 
-- **Y-Bereich:** 91 bis 99
-- **Blöcke:** 1.888
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.605
 - **Bauteile:** `w116673446`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.336 |
-| Glatter Stein | `smooth_stone` | 204 |
+| Tuffstein | `tuff` | 746 |
+| Polierter Andesit | `polished_andesite` | 469 |
+| Glatter Stein | `smooth_stone` | 352 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.22 – Renaissance-Palazzo an Via dei Federighi – Teil 5/6 (Y 84–89)
+
+- **Y-Bereich:** 84 bis 89
+- **Blöcke:** 1.725
+- **Bauteile:** `w116673446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 718 |
+| Polierter Andesit | `polished_andesite` | 556 |
+| Glatter Stein | `smooth_stone` | 375 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.23 – Renaissance-Palazzo an Via dei Federighi – Teil 6/6 (Y 90–98)
+
+- **Y-Bereich:** 90 bis 98
+- **Blöcke:** 1.911
+- **Bauteile:** `w116673446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.341 |
+| Glatter Stein | `smooth_stone` | 222 |
 | Polierter Andesit | `polished_andesite` | 133 |
 | Tuffstein | `tuff` | 129 |
 | Ziegelsteine | `bricks` | 86 |
@@ -844,7 +825,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.24 – Renaissance-Palazzo an Via dei Federighi: Innenausbau
 
-- **Y-Bereich:** 61 bis 82
+- **Y-Bereich:** 60 bis 81
 - **Blöcke:** 1.534
 - **Bauteile:** `w116673446_innen`
 
@@ -888,29 +869,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.25 – Reihenhaus an Via della Vigna Nuova – Teil 1/5 (Y 59–61)
+### Schritt 14.25 – Reihenhaus an Via della Vigna Nuova – Teil 1/5 (Y 58–62)
 
-- **Y-Bereich:** 59 bis 61
-- **Blöcke:** 1.923
+- **Y-Bereich:** 58 bis 62
+- **Blöcke:** 1.703
 - **Bauteile:** `w463879822`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 952 |
-| Tuffstein | `tuff` | 732 |
-| Hellgrauer Beton | `light_gray_concrete` | 191 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 26 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 30 |
+| Polierter Tuffstein | `polished_tuff` | 980 |
+| Hellgrauer Beton | `light_gray_concrete` | 620 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
+| Glatter Stein | `smooth_stone` | 25 |
+| Weißer Beton | `white_concrete` | 21 |
 
 **Beschreibung**
 
@@ -928,20 +901,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.26 – Reihenhaus an Via della Vigna Nuova – Teil 2/5 (Y 62–70)
+### Schritt 14.26 – Reihenhaus an Via della Vigna Nuova – Teil 2/5 (Y 63–70)
 
-- **Y-Bereich:** 62 bis 70
-- **Blöcke:** 1.716
+- **Y-Bereich:** 63 bis 70
+- **Blöcke:** 1.586
 - **Bauteile:** `w463879822`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.492 |
-| Graues Buntglas | `gray_stained_glass` | 89 |
-| Weißer Beton | `white_concrete` | 82 |
-| Glatter Stein | `smooth_stone` | 53 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.379 |
+| Weißer Beton | `white_concrete` | 91 |
+| Graues Buntglas | `gray_stained_glass` | 82 |
+| Glatter Stein | `smooth_stone` | 34 |
 
 **Beschreibung**
 
@@ -989,19 +962,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.28 – Reihenhaus an Via della Vigna Nuova – Teil 4/5 (Y 80–89)
+### Schritt 14.28 – Reihenhaus an Via della Vigna Nuova – Teil 4/5 (Y 80–87)
 
-- **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.999
+- **Y-Bereich:** 80 bis 87
+- **Blöcke:** 1.615
 - **Bauteile:** `w463879822`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.670 |
-| Weißer Beton | `white_concrete` | 192 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.354 |
+| Weißer Beton | `white_concrete` | 162 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
 | Fichtenholz-Bretter | `spruce_planks` | 23 |
 
 **Beschreibung**
@@ -1020,9 +993,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.29 – Reihenhaus an Via della Vigna Nuova – Teil 5/5 (Y 90–98)
+### Schritt 14.29 – Reihenhaus an Via della Vigna Nuova – Teil 5/5 (Y 88–96)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.752
 - **Bauteile:** `w463879822`
 
@@ -1051,9 +1024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.30 – Reihenhaus an Via della Vigna Nuova: Innenausbau – Teil 1/2 (Y 60–75)
+### Schritt 14.30 – Reihenhaus an Via della Vigna Nuova: Innenausbau – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 60 bis 75
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 864
 - **Bauteile:** `w463879822_innen`
 
@@ -1091,9 +1064,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.31 – Reihenhaus an Via della Vigna Nuova: Innenausbau – Teil 2/2 (Y 76–84)
+### Schritt 14.31 – Reihenhaus an Via della Vigna Nuova: Innenausbau – Teil 2/2 (Y 74–82)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.594
 - **Bauteile:** `w463879822_innen`
 
@@ -1136,18 +1109,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.32 – Reihenhaus an Via dei Federighi – Teil 1/2 (Y 60–77)
 
 - **Y-Bereich:** 60 bis 77
-- **Blöcke:** 1.894
+- **Blöcke:** 1.889
 - **Bauteile:** `w463879826`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.291 |
+| Glatter Sandstein | `smooth_sandstone` | 1.392 |
 | Polierter Tuffstein | `polished_tuff` | 307 |
 | Glatter Stein | `smooth_stone` | 151 |
-| Tuffstein | `tuff` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 28 |
+| Tuffstein | `tuff` | 7 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
@@ -1166,17 +1139,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.33 – Reihenhaus an Via dei Federighi – Teil 2/2 (Y 78–97)
+### Schritt 14.33 – Reihenhaus an Via dei Federighi – Teil 2/2 (Y 78–96)
 
-- **Y-Bereich:** 78 bis 97
-- **Blöcke:** 1.946
+- **Y-Bereich:** 78 bis 96
+- **Blöcke:** 1.845
 - **Bauteile:** `w463879826`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.354 |
+| Glatter Sandstein | `smooth_sandstone` | 1.253 |
 | Terrakotta | `terracotta` | 379 |
 | Glatter Stein | `smooth_stone` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
@@ -1200,7 +1173,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.34 – Reihenhaus an Via dei Federighi: Innenausbau
 
-- **Y-Bereich:** 62 bis 85
+- **Y-Bereich:** 61 bis 84
 - **Blöcke:** 712
 - **Bauteile:** `w463879826_innen`
 
@@ -1239,14 +1212,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.35 – Reihenhaus an Via dei Federighi – Teil 1/2 (Y 59–75)
 
 - **Y-Bereich:** 59 bis 75
-- **Blöcke:** 1.802
+- **Blöcke:** 1.772
 - **Bauteile:** `w463879860`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.232 |
+| Rosa Keramik | `pink_terracotta` | 1.202 |
 | Polierter Tuffstein | `polished_tuff` | 516 |
 | Graues Buntglas | `gray_stained_glass` | 22 |
 | Glatter Stein | `smooth_stone` | 18 |
@@ -1272,14 +1245,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.36 – Reihenhaus an Via dei Federighi – Teil 2/2 (Y 76–95)
 
 - **Y-Bereich:** 76 bis 95
-- **Blöcke:** 1.819
+- **Blöcke:** 1.849
 - **Bauteile:** `w463879860`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.107 |
+| Rosa Keramik | `pink_terracotta` | 1.137 |
 | Terrakotta | `terracotta` | 630 |
 | Ziegelsteine | `bricks` | 38 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
@@ -1341,19 +1314,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.38 – Reihenhaus an Via dei Palchetti – Teil 1/2 (Y 60–76)
+### Schritt 14.38 – Reihenhaus an Via dei Palchetti – Teil 1/2 (Y 60–77)
 
-- **Y-Bereich:** 60 bis 76
-- **Blöcke:** 1.606
+- **Y-Bereich:** 60 bis 77
+- **Blöcke:** 1.621
 - **Bauteile:** `w463879862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 836 |
+| Weißer Beton | `white_concrete` | 826 |
 | Polierter Tuffstein | `polished_tuff` | 511 |
-| Glatter Stein | `smooth_stone` | 152 |
+| Glatter Stein | `smooth_stone` | 177 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 | Grüner Beton | `green_concrete` | 20 |
 | Polierter Andesit | `polished_andesite` | 5 |
@@ -1374,19 +1347,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.39 – Reihenhaus an Via dei Palchetti – Teil 2/2 (Y 77–96)
+### Schritt 14.39 – Reihenhaus an Via dei Palchetti – Teil 2/2 (Y 78–96)
 
-- **Y-Bereich:** 77 bis 96
-- **Blöcke:** 1.638
+- **Y-Bereich:** 78 bis 96
+- **Blöcke:** 1.592
 - **Bauteile:** `w463879862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 670 |
+| Weißer Beton | `white_concrete` | 649 |
 | Terrakotta | `terracotta` | 639 |
-| Glatter Stein | `smooth_stone` | 160 |
+| Glatter Stein | `smooth_stone` | 135 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Ziegelsteine | `bricks` | 57 |
 | Grüner Beton | `green_concrete` | 40 |
@@ -1449,49 +1422,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.41 – Reihenhaus an Via dei Federighi – Teil 1/4 (Y 59–62)
+### Schritt 14.41 – Reihenhaus an Via dei Federighi – Teil 1/3 (Y 59–69)
 
-- **Y-Bereich:** 59 bis 62
-- **Blöcke:** 1.627
+- **Y-Bereich:** 59 bis 69
+- **Blöcke:** 1.914
 - **Bauteile:** `w463879899`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 985 |
 | Polierter Tuffstein | `polished_tuff` | 880 |
-| Tuffstein | `tuff` | 747 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.42 – Reihenhaus an Via dei Federighi – Teil 2/4 (Y 63–76)
-
-- **Y-Bereich:** 63 bis 76
-- **Blöcke:** 1.547
-- **Bauteile:** `w463879899`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.464 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
 | Glatter Stein | `smooth_stone` | 19 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
 | Polierter Andesit | `polished_andesite` | 8 |
+| Tuffstein | `tuff` | 6 |
 
 **Beschreibung**
 
@@ -1509,18 +1455,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.43 – Reihenhaus an Via dei Federighi – Teil 3/4 (Y 77–90)
+### Schritt 14.42 – Reihenhaus an Via dei Federighi – Teil 2/3 (Y 70–85)
 
-- **Y-Bereich:** 77 bis 90
-- **Blöcke:** 1.580
+- **Y-Bereich:** 70 bis 85
+- **Blöcke:** 1.786
 - **Bauteile:** `w463879899`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.500 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
+| Rosa Keramik | `pink_terracotta` | 1.696 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
 
 **Beschreibung**
 
@@ -1538,10 +1484,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.44 – Reihenhaus an Via dei Federighi – Teil 4/4 (Y 91–97)
+### Schritt 14.43 – Reihenhaus an Via dei Federighi – Teil 3/3 (Y 86–95)
 
-- **Y-Bereich:** 91 bis 97
-- **Blöcke:** 1.578
+- **Y-Bereich:** 86 bis 95
+- **Blöcke:** 1.887
 - **Bauteile:** `w463879899`
 
 **Teileliste**
@@ -1549,8 +1495,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.108 |
-| Rosa Keramik | `pink_terracotta` | 415 |
+| Rosa Keramik | `pink_terracotta` | 694 |
 | Ziegelsteine | `bricks` | 55 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
 
 **Beschreibung**
 
@@ -1568,10 +1515,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.45 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 14.44 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 62 bis 77
-- **Blöcke:** 850
+- **Y-Bereich:** 60 bis 75
+- **Blöcke:** 853
 - **Bauteile:** `w463879899_innen`
 
 **Teileliste**
@@ -1579,9 +1526,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 757 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 46 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 17 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 15 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -1592,7 +1539,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 34 |
 
 **Beschreibung**
 
@@ -1610,10 +1557,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.46 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
+### Schritt 14.45 – Reihenhaus an Via dei Federighi: Innenausbau – Teil 2/2 (Y 76–84) & Straßenschilder
 
-- **Y-Bereich:** 65 bis 86
-- **Blöcke:** 1.586
+- **Y-Bereich:** 65 bis 84
+- **Blöcke:** 1.583
 - **Bauteile:** `w463879899_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1621,22 +1568,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.514 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 11 |
 | Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 

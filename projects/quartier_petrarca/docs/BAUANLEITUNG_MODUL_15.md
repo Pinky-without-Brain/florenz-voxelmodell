@@ -8,122 +8,93 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.104 |
-| Bauschritte | 50 |
-| Y-Bereich | 56 bis 105 |
+| Blöcke | 79.831 |
+| Bauschritte | 46 |
+| Y-Bereich | 56 bis 102 |
 | X-Ausdehnung | -2910 bis -2776 (135 Blöcke) |
 | Z-Ausdehnung | 1540 bis 1725 (186 Blöcke) |
-| Kleinster Schritt | 763 Blöcke (Schritt 15.23) |
-| Mittlerer Schritt | 1.682 Blöcke |
-| Größter Schritt | 2.051 Blöcke (Schritt 15.26) |
+| Kleinster Schritt | 763 Blöcke (Schritt 15.20) |
+| Mittlerer Schritt | 1.735 Blöcke |
+| Größter Schritt | 2.050 Blöcke (Schritt 15.44) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 22.848 | 27,2 % |
-| Weißer Beton | `white_concrete` | 9.893 | 11,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.857 | 11,7 % |
-| Tuffstein | `tuff` | 9.397 | 11,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.941 | 10,6 % |
-| Polierter Tuffstein | `polished_tuff` | 6.796 | 8,1 % |
-| Rosa Keramik | `pink_terracotta` | 5.797 | 6,9 % |
-| Endsteinziegel | `end_stone_bricks` | 3.057 | 3,6 % |
-| Polierter Andesit | `polished_andesite` | 2.403 | 2,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.656 | 2,0 % |
-| Glatter Stein | `smooth_stone` | 1.016 | 1,2 % |
+| Terrakotta | `terracotta` | 22.849 | 28,6 % |
+| Weißer Beton | `white_concrete` | 9.955 | 12,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.857 | 12,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 8.992 | 11,3 % |
+| Polierter Tuffstein | `polished_tuff` | 6.796 | 8,5 % |
+| Rosa Keramik | `pink_terracotta` | 5.797 | 7,3 % |
+| Tuffstein | `tuff` | 5.028 | 6,3 % |
+| Endsteinziegel | `end_stone_bricks` | 3.027 | 3,8 % |
+| Polierter Andesit | `polished_andesite` | 2.403 | 3,0 % |
+| Graues Buntglas | `gray_stained_glass` | 1.656 | 2,1 % |
+| Glatter Stein | `smooth_stone` | 1.018 | 1,3 % |
 | Ziegelsteine | `bricks` | 516 | 0,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 493 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 385 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 386 | 0,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 315 | 0,4 % |
 | Grüner Beton | `green_concrete` | 213 | 0,3 % |
-| Seelaterne | `sea_lantern` | 130 | 0,2 % |
+| Seelaterne | `sea_lantern` | 133 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 73 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 73 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 72 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 67 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 67 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 66 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 25 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 4 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 4 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 278 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 280 |
 | Steintreppe | `stone_stairs` | 80 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443011366` | Reihenhaus an Via dei Villani | 8.781 | 15.1–15.5 |
-| 2 | `w443011366_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.713 | 15.6 |
-| 3 | `w443011367` | Reihenhaus an Via dei Villani | 5.555 | 15.7–15.9 |
-| 4 | `w443011367_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.298 | 15.10 |
-| 5 | `w443011377` | Reihenhaus an Via dei Villani | 8.761 | 15.11–15.15 |
-| 6 | `w443011377_innen` | Reihenhaus an Via dei Villani: Innenausbau | 2.442 | 15.16–15.17 |
-| 7 | `w443011384` | Reihenhaus an Via dei Villani | 7.765 | 15.18–15.22 |
-| 8 | `w443011384_innen` | Reihenhaus an Via dei Villani: Innenausbau | 2.169 | 15.23–15.24 |
-| 9 | `w464120056` | Palazzo des Cinquecento an Via San Francesco di Paola | 12.829 | 15.25–15.31 |
-| 10 | `w464120056_innen` | Palazzo des Cinquecento an Via San Francesco di Paola: Innenausbau | 1.902 | 15.32 |
-| 11 | `w464120210` | Reihenhaus an Via San Francesco di Paola | 8.614 | 15.33–15.37 |
-| 12 | `w464120210_innen` | Reihenhaus an Via San Francesco di Paola: Innenausbau | 1.999 | 15.38 |
-| 13 | `w464120227` | Palazzo des Cinquecento an Via dei Villani | 10.239 | 15.39–15.44 |
-| 14 | `w464120227_innen` | Palazzo des Cinquecento an Via dei Villani: Innenausbau | 1.715 | 15.45 |
-| 15 | `w464120239` | Reihenhaus an Via dei Villani | 6.424 | 15.46–15.49 |
-| 16 | `w464120239_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.898 | 15.50 |
+| 1 | `w443011366` | Reihenhaus an Via dei Villani | 7.943 | 15.1–15.4 |
+| 2 | `w443011366_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.713 | 15.5 |
+| 3 | `w443011367` | Reihenhaus an Via dei Villani | 5.145 | 15.6–15.8 |
+| 4 | `w443011367_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.298 | 15.9 |
+| 5 | `w443011377` | Reihenhaus an Via dei Villani | 7.778 | 15.10–15.13 |
+| 6 | `w443011377_innen` | Reihenhaus an Via dei Villani: Innenausbau | 2.442 | 15.14–15.15 |
+| 7 | `w443011384` | Reihenhaus an Via dei Villani | 7.168 | 15.16–15.19 |
+| 8 | `w443011384_innen` | Reihenhaus an Via dei Villani: Innenausbau | 2.169 | 15.20–15.21 |
+| 9 | `w464120056` | Palazzo des Cinquecento an Via San Francesco di Paola | 11.998 | 15.22–15.28 |
+| 10 | `w464120056_innen` | Palazzo des Cinquecento an Via San Francesco di Paola: Innenausbau | 1.902 | 15.29 |
+| 11 | `w464120210` | Reihenhaus an Via San Francesco di Paola | 8.404 | 15.30–15.34 |
+| 12 | `w464120210_innen` | Reihenhaus an Via San Francesco di Paola: Innenausbau | 1.999 | 15.35 |
+| 13 | `w464120227` | Palazzo des Cinquecento an Via dei Villani | 10.292 | 15.36–15.41 |
+| 14 | `w464120227_innen` | Palazzo des Cinquecento an Via dei Villani: Innenausbau | 1.715 | 15.42 |
+| 15 | `w464120239` | Reihenhaus an Via dei Villani | 5.957 | 15.43–15.45 |
+| 16 | `w464120239_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.908 | 15.46 |
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 64–69)
+### Schritt 15.1 – Reihenhaus an Via dei Villani – Teil 1/4 (Y 64–71)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.810
+- **Y-Bereich:** 64 bis 71
+- **Blöcke:** 1.938
 - **Bauteile:** `w443011366`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 871 |
+| Glatter Sandstein | `smooth_sandstone` | 937 |
 | Polierter Tuffstein | `polished_tuff` | 741 |
-| Glatter Sandstein | `smooth_sandstone` | 195 |
-| Glatter Stein | `smooth_stone` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.2 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 70–78)
-
-- **Y-Bereich:** 70 bis 78
-- **Blöcke:** 1.782
-- **Bauteile:** `w443011366`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.450 |
-| Weißer Beton | `white_concrete` | 259 |
+| Weißer Beton | `white_concrete` | 151 |
 | Graues Buntglas | `gray_stained_glass` | 38 |
+| Tuffstein | `tuff` | 33 |
 | Polierter Andesit | `polished_andesite` | 19 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
@@ -141,48 +112,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via dei Villani – Teil 3/5 (Y 79–87)
+### Schritt 15.2 – Reihenhaus an Via dei Villani – Teil 2/4 (Y 72–81)
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.771
+- **Y-Bereich:** 72 bis 81
+- **Blöcke:** 2.001
 - **Bauteile:** `w443011366`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.292 |
-| Weißer Beton | `white_concrete` | 374 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.4 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 88–95)
-
-- **Y-Bereich:** 88 bis 95
-- **Blöcke:** 1.593
-- **Bauteile:** `w443011366`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.226 |
-| Weißer Beton | `white_concrete` | 304 |
+| Glatter Sandstein | `smooth_sandstone` | 1.582 |
+| Weißer Beton | `white_concrete` | 356 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 
 **Beschreibung**
@@ -201,21 +142,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 96–104)
+### Schritt 15.3 – Reihenhaus an Via dei Villani – Teil 3/4 (Y 82–91)
 
-- **Y-Bereich:** 96 bis 104
-- **Blöcke:** 1.825
+- **Y-Bereich:** 82 bis 91
+- **Blöcke:** 1.988
 - **Bauteile:** `w443011366`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.009 |
-| Glatter Sandstein | `smooth_sandstone` | 469 |
-| Fichtenholz-Bretter | `spruce_planks` | 148 |
-| Weißer Beton | `white_concrete` | 143 |
-| Ziegelsteine | `bricks` | 56 |
+| Glatter Sandstein | `smooth_sandstone` | 1.509 |
+| Weißer Beton | `white_concrete` | 395 |
+| Graues Buntglas | `gray_stained_glass` | 84 |
 
 **Beschreibung**
 
@@ -233,9 +172,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Reihenhaus an Via dei Villani: Innenausbau
+### Schritt 15.4 – Reihenhaus an Via dei Villani – Teil 4/4 (Y 92–101)
 
-- **Y-Bereich:** 68 bis 91
+- **Y-Bereich:** 92 bis 101
+- **Blöcke:** 2.016
+- **Bauteile:** `w443011366`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.009 |
+| Glatter Sandstein | `smooth_sandstone` | 604 |
+| Weißer Beton | `white_concrete` | 178 |
+| Fichtenholz-Bretter | `spruce_planks` | 148 |
+| Ziegelsteine | `bricks` | 56 |
+| Graues Buntglas | `gray_stained_glass` | 21 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 15.5 – Reihenhaus an Via dei Villani: Innenausbau
+
+- **Y-Bereich:** 65 bis 88
 - **Blöcke:** 1.713
 - **Bauteile:** `w443011366_innen`
 
@@ -271,22 +243,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.7 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 63–71)
+### Schritt 15.6 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 63–73)
 
-- **Y-Bereich:** 63 bis 71
-- **Blöcke:** 1.834
+- **Y-Bereich:** 63 bis 73
+- **Blöcke:** 1.736
 - **Bauteile:** `w443011367`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 846 |
+| Weißer Beton | `white_concrete` | 664 |
 | Polierter Tuffstein | `polished_tuff` | 517 |
-| Weißer Beton | `white_concrete` | 419 |
-| Hellgrauer Beton | `light_gray_concrete` | 33 |
-| Glatter Stein | `smooth_stone` | 12 |
-| Graues Buntglas | `gray_stained_glass` | 7 |
+| Tuffstein | `tuff` | 436 |
+| Hellgrauer Beton | `light_gray_concrete` | 79 |
+| Graues Buntglas | `gray_stained_glass` | 21 |
+| Glatter Stein | `smooth_stone` | 19 |
 
 **Beschreibung**
 
@@ -304,20 +276,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 72–87)
+### Schritt 15.7 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 74–88)
 
-- **Y-Bereich:** 72 bis 87
-- **Blöcke:** 1.840
+- **Y-Bereich:** 74 bis 88
+- **Blöcke:** 1.731
 - **Bauteile:** `w443011367`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.515 |
-| Hellgrauer Beton | `light_gray_concrete` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
-| Glatter Stein | `smooth_stone` | 7 |
+| Weißer Beton | `white_concrete` | 1.407 |
+| Hellgrauer Beton | `light_gray_concrete` | 276 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
@@ -335,19 +306,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.9 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 88–103)
+### Schritt 15.8 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 89–102)
 
-- **Y-Bereich:** 88 bis 103
-- **Blöcke:** 1.881
+- **Y-Bereich:** 89 bis 102
+- **Blöcke:** 1.678
 - **Bauteile:** `w443011367`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 978 |
-| Terrakotta | `terracotta` | 636 |
-| Hellgrauer Beton | `light_gray_concrete` | 204 |
+| Weißer Beton | `white_concrete` | 839 |
+| Terrakotta | `terracotta` | 638 |
+| Hellgrauer Beton | `light_gray_concrete` | 138 |
 | Ziegelsteine | `bricks` | 39 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -367,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.10 – Reihenhaus an Via dei Villani: Innenausbau
+### Schritt 15.9 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 67 bis 90
+- **Y-Bereich:** 66 bis 89
 - **Blöcke:** 1.298
 - **Bauteile:** `w443011367_innen`
 
@@ -405,18 +376,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.11 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 62–66)
+### Schritt 15.10 – Reihenhaus an Via dei Villani – Teil 1/4 (Y 62–68)
 
-- **Y-Bereich:** 62 bis 66
-- **Blöcke:** 2.027
+- **Y-Bereich:** 62 bis 68
+- **Blöcke:** 1.929
 - **Bauteile:** `w443011377`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.066 |
 | Polierter Tuffstein | `polished_tuff` | 961 |
+| Weißer Beton | `white_concrete` | 807 |
+| Polierter Andesit | `polished_andesite` | 85 |
+| Graues Buntglas | `gray_stained_glass` | 57 |
+| Tuffstein | `tuff` | 19 |
 
 **Beschreibung**
 
@@ -434,19 +408,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.12 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 67–74)
+### Schritt 15.11 – Reihenhaus an Via dei Villani – Teil 2/4 (Y 69–79)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 1.420
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 1.968
 - **Bauteile:** `w443011377`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.208 |
-| Polierter Andesit | `polished_andesite` | 141 |
-| Graues Buntglas | `gray_stained_glass` | 71 |
+| Weißer Beton | `white_concrete` | 1.707 |
+| Polierter Andesit | `polished_andesite` | 207 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
 
@@ -464,48 +438,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.13 – Reihenhaus an Via dei Villani – Teil 3/5 (Y 75–84)
+### Schritt 15.12 – Reihenhaus an Via dei Villani – Teil 3/4 (Y 80–90)
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.795
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.966
 - **Bauteile:** `w443011377`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.537 |
-| Polierter Andesit | `polished_andesite` | 208 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.14 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 85–94)
-
-- **Y-Bereich:** 85 bis 94
-- **Blöcke:** 1.780
-- **Bauteile:** `w443011377`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.496 |
-| Polierter Andesit | `polished_andesite` | 214 |
+| Weißer Beton | `white_concrete` | 1.646 |
+| Polierter Andesit | `polished_andesite` | 250 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
@@ -524,10 +468,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.15 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 95–105)
+### Schritt 15.13 – Reihenhaus an Via dei Villani – Teil 4/4 (Y 91–102)
 
-- **Y-Bereich:** 95 bis 105
-- **Blöcke:** 1.739
+- **Y-Bereich:** 91 bis 102
+- **Blöcke:** 1.915
 - **Bauteile:** `w443011377`
 
 **Teileliste**
@@ -535,9 +479,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.209 |
-| Weißer Beton | `white_concrete` | 415 |
+| Weißer Beton | `white_concrete` | 560 |
 | Ziegelsteine | `bricks` | 84 |
-| Polierter Andesit | `polished_andesite` | 31 |
+| Polierter Andesit | `polished_andesite` | 52 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
 
 **Beschreibung**
 
@@ -555,9 +500,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.16 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 66–81)
+### Schritt 15.14 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 63–78)
 
-- **Y-Bereich:** 66 bis 81
+- **Y-Bereich:** 63 bis 78
 - **Blöcke:** 854
 - **Bauteile:** `w443011377_innen`
 
@@ -593,9 +538,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.17 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 82–89)
+### Schritt 15.15 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 79–86)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.588
 - **Bauteile:** `w443011377_innen`
 
@@ -631,38 +576,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.18 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 61–64)
+### Schritt 15.16 – Reihenhaus an Via dei Villani – Teil 1/4 (Y 61–66)
 
-- **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.295
-- **Bauteile:** `w443011384`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.295 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.19 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 65–72)
-
-- **Y-Bereich:** 65 bis 72
-- **Blöcke:** 1.867
+- **Y-Bereich:** 61 bis 66
+- **Blöcke:** 1.818
 - **Bauteile:** `w443011384`
 
 **Teileliste**
@@ -670,10 +587,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 840 |
-| Gelbe Keramik | `yellow_terracotta` | 813 |
-| Weißer Beton | `white_concrete` | 83 |
-| Graues Buntglas | `gray_stained_glass` | 73 |
-| Glatter Stein | `smooth_stone` | 58 |
+| Tuffstein | `tuff` | 698 |
+| Gelbe Keramik | `yellow_terracotta` | 246 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
@@ -691,20 +608,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.20 – Reihenhaus an Via dei Villani – Teil 3/5 (Y 73–82)
+### Schritt 15.17 – Reihenhaus an Via dei Villani – Teil 2/4 (Y 67–78)
 
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.483
+- **Y-Bereich:** 67 bis 78
+- **Blöcke:** 1.736
 - **Bauteile:** `w443011384`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.202 |
-| Weißer Beton | `white_concrete` | 230 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-| Glatter Stein | `smooth_stone` | 15 |
+| Gelbe Keramik | `yellow_terracotta` | 1.366 |
+| Weißer Beton | `white_concrete` | 222 |
+| Graues Buntglas | `gray_stained_glass` | 91 |
+| Glatter Stein | `smooth_stone` | 57 |
 
 **Beschreibung**
 
@@ -722,19 +639,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.21 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 83–93)
+### Schritt 15.18 – Reihenhaus an Via dei Villani – Teil 3/4 (Y 79–90)
 
-- **Y-Bereich:** 83 bis 93
-- **Blöcke:** 1.616
+- **Y-Bereich:** 79 bis 90
+- **Blöcke:** 1.776
 - **Bauteile:** `w443011384`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.280 |
-| Weißer Beton | `white_concrete` | 276 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
+| Gelbe Keramik | `yellow_terracotta` | 1.419 |
+| Weißer Beton | `white_concrete` | 309 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
@@ -752,10 +669,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.22 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 94–102)
+### Schritt 15.19 – Reihenhaus an Via dei Villani – Teil 4/4 (Y 91–101)
 
-- **Y-Bereich:** 94 bis 102
-- **Blöcke:** 1.504
+- **Y-Bereich:** 91 bis 101
+- **Blöcke:** 1.838
 - **Bauteile:** `w443011384`
 
 **Teileliste**
@@ -763,10 +680,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.072 |
-| Gelbe Keramik | `yellow_terracotta` | 246 |
+| Gelbe Keramik | `yellow_terracotta` | 510 |
+| Weißer Beton | `white_concrete` | 114 |
 | Fichtenholz-Bretter | `spruce_planks` | 68 |
 | Ziegelsteine | `bricks` | 62 |
-| Weißer Beton | `white_concrete` | 56 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
@@ -784,9 +702,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.23 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 65–80)
+### Schritt 15.20 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 64–79)
 
-- **Y-Bereich:** 65 bis 80
+- **Y-Bereich:** 64 bis 79
 - **Blöcke:** 763
 - **Bauteile:** `w443011384_innen`
 
@@ -822,9 +740,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.24 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 81–88)
+### Schritt 15.21 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 80–87)
 
-- **Y-Bereich:** 81 bis 88
+- **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.406
 - **Bauteile:** `w443011384_innen`
 
@@ -860,38 +778,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.25 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 1/7 (Y 56–60)
+### Schritt 15.22 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 1/7 (Y 56–60)
 
 - **Y-Bereich:** 56 bis 60
-- **Blöcke:** 1.683
-- **Bauteile:** `w464120056`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.683 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.26 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 2/7 (Y 61–64)
-
-- **Y-Bereich:** 61 bis 64
-- **Blöcke:** 2.051
+- **Blöcke:** 2.032
 - **Bauteile:** `w464120056`
 
 **Teileliste**
@@ -899,9 +789,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.180 |
-| Gelbe Keramik | `yellow_terracotta` | 691 |
-| Polierter Andesit | `polished_andesite` | 175 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Tuffstein | `tuff` | 852 |
 
 **Beschreibung**
 
@@ -919,22 +807,117 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.27 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 3/7 (Y 65–71)
+### Schritt 15.23 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 2/7 (Y 61–65)
 
-- **Y-Bereich:** 65 bis 71
-- **Blöcke:** 1.892
+- **Y-Bereich:** 61 bis 65
+- **Blöcke:** 1.397
 - **Bauteile:** `w464120056`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.371 |
+| Gelbe Keramik | `yellow_terracotta` | 1.061 |
+| Polierter Andesit | `polished_andesite` | 262 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+| Grüner Beton | `green_concrete` | 24 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 15.24 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 3/7 (Y 66–71)
+
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.644
+- **Bauteile:** `w464120056`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.267 |
+| Polierter Andesit | `polished_andesite` | 157 |
+| Glatter Stein | `smooth_stone` | 150 |
+| Graues Buntglas | `gray_stained_glass` | 42 |
+| Grüner Beton | `green_concrete` | 24 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 15.25 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 4/7 (Y 72–78)
+
+- **Y-Bereich:** 72 bis 78
+- **Blöcke:** 1.876
+- **Bauteile:** `w464120056`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.335 |
+| Polierter Andesit | `polished_andesite` | 313 |
+| Graues Buntglas | `gray_stained_glass` | 138 |
+| Grüner Beton | `green_concrete` | 90 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 15.26 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 5/7 (Y 79–84)
+
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.654
+- **Bauteile:** `w464120056`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.196 |
 | Polierter Andesit | `polished_andesite` | 232 |
 | Glatter Stein | `smooth_stone` | 150 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Grüner Beton | `green_concrete` | 48 |
-| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
+| Grüner Beton | `green_concrete` | 30 |
 
 **Beschreibung**
 
@@ -952,50 +935,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.28 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 4/7 (Y 72–77)
+### Schritt 15.27 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 6/7 (Y 85–90)
 
-- **Y-Bereich:** 72 bis 77
-- **Blöcke:** 1.626
+- **Y-Bereich:** 85 bis 90
+- **Blöcke:** 1.770
 - **Bauteile:** `w464120056`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.229 |
-| Polierter Andesit | `polished_andesite` | 245 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Grüner Beton | `green_concrete` | 60 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.29 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 5/7 (Y 78–84)
-
-- **Y-Bereich:** 78 bis 84
-- **Blöcke:** 1.918
-- **Bauteile:** `w464120056`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.378 |
-| Polierter Andesit | `polished_andesite` | 276 |
-| Glatter Stein | `smooth_stone` | 150 |
+| Gelbe Keramik | `yellow_terracotta` | 1.457 |
+| Polierter Andesit | `polished_andesite` | 199 |
 | Graues Buntglas | `gray_stained_glass` | 69 |
 | Grüner Beton | `green_concrete` | 45 |
 
@@ -1015,41 +966,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.30 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 6/7 (Y 85–90)
+### Schritt 15.28 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 7/7 (Y 91–98)
 
-- **Y-Bereich:** 85 bis 90
-- **Blöcke:** 1.684
-- **Bauteile:** `w464120056`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.301 |
-| Polierter Andesit | `polished_andesite` | 231 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
-| Grüner Beton | `green_concrete` | 60 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.31 – Palazzo des Cinquecento an Via San Francesco di Paola – Teil 7/7 (Y 91–99)
-
-- **Y-Bereich:** 91 bis 99
-- **Blöcke:** 1.975
+- **Y-Bereich:** 91 bis 98
+- **Blöcke:** 1.625
 - **Bauteile:** `w464120056`
 
 **Teileliste**
@@ -1057,9 +977,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.536 |
-| Gelbe Keramik | `yellow_terracotta` | 346 |
 | Ziegelsteine | `bricks` | 89 |
-| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -1077,9 +995,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.32 – Palazzo des Cinquecento an Via San Francesco di Paola: Innenausbau
+### Schritt 15.29 – Palazzo des Cinquecento an Via San Francesco di Paola: Innenausbau
 
-- **Y-Bereich:** 61 bis 82
+- **Y-Bereich:** 60 bis 81
 - **Blöcke:** 1.902
 - **Bauteile:** `w464120056_innen`
 
@@ -1117,10 +1035,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.33 – Reihenhaus an Via San Francesco di Paola – Teil 1/5 (Y 57–64)
+### Schritt 15.30 – Reihenhaus an Via San Francesco di Paola – Teil 1/5 (Y 57–64)
 
 - **Y-Bereich:** 57 bis 64
-- **Blöcke:** 1.642
+- **Blöcke:** 1.641
 - **Bauteile:** `w464120210`
 
 **Teileliste**
@@ -1128,10 +1046,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 842 |
-| Tuffstein | `tuff` | 382 |
-| Rosa Keramik | `pink_terracotta` | 376 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Rosa Keramik | `pink_terracotta` | 564 |
+| Tuffstein | `tuff` | 172 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Glatter Stein | `smooth_stone` | 27 |
 
 **Beschreibung**
 
@@ -1149,19 +1067,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.34 – Reihenhaus an Via San Francesco di Paola – Teil 2/5 (Y 65–73)
+### Schritt 15.31 – Reihenhaus an Via San Francesco di Paola – Teil 2/5 (Y 65–72)
 
-- **Y-Bereich:** 65 bis 73
-- **Blöcke:** 1.844
+- **Y-Bereich:** 65 bis 72
+- **Blöcke:** 1.635
 - **Bauteile:** `w464120210`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.690 |
-| Graues Buntglas | `gray_stained_glass` | 86 |
-| Glatter Stein | `smooth_stone` | 57 |
+| Rosa Keramik | `pink_terracotta` | 1.502 |
+| Graues Buntglas | `gray_stained_glass` | 74 |
+| Glatter Stein | `smooth_stone` | 48 |
 | Fichtenholz-Bretter | `spruce_planks` | 11 |
 
 **Beschreibung**
@@ -1180,19 +1098,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.35 – Reihenhaus an Via San Francesco di Paola – Teil 3/5 (Y 74–81)
+### Schritt 15.32 – Reihenhaus an Via San Francesco di Paola – Teil 3/5 (Y 73–81)
 
-- **Y-Bereich:** 74 bis 81
-- **Blöcke:** 1.633
+- **Y-Bereich:** 73 bis 81
+- **Blöcke:** 1.833
 - **Bauteile:** `w464120210`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.501 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
-| Fichtenholz-Bretter | `spruce_planks` | 44 |
+| Rosa Keramik | `pink_terracotta` | 1.672 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Fichtenholz-Bretter | `spruce_planks` | 55 |
 
 **Beschreibung**
 
@@ -1210,19 +1128,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.36 – Reihenhaus an Via San Francesco di Paola – Teil 4/5 (Y 82–90)
+### Schritt 15.33 – Reihenhaus an Via San Francesco di Paola – Teil 4/5 (Y 82–89)
 
-- **Y-Bereich:** 82 bis 90
-- **Blöcke:** 1.844
+- **Y-Bereich:** 82 bis 89
+- **Blöcke:** 1.644
 - **Bauteile:** `w464120210`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.712 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
-| Fichtenholz-Bretter | `spruce_planks` | 44 |
+| Rosa Keramik | `pink_terracotta` | 1.541 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Fichtenholz-Bretter | `spruce_planks` | 33 |
 
 **Beschreibung**
 
@@ -1240,9 +1158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.37 – Reihenhaus an Via San Francesco di Paola – Teil 5/5 (Y 91–99)
+### Schritt 15.34 – Reihenhaus an Via San Francesco di Paola – Teil 5/5 (Y 90–98)
 
-- **Y-Bereich:** 91 bis 99
+- **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.651
 - **Bauteile:** `w464120210`
 
@@ -1270,9 +1188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.38 – Reihenhaus an Via San Francesco di Paola: Innenausbau
+### Schritt 15.35 – Reihenhaus an Via San Francesco di Paola: Innenausbau
 
-- **Y-Bereich:** 62 bis 85
+- **Y-Bereich:** 61 bis 84
 - **Blöcke:** 1.999
 - **Bauteile:** `w464120210_innen`
 
@@ -1308,7 +1226,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.39 – Palazzo des Cinquecento an Via dei Villani – Teil 1/6 (Y 56–61)
+### Schritt 15.36 – Palazzo des Cinquecento an Via dei Villani – Teil 1/6 (Y 56–61)
 
 - **Y-Bereich:** 56 bis 61
 - **Blöcke:** 1.662
@@ -1336,7 +1254,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.40 – Palazzo des Cinquecento an Via dei Villani – Teil 2/6 (Y 62–63)
+### Schritt 15.37 – Palazzo des Cinquecento an Via dei Villani – Teil 2/6 (Y 62–63)
 
 - **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.811
@@ -1365,7 +1283,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.41 – Palazzo des Cinquecento an Via dei Villani – Teil 3/6 (Y 64–73)
+### Schritt 15.38 – Palazzo des Cinquecento an Via dei Villani – Teil 3/6 (Y 64–73)
 
 - **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.727
@@ -1397,18 +1315,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.42 – Palazzo des Cinquecento an Via dei Villani – Teil 4/6 (Y 74–82)
+### Schritt 15.39 – Palazzo des Cinquecento an Via dei Villani – Teil 4/6 (Y 74–83)
 
-- **Y-Bereich:** 74 bis 82
-- **Blöcke:** 1.556
+- **Y-Bereich:** 74 bis 83
+- **Blöcke:** 1.733
 - **Bauteile:** `w464120227`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.262 |
+| Glatter Sandstein | `smooth_sandstone` | 1.343 |
 | Polierter Andesit | `polished_andesite` | 222 |
+| Glatter Stein | `smooth_stone` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 
 **Beschreibung**
@@ -1427,20 +1346,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.43 – Palazzo des Cinquecento an Via dei Villani – Teil 5/6 (Y 83–92)
+### Schritt 15.40 – Palazzo des Cinquecento an Via dei Villani – Teil 5/6 (Y 84–92)
 
-- **Y-Bereich:** 83 bis 92
-- **Blöcke:** 1.832
+- **Y-Bereich:** 84 bis 92
+- **Blöcke:** 1.707
 - **Bauteile:** `w464120227`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.435 |
+| Glatter Sandstein | `smooth_sandstone` | 1.405 |
 | Polierter Andesit | `polished_andesite` | 201 |
-| Glatter Stein | `smooth_stone` | 136 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
+| Glatter Stein | `smooth_stone` | 41 |
 
 **Beschreibung**
 
@@ -1458,10 +1377,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.44 – Palazzo des Cinquecento an Via dei Villani – Teil 6/6 (Y 93–100)
+### Schritt 15.41 – Palazzo des Cinquecento an Via dei Villani – Teil 6/6 (Y 93–100)
 
 - **Y-Bereich:** 93 bis 100
-- **Blöcke:** 1.651
+- **Blöcke:** 1.652
 - **Bauteile:** `w464120227`
 
 **Teileliste**
@@ -1470,7 +1389,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.254 |
 | Glatter Sandstein | `smooth_sandstone` | 227 |
-| Glatter Stein | `smooth_stone` | 94 |
+| Glatter Stein | `smooth_stone` | 95 |
 | Ziegelsteine | `bricks` | 75 |
 | Polierter Andesit | `polished_andesite` | 1 |
 
@@ -1490,7 +1409,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.45 – Palazzo des Cinquecento an Via dei Villani: Innenausbau
+### Schritt 15.42 – Palazzo des Cinquecento an Via dei Villani: Innenausbau
 
 - **Y-Bereich:** 63 bis 83
 - **Blöcke:** 1.715
@@ -1528,21 +1447,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.46 – Reihenhaus an Via dei Villani – Teil 1/4 (Y 57–65)
+### Schritt 15.43 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 57–70)
 
-- **Y-Bereich:** 57 bis 65
-- **Blöcke:** 1.646
+- **Y-Bereich:** 57 bis 70
+- **Blöcke:** 1.924
 - **Bauteile:** `w464120239`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 770 |
 | Polierter Tuffstein | `polished_tuff` | 726 |
-| Endsteinziegel | `end_stone_bricks` | 126 |
-| Graues Buntglas | `gray_stained_glass` | 13 |
-| Glatter Stein | `smooth_stone` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 636 |
+| Tuffstein | `tuff` | 334 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Glatter Stein | `smooth_stone` | 79 |
+| Weißer Beton | `white_concrete` | 45 |
 
 **Beschreibung**
 
@@ -1560,20 +1480,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.47 – Reihenhaus an Via dei Villani – Teil 2/4 (Y 66–78)
+### Schritt 15.44 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 71–86)
 
-- **Y-Bereich:** 66 bis 78
-- **Blöcke:** 1.609
+- **Y-Bereich:** 71 bis 86
+- **Blöcke:** 2.050
 - **Bauteile:** `w464120239`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.219 |
-| Weißer Beton | `white_concrete` | 174 |
-| Graues Buntglas | `gray_stained_glass` | 127 |
-| Glatter Stein | `smooth_stone` | 89 |
+| Endsteinziegel | `end_stone_bricks` | 1.587 |
+| Weißer Beton | `white_concrete` | 370 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
+| Glatter Stein | `smooth_stone` | 21 |
 
 **Beschreibung**
 
@@ -1591,51 +1511,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.48 – Reihenhaus an Via dei Villani – Teil 3/4 (Y 79–90)
+### Schritt 15.45 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 87–99)
 
-- **Y-Bereich:** 79 bis 90
-- **Blöcke:** 1.535
+- **Y-Bereich:** 87 bis 99
+- **Blöcke:** 1.983
 - **Bauteile:** `w464120239`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.159 |
-| Weißer Beton | `white_concrete` | 316 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 15.49 – Reihenhaus an Via dei Villani – Teil 4/4 (Y 91–100)
-
-- **Y-Bereich:** 91 bis 100
-- **Blöcke:** 1.634
-- **Bauteile:** `w464120239`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 904 |
-| Endsteinziegel | `end_stone_bricks` | 553 |
-| Weißer Beton | `white_concrete` | 110 |
+| Terrakotta | `terracotta` | 903 |
+| Endsteinziegel | `end_stone_bricks` | 804 |
+| Weißer Beton | `white_concrete` | 185 |
 | Ziegelsteine | `bricks` | 55 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
 
 **Beschreibung**
 
@@ -1653,10 +1543,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.50 – Reihenhaus an Via dei Villani: Innenausbau
+### Schritt 15.46 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
-- **Blöcke:** 1.898
+- **Y-Bereich:** 63 bis 87
+- **Blöcke:** 1.908
 - **Bauteile:** `w464120239_innen`
 
 **Teileliste**
@@ -1664,12 +1554,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.764 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 17 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 20 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -1677,7 +1567,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 

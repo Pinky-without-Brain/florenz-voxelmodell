@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 19.508 |
+| Blöcke | 19.472 |
 | Bauschritte | 12 |
-| Y-Bereich | 53 bis 94 |
+| Y-Bereich | 53 bis 93 |
 | X-Ausdehnung | -2821 bis -2763 (59 Blöcke) |
 | Z-Ausdehnung | -1414 bis -1344 (71 Blöcke) |
 | Kleinster Schritt | 1.401 Blöcke (Schritt 7.11) |
-| Mittlerer Schritt | 1.626 Blöcke |
+| Mittlerer Schritt | 1.623 Blöcke |
 | Größter Schritt | 1.969 Blöcke (Schritt 7.9) |
 
 ## Gesamt-Stückliste
@@ -24,12 +24,11 @@
 | Rosa Keramik | `pink_terracotta` | 9.413 | 48,3 % |
 | Terrakotta | `terracotta` | 4.965 | 25,5 % |
 | Polierter Tuffstein | `polished_tuff` | 1.762 | 9,0 % |
-| Weißer Beton | `white_concrete` | 1.570 | 8,0 % |
+| Weißer Beton | `white_concrete` | 1.570 | 8,1 % |
 | Glatter Stein | `smooth_stone` | 624 | 3,2 % |
 | Graues Buntglas | `gray_stained_glass` | 482 | 2,5 % |
 | Polierter Andesit | `polished_andesite` | 433 | 2,2 % |
 | Ziegelsteine | `bricks` | 130 | 0,7 % |
-| Tuffstein | `tuff` | 36 | 0,2 % |
 | Seelaterne | `sea_lantern` | 24 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
@@ -51,15 +50,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w463119861` | Haus w463119861 | 16.705 | 7.1–7.10 |
+| 1 | `w463119861` | Haus w463119861 | 16.669 | 7.1–7.10 |
 | 2 | `w463119861_innen` | Haus w463119861: Innenausbau | 2.803 | 7.11–7.12 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Haus w463119861 – Teil 1/10 (Y 53–54)
+### Schritt 7.1 – Haus w463119861 – Teil 1/10 (Y 53–53)
 
-- **Y-Bereich:** 53 bis 54
-- **Blöcke:** 1.798
+- **Y-Bereich:** 53 bis 53
+- **Blöcke:** 1.762
 - **Bauteile:** `w463119861`
 
 **Teileliste**
@@ -67,7 +66,6 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.762 |
-| Tuffstein | `tuff` | 36 |
 
 **Beschreibung**
 
@@ -85,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Haus w463119861 – Teil 2/10 (Y 55–58)
+### Schritt 7.2 – Haus w463119861 – Teil 2/10 (Y 54–57)
 
-- **Y-Bereich:** 55 bis 58
+- **Y-Bereich:** 54 bis 57
 - **Blöcke:** 1.630
 - **Bauteile:** `w463119861`
 
@@ -118,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Haus w463119861 – Teil 3/10 (Y 59–62)
+### Schritt 7.3 – Haus w463119861 – Teil 3/10 (Y 58–61)
 
-- **Y-Bereich:** 59 bis 62
+- **Y-Bereich:** 58 bis 61
 - **Blöcke:** 1.618
 - **Bauteile:** `w463119861`
 
@@ -151,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Haus w463119861 – Teil 4/10 (Y 63–66)
+### Schritt 7.4 – Haus w463119861 – Teil 4/10 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.672
 - **Bauteile:** `w463119861`
 
@@ -182,9 +180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Haus w463119861 – Teil 5/10 (Y 67–70)
+### Schritt 7.5 – Haus w463119861 – Teil 5/10 (Y 66–69)
 
-- **Y-Bereich:** 67 bis 70
+- **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.596
 - **Bauteile:** `w463119861`
 
@@ -213,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Haus w463119861 – Teil 6/10 (Y 71–74)
+### Schritt 7.6 – Haus w463119861 – Teil 6/10 (Y 70–73)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 1.653
 - **Bauteile:** `w463119861`
 
@@ -245,9 +243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Haus w463119861 – Teil 7/10 (Y 75–78)
+### Schritt 7.7 – Haus w463119861 – Teil 7/10 (Y 74–77)
 
-- **Y-Bereich:** 75 bis 78
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.634
 - **Bauteile:** `w463119861`
 
@@ -276,9 +274,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Haus w463119861 – Teil 8/10 (Y 79–82)
+### Schritt 7.8 – Haus w463119861 – Teil 8/10 (Y 78–81)
 
-- **Y-Bereich:** 79 bis 82
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 1.615
 - **Bauteile:** `w463119861`
 
@@ -307,9 +305,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Haus w463119861 – Teil 9/10 (Y 83–85)
+### Schritt 7.9 – Haus w463119861 – Teil 9/10 (Y 82–84)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.969
 - **Bauteile:** `w463119861`
 
@@ -338,9 +336,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Haus w463119861 – Teil 10/10 (Y 86–94)
+### Schritt 7.10 – Haus w463119861 – Teil 10/10 (Y 85–93)
 
-- **Y-Bereich:** 86 bis 94
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.520
 - **Bauteile:** `w463119861`
 
@@ -367,9 +365,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Haus w463119861: Innenausbau – Teil 1/2 (Y 54–64)
+### Schritt 7.11 – Haus w463119861: Innenausbau – Teil 1/2 (Y 53–63)
 
-- **Y-Bereich:** 54 bis 64
+- **Y-Bereich:** 53 bis 63
 - **Blöcke:** 1.401
 - **Bauteile:** `w463119861_innen`
 
@@ -409,9 +407,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.12 – Haus w463119861: Innenausbau – Teil 2/2 (Y 65–75)
+### Schritt 7.12 – Haus w463119861: Innenausbau – Teil 2/2 (Y 64–74)
 
-- **Y-Bereich:** 65 bis 75
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.402
 - **Bauteile:** `w463119861_innen`
 

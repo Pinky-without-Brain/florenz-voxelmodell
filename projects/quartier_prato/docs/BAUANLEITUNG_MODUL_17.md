@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 14.305 |
 | Bauschritte | 8 |
-| Y-Bereich | 58 bis 95 |
+| Y-Bereich | 57 bis 94 |
 | X-Ausdehnung | -2752 bis -2698 (55 Blöcke) |
 | Z-Ausdehnung | -171 bis -116 (56 Blöcke) |
 | Kleinster Schritt | 1.564 Blöcke (Schritt 17.4) |
@@ -54,9 +54,9 @@
 
 ## Bauschritte
 
-### Schritt 17.1 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 1/7 (Y 58–60)
+### Schritt 17.1 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 1/7 (Y 57–59)
 
-- **Y-Bereich:** 58 bis 60
+- **Y-Bereich:** 57 bis 59
 - **Blöcke:** 1.729
 - **Bauteile:** `w117864759`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.2 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 2/7 (Y 61–67)
+### Schritt 17.2 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 2/7 (Y 60–66)
 
-- **Y-Bereich:** 61 bis 67
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.803
 - **Bauteile:** `w117864759`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.3 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 3/7 (Y 68–73)
+### Schritt 17.3 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 3/7 (Y 67–72)
 
-- **Y-Bereich:** 68 bis 73
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.877
 - **Bauteile:** `w117864759`
 
@@ -150,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.4 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 4/7 (Y 74–78)
+### Schritt 17.4 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 4/7 (Y 73–77)
 
-- **Y-Bereich:** 74 bis 78
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.564
 - **Bauteile:** `w117864759`
 
@@ -182,9 +182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.5 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 5/7 (Y 79–85)
+### Schritt 17.5 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 5/7 (Y 78–84)
 
-- **Y-Bereich:** 79 bis 85
+- **Y-Bereich:** 78 bis 84
 - **Blöcke:** 2.022
 - **Bauteile:** `w117864759`
 
@@ -213,9 +213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.6 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 6/7 (Y 86–88)
+### Schritt 17.6 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 6/7 (Y 85–87)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.605
 - **Bauteile:** `w117864759`
 
@@ -243,9 +243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.7 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 7/7 (Y 89–95)
+### Schritt 17.7 – Renaissance-Palazzo an Via Giuseppe Garibaldi – Teil 7/7 (Y 88–94)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.800
 - **Bauteile:** `w117864759`
 
@@ -274,7 +274,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 17.8 – Renaissance-Palazzo an Via Giuseppe Garibaldi: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 58 bis 78
+- **Y-Bereich:** 57 bis 77
 - **Blöcke:** 1.905
 - **Bauteile:** `w117864759_innen`, `strassenschilder`
 

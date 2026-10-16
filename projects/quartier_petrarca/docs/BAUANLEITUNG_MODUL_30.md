@@ -8,30 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 22.905 |
+| Blöcke | 22.820 |
 | Bauschritte | 14 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 62 bis 93 |
 | X-Ausdehnung | -2677 bis -2636 (42 Blöcke) |
 | Z-Ausdehnung | 1740 bis 1838 (99 Blöcke) |
 | Kleinster Schritt | 702 Blöcke (Schritt 30.14) |
-| Mittlerer Schritt | 1.636 Blöcke |
+| Mittlerer Schritt | 1.630 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 30.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 7.997 | 34,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 6.329 | 27,6 % |
-| Polierter Tuffstein | `polished_tuff` | 2.913 | 12,7 % |
+| Terrakotta | `terracotta` | 7.997 | 35,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.329 | 27,7 % |
+| Polierter Tuffstein | `polished_tuff` | 2.913 | 12,8 % |
 | Rosa Keramik | `pink_terracotta` | 1.995 | 8,7 % |
-| Polierter Andesit | `polished_andesite` | 1.564 | 6,8 % |
+| Polierter Andesit | `polished_andesite` | 1.564 | 6,9 % |
 | Graues Buntglas | `gray_stained_glass` | 610 | 2,7 % |
 | Weißer Beton | `white_concrete` | 454 | 2,0 % |
 | Glatter Stein | `smooth_stone` | 346 | 1,5 % |
 | Ziegelsteine | `bricks` | 261 | 1,1 % |
 | Grüner Beton | `green_concrete` | 191 | 0,8 % |
-| Tuffstein | `tuff` | 85 | 0,4 % |
 | Seelaterne | `sea_lantern` | 38 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 29 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
@@ -57,14 +56,14 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w461683374` | Palazzo des Cinquecento an Via Giano della Bella | 14.004 | 30.1–30.8 |
 | 2 | `w461683374_innen` | Palazzo des Cinquecento an Via Giano della Bella: Innenausbau | 3.529 | 30.9–30.10 |
-| 3 | `w461683386` | Reihenhaus an Via Giano della Bella | 4.670 | 30.11–30.13 |
+| 3 | `w461683386` | Reihenhaus an Via Giano della Bella | 4.585 | 30.11–30.13 |
 | 4 | `w461683386_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 702 | 30.14 |
 
 ## Bauschritte
 
-### Schritt 30.1 – Palazzo des Cinquecento an Via Giano della Bella – Teil 1/8 (Y 63–63)
+### Schritt 30.1 – Palazzo des Cinquecento an Via Giano della Bella – Teil 1/8 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 2.097
 - **Bauteile:** `w461683374`
 
@@ -90,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.2 – Palazzo des Cinquecento an Via Giano della Bella – Teil 2/8 (Y 64–67)
+### Schritt 30.2 – Palazzo des Cinquecento an Via Giano della Bella – Teil 2/8 (Y 63–66)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.486
 - **Bauteile:** `w461683374`
 
@@ -122,9 +121,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.3 – Palazzo des Cinquecento an Via Giano della Bella – Teil 3/8 (Y 68–72)
+### Schritt 30.3 – Palazzo des Cinquecento an Via Giano della Bella – Teil 3/8 (Y 67–71)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.793
 - **Bauteile:** `w461683374`
 
@@ -154,9 +153,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.4 – Palazzo des Cinquecento an Via Giano della Bella – Teil 4/8 (Y 73–76)
+### Schritt 30.4 – Palazzo des Cinquecento an Via Giano della Bella – Teil 4/8 (Y 72–75)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.489
 - **Bauteile:** `w461683374`
 
@@ -187,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.5 – Palazzo des Cinquecento an Via Giano della Bella – Teil 5/8 (Y 77–81)
+### Schritt 30.5 – Palazzo des Cinquecento an Via Giano della Bella – Teil 5/8 (Y 76–80)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.925
 - **Bauteile:** `w461683374`
 
@@ -219,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.6 – Palazzo des Cinquecento an Via Giano della Bella – Teil 6/8 (Y 82–85)
+### Schritt 30.6 – Palazzo des Cinquecento an Via Giano della Bella – Teil 6/8 (Y 81–84)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.594
 - **Bauteile:** `w461683374`
 
@@ -250,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.7 – Palazzo des Cinquecento an Via Giano della Bella – Teil 7/8 (Y 86–88)
+### Schritt 30.7 – Palazzo des Cinquecento an Via Giano della Bella – Teil 7/8 (Y 85–87)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.959
 - **Bauteile:** `w461683374`
 
@@ -280,9 +279,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.8 – Palazzo des Cinquecento an Via Giano della Bella – Teil 8/8 (Y 89–94)
+### Schritt 30.8 – Palazzo des Cinquecento an Via Giano della Bella – Teil 8/8 (Y 88–93)
 
-- **Y-Bereich:** 89 bis 94
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.661
 - **Bauteile:** `w461683374`
 
@@ -309,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.9 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 30.9 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.770
 - **Bauteile:** `w461683374_innen`
 
@@ -351,9 +350,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 30.10 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 74–80)
+### Schritt 30.10 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 73–79)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.759
 - **Bauteile:** `w461683374_innen`
 
@@ -395,10 +394,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 30.11 – Reihenhaus an Via Giano della Bella – Teil 1/3 (Y 63–68)
+### Schritt 30.11 – Reihenhaus an Via Giano della Bella – Teil 1/3 (Y 62–67)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.513
+- **Y-Bereich:** 62 bis 67
+- **Blöcke:** 1.563
 - **Bauteile:** `w461683386`
 
 **Teileliste**
@@ -406,11 +405,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 816 |
-| Rosa Keramik | `pink_terracotta` | 498 |
-| Tuffstein | `tuff` | 85 |
-| Weißer Beton | `white_concrete` | 78 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-| Glatter Stein | `smooth_stone` | 8 |
+| Rosa Keramik | `pink_terracotta` | 579 |
+| Weißer Beton | `white_concrete` | 102 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Glatter Stein | `smooth_stone` | 10 |
 
 **Beschreibung**
 
@@ -428,20 +426,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.12 – Reihenhaus an Via Giano della Bella – Teil 2/3 (Y 69–78)
+### Schritt 30.12 – Reihenhaus an Via Giano della Bella – Teil 2/3 (Y 68–77)
 
-- **Y-Bereich:** 69 bis 78
-- **Blöcke:** 1.531
+- **Y-Bereich:** 68 bis 77
+- **Blöcke:** 1.564
 - **Bauteile:** `w461683386`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.130 |
-| Weißer Beton | `white_concrete` | 239 |
-| Graues Buntglas | `gray_stained_glass` | 149 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Rosa Keramik | `pink_terracotta` | 1.158 |
+| Weißer Beton | `white_concrete` | 274 |
+| Graues Buntglas | `gray_stained_glass` | 121 |
+| Glatter Stein | `smooth_stone` | 11 |
 
 **Beschreibung**
 
@@ -459,10 +457,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.13 – Reihenhaus an Via Giano della Bella – Teil 3/3 (Y 79–88)
+### Schritt 30.13 – Reihenhaus an Via Giano della Bella – Teil 3/3 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 88
-- **Blöcke:** 1.626
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 1.458
 - **Bauteile:** `w461683386`
 
 **Teileliste**
@@ -470,8 +468,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.049 |
-| Rosa Keramik | `pink_terracotta` | 367 |
-| Weißer Beton | `white_concrete` | 137 |
+| Rosa Keramik | `pink_terracotta` | 258 |
+| Weißer Beton | `white_concrete` | 78 |
 | Ziegelsteine | `bricks` | 73 |
 
 **Beschreibung**
@@ -492,7 +490,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 30.14 – Reihenhaus an Via Giano della Bella: Innenausbau
 
-- **Y-Bereich:** 64 bis 74
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 702
 - **Bauteile:** `w461683386_innen`
 

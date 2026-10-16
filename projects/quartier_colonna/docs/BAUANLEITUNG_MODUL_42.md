@@ -8,25 +8,25 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 112.461 |
+| Blöcke | 111.635 |
 | Bauschritte | 71 |
 | Y-Bereich | 62 bis 106 |
 | X-Ausdehnung | 1471 bis 1629 (159 Blöcke) |
 | Z-Ausdehnung | -546 bis -283 (264 Blöcke) |
 | Kleinster Schritt | 751 Blöcke (Schritt 42.16) |
-| Mittlerer Schritt | 1.584 Blöcke |
-| Größter Schritt | 2.083 Blöcke (Schritt 42.65) |
+| Mittlerer Schritt | 1.572 Blöcke |
+| Größter Schritt | 2.084 Blöcke (Schritt 42.53) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 36.555 | 32,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 19.465 | 17,3 % |
-| Polierter Tuffstein | `polished_tuff` | 11.549 | 10,3 % |
-| Tuffstein | `tuff` | 10.539 | 9,4 % |
-| Orange Keramik | `orange_terracotta` | 8.506 | 7,6 % |
-| Weißer Beton | `white_concrete` | 8.120 | 7,2 % |
+| Terrakotta | `terracotta` | 36.558 | 32,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 19.465 | 17,4 % |
+| Polierter Tuffstein | `polished_tuff` | 11.554 | 10,3 % |
+| Tuffstein | `tuff` | 9.667 | 8,7 % |
+| Orange Keramik | `orange_terracotta` | 8.454 | 7,6 % |
+| Weißer Beton | `white_concrete` | 8.224 | 7,4 % |
 | Polierter Andesit | `polished_andesite` | 5.404 | 4,8 % |
 | Glatter Stein | `smooth_stone` | 3.153 | 2,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.069 | 2,7 % |
@@ -36,26 +36,23 @@
 | Fichtenholz-Bretter | `spruce_planks` | 707 | 0,6 % |
 | Grüner Beton | `green_concrete` | 265 | 0,2 % |
 | Endsteinziegel | `end_stone_bricks` | 236 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 225 | 0,2 % |
-| Seelaterne | `sea_lantern` | 198 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 61 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 59 | 0,1 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 224 | 0,2 % |
+| Seelaterne | `sea_lantern` | 195 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 60 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 58 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 15 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 13 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 13 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 168 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 166 |
 | Steintreppe | `stone_stairs` | 60 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -65,12 +62,12 @@
 | 2 | `r1588168_innen` | Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau | 9.713 | 42.26–42.31 |
 | 3 | `w306488509` | Reihenhaus an Piazza Massimo d'Azeglio | 6.401 | 42.32–42.35 |
 | 4 | `w306488509_innen` | Reihenhaus an Piazza Massimo d'Azeglio: Innenausbau | 793 | 42.36 |
-| 5 | `w306488518` | Villino Puccioni | 10.839 | 42.37–42.42 |
+| 5 | `w306488518` | Villino Puccioni | 9.921 | 42.37–42.42 |
 | 6 | `w306488518_innen` | Villino Puccioni: Innenausbau | 2.710 | 42.43–42.44 |
-| 7 | `w306488531` | Renaissance-Palazzo an Piazza Massimo d'Azeglio | 18.083 | 42.45–42.54 |
-| 8 | `w306488531_innen` | Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau | 4.029 | 42.55–42.56 |
-| 9 | `w306488533` | Villino Uzielli | 9.772 | 42.57–42.61 |
-| 10 | `w306488533_innen` | Villino Uzielli: Innenausbau | 3.288 | 42.62–42.64 |
+| 7 | `w306488531` | Renaissance-Palazzo an Piazza Massimo d'Azeglio | 18.100 | 42.45–42.54 |
+| 8 | `w306488531_innen` | Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau | 4.023 | 42.55–42.56 |
+| 9 | `w306488533` | Villino Uzielli | 9.855 | 42.57–42.61 |
+| 10 | `w306488533_innen` | Villino Uzielli: Innenausbau | 3.286 | 42.62–42.64 |
 | 11 | `w306488537` | Villa Sepp | 10.044 | 42.65–42.70 |
 | 12 | `w306488537_innen` | Villa Sepp: Innenausbau | 1.713 | 42.71 |
 
@@ -1212,25 +1209,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.37 – Villino Puccioni – Teil 1/6 (Y 62–65)
+### Schritt 42.37 – Villino Puccioni – Teil 1/6 (Y 62–64)
 
-- **Y-Bereich:** 62 bis 65
-- **Blöcke:** 2.058
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.190
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.056 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Tuffstein | `tuff` | 1.190 |
 
 **Beschreibung**
 
@@ -1248,28 +1237,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.38 – Villino Puccioni – Teil 2/6 (Y 66–69)
+### Schritt 42.38 – Villino Puccioni – Teil 2/6 (Y 65–70)
 
-- **Y-Bereich:** 66 bis 69
-- **Blöcke:** 1.593
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.938
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.066 |
-| Orange Keramik | `orange_terracotta` | 443 |
-| Glatter Stein | `smooth_stone` | 58 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Polierter Tuffstein | `polished_tuff` | 1.070 |
+| Orange Keramik | `orange_terracotta` | 702 |
+| Glatter Stein | `smooth_stone` | 110 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
 
 **Beschreibung**
 
@@ -1287,49 +1268,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.39 – Villino Puccioni – Teil 3/6 (Y 70–79)
+### Schritt 42.39 – Villino Puccioni – Teil 3/6 (Y 71–80)
 
-- **Y-Bereich:** 70 bis 79
-- **Blöcke:** 1.801
+- **Y-Bereich:** 71 bis 80
+- **Blöcke:** 1.820
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.434 |
-| Glatter Stein | `smooth_stone` | 251 |
-| Graues Buntglas | `gray_stained_glass` | 95 |
-| Grüner Beton | `green_concrete` | 21 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 42.40 – Villino Puccioni – Teil 4/6 (Y 80–87)
-
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.709
-- **Bauteile:** `w306488518`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.385 |
-| Glatter Stein | `smooth_stone` | 225 |
+| Orange Keramik | `orange_terracotta` | 1.455 |
+| Glatter Stein | `smooth_stone` | 266 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Grüner Beton | `green_concrete` | 21 |
 
@@ -1349,18 +1299,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.41 – Villino Puccioni – Teil 5/6 (Y 88–95)
+### Schritt 42.40 – Villino Puccioni – Teil 4/6 (Y 81–88)
 
-- **Y-Bereich:** 88 bis 95
-- **Blöcke:** 1.930
+- **Y-Bereich:** 81 bis 88
+- **Blöcke:** 1.771
 - **Bauteile:** `w306488518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.608 |
-| Glatter Stein | `smooth_stone` | 238 |
+| Orange Keramik | `orange_terracotta` | 1.489 |
+| Glatter Stein | `smooth_stone` | 198 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 21 |
 
@@ -1380,9 +1330,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.42 – Villino Puccioni – Teil 6/6 (Y 96–104)
+### Schritt 42.41 – Villino Puccioni – Teil 5/6 (Y 89–94)
 
-- **Y-Bereich:** 96 bis 104
+- **Y-Bereich:** 89 bis 94
+- **Blöcke:** 1.454
+- **Bauteile:** `w306488518`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.172 |
+| Glatter Stein | `smooth_stone` | 198 |
+| Graues Buntglas | `gray_stained_glass` | 63 |
+| Grüner Beton | `green_concrete` | 21 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 42.42 – Villino Puccioni – Teil 6/6 (Y 95–103)
+
+- **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.748
 - **Bauteile:** `w306488518`
 
@@ -1410,9 +1391,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.43 – Villino Puccioni: Innenausbau – Teil 1/2 (Y 66–81)
+### Schritt 42.43 – Villino Puccioni: Innenausbau – Teil 1/2 (Y 65–80)
 
-- **Y-Bereich:** 66 bis 81
+- **Y-Bereich:** 65 bis 80
 - **Blöcke:** 962
 - **Bauteile:** `w306488518_innen`
 
@@ -1448,9 +1429,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.44 – Villino Puccioni: Innenausbau – Teil 2/2 (Y 82–89)
+### Schritt 42.44 – Villino Puccioni: Innenausbau – Teil 2/2 (Y 81–88)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.748
 - **Bauteile:** `w306488518_innen`
 
@@ -1489,14 +1470,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 42.45 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 1/10 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
-- **Blöcke:** 1.818
+- **Blöcke:** 1.819
 - **Bauteile:** `w306488531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.156 |
+| Polierter Tuffstein | `polished_tuff` | 1.157 |
 | Tuffstein | `tuff` | 662 |
 
 **Beschreibung**
@@ -1739,16 +1720,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 42.53 – Renaissance-Palazzo an Piazza Massimo d'Azeglio – Teil 9/10 (Y 96–98)
 
 - **Y-Bereich:** 96 bis 98
-- **Blöcke:** 2.068
+- **Blöcke:** 2.084
 - **Bauteile:** `w306488531`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.563 |
+| Terrakotta | `terracotta` | 1.564 |
 | Polierter Andesit | `polished_andesite` | 238 |
-| Tuffstein | `tuff` | 147 |
+| Tuffstein | `tuff` | 162 |
 | Endsteinziegel | `end_stone_bricks` | 118 |
 | Glatter Stein | `smooth_stone` | 2 |
 
@@ -1800,28 +1781,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 42.55 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 1/2 (Y 66–77)
 
 - **Y-Bereich:** 66 bis 77
-- **Blöcke:** 2.025
+- **Blöcke:** 2.021
 - **Bauteile:** `w306488531_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.948 |
+| Terrakotta | `terracotta` | 1.949 |
 | Glatter Stein | `smooth_stone` | 28 |
-| Seelaterne | `sea_lantern` | 24 |
+| Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 22 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -1839,23 +1816,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.56 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 2/2 (Y 78–87)
+### Schritt 42.56 – Renaissance-Palazzo an Piazza Massimo d'Azeglio: Innenausbau – Teil 2/2 (Y 78–86)
 
-- **Y-Bereich:** 78 bis 87
-- **Blöcke:** 2.004
+- **Y-Bereich:** 78 bis 86
+- **Blöcke:** 2.002
 - **Bauteile:** `w306488531_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.948 |
+| Terrakotta | `terracotta` | 1.949 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 11 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1879,10 +1854,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.57 – Villino Uzielli – Teil 1/5 (Y 66–70)
+### Schritt 42.57 – Villino Uzielli – Teil 1/5 (Y 66–69)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.976
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 2.059
 - **Bauteile:** `w306488533`
 
 **Teileliste**
@@ -1890,9 +1865,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.277 |
-| Weißer Beton | `white_concrete` | 597 |
+| Weißer Beton | `white_concrete` | 701 |
 | Glatter Stein | `smooth_stone` | 81 |
-| Tuffstein | `tuff` | 21 |
 
 **Beschreibung**
 
@@ -1910,9 +1884,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.58 – Villino Uzielli – Teil 2/5 (Y 71–79)
+### Schritt 42.58 – Villino Uzielli – Teil 2/5 (Y 70–78)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 70 bis 78
 - **Blöcke:** 1.964
 - **Bauteile:** `w306488533`
 
@@ -1942,9 +1916,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.59 – Villino Uzielli – Teil 3/5 (Y 80–88)
+### Schritt 42.59 – Villino Uzielli – Teil 3/5 (Y 79–87)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 79 bis 87
 - **Blöcke:** 1.951
 - **Bauteile:** `w306488533`
 
@@ -1973,9 +1947,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.60 – Villino Uzielli – Teil 4/5 (Y 89–96)
+### Schritt 42.60 – Villino Uzielli – Teil 4/5 (Y 88–95)
 
-- **Y-Bereich:** 89 bis 96
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.846
 - **Bauteile:** `w306488533`
 
@@ -2004,9 +1978,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.61 – Villino Uzielli – Teil 5/5 (Y 97–104)
+### Schritt 42.61 – Villino Uzielli – Teil 5/5 (Y 96–103)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 2.035
 - **Bauteile:** `w306488533`
 
@@ -2034,10 +2008,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 42.62 – Villino Uzielli: Innenausbau – Teil 1/3 (Y 67–76)
+### Schritt 42.62 – Villino Uzielli: Innenausbau – Teil 1/3 (Y 66–75)
 
-- **Y-Bereich:** 67 bis 76
-- **Blöcke:** 1.103
+- **Y-Bereich:** 66 bis 75
+- **Blöcke:** 1.100
 - **Bauteile:** `w306488533_innen`
 
 **Teileliste**
@@ -2045,16 +2019,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.044 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
 | Seelaterne | `sea_lantern` | 14 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 
@@ -2072,10 +2046,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.63 – Villino Uzielli: Innenausbau – Teil 2/3 (Y 77–83)
+### Schritt 42.63 – Villino Uzielli: Innenausbau – Teil 2/3 (Y 76–82)
 
-- **Y-Bereich:** 77 bis 83
-- **Blöcke:** 1.090
+- **Y-Bereich:** 76 bis 82
+- **Blöcke:** 1.092
 - **Bauteile:** `w306488533_innen`
 
 **Teileliste**
@@ -2087,8 +2061,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
 | Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2112,10 +2086,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 42.64 – Villino Uzielli: Innenausbau – Teil 3/3 (Y 84–91)
+### Schritt 42.64 – Villino Uzielli: Innenausbau – Teil 3/3 (Y 83–90)
 
-- **Y-Bereich:** 84 bis 91
-- **Blöcke:** 1.095
+- **Y-Bereich:** 83 bis 90
+- **Blöcke:** 1.094
 - **Bauteile:** `w306488533_innen`
 
 **Teileliste**
@@ -2123,18 +2097,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.044 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 | Seelaterne | `sea_lantern` | 7 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
 
 **Beschreibung**
 

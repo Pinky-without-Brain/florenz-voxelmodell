@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 120.160 |
-| Bauschritte | 74 |
-| Y-Bereich | 61 bis 108 |
+| Blöcke | 119.354 |
+| Bauschritte | 73 |
+| Y-Bereich | 60 bis 107 |
 | X-Ausdehnung | -796 bis -622 (175 Blöcke) |
 | Z-Ausdehnung | -963 bis -804 (160 Blöcke) |
-| Kleinster Schritt | 642 Blöcke (Schritt 9.1) |
-| Mittlerer Schritt | 1.624 Blöcke |
-| Größter Schritt | 2.096 Blöcke (Schritt 9.6) |
+| Kleinster Schritt | 941 Blöcke (Schritt 9.36) |
+| Mittlerer Schritt | 1.635 Blöcke |
+| Größter Schritt | 2.098 Blöcke (Schritt 9.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 42.408 | 35,3 % |
-| Rosa Keramik | `pink_terracotta` | 33.625 | 28,0 % |
-| Polierter Tuffstein | `polished_tuff` | 12.090 | 10,1 % |
-| Tuffstein | `tuff` | 8.803 | 7,3 % |
+| Terrakotta | `terracotta` | 42.408 | 35,5 % |
+| Rosa Keramik | `pink_terracotta` | 33.625 | 28,2 % |
+| Polierter Tuffstein | `polished_tuff` | 12.100 | 10,1 % |
+| Tuffstein | `tuff` | 7.994 | 6,7 % |
 | Endsteinziegel | `end_stone_bricks` | 5.517 | 4,6 % |
 | Weißer Beton | `white_concrete` | 3.799 | 3,2 % |
 | Orange Keramik | `orange_terracotta` | 3.729 | 3,1 % |
-| Polierter Andesit | `polished_andesite` | 3.410 | 2,8 % |
+| Polierter Andesit | `polished_andesite` | 3.410 | 2,9 % |
 | Glatter Stein | `smooth_stone` | 3.080 | 2,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.432 | 1,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 975 | 0,8 % |
@@ -43,12 +43,11 @@
 | Rote Keramik | `red_terracotta` | 20 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -56,43 +55,34 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 136 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 64 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4088927` | Palazzo des Cinquecento an Via dell'Ariento | 54.701 | 9.1–9.37 |
-| 2 | `r4088927_innen` | Palazzo des Cinquecento an Via dell'Ariento: Innenausbau | 16.998 | 9.38–9.46 |
-| 3 | `r7062200` | Renaissance-Palazzo an Via Nazionale | 19.220 | 9.47–9.57 |
-| 4 | `r7062200_innen` | Renaissance-Palazzo an Via Nazionale: Innenausbau | 3.990 | 9.58–9.59 |
-| 5 | `r7062201` | Palazzo des Cinquecento an Via Nazionale | 11.483 | 9.60–9.66 |
-| 6 | `r7062201_innen` | Palazzo des Cinquecento an Via Nazionale: Innenausbau | 3.704 | 9.67–9.68 |
-| 7 | `w479772381` | Reihenhaus an Via Chiara | 7.145 | 9.69–9.72 |
-| 8 | `w479772381_innen` | Reihenhaus an Via Chiara: Innenausbau | 2.917 | 9.73–9.74 |
-| 9 | `strassenschilder` | Straßenschilder | 2 | 9.74 |
+| 1 | `r4088927` | Palazzo des Cinquecento an Via dell'Ariento | 54.062 | 9.1–9.36 |
+| 2 | `r4088927_innen` | Palazzo des Cinquecento an Via dell'Ariento: Innenausbau | 16.998 | 9.37–9.45 |
+| 3 | `r7062200` | Renaissance-Palazzo an Via Nazionale | 19.050 | 9.46–9.56 |
+| 4 | `r7062200_innen` | Renaissance-Palazzo an Via Nazionale: Innenausbau | 3.990 | 9.57–9.58 |
+| 5 | `r7062201` | Palazzo des Cinquecento an Via Nazionale | 11.483 | 9.59–9.65 |
+| 6 | `r7062201_innen` | Palazzo des Cinquecento an Via Nazionale: Innenausbau | 3.704 | 9.66–9.67 |
+| 7 | `w479772381` | Reihenhaus an Via Chiara | 7.145 | 9.68–9.71 |
+| 8 | `w479772381_innen` | Reihenhaus an Via Chiara: Innenausbau | 2.917 | 9.72–9.73 |
+| 9 | `strassenschilder` | Straßenschilder | 5 | 9.73 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Palazzo des Cinquecento an Via dell'Ariento – Teil 1/37 (Y 61–61)
+### Schritt 9.1 – Palazzo des Cinquecento an Via dell'Ariento – Teil 1/36 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
-- **Blöcke:** 642
+- **Blöcke:** 1.671
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 639 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+| Polierter Tuffstein | `polished_tuff` | 1.671 |
 
 **Beschreibung**
 
@@ -110,45 +100,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Palazzo des Cinquecento an Via dell'Ariento – Teil 2/37 (Y 62–62)
+### Schritt 9.2 – Palazzo des Cinquecento an Via dell'Ariento – Teil 2/36 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.668
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.665 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.3 – Palazzo des Cinquecento an Via dell'Ariento – Teil 3/37 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.658
 - **Bauteile:** `r4088927`
 
@@ -174,9 +128,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Palazzo des Cinquecento an Via dell'Ariento – Teil 4/37 (Y 62–62)
+### Schritt 9.3 – Palazzo des Cinquecento an Via dell'Ariento – Teil 3/36 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.654
 - **Bauteile:** `r4088927`
 
@@ -202,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Palazzo des Cinquecento an Via dell'Ariento – Teil 5/37 (Y 62–62)
+### Schritt 9.4 – Palazzo des Cinquecento an Via dell'Ariento – Teil 4/36 (Y 61–61)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.634
 - **Bauteile:** `r4088927`
 
@@ -230,50 +184,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Palazzo des Cinquecento an Via dell'Ariento – Teil 6/37 (Y 63–64)
+### Schritt 9.5 – Palazzo des Cinquecento an Via dell'Ariento – Teil 5/36 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 2.096
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.029
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.969 |
-| Weißer Beton | `white_concrete` | 108 |
-| Polierter Andesit | `polished_andesite` | 13 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.7 – Palazzo des Cinquecento an Via dell'Ariento – Teil 7/37 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.091
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 904 |
-| Weißer Beton | `white_concrete` | 175 |
+| Rosa Keramik | `pink_terracotta` | 1.017 |
 | Polierter Andesit | `polished_andesite` | 9 |
 | Glatter Stein | `smooth_stone` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
@@ -294,21 +215,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.8 – Palazzo des Cinquecento an Via dell'Ariento – Teil 8/37 (Y 66–66)
+### Schritt 9.6 – Palazzo des Cinquecento an Via dell'Ariento – Teil 6/36 (Y 63–63)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.007
+- **Y-Bereich:** 63 bis 63
+- **Blöcke:** 1.067
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 886 |
-| Weißer Beton | `white_concrete` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 43 |
+| Rosa Keramik | `pink_terracotta` | 952 |
+| Weißer Beton | `white_concrete` | 108 |
 | Polierter Andesit | `polished_andesite` | 4 |
-| Glatter Stein | `smooth_stone` | 3 |
+| Glatter Stein | `smooth_stone` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
@@ -327,22 +247,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.9 – Palazzo des Cinquecento an Via dell'Ariento – Teil 9/37 (Y 67–68)
+### Schritt 9.7 – Palazzo des Cinquecento an Via dell'Ariento – Teil 7/36 (Y 64–65)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 2.026
+- **Y-Bereich:** 64 bis 65
+- **Blöcke:** 2.098
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.771 |
-| Weißer Beton | `white_concrete` | 140 |
-| Graues Buntglas | `gray_stained_glass` | 86 |
-| Polierter Andesit | `polished_andesite` | 16 |
-| Glatter Stein | `smooth_stone` | 7 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Rosa Keramik | `pink_terracotta` | 1.790 |
+| Weißer Beton | `white_concrete` | 245 |
+| Graues Buntglas | `gray_stained_glass` | 43 |
+| Polierter Andesit | `polished_andesite` | 13 |
+| Glatter Stein | `smooth_stone` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
@@ -360,9 +280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.10 – Palazzo des Cinquecento an Via dell'Ariento – Teil 10/37 (Y 69–69)
+### Schritt 9.8 – Palazzo des Cinquecento an Via dell'Ariento – Teil 8/36 (Y 66–66)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.013
 - **Bauteile:** `r4088927`
 
@@ -370,9 +290,103 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 892 |
+| Rosa Keramik | `pink_terracotta` | 883 |
 | Weißer Beton | `white_concrete` | 70 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
+| Polierter Andesit | `polished_andesite` | 9 |
+| Glatter Stein | `smooth_stone` | 7 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.9 – Palazzo des Cinquecento an Via dell'Ariento – Teil 9/36 (Y 67–68)
+
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 2.026
+- **Bauteile:** `r4088927`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.780 |
+| Weißer Beton | `white_concrete` | 140 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Polierter Andesit | `polished_andesite` | 15 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.10 – Palazzo des Cinquecento an Via dell'Ariento – Teil 10/36 (Y 69–69)
+
+- **Y-Bereich:** 69 bis 69
+- **Blöcke:** 1.036
+- **Bauteile:** `r4088927`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 920 |
+| Weißer Beton | `white_concrete` | 113 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.11 – Palazzo des Cinquecento an Via dell'Ariento – Teil 11/36 (Y 70–71)
+
+- **Y-Bereich:** 70 bis 71
+- **Blöcke:** 2.072
+- **Bauteile:** `r4088927`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.711 |
+| Glatter Stein | `smooth_stone` | 353 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
@@ -391,37 +405,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.11 – Palazzo des Cinquecento an Via dell'Ariento – Teil 11/37 (Y 70–71)
-
-- **Y-Bereich:** 70 bis 71
-- **Blöcke:** 2.072
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.948 |
-| Weißer Beton | `white_concrete` | 113 |
-| Polierter Andesit | `polished_andesite` | 11 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.12 – Palazzo des Cinquecento an Via dell'Ariento – Teil 12/37 (Y 72–72)
+### Schritt 9.12 – Palazzo des Cinquecento an Via dell'Ariento – Teil 12/36 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.036
@@ -431,8 +415,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 683 |
-| Glatter Stein | `smooth_stone` | 353 |
+| Rosa Keramik | `pink_terracotta` | 1.028 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
@@ -450,18 +434,49 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.13 – Palazzo des Cinquecento an Via dell'Ariento – Teil 13/37 (Y 73–74)
+### Schritt 9.13 – Palazzo des Cinquecento an Via dell'Ariento – Teil 13/36 (Y 73–73)
 
-- **Y-Bereich:** 73 bis 74
-- **Blöcke:** 2.072
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.036
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.943 |
+| Rosa Keramik | `pink_terracotta` | 915 |
 | Weißer Beton | `white_concrete` | 118 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.14 – Palazzo des Cinquecento an Via dell'Ariento – Teil 14/36 (Y 74–75)
+
+- **Y-Bereich:** 74 bis 75
+- **Blöcke:** 2.024
+- **Bauteile:** `r4088927`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.777 |
+| Weißer Beton | `white_concrete` | 148 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
 | Polierter Andesit | `polished_andesite` | 11 |
 
 **Beschreibung**
@@ -480,9 +495,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.14 – Palazzo des Cinquecento an Via dell'Ariento – Teil 14/37 (Y 75–75)
+### Schritt 9.15 – Palazzo des Cinquecento an Via dell'Ariento – Teil 15/36 (Y 76–76)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.012
 - **Bauteile:** `r4088927`
 
@@ -511,38 +526,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.15 – Palazzo des Cinquecento an Via dell'Ariento – Teil 15/37 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.012
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 891 |
-| Weißer Beton | `white_concrete` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.16 – Palazzo des Cinquecento an Via dell'Ariento – Teil 16/37 (Y 77–78)
+### Schritt 9.16 – Palazzo des Cinquecento an Via dell'Ariento – Teil 16/36 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 2.024
@@ -573,49 +557,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.17 – Palazzo des Cinquecento an Via dell'Ariento – Teil 17/37 (Y 79–79)
+### Schritt 9.17 – Palazzo des Cinquecento an Via dell'Ariento – Teil 17/36 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.012
+- **Blöcke:** 1.036
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 886 |
-| Weißer Beton | `white_concrete` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.18 – Palazzo des Cinquecento an Via dell'Ariento – Teil 18/37 (Y 80–81)
-
-- **Y-Bereich:** 80 bis 81
-- **Blöcke:** 2.072
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.598 |
-| Glatter Stein | `smooth_stone` | 353 |
+| Rosa Keramik | `pink_terracotta` | 915 |
 | Weißer Beton | `white_concrete` | 118 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
@@ -635,17 +587,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.19 – Palazzo des Cinquecento an Via dell'Ariento – Teil 19/37 (Y 82–82)
+### Schritt 9.18 – Palazzo des Cinquecento an Via dell'Ariento – Teil 18/36 (Y 80–81)
 
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.036
+- **Y-Bereich:** 80 bis 81
+- **Blöcke:** 2.072
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.033 |
+| Rosa Keramik | `pink_terracotta` | 1.716 |
+| Glatter Stein | `smooth_stone` | 353 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -664,50 +617,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.20 – Palazzo des Cinquecento an Via dell'Ariento – Teil 20/37 (Y 83–84)
+### Schritt 9.19 – Palazzo des Cinquecento an Via dell'Ariento – Teil 19/36 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 2.048
+- **Y-Bereich:** 82 bis 82
+- **Blöcke:** 1.036
 - **Bauteile:** `r4088927`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.801 |
-| Weißer Beton | `white_concrete` | 192 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 11 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.21 – Palazzo des Cinquecento an Via dell'Ariento – Teil 21/37 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.012
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 886 |
-| Weißer Beton | `white_concrete` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
+| Rosa Keramik | `pink_terracotta` | 910 |
+| Weißer Beton | `white_concrete` | 118 |
 | Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
@@ -726,7 +647,69 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.22 – Palazzo des Cinquecento an Via dell'Ariento – Teil 22/37 (Y 86–87)
+### Schritt 9.20 – Palazzo des Cinquecento an Via dell'Ariento – Teil 20/36 (Y 83–84)
+
+- **Y-Bereich:** 83 bis 84
+- **Blöcke:** 2.024
+- **Bauteile:** `r4088927`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.777 |
+| Weißer Beton | `white_concrete` | 148 |
+| Graues Buntglas | `gray_stained_glass` | 88 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.21 – Palazzo des Cinquecento an Via dell'Ariento – Teil 21/36 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.012
+- **Bauteile:** `r4088927`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 891 |
+| Weißer Beton | `white_concrete` | 74 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
+| Polierter Andesit | `polished_andesite` | 3 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 9.22 – Palazzo des Cinquecento an Via dell'Ariento – Teil 22/36 (Y 86–87)
 
 - **Y-Bereich:** 86 bis 87
 - **Blöcke:** 2.024
@@ -757,40 +740,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.23 – Palazzo des Cinquecento an Via dell'Ariento – Teil 23/37 (Y 88–88)
+### Schritt 9.23 – Palazzo des Cinquecento an Via dell'Ariento – Teil 23/36 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.012
-- **Bauteile:** `r4088927`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 891 |
-| Weißer Beton | `white_concrete` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 9.24 – Palazzo des Cinquecento an Via dell'Ariento – Teil 24/37 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.036
 - **Bauteile:** `r4088927`
 
@@ -818,9 +770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.25 – Palazzo des Cinquecento an Via dell'Ariento – Teil 25/37 (Y 90–91)
+### Schritt 9.24 – Palazzo des Cinquecento an Via dell'Ariento – Teil 24/36 (Y 89–90)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 2.072
 - **Bauteile:** `r4088927`
 
@@ -848,9 +800,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.26 – Palazzo des Cinquecento an Via dell'Ariento – Teil 26/37 (Y 92–92)
+### Schritt 9.25 – Palazzo des Cinquecento an Via dell'Ariento – Teil 25/36 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.036
 - **Bauteile:** `r4088927`
 
@@ -877,9 +829,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.27 – Palazzo des Cinquecento an Via dell'Ariento – Teil 27/37 (Y 93–94)
+### Schritt 9.26 – Palazzo des Cinquecento an Via dell'Ariento – Teil 26/36 (Y 92–93)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 2.048
 - **Bauteile:** `r4088927`
 
@@ -908,9 +860,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.28 – Palazzo des Cinquecento an Via dell'Ariento – Teil 28/37 (Y 95–95)
+### Schritt 9.27 – Palazzo des Cinquecento an Via dell'Ariento – Teil 27/36 (Y 94–94)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.012
 - **Bauteile:** `r4088927`
 
@@ -939,9 +891,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.29 – Palazzo des Cinquecento an Via dell'Ariento – Teil 29/37 (Y 96–97)
+### Schritt 9.28 – Palazzo des Cinquecento an Via dell'Ariento – Teil 28/36 (Y 95–96)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 2.048
 - **Bauteile:** `r4088927`
 
@@ -970,9 +922,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.30 – Palazzo des Cinquecento an Via dell'Ariento – Teil 30/37 (Y 98–98)
+### Schritt 9.29 – Palazzo des Cinquecento an Via dell'Ariento – Teil 29/36 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.197
 - **Bauteile:** `r4088927`
 
@@ -1000,9 +952,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.31 – Palazzo des Cinquecento an Via dell'Ariento – Teil 31/37 (Y 99–99)
+### Schritt 9.30 – Palazzo des Cinquecento an Via dell'Ariento – Teil 30/36 (Y 98–98)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.410
 - **Bauteile:** `r4088927`
 
@@ -1030,9 +982,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.32 – Palazzo des Cinquecento an Via dell'Ariento – Teil 32/37 (Y 100–100)
+### Schritt 9.31 – Palazzo des Cinquecento an Via dell'Ariento – Teil 31/36 (Y 99–99)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.443
 - **Bauteile:** `r4088927`
 
@@ -1058,9 +1010,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.33 – Palazzo des Cinquecento an Via dell'Ariento – Teil 33/37 (Y 100–100)
+### Schritt 9.32 – Palazzo des Cinquecento an Via dell'Ariento – Teil 32/36 (Y 99–99)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.446
 - **Bauteile:** `r4088927`
 
@@ -1086,9 +1038,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.34 – Palazzo des Cinquecento an Via dell'Ariento – Teil 34/37 (Y 101–101)
+### Schritt 9.33 – Palazzo des Cinquecento an Via dell'Ariento – Teil 33/36 (Y 100–100)
 
-- **Y-Bereich:** 101 bis 101
+- **Y-Bereich:** 100 bis 100
 - **Blöcke:** 1.961
 - **Bauteile:** `r4088927`
 
@@ -1114,9 +1066,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.35 – Palazzo des Cinquecento an Via dell'Ariento – Teil 35/37 (Y 102–102)
+### Schritt 9.34 – Palazzo des Cinquecento an Via dell'Ariento – Teil 34/36 (Y 101–101)
 
-- **Y-Bereich:** 102 bis 102
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.736
 - **Bauteile:** `r4088927`
 
@@ -1142,9 +1094,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.36 – Palazzo des Cinquecento an Via dell'Ariento – Teil 36/37 (Y 103–103)
+### Schritt 9.35 – Palazzo des Cinquecento an Via dell'Ariento – Teil 35/36 (Y 102–102)
 
-- **Y-Bereich:** 103 bis 103
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.382
 - **Bauteile:** `r4088927`
 
@@ -1171,9 +1123,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.37 – Palazzo des Cinquecento an Via dell'Ariento – Teil 37/37 (Y 104–108)
+### Schritt 9.36 – Palazzo des Cinquecento an Via dell'Ariento – Teil 36/36 (Y 103–107)
 
-- **Y-Bereich:** 104 bis 108
+- **Y-Bereich:** 103 bis 107
 - **Blöcke:** 941
 - **Bauteile:** `r4088927`
 
@@ -1200,9 +1152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.38 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 1/9 (Y 62–72)
+### Schritt 9.37 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 1/9 (Y 61–71)
 
-- **Y-Bereich:** 62 bis 72
+- **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.965
 - **Bauteile:** `r4088927_innen`
 
@@ -1238,9 +1190,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.39 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 2/9 (Y 72–72)
+### Schritt 9.38 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 2/9 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.847
 - **Bauteile:** `r4088927_innen`
 
@@ -1267,9 +1219,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.40 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 3/9 (Y 72–72)
+### Schritt 9.39 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 3/9 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.869
 - **Bauteile:** `r4088927_innen`
 
@@ -1296,9 +1248,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.41 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 4/9 (Y 73–81)
+### Schritt 9.40 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 4/9 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.939
 - **Bauteile:** `r4088927_innen`
 
@@ -1340,9 +1292,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.42 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 5/9 (Y 81–81)
+### Schritt 9.41 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 5/9 (Y 80–80)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.847
 - **Bauteile:** `r4088927_innen`
 
@@ -1369,9 +1321,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.43 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 6/9 (Y 81–81)
+### Schritt 9.42 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 6/9 (Y 80–80)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.869
 - **Bauteile:** `r4088927_innen`
 
@@ -1398,9 +1350,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.44 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 7/9 (Y 82–90)
+### Schritt 9.43 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 7/9 (Y 81–89)
 
-- **Y-Bereich:** 82 bis 90
+- **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.937
 - **Bauteile:** `r4088927_innen`
 
@@ -1442,9 +1394,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.45 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 8/9 (Y 90–90)
+### Schritt 9.44 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 8/9 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.847
 - **Bauteile:** `r4088927_innen`
 
@@ -1471,9 +1423,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.46 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 9/9 (Y 90–91)
+### Schritt 9.45 – Palazzo des Cinquecento an Via dell'Ariento: Innenausbau – Teil 9/9 (Y 89–90)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.878
 - **Bauteile:** `r4088927_innen`
 
@@ -1511,25 +1463,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.47 – Renaissance-Palazzo an Via Nazionale – Teil 1/11 (Y 61–62)
+### Schritt 9.46 – Renaissance-Palazzo an Via Nazionale – Teil 1/11 (Y 61–61)
 
-- **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.357
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.187
 - **Bauteile:** `r7062200`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.183 |
-| Tuffstein | `tuff` | 170 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+| Polierter Tuffstein | `polished_tuff` | 1.187 |
 
 **Beschreibung**
 
@@ -1547,9 +1491,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.48 – Renaissance-Palazzo an Via Nazionale – Teil 2/11 (Y 62–64)
+### Schritt 9.47 – Renaissance-Palazzo an Via Nazionale – Teil 2/11 (Y 61–63)
 
-- **Y-Bereich:** 62 bis 64
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.981
 - **Bauteile:** `r7062200`
 
@@ -1579,9 +1523,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.49 – Renaissance-Palazzo an Via Nazionale – Teil 3/11 (Y 65–69)
+### Schritt 9.48 – Renaissance-Palazzo an Via Nazionale – Teil 3/11 (Y 64–68)
 
-- **Y-Bereich:** 65 bis 69
+- **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.981
 - **Bauteile:** `r7062200`
 
@@ -1611,9 +1555,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.50 – Renaissance-Palazzo an Via Nazionale – Teil 4/11 (Y 70–73)
+### Schritt 9.49 – Renaissance-Palazzo an Via Nazionale – Teil 4/11 (Y 69–72)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.739
 - **Bauteile:** `r7062200`
 
@@ -1643,9 +1587,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.51 – Renaissance-Palazzo an Via Nazionale – Teil 5/11 (Y 74–77)
+### Schritt 9.50 – Renaissance-Palazzo an Via Nazionale – Teil 5/11 (Y 73–76)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.768
 - **Bauteile:** `r7062200`
 
@@ -1675,9 +1619,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.52 – Renaissance-Palazzo an Via Nazionale – Teil 6/11 (Y 78–81)
+### Schritt 9.51 – Renaissance-Palazzo an Via Nazionale – Teil 6/11 (Y 77–80)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.740
 - **Bauteile:** `r7062200`
 
@@ -1707,9 +1651,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.53 – Renaissance-Palazzo an Via Nazionale – Teil 7/11 (Y 82–85)
+### Schritt 9.52 – Renaissance-Palazzo an Via Nazionale – Teil 7/11 (Y 81–84)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.850
 - **Bauteile:** `r7062200`
 
@@ -1738,9 +1682,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.54 – Renaissance-Palazzo an Via Nazionale – Teil 8/11 (Y 86–89)
+### Schritt 9.53 – Renaissance-Palazzo an Via Nazionale – Teil 8/11 (Y 85–88)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 85 bis 88
 - **Blöcke:** 1.728
 - **Bauteile:** `r7062200`
 
@@ -1769,9 +1713,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.55 – Renaissance-Palazzo an Via Nazionale – Teil 9/11 (Y 90–92)
+### Schritt 9.54 – Renaissance-Palazzo an Via Nazionale – Teil 9/11 (Y 89–91)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.820
 - **Bauteile:** `r7062200`
 
@@ -1799,9 +1743,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.56 – Renaissance-Palazzo an Via Nazionale – Teil 10/11 (Y 93–93)
+### Schritt 9.55 – Renaissance-Palazzo an Via Nazionale – Teil 10/11 (Y 92–92)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.287
 - **Bauteile:** `r7062200`
 
@@ -1827,9 +1771,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.57 – Renaissance-Palazzo an Via Nazionale – Teil 11/11 (Y 94–100)
+### Schritt 9.56 – Renaissance-Palazzo an Via Nazionale – Teil 11/11 (Y 93–99)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.969
 - **Bauteile:** `r7062200`
 
@@ -1856,9 +1800,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.58 – Renaissance-Palazzo an Via Nazionale: Innenausbau – Teil 1/2 (Y 62–73)
+### Schritt 9.57 – Renaissance-Palazzo an Via Nazionale: Innenausbau – Teil 1/2 (Y 61–72)
 
-- **Y-Bereich:** 62 bis 73
+- **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.997
 - **Bauteile:** `r7062200_innen`
 
@@ -1898,9 +1842,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.59 – Renaissance-Palazzo an Via Nazionale: Innenausbau – Teil 2/2 (Y 74–83)
+### Schritt 9.58 – Renaissance-Palazzo an Via Nazionale: Innenausbau – Teil 2/2 (Y 73–82)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.993
 - **Bauteile:** `r7062200_innen`
 
@@ -1944,9 +1888,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.60 – Palazzo des Cinquecento an Via Nazionale – Teil 1/7 (Y 61–61)
+### Schritt 9.59 – Palazzo des Cinquecento an Via Nazionale – Teil 1/7 (Y 60–60)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 2.017
 - **Bauteile:** `r7062201`
 
@@ -1972,9 +1916,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.61 – Palazzo des Cinquecento an Via Nazionale – Teil 2/7 (Y 62–66)
+### Schritt 9.60 – Palazzo des Cinquecento an Via Nazionale – Teil 2/7 (Y 61–65)
 
-- **Y-Bereich:** 62 bis 66
+- **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.215
 - **Bauteile:** `r7062201`
 
@@ -2005,9 +1949,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.62 – Palazzo des Cinquecento an Via Nazionale – Teil 3/7 (Y 67–74)
+### Schritt 9.61 – Palazzo des Cinquecento an Via Nazionale – Teil 3/7 (Y 66–73)
 
-- **Y-Bereich:** 67 bis 74
+- **Y-Bereich:** 66 bis 73
 - **Blöcke:** 1.762
 - **Bauteile:** `r7062201`
 
@@ -2038,9 +1982,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.63 – Palazzo des Cinquecento an Via Nazionale – Teil 4/7 (Y 75–81)
+### Schritt 9.62 – Palazzo des Cinquecento an Via Nazionale – Teil 4/7 (Y 74–80)
 
-- **Y-Bereich:** 75 bis 81
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.529
 - **Bauteile:** `r7062201`
 
@@ -2070,9 +2014,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.64 – Palazzo des Cinquecento an Via Nazionale – Teil 5/7 (Y 82–89)
+### Schritt 9.63 – Palazzo des Cinquecento an Via Nazionale – Teil 5/7 (Y 81–88)
 
-- **Y-Bereich:** 82 bis 89
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.744
 - **Bauteile:** `r7062201`
 
@@ -2101,9 +2045,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.65 – Palazzo des Cinquecento an Via Nazionale – Teil 6/7 (Y 90–92)
+### Schritt 9.64 – Palazzo des Cinquecento an Via Nazionale – Teil 6/7 (Y 89–91)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.533
 - **Bauteile:** `r7062201`
 
@@ -2132,9 +2076,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.66 – Palazzo des Cinquecento an Via Nazionale – Teil 7/7 (Y 93–98)
+### Schritt 9.65 – Palazzo des Cinquecento an Via Nazionale – Teil 7/7 (Y 92–97)
 
-- **Y-Bereich:** 93 bis 98
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.683
 - **Bauteile:** `r7062201`
 
@@ -2161,9 +2105,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.67 – Palazzo des Cinquecento an Via Nazionale: Innenausbau – Teil 1/2 (Y 61–71)
+### Schritt 9.66 – Palazzo des Cinquecento an Via Nazionale: Innenausbau – Teil 1/2 (Y 60–70)
 
-- **Y-Bereich:** 61 bis 71
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.853
 - **Bauteile:** `r7062201_innen`
 
@@ -2203,9 +2147,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.68 – Palazzo des Cinquecento an Via Nazionale: Innenausbau – Teil 2/2 (Y 72–82)
+### Schritt 9.67 – Palazzo des Cinquecento an Via Nazionale: Innenausbau – Teil 2/2 (Y 71–81)
 
-- **Y-Bereich:** 72 bis 82
+- **Y-Bereich:** 71 bis 81
 - **Blöcke:** 1.851
 - **Bauteile:** `r7062201_innen`
 
@@ -2247,9 +2191,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.69 – Reihenhaus an Via Chiara – Teil 1/4 (Y 62–67)
+### Schritt 9.68 – Reihenhaus an Via Chiara – Teil 1/4 (Y 61–66)
 
-- **Y-Bereich:** 62 bis 67
+- **Y-Bereich:** 61 bis 66
 - **Blöcke:** 1.845
 - **Bauteile:** `w479772381`
 
@@ -2280,9 +2224,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.70 – Reihenhaus an Via Chiara – Teil 2/4 (Y 68–78)
+### Schritt 9.69 – Reihenhaus an Via Chiara – Teil 2/4 (Y 67–77)
 
-- **Y-Bereich:** 68 bis 78
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.710
 - **Bauteile:** `w479772381`
 
@@ -2310,9 +2254,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.71 – Reihenhaus an Via Chiara – Teil 3/4 (Y 79–90)
+### Schritt 9.70 – Reihenhaus an Via Chiara – Teil 3/4 (Y 78–89)
 
-- **Y-Bereich:** 79 bis 90
+- **Y-Bereich:** 78 bis 89
 - **Blöcke:** 1.844
 - **Bauteile:** `w479772381`
 
@@ -2340,9 +2284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.72 – Reihenhaus an Via Chiara – Teil 4/4 (Y 91–100)
+### Schritt 9.71 – Reihenhaus an Via Chiara – Teil 4/4 (Y 90–99)
 
-- **Y-Bereich:** 91 bis 100
+- **Y-Bereich:** 90 bis 99
 - **Blöcke:** 1.746
 - **Bauteile:** `w479772381`
 
@@ -2371,9 +2315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.73 – Reihenhaus an Via Chiara: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 9.72 – Reihenhaus an Via Chiara: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 62 bis 77
+- **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.015
 - **Bauteile:** `w479772381_innen`
 
@@ -2411,10 +2355,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.74 – Reihenhaus an Via Chiara: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
+### Schritt 9.73 – Reihenhaus an Via Chiara: Innenausbau – Teil 2/2 (Y 77–85) & Straßenschilder
 
-- **Y-Bereich:** 69 bis 86
-- **Blöcke:** 1.904
+- **Y-Bereich:** 68 bis 85
+- **Blöcke:** 1.907
 - **Bauteile:** `w479772381_innen`, `strassenschilder`
 
 **Teileliste**
@@ -2427,8 +2371,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 41.107 |
+| Blöcke | 40.958 |
 | Bauschritte | 25 |
 | Y-Bereich | 65 bis 109 |
 | X-Ausdehnung | -101 bis -26 (76 Blöcke) |
 | Z-Ausdehnung | 117 bis 180 (64 Blöcke) |
 | Kleinster Schritt | 1.367 Blöcke (Schritt 12.22) |
-| Mittlerer Schritt | 1.644 Blöcke |
+| Mittlerer Schritt | 1.638 Blöcke |
 | Größter Schritt | 2.024 Blöcke (Schritt 12.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 13.247 | 32,2 % |
-| Weißer Beton | `white_concrete` | 10.082 | 24,5 % |
-| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,4 % |
-| Polierter Tuffstein | `polished_tuff` | 3.730 | 9,1 % |
-| Tuffstein | `tuff` | 2.109 | 5,1 % |
+| Terrakotta | `terracotta` | 13.209 | 32,3 % |
+| Weißer Beton | `white_concrete` | 10.082 | 24,6 % |
+| Endsteinziegel | `end_stone_bricks` | 6.351 | 15,5 % |
+| Polierter Tuffstein | `polished_tuff` | 3.776 | 9,2 % |
+| Tuffstein | `tuff` | 1.990 | 4,9 % |
 | Polierter Andesit | `polished_andesite` | 1.843 | 4,5 % |
 | Graues Buntglas | `gray_stained_glass` | 1.273 | 3,1 % |
 | Glatter Stein | `smooth_stone` | 721 | 1,8 % |
@@ -37,7 +37,6 @@
 | Seelaterne | `sea_lantern` | 73 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 58 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 52 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 38 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 27 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 27 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
@@ -54,26 +53,25 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 130 |
 | Steintreppe | `stone_stairs` | 42 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 38 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1594404` | Reihenhaus an Via della Canonica | 15.404 | 12.1–12.9 |
+| 1 | `r1594404` | Reihenhaus an Via della Canonica | 15.288 | 12.1–12.9 |
 | 2 | `r1594404_innen` | Reihenhaus an Via della Canonica: Innenausbau | 4.328 | 12.10–12.12 |
-| 3 | `w114220146` | Palazzo dei Canonici | 13.532 | 12.13–12.20 |
+| 3 | `w114220146` | Palazzo dei Canonici | 13.499 | 12.13–12.20 |
 | 4 | `w114220146_innen` | Palazzo dei Canonici: Innenausbau | 2.743 | 12.21–12.22 |
-| 5 | `w307544507` | Torre dei Pierozzi | 3.679 | 12.23–12.24 |
-| 6 | `w307544507_innen` | Torre dei Pierozzi: Innenausbau | 1.413 | 12.25 |
+| 5 | `w307544507` | Torre dei Pierozzi | 3.717 | 12.23–12.24 |
+| 6 | `w307544507_innen` | Torre dei Pierozzi: Innenausbau | 1.375 | 12.25 |
 | 7 | `strassenschilder` | Straßenschilder | 8 | 12.25 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Reihenhaus an Via della Canonica – Teil 1/9 (Y 66–67)
+### Schritt 12.1 – Reihenhaus an Via della Canonica – Teil 1/9 (Y 66–66)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.881
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.765
 - **Bauteile:** `r1594404`
 
 **Teileliste**
@@ -81,7 +79,6 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.765 |
-| Tuffstein | `tuff` | 116 |
 
 **Beschreibung**
 
@@ -99,49 +96,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Reihenhaus an Via della Canonica – Teil 2/9 (Y 68–71)
+### Schritt 12.2 – Reihenhaus an Via della Canonica – Teil 2/9 (Y 67–71)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.445
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.779
 - **Bauteile:** `r1594404`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.273 |
-| Polierter Andesit | `polished_andesite` | 125 |
-| Graues Buntglas | `gray_stained_glass` | 31 |
-| Grüner Beton | `green_concrete` | 16 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.3 – Reihenhaus an Via della Canonica – Teil 3/9 (Y 72–76)
-
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.789
-- **Bauteile:** `r1594404`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.561 |
-| Polierter Andesit | `polished_andesite` | 134 |
+| Weißer Beton | `white_concrete` | 1.528 |
+| Polierter Andesit | `polished_andesite` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
 | Grüner Beton | `green_concrete` | 32 |
 
@@ -161,9 +127,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Reihenhaus an Via della Canonica – Teil 4/9 (Y 77–81)
+### Schritt 12.3 – Reihenhaus an Via della Canonica – Teil 3/9 (Y 72–75)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 72 bis 75
+- **Blöcke:** 1.455
+- **Bauteile:** `r1594404`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.306 |
+| Polierter Andesit | `polished_andesite` | 102 |
+| Graues Buntglas | `gray_stained_glass` | 31 |
+| Grüner Beton | `green_concrete` | 16 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.4 – Reihenhaus an Via della Canonica – Teil 4/9 (Y 76–80)
+
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.771
 - **Bauteile:** `r1594404`
 
@@ -192,9 +189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.5 – Reihenhaus an Via della Canonica – Teil 5/9 (Y 82–86)
+### Schritt 12.5 – Reihenhaus an Via della Canonica – Teil 5/9 (Y 81–85)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.831
 - **Bauteile:** `r1594404`
 
@@ -223,9 +220,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Reihenhaus an Via della Canonica – Teil 6/9 (Y 87–90)
+### Schritt 12.6 – Reihenhaus an Via della Canonica – Teil 6/9 (Y 86–89)
 
-- **Y-Bereich:** 87 bis 90
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.432
 - **Bauteile:** `r1594404`
 
@@ -254,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Reihenhaus an Via della Canonica – Teil 7/9 (Y 91–95)
+### Schritt 12.7 – Reihenhaus an Via della Canonica – Teil 7/9 (Y 90–94)
 
-- **Y-Bereich:** 91 bis 95
+- **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.771
 - **Bauteile:** `r1594404`
 
@@ -285,9 +282,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.8 – Reihenhaus an Via della Canonica – Teil 8/9 (Y 96–98)
+### Schritt 12.8 – Reihenhaus an Via della Canonica – Teil 8/9 (Y 95–97)
 
-- **Y-Bereich:** 96 bis 98
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 1.988
 - **Bauteile:** `r1594404`
 
@@ -315,9 +312,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.9 – Reihenhaus an Via della Canonica – Teil 9/9 (Y 99–104)
+### Schritt 12.9 – Reihenhaus an Via della Canonica – Teil 9/9 (Y 98–103)
 
-- **Y-Bereich:** 99 bis 104
+- **Y-Bereich:** 98 bis 103
 - **Blöcke:** 1.496
 - **Bauteile:** `r1594404`
 
@@ -344,9 +341,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.10 – Reihenhaus an Via della Canonica: Innenausbau – Teil 1/3 (Y 67–76)
+### Schritt 12.10 – Reihenhaus an Via della Canonica: Innenausbau – Teil 1/3 (Y 66–75)
 
-- **Y-Bereich:** 67 bis 76
+- **Y-Bereich:** 66 bis 75
 - **Blöcke:** 1.447
 - **Bauteile:** `r1594404_innen`
 
@@ -384,9 +381,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.11 – Reihenhaus an Via della Canonica: Innenausbau – Teil 2/3 (Y 77–83)
+### Schritt 12.11 – Reihenhaus an Via della Canonica: Innenausbau – Teil 2/3 (Y 76–82)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 76 bis 82
 - **Blöcke:** 1.436
 - **Bauteile:** `r1594404_innen`
 
@@ -424,9 +421,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.12 – Reihenhaus an Via della Canonica: Innenausbau – Teil 3/3 (Y 84–91)
+### Schritt 12.12 – Reihenhaus an Via della Canonica: Innenausbau – Teil 3/3 (Y 83–90)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.445
 - **Bauteile:** `r1594404_innen`
 
@@ -466,25 +463,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.13 – Palazzo dei Canonici – Teil 1/8 (Y 65–66)
+### Schritt 12.13 – Palazzo dei Canonici – Teil 1/8 (Y 65–65)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.658
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.625
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.579 |
-| Tuffstein | `tuff` | 41 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 38 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 38 |
+| Polierter Tuffstein | `polished_tuff` | 1.625 |
 
 **Beschreibung**
 
@@ -502,21 +491,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.14 – Palazzo dei Canonici – Teil 2/8 (Y 67–72)
+### Schritt 12.14 – Palazzo dei Canonici – Teil 2/8 (Y 66–72)
 
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.588
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.899
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.029 |
-| Graues Buntglas | `gray_stained_glass` | 278 |
-| Weißer Beton | `white_concrete` | 117 |
-| Glatter Stein | `smooth_stone` | 108 |
-| Polierter Andesit | `polished_andesite` | 48 |
+| Endsteinziegel | `end_stone_bricks` | 1.239 |
+| Graues Buntglas | `gray_stained_glass` | 286 |
+| Glatter Stein | `smooth_stone` | 160 |
+| Weißer Beton | `white_concrete` | 147 |
+| Polierter Andesit | `polished_andesite` | 59 |
 | Grüner Beton | `green_concrete` | 8 |
 
 **Beschreibung**
@@ -535,21 +524,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.15 – Palazzo dei Canonici – Teil 3/8 (Y 73–78)
+### Schritt 12.15 – Palazzo dei Canonici – Teil 3/8 (Y 73–77)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.906
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.595
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.439 |
-| Glatter Stein | `smooth_stone` | 397 |
-| Polierter Andesit | `polished_andesite` | 32 |
-| Weißer Beton | `white_concrete` | 30 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Endsteinziegel | `end_stone_bricks` | 1.229 |
+| Glatter Stein | `smooth_stone` | 345 |
+| Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
 
@@ -567,21 +554,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.16 – Palazzo dei Canonici – Teil 4/8 (Y 79–83)
+### Schritt 12.16 – Palazzo dei Canonici – Teil 4/8 (Y 78–83)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.478
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.758
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.040 |
-| Weißer Beton | `white_concrete` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 123 |
-| Grüner Beton | `green_concrete` | 72 |
-| Polierter Andesit | `polished_andesite` | 43 |
+| Endsteinziegel | `end_stone_bricks` | 1.210 |
+| Weißer Beton | `white_concrete` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 164 |
+| Grüner Beton | `green_concrete` | 96 |
+| Polierter Andesit | `polished_andesite` | 48 |
 
 **Beschreibung**
 
@@ -599,22 +586,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.17 – Palazzo dei Canonici – Teil 5/8 (Y 84–89)
+### Schritt 12.17 – Palazzo dei Canonici – Teil 5/8 (Y 84–88)
 
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.875
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.595
 - **Bauteile:** `w114220146`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.373 |
-| Weißer Beton | `white_concrete` | 238 |
+| Endsteinziegel | `end_stone_bricks` | 1.203 |
+| Weißer Beton | `white_concrete` | 198 |
 | Glatter Stein | `smooth_stone` | 162 |
-| Graues Buntglas | `gray_stained_glass` | 41 |
-| Polierter Andesit | `polished_andesite` | 37 |
-| Grüner Beton | `green_concrete` | 24 |
+| Polierter Andesit | `polished_andesite` | 32 |
 
 **Beschreibung**
 
@@ -632,9 +617,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.18 – Palazzo dei Canonici – Teil 6/8 (Y 90–94)
+### Schritt 12.18 – Palazzo dei Canonici – Teil 6/8 (Y 89–93)
 
-- **Y-Bereich:** 90 bis 94
+- **Y-Bereich:** 89 bis 93
 - **Blöcke:** 1.478
 - **Bauteile:** `w114220146`
 
@@ -664,9 +649,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.19 – Palazzo dei Canonici – Teil 7/8 (Y 95–97)
+### Schritt 12.19 – Palazzo dei Canonici – Teil 7/8 (Y 94–96)
 
-- **Y-Bereich:** 95 bis 97
+- **Y-Bereich:** 94 bis 96
 - **Blöcke:** 2.024
 - **Bauteile:** `w114220146`
 
@@ -696,9 +681,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.20 – Palazzo dei Canonici – Teil 8/8 (Y 98–104)
+### Schritt 12.20 – Palazzo dei Canonici – Teil 8/8 (Y 97–103)
 
-- **Y-Bereich:** 98 bis 104
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.525
 - **Bauteile:** `w114220146`
 
@@ -725,9 +710,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 12.21 – Palazzo dei Canonici: Innenausbau – Teil 1/2 (Y 66–78)
+### Schritt 12.21 – Palazzo dei Canonici: Innenausbau – Teil 1/2 (Y 65–77)
 
-- **Y-Bereich:** 66 bis 78
+- **Y-Bereich:** 65 bis 77
 - **Blöcke:** 1.376
 - **Bauteile:** `w114220146_innen`
 
@@ -767,9 +752,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.22 – Palazzo dei Canonici: Innenausbau – Teil 2/2 (Y 79–88)
+### Schritt 12.22 – Palazzo dei Canonici: Innenausbau – Teil 2/2 (Y 78–87)
 
-- **Y-Bereich:** 79 bis 88
+- **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.367
 - **Bauteile:** `w114220146_innen`
 
@@ -846,14 +831,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.24 – Torre dei Pierozzi – Teil 2/2 (Y 90–109)
 
 - **Y-Bereich:** 90 bis 109
-- **Blöcke:** 1.804
+- **Blöcke:** 1.842
 - **Bauteile:** `w307544507`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 972 |
+| Tuffstein | `tuff` | 1.010 |
 | Terrakotta | `terracotta` | 478 |
 | Polierter Andesit | `polished_andesite` | 188 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
@@ -879,14 +864,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 12.25 – Torre dei Pierozzi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 67 bis 98
-- **Blöcke:** 1.421
+- **Blöcke:** 1.383
 - **Bauteile:** `w307544507_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.220 |
+| Terrakotta | `terracotta` | 1.182 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 89 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 32 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 28 |

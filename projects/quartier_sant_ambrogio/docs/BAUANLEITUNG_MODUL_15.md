@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.427 |
+| Blöcke | 15.358 |
 | Bauschritte | 9 |
-| Y-Bereich | 64 bis 101 |
+| Y-Bereich | 64 bis 100 |
 | X-Ausdehnung | 1572 bis 1648 (77 Blöcke) |
 | Z-Ausdehnung | 140 bis 228 (89 Blöcke) |
 | Kleinster Schritt | 1.241 Blöcke (Schritt 15.9) |
-| Mittlerer Schritt | 1.714 Blöcke |
+| Mittlerer Schritt | 1.706 Blöcke |
 | Größter Schritt | 2.055 Blöcke (Schritt 15.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 4.313 | 28,0 % |
-| Terrakotta | `terracotta` | 3.868 | 25,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.313 | 28,1 % |
+| Terrakotta | `terracotta` | 3.868 | 25,2 % |
 | Orange Keramik | `orange_terracotta` | 2.910 | 18,9 % |
 | Polierter Tuffstein | `polished_tuff` | 2.062 | 13,4 % |
 | Polierter Andesit | `polished_andesite` | 982 | 6,4 % |
@@ -30,7 +30,6 @@
 | Fichtenholz-Bretter | `spruce_planks` | 225 | 1,5 % |
 | Grüner Beton | `green_concrete` | 204 | 1,3 % |
 | Ziegelsteine | `bricks` | 127 | 0,8 % |
-| Tuffstein | `tuff` | 69 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
@@ -50,17 +49,17 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w442953956` | Reihenhaus an Via Giosuè Carducci | 7.365 | 15.1–15.4 |
+| 1 | `w442953956` | Reihenhaus an Via Giosuè Carducci | 7.296 | 15.1–15.4 |
 | 2 | `w442953956_innen` | Reihenhaus an Via Giosuè Carducci: Innenausbau | 8 | 15.5 |
 | 3 | `w442953969` | Reihenhaus an Via Giosuè Carducci | 6.813 | 15.5–15.8 |
 | 4 | `w442953969_innen` | Reihenhaus an Via Giosuè Carducci: Innenausbau | 1.241 | 15.9 |
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 64–66)
+### Schritt 15.1 – Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 64–65)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.922
+- **Y-Bereich:** 64 bis 65
+- **Blöcke:** 1.853
 - **Bauteile:** `w442953956`
 
 **Teileliste**
@@ -69,7 +68,6 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.506 |
 | Orange Keramik | `orange_terracotta` | 297 |
-| Tuffstein | `tuff` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 | Polierter Andesit | `polished_andesite` | 20 |
 
@@ -89,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 67–71)
+### Schritt 15.2 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 66–70)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 66 bis 70
 - **Blöcke:** 1.717
 - **Bauteile:** `w442953956`
 
@@ -120,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 72–75)
+### Schritt 15.3 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 71–74)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.671
 - **Bauteile:** `w442953956`
 
@@ -151,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 76–82)
+### Schritt 15.4 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 75–81)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 2.055
 - **Bauteile:** `w442953956`
 
@@ -180,9 +178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Reihenhaus an Via Giosuè Carducci: Innenausbau & Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 65–72)
+### Schritt 15.5 – Reihenhaus an Via Giosuè Carducci: Innenausbau & Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 64–71)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.667
 - **Bauteile:** `w442953956_innen`, `w442953969`
 
@@ -213,9 +211,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 73–82)
+### Schritt 15.6 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 72–81)
 
-- **Y-Bereich:** 73 bis 82
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.784
 - **Bauteile:** `w442953969`
 
@@ -244,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.7 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 83–91)
+### Schritt 15.7 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 82–90)
 
-- **Y-Bereich:** 83 bis 91
+- **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.647
 - **Bauteile:** `w442953969`
 
@@ -275,9 +273,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 92–101)
+### Schritt 15.8 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 91–100)
 
-- **Y-Bereich:** 92 bis 101
+- **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.723
 - **Bauteile:** `w442953969`
 
@@ -311,7 +309,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.9 – Reihenhaus an Via Giosuè Carducci: Innenausbau
 
-- **Y-Bereich:** 65 bis 89
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.241
 - **Bauteile:** `w442953969_innen`
 

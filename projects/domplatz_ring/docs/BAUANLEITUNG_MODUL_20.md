@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 65.862 |
-| Bauschritte | 39 |
-| Y-Bereich | 65 bis 115 |
+| Blöcke | 64.445 |
+| Bauschritte | 37 |
+| Y-Bereich | 64 bis 113 |
 | X-Ausdehnung | 148 bis 252 (105 Blöcke) |
 | Z-Ausdehnung | -295 bis -169 (127 Blöcke) |
-| Kleinster Schritt | 140 Blöcke (Schritt 20.17) |
-| Mittlerer Schritt | 1.689 Blöcke |
+| Kleinster Schritt | 1.253 Blöcke (Schritt 20.1) |
+| Mittlerer Schritt | 1.742 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 20.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 22.989 | 34,9 % |
-| Endsteinziegel | `end_stone_bricks` | 13.680 | 20,8 % |
-| Weißer Beton | `white_concrete` | 10.260 | 15,6 % |
-| Tuffstein | `tuff` | 7.324 | 11,1 % |
-| Polierter Tuffstein | `polished_tuff` | 6.134 | 9,3 % |
-| Polierter Andesit | `polished_andesite` | 2.041 | 3,1 % |
-| Glatter Stein | `smooth_stone` | 1.213 | 1,8 % |
+| Terrakotta | `terracotta` | 22.989 | 35,7 % |
+| Endsteinziegel | `end_stone_bricks` | 13.680 | 21,2 % |
+| Weißer Beton | `white_concrete` | 10.260 | 15,9 % |
+| Polierter Tuffstein | `polished_tuff` | 6.142 | 9,5 % |
+| Tuffstein | `tuff` | 5.907 | 9,2 % |
+| Polierter Andesit | `polished_andesite` | 2.041 | 3,2 % |
+| Glatter Stein | `smooth_stone` | 1.213 | 1,9 % |
 | Graues Buntglas | `gray_stained_glass` | 1.087 | 1,7 % |
 | Ziegelsteine | `bricks` | 392 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 334 | 0,5 % |
@@ -39,8 +39,6 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 31 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -51,41 +49,32 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 100 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 68 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307544521` | Palazzo Pasqui | 22.939 | 20.1–20.13 |
+| 1 | `w307544521` | Palazzo Pasqui | 22.757 | 20.1–20.13 |
 | 2 | `w307544521_innen` | Palazzo Pasqui: Innenausbau | 6.266 | 20.13–20.16 |
-| 3 | `w491816880` | Renaissance-Palazzo an Via Maurizio Bufalini | 13.469 | 20.17–20.24 |
-| 4 | `w491816880_innen` | Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau | 3.587 | 20.25–20.26 |
-| 5 | `w491816885` | Reihenhaus an Via dei Servi | 13.738 | 20.27–20.35 |
-| 6 | `w491816885_innen` | Reihenhaus an Via dei Servi: Innenausbau | 5.861 | 20.36–20.39 |
-| 7 | `strassenschilder` | Straßenschilder | 2 | 20.39 |
+| 3 | `w491816880` | Renaissance-Palazzo an Via Maurizio Bufalini | 13.329 | 20.17–20.23 |
+| 4 | `w491816880_innen` | Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau | 3.587 | 20.24–20.25 |
+| 5 | `w491816885` | Reihenhaus an Via dei Servi | 12.643 | 20.26–20.33 |
+| 6 | `w491816885_innen` | Reihenhaus an Via dei Servi: Innenausbau | 5.861 | 20.34–20.37 |
+| 7 | `strassenschilder` | Straßenschilder | 2 | 20.37 |
 
 ## Bauschritte
 
-### Schritt 20.1 – Palazzo Pasqui – Teil 1/13 (Y 65–66)
+### Schritt 20.1 – Palazzo Pasqui – Teil 1/13 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 66
-- **Blöcke:** 1.435
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.253
 - **Bauteile:** `w307544521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.249 |
-| Tuffstein | `tuff` | 182 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+| Polierter Tuffstein | `polished_tuff` | 1.253 |
 
 **Beschreibung**
 
@@ -103,9 +92,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.2 – Palazzo Pasqui – Teil 2/13 (Y 66–68)
+### Schritt 20.2 – Palazzo Pasqui – Teil 2/13 (Y 64–66)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 64 bis 66
 - **Blöcke:** 2.017
 - **Bauteile:** `w307544521`
 
@@ -136,9 +125,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.3 – Palazzo Pasqui – Teil 3/13 (Y 69–73)
+### Schritt 20.3 – Palazzo Pasqui – Teil 3/13 (Y 67–71)
 
-- **Y-Bereich:** 69 bis 73
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 2.045
 - **Bauteile:** `w307544521`
 
@@ -168,9 +157,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.4 – Palazzo Pasqui – Teil 4/13 (Y 74–77)
+### Schritt 20.4 – Palazzo Pasqui – Teil 4/13 (Y 72–75)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.704
 - **Bauteile:** `w307544521`
 
@@ -198,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.5 – Palazzo Pasqui – Teil 5/13 (Y 78–81)
+### Schritt 20.5 – Palazzo Pasqui – Teil 5/13 (Y 76–79)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.688
 - **Bauteile:** `w307544521`
 
@@ -230,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.6 – Palazzo Pasqui – Teil 6/13 (Y 82–85)
+### Schritt 20.6 – Palazzo Pasqui – Teil 6/13 (Y 80–83)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.656
 - **Bauteile:** `w307544521`
 
@@ -261,9 +250,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.7 – Palazzo Pasqui – Teil 7/13 (Y 86–89)
+### Schritt 20.7 – Palazzo Pasqui – Teil 7/13 (Y 84–87)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.704
 - **Bauteile:** `w307544521`
 
@@ -292,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.8 – Palazzo Pasqui – Teil 8/13 (Y 90–94)
+### Schritt 20.8 – Palazzo Pasqui – Teil 8/13 (Y 88–92)
 
-- **Y-Bereich:** 90 bis 94
+- **Y-Bereich:** 88 bis 92
 - **Blöcke:** 2.066
 - **Bauteile:** `w307544521`
 
@@ -323,9 +312,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.9 – Palazzo Pasqui – Teil 9/13 (Y 95–98)
+### Schritt 20.9 – Palazzo Pasqui – Teil 9/13 (Y 93–96)
 
-- **Y-Bereich:** 95 bis 98
+- **Y-Bereich:** 93 bis 96
 - **Blöcke:** 1.704
 - **Bauteile:** `w307544521`
 
@@ -354,9 +343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.10 – Palazzo Pasqui – Teil 10/13 (Y 99–102)
+### Schritt 20.10 – Palazzo Pasqui – Teil 10/13 (Y 97–100)
 
-- **Y-Bereich:** 99 bis 102
+- **Y-Bereich:** 97 bis 100
 - **Blöcke:** 1.640
 - **Bauteile:** `w307544521`
 
@@ -385,9 +374,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.11 – Palazzo Pasqui – Teil 11/13 (Y 103–106)
+### Schritt 20.11 – Palazzo Pasqui – Teil 11/13 (Y 101–104)
 
-- **Y-Bereich:** 103 bis 106
+- **Y-Bereich:** 101 bis 104
 - **Blöcke:** 1.944
 - **Bauteile:** `w307544521`
 
@@ -416,9 +405,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.12 – Palazzo Pasqui – Teil 12/13 (Y 107–108)
+### Schritt 20.12 – Palazzo Pasqui – Teil 12/13 (Y 105–106)
 
-- **Y-Bereich:** 107 bis 108
+- **Y-Bereich:** 105 bis 106
 - **Blöcke:** 1.535
 - **Bauteile:** `w307544521`
 
@@ -444,9 +433,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
-### Schritt 20.13 – Palazzo Pasqui – Teil 13/13 (Y 109–115) & Palazzo Pasqui: Innenausbau – Teil 1/4 (Y 66–77)
+### Schritt 20.13 – Palazzo Pasqui – Teil 13/13 (Y 107–113) & Palazzo Pasqui: Innenausbau – Teil 1/4 (Y 64–75)
 
-- **Y-Bereich:** 66 bis 115
+- **Y-Bereich:** 64 bis 113
 - **Blöcke:** 1.867
 - **Bauteile:** `w307544521`, `w307544521_innen`
 
@@ -487,9 +476,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.14 – Palazzo Pasqui: Innenausbau – Teil 2/4 (Y 78–86)
+### Schritt 20.14 – Palazzo Pasqui: Innenausbau – Teil 2/4 (Y 76–84)
 
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 2.079
 - **Bauteile:** `w307544521_innen`
 
@@ -525,9 +514,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.15 – Palazzo Pasqui: Innenausbau – Teil 3/4 (Y 87–95)
+### Schritt 20.15 – Palazzo Pasqui: Innenausbau – Teil 3/4 (Y 85–93)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 2.079
 - **Bauteile:** `w307544521_innen`
 
@@ -563,9 +552,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.16 – Palazzo Pasqui: Innenausbau – Teil 4/4 (Y 96–97)
+### Schritt 20.16 – Palazzo Pasqui: Innenausbau – Teil 4/4 (Y 94–95)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 2.042
 - **Bauteile:** `w307544521_innen`
 
@@ -603,37 +592,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.17 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 1/8 (Y 65–65)
+### Schritt 20.17 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 1/7 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
-- **Blöcke:** 140
-- **Bauteile:** `w491816880`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 140 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.18 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 2/8 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 2.023
 - **Bauteile:** `w491816880`
 
@@ -659,20 +620,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.19 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 3/8 (Y 67–73)
+### Schritt 20.18 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 2/7 (Y 66–71)
 
-- **Y-Bereich:** 67 bis 73
-- **Blöcke:** 1.972
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.690
 - **Bauteile:** `w491816880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.372 |
-| Polierter Andesit | `polished_andesite` | 337 |
-| Tuffsteinziegel | `tuff_bricks` | 231 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
+| Tuffstein | `tuff` | 1.177 |
+| Polierter Andesit | `polished_andesite` | 298 |
+| Tuffsteinziegel | `tuff_bricks` | 191 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**
 
@@ -690,21 +651,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.20 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 4/8 (Y 74–80)
+### Schritt 20.19 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 3/7 (Y 72–78)
 
-- **Y-Bereich:** 74 bis 80
-- **Blöcke:** 2.037
+- **Y-Bereich:** 72 bis 78
+- **Blöcke:** 2.038
 - **Bauteile:** `w491816880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.389 |
-| Polierter Andesit | `polished_andesite` | 408 |
+| Tuffstein | `tuff` | 1.390 |
+| Polierter Andesit | `polished_andesite` | 370 |
+| Tuffsteinziegel | `tuff_bricks` | 143 |
 | Glatter Stein | `smooth_stone` | 119 |
-| Tuffsteinziegel | `tuff_bricks` | 103 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
+| Graues Buntglas | `gray_stained_glass` | 16 |
 
 **Beschreibung**
 
@@ -722,41 +683,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.21 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 5/8 (Y 81–87)
+### Schritt 20.20 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 4/7 (Y 79–85)
 
-- **Y-Bereich:** 81 bis 87
-- **Blöcke:** 2.017
-- **Bauteile:** `w491816880`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.376 |
-| Polierter Andesit | `polished_andesite` | 482 |
-| Glatter Stein | `smooth_stone` | 119 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.22 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 6/8 (Y 88–94)
-
-- **Y-Bereich:** 88 bis 94
-- **Blöcke:** 1.986
+- **Y-Bereich:** 79 bis 85
+- **Blöcke:** 2.011
 - **Bauteile:** `w491816880`
 
 **Teileliste**
@@ -764,7 +694,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.370 |
-| Polierter Andesit | `polished_andesite` | 566 |
+| Polierter Andesit | `polished_andesite` | 472 |
+| Glatter Stein | `smooth_stone` | 119 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
@@ -783,20 +714,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.23 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 7/8 (Y 95–97)
+### Schritt 20.21 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 5/7 (Y 86–91)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.492
+- **Y-Bereich:** 86 bis 91
+- **Blöcke:** 1.705
 - **Bauteile:** `w491816880`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 854 |
-| Tuffstein | `tuff` | 400 |
-| Polierter Andesit | `polished_andesite` | 174 |
-| Endsteinziegel | `end_stone_bricks` | 64 |
+| Tuffstein | `tuff` | 1.176 |
+| Polierter Andesit | `polished_andesite` | 489 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
@@ -814,9 +744,41 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.24 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 8/8 (Y 98–106)
+### Schritt 20.22 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 6/7 (Y 92–96)
 
-- **Y-Bereich:** 98 bis 106
+- **Y-Bereich:** 92 bis 96
+- **Blöcke:** 2.060
+- **Bauteile:** `w491816880`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 854 |
+| Tuffstein | `tuff` | 794 |
+| Polierter Andesit | `polished_andesite` | 338 |
+| Endsteinziegel | `end_stone_bricks` | 64 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.23 – Renaissance-Palazzo an Via Maurizio Bufalini – Teil 7/7 (Y 97–105)
+
+- **Y-Bereich:** 97 bis 105
 - **Blöcke:** 1.802
 - **Bauteile:** `w491816880`
 
@@ -843,9 +805,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.25 – Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau – Teil 1/2 (Y 66–77)
+### Schritt 20.24 – Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau – Teil 1/2 (Y 65–76)
 
-- **Y-Bereich:** 66 bis 77
+- **Y-Bereich:** 65 bis 76
 - **Blöcke:** 1.798
 - **Bauteile:** `w491816880_innen`
 
@@ -881,9 +843,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.26 – Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau – Teil 2/2 (Y 78–87)
+### Schritt 20.25 – Renaissance-Palazzo an Via Maurizio Bufalini: Innenausbau – Teil 2/2 (Y 77–86)
 
-- **Y-Bereich:** 78 bis 87
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.789
 - **Bauteile:** `w491816880_innen`
 
@@ -925,24 +887,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.27 – Reihenhaus an Via dei Servi – Teil 1/9 (Y 65–65)
+### Schritt 20.26 – Reihenhaus an Via dei Servi – Teil 1/8 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.097
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.659
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.095 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Polierter Tuffstein | `polished_tuff` | 1.659 |
 
 **Beschreibung**
 
@@ -960,56 +915,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.28 – Reihenhaus an Via dei Servi – Teil 2/9 (Y 66–67)
+### Schritt 20.27 – Reihenhaus an Via dei Servi – Teil 2/8 (Y 65–70)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.889
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.397
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.655 |
-| Weißer Beton | `white_concrete` | 229 |
-| Glatter Stein | `smooth_stone` | 3 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.29 – Reihenhaus an Via dei Servi – Teil 3/9 (Y 68–74)
-
-- **Y-Bereich:** 68 bis 74
-- **Blöcke:** 1.624
-- **Bauteile:** `w491816885`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.564 |
+| Weißer Beton | `white_concrete` | 1.334 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
-| Glatter Stein | `smooth_stone` | 15 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
@@ -1027,104 +945,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.30 – Reihenhaus an Via dei Servi – Teil 4/9 (Y 75–80)
+### Schritt 20.28 – Reihenhaus an Via dei Servi – Teil 3/8 (Y 71–77)
 
-- **Y-Bereich:** 75 bis 80
-- **Blöcke:** 1.392
+- **Y-Bereich:** 71 bis 77
+- **Blöcke:** 1.639
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.328 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.31 – Reihenhaus an Via dei Servi – Teil 5/9 (Y 81–87)
-
-- **Y-Bereich:** 81 bis 87
-- **Blöcke:** 1.630
-- **Bauteile:** `w491816885`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.566 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.32 – Reihenhaus an Via dei Servi – Teil 6/9 (Y 88–94)
-
-- **Y-Bereich:** 88 bis 94
-- **Blöcke:** 1.630
-- **Bauteile:** `w491816885`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.566 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 20.33 – Reihenhaus an Via dei Servi – Teil 7/9 (Y 95–100)
-
-- **Y-Bereich:** 95 bis 100
-- **Blöcke:** 1.469
-- **Bauteile:** `w491816885`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.421 |
+| Weißer Beton | `white_concrete` | 1.591 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
@@ -1143,19 +974,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.34 – Reihenhaus an Via dei Servi – Teil 8/9 (Y 101–104)
+### Schritt 20.29 – Reihenhaus an Via dei Servi – Teil 4/8 (Y 78–84)
 
-- **Y-Bereich:** 101 bis 104
-- **Blöcke:** 1.637
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 1.630
 - **Bauteile:** `w491816885`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 833 |
-| Weißer Beton | `white_concrete` | 788 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
+| Weißer Beton | `white_concrete` | 1.566 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
 
 **Beschreibung**
 
@@ -1173,9 +1003,97 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.35 – Reihenhaus an Via dei Servi – Teil 9/9 (Y 105–111)
+### Schritt 20.30 – Reihenhaus an Via dei Servi – Teil 5/8 (Y 85–91)
 
-- **Y-Bereich:** 105 bis 111
+- **Y-Bereich:** 85 bis 91
+- **Blöcke:** 1.630
+- **Bauteile:** `w491816885`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.566 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.31 – Reihenhaus an Via dei Servi – Teil 6/8 (Y 92–97)
+
+- **Y-Bereich:** 92 bis 97
+- **Blöcke:** 1.435
+- **Bauteile:** `w491816885`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.387 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.32 – Reihenhaus an Via dei Servi – Teil 7/8 (Y 98–102)
+
+- **Y-Bereich:** 98 bis 102
+- **Blöcke:** 1.883
+- **Bauteile:** `w491816885`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.018 |
+| Terrakotta | `terracotta` | 833 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 20.33 – Reihenhaus an Via dei Servi – Teil 8/8 (Y 103–109)
+
+- **Y-Bereich:** 103 bis 109
 - **Blöcke:** 1.370
 - **Bauteile:** `w491816885`
 
@@ -1202,9 +1120,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.36 – Reihenhaus an Via dei Servi: Innenausbau – Teil 1/4 (Y 66–75)
+### Schritt 20.34 – Reihenhaus an Via dei Servi: Innenausbau – Teil 1/4 (Y 64–73)
 
-- **Y-Bereich:** 66 bis 75
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.475
 - **Bauteile:** `w491816885_innen`
 
@@ -1240,9 +1158,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.37 – Reihenhaus an Via dei Servi: Innenausbau – Teil 2/4 (Y 76–82)
+### Schritt 20.35 – Reihenhaus an Via dei Servi: Innenausbau – Teil 2/4 (Y 74–80)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.461
 - **Bauteile:** `w491816885_innen`
 
@@ -1280,9 +1198,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.38 – Reihenhaus an Via dei Servi: Innenausbau – Teil 3/4 (Y 83–89)
+### Schritt 20.36 – Reihenhaus an Via dei Servi: Innenausbau – Teil 3/4 (Y 81–87)
 
-- **Y-Bereich:** 83 bis 89
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.459
 - **Bauteile:** `w491816885_innen`
 
@@ -1320,9 +1238,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.39 – Reihenhaus an Via dei Servi: Innenausbau – Teil 4/4 (Y 90–97) & Straßenschilder
+### Schritt 20.37 – Reihenhaus an Via dei Servi: Innenausbau – Teil 4/4 (Y 88–95) & Straßenschilder
 
-- **Y-Bereich:** 73 bis 97
+- **Y-Bereich:** 72 bis 95
 - **Blöcke:** 1.468
 - **Bauteile:** `w491816885_innen`, `strassenschilder`
 

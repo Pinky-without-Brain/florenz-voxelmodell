@@ -43,10 +43,10 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 18 | 0,1 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -487,9 +487,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

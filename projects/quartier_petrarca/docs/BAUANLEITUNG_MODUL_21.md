@@ -8,25 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.318 |
+| Blöcke | 14.080 |
 | Bauschritte | 8 |
-| Y-Bereich | 64 bis 97 |
+| Y-Bereich | 64 bis 96 |
 | X-Ausdehnung | -2802 bis -2746 (57 Blöcke) |
 | Z-Ausdehnung | 1628 bis 1687 (60 Blöcke) |
 | Kleinster Schritt | 1.307 Blöcke (Schritt 21.8) |
-| Mittlerer Schritt | 1.790 Blöcke |
+| Mittlerer Schritt | 1.760 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 21.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 6.265 | 43,8 % |
-| Terrakotta | `terracotta` | 4.521 | 31,6 % |
-| Polierter Tuffstein | `polished_tuff` | 1.616 | 11,3 % |
-| Glatter Stein | `smooth_stone` | 1.173 | 8,2 % |
-| Graues Buntglas | `gray_stained_glass` | 278 | 1,9 % |
-| Tuffstein | `tuff` | 238 | 1,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.265 | 44,5 % |
+| Terrakotta | `terracotta` | 4.521 | 32,1 % |
+| Polierter Tuffstein | `polished_tuff` | 1.616 | 11,5 % |
+| Glatter Stein | `smooth_stone` | 1.173 | 8,3 % |
+| Graues Buntglas | `gray_stained_glass` | 278 | 2,0 % |
 | Ziegelsteine | `bricks` | 103 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 | 0,3 % |
 | Polierter Andesit | `polished_andesite` | 27 | 0,2 % |
@@ -44,7 +43,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w461683370` | Reihenhaus an Via dei Villani | 11.689 | 21.1–21.6 |
+| 1 | `w461683370` | Reihenhaus an Via dei Villani | 11.451 | 21.1–21.6 |
 | 2 | `w461683370_innen` | Reihenhaus an Via dei Villani: Innenausbau | 2.629 | 21.7–21.8 |
 
 ## Bauschritte
@@ -52,7 +51,7 @@
 ### Schritt 21.1 – Reihenhaus an Via dei Villani – Teil 1/6 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.854
+- **Blöcke:** 1.950
 - **Bauteile:** `w461683370`
 
 **Teileliste**
@@ -60,7 +59,8 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.616 |
-| Tuffstein | `tuff` | 238 |
+| Glatter Sandstein | `smooth_sandstone` | 332 |
+| Glatter Stein | `smooth_stone` | 2 |
 
 **Beschreibung**
 
@@ -81,15 +81,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 21.2 – Reihenhaus an Via dei Villani – Teil 2/6 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 2.001
+- **Blöcke:** 2.009
 - **Bauteile:** `w461683370`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.650 |
-| Glatter Stein | `smooth_stone` | 270 |
+| Glatter Sandstein | `smooth_sandstone` | 1.581 |
+| Glatter Stein | `smooth_stone` | 347 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Polierter Andesit | `polished_andesite` | 27 |
 
@@ -109,18 +109,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Reihenhaus an Via dei Villani – Teil 3/6 (Y 72–77)
+### Schritt 21.3 – Reihenhaus an Via dei Villani – Teil 3/6 (Y 72–76)
 
-- **Y-Bereich:** 72 bis 77
-- **Blöcke:** 2.044
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.702
 - **Bauteile:** `w461683370`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.693 |
-| Glatter Stein | `smooth_stone` | 295 |
+| Glatter Sandstein | `smooth_sandstone` | 1.430 |
+| Glatter Stein | `smooth_stone` | 216 |
 | Graues Buntglas | `gray_stained_glass` | 56 |
 
 **Beschreibung**
@@ -139,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Reihenhaus an Via dei Villani – Teil 4/6 (Y 78–83)
+### Schritt 21.4 – Reihenhaus an Via dei Villani – Teil 4/6 (Y 77–82)
 
-- **Y-Bereich:** 78 bis 83
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 2.030
 - **Bauteile:** `w461683370`
 
@@ -169,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Reihenhaus an Via dei Villani – Teil 5/6 (Y 84–88)
+### Schritt 21.5 – Reihenhaus an Via dei Villani – Teil 5/6 (Y 83–87)
 
-- **Y-Bereich:** 84 bis 88
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.668
 - **Bauteile:** `w461683370`
 
@@ -199,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.6 – Reihenhaus an Via dei Villani – Teil 6/6 (Y 89–97)
+### Schritt 21.6 – Reihenhaus an Via dei Villani – Teil 6/6 (Y 88–96)
 
-- **Y-Bereich:** 89 bis 97
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 2.092
 - **Bauteile:** `w461683370`
 
@@ -228,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.7 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 65–74)
+### Schritt 21.7 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 64–73)
 
-- **Y-Bereich:** 65 bis 74
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.322
 - **Bauteile:** `w461683370_innen`
 
@@ -266,9 +266,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.8 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 75–81)
+### Schritt 21.8 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 74–80)
 
-- **Y-Bereich:** 75 bis 81
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.307
 - **Bauteile:** `w461683370_innen`
 

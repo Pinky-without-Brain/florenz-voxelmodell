@@ -8,29 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 22.059 |
-| Bauschritte | 14 |
-| Y-Bereich | 56 bis 94 |
+| Blöcke | 20.964 |
+| Bauschritte | 13 |
+| Y-Bereich | 56 bis 92 |
 | X-Ausdehnung | -3083 bis -3011 (73 Blöcke) |
 | Z-Ausdehnung | -536 bis -467 (70 Blöcke) |
 | Kleinster Schritt | 300 Blöcke (Schritt 0.4) |
-| Mittlerer Schritt | 1.576 Blöcke |
-| Größter Schritt | 2.072 Blöcke (Schritt 0.7) |
+| Mittlerer Schritt | 1.613 Blöcke |
+| Größter Schritt | 1.978 Blöcke (Schritt 0.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 7.671 | 34,8 % |
-| Terrakotta | `terracotta` | 3.552 | 16,1 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.693 | 12,2 % |
-| Polierter Andesit | `polished_andesite` | 2.053 | 9,3 % |
-| Orange Keramik | `orange_terracotta` | 1.465 | 6,6 % |
-| Polierter Tuffstein | `polished_tuff` | 1.441 | 6,5 % |
-| Tuffstein | `tuff` | 1.095 | 5,0 % |
-| Graues Buntglas | `gray_stained_glass` | 544 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 463 | 2,1 % |
-| Weißer Beton | `white_concrete` | 463 | 2,1 % |
+| Rosa Keramik | `pink_terracotta` | 7.671 | 36,6 % |
+| Terrakotta | `terracotta` | 3.552 | 16,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.693 | 12,8 % |
+| Polierter Andesit | `polished_andesite` | 2.053 | 9,8 % |
+| Orange Keramik | `orange_terracotta` | 1.465 | 7,0 % |
+| Polierter Tuffstein | `polished_tuff` | 1.445 | 6,9 % |
+| Graues Buntglas | `gray_stained_glass` | 544 | 2,6 % |
+| Glatter Stein | `smooth_stone` | 463 | 2,2 % |
+| Weißer Beton | `white_concrete` | 463 | 2,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 321 | 1,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,3 % |
 | Grüner Beton | `green_concrete` | 52 | 0,2 % |
@@ -43,7 +42,6 @@
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 5 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -51,7 +49,6 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 | Steintreppe | `stone_stairs` | 40 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -61,8 +58,8 @@
 | 2 | `w461619470_innen` | Haus w461619470: Innenausbau | 2 | 0.3 |
 | 3 | `w461619495` | Haus w461619495 | 1.976 | 0.3 |
 | 4 | `w461619495_innen` | Haus w461619495: Innenausbau | 300 | 0.4 |
-| 5 | `w461619501` | Haus w461619501 | 14.590 | 0.5–0.13 |
-| 6 | `w461619501_innen` | Haus w461619501: Innenausbau | 1.537 | 0.14 |
+| 5 | `w461619501` | Haus w461619501 | 13.495 | 0.5–0.12 |
+| 6 | `w461619501_innen` | Haus w461619501: Innenausbau | 1.537 | 0.13 |
 
 ## Bauschritte
 
@@ -203,62 +200,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.5 – Haus w461619501 – Teil 1/9 (Y 56–57)
+### Schritt 0.5 – Haus w461619501 – Teil 1/8 (Y 56–58)
 
-- **Y-Bereich:** 56 bis 57
-- **Blöcke:** 1.097
+- **Y-Bereich:** 56 bis 58
+- **Blöcke:** 1.822
 - **Bauteile:** `w461619501`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.095 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.6 – Haus w461619501 – Teil 2/9 (Y 58–60)
-
-- **Y-Bereich:** 58 bis 60
-- **Blöcke:** 1.777
-- **Bauteile:** `w461619501`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.073 |
-| Rosa Keramik | `pink_terracotta` | 665 |
+| Polierter Tuffstein | `polished_tuff` | 1.077 |
+| Rosa Keramik | `pink_terracotta` | 708 |
 | Polierter Andesit | `polished_andesite` | 34 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -276,18 +231,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.7 – Haus w461619501 – Teil 3/9 (Y 61–66)
+### Schritt 0.6 – Haus w461619501 – Teil 2/8 (Y 59–63)
 
-- **Y-Bereich:** 61 bis 66
-- **Blöcke:** 2.072
+- **Y-Bereich:** 59 bis 63
+- **Blöcke:** 1.714
 - **Bauteile:** `w461619501`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.462 |
-| Polierter Andesit | `polished_andesite` | 505 |
+| Rosa Keramik | `pink_terracotta` | 1.189 |
+| Polierter Andesit | `polished_andesite` | 420 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Tuffsteinziegel | `tuff_bricks` | 10 |
 | Grüner Beton | `green_concrete` | 8 |
@@ -308,19 +263,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.8 – Haus w461619501 – Teil 4/9 (Y 67–70)
+### Schritt 0.7 – Haus w461619501 – Teil 3/8 (Y 64–67)
 
-- **Y-Bereich:** 67 bis 70
-- **Blöcke:** 1.454
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.432
 - **Bauteile:** `w461619501`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.081 |
+| Rosa Keramik | `pink_terracotta` | 1.085 |
 | Glatter Stein | `smooth_stone` | 224 |
-| Polierter Andesit | `polished_andesite` | 149 |
+| Polierter Andesit | `polished_andesite` | 123 |
 
 **Beschreibung**
 
@@ -338,79 +293,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.9 – Haus w461619501 – Teil 5/9 (Y 71–75)
+### Schritt 0.8 – Haus w461619501 – Teil 4/8 (Y 68–72)
 
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 1.680
+- **Y-Bereich:** 68 bis 72
+- **Blöcke:** 1.724
 - **Bauteile:** `w461619501`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.186 |
-| Polierter Andesit | `polished_andesite` | 334 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
-| Grüner Beton | `green_concrete` | 10 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.10 – Haus w461619501 – Teil 6/9 (Y 76–80)
-
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 1.812
-- **Bauteile:** `w461619501`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.219 |
-| Polierter Andesit | `polished_andesite` | 452 |
-| Glatter Stein | `smooth_stone` | 141 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.11 – Haus w461619501 – Teil 7/9 (Y 81–84)
-
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.344
-- **Bauteile:** `w461619501`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 954 |
-| Polierter Andesit | `polished_andesite` | 262 |
+| Rosa Keramik | `pink_terracotta` | 1.223 |
+| Polierter Andesit | `polished_andesite` | 373 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 | Grüner Beton | `green_concrete` | 8 |
 
@@ -430,17 +324,80 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.12 – Haus w461619501 – Teil 8/9 (Y 85–88)
+### Schritt 0.9 – Haus w461619501 – Teil 5/8 (Y 73–77)
 
-- **Y-Bereich:** 85 bis 88
-- **Blöcke:** 1.774
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.768
 - **Bauteile:** `w461619501`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.104 |
+| Rosa Keramik | `pink_terracotta` | 1.182 |
+| Polierter Andesit | `polished_andesite` | 413 |
+| Glatter Stein | `smooth_stone` | 141 |
+| Graues Buntglas | `gray_stained_glass` | 30 |
+| Grüner Beton | `green_concrete` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.10 – Haus w461619501 – Teil 6/8 (Y 78–82)
+
+- **Y-Bereich:** 78 bis 82
+- **Blöcke:** 1.724
+- **Bauteile:** `w461619501`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.223 |
+| Polierter Andesit | `polished_andesite` | 373 |
+| Graues Buntglas | `gray_stained_glass` | 120 |
+| Grüner Beton | `green_concrete` | 8 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.11 – Haus w461619501 – Teil 7/8 (Y 83–86)
+
+- **Y-Bereich:** 83 bis 86
+- **Blöcke:** 1.731
+- **Bauteile:** `w461619501`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.061 |
 | Fichtenholz-Bretter | `spruce_planks` | 321 |
 | Polierter Andesit | `polished_andesite` | 317 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
@@ -462,9 +419,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.13 – Haus w461619501 – Teil 9/9 (Y 89–94)
+### Schritt 0.12 – Haus w461619501 – Teil 8/8 (Y 87–92)
 
-- **Y-Bereich:** 89 bis 94
+- **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.580
 - **Bauteile:** `w461619501`
 
@@ -491,9 +448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.14 – Haus w461619501: Innenausbau
+### Schritt 0.13 – Haus w461619501: Innenausbau
 
-- **Y-Bereich:** 58 bis 79
+- **Y-Bereich:** 56 bis 77
 - **Blöcke:** 1.537
 - **Bauteile:** `w461619501_innen`
 

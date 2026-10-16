@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 24.742 |
+| Blöcke | 23.963 |
 | Bauschritte | 15 |
-| Y-Bereich | 54 bis 96 |
+| Y-Bereich | 54 bis 95 |
 | X-Ausdehnung | -2139 bis -2067 (73 Blöcke) |
 | Z-Ausdehnung | -1314 bis -1257 (58 Blöcke) |
 | Kleinster Schritt | 895 Blöcke (Schritt 31.7) |
-| Mittlerer Schritt | 1.649 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 31.1) |
+| Mittlerer Schritt | 1.598 Blöcke |
+| Größter Schritt | 1.980 Blöcke (Schritt 31.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 7.954 | 32,1 % |
-| Weißer Beton | `white_concrete` | 5.963 | 24,1 % |
-| Hellgrauer Beton | `light_gray_concrete` | 5.460 | 22,1 % |
-| Polierter Tuffstein | `polished_tuff` | 2.149 | 8,7 % |
-| Tuffstein | `tuff` | 1.277 | 5,2 % |
-| Graues Buntglas | `gray_stained_glass` | 850 | 3,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 468 | 1,9 % |
+| Terrakotta | `terracotta` | 7.954 | 33,2 % |
+| Weißer Beton | `white_concrete` | 5.963 | 24,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.460 | 22,8 % |
+| Polierter Tuffstein | `polished_tuff` | 2.149 | 9,0 % |
+| Graues Buntglas | `gray_stained_glass` | 850 | 3,5 % |
+| Tuffstein | `tuff` | 498 | 2,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 468 | 2,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 129 | 0,5 % |
 | Ziegelsteine | `bricks` | 119 | 0,5 % |
 | Glatter Stein | `smooth_stone` | 106 | 0,4 % |
@@ -48,9 +48,9 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443083465` | Reihenhaus an Viale Fratelli Rosselli | 10.452 | 31.1–31.6 |
+| 1 | `w443083465` | Reihenhaus an Viale Fratelli Rosselli | 9.849 | 31.1–31.6 |
 | 2 | `w443083465_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 2.563 | 31.7–31.8 |
-| 3 | `w443083516` | Reihenhaus an Viale Fratelli Rosselli | 8.936 | 31.9–31.13 |
+| 3 | `w443083516` | Reihenhaus an Viale Fratelli Rosselli | 8.760 | 31.9–31.13 |
 | 4 | `w443083516_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 2.791 | 31.14–31.15 |
 
 ## Bauschritte
@@ -58,7 +58,7 @@
 ### Schritt 31.1 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/6 (Y 54–57)
 
 - **Y-Bereich:** 54 bis 57
-- **Blöcke:** 2.099
+- **Blöcke:** 1.720
 - **Bauteile:** `w443083465`
 
 **Teileliste**
@@ -66,7 +66,10 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.057 |
-| Tuffstein | `tuff` | 1.042 |
+| Tuffstein | `tuff` | 439 |
+| Weißer Beton | `white_concrete` | 197 |
+| Graues Buntglas | `gray_stained_glass` | 15 |
+| Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
 
@@ -84,20 +87,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.2 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/6 (Y 58–63)
+### Schritt 31.2 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/6 (Y 58–64)
 
-- **Y-Bereich:** 58 bis 63
-- **Blöcke:** 1.309
+- **Y-Bereich:** 58 bis 64
+- **Blöcke:** 1.573
 - **Bauteile:** `w443083465`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 975 |
-| Graues Buntglas | `gray_stained_glass` | 149 |
-| Hellgrauer Beton | `light_gray_concrete` | 112 |
-| Polierter Andesit | `polished_andesite` | 73 |
+| Weißer Beton | `white_concrete` | 1.205 |
+| Hellgrauer Beton | `light_gray_concrete` | 149 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Polierter Andesit | `polished_andesite` | 85 |
 
 **Beschreibung**
 
@@ -115,20 +118,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.3 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/6 (Y 64–71)
+### Schritt 31.3 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/6 (Y 65–71)
 
-- **Y-Bereich:** 64 bis 71
-- **Blöcke:** 1.871
+- **Y-Bereich:** 65 bis 71
+- **Blöcke:** 1.627
 - **Bauteile:** `w443083465`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.460 |
-| Hellgrauer Beton | `light_gray_concrete` | 285 |
+| Weißer Beton | `white_concrete` | 1.171 |
+| Hellgrauer Beton | `light_gray_concrete` | 354 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
-| Polierter Andesit | `polished_andesite` | 24 |
 
 **Beschreibung**
 
@@ -176,18 +178,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.5 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/6 (Y 79–86)
+### Schritt 31.5 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/6 (Y 79–85)
 
-- **Y-Bereich:** 79 bis 86
-- **Blöcke:** 1.898
+- **Y-Bereich:** 79 bis 85
+- **Blöcke:** 1.654
 - **Bauteile:** `w443083465`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.406 |
-| Hellgrauer Beton | `light_gray_concrete` | 424 |
+| Weißer Beton | `white_concrete` | 1.268 |
+| Hellgrauer Beton | `light_gray_concrete` | 318 |
 | Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
@@ -206,9 +208,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.6 – Reihenhaus an Viale Fratelli Rosselli – Teil 6/6 (Y 87–95)
+### Schritt 31.6 – Reihenhaus an Viale Fratelli Rosselli – Teil 6/6 (Y 86–94)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.648
 - **Bauteile:** `w443083465`
 
@@ -236,9 +238,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.7 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 57–72)
+### Schritt 31.7 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 57 bis 72
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 895
 - **Bauteile:** `w443083465_innen`
 
@@ -276,9 +278,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 31.8 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 73–81)
+### Schritt 31.8 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.668
 - **Bauteile:** `w443083465_innen`
 
@@ -316,10 +318,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 31.9 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/5 (Y 54–60)
+### Schritt 31.9 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/5 (Y 54–59)
 
-- **Y-Bereich:** 54 bis 60
-- **Blöcke:** 1.879
+- **Y-Bereich:** 54 bis 59
+- **Blöcke:** 1.703
 - **Bauteile:** `w443083516`
 
 **Teileliste**
@@ -328,7 +330,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.092 |
 | Hellgrauer Beton | `light_gray_concrete` | 440 |
-| Tuffstein | `tuff` | 235 |
+| Tuffstein | `tuff` | 59 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Glatter Stein | `smooth_stone` | 36 |
 | Weißer Beton | `white_concrete` | 31 |
@@ -349,9 +351,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.10 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/5 (Y 61–69)
+### Schritt 31.10 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/5 (Y 60–68)
 
-- **Y-Bereich:** 61 bis 69
+- **Y-Bereich:** 60 bis 68
 - **Blöcke:** 1.723
 - **Bauteile:** `w443083516`
 
@@ -381,9 +383,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.11 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/5 (Y 70–78)
+### Schritt 31.11 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/5 (Y 69–77)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.740
 - **Bauteile:** `w443083516`
 
@@ -412,9 +414,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.12 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/5 (Y 79–87)
+### Schritt 31.12 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/5 (Y 78–86)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.980
 - **Bauteile:** `w443083516`
 
@@ -443,9 +445,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.13 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/5 (Y 88–96)
+### Schritt 31.13 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/5 (Y 87–95)
 
-- **Y-Bereich:** 88 bis 96
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.614
 - **Bauteile:** `w443083516`
 
@@ -472,9 +474,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.14 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 57–72)
+### Schritt 31.14 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 57 bis 72
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 970
 - **Bauteile:** `w443083516_innen`
 
@@ -512,9 +514,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 31.15 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 73–81)
+### Schritt 31.15 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.821
 - **Bauteile:** `w443083516_innen`
 

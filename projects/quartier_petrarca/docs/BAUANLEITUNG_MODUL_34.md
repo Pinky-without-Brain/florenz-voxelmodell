@@ -8,146 +8,141 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 340.945 |
-| Bauschritte | 212 |
-| Y-Bereich | 62 bis 120 |
+| Blöcke | 295.371 |
+| Bauschritte | 185 |
+| Y-Bereich | 62 bis 119 |
 | X-Ausdehnung | -2776 bis -2503 (274 Blöcke) |
 | Z-Ausdehnung | 2156 bis 2398 (243 Blöcke) |
-| Kleinster Schritt | 411 Blöcke (Schritt 34.210) |
-| Mittlerer Schritt | 1.608 Blöcke |
-| Größter Schritt | 2.100 Blöcke (Schritt 34.61) |
+| Kleinster Schritt | 257 Blöcke (Schritt 34.1) |
+| Mittlerer Schritt | 1.597 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 34.60) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 94.595 | 27,7 % |
-| Tuffstein | `tuff` | 62.227 | 18,3 % |
-| Polierter Tuffstein | `polished_tuff` | 29.318 | 8,6 % |
-| Rosa Keramik | `pink_terracotta` | 27.489 | 8,1 % |
-| Endsteinziegel | `end_stone_bricks` | 25.184 | 7,4 % |
-| Orange Keramik | `orange_terracotta` | 22.941 | 6,7 % |
-| Weißer Beton | `white_concrete` | 22.390 | 6,6 % |
-| Polierter Andesit | `polished_andesite` | 9.022 | 2,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.677 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 8.454 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 8.410 | 2,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.848 | 2,3 % |
-| Grüner Beton | `green_concrete` | 3.378 | 1,0 % |
-| Ziegelsteine | `bricks` | 2.659 | 0,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.613 | 0,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.262 | 0,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 924 | 0,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 787 | 0,2 % |
-| Seelaterne | `sea_lantern` | 517 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 322 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 300 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 207 | 0,1 % |
+| Terrakotta | `terracotta` | 94.665 | 32,0 % |
+| Polierter Tuffstein | `polished_tuff` | 29.667 | 10,0 % |
+| Rosa Keramik | `pink_terracotta` | 27.623 | 9,4 % |
+| Endsteinziegel | `end_stone_bricks` | 25.267 | 8,6 % |
+| Orange Keramik | `orange_terracotta` | 22.781 | 7,7 % |
+| Weißer Beton | `white_concrete` | 22.316 | 7,6 % |
+| Tuffstein | `tuff` | 16.946 | 5,7 % |
+| Polierter Andesit | `polished_andesite` | 9.022 | 3,1 % |
+| Graues Buntglas | `gray_stained_glass` | 8.454 | 2,9 % |
+| Glatter Stein | `smooth_stone` | 8.410 | 2,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 8.282 | 2,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.899 | 2,7 % |
+| Grüner Beton | `green_concrete` | 3.378 | 1,1 % |
+| Ziegelsteine | `bricks` | 2.659 | 0,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.613 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.259 | 0,4 % |
+| Fichtenholz-Bretter | `spruce_planks` | 919 | 0,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 787 | 0,3 % |
+| Seelaterne | `sea_lantern` | 520 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 303 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 283 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 223 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 205 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 195 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 195 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 191 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 171 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 126 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 114 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 108 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 102 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 101 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 98 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 20 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 32 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 20 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.020 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.014 |
 | Steintreppe | `stone_stairs` | 440 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 400 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 58 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6874870` | Palazzo des Cinquecento an Viale Francesco Petrarca | 18.122 | 34.1–34.10 |
+| 1 | `r6874870` | Palazzo des Cinquecento an Viale Francesco Petrarca | 17.257 | 34.1–34.10 |
 | 2 | `r6874870_innen` | Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau | 3.166 | 34.11–34.12 |
 | 3 | `w442946793` | Reihenhaus an Via del Casone | 5.518 | 34.13–34.15 |
 | 4 | `w442946793_innen` | Reihenhaus an Via del Casone: Innenausbau | 908 | 34.16 |
-| 5 | `w464975937` | Reihenhaus an Via Ippolito Pindemonte | 6.928 | 34.17–34.20 |
+| 5 | `w464975937` | Reihenhaus an Via Ippolito Pindemonte | 6.574 | 34.17–34.20 |
 | 6 | `w464975937_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.505 | 34.21 |
-| 7 | `w464975953` | Palazzo des Cinquecento an Viale Francesco Petrarca | 11.006 | 34.22–34.28 |
+| 7 | `w464975953` | Palazzo des Cinquecento an Viale Francesco Petrarca | 10.911 | 34.22–34.28 |
 | 8 | `w464975953_innen` | Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau | 2.463 | 34.29–34.30 |
 | 9 | `w464975967` | Reihenhaus an Via del Casone | 4.590 | 34.31–34.33 |
 | 10 | `w464975967_innen` | Reihenhaus an Via del Casone: Innenausbau | 1.233 | 34.34 |
-| 11 | `w464975989` | Reihenhaus an Via Ippolito Pindemonte | 5.009 | 34.35–34.37 |
+| 11 | `w464975989` | Reihenhaus an Via Ippolito Pindemonte | 4.722 | 34.35–34.37 |
 | 12 | `w464975989_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.559 | 34.38 |
 | 13 | `w464975995` | Reihenhaus an Via Ippolito Pindemonte | 3.604 | 34.39–34.40 |
 | 14 | `w464975995_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 649 | 34.41 |
-| 15 | `w464976004` | Reihenhaus an Viale Francesco Petrarca | 3.763 | 34.42–34.43 |
+| 15 | `w464976004` | Reihenhaus an Viale Francesco Petrarca | 3.738 | 34.42–34.43 |
 | 16 | `w464976004_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.331 | 34.44 |
-| 17 | `w464976051` | Reihenhaus an Via Ippolito Pindemonte | 4.944 | 34.45–34.47 |
-| 18 | `w464976051_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.911 | 34.48 |
+| 17 | `w464976051` | Reihenhaus an Via Ippolito Pindemonte | 4.457 | 34.45–34.47 |
+| 18 | `w464976051_innen` | Reihenhaus an Via Ippolito Pindemonte: Innenausbau | 1.912 | 34.48 |
 | 19 | `w465419626` | Palazzo des Ottocento an Via Ippolito Pindemonte | 12.552 | 34.49–34.55 |
 | 20 | `w465419626_innen` | Palazzo des Ottocento an Via Ippolito Pindemonte: Innenausbau | 2.894 | 34.56–34.57 |
-| 21 | `w465419637` | Reihenhaus an Viale Francesco Petrarca | 12.019 | 34.58–34.63 |
-| 22 | `w465419637_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 2.021 | 34.64 |
-| 23 | `w465419639` | Haus w465419639 | 13.195 | 34.65–34.71 |
-| 24 | `w465419639_innen` | Haus w465419639: Innenausbau | 2.255 | 34.72–34.73 |
-| 25 | `w465419649` | Haus w465419649 | 11.786 | 34.74–34.80 |
-| 26 | `w465419649_innen` | Haus w465419649: Innenausbau | 2.332 | 34.81–34.82 |
-| 27 | `w465419650` | Nebengebäude an Viale Francesco Petrarca | 1.119 | 34.83 |
-| 28 | `w465419650_innen` | Nebengebäude an Viale Francesco Petrarca: Innenausbau | 257 | 34.84 |
-| 29 | `w465419652` | Haus w465419652 | 7.955 | 34.84–34.88 |
-| 30 | `w465419652_innen` | Haus w465419652: Innenausbau | 1.599 | 34.89 |
-| 31 | `w465419660` | Reihenhaus an Viale Francesco Petrarca | 5.779 | 34.90–34.92 |
-| 32 | `w465419660_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.293 | 34.93 |
-| 33 | `w465419664` | Renaissance-Palazzo an Viale Francesco Petrarca | 8.000 | 34.94–34.98 |
-| 34 | `w465419664_innen` | Renaissance-Palazzo an Viale Francesco Petrarca: Innenausbau | 1.504 | 34.99 |
-| 35 | `w465419666` | Haus w465419666 | 1.165 | 34.100 |
-| 36 | `w465419666_innen` | Haus w465419666: Innenausbau | 4 | 34.101 |
-| 37 | `w465419667` | Haus w465419667 | 33.821 | 34.101–34.122 |
-| 38 | `w465419667_innen` | Haus w465419667: Innenausbau | 5.568 | 34.123–34.126 |
-| 39 | `w465419668` | Haus w465419668 | 30.600 | 34.127–34.145 |
-| 40 | `w465419668_innen` | Haus w465419668: Innenausbau | 7.971 | 34.146–34.149 |
-| 41 | `w465419672` | Reihenhaus an Viale Francesco Petrarca | 2.907 | 34.150–34.151 |
-| 42 | `w465419672_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 910 | 34.152 |
-| 43 | `w465419678` | Reihenhaus an Viale Francesco Petrarca | 7.064 | 34.153–34.156 |
-| 44 | `w465419678_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.625 | 34.157 |
-| 45 | `w465419679` | Haus w465419679 | 13.646 | 34.158–34.165 |
-| 46 | `w465419679_innen` | Haus w465419679: Innenausbau | 4.064 | 34.166–34.167 |
-| 47 | `w465419686` | Reihenhaus an Viale Francesco Petrarca | 2.379 | 34.168–34.169 |
-| 48 | `w465419686_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 627 | 34.170 |
-| 49 | `w465419711` | Haus w465419711 | 11.830 | 34.171–34.177 |
-| 50 | `w465419711_innen` | Haus w465419711: Innenausbau | 2.784 | 34.178–34.179 |
-| 51 | `w465419724` | Reihenhaus an Viale Francesco Petrarca | 4.720 | 34.180–34.182 |
-| 52 | `w465419724_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.387 | 34.183 |
-| 53 | `w465419731` | Haus w465419731 | 2.875 | 34.184–34.185 |
-| 54 | `w465419731_innen` | Haus w465419731: Innenausbau | 1.051 | 34.186 |
-| 55 | `w465419737` | Palazzo des Cinquecento an Viale Francesco Petrarca | 31.045 | 34.187–34.205 |
-| 56 | `w465419737_innen` | Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau | 2.536 | 34.206–34.207 |
-| 57 | `w858578905` | Reihenhaus an Viale Francesco Petrarca | 3.215 | 34.208–34.209 |
-| 58 | `w858578905_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 411 | 34.210 |
-| 59 | `w858578928` | Reihenhaus an Viale Francesco Petrarca | 1.190 | 34.211 |
-| 60 | `w858578928_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 781 | 34.212 |
+| 21 | `w465419637` | Reihenhaus an Viale Francesco Petrarca | 10.056 | 34.58–34.62 |
+| 22 | `w465419637_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 2.021 | 34.63 |
+| 23 | `w465419639` | Haus w465419639 | 13.042 | 34.64–34.70 |
+| 24 | `w465419639_innen` | Haus w465419639: Innenausbau | 2.255 | 34.71–34.72 |
+| 25 | `w465419649` | Haus w465419649 | 8.613 | 34.73–34.77 |
+| 26 | `w465419649_innen` | Haus w465419649: Innenausbau | 2.332 | 34.78–34.79 |
+| 27 | `w465419650` | Nebengebäude an Viale Francesco Petrarca | 1.127 | 34.80 |
+| 28 | `w465419650_innen` | Nebengebäude an Viale Francesco Petrarca: Innenausbau | 245 | 34.81 |
+| 29 | `w465419652` | Haus w465419652 | 5.081 | 34.81–34.83 |
+| 30 | `w465419652_innen` | Haus w465419652: Innenausbau | 1.599 | 34.84 |
+| 31 | `w465419660` | Reihenhaus an Viale Francesco Petrarca | 5.810 | 34.85–34.87 |
+| 32 | `w465419660_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.293 | 34.88 |
+| 33 | `w465419664` | Renaissance-Palazzo an Viale Francesco Petrarca | 8.000 | 34.89–34.93 |
+| 34 | `w465419664_innen` | Renaissance-Palazzo an Viale Francesco Petrarca: Innenausbau | 1.504 | 34.94 |
+| 35 | `w465419666` | Haus w465419666 | 1.155 | 34.95 |
+| 36 | `w465419666_innen` | Haus w465419666: Innenausbau | 4 | 34.96 |
+| 37 | `w465419667` | Haus w465419667 | 19.834 | 34.96–34.107 |
+| 38 | `w465419667_innen` | Haus w465419667: Innenausbau | 5.568 | 34.108–34.111 |
+| 39 | `w465419668` | Haus w465419668 | 29.070 | 34.112–34.129 |
+| 40 | `w465419668_innen` | Haus w465419668: Innenausbau | 7.925 | 34.130–34.133 |
+| 41 | `w465419672` | Reihenhaus an Viale Francesco Petrarca | 2.833 | 34.134–34.135 |
+| 42 | `w465419672_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 910 | 34.136 |
+| 43 | `w465419678` | Reihenhaus an Viale Francesco Petrarca | 7.064 | 34.137–34.140 |
+| 44 | `w465419678_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.625 | 34.141 |
+| 45 | `w465419679` | Haus w465419679 | 11.447 | 34.142–34.148 |
+| 46 | `w465419679_innen` | Haus w465419679: Innenausbau | 4.100 | 34.149–34.150 |
+| 47 | `w465419686` | Reihenhaus an Viale Francesco Petrarca | 2.245 | 34.151–34.152 |
+| 48 | `w465419686_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 627 | 34.153 |
+| 49 | `w465419711` | Haus w465419711 | 11.505 | 34.154–34.160 |
+| 50 | `w465419711_innen` | Haus w465419711: Innenausbau | 2.812 | 34.161–34.162 |
+| 51 | `w465419724` | Reihenhaus an Viale Francesco Petrarca | 4.400 | 34.163–34.165 |
+| 52 | `w465419724_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 1.387 | 34.166 |
+| 53 | `w465419731` | Haus w465419731 | 2.865 | 34.167–34.168 |
+| 54 | `w465419731_innen` | Haus w465419731: Innenausbau | 1.051 | 34.169 |
+| 55 | `w465419737` | Palazzo des Cinquecento an Viale Francesco Petrarca | 14.956 | 34.170–34.178 |
+| 56 | `w465419737_innen` | Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau | 2.588 | 34.179–34.180 |
+| 57 | `w858578905` | Reihenhaus an Viale Francesco Petrarca | 2.453 | 34.181–34.182 |
+| 58 | `w858578905_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 417 | 34.183 |
+| 59 | `w858578928` | Reihenhaus an Viale Francesco Petrarca | 1.227 | 34.184 |
+| 60 | `w858578928_innen` | Reihenhaus an Viale Francesco Petrarca: Innenausbau | 780 | 34.185 |
+| 61 | `strassenschilder` | Straßenschilder | 2 | 34.185 |
 
 ## Bauschritte
 
-### Schritt 34.1 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 1/10 (Y 63–64)
+### Schritt 34.1 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 1/10 (Y 63–63)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.124
+- **Y-Bereich:** 63 bis 63
+- **Blöcke:** 257
 - **Bauteile:** `r6874870`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.122 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Tuffstein | `tuff` | 257 |
 
 **Beschreibung**
 
@@ -165,24 +160,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.2 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 2/10 (Y 65–65)
+### Schritt 34.2 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 2/10 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.932
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.934
 - **Bauteile:** `r6874870`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.930 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Polierter Tuffstein | `polished_tuff` | 1.934 |
 
 **Beschreibung**
 
@@ -200,9 +188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.3 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 3/10 (Y 66–70)
+### Schritt 34.3 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 3/10 (Y 65–69)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.963
 - **Bauteile:** `r6874870`
 
@@ -232,9 +220,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.4 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 4/10 (Y 71–75)
+### Schritt 34.4 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 4/10 (Y 70–74)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 2.000
 - **Bauteile:** `r6874870`
 
@@ -265,9 +253,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.5 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 5/10 (Y 76–80)
+### Schritt 34.5 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 5/10 (Y 75–79)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.974
 - **Bauteile:** `r6874870`
 
@@ -296,9 +284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.6 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 6/10 (Y 81–85)
+### Schritt 34.6 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 6/10 (Y 80–84)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.985
 - **Bauteile:** `r6874870`
 
@@ -328,18 +316,50 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.7 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 7/10 (Y 86–89)
+### Schritt 34.7 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 7/10 (Y 85–89)
 
-- **Y-Bereich:** 86 bis 89
-- **Blöcke:** 1.601
+- **Y-Bereich:** 85 bis 89
+- **Blöcke:** 1.974
 - **Bauteile:** `r6874870`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.256 |
-| Polierter Andesit | `polished_andesite` | 191 |
+| Rosa Keramik | `pink_terracotta` | 1.513 |
+| Polierter Andesit | `polished_andesite` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Grüner Beton | `green_concrete` | 99 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.8 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 8/10 (Y 90–93)
+
+- **Y-Bereich:** 90 bis 93
+- **Blöcke:** 1.692
+- **Bauteile:** `r6874870`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.137 |
+| Polierter Andesit | `polished_andesite` | 281 |
+| Glatter Stein | `smooth_stone` | 120 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
 | Grüner Beton | `green_concrete` | 66 |
 
@@ -359,41 +379,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.8 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 8/10 (Y 90–94)
+### Schritt 34.9 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 9/10 (Y 94–95)
 
-- **Y-Bereich:** 90 bis 94
-- **Blöcke:** 2.065
-- **Bauteile:** `r6874870`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.394 |
-| Polierter Andesit | `polished_andesite` | 320 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
-| Glatter Stein | `smooth_stone` | 120 |
-| Grüner Beton | `green_concrete` | 99 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.9 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 9/10 (Y 95–96)
-
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.791
 - **Bauteile:** `r6874870`
 
@@ -421,9 +409,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.10 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 10/10 (Y 97–102)
+### Schritt 34.10 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 10/10 (Y 96–101)
 
-- **Y-Bereich:** 97 bis 102
+- **Y-Bereich:** 96 bis 101
 - **Blöcke:** 1.687
 - **Bauteile:** `r6874870`
 
@@ -450,9 +438,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.11 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 1/2 (Y 65–75)
+### Schritt 34.11 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 65 bis 75
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.580
 - **Bauteile:** `r6874870_innen`
 
@@ -492,9 +480,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.12 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 2/2 (Y 76–86)
+### Schritt 34.12 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 2/2 (Y 75–85)
 
-- **Y-Bereich:** 76 bis 86
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.586
 - **Bauteile:** `r6874870_innen`
 
@@ -671,22 +659,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.17 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 80–86)
+### Schritt 34.17 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 80–87)
 
-- **Y-Bereich:** 80 bis 86
-- **Blöcke:** 1.686
+- **Y-Bereich:** 80 bis 87
+- **Blöcke:** 1.631
 - **Bauteile:** `w464975937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 668 |
 | Polierter Tuffstein | `polished_tuff` | 629 |
-| Tuffstein | `tuff` | 477 |
-| Endsteinziegel | `end_stone_bricks` | 456 |
-| Graues Buntglas | `gray_stained_glass` | 62 |
-| Weißer Beton | `white_concrete` | 38 |
-| Glatter Stein | `smooth_stone` | 24 |
+| Tuffstein | `tuff` | 123 |
+| Graues Buntglas | `gray_stained_glass` | 110 |
+| Weißer Beton | `white_concrete` | 62 |
+| Glatter Stein | `smooth_stone` | 39 |
 
 **Beschreibung**
 
@@ -704,21 +692,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.18 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 87–97)
+### Schritt 34.18 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 88–97)
 
-- **Y-Bereich:** 87 bis 97
-- **Blöcke:** 1.762
+- **Y-Bereich:** 88 bis 97
+- **Blöcke:** 1.634
 - **Bauteile:** `w464975937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.372 |
-| Weißer Beton | `white_concrete` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 128 |
+| Endsteinziegel | `end_stone_bricks` | 1.331 |
+| Weißer Beton | `white_concrete` | 176 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
 | Grüner Beton | `green_concrete` | 32 |
-| Glatter Stein | `smooth_stone` | 30 |
+| Glatter Stein | `smooth_stone` | 15 |
 
 **Beschreibung**
 
@@ -736,17 +724,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.19 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 98–108)
+### Schritt 34.19 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 98–107)
 
-- **Y-Bereich:** 98 bis 108
-- **Blöcke:** 1.786
+- **Y-Bereich:** 98 bis 107
+- **Blöcke:** 1.615
 - **Bauteile:** `w464975937`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.439 |
+| Endsteinziegel | `end_stone_bricks` | 1.268 |
 | Weißer Beton | `white_concrete` | 207 |
 | Graues Buntglas | `gray_stained_glass` | 100 |
 | Grüner Beton | `green_concrete` | 40 |
@@ -767,9 +755,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.20 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 109–119)
+### Schritt 34.20 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 108–118)
 
-- **Y-Bereich:** 109 bis 119
+- **Y-Bereich:** 108 bis 118
 - **Blöcke:** 1.694
 - **Bauteile:** `w464975937`
 
@@ -802,7 +790,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 34.21 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 82 bis 106
+- **Y-Bereich:** 81 bis 105
 - **Blöcke:** 1.505
 - **Bauteile:** `w464975937_innen`
 
@@ -845,7 +833,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 34.22 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 1/7 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.516
+- **Blöcke:** 1.658
 - **Bauteile:** `w464975953`
 
 **Teileliste**
@@ -853,7 +841,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.421 |
-| Tuffstein | `tuff` | 95 |
+| Endsteinziegel | `end_stone_bricks` | 233 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Polierter Andesit | `polished_andesite` | 1 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
@@ -871,23 +862,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.23 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 2/7 (Y 66–72)
+### Schritt 34.23 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 2/7 (Y 66–71)
 
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.634
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.397
 - **Bauteile:** `w464975953`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.307 |
+| Endsteinziegel | `end_stone_bricks` | 1.074 |
 | Weißer Beton | `white_concrete` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Grüner Beton | `green_concrete` | 60 |
-| Glatter Stein | `smooth_stone` | 15 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Glatter Stein | `smooth_stone` | 13 |
+| Tuffsteinziegel | `tuff_bricks` | 7 |
+| Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
@@ -905,21 +896,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.24 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 3/7 (Y 73–78)
+### Schritt 34.24 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 3/7 (Y 72–78)
 
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.475
+- **Y-Bereich:** 72 bis 78
+- **Blöcke:** 1.707
 - **Bauteile:** `w464975953`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.236 |
-| Weißer Beton | `white_concrete` | 96 |
+| Endsteinziegel | `end_stone_bricks` | 1.408 |
+| Weißer Beton | `white_concrete` | 115 |
 | Glatter Stein | `smooth_stone` | 88 |
-| Graues Buntglas | `gray_stained_glass` | 23 |
-| Grüner Beton | `green_concrete` | 18 |
+| Graues Buntglas | `gray_stained_glass` | 46 |
+| Grüner Beton | `green_concrete` | 36 |
 | Polierter Andesit | `polished_andesite` | 8 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
 
@@ -939,21 +930,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.25 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 4/7 (Y 79–85)
+### Schritt 34.25 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 4/7 (Y 79–84)
 
-- **Y-Bereich:** 79 bis 85
-- **Blöcke:** 1.678
+- **Y-Bereich:** 79 bis 84
+- **Blöcke:** 1.446
 - **Bauteile:** `w464975953`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.252 |
-| Weißer Beton | `white_concrete` | 176 |
-| Graues Buntglas | `gray_stained_glass` | 92 |
+| Endsteinziegel | `end_stone_bricks` | 1.080 |
+| Weißer Beton | `white_concrete` | 157 |
 | Glatter Stein | `smooth_stone` | 86 |
-| Grüner Beton | `green_concrete` | 72 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
+| Grüner Beton | `green_concrete` | 54 |
 
 **Beschreibung**
 
@@ -971,9 +962,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.26 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 5/7 (Y 86–92)
+### Schritt 34.26 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 5/7 (Y 85–91)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.660
 - **Bauteile:** `w464975953`
 
@@ -1002,9 +993,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.27 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 6/7 (Y 93–96)
+### Schritt 34.27 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 6/7 (Y 92–95)
 
-- **Y-Bereich:** 93 bis 96
+- **Y-Bereich:** 92 bis 95
 - **Blöcke:** 1.674
 - **Bauteile:** `w464975953`
 
@@ -1033,9 +1024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.28 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 7/7 (Y 97–101)
+### Schritt 34.28 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 7/7 (Y 96–100)
 
-- **Y-Bereich:** 97 bis 101
+- **Y-Bereich:** 96 bis 100
 - **Blöcke:** 1.369
 - **Bauteile:** `w464975953`
 
@@ -1062,9 +1053,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.29 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 1/2 (Y 65–75)
+### Schritt 34.29 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 65 bis 75
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.228
 - **Bauteile:** `w464975953_innen`
 
@@ -1104,9 +1095,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.30 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 2/2 (Y 76–86)
+### Schritt 34.30 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 2/2 (Y 75–85)
 
-- **Y-Bereich:** 76 bis 86
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.235
 - **Bauteile:** `w464975953_innen`
 
@@ -1280,31 +1271,31 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.35 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/3 (Y 79–88)
+### Schritt 34.35 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/3 (Y 79–89)
 
-- **Y-Bereich:** 79 bis 88
-- **Blöcke:** 1.618
+- **Y-Bereich:** 79 bis 89
+- **Blöcke:** 1.557
 - **Bauteile:** `w464975989`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 566 |
-| Polierter Tuffstein | `polished_tuff` | 560 |
-| Tuffstein | `tuff` | 316 |
+| Gelbe Keramik | `yellow_terracotta` | 788 |
+| Polierter Tuffstein | `polished_tuff` | 575 |
 | Graues Buntglas | `gray_stained_glass` | 58 |
 | Weißer Beton | `white_concrete` | 37 |
-| Glatter Stein | `smooth_stone` | 32 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 28 |
+| Glatter Stein | `smooth_stone` | 36 |
+| Tuffstein | `tuff` | 29 |
 | Grüner Beton | `green_concrete` | 15 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 13 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 28 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 13 |
 
 **Beschreibung**
 
@@ -1322,21 +1313,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.36 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/3 (Y 89–104)
+### Schritt 34.36 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/3 (Y 90–104)
 
-- **Y-Bereich:** 89 bis 104
-- **Blöcke:** 1.736
+- **Y-Bereich:** 90 bis 104
+- **Blöcke:** 1.623
 - **Bauteile:** `w464975989`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.392 |
-| Weißer Beton | `white_concrete` | 202 |
+| Gelbe Keramik | `yellow_terracotta` | 1.262 |
+| Weißer Beton | `white_concrete` | 223 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Grüner Beton | `green_concrete` | 66 |
-| Glatter Stein | `smooth_stone` | 4 |
 
 **Beschreibung**
 
@@ -1354,10 +1344,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.37 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/3 (Y 105–117)
+### Schritt 34.37 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/3 (Y 105–116)
 
-- **Y-Bereich:** 105 bis 117
-- **Blöcke:** 1.655
+- **Y-Bereich:** 105 bis 116
+- **Blöcke:** 1.542
 - **Bauteile:** `w464975989`
 
 **Teileliste**
@@ -1365,8 +1355,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 778 |
-| Gelbe Keramik | `yellow_terracotta` | 655 |
-| Weißer Beton | `white_concrete` | 101 |
+| Gelbe Keramik | `yellow_terracotta` | 563 |
+| Weißer Beton | `white_concrete` | 80 |
 | Ziegelsteine | `bricks` | 52 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 33 |
@@ -1389,7 +1379,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 34.38 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 81 bis 105
+- **Y-Bereich:** 80 bis 104
 - **Blöcke:** 1.559
 - **Bauteile:** `w464975989_innen`
 
@@ -1536,14 +1526,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 34.42 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 63–81)
 
 - **Y-Bereich:** 63 bis 81
-- **Blöcke:** 1.902
+- **Blöcke:** 1.881
 - **Bauteile:** `w464976004`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.305 |
+| Glatter Sandstein | `smooth_sandstone` | 1.284 |
 | Polierter Tuffstein | `polished_tuff` | 489 |
 | Graues Buntglas | `gray_stained_glass` | 59 |
 | Grüner Beton | `green_concrete` | 21 |
@@ -1569,7 +1559,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 34.43 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 82–101)
 
 - **Y-Bereich:** 82 bis 101
-- **Blöcke:** 1.861
+- **Blöcke:** 1.857
 - **Bauteile:** `w464976004`
 
 **Teileliste**
@@ -1578,8 +1568,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 974 |
 | Terrakotta | `terracotta` | 661 |
-| Fichtenholz-Bretter | `spruce_planks` | 80 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
+| Fichtenholz-Bretter | `spruce_planks` | 76 |
 | Ziegelsteine | `bricks` | 38 |
 | Grüner Beton | `green_concrete` | 30 |
 
@@ -1611,13 +1601,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.179 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1641,28 +1631,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.45 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/3 (Y 78–86)
+### Schritt 34.45 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/3 (Y 78–87)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 1.657
+- **Y-Bereich:** 78 bis 87
+- **Blöcke:** 1.519
 - **Bauteile:** `w464976051`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 679 |
-| Tuffstein | `tuff` | 453 |
-| Endsteinziegel | `end_stone_bricks` | 388 |
-| Polierter Andesit | `polished_andesite` | 85 |
+| Polierter Tuffstein | `polished_tuff` | 688 |
+| Endsteinziegel | `end_stone_bricks` | 671 |
+| Polierter Andesit | `polished_andesite` | 118 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 **Beschreibung**
 
@@ -1680,19 +1662,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.46 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/3 (Y 87–104)
+### Schritt 34.46 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/3 (Y 88–103)
 
-- **Y-Bereich:** 87 bis 104
-- **Blöcke:** 1.651
+- **Y-Bereich:** 88 bis 103
+- **Blöcke:** 1.445
 - **Bauteile:** `w464976051`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.186 |
-| Polierter Andesit | `polished_andesite` | 333 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
+| Endsteinziegel | `end_stone_bricks` | 982 |
+| Polierter Andesit | `polished_andesite` | 314 |
+| Graues Buntglas | `gray_stained_glass` | 149 |
 
 **Beschreibung**
 
@@ -1710,21 +1692,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.47 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/3 (Y 105–118)
+### Schritt 34.47 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/3 (Y 104–116)
 
-- **Y-Bereich:** 105 bis 118
-- **Blöcke:** 1.636
+- **Y-Bereich:** 104 bis 116
+- **Blöcke:** 1.493
 - **Bauteile:** `w464976051`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 919 |
-| Endsteinziegel | `end_stone_bricks` | 501 |
-| Polierter Andesit | `polished_andesite` | 87 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
+| Terrakotta | `terracotta` | 918 |
+| Endsteinziegel | `end_stone_bricks` | 390 |
+| Polierter Andesit | `polished_andesite` | 73 |
 | Ziegelsteine | `bricks` | 63 |
+| Graues Buntglas | `gray_stained_glass` | 49 |
 
 **Beschreibung**
 
@@ -1744,23 +1726,23 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 34.48 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 80 bis 104
-- **Blöcke:** 1.911
+- **Y-Bereich:** 78 bis 102
+- **Blöcke:** 1.912
 - **Bauteile:** `w464976051_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.755 |
+| Terrakotta | `terracotta` | 1.752 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Seelaterne | `sea_lantern` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Seelaterne | `sea_lantern` | 20 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2093,46 +2075,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.58 – Reihenhaus an Viale Francesco Petrarca – Teil 1/6 (Y 63–65)
+### Schritt 34.58 – Reihenhaus an Viale Francesco Petrarca – Teil 1/5 (Y 63–67)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.971
-- **Bauteile:** `w465419637`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.961 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 8 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.59 – Reihenhaus an Viale Francesco Petrarca – Teil 2/6 (Y 66–70)
-
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.934
+- **Y-Bereich:** 63 bis 67
+- **Blöcke:** 1.942
 - **Bauteile:** `w465419637`
 
 **Teileliste**
@@ -2140,19 +2086,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 920 |
-| Polierter Tuffstein | `polished_tuff` | 891 |
+| Polierter Tuffstein | `polished_tuff` | 904 |
 | Hellgrauer Beton | `light_gray_concrete` | 67 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Grüner Beton | `green_concrete` | 16 |
 | Polierter Andesit | `polished_andesite` | 8 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 **Beschreibung**
 
@@ -2170,9 +2108,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.60 – Reihenhaus an Viale Francesco Petrarca – Teil 3/6 (Y 71–78)
+### Schritt 34.59 – Reihenhaus an Viale Francesco Petrarca – Teil 2/5 (Y 68–75)
 
-- **Y-Bereich:** 71 bis 78
+- **Y-Bereich:** 68 bis 75
 - **Blöcke:** 2.086
 - **Bauteile:** `w465419637`
 
@@ -2202,9 +2140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.61 – Reihenhaus an Viale Francesco Petrarca – Teil 4/6 (Y 79–86)
+### Schritt 34.60 – Reihenhaus an Viale Francesco Petrarca – Teil 3/5 (Y 76–83)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 2.100
 - **Bauteile:** `w465419637`
 
@@ -2233,9 +2171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.62 – Reihenhaus an Viale Francesco Petrarca – Teil 5/6 (Y 87–93)
+### Schritt 34.61 – Reihenhaus an Viale Francesco Petrarca – Teil 4/5 (Y 84–90)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 84 bis 90
 - **Blöcke:** 1.881
 - **Bauteile:** `w465419637`
 
@@ -2264,9 +2202,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.63 – Reihenhaus an Viale Francesco Petrarca – Teil 6/6 (Y 94–101)
+### Schritt 34.62 – Reihenhaus an Viale Francesco Petrarca – Teil 5/5 (Y 91–98)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 91 bis 98
 - **Blöcke:** 2.047
 - **Bauteile:** `w465419637`
 
@@ -2295,9 +2233,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.64 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.63 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
-- **Y-Bereich:** 66 bis 90
+- **Y-Bereich:** 63 bis 87
 - **Blöcke:** 2.021
 - **Bauteile:** `w465419637_innen`
 
@@ -2337,10 +2275,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.65 – Haus w465419639 – Teil 1/7 (Y 63–65)
+### Schritt 34.64 – Haus w465419639 – Teil 1/7 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.879
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 1.726
 - **Bauteile:** `w465419639`
 
 **Teileliste**
@@ -2348,7 +2286,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.384 |
-| Tuffstein | `tuff` | 396 |
+| Tuffstein | `tuff` | 243 |
 | Polierter Andesit | `polished_andesite` | 51 |
 | Tuffsteinziegel | `tuff_bricks` | 43 |
 | Glatter Stein | `smooth_stone` | 5 |
@@ -2369,9 +2307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.66 – Haus w465419639 – Teil 2/7 (Y 66–72)
+### Schritt 34.65 – Haus w465419639 – Teil 2/7 (Y 65–71)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 2.020
 - **Bauteile:** `w465419639`
 
@@ -2401,20 +2339,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.67 – Haus w465419639 – Teil 3/7 (Y 73–77)
+### Schritt 34.66 – Haus w465419639 – Teil 3/7 (Y 72–77)
 
-- **Y-Bereich:** 73 bis 77
-- **Blöcke:** 1.668
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 1.955
 - **Bauteile:** `w465419639`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.042 |
-| Glatter Stein | `smooth_stone` | 321 |
-| Polierter Andesit | `polished_andesite` | 241 |
+| Tuffstein | `tuff` | 1.224 |
+| Glatter Stein | `smooth_stone` | 349 |
+| Polierter Andesit | `polished_andesite` | 290 |
 | Tuffsteinziegel | `tuff_bricks` | 64 |
+| Graues Buntglas | `gray_stained_glass` | 28 |
 
 **Beschreibung**
 
@@ -2432,41 +2371,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.68 – Haus w465419639 – Teil 4/7 (Y 78–83)
+### Schritt 34.67 – Haus w465419639 – Teil 4/7 (Y 78–83)
 
 - **Y-Bereich:** 78 bis 83
-- **Blöcke:** 1.776
-- **Bauteile:** `w465419639`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.146 |
-| Polierter Andesit | `polished_andesite` | 264 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.69 – Haus w465419639 – Teil 5/7 (Y 84–89)
-
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.907
+- **Blöcke:** 1.883
 - **Bauteile:** `w465419639`
 
 **Teileliste**
@@ -2474,8 +2382,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.173 |
-| Glatter Stein | `smooth_stone` | 356 |
-| Polierter Andesit | `polished_andesite` | 294 |
+| Glatter Stein | `smooth_stone` | 411 |
+| Polierter Andesit | `polished_andesite` | 215 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 
 **Beschreibung**
@@ -2494,20 +2402,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.70 – Haus w465419639 – Teil 6/7 (Y 90–94)
+### Schritt 34.68 – Haus w465419639 – Teil 5/7 (Y 84–89)
 
-- **Y-Bereich:** 90 bis 94
-- **Blöcke:** 2.003
+- **Y-Bereich:** 84 bis 89
+- **Blöcke:** 1.800
 - **Bauteile:** `w465419639`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 991 |
-| Glatter Stein | `smooth_stone` | 684 |
-| Polierter Andesit | `polished_andesite` | 272 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Tuffstein | `tuff` | 1.146 |
+| Polierter Andesit | `polished_andesite` | 343 |
+| Glatter Stein | `smooth_stone` | 199 |
+| Graues Buntglas | `gray_stained_glass` | 112 |
 
 **Beschreibung**
 
@@ -2525,9 +2433,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.71 – Haus w465419639 – Teil 7/7 (Y 95–98)
+### Schritt 34.69 – Haus w465419639 – Teil 6/7 (Y 90–93)
 
-- **Y-Bereich:** 95 bis 98
+- **Y-Bereich:** 90 bis 93
+- **Blöcke:** 1.716
+- **Bauteile:** `w465419639`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 809 |
+| Glatter Stein | `smooth_stone` | 656 |
+| Polierter Andesit | `polished_andesite` | 223 |
+| Graues Buntglas | `gray_stained_glass` | 28 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.70 – Haus w465419639 – Teil 7/7 (Y 94–97)
+
+- **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.942
 - **Bauteile:** `w465419639`
 
@@ -2554,9 +2493,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.72 – Haus w465419639: Innenausbau – Teil 1/2 (Y 64–75)
+### Schritt 34.71 – Haus w465419639: Innenausbau – Teil 1/2 (Y 63–74)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.127
 - **Bauteile:** `w465419639_innen`
 
@@ -2596,9 +2535,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.73 – Haus w465419639: Innenausbau – Teil 2/2 (Y 76–85)
+### Schritt 34.72 – Haus w465419639: Innenausbau – Teil 2/2 (Y 75–84)
 
-- **Y-Bereich:** 76 bis 85
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.128
 - **Bauteile:** `w465419639_innen`
 
@@ -2640,24 +2579,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.74 – Haus w465419649 – Teil 1/7 (Y 67–74)
+### Schritt 34.73 – Haus w465419649 – Teil 1/5 (Y 67–72)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 1.699
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.696
 - **Bauteile:** `w465419649`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.691 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
+| Polierter Tuffstein | `polished_tuff` | 1.285 |
+| Tuffstein | `tuff` | 241 |
+| Endsteinziegel | `end_stone_bricks` | 166 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Polierter Andesit | `polished_andesite` | 1 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
 
@@ -2675,95 +2612,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.75 – Haus w465419649 – Teil 2/7 (Y 75–76)
+### Schritt 34.74 – Haus w465419649 – Teil 2/5 (Y 73–82)
 
-- **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.734
+- **Y-Bereich:** 73 bis 82
+- **Blöcke:** 1.716
 - **Bauteile:** `w465419649`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.726 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.76 – Haus w465419649 – Teil 3/7 (Y 77–79)
-
-- **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.606
-- **Bauteile:** `w465419649`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.262 |
-| Endsteinziegel | `end_stone_bricks` | 332 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-| Glatter Stein | `smooth_stone` | 4 |
-| Polierter Andesit | `polished_andesite` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.77 – Haus w465419649 – Teil 4/7 (Y 80–89)
-
-- **Y-Bereich:** 80 bis 89
-- **Blöcke:** 1.731
-- **Bauteile:** `w465419649`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.558 |
-| Glatter Stein | `smooth_stone` | 121 |
+| Endsteinziegel | `end_stone_bricks` | 1.564 |
+| Glatter Stein | `smooth_stone` | 98 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
-| Polierter Andesit | `polished_andesite` | 10 |
-| Tuffsteinziegel | `tuff_bricks` | 10 |
+| Polierter Andesit | `polished_andesite` | 11 |
+| Tuffsteinziegel | `tuff_bricks` | 11 |
 
 **Beschreibung**
 
@@ -2781,18 +2644,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.78 – Haus w465419649 – Teil 5/7 (Y 90–98)
+### Schritt 34.75 – Haus w465419649 – Teil 3/5 (Y 83–92)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.562
+- **Y-Bereich:** 83 bis 92
+- **Blöcke:** 1.747
 - **Bauteile:** `w465419649`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.401 |
-| Glatter Stein | `smooth_stone` | 111 |
+| Endsteinziegel | `end_stone_bricks` | 1.561 |
+| Glatter Stein | `smooth_stone` | 136 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
@@ -2811,9 +2674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.79 – Haus w465419649 – Teil 6/7 (Y 99–107)
+### Schritt 34.76 – Haus w465419649 – Teil 4/5 (Y 93–101)
 
-- **Y-Bereich:** 99 bis 107
+- **Y-Bereich:** 93 bis 101
 - **Blöcke:** 1.611
 - **Bauteile:** `w465419649`
 
@@ -2841,9 +2704,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.80 – Haus w465419649 – Teil 7/7 (Y 108–115)
+### Schritt 34.77 – Haus w465419649 – Teil 5/5 (Y 102–109)
 
-- **Y-Bereich:** 108 bis 115
+- **Y-Bereich:** 102 bis 109
 - **Blöcke:** 1.843
 - **Bauteile:** `w465419649`
 
@@ -2870,9 +2733,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.81 – Haus w465419649: Innenausbau – Teil 1/2 (Y 77–87)
+### Schritt 34.78 – Haus w465419649: Innenausbau – Teil 1/2 (Y 71–81)
 
-- **Y-Bereich:** 77 bis 87
+- **Y-Bereich:** 71 bis 81
 - **Blöcke:** 1.162
 - **Bauteile:** `w465419649_innen`
 
@@ -2912,9 +2775,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.82 – Haus w465419649: Innenausbau – Teil 2/2 (Y 88–98)
+### Schritt 34.79 – Haus w465419649: Innenausbau – Teil 2/2 (Y 82–92)
 
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.170
 - **Bauteile:** `w465419649_innen`
 
@@ -2956,17 +2819,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.83 – Nebengebäude an Viale Francesco Petrarca
+### Schritt 34.80 – Nebengebäude an Viale Francesco Petrarca
 
 - **Y-Bereich:** 65 bis 96
-- **Blöcke:** 1.119
+- **Blöcke:** 1.127
 - **Bauteile:** `w465419650`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 948 |
+| Endsteinziegel | `end_stone_bricks` | 956 |
 | Terrakotta | `terracotta` | 86 |
 | Polierter Tuffstein | `polished_tuff` | 85 |
 
@@ -2986,30 +2849,35 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.84 – Nebengebäude an Viale Francesco Petrarca: Innenausbau & Haus w465419652 – Teil 1/5 (Y 65–72)
+### Schritt 34.81 – Nebengebäude an Viale Francesco Petrarca: Innenausbau & Haus w465419652 – Teil 1/3 (Y 65–75)
 
-- **Y-Bereich:** 65 bis 88
-- **Blöcke:** 1.675
+- **Y-Bereich:** 65 bis 87
+- **Blöcke:** 1.954
 - **Bauteile:** `w465419650_innen`, `w465419652`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.341 |
+| Endsteinziegel | `end_stone_bricks` | 871 |
+| Polierter Tuffstein | `polished_tuff` | 606 |
 | Terrakotta | `terracotta` | 135 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 77 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
+| Polierter Andesit | `polished_andesite` | 105 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 62 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 20 |
+| Grüner Beton | `green_concrete` | 18 |
+| Tuffstein | `tuff` | 10 |
 | Seelaterne | `sea_lantern` | 4 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 77 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 44 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
 
 **Beschreibung**
 
@@ -3027,24 +2895,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.85 – Haus w465419652 – Teil 2/5 (Y 73–76)
+### Schritt 34.82 – Haus w465419652 – Teil 2/3 (Y 76–89)
 
-- **Y-Bereich:** 73 bis 76
-- **Blöcke:** 1.758
+- **Y-Bereich:** 76 bis 89
+- **Blöcke:** 1.612
 - **Bauteile:** `w465419652`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.694 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 64 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 64 |
+| Endsteinziegel | `end_stone_bricks` | 1.132 |
+| Polierter Andesit | `polished_andesite` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 152 |
+| Grüner Beton | `green_concrete` | 112 |
 
 **Beschreibung**
 
@@ -3062,80 +2926,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.86 – Haus w465419652 – Teil 3/5 (Y 77–88)
+### Schritt 34.83 – Haus w465419652 – Teil 3/3 (Y 90–103)
 
-- **Y-Bereich:** 77 bis 88
-- **Blöcke:** 1.648
-- **Bauteile:** `w465419652`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 884 |
-| Polierter Tuffstein | `polished_tuff` | 446 |
-| Polierter Andesit | `polished_andesite` | 155 |
-| Graues Buntglas | `gray_stained_glass` | 115 |
-| Grüner Beton | `green_concrete` | 32 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 16 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.87 – Haus w465419652 – Teil 4/5 (Y 89–101)
-
-- **Y-Bereich:** 89 bis 101
-- **Blöcke:** 1.505
-- **Bauteile:** `w465419652`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.068 |
-| Polierter Andesit | `polished_andesite` | 206 |
-| Graues Buntglas | `gray_stained_glass` | 133 |
-| Grüner Beton | `green_concrete` | 98 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.88 – Haus w465419652 – Teil 5/5 (Y 102–114)
-
-- **Y-Bereich:** 102 bis 114
-- **Blöcke:** 1.626
+- **Y-Bereich:** 90 bis 103
+- **Blöcke:** 1.760
 - **Bauteile:** `w465419652`
 
 **Teileliste**
@@ -3143,9 +2937,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 812 |
-| Endsteinziegel | `end_stone_bricks` | 550 |
+| Endsteinziegel | `end_stone_bricks` | 644 |
+| Polierter Andesit | `polished_andesite` | 108 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
-| Polierter Andesit | `polished_andesite` | 68 |
 | Ziegelsteine | `bricks` | 64 |
 | Grüner Beton | `green_concrete` | 56 |
 
@@ -3165,9 +2959,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.89 – Haus w465419652: Innenausbau
+### Schritt 34.84 – Haus w465419652: Innenausbau
 
-- **Y-Bereich:** 77 bis 101
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.599
 - **Bauteile:** `w465419652_innen`
 
@@ -3177,13 +2971,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.440 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3207,7 +3001,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.90 – Reihenhaus an Viale Francesco Petrarca – Teil 1/3 (Y 65–75)
+### Schritt 34.85 – Reihenhaus an Viale Francesco Petrarca – Teil 1/3 (Y 65–75)
 
 - **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.918
@@ -3240,7 +3034,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.91 – Reihenhaus an Viale Francesco Petrarca – Teil 2/3 (Y 76–88)
+### Schritt 34.86 – Reihenhaus an Viale Francesco Petrarca – Teil 2/3 (Y 76–88)
 
 - **Y-Bereich:** 76 bis 88
 - **Blöcke:** 1.890
@@ -3270,19 +3064,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.92 – Reihenhaus an Viale Francesco Petrarca – Teil 3/3 (Y 89–100)
+### Schritt 34.87 – Reihenhaus an Viale Francesco Petrarca – Teil 3/3 (Y 89–100)
 
 - **Y-Bereich:** 89 bis 100
-- **Blöcke:** 1.971
+- **Blöcke:** 2.002
 - **Bauteile:** `w465419660`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 894 |
+| Orange Keramik | `orange_terracotta` | 923 |
 | Terrakotta | `terracotta` | 776 |
-| Fichtenholz-Bretter | `spruce_planks` | 130 |
+| Fichtenholz-Bretter | `spruce_planks` | 132 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Grüner Beton | `green_concrete` | 64 |
 | Ziegelsteine | `bricks` | 43 |
@@ -3303,7 +3097,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.93 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.88 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.293
@@ -3315,13 +3109,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.134 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3345,7 +3139,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.94 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 1/5 (Y 64–69)
+### Schritt 34.89 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 1/5 (Y 64–69)
 
 - **Y-Bereich:** 64 bis 69
 - **Blöcke:** 1.530
@@ -3384,7 +3178,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.95 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 2/5 (Y 70–79)
+### Schritt 34.90 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 2/5 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.722
@@ -3416,7 +3210,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.96 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 3/5 (Y 80–87)
+### Schritt 34.91 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 3/5 (Y 80–87)
 
 - **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.537
@@ -3448,7 +3242,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.97 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 4/5 (Y 88–94)
+### Schritt 34.92 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 4/5 (Y 88–94)
 
 - **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.443
@@ -3479,7 +3273,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.98 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 5/5 (Y 95–101)
+### Schritt 34.93 – Renaissance-Palazzo an Viale Francesco Petrarca – Teil 5/5 (Y 95–101)
 
 - **Y-Bereich:** 95 bis 101
 - **Blöcke:** 1.768
@@ -3511,7 +3305,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.99 – Renaissance-Palazzo an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.94 – Renaissance-Palazzo an Viale Francesco Petrarca: Innenausbau
 
 - **Y-Bereich:** 65 bis 86
 - **Blöcke:** 1.504
@@ -3557,17 +3351,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.100 – Haus w465419666
+### Schritt 34.95 – Haus w465419666
 
 - **Y-Bereich:** 62 bis 96
-- **Blöcke:** 1.165
+- **Blöcke:** 1.155
 - **Bauteile:** `w465419666`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.016 |
+| Weißer Beton | `white_concrete` | 1.006 |
 | Terrakotta | `terracotta` | 68 |
 | Polierter Tuffstein | `polished_tuff` | 67 |
 | Graues Buntglas | `gray_stained_glass` | 11 |
@@ -3589,7 +3383,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.101 – Haus w465419666: Innenausbau & Haus w465419667 – Teil 1/22 (Y 64–65)
+### Schritt 34.96 – Haus w465419666: Innenausbau & Haus w465419667 – Teil 1/12 (Y 64–65)
 
 - **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.541
@@ -3627,24 +3421,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.102 – Haus w465419667 – Teil 2/22 (Y 66–67)
+### Schritt 34.97 – Haus w465419667 – Teil 2/12 (Y 66–66)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.912
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 926
 - **Bauteile:** `w465419667`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.911 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
+| Tuffstein | `tuff` | 926 |
 
 **Beschreibung**
 
@@ -3662,359 +3449,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.103 – Haus w465419667 – Teil 3/22 (Y 68–68)
+### Schritt 34.98 – Haus w465419667 – Teil 3/12 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.045
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.043 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.104 – Haus w465419667 – Teil 4/22 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.103
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.100 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.105 – Haus w465419667 – Teil 5/22 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.158
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.154 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.106 – Haus w465419667 – Teil 6/22 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.209
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.204 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.107 – Haus w465419667 – Teil 7/22 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.259
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.254 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.108 – Haus w465419667 – Teil 8/22 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.307
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.302 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.109 – Haus w465419667 – Teil 9/22 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.357
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.352 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.110 – Haus w465419667 – Teil 10/22 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.405
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.400 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.111 – Haus w465419667 – Teil 11/22 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.474
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.469 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.112 – Haus w465419667 – Teil 12/22 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.817
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.812 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.113 – Haus w465419667 – Teil 13/22 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.516
 - **Bauteile:** `w465419667`
 
@@ -4040,27 +3477,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.114 – Haus w465419667 – Teil 14/22 (Y 78–79)
+### Schritt 34.99 – Haus w465419667 – Teil 4/12 (Y 67–68)
 
-- **Y-Bereich:** 78 bis 79
-- **Blöcke:** 1.803
+- **Y-Bereich:** 67 bis 68
+- **Blöcke:** 1.888
 - **Bauteile:** `w465419667`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.478 |
-| Orange Keramik | `orange_terracotta` | 316 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
+| Polierter Tuffstein | `polished_tuff` | 1.528 |
+| Orange Keramik | `orange_terracotta` | 356 |
 | Glatter Stein | `smooth_stone` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 **Beschreibung**
 
@@ -4078,18 +3508,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.115 – Haus w465419667 – Teil 15/22 (Y 80–85)
+### Schritt 34.100 – Haus w465419667 – Teil 5/12 (Y 69–74)
 
-- **Y-Bereich:** 80 bis 85
-- **Blöcke:** 1.882
+- **Y-Bereich:** 69 bis 74
+- **Blöcke:** 1.968
 - **Bauteile:** `w465419667`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.464 |
-| Weißer Beton | `white_concrete` | 261 |
+| Orange Keramik | `orange_terracotta` | 1.584 |
+| Weißer Beton | `white_concrete` | 227 |
 | Graues Buntglas | `gray_stained_glass` | 116 |
 | Grüner Beton | `green_concrete` | 16 |
 | Glatter Stein | `smooth_stone` | 13 |
@@ -4112,9 +3542,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.116 – Haus w465419667 – Teil 16/22 (Y 86–91)
+### Schritt 34.101 – Haus w465419667 – Teil 6/12 (Y 75–80)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.958
 - **Bauteile:** `w465419667`
 
@@ -4146,9 +3576,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.117 – Haus w465419667 – Teil 17/22 (Y 92–97)
+### Schritt 34.102 – Haus w465419667 – Teil 7/12 (Y 81–86)
 
-- **Y-Bereich:** 92 bis 97
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.874
 - **Bauteile:** `w465419667`
 
@@ -4177,50 +3607,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.118 – Haus w465419667 – Teil 18/22 (Y 98–103)
+### Schritt 34.103 – Haus w465419667 – Teil 8/12 (Y 87–91)
 
-- **Y-Bereich:** 98 bis 103
-- **Blöcke:** 1.902
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.599
 - **Bauteile:** `w465419667`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.526 |
-| Weißer Beton | `white_concrete` | 155 |
+| Orange Keramik | `orange_terracotta` | 1.289 |
+| Weißer Beton | `white_concrete` | 124 |
 | Glatter Stein | `smooth_stone` | 116 |
-| Graues Buntglas | `gray_stained_glass` | 93 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.119 – Haus w465419667 – Teil 19/22 (Y 104–108)
-
-- **Y-Bereich:** 104 bis 108
-- **Blöcke:** 1.827
-- **Bauteile:** `w465419667`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.542 |
-| Weißer Beton | `white_concrete` | 215 |
 | Graues Buntglas | `gray_stained_glass` | 62 |
 | Grüner Beton | `green_concrete` | 8 |
 
@@ -4240,17 +3639,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.120 – Haus w465419667 – Teil 20/22 (Y 109–109)
+### Schritt 34.104 – Haus w465419667 – Teil 9/12 (Y 92–96)
 
-- **Y-Bereich:** 109 bis 109
-- **Blöcke:** 1.131
+- **Y-Bereich:** 92 bis 96
+- **Blöcke:** 1.653
 - **Bauteile:** `w465419667`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.131 |
+| Orange Keramik | `orange_terracotta` | 1.302 |
+| Weißer Beton | `white_concrete` | 246 |
+| Graues Buntglas | `gray_stained_glass` | 93 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
@@ -4268,9 +3670,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.121 – Haus w465419667 – Teil 21/22 (Y 110–111)
+### Schritt 34.105 – Haus w465419667 – Teil 10/12 (Y 97–98)
 
-- **Y-Bereich:** 110 bis 111
+- **Y-Bereich:** 97 bis 98
+- **Blöcke:** 1.570
+- **Bauteile:** `w465419667`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.131 |
+| Orange Keramik | `orange_terracotta` | 439 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.106 – Haus w465419667 – Teil 11/12 (Y 99–100)
+
+- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.492
 - **Bauteile:** `w465419667`
 
@@ -4296,9 +3727,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.122 – Haus w465419667 – Teil 22/22 (Y 112–118)
+### Schritt 34.107 – Haus w465419667 – Teil 12/12 (Y 101–107)
 
-- **Y-Bereich:** 112 bis 118
+- **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.853
 - **Bauteile:** `w465419667`
 
@@ -4325,9 +3756,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.123 – Haus w465419667: Innenausbau – Teil 1/4 (Y 78–88)
+### Schritt 34.108 – Haus w465419667: Innenausbau – Teil 1/4 (Y 67–77)
 
-- **Y-Bereich:** 78 bis 88
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.422
 - **Bauteile:** `w465419667_innen`
 
@@ -4367,9 +3798,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.124 – Haus w465419667: Innenausbau – Teil 2/4 (Y 88–88)
+### Schritt 34.109 – Haus w465419667: Innenausbau – Teil 2/4 (Y 77–77)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.362
 - **Bauteile:** `w465419667_innen`
 
@@ -4403,9 +3834,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.125 – Haus w465419667: Innenausbau – Teil 3/4 (Y 89–98)
+### Schritt 34.110 – Haus w465419667: Innenausbau – Teil 3/4 (Y 78–87)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.413
 - **Bauteile:** `w465419667_innen`
 
@@ -4447,9 +3878,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.126 – Haus w465419667: Innenausbau – Teil 4/4 (Y 98–99)
+### Schritt 34.111 – Haus w465419667: Innenausbau – Teil 4/4 (Y 87–88)
 
-- **Y-Bereich:** 98 bis 99
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.371
 - **Bauteile:** `w465419667_innen`
 
@@ -4489,7 +3920,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.127 – Haus w465419668 – Teil 1/19 (Y 73–76)
+### Schritt 34.112 – Haus w465419668 – Teil 1/18 (Y 73–76)
 
 - **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.243
@@ -4525,7 +3956,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.128 – Haus w465419668 – Teil 2/19 (Y 77–77)
+### Schritt 34.113 – Haus w465419668 – Teil 2/18 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.396
@@ -4561,17 +3992,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.129 – Haus w465419668 – Teil 3/19 (Y 78–78)
+### Schritt 34.114 – Haus w465419668 – Teil 3/18 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.080
+- **Blöcke:** 1.468
 - **Bauteile:** `w465419668`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.075 |
+| Polierter Tuffstein | `polished_tuff` | 1.463 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
 
@@ -4597,73 +4028,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.130 – Haus w465419668 – Teil 4/19 (Y 78–78)
+### Schritt 34.115 – Haus w465419668 – Teil 4/18 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.078
-- **Bauteile:** `w465419668`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.078 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.131 – Haus w465419668 – Teil 5/19 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.463
-- **Bauteile:** `w465419668`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.458 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 3 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.132 – Haus w465419668 – Teil 6/19 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.490
 - **Bauteile:** `w465419668`
 
@@ -4689,9 +4056,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.133 – Haus w465419668 – Teil 7/19 (Y 79–80)
+### Schritt 34.116 – Haus w465419668 – Teil 5/18 (Y 78–79)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.941
 - **Bauteile:** `w465419668`
 
@@ -4720,9 +4087,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.134 – Haus w465419668 – Teil 8/19 (Y 81–84)
+### Schritt 34.117 – Haus w465419668 – Teil 6/18 (Y 80–83)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 2.004
 - **Bauteile:** `w465419668`
 
@@ -4752,9 +4119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.135 – Haus w465419668 – Teil 9/19 (Y 85–88)
+### Schritt 34.118 – Haus w465419668 – Teil 7/18 (Y 84–87)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.888
 - **Bauteile:** `w465419668`
 
@@ -4784,21 +4151,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.136 – Haus w465419668 – Teil 10/19 (Y 89–92)
+### Schritt 34.119 – Haus w465419668 – Teil 8/18 (Y 88–90)
 
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 2.022
+- **Y-Bereich:** 88 bis 90
+- **Blöcke:** 1.580
 - **Bauteile:** `w465419668`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.357 |
-| Polierter Andesit | `polished_andesite` | 291 |
+| Rosa Keramik | `pink_terracotta` | 1.097 |
 | Glatter Stein | `smooth_stone` | 271 |
-| Graues Buntglas | `gray_stained_glass` | 71 |
-| Grüner Beton | `green_concrete` | 32 |
+| Polierter Andesit | `polished_andesite` | 212 |
 
 **Beschreibung**
 
@@ -4816,20 +4181,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.137 – Haus w465419668 – Teil 11/19 (Y 93–96)
+### Schritt 34.120 – Haus w465419668 – Teil 9/18 (Y 91–93)
 
-- **Y-Bereich:** 93 bis 96
-- **Blöcke:** 1.768
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.326
 - **Bauteile:** `w465419668`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.054 |
-| Polierter Andesit | `polished_andesite` | 302 |
-| Graues Buntglas | `gray_stained_glass` | 284 |
-| Grüner Beton | `green_concrete` | 128 |
+| Rosa Keramik | `pink_terracotta` | 787 |
+| Polierter Andesit | `polished_andesite` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 213 |
+| Grüner Beton | `green_concrete` | 96 |
 
 **Beschreibung**
 
@@ -4847,72 +4212,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.138 – Haus w465419668 – Teil 12/19 (Y 97–100)
+### Schritt 34.121 – Haus w465419668 – Teil 10/18 (Y 94–97)
 
-- **Y-Bereich:** 97 bis 100
-- **Blöcke:** 1.966
-- **Bauteile:** `w465419668`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.357 |
-| Glatter Stein | `smooth_stone` | 271 |
-| Polierter Andesit | `polished_andesite` | 235 |
-| Graues Buntglas | `gray_stained_glass` | 71 |
-| Grüner Beton | `green_concrete` | 32 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.139 – Haus w465419668 – Teil 13/19 (Y 101–103)
-
-- **Y-Bereich:** 101 bis 103
-- **Blöcke:** 1.448
-- **Bauteile:** `w465419668`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 892 |
-| Polierter Andesit | `polished_andesite` | 350 |
-| Graues Buntglas | `gray_stained_glass` | 142 |
-| Grüner Beton | `green_concrete` | 64 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.140 – Haus w465419668 – Teil 14/19 (Y 104–107)
-
-- **Y-Bereich:** 104 bis 107
+- **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.834
 - **Bauteile:** `w465419668`
 
@@ -4941,17 +4243,109 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.141 – Haus w465419668 – Teil 15/19 (Y 108–109)
+### Schritt 34.122 – Haus w465419668 – Teil 11/18 (Y 98–100)
 
-- **Y-Bereich:** 108 bis 109
-- **Blöcke:** 1.543
+- **Y-Bereich:** 98 bis 100
+- **Blöcke:** 1.718
 - **Bauteile:** `w465419668`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.525 |
+| Rosa Keramik | `pink_terracotta` | 1.235 |
+| Glatter Stein | `smooth_stone` | 271 |
+| Polierter Andesit | `polished_andesite` | 212 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.123 – Haus w465419668 – Teil 12/18 (Y 101–103)
+
+- **Y-Bereich:** 101 bis 103
+- **Blöcke:** 1.540
+- **Bauteile:** `w465419668`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.001 |
+| Polierter Andesit | `polished_andesite` | 230 |
+| Graues Buntglas | `gray_stained_glass` | 213 |
+| Grüner Beton | `green_concrete` | 96 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.124 – Haus w465419668 – Teil 13/18 (Y 104–106)
+
+- **Y-Bereich:** 104 bis 106
+- **Blöcke:** 1.644
+- **Bauteile:** `w465419668`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.144 |
+| Polierter Andesit | `polished_andesite` | 294 |
+| Graues Buntglas | `gray_stained_glass` | 142 |
+| Grüner Beton | `green_concrete` | 64 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.125 – Haus w465419668 – Teil 14/18 (Y 107–108)
+
+- **Y-Bereich:** 107 bis 108
+- **Blöcke:** 1.563
+- **Bauteile:** `w465419668`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.545 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
@@ -4970,17 +4364,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.142 – Haus w465419668 – Teil 16/19 (Y 110–110)
+### Schritt 34.126 – Haus w465419668 – Teil 15/18 (Y 109–109)
 
-- **Y-Bereich:** 110 bis 110
-- **Blöcke:** 1.574
+- **Y-Bereich:** 109 bis 109
+- **Blöcke:** 1.573
 - **Bauteile:** `w465419668`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.574 |
+| Terrakotta | `terracotta` | 1.573 |
 
 **Beschreibung**
 
@@ -4998,9 +4392,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.143 – Haus w465419668 – Teil 17/19 (Y 111–112)
+### Schritt 34.127 – Haus w465419668 – Teil 16/18 (Y 110–111)
 
-- **Y-Bereich:** 111 bis 112
+- **Y-Bereich:** 110 bis 111
 - **Blöcke:** 1.934
 - **Bauteile:** `w465419668`
 
@@ -5026,9 +4420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.144 – Haus w465419668 – Teil 18/19 (Y 113–114)
+### Schritt 34.128 – Haus w465419668 – Teil 17/18 (Y 112–113)
 
-- **Y-Bereich:** 113 bis 114
+- **Y-Bereich:** 112 bis 113
 - **Blöcke:** 1.492
 - **Bauteile:** `w465419668`
 
@@ -5055,9 +4449,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.145 – Haus w465419668 – Teil 19/19 (Y 115–120)
+### Schritt 34.129 – Haus w465419668 – Teil 18/18 (Y 114–119)
 
-- **Y-Bereich:** 115 bis 120
+- **Y-Bereich:** 114 bis 119
 - **Blöcke:** 1.436
 - **Bauteile:** `w465419668`
 
@@ -5084,9 +4478,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.146 – Haus w465419668: Innenausbau – Teil 1/4 (Y 79–89)
+### Schritt 34.130 – Haus w465419668: Innenausbau – Teil 1/4 (Y 78–88)
 
-- **Y-Bereich:** 79 bis 89
+- **Y-Bereich:** 78 bis 88
 - **Blöcke:** 1.997
 - **Bauteile:** `w465419668_innen`
 
@@ -5126,9 +4520,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.147 – Haus w465419668: Innenausbau – Teil 2/4 (Y 89–89)
+### Schritt 34.131 – Haus w465419668: Innenausbau – Teil 2/4 (Y 88–88)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.991
 - **Bauteile:** `w465419668_innen`
 
@@ -5155,9 +4549,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.148 – Haus w465419668: Innenausbau – Teil 3/4 (Y 90–99)
+### Schritt 34.132 – Haus w465419668: Innenausbau – Teil 3/4 (Y 89–98)
 
-- **Y-Bereich:** 90 bis 99
+- **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.983
 - **Bauteile:** `w465419668_innen`
 
@@ -5199,17 +4593,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.149 – Haus w465419668: Innenausbau – Teil 4/4 (Y 99–100)
+### Schritt 34.133 – Haus w465419668: Innenausbau – Teil 4/4 (Y 98–99)
 
-- **Y-Bereich:** 99 bis 100
-- **Blöcke:** 2.000
+- **Y-Bereich:** 98 bis 99
+- **Blöcke:** 1.954
 - **Bauteile:** `w465419668_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.981 |
+| Terrakotta | `terracotta` | 1.935 |
 | Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -5239,19 +4633,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.150 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 63–79)
+### Schritt 34.134 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 63–80)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.447
+- **Y-Bereich:** 63 bis 80
+- **Blöcke:** 1.444
 - **Bauteile:** `w465419672`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 883 |
+| Endsteinziegel | `end_stone_bricks` | 864 |
 | Polierter Tuffstein | `polished_tuff` | 333 |
-| Weißer Beton | `white_concrete` | 106 |
+| Weißer Beton | `white_concrete` | 122 |
 | Fichtenholz-Bretter | `spruce_planks` | 54 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 | Glatter Stein | `smooth_stone` | 21 |
@@ -5272,19 +4666,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.151 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 80–99)
+### Schritt 34.135 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 81–99)
 
-- **Y-Bereich:** 80 bis 99
-- **Blöcke:** 1.460
+- **Y-Bereich:** 81 bis 99
+- **Blöcke:** 1.389
 - **Bauteile:** `w465419672`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 728 |
+| Endsteinziegel | `end_stone_bricks` | 673 |
 | Terrakotta | `terracotta` | 439 |
-| Weißer Beton | `white_concrete` | 128 |
+| Weißer Beton | `white_concrete` | 112 |
 | Fichtenholz-Bretter | `spruce_planks` | 72 |
 | Graues Buntglas | `gray_stained_glass` | 64 |
 | Ziegelsteine | `bricks` | 29 |
@@ -5305,7 +4699,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.152 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.136 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 910
@@ -5317,13 +4711,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 762 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -5347,7 +4741,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.153 – Reihenhaus an Viale Francesco Petrarca – Teil 1/4 (Y 63–69)
+### Schritt 34.137 – Reihenhaus an Viale Francesco Petrarca – Teil 1/4 (Y 63–69)
 
 - **Y-Bereich:** 63 bis 69
 - **Blöcke:** 1.728
@@ -5388,7 +4782,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.154 – Reihenhaus an Viale Francesco Petrarca – Teil 2/4 (Y 70–80)
+### Schritt 34.138 – Reihenhaus an Viale Francesco Petrarca – Teil 2/4 (Y 70–80)
 
 - **Y-Bereich:** 70 bis 80
 - **Blöcke:** 1.850
@@ -5419,7 +4813,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.155 – Reihenhaus an Viale Francesco Petrarca – Teil 3/4 (Y 81–90)
+### Schritt 34.139 – Reihenhaus an Viale Francesco Petrarca – Teil 3/4 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.724
@@ -5450,7 +4844,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.156 – Reihenhaus an Viale Francesco Petrarca – Teil 4/4 (Y 91–100)
+### Schritt 34.140 – Reihenhaus an Viale Francesco Petrarca – Teil 4/4 (Y 91–100)
 
 - **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.762
@@ -5483,7 +4877,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.157 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.141 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.625
@@ -5525,38 +4919,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.158 – Haus w465419679 – Teil 1/8 (Y 63–64)
+### Schritt 34.142 – Haus w465419679 – Teil 1/7 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.990
-- **Bauteile:** `w465419679`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.990 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.159 – Haus w465419679 – Teil 2/8 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.081
+- **Blöcke:** 1.232
 - **Bauteile:** `w465419679`
 
 **Teileliste**
@@ -5564,6 +4930,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.081 |
+| Tuffstein | `tuff` | 151 |
 
 **Beschreibung**
 
@@ -5581,10 +4948,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.160 – Haus w465419679 – Teil 3/8 (Y 65–69)
+### Schritt 34.143 – Haus w465419679 – Teil 2/7 (Y 64–68)
 
-- **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.975
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.939
 - **Bauteile:** `w465419679`
 
 **Teileliste**
@@ -5592,7 +4959,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.103 |
-| Glatter Sandstein | `smooth_sandstone` | 768 |
+| Glatter Sandstein | `smooth_sandstone` | 732 |
 | Weißer Beton | `white_concrete` | 51 |
 | Polierter Andesit | `polished_andesite` | 24 |
 | Graues Buntglas | `gray_stained_glass` | 17 |
@@ -5615,21 +4982,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.161 – Haus w465419679 – Teil 4/8 (Y 70–77)
+### Schritt 34.144 – Haus w465419679 – Teil 3/7 (Y 69–77)
 
-- **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.776
+- **Y-Bereich:** 69 bis 77
+- **Blöcke:** 1.687
 - **Bauteile:** `w465419679`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.439 |
-| Weißer Beton | `white_concrete` | 99 |
+| Glatter Sandstein | `smooth_sandstone` | 1.299 |
+| Weißer Beton | `white_concrete` | 143 |
 | Glatter Stein | `smooth_stone` | 98 |
+| Polierter Andesit | `polished_andesite` | 71 |
 | Graues Buntglas | `gray_stained_glass` | 65 |
-| Polierter Andesit | `polished_andesite` | 64 |
 | Tuffsteinziegel | `tuff_bricks` | 11 |
 
 **Beschreibung**
@@ -5648,52 +5015,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.162 – Haus w465419679 – Teil 5/8 (Y 78–86)
+### Schritt 34.145 – Haus w465419679 – Teil 4/7 (Y 78–86)
 
 - **Y-Bereich:** 78 bis 86
-- **Blöcke:** 1.747
+- **Blöcke:** 1.711
 - **Bauteile:** `w465419679`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.299 |
+| Glatter Sandstein | `smooth_sandstone` | 1.267 |
 | Weißer Beton | `white_concrete` | 230 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
 | Glatter Stein | `smooth_stone` | 86 |
-| Polierter Andesit | `polished_andesite` | 44 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.163 – Haus w465419679 – Teil 6/8 (Y 87–94)
-
-- **Y-Bereich:** 87 bis 94
-- **Blöcke:** 1.556
-- **Bauteile:** `w465419679`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.092 |
-| Weißer Beton | `white_concrete` | 250 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
-| Glatter Stein | `smooth_stone` | 64 |
 | Polierter Andesit | `polished_andesite` | 40 |
 
 **Beschreibung**
@@ -5712,20 +5047,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.164 – Haus w465419679 – Teil 7/8 (Y 95–97)
+### Schritt 34.146 – Haus w465419679 – Teil 5/7 (Y 87–94)
 
-- **Y-Bereich:** 95 bis 97
-- **Blöcke:** 1.781
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.753
 - **Bauteile:** `w465419679`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.385 |
-| Glatter Sandstein | `smooth_sandstone` | 259 |
-| Glatter Stein | `smooth_stone` | 134 |
-| Polierter Andesit | `polished_andesite` | 3 |
+| Glatter Sandstein | `smooth_sandstone` | 1.199 |
+| Weißer Beton | `white_concrete` | 206 |
+| Glatter Stein | `smooth_stone` | 198 |
+| Graues Buntglas | `gray_stained_glass` | 110 |
+| Polierter Andesit | `polished_andesite` | 40 |
 
 **Beschreibung**
 
@@ -5743,9 +5079,37 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.165 – Haus w465419679 – Teil 8/8 (Y 98–105)
+### Schritt 34.147 – Haus w465419679 – Teil 6/7 (Y 95–96)
 
-- **Y-Bereich:** 98 bis 105
+- **Y-Bereich:** 95 bis 96
+- **Blöcke:** 1.385
+- **Bauteile:** `w465419679`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.385 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.148 – Haus w465419679 – Teil 7/7 (Y 97–104)
+
+- **Y-Bereich:** 97 bis 104
 - **Blöcke:** 1.740
 - **Bauteile:** `w465419679`
 
@@ -5772,56 +5136,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.166 – Haus w465419679: Innenausbau – Teil 1/2 (Y 65–78)
+### Schritt 34.149 – Haus w465419679: Innenausbau – Teil 1/2 (Y 64–75)
 
-- **Y-Bereich:** 65 bis 78
-- **Blöcke:** 2.033
-- **Bauteile:** `w465419679_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.941 |
-| Glatter Stein | `smooth_stone` | 32 |
-| Seelaterne | `sea_lantern` | 22 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 16 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 26 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 34.167 – Haus w465419679: Innenausbau – Teil 2/2 (Y 79–86)
-
-- **Y-Bereich:** 79 bis 86
-- **Blöcke:** 2.031
+- **Y-Bereich:** 64 bis 75
+- **Blöcke:** 2.052
 - **Bauteile:** `w465419679_innen`
 
 **Teileliste**
@@ -5829,21 +5147,19 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.977 |
-| Glatter Stein | `smooth_stone` | 20 |
-| Seelaterne | `sea_lantern` | 11 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Seelaterne | `sea_lantern` | 22 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 14 |
+| Steintreppe | `stone_stairs` | 22 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -5862,29 +5178,65 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.168 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 63–79)
+### Schritt 34.150 – Haus w465419679: Innenausbau – Teil 2/2 (Y 76–85)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.207
+- **Y-Bereich:** 76 bis 85
+- **Blöcke:** 2.048
+- **Bauteile:** `w465419679_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.977 |
+| Glatter Stein | `smooth_stone` | 24 |
+| Seelaterne | `sea_lantern` | 11 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 34.151 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 62–78)
+
+- **Y-Bereich:** 62 bis 78
+- **Blöcke:** 1.133
 - **Bauteile:** `w465419686`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 757 |
-| Polierter Tuffstein | `polished_tuff` | 221 |
-| Tuffstein | `tuff` | 120 |
+| Glatter Sandstein | `smooth_sandstone` | 803 |
+| Polierter Tuffstein | `polished_tuff` | 229 |
 | Weißer Beton | `white_concrete` | 54 |
 | Polierter Andesit | `polished_andesite` | 29 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 **Beschreibung**
 
@@ -5902,17 +5254,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.169 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 80–99)
+### Schritt 34.152 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 79–97)
 
-- **Y-Bereich:** 80 bis 99
-- **Blöcke:** 1.172
+- **Y-Bereich:** 79 bis 97
+- **Blöcke:** 1.112
 - **Bauteile:** `w465419686`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 784 |
+| Glatter Sandstein | `smooth_sandstone` | 724 |
 | Terrakotta | `terracotta` | 274 |
 | Weißer Beton | `white_concrete` | 76 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
@@ -5934,9 +5286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.170 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.153 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 627
 - **Bauteile:** `w465419686_innen`
 
@@ -5976,17 +5328,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.171 – Haus w465419711 – Teil 1/7 (Y 63–64)
+### Schritt 34.154 – Haus w465419711 – Teil 1/7 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.797
+- **Blöcke:** 1.796
 - **Bauteile:** `w465419711`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.593 |
+| Polierter Tuffstein | `polished_tuff` | 1.592 |
 | Tuffstein | `tuff` | 199 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
 
@@ -6012,17 +5364,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.172 – Haus w465419711 – Teil 2/7 (Y 65–70)
+### Schritt 34.155 – Haus w465419711 – Teil 2/7 (Y 65–70)
 
 - **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.538
+- **Blöcke:** 1.431
 - **Bauteile:** `w465419711`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.227 |
+| Orange Keramik | `orange_terracotta` | 1.120 |
 | Weißer Beton | `white_concrete` | 139 |
 | Graues Buntglas | `gray_stained_glass` | 105 |
 | Grüner Beton | `green_concrete` | 34 |
@@ -6046,22 +5398,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.173 – Haus w465419711 – Teil 3/7 (Y 71–76)
+### Schritt 34.156 – Haus w465419711 – Teil 3/7 (Y 71–77)
 
-- **Y-Bereich:** 71 bis 76
-- **Blöcke:** 1.660
+- **Y-Bereich:** 71 bis 77
+- **Blöcke:** 1.715
 - **Bauteile:** `w465419711`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.357 |
+| Orange Keramik | `orange_terracotta` | 1.324 |
+| Weißer Beton | `white_concrete` | 163 |
 | Glatter Stein | `smooth_stone` | 137 |
-| Weißer Beton | `white_concrete` | 135 |
-| Polierter Andesit | `polished_andesite` | 16 |
+| Graues Buntglas | `gray_stained_glass` | 45 |
+| Grüner Beton | `green_concrete` | 20 |
+| Polierter Andesit | `polished_andesite` | 18 |
 | Tuffsteinziegel | `tuff_bricks` | 8 |
-| Graues Buntglas | `gray_stained_glass` | 7 |
 
 **Beschreibung**
 
@@ -6079,22 +5432,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.174 – Haus w465419711 – Teil 4/7 (Y 77–84)
+### Schritt 34.157 – Haus w465419711 – Teil 4/7 (Y 78–84)
 
-- **Y-Bereich:** 77 bis 84
-- **Blöcke:** 1.864
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 1.593
 - **Bauteile:** `w465419711`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.138 |
-| Weißer Beton | `white_concrete` | 234 |
-| Graues Buntglas | `gray_stained_glass` | 228 |
+| Orange Keramik | `orange_terracotta` | 955 |
+| Weißer Beton | `white_concrete` | 206 |
+| Graues Buntglas | `gray_stained_glass` | 190 |
 | Glatter Stein | `smooth_stone` | 133 |
-| Grüner Beton | `green_concrete` | 120 |
-| Polierter Andesit | `polished_andesite` | 11 |
+| Grüner Beton | `green_concrete` | 100 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
@@ -6112,7 +5465,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.175 – Haus w465419711 – Teil 5/7 (Y 85–91)
+### Schritt 34.158 – Haus w465419711 – Teil 5/7 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.593
@@ -6144,19 +5497,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.176 – Haus w465419711 – Teil 6/7 (Y 92–95)
+### Schritt 34.159 – Haus w465419711 – Teil 6/7 (Y 92–95)
 
 - **Y-Bereich:** 92 bis 95
-- **Blöcke:** 1.884
+- **Blöcke:** 1.883
 - **Bauteile:** `w465419711`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 881 |
+| Terrakotta | `terracotta` | 883 |
 | Orange Keramik | `orange_terracotta` | 722 |
-| Fichtenholz-Bretter | `spruce_planks` | 211 |
+| Fichtenholz-Bretter | `spruce_planks` | 208 |
 | Weißer Beton | `white_concrete` | 66 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
@@ -6176,7 +5529,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.177 – Haus w465419711 – Teil 7/7 (Y 96–101)
+### Schritt 34.160 – Haus w465419711 – Teil 7/7 (Y 96–101)
 
 - **Y-Bereich:** 96 bis 101
 - **Blöcke:** 1.494
@@ -6205,67 +5558,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.178 – Haus w465419711: Innenausbau – Teil 1/2 (Y 64–76)
+### Schritt 34.161 – Haus w465419711: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 64 bis 76
-- **Blöcke:** 1.392
+- **Y-Bereich:** 64 bis 74
+- **Blöcke:** 1.403
 - **Bauteile:** `w465419711_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.310 |
-| Glatter Stein | `smooth_stone` | 30 |
-| Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
+| Terrakotta | `terracotta` | 1.336 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 24 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 34.179 – Haus w465419711: Innenausbau – Teil 2/2 (Y 77–85)
-
-- **Y-Bereich:** 77 bis 85
-- **Blöcke:** 1.392
-- **Bauteile:** `w465419711_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.337 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -6274,7 +5581,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -6293,56 +5600,68 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.180 – Reihenhaus an Viale Francesco Petrarca – Teil 1/3 (Y 63–71)
+### Schritt 34.162 – Haus w465419711: Innenausbau – Teil 2/2 (Y 75–85)
 
-- **Y-Bereich:** 63 bis 71
-- **Blöcke:** 1.562
+- **Y-Bereich:** 75 bis 85
+- **Blöcke:** 1.409
+- **Bauteile:** `w465419711_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.336 |
+| Glatter Stein | `smooth_stone` | 26 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 9 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 34.163 – Reihenhaus an Viale Francesco Petrarca – Teil 1/3 (Y 63–73)
+
+- **Y-Bereich:** 63 bis 73
+- **Blöcke:** 1.443
 - **Bauteile:** `w465419724`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 711 |
 | Polierter Tuffstein | `polished_tuff` | 515 |
-| Hellgrauer Beton | `light_gray_concrete` | 288 |
-| Weißer Beton | `white_concrete` | 28 |
-| Graues Buntglas | `gray_stained_glass` | 10 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Grüner Beton | `green_concrete` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.181 – Reihenhaus an Viale Francesco Petrarca – Teil 2/3 (Y 72–89)
-
-- **Y-Bereich:** 72 bis 89
-- **Blöcke:** 1.586
-- **Bauteile:** `w465419724`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.219 |
-| Weißer Beton | `white_concrete` | 217 |
-| Graues Buntglas | `gray_stained_glass` | 112 |
-| Grüner Beton | `green_concrete` | 16 |
-| Glatter Stein | `smooth_stone` | 12 |
+| Hellgrauer Beton | `light_gray_concrete` | 464 |
+| Tuffstein | `tuff` | 340 |
+| Weißer Beton | `white_concrete` | 65 |
+| Graues Buntglas | `gray_stained_glass` | 28 |
+| Glatter Stein | `smooth_stone` | 15 |
 | Polierter Andesit | `polished_andesite` | 10 |
+| Grüner Beton | `green_concrete` | 6 |
 
 **Beschreibung**
 
@@ -6360,18 +5679,50 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.182 – Reihenhaus an Viale Francesco Petrarca – Teil 3/3 (Y 90–103)
+### Schritt 34.164 – Reihenhaus an Viale Francesco Petrarca – Teil 2/3 (Y 74–90)
 
-- **Y-Bereich:** 90 bis 103
-- **Blöcke:** 1.572
+- **Y-Bereich:** 74 bis 90
+- **Blöcke:** 1.522
 - **Bauteile:** `w465419724`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 720 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.231 |
+| Weißer Beton | `white_concrete` | 180 |
+| Graues Buntglas | `gray_stained_glass` | 94 |
+| Grüner Beton | `green_concrete` | 12 |
+| Glatter Stein | `smooth_stone` | 5 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.165 – Reihenhaus an Viale Francesco Petrarca – Teil 3/3 (Y 91–102)
+
+- **Y-Bereich:** 91 bis 102
+- **Blöcke:** 1.435
+- **Bauteile:** `w465419724`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 678 |
+| Hellgrauer Beton | `light_gray_concrete` | 583 |
 | Weißer Beton | `white_concrete` | 79 |
 | Ziegelsteine | `bricks` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
@@ -6393,9 +5744,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.183 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.166 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
-- **Y-Bereich:** 67 bis 91
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.387
 - **Bauteile:** `w465419724_innen`
 
@@ -6435,21 +5786,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.184 – Haus w465419731 – Teil 1/2 (Y 64–82)
+### Schritt 34.167 – Haus w465419731 – Teil 1/2 (Y 64–81)
 
-- **Y-Bereich:** 64 bis 82
-- **Blöcke:** 1.423
+- **Y-Bereich:** 64 bis 81
+- **Blöcke:** 1.413
 - **Bauteile:** `w465419731`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 828 |
+| Orange Keramik | `orange_terracotta` | 840 |
 | Polierter Tuffstein | `polished_tuff` | 375 |
 | Weißer Beton | `white_concrete` | 136 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
-| Tuffstein | `tuff` | 22 |
 | Glatter Stein | `smooth_stone` | 20 |
 
 **Beschreibung**
@@ -6468,9 +5818,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.185 – Haus w465419731 – Teil 2/2 (Y 83–101)
+### Schritt 34.168 – Haus w465419731 – Teil 2/2 (Y 82–100)
 
-- **Y-Bereich:** 83 bis 101
+- **Y-Bereich:** 82 bis 100
 - **Blöcke:** 1.452
 - **Bauteile:** `w465419731`
 
@@ -6500,9 +5850,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.186 – Haus w465419731: Innenausbau
+### Schritt 34.169 – Haus w465419731: Innenausbau
 
-- **Y-Bereich:** 65 bis 89
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.051
 - **Bauteile:** `w465419731_innen`
 
@@ -6542,17 +5892,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.187 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 1/19 (Y 65–69)
+### Schritt 34.170 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 1/9 (Y 65–68)
 
-- **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.911
+- **Y-Bereich:** 65 bis 68
+- **Blöcke:** 1.098
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.911 |
+| Tuffstein | `tuff` | 1.098 |
 
 **Beschreibung**
 
@@ -6570,372 +5920,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.188 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 2/19 (Y 70–70)
+### Schritt 34.171 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 2/9 (Y 69–70)
 
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.333
+- **Y-Bereich:** 69 bis 70
+- **Blöcke:** 1.901
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.333 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.189 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 3/19 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.465
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.459 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.190 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 4/19 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.478
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.472 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.191 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 5/19 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.493
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.487 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.192 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 6/19 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.498
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.492 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.193 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 7/19 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.508
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.502 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.194 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 8/19 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.513
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.507 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.195 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 9/19 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.515
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.509 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.196 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 10/19 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.519
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.513 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.197 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 11/19 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.518
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.512 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.198 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 12/19 (Y 80–81)
-
-- **Y-Bereich:** 80 bis 81
-- **Blöcke:** 1.833
-- **Bauteile:** `w465419737`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.506 |
-| Rosa Keramik | `pink_terracotta` | 314 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.566 |
+| Rosa Keramik | `pink_terracotta` | 328 |
 | Polierter Andesit | `polished_andesite` | 4 |
 | Glatter Stein | `smooth_stone` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
 **Beschreibung**
 
 Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
@@ -6952,17 +5952,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.199 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 13/19 (Y 82–87)
+### Schritt 34.172 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 3/9 (Y 71–76)
 
-- **Y-Bereich:** 82 bis 87
-- **Blöcke:** 1.872
+- **Y-Bereich:** 71 bis 76
+- **Blöcke:** 1.886
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.244 |
+| Rosa Keramik | `pink_terracotta` | 1.258 |
 | Glatter Stein | `smooth_stone` | 352 |
 | Graues Buntglas | `gray_stained_glass` | 152 |
 | Grüner Beton | `green_concrete` | 100 |
@@ -6985,21 +5985,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.200 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 14/19 (Y 88–93)
+### Schritt 34.173 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 4/9 (Y 77–81)
 
-- **Y-Bereich:** 88 bis 93
-- **Blöcke:** 1.991
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 1.693
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.501 |
-| Glatter Stein | `smooth_stone` | 396 |
-| Graues Buntglas | `gray_stained_glass` | 41 |
-| Grüner Beton | `green_concrete` | 27 |
-| Polierter Andesit | `polished_andesite` | 19 |
+| Rosa Keramik | `pink_terracotta` | 1.313 |
+| Glatter Stein | `smooth_stone` | 357 |
+| Polierter Andesit | `polished_andesite` | 16 |
 | Tuffsteinziegel | `tuff_bricks` | 7 |
 
 **Beschreibung**
@@ -7018,20 +6016,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.201 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 15/19 (Y 94–99)
+### Schritt 34.174 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 5/9 (Y 82–87)
 
-- **Y-Bereich:** 94 bis 99
-- **Blöcke:** 1.995
+- **Y-Bereich:** 82 bis 87
+- **Blöcke:** 1.788
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.368 |
-| Glatter Stein | `smooth_stone` | 275 |
-| Graues Buntglas | `gray_stained_glass` | 205 |
-| Grüner Beton | `green_concrete` | 135 |
+| Rosa Keramik | `pink_terracotta` | 1.134 |
+| Graues Buntglas | `gray_stained_glass` | 246 |
+| Glatter Stein | `smooth_stone` | 234 |
+| Grüner Beton | `green_concrete` | 162 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
@@ -7050,21 +6048,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.202 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 16/19 (Y 100–103)
+### Schritt 34.175 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 6/9 (Y 88–92)
 
-- **Y-Bereich:** 100 bis 103
-- **Blöcke:** 1.538
+- **Y-Bereich:** 88 bis 92
+- **Blöcke:** 1.664
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.144 |
-| Glatter Stein | `smooth_stone` | 319 |
+| Rosa Keramik | `pink_terracotta` | 1.187 |
+| Glatter Stein | `smooth_stone` | 399 |
 | Graues Buntglas | `gray_stained_glass` | 41 |
 | Grüner Beton | `green_concrete` | 27 |
-| Polierter Andesit | `polished_andesite` | 7 |
+| Polierter Andesit | `polished_andesite` | 10 |
 
 **Beschreibung**
 
@@ -7082,17 +6080,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.203 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 17/19 (Y 104–108)
+### Schritt 34.176 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 7/9 (Y 93–97)
 
-- **Y-Bereich:** 104 bis 108
-- **Blöcke:** 1.800
+- **Y-Bereich:** 93 bis 97
+- **Blöcke:** 1.689
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.283 |
+| Rosa Keramik | `pink_terracotta` | 1.172 |
 | Glatter Stein | `smooth_stone` | 236 |
 | Graues Buntglas | `gray_stained_glass` | 164 |
 | Grüner Beton | `green_concrete` | 108 |
@@ -7114,18 +6112,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.204 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 18/19 (Y 109–111)
+### Schritt 34.177 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 8/9 (Y 98–100)
 
-- **Y-Bereich:** 109 bis 111
-- **Blöcke:** 2.050
+- **Y-Bereich:** 98 bis 100
+- **Blöcke:** 2.022
 - **Bauteile:** `w465419737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.026 |
 | Terrakotta | `terracotta` | 1.020 |
+| Rosa Keramik | `pink_terracotta` | 998 |
 | Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
@@ -7144,9 +6142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.205 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 19/19 (Y 112–115)
+### Schritt 34.178 – Palazzo des Cinquecento an Viale Francesco Petrarca – Teil 9/9 (Y 101–104)
 
-- **Y-Bereich:** 112 bis 115
+- **Y-Bereich:** 101 bis 104
 - **Blöcke:** 1.215
 - **Bauteile:** `w465419737`
 
@@ -7173,9 +6171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.206 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 1/2 (Y 80–90)
+### Schritt 34.179 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 1/2 (Y 69–79)
 
-- **Y-Bereich:** 80 bis 90
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.291
 - **Bauteile:** `w465419737_innen`
 
@@ -7215,17 +6213,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.207 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 2/2 (Y 91–101)
+### Schritt 34.180 – Palazzo des Cinquecento an Viale Francesco Petrarca: Innenausbau – Teil 2/2 (Y 80–90)
 
-- **Y-Bereich:** 91 bis 101
-- **Blöcke:** 1.245
+- **Y-Bereich:** 80 bis 90
+- **Blöcke:** 1.297
 - **Bauteile:** `w465419737_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.172 |
+| Terrakotta | `terracotta` | 1.224 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
@@ -7259,30 +6257,22 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.208 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 70–93)
+### Schritt 34.181 – Reihenhaus an Viale Francesco Petrarca – Teil 1/2 (Y 69–86)
 
-- **Y-Bereich:** 70 bis 93
-- **Blöcke:** 1.592
+- **Y-Bereich:** 69 bis 86
+- **Blöcke:** 1.257
 - **Bauteile:** `w858578905`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 733 |
-| Weißer Beton | `white_concrete` | 546 |
-| Polierter Tuffstein | `polished_tuff` | 171 |
-| Hellgrauer Beton | `light_gray_concrete` | 75 |
-| Graues Buntglas | `gray_stained_glass` | 26 |
+| Weißer Beton | `white_concrete` | 841 |
+| Polierter Tuffstein | `polished_tuff` | 173 |
+| Hellgrauer Beton | `light_gray_concrete` | 141 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
+| Grüner Beton | `green_concrete` | 30 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Grüner Beton | `green_concrete` | 18 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 **Beschreibung**
 
@@ -7300,22 +6290,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.209 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 94–117)
+### Schritt 34.182 – Reihenhaus an Viale Francesco Petrarca – Teil 2/2 (Y 87–104)
 
-- **Y-Bereich:** 94 bis 117
-- **Blöcke:** 1.623
+- **Y-Bereich:** 87 bis 104
+- **Blöcke:** 1.196
 - **Bauteile:** `w858578905`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 939 |
+| Weißer Beton | `white_concrete` | 614 |
 | Terrakotta | `terracotta` | 264 |
-| Hellgrauer Beton | `light_gray_concrete` | 200 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
+| Hellgrauer Beton | `light_gray_concrete` | 134 |
 | Fichtenholz-Bretter | `spruce_planks` | 79 |
-| Grüner Beton | `green_concrete` | 48 |
+| Graues Buntglas | `gray_stained_glass` | 64 |
+| Grüner Beton | `green_concrete` | 36 |
 | Ziegelsteine | `bricks` | 5 |
 
 **Beschreibung**
@@ -7334,99 +6324,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.210 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
+### Schritt 34.183 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
 
-- **Y-Bereich:** 82 bis 106
-- **Blöcke:** 411
+- **Y-Bereich:** 69 bis 93
+- **Blöcke:** 417
 - **Bauteile:** `w858578905_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 282 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
+| Terrakotta | `terracotta` | 285 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 |
 | Seelaterne | `sea_lantern` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 34.211 – Reihenhaus an Viale Francesco Petrarca
-
-- **Y-Bereich:** 65 bis 100
-- **Blöcke:** 1.190
-- **Bauteile:** `w858578928`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 557 |
-| Terrakotta | `terracotta` | 296 |
-| Polierter Tuffstein | `polished_tuff` | 243 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
-| Ziegelsteine | `bricks` | 23 |
-| Glatter Stein | `smooth_stone` | 20 |
-| Grüner Beton | `green_concrete` | 12 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 34.212 – Reihenhaus an Viale Francesco Petrarca: Innenausbau
-
-- **Y-Bereich:** 65 bis 89
-- **Blöcke:** 781
-- **Bauteile:** `w858578928_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 633 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Rote Keramik | `red_terracotta` | 9 |
-| Weiße Keramik | `white_terracotta` | 9 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -7449,3 +6365,81 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 **Fakt**
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 34.184 – Reihenhaus an Viale Francesco Petrarca
+
+- **Y-Bereich:** 65 bis 100
+- **Blöcke:** 1.227
+- **Bauteile:** `w858578928`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 593 |
+| Terrakotta | `terracotta` | 296 |
+| Polierter Tuffstein | `polished_tuff` | 244 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+| Ziegelsteine | `bricks` | 23 |
+| Glatter Stein | `smooth_stone` | 20 |
+| Grüner Beton | `green_concrete` | 12 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 34.185 – Reihenhaus an Viale Francesco Petrarca: Innenausbau & Straßenschilder
+
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 782
+- **Bauteile:** `w858578928_innen`, `strassenschilder`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 636 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Rote Keramik | `red_terracotta` | 9 |
+| Weiße Keramik | `white_terracotta` | 9 |
+| Seelaterne | `sea_lantern` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

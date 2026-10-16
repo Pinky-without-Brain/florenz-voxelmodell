@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 17.903 |
+| Blöcke | 17.905 |
 | Bauschritte | 11 |
 | Y-Bereich | 63 bis 100 |
 | X-Ausdehnung | 1590 bis 1664 (75 Blöcke) |
 | Z-Ausdehnung | 967 bis 1011 (45 Blöcke) |
-| Kleinster Schritt | 1.169 Blöcke (Schritt 15.11) |
+| Kleinster Schritt | 1.171 Blöcke (Schritt 15.11) |
 | Mittlerer Schritt | 1.628 Blöcke |
 | Größter Schritt | 1.845 Blöcke (Schritt 15.5) |
 
@@ -39,6 +39,8 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 12 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 12 | 0,1 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -55,6 +57,7 @@
 | 2 | `w476740660_innen` | Renaissance-Palazzo an Via delle Casine: Innenausbau | 1.455 | 15.7 |
 | 3 | `w476740674` | Reihenhaus an Via delle Casine | 4.899 | 15.8–15.10 |
 | 4 | `w476740674_innen` | Reihenhaus an Via delle Casine: Innenausbau | 1.169 | 15.11 |
+| 5 | `strassenschilder` | Straßenschilder | 2 | 15.11 |
 
 ## Bauschritte
 
@@ -383,11 +386,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.11 – Reihenhaus an Via delle Casine: Innenausbau
+### Schritt 15.11 – Reihenhaus an Via delle Casine: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.169
-- **Bauteile:** `w476740674_innen`
+- **Blöcke:** 1.171
+- **Bauteile:** `w476740674_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -400,6 +403,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -409,16 +414,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

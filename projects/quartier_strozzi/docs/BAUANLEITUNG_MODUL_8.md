@@ -8,33 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 55.749 |
-| Bauschritte | 38 |
-| Y-Bereich | 59 bis 97 |
+| Blöcke | 48.802 |
+| Bauschritte | 33 |
+| Y-Bereich | 59 bis 94 |
 | X-Ausdehnung | -1041 bis -889 (153 Blöcke) |
 | Z-Ausdehnung | 45 bis 128 (84 Blöcke) |
-| Kleinster Schritt | 409 Blöcke (Schritt 8.1) |
-| Mittlerer Schritt | 1.467 Blöcke |
-| Größter Schritt | 2.074 Blöcke (Schritt 8.2) |
+| Kleinster Schritt | 921 Blöcke (Schritt 8.9) |
+| Mittlerer Schritt | 1.479 Blöcke |
+| Größter Schritt | 2.022 Blöcke (Schritt 8.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 17.904 | 32,1 % |
-| Terrakotta | `terracotta` | 14.703 | 26,4 % |
-| Polierter Andesit | `polished_andesite` | 8.754 | 15,7 % |
-| Polierter Tuffstein | `polished_tuff` | 6.440 | 11,6 % |
-| Glatter Stein | `smooth_stone` | 3.745 | 6,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.897 | 3,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.553 | 2,8 % |
-| Ziegelsteine | `bricks` | 636 | 1,1 % |
+| Terrakotta | `terracotta` | 14.703 | 30,1 % |
+| Tuffstein | `tuff` | 10.958 | 22,5 % |
+| Polierter Andesit | `polished_andesite` | 8.750 | 17,9 % |
+| Polierter Tuffstein | `polished_tuff` | 6.458 | 13,2 % |
+| Glatter Stein | `smooth_stone` | 3.748 | 7,7 % |
+| Graues Buntglas | `gray_stained_glass` | 1.897 | 3,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.553 | 3,2 % |
+| Ziegelsteine | `bricks` | 636 | 1,3 % |
 | Seelaterne | `sea_lantern` | 62 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 15 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 3 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 | 0,0 % |
@@ -46,179 +44,22 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 22 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 18 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1610588` | Palazzo Antinori | 50.274 | 8.1–8.35 |
-| 2 | `r1610588_innen` | Palazzo Antinori: Innenausbau | 5.472 | 8.36–8.38 |
-| 3 | `strassenschilder` | Straßenschilder | 3 | 8.38 |
+| 1 | `r1610588` | Palazzo Antinori | 43.327 | 8.1–8.30 |
+| 2 | `r1610588_innen` | Palazzo Antinori: Innenausbau | 5.472 | 8.31–8.33 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 8.33 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo Antinori – Teil 1/35 (Y 59–61)
+### Schritt 8.1 – Palazzo Antinori – Teil 1/30 (Y 59–61)
 
 - **Y-Bereich:** 59 bis 61
-- **Blöcke:** 409
-- **Bauteile:** `r1610588`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 409 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.2 – Palazzo Antinori – Teil 2/35 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 2.074
-- **Bauteile:** `r1610588`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 2.068 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.3 – Palazzo Antinori – Teil 3/35 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.547
-- **Bauteile:** `r1610588`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.547 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.4 – Palazzo Antinori – Teil 4/35 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.532
-- **Bauteile:** `r1610588`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.526 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.5 – Palazzo Antinori – Teil 5/35 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.515
-- **Bauteile:** `r1610588`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.515 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 2 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.6 – Palazzo Antinori – Teil 6/35 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.608
+- **Blöcke:** 1.727
 - **Bauteile:** `r1610588`
 
 **Teileliste**
@@ -226,6 +67,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.608 |
+| Tuffstein | `tuff` | 119 |
 
 **Beschreibung**
 
@@ -243,25 +85,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – Palazzo Antinori – Teil 7/35 (Y 64–64)
+### Schritt 8.2 – Palazzo Antinori – Teil 2/30 (Y 61–61)
 
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.633
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.645
 - **Bauteile:** `r1610588`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.627 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.645 |
 
 **Beschreibung**
 
@@ -279,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.8 – Palazzo Antinori – Teil 8/35 (Y 64–64)
+### Schritt 8.3 – Palazzo Antinori – Teil 3/30 (Y 61–61)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.579
 - **Bauteile:** `r1610588`
 
@@ -307,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.9 – Palazzo Antinori – Teil 9/35 (Y 64–64)
+### Schritt 8.4 – Palazzo Antinori – Teil 4/30 (Y 61–61)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.626
 - **Bauteile:** `r1610588`
 
@@ -335,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – Palazzo Antinori – Teil 10/35 (Y 65–65)
+### Schritt 8.5 – Palazzo Antinori – Teil 5/30 (Y 62–62)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.089
 - **Bauteile:** `r1610588`
 
@@ -366,9 +200,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.11 – Palazzo Antinori – Teil 11/35 (Y 66–66)
+### Schritt 8.6 – Palazzo Antinori – Teil 6/30 (Y 63–63)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.089
 - **Bauteile:** `r1610588`
 
@@ -397,17 +231,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.12 – Palazzo Antinori – Teil 12/35 (Y 67–67)
+### Schritt 8.7 – Palazzo Antinori – Teil 7/30 (Y 64–64)
 
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.218
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.214
 - **Bauteile:** `r1610588`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 544 |
+| Polierter Andesit | `polished_andesite` | 540 |
 | Tuffstein | `tuff` | 539 |
 | Tuffsteinziegel | `tuff_bricks` | 114 |
 | Glatter Stein | `smooth_stone` | 21 |
@@ -428,9 +262,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.13 – Palazzo Antinori – Teil 13/35 (Y 68–69)
+### Schritt 8.8 – Palazzo Antinori – Teil 8/30 (Y 65–66)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.842
 - **Bauteile:** `r1610588`
 
@@ -460,9 +294,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.14 – Palazzo Antinori – Teil 14/35 (Y 70–70)
+### Schritt 8.9 – Palazzo Antinori – Teil 9/30 (Y 67–67)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 921
 - **Bauteile:** `r1610588`
 
@@ -492,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.15 – Palazzo Antinori – Teil 15/35 (Y 71–72)
+### Schritt 8.10 – Palazzo Antinori – Teil 10/30 (Y 68–69)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 2.022
 - **Bauteile:** `r1610588`
 
@@ -524,9 +358,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.16 – Palazzo Antinori – Teil 16/35 (Y 73–73)
+### Schritt 8.11 – Palazzo Antinori – Teil 11/30 (Y 70–70)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.095
 - **Bauteile:** `r1610588`
 
@@ -555,9 +389,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.17 – Palazzo Antinori – Teil 17/35 (Y 74–74)
+### Schritt 8.12 – Palazzo Antinori – Teil 12/30 (Y 71–71)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.102
 - **Bauteile:** `r1610588`
 
@@ -586,9 +420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.18 – Palazzo Antinori – Teil 18/35 (Y 75–75)
+### Schritt 8.13 – Palazzo Antinori – Teil 13/30 (Y 72–72)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.473
 - **Bauteile:** `r1610588`
 
@@ -617,9 +451,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.19 – Palazzo Antinori – Teil 19/35 (Y 76–76)
+### Schritt 8.14 – Palazzo Antinori – Teil 14/30 (Y 73–73)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.102
 - **Bauteile:** `r1610588`
 
@@ -647,9 +481,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.20 – Palazzo Antinori – Teil 20/35 (Y 77–77)
+### Schritt 8.15 – Palazzo Antinori – Teil 15/30 (Y 74–74)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.102
 - **Bauteile:** `r1610588`
 
@@ -677,9 +511,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.21 – Palazzo Antinori – Teil 21/35 (Y 78–78)
+### Schritt 8.16 – Palazzo Antinori – Teil 16/30 (Y 75–75)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.267
 - **Bauteile:** `r1610588`
 
@@ -707,9 +541,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.22 – Palazzo Antinori – Teil 22/35 (Y 79–80)
+### Schritt 8.17 – Palazzo Antinori – Teil 17/30 (Y 76–77)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.820
 - **Bauteile:** `r1610588`
 
@@ -738,9 +572,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.23 – Palazzo Antinori – Teil 23/35 (Y 81–82)
+### Schritt 8.18 – Palazzo Antinori – Teil 18/30 (Y 78–79)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.820
 - **Bauteile:** `r1610588`
 
@@ -769,9 +603,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.24 – Palazzo Antinori – Teil 24/35 (Y 83–84)
+### Schritt 8.19 – Palazzo Antinori – Teil 19/30 (Y 80–81)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 2.002
 - **Bauteile:** `r1610588`
 
@@ -800,9 +634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.25 – Palazzo Antinori – Teil 25/35 (Y 85–85)
+### Schritt 8.20 – Palazzo Antinori – Teil 20/30 (Y 82–82)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.485
 - **Bauteile:** `r1610588`
 
@@ -830,9 +664,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.26 – Palazzo Antinori – Teil 26/35 (Y 86–86)
+### Schritt 8.21 – Palazzo Antinori – Teil 21/30 (Y 83–83)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.930
 - **Bauteile:** `r1610588`
 
@@ -860,17 +694,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.27 – Palazzo Antinori – Teil 27/35 (Y 87–87)
+### Schritt 8.22 – Palazzo Antinori – Teil 22/30 (Y 84–84)
 
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.208
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.211
 - **Bauteile:** `r1610588`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 720 |
+| Glatter Stein | `smooth_stone` | 723 |
 | Polierter Andesit | `polished_andesite` | 262 |
 | Tuffstein | `tuff` | 226 |
 
@@ -890,9 +724,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.28 – Palazzo Antinori – Teil 28/35 (Y 87–87)
+### Schritt 8.23 – Palazzo Antinori – Teil 23/30 (Y 84–84)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.173
 - **Bauteile:** `r1610588`
 
@@ -920,9 +754,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.29 – Palazzo Antinori – Teil 29/35 (Y 88–88)
+### Schritt 8.24 – Palazzo Antinori – Teil 24/30 (Y 85–85)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.575
 - **Bauteile:** `r1610588`
 
@@ -948,9 +782,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.30 – Palazzo Antinori – Teil 30/35 (Y 88–88)
+### Schritt 8.25 – Palazzo Antinori – Teil 25/30 (Y 85–85)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.569
 - **Bauteile:** `r1610588`
 
@@ -976,9 +810,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.31 – Palazzo Antinori – Teil 31/35 (Y 89–89)
+### Schritt 8.26 – Palazzo Antinori – Teil 26/30 (Y 86–86)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.635
 - **Bauteile:** `r1610588`
 
@@ -1004,9 +838,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.32 – Palazzo Antinori – Teil 32/35 (Y 90–90)
+### Schritt 8.27 – Palazzo Antinori – Teil 27/30 (Y 87–87)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.722
 - **Bauteile:** `r1610588`
 
@@ -1032,9 +866,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.33 – Palazzo Antinori – Teil 33/35 (Y 91–91)
+### Schritt 8.28 – Palazzo Antinori – Teil 28/30 (Y 88–88)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.311
 - **Bauteile:** `r1610588`
 
@@ -1061,9 +895,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.34 – Palazzo Antinori – Teil 34/35 (Y 92–92)
+### Schritt 8.29 – Palazzo Antinori – Teil 29/30 (Y 89–89)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.087
 - **Bauteile:** `r1610588`
 
@@ -1090,9 +924,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.35 – Palazzo Antinori – Teil 35/35 (Y 93–97)
+### Schritt 8.30 – Palazzo Antinori – Teil 30/30 (Y 90–94)
 
-- **Y-Bereich:** 93 bis 97
+- **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.092
 - **Bauteile:** `r1610588`
 
@@ -1119,9 +953,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.36 – Palazzo Antinori: Innenausbau – Teil 1/3 (Y 64–75)
+### Schritt 8.31 – Palazzo Antinori: Innenausbau – Teil 1/3 (Y 61–72)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.879
 - **Bauteile:** `r1610588_innen`
 
@@ -1161,9 +995,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.37 – Palazzo Antinori: Innenausbau – Teil 2/3 (Y 75–75)
+### Schritt 8.32 – Palazzo Antinori: Innenausbau – Teil 2/3 (Y 72–72)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.794
 - **Bauteile:** `r1610588_innen`
 
@@ -1190,9 +1024,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.38 – Palazzo Antinori: Innenausbau – Teil 3/3 (Y 75–76) & Straßenschilder
+### Schritt 8.33 – Palazzo Antinori: Innenausbau – Teil 3/3 (Y 72–73) & Straßenschilder
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.802
 - **Bauteile:** `r1610588_innen`, `strassenschilder`
 

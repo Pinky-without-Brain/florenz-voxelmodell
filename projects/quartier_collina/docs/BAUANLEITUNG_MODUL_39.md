@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 12.631 |
 | Bauschritte | 7 |
-| Y-Bereich | 182 bis 217 |
+| Y-Bereich | 181 bis 216 |
 | X-Ausdehnung | 1288 bis 1345 (58 Blöcke) |
 | Z-Ausdehnung | 2414 bis 2444 (31 Blöcke) |
 | Kleinster Schritt | 1.562 Blöcke (Schritt 39.7) |
@@ -57,9 +57,9 @@
 
 ## Bauschritte
 
-### Schritt 39.1 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 1/6 (Y 182–185)
+### Schritt 39.1 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 1/6 (Y 181–184)
 
-- **Y-Bereich:** 182 bis 185
+- **Y-Bereich:** 181 bis 184
 - **Blöcke:** 1.902
 - **Bauteile:** `w1239430832`
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.2 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 2/6 (Y 186–192)
+### Schritt 39.2 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 2/6 (Y 185–191)
 
-- **Y-Bereich:** 186 bis 192
+- **Y-Bereich:** 185 bis 191
 - **Blöcke:** 1.851
 - **Bauteile:** `w1239430832`
 
@@ -121,9 +121,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.3 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 3/6 (Y 193–199)
+### Schritt 39.3 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 3/6 (Y 192–198)
 
-- **Y-Bereich:** 193 bis 199
+- **Y-Bereich:** 192 bis 198
 - **Blöcke:** 1.881
 - **Bauteile:** `w1239430832`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.4 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 4/6 (Y 200–205)
+### Schritt 39.4 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 4/6 (Y 199–204)
 
-- **Y-Bereich:** 200 bis 205
+- **Y-Bereich:** 199 bis 204
 - **Blöcke:** 1.689
 - **Bauteile:** `w1239430832`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.5 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 5/6 (Y 206–211)
+### Schritt 39.5 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 5/6 (Y 205–210)
 
-- **Y-Bereich:** 206 bis 211
+- **Y-Bereich:** 205 bis 210
 - **Blöcke:** 1.708
 - **Bauteile:** `w1239430832`
 
@@ -216,9 +216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.6 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 6/6 (Y 212–217)
+### Schritt 39.6 – Palazzo des Cinquecento an Piazzale Michelangiolo – Teil 6/6 (Y 211–216)
 
-- **Y-Bereich:** 212 bis 217
+- **Y-Bereich:** 211 bis 216
 - **Blöcke:** 2.038
 - **Bauteile:** `w1239430832`
 
@@ -250,7 +250,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 39.7 – Palazzo des Cinquecento an Piazzale Michelangiolo: Innenausbau
 
-- **Y-Bereich:** 182 bis 203
+- **Y-Bereich:** 181 bis 202
 - **Blöcke:** 1.562
 - **Bauteile:** `w1239430832_innen`
 

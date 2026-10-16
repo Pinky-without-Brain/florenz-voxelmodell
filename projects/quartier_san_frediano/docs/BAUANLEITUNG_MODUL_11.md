@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.376 |
-| Bauschritte | 54 |
-| Y-Bereich | 54 bis 97 |
+| Blöcke | 83.857 |
+| Bauschritte | 53 |
+| Y-Bereich | 54 bis 96 |
 | X-Ausdehnung | -2432 bis -2297 (136 Blöcke) |
 | Z-Ausdehnung | 795 bis 965 (171 Blöcke) |
-| Kleinster Schritt | 647 Blöcke (Schritt 11.1) |
-| Mittlerer Schritt | 1.563 Blöcke |
-| Größter Schritt | 2.074 Blöcke (Schritt 11.47) |
+| Kleinster Schritt | 1.160 Blöcke (Schritt 11.40) |
+| Mittlerer Schritt | 1.582 Blöcke |
+| Größter Schritt | 2.074 Blöcke (Schritt 11.46) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 29.028 | 34,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 28.304 | 33,5 % |
-| Polierter Tuffstein | `polished_tuff` | 9.450 | 11,2 % |
-| Glatter Stein | `smooth_stone` | 8.947 | 10,6 % |
+| Terrakotta | `terracotta` | 29.028 | 34,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 28.304 | 33,8 % |
+| Polierter Tuffstein | `polished_tuff` | 9.450 | 11,3 % |
+| Glatter Stein | `smooth_stone` | 8.947 | 10,7 % |
 | Graues Buntglas | `gray_stained_glass` | 3.644 | 4,3 % |
 | Grüner Beton | `green_concrete` | 2.128 | 2,5 % |
 | Ziegelsteine | `bricks` | 1.589 | 1,9 % |
-| Tuffstein | `tuff` | 647 | 0,8 % |
 | Polierter Andesit | `polished_andesite` | 435 | 0,5 % |
 | Seelaterne | `sea_lantern` | 129 | 0,2 % |
+| Tuffstein | `tuff` | 128 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 17 | 0,0 % |
@@ -53,43 +53,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118429110` | Palazzo des Ottocento an Via del Drago d'Oro | 68.251 | 11.1–11.46 |
-| 2 | `w118429110_innen` | Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau | 16.125 | 11.47–11.54 |
+| 1 | `w118429110` | Palazzo des Ottocento an Via del Drago d'Oro | 67.732 | 11.1–11.45 |
+| 2 | `w118429110_innen` | Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau | 16.125 | 11.46–11.53 |
 
 ## Bauschritte
 
-### Schritt 11.1 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 1/46 (Y 54–56)
+### Schritt 11.1 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 1/45 (Y 54–56)
 
 - **Y-Bereich:** 54 bis 56
-- **Blöcke:** 647
-- **Bauteile:** `w118429110`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 647 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.2 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 2/46 (Y 57–57)
-
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.854
+- **Blöcke:** 1.982
 - **Bauteile:** `w118429110`
 
 **Teileliste**
@@ -97,6 +69,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.854 |
+| Tuffstein | `tuff` | 128 |
 
 **Beschreibung**
 
@@ -114,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 3/46 (Y 57–57)
+### Schritt 11.2 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 2/45 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.917
 - **Bauteile:** `w118429110`
 
@@ -142,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.4 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 4/46 (Y 57–57)
+### Schritt 11.3 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 3/45 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.901
 - **Bauteile:** `w118429110`
 
@@ -170,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.5 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 5/46 (Y 57–57)
+### Schritt 11.4 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 4/45 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.918
 - **Bauteile:** `w118429110`
 
@@ -198,9 +171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.6 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 6/46 (Y 57–57)
+### Schritt 11.5 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 5/45 (Y 56–56)
 
-- **Y-Bereich:** 57 bis 57
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.860
 - **Bauteile:** `w118429110`
 
@@ -226,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.7 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 7/46 (Y 58–58)
+### Schritt 11.6 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 6/45 (Y 57–57)
 
-- **Y-Bereich:** 58 bis 58
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.485
 - **Bauteile:** `w118429110`
 
@@ -257,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.8 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 8/46 (Y 59–59)
+### Schritt 11.7 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 7/45 (Y 58–58)
 
-- **Y-Bereich:** 59 bis 59
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.485
 - **Bauteile:** `w118429110`
 
@@ -288,9 +261,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.9 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 9/46 (Y 60–60)
+### Schritt 11.8 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 8/45 (Y 59–59)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.654
 - **Bauteile:** `w118429110`
 
@@ -319,7 +292,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.10 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 10/46 (Y 61–61)
+### Schritt 11.9 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 9/45 (Y 60–60)
+
+- **Y-Bereich:** 60 bis 60
+- **Blöcke:** 1.270
+- **Bauteile:** `w118429110`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 657 |
+| Graues Buntglas | `gray_stained_glass` | 259 |
+| Glatter Stein | `smooth_stone` | 191 |
+| Grüner Beton | `green_concrete` | 152 |
+| Polierter Andesit | `polished_andesite` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 11.10 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 10/45 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.270
@@ -329,11 +335,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 657 |
+| Gelbe Keramik | `yellow_terracotta` | 645 |
 | Graues Buntglas | `gray_stained_glass` | 259 |
 | Glatter Stein | `smooth_stone` | 191 |
 | Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 10 |
+| Polierter Andesit | `polished_andesite` | 22 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
 **Beschreibung**
@@ -352,7 +358,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.11 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 11/46 (Y 62–62)
+### Schritt 11.11 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 11/45 (Y 62–62)
 
 - **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.270
@@ -362,39 +368,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 645 |
-| Graues Buntglas | `gray_stained_glass` | 259 |
-| Glatter Stein | `smooth_stone` | 191 |
-| Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 22 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.12 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 12/46 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.270
-- **Bauteile:** `w118429110`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 657 |
 | Graues Buntglas | `gray_stained_glass` | 259 |
 | Glatter Stein | `smooth_stone` | 191 |
@@ -418,9 +391,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.13 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 13/46 (Y 64–64)
+### Schritt 11.12 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 12/45 (Y 63–63)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.270
 - **Bauteile:** `w118429110`
 
@@ -451,9 +424,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.14 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 14/46 (Y 65–65)
+### Schritt 11.13 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 13/45 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.272
 - **Bauteile:** `w118429110`
 
@@ -484,9 +457,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.15 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 15/46 (Y 66–66)
+### Schritt 11.14 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 14/45 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.491
 - **Bauteile:** `w118429110`
 
@@ -515,9 +488,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.16 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 16/46 (Y 67–67)
+### Schritt 11.15 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 15/45 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -546,9 +519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.17 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 17/46 (Y 68–68)
+### Schritt 11.16 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 16/45 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -577,9 +550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.18 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 18/46 (Y 69–69)
+### Schritt 11.17 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 17/45 (Y 68–68)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -606,9 +579,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.19 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 19/46 (Y 70–70)
+### Schritt 11.18 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 18/45 (Y 69–69)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.670
 - **Bauteile:** `w118429110`
 
@@ -636,7 +609,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.20 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 20/46 (Y 71–71)
+### Schritt 11.19 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 19/45 (Y 70–70)
+
+- **Y-Bereich:** 70 bis 70
+- **Blöcke:** 1.282
+- **Bauteile:** `w118429110`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 668 |
+| Graues Buntglas | `gray_stained_glass` | 261 |
+| Glatter Stein | `smooth_stone` | 192 |
+| Grüner Beton | `green_concrete` | 152 |
+| Polierter Andesit | `polished_andesite` | 9 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 11.20 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 20/45 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.282
@@ -646,11 +651,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 668 |
+| Gelbe Keramik | `yellow_terracotta` | 656 |
 | Graues Buntglas | `gray_stained_glass` | 261 |
 | Glatter Stein | `smooth_stone` | 192 |
 | Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
 
@@ -668,7 +673,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.21 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 21/46 (Y 72–72)
+### Schritt 11.21 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 21/45 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.282
@@ -678,38 +683,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 656 |
-| Graues Buntglas | `gray_stained_glass` | 261 |
-| Glatter Stein | `smooth_stone` | 192 |
-| Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 21 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.22 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 22/46 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.282
-- **Bauteile:** `w118429110`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 668 |
 | Graues Buntglas | `gray_stained_glass` | 261 |
 | Glatter Stein | `smooth_stone` | 192 |
@@ -732,9 +705,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.23 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 23/46 (Y 74–74)
+### Schritt 11.22 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 22/45 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.282
 - **Bauteile:** `w118429110`
 
@@ -764,9 +737,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.24 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 24/46 (Y 75–75)
+### Schritt 11.23 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 23/45 (Y 74–74)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -794,9 +767,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.25 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 25/46 (Y 76–76)
+### Schritt 11.24 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 24/45 (Y 75–75)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -824,9 +797,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.26 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 26/46 (Y 77–77)
+### Schritt 11.25 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 25/45 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -853,9 +826,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.27 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 27/46 (Y 78–78)
+### Schritt 11.26 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 26/45 (Y 77–77)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -882,9 +855,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.28 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 28/46 (Y 79–79)
+### Schritt 11.27 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 27/45 (Y 78–78)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.670
 - **Bauteile:** `w118429110`
 
@@ -912,7 +885,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.29 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 29/46 (Y 80–80)
+### Schritt 11.28 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 28/45 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.282
+- **Bauteile:** `w118429110`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 656 |
+| Graues Buntglas | `gray_stained_glass` | 261 |
+| Glatter Stein | `smooth_stone` | 192 |
+| Grüner Beton | `green_concrete` | 152 |
+| Polierter Andesit | `polished_andesite` | 21 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 11.29 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 29/45 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.282
@@ -922,11 +927,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 656 |
+| Gelbe Keramik | `yellow_terracotta` | 668 |
 | Graues Buntglas | `gray_stained_glass` | 261 |
 | Glatter Stein | `smooth_stone` | 192 |
 | Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 21 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
@@ -944,7 +949,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.30 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 30/46 (Y 81–81)
+### Schritt 11.30 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 30/45 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.282
@@ -954,11 +959,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 668 |
+| Gelbe Keramik | `yellow_terracotta` | 656 |
 | Graues Buntglas | `gray_stained_glass` | 261 |
 | Glatter Stein | `smooth_stone` | 192 |
 | Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 9 |
+| Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
 
@@ -976,7 +981,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.31 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 31/46 (Y 82–82)
+### Schritt 11.31 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 31/45 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.282
@@ -986,38 +991,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 656 |
-| Graues Buntglas | `gray_stained_glass` | 261 |
-| Glatter Stein | `smooth_stone` | 192 |
-| Grüner Beton | `green_concrete` | 152 |
-| Polierter Andesit | `polished_andesite` | 21 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 11.32 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 32/46 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.282
-- **Bauteile:** `w118429110`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 668 |
 | Graues Buntglas | `gray_stained_glass` | 261 |
 | Glatter Stein | `smooth_stone` | 192 |
@@ -1040,9 +1013,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.33 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 33/46 (Y 84–84)
+### Schritt 11.32 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 32/45 (Y 83–83)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.282
 - **Bauteile:** `w118429110`
 
@@ -1072,9 +1045,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.34 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 34/46 (Y 85–85)
+### Schritt 11.33 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 33/45 (Y 84–84)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.499
 - **Bauteile:** `w118429110`
 
@@ -1102,9 +1075,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.35 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 35/46 (Y 86–86)
+### Schritt 11.34 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 34/45 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 2.043
 - **Bauteile:** `w118429110`
 
@@ -1132,9 +1105,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.36 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 36/46 (Y 87–87)
+### Schritt 11.35 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 35/45 (Y 86–86)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 2.043
 - **Bauteile:** `w118429110`
 
@@ -1161,9 +1134,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.37 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 37/46 (Y 88–88)
+### Schritt 11.36 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 36/45 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.748
 - **Bauteile:** `w118429110`
 
@@ -1189,9 +1162,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.38 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 38/46 (Y 88–88)
+### Schritt 11.37 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 37/45 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.751
 - **Bauteile:** `w118429110`
 
@@ -1217,9 +1190,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.39 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 39/46 (Y 89–89)
+### Schritt 11.38 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 38/45 (Y 88–88)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 2.060
 - **Bauteile:** `w118429110`
 
@@ -1245,9 +1218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.40 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 40/46 (Y 90–90)
+### Schritt 11.39 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 39/45 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.172
 - **Bauteile:** `w118429110`
 
@@ -1273,9 +1246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.41 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 41/46 (Y 90–90)
+### Schritt 11.40 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 40/45 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.160
 - **Bauteile:** `w118429110`
 
@@ -1301,9 +1274,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.42 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 42/46 (Y 91–91)
+### Schritt 11.41 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 41/45 (Y 90–90)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.168
 - **Bauteile:** `w118429110`
 
@@ -1330,9 +1303,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.43 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 43/46 (Y 91–91)
+### Schritt 11.42 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 42/45 (Y 90–90)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.180
 - **Bauteile:** `w118429110`
 
@@ -1359,9 +1332,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.44 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 44/46 (Y 92–92)
+### Schritt 11.43 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 43/45 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.222
 - **Bauteile:** `w118429110`
 
@@ -1388,9 +1361,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.45 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 45/46 (Y 92–92)
+### Schritt 11.44 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 44/45 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.215
 - **Bauteile:** `w118429110`
 
@@ -1417,9 +1390,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.46 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 46/46 (Y 93–97)
+### Schritt 11.45 – Palazzo des Ottocento an Via del Drago d'Oro – Teil 45/45 (Y 92–96)
 
-- **Y-Bereich:** 93 bis 97
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 2.055
 - **Bauteile:** `w118429110`
 
@@ -1446,9 +1419,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.47 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 1/8 (Y 57–68)
+### Schritt 11.46 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 1/8 (Y 56–67)
 
-- **Y-Bereich:** 57 bis 68
+- **Y-Bereich:** 56 bis 67
 - **Blöcke:** 2.074
 - **Bauteile:** `w118429110_innen`
 
@@ -1488,9 +1461,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.48 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 2/8 (Y 68–68)
+### Schritt 11.47 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 2/8 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.013
 - **Bauteile:** `w118429110_innen`
 
@@ -1517,9 +1490,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.49 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 3/8 (Y 68–68)
+### Schritt 11.48 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 3/8 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.937
 - **Bauteile:** `w118429110_innen`
 
@@ -1546,9 +1519,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.50 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 4/8 (Y 68–68)
+### Schritt 11.49 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 4/8 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 2.058
 - **Bauteile:** `w118429110_innen`
 
@@ -1575,9 +1548,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.51 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 5/8 (Y 69–77)
+### Schritt 11.50 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 5/8 (Y 68–76)
 
-- **Y-Bereich:** 69 bis 77
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 2.026
 - **Bauteile:** `w118429110_innen`
 
@@ -1615,9 +1588,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.52 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 6/8 (Y 77–77)
+### Schritt 11.51 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 6/8 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 2.013
 - **Bauteile:** `w118429110_innen`
 
@@ -1644,9 +1617,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.53 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 7/8 (Y 77–77)
+### Schritt 11.52 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 7/8 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.937
 - **Bauteile:** `w118429110_innen`
 
@@ -1673,9 +1646,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.54 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 8/8 (Y 77–78)
+### Schritt 11.53 – Palazzo des Ottocento an Via del Drago d'Oro: Innenausbau – Teil 8/8 (Y 76–77)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 2.067
 - **Bauteile:** `w118429110_innen`
 

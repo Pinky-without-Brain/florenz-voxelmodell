@@ -8,27 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 9.720 |
+| Blöcke | 9.613 |
 | Bauschritte | 6 |
-| Y-Bereich | 58 bis 93 |
+| Y-Bereich | 58 bis 92 |
 | X-Ausdehnung | -2306 bis -2257 (50 Blöcke) |
 | Z-Ausdehnung | -28 bis 9 (38 Blöcke) |
 | Kleinster Schritt | 805 Blöcke (Schritt 2.6) |
-| Mittlerer Schritt | 1.620 Blöcke |
-| Größter Schritt | 1.896 Blöcke (Schritt 2.2) |
+| Mittlerer Schritt | 1.602 Blöcke |
+| Größter Schritt | 1.878 Blöcke (Schritt 2.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 4.506 | 46,4 % |
-| Terrakotta | `terracotta` | 1.527 | 15,7 % |
-| Weißer Beton | `white_concrete` | 1.299 | 13,4 % |
-| Glatter Stein | `smooth_stone` | 654 | 6,7 % |
-| Polierter Tuffstein | `polished_tuff` | 606 | 6,2 % |
-| Graues Buntglas | `gray_stained_glass` | 520 | 5,3 % |
+| Rosa Keramik | `pink_terracotta` | 4.506 | 46,9 % |
+| Terrakotta | `terracotta` | 1.527 | 15,9 % |
+| Weißer Beton | `white_concrete` | 1.299 | 13,5 % |
+| Glatter Stein | `smooth_stone` | 654 | 6,8 % |
+| Polierter Tuffstein | `polished_tuff` | 606 | 6,3 % |
+| Graues Buntglas | `gray_stained_glass` | 520 | 5,4 % |
 | Polierter Andesit | `polished_andesite` | 318 | 3,3 % |
-| Tuffstein | `tuff` | 107 | 1,1 % |
 | Grüner Beton | `green_concrete` | 84 | 0,9 % |
 | Ziegelsteine | `bricks` | 39 | 0,4 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,2 % |
@@ -46,7 +45,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w442906518` | Haus w442906518 | 8.915 | 2.1–2.5 |
+| 1 | `w442906518` | Haus w442906518 | 8.808 | 2.1–2.5 |
 | 2 | `w442906518_innen` | Haus w442906518: Innenausbau | 805 | 2.6 |
 
 ## Bauschritte
@@ -54,21 +53,20 @@
 ### Schritt 2.1 – Haus w442906518 – Teil 1/5 (Y 58–63)
 
 - **Y-Bereich:** 58 bis 63
-- **Blöcke:** 1.711
+- **Blöcke:** 1.826
 - **Bauteile:** `w442906518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 686 |
+| Rosa Keramik | `pink_terracotta` | 805 |
 | Polierter Tuffstein | `polished_tuff` | 606 |
-| Weißer Beton | `white_concrete` | 208 |
-| Tuffstein | `tuff` | 107 |
-| Polierter Andesit | `polished_andesite` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Glatter Stein | `smooth_stone` | 9 |
-| Grüner Beton | `green_concrete` | 6 |
+| Weißer Beton | `white_concrete` | 244 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Polierter Andesit | `polished_andesite` | 67 |
+| Glatter Stein | `smooth_stone` | 16 |
+| Grüner Beton | `green_concrete` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
@@ -87,22 +85,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Haus w442906518 – Teil 2/5 (Y 64–71)
+### Schritt 2.2 – Haus w442906518 – Teil 2/5 (Y 64–70)
 
-- **Y-Bereich:** 64 bis 71
-- **Blöcke:** 1.896
+- **Y-Bereich:** 64 bis 70
+- **Blöcke:** 1.674
 - **Bauteile:** `w442906518`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.266 |
-| Weißer Beton | `white_concrete` | 255 |
-| Glatter Stein | `smooth_stone` | 161 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Polierter Andesit | `polished_andesite` | 86 |
-| Grüner Beton | `green_concrete` | 18 |
+| Rosa Keramik | `pink_terracotta` | 1.147 |
+| Weißer Beton | `white_concrete` | 219 |
+| Glatter Stein | `smooth_stone` | 154 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
+| Polierter Andesit | `polished_andesite` | 67 |
+| Grüner Beton | `green_concrete` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
@@ -121,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Haus w442906518 – Teil 3/5 (Y 72–79)
+### Schritt 2.3 – Haus w442906518 – Teil 3/5 (Y 71–78)
 
-- **Y-Bereich:** 72 bis 79
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.838
 - **Bauteile:** `w442906518`
 
@@ -154,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Haus w442906518 – Teil 4/5 (Y 80–86)
+### Schritt 2.4 – Haus w442906518 – Teil 4/5 (Y 79–85)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.592
 - **Bauteile:** `w442906518`
 
@@ -186,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Haus w442906518 – Teil 5/5 (Y 87–93)
+### Schritt 2.5 – Haus w442906518 – Teil 5/5 (Y 86–92)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.878
 - **Bauteile:** `w442906518`
 
@@ -221,7 +219,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.6 – Haus w442906518: Innenausbau
 
-- **Y-Bereich:** 59 bis 79
+- **Y-Bereich:** 58 bis 78
 - **Blöcke:** 805
 - **Bauteile:** `w442906518_innen`
 

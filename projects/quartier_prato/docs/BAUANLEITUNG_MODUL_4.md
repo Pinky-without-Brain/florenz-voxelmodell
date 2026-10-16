@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 113.033 |
-| Bauschritte | 70 |
-| Y-Bereich | 55 bis 97 |
+| Blöcke | 112.214 |
+| Bauschritte | 69 |
+| Y-Bereich | 55 bis 96 |
 | X-Ausdehnung | -3113 bis -2858 (256 Blöcke) |
 | Z-Ausdehnung | -625 bis -437 (189 Blöcke) |
-| Kleinster Schritt | 733 Blöcke (Schritt 4.50) |
-| Mittlerer Schritt | 1.615 Blöcke |
+| Kleinster Schritt | 1.033 Blöcke (Schritt 4.48) |
+| Mittlerer Schritt | 1.626 Blöcke |
 | Größter Schritt | 2.067 Blöcke (Schritt 4.44) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 36.387 | 32,2 % |
-| Weißer Beton | `white_concrete` | 18.640 | 16,5 % |
-| Gelbe Keramik | `yellow_terracotta` | 14.912 | 13,2 % |
-| Polierter Tuffstein | `polished_tuff` | 11.422 | 10,1 % |
-| Endsteinziegel | `end_stone_bricks` | 9.272 | 8,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 6.139 | 5,4 % |
-| Tuffstein | `tuff` | 4.558 | 4,0 % |
+| Terrakotta | `terracotta` | 36.388 | 32,4 % |
+| Weißer Beton | `white_concrete` | 18.640 | 16,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 14.857 | 13,2 % |
+| Polierter Tuffstein | `polished_tuff` | 11.422 | 10,2 % |
+| Endsteinziegel | `end_stone_bricks` | 9.233 | 8,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.139 | 5,5 % |
+| Tuffstein | `tuff` | 3.822 | 3,4 % |
 | Polierter Andesit | `polished_andesite` | 3.149 | 2,8 % |
 | Glatter Stein | `smooth_stone` | 2.545 | 2,3 % |
 | Graues Buntglas | `gray_stained_glass` | 2.051 | 1,8 % |
@@ -36,17 +36,17 @@
 | Grüner Beton | `green_concrete` | 726 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 539 | 0,5 % |
 | Seelaterne | `sea_lantern` | 183 | 0,2 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 136 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 51 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 47 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 138 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 22 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 22 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 29 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 29 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 27 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 24 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 24 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -54,7 +54,7 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 120 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 108 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 112 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -62,15 +62,15 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1626994` | Palazzo des Cinquecento an Via Solferino | 27.287 | 4.1–4.17 |
 | 2 | `r1626994_innen` | Palazzo des Cinquecento an Via Solferino: Innenausbau | 5.564 | 4.18–4.21 |
-| 3 | `w461618392` | Palazzo des Cinquecento an Via Solferino | 17.179 | 4.22–4.31 |
-| 4 | `w461618392_innen` | Palazzo des Cinquecento an Via Solferino: Innenausbau | 3.790 | 4.32–4.33 |
+| 3 | `w461618392` | Palazzo des Cinquecento an Via Solferino | 17.091 | 4.22–4.31 |
+| 4 | `w461618392_innen` | Palazzo des Cinquecento an Via Solferino: Innenausbau | 3.794 | 4.32–4.33 |
 | 5 | `w461618399` | Renaissance-Palazzo an Via Solferino | 12.937 | 4.34–4.40 |
 | 6 | `w461618399_innen` | Renaissance-Palazzo an Via Solferino: Innenausbau | 3.373 | 4.41–4.42 |
 | 7 | `w461618401` | Reihenhaus an Via Solferino | 9.632 | 4.43–4.47 |
 | 8 | `w461618401_innen` | Reihenhaus an Via Solferino: Innenausbau | 2.980 | 4.48–4.49 |
-| 9 | `w461618404` | Reihenhaus an Via Solferino | 23.602 | 4.50–4.64 |
-| 10 | `w461618404_innen` | Reihenhaus an Via Solferino: Innenausbau | 6.687 | 4.65–4.70 |
-| 11 | `strassenschilder` | Straßenschilder | 2 | 4.70 |
+| 9 | `w461618404` | Reihenhaus an Via Solferino | 22.859 | 4.50–4.63 |
+| 10 | `w461618404_innen` | Reihenhaus an Via Solferino: Innenausbau | 6.695 | 4.64–4.69 |
+| 11 | `strassenschilder` | Straßenschilder | 2 | 4.69 |
 
 ## Bauschritte
 
@@ -750,10 +750,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.22 – Palazzo des Cinquecento an Via Solferino – Teil 1/10 (Y 56–57)
+### Schritt 4.22 – Palazzo des Cinquecento an Via Solferino – Teil 1/10 (Y 56–56)
 
-- **Y-Bereich:** 56 bis 57
-- **Blöcke:** 1.180
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 1.132
 - **Bauteile:** `w461618392`
 
 **Teileliste**
@@ -761,7 +761,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.132 |
-| Tuffstein | `tuff` | 48 |
 
 **Beschreibung**
 
@@ -779,9 +778,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.23 – Palazzo des Cinquecento an Via Solferino – Teil 2/10 (Y 57–59)
+### Schritt 4.23 – Palazzo des Cinquecento an Via Solferino – Teil 2/10 (Y 56–58)
 
-- **Y-Bereich:** 57 bis 59
+- **Y-Bereich:** 56 bis 58
 - **Blöcke:** 1.874
 - **Bauteile:** `w461618392`
 
@@ -811,9 +810,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.24 – Palazzo des Cinquecento an Via Solferino – Teil 3/10 (Y 60–64)
+### Schritt 4.24 – Palazzo des Cinquecento an Via Solferino – Teil 3/10 (Y 59–63)
 
-- **Y-Bereich:** 60 bis 64
+- **Y-Bereich:** 59 bis 63
 - **Blöcke:** 1.892
 - **Bauteile:** `w461618392`
 
@@ -844,9 +843,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.25 – Palazzo des Cinquecento an Via Solferino – Teil 4/10 (Y 65–69)
+### Schritt 4.25 – Palazzo des Cinquecento an Via Solferino – Teil 4/10 (Y 64–68)
 
-- **Y-Bereich:** 65 bis 69
+- **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.970
 - **Bauteile:** `w461618392`
 
@@ -875,9 +874,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.26 – Palazzo des Cinquecento an Via Solferino – Teil 5/10 (Y 70–73)
+### Schritt 4.26 – Palazzo des Cinquecento an Via Solferino – Teil 5/10 (Y 69–72)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.508
 - **Bauteile:** `w461618392`
 
@@ -906,9 +905,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.27 – Palazzo des Cinquecento an Via Solferino – Teil 6/10 (Y 74–78)
+### Schritt 4.27 – Palazzo des Cinquecento an Via Solferino – Teil 6/10 (Y 73–77)
 
-- **Y-Bereich:** 74 bis 78
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.953
 - **Bauteile:** `w461618392`
 
@@ -938,9 +937,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.28 – Palazzo des Cinquecento an Via Solferino – Teil 7/10 (Y 79–82)
+### Schritt 4.28 – Palazzo des Cinquecento an Via Solferino – Teil 7/10 (Y 78–81)
 
-- **Y-Bereich:** 79 bis 82
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 1.525
 - **Bauteile:** `w461618392`
 
@@ -969,9 +968,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.29 – Palazzo des Cinquecento an Via Solferino – Teil 8/10 (Y 83–86)
+### Schritt 4.29 – Palazzo des Cinquecento an Via Solferino – Teil 8/10 (Y 82–85)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.656
 - **Bauteile:** `w461618392`
 
@@ -1000,18 +999,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.30 – Palazzo des Cinquecento an Via Solferino – Teil 9/10 (Y 87–89)
+### Schritt 4.30 – Palazzo des Cinquecento an Via Solferino – Teil 9/10 (Y 86–88)
 
-- **Y-Bereich:** 87 bis 89
-- **Blöcke:** 2.042
+- **Y-Bereich:** 86 bis 88
+- **Blöcke:** 2.002
 - **Bauteile:** `w461618392`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.495 |
-| Endsteinziegel | `end_stone_bricks` | 544 |
+| Terrakotta | `terracotta` | 1.494 |
+| Endsteinziegel | `end_stone_bricks` | 505 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -1030,9 +1029,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.31 – Palazzo des Cinquecento an Via Solferino – Teil 10/10 (Y 90–97)
+### Schritt 4.31 – Palazzo des Cinquecento an Via Solferino – Teil 10/10 (Y 89–96)
 
-- **Y-Bereich:** 90 bis 97
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.579
 - **Bauteile:** `w461618392`
 
@@ -1059,17 +1058,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.32 – Palazzo des Cinquecento an Via Solferino: Innenausbau – Teil 1/2 (Y 57–67)
+### Schritt 4.32 – Palazzo des Cinquecento an Via Solferino: Innenausbau – Teil 1/2 (Y 56–66)
 
-- **Y-Bereich:** 57 bis 67
-- **Blöcke:** 1.897
+- **Y-Bereich:** 56 bis 66
+- **Blöcke:** 1.898
 - **Bauteile:** `w461618392_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.829 |
+| Terrakotta | `terracotta` | 1.830 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 22 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
@@ -1097,23 +1096,23 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.33 – Palazzo des Cinquecento an Via Solferino: Innenausbau – Teil 2/2 (Y 68–78)
+### Schritt 4.33 – Palazzo des Cinquecento an Via Solferino: Innenausbau – Teil 2/2 (Y 67–77)
 
-- **Y-Bereich:** 68 bis 78
-- **Blöcke:** 1.893
+- **Y-Bereich:** 67 bis 77
+- **Blöcke:** 1.896
 - **Bauteile:** `w461618392_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.829 |
+| Terrakotta | `terracotta` | 1.830 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Seelaterne | `sea_lantern` | 11 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1667,17 +1666,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.50 – Reihenhaus an Via Solferino – Teil 1/15 (Y 55–56)
+### Schritt 4.50 – Reihenhaus an Via Solferino – Teil 1/14 (Y 55–56)
 
 - **Y-Bereich:** 55 bis 56
-- **Blöcke:** 733
+- **Blöcke:** 1.444
 - **Bauteile:** `w461618404`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 733 |
+| Polierter Tuffstein | `polished_tuff` | 1.399 |
+| Tuffstein | `tuff` | 45 |
 
 **Beschreibung**
 
@@ -1695,45 +1695,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.51 – Reihenhaus an Via Solferino – Teil 2/15 (Y 57–57)
+### Schritt 4.51 – Reihenhaus an Via Solferino – Teil 2/14 (Y 56–57)
 
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.398
+- **Y-Bereich:** 56 bis 57
+- **Blöcke:** 1.908
 - **Bauteile:** `w461618404`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.398 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.52 – Reihenhaus an Via Solferino – Teil 3/15 (Y 57–58)
-
-- **Y-Bereich:** 57 bis 58
-- **Blöcke:** 1.909
-- **Bauteile:** `w461618404`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.348 |
+| Polierter Tuffstein | `polished_tuff` | 1.347 |
 | Gelbe Keramik | `yellow_terracotta` | 559 |
 | Glatter Stein | `smooth_stone` | 2 |
 
@@ -1753,9 +1725,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.53 – Reihenhaus an Via Solferino – Teil 4/15 (Y 59–61)
+### Schritt 4.52 – Reihenhaus an Via Solferino – Teil 3/14 (Y 58–60)
 
-- **Y-Bereich:** 59 bis 61
+- **Y-Bereich:** 58 bis 60
 - **Blöcke:** 1.645
 - **Bauteile:** `w461618404`
 
@@ -1784,9 +1756,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.54 – Reihenhaus an Via Solferino – Teil 5/15 (Y 62–64)
+### Schritt 4.53 – Reihenhaus an Via Solferino – Teil 4/14 (Y 61–63)
 
-- **Y-Bereich:** 62 bis 64
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.626
 - **Bauteile:** `w461618404`
 
@@ -1816,9 +1788,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.55 – Reihenhaus an Via Solferino – Teil 6/15 (Y 65–67)
+### Schritt 4.54 – Reihenhaus an Via Solferino – Teil 5/14 (Y 64–66)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.704
 - **Bauteile:** `w461618404`
 
@@ -1844,9 +1816,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.56 – Reihenhaus an Via Solferino – Teil 7/15 (Y 68–70)
+### Schritt 4.55 – Reihenhaus an Via Solferino – Teil 6/14 (Y 67–69)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.584
 - **Bauteile:** `w461618404`
 
@@ -1874,9 +1846,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.57 – Reihenhaus an Via Solferino – Teil 8/15 (Y 71–73)
+### Schritt 4.56 – Reihenhaus an Via Solferino – Teil 7/14 (Y 70–72)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.669
 - **Bauteile:** `w461618404`
 
@@ -1903,9 +1875,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.58 – Reihenhaus an Via Solferino – Teil 9/15 (Y 74–76)
+### Schritt 4.57 – Reihenhaus an Via Solferino – Teil 8/14 (Y 73–75)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.624
 - **Bauteile:** `w461618404`
 
@@ -1933,9 +1905,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.59 – Reihenhaus an Via Solferino – Teil 10/15 (Y 77–79)
+### Schritt 4.58 – Reihenhaus an Via Solferino – Teil 9/14 (Y 76–78)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.629
 - **Bauteile:** `w461618404`
 
@@ -1963,9 +1935,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.60 – Reihenhaus an Via Solferino – Teil 11/15 (Y 80–82)
+### Schritt 4.59 – Reihenhaus an Via Solferino – Teil 10/14 (Y 79–81)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.664
 - **Bauteile:** `w461618404`
 
@@ -1993,9 +1965,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.61 – Reihenhaus an Via Solferino – Teil 12/15 (Y 83–85)
+### Schritt 4.60 – Reihenhaus an Via Solferino – Teil 11/14 (Y 82–84)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.589
 - **Bauteile:** `w461618404`
 
@@ -2023,17 +1995,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.62 – Reihenhaus an Via Solferino – Teil 13/15 (Y 86–87)
+### Schritt 4.61 – Reihenhaus an Via Solferino – Teil 12/14 (Y 85–86)
 
-- **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.191
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.136
 - **Bauteile:** `w461618404`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.191 |
+| Gelbe Keramik | `yellow_terracotta` | 1.136 |
 
 **Beschreibung**
 
@@ -2051,9 +2023,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.63 – Reihenhaus an Via Solferino – Teil 14/15 (Y 88–89)
+### Schritt 4.62 – Reihenhaus an Via Solferino – Teil 13/14 (Y 87–88)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 2.033
 - **Bauteile:** `w461618404`
 
@@ -2079,9 +2051,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.64 – Reihenhaus an Via Solferino – Teil 15/15 (Y 90–96)
+### Schritt 4.63 – Reihenhaus an Via Solferino – Teil 14/14 (Y 89–95)
 
-- **Y-Bereich:** 90 bis 96
+- **Y-Bereich:** 89 bis 95
 - **Blöcke:** 1.604
 - **Bauteile:** `w461618404`
 
@@ -2108,21 +2080,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.65 – Reihenhaus an Via Solferino: Innenausbau – Teil 1/6 (Y 57–66)
+### Schritt 4.64 – Reihenhaus an Via Solferino: Innenausbau – Teil 1/6 (Y 56–65)
 
-- **Y-Bereich:** 57 bis 66
-- **Blöcke:** 1.127
+- **Y-Bereich:** 56 bis 65
+- **Blöcke:** 1.136
 - **Bauteile:** `w461618404_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.065 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
-| Seelaterne | `sea_lantern` | 20 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Terrakotta | `terracotta` | 1.074 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Seelaterne | `sea_lantern` | 19 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2146,18 +2120,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.66 – Reihenhaus an Via Solferino: Innenausbau – Teil 2/6 (Y 66–66)
+### Schritt 4.65 – Reihenhaus an Via Solferino: Innenausbau – Teil 2/6 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.111
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.105
 - **Bauteile:** `w461618404_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.105 |
-| Seelaterne | `sea_lantern` | 6 |
+| Terrakotta | `terracotta` | 1.096 |
+| Seelaterne | `sea_lantern` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2175,23 +2156,101 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.67 – Reihenhaus an Via Solferino: Innenausbau – Teil 3/6 (Y 67–73)
+### Schritt 4.66 – Reihenhaus an Via Solferino: Innenausbau – Teil 3/6 (Y 66–72)
 
-- **Y-Bereich:** 67 bis 73
-- **Blöcke:** 1.112
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.118
 - **Bauteile:** `w461618404_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.065 |
+| Terrakotta | `terracotta` | 1.074 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Seelaterne | `sea_lantern` | 7 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 6 |
+| Seelaterne | `sea_lantern` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 12 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.67 – Reihenhaus an Via Solferino: Innenausbau – Teil 4/6 (Y 72–72)
+
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.105
+- **Bauteile:** `w461618404_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.096 |
+| Seelaterne | `sea_lantern` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 4.68 – Reihenhaus an Via Solferino: Innenausbau – Teil 5/6 (Y 73–79)
+
+- **Y-Bereich:** 73 bis 79
+- **Blöcke:** 1.117
+- **Bauteile:** `w461618404_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.074 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 6 |
+| Seelaterne | `sea_lantern` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2215,90 +2274,31 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.68 – Reihenhaus an Via Solferino: Innenausbau – Teil 4/6 (Y 73–73)
+### Schritt 4.69 – Reihenhaus an Via Solferino: Innenausbau – Teil 6/6 (Y 79–80) & Straßenschilder
 
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.111
-- **Bauteile:** `w461618404_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.105 |
-| Seelaterne | `sea_lantern` | 6 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.69 – Reihenhaus an Via Solferino: Innenausbau – Teil 5/6 (Y 74–80)
-
-- **Y-Bereich:** 74 bis 80
-- **Blöcke:** 1.113
-- **Bauteile:** `w461618404_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.065 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
-| Seelaterne | `sea_lantern` | 7 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.70 – Reihenhaus an Via Solferino: Innenausbau – Teil 6/6 (Y 80–81) & Straßenschilder
-
-- **Y-Bereich:** 64 bis 81
-- **Blöcke:** 1.115
+- **Y-Bereich:** 64 bis 80
+- **Blöcke:** 1.116
 - **Bauteile:** `w461618404_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.105 |
-| Seelaterne | `sea_lantern` | 6 |
+| Terrakotta | `terracotta` | 1.096 |
+| Seelaterne | `sea_lantern` | 7 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4 |
 
 **Beschreibung**
 

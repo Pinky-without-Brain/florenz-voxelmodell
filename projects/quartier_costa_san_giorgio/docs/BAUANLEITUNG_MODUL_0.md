@@ -8,32 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 26.474 |
-| Bauschritte | 18 |
-| Y-Bereich | 84 bis 135 |
+| Blöcke | 19.044 |
+| Bauschritte | 12 |
+| Y-Bereich | 84 bis 126 |
 | X-Ausdehnung | -778 bis -722 (57 Blöcke) |
 | Z-Ausdehnung | 1644 bis 1704 (61 Blöcke) |
-| Kleinster Schritt | 1.053 Blöcke (Schritt 0.4) |
-| Mittlerer Schritt | 1.471 Blöcke |
-| Größter Schritt | 1.880 Blöcke (Schritt 0.9) |
+| Kleinster Schritt | 1.176 Blöcke (Schritt 0.11) |
+| Mittlerer Schritt | 1.587 Blöcke |
+| Größter Schritt | 2.077 Blöcke (Schritt 0.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 8.345 | 31,5 % |
-| Tuffstein | `tuff` | 7.857 | 29,7 % |
-| Terrakotta | `terracotta` | 5.559 | 21,0 % |
-| Glatter Stein | `smooth_stone` | 1.724 | 6,5 % |
-| Polierter Tuffstein | `polished_tuff` | 1.487 | 5,6 % |
-| Graues Buntglas | `gray_stained_glass` | 726 | 2,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 490 | 1,9 % |
-| Ziegelsteine | `bricks` | 100 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.345 | 43,8 % |
+| Terrakotta | `terracotta` | 5.559 | 29,2 % |
+| Glatter Stein | `smooth_stone` | 1.713 | 9,0 % |
+| Polierter Tuffstein | `polished_tuff` | 1.510 | 7,9 % |
+| Graues Buntglas | `gray_stained_glass` | 726 | 3,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 490 | 2,6 % |
+| Tuffstein | `tuff` | 437 | 2,3 % |
+| Ziegelsteine | `bricks` | 100 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,4 % |
 | Seelaterne | `sea_lantern` | 28 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 22 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 7 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 7 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
@@ -44,28 +43,28 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 54 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 22 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w474366859` | Haus w474366859 | 22.932 | 0.1–0.15 |
-| 2 | `w474366859_innen` | Haus w474366859: Innenausbau | 3.542 | 0.16–0.18 |
+| 1 | `w474366859` | Haus w474366859 | 15.502 | 0.1–0.9 |
+| 2 | `w474366859_innen` | Haus w474366859: Innenausbau | 3.542 | 0.10–0.12 |
 
 ## Bauschritte
 
-### Schritt 0.1 – Haus w474366859 – Teil 1/15 (Y 84–88)
+### Schritt 0.1 – Haus w474366859 – Teil 1/9 (Y 84–87)
 
-- **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.296
+- **Y-Bereich:** 84 bis 87
+- **Blöcke:** 1.947
 - **Bauteile:** `w474366859`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.296 |
+| Polierter Tuffstein | `polished_tuff` | 1.510 |
+| Tuffstein | `tuff` | 437 |
 
 **Beschreibung**
 
@@ -83,24 +82,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Haus w474366859 – Teil 2/15 (Y 89–90)
+### Schritt 0.2 – Haus w474366859 – Teil 2/9 (Y 88–91)
 
-- **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.327
+- **Y-Bereich:** 88 bis 91
+- **Blöcke:** 1.466
 - **Bauteile:** `w474366859`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.323 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.233 |
+| Glatter Stein | `smooth_stone` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 47 |
+| Fichtenholz-Bretter | `spruce_planks` | 11 |
 
 **Beschreibung**
 
@@ -118,24 +113,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.3 – Haus w474366859 – Teil 3/15 (Y 91–92)
+### Schritt 0.3 – Haus w474366859 – Teil 3/9 (Y 92–96)
 
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.775
+- **Y-Bereich:** 92 bis 96
+- **Blöcke:** 1.828
 - **Bauteile:** `w474366859`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.769 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.523 |
+| Glatter Stein | `smooth_stone` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 91 |
+| Fichtenholz-Bretter | `spruce_planks` | 11 |
 
 **Beschreibung**
 
@@ -153,24 +144,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.4 – Haus w474366859 – Teil 4/15 (Y 93–93)
+### Schritt 0.4 – Haus w474366859 – Teil 4/9 (Y 97–101)
 
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.053
+- **Y-Bereich:** 97 bis 101
+- **Blöcke:** 1.794
 - **Bauteile:** `w474366859`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.050 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.207 |
+| Glatter Stein | `smooth_stone` | 349 |
+| Graues Buntglas | `gray_stained_glass` | 196 |
+| Fichtenholz-Bretter | `spruce_planks` | 42 |
 
 **Beschreibung**
 
@@ -188,156 +175,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.5 – Haus w474366859 – Teil 5/15 (Y 94–94)
+### Schritt 0.5 – Haus w474366859 – Teil 5/9 (Y 102–105)
 
-- **Y-Bereich:** 94 bis 94
-- **Blöcke:** 1.160
+- **Y-Bereich:** 102 bis 105
+- **Blöcke:** 1.504
 - **Bauteile:** `w474366859`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.157 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.6 – Haus w474366859 – Teil 6/15 (Y 95–95)
-
-- **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.265
-- **Bauteile:** `w474366859`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.262 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.7 – Haus w474366859 – Teil 7/15 (Y 96–97)
-
-- **Y-Bereich:** 96 bis 97
-- **Blöcke:** 1.859
-- **Bauteile:** `w474366859`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.487 |
-| Hellgrauer Beton | `light_gray_concrete` | 367 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
-| Glatter Stein | `smooth_stone` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.8 – Haus w474366859 – Teil 8/15 (Y 98–102)
-
-- **Y-Bereich:** 98 bis 102
-- **Blöcke:** 1.808
-- **Bauteile:** `w474366859`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.352 |
-| Glatter Stein | `smooth_stone` | 296 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
-| Fichtenholz-Bretter | `spruce_planks` | 22 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.9 – Haus w474366859 – Teil 9/15 (Y 103–107)
-
-- **Y-Bereich:** 103 bis 107
-- **Blöcke:** 1.880
-- **Bauteile:** `w474366859`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.539 |
-| Glatter Stein | `smooth_stone` | 277 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.158 |
+| Glatter Stein | `smooth_stone` | 282 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 | Fichtenholz-Bretter | `spruce_planks` | 14 |
 
@@ -357,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.10 – Haus w474366859 – Teil 10/15 (Y 108–112)
+### Schritt 0.6 – Haus w474366859 – Teil 6/9 (Y 106–110)
 
-- **Y-Bereich:** 108 bis 112
+- **Y-Bereich:** 106 bis 110
 - **Blöcke:** 1.794
 - **Bauteile:** `w474366859`
 
@@ -388,19 +237,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.11 – Haus w474366859 – Teil 11/15 (Y 113–116)
+### Schritt 0.7 – Haus w474366859 – Teil 7/9 (Y 111–115)
 
-- **Y-Bereich:** 113 bis 116
-- **Blöcke:** 1.444
+- **Y-Bereich:** 111 bis 115
+- **Blöcke:** 1.794
 - **Bauteile:** `w474366859`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 960 |
-| Glatter Stein | `smooth_stone` | 292 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.207 |
+| Glatter Stein | `smooth_stone` | 349 |
+| Graues Buntglas | `gray_stained_glass` | 196 |
 | Fichtenholz-Bretter | `spruce_planks` | 42 |
 
 **Beschreibung**
@@ -419,72 +268,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.12 – Haus w474366859 – Teil 12/15 (Y 117–121)
+### Schritt 0.8 – Haus w474366859 – Teil 8/9 (Y 116–118)
 
-- **Y-Bereich:** 117 bis 121
-- **Blöcke:** 1.854
-- **Bauteile:** `w474366859`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.405 |
-| Glatter Stein | `smooth_stone` | 339 |
-| Graues Buntglas | `gray_stained_glass` | 96 |
-| Fichtenholz-Bretter | `spruce_planks` | 14 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.13 – Haus w474366859 – Teil 13/15 (Y 122–125)
-
-- **Y-Bereich:** 122 bis 125
-- **Blöcke:** 1.481
-- **Bauteile:** `w474366859`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 985 |
-| Glatter Stein | `smooth_stone` | 259 |
-| Graues Buntglas | `gray_stained_glass` | 146 |
-| Fichtenholz-Bretter | `spruce_planks` | 91 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.14 – Haus w474366859 – Teil 14/15 (Y 126–127)
-
-- **Y-Bereich:** 126 bis 127
-- **Blöcke:** 1.638
+- **Y-Bereich:** 116 bis 118
+- **Blöcke:** 2.077
 - **Bauteile:** `w474366859`
 
 **Teileliste**
@@ -492,8 +279,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 983 |
-| Hellgrauer Beton | `light_gray_concrete` | 376 |
-| Fichtenholz-Bretter | `spruce_planks` | 279 |
+| Hellgrauer Beton | `light_gray_concrete` | 656 |
+| Fichtenholz-Bretter | `spruce_planks` | 342 |
+| Glatter Stein | `smooth_stone` | 96 |
 
 **Beschreibung**
 
@@ -511,9 +299,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.15 – Haus w474366859 – Teil 15/15 (Y 128–135)
+### Schritt 0.9 – Haus w474366859 – Teil 9/9 (Y 119–126)
 
-- **Y-Bereich:** 128 bis 135
+- **Y-Bereich:** 119 bis 126
 - **Blöcke:** 1.298
 - **Bauteile:** `w474366859`
 
@@ -540,9 +328,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.16 – Haus w474366859: Innenausbau – Teil 1/3 (Y 96–105)
+### Schritt 0.10 – Haus w474366859: Innenausbau – Teil 1/3 (Y 87–96)
 
-- **Y-Bereich:** 96 bis 105
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.185
 - **Bauteile:** `w474366859_innen`
 
@@ -580,9 +368,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.17 – Haus w474366859: Innenausbau – Teil 2/3 (Y 106–112)
+### Schritt 0.11 – Haus w474366859: Innenausbau – Teil 2/3 (Y 97–103)
 
-- **Y-Bereich:** 106 bis 112
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.176
 - **Bauteile:** `w474366859_innen`
 
@@ -620,9 +408,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.18 – Haus w474366859: Innenausbau – Teil 3/3 (Y 113–120)
+### Schritt 0.12 – Haus w474366859: Innenausbau – Teil 3/3 (Y 104–111)
 
-- **Y-Bereich:** 113 bis 120
+- **Y-Bereich:** 104 bis 111
 - **Blöcke:** 1.181
 - **Bauteile:** `w474366859_innen`
 

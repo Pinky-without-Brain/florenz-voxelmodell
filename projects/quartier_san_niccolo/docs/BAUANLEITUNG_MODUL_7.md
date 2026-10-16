@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 818 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 78 |
+| Y-Bereich | 89 bis 104 |
 | X-Ausdehnung | -164 bis -152 (13 Blöcke) |
 | Z-Ausdehnung | 1627 bis 1640 (14 Blöcke) |
 | Kleinster Schritt | 818 Blöcke (Schritt 7.1) |
@@ -38,7 +38,7 @@
 
 ### Schritt 7.1 – Nebengebäude an Via del Canneto & Nebengebäude an Via del Canneto: Innenausbau
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 89 bis 104
 - **Blöcke:** 818
 - **Bauteile:** `w119229736`, `w119229736_innen`
 

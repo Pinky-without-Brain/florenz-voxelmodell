@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 60.573 |
+| Blöcke | 60.574 |
 | Bauschritte | 40 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 62 bis 104 |
 | X-Ausdehnung | -625 bis -512 (114 Blöcke) |
 | Z-Ausdehnung | -187 bis -66 (122 Blöcke) |
 | Kleinster Schritt | 852 Blöcke (Schritt 7.8) |
@@ -39,7 +39,7 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -55,13 +55,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1590682` | Palazzo des Cinquecento an Via dei Cerretani | 47.056 | 7.1–7.32 |
 | 2 | `r1590682_innen` | Palazzo des Cinquecento an Via dei Cerretani: Innenausbau | 13.515 | 7.33–7.40 |
-| 3 | `strassenschilder` | Straßenschilder | 2 | 7.40 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 7.40 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Palazzo des Cinquecento an Via dei Cerretani – Teil 1/32 (Y 63–63)
+### Schritt 7.1 – Palazzo des Cinquecento an Via dei Cerretani – Teil 1/32 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.936
 - **Bauteile:** `r1590682`
 
@@ -87,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Palazzo des Cinquecento an Via dei Cerretani – Teil 2/32 (Y 63–63)
+### Schritt 7.2 – Palazzo des Cinquecento an Via dei Cerretani – Teil 2/32 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.859
 - **Bauteile:** `r1590682`
 
@@ -115,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Palazzo des Cinquecento an Via dei Cerretani – Teil 3/32 (Y 63–63)
+### Schritt 7.3 – Palazzo des Cinquecento an Via dei Cerretani – Teil 3/32 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.927
 - **Bauteile:** `r1590682`
 
@@ -143,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Palazzo des Cinquecento an Via dei Cerretani – Teil 4/32 (Y 63–63)
+### Schritt 7.4 – Palazzo des Cinquecento an Via dei Cerretani – Teil 4/32 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.888
 - **Bauteile:** `r1590682`
 
@@ -171,9 +171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Palazzo des Cinquecento an Via dei Cerretani – Teil 5/32 (Y 64–64)
+### Schritt 7.5 – Palazzo des Cinquecento an Via dei Cerretani – Teil 5/32 (Y 63–63)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 940
 - **Bauteile:** `r1590682`
 
@@ -202,9 +202,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Palazzo des Cinquecento an Via dei Cerretani – Teil 6/32 (Y 65–65)
+### Schritt 7.6 – Palazzo des Cinquecento an Via dei Cerretani – Teil 6/32 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 940
 - **Bauteile:** `r1590682`
 
@@ -233,9 +233,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Palazzo des Cinquecento an Via dei Cerretani – Teil 7/32 (Y 66–66)
+### Schritt 7.7 – Palazzo des Cinquecento an Via dei Cerretani – Teil 7/32 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.009
 - **Bauteile:** `r1590682`
 
@@ -264,9 +264,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Palazzo des Cinquecento an Via dei Cerretani – Teil 8/32 (Y 67–67)
+### Schritt 7.8 – Palazzo des Cinquecento an Via dei Cerretani – Teil 8/32 (Y 66–66)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 852
 - **Bauteile:** `r1590682`
 
@@ -297,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Palazzo des Cinquecento an Via dei Cerretani – Teil 9/32 (Y 68–69)
+### Schritt 7.9 – Palazzo des Cinquecento an Via dei Cerretani – Teil 9/32 (Y 67–68)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.704
 - **Bauteile:** `r1590682`
 
@@ -330,9 +330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Palazzo des Cinquecento an Via dei Cerretani – Teil 10/32 (Y 70–71)
+### Schritt 7.10 – Palazzo des Cinquecento an Via dei Cerretani – Teil 10/32 (Y 69–70)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.796
 - **Bauteile:** `r1590682`
 
@@ -363,9 +363,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Palazzo des Cinquecento an Via dei Cerretani – Teil 11/32 (Y 72–72)
+### Schritt 7.11 – Palazzo des Cinquecento an Via dei Cerretani – Teil 11/32 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 952
 - **Bauteile:** `r1590682`
 
@@ -394,9 +394,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Palazzo des Cinquecento an Via dei Cerretani – Teil 12/32 (Y 73–74)
+### Schritt 7.12 – Palazzo des Cinquecento an Via dei Cerretani – Teil 12/32 (Y 72–73)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.904
 - **Bauteile:** `r1590682`
 
@@ -425,9 +425,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Palazzo des Cinquecento an Via dei Cerretani – Teil 13/32 (Y 75–75)
+### Schritt 7.13 – Palazzo des Cinquecento an Via dei Cerretani – Teil 13/32 (Y 74–74)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.024
 - **Bauteile:** `r1590682`
 
@@ -455,9 +455,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Palazzo des Cinquecento an Via dei Cerretani – Teil 14/32 (Y 76–77)
+### Schritt 7.14 – Palazzo des Cinquecento an Via dei Cerretani – Teil 14/32 (Y 75–76)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.722
 - **Bauteile:** `r1590682`
 
@@ -487,9 +487,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.15 – Palazzo des Cinquecento an Via dei Cerretani – Teil 15/32 (Y 78–79)
+### Schritt 7.15 – Palazzo des Cinquecento an Via dei Cerretani – Teil 15/32 (Y 77–78)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.722
 - **Bauteile:** `r1590682`
 
@@ -519,9 +519,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.16 – Palazzo des Cinquecento an Via dei Cerretani – Teil 16/32 (Y 80–81)
+### Schritt 7.16 – Palazzo des Cinquecento an Via dei Cerretani – Teil 16/32 (Y 79–80)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.722
 - **Bauteile:** `r1590682`
 
@@ -551,9 +551,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.17 – Palazzo des Cinquecento an Via dei Cerretani – Teil 17/32 (Y 82–82)
+### Schritt 7.17 – Palazzo des Cinquecento an Via dei Cerretani – Teil 17/32 (Y 81–81)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 952
 - **Bauteile:** `r1590682`
 
@@ -581,9 +581,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.18 – Palazzo des Cinquecento an Via dei Cerretani – Teil 18/32 (Y 83–84)
+### Schritt 7.18 – Palazzo des Cinquecento an Via dei Cerretani – Teil 18/32 (Y 82–83)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.904
 - **Bauteile:** `r1590682`
 
@@ -611,9 +611,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.19 – Palazzo des Cinquecento an Via dei Cerretani – Teil 19/32 (Y 85–85)
+### Schritt 7.19 – Palazzo des Cinquecento an Via dei Cerretani – Teil 19/32 (Y 84–84)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.024
 - **Bauteile:** `r1590682`
 
@@ -641,9 +641,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.20 – Palazzo des Cinquecento an Via dei Cerretani – Teil 20/32 (Y 86–87)
+### Schritt 7.20 – Palazzo des Cinquecento an Via dei Cerretani – Teil 20/32 (Y 85–86)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.722
 - **Bauteile:** `r1590682`
 
@@ -673,9 +673,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.21 – Palazzo des Cinquecento an Via dei Cerretani – Teil 21/32 (Y 88–89)
+### Schritt 7.21 – Palazzo des Cinquecento an Via dei Cerretani – Teil 21/32 (Y 87–88)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.722
 - **Bauteile:** `r1590682`
 
@@ -705,9 +705,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.22 – Palazzo des Cinquecento an Via dei Cerretani – Teil 22/32 (Y 90–90)
+### Schritt 7.22 – Palazzo des Cinquecento an Via dei Cerretani – Teil 22/32 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 861
 - **Bauteile:** `r1590682`
 
@@ -737,9 +737,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.23 – Palazzo des Cinquecento an Via dei Cerretani – Teil 23/32 (Y 91–92)
+### Schritt 7.23 – Palazzo des Cinquecento an Via dei Cerretani – Teil 23/32 (Y 90–91)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 2.046
 - **Bauteile:** `r1590682`
 
@@ -768,9 +768,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.24 – Palazzo des Cinquecento an Via dei Cerretani – Teil 24/32 (Y 93–93)
+### Schritt 7.24 – Palazzo des Cinquecento an Via dei Cerretani – Teil 24/32 (Y 92–92)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.574
 - **Bauteile:** `r1590682`
 
@@ -798,9 +798,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.25 – Palazzo des Cinquecento an Via dei Cerretani – Teil 25/32 (Y 94–94)
+### Schritt 7.25 – Palazzo des Cinquecento an Via dei Cerretani – Teil 25/32 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.408
 - **Bauteile:** `r1590682`
 
@@ -826,9 +826,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.26 – Palazzo des Cinquecento an Via dei Cerretani – Teil 26/32 (Y 94–94)
+### Schritt 7.26 – Palazzo des Cinquecento an Via dei Cerretani – Teil 26/32 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.409
 - **Bauteile:** `r1590682`
 
@@ -854,9 +854,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.27 – Palazzo des Cinquecento an Via dei Cerretani – Teil 27/32 (Y 95–95)
+### Schritt 7.27 – Palazzo des Cinquecento an Via dei Cerretani – Teil 27/32 (Y 94–94)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.618
 - **Bauteile:** `r1590682`
 
@@ -882,9 +882,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.28 – Palazzo des Cinquecento an Via dei Cerretani – Teil 28/32 (Y 96–96)
+### Schritt 7.28 – Palazzo des Cinquecento an Via dei Cerretani – Teil 28/32 (Y 95–95)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.868
 - **Bauteile:** `r1590682`
 
@@ -910,9 +910,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.29 – Palazzo des Cinquecento an Via dei Cerretani – Teil 29/32 (Y 97–97)
+### Schritt 7.29 – Palazzo des Cinquecento an Via dei Cerretani – Teil 29/32 (Y 96–96)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.541
 - **Bauteile:** `r1590682`
 
@@ -939,9 +939,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.30 – Palazzo des Cinquecento an Via dei Cerretani – Teil 30/32 (Y 98–98)
+### Schritt 7.30 – Palazzo des Cinquecento an Via dei Cerretani – Teil 30/32 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.316
 - **Bauteile:** `r1590682`
 
@@ -968,9 +968,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.31 – Palazzo des Cinquecento an Via dei Cerretani – Teil 31/32 (Y 99–99)
+### Schritt 7.31 – Palazzo des Cinquecento an Via dei Cerretani – Teil 31/32 (Y 98–98)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 867
 - **Bauteile:** `r1590682`
 
@@ -997,9 +997,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.32 – Palazzo des Cinquecento an Via dei Cerretani – Teil 32/32 (Y 100–105)
+### Schritt 7.32 – Palazzo des Cinquecento an Via dei Cerretani – Teil 32/32 (Y 99–104)
 
-- **Y-Bereich:** 100 bis 105
+- **Y-Bereich:** 99 bis 104
 - **Blöcke:** 1.327
 - **Bauteile:** `r1590682`
 
@@ -1026,9 +1026,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.33 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 1/8 (Y 63–73)
+### Schritt 7.33 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 1/8 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.715
 - **Bauteile:** `r1590682_innen`
 
@@ -1068,9 +1068,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.34 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 2/8 (Y 73–73)
+### Schritt 7.34 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 2/8 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.743
 - **Bauteile:** `r1590682_innen`
 
@@ -1097,9 +1097,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.35 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 3/8 (Y 73–73)
+### Schritt 7.35 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 3/8 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.612
 - **Bauteile:** `r1590682_innen`
 
@@ -1126,9 +1126,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.36 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 4/8 (Y 73–73)
+### Schritt 7.36 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 4/8 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.697
 - **Bauteile:** `r1590682_innen`
 
@@ -1155,9 +1155,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.37 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 5/8 (Y 74–83)
+### Schritt 7.37 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 5/8 (Y 73–82)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.687
 - **Bauteile:** `r1590682_innen`
 
@@ -1199,9 +1199,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.38 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 6/8 (Y 83–83)
+### Schritt 7.38 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 6/8 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.743
 - **Bauteile:** `r1590682_innen`
 
@@ -1228,9 +1228,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.39 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 7/8 (Y 83–83)
+### Schritt 7.39 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 7/8 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.612
 - **Bauteile:** `r1590682_innen`
 
@@ -1257,10 +1257,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.40 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 8/8 (Y 83–84) & Straßenschilder
+### Schritt 7.40 – Palazzo des Cinquecento an Via dei Cerretani: Innenausbau – Teil 8/8 (Y 82–83) & Straßenschilder
 
-- **Y-Bereich:** 70 bis 84
-- **Blöcke:** 1.708
+- **Y-Bereich:** 69 bis 83
+- **Blöcke:** 1.709
 - **Bauteile:** `r1590682_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1271,7 +1271,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |

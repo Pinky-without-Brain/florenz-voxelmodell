@@ -8,57 +8,55 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.550 |
-| Bauschritte | 9 |
-| Y-Bereich | 89 bis 140 |
+| Blöcke | 10.710 |
+| Bauschritte | 6 |
+| Y-Bereich | 89 bis 126 |
 | X-Ausdehnung | -1420 bis -1359 (62 Blöcke) |
 | Z-Ausdehnung | 1969 bis 2015 (47 Blöcke) |
-| Kleinster Schritt | 1.505 Blöcke (Schritt 3.8) |
-| Mittlerer Schritt | 1.728 Blöcke |
-| Größter Schritt | 1.949 Blöcke (Schritt 3.3) |
+| Kleinster Schritt | 1.547 Blöcke (Schritt 3.4) |
+| Mittlerer Schritt | 1.785 Blöcke |
+| Größter Schritt | 1.848 Blöcke (Schritt 3.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 6.931 | 44,6 % |
-| Tuffstein | `tuff` | 4.863 | 31,3 % |
-| Polierter Andesit | `polished_andesite` | 1.601 | 10,3 % |
-| Glatter Stein | `smooth_stone` | 697 | 4,5 % |
-| Terrakotta | `terracotta` | 581 | 3,7 % |
-| Polierter Tuffstein | `polished_tuff` | 483 | 3,1 % |
-| Graues Buntglas | `gray_stained_glass` | 367 | 2,4 % |
+| Rosa Keramik | `pink_terracotta` | 6.931 | 64,7 % |
+| Polierter Andesit | `polished_andesite` | 1.562 | 14,6 % |
+| Glatter Stein | `smooth_stone` | 697 | 6,5 % |
+| Terrakotta | `terracotta` | 581 | 5,4 % |
+| Polierter Tuffstein | `polished_tuff` | 488 | 4,6 % |
+| Graues Buntglas | `gray_stained_glass` | 367 | 3,4 % |
+| Tuffstein | `tuff` | 62 | 0,6 % |
 | Tuffsteinziegel | `tuff_bricks` | 12 | 0,1 % |
-| Ziegelsteine | `bricks` | 6 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
+| Ziegelsteine | `bricks` | 6 | 0,1 % |
 | Seelaterne | `sea_lantern` | 4 | 0,0 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w483549913` | Haus w483549913 | 15.546 | 3.1–3.9 |
-| 2 | `w483549913_innen` | Haus w483549913: Innenausbau | 4 | 3.9 |
+| 1 | `w483549913` | Haus w483549913 | 10.706 | 3.1–3.6 |
+| 2 | `w483549913_innen` | Haus w483549913: Innenausbau | 4 | 3.6 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Haus w483549913 – Teil 1/9 (Y 89–98)
+### Schritt 3.1 – Haus w483549913 – Teil 1/6 (Y 89–96)
 
-- **Y-Bereich:** 89 bis 98
-- **Blöcke:** 1.571
+- **Y-Bereich:** 89 bis 96
+- **Blöcke:** 1.805
 - **Bauteile:** `w483549913`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.571 |
+| Rosa Keramik | `pink_terracotta` | 975 |
+| Polierter Tuffstein | `polished_tuff` | 488 |
+| Polierter Andesit | `polished_andesite` | 251 |
+| Tuffstein | `tuff` | 62 |
+| Graues Buntglas | `gray_stained_glass` | 23 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
 
@@ -76,136 +74,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Haus w483549913 – Teil 2/9 (Y 99–102)
+### Schritt 3.2 – Haus w483549913 – Teil 2/6 (Y 97–102)
 
-- **Y-Bereich:** 99 bis 102
-- **Blöcke:** 1.831
-- **Bauteile:** `w483549913`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.831 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.3 – Haus w483549913 – Teil 3/9 (Y 103–106)
-
-- **Y-Bereich:** 103 bis 106
-- **Blöcke:** 1.949
-- **Bauteile:** `w483549913`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.461 |
-| Polierter Tuffstein | `polished_tuff` | 483 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.4 – Haus w483549913 – Teil 4/9 (Y 107–111)
-
-- **Y-Bereich:** 107 bis 111
-- **Blöcke:** 1.592
-- **Bauteile:** `w483549913`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.182 |
-| Polierter Andesit | `polished_andesite` | 356 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.5 – Haus w483549913 – Teil 5/9 (Y 112–116)
-
-- **Y-Bereich:** 112 bis 116
-- **Blöcke:** 1.547
-- **Bauteile:** `w483549913`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.090 |
-| Polierter Andesit | `polished_andesite` | 206 |
-| Glatter Stein | `smooth_stone` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 3.6 – Haus w483549913 – Teil 6/9 (Y 117–122)
-
-- **Y-Bereich:** 117 bis 122
+- **Y-Bereich:** 97 bis 102
 - **Blöcke:** 1.848
 - **Bauteile:** `w483549913`
 
@@ -213,8 +84,40 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Rosa Keramik | `pink_terracotta` | 1.297 |
+| Polierter Andesit | `polished_andesite` | 275 |
+| Glatter Stein | `smooth_stone` | 201 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.3 – Haus w483549913 – Teil 3/6 (Y 103–108)
+
+- **Y-Bereich:** 103 bis 108
+- **Blöcke:** 1.845
+- **Bauteile:** `w483549913`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.410 |
-| Polierter Andesit | `polished_andesite` | 338 |
+| Polierter Andesit | `polished_andesite` | 335 |
 | Graues Buntglas | `gray_stained_glass` | 100 |
 
 **Beschreibung**
@@ -233,18 +136,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Haus w483549913 – Teil 7/9 (Y 123–128)
+### Schritt 3.4 – Haus w483549913 – Teil 4/6 (Y 109–113)
 
-- **Y-Bereich:** 123 bis 128
-- **Blöcke:** 1.876
+- **Y-Bereich:** 109 bis 113
+- **Blöcke:** 1.547
 - **Bauteile:** `w483549913`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.315 |
-| Polierter Andesit | `polished_andesite` | 310 |
+| Rosa Keramik | `pink_terracotta` | 1.078 |
+| Polierter Andesit | `polished_andesite` | 218 |
 | Glatter Stein | `smooth_stone` | 201 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
@@ -264,18 +167,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Haus w483549913 – Teil 8/9 (Y 129–133)
+### Schritt 3.5 – Haus w483549913 – Teil 5/6 (Y 114–119)
 
-- **Y-Bereich:** 129 bis 133
-- **Blöcke:** 1.505
+- **Y-Bereich:** 114 bis 119
+- **Blöcke:** 1.834
 - **Bauteile:** `w483549913`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.085 |
-| Polierter Andesit | `polished_andesite` | 295 |
+| Rosa Keramik | `pink_terracotta` | 1.322 |
+| Polierter Andesit | `polished_andesite` | 387 |
 | Graues Buntglas | `gray_stained_glass` | 125 |
 
 **Beschreibung**
@@ -294,9 +197,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.9 – Haus w483549913 – Teil 9/9 (Y 134–140) & Haus w483549913: Innenausbau
+### Schritt 3.6 – Haus w483549913 – Teil 6/6 (Y 120–126) & Haus w483549913: Innenausbau
 
-- **Y-Bereich:** 106 bis 140
+- **Y-Bereich:** 92 bis 126
 - **Blöcke:** 1.831
 - **Bauteile:** `w483549913`, `w483549913_innen`
 

@@ -8,29 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 72.576 |
-| Bauschritte | 44 |
+| Blöcke | 71.177 |
+| Bauschritte | 43 |
 | Y-Bereich | 54 bis 92 |
 | X-Ausdehnung | -2835 bis -2735 (101 Blöcke) |
 | Z-Ausdehnung | -1331 bis -1150 (182 Blöcke) |
 | Kleinster Schritt | 584 Blöcke (Schritt 8.14) |
-| Mittlerer Schritt | 1.649 Blöcke |
-| Größter Schritt | 2.086 Blöcke (Schritt 8.38) |
+| Mittlerer Schritt | 1.655 Blöcke |
+| Größter Schritt | 2.100 Blöcke (Schritt 8.32) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 15.183 | 20,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 12.672 | 17,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 10.926 | 15,1 % |
-| Polierter Tuffstein | `polished_tuff` | 9.774 | 13,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 7.569 | 10,4 % |
-| Weißer Beton | `white_concrete` | 6.252 | 8,6 % |
-| Glatter Stein | `smooth_stone` | 5.019 | 6,9 % |
-| Graues Buntglas | `gray_stained_glass` | 1.821 | 2,5 % |
-| Tuffstein | `tuff` | 1.357 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 543 | 0,7 % |
+| Terrakotta | `terracotta` | 15.157 | 21,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 12.689 | 17,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 10.888 | 15,3 % |
+| Polierter Tuffstein | `polished_tuff` | 9.778 | 13,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 7.569 | 10,6 % |
+| Weißer Beton | `white_concrete` | 6.252 | 8,8 % |
+| Glatter Stein | `smooth_stone` | 5.020 | 7,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.821 | 2,6 % |
+| Polierter Andesit | `polished_andesite` | 543 | 0,8 % |
 | Grüner Beton | `green_concrete` | 444 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 268 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 193 | 0,3 % |
@@ -40,10 +39,9 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 66 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 52 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 48 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 11 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 11 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 13 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 13 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 10 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
@@ -53,7 +51,6 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 140 |
 | Steintreppe | `stone_stairs` | 100 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -63,12 +60,12 @@
 | 2 | `w458906110_innen` | Haus w458906110: Innenausbau | 2.439 | 8.8–8.9 |
 | 3 | `w463119732` | Haus w463119732 | 6.254 | 8.10–8.13 |
 | 4 | `w463119732_innen` | Haus w463119732: Innenausbau | 584 | 8.14 |
-| 5 | `w463119815` | Haus w463119815 | 10.487 | 8.15–8.20 |
-| 6 | `w463119815_innen` | Haus w463119815: Innenausbau | 1.510 | 8.21 |
-| 7 | `w463119839` | Haus w463119839 | 5.730 | 8.22–8.24 |
+| 5 | `w463119815` | Haus w463119815 | 10.261 | 8.15–8.20 |
+| 6 | `w463119815_innen` | Haus w463119815: Innenausbau | 1.490 | 8.21 |
+| 7 | `w463119839` | Haus w463119839 | 5.728 | 8.22–8.24 |
 | 8 | `w463119839_innen` | Haus w463119839: Innenausbau | 1.010 | 8.25 |
-| 9 | `w463119894` | Haus w463119894 | 25.514 | 8.26–8.40 |
-| 10 | `w463119894_innen` | Haus w463119894: Innenausbau | 6.649 | 8.41–8.44 |
+| 9 | `w463119894` | Haus w463119894 | 24.363 | 8.26–8.39 |
+| 10 | `w463119894_innen` | Haus w463119894: Innenausbau | 6.649 | 8.40–8.43 |
 
 ## Bauschritte
 
@@ -535,10 +532,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.15 – Haus w463119815 – Teil 1/6 (Y 54–58)
+### Schritt 8.15 – Haus w463119815 – Teil 1/6 (Y 54–57)
 
-- **Y-Bereich:** 54 bis 58
-- **Blöcke:** 1.812
+- **Y-Bereich:** 54 bis 57
+- **Blöcke:** 1.626
 - **Bauteile:** `w463119815`
 
 **Teileliste**
@@ -547,7 +544,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 829 |
 | Hellgrauer Beton | `light_gray_concrete` | 682 |
-| Tuffstein | `tuff` | 186 |
 | Glatter Stein | `smooth_stone` | 76 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 
@@ -567,18 +563,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.16 – Haus w463119815 – Teil 2/6 (Y 59–64)
+### Schritt 8.16 – Haus w463119815 – Teil 2/6 (Y 58–64)
 
-- **Y-Bereich:** 59 bis 64
-- **Blöcke:** 1.597
+- **Y-Bereich:** 58 bis 64
+- **Blöcke:** 1.889
 - **Bauteile:** `w463119815`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.351 |
-| Glatter Stein | `smooth_stone` | 157 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.577 |
+| Glatter Stein | `smooth_stone` | 223 |
 | Graues Buntglas | `gray_stained_glass` | 89 |
 
 **Beschreibung**
@@ -597,18 +593,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.17 – Haus w463119815 – Teil 3/6 (Y 65–71)
+### Schritt 8.17 – Haus w463119815 – Teil 3/6 (Y 65–70)
 
-- **Y-Bereich:** 65 bis 71
-- **Blöcke:** 1.906
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.614
 - **Bauteile:** `w463119815`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.595 |
-| Glatter Stein | `smooth_stone` | 235 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.369 |
+| Glatter Stein | `smooth_stone` | 169 |
 | Graues Buntglas | `gray_stained_glass` | 76 |
 
 **Beschreibung**
@@ -627,9 +623,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.18 – Haus w463119815 – Teil 4/6 (Y 72–77)
+### Schritt 8.18 – Haus w463119815 – Teil 4/6 (Y 71–76)
 
-- **Y-Bereich:** 72 bis 77
+- **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.631
 - **Bauteile:** `w463119815`
 
@@ -657,9 +653,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.19 – Haus w463119815 – Teil 5/6 (Y 78–83)
+### Schritt 8.19 – Haus w463119815 – Teil 5/6 (Y 77–82)
 
-- **Y-Bereich:** 78 bis 83
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.640
 - **Bauteile:** `w463119815`
 
@@ -687,18 +683,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.20 – Haus w463119815 – Teil 6/6 (Y 84–91)
+### Schritt 8.20 – Haus w463119815 – Teil 6/6 (Y 83–90)
 
-- **Y-Bereich:** 84 bis 91
-- **Blöcke:** 1.901
+- **Y-Bereich:** 83 bis 90
+- **Blöcke:** 1.861
 - **Bauteile:** `w463119815`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.097 |
-| Hellgrauer Beton | `light_gray_concrete` | 539 |
+| Terrakotta | `terracotta` | 1.095 |
+| Hellgrauer Beton | `light_gray_concrete` | 501 |
 | Fichtenholz-Bretter | `spruce_planks` | 169 |
 | Glatter Stein | `smooth_stone` | 49 |
 | Ziegelsteine | `bricks` | 47 |
@@ -721,19 +717,21 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.21 – Haus w463119815: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
-- **Blöcke:** 1.510
+- **Y-Bereich:** 54 bis 78
+- **Blöcke:** 1.490
 - **Bauteile:** `w463119815_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.383 |
+| Terrakotta | `terracotta` | 1.359 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 17 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -757,10 +755,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.22 – Haus w463119839 – Teil 1/3 (Y 55–66)
+### Schritt 8.22 – Haus w463119839 – Teil 1/3 (Y 55–65)
 
-- **Y-Bereich:** 55 bis 66
-- **Blöcke:** 1.972
+- **Y-Bereich:** 55 bis 65
+- **Blöcke:** 1.970
 - **Bauteile:** `w463119839`
 
 **Teileliste**
@@ -773,7 +771,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Glatter Stein | `smooth_stone` | 50 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 | Polierter Andesit | `polished_andesite` | 6 |
-| Tuffstein | `tuff` | 2 |
 
 **Beschreibung**
 
@@ -791,9 +788,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.23 – Haus w463119839 – Teil 2/3 (Y 67–78)
+### Schritt 8.23 – Haus w463119839 – Teil 2/3 (Y 66–77)
 
-- **Y-Bereich:** 67 bis 78
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.824
 - **Bauteile:** `w463119839`
 
@@ -821,9 +818,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.24 – Haus w463119839 – Teil 3/3 (Y 79–92)
+### Schritt 8.24 – Haus w463119839 – Teil 3/3 (Y 78–91)
 
-- **Y-Bereich:** 79 bis 92
+- **Y-Bereich:** 78 bis 91
 - **Blöcke:** 1.934
 - **Bauteile:** `w463119839`
 
@@ -855,7 +852,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.25 – Haus w463119839: Innenausbau
 
-- **Y-Bereich:** 56 bis 79
+- **Y-Bereich:** 55 bis 78
 - **Blöcke:** 1.010
 - **Bauteile:** `w463119839_innen`
 
@@ -891,24 +888,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.26 – Haus w463119894 – Teil 1/15 (Y 55–55)
+### Schritt 8.26 – Haus w463119894 – Teil 1/14 (Y 55–55)
 
 - **Y-Bereich:** 55 bis 55
-- **Blöcke:** 1.171
+- **Blöcke:** 1.877
 - **Bauteile:** `w463119894`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.169 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Polierter Tuffstein | `polished_tuff` | 1.877 |
 
 **Beschreibung**
 
@@ -926,44 +916,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.27 – Haus w463119894 – Teil 2/15 (Y 56–56)
+### Schritt 8.27 – Haus w463119894 – Teil 2/14 (Y 55–55)
 
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.875
-- **Bauteile:** `w463119894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.873 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.28 – Haus w463119894 – Teil 3/15 (Y 56–56)
-
-- **Y-Bereich:** 56 bis 56
+- **Y-Bereich:** 55 bis 55
 - **Blöcke:** 1.894
 - **Bauteile:** `w463119894`
 
@@ -989,21 +944,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.29 – Haus w463119894 – Teil 4/15 (Y 57–60)
+### Schritt 8.28 – Haus w463119894 – Teil 3/14 (Y 56–58)
 
-- **Y-Bereich:** 57 bis 60
-- **Blöcke:** 2.078
+- **Y-Bereich:** 56 bis 58
+- **Blöcke:** 1.613
 - **Bauteile:** `w463119894`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.611 |
-| Glatter Stein | `smooth_stone` | 253 |
-| Graues Buntglas | `gray_stained_glass` | 140 |
-| Polierter Andesit | `polished_andesite` | 58 |
-| Grüner Beton | `green_concrete` | 16 |
+| Gelbe Keramik | `yellow_terracotta` | 1.311 |
+| Glatter Stein | `smooth_stone` | 174 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Polierter Andesit | `polished_andesite` | 50 |
 
 **Beschreibung**
 
@@ -1021,20 +975,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.30 – Haus w463119894 – Teil 5/15 (Y 61–63)
+### Schritt 8.29 – Haus w463119894 – Teil 4/14 (Y 59–61)
 
-- **Y-Bereich:** 61 bis 63
-- **Blöcke:** 1.509
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.502
 - **Bauteile:** `w463119894`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 988 |
+| Gelbe Keramik | `yellow_terracotta` | 994 |
 | Glatter Stein | `smooth_stone` | 237 |
 | Graues Buntglas | `gray_stained_glass` | 150 |
-| Polierter Andesit | `polished_andesite` | 86 |
+| Polierter Andesit | `polished_andesite` | 73 |
 | Grüner Beton | `green_concrete` | 48 |
 
 **Beschreibung**
@@ -1053,21 +1007,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.31 – Haus w463119894 – Teil 6/15 (Y 64–66)
+### Schritt 8.30 – Haus w463119894 – Teil 5/14 (Y 62–64)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.588
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.549
 - **Bauteile:** `w463119894`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.255 |
-| Glatter Stein | `smooth_stone` | 220 |
-| Graues Buntglas | `gray_stained_glass` | 60 |
-| Polierter Andesit | `polished_andesite` | 37 |
-| Grüner Beton | `green_concrete` | 16 |
+| Gelbe Keramik | `yellow_terracotta` | 1.046 |
+| Glatter Stein | `smooth_stone` | 299 |
+| Graues Buntglas | `gray_stained_glass` | 122 |
+| Polierter Andesit | `polished_andesite` | 50 |
+| Grüner Beton | `green_concrete` | 32 |
 
 **Beschreibung**
 
@@ -1085,9 +1039,103 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.32 – Haus w463119894 – Teil 7/15 (Y 67–69)
+### Schritt 8.31 – Haus w463119894 – Teil 6/14 (Y 65–67)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.626
+- **Bauteile:** `w463119894`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.273 |
+| Glatter Stein | `smooth_stone` | 337 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.32 – Haus w463119894 – Teil 7/14 (Y 68–71)
+
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 2.100
+- **Bauteile:** `w463119894`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.466 |
+| Glatter Stein | `smooth_stone` | 390 |
+| Graues Buntglas | `gray_stained_glass` | 138 |
+| Polierter Andesit | `polished_andesite` | 58 |
+| Grüner Beton | `green_concrete` | 48 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.33 – Haus w463119894 – Teil 8/14 (Y 72–74)
+
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 1.562
+- **Bauteile:** `w463119894`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.105 |
+| Glatter Stein | `smooth_stone` | 283 |
+| Graues Buntglas | `gray_stained_glass` | 92 |
+| Polierter Andesit | `polished_andesite` | 50 |
+| Grüner Beton | `green_concrete` | 32 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.34 – Haus w463119894 – Teil 9/14 (Y 75–77)
+
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.654
 - **Bauteile:** `w463119894`
 
@@ -1095,8 +1143,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.135 |
-| Glatter Stein | `smooth_stone` | 490 |
+| Gelbe Keramik | `yellow_terracotta` | 1.131 |
+| Glatter Stein | `smooth_stone` | 494 |
 | Polierter Andesit | `polished_andesite` | 29 |
 
 **Beschreibung**
@@ -1115,9 +1163,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.33 – Haus w463119894 – Teil 8/15 (Y 70–73)
+### Schritt 8.35 – Haus w463119894 – Teil 10/14 (Y 78–81)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 2.040
 - **Bauteile:** `w463119894`
 
@@ -1147,42 +1195,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.34 – Haus w463119894 – Teil 9/15 (Y 74–76)
+### Schritt 8.36 – Haus w463119894 – Teil 11/14 (Y 82–84)
 
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.594
-- **Bauteile:** `w463119894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 958 |
-| Glatter Stein | `smooth_stone` | 545 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Polierter Andesit | `polished_andesite` | 29 |
-| Grüner Beton | `green_concrete` | 16 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.35 – Haus w463119894 – Teil 10/15 (Y 77–79)
-
-- **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.622
+- **Y-Bereich:** 82 bis 84
+- **Blöcke:** 1.744
 - **Bauteile:** `w463119894`
 
 **Teileliste**
@@ -1190,7 +1206,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.278 |
-| Glatter Stein | `smooth_stone` | 232 |
+| Glatter Stein | `smooth_stone` | 354 |
 | Polierter Andesit | `polished_andesite` | 50 |
 | Graues Buntglas | `gray_stained_glass` | 46 |
 | Grüner Beton | `green_concrete` | 16 |
@@ -1211,73 +1227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.36 – Haus w463119894 – Teil 11/15 (Y 80–82)
+### Schritt 8.37 – Haus w463119894 – Teil 12/14 (Y 85–85)
 
-- **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.530
-- **Bauteile:** `w463119894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.070 |
-| Glatter Stein | `smooth_stone` | 237 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
-| Grüner Beton | `green_concrete` | 48 |
-| Polierter Andesit | `polished_andesite` | 37 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.37 – Haus w463119894 – Teil 12/15 (Y 83–85)
-
-- **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.757
-- **Bauteile:** `w463119894`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.292 |
-| Glatter Stein | `smooth_stone` | 353 |
-| Polierter Andesit | `polished_andesite` | 50 |
-| Graues Buntglas | `gray_stained_glass` | 46 |
-| Grüner Beton | `green_concrete` | 16 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.38 – Haus w463119894 – Teil 13/15 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 2.086
 - **Bauteile:** `w463119894`
 
@@ -1306,9 +1258,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.39 – Haus w463119894 – Teil 14/15 (Y 86–86)
+### Schritt 8.38 – Haus w463119894 – Teil 13/14 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 2.032
 - **Bauteile:** `w463119894`
 
@@ -1337,9 +1289,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.40 – Haus w463119894 – Teil 15/15 (Y 87–88)
+### Schritt 8.39 – Haus w463119894 – Teil 14/14 (Y 86–87)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.084
 - **Bauteile:** `w463119894`
 
@@ -1365,9 +1317,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.41 – Haus w463119894: Innenausbau – Teil 1/4 (Y 56–67)
+### Schritt 8.40 – Haus w463119894: Innenausbau – Teil 1/4 (Y 55–66)
 
-- **Y-Bereich:** 56 bis 67
+- **Y-Bereich:** 55 bis 66
 - **Blöcke:** 1.701
 - **Bauteile:** `w463119894_innen`
 
@@ -1403,9 +1355,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.42 – Haus w463119894: Innenausbau – Teil 2/4 (Y 67–69)
+### Schritt 8.41 – Haus w463119894: Innenausbau – Teil 2/4 (Y 66–68)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.623
 - **Bauteile:** `w463119894_innen`
 
@@ -1446,9 +1398,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.43 – Haus w463119894: Innenausbau – Teil 3/4 (Y 70–76)
+### Schritt 8.42 – Haus w463119894: Innenausbau – Teil 3/4 (Y 69–75)
 
-- **Y-Bereich:** 70 bis 76
+- **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.667
 - **Bauteile:** `w463119894_innen`
 
@@ -1484,9 +1436,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.44 – Haus w463119894: Innenausbau – Teil 4/4 (Y 76–86)
+### Schritt 8.43 – Haus w463119894: Innenausbau – Teil 4/4 (Y 75–85)
 
-- **Y-Bereich:** 76 bis 86
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.658
 - **Bauteile:** `w463119894_innen`
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.206 |
+| Blöcke | 25.209 |
 | Bauschritte | 15 |
-| Y-Bereich | 66 bis 104 |
+| Y-Bereich | 65 bis 103 |
 | X-Ausdehnung | -518 bis -456 (63 Blöcke) |
 | Z-Ausdehnung | 699 bis 749 (51 Blöcke) |
-| Kleinster Schritt | 1.311 Blöcke (Schritt 3.15) |
-| Mittlerer Schritt | 1.680 Blöcke |
+| Kleinster Schritt | 1.314 Blöcke (Schritt 3.15) |
+| Mittlerer Schritt | 1.681 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 3.6) |
 
 ## Gesamt-Stückliste
@@ -42,7 +42,9 @@
 | Weiße Keramik | `white_terracotta` | 15 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -59,13 +61,13 @@
 | 2 | `r1594041_innen` | Reihenhaus an Piazza del Mercato Nuovo: Innenausbau | 4.306 | 3.8–3.10 |
 | 3 | `w477524287` | Renaissance-Palazzo an Pellicceria | 6.365 | 3.11–3.14 |
 | 4 | `w477524287_innen` | Renaissance-Palazzo an Pellicceria: Innenausbau | 1.308 | 3.15 |
-| 5 | `strassenschilder` | Straßenschilder | 3 | 3.15 |
+| 5 | `strassenschilder` | Straßenschilder | 6 | 3.15 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Reihenhaus an Piazza del Mercato Nuovo – Teil 1/7 (Y 66–67)
+### Schritt 3.1 – Reihenhaus an Piazza del Mercato Nuovo – Teil 1/7 (Y 65–66)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.968
 - **Bauteile:** `r1594041`
 
@@ -94,9 +96,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Reihenhaus an Piazza del Mercato Nuovo – Teil 2/7 (Y 68–73)
+### Schritt 3.2 – Reihenhaus an Piazza del Mercato Nuovo – Teil 2/7 (Y 67–72)
 
-- **Y-Bereich:** 68 bis 73
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.674
 - **Bauteile:** `r1594041`
 
@@ -125,9 +127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Reihenhaus an Piazza del Mercato Nuovo – Teil 3/7 (Y 74–80)
+### Schritt 3.3 – Reihenhaus an Piazza del Mercato Nuovo – Teil 3/7 (Y 73–79)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 2.069
 - **Bauteile:** `r1594041`
 
@@ -156,9 +158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Reihenhaus an Piazza del Mercato Nuovo – Teil 4/7 (Y 81–86)
+### Schritt 3.4 – Reihenhaus an Piazza del Mercato Nuovo – Teil 4/7 (Y 80–85)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.777
 - **Bauteile:** `r1594041`
 
@@ -187,9 +189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Reihenhaus an Piazza del Mercato Nuovo – Teil 5/7 (Y 87–93)
+### Schritt 3.5 – Reihenhaus an Piazza del Mercato Nuovo – Teil 5/7 (Y 86–92)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 2.069
 - **Bauteile:** `r1594041`
 
@@ -218,9 +220,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Reihenhaus an Piazza del Mercato Nuovo – Teil 6/7 (Y 94–97)
+### Schritt 3.6 – Reihenhaus an Piazza del Mercato Nuovo – Teil 6/7 (Y 93–96)
 
-- **Y-Bereich:** 94 bis 97
+- **Y-Bereich:** 93 bis 96
 - **Blöcke:** 2.092
 - **Bauteile:** `r1594041`
 
@@ -250,9 +252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Reihenhaus an Piazza del Mercato Nuovo – Teil 7/7 (Y 98–104)
+### Schritt 3.7 – Reihenhaus an Piazza del Mercato Nuovo – Teil 7/7 (Y 97–103)
 
-- **Y-Bereich:** 98 bis 104
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.575
 - **Bauteile:** `r1594041`
 
@@ -279,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Reihenhaus an Piazza del Mercato Nuovo: Innenausbau – Teil 1/3 (Y 66–75)
+### Schritt 3.8 – Reihenhaus an Piazza del Mercato Nuovo: Innenausbau – Teil 1/3 (Y 65–74)
 
-- **Y-Bereich:** 66 bis 75
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.441
 - **Bauteile:** `r1594041_innen`
 
@@ -319,9 +321,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.9 – Reihenhaus an Piazza del Mercato Nuovo: Innenausbau – Teil 2/3 (Y 76–82)
+### Schritt 3.9 – Reihenhaus an Piazza del Mercato Nuovo: Innenausbau – Teil 2/3 (Y 75–81)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.428
 - **Bauteile:** `r1594041_innen`
 
@@ -359,9 +361,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.10 – Reihenhaus an Piazza del Mercato Nuovo: Innenausbau – Teil 3/3 (Y 83–90)
+### Schritt 3.10 – Reihenhaus an Piazza del Mercato Nuovo: Innenausbau – Teil 3/3 (Y 82–89)
 
-- **Y-Bereich:** 83 bis 90
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.437
 - **Bauteile:** `r1594041_innen`
 
@@ -399,9 +401,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.11 – Renaissance-Palazzo an Pellicceria – Teil 1/4 (Y 67–75)
+### Schritt 3.11 – Renaissance-Palazzo an Pellicceria – Teil 1/4 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.610
 - **Bauteile:** `w477524287`
 
@@ -432,9 +434,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.12 – Renaissance-Palazzo an Pellicceria – Teil 2/4 (Y 76–86)
+### Schritt 3.12 – Renaissance-Palazzo an Pellicceria – Teil 2/4 (Y 75–85)
 
-- **Y-Bereich:** 76 bis 86
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.565
 - **Bauteile:** `w477524287`
 
@@ -464,9 +466,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.13 – Renaissance-Palazzo an Pellicceria – Teil 3/4 (Y 87–96)
+### Schritt 3.13 – Renaissance-Palazzo an Pellicceria – Teil 3/4 (Y 86–95)
 
-- **Y-Bereich:** 87 bis 96
+- **Y-Bereich:** 86 bis 95
 - **Blöcke:** 1.654
 - **Bauteile:** `w477524287`
 
@@ -495,9 +497,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.14 – Renaissance-Palazzo an Pellicceria – Teil 4/4 (Y 97–103)
+### Schritt 3.14 – Renaissance-Palazzo an Pellicceria – Teil 4/4 (Y 96–102)
 
-- **Y-Bereich:** 97 bis 103
+- **Y-Bereich:** 96 bis 102
 - **Blöcke:** 1.536
 - **Bauteile:** `w477524287`
 
@@ -529,8 +531,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.15 – Renaissance-Palazzo an Pellicceria: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 67 bis 88
-- **Blöcke:** 1.311
+- **Y-Bereich:** 66 bis 87
+- **Blöcke:** 1.314
 - **Bauteile:** `w477524287_innen`, `strassenschilder`
 
 **Teileliste**
@@ -544,10 +546,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 

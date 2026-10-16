@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 70.662 |
+| Blöcke | 70.591 |
 | Bauschritte | 50 |
 | Y-Bereich | 57 bis 95 |
 | X-Ausdehnung | -3036 bis -2814 (223 Blöcke) |
 | Z-Ausdehnung | 920 bis 1044 (125 Blöcke) |
 | Kleinster Schritt | 658 Blöcke (Schritt 22.44) |
-| Mittlerer Schritt | 1.413 Blöcke |
+| Mittlerer Schritt | 1.412 Blöcke |
 | Größter Schritt | 1.898 Blöcke (Schritt 22.7) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.599 | 24,9 % |
-| Glatter Sandstein | `smooth_sandstone` | 12.702 | 18,0 % |
-| Orange Keramik | `orange_terracotta` | 8.450 | 12,0 % |
+| Terrakotta | `terracotta` | 17.602 | 24,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 12.678 | 18,0 % |
+| Orange Keramik | `orange_terracotta` | 8.400 | 11,9 % |
 | Weißer Beton | `white_concrete` | 6.584 | 9,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.458 | 7,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 5.374 | 7,6 % |
@@ -33,13 +33,13 @@
 | Fichtenholz-Bretter | `spruce_planks` | 871 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 846 | 1,2 % |
 | Ziegelsteine | `bricks` | 333 | 0,5 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 204 | 0,3 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 188 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 227 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 209 | 0,3 % |
 | Grüner Beton | `green_concrete` | 187 | 0,3 % |
 | Seelaterne | `sea_lantern` | 133 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 122 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 112 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 99 | 0,1 % |
 | Polierter Andesit | `polished_andesite` | 99 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 91 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 28 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 28 | 0,0 % |
 | Tuffstein | `tuff` | 14 | 0,0 % |
@@ -69,12 +69,12 @@
 | 10 | `w484825969_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 1.318 | 22.21 |
 | 11 | `w484825971` | Reihenhaus an Via Francesco Berni | 4.297 | 22.22–22.24 |
 | 12 | `w484825971_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 1.055 | 22.25 |
-| 13 | `w484825972` | Reihenhaus an Viale Ludovico Ariosto | 5.045 | 22.26–22.28 |
+| 13 | `w484825972` | Reihenhaus an Viale Ludovico Ariosto | 5.021 | 22.26–22.28 |
 | 14 | `w484825972_innen` | Reihenhaus an Viale Ludovico Ariosto: Innenausbau | 1.184 | 22.29 |
 | 15 | `w484825975` | Reihenhaus an Via Francesco Berni | 2.450 | 22.30–22.31 |
 | 16 | `w484825975_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 852 | 22.32 |
-| 17 | `w484825979` | Reihenhaus an Via Francesco Berni | 6.452 | 22.33–22.36 |
-| 18 | `w484825979_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 1.390 | 22.37 |
+| 17 | `w484825979` | Reihenhaus an Via Francesco Berni | 6.402 | 22.33–22.36 |
+| 18 | `w484825979_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 1.393 | 22.37 |
 | 19 | `w484825980` | Reihenhaus an Via Francesco Berni | 2.112 | 22.38–22.39 |
 | 20 | `w484825980_innen` | Reihenhaus an Via Francesco Berni: Innenausbau | 760 | 22.40 |
 | 21 | `w484825981` | Reihenhaus an Via Francesco Berni | 4.630 | 22.41–22.43 |
@@ -303,9 +303,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.7 – Reihenhaus an Viale Ludovico Ariosto – Teil 1/4 (Y 59–66)
+### Schritt 22.7 – Reihenhaus an Viale Ludovico Ariosto – Teil 1/4 (Y 58–65)
 
-- **Y-Bereich:** 59 bis 66
+- **Y-Bereich:** 58 bis 65
 - **Blöcke:** 1.898
 - **Bauteile:** `w484825965`
 
@@ -336,9 +336,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.8 – Reihenhaus an Viale Ludovico Ariosto – Teil 2/4 (Y 67–75)
+### Schritt 22.8 – Reihenhaus an Viale Ludovico Ariosto – Teil 2/4 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.833
 - **Bauteile:** `w484825965`
 
@@ -367,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.9 – Reihenhaus an Viale Ludovico Ariosto – Teil 3/4 (Y 76–84)
+### Schritt 22.9 – Reihenhaus an Viale Ludovico Ariosto – Teil 3/4 (Y 75–83)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.820
 - **Bauteile:** `w484825965`
 
@@ -398,9 +398,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.10 – Reihenhaus an Viale Ludovico Ariosto – Teil 4/4 (Y 85–93)
+### Schritt 22.10 – Reihenhaus an Viale Ludovico Ariosto – Teil 4/4 (Y 84–92)
 
-- **Y-Bereich:** 85 bis 93
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.803
 - **Bauteile:** `w484825965`
 
@@ -433,7 +433,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.11 – Reihenhaus an Viale Ludovico Ariosto: Innenausbau
 
-- **Y-Bereich:** 59 bis 83
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 995
 - **Bauteile:** `w484825965_innen`
 
@@ -935,14 +935,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 22.26 – Reihenhaus an Viale Ludovico Ariosto – Teil 1/3 (Y 58–67)
 
 - **Y-Bereich:** 58 bis 67
-- **Blöcke:** 1.660
+- **Blöcke:** 1.636
 - **Bauteile:** `w484825972`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 943 |
+| Glatter Sandstein | `smooth_sandstone` | 919 |
 | Polierter Tuffstein | `polished_tuff` | 491 |
 | Weißer Beton | `white_concrete` | 142 |
 | Graues Buntglas | `gray_stained_glass` | 53 |
@@ -1041,13 +1041,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.032 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1177,17 +1177,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.33 – Reihenhaus an Via Francesco Berni – Teil 1/4 (Y 59–65)
+### Schritt 22.33 – Reihenhaus an Via Francesco Berni – Teil 1/4 (Y 58–64)
 
-- **Y-Bereich:** 59 bis 65
-- **Blöcke:** 1.545
+- **Y-Bereich:** 58 bis 64
+- **Blöcke:** 1.521
 - **Bauteile:** `w484825979`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 690 |
+| Orange Keramik | `orange_terracotta` | 666 |
 | Polierter Tuffstein | `polished_tuff` | 603 |
 | Glatter Stein | `smooth_stone` | 156 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
@@ -1209,9 +1209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.34 – Reihenhaus an Via Francesco Berni – Teil 2/4 (Y 66–75)
+### Schritt 22.34 – Reihenhaus an Via Francesco Berni – Teil 2/4 (Y 65–74)
 
-- **Y-Bereich:** 66 bis 75
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.652
 - **Bauteile:** `w484825979`
 
@@ -1240,9 +1240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.35 – Reihenhaus an Via Francesco Berni – Teil 3/4 (Y 76–85)
+### Schritt 22.35 – Reihenhaus an Via Francesco Berni – Teil 3/4 (Y 75–84)
 
-- **Y-Bereich:** 76 bis 85
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.642
 - **Bauteile:** `w484825979`
 
@@ -1271,10 +1271,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.36 – Reihenhaus an Via Francesco Berni – Teil 4/4 (Y 86–95)
+### Schritt 22.36 – Reihenhaus an Via Francesco Berni – Teil 4/4 (Y 85–94)
 
-- **Y-Bereich:** 86 bis 95
-- **Blöcke:** 1.613
+- **Y-Bereich:** 85 bis 94
+- **Blöcke:** 1.587
 - **Bauteile:** `w484825979`
 
 **Teileliste**
@@ -1282,7 +1282,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 790 |
-| Orange Keramik | `orange_terracotta` | 621 |
+| Orange Keramik | `orange_terracotta` | 595 |
 | Glatter Stein | `smooth_stone` | 107 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Ziegelsteine | `bricks` | 39 |
@@ -1306,18 +1306,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.37 – Reihenhaus an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 59 bis 82
-- **Blöcke:** 1.390
+- **Y-Bereich:** 58 bis 81
+- **Blöcke:** 1.393
 - **Bauteile:** `w484825979_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.263 |
+| Terrakotta | `terracotta` | 1.266 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 13 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |

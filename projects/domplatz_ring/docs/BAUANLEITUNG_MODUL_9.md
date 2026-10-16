@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 9.815 |
 | Bauschritte | 7 |
-| Y-Bereich | 65 bis 94 |
+| Y-Bereich | 64 bis 93 |
 | X-Ausdehnung | -89 bis -45 (45 Blöcke) |
 | Z-Ausdehnung | -313 bis -277 (37 Blöcke) |
 | Kleinster Schritt | 653 Blöcke (Schritt 9.3) |
@@ -59,9 +59,9 @@
 
 ## Bauschritte
 
-### Schritt 9.1 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 65–77)
+### Schritt 9.1 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 64–76)
 
-- **Y-Bereich:** 65 bis 77
+- **Y-Bereich:** 64 bis 76
 - **Blöcke:** 1.959
 - **Bauteile:** `w480049298`
 
@@ -90,9 +90,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 78–93)
+### Schritt 9.2 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 77–92)
 
-- **Y-Bereich:** 78 bis 93
+- **Y-Bereich:** 77 bis 92
 - **Blöcke:** 1.936
 - **Bauteile:** `w480049298`
 
@@ -124,7 +124,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.3 – Reihenhaus an Via dei Pucci: Innenausbau
 
-- **Y-Bereich:** 65 bis 82
+- **Y-Bereich:** 64 bis 81
 - **Blöcke:** 653
 - **Bauteile:** `w480049298_innen`
 
@@ -162,9 +162,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.4 – Reihenhaus an Via Ricasoli – Teil 1/3 (Y 65–72)
+### Schritt 9.4 – Reihenhaus an Via Ricasoli – Teil 1/3 (Y 64–71)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.447
 - **Bauteile:** `w480049299`
 
@@ -196,9 +196,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Reihenhaus an Via Ricasoli – Teil 2/3 (Y 73–83)
+### Schritt 9.5 – Reihenhaus an Via Ricasoli – Teil 2/3 (Y 72–82)
 
-- **Y-Bereich:** 73 bis 83
+- **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.469
 - **Bauteile:** `w480049299`
 
@@ -228,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Reihenhaus an Via Ricasoli – Teil 3/3 (Y 84–94)
+### Schritt 9.6 – Reihenhaus an Via Ricasoli – Teil 3/3 (Y 83–93)
 
-- **Y-Bereich:** 84 bis 94
+- **Y-Bereich:** 83 bis 93
 - **Blöcke:** 1.401
 - **Bauteile:** `w480049299`
 
@@ -263,7 +263,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.7 – Reihenhaus an Via Ricasoli: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 65 bis 82
+- **Y-Bereich:** 64 bis 81
 - **Blöcke:** 950
 - **Bauteile:** `w480049299_innen`, `strassenschilder`
 

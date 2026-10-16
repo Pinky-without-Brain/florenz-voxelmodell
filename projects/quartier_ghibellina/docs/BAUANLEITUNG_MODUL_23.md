@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.720 |
+| Blöcke | 14.718 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 63 bis 99 |
 | X-Ausdehnung | 1628 bis 1665 (38 Blöcke) |
 | Z-Ausdehnung | 639 bis 715 (77 Blöcke) |
 | Kleinster Schritt | 1.380 Blöcke (Schritt 23.9) |
-| Mittlerer Schritt | 1.636 Blöcke |
+| Mittlerer Schritt | 1.635 Blöcke |
 | Größter Schritt | 1.783 Blöcke (Schritt 23.7) |
 
 ## Gesamt-Stückliste
@@ -39,7 +39,6 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
-| Tuffstein | `tuff` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
@@ -54,16 +53,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w115065316` | Palazzo des Cinquecento an Via Santa Verdiana | 13.340 | 23.1–23.8 |
+| 1 | `w115065316` | Palazzo des Cinquecento an Via Santa Verdiana | 13.338 | 23.1–23.8 |
 | 2 | `w115065316_innen` | Palazzo des Cinquecento an Via Santa Verdiana: Innenausbau | 1.378 | 23.9 |
 | 3 | `strassenschilder` | Straßenschilder | 2 | 23.9 |
 
 ## Bauschritte
 
-### Schritt 23.1 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 1/8 (Y 63–66)
+### Schritt 23.1 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 1/8 (Y 63–65)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.706
+- **Y-Bereich:** 63 bis 65
+- **Blöcke:** 1.704
 - **Bauteile:** `w115065316`
 
 **Teileliste**
@@ -74,7 +73,6 @@
 | Gelbe Keramik | `yellow_terracotta` | 678 |
 | Polierter Andesit | `polished_andesite` | 22 |
 | Glatter Stein | `smooth_stone` | 6 |
-| Tuffstein | `tuff` | 2 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
@@ -93,9 +91,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.2 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 2/8 (Y 67–71)
+### Schritt 23.2 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 2/8 (Y 66–70)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 66 bis 70
 - **Blöcke:** 1.662
 - **Bauteile:** `w115065316`
 
@@ -126,9 +124,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.3 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 3/8 (Y 72–75)
+### Schritt 23.3 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 3/8 (Y 71–74)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.452
 - **Bauteile:** `w115065316`
 
@@ -157,9 +155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.4 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 4/8 (Y 76–80)
+### Schritt 23.4 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 4/8 (Y 75–79)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.696
 - **Bauteile:** `w115065316`
 
@@ -189,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.5 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 5/8 (Y 81–85)
+### Schritt 23.5 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 5/8 (Y 80–84)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.739
 - **Bauteile:** `w115065316`
 
@@ -221,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.6 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 6/8 (Y 86–90)
+### Schritt 23.6 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 6/8 (Y 85–89)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 85 bis 89
 - **Blöcke:** 1.696
 - **Bauteile:** `w115065316`
 
@@ -253,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.7 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 7/8 (Y 91–94)
+### Schritt 23.7 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 7/8 (Y 90–93)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 90 bis 93
 - **Blöcke:** 1.783
 - **Bauteile:** `w115065316`
 
@@ -286,9 +284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.8 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 8/8 (Y 95–100)
+### Schritt 23.8 – Palazzo des Cinquecento an Via Santa Verdiana – Teil 8/8 (Y 94–99)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 94 bis 99
 - **Blöcke:** 1.606
 - **Bauteile:** `w115065316`
 
@@ -317,7 +315,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 23.9 – Palazzo des Cinquecento an Via Santa Verdiana: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 64 bis 85
+- **Y-Bereich:** 63 bis 84
 - **Blöcke:** 1.380
 - **Bauteile:** `w115065316_innen`, `strassenschilder`
 

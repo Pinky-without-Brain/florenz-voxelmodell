@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.947 |
+| Blöcke | 40.925 |
 | Bauschritte | 25 |
-| Y-Bereich | 61 bis 109 |
+| Y-Bereich | 60 bis 108 |
 | X-Ausdehnung | 361 bis 441 (81 Blöcke) |
 | Z-Ausdehnung | 970 bis 1076 (107 Blöcke) |
 | Kleinster Schritt | 718 Blöcke (Schritt 7.7) |
-| Mittlerer Schritt | 1.638 Blöcke |
+| Mittlerer Schritt | 1.637 Blöcke |
 | Größter Schritt | 2.092 Blöcke (Schritt 7.24) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 11.865 | 29,0 % |
-| Tuffstein | `tuff` | 9.118 | 22,3 % |
-| Glatter Stein | `smooth_stone` | 4.571 | 11,2 % |
+| Terrakotta | `terracotta` | 11.863 | 29,0 % |
+| Tuffstein | `tuff` | 9.094 | 22,2 % |
+| Glatter Stein | `smooth_stone` | 4.572 | 11,2 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.718 | 9,1 % |
 | Polierter Tuffstein | `polished_tuff` | 3.358 | 8,2 % |
 | Polierter Andesit | `polished_andesite` | 2.993 | 7,3 % |
@@ -41,12 +41,12 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 5 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -63,17 +63,17 @@
 | 2 | `w354964416_innen` | Reihenhaus an Via del Canto Rivolto: Innenausbau | 810 | 7.4 |
 | 3 | `w486626748` | Reihenhaus an Via delle Brache | 2.764 | 7.5–7.6 |
 | 4 | `w486626748_innen` | Reihenhaus an Via delle Brache: Innenausbau | 718 | 7.7 |
-| 5 | `w486626749` | Wohnturm an Via delle Brache | 4.663 | 7.8–7.10 |
+| 5 | `w486626749` | Wohnturm an Via delle Brache | 4.681 | 7.8–7.10 |
 | 6 | `w486626749_innen` | Wohnturm an Via delle Brache: Innenausbau | 5 | 7.11 |
-| 7 | `w486626750` | Palazzo Salutati | 20.079 | 7.11–7.22 |
-| 8 | `w486626750_innen` | Palazzo Salutati: Innenausbau | 6.293 | 7.22–7.25 |
-| 9 | `strassenschilder` | Straßenschilder | 8 | 7.25 |
+| 7 | `w486626750` | Palazzo Salutati | 20.036 | 7.11–7.22 |
+| 8 | `w486626750_innen` | Palazzo Salutati: Innenausbau | 6.295 | 7.22–7.25 |
+| 9 | `strassenschilder` | Straßenschilder | 9 | 7.25 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Reihenhaus an Via del Canto Rivolto – Teil 1/3 (Y 61–71)
+### Schritt 7.1 – Reihenhaus an Via del Canto Rivolto – Teil 1/3 (Y 60–70)
 
-- **Y-Bereich:** 61 bis 71
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.934
 - **Bauteile:** `w354964416`
 
@@ -103,9 +103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Reihenhaus an Via del Canto Rivolto – Teil 2/3 (Y 72–83)
+### Schritt 7.2 – Reihenhaus an Via del Canto Rivolto – Teil 2/3 (Y 71–82)
 
-- **Y-Bereich:** 72 bis 83
+- **Y-Bereich:** 71 bis 82
 - **Blöcke:** 1.832
 - **Bauteile:** `w354964416`
 
@@ -133,9 +133,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Reihenhaus an Via del Canto Rivolto – Teil 3/3 (Y 84–95)
+### Schritt 7.3 – Reihenhaus an Via del Canto Rivolto – Teil 3/3 (Y 83–94)
 
-- **Y-Bereich:** 84 bis 95
+- **Y-Bereich:** 83 bis 94
 - **Blöcke:** 1.841
 - **Bauteile:** `w354964416`
 
@@ -167,7 +167,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.4 – Reihenhaus an Via del Canto Rivolto: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 810
 - **Bauteile:** `w354964416_innen`
 
@@ -207,9 +207,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.5 – Reihenhaus an Via delle Brache – Teil 1/2 (Y 61–76)
+### Schritt 7.5 – Reihenhaus an Via delle Brache – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 61 bis 76
+- **Y-Bereich:** 60 bis 75
 - **Blöcke:** 1.355
 - **Bauteile:** `w486626748`
 
@@ -239,9 +239,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Reihenhaus an Via delle Brache – Teil 2/2 (Y 77–95)
+### Schritt 7.6 – Reihenhaus an Via delle Brache – Teil 2/2 (Y 76–94)
 
-- **Y-Bereich:** 77 bis 95
+- **Y-Bereich:** 76 bis 94
 - **Blöcke:** 1.409
 - **Bauteile:** `w486626748`
 
@@ -273,7 +273,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.7 – Reihenhaus an Via delle Brache: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 718
 - **Bauteile:** `w486626748_innen`
 
@@ -314,14 +314,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 7.8 – Wohnturm an Via delle Brache – Teil 1/3 (Y 61–74)
 
 - **Y-Bereich:** 61 bis 74
-- **Blöcke:** 1.580
+- **Blöcke:** 1.564
 - **Bauteile:** `w486626749`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.148 |
+| Tuffstein | `tuff` | 1.132 |
 | Polierter Tuffstein | `polished_tuff` | 268 |
 | Tuffsteinziegel | `tuff_bricks` | 72 |
 | Glatter Stein | `smooth_stone` | 70 |
@@ -378,14 +378,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 7.10 – Wohnturm an Via delle Brache – Teil 3/3 (Y 90–103)
 
 - **Y-Bereich:** 90 bis 103
-- **Blöcke:** 1.547
+- **Blöcke:** 1.581
 - **Bauteile:** `w486626749`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.058 |
+| Tuffstein | `tuff` | 1.092 |
 | Terrakotta | `terracotta` | 330 |
 | Fichtenholz-Bretter | `spruce_planks` | 52 |
 | Tuffsteinziegel | `tuff_bricks` | 50 |
@@ -409,7 +409,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Wohnturm an Via delle Brache: Innenausbau & Palazzo Salutati – Teil 1/12 (Y 62–62)
+### Schritt 7.11 – Wohnturm an Via delle Brache: Innenausbau & Palazzo Salutati – Teil 1/12 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.224
@@ -447,9 +447,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Palazzo Salutati – Teil 2/12 (Y 62–64)
+### Schritt 7.12 – Palazzo Salutati – Teil 2/12 (Y 61–63)
 
-- **Y-Bereich:** 62 bis 64
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.854
 - **Bauteile:** `w486626750`
 
@@ -479,9 +479,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Palazzo Salutati – Teil 3/12 (Y 65–70)
+### Schritt 7.13 – Palazzo Salutati – Teil 3/12 (Y 64–69)
 
-- **Y-Bereich:** 65 bis 70
+- **Y-Bereich:** 64 bis 69
 - **Blöcke:** 1.906
 - **Bauteile:** `w486626750`
 
@@ -511,9 +511,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Palazzo Salutati – Teil 4/12 (Y 71–75)
+### Schritt 7.14 – Palazzo Salutati – Teil 4/12 (Y 70–74)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.872
 - **Bauteile:** `w486626750`
 
@@ -542,9 +542,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.15 – Palazzo Salutati – Teil 5/12 (Y 76–79)
+### Schritt 7.15 – Palazzo Salutati – Teil 5/12 (Y 75–78)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 75 bis 78
 - **Blöcke:** 1.420
 - **Bauteile:** `w486626750`
 
@@ -574,9 +574,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.16 – Palazzo Salutati – Teil 6/12 (Y 80–83)
+### Schritt 7.16 – Palazzo Salutati – Teil 6/12 (Y 79–82)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.610
 - **Bauteile:** `w486626750`
 
@@ -605,9 +605,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.17 – Palazzo Salutati – Teil 7/12 (Y 84–88)
+### Schritt 7.17 – Palazzo Salutati – Teil 7/12 (Y 83–87)
 
-- **Y-Bereich:** 84 bis 88
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.770
 - **Bauteile:** `w486626750`
 
@@ -636,9 +636,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.18 – Palazzo Salutati – Teil 8/12 (Y 89–92)
+### Schritt 7.18 – Palazzo Salutati – Teil 8/12 (Y 88–91)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 88 bis 91
 - **Blöcke:** 1.589
 - **Bauteile:** `w486626750`
 
@@ -666,9 +666,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.19 – Palazzo Salutati – Teil 9/12 (Y 93–97)
+### Schritt 7.19 – Palazzo Salutati – Teil 9/12 (Y 92–96)
 
-- **Y-Bereich:** 93 bis 97
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.922
 - **Bauteile:** `w486626750`
 
@@ -697,19 +697,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.20 – Palazzo Salutati – Teil 10/12 (Y 98–99)
+### Schritt 7.20 – Palazzo Salutati – Teil 10/12 (Y 97–98)
 
-- **Y-Bereich:** 98 bis 99
-- **Blöcke:** 1.432
+- **Y-Bereich:** 97 bis 98
+- **Blöcke:** 1.391
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 811 |
-| Tuffstein | `tuff` | 318 |
+| Glatter Stein | `smooth_stone` | 812 |
 | Polierter Andesit | `polished_andesite` | 303 |
+| Tuffstein | `tuff` | 276 |
 
 **Beschreibung**
 
@@ -727,17 +727,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.21 – Palazzo Salutati – Teil 11/12 (Y 100–101)
+### Schritt 7.21 – Palazzo Salutati – Teil 11/12 (Y 99–100)
 
-- **Y-Bereich:** 100 bis 101
-- **Blöcke:** 1.588
+- **Y-Bereich:** 99 bis 100
+- **Blöcke:** 1.586
 - **Bauteile:** `w486626750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.588 |
+| Terrakotta | `terracotta` | 1.586 |
 
 **Beschreibung**
 
@@ -755,9 +755,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.22 – Palazzo Salutati – Teil 12/12 (Y 102–109) & Palazzo Salutati: Innenausbau – Teil 1/4 (Y 62–72)
+### Schritt 7.22 – Palazzo Salutati – Teil 12/12 (Y 101–108) & Palazzo Salutati: Innenausbau – Teil 1/4 (Y 61–71)
 
-- **Y-Bereich:** 62 bis 109
+- **Y-Bereich:** 61 bis 108
 - **Blöcke:** 1.956
 - **Bauteile:** `w486626750`, `w486626750_innen`
 
@@ -794,9 +794,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.23 – Palazzo Salutati: Innenausbau – Teil 2/4 (Y 73–80)
+### Schritt 7.23 – Palazzo Salutati: Innenausbau – Teil 2/4 (Y 72–79)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 2.090
 - **Bauteile:** `w486626750_innen`
 
@@ -834,9 +834,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.24 – Palazzo Salutati: Innenausbau – Teil 3/4 (Y 81–89)
+### Schritt 7.24 – Palazzo Salutati: Innenausbau – Teil 3/4 (Y 80–88)
 
-- **Y-Bereich:** 81 bis 89
+- **Y-Bereich:** 80 bis 88
 - **Blöcke:** 2.092
 - **Bauteile:** `w486626750_innen`
 
@@ -872,10 +872,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.25 – Palazzo Salutati: Innenausbau – Teil 4/4 (Y 90–90) & Straßenschilder
+### Schritt 7.25 – Palazzo Salutati: Innenausbau – Teil 4/4 (Y 89–90) & Straßenschilder
 
-- **Y-Bereich:** 68 bis 90
-- **Blöcke:** 2.060
+- **Y-Bereich:** 67 bis 90
+- **Blöcke:** 2.063
 - **Bauteile:** `w486626750_innen`, `strassenschilder`
 
 **Teileliste**
@@ -884,11 +884,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.039 |
 | Seelaterne | `sea_lantern` | 11 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,102 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.578 |
-| Bauschritte | 10 |
-| Y-Bereich | 60 bis 100 |
+| Blöcke | 13.803 |
+| Bauschritte | 9 |
+| Y-Bereich | 59 bis 94 |
 | X-Ausdehnung | -1837 bis -1792 (46 Blöcke) |
 | Z-Ausdehnung | -995 bis -916 (80 Blöcke) |
-| Kleinster Schritt | 1.241 Blöcke (Schritt 44.10) |
-| Mittlerer Schritt | 1.558 Blöcke |
-| Größter Schritt | 2.073 Blöcke (Schritt 44.9) |
+| Kleinster Schritt | 1.241 Blöcke (Schritt 44.9) |
+| Mittlerer Schritt | 1.534 Blöcke |
+| Größter Schritt | 2.073 Blöcke (Schritt 44.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 5.597 | 35,9 % |
-| Polierter Andesit | `polished_andesite` | 4.620 | 29,7 % |
-| Glatter Stein | `smooth_stone` | 1.936 | 12,4 % |
-| Terrakotta | `terracotta` | 1.231 | 7,9 % |
-| Graues Buntglas | `gray_stained_glass` | 910 | 5,8 % |
-| Polierter Tuffstein | `polished_tuff` | 753 | 4,8 % |
-| Tuffsteinziegel | `tuff_bricks` | 499 | 3,2 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 22 | 0,1 % |
+| Polierter Andesit | `polished_andesite` | 4.596 | 33,3 % |
+| Tuffstein | `tuff` | 3.844 | 27,8 % |
+| Glatter Stein | `smooth_stone` | 1.936 | 14,0 % |
+| Terrakotta | `terracotta` | 1.231 | 8,9 % |
+| Graues Buntglas | `gray_stained_glass` | 910 | 6,6 % |
+| Polierter Tuffstein | `polished_tuff` | 777 | 5,6 % |
+| Tuffsteinziegel | `tuff_bricks` | 499 | 3,6 % |
 | Ziegelsteine | `bricks` | 6 | 0,0 % |
 | Seelaterne | `sea_lantern` | 4 | 0,0 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 22 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443083470` | Renaissance-Palazzo an Via Luigi Alamanni | 15.574 | 44.1–44.10 |
-| 2 | `w443083470_innen` | Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau | 4 | 44.10 |
+| 1 | `w443083470` | Renaissance-Palazzo an Via Luigi Alamanni | 13.799 | 44.1–44.9 |
+| 2 | `w443083470_innen` | Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau | 4 | 44.9 |
 
 ## Bauschritte
 
-### Schritt 44.1 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 1/10 (Y 60–64)
+### Schritt 44.1 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 1/9 (Y 59–61)
 
-- **Y-Bereich:** 60 bis 64
-- **Blöcke:** 1.771
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.513
 - **Bauteile:** `w443083470`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.753 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 18 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 18 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.2 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 2/10 (Y 65–67)
-
-- **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.493
-- **Bauteile:** `w443083470`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 753 |
+| Polierter Tuffstein | `polished_tuff` | 777 |
 | Tuffstein | `tuff` | 300 |
 | Polierter Andesit | `polished_andesite` | 228 |
 | Tuffsteinziegel | `tuff_bricks` | 186 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -121,114 +72,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 3/10 (Y 68–71)
+### Schritt 44.2 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 2/9 (Y 62–66)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.373
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.674
 - **Bauteile:** `w443083470`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 631 |
-| Tuffstein | `tuff` | 462 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Tuffsteinziegel | `tuff_bricks` | 116 |
-| Glatter Stein | `smooth_stone` | 44 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.4 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 4/10 (Y 72–75)
-
-- **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.410
-- **Bauteile:** `w443083470`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 527 |
-| Tuffstein | `tuff` | 522 |
-| Tuffsteinziegel | `tuff_bricks` | 197 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 44 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.5 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 5/10 (Y 76–79)
-
-- **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.620
-- **Bauteile:** `w443083470`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 618 |
-| Tuffstein | `tuff` | 564 |
-| Glatter Stein | `smooth_stone` | 371 |
-| Graues Buntglas | `gray_stained_glass` | 67 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 44.6 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 6/10 (Y 80–84)
-
-- **Y-Bereich:** 80 bis 84
-- **Blöcke:** 1.677
-- **Bauteile:** `w443083470`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 787 |
-| Tuffstein | `tuff` | 562 |
-| Graues Buntglas | `gray_stained_glass` | 268 |
+| Polierter Andesit | `polished_andesite` | 716 |
+| Tuffstein | `tuff` | 568 |
+| Graues Buntglas | `gray_stained_glass` | 180 |
+| Tuffsteinziegel | `tuff_bricks` | 150 |
 | Glatter Stein | `smooth_stone` | 60 |
 
 **Beschreibung**
@@ -247,9 +104,103 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.7 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 7/10 (Y 85–88)
+### Schritt 44.3 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 3/9 (Y 67–70)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 67 bis 70
+- **Blöcke:** 1.582
+- **Bauteile:** `w443083470`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 570 |
+| Polierter Andesit | `polished_andesite` | 418 |
+| Glatter Stein | `smooth_stone` | 371 |
+| Tuffsteinziegel | `tuff_bricks` | 163 |
+| Graues Buntglas | `gray_stained_glass` | 60 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.4 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 4/9 (Y 71–74)
+
+- **Y-Bereich:** 71 bis 74
+- **Blöcke:** 1.448
+- **Bauteile:** `w443083470`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 758 |
+| Tuffstein | `tuff` | 512 |
+| Graues Buntglas | `gray_stained_glass` | 134 |
+| Glatter Stein | `smooth_stone` | 44 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.5 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 5/9 (Y 75–78)
+
+- **Y-Bereich:** 75 bis 78
+- **Blöcke:** 1.352
+- **Bauteile:** `w443083470`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 647 |
+| Tuffstein | `tuff` | 460 |
+| Graues Buntglas | `gray_stained_glass` | 201 |
+| Glatter Stein | `smooth_stone` | 44 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.6 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 6/9 (Y 79–82)
+
+- **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.620
 - **Bauteile:** `w443083470`
 
@@ -278,9 +229,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.8 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 8/10 (Y 89–92)
+### Schritt 44.7 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 7/9 (Y 83–86)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.300
 - **Bauteile:** `w443083470`
 
@@ -309,9 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.9 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 9/10 (Y 93–95)
+### Schritt 44.8 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 8/9 (Y 87–89)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 2.073
 - **Bauteile:** `w443083470`
 
@@ -339,9 +290,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.10 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 10/10 (Y 96–100) & Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau
+### Schritt 44.9 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 9/9 (Y 90–94) & Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau
 
-- **Y-Bereich:** 65 bis 100
+- **Y-Bereich:** 59 bis 94
 - **Blöcke:** 1.241
 - **Bauteile:** `w443083470`, `w443083470_innen`
 

@@ -8,28 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 19.294 |
+| Blöcke | 19.197 |
 | Bauschritte | 11 |
 | Y-Bereich | 175 bis 213 |
 | X-Ausdehnung | -219 bis -170 (50 Blöcke) |
 | Z-Ausdehnung | 2082 bis 2131 (50 Blöcke) |
 | Kleinster Schritt | 555 Blöcke (Schritt 20.11) |
-| Mittlerer Schritt | 1.754 Blöcke |
+| Mittlerer Schritt | 1.745 Blöcke |
 | Größter Schritt | 2.085 Blöcke (Schritt 20.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.815 | 35,3 % |
-| Terrakotta | `terracotta` | 5.293 | 27,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.659 | 13,8 % |
+| Endsteinziegel | `end_stone_bricks` | 6.815 | 35,5 % |
+| Terrakotta | `terracotta` | 5.293 | 27,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.649 | 13,8 % |
 | Weißer Beton | `white_concrete` | 1.813 | 9,4 % |
-| Polierter Tuffstein | `polished_tuff` | 1.490 | 7,7 % |
+| Polierter Tuffstein | `polished_tuff` | 1.492 | 7,8 % |
 | Graues Buntglas | `gray_stained_glass` | 641 | 3,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 136 | 0,7 % |
 | Ziegelsteine | `bricks` | 102 | 0,5 % |
-| Tuffstein | `tuff` | 87 | 0,5 % |
 | Grüner Beton | `green_concrete` | 50 | 0,3 % |
 | Glatter Stein | `smooth_stone` | 40 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 29 | 0,2 % |
@@ -39,14 +38,12 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 15 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 15 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 108 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -54,7 +51,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w119219990` | Haus w119219990 | 11.679 | 20.1–20.6 |
 | 2 | `w119219990_innen` | Haus w119219990: Innenausbau | 2.939 | 20.7–20.8 |
-| 3 | `w707346996` | Reihenhaus an Via del Forte di San Giorgio | 4.121 | 20.9–20.10 |
+| 3 | `w707346996` | Reihenhaus an Via del Forte di San Giorgio | 4.024 | 20.9–20.10 |
 | 4 | `w707346996_innen` | Reihenhaus an Via del Forte di San Giorgio: Innenausbau | 555 | 20.11 |
 
 ## Bauschritte
@@ -328,10 +325,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.9 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/2 (Y 176–193)
+### Schritt 20.9 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/2 (Y 176–192)
 
-- **Y-Bereich:** 176 bis 193
-- **Blöcke:** 2.081
+- **Y-Bereich:** 176 bis 192
+- **Blöcke:** 1.994
 - **Bauteile:** `w707346996`
 
 **Teileliste**
@@ -339,19 +336,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 1.363 |
-| Polierter Tuffstein | `polished_tuff` | 263 |
+| Polierter Tuffstein | `polished_tuff` | 265 |
 | Weißer Beton | `white_concrete` | 226 |
 | Graues Buntglas | `gray_stained_glass` | 106 |
-| Tuffstein | `tuff` | 87 |
 | Glatter Stein | `smooth_stone` | 20 |
 | Grüner Beton | `green_concrete` | 14 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -369,17 +358,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.10 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/2 (Y 194–211)
+### Schritt 20.10 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/2 (Y 193–210)
 
-- **Y-Bereich:** 194 bis 211
-- **Blöcke:** 2.040
+- **Y-Bereich:** 193 bis 210
+- **Blöcke:** 2.030
 - **Bauteile:** `w707346996`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.296 |
+| Gelbe Keramik | `yellow_terracotta` | 1.286 |
 | Terrakotta | `terracotta` | 371 |
 | Weißer Beton | `white_concrete` | 240 |
 | Graues Buntglas | `gray_stained_glass` | 112 |
@@ -404,7 +393,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 20.11 – Reihenhaus an Via del Forte di San Giorgio: Innenausbau
 
-- **Y-Bereich:** 177 bis 201
+- **Y-Bereich:** 176 bis 200
 - **Blöcke:** 555
 - **Bauteile:** `w707346996_innen`
 

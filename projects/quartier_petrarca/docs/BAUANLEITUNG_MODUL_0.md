@@ -8,31 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.769 |
+| Blöcke | 9.880 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 63 bis 102 |
 | X-Ausdehnung | -3046 bis -2996 (51 Blöcke) |
 | Z-Ausdehnung | 1491 bis 1542 (52 Blöcke) |
-| Kleinster Schritt | 1.454 Blöcke (Schritt 0.1) |
-| Mittlerer Schritt | 1.795 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 0.4) |
+| Kleinster Schritt | 1.268 Blöcke (Schritt 0.2) |
+| Mittlerer Schritt | 1.647 Blöcke |
+| Größter Schritt | 1.863 Blöcke (Schritt 0.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 6.479 | 60,2 % |
-| Weißer Beton | `white_concrete` | 1.262 | 11,7 % |
-| Tuffstein | `tuff` | 1.125 | 10,4 % |
-| Terrakotta | `terracotta` | 567 | 5,3 % |
-| Polierter Tuffstein | `polished_tuff` | 407 | 3,8 % |
-| Glatter Stein | `smooth_stone` | 319 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 295 | 2,7 % |
-| Polierter Andesit | `polished_andesite` | 156 | 1,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 118 | 1,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 14 | 0,1 % |
+| Orange Keramik | `orange_terracotta` | 6.491 | 65,7 % |
+| Weißer Beton | `white_concrete` | 1.249 | 12,6 % |
+| Terrakotta | `terracotta` | 567 | 5,7 % |
+| Polierter Tuffstein | `polished_tuff` | 423 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 319 | 3,2 % |
+| Graues Buntglas | `gray_stained_glass` | 295 | 3,0 % |
+| Tuffstein | `tuff` | 237 | 2,4 % |
+| Polierter Andesit | `polished_andesite` | 156 | 1,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 118 | 1,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 | Seelaterne | `sea_lantern` | 4 | 0,0 % |
 | Ziegelsteine | `bricks` | 3 | 0,0 % |
 
@@ -40,42 +39,42 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464120118` | Haus w464120118 | 2.950 | 0.1–0.2 |
+| 1 | `w464120118` | Haus w464120118 | 2.600 | 0.1–0.2 |
 | 2 | `w464120118_innen` | Haus w464120118: Innenausbau | 1 | 0.3 |
-| 3 | `w464120127` | Haus w464120127 | 7.815 | 0.3–0.6 |
+| 3 | `w464120127` | Haus w464120127 | 7.276 | 0.3–0.6 |
 | 4 | `w464120127_innen` | Haus w464120127: Innenausbau | 3 | 0.6 |
 
 ## Bauschritte
 
-### Schritt 0.1 – Haus w464120118 – Teil 1/2 (Y 63–82)
+### Schritt 0.1 – Haus w464120118 – Teil 1/2 (Y 63–80)
 
-- **Y-Bereich:** 63 bis 82
-- **Blöcke:** 1.454
+- **Y-Bereich:** 63 bis 80
+- **Blöcke:** 1.332
 - **Bauteile:** `w464120118`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 853 |
-| Tuffstein | `tuff` | 370 |
-| Polierter Tuffstein | `polished_tuff` | 110 |
-| Weißer Beton | `white_concrete` | 73 |
+| Orange Keramik | `orange_terracotta` | 1.048 |
+| Polierter Tuffstein | `polished_tuff` | 120 |
+| Weißer Beton | `white_concrete` | 106 |
+| Tuffstein | `tuff` | 20 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 14 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 14 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -93,19 +92,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Haus w464120118 – Teil 2/2 (Y 83–101)
+### Schritt 0.2 – Haus w464120118 – Teil 2/2 (Y 81–96)
 
-- **Y-Bereich:** 83 bis 101
-- **Blöcke:** 1.496
+- **Y-Bereich:** 81 bis 96
+- **Blöcke:** 1.268
 - **Bauteile:** `w464120118`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.141 |
-| Weißer Beton | `white_concrete` | 177 |
+| Orange Keramik | `orange_terracotta` | 946 |
 | Terrakotta | `terracotta` | 160 |
+| Weißer Beton | `white_concrete` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
 
 **Beschreibung**
@@ -124,32 +123,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.3 – Haus w464120118: Innenausbau & Haus w464120127 – Teil 1/4 (Y 64–75)
+### Schritt 0.3 – Haus w464120118: Innenausbau & Haus w464120127 – Teil 1/4 (Y 64–74)
 
-- **Y-Bereich:** 64 bis 75
-- **Blöcke:** 1.911
+- **Y-Bereich:** 64 bis 74
+- **Blöcke:** 1.768
 - **Bauteile:** `w464120118_innen`, `w464120127`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 755 |
-| Orange Keramik | `orange_terracotta` | 620 |
-| Polierter Tuffstein | `polished_tuff` | 297 |
-| Weißer Beton | `white_concrete` | 172 |
-| Polierter Andesit | `polished_andesite` | 26 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
-| Glatter Stein | `smooth_stone` | 12 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Orange Keramik | `orange_terracotta` | 890 |
+| Polierter Tuffstein | `polished_tuff` | 303 |
+| Weißer Beton | `white_concrete` | 235 |
+| Tuffstein | `tuff` | 217 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Polierter Andesit | `polished_andesite` | 42 |
+| Glatter Stein | `smooth_stone` | 18 |
+| Tuffsteinziegel | `tuff_bricks` | 14 |
 | Seelaterne | `sea_lantern` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -167,53 +159,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.4 – Haus w464120127 – Teil 2/4 (Y 76–85)
+### Schritt 0.4 – Haus w464120127 – Teil 2/4 (Y 75–83)
 
-- **Y-Bereich:** 76 bis 85
-- **Blöcke:** 2.068
+- **Y-Bereich:** 75 bis 83
+- **Blöcke:** 1.863
 - **Bauteile:** `w464120127`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.470 |
-| Weißer Beton | `white_concrete` | 306 |
-| Glatter Stein | `smooth_stone` | 147 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Polierter Andesit | `polished_andesite` | 53 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 0.5 – Haus w464120127 – Teil 3/4 (Y 86–94)
-
-- **Y-Bereich:** 86 bis 94
-- **Blöcke:** 1.855
-- **Bauteile:** `w464120127`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.264 |
-| Weißer Beton | `white_concrete` | 316 |
+| Orange Keramik | `orange_terracotta` | 1.338 |
+| Weißer Beton | `white_concrete` | 270 |
 | Glatter Stein | `smooth_stone` | 141 |
-| Graues Buntglas | `gray_stained_glass` | 90 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 | Polierter Andesit | `polished_andesite` | 44 |
 
 **Beschreibung**
@@ -232,22 +191,54 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.6 – Haus w464120127 – Teil 4/4 (Y 95–105) & Haus w464120127: Innenausbau
+### Schritt 0.5 – Haus w464120127 – Teil 3/4 (Y 84–92)
 
-- **Y-Bereich:** 71 bis 105
-- **Blöcke:** 1.985
+- **Y-Bereich:** 84 bis 92
+- **Blöcke:** 1.855
+- **Bauteile:** `w464120127`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.268 |
+| Weißer Beton | `white_concrete` | 316 |
+| Glatter Stein | `smooth_stone` | 141 |
+| Graues Buntglas | `gray_stained_glass` | 90 |
+| Polierter Andesit | `polished_andesite` | 40 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 0.6 – Haus w464120127 – Teil 4/4 (Y 93–102) & Haus w464120127: Innenausbau
+
+- **Y-Bereich:** 68 bis 102
+- **Blöcke:** 1.794
 - **Bauteile:** `w464120127`, `w464120127_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.131 |
+| Orange Keramik | `orange_terracotta` | 1.001 |
 | Terrakotta | `terracotta` | 407 |
-| Weißer Beton | `white_concrete` | 218 |
+| Weißer Beton | `white_concrete` | 178 |
 | Fichtenholz-Bretter | `spruce_planks` | 118 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Polierter Andesit | `polished_andesite` | 33 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Polierter Andesit | `polished_andesite` | 30 |
 | Ziegelsteine | `bricks` | 3 |
 | Seelaterne | `sea_lantern` | 3 |
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.593 |
 | Bauschritte | 3 |
-| Y-Bereich | 181 bis 193 |
+| Y-Bereich | 180 bis 192 |
 | X-Ausdehnung | -485 bis -397 (89 Blöcke) |
 | Z-Ausdehnung | 2010 bis 2030 (21 Blöcke) |
 | Kleinster Schritt | 1.752 Blöcke (Schritt 10.2) |
@@ -47,9 +47,9 @@
 
 ## Bauschritte
 
-### Schritt 10.1 – Haus w1342926025 – Teil 1/3 (Y 181–184)
+### Schritt 10.1 – Haus w1342926025 – Teil 1/3 (Y 180–183)
 
-- **Y-Bereich:** 181 bis 184
+- **Y-Bereich:** 180 bis 183
 - **Blöcke:** 2.013
 - **Bauteile:** `w1342926025`
 
@@ -77,9 +77,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Haus w1342926025 – Teil 2/3 (Y 185–189)
+### Schritt 10.2 – Haus w1342926025 – Teil 2/3 (Y 184–188)
 
-- **Y-Bereich:** 185 bis 189
+- **Y-Bereich:** 184 bis 188
 - **Blöcke:** 1.752
 - **Bauteile:** `w1342926025`
 
@@ -108,9 +108,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Haus w1342926025 – Teil 3/3 (Y 190–193) & Haus w1342926025: Innenausbau
+### Schritt 10.3 – Haus w1342926025 – Teil 3/3 (Y 189–192) & Haus w1342926025: Innenausbau
 
-- **Y-Bereich:** 181 bis 193
+- **Y-Bereich:** 180 bis 192
 - **Blöcke:** 1.828
 - **Bauteile:** `w1342926025`, `w1342926025_innen`
 

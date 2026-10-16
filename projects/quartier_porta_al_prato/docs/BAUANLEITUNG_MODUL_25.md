@@ -8,34 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 62.999 |
-| Bauschritte | 38 |
-| Y-Bereich | 55 bis 95 |
+| Blöcke | 61.245 |
+| Bauschritte | 36 |
+| Y-Bereich | 55 bis 94 |
 | X-Ausdehnung | -2328 bis -2238 (91 Blöcke) |
 | Z-Ausdehnung | -1412 bis -1266 (147 Blöcke) |
-| Kleinster Schritt | 809 Blöcke (Schritt 25.37) |
-| Mittlerer Schritt | 1.658 Blöcke |
+| Kleinster Schritt | 809 Blöcke (Schritt 25.35) |
+| Mittlerer Schritt | 1.701 Blöcke |
 | Größter Schritt | 2.035 Blöcke (Schritt 25.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.812 | 28,3 % |
-| Endsteinziegel | `end_stone_bricks` | 17.429 | 27,7 % |
-| Polierter Tuffstein | `polished_tuff` | 5.547 | 8,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 4.727 | 7,5 % |
-| Rosa Keramik | `pink_terracotta` | 3.873 | 6,1 % |
-| Glatter Stein | `smooth_stone` | 3.861 | 6,1 % |
-| Weißer Beton | `white_concrete` | 2.832 | 4,5 % |
-| Graues Buntglas | `gray_stained_glass` | 2.434 | 3,9 % |
-| Tuffstein | `tuff` | 1.645 | 2,6 % |
-| Grüner Beton | `green_concrete` | 1.075 | 1,7 % |
+| Terrakotta | `terracotta` | 17.809 | 29,1 % |
+| Endsteinziegel | `end_stone_bricks` | 17.326 | 28,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.556 | 9,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 4.727 | 7,7 % |
+| Rosa Keramik | `pink_terracotta` | 3.873 | 6,3 % |
+| Glatter Stein | `smooth_stone` | 3.861 | 6,3 % |
+| Weißer Beton | `white_concrete` | 2.831 | 4,6 % |
+| Graues Buntglas | `gray_stained_glass` | 2.434 | 4,0 % |
+| Grüner Beton | `green_concrete` | 1.075 | 1,8 % |
 | Polierter Andesit | `polished_andesite` | 411 | 0,7 % |
 | Ziegelsteine | `bricks` | 392 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 332 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 199 | 0,3 % |
-| Seelaterne | `sea_lantern` | 97 | 0,2 % |
+| Seelaterne | `sea_lantern` | 94 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 55 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 51 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 33 | 0,1 % |
@@ -47,7 +46,6 @@
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -55,7 +53,6 @@
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 152 |
 | Steintreppe | `stone_stairs` | 80 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -67,10 +64,10 @@
 | 4 | `w443083485_innen` | Reihenhaus an Via Cittadella: Innenausbau | 1.569 | 25.14 |
 | 5 | `w443083513` | Reihenhaus an Viale Fratelli Rosselli | 7.698 | 25.15–25.18 |
 | 6 | `w443083513_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 1.563 | 25.19 |
-| 7 | `w443083517` | Palazzo des Cinquecento an Via Cittadella | 16.090 | 25.20–25.29 |
-| 8 | `w443083517_innen` | Palazzo des Cinquecento an Via Cittadella: Innenausbau | 3.046 | 25.30–25.31 |
-| 9 | `w443083522` | Reihenhaus an Viale Fratelli Rosselli | 9.541 | 25.32–25.36 |
-| 10 | `w443083522_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 2.308 | 25.37–25.38 |
+| 7 | `w443083517` | Palazzo des Cinquecento an Via Cittadella | 14.406 | 25.20–25.27 |
+| 8 | `w443083517_innen` | Palazzo des Cinquecento an Via Cittadella: Innenausbau | 3.045 | 25.28–25.29 |
+| 9 | `w443083522` | Reihenhaus an Viale Fratelli Rosselli | 9.472 | 25.30–25.34 |
+| 10 | `w443083522_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 2.308 | 25.35–25.36 |
 
 ## Bauschritte
 
@@ -387,9 +384,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.10 – Reihenhaus an Via Cittadella – Teil 1/4 (Y 56–62)
+### Schritt 25.10 – Reihenhaus an Via Cittadella – Teil 1/4 (Y 55–61)
 
-- **Y-Bereich:** 56 bis 62
+- **Y-Bereich:** 55 bis 61
 - **Blöcke:** 1.592
 - **Bauteile:** `w443083485`
 
@@ -418,9 +415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.11 – Reihenhaus an Via Cittadella – Teil 2/4 (Y 63–72)
+### Schritt 25.11 – Reihenhaus an Via Cittadella – Teil 2/4 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.670
 - **Bauteile:** `w443083485`
 
@@ -448,9 +445,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.12 – Reihenhaus an Via Cittadella – Teil 3/4 (Y 73–82)
+### Schritt 25.12 – Reihenhaus an Via Cittadella – Teil 3/4 (Y 72–81)
 
-- **Y-Bereich:** 73 bis 82
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.654
 - **Bauteile:** `w443083485`
 
@@ -478,9 +475,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.13 – Reihenhaus an Via Cittadella – Teil 4/4 (Y 83–93)
+### Schritt 25.13 – Reihenhaus an Via Cittadella – Teil 4/4 (Y 82–92)
 
-- **Y-Bereich:** 83 bis 93
+- **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.730
 - **Bauteile:** `w443083485`
 
@@ -513,7 +510,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 25.14 – Reihenhaus an Via Cittadella: Innenausbau
 
-- **Y-Bereich:** 56 bis 80
+- **Y-Bereich:** 55 bis 79
 - **Blöcke:** 1.569
 - **Bauteile:** `w443083485_innen`
 
@@ -551,9 +548,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.15 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/4 (Y 57–63)
+### Schritt 25.15 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/4 (Y 56–62)
 
-- **Y-Bereich:** 57 bis 63
+- **Y-Bereich:** 56 bis 62
 - **Blöcke:** 1.847
 - **Bauteile:** `w443083513`
 
@@ -584,9 +581,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.16 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/4 (Y 64–73)
+### Schritt 25.16 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/4 (Y 63–72)
 
-- **Y-Bereich:** 64 bis 73
+- **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.977
 - **Bauteile:** `w443083513`
 
@@ -615,9 +612,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.17 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/4 (Y 74–83)
+### Schritt 25.17 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/4 (Y 73–82)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.976
 - **Bauteile:** `w443083513`
 
@@ -646,9 +643,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.18 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/4 (Y 84–94)
+### Schritt 25.18 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/4 (Y 83–93)
 
-- **Y-Bereich:** 84 bis 94
+- **Y-Bereich:** 83 bis 93
 - **Blöcke:** 1.898
 - **Bauteile:** `w443083513`
 
@@ -681,7 +678,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 25.19 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau
 
-- **Y-Bereich:** 57 bis 80
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 1.563
 - **Bauteile:** `w443083513_innen`
 
@@ -717,24 +714,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.20 – Palazzo des Cinquecento an Via Cittadella – Teil 1/10 (Y 56–56)
+### Schritt 25.20 – Palazzo des Cinquecento an Via Cittadella – Teil 1/8 (Y 55–55)
 
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.580
+- **Y-Bereich:** 55 bis 55
+- **Blöcke:** 1.802
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.576 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+| Polierter Tuffstein | `polished_tuff` | 1.802 |
 
 **Beschreibung**
 
@@ -752,24 +742,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.21 – Palazzo des Cinquecento an Via Cittadella – Teil 2/10 (Y 57–57)
+### Schritt 25.21 – Palazzo des Cinquecento an Via Cittadella – Teil 2/8 (Y 56–60)
 
-- **Y-Bereich:** 57 bis 57
-- **Blöcke:** 1.797
+- **Y-Bereich:** 56 bis 60
+- **Blöcke:** 1.668
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.793 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+| Endsteinziegel | `end_stone_bricks` | 1.162 |
+| Weißer Beton | `white_concrete` | 314 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
+| Polierter Andesit | `polished_andesite` | 47 |
+| Grüner Beton | `green_concrete` | 20 |
+| Glatter Stein | `smooth_stone` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
@@ -787,90 +776,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.22 – Palazzo des Cinquecento an Via Cittadella – Teil 3/10 (Y 58–61)
+### Schritt 25.22 – Palazzo des Cinquecento an Via Cittadella – Teil 3/8 (Y 61–66)
 
-- **Y-Bereich:** 58 bis 61
-- **Blöcke:** 1.374
+- **Y-Bereich:** 61 bis 66
+- **Blöcke:** 1.954
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 990 |
-| Weißer Beton | `white_concrete` | 271 |
-| Graues Buntglas | `gray_stained_glass` | 53 |
-| Polierter Andesit | `polished_andesite` | 36 |
-| Grüner Beton | `green_concrete` | 10 |
-| Glatter Stein | `smooth_stone` | 8 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.23 – Palazzo des Cinquecento an Via Cittadella – Teil 4/10 (Y 62–66)
-
-- **Y-Bereich:** 62 bis 66
-- **Blöcke:** 1.569
-- **Bauteile:** `w443083517`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.073 |
-| Weißer Beton | `white_concrete` | 229 |
-| Graues Buntglas | `gray_stained_glass` | 159 |
+| Endsteinziegel | `end_stone_bricks` | 1.372 |
+| Glatter Stein | `smooth_stone` | 212 |
+| Weißer Beton | `white_concrete` | 185 |
+| Graues Buntglas | `gray_stained_glass` | 106 |
 | Polierter Andesit | `polished_andesite` | 50 |
-| Grüner Beton | `green_concrete` | 30 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Tuffsteinziegel | `tuff_bricks` | 12 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.24 – Palazzo des Cinquecento an Via Cittadella – Teil 5/10 (Y 67–71)
-
-- **Y-Bereich:** 67 bis 71
-- **Blöcke:** 1.624
-- **Bauteile:** `w443083517`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.067 |
-| Weißer Beton | `white_concrete` | 199 |
-| Glatter Stein | `smooth_stone` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
-| Polierter Andesit | `polished_andesite` | 30 |
 | Grüner Beton | `green_concrete` | 20 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
@@ -888,21 +810,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.25 – Palazzo des Cinquecento an Via Cittadella – Teil 6/10 (Y 72–76)
+### Schritt 25.23 – Palazzo des Cinquecento an Via Cittadella – Teil 4/8 (Y 67–72)
 
-- **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.586
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.850
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 949 |
-| Weißer Beton | `white_concrete` | 401 |
-| Graues Buntglas | `gray_stained_glass` | 165 |
-| Polierter Andesit | `polished_andesite` | 41 |
-| Grüner Beton | `green_concrete` | 30 |
+| Endsteinziegel | `end_stone_bricks` | 1.137 |
+| Weißer Beton | `white_concrete` | 343 |
+| Graues Buntglas | `gray_stained_glass` | 275 |
+| Grüner Beton | `green_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 45 |
 
 **Beschreibung**
 
@@ -920,22 +842,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.26 – Palazzo des Cinquecento an Via Cittadella – Teil 7/10 (Y 77–81)
+### Schritt 25.24 – Palazzo des Cinquecento an Via Cittadella – Teil 5/8 (Y 73–77)
 
-- **Y-Bereich:** 77 bis 81
-- **Blöcke:** 1.624
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.700
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.067 |
-| Weißer Beton | `white_concrete` | 199 |
+| Endsteinziegel | `end_stone_bricks` | 1.112 |
+| Weißer Beton | `white_concrete` | 360 |
 | Glatter Stein | `smooth_stone` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
 | Polierter Andesit | `polished_andesite` | 30 |
-| Grüner Beton | `green_concrete` | 20 |
 
 **Beschreibung**
 
@@ -953,22 +873,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.27 – Palazzo des Cinquecento an Via Cittadella – Teil 8/10 (Y 82–86)
+### Schritt 25.25 – Palazzo des Cinquecento an Via Cittadella – Teil 6/8 (Y 78–83)
 
-- **Y-Bereich:** 82 bis 86
-- **Blöcke:** 1.733
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.850
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 986 |
-| Weißer Beton | `white_concrete` | 401 |
-| Graues Buntglas | `gray_stained_glass` | 165 |
-| Glatter Stein | `smooth_stone` | 110 |
-| Polierter Andesit | `polished_andesite` | 41 |
-| Grüner Beton | `green_concrete` | 30 |
+| Endsteinziegel | `end_stone_bricks` | 1.137 |
+| Weißer Beton | `white_concrete` | 343 |
+| Graues Buntglas | `gray_stained_glass` | 275 |
+| Grüner Beton | `green_concrete` | 50 |
+| Polierter Andesit | `polished_andesite` | 45 |
 
 **Beschreibung**
 
@@ -986,20 +905,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.28 – Palazzo des Cinquecento an Via Cittadella – Teil 9/10 (Y 87–88)
+### Schritt 25.26 – Palazzo des Cinquecento an Via Cittadella – Teil 7/8 (Y 84–86)
 
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.648
+- **Y-Bereich:** 84 bis 86
+- **Blöcke:** 2.027
 - **Bauteile:** `w443083517`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 984 |
-| Endsteinziegel | `end_stone_bricks` | 402 |
-| Glatter Stein | `smooth_stone` | 258 |
-| Polierter Andesit | `polished_andesite` | 4 |
+| Terrakotta | `terracotta` | 979 |
+| Endsteinziegel | `end_stone_bricks` | 511 |
+| Glatter Stein | `smooth_stone` | 368 |
+| Weißer Beton | `white_concrete` | 154 |
+| Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
 
@@ -1017,9 +937,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.29 – Palazzo des Cinquecento an Via Cittadella – Teil 10/10 (Y 89–95)
+### Schritt 25.27 – Palazzo des Cinquecento an Via Cittadella – Teil 8/8 (Y 87–93)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 87 bis 93
 - **Blöcke:** 1.555
 - **Bauteile:** `w443083517`
 
@@ -1046,19 +966,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.30 – Palazzo des Cinquecento an Via Cittadella: Innenausbau – Teil 1/2 (Y 57–67)
+### Schritt 25.28 – Palazzo des Cinquecento an Via Cittadella: Innenausbau – Teil 1/2 (Y 55–65)
 
-- **Y-Bereich:** 57 bis 67
-- **Blöcke:** 1.520
+- **Y-Bereich:** 55 bis 65
+- **Blöcke:** 1.519
 - **Bauteile:** `w443083517_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.453 |
+| Terrakotta | `terracotta` | 1.454 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 16 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1088,9 +1008,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.31 – Palazzo des Cinquecento an Via Cittadella: Innenausbau – Teil 2/2 (Y 68–78)
+### Schritt 25.29 – Palazzo des Cinquecento an Via Cittadella: Innenausbau – Teil 2/2 (Y 66–76)
 
-- **Y-Bereich:** 68 bis 78
+- **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.526
 - **Bauteile:** `w443083517_innen`
 
@@ -1098,11 +1018,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.453 |
+| Terrakotta | `terracotta` | 1.454 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
@@ -1132,10 +1052,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.32 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/5 (Y 56–61)
+### Schritt 25.30 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/5 (Y 56–60)
 
-- **Y-Bereich:** 56 bis 61
-- **Blöcke:** 1.946
+- **Y-Bereich:** 56 bis 60
+- **Blöcke:** 1.877
 - **Bauteile:** `w443083522`
 
 **Teileliste**
@@ -1145,7 +1065,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Tuffstein | `polished_tuff` | 965 |
 | Endsteinziegel | `end_stone_bricks` | 736 |
 | Glatter Stein | `smooth_stone` | 124 |
-| Tuffstein | `tuff` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 | Grüner Beton | `green_concrete` | 20 |
 
@@ -1165,20 +1084,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.33 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/5 (Y 62–69)
+### Schritt 25.31 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/5 (Y 61–69)
 
-- **Y-Bereich:** 62 bis 69
-- **Blöcke:** 1.801
+- **Y-Bereich:** 61 bis 69
+- **Blöcke:** 2.014
 - **Bauteile:** `w443083522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.291 |
-| Glatter Stein | `smooth_stone` | 292 |
-| Graues Buntglas | `gray_stained_glass` | 132 |
-| Grüner Beton | `green_concrete` | 86 |
+| Endsteinziegel | `end_stone_bricks` | 1.420 |
+| Glatter Stein | `smooth_stone` | 325 |
+| Graues Buntglas | `gray_stained_glass` | 166 |
+| Grüner Beton | `green_concrete` | 103 |
 
 **Beschreibung**
 
@@ -1196,20 +1115,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.34 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/5 (Y 70–78)
+### Schritt 25.32 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/5 (Y 70–77)
 
-- **Y-Bereich:** 70 bis 78
-- **Blöcke:** 2.031
+- **Y-Bereich:** 70 bis 77
+- **Blöcke:** 1.818
 - **Bauteile:** `w443083522`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.408 |
-| Glatter Stein | `smooth_stone` | 365 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Grüner Beton | `green_concrete` | 80 |
+| Endsteinziegel | `end_stone_bricks` | 1.279 |
+| Glatter Stein | `smooth_stone` | 332 |
+| Graues Buntglas | `gray_stained_glass` | 144 |
+| Grüner Beton | `green_concrete` | 63 |
 
 **Beschreibung**
 
@@ -1227,9 +1146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.35 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/5 (Y 79–86)
+### Schritt 25.33 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/5 (Y 78–85)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.872
 - **Bauteile:** `w443083522`
 
@@ -1259,9 +1178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.36 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/5 (Y 87–93)
+### Schritt 25.34 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/5 (Y 86–92)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.891
 - **Bauteile:** `w443083522`
 
@@ -1290,9 +1209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.37 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 57–72)
+### Schritt 25.35 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 57 bis 72
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 809
 - **Bauteile:** `w443083522_innen`
 
@@ -1330,9 +1249,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.38 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 73–81)
+### Schritt 25.36 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.499
 - **Bauteile:** `w443083522_innen`
 

@@ -8,29 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 6.897 |
+| Blöcke | 6.839 |
 | Bauschritte | 4 |
-| Y-Bereich | 73 bis 110 |
+| Y-Bereich | 73 bis 109 |
 | X-Ausdehnung | -2420 bis -2388 (33 Blöcke) |
 | Z-Ausdehnung | 1759 bis 1792 (34 Blöcke) |
 | Kleinster Schritt | 886 Blöcke (Schritt 46.4) |
-| Mittlerer Schritt | 1.724 Blöcke |
+| Mittlerer Schritt | 1.710 Blöcke |
 | Größter Schritt | 2.064 Blöcke (Schritt 46.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 3.673 | 53,3 % |
-| Terrakotta | `terracotta` | 1.382 | 20,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 816 | 11,8 % |
+| Weißer Beton | `white_concrete` | 3.673 | 53,7 % |
+| Terrakotta | `terracotta` | 1.382 | 20,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 816 | 11,9 % |
 | Polierter Tuffstein | `polished_tuff` | 427 | 6,2 % |
 | Graues Buntglas | `gray_stained_glass` | 222 | 3,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 139 | 2,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,9 % |
-| Tuffstein | `tuff` | 58 | 0,8 % |
 | Ziegelsteine | `bricks` | 43 | 0,6 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,3 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,3 % |
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
@@ -45,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443951668` | il Torrino del Giardino Torrigiani | 6.011 | 46.1–46.3 |
+| 1 | `w443951668` | il Torrino del Giardino Torrigiani | 5.953 | 46.1–46.3 |
 | 2 | `w443951668_innen` | il Torrino del Giardino Torrigiani: Innenausbau | 886 | 46.4 |
 
 ## Bauschritte
 
-### Schritt 46.1 – il Torrino del Giardino Torrigiani – Teil 1/3 (Y 73–84)
+### Schritt 46.1 – il Torrino del Giardino Torrigiani – Teil 1/3 (Y 73–83)
 
-- **Y-Bereich:** 73 bis 84
-- **Blöcke:** 2.063
+- **Y-Bereich:** 73 bis 83
+- **Blöcke:** 2.005
 - **Bauteile:** `w443951668`
 
 **Teileliste**
@@ -63,7 +62,6 @@
 | Weißer Beton | `white_concrete` | 1.303 |
 | Polierter Tuffstein | `polished_tuff` | 427 |
 | Hellgrauer Beton | `light_gray_concrete` | 214 |
-| Tuffstein | `tuff` | 58 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Glatter Stein | `smooth_stone` | 19 |
 
@@ -83,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.2 – il Torrino del Giardino Torrigiani – Teil 2/3 (Y 85–96)
+### Schritt 46.2 – il Torrino del Giardino Torrigiani – Teil 2/3 (Y 84–95)
 
-- **Y-Bereich:** 85 bis 96
+- **Y-Bereich:** 84 bis 95
 - **Blöcke:** 1.884
 - **Bauteile:** `w443951668`
 
@@ -113,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.3 – il Torrino del Giardino Torrigiani – Teil 3/3 (Y 97–110)
+### Schritt 46.3 – il Torrino del Giardino Torrigiani – Teil 3/3 (Y 96–109)
 
-- **Y-Bereich:** 97 bis 110
+- **Y-Bereich:** 96 bis 109
 - **Blöcke:** 2.064
 - **Bauteile:** `w443951668`
 
@@ -148,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 46.4 – il Torrino del Giardino Torrigiani: Innenausbau
 
-- **Y-Bereich:** 74 bis 97
+- **Y-Bereich:** 73 bis 96
 - **Blöcke:** 886
 - **Bauteile:** `w443951668_innen`
 

@@ -8,43 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 35.229 |
+| Blöcke | 35.288 |
 | Bauschritte | 22 |
-| Y-Bereich | 64 bis 103 |
+| Y-Bereich | 63 bis 103 |
 | X-Ausdehnung | -776 bis -722 (55 Blöcke) |
 | Z-Ausdehnung | 10 bis 90 (81 Blöcke) |
-| Kleinster Schritt | 407 Blöcke (Schritt 3.22) |
-| Mittlerer Schritt | 1.601 Blöcke |
+| Kleinster Schritt | 405 Blöcke (Schritt 3.22) |
+| Mittlerer Schritt | 1.604 Blöcke |
 | Größter Schritt | 2.091 Blöcke (Schritt 3.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 10.339 | 29,3 % |
+| Terrakotta | `terracotta` | 10.346 | 29,3 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.580 | 13,0 % |
 | Tuffstein | `tuff` | 4.326 | 12,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.032 | 11,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.060 | 11,5 % |
 | Polierter Tuffstein | `polished_tuff` | 3.327 | 9,4 % |
 | Polierter Andesit | `polished_andesite` | 2.559 | 7,3 % |
-| Weißer Beton | `white_concrete` | 1.535 | 4,4 % |
-| Endsteinziegel | `end_stone_bricks` | 1.075 | 3,1 % |
+| Weißer Beton | `white_concrete` | 1.535 | 4,3 % |
+| Endsteinziegel | `end_stone_bricks` | 1.089 | 3,1 % |
 | Graues Buntglas | `gray_stained_glass` | 1.021 | 2,9 % |
 | Glatter Stein | `smooth_stone` | 852 | 2,4 % |
 | Tuffsteinziegel | `tuff_bricks` | 312 | 0,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 285 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 299 | 0,8 % |
 | Ziegelsteine | `bricks` | 249 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 213 | 0,6 % |
 | Grüner Beton | `green_concrete` | 143 | 0,4 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 60 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 56 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 82 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 76 | 0,2 % |
 | Seelaterne | `sea_lantern` | 56 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 33 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 33 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 31 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 31 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 8 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 
@@ -61,14 +61,14 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w476954209` | Renaissance-Palazzo an Via dei Pecori | 11.224 | 3.1–3.6 |
 | 2 | `w476954209_innen` | Renaissance-Palazzo an Via dei Pecori: Innenausbau | 2.141 | 3.7–3.8 |
-| 3 | `w476954210` | Palazzo des Cinquecento an Via dei Boni | 9.308 | 3.9–3.13 |
+| 3 | `w476954210` | Palazzo des Cinquecento an Via dei Boni | 9.321 | 3.9–3.13 |
 | 4 | `w476954210_innen` | Palazzo des Cinquecento an Via dei Boni: Innenausbau | 2.091 | 3.14 |
-| 5 | `w476954211` | Reihenhaus an Via Teatina | 3.840 | 3.15–3.16 |
+| 5 | `w476954211` | Reihenhaus an Via Teatina | 3.874 | 3.15–3.16 |
 | 6 | `w476954211_innen` | Reihenhaus an Via Teatina: Innenausbau | 1.072 | 3.17 |
-| 7 | `w476954212` | Reihenhaus an Via Teatina | 2.971 | 3.18–3.19 |
-| 8 | `w476954212_innen` | Reihenhaus an Via Teatina: Innenausbau | 751 | 3.20 |
-| 9 | `w476954213` | Reihenhaus an Via Teatina | 1.424 | 3.21 |
-| 10 | `w476954213_innen` | Reihenhaus an Via Teatina: Innenausbau | 402 | 3.22 |
+| 7 | `w476954212` | Reihenhaus an Via Teatina | 2.973 | 3.18–3.19 |
+| 8 | `w476954212_innen` | Reihenhaus an Via Teatina: Innenausbau | 749 | 3.20 |
+| 9 | `w476954213` | Reihenhaus an Via Teatina | 1.438 | 3.21 |
+| 10 | `w476954213_innen` | Reihenhaus an Via Teatina: Innenausbau | 400 | 3.22 |
 | 11 | `strassenschilder` | Straßenschilder | 5 | 3.22 |
 
 ## Bauschritte
@@ -449,7 +449,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.12 – Palazzo des Cinquecento an Via dei Boni – Teil 4/5 (Y 87–94)
 
 - **Y-Bereich:** 87 bis 94
-- **Blöcke:** 1.798
+- **Blöcke:** 1.804
 - **Bauteile:** `w476954210`
 
 **Teileliste**
@@ -458,7 +458,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.204 |
 | Weißer Beton | `white_concrete` | 242 |
-| Fichtenholz-Bretter | `spruce_planks` | 206 |
+| Fichtenholz-Bretter | `spruce_planks` | 212 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 | Polierter Andesit | `polished_andesite` | 16 |
 | Grüner Beton | `green_concrete` | 10 |
@@ -482,14 +482,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.13 – Palazzo des Cinquecento an Via dei Boni – Teil 5/5 (Y 95–102)
 
 - **Y-Bereich:** 95 bis 102
-- **Blöcke:** 1.824
+- **Blöcke:** 1.831
 - **Bauteile:** `w476954210`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.739 |
+| Terrakotta | `terracotta` | 1.746 |
 | Ziegelsteine | `bricks` | 85 |
 
 **Beschreibung**
@@ -552,17 +552,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.15 – Reihenhaus an Via Teatina – Teil 1/2 (Y 64–81)
+### Schritt 3.15 – Reihenhaus an Via Teatina – Teil 1/2 (Y 63–80)
 
-- **Y-Bereich:** 64 bis 81
-- **Blöcke:** 1.941
+- **Y-Bereich:** 63 bis 80
+- **Blöcke:** 1.967
 - **Bauteile:** `w476954211`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.210 |
+| Gelbe Keramik | `yellow_terracotta` | 1.236 |
 | Polierter Tuffstein | `polished_tuff` | 413 |
 | Weißer Beton | `white_concrete` | 133 |
 | Graues Buntglas | `gray_stained_glass` | 97 |
@@ -586,10 +586,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.16 – Reihenhaus an Via Teatina – Teil 2/2 (Y 82–99)
+### Schritt 3.16 – Reihenhaus an Via Teatina – Teil 2/2 (Y 81–98)
 
-- **Y-Bereich:** 82 bis 99
-- **Blöcke:** 1.899
+- **Y-Bereich:** 81 bis 98
+- **Blöcke:** 1.907
 - **Bauteile:** `w476954211`
 
 **Teileliste**
@@ -599,7 +599,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Gelbe Keramik | `yellow_terracotta` | 945 |
 | Terrakotta | `terracotta` | 568 |
 | Weißer Beton | `white_concrete` | 167 |
-| Fichtenholz-Bretter | `spruce_planks` | 79 |
+| Fichtenholz-Bretter | `spruce_planks` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Grüner Beton | `green_concrete` | 54 |
 | Ziegelsteine | `bricks` | 32 |
@@ -622,7 +622,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.17 – Reihenhaus an Via Teatina: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
+- **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.072
 - **Bauteile:** `w476954211_innen`
 
@@ -632,13 +632,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 921 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -662,17 +660,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.18 – Reihenhaus an Via Teatina – Teil 1/2 (Y 64–80)
+### Schritt 3.18 – Reihenhaus an Via Teatina – Teil 1/2 (Y 63–79)
 
-- **Y-Bereich:** 64 bis 80
-- **Blöcke:** 1.505
+- **Y-Bereich:** 63 bis 79
+- **Blöcke:** 1.507
 - **Bauteile:** `w476954212`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 997 |
+| Gelbe Keramik | `yellow_terracotta` | 999 |
 | Polierter Tuffstein | `polished_tuff` | 292 |
 | Weißer Beton | `white_concrete` | 121 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
@@ -696,9 +694,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.19 – Reihenhaus an Via Teatina – Teil 2/2 (Y 81–99)
+### Schritt 3.19 – Reihenhaus an Via Teatina – Teil 2/2 (Y 80–98)
 
-- **Y-Bereich:** 81 bis 99
+- **Y-Bereich:** 80 bis 98
 - **Blöcke:** 1.466
 - **Bauteile:** `w476954212`
 
@@ -731,8 +729,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.20 – Reihenhaus an Via Teatina: Innenausbau
 
-- **Y-Bereich:** 64 bis 88
-- **Blöcke:** 751
+- **Y-Bereich:** 63 bis 87
+- **Blöcke:** 749
 - **Bauteile:** `w476954212_innen`
 
 **Teileliste**
@@ -741,13 +739,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 603 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
-| Rote Keramik | `red_terracotta` | 9 |
-| Weiße Keramik | `white_terracotta` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
+| Rote Keramik | `red_terracotta` | 8 |
 | Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Weiße Keramik | `white_terracotta` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -774,14 +772,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 3.21 – Reihenhaus an Via Teatina
 
 - **Y-Bereich:** 64 bis 96
-- **Blöcke:** 1.424
+- **Blöcke:** 1.438
 - **Bauteile:** `w476954213`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 899 |
+| Endsteinziegel | `end_stone_bricks` | 913 |
 | Terrakotta | `terracotta` | 168 |
 | Weißer Beton | `white_concrete` | 150 |
 | Polierter Tuffstein | `polished_tuff` | 136 |
@@ -807,7 +805,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 3.22 – Reihenhaus an Via Teatina: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 64 bis 88
-- **Blöcke:** 407
+- **Blöcke:** 405
 - **Bauteile:** `w476954213_innen`, `strassenschilder`
 
 **Teileliste**
@@ -816,15 +814,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 270 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Seelaterne | `sea_lantern` | 4 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 

@@ -8,24 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.467 |
+| Blöcke | 2.449 |
 | Bauschritte | 2 |
-| Y-Bereich | 99 bis 134 |
+| Y-Bereich | 99 bis 133 |
 | X-Ausdehnung | 924 bis 939 (16 Blöcke) |
 | Z-Ausdehnung | 2458 bis 2475 (18 Blöcke) |
 | Kleinster Schritt | 1.204 Blöcke (Schritt 32.2) |
-| Mittlerer Schritt | 1.234 Blöcke |
-| Größter Schritt | 1.263 Blöcke (Schritt 32.1) |
+| Mittlerer Schritt | 1.225 Blöcke |
+| Größter Schritt | 1.245 Blöcke (Schritt 32.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 2.128 | 86,3 % |
-| Terrakotta | `terracotta` | 134 | 5,4 % |
+| Endsteinziegel | `end_stone_bricks` | 2.128 | 86,9 % |
+| Terrakotta | `terracotta` | 134 | 5,5 % |
 | Polierter Tuffstein | `polished_tuff` | 105 | 4,3 % |
 | Graues Buntglas | `gray_stained_glass` | 78 | 3,2 % |
-| Tuffstein | `tuff` | 18 | 0,7 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
@@ -33,15 +32,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762574` | Haus w119762574 | 2.466 | 32.1–32.2 |
+| 1 | `w119762574` | Haus w119762574 | 2.448 | 32.1–32.2 |
 | 2 | `w119762574_innen` | Haus w119762574: Innenausbau | 1 | 32.2 |
 
 ## Bauschritte
 
-### Schritt 32.1 – Haus w119762574 – Teil 1/2 (Y 99–116)
+### Schritt 32.1 – Haus w119762574 – Teil 1/2 (Y 99–115)
 
-- **Y-Bereich:** 99 bis 116
-- **Blöcke:** 1.263
+- **Y-Bereich:** 99 bis 115
+- **Blöcke:** 1.245
 - **Bauteile:** `w119762574`
 
 **Teileliste**
@@ -51,7 +50,6 @@
 | Endsteinziegel | `end_stone_bricks` | 1.116 |
 | Polierter Tuffstein | `polished_tuff` | 105 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
-| Tuffstein | `tuff` | 18 |
 
 **Beschreibung**
 
@@ -69,9 +67,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 32.2 – Haus w119762574 – Teil 2/2 (Y 117–134) & Haus w119762574: Innenausbau
+### Schritt 32.2 – Haus w119762574 – Teil 2/2 (Y 116–133) & Haus w119762574: Innenausbau
 
-- **Y-Bereich:** 100 bis 134
+- **Y-Bereich:** 99 bis 133
 - **Blöcke:** 1.204
 - **Bauteile:** `w119762574`, `w119762574_innen`
 

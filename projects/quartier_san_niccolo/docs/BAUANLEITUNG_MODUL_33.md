@@ -8,23 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.676 |
-| Bauschritte | 2 |
-| Y-Bereich | 63 bis 79 |
+| Blöcke | 4.477 |
+| Bauschritte | 3 |
+| Y-Bereich | 132 bis 151 |
 | X-Ausdehnung | 1071 bis 1088 (18 Blöcke) |
 | Z-Ausdehnung | 2272 bis 2320 (49 Blöcke) |
-| Kleinster Schritt | 1.835 Blöcke (Schritt 33.1) |
-| Mittlerer Schritt | 1.838 Blöcke |
-| Größter Schritt | 1.841 Blöcke (Schritt 33.2) |
+| Kleinster Schritt | 1.391 Blöcke (Schritt 33.3) |
+| Mittlerer Schritt | 1.492 Blöcke |
+| Größter Schritt | 1.548 Blöcke (Schritt 33.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 2.394 | 65,1 % |
-| Terrakotta | `terracotta` | 726 | 19,7 % |
-| Polierter Tuffstein | `polished_tuff` | 521 | 14,2 % |
-| Ziegelsteine | `bricks` | 28 | 0,8 % |
+| Weißer Beton | `white_concrete` | 2.394 | 53,5 % |
+| Tuffstein | `tuff` | 801 | 17,9 % |
+| Terrakotta | `terracotta` | 726 | 16,2 % |
+| Polierter Tuffstein | `polished_tuff` | 521 | 11,6 % |
+| Ziegelsteine | `bricks` | 28 | 0,6 % |
 | Seelaterne | `sea_lantern` | 4 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
@@ -40,23 +41,24 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w686733058` | Haus w686733058 | 3.669 | 33.1–33.2 |
-| 2 | `w686733058_innen` | Haus w686733058: Innenausbau | 7 | 33.2 |
+| 1 | `w686733058` | Haus w686733058 | 4.470 | 33.1–33.3 |
+| 2 | `w686733058_innen` | Haus w686733058: Innenausbau | 7 | 33.3 |
 
 ## Bauschritte
 
-### Schritt 33.1 – Haus w686733058 – Teil 1/2 (Y 63–69)
+### Schritt 33.1 – Haus w686733058 – Teil 1/3 (Y 132–136)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.835
+- **Y-Bereich:** 132 bis 136
+- **Blöcke:** 1.538
 - **Bauteile:** `w686733058`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.314 |
+| Tuffstein | `tuff` | 801 |
 | Polierter Tuffstein | `polished_tuff` | 521 |
+| Weißer Beton | `white_concrete` | 216 |
 
 **Beschreibung**
 
@@ -74,18 +76,46 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.2 – Haus w686733058 – Teil 2/2 (Y 70–79) & Haus w686733058: Innenausbau
+### Schritt 33.2 – Haus w686733058 – Teil 2/3 (Y 137–143)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.841
+- **Y-Bereich:** 137 bis 143
+- **Blöcke:** 1.548
+- **Bauteile:** `w686733058`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.548 |
+
+**Beschreibung**
+
+Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.3 – Haus w686733058 – Teil 3/3 (Y 144–151) & Haus w686733058: Innenausbau
+
+- **Y-Bereich:** 135 bis 151
+- **Blöcke:** 1.391
 - **Bauteile:** `w686733058`, `w686733058_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.080 |
 | Terrakotta | `terracotta` | 726 |
+| Weißer Beton | `white_concrete` | 630 |
 | Ziegelsteine | `bricks` | 28 |
 | Seelaterne | `sea_lantern` | 4 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |

@@ -8,35 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 84.546 |
-| Bauschritte | 57 |
-| Y-Bereich | 57 bis 103 |
+| Blöcke | 77.782 |
+| Bauschritte | 53 |
+| Y-Bereich | 57 bis 100 |
 | X-Ausdehnung | -2278 bis -2116 (163 Blöcke) |
 | Z-Ausdehnung | 514 bis 650 (137 Blöcke) |
-| Kleinster Schritt | 1.140 Blöcke (Schritt 19.13) |
-| Mittlerer Schritt | 1.483 Blöcke |
-| Größter Schritt | 1.995 Blöcke (Schritt 19.6) |
+| Kleinster Schritt | 1.140 Blöcke (Schritt 19.9) |
+| Mittlerer Schritt | 1.468 Blöcke |
+| Größter Schritt | 1.995 Blöcke (Schritt 19.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 30.062 | 35,6 % |
-| Tuffstein | `tuff` | 24.978 | 29,5 % |
-| Polierter Tuffstein | `polished_tuff` | 9.725 | 11,5 % |
-| Polierter Andesit | `polished_andesite` | 8.461 | 10,0 % |
-| Glatter Stein | `smooth_stone` | 6.141 | 7,3 % |
-| Graues Buntglas | `gray_stained_glass` | 2.145 | 2,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 1.796 | 2,1 % |
-| Endsteinziegel | `end_stone_bricks` | 626 | 0,7 % |
+| Terrakotta | `terracotta` | 30.062 | 38,6 % |
+| Tuffstein | `tuff` | 18.212 | 23,4 % |
+| Polierter Tuffstein | `polished_tuff` | 9.736 | 12,5 % |
+| Polierter Andesit | `polished_andesite` | 8.461 | 10,9 % |
+| Glatter Stein | `smooth_stone` | 6.141 | 7,9 % |
+| Graues Buntglas | `gray_stained_glass` | 2.145 | 2,8 % |
+| Tuffsteinziegel | `tuff_bricks` | 1.796 | 2,3 % |
+| Endsteinziegel | `end_stone_bricks` | 626 | 0,8 % |
 | Ziegelsteine | `bricks` | 419 | 0,5 % |
-| Seelaterne | `sea_lantern` | 126 | 0,1 % |
+| Seelaterne | `sea_lantern` | 126 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 8 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -46,37 +47,29 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1632267` | Granaio dell'Abbondanza | 67.339 | 19.1–19.47 |
-| 2 | `r1632267_innen` | Granaio dell'Abbondanza: Innenausbau | 17.207 | 19.48–19.57 |
+| 1 | `r1632267` | Granaio dell'Abbondanza | 60.572 | 19.1–19.43 |
+| 2 | `r1632267_innen` | Granaio dell'Abbondanza: Innenausbau | 17.207 | 19.44–19.53 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 19.53 |
 
 ## Bauschritte
 
-### Schritt 19.1 – Granaio dell'Abbondanza – Teil 1/47 (Y 57–58)
+### Schritt 19.1 – Granaio dell'Abbondanza – Teil 1/43 (Y 57–57)
 
-- **Y-Bereich:** 57 bis 58
-- **Blöcke:** 1.521
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.924
 - **Bauteile:** `r1632267`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.515 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.924 |
 
 **Beschreibung**
 
@@ -94,137 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Granaio dell'Abbondanza – Teil 2/47 (Y 59–59)
+### Schritt 19.2 – Granaio dell'Abbondanza – Teil 2/43 (Y 57–57)
 
-- **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.760
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.757 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.3 – Granaio dell'Abbondanza – Teil 3/47 (Y 59–59)
-
-- **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.745
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.745 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.4 – Granaio dell'Abbondanza – Teil 4/47 (Y 59–59)
-
-- **Y-Bereich:** 59 bis 59
-- **Blöcke:** 1.749
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.749 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.5 – Granaio dell'Abbondanza – Teil 5/47 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.916
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.913 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 3 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.6 – Granaio dell'Abbondanza – Teil 6/47 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.995
 - **Bauteile:** `r1632267`
 
@@ -250,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.7 – Granaio dell'Abbondanza – Teil 7/47 (Y 60–60)
+### Schritt 19.3 – Granaio dell'Abbondanza – Teil 3/43 (Y 57–57)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.928
 - **Bauteile:** `r1632267`
 
@@ -278,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.8 – Granaio dell'Abbondanza – Teil 8/47 (Y 60–60)
+### Schritt 19.4 – Granaio dell'Abbondanza – Teil 4/43 (Y 57–57)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.975
 - **Bauteile:** `r1632267`
 
@@ -306,9 +171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.9 – Granaio dell'Abbondanza – Teil 9/47 (Y 60–60)
+### Schritt 19.5 – Granaio dell'Abbondanza – Teil 5/43 (Y 57–57)
 
-- **Y-Bereich:** 60 bis 60
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.914
 - **Bauteile:** `r1632267`
 
@@ -334,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.10 – Granaio dell'Abbondanza – Teil 10/47 (Y 61–61)
+### Schritt 19.6 – Granaio dell'Abbondanza – Teil 6/43 (Y 58–58)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.234
 - **Bauteile:** `r1632267`
 
@@ -365,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.11 – Granaio dell'Abbondanza – Teil 11/47 (Y 62–62)
+### Schritt 19.7 – Granaio dell'Abbondanza – Teil 7/43 (Y 59–59)
 
-- **Y-Bereich:** 62 bis 62
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.234
 - **Bauteile:** `r1632267`
 
@@ -396,9 +261,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.12 – Granaio dell'Abbondanza – Teil 12/47 (Y 63–63)
+### Schritt 19.8 – Granaio dell'Abbondanza – Teil 8/43 (Y 60–60)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.323
 - **Bauteile:** `r1632267`
 
@@ -427,9 +292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.13 – Granaio dell'Abbondanza – Teil 13/47 (Y 64–64)
+### Schritt 19.9 – Granaio dell'Abbondanza – Teil 9/43 (Y 61–61)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.140
 - **Bauteile:** `r1632267`
 
@@ -459,9 +324,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.14 – Granaio dell'Abbondanza – Teil 14/47 (Y 65–65)
+### Schritt 19.10 – Granaio dell'Abbondanza – Teil 10/43 (Y 62–62)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.147
 - **Bauteile:** `r1632267`
 
@@ -491,9 +356,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.15 – Granaio dell'Abbondanza – Teil 15/47 (Y 66–66)
+### Schritt 19.11 – Granaio dell'Abbondanza – Teil 11/43 (Y 63–63)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.147
 - **Bauteile:** `r1632267`
 
@@ -523,9 +388,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.16 – Granaio dell'Abbondanza – Teil 16/47 (Y 67–67)
+### Schritt 19.12 – Granaio dell'Abbondanza – Teil 12/43 (Y 64–64)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.148
 - **Bauteile:** `r1632267`
 
@@ -555,9 +420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.17 – Granaio dell'Abbondanza – Teil 17/47 (Y 68–68)
+### Schritt 19.13 – Granaio dell'Abbondanza – Teil 13/43 (Y 65–65)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.180
 - **Bauteile:** `r1632267`
 
@@ -587,9 +452,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.18 – Granaio dell'Abbondanza – Teil 18/47 (Y 69–69)
+### Schritt 19.14 – Granaio dell'Abbondanza – Teil 14/43 (Y 66–66)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -618,9 +483,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.19 – Granaio dell'Abbondanza – Teil 19/47 (Y 70–70)
+### Schritt 19.15 – Granaio dell'Abbondanza – Teil 15/43 (Y 67–67)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -649,9 +514,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.20 – Granaio dell'Abbondanza – Teil 20/47 (Y 71–71)
+### Schritt 19.16 – Granaio dell'Abbondanza – Teil 16/43 (Y 68–68)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.554
 - **Bauteile:** `r1632267`
 
@@ -678,9 +543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.21 – Granaio dell'Abbondanza – Teil 21/47 (Y 72–72)
+### Schritt 19.17 – Granaio dell'Abbondanza – Teil 17/43 (Y 69–69)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -708,9 +573,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.22 – Granaio dell'Abbondanza – Teil 22/47 (Y 73–73)
+### Schritt 19.18 – Granaio dell'Abbondanza – Teil 18/43 (Y 70–70)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.332
 - **Bauteile:** `r1632267`
 
@@ -738,7 +603,100 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.23 – Granaio dell'Abbondanza – Teil 23/47 (Y 74–74)
+### Schritt 19.19 – Granaio dell'Abbondanza – Teil 19/43 (Y 71–71)
+
+- **Y-Bereich:** 71 bis 71
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+| Glatter Stein | `smooth_stone` | 143 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 19.20 – Granaio dell'Abbondanza – Teil 20/43 (Y 72–72)
+
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 152 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 19.21 – Granaio dell'Abbondanza – Teil 21/43 (Y 73–73)
+
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+| Glatter Stein | `smooth_stone` | 143 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 19.22 – Granaio dell'Abbondanza – Teil 22/43 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.145
@@ -749,9 +707,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 297 |
+| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 152 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
-| Glatter Stein | `smooth_stone` | 143 |
 
 **Beschreibung**
 
@@ -769,7 +727,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.24 – Granaio dell'Abbondanza – Teil 24/47 (Y 75–75)
+### Schritt 19.23 – Granaio dell'Abbondanza – Teil 23/43 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.145
@@ -780,9 +738,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 288 |
-| Glatter Stein | `smooth_stone` | 152 |
+| Polierter Andesit | `polished_andesite` | 297 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
+| Glatter Stein | `smooth_stone` | 143 |
 
 **Beschreibung**
 
@@ -800,102 +758,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.25 – Granaio dell'Abbondanza – Teil 25/47 (Y 76–76)
+### Schritt 19.24 – Granaio dell'Abbondanza – Teil 24/43 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 297 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-| Glatter Stein | `smooth_stone` | 143 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.26 – Granaio dell'Abbondanza – Teil 26/47 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 288 |
-| Glatter Stein | `smooth_stone` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.27 – Granaio dell'Abbondanza – Teil 27/47 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 297 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-| Glatter Stein | `smooth_stone` | 143 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.28 – Granaio dell'Abbondanza – Teil 28/47 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -923,9 +788,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.29 – Granaio dell'Abbondanza – Teil 29/47 (Y 80–80)
+### Schritt 19.25 – Granaio dell'Abbondanza – Teil 25/43 (Y 77–77)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.554
 - **Bauteile:** `r1632267`
 
@@ -952,9 +817,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.30 – Granaio dell'Abbondanza – Teil 30/47 (Y 81–81)
+### Schritt 19.26 – Granaio dell'Abbondanza – Teil 26/43 (Y 78–78)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -982,9 +847,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.31 – Granaio dell'Abbondanza – Teil 31/47 (Y 82–82)
+### Schritt 19.27 – Granaio dell'Abbondanza – Teil 27/43 (Y 79–79)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.332
 - **Bauteile:** `r1632267`
 
@@ -1012,7 +877,100 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.32 – Granaio dell'Abbondanza – Teil 32/47 (Y 83–83)
+### Schritt 19.28 – Granaio dell'Abbondanza – Teil 28/43 (Y 80–80)
+
+- **Y-Bereich:** 80 bis 80
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 152 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 19.29 – Granaio dell'Abbondanza – Teil 29/43 (Y 81–81)
+
+- **Y-Bereich:** 81 bis 81
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 297 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+| Glatter Stein | `smooth_stone` | 143 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 19.30 – Granaio dell'Abbondanza – Teil 30/43 (Y 82–82)
+
+- **Y-Bereich:** 82 bis 82
+- **Blöcke:** 1.145
+- **Bauteile:** `r1632267`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 558 |
+| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 152 |
+| Graues Buntglas | `gray_stained_glass` | 147 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 19.31 – Granaio dell'Abbondanza – Teil 31/43 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.145
@@ -1023,9 +981,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 288 |
-| Glatter Stein | `smooth_stone` | 152 |
+| Polierter Andesit | `polished_andesite` | 297 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
+| Glatter Stein | `smooth_stone` | 143 |
 
 **Beschreibung**
 
@@ -1043,7 +1001,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.33 – Granaio dell'Abbondanza – Teil 33/47 (Y 84–84)
+### Schritt 19.32 – Granaio dell'Abbondanza – Teil 32/43 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.145
@@ -1054,9 +1012,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 297 |
+| Polierter Andesit | `polished_andesite` | 288 |
+| Glatter Stein | `smooth_stone` | 152 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
-| Glatter Stein | `smooth_stone` | 143 |
 
 **Beschreibung**
 
@@ -1074,102 +1032,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.34 – Granaio dell'Abbondanza – Teil 34/47 (Y 85–85)
+### Schritt 19.33 – Granaio dell'Abbondanza – Teil 33/43 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 288 |
-| Glatter Stein | `smooth_stone` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.35 – Granaio dell'Abbondanza – Teil 35/47 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 297 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-| Glatter Stein | `smooth_stone` | 143 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.36 – Granaio dell'Abbondanza – Teil 36/47 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.145
-- **Bauteile:** `r1632267`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 558 |
-| Polierter Andesit | `polished_andesite` | 288 |
-| Glatter Stein | `smooth_stone` | 152 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 19.37 – Granaio dell'Abbondanza – Teil 37/47 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.241
 - **Bauteile:** `r1632267`
 
@@ -1197,9 +1062,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.38 – Granaio dell'Abbondanza – Teil 38/47 (Y 89–89)
+### Schritt 19.34 – Granaio dell'Abbondanza – Teil 34/43 (Y 86–86)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.554
 - **Bauteile:** `r1632267`
 
@@ -1228,9 +1093,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.39 – Granaio dell'Abbondanza – Teil 39/47 (Y 90–90)
+### Schritt 19.35 – Granaio dell'Abbondanza – Teil 35/43 (Y 87–87)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.554
 - **Bauteile:** `r1632267`
 
@@ -1259,9 +1124,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.40 – Granaio dell'Abbondanza – Teil 40/47 (Y 91–91)
+### Schritt 19.36 – Granaio dell'Abbondanza – Teil 36/43 (Y 88–88)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.580
 - **Bauteile:** `r1632267`
 
@@ -1287,9 +1152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.41 – Granaio dell'Abbondanza – Teil 41/47 (Y 91–91)
+### Schritt 19.37 – Granaio dell'Abbondanza – Teil 37/43 (Y 88–88)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.564
 - **Bauteile:** `r1632267`
 
@@ -1315,9 +1180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.42 – Granaio dell'Abbondanza – Teil 42/47 (Y 92–92)
+### Schritt 19.38 – Granaio dell'Abbondanza – Teil 38/43 (Y 89–89)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.962
 - **Bauteile:** `r1632267`
 
@@ -1343,9 +1208,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.43 – Granaio dell'Abbondanza – Teil 43/47 (Y 93–93)
+### Schritt 19.39 – Granaio dell'Abbondanza – Teil 39/43 (Y 90–90)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.908
 - **Bauteile:** `r1632267`
 
@@ -1371,9 +1236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.44 – Granaio dell'Abbondanza – Teil 44/47 (Y 94–94)
+### Schritt 19.40 – Granaio dell'Abbondanza – Teil 40/43 (Y 91–91)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.872
 - **Bauteile:** `r1632267`
 
@@ -1400,9 +1265,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.45 – Granaio dell'Abbondanza – Teil 45/47 (Y 95–95)
+### Schritt 19.41 – Granaio dell'Abbondanza – Teil 41/43 (Y 92–92)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.504
 - **Bauteile:** `r1632267`
 
@@ -1429,9 +1294,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.46 – Granaio dell'Abbondanza – Teil 46/47 (Y 96–97)
+### Schritt 19.42 – Granaio dell'Abbondanza – Teil 42/43 (Y 93–94)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.604
 - **Bauteile:** `r1632267`
 
@@ -1458,9 +1323,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.47 – Granaio dell'Abbondanza – Teil 47/47 (Y 98–103)
+### Schritt 19.43 – Granaio dell'Abbondanza – Teil 43/43 (Y 95–100)
 
-- **Y-Bereich:** 98 bis 103
+- **Y-Bereich:** 95 bis 100
 - **Blöcke:** 1.513
 - **Bauteile:** `r1632267`
 
@@ -1487,9 +1352,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.48 – Granaio dell'Abbondanza: Innenausbau – Teil 1/10 (Y 60–71)
+### Schritt 19.44 – Granaio dell'Abbondanza: Innenausbau – Teil 1/10 (Y 57–68)
 
-- **Y-Bereich:** 60 bis 71
+- **Y-Bereich:** 57 bis 68
 - **Blöcke:** 1.772
 - **Bauteile:** `r1632267_innen`
 
@@ -1525,9 +1390,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.49 – Granaio dell'Abbondanza: Innenausbau – Teil 2/10 (Y 71–71)
+### Schritt 19.45 – Granaio dell'Abbondanza: Innenausbau – Teil 2/10 (Y 68–68)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.721
 - **Bauteile:** `r1632267_innen`
 
@@ -1554,9 +1419,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.50 – Granaio dell'Abbondanza: Innenausbau – Teil 3/10 (Y 71–71)
+### Schritt 19.46 – Granaio dell'Abbondanza: Innenausbau – Teil 3/10 (Y 68–68)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.693
 - **Bauteile:** `r1632267_innen`
 
@@ -1583,9 +1448,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.51 – Granaio dell'Abbondanza: Innenausbau – Teil 4/10 (Y 71–71)
+### Schritt 19.47 – Granaio dell'Abbondanza: Innenausbau – Teil 4/10 (Y 68–68)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.706
 - **Bauteile:** `r1632267_innen`
 
@@ -1612,9 +1477,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.52 – Granaio dell'Abbondanza: Innenausbau – Teil 5/10 (Y 71–71)
+### Schritt 19.48 – Granaio dell'Abbondanza: Innenausbau – Teil 5/10 (Y 68–68)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.729
 - **Bauteile:** `r1632267_innen`
 
@@ -1641,9 +1506,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.53 – Granaio dell'Abbondanza: Innenausbau – Teil 6/10 (Y 72–80)
+### Schritt 19.49 – Granaio dell'Abbondanza: Innenausbau – Teil 6/10 (Y 69–77)
 
-- **Y-Bereich:** 72 bis 80
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.731
 - **Bauteile:** `r1632267_innen`
 
@@ -1685,9 +1550,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.54 – Granaio dell'Abbondanza: Innenausbau – Teil 7/10 (Y 80–80)
+### Schritt 19.50 – Granaio dell'Abbondanza: Innenausbau – Teil 7/10 (Y 77–77)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.721
 - **Bauteile:** `r1632267_innen`
 
@@ -1714,9 +1579,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.55 – Granaio dell'Abbondanza: Innenausbau – Teil 8/10 (Y 80–80)
+### Schritt 19.51 – Granaio dell'Abbondanza: Innenausbau – Teil 8/10 (Y 77–77)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.693
 - **Bauteile:** `r1632267_innen`
 
@@ -1743,9 +1608,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.56 – Granaio dell'Abbondanza: Innenausbau – Teil 9/10 (Y 80–80)
+### Schritt 19.52 – Granaio dell'Abbondanza: Innenausbau – Teil 9/10 (Y 77–77)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.706
 - **Bauteile:** `r1632267_innen`
 
@@ -1772,11 +1637,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 19.57 – Granaio dell'Abbondanza: Innenausbau – Teil 10/10 (Y 80–81)
+### Schritt 19.53 – Granaio dell'Abbondanza: Innenausbau – Teil 10/10 (Y 77–78) & Straßenschilder
 
-- **Y-Bereich:** 80 bis 81
-- **Blöcke:** 1.735
-- **Bauteile:** `r1632267_innen`
+- **Y-Bereich:** 64 bis 78
+- **Blöcke:** 1.738
+- **Bauteile:** `r1632267_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1786,19 +1651,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

@@ -8,160 +8,160 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 213.819 |
-| Bauschritte | 142 |
+| Blöcke | 210.631 |
+| Bauschritte | 139 |
 | Y-Bereich | 53 bis 100 |
 | X-Ausdehnung | -2289 bis -2022 (268 Blöcke) |
 | Z-Ausdehnung | -198 bis 55 (254 Blöcke) |
-| Kleinster Schritt | 559 Blöcke (Schritt 4.34) |
-| Mittlerer Schritt | 1.506 Blöcke |
-| Größter Schritt | 2.081 Blöcke (Schritt 4.141) |
+| Kleinster Schritt | 559 Blöcke (Schritt 4.33) |
+| Mittlerer Schritt | 1.515 Blöcke |
+| Größter Schritt | 2.081 Blöcke (Schritt 4.138) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 59.891 | 28,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 27.785 | 13,0 % |
-| Endsteinziegel | `end_stone_bricks` | 26.095 | 12,2 % |
-| Weißer Beton | `white_concrete` | 21.519 | 10,1 % |
-| Polierter Tuffstein | `polished_tuff` | 18.398 | 8,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 15.741 | 7,4 % |
-| Orange Keramik | `orange_terracotta` | 14.278 | 6,7 % |
-| Rosa Keramik | `pink_terracotta` | 7.249 | 3,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 7.039 | 3,3 % |
-| Tuffstein | `tuff` | 4.185 | 2,0 % |
+| Terrakotta | `terracotta` | 57.597 | 27,3 % |
+| Glatter Sandstein | `smooth_sandstone` | 28.068 | 13,3 % |
+| Endsteinziegel | `end_stone_bricks` | 26.171 | 12,4 % |
+| Weißer Beton | `white_concrete` | 21.609 | 10,3 % |
+| Polierter Tuffstein | `polished_tuff` | 18.415 | 8,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 15.734 | 7,5 % |
+| Orange Keramik | `orange_terracotta` | 14.291 | 6,8 % |
+| Rosa Keramik | `pink_terracotta` | 7.192 | 3,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 7.053 | 3,3 % |
+| Tuffstein | `tuff` | 3.227 | 1,5 % |
 | Glatter Stein | `smooth_stone` | 2.746 | 1,3 % |
 | Graues Buntglas | `gray_stained_glass` | 2.142 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 2.018 | 0,9 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.818 | 0,9 % |
 | Polierter Andesit | `polished_andesite` | 1.269 | 0,6 % |
 | Ziegelsteine | `bricks` | 937 | 0,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 532 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 509 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 471 | 0,2 % |
-| Seelaterne | `sea_lantern` | 385 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 258 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 238 | 0,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 531 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 439 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 407 | 0,2 % |
+| Seelaterne | `sea_lantern` | 371 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 251 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 231 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 33 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 33 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 27 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 27 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 24 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 1.476 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 1.328 |
 | Steintreppe | `stone_stairs` | 56 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 24 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w116900956` | Reihenhaus an Borgo Ognissanti | 11.841 | 4.1–4.7 |
-| 2 | `w116900956_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 3.564 | 4.8–4.10 |
-| 3 | `w477555660` | Reihenhaus an Borgo Ognissanti | 5.002 | 4.11–4.13 |
-| 4 | `w477555660_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 989 | 4.14 |
-| 5 | `w477555661` | Reihenhaus an Borgo Ognissanti | 4.176 | 4.15–4.17 |
-| 6 | `w477555661_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 5 | 4.18 |
-| 7 | `w477555662` | Reihenhaus an Via Montebello | 5.595 | 4.18–4.20 |
-| 8 | `w477555662_innen` | Reihenhaus an Via Montebello: Innenausbau | 838 | 4.21 |
-| 9 | `w477555663` | Reihenhaus an Borgo Ognissanti | 4.301 | 4.22–4.24 |
-| 10 | `w477555663_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 5 | 4.25 |
-| 11 | `w477555664` | Reihenhaus an Via Montebello | 5.633 | 4.25–4.27 |
-| 12 | `w477555664_innen` | Reihenhaus an Via Montebello: Innenausbau | 934 | 4.28 |
-| 13 | `w477555667` | Reihenhaus an Via Montebello | 2.677 | 4.29–4.30 |
-| 14 | `w477555667_innen` | Reihenhaus an Via Montebello: Innenausbau | 609 | 4.31 |
-| 15 | `w477555668` | Reihenhaus an Via Melegnano | 3.735 | 4.32–4.33 |
-| 16 | `w477555668_innen` | Reihenhaus an Via Melegnano: Innenausbau | 559 | 4.34 |
-| 17 | `w477555670` | Reihenhaus an Via Melegnano | 6.226 | 4.35–4.38 |
-| 18 | `w477555670_innen` | Reihenhaus an Via Melegnano: Innenausbau | 1.175 | 4.39 |
-| 19 | `w477555672` | Reihenhaus an Via Montebello | 3.049 | 4.40–4.41 |
-| 20 | `w477555672_innen` | Reihenhaus an Via Montebello: Innenausbau | 2 | 4.42 |
-| 21 | `w477555674` | Reihenhaus an Borgo Ognissanti | 2.837 | 4.42–4.43 |
-| 22 | `w477555674_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.44 |
-| 23 | `w477555676` | Reihenhaus an Borgo Ognissanti | 5.897 | 4.44–4.46 |
-| 24 | `w477555676_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.237 | 4.47 |
-| 25 | `w477555681` | Reihenhaus an Via Montebello | 4.067 | 4.48–4.49 |
-| 26 | `w477555681_innen` | Reihenhaus an Via Montebello: Innenausbau | 895 | 4.50 |
-| 27 | `w477555682` | Reihenhaus an Via Montebello | 3.163 | 4.51–4.52 |
-| 28 | `w477555682_innen` | Reihenhaus an Via Montebello: Innenausbau | 919 | 4.53 |
-| 29 | `w477555683` | Reihenhaus an Via Montebello | 1.241 | 4.54 |
-| 30 | `w477555683_innen` | Reihenhaus an Via Montebello: Innenausbau | 2 | 4.55 |
-| 31 | `w477555684` | Reihenhaus an Borgo Ognissanti | 3.936 | 4.55–4.56 |
-| 32 | `w477555684_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 5 | 4.57 |
-| 33 | `w477555687` | Reihenhaus an Via Montebello | 5.748 | 4.57–4.59 |
-| 34 | `w477555687_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.244 | 4.60 |
-| 35 | `w477555688` | Reihenhaus an Borgo Ognissanti | 5.102 | 4.61–4.63 |
-| 36 | `w477555688_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.114 | 4.64 |
-| 37 | `w477555689` | Reihenhaus an Via Montebello | 3.084 | 4.65–4.66 |
-| 38 | `w477555689_innen` | Reihenhaus an Via Montebello: Innenausbau | 694 | 4.67 |
-| 39 | `w477555693` | Reihenhaus an Via Montebello | 7.616 | 4.68–4.71 |
-| 40 | `w477555693_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.523 | 4.72 |
-| 41 | `w477555699` | Reihenhaus an Borgo Ognissanti | 4.198 | 4.73–4.75 |
-| 42 | `w477555699_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.76 |
-| 43 | `w477555700` | Reihenhaus an Borgo Ognissanti | 4.224 | 4.76–4.78 |
-| 44 | `w477555700_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.721 | 4.79 |
-| 45 | `w477555701` | Reihenhaus an Via Montebello | 3.324 | 4.80–4.81 |
-| 46 | `w477555701_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.191 | 4.82 |
-| 47 | `w477555702` | Reihenhaus an Via Montebello | 2.914 | 4.83–4.84 |
-| 48 | `w477555702_innen` | Reihenhaus an Via Montebello: Innenausbau | 1 | 4.85 |
-| 49 | `w477555705` | Reihenhaus an Borgo Ognissanti | 5.420 | 4.85–4.87 |
-| 50 | `w477555705_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.042 | 4.88 |
-| 51 | `w477555708` | Reihenhaus an Via Montebello | 7.059 | 4.89–4.92 |
-| 52 | `w477555708_innen` | Reihenhaus an Via Montebello: Innenausbau | 2.115 | 4.93–4.94 |
-| 53 | `w477555712` | Reihenhaus an Borgo Ognissanti | 4.882 | 4.95–4.97 |
-| 54 | `w477555712_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.214 | 4.98 |
-| 55 | `w477555714` | Reihenhaus an Borgo Ognissanti | 5.099 | 4.99–4.101 |
-| 56 | `w477555714_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.432 | 4.102–4.103 |
-| 57 | `w477555718` | Reihenhaus an Borgo Ognissanti | 2.679 | 4.104–4.105 |
-| 58 | `w477555718_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.456 | 4.106 |
-| 59 | `w477555721` | Reihenhaus an Borgo Ognissanti | 2.514 | 4.107–4.108 |
-| 60 | `w477555721_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.521 | 4.109 |
-| 61 | `w477555723` | Reihenhaus an Borgo Ognissanti | 3.310 | 4.110–4.111 |
-| 62 | `w477555723_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.445 | 4.112 |
-| 63 | `w477555724` | Reihenhaus an Borgo Ognissanti | 2.835 | 4.113–4.114 |
-| 64 | `w477555724_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.307 | 4.115 |
-| 65 | `w477555726` | Reihenhaus an Borgo Ognissanti | 1.669 | 4.116 |
-| 66 | `w477555726_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 949 | 4.117 |
-| 67 | `w477555727` | Reihenhaus an Via Montebello | 2.529 | 4.118–4.119 |
-| 68 | `w477555727_innen` | Reihenhaus an Via Montebello: Innenausbau | 814 | 4.120 |
-| 69 | `w477555728` | Reihenhaus an Borgo Ognissanti | 2.756 | 4.121–4.122 |
-| 70 | `w477555728_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.207 | 4.123 |
-| 71 | `w477555729` | Reihenhaus an Borgo Ognissanti | 1.808 | 4.124 |
-| 72 | `w477555729_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 943 | 4.125 |
-| 73 | `w477555731` | Reihenhaus an Borgo Ognissanti | 1.144 | 4.126 |
-| 74 | `w477555731_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.127 |
-| 75 | `w477555732` | Reihenhaus an Via Montebello | 2.340 | 4.127–4.128 |
-| 76 | `w477555732_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.367 | 4.129 |
-| 77 | `w477555737` | Palazzo des Ottocento an Via Montebello | 14.368 | 4.130–4.137 |
-| 78 | `w477555737_innen` | Palazzo des Ottocento an Via Montebello: Innenausbau | 3.831 | 4.138–4.140 |
-| 79 | `w477555739` | Reihenhaus an Via Montebello | 2.081 | 4.141 |
-| 80 | `w477555739_innen` | Reihenhaus an Via Montebello: Innenausbau | 865 | 4.142 |
+| 1 | `w116900956` | Reihenhaus an Borgo Ognissanti | 11.671 | 4.1–4.6 |
+| 2 | `w116900956_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 3.564 | 4.7–4.9 |
+| 3 | `w477555660` | Reihenhaus an Borgo Ognissanti | 5.002 | 4.10–4.12 |
+| 4 | `w477555660_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 989 | 4.13 |
+| 5 | `w477555661` | Reihenhaus an Borgo Ognissanti | 4.176 | 4.14–4.16 |
+| 6 | `w477555661_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 5 | 4.17 |
+| 7 | `w477555662` | Reihenhaus an Via Montebello | 5.595 | 4.17–4.19 |
+| 8 | `w477555662_innen` | Reihenhaus an Via Montebello: Innenausbau | 838 | 4.20 |
+| 9 | `w477555663` | Reihenhaus an Borgo Ognissanti | 4.301 | 4.21–4.23 |
+| 10 | `w477555663_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 5 | 4.24 |
+| 11 | `w477555664` | Reihenhaus an Via Montebello | 5.633 | 4.24–4.26 |
+| 12 | `w477555664_innen` | Reihenhaus an Via Montebello: Innenausbau | 934 | 4.27 |
+| 13 | `w477555667` | Reihenhaus an Via Montebello | 2.677 | 4.28–4.29 |
+| 14 | `w477555667_innen` | Reihenhaus an Via Montebello: Innenausbau | 609 | 4.30 |
+| 15 | `w477555668` | Reihenhaus an Via Melegnano | 3.735 | 4.31–4.32 |
+| 16 | `w477555668_innen` | Reihenhaus an Via Melegnano: Innenausbau | 559 | 4.33 |
+| 17 | `w477555670` | Reihenhaus an Via Melegnano | 6.239 | 4.34–4.37 |
+| 18 | `w477555670_innen` | Reihenhaus an Via Melegnano: Innenausbau | 1.175 | 4.38 |
+| 19 | `w477555672` | Reihenhaus an Via Montebello | 3.049 | 4.39–4.40 |
+| 20 | `w477555672_innen` | Reihenhaus an Via Montebello: Innenausbau | 2 | 4.41 |
+| 21 | `w477555674` | Reihenhaus an Borgo Ognissanti | 2.883 | 4.41–4.42 |
+| 22 | `w477555674_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.43 |
+| 23 | `w477555676` | Reihenhaus an Borgo Ognissanti | 5.897 | 4.43–4.45 |
+| 24 | `w477555676_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.237 | 4.46 |
+| 25 | `w477555681` | Reihenhaus an Via Montebello | 4.067 | 4.47–4.48 |
+| 26 | `w477555681_innen` | Reihenhaus an Via Montebello: Innenausbau | 895 | 4.49 |
+| 27 | `w477555682` | Reihenhaus an Via Montebello | 3.163 | 4.50–4.51 |
+| 28 | `w477555682_innen` | Reihenhaus an Via Montebello: Innenausbau | 919 | 4.52 |
+| 29 | `w477555683` | Reihenhaus an Via Montebello | 1.241 | 4.53 |
+| 30 | `w477555683_innen` | Reihenhaus an Via Montebello: Innenausbau | 2 | 4.54 |
+| 31 | `w477555684` | Reihenhaus an Borgo Ognissanti | 3.936 | 4.54–4.55 |
+| 32 | `w477555684_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 5 | 4.56 |
+| 33 | `w477555687` | Reihenhaus an Via Montebello | 5.753 | 4.56–4.58 |
+| 34 | `w477555687_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.244 | 4.59 |
+| 35 | `w477555688` | Reihenhaus an Borgo Ognissanti | 5.051 | 4.60–4.62 |
+| 36 | `w477555688_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.114 | 4.63 |
+| 37 | `w477555689` | Reihenhaus an Via Montebello | 3.084 | 4.64–4.65 |
+| 38 | `w477555689_innen` | Reihenhaus an Via Montebello: Innenausbau | 694 | 4.66 |
+| 39 | `w477555693` | Reihenhaus an Via Montebello | 7.154 | 4.67–4.70 |
+| 40 | `w477555693_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.525 | 4.71 |
+| 41 | `w477555699` | Reihenhaus an Borgo Ognissanti | 4.208 | 4.72–4.74 |
+| 42 | `w477555699_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.75 |
+| 43 | `w477555700` | Reihenhaus an Borgo Ognissanti | 4.362 | 4.75–4.77 |
+| 44 | `w477555700_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 4 | 4.78 |
+| 45 | `w477555701` | Reihenhaus an Via Montebello | 3.330 | 4.78–4.79 |
+| 46 | `w477555701_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.191 | 4.80 |
+| 47 | `w477555702` | Reihenhaus an Via Montebello | 2.914 | 4.81–4.82 |
+| 48 | `w477555702_innen` | Reihenhaus an Via Montebello: Innenausbau | 1 | 4.83 |
+| 49 | `w477555705` | Reihenhaus an Borgo Ognissanti | 5.420 | 4.83–4.85 |
+| 50 | `w477555705_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.042 | 4.86 |
+| 51 | `w477555708` | Reihenhaus an Via Montebello | 7.079 | 4.87–4.90 |
+| 52 | `w477555708_innen` | Reihenhaus an Via Montebello: Innenausbau | 2.115 | 4.91–4.92 |
+| 53 | `w477555712` | Reihenhaus an Borgo Ognissanti | 4.828 | 4.93–4.95 |
+| 54 | `w477555712_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.205 | 4.96 |
+| 55 | `w477555714` | Reihenhaus an Borgo Ognissanti | 5.099 | 4.97–4.99 |
+| 56 | `w477555714_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2.432 | 4.100–4.101 |
+| 57 | `w477555718` | Reihenhaus an Borgo Ognissanti | 2.582 | 4.102–4.103 |
+| 58 | `w477555718_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.456 | 4.104 |
+| 59 | `w477555721` | Reihenhaus an Borgo Ognissanti | 2.460 | 4.105–4.106 |
+| 60 | `w477555721_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.539 | 4.107 |
+| 61 | `w477555723` | Reihenhaus an Borgo Ognissanti | 3.404 | 4.108–4.109 |
+| 62 | `w477555723_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.446 | 4.110 |
+| 63 | `w477555724` | Reihenhaus an Borgo Ognissanti | 2.830 | 4.111–4.112 |
+| 64 | `w477555724_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.307 | 4.113 |
+| 65 | `w477555726` | Reihenhaus an Borgo Ognissanti | 1.669 | 4.114 |
+| 66 | `w477555726_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 949 | 4.115 |
+| 67 | `w477555727` | Reihenhaus an Via Montebello | 2.543 | 4.116–4.117 |
+| 68 | `w477555727_innen` | Reihenhaus an Via Montebello: Innenausbau | 814 | 4.118 |
+| 69 | `w477555728` | Reihenhaus an Borgo Ognissanti | 2.675 | 4.119–4.120 |
+| 70 | `w477555728_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 1.214 | 4.121 |
+| 71 | `w477555729` | Reihenhaus an Borgo Ognissanti | 1.892 | 4.122 |
+| 72 | `w477555729_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.123 |
+| 73 | `w477555731` | Reihenhaus an Borgo Ognissanti | 1.105 | 4.123 |
+| 74 | `w477555731_innen` | Reihenhaus an Borgo Ognissanti: Innenausbau | 2 | 4.124 |
+| 75 | `w477555732` | Reihenhaus an Via Montebello | 2.351 | 4.124–4.125 |
+| 76 | `w477555732_innen` | Reihenhaus an Via Montebello: Innenausbau | 1.367 | 4.126 |
+| 77 | `w477555737` | Palazzo des Ottocento an Via Montebello | 14.396 | 4.127–4.134 |
+| 78 | `w477555737_innen` | Palazzo des Ottocento an Via Montebello: Innenausbau | 3.822 | 4.135–4.137 |
+| 79 | `w477555739` | Reihenhaus an Via Montebello | 2.081 | 4.138 |
+| 80 | `w477555739_innen` | Reihenhaus an Via Montebello: Innenausbau | 865 | 4.139 |
+| 81 | `strassenschilder` | Straßenschilder | 4 | 4.139 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Reihenhaus an Borgo Ognissanti – Teil 1/7 (Y 54–55)
+### Schritt 4.1 – Reihenhaus an Borgo Ognissanti – Teil 1/6 (Y 54–56)
 
-- **Y-Bereich:** 54 bis 55
-- **Blöcke:** 1.591
+- **Y-Bereich:** 54 bis 56
+- **Blöcke:** 1.947
 - **Bauteile:** `w116900956`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.417 |
-| Tuffstein | `tuff` | 170 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
+| Polierter Tuffstein | `polished_tuff` | 1.421 |
+| Endsteinziegel | `end_stone_bricks` | 478 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
+| Glatter Stein | `smooth_stone` | 24 |
 
 **Beschreibung**
 
@@ -179,19 +179,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Reihenhaus an Borgo Ognissanti – Teil 2/7 (Y 56–62)
+### Schritt 4.2 – Reihenhaus an Borgo Ognissanti – Teil 2/6 (Y 57–63)
 
-- **Y-Bereich:** 56 bis 62
-- **Blöcke:** 1.853
+- **Y-Bereich:** 57 bis 63
+- **Blöcke:** 1.881
 - **Bauteile:** `w116900956`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.655 |
-| Graues Buntglas | `gray_stained_glass` | 102 |
-| Glatter Stein | `smooth_stone` | 96 |
+| Endsteinziegel | `end_stone_bricks` | 1.731 |
+| Graues Buntglas | `gray_stained_glass` | 78 |
+| Glatter Stein | `smooth_stone` | 72 |
 
 **Beschreibung**
 
@@ -209,18 +209,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Reihenhaus an Borgo Ognissanti – Teil 3/7 (Y 63–68)
+### Schritt 4.3 – Reihenhaus an Borgo Ognissanti – Teil 3/6 (Y 64–70)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.641
+- **Y-Bereich:** 64 bis 70
+- **Blöcke:** 1.911
 - **Bauteile:** `w116900956`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.590 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
+| Endsteinziegel | `end_stone_bricks` | 1.843 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
 
@@ -238,18 +238,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Reihenhaus an Borgo Ognissanti – Teil 4/7 (Y 69–74)
+### Schritt 4.4 – Reihenhaus an Borgo Ognissanti – Teil 4/6 (Y 71–77)
 
-- **Y-Bereich:** 69 bis 74
-- **Blöcke:** 1.641
+- **Y-Bereich:** 71 bis 77
+- **Blöcke:** 1.911
 - **Bauteile:** `w116900956`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.590 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
+| Endsteinziegel | `end_stone_bricks` | 1.843 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
 
@@ -267,48 +267,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Reihenhaus an Borgo Ognissanti – Teil 5/7 (Y 75–80)
+### Schritt 4.5 – Reihenhaus an Borgo Ognissanti – Teil 5/6 (Y 78–84)
 
-- **Y-Bereich:** 75 bis 80
-- **Blöcke:** 1.641
+- **Y-Bereich:** 78 bis 84
+- **Blöcke:** 2.054
 - **Bauteile:** `w116900956`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.590 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.6 – Reihenhaus an Borgo Ognissanti – Teil 6/7 (Y 81–85)
-
-- **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.507
-- **Bauteile:** `w116900956`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.313 |
+| Endsteinziegel | `end_stone_bricks` | 1.843 |
 | Fichtenholz-Bretter | `spruce_planks` | 143 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
+| Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
 
@@ -326,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.7 – Reihenhaus an Borgo Ognissanti – Teil 7/7 (Y 86–94)
+### Schritt 4.6 – Reihenhaus an Borgo Ognissanti – Teil 6/6 (Y 85–93)
 
-- **Y-Bereich:** 86 bis 94
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.967
 - **Bauteile:** `w116900956`
 
@@ -355,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.8 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/3 (Y 55–64)
+### Schritt 4.7 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/3 (Y 54–63)
 
-- **Y-Bereich:** 55 bis 64
+- **Y-Bereich:** 54 bis 63
 - **Blöcke:** 1.198
 - **Bauteile:** `w116900956_innen`
 
@@ -395,9 +366,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.9 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/3 (Y 65–71)
+### Schritt 4.8 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/3 (Y 64–70)
 
-- **Y-Bereich:** 65 bis 71
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.181
 - **Bauteile:** `w116900956_innen`
 
@@ -435,9 +406,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.10 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 3/3 (Y 72–79)
+### Schritt 4.9 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 3/3 (Y 71–78)
 
-- **Y-Bereich:** 72 bis 79
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.185
 - **Bauteile:** `w116900956_innen`
 
@@ -477,9 +448,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.11 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
+### Schritt 4.10 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–62)
 
-- **Y-Bereich:** 54 bis 63
+- **Y-Bereich:** 53 bis 62
 - **Blöcke:** 1.610
 - **Bauteile:** `w477555660`
 
@@ -509,9 +480,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.12 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–76)
+### Schritt 4.11 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–75)
 
-- **Y-Bereich:** 64 bis 76
+- **Y-Bereich:** 63 bis 75
 - **Blöcke:** 1.742
 - **Bauteile:** `w477555660`
 
@@ -539,9 +510,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.13 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 77–89)
+### Schritt 4.12 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–88)
 
-- **Y-Bereich:** 77 bis 89
+- **Y-Bereich:** 76 bis 88
 - **Blöcke:** 1.650
 - **Bauteile:** `w477555660`
 
@@ -571,9 +542,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.14 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.13 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 54 bis 77
+- **Y-Bereich:** 53 bis 76
 - **Blöcke:** 989
 - **Bauteile:** `w477555660_innen`
 
@@ -609,7 +580,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.15 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
+### Schritt 4.14 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
 
 - **Y-Bereich:** 54 bis 63
 - **Blöcke:** 1.337
@@ -639,7 +610,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.16 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–75)
+### Schritt 4.15 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–75)
 
 - **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.456
@@ -668,7 +639,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.17 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–88)
+### Schritt 4.16 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–88)
 
 - **Y-Bereich:** 76 bis 88
 - **Blöcke:** 1.383
@@ -699,7 +670,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.18 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/3 (Y 55–65)
+### Schritt 4.17 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/3 (Y 55–65)
 
 - **Y-Bereich:** 54 bis 65
 - **Blöcke:** 1.875
@@ -741,7 +712,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.19 – Reihenhaus an Via Montebello – Teil 2/3 (Y 66–77)
+### Schritt 4.18 – Reihenhaus an Via Montebello – Teil 2/3 (Y 66–77)
 
 - **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.832
@@ -770,7 +741,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.20 – Reihenhaus an Via Montebello – Teil 3/3 (Y 78–92)
+### Schritt 4.19 – Reihenhaus an Via Montebello – Teil 3/3 (Y 78–92)
 
 - **Y-Bereich:** 78 bis 92
 - **Blöcke:** 1.893
@@ -801,7 +772,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.21 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.20 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 80
 - **Blöcke:** 838
@@ -841,9 +812,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.22 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–64)
+### Schritt 4.21 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–63)
 
-- **Y-Bereich:** 54 bis 64
+- **Y-Bereich:** 53 bis 63
 - **Blöcke:** 1.485
 - **Bauteile:** `w477555663`
 
@@ -871,9 +842,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.23 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 65–75)
+### Schritt 4.22 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–74)
 
-- **Y-Bereich:** 65 bis 75
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.345
 - **Bauteile:** `w477555663`
 
@@ -901,9 +872,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.24 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–88)
+### Schritt 4.23 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 75–87)
 
-- **Y-Bereich:** 76 bis 88
+- **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.471
 - **Bauteile:** `w477555663`
 
@@ -933,9 +904,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.25 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/3 (Y 55–65)
+### Schritt 4.24 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/3 (Y 55–65)
 
-- **Y-Bereich:** 54 bis 65
+- **Y-Bereich:** 53 bis 65
 - **Blöcke:** 1.867
 - **Bauteile:** `w477555663_innen`, `w477555664`
 
@@ -968,7 +939,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.26 – Reihenhaus an Via Montebello – Teil 2/3 (Y 66–78)
+### Schritt 4.25 – Reihenhaus an Via Montebello – Teil 2/3 (Y 66–78)
 
 - **Y-Bereich:** 66 bis 78
 - **Blöcke:** 1.841
@@ -998,7 +969,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.27 – Reihenhaus an Via Montebello – Teil 3/3 (Y 79–93)
+### Schritt 4.26 – Reihenhaus an Via Montebello – Teil 3/3 (Y 79–93)
 
 - **Y-Bereich:** 79 bis 93
 - **Blöcke:** 1.930
@@ -1031,7 +1002,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.28 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.27 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 57 bis 80
 - **Blöcke:** 934
@@ -1069,7 +1040,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.29 – Reihenhaus an Via Montebello – Teil 1/2 (Y 56–72)
+### Schritt 4.28 – Reihenhaus an Via Montebello – Teil 1/2 (Y 56–72)
 
 - **Y-Bereich:** 56 bis 72
 - **Blöcke:** 1.353
@@ -1102,7 +1073,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.30 – Reihenhaus an Via Montebello – Teil 2/2 (Y 73–91)
+### Schritt 4.29 – Reihenhaus an Via Montebello – Teil 2/2 (Y 73–91)
 
 - **Y-Bereich:** 73 bis 91
 - **Blöcke:** 1.324
@@ -1134,7 +1105,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.31 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.30 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 57 bis 80
 - **Blöcke:** 609
@@ -1172,7 +1143,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.32 – Reihenhaus an Via Melegnano – Teil 1/2 (Y 56–71)
+### Schritt 4.31 – Reihenhaus an Via Melegnano – Teil 1/2 (Y 56–71)
 
 - **Y-Bereich:** 56 bis 71
 - **Blöcke:** 1.832
@@ -1205,7 +1176,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.33 – Reihenhaus an Via Melegnano – Teil 2/2 (Y 72–90)
+### Schritt 4.32 – Reihenhaus an Via Melegnano – Teil 2/2 (Y 72–90)
 
 - **Y-Bereich:** 72 bis 90
 - **Blöcke:** 1.903
@@ -1237,7 +1208,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.34 – Reihenhaus an Via Melegnano: Innenausbau
+### Schritt 4.33 – Reihenhaus an Via Melegnano: Innenausbau
 
 - **Y-Bereich:** 56 bis 79
 - **Blöcke:** 559
@@ -1275,17 +1246,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.35 – Reihenhaus an Via Melegnano – Teil 1/4 (Y 55–61)
+### Schritt 4.34 – Reihenhaus an Via Melegnano – Teil 1/4 (Y 54–60)
 
-- **Y-Bereich:** 55 bis 61
-- **Blöcke:** 1.509
+- **Y-Bereich:** 54 bis 60
+- **Blöcke:** 1.522
 - **Bauteile:** `w477555670`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 876 |
+| Orange Keramik | `orange_terracotta` | 889 |
 | Polierter Tuffstein | `polished_tuff` | 526 |
 | Polierter Andesit | `polished_andesite` | 95 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
@@ -1306,9 +1277,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.36 – Reihenhaus an Via Melegnano – Teil 2/4 (Y 62–71)
+### Schritt 4.35 – Reihenhaus an Via Melegnano – Teil 2/4 (Y 61–70)
 
-- **Y-Bereich:** 62 bis 71
+- **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.654
 - **Bauteile:** `w477555670`
 
@@ -1336,9 +1307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.37 – Reihenhaus an Via Melegnano – Teil 3/4 (Y 72–80)
+### Schritt 4.36 – Reihenhaus an Via Melegnano – Teil 3/4 (Y 71–79)
 
-- **Y-Bereich:** 72 bis 80
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 1.486
 - **Bauteile:** `w477555670`
 
@@ -1366,9 +1337,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.38 – Reihenhaus an Via Melegnano – Teil 4/4 (Y 81–90)
+### Schritt 4.37 – Reihenhaus an Via Melegnano – Teil 4/4 (Y 80–89)
 
-- **Y-Bereich:** 81 bis 90
+- **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.577
 - **Bauteile:** `w477555670`
 
@@ -1398,9 +1369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.39 – Reihenhaus an Via Melegnano: Innenausbau
+### Schritt 4.38 – Reihenhaus an Via Melegnano: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
+- **Y-Bereich:** 54 bis 77
 - **Blöcke:** 1.175
 - **Bauteile:** `w477555670_innen`
 
@@ -1436,7 +1407,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.40 – Reihenhaus an Via Montebello – Teil 1/2 (Y 56–71)
+### Schritt 4.39 – Reihenhaus an Via Montebello – Teil 1/2 (Y 56–71)
 
 - **Y-Bereich:** 56 bis 71
 - **Blöcke:** 1.508
@@ -1467,7 +1438,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.41 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–90)
+### Schritt 4.40 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–90)
 
 - **Y-Bereich:** 72 bis 90
 - **Blöcke:** 1.541
@@ -1498,17 +1469,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.42 – Reihenhaus an Via Montebello: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–70)
+### Schritt 4.41 – Reihenhaus an Via Montebello: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 53–68)
 
-- **Y-Bereich:** 54 bis 70
-- **Blöcke:** 1.450
+- **Y-Bereich:** 53 bis 68
+- **Blöcke:** 1.422
 - **Bauteile:** `w477555672_innen`, `w477555674`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.108 |
+| Weißer Beton | `white_concrete` | 1.080 |
 | Polierter Tuffstein | `polished_tuff` | 295 |
 | Glatter Stein | `smooth_stone` | 41 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
@@ -1530,17 +1501,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.43 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 71–89)
+### Schritt 4.42 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 69–88)
 
-- **Y-Bereich:** 71 bis 89
-- **Blöcke:** 1.389
+- **Y-Bereich:** 69 bis 88
+- **Blöcke:** 1.463
 - **Bauteile:** `w477555674`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 994 |
+| Weißer Beton | `white_concrete` | 1.068 |
 | Terrakotta | `terracotta` | 340 |
 | Glatter Stein | `smooth_stone` | 44 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
@@ -1562,9 +1533,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.44 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
+### Schritt 4.43 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–62)
 
-- **Y-Bereich:** 54 bis 63
+- **Y-Bereich:** 53 bis 62
 - **Blöcke:** 1.898
 - **Bauteile:** `w477555674_innen`, `w477555676`
 
@@ -1594,9 +1565,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.45 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–76)
+### Schritt 4.44 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–75)
 
-- **Y-Bereich:** 64 bis 76
+- **Y-Bereich:** 63 bis 75
 - **Blöcke:** 1.998
 - **Bauteile:** `w477555676`
 
@@ -1624,9 +1595,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.46 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 77–89)
+### Schritt 4.45 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–88)
 
-- **Y-Bereich:** 77 bis 89
+- **Y-Bereich:** 76 bis 88
 - **Blöcke:** 2.003
 - **Bauteile:** `w477555676`
 
@@ -1657,9 +1628,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.47 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.46 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 54 bis 77
+- **Y-Bereich:** 53 bis 76
 - **Blöcke:** 1.237
 - **Bauteile:** `w477555676_innen`
 
@@ -1695,7 +1666,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.48 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
+### Schritt 4.47 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
 - **Blöcke:** 2.052
@@ -1728,7 +1699,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.49 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
+### Schritt 4.48 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
 
 - **Y-Bereich:** 72 bis 91
 - **Blöcke:** 2.015
@@ -1760,7 +1731,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.50 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.49 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 79
 - **Blöcke:** 895
@@ -1798,7 +1769,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.51 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–72)
+### Schritt 4.50 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–72)
 
 - **Y-Bereich:** 55 bis 72
 - **Blöcke:** 1.607
@@ -1831,7 +1802,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.52 – Reihenhaus an Via Montebello – Teil 2/2 (Y 73–91)
+### Schritt 4.51 – Reihenhaus an Via Montebello – Teil 2/2 (Y 73–91)
 
 - **Y-Bereich:** 73 bis 91
 - **Blöcke:** 1.556
@@ -1863,7 +1834,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.53 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.52 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 79
 - **Blöcke:** 919
@@ -1901,7 +1872,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.54 – Reihenhaus an Via Montebello
+### Schritt 4.53 – Reihenhaus an Via Montebello
 
 - **Y-Bereich:** 56 bis 90
 - **Blöcke:** 1.241
@@ -1935,7 +1906,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.55 – Reihenhaus an Via Montebello: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–69)
+### Schritt 4.54 – Reihenhaus an Via Montebello: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–69)
 
 - **Y-Bereich:** 54 bis 69
 - **Blöcke:** 1.931
@@ -1967,7 +1938,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.56 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 70–88)
+### Schritt 4.55 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 70–88)
 
 - **Y-Bereich:** 70 bis 88
 - **Blöcke:** 2.007
@@ -1999,7 +1970,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.57 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/3 (Y 55–64)
+### Schritt 4.56 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/3 (Y 55–64)
 
 - **Y-Bereich:** 54 bis 64
 - **Blöcke:** 1.869
@@ -2041,7 +2012,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.58 – Reihenhaus an Via Montebello – Teil 2/3 (Y 65–78)
+### Schritt 4.57 – Reihenhaus an Via Montebello – Teil 2/3 (Y 65–78)
 
 - **Y-Bereich:** 65 bis 78
 - **Blöcke:** 2.040
@@ -2071,17 +2042,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.59 – Reihenhaus an Via Montebello – Teil 3/3 (Y 79–92)
+### Schritt 4.58 – Reihenhaus an Via Montebello – Teil 3/3 (Y 79–92)
 
 - **Y-Bereich:** 79 bis 92
-- **Blöcke:** 1.844
+- **Blöcke:** 1.849
 - **Bauteile:** `w477555687`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.120 |
+| Endsteinziegel | `end_stone_bricks` | 1.125 |
 | Terrakotta | `terracotta` | 626 |
 | Polierter Andesit | `polished_andesite` | 48 |
 | Ziegelsteine | `bricks` | 42 |
@@ -2103,7 +2074,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.60 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.59 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 80
 - **Blöcke:** 1.244
@@ -2143,27 +2114,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.61 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–64)
+### Schritt 4.60 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–62)
 
-- **Y-Bereich:** 54 bis 64
-- **Blöcke:** 1.708
+- **Y-Bereich:** 53 bis 62
+- **Blöcke:** 1.657
 - **Bauteile:** `w477555688`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.151 |
-| Polierter Tuffstein | `polished_tuff` | 468 |
-| Tuffstein | `tuff` | 65 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.165 |
+| Polierter Tuffstein | `polished_tuff` | 472 |
 | Polierter Andesit | `polished_andesite` | 20 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -2181,9 +2144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.62 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 65–77)
+### Schritt 4.61 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–75)
 
-- **Y-Bereich:** 65 bis 77
+- **Y-Bereich:** 63 bis 75
 - **Blöcke:** 1.712
 - **Bauteile:** `w477555688`
 
@@ -2211,9 +2174,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.63 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 78–90)
+### Schritt 4.62 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–88)
 
-- **Y-Bereich:** 78 bis 90
+- **Y-Bereich:** 76 bis 88
 - **Blöcke:** 1.682
 - **Bauteile:** `w477555688`
 
@@ -2244,9 +2207,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.64 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.63 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
+- **Y-Bereich:** 53 bis 76
 - **Blöcke:** 1.114
 - **Bauteile:** `w477555688_innen`
 
@@ -2282,7 +2245,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.65 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
+### Schritt 4.64 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
 - **Blöcke:** 1.551
@@ -2316,7 +2279,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.66 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
+### Schritt 4.65 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
 
 - **Y-Bereich:** 72 bis 91
 - **Blöcke:** 1.533
@@ -2348,7 +2311,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.67 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.66 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 79
 - **Blöcke:** 694
@@ -2386,20 +2349,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.68 – Reihenhaus an Via Montebello – Teil 1/4 (Y 55–59)
+### Schritt 4.67 – Reihenhaus an Via Montebello – Teil 1/4 (Y 55–60)
 
-- **Y-Bereich:** 55 bis 59
-- **Blöcke:** 1.853
+- **Y-Bereich:** 55 bis 60
+- **Blöcke:** 1.734
 - **Bauteile:** `w477555693`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 860 |
-| Polierter Tuffstein | `polished_tuff` | 649 |
-| Endsteinziegel | `end_stone_bricks` | 336 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Endsteinziegel | `end_stone_bricks` | 702 |
+| Polierter Tuffstein | `polished_tuff` | 651 |
+| Tuffstein | `tuff` | 353 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Graues Buntglas | `gray_stained_glass` | 1 |
 
 **Beschreibung**
 
@@ -2417,19 +2381,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.69 – Reihenhaus an Via Montebello – Teil 2/4 (Y 60–70)
+### Schritt 4.68 – Reihenhaus an Via Montebello – Teil 2/4 (Y 61–70)
 
-- **Y-Bereich:** 60 bis 70
-- **Blöcke:** 1.943
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.774
 - **Bauteile:** `w477555693`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.862 |
-| Polierter Andesit | `polished_andesite` | 70 |
-| Graues Buntglas | `gray_stained_glass` | 11 |
+| Endsteinziegel | `end_stone_bricks` | 1.704 |
+| Polierter Andesit | `polished_andesite` | 57 |
+| Graues Buntglas | `gray_stained_glass` | 13 |
 
 **Beschreibung**
 
@@ -2447,19 +2411,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.70 – Reihenhaus an Via Montebello – Teil 3/4 (Y 71–81)
+### Schritt 4.69 – Reihenhaus an Via Montebello – Teil 3/4 (Y 71–80)
 
-- **Y-Bereich:** 71 bis 81
-- **Blöcke:** 1.956
+- **Y-Bereich:** 71 bis 80
+- **Blöcke:** 1.780
 - **Bauteile:** `w477555693`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.867 |
-| Polierter Andesit | `polished_andesite` | 74 |
-| Graues Buntglas | `gray_stained_glass` | 15 |
+| Endsteinziegel | `end_stone_bricks` | 1.700 |
+| Polierter Andesit | `polished_andesite` | 68 |
+| Graues Buntglas | `gray_stained_glass` | 12 |
 
 **Beschreibung**
 
@@ -2477,17 +2441,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.71 – Reihenhaus an Via Montebello – Teil 4/4 (Y 82–92)
+### Schritt 4.70 – Reihenhaus an Via Montebello – Teil 4/4 (Y 81–91)
 
-- **Y-Bereich:** 82 bis 92
-- **Blöcke:** 1.864
+- **Y-Bereich:** 81 bis 91
+- **Blöcke:** 1.866
 - **Bauteile:** `w477555693`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.053 |
+| Endsteinziegel | `end_stone_bricks` | 1.055 |
 | Terrakotta | `terracotta` | 760 |
 | Polierter Andesit | `polished_andesite` | 33 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
@@ -2509,21 +2473,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.72 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.71 – Reihenhaus an Via Montebello: Innenausbau
 
-- **Y-Bereich:** 57 bis 80
-- **Blöcke:** 1.523
+- **Y-Bereich:** 56 bis 80
+- **Blöcke:** 1.525
 - **Bauteile:** `w477555693_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.389 |
+| Terrakotta | `terracotta` | 1.395 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Seelaterne | `sea_lantern` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 22 |
+| Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2547,17 +2513,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.73 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
+### Schritt 4.72 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–62)
 
-- **Y-Bereich:** 54 bis 63
-- **Blöcke:** 1.389
+- **Y-Bereich:** 53 bis 62
+- **Blöcke:** 1.399
 - **Bauteile:** `w477555699`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.013 |
+| Rosa Keramik | `pink_terracotta` | 1.023 |
 | Polierter Tuffstein | `polished_tuff` | 358 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
@@ -2577,9 +2543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.74 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–75)
+### Schritt 4.73 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–74)
 
-- **Y-Bereich:** 64 bis 75
+- **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.374
 - **Bauteile:** `w477555699`
 
@@ -2607,9 +2573,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.75 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–86)
+### Schritt 4.74 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 75–85)
 
-- **Y-Bereich:** 76 bis 86
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.435
 - **Bauteile:** `w477555699`
 
@@ -2638,10 +2604,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.76 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 55–58)
+### Schritt 4.75 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 55–59)
 
-- **Y-Bereich:** 54 bis 58
-- **Blöcke:** 1.380
+- **Y-Bereich:** 53 bis 59
+- **Blöcke:** 1.442
 - **Bauteile:** `w477555699_innen`, `w477555700`
 
 **Teileliste**
@@ -2650,10 +2616,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 736 |
 | Polierter Tuffstein | `polished_tuff` | 574 |
-| Glatter Sandstein | `smooth_sandstone` | 60 |
+| Glatter Sandstein | `smooth_sandstone` | 120 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
+| Glatter Stein | `smooth_stone` | 4 |
 | Seelaterne | `sea_lantern` | 2 |
-| Glatter Stein | `smooth_stone` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2677,20 +2643,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.77 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 59–79)
+### Schritt 4.76 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 60–81)
 
-- **Y-Bereich:** 59 bis 79
-- **Blöcke:** 1.416
+- **Y-Bereich:** 60 bis 81
+- **Blöcke:** 1.492
 - **Bauteile:** `w477555700`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.275 |
-| Weißer Beton | `white_concrete` | 98 |
+| Glatter Sandstein | `smooth_sandstone` | 1.344 |
+| Weißer Beton | `white_concrete` | 107 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
-| Glatter Stein | `smooth_stone` | 13 |
+| Glatter Stein | `smooth_stone` | 11 |
 
 **Beschreibung**
 
@@ -2708,9 +2674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.78 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 80–92)
+### Schritt 4.77 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 82–92)
 
-- **Y-Bereich:** 80 bis 92
+- **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.430
 - **Bauteile:** `w477555700`
 
@@ -2718,10 +2684,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 692 |
-| Glatter Sandstein | `smooth_sandstone` | 638 |
+| Terrakotta | `terracotta` | 695 |
+| Glatter Sandstein | `smooth_sandstone` | 644 |
 | Fichtenholz-Bretter | `spruce_planks` | 43 |
-| Weißer Beton | `white_concrete` | 42 |
+| Weißer Beton | `white_concrete` | 33 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
 | Ziegelsteine | `bricks` | 3 |
 
@@ -2741,51 +2707,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.79 – Reihenhaus an Borgo Ognissanti: Innenausbau
-
-- **Y-Bereich:** 57 bis 81
-- **Blöcke:** 1.721
-- **Bauteile:** `w477555700_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.473 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 128 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 46 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 46 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 92 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.80 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
+### Schritt 4.78 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
-- **Blöcke:** 1.665
-- **Bauteile:** `w477555701`
+- **Blöcke:** 1.669
+- **Bauteile:** `w477555700_innen`, `w477555701`
 
 **Teileliste**
 
@@ -2797,38 +2723,39 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Weißer Beton | `white_concrete` | 21 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 6 |
+| Seelaterne | `sea_lantern` | 4 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.81 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
+### Schritt 4.79 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
 
 - **Y-Bereich:** 72 bis 91
-- **Blöcke:** 1.659
+- **Blöcke:** 1.665
 - **Bauteile:** `w477555701`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.020 |
+| Gelbe Keramik | `yellow_terracotta` | 1.025 |
 | Terrakotta | `terracotta` | 531 |
 | Weißer Beton | `white_concrete` | 40 |
 | Ziegelsteine | `bricks` | 30 |
-| Fichtenholz-Bretter | `spruce_planks` | 28 |
+| Fichtenholz-Bretter | `spruce_planks` | 29 |
 | Graues Buntglas | `gray_stained_glass` | 10 |
 
 **Beschreibung**
@@ -2847,7 +2774,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.82 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.80 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 80
 - **Blöcke:** 1.191
@@ -2889,7 +2816,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.83 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
+### Schritt 4.81 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
 - **Blöcke:** 1.426
@@ -2920,7 +2847,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.84 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
+### Schritt 4.82 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
 
 - **Y-Bereich:** 72 bis 91
 - **Blöcke:** 1.488
@@ -2952,9 +2879,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.85 – Reihenhaus an Via Montebello: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
+### Schritt 4.83 – Reihenhaus an Via Montebello: Innenausbau & Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–62)
 
-- **Y-Bereich:** 54 bis 63
+- **Y-Bereich:** 53 bis 62
 - **Blöcke:** 1.759
 - **Bauteile:** `w477555702_innen`, `w477555705`
 
@@ -2983,9 +2910,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.86 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–76)
+### Schritt 4.84 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–75)
 
-- **Y-Bereich:** 64 bis 76
+- **Y-Bereich:** 63 bis 75
 - **Blöcke:** 1.911
 - **Bauteile:** `w477555705`
 
@@ -3012,9 +2939,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.87 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 77–88)
+### Schritt 4.85 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 76–87)
 
-- **Y-Bereich:** 77 bis 88
+- **Y-Bereich:** 76 bis 87
 - **Blöcke:** 1.751
 - **Bauteile:** `w477555705`
 
@@ -3043,9 +2970,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.88 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.86 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 54 bis 77
+- **Y-Bereich:** 53 bis 76
 - **Blöcke:** 1.042
 - **Bauteile:** `w477555705_innen`
 
@@ -3081,7 +3008,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.89 – Reihenhaus an Via Montebello – Teil 1/4 (Y 54–60)
+### Schritt 4.87 – Reihenhaus an Via Montebello – Teil 1/4 (Y 54–60)
 
 - **Y-Bereich:** 54 bis 60
 - **Blöcke:** 1.816
@@ -3114,7 +3041,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.90 – Reihenhaus an Via Montebello – Teil 2/4 (Y 61–71)
+### Schritt 4.88 – Reihenhaus an Via Montebello – Teil 2/4 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.716
@@ -3146,7 +3073,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.91 – Reihenhaus an Via Montebello – Teil 3/4 (Y 72–82)
+### Schritt 4.89 – Reihenhaus an Via Montebello – Teil 3/4 (Y 72–82)
 
 - **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.714
@@ -3176,10 +3103,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.92 – Reihenhaus an Via Montebello – Teil 4/4 (Y 83–93)
+### Schritt 4.90 – Reihenhaus an Via Montebello – Teil 4/4 (Y 83–93)
 
 - **Y-Bereich:** 83 bis 93
-- **Blöcke:** 1.813
+- **Blöcke:** 1.833
 - **Bauteile:** `w477555708`
 
 **Teileliste**
@@ -3187,7 +3114,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.030 |
-| Gelbe Keramik | `yellow_terracotta` | 625 |
+| Gelbe Keramik | `yellow_terracotta` | 645 |
 | Weißer Beton | `white_concrete` | 93 |
 | Ziegelsteine | `bricks` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
@@ -3208,7 +3135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.93 – Reihenhaus an Via Montebello: Innenausbau – Teil 1/2 (Y 56–71)
+### Schritt 4.91 – Reihenhaus an Via Montebello: Innenausbau – Teil 1/2 (Y 56–71)
 
 - **Y-Bereich:** 56 bis 71
 - **Blöcke:** 749
@@ -3246,7 +3173,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.94 – Reihenhaus an Via Montebello: Innenausbau – Teil 2/2 (Y 72–79)
+### Schritt 4.92 – Reihenhaus an Via Montebello: Innenausbau – Teil 2/2 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.366
@@ -3286,20 +3213,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.95 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–64)
+### Schritt 4.93 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–63)
 
-- **Y-Bereich:** 54 bis 64
-- **Blöcke:** 1.631
+- **Y-Bereich:** 54 bis 63
+- **Blöcke:** 1.616
 - **Bauteile:** `w477555712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.076 |
-| Polierter Tuffstein | `polished_tuff` | 493 |
+| Gelbe Keramik | `yellow_terracotta` | 1.088 |
+| Polierter Tuffstein | `polished_tuff` | 492 |
 | Glatter Stein | `smooth_stone` | 30 |
-| Tuffstein | `tuff` | 26 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
@@ -3319,9 +3245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.96 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 65–77)
+### Schritt 4.94 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 64–76)
 
-- **Y-Bereich:** 65 bis 77
+- **Y-Bereich:** 64 bis 76
 - **Blöcke:** 1.617
 - **Bauteile:** `w477555712`
 
@@ -3349,17 +3275,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.97 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 78–90)
+### Schritt 4.95 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 77–89)
 
-- **Y-Bereich:** 78 bis 90
-- **Blöcke:** 1.634
+- **Y-Bereich:** 77 bis 89
+- **Blöcke:** 1.595
 - **Bauteile:** `w477555712`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 977 |
+| Gelbe Keramik | `yellow_terracotta` | 938 |
 | Terrakotta | `terracotta` | 571 |
 | Glatter Stein | `smooth_stone` | 46 |
 | Ziegelsteine | `bricks` | 28 |
@@ -3381,29 +3307,29 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.98 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.96 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 55 bis 79
-- **Blöcke:** 1.214
+- **Y-Bereich:** 54 bis 78
+- **Blöcke:** 1.205
 - **Bauteile:** `w477555712_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.080 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 70 |
+| Terrakotta | `terracotta` | 1.077 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Seelaterne | `sea_lantern` | 16 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -3421,9 +3347,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.99 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 54–62)
+### Schritt 4.97 – Reihenhaus an Borgo Ognissanti – Teil 1/3 (Y 53–61)
 
-- **Y-Bereich:** 54 bis 62
+- **Y-Bereich:** 53 bis 61
 - **Blöcke:** 1.722
 - **Bauteile:** `w477555714`
 
@@ -3452,9 +3378,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.100 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 63–78)
+### Schritt 4.98 – Reihenhaus an Borgo Ognissanti – Teil 2/3 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.642
 - **Bauteile:** `w477555714`
 
@@ -3482,9 +3408,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.101 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 79–91)
+### Schritt 4.99 – Reihenhaus an Borgo Ognissanti – Teil 3/3 (Y 78–90)
 
-- **Y-Bereich:** 79 bis 91
+- **Y-Bereich:** 78 bis 90
 - **Blöcke:** 1.735
 - **Bauteile:** `w477555714`
 
@@ -3514,9 +3440,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.102 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 54–69)
+### Schritt 4.100 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 1/2 (Y 53–68)
 
-- **Y-Bereich:** 54 bis 69
+- **Y-Bereich:** 53 bis 68
 - **Blöcke:** 854
 - **Bauteile:** `w477555714_innen`
 
@@ -3556,9 +3482,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.103 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 70–78)
+### Schritt 4.101 – Reihenhaus an Borgo Ognissanti: Innenausbau – Teil 2/2 (Y 69–77)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.578
 - **Bauteile:** `w477555714_innen`
 
@@ -3598,27 +3524,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.104 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–71)
+### Schritt 4.102 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 53–69)
 
-- **Y-Bereich:** 54 bis 71
-- **Blöcke:** 1.359
+- **Y-Bereich:** 53 bis 69
+- **Blöcke:** 1.301
 - **Bauteile:** `w477555718`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 716 |
-| Polierter Tuffstein | `polished_tuff` | 496 |
-| Tuffstein | `tuff` | 123 |
+| Glatter Sandstein | `smooth_sandstone` | 781 |
+| Polierter Tuffstein | `polished_tuff` | 502 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -3636,17 +3554,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.105 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 72–90)
+### Schritt 4.103 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 70–88)
 
-- **Y-Bereich:** 72 bis 90
-- **Blöcke:** 1.320
+- **Y-Bereich:** 70 bis 88
+- **Blöcke:** 1.281
 - **Bauteile:** `w477555718`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 676 |
+| Glatter Sandstein | `smooth_sandstone` | 637 |
 | Terrakotta | `terracotta` | 588 |
 | Ziegelsteine | `bricks` | 35 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
@@ -3667,9 +3585,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.106 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.104 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 55 bis 78
+- **Y-Bereich:** 53 bis 76
 - **Blöcke:** 1.456
 - **Bauteile:** `w477555718_innen`
 
@@ -3705,28 +3623,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.107 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–72)
+### Schritt 4.105 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 53–70)
 
-- **Y-Bereich:** 54 bis 72
-- **Blöcke:** 1.260
+- **Y-Bereich:** 53 bis 70
+- **Blöcke:** 1.241
 - **Bauteile:** `w477555721`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 657 |
-| Polierter Tuffstein | `polished_tuff` | 509 |
-| Tuffstein | `tuff` | 67 |
+| Endsteinziegel | `end_stone_bricks` | 705 |
+| Polierter Tuffstein | `polished_tuff` | 513 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -3744,18 +3654,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.108 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 73–89)
+### Schritt 4.106 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 71–87)
 
-- **Y-Bereich:** 73 bis 89
-- **Blöcke:** 1.254
+- **Y-Bereich:** 71 bis 87
+- **Blöcke:** 1.219
 - **Bauteile:** `w477555721`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 633 |
-| Endsteinziegel | `end_stone_bricks` | 546 |
+| Terrakotta | `terracotta` | 632 |
+| Endsteinziegel | `end_stone_bricks` | 512 |
 | Fichtenholz-Bretter | `spruce_planks` | 35 |
 | Ziegelsteine | `bricks` | 32 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
@@ -3776,10 +3686,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.109 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.107 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 55 bis 79
-- **Blöcke:** 1.521
+- **Y-Bereich:** 53 bis 77
+- **Blöcke:** 1.539
 - **Bauteile:** `w477555721_innen`
 
 **Teileliste**
@@ -3787,18 +3697,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.395 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Rote Keramik | `red_terracotta` | 8 |
+| Weiße Keramik | `white_terracotta` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 **Beschreibung**
 
@@ -3816,19 +3726,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.110 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–70)
+### Schritt 4.108 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–71)
 
-- **Y-Bereich:** 54 bis 70
-- **Blöcke:** 1.637
+- **Y-Bereich:** 54 bis 71
+- **Blöcke:** 1.708
 - **Bauteile:** `w477555723`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 985 |
-| Polierter Tuffstein | `polished_tuff` | 521 |
-| Weißer Beton | `white_concrete` | 87 |
+| Glatter Sandstein | `smooth_sandstone` | 1.045 |
+| Polierter Tuffstein | `polished_tuff` | 520 |
+| Weißer Beton | `white_concrete` | 99 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
 | Glatter Stein | `smooth_stone` | 19 |
 
@@ -3848,19 +3758,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.111 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 71–89)
+### Schritt 4.109 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 72–89)
 
-- **Y-Bereich:** 71 bis 89
-- **Blöcke:** 1.673
+- **Y-Bereich:** 72 bis 89
+- **Blöcke:** 1.696
 - **Bauteile:** `w477555723`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 889 |
-| Terrakotta | `terracotta` | 623 |
-| Weißer Beton | `white_concrete` | 104 |
+| Glatter Sandstein | `smooth_sandstone` | 923 |
+| Terrakotta | `terracotta` | 624 |
+| Weißer Beton | `white_concrete` | 92 |
 | Ziegelsteine | `bricks` | 29 |
 | Graues Buntglas | `gray_stained_glass` | 28 |
 
@@ -3880,21 +3790,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.112 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.110 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
 - **Y-Bereich:** 54 bis 77
-- **Blöcke:** 1.445
+- **Blöcke:** 1.446
 - **Bauteile:** `w477555723_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.323 |
+| Terrakotta | `terracotta` | 1.320 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 16 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3918,19 +3828,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.113 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–70)
+### Schritt 4.111 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 54–71)
 
-- **Y-Bereich:** 54 bis 70
-- **Blöcke:** 1.427
+- **Y-Bereich:** 54 bis 71
+- **Blöcke:** 1.442
 - **Bauteile:** `w477555724`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 827 |
+| Gelbe Keramik | `yellow_terracotta` | 828 |
 | Polierter Tuffstein | `polished_tuff` | 463 |
-| Weißer Beton | `white_concrete` | 116 |
+| Weißer Beton | `white_concrete` | 130 |
 | Graues Buntglas | `gray_stained_glass` | 21 |
 
 **Beschreibung**
@@ -3949,19 +3859,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.114 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 71–89)
+### Schritt 4.112 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 72–89)
 
-- **Y-Bereich:** 71 bis 89
-- **Blöcke:** 1.408
+- **Y-Bereich:** 72 bis 89
+- **Blöcke:** 1.388
 - **Bauteile:** `w477555724`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 644 |
+| Gelbe Keramik | `yellow_terracotta` | 638 |
 | Terrakotta | `terracotta` | 546 |
-| Weißer Beton | `white_concrete` | 160 |
+| Weißer Beton | `white_concrete` | 146 |
 | Ziegelsteine | `bricks` | 34 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -3981,7 +3891,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.115 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.113 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
 - **Y-Bereich:** 54 bis 77
 - **Blöcke:** 1.307
@@ -4019,9 +3929,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.116 – Reihenhaus an Borgo Ognissanti
+### Schritt 4.114 – Reihenhaus an Borgo Ognissanti
 
-- **Y-Bereich:** 54 bis 88
+- **Y-Bereich:** 53 bis 87
 - **Blöcke:** 1.669
 - **Bauteile:** `w477555726`
 
@@ -4054,9 +3964,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.117 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.115 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 54 bis 77
+- **Y-Bereich:** 53 bis 76
 - **Blöcke:** 949
 - **Bauteile:** `w477555726_innen`
 
@@ -4092,7 +4002,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.118 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
+### Schritt 4.116 – Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 55 bis 71
 - **Blöcke:** 1.271
@@ -4125,17 +4035,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.119 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
+### Schritt 4.117 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–91)
 
 - **Y-Bereich:** 72 bis 91
-- **Blöcke:** 1.258
+- **Blöcke:** 1.272
 - **Bauteile:** `w477555727`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 852 |
+| Endsteinziegel | `end_stone_bricks` | 866 |
 | Terrakotta | `terracotta` | 343 |
 | Weißer Beton | `white_concrete` | 52 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
@@ -4157,7 +4067,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.120 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.118 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 79
 - **Blöcke:** 814
@@ -4195,19 +4105,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.121 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 53–69)
+### Schritt 4.119 – Reihenhaus an Borgo Ognissanti – Teil 1/2 (Y 53–70)
 
-- **Y-Bereich:** 53 bis 69
-- **Blöcke:** 1.373
+- **Y-Bereich:** 53 bis 70
+- **Blöcke:** 1.358
 - **Bauteile:** `w477555728`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 746 |
-| Polierter Tuffstein | `polished_tuff` | 427 |
-| Glatter Stein | `smooth_stone` | 157 |
+| Rosa Keramik | `pink_terracotta` | 707 |
+| Polierter Tuffstein | `polished_tuff` | 426 |
+| Glatter Stein | `smooth_stone` | 182 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
 
 **Beschreibung**
@@ -4226,21 +4136,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.122 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 70–88)
+### Schritt 4.120 – Reihenhaus an Borgo Ognissanti – Teil 2/2 (Y 71–88)
 
-- **Y-Bereich:** 70 bis 88
-- **Blöcke:** 1.383
+- **Y-Bereich:** 71 bis 88
+- **Blöcke:** 1.317
 - **Bauteile:** `w477555728`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 576 |
+| Rosa Keramik | `pink_terracotta` | 537 |
 | Terrakotta | `terracotta` | 535 |
-| Glatter Stein | `smooth_stone` | 154 |
+| Glatter Stein | `smooth_stone` | 129 |
 | Graues Buntglas | `gray_stained_glass` | 49 |
-| Fichtenholz-Bretter | `spruce_planks` | 39 |
+| Fichtenholz-Bretter | `spruce_planks` | 37 |
 | Ziegelsteine | `bricks` | 30 |
 
 **Beschreibung**
@@ -4259,21 +4169,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.123 – Reihenhaus an Borgo Ognissanti: Innenausbau
+### Schritt 4.121 – Reihenhaus an Borgo Ognissanti: Innenausbau
 
-- **Y-Bereich:** 53 bis 76
-- **Blöcke:** 1.207
+- **Y-Bereich:** 53 bis 77
+- **Blöcke:** 1.214
 - **Bauteile:** `w477555728_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.089 |
+| Terrakotta | `terracotta` | 1.086 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4297,18 +4209,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.124 – Reihenhaus an Borgo Ognissanti
+### Schritt 4.122 – Reihenhaus an Borgo Ognissanti
 
 - **Y-Bereich:** 54 bis 89
-- **Blöcke:** 1.808
+- **Blöcke:** 1.892
 - **Bauteile:** `w477555729`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.020 |
-| Terrakotta | `terracotta` | 373 |
+| Weißer Beton | `white_concrete` | 1.103 |
+| Terrakotta | `terracotta` | 374 |
 | Polierter Tuffstein | `polished_tuff` | 316 |
 | Hellgrauer Beton | `light_gray_concrete` | 69 |
 | Glatter Stein | `smooth_stone` | 19 |
@@ -4331,81 +4243,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.125 – Reihenhaus an Borgo Ognissanti: Innenausbau
-
-- **Y-Bereich:** 54 bis 78
-- **Blöcke:** 943
-- **Bauteile:** `w477555729_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 813 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.126 – Reihenhaus an Borgo Ognissanti
+### Schritt 4.123 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Borgo Ognissanti
 
 - **Y-Bereich:** 54 bis 88
-- **Blöcke:** 1.144
-- **Bauteile:** `w477555731`
+- **Blöcke:** 1.107
+- **Bauteile:** `w477555729_innen`, `w477555731`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 647 |
+| Weißer Beton | `white_concrete` | 608 |
 | Terrakotta | `terracotta` | 201 |
 | Polierter Tuffstein | `polished_tuff` | 192 |
 | Hellgrauer Beton | `light_gray_concrete` | 74 |
 | Glatter Stein | `smooth_stone` | 16 |
 | Graues Buntglas | `gray_stained_glass` | 11 |
 | Ziegelsteine | `bricks` | 3 |
+| Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.127 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
+### Schritt 4.124 – Reihenhaus an Borgo Ognissanti: Innenausbau & Reihenhaus an Via Montebello – Teil 1/2 (Y 55–71)
 
 - **Y-Bereich:** 54 bis 71
 - **Blöcke:** 1.173
@@ -4439,10 +4312,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.128 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–92)
+### Schritt 4.125 – Reihenhaus an Via Montebello – Teil 2/2 (Y 72–92)
 
 - **Y-Bereich:** 72 bis 92
-- **Blöcke:** 1.169
+- **Blöcke:** 1.180
 - **Bauteile:** `w477555732`
 
 **Teileliste**
@@ -4450,7 +4323,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 540 |
-| Rosa Keramik | `pink_terracotta` | 503 |
+| Rosa Keramik | `pink_terracotta` | 514 |
 | Weißer Beton | `white_concrete` | 80 |
 | Ziegelsteine | `bricks` | 30 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -4471,7 +4344,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.129 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.126 – Reihenhaus an Via Montebello: Innenausbau
 
 - **Y-Bereich:** 56 bis 80
 - **Blöcke:** 1.367
@@ -4511,7 +4384,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.130 – Palazzo des Ottocento an Via Montebello – Teil 1/8 (Y 55–57)
+### Schritt 4.127 – Palazzo des Ottocento an Via Montebello – Teil 1/8 (Y 55–57)
 
 - **Y-Bereich:** 55 bis 57
 - **Blöcke:** 1.886
@@ -4544,20 +4417,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.131 – Palazzo des Ottocento an Via Montebello – Teil 2/8 (Y 58–63)
+### Schritt 4.128 – Palazzo des Ottocento an Via Montebello – Teil 2/8 (Y 58–64)
 
-- **Y-Bereich:** 58 bis 63
-- **Blöcke:** 1.576
+- **Y-Bereich:** 58 bis 64
+- **Blöcke:** 1.841
 - **Bauteile:** `w477555737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.117 |
-| Graues Buntglas | `gray_stained_glass` | 189 |
-| Weißer Beton | `white_concrete` | 121 |
-| Glatter Stein | `smooth_stone` | 120 |
+| Glatter Sandstein | `smooth_sandstone` | 1.303 |
+| Graues Buntglas | `gray_stained_glass` | 224 |
+| Weißer Beton | `white_concrete` | 143 |
+| Glatter Stein | `smooth_stone` | 142 |
 | Polierter Andesit | `polished_andesite` | 29 |
 
 **Beschreibung**
@@ -4576,20 +4449,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.132 – Palazzo des Ottocento an Via Montebello – Teil 3/8 (Y 64–70)
+### Schritt 4.129 – Palazzo des Ottocento an Via Montebello – Teil 3/8 (Y 65–70)
 
-- **Y-Bereich:** 64 bis 70
-- **Blöcke:** 1.953
+- **Y-Bereich:** 65 bis 70
+- **Blöcke:** 1.688
 - **Bauteile:** `w477555737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.476 |
-| Glatter Stein | `smooth_stone` | 249 |
-| Weißer Beton | `white_concrete` | 159 |
-| Graues Buntglas | `gray_stained_glass` | 57 |
+| Glatter Sandstein | `smooth_sandstone` | 1.290 |
+| Glatter Stein | `smooth_stone` | 227 |
+| Weißer Beton | `white_concrete` | 137 |
+| Graues Buntglas | `gray_stained_glass` | 22 |
 | Polierter Andesit | `polished_andesite` | 12 |
 
 **Beschreibung**
@@ -4608,7 +4481,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.133 – Palazzo des Ottocento an Via Montebello – Teil 4/8 (Y 71–76)
+### Schritt 4.130 – Palazzo des Ottocento an Via Montebello – Teil 4/8 (Y 71–76)
 
 - **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.678
@@ -4640,7 +4513,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.134 – Palazzo des Ottocento an Via Montebello – Teil 5/8 (Y 77–83)
+### Schritt 4.131 – Palazzo des Ottocento an Via Montebello – Teil 5/8 (Y 77–83)
 
 - **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.941
@@ -4671,17 +4544,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.135 – Palazzo des Ottocento an Via Montebello – Teil 6/8 (Y 84–89)
+### Schritt 4.132 – Palazzo des Ottocento an Via Montebello – Teil 6/8 (Y 84–89)
 
 - **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.877
+- **Blöcke:** 1.905
 - **Bauteile:** `w477555737`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.482 |
+| Glatter Sandstein | `smooth_sandstone` | 1.510 |
 | Glatter Stein | `smooth_stone` | 188 |
 | Weißer Beton | `white_concrete` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
@@ -4703,7 +4576,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.136 – Palazzo des Ottocento an Via Montebello – Teil 7/8 (Y 90–93)
+### Schritt 4.133 – Palazzo des Ottocento an Via Montebello – Teil 7/8 (Y 90–93)
 
 - **Y-Bereich:** 90 bis 93
 - **Blöcke:** 1.468
@@ -4734,7 +4607,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.137 – Palazzo des Ottocento an Via Montebello – Teil 8/8 (Y 94–100)
+### Schritt 4.134 – Palazzo des Ottocento an Via Montebello – Teil 8/8 (Y 94–100)
 
 - **Y-Bereich:** 94 bis 100
 - **Blöcke:** 1.989
@@ -4763,7 +4636,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.138 – Palazzo des Ottocento an Via Montebello: Innenausbau – Teil 1/3 (Y 56–67)
+### Schritt 4.135 – Palazzo des Ottocento an Via Montebello: Innenausbau – Teil 1/3 (Y 56–67)
 
 - **Y-Bereich:** 56 bis 67
 - **Blöcke:** 1.289
@@ -4801,7 +4674,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.139 – Palazzo des Ottocento an Via Montebello: Innenausbau – Teil 2/3 (Y 68–75)
+### Schritt 4.136 – Palazzo des Ottocento an Via Montebello: Innenausbau – Teil 2/3 (Y 68–75)
 
 - **Y-Bereich:** 68 bis 75
 - **Blöcke:** 1.269
@@ -4839,17 +4712,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.140 – Palazzo des Ottocento an Via Montebello: Innenausbau – Teil 3/3 (Y 76–84)
+### Schritt 4.137 – Palazzo des Ottocento an Via Montebello: Innenausbau – Teil 3/3 (Y 76–84)
 
 - **Y-Bereich:** 76 bis 84
-- **Blöcke:** 1.273
+- **Blöcke:** 1.264
 - **Bauteile:** `w477555737_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.223 |
+| Terrakotta | `terracotta` | 1.214 |
 | Glatter Stein | `smooth_stone` | 24 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
@@ -4877,7 +4750,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.141 – Reihenhaus an Via Montebello
+### Schritt 4.138 – Reihenhaus an Via Montebello
 
 - **Y-Bereich:** 55 bis 90
 - **Blöcke:** 2.081
@@ -4913,11 +4786,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.142 – Reihenhaus an Via Montebello: Innenausbau
+### Schritt 4.139 – Reihenhaus an Via Montebello: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 56 bis 79
-- **Blöcke:** 865
-- **Bauteile:** `w477555739_innen`
+- **Blöcke:** 869
+- **Bauteile:** `w477555739_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -4928,6 +4801,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4937,16 +4814,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

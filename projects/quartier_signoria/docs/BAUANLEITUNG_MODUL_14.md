@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.889 |
+| Blöcke | 52.955 |
 | Bauschritte | 32 |
-| Y-Bereich | 67 bis 113 |
+| Y-Bereich | 66 bis 113 |
 | X-Ausdehnung | -351 bis -260 (92 Blöcke) |
 | Z-Ausdehnung | 425 bis 502 (78 Blöcke) |
 | Kleinster Schritt | 714 Blöcke (Schritt 14.26) |
-| Mittlerer Schritt | 1.653 Blöcke |
+| Mittlerer Schritt | 1.655 Blöcke |
 | Größter Schritt | 2.099 Blöcke (Schritt 14.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 18.920 | 35,8 % |
+| Terrakotta | `terracotta` | 18.920 | 35,7 % |
 | Gelbe Keramik | `yellow_terracotta` | 11.440 | 21,6 % |
-| Rosa Keramik | `pink_terracotta` | 5.170 | 9,8 % |
+| Rosa Keramik | `pink_terracotta` | 5.212 | 9,8 % |
 | Polierter Tuffstein | `polished_tuff` | 4.960 | 9,4 % |
-| Weißer Beton | `white_concrete` | 2.594 | 4,9 % |
-| Endsteinziegel | `end_stone_bricks` | 2.024 | 3,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 1.995 | 3,8 % |
+| Weißer Beton | `white_concrete` | 2.580 | 4,9 % |
+| Endsteinziegel | `end_stone_bricks` | 2.048 | 3,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.007 | 3,8 % |
 | Graues Buntglas | `gray_stained_glass` | 1.188 | 2,2 % |
 | Glatter Stein | `smooth_stone` | 1.118 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 875 | 1,7 % |
@@ -46,6 +46,7 @@
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -60,19 +61,19 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7752954` | Palazzo des Cinquecento an Via dei Calzaiuoli | 21.311 | 14.1–14.12 |
 | 2 | `r7752954_innen` | Palazzo des Cinquecento an Via dei Calzaiuoli: Innenausbau | 6.286 | 14.13–14.15 |
-| 3 | `w542316812` | Reihenhaus an Piazza dei Tre Re | 3.107 | 14.16–14.17 |
+| 3 | `w542316812` | Reihenhaus an Piazza dei Tre Re | 3.124 | 14.16–14.17 |
 | 4 | `w542316812_innen` | Reihenhaus an Piazza dei Tre Re: Innenausbau | 1.019 | 14.18 |
 | 5 | `w542316813` | Reihenhaus an Vicolo del Ferro | 3.745 | 14.19–14.20 |
 | 6 | `w542316813_innen` | Reihenhaus an Vicolo del Ferro: Innenausbau | 769 | 14.21 |
-| 7 | `w542316814` | Reihenhaus an Via Orsanmichele | 3.776 | 14.22–14.23 |
+| 7 | `w542316814` | Reihenhaus an Via Orsanmichele | 3.788 | 14.22–14.23 |
 | 8 | `w542316814_innen` | Reihenhaus an Via Orsanmichele: Innenausbau | 1.680 | 14.24 |
-| 9 | `w542316815` | Reihenhaus an Via Orsanmichele | 1.866 | 14.25 |
+| 9 | `w542316815` | Reihenhaus an Via Orsanmichele | 1.852 | 14.25 |
 | 10 | `w542316815_innen` | Reihenhaus an Via Orsanmichele: Innenausbau | 714 | 14.26 |
-| 11 | `w542316817` | Reihenhaus an Vicolo del Ferro | 4.161 | 14.27–14.29 |
+| 11 | `w542316817` | Reihenhaus an Vicolo del Ferro | 4.185 | 14.27–14.29 |
 | 12 | `w542316817_innen` | Reihenhaus an Vicolo del Ferro: Innenausbau | 1.514 | 14.30 |
-| 13 | `w542316818` | Reihenhaus an Via Orsanmichele | 1.637 | 14.31 |
+| 13 | `w542316818` | Reihenhaus an Via Orsanmichele | 1.662 | 14.31 |
 | 14 | `w542316818_innen` | Reihenhaus an Via Orsanmichele: Innenausbau | 1.301 | 14.32 |
-| 15 | `strassenschilder` | Straßenschilder | 3 | 14.32 |
+| 15 | `strassenschilder` | Straßenschilder | 5 | 14.32 |
 
 ## Bauschritte
 
@@ -578,17 +579,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.16 – Reihenhaus an Piazza dei Tre Re – Teil 1/2 (Y 68–85)
+### Schritt 14.16 – Reihenhaus an Piazza dei Tre Re – Teil 1/2 (Y 67–84)
 
-- **Y-Bereich:** 68 bis 85
-- **Blöcke:** 1.581
+- **Y-Bereich:** 67 bis 84
+- **Blöcke:** 1.598
 - **Bauteile:** `w542316812`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.174 |
+| Rosa Keramik | `pink_terracotta` | 1.191 |
 | Polierter Tuffstein | `polished_tuff` | 372 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Graues Buntglas | `gray_stained_glass` | 8 |
@@ -610,9 +611,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.17 – Reihenhaus an Piazza dei Tre Re – Teil 2/2 (Y 86–103)
+### Schritt 14.17 – Reihenhaus an Piazza dei Tre Re – Teil 2/2 (Y 85–102)
 
-- **Y-Bereich:** 86 bis 103
+- **Y-Bereich:** 85 bis 102
 - **Blöcke:** 1.526
 - **Bauteile:** `w542316812`
 
@@ -644,7 +645,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.18 – Reihenhaus an Piazza dei Tre Re: Innenausbau
 
-- **Y-Bereich:** 68 bis 92
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.019
 - **Bauteile:** `w542316812_innen`
 
@@ -684,9 +685,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.19 – Reihenhaus an Vicolo del Ferro – Teil 1/2 (Y 67–83)
+### Schritt 14.19 – Reihenhaus an Vicolo del Ferro – Teil 1/2 (Y 66–82)
 
-- **Y-Bereich:** 67 bis 83
+- **Y-Bereich:** 66 bis 82
 - **Blöcke:** 1.848
 - **Bauteile:** `w542316813`
 
@@ -716,9 +717,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.20 – Reihenhaus an Vicolo del Ferro – Teil 2/2 (Y 84–103)
+### Schritt 14.20 – Reihenhaus an Vicolo del Ferro – Teil 2/2 (Y 83–102)
 
-- **Y-Bereich:** 84 bis 103
+- **Y-Bereich:** 83 bis 102
 - **Blöcke:** 1.897
 - **Bauteile:** `w542316813`
 
@@ -751,7 +752,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.21 – Reihenhaus an Vicolo del Ferro: Innenausbau
 
-- **Y-Bereich:** 67 bis 91
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 769
 - **Bauteile:** `w542316813_innen`
 
@@ -794,14 +795,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.22 – Reihenhaus an Via Orsanmichele – Teil 1/2 (Y 67–84)
 
 - **Y-Bereich:** 67 bis 84
-- **Blöcke:** 1.882
+- **Blöcke:** 1.869
 - **Bauteile:** `w542316814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.122 |
+| Glatter Sandstein | `smooth_sandstone` | 1.109 |
 | Polierter Tuffstein | `polished_tuff` | 596 |
 | Polierter Andesit | `polished_andesite` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 58 |
@@ -825,14 +826,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 14.23 – Reihenhaus an Via Orsanmichele – Teil 2/2 (Y 85–103)
 
 - **Y-Bereich:** 85 bis 103
-- **Blöcke:** 1.894
+- **Blöcke:** 1.919
 - **Bauteile:** `w542316814`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 873 |
+| Glatter Sandstein | `smooth_sandstone` | 898 |
 | Terrakotta | `terracotta` | 791 |
 | Polierter Andesit | `polished_andesite` | 89 |
 | Ziegelsteine | `bricks` | 52 |
@@ -900,14 +901,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 14.25 – Reihenhaus an Via Orsanmichele
 
 - **Y-Bereich:** 67 bis 102
-- **Blöcke:** 1.866
+- **Blöcke:** 1.852
 - **Bauteile:** `w542316815`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.093 |
+| Weißer Beton | `white_concrete` | 1.079 |
 | Terrakotta | `terracotta` | 309 |
 | Polierter Tuffstein | `polished_tuff` | 243 |
 | Polierter Andesit | `polished_andesite` | 147 |
@@ -972,17 +973,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.27 – Reihenhaus an Vicolo del Ferro – Teil 1/3 (Y 67–76)
+### Schritt 14.27 – Reihenhaus an Vicolo del Ferro – Teil 1/3 (Y 66–75)
 
-- **Y-Bereich:** 67 bis 76
-- **Blöcke:** 1.349
+- **Y-Bereich:** 66 bis 75
+- **Blöcke:** 1.373
 - **Bauteile:** `w542316817`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 580 |
+| Endsteinziegel | `end_stone_bricks` | 604 |
 | Polierter Tuffstein | `polished_tuff` | 563 |
 | Glatter Stein | `smooth_stone` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 85 |
@@ -1004,9 +1005,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.28 – Reihenhaus an Vicolo del Ferro – Teil 2/3 (Y 77–91)
+### Schritt 14.28 – Reihenhaus an Vicolo del Ferro – Teil 2/3 (Y 76–90)
 
-- **Y-Bereich:** 77 bis 91
+- **Y-Bereich:** 76 bis 90
 - **Blöcke:** 1.443
 - **Bauteile:** `w542316817`
 
@@ -1035,9 +1036,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.29 – Reihenhaus an Vicolo del Ferro – Teil 3/3 (Y 92–102)
+### Schritt 14.29 – Reihenhaus an Vicolo del Ferro – Teil 3/3 (Y 91–101)
 
-- **Y-Bereich:** 92 bis 102
+- **Y-Bereich:** 91 bis 101
 - **Blöcke:** 1.369
 - **Bauteile:** `w542316817`
 
@@ -1070,7 +1071,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.30 – Reihenhaus an Vicolo del Ferro: Innenausbau
 
-- **Y-Bereich:** 67 bis 91
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.514
 - **Bauteile:** `w542316817_innen`
 
@@ -1112,15 +1113,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 14.31 – Reihenhaus an Via Orsanmichele
 
-- **Y-Bereich:** 68 bis 103
-- **Blöcke:** 1.637
+- **Y-Bereich:** 67 bis 102
+- **Blöcke:** 1.662
 - **Bauteile:** `w542316818`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 552 |
+| Rosa Keramik | `pink_terracotta` | 577 |
 | Terrakotta | `terracotta` | 520 |
 | Polierter Tuffstein | `polished_tuff` | 415 |
 | Glatter Stein | `smooth_stone` | 73 |
@@ -1146,8 +1147,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.32 – Reihenhaus an Via Orsanmichele: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 68 bis 92
-- **Blöcke:** 1.304
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 1.306
 - **Bauteile:** `w542316818_innen`, `strassenschilder`
 
 **Teileliste**
@@ -1162,6 +1163,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 

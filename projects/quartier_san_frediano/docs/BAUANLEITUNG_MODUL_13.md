@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.827 |
+| Blöcke | 52.830 |
 | Bauschritte | 34 |
 | Y-Bereich | 56 bis 100 |
 | X-Ausdehnung | -2378 bis -2278 (101 Blöcke) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 19.852 | 37,6 % |
-| Tuffstein | `tuff` | 12.547 | 23,8 % |
+| Tuffstein | `tuff` | 12.547 | 23,7 % |
 | Polierter Tuffstein | `polished_tuff` | 6.362 | 12,0 % |
 | Glatter Stein | `smooth_stone` | 5.574 | 10,6 % |
 | Polierter Andesit | `polished_andesite` | 4.563 | 8,6 % |
@@ -35,6 +35,9 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -52,6 +55,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7037353` | Renaissance-Palazzo an Via Sant'Onofrio | 41.541 | 13.1–13.28 |
 | 2 | `r7037353_innen` | Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau | 11.286 | 13.29–13.34 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 13.34 |
 
 ## Bauschritte
 
@@ -1062,11 +1066,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.34 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 6/6 (Y 77–78)
+### Schritt 13.34 – Renaissance-Palazzo an Via Sant'Onofrio: Innenausbau – Teil 6/6 (Y 77–78) & Straßenschilder
 
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.892
-- **Bauteile:** `r7037353_innen`
+- **Y-Bereich:** 64 bis 78
+- **Blöcke:** 1.895
+- **Bauteile:** `r7037353_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1077,6 +1081,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1090,16 +1097,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

@@ -8,25 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.635 |
+| Blöcke | 2.490 |
 | Bauschritte | 2 |
-| Y-Bereich | 174 bis 187 |
+| Y-Bereich | 174 bis 186 |
 | X-Ausdehnung | -888 bis -852 (37 Blöcke) |
 | Z-Ausdehnung | 2399 bis 2427 (29 Blöcke) |
-| Kleinster Schritt | 1.279 Blöcke (Schritt 8.1) |
-| Mittlerer Schritt | 1.318 Blöcke |
-| Größter Schritt | 1.356 Blöcke (Schritt 8.2) |
+| Kleinster Schritt | 1.186 Blöcke (Schritt 8.2) |
+| Mittlerer Schritt | 1.245 Blöcke |
+| Größter Schritt | 1.304 Blöcke (Schritt 8.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.763 | 66,9 % |
-| Terrakotta | `terracotta` | 362 | 13,7 % |
-| Polierter Tuffstein | `polished_tuff` | 284 | 10,8 % |
-| Tuffstein | `tuff` | 145 | 5,5 % |
-| Graues Buntglas | `gray_stained_glass` | 45 | 1,7 % |
-| Glatter Stein | `smooth_stone` | 19 | 0,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.763 | 70,8 % |
+| Terrakotta | `terracotta` | 362 | 14,5 % |
+| Polierter Tuffstein | `polished_tuff` | 284 | 11,4 % |
+| Graues Buntglas | `gray_stained_glass` | 45 | 1,8 % |
+| Glatter Stein | `smooth_stone` | 19 | 0,8 % |
 | Polierter Andesit | `polished_andesite` | 15 | 0,6 % |
 | Seelaterne | `sea_lantern` | 2 | 0,1 % |
 
@@ -34,7 +33,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w375220459` | Haus w375220459 | 2.633 | 8.1–8.2 |
+| 1 | `w375220459` | Haus w375220459 | 2.488 | 8.1–8.2 |
 | 2 | `w375220459_innen` | Haus w375220459: Innenausbau | 2 | 8.2 |
 
 ## Bauschritte
@@ -42,18 +41,18 @@
 ### Schritt 8.1 – Haus w375220459 – Teil 1/2 (Y 174–180)
 
 - **Y-Bereich:** 174 bis 180
-- **Blöcke:** 1.279
+- **Blöcke:** 1.304
 - **Bauteile:** `w375220459`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 801 |
+| Glatter Sandstein | `smooth_sandstone` | 956 |
 | Polierter Tuffstein | `polished_tuff` | 284 |
-| Tuffstein | `tuff` | 145 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 | Glatter Stein | `smooth_stone` | 19 |
+| Polierter Andesit | `polished_andesite` | 15 |
 
 **Beschreibung**
 
@@ -71,20 +70,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Haus w375220459 – Teil 2/2 (Y 181–187) & Haus w375220459: Innenausbau
+### Schritt 8.2 – Haus w375220459 – Teil 2/2 (Y 181–186) & Haus w375220459: Innenausbau
 
-- **Y-Bereich:** 175 bis 187
-- **Blöcke:** 1.356
+- **Y-Bereich:** 174 bis 186
+- **Blöcke:** 1.186
 - **Bauteile:** `w375220459`, `w375220459_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 962 |
+| Glatter Sandstein | `smooth_sandstone` | 807 |
 | Terrakotta | `terracotta` | 362 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
-| Polierter Andesit | `polished_andesite` | 15 |
 | Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**

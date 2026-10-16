@@ -8,43 +8,43 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 93.073 |
+| Blöcke | 93.113 |
 | Bauschritte | 60 |
 | Y-Bereich | 60 bis 99 |
 | X-Ausdehnung | -1291 bis -1165 (127 Blöcke) |
 | Z-Ausdehnung | 1106 bis 1275 (170 Blöcke) |
 | Kleinster Schritt | 558 Blöcke (Schritt 9.37) |
-| Mittlerer Schritt | 1.551 Blöcke |
+| Mittlerer Schritt | 1.552 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 9.49) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 28.393 | 30,5 % |
+| Terrakotta | `terracotta` | 28.379 | 30,5 % |
 | Endsteinziegel | `end_stone_bricks` | 14.600 | 15,7 % |
-| Polierter Tuffstein | `polished_tuff` | 10.695 | 11,5 % |
+| Polierter Tuffstein | `polished_tuff` | 10.694 | 11,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 10.196 | 11,0 % |
 | Orange Keramik | `orange_terracotta` | 6.989 | 7,5 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.812 | 7,3 % |
 | Glatter Stein | `smooth_stone` | 3.336 | 3,6 % |
-| Rosa Keramik | `pink_terracotta` | 2.922 | 3,1 % |
+| Rosa Keramik | `pink_terracotta` | 2.984 | 3,2 % |
 | Graues Buntglas | `gray_stained_glass` | 2.490 | 2,7 % |
 | Weißer Beton | `white_concrete` | 2.048 | 2,2 % |
 | Polierter Andesit | `polished_andesite` | 1.356 | 1,5 % |
 | Grüner Beton | `green_concrete` | 1.246 | 1,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 469 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 466 | 0,5 % |
 | Ziegelsteine | `bricks` | 448 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 321 | 0,3 % |
-| Seelaterne | `sea_lantern` | 186 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 133 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 123 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 53 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 49 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 46 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 46 | 0,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 317 | 0,3 % |
+| Seelaterne | `sea_lantern` | 190 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 154 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 142 | 0,2 % |
+| Rote Keramik | `red_terracotta` | 47 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 47 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 29 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 27 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 10 | 0,0 % |
@@ -57,7 +57,7 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 358 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 352 |
 | Steintreppe | `stone_stairs` | 100 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -76,12 +76,12 @@
 | 10 | `w480050654_innen` | Reihenhaus an Via dei Coverelli: Innenausbau | 682 | 9.42 |
 | 11 | `w480050656` | Reihenhaus an Via del Presto di San Martino | 8.107 | 9.43–9.46 |
 | 12 | `w480050656_innen` | Reihenhaus an Via del Presto di San Martino: Innenausbau | 2.714 | 9.47–9.48 |
-| 13 | `w480050657` | Reihenhaus an Via dei Coverelli | 4.144 | 9.49–9.50 |
+| 13 | `w480050657` | Reihenhaus an Via dei Coverelli | 4.131 | 9.49–9.50 |
 | 14 | `w480050657_innen` | Reihenhaus an Via dei Coverelli: Innenausbau | 1.348 | 9.51 |
 | 15 | `w480050659` | Reihenhaus an Via dei Coverelli | 2.171 | 9.52–9.53 |
 | 16 | `w480050659_innen` | Reihenhaus an Via dei Coverelli: Innenausbau | 783 | 9.54 |
-| 17 | `w480050663` | Reihenhaus an Via del Presto di San Martino | 6.264 | 9.55–9.58 |
-| 18 | `w480050663_innen` | Reihenhaus an Via del Presto di San Martino: Innenausbau | 2.448 | 9.59–9.60 |
+| 17 | `w480050663` | Reihenhaus an Via del Presto di San Martino | 6.323 | 9.55–9.58 |
+| 18 | `w480050663_innen` | Reihenhaus an Via del Presto di San Martino: Innenausbau | 2.442 | 9.59–9.60 |
 | 19 | `strassenschilder` | Straßenschilder | 6 | 9.60 |
 
 ## Bauschritte
@@ -1731,7 +1731,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.50 – Reihenhaus an Via dei Coverelli – Teil 2/2 (Y 78–95)
 
 - **Y-Bereich:** 78 bis 95
-- **Blöcke:** 2.049
+- **Blöcke:** 2.036
 - **Bauteile:** `w480050657`
 
 **Teileliste**
@@ -1739,10 +1739,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 966 |
-| Terrakotta | `terracotta` | 698 |
+| Terrakotta | `terracotta` | 689 |
 | Grüner Beton | `green_concrete` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
-| Fichtenholz-Bretter | `spruce_planks` | 93 |
+| Fichtenholz-Bretter | `spruce_planks` | 89 |
 | Ziegelsteine | `bricks` | 28 |
 
 **Beschreibung**
@@ -1906,18 +1906,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.55 – Reihenhaus an Via del Presto di San Martino – Teil 1/4 (Y 61–66)
+### Schritt 9.55 – Reihenhaus an Via del Presto di San Martino – Teil 1/4 (Y 60–65)
 
-- **Y-Bereich:** 61 bis 66
-- **Blöcke:** 1.543
+- **Y-Bereich:** 60 bis 65
+- **Blöcke:** 1.613
 - **Bauteile:** `w480050663`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 914 |
-| Rosa Keramik | `pink_terracotta` | 486 |
+| Polierter Tuffstein | `polished_tuff` | 913 |
+| Rosa Keramik | `pink_terracotta` | 557 |
 | Graues Buntglas | `gray_stained_glass` | 65 |
 | Weißer Beton | `white_concrete` | 43 |
 | Glatter Stein | `smooth_stone` | 35 |
@@ -1938,9 +1938,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.56 – Reihenhaus an Via del Presto di San Martino – Teil 2/4 (Y 67–78)
+### Schritt 9.56 – Reihenhaus an Via del Presto di San Martino – Teil 2/4 (Y 66–77)
 
-- **Y-Bereich:** 67 bis 78
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.599
 - **Bauteile:** `w480050663`
 
@@ -1969,20 +1969,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.57 – Reihenhaus an Via del Presto di San Martino – Teil 3/4 (Y 79–90)
+### Schritt 9.57 – Reihenhaus an Via del Presto di San Martino – Teil 3/4 (Y 78–88)
 
-- **Y-Bereich:** 79 bis 90
-- **Blöcke:** 1.609
+- **Y-Bereich:** 78 bis 88
+- **Blöcke:** 1.452
 - **Bauteile:** `w480050663`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.109 |
-| Weißer Beton | `white_concrete` | 370 |
+| Rosa Keramik | `pink_terracotta` | 1.036 |
+| Weißer Beton | `white_concrete` | 306 |
 | Graues Buntglas | `gray_stained_glass` | 110 |
-| Fichtenholz-Bretter | `spruce_planks` | 20 |
 
 **Beschreibung**
 
@@ -2000,19 +1999,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.58 – Reihenhaus an Via del Presto di San Martino – Teil 4/4 (Y 91–97)
+### Schritt 9.58 – Reihenhaus an Via del Presto di San Martino – Teil 4/4 (Y 89–96)
 
-- **Y-Bereich:** 91 bis 97
-- **Blöcke:** 1.513
+- **Y-Bereich:** 89 bis 96
+- **Blöcke:** 1.659
 - **Bauteile:** `w480050663`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.214 |
-| Rosa Keramik | `pink_terracotta` | 146 |
-| Fichtenholz-Bretter | `spruce_planks` | 97 |
+| Terrakotta | `terracotta` | 1.212 |
+| Rosa Keramik | `pink_terracotta` | 210 |
+| Fichtenholz-Bretter | `spruce_planks` | 117 |
+| Weißer Beton | `white_concrete` | 64 |
 | Ziegelsteine | `bricks` | 56 |
 
 **Beschreibung**
@@ -2031,31 +2031,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.59 – Reihenhaus an Via del Presto di San Martino: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 9.59 – Reihenhaus an Via del Presto di San Martino: Innenausbau – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 61 bis 76
-- **Blöcke:** 858
+- **Y-Bereich:** 60 bis 75
+- **Blöcke:** 854
 - **Bauteile:** `w480050663_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 769 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 45 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Terrakotta | `terracotta` | 768 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 32 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
 
 **Beschreibung**
 
@@ -2073,25 +2069,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.60 – Reihenhaus an Via del Presto di San Martino: Innenausbau – Teil 2/2 (Y 77–85) & Straßenschilder
+### Schritt 9.60 – Reihenhaus an Via del Presto di San Martino: Innenausbau – Teil 2/2 (Y 76–84) & Straßenschilder
 
-- **Y-Bereich:** 67 bis 85
-- **Blöcke:** 1.596
+- **Y-Bereich:** 67 bis 84
+- **Blöcke:** 1.594
 - **Bauteile:** `w480050663_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.538 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Terrakotta | `terracotta` | 1.536 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
+| Seelaterne | `sea_lantern` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
@@ -2099,7 +2095,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
 
 **Beschreibung**
 

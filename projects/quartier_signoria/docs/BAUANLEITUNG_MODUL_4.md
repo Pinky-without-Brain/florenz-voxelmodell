@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 23.660 |
+| Blöcke | 23.623 |
 | Bauschritte | 15 |
-| Y-Bereich | 65 bis 104 |
+| Y-Bereich | 65 bis 103 |
 | X-Ausdehnung | -519 bis -450 (70 Blöcke) |
 | Z-Ausdehnung | 663 bis 698 (36 Blöcke) |
 | Kleinster Schritt | 786 Blöcke (Schritt 4.13) |
-| Mittlerer Schritt | 1.577 Blöcke |
+| Mittlerer Schritt | 1.575 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 4.9) |
 
 ## Gesamt-Stückliste
@@ -22,8 +22,8 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 7.775 | 32,9 % |
-| Weißer Beton | `white_concrete` | 6.627 | 28,0 % |
-| Hellgrauer Beton | `light_gray_concrete` | 3.456 | 14,6 % |
+| Weißer Beton | `white_concrete` | 6.596 | 27,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 3.445 | 14,6 % |
 | Polierter Tuffstein | `polished_tuff` | 2.118 | 9,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.810 | 7,7 % |
 | Graues Buntglas | `gray_stained_glass` | 709 | 3,0 % |
@@ -40,7 +40,9 @@
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 29 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 27 | 0,1 % |
 | Polierter Andesit | `polished_andesite` | 18 | 0,1 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -54,19 +56,19 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w114185229` | Reihenhaus an Via Porta Rossa | 9.092 | 4.1–4.5 |
 | 2 | `w114185229_innen` | Reihenhaus an Via Porta Rossa: Innenausbau | 2.620 | 4.6–4.7 |
-| 3 | `w477524284` | Reihenhaus an Via Porta Rossa | 4.125 | 4.8–4.9 |
+| 3 | `w477524284` | Reihenhaus an Via Porta Rossa | 4.114 | 4.8–4.9 |
 | 4 | `w477524284_innen` | Reihenhaus an Via Porta Rossa: Innenausbau | 1.009 | 4.10 |
 | 5 | `w477524285` | Reihenhaus an Piazza del Mercato Nuovo | 3.110 | 4.11–4.12 |
 | 6 | `w477524285_innen` | Reihenhaus an Piazza del Mercato Nuovo: Innenausbau | 786 | 4.13 |
-| 7 | `w477524288` | Reihenhaus an Via Val di Lamona | 1.819 | 4.14 |
+| 7 | `w477524288` | Reihenhaus an Via Val di Lamona | 1.788 | 4.14 |
 | 8 | `w477524288_innen` | Reihenhaus an Via Val di Lamona: Innenausbau | 1.097 | 4.15 |
-| 9 | `strassenschilder` | Straßenschilder | 2 | 4.15 |
+| 9 | `strassenschilder` | Straßenschilder | 7 | 4.15 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Reihenhaus an Via Porta Rossa – Teil 1/5 (Y 66–70)
+### Schritt 4.1 – Reihenhaus an Via Porta Rossa – Teil 1/5 (Y 65–69)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.809
 - **Bauteile:** `w114185229`
 
@@ -97,9 +99,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Reihenhaus an Via Porta Rossa – Teil 2/5 (Y 71–79)
+### Schritt 4.2 – Reihenhaus an Via Porta Rossa – Teil 2/5 (Y 70–78)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 70 bis 78
 - **Blöcke:** 1.886
 - **Bauteile:** `w114185229`
 
@@ -129,9 +131,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Reihenhaus an Via Porta Rossa – Teil 3/5 (Y 80–87)
+### Schritt 4.3 – Reihenhaus an Via Porta Rossa – Teil 3/5 (Y 79–86)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.729
 - **Bauteile:** `w114185229`
 
@@ -160,9 +162,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Reihenhaus an Via Porta Rossa – Teil 4/5 (Y 88–95)
+### Schritt 4.4 – Reihenhaus an Via Porta Rossa – Teil 4/5 (Y 87–94)
 
-- **Y-Bereich:** 88 bis 95
+- **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.839
 - **Bauteile:** `w114185229`
 
@@ -191,9 +193,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Reihenhaus an Via Porta Rossa – Teil 5/5 (Y 96–104)
+### Schritt 4.5 – Reihenhaus an Via Porta Rossa – Teil 5/5 (Y 95–103)
 
-- **Y-Bereich:** 96 bis 104
+- **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.829
 - **Bauteile:** `w114185229`
 
@@ -221,9 +223,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.6 – Reihenhaus an Via Porta Rossa: Innenausbau – Teil 1/2 (Y 66–81)
+### Schritt 4.6 – Reihenhaus an Via Porta Rossa: Innenausbau – Teil 1/2 (Y 65–80)
 
-- **Y-Bereich:** 66 bis 81
+- **Y-Bereich:** 65 bis 80
 - **Blöcke:** 918
 - **Bauteile:** `w114185229_innen`
 
@@ -261,9 +263,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.7 – Reihenhaus an Via Porta Rossa: Innenausbau – Teil 2/2 (Y 82–90)
+### Schritt 4.7 – Reihenhaus an Via Porta Rossa: Innenausbau – Teil 2/2 (Y 81–89)
 
-- **Y-Bereich:** 82 bis 90
+- **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.702
 - **Bauteile:** `w114185229_innen`
 
@@ -306,14 +308,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.8 – Reihenhaus an Via Porta Rossa – Teil 1/2 (Y 65–81)
 
 - **Y-Bereich:** 65 bis 81
-- **Blöcke:** 2.028
+- **Blöcke:** 2.017
 - **Bauteile:** `w477524284`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.341 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.330 |
 | Polierter Tuffstein | `polished_tuff` | 403 |
 | Weißer Beton | `white_concrete` | 189 |
 | Graues Buntglas | `gray_stained_glass` | 66 |
@@ -518,15 +520,15 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 4.14 – Reihenhaus an Via Val di Lamona
 
-- **Y-Bereich:** 66 bis 102
-- **Blöcke:** 1.819
+- **Y-Bereich:** 65 bis 101
+- **Blöcke:** 1.788
 - **Bauteile:** `w477524288`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 740 |
+| Weißer Beton | `white_concrete` | 709 |
 | Terrakotta | `terracotta` | 449 |
 | Polierter Tuffstein | `polished_tuff` | 358 |
 | Hellgrauer Beton | `light_gray_concrete` | 96 |
@@ -553,8 +555,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.15 – Reihenhaus an Via Val di Lamona: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.099
+- **Y-Bereich:** 65 bis 89
+- **Blöcke:** 1.104
 - **Bauteile:** `w477524288_innen`, `strassenschilder`
 
 **Teileliste**
@@ -568,7 +570,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 

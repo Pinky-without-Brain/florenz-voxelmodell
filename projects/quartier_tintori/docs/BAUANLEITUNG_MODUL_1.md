@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 43.261 |
+| Blöcke | 43.165 |
 | Bauschritte | 26 |
-| Y-Bereich | 61 bis 100 |
+| Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | 214 bis 299 (86 Blöcke) |
 | Z-Ausdehnung | 1026 bis 1114 (89 Blöcke) |
-| Kleinster Schritt | 583 Blöcke (Schritt 1.26) |
-| Mittlerer Schritt | 1.664 Blöcke |
+| Kleinster Schritt | 585 Blöcke (Schritt 1.26) |
+| Mittlerer Schritt | 1.660 Blöcke |
 | Größter Schritt | 2.089 Blöcke (Schritt 1.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 16.252 | 37,6 % |
-| Terrakotta | `terracotta` | 13.967 | 32,3 % |
-| Polierter Tuffstein | `polished_tuff` | 4.189 | 9,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 16.179 | 37,5 % |
+| Terrakotta | `terracotta` | 13.963 | 32,3 % |
+| Polierter Tuffstein | `polished_tuff` | 4.187 | 9,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.470 | 5,7 % |
 | Weißer Beton | `white_concrete` | 1.541 | 3,6 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.340 | 3,1 % |
@@ -33,7 +33,7 @@
 | Ziegelsteine | `bricks` | 222 | 0,5 % |
 | Glatter Stein | `smooth_stone` | 146 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 134 | 0,3 % |
-| Seelaterne | `sea_lantern` | 91 | 0,2 % |
+| Seelaterne | `sea_lantern` | 97 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 58 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 54 | 0,1 % |
 | Grüner Beton | `green_concrete` | 50 | 0,1 % |
@@ -41,12 +41,11 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 45 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 33 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 33 | 0,1 % |
-| Tuffstein | `tuff` | 25 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 22 | 0,1 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -60,24 +59,24 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7087288` | Reihenhaus an Via Don Giancarlo Setti | 12.606 | 1.1–1.7 |
+| 1 | `r7087288` | Reihenhaus an Via Don Giancarlo Setti | 12.605 | 1.1–1.7 |
 | 2 | `r7087288_innen` | Reihenhaus an Via Don Giancarlo Setti: Innenausbau | 2.866 | 1.8–1.9 |
-| 3 | `w238431529` | Chiesa di San Remigio | 11.432 | 1.10–1.15 |
-| 4 | `w238431529_innen` | Chiesa di San Remigio: Innenausbau | 3.160 | 1.16–1.17 |
+| 3 | `w238431529` | Chiesa di San Remigio | 11.357 | 1.10–1.15 |
+| 4 | `w238431529_innen` | Chiesa di San Remigio: Innenausbau | 3.162 | 1.16–1.17 |
 | 5 | `w481445932` | Reihenhaus an Via dei Neri | 3.550 | 1.18–1.19 |
 | 6 | `w481445932_innen` | Reihenhaus an Via dei Neri: Innenausbau | 956 | 1.20 |
-| 7 | `w481445941` | Reihenhaus an Via dei Rustici | 4.150 | 1.21–1.22 |
+| 7 | `w481445941` | Reihenhaus an Via dei Rustici | 4.126 | 1.21–1.22 |
 | 8 | `w481445941_innen` | Reihenhaus an Via dei Rustici: Innenausbau | 1.637 | 1.23 |
 | 9 | `w481445942` | Reihenhaus an Via Don Giancarlo Setti | 2.321 | 1.24–1.25 |
 | 10 | `w481445942_innen` | Reihenhaus an Via Don Giancarlo Setti: Innenausbau | 574 | 1.26 |
-| 11 | `strassenschilder` | Straßenschilder | 9 | 1.26 |
+| 11 | `strassenschilder` | Straßenschilder | 11 | 1.26 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Reihenhaus an Via Don Giancarlo Setti – Teil 1/7 (Y 61–64)
+### Schritt 1.1 – Reihenhaus an Via Don Giancarlo Setti – Teil 1/7 (Y 61–63)
 
-- **Y-Bereich:** 61 bis 64
-- **Blöcke:** 1.882
+- **Y-Bereich:** 61 bis 63
+- **Blöcke:** 1.881
 - **Bauteile:** `r7087288`
 
 **Teileliste**
@@ -87,7 +86,6 @@
 | Polierter Tuffstein | `polished_tuff` | 1.237 |
 | Gelbe Keramik | `yellow_terracotta` | 640 |
 | Glatter Stein | `smooth_stone` | 4 |
-| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -105,9 +103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Reihenhaus an Via Don Giancarlo Setti – Teil 2/7 (Y 65–69)
+### Schritt 1.2 – Reihenhaus an Via Don Giancarlo Setti – Teil 2/7 (Y 64–68)
 
-- **Y-Bereich:** 65 bis 69
+- **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.574
 - **Bauteile:** `r7087288`
 
@@ -136,9 +134,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Reihenhaus an Via Don Giancarlo Setti – Teil 3/7 (Y 70–75)
+### Schritt 1.3 – Reihenhaus an Via Don Giancarlo Setti – Teil 3/7 (Y 69–74)
 
-- **Y-Bereich:** 70 bis 75
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.938
 - **Bauteile:** `r7087288`
 
@@ -167,9 +165,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Reihenhaus an Via Don Giancarlo Setti – Teil 4/7 (Y 76–81)
+### Schritt 1.4 – Reihenhaus an Via Don Giancarlo Setti – Teil 4/7 (Y 75–80)
 
-- **Y-Bereich:** 76 bis 81
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.954
 - **Bauteile:** `r7087288`
 
@@ -197,9 +195,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Reihenhaus an Via Don Giancarlo Setti – Teil 5/7 (Y 82–86)
+### Schritt 1.5 – Reihenhaus an Via Don Giancarlo Setti – Teil 5/7 (Y 81–85)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.639
 - **Bauteile:** `r7087288`
 
@@ -227,9 +225,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Reihenhaus an Via Don Giancarlo Setti – Teil 6/7 (Y 87–91)
+### Schritt 1.6 – Reihenhaus an Via Don Giancarlo Setti – Teil 6/7 (Y 86–90)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.660
 - **Bauteile:** `r7087288`
 
@@ -257,9 +255,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Reihenhaus an Via Don Giancarlo Setti – Teil 7/7 (Y 92–98)
+### Schritt 1.7 – Reihenhaus an Via Don Giancarlo Setti – Teil 7/7 (Y 91–97)
 
-- **Y-Bereich:** 92 bis 98
+- **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.959
 - **Bauteile:** `r7087288`
 
@@ -287,9 +285,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Reihenhaus an Via Don Giancarlo Setti: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 1.8 – Reihenhaus an Via Don Giancarlo Setti: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 62 bis 77
+- **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.000
 - **Bauteile:** `r7087288_innen`
 
@@ -327,9 +325,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.9 – Reihenhaus an Via Don Giancarlo Setti: Innenausbau – Teil 2/2 (Y 78–86)
+### Schritt 1.9 – Reihenhaus an Via Don Giancarlo Setti: Innenausbau – Teil 2/2 (Y 77–85)
 
-- **Y-Bereich:** 78 bis 86
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.866
 - **Bauteile:** `r7087288_innen`
 
@@ -369,17 +367,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.10 – Chiesa di San Remigio – Teil 1/6 (Y 61–61)
+### Schritt 1.10 – Chiesa di San Remigio – Teil 1/6 (Y 61–62)
 
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.771
+- **Y-Bereich:** 61 bis 62
+- **Blöcke:** 2.005
 - **Bauteile:** `w238431529`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.771 |
+| Polierter Tuffstein | `polished_tuff` | 1.769 |
+| Gelbe Keramik | `yellow_terracotta` | 234 |
+| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
@@ -397,18 +397,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Chiesa di San Remigio – Teil 2/6 (Y 62–69)
+### Schritt 1.11 – Chiesa di San Remigio – Teil 2/6 (Y 63–70)
 
-- **Y-Bereich:** 62 bis 69
-- **Blöcke:** 1.871
+- **Y-Bereich:** 63 bis 70
+- **Blöcke:** 1.807
 - **Bauteile:** `w238431529`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.436 |
-| Polierter Andesit | `polished_andesite` | 295 |
+| Gelbe Keramik | `yellow_terracotta` | 1.309 |
+| Polierter Andesit | `polished_andesite` | 358 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
 
 **Beschreibung**
@@ -427,19 +427,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Chiesa di San Remigio – Teil 3/6 (Y 70–77)
+### Schritt 1.12 – Chiesa di San Remigio – Teil 3/6 (Y 71–78)
 
-- **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.983
+- **Y-Bereich:** 71 bis 78
+- **Blöcke:** 1.954
 - **Bauteile:** `w238431529`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.788 |
-| Polierter Andesit | `polished_andesite` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
+| Gelbe Keramik | `yellow_terracotta` | 1.749 |
+| Polierter Andesit | `polished_andesite` | 157 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**
 
@@ -457,19 +457,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Chiesa di San Remigio – Teil 4/6 (Y 78–86)
+### Schritt 1.13 – Chiesa di San Remigio – Teil 4/6 (Y 79–86)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 2.058
+- **Y-Bereich:** 79 bis 86
+- **Blöcke:** 1.842
 - **Bauteile:** `w238431529`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.431 |
-| Polierter Andesit | `polished_andesite` | 387 |
-| Graues Buntglas | `gray_stained_glass` | 240 |
+| Gelbe Keramik | `yellow_terracotta` | 1.290 |
+| Polierter Andesit | `polished_andesite` | 352 |
+| Graues Buntglas | `gray_stained_glass` | 200 |
 
 **Beschreibung**
 
@@ -550,18 +550,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 1.16 – Chiesa di San Remigio: Innenausbau – Teil 1/2 (Y 61–75)
 
 - **Y-Bereich:** 61 bis 75
-- **Blöcke:** 1.596
+- **Blöcke:** 1.598
 - **Bauteile:** `w238431529_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.518 |
+| Terrakotta | `terracotta` | 1.516 |
 | Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 16 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 14 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 14 |
+| Seelaterne | `sea_lantern` | 20 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -595,11 +595,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.518 |
+| Terrakotta | `terracotta` | 1.516 |
 | Glatter Stein | `smooth_stone` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
+| Seelaterne | `sea_lantern` | 10 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -623,9 +623,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.18 – Reihenhaus an Via dei Neri – Teil 1/2 (Y 61–77)
+### Schritt 1.18 – Reihenhaus an Via dei Neri – Teil 1/2 (Y 60–76)
 
-- **Y-Bereich:** 61 bis 77
+- **Y-Bereich:** 60 bis 76
 - **Blöcke:** 1.760
 - **Bauteile:** `w481445932`
 
@@ -656,9 +656,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Reihenhaus an Via dei Neri – Teil 2/2 (Y 78–96)
+### Schritt 1.19 – Reihenhaus an Via dei Neri – Teil 2/2 (Y 77–95)
 
-- **Y-Bereich:** 78 bis 96
+- **Y-Bereich:** 77 bis 95
 - **Blöcke:** 1.790
 - **Bauteile:** `w481445932`
 
@@ -691,7 +691,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.20 – Reihenhaus an Via dei Neri: Innenausbau
 
-- **Y-Bereich:** 61 bis 85
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 956
 - **Bauteile:** `w481445932_innen`
 
@@ -729,10 +729,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.21 – Reihenhaus an Via dei Rustici – Teil 1/2 (Y 61–79)
+### Schritt 1.21 – Reihenhaus an Via dei Rustici – Teil 1/2 (Y 61–78)
 
-- **Y-Bereich:** 61 bis 79
-- **Blöcke:** 2.061
+- **Y-Bereich:** 61 bis 78
+- **Blöcke:** 2.037
 - **Bauteile:** `w481445941`
 
 **Teileliste**
@@ -744,7 +744,6 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Weißer Beton | `white_concrete` | 253 |
 | Graues Buntglas | `gray_stained_glass` | 67 |
 | Polierter Andesit | `polished_andesite` | 30 |
-| Tuffstein | `tuff` | 24 |
 
 **Beschreibung**
 
@@ -762,9 +761,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Reihenhaus an Via dei Rustici – Teil 2/2 (Y 80–99)
+### Schritt 1.22 – Reihenhaus an Via dei Rustici – Teil 2/2 (Y 79–98)
 
-- **Y-Bereich:** 80 bis 99
+- **Y-Bereich:** 79 bis 98
 - **Blöcke:** 2.089
 - **Bauteile:** `w481445941`
 
@@ -797,7 +796,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.23 – Reihenhaus an Via dei Rustici: Innenausbau
 
-- **Y-Bereich:** 62 bis 86
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.637
 - **Bauteile:** `w481445941_innen`
 
@@ -837,9 +836,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.24 – Reihenhaus an Via Don Giancarlo Setti – Teil 1/2 (Y 61–77)
+### Schritt 1.24 – Reihenhaus an Via Don Giancarlo Setti – Teil 1/2 (Y 60–76)
 
-- **Y-Bereich:** 61 bis 77
+- **Y-Bereich:** 60 bis 76
 - **Blöcke:** 1.153
 - **Bauteile:** `w481445942`
 
@@ -869,9 +868,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Reihenhaus an Via Don Giancarlo Setti – Teil 2/2 (Y 78–95)
+### Schritt 1.25 – Reihenhaus an Via Don Giancarlo Setti – Teil 2/2 (Y 77–94)
 
-- **Y-Bereich:** 78 bis 95
+- **Y-Bereich:** 77 bis 94
 - **Blöcke:** 1.168
 - **Bauteile:** `w481445942`
 
@@ -903,8 +902,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.26 – Reihenhaus an Via Don Giancarlo Setti: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 61 bis 85
-- **Blöcke:** 583
+- **Y-Bereich:** 60 bis 84
+- **Blöcke:** 585
 - **Bauteile:** `w481445942_innen`, `strassenschilder`
 
 **Teileliste**
@@ -918,9 +917,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)

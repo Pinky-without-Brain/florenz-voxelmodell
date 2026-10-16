@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 8.628 |
 | Bauschritte | 5 |
-| Y-Bereich | 65 bis 101 |
+| Y-Bereich | 64 bis 100 |
 | X-Ausdehnung | 1626 bis 1670 (45 Blöcke) |
 | Z-Ausdehnung | 1350 bis 1365 (16 Blöcke) |
 | Kleinster Schritt | 880 Blöcke (Schritt 16.5) |
@@ -55,9 +55,9 @@
 
 ## Bauschritte
 
-### Schritt 16.1 – Palazzo des Cinquecento an Via Tripoli – Teil 1/4 (Y 65–72)
+### Schritt 16.1 – Palazzo des Cinquecento an Via Tripoli – Teil 1/4 (Y 64–71)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.977
 - **Bauteile:** `w778074900`
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Palazzo des Cinquecento an Via Tripoli – Teil 2/4 (Y 73–81)
+### Schritt 16.2 – Palazzo des Cinquecento an Via Tripoli – Teil 2/4 (Y 72–80)
 
-- **Y-Bereich:** 73 bis 81
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.823
 - **Bauteile:** `w778074900`
 
@@ -121,9 +121,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Palazzo des Cinquecento an Via Tripoli – Teil 3/4 (Y 82–91)
+### Schritt 16.3 – Palazzo des Cinquecento an Via Tripoli – Teil 3/4 (Y 81–90)
 
-- **Y-Bereich:** 82 bis 91
+- **Y-Bereich:** 81 bis 90
 - **Blöcke:** 2.014
 - **Bauteile:** `w778074900`
 
@@ -153,9 +153,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Palazzo des Cinquecento an Via Tripoli – Teil 4/4 (Y 92–101)
+### Schritt 16.4 – Palazzo des Cinquecento an Via Tripoli – Teil 4/4 (Y 91–100)
 
-- **Y-Bereich:** 92 bis 101
+- **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.934
 - **Bauteile:** `w778074900`
 
@@ -188,7 +188,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 16.5 – Palazzo des Cinquecento an Via Tripoli: Innenausbau
 
-- **Y-Bereich:** 65 bis 86
+- **Y-Bereich:** 64 bis 85
 - **Blöcke:** 880
 - **Bauteile:** `w778074900_innen`
 

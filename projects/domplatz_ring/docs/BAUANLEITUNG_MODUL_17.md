@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 20.461 |
 | Bauschritte | 11 |
-| Y-Bereich | 66 bis 100 |
+| Y-Bereich | 65 bis 99 |
 | X-Ausdehnung | 71 bis 143 (73 Blöcke) |
 | Z-Ausdehnung | 117 bis 168 (52 Blöcke) |
 | Kleinster Schritt | 1.231 Blöcke (Schritt 17.1) |
@@ -58,9 +58,9 @@
 
 ## Bauschritte
 
-### Schritt 17.1 – Palazzo des Cinquecento an Piazza del Duomo – Teil 1/9 (Y 66–66)
+### Schritt 17.1 – Palazzo des Cinquecento an Piazza del Duomo – Teil 1/9 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.231
 - **Bauteile:** `w114369700`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.2 – Palazzo des Cinquecento an Piazza del Duomo – Teil 2/9 (Y 66–68)
+### Schritt 17.2 – Palazzo des Cinquecento an Piazza del Duomo – Teil 2/9 (Y 65–67)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 2.095
 - **Bauteile:** `w114369700`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.3 – Palazzo des Cinquecento an Piazza del Duomo – Teil 3/9 (Y 69–73)
+### Schritt 17.3 – Palazzo des Cinquecento an Piazza del Duomo – Teil 3/9 (Y 68–72)
 
-- **Y-Bereich:** 69 bis 73
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 2.030
 - **Bauteile:** `w114369700`
 
@@ -151,9 +151,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.4 – Palazzo des Cinquecento an Piazza del Duomo – Teil 4/9 (Y 74–77)
+### Schritt 17.4 – Palazzo des Cinquecento an Piazza del Duomo – Teil 4/9 (Y 73–76)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.803
 - **Bauteile:** `w114369700`
 
@@ -182,9 +182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.5 – Palazzo des Cinquecento an Piazza del Duomo – Teil 5/9 (Y 78–82)
+### Schritt 17.5 – Palazzo des Cinquecento an Piazza del Duomo – Teil 5/9 (Y 77–81)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 2.027
 - **Bauteile:** `w114369700`
 
@@ -214,9 +214,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.6 – Palazzo des Cinquecento an Piazza del Duomo – Teil 6/9 (Y 83–86)
+### Schritt 17.6 – Palazzo des Cinquecento an Piazza del Duomo – Teil 6/9 (Y 82–85)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.635
 - **Bauteile:** `w114369700`
 
@@ -246,9 +246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.7 – Palazzo des Cinquecento an Piazza del Duomo – Teil 7/9 (Y 87–89)
+### Schritt 17.7 – Palazzo des Cinquecento an Piazza del Duomo – Teil 7/9 (Y 86–88)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.832
 - **Bauteile:** `w114369700`
 
@@ -278,9 +278,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.8 – Palazzo des Cinquecento an Piazza del Duomo – Teil 8/9 (Y 90–91)
+### Schritt 17.8 – Palazzo des Cinquecento an Piazza del Duomo – Teil 8/9 (Y 89–90)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.593
 - **Bauteile:** `w114369700`
 
@@ -306,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.9 – Palazzo des Cinquecento an Piazza del Duomo – Teil 9/9 (Y 92–100)
+### Schritt 17.9 – Palazzo des Cinquecento an Piazza del Duomo – Teil 9/9 (Y 91–99)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 91 bis 99
 - **Blöcke:** 2.040
 - **Bauteile:** `w114369700`
 
@@ -335,9 +335,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.10 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 1/2 (Y 66–76)
+### Schritt 17.10 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 1/2 (Y 65–75)
 
-- **Y-Bereich:** 66 bis 76
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 2.092
 - **Bauteile:** `w114369700_innen`
 
@@ -377,9 +377,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 17.11 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 2/2 (Y 77–83) & Straßenschilder
+### Schritt 17.11 – Palazzo des Cinquecento an Piazza del Duomo: Innenausbau – Teil 2/2 (Y 76–82) & Straßenschilder
 
-- **Y-Bereich:** 73 bis 83
+- **Y-Bereich:** 72 bis 82
 - **Blöcke:** 2.083
 - **Bauteile:** `w114369700_innen`, `strassenschilder`
 

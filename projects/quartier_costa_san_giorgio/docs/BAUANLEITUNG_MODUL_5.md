@@ -8,85 +8,80 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.100 |
-| Bauschritte | 25 |
-| Y-Bereich | 68 bis 127 |
+| Blöcke | 30.825 |
+| Bauschritte | 20 |
+| Y-Bereich | 68 bis 120 |
 | X-Ausdehnung | -603 bis -523 (81 Blöcke) |
 | Z-Ausdehnung | 1396 bis 1446 (51 Blöcke) |
-| Kleinster Schritt | 1.107 Blöcke (Schritt 5.21) |
-| Mittlerer Schritt | 1.604 Blöcke |
-| Größter Schritt | 2.008 Blöcke (Schritt 5.16) |
+| Kleinster Schritt | 1.045 Blöcke (Schritt 5.6) |
+| Mittlerer Schritt | 1.541 Blöcke |
+| Größter Schritt | 2.025 Blöcke (Schritt 5.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 11.242 | 28,0 % |
-| Terrakotta | `terracotta` | 9.713 | 24,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 7.237 | 18,0 % |
-| Endsteinziegel | `end_stone_bricks` | 3.507 | 8,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 2.459 | 6,1 % |
-| Polierter Tuffstein | `polished_tuff` | 2.330 | 5,8 % |
-| Graues Buntglas | `gray_stained_glass` | 979 | 2,4 % |
-| Fichtenholz-Bretter | `spruce_planks` | 891 | 2,2 % |
-| Weißer Beton | `white_concrete` | 590 | 1,5 % |
-| Polierter Andesit | `polished_andesite` | 367 | 0,9 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 225 | 0,6 % |
-| Ziegelsteine | `bricks` | 209 | 0,5 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 88 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 80 | 0,2 % |
-| Seelaterne | `sea_lantern` | 54 | 0,1 % |
+| Terrakotta | `terracotta` | 9.713 | 31,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 7.082 | 23,0 % |
+| Endsteinziegel | `end_stone_bricks` | 3.507 | 11,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 2.488 | 8,1 % |
+| Polierter Tuffstein | `polished_tuff` | 2.348 | 7,6 % |
+| Tuffstein | `tuff` | 2.094 | 6,8 % |
+| Graues Buntglas | `gray_stained_glass` | 979 | 3,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 891 | 2,9 % |
+| Weißer Beton | `white_concrete` | 590 | 1,9 % |
+| Polierter Andesit | `polished_andesite` | 367 | 1,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 225 | 0,7 % |
+| Ziegelsteine | `bricks` | 209 | 0,7 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 88 | 0,3 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 80 | 0,3 % |
+| Seelaterne | `sea_lantern` | 54 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 30 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 30 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 29 | 0,1 % |
-| Glatter Stein | `smooth_stone` | 20 | 0,0 % |
+| Glatter Stein | `smooth_stone` | 20 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 178 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 31 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w474366863` | Reihenhaus an Costa di San Giorgio | 7.313 | 5.1–5.4 |
+| 1 | `w474366863` | Reihenhaus an Costa di San Giorgio | 6.323 | 5.1–5.4 |
 | 2 | `w474366863_innen` | Reihenhaus an Costa di San Giorgio: Innenausbau | 1.430 | 5.5 |
-| 3 | `w474366875` | Reihenhaus an Rampa dei Canigiani | 20.002 | 5.6–5.17 |
-| 4 | `w474366875_innen` | Reihenhaus an Rampa dei Canigiani: Innenausbau | 4.502 | 5.18–5.21 |
-| 5 | `w474366881` | Reihenhaus an Rampa di Sotto | 5.679 | 5.22–5.24 |
-| 6 | `w474366881_innen` | Reihenhaus an Rampa di Sotto: Innenausbau | 1.166 | 5.25 |
-| 7 | `strassenschilder` | Straßenschilder | 8 | 5.25 |
+| 3 | `w474366875` | Reihenhaus an Rampa dei Canigiani | 12.541 | 5.6–5.12 |
+| 4 | `w474366875_innen` | Reihenhaus an Rampa dei Canigiani: Innenausbau | 4.502 | 5.13–5.16 |
+| 5 | `w474366881` | Reihenhaus an Rampa di Sotto | 4.855 | 5.17–5.19 |
+| 6 | `w474366881_innen` | Reihenhaus an Rampa di Sotto: Innenausbau | 1.166 | 5.20 |
+| 7 | `strassenschilder` | Straßenschilder | 8 | 5.20 |
 
 ## Bauschritte
 
 ### Schritt 5.1 – Reihenhaus an Costa di San Giorgio – Teil 1/4 (Y 69–74)
 
 - **Y-Bereich:** 69 bis 74
-- **Blöcke:** 1.867
+- **Blöcke:** 1.582
 - **Bauteile:** `w474366863`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.865 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Tuffstein | `tuff` | 876 |
+| Polierter Tuffstein | `polished_tuff` | 575 |
+| Endsteinziegel | `end_stone_bricks` | 129 |
+| Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
 
@@ -104,29 +99,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Reihenhaus an Costa di San Giorgio – Teil 2/4 (Y 75–84)
+### Schritt 5.2 – Reihenhaus an Costa di San Giorgio – Teil 2/4 (Y 75–86)
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.768
+- **Y-Bereich:** 75 bis 86
+- **Blöcke:** 1.612
 - **Bauteile:** `w474366863`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.071 |
-| Polierter Tuffstein | `polished_tuff` | 572 |
-| Polierter Andesit | `polished_andesite` | 75 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+| Endsteinziegel | `end_stone_bricks` | 1.375 |
+| Polierter Andesit | `polished_andesite` | 129 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Fichtenholz-Bretter | `spruce_planks` | 54 |
 
 **Beschreibung**
 
@@ -144,20 +130,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Reihenhaus an Costa di San Giorgio – Teil 3/4 (Y 85–97)
+### Schritt 5.3 – Reihenhaus an Costa di San Giorgio – Teil 3/4 (Y 87–97)
 
-- **Y-Bereich:** 85 bis 97
-- **Blöcke:** 1.793
+- **Y-Bereich:** 87 bis 97
+- **Blöcke:** 1.532
 - **Bauteile:** `w474366863`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.483 |
-| Polierter Andesit | `polished_andesite` | 172 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Fichtenholz-Bretter | `spruce_planks` | 60 |
+| Endsteinziegel | `end_stone_bricks` | 1.312 |
+| Polierter Andesit | `polished_andesite` | 142 |
+| Graues Buntglas | `gray_stained_glass` | 48 |
+| Fichtenholz-Bretter | `spruce_planks` | 30 |
 
 **Beschreibung**
 
@@ -175,19 +161,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Reihenhaus an Costa di San Giorgio – Teil 4/4 (Y 98–111)
+### Schritt 5.4 – Reihenhaus an Costa di San Giorgio – Teil 4/4 (Y 98–109)
 
-- **Y-Bereich:** 98 bis 111
-- **Blöcke:** 1.885
+- **Y-Bereich:** 98 bis 109
+- **Blöcke:** 1.597
 - **Bauteile:** `w474366863`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 953 |
 | Terrakotta | `terracotta` | 724 |
-| Polierter Andesit | `polished_andesite` | 86 |
+| Endsteinziegel | `end_stone_bricks` | 691 |
+| Polierter Andesit | `polished_andesite` | 60 |
 | Ziegelsteine | `bricks` | 53 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 | Fichtenholz-Bretter | `spruce_planks` | 30 |
@@ -210,7 +196,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.5 – Reihenhaus an Costa di San Giorgio: Innenausbau
 
-- **Y-Bereich:** 75 bis 99
+- **Y-Bereich:** 73 bis 97
 - **Blöcke:** 1.430
 - **Bauteile:** `w474366863_innen`
 
@@ -250,17 +236,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.6 – Reihenhaus an Rampa dei Canigiani – Teil 1/12 (Y 70–74)
+### Schritt 5.6 – Reihenhaus an Rampa dei Canigiani – Teil 1/7 (Y 70–73)
 
-- **Y-Bereich:** 70 bis 74
-- **Blöcke:** 1.696
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.045
 - **Bauteile:** `w474366875`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.696 |
+| Tuffstein | `tuff` | 1.045 |
 
 **Beschreibung**
 
@@ -278,149 +264,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Reihenhaus an Rampa dei Canigiani – Teil 2/12 (Y 75–76)
+### Schritt 5.7 – Reihenhaus an Rampa dei Canigiani – Teil 2/7 (Y 74–77)
 
-- **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.788
-- **Bauteile:** `w474366875`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.788 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.8 – Reihenhaus an Rampa dei Canigiani – Teil 3/12 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.108
-- **Bauteile:** `w474366875`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.108 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.9 – Reihenhaus an Rampa dei Canigiani – Teil 4/12 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.198
-- **Bauteile:** `w474366875`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.198 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.10 – Reihenhaus an Rampa dei Canigiani – Teil 5/12 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.261
-- **Bauteile:** `w474366875`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.261 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.11 – Reihenhaus an Rampa dei Canigiani – Teil 6/12 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.300
-- **Bauteile:** `w474366875`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.300 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 5.12 – Reihenhaus an Rampa dei Canigiani – Teil 7/12 (Y 81–84)
-
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.994
 - **Bauteile:** `w474366875`
 
@@ -448,9 +294,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Reihenhaus an Rampa dei Canigiani – Teil 8/12 (Y 85–93)
+### Schritt 5.8 – Reihenhaus an Rampa dei Canigiani – Teil 3/7 (Y 78–86)
 
-- **Y-Bereich:** 85 bis 93
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.944
 - **Bauteile:** `w474366875`
 
@@ -479,9 +325,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.14 – Reihenhaus an Rampa dei Canigiani – Teil 9/12 (Y 94–102)
+### Schritt 5.9 – Reihenhaus an Rampa dei Canigiani – Teil 4/7 (Y 87–95)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.938
 - **Bauteile:** `w474366875`
 
@@ -509,17 +355,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Reihenhaus an Rampa dei Canigiani – Teil 10/12 (Y 103–110)
+### Schritt 5.10 – Reihenhaus an Rampa dei Canigiani – Teil 5/7 (Y 96–104)
 
-- **Y-Bereich:** 103 bis 110
-- **Blöcke:** 1.915
+- **Y-Bereich:** 96 bis 104
+- **Blöcke:** 2.025
 - **Bauteile:** `w474366875`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.655 |
+| Gelbe Keramik | `yellow_terracotta` | 1.765 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
 | Fichtenholz-Bretter | `spruce_planks` | 124 |
 
@@ -539,17 +385,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Reihenhaus an Rampa dei Canigiani – Teil 11/12 (Y 111–118)
+### Schritt 5.11 – Reihenhaus an Rampa dei Canigiani – Teil 6/7 (Y 105–111)
 
-- **Y-Bereich:** 111 bis 118
-- **Blöcke:** 2.008
+- **Y-Bereich:** 105 bis 111
+- **Blöcke:** 1.743
 - **Bauteile:** `w474366875`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.748 |
+| Gelbe Keramik | `yellow_terracotta` | 1.483 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
 | Fichtenholz-Bretter | `spruce_planks` | 124 |
 
@@ -569,9 +415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.17 – Reihenhaus an Rampa dei Canigiani – Teil 12/12 (Y 119–127)
+### Schritt 5.12 – Reihenhaus an Rampa dei Canigiani – Teil 7/7 (Y 112–120)
 
-- **Y-Bereich:** 119 bis 127
+- **Y-Bereich:** 112 bis 120
 - **Blöcke:** 1.852
 - **Bauteile:** `w474366875`
 
@@ -598,9 +444,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.18 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 1/4 (Y 81–90)
+### Schritt 5.13 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 1/4 (Y 74–83)
 
-- **Y-Bereich:** 81 bis 90
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.137
 - **Bauteile:** `w474366875_innen`
 
@@ -638,7 +484,49 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.19 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 2/4 (Y 91–97)
+### Schritt 5.14 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 2/4 (Y 84–90)
+
+- **Y-Bereich:** 84 bis 90
+- **Blöcke:** 1.129
+- **Bauteile:** `w474366875_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.080 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
+| Seelaterne | `sea_lantern` | 6 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 5.15 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 3/4 (Y 91–97)
 
 - **Y-Bereich:** 91 bis 97
 - **Blöcke:** 1.129
@@ -680,51 +568,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.20 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 3/4 (Y 98–104)
+### Schritt 5.16 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 4/4 (Y 98–105)
 
-- **Y-Bereich:** 98 bis 104
-- **Blöcke:** 1.129
-- **Bauteile:** `w474366875_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.080 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Seelaterne | `sea_lantern` | 6 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 5.21 – Reihenhaus an Rampa dei Canigiani: Innenausbau – Teil 4/4 (Y 105–112)
-
-- **Y-Bereich:** 105 bis 112
+- **Y-Bereich:** 98 bis 105
 - **Blöcke:** 1.107
 - **Bauteile:** `w474366875_innen`
 
@@ -764,28 +610,30 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.22 – Reihenhaus an Rampa di Sotto – Teil 1/3 (Y 68–76)
+### Schritt 5.17 – Reihenhaus an Rampa di Sotto – Teil 1/3 (Y 68–78)
 
-- **Y-Bereich:** 68 bis 76
-- **Blöcke:** 1.865
+- **Y-Bereich:** 68 bis 78
+- **Blöcke:** 1.567
 - **Bauteile:** `w474366881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.026 |
-| Polierter Tuffstein | `polished_tuff` | 436 |
-| Hellgrauer Beton | `light_gray_concrete` | 342 |
-| Weißer Beton | `white_concrete` | 28 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 27 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 748 |
+| Polierter Tuffstein | `polished_tuff` | 451 |
+| Tuffstein | `tuff` | 173 |
+| Weißer Beton | `white_concrete` | 98 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
+| Polierter Andesit | `polished_andesite` | 34 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 12 |
+| Fichtenholz-Bretter | `spruce_planks` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 27 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 12 |
 
 **Beschreibung**
 
@@ -803,21 +651,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.23 – Reihenhaus an Rampa di Sotto – Teil 2/3 (Y 77–94)
+### Schritt 5.18 – Reihenhaus an Rampa di Sotto – Teil 2/3 (Y 79–93)
 
-- **Y-Bereich:** 77 bis 94
-- **Blöcke:** 1.963
+- **Y-Bereich:** 79 bis 93
+- **Blöcke:** 1.671
 - **Bauteile:** `w474366881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.392 |
-| Weißer Beton | `white_concrete` | 348 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
-| Fichtenholz-Bretter | `spruce_planks` | 48 |
-| Polierter Andesit | `polished_andesite` | 28 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.199 |
+| Weißer Beton | `white_concrete` | 328 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Fichtenholz-Bretter | `spruce_planks` | 36 |
 
 **Beschreibung**
 
@@ -835,19 +682,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.24 – Reihenhaus an Rampa di Sotto – Teil 3/3 (Y 95–109)
+### Schritt 5.19 – Reihenhaus an Rampa di Sotto – Teil 3/3 (Y 94–106)
 
-- **Y-Bereich:** 95 bis 109
-- **Blöcke:** 1.851
+- **Y-Bereich:** 94 bis 106
+- **Blöcke:** 1.617
 - **Bauteile:** `w474366881`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 725 |
 | Terrakotta | `terracotta` | 675 |
-| Weißer Beton | `white_concrete` | 214 |
+| Hellgrauer Beton | `light_gray_concrete` | 541 |
+| Weißer Beton | `white_concrete` | 164 |
 | Fichtenholz-Bretter | `spruce_planks` | 146 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Ziegelsteine | `bricks` | 37 |
@@ -868,9 +715,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.25 – Reihenhaus an Rampa di Sotto: Innenausbau & Straßenschilder
+### Schritt 5.20 – Reihenhaus an Rampa di Sotto: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 73 bis 97
+- **Y-Bereich:** 70 bis 94
 - **Blöcke:** 1.174
 - **Bauteile:** `w474366881_innen`, `strassenschilder`
 
@@ -885,9 +732,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

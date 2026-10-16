@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 8.434 |
 | Bauschritte | 5 |
-| Y-Bereich | 58 bis 94 |
+| Y-Bereich | 57 bis 93 |
 | X-Ausdehnung | -2063 bis -2035 (29 Blöcke) |
 | Z-Ausdehnung | -1283 bis -1245 (39 Blöcke) |
 | Kleinster Schritt | 1.172 Blöcke (Schritt 35.5) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 35.1 – Haus w443083489 – Teil 1/4 (Y 58–64)
+### Schritt 35.1 – Haus w443083489 – Teil 1/4 (Y 57–63)
 
-- **Y-Bereich:** 58 bis 64
+- **Y-Bereich:** 57 bis 63
 - **Blöcke:** 1.724
 - **Bauteile:** `w443083489`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.2 – Haus w443083489 – Teil 2/4 (Y 65–73)
+### Schritt 35.2 – Haus w443083489 – Teil 2/4 (Y 64–72)
 
-- **Y-Bereich:** 65 bis 73
+- **Y-Bereich:** 64 bis 72
 - **Blöcke:** 1.812
 - **Bauteile:** `w443083489`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.3 – Haus w443083489 – Teil 3/4 (Y 74–82)
+### Schritt 35.3 – Haus w443083489 – Teil 3/4 (Y 73–81)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.837
 - **Bauteile:** `w443083489`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.4 – Haus w443083489 – Teil 4/4 (Y 83–94)
+### Schritt 35.4 – Haus w443083489 – Teil 4/4 (Y 82–93)
 
-- **Y-Bereich:** 83 bis 94
+- **Y-Bereich:** 82 bis 93
 - **Blöcke:** 1.889
 - **Bauteile:** `w443083489`
 
@@ -179,7 +179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 35.5 – Haus w443083489: Innenausbau
 
-- **Y-Bereich:** 58 bis 82
+- **Y-Bereich:** 57 bis 81
 - **Blöcke:** 1.172
 - **Bauteile:** `w443083489_innen`
 

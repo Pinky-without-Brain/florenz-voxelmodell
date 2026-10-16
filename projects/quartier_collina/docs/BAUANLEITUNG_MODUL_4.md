@@ -8,93 +8,47 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.947 |
-| Bauschritte | 2 |
-| Y-Bereich | 113 bis 135 |
+| Blöcke | 1.836 |
+| Bauschritte | 1 |
+| Y-Bereich | 113 bis 128 |
 | X-Ausdehnung | -1042 bis -1020 (23 Blöcke) |
 | Z-Ausdehnung | 1994 bis 2020 (27 Blöcke) |
-| Kleinster Schritt | 1.446 Blöcke (Schritt 4.1) |
-| Mittlerer Schritt | 1.474 Blöcke |
-| Größter Schritt | 1.501 Blöcke (Schritt 4.2) |
+| Kleinster Schritt | 1.836 Blöcke (Schritt 4.1) |
+| Mittlerer Schritt | 1.836 Blöcke |
+| Größter Schritt | 1.836 Blöcke (Schritt 4.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.322 | 44,9 % |
-| Tuffstein | `tuff` | 1.109 | 37,6 % |
-| Terrakotta | `terracotta` | 290 | 9,8 % |
-| Polierter Tuffstein | `polished_tuff` | 196 | 6,7 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 16 | 0,5 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 | 0,2 % |
-| Ziegelsteine | `bricks` | 6 | 0,2 % |
-| Seelaterne | `sea_lantern` | 1 | 0,0 % |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 23 |
+| Endsteinziegel | `end_stone_bricks` | 1.322 | 72,0 % |
+| Terrakotta | `terracotta` | 290 | 15,8 % |
+| Polierter Tuffstein | `polished_tuff` | 217 | 11,8 % |
+| Ziegelsteine | `bricks` | 6 | 0,3 % |
+| Seelaterne | `sea_lantern` | 1 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w375220464` | Haus w375220464 | 2.946 | 4.1–4.2 |
-| 2 | `w375220464_innen` | Haus w375220464: Innenausbau | 1 | 4.2 |
+| 1 | `w375220464` | Haus w375220464 | 1.835 | 4.1 |
+| 2 | `w375220464_innen` | Haus w375220464: Innenausbau | 1 | 4.1 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Haus w375220464 – Teil 1/2 (Y 113–121)
+### Schritt 4.1 – Haus w375220464 & Haus w375220464: Innenausbau
 
-- **Y-Bereich:** 113 bis 121
-- **Blöcke:** 1.446
-- **Bauteile:** `w375220464`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.109 |
-| Polierter Tuffstein | `polished_tuff` | 196 |
-| Endsteinziegel | `end_stone_bricks` | 118 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 16 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 23 |
-
-**Beschreibung**
-
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.2 – Haus w375220464 – Teil 2/2 (Y 122–135) & Haus w375220464: Innenausbau
-
-- **Y-Bereich:** 120 bis 135
-- **Blöcke:** 1.501
+- **Y-Bereich:** 113 bis 128
+- **Blöcke:** 1.836
 - **Bauteile:** `w375220464`, `w375220464_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.204 |
+| Endsteinziegel | `end_stone_bricks` | 1.322 |
 | Terrakotta | `terracotta` | 290 |
+| Polierter Tuffstein | `polished_tuff` | 217 |
 | Ziegelsteine | `bricks` | 6 |
 | Seelaterne | `sea_lantern` | 1 |
 

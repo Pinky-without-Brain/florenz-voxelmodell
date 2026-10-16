@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 176.895 |
+| Blöcke | 176.968 |
 | Bauschritte | 111 |
-| Y-Bereich | 62 bis 103 |
+| Y-Bereich | 61 bis 103 |
 | X-Ausdehnung | -622 bis -449 (174 Blöcke) |
 | Z-Ausdehnung | -715 bis -501 (215 Blöcke) |
 | Kleinster Schritt | 403 Blöcke (Schritt 9.82) |
@@ -25,38 +25,39 @@
 | Rosa Keramik | `pink_terracotta` | 30.591 | 17,3 % |
 | Polierter Tuffstein | `polished_tuff` | 18.256 | 10,3 % |
 | Gelbe Keramik | `yellow_terracotta` | 11.700 | 6,6 % |
-| Endsteinziegel | `end_stone_bricks` | 10.790 | 6,1 % |
+| Endsteinziegel | `end_stone_bricks` | 10.770 | 6,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 10.401 | 5,9 % |
 | Weißer Beton | `white_concrete` | 8.819 | 5,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 5.772 | 3,3 % |
 | Polierter Andesit | `polished_andesite` | 5.491 | 3,1 % |
-| Orange Keramik | `orange_terracotta` | 3.221 | 1,8 % |
-| Tuffstein | `tuff` | 2.665 | 1,5 % |
+| Orange Keramik | `orange_terracotta` | 3.280 | 1,9 % |
+| Tuffstein | `tuff` | 2.690 | 1,5 % |
 | Graues Buntglas | `gray_stained_glass` | 2.549 | 1,4 % |
 | Glatter Stein | `smooth_stone` | 2.079 | 1,2 % |
 | Ziegelsteine | `bricks` | 1.080 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 1.056 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 879 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 880 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 453 | 0,3 % |
 | Grüner Beton | `green_concrete` | 432 | 0,2 % |
 | Seelaterne | `sea_lantern` | 347 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 213 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 199 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 139 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 131 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 112 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 112 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 221 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 209 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 132 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 122 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 114 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 114 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 38 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 682 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 684 |
 | Steintreppe | `stone_stairs` | 80 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -71,7 +72,7 @@
 | 6 | `r7065475_innen` | Reihenhaus an Borgo la Noce: Innenausbau | 2.968 | 9.52–9.53 |
 | 7 | `r7065476` | Reihenhaus an Piazza del Mercato Centrale | 9.161 | 9.54–9.58 |
 | 8 | `r7065476_innen` | Reihenhaus an Piazza del Mercato Centrale: Innenausbau | 2.864 | 9.59–9.60 |
-| 9 | `r7065477` | Reihenhaus an Via del Gomitolo dell'Oro | 6.592 | 9.61–9.64 |
+| 9 | `r7065477` | Reihenhaus an Via del Gomitolo dell'Oro | 6.572 | 9.61–9.64 |
 | 10 | `r7065477_innen` | Reihenhaus an Via del Gomitolo dell'Oro: Innenausbau | 1.212 | 9.65 |
 | 11 | `w480015424` | Reihenhaus an Via del Gomitolo dell'Oro | 4.382 | 9.66–9.68 |
 | 12 | `w480015424_innen` | Reihenhaus an Via del Gomitolo dell'Oro: Innenausbau | 1.325 | 9.69 |
@@ -91,11 +92,11 @@
 | 26 | `w480015437_innen` | Reihenhaus an Piazza San Lorenzo: Innenausbau | 1.648 | 9.92 |
 | 27 | `w480015438` | Reihenhaus an Via del Gomitolo dell'Oro | 8.305 | 9.93–9.97 |
 | 28 | `w480015438_innen` | Reihenhaus an Via del Gomitolo dell'Oro: Innenausbau | 2.483 | 9.98–9.99 |
-| 29 | `w480015439` | Reihenhaus an Via dell'Ariento | 2.992 | 9.100–9.101 |
-| 30 | `w480015439_innen` | Reihenhaus an Via dell'Ariento: Innenausbau | 519 | 9.102 |
-| 31 | `w480015440` | Renaissance-Palazzo an Via dell'Ariento | 12.504 | 9.103–9.109 |
+| 29 | `w480015439` | Reihenhaus an Via dell'Ariento | 3.051 | 9.100–9.101 |
+| 30 | `w480015439_innen` | Reihenhaus an Via dell'Ariento: Innenausbau | 526 | 9.102 |
+| 31 | `w480015440` | Renaissance-Palazzo an Via dell'Ariento | 12.529 | 9.103–9.109 |
 | 32 | `w480015440_innen` | Renaissance-Palazzo an Via dell'Ariento: Innenausbau | 3.996 | 9.110–9.111 |
-| 33 | `strassenschilder` | Straßenschilder | 11 | 9.111 |
+| 33 | `strassenschilder` | Straßenschilder | 13 | 9.111 |
 
 ## Bauschritte
 
@@ -1962,14 +1963,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 9.61 – Reihenhaus an Via del Gomitolo dell'Oro – Teil 1/4 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
-- **Blöcke:** 1.593
+- **Blöcke:** 1.573
 - **Bauteile:** `r7065477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.031 |
+| Endsteinziegel | `end_stone_bricks` | 1.011 |
 | Polierter Tuffstein | `polished_tuff` | 547 |
 | Polierter Andesit | `polished_andesite` | 15 |
 
@@ -3284,17 +3285,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.100 – Reihenhaus an Via dell'Ariento – Teil 1/2 (Y 62–72)
+### Schritt 9.100 – Reihenhaus an Via dell'Ariento – Teil 1/2 (Y 61–70)
 
-- **Y-Bereich:** 62 bis 72
-- **Blöcke:** 1.524
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.485
 - **Bauteile:** `w480015439`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 914 |
+| Orange Keramik | `orange_terracotta` | 875 |
 | Polierter Tuffstein | `polished_tuff` | 575 |
 | Glatter Stein | `smooth_stone` | 15 |
 | Weißer Beton | `white_concrete` | 14 |
@@ -3317,18 +3318,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.101 – Reihenhaus an Via dell'Ariento – Teil 2/2 (Y 73–84)
+### Schritt 9.101 – Reihenhaus an Via dell'Ariento – Teil 2/2 (Y 71–83)
 
-- **Y-Bereich:** 73 bis 84
-- **Blöcke:** 1.468
+- **Y-Bereich:** 71 bis 83
+- **Blöcke:** 1.566
 - **Bauteile:** `w480015439`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 755 |
 | Terrakotta | `terracotta` | 713 |
-| Orange Keramik | `orange_terracotta` | 657 |
 | Weißer Beton | `white_concrete` | 48 |
 | Ziegelsteine | `bricks` | 35 |
 | Graues Buntglas | `gray_stained_glass` | 15 |
@@ -3351,8 +3352,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.102 – Reihenhaus an Via dell'Ariento: Innenausbau
 
-- **Y-Bereich:** 62 bis 71
-- **Blöcke:** 519
+- **Y-Bereich:** 61 bis 71
+- **Blöcke:** 526
 - **Bauteile:** `w480015439_innen`
 
 **Teileliste**
@@ -3360,16 +3361,20 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 469 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Seelaterne | `sea_lantern` | 8 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
 
 **Beschreibung**
 
@@ -3480,19 +3485,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.106 – Renaissance-Palazzo an Via dell'Ariento – Teil 4/7 (Y 76–84)
+### Schritt 9.106 – Renaissance-Palazzo an Via dell'Ariento – Teil 4/7 (Y 76–83)
 
-- **Y-Bereich:** 76 bis 84
-- **Blöcke:** 2.078
+- **Y-Bereich:** 76 bis 83
+- **Blöcke:** 1.842
 - **Bauteile:** `w480015440`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 902 |
-| Tuffstein | `tuff` | 820 |
-| Glatter Stein | `smooth_stone` | 238 |
+| Polierter Andesit | `polished_andesite` | 755 |
+| Tuffstein | `tuff` | 734 |
+| Glatter Stein | `smooth_stone` | 235 |
 | Graues Buntglas | `gray_stained_glass` | 118 |
 
 **Beschreibung**
@@ -3511,19 +3516,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.107 – Renaissance-Palazzo an Via dell'Ariento – Teil 5/7 (Y 85–91)
+### Schritt 9.107 – Renaissance-Palazzo an Via dell'Ariento – Teil 5/7 (Y 84–91)
 
-- **Y-Bereich:** 85 bis 91
-- **Blöcke:** 1.836
+- **Y-Bereich:** 84 bis 91
+- **Blöcke:** 2.097
 - **Bauteile:** `w480015440`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 755 |
-| Tuffstein | `tuff` | 698 |
-| Glatter Stein | `smooth_stone` | 265 |
+| Polierter Andesit | `polished_andesite` | 902 |
+| Tuffstein | `tuff` | 809 |
+| Glatter Stein | `smooth_stone` | 268 |
 | Graues Buntglas | `gray_stained_glass` | 118 |
 
 **Beschreibung**
@@ -3647,7 +3652,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 9.111 – Renaissance-Palazzo an Via dell'Ariento: Innenausbau – Teil 2/2 (Y 74–83) & Straßenschilder
 
 - **Y-Bereich:** 69 bis 83
-- **Blöcke:** 1.994
+- **Blöcke:** 1.996
 - **Bauteile:** `w480015440_innen`, `strassenschilder`
 
 **Teileliste**
@@ -3659,11 +3664,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 12 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 5 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |

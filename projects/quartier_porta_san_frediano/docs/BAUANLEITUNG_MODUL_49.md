@@ -8,34 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.398 |
-| Bauschritte | 10 |
-| Y-Bereich | 56 bis 93 |
+| Blöcke | 17.212 |
+| Bauschritte | 9 |
+| Y-Bereich | 55 bis 91 |
 | X-Ausdehnung | -2543 bis -2498 (46 Blöcke) |
 | Z-Ausdehnung | 440 bis 518 (79 Blöcke) |
-| Kleinster Schritt | 1.187 Blöcke (Schritt 49.1) |
-| Mittlerer Schritt | 1.840 Blöcke |
-| Größter Schritt | 2.096 Blöcke (Schritt 49.10) |
+| Kleinster Schritt | 1.782 Blöcke (Schritt 49.1) |
+| Mittlerer Schritt | 1.912 Blöcke |
+| Größter Schritt | 2.096 Blöcke (Schritt 49.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 7.553 | 41,1 % |
-| Terrakotta | `terracotta` | 3.899 | 21,2 % |
-| Weißer Beton | `white_concrete` | 2.025 | 11,0 % |
-| Polierter Tuffstein | `polished_tuff` | 1.385 | 7,5 % |
-| Tuffstein | `tuff` | 1.183 | 6,4 % |
-| Graues Buntglas | `gray_stained_glass` | 716 | 3,9 % |
-| Grüner Beton | `green_concrete` | 702 | 3,8 % |
-| Glatter Stein | `smooth_stone` | 444 | 2,4 % |
-| Polierter Andesit | `polished_andesite` | 318 | 1,7 % |
-| Ziegelsteine | `bricks` | 81 | 0,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 7.553 | 43,9 % |
+| Terrakotta | `terracotta` | 3.899 | 22,7 % |
+| Weißer Beton | `white_concrete` | 2.022 | 11,7 % |
+| Polierter Tuffstein | `polished_tuff` | 1.393 | 8,1 % |
+| Graues Buntglas | `gray_stained_glass` | 716 | 4,2 % |
+| Grüner Beton | `green_concrete` | 702 | 4,1 % |
+| Glatter Stein | `smooth_stone` | 444 | 2,6 % |
+| Polierter Andesit | `polished_andesite` | 318 | 1,8 % |
+| Ziegelsteine | `bricks` | 81 | 0,5 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
 | Seelaterne | `sea_lantern` | 18 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 
@@ -44,75 +42,32 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w495060161` | Haus w495060161 | 16.302 | 49.1–49.9 |
-| 2 | `w495060161_innen` | Haus w495060161: Innenausbau | 2.096 | 49.10 |
+| 1 | `w495060161` | Haus w495060161 | 15.116 | 49.1–49.8 |
+| 2 | `w495060161_innen` | Haus w495060161: Innenausbau | 2.096 | 49.9 |
 
 ## Bauschritte
 
-### Schritt 49.1 – Haus w495060161 – Teil 1/9 (Y 56–56)
+### Schritt 49.1 – Haus w495060161 – Teil 1/8 (Y 55–56)
 
-- **Y-Bereich:** 56 bis 56
-- **Blöcke:** 1.187
+- **Y-Bereich:** 55 bis 56
+- **Blöcke:** 1.782
 - **Bauteile:** `w495060161`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.183 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 49.2 – Haus w495060161 – Teil 2/9 (Y 57–58)
-
-- **Y-Bereich:** 57 bis 58
-- **Blöcke:** 1.778
-- **Bauteile:** `w495060161`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.385 |
+| Polierter Tuffstein | `polished_tuff` | 1.393 |
 | Glatter Sandstein | `smooth_sandstone` | 368 |
 | Polierter Andesit | `polished_andesite` | 17 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
 | Glatter Stein | `smooth_stone` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
-
 **Beschreibung**
 
 Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
@@ -129,10 +84,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.3 – Haus w495060161 – Teil 3/9 (Y 59–63)
+### Schritt 49.2 – Haus w495060161 – Teil 2/8 (Y 57–61)
 
-- **Y-Bereich:** 59 bis 63
-- **Blöcke:** 1.938
+- **Y-Bereich:** 57 bis 61
+- **Blöcke:** 1.935
 - **Bauteile:** `w495060161`
 
 **Teileliste**
@@ -140,7 +95,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.144 |
-| Weißer Beton | `white_concrete` | 431 |
+| Weißer Beton | `white_concrete` | 428 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
 | Grüner Beton | `green_concrete` | 144 |
 | Polierter Andesit | `polished_andesite` | 52 |
@@ -163,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.4 – Haus w495060161 – Teil 4/9 (Y 64–68)
+### Schritt 49.3 – Haus w495060161 – Teil 3/8 (Y 62–66)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.947
 - **Bauteile:** `w495060161`
 
@@ -197,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.5 – Haus w495060161 – Teil 5/9 (Y 69–73)
+### Schritt 49.4 – Haus w495060161 – Teil 4/8 (Y 67–71)
 
-- **Y-Bereich:** 69 bis 73
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.830
 - **Bauteile:** `w495060161`
 
@@ -229,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.6 – Haus w495060161 – Teil 6/9 (Y 74–78)
+### Schritt 49.5 – Haus w495060161 – Teil 5/8 (Y 72–76)
 
-- **Y-Bereich:** 74 bis 78
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.950
 - **Bauteile:** `w495060161`
 
@@ -262,9 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.7 – Haus w495060161 – Teil 7/9 (Y 79–83)
+### Schritt 49.6 – Haus w495060161 – Teil 6/8 (Y 77–81)
 
-- **Y-Bereich:** 79 bis 83
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.830
 - **Bauteile:** `w495060161`
 
@@ -294,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.8 – Haus w495060161 – Teil 8/9 (Y 84–87)
+### Schritt 49.7 – Haus w495060161 – Teil 7/8 (Y 82–85)
 
-- **Y-Bereich:** 84 bis 87
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.836
 - **Bauteile:** `w495060161`
 
@@ -326,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.9 – Haus w495060161 – Teil 9/9 (Y 88–93)
+### Schritt 49.8 – Haus w495060161 – Teil 8/8 (Y 86–91)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 86 bis 91
 - **Blöcke:** 2.006
 - **Bauteile:** `w495060161`
 
@@ -355,9 +310,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.10 – Haus w495060161: Innenausbau
+### Schritt 49.9 – Haus w495060161: Innenausbau
 
-- **Y-Bereich:** 57 bis 78
+- **Y-Bereich:** 55 bis 76
 - **Blöcke:** 2.096
 - **Bauteile:** `w495060161_innen`
 

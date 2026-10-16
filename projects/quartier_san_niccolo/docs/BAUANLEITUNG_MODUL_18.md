@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.998 |
+| Blöcke | 15.997 |
 | Bauschritte | 10 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 80 bis 116 |
 | X-Ausdehnung | 763 bis 812 (50 Blöcke) |
 | Z-Ausdehnung | 2239 bis 2303 (65 Blöcke) |
 | Kleinster Schritt | 1.217 Blöcke (Schritt 18.5) |
 | Mittlerer Schritt | 1.600 Blöcke |
-| Größter Schritt | 1.913 Blöcke (Schritt 18.6) |
+| Größter Schritt | 1.912 Blöcke (Schritt 18.6) |
 
 ## Gesamt-Stückliste
 
@@ -25,7 +25,7 @@
 | Endsteinziegel | `end_stone_bricks` | 4.094 | 25,6 % |
 | Terrakotta | `terracotta` | 4.064 | 25,4 % |
 | Polierter Tuffstein | `polished_tuff` | 1.373 | 8,6 % |
-| Polierter Andesit | `polished_andesite` | 777 | 4,9 % |
+| Polierter Andesit | `polished_andesite` | 776 | 4,9 % |
 | Graues Buntglas | `gray_stained_glass` | 389 | 2,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 190 | 1,2 % |
 | Ziegelsteine | `bricks` | 116 | 0,7 % |
@@ -51,14 +51,14 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w480707946` | Reihenhaus an Via dell'Erta Canina | 6.211 | 18.1–18.4 |
 | 2 | `w480707946_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 1.217 | 18.5 |
-| 3 | `w480707976` | Reihenhaus an Via dell'Erta Canina | 7.263 | 18.6–18.9 |
+| 3 | `w480707976` | Reihenhaus an Via dell'Erta Canina | 7.262 | 18.6–18.9 |
 | 4 | `w480707976_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 1.307 | 18.10 |
 
 ## Bauschritte
 
-### Schritt 18.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 63–69)
+### Schritt 18.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 80–86)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.505
 - **Bauteile:** `w480707946`
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 70–79)
+### Schritt 18.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 87–96)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.680
 - **Bauteile:** `w480707946`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 80–88)
+### Schritt 18.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 97–105)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 97 bis 105
 - **Blöcke:** 1.505
 - **Bauteile:** `w480707946`
 
@@ -147,9 +147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 89–99)
+### Schritt 18.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 106–116)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 106 bis 116
 - **Blöcke:** 1.521
 - **Bauteile:** `w480707946`
 
@@ -180,7 +180,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.5 – Reihenhaus an Via dell'Erta Canina: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 80 bis 103
 - **Blöcke:** 1.217
 - **Bauteile:** `w480707946_innen`
 
@@ -216,10 +216,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.6 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 63–68)
+### Schritt 18.6 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 80–85)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.913
+- **Y-Bereich:** 80 bis 85
+- **Blöcke:** 1.912
 - **Bauteile:** `w480707976`
 
 **Teileliste**
@@ -228,7 +228,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 907 |
 | Polierter Tuffstein | `polished_tuff` | 830 |
-| Polierter Andesit | `polished_andesite` | 159 |
+| Polierter Andesit | `polished_andesite` | 158 |
 | Graues Buntglas | `gray_stained_glass` | 17 |
 
 **Beschreibung**
@@ -247,9 +247,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.7 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 69–76)
+### Schritt 18.7 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 86–93)
 
-- **Y-Bereich:** 69 bis 76
+- **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.761
 - **Bauteile:** `w480707976`
 
@@ -277,9 +277,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.8 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 77–84)
+### Schritt 18.8 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 94–101)
 
-- **Y-Bereich:** 77 bis 84
+- **Y-Bereich:** 94 bis 101
 - **Blöcke:** 1.752
 - **Bauteile:** `w480707976`
 
@@ -307,9 +307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.9 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 85–93)
+### Schritt 18.9 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 102–110)
 
-- **Y-Bereich:** 85 bis 93
+- **Y-Bereich:** 102 bis 110
 - **Blöcke:** 1.837
 - **Bauteile:** `w480707976`
 
@@ -341,7 +341,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.10 – Reihenhaus an Via dell'Erta Canina: Innenausbau
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 80 bis 97
 - **Blöcke:** 1.307
 - **Bauteile:** `w480707976_innen`
 

@@ -8,28 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 23.727 |
-| Bauschritte | 14 |
-| Y-Bereich | 62 bis 105 |
+| Blöcke | 21.523 |
+| Bauschritte | 13 |
+| Y-Bereich | 62 bis 103 |
 | X-Ausdehnung | 1381 bis 1439 (59 Blöcke) |
 | Z-Ausdehnung | -375 bis -299 (77 Blöcke) |
-| Kleinster Schritt | 1.297 Blöcke (Schritt 27.1) |
-| Mittlerer Schritt | 1.695 Blöcke |
-| Größter Schritt | 2.060 Blöcke (Schritt 27.7) |
+| Kleinster Schritt | 647 Blöcke (Schritt 27.1) |
+| Mittlerer Schritt | 1.656 Blöcke |
+| Größter Schritt | 2.060 Blöcke (Schritt 27.6) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 8.697 | 36,7 % |
-| Terrakotta | `terracotta` | 5.411 | 22,8 % |
-| Tuffstein | `tuff` | 2.851 | 12,0 % |
-| Polierter Andesit | `polished_andesite` | 2.623 | 11,1 % |
-| Polierter Tuffstein | `polished_tuff` | 1.896 | 8,0 % |
-| Graues Buntglas | `gray_stained_glass` | 825 | 3,5 % |
-| Grüner Beton | `green_concrete` | 732 | 3,1 % |
-| Glatter Stein | `smooth_stone` | 492 | 2,1 % |
-| Ziegelsteine | `bricks` | 121 | 0,5 % |
+| Rosa Keramik | `pink_terracotta` | 8.697 | 40,4 % |
+| Terrakotta | `terracotta` | 5.411 | 25,1 % |
+| Polierter Andesit | `polished_andesite` | 2.623 | 12,2 % |
+| Polierter Tuffstein | `polished_tuff` | 1.896 | 8,8 % |
+| Graues Buntglas | `gray_stained_glass` | 825 | 3,8 % |
+| Grüner Beton | `green_concrete` | 732 | 3,4 % |
+| Tuffstein | `tuff` | 647 | 3,0 % |
+| Glatter Stein | `smooth_stone` | 492 | 2,3 % |
+| Ziegelsteine | `bricks` | 121 | 0,6 % |
 | Seelaterne | `sea_lantern` | 24 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
@@ -49,22 +49,22 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w113510959` | Palazzo des Cinquecento an Via della Colonna | 20.730 | 27.1–27.12 |
-| 2 | `w113510959_innen` | Palazzo des Cinquecento an Via della Colonna: Innenausbau | 2.997 | 27.13–27.14 |
+| 1 | `w113510959` | Palazzo des Cinquecento an Via della Colonna | 18.526 | 27.1–27.11 |
+| 2 | `w113510959_innen` | Palazzo des Cinquecento an Via della Colonna: Innenausbau | 2.997 | 27.12–27.13 |
 
 ## Bauschritte
 
-### Schritt 27.1 – Palazzo des Cinquecento an Via della Colonna – Teil 1/12 (Y 62–65)
+### Schritt 27.1 – Palazzo des Cinquecento an Via della Colonna – Teil 1/11 (Y 62–64)
 
-- **Y-Bereich:** 62 bis 65
-- **Blöcke:** 1.297
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 647
 - **Bauteile:** `w113510959`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.297 |
+| Tuffstein | `tuff` | 647 |
 
 **Beschreibung**
 
@@ -82,37 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Palazzo des Cinquecento an Via della Colonna – Teil 2/12 (Y 66–66)
+### Schritt 27.2 – Palazzo des Cinquecento an Via della Colonna – Teil 2/11 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.554
-- **Bauteile:** `w113510959`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.554 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 27.3 – Palazzo des Cinquecento an Via della Colonna – Teil 3/12 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.896
 - **Bauteile:** `w113510959`
 
@@ -138,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.4 – Palazzo des Cinquecento an Via della Colonna – Teil 4/12 (Y 68–71)
+### Schritt 27.3 – Palazzo des Cinquecento an Via della Colonna – Teil 3/11 (Y 66–69)
 
-- **Y-Bereich:** 68 bis 71
+- **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.770
 - **Bauteile:** `w113510959`
 
@@ -170,9 +142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.5 – Palazzo des Cinquecento an Via della Colonna – Teil 5/12 (Y 72–75)
+### Schritt 27.4 – Palazzo des Cinquecento an Via della Colonna – Teil 4/11 (Y 70–73)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 1.695
 - **Bauteile:** `w113510959`
 
@@ -202,9 +174,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.6 – Palazzo des Cinquecento an Via della Colonna – Teil 6/12 (Y 76–79)
+### Schritt 27.5 – Palazzo des Cinquecento an Via della Colonna – Teil 5/11 (Y 74–77)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.829
 - **Bauteile:** `w113510959`
 
@@ -232,9 +204,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.7 – Palazzo des Cinquecento an Via della Colonna – Teil 7/12 (Y 80–84)
+### Schritt 27.6 – Palazzo des Cinquecento an Via della Colonna – Teil 6/11 (Y 78–82)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 78 bis 82
 - **Blöcke:** 2.060
 - **Bauteile:** `w113510959`
 
@@ -263,9 +235,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.8 – Palazzo des Cinquecento an Via della Colonna – Teil 8/12 (Y 85–88)
+### Schritt 27.7 – Palazzo des Cinquecento an Via della Colonna – Teil 7/11 (Y 83–86)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.796
 - **Bauteile:** `w113510959`
 
@@ -293,9 +265,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.9 – Palazzo des Cinquecento an Via della Colonna – Teil 9/12 (Y 89–92)
+### Schritt 27.8 – Palazzo des Cinquecento an Via della Colonna – Teil 8/11 (Y 87–90)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 87 bis 90
 - **Blöcke:** 1.718
 - **Bauteile:** `w113510959`
 
@@ -324,9 +296,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.10 – Palazzo des Cinquecento an Via della Colonna – Teil 10/12 (Y 93–96)
+### Schritt 27.9 – Palazzo des Cinquecento an Via della Colonna – Teil 9/11 (Y 91–94)
 
-- **Y-Bereich:** 93 bis 96
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.867
 - **Bauteile:** `w113510959`
 
@@ -355,9 +327,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.11 – Palazzo des Cinquecento an Via della Colonna – Teil 11/12 (Y 97–98)
+### Schritt 27.10 – Palazzo des Cinquecento an Via della Colonna – Teil 10/11 (Y 95–96)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.593
 - **Bauteile:** `w113510959`
 
@@ -385,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.12 – Palazzo des Cinquecento an Via della Colonna – Teil 12/12 (Y 99–105)
+### Schritt 27.11 – Palazzo des Cinquecento an Via della Colonna – Teil 11/11 (Y 97–103)
 
-- **Y-Bereich:** 99 bis 105
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.655
 - **Bauteile:** `w113510959`
 
@@ -414,9 +386,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.13 – Palazzo des Cinquecento an Via della Colonna: Innenausbau – Teil 1/2 (Y 67–77)
+### Schritt 27.12 – Palazzo des Cinquecento an Via della Colonna: Innenausbau – Teil 1/2 (Y 65–75)
 
-- **Y-Bereich:** 67 bis 77
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.501
 - **Bauteile:** `w113510959_innen`
 
@@ -452,9 +424,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 27.14 – Palazzo des Cinquecento an Via della Colonna: Innenausbau – Teil 2/2 (Y 78–88)
+### Schritt 27.13 – Palazzo des Cinquecento an Via della Colonna: Innenausbau – Teil 2/2 (Y 76–86)
 
-- **Y-Bereich:** 78 bis 88
+- **Y-Bereich:** 76 bis 86
 - **Blöcke:** 1.496
 - **Bauteile:** `w113510959_innen`
 

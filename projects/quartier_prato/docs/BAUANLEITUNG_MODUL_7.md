@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 27.127 |
 | Bauschritte | 17 |
-| Y-Bereich | 58 bis 99 |
+| Y-Bereich | 57 bis 98 |
 | X-Ausdehnung | -2932 bis -2844 (89 Blöcke) |
 | Z-Ausdehnung | -353 bis -278 (76 Blöcke) |
 | Kleinster Schritt | 1.134 Blöcke (Schritt 7.12) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 7.1 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 1/13 (Y 58–58)
+### Schritt 7.1 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 1/13 (Y 57–57)
 
-- **Y-Bereich:** 58 bis 58
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.505
 - **Bauteile:** `w1424443617`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 2/13 (Y 58–59)
+### Schritt 7.2 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 2/13 (Y 57–58)
 
-- **Y-Bereich:** 58 bis 59
+- **Y-Bereich:** 57 bis 58
 - **Blöcke:** 1.999
 - **Bauteile:** `w1424443617`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 3/13 (Y 60–62)
+### Schritt 7.3 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 3/13 (Y 59–61)
 
-- **Y-Bereich:** 60 bis 62
+- **Y-Bereich:** 59 bis 61
 - **Blöcke:** 1.554
 - **Bauteile:** `w1424443617`
 
@@ -147,9 +147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 4/13 (Y 63–66)
+### Schritt 7.4 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 4/13 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.838
 - **Bauteile:** `w1424443617`
 
@@ -181,9 +181,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 5/13 (Y 67–69)
+### Schritt 7.5 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 5/13 (Y 66–68)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.482
 - **Bauteile:** `w1424443617`
 
@@ -211,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 6/13 (Y 70–73)
+### Schritt 7.6 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 6/13 (Y 69–72)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.835
 - **Bauteile:** `w1424443617`
 
@@ -243,9 +243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 7/13 (Y 74–76)
+### Schritt 7.7 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 7/13 (Y 73–75)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.388
 - **Bauteile:** `w1424443617`
 
@@ -275,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 8/13 (Y 77–80)
+### Schritt 7.8 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 8/13 (Y 76–79)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.976
 - **Bauteile:** `w1424443617`
 
@@ -306,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 9/13 (Y 81–84)
+### Schritt 7.9 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 9/13 (Y 80–83)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.788
 - **Bauteile:** `w1424443617`
 
@@ -338,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 10/13 (Y 85–87)
+### Schritt 7.10 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 10/13 (Y 84–86)
 
-- **Y-Bereich:** 85 bis 87
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.586
 - **Bauteile:** `w1424443617`
 
@@ -371,9 +371,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 11/13 (Y 88–89)
+### Schritt 7.11 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 11/13 (Y 87–88)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.943
 - **Bauteile:** `w1424443617`
 
@@ -402,9 +402,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 12/13 (Y 90–91)
+### Schritt 7.12 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 12/13 (Y 89–90)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.134
 - **Bauteile:** `w1424443617`
 
@@ -430,9 +430,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.13 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 13/13 (Y 92–99)
+### Schritt 7.13 – Palazzo des Cinquecento an Piazza Maria Callas – Teil 13/13 (Y 91–98)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.935
 - **Bauteile:** `w1424443617`
 
@@ -459,9 +459,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.14 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 1/4 (Y 58–68)
+### Schritt 7.14 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 1/4 (Y 57–67)
 
-- **Y-Bereich:** 58 bis 68
+- **Y-Bereich:** 57 bis 67
 - **Blöcke:** 1.317
 - **Bauteile:** `w1424443617_innen`
 
@@ -497,9 +497,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.15 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 2/4 (Y 68–68)
+### Schritt 7.15 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 2/4 (Y 67–67)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.270
 - **Bauteile:** `w1424443617_innen`
 
@@ -526,9 +526,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.16 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 3/4 (Y 69–78)
+### Schritt 7.16 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 3/4 (Y 68–77)
 
-- **Y-Bereich:** 69 bis 78
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.304
 - **Bauteile:** `w1424443617_innen`
 
@@ -564,9 +564,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.17 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 4/4 (Y 78–78) & Straßenschilder
+### Schritt 7.17 – Palazzo des Cinquecento an Piazza Maria Callas: Innenausbau – Teil 4/4 (Y 77–77) & Straßenschilder
 
-- **Y-Bereich:** 65 bis 78
+- **Y-Bereich:** 64 bis 77
 - **Blöcke:** 1.273
 - **Bauteile:** `w1424443617_innen`, `strassenschilder`
 

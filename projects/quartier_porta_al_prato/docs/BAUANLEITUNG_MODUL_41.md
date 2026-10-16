@@ -8,93 +8,84 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 99.563 |
-| Bauschritte | 61 |
-| Y-Bereich | 55 bis 105 |
+| Blöcke | 76.053 |
+| Bauschritte | 46 |
+| Y-Bereich | 55 bis 101 |
 | X-Ausdehnung | -1969 bis -1871 (99 Blöcke) |
 | Z-Ausdehnung | -1381 bis -1188 (194 Blöcke) |
-| Kleinster Schritt | 1.087 Blöcke (Schritt 41.25) |
-| Mittlerer Schritt | 1.632 Blöcke |
-| Größter Schritt | 2.093 Blöcke (Schritt 41.18) |
+| Kleinster Schritt | 744 Blöcke (Schritt 41.20) |
+| Mittlerer Schritt | 1.653 Blöcke |
+| Größter Schritt | 2.028 Blöcke (Schritt 41.27) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 28.510 | 28,6 % |
-| Terrakotta | `terracotta` | 21.160 | 21,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 13.801 | 13,9 % |
-| Polierter Tuffstein | `polished_tuff` | 6.734 | 6,8 % |
-| Orange Keramik | `orange_terracotta` | 5.838 | 5,9 % |
-| Glatter Stein | `smooth_stone` | 5.265 | 5,3 % |
-| Weißer Beton | `white_concrete` | 5.262 | 5,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 4.226 | 4,2 % |
-| Graues Buntglas | `gray_stained_glass` | 2.920 | 2,9 % |
-| Polierter Andesit | `polished_andesite` | 2.370 | 2,4 % |
-| Grüner Beton | `green_concrete` | 1.474 | 1,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 945 | 0,9 % |
-| Ziegelsteine | `bricks` | 371 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 138 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 109 | 0,1 % |
+| Terrakotta | `terracotta` | 21.162 | 27,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 13.801 | 18,1 % |
+| Polierter Tuffstein | `polished_tuff` | 6.903 | 9,1 % |
+| Orange Keramik | `orange_terracotta` | 5.838 | 7,7 % |
+| Glatter Stein | `smooth_stone` | 5.248 | 6,9 % |
+| Weißer Beton | `white_concrete` | 5.156 | 6,8 % |
+| Tuffstein | `tuff` | 5.074 | 6,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.277 | 5,6 % |
+| Graues Buntglas | `gray_stained_glass` | 2.920 | 3,8 % |
+| Polierter Andesit | `polished_andesite` | 2.370 | 3,1 % |
+| Grüner Beton | `green_concrete` | 1.474 | 1,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 945 | 1,2 % |
+| Ziegelsteine | `bricks` | 371 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 138 | 0,2 % |
 | Seelaterne | `sea_lantern` | 109 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 46 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 31 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 30 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 30 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 29 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 29 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,0 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 188 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 112 |
 | Steintreppe | `stone_stairs` | 80 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443083474` | Haus w443083474 | 9.228 | 41.1–41.5 |
+| 1 | `w443083474` | Haus w443083474 | 8.969 | 41.1–41.5 |
 | 2 | `w443083474_innen` | Haus w443083474: Innenausbau | 1.956 | 41.6 |
-| 3 | `w443083488` | Renaissance-Palazzo an Via Luigi Alamanni | 26.016 | 41.7–41.22 |
-| 4 | `w443083488_innen` | Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau | 2.724 | 41.23–41.24 |
-| 5 | `w443083506` | Palazzo des Cinquecento an Via Luigi Alamanni | 45.209 | 41.25–41.52 |
-| 6 | `w443083506_innen` | Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau | 6.288 | 41.53–41.56 |
-| 7 | `w443083520` | Haus w443083520 | 6.901 | 41.57–41.60 |
-| 8 | `w443083520_innen` | Haus w443083520: Innenausbau | 1.241 | 41.61 |
+| 3 | `w443083488` | Renaissance-Palazzo an Via Luigi Alamanni | 16.268 | 41.7–41.15 |
+| 4 | `w443083488_innen` | Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau | 2.724 | 41.16–41.17 |
+| 5 | `w443083506` | Palazzo des Cinquecento an Via Luigi Alamanni | 31.657 | 41.18–41.37 |
+| 6 | `w443083506_innen` | Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau | 6.288 | 41.38–41.41 |
+| 7 | `w443083520` | Haus w443083520 | 6.956 | 41.42–41.45 |
+| 8 | `w443083520_innen` | Haus w443083520: Innenausbau | 1.235 | 41.46 |
 
 ## Bauschritte
 
-### Schritt 41.1 – Haus w443083474 – Teil 1/5 (Y 64–69)
+### Schritt 41.1 – Haus w443083474 – Teil 1/5 (Y 64–68)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 1.808
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.765
 - **Bauteile:** `w443083474`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 845 |
-| Orange Keramik | `orange_terracotta` | 650 |
-| Tuffstein | `tuff` | 258 |
-| Weißer Beton | `white_concrete` | 40 |
-| Glatter Stein | `smooth_stone` | 9 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 850 |
+| Orange Keramik | `orange_terracotta` | 819 |
+| Weißer Beton | `white_concrete` | 60 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
+| Glatter Stein | `smooth_stone` | 12 |
+| Grüner Beton | `green_concrete` | 4 |
 
 **Beschreibung**
 
@@ -112,20 +103,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.2 – Haus w443083474 – Teil 2/5 (Y 70–77)
+### Schritt 41.2 – Haus w443083474 – Teil 2/5 (Y 69–76)
 
-- **Y-Bereich:** 70 bis 77
-- **Blöcke:** 1.836
+- **Y-Bereich:** 69 bis 76
+- **Blöcke:** 1.843
 - **Bauteile:** `w443083474`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.557 |
-| Weißer Beton | `white_concrete` | 168 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Glatter Stein | `smooth_stone` | 18 |
+| Orange Keramik | `orange_terracotta` | 1.562 |
+| Weißer Beton | `white_concrete` | 171 |
+| Graues Buntglas | `gray_stained_glass` | 83 |
+| Glatter Stein | `smooth_stone` | 15 |
 | Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
@@ -144,9 +135,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.3 – Haus w443083474 – Teil 3/5 (Y 78–85)
+### Schritt 41.3 – Haus w443083474 – Teil 3/5 (Y 77–84)
 
-- **Y-Bereich:** 78 bis 85
+- **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.860
 - **Bauteile:** `w443083474`
 
@@ -175,20 +166,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.4 – Haus w443083474 – Teil 4/5 (Y 86–93)
+### Schritt 41.4 – Haus w443083474 – Teil 4/5 (Y 85–91)
 
-- **Y-Bereich:** 86 bis 93
-- **Blöcke:** 1.860
+- **Y-Bereich:** 85 bis 91
+- **Blöcke:** 1.637
 - **Bauteile:** `w443083474`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.508 |
-| Weißer Beton | `white_concrete` | 248 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
-| Grüner Beton | `green_concrete` | 16 |
+| Orange Keramik | `orange_terracotta` | 1.334 |
+| Weißer Beton | `white_concrete` | 225 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 12 |
 
 **Beschreibung**
 
@@ -206,9 +197,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.5 – Haus w443083474 – Teil 5/5 (Y 94–101)
+### Schritt 41.5 – Haus w443083474 – Teil 5/5 (Y 92–99)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 92 bis 99
 - **Blöcke:** 1.864
 - **Bauteile:** `w443083474`
 
@@ -239,7 +230,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 41.6 – Haus w443083474: Innenausbau
 
-- **Y-Bereich:** 66 bis 90
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.956
 - **Bauteile:** `w443083474_innen`
 
@@ -279,100 +270,25 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.7 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 1/16 (Y 55–58)
+### Schritt 41.7 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 1/9 (Y 55–56)
 
-- **Y-Bereich:** 55 bis 58
-- **Blöcke:** 1.586
+- **Y-Bereich:** 55 bis 56
+- **Blöcke:** 1.739
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.545 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 30 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 41 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.8 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 2/16 (Y 59–60)
-
-- **Y-Bereich:** 59 bis 60
-- **Blöcke:** 1.823
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.792 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 19 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 8 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 31 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.9 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 3/16 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.104
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.089 |
+| Polierter Tuffstein | `polished_tuff` | 1.680 |
+| Tuffstein | `tuff` | 49 |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 15 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 **Beschreibung**
 
@@ -390,209 +306,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.10 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 4/16 (Y 62–62)
+### Schritt 41.8 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 2/9 (Y 57–62)
 
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.215
+- **Y-Bereich:** 57 bis 62
+- **Blöcke:** 1.882
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.199 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 4 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 16 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.11 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 5/16 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.321
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.304 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 17 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.12 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 6/16 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.427
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.408 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.13 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 7/16 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.477
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.458 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.14 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 8/16 (Y 66–67)
-
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.862
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.516 |
-| Tuffstein | `tuff` | 230 |
-| Tuffsteinziegel | `tuff_bricks` | 81 |
-| Glatter Stein | `smooth_stone` | 14 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 5 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 4 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 19 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.15 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 9/16 (Y 68–73)
-
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.897
-- **Bauteile:** `w443083488`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.061 |
-| Glatter Stein | `smooth_stone` | 404 |
-| Tuffsteinziegel | `tuff_bricks` | 227 |
-| Graues Buntglas | `gray_stained_glass` | 147 |
+| Tuffstein | `tuff` | 1.125 |
+| Glatter Stein | `smooth_stone` | 334 |
+| Tuffsteinziegel | `tuff_bricks` | 267 |
+| Graues Buntglas | `gray_stained_glass` | 98 |
 | Polierter Andesit | `polished_andesite` | 58 |
 
 **Beschreibung**
@@ -611,21 +338,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.16 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 10/16 (Y 74–78)
+### Schritt 41.9 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 3/9 (Y 63–67)
 
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.937
+- **Y-Bereich:** 63 bis 67
+- **Blöcke:** 1.886
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 987 |
-| Glatter Stein | `smooth_stone` | 532 |
-| Tuffsteinziegel | `tuff_bricks` | 243 |
-| Polierter Andesit | `polished_andesite` | 126 |
-| Graues Buntglas | `gray_stained_glass` | 49 |
+| Tuffstein | `tuff` | 1.003 |
+| Glatter Stein | `smooth_stone` | 598 |
+| Tuffsteinziegel | `tuff_bricks` | 178 |
+| Graues Buntglas | `gray_stained_glass` | 98 |
+| Polierter Andesit | `polished_andesite` | 9 |
 
 **Beschreibung**
 
@@ -643,21 +370,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.17 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 11/16 (Y 79–83)
+### Schritt 41.10 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 4/9 (Y 68–72)
 
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.858
+- **Y-Bereich:** 68 bis 72
+- **Blöcke:** 1.895
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 682 |
-| Glatter Stein | `smooth_stone` | 405 |
-| Polierter Andesit | `polished_andesite` | 299 |
-| Tuffsteinziegel | `tuff_bricks` | 264 |
-| Graues Buntglas | `gray_stained_glass` | 208 |
+| Tuffstein | `tuff` | 719 |
+| Polierter Andesit | `polished_andesite` | 357 |
+| Glatter Stein | `smooth_stone` | 341 |
+| Tuffsteinziegel | `tuff_bricks` | 322 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
 
 **Beschreibung**
 
@@ -675,21 +402,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.18 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 12/16 (Y 84–88)
+### Schritt 41.11 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 5/9 (Y 73–76)
 
-- **Y-Bereich:** 84 bis 88
-- **Blöcke:** 2.093
+- **Y-Bereich:** 73 bis 76
+- **Blöcke:** 1.626
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 793 |
-| Glatter Stein | `smooth_stone` | 687 |
-| Polierter Andesit | `polished_andesite` | 445 |
-| Tuffsteinziegel | `tuff_bricks` | 116 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Glatter Stein | `smooth_stone` | 596 |
+| Tuffstein | `tuff` | 590 |
+| Polierter Andesit | `polished_andesite` | 172 |
+| Tuffsteinziegel | `tuff_bricks` | 164 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
 
 **Beschreibung**
 
@@ -707,20 +434,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.19 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 13/16 (Y 89–92)
+### Schritt 41.12 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 6/9 (Y 77–81)
 
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.428
+- **Y-Bereich:** 77 bis 81
+- **Blöcke:** 1.895
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 516 |
-| Polierter Andesit | `polished_andesite` | 454 |
-| Glatter Stein | `smooth_stone` | 250 |
-| Graues Buntglas | `gray_stained_glass` | 208 |
+| Tuffstein | `tuff` | 719 |
+| Polierter Andesit | `polished_andesite` | 670 |
+| Glatter Stein | `smooth_stone` | 350 |
+| Graues Buntglas | `gray_stained_glass` | 156 |
 
 **Beschreibung**
 
@@ -738,20 +465,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.20 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 14/16 (Y 93–95)
+### Schritt 41.13 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 7/9 (Y 82–85)
 
-- **Y-Bereich:** 93 bis 95
-- **Blöcke:** 1.568
+- **Y-Bereich:** 82 bis 85
+- **Blöcke:** 1.925
 - **Bauteile:** `w443083488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 612 |
-| Tuffstein | `tuff` | 461 |
-| Polierter Andesit | `polished_andesite` | 443 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Glatter Stein | `smooth_stone` | 670 |
+| Tuffstein | `tuff` | 590 |
+| Polierter Andesit | `polished_andesite` | 561 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
 
 **Beschreibung**
 
@@ -769,9 +496,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.21 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 15/16 (Y 96–97)
+### Schritt 41.14 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 8/9 (Y 86–87)
 
-- **Y-Bereich:** 96 bis 97
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.901
 - **Bauteile:** `w443083488`
 
@@ -800,9 +527,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.22 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 16/16 (Y 98–105)
+### Schritt 41.15 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 9/9 (Y 88–95)
 
-- **Y-Bereich:** 98 bis 105
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.519
 - **Bauteile:** `w443083488`
 
@@ -829,9 +556,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.23 – Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau – Teil 1/2 (Y 66–77)
+### Schritt 41.16 – Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau – Teil 1/2 (Y 56–67)
 
-- **Y-Bereich:** 66 bis 77
+- **Y-Bereich:** 56 bis 67
 - **Blöcke:** 1.363
 - **Bauteile:** `w443083488_innen`
 
@@ -871,9 +598,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.24 – Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau – Teil 2/2 (Y 78–87)
+### Schritt 41.17 – Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau – Teil 2/2 (Y 68–77)
 
-- **Y-Bereich:** 78 bis 87
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.361
 - **Bauteile:** `w443083488_innen`
 
@@ -915,261 +642,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.25 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 1/28 (Y 58–59)
+### Schritt 41.18 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 1/20 (Y 57–57)
 
-- **Y-Bereich:** 58 bis 59
-- **Blöcke:** 1.087
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.087 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.26 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 2/28 (Y 60–60)
-
-- **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.416
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.416 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.27 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 3/28 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.982
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.982 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.28 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 4/28 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.239
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.239 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.29 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 5/28 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.274
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.274 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.30 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 6/28 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.505
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.505 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.31 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 7/28 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.511
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.511 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.32 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 8/28 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.701
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.701 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.33 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 9/28 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.733
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.733 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.34 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 10/28 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.930
 - **Bauteile:** `w443083506`
 
@@ -1195,9 +670,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.35 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 11/28 (Y 65–65)
+### Schritt 41.19 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 2/20 (Y 57–57)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.896
 - **Bauteile:** `w443083506`
 
@@ -1223,18 +698,49 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.36 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 12/28 (Y 66–67)
+### Schritt 41.20 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 3/20 (Y 58–58)
 
-- **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.546
+- **Y-Bereich:** 58 bis 58
+- **Blöcke:** 744
 - **Bauteile:** `w443083506`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.369 |
-| Weißer Beton | `white_concrete` | 146 |
+| Glatter Sandstein | `smooth_sandstone` | 723 |
+| Polierter Andesit | `polished_andesite` | 16 |
+| Glatter Stein | `smooth_stone` | 3 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.21 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 4/20 (Y 59–60)
+
+- **Y-Bereich:** 59 bis 60
+- **Blöcke:** 1.569
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.157 |
+| Weißer Beton | `white_concrete` | 381 |
 | Polierter Andesit | `polished_andesite` | 23 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
@@ -1255,57 +761,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.37 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 13/28 (Y 68–69)
+### Schritt 41.22 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 5/20 (Y 61–63)
 
-- **Y-Bereich:** 68 bis 69
-- **Blöcke:** 1.546
+- **Y-Bereich:** 61 bis 63
+- **Blöcke:** 2.010
 - **Bauteile:** `w443083506`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 865 |
-| Weißer Beton | `white_concrete` | 432 |
-| Graues Buntglas | `gray_stained_glass` | 118 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 23 |
-| Glatter Stein | `smooth_stone` | 6 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.38 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 14/28 (Y 70–72)
-
-- **Y-Bereich:** 70 bis 72
-- **Blöcke:** 2.012
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.032 |
+| Glatter Sandstein | `smooth_sandstone` | 1.042 |
 | Graues Buntglas | `gray_stained_glass` | 354 |
 | Grüner Beton | `green_concrete` | 300 |
 | Weißer Beton | `white_concrete` | 273 |
-| Polierter Andesit | `polished_andesite` | 39 |
-| Glatter Stein | `smooth_stone` | 10 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Polierter Andesit | `polished_andesite` | 30 |
+| Glatter Stein | `smooth_stone` | 9 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
 
 **Beschreibung**
 
@@ -1323,9 +795,43 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.39 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 15/28 (Y 73–74)
+### Schritt 41.23 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 6/20 (Y 64–65)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 64 bis 65
+- **Blöcke:** 1.425
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 870 |
+| Weißer Beton | `white_concrete` | 300 |
+| Graues Buntglas | `gray_stained_glass` | 118 |
+| Grüner Beton | `green_concrete` | 100 |
+| Polierter Andesit | `polished_andesite` | 25 |
+| Glatter Stein | `smooth_stone` | 10 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.24 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 7/20 (Y 66–67)
+
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.506
 - **Bauteile:** `w443083506`
 
@@ -1333,10 +839,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.257 |
-| Weißer Beton | `white_concrete` | 209 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Glatter Sandstein | `smooth_sandstone` | 1.039 |
+| Glatter Stein | `smooth_stone` | 442 |
+| Polierter Andesit | `polished_andesite` | 19 |
 | Tuffsteinziegel | `tuff_bricks` | 6 |
 
 **Beschreibung**
@@ -1355,166 +860,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.40 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 16/28 (Y 75–76)
+### Schritt 41.25 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 8/20 (Y 68–69)
 
-- **Y-Bereich:** 75 bis 76
-- **Blöcke:** 1.506
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.048 |
-| Glatter Stein | `smooth_stone` | 442 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.41 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 17/28 (Y 77–78)
-
-- **Y-Bereich:** 77 bis 78
-- **Blöcke:** 1.429
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 875 |
-| Weißer Beton | `white_concrete` | 308 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 103 |
-| Polierter Andesit | `polished_andesite` | 21 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.42 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 18/28 (Y 79–81)
-
-- **Y-Bereich:** 79 bis 81
-- **Blöcke:** 2.028
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.048 |
-| Graues Buntglas | `gray_stained_glass` | 366 |
-| Grüner Beton | `green_concrete` | 309 |
-| Weißer Beton | `white_concrete` | 279 |
-| Polierter Andesit | `polished_andesite` | 26 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.43 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 19/28 (Y 82–83)
-
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.429
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 875 |
-| Weißer Beton | `white_concrete` | 308 |
-| Graues Buntglas | `gray_stained_glass` | 122 |
-| Grüner Beton | `green_concrete` | 103 |
-| Polierter Andesit | `polished_andesite` | 21 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.44 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 20/28 (Y 84–85)
-
-- **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.506
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 730 |
-| Glatter Stein | `smooth_stone` | 442 |
-| Weißer Beton | `white_concrete` | 318 |
-| Polierter Andesit | `polished_andesite` | 16 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.45 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 21/28 (Y 86–87)
-
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.506
 - **Bauteile:** `w443083506`
 
@@ -1542,41 +890,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.46 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 22/28 (Y 88–90)
+### Schritt 41.26 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 9/20 (Y 70–71)
 
-- **Y-Bereich:** 88 bis 90
-- **Blöcke:** 2.028
-- **Bauteile:** `w443083506`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.037 |
-| Graues Buntglas | `gray_stained_glass` | 366 |
-| Grüner Beton | `green_concrete` | 309 |
-| Weißer Beton | `white_concrete` | 279 |
-| Polierter Andesit | `polished_andesite` | 37 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 41.47 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 23/28 (Y 91–92)
-
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.352
 - **Bauteile:** `w443083506`
 
@@ -1606,10 +922,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.48 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 24/28 (Y 93–94)
+### Schritt 41.27 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 10/20 (Y 72–74)
 
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.763
+- **Y-Bereich:** 72 bis 74
+- **Blöcke:** 2.028
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.037 |
+| Graues Buntglas | `gray_stained_glass` | 366 |
+| Grüner Beton | `green_concrete` | 309 |
+| Weißer Beton | `white_concrete` | 279 |
+| Polierter Andesit | `polished_andesite` | 37 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.28 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 11/20 (Y 75–76)
+
+- **Y-Bereich:** 75 bis 76
+- **Blöcke:** 1.506
 - **Bauteile:** `w443083506`
 
 **Teileliste**
@@ -1618,7 +966,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 952 |
 | Weißer Beton | `white_concrete` | 533 |
-| Glatter Stein | `smooth_stone` | 257 |
 | Polierter Andesit | `polished_andesite` | 21 |
 
 **Beschreibung**
@@ -1637,17 +984,174 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.49 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 25/28 (Y 95–95)
+### Schritt 41.29 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 12/20 (Y 77–78)
 
-- **Y-Bereich:** 95 bis 95
-- **Blöcke:** 1.334
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.506
 - **Bauteile:** `w443083506`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 748 |
+| Glatter Sandstein | `smooth_sandstone` | 1.048 |
+| Glatter Stein | `smooth_stone` | 442 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.30 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 13/20 (Y 79–80)
+
+- **Y-Bereich:** 79 bis 80
+- **Blöcke:** 1.429
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 875 |
+| Weißer Beton | `white_concrete` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 122 |
+| Grüner Beton | `green_concrete` | 103 |
+| Polierter Andesit | `polished_andesite` | 21 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.31 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 14/20 (Y 81–83)
+
+- **Y-Bereich:** 81 bis 83
+- **Blöcke:** 2.028
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.048 |
+| Graues Buntglas | `gray_stained_glass` | 366 |
+| Grüner Beton | `green_concrete` | 309 |
+| Weißer Beton | `white_concrete` | 279 |
+| Polierter Andesit | `polished_andesite` | 26 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.32 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 15/20 (Y 84–85)
+
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.429
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 875 |
+| Weißer Beton | `white_concrete` | 308 |
+| Graues Buntglas | `gray_stained_glass` | 122 |
+| Grüner Beton | `green_concrete` | 103 |
+| Polierter Andesit | `polished_andesite` | 21 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.33 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 16/20 (Y 86–86)
+
+- **Y-Bereich:** 86 bis 86
+- **Blöcke:** 1.008
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 419 |
+| Weißer Beton | `white_concrete` | 318 |
+| Glatter Stein | `smooth_stone` | 255 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 41.34 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 17/20 (Y 87–87)
+
+- **Y-Bereich:** 87 bis 87
+- **Blöcke:** 1.337
+- **Bauteile:** `w443083506`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 751 |
 | Glatter Stein | `smooth_stone` | 581 |
 | Polierter Andesit | `polished_andesite` | 5 |
 
@@ -1667,17 +1171,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.50 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 26/28 (Y 96–96)
+### Schritt 41.35 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 18/20 (Y 88–88)
 
-- **Y-Bereich:** 96 bis 96
-- **Blöcke:** 1.724
+- **Y-Bereich:** 88 bis 88
+- **Blöcke:** 1.728
 - **Bauteile:** `w443083506`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.724 |
+| Terrakotta | `terracotta` | 1.728 |
 
 **Beschreibung**
 
@@ -1695,9 +1199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.51 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 27/28 (Y 97–98)
+### Schritt 41.36 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 19/20 (Y 89–90)
 
-- **Y-Bereich:** 97 bis 98
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.945
 - **Bauteile:** `w443083506`
 
@@ -1723,9 +1227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.52 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 28/28 (Y 99–103)
+### Schritt 41.37 – Palazzo des Cinquecento an Via Luigi Alamanni – Teil 20/20 (Y 91–95)
 
-- **Y-Bereich:** 99 bis 103
+- **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.775
 - **Bauteile:** `w443083506`
 
@@ -1752,9 +1256,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.53 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 1/4 (Y 65–75)
+### Schritt 41.38 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 1/4 (Y 57–67)
 
-- **Y-Bereich:** 65 bis 75
+- **Y-Bereich:** 57 bis 67
 - **Blöcke:** 1.591
 - **Bauteile:** `w443083506_innen`
 
@@ -1790,9 +1294,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.54 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 2/4 (Y 75–75)
+### Schritt 41.39 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 2/4 (Y 67–67)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.556
 - **Bauteile:** `w443083506_innen`
 
@@ -1826,9 +1330,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.55 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 3/4 (Y 76–85)
+### Schritt 41.40 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 3/4 (Y 68–77)
 
-- **Y-Bereich:** 76 bis 85
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.579
 - **Bauteile:** `w443083506_innen`
 
@@ -1866,9 +1370,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.56 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 4/4 (Y 85–86)
+### Schritt 41.41 – Palazzo des Cinquecento an Via Luigi Alamanni: Innenausbau – Teil 4/4 (Y 77–78)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.562
 - **Bauteile:** `w443083506_innen`
 
@@ -1904,17 +1408,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.57 – Haus w443083520 – Teil 1/4 (Y 58–71)
+### Schritt 41.42 – Haus w443083520 – Teil 1/4 (Y 58–71)
 
 - **Y-Bereich:** 58 bis 71
-- **Blöcke:** 1.692
+- **Blöcke:** 1.673
 - **Bauteile:** `w443083520`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 823 |
+| Hellgrauer Beton | `light_gray_concrete` | 804 |
 | Polierter Tuffstein | `polished_tuff` | 547 |
 | Weißer Beton | `white_concrete` | 129 |
 | Tuffstein | `tuff` | 113 |
@@ -1944,7 +1448,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.58 – Haus w443083520 – Teil 2/4 (Y 72–81)
+### Schritt 41.43 – Haus w443083520 – Teil 2/4 (Y 72–81)
 
 - **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.794
@@ -1975,19 +1479,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.59 – Haus w443083520 – Teil 3/4 (Y 82–90)
+### Schritt 41.44 – Haus w443083520 – Teil 3/4 (Y 82–91)
 
-- **Y-Bereich:** 82 bis 90
-- **Blöcke:** 1.614
+- **Y-Bereich:** 82 bis 91
+- **Blöcke:** 1.810
 - **Bauteile:** `w443083520`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.218 |
-| Weißer Beton | `white_concrete` | 324 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.361 |
+| Weißer Beton | `white_concrete` | 353 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
 
 **Beschreibung**
 
@@ -2005,21 +1509,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.60 – Haus w443083520 – Teil 4/4 (Y 91–101)
+### Schritt 41.45 – Haus w443083520 – Teil 4/4 (Y 92–101)
 
-- **Y-Bereich:** 91 bis 101
-- **Blöcke:** 1.801
+- **Y-Bereich:** 92 bis 101
+- **Blöcke:** 1.679
 - **Bauteile:** `w443083520`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 792 |
-| Terrakotta | `terracotta` | 745 |
-| Weißer Beton | `white_concrete` | 189 |
-| Graues Buntglas | `gray_stained_glass` | 48 |
+| Terrakotta | `terracotta` | 749 |
+| Hellgrauer Beton | `light_gray_concrete` | 719 |
+| Weißer Beton | `white_concrete` | 160 |
 | Ziegelsteine | `bricks` | 27 |
+| Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**
 
@@ -2037,17 +1541,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.61 – Haus w443083520: Innenausbau
+### Schritt 41.46 – Haus w443083520: Innenausbau
 
 - **Y-Bereich:** 65 bis 89
-- **Blöcke:** 1.241
+- **Blöcke:** 1.235
 - **Bauteile:** `w443083520_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.092 |
+| Terrakotta | `terracotta` | 1.086 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |

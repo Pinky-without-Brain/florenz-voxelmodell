@@ -8,25 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 5.909 |
+| Blöcke | 5.686 |
 | Bauschritte | 4 |
-| Y-Bereich | 162 bis 199 |
+| Y-Bereich | 162 bis 198 |
 | X-Ausdehnung | 1654 bis 1680 (27 Blöcke) |
 | Z-Ausdehnung | 2436 bis 2464 (29 Blöcke) |
 | Kleinster Schritt | 619 Blöcke (Schritt 44.4) |
-| Mittlerer Schritt | 1.477 Blöcke |
-| Größter Schritt | 1.808 Blöcke (Schritt 44.3) |
+| Mittlerer Schritt | 1.422 Blöcke |
+| Größter Schritt | 1.730 Blöcke (Schritt 44.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 3.575 | 60,5 % |
-| Terrakotta | `terracotta` | 922 | 15,6 % |
-| Glatter Stein | `smooth_stone` | 616 | 10,4 % |
-| Polierter Tuffstein | `polished_tuff` | 319 | 5,4 % |
-| Tuffstein | `tuff` | 223 | 3,8 % |
-| Graues Buntglas | `gray_stained_glass` | 113 | 1,9 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.575 | 62,9 % |
+| Terrakotta | `terracotta` | 922 | 16,2 % |
+| Glatter Stein | `smooth_stone` | 616 | 10,8 % |
+| Polierter Tuffstein | `polished_tuff` | 319 | 5,6 % |
+| Graues Buntglas | `gray_stained_glass` | 113 | 2,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,4 % |
@@ -44,7 +43,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397757065` | Haus w397757065 | 5.290 | 44.1–44.3 |
+| 1 | `w397757065` | Haus w397757065 | 5.067 | 44.1–44.3 |
 | 2 | `w397757065_innen` | Haus w397757065: Innenausbau | 619 | 44.4 |
 
 ## Bauschritte
@@ -52,17 +51,16 @@
 ### Schritt 44.1 – Haus w397757065 – Teil 1/3 (Y 162–172)
 
 - **Y-Bereich:** 162 bis 172
-- **Blöcke:** 1.800
+- **Blöcke:** 1.730
 - **Bauteile:** `w397757065`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.093 |
+| Glatter Sandstein | `smooth_sandstone` | 1.205 |
 | Polierter Tuffstein | `polished_tuff` | 319 |
-| Tuffstein | `tuff` | 223 |
-| Glatter Stein | `smooth_stone` | 144 |
+| Glatter Stein | `smooth_stone` | 185 |
 | Graues Buntglas | `gray_stained_glass` | 14 |
 | Polierter Andesit | `polished_andesite` | 7 |
 
@@ -85,7 +83,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 44.2 – Haus w397757065 – Teil 2/3 (Y 173–184)
 
 - **Y-Bereich:** 173 bis 184
-- **Blöcke:** 1.682
+- **Blöcke:** 1.673
 - **Bauteile:** `w397757065`
 
 **Teileliste**
@@ -93,7 +91,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.312 |
-| Glatter Stein | `smooth_stone` | 298 |
+| Glatter Stein | `smooth_stone` | 289 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 
 **Beschreibung**
@@ -112,19 +110,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Haus w397757065 – Teil 3/3 (Y 185–199)
+### Schritt 44.3 – Haus w397757065 – Teil 3/3 (Y 185–198)
 
-- **Y-Bereich:** 185 bis 199
-- **Blöcke:** 1.808
+- **Y-Bereich:** 185 bis 198
+- **Blöcke:** 1.664
 - **Bauteile:** `w397757065`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.170 |
+| Glatter Sandstein | `smooth_sandstone` | 1.058 |
 | Terrakotta | `terracotta` | 421 |
-| Glatter Stein | `smooth_stone` | 174 |
+| Glatter Stein | `smooth_stone` | 142 |
 | Graues Buntglas | `gray_stained_glass` | 27 |
 | Ziegelsteine | `bricks` | 16 |
 
@@ -146,7 +144,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 44.4 – Haus w397757065: Innenausbau
 
-- **Y-Bereich:** 163 bis 186
+- **Y-Bereich:** 162 bis 185
 - **Blöcke:** 619
 - **Bauteile:** `w397757065_innen`
 

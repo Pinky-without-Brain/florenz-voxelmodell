@@ -8,26 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.341 |
+| Blöcke | 10.385 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 92 bis 129 |
 | X-Ausdehnung | 895 bis 938 (44 Blöcke) |
 | Z-Ausdehnung | 2307 bis 2341 (35 Blöcke) |
 | Kleinster Schritt | 1.554 Blöcke (Schritt 26.6) |
-| Mittlerer Schritt | 1.724 Blöcke |
+| Mittlerer Schritt | 1.731 Blöcke |
 | Größter Schritt | 1.910 Blöcke (Schritt 26.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 6.712 | 64,9 % |
-| Terrakotta | `terracotta` | 2.283 | 22,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 6.712 | 64,6 % |
+| Terrakotta | `terracotta` | 2.283 | 22,0 % |
 | Polierter Tuffstein | `polished_tuff` | 725 | 7,0 % |
 | Graues Buntglas | `gray_stained_glass` | 352 | 3,4 % |
 | Glatter Stein | `smooth_stone` | 67 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 | 0,6 % |
 | Ziegelsteine | `bricks` | 64 | 0,6 % |
+| Tuffstein | `tuff` | 44 | 0,4 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,2 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762533` | Haus w119762533 | 8.787 | 26.1–26.5 |
+| 1 | `w119762533` | Haus w119762533 | 8.831 | 26.1–26.5 |
 | 2 | `w119762533_innen` | Haus w119762533: Innenausbau | 1.554 | 26.6 |
 
 ## Bauschritte
 
-### Schritt 26.1 – Haus w119762533 – Teil 1/5 (Y 63–67)
+### Schritt 26.1 – Haus w119762533 – Teil 1/5 (Y 92–97)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.656
+- **Y-Bereich:** 92 bis 97
+- **Blöcke:** 1.700
 - **Bauteile:** `w119762533`
 
 **Teileliste**
@@ -62,6 +63,7 @@
 | Glatter Sandstein | `smooth_sandstone` | 845 |
 | Polierter Tuffstein | `polished_tuff` | 725 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
+| Tuffstein | `tuff` | 44 |
 | Glatter Stein | `smooth_stone` | 32 |
 
 **Beschreibung**
@@ -80,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Haus w119762533 – Teil 2/5 (Y 68–75)
+### Schritt 26.2 – Haus w119762533 – Teil 2/5 (Y 98–105)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 98 bis 105
 - **Blöcke:** 1.910
 - **Bauteile:** `w119762533`
 
@@ -110,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Haus w119762533 – Teil 3/5 (Y 76–82)
+### Schritt 26.3 – Haus w119762533 – Teil 3/5 (Y 106–112)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 106 bis 112
 - **Blöcke:** 1.667
 - **Bauteile:** `w119762533`
 
@@ -139,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Haus w119762533 – Teil 4/5 (Y 83–90)
+### Schritt 26.4 – Haus w119762533 – Teil 4/5 (Y 113–120)
 
-- **Y-Bereich:** 83 bis 90
+- **Y-Bereich:** 113 bis 120
 - **Blöcke:** 1.900
 - **Bauteile:** `w119762533`
 
@@ -168,9 +170,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.5 – Haus w119762533 – Teil 5/5 (Y 91–99)
+### Schritt 26.5 – Haus w119762533 – Teil 5/5 (Y 121–129)
 
-- **Y-Bereich:** 91 bis 99
+- **Y-Bereich:** 121 bis 129
 - **Blöcke:** 1.654
 - **Bauteile:** `w119762533`
 
@@ -201,7 +203,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 26.6 – Haus w119762533: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 93 bis 117
 - **Blöcke:** 1.554
 - **Bauteile:** `w119762533_innen`
 

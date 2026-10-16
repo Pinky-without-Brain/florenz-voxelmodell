@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.205 |
+| Blöcke | 25.168 |
 | Bauschritte | 16 |
-| Y-Bereich | 60 bis 101 |
+| Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | -990 bis -937 (54 Blöcke) |
 | Z-Ausdehnung | 1170 bis 1253 (84 Blöcke) |
-| Kleinster Schritt | 738 Blöcke (Schritt 5.16) |
-| Mittlerer Schritt | 1.575 Blöcke |
+| Kleinster Schritt | 737 Blöcke (Schritt 5.16) |
+| Mittlerer Schritt | 1.573 Blöcke |
 | Größter Schritt | 1.948 Blöcke (Schritt 5.11) |
 
 ## Gesamt-Stückliste
@@ -22,35 +22,36 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Weißer Beton | `white_concrete` | 8.919 | 35,4 % |
-| Terrakotta | `terracotta` | 7.317 | 29,0 % |
+| Terrakotta | `terracotta` | 7.319 | 29,1 % |
 | Polierter Tuffstein | `polished_tuff` | 2.437 | 9,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.842 | 7,3 % |
-| Tuffstein | `tuff` | 1.283 | 5,1 % |
+| Tuffstein | `tuff` | 1.247 | 5,0 % |
 | Graues Buntglas | `gray_stained_glass` | 1.165 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 1.088 | 4,3 % |
 | Polierter Andesit | `polished_andesite` | 570 | 2,3 % |
 | Ziegelsteine | `bricks` | 166 | 0,7 % |
 | Tuffsteinziegel | `tuff_bricks` | 105 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 73 | 0,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 72 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 72 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 70 | 0,3 % |
 | Seelaterne | `sea_lantern` | 37 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 18 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 15 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 15 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 58 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 56 |
 | Steintreppe | `stone_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -59,15 +60,15 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1629425` | Palazzo des Ottocento an Via dei Sapiti | 18.315 | 5.1–5.11 |
 | 2 | `r1629425_innen` | Palazzo des Ottocento an Via dei Sapiti: Innenausbau | 3.562 | 5.12–5.13 |
-| 3 | `w306818331` | Torre dei Marsili | 2.590 | 5.14–5.15 |
-| 4 | `w306818331_innen` | Torre dei Marsili: Innenausbau | 735 | 5.16 |
-| 5 | `strassenschilder` | Straßenschilder | 3 | 5.16 |
+| 3 | `w306818331` | Torre dei Marsili | 2.554 | 5.14–5.15 |
+| 4 | `w306818331_innen` | Torre dei Marsili: Innenausbau | 732 | 5.16 |
+| 5 | `strassenschilder` | Straßenschilder | 5 | 5.16 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Palazzo des Ottocento an Via dei Sapiti – Teil 1/11 (Y 61–61)
+### Schritt 5.1 – Palazzo des Ottocento an Via dei Sapiti – Teil 1/11 (Y 60–60)
 
-- **Y-Bereich:** 61 bis 61
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.089
 - **Bauteile:** `r1629425`
 
@@ -93,9 +94,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Palazzo des Ottocento an Via dei Sapiti – Teil 2/11 (Y 61–63)
+### Schritt 5.2 – Palazzo des Ottocento an Via dei Sapiti – Teil 2/11 (Y 60–62)
 
-- **Y-Bereich:** 61 bis 63
+- **Y-Bereich:** 60 bis 62
 - **Blöcke:** 1.878
 - **Bauteile:** `r1629425`
 
@@ -125,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Palazzo des Ottocento an Via dei Sapiti – Teil 3/11 (Y 64–68)
+### Schritt 5.3 – Palazzo des Ottocento an Via dei Sapiti – Teil 3/11 (Y 63–67)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 63 bis 67
 - **Blöcke:** 1.925
 - **Bauteile:** `r1629425`
 
@@ -157,9 +158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Palazzo des Ottocento an Via dei Sapiti – Teil 4/11 (Y 69–72)
+### Schritt 5.4 – Palazzo des Ottocento an Via dei Sapiti – Teil 4/11 (Y 68–71)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.747
 - **Bauteile:** `r1629425`
 
@@ -189,9 +190,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Palazzo des Ottocento an Via dei Sapiti – Teil 5/11 (Y 73–76)
+### Schritt 5.5 – Palazzo des Ottocento an Via dei Sapiti – Teil 5/11 (Y 72–75)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.712
 - **Bauteile:** `r1629425`
 
@@ -220,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Palazzo des Ottocento an Via dei Sapiti – Teil 6/11 (Y 77–80)
+### Schritt 5.6 – Palazzo des Ottocento an Via dei Sapiti – Teil 6/11 (Y 76–79)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.712
 - **Bauteile:** `r1629425`
 
@@ -251,9 +252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Palazzo des Ottocento an Via dei Sapiti – Teil 7/11 (Y 81–84)
+### Schritt 5.7 – Palazzo des Ottocento an Via dei Sapiti – Teil 7/11 (Y 80–83)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.758
 - **Bauteile:** `r1629425`
 
@@ -283,9 +284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Palazzo des Ottocento an Via dei Sapiti – Teil 8/11 (Y 85–88)
+### Schritt 5.8 – Palazzo des Ottocento an Via dei Sapiti – Teil 8/11 (Y 84–87)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.620
 - **Bauteile:** `r1629425`
 
@@ -314,9 +315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Palazzo des Ottocento an Via dei Sapiti – Teil 9/11 (Y 89–91)
+### Schritt 5.9 – Palazzo des Ottocento an Via dei Sapiti – Teil 9/11 (Y 88–90)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.798
 - **Bauteile:** `r1629425`
 
@@ -345,9 +346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.10 – Palazzo des Ottocento an Via dei Sapiti – Teil 10/11 (Y 92–92)
+### Schritt 5.10 – Palazzo des Ottocento an Via dei Sapiti – Teil 10/11 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.128
 - **Bauteile:** `r1629425`
 
@@ -373,9 +374,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.11 – Palazzo des Ottocento an Via dei Sapiti – Teil 11/11 (Y 93–101)
+### Schritt 5.11 – Palazzo des Ottocento an Via dei Sapiti – Teil 11/11 (Y 92–100)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.948
 - **Bauteile:** `r1629425`
 
@@ -402,9 +403,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 1/2 (Y 61–72)
+### Schritt 5.12 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 1/2 (Y 60–71)
 
-- **Y-Bereich:** 61 bis 72
+- **Y-Bereich:** 60 bis 71
 - **Blöcke:** 1.786
 - **Bauteile:** `r1629425_innen`
 
@@ -444,9 +445,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.13 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 2/2 (Y 73–82)
+### Schritt 5.13 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 2/2 (Y 72–81)
 
-- **Y-Bereich:** 73 bis 82
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.776
 - **Bauteile:** `r1629425_innen`
 
@@ -491,14 +492,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 5.14 – Torre dei Marsili – Teil 1/2 (Y 60–77)
 
 - **Y-Bereich:** 60 bis 77
-- **Blöcke:** 1.317
+- **Blöcke:** 1.281
 - **Bauteile:** `w306818331`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 724 |
+| Tuffstein | `tuff` | 688 |
 | Polierter Tuffstein | `polished_tuff` | 270 |
 | Polierter Andesit | `polished_andesite` | 212 |
 | Tuffsteinziegel | `tuff_bricks` | 60 |
@@ -531,9 +532,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 559 |
-| Terrakotta | `terracotta` | 379 |
+| Terrakotta | `terracotta` | 381 |
 | Polierter Andesit | `polished_andesite` | 130 |
-| Fichtenholz-Bretter | `spruce_planks` | 72 |
+| Fichtenholz-Bretter | `spruce_planks` | 70 |
 | Graues Buntglas | `gray_stained_glass` | 67 |
 | Tuffsteinziegel | `tuff_bricks` | 45 |
 | Ziegelsteine | `bricks` | 21 |
@@ -557,7 +558,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 5.16 – Torre dei Marsili: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 60 bis 84
-- **Blöcke:** 738
+- **Blöcke:** 737
 - **Bauteile:** `w306818331_innen`, `strassenschilder`
 
 **Teileliste**
@@ -565,23 +566,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 591 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
 
 **Beschreibung**
 

@@ -8,27 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.891 |
+| Blöcke | 7.849 |
 | Bauschritte | 5 |
-| Y-Bereich | 68 bis 104 |
+| Y-Bereich | 68 bis 103 |
 | X-Ausdehnung | -2744 bis -2720 (25 Blöcke) |
 | Z-Ausdehnung | 2121 bis 2154 (34 Blöcke) |
 | Kleinster Schritt | 1.109 Blöcke (Schritt 25.5) |
-| Mittlerer Schritt | 1.578 Blöcke |
-| Größter Schritt | 1.774 Blöcke (Schritt 25.1) |
+| Mittlerer Schritt | 1.570 Blöcke |
+| Größter Schritt | 1.785 Blöcke (Schritt 25.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 4.766 | 60,4 % |
-| Terrakotta | `terracotta` | 1.663 | 21,1 % |
-| Polierter Tuffstein | `polished_tuff` | 516 | 6,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.766 | 60,7 % |
+| Terrakotta | `terracotta` | 1.663 | 21,2 % |
+| Polierter Tuffstein | `polished_tuff` | 516 | 6,6 % |
 | Graues Buntglas | `gray_stained_glass` | 360 | 4,6 % |
 | Grüner Beton | `green_concrete` | 299 | 3,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,9 % |
 | Ziegelsteine | `bricks` | 46 | 0,6 % |
-| Tuffstein | `tuff` | 42 | 0,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 | 0,3 % |
 | Polierter Andesit | `polished_andesite` | 25 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 | 0,3 % |
@@ -49,15 +48,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464975837` | Haus w464975837 | 6.782 | 25.1–25.4 |
+| 1 | `w464975837` | Haus w464975837 | 6.740 | 25.1–25.4 |
 | 2 | `w464975837_innen` | Haus w464975837: Innenausbau | 1.109 | 25.5 |
 
 ## Bauschritte
 
-### Schritt 25.1 – Haus w464975837 – Teil 1/4 (Y 68–76)
+### Schritt 25.1 – Haus w464975837 – Teil 1/4 (Y 68–75)
 
-- **Y-Bereich:** 68 bis 76
-- **Blöcke:** 1.774
+- **Y-Bereich:** 68 bis 75
+- **Blöcke:** 1.732
 - **Bauteile:** `w464975837`
 
 **Teileliste**
@@ -68,7 +67,6 @@
 | Polierter Tuffstein | `polished_tuff` | 516 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Grüner Beton | `green_concrete` | 57 |
-| Tuffstein | `tuff` | 42 |
 | Polierter Andesit | `polished_andesite` | 25 |
 | Glatter Stein | `smooth_stone` | 22 |
 
@@ -88,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.2 – Haus w464975837 – Teil 2/4 (Y 77–85)
+### Schritt 25.2 – Haus w464975837 – Teil 2/4 (Y 76–84)
 
-- **Y-Bereich:** 77 bis 85
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.617
 - **Bauteile:** `w464975837`
 
@@ -118,19 +116,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.3 – Haus w464975837 – Teil 3/4 (Y 86–94)
+### Schritt 25.3 – Haus w464975837 – Teil 3/4 (Y 85–94)
 
-- **Y-Bereich:** 86 bis 94
-- **Blöcke:** 1.617
+- **Y-Bereich:** 85 bis 94
+- **Blöcke:** 1.785
 - **Bauteile:** `w464975837`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.421 |
-| Graues Buntglas | `gray_stained_glass` | 108 |
-| Grüner Beton | `green_concrete` | 88 |
+| Gelbe Keramik | `yellow_terracotta` | 1.540 |
+| Graues Buntglas | `gray_stained_glass` | 135 |
+| Grüner Beton | `green_concrete` | 110 |
 
 **Beschreibung**
 
@@ -148,21 +146,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.4 – Haus w464975837 – Teil 4/4 (Y 95–104)
+### Schritt 25.4 – Haus w464975837 – Teil 4/4 (Y 95–103)
 
-- **Y-Bereich:** 95 bis 104
-- **Blöcke:** 1.774
+- **Y-Bereich:** 95 bis 103
+- **Blöcke:** 1.606
 - **Bauteile:** `w464975837`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 875 |
+| Gelbe Keramik | `yellow_terracotta` | 756 |
 | Terrakotta | `terracotta` | 706 |
-| Graues Buntglas | `gray_stained_glass` | 81 |
-| Grüner Beton | `green_concrete` | 66 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 | Ziegelsteine | `bricks` | 46 |
+| Grüner Beton | `green_concrete` | 44 |
 
 **Beschreibung**
 
@@ -182,7 +180,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 25.5 – Haus w464975837: Innenausbau
 
-- **Y-Bereich:** 69 bis 93
+- **Y-Bereich:** 68 bis 92
 - **Blöcke:** 1.109
 - **Bauteile:** `w464975837_innen`
 

@@ -8,34 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 16.736 |
-| Bauschritte | 10 |
-| Y-Bereich | 69 bis 113 |
+| Blöcke | 13.789 |
+| Bauschritte | 8 |
+| Y-Bereich | 69 bis 109 |
 | X-Ausdehnung | -2954 bis -2900 (55 Blöcke) |
 | Z-Ausdehnung | 1815 bis 1864 (50 Blöcke) |
-| Kleinster Schritt | 1.059 Blöcke (Schritt 8.2) |
-| Mittlerer Schritt | 1.674 Blöcke |
-| Größter Schritt | 1.881 Blöcke (Schritt 8.1) |
+| Kleinster Schritt | 1.467 Blöcke (Schritt 8.2) |
+| Mittlerer Schritt | 1.724 Blöcke |
+| Größter Schritt | 1.857 Blöcke (Schritt 8.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.048 | 36,1 % |
-| Terrakotta | `terracotta` | 3.377 | 20,2 % |
-| Tuffstein | `tuff` | 2.936 | 17,5 % |
-| Weißer Beton | `white_concrete` | 1.626 | 9,7 % |
-| Polierter Tuffstein | `polished_tuff` | 1.171 | 7,0 % |
-| Glatter Stein | `smooth_stone` | 466 | 2,8 % |
-| Polierter Andesit | `polished_andesite` | 360 | 2,2 % |
-| Graues Buntglas | `gray_stained_glass` | 356 | 2,1 % |
-| Fichtenholz-Bretter | `spruce_planks` | 231 | 1,4 % |
-| Ziegelsteine | `bricks` | 84 | 0,5 % |
+| Endsteinziegel | `end_stone_bricks` | 6.048 | 43,9 % |
+| Terrakotta | `terracotta` | 3.377 | 24,5 % |
+| Weißer Beton | `white_concrete` | 1.607 | 11,7 % |
+| Polierter Tuffstein | `polished_tuff` | 1.177 | 8,5 % |
+| Glatter Stein | `smooth_stone` | 466 | 3,4 % |
+| Polierter Andesit | `polished_andesite` | 360 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 356 | 2,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 231 | 1,7 % |
+| Ziegelsteine | `bricks` | 84 | 0,6 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,1 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 | 0,0 % |
+| Tuffstein | `tuff` | 8 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
@@ -46,110 +45,33 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w442946746` | Palazzo des Cinquecento an Via dei Villani | 14.879 | 8.1–8.9 |
-| 2 | `w442946746_innen` | Palazzo des Cinquecento an Via dei Villani: Innenausbau | 1.857 | 8.10 |
+| 1 | `w442946746` | Palazzo des Cinquecento an Via dei Villani | 11.932 | 8.1–8.7 |
+| 2 | `w442946746_innen` | Palazzo des Cinquecento an Via dei Villani: Innenausbau | 1.857 | 8.8 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo des Cinquecento an Via dei Villani – Teil 1/9 (Y 69–72)
+### Schritt 8.1 – Palazzo des Cinquecento an Via dei Villani – Teil 1/7 (Y 69–72)
 
 - **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.881
+- **Blöcke:** 1.796
 - **Bauteile:** `w442946746`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.879 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.2 – Palazzo des Cinquecento an Via dei Villani – Teil 2/9 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.059
-- **Bauteile:** `w442946746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.057 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.3 – Palazzo des Cinquecento an Via dei Villani – Teil 3/9 (Y 74–76)
-
-- **Y-Bereich:** 74 bis 76
-- **Blöcke:** 1.794
-- **Bauteile:** `w442946746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.171 |
+| Polierter Tuffstein | `polished_tuff` | 1.177 |
 | Endsteinziegel | `end_stone_bricks` | 494 |
-| Weißer Beton | `white_concrete` | 91 |
+| Weißer Beton | `white_concrete` | 81 |
 | Polierter Andesit | `polished_andesite` | 27 |
+| Tuffstein | `tuff` | 8 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -167,20 +89,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Palazzo des Cinquecento an Via dei Villani – Teil 4/9 (Y 77–82)
+### Schritt 8.2 – Palazzo des Cinquecento an Via dei Villani – Teil 2/7 (Y 73–77)
 
-- **Y-Bereich:** 77 bis 82
-- **Blöcke:** 1.773
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.467
 - **Bauteile:** `w442946746`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.166 |
-| Weißer Beton | `white_concrete` | 407 |
+| Endsteinziegel | `end_stone_bricks` | 951 |
+| Weißer Beton | `white_concrete` | 322 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
-| Polierter Andesit | `polished_andesite` | 81 |
+| Polierter Andesit | `polished_andesite` | 75 |
 | Glatter Stein | `smooth_stone` | 12 |
 | Tuffsteinziegel | `tuff_bricks` | 11 |
 
@@ -200,21 +122,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Palazzo des Cinquecento an Via dei Villani – Teil 5/9 (Y 83–88)
+### Schritt 8.3 – Palazzo des Cinquecento an Via dei Villani – Teil 3/7 (Y 78–83)
 
-- **Y-Bereich:** 83 bis 88
-- **Blöcke:** 1.760
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.771
 - **Bauteile:** `w442946746`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.256 |
+| Endsteinziegel | `end_stone_bricks` | 1.271 |
+| Weißer Beton | `white_concrete` | 210 |
 | Glatter Stein | `smooth_stone` | 198 |
-| Weißer Beton | `white_concrete` | 188 |
 | Polierter Andesit | `polished_andesite` | 66 |
-| Graues Buntglas | `gray_stained_glass` | 52 |
+| Graues Buntglas | `gray_stained_glass` | 26 |
 
 **Beschreibung**
 
@@ -232,9 +154,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.6 – Palazzo des Cinquecento an Via dei Villani – Teil 6/9 (Y 89–94)
+### Schritt 8.4 – Palazzo des Cinquecento an Via dei Villani – Teil 4/7 (Y 84–89)
 
-- **Y-Bereich:** 89 bis 94
+- **Y-Bereich:** 84 bis 89
+- **Blöcke:** 1.738
+- **Bauteile:** `w442946746`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.132 |
+| Weißer Beton | `white_concrete` | 430 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
+| Polierter Andesit | `polished_andesite` | 72 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.5 – Palazzo des Cinquecento an Via dei Villani – Teil 5/7 (Y 90–95)
+
+- **Y-Bereich:** 90 bis 95
 - **Blöcke:** 1.749
 - **Bauteile:** `w442946746`
 
@@ -242,8 +195,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.031 |
-| Weißer Beton | `white_concrete` | 376 |
+| Endsteinziegel | `end_stone_bricks` | 1.165 |
+| Weißer Beton | `white_concrete` | 242 |
 | Glatter Stein | `smooth_stone` | 198 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
 | Polierter Andesit | `polished_andesite` | 66 |
@@ -264,40 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – Palazzo des Cinquecento an Via dei Villani – Teil 7/9 (Y 95–99)
+### Schritt 8.6 – Palazzo des Cinquecento an Via dei Villani – Teil 6/7 (Y 96–100)
 
-- **Y-Bereich:** 95 bis 99
-- **Blöcke:** 1.452
-- **Bauteile:** `w442946746`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.066 |
-| Weißer Beton | `white_concrete` | 242 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-| Polierter Andesit | `polished_andesite` | 66 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.8 – Palazzo des Cinquecento an Via dei Villani – Teil 8/9 (Y 100–104)
-
-- **Y-Bereich:** 100 bis 104
+- **Y-Bereich:** 96 bis 100
 - **Blöcke:** 1.694
 - **Bauteile:** `w442946746`
 
@@ -327,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.9 – Palazzo des Cinquecento an Via dei Villani – Teil 9/9 (Y 105–113)
+### Schritt 8.7 – Palazzo des Cinquecento an Via dei Villani – Teil 7/7 (Y 101–109)
 
-- **Y-Bereich:** 105 bis 113
+- **Y-Bereich:** 101 bis 109
 - **Blöcke:** 1.717
 - **Bauteile:** `w442946746`
 
@@ -356,9 +278,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – Palazzo des Cinquecento an Via dei Villani: Innenausbau
+### Schritt 8.8 – Palazzo des Cinquecento an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 74 bis 95
+- **Y-Bereich:** 70 bis 91
 - **Blöcke:** 1.857
 - **Bauteile:** `w442946746_innen`
 
