@@ -17,7 +17,8 @@
 //   portikus?: { test(c) -> bool, kaempfer, joch, versatz?, entlang?: 'u'|'w' }  Erdgeschoss-Loggia an der Straße
 //              (Innocenti); Rückwand (Bauteil loggiawand) mit Türen alle zwei Joche
 //   fenster.versatz?: Verschiebung des Fensterrasters (lokal)
-//   treppe?: { u, w }   bevorzugte Lage der Wendeltreppe (lokal)
+//   treppe?: { u, w } | false   bevorzugte Lage der Wendeltreppe (lokal); false = keine (eigene Treppen über extra.vorher)
+//   innenwandTuer?(c, s, v) -> bool   Türen der Innenwand um den Hof je Geschoss s (v = Lage entlang der Wand); Vorgabe: Raster 14, Breite 3
 //   extra?(api)         zusätzliche Bauteile, api = { D, set, hat, frei, oeffnung, unzug, key, Y, T, zelleBei }
 //   raeume?: {          Raumteilung und Ausstattung (V5a, abwärtskompatibel: ohne Feld bleibt der Ring ein offener Saal)
 //     waende: [{ s?: Geschoss | [Geschosse] | 'alle', achse: 'u'|'w', v, von?, bis?, tueren: [Lagen entlang der Wand],
@@ -208,14 +209,17 @@ function palazzo(cfg) {
       if (istPortikuswand(c) && imRaster(c.entlangPortikus === 'u' ? c.u : c.w, cfg.portikus.joch * 2, 3) !== null) for (let yr = 1; yr <= 7; yr++) oeffnung('tuer', 'loggiawand', c.x, Y(yr), c.z);
       if (istInnenwand(c)) {                                          // Ring um den Hof in allen Geschossen, Türen je Geschoss
         const v = c.hofEntlang ? (c.hofEntlang === 'u' ? c.u : c.w) : c.u + c.w;
-        if (imRaster(v, 14, 3) !== null) for (let s = 0; s < cfg.geschosse.length; s++) for (let yr = BASIS[s] + 1; yr <= BASIS[s] + 6; yr++) oeffnung('tuer', 'innenwaende', c.x, Y(yr), c.z);
+        for (let s = 0; s < cfg.geschosse.length; s++) {
+          const tuer = cfg.innenwandTuer ? cfg.innenwandTuer(c, s, v) : imRaster(v, 14, 3) !== null;   // Vorgabe: Türen im Raster 14 (San Marco: eigene Türen je Geschoss)
+          if (tuer) for (let yr = BASIS[s] + 1; yr <= BASIS[s] + 6; yr++) oeffnung('tuer', 'innenwaende', c.x, Y(yr), c.z);
+        }
       }
     }
     if (cfg.extra && cfg.extra.oeffnungen) cfg.extra.oeffnungen(api);
 
     // ---- Wendeltreppe durch alle Geschosse (Kern 3 × 3, Ring 2)
     let treppe = null;
-    if (cfg.geschosse.length > 1) {
+    if (cfg.geschosse.length > 1 && cfg.treppe !== false) {          // treppe: false = eigene Treppen über cfg.extra (San Marco)
       const frei7 = (c) => c.d8 > 3 && !istHofwand(c) && !istLoggia(c) && !istInnenwand(c) && c.dHof > 3 && !c.portikus;
       const ok = new Set(D.haupt.filter(frei7).map((c) => P.ck(c.x, c.z)));
       const ziel = cfg.treppe || { u: 0, w: 0 };
