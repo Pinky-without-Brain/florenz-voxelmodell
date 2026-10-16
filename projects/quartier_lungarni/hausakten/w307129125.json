@@ -1,57 +1,56 @@
 {
   "id": "w307129125",
   "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "epoche": "1. Hälfte 14. Jh., evtl. im 19. Jh. aufgestockt",
   "geschosse": [
     {
       "art": "eg",
+      "hoeheBl": 13
+    },
+    {
+      "art": "og",
       "hoeheBl": 11
     },
     {
-      "art": "nobile",
-      "hoeheBl": 8
+      "art": "og",
+      "hoeheBl": 10
     },
     {
       "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 8
-    },
-    {
-      "art": "og",
-      "hoeheBl": 9
+      "hoeheBl": 10
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 5,
-    "material": "bugnato_abgestuft",
+    "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rundbogen"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 3
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "wappen_cattani_da_diacceto_konsole"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Fagni-Da_Diacceto",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: erste Hälfte des 14. Jh., vier Geschosse (evtl. im 19. Jh. um eines erhöht), fünf symmetrische Einzellichtfenster in den Obergeschossen, sichtbares Mauerwerk mit regelmäßigem Quaderverband im ersten und Filaretto in den oberen Geschossen, Öffnungsrahmen aus Pietra forte, oberstes Geschoss verputzt, drei Haupt- und ein kleines leicht spitzbogiges Portal im Erdgeschoss (ehemalige Läden), Gurtgesimse, Cattani-da-Diacceto-Wappen auf Konsole an der Ecke Via d Altafronte, keine Beccatelli oder Gerüstlöcher. Annahme: Dach und Traufe (ohne Gesims angenommen).",
   "name": "Palazzo Fagni-Da Diacceto"
 }
