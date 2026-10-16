@@ -1,0 +1,10 @@
+{
+  "id": "santa_maria_maggiore",
+  "title": "Chiesa di Santa Maria Maggiore",
+  "type": "wahrzeichen",
+  "gebaeude": ["w234429579"],
+  "bodenY": 63,
+  "rahmen": { "ox": -663.5, "oz": -45, "thetaDeg": 0 },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

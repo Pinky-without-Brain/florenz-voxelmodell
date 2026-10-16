@@ -1,0 +1,10 @@
+{
+  "id": "santi_apostoli",
+  "title": "Chiesa dei Santi Apostoli",
+  "type": "wahrzeichen",
+  "gebaeude": ["w451785463"],
+  "bodenY": 59,
+  "rahmen": { "ox": -774, "oz": 866, "thetaDeg": 20 },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

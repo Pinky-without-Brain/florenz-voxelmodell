@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden auf Y 59",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Die Piazza del Limbo vor der Fassade liegt tief (Y 58 bis 59); zur Apsis hin steigt das Gelände auf Y 60 bis 61. Im Umriss trägst du es bis Y 58 ab und füllst nur wenige tiefe Stellen mit Bruchstein auf.",
+      "tip": "Nach dem Abtragen liegt die ganze Fläche auf Y 58, der Boden folgt darüber.",
+      "caution": "Nicht über Y 58 füllen, sonst sitzt der Fußboden zu hoch. Die Höhen stammen aus dem Geländemodell der Stadt.",
+      "fact": "Die Kirche steht an der Piazza del Limbo, die ihren Namen von einem mittelalterlichen Friedhof für ungetaufte Kinder hat (en.wikipedia, Santi Apostoli)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 59 legst du den Boden. Im Mittelschiff wechseln Felder aus grünem Marmor, weißem Marmor und Pietra serena im Zweierraster wie ein Mosaik, im Chor Pietra serena und Weiß, in den Seitenschiffen und der Kapelle rosa Terrakotta und Weiß, an der Fassade Pietra serena.",
+      "tip": "Die Lichtfelder setzt erst Bautüte 3.",
+      "caution": "Der Boden geht auch unter allen Wänden durch. Der Boden enthält ein einfaches Mosaik und viele Grabplatten Florentiner Familien (it.wikipedia, Stufe A); das Muster im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Fußboden trägt ein einfaches Mosaik und viele Grabplatten der Familien Acciaiuoli, Altoviti und Del Bene (it.wikipedia)."
+    }
+  }
+}
