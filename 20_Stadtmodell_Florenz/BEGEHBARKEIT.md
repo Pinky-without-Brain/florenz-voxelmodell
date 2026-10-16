@@ -276,3 +276,10 @@ Vier Palazzi an Via Tornabuoni, Piazza San Firenze und Piazza Antinori sind eige
 - **Hof ohne Arkaden:** Die Quelle beschreibt keinen Hof; `hof.tiefe: 0` gibt eine geschlossene Hofwand, vier Türen (3 × 5) schneidet `extra.oeffnungen` (Seite aus der Lage zur Hofmitte).
 - **Museum im Erdgeschoss:** Das Museo Ferragamo liegt in Wirklichkeit im Untergeschoss; das Modell hat keins (Abweichung im Katalog).
 - **Stolperfalle:** Ein Altar mit 20 Stehzellen auf Höhe +2 (4 × 5) ist eine nicht erreichbare Komponente (R13-Grenze 20); auf 3 × 5 verkleinert.
+
+### Palazzo Bartolini Salimbeni
+`palazzo_bartolini_salimbeni` (OSM r4101721, 2.673 Zellen, ein Hof von 8 × 10 Blöcken, aus `quartier_tornabuoni` gelöst), Rahmen θ 96,87° entlang der Fassade zur Piazza di Santa Trinita, `bodenY` 62. R13: 87,9 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 37.069 Blöcke, 7 Module. Test: `tools/test/palazzo_bartolini_salimbeni.test.js` (6 Tests).
+- **Kreuzfenster aus Bifora und Querriegel:** Der gemeinsame Bauplan setzt in `bifora`-Fenstern einen Mittelpfosten; der Querriegel (Pietra serena auf 55 % der Fensterhöhe) ersetzt in `ausstatten` die Glaszellen des Rohbauteils `fenster` (Teil `fenster_kreuz`), jedes zweite Fenster trägt einen Goldblock als Kartusche („Per non dormire“). Die Fenster bleiben verglast (vier Scheiben), R14 ist unverändert 0.
+- **Inschriftenbänder und Mohnfries als Farbfelder:** `K.flaeche` ersetzt Fassadenzellen (Lage 10 über den Portalbögen, Lage 28 unter dem Kranzgesims); Fenster bleiben unberührt.
+- **Sgraffito:** nur die Hofseite (`dHof === 1`) der Obergeschosse; die Hofwand des Erdgeschosses bleibt mit den Arkaden frei.
+- **Tür am Rand der Lichtreichweite:** Eine Trennwandtür 12,04 Blöcke von der nächsten Seelaterne ließ den Lichttest scheitern; die Tür wurde um zwei Blöcke verschoben (`tools/diag/_licht_w7a.js` listet solche Zellen). Einzelne Stehzellen-Taschen an der schrägen Westwand (unter 20 Zellen) bleiben unerreichbar und zählen nicht als Fehler; der Test verlangt 90 % je Raum (`tools/diag/_erreich_w7a.js` listet sie).

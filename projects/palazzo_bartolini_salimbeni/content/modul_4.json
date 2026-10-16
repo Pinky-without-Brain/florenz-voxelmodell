@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln deckt das Haus bis zu drei Lagen über der Traufe; darunter liegt der Dachraum.",
+      "tip": "Von der Außenkante und der Hofkante steigt das Dach lagenweise an.",
+      "caution": "Der Dachraum hat keinen Zugang.",
+      "fact": "1961/62 restaurierte Piero Sanpaolesi die Fassade (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    }
+  }
+}

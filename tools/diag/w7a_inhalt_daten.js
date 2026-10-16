@@ -56,5 +56,34 @@ module.exports = {
       decke: 'Die Stuckaturen von Foggini und Merlini entstanden unter der Familie Feroni',
       dach: 'Ein Kranz guelfischer Zinnen gibt dem Palast das Aussehen einer Festung'
     }
+  },
+  palazzo_bartolini_salimbeni: {
+    bodenY: 62, traufe: 30, quelle: 'it.wikipedia, Palazzo Bartolini Salimbeni', loggiaBoden: true,
+    hofText: 'Der Hof bleibt offen; sein Boden aus Pflaster und Marmor liegt auf Y 62. Ein Durchgang führt von der Piazza hinein.',
+    fassadeTitel: 'Außenwände mit Rustikaecken, Kreuzfenster, Kranzgesims',
+    aussenText: 'Die Außenwände sind zwei Blöcke dick: zur Piazza di Santa Trinita Pietra forte, zur Via Porta Rossa und Via delle Terme Pietra serena mit Bändern aus Pietra forte; die Ecken sind mit Rustika verstärkt.',
+    aussenTip: 'Jede vierte Lage wechselt den Stein.',
+    fensterText: 'Rechteckähnliche Fenster mit Glas und Mittelpfosten im Raster 10; der Querriegel kommt in Modul 6 dazu und macht daraus Kreuzfenster. Zwei Portale: an der Piazza und an der Via Porta Rossa.',
+    kranzText: 'Das Kranzgesims aus Marmor bei Y 92 springt vor; der Fries mit den Mohnblüten kommt in Modul 6.',
+    arkadenText: 'Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof (vier Blöcke Joch); dahinter liegt eine Galerie.',
+    trennText: 'Trennwände teilen den Ring im Erdgeschoss in Durchgang, Nordost- und Südostraum, Nord- und Südflügel und die beiden Westräume; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.',
+    dachTitel: 'Walmdach', dachTeilTitel: 'Walmdach', dachText: 'Ein flaches Walmdach aus Dachziegeln deckt das Haus bis zu drei Lagen über der Traufe; darunter liegt der Dachraum.',
+    fakt: {
+      fundament: "Baccio d'Agnolo baute den Palast 1520 bis 1523 für Giovanni Bartolini",
+      boden: 'Der Palast steht an der Piazza di Santa Trinita, an der Ecke von Via Porta Rossa und Via delle Terme',
+      hof: 'Den Hof erreicht man durch einen tonnengewölbten Durchgang',
+      treppe: 'Der Palast gilt als erste Florentiner Residenz im römischen Stil (alla romana)',
+      aussenwand: 'Die Fassade ist zur Piazza aus Pietra forte, zur Via Porta Rossa aus Pietra serena und Pietra bigia',
+      fenster: 'Die Fenster sind durch kreuzförmige Steinglieder in vier Felder geteilt',
+      kranzgesims: 'Ein vorspringendes Kranzgesims mit klassischen Zahnschnitten und ein Fries mit drei Mohnblüten krönen die Fassade',
+      hofarkaden: 'Der Hof hat einen Portikus an drei Seiten mit Säulen und Rundbögen; eine Seite und ein Joch wurden später geschlossen',
+      hofwaende: 'Der Hof trägt einfarbigen Sgraffito-Schmuck und Grotesken',
+      hoffenster: 'Im ersten Obergeschoss öffnet sich eine Loggia mit drei Bögen und hölzerner Kassettendecke; sie ist hier nicht gebaut',
+      innenwaende: 'Der Hof ist über einen tonnengewölbten Durchgang erreichbar',
+      geschossboeden: 'Der Palast hat drei Geschosse',
+      decke: 'Hölzerne Kassettendecken mit Mohnkopf-Emblemen gehören zu den bemerkenswerten Teilen der Ausstattung',
+      innenwaende_og: '1838/39 baute Giuseppe Martelli den Palast zum Hotel du Nord um',
+      dach: '1961/62 restaurierte Piero Sanpaolesi die Fassade'
+    }
   }
 };
