@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein flaches Walmdach aus Dachziegeln steigt von der Traufe (Y 92) bis Y 98; der Dachraum darunter ist massiv oder unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Das Dach liegt nicht über den Höfen.",
+      "fact": "Die Dächer von Kirche, Palast und Oratorium sind getrennt."
+    }
+  }
+}

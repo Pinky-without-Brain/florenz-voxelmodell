@@ -1,0 +1,92 @@
+{
+  "module": 7,
+  "title": "Oratorium",
+  "subtitle": "Bautüte 7: Rohbau des Oratoriums (Sala della Musica)",
+  "icon": "🎼",
+  "parts": {
+    "o_fundament": {
+      "title": "Fundament des Oratoriums",
+      "description": "Bruchstein unter dem Boden des Oratoriums, wo das Gelände tiefer liegt als Y 61.",
+      "tip": "Spaltenweise auffüllen.",
+      "caution": "Wo das Gelände Y 61 erreicht, bleibt die Spalte leer.",
+      "fact": "1772 bis 1775 ersetzte Zanobi Del Rosso das alte Oratorium durch einen Neubau (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_boden": {
+      "title": "Boden",
+      "description": "Auf Y 62 liegt im Vestibül und im Saal ein Schachbrett aus Terrakotta und Marmor.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt Bautüte 8.",
+      "fact": "Der Saal diente später als Gerichtssaal (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_fassade": {
+      "title": "Fassade",
+      "description": "Die Fassade zur Piazza San Firenze: Portal (7 breit), Gesims, zwei Fenster und ein flacher Giebel (bis Y 87).",
+      "tip": "Erst die Wand, dann Portal und Gesims.",
+      "caution": "Lass das Portal frei.",
+      "fact": "Zanobi Del Rosso entwarf das Oratorium; es wurde 1775 vollendet (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_fassade_fenster": {
+      "title": "Fassadenfenster",
+      "description": "Zwei Rundbogenfenster rechts und links vom Portal (Y 74 bis 80).",
+      "tip": "Glas in die ganze Wandtiefe.",
+      "caution": "Sie gehören zum Teil Fassade.",
+      "fact": "Die Lage der Fenster ist Stufe C."
+    },
+    "o_waende": {
+      "title": "Wände",
+      "description": "Die Außenwände (zwei Blöcke dick), die Wand zwischen Vestibül und Saal mit der Tür (6 breit) und den Durchgängen zu den Emporen.",
+      "tip": "Erst die Außenwand, dann die Zwischenwand.",
+      "caution": "Lass die Tür und die Durchgänge frei. Die Nord- und die Rückwand liegen am Palast.",
+      "fact": "Das Oratorium ist ein eigener Bau rechts der Kirche (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_fenster": {
+      "title": "Saalfenster",
+      "description": "In der Südwand zum Borgo de' Greci sitzen Fenster auf Höhe der Emporen (Y 73 bis 77).",
+      "tip": "Glas in die ganze Wandtiefe.",
+      "caution": "Auf der Nord- und der Rückseite gibt es keine Fenster, dort liegt der Palast.",
+      "fact": "Die Südwand ist die einzige Wand des Saals mit freiem Licht."
+    },
+    "o_treppe": {
+      "title": "Treppe zur Empore",
+      "description": "Eine gerade Treppe aus Pietra serena mit acht Stufen (Breite 3) im Vestibül führt auf die Empore (Y 70).",
+      "tip": "Stufe für Stufe von unten, der Unterbau ist massiv.",
+      "caution": "Über jeder Stufe bleiben drei Blöcke frei; die Platte der Empore hat hier ein Loch.",
+      "fact": "Die Emporen des Saals tragen ionische Säulen (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_empore": {
+      "title": "Emporen",
+      "description": "Die Platte der Emporen auf Y 70: im Vestibül, an den beiden Längsseiten des Saals und an der Rückseite, als Schachmuster aus Holz und Terrakotta.",
+      "tip": "Erst die Säulen, dann die Platte.",
+      "caution": "Das Treppenloch bleibt frei.",
+      "fact": "Die Filippini legten Wert auf Kirchenmusik, deshalb hat der Saal Emporen (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_saeulen": {
+      "title": "Ionische Säulen",
+      "description": "Marmorsäulen tragen die Emporenplatte am Rand, im Abstand von sechs Blöcken (Y 63 bis 69).",
+      "tip": "Säule für Säule von unten.",
+      "caution": "Die Säulen stehen auf dem Saalboden.",
+      "fact": "Die Galerien des Oratoriums werden von ionischen Säulen getragen (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_bruestung": {
+      "title": "Brüstung",
+      "description": "Eine Lage Holz auf dem Rand der Emporen, zwischen den Säulen (Y 71).",
+      "tip": "Nur eine Lage hoch.",
+      "caution": "Die Brüstung ist Stufe C.",
+      "fact": "Engel von Filippo Burci stehen an den Seiten der Empore (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_decke": {
+      "title": "Decke und Dachmasse",
+      "description": "Die Decke des Saals auf Y 79, darüber massives Mauerwerk bis zum Dach.",
+      "tip": "Eine Lage Putz auf der Decke.",
+      "caution": "Das Deckenfresko liegt in Bautüte 10 auf der Decke.",
+      "fact": "Das Deckenfresko „Assunzione della Vergine“ malte Giuliano Traballesi 1775 (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "o_dach": {
+      "title": "Dach",
+      "description": "Satteldach aus Ziegeln mit First auf Y 85 über dem Saal.",
+      "tip": "Eine Lage Ziegel.",
+      "caution": "Die Dachform ist Stufe C.",
+      "fact": "Die Fassade des Oratoriums ist niedriger als die der Kirche."
+    }
+  }
+}

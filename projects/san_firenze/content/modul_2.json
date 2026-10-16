@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Höfe",
+  "subtitle": "Bautüte 2: Hofarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den großen Hof; dahinter liegt eine Galerie.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen. Die Arkaden sind Stufe C.",
+      "fact": "Der Konvent der Filippini entstand um zwei Höfe (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 92, verputzt, mit Gesimsen auf Höhe der Geschossböden; der Lichthof hat Türen in seiner Wand.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Der kleine Hof ist ein Lichthof zwischen den Flügeln (Quelle: OSM, Relation r4084510)."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zum großen Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Seit Juli 2017 ist der Komplex Sitz des Franco Zeffirelli International Centre for the Performing Arts (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen der Galerie und den Räumen steht im Erdgeschoss eine Innenwand mit Türen.",
+      "tip": "Türen in regelmäßigem Abstand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Das Gericht zog 2012 nach Novoli um (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Zehn Trennwandlinien teilen Vorderbau, Nordflügel, Westflügel, Ostblock und Südflügel im Erdgeschoss in Räume; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses. Die Raumaufteilung ist Stufe C.",
+      "fact": "Der Palast diente als Sitz der Gerichte (Quelle: it.wikipedia, Complesso di San Firenze)."
+    }
+  }
+}

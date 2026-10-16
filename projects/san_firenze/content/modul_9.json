@@ -1,0 +1,43 @@
+{
+  "module": 9,
+  "title": "Ausstattung der Kirche",
+  "subtitle": "Bautüte 9: Deckenbild, Apsis, Altäre und Sakramentskapelle",
+  "icon": "⛪",
+  "parts": {
+    "k_deckenfresko": {
+      "title": "Kassettengewölbe mit Deckenbild",
+      "description": "Das Tonnengewölbe über Mittelschiff und Presbyterium als Kassettendecke mit Holzrippen und goldenen Rosetten; in der Mitte ein ovales Himmelsfeld mit Goldrand und Wolken.",
+      "tip": "Erst die Rippen, dann die Füllung, zuletzt das Mittelbild.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Das Bild der Glorie ist nur als Farbfläche angedeutet.",
+      "fact": "Giovanni Camillo Sagrestani malte 1715 die „Gloria di san Filippo Neri“ in das Kassettengewölbe (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_apsisfresko": {
+      "title": "Halbkuppel der Apsis",
+      "description": "Die Halbkuppel hinter dem Hochaltar in Blau und Hellblau mit einem goldenen Strahlenkranz in der Mitte und bunten Gestalten für Apostel und Heilige.",
+      "tip": "Von der Mitte zum Rand bauen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Einzelne Figuren sind nicht erkennbar.",
+      "fact": "Niccolò Lapi malte die „Dreifaltigkeit mit Aposteln und florentinischen Heiligen“ in die Halbkuppel der Apsis (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_hochaltar": {
+      "title": "Hochaltar und Statuen",
+      "description": "Eine Stufe aus Pietra serena im Presbyterium, der Hochaltar aus weißem Marmor mit goldenem Tabernakel und zwei Statuen auf Sockeln neben dem Presbyterium.",
+      "tip": "Erst die Stufe, dann der Altartisch, zuletzt die Figuren.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Statuen sind schlichte Blockfiguren; welche Figur an welcher Stelle steht, ist nicht belegt.",
+      "fact": "Zanobi Del Rosso schuf den Hochaltar, Gioacchino Fortini die Apsisarchitektur und die Statuen Carità und Purezza (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_altarbilder": {
+      "title": "Seitenaltäre mit sechs Altarbildern",
+      "description": "Sechs Kapellen, je drei nördlich und südlich des Mittelschiffs, mit einem Altartisch aus weißem Marmor und einem Altarbild als goldgerahmtes Farbfeld in der Rückwand.",
+      "tip": "Erst das Bildfeld in der Wand, dann der Altartisch davor.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Zuordnung der Bilder zu den Kapellen ist Stufe C; belegt sind die sechs Maler und Motive.",
+      "fact": "Altarbilder von Pinzani (Petrus reicht Franziska Romana die Kommunion), Gherardini (Pietà), Puglieschi (Immacolata), Bonechi (Kreuzigung), Redi (Flucht nach Ägypten) und Gabbiani (Messe des heiligen Filippo Neri); zwei Seitenaltäre schuf Antonio Montauti (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_sakramentskapelle": {
+      "title": "Sakramentskapelle",
+      "description": "Der Anbau südlich der Kirche mit Kuppel: Blau mit goldenen Rippen und einem Stern in der Mitte, ein Altar an der Westwand mit Madonnenbild und ein dunkler Grabstein im Boden.",
+      "tip": "Von der Mitte der Kuppel nach außen bauen.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Lage des Anbaus folgt dem OSM-Umriss, Form und Grabstein sind Stufe C.",
+      "fact": "Zanobi Del Rosso baute die Kapelle 1776; sie birgt das Grab des Priesters Pietro Bini, eine Madonnina von Carlo Maratta und Kuppelfresken von Luigi Sabatelli und seinen Söhnen (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    }
+  }
+}
