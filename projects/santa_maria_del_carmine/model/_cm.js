@@ -34,6 +34,9 @@ const U_CHOR = 153.6;
 const CHOR = { u: 167, w: -1, au: 14, aw: 13, k: 36, h: 8, first: 50 };  // ovale Chorkuppel
 const CORSINI = { u: 135.6, w: -54.3, ri: 8, ra: 9.5, k: 36, w0: -44.5 };
 const BRANCACCI = { u: 137, w0: 31, hu: 9.5, decke: 26, dach: 32 };
+// Campanile (V5b, Stufe C: in Quellen nicht beschrieben): im Kreuzgangshof westlich des Langhauses, Boden eine Lage tiefer (Hof)
+const CAMP = { rect: { u0: 76, u1: 90, w0: 31, w1: 45 }, dy: -1, top: 72, glocke0: 48, glocke1: 60, spitze0: 61 };
+const YT = (yr) => Y(yr + CAMP.dy);
 
 const T = {
   forte: WZ.typ('pietra_forte'), bruch: WZ.typ('pietra_forte_bruch'), mauer: WZ.typ('mauerwerk'), ziegelw: WZ.typ('ziegel_kuppel'),
@@ -51,15 +54,19 @@ function lade() {
   if (L) return L;
   const json = JSON.parse(fs.readFileSync(path.join(DIR, 'project.json'), 'utf8'));
   const masken = WZ.ladeMasken(json, { dir: DIR });
-  const R = masken.rahmen, H = masken.haupt;
+  const R = masken.rahmen, H = masken.haupt, CA = masken.masken.campanile;
   const haupt = H.cells.map(([x, z]) => {
     const l = R.toLocal(x, z);
     return { x, z, u: l.u, w: l.w, d8: H.d8(x, z), gt: GRUND.groundTopY(x, z), wo: 'kirche' };
   });
   for (const c of haupt) c.zone = zone(c);
+  const camp = CA.cells.map(([x, z]) => {
+    const l = R.toLocal(x, z);
+    return { x, z, u: l.u, w: l.w, d8: CA.d8(x, z), gt: GRUND.groundTopY(x, z), wo: 'campanile', zone: 'campanile' };
+  });
   const byKey = new Map();
-  for (const c of haupt) byKey.set(P.ck(c.x, c.z), c);
-  L = { json, masken, R, H, haupt, alle: haupt, byKey };
+  for (const c of haupt.concat(camp)) byKey.set(P.ck(c.x, c.z), c);
+  L = { json, masken, R, H, CA, haupt, camp, alle: haupt, byKey };
   return L;
 }
 const zelleBei = (x, z) => lade().byKey.get(P.ck(x, z));
@@ -291,6 +298,21 @@ function plan() {
     for (let yr = lo; yr <= top; yr++) if (!hat(c.x, Y(yr), c.z) && !luft.has(key(c.x, Y(yr), c.z))) set(c.x, Y(yr), c.z, yr === top ? T.ziegel : T.mauer, yr === top ? 'daecher' : 'schildwaende');
   }
 
+  // ---- Modul 7: Campanile (Stufe C): eigener Boden eine Lage tiefer, Schaft mit Wendeltreppe, Glockenstube, Pyramidenhelm
+  for (const c of D.camp) {
+    for (let y = c.gt + 1; y <= YT(-1); y++) set(c.x, y, c.z, T.bruch, 'fundament');
+    set(c.x, YT(0), c.z, T.serena, 'boden');
+  }
+  const cw = (CAMP.rect.w0 + CAMP.rect.w1) / 2;
+  const camp = WZ.campanile.baueCampanile({
+    cells: D.camp, set, frei, istFrei: (x, y, z) => luft.has(key(x, y, z)), hat, oeffnung, unzug, Y: YT, zellen, teile, key,
+    T: { wand: T.mauer, sockel: T.bruch, gesims: T.serena, dach: T.ziegel, spitze: T.bronze, holz: T.holz, glocke: T.bronze, fenster: T.fenster, licht: T.licht }
+  }, {
+    rect: CAMP.rect, top: CAMP.top, glocke0: CAMP.glocke0, glocke1: CAMP.glocke1, spitze0: CAMP.spitze0, abschluss: 'pyramide', sockel: 5,
+    gesimse: [16, 32, CAMP.glocke0 - 1], schlitze: { periode: 16, a: 6, b: 9, bis: CAMP.glocke0 }, bogen: { anzahl: 2, breite: 3 }, lichtAbstand: 8,
+    tueren: [D.camp.filter((c) => c.d8 <= 2 && c.u < CAMP.rect.u0 + 2 && Math.abs(c.w - cw) < 1.5)]
+  });
+
   // ---- Modul 6: Hochaltar und Licht
   for (const c of D.haupt) {
     if (c.zone !== 'chor' || Math.abs(c.u - 166) > 1.5 || Math.abs(c.w - CHOR.w) > 2.5) continue;
@@ -308,7 +330,7 @@ function plan() {
   }
   teile.set('licht', lt);
 
-  PLAN = { zellen, teile, oeff, unz };
+  PLAN = { zellen, teile, oeff, unz, camp };
   return PLAN;
 }
 
@@ -331,4 +353,4 @@ function modul(n, liste) {
   };
 }
 
-module.exports = { modul, lade, plan, zelleBei, zone, Y, BODEN_Y, T, OKT, R_KI, TAMBUR_TOP, KAPELLEN, W_SCHIFF };
+module.exports = { modul, lade, plan, zelleBei, zone, Y, YT, BODEN_Y, T, OKT, R_KI, TAMBUR_TOP, KAPELLEN, W_SCHIFF, CAMP };
