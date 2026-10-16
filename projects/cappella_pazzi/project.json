@@ -7,7 +7,16 @@
   "rahmen": { "ox": 873.25, "oz": 975, "thetaDeg": 28.4 },
   "hauptGrenzen": { "abzugProjekte": ["santa_croce"], "abzugAlle": true },
   "masken": {
-    "kapelle": { "gebaeude": ["w307539790"], "abzugHaupt": true, "gelaendeBis": "boden" }
+    "kapelle": { "gebaeude": ["w307539790"], "abzugHaupt": true, "gelaendeBis": "boden" },
+    "primo_chiostro": {
+      "rechtecke": [
+        { "u": [12.5, 134], "w": [58, 97.5] },
+        { "u": [80, 134], "w": [97.5, 100] },
+        { "u": [80, 139], "w": [100, 128] }
+      ],
+      "abzugHaupt": true,
+      "gelaendeBis": "boden"
+    }
   },
   "luftraum": 2,
   "begehbarkeit": "pflicht"

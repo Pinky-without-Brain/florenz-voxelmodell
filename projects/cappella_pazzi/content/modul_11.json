@@ -1,0 +1,29 @@
+{
+  "module": 11,
+  "title": "Primo Chiostro: Arkaden",
+  "subtitle": "Bautüte 11: Arkadengang aus Pfeilern und Rundbögen",
+  "icon": "🏛️",
+  "parts": {
+    "chiostro_pfeiler": {
+      "title": "Achteckige Pfeiler",
+      "description": "Entlang der Hofkante des Gangs stehen alle 8 Blöcke Pfeiler aus Pietra serena mit abgeschnittenen Ecken (im Maßstab 1:2 etwa 2 × 2 Blöcke), 5 Blöcke hoch, oben ein Kapitell aus Marmor.",
+      "tip": "Setze die Pfeiler im Abstand 8, vom Ende des Gangs aus.",
+      "caution": "Achteckig ist im Raster nur als Quadrat mit abgeschnittenen Ecken darstellbar. Form und Material der Pfeiler sind in den Quellen nicht beschrieben (Stufe C).",
+      "fact": "Vereinfacht, nicht nach Vorbild (Stufe C)."
+    },
+    "chiostro_bogen": {
+      "title": "Rundbögen",
+      "description": "Zwischen den Pfeilern öffnen sich Rundbögen (5,8 Blöcke breit, Scheitel auf Lage 7), darüber eine geschlossene Zone aus Putz und ein Band aus Pietra serena bis Lage 10. Die Bögen sind offen zum Garten und als Arkade deklariert.",
+      "tip": "Lass die Bogenöffnungen frei und bau die Zone darüber in einem Zug.",
+      "caution": "Die Bogenform ist Stufe C; belegt ist ein trecentesker Kreuzgang mit späteren Ergänzungen (it.wikipedia).",
+      "fact": "Kreuzgang des 14. Jahrhunderts mit späteren Ersetzungen und Ergänzungen (Quelle: it.wikipedia „Basilica di Santa Croce (Firenze)“ (Abschnitt Chiostri); Fläche aus den Stadtdaten (OSM), als Maske `primo_chiostro` im Rahmen der Basilika.)."
+    },
+    "chiostro_dach": {
+      "title": "Dach des Gangs",
+      "description": "Ein flaches Ziegeldach auf Lage 11 deckt den umlaufenden Gang (6 Blöcke tief) an den Wänden des Konvents; im Westen, Süden und Osten des Lobus sowie im Norden und Süden des Arms.",
+      "tip": "Das Dach ruht auf den Pfeilern und der Bogenzone.",
+      "caution": "Im Original läuft das Dach als Pultdach an die Wand; hier ist es flach (Stufe C).",
+      "fact": "Der lange Gang unter dem Portikus mit Loggia der Nordseite ist belegt (it.wikipedia)."
+    }
+  }
+}
