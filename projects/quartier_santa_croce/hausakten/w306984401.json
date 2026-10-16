@@ -1,49 +1,56 @@
 {
   "id": "w306984401",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "14. Jh. (Kern), 16./17. Jh. umgebaut",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
     "achsen": 6,
-    "material": "putz",
-    "putzfarbe": "grau",
+    "material": "bugnato_abgestuft",
+    "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "putz",
+      "typ": "rundbogen",
+      "rahmen": "pietra_forte",
       "laeden": "gruen"
     },
     "gesims": {
       "art": "cornicione_stein",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "fackelhalter_drache",
+      "wappen_salviati_vier",
+      "loggia_oben",
+      "strozzi_portal_rustika",
+      "geruestloecher"
+    ],
+    "marcapiano": "flach"
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
-    "altana": false
+    "altana": true
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Salviati-Quaratesi",
+  "sicherheit": 0.8,
+  "notiz": "Nach it.Wikipedia belegt: drei Geschosse, sechs Achsen, Pietra forte mit Rustika an den unteren Geschossen und Filaretto darüber, Segmentbogenöffnungen (ehemalige Fondachi) im Erdgeschoss, Rundbogenfenster in den Obergeschossen, Gurtgesimse, vier Salviati-Wappen, Fackelhalter in Drachenform, spätere Loggia, Altana des 15. Jh. mit dorischen Säulen, monumentales Strozzi-Portal mit Bossen. Annahme: Traufgesims, Höhenaufteilung der Geschosse.",
   "name": "Palazzo Salviati-Quaratesi"
 }

@@ -1,7 +1,7 @@
 {
   "id": "w307104291",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "14./15. Jh. (Kern), Fassade 1619-20 (Giulio Parigi)",
   "geschosse": [
     {
       "art": "eg",
@@ -20,7 +20,7 @@
     "kanten": "strasse",
     "achsen": 9,
     "material": "putz",
-    "putzfarbe": "gelb",
+    "putzfarbe": "sand",
     "erdgeschoss": {
       "art": "tor_und_fenster",
       "portalBreiteBl": 7,
@@ -28,22 +28,28 @@
     },
     "fenster": {
       "typ": "rahmen_stuck",
-      "rahmen": "pietra_forte",
+      "rahmen": "putz",
       "laeden": null
     },
     "gesims": {
-      "art": "putzgesims",
-      "tiefeBl": 1
+      "art": "gronda_holz",
+      "tiefeBl": 3
     },
-    "extras": []
+    "extras": [
+      "sporti_stein_14",
+      "fassadenmalerei",
+      "wappen_caccini",
+      "bueste_cosimo_ii",
+      "beschlagene_holztuer"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_dell'Antella",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia belegt: aus mehreren älteren Häusern zusammengefügt, im 16. Jh. um ein Geschoss samt Mezzanin erhöht, einheitliche Fassade 1619 durch Giulio Parigi mit Freskenbemalung 1619-20, vierzehn steinerne Sporti-Konsolen, nach Santa Croce hin enger gesetzte Fenster, Tür mit Beschlägen, Büste Cosimos II. über dem Eingang. Annahme: Putzfarbe, Achsenzahl, Fensterrahmung und Dach.",
   "name": "Palazzo dell'Antella"
 }

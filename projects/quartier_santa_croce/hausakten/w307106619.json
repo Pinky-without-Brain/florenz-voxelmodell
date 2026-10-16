@@ -1,7 +1,7 @@
 {
   "id": "w307106619",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "1317-1319 (Peruzzi), Obergeschosse 19./20. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -26,28 +26,31 @@
     "material": "putz",
     "putzfarbe": "ocker",
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "portal_seitlich",
       "portalBreiteBl": 7,
-      "fenster": "kniefenster"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "tabernakel",
-      "rahmen": "pietra_serena",
+      "typ": "rechteck",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
-      "art": "cornicione_stein",
-      "tiefeBl": 2
+      "art": "putzgesims",
+      "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "hufeisen_eisen",
+      "wappen_peruzzi_verwischt"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Mari",
+  "sicherheit": 0.6,
+  "notiz": "Nach it.Wikipedia belegt: von den Peruzzi 1317-19 erbaut, große kräftige Trecento-Arkaden im Erdgeschoss, zahlreiche Hufeisen des 14. Jh., fast verwischtes Peruzzi-Wappen an der Ecke Borgo de Greci, Obergeschosse im 19./20. Jh. verändert. Annahme: Achsen, Putzfarbe, Fenster, Gesims und Dach.",
   "name": "Palazzo Mari"
 }

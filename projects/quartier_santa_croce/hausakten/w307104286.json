@@ -1,19 +1,23 @@
 {
   "id": "w307104286",
-  "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "typ": "palazzo_ottocento",
+  "epoche": "14. Jh. (Kern), 1826 Umbau (Matas)",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 8
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "og",
+      "hoeheBl": 7
     }
   ],
   "fassade": {
@@ -22,9 +26,9 @@
     "material": "putz",
     "putzfarbe": "weiss",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
       "typ": "tabernakel",
@@ -35,15 +39,18 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "balkon_figurenkonsolen",
+      "wappen_obergeschoss_fuenf"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Bartolini_Baldelli",
+  "sicherheit": 0.65,
+  "notiz": "Nach it.Wikipedia belegt: auf Trecento-Resten, heutiges Aussehen durch den Umbau von Niccolò Matas 1826, vier Geschosse, Sockel aus Pietra forte, 1952-53 freigelegte vermauerte Bogenöffnungen im Erdgeschoss, Balkon des 19. Jh. auf Figurenkonsolen, fünf Wappen zwischen den Fenstern des obersten Geschosses. Annahme: Putzfarbe, Achsen, Fenster, Gesims und Dach.",
   "name": "Palazzo Bartolini Baldelli"
 }
