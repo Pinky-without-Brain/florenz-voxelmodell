@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände mit abgestufter Rustika, Biforien, Kranzgesims",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: Im Erdgeschoss Rustika aus Pietra forte mit kräftigen Fugen, im ersten Obergeschoss flachere Rustika, im obersten Geschoss glatte Pietra-forte-Wand (abgestufte Rustika, bugnato).",
+      "tip": "Die Fugenlagen (Pietra forte) liegen im Erdgeschoss in jeder dritten Lage, im ersten Obergeschoss in jeder vierten.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Die Fassade zeigt Bugnato aus Pietra forte, nach oben abnehmend: Kissenquader im Erdgeschoss, flache Bugne im ersten Stock, glatte Wand oben (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster mit Glas: im Erdgeschoss klein, in den Obergeschossen höher und mit einer Mittelsäule als Biforium (zweigeteiltes Fenster); drei Portale zur Piazza San Firenze.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Die Fenster des zweiten Geschosses sind etwas höher ausgeführt, als optische Korrektur (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Pietra serena schließt die Fassade bei Y 86 ab.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Das Dachgesims trägt Konsolen (Quelle: it.wikipedia, Palazzo Gondi)."
+    }
+  }
+}

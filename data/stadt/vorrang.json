@@ -1,5 +1,5 @@
 {
-  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2), UEBERSICHT_WELLE3.md (Welle 3), UEBERSICHT_WELLE5.md (Welle 5) und UEBERSICHT_WELLE6.md (Welle 6)",
+  "quelle": "20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT.md §2/§3 (Welle 1) , UEBERSICHT_WELLE2.md §2 (Welle 2), UEBERSICHT_WELLE3.md (Welle 3), UEBERSICHT_WELLE5.md (Welle 5) und UEBERSICHT_WELLE6.md (Welle 6) und UEBERSICHT_WELLE7.md (Welle 7)",
   "ids": {
     "r1461712": "palazzo_vecchio",
     "w43284457": "loggia_dei_lanzi",
@@ -60,6 +60,10 @@
     "w673464782": "san_frediano_in_cestello",
     "w234429578": "san_gaetano",
     "w234429579": "santa_maria_maggiore",
-    "w451785463": "santi_apostoli"
+    "w451785463": "santi_apostoli",
+    "r4084512": "palazzo_gondi",
+    "r4101722": "palazzo_spini_feroni",
+    "r4101721": "palazzo_bartolini_salimbeni",
+    "r1610588": "palazzo_antinori"
   }
 }

@@ -259,3 +259,34 @@ Drei Wahrzeichen der Welle 6c stehen von Anfang an auf `"begehbarkeit": "pflicht
 - **Schmuck:** 16 Tondi mit Fischen (3 × 3, Terrakotta), vier Eckwappen, Kartusche und Inschriftentafel als Farbfelder, drei Marktbänke (eine Lage hoch). Die acht Medaillons je Seite sind nicht gebaut.
 - **Kennzahl:** Vier Seelaternen genügen für die Halle (Raster 12); der Lichttest prüft nur die Halle, nicht die Bogenzellen der Wand.
 
+
+## 21. Palazzi der Welle 7 (W7a, 16.10.2026)
+Vier Palazzi an Via Tornabuoni, Piazza San Firenze und Piazza Antinori sind eigene Wahrzeichen und stehen von Anfang an auf `"begehbarkeit": "pflicht"` (R13: 0 nicht erreichbare Komponenten, R14: 0 Lücken). Alle laufen über `tools/wahrzeichen/palazzo.js` (unverändert) mit `raeume`, `extra.vorher` und eigenen Treppen; Kataloge: `wahrzeichen/palazzo_gondi/` usw. Der Content der Module 0 bis 5 entsteht mit `node tools/diag/w7a_inhalt.js <id>` (Angaben in `tools/diag/w7a_inhalt_daten.js`), Modul 6 aus `INHALT` in `model/_raeume.js`. Hilfsskripte für die Vermessung: `tools/diag/_mess_w7a.js` (Kanten und Rahmen), `_karte_w7a.js` (Karte), `_strassen_w7a.js` (angrenzende Straßen und Gelände), `_hof_w7a.js` (Löcher), `_zelle_w7a.js` (Zellen eines Bauplans).
+
+### Palazzo Gondi
+`palazzo_gondi` (OSM r4084512, 3.997 Zellen, Hof und Lichthof, aus `quartier_signoria` gelöst), Rahmen θ 80,73° entlang der Ostfassade zur Piazza San Firenze, `bodenY` 63. R13: 84,6 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 43.278 Blöcke, 7 Module. Test: `tools/test/palazzo_gondi.test.js` (7 Tests).
+- **Abgestufte Rustika:** Material nach Geschoss (Kissenquader mit Fugen im EG, flachere Rustika im 1. OG, glatte Pietra forte oben); Fenster mit Biforien in den Obergeschossen, das zweite Geschoss höher; Fensterraster so verschoben, dass die Portale in Fensterachsen liegen (sonst bleibt ein schmaler Glasrest im schrägen Portalrand ohne Halt, R3).
+- **Hoftreppe nach Sangallo:** neun Treppenblöcke (zwei breit) im Nordflügel, Aufstieg nach Westen in Weltachse (der Rahmen ist um 10° gedreht), **Kragstein unter jeder Stufe** (Muster Davanzati), Treppenloch über den oberen Stufen (`extra.vorher` setzt die Stufen und gibt die Zellen vor dem Boden frei). Die Stufen sind erreichbar und haben Kopffreiheit 3 (Test).
+- **Türen der Hofinnenwand:** `hofEntlang` ist an der Innenwand nicht gesetzt; `innenwandTuer` bestimmt die Hofseite aus der Lage zur Hofmitte (eine Tür je Seite).
+- **Stolperfalle:** `K.waende` ersetzt auch Hofwände eines benachbarten Lichthofs und lässt deren Glas allein stehen (R3); `nurTeile` schließt `hofwaende` aus.
+
+### Palazzo Spini Feroni
+`palazzo_spini_feroni` (OSM r4101722, 4.390 Zellen, ein Hof von 19 × 17 Blöcken, aus `quartier_tornabuoni` gelöst), Rahmen θ 122,43° entlang des Borgo Santi Apostoli, `bodenY` 61. R13: 89,8 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 62.154 Blöcke, 7 Module. Test: `tools/test/palazzo_spini_feroni.test.js` (6 Tests).
+- **Pietra-forte-Block mit Zinnen:** Bruchstein außen mit behauenen Bändern, Walmdach mit Zinnenkranz (wie Bargello, Teil `zinnen` im Dach-Modul), drei Geschosse mit Biforien in den Obergeschossen; Portale in Fensterachsen, Portalhöhe 9 (bei Höhe 8 blieb der Fensterscheitel über dem Portal als zwei Blöcke Glas ohne Halt, R3).
+- **Hof ohne Arkaden:** Die Quelle beschreibt keinen Hof; `hof.tiefe: 0` gibt eine geschlossene Hofwand, vier Türen (3 × 5) schneidet `extra.oeffnungen` (Seite aus der Lage zur Hofmitte).
+- **Museum im Erdgeschoss:** Das Museo Ferragamo liegt in Wirklichkeit im Untergeschoss; das Modell hat keins (Abweichung im Katalog).
+- **Stolperfalle:** Ein Altar mit 20 Stehzellen auf Höhe +2 (4 × 5) ist eine nicht erreichbare Komponente (R13-Grenze 20); auf 3 × 5 verkleinert.
+
+### Palazzo Bartolini Salimbeni
+`palazzo_bartolini_salimbeni` (OSM r4101721, 2.673 Zellen, ein Hof von 8 × 10 Blöcken, aus `quartier_tornabuoni` gelöst), Rahmen θ 96,87° entlang der Fassade zur Piazza di Santa Trinita, `bodenY` 62. R13: 87,9 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 37.069 Blöcke, 7 Module. Test: `tools/test/palazzo_bartolini_salimbeni.test.js` (6 Tests).
+- **Kreuzfenster aus Bifora und Querriegel:** Der gemeinsame Bauplan setzt in `bifora`-Fenstern einen Mittelpfosten; der Querriegel (Pietra serena auf 55 % der Fensterhöhe) ersetzt in `ausstatten` die Glaszellen des Rohbauteils `fenster` (Teil `fenster_kreuz`), jedes zweite Fenster trägt einen Goldblock als Kartusche („Per non dormire“). Die Fenster bleiben verglast (vier Scheiben), R14 ist unverändert 0.
+- **Inschriftenbänder und Mohnfries als Farbfelder:** `K.flaeche` ersetzt Fassadenzellen (Lage 10 über den Portalbögen, Lage 28 unter dem Kranzgesims); Fenster bleiben unberührt.
+- **Sgraffito:** nur die Hofseite (`dHof === 1`) der Obergeschosse; die Hofwand des Erdgeschosses bleibt mit den Arkaden frei.
+- **Tür am Rand der Lichtreichweite:** Eine Trennwandtür 12,04 Blöcke von der nächsten Seelaterne ließ den Lichttest scheitern; die Tür wurde um zwei Blöcke verschoben (`tools/diag/_licht_w7a.js` listet solche Zellen). Einzelne Stehzellen-Taschen an der schrägen Westwand (unter 20 Zellen) bleiben unerreichbar und zählen nicht als Fehler; der Test verlangt 90 % je Raum (`tools/diag/_erreich_w7a.js` listet sie).
+
+### Palazzo Antinori
+`palazzo_antinori` (OSM r1610588, 6.489 Zellen, ein Hof von 16 × 13 Blöcken, aus `quartier_strozzi` gelöst), Rahmen θ −179,63° entlang der Fassade zur Piazza degli Antinori, `bodenY` 63. R13: 86,3 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 69.492 Blöcke, 7 Module. Test: `tools/test/palazzo_antinori.test.js` (6 Tests).
+- **Gefälle:** Das Gelände fällt von 64 (Portal) auf 58 (Nordwesten); `bodenY` 63 hält das Portal bündig (eine Stufe nach unten), rückseitig trägt ein Fundament aus Bruchstein bis zu vier Blöcke. Der Westblock (früheres Haus der Via delle Belle Donne, Pflaster bei 61) liegt zwei Blöcke tiefer als der Hausboden: **zwei Treppenblöcke vor dem Stalltor** (`geradeTreppe`, Kragstein unter der oberen Stufe, Teil `treppe_stalltor`), sonst wäre das Tor für R13 und für den Spieler zu hoch (Aufstieg höchstens ein Block).
+- **Zwei Bauteile in einem Umriss:** Hauptblock, Verbindungsband und Westblock bilden ein U; die Trennwände (drei Linien) gelten nur im Vorderteil, der Rest sind große Säle (alle Geschosse erreichbar über die Wendeltreppe im Westflügel).
+- **Hoftüren:** An der Innenwand ist `hofEntlang` nicht gesetzt; `innenwandTuer` bestimmt die Seite aus der Lage zur Hofmitte, die Fassadenseite liegt in der Portalachse.
+- **Fassadenachsen:** Acht Achsen mit dem Portal zwischen den mittleren (Wappen darüber), `fenster.versatz` richtet das Raster danach aus.

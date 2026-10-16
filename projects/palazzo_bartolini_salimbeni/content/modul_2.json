@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Hof",
+  "subtitle": "Bautüte 2: Hofarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof (vier Blöcke Joch); dahinter liegt eine Galerie.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Der Hof hat einen Portikus an drei Seiten mit Säulen und Rundbögen; eine Seite und ein Joch wurden später geschlossen (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 92, verputzt, mit Gesimsen auf Höhe der Geschossböden.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Der Hof trägt einfarbigen Sgraffito-Schmuck und Grotesken (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zum Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Im ersten Obergeschoss öffnet sich eine Loggia mit drei Bögen und hölzerner Kassettendecke; sie ist hier nicht gebaut (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen Galerie und Räumen steht im Erdgeschoss eine Innenwand mit Türen von 3 Blöcken Breite.",
+      "tip": "Türen in der Mitte jeder Hofseite.",
+      "caution": "Türen frei lassen.",
+      "fact": "Der Hof ist über einen tonnengewölbten Durchgang erreichbar (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen den Ring im Erdgeschoss in Durchgang, Nordost- und Südostraum, Nord- und Südflügel und die beiden Westräume; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

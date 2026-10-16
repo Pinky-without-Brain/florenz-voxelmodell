@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände mit Rustikaecken, Kreuzfenster, Kranzgesims",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: zur Piazza di Santa Trinita Pietra forte, zur Via Porta Rossa und Via delle Terme Pietra serena mit Bändern aus Pietra forte; die Ecken sind mit Rustika verstärkt.",
+      "tip": "Jede vierte Lage wechselt den Stein.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Die Fassade ist zur Piazza aus Pietra forte, zur Via Porta Rossa aus Pietra serena und Pietra bigia (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rechteckähnliche Fenster mit Glas und Mittelpfosten im Raster 10; der Querriegel kommt in Modul 6 dazu und macht daraus Kreuzfenster. Zwei Portale: an der Piazza und an der Via Porta Rossa.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Die Fenster sind durch kreuzförmige Steinglieder in vier Felder geteilt (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Marmor bei Y 92 springt vor; der Fries mit den Mohnblüten kommt in Modul 6.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Ein vorspringendes Kranzgesims mit klassischen Zahnschnitten und ein Fries mit drei Mohnblüten krönen die Fassade (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    }
+  }
+}

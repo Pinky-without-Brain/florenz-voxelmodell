@@ -1,0 +1,71 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Hof und Fassadenschmuck",
+  "subtitle": "Bautüte 6: Durchgang, Hof mit Sgraffito, Kassettensaal, Sammlung, Inschriften und Mohnfries",
+  "icon": "🌺",
+  "parts": {
+    "passaggio": {
+      "title": "Durchgang zum Hof",
+      "description": "Schmaler Gang hinter dem Portal an der Piazza di Santa Trinita (Schachboden aus Pietra serena und Marmor, Wandfelder mit Pilastern); die Decke ist nach den Seiten abgesenkt und deutet ein Tonnengewölbe an.",
+      "tip": "Die Decke erst von den Wänden aus füllen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Das Gewölbe ist nur flach angedeutet; Lage Stufe C.",
+      "fact": "Den Hof erreicht man durch einen tonnengewölbten Durchgang (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "hof_bartolini": {
+      "title": "Hofpflaster",
+      "description": "Hofboden im Schachmuster aus Pflaster und Marmor zwischen den Arkaden auf vier Seiten.",
+      "tip": "Erst das Pflaster, dann die Wandzier.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Der Hof hat im Modell auf vier Seiten Arkaden (Wirklichkeit: drei, die vierte Seite ist verbaut).",
+      "fact": "Der Hof hat einen Portikus an drei Seiten mit Säulen und Rundbögen (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "sgraffito": {
+      "title": "Sgraffito im Hof",
+      "description": "Auf den Hofwänden des Piano nobile und des zweiten Obergeschosses verlaufen Muster aus dunklen Blöcken auf hellem Putz, die einfarbige Grotesken andeuten.",
+      "tip": "Nur die Blöcke der Hofseite austauschen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Muster sind zufällig verteilt, keine Figuren.",
+      "fact": "Der Hof trägt einfarbigen Sgraffito-Schmuck und Grotesken, Andrea Feltrini zugeschrieben, bis ins zweite Geschoss (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "sala_cassettoni": {
+      "title": "Saal mit Kassettendecke",
+      "description": "Saal im Piano nobile des Westflügels: Cottoboden, helle Wandfelder mit Holzrahmen und eine Kassettendecke aus Holz, in deren Kassettenmitten rote Blöcke den Mohnkopf andeuten.",
+      "tip": "Die Decke als Gitter unter dem Boden des Obergeschosses.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C.",
+      "fact": "Hölzerne Kassettendecken mit Mohnkopf-Emblemen gehören zur Ausstattung (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "collezione_casamonti": {
+      "title": "Sammlung Casamonti",
+      "description": "Galerie im Piano nobile des Westflügels: Schachboden in Weiß und Schwarz, Bildfelder in Rot, Blau, Gelb und Grün an den Wänden und zwei freistehende Stellwände mit Bildern.",
+      "tip": "Die Stellwände lassen Durchgänge frei.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Bilder sind nur Farbflächen; Lage Stufe C.",
+      "fact": "Im Palast ist heute die Collezione Roberto Casamonti untergebracht, seit 2018 öffentlich zugänglich (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "inschriften": {
+      "title": "Inschriften und Kartuschen",
+      "description": "Ein Band aus Gold und Weiß über dem Portal an der Piazza und über dem Portal an der Via Porta Rossa als Platzhalter der Inschriften, dazu einzelne Goldblöcke als Kartuschen im Querriegel der Fenster.",
+      "tip": "Das Band liegt eine Lage über dem Portalbogen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Schrift ist nicht lesbar nachgebildet.",
+      "fact": "Über dem Hauptportal steht „Carpere promptius quam imitari“; „Per non dormire“, der Wahlspruch der Familie, erscheint in Kartuschen auf den Kreuzfenstern (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "fries_mohn": {
+      "title": "Fries mit Mohnblüten",
+      "description": "Unter dem Kranzgesims läuft ein Band aus roten und grünen Blöcken: Mohnblüte, Knospe, Mohnblüte im Wechsel.",
+      "tip": "Eine Lage unter dem Gesims.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Der Fries trägt das Emblem der drei Mohnblüten, ein Hinweis auf „Per non dormire“ (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "fenster_kreuz": {
+      "title": "Querriegel der Kreuzfenster",
+      "description": "In jedem Fenster liegt auf etwas mehr als der halben Höhe ein Querriegel aus Pietra serena; zusammen mit dem Mittelpfosten ergibt das ein Kreuz, das das Fenster in vier Scheiben teilt.",
+      "tip": "Der Riegel ersetzt eine Glaslage.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Giebel und Architrave über den Fenstern sind nicht gebaut.",
+      "fact": "Die Fenster sind durch kreuzförmige Steinglieder in vier Felder geteilt (Quelle: it.wikipedia, Palazzo Bartolini Salimbeni)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

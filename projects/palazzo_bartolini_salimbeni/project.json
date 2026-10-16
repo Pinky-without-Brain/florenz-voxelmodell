@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_bartolini_salimbeni",
+  "title": "Palazzo Bartolini Salimbeni",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r4101721"
+  ],
+  "bodenY": 62,
+  "rahmen": {
+    "ox": -803.5,
+    "oz": 659,
+    "thetaDeg": 96.87
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

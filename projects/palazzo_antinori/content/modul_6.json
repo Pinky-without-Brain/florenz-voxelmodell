@@ -1,0 +1,78 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Hof und Stallungen",
+  "subtitle": "Bautüte 6: Durchgang, Cantinetta, Hof mit Brunnen, Kassettensäle, Stallungen und Wappen",
+  "icon": "🍷",
+  "parts": {
+    "androne": {
+      "title": "Durchgang zum Hof",
+      "description": "Gang hinter dem schlichten Portal in der Fassadenmitte: Schachboden aus Pietra serena und Marmor, Wandfelder mit Pilastern; am Ende öffnet sich der Hof.",
+      "tip": "Boden zuerst, dann Wandraster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Kreuzgewölbe sind nicht gebaut; Lage Stufe C.",
+      "fact": "Der Grundriss folgt dem Palazzo Medici mit der Achse Portal, Hof und Garten (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "cantinetta": {
+      "title": "Cantinetta Antinori",
+      "description": "Gaststube im Erdgeschoss der Westhälfte: Schachboden aus Cotto und Holz, helle Wände mit Holzrahmen, sechs Tische mit je einer Bank (eine Lage hoch).",
+      "tip": "Die Tische stehen in zwei Reihen mit Gang dazwischen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C.",
+      "fact": "Im Erdgeschoss befindet sich seit 1957 das Restaurant Cantinetta Antinori (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "hof_antinori": {
+      "title": "Hof",
+      "description": "Hofboden mit Wegekreuz aus Pietra serena und Schachmuster aus Pflaster und Marmor zwischen den Arkaden.",
+      "tip": "Erst das Pflaster, dann der Brunnen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Arkaden laufen im Modell um vier Seiten (Wirklichkeit: drei Seiten); die Loggia im zweiten Geschoss ist nicht gebaut.",
+      "fact": "Der Hof hat auf drei Seiten Portiken mit Rundbögen und Kreuzgewölben, die Säulen aus Pietra serena tragen Kompositkapitelle (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "pozzo": {
+      "title": "Ziehbrunnen im Hof",
+      "description": "Rundes Becken aus Pietra serena mit Wasserfläche und einer Mittelsäule als Brunnenaufsatz.",
+      "tip": "Becken, Wasser, dann die Säule.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Verzierung des Brunnenkopfs ist nicht nachgebildet.",
+      "fact": "Im Hof steht ein verzierter Ziehbrunnen (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "sala_cassettoni_ovest": {
+      "title": "Saal mit bemalter Kassettendecke (West)",
+      "description": "Großer Saal im Piano nobile des Westflügels: Cottoboden, helle Wandfelder, Kassettendecke aus Holz mit blau bemalten Feldern und Goldmitten, Tafel.",
+      "tip": "Die Decke als Gitter unter dem Boden des Obergeschosses.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Konsolen unter der Decke sind nicht gebaut; Lage Stufe C.",
+      "fact": "Das Piano nobile hat große bemalte Holzkassettendecken auf Konsolen (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "sala_cassettoni_est": {
+      "title": "Saal mit bemalter Kassettendecke (Ost)",
+      "description": "Saal im Piano nobile des Ostflügels: Cottoboden, Wandfelder in Weiß und Hellblau, Kassettendecke aus Holz mit rot bemalten Feldern und Goldmitten, Tafel.",
+      "tip": "Die Decke als Gitter unter dem Boden des Obergeschosses.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage und Farben Stufe C.",
+      "fact": "Das Piano nobile hat große bemalte Holzkassettendecken auf Konsolen (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "scuderie": {
+      "title": "Stallungen und Remisen",
+      "description": "Langgestreckte Halle im früheren Haus an der Via delle Belle Donne: Pflaster im Schachmuster, Boxentrennwände und Krippen aus Holz (eine Lage hoch), Tor zur Straße.",
+      "tip": "Die Trennwände sind nur einen Block hoch.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage und Einteilung Stufe C; der Umbau stammt wahrscheinlich aus dem 18. Jahrhundert.",
+      "fact": "Das frühere Gebäude an der Via delle Belle Donne wurde wahrscheinlich im 18. Jahrhundert zu Stallungen und Remisen umgebaut (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "treppe_stalltor": {
+      "title": "Stufen vor dem Stalltor",
+      "description": "Zwei Treppenblöcke aus Pietra serena (sieben Blöcke breit) führen von der tiefer liegenden Via delle Belle Donne zum Stalltor; unter der oberen Stufe trägt ein Kragstein.",
+      "tip": "Erst der Kragstein, dann die beiden Stufen von außen nach innen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Stufen gleichen den Höhenunterschied von zwei Blöcken zwischen Straße und Hausboden aus.",
+      "fact": "Das frühere Haus an der Via delle Belle Donne liegt am westlichen Ende des Grundstücks (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "stemma": {
+      "title": "Wappen über dem Portal",
+      "description": "Goldgerahmtes Wappenschild als Farbfeld in der Fassadenmitte über dem Portal (Rot, Weiß und Blau).",
+      "tip": "Das Schild liegt zwischen den beiden mittleren Fenstern.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Farben des Wappens sind Stufe C.",
+      "fact": "In der Fassadenmitte sitzt ein Wappen aus Stein, das ein gusseisernes des 19. Jahrhunderts ersetzt (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

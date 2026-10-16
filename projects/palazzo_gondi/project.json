@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_gondi",
+  "title": "Palazzo Gondi",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r4084512"
+  ],
+  "bodenY": 63,
+  "rahmen": {
+    "ox": 89,
+    "oz": 729,
+    "thetaDeg": 80.73
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

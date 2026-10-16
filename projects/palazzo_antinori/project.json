@@ -1,0 +1,17 @@
+{
+  "id": "palazzo_antinori",
+  "title": "Palazzo Antinori",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r1610588"
+  ],
+  "bodenY": 63,
+  "rahmen": {
+    "ox": -905,
+    "oz": 125,
+    "thetaDeg": -179.63
+  },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

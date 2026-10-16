@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände mit glatter Bugnato, Rundbogenfenster, Kranzgesims",
+  "icon": "🏰",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind zwei Blöcke dick: Im Erdgeschoss glatte Quader (Pietra forte, jede zweite Lage mit Fuge), darüber glatte Pietra-forte-Wand; innen Putz.",
+      "tip": "Im Erdgeschoss wechseln Rustika und glatte Lage je Block.",
+      "caution": "Fenster und Portale bleiben beim Bauen frei.",
+      "fact": "Das Erdgeschoss ist glatt rustiziert (bugne lisce) (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rundbogenfenster mit Glas im Raster 9,6 (acht Achsen); im Erdgeschoss niedrig, im Piano nobile am höchsten; das schlichte Portal liegt in der Mitte zwischen den Achsen.",
+      "tip": "Die Fenster sitzen im gleichen Raster in allen Geschossen.",
+      "caution": "Die Fenster sind mit Glas gefüllt.",
+      "fact": "Zwei Geschosse haben Rundbogenfenster (Quelle: it.wikipedia, Palazzo Antinori)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Das Kranzgesims aus Marmor bei Y 86 schließt die Fassade ab.",
+      "tip": "Das Gesims springt nicht vor, es besteht aus der obersten Wandlage.",
+      "caution": "Bis hierher reicht die Traufe, darüber beginnt das Dach.",
+      "fact": "Das Kranzgesims springt stark vor (Quelle: it.wikipedia, Palazzo Antinori)."
+    }
+  }
+}
