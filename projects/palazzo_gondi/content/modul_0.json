@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 63, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Palast tiefer liegt als Y 62, füllst du mit Bruchstein bis Y 62 auf; höher liegendes Gelände wurde bis Y 62 abgetragen.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 62 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Giuliano da Sangallo entwarf den Palast 1490 für Giuliano di Lionardo Gondi; um 1501 war er bewohnbar, aber noch unvollendet (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 63 legst du den Boden des Erdgeschosses im Schachmuster aus Terrakotta und hellem Marmor; unter den Hofarkaden liegt Pietra serena.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Der Palast ist ein kubischer Baukörper um einen zentralen Innenhof (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster und Pietra serena liegt auf Y 63, in der Mitte steht der Brunnen.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der zentrale Brunnen mit doppelter Schale stammt von 1652 (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 86).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Sangallos monumentale Treppe liegt an der Nordseite des Hofs; die Wendeltreppe hier ergänzt den Zugang zum obersten Geschoss (Quelle: it.wikipedia, Palazzo Gondi)."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum.",
+      "tip": "Von der Außenkante und der Hofkante steigt das Dach lagenweise an.",
+      "caution": "Der Dachraum hat keinen Zugang.",
+      "fact": "Auf dem Dach steht eine Altana mit Säulen in Achse mit dem zweiten Portal; sie ist hier nicht gebaut (Quelle: it.wikipedia, Palazzo Gondi)."
+    }
+  }
+}

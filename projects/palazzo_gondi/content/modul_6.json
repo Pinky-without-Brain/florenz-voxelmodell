@@ -1,0 +1,92 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume, Hoftreppe und Hof",
+  "subtitle": "Bautüte 6: Vestibül, Sangallos Treppe, Hof mit Brunnen, Sala grande und Salons",
+  "icon": "🏛️",
+  "parts": {
+    "vestibolo": {
+      "title": "Vestibül",
+      "description": "Eingangshalle hinter dem mittleren Portal: Schachboden aus Pietra serena und Marmor, Wandfelder zwischen Pilastern und ein umlaufender Fries aus Pietra serena als Platzhalter für die Reliefs.",
+      "tip": "Boden zuerst, dann Wandraster und Fries.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Reliefs selbst sind nicht nachgebildet; Lage Stufe C.",
+      "fact": "Das Vestibül hat Reliefs aus Pietra serena (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "treppenhaus": {
+      "title": "Treppenhaus",
+      "description": "Großer Raum im Nordflügel um Sangallos Treppe: Pflaster im Schachmuster, Wandfelder zwischen Pilastern aus Pietra serena; im Piano nobile eine Kassettendecke aus Holz und Gold.",
+      "tip": "Die Treppe steht vor dem Wandraster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Füllhörner und Diamanten der Kassetten sind nur als Goldfelder angedeutet.",
+      "fact": "Die Deckenkassetten über der Treppe zeigen Füllhörner und Diamanten (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "scalone": {
+      "title": "Hoftreppe nach Sangallo",
+      "description": "Gerade Treppe aus neun Treppenblöcken aus Pietra serena, zwei Blöcke breit, Aufstieg nach Westen vom Erdgeschoss zum Piano nobile; unter jeder Stufe trägt ein Kragstein, darüber ist der Boden des Piano nobile offen (Kopffreiheit drei Blöcke).",
+      "tip": "Stufe für Stufe von unten, Kragstein zuerst.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Wangen mit Tier- und Pflanzenmotiven und die Balustraden mit gedrehten Kanneluren sind nicht gebaut; der Treppenraum liegt im Nordflügel (Stufe C).",
+      "fact": "Sangallo schuf die monumentale Treppe an der Nordseite des Hofs, die Wangen trugen Tier- und Pflanzenmotive (Originale heute im Victoria and Albert Museum) (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "cortile": {
+      "title": "Hof",
+      "description": "Hofpflaster mit Wegekreuz aus Pietra serena und Schachmuster; rundum Arkaden (Joch 4) mit einer Galerie dahinter.",
+      "tip": "Erst das Pflaster, dann der Brunnen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Säulen sind aus dem gemeinsamen Palazzo-Bauplan, nicht korinthisch ausgeformt.",
+      "fact": "Der Hof hat auf allen vier Seiten Arkaden mit korinthischen Säulen (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "hofbrunnen": {
+      "title": "Brunnen im Hof",
+      "description": "Rundes Becken aus Pietra serena mit Wasserfläche und einer Mittelsäule, die oben in einer zweiten, kleineren Schale endet (doppelte Schale).",
+      "tip": "Becken, Wasser, dann die Säule.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Der zentrale Brunnen mit doppelter Schale stammt von 1652 und wurde aus dem Boboli-Garten gespeist (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "sala_grande": {
+      "title": "Großer Saal",
+      "description": "Saal im Piano nobile des Südflügels: Schachboden aus Cotto und Marmor, Wandfelder mit Bildern in Goldrahmen als Ahnenporträts, Kassettendecke und eine Tafel aus Holz.",
+      "tip": "Boden, Wandraster, Decke, zuletzt die Tafel.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Es sind Wandfelder im Raster, nicht genau elf Porträts; Lage Stufe C.",
+      "fact": "Der große Saal zeigt elf Ahnenporträts und einen monumentalen Steinkamin (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "kamin_sangallo": {
+      "title": "Kamin mit Herkules und Samson",
+      "description": "Steinkamin an der Westwand des großen Saals (Wangen aus Pietra serena, Sturz aus Marmor, Rauchfang) mit zwei Blockfiguren auf Sockeln daneben.",
+      "tip": "Kamin zuerst, dann die beiden Figuren.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Figuren stehen neben dem Kamin, nicht auf ihm.",
+      "fact": "Der Kamin Sangallos (1501–1505) wird von Figuren des Herkules und des Samson bekrönt (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "sala_paesaggi": {
+      "title": "Sala dei Paesaggi",
+      "description": "Salon im Piano nobile der Nordostecke: Cottoboden, Wandfelder in Wiesengrün und Himmelblau als Landschaftsbilder in Goldrahmen, eine Tafel.",
+      "tip": "Die Felder werden von unten nach oben grün, hell und blau.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C; die Bilder sind nur Farbflächen.",
+      "fact": "Die Sala dei Paesaggi gehört zu den Räumen des Piano nobile (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "sala_giove_ebe": {
+      "title": "Sala di Giove ed Ebe",
+      "description": "Salon im Piano nobile der Südostecke: Wandfelder in Blau und Weiß mit Goldrahmen, an der Decke ein rundes Götterhimmel-Bild (weiß und gelb auf Hellblau).",
+      "tip": "Das Deckenbild als Kreis aus Farbblöcken.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C; das Deckenbild ist nur angedeutet.",
+      "fact": "Die Sala di Giove ed Ebe gehört zu den Räumen des Piano nobile (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "alkoven": {
+      "title": "Alkoven von 1710",
+      "description": "Raum im Nordwestflügel des Piano nobile mit Stuckwänden in Weiß und Gold und einem Deckenfresko in Rot und Hellblau.",
+      "tip": "Wandfelder und Deckenbild trennen.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Lage Stufe C; Stuck und Fresko sind nur Farbflächen.",
+      "fact": "Der Alkoven von 1710 hat Stuck von Giovanni Battista Ciceri, Deckenfresken von Matteo Bonechi und Quadraturen von Lorenzo Del Moro (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "panca": {
+      "title": "Sockelbank (panca di via)",
+      "description": "Steinbank aus Pietra serena entlang der Fassade zur Piazza San Firenze, an den Portalen unterbrochen, eine Lage hoch auf dem Straßenpflaster.",
+      "tip": "Die Bank liegt einen Block hoch auf dem Pflaster.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Nur innerhalb des Luftraums von 2 Blöcken.",
+      "fact": "Die Fassade hat eine Sockelzone als Straßenbank (Quelle: it.wikipedia, Palazzo Gondi)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

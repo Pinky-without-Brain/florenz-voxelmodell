@@ -259,3 +259,13 @@ Drei Wahrzeichen der Welle 6c stehen von Anfang an auf `"begehbarkeit": "pflicht
 - **Schmuck:** 16 Tondi mit Fischen (3 × 3, Terrakotta), vier Eckwappen, Kartusche und Inschriftentafel als Farbfelder, drei Marktbänke (eine Lage hoch). Die acht Medaillons je Seite sind nicht gebaut.
 - **Kennzahl:** Vier Seelaternen genügen für die Halle (Raster 12); der Lichttest prüft nur die Halle, nicht die Bogenzellen der Wand.
 
+
+## 21. Palazzi der Welle 7 (W7a, 16.10.2026)
+Vier Palazzi an Via Tornabuoni, Piazza San Firenze und Piazza Antinori sind eigene Wahrzeichen und stehen von Anfang an auf `"begehbarkeit": "pflicht"` (R13: 0 nicht erreichbare Komponenten, R14: 0 Lücken). Alle laufen über `tools/wahrzeichen/palazzo.js` (unverändert) mit `raeume`, `extra.vorher` und eigenen Treppen; Kataloge: `wahrzeichen/palazzo_gondi/` usw. Der Content der Module 0 bis 5 entsteht mit `node tools/diag/w7a_inhalt.js <id>` (Angaben in `tools/diag/w7a_inhalt_daten.js`), Modul 6 aus `INHALT` in `model/_raeume.js`. Hilfsskripte für die Vermessung: `tools/diag/_mess_w7a.js` (Kanten und Rahmen), `_karte_w7a.js` (Karte), `_strassen_w7a.js` (angrenzende Straßen und Gelände), `_hof_w7a.js` (Löcher), `_zelle_w7a.js` (Zellen eines Bauplans).
+
+### Palazzo Gondi
+`palazzo_gondi` (OSM r4084512, 3.997 Zellen, Hof und Lichthof, aus `quartier_signoria` gelöst), Rahmen θ 80,73° entlang der Ostfassade zur Piazza San Firenze, `bodenY` 63. R13: 84,6 % der Raumzellen erreichbar (der Rest ist der als `unzugaenglich` deklarierte Dachraum), 0 Komponenten; R14: 0 Lücken. 43.278 Blöcke, 7 Module. Test: `tools/test/palazzo_gondi.test.js` (7 Tests).
+- **Abgestufte Rustika:** Material nach Geschoss (Kissenquader mit Fugen im EG, flachere Rustika im 1. OG, glatte Pietra forte oben); Fenster mit Biforien in den Obergeschossen, das zweite Geschoss höher; Fensterraster so verschoben, dass die Portale in Fensterachsen liegen (sonst bleibt ein schmaler Glasrest im schrägen Portalrand ohne Halt, R3).
+- **Hoftreppe nach Sangallo:** neun Treppenblöcke (zwei breit) im Nordflügel, Aufstieg nach Westen in Weltachse (der Rahmen ist um 10° gedreht), **Kragstein unter jeder Stufe** (Muster Davanzati), Treppenloch über den oberen Stufen (`extra.vorher` setzt die Stufen und gibt die Zellen vor dem Boden frei). Die Stufen sind erreichbar und haben Kopffreiheit 3 (Test).
+- **Türen der Hofinnenwand:** `hofEntlang` ist an der Innenwand nicht gesetzt; `innenwandTuer` bestimmt die Hofseite aus der Lage zur Hofmitte (eine Tür je Seite).
+- **Stolperfalle:** `K.waende` ersetzt auch Hofwände eines benachbarten Lichthofs und lässt deren Glas allein stehen (R3); `nurTeile` schließt `hofwaende` aus.
