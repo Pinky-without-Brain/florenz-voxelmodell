@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Außenwände und Fenster",
+  "subtitle": "Bautüte 1: Putzfassade, Portale und Fenster zur Piazza",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwand",
+      "description": "Die Außenwand ist 2 Blöcke dick: außen Putz in Ocker (am Sockel Pietra forte), innen Putz. Zwei Portale an der Südwestkante zur Piazza del Duomo (7 Blöcke breit, 10 hoch, bis zum Boden offen).",
+      "tip": "Setze zuerst die Wand, dann schneide die Portale aus.",
+      "caution": "Die Fassade ist in der Quelle nicht beschrieben; Putz in Ocker mit Fenstern in Pietra serena ist die Annahme der Hausakte.",
+      "fact": "Der Komplex besteht aus dem alten Sitz der Opera (seit 1296) und dem ehemaligen Teatro degli Intrepidi (1779); Piazza del Duomo 9 (Quelle: it.wikipedia „Museo dell’Opera del Duomo (Firenze)“; Umriss aus OpenStreetMap (Way 456578419).)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Rechteckfenster im Abstand von 11 Blöcken, nur an der Südwestseite zur Piazza del Duomo; alle Fenster sind verglast.",
+      "tip": "Das Glas steht in der Mittelebene der Wand.",
+      "caution": "Auf den übrigen Seiten stoßen Nachbarhäuser an, dort gibt es keine Fenster. Die Quelle erwähnt Panoramafenster zur Kuppel.",
+      "fact": "Panorama- und Belvedere-Fenster mit Blick auf die Kuppel sind belegt (it.wikipedia)."
+    },
+    "kranzgesims": {
+      "title": "Gesims",
+      "description": "Die beiden obersten Lagen der Wand bilden ein Gesims aus Pietra serena.",
+      "tip": "Es trägt das Dach.",
+      "caution": "Die Gesimsform ist angenommen.",
+      "fact": "Stufe C."
+    }
+  }
+}
