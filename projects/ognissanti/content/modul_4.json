@@ -1,0 +1,57 @@
+{
+  "module": 4,
+  "title": "Campanile",
+  "subtitle": "Bautüte 4: der Glockenturm links der Fassade",
+  "icon": "🔔",
+  "parts": {
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Im Inneren steigt eine Wendeltreppe aus Treppenblöcken in einem Schacht von 5 mal 5 Blöcken bis zum Boden der Glockenstube, mit Podesten in den Ecken und drei Blöcken Luft über jeder Stufe.",
+      "tip": "Beginne am Treppenfuß neben der Tür aus dem Schiff.",
+      "caution": "Kern und Stufen dürfen nicht freigeräumt werden, sonst fehlt den Stufen der Halt.",
+      "fact": "Der Turm stammt aus dem 13. und 14. Jahrhundert (en.wikipedia)."
+    },
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Schaft aus Mauerwerk steht mit zwei Blöcken dicken Wänden an der Südostwand des Schiffs. Gesimsbänder aus Glattem Stein bei Y 70, 84 und 99 gliedern ihn, schmale Fensterschlitze lassen Licht ins Treppenhaus. Eine Tür von 2 mal 4 Blöcken führt aus dem Schiff in den Turm.",
+      "tip": "Die Tür sitzt in der Schiffswand neben dem Querhaus.",
+      "caution": "Der Turm ist gegenüber dem OSM-Umriss um einen Block je Seite aufgeweitet, damit die Wendeltreppe 5 mal 5 hineinpasst.",
+      "fact": "Der Turm steht links der Fassade (en.wikipedia)."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Die Stube auf Y 100 bis 110 öffnet sich in jeder Seitenmitte in einem hohen Rundbogen; der untere Teil ist mit Ziegeln zu einer Brüstung gefüllt.",
+      "tip": "Die Öffnungen bleiben unverglast.",
+      "caution": "Form und Zahl der Öffnungen sind nicht belegt.",
+      "fact": "Das Geläut besteht aus drei Glocken von 1756 (die größte mit 620 kg) und einer kleineren von 1690 (it.wikipedia)."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "In der Stube hängen drei große Glocken aus Kupferblöcken und eine kleine, vier Lagen über dem Stubenboden.",
+      "tip": "Die kleine Glocke hängt direkt unter dem Joch.",
+      "caution": "Die Größen sind Annahmen. Quelle der Zahl: it.wikipedia.",
+      "fact": "Die größte Glocke von 1756 wiegt 620 kg (it.wikipedia)."
+    },
+    "glockenjoch": {
+      "title": "Glockenjoch",
+      "description": "Ein umlaufender Holzbalken in der Innenlage der Stube trägt die Glocken.",
+      "tip": "Der Balken ist an den Wänden verankert.",
+      "caution": "Seine Oberseite ist nicht begehbar.",
+      "fact": "Das Joch ist ein vereinfachtes Bauteil und nicht nach einem Vorbild gebaut."
+    },
+    "campanile_spitze": {
+      "title": "Pyramidendach",
+      "description": "Über der Stube schließt ein vierseitiges Pyramidendach aus Ziegeln den Turm ab, oben mit einer Kupferspitze bei Y 116.",
+      "tip": "Jede Lage rückt einen Block nach innen.",
+      "caution": "Das Dach ist innen hohl und nicht begehbar. Die Höhe des Turms (30 m) ist eine Annahme.",
+      "fact": "Eine Höhenangabe fehlt in den geprüften Quellen."
+    },
+    "campanile_licht": {
+      "title": "Turmlicht",
+      "description": "In der inneren Mauerschale sitzen alle acht Lagen Seelaternen, in der Stube vier weitere in den Ecken.",
+      "tip": "So bleibt der Aufstieg hell.",
+      "caution": "Nur Seelaternen verwenden.",
+      "fact": "Der Abstand von höchstens zwölf Blöcken folgt dem Standard der Begehbarkeit."
+    }
+  }
+}

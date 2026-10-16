@@ -1,0 +1,43 @@
+{
+  "module": 1,
+  "title": "Fassade, Wände und Fenster",
+  "subtitle": "Bautüte 1: Barockfassade, Außenwände, Konventsfenster",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Barockfassade",
+      "description": "Die Fassade zur Piazza d'Ognissanti ist 31 Blöcke breit und steigt zur Mitte bis Y 100. Pilaster aus Pietra serena gliedern sie in zwei Ordnungen, zwei Gebälkbänder (Y 76/77 und Y 90) trennen die Geschosse, darüber sitzt das Giebelfeld mit einem Wappenfeld. In der Mitte öffnet sich das Portal als Rundbogen, 7 Blöcke breit und 11 hoch, darüber sitzt die Lünette und ein Fenster.",
+      "tip": "Baue erst die Wand, dann nimmst du Portal und Fenster als Luft heraus.",
+      "caution": "Das Portal bleibt offen, es ist der Haupteingang der Kirche.",
+      "fact": "Die Fassade entstand 1637 nach Entwürfen von Matteo Nigetti und wurde 1872 restauriert (en.wikipedia)."
+    },
+    "aussenwaende": {
+      "title": "Außenwände der Kirche",
+      "description": "Schiff, Querhaus, Sakristei, Kapelle und Chor haben zwei Blöcke dicke Wände aus Putz: außen sandfarben mit einem Sockel aus Glattem Stein, innen weiß. In der Nordwestwand des Schiffs sitzen hohe, verglaste Rundbogenfenster im Abstand von acht Blöcken.",
+      "tip": "Die Wände reichen bis unter die Dächer.",
+      "caution": "Die Türen zur Sakristei und zum Chor sowie die weiten Bögen zum Querhaus und zur Kapelle bleiben frei.",
+      "fact": "Die Kirche ist einschiffig, mit sechs Altären an jeder Seite (it.wikipedia)."
+    },
+    "konvent_waende": {
+      "title": "Wände des Konvents",
+      "description": "Der Konvent ist als Folge von Trakten gebaut: Wände zwei Blöcke dick, außen sandfarben, innen weiß, Fenster im Erdgeschoss und im Obergeschoss. Zwischen den Trakten liegen Türen von 3 Blöcken Breite und 6 Höhe; die Tür an der Borgo Ognissanti führt in den Saal des Cenacolo.",
+      "tip": "Beginne mit den Wänden der Trakte und lass die Türen als Luft aus.",
+      "caution": "Im Trakt mit dem Cenacolo trennt eine Wand den Saal vom Treppenraum, mit einem Durchgang von 4 Blöcken.",
+      "fact": "Der Konvent der Franziskaner gehört zum Komplex, in dem der Cenacolo-Saal zwischen den beiden Kreuzgängen liegt (en.wikipedia)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Die Fenster der Kirche und des Konvents bekommen farbiges Glas. Im Konvent sind es Paare im Abstand von sieben Blöcken, im Erdgeschoss von Y 60 bis 65, im Obergeschoss von Y 73 bis 78.",
+      "tip": "Immer ganze Glasflächen setzen.",
+      "caution": "Die Fenster des Cenacolo-Saals liegen der Langwand mit dem Bild gegenüber.",
+      "fact": "Die gemalten Fenster im Hintergrund des Abendmahls entsprechen den beiden echten Fenstern des Saals (it.wikipedia)."
+    },
+    "querhaus_bogen": {
+      "title": "Bögen und Türen im Inneren",
+      "description": "Das Schiff öffnet sich in weiten Bögen zum linken Querhaus und zur Kapelle des rechten Querhauses, eine Tür führt in die Sakristei, zwei Türen führen hinter dem Hochaltar in den Chor.",
+      "tip": "Die Öffnungen sind Luft in der Wand.",
+      "caution": "Die beiden Chortüren sitzen links und rechts vom Hochaltar.",
+      "fact": "Der Chor hinter dem Hochaltar ist durch zwei geschnitzte Holztüren aus dem 18. Jahrhundert erreichbar (it.wikipedia)."
+    }
+  }
+}
