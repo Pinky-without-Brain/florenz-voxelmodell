@@ -1,0 +1,50 @@
+{
+  "module": 1,
+  "title": "Fassade und Wände",
+  "subtitle": "Bautüte 1: Fassade zur Piazza, Außenwände, Spitzbogenarkaden, Obergaden",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Fassade zur Piazza di Santa Maria Maggiore",
+      "description": "Die Fassade ist 2 Blöcke dick und etwa 40 Blöcke breit; der Mittelteil erreicht in einem Giebel Lage 46 (Y 109), die Seitenteile Lage 27. Außen liegt schlichte Steinverkleidung aus Pietra forte, innen Pietra serena. Das spitzbogige Hauptportal ist 7 Blöcke breit und bis zum Scheitel 13 hoch, darüber ein Dreiecksgiebel; ein kleineres Portal (4 Blöcke) führt ins südliche Seitenschiff.",
+      "tip": "Zuerst Sockel und Gurte bei Lage 14 und 26, dann Portale und Giebel.",
+      "caution": "Lass die Portale bis zum Boden offen. Schlichte Steinfassade mit Portalen unter Dreiecksgiebeln ist belegt (Stufe A); das Südportal, die Maße und die Gurte sind erfunden (Stufe C). Die Madonna in der Lünette des Hauptportals (Kopie nach pisanischem Vorbild) ist nicht dargestellt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das mittlere gotische Portal hat eine spitze Lünette und einen Wimperg; Alfonso Parigi d. Ä. entwarf eine Marmorfassade, die nie gebaut wurde (it.wikipedia)."
+    },
+    "seitenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwände sind 2 Blöcke dick, außen Pietra forte mit Sockel und Gesims aus Pietra serena, innen Putz. In der Nordwand zur Via dei Cerretani liegt ein Portal, 4 Blöcke breit und 6 hoch.",
+      "tip": "Die Wandstärke bleibt überall 2.",
+      "caution": "Lass das Nordportal frei. Das Portal an der Via dei Cerretani mit einem leeren gebrochenen Giebel ist belegt (Stufe A); Lage und Maße sind erfunden, der Giebel fehlt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Portal an der Via dei Cerretani trägt einen leeren, gebrochenen Giebel (it.wikipedia)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In den Außenwänden der Seitenschiffe sitzen in jedem Joch verglaste Spitzbogenfenster von 3 Blöcken Breite; im Ostabschluss belichten drei Fenster den Chor und die beiden Seitenkapellen.",
+      "tip": "Die Fenster liegen mittig in den Jochen.",
+      "caution": "Zahl und Form der Fenster sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die gotische Kirche der Zisterzienser (13. Jahrhundert) behielt die äußeren Mauern der älteren Kirche (en.wikipedia)."
+    },
+    "arkaden": {
+      "title": "Pfeilerreihen und Arkaden",
+      "description": "Zwei Pfeilerreihen von 2 Blöcken Dicke trennen das Mittelschiff (15 Blöcke) von den Seitenschiffen. In jedem Joch öffnet sich ein Spitzbogen von knapp 8 Blöcken Breite und 16 Höhe, gerahmt von Pietra serena; dazwischen stehen quadratische Pfeiler.",
+      "tip": "Die Bögen sind die Zugänge in die Seitenschiffe.",
+      "caution": "Spitzbögen auf quadratischen Pfeilern sind belegt (Stufe A); Maße sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Spitzbögen ruhen auf quadratischen Pfeilern; die Kirche hat drei Schiffe zu je drei Jochen (it.wikipedia)."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Arkaden steigt das Wandband bis zum Dachansatz auf Lage 37. Es trägt die Kreuzgewölbe des Mittelschiffs und ist mit Putz überzogen.",
+      "tip": "Die Wand steigt über den Pfeilern bis Y 100.",
+      "caution": "Die Höhe ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Mittelschiff ist im Vergleich zu den Seitenschiffen schlicht (it.wikipedia)."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "In jedem Joch sitzt über der Arkade ein verglastes Spitzbogenfenster von 3 Blöcken Breite und 6 Höhe im Wandband.",
+      "tip": "Die Fenster liegen über der Mitte des Jochs.",
+      "caution": "Zahl und Form sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Gotik der Kirche geht auf den Umbau der Zisterzienser im 13. Jahrhundert zurück (it.wikipedia, en.wikipedia)."
+    }
+  }
+}

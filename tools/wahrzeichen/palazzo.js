@@ -17,6 +17,7 @@
 //   portikus?: { test(c) -> bool, kaempfer, joch, versatz?, entlang?: 'u'|'w' }  Erdgeschoss-Loggia an der Straße
 //              (Innocenti); Rückwand (Bauteil loggiawand) mit Türen alle zwei Joche
 //   fenster.versatz?: Verschiebung des Fensterrasters (lokal)
+//   fenster.aus?(c) -> bool   Außenwandzellen ohne Fenster (W6c, z. B. Wand zu einem Nachbarbau desselben Projekts)
 //   treppe?: { u, w } | false   bevorzugte Lage der Wendeltreppe (lokal); false = keine (eigene Treppen über extra.vorher)
 //   innenwandTuer?(c, s, v) -> bool   Türen der Innenwand um den Hof je Geschoss s (v = Lage entlang der Wand); Vorgabe: Raster 14, Breite 3
 //   extra?(api)         zusätzliche Bauteile, api = { D, set, hat, frei, oeffnung, unzug, key, Y, T, zelleBei }
@@ -121,6 +122,7 @@ function palazzo(cfg) {
   function fensterZelle(c, yr, entlang, aussen) {
     const s = geschossVon(yr), v = (entlang === 'u' ? c.u : c.w) - (fen.versatz || 0);
     if (!entlang) return null;
+    if (aussen && fen.aus && fen.aus(c)) return null;               // W6c: Wandstücke ohne Fenster (z. B. Brandwand zum Nachbarbau im selben Projekt)
     const r = imRaster(v, fen.abstand, fen.breite);
     if (r === null) return null;
     const sohle = BASIS[s] + fen.sohle[s], top = sohle + fen.hoehe[s];

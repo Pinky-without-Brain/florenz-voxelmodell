@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Kreuzgewölbe und Dächer",
+  "subtitle": "Bautüte 2: Kreuzgewölbe in fünf Jochen, Dächer",
+  "icon": "⛪",
+  "parts": {
+    "kreuzgewoelbe": {
+      "title": "Kreuzgewölbe",
+      "description": "Über Mittelschiff und Seitenschiffen liegen Kreuzgewölbe aus Putz, jedes Joch mit Spitzbögen nach allen Seiten. Im Mittelschiff springen sie bei Lage 28 an und erreichen Lage 36 (Y 99); in den Seitenschiffen springen sie bei Lage 15 an und erreichen Lage 22. Gurtbögen aus Pietra serena trennen die Joche, im Mittelschiff laufen Grate aus Pietra serena diagonal.",
+      "tip": "Von den Pfeilern zur Mitte hin bauen; die Grate zuerst.",
+      "caution": "Drei Schiffe zu je drei Jochen mit Kreuzgewölben auf Spitzbögen sind belegt (Stufe A); im Modell kommen das erhöhte Presbyterium und der Chor als vierte und fünfte Joche des Mittelschiffs dazu (Stufe C). Höhen und Rippenführung sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Drei Schiffe mit je drei Jochen, mit Kreuzgewölben gedeckt; Spitzbögen ruhen auf quadratischen Pfeilern (it.wikipedia)."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein höheres Dach an ein niedrigeres stößt, schließen Mauerstreifen die Lücke zwischen den Dachflächen.",
+      "tip": "Immer bis zur Dachhaut des niedrigeren Nachbarn.",
+      "caution": "Reine Vereinfachung des Dachanschlusses.",
+      "fact": "Im Dachraum über dem Gewölbe gibt es keinen Zugang."
+    },
+    "dach_seitenschiffe": {
+      "title": "Dach der Seitenschiffe",
+      "description": "Über den Seitenschiffen liegt je ein Pultdach aus roten Ziegeln von Lage 23 bis 25. Der Dachraum darunter ist nicht zugänglich.",
+      "tip": "Das Dach steigt zum Mittelschiff hin.",
+      "caution": "Neigung und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Seitenschiffe sind reich mit barocken Fresken und Stuck ausgestattet (it.wikipedia)."
+    },
+    "dach_mittelschiff": {
+      "title": "Dach des Mittelschiffs",
+      "description": "Über dem Mittelschiff, dem Presbyterium und dem Chor liegt ein Satteldach aus roten Ziegeln mit dem First auf Lage 44 (Y 107). Der Dachraum darunter ist nicht zugänglich.",
+      "tip": "Vom Rand zum First, jede Lage ein Block höher.",
+      "caution": "Neigung und First sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Außenerscheinung der Kirche ist schlicht mit Steinverkleidung (it.wikipedia)."
+    }
+  }
+}

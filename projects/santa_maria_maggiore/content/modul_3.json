@@ -1,0 +1,22 @@
+{
+  "module": 3,
+  "title": "Stumpf des Campanile",
+  "subtitle": "Bautüte 3: der romanische Turm in der Fassade und die Berta",
+  "icon": "🔔",
+  "parts": {
+    "campanile_stumpf": {
+      "title": "Stumpf des romanischen Campanile",
+      "description": "Am nördlichen Ende der Fassade steht der Stumpf des Turms, 12 mal 13 Blöcke groß und massiv bis Lage 40 (Y 103). Außen liegt Pietra forte, auf jeder Seite zeigen zwei Reihen dunkler Schlitze in den Lagen 11 bis 14 und 21 bis 24 die Einzelfenster mit Rundbögen; oben schließt ein Gesims aus Pietra serena den Stumpf ab.",
+      "tip": "Voll mauern, ohne Hohlräume; die Schlitze sind dunkle Blöcke in der Außenlage.",
+      "caution": "Der romanische Turm in der Fassade, dessen Glockenstube 1630 abgetragen wurde, ist belegt (Stufe A: it.wikipedia); Lage, Größe und Höhe des Stumpfs sind erfunden (Stufe C), das Innere ist unbekannt und im Modell massiv. Die Glocken kamen in einen Glockengiebel an der Rückseite, der nicht dargestellt ist. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der romanische Campanile hat auf jeder Seite zwei Reihen rundbogiger Einzelfenster mit Backsteinschmuck; der obere Teil mit der Glockenstube wurde ab dem 20. März 1630 abgetragen (it.wikipedia)."
+    },
+    "berta_kopf": {
+      "title": "Die Berta",
+      "description": "An der Nordseite des Stumpfs, zur Via dei Cerretani, sitzt ein Kopf aus weißem Marmor mit einem Gesims aus Ornamentmarmor darüber, 2 Blöcke breit.",
+      "tip": "Der Kopf liegt auf Lage 6 und 7 in der Außenlage.",
+      "caution": "Der Frauenkopf, der von einem römischen Grabmal stammen soll, ist belegt (Stufe A: it.wikipedia); die Form im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Kopf in der Mauer des Turms heißt im Volksmund „la Berta“ (it.wikipedia, en.wikipedia)."
+    }
+  }
+}

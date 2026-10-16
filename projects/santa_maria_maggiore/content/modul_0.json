@@ -1,0 +1,43 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Podest",
+  "subtitle": "Bautüte 0: Boden auf Y 63, Presbyterium zwei Stufen höher",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Das Gelände liegt zwischen Y 62 und 65; vor der Fassade zur Piazza di Santa Maria Maggiore auf Y 63. Im Umriss trägst du es bis Y 62 ab und füllst die tiefen Stellen mit Bruchstein bis Y 62 auf.",
+      "tip": "Nach dem Abtragen und Auffüllen liegt die ganze Fläche auf Y 62, der Boden folgt darüber.",
+      "caution": "Nicht über Y 62 füllen, sonst sitzt der Fußboden zu hoch. Die Höhen stammen aus dem Geländemodell der Stadt.",
+      "fact": "Der Bau reicht bis in das 8. Jahrhundert zurück; 931 und 1021 ist die Kirche bezeugt (it.wikipedia, Chiesa di Santa Maria Maggiore (Firenze))."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 63 legst du den Boden. Im Mittelschiff wechseln Felder aus Pietra serena und weißem Marmor im Dreierraster, in den Seitenschiffen rosa Terrakotta und Weiß in kleinen Zweierfeldern, an der Fassade Pietra serena, im Stumpf des Turms Pflaster.",
+      "tip": "Die Lichtfelder setzt erst Bautüte 4.",
+      "caution": "Der Boden geht auch unter allen Wänden durch. Das Muster ist erfunden (Stufe C); nach dem Hochwasser von Florenz wurde der Boden vollständig erneuert (it.wikipedia), der alte Belag ist nicht überliefert. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Nach der Überschwemmung von Florenz wurde der Fußboden vollständig ersetzt (it.wikipedia)."
+    },
+    "podest": {
+      "title": "Podest des Presbyteriums",
+      "description": "Unter Presbyterium und Chor liegt ein massives Podest aus Pietra serena, 1 Lage hoch (Y 64), das bei u 34 beginnt.",
+      "tip": "Das Podest trägt den Fußboden auf Y 65.",
+      "caution": "Das erhöhte quadratische Presbyterium ist belegt (Stufe A); die Höhe von zwei Lagen ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das quadratische Presbyterium ist einige Stufen erhöht und endet in einer Apsis (it.wikipedia)."
+    },
+    "stufen": {
+      "title": "Stufen zum Presbyterium",
+      "description": "Zwei Stufen aus Treppenblöcken aus Pietra serena führen über die ganze Breite des Mittelschiffs (15 Blöcke) hinauf: die erste bei Y 64, die zweite bei Y 65.",
+      "tip": "Die Treppenblöcke steigen nach Osten, zum Altar hin.",
+      "caution": "Zahl der Stufen und Material sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Presbyterium ist durch einige Stufen erhöht (it.wikipedia)."
+    },
+    "boden_presbyterium": {
+      "title": "Boden des Presbyteriums",
+      "description": "Auf dem Podest liegt der Fußboden auf Y 65 aus Feldern von Ornamentmarmor und Weiß im Zweierraster.",
+      "tip": "Die Lichtfelder liegen im Boden.",
+      "caution": "Das Muster ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Presbyterium wurde vor 1916 radikal restauriert und seiner Dekoration beraubt (it.wikipedia)."
+    }
+  }
+}

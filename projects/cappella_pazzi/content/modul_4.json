@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Konvent: Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Terrakottaziegeln steigt von den Außenkanten und den Hofkanten zum First an, höchstens sechs Blöcke hoch. Der Dachraum ist massiv und nicht begehbar.",
+      "tip": "Von der Traufe nach innen, Lage für Lage.",
+      "caution": "Der Dachraum bleibt als Mauerwerk gefüllt, damit keine unerreichbaren Hohlräume entstehen.",
+      "fact": "Die Dachform des Konvents ist Stufe C: gebaut wird ein einfaches Walmdach."
+    }
+  }
+}

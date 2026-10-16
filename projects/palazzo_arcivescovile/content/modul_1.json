@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Block bis Y 101: zur Piazza San Giovanni die ockerfarbene Fassade nach Dosio mit Sockelzone und Bändern aus Pietra forte, an den anderen Seiten schlichter Putz. Gesimse aus Marmor trennen die Geschosse (Y 74, 85, 93). Zwei Portale zur Piazza San Giovanni führen hinein, ein Kutschentor und das Kirchenportal zur Piazza dell'Olio.",
+      "tip": "Zwei Blöcke dick: außen Putz oder Stein, innen Putz.",
+      "caution": "Lass die Portale frei. Die Westwand ist leicht schräg.",
+      "fact": "Giovanni Antonio Dosio entwarf die Fassade für den Wiederaufbau 1573 bis 1584; 1895 wurde sie zurückversetzt und um drei Achsen erweitert (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In dreizehn Achsen sitzen die Fenster: im Erdgeschoss tief, im Piano nobile hoch (Y 77 bis 83), darüber kleinere Mezzaninfenster (Y 87 bis 91 und Y 95 bis 98).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen. Die Zahl der Achsen ist Stufe C.",
+      "fact": "Die Fassade hat zwei hohe Geschosse mit je einem Mezzanin; das Piano nobile trägt Fenster mit wechselnden dreieckigen und bogenförmigen Giebeln (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Marmor die Fassade ab (Y 100 bis 101).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Der Name Alessandro de' Medicis, des späteren Papstes Leo XI., steht fünfmal an den Fenstern des Piano nobile (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    }
+  }
+}

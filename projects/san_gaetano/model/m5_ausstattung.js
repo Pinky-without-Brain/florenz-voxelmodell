@@ -1,0 +1,3 @@
+'use strict';
+// Modul 5: Ausstattung nach Quellen. Bauplan in _sg.js.
+module.exports = require('./_sg.js').modul(5, ['seitenaltaere', 'rosso_della_robbia', 'mazzei_vignali', 'mazzei_gewoelbe_colonna', 'martelli_rosselli', 'martelli_grabmaeler', 'tornaquinci_zanobi', 'franceschi_cortona', 'franceschi_gewoelbe_colonna', 'ardinghelli_hugford', 'ardinghelli_lippi', 'nativita_rosselli', 'visitazione_rosselli', 'kreuz_vignali', 'kreuz_bilivert', 'medici_wappen', 'hochaltar_silvani', 'hochaltar_rueckwand', 'chorgestuehl', 'susini_kruzifix', 'pendentifs_galletti', 'kuppelfresko_galletti', 'orgel_tronci', 'weihwasserbecken', 'kanzel', 'sakristei_ausstattung', 'kirchenbaenke']);

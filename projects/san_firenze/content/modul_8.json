@@ -1,0 +1,22 @@
+{
+  "module": 8,
+  "title": "Licht in Kirche und Oratorium",
+  "subtitle": "Bautüte 8: Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "k_licht": {
+      "title": "Licht der Kirche",
+      "description": "Seelaternen im Boden von Kirchenschiff, Kapellen und Sakramentskapelle, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    },
+    "o_licht": {
+      "title": "Licht des Oratoriums",
+      "description": "Seelaternen im Boden des Saals, des Vestibüls und der Emporen, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke und Emporenplatten.",
+      "caution": "Nicht in Türöffnungen und Treppenlöcher setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Licht",
+  "subtitle": "Bautüte 4: Seelaternen im Boden",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Seelaternen",
+      "description": "Im Boden von Mittelschiff, Seitenschiffen, Presbyterium und Chor sitzen Seelaternen im Abstand von höchstens 12 Blöcken; sie ersetzen je einen Bodenblock, im Presbyterium einen Block des erhöhten Bodens.",
+      "tip": "Auf freien Bodenzellen, nicht unter Altären.",
+      "caution": "Das Licht ist eine Spielhilfe; bei Tageslicht fällt es nicht auf. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Abstand von 12 Blöcken folgt dem Standard „begehbar und ausgestaltet“ des Projekts."
+    }
+  }
+}

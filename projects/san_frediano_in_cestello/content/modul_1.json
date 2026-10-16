@@ -1,0 +1,78 @@
+{
+  "module": 1,
+  "title": "Fassade, Wände und Arkaden",
+  "subtitle": "Bautüte 1: Fassade zum Arno, Außenwände, Kapellenbögen, Querhaus",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Fassade zum Arno",
+      "description": "Die Fassade steht an der Schmalseite des Umrisses, 2 Blöcke dick und 53 Blöcke breit. Der Mittelteil über Schiff und Kapellen reicht mit einem Giebel bis Y 104, die Seitenteile enden bei Y 80. Das Portal ist 10 Blöcke breit und bis zum Scheitel 10 hoch, darüber sitzt ein Fenster. Pilaster und Gebälke aus Pietra serena gliedern die helle Putzfläche.",
+      "tip": "Zuerst den Sockel und die Pilaster, dann die Gebälke bei Lage 14 und 28, zuletzt die Giebelkante.",
+      "caution": "Lass das Portal bis zum Boden offen. Das Gliederungsmuster ist erfunden (Stufe C); belegt ist nur die Lage der Fassade zum Arno. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Giulio Cerutti drehte 1680 die Achse der Kirche, sodass Fassade und Eingang zum Arno zeigen (it.wikipedia, Chiesa di San Frediano in Cestello)."
+    },
+    "fassade_fenster": {
+      "title": "Fenster über dem Portal",
+      "description": "Über dem Portal sitzt ein Rundbogenfenster von knapp 5 Blöcken Breite und 6 Höhe mit verglaster Fläche.",
+      "tip": "Das Glas füllt die ganze Öffnung.",
+      "caution": "Größe und Lage sind Annahmen (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Fassade ist auf den Arno ausgerichtet (it.wikipedia)."
+    },
+    "seitenwaende": {
+      "title": "Außenwände und Nebenräume",
+      "description": "Die Außenwände sind 2 Blöcke dick, außen heller Sand, innen Putz, unten und oben mit einem Band aus Pietra serena. Dazu gehören die Wände der beiden Nebenräume am Presbyterium und das Wandband dazwischen, in dem je eine Tür 3 Blöcke breit und 5 hoch liegt.",
+      "tip": "Die Wandstärke bleibt überall 2.",
+      "caution": "Lass die Türen frei. Die Nebenräume (Streifen von etwa 12 Blöcken Breite beidseits des Presbyteriums) sind nach den OSM-Teilflächen angelegt; ihr Zweck ist nicht belegt (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "OSM trennt im Umriss Teilflächen für die Seitenkapellen, die Kuppel und die Räume hinter dem Chor (OpenStreetMap, building:part)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In den Außenwänden der acht Kapellen, der beiden Querhausarme, des Chors und der Nebenräume sitzen verglaste Fenster, die Kapellenfenster als Rundbögen von 3 Blöcken Breite.",
+      "tip": "Die Fenster liegen mittig in den Jochen.",
+      "caution": "Zahl und Form der Fenster sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapellen sind tief und reich mit Stuck und Fresken ausgestattet (it.wikipedia)."
+    },
+    "seitenmassen": {
+      "title": "Mauermassen",
+      "description": "Zwischen den Kapellen und dem Querhaus sowie neben dem Presbyterium bleiben die Zwischenräume massives Mauerwerk bis unter das Dach; sie tragen die Vierung.",
+      "tip": "Voll mauern, ohne Hohlräume.",
+      "caution": "Die massive Füllung ist eine Vereinfachung; leere Kammern ohne Zugang sind im Modell nicht erlaubt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das lateinische Kreuz hat ein einziges Schiff mit tiefen Seitenkapellen (it.wikipedia)."
+    },
+    "arkaden": {
+      "title": "Kapellenbögen",
+      "description": "Die Wandbänder zwischen Schiff und Kapellen sind 2 Blöcke dick. In jedem der vier Joche je Seite öffnet sich ein Rundbogen von 7 Blöcken Breite und 10 Höhe, gerahmt von Pietra serena; dazwischen stehen Pfeiler von 2 Blöcken Breite.",
+      "tip": "Die Bögen sind die einzigen Zugänge in die Kapellen.",
+      "caution": "Vier Joche je Seite folgen aus der Nennung einer vierten Kapelle links (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kirche ist einschiffig mit tiefen Seitenkapellen (it.wikipedia)."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Bögen steigt das Wandband bis zum Dachansatz. Es trägt das Tonnengewölbe und ist mit Putz überzogen.",
+      "tip": "Die Wand steigt über den Pfeilern bis Y 92.",
+      "caution": "Die Höhe ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff ist in zarten Farben des 18. Jahrhunderts gehalten (it.wikipedia)."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "In jedem Joch sitzt über dem Kapellenbogen ein verglastes Rundbogenfenster von 3 Blöcken Breite im Wandband.",
+      "tip": "Die Fenster liegen über der Achse der Kapelle.",
+      "caution": "Form und Zahl der Fenster sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Licht fällt durch die Fenster der Kapellen und des Obergadens ein."
+    },
+    "querhausbogen": {
+      "title": "Querhausbögen",
+      "description": "Zur Vierung hin öffnen sich die beiden Querhausarme in weiten Rundbögen von 17 Blöcken Breite und knapp 20 Höhe, gerahmt von Pietra serena. Über den Bögen steigt das Wandband bis unter das Dach.",
+      "tip": "Beide Bögen sind gleich gebaut.",
+      "caution": "Maße sind Stufe C; belegt ist nur, dass die Kirche ein lateinisches Kreuz bildet. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Im Querhaus hängen Curradis Madonna in gloria rechts und Sellaios Kreuzigung links (it.wikipedia)."
+    },
+    "kapellen_trennwaende": {
+      "title": "Trennwände der Kapellen",
+      "description": "Zwischen den Kapellen stehen Trennwände von 2 Blöcken Dicke, die bis zum Dach reichen. Auf ihnen hängen in einer Kapelle die Fresken von Dandini.",
+      "tip": "Die Trennwände sind an den Jochgrenzen.",
+      "caution": "Lage der Joche ist Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapellen tragen die Namen ihrer Werke, etwa San Bernardo mit Dandinis Fresken (it.wikipedia)."
+    }
+  }
+}

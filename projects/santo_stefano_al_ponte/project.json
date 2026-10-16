@@ -1,0 +1,10 @@
+{
+  "id": "santo_stefano_al_ponte",
+  "title": "Chiesa di Santo Stefano al Ponte",
+  "type": "wahrzeichen",
+  "gebaeude": ["w253942619"],
+  "bodenY": 64,
+  "rahmen": { "ox": -435, "oz": 974, "thetaDeg": 23.1 },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

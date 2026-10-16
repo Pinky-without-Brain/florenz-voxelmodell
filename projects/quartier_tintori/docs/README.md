@@ -4,7 +4,7 @@
 
 *Projekt `quartier_tintori`, Art: quartier*
 
-**Statistik (generiert):** 2.365.324 Blöcke in 1.483 Bauschritten, 12 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 2.129.932 Blöcke in 1.343 Bauschritten, 12 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X 11 bis 1711, Y 58 bis 117, Z 931 bis 1459.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -18,57 +18,57 @@ Ausdehnung des Modells: X 11 bis 1711, Y 58 bis 117, Z 931 bis 1459.
 | 6 | Isolato I0597 – Corso dei Tintori | 378.738 | 233 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | 7 | Isolato I0605 – Borgo Santa Croce | 284.266 | 175 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
 | 8 | Isolato I0681 – Via Tripoli | 15.030 | 8 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
-| 9 | Isolato I0683 – Via di San Giuseppe | 706.665 | 442 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
+| 9 | Isolato I0683 – Via di San Giuseppe | 471.273 | 302 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
 | 10 | Isolato I0702 – Via Tripoli | 145.013 | 89 | [BAUANLEITUNG_MODUL_10.md](BAUANLEITUNG_MODUL_10.md) |
 | 11 | Isolato I0758 – Via Tripoli | 196.691 | 129 | [BAUANLEITUNG_MODUL_11.md](BAUANLEITUNG_MODUL_11.md) |
-| | **Summe** | **2.365.324** | **1.483** | |
+| | **Summe** | **2.129.932** | **1.343** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 818.994 | 34,6 % |
-| Polierter Tuffstein | `polished_tuff` | 274.246 | 11,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 183.452 | 7,8 % |
-| Tuffstein | `tuff` | 174.066 | 7,4 % |
-| Weißer Beton | `white_concrete` | 160.001 | 6,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 135.993 | 5,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 116.955 | 4,9 % |
-| Endsteinziegel | `end_stone_bricks` | 92.665 | 3,9 % |
-| Glatter Stein | `smooth_stone` | 92.367 | 3,9 % |
-| Polierter Andesit | `polished_andesite` | 78.511 | 3,3 % |
-| Rosa Keramik | `pink_terracotta` | 66.631 | 2,8 % |
-| Graues Buntglas | `gray_stained_glass` | 57.303 | 2,4 % |
-| Orange Keramik | `orange_terracotta` | 39.593 | 1,7 % |
-| Ziegelsteine | `bricks` | 16.289 | 0,7 % |
+| Terrakotta | `terracotta` | 710.449 | 33,4 % |
+| Polierter Tuffstein | `polished_tuff` | 246.570 | 11,6 % |
+| Tuffstein | `tuff` | 173.480 | 8,1 % |
+| Weißer Beton | `white_concrete` | 160.001 | 7,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 135.803 | 6,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 116.955 | 5,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 96.402 | 4,5 % |
+| Endsteinziegel | `end_stone_bricks` | 91.579 | 4,3 % |
+| Glatter Stein | `smooth_stone` | 91.372 | 4,3 % |
+| Polierter Andesit | `polished_andesite` | 78.288 | 3,7 % |
+| Rosa Keramik | `pink_terracotta` | 66.631 | 3,1 % |
+| Graues Buntglas | `gray_stained_glass` | 53.696 | 2,5 % |
+| Orange Keramik | `orange_terracotta` | 39.593 | 1,9 % |
 | Tuffsteinziegel | `tuff_bricks` | 15.661 | 0,7 % |
-| Grüner Beton | `green_concrete` | 12.867 | 0,5 % |
-| Fichtenholz-Bretter | `spruce_planks` | 9.930 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 6.453 | 0,3 % |
-| Seelaterne | `sea_lantern` | 4.362 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1.362 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.278 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.236 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.156 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 817 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 817 | 0,0 % |
+| Ziegelsteine | `bricks` | 14.858 | 0,7 % |
+| Grüner Beton | `green_concrete` | 12.867 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 6.598 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 6.386 | 0,3 % |
+| Seelaterne | `sea_lantern` | 3.858 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1.337 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1.255 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1.234 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1.154 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 816 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 816 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 576 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 542 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 498 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 444 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 476 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 422 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 63 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 39 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 37 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 33 | 0,0 % |
 | Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 30 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 21 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 21 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 20 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 20 | 0,0 % |
 | Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 15 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 5.032 |
-| Steintreppe | `stone_stairs` | 2.060 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 4.980 |
+| Steintreppe | `stone_stairs` | 2.016 |
 | Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 172 |

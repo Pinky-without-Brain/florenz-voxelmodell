@@ -2,1657 +2,98 @@
 
 # Bauanleitung Modul 4: Isolato I0561 – Via Borgognona
 
-*Quartier Proconsolo: 16 Häuser*
+*Quartier Proconsolo: 13 Häuser*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 226.033 |
-| Bauschritte | 144 |
+| Blöcke | 117.625 |
+| Bauschritte | 73 |
 | Y-Bereich | 61 bis 108 |
-| X-Ausdehnung | 137 bis 436 (300 Blöcke) |
-| Z-Ausdehnung | 716 bis 880 (165 Blöcke) |
-| Kleinster Schritt | 338 Blöcke (Schritt 4.95) |
-| Mittlerer Schritt | 1.570 Blöcke |
-| Größter Schritt | 2.092 Blöcke (Schritt 4.39) |
+| X-Ausdehnung | 288 bis 436 (149 Blöcke) |
+| Z-Ausdehnung | 755 bis 880 (126 Blöcke) |
+| Kleinster Schritt | 338 Blöcke (Schritt 4.44) |
+| Mittlerer Schritt | 1.611 Blöcke |
+| Größter Schritt | 2.014 Blöcke (Schritt 4.21) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 69.772 | 30,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 44.188 | 19,5 % |
-| Polierter Tuffstein | `polished_tuff` | 33.534 | 14,8 % |
-| Endsteinziegel | `end_stone_bricks` | 17.953 | 7,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 17.112 | 7,6 % |
-| Glatter Stein | `smooth_stone` | 9.759 | 4,3 % |
-| Glatter Sandstein | `smooth_sandstone` | 9.475 | 4,2 % |
-| Weißer Beton | `white_concrete` | 6.721 | 3,0 % |
-| Graues Buntglas | `gray_stained_glass` | 5.729 | 2,5 % |
-| Rosa Keramik | `pink_terracotta` | 3.151 | 1,4 % |
-| Grüner Beton | `green_concrete` | 2.177 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 1.867 | 0,8 % |
-| Ziegelsteine | `bricks` | 1.665 | 0,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 728 | 0,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 703 | 0,3 % |
-| Seelaterne | `sea_lantern` | 432 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 191 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 177 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 102 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 96 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 96 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 94 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 84 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 76 | 0,0 % |
+| Terrakotta | `terracotta` | 37.579 | 31,9 % |
+| Endsteinziegel | `end_stone_bricks` | 17.956 | 15,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 17.104 | 14,5 % |
+| Polierter Tuffstein | `polished_tuff` | 10.608 | 9,0 % |
+| Glatter Sandstein | `smooth_sandstone` | 9.475 | 8,1 % |
+| Weißer Beton | `white_concrete` | 6.013 | 5,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 5.869 | 5,0 % |
+| Glatter Stein | `smooth_stone` | 5.257 | 4,5 % |
+| Graues Buntglas | `gray_stained_glass` | 2.673 | 2,3 % |
+| Grüner Beton | `green_concrete` | 974 | 0,8 % |
+| Ziegelsteine | `bricks` | 945 | 0,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 728 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 690 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 647 | 0,6 % |
+| Seelaterne | `sea_lantern` | 225 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 170 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 156 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 98 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 90 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 84 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 84 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 47 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 40 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 9 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 6 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 30 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 26 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 8 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 564 |
-| Steintreppe | `stone_stairs` | 240 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 514 |
+| Steintreppe | `stone_stairs` | 136 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4084510` | Complesso di San Firenze | 57.532 | 4.1–4.41 |
-| 2 | `r4084510_innen` | Complesso di San Firenze: Innenausbau | 17.005 | 4.42–4.51 |
-| 3 | `r4101019` | Palazzo Tafani da Barberino | 17.357 | 4.52–4.61 |
-| 4 | `r4101019_innen` | Palazzo Tafani da Barberino: Innenausbau | 4.243 | 4.62–4.64 |
-| 5 | `r7224711` | Reihenhaus an Via Borgognona | 10.616 | 4.65–4.70 |
-| 6 | `r7224711_innen` | Reihenhaus an Via Borgognona: Innenausbau | 3.087 | 4.71–4.72 |
-| 7 | `r7224712` | Palazzo des Cinquecento an Via Filippina | 9.400 | 4.73–4.77 |
-| 8 | `r7224712_innen` | Palazzo des Cinquecento an Via Filippina: Innenausbau | 1.835 | 4.78 |
-| 9 | `r7224713` | Reihenhaus an Via Borgognona | 7.640 | 4.79–4.82 |
-| 10 | `r7224713_innen` | Reihenhaus an Via Borgognona: Innenausbau | 2.879 | 4.83–4.84 |
-| 11 | `w306156984` | Nebengebäude an Via Filippina | 1.125 | 4.85 |
-| 12 | `w306156984_innen` | Nebengebäude an Via Filippina: Innenausbau | 4 | 4.86 |
-| 13 | `w306156985` | Palazzo des Cinquecento an Via dell'Anguillara | 10.569 | 4.86–4.91 |
-| 14 | `w306156985_innen` | Palazzo des Cinquecento an Via dell'Anguillara: Innenausbau | 2.141 | 4.92–4.93 |
-| 15 | `w306156999` | Nebengebäude an Via Filippina | 1.379 | 4.94 |
-| 16 | `w306156999_innen` | Nebengebäude an Via Filippina: Innenausbau | 338 | 4.95 |
-| 17 | `w307129115` | Sala della Musica | 9.153 | 4.96–4.100 |
-| 18 | `w307129115_innen` | Sala della Musica: Innenausbau | 3.600 | 4.101–4.102 |
-| 19 | `w361442655` | Chiesa di San Filippo Neri | 15.588 | 4.103–4.111 |
-| 20 | `w361442655_innen` | Chiesa di San Filippo Neri: Innenausbau | 5.518 | 4.112–4.115 |
-| 21 | `w491891884` | Reihenhaus an Borgo de' Greci | 10.445 | 4.116–4.121 |
-| 22 | `w491891884_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 3.255 | 4.122–4.124 |
-| 23 | `w491891885` | Reihenhaus an Via dell'Anguillara | 2.586 | 4.125–4.126 |
-| 24 | `w491891885_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 567 | 4.127 |
-| 25 | `w491891886` | Reihenhaus an Via Borgognona | 3.706 | 4.128–4.129 |
-| 26 | `w491891886_innen` | Reihenhaus an Via Borgognona: Innenausbau | 1.317 | 4.130 |
-| 27 | `w491891887` | Reihenhaus an Via dell'Anguillara | 6.526 | 4.131–4.134 |
-| 28 | `w491891887_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 1.785 | 4.135 |
-| 29 | `w491891888` | Reihenhaus an Via dei Bentaccordi | 5.673 | 4.136–4.138 |
-| 30 | `w491891888_innen` | Reihenhaus an Via dei Bentaccordi: Innenausbau | 1.460 | 4.139 |
-| 31 | `w491891890` | Reihenhaus an Via Borgognona | 4.915 | 4.140–4.142 |
-| 32 | `w491891890_innen` | Reihenhaus an Via Borgognona: Innenausbau | 2.765 | 4.143–4.144 |
-| 33 | `strassenschilder` | Straßenschilder | 24 | 4.144 |
+| 1 | `r4101019` | Palazzo Tafani da Barberino | 17.357 | 4.1–4.10 |
+| 2 | `r4101019_innen` | Palazzo Tafani da Barberino: Innenausbau | 4.243 | 4.11–4.13 |
+| 3 | `r7224711` | Reihenhaus an Via Borgognona | 10.616 | 4.14–4.19 |
+| 4 | `r7224711_innen` | Reihenhaus an Via Borgognona: Innenausbau | 3.087 | 4.20–4.21 |
+| 5 | `r7224712` | Palazzo des Cinquecento an Via Filippina | 9.400 | 4.22–4.26 |
+| 6 | `r7224712_innen` | Palazzo des Cinquecento an Via Filippina: Innenausbau | 1.835 | 4.27 |
+| 7 | `r7224713` | Reihenhaus an Via Borgognona | 7.640 | 4.28–4.31 |
+| 8 | `r7224713_innen` | Reihenhaus an Via Borgognona: Innenausbau | 2.879 | 4.32–4.33 |
+| 9 | `w306156984` | Nebengebäude an Via Filippina | 1.128 | 4.34 |
+| 10 | `w306156984_innen` | Nebengebäude an Via Filippina: Innenausbau | 4 | 4.35 |
+| 11 | `w306156985` | Palazzo des Cinquecento an Via dell'Anguillara | 10.569 | 4.35–4.40 |
+| 12 | `w306156985_innen` | Palazzo des Cinquecento an Via dell'Anguillara: Innenausbau | 2.141 | 4.41–4.42 |
+| 13 | `w306156999` | Nebengebäude an Via Filippina | 1.371 | 4.43 |
+| 14 | `w306156999_innen` | Nebengebäude an Via Filippina: Innenausbau | 338 | 4.44 |
+| 15 | `w491891884` | Reihenhaus an Borgo de' Greci | 10.445 | 4.45–4.50 |
+| 16 | `w491891884_innen` | Reihenhaus an Borgo de' Greci: Innenausbau | 3.255 | 4.51–4.53 |
+| 17 | `w491891885` | Reihenhaus an Via dell'Anguillara | 2.586 | 4.54–4.55 |
+| 18 | `w491891885_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 567 | 4.56 |
+| 19 | `w491891886` | Reihenhaus an Via Borgognona | 3.706 | 4.57–4.58 |
+| 20 | `w491891886_innen` | Reihenhaus an Via Borgognona: Innenausbau | 1.317 | 4.59 |
+| 21 | `w491891887` | Reihenhaus an Via dell'Anguillara | 6.526 | 4.60–4.63 |
+| 22 | `w491891887_innen` | Reihenhaus an Via dell'Anguillara: Innenausbau | 1.785 | 4.64 |
+| 23 | `w491891888` | Reihenhaus an Via dei Bentaccordi | 5.673 | 4.65–4.67 |
+| 24 | `w491891888_innen` | Reihenhaus an Via dei Bentaccordi: Innenausbau | 1.460 | 4.68 |
+| 25 | `w491891890` | Reihenhaus an Via Borgognona | 4.915 | 4.69–4.71 |
+| 26 | `w491891890_innen` | Reihenhaus an Via Borgognona: Innenausbau | 2.765 | 4.72–4.73 |
+| 27 | `strassenschilder` | Straßenschilder | 17 | 4.73 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Complesso di San Firenze – Teil 1/41 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.918
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.918 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.2 – Complesso di San Firenze – Teil 2/41 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.937
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.937 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.3 – Complesso di San Firenze – Teil 3/41 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.936
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.936 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.4 – Complesso di San Firenze – Teil 4/41 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.957
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.957 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.5 – Complesso di San Firenze – Teil 5/41 (Y 61–61)
-
-- **Y-Bereich:** 61 bis 61
-- **Blöcke:** 1.875
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.875 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.6 – Complesso di San Firenze – Teil 6/41 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.168
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.087 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Glatter Stein | `smooth_stone` | 27 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.7 – Complesso di San Firenze – Teil 7/41 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.168
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.087 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Glatter Stein | `smooth_stone` | 27 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.8 – Complesso di San Firenze – Teil 8/41 (Y 64–64)
-
-- **Y-Bereich:** 64 bis 64
-- **Blöcke:** 1.206
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 947 |
-| Glatter Stein | `smooth_stone` | 205 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.9 – Complesso di San Firenze – Teil 9/41 (Y 65–65)
-
-- **Y-Bereich:** 65 bis 65
-- **Blöcke:** 1.110
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 838 |
-| Graues Buntglas | `gray_stained_glass` | 133 |
-| Glatter Stein | `smooth_stone` | 88 |
-| Grüner Beton | `green_concrete` | 51 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.10 – Complesso di San Firenze – Teil 10/41 (Y 66–66)
-
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 1.143
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 854 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
-| Glatter Stein | `smooth_stone` | 88 |
-| Grüner Beton | `green_concrete` | 51 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.11 – Complesso di San Firenze – Teil 11/41 (Y 67–67)
-
-- **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.143
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 854 |
-| Graues Buntglas | `gray_stained_glass` | 150 |
-| Glatter Stein | `smooth_stone` | 88 |
-| Grüner Beton | `green_concrete` | 51 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.12 – Complesso di San Firenze – Teil 12/41 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.145
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 854 |
-| Graues Buntglas | `gray_stained_glass` | 149 |
-| Glatter Stein | `smooth_stone` | 91 |
-| Grüner Beton | `green_concrete` | 51 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.13 – Complesso di San Firenze – Teil 13/41 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.152
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 863 |
-| Graues Buntglas | `gray_stained_glass` | 141 |
-| Glatter Stein | `smooth_stone` | 97 |
-| Grüner Beton | `green_concrete` | 51 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.14 – Complesso di San Firenze – Teil 14/41 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.230
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.001 |
-| Glatter Stein | `smooth_stone` | 187 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.15 – Complesso di San Firenze – Teil 15/41 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.197 |
-| Glatter Stein | `smooth_stone` | 64 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.16 – Complesso di San Firenze – Teil 16/41 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 873 |
-| Glatter Stein | `smooth_stone` | 388 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.17 – Complesso di San Firenze – Teil 17/41 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.261 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.18 – Complesso di San Firenze – Teil 18/41 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.337
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.056 |
-| Glatter Stein | `smooth_stone` | 281 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.19 – Complesso di San Firenze – Teil 19/41 (Y 75–75)
-
-- **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.20 – Complesso di San Firenze – Teil 20/41 (Y 76–76)
-
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.21 – Complesso di San Firenze – Teil 21/41 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.22 – Complesso di San Firenze – Teil 22/41 (Y 78–78)
-
-- **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.23 – Complesso di San Firenze – Teil 23/41 (Y 79–79)
-
-- **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.24 – Complesso di San Firenze – Teil 24/41 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.056 |
-| Glatter Stein | `smooth_stone` | 205 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.25 – Complesso di San Firenze – Teil 25/41 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 866 |
-| Glatter Stein | `smooth_stone` | 395 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.26 – Complesso di San Firenze – Teil 26/41 (Y 82–82)
-
-- **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.261 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.27 – Complesso di San Firenze – Teil 27/41 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.337
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.056 |
-| Glatter Stein | `smooth_stone` | 281 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.28 – Complesso di San Firenze – Teil 28/41 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.29 – Complesso di San Firenze – Teil 29/41 (Y 85–85)
-
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.30 – Complesso di San Firenze – Teil 30/41 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.31 – Complesso di San Firenze – Teil 31/41 (Y 87–87)
-
-- **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.32 – Complesso di San Firenze – Teil 32/41 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.171
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 889 |
-| Graues Buntglas | `gray_stained_glass` | 120 |
-| Glatter Stein | `smooth_stone` | 84 |
-| Grüner Beton | `green_concrete` | 78 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.33 – Complesso di San Firenze – Teil 33/41 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.056 |
-| Glatter Stein | `smooth_stone` | 205 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.34 – Complesso di San Firenze – Teil 34/41 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.501
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.261 |
-| Glatter Stein | `smooth_stone` | 240 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.35 – Complesso di San Firenze – Teil 35/41 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 2.050
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.695 |
-| Hellgrauer Beton | `light_gray_concrete` | 266 |
-| Glatter Stein | `smooth_stone` | 89 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.36 – Complesso di San Firenze – Teil 36/41 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 2.047
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.673 |
-| Hellgrauer Beton | `light_gray_concrete` | 278 |
-| Glatter Stein | `smooth_stone` | 96 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.37 – Complesso di San Firenze – Teil 37/41 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 2.061
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.694 |
-| Hellgrauer Beton | `light_gray_concrete` | 283 |
-| Glatter Stein | `smooth_stone` | 84 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.38 – Complesso di San Firenze – Teil 38/41 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.960
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.735 |
-| Hellgrauer Beton | `light_gray_concrete` | 153 |
-| Glatter Stein | `smooth_stone` | 72 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.39 – Complesso di San Firenze – Teil 39/41 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 2.092
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.602 |
-| Hellgrauer Beton | `light_gray_concrete` | 281 |
-| Glatter Stein | `smooth_stone` | 209 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.40 – Complesso di San Firenze – Teil 40/41 (Y 92–92)
-
-- **Y-Bereich:** 92 bis 92
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.261 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.41 – Complesso di San Firenze – Teil 41/41 (Y 93–93)
-
-- **Y-Bereich:** 93 bis 93
-- **Blöcke:** 1.261
-- **Bauteile:** `r4084510`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.261 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.42 – Complesso di San Firenze: Innenausbau – Teil 1/10 (Y 61–72)
-
-- **Y-Bereich:** 61 bis 72
-- **Blöcke:** 1.772
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.662 |
-| Seelaterne | `sea_lantern` | 54 |
-| Glatter Stein | `smooth_stone` | 28 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 22 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.43 – Complesso di San Firenze: Innenausbau – Teil 2/10 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.697
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.687 |
-| Seelaterne | `sea_lantern` | 10 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.44 – Complesso di San Firenze: Innenausbau – Teil 3/10 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.694
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.685 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.45 – Complesso di San Firenze: Innenausbau – Teil 4/10 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.632
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.624 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.46 – Complesso di San Firenze: Innenausbau – Teil 5/10 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.705
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.696 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.47 – Complesso di San Firenze: Innenausbau – Teil 6/10 (Y 73–81)
-
-- **Y-Bereich:** 73 bis 81
-- **Blöcke:** 1.722
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.662 |
-| Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.48 – Complesso di San Firenze: Innenausbau – Teil 7/10 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.697
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.687 |
-| Seelaterne | `sea_lantern` | 10 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.49 – Complesso di San Firenze: Innenausbau – Teil 8/10 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.694
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.685 |
-| Seelaterne | `sea_lantern` | 9 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.50 – Complesso di San Firenze: Innenausbau – Teil 9/10 (Y 81–81)
-
-- **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.632
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.624 |
-| Seelaterne | `sea_lantern` | 8 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.51 – Complesso di San Firenze: Innenausbau – Teil 10/10 (Y 81–91)
-
-- **Y-Bereich:** 81 bis 91
-- **Blöcke:** 1.760
-- **Bauteile:** `r4084510_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.696 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 20 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis auf die Dachterrasse, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.52 – Palazzo Tafani da Barberino – Teil 1/10 (Y 61–61)
+### Schritt 4.1 – Palazzo Tafani da Barberino – Teil 1/10 (Y 61–61)
 
 - **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.721
@@ -1680,7 +121,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.53 – Palazzo Tafani da Barberino – Teil 2/10 (Y 62–66)
+### Schritt 4.2 – Palazzo Tafani da Barberino – Teil 2/10 (Y 62–66)
 
 - **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.777
@@ -1713,7 +154,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.54 – Palazzo Tafani da Barberino – Teil 3/10 (Y 67–71)
+### Schritt 4.3 – Palazzo Tafani da Barberino – Teil 3/10 (Y 67–71)
 
 - **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.736
@@ -1746,7 +187,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.55 – Palazzo Tafani da Barberino – Teil 4/10 (Y 72–76)
+### Schritt 4.4 – Palazzo Tafani da Barberino – Teil 4/10 (Y 72–76)
 
 - **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.755
@@ -1778,7 +219,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.56 – Palazzo Tafani da Barberino – Teil 5/10 (Y 77–81)
+### Schritt 4.5 – Palazzo Tafani da Barberino – Teil 5/10 (Y 77–81)
 
 - **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.762
@@ -1810,7 +251,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.57 – Palazzo Tafani da Barberino – Teil 6/10 (Y 82–86)
+### Schritt 4.6 – Palazzo Tafani da Barberino – Teil 6/10 (Y 82–86)
 
 - **Y-Bereich:** 82 bis 86
 - **Blöcke:** 1.726
@@ -1842,7 +283,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.58 – Palazzo Tafani da Barberino – Teil 7/10 (Y 87–91)
+### Schritt 4.7 – Palazzo Tafani da Barberino – Teil 7/10 (Y 87–91)
 
 - **Y-Bereich:** 87 bis 91
 - **Blöcke:** 1.813
@@ -1874,7 +315,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.59 – Palazzo Tafani da Barberino – Teil 8/10 (Y 92–96)
+### Schritt 4.8 – Palazzo Tafani da Barberino – Teil 8/10 (Y 92–96)
 
 - **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.675
@@ -1906,7 +347,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.60 – Palazzo Tafani da Barberino – Teil 9/10 (Y 97–99)
+### Schritt 4.9 – Palazzo Tafani da Barberino – Teil 9/10 (Y 97–99)
 
 - **Y-Bereich:** 97 bis 99
 - **Blöcke:** 1.897
@@ -1937,7 +378,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.61 – Palazzo Tafani da Barberino – Teil 10/10 (Y 100–108)
+### Schritt 4.10 – Palazzo Tafani da Barberino – Teil 10/10 (Y 100–108)
 
 - **Y-Bereich:** 100 bis 108
 - **Blöcke:** 1.495
@@ -1966,7 +407,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.62 – Palazzo Tafani da Barberino: Innenausbau – Teil 1/3 (Y 61–71)
+### Schritt 4.11 – Palazzo Tafani da Barberino: Innenausbau – Teil 1/3 (Y 61–71)
 
 - **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.416
@@ -2008,7 +449,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.63 – Palazzo Tafani da Barberino: Innenausbau – Teil 2/3 (Y 72–80)
+### Schritt 4.12 – Palazzo Tafani da Barberino: Innenausbau – Teil 2/3 (Y 72–80)
 
 - **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.409
@@ -2052,7 +493,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.64 – Palazzo Tafani da Barberino: Innenausbau – Teil 3/3 (Y 81–90)
+### Schritt 4.13 – Palazzo Tafani da Barberino: Innenausbau – Teil 3/3 (Y 81–90)
 
 - **Y-Bereich:** 81 bis 90
 - **Blöcke:** 1.418
@@ -2096,7 +537,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.65 – Reihenhaus an Via Borgognona – Teil 1/6 (Y 61–63)
+### Schritt 4.14 – Reihenhaus an Via Borgognona – Teil 1/6 (Y 61–63)
 
 - **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.733
@@ -2126,7 +567,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.66 – Reihenhaus an Via Borgognona – Teil 2/6 (Y 64–70)
+### Schritt 4.15 – Reihenhaus an Via Borgognona – Teil 2/6 (Y 64–70)
 
 - **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.741
@@ -2159,7 +600,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.67 – Reihenhaus an Via Borgognona – Teil 3/6 (Y 71–77)
+### Schritt 4.16 – Reihenhaus an Via Borgognona – Teil 3/6 (Y 71–77)
 
 - **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.776
@@ -2190,7 +631,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.68 – Reihenhaus an Via Borgognona – Teil 4/6 (Y 78–84)
+### Schritt 4.17 – Reihenhaus an Via Borgognona – Teil 4/6 (Y 78–84)
 
 - **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.776
@@ -2221,7 +662,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.69 – Reihenhaus an Via Borgognona – Teil 5/6 (Y 85–91)
+### Schritt 4.18 – Reihenhaus an Via Borgognona – Teil 5/6 (Y 85–91)
 
 - **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.861
@@ -2253,7 +694,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.70 – Reihenhaus an Via Borgognona – Teil 6/6 (Y 92–96)
+### Schritt 4.19 – Reihenhaus an Via Borgognona – Teil 6/6 (Y 92–96)
 
 - **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.729
@@ -2282,7 +723,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.71 – Reihenhaus an Via Borgognona: Innenausbau – Teil 1/2 (Y 61–76)
+### Schritt 4.20 – Reihenhaus an Via Borgognona: Innenausbau – Teil 1/2 (Y 61–76)
 
 - **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.073
@@ -2324,7 +765,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.72 – Reihenhaus an Via Borgognona: Innenausbau – Teil 2/2 (Y 77–85)
+### Schritt 4.21 – Reihenhaus an Via Borgognona: Innenausbau – Teil 2/2 (Y 77–85)
 
 - **Y-Bereich:** 77 bis 85
 - **Blöcke:** 2.014
@@ -2364,7 +805,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.73 – Palazzo des Cinquecento an Via Filippina – Teil 1/5 (Y 61–65)
+### Schritt 4.22 – Palazzo des Cinquecento an Via Filippina – Teil 1/5 (Y 61–65)
 
 - **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.969
@@ -2398,7 +839,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.74 – Palazzo des Cinquecento an Via Filippina – Teil 2/5 (Y 66–73)
+### Schritt 4.23 – Palazzo des Cinquecento an Via Filippina – Teil 2/5 (Y 66–73)
 
 - **Y-Bereich:** 66 bis 73
 - **Blöcke:** 1.748
@@ -2431,7 +872,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.75 – Palazzo des Cinquecento an Via Filippina – Teil 3/5 (Y 74–82)
+### Schritt 4.24 – Palazzo des Cinquecento an Via Filippina – Teil 3/5 (Y 74–82)
 
 - **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.962
@@ -2463,7 +904,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.76 – Palazzo des Cinquecento an Via Filippina – Teil 4/5 (Y 83–90)
+### Schritt 4.25 – Palazzo des Cinquecento an Via Filippina – Teil 4/5 (Y 83–90)
 
 - **Y-Bereich:** 83 bis 90
 - **Blöcke:** 1.777
@@ -2496,7 +937,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.77 – Palazzo des Cinquecento an Via Filippina – Teil 5/5 (Y 91–98)
+### Schritt 4.26 – Palazzo des Cinquecento an Via Filippina – Teil 5/5 (Y 91–98)
 
 - **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.944
@@ -2528,7 +969,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.78 – Palazzo des Cinquecento an Via Filippina: Innenausbau
+### Schritt 4.27 – Palazzo des Cinquecento an Via Filippina: Innenausbau
 
 - **Y-Bereich:** 61 bis 82
 - **Blöcke:** 1.835
@@ -2574,7 +1015,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.79 – Reihenhaus an Via Borgognona – Teil 1/4 (Y 61–69)
+### Schritt 4.28 – Reihenhaus an Via Borgognona – Teil 1/4 (Y 61–69)
 
 - **Y-Bereich:** 61 bis 69
 - **Blöcke:** 1.981
@@ -2605,7 +1046,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.80 – Reihenhaus an Via Borgognona – Teil 2/4 (Y 70–81)
+### Schritt 4.29 – Reihenhaus an Via Borgognona – Teil 2/4 (Y 70–81)
 
 - **Y-Bereich:** 70 bis 81
 - **Blöcke:** 1.877
@@ -2635,7 +1076,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.81 – Reihenhaus an Via Borgognona – Teil 3/4 (Y 82–93)
+### Schritt 4.30 – Reihenhaus an Via Borgognona – Teil 3/4 (Y 82–93)
 
 - **Y-Bereich:** 82 bis 93
 - **Blöcke:** 1.894
@@ -2665,7 +1106,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.82 – Reihenhaus an Via Borgognona – Teil 4/4 (Y 94–105)
+### Schritt 4.31 – Reihenhaus an Via Borgognona – Teil 4/4 (Y 94–105)
 
 - **Y-Bereich:** 94 bis 105
 - **Blöcke:** 1.888
@@ -2697,7 +1138,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.83 – Reihenhaus an Via Borgognona: Innenausbau – Teil 1/2 (Y 61–77)
+### Schritt 4.32 – Reihenhaus an Via Borgognona: Innenausbau – Teil 1/2 (Y 61–77)
 
 - **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.438
@@ -2739,7 +1180,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.84 – Reihenhaus an Via Borgognona: Innenausbau – Teil 2/2 (Y 78–92)
+### Schritt 4.33 – Reihenhaus an Via Borgognona: Innenausbau – Teil 2/2 (Y 78–92)
 
 - **Y-Bereich:** 78 bis 92
 - **Blöcke:** 1.441
@@ -2781,17 +1222,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.85 – Nebengebäude an Via Filippina
+### Schritt 4.34 – Nebengebäude an Via Filippina
 
 - **Y-Bereich:** 61 bis 93
-- **Blöcke:** 1.125
+- **Blöcke:** 1.128
 - **Bauteile:** `w306156984`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 981 |
+| Endsteinziegel | `end_stone_bricks` | 984 |
 | Terrakotta | `terracotta` | 80 |
 | Polierter Tuffstein | `polished_tuff` | 64 |
 
@@ -2811,7 +1252,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.86 – Nebengebäude an Via Filippina: Innenausbau & Palazzo des Cinquecento an Via dell'Anguillara – Teil 1/6 (Y 62–64)
+### Schritt 4.35 – Nebengebäude an Via Filippina: Innenausbau & Palazzo des Cinquecento an Via dell'Anguillara – Teil 1/6 (Y 62–64)
 
 - **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.767
@@ -2853,7 +1294,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.87 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 2/6 (Y 65–71)
+### Schritt 4.36 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 2/6 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.666
@@ -2886,7 +1327,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.88 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 3/6 (Y 72–79)
+### Schritt 4.37 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 3/6 (Y 72–79)
 
 - **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.925
@@ -2917,7 +1358,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.89 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 4/6 (Y 80–86)
+### Schritt 4.38 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 4/6 (Y 80–86)
 
 - **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.717
@@ -2948,7 +1389,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.90 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 5/6 (Y 87–92)
+### Schritt 4.39 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 5/6 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.727
@@ -2979,7 +1420,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.91 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 6/6 (Y 93–98)
+### Schritt 4.40 – Palazzo des Cinquecento an Via dell'Anguillara – Teil 6/6 (Y 93–98)
 
 - **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.771
@@ -3008,7 +1449,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.92 – Palazzo des Cinquecento an Via dell'Anguillara: Innenausbau – Teil 1/2 (Y 62–72)
+### Schritt 4.41 – Palazzo des Cinquecento an Via dell'Anguillara: Innenausbau – Teil 1/2 (Y 62–72)
 
 - **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.066
@@ -3050,7 +1491,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.93 – Palazzo des Cinquecento an Via dell'Anguillara: Innenausbau – Teil 2/2 (Y 73–83)
+### Schritt 4.42 – Palazzo des Cinquecento an Via dell'Anguillara: Innenausbau – Teil 2/2 (Y 73–83)
 
 - **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.075
@@ -3094,17 +1535,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.94 – Nebengebäude an Via Filippina
+### Schritt 4.43 – Nebengebäude an Via Filippina
 
 - **Y-Bereich:** 62 bis 96
-- **Blöcke:** 1.379
+- **Blöcke:** 1.371
 - **Bauteile:** `w306156999`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.108 |
+| Gelbe Keramik | `yellow_terracotta` | 1.100 |
 | Terrakotta | `terracotta` | 149 |
 | Polierter Tuffstein | `polished_tuff` | 116 |
 | Ziegelsteine | `bricks` | 6 |
@@ -3125,7 +1566,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.95 – Nebengebäude an Via Filippina: Innenausbau
+### Schritt 4.44 – Nebengebäude an Via Filippina: Innenausbau
 
 - **Y-Bereich:** 62 bis 85
 - **Blöcke:** 338
@@ -3163,654 +1604,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.96 – Sala della Musica – Teil 1/5 (Y 62–62)
-
-- **Y-Bereich:** 62 bis 62
-- **Blöcke:** 1.936
-- **Bauteile:** `w307129115`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.936 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.97 – Sala della Musica – Teil 2/5 (Y 63–72)
-
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.810
-- **Bauteile:** `w307129115`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.480 |
-| Weißer Beton | `white_concrete` | 216 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-| Grüner Beton | `green_concrete` | 30 |
-| Glatter Stein | `smooth_stone` | 21 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.98 – Sala della Musica – Teil 3/5 (Y 73–82)
-
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.774
-- **Bauteile:** `w307129115`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.091 |
-| Weißer Beton | `white_concrete` | 353 |
-| Graues Buntglas | `gray_stained_glass` | 192 |
-| Grüner Beton | `green_concrete` | 138 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.99 – Sala della Musica – Teil 4/5 (Y 83–87)
-
-- **Y-Bereich:** 83 bis 87
-- **Blöcke:** 1.966
-- **Bauteile:** `w307129115`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.247 |
-| Rosa Keramik | `pink_terracotta` | 580 |
-| Weißer Beton | `white_concrete` | 139 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.100 – Sala della Musica – Teil 5/5 (Y 88–94)
-
-- **Y-Bereich:** 88 bis 94
-- **Blöcke:** 1.667
-- **Bauteile:** `w307129115`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.375 |
-| Ziegelsteine | `bricks` | 292 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.101 – Sala della Musica: Innenausbau – Teil 1/2 (Y 62–71)
-
-- **Y-Bereich:** 62 bis 71
-- **Blöcke:** 1.802
-- **Bauteile:** `w307129115_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.735 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
-| Seelaterne | `sea_lantern` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.102 – Sala della Musica: Innenausbau – Teil 2/2 (Y 72–79)
-
-- **Y-Bereich:** 72 bis 79
-- **Blöcke:** 1.798
-- **Bauteile:** `w307129115_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.735 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Seelaterne | `sea_lantern` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.103 – Chiesa di San Filippo Neri – Teil 1/9 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.495
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.495 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.104 – Chiesa di San Filippo Neri – Teil 2/9 (Y 63–65)
-
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.997
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.473 |
-| Hellgrauer Beton | `light_gray_concrete` | 520 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.105 – Chiesa di San Filippo Neri – Teil 3/9 (Y 66–72)
-
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.700
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.146 |
-| Polierter Andesit | `polished_andesite` | 360 |
-| Graues Buntglas | `gray_stained_glass` | 194 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.106 – Chiesa di San Filippo Neri – Teil 4/9 (Y 73–78)
-
-- **Y-Bereich:** 73 bis 78
-- **Blöcke:** 1.642
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.631 |
-| Polierter Andesit | `polished_andesite` | 11 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.107 – Chiesa di San Filippo Neri – Teil 5/9 (Y 79–85)
-
-- **Y-Bereich:** 79 bis 85
-- **Blöcke:** 1.758
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.117 |
-| Polierter Andesit | `polished_andesite` | 401 |
-| Graues Buntglas | `gray_stained_glass` | 240 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.108 – Chiesa di San Filippo Neri – Teil 6/9 (Y 86–92)
-
-- **Y-Bereich:** 86 bis 92
-- **Blöcke:** 2.014
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.462 |
-| Polierter Andesit | `polished_andesite` | 312 |
-| Graues Buntglas | `gray_stained_glass` | 240 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.109 – Chiesa di San Filippo Neri – Teil 7/9 (Y 93–94)
-
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.698
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.167 |
-| Hellgrauer Beton | `light_gray_concrete` | 442 |
-| Polierter Andesit | `polished_andesite` | 89 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.110 – Chiesa di San Filippo Neri – Teil 8/9 (Y 95–96)
-
-- **Y-Bereich:** 95 bis 96
-- **Blöcke:** 1.399
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.399 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.111 – Chiesa di San Filippo Neri – Teil 9/9 (Y 97–102)
-
-- **Y-Bereich:** 97 bis 102
-- **Blöcke:** 1.885
-- **Bauteile:** `w361442655`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.457 |
-| Ziegelsteine | `bricks` | 428 |
-
-**Beschreibung**
-
-Kleine Kirche (Mittelalter bis Neuzeit), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 4.112 – Chiesa di San Filippo Neri: Innenausbau – Teil 1/4 (Y 63–77)
-
-- **Y-Bereich:** 63 bis 77
-- **Blöcke:** 1.407
-- **Bauteile:** `w361442655_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.323 |
-| Glatter Stein | `smooth_stone` | 34 |
-| Seelaterne | `sea_lantern` | 19 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 14 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 14 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 28 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.113 – Chiesa di San Filippo Neri: Innenausbau – Teil 2/4 (Y 77–77)
-
-- **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.369
-- **Bauteile:** `w361442655_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.362 |
-| Seelaterne | `sea_lantern` | 7 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.114 – Chiesa di San Filippo Neri: Innenausbau – Teil 3/4 (Y 78–85)
-
-- **Y-Bereich:** 78 bis 85
-- **Blöcke:** 1.370
-- **Bauteile:** `w361442655_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.323 |
-| Glatter Stein | `smooth_stone` | 22 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 8 |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
-| Seelaterne | `sea_lantern` | 6 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 16 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.115 – Chiesa di San Filippo Neri: Innenausbau – Teil 4/4 (Y 85–86)
-
-- **Y-Bereich:** 85 bis 86
-- **Blöcke:** 1.372
-- **Bauteile:** `w361442655_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.362 |
-| Seelaterne | `sea_lantern` | 7 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 4.116 – Reihenhaus an Borgo de' Greci – Teil 1/6 (Y 62–64)
+### Schritt 4.45 – Reihenhaus an Borgo de' Greci – Teil 1/6 (Y 62–64)
 
 - **Y-Bereich:** 62 bis 64
 - **Blöcke:** 1.786
@@ -3840,7 +1634,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.117 – Reihenhaus an Borgo de' Greci – Teil 2/6 (Y 65–71)
+### Schritt 4.46 – Reihenhaus an Borgo de' Greci – Teil 2/6 (Y 65–71)
 
 - **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.692
@@ -3872,7 +1666,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.118 – Reihenhaus an Borgo de' Greci – Teil 3/6 (Y 72–78)
+### Schritt 4.47 – Reihenhaus an Borgo de' Greci – Teil 3/6 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.727
@@ -3903,7 +1697,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.119 – Reihenhaus an Borgo de' Greci – Teil 4/6 (Y 79–85)
+### Schritt 4.48 – Reihenhaus an Borgo de' Greci – Teil 4/6 (Y 79–85)
 
 - **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.727
@@ -3934,7 +1728,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.120 – Reihenhaus an Borgo de' Greci – Teil 5/6 (Y 86–92)
+### Schritt 4.49 – Reihenhaus an Borgo de' Greci – Teil 5/6 (Y 86–92)
 
 - **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.751
@@ -3965,7 +1759,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.121 – Reihenhaus an Borgo de' Greci – Teil 6/6 (Y 93–98)
+### Schritt 4.50 – Reihenhaus an Borgo de' Greci – Teil 6/6 (Y 93–98)
 
 - **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.762
@@ -3994,7 +1788,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.122 – Reihenhaus an Borgo de' Greci: Innenausbau – Teil 1/3 (Y 62–71)
+### Schritt 4.51 – Reihenhaus an Borgo de' Greci: Innenausbau – Teil 1/3 (Y 62–71)
 
 - **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.088
@@ -4032,7 +1826,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.123 – Reihenhaus an Borgo de' Greci: Innenausbau – Teil 2/3 (Y 72–78)
+### Schritt 4.52 – Reihenhaus an Borgo de' Greci: Innenausbau – Teil 2/3 (Y 72–78)
 
 - **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.079
@@ -4074,7 +1868,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.124 – Reihenhaus an Borgo de' Greci: Innenausbau – Teil 3/3 (Y 79–86)
+### Schritt 4.53 – Reihenhaus an Borgo de' Greci: Innenausbau – Teil 3/3 (Y 79–86)
 
 - **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.088
@@ -4116,7 +1910,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.125 – Reihenhaus an Via dell'Anguillara – Teil 1/2 (Y 62–77)
+### Schritt 4.54 – Reihenhaus an Via dell'Anguillara – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.263
@@ -4148,7 +1942,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.126 – Reihenhaus an Via dell'Anguillara – Teil 2/2 (Y 78–94)
+### Schritt 4.55 – Reihenhaus an Via dell'Anguillara – Teil 2/2 (Y 78–94)
 
 - **Y-Bereich:** 78 bis 94
 - **Blöcke:** 1.323
@@ -4179,7 +1973,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.127 – Reihenhaus an Via dell'Anguillara: Innenausbau
+### Schritt 4.56 – Reihenhaus an Via dell'Anguillara: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 567
@@ -4221,7 +2015,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.128 – Reihenhaus an Via Borgognona – Teil 1/2 (Y 62–79)
+### Schritt 4.57 – Reihenhaus an Via Borgognona – Teil 1/2 (Y 62–79)
 
 - **Y-Bereich:** 62 bis 79
 - **Blöcke:** 1.869
@@ -4254,7 +2048,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.129 – Reihenhaus an Via Borgognona – Teil 2/2 (Y 80–98)
+### Schritt 4.58 – Reihenhaus an Via Borgognona – Teil 2/2 (Y 80–98)
 
 - **Y-Bereich:** 80 bis 98
 - **Blöcke:** 1.837
@@ -4287,7 +2081,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.130 – Reihenhaus an Via Borgognona: Innenausbau
+### Schritt 4.59 – Reihenhaus an Via Borgognona: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.317
@@ -4329,7 +2123,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.131 – Reihenhaus an Via dell'Anguillara – Teil 1/4 (Y 62–68)
+### Schritt 4.60 – Reihenhaus an Via dell'Anguillara – Teil 1/4 (Y 62–68)
 
 - **Y-Bereich:** 62 bis 68
 - **Blöcke:** 1.630
@@ -4360,7 +2154,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.132 – Reihenhaus an Via dell'Anguillara – Teil 2/4 (Y 69–78)
+### Schritt 4.61 – Reihenhaus an Via dell'Anguillara – Teil 2/4 (Y 69–78)
 
 - **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.607
@@ -4390,7 +2184,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.133 – Reihenhaus an Via dell'Anguillara – Teil 3/4 (Y 79–88)
+### Schritt 4.62 – Reihenhaus an Via dell'Anguillara – Teil 3/4 (Y 79–88)
 
 - **Y-Bereich:** 79 bis 88
 - **Blöcke:** 1.593
@@ -4420,7 +2214,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.134 – Reihenhaus an Via dell'Anguillara – Teil 4/4 (Y 89–99)
+### Schritt 4.63 – Reihenhaus an Via dell'Anguillara – Teil 4/4 (Y 89–99)
 
 - **Y-Bereich:** 89 bis 99
 - **Blöcke:** 1.696
@@ -4453,7 +2247,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.135 – Reihenhaus an Via dell'Anguillara: Innenausbau
+### Schritt 4.64 – Reihenhaus an Via dell'Anguillara: Innenausbau
 
 - **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.785
@@ -4495,7 +2289,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.136 – Reihenhaus an Via dei Bentaccordi – Teil 1/3 (Y 63–72)
+### Schritt 4.65 – Reihenhaus an Via dei Bentaccordi – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.850
@@ -4527,7 +2321,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.137 – Reihenhaus an Via dei Bentaccordi – Teil 2/3 (Y 73–85)
+### Schritt 4.66 – Reihenhaus an Via dei Bentaccordi – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.858
@@ -4558,7 +2352,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.138 – Reihenhaus an Via dei Bentaccordi – Teil 3/3 (Y 86–99)
+### Schritt 4.67 – Reihenhaus an Via dei Bentaccordi – Teil 3/3 (Y 86–99)
 
 - **Y-Bereich:** 86 bis 99
 - **Blöcke:** 1.965
@@ -4591,7 +2385,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.139 – Reihenhaus an Via dei Bentaccordi: Innenausbau
+### Schritt 4.68 – Reihenhaus an Via dei Bentaccordi: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.460
@@ -4631,7 +2425,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.140 – Reihenhaus an Via Borgognona – Teil 1/3 (Y 62–70)
+### Schritt 4.69 – Reihenhaus an Via Borgognona – Teil 1/3 (Y 62–70)
 
 - **Y-Bereich:** 62 bis 70
 - **Blöcke:** 1.611
@@ -4663,7 +2457,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.141 – Reihenhaus an Via Borgognona – Teil 2/3 (Y 71–90)
+### Schritt 4.70 – Reihenhaus an Via Borgognona – Teil 2/3 (Y 71–90)
 
 - **Y-Bereich:** 71 bis 90
 - **Blöcke:** 1.671
@@ -4694,7 +2488,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.142 – Reihenhaus an Via Borgognona – Teil 3/3 (Y 91–98)
+### Schritt 4.71 – Reihenhaus an Via Borgognona – Teil 3/3 (Y 91–98)
 
 - **Y-Bereich:** 91 bis 98
 - **Blöcke:** 1.633
@@ -4726,7 +2520,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.143 – Reihenhaus an Via Borgognona: Innenausbau – Teil 1/2 (Y 62–77)
+### Schritt 4.72 – Reihenhaus an Via Borgognona: Innenausbau – Teil 1/2 (Y 62–77)
 
 - **Y-Bereich:** 62 bis 77
 - **Blöcke:** 967
@@ -4768,10 +2562,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.144 – Reihenhaus an Via Borgognona: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
+### Schritt 4.73 – Reihenhaus an Via Borgognona: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
 
 - **Y-Bereich:** 68 bis 86
-- **Blöcke:** 1.822
+- **Blöcke:** 1.815
 - **Bauteile:** `w491891890_innen`, `strassenschilder`
 
 **Teileliste**
@@ -4782,13 +2576,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 12 |
 | Seelaterne | `sea_lantern` | 12 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 9 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 8 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 5 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 4 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 

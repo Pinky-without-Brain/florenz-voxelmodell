@@ -1,0 +1,197 @@
+{
+  "module": 5,
+  "title": "Ausstattung der Kirche",
+  "subtitle": "Bautüte 5: Kapellen, Querhaus, Hochaltar, Chor, Orgel, Sakristei",
+  "icon": "🖼️",
+  "parts": {
+    "seitenaltaere": {
+      "title": "Kapellenaltäre",
+      "description": "In jeder der sechs Kapellen steht an der Außenwand ein Altar aus weißem Marmor, 4 Blöcke breit und 2 hoch, mit einem goldenen Kreuz darauf und einer Kniebank aus Eichenholz davor.",
+      "tip": "Die Kniebank ist einen Block hoch.",
+      "caution": "Quelle: drei Seitenkapellen je Seite mit Altären (it.wikipedia, Stufe A); Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapellen tragen die Namen der Stifterfamilien: Rosso, Mazzei, Martelli rechts, Tornaquinci, Franceschi, Ardinghelli links (it.wikipedia)."
+    },
+    "rosso_della_robbia": {
+      "title": "Cappella del Rosso: Madonna della Robbia",
+      "description": "Die Rückwand der ersten Kapelle rechts trägt ein Farbfeld von 6 Blöcken Breite und 9 Höhe: eine Gestalt in Blau und Weiß vor weißem Grund, Goldrahmen rundum.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Bild: Andrea della Robbia, Madonna col Bambino, glasierte Terrakotta, um 1470 bis 1480, aus der Vorgängerkirche; Dekoration von Ottavio Vannini (it.wikipedia, Stufe A). Farben und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Stuckarbeiten und Büsten schuf Antonio Novelli 1642 (it.wikipedia)."
+    },
+    "mazzei_vignali": {
+      "title": "Cappella Mazzei: Erzengel Michael",
+      "description": "Die Rückwand der zweiten Kapelle rechts trägt ein Farbfeld von 6 Blöcken Breite und 9 Höhe auf hellblauem Grund: eine Gruppe von Gestalten in Rot, Blau und Weiß.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Die Kapelle ist dem Erzengel Michael geweiht, ausgemalt ab 1634; Vignalis Bild San Michele che libera le anime del Purgatorio wurde 1928 versetzt (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Angelo Michele Colonna malte die Fresken der Kapelle (it.wikipedia)."
+    },
+    "mazzei_gewoelbe_colonna": {
+      "title": "Gewölbefresko von Colonna",
+      "description": "Das Gewölbe der zweiten Kapelle rechts ist in Hellblau mit weißen Wolkenflecken bemalt.",
+      "tip": "Nur die oberste Gewölbelage wird bemalt.",
+      "caution": "Fresken: Angelo Michele Colonna, Cappella Mazzei (it.wikipedia, Stufe A); das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Auch das Gewölbe der Cappella Franceschi malte Colonna (it.wikipedia)."
+    },
+    "martelli_rosselli": {
+      "title": "Cappella Martelli: Altarbild",
+      "description": "Die Rückwand der dritten Kapelle rechts trägt ein Farbfeld von 6 Blöcken Breite und 9 Höhe auf gelbem Grund mit Gestalten in Rot, Blau und Weiß.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Altarbild: Matteo Rosselli, 1640; Fresken und Leinwände von Sigismondo Coccapani (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle birgt die Grabmäler des Kardinals Francesco Martelli und des Erzbischofs Giuseppe Maria Martelli (it.wikipedia, en.wikipedia)."
+    },
+    "martelli_grabmaeler": {
+      "title": "Martelli-Grabmäler",
+      "description": "Auf den Trennwänden der dritten Kapelle rechts hängen zwei Marmorfelder von 4 Blöcken Breite und 8 Höhe mit einem roten Bildnisfeld im oberen Teil, gerahmt von Gold.",
+      "tip": "Die Unterkante liegt bei Y 67.",
+      "caution": "Grabmäler von Franz Janssens, 1750, mit Mikromosaik-Bildnissen aus Rom (it.wikipedia, Stufe A). Form und Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Bildnisse sind in Rom als Mikromosaik gefertigt (it.wikipedia)."
+    },
+    "tornaquinci_zanobi": {
+      "title": "Cappella Tornaquinci: San Zanobi",
+      "description": "Die Rückwand der ersten Kapelle links trägt ein Farbfeld von 6 Blöcken Breite und 9 Höhe: eine Gestalt in Weiß und Gelb vor hellblauem Grund.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Die Kapelle ist San Zanobi geweiht; Stuck um 1698 (Giovan Battista Ciceri zugeschrieben), Fresken von Galletti, Albergotti-Denkmäler 1772 (it.wikipedia, Stufe A). Das Bild im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle liegt der Gegenfassade am nächsten (it.wikipedia)."
+    },
+    "franceschi_cortona": {
+      "title": "Cappella Franceschi: Martyrium des heiligen Laurentius",
+      "description": "Die Rückwand der zweiten Kapelle links trägt ein Farbfeld von 6 Blöcken Breite und 9 Höhe auf orangem Grund: eine Gruppe von Gestalten in Rot, Schwarz und Weiß.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Altarbild: Pietro da Cortona, Martirio di San Lorenzo, 1637 bestellt, um 1653 aufgestellt; Leinwände von Rosselli (1643) und Empoli (1636) (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild von Pietro da Cortona ist das Hauptwerk dieser Kapelle (en.wikipedia)."
+    },
+    "franceschi_gewoelbe_colonna": {
+      "title": "Gewölbefresko der Cappella Franceschi",
+      "description": "Das Gewölbe der zweiten Kapelle links ist in Blau mit weißen Wolkenflecken bemalt.",
+      "tip": "Nur die oberste Gewölbelage wird bemalt.",
+      "caution": "Gewölbefresken: Angelo Michele Colonna (it.wikipedia, Stufe A); das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Altarbild derselben Kapelle ist das Martyrium des heiligen Laurentius (it.wikipedia)."
+    },
+    "ardinghelli_hugford": {
+      "title": "Cappella Ardinghelli: Sant’Andrea Avellino",
+      "description": "Die Rückwand der dritten Kapelle links, der Apsis am nächsten, trägt ein Farbfeld von 6 Blöcken Breite und 9 Höhe auf gelbem Grund mit einer Gestalt in Weiß, Rot und Blau.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Altarbild: Ignazio Hugford, Morte di Sant’Andrea Avellino, 1712; die Kapelle war ursprünglich der Himmelfahrt geweiht (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild zeigt den vom Schlag getroffenen Heiligen am Altar (en.wikipedia)."
+    },
+    "ardinghelli_lippi": {
+      "title": "Lippi-Fresken der Cappella Ardinghelli",
+      "description": "Auf der Trennwand neben der Kapelle hängt ein Farbfeld von 5 Blöcken Breite und 8 Höhe: eine Szene aus roten und weißen Gestalten vor Hellblau.",
+      "tip": "Die Unterkante liegt bei Y 67.",
+      "caution": "Fresken von Lorenzo Lippi, 1642 bis 1643 (it.wikipedia, Stufe A); Szene und Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle enthält auch das Grabmal der Serafina Pezzuoli mit einem Rundbild von Carlo Dolci (it.wikipedia)."
+    },
+    "nativita_rosselli": {
+      "title": "Cappella della Natività: Geburt",
+      "description": "Die Stirnwand des rechten Querhausarms trägt links ein Farbfeld von 6 Blöcken Breite und 10 Höhe: eine liegende weiße Gestalt, eine Figur in Rot und ein goldener Heiligenschein.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Bilder der Kapelle: Matteo Rosselli, Natività und Visitazione, 1631; Fabrizio Boschi, Annunciazione, 1632 (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Cappella della Natività entwarf Alessandro Malvisti; sie war die erste ausgestattete und diente als Vorbild für die anderen (it.wikipedia)."
+    },
+    "visitazione_rosselli": {
+      "title": "Cappella della Natività: Heimsuchung",
+      "description": "Rechts neben dem Fenster hängt ein Farbfeld von 6 Blöcken Breite und 10 Höhe: zwei Gestalten in Blau und Rot auf grünem Grund vor hellem Himmel.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Bild: Matteo Rosselli, Visitazione, 1631 (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Lünetten der Kapelle malte Lorenzo Lippi (it.wikipedia)."
+    },
+    "kreuz_vignali": {
+      "title": "Cappella della Croce: Vignali",
+      "description": "Die Stirnwand des linken Querhausarms trägt links ein Farbfeld von 6 Blöcken Breite und 10 Höhe mit drei Kreuzen vor Hellblau.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Leinwände von Jacopo Vignali und Giovanni Bilivert, Gewölbefresko von Vignali; Entwurf der Kapelle von Malvisti, 1644 (it.wikipedia, Stufe A). Das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle ist dem Kreuz und der heiligen Helena gewidmet; sie birgt eine Marmorbüste des segnenden Christus von Pettirossi (it.wikipedia)."
+    },
+    "kreuz_bilivert": {
+      "title": "Cappella della Croce: Bilivert",
+      "description": "Rechts neben dem Fenster hängt ein Farbfeld von 6 Blöcken Breite und 10 Höhe auf gelbem Grund mit Gestalten in Weiß und Rot.",
+      "tip": "Die Unterkante liegt bei Y 68.",
+      "caution": "Leinwand von Giovanni Bilivert (it.wikipedia, Stufe A); das Motiv im Modell ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Am Ende des linken Arms hängt Biliverts Eraclio (it.wikipedia)."
+    },
+    "medici_wappen": {
+      "title": "Wappen des Kardinals Carlo de’ Medici",
+      "description": "Im Gewölbe der Vierung liegt ein Feld aus Gold mit einem roten Kern, 4 mal 4 Blöcke groß.",
+      "tip": "Nur die oberste Gewölbelage wird bemalt.",
+      "caution": "Wappen von Sebastiano Pettirossi, 1631, an der Kreuzung von Schiff und Querhaus (it.wikipedia, Stufe A). Das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Kardinal Carlo de’ Medici weihte die Kirche am 29. August 1649 (it.wikipedia)."
+    },
+    "hochaltar_silvani": {
+      "title": "Hochaltar",
+      "description": "In der Apsis steht der Hochaltar: eine Stufe aus Ornamentmarmor, der Altartisch aus Weiß, darauf ein Ziborium aus hellem Marmor mit goldener Bekrönung, vor der Apsis eine niedrige Balustrade mit offener Mitte.",
+      "tip": "Der Altartisch ist 2 Blöcke hoch, das Ziborium 7.",
+      "caution": "Hochaltar des 17. Jahrhunderts, Erscheinung seit 1675, Balustrade 1669, Entwurf von Pierfrancesco Silvani, silbernes Ziborium von Benedetto Petrucci (it.wikipedia, Stufe A). Maße und Material des Ziboriums (Silber ist als heller Marmor dargestellt) sind vereinfacht. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Unter dem Altar liegen Reliquien der Heiligen Mario und Maria aus den Katakomben von San Callisto (it.wikipedia)."
+    },
+    "hochaltar_rueckwand": {
+      "title": "Rückwand des Hochaltars",
+      "description": "Hinter dem Altar zieht sich ein Farbfeld von 15 Blöcken Breite und 14 Höhe mit Bändern in Rot, Blau, Grün und Gelb über die Apsiswand, im Goldrahmen.",
+      "tip": "Die Unterkante liegt bei Y 65.",
+      "caution": "Rückwand mit buntem Marmor: Rosso di Francia, Lapislazuli, Verde Greco, Giallo di Siena und Giallo antico di Numidia (it.wikipedia, Stufe A). Die Muster sind erfunden; die konkave Form ist nicht dargestellt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Rückwand ist konkav und mit mehreren Marmorsorten verkleidet (it.wikipedia)."
+    },
+    "chorgestuehl": {
+      "title": "Chorgestühl",
+      "description": "An der rechten Wand des Chors stehen Sitzbänke mit hoher Rückwand aus Nussholz, oben ein goldener Streifen; vor der Tür zur Sakristei bleibt eine Lücke.",
+      "tip": "Die Rückwand ist 4 hoch, die Sitze 1.",
+      "caution": "Chorgestühl aus Nussholz, der Werkstatt von Jacopo Sani zugeschrieben (it.wikipedia, Stufe B). Form und Lage im Modell sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Chorgestühl ist aus Nussholz (it.wikipedia)."
+    },
+    "susini_kruzifix": {
+      "title": "Bronzekruzifix von Susini",
+      "description": "Am hinteren Ende des Chors steht auf einem Steinsockel ein Bronzekreuz, 8 Blöcke hoch, mit einem Querbalken von 3 Blöcken.",
+      "tip": "Der Sockel ist einen Block hoch.",
+      "caution": "Bronzekruzifix von Francesco Susini, Geschenk von Don Lorenzo de’ Medici (it.wikipedia, Stufe A). Der Standort im Chor und die Form sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Susini goss die Figur in Bronze (it.wikipedia)."
+    },
+    "pendentifs_galletti": {
+      "title": "Allegorien in den Pendentifs",
+      "description": "Unter dem Tambour tragen die vier Ecken des Chors je ein Farbfeld in Blau, Rot, Grün oder Gelb mit goldenem Rand.",
+      "tip": "Nur die Decke der Ecken wird bemalt.",
+      "caution": "Allegorien in den Pendentifs vom Maler der Kuppel, Filippo Maria Galletti (it.wikipedia, Stufe A); Farben und Zuordnung sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Allegorien stehen in den Zwickeln unter der Kuppel (it.wikipedia)."
+    },
+    "kuppelfresko_galletti": {
+      "title": "Kuppelfresko",
+      "description": "Die Innenfläche der Chorkuppel ist bemalt: im Scheitel ein goldener Kreis, darum weiße und gelbe Wolken auf Hellblau, am Rand Heilige in Rot, Blau, Weiß und Orange.",
+      "tip": "Nur die innerste Schicht der Kuppel wird bemalt.",
+      "caution": "Fresko: Filippo Maria Galletti (it.wikipedia, Stufe A). Das Motiv ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kuppel wurde 1630 vollendet (it.wikipedia)."
+    },
+    "orgel_tronci": {
+      "title": "Orgel an der Gegenfassade",
+      "description": "Über dem Hauptportal, links und rechts der Rosette, hängt der Orgelprospekt: Pfeifen aus Ornamentmarmor und Eichenholz im Goldrahmen, je 3 Blöcke breit und 14 hoch.",
+      "tip": "Die Unterkante liegt bei Y 79.",
+      "caution": "Orgel an der Gegenfassade von Benedetto Tronci, 1820, mit einer Orgel des 17. Jahrhunderts von Antonio Colonna (it.wikipedia, Stufe A). Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Eine zweite Orgel, Mascioni Opus 457, steht im Chor in den beiden Serlianen (it.wikipedia)."
+    },
+    "weihwasserbecken": {
+      "title": "Weihwasserbecken",
+      "description": "Neben dem Hauptportal stehen links und rechts zwei Becken aus weißem Marmor, je einen Block hoch.",
+      "tip": "Die Becken stehen an der Gegenfassade.",
+      "caution": "Becken in Muschelform von Domenico Pieratti, von Engeln gehalten (en.wikipedia, Stufe B). Die Gestalt im Modell ist vereinfacht. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Becken sind Muscheln, die Engel halten (en.wikipedia)."
+    },
+    "kanzel": {
+      "title": "Kanzel",
+      "description": "An der linken Seite des Schiffs, zwischen der zweiten und dritten Kapelle, steht ein Pfeiler aus Pietra serena mit einem Kasten aus Eichenholz auf Lage 6.",
+      "tip": "Der Pfeiler steht an der Wand.",
+      "caution": "Hölzerne Kanzel zwischen der zweiten und dritten Kapelle links (it.wikipedia, Stufe A); Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Unter der Kanzel liegt das Grabmal der Familie Cardi (it.wikipedia)."
+    },
+    "sakristei_ausstattung": {
+      "title": "Sakristei",
+      "description": "In der Sakristei sind die Wände mit Schränken aus Eichenholz in Goldrahmen verkleidet; ein Lavabo aus weißem Marmor steht an der Wand. Im Gewölbe liegt ein Farbfeld aus Weiß, Hellblau und Gold.",
+      "tip": "Die Schränke liegen in der Wandlage.",
+      "caution": "Sakristei, erste Hälfte des 17. Jahrhunderts, große Holzschränke des 18. Jahrhunderts, Lavabo von Orazio Mochi 1611 nach Buontalenti, Deckenfresko von Pier Dandini (it.wikipedia, Stufe A). Form und Lage sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Marcellini gestaltete die Sakristei im späten 17. Jahrhundert neu (it.wikipedia)."
+    },
+    "kirchenbaenke": {
+      "title": "Kirchenbänke",
+      "description": "Im Schiff stehen Bänke aus Eichenholz in Paaren zu beiden Seiten des Mittelgangs, jede 1 Block hoch.",
+      "tip": "Der Mittelgang bleibt frei.",
+      "caution": "Die Bänke sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff ist einschiffig mit drei Kapellen je Seite (it.wikipedia)."
+    }
+  }
+}

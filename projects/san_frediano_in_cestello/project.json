@@ -1,0 +1,10 @@
+{
+  "id": "san_frediano_in_cestello",
+  "title": "Chiesa di San Frediano in Cestello",
+  "type": "wahrzeichen",
+  "gebaeude": ["w118416085"],
+  "bodenY": 58,
+  "rahmen": { "ox": -2020, "oz": 706.5, "thetaDeg": 107.2 },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

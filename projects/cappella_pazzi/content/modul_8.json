@@ -1,0 +1,71 @@
+{
+  "module": 8,
+  "title": "Cappella de’ Pazzi: Decken, Kuppel und Dach",
+  "subtitle": "Bautüte 8: Decken, Pendentifs, Tambour, Schirmkuppel, Laterne und Dächer",
+  "icon": "🕍",
+  "parts": {
+    "kap_decken": {
+      "title": "Flügeldecken",
+      "description": "Die zwei Flügel neben dem Mittelquadrat haben eine flache Decke auf Lage 13, darüber ist das Mauerwerk massiv.",
+      "tip": "Eine Lage Putz auf Lage 13.",
+      "caution": "Vereinfacht, nicht nach Vorbild: die Flügel sind in Wirklichkeit mit Tonnen überwölbt.",
+      "fact": "Die seitlichen Flügel sind je ein Fünftel der Würfelseite breit (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "portikus_decke": {
+      "title": "Portikusdecke und kleine Kuppel",
+      "description": "Die Decke des Portikus (Lage 14) hat Kassetten aus Pietra serena und Putz. Über dem mittleren Joch wölbt sich eine kleine Kuppel mit glasierter Terrakotta in Blau und Weiß.",
+      "tip": "Die Decke zuerst, dann die Kuppelschale.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Kuppel ist hier ein flacher Kugelabschnitt.",
+      "fact": "Der Portikus hat ein Kassetten-Tonnengewölbe mit einer kleinen Kuppel über dem Bogen; die glasierten Terrakotten sind von Luca della Robbia (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "scarsella_gewoelbe": {
+      "title": "Gewölbe der Scarsella",
+      "description": "Die Scarsella hat ein Tonnengewölbe (Radius 3, Scheitel auf Lage 11), innen als Sternenhimmel in Blau mit goldenen Sternen gemalt.",
+      "tip": "Zuerst die Gewölbeschale, die Sterne ersetzen einzelne Felder.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Gewölbe der Scarsella zeigt den Sternenhimmel über Florenz am 4. Juli 1442 (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_dach": {
+      "title": "Dächer und Füllmauerwerk",
+      "description": "Die Dächer der Flügel (Lage 17), des Portikus (Lage 18) und der Scarsella (Lage 14) aus Terrakottaziegeln; das Mauerwerk darunter ist massiv gefüllt, es gibt keinen Dachraum.",
+      "tip": "Von unten nach oben, die Ziegel zuletzt.",
+      "caution": "Nichts davon ist begehbar. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die oberen Teile des Portikus sind durch ein Ziegeldach geschützt (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_pendentifs": {
+      "title": "Pendentifs",
+      "description": "Über dem Mittelquadrat von 23 mal 23 Blöcken wachsen die Ecken ab Lage 12 aus einer Kugel durch die Würfelecken (Radius 16,3) heraus: vier Pendentifs, die oben (Lage 23) in einen Kreis von 11,5 Blöcken Radius übergehen.",
+      "tip": "Lage für Lage, die Innenfläche bleibt glatt.",
+      "caution": "Die Seiten des Quadrats bleiben bis Lage 23 offen (Bögen zu den Flügeln, zum Portikus und zur Scarsella). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Maße gehen vom Modul 20 Braccia (11,66 m) aus: Würfel mit Halbkugel (it.wikipedia, Cappella dei Pazzi); die Kuppel ruht auf Pendentifs."
+    },
+    "kap_wuerfeldach": {
+      "title": "Dach über den Würfelecken",
+      "description": "Eine Lage aus Ziegeln deckt die Ecken des Würfels auf Lage 24 ab, rings um den Tambour.",
+      "tip": "Eine Lage, nach den Pendentifs.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Quadrat trägt den niedrigen zylindrischen Tambour der Kuppel (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_tambour": {
+      "title": "Tambour mit zwölf Fenstern",
+      "description": "Der Tambour (Lage 24 bis 28, Wand zwei Blöcke dick, Innenradius 11,5) trägt zwölf Fenster aus farbigem Glas (3 mal 3 Blöcke) in gleichen Abständen.",
+      "tip": "Ring um Ring, die Fenster zuletzt aussparen.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kuppel ist in zwölf Segmente geteilt, jedes mit einem Okulus; auf dem Tambour steht das Datum 11. Oktober 1459 (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_kuppel": {
+      "title": "Schirmkuppel und Kegeldach",
+      "description": "Die Kuppelschale (Innenfläche flach gewölbt, Scheitel auf Lage 32) trägt zwölf Rippen aus Pietra serena auf weißem Putz; außen bedeckt sie ein Kegeldach aus Ziegeln, das bis zur Laterne ansteigt. Zwischen Schale und Kegel ist alles massiv gefüllt.",
+      "tip": "Ring um Ring von innen nach außen.",
+      "caution": "Vereinfacht, nicht nach Vorbild: die Höhe der Schale ist Stufe C, die Schale ist hier massiv statt doppelschalig.",
+      "fact": "Zwölf dünne erhabene Rippen entlasten die Kuppel; von außen deckt sie ein Kegel über dem niedrigen Tambour (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_laterne": {
+      "title": "Laterne",
+      "description": "Auf dem Kegel sitzt die Laterne: ein Ring aus Putz mit acht Glasfenstern, darüber eine Kappe aus Ziegeln und Gold, bis Lage 46 (die Spitze ist der höchste Punkt des Projekts). Innen öffnet sich die Kuppel in das Licht.",
+      "tip": "Ring, Fenster, Kappe, Gold.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Der Aufstieg zur Laterne ist nicht modelliert.",
+      "fact": "Das Licht fällt durch die Laterne und kleine Fenster im Tambour ein (it.wikipedia, Cappella dei Pazzi)."
+    }
+  }
+}

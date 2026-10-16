@@ -1,0 +1,36 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden und oberste Decke",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Drei Böden aus Holz und Terrakotta im Schachmuster auf Y 71, 79 und 86; ein Treppenloch für die Wendeltreppe.",
+      "tip": "Das Treppenloch bleibt frei.",
+      "caution": "Das Treppenloch bleibt auch in den oberen Geschossen offen.",
+      "fact": "Die Geschosshöhen (9, 8, 7, 6 Blöcke) sind Stufe C; die Summe von 30 folgt OSM."
+    },
+    "decke": {
+      "title": "Oberste Decke",
+      "description": "Die oberste Decke auf Y 92 schließt den Palast; darüber liegt das Dach.",
+      "tip": "Eine Lage Putz.",
+      "caution": "Die Decke gehört nicht zum Dach.",
+      "fact": "Zanobi Del Rosso war am Konvent 1745 bis 1749 beteiligt (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "innenwaende_og": {
+      "title": "Innenwände der Obergeschosse",
+      "description": "Der Ring um den großen Hof setzt sich in den Obergeschossen fort, mit Türen zur Galerie.",
+      "tip": "Erst der Boden, dann die Wand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Der Palast ist ein Konvent der Filippiner-Väter."
+    },
+    "trennwaende_og": {
+      "title": "Trennwände der Obergeschosse",
+      "description": "Auf den Geschossböden teilen die Trennwände die Obergeschosse in Räume; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Erst der Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Das Gericht bezog die Räume bis 2012 (Quelle: it.wikipedia, Complesso di San Firenze)."
+    }
+  }
+}

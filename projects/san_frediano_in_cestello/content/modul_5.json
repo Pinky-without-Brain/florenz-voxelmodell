@@ -1,0 +1,127 @@
+{
+  "module": 5,
+  "title": "Ausstattung der Kirche",
+  "subtitle": "Bautüte 5: Kapellen, Altarbilder, Hochaltar, Orgel, Kuppelfresko",
+  "icon": "🖼️",
+  "parts": {
+    "seitenaltaere": {
+      "title": "Kapellenaltäre",
+      "description": "In jeder der acht Kapellen steht an der Außenwand ein Altar aus weißem Marmor, 4 Blöcke breit und 2 hoch, mit einem goldenen Kreuz darauf und einer Kniebank aus Eichenholz davor.",
+      "tip": "Die Kniebank ist einen Block hoch.",
+      "caution": "Quelle: tiefe Seitenkapellen mit Altären (it.wikipedia, Stufe B); Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapellen sind mit Stuck und Fresken ausgestattet, einzelne tragen den Namen ihrer Werke (it.wikipedia)."
+    },
+    "maddalena_sagrestani": {
+      "title": "Kapelle der Maria Maddalena de’ Pazzi: Altarbild",
+      "description": "In der ersten Kapelle rechts füllt ein Farbfeld von 7 Blöcken Breite und 9 Höhe die Rückwand: ein goldgelber Grund mit weißer Wolke und einer Gestalt in Braun und Weiß, Goldrahmen rundum.",
+      "tip": "Die Unterkante liegt bei Y 62.",
+      "caution": "Bild: Giovanni Camillo Sagrestani, Estasi della Santa, 1702, erste Kapelle rechts (it.wikipedia, Stufe A). Farben und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Matteo Bonechi freskierte das Gewölbe dieser Kapelle (it.wikipedia)."
+    },
+    "maddalena_gewoelbe_bonechi": {
+      "title": "Gewölbefresko von Bonechi",
+      "description": "Das Gewölbe der ersten Kapelle rechts trägt ein Farbfeld aus Hellblau mit weißen Wolken und einer goldenen Mitte.",
+      "tip": "Nur die oberste Gewölbelage wird bemalt.",
+      "caution": "Fresko: Matteo Bonechi, Gewölbe der ersten Kapelle rechts (it.wikipedia, Stufe A); das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Bonechi malte auch die Tugenden in den Pendentifs der Kuppel (it.wikipedia)."
+    },
+    "gherardini_nativita": {
+      "title": "Dritte Kapelle rechts: Geburt der Jungfrau",
+      "description": "Die Rückwand der dritten Kapelle rechts trägt ein Farbfeld auf orangem Grund: eine liegende weiße Gestalt, daneben eine Figur in Rot, darüber ein goldener Heiligenschein.",
+      "tip": "Das Feld hat 7 mal 9 Blöcke.",
+      "caution": "Bild: Alessandro Gherardini, Natività della Vergine, 1694 (it.wikipedia, Stufe A). Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Gherardini malte auch die Fresken des Gewölbes dieser Kapelle (it.wikipedia)."
+    },
+    "gherardini_gewoelbe": {
+      "title": "Gewölbefresken von Gherardini",
+      "description": "Das Gewölbe der dritten Kapelle rechts ist in Blau mit weißen Wolkenflecken bemalt.",
+      "tip": "Nur die oberste Gewölbelage wird bemalt.",
+      "caution": "Fresken: Alessandro Gherardini, dritte Kapelle rechts (it.wikipedia, Stufe A); das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Altarbild derselben Kapelle ist die Natività della Vergine von 1694 (it.wikipedia)."
+    },
+    "franchi_taufe": {
+      "title": "Zweite Kapelle links: Taufe Christi",
+      "description": "In der zweiten Kapelle links zeigt ein Farbfeld auf hellblauem Grund eine Gestalt in Braun und Weiß neben blauem Wasser; unten grüner Boden.",
+      "tip": "Das Feld hat 7 mal 9 Blöcke.",
+      "caution": "Bild: Antonio Franchi, Battesimo di Cristo, 1706; Fresken derselben Kapelle von Franchi (it.wikipedia, Stufe A). Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle ist Johannes dem Täufer geweiht (it.wikipedia)."
+    },
+    "bernardo_dandini": {
+      "title": "Dritte Kapelle links: San Bernardo",
+      "description": "Die Trennwände der Kapelle tragen Farbfelder mit Szenen aus dem Leben des heiligen Bernhard, 5 Blöcke breit und 7 hoch, in Weiß, Braun und Schwarz vor Hellblau. Auf dem Altar steht die Holzmadonna: ein goldener Sockel, ein blauer Körper mit orangem Kopf.",
+      "tip": "Die Madonna ist nur 4 Blöcke hoch.",
+      "caution": "Fresken: Pier Dandini, 1688 bis 1689; Madonna lignea mit Kind, 13. bis 14. Jahrhundert, „Madonna del sorriso“ (it.wikipedia, en.wikipedia: um 1350, Nachfolger Nino Pisanos; Stufe A). Das Datum der Madonna ist uneinheitlich. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Bernhard von Clairvaux gründete die Zisterzienser; Dandini malte die Fresken (en.wikipedia)."
+    },
+    "anastasio_ciabilli": {
+      "title": "Letzte Kapelle links: Sant’Anastasio",
+      "description": "Die Rückwand der Kapelle trägt ein Farbfeld auf gelbem Grund mit einer Gestalt in Rot und Weiß.",
+      "tip": "Das Feld hat 7 mal 9 Blöcke.",
+      "caution": "Ausstattung der Kapelle: Giovanni Ciabilli (it.wikipedia, Stufe B); Werke und Motive nennt die Quelle nicht, das Bild ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle ist die letzte links (it.wikipedia)."
+    },
+    "curradi_madonna": {
+      "title": "Rechtes Querhaus: Madonna in Gloria",
+      "description": "Die Stirnwand des rechten Querhausarms trägt ein Farbfeld von 12 Blöcken Breite und 10 Höhe: eine Gruppe von Gestalten in Blau, Rot und Weiß vor Hellblau.",
+      "tip": "Die Unterkante liegt bei Y 62.",
+      "caution": "Bild: Francesco Curradi, Madonna in gloria e santi, 17. Jahrhundert, rechtes Querhaus (it.wikipedia, Stufe A). Das Motiv ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild hängt im rechten Querhaus (it.wikipedia)."
+    },
+    "sellaio_kreuzigung": {
+      "title": "Linkes Querhaus: Kreuzigung",
+      "description": "Die Stirnwand des linken Querhausarms trägt ein Farbfeld von 12 Blöcken Breite und 10 Höhe mit drei Kreuzen vor Hellblau und Gestalten an ihrem Fuß.",
+      "tip": "Die Unterkante liegt bei Y 62.",
+      "caution": "Bild: Jacopo del Sellaio, Crocifissione con i santi e il Martirio di San Lorenzo, spätes 15. Jahrhundert, aus der Vorgängerkirche (it.wikipedia, en.wikipedia; Stufe A). Das Martyrium im Bild ist nicht dargestellt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das große Altarbild wurde aus der alten Kirche übernommen (it.wikipedia)."
+    },
+    "hochaltar_piamontini": {
+      "title": "Hochaltar mit Paliotto",
+      "description": "Im Presbyterium steht der Hochaltar: eine Stufe aus Ornamentmarmor, der Altartisch aus Weiß, davor ein Paliotto aus Marmorintarsien (Rot, Grün, Ornament), dahinter ein goldenes Tabernakel mit weißer Bekrönung und zwei Leuchter.",
+      "tip": "Der Altartisch ist 2 Blöcke hoch, das Tabernakel 6.",
+      "caution": "Hochaltar des 18. Jahrhunderts, Paliotto aus Marmorintarsien von Giuseppe Piamontini, 1717 (it.wikipedia, Stufe A). Muster und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Paliotto ist mit Marmor eingelegt (it.wikipedia)."
+    },
+    "chorgestuehl": {
+      "title": "Chorgestühl",
+      "description": "An den Wänden des Chors stehen Sitzbänke mit hoher Rückwand aus Eichenholz, oben ein goldener Streifen.",
+      "tip": "Die Rückwand ist 4 hoch, die Sitze 1.",
+      "caution": "Das Chorgestühl ist erfunden (Stufe C); die Quellen nennen keines. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Presbyterium und der Chor liegen hinter der Vierung."
+    },
+    "orgel_tronci": {
+      "title": "Orgel",
+      "description": "Über einem Pfeiler der rechten Kapellenlinie hängt der Orgelprospekt: Pfeifen aus Ornamentmarmor und Eichenholz im Goldrahmen, 4 Blöcke breit und 9 hoch.",
+      "tip": "Der Prospekt sitzt über den Kapellenbögen.",
+      "caution": "Barockes Gehäuse mit Schnitzereien und Vergoldung von Antonio und Filippo Tronci, 1768 für die Pieve di Santo Stefano in Campi Bisenzio, seit 1818 hier (it.wikipedia, Stufe A). Der Aufstellungsort in der Kirche ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Orgel kam 1818 aus Campi Bisenzio in die Kirche (it.wikipedia)."
+    },
+    "pendentifs_tugenden": {
+      "title": "Tugenden in den Pendentifs",
+      "description": "Unter dem Tambour tragen die vier Ecken der Vierung je ein Farbfeld: eine Gestalt in Blau, Rot, Grün oder Gelb in goldenem Rund, umgeben von Weiß.",
+      "tip": "Nur die Decke der Ecken wird bemalt.",
+      "caution": "Fresken: Matteo Bonechi, die Tugenden in den Pendentifs (it.wikipedia, Stufe A). Farben und Zuordnung sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Bonechi malte auch das Gewölbe der ersten Kapelle rechts (it.wikipedia)."
+    },
+    "kuppelfresko_gabbiani": {
+      "title": "Kuppelfresko",
+      "description": "Die Innenfläche der Kuppel ist bemalt: im Scheitel ein goldener Kreis, darum weiße und gelbe Wolken auf Hellblau, am Rand Strahlen und Heilige in Rot, Blau, Weiß und Orange.",
+      "tip": "Nur die innerste Schicht der Kuppel wird bemalt.",
+      "caution": "Fresko: Antonio Domenico Gabbiani, Gloria di Santa Maria Maddalena de’ Pazzi, 1702 bis 1718 (it.wikipedia, en.wikipedia; Stufe A). Das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Gabbiani malte das Fresko in sechzehn Jahren (it.wikipedia: 1702 bis 1718)."
+    },
+    "kirchenbaenke": {
+      "title": "Kirchenbänke",
+      "description": "Im Schiff stehen Bänke aus Eichenholz in Paaren zu beiden Seiten des Mittelgangs, jede 1 Block hoch.",
+      "tip": "Der Mittelgang bleibt 5 Blöcke breit frei.",
+      "caution": "Die Bänke sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff ist einschiffig (it.wikipedia)."
+    },
+    "nebenraeume": {
+      "title": "Nebenräume",
+      "description": "In den beiden Nebenräumen am Presbyterium steht je ein niedriger Tisch aus Eichenholz.",
+      "tip": "Beide Tische sind 1 Block hoch.",
+      "caution": "Zweck und Einrichtung der Räume sind nicht belegt (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "OSM kennt an dieser Stelle Teilflächen hinter dem Chor (OpenStreetMap, building:part)."
+    }
+  }
+}

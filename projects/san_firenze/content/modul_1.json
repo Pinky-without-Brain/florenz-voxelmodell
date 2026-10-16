@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den Palast bis Y 92 und trennt ihn von der Kirche im Nordosten und vom Oratorium im Süden: verputzt in Sandfarbe, die Fassade zur Piazza San Firenze mit Sockel aus Pietra forte. Gesimse aus Pietra serena trennen die Geschosse (Y 71, 79, 86). Zwei Portale führen hinein: eins zur Piazza San Firenze, eins zum Borgo de' Greci.",
+      "tip": "Zwei Blöcke dick: außen Putz, innen Putz.",
+      "caution": "Lass die Portale frei. Wo die Kirche oder das Oratorium anliegt, gibt es keine Fenster.",
+      "fact": "Die drei Baukörper stehen nebeneinander an der Piazza San Firenze: links die Kirche, in der Mitte der Palast, rechts das Oratorium (Quelle: it.wikipedia, Complesso di San Firenze)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Die Fenster sitzen in einem festen Raster von neun Blöcken: im Erdgeschoss hoch über der Straße (Y 65 bis 69), in den Obergeschossen höher und kleiner.",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen. Das Raster ist Stufe C.",
+      "fact": "Der Palast hat nach OSM vier Geschosse (building:levels=4, 30 Blöcke)."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Pietra serena die Fassade ab (Y 91 bis 92).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Inschriften an der Fassade und den nahen Mauern sind 1622, 1643 und 1775 datiert (Quelle: it.wikipedia, Complesso di San Firenze)."
+    }
+  }
+}

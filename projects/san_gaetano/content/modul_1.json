@@ -1,0 +1,85 @@
+{
+  "module": 1,
+  "title": "Fassade, Wände und Arkaden",
+  "subtitle": "Bautüte 1: Pietra-forte-Fassade, Außenwände, Kapellenbögen, Querhaus, Triumphbogen",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Fassade zur Piazza degli Antinori",
+      "description": "Die Fassade steht 31 Blöcke breit an der Schmalseite des Umrisses. Der Mittelteil über dem Schiff reicht in zwei Ordnungen mit Gebälk bei Lage 15 und 29 bis zu einem Giebel auf Lage 41 (Y 105); die Seitenteile über den Kapellen enden bei Lage 22. Außen liegt Pietra forte, gegliedert durch Pilasterpaare aus Pietra serena. Drei Portale mit Dreiecksgiebeln öffnen sich zur Piazza: in der Mitte 7 Blöcke breit und 12 hoch, seitlich je 4 breit und 9 hoch.",
+      "tip": "Zuerst Sockel und Pilaster, dann die Gebälke und zuletzt die Giebel über den Portalen.",
+      "caution": "Lass die drei Portale bis zum Boden offen. Zahl der Portale, Pietra forte, zwei Ordnungen und Pilaster sind belegt (Stufe A); die Maße der Ordnungen sind erfunden (Stufe C). Statuen, Putten, Urnen und Wappen der Fassade sind nicht dargestellt. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Fassade aus Pietra forte entwarf Gherardo Silvani; sie hat zwei Ordnungen mit Doppelpilastern und drei Portale mit Dreiecksgiebeln, geschmückt mit Marmorstatuen (it.wikipedia)."
+    },
+    "fassade_fenster": {
+      "title": "Rosette",
+      "description": "Im Mittelteil der Fassade sitzt auf Lage 24 eine Rosette von 6 Blöcken Durchmesser: ein goldener Ring um eine verglaste Fläche.",
+      "tip": "Zuerst den Goldring, dann das Glas.",
+      "caution": "Die Rosette mit dem Medici-Wappen und den Putten von Carlo Marcellini ist belegt (Stufe A); Maße und Lage sind erfunden, Wappen und Putten fehlen. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Rosettenfenster trägt das Wappen der Medici, gehalten von Putten von Carlo Marcellini um 1688 (it.wikipedia)."
+    },
+    "seitenwaende": {
+      "title": "Außenwände und Nebenräume",
+      "description": "Die Außenwände sind 2 Blöcke dick, außen heller Sand, innen Putz, unten und oben mit einem Band aus Pietra serena. Dazu gehören die Wände von Sakristei, Nebenraum und Apsis und die Wandbänder dazwischen; in ihnen liegt je eine Tür, 4 Blöcke breit und 6 hoch.",
+      "tip": "Die Wandstärke bleibt überall 2.",
+      "caution": "Lass die Türen frei. Der Umriss besteht aus dem Langhaus, dem breiten Querhaus und einem breiten hinteren Block; die Aufteilung des hinteren Blocks in Chor, Apsis, Sakristei und Nebenraum ist Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Sakristei betritt man von der rechten Wand des Chors (it.wikipedia)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In den Außenwänden der Kapellen, der Querhausarme, des Chors, der Apsis und der Nebenräume sitzen verglaste Rundbogenfenster, in den Kapellen 3 Blöcke breit.",
+      "tip": "Die Fenster liegen mittig in den Jochen.",
+      "caution": "Zahl und Form der Fenster sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Große Rundbogenfenster belichten das Obergeschoss des Schiffs (it.wikipedia)."
+    },
+    "seitenmassen": {
+      "title": "Mauermassen",
+      "description": "Hinter dem Chor und der Apsis sowie neben dem Langhaus bleibt der Rest des Umrisses massives Mauerwerk bis unter das Dach.",
+      "tip": "Voll mauern, ohne Hohlräume.",
+      "caution": "Die massive Füllung ist eine Vereinfachung; leere Kammern ohne Zugang sind im Modell nicht erlaubt, und die Quellen beschreiben die Räume hinter der Apsis nicht (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "OSM fasst die Kirche und die angrenzenden Räume in einem Umriss zusammen (OpenStreetMap, w234429578)."
+    },
+    "arkaden": {
+      "title": "Kapellenbögen",
+      "description": "Die Wandbänder zwischen Schiff und Kapellen sind 2 Blöcke dick. In jedem der drei Joche je Seite öffnet sich ein Rundbogen von 5 Blöcken Breite und 8 Höhe, gerahmt von Pietra serena; dazwischen stehen Pfeiler.",
+      "tip": "Die Bögen sind die Zugänge in die Kapellen.",
+      "caution": "Drei Kapellen je Seite sind belegt (Stufe A); die Maße der Bögen sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kirche hat drei Seitenkapellen auf jeder Seite, die durch Durchgänge verbunden sind (it.wikipedia)."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Bögen steigt das Wandband bis zum Dachansatz. Es trägt das Tonnengewölbe und ist mit Putz überzogen.",
+      "tip": "Die Wand steigt über den Pfeilern bis Y 97.",
+      "caution": "Die Höhe ist erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Schiff hat ein Tonnengewölbe mit Stichkappen, durch Gurtbögen gegliedert (it.wikipedia)."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "In jedem Joch sitzt über dem Kapellenbogen ein verglastes Rundbogenfenster von 3 Blöcken Breite im Wandband.",
+      "tip": "Die Fenster liegen über der Achse der Kapelle.",
+      "caution": "Form und Zahl sind erfunden; belegt sind große Rundbogenfenster im oberen Schiff (Stufe B). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Große Rundbogenfenster erhellen das obere Schiff (it.wikipedia)."
+    },
+    "querhausbogen": {
+      "title": "Querhausbögen",
+      "description": "Zur Vierung hin öffnen sich die beiden Querhausarme in weiten Rundbögen von 21 Blöcken Breite und gut 20 Höhe, gerahmt von Pietra serena.",
+      "tip": "Beide Bögen sind gleich gebaut.",
+      "caution": "Maße sind Stufe C; belegt ist ein Querhaus mit je einer Kapelle in den Armen (Stufe A). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Im rechten Arm liegt die Cappella della Natività, im linken die Cappella della Croce (it.wikipedia)."
+    },
+    "triumphbogen": {
+      "title": "Rückwand des Querhauses und Triumphbogen",
+      "description": "Die Rückwand des Querhauses (2 Blöcke) öffnet sich in einem Bogen von 17 Blöcken Breite zum Chor. Zwischen Chor und Apsis steht eine zweite Wand mit einem Triumphbogen von 15 Blöcken Breite.",
+      "tip": "Beide Bögen reichen bis zum Boden.",
+      "caution": "Der Triumphbogen vor der Apsis ist belegt (Stufe A), die Maße sind erfunden (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Apsis ist durch einen Triumphbogen vom Chor getrennt und mit einer kleinen Kuppel gedeckt (it.wikipedia)."
+    },
+    "kapellen_trennwaende": {
+      "title": "Trennwände der Kapellen",
+      "description": "Zwischen den Kapellen stehen Trennwände von 2 Blöcken Dicke, die bis zum Dach reichen. In jeder Wand liegt ein Durchgang, 4 Blöcke breit und 5 hoch.",
+      "tip": "Die Durchgänge liegen mittig in der Tiefe der Kapelle.",
+      "caution": "Lage der Joche und Maße der Durchgänge sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapellen stehen durch Durchgänge miteinander in Verbindung (it.wikipedia)."
+    }
+  }
+}

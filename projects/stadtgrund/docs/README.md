@@ -4,7 +4,7 @@
 
 *Projekt `stadtgrund`, Art: stadtgrund*
 
-**Statistik (generiert):** 15.894.628 Blöcke in 9.699 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 15.895.372 Blöcke in 9.700 Bauschritten, 195 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -76,8 +76,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 64 | Kachel 4/4 – Via Palazzuolo | 36.095 | 24 | [BAUANLEITUNG_MODUL_64.md](BAUANLEITUNG_MODUL_64.md) |
 | 65 | Kachel 5/4 – Piazza Santa Maria Novella | 54.181 | 32 | [BAUANLEITUNG_MODUL_65.md](BAUANLEITUNG_MODUL_65.md) |
 | 66 | Kachel 6/4 – Piazza Santa Maria Novella | 44.746 | 28 | [BAUANLEITUNG_MODUL_66.md](BAUANLEITUNG_MODUL_66.md) |
-| 67 | Kachel 7/4 – Piazza di Santa Maria Maggiore | 36.646 | 24 | [BAUANLEITUNG_MODUL_67.md](BAUANLEITUNG_MODUL_67.md) |
-| 68 | Kachel 8/4 – Piazza San Giovanni | 49.643 | 29 | [BAUANLEITUNG_MODUL_68.md](BAUANLEITUNG_MODUL_68.md) |
+| 67 | Kachel 7/4 – Piazza di Santa Maria Maggiore | 37.346 | 25 | [BAUANLEITUNG_MODUL_67.md](BAUANLEITUNG_MODUL_67.md) |
+| 68 | Kachel 8/4 – Piazza San Giovanni | 50.991 | 31 | [BAUANLEITUNG_MODUL_68.md](BAUANLEITUNG_MODUL_68.md) |
 | 69 | Kachel 9/4 – Piazza del Duomo | 43.302 | 26 | [BAUANLEITUNG_MODUL_69.md](BAUANLEITUNG_MODUL_69.md) |
 | 70 | Kachel 10/4 – Piazza del Duomo | 34.744 | 21 | [BAUANLEITUNG_MODUL_70.md](BAUANLEITUNG_MODUL_70.md) |
 | 71 | Kachel 11/4 – Via della Pergola | 36.466 | 24 | [BAUANLEITUNG_MODUL_71.md](BAUANLEITUNG_MODUL_71.md) |
@@ -90,26 +90,26 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 78 | Kachel 3/5 – Piazza d'Ognissanti | 184.956 | 105 | [BAUANLEITUNG_MODUL_78.md](BAUANLEITUNG_MODUL_78.md) |
 | 79 | Kachel 4/5 – Piazza d'Ognissanti | 52.781 | 38 | [BAUANLEITUNG_MODUL_79.md](BAUANLEITUNG_MODUL_79.md) |
 | 80 | Kachel 5/5 – Piazza degli Ottaviani | 30.151 | 21 | [BAUANLEITUNG_MODUL_80.md](BAUANLEITUNG_MODUL_80.md) |
-| 81 | Kachel 6/5 – Via del Moro | 34.299 | 22 | [BAUANLEITUNG_MODUL_81.md](BAUANLEITUNG_MODUL_81.md) |
-| 82 | Kachel 7/5 – palazzo_strozzi | 34.146 | 20 | [BAUANLEITUNG_MODUL_82.md](BAUANLEITUNG_MODUL_82.md) |
+| 81 | Kachel 6/5 – Via del Moro | 34.384 | 22 | [BAUANLEITUNG_MODUL_81.md](BAUANLEITUNG_MODUL_81.md) |
+| 82 | Kachel 7/5 – palazzo_strozzi | 35.061 | 21 | [BAUANLEITUNG_MODUL_82.md](BAUANLEITUNG_MODUL_82.md) |
 | 83 | Kachel 8/5 – Piazza della Repubblica | 56.998 | 34 | [BAUANLEITUNG_MODUL_83.md](BAUANLEITUNG_MODUL_83.md) |
 | 84 | Kachel 9/5 – Piazza del Duomo | 27.113 | 18 | [BAUANLEITUNG_MODUL_84.md](BAUANLEITUNG_MODUL_84.md) |
 | 85 | Kachel 10/5 – Piazza del Duomo | 31.048 | 23 | [BAUANLEITUNG_MODUL_85.md](BAUANLEITUNG_MODUL_85.md) |
 | 86 | Kachel 11/5 – Piazzetta Piero Calamandrei | 34.751 | 24 | [BAUANLEITUNG_MODUL_86.md](BAUANLEITUNG_MODUL_86.md) |
 | 87 | Kachel 12/5 – Via Fiesolana | 40.377 | 28 | [BAUANLEITUNG_MODUL_87.md](BAUANLEITUNG_MODUL_87.md) |
-| 88 | Kachel 13/5 – Piazza dei Ciompi | 44.863 | 28 | [BAUANLEITUNG_MODUL_88.md](BAUANLEITUNG_MODUL_88.md) |
+| 88 | Kachel 13/5 – Piazza dei Ciompi | 46.919 | 31 | [BAUANLEITUNG_MODUL_88.md](BAUANLEITUNG_MODUL_88.md) |
 | 89 | Kachel 14/5 – Via dei Pilastri | 52.312 | 33 | [BAUANLEITUNG_MODUL_89.md](BAUANLEITUNG_MODUL_89.md) |
 | 90 | Kachel 0/6 – Via Pisana | 64.778 | 46 | [BAUANLEITUNG_MODUL_90.md](BAUANLEITUNG_MODUL_90.md) |
 | 91 | Kachel 1/6 – Piazza di Verzaia | 77.306 | 53 | [BAUANLEITUNG_MODUL_91.md](BAUANLEITUNG_MODUL_91.md) |
 | 92 | Kachel 2/6 – Piazza del Tiratoio | 69.658 | 46 | [BAUANLEITUNG_MODUL_92.md](BAUANLEITUNG_MODUL_92.md) |
-| 93 | Kachel 3/6 – Piazza di Cestello | 206.154 | 117 | [BAUANLEITUNG_MODUL_93.md](BAUANLEITUNG_MODUL_93.md) |
+| 93 | Kachel 3/6 – Piazza di Cestello | 205.975 | 117 | [BAUANLEITUNG_MODUL_93.md](BAUANLEITUNG_MODUL_93.md) |
 | 94 | Kachel 4/6 – ponte_alla_carraia | 271.233 | 138 | [BAUANLEITUNG_MODUL_94.md](BAUANLEITUNG_MODUL_94.md) |
 | 95 | Kachel 5/6 – Piazza Carlo Goldoni | 141.050 | 79 | [BAUANLEITUNG_MODUL_95.md](BAUANLEITUNG_MODUL_95.md) |
 | 96 | Kachel 6/6 – Piazza dei Rucellai | 34.160 | 23 | [BAUANLEITUNG_MODUL_96.md](BAUANLEITUNG_MODUL_96.md) |
 | 97 | Kachel 7/6 – Piazza dei Davanzati | 29.731 | 19 | [BAUANLEITUNG_MODUL_97.md](BAUANLEITUNG_MODUL_97.md) |
 | 98 | Kachel 8/6 – Piazza della Repubblica | 49.170 | 30 | [BAUANLEITUNG_MODUL_98.md](BAUANLEITUNG_MODUL_98.md) |
 | 99 | Kachel 9/6 – Piazza della Signoria | 35.530 | 25 | [BAUANLEITUNG_MODUL_99.md](BAUANLEITUNG_MODUL_99.md) |
-| 100 | Kachel 10/6 – badia_fiorentina | 39.037 | 25 | [BAUANLEITUNG_MODUL_100.md](BAUANLEITUNG_MODUL_100.md) |
+| 100 | Kachel 10/6 – badia_fiorentina | 39.156 | 24 | [BAUANLEITUNG_MODUL_100.md](BAUANLEITUNG_MODUL_100.md) |
 | 101 | Kachel 11/6 – Via Ghibellina | 31.527 | 23 | [BAUANLEITUNG_MODUL_101.md](BAUANLEITUNG_MODUL_101.md) |
 | 102 | Kachel 12/6 – Via Ghibellina | 38.088 | 26 | [BAUANLEITUNG_MODUL_102.md](BAUANLEITUNG_MODUL_102.md) |
 | 103 | Kachel 13/6 – Piazza dei Ciompi | 52.813 | 34 | [BAUANLEITUNG_MODUL_103.md](BAUANLEITUNG_MODUL_103.md) |
@@ -117,16 +117,16 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 105 | Kachel 0/7 – Via Francesco Berni | 85.743 | 51 | [BAUANLEITUNG_MODUL_105.md](BAUANLEITUNG_MODUL_105.md) |
 | 106 | Kachel 1/7 – Viale Ludovico Ariosto | 57.306 | 38 | [BAUANLEITUNG_MODUL_106.md](BAUANLEITUNG_MODUL_106.md) |
 | 107 | Kachel 2/7 – Piazza dei Nerli | 53.418 | 37 | [BAUANLEITUNG_MODUL_107.md](BAUANLEITUNG_MODUL_107.md) |
-| 108 | Kachel 3/7 – Piazza del Carmine | 54.613 | 35 | [BAUANLEITUNG_MODUL_108.md](BAUANLEITUNG_MODUL_108.md) |
+| 108 | Kachel 3/7 – Piazza del Carmine | 56.348 | 35 | [BAUANLEITUNG_MODUL_108.md](BAUANLEITUNG_MODUL_108.md) |
 | 109 | Kachel 4/7 – Piazza Nazario Sauro | 56.151 | 38 | [BAUANLEITUNG_MODUL_109.md](BAUANLEITUNG_MODUL_109.md) |
 | 110 | Kachel 5/7 – Lungarno Guicciardini | 158.769 | 85 | [BAUANLEITUNG_MODUL_110.md](BAUANLEITUNG_MODUL_110.md) |
 | 111 | Kachel 6/7 – ponte_santa_trinita | 222.003 | 116 | [BAUANLEITUNG_MODUL_111.md](BAUANLEITUNG_MODUL_111.md) |
-| 112 | Kachel 7/7 – Lungarno degli Acciaioli | 112.500 | 63 | [BAUANLEITUNG_MODUL_112.md](BAUANLEITUNG_MODUL_112.md) |
-| 113 | Kachel 8/7 – Piazza della Signoria | 38.609 | 26 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
+| 112 | Kachel 7/7 – santi_apostoli | 112.665 | 64 | [BAUANLEITUNG_MODUL_112.md](BAUANLEITUNG_MODUL_112.md) |
+| 113 | Kachel 8/7 – Piazza della Signoria | 38.939 | 26 | [BAUANLEITUNG_MODUL_113.md](BAUANLEITUNG_MODUL_113.md) |
 | 114 | Kachel 9/7 – Piazza della Signoria | 48.312 | 32 | [BAUANLEITUNG_MODUL_114.md](BAUANLEITUNG_MODUL_114.md) |
-| 115 | Kachel 10/7 – Via dei Neri | 30.277 | 21 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
+| 115 | Kachel 10/7 – san_firenze | 29.157 | 19 | [BAUANLEITUNG_MODUL_115.md](BAUANLEITUNG_MODUL_115.md) |
 | 116 | Kachel 11/7 – Piazza di Santa Croce | 41.786 | 24 | [BAUANLEITUNG_MODUL_116.md](BAUANLEITUNG_MODUL_116.md) |
-| 117 | Kachel 12/7 – Largo San Francesco d'Assisi | 46.104 | 30 | [BAUANLEITUNG_MODUL_117.md](BAUANLEITUNG_MODUL_117.md) |
+| 117 | Kachel 12/7 – Largo San Francesco d'Assisi | 46.102 | 30 | [BAUANLEITUNG_MODUL_117.md](BAUANLEITUNG_MODUL_117.md) |
 | 118 | Kachel 13/7 – Borgo Allegri | 38.769 | 25 | [BAUANLEITUNG_MODUL_118.md](BAUANLEITUNG_MODUL_118.md) |
 | 119 | Kachel 14/7 – Via Ghibellina | 44.377 | 29 | [BAUANLEITUNG_MODUL_119.md](BAUANLEITUNG_MODUL_119.md) |
 | 120 | Kachel 0/8 – Via Domenico Burchiello | 83.161 | 49 | [BAUANLEITUNG_MODUL_120.md](BAUANLEITUNG_MODUL_120.md) |
@@ -141,8 +141,8 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 129 | Kachel 9/8 – Piazza dei Giudici | 126.829 | 74 | [BAUANLEITUNG_MODUL_129.md](BAUANLEITUNG_MODUL_129.md) |
 | 130 | Kachel 10/8 – Piazza Mentana | 59.968 | 41 | [BAUANLEITUNG_MODUL_130.md](BAUANLEITUNG_MODUL_130.md) |
 | 131 | Kachel 11/8 – Corso dei Tintori | 35.754 | 24 | [BAUANLEITUNG_MODUL_131.md](BAUANLEITUNG_MODUL_131.md) |
-| 132 | Kachel 12/8 – Via Antonio Magliabechi | 40.678 | 27 | [BAUANLEITUNG_MODUL_132.md](BAUANLEITUNG_MODUL_132.md) |
-| 133 | Kachel 13/8 – Via delle Casine | 78.712 | 46 | [BAUANLEITUNG_MODUL_133.md](BAUANLEITUNG_MODUL_133.md) |
+| 132 | Kachel 12/8 – cappella_pazzi | 34.859 | 23 | [BAUANLEITUNG_MODUL_132.md](BAUANLEITUNG_MODUL_132.md) |
+| 133 | Kachel 13/8 – Via delle Casine | 79.123 | 46 | [BAUANLEITUNG_MODUL_133.md](BAUANLEITUNG_MODUL_133.md) |
 | 134 | Kachel 14/8 – Via delle Casine | 57.008 | 35 | [BAUANLEITUNG_MODUL_134.md](BAUANLEITUNG_MODUL_134.md) |
 | 135 | Kachel 0/9 – Via San Francesco di Paola | 91.319 | 58 | [BAUANLEITUNG_MODUL_135.md](BAUANLEITUNG_MODUL_135.md) |
 | 136 | Kachel 1/9 – Via dei Villani | 91.675 | 60 | [BAUANLEITUNG_MODUL_136.md](BAUANLEITUNG_MODUL_136.md) |
@@ -204,30 +204,30 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 | 192 | Kachel 12/12 – Viale Galileo | 117.785 | 72 | [BAUANLEITUNG_MODUL_192.md](BAUANLEITUNG_MODUL_192.md) |
 | 193 | Kachel 13/12 – Via del Monte alle Croci | 124.575 | 80 | [BAUANLEITUNG_MODUL_193.md](BAUANLEITUNG_MODUL_193.md) |
 | 194 | Kachel 14/12 – Viale Michelangiolo | 108.348 | 77 | [BAUANLEITUNG_MODUL_194.md](BAUANLEITUNG_MODUL_194.md) |
-| | **Summe** | **15.894.628** | **9.699** | |
+| | **Summe** | **15.895.372** | **9.700** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Grasblock | `grass_block` | 4.604.088 | 29,0 % |
-| Polierter Tuffstein | `polished_tuff` | 4.377.982 | 27,5 % |
+| Grasblock | `grass_block` | 4.601.479 | 28,9 % |
+| Polierter Tuffstein | `polished_tuff` | 4.375.009 | 27,5 % |
 | Wasser | `water` | 2.138.530 | 13,5 % |
-| Stein | `stone` | 2.119.753 | 13,3 % |
-| Kies | `gravel` | 1.358.225 | 8,5 % |
-| Glatter Stein | `smooth_stone` | 739.872 | 4,7 % |
+| Stein | `stone` | 2.127.606 | 13,4 % |
+| Kies | `gravel` | 1.357.877 | 8,5 % |
+| Glatter Stein | `smooth_stone` | 738.269 | 4,6 % |
 | Tuffstein | `tuff` | 236.931 | 1,5 % |
 | Polierter Andesit | `polished_andesite` | 219.593 | 1,4 % |
 | Steinziegel | `stone_bricks` | 57.937 | 0,4 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.683 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.557 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.398 | 0,1 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.372 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 1.399 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1.074 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 724 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 10.778 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 10.594 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8.616 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 7.438 | 0,0 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 1.391 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 1.069 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 735 | 0,0 % |
 | Glatter Quarzblock | `smooth_quartz` | 490 | 0,0 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 388 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 398 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Norden | `polished_andesite_stairs@n` | 254 | 0,0 % |
 | Treppe aus poliertem Andesit, Aufstieg nach Osten | `polished_andesite_stairs@o` | 199 | 0,0 % |
 | Geschnittener Kupferblock | `cut_copper` | 144 | 0,0 % |
@@ -238,6 +238,6 @@ Ausdehnung des Modells: X -3104 bis 1695, Y 32 bis 209, Z -1488 bis 2671.
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 37.010 |
-| Steintreppe | `stone_stairs` | 3.585 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 37.426 |
+| Steintreppe | `stone_stairs` | 3.593 |
 | Treppe aus poliertem Andesit | `polished_andesite_stairs` | 488 |

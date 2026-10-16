@@ -1,0 +1,64 @@
+{
+  "module": 6,
+  "title": "Kirche San Filippo Neri",
+  "subtitle": "Bautüte 6: Rohbau der Kirche",
+  "icon": "⛪",
+  "parts": {
+    "k_fundament": {
+      "title": "Fundament der Kirche",
+      "description": "Bruchstein unter dem Boden der Kirche, wo das Gelände tiefer liegt als Y 61.",
+      "tip": "Spaltenweise auffüllen.",
+      "caution": "Wo das Gelände Y 61 erreicht, bleibt die Spalte leer.",
+      "fact": "Der Bau begann 1640; Pier Francesco Silvani übernahm 1667 den Entwurf (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_boden": {
+      "title": "Boden der Kirche",
+      "description": "Auf Y 62 liegen im Mittelschiff, Presbyterium und Apsis Schachfelder aus Pietra serena und Marmor, in den Kapellen Terrakotta und in der Sakramentskapelle ein Muster aus Rot, Weiß und Gold.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt Bautüte 8. Das Muster ist Stufe C.",
+      "fact": "Die Kirche ist einschiffig angelegt; die Zahl der Kapellen ist Stufe C."
+    },
+    "k_fassade": {
+      "title": "Fassade",
+      "description": "Die Fassade aus Pietra forte zur Piazza San Firenze mit zwei Ordnungen von Pilastern, dem Portal (7 breit), zwei Statuen daneben, einem Gesims in Höhe 15/16 und einem Giebel mit dem Wappen der Serragli zwischen zwei Engeln (bis Y 95).",
+      "tip": "Pilaster und Gesims zuerst, dann Portal und Giebel.",
+      "caution": "Lass das Portal frei.",
+      "fact": "Ferdinando Ruggieri baute die Fassade aus Pietra forte nach 1715 nach dem Vorbild von San Gaetano; das Portal tragen die Statuen Fede und Speranza von Gioacchino Fortini (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_fassade_fenster": {
+      "title": "Fassadenfenster",
+      "description": "Über dem Portal sitzt ein Rundbogenfenster (Y 81 bis 87).",
+      "tip": "Glas in die ganze Wandtiefe.",
+      "caution": "Es gehört zum Teil Fassade.",
+      "fact": "Oben an der Fassade steht das Wappen der Serragli mit zwei Engeln und Trompeten (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_waende": {
+      "title": "Wände und Arkaden",
+      "description": "Die Außenwände der Kirche (zwei Blöcke dick), die Arkadenwände zu den Kapellen mit sechs Rundbögen, die Trennwände der Kapellen und die massiven Flächen neben Presbyterium und Apsis.",
+      "tip": "Erst die Außenwand, dann die Arkadenwand.",
+      "caution": "Lass die sechs Bögen und den Durchgang zur Sakramentskapelle frei.",
+      "fact": "Die Kirche hat sechs Altarbilder und zwei Seitenaltäre von Montauti (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_fenster": {
+      "title": "Obergadenfenster",
+      "description": "Über den Kapellendächern sitzen in den Arkadenwänden Fenster (Y 83 bis 86), je Kapelle eins.",
+      "tip": "Glas in die ganze Wandtiefe.",
+      "caution": "Die Fenster sind Stufe C.",
+      "fact": "Das Mittelschiff überragt die Kapellen."
+    },
+    "k_gewoelbe": {
+      "title": "Gewölbe und Decken",
+      "description": "Das Tonnengewölbe über dem Mittelschiff (Ansatz Y 76, Scheitel Y 85), die Halbkuppel der Apsis, die kleinen Tonnen der Kapellen und die Kuppel der Sakramentskapelle, massiv bis unter das Dach.",
+      "tip": "Von den Wänden zur Mitte bauen.",
+      "caution": "Das Gewölbe füllt den Raum bis zum Dach; ein Dachboden ist nicht zugänglich.",
+      "fact": "Das Deckenbild Sagrestanis hängt im Kassettengewölbe (Quelle: it.wikipedia, Chiesa di San Filippo Neri (Firenze))."
+    },
+    "k_dach": {
+      "title": "Dach",
+      "description": "Die Dachhaut aus Ziegeln: Satteldach über dem Mittelschiff (First Y 92), Pultdächer über den Kapellen, flache Dächer über Apsis, Massen und Sakramentskapelle.",
+      "tip": "Die Dachhaut ist eine Lage Ziegel auf dem Mauerwerk.",
+      "caution": "Die Dachformen sind Stufe C.",
+      "fact": "Die Fassade stammt von 1715 und überragt die Dächer."
+    }
+  }
+}

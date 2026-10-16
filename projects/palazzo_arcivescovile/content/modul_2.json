@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Hof",
+  "subtitle": "Bautüte 2: Hofarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof; dahinter liegt eine Galerie.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Die Arkaden ruhen auf dorischen Säulen und Pilastern (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 101, verputzt, mit Gesimsen auf Höhe der Geschossböden.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Oben verläuft eine Loggia mit ionischen Säulen (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zum Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe. Die ionische Loggia des Vorbilds ist hier durch Fenster ersetzt.",
+      "fact": "An den Schmalseiten des Hofs stehen zwei Serliana (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen Galerie und Räumen steht im Erdgeschoss eine Innenwand mit Türen (bis Y 70); die Kirche und das Kutschentor haben breitere Türen.",
+      "tip": "Türen in regelmäßigem Abstand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Die Kirche San Salvatore al Vescovo wird vom Hof des Palasts aus betreten (Quelle: it.wikipedia, Palazzo Arcivescovile (Firenze))."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen den Ring im Erdgeschoss in Salone, Mittelsaal, Südsaal, Treppenhaus, Westflügel und Kirche; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

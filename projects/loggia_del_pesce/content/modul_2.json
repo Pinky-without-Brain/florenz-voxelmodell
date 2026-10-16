@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Gebälk und Tondi",
+  "subtitle": "Bautüte 2: Gebälk, Kranzgesims und Tondi mit Fischen",
+  "icon": "🐟",
+  "parts": {
+    "gebaelk": {
+      "title": "Gebälk und Kranzgesims",
+      "description": "Oben läuft ein Gebälk aus Marmor (Y 74) und ein Kranzgesims aus Pietra serena (Y 75) um die ganze Loggia.",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Das Kranzgesims trägt den Dachüberstand.",
+      "fact": "Giorgio Vasari entwarf die Loggia im Auftrag von Cosimo I. (Quelle: it.wikipedia, Loggia del Pesce)."
+    },
+    "tondi": {
+      "title": "Tondi mit Fischen",
+      "description": "Je Langseite acht runde Felder in den Zwickeln über den Pfeilern: Rand in Terrakotta, in der Mitte ein weißer Block für den Fisch.",
+      "tip": "Die Felder ersetzen Wandblöcke über den Pfeilern.",
+      "caution": "Vereinfachte Ausstattung, Lage und Farben Stufe C. Der Fisch ist ein einzelner Block.",
+      "fact": "In den Zwickeln der Bögen saßen sechzehn Tondi mit Fischen; zwölf gingen bei den Abbrucharbeiten verloren, weil sie aus Kalk modelliert waren, die vier an den Enden kopieren die von 1669 (Quelle: it.wikipedia, Loggia del Pesce)."
+    }
+  }
+}

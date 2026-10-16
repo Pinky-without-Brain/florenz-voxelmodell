@@ -1,0 +1,5 @@
+// GENERIERT von tools/emit/data.js - nicht von Hand ändern.
+// Modul 3: 1 Schritte, 5 Blöcke, 5 Läufe.
+window.PROJECT_DATA_V3 = window.PROJECT_DATA_V3 || {};
+window.PROJECT_DATA_V3["santi_apostoli"] = window.PROJECT_DATA_V3["santi_apostoli"] || {};
+window.PROJECT_DATA_V3["santi_apostoli"][3] = {"module":3,"title":"Licht","subtitle":"Bautüte 3: Seelaternen im Boden","icon":"💡","palette":["sea_lantern"],"steps":[{"stepNumber":1,"title":"Seelaternen","description":"Im Boden von Mittelschiff, Seitenschiffen, Kapelle und Chor sitzen Seelaternen im Abstand von höchstens 12 Blöcken; sie ersetzen je einen Bodenblock.","tip":"Auf freien Bodenzellen, nicht unter Altären.","caution":"Das Licht ist eine Spielhilfe; bei Tageslicht fällt es nicht auf. Vereinfacht, nicht nach Vorbild.","fact":"Der Abstand von 12 Blöcken folgt dem Standard „begehbar und ausgestaltet“ des Projekts.","cameraHint":{"eye":[-696.4,102.2,944.6],"target":[-754,59,887]},"count":5,"yRange":[59,59],"runs":"/fw7AG0DAQAAAAz9OwB2AwEAAAAN/TsAbQMBAAAAFP07AH8DAQAAAB/9OwCBAwEAAAA="}]};

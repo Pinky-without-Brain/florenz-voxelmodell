@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Holzdach, Decken und Dächer",
+  "subtitle": "Bautüte 2: offenes Holzdach des Mittelschiffs, flache Decken, Ziegeldächer",
+  "icon": "🏠",
+  "parts": {
+    "holzdecke": {
+      "title": "Offenes Holzdach des Mittelschiffs",
+      "description": "Über dem Mittelschiff steigt ein offener Dachstuhl aus Eichenholz von der Traufe bei Lage 14 bis zum First bei Lage 20 (Y 79). Dunkle Binder liegen alle 2,7 Blöcke, dazwischen Bretter aus Eichenholz mit goldenen Leisten.",
+      "tip": "Von den Rändern zur Mitte, Binder zuerst.",
+      "caution": "Die Holzdecke von 1333 mit reich bemalten Balken ist belegt (Stufe A); Neigung und Maße sind erfunden, die Bemalung ist auf goldene Leisten vereinfacht. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Holzdecke mit reich verzierten Gespärren stammt von 1333 (it.wikipedia)."
+    },
+    "decken": {
+      "title": "Decken der Seitenschiffe, der Kapelle und des Chors",
+      "description": "Die Seitenschiffe (Lage 11) und die Kapelle (Lage 10) tragen flache Holzdecken, der Chor (Lage 15) eine Putzdecke.",
+      "tip": "Die Decken liegen auf den Wänden und den Arkaden auf.",
+      "caution": "Höhen und Material sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Seitenkapellen stammen aus dem 16. Jahrhundert und sind klein (it.wikipedia)."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein höheres Dach an ein niedrigeres stößt, schließen Mauerstreifen die Lücke zwischen den Dachflächen.",
+      "tip": "Immer bis zur Dachhaut des niedrigeren Nachbarn.",
+      "caution": "Reine Vereinfachung des Dachanschlusses.",
+      "fact": "Unter der Dachhaut gibt es keinen Raum, der betreten werden könnte."
+    },
+    "dach": {
+      "title": "Dächer",
+      "description": "Ein Satteldach aus roten Ziegeln deckt das Mittelschiff, flache Pultdächer die Seitenschiffe und die Kapelle, ein flaches Ziegeldach den Chor und die Apsis.",
+      "tip": "Die Dachhaut liegt direkt auf der Decke; der Zwischenraum ist nicht zugänglich.",
+      "caution": "Neigung und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kirche ist eine Basilika mit einem Schiff und zwei Seitenschiffen (en.wikipedia)."
+    }
+  }
+}
