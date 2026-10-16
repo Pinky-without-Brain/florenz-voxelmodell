@@ -1,0 +1,57 @@
+{
+  "module": 3,
+  "title": "Campanile",
+  "subtitle": "Bautüte 3: der Glockenturm von Buontalenti",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Turm steht 13 mal 13 Blöcke groß an der Südseite der Apsis. Seine Wände sind zwei Blöcke dick aus Mauerwerk, unten mit einem Sockel aus Pietra forte und in Bändern aus Pietra serena gegliedert; schmale Fensterschlitze sitzen alle 16 Lagen. Von der Südseite führt eine Tür, 2 Blöcke breit und 4 hoch, ins Freie.",
+      "tip": "Der Schaft reicht bis Lage 41; die Tür liegt in der Südwand.",
+      "caution": "Lass Tür und Fensterschlitze frei. Der Turm ist belegt (Stufe A: Buontalenti 1604 bis 1618), seine Lage im Umriss ist erfunden (Stufe C): OSM hat keinen eigenen Umriss für ihn. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Campanile wurde 1604 bis 1618 von Bernardo Buontalenti gebaut und ersetzte einen älteren Turm (it.wikipedia)."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Treppenblöcken um einen Kern bis zum Boden der Glockenstube auf Lage 42; in den Ecken liegen Podeste. Über allen Stufen und Podesten bleiben drei Blöcke Luft.",
+      "tip": "Die Treppe dreht im Uhrzeigersinn nach oben.",
+      "caution": "Der Kern darf nicht durchbrochen werden. Die Wendeltreppe ist eine Annahme (Stufe C). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Quellen beschreiben das Innere des Turms nicht."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Die Stube liegt auf Lage 42 bis 51: auf jeder Seite eine Rundbogenöffnung von 4 Blöcken Breite, der Boden aus Eichenholz, oben ein Gesims.",
+      "tip": "Die Öffnungen auf allen vier Seiten.",
+      "caution": "Die Bögen bleiben offen. Je eine Öffnung pro Seite ist belegt (Stufe A), Form und Höhe sind Stufe C. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Turm hat auf jeder Seite eine Öffnung mit je einer Glocke (it.wikipedia)."
+    },
+    "glockenjoch": {
+      "title": "Glockenjoch",
+      "description": "Ein umlaufender Balken aus Eichenholz in der Innenlage der Stube trägt die Glocken.",
+      "tip": "Die Balken liegen an den Mauern auf.",
+      "caution": "Die Oberseite ist unzugänglich. Das Joch ist eine Vereinfachung.",
+      "fact": "Das Joch ist ein Gestaltungsmittel des Modells."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "Vier große Glocken aus Bronze hängen unter dem Joch, je eine vor jeder Öffnung, jede 2 mal 2 Blöcke groß; eine kleinere fünfte hängt in der Ecke.",
+      "tip": "Die Unterkante liegt 4 Lagen über dem Stubenboden.",
+      "caution": "Nicht in die Gehfläche bauen. Fünf Glocken sind belegt (Stufe A); die fünfte hängt in der Quelle in der Mitte des Gewölbes, im Modell in der Ecke. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Turm hat fünf Glocken: eine je Öffnung und eine kleinere fünfte in der Mitte des Gewölbes; 1996 erhielt er elektrische Hämmer (it.wikipedia)."
+    },
+    "campanile_spitze": {
+      "title": "Turmspitze",
+      "description": "Eine gestufte Pyramide aus Ziegeln schließt den Turm ab, an der Spitze ein Block Bronze; der Hohlraum darunter ist unzugänglich.",
+      "tip": "Ring für Ring nach innen.",
+      "caution": "Die Spitze ist nicht begehbar. Der Abschluss ist eine Vereinfachung.",
+      "fact": "Die Form des Turmhelms ist in den Quellen nicht beschrieben."
+    },
+    "campanile_licht": {
+      "title": "Licht im Turm",
+      "description": "In der Innenschale des Turms sitzen Seelaternen, alle 8 Lagen auf jeder Seite, und vier in den Ecken der Glockenstube.",
+      "tip": "Die Laternen ersetzen einen Wandblock.",
+      "caution": "Sie dürfen nicht höher als 12 Blöcke auseinander liegen.",
+      "fact": "Die Beleuchtung ist eine Spielhilfe des Modells."
+    }
+  }
+}
