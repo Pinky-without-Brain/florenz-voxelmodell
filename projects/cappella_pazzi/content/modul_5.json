@@ -1,0 +1,15 @@
+{
+  "module": 5,
+  "title": "Konvent: Licht",
+  "subtitle": "Bautüte 5: Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "licht": {
+      "title": "Seelaternen im Boden",
+      "description": "In den Räumen, Umgängen und Hallen sind Seelaternen im Boden versteckt, höchstens zwölf Blöcke voneinander entfernt, damit es in Minecraft nirgends dunkel ist.",
+      "tip": "Die Lichtblöcke ersetzen einzelne Bodenfelder.",
+      "caution": "Nicht vor Türen: die Lichter stehen im Boden und stören den Weg nicht.",
+      "fact": "Seelaternen sind in Minecraft ständig leuchtende Lichtquellen und passen zum Stil des Modells."
+    }
+  }
+}

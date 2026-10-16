@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Innenwände und Treppe",
+  "subtitle": "Bautüte 2: Endwand, Kapellen, Tribuna, Chor und die Treppe mit Marmorbalustrade",
+  "icon": "🪜",
+  "parts": {
+    "sa_innenwaende": {
+      "title": "Endwand, Kapellenwände und Tribuna",
+      "description": "Die Endwand des Schiffs hat in der Mitte den Bogen zur Tribuna (11,5 breit) und rechts und links je eine Öffnung zur echten und zur falschen Kapelle. Dazu kommen die Wände zwischen Tribuna und Kapellen sowie die Chorwand mit dem Durchgang hinter dem Hochaltar.",
+      "tip": "Die Öffnungen sind mindestens 5 Blöcke breit und 7 hoch.",
+      "caution": "Lass die Öffnungen frei. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Presbyterium hat eine zentrale Tribuna-Kapelle und zwei Seitenkapellen, von denen eine nur eine falsche Kapelle ist; hinter dem Hochaltar liegt der Chor (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_treppe": {
+      "title": "Treppe zur Tribuna (Buontalenti)",
+      "description": "Fünf Treppenblöcke aus Quarz steigen auf einer Breite von acht Blöcken vom Schiff zum Podium der Tribuna; der Unterbau ist massiv, über jeder Stufe bleiben drei Blöcke Luft. Zwischen der Treppe und dem Durchgang liegt ein kleines Podest.",
+      "tip": "Zuerst der Unterbau, dann die Stufen von unten nach oben.",
+      "caution": "Vereinfacht, nicht nach Vorbild: der Auftrag nannte Ferdinando Tacca, die Quelle nennt Bernardo Buontalenti (1574); Tacca schuf das Paliotto.",
+      "fact": "Die Marmortreppe mit Balustrade ist ein Werk Bernardo Buontalentis von 1574, sie stammt aus Santa Trinita und wurde im späten 19. oder frühen 20. Jahrhundert hierher versetzt (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_balustrade": {
+      "title": "Marmorbalustrade",
+      "description": "Rechts und links der Treppe steigen Wangen aus weißem Marmor mit den Stufen auf: eine Reihe Marmorblöcke, einen Block über der jeweiligen Stufe.",
+      "tip": "Spaltenweise von unten nach oben.",
+      "caution": "Vereinfacht, nicht nach Vorbild: die Balustrade besteht aus vollen Blöcken ohne Docken.",
+      "fact": "Die Treppe hat eine Marmorbalustrade (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    }
+  }
+}

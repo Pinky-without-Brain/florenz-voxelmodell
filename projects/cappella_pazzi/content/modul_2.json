@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Konvent: Secondo Chiostro, Hofwände und Innenwände",
+  "subtitle": "Bautüte 2: Arkaden, Hofwände, Innenwände und Trennwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Arkaden des Secondo Chiostro",
+      "description": "Der Secondo Chiostro hat im Erdgeschoss Rundbögen auf Pfeilern aus Pietra serena, 7 Blöcke je Joch. In den Zwickeln über den Pfeilern sitzen Wappentondi (rot und weiß), nach dem Vorbild der erhabenen Rundmedaillons.",
+      "tip": "Zuerst die Pfeiler, dann die Bögen; die Tondi sind Teil der Zwickel.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Zwickel sind im Original mit Graffito geschmückt, hier einfarbig.",
+      "fact": "Der Kreuzgang von 1453 ist ganz aus Pietra serena; Rundbögen tragen eine Loggia im Obergeschoss, die Zwickel haben Graffito und erhabene Rundmedaillons mit Wappen (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Die Wände um den schmalen Innenhof im Ostflügel mit ihren Türen sowie die Obergeschosswände zum Secondo Chiostro.",
+      "tip": "Die Türen sind drei Blöcke breit.",
+      "caution": "Lass die Türen frei.",
+      "fact": "Die Obergeschosse am Secondo Chiostro sind in Wirklichkeit eine offene Loggia; hier sind sie vereinfacht als Fensterwand gebaut."
+    },
+    "hoffenster": {
+      "title": "Fenster zum Hof",
+      "description": "Glasfenster in den Obergeschosswänden zum Secondo Chiostro und zum Innenhof.",
+      "tip": "Das Glas liegt in der Mitte der Wand.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Bibliothek der Biblioteca Nazionale liegt oben an der Süd- und Ostseite des Secondo Chiostro (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "innenwaende": {
+      "title": "Innenwand um den Kreuzgang",
+      "description": "Hinter der Arkadenreihe steht eine Wand mit Türen alle 14 Blöcke: sie trennt den Umgang vom übrigen Konvent.",
+      "tip": "Die Türen sind drei Blöcke breit und sechs hoch.",
+      "caution": "Lass die Türen frei.",
+      "fact": "Der Umgang ist 5 Blöcke (2,5 m) tief, das ist Stufe C."
+    },
+    "trennwaende": {
+      "title": "Trennwände der Erdgeschosssäle",
+      "description": "Drei Trennwände gliedern das Erdgeschoss: die Südwand des Cenacolo mit einer Tür zur ersten Museumshalle und die Wände zwischen den drei Museumshallen, jeweils mit einer Tür von vier Blöcken Breite.",
+      "tip": "Die Wände reichen vom Boden bis unter die Decke.",
+      "caution": "Lass die Türen frei. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Museo dell’Opera di Santa Croce liegt in den Räumen des Konvents; die Aufteilung in Hallen ist Stufe C (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "module": 4,
+  "title": "Licht und Ausstattung",
+  "subtitle": "Bautüte 4: Licht, Seitenaltäre, Hochaltar, Kapellen, Chorgestühl, Orgel",
+  "icon": "🖼️",
+  "parts": {
+    "sa_licht": {
+      "title": "Seelaternen im Boden",
+      "description": "In Schiff, Tribuna, Chor und Kapellen sind Seelaternen im Boden versteckt, höchstens zwölf Blöcke voneinander entfernt.",
+      "tip": "Die Lichtblöcke ersetzen einzelne Bodenfelder.",
+      "caution": "Nicht vor den Portalen: die Lichter stehen im Boden.",
+      "fact": "Seelaternen sind in Minecraft ständig leuchtende Lichtquellen und passen zum Stil des Modells."
+    },
+    "sa_altaere": {
+      "title": "Zehn Seitenaltäre",
+      "description": "An den Seitenwänden stehen je fünf Altäre: ein Altarbild (4 mal 8 Blöcke) mit Goldrahmen in der inneren Wandlage, darüber ein eckiger Aufsatz aus Pietra serena ohne Rundungen, davor ein Altartisch aus weißem Marmor, einen Block hoch.",
+      "tip": "Zuerst die Bilder, dann die Aufsätze, dann die Tische.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Welches Bild an welchem Altar hängt, ist Stufe C.",
+      "fact": "Fünf Altäre stehen rechts und fünf links, mit Altarbildern unter anderem von Francesco Curradi (Tod der heiligen Cäcilie), einer Kopie nach Cigoli und Santi di Tito (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_hochaltar": {
+      "title": "Hochaltar mit Paliotto",
+      "description": "In der Tribuna steht ein Altartisch aus weißem Marmor (5 mal 3 Blöcke, einen Block hoch) mit einer Frontseite aus Bronze; dahinter ein kleiner Aufbau aus Marmor und Gold, drei Blöcke hoch.",
+      "tip": "Der Tisch zuerst, dann der Aufbau.",
+      "caution": "Vereinfacht, nicht nach Vorbild: das Bronze-Paliotto zeigt im Original das Martyrium des heiligen Stephan.",
+      "fact": "Der Marmoraltar stammt von Giambologna (1594) aus Santa Maria Nuova; das Bronze-Paliotto mit dem Martyrium des heiligen Stephan schuf Ferdinando Tacca 1656 (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_kapelle": {
+      "title": "Seitenkapelle (echt)",
+      "description": "Die nördliche Seitenkapelle ist ein Raum von 15 Blöcken Tiefe mit Altartisch und einem Altarbild an der Ostwand.",
+      "tip": "Altartisch einen Block hoch.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Das Bild ist ein Platzhalter-Farbfeld.",
+      "fact": "Das Presbyterium hat zwei Seitenkapellen, davon eine echte (it.wikipedia, Chiesa di Santo Stefano al Ponte). Welche der beiden echt ist, ist Stufe C."
+    },
+    "sa_scheinkapelle": {
+      "title": "Falsche Kapelle mit Taufe Christi",
+      "description": "Die südliche Seitenkapelle ist nur eine drei Blöcke tiefe Nische mit Altar; an der Rückwand hängt die Taufe Christi, ein Farbfeld von 7 mal 8 Blöcken mit Jordan, Christus und Täufer.",
+      "tip": "Das Feld hat einen Goldrahmen.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Nische ist begehbar.",
+      "fact": "Auf dem Altar der falschen Kapelle hängt die Taufe Christi von Jacopo Confortini (1667) (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_chorgestuehl": {
+      "title": "Chorgestühl",
+      "description": "Im Chor stehen an den drei Außenwänden Stallen aus Nussholz: ein Sitz einen Block hoch mit einem Rücken von zwei Blöcken. Vor dem Durchgang bleibt eine Gasse frei.",
+      "tip": "Sitz und Rücken in einer Säule.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das geschnitzte Chorgestühl aus Nussholz entstand um 1650 in der Werkstatt Jacopo Sanis (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_stuckfigur": {
+      "title": "Stuckfigur des heiligen Stephan",
+      "description": "An der Ostwand des Chors steht auf einem Sockel aus Pietra serena eine Blockfigur aus weißem Marmor mit goldenem Kopf und seitlichen Armen.",
+      "tip": "Sockel, Rumpf, Arme, Kopf.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die genaue Aufstellung ist Stufe C.",
+      "fact": "Eine Stuckfigur des heiligen Stephan um 1650 wird Giovanni Gonnelli zugeschrieben (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_orgel": {
+      "title": "Orgel",
+      "description": "An der Südwand des Schiffs hängt das Orgelgehäuse als Wandfeld von 6 mal 9 Blöcken: Pfeifen aus Bronze und Gold in einem Holzrahmen.",
+      "tip": "Rahmen zuerst, dann die Pfeifen.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage ist Stufe C.",
+      "fact": "Die Kirche besitzt eine toskanische Orgel des 17. Jahrhunderts (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    },
+    "sa_kruzifix": {
+      "title": "Holzkruzifix",
+      "description": "An der Innenseite der Fassade hängt ein Kreuz aus Holz mit blauem Fresko als Hintergrund, vier Blöcke breit und acht hoch.",
+      "tip": "Das Kreuz zuerst, dann der Grund.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage ist Stufe C.",
+      "fact": "Die Kirche besitzt ein Holzkruzifix von 1576 mit einem Fresko von Niccolò Lapi (it.wikipedia, Chiesa di Santo Stefano al Ponte)."
+    }
+  }
+}

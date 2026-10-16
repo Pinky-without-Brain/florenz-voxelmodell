@@ -1,0 +1,92 @@
+{
+  "module": 6,
+  "title": "Konvent: Cenacolo, Museumssäle und Höfe",
+  "subtitle": "Bautüte 6: ausgestaltete Räume des Museo dell’Opera di Santa Croce und der Kreuzgänge",
+  "icon": "🖼️",
+  "parts": {
+    "cenacolo": {
+      "title": "Cenacolo (Refektorium)",
+      "description": "Der lange Saal im Westarm hat einen Boden aus Terrakotta und Pietra serena, eine Tafel unter dem Fresko an der Westwand und eine Bank an der Ostwand. Zwei Portale führen vom Primo Chiostro und von der Westseite herein.",
+      "tip": "Boden zuerst, dann Tafel und Bank (je einen Block hoch).",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage im Westarm ist Stufe C.",
+      "fact": "In der Cenacolo hängt Taddeo Gaddis „Albero della Vita“ mit dem Abendmahl, und das Refektorium zeigt Cimabues Kruzifix und Donatellos San Ludovico (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "gaddi_fresko": {
+      "title": "Albero della Vita und Ultima Cena (Gaddi)",
+      "description": "An der Westwand des Cenacolo zieht sich ein Wandbild von 36 mal 9 Blöcken: oben der Kreuzesbaum mit zwölf Medaillons auf blauem Grund, unten das Abendmahl an einer weißen Tafel. Goldrahmen, Farbfelder in der Wandlage.",
+      "tip": "Zuerst der Rahmen, dann die Tafel, dann der Baum.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Fenster bleiben frei und unterbrechen das Bild.",
+      "fact": "Taddeo Gaddi malte die Kreuzigung als Lebensbaum um 1333 an die Westwand des Refektoriums; sie wurde Vorbild für spätere Florentiner Cenacoli (it.wikipedia, Basilica di Santa Croce (Firenze), Museo)."
+    },
+    "cimabue_kruzifix": {
+      "title": "Kruzifix von Cimabue",
+      "description": "An der Nordstirnwand hängt das große Holzkreuz als Wandrelief aus Holz, Rot und Orange, 8 Blöcke breit und 9 hoch. Das Original misst 448 mal 390 cm und ist um 1265 auf Holz gemalt.",
+      "tip": "Der Längsbalken zuerst, dann die Arme.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage im Refektorium folgt en.wikipedia, die Stelle an der Nordwand ist Stufe C.",
+      "fact": "Cimabues Kruzifix misst 448 mal 390 cm, stammt von etwa 1265 und wurde bei der Flut von 1966 stark beschädigt (en.wikipedia, Crucifix (Cimabue, Santa Croce))."
+    },
+    "veneziano_tafel": {
+      "title": "Tafel von Domenico Veneziano",
+      "description": "An der Ostwand zeigt ein Goldrahmenbild von 6 mal 6 Blöcken zwei Heilige, den Täufer in Fell und den Franziskus in der Kutte, vor Goldgrund.",
+      "tip": "Rahmen, Gold, dann die zwei Gestalten.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Domenico Venezianos „Hll. Johannes und Franziskus“ gehört zu den Hauptwerken des Refektoriums (en.wikipedia, Basilica of Santa Croce, Florence)."
+    },
+    "san_ludovico": {
+      "title": "San Ludovico di Tolosa (Donatello)",
+      "description": "Eine Blockfigur aus Gold auf einem Sockel aus Pietra serena steht an der Ostseite des Cenacolo: zwei Beine, zwei Rumpf, Kopf und Bischofsmütze.",
+      "tip": "Sockel, Beine, Rumpf, Kopf.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Figur lässt den Mittelgang frei.",
+      "fact": "Donatellos vergoldete Bronzestatue des San Ludovico di Tolosa (1423/24) steht heute im Refektorium des Konvents (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "sala_orcagna": {
+      "title": "Sala degli affreschi staccati",
+      "description": "Die erste Museumshalle hat einen Boden aus weißem Marmor und Pietra serena und eine Stellwand mit drei Farbfeldern. Sie zeigt abgelöste Fresken Orcagnas.",
+      "tip": "Boden zuerst, dann die Stellwand.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Halle ist Stufe C.",
+      "fact": "Fragmente von Orcagna (Triumph des Todes, Jüngstes Gericht, Teil der Hölle) fand man unter dem Putz des 16. Jahrhunderts im rechten Seitenschiff; sie sind heute im Museum ausgestellt (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "orcagna_fresken": {
+      "title": "Orcagna-Fresken",
+      "description": "Drei Farbfelder von 6 mal 8 Blöcken an der Westwand der Halle: Triumph des Todes in dunklem Braun mit weißen Gerippen, Jüngstes Gericht mit Christus in der Mandorla, Inferno in Schwarz, Rot und Orange.",
+      "tip": "Je ein Goldrahmen, dann die Farben.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Es sind sechs Fragmente Orcagnas: Triumph des Todes, Jüngstes Gericht und ein Teil der Hölle (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "sala_vasari": {
+      "title": "Sala Vasari",
+      "description": "Die zweite Museumshalle hat einen Boden aus Terrakotta und weißem Marmor, ein Vitrinenband und an der Trennwand zur ersten Halle Vasaris Ultima Cena.",
+      "tip": "Boden zuerst, dann das Vitrinenband (ein Block hoch).",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Halle ist Stufe C.",
+      "fact": "Vasaris Abendmahl wurde nach der Restaurierung durch das Opificio delle Pietre Dure zum fünfzigsten Jahrestag der Flut von 1966 wieder aufgestellt (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "vasari_abendmahl": {
+      "title": "Ultima Cena (Vasari)",
+      "description": "Ein langes Wandbild von 16 mal 7 Blöcken: dreizehn Gestalten an einer weißen Tafel unter einer Loggia, dunkler Hintergrund, Goldrahmen.",
+      "tip": "Rahmen, Hintergrund, Tafel, Köpfe.",
+      "caution": "Vereinfacht, nicht nach Vorbild; die Größe ist Stufe C.",
+      "fact": "Vasaris Ultima Cena schmückt heute das Museum, es wurde 2016 nach der Restaurierung wieder gezeigt (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "kreuzgang_secondo": {
+      "title": "Secondo Chiostro: Hof mit Brunnen",
+      "description": "Der Hof des zweiten Kreuzgangs hat einen Rasen mit Wegekreuz aus Kies, in der Mitte eine Plattform aus Pietra serena und einen Brunnen mit Becken, Wasser und Säule.",
+      "tip": "Plattform und Wege zuerst, dann das Becken.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Secondo Chiostro (1453) hat einen quadratischen Plan mit Brunnen in der Mitte; als Baumeister gilt Bernardo Rossellino als wahrscheinlicher als Brunelleschi (it.wikipedia, Basilica di Santa Croce (Firenze))."
+    },
+    "cortile_ost": {
+      "title": "Innenhof im Ostflügel",
+      "description": "Der schmale Hof im Ostflügel hat Rasen, einen Kiesweg in der Mitte und zwei Holzbänke.",
+      "tip": "Weg zuerst, dann die Bänke (einen Block hoch).",
+      "caution": "Vereinfacht, nicht nach Vorbild. Funktion und Name des Hofes sind nicht belegt: er ist ein Loch im Umriss des Konvents (OSM) und Stufe C.",
+      "fact": "Der Umriss des Konvents (OSM r10782536) hat zwei Löcher: den Secondo Chiostro und diesen Hof."
+    },
+    "licht_ausstattung": {
+      "title": "Licht an den Ausstattungen",
+      "description": "Seelaternen im Boden neben den Bodenmustern und Möbeln der ausgestalteten Räume.",
+      "tip": "Zusammen mit dem Boden der Räume setzen.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Seelaternen sind in Minecraft ständig leuchtende Lichtquellen."
+    }
+  }
+}

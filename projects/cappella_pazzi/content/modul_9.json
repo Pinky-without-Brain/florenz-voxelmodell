@@ -1,0 +1,57 @@
+{
+  "module": 9,
+  "title": "Cappella de’ Pazzi: Licht und Ausstattung",
+  "subtitle": "Bautüte 9: Licht, Pietra-serena-Gliederung, Tondi, Altar und Sitzbank",
+  "icon": "✨",
+  "parts": {
+    "kap_licht": {
+      "title": "Seelaternen im Boden",
+      "description": "In Portikus, Saal und Scarsella sind Seelaternen im Boden versteckt, höchstens zwölf Blöcke voneinander entfernt.",
+      "tip": "Die Lichtblöcke ersetzen einzelne Bodenfelder.",
+      "caution": "Nicht vor dem Portal: die Lichter stehen im Boden.",
+      "fact": "Seelaternen sind in Minecraft ständig leuchtende Lichtquellen."
+    },
+    "kap_pilaster": {
+      "title": "Pilaster und Gesims aus Pietra serena",
+      "description": "An den Saalwänden stehen Pilaster aus Pietra serena (ein Block breit, bis Lage 12, mit Kapitell) im Abstand von rund fünf Blöcken, dazu läuft ein Gesims auf Lage 12 um den Saal.",
+      "tip": "Die Pilaster ersetzen einzelne Wandzellen der inneren Lage.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Teilung ist Stufe C.",
+      "fact": "Korinthische Pilaster aus Pietra serena steigen von der Steinbank auf (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_apostel": {
+      "title": "Zwölf Apostel-Tondi",
+      "description": "Zwölf Rundbilder (Durchmesser 5 Blöcke, Rand weiß, Feld blau, Mitte weiß) hängen in Höhe 8 an den Saalwänden: je vier an den Flügelwänden, je zwei an West- und Ostwand.",
+      "tip": "Je Tondo ein Kreis aus Farbfeldern in der Wandlage.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage ist Stufe C.",
+      "fact": "Zwölf glasierte Terrakotta-Medaillons der Apostel von Luca della Robbia schmücken die Wände (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_evangelisten": {
+      "title": "Vier Evangelisten-Tondi",
+      "description": "In den vier Pendentifs sitzt je ein kleines Rundbild (rund 3 Blöcke, die Pendentif-Fläche ist schmal) in Gelb, Rot, Grün und Orange auf blauem Grund mit weißer oder goldener Mitte.",
+      "tip": "Je ein Kreis auf der Pendentif-Fläche, um Lage 17.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Vier Tondi der Evangelisten sitzen in den Pendentifs der Kuppel (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "portikus_tondo": {
+      "title": "Tondo des Hl. Andreas",
+      "description": "Über dem Portal hängt auf der Portikusseite ein Rundbild (Durchmesser 5 Blöcke) in Blau und Weiß.",
+      "tip": "Ein Kreis aus Farbfeldern.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Luca della Robbia schuf das Tondo des Heiligen Andreas über der Tür (it.wikipedia, Cappella dei Pazzi)."
+    },
+    "kap_altar": {
+      "title": "Altar",
+      "description": "Ein Altartisch aus weißem Marmor (3 Blöcke breit, 2 tief, ein Block hoch) steht in der Scarsella.",
+      "tip": "Ein Block hoch, damit er überschritten werden kann.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Kapelle hat kein Altarbild.",
+      "fact": "Die Kapelle hat keine Altartafel; die Scarsella ist einige Stufen erhöht (it.wikipedia, Cappella dei Pazzi). Die Stufen sind im Modell nicht gebaut, weil der Boden eben bleibt."
+    },
+    "kap_bank": {
+      "title": "Steinbank",
+      "description": "Eine Bank aus Pietra serena (ein Block hoch) läuft an den Saalwänden entlang; vor dem Portal und der Scarsella bleibt sie unterbrochen.",
+      "tip": "Ein Block hoch, damit man darüber steigen kann.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Eine Pietra-serena-Bank läuft um den ganzen Saal (it.wikipedia, Cappella dei Pazzi)."
+    }
+  }
+}
