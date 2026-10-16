@@ -4,7 +4,7 @@
 
 *Projekt `palazzo_pitti`, Art: wahrzeichen*
 
-**Statistik (generiert):** 1.381.031 Blöcke in 826 Bauschritten, 10 Module. Maßstab 1:2, 1 Block = 0,5 m.
+**Statistik (generiert):** 1.379.757 Blöcke in 824 Bauschritten, 10 Module. Maßstab 1:2, 1 Block = 0,5 m.
 Ausdehnung des Modells: X -1306 bis -631, Y 64 bis 166, Z 1312 bis 1954.
 
 | Modul | Titel | Blöcke | Schritte | Bauanleitung |
@@ -18,21 +18,21 @@ Ausdehnung des Modells: X -1306 bis -631, Y 64 bis 166, Z 1312 bis 1954.
 | 6 | Decken | 125.966 | 62 | [BAUANLEITUNG_MODUL_6.md](BAUANLEITUNG_MODUL_6.md) |
 | 7 | Räume, Treppen, Zugänge, Licht | 83.551 | 51 | [BAUANLEITUNG_MODUL_7.md](BAUANLEITUNG_MODUL_7.md) |
 | 8 | Ausgestaltete Innenräume | 21.433 | 17 | [BAUANLEITUNG_MODUL_8.md](BAUANLEITUNG_MODUL_8.md) |
-| 9 | Corridoio Vasariano (Oltrarno) | 129.147 | 84 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
-| | **Summe** | **1.381.031** | **826** | |
+| 9 | Corridoio Vasariano (Oltrarno) | 127.873 | 82 | [BAUANLEITUNG_MODUL_9.md](BAUANLEITUNG_MODUL_9.md) |
+| | **Summe** | **1.379.757** | **824** | |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 721.903 | 52,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 720.671 | 52,2 % |
 | Terrakotta | `terracotta` | 193.093 | 14,0 % |
-| Glatter Stein | `smooth_stone` | 175.586 | 12,7 % |
-| Endsteinziegel | `end_stone_bricks` | 82.694 | 6,0 % |
-| Graues Buntglas | `gray_stained_glass` | 74.639 | 5,4 % |
-| Polierter Andesit | `polished_andesite` | 64.723 | 4,7 % |
+| Glatter Stein | `smooth_stone` | 175.741 | 12,7 % |
+| Endsteinziegel | `end_stone_bricks` | 82.549 | 6,0 % |
+| Graues Buntglas | `gray_stained_glass` | 74.729 | 5,4 % |
+| Polierter Andesit | `polished_andesite` | 64.645 | 4,7 % |
 | Tuffstein | `tuff` | 26.997 | 2,0 % |
-| Steinziegel | `stone_bricks` | 8.258 | 0,6 % |
+| Steinziegel | `stone_bricks` | 8.194 | 0,6 % |
 | Goldblock | `gold_block` | 8.105 | 0,6 % |
 | Polierter Tuffstein | `polished_tuff` | 8.024 | 0,6 % |
 | Glatter Quarzblock | `smooth_quartz` | 6.602 | 0,5 % |

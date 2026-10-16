@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassade und Außenwände",
+  "subtitle": "Bautüte 1: Giebelfassade, Wände, Fenster",
+  "icon": "🏛️",
+  "parts": {
+    "fassade": {
+      "title": "Fassade",
+      "description": "Die schlichte Giebelfassade („a capanna“) ist 33 Blöcke breit und steigt zur Mitte bis Y 106. In der Mitte öffnet sich das Hauptportal als Rundbogen, 8 Blöcke breit und 12 hoch. Ein Gebälkband bei Y 88/89 trennt den unteren Teil, in den der Gang des Corridoio Vasariano einschneidet, vom Giebelfeld mit dem Wappenfeld.",
+      "tip": "Baue erst die Wand, dann nimmst du Portal, Monofore und Fenster als Luft heraus.",
+      "caution": "Das Portal bleibt offen (Luft), es ist der Zugang der Kirche.",
+      "fact": "Vor der Fassade steht ein dreijochiger Portikus mit Rundbögen auf Pfeilern; über ihm führt der Corridoio Vasariano entlang (it.wikipedia)."
+    },
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwände der Kapellen, Querarme und der Cappella maggiore sind zwei Blöcke dick: außen sandfarbener Putz, innen weißer Putz, unten ein Sockel aus Glattem Stein. Im Chor und in den hinteren Kapellen sitzen verglaste Rundbogenfenster.",
+      "tip": "Die Wände reichen bis unter die Dächer; die Dächer folgen in Bautüte 3.",
+      "caution": "Die Tür zum Glockenturm im Chor (3 Blöcke breit, 4 hoch) bleibt frei.",
+      "fact": "Der Ruggieri-Umbau von 1736 bis 1739 ließ nur die beiden Kapellen an der Eingangswand und den Chor des 17. Jahrhunderts stehen (it.wikipedia)."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Das große Balkonfenster über dem Portal, die beiden Monofore für die Eingangskapellen und die zwei niedrigen Bogenfenster im Giebelfeld bekommen farbiges Glas.",
+      "tip": "Das Balkonfenster ist 13 Blöcke breit und 5 hoch (Y 80 bis 84) und geht mit der Glasfüllung des Korridors zusammen.",
+      "caution": "Immer ganze Glasflächen setzen, keine Lücken lassen.",
+      "fact": "Durch ein großes, vergittertes Fenster konnten die Großherzöge der Medici die Messe unbemerkt verfolgen (en.wikipedia)."
+    }
+  }
+}

@@ -8,7 +8,7 @@
 // env: { cells: [{x, z, u, w, d8}], set, frei, istFrei, hat, oeffnung, unzug, Y, T, zellen, teile, key }
 //      T: wand, sockel, gesims, dach, spitze, holz, glocke, fenster, licht
 // o:   { rect: {u0,u1,w0,w1}, top, glocke0, glocke1, spitze0, abschluss: 'pyramide'|'kuppel', sockel (Lagen), gesimse: [lagen],
-//        tueren: [[{x,z}, …]] (Zellen, durch die eine Tür von 4 Lagen führt), schlitze: {periode,a,b,bis},
+//        tueren: [[{x,z}, …]] (Zellen, durch die eine Tür von 4 Lagen führt), zugang: {u, w} (automatische Tür von der Außenlage nahe (u, w) zum Treppenfuß), schlitze: {periode,a,b,bis},
 //        bogen: {anzahl, breite}, kleineGlocken: n, lichtAbstand, rolle }
 const P = require('../city/poly.js');
 const treppe = require('./treppe.js');
@@ -49,6 +49,38 @@ function baueCampanile(env, o) {
 
   // 2. Türen (Außenwand durchbrochen, 4 Lagen hoch)
   for (const t of o.tueren || []) for (const z of t) for (let yr = 1; yr <= 4; yr++) oeffnung('tuer', 'campanile_schaft', z.x, Y(yr), z.z);
+  // 2b. Zugang (W5b): Tür von einer Zelle der Außenlage (r = 0, nächste zu o.zugang = {u, w}) auf dem kürzesten 4er-Weg zu den freien Stehzellen
+  //     am Fuß der Treppe (im Innenraum 5 × 5 ohne Treppenblock in den Lagen 1..3), 2 breit, 4 hoch
+  if (o.zugang) {
+    const boden3 = new Set();
+    for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) if ([1, 2, 3].every((h) => !trKeys.has(key(mitte.x + dx, Y(h), mitte.z + dz)))) boden3.add(P.ck(mitte.x + dx, mitte.z + dz));
+    const inInnen = (x, z) => Math.abs(x - mitte.x) <= 2 && Math.abs(z - mitte.z) <= 2;
+    let start = null, bd = Infinity;
+    for (const c of cells) if (c.r === 0) { const d = Math.hypot(c.u - o.zugang.u, c.w - o.zugang.w); if (d < bd) { bd = d; start = c; } }
+    const prev = new Map([[P.ck(start.x, start.z), null]]), q = [P.ck(start.x, start.z)];
+    let ziel = null;
+    while (q.length && ziel === null) {
+      const k = q.shift(), x = P.ckX(k), z = P.ckZ(k);
+      for (const [dx, dz] of [[1, 0], [-1, 0], [0, 1], [0, -1]]) {
+        const n = P.ck(x + dx, z + dz);
+        if (prev.has(n) || !byK.has(n)) continue;
+        if (inInnen(P.ckX(n), P.ckZ(n)) && !boden3.has(n)) continue;
+        prev.set(n, k);
+        if (boden3.has(n)) { ziel = n; break; }
+        q.push(n);
+      }
+    }
+    if (ziel === null) throw new Error('Campanile: kein Zugang zum Treppenfuß');
+    const tuer = new Set();
+    for (let k = ziel; k !== null && k !== undefined; k = prev.get(k)) {
+      for (const [dx, dz] of [[0, 0], [1, 0], [0, 1], [1, 1]]) {
+        const x = P.ckX(k) + dx, z = P.ckZ(k) + dz;
+        if (byK.has(P.ck(x, z)) && !inInnen(x, z)) tuer.add(P.ck(x, z));
+      }
+    }
+    for (const k of tuer) for (let yr = 1; yr <= 4; yr++) oeffnung('tuer', 'campanile_schaft', P.ckX(k), Y(yr), P.ckZ(k));
+    info.tuerZellen = tuer.size;
+  }
 
   // 3. Schaft, Glockenstube, Abschluss
   let rmax = 0;

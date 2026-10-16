@@ -1,0 +1,13 @@
+{
+  "id": "ognissanti",
+  "title": "Chiesa di Ognissanti mit Konvent",
+  "type": "wahrzeichen",
+  "gebaeude": ["w167273908"],
+  "bodenY": 56,
+  "rahmen": { "ox": -1796, "oz": 184.5, "thetaDeg": -46.9 },
+  "masken": {
+    "campanile": { "rechtecke": [{ "u": [59.8, 72.8], "w": [29.3, 44.8] }], "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

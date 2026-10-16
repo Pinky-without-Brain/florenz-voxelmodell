@@ -1,0 +1,22 @@
+{
+  "module": 2,
+  "title": "Konvent: Treppen und Decken",
+  "subtitle": "Bautüte 2: Wendeltreppen und Geschossdecken",
+  "icon": "🪜",
+  "parts": {
+    "konvent_treppen": {
+      "title": "Wendeltreppen",
+      "description": "In vier Trakten des Konvents führt je eine Wendeltreppe aus Treppenblöcken in einem Schacht von 5 mal 5 Blöcken ins Obergeschoss. Über jeder Stufe bleiben drei Blöcke Luft.",
+      "tip": "Beginne am Treppenfuß in der Nordwestecke des Schachts.",
+      "caution": "Die Decke über den Läufen bekommt ein Loch, Kern und Stufen dürfen nicht freigeräumt werden.",
+      "fact": "Die Lage der Treppen im Konvent ist frei gewählt, die Quellen nennen sie nicht."
+    },
+    "konvent_decken": {
+      "title": "Geschossdecken",
+      "description": "Eine Holzdecke auf Y 69 trennt Erdgeschoss und Obergeschoss, eine weiß verputzte Decke auf Y 81 schließt das Obergeschoss ab. Über dieser Decke liegt der unzugängliche Dachraum.",
+      "tip": "Die Decke über dem Erdgeschoss ist zugleich der Boden des Obergeschosses.",
+      "caution": "Das Treppenloch bleibt frei.",
+      "fact": "Die Geschosshöhen von 6 und 5,5 Metern sind eine Annahme des Modells."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden auf Y 56",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Das Gelände steigt von der Piazza (Y 55) zur Rückseite hin um zwei bis drei Blöcke an. Im Umriss trägst du den Boden bis Y 55 ab, nur an wenigen Stellen füllst du mit Bruchstein auf.",
+      "tip": "Nach dem Abtragen liegt die ganze Fläche auf Y 55, der Boden folgt darüber.",
+      "caution": "Nicht über Y 55 füllen, sonst sitzt der Fußboden zu hoch.",
+      "fact": "Die Franziskaner bauten ab 1251 eine erste Kirche an dieser Stelle; die Umbauten des 17. Jahrhunderts schufen das heutige Bild (en.wikipedia)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 56 legst du den Boden. Im Schiff wechseln Felder aus Glattem Stein und weißem Quarz im Dreierraster, im Querhaus und im Chor liegen rosa Terrakotta und Quarz in kleinen Zweierfeldern, im Konvent rosa Terrakotta, im Glockenturm Bruchstein.",
+      "tip": "Die Lichtfelder setzt erst Bautüte 5.",
+      "caution": "Der Boden geht auch unter allen Wänden durch.",
+      "fact": "Der Bodenbelag ist vereinfacht und gibt keinen historischen Plan wieder."
+    }
+  }
+}

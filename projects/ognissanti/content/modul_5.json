@@ -1,0 +1,15 @@
+{
+  "module": 5,
+  "title": "Licht",
+  "subtitle": "Bautüte 5: Seelaternen im Boden",
+  "icon": "💡",
+  "parts": {
+    "licht": {
+      "title": "Lichtquellen",
+      "description": "In die Böden von Erdgeschoss und Obergeschoss setzt du Seelaternen im Abstand von höchstens zwölf Blöcken, damit alle Räume hell bleiben.",
+      "tip": "Ersetze einzelne Bodenblöcke durch Seelaternen.",
+      "caution": "Nicht unter Altäre oder Bilder setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquellen dunkel."
+    }
+  }
+}

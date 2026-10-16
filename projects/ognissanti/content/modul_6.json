@@ -1,0 +1,92 @@
+{
+  "module": 6,
+  "title": "Ausstattung der Kirche",
+  "subtitle": "Bautüte 6: Lünette, Altäre, Gemälde, Kruzifixe",
+  "icon": "🖼️",
+  "parts": {
+    "lunette_buglioni": {
+      "title": "Lünette über dem Portal",
+      "description": "Über der Tür füllt ein Halbkreis von 10 Blöcken Breite das Bogenfeld: Goldrand, blauer Grund und weiße Gestalten in der Mitte, die die Krönung der Jungfrau andeuten.",
+      "tip": "Zuerst den Goldrand, dann Blau und Weiß.",
+      "caution": "Lünette: Benedetto Buglioni, um 1510, Krönung der Jungfrau mit Heiligen, glasierte Terrakotta (it.wikipedia, en.wikipedia; Stufe A). Der Entwurf ging von einer Della-Robbia-Arbeit aus, die Zuschreibung hat sich geändert. Das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Lange hielt man die Lünette für ein Werk der Della Robbia (en.wikipedia)."
+    },
+    "seitenaltaere": {
+      "title": "Seitenaltäre",
+      "description": "An jeder Seite des Schiffs stehen sechs Altäre aus weißem Marmor mit goldener Platte, 5 Blöcke breit und 3 hoch, im Abstand von etwa 7 Blöcken.",
+      "tip": "Jeder Altar steht dicht an der Wand.",
+      "caution": "Quelle: sechs Altäre an jeder Seite des Schiffs (it.wikipedia, Stufe A); Abstand und Form sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kirche hat sechs Altäre an jeder Seite des Schiffs (it.wikipedia)."
+    },
+    "beichtstuhl": {
+      "title": "Beichtstuhl",
+      "description": "Unter dem Fresko von Botticelli steht an der rechten Schiffswand ein niedriger Beichtstuhl aus Eichenholz.",
+      "tip": "Er ist einen Block hoch und liegt zwischen zwei Altären.",
+      "caution": "Quelle: Botticellis Fresko „über dem Beichtstuhl nach dem dritten Altar“ (it.wikipedia, Stufe B). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Fresko hängt rechts nach dem dritten Altar (it.wikipedia)."
+    },
+    "vespucci_misericordia": {
+      "title": "Vespucci-Kapelle",
+      "description": "Am zweiten Altar der rechten Schiffswand füllt ein Farbfeld von 9 Blöcken Breite und 10 Höhe die Wand: die Madonna in Weiß unter einem weiten blauen Mantel, links und rechts kniende Gestalten in Braun und Rot.",
+      "tip": "Die Unterkante liegt bei Y 61.",
+      "caution": "Bild: Domenico Ghirlandaio und David, Madonna della Misericordia (um 1472 bis 1475), Cappella Vespucci am zweiten Altar rechts (it.wikipedia, en.wikipedia; Stufe A). Farben und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle gehört der Familie Vespucci (en.wikipedia)."
+    },
+    "botticelli_augustinus": {
+      "title": "Botticellis hl. Augustinus",
+      "description": "Rechts an der Schiffswand, nach dem dritten Altar und über dem Beichtstuhl, hängt ein Farbfeld von 6 Blöcken Breite und 5 Höhe in Goldrahmen: ein Gelehrter in orangefarbenem Gewand an seinem Pult.",
+      "tip": "Die Unterkante liegt bei Y 62.",
+      "caution": "Bild: Sandro Botticelli, Sant'Agostino nello studio (um 1480) (it.wikipedia, en.wikipedia; Stufe A für Werk und Ort). Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Fresko und der Hieronymus Ghirlandaios liegen sich im Schiff gegenüber (en.wikipedia)."
+    },
+    "ghirlandaio_hieronymus": {
+      "title": "Ghirlandaios hl. Hieronymus",
+      "description": "Auf der linken Schiffswand, dem Augustinus genau gegenüber, hängt ein zweites Farbfeld in Goldrahmen: ein Kirchenvater in roter Kutte an seinem Pult.",
+      "tip": "Die Unterkante liegt bei Y 62.",
+      "caution": "Bild: Domenico Ghirlandaio, San Girolamo nello studio (1480), nach dem Kruzifix-Altar (it.wikipedia, en.wikipedia; Stufe A). Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Ghirlandaio malte den Hieronymus 1480, im selben Jahr wie das Abendmahl für den Konvent (it.wikipedia)."
+    },
+    "giotto_kruzifix": {
+      "title": "Giottos Kruzifix",
+      "description": "An der Stirnwand des linken Querhauses hängt ein hohes Kruzifix, 7 Blöcke breit und 10 hoch: ein brauner Balken mit Querarm auf goldenem Grund, von Gold gerahmt.",
+      "tip": "Die Unterkante liegt bei Y 61.",
+      "caution": "Werk: Croce di Ognissanti, Giotto zugeschrieben (um 1310 bis 1315), im linken Querhaus (it.wikipedia, en.wikipedia; Stufe A). Heute hängt es dort, früher im Presbyterium. Die Form ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Nach der Restaurierung von 2010 wurde das Kreuz Giotto zugeschrieben (it.wikipedia)."
+    },
+    "saio_reliquiar": {
+      "title": "Kapelle des Saio",
+      "description": "Im linken Querhaus steht eine Vitrine auf einem Sockel aus Pietra serena: zwei Lagen Glas um ein braunes Stoffbündel, oben mit Gold abgeschlossen.",
+      "tip": "Sockel 2 Blöcke, Glas 2, goldener Abschluss.",
+      "caution": "Reliquie: das Gewand des hl. Franziskus von 1571 bis 2000 in der Kapelle des Saio, heute auf La Verna (it.wikipedia; Stufe A für Lage, historisch). Die Vitrine ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Seit 2000 ist die Kutte wieder auf dem Wallfahrtsberg La Verna (it.wikipedia)."
+    },
+    "botticelli_grabplatte": {
+      "title": "Grabplatte Botticellis",
+      "description": "Im Boden der Kapelle des rechten Querhauses liegt eine runde Scheibe von 5 Blöcken Durchmesser: Gold rund um weißen Marmor, in der Mitte ein rotes Wappenfeld.",
+      "tip": "Die Scheibe ersetzt Bodenblöcke auf Y 56.",
+      "caution": "Ort: Kapelle des San Pietro d'Alcantara im rechten Querhaus (it.wikipedia, en.wikipedia; Stufe A). Das Wappen der Filipepi ist als rotes Feld angedeutet. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Sandro Botticelli ist in Ognissanti begraben; ein kleiner runder Stein bezeichnet die Stelle (en.wikipedia)."
+    },
+    "hochaltar_ligorio": {
+      "title": "Hochaltar",
+      "description": "Vor der Wand zum Chor steht der Hochaltar: ein Tisch aus weißem und ornamentiertem Marmor mit goldener Platte und einem Aufbau bis Y 63.",
+      "tip": "Links und rechts vom Altar liegen die Chortüren.",
+      "caution": "Altar in Pietra dura nach Entwurf von Jacopo Ligorio (en.wikipedia; Stufe A). Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Giottos Maestà für den Hochaltar hängt heute in den Uffizien (en.wikipedia)."
+    },
+    "apsis_fresko": {
+      "title": "Deckenmalerei im Presbyterium",
+      "description": "Das Gewölbe über dem Presbyterium trägt ein Oval aus hellblauen und weißen Feldern mit einem goldenen Mittelpunkt, ein „sotto in su“-Himmel.",
+      "tip": "Die Felder ersetzen Blöcke der Gewölbeschale (Y 82 bis 84).",
+      "caution": "Deckenmalerei von 1770 (en.wikipedia; Stufe A); das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Hinter dem Hochaltar liegt der Chor mit zwei geschnitzten Holztüren (it.wikipedia)."
+    },
+    "veit_stoss_kruzifix": {
+      "title": "Kruzifix von Veit Stoß",
+      "description": "Über der Tür zur Sakristei hängt ein kleines Kruzifix aus Holz: ein senkrechter Balken mit Querarm, 3 Blöcke breit und 5 hoch.",
+      "tip": "Die Unterkante liegt bei Y 67.",
+      "caution": "Werk: Veit Stoß, Holzkruzifix über der Sakristeitür (en.wikipedia; Stufe A). Form und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Holzkruzifix hängt über der Tür zur Sakristei (en.wikipedia)."
+    }
+  }
+}

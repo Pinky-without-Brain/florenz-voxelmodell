@@ -239,6 +239,7 @@ Der Gang ist **durchgehend begehbar** vom Nordschnitt (z = 1312) bis zum Tor des
 
 Blöcke: Gang-Wände 23,3 k, Boden und Decke 35,0 k, Unterbau **56,3 k** (Mauerkern), Anschluss 0,3 k, Licht 0,1 k ≈ **115 k**.
 Interface-Ende: Die Stirn im Norden ist offen (kein Abschlussblock am Schnitt z = 1311/1312); am Palast schließt das Tor 7 × 7 (Y 84..90) an den Ostflügel an.
+**Portikus von Santa Felicita (W5b):** Auf den 277 Zellen über dem Portikus der Kirche (Streifen u 0..8,8 vor der Fassade, Geometrie in `projects/santa_felicita/model/_portikus.js`) ist der Unterbau nicht massiv: drei Rundbogenjoche (Luft von Y 67 bis zum Scheitel bei Y 75, als `arkade` deklariert, Pflaster Pietra serena auf Y 66) zwischen Pfeilern; das Balkonfenster 13 × 5 (Y 80..84) zum Schiff ist in der Gangwand verglast. Pitti danach 1.379.757 Blöcke, R13 94,6 %, R14 0.
 Optional (Welle 3): **Grotta del Buontalenti** (w473825750, 499 Zellen, Mitte (−775 \| 1560)) als Modul 10 oder eigenes Projekt; Boboli bleibt Stadtgrund.
 
 ## 11. Schnittstellen

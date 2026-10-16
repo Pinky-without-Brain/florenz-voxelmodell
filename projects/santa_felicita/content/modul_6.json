@@ -1,0 +1,78 @@
+{
+  "module": 6,
+  "title": "Ausstattung",
+  "subtitle": "Bautüte 6: Kapellen, Altarbilder, Palco der Medici",
+  "icon": "🖼️",
+  "parts": {
+    "capponi_kreuzabnahme": {
+      "title": "Pontormos Kreuzabnahme",
+      "description": "In der ersten Kapelle rechts, gleich beim Eingang, füllt ein Farbfeld die Altarwand: etwa 9 Blöcke breit und 9 hoch (Y 70 bis 78), Goldrahmen rundum, die Unterkante bei Y 69. Helle Rosa-, Blau-, Grün- und Gelbtöne gruppieren sich um die weiße Gestalt in der Mitte.",
+      "tip": "Zuerst den Goldrahmen, dann die Farben von oben nach unten ersetzen.",
+      "caution": "Bild: Jacopo Pontormo, Kreuzabnahme (1525 bis 1528), Cappella Capponi, „sulla destra vicino all’ingresso“ (it.wikipedia, Stufe A für Werk und Ort). Das Farbfeld ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle entwarf Filippo Brunelleschi für die Familie Barbadori (1419 bis 1423, en.wikipedia); Lodovico Capponi kaufte sie 1525."
+    },
+    "capponi_verkuendigung": {
+      "title": "Pontormos Verkündigung",
+      "description": "An der Eingangswand der Cappella Capponi stehen zwei schmale Farbfelder, getrennt durch das Fenster: links der Engel Gabriel in Rosa und Gelb, rechts Maria in Blau und Rot. Die Felder sind 3 Blöcke breit und 7 hoch.",
+      "tip": "Die Felder liegen in der inneren Wandlage, 2 Blöcke über dem Boden.",
+      "caution": "Bild: Jacopo Pontormo, Verkündigung, „accanto“ der Kreuzabnahme (it.wikipedia, Stufe B für den Ort). Farben und Maße sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Pontormo malte außerdem Tondi mit den Evangelisten in den Pendentifs der Kuppel; sie sind nicht modelliert."
+    },
+    "capponi_altar": {
+      "title": "Altar der Cappella Capponi",
+      "description": "Vor der Kreuzabnahme steht ein Altartisch aus weißem Marmor, 6 Blöcke breit und 2 hoch, mit goldener Platte.",
+      "tip": "Die Mensa steht einen Block vor der Wand.",
+      "caution": "Quelle der Lage: Altarbild über dem Altar am Kapellenende (en.wikipedia). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Ruggieri-Umbau ließ die beiden Kapellen an der Eingangswand stehen (it.wikipedia)."
+    },
+    "canigiani_fresken": {
+      "title": "Cappella Canigiani",
+      "description": "Die erste Kapelle links, der Capponi-Kapelle gegenüber, trägt an der Altarwand ein Farbfeld aus warmen Rot-, Orange- und Gelbtönen mit blauen und grünen Akzenten.",
+      "tip": "Das Feld ist 8 Blöcke breit, Unterkante Y 69.",
+      "caution": "Fresken: Bernardino Poccetti, 1589 bis 1590 (en.wikipedia). Das Farbmuster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Kapelle liegt „gegenüber“ der Capponi-Kapelle (en.wikipedia); über beiden Kapellen sitzt der Palco der Medici."
+    },
+    "ciseri_makkabaeer": {
+      "title": "Ciseris Makkabäer",
+      "description": "In der dritten Kapelle rechts hängt ein breites Bild mit dunklen Brauntönen, Rot und Blau, 8 Blöcke breit und 8 hoch.",
+      "tip": "Unterkante Y 69.",
+      "caution": "Bild: Antonio Ciseri, Martyrium der Makkabäer (1863), dritte Kapelle rechts (en.wikipedia). Das Farbfeld ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Gemälde hängt in der dritten Kapelle auf der rechten Seite (en.wikipedia)."
+    },
+    "tosini_begegnung": {
+      "title": "Tosinis Begegnung",
+      "description": "Am Ende des rechten Querarms zeigt ein Farbfeld von 6 Blöcken Breite die Begegnung von Anna und Joachim.",
+      "tip": "Unterkante Y 69.",
+      "caution": "Bild: Michele Tosini, Begegnung der hl. Anna und des hl. Joachim, am Ende des rechten Querarms (en.wikipedia). Das Farbfeld ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild hängt am Ende des rechten Querarms (en.wikipedia)."
+    },
+    "franceschini_himmelfahrt": {
+      "title": "Franceschinis Himmelfahrt",
+      "description": "Gegenüber, am Ende des linken Querarms, steht ein Farbfeld in Blau, Hellblau, Gelb und Rot für die Himmelfahrt Mariens.",
+      "tip": "Unterkante Y 69.",
+      "caution": "Bild: Baldassarre Franceschini, Himmelfahrt (1677), am Ende des linken Querarms (en.wikipedia). Das Farbfeld ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild stammt von 1677 und hängt am Ende des linken Querarms (en.wikipedia)."
+    },
+    "hochaltar_cigoli": {
+      "title": "Cappella maggiore und Hochaltar",
+      "description": "An der Ostwand der quadratischen Hauptkapelle sitzt ein Altarbild (8 Blöcke breit, 7 hoch, Unterkante Y 71) in Goldrahmen, davor steht ein Altartisch aus weißem Marmor mit goldener Platte.",
+      "tip": "Neben dem Altar liegt links die Tür zum Glockenturm.",
+      "caution": "Hauptkapelle: Entwurf Cigoli für die Familie Guicciardini, Altarbild Francesco Brina zugeschrieben (1587), Gewölbe um 1620 von Cinganelli (en.wikipedia, it.wikipedia). Das Bild ist ein erfundenes Farbfeld. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Hauptkapelle ist quadratisch und hat ein Segelgewölbe (it.wikipedia)."
+    },
+    "chorgewoelbe_fresko": {
+      "title": "Fresko im Chorgewölbe",
+      "description": "Das Segelgewölbe der Cappella maggiore ist mit Farbfeldern in Hellblau, Blau, Gelb und Orange belegt, in der Mitte ein gelbes Feld.",
+      "tip": "Die Felder ersetzen Blöcke der Gewölbeschale (Y 88 bis 94).",
+      "caution": "Fresko: Cinganelli, um 1620 (en.wikipedia). Das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Chor des 17. Jahrhunderts blieb beim Umbau von 1736 erhalten (it.wikipedia)."
+    },
+    "palco_medici": {
+      "title": "Palco der Medici",
+      "description": "Über den Eingangskapellen, direkt hinter dem Balkonfenster, sitzt an der Eingangswand eine hölzerne Loge: eine Plattform 3 Blöcke tief und 13 breit auf Y 78, mit Brüstung und Konsolen. Das Fenster dahinter ist verglast.",
+      "tip": "Die Loge liegt in Höhe des Gangbodens des Corridoio Vasariano.",
+      "caution": "Palco des Großherzogs über den Kapellen Canigiani und Barbadori-Capponi, im 18. Jahrhundert verändert (it.wikipedia, Stufe A). Die Loge ist im Modell nicht zugänglich, der Zugang liegt im Corridoio (Projekt Palazzo Pitti). Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Gang wurde 1565 auf Befehl Cosimos I. durch die Kirche geführt, damit die Medici ungesehen zur Messe kamen."
+    }
+  }
+}
