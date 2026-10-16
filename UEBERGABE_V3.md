@@ -236,6 +236,12 @@ Drei Pakete parallel (je ein Worktree), danach zusammengeführt; Details in `BEG
 - **Integration:** `node tools/city/besitz.js` für 13 geänderte Projekte (43 s, 61 Projekte im Raster), Stadtgrund neu (16,8 min, OK), `webindex.js` 62 Einträge, `--cross` über alle Projekte OK (333 s), Tests 496 / 0 / 0 (6,3 min).
 - **Minecraft-Export V5** (Build-Ordner): 427 s, 62 Projekte, **104.609.541 Projektblöcke**, 2.830 Schilder, db 57,1 MB; `florenz_voxelmodell_2026-10-16_v5.mcworld` und Statistik-PDF an den Nutzer.
 
+### W5 Wahrzeichen-Welle 5 (lokale Sitzung 16.10.2026, Zweig `claude/welle5`) – **erledigt**
+Nutzerwunsch: San Marco, Ognissanti, Santa Felicita, Palazzo Davanzati, Loggia del Bigallo. Drei Pakete parallel (W5a San Marco, W5b Ognissanti + Santa Felicita, W5c Davanzati + Bigallo), danach zusammengeführt. Übersicht mit Zahlen: `20_Stadtmodell_Florenz/wahrzeichen/UEBERSICHT_WELLE5.md`; Erfahrungen `BEGEHBARKEIT.md` §13–§17.
+- Alle fünf aus ihren Quartieren gelöst (Hausakten gelöscht, Quartiere neu gebaut), `vorrang.json` jetzt 47 IDs.
+- Santa Felicita: Der Corridoio Vasariano (`palazzo_pitti` Modul 9) spart jetzt einen offenen Portikus aus und hat das Balkonfenster zum Schiff; gemeinsame Geometrie in `projects/santa_felicita/model/_portikus.js`.
+- Integration: `besitz.js` für 11 Projekte, Stadtgrund neu (19,6 min, OK), `webindex.js` 67 Einträge, `--cross` 67 Projekte / 2.211 Paare / 0 Konflikte (6,4 min), Tests 522 / 0 / 0 (7,2 min).
+
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
