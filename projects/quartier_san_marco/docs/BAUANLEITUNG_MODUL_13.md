@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 13: Isolato I0609
+# Bauanleitung Modul 13: Isolato I0611
 
 *Quartier San Marco: 1 Haus*
 
@@ -8,81 +8,51 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.617 |
-| Bauschritte | 2 |
-| Y-Bereich | 69 bis 84 |
-| X-Ausdehnung | 655 bis 683 (29 Blöcke) |
-| Z-Ausdehnung | -1425 bis -1393 (33 Blöcke) |
-| Kleinster Schritt | 1.285 Blöcke (Schritt 13.2) |
-| Mittlerer Schritt | 1.309 Blöcke |
-| Größter Schritt | 1.332 Blöcke (Schritt 13.1) |
+| Blöcke | 1.917 |
+| Bauschritte | 1 |
+| Y-Bereich | 69 bis 81 |
+| X-Ausdehnung | 669 bis 691 (23 Blöcke) |
+| Z-Ausdehnung | -1415 bis -1388 (28 Blöcke) |
+| Kleinster Schritt | 1.917 Blöcke (Schritt 13.1) |
+| Mittlerer Schritt | 1.917 Blöcke |
+| Größter Schritt | 1.917 Blöcke (Schritt 13.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.722 | 65,8 % |
-| Terrakotta | `terracotta` | 492 | 18,8 % |
-| Polierter Tuffstein | `polished_tuff` | 374 | 14,3 % |
-| Ziegelsteine | `bricks` | 27 | 1,0 % |
+| Endsteinziegel | `end_stone_bricks` | 1.428 | 74,5 % |
+| Terrakotta | `terracotta` | 253 | 13,2 % |
+| Polierter Tuffstein | `polished_tuff` | 234 | 12,2 % |
 | Seelaterne | `sea_lantern` | 2 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w155641514` | Haus w155641514 | 2.615 | 13.1–13.2 |
-| 2 | `w155641514_innen` | Haus w155641514: Innenausbau | 2 | 13.2 |
+| 1 | `w155641512` | Haus w155641512 | 1.915 | 13.1 |
+| 2 | `w155641512_innen` | Haus w155641512: Innenausbau | 2 | 13.1 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Haus w155641514 – Teil 1/2 (Y 69–75)
+### Schritt 13.1 – Haus w155641512 & Haus w155641512: Innenausbau
 
-- **Y-Bereich:** 69 bis 75
-- **Blöcke:** 1.332
-- **Bauteile:** `w155641514`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 958 |
-| Polierter Tuffstein | `polished_tuff` | 374 |
-
-**Beschreibung**
-
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.2 – Haus w155641514 – Teil 2/2 (Y 76–84) & Haus w155641514: Innenausbau
-
-- **Y-Bereich:** 69 bis 84
-- **Blöcke:** 1.285
-- **Bauteile:** `w155641514`, `w155641514_innen`
+- **Y-Bereich:** 69 bis 81
+- **Blöcke:** 1.917
+- **Bauteile:** `w155641512`, `w155641512_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 764 |
-| Terrakotta | `terracotta` | 492 |
-| Ziegelsteine | `bricks` | 27 |
+| Endsteinziegel | `end_stone_bricks` | 1.428 |
+| Terrakotta | `terracotta` | 253 |
+| Polierter Tuffstein | `polished_tuff` | 234 |
 | Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt.
+Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 

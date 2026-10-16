@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: Bögen, Fenster, Wappen",
+  "icon": "🏛️",
+  "parts": {
+    "fassade_eg": {
+      "title": "Erdgeschoss der Fassade mit drei Bögen",
+      "description": "Die Straßenfront ist 3 Blöcke dick und 35 Blöcke breit. Im Erdgeschoss aus Bugnato (Tuffsteinziegel) öffnen sich drei flache Bögen von 7 Blöcken Breite und bis zu 7 Blöcken Höhe, eingefasst von Pietra serena; ein Gesims schließt das Geschoss ab.",
+      "tip": "Setze die Bogenleibung aus Pietra serena zuerst, dann das Bugnato.",
+      "caution": "Die Bögen sind Tore: lass sie über die ganze Wandtiefe frei.",
+      "fact": "Die Fassade des Erdgeschosses ist mit Bugnato verkleidet und hat drei große Bögen (it.wikipedia, Palazzo Davanzati; Maße aus dem Umriss). (vereinfacht, nicht nach Vorbild)."
+    },
+    "wappen": {
+      "title": "Wappen der Davanzati",
+      "description": "Über dem Mittelbogen sitzt ein Wappen aus Goldrahmen, rotem Feld und weißem Balken, 5 Blöcke breit und 2 hoch, in der äußersten Lage der Fassade.",
+      "tip": "Das Wappen ersetzt Blöcke der Fassade; setze es nach der Mauer.",
+      "caution": "Nur die äußerste Lage wird ersetzt.",
+      "fact": "Das große Davanzati-Wappen des 16. Jahrhunderts schmückt die Fassade (it.wikipedia, Palazzo Davanzati). (vereinfacht, nicht nach Vorbild)."
+    },
+    "fassade_og": {
+      "title": "Obergeschosse der Fassade",
+      "description": "Drei Geschosse in Putz mit je fünf Fensterachsen: Fenster 3 Blöcke breit und 5 hoch mit Glas, Rahmen aus Pietra serena, flacher Abschluss oben. Zwischen den Geschossen laufen Marcapiano-Gesimse aus Pietra serena, am Dach ein Kranzgesims.",
+      "tip": "Arbeite Geschoss für Geschoss; das Glas gehört in alle drei Lagen der Wand.",
+      "caution": "Setze Fenster nur in die Fassadenwand; die Seitenwände sind Brandmauern ohne Fenster.",
+      "fact": "Die Fassade hat drei Obergeschosse mit je fünf Achsen aus Fenstern mit flachen Bögen und Marcapiano-Gesimsen (it.wikipedia, limen.org). (vereinfacht, nicht nach Vorbild)."
+    },
+    "ferri": {
+      "title": "Halterungen an der Fassade",
+      "description": "Acht Kupferblöcke in den Pfeilerstreifen zwischen den Fenstern stehen für die eisernen Fackel- und Fahnenhalter, je zwei in den ersten beiden Obergeschossen.",
+      "tip": "Setze sie in die äußerste Lage.",
+      "caution": "Es gibt keine Gitter in der Palette; die Halter sind volle Blöcke.",
+      "fact": "Die Fassade trägt eiserne Halterungen für Fackeln und Fahnen (it.wikipedia, Palazzo Davanzati). (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}

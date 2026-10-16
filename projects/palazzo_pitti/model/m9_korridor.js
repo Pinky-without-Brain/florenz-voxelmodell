@@ -11,6 +11,7 @@ const path = require('node:path');
 const G = require('./_pi.js');
 const PAL = require('../../../tools/spec/palette.js');
 const ground = require('../../../tools/city/ground_stadt.js');
+const PORT = require('../../santa_felicita/model/_portikus.js');   // Portikus von Santa Felicita unter dem Gang (W5b)
 
 const { P, K2, Y, T, WZ } = G;
 const WZ_FRESKO = (f) => T.fresko(f);
@@ -172,7 +173,10 @@ module.exports = {
     const ub = teil('korridor_unterbau');
     for (const c of ZK) {
       if (ohneUnterbau(c)) continue;
-      for (let y = c.gt + 1; y <= c.yf - 2; y++) B.set(ub, c.x, y, c.z, y - c.gt <= 8 ? T.rustika : c.d8 <= 2 ? T.putz : T.mauer);
+      for (let y = c.gt + 1; y <= c.yf - 2; y++) {
+        if (PORT.offen(c.x, y, c.z)) continue;                                         // Joch des Portikus von Santa Felicita: offen unter dem Gang
+        B.set(ub, c.x, y, c.z, PORT.pflaster(c.x, c.z) && y === PORT.Y(0) ? T.serena : y - c.gt <= 8 ? T.rustika : c.d8 <= 2 ? T.putz : T.mauer);
+      }
     }
     // 2 je Abschnitt: Boden, Wände mit Fenstern, Decke
     const ab = [...new Set(ALLE.map(abschnitt))].sort();
@@ -190,7 +194,8 @@ module.exports = {
         for (let y = c.yf + 1; y <= c.yf + 7; y++) {
           if (istBild(c, y)) continue;
           const fenster = c.d < D_MAX + 1 && (c.d % 8) < 2 && y >= c.yf + 3 && y <= c.yf + 5;
-          B.set(wa, c.x, y, c.z, fenster ? T.glas : (c.d8 === 1 ? T.forte : T.putz));
+          const balkon = PORT.balkonFenster(c.x, y, c.z);                              // Balkonfenster (Palco der Medici) zum Schiff von Santa Felicita
+          B.set(wa, c.x, y, c.z, fenster || balkon ? T.glas : (c.d8 === 1 ? T.forte : T.putz));
         }
       }
       const de = teil(`${a}_decke`);
@@ -211,6 +216,7 @@ module.exports = {
     // 3b Luft unter dem Gang über Straßen und am abgehobenen Teilstück: Durchgang (wie beim Ponte Vecchio)
     const unten = [];
     for (const c of ZK) if (ohneUnterbau(c)) for (let y = c.gt + 1; y <= c.yf - 2; y++) if (B.frei(c.x, y, c.z)) unten.push({ x: c.x, y, z: c.z });
+    for (const c of ZK) if (!ohneUnterbau(c)) for (let y = c.gt + 1; y <= c.yf - 2; y++) if (PORT.offen(c.x, y, c.z) && B.frei(c.x, y, c.z)) unten.push({ x: c.x, y, z: c.z });   // Portikus
     if (unten.length) ctx.oeffnung(unten, 'arkade');
     // 4 Schnitt zum Ponte Vecchio (z ≤ 1312): offen, Gang setzt sich fort
     const tor = [];

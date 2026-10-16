@@ -1,0 +1,5 @@
+// GENERIERT von tools/emit/data.js - nicht von Hand ändern.
+// Modul 5: 1 Schritte, 10 Blöcke, 10 Läufe.
+window.PROJECT_DATA_V3 = window.PROJECT_DATA_V3 || {};
+window.PROJECT_DATA_V3["santa_felicita"] = window.PROJECT_DATA_V3["santa_felicita"] || {};
+window.PROJECT_DATA_V3["santa_felicita"][5] = {"module":5,"title":"Licht","subtitle":"Bautüte 5: Seelaternen im Boden","icon":"💡","palette":["sea_lantern"],"steps":[{"stepNumber":1,"title":"Lichtquellen","description":"In den Boden der Kirche setzt du Seelaternen im Abstand von höchstens zwölf Blöcken, damit das Innere hell bleibt.","tip":"Ersetze einzelne Bodenblöcke durch Seelaternen.","caution":"Nicht unter Altäre oder Möbel setzen.","fact":"In Minecraft sind Innenräume ohne Lichtquellen dunkel.","cameraHint":{"eye":[-586.2,124.3,1500.3],"target":[-664,66,1422.5]},"count":10,"yRange":[66,66],"runs":"T/1CAHoFAQAAAFf9QgBzBQEAAABZ/UIAhwUBAAAAZf1CAJEFAQAAAGb9QgB9BQEAAABv/UIAnAUBAAAAcv1CAIwFAQAAAHX9QgCVBQEAAAB9/UIApQUBAAAAgf1CAKoFAQAAAA=="}]};

@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Kreuzgang und Innenwände",
+  "subtitle": "Bautüte 2: Arkaden, Hofwände, Innenwände und Trennwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Arkaden des Chiostro di Sant’Antonino",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof des Chiostro di Sant’Antonino; dahinter liegt der überdeckte Gang.",
+      "tip": "Die Pfeiler stehen alle 6,5 Blöcke.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Michelozzo baute den Kreuzgang vor 1440 mit vier Portiken und Kreuzgewölben auf schlanken Säulen (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Die Wände der Lichthöfe und des Chiostro di San Domenico, mit Türen in den Hof. Der Chiostro di San Domenico ist schlicht und ohne Arkaden.",
+      "tip": "Türen frei lassen.",
+      "caution": "Der Hof von San Domenico ist heute den Mönchen vorbehalten.",
+      "fact": "Der Chiostro di San Domenico gehört bis heute den Brüdern und ist nicht öffentlich (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Fenster in den Hofwänden der Obergeschosse, mit Glas.",
+      "tip": "Wie die Außenfenster.",
+      "caution": "Nur auf der Hofseite.",
+      "fact": "Über den Arkaden des Kreuzgangs liegen die Gänge des Dormitoriums."
+    },
+    "innenwaende": {
+      "title": "Innenwand um den Kreuzgang",
+      "description": "Die Wand hinter der Loggia des Chiostro di Sant’Antonino mit Türen in die Säle. Im Erdgeschoss öffnen die Türen zum Ospizio, zum Kapitelsaal und zu den Refektorien.",
+      "tip": "Türen sind 3 Blöcke breit und 5 hoch.",
+      "caution": "Im Obergeschoss gibt es nur eine Tür zur Treppenhalle.",
+      "fact": "Die Räume des Erdgeschosses gruppieren sich um den ersten Kreuzgang (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "trennwaende": {
+      "title": "Trennwände im Erdgeschoss",
+      "description": "Trennwände teilen den Erdgeschossflügel in Eingangshalle, Ospizio, Foresteria, Kapitelsaal, die beiden Refektorien und die Küche; jede Wand hat eine Tür.",
+      "tip": "Erst die Wand, dann die Tür freilassen.",
+      "caution": "Die Lage der Räume im Grundriss ist Stufe C.",
+      "fact": "Zum Konvent gehören Kapitelsaal, zwei Refektorien und Pilgerhospiz (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    }
+  }
+}

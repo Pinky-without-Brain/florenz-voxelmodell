@@ -1,1113 +1,72 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 10: Isolato I0589 – Via dei Fibbiai
+# Bauanleitung Modul 10: Isolato I0592 – Via Giorgio La Pira
 
-*Quartier San Marco: 13 Häuser*
+*Quartier San Marco: 1 Haus*
 
 ## Übersicht
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 82.957 |
-| Bauschritte | 52 |
-| Y-Bereich | 66 bis 109 |
-| X-Ausdehnung | 439 bis 565 (127 Blöcke) |
-| Z-Ausdehnung | -695 bis -554 (142 Blöcke) |
-| Kleinster Schritt | 622 Blöcke (Schritt 10.7) |
-| Mittlerer Schritt | 1.595 Blöcke |
-| Größter Schritt | 1.988 Blöcke (Schritt 10.49) |
+| Blöcke | 24.041 |
+| Bauschritte | 13 |
+| Y-Bereich | 68 bis 109 |
+| X-Ausdehnung | 476 bis 550 (75 Blöcke) |
+| Z-Ausdehnung | -1463 bis -1404 (60 Blöcke) |
+| Kleinster Schritt | 1.673 Blöcke (Schritt 10.4) |
+| Mittlerer Schritt | 1.849 Blöcke |
+| Größter Schritt | 2.098 Blöcke (Schritt 10.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 24.779 | 29,9 % |
-| Orange Keramik | `orange_terracotta` | 10.935 | 13,2 % |
-| Glatter Sandstein | `smooth_sandstone` | 8.797 | 10,6 % |
-| Weißer Beton | `white_concrete` | 8.586 | 10,3 % |
-| Endsteinziegel | `end_stone_bricks` | 7.303 | 8,8 % |
-| Polierter Tuffstein | `polished_tuff` | 6.962 | 8,4 % |
-| Rosa Keramik | `pink_terracotta` | 6.542 | 7,9 % |
-| Hellgrauer Beton | `light_gray_concrete` | 3.755 | 4,5 % |
-| Glatter Stein | `smooth_stone` | 1.199 | 1,4 % |
-| Graues Buntglas | `gray_stained_glass` | 940 | 1,1 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 869 | 1,0 % |
-| Polierter Andesit | `polished_andesite` | 623 | 0,8 % |
-| Ziegelsteine | `bricks` | 467 | 0,6 % |
-| Fichtenholz-Bretter | `spruce_planks` | 311 | 0,4 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 197 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 181 | 0,2 % |
-| Seelaterne | `sea_lantern` | 176 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 132 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 124 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 36 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 36 | 0,0 % |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 10.339 | 43,0 % |
+| Terrakotta | `terracotta` | 8.214 | 34,2 % |
+| Polierter Tuffstein | `polished_tuff` | 2.144 | 8,9 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.186 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 912 | 3,8 % |
+| Tuffstein | `tuff` | 791 | 3,3 % |
+| Glatter Stein | `smooth_stone` | 155 | 0,6 % |
+| Ziegelsteine | `bricks` | 136 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 | 0,3 % |
+| Seelaterne | `sea_lantern` | 40 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 4 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 634 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r7010735` | Reihenhaus an Via dei Fibbiai | 5.602 | 10.1–10.3 |
-| 2 | `r7010735_innen` | Reihenhaus an Via dei Fibbiai: Innenausbau | 821 | 10.4 |
-| 3 | `w477103984` | Reihenhaus an Via dei Fibbiai | 3.920 | 10.5–10.6 |
-| 4 | `w477103984_innen` | Reihenhaus an Via dei Fibbiai: Innenausbau | 622 | 10.7 |
-| 5 | `w477103992` | Reihenhaus an Via dei Servi | 4.969 | 10.8–10.10 |
-| 6 | `w477103992_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.043 | 10.11 |
-| 7 | `w477103994` | Reihenhaus an Via dei Servi | 4.780 | 10.12–10.14 |
-| 8 | `w477103994_innen` | Reihenhaus an Via dei Servi: Innenausbau | 792 | 10.15 |
-| 9 | `w477104007` | Reihenhaus an Via dei Servi | 4.597 | 10.16–10.18 |
-| 10 | `w477104007_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.652 | 10.19 |
-| 11 | `w477104009` | Reihenhaus an Via dei Fibbiai | 6.301 | 10.20–10.23 |
-| 12 | `w477104009_innen` | Reihenhaus an Via dei Fibbiai: Innenausbau | 1.489 | 10.24 |
-| 13 | `w477104011` | Reihenhaus an Via degli Alfani | 8.971 | 10.25–10.29 |
-| 14 | `w477104011_innen` | Reihenhaus an Via degli Alfani: Innenausbau | 1.862 | 10.30 |
-| 15 | `w477104013` | Reihenhaus an Hotel le due fontane | 5.185 | 10.31–10.33 |
-| 16 | `w477104013_innen` | Reihenhaus an Hotel le due fontane: Innenausbau | 1.376 | 10.34 |
-| 17 | `w477104026` | Reihenhaus an Via dei Fibbiai | 3.598 | 10.35–10.36 |
-| 18 | `w477104026_innen` | Reihenhaus an Via dei Fibbiai: Innenausbau | 1.182 | 10.37 |
-| 19 | `w477104030` | Reihenhaus an Via dei Servi | 1.817 | 10.38 |
-| 20 | `w477104030_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.195 | 10.39 |
-| 21 | `w477104032` | Reihenhaus an Via dei Fibbiai | 2.253 | 10.40–10.41 |
-| 22 | `w477104032_innen` | Reihenhaus an Via dei Fibbiai: Innenausbau | 1.533 | 10.42 |
-| 23 | `w477104038` | Reihenhaus an Via dei Servi | 5.282 | 10.43–10.45 |
-| 24 | `w477104038_innen` | Reihenhaus an Via dei Servi: Innenausbau | 1.842 | 10.46 |
-| 25 | `w477104047` | Palazzo delle Due Fontane | 7.717 | 10.47–10.50 |
-| 26 | `w477104047_innen` | Palazzo delle Due Fontane: Innenausbau | 2.549 | 10.51–10.52 |
-| 27 | `strassenschilder` | Straßenschilder | 7 | 10.52 |
+| 1 | `w487162477` | Reihenhaus an Via Giorgio La Pira | 18.750 | 10.1–10.10 |
+| 2 | `w487162477_innen` | Reihenhaus an Via Giorgio La Pira: Innenausbau | 5.291 | 10.11–10.13 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Reihenhaus an Via dei Fibbiai – Teil 1/3 (Y 66–75)
+### Schritt 10.1 – Reihenhaus an Via Giorgio La Pira – Teil 1/10 (Y 68–70)
 
-- **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.812
-- **Bauteile:** `r7010735`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.383 |
-| Polierter Tuffstein | `polished_tuff` | 394 |
-| Glatter Stein | `smooth_stone` | 15 |
-| Weißer Beton | `white_concrete` | 14 |
-| Graues Buntglas | `gray_stained_glass` | 6 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.2 – Reihenhaus an Via dei Fibbiai – Teil 2/3 (Y 76–87)
-
-- **Y-Bereich:** 76 bis 87
-- **Blöcke:** 1.920
-- **Bauteile:** `r7010735`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.816 |
-| Weißer Beton | `white_concrete` | 86 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.3 – Reihenhaus an Via dei Fibbiai – Teil 3/3 (Y 88–100)
-
-- **Y-Bereich:** 88 bis 100
-- **Blöcke:** 1.870
-- **Bauteile:** `r7010735`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.370 |
-| Terrakotta | `terracotta` | 425 |
-| Weißer Beton | `white_concrete` | 64 |
-| Graues Buntglas | `gray_stained_glass` | 9 |
-| Ziegelsteine | `bricks` | 2 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.4 – Reihenhaus an Via dei Fibbiai: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 821
-- **Bauteile:** `r7010735_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 675 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
-| Rote Keramik | `red_terracotta` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
-| Weiße Keramik | `white_terracotta` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.5 – Reihenhaus an Via dei Fibbiai – Teil 1/2 (Y 67–83)
-
-- **Y-Bereich:** 67 bis 83
-- **Blöcke:** 1.963
-- **Bauteile:** `w477103984`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.613 |
-| Polierter Tuffstein | `polished_tuff` | 282 |
-| Weißer Beton | `white_concrete` | 57 |
-| Graues Buntglas | `gray_stained_glass` | 11 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.6 – Reihenhaus an Via dei Fibbiai – Teil 2/2 (Y 84–102)
-
-- **Y-Bereich:** 84 bis 102
-- **Blöcke:** 1.957
-- **Bauteile:** `w477103984`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.436 |
-| Terrakotta | `terracotta` | 367 |
-| Weißer Beton | `white_concrete` | 74 |
-| Fichtenholz-Bretter | `spruce_planks` | 52 |
-| Ziegelsteine | `bricks` | 14 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.7 – Reihenhaus an Via dei Fibbiai: Innenausbau
-
-- **Y-Bereich:** 67 bis 91
-- **Blöcke:** 622
-- **Bauteile:** `w477103984_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 498 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.8 – Reihenhaus an Via dei Servi – Teil 1/3 (Y 66–75)
-
-- **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.596
-- **Bauteile:** `w477103992`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.090 |
-| Polierter Tuffstein | `polished_tuff` | 446 |
-| Glatter Stein | `smooth_stone` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.9 – Reihenhaus an Via dei Servi – Teil 2/3 (Y 76–88)
-
-- **Y-Bereich:** 76 bis 88
-- **Blöcke:** 1.695
-- **Bauteile:** `w477103992`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.531 |
-| Glatter Stein | `smooth_stone` | 124 |
-| Graues Buntglas | `gray_stained_glass` | 40 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.10 – Reihenhaus an Via dei Servi – Teil 3/3 (Y 89–102)
-
-- **Y-Bereich:** 89 bis 102
-- **Blöcke:** 1.678
-- **Bauteile:** `w477103992`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 962 |
-| Terrakotta | `terracotta` | 561 |
-| Glatter Stein | `smooth_stone` | 62 |
-| Fichtenholz-Bretter | `spruce_planks` | 38 |
-| Ziegelsteine | `bricks` | 35 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.11 – Reihenhaus an Via dei Servi: Innenausbau
-
-- **Y-Bereich:** 66 bis 89
-- **Blöcke:** 1.043
-- **Bauteile:** `w477103992_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 921 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.12 – Reihenhaus an Via dei Servi – Teil 1/3 (Y 66–76)
-
-- **Y-Bereich:** 66 bis 76
-- **Blöcke:** 1.651
-- **Bauteile:** `w477103994`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.245 |
-| Polierter Tuffstein | `polished_tuff` | 361 |
-| Hellgrauer Beton | `light_gray_concrete` | 26 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Graues Buntglas | `gray_stained_glass` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.13 – Reihenhaus an Via dei Servi – Teil 2/3 (Y 77–88)
-
-- **Y-Bereich:** 77 bis 88
-- **Blöcke:** 1.576
-- **Bauteile:** `w477103994`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.477 |
-| Hellgrauer Beton | `light_gray_concrete` | 83 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.14 – Reihenhaus an Via dei Servi – Teil 3/3 (Y 89–102)
-
-- **Y-Bereich:** 89 bis 102
-- **Blöcke:** 1.553
-- **Bauteile:** `w477103994`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.032 |
-| Terrakotta | `terracotta` | 437 |
-| Hellgrauer Beton | `light_gray_concrete` | 46 |
-| Ziegelsteine | `bricks` | 30 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.15 – Reihenhaus an Via dei Servi: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 792
-- **Bauteile:** `w477103994_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 663 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.16 – Reihenhaus an Via dei Servi – Teil 1/3 (Y 66–75)
-
-- **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.526
-- **Bauteile:** `w477104007`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 839 |
-| Polierter Tuffstein | `polished_tuff` | 617 |
-| Polierter Andesit | `polished_andesite` | 46 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.17 – Reihenhaus an Via dei Servi – Teil 2/3 (Y 76–90)
-
-- **Y-Bereich:** 76 bis 90
-- **Blöcke:** 1.563
-- **Bauteile:** `w477104007`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.391 |
-| Weißer Beton | `white_concrete` | 148 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.18 – Reihenhaus an Via dei Servi – Teil 3/3 (Y 91–102)
-
-- **Y-Bereich:** 91 bis 102
-- **Blöcke:** 1.508
-- **Bauteile:** `w477104007`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 783 |
-| Orange Keramik | `orange_terracotta` | 553 |
-| Weißer Beton | `white_concrete` | 65 |
-| Fichtenholz-Bretter | `spruce_planks` | 52 |
-| Ziegelsteine | `bricks` | 47 |
-| Graues Buntglas | `gray_stained_glass` | 8 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.19 – Reihenhaus an Via dei Servi: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.652
-- **Bauteile:** `w477104007_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.512 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 70 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.20 – Reihenhaus an Via dei Fibbiai – Teil 1/4 (Y 66–72)
-
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.554
-- **Bauteile:** `w477104009`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 850 |
-| Polierter Tuffstein | `polished_tuff` | 621 |
-| Polierter Andesit | `polished_andesite` | 65 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.21 – Reihenhaus an Via dei Fibbiai – Teil 2/4 (Y 73–82)
-
-- **Y-Bereich:** 73 bis 82
-- **Blöcke:** 1.597
-- **Bauteile:** `w477104009`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.452 |
-| Polierter Andesit | `polished_andesite` | 117 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.22 – Reihenhaus an Via dei Fibbiai – Teil 3/4 (Y 83–92)
-
-- **Y-Bereich:** 83 bis 92
-- **Blöcke:** 1.592
-- **Bauteile:** `w477104009`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.397 |
-| Polierter Andesit | `polished_andesite` | 153 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.23 – Reihenhaus an Via dei Fibbiai – Teil 4/4 (Y 93–103)
-
-- **Y-Bereich:** 93 bis 103
-- **Blöcke:** 1.558
-- **Bauteile:** `w477104009`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 805 |
-| Glatter Sandstein | `smooth_sandstone` | 573 |
-| Fichtenholz-Bretter | `spruce_planks` | 73 |
-| Polierter Andesit | `polished_andesite` | 49 |
-| Ziegelsteine | `bricks` | 44 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.24 – Reihenhaus an Via dei Fibbiai: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.489
-- **Bauteile:** `w477104009_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.353 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.25 – Reihenhaus an Via degli Alfani – Teil 1/5 (Y 66–72)
-
-- **Y-Bereich:** 66 bis 72
-- **Blöcke:** 1.808
-- **Bauteile:** `w477104011`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 994 |
-| Polierter Tuffstein | `polished_tuff` | 636 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
-| Glatter Stein | `smooth_stone` | 72 |
-| Weißer Beton | `white_concrete` | 34 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.26 – Reihenhaus an Via degli Alfani – Teil 2/5 (Y 73–81)
-
-- **Y-Bereich:** 73 bis 81
-- **Blöcke:** 1.844
-- **Bauteile:** `w477104011`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.618 |
-| Weißer Beton | `white_concrete` | 161 |
-| Glatter Stein | `smooth_stone` | 33 |
-| Graues Buntglas | `gray_stained_glass` | 32 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.27 – Reihenhaus an Via degli Alfani – Teil 3/5 (Y 82–89)
-
-- **Y-Bereich:** 82 bis 89
-- **Blöcke:** 1.644
-- **Bauteile:** `w477104011`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.472 |
-| Weißer Beton | `white_concrete` | 151 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.28 – Reihenhaus an Via degli Alfani – Teil 4/5 (Y 90–98)
-
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.847
-- **Bauteile:** `w477104011`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.623 |
-| Weißer Beton | `white_concrete` | 196 |
-| Graues Buntglas | `gray_stained_glass` | 28 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.29 – Reihenhaus an Via degli Alfani – Teil 5/5 (Y 99–109)
-
-- **Y-Bereich:** 99 bis 109
-- **Blöcke:** 1.828
-- **Bauteile:** `w477104011`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 907 |
-| Terrakotta | `terracotta` | 759 |
-| Weißer Beton | `white_concrete` | 106 |
-| Ziegelsteine | `bricks` | 42 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 5 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.30 – Reihenhaus an Via degli Alfani: Innenausbau
-
-- **Y-Bereich:** 66 bis 97
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.862
-- **Bauteile:** `w477104011_innen`
+- **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.684 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 88 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 32 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 28 |
-| Seelaterne | `sea_lantern` | 20 |
-| Rote Keramik | `red_terracotta` | 4 |
-| Weiße Keramik | `white_terracotta` | 4 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 62 |
+| Polierter Tuffstein | `polished_tuff` | 1.071 |
+| Tuffstein | `tuff` | 791 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.31 – Reihenhaus an Hotel le due fontane – Teil 1/3 (Y 66–75)
-
-- **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.705
-- **Bauteile:** `w477104013`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.095 |
-| Polierter Tuffstein | `polished_tuff` | 554 |
-| Weißer Beton | `white_concrete` | 28 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -1121,23 +80,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Reihenhaus an Hotel le due fontane – Teil 2/3 (Y 76–89)
+### Schritt 10.2 – Reihenhaus an Via Giorgio La Pira – Teil 2/10 (Y 70–72)
 
-- **Y-Bereich:** 76 bis 89
-- **Blöcke:** 1.804
-- **Bauteile:** `w477104013`
+- **Y-Bereich:** 70 bis 72
+- **Blöcke:** 1.887
+- **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.648 |
-| Weißer Beton | `white_concrete` | 116 |
+| Polierter Tuffstein | `polished_tuff` | 1.073 |
+| Gelbe Keramik | `yellow_terracotta` | 740 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
+| Glatter Stein | `smooth_stone` | 34 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -1151,26 +111,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.33 – Reihenhaus an Hotel le due fontane – Teil 3/3 (Y 90–103)
+### Schritt 10.3 – Reihenhaus an Via Giorgio La Pira – Teil 3/10 (Y 73–77)
 
-- **Y-Bereich:** 90 bis 103
-- **Blöcke:** 1.676
-- **Bauteile:** `w477104013`
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.983
+- **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 824 |
-| Terrakotta | `terracotta` | 697 |
-| Weißer Beton | `white_concrete` | 58 |
-| Fichtenholz-Bretter | `spruce_planks` | 41 |
-| Ziegelsteine | `bricks` | 36 |
-| Graues Buntglas | `gray_stained_glass` | 20 |
+| Gelbe Keramik | `yellow_terracotta` | 1.564 |
+| Graues Buntglas | `gray_stained_glass` | 212 |
+| Fichtenholz-Bretter | `spruce_planks` | 120 |
+| Glatter Stein | `smooth_stone` | 87 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
@@ -1184,132 +142,237 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.34 – Reihenhaus an Hotel le due fontane: Innenausbau
+### Schritt 10.4 – Reihenhaus an Via Giorgio La Pira – Teil 4/10 (Y 78–81)
 
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.376
-- **Bauteile:** `w477104013_innen`
+- **Y-Bereich:** 78 bis 81
+- **Blöcke:** 1.673
+- **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.248 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Gelbe Keramik | `yellow_terracotta` | 1.528 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+| Graues Buntglas | `gray_stained_glass` | 55 |
+| Glatter Stein | `smooth_stone` | 34 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.5 – Reihenhaus an Via Giorgio La Pira – Teil 5/10 (Y 82–86)
+
+- **Y-Bereich:** 82 bis 86
+- **Blöcke:** 2.030
+- **Bauteile:** `w487162477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.697 |
+| Fichtenholz-Bretter | `spruce_planks` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 165 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.6 – Reihenhaus an Via Giorgio La Pira – Teil 6/10 (Y 87–91)
+
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.995
+- **Bauteile:** `w487162477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.551 |
+| Fichtenholz-Bretter | `spruce_planks` | 224 |
+| Graues Buntglas | `gray_stained_glass` | 220 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.7 – Reihenhaus an Via Giorgio La Pira – Teil 7/10 (Y 92–95)
+
+- **Y-Bereich:** 92 bis 95
+- **Blöcke:** 1.673
+- **Bauteile:** `w487162477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.562 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+| Graues Buntglas | `gray_stained_glass` | 55 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.8 – Reihenhaus an Via Giorgio La Pira – Teil 8/10 (Y 96–99)
+
+- **Y-Bereich:** 96 bis 99
+- **Blöcke:** 1.675
+- **Bauteile:** `w487162477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.270 |
+| Fichtenholz-Bretter | `spruce_planks` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 165 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.9 – Reihenhaus an Via Giorgio La Pira – Teil 9/10 (Y 100–101)
+
+- **Y-Bereich:** 100 bis 101
+- **Blöcke:** 1.874
+- **Bauteile:** `w487162477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.125 |
+| Gelbe Keramik | `yellow_terracotta` | 427 |
+| Fichtenholz-Bretter | `spruce_planks` | 322 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.10 – Reihenhaus an Via Giorgio La Pira – Teil 10/10 (Y 102–109)
+
+- **Y-Bereich:** 102 bis 109
+- **Blöcke:** 2.098
+- **Bauteile:** `w487162477`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.962 |
+| Ziegelsteine | `bricks` | 136 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.11 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 1/3 (Y 70–79)
+
+- **Y-Bereich:** 70 bis 79
+- **Blöcke:** 1.771
+- **Bauteile:** `w487162477_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.709 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
+| Seelaterne | `sea_lantern` | 20 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.35 – Reihenhaus an Via dei Fibbiai – Teil 1/2 (Y 66–82)
-
-- **Y-Bereich:** 66 bis 82
-- **Blöcke:** 1.813
-- **Bauteile:** `w477104026`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.146 |
-| Polierter Tuffstein | `polished_tuff` | 449 |
-| Weißer Beton | `white_concrete` | 118 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
-| Glatter Stein | `smooth_stone` | 46 |
-| Polierter Andesit | `polished_andesite` | 3 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.36 – Reihenhaus an Via dei Fibbiai – Teil 2/2 (Y 83–102)
-
-- **Y-Bereich:** 83 bis 102
-- **Blöcke:** 1.785
-- **Bauteile:** `w477104026`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.006 |
-| Terrakotta | `terracotta` | 533 |
-| Weißer Beton | `white_concrete` | 174 |
-| Graues Buntglas | `gray_stained_glass` | 42 |
-| Ziegelsteine | `bricks` | 30 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.37 – Reihenhaus an Via dei Fibbiai: Innenausbau
-
-- **Y-Bereich:** 66 bis 89
-- **Blöcke:** 1.182
-- **Bauteile:** `w477104026_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.056 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 
@@ -1327,504 +390,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.38 – Reihenhaus an Via dei Servi
+### Schritt 10.12 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 2/3 (Y 80–86)
 
-- **Y-Bereich:** 66 bis 101
-- **Blöcke:** 1.817
-- **Bauteile:** `w477104030`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 689 |
-| Terrakotta | `terracotta` | 479 |
-| Polierter Tuffstein | `polished_tuff` | 396 |
-| Weißer Beton | `white_concrete` | 161 |
-| Ziegelsteine | `bricks` | 28 |
-| Fichtenholz-Bretter | `spruce_planks` | 24 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
-| Glatter Stein | `smooth_stone` | 19 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.39 – Reihenhaus an Via dei Servi: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.195
-- **Bauteile:** `w477104030_innen`
+- **Y-Bereich:** 80 bis 86
+- **Blöcke:** 1.756
+- **Bauteile:** `w487162477_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.071 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.40 – Reihenhaus an Via dei Fibbiai – Teil 1/2 (Y 66–84)
-
-- **Y-Bereich:** 66 bis 84
-- **Blöcke:** 1.132
-- **Bauteile:** `w477104032`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 511 |
-| Rosa Keramik | `pink_terracotta` | 495 |
-| Polierter Andesit | `polished_andesite` | 108 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.41 – Reihenhaus an Via dei Fibbiai – Teil 2/2 (Y 85–102)
-
-- **Y-Bereich:** 85 bis 102
-- **Blöcke:** 1.121
-- **Bauteile:** `w477104032`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 634 |
-| Rosa Keramik | `pink_terracotta` | 328 |
-| Polierter Andesit | `polished_andesite` | 73 |
-| Ziegelsteine | `bricks` | 34 |
-| Fichtenholz-Bretter | `spruce_planks` | 31 |
-| Graues Buntglas | `gray_stained_glass` | 21 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.42 – Reihenhaus an Via dei Fibbiai: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.533
-- **Bauteile:** `w477104032_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.401 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.43 – Reihenhaus an Via dei Servi – Teil 1/3 (Y 66–75)
-
-- **Y-Bereich:** 66 bis 75
-- **Blöcke:** 1.758
-- **Bauteile:** `w477104038`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 933 |
-| Polierter Tuffstein | `polished_tuff` | 700 |
-| Hellgrauer Beton | `light_gray_concrete` | 95 |
-| Glatter Stein | `smooth_stone` | 15 |
-| Graues Buntglas | `gray_stained_glass` | 10 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.44 – Reihenhaus an Via dei Servi – Teil 2/3 (Y 76–90)
-
-- **Y-Bereich:** 76 bis 90
-- **Blöcke:** 1.800
-- **Bauteile:** `w477104038`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.446 |
-| Hellgrauer Beton | `light_gray_concrete` | 318 |
-| Graues Buntglas | `gray_stained_glass` | 36 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.45 – Reihenhaus an Via dei Servi – Teil 3/3 (Y 91–102)
-
-- **Y-Bereich:** 91 bis 102
-- **Blöcke:** 1.724
-- **Bauteile:** `w477104038`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 884 |
-| Weißer Beton | `white_concrete` | 642 |
-| Hellgrauer Beton | `light_gray_concrete` | 138 |
-| Ziegelsteine | `bricks` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 12 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.46 – Reihenhaus an Via dei Servi: Innenausbau
-
-- **Y-Bereich:** 66 bis 90
-- **Blöcke:** 1.842
-- **Bauteile:** `w477104038_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.710 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.47 – Palazzo delle Due Fontane – Teil 1/4 (Y 67–72)
-
-- **Y-Bereich:** 67 bis 72
-- **Blöcke:** 1.878
-- **Bauteile:** `w477104047`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 995 |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
-| Glatter Stein | `smooth_stone` | 113 |
-| Graues Buntglas | `gray_stained_glass` | 24 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.48 – Palazzo delle Due Fontane – Teil 2/4 (Y 73–83)
-
-- **Y-Bereich:** 73 bis 83
-- **Blöcke:** 1.982
-- **Bauteile:** `w477104047`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.664 |
-| Glatter Stein | `smooth_stone` | 254 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.49 – Palazzo delle Due Fontane – Teil 3/4 (Y 84–94)
-
-- **Y-Bereich:** 84 bis 94
-- **Blöcke:** 1.988
-- **Bauteile:** `w477104047`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.609 |
-| Glatter Stein | `smooth_stone` | 301 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.50 – Palazzo delle Due Fontane – Teil 4/4 (Y 95–104)
-
-- **Y-Bereich:** 95 bis 104
-- **Blöcke:** 1.869
-- **Bauteile:** `w477104047`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.208 |
-| Glatter Sandstein | `smooth_sandstone` | 506 |
-| Ziegelsteine | `bricks` | 77 |
-| Glatter Stein | `smooth_stone` | 65 |
-| Graues Buntglas | `gray_stained_glass` | 13 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.51 – Palazzo delle Due Fontane: Innenausbau – Teil 1/2 (Y 67–82)
-
-- **Y-Bereich:** 67 bis 82
-- **Blöcke:** 891
-- **Bauteile:** `w477104047_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 805 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 44 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 14 |
+| Terrakotta | `terracotta` | 1.709 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
 | Seelaterne | `sea_lantern` | 10 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 30 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 10.52 – Palazzo delle Due Fontane: Innenausbau – Teil 2/2 (Y 83–90) & Straßenschilder
-
-- **Y-Bereich:** 73 bis 90
-- **Blöcke:** 1.665
-- **Bauteile:** `w477104047_innen`, `strassenschilder`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.610 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
-| Seelaterne | `sea_lantern` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
-| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
-| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
-| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1834,16 +414,56 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 10.13 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 3/3 (Y 87–94)
+
+- **Y-Bereich:** 87 bis 94
+- **Blöcke:** 1.764
+- **Bauteile:** `w487162477_innen`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Terrakotta | `terracotta` | 1.709 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Seelaterne | `sea_lantern` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+
+**Beschreibung**
+
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+
+**Tipp**
+
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+
+**Achtung**
+
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+
+**Fakt**
+
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.

@@ -1,0 +1,57 @@
+{
+  "module": 4,
+  "title": "Campanile",
+  "subtitle": "Bautüte 4: die Torre dei Fifanti",
+  "icon": "🔔",
+  "parts": {
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Im Inneren steigt eine Wendeltreppe aus Treppenblöcken in einem Schacht von 5 mal 5 Blöcken bis zum Boden der Glockenstube, mit Podesten in den Ecken und mindestens drei Blöcken Luft über jeder Stufe.",
+      "tip": "Beginne am Turmfuß neben der Tür aus dem Chor.",
+      "caution": "Kern und Stufen dürfen nicht freigeräumt werden, sonst fehlt den Stufen der Halt.",
+      "fact": "Die Torre dei Fifanti stammt aus dem 13. Jahrhundert und wurde zum Glockenturm von Santa Felicita umgearbeitet (it.wikipedia)."
+    },
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der quadratische Schaft aus Mauerwerk steht mit zwei Blöcken dicken Wänden hinter der Cappella maggiore. Im Chor führt eine Tür von 3 Blöcken Breite in den Turm, der Treppenfuß liegt gleich dahinter.",
+      "tip": "Ein Gesimsband aus Glattem Stein sitzt unter der Glockenstube.",
+      "caution": "Lass die Tür vom Chor frei.",
+      "fact": "Das Mauerwerk zeigt sichtbare Bruchsteinlagen, Gerüstlöcher und einige Schießscharten (it.wikipedia)."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Die Stube besitzt auf jeder Seite zwei hohe, schmale Rundbogenöffnungen (Monofore). Die untere Hälfte der Öffnungen ist mit Ziegeln zu einer Brüstung gefüllt.",
+      "tip": "Die Öffnungen bleiben unverglast, damit der Klang hinausdringt.",
+      "caution": "Den Boden der Stube mit Holz belegen, die Öffnungen als Luft lassen.",
+      "fact": "Die Stube hat laut it.wikipedia an jeder Seite zwei Monofore; die Höhe von etwa 21 Metern ist eine Annahme des Modells (OSM nennt keine Höhe)."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "In der Stube hängen vier Glocken aus Kupferblöcken an einem hölzernen Joch.",
+      "tip": "Die Glocken hängen vier Lagen über dem Stubenboden.",
+      "caution": "Anzahl und Größe sind nicht belegt.",
+      "fact": "Die genaue Zahl der Glocken von Santa Felicita ist in den geprüften Quellen nicht genannt."
+    },
+    "glockenjoch": {
+      "title": "Glockenjoch",
+      "description": "Ein umlaufender Holzbalken in der Innenlage der Stube trägt die Glocken und ist an den Wänden verankert.",
+      "tip": "Der Balken liegt drei Lagen über den Glocken-Unterkanten.",
+      "caution": "Seine Oberseite ist nicht begehbar.",
+      "fact": "Das Joch ist ein vereinfachtes Bauteil und nicht nach einem Vorbild gebaut."
+    },
+    "campanile_spitze": {
+      "title": "Pyramidendach",
+      "description": "Über der Stube schließt ein niedriges, vierseitiges Pyramidendach aus Ziegeln den Turm ab. Die Spitze ist aus Kupfer.",
+      "tip": "Jede Lage rückt einen Block nach innen.",
+      "caution": "Das Dach ist innen hohl und nicht begehbar.",
+      "fact": "Der Turm trägt ein flaches Pyramidendach mit sichtbaren Eisenankern darunter (it.wikipedia)."
+    },
+    "campanile_licht": {
+      "title": "Turmlicht",
+      "description": "In der inneren Mauerschale sitzen alle acht Lagen Seelaternen, in der Stube vier weitere in den Ecken.",
+      "tip": "So bleibt der Aufstieg hell.",
+      "caution": "Nur Seelaternen verwenden.",
+      "fact": "Der Abstand von höchstens zwölf Blöcken folgt dem Standard der Begehbarkeit."
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Räume des Konvents",
+  "subtitle": "Kreuzgänge, Museumsräume, Zellen, Bibliothek",
+  "icon": "🖼️",
+  "parts": {
+    "kreuzgang_antonino": {
+      "title": "Chiostro di Sant’Antonino: Hof",
+      "description": "Der Hof des ersten Kreuzgangs hat einen Rasen mit Wegekreuz aus Kies, in der Mitte eine Plattform aus Pietra serena und eine Zypresse von 15 Blöcken Höhe.",
+      "tip": "Plattform und Wege zuerst, dann die Zypresse von unten nach oben.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Luft unter der Krone ist offene Hofluft.",
+      "fact": "Im Hof des Kreuzgangs steht ein Zypressenbaum (Vorgabe des Projektauftrags). Die Höhe ist Stufe C."
+    },
+    "lunetten": {
+      "title": "Lünetten des Kreuzgangs",
+      "description": "Über den Türen der Wand hinter der Loggia hängen halbrunde Bildfelder von 7 Blöcken Breite (3,5 m), mit Goldrand und farbigen Szenen; sie sind Fra Angelicos Lünetten nachempfunden.",
+      "tip": "Der Halbkreis hat seinen Mittelpunkt auf Lage 6,5, die Felder sitzen alle 7 Blöcke.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Kreuzgang hat 28 Lünetten von je 3,80 m Durchmesser (de.wikipedia, San Marco (Florenz))."
+    },
+    "kreuzigung_hof": {
+      "title": "Kreuzigung mit dem heiligen Dominikus",
+      "description": "Ein großes Wandbild von 14 mal 9 Blöcken zeigt in der Nordwestecke des Kreuzgangs die Kreuzigung mit dem Heiligen Dominikus: drei Kreuze, am Fuß kniende Heilige in Weiß und Schwarz.",
+      "tip": "Rahmen aus Gold, dann Himmel und Gestalten.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Eine große Kreuzigung mit dem heiligen Dominikus steht in der Nordwestecke des Kreuzgangs (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "ospizio": {
+      "title": "Sala dell’Ospizio (Fra Angelico)",
+      "description": "Im Pilgerhospiz des Eingangsflügels hängen Tafelbilder in Goldrahmen an der Wand und auf zwei Stellwänden; der Boden ist ein Schachbrett aus Marmor und Pietra serena.",
+      "tip": "Boden zuerst, dann die Wandfelder, zuletzt die Stellwände.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage des Saales im Grundriss ist Stufe C.",
+      "fact": "Hier werden Fra Angelicos Strozzi-Kreuzabnahme, der San-Pietro-Martire-Triptychon, der Annalena-Altar, das Jüngste Gericht (um 1431) und der San-Marco-Altar (ab 1439) gezeigt (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "foresteria": {
+      "title": "Foresteria (Fra Bartolomeo)",
+      "description": "Das Gästehaus zeigt Tafeln Fra Bartolomeos: ein Wandbild, eine Stellwand und ein Boden aus Terrakotta und Marmor.",
+      "tip": "Boden, Wandbild, Stellwand.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "In der Foresteria hängen Werke Fra Bartolomeos (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "kapitelsaal": {
+      "title": "Sala del Capitolo: Kreuzigung",
+      "description": "Im Kapitelsaal zeigt eine Wand ein Fresko von 22 mal 9 Blöcken: die Kreuzigung mit Heiligen (vollendet 1442). Davor steht ein hölzernes Kruzifix auf einem Podest, an den Wänden Sitzbänke.",
+      "tip": "Boden, dann Fresko, dann Kruzifix und Bänke.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage ist Stufe C.",
+      "fact": "Fra Angelicos Kreuzigung mit Heiligen ist 1442 vollendet; das hölzerne Kruzifix von Baccio da Montelupo stammt von 1496 (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "refettorio_piccolo": {
+      "title": "Refettorio piccolo: Abendmahl",
+      "description": "Das kleine Refektorium zeigt an der Stirnwand ein Abendmahl von 9 mal 9 Blöcken, Tafeln mit Bänken vor der Wand.",
+      "tip": "Wandfeld zuerst, dann die Tafeln.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Abendmahl Domenico Ghirlandaios entstand 1486 mit Hilfe seiner Werkstatt (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "refettorio_grande": {
+      "title": "Refettorio grande: Speisung der Dominikaner",
+      "description": "Der große Speisesaal hat Marmorboden, drei lange Tafeln mit Bänken und eine Lesekanzel; an der Nordwand zieht sich ein Fresko über zwei Felder: Mönche an einer Tafel, Engel im Himmel.",
+      "tip": "Boden, Wandfelder, Tafeln, Kanzel.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Fresko der Speisung der Dominikaner von Sogliani ist 1536 signiert und datiert (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "kreuzgang_domenico": {
+      "title": "Chiostro di San Domenico",
+      "description": "Der zweite, große Hof ist schlicht: Rasen, Wegekreuz und Ring aus Kies, in der Mitte ein Brunnen, vier Bäume.",
+      "tip": "Wege, Brunnen, Bäume.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Chiostro di San Domenico gehört weiter den Brüdern und ist nicht öffentlich (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "verkuendigung": {
+      "title": "Verkündigung (Fra Angelico)",
+      "description": "Am oberen Ende der Treppe, mittig vor dem Austritt, zeigt die Wand zur Piazza zwischen zwei Fenstern ein Wandbild von 6 mal 7 Blöcken: in einer Loggia mit Säule links der Engel Gabriel, rechts Maria in Blau, vor einem Garten.",
+      "tip": "Das Bild sitzt zwischen den Fensterachsen; der Rahmen aus Gold, dann Loggia, Figuren und Garten.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Bei mehr Platz im Treppenhaus stünde eine freie Bildwand 5 Blöcke hinter dem Austritt.",
+      "fact": "Direkt vor der Treppe zum Obergeschoss hängt Fra Angelicos Verkündigung (um 1442) (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "zellen_nord": {
+      "title": "Zellen im Nordflügel",
+      "description": "Zwei Reihen mit je acht Zellen liegen beidseits eines Ganges: jede Zelle etwa 5 mal 6 Blöcke mit Tür zum Gang, Bett (Decke und Kissen), Schreibpult und einem Freskofeld an der Rückwand.",
+      "tip": "Wände und Türen sind Rohbau (Modul 3); hier folgen Bett, Pult und Fresko.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Szenen der Felder wechseln zwischen Kreuzigung, Verkündigung, Auferstehung und anderen Motiven.",
+      "fact": "Jede Zelle des Dormitoriums trägt ein Fresko (um 1442 bis 1445) (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "zellen_west": {
+      "title": "Zellen im Westflügel",
+      "description": "Im Westflügel liegt ein zweiter Gang mit zweimal neun Zellen; die Rückwand der westlichen Reihe ist die Außenwand.",
+      "tip": "Wie die Zellen im Nordflügel.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Lage der Zellen ist Stufe C: Quellen nennen drei Gänge, aber keinen Grundriss.",
+      "fact": "Die Zellen liegen an drei Gängen; an zwei Gängen auf beiden Seiten (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "zellen_sued": {
+      "title": "Zellen im Südflügel",
+      "description": "Der dritte Gang folgt dem Eingangsflügel zur Piazza; die sieben Zellen liegen nur auf der Hofseite.",
+      "tip": "Wie die übrigen Zellen.",
+      "caution": "Vereinfacht, nicht nach Vorbild.",
+      "fact": "Der Gang zur Piazza hat nur auf der Nordseite Zellen (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "savonarola": {
+      "title": "Zellen Savonarolas",
+      "description": "Im Ostflügel liegen drei hintereinander verbundene Räume des Priors: ein Studierzimmer mit Schreibtisch und Bücherwand, eine Schlafzelle mit Bett und Betstuhl und ein Gedenkraum mit der Marmorfigur Savonarolas und einer Stellwand mit Tafelbildern.",
+      "tip": "Die Türen liegen auf einer Achse.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Figur ist eine Blockfigur.",
+      "fact": "Die Zellen Savonarolas bestehen aus drei verbundenen Zellen des Priors; ein Denkmal von Giovanni Duprè stammt von 1873 (Quelle: it.wikipedia, Museo nazionale di San Marco)."
+    },
+    "biblioteca": {
+      "title": "Biblioteca di Michelozzo",
+      "description": "Der Saal ist 90 Blöcke (45 m) lang und dreischiffig: zwei Reihen von je 15 schlanken Säulen aus Pietra serena mit Marmorkapitell tragen Gurtbögen; über dem Mittelschiff ein blaues Tonnengewölbe mit Goldsternen, über den Seitenschiffen Gewölbe mit Rippen. Pulte aus Eichenholz stehen an den Längswänden, im Mittelschiff ein Lesetisch.",
+      "tip": "Boden, Säulen, Bögen, Decke, Pulte.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Raumhöhe ist durch das Geschoss begrenzt; die Lage im Konvent ist Stufe C.",
+      "fact": "Die Bibliothek ist etwa 45 m lang und hat drei Schiffe mit zwei Reihen schlanker ionischer Säulen (it.wikipedia, Museo nazionale di San Marco); gebaut wurde sie 1441 bis 1444 (de.wikipedia, San Marco (Florenz))."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

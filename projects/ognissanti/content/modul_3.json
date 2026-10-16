@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Gewölbe und Dächer",
+  "subtitle": "Bautüte 3: Tonnen, Decken, Dächer",
+  "icon": "🏠",
+  "parts": {
+    "gewoelbe": {
+      "title": "Gewölbe und Decken",
+      "description": "Über Schiff und Presbyterium spannt sich eine flache Tonne bis Y 84, über dem linken Querhaus eine Tonne quer zum Schiff. Sakristei, Kapelle, Chor und die Nebenräume bekommen flache Decken zwischen Y 76 und Y 80.",
+      "tip": "Baue jede Ebene als dünne Schale, darüber bleibt Dachraum.",
+      "caution": "Die Schale muss Lage für Lage an die Nachbarn anschließen.",
+      "fact": "Im Presbyterium malte man 1770 eine „sotto in su“-Deckenmalerei (en.wikipedia)."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Das Schiff trägt ein Satteldach mit First bei Y 94, das Querhaus ein Dach quer dazu, die Konventstrakte Satteldächer mit First bei Y 89. Alle Dächer sind mit Terrakotta gedeckt.",
+      "tip": "Dach und Schildwand gehören zusammen.",
+      "caution": "Der Raum unter dem Dach bleibt leer und ist nicht begehbar.",
+      "fact": "Die Terrakottadeckung der Dächer ist vereinfacht."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein Dach höher liegt als sein Nachbar, bleibt eine Wand aus Ziegeln stehen, etwa zwischen Schiffsdach und den niedrigeren Konventsdächern.",
+      "tip": "Eine Lage unter dem Ziegel mauern, dann das Ziegelband.",
+      "caution": "Keine Lücken zwischen Dach und Wand.",
+      "fact": "Der Dachstuhl ist vereinfacht und nicht nach einem Bestandsplan gebaut."
+    }
+  }
+}

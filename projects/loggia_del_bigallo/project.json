@@ -1,0 +1,11 @@
+{
+  "id": "loggia_del_bigallo",
+  "title": "Loggia del Bigallo",
+  "type": "wahrzeichen",
+  "gebaeude": ["w166821304"],
+  "bodenY": 64,
+  "rahmen": { "ox": -292.5, "oz": 74, "thetaDeg": -4.14 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

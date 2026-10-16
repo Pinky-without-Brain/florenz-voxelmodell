@@ -1,0 +1,29 @@
+{
+  "module": 7,
+  "title": "Cenacolo und Konvent",
+  "subtitle": "Bautüte 7: Abendmahl, Sinopia, Fresken im Saal",
+  "icon": "🍽️",
+  "parts": {
+    "cenacolo_fresko": {
+      "title": "Ghirlandaios Abendmahl",
+      "description": "An der Langwand zur Kirche füllt das Cenacolo den Saal: 16 Blöcke breit und 8 hoch (Y 60 bis 67), Goldrahmen, oben der Hintergrund mit Bögen in Blau und Grün, in der Mitte der gedeckte Tisch mit der Reihe der Apostel in bunten Gewändern.",
+      "tip": "Zuerst den Goldrahmen, dann die Farbfelder von oben nach unten.",
+      "caution": "Werk: Domenico Ghirlandaio, Cenacolo di Ognissanti (1480), Fresko 400 × 810 cm = 8 × 16 Blöcke, im Refektorium zwischen den beiden Kreuzgängen (it.wikipedia, Stufe A für Maße, Jahr und Raum). Welche Wand genau, ist nicht belegt (Stufe C). Die Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Das Bild entstand 1480, als Ghirlandaio vor der Abreise nach Rom für die Sixtinische Kapelle stand (it.wikipedia)."
+    },
+    "cenacolo_sinopia": {
+      "title": "Sinopia",
+      "description": "An der linken Wand des Saals, an der Trennwand zum Treppenraum, hängt ein kleines Feld in Braun und Orange: die Vorzeichnung zum Abendmahl.",
+      "tip": "Es ist 6 Blöcke breit und 4 hoch.",
+      "caution": "Werk: Sinopia des Cenacolo an der linken Wand (it.wikipedia; Stufe A für den Ort). Das Muster ist erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die Sinopia ist die Vorzeichnung auf der Putzschicht unter dem Fresko."
+    },
+    "romei_fresken": {
+      "title": "Fresken von Romei",
+      "description": "Neben dem Abendmahl sitzen zwei Farbfelder von 4 Blöcken Breite in den Nischen: eines in Hellblau, Blau, Grün und Braun, das zweite mit einem weißen Streifen.",
+      "tip": "Sie sitzen auf derselben Wand wie das Abendmahl.",
+      "caution": "Werk: zwei Fresken des 17. Jahrhunderts von Giuseppe Romei mit Wasser-Themen („Sara am Brunnen Jakobs“ und „Mose lässt Wasser aus dem Felsen springen“) in den Nischen des Saals (it.wikipedia; Stufe A). Die Farben sind erfunden. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die beiden Themen drehen sich um Wasser."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "module": 7,
+  "title": "Kirche: Rohbau",
+  "subtitle": "Bautüte 7: Fundament, Boden, Fassade, Wände und Arkaden der Basilica",
+  "icon": "⛪",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter der Kirche füllst du bis Y 67 mit Bruchstein auf; im Umriss der Basilica ist das Gelände abgetragen.",
+      "tip": "Spalte für Spalte.",
+      "caution": "Der Umriss der Kirche stammt aus den OSM-Daten und grenzt an den Konvent.",
+      "fact": "Die Kirche besteht aus einem einzigen Schiff mit Seitenkapellen (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 68 liegt der Boden: im Mittelschiff ein Schachbrett aus Pietra serena und weißem Marmor, im Presbyterium ein Ring aus Rot, Weiß und Gold um die Kuppelmitte, in Chor und Apsis Ornamentmarmor, in den Kapellen Terrakotta.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Vereinfacht, nicht nach Vorbild. Die Muster sind frei gewählt.",
+      "fact": "Die Kirche steht an der Piazza San Marco (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "fassade": {
+      "title": "Fassade",
+      "description": "Die klassizistische Fassade ist zwei Blöcke dick aus hellem Putz mit Pilastern aus Pietra serena, Gesimsen auf Lage 15 und 30 und einem Giebel über dem Mittelschiff; das Portal ist 8 Blöcke breit und 9 bis 13 hoch.",
+      "tip": "Zuerst die Wand, dann Pilaster und Gesimse, dann der Giebel.",
+      "caution": "Lass das Portal frei. Vereinfacht, nicht nach Vorbild.",
+      "fact": "Die klassizistische Fassade stammt von 1777 bis 1778 (Fra Giovan Battista Paladini): drei Ordnungen mit Pilastern, ein einziges Portal, darüber ein Fenster (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "fassade_fenster": {
+      "title": "Fenster der Fassade",
+      "description": "Über dem Portal sitzt ein Rundbogenfenster aus Glas.",
+      "tip": "Die Fensteröffnung hat 5 Blöcke Breite.",
+      "caution": "Das Glas liegt durch beide Wandlagen.",
+      "fact": "Ein einzelnes Portal mit einem Fenster darüber gliedert die Fassade (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "seitenwaende": {
+      "title": "Seitenwände",
+      "description": "Die Außenwände der Kapellen, des Chors und der Apsis, zwei Blöcke dick, mit Rundbogenfenstern aus Glas; auf der rechten Seite öffnet eine Tür von 3 Blöcken Breite in den Kreuzgang des Konvents.",
+      "tip": "Die Wand Schicht für Schicht.",
+      "caution": "Die Tür zum Kreuzgang freilassen.",
+      "fact": "Die Kirche ist über den ersten Kreuzgang mit dem Konvent verbunden; die genaue Lage der Tür ist Stufe C."
+    },
+    "seitenmassen": {
+      "title": "Mauermassen neben dem Presbyterium",
+      "description": "Beiderseits des Presbyteriums und vor der Apsis füllt massives Mauerwerk den Raum zwischen Kuppelraum und Außenwand.",
+      "tip": "Die Massen reichen bis unter das Dach.",
+      "caution": "Hier gibt es keine Räume.",
+      "fact": "Massive Bereiche sind nach dem Standard Begehbar und ausgestaltet erlaubt."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "In jedem Joch der Kapellen sitzt ein Rundbogenfenster, im Chor und in der Apsis je ein hohes Fenster; alle mit Glas gefüllt.",
+      "tip": "Das Glas füllt beide Wandlagen.",
+      "caution": "Die Fenster sind Stufe C.",
+      "fact": "Die Seitenkapellen wurden ab 1579 von Giambologna umgebaut (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "arkaden": {
+      "title": "Kapellenöffnungen",
+      "description": "Zwischen dem Mittelschiff und den Kapellen stehen zwei Wandlinien mit Rundbögen von 11 Blöcken Breite; die Bogenrahmen bestehen aus Pietra serena.",
+      "tip": "Zuerst die Wandlinie, dann der Bogenrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Die Kirche hat links drei Altäre und die Cappella Salviati, rechts vier (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Kapellendächern setzt sich die Wand des Mittelschiffs bis unter das Dach fort.",
+      "tip": "Auf die Arkaden aufsetzen.",
+      "caution": "Das Dach des Mittelschiffs schließt oben an.",
+      "fact": "Das Mittelschiff ist 19 Blöcke (9,5 m) breit; die Höhe ist Stufe C."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "In jedem Joch beleuchtet ein hohes Fenster das Mittelschiff.",
+      "tip": "Das Fenster ist 3 Blöcke breit.",
+      "caution": "Die Fenster haben Glas.",
+      "fact": "Hohe Fenster über den Kapellendächern gehören zum klassischen Saalkirchenaufbau."
+    },
+    "kapellen_trennwaende": {
+      "title": "Kapellenwände",
+      "description": "Trennwände schließen die Kapellen gegeneinander ab; sie tragen später die Altarbilder.",
+      "tip": "Die Wände reichen bis unter das Kapellendach.",
+      "caution": "Die Joche sind alle 15,5 Blöcke gleich breit.",
+      "fact": "Die Zahl und Breite der Kapellen ist Stufe C; die Kirche hat viele Seitenkapellen (it.wikipedia, Basilica di San Marco (Firenze))."
+    },
+    "triumphbogen": {
+      "title": "Triumphbogen",
+      "description": "Zwischen Mittelschiff und Presbyterium steht eine Wand mit einem großen Rundbogen von 18 Blöcken Breite und 28 Blöcken Scheitelhöhe.",
+      "tip": "Der Bogenrand aus Pietra serena.",
+      "caution": "Der Bogen bleibt offen.",
+      "fact": "Das Presbyterium ist architektonisch vom Langhaus abgesetzt (it.wikipedia, Basilica di San Marco (Firenze))."
+    }
+  }
+}

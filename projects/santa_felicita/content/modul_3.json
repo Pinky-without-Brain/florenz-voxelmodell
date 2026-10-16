@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Gewölbe und Dächer",
+  "subtitle": "Bautüte 3: Tonne, Kuppel, Dächer",
+  "icon": "🏠",
+  "parts": {
+    "gewoelbe": {
+      "title": "Gewölbe und Decken",
+      "description": "Über dem Schiff schwingt sich eine Tonne bis Y 94, über der Vierung wölbt sich eine flache Kuppel ohne Tambour bis Y 97. Die Cappella maggiore bekommt ein Segelgewölbe, die Kapellen flache Decken, die Cappella Capponi eine flache Kuppel.",
+      "tip": "Baue jede Ebene als dünne Schale; darüber bleibt Dachraum.",
+      "caution": "Die Schale muss Lage für Lage an den Nachbarn anschließen.",
+      "fact": "Das Querhaus ist von einer Kuppel ohne Laterne und ohne Tambour überdeckt (it.wikipedia)."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Das Schiff trägt ein Satteldach mit First bei Y 102, die Kapellen und Querarme Pultdächer, die Vierung ein Walmdach. Alle Dächer sind mit Terrakotta gedeckt.",
+      "tip": "Dach und Schildwand gehören zusammen, setze beides in einem Zug.",
+      "caution": "Der Raum unter dem Dach bleibt leer und ist nicht begehbar.",
+      "fact": "Die Terrakottadeckung der Dächer ist vereinfacht."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo ein Dach höher liegt als sein Nachbar, bleibt eine Wand aus Ziegeln stehen, so etwa zwischen Schiffsdach und Kapellendächern.",
+      "tip": "Eine Lage unter dem Ziegel mauern, dann das Ziegelband.",
+      "caution": "Keine Lücken zwischen Dach und Wand.",
+      "fact": "Der Dachstuhl ist vereinfacht und nicht nach einem Bestandsplan gebaut."
+    }
+  }
+}

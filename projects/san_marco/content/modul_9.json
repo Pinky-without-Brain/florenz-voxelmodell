@@ -1,0 +1,57 @@
+{
+  "module": 9,
+  "title": "Campanile",
+  "subtitle": "Bautüte 9: der Glockenturm von Baccio d’Agnolo",
+  "icon": "🔔",
+  "parts": {
+    "campanile_schaft": {
+      "title": "Turmschaft",
+      "description": "Der Turm steht 11 mal 11 Blöcke groß an der Ostseite des Chors. Seine Wände sind zwei Blöcke dick aus Mauerwerk, unten mit einem Sockel aus Pietra forte und in Bändern aus Pietra serena gegliedert; schmale Fensterschlitze sitzen alle 18 Lagen. Aus dem Chor führt eine Tür, drei Blöcke breit und vier hoch, durch die Westwand in den Turm.",
+      "tip": "Der Schaft reicht bis Lage 49; die Tür liegt in der Westwand.",
+      "caution": "Lass Tür und Fensterschlitze frei. Lage und Größe des Turms sind Annahmen (Stufe C): OSM gibt ein Teilgebäude von 74 Zellen an der Ostseite des Presbyteriums.",
+      "fact": "Der Campanile entstand 1512 nach einem Entwurf von Baccio d’Agnolo (it.wikipedia, Basilica di San Marco (Firenze)). Die Höhe von 35 Metern ist nicht belegt (Stufe C). Vereinfacht, nicht nach Vorbild."
+    },
+    "campanile_treppe": {
+      "title": "Wendeltreppe",
+      "description": "Innen windet sich eine Wendeltreppe aus Treppenblöcken um einen Kern bis zum Boden der Glockenstube auf Lage 50; in den Ecken liegen Podeste. Über allen Stufen und Podesten bleiben drei Blöcke Luft.",
+      "tip": "Die Treppe dreht im Uhrzeigersinn nach oben.",
+      "caution": "Der Kern darf nicht durchbrochen werden.",
+      "fact": "Die Wendeltreppe ist eine Annahme; Quellen beschreiben das Innere des Turms nicht (Stufe C)."
+    },
+    "glockenstube": {
+      "title": "Glockenstube",
+      "description": "Die Stube liegt auf Lage 50 bis 60: auf jeder Seite eine Rundbogenöffnung von 4 Blöcken Breite, der Boden aus Eichenholz, oben ein Gesims.",
+      "tip": "Die Öffnungen auf allen vier Seiten.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Der Turm hat eine Glockenstube mit Schallöffnungen (Stufe C)."
+    },
+    "glockenjoch": {
+      "title": "Glockenjoch",
+      "description": "Ein umlaufender Balken aus Eichenholz in der Innenlage der Stube trägt die Glocken.",
+      "tip": "Die Balken liegen an den Mauern auf.",
+      "caution": "Die Oberseite ist unzugänglich.",
+      "fact": "Das Joch ist eine Vereinfachung."
+    },
+    "glocken": {
+      "title": "Glocken",
+      "description": "Vier Glocken aus Bronze hängen unter dem Joch, jede 2 mal 2 Blöcke groß, mit 4 Blöcken Platz darunter.",
+      "tip": "Die Unterkante liegt 4 Lagen über dem Stubenboden.",
+      "caution": "Nicht in die Gehfläche bauen.",
+      "fact": "Die Zahl der Glocken ist Stufe C."
+    },
+    "campanile_spitze": {
+      "title": "Turmspitze",
+      "description": "Eine gestufte Pyramide aus Ziegeln schließt den Turm ab, an der Spitze ein Block Bronze; der Hohlraum darunter ist unzugänglich.",
+      "tip": "Ring für Ring nach innen.",
+      "caution": "Die Spitze ist nicht begehbar.",
+      "fact": "Der Abschluss ist eine Vereinfachung."
+    },
+    "campanile_licht": {
+      "title": "Licht im Turm",
+      "description": "Seelaternen in der inneren Mauerschale alle 8 Lagen und in den Ecken der Glockenstube.",
+      "tip": "Sie ersetzen Wandblöcke.",
+      "caution": "Nicht auf die Stufen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

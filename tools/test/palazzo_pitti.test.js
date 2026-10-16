@@ -56,3 +56,23 @@ test('Palazzo Pitti: R13 ohne unerreichbare Komponenten, R14 dicht', () => {
   for (const e of laufe(ctx, 'r13').einheiten) assert.equal(e.komponenten.filter((k) => !k.unzugaenglich).length, 0);
   for (const e of laufe(ctx, 'r14').einheiten) assert.equal(e.cluster.length, 0);
 });
+
+// W5b: Portikus von Santa Felicita unter dem Gang (gemeinsame Geometrie projects/santa_felicita/model/_portikus.js)
+test('Palazzo Pitti: Portikus unter dem Gang offen (arkade), Balkonfenster verglast', () => {
+  const PO = require('../../projects/santa_felicita/model/_portikus.js');
+  let offen = 0, pfeiler = 0, pflaster = 0, fenster = 0;
+  const arkade = new Set();
+  for (const o of world.oeffnungen) if (o.art === 'arkade') for (const k of o.keys) arkade.add(k);
+  const { packKey } = require('../geom/grid.js');
+  for (const c of require('../../projects/palazzo_pitti/model/m9_korridor.js').ZK) {
+    const l = PO.lokal(c.x, c.z);
+    if (!l) continue;
+    for (let y = c.gt + 1; y <= c.yf - 2; y++) {
+      if (PO.offen(c.x, y, c.z)) { assert.ok(!grid.has(c.x, y, c.z), 'Joch offen'); assert.ok(arkade.has(packKey(c.x, y, c.z)), 'als arkade deklariert'); offen++; }
+      else if (y > PO.Y(0)) { assert.ok(grid.has(c.x, y, c.z) || arkade.has(packKey(c.x, y, c.z)), 'Pfeiler und Bogenzwickel massiv (oder Luft über der Straße)'); if (grid.has(c.x, y, c.z)) pfeiler++; }
+    }
+    if (PO.pflaster(c.x, c.z) && grid.has(c.x, PO.Y(0), c.z)) pflaster++;   // Straßenzellen der Piazza bekommen kein Pflaster (Stadtgrund)
+    for (let y = PO.FENSTER.y0; y <= PO.FENSTER.y1; y++) if (PO.balkonFenster(c.x, y, c.z) && grid.has(c.x, y, c.z)) fenster++;
+  }
+  assert.ok(offen > 500 && pfeiler > 300 && pflaster > 100 && fenster > 50, [offen, pfeiler, pflaster, fenster].join(','));
+});

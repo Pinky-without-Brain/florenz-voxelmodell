@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden auf Y 66",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Das Gelände steigt zur Chorseite hin an. Im Umriss der Kirche trägst du den Hang bis Y 65 ab, nur an wenigen Stellen füllst du mit Bruchstein auf.",
+      "tip": "Vor der Fassade liegt der Platz schon bei Y 65, dort bleibt nichts zu tun.",
+      "caution": "Bleibe unter Y 66, damit der Boden bündig mit dem Portikus abschließt.",
+      "fact": "Die Kirche gilt als eine der ältesten von Florenz: Ein erster Bau stammt aus dem späten 4. oder frühen 5. Jahrhundert (en.wikipedia)."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 66 legst du den Boden. Im Schiff und in der Vierung wechseln Felder aus Glattem Stein und weißem Quarz im Dreierraster, in den Kapellen und Querarmen liegt rosa Terrakotta, in der Cappella maggiore weißer Marmor, im Turm Bruchstein.",
+      "tip": "Die Lichtfelder setzt erst Bautüte 5, lass die Zellen vorerst frei.",
+      "caution": "Der Boden muss auch unter allen Wänden durchgehen.",
+      "fact": "Der Bodenbelag ist vereinfacht und gibt keinen historischen Plan wieder."
+    }
+  }
+}

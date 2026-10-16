@@ -1,0 +1,15 @@
+{
+  "module": 0,
+  "title": "Boden",
+  "subtitle": "Bautüte 0: der Boden von Halle und Loggia",
+  "icon": "🪨",
+  "parts": {
+    "boden": {
+      "title": "Boden des Erdgeschosses",
+      "description": "Du legst auf Y 64 den Boden über den ganzen Grundriss: Pflaster in der Eingangshalle, in der Loggia ein Schachbrett aus Marmor und Pietra serena mit roten Feldern.",
+      "tip": "Fange an der Piazza an und arbeite nach hinten.",
+      "caution": "Der Grundriss ist leicht gedreht (4°); die Kanten bilden eine Treppenlinie.",
+      "fact": "Der Umriss stammt aus OpenStreetMap (Way 166821304); der Boden ist frei entworfen (vereinfacht, nicht nach Vorbild)."
+    }
+  }
+}
