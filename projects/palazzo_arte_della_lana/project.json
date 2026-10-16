@@ -1,0 +1,11 @@
+{
+  "id": "palazzo_arte_della_lana",
+  "title": "Palazzo dell'Arte della Lana",
+  "type": "wahrzeichen",
+  "gebaeude": ["w95537272"],
+  "bodenY": 66,
+  "rahmen": { "ox": -387, "oz": 516.5, "thetaDeg": -5.5 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

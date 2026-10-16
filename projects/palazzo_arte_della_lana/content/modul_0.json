@@ -1,0 +1,29 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Treppe",
+  "subtitle": "Bautüte 0: Boden, Fundament und Wendeltreppe",
+  "icon": "🪨",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände unter dem Erdgeschoss liegt, füllst du es mit Bruchstein auf; der Umriss ist ein Block von rund 40 × 50 Blöcken (20 × 25 m), um 5,5° gedreht.",
+      "tip": "Beginne an der Westkante zur Via Calimala.",
+      "caution": "Der Umriss ist ein Schachbrett aus Treppenstufen, weil er gedreht ist.",
+      "fact": "Umriss: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272)."
+    },
+    "boden": {
+      "title": "Boden des Erdgeschosses",
+      "description": "Du legst auf Y 66 den Boden: Terrakotta und weißer Marmor im Schachbrett.",
+      "tip": "Die Muster sind frei entworfen.",
+      "caution": "Der Boden endet an der Außenkante des Umrisses.",
+      "fact": "Vereinfacht, nicht nach Vorbild (Stufe C)."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra-serena-Treppenblöcken führt in der Westhalle durch alle fünf Geschosse; über jeder Stufe bleiben 3 Blöcke Luft.",
+      "tip": "Baue die Treppe vor den Böden, damit die Löcher frei bleiben.",
+      "caution": "Die Treppe ist frei entworfen: Die Quellen erwähnen einen neomittelalterlichen Treppenaufgang im ersten Stock, aber keine Maße.",
+      "fact": "Treppenaufgang mit bemalten Dachstühlen im ersten Stock: it.wikipedia „Palazzo dell’Arte della Lana“; Umriss aus OpenStreetMap (Way 95537272)."
+    }
+  }
+}
