@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 52.546 |
+| Blöcke | 52.352 |
 | Bauschritte | 29 |
 | Y-Bereich | 80 bis 91 |
 | X-Ausdehnung | 242 bis 473 (232 Blöcke) |
 | Z-Ausdehnung | -1362 bis -1095 (268 Blöcke) |
-| Kleinster Schritt | 1.391 Blöcke (Schritt 3.22) |
-| Mittlerer Schritt | 1.812 Blöcke |
+| Kleinster Schritt | 1.352 Blöcke (Schritt 3.22) |
+| Mittlerer Schritt | 1.805 Blöcke |
 | Größter Schritt | 2.052 Blöcke (Schritt 3.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 36.133 | 68,8 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8.216 | 15,6 % |
-| Rosa Keramik | `pink_terracotta` | 8.197 | 15,6 % |
+| Weißer Beton | `white_concrete` | 35.938 | 68,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8.215 | 15,7 % |
+| Rosa Keramik | `pink_terracotta` | 8.199 | 15,7 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `geschossboeden` | Boden des Dormitoriums | 16.413 | 3.1–3.8 |
+| 1 | `geschossboeden` | Boden des Dormitoriums | 16.414 | 3.1–3.8 |
 | 2 | `decke` | Oberste Decke | 18.997 | 3.9–3.18 |
 | 3 | `innenwaende_og` | Innenwand der Obergeschosse | 1.836 | 3.19 |
-| 4 | `trennwaende_og` | Zellenwände und Trennwände | 15.300 | 3.20–3.29 |
+| 4 | `trennwaende_og` | Zellenwände und Trennwände | 15.105 | 3.20–3.29 |
 
 ## Bauschritte
 
@@ -68,15 +68,15 @@ Der Boden liegt auf Wänden und Arkaden auf.
 ### Schritt 3.2 – Boden des Dormitoriums – Teil 2/8 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 2.051
+- **Blöcke:** 2.052
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.027 |
-| Rosa Keramik | `pink_terracotta` | 1.024 |
+| Rosa Keramik | `pink_terracotta` | 1.027 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.025 |
 
 **Beschreibung**
 
@@ -97,7 +97,7 @@ Der Boden liegt auf Wänden und Arkaden auf.
 ### Schritt 3.3 – Boden des Dormitoriums – Teil 3/8 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 2.052
+- **Blöcke:** 2.051
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
@@ -105,7 +105,7 @@ Der Boden liegt auf Wänden und Arkaden auf.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 1.028 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.024 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.023 |
 
 **Beschreibung**
 
@@ -133,8 +133,8 @@ Der Boden liegt auf Wänden und Arkaden auf.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.027 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.025 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.028 |
+| Rosa Keramik | `pink_terracotta` | 1.024 |
 
 **Beschreibung**
 
@@ -155,15 +155,15 @@ Der Boden liegt auf Wänden und Arkaden auf.
 ### Schritt 3.5 – Boden des Dormitoriums – Teil 5/8 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 2.051
+- **Blöcke:** 2.052
 - **Bauteile:** `geschossboeden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.027 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.024 |
+| Rosa Keramik | `pink_terracotta` | 1.029 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.023 |
 
 **Beschreibung**
 
@@ -579,14 +579,14 @@ Der Gang über der Loggia des Kreuzgangs erschließt das Dormitorium.
 ### Schritt 3.20 – Zellenwände und Trennwände – Teil 1/10 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
-- **Blöcke:** 1.398
+- **Blöcke:** 1.359
 - **Bauteile:** `trennwaende_og`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.398 |
+| Weißer Beton | `white_concrete` | 1.359 |
 
 **Beschreibung**
 
@@ -607,14 +607,14 @@ Das Dormitorium hat nach dem Museum 44 Zellen entlang von drei Gängen (Quelle: 
 ### Schritt 3.21 – Zellenwände und Trennwände – Teil 2/10 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.398
+- **Blöcke:** 1.359
 - **Bauteile:** `trennwaende_og`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.398 |
+| Weißer Beton | `white_concrete` | 1.359 |
 
 **Beschreibung**
 
@@ -635,14 +635,14 @@ Das Dormitorium hat nach dem Museum 44 Zellen entlang von drei Gängen (Quelle: 
 ### Schritt 3.22 – Zellenwände und Trennwände – Teil 3/10 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.391
+- **Blöcke:** 1.352
 - **Bauteile:** `trennwaende_og`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.391 |
+| Weißer Beton | `white_concrete` | 1.352 |
 
 **Beschreibung**
 
@@ -663,14 +663,14 @@ Das Dormitorium hat nach dem Museum 44 Zellen entlang von drei Gängen (Quelle: 
 ### Schritt 3.23 – Zellenwände und Trennwände – Teil 4/10 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.391
+- **Blöcke:** 1.352
 - **Bauteile:** `trennwaende_og`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.391 |
+| Weißer Beton | `white_concrete` | 1.352 |
 
 **Beschreibung**
 
@@ -691,14 +691,14 @@ Das Dormitorium hat nach dem Museum 44 Zellen entlang von drei Gängen (Quelle: 
 ### Schritt 3.24 – Zellenwände und Trennwände – Teil 5/10 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.391
+- **Blöcke:** 1.352
 - **Bauteile:** `trennwaende_og`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.391 |
+| Weißer Beton | `white_concrete` | 1.352 |
 
 **Beschreibung**
 

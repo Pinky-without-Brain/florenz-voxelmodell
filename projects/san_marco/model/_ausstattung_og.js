@@ -53,15 +53,30 @@ function savonarola(api, K, t, feld) {
 function verkuendigung(api, K, t) {
   const I = api.treppeInfo;
   if (!I) return;
-  const T = WZ.treppe, { Y, BASIS, set } = api;
+  const T = WZ.treppe, { Y, BASIS, set, hat, luft, key } = api;
   const [gx, gz] = T.DIR[I.g], [qx, qz] = T.DIR[T.RECHTS[I.g]];
-  const B = 11, H = 9, d = 5;
-  const cx = I.oben.x + gx * d, cz = I.oben.z + gz * d;
-  for (let k = 0; k < B; k++) for (let j = 0; j < H; j++) {
-    const typ = M.verkuendigung(k, j, B, H);
-    set(cx + qx * (k - 5), Y(BASIS[1] + 1 + j), cz + qz * (k - 5), typ, 'verkuendigung');
+  const H = 9;
+  // Die Bildwand steht quer zur Austrittsrichtung; Abstand und Breite so gewählt, dass sie ganz in den freien Raum passt (Boden darunter)
+  for (const B of [11, 9, 7, 5]) for (let d = 2; d <= 9; d++) {
+    const cx = I.oben.x + gx * d, cz = I.oben.z + gz * d;
+    let ok = true;
+    for (let k = -1; k <= B && ok; k++) {
+      const x = cx + qx * (k - Math.floor(B / 2)), z = cz + qz * (k - Math.floor(B / 2));
+      if (!hat(x, Y(BASIS[1]), z)) { ok = false; break; }
+      for (let j = 1; j <= H + 2 && ok; j++) if (hat(x, Y(BASIS[1] + j), z) || luft.has(key(x, Y(BASIS[1] + j), z))) ok = false;
+    }
+    if (!ok) continue;
+    for (let k = 0; k < B; k++) for (let j = 0; j < H; j++) set(cx + qx * (k - Math.floor(B / 2)), Y(BASIS[1] + 1 + j), cz + qz * (k - Math.floor(B / 2)), M.verkuendigung(k, j, B, H), 'verkuendigung');
+    return true;
   }
-  for (let k = 0; k < B; k++) set(cx + qx * (k - 5), Y(BASIS[1] + 1), cz + qz * (k - 5), t.serena, 'verkuendigung');   // Sockelleiste
+  return false;
+}
+
+/** Fallback: Wandfresko zwischen zwei Fenstern der Südwand (Piazza), mittig vor dem Treppenaustritt. */
+function verkuendigungWand(api, K, t, feld) {
+  const I = api.treppeInfo, l = K.R.toLocal(I.oben.x, I.oben.z);
+  const raster = 9, mitte = Math.round((l.w - 4.5) / raster) * raster + 4.5 + raster / 2;          // zwischen zwei Fensterachsen (Raster 9, Achsen bei 4,5 + 9k)
+  feld(K, 'verkuendigung', 1, { u0: 0, u1: 3.6, w0: mitte - 3.3, w1: mitte + 3.3 }, 'w', mitte - 3, 6, 7, 2, M.verkuendigung);
 }
 
 function bibliothek(api, K, t, feld) {
@@ -120,7 +135,7 @@ function bibliothek(api, K, t, feld) {
 function ausstattenOG(api, K, t, feld) {
   zellenBloecke(api, K, t, feld);
   savonarola(api, K, t, feld);
-  verkuendigung(api, K, t);
+  if (!verkuendigung(api, K, t)) verkuendigungWand(api, K, t, feld);
   bibliothek(api, K, t, feld);
 }
 

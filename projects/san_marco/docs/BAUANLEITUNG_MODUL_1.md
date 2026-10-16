@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 71.333 |
+| Blöcke | 71.270 |
 | Bauschritte | 49 |
 | Y-Bereich | 69 bis 91 |
 | X-Ausdehnung | 238 bis 477 (240 Blöcke) |
 | Z-Ausdehnung | -1366 bis -1091 (276 Blöcke) |
 | Kleinster Schritt | 1.192 Blöcke (Schritt 1.45) |
-| Mittlerer Schritt | 1.456 Blöcke |
+| Mittlerer Schritt | 1.454 Blöcke |
 | Größter Schritt | 1.588 Blöcke (Schritt 1.21) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 34.636 | 48,6 % |
-| Endsteinziegel | `end_stone_bricks` | 26.347 | 36,9 % |
+| Weißer Beton | `white_concrete` | 34.573 | 48,5 % |
+| Endsteinziegel | `end_stone_bricks` | 26.347 | 37,0 % |
 | Glatter Stein | `smooth_stone` | 4.815 | 6,8 % |
 | Polierter Andesit | `polished_andesite` | 1.580 | 2,2 % |
 | Gelbes Buntglas | `yellow_stained_glass` | 709 | 1,0 % |
@@ -36,7 +36,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 61.036 | 1.1–1.42 |
+| 1 | `aussenwand` | Außenwände | 60.973 | 1.1–1.42 |
 | 2 | `fenster` | Fenster | 3.955 | 1.43–1.45 |
 | 3 | `kranzgesims` | Kranzgesims | 6.342 | 1.46–1.49 |
 
@@ -799,7 +799,7 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.27 – Außenwände – Teil 27/42 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.527
+- **Blöcke:** 1.518
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
@@ -807,7 +807,7 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 815 |
-| Weißer Beton | `white_concrete` | 712 |
+| Weißer Beton | `white_concrete` | 703 |
 
 **Beschreibung**
 
@@ -857,14 +857,14 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.29 – Außenwände – Teil 29/42 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.370
+- **Blöcke:** 1.361
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 712 |
+| Weißer Beton | `white_concrete` | 703 |
 | Endsteinziegel | `end_stone_bricks` | 658 |
 
 **Beschreibung**
@@ -915,14 +915,14 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.31 – Außenwände – Teil 31/42 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.370
+- **Blöcke:** 1.361
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 712 |
+| Weißer Beton | `white_concrete` | 703 |
 | Endsteinziegel | `end_stone_bricks` | 658 |
 
 **Beschreibung**
@@ -973,14 +973,14 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.33 – Außenwände – Teil 33/42 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.370
+- **Blöcke:** 1.361
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 712 |
+| Weißer Beton | `white_concrete` | 703 |
 | Endsteinziegel | `end_stone_bricks` | 658 |
 
 **Beschreibung**
@@ -1031,14 +1031,14 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.35 – Außenwände – Teil 35/42 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
-- **Blöcke:** 1.370
+- **Blöcke:** 1.361
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 712 |
+| Weißer Beton | `white_concrete` | 703 |
 | Endsteinziegel | `end_stone_bricks` | 658 |
 
 **Beschreibung**
@@ -1089,15 +1089,15 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.37 – Außenwände – Teil 37/42 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.424
+- **Blöcke:** 1.426
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 781 |
-| Endsteinziegel | `end_stone_bricks` | 643 |
+| Weißer Beton | `white_concrete` | 777 |
+| Endsteinziegel | `end_stone_bricks` | 649 |
 
 **Beschreibung**
 
@@ -1118,15 +1118,15 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.38 – Außenwände – Teil 38/42 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.431
+- **Blöcke:** 1.420
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 785 |
-| Endsteinziegel | `end_stone_bricks` | 646 |
+| Weißer Beton | `white_concrete` | 780 |
+| Endsteinziegel | `end_stone_bricks` | 640 |
 
 **Beschreibung**
 
@@ -1147,15 +1147,15 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.39 – Außenwände – Teil 39/42 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.424
+- **Blöcke:** 1.426
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 781 |
-| Endsteinziegel | `end_stone_bricks` | 643 |
+| Weißer Beton | `white_concrete` | 777 |
+| Endsteinziegel | `end_stone_bricks` | 649 |
 
 **Beschreibung**
 
@@ -1176,15 +1176,15 @@ Der Konvent ist ein schlichter Bau aus verputztem Mauerwerk; die Kirche steht da
 ### Schritt 1.40 – Außenwände – Teil 40/42 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.431
+- **Blöcke:** 1.420
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 785 |
-| Endsteinziegel | `end_stone_bricks` | 646 |
+| Weißer Beton | `white_concrete` | 780 |
+| Endsteinziegel | `end_stone_bricks` | 640 |
 
 **Beschreibung**
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.061 |
+| Blöcke | 14.052 |
 | Bauschritte | 16 |
 | Y-Bereich | 68 bis 90 |
 | X-Ausdehnung | 255 bis 444 (190 Blöcke) |
 | Z-Ausdehnung | -1323 bis -1096 (228 Blöcke) |
 | Kleinster Schritt | 109 Blöcke (Schritt 6.16) |
-| Mittlerer Schritt | 879 Blöcke |
+| Mittlerer Schritt | 878 Blöcke |
 | Größter Schritt | 2.051 Blöcke (Schritt 6.15) |
 
 ## Gesamt-Stückliste
@@ -23,21 +23,21 @@
 | :--- | :--- | ---: | ---: |
 | Glatter Stein | `smooth_stone` | 2.208 | 15,7 % |
 | Terrakotta | `terracotta` | 1.991 | 14,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 1.782 | 12,7 % |
-| Goldblock | `gold_block` | 1.556 | 11,1 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.779 | 12,7 % |
+| Goldblock | `gold_block` | 1.571 | 11,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1.113 | 7,9 % |
 | Weißer Beton | `white_concrete` | 1.064 | 7,6 % |
 | Rosa Keramik | `pink_terracotta` | 1.051 | 7,5 % |
 | Kies | `gravel` | 628 | 4,5 % |
-| Hellblaue Keramik | `light_blue_terracotta` | 534 | 3,8 % |
-| Blaue Keramik | `blue_terracotta` | 403 | 2,9 % |
+| Hellblaue Keramik | `light_blue_terracotta` | 523 | 3,7 % |
+| Blaue Keramik | `blue_terracotta` | 399 | 2,8 % |
 | Eichenlaub | `oak_leaves` | 293 | 2,1 % |
-| Braune Keramik | `brown_terracotta` | 277 | 2,0 % |
-| Rote Keramik | `red_terracotta` | 269 | 1,9 % |
-| Gelbe Keramik | `yellow_terracotta` | 229 | 1,6 % |
-| Grüne Keramik | `green_terracotta` | 225 | 1,6 % |
+| Braune Keramik | `brown_terracotta` | 275 | 2,0 % |
+| Rote Keramik | `red_terracotta` | 268 | 1,9 % |
+| Gelbe Keramik | `yellow_terracotta` | 227 | 1,6 % |
+| Grüne Keramik | `green_terracotta` | 226 | 1,6 % |
 | Seelaterne | `sea_lantern` | 109 | 0,8 % |
-| Orange Keramik | `orange_terracotta` | 87 | 0,6 % |
+| Orange Keramik | `orange_terracotta` | 85 | 0,6 % |
 | Gemeißelter Quarzblock | `chiseled_quartz` | 60 | 0,4 % |
 | Schwarzer Beton | `black_concrete` | 44 | 0,3 % |
 | Wasser | `water` | 34 | 0,2 % |
@@ -66,7 +66,7 @@
 | 7 | `refettorio_piccolo` | Refettorio piccolo: Abendmahl | 418 | 6.6 |
 | 8 | `refettorio_grande` | Refettorio grande: Speisung der Dominikaner | 3.221 | 6.7–6.8 |
 | 9 | `kreuzgang_domenico` | Chiostro di San Domenico | 731 | 6.9 |
-| 10 | `verkuendigung` | Verkündigung (Fra Angelico) | 72 | 6.10 |
+| 10 | `verkuendigung` | Verkündigung (Fra Angelico) | 63 | 6.10 |
 | 11 | `zellen_nord` | Zellen im Nordflügel | 275 | 6.10 |
 | 12 | `zellen_west` | Zellen im Westflügel | 516 | 6.11 |
 | 13 | `zellen_sued` | Zellen im Südflügel | 90 | 6.12 |
@@ -390,37 +390,37 @@ Der Chiostro di San Domenico gehört weiter den Brüdern und ist nicht öffentli
 
 ### Schritt 6.10 – Verkündigung (Fra Angelico) & Zellen im Nordflügel
 
-- **Y-Bereich:** 81 bis 89
-- **Blöcke:** 347
+- **Y-Bereich:** 81 bis 88
+- **Blöcke:** 338
 - **Bauteile:** `verkuendigung`, `zellen_nord`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Goldblock | `gold_block` | 144 |
-| Rote Keramik | `red_terracotta` | 60 |
-| Hellblaue Keramik | `light_blue_terracotta` | 35 |
+| Goldblock | `gold_block` | 159 |
+| Rote Keramik | `red_terracotta` | 59 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 30 |
-| Braune Keramik | `brown_terracotta` | 21 |
-| Gelbe Keramik | `yellow_terracotta` | 19 |
-| Blaue Keramik | `blue_terracotta` | 14 |
-| Glatter Quarzblock | `smooth_quartz` | 10 |
-| Grüne Keramik | `green_terracotta` | 9 |
-| Orange Keramik | `orange_terracotta` | 3 |
+| Hellblaue Keramik | `light_blue_terracotta` | 24 |
+| Braune Keramik | `brown_terracotta` | 19 |
+| Gelbe Keramik | `yellow_terracotta` | 17 |
+| Blaue Keramik | `blue_terracotta` | 10 |
+| Grüne Keramik | `green_terracotta` | 10 |
+| Glatter Quarzblock | `smooth_quartz` | 7 |
 | Weiße Keramik | `white_terracotta` | 2 |
+| Orange Keramik | `orange_terracotta` | 1 |
 
 **Beschreibung**
 
-Am oberen Ende der Treppe steht frei im Raum eine Bildwand von 11 mal 9 Blöcken: in einer Loggia mit Säule links der Engel Gabriel, rechts Maria in Blau, vor einem Garten. Zwei Reihen mit je acht Zellen liegen beidseits eines Ganges: jede Zelle etwa 5 mal 6 Blöcke mit Tür zum Gang, Bett (Decke und Kissen), Schreibpult und einem Freskofeld an der Rückwand.
+Am oberen Ende der Treppe, mittig vor dem Austritt, zeigt die Wand zur Piazza zwischen zwei Fenstern ein Wandbild von 6 mal 7 Blöcken: in einer Loggia mit Säule links der Engel Gabriel, rechts Maria in Blau, vor einem Garten. Zwei Reihen mit je acht Zellen liegen beidseits eines Ganges: jede Zelle etwa 5 mal 6 Blöcke mit Tür zum Gang, Bett (Decke und Kissen), Schreibpult und einem Freskofeld an der Rückwand.
 
 **Tipp**
 
-Die Wand steht fünf Blöcke hinter dem Austritt der Treppe, so dass man links und rechts vorbeigehen kann. Wände und Türen sind Rohbau (Modul 3); hier folgen Bett, Pult und Fresko.
+Das Bild sitzt zwischen den Fensterachsen; der Rahmen aus Gold, dann Loggia, Figuren und Garten. Wände und Türen sind Rohbau (Modul 3); hier folgen Bett, Pult und Fresko.
 
 **Achtung**
 
-Vereinfacht, nicht nach Vorbild. Das Original ist ein Wandfresko; die Bildwand ist eine Vereinfachung. Vereinfacht, nicht nach Vorbild. Die Szenen der Felder wechseln zwischen Kreuzigung, Verkündigung, Auferstehung und anderen Motiven.
+Vereinfacht, nicht nach Vorbild. Bei mehr Platz im Treppenhaus stünde eine freie Bildwand 5 Blöcke hinter dem Austritt. Vereinfacht, nicht nach Vorbild. Die Szenen der Felder wechseln zwischen Kreuzigung, Verkündigung, Auferstehung und anderen Motiven.
 
 **Fakt**
 

@@ -65,7 +65,7 @@ for (const b of BLOECKE) {
   for (const [reihe, S] of [['A', b.A], ['B', b.B]]) {
     if (!S) continue;
     const tueren = b.zellen.filter((z) => z.reihe === reihe).map((z) => z.tm);
-    WAENDE.push({ s: 1, achse: quer, v: S.v, von: b.t0 - 1, bis: b.t1 + 1, tueren, breite: 2.6, dicke: 2.2 });
+    WAENDE.push({ s: 1, achse: quer, v: S.v, von: b.t0 - 1, bis: b.t1 + 1, tueren, breite: 3, dicke: 2.2 });
     const lo = S.r[0] - 1, hi = S.r[1] + 1;
     for (let k = 1; k < b.n; k++) WAENDE.push({ s: 1, achse: b.ax, v: b.t0 + k * b.pitch, von: lo - 1.3, bis: hi + 1.3, tueren: [] });
   }

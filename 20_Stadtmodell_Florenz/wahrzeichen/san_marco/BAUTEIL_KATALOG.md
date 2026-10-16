@@ -47,7 +47,7 @@ Modul 6 (Konvent) und Modul 10 (Kirche). Alles **vereinfacht, nicht nach Vorbild
 | `refettorio_piccolo` | Refettorio piccolo | Ostflügel, u 59..75 | Inhalt B | Abendmahl Ghirlandaios 1486 (9 × 9), Tafeln; it.wikipedia Museo |
 | `refettorio_grande` | Refettorio grande | Nordflügel, u 76..103, w 41..102 | Inhalt B | Sogliani 1536 (zwei Felder), drei Tafeln, Lesekanzel; it.wikipedia Museo |
 | `kreuzgang_domenico` | Chiostro di San Domenico | Loch 3 (u 119..175, w 2..60) | B | schlicht: Rasen, Wege, Brunnen, vier Bäume; it.wikipedia Museo |
-| `verkuendigung` | Verkündigung | Treppenhalle, 5 Blöcke hinter dem Treppenaustritt | Inhalt B | freie Bildwand 11 × 9; um 1442, it.wikipedia Museo |
+| `verkuendigung` | Verkündigung | Treppenhalle, Südwand zwischen zwei Fenstern vor dem Treppenaustritt (Fallback: freie Bildwand hinter dem Austritt, wenn Platz ist) | Inhalt B | Feld 6 × 7; um 1442, it.wikipedia Museo |
 | `zellen_nord` / `zellen_west` / `zellen_sued` | Zellen der Mönche | Nordflügel (16), Westflügel (18), Südflügel (7) | Inhalt B | zusammen 41 Zellen, je Bett, Pult, Freskofeld; it.wikipedia Museo (44 Zellen an drei Gängen) |
 | `savonarola` | Zellen Savonarolas | Ostflügel OG, u 30..70 | Inhalt B | drei verbundene Räume des Priors, Marmorfigur, Stellwand; it.wikipedia Museo |
 | `biblioteca` | Biblioteca di Michelozzo | Nordflügel OG, u 181..204, w 10..100 | Inhalt A | 90 Blöcke lang, 30 Säulen, Gurtbögen, Pulte; it.wikipedia, de.wikipedia |
