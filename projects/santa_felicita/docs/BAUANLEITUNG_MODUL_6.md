@@ -110,7 +110,7 @@ Die Kapelle entwarf Filippo Brunelleschi für die Familie Barbadori (1419 bis 14
 
 **Beschreibung**
 
-Am Ende des rechten Querarms zeigt ein Farbfeld von 6 Blöcken Breite die Begegnung von Anna und Joachim. Gegenüber, am Ende des linken Querarms, steht ein Farbfeld in Blau, Hellblau, Gelb und Rot für die Himmelfahrt Mariens. An der Ostwand der quadratischen Hauptkapelle sitzt ein Altarbild (8 Blöcke breit, 7 hoch, Unterkante Y 71) in Goldrahmen, davor steht ein Altartisch aus weißem Marmor mit goldener Platte. Das Segelgewölbe der Cappella maggiore ist mit Farbfeldern in Hellblau, Blau, Gelb und Orange belegt, in der Mitte ein gelbes Feld. Über den Eingangskapellen, direkt hinter dem Balkonfenster, sitzt an der Eingangswand eine hölzerne Loge: eine Plattform 3 Blöcke tief und 14 breit auf Y 78, mit Brüstung und Konsolen. Das Fenster dahinter ist verglast.
+Am Ende des rechten Querarms zeigt ein Farbfeld von 6 Blöcken Breite die Begegnung von Anna und Joachim. Gegenüber, am Ende des linken Querarms, steht ein Farbfeld in Blau, Hellblau, Gelb und Rot für die Himmelfahrt Mariens. An der Ostwand der quadratischen Hauptkapelle sitzt ein Altarbild (8 Blöcke breit, 7 hoch, Unterkante Y 71) in Goldrahmen, davor steht ein Altartisch aus weißem Marmor mit goldener Platte. Das Segelgewölbe der Cappella maggiore ist mit Farbfeldern in Hellblau, Blau, Gelb und Orange belegt, in der Mitte ein gelbes Feld. Über den Eingangskapellen, direkt hinter dem Balkonfenster, sitzt an der Eingangswand eine hölzerne Loge: eine Plattform 3 Blöcke tief und 13 breit auf Y 78, mit Brüstung und Konsolen. Das Fenster dahinter ist verglast.
 
 **Tipp**
 
