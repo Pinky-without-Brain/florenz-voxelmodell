@@ -213,7 +213,7 @@ Nutzerbefund: Häuser zu tief, Fenster halb im Boden. Ursache: Quartiere hatten 
 - **Messung danach** (Scratch-Skript: Oberkante Stadtgrund in der Nachbarspalte minus Hausboden, nur Spalten mit Oberkante ≤ Gelände + 2, also ohne Mauern/Bauwerke):
   - Signoria (Kachel 98): 4.708 Randzellen; 0 → 3.388, +1 → 780 (zusammen 88,5 %), −1 → 415, ≥ +2 → 125.
   - Costa San Giorgio (Kachel 173, Steilhang): 1.080 Randzellen (996 Mauerspalten übersprungen); 0/+1 → 520 (48 %), −1…−3 → 317 (Sockel 1–3 Lagen sichtbar, talseitig), −4…−11 → 81, +2…+15 → 162 (Bergseite: Wand steckt im Hang). Ursache der Rest-Abweichung: ein Baukörper je Haus über das ganze Gefälle. Mögliche Verbesserung: große Hanggrundstücke terrassieren (zwei Böden je Haus).
-- **Tests:** veraltete Erwartungen angepasst (`city_haus` Hanglage, `city_innen` Eingang, `projects` Fallback, `wahrzeichen` Vorrang 39, `webdata` 0 geplante Wahrzeichen). Ergebnis des Gesamtlaufs siehe Commit-Nachricht „H1 fertig“.
+- **Tests:** veraltete Erwartungen angepasst (`city_haus` Hanglage, `city_innen` Eingang, `projects` Fallback, `wahrzeichen` Vorrang 39, `webdata` 0 geplante Wahrzeichen). Gesamtlauf `node --test "tools/test/**/*.test.js"`: **465 bestanden, 0 fehlgeschlagen, 2 übersprungen** (Laufzeit > 10 min – im Hintergrund ohne kurze Zeitgrenze starten).
 
 **Nächste Schritte für die lokale Sitzung (in dieser Reihenfolge):**
 1. Minecraft-Export (`node --max-old-space-size=6144 tools/minecraft/export.js --ziel build/minecraft/florenz_voxelmodell`), Schilder (H2) und Hausböden im Spiel stichprobenartig prüfen (Costa San Giorgio, Signoria).
