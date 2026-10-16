@@ -1,6 +1,6 @@
 <!-- GENERIERT von tools/emit/docs.js – nicht von Hand ändern -->
 
-# Bauanleitung Modul 142: Kachel 7/9 – Costa di San Giorgio
+# Bauanleitung Modul 142: Kachel 7/9 – grotta_buontalenti
 
 *Stadtgrund: Kachel 7/9, x -864..-545, z 1392..1711*
 
@@ -8,7 +8,7 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 85.338 |
+| Blöcke | 85.340 |
 | Bauschritte | 56 |
 | Y-Bereich | 63 bis 113 |
 | X-Ausdehnung | -864 bis -545 (320 Blöcke) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Polierter Tuffstein | `polished_tuff` | 29.968 | 35,1 % |
 | Grasblock | `grass_block` | 27.506 | 32,2 % |
-| Stein | `stone` | 19.813 | 23,2 % |
+| Stein | `stone` | 19.815 | 23,2 % |
 | Kies | `gravel` | 7.026 | 8,2 % |
 | Glatter Stein | `smooth_stone` | 964 | 1,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 32 | 0,0 % |
@@ -45,7 +45,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 19.354 | 142.1–142.11 |
+| 1 | `boeschung` | Böschung und Mantel | 19.356 | 142.1–142.11 |
 | 2 | `strassen_pflaster` | Straßenpflaster | 2.922 | 142.12–142.13 |
 | 3 | `gehwege` | Gehwege | 754 | 142.14 |
 | 4 | `stufen` | Treppenflächen | 267 | 142.15 |
@@ -144,14 +144,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 142.4 – Böschung und Mantel – Teil 4/11 (Y 75–77)
 
 - **Y-Bereich:** 75 bis 77
-- **Blöcke:** 1.899
+- **Blöcke:** 1.901
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.899 |
+| Stein | `stone` | 1.901 |
 
 **Beschreibung**
 

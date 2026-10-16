@@ -226,17 +226,25 @@ Nutzerbefund: Häuser zu tief, Fenster halb im Boden. Ursache: Quartiere hatten 
 - **Statistik:** `node tools/emit/statistik.js` (61 Projekte, 104,47 Mio Blöcke, Minecraft-Abschnitt aus `build/minecraft/export_ergebnis.json`); PDF lokal ohne Playwright über Edge: `msedge --headless=new --no-pdf-header-footer --print-to-pdf=<datei> file:///…/STATISTIK.html` (5 Seiten).
 - Stichprobe im Spiel (Schilder, Hausböden an Costa San Giorgio und Signoria) steht beim Nutzer aus.
 - Hinweis: Der lokale `main` im Hauptordner war auf dem Stand vom 13.10. (`fe33f6c`) und enthält zusätzlich einen lokalen Merge-Commit `d7538e8a` (doppelte W5-Infrastruktur aus dieser Sitzung, nie gepusht). Vor lokalen Builds im Hauptordner `main` auf `origin/main` setzen.
+- PR #4 (Arbeitszweig → `main`) am 16.10. gemergt; GitHub Pages zeigt seitdem den Stand mit Hausböden und Schildern.
+
+### V5 Verfeinerungen (lokale Sitzung 16.10.2026, Zweig `claude/verfeinerung-v5`) – **erledigt**
+Drei Pakete parallel (je ein Worktree), danach zusammengeführt; Details in `BEGEHBARKEIT.md` §10–§12 und den Katalogen.
+- **V5a Palazzi:** `tools/wahrzeichen/palazzo.js` kann jetzt Räume teilen (`cfg.raeume.waende`, Türen 3 × 5, Teile `trennwaende`/`trennwaende_og`) und ausstatten (`cfg.raeume.ausstatten(api)`, Kit `tools/wahrzeichen/palazzo_raum.js`); Licht je Raum. **Bestandsfehler behoben:** die zweite Lage der Hofwand hatte keine Arkaden/Türen, die Höfe waren vom Haus aus nicht erreichbar (R13 übersieht unüberdeckte Flächen). Ausgestaltet: Bargello (Freitreppe zum Verone aus Treppenblöcken, Michelangelo-Saal, Salone di Donatello, Cappella del Podestà, Wappen), Strozzi (Ausstellungssäle, Hof, Steinbank, Laternenhalter), Rucellai (Saalfolge, Kamin), Medici Riccardi (Cappella dei Magi, Galleria di Luca Giordano, Orpheus im Michelozzo-Hof, Garten), Innocenti (Ruota, zwei Kreuzgänge, Museumssäle). Blöcke: Bargello 155.885, Strozzi 145.000, Rucellai 72.696, Medici Riccardi 258.551, Innocenti 266.794. Offen: 2. OG nur geteilt, nicht ausgestattet.
+- **V5b Kirchen:** gemeinsamer Turmbauplan `tools/wahrzeichen/campanile.js`, Zusatzmasken aus Rechtecken im Projektrahmen (`masken.<name>.rechtecke`). **Campanile San Lorenzo** (Ruggieri 1740, 54 m, fünf Glocken, Wendeltreppe bis zur Glockenstube; Lage Stufe B/C neben der Sagrestia Nuova), **Glockengiebel der Santissima Annunziata** (campanile a vela, 5 Öffnungen, Zugang über einen Treppenturm – Zugang Stufe C), **Ausstattung der Badia** (Lippi-Tafel, Grabmäler Hugo und Giugni, Cantoria, Orgel, Hochaltar, Chorgestühl, Kassettendecke). Ein Campanile der **Carmine** ist in keiner geprüften Quelle belegt und wurde deshalb **nicht** gebaut.
+- **V5c:** **Matroneum im Baptisterium** (Emporenring in der Mauerstärke, Boden Y 89, Kolonnade mit Brüstung zum Raum, vier Wendeltreppen in den Diagonalflächen wegen R8-Symmetrie; Dom 910.236 Blöcke, R13/R14 0), **Bilderfelder im Corridoio Oltrarno** (Raster 8 zwischen den Fenstern), **neues Wahrzeichen `grotta_buontalenti`** (Fassade mit Tropfstein-Rustika, drei Kammern: Gefangene und Oculus, Paris und Helena, Venus im Becken; Maske 442 Zellen, Korridorzellen per `hauptGrenzen.abzugProjekte` abgezogen; aus `quartier_costa_san_giorgio` gelöst).
+- **Integration:** `node tools/city/besitz.js` für 13 geänderte Projekte (43 s, 61 Projekte im Raster), Stadtgrund neu (16,8 min, OK), `webindex.js` 62 Einträge, `--cross` über alle Projekte OK (333 s).
 
 ## 5. Nächste Schritte (Priorität)
 1. ~~Welle 2 Infrastruktur~~ (W5), ~~Ponte Vecchio~~ (W6), ~~Stadtgrund S0 + S1 Teil 1~~.
 2. ~~Quartiere (Phase E)~~ und ~~Stadtgrund Kern und Rand~~: alle Gebäude vergeben, alle 195 Kacheln aktiv (E4–E6). Die Stadtansicht lädt Module nach Nähe und ~~entlädt ferne~~ (H4).
-3. ~~Wahrzeichen Welle 3/4~~ (15.10. alle gebaut). Verfeinerungen möglich: Innenräume der Palazzi (heute offene Säle je Geschoss), Freitreppe im Bargello-Hof, Campanili ohne eigenes OSM-Gebäude (San Lorenzo, Carmine, Annunziata), eiserne Brüstung der Vespucci-Brücke.
-4. ~~Palazzo Pitti~~ (W7 erledigt). Offen als Kleinigkeit: Bilderfelder im Corridoio Oltrarno (Katalog §10 Teil 6), Grotta del Buontalenti (Welle 3).
+3. ~~Wahrzeichen Welle 3/4~~ (15.10. alle gebaut), ~~Innenräume der Palazzi, Bargello-Freitreppe, Campanili San Lorenzo/Annunziata~~ (V5). Offen: 2. OG der Palazzi ausstatten, eiserne Brüstung der Vespucci-Brücke (keine Gitter in der Palette).
+4. ~~Palazzo Pitti~~ (W7), ~~Bilderfelder im Corridoio Oltrarno, Grotta del Buontalenti~~ (V5c).
 5. ~~Statistikseite~~ `20_Stadtmodell_Florenz/STATISTIK.html` am 14.10. neu gemessen (handgepflegt; Zahlen aus Builds, Treppen/Lampen per Grid-Zählung). Minecraft-Abschnitt noch Stand 13.10. (kein `minecraft.local.json` in der Cloud-Umgebung).
 
 ## 6. Bekannte Punkte
 - 6 Quartierhäuser (schmal/schräg, Innenbreite < 4) ohne Obergeschossböden (siehe BEGEHBARKEIT §6).
-- Dom: Kuppelaufstieg bewusst weggelassen (Nutzerwunsch). Baptisterium hat im Modell keine Emporen (ein hoher Raum).
+- Dom: Kuppelaufstieg bewusst weggelassen (Nutzerwunsch). Baptisterium seit V5c mit Emporen (Matroneum).
 - `UEBERGABE_V2.md` nennt noch 909.019 Dom-Blöcke (historischer Stand V2).
 - Quartiere: R14 (Dichtheit) wird für Häuser nicht geprüft.
 - Ponte Vecchio: Modul 7 (Cellini-Brunnen) hat nur 127 Blöcke (R2-Warnung, ein Schritt).
