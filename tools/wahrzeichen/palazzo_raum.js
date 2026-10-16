@@ -23,7 +23,8 @@ function kit(api) {
   const { D, zellen, key, Y, BASIS, set, hat, ersetze, bodenTeile, WAND_TEILE } = api;
   const R = D.R;
   const alle = D.haupt.concat(D.hofZellen);
-  const imR = (c, r) => c.u >= r.u0 && c.u < r.u1 && c.w >= r.w0 && c.w < r.w1;
+  const EPS = 1e-6;
+  const imR = (c, r) => c.u >= r.u0 - EPS && c.u < r.u1 - EPS && c.w >= r.w0 - EPS && c.w < r.w1 - EPS;
   const lokal = (x, z) => (D.byKey.get(x + ',' + z) || R.toLocal(x, z));
   const yS = (s, k) => Y(BASIS[s] + k);
 
@@ -148,7 +149,8 @@ function kit(api) {
   /**
    * Blockfigur in Weltzellen um (u, w): Sockel (3 x 3), Beine, Rumpf mit Armen, Kopf. Maße in Blöcken (Maßstab 1:2).
    *  o = { sockel = 2, sockelTyp, beine = 2, rumpf = 2, typ (Körper), kopf (Typ), arme = seitlich, hoch oder keine,
-   *        armTyp, beinTyp, schmuck: Typ (Krone/Helm auf dem Kopf), j0 = 1 (Höhe des Sockelbodens) }
+   *        armTyp, beinTyp, schmuck: Typ (Krone/Helm auf dem Kopf), j0 = 1 (Höhe des Sockelbodens),
+   *        draussen: true im Hof (Luft unter den Armen wird als offene Luft deklariert) }
    * Rückgabe: Oberkante der Figur (relativ zum Boden).
    */
   function figur(teil, s, u, w, o) {
@@ -165,6 +167,8 @@ function kit(api) {
         for (const [dx, dz] of [[1, 0], [-1, 0]]) {
           set(x + dx, yS(s, j), z + dz, a, teil);
           if (o.arme === 'hoch') set(x + dx, yS(s, j + 1), z + dz, a, teil);
+          // im Freien ist die Luft unter den Armen offene Hofluft (für R14 als Öffnung deklariert)
+          if (o.draussen) for (let jj = (o.j0 || 1) + sh; jj < j; jj++) if (!hat(x + dx, yS(s, jj), z + dz)) api.oeffnung('fenster_offen', teil, x + dx, yS(s, jj), z + dz);
         }
       }
     }
@@ -207,10 +211,16 @@ function kit(api) {
   function baum(teil, s, u, w, h, o = {}) {
     const { x, z } = zelle(u, w);
     const stamm = o.stamm || WZ.typ('gruen_stamm'), laub = o.laub || WZ.typ('gruen_baum');
-    for (let j = 1; j <= h; j++) set(x, yS(s, j), z, stamm, teil);
+    for (let j = o.j0 || 1; j <= h; j++) set(x, yS(s, j), z, stamm, teil);
     for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) for (let dj = -1; dj <= 2; dj++) {
       if (dx * dx + dz * dz + dj * dj * 1.5 > 5.5) continue;
       set(x + dx, yS(s, h + dj), z + dz, laub, teil);
+    }
+    // Luft unter und in der Krone ist offene Hofluft (für R14 als Öffnung deklariert)
+    for (let dx = -2; dx <= 2; dx++) for (let dz = -2; dz <= 2; dz++) {
+      let top = 0;
+      for (let j = 1; j <= h + 3; j++) if (hat(x + dx, yS(s, j), z + dz) && (dx || dz)) top = j;
+      for (let j = 1; j < top; j++) if (!hat(x + dx, yS(s, j), z + dz)) api.oeffnung('fenster_offen', teil, x + dx, yS(s, j), z + dz);
     }
   }
 
@@ -264,7 +274,23 @@ function kit(api) {
     return n;
   }
 
-  return { D, R, steh, block, boden, decke, waende, flaeche, quader, figur, loewe, brunnen, baum, laterne, kamin, stellwand, zelle, imR, yS, lokal, alle };
+  /** Zellen außerhalb der Maske, die an die Außenwand grenzen (dAussen = 1): [{ x, z, u, w, fx, fz }] mit der Fassadenzelle (fx, fz). */
+  function aussenZellen() {
+    const out = [], seen = new Set();
+    for (const c of D.haupt) {
+      if (c.d8 !== 1) continue;
+      for (const [dx, dz] of N4) {
+        const x = c.x + dx, z = c.z + dz, k = x + ',' + z;
+        if (seen.has(k) || D.H.innen(x, z)) continue;
+        seen.add(k);
+        const l = R.toLocal(x, z);
+        out.push({ x, z, u: l.u, w: l.w, fx: c.x, fz: c.z });
+      }
+    }
+    return out;
+  }
+
+  return { aussenZellen, D, R, steh, block, boden, decke, waende, flaeche, quader, figur, loewe, brunnen, baum, laterne, kamin, stellwand, zelle, imR, yS, lokal, alle };
 }
 
 /** Schachbrettmuster aus lokalen Koordinaten (Kachelgröße k). */

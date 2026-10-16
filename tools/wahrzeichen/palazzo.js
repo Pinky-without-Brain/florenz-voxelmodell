@@ -291,14 +291,15 @@ function palazzo(cfg) {
     }
 
     // ---- Raumteilung (V5a): Trennwände mit Türen je Geschoss (cfg.raeume.waende); Wand von Boden bis unter die Decke
-    const trennwandZelle = (c) => c.d8 > 2 && !istHofwand(c) && !istLoggia(c) && !istInnenwand(c) && !istPortikuswand(c) && !c.portikus;
+    // Portikus und seine Rückwand sind nur im Erdgeschoss Loggia; darüber liegen dort Säle
+    const trennwandZelle = (c, s) => c.d8 > 2 && !istHofwand(c) && !istLoggia(c) && !istInnenwand(c) && (s > 0 || (!istPortikuswand(c) && !c.portikus));
     for (const w of RA.waende || []) {
       const ss = w.s === undefined || w.s === 'alle' ? cfg.geschosse.map((_, i) => i) : [].concat(w.s);
       const dicke = w.dicke || 2.2, tb = w.breite || 3.4, th = w.hoehe || 5;
       for (const s of ss) {
         const y0 = BASIS[s] + 1, y1 = BASIS[s + 1] - 1, teil = s === 0 ? 'trennwaende' : 'trennwaende_og';
         for (const c of D.haupt) {
-          if (!trennwandZelle(c)) continue;
+          if (!trennwandZelle(c, s)) continue;
           const a = w.achse === 'u' ? c.u : c.w, t = w.achse === 'u' ? c.w : c.u;
           if (a < w.v - dicke / 2 || a >= w.v + dicke / 2) continue;
           if ((w.von !== undefined && t < w.von) || (w.bis !== undefined && t > w.bis)) continue;

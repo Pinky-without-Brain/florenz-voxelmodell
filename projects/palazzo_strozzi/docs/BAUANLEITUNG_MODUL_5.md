@@ -8,40 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 122 |
+| Blöcke | 103 |
 | Bauschritte | 1 |
 | Y-Bereich | 64 bis 108 |
 | X-Ausdehnung | -873 bis -772 (102 Blöcke) |
-| Z-Ausdehnung | 386 bis 471 (86 Blöcke) |
-| Kleinster Schritt | 122 Blöcke (Schritt 5.1) |
-| Mittlerer Schritt | 122 Blöcke |
-| Größter Schritt | 122 Blöcke (Schritt 5.1) |
+| Z-Ausdehnung | 387 bis 471 (85 Blöcke) |
+| Kleinster Schritt | 103 Blöcke (Schritt 5.1) |
+| Mittlerer Schritt | 103 Blöcke |
+| Größter Schritt | 103 Blöcke (Schritt 5.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Seelaterne | `sea_lantern` | 122 | 100,0 % |
+| Seelaterne | `sea_lantern` | 103 | 100,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `licht` | Licht | 122 | 5.1 |
+| 1 | `licht` | Licht | 103 | 5.1 |
 
 ## Bauschritte
 
 ### Schritt 5.1 – Licht
 
 - **Y-Bereich:** 64 bis 108
-- **Blöcke:** 122
+- **Blöcke:** 103
 - **Bauteile:** `licht`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Seelaterne | `sea_lantern` | 122 |
+| Seelaterne | `sea_lantern` | 103 |
 
 **Beschreibung**
 

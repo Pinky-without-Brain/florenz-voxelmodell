@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 29.146 |
+| Blöcke | 28.840 |
 | Bauschritte | 17 |
 | Y-Bereich | 61 bis 112 |
 | X-Ausdehnung | -1217 bis -1153 (65 Blöcke) |
 | Z-Ausdehnung | 378 bis 458 (81 Blöcke) |
 | Kleinster Schritt | 1.104 Blöcke (Schritt 1.16) |
-| Mittlerer Schritt | 1.714 Blöcke |
+| Mittlerer Schritt | 1.696 Blöcke |
 | Größter Schritt | 2.086 Blöcke (Schritt 1.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 14.289 | 49,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.203 | 31,6 % |
-| Glatter Stein | `smooth_stone` | 1.702 | 5,8 % |
+| Weißer Beton | `white_concrete` | 13.983 | 48,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.203 | 31,9 % |
+| Glatter Stein | `smooth_stone` | 1.702 | 5,9 % |
 | Polierter Andesit | `polished_andesite` | 1.251 | 4,3 % |
 | Steinziegel | `stone_bricks` | 685 | 2,4 % |
 | Oranges Buntglas | `orange_stained_glass` | 404 | 1,4 % |
@@ -38,7 +38,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `aussenwand` | Außenwände | 25.792 | 1.1–1.14 |
+| 1 | `aussenwand` | Außenwände | 25.486 | 1.1–1.14 |
 | 2 | `fenster` | Fenster | 2.224 | 1.15–1.16 |
 | 3 | `kranzgesims` | Kranzgesims | 1.130 | 1.17 |
 
@@ -239,14 +239,14 @@ Leon Battista Alberti entwarf die Fassade um 1446–51, Bernardo Rossellino füh
 ### Schritt 1.7 – Außenwände – Teil 7/14 (Y 81–84)
 
 - **Y-Bereich:** 81 bis 84
-- **Blöcke:** 2.084
+- **Blöcke:** 1.948
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.108 |
+| Weißer Beton | `white_concrete` | 972 |
 | Gelbe Keramik | `yellow_terracotta` | 738 |
 | Polierter Andesit | `polished_andesite` | 89 |
 | Steinziegel | `stone_bricks` | 89 |
@@ -271,14 +271,14 @@ Leon Battista Alberti entwarf die Fassade um 1446–51, Bernardo Rossellino füh
 ### Schritt 1.8 – Außenwände – Teil 8/14 (Y 85–88)
 
 - **Y-Bereich:** 85 bis 88
-- **Blöcke:** 1.908
+- **Blöcke:** 1.772
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.108 |
+| Weißer Beton | `white_concrete` | 972 |
 | Gelbe Keramik | `yellow_terracotta` | 592 |
 | Polierter Andesit | `polished_andesite` | 111 |
 | Glatter Stein | `smooth_stone` | 60 |
@@ -303,14 +303,14 @@ Leon Battista Alberti entwarf die Fassade um 1446–51, Bernardo Rossellino füh
 ### Schritt 1.9 – Außenwände – Teil 9/14 (Y 89–92)
 
 - **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.908
+- **Blöcke:** 1.874
 - **Bauteile:** `aussenwand`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.108 |
+| Weißer Beton | `white_concrete` | 1.074 |
 | Gelbe Keramik | `yellow_terracotta` | 592 |
 | Polierter Andesit | `polished_andesite` | 111 |
 | Glatter Stein | `smooth_stone` | 60 |

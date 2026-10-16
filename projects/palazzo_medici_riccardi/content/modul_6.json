@@ -1,0 +1,50 @@
+{
+  "module": 6,
+  "title": "Ausgestaltete Innenräume und Höfe",
+  "subtitle": "Bautüte 6: Cappella dei Magi, Galerie, Hof und Garten",
+  "icon": "🏛️",
+  "parts": {
+    "cappella_dei_magi": {
+      "title": "Cappella dei Magi",
+      "description": "Kapelle im Piano nobile am Via-Cavour-Flügel: Wandfelder ringsum mit dem Zug der Heiligen Drei Könige (Himmel, Hügel, Figuren in Rot, Blau, Weiß und Gelb mit goldenen Kronen), Boden mit goldener Mitte und Marmorringen, Kassettendecke aus Eiche und Gold, Altar mit Kreuz und Altarbild, zwei Bankreihen.",
+      "tip": "Erst den Boden, dann den Fries Tafel für Tafel, zuletzt Altar und Bänke.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Der Zug ist als Farbfries angedeutet, die Lage im Haus ist Stufe C.",
+      "fact": "Benozzo Gozzoli malte den Zug der Heiligen Drei Könige um 1459 bis 1461 für Piero de' Medici (Quelle: it.wikipedia, Palazzo Medici Riccardi)."
+    },
+    "galleria_luca_giordano": {
+      "title": "Galleria di Luca Giordano",
+      "description": "Langer Saal im Südflügel: Schachboden aus Marmor und Granit, Spiegelfelder aus weißem Glas und blaue Felder zwischen goldenen Pilastern, Deckenfresko in Blau mit goldener Sonne, Wolken und Gestalten, zwei Statuen.",
+      "tip": "Die Decke ist eine Lage unter dem Geschossboden darüber.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Spiegel sind Glasfelder.",
+      "fact": "Luca Giordano malte ab 1682 die Apotheose der Medici an die Decke der Galerie (Quelle: it.wikipedia, Palazzo Medici Riccardi)."
+    },
+    "michelozzo_hof": {
+      "title": "Michelozzos Hof",
+      "description": "Hofpflaster mit Wegekreuz und Mittelrondell aus Pietra serena; in der Mitte die Orpheus-Statue als Blockfigur auf einem hohen Sockel (Marmor, erhobener Arm).",
+      "tip": "Die Figur steht auf einem Sockel von 3 Blöcken.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Im Hof steht der Orpheus von Baccio Bandinelli (Quelle: it.wikipedia, Palazzo Medici Riccardi)."
+    },
+    "medaillons": {
+      "title": "Medaillons über den Arkaden",
+      "description": "Über jedem Pfeiler der Arkaden von Michelozzos Hof sitzt ein rundes Medaillon: weiße Scheibe mit goldenem Rand und buntem Mittelpunkt.",
+      "tip": "Radius 2,7 Blöcke, Mitte auf Lage 17.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild.",
+      "fact": "Die Medaillons im Hof gehen auf Entwürfe nach Donatello zurück (Quelle: it.wikipedia, Palazzo Medici Riccardi)."
+    },
+    "garten_medici": {
+      "title": "Garten",
+      "description": "Kieswege im Kreuz und als Ring um ein Brunnenbecken, Brunnensäule in der Mitte, vier Statuen auf Sockeln an den Wegenden und sechs Bäume auf dem Rasen.",
+      "tip": "Wege und Brunnen zuerst, dann Statuen und Bäume.",
+      "caution": "Vereinfachte Ausstattung, nicht nach Vorbild. Die Luft unter den Kronen ist offene Gartenluft.",
+      "fact": "Der Palast besitzt einen Garten hinter den Höfen (Quelle: it.wikipedia, Palazzo Medici Riccardi)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Sälen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

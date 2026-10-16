@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 4.187 |
+| Blöcke | 4.005 |
 | Bauschritte | 3 |
 | Y-Bereich | 60 bis 97 |
 | X-Ausdehnung | -1217 bis -1153 (65 Blöcke) |
 | Z-Ausdehnung | 378 bis 458 (81 Blöcke) |
-| Kleinster Schritt | 714 Blöcke (Schritt 0.3) |
-| Mittlerer Schritt | 1.396 Blöcke |
-| Größter Schritt | 1.749 Blöcke (Schritt 0.1) |
+| Kleinster Schritt | 582 Blöcke (Schritt 0.3) |
+| Mittlerer Schritt | 1.335 Blöcke |
+| Größter Schritt | 1.722 Blöcke (Schritt 0.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.598 | 38,2 % |
-| Glatter Quarzblock | `smooth_quartz` | 1.567 | 37,4 % |
-| Glatter Stein | `smooth_stone` | 697 | 16,6 % |
-| Polierter Tuffstein | `polished_tuff` | 251 | 6,0 % |
+| Rosa Keramik | `pink_terracotta` | 1.571 | 39,2 % |
+| Glatter Quarzblock | `smooth_quartz` | 1.543 | 38,5 % |
+| Glatter Stein | `smooth_stone` | 698 | 17,4 % |
+| Polierter Tuffstein | `polished_tuff` | 119 | 3,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,5 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 | 0,4 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,4 % |
@@ -40,8 +40,8 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boden` | Boden | 3.473 | 0.1–0.2 |
-| 2 | `hof` | Hof | 251 | 0.3 |
+| 1 | `boden` | Boden | 3.423 | 0.1–0.2 |
+| 2 | `hof` | Hof | 119 | 0.3 |
 | 3 | `treppe` | Wendeltreppe | 463 | 0.3 |
 
 ## Bauschritte
@@ -49,16 +49,16 @@
 ### Schritt 0.1 – Boden – Teil 1/2 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.749
+- **Blöcke:** 1.701
 - **Bauteile:** `boden`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 734 |
-| Glatter Quarzblock | `smooth_quartz` | 707 |
-| Glatter Stein | `smooth_stone` | 308 |
+| Rosa Keramik | `pink_terracotta` | 707 |
+| Glatter Quarzblock | `smooth_quartz` | 685 |
+| Glatter Stein | `smooth_stone` | 309 |
 
 **Beschreibung**
 
@@ -79,7 +79,7 @@ Der Palazzo gehört bis heute der Familie Rucellai.
 ### Schritt 0.2 – Boden – Teil 2/2 (Y 60–60)
 
 - **Y-Bereich:** 60 bis 60
-- **Blöcke:** 1.724
+- **Blöcke:** 1.722
 - **Bauteile:** `boden`
 
 **Teileliste**
@@ -87,7 +87,7 @@ Der Palazzo gehört bis heute der Familie Rucellai.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 864 |
-| Glatter Quarzblock | `smooth_quartz` | 860 |
+| Glatter Quarzblock | `smooth_quartz` | 858 |
 
 **Beschreibung**
 
@@ -108,7 +108,7 @@ Der Palazzo gehört bis heute der Familie Rucellai.
 ### Schritt 0.3 – Hof & Wendeltreppe
 
 - **Y-Bereich:** 60 bis 97
-- **Blöcke:** 714
+- **Blöcke:** 582
 - **Bauteile:** `hof`, `treppe`
 
 **Teileliste**
@@ -116,7 +116,7 @@ Der Palazzo gehört bis heute der Familie Rucellai.
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Stein | `smooth_stone` | 389 |
-| Polierter Tuffstein | `polished_tuff` | 251 |
+| Polierter Tuffstein | `polished_tuff` | 119 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 18 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 |

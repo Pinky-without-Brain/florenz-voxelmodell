@@ -31,6 +31,13 @@
       "tip": "Türen in regelmäßigem Abstand.",
       "caution": "Türen frei lassen.",
       "fact": "Der Palazzo gehört seit 1937 dem italienischen Staat."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen den Saalring im Erdgeschoss in einzelne Säle; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Raumfolgen (Enfiladen) verbinden die Säle der Palazzi untereinander."
     }
   }
 }

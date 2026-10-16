@@ -6,6 +6,7 @@
 const path = require('node:path');
 const WZ = require('../../../tools/wahrzeichen');
 const { palazzo } = require('../../../tools/wahrzeichen/palazzo.js');
+const RAUM = require('./_raeume.js');
 
 const ACHSE = 53.5 / 7;                    // sieben Achsen auf 53,5 Blöcken Fassade
 const FORTE = WZ.typ('pietra_forte'), MAUER = WZ.typ('mauerwerk'), SERENA = WZ.typ('pietra_serena'), PUTZ = WZ.typ('putz_ocker'), ORN = WZ.typ('marmor_ornament');
@@ -25,6 +26,7 @@ const PZ = palazzo({
     return yr % 3 === 0 ? MAUER : FORTE;                              // flache Quader mit Fugen
   },
   portale: [{ u: 1.5 * ACHSE, w: 0, breite: 4, hoehe: 11 }, { u: 5.5 * ACHSE, w: 0, breite: 4, hoehe: 11 }],
-  treppe: { u: 40, w: -40 }
+  treppe: { u: 40, w: -40 },
+  raeume: { waende: RAUM.WAENDE, ausstatten: RAUM.ausstatten }
 });
 module.exports = Object.assign(PZ, { ACHSE });
