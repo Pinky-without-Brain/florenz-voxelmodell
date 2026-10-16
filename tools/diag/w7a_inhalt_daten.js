@@ -85,5 +85,34 @@ module.exports = {
       innenwaende_og: '1838/39 baute Giuseppe Martelli den Palast zum Hotel du Nord um',
       dach: '1961/62 restaurierte Piero Sanpaolesi die Fassade'
     }
+  },
+  palazzo_antinori: {
+    bodenY: 63, traufe: 23, quelle: 'it.wikipedia, Palazzo Antinori', loggiaBoden: true,
+    hofText: 'Der Hof bleibt offen; sein Boden aus Pflaster, Marmor und Pietra serena liegt auf Y 63, in der Mitte steht der Ziehbrunnen.',
+    fassadeTitel: 'Außenwände mit glatter Bugnato, Rundbogenfenster, Kranzgesims',
+    aussenText: 'Die Außenwände sind zwei Blöcke dick: Im Erdgeschoss glatte Quader (Pietra forte, jede zweite Lage mit Fuge), darüber glatte Pietra-forte-Wand; innen Putz.',
+    aussenTip: 'Im Erdgeschoss wechseln Rustika und glatte Lage je Block.',
+    fensterText: 'Rundbogenfenster mit Glas im Raster 9,6 (acht Achsen); im Erdgeschoss niedrig, im Piano nobile am höchsten; das schlichte Portal liegt in der Mitte zwischen den Achsen.',
+    kranzText: 'Das Kranzgesims aus Marmor bei Y 86 schließt die Fassade ab.',
+    arkadenText: 'Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof (vier Blöcke Joch); dahinter liegt eine Galerie.',
+    trennText: 'Trennwände teilen den Vorderteil im Erdgeschoss in Cantinetta, Durchgang und Ostraum und trennen ihn von den Seitenflügeln; jede Wand hat eine Tür von 3 Blöcken Breite und 5 Höhe.',
+    dachTitel: 'Walmdach', dachTeilTitel: 'Walmdach', dachText: 'Ein Walmdach aus Dachziegeln deckt das Haus bis zu vier Lagen über der Traufe; darunter liegt der Dachraum.',
+    fakt: {
+      fundament: 'Die Bauzeit wird traditionell mit 1461 bis 1469 angegeben; eine neuere Studie nennt Baubeginn 1463 und Vollendung 1472',
+      boden: 'Der Grundriss folgt dem Palazzo Medici mit der Achse Portal, Hof und Garten',
+      hof: 'Der Hof hat auf drei Seiten Portiken mit Rundbögen und Kreuzgewölben',
+      treppe: 'Der Palast hat drei Geschosse',
+      aussenwand: 'Das Erdgeschoss ist glatt rustiziert (bugne lisce)',
+      fenster: 'Zwei Geschosse haben Rundbogenfenster',
+      kranzgesims: 'Das Kranzgesims springt stark vor',
+      hofarkaden: 'Die Säulen bestehen aus Pietra serena und tragen Kompositkapitelle',
+      hofwaende: 'Im zweiten Geschoss liegt eine Loggia am Hof; sie ist hier nicht gebaut',
+      hoffenster: 'Vor 1939 öffnete Giuseppe Paladini zugemauerte Fenster des 18. Jahrhunderts wieder',
+      innenwaende: "Die Rückfassade wird Baccio d'Agnolo zugeschrieben, ihre heutige Form kann von 1584 bis 1591 stammen",
+      geschossboeden: 'Das Piano nobile hat große bemalte Holzkassettendecken auf Konsolen',
+      decke: '1920 verkaufte die Familie Antinori den Palast',
+      innenwaende_og: 'In den 1960er Jahren restaurierte Emilio Dori den Palast, als das British Institute of Florence ihn bezog',
+      dach: 'Die Fassade wurde Anfang der 1980er Jahre unter Roberto Monsani restauriert'
+    }
   }
 };
