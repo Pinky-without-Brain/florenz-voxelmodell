@@ -1,7 +1,7 @@
 {
   "id": "w118129784",
   "typ": "casa_torre",
-  "epoche": "13. Jh.",
+  "epoche": "13. Jh. (Ramaglianti-Turm); 1944 gesprengt und konsolidiert",
   "geschosse": [
     {
       "art": "eg",
@@ -38,28 +38,31 @@
     "material": "bruchstein",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "tor_und_fenster",
-      "portalBreiteBl": 5,
-      "fenster": "rechteck"
+      "art": "portal_seitlich",
+      "portalBreiteBl": 3,
+      "fenster": "keine"
     },
     "fenster": {
-      "typ": "rechteck",
-      "rahmen": "pietra_serena",
+      "typ": "rundbogen",
+      "rahmen": "keiner",
       "laeden": null
     },
     "gesims": {
-      "art": "gronda_holz",
-      "tiefeBl": 2
+      "art": "keiner",
+      "tiefeBl": 0
     },
-    "extras": []
+    "extras": [
+      "ruestloecher_mit_konsolen",
+      "schmales_doppelbogenportal"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ casa_torre nach Name/Tags (Turm); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Torre_dei_Ramaglianti",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Mittelalterlicher Geschlechterturm, sehr schmale Doppelbogenpforte, wenige Fenster, zahlreiche Gerüstlöcher mit Konsolen, Pietraforte-Verkleidung, steht auf der Rückseite an den Belfredelli-Turm. Annahme: Geschosszahl aus OSM, Dachform und Achsenzahl.",
   "name": "Torre dei Ramaglianti"
 }

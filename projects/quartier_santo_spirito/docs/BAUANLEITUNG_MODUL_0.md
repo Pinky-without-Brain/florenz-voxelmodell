@@ -8,32 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 135.463 |
+| Blöcke | 135.633 |
 | Bauschritte | 82 |
 | Y-Bereich | 59 bis 104 |
 | X-Ausdehnung | -1185 bis -1038 (148 Blöcke) |
 | Z-Ausdehnung | 1138 bis 1340 (203 Blöcke) |
 | Kleinster Schritt | 882 Blöcke (Schritt 0.49) |
-| Mittlerer Schritt | 1.652 Blöcke |
-| Größter Schritt | 2.046 Blöcke (Schritt 0.12) |
+| Mittlerer Schritt | 1.654 Blöcke |
+| Größter Schritt | 2.042 Blöcke (Schritt 0.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 50.380 | 37,2 % |
-| Orange Keramik | `orange_terracotta` | 23.876 | 17,6 % |
-| Polierter Tuffstein | `polished_tuff` | 14.299 | 10,6 % |
+| Terrakotta | `terracotta` | 50.380 | 37,1 % |
+| Orange Keramik | `orange_terracotta` | 24.081 | 17,8 % |
+| Polierter Tuffstein | `polished_tuff` | 14.299 | 10,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.456 | 5,5 % |
-| Weißer Beton | `white_concrete` | 7.256 | 5,4 % |
+| Weißer Beton | `white_concrete` | 7.256 | 5,3 % |
 | Hellgrauer Beton | `light_gray_concrete` | 7.024 | 5,2 % |
 | Tuffstein | `tuff` | 6.406 | 4,7 % |
-| Polierter Andesit | `polished_andesite` | 4.052 | 3,0 % |
+| Polierter Andesit | `polished_andesite` | 4.049 | 3,0 % |
 | Rosa Keramik | `pink_terracotta` | 4.043 | 3,0 % |
-| Glatter Stein | `smooth_stone` | 3.422 | 2,5 % |
-| Graues Buntglas | `gray_stained_glass` | 2.318 | 1,7 % |
+| Glatter Stein | `smooth_stone` | 3.397 | 2,5 % |
+| Graues Buntglas | `gray_stained_glass` | 2.349 | 1,7 % |
 | Ziegelsteine | `bricks` | 940 | 0,7 % |
-| Grüner Beton | `green_concrete` | 853 | 0,6 % |
+| Grüner Beton | `green_concrete` | 813 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 715 | 0,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 614 | 0,5 % |
 | Tuffsteinziegel | `tuff_bricks` | 594 | 0,4 % |
@@ -45,7 +45,7 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 109 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 77 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 77 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 30 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,0 % |
@@ -58,14 +58,14 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 478 |
-| Steintreppe | `stone_stairs` | 136 |
+| Steintreppe | `stone_stairs` | 138 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4096883` | Palazzo Ricasoli Firidolfi | 26.448 | 0.1–0.15 |
-| 2 | `r4096883_innen` | Palazzo Ricasoli Firidolfi: Innenausbau | 6.485 | 0.16–0.19 |
+| 1 | `r4096883` | Palazzo Ricasoli Firidolfi | 26.614 | 0.1–0.15 |
+| 2 | `r4096883_innen` | Palazzo Ricasoli Firidolfi: Innenausbau | 6.489 | 0.16–0.19 |
 | 3 | `w306811245` | Renaissance-Palazzo an Via Maggio | 15.236 | 0.20–0.27 |
 | 4 | `w306811245_innen` | Renaissance-Palazzo an Via Maggio: Innenausbau | 3.601 | 0.28–0.30 |
 | 5 | `w498101784` | Reihenhaus an Via dello Sprone | 8.211 | 0.31–0.35 |
@@ -106,7 +106,7 @@
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -118,7 +118,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.2 – Palazzo Ricasoli Firidolfi – Teil 2/15 (Y 61–61)
 
@@ -134,7 +134,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -146,7 +146,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.3 – Palazzo Ricasoli Firidolfi – Teil 3/15 (Y 62–64)
 
@@ -165,7 +165,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -177,7 +177,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.4 – Palazzo Ricasoli Firidolfi – Teil 4/15 (Y 65–67)
 
@@ -198,7 +198,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -210,7 +210,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.5 – Palazzo Ricasoli Firidolfi – Teil 5/15 (Y 68–70)
 
@@ -231,7 +231,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -243,12 +243,12 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.6 – Palazzo Ricasoli Firidolfi – Teil 6/15 (Y 71–73)
 
 - **Y-Bereich:** 71 bis 73
-- **Blöcke:** 1.766
+- **Blöcke:** 1.861
 - **Bauteile:** `r4096883`
 
 **Teileliste**
@@ -256,12 +256,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 1.447 |
-| Glatter Stein | `smooth_stone` | 314 |
+| Glatter Stein | `smooth_stone` | 409 |
 | Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -273,7 +273,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.7 – Palazzo Ricasoli Firidolfi – Teil 7/15 (Y 74–76)
 
@@ -293,7 +293,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -305,27 +305,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.8 – Palazzo Ricasoli Firidolfi – Teil 8/15 (Y 77–79)
 
 - **Y-Bereich:** 77 bis 79
-- **Blöcke:** 1.673
+- **Blöcke:** 1.645
 - **Bauteile:** `r4096883`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.323 |
-| Glatter Stein | `smooth_stone` | 186 |
+| Orange Keramik | `orange_terracotta` | 1.295 |
+| Glatter Stein | `smooth_stone` | 151 |
+| Graues Buntglas | `gray_stained_glass` | 113 |
 | Grüner Beton | `green_concrete` | 80 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -337,25 +337,25 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.9 – Palazzo Ricasoli Firidolfi – Teil 9/15 (Y 80–82)
 
 - **Y-Bereich:** 80 bis 82
-- **Blöcke:** 1.737
+- **Blöcke:** 1.832
 - **Bauteile:** `r4096883`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.404 |
-| Glatter Stein | `smooth_stone` | 325 |
-| Polierter Andesit | `polished_andesite` | 8 |
+| Orange Keramik | `orange_terracotta` | 1.456 |
+| Glatter Stein | `smooth_stone` | 371 |
+| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -367,27 +367,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.10 – Palazzo Ricasoli Firidolfi – Teil 10/15 (Y 83–85)
 
 - **Y-Bereich:** 83 bis 85
-- **Blöcke:** 1.702
+- **Blöcke:** 1.734
 - **Bauteile:** `r4096883`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.323 |
-| Glatter Stein | `smooth_stone` | 215 |
-| Grüner Beton | `green_concrete` | 80 |
-| Graues Buntglas | `gray_stained_glass` | 78 |
+| Orange Keramik | `orange_terracotta` | 1.483 |
+| Glatter Stein | `smooth_stone` | 166 |
+| Grüner Beton | `green_concrete` | 40 |
+| Graues Buntglas | `gray_stained_glass` | 39 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -399,7 +399,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.11 – Palazzo Ricasoli Firidolfi – Teil 11/15 (Y 86–88)
 
@@ -419,7 +419,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -431,26 +431,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.12 – Palazzo Ricasoli Firidolfi – Teil 12/15 (Y 89–91)
 
 - **Y-Bereich:** 89 bis 91
-- **Blöcke:** 2.046
+- **Blöcke:** 2.018
 - **Bauteile:** `r4096883`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.515 |
+| Orange Keramik | `orange_terracotta` | 1.536 |
 | Fichtenholz-Bretter | `spruce_planks` | 309 |
-| Glatter Stein | `smooth_stone` | 216 |
+| Glatter Stein | `smooth_stone` | 132 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -462,7 +463,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.13 – Palazzo Ricasoli Firidolfi – Teil 13/15 (Y 92–92)
 
@@ -478,7 +479,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -490,7 +491,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.14 – Palazzo Ricasoli Firidolfi – Teil 14/15 (Y 93–94)
 
@@ -506,7 +507,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -518,7 +519,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.15 – Palazzo Ricasoli Firidolfi – Teil 15/15 (Y 95–102)
 
@@ -535,7 +536,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+Palazzo des Cinquecento (15./16. Jh.; Kniefenster um 1600/1610), 3 Geschosse, Putzfarbe Terrakotta. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi, Angaben belegt (Sicherheit 0,75).
 
 **Tipp**
 
@@ -547,7 +548,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind belegt.
 
 ### Schritt 0.16 – Palazzo Ricasoli Firidolfi: Innenausbau – Teil 1/4 (Y 61–71)
 
@@ -627,10 +628,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.18 – Palazzo Ricasoli Firidolfi: Innenausbau – Teil 3/4 (Y 72–81)
+### Schritt 0.18 – Palazzo Ricasoli Firidolfi: Innenausbau – Teil 3/4 (Y 72–82)
 
-- **Y-Bereich:** 72 bis 81
-- **Blöcke:** 1.640
+- **Y-Bereich:** 72 bis 82
+- **Blöcke:** 1.644
 - **Bauteile:** `r4096883_innen`
 
 **Teileliste**
@@ -638,8 +639,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.579 |
-| Glatter Stein | `smooth_stone` | 26 |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 |
 | Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
 | Rote Keramik | `red_terracotta` | 3 |
@@ -652,7 +653,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Steintreppe | `stone_stairs` | 18 |
+| Steintreppe | `stone_stairs` | 20 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -671,9 +672,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 0.19 – Palazzo Ricasoli Firidolfi: Innenausbau – Teil 4/4 (Y 81–82)
+### Schritt 0.19 – Palazzo Ricasoli Firidolfi: Innenausbau – Teil 4/4 (Y 82–83)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.601
 - **Bauteile:** `r4096883_innen`
 

@@ -1,7 +1,7 @@
 {
   "id": "r4096883",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "15./16. Jh.; Kniefenster um 1600/1610",
   "geschosse": [
     {
       "art": "eg",
@@ -9,11 +9,11 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 10
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 9
     }
   ],
   "fassade": {
@@ -22,12 +22,12 @@
     "material": "putz",
     "putzfarbe": "terrakotta",
     "erdgeschoss": {
-      "art": "portal_seitlich",
+      "art": "tor_und_fenster",
       "portalBreiteBl": 7,
       "fenster": "kniefenster"
     },
     "fenster": {
-      "typ": "tabernakel",
+      "typ": "rundbogen",
       "rahmen": "pietra_serena",
       "laeden": null
     },
@@ -35,15 +35,21 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "fahnenhalter_ecke",
+      "wappen_ricasoli_firidolfi_mitte",
+      "konsole_mit_akanthus_ecke"
+    ],
+    "marcapiano": "vor",
+    "eckquader": true
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Ricasoli_Firidolfi",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia: Drei Geschosse auf sechs Achsen (die fünfte vermauert), Kniefenster im EG (früher Seicento), Rundbogenfenster mit Pietra-serena-Bossen auf kräftig auskragendem Steingurt, Eckbossen, Fahnenhalter und Konsole für das Ridolfi-Wappen, Wappen Ricasoli-Firidolfi mittig. Annahme: Putzfarbe und Gesimsart.",
   "name": "Palazzo Ricasoli Firidolfi"
 }
