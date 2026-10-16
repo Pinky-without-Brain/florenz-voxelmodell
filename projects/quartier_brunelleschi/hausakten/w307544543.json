@@ -1,7 +1,7 @@
 {
   "id": "w307544543",
-  "typ": "palazzo_rinascimento",
-  "epoche": "15. Jh.",
+  "typ": "palazzo_cinquecento",
+  "epoche": "frühes 18. Jh. (Pietro Paolo Giovannozzi), Fassade in Tradition des 16./17. Jh.",
   "geschosse": [
     {
       "art": "eg",
@@ -9,41 +9,45 @@
     },
     {
       "art": "nobile",
-      "hoeheBl": 9
+      "hoeheBl": 11
     },
     {
       "art": "og",
-      "hoeheBl": 10
+      "hoeheBl": 8
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 6,
-    "material": "bugnato_abgestuft",
+    "achsen": 9,
+    "material": "stein_glatt",
     "putzfarbe": null,
     "erdgeschoss": {
-      "art": "portal_mittig",
+      "art": "bottega_arcata",
       "portalBreiteBl": 7,
-      "fenster": "rechteck"
+      "fenster": "rechteck_vergittert"
     },
     "fenster": {
-      "typ": "rundbogen",
-      "rahmen": "pietra_serena",
+      "typ": "tabernakel",
+      "rahmen": "pietra_forte",
       "laeden": null
     },
     "gesims": {
       "art": "putzgesims",
       "tiefeBl": 1
     },
-    "extras": []
+    "extras": [
+      "zwei_portale_bugnato",
+      "maskaron_volutenband",
+      "balkone_portalachsen"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_rinascimento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Palazzo_Buontalenti",
+  "sicherheit": 0.75,
+  "notiz": "Nach it.Wikipedia belegt: wohl frühes 18. Jh. umgebaut (Giovannozzi nach Archivquellen), drei Geschosse, neun Achsen, Stein mit Pietra-forte-Fensterrahmen (am Piano nobile reicher, im dritten Geschoss schlichter), zwei Portale mit Bossenrahmen und spätmanieristischem Maskaron, Erdgeschoss mit sechs großen Öffnungen (zu Ladenfronten umgebaut), Balkone in den Portalachsen. Annahme: Gesims und Dach.",
   "name": "Palazzo Buontalenti"
 }
