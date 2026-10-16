@@ -1,0 +1,29 @@
+{
+  "module": 2,
+  "title": "Pfeilerwände und Bögen",
+  "subtitle": "Bautüte 2: Arkaden, Kapellenwände, Triumphbogen",
+  "icon": "🏺",
+  "parts": {
+    "arkaden": {
+      "title": "Pfeilerwände",
+      "description": "Zwischen Schiff und Kapellen stehen zwei Blöcke dicke Wände mit je einem Rundbogen von 9 Blöcken Weite pro Joch; im Querhaus sind die Bögen weiter. Über den Kapellendächern sitzen große Rundbogenfenster im Obergaden. Die Wand ist unten aus Glattem Stein, oben weiß verputzt.",
+      "tip": "Erst den Bogen auslassen, dann die Wand darüber schließen.",
+      "caution": "Die Wand reicht bis an die Dachfläche des Schiffs.",
+      "fact": "Das Schiff ist von einer Tonne mit Stichkappen überwölbt und durch große Rundbogenfenster belichtet (it.wikipedia)."
+    },
+    "kapellenwaende": {
+      "title": "Kapellenwände",
+      "description": "Zwischen den drei Kapellen jeder Seite trennt je eine zwei Blöcke dicke Wand die Räume. Sie reicht bis unter das Pultdach.",
+      "tip": "Die Kapellen sind innen etwa 10 Blöcke breit und 5 tief.",
+      "caution": "Jede Kapelle behält ihre Öffnung zum Schiff.",
+      "fact": "Die Kirche hat drei Kapellen je Seite (it.wikipedia)."
+    },
+    "triumphbogen": {
+      "title": "Triumphbogen zur Cappella maggiore",
+      "description": "An der Ostseite von Vierung und Querarmen schließt eine zwei Blöcke dicke Wand das Querhaus ab. Mittig öffnet sie sich im Rundbogen zur Cappella maggiore.",
+      "tip": "Der Bogen ist 12 bis 13 Blöcke breit und reicht bis Y 90.",
+      "caution": "Der Durchgang muss frei bleiben.",
+      "fact": "Die Hauptkapelle wurde von Cigoli entworfen und etwa 1610 bis 1620 ausgeführt (it.wikipedia)."
+    }
+  }
+}

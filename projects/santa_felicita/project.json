@@ -1,0 +1,14 @@
+{
+  "id": "santa_felicita",
+  "title": "Chiesa di Santa Felicita",
+  "type": "wahrzeichen",
+  "gebaeude": ["w159394659"],
+  "bodenY": 66,
+  "rahmen": { "ox": -682, "oz": 1375, "thetaDeg": 48.6 },
+  "hauptGrenzen": { "abzugProjekte": ["palazzo_pitti"], "abzugAlle": true },
+  "masken": {
+    "campanile": { "gebaeude": ["w119180019"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 129.147 |
-| Bauschritte | 84 |
+| Blöcke | 127.873 |
+| Bauschritte | 82 |
 | Y-Bereich | 64 bis 92 |
 | X-Ausdehnung | -954 bis -631 (324 Blöcke) |
 | Z-Ausdehnung | 1312 bis 1640 (329 Blöcke) |
-| Kleinster Schritt | 792 Blöcke (Schritt 9.56) |
-| Mittlerer Schritt | 1.537 Blöcke |
-| Größter Schritt | 2.058 Blöcke (Schritt 9.7) |
+| Kleinster Schritt | 792 Blöcke (Schritt 9.54) |
+| Mittlerer Schritt | 1.559 Blöcke |
+| Größter Schritt | 2.090 Blöcke (Schritt 9.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 59.017 | 45,7 % |
-| Polierter Andesit | `polished_andesite` | 27.341 | 21,2 % |
-| Glatter Stein | `smooth_stone` | 17.448 | 13,5 % |
-| Endsteinziegel | `end_stone_bricks` | 9.970 | 7,7 % |
-| Steinziegel | `stone_bricks` | 8.258 | 6,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 57.785 | 45,2 % |
+| Polierter Andesit | `polished_andesite` | 27.263 | 21,3 % |
+| Glatter Stein | `smooth_stone` | 17.603 | 13,8 % |
+| Endsteinziegel | `end_stone_bricks` | 9.825 | 7,7 % |
+| Steinziegel | `stone_bricks` | 8.194 | 6,4 % |
 | Goldblock | `gold_block` | 3.088 | 2,4 % |
-| Graues Buntglas | `gray_stained_glass` | 2.430 | 1,9 % |
+| Graues Buntglas | `gray_stained_glass` | 2.520 | 2,0 % |
 | Blaue Keramik | `blue_terracotta` | 346 | 0,3 % |
 | Grüne Keramik | `green_terracotta` | 308 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 300 | 0,2 % |
@@ -48,25 +48,25 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `korridor_unterbau` | Unterbau des Korridors | 72.178 | 9.1–9.43 |
-| 2 | `korridor_0_boden` | Boden, Nordabschnitt (Via de' Bardi) | 3.108 | 9.44–9.45 |
-| 3 | `korridor_0_waende` | Wände, Nordabschnitt (Via de' Bardi) | 4.227 | 9.46–9.48 |
-| 4 | `korridor_0_decke` | Decke, Nordabschnitt (Via de' Bardi) | 3.097 | 9.49–9.50 |
-| 5 | `korridor_1_boden` | Boden, Abschnitt Santa Felicita | 2.134 | 9.51–9.52 |
-| 6 | `korridor_1_waende` | Wände, Abschnitt Santa Felicita | 4.052 | 9.53–9.55 |
-| 7 | `korridor_1_decke` | Decke, Abschnitt Santa Felicita | 2.125 | 9.56–9.57 |
-| 8 | `korridor_2_boden` | Boden, Abschnitt Boboli | 3.342 | 9.58–9.60 |
-| 9 | `korridor_2_waende` | Wände, Abschnitt Boboli | 4.746 | 9.61–9.63 |
-| 10 | `korridor_2_decke` | Decke, Abschnitt Boboli | 3.332 | 9.64–9.66 |
-| 11 | `korridor_3_boden` | Boden, Südabschnitt bis zum Ostflügel | 8.879 | 9.67–9.72 |
-| 12 | `korridor_3_waende` | Wände, Südabschnitt bis zum Ostflügel | 4.385 | 9.73–9.75 |
-| 13 | `korridor_3_decke` | Decke, Südabschnitt bis zum Ostflügel | 8.874 | 9.76–9.81 |
-| 14 | `korridor_licht_olt` | Licht im Korridor | 56 | 9.82 |
-| 15 | `korridor_bilder` | Bilderfelder im Korridor | 4.612 | 9.82–9.84 |
+| 1 | `korridor_unterbau` | Unterbau des Korridors | 70.904 | 9.1–9.41 |
+| 2 | `korridor_0_boden` | Boden, Nordabschnitt (Via de' Bardi) | 3.108 | 9.42–9.43 |
+| 3 | `korridor_0_waende` | Wände, Nordabschnitt (Via de' Bardi) | 4.227 | 9.44–9.46 |
+| 4 | `korridor_0_decke` | Decke, Nordabschnitt (Via de' Bardi) | 3.097 | 9.47–9.48 |
+| 5 | `korridor_1_boden` | Boden, Abschnitt Santa Felicita | 2.134 | 9.49–9.50 |
+| 6 | `korridor_1_waende` | Wände, Abschnitt Santa Felicita | 4.052 | 9.51–9.53 |
+| 7 | `korridor_1_decke` | Decke, Abschnitt Santa Felicita | 2.125 | 9.54–9.55 |
+| 8 | `korridor_2_boden` | Boden, Abschnitt Boboli | 3.342 | 9.56–9.58 |
+| 9 | `korridor_2_waende` | Wände, Abschnitt Boboli | 4.746 | 9.59–9.61 |
+| 10 | `korridor_2_decke` | Decke, Abschnitt Boboli | 3.332 | 9.62–9.64 |
+| 11 | `korridor_3_boden` | Boden, Südabschnitt bis zum Ostflügel | 8.879 | 9.65–9.70 |
+| 12 | `korridor_3_waende` | Wände, Südabschnitt bis zum Ostflügel | 4.385 | 9.71–9.73 |
+| 13 | `korridor_3_decke` | Decke, Südabschnitt bis zum Ostflügel | 8.874 | 9.74–9.79 |
+| 14 | `korridor_licht_olt` | Licht im Korridor | 56 | 9.80 |
+| 15 | `korridor_bilder` | Bilderfelder im Korridor | 4.612 | 9.80–9.82 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Unterbau des Korridors – Teil 1/43 (Y 64–66)
+### Schritt 9.1 – Unterbau des Korridors – Teil 1/41 (Y 64–66)
 
 - **Y-Bereich:** 64 bis 66
 - **Blöcke:** 1.754
@@ -76,7 +76,8 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.754 |
+| Tuffsteinziegel | `tuff_bricks` | 1.599 |
+| Glatter Stein | `smooth_stone` | 155 |
 
 **Beschreibung**
 
@@ -94,17 +95,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.2 – Unterbau des Korridors – Teil 2/43 (Y 67–67)
+### Schritt 9.2 – Unterbau des Korridors – Teil 2/41 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.527
+- **Blöcke:** 1.372
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.527 |
+| Tuffsteinziegel | `tuff_bricks` | 1.372 |
 
 **Beschreibung**
 
@@ -122,17 +123,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.3 – Unterbau des Korridors – Teil 3/43 (Y 68–68)
+### Schritt 9.3 – Unterbau des Korridors – Teil 3/41 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.699
+- **Blöcke:** 1.544
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.699 |
+| Tuffsteinziegel | `tuff_bricks` | 1.544 |
 
 **Beschreibung**
 
@@ -150,17 +151,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.4 – Unterbau des Korridors – Teil 4/43 (Y 69–69)
+### Schritt 9.4 – Unterbau des Korridors – Teil 4/41 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.127
+- **Blöcke:** 2.090
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.127 |
+| Tuffsteinziegel | `tuff_bricks` | 2.090 |
 
 **Beschreibung**
 
@@ -178,45 +179,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.5 – Unterbau des Korridors – Teil 5/43 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.118
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.118 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.6 – Unterbau des Korridors – Teil 6/43 (Y 70–70)
+### Schritt 9.5 – Unterbau des Korridors – Teil 5/41 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 2.055
+- **Blöcke:** 1.966
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 2.055 |
+| Tuffsteinziegel | `tuff_bricks` | 1.966 |
 
 **Beschreibung**
 
@@ -234,17 +207,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.7 – Unterbau des Korridors – Teil 7/43 (Y 70–70)
+### Schritt 9.6 – Unterbau des Korridors – Teil 6/41 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
-- **Blöcke:** 2.058
+- **Blöcke:** 1.992
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 2.058 |
+| Tuffsteinziegel | `tuff_bricks` | 1.992 |
 
 **Beschreibung**
 
@@ -262,17 +235,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.8 – Unterbau des Korridors – Teil 8/43 (Y 71–71)
+### Schritt 9.7 – Unterbau des Korridors – Teil 7/41 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.619
+- **Blöcke:** 1.572
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.619 |
+| Tuffsteinziegel | `tuff_bricks` | 1.572 |
 
 **Beschreibung**
 
@@ -290,237 +263,9 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.9 – Unterbau des Korridors – Teil 9/43 (Y 71–71)
+### Schritt 9.8 – Unterbau des Korridors – Teil 8/41 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.617
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.617 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.10 – Unterbau des Korridors – Teil 10/43 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
-- **Blöcke:** 1.611
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.611 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.11 – Unterbau des Korridors – Teil 11/43 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.782
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.782 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.12 – Unterbau des Korridors – Teil 12/43 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.784
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.784 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.13 – Unterbau des Korridors – Teil 13/43 (Y 72–72)
-
-- **Y-Bereich:** 72 bis 72
-- **Blöcke:** 1.780
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.757 |
-| Steinziegel | `stone_bricks` | 14 |
-| Endsteinziegel | `end_stone_bricks` | 9 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.14 – Unterbau des Korridors – Teil 14/43 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.949
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.949 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.15 – Unterbau des Korridors – Teil 15/43 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.953
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.953 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.16 – Unterbau des Korridors – Teil 16/43 (Y 73–73)
-
-- **Y-Bereich:** 73 bis 73
-- **Blöcke:** 1.925
-- **Bauteile:** `korridor_unterbau`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.582 |
-| Endsteinziegel | `end_stone_bricks` | 199 |
-| Steinziegel | `stone_bricks` | 144 |
-
-**Beschreibung**
-
-Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
-
-**Tipp**
-
-Spalte für Spalte von unten.
-
-**Achtung**
-
-Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
-
-**Fakt**
-
-Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
-
-### Schritt 9.17 – Unterbau des Korridors – Teil 17/43 (Y 74–74)
-
-- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.565
 - **Bauteile:** `korridor_unterbau`
 
@@ -546,17 +291,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.18 – Unterbau des Korridors – Teil 18/43 (Y 74–74)
+### Schritt 9.9 – Unterbau des Korridors – Teil 9/41 (Y 71–71)
 
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.600
+- **Y-Bereich:** 71 bis 71
+- **Blöcke:** 1.555
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.600 |
+| Tuffsteinziegel | `tuff_bricks` | 1.555 |
 
 **Beschreibung**
 
@@ -574,17 +319,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.19 – Unterbau des Korridors – Teil 19/43 (Y 74–74)
+### Schritt 9.10 – Unterbau des Korridors – Teil 10/41 (Y 72–72)
 
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.558
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.728
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.558 |
+| Tuffsteinziegel | `tuff_bricks` | 1.728 |
 
 **Beschreibung**
 
@@ -602,19 +347,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.20 – Unterbau des Korridors – Teil 20/43 (Y 74–74)
+### Schritt 9.11 – Unterbau des Korridors – Teil 11/41 (Y 72–72)
 
-- **Y-Bereich:** 74 bis 74
-- **Blöcke:** 1.583
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.717
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Steinziegel | `stone_bricks` | 709 |
-| Endsteinziegel | `end_stone_bricks` | 679 |
-| Tuffsteinziegel | `tuff_bricks` | 195 |
+| Tuffsteinziegel | `tuff_bricks` | 1.717 |
 
 **Beschreibung**
 
@@ -632,7 +375,209 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.21 – Unterbau des Korridors – Teil 21/43 (Y 75–75)
+### Schritt 9.12 – Unterbau des Korridors – Teil 12/41 (Y 72–72)
+
+- **Y-Bereich:** 72 bis 72
+- **Blöcke:** 1.746
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 1.723 |
+| Steinziegel | `stone_bricks` | 14 |
+| Endsteinziegel | `end_stone_bricks` | 9 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.13 – Unterbau des Korridors – Teil 13/41 (Y 73–73)
+
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.876
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 1.876 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.14 – Unterbau des Korridors – Teil 14/41 (Y 73–73)
+
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.918
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 1.918 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.15 – Unterbau des Korridors – Teil 15/41 (Y 73–73)
+
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.886
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 1.543 |
+| Endsteinziegel | `end_stone_bricks` | 199 |
+| Steinziegel | `stone_bricks` | 144 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.16 – Unterbau des Korridors – Teil 16/41 (Y 74–74)
+
+- **Y-Bereich:** 74 bis 74
+- **Blöcke:** 2.043
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 2.043 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.17 – Unterbau des Korridors – Teil 17/41 (Y 74–74)
+
+- **Y-Bereich:** 74 bis 74
+- **Blöcke:** 2.079
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 2.079 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.18 – Unterbau des Korridors – Teil 18/41 (Y 74–74)
+
+- **Y-Bereich:** 74 bis 74
+- **Blöcke:** 2.057
+- **Bauteile:** `korridor_unterbau`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffsteinziegel | `tuff_bricks` | 796 |
+| Steinziegel | `stone_bricks` | 668 |
+| Endsteinziegel | `end_stone_bricks` | 593 |
+
+**Beschreibung**
+
+Massiver Mauerkern vom Gelände bis unter den Gangboden, Außenband Putz, Sockel Rustika; über Straßen und am abgehobenen Teilstück offen.
+
+**Tipp**
+
+Spalte für Spalte von unten.
+
+**Achtung**
+
+Über der Via de' Bardi und der Piazza di Santa Felicita spannt der Gang frei.
+
+**Fakt**
+
+Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
+
+### Schritt 9.19 – Unterbau des Korridors – Teil 19/41 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.692
@@ -660,17 +605,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.22 – Unterbau des Korridors – Teil 22/43 (Y 75–75)
+### Schritt 9.20 – Unterbau des Korridors – Teil 20/41 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.683
+- **Blöcke:** 1.648
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.683 |
+| Tuffsteinziegel | `tuff_bricks` | 1.648 |
 
 **Beschreibung**
 
@@ -688,17 +633,17 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.23 – Unterbau des Korridors – Teil 23/43 (Y 75–75)
+### Schritt 9.21 – Unterbau des Korridors – Teil 21/41 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.686
+- **Blöcke:** 1.660
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffsteinziegel | `tuff_bricks` | 1.686 |
+| Tuffsteinziegel | `tuff_bricks` | 1.660 |
 
 **Beschreibung**
 
@@ -716,19 +661,19 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.24 – Unterbau des Korridors – Teil 24/43 (Y 75–75)
+### Schritt 9.22 – Unterbau des Korridors – Teil 22/41 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
-- **Blöcke:** 1.693
+- **Blöcke:** 1.681
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 790 |
-| Steinziegel | `stone_bricks` | 737 |
-| Tuffsteinziegel | `tuff_bricks` | 166 |
+| Endsteinziegel | `end_stone_bricks` | 741 |
+| Steinziegel | `stone_bricks` | 713 |
+| Tuffsteinziegel | `tuff_bricks` | 227 |
 
 **Beschreibung**
 
@@ -746,7 +691,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.25 – Unterbau des Korridors – Teil 25/43 (Y 76–76)
+### Schritt 9.23 – Unterbau des Korridors – Teil 23/41 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.835
@@ -774,7 +719,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.26 – Unterbau des Korridors – Teil 26/43 (Y 76–76)
+### Schritt 9.24 – Unterbau des Korridors – Teil 24/41 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.818
@@ -802,7 +747,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.27 – Unterbau des Korridors – Teil 27/43 (Y 76–76)
+### Schritt 9.25 – Unterbau des Korridors – Teil 25/41 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.821
@@ -831,18 +776,18 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.28 – Unterbau des Korridors – Teil 28/43 (Y 76–76)
+### Schritt 9.26 – Unterbau des Korridors – Teil 26/41 (Y 75–76)
 
-- **Y-Bereich:** 76 bis 76
-- **Blöcke:** 1.824
+- **Y-Bereich:** 75 bis 76
+- **Blöcke:** 1.827
 - **Bauteile:** `korridor_unterbau`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 878 |
-| Steinziegel | `stone_bricks` | 762 |
+| Endsteinziegel | `end_stone_bricks` | 880 |
+| Steinziegel | `stone_bricks` | 763 |
 | Tuffsteinziegel | `tuff_bricks` | 184 |
 
 **Beschreibung**
@@ -861,7 +806,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.29 – Unterbau des Korridors – Teil 29/43 (Y 77–77)
+### Schritt 9.27 – Unterbau des Korridors – Teil 27/41 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.849
@@ -890,7 +835,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.30 – Unterbau des Korridors – Teil 30/43 (Y 77–77)
+### Schritt 9.28 – Unterbau des Korridors – Teil 28/41 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.856
@@ -918,7 +863,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.31 – Unterbau des Korridors – Teil 31/43 (Y 77–77)
+### Schritt 9.29 – Unterbau des Korridors – Teil 29/41 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.853
@@ -948,7 +893,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.32 – Unterbau des Korridors – Teil 32/43 (Y 78–78)
+### Schritt 9.30 – Unterbau des Korridors – Teil 30/41 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.779
@@ -978,7 +923,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.33 – Unterbau des Korridors – Teil 33/43 (Y 78–78)
+### Schritt 9.31 – Unterbau des Korridors – Teil 31/41 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.833
@@ -1008,7 +953,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.34 – Unterbau des Korridors – Teil 34/43 (Y 78–78)
+### Schritt 9.32 – Unterbau des Korridors – Teil 32/41 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.808
@@ -1038,7 +983,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.35 – Unterbau des Korridors – Teil 35/43 (Y 79–79)
+### Schritt 9.33 – Unterbau des Korridors – Teil 33/41 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.512
@@ -1068,7 +1013,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.36 – Unterbau des Korridors – Teil 36/43 (Y 79–79)
+### Schritt 9.34 – Unterbau des Korridors – Teil 34/41 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.535
@@ -1098,7 +1043,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.37 – Unterbau des Korridors – Teil 37/43 (Y 79–79)
+### Schritt 9.35 – Unterbau des Korridors – Teil 35/41 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.558
@@ -1128,7 +1073,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.38 – Unterbau des Korridors – Teil 38/43 (Y 80–80)
+### Schritt 9.36 – Unterbau des Korridors – Teil 36/41 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.521
@@ -1158,7 +1103,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.39 – Unterbau des Korridors – Teil 39/43 (Y 80–80)
+### Schritt 9.37 – Unterbau des Korridors – Teil 37/41 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.466
@@ -1188,7 +1133,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.40 – Unterbau des Korridors – Teil 40/43 (Y 80–80)
+### Schritt 9.38 – Unterbau des Korridors – Teil 38/41 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.519
@@ -1218,7 +1163,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.41 – Unterbau des Korridors – Teil 41/43 (Y 81–81)
+### Schritt 9.39 – Unterbau des Korridors – Teil 39/41 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.459
@@ -1248,7 +1193,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.42 – Unterbau des Korridors – Teil 42/43 (Y 81–81)
+### Schritt 9.40 – Unterbau des Korridors – Teil 40/41 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.425
@@ -1278,7 +1223,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.43 – Unterbau des Korridors – Teil 43/43 (Y 81–81)
+### Schritt 9.41 – Unterbau des Korridors – Teil 41/41 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.489
@@ -1308,7 +1253,7 @@ Spalte für Spalte von unten.
 
 Für den Korridor wurden Häuser durchbrochen; über Santa Felicita führt er an der Kirchenfassade entlang.
 
-### Schritt 9.44 – Boden, Nordabschnitt (Via de' Bardi) – Teil 1/2 (Y 77–77)
+### Schritt 9.42 – Boden, Nordabschnitt (Via de' Bardi) – Teil 1/2 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.554
@@ -1336,7 +1281,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.45 – Boden, Nordabschnitt (Via de' Bardi) – Teil 2/2 (Y 78–78)
+### Schritt 9.43 – Boden, Nordabschnitt (Via de' Bardi) – Teil 2/2 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.554
@@ -1364,7 +1309,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.46 – Wände, Nordabschnitt (Via de' Bardi) – Teil 1/3 (Y 79–80)
+### Schritt 9.44 – Wände, Nordabschnitt (Via de' Bardi) – Teil 1/3 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.530
@@ -1374,8 +1319,9 @@ Der Corridoio ist rund einen Kilometer lang.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 768 |
-| Endsteinziegel | `end_stone_bricks` | 762 |
+| Endsteinziegel | `end_stone_bricks` | 752 |
+| Polierter Andesit | `polished_andesite` | 750 |
+| Graues Buntglas | `gray_stained_glass` | 28 |
 
 **Beschreibung**
 
@@ -1393,7 +1339,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.47 – Wände, Nordabschnitt (Via de' Bardi) – Teil 2/3 (Y 81–83)
+### Schritt 9.45 – Wände, Nordabschnitt (Via de' Bardi) – Teil 2/3 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.449
@@ -1403,8 +1349,8 @@ Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 843 |
-| Graues Buntglas | `gray_stained_glass` | 606 |
+| Polierter Andesit | `polished_andesite` | 801 |
+| Graues Buntglas | `gray_stained_glass` | 648 |
 
 **Beschreibung**
 
@@ -1422,7 +1368,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.48 – Wände, Nordabschnitt (Via de' Bardi) – Teil 3/3 (Y 84–85)
+### Schritt 9.46 – Wände, Nordabschnitt (Via de' Bardi) – Teil 3/3 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.248
@@ -1432,8 +1378,9 @@ Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 768 |
-| Endsteinziegel | `end_stone_bricks` | 480 |
+| Polierter Andesit | `polished_andesite` | 750 |
+| Endsteinziegel | `end_stone_bricks` | 478 |
+| Graues Buntglas | `gray_stained_glass` | 20 |
 
 **Beschreibung**
 
@@ -1451,7 +1398,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.49 – Decke, Nordabschnitt (Via de' Bardi) – Teil 1/2 (Y 86–86)
+### Schritt 9.47 – Decke, Nordabschnitt (Via de' Bardi) – Teil 1/2 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.543
@@ -1479,7 +1426,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.50 – Decke, Nordabschnitt (Via de' Bardi) – Teil 2/2 (Y 87–87)
+### Schritt 9.48 – Decke, Nordabschnitt (Via de' Bardi) – Teil 2/2 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.554
@@ -1507,7 +1454,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.51 – Boden, Abschnitt Santa Felicita – Teil 1/2 (Y 77–77)
+### Schritt 9.49 – Boden, Abschnitt Santa Felicita – Teil 1/2 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 798
@@ -1535,7 +1482,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.52 – Boden, Abschnitt Santa Felicita – Teil 2/2 (Y 78–79)
+### Schritt 9.50 – Boden, Abschnitt Santa Felicita – Teil 2/2 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.336
@@ -1570,7 +1517,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.53 – Wände, Abschnitt Santa Felicita – Teil 1/3 (Y 79–80)
+### Schritt 9.51 – Wände, Abschnitt Santa Felicita – Teil 1/3 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.336
@@ -1599,7 +1546,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.54 – Wände, Abschnitt Santa Felicita – Teil 2/3 (Y 81–83)
+### Schritt 9.52 – Wände, Abschnitt Santa Felicita – Teil 2/3 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.441
@@ -1629,7 +1576,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.55 – Wände, Abschnitt Santa Felicita – Teil 3/3 (Y 84–86)
+### Schritt 9.53 – Wände, Abschnitt Santa Felicita – Teil 3/3 (Y 84–86)
 
 - **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.274
@@ -1659,7 +1606,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.56 – Decke, Abschnitt Santa Felicita – Teil 1/2 (Y 86–86)
+### Schritt 9.54 – Decke, Abschnitt Santa Felicita – Teil 1/2 (Y 86–86)
 
 - **Y-Bereich:** 85 bis 86
 - **Blöcke:** 792
@@ -1688,7 +1635,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.57 – Decke, Abschnitt Santa Felicita – Teil 2/2 (Y 87–88)
+### Schritt 9.55 – Decke, Abschnitt Santa Felicita – Teil 2/2 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.334
@@ -1716,7 +1663,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.58 – Boden, Abschnitt Boboli – Teil 1/3 (Y 78–79)
+### Schritt 9.56 – Boden, Abschnitt Boboli – Teil 1/3 (Y 78–79)
 
 - **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.228
@@ -1744,7 +1691,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.59 – Boden, Abschnitt Boboli – Teil 2/3 (Y 80–80)
+### Schritt 9.57 – Boden, Abschnitt Boboli – Teil 2/3 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.275
@@ -1780,7 +1727,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.60 – Boden, Abschnitt Boboli – Teil 3/3 (Y 81–83)
+### Schritt 9.58 – Boden, Abschnitt Boboli – Teil 3/3 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 83
 - **Blöcke:** 839
@@ -1815,7 +1762,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.61 – Wände, Abschnitt Boboli – Teil 1/3 (Y 80–83)
+### Schritt 9.59 – Wände, Abschnitt Boboli – Teil 1/3 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.870
@@ -1845,7 +1792,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.62 – Wände, Abschnitt Boboli – Teil 2/3 (Y 84–85)
+### Schritt 9.60 – Wände, Abschnitt Boboli – Teil 2/3 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.164
@@ -1875,7 +1822,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.63 – Wände, Abschnitt Boboli – Teil 3/3 (Y 86–90)
+### Schritt 9.61 – Wände, Abschnitt Boboli – Teil 3/3 (Y 86–90)
 
 - **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.712
@@ -1905,7 +1852,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.64 – Decke, Abschnitt Boboli – Teil 1/3 (Y 87–88)
+### Schritt 9.62 – Decke, Abschnitt Boboli – Teil 1/3 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.222
@@ -1933,7 +1880,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.65 – Decke, Abschnitt Boboli – Teil 2/3 (Y 89–89)
+### Schritt 9.63 – Decke, Abschnitt Boboli – Teil 2/3 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.273
@@ -1961,7 +1908,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.66 – Decke, Abschnitt Boboli – Teil 3/3 (Y 90–92)
+### Schritt 9.64 – Decke, Abschnitt Boboli – Teil 3/3 (Y 90–92)
 
 - **Y-Bereich:** 90 bis 92
 - **Blöcke:** 837
@@ -1989,7 +1936,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.67 – Boden, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 82–82)
+### Schritt 9.65 – Boden, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.472
@@ -2017,7 +1964,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.68 – Boden, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 82–82)
+### Schritt 9.66 – Boden, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.466
@@ -2045,7 +1992,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.69 – Boden, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 82–82)
+### Schritt 9.67 – Boden, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.498
@@ -2073,7 +2020,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.70 – Boden, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 83–83)
+### Schritt 9.68 – Boden, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.479
@@ -2101,7 +2048,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.71 – Boden, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 83–83)
+### Schritt 9.69 – Boden, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.466
@@ -2129,7 +2076,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.72 – Boden, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 83–83)
+### Schritt 9.70 – Boden, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.498
@@ -2157,7 +2104,7 @@ Stufen zeigen zum Palast hin.
 
 Der Corridoio ist rund einen Kilometer lang.
 
-### Schritt 9.73 – Wände, Südabschnitt bis zum Ostflügel – Teil 1/3 (Y 84–85)
+### Schritt 9.71 – Wände, Südabschnitt bis zum Ostflügel – Teil 1/3 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.590
@@ -2186,7 +2133,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.74 – Wände, Südabschnitt bis zum Ostflügel – Teil 2/3 (Y 86–88)
+### Schritt 9.72 – Wände, Südabschnitt bis zum Ostflügel – Teil 2/3 (Y 86–88)
 
 - **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.500
@@ -2215,7 +2162,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.75 – Wände, Südabschnitt bis zum Ostflügel – Teil 3/3 (Y 89–90)
+### Schritt 9.73 – Wände, Südabschnitt bis zum Ostflügel – Teil 3/3 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.295
@@ -2244,7 +2191,7 @@ An Engstellen ist die innere Wandlage geöffnet, damit der Gang zusammenhängt.
 
 Durch die Fenster sah der Großherzog auf die Stadt, ohne gesehen zu werden.
 
-### Schritt 9.76 – Decke, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 91–91)
+### Schritt 9.74 – Decke, Südabschnitt bis zum Ostflügel – Teil 1/6 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.477
@@ -2272,7 +2219,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.77 – Decke, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 91–91)
+### Schritt 9.75 – Decke, Südabschnitt bis zum Ostflügel – Teil 2/6 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.458
@@ -2300,7 +2247,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.78 – Decke, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 91–91)
+### Schritt 9.76 – Decke, Südabschnitt bis zum Ostflügel – Teil 3/6 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.489
@@ -2328,7 +2275,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.79 – Decke, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 92–92)
+### Schritt 9.77 – Decke, Südabschnitt bis zum Ostflügel – Teil 4/6 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.486
@@ -2356,7 +2303,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.80 – Decke, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 92–92)
+### Schritt 9.78 – Decke, Südabschnitt bis zum Ostflügel – Teil 5/6 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.466
@@ -2384,7 +2331,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.81 – Decke, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 92–92)
+### Schritt 9.79 – Decke, Südabschnitt bis zum Ostflügel – Teil 6/6 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.498
@@ -2412,7 +2359,7 @@ Ohne Stirnwand am Schnitt zum Ponte Vecchio.
 
 Vasari baute den Korridor 1565 in nur fünf Monaten.
 
-### Schritt 9.82 – Licht im Korridor & Bilderfelder im Korridor – Teil 1/3 (Y 81–83)
+### Schritt 9.80 – Licht im Korridor & Bilderfelder im Korridor – Teil 1/3 (Y 81–83)
 
 - **Y-Bereich:** 81 bis 91
 - **Blöcke:** 1.853
@@ -2446,7 +2393,7 @@ Nie über Stufen. Die Bilder sitzen in der inneren Wandlage; die Außenlage blei
 
 Bis 2016 hing im Korridor die Sammlung der Selbstbildnisse der Uffizien. Im Vasarikorridor hängt heute die Sammlung der Selbstbildnisse; die Felder hier sind eine Vereinfachung und zeigen kein bestimmtes Bild (Katalog §10, vereinfacht, nicht nach Vorbild).
 
-### Schritt 9.83 – Bilderfelder im Korridor – Teil 2/3 (Y 84–85)
+### Schritt 9.81 – Bilderfelder im Korridor – Teil 2/3 (Y 84–85)
 
 - **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.143
@@ -2479,7 +2426,7 @@ Die Bilder sitzen in der inneren Wandlage; die Außenlage bleibt geschlossen.
 
 Im Vasarikorridor hängt heute die Sammlung der Selbstbildnisse; die Felder hier sind eine Vereinfachung und zeigen kein bestimmtes Bild (Katalog §10, vereinfacht, nicht nach Vorbild).
 
-### Schritt 9.84 – Bilderfelder im Korridor – Teil 3/3 (Y 86–89)
+### Schritt 9.82 – Bilderfelder im Korridor – Teil 3/3 (Y 86–89)
 
 - **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.672
