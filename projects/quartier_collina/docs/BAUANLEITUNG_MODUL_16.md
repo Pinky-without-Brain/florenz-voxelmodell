@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 12.037 |
+| Blöcke | 12.051 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 184 bis 221 |
 | X-Ausdehnung | -577 bis -540 (38 Blöcke) |
 | Z-Ausdehnung | 2483 bis 2533 (51 Blöcke) |
 | Kleinster Schritt | 1.617 Blöcke (Schritt 16.3) |
-| Mittlerer Schritt | 1.720 Blöcke |
+| Mittlerer Schritt | 1.722 Blöcke |
 | Größter Schritt | 1.893 Blöcke (Schritt 16.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 6.243 | 51,9 % |
+| Orange Keramik | `orange_terracotta` | 6.243 | 51,8 % |
 | Terrakotta | `terracotta` | 2.726 | 22,6 % |
-| Weißer Beton | `white_concrete` | 1.451 | 12,1 % |
+| Weißer Beton | `white_concrete` | 1.451 | 12,0 % |
 | Polierter Tuffstein | `polished_tuff` | 830 | 6,9 % |
 | Graues Buntglas | `gray_stained_glass` | 433 | 3,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 154 | 1,3 % |
@@ -33,6 +33,7 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 | 0,2 % |
 | Seelaterne | `sea_lantern` | 20 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,2 % |
+| Tuffstein | `tuff` | 14 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w475937098` | Haus w475937098 | 10.275 | 16.1–16.6 |
+| 1 | `w475937098` | Haus w475937098 | 10.289 | 16.1–16.6 |
 | 2 | `w475937098_innen` | Haus w475937098: Innenausbau | 1.762 | 16.7 |
 
 ## Bauschritte
 
-### Schritt 16.1 – Haus w475937098 – Teil 1/6 (Y 63–66)
+### Schritt 16.1 – Haus w475937098 – Teil 1/6 (Y 184–188)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.646
+- **Y-Bereich:** 184 bis 188
+- **Blöcke:** 1.660
 - **Bauteile:** `w475937098`
 
 **Teileliste**
@@ -62,6 +63,7 @@
 | Polierter Tuffstein | `polished_tuff` | 830 |
 | Orange Keramik | `orange_terracotta` | 733 |
 | Weißer Beton | `white_concrete` | 74 |
+| Tuffstein | `tuff` | 14 |
 | Glatter Stein | `smooth_stone` | 9 |
 
 **Beschreibung**
@@ -80,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Haus w475937098 – Teil 2/6 (Y 67–73)
+### Schritt 16.2 – Haus w475937098 – Teil 2/6 (Y 189–195)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 189 bis 195
 - **Blöcke:** 1.893
 - **Bauteile:** `w475937098`
 
@@ -112,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Haus w475937098 – Teil 3/6 (Y 74–79)
+### Schritt 16.3 – Haus w475937098 – Teil 3/6 (Y 196–201)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 196 bis 201
 - **Blöcke:** 1.617
 - **Bauteile:** `w475937098`
 
@@ -143,9 +145,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Haus w475937098 – Teil 4/6 (Y 80–85)
+### Schritt 16.4 – Haus w475937098 – Teil 4/6 (Y 202–207)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 202 bis 207
 - **Blöcke:** 1.617
 - **Bauteile:** `w475937098`
 
@@ -174,9 +176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.5 – Haus w475937098 – Teil 5/6 (Y 86–91)
+### Schritt 16.5 – Haus w475937098 – Teil 5/6 (Y 208–213)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 208 bis 213
 - **Blöcke:** 1.617
 - **Bauteile:** `w475937098`
 
@@ -205,9 +207,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.6 – Haus w475937098 – Teil 6/6 (Y 92–99)
+### Schritt 16.6 – Haus w475937098 – Teil 6/6 (Y 214–221)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 214 bis 221
 - **Blöcke:** 1.885
 - **Bauteile:** `w475937098`
 
@@ -238,7 +240,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 16.7 – Haus w475937098: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 185 bis 209
 - **Blöcke:** 1.762
 - **Bauteile:** `w475937098_innen`
 

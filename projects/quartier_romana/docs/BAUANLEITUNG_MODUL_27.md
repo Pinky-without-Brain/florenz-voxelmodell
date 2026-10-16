@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.773 |
+| Blöcke | 7.783 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 65 bis 102 |
 | X-Ausdehnung | -2312 bis -2281 (32 Blöcke) |
 | Z-Ausdehnung | 2375 bis 2405 (31 Blöcke) |
 | Kleinster Schritt | 1.108 Blöcke (Schritt 27.5) |
-| Mittlerer Schritt | 1.555 Blöcke |
+| Mittlerer Schritt | 1.557 Blöcke |
 | Größter Schritt | 1.738 Blöcke (Schritt 27.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 3.761 | 48,4 % |
-| Terrakotta | `terracotta` | 1.752 | 22,5 % |
-| Weißer Beton | `white_concrete` | 1.000 | 12,9 % |
+| Orange Keramik | `orange_terracotta` | 3.761 | 48,3 % |
+| Terrakotta | `terracotta` | 1.762 | 22,6 % |
+| Weißer Beton | `white_concrete` | 1.000 | 12,8 % |
 | Polierter Tuffstein | `polished_tuff` | 509 | 6,5 % |
 | Graues Buntglas | `gray_stained_glass` | 321 | 4,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 198 | 2,5 % |
@@ -48,14 +48,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118965488` | Haus w118965488 | 6.665 | 27.1–27.4 |
+| 1 | `w118965488` | Haus w118965488 | 6.675 | 27.1–27.4 |
 | 2 | `w118965488_innen` | Haus w118965488: Innenausbau | 1.108 | 27.5 |
 
 ## Bauschritte
 
-### Schritt 27.1 – Haus w118965488 – Teil 1/4 (Y 63–70)
+### Schritt 27.1 – Haus w118965488 – Teil 1/4 (Y 65–72)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 65 bis 72
 - **Blöcke:** 1.646
 - **Bauteile:** `w118965488`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Haus w118965488 – Teil 2/4 (Y 71–80)
+### Schritt 27.2 – Haus w118965488 – Teil 2/4 (Y 73–82)
 
-- **Y-Bereich:** 71 bis 80
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.738
 - **Bauteile:** `w118965488`
 
@@ -115,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.3 – Haus w118965488 – Teil 3/4 (Y 81–90)
+### Schritt 27.3 – Haus w118965488 – Teil 3/4 (Y 83–92)
 
-- **Y-Bereich:** 81 bis 90
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.690
 - **Bauteile:** `w118965488`
 
@@ -145,17 +145,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.4 – Haus w118965488 – Teil 4/4 (Y 91–100)
+### Schritt 27.4 – Haus w118965488 – Teil 4/4 (Y 93–102)
 
-- **Y-Bereich:** 91 bis 100
-- **Blöcke:** 1.591
+- **Y-Bereich:** 93 bis 102
+- **Blöcke:** 1.601
 - **Bauteile:** `w118965488`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 792 |
+| Terrakotta | `terracotta` | 802 |
 | Orange Keramik | `orange_terracotta` | 400 |
 | Fichtenholz-Bretter | `spruce_planks` | 198 |
 | Weißer Beton | `white_concrete` | 143 |
@@ -179,7 +179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 27.5 – Haus w118965488: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.108
 - **Bauteile:** `w118965488_innen`
 

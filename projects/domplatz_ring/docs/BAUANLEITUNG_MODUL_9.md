@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 9.810 |
+| Blöcke | 9.815 |
 | Bauschritte | 7 |
-| Y-Bereich | 65 bis 94 |
+| Y-Bereich | 64 bis 93 |
 | X-Ausdehnung | -89 bis -45 (45 Blöcke) |
 | Z-Ausdehnung | -313 bis -277 (37 Blöcke) |
 | Kleinster Schritt | 653 Blöcke (Schritt 9.3) |
-| Mittlerer Schritt | 1.401 Blöcke |
+| Mittlerer Schritt | 1.402 Blöcke |
 | Größter Schritt | 1.959 Blöcke (Schritt 9.1) |
 
 ## Gesamt-Stückliste
@@ -37,6 +37,9 @@
 | Seelaterne | `sea_lantern` | 15 | 0,2 % |
 | Rote Keramik | `red_terracotta` | 10 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 10 | 0,1 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -52,12 +55,13 @@
 | 2 | `w480049298_innen` | Reihenhaus an Via dei Pucci: Innenausbau | 653 | 9.3 |
 | 3 | `w480049299` | Reihenhaus an Via Ricasoli | 4.317 | 9.4–9.6 |
 | 4 | `w480049299_innen` | Reihenhaus an Via Ricasoli: Innenausbau | 945 | 9.7 |
+| 5 | `strassenschilder` | Straßenschilder | 5 | 9.7 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 65–77)
+### Schritt 9.1 – Reihenhaus an Via dei Pucci – Teil 1/2 (Y 64–76)
 
-- **Y-Bereich:** 65 bis 77
+- **Y-Bereich:** 64 bis 76
 - **Blöcke:** 1.959
 - **Bauteile:** `w480049298`
 
@@ -86,9 +90,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 78–93)
+### Schritt 9.2 – Reihenhaus an Via dei Pucci – Teil 2/2 (Y 77–92)
 
-- **Y-Bereich:** 78 bis 93
+- **Y-Bereich:** 77 bis 92
 - **Blöcke:** 1.936
 - **Bauteile:** `w480049298`
 
@@ -120,7 +124,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.3 – Reihenhaus an Via dei Pucci: Innenausbau
 
-- **Y-Bereich:** 65 bis 82
+- **Y-Bereich:** 64 bis 81
 - **Blöcke:** 653
 - **Bauteile:** `w480049298_innen`
 
@@ -158,9 +162,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.4 – Reihenhaus an Via Ricasoli – Teil 1/3 (Y 65–72)
+### Schritt 9.4 – Reihenhaus an Via Ricasoli – Teil 1/3 (Y 64–71)
 
-- **Y-Bereich:** 65 bis 72
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.447
 - **Bauteile:** `w480049299`
 
@@ -192,9 +196,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Reihenhaus an Via Ricasoli – Teil 2/3 (Y 73–83)
+### Schritt 9.5 – Reihenhaus an Via Ricasoli – Teil 2/3 (Y 72–82)
 
-- **Y-Bereich:** 73 bis 83
+- **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.469
 - **Bauteile:** `w480049299`
 
@@ -224,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Reihenhaus an Via Ricasoli – Teil 3/3 (Y 84–94)
+### Schritt 9.6 – Reihenhaus an Via Ricasoli – Teil 3/3 (Y 83–93)
 
-- **Y-Bereich:** 84 bis 94
+- **Y-Bereich:** 83 bis 93
 - **Blöcke:** 1.401
 - **Bauteile:** `w480049299`
 
@@ -257,11 +261,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.7 – Reihenhaus an Via Ricasoli: Innenausbau
+### Schritt 9.7 – Reihenhaus an Via Ricasoli: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 65 bis 82
-- **Blöcke:** 945
-- **Bauteile:** `w480049299_innen`
+- **Y-Bereich:** 64 bis 81
+- **Blöcke:** 950
+- **Bauteile:** `w480049299_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -274,6 +278,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 5 |
 | Weiße Keramik | `white_terracotta` | 5 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -283,16 +290,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

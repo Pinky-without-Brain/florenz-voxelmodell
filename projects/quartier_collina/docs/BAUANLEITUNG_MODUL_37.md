@@ -8,52 +8,54 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.937 |
+| Blöcke | 3.757 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 79 |
+| Y-Bereich | 167 bis 190 |
 | X-Ausdehnung | 1183 bis 1213 (31 Blöcke) |
 | Z-Ausdehnung | 2418 bis 2450 (33 Blöcke) |
-| Kleinster Schritt | 1.445 Blöcke (Schritt 37.2) |
-| Mittlerer Schritt | 1.469 Blöcke |
-| Größter Schritt | 1.492 Blöcke (Schritt 37.1) |
+| Kleinster Schritt | 1.799 Blöcke (Schritt 37.2) |
+| Mittlerer Schritt | 1.879 Blöcke |
+| Größter Schritt | 1.958 Blöcke (Schritt 37.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.785 | 60,8 % |
-| Terrakotta | `terracotta` | 554 | 18,9 % |
-| Polierter Tuffstein | `polished_tuff` | 418 | 14,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 76 | 2,6 % |
-| Graues Buntglas | `gray_stained_glass` | 72 | 2,5 % |
-| Glatter Stein | `smooth_stone` | 16 | 0,5 % |
-| Ziegelsteine | `bricks` | 14 | 0,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.785 | 47,5 % |
+| Tuffstein | `tuff` | 820 | 21,8 % |
+| Terrakotta | `terracotta` | 554 | 14,7 % |
+| Polierter Tuffstein | `polished_tuff` | 418 | 11,1 % |
+| Fichtenholz-Bretter | `spruce_planks` | 76 | 2,0 % |
+| Graues Buntglas | `gray_stained_glass` | 72 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 16 | 0,4 % |
+| Ziegelsteine | `bricks` | 14 | 0,4 % |
 | Seelaterne | `sea_lantern` | 2 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762542` | Reihenhaus an Viale Galileo | 2.935 | 37.1–37.2 |
+| 1 | `w119762542` | Reihenhaus an Viale Galileo | 3.755 | 37.1–37.2 |
 | 2 | `w119762542_innen` | Reihenhaus an Viale Galileo: Innenausbau | 2 | 37.2 |
 
 ## Bauschritte
 
-### Schritt 37.1 – Reihenhaus an Viale Galileo – Teil 1/2 (Y 63–69)
+### Schritt 37.1 – Reihenhaus an Viale Galileo – Teil 1/2 (Y 167–178)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.492
+- **Y-Bereich:** 167 bis 178
+- **Blöcke:** 1.958
 - **Bauteile:** `w119762542`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 947 |
+| Tuffstein | `tuff` | 820 |
+| Glatter Sandstein | `smooth_sandstone` | 674 |
 | Polierter Tuffstein | `polished_tuff` | 418 |
-| Fichtenholz-Bretter | `spruce_planks` | 57 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Fichtenholz-Bretter | `spruce_planks` | 19 |
+| Graues Buntglas | `gray_stained_glass` | 18 |
+| Glatter Stein | `smooth_stone` | 9 |
 
 **Beschreibung**
 
@@ -71,21 +73,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.2 – Reihenhaus an Viale Galileo – Teil 2/2 (Y 70–79) & Reihenhaus an Viale Galileo: Innenausbau
+### Schritt 37.2 – Reihenhaus an Viale Galileo – Teil 2/2 (Y 179–190) & Reihenhaus an Viale Galileo: Innenausbau
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.445
+- **Y-Bereich:** 174 bis 190
+- **Blöcke:** 1.799
 - **Bauteile:** `w119762542`, `w119762542_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 838 |
+| Glatter Sandstein | `smooth_sandstone` | 1.111 |
 | Terrakotta | `terracotta` | 554 |
-| Fichtenholz-Bretter | `spruce_planks` | 19 |
-| Graues Buntglas | `gray_stained_glass` | 18 |
+| Fichtenholz-Bretter | `spruce_planks` | 57 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 | Ziegelsteine | `bricks` | 14 |
+| Glatter Stein | `smooth_stone` | 7 |
 | Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**

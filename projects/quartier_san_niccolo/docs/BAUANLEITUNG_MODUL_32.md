@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.441 |
+| Blöcke | 2.440 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 83 bis 117 |
 | X-Ausdehnung | 1057 bis 1072 (16 Blöcke) |
 | Z-Ausdehnung | 1983 bis 1993 (11 Blöcke) |
-| Kleinster Schritt | 1.204 Blöcke (Schritt 32.1) |
-| Mittlerer Schritt | 1.221 Blöcke |
+| Kleinster Schritt | 1.203 Blöcke (Schritt 32.1) |
+| Mittlerer Schritt | 1.220 Blöcke |
 | Größter Schritt | 1.237 Blöcke (Schritt 32.2) |
 
 ## Gesamt-Stückliste
@@ -25,12 +25,13 @@
 | Graues Buntglas | `gray_stained_glass` | 196 | 8,0 % |
 | Terrakotta | `terracotta` | 123 | 5,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 116 | 4,8 % |
-| Polierter Tuffstein | `polished_tuff` | 115 | 4,7 % |
+| Polierter Tuffstein | `polished_tuff` | 113 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,8 % |
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 | 0,0 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -38,20 +39,21 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119814743` | Nebengebäude an Via dei Bastioni | 2.437 | 32.1–32.2 |
+| 1 | `w119814743` | Nebengebäude an Via dei Bastioni | 2.436 | 32.1–32.2 |
 | 2 | `w119814743_innen` | Nebengebäude an Via dei Bastioni: Innenausbau | 4 | 32.2 |
 
 ## Bauschritte
 
-### Schritt 32.1 – Nebengebäude an Via dei Bastioni – Teil 1/2 (Y 63–78)
+### Schritt 32.1 – Nebengebäude an Via dei Bastioni – Teil 1/2 (Y 83–98)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.204
+- **Y-Bereich:** 83 bis 98
+- **Blöcke:** 1.203
 - **Bauteile:** `w119814743`
 
 **Teileliste**
@@ -59,10 +61,17 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 947 |
-| Polierter Tuffstein | `polished_tuff` | 115 |
+| Polierter Tuffstein | `polished_tuff` | 113 |
 | Graues Buntglas | `gray_stained_glass` | 79 |
 | Fichtenholz-Bretter | `spruce_planks` | 44 |
 | Glatter Stein | `smooth_stone` | 19 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 **Beschreibung**
 
@@ -80,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 32.2 – Nebengebäude an Via dei Bastioni – Teil 2/2 (Y 79–97) & Nebengebäude an Via dei Bastioni: Innenausbau
+### Schritt 32.2 – Nebengebäude an Via dei Bastioni – Teil 2/2 (Y 99–117) & Nebengebäude an Via dei Bastioni: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 83 bis 117
 - **Blöcke:** 1.237
 - **Bauteile:** `w119814743`, `w119814743_innen`
 

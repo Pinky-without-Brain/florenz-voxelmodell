@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.466 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 93 bis 129 |
 | X-Ausdehnung | -2790 bis -2759 (32 Blöcke) |
 | Z-Ausdehnung | 2435 bis 2464 (30 Blöcke) |
 | Kleinster Schritt | 1.058 Blöcke (Schritt 8.5) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 8.1 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 63–69)
+### Schritt 8.1 – Reihenhaus an Via Ippolito Pindemonte – Teil 1/4 (Y 93–99)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.520
 - **Bauteile:** `w464975840`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 70–79)
+### Schritt 8.2 – Reihenhaus an Via Ippolito Pindemonte – Teil 2/4 (Y 100–109)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 100 bis 109
 - **Blöcke:** 1.774
 - **Bauteile:** `w464975840`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 80–88)
+### Schritt 8.3 – Reihenhaus an Via Ippolito Pindemonte – Teil 3/4 (Y 110–118)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 110 bis 118
 - **Blöcke:** 1.589
 - **Bauteile:** `w464975840`
 
@@ -141,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 89–99)
+### Schritt 8.4 – Reihenhaus an Via Ippolito Pindemonte – Teil 4/4 (Y 119–129)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 119 bis 129
 - **Blöcke:** 1.525
 - **Bauteile:** `w464975840`
 
@@ -175,7 +175,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.5 – Reihenhaus an Via Ippolito Pindemonte: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 93 bis 116
 - **Blöcke:** 1.058
 - **Bauteile:** `w464975840_innen`
 

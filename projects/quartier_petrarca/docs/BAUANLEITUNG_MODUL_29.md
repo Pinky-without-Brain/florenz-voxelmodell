@@ -8,35 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 31.032 |
+| Blöcke | 31.116 |
 | Bauschritte | 18 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 65 bis 104 |
 | X-Ausdehnung | -2701 bis -2607 (95 Blöcke) |
 | Z-Ausdehnung | 2111 bis 2178 (68 Blöcke) |
 | Kleinster Schritt | 1.122 Blöcke (Schritt 29.10) |
-| Mittlerer Schritt | 1.724 Blöcke |
+| Mittlerer Schritt | 1.729 Blöcke |
 | Größter Schritt | 2.002 Blöcke (Schritt 29.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 9.154 | 29,5 % |
+| Terrakotta | `terracotta` | 9.157 | 29,4 % |
 | Weißer Beton | `white_concrete` | 4.978 | 16,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.312 | 13,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 3.490 | 11,2 % |
-| Polierter Tuffstein | `polished_tuff` | 2.706 | 8,7 % |
-| Endsteinziegel | `end_stone_bricks` | 2.344 | 7,6 % |
+| Polierter Tuffstein | `polished_tuff` | 2.707 | 8,7 % |
+| Endsteinziegel | `end_stone_bricks` | 2.396 | 7,7 % |
 | Polierter Andesit | `polished_andesite` | 1.634 | 5,3 % |
 | Graues Buntglas | `gray_stained_glass` | 902 | 2,9 % |
 | Grüner Beton | `green_concrete` | 339 | 1,1 % |
 | Glatter Stein | `smooth_stone` | 316 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 198 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 197 | 0,6 % |
 | Ziegelsteine | `bricks` | 189 | 0,6 % |
 | Fichtenholz-Bretter | `spruce_planks` | 151 | 0,5 % |
-| Seelaterne | `sea_lantern` | 60 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 51 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 47 | 0,2 % |
+| Seelaterne | `sea_lantern` | 56 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 50 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 46 | 0,1 % |
+| Tuffstein | `tuff` | 35 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 30 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 30 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,1 % |
@@ -49,28 +50,28 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 150 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 148 |
 | Steintreppe | `stone_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464975836` | Reihenhaus an Via del Casone | 7.240 | 29.1–29.4 |
+| 1 | `w464975836` | Reihenhaus an Via del Casone | 7.275 | 29.1–29.4 |
 | 2 | `w464975836_innen` | Reihenhaus an Via del Casone: Innenausbau | 1.936 | 29.5 |
 | 3 | `w464975843` | Palazzo des Cinquecento an Via del Casone | 7.849 | 29.6–29.9 |
 | 4 | `w464975843_innen` | Palazzo des Cinquecento an Via del Casone: Innenausbau | 1.122 | 29.10 |
 | 5 | `w464975918` | Reihenhaus an Via del Casone | 5.375 | 29.11–29.13 |
 | 6 | `w464975918_innen` | Reihenhaus an Via del Casone: Innenausbau | 1.448 | 29.14 |
-| 7 | `w464975934` | Reihenhaus an Via del Casone | 4.394 | 29.15–29.17 |
-| 8 | `w464975934_innen` | Reihenhaus an Via del Casone: Innenausbau | 1.668 | 29.18 |
+| 7 | `w464975934` | Reihenhaus an Via del Casone | 4.447 | 29.15–29.17 |
+| 8 | `w464975934_innen` | Reihenhaus an Via del Casone: Innenausbau | 1.664 | 29.18 |
 
 ## Bauschritte
 
-### Schritt 29.1 – Reihenhaus an Via del Casone – Teil 1/4 (Y 63–69)
+### Schritt 29.1 – Reihenhaus an Via del Casone – Teil 1/4 (Y 66–73)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.793
+- **Y-Bereich:** 66 bis 73
+- **Blöcke:** 1.828
 - **Bauteile:** `w464975836`
 
 **Teileliste**
@@ -80,6 +81,7 @@
 | Weißer Beton | `white_concrete` | 869 |
 | Polierter Tuffstein | `polished_tuff` | 787 |
 | Polierter Andesit | `polished_andesite` | 105 |
+| Tuffstein | `tuff` | 35 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 
 **Beschreibung**
@@ -98,9 +100,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.2 – Reihenhaus an Via del Casone – Teil 2/4 (Y 70–79)
+### Schritt 29.2 – Reihenhaus an Via del Casone – Teil 2/4 (Y 74–83)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.786
 - **Bauteile:** `w464975836`
 
@@ -128,9 +130,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.3 – Reihenhaus an Via del Casone – Teil 3/4 (Y 80–89)
+### Schritt 29.3 – Reihenhaus an Via del Casone – Teil 3/4 (Y 84–93)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 84 bis 93
 - **Blöcke:** 1.781
 - **Bauteile:** `w464975836`
 
@@ -158,9 +160,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.4 – Reihenhaus an Via del Casone – Teil 4/4 (Y 90–100)
+### Schritt 29.4 – Reihenhaus an Via del Casone – Teil 4/4 (Y 94–104)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 94 bis 104
 - **Blöcke:** 1.880
 - **Bauteile:** `w464975836`
 
@@ -192,7 +194,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 29.5 – Reihenhaus an Via del Casone: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.936
 - **Bauteile:** `w464975836_innen`
 
@@ -230,9 +232,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 29.6 – Palazzo des Cinquecento an Via del Casone – Teil 1/4 (Y 63–69)
+### Schritt 29.6 – Palazzo des Cinquecento an Via del Casone – Teil 1/4 (Y 65–71)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.881
 - **Bauteile:** `w464975843`
 
@@ -263,9 +265,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.7 – Palazzo des Cinquecento an Via del Casone – Teil 2/4 (Y 70–79)
+### Schritt 29.7 – Palazzo des Cinquecento an Via del Casone – Teil 2/4 (Y 72–81)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.983
 - **Bauteile:** `w464975843`
 
@@ -295,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.8 – Palazzo des Cinquecento an Via del Casone – Teil 3/4 (Y 80–89)
+### Schritt 29.8 – Palazzo des Cinquecento an Via del Casone – Teil 3/4 (Y 82–91)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.983
 - **Bauteile:** `w464975843`
 
@@ -327,9 +329,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.9 – Palazzo des Cinquecento an Via del Casone – Teil 4/4 (Y 90–100)
+### Schritt 29.9 – Palazzo des Cinquecento an Via del Casone – Teil 4/4 (Y 92–102)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 92 bis 102
 - **Blöcke:** 2.002
 - **Bauteile:** `w464975843`
 
@@ -363,7 +365,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 29.10 – Palazzo des Cinquecento an Via del Casone: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 65 bis 86
 - **Blöcke:** 1.122
 - **Bauteile:** `w464975843_innen`
 
@@ -401,9 +403,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 29.11 – Reihenhaus an Via del Casone – Teil 1/3 (Y 63–72)
+### Schritt 29.11 – Reihenhaus an Via del Casone – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 67 bis 76
 - **Blöcke:** 1.749
 - **Bauteile:** `w464975918`
 
@@ -433,9 +435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.12 – Reihenhaus an Via del Casone – Teil 2/3 (Y 73–86)
+### Schritt 29.12 – Reihenhaus an Via del Casone – Teil 2/3 (Y 77–90)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 77 bis 90
 - **Blöcke:** 1.890
 - **Bauteile:** `w464975918`
 
@@ -463,9 +465,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.13 – Reihenhaus an Via del Casone – Teil 3/3 (Y 87–99)
+### Schritt 29.13 – Reihenhaus an Via del Casone – Teil 3/3 (Y 91–103)
 
-- **Y-Bereich:** 87 bis 99
+- **Y-Bereich:** 91 bis 103
 - **Blöcke:** 1.736
 - **Bauteile:** `w464975918`
 
@@ -497,7 +499,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 29.14 – Reihenhaus an Via del Casone: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 67 bis 91
 - **Blöcke:** 1.448
 - **Bauteile:** `w464975918_innen`
 
@@ -535,10 +537,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 29.15 – Reihenhaus an Via del Casone – Teil 1/3 (Y 63–72)
+### Schritt 29.15 – Reihenhaus an Via del Casone – Teil 1/3 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.486
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.487
 - **Bauteile:** `w464975934`
 
 **Teileliste**
@@ -546,7 +548,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 724 |
-| Polierter Tuffstein | `polished_tuff` | 618 |
+| Polierter Tuffstein | `polished_tuff` | 619 |
 | Weißer Beton | `white_concrete` | 77 |
 | Graues Buntglas | `gray_stained_glass` | 33 |
 | Glatter Stein | `smooth_stone` | 22 |
@@ -568,18 +570,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.16 – Reihenhaus an Via del Casone – Teil 2/3 (Y 73–86)
+### Schritt 29.16 – Reihenhaus an Via del Casone – Teil 2/3 (Y 77–91)
 
-- **Y-Bereich:** 73 bis 86
-- **Blöcke:** 1.402
+- **Y-Bereich:** 77 bis 91
+- **Blöcke:** 1.508
 - **Bauteile:** `w464975934`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.080 |
-| Weißer Beton | `white_concrete` | 214 |
+| Endsteinziegel | `end_stone_bricks` | 1.159 |
+| Weißer Beton | `white_concrete` | 241 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
 | Grüner Beton | `green_concrete` | 16 |
 
@@ -599,10 +601,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.17 – Reihenhaus an Via del Casone – Teil 3/3 (Y 87–99)
+### Schritt 29.17 – Reihenhaus an Via del Casone – Teil 3/3 (Y 92–103)
 
-- **Y-Bereich:** 87 bis 99
-- **Blöcke:** 1.506
+- **Y-Bereich:** 92 bis 103
+- **Blöcke:** 1.452
 - **Bauteile:** `w464975934`
 
 **Teileliste**
@@ -610,8 +612,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 764 |
-| Endsteinziegel | `end_stone_bricks` | 540 |
-| Weißer Beton | `white_concrete` | 107 |
+| Endsteinziegel | `end_stone_bricks` | 513 |
+| Weißer Beton | `white_concrete` | 80 |
 | Graues Buntglas | `gray_stained_glass` | 46 |
 | Ziegelsteine | `bricks` | 41 |
 | Grüner Beton | `green_concrete` | 8 |
@@ -634,29 +636,27 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 29.18 – Reihenhaus an Via del Casone: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.668
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 1.664
 - **Bauteile:** `w464975934_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.512 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Terrakotta | `terracotta` | 1.515 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
 
 **Beschreibung**
 

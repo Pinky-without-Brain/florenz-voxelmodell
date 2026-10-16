@@ -8,35 +8,36 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 45.775 |
+| Blöcke | 45.870 |
 | Bauschritte | 29 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 56 bis 95 |
 | X-Ausdehnung | -3092 bis -3008 (85 Blöcke) |
 | Z-Ausdehnung | 189 bis 385 (197 Blöcke) |
 | Kleinster Schritt | 463 Blöcke (Schritt 1.29) |
-| Mittlerer Schritt | 1.578 Blöcke |
+| Mittlerer Schritt | 1.582 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 1.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 20.199 | 44,1 % |
+| Weißer Beton | `white_concrete` | 20.214 | 44,1 % |
 | Terrakotta | `terracotta` | 6.401 | 14,0 % |
 | Polierter Tuffstein | `polished_tuff` | 5.083 | 11,1 % |
 | Hellgrauer Beton | `light_gray_concrete` | 3.661 | 8,0 % |
 | Glatter Stein | `smooth_stone` | 2.700 | 5,9 % |
-| Graues Buntglas | `gray_stained_glass` | 2.360 | 5,2 % |
+| Graues Buntglas | `gray_stained_glass` | 2.360 | 5,1 % |
 | Endsteinziegel | `end_stone_bricks` | 2.332 | 5,1 % |
 | Grüner Beton | `green_concrete` | 1.553 | 3,4 % |
 | Polierter Andesit | `polished_andesite` | 839 | 1,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 169 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 135 | 0,3 % |
+| Fichtenholz-Bretter | `spruce_planks` | 172 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 134 | 0,3 % |
+| Tuffstein | `tuff` | 80 | 0,2 % |
 | Ziegelsteine | `bricks` | 63 | 0,1 % |
 | Seelaterne | `sea_lantern` | 57 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 31 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 29 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 30 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 28 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,0 % |
@@ -48,26 +49,26 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 106 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 104 |
 | Steintreppe | `stone_stairs` | 60 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w495948961` | Palazzo des Ottocento an Via della Fonderia | 29.611 | 1.1–1.19 |
+| 1 | `w495948961` | Palazzo des Ottocento an Via della Fonderia | 29.691 | 1.1–1.19 |
 | 2 | `w495948961_innen` | Palazzo des Ottocento an Via della Fonderia: Innenausbau | 3.536 | 1.20–1.21 |
-| 3 | `w495948973` | Reihenhaus an Via della Fonderia | 6.924 | 1.22–1.25 |
-| 4 | `w495948973_innen` | Reihenhaus an Via della Fonderia: Innenausbau | 1.626 | 1.26 |
+| 3 | `w495948973` | Reihenhaus an Via della Fonderia | 6.942 | 1.22–1.25 |
+| 4 | `w495948973_innen` | Reihenhaus an Via della Fonderia: Innenausbau | 1.623 | 1.26 |
 | 5 | `w495948979` | Reihenhaus an Via della Fonderia | 3.615 | 1.27–1.28 |
 | 6 | `w495948979_innen` | Reihenhaus an Via della Fonderia: Innenausbau | 463 | 1.29 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo des Ottocento an Via della Fonderia – Teil 1/19 (Y 63–63)
+### Schritt 1.1 – Palazzo des Ottocento an Via della Fonderia – Teil 1/19 (Y 56–57)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.218
+- **Y-Bereich:** 56 bis 57
+- **Blöcke:** 1.298
 - **Bauteile:** `w495948961`
 
 **Teileliste**
@@ -75,6 +76,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.218 |
+| Tuffstein | `tuff` | 80 |
 
 **Beschreibung**
 
@@ -92,9 +94,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Palazzo des Ottocento an Via della Fonderia – Teil 2/19 (Y 63–64)
+### Schritt 1.2 – Palazzo des Ottocento an Via della Fonderia – Teil 2/19 (Y 57–58)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 57 bis 58
 - **Blöcke:** 2.079
 - **Bauteile:** `w495948961`
 
@@ -124,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Palazzo des Ottocento an Via della Fonderia – Teil 3/19 (Y 65–66)
+### Schritt 1.3 – Palazzo des Ottocento an Via della Fonderia – Teil 3/19 (Y 59–60)
 
-- **Y-Bereich:** 65 bis 66
+- **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.602
 - **Bauteile:** `w495948961`
 
@@ -156,9 +158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo des Ottocento an Via della Fonderia – Teil 4/19 (Y 67–68)
+### Schritt 1.4 – Palazzo des Ottocento an Via della Fonderia – Teil 4/19 (Y 61–62)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.394
 - **Bauteile:** `w495948961`
 
@@ -190,9 +192,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Palazzo des Ottocento an Via della Fonderia – Teil 5/19 (Y 69–70)
+### Schritt 1.5 – Palazzo des Ottocento an Via della Fonderia – Teil 5/19 (Y 63–64)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.395
 - **Bauteile:** `w495948961`
 
@@ -224,9 +226,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo des Ottocento an Via della Fonderia – Teil 6/19 (Y 71–72)
+### Schritt 1.6 – Palazzo des Ottocento an Via della Fonderia – Teil 6/19 (Y 65–66)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.507
 - **Bauteile:** `w495948961`
 
@@ -258,9 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo des Ottocento an Via della Fonderia – Teil 7/19 (Y 73–74)
+### Schritt 1.7 – Palazzo des Ottocento an Via della Fonderia – Teil 7/19 (Y 67–68)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.630
 - **Bauteile:** `w495948961`
 
@@ -289,9 +291,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo des Ottocento an Via della Fonderia – Teil 8/19 (Y 75–76)
+### Schritt 1.8 – Palazzo des Ottocento an Via della Fonderia – Teil 8/19 (Y 69–70)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.630
 - **Bauteile:** `w495948961`
 
@@ -319,9 +321,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Palazzo des Ottocento an Via della Fonderia – Teil 9/19 (Y 77–78)
+### Schritt 1.9 – Palazzo des Ottocento an Via della Fonderia – Teil 9/19 (Y 71–72)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.418
 - **Bauteile:** `w495948961`
 
@@ -351,9 +353,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Palazzo des Ottocento an Via della Fonderia – Teil 10/19 (Y 79–80)
+### Schritt 1.10 – Palazzo des Ottocento an Via della Fonderia – Teil 10/19 (Y 73–74)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.418
 - **Bauteile:** `w495948961`
 
@@ -383,9 +385,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo des Ottocento an Via della Fonderia – Teil 11/19 (Y 81–82)
+### Schritt 1.11 – Palazzo des Ottocento an Via della Fonderia – Teil 11/19 (Y 75–76)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.630
 - **Bauteile:** `w495948961`
 
@@ -413,9 +415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Palazzo des Ottocento an Via della Fonderia – Teil 12/19 (Y 83–84)
+### Schritt 1.12 – Palazzo des Ottocento an Via della Fonderia – Teil 12/19 (Y 77–78)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.630
 - **Bauteile:** `w495948961`
 
@@ -443,9 +445,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo des Ottocento an Via della Fonderia – Teil 13/19 (Y 85–86)
+### Schritt 1.13 – Palazzo des Ottocento an Via della Fonderia – Teil 13/19 (Y 79–80)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.524
 - **Bauteile:** `w495948961`
 
@@ -475,9 +477,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo des Ottocento an Via della Fonderia – Teil 14/19 (Y 87–88)
+### Schritt 1.14 – Palazzo des Ottocento an Via della Fonderia – Teil 14/19 (Y 81–82)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.418
 - **Bauteile:** `w495948961`
 
@@ -507,9 +509,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Palazzo des Ottocento an Via della Fonderia – Teil 15/19 (Y 89–90)
+### Schritt 1.15 – Palazzo des Ottocento an Via della Fonderia – Teil 15/19 (Y 83–84)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.418
 - **Bauteile:** `w495948961`
 
@@ -539,9 +541,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Palazzo des Ottocento an Via della Fonderia – Teil 16/19 (Y 91–92)
+### Schritt 1.16 – Palazzo des Ottocento an Via della Fonderia – Teil 16/19 (Y 85–86)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.920
 - **Bauteile:** `w495948961`
 
@@ -570,9 +572,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.17 – Palazzo des Ottocento an Via della Fonderia – Teil 17/19 (Y 93–93)
+### Schritt 1.17 – Palazzo des Ottocento an Via della Fonderia – Teil 17/19 (Y 87–87)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.549
 - **Bauteile:** `w495948961`
 
@@ -601,9 +603,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.18 – Palazzo des Ottocento an Via della Fonderia – Teil 18/19 (Y 93–93)
+### Schritt 1.18 – Palazzo des Ottocento an Via della Fonderia – Teil 18/19 (Y 87–87)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.601
 - **Bauteile:** `w495948961`
 
@@ -632,9 +634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Palazzo des Ottocento an Via della Fonderia – Teil 19/19 (Y 94–95)
+### Schritt 1.19 – Palazzo des Ottocento an Via della Fonderia – Teil 19/19 (Y 88–89)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.630
 - **Bauteile:** `w495948961`
 
@@ -660,9 +662,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Palazzo des Ottocento an Via della Fonderia: Innenausbau – Teil 1/2 (Y 63–77)
+### Schritt 1.20 – Palazzo des Ottocento an Via della Fonderia: Innenausbau – Teil 1/2 (Y 57–71)
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 57 bis 71
 - **Blöcke:** 1.768
 - **Bauteile:** `w495948961_innen`
 
@@ -704,9 +706,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.21 – Palazzo des Ottocento an Via della Fonderia: Innenausbau – Teil 2/2 (Y 78–93)
+### Schritt 1.21 – Palazzo des Ottocento an Via della Fonderia: Innenausbau – Teil 2/2 (Y 72–87)
 
-- **Y-Bereich:** 78 bis 93
+- **Y-Bereich:** 72 bis 87
 - **Blöcke:** 1.768
 - **Bauteile:** `w495948961_innen`
 
@@ -748,9 +750,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.22 – Reihenhaus an Via della Fonderia – Teil 1/4 (Y 63–70)
+### Schritt 1.22 – Reihenhaus an Via della Fonderia – Teil 1/4 (Y 58–65)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 58 bis 65
 - **Blöcke:** 1.806
 - **Bauteile:** `w495948973`
 
@@ -781,9 +783,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.23 – Reihenhaus an Via della Fonderia – Teil 2/4 (Y 71–80)
+### Schritt 1.23 – Reihenhaus an Via della Fonderia – Teil 2/4 (Y 66–75)
 
-- **Y-Bereich:** 71 bis 80
+- **Y-Bereich:** 66 bis 75
 - **Blöcke:** 1.721
 - **Bauteile:** `w495948973`
 
@@ -812,9 +814,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.24 – Reihenhaus an Via della Fonderia – Teil 3/4 (Y 81–90)
+### Schritt 1.24 – Reihenhaus an Via della Fonderia – Teil 3/4 (Y 76–85)
 
-- **Y-Bereich:** 81 bis 90
+- **Y-Bereich:** 76 bis 85
 - **Blöcke:** 1.669
 - **Bauteile:** `w495948973`
 
@@ -843,10 +845,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.25 – Reihenhaus an Via della Fonderia – Teil 4/4 (Y 91–100)
+### Schritt 1.25 – Reihenhaus an Via della Fonderia – Teil 4/4 (Y 86–95)
 
-- **Y-Bereich:** 91 bis 100
-- **Blöcke:** 1.728
+- **Y-Bereich:** 86 bis 95
+- **Blöcke:** 1.746
 - **Bauteile:** `w495948973`
 
 **Teileliste**
@@ -854,8 +856,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 991 |
-| Weißer Beton | `white_concrete` | 401 |
-| Fichtenholz-Bretter | `spruce_planks` | 169 |
+| Weißer Beton | `white_concrete` | 416 |
+| Fichtenholz-Bretter | `spruce_planks` | 172 |
 | Glatter Stein | `smooth_stone` | 70 |
 | Ziegelsteine | `bricks` | 60 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
@@ -879,8 +881,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.26 – Reihenhaus an Via della Fonderia: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.626
+- **Y-Bereich:** 58 bis 82
+- **Blöcke:** 1.623
 - **Bauteile:** `w495948973_innen`
 
 **Teileliste**
@@ -888,9 +890,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.476 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
@@ -899,7 +901,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 
@@ -917,9 +919,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.27 – Reihenhaus an Via della Fonderia – Teil 1/2 (Y 63–78)
+### Schritt 1.27 – Reihenhaus an Via della Fonderia – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 1.762
 - **Bauteile:** `w495948979`
 
@@ -948,9 +950,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.28 – Reihenhaus an Via della Fonderia – Teil 2/2 (Y 79–98)
+### Schritt 1.28 – Reihenhaus an Via della Fonderia – Teil 2/2 (Y 74–93)
 
-- **Y-Bereich:** 79 bis 98
+- **Y-Bereich:** 74 bis 93
 - **Blöcke:** 1.853
 - **Bauteile:** `w495948979`
 
@@ -982,7 +984,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 1.29 – Reihenhaus an Via della Fonderia: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 463
 - **Bauteile:** `w495948979_innen`
 

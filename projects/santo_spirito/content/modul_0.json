@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament bis Y 63 und Boden auf Y 64",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter Kirche, Sakristei und Campanile füllst du das Gelände mit Tuff bis Y 63 auf; nach Norden fällt der Boden bis Y 61.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 63 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Brunelleschi entwarf die Kirche 1434; gebaut wurde ab 1444."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 64 legst du den Boden: im Kreuz ein Schachbrett aus Glattem Stein und hellem Quarz im Halbmodul, im Umgang und in der Sakristei rosa Terrakotta.",
+      "tip": "Das Schachbrett folgt dem Raster von 6,4 Blöcken.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 8.",
+      "fact": "Das ganze Gebäude folgt einem Modul von elf florentinischen Braccia (6,42 m)."
+    }
+  }
+}

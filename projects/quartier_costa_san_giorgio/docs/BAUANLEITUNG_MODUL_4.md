@@ -8,28 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 9.971 |
-| Bauschritte | 6 |
-| Y-Bereich | 63 bis 99 |
+| Blöcke | 11.923 |
+| Bauschritte | 7 |
+| Y-Bereich | 98 bis 141 |
 | X-Ausdehnung | -628 bis -589 (40 Blöcke) |
 | Z-Ausdehnung | 1519 bis 1559 (41 Blöcke) |
-| Kleinster Schritt | 975 Blöcke (Schritt 4.6) |
-| Mittlerer Schritt | 1.662 Blöcke |
-| Größter Schritt | 1.878 Blöcke (Schritt 4.1) |
+| Kleinster Schritt | 975 Blöcke (Schritt 4.7) |
+| Mittlerer Schritt | 1.703 Blöcke |
+| Größter Schritt | 1.953 Blöcke (Schritt 4.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 4.233 | 42,5 % |
-| Terrakotta | `terracotta` | 1.903 | 19,1 % |
-| Weißer Beton | `white_concrete` | 1.290 | 12,9 % |
-| Polierter Tuffstein | `polished_tuff` | 680 | 6,8 % |
-| Graues Buntglas | `gray_stained_glass` | 478 | 4,8 % |
-| Polierter Andesit | `polished_andesite` | 404 | 4,1 % |
-| Glatter Stein | `smooth_stone` | 342 | 3,4 % |
-| Grüner Beton | `green_concrete` | 268 | 2,7 % |
-| Fichtenholz-Bretter | `spruce_planks` | 251 | 2,5 % |
+| Orange Keramik | `orange_terracotta` | 4.233 | 35,5 % |
+| Tuffstein | `tuff` | 1.953 | 16,4 % |
+| Terrakotta | `terracotta` | 1.903 | 16,0 % |
+| Weißer Beton | `white_concrete` | 1.289 | 10,8 % |
+| Polierter Tuffstein | `polished_tuff` | 680 | 5,7 % |
+| Graues Buntglas | `gray_stained_glass` | 478 | 4,0 % |
+| Polierter Andesit | `polished_andesite` | 404 | 3,4 % |
+| Glatter Stein | `smooth_stone` | 342 | 2,9 % |
+| Grüner Beton | `green_concrete` | 268 | 2,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 251 | 2,1 % |
 | Ziegelsteine | `bricks` | 42 | 0,4 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,2 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,2 % |
@@ -52,28 +53,56 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w474366874` | Haus w474366874 | 8.996 | 4.1–4.5 |
-| 2 | `w474366874_innen` | Haus w474366874: Innenausbau | 975 | 4.6 |
+| 1 | `w474366874` | Haus w474366874 | 10.948 | 4.1–4.6 |
+| 2 | `w474366874_innen` | Haus w474366874: Innenausbau | 975 | 4.7 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Haus w474366874 – Teil 1/5 (Y 63–68)
+### Schritt 4.1 – Haus w474366874 – Teil 1/6 (Y 98–104)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.878
+- **Y-Bereich:** 98 bis 104
+- **Blöcke:** 1.953
 - **Bauteile:** `w474366874`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 755 |
+| Tuffstein | `tuff` | 1.953 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 4.2 – Haus w474366874 – Teil 2/6 (Y 105–109)
+
+- **Y-Bereich:** 105 bis 109
+- **Blöcke:** 1.666
+- **Bauteile:** `w474366874`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 680 |
-| Weißer Beton | `white_concrete` | 251 |
-| Polierter Andesit | `polished_andesite` | 89 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 34 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
+| Orange Keramik | `orange_terracotta` | 654 |
+| Weißer Beton | `white_concrete` | 213 |
+| Polierter Andesit | `polished_andesite` | 66 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+| Grüner Beton | `green_concrete` | 17 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -91,23 +120,23 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Haus w474366874 – Teil 2/5 (Y 69–75)
+### Schritt 4.3 – Haus w474366874 – Teil 3/6 (Y 110–117)
 
-- **Y-Bereich:** 69 bis 75
-- **Blöcke:** 1.646
+- **Y-Bereich:** 110 bis 117
+- **Blöcke:** 1.857
 - **Bauteile:** `w474366874`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.080 |
-| Weißer Beton | `white_concrete` | 217 |
+| Orange Keramik | `orange_terracotta` | 1.181 |
+| Weißer Beton | `white_concrete` | 254 |
 | Glatter Stein | `smooth_stone` | 145 |
-| Polierter Andesit | `polished_andesite` | 98 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 34 |
-| Tuffsteinziegel | `tuff_bricks` | 8 |
+| Polierter Andesit | `polished_andesite` | 121 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Grüner Beton | `green_concrete` | 51 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
 
@@ -125,9 +154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Haus w474366874 – Teil 3/5 (Y 76–83)
+### Schritt 4.4 – Haus w474366874 – Teil 4/6 (Y 118–125)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 118 bis 125
 - **Blöcke:** 1.822
 - **Bauteile:** `w474366874`
 
@@ -158,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Haus w474366874 – Teil 4/5 (Y 84–91)
+### Schritt 4.5 – Haus w474366874 – Teil 5/6 (Y 126–133)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 126 bis 133
 - **Blöcke:** 1.822
 - **Bauteile:** `w474366874`
 
@@ -190,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Haus w474366874 – Teil 5/5 (Y 92–99)
+### Schritt 4.6 – Haus w474366874 – Teil 6/6 (Y 134–141)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 134 bis 141
 - **Blöcke:** 1.828
 - **Bauteile:** `w474366874`
 
@@ -223,9 +252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.6 – Haus w474366874: Innenausbau
+### Schritt 4.7 – Haus w474366874: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 105 bis 126
 - **Blöcke:** 975
 - **Bauteile:** `w474366874_innen`
 

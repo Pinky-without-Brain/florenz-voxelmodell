@@ -187,16 +187,18 @@ test('Brandwand: gemeinsame Zellen gehören der kleineren ID, das größere Haus
   assert.ok(zusammenhaengend([...parts.get('w10'), ...parts.get('w20')]));
 });
 
-test('Hanglage: Sockel auf dem höchsten Geländepunkt, Fundament reicht bis zum Gelände', () => {
+test('Hanglage: Boden auf dem Niveau des Umfelds (Median), talseitig Fundament bis zum Gelände, bergseitig ins Gelände', () => {
   const g = gebaeude('w500', ringRect(0, 0, 20, 14), 30);
   const a = akte(g, { fassade: GESCHLOSSEN });
   const hang = (x) => 60 + Math.floor(x / 4); // 60 .. 65
   const { grid, k, parts } = baue([g], { w500: a }, (x) => hang(x));
-  assert.equal(k.plan('w500').boden, 65);
+  const boden = k.plan('w500').boden;
+  assert.ok(boden > 60 && boden < 65, `Boden ${boden} zwischen tiefstem und höchstem Gelände`);
   for (let x = 0; x <= 20; x += 5) {
-    for (let y = hang(x) + 1; y <= 65; y++) assert.equal(grid.has(x, y, 7), true, `Fundament (${x},${y})`);
+    for (let y = hang(x) + 1; y <= boden; y++) assert.equal(grid.has(x, y, 7), true, `Fundament (${x},${y})`);
   }
   assert.equal(grid.has(0, 60, 7), false);
+  assert.equal(grid.has(20, boden - 1, 7), false, 'bergseitig keine Blöcke unter der Bodenplatte');
   assert.ok(zusammenhaengend(parts.get('w500')));
 });
 

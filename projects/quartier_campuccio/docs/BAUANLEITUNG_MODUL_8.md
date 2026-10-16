@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.709 |
+| Blöcke | 7.707 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 61 bis 96 |
 | X-Ausdehnung | -1625 bis -1592 (34 Blöcke) |
 | Z-Ausdehnung | 1399 bis 1438 (40 Blöcke) |
 | Kleinster Schritt | 598 Blöcke (Schritt 8.5) |
-| Mittlerer Schritt | 1.542 Blöcke |
-| Größter Schritt | 1.818 Blöcke (Schritt 8.1) |
+| Mittlerer Schritt | 1.541 Blöcke |
+| Größter Schritt | 1.817 Blöcke (Schritt 8.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Orange Keramik | `orange_terracotta` | 4.112 | 53,3 % |
+| Orange Keramik | `orange_terracotta` | 4.112 | 53,4 % |
 | Terrakotta | `terracotta` | 1.104 | 14,3 % |
-| Weißer Beton | `white_concrete` | 833 | 10,8 % |
+| Weißer Beton | `white_concrete` | 831 | 10,8 % |
 | Glatter Stein | `smooth_stone` | 520 | 6,7 % |
 | Polierter Tuffstein | `polished_tuff` | 456 | 5,9 % |
 | Graues Buntglas | `gray_stained_glass` | 290 | 3,8 % |
@@ -45,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306798523` | Palazzo des Cinquecento an Via Sant'Agostino | 7.111 | 8.1–8.4 |
+| 1 | `w306798523` | Palazzo des Cinquecento an Via Sant'Agostino | 7.109 | 8.1–8.4 |
 | 2 | `w306798523_innen` | Palazzo des Cinquecento an Via Sant'Agostino: Innenausbau | 598 | 8.5 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 1/4 (Y 63–70)
+### Schritt 8.1 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 1/4 (Y 61–68)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.818
+- **Y-Bereich:** 61 bis 68
+- **Blöcke:** 1.816
 - **Bauteile:** `w306798523`
 
 **Teileliste**
@@ -62,7 +62,7 @@
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 967 |
 | Polierter Tuffstein | `polished_tuff` | 456 |
-| Weißer Beton | `white_concrete` | 198 |
+| Weißer Beton | `white_concrete` | 196 |
 | Polierter Andesit | `polished_andesite` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 80 |
 | Tuffsteinziegel | `tuff_bricks` | 13 |
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 2/4 (Y 71–79)
+### Schritt 8.2 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 2/4 (Y 69–77)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.738
 - **Bauteile:** `w306798523`
 
@@ -117,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 3/4 (Y 80–88)
+### Schritt 8.3 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 3/4 (Y 78–86)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.738
 - **Bauteile:** `w306798523`
 
@@ -150,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 4/4 (Y 89–98)
+### Schritt 8.4 – Palazzo des Cinquecento an Via Sant'Agostino – Teil 4/4 (Y 87–96)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.817
 - **Bauteile:** `w306798523`
 
@@ -187,7 +187,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.5 – Palazzo des Cinquecento an Via Sant'Agostino: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 61 bis 81
 - **Blöcke:** 598
 - **Bauteile:** `w306798523_innen`
 

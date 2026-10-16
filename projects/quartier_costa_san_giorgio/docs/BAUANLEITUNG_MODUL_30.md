@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.995 |
+| Blöcke | 3.999 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 134 bis 170 |
 | X-Ausdehnung | 363 bis 383 (21 Blöcke) |
 | Z-Ausdehnung | 2214 bis 2228 (15 Blöcke) |
 | Kleinster Schritt | 378 Blöcke (Schritt 30.3) |
-| Mittlerer Schritt | 1.332 Blöcke |
+| Mittlerer Schritt | 1.333 Blöcke |
 | Größter Schritt | 1.823 Blöcke (Schritt 30.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.337 | 58,5 % |
+| Tuffstein | `tuff` | 2.359 | 59,0 % |
 | Terrakotta | `terracotta` | 479 | 12,0 % |
 | Glatter Stein | `smooth_stone` | 447 | 11,2 % |
-| Tuffsteinziegel | `tuff_bricks` | 217 | 5,4 % |
 | Polierter Tuffstein | `polished_tuff` | 202 | 5,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 199 | 5,0 % |
 | Graues Buntglas | `gray_stained_glass` | 181 | 4,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 | 1,7 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,7 % |
@@ -45,25 +45,25 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758442` | Wohnturm an Via di Belvedere | 3.617 | 30.1–30.2 |
+| 1 | `w397758442` | Wohnturm an Via di Belvedere | 3.621 | 30.1–30.2 |
 | 2 | `w397758442_innen` | Wohnturm an Via di Belvedere: Innenausbau | 378 | 30.3 |
 
 ## Bauschritte
 
-### Schritt 30.1 – Wohnturm an Via di Belvedere – Teil 1/2 (Y 63–78)
+### Schritt 30.1 – Wohnturm an Via di Belvedere – Teil 1/2 (Y 134–150)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.794
+- **Y-Bereich:** 134 bis 150
+- **Blöcke:** 1.798
 - **Bauteile:** `w397758442`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.242 |
+| Tuffstein | `tuff` | 1.262 |
 | Polierter Tuffstein | `polished_tuff` | 202 |
 | Glatter Stein | `smooth_stone` | 156 |
-| Tuffsteinziegel | `tuff_bricks` | 126 |
+| Tuffsteinziegel | `tuff_bricks` | 110 |
 | Graues Buntglas | `gray_stained_glass` | 68 |
 
 **Beschreibung**
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.2 – Wohnturm an Via di Belvedere – Teil 2/2 (Y 79–98)
+### Schritt 30.2 – Wohnturm an Via di Belvedere – Teil 2/2 (Y 151–170)
 
-- **Y-Bereich:** 79 bis 98
+- **Y-Bereich:** 151 bis 170
 - **Blöcke:** 1.823
 - **Bauteile:** `w397758442`
 
@@ -92,11 +92,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.095 |
+| Tuffstein | `tuff` | 1.097 |
 | Glatter Stein | `smooth_stone` | 291 |
 | Terrakotta | `terracotta` | 230 |
 | Graues Buntglas | `gray_stained_glass` | 113 |
-| Tuffsteinziegel | `tuff_bricks` | 91 |
+| Tuffsteinziegel | `tuff_bricks` | 89 |
 | Ziegelsteine | `bricks` | 3 |
 
 **Beschreibung**
@@ -117,7 +117,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 30.3 – Wohnturm an Via di Belvedere: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 135 bis 159
 - **Blöcke:** 378
 - **Bauteile:** `w397758442_innen`
 

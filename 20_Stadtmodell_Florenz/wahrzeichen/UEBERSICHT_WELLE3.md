@@ -26,6 +26,8 @@ Die Gebäude der Liste stehen in `loadLandmarks()` (`tools/emit/stadtbasis.js`) 
 
 „Höhe in den Daten“ ist der Wert aus OSM bzw. die Schätzung der Stadtbasis; für die Modelle gelten erst die Maße der jeweiligen `REFERENZMASSE.md`.
 
+**Stand 15.10.2026: alle Einträge der Tabelle sind gebaut** (Projekte gleichen Namens; Arnobrücken als `ponte_santa_trinita`, `ponte_alla_carraia`, `ponte_alle_grazie`, `ponte_amerigo_vespucci`, Bauplan `tools/wahrzeichen/bruecke.js`; Palazzi, Bargello und Innocenti über `tools/wahrzeichen/palazzo.js`). Der Eintrag „Ponte San Niccolò“ war ein Fehltreffer der Datenaufbereitung (Kirche, Oratorium und Stadttor mit „San Niccolò“ im Namen); die Brücke liegt außerhalb des Datengebiets. `tools/data/wahrzeichen_build.js` verlangt jetzt „ponte“ im Gebäudenamen, `data/stadt/wahrzeichen.json` ist entsprechend korrigiert. Ponte alla Vittoria ist in den Daten nicht enthalten.
+
 ## 2. Reihenfolge
 1. **Santa Croce** – größte Kirche der Liste, klarer Aufbau (dreischiffige Basilika mit offenem Dachstuhl, T-Querhaus mit Kapellenreihe, Fassade, Campanile); Platz und Quartiere ringsum sind gebaut.
 2. **San Lorenzo + Cappelle Medicee** (ein Projekt, zwei Masken; Alte und Neue Sakristei, Fürstenkapelle mit Kuppel).

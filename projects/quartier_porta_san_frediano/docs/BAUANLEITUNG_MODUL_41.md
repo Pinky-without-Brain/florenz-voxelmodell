@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 19.682 |
+| Blöcke | 19.684 |
 | Bauschritte | 11 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 57 bis 95 |
 | X-Ausdehnung | -2703 bis -2656 (48 Blöcke) |
 | Z-Ausdehnung | 614 bis 674 (61 Blöcke) |
 | Kleinster Schritt | 1.504 Blöcke (Schritt 41.10) |
@@ -37,6 +37,8 @@
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -50,12 +52,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w118932420` | Porta San Frediano | 15.148 | 41.1–41.8 |
 | 2 | `w118932420_innen` | Porta San Frediano: Innenausbau | 4.534 | 41.9–41.11 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 41.11 |
 
 ## Bauschritte
 
-### Schritt 41.1 – Porta San Frediano – Teil 1/8 (Y 63–63)
+### Schritt 41.1 – Porta San Frediano – Teil 1/8 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.822
 - **Bauteile:** `w118932420`
 
@@ -81,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.2 – Porta San Frediano – Teil 2/8 (Y 64–69)
+### Schritt 41.2 – Porta San Frediano – Teil 2/8 (Y 58–63)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 58 bis 63
 - **Blöcke:** 1.938
 - **Bauteile:** `w118932420`
 
@@ -113,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.3 – Porta San Frediano – Teil 3/8 (Y 70–74)
+### Schritt 41.3 – Porta San Frediano – Teil 3/8 (Y 64–68)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.765
 - **Bauteile:** `w118932420`
 
@@ -145,9 +148,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.4 – Porta San Frediano – Teil 4/8 (Y 75–80)
+### Schritt 41.4 – Porta San Frediano – Teil 4/8 (Y 69–74)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 2.086
 - **Bauteile:** `w118932420`
 
@@ -176,9 +179,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.5 – Porta San Frediano – Teil 5/8 (Y 81–85)
+### Schritt 41.5 – Porta San Frediano – Teil 5/8 (Y 75–79)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.685
 - **Bauteile:** `w118932420`
 
@@ -207,9 +210,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.6 – Porta San Frediano – Teil 6/8 (Y 86–91)
+### Schritt 41.6 – Porta San Frediano – Teil 6/8 (Y 80–85)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 2.046
 - **Bauteile:** `w118932420`
 
@@ -238,9 +241,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.7 – Porta San Frediano – Teil 7/8 (Y 92–94)
+### Schritt 41.7 – Porta San Frediano – Teil 7/8 (Y 86–88)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.820
 - **Bauteile:** `w118932420`
 
@@ -268,9 +271,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.8 – Porta San Frediano – Teil 8/8 (Y 95–101)
+### Schritt 41.8 – Porta San Frediano – Teil 8/8 (Y 89–95)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 89 bis 95
 - **Blöcke:** 1.986
 - **Bauteile:** `w118932420`
 
@@ -297,9 +300,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.9 – Porta San Frediano: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 41.9 – Porta San Frediano: Innenausbau – Teil 1/3 (Y 57–66)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 57 bis 66
 - **Blöcke:** 1.517
 - **Bauteile:** `w118932420_innen`
 
@@ -335,9 +338,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.10 – Porta San Frediano: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 41.10 – Porta San Frediano: Innenausbau – Teil 2/3 (Y 67–73)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.504
 - **Bauteile:** `w118932420_innen`
 
@@ -375,11 +378,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 41.11 – Porta San Frediano: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 41.11 – Porta San Frediano: Innenausbau – Teil 3/3 (Y 74–81) & Straßenschilder
 
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.513
-- **Bauteile:** `w118932420_innen`
+- **Y-Bereich:** 64 bis 81
+- **Blöcke:** 1.515
+- **Bauteile:** `w118932420_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -394,6 +397,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -403,16 +408,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

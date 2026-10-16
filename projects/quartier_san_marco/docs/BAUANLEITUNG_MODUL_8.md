@@ -8,81 +8,83 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.174 |
+| Blöcke | 50.373 |
 | Bauschritte | 36 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 67 bis 107 |
 | X-Ausdehnung | 360 bis 460 (101 Blöcke) |
 | Z-Ausdehnung | -1495 bis -1373 (123 Blöcke) |
 | Kleinster Schritt | 772 Blöcke (Schritt 8.31) |
-| Mittlerer Schritt | 1.394 Blöcke |
+| Mittlerer Schritt | 1.399 Blöcke |
 | Größter Schritt | 2.079 Blöcke (Schritt 8.32) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 11.048 | 22,0 % |
-| Orange Keramik | `orange_terracotta` | 10.282 | 20,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 8.840 | 17,6 % |
-| Polierter Tuffstein | `polished_tuff` | 6.563 | 13,1 % |
+| Terrakotta | `terracotta` | 11.046 | 21,9 % |
+| Orange Keramik | `orange_terracotta` | 10.282 | 20,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 8.840 | 17,5 % |
+| Polierter Tuffstein | `polished_tuff` | 6.562 | 13,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 4.007 | 8,0 % |
 | Glatter Stein | `smooth_stone` | 2.055 | 4,1 % |
+| Rosa Keramik | `pink_terracotta` | 1.800 | 3,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.789 | 3,6 % |
-| Rosa Keramik | `pink_terracotta` | 1.776 | 3,5 % |
 | Weißer Beton | `white_concrete` | 1.254 | 2,5 % |
 | Grüner Beton | `green_concrete` | 1.044 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 513 | 1,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 487 | 1,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 132 | 0,3 % |
+| Tuffstein | `tuff` | 173 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 133 | 0,3 % |
 | Ziegelsteine | `bricks` | 123 | 0,2 % |
-| Seelaterne | `sea_lantern` | 71 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 50 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 46 | 0,1 % |
+| Seelaterne | `sea_lantern` | 75 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 51 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 47 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 24 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 3 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 2 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 100 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 102 |
 | Steintreppe | `stone_stairs` | 60 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w111829534` | Haus w111829534 | 6.310 | 8.1–8.4 |
+| 1 | `w111829534` | Haus w111829534 | 6.453 | 8.1–8.4 |
 | 2 | `w111829534_innen` | Haus w111829534: Innenausbau | 2 | 8.5 |
 | 3 | `w487162466` | Reihenhaus an Via della Dogana | 15.696 | 8.5–8.15 |
 | 4 | `w487162466_innen` | Reihenhaus an Via della Dogana: Innenausbau | 3.351 | 8.16–8.18 |
 | 5 | `w487162486` | Palazzo des Ottocento an Via Camillo Cavour | 16.691 | 8.19–8.31 |
 | 6 | `w487162486_innen` | Palazzo des Ottocento an Via Camillo Cavour: Innenausbau | 4.158 | 8.32–8.33 |
-| 7 | `w487162555` | Haus w487162555 | 2.957 | 8.34–8.35 |
-| 8 | `w487162555_innen` | Haus w487162555: Innenausbau | 1.009 | 8.36 |
+| 7 | `w487162555` | Haus w487162555 | 3.011 | 8.34–8.35 |
+| 8 | `w487162555_innen` | Haus w487162555: Innenausbau | 1.011 | 8.36 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Haus w111829534 – Teil 1/4 (Y 63–70)
+### Schritt 8.1 – Haus w111829534 – Teil 1/4 (Y 67–76)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.578
+- **Y-Bereich:** 67 bis 76
+- **Blöcke:** 1.545
 - **Bauteile:** `w111829534`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 950 |
+| Glatter Sandstein | `smooth_sandstone` | 824 |
 | Polierter Tuffstein | `polished_tuff` | 318 |
-| Glatter Stein | `smooth_stone` | 165 |
-| Graues Buntglas | `gray_stained_glass` | 70 |
-| Polierter Andesit | `polished_andesite` | 61 |
+| Tuffstein | `tuff` | 143 |
+| Glatter Stein | `smooth_stone` | 140 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
+| Polierter Andesit | `polished_andesite` | 52 |
 | Tuffsteinziegel | `tuff_bricks` | 14 |
 
 **Beschreibung**
@@ -101,9 +103,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Haus w111829534 – Teil 2/4 (Y 71–79)
+### Schritt 8.2 – Haus w111829534 – Teil 2/4 (Y 77–85)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 77 bis 85
+- **Blöcke:** 1.661
+- **Bauteile:** `w111829534`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.197 |
+| Glatter Stein | `smooth_stone` | 331 |
+| Graues Buntglas | `gray_stained_glass` | 79 |
+| Polierter Andesit | `polished_andesite` | 54 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 8.3 – Haus w111829534 – Teil 3/4 (Y 86–94)
+
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.660
 - **Bauteile:** `w111829534`
 
@@ -111,8 +144,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.193 |
-| Glatter Stein | `smooth_stone` | 335 |
+| Glatter Sandstein | `smooth_sandstone` | 1.105 |
+| Glatter Stein | `smooth_stone` | 423 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 | Polierter Andesit | `polished_andesite` | 48 |
 
@@ -132,40 +165,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Haus w111829534 – Teil 3/4 (Y 80–87)
+### Schritt 8.4 – Haus w111829534 – Teil 4/4 (Y 95–105)
 
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.485
-- **Bauteile:** `w111829534`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 983 |
-| Glatter Stein | `smooth_stone` | 394 |
-| Graues Buntglas | `gray_stained_glass` | 63 |
-| Polierter Andesit | `polished_andesite` | 45 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 8.4 – Haus w111829534 – Teil 4/4 (Y 88–98)
-
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 95 bis 105
 - **Blöcke:** 1.587
 - **Bauteile:** `w111829534`
 
@@ -196,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Haus w111829534: Innenausbau & Reihenhaus an Via della Dogana – Teil 1/11 (Y 63–63)
+### Schritt 8.5 – Haus w111829534: Innenausbau & Reihenhaus an Via della Dogana – Teil 1/11 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.484
 - **Bauteile:** `w111829534_innen`, `w487162466`
 
@@ -225,9 +227,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.6 – Reihenhaus an Via della Dogana – Teil 2/11 (Y 64–66)
+### Schritt 8.6 – Reihenhaus an Via della Dogana – Teil 2/11 (Y 70–72)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.197
 - **Bauteile:** `w487162466`
 
@@ -254,9 +256,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – Reihenhaus an Via della Dogana – Teil 3/11 (Y 67–70)
+### Schritt 8.7 – Reihenhaus an Via della Dogana – Teil 3/11 (Y 73–76)
 
-- **Y-Bereich:** 67 bis 70
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.525
 - **Bauteile:** `w487162466`
 
@@ -285,9 +287,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.8 – Reihenhaus an Via della Dogana – Teil 4/11 (Y 71–74)
+### Schritt 8.8 – Reihenhaus an Via della Dogana – Teil 4/11 (Y 77–80)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.591
 - **Bauteile:** `w487162466`
 
@@ -315,9 +317,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.9 – Reihenhaus an Via della Dogana – Teil 5/11 (Y 75–78)
+### Schritt 8.9 – Reihenhaus an Via della Dogana – Teil 5/11 (Y 81–84)
 
-- **Y-Bereich:** 75 bis 78
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.525
 - **Bauteile:** `w487162466`
 
@@ -345,9 +347,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – Reihenhaus an Via della Dogana – Teil 6/11 (Y 79–81)
+### Schritt 8.10 – Reihenhaus an Via della Dogana – Teil 6/11 (Y 85–87)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.185
 - **Bauteile:** `w487162466`
 
@@ -375,9 +377,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.11 – Reihenhaus an Via della Dogana – Teil 7/11 (Y 82–85)
+### Schritt 8.11 – Reihenhaus an Via della Dogana – Teil 7/11 (Y 88–91)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 88 bis 91
 - **Blöcke:** 1.525
 - **Bauteile:** `w487162466`
 
@@ -405,9 +407,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.12 – Reihenhaus an Via della Dogana – Teil 8/11 (Y 86–88)
+### Schritt 8.12 – Reihenhaus an Via della Dogana – Teil 8/11 (Y 92–94)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.218
 - **Bauteile:** `w487162466`
 
@@ -433,9 +435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.13 – Reihenhaus an Via della Dogana – Teil 9/11 (Y 89–92)
+### Schritt 8.13 – Reihenhaus an Via della Dogana – Teil 9/11 (Y 95–98)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 95 bis 98
 - **Blöcke:** 1.586
 - **Bauteile:** `w487162466`
 
@@ -464,9 +466,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.14 – Reihenhaus an Via della Dogana – Teil 10/11 (Y 93–94)
+### Schritt 8.14 – Reihenhaus an Via della Dogana – Teil 10/11 (Y 99–100)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.783
 - **Bauteile:** `w487162466`
 
@@ -494,9 +496,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.15 – Reihenhaus an Via della Dogana – Teil 11/11 (Y 95–101)
+### Schritt 8.15 – Reihenhaus an Via della Dogana – Teil 11/11 (Y 101–107)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 101 bis 107
 - **Blöcke:** 1.079
 - **Bauteile:** `w487162466`
 
@@ -523,9 +525,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.16 – Reihenhaus an Via della Dogana: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 8.16 – Reihenhaus an Via della Dogana: Innenausbau – Teil 1/3 (Y 69–78)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.124
 - **Bauteile:** `w487162466_innen`
 
@@ -561,9 +563,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.17 – Reihenhaus an Via della Dogana: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 8.17 – Reihenhaus an Via della Dogana: Innenausbau – Teil 2/3 (Y 79–85)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.112
 - **Bauteile:** `w487162466_innen`
 
@@ -599,9 +601,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.18 – Reihenhaus an Via della Dogana: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 8.18 – Reihenhaus an Via della Dogana: Innenausbau – Teil 3/3 (Y 86–93)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.115
 - **Bauteile:** `w487162466_innen`
 
@@ -639,9 +641,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.19 – Palazzo des Ottocento an Via Camillo Cavour – Teil 1/13 (Y 63–63)
+### Schritt 8.19 – Palazzo des Ottocento an Via Camillo Cavour – Teil 1/13 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.199
 - **Bauteile:** `w487162486`
 
@@ -667,9 +669,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.20 – Palazzo des Ottocento an Via Camillo Cavour – Teil 2/13 (Y 63–63)
+### Schritt 8.20 – Palazzo des Ottocento an Via Camillo Cavour – Teil 2/13 (Y 69–69)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.187
 - **Bauteile:** `w487162486`
 
@@ -695,9 +697,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.21 – Palazzo des Ottocento an Via Camillo Cavour – Teil 3/13 (Y 64–67)
+### Schritt 8.21 – Palazzo des Ottocento an Via Camillo Cavour – Teil 3/13 (Y 70–73)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 1.491
 - **Bauteile:** `w487162486`
 
@@ -729,9 +731,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.22 – Palazzo des Ottocento an Via Camillo Cavour – Teil 4/13 (Y 68–70)
+### Schritt 8.22 – Palazzo des Ottocento an Via Camillo Cavour – Teil 4/13 (Y 74–76)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.083
 - **Bauteile:** `w487162486`
 
@@ -763,9 +765,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.23 – Palazzo des Ottocento an Via Camillo Cavour – Teil 5/13 (Y 71–74)
+### Schritt 8.23 – Palazzo des Ottocento an Via Camillo Cavour – Teil 5/13 (Y 77–80)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.523
 - **Bauteile:** `w487162486`
 
@@ -795,9 +797,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.24 – Palazzo des Ottocento an Via Camillo Cavour – Teil 6/13 (Y 75–77)
+### Schritt 8.24 – Palazzo des Ottocento an Via Camillo Cavour – Teil 6/13 (Y 81–83)
 
-- **Y-Bereich:** 75 bis 77
+- **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.129
 - **Bauteile:** `w487162486`
 
@@ -827,9 +829,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.25 – Palazzo des Ottocento an Via Camillo Cavour – Teil 7/13 (Y 78–81)
+### Schritt 8.25 – Palazzo des Ottocento an Via Camillo Cavour – Teil 7/13 (Y 84–87)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.428
 - **Bauteile:** `w487162486`
 
@@ -859,9 +861,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.26 – Palazzo des Ottocento an Via Camillo Cavour – Teil 8/13 (Y 82–84)
+### Schritt 8.26 – Palazzo des Ottocento an Via Camillo Cavour – Teil 8/13 (Y 88–90)
 
-- **Y-Bereich:** 82 bis 84
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.158
 - **Bauteile:** `w487162486`
 
@@ -890,9 +892,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.27 – Palazzo des Ottocento an Via Camillo Cavour – Teil 9/13 (Y 85–88)
+### Schritt 8.27 – Palazzo des Ottocento an Via Camillo Cavour – Teil 9/13 (Y 91–94)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.457
 - **Bauteile:** `w487162486`
 
@@ -922,9 +924,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.28 – Palazzo des Ottocento an Via Camillo Cavour – Teil 10/13 (Y 89–91)
+### Schritt 8.28 – Palazzo des Ottocento an Via Camillo Cavour – Teil 10/13 (Y 95–97)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 95 bis 97
 - **Blöcke:** 1.100
 - **Bauteile:** `w487162486`
 
@@ -954,9 +956,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.29 – Palazzo des Ottocento an Via Camillo Cavour – Teil 11/13 (Y 92–93)
+### Schritt 8.29 – Palazzo des Ottocento an Via Camillo Cavour – Teil 11/13 (Y 98–99)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 1.825
 - **Bauteile:** `w487162486`
 
@@ -985,9 +987,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.30 – Palazzo des Ottocento an Via Camillo Cavour – Teil 12/13 (Y 93–93)
+### Schritt 8.30 – Palazzo des Ottocento an Via Camillo Cavour – Teil 12/13 (Y 99–99)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.339
 - **Bauteile:** `w487162486`
 
@@ -1016,9 +1018,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.31 – Palazzo des Ottocento an Via Camillo Cavour – Teil 13/13 (Y 94–95)
+### Schritt 8.31 – Palazzo des Ottocento an Via Camillo Cavour – Teil 13/13 (Y 100–101)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 100 bis 101
 - **Blöcke:** 772
 - **Bauteile:** `w487162486`
 
@@ -1044,9 +1046,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.32 – Palazzo des Ottocento an Via Camillo Cavour: Innenausbau – Teil 1/2 (Y 63–77)
+### Schritt 8.32 – Palazzo des Ottocento an Via Camillo Cavour: Innenausbau – Teil 1/2 (Y 69–83)
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 69 bis 83
 - **Blöcke:** 2.079
 - **Bauteile:** `w487162486_innen`
 
@@ -1086,9 +1088,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.33 – Palazzo des Ottocento an Via Camillo Cavour: Innenausbau – Teil 2/2 (Y 78–93)
+### Schritt 8.33 – Palazzo des Ottocento an Via Camillo Cavour: Innenausbau – Teil 2/2 (Y 84–99)
 
-- **Y-Bereich:** 78 bis 93
+- **Y-Bereich:** 84 bis 99
 - **Blöcke:** 2.079
 - **Bauteile:** `w487162486_innen`
 
@@ -1124,10 +1126,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.34 – Haus w487162555 – Teil 1/2 (Y 63–79)
+### Schritt 8.34 – Haus w487162555 – Teil 1/2 (Y 69–86)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.446
+- **Y-Bereich:** 69 bis 86
+- **Blöcke:** 1.475
 - **Bauteile:** `w487162555`
 
 **Teileliste**
@@ -1135,9 +1137,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 950 |
-| Polierter Tuffstein | `polished_tuff` | 374 |
+| Polierter Tuffstein | `polished_tuff` | 373 |
 | Fichtenholz-Bretter | `spruce_planks` | 54 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
+| Tuffstein | `tuff` | 30 |
 | Glatter Stein | `smooth_stone` | 14 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
@@ -1157,18 +1160,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.35 – Haus w487162555 – Teil 2/2 (Y 80–99)
+### Schritt 8.35 – Haus w487162555 – Teil 2/2 (Y 87–106)
 
-- **Y-Bereich:** 80 bis 99
-- **Blöcke:** 1.511
+- **Y-Bereich:** 87 bis 106
+- **Blöcke:** 1.536
 - **Bauteile:** `w487162555`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 826 |
-| Terrakotta | `terracotta` | 484 |
+| Rosa Keramik | `pink_terracotta` | 850 |
+| Terrakotta | `terracotta` | 485 |
 | Fichtenholz-Bretter | `spruce_planks` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 63 |
 | Ziegelsteine | `bricks` | 32 |
@@ -1191,27 +1194,27 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.36 – Haus w487162555: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.009
+- **Y-Bereich:** 70 bis 94
+- **Blöcke:** 1.011
 - **Bauteile:** `w487162555_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 885 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Terrakotta | `terracotta` | 882 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Seelaterne | `sea_lantern` | 12 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
 
 **Beschreibung**
 

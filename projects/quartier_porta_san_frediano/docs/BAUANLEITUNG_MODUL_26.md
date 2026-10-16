@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.858 |
+| Blöcke | 15.863 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 57 bis 96 |
 | X-Ausdehnung | -2923 bis -2872 (52 Blöcke) |
 | Z-Ausdehnung | 267 bis 310 (44 Blöcke) |
 | Kleinster Schritt | 1.087 Blöcke (Schritt 26.8) |
-| Mittlerer Schritt | 1.762 Blöcke |
+| Mittlerer Schritt | 1.763 Blöcke |
 | Größter Schritt | 2.051 Blöcke (Schritt 26.9) |
 
 ## Gesamt-Stückliste
@@ -34,6 +34,7 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 9 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
+| Tuffstein | `tuff` | 5 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -45,15 +46,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118884414` | Reihenhaus an Lungarno Santa Rosa | 12.720 | 26.1–26.7 |
+| 1 | `w118884414` | Reihenhaus an Lungarno Santa Rosa | 12.725 | 26.1–26.7 |
 | 2 | `w118884414_innen` | Reihenhaus an Lungarno Santa Rosa: Innenausbau | 3.138 | 26.8–26.9 |
 
 ## Bauschritte
 
-### Schritt 26.1 – Reihenhaus an Lungarno Santa Rosa – Teil 1/7 (Y 63–64)
+### Schritt 26.1 – Reihenhaus an Lungarno Santa Rosa – Teil 1/7 (Y 57–59)
 
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.660
+- **Y-Bereich:** 57 bis 59
+- **Blöcke:** 1.665
 - **Bauteile:** `w118884414`
 
 **Teileliste**
@@ -62,6 +63,7 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.336 |
 | Hellgrauer Beton | `light_gray_concrete` | 321 |
+| Tuffstein | `tuff` | 5 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
 **Beschreibung**
@@ -80,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Reihenhaus an Lungarno Santa Rosa – Teil 2/7 (Y 65–70)
+### Schritt 26.2 – Reihenhaus an Lungarno Santa Rosa – Teil 2/7 (Y 60–65)
 
-- **Y-Bereich:** 65 bis 70
+- **Y-Bereich:** 60 bis 65
 - **Blöcke:** 1.876
 - **Bauteile:** `w118884414`
 
@@ -111,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Reihenhaus an Lungarno Santa Rosa – Teil 3/7 (Y 71–76)
+### Schritt 26.3 – Reihenhaus an Lungarno Santa Rosa – Teil 3/7 (Y 66–71)
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 66 bis 71
 - **Blöcke:** 1.926
 - **Bauteile:** `w118884414`
 
@@ -142,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Reihenhaus an Lungarno Santa Rosa – Teil 4/7 (Y 77–82)
+### Schritt 26.4 – Reihenhaus an Lungarno Santa Rosa – Teil 4/7 (Y 72–77)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 72 bis 77
 - **Blöcke:** 1.939
 - **Bauteile:** `w118884414`
 
@@ -173,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.5 – Reihenhaus an Lungarno Santa Rosa – Teil 5/7 (Y 83–87)
+### Schritt 26.5 – Reihenhaus an Lungarno Santa Rosa – Teil 5/7 (Y 78–82)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 78 bis 82
 - **Blöcke:** 1.642
 - **Bauteile:** `w118884414`
 
@@ -204,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.6 – Reihenhaus an Lungarno Santa Rosa – Teil 6/7 (Y 88–93)
+### Schritt 26.6 – Reihenhaus an Lungarno Santa Rosa – Teil 6/7 (Y 83–88)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 83 bis 88
 - **Blöcke:** 1.871
 - **Bauteile:** `w118884414`
 
@@ -235,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.7 – Reihenhaus an Lungarno Santa Rosa – Teil 7/7 (Y 94–101)
+### Schritt 26.7 – Reihenhaus an Lungarno Santa Rosa – Teil 7/7 (Y 89–96)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 1.806
 - **Bauteile:** `w118884414`
 
@@ -264,9 +266,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.8 – Reihenhaus an Lungarno Santa Rosa: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 26.8 – Reihenhaus an Lungarno Santa Rosa: Innenausbau – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 1.087
 - **Bauteile:** `w118884414_innen`
 
@@ -304,9 +306,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.9 – Reihenhaus an Lungarno Santa Rosa: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 26.9 – Reihenhaus an Lungarno Santa Rosa: Innenausbau – Teil 2/2 (Y 74–82)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 2.051
 - **Bauteile:** `w118884414_innen`
 

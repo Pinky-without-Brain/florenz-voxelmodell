@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 15.055 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 56 bis 96 |
 | X-Ausdehnung | -2859 bis -2811 (49 Blöcke) |
 | Z-Ausdehnung | 925 bis 974 (50 Blöcke) |
 | Kleinster Schritt | 1.161 Blöcke (Schritt 34.8) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 34.1 – Pollicino – Teil 1/7 (Y 63–64)
+### Schritt 34.1 – Pollicino – Teil 1/7 (Y 56–57)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 56 bis 57
 - **Blöcke:** 1.719
 - **Bauteile:** `w118932412`
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.2 – Pollicino – Teil 2/7 (Y 65–71)
+### Schritt 34.2 – Pollicino – Teil 2/7 (Y 58–64)
 
-- **Y-Bereich:** 65 bis 71
+- **Y-Bereich:** 58 bis 64
 - **Blöcke:** 1.988
 - **Bauteile:** `w118932412`
 
@@ -122,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.3 – Pollicino – Teil 3/7 (Y 72–77)
+### Schritt 34.3 – Pollicino – Teil 3/7 (Y 65–70)
 
-- **Y-Bereich:** 72 bis 77
+- **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.788
 - **Bauteile:** `w118932412`
 
@@ -156,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.4 – Pollicino – Teil 4/7 (Y 78–83)
+### Schritt 34.4 – Pollicino – Teil 4/7 (Y 71–76)
 
-- **Y-Bereich:** 78 bis 83
+- **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.704
 - **Bauteile:** `w118932412`
 
@@ -189,9 +189,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.5 – Pollicino – Teil 5/7 (Y 84–90)
+### Schritt 34.5 – Pollicino – Teil 5/7 (Y 77–83)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.974
 - **Bauteile:** `w118932412`
 
@@ -221,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.6 – Pollicino – Teil 6/7 (Y 91–94)
+### Schritt 34.6 – Pollicino – Teil 6/7 (Y 84–87)
 
-- **Y-Bereich:** 91 bis 94
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 2.049
 - **Bauteile:** `w118932412`
 
@@ -253,9 +253,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.7 – Pollicino – Teil 7/7 (Y 95–103)
+### Schritt 34.7 – Pollicino – Teil 7/7 (Y 88–96)
 
-- **Y-Bereich:** 95 bis 103
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.502
 - **Bauteile:** `w118932412`
 
@@ -282,9 +282,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.8 – Pollicino: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 34.8 – Pollicino: Innenausbau – Teil 1/2 (Y 56–66)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 56 bis 66
 - **Blöcke:** 1.161
 - **Bauteile:** `w118932412_innen`
 
@@ -324,9 +324,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.9 – Pollicino: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 34.9 – Pollicino: Innenausbau – Teil 2/2 (Y 67–77)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.170
 - **Bauteile:** `w118932412_innen`
 

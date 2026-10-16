@@ -8,39 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 55.270 |
-| Bauschritte | 35 |
-| Y-Bereich | 63 bis 102 |
+| Blöcke | 57.878 |
+| Bauschritte | 37 |
+| Y-Bereich | 64 bis 106 |
 | X-Ausdehnung | 271 bis 440 (170 Blöcke) |
 | Z-Ausdehnung | 1706 bis 1767 (62 Blöcke) |
-| Kleinster Schritt | 1.055 Blöcke (Schritt 10.34) |
-| Mittlerer Schritt | 1.579 Blöcke |
-| Größter Schritt | 2.099 Blöcke (Schritt 10.28) |
+| Kleinster Schritt | 1.055 Blöcke (Schritt 10.36) |
+| Mittlerer Schritt | 1.564 Blöcke |
+| Größter Schritt | 2.075 Blöcke (Schritt 10.22) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 21.688 | 39,2 % |
-| Rosa Keramik | `pink_terracotta` | 7.595 | 13,7 % |
-| Weißer Beton | `white_concrete` | 7.573 | 13,7 % |
-| Polierter Tuffstein | `polished_tuff` | 6.499 | 11,8 % |
-| Orange Keramik | `orange_terracotta` | 3.776 | 6,8 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.864 | 5,2 % |
-| Graues Buntglas | `gray_stained_glass` | 1.341 | 2,4 % |
-| Hellgrauer Beton | `light_gray_concrete` | 1.040 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 754 | 1,4 % |
-| Ziegelsteine | `bricks` | 655 | 1,2 % |
-| Glatter Stein | `smooth_stone` | 433 | 0,8 % |
+| Terrakotta | `terracotta` | 21.688 | 37,5 % |
+| Rosa Keramik | `pink_terracotta` | 7.595 | 13,1 % |
+| Weißer Beton | `white_concrete` | 7.573 | 13,1 % |
+| Polierter Tuffstein | `polished_tuff` | 6.499 | 11,2 % |
+| Orange Keramik | `orange_terracotta` | 3.940 | 6,8 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.864 | 4,9 % |
+| Tuffstein | `tuff` | 2.444 | 4,2 % |
+| Graues Buntglas | `gray_stained_glass` | 1.341 | 2,3 % |
+| Hellgrauer Beton | `light_gray_concrete` | 1.040 | 1,8 % |
+| Polierter Andesit | `polished_andesite` | 754 | 1,3 % |
+| Ziegelsteine | `bricks` | 655 | 1,1 % |
+| Glatter Stein | `smooth_stone` | 433 | 0,7 % |
 | Grüner Beton | `green_concrete` | 399 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 236 | 0,4 % |
 | Seelaterne | `sea_lantern` | 109 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 71 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 67 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 70 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 66 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 36 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 36 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 27 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 12 | 0,0 % |
@@ -56,23 +57,23 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r6820325` | Palazzo des Cinquecento an Lungarno Serristori | 11.826 | 10.1–10.8 |
+| 1 | `r6820325` | Palazzo des Cinquecento an Lungarno Serristori | 12.146 | 10.1–10.8 |
 | 2 | `r6820325_innen` | Palazzo des Cinquecento an Lungarno Serristori: Innenausbau | 2.646 | 10.9–10.10 |
-| 3 | `w461735825` | Reihenhaus an Lungarno Serristori | 8.575 | 10.11–10.15 |
-| 4 | `w461735825_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 3.606 | 10.16–10.18 |
-| 5 | `w461735841` | Reihenhaus an Via dei Renai | 7.677 | 10.19–10.22 |
-| 6 | `w461735841_innen` | Reihenhaus an Via dei Renai: Innenausbau | 3.374 | 10.23–10.25 |
-| 7 | `w461735847` | Reihenhaus an Lungarno Serristori | 6.106 | 10.26–10.28 |
-| 8 | `w461735847_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 1.993 | 10.29 |
-| 9 | `w461735862` | Reihenhaus an Via Mario Monicelli | 7.356 | 10.30–10.33 |
-| 10 | `w461735862_innen` | Reihenhaus an Via Mario Monicelli: Innenausbau | 2.111 | 10.34–10.35 |
+| 3 | `w461735825` | Reihenhaus an Lungarno Serristori | 10.006 | 10.11–10.16 |
+| 4 | `w461735825_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 3.606 | 10.17–10.19 |
+| 5 | `w461735841` | Reihenhaus an Via dei Renai | 7.841 | 10.20–10.23 |
+| 6 | `w461735841_innen` | Reihenhaus an Via dei Renai: Innenausbau | 3.374 | 10.24–10.26 |
+| 7 | `w461735847` | Reihenhaus an Lungarno Serristori | 6.420 | 10.27–10.30 |
+| 8 | `w461735847_innen` | Reihenhaus an Lungarno Serristori: Innenausbau | 1.993 | 10.31 |
+| 9 | `w461735862` | Reihenhaus an Via Mario Monicelli | 7.735 | 10.32–10.35 |
+| 10 | `w461735862_innen` | Reihenhaus an Via Mario Monicelli: Innenausbau | 2.111 | 10.36–10.37 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Palazzo des Cinquecento an Lungarno Serristori – Teil 1/8 (Y 63–63)
+### Schritt 10.1 – Palazzo des Cinquecento an Lungarno Serristori – Teil 1/8 (Y 66–68)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.620
+- **Y-Bereich:** 66 bis 68
+- **Blöcke:** 1.940
 - **Bauteile:** `r6820325`
 
 **Teileliste**
@@ -80,6 +81,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.620 |
+| Tuffstein | `tuff` | 320 |
 
 **Beschreibung**
 
@@ -97,22 +99,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Palazzo des Cinquecento an Lungarno Serristori – Teil 2/8 (Y 64–67)
+### Schritt 10.2 – Palazzo des Cinquecento an Lungarno Serristori – Teil 2/8 (Y 69–71)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.378
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.071
 - **Bauteile:** `r6820325`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.093 |
-| Hellgrauer Beton | `light_gray_concrete` | 198 |
-| Graues Buntglas | `gray_stained_glass` | 35 |
-| Polierter Andesit | `polished_andesite` | 28 |
-| Grüner Beton | `green_concrete` | 20 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
+| Weißer Beton | `white_concrete` | 879 |
+| Hellgrauer Beton | `light_gray_concrete` | 166 |
+| Polierter Andesit | `polished_andesite` | 23 |
+| Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
 
@@ -130,55 +130,55 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Palazzo des Cinquecento an Lungarno Serristori – Teil 3/8 (Y 68–71)
-
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.264
-- **Bauteile:** `r6820325`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 899 |
-| Hellgrauer Beton | `light_gray_concrete` | 164 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Grüner Beton | `green_concrete` | 60 |
-| Polierter Andesit | `polished_andesite` | 31 |
-| Tuffsteinziegel | `tuff_bricks` | 5 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.4 – Palazzo des Cinquecento an Lungarno Serristori – Teil 4/8 (Y 72–76)
+### Schritt 10.3 – Palazzo des Cinquecento an Lungarno Serristori – Teil 3/8 (Y 72–76)
 
 - **Y-Bereich:** 72 bis 76
-- **Blöcke:** 1.680
+- **Blöcke:** 1.571
 - **Bauteile:** `r6820325`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.245 |
-| Hellgrauer Beton | `light_gray_concrete` | 141 |
+| Weißer Beton | `white_concrete` | 1.113 |
+| Hellgrauer Beton | `light_gray_concrete` | 196 |
+| Graues Buntglas | `gray_stained_glass` | 140 |
+| Grüner Beton | `green_concrete` | 80 |
+| Polierter Andesit | `polished_andesite` | 36 |
+| Tuffsteinziegel | `tuff_bricks` | 6 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.4 – Palazzo des Cinquecento an Lungarno Serristori – Teil 4/8 (Y 77–80)
+
+- **Y-Bereich:** 77 bis 80
+- **Blöcke:** 1.362
+- **Bauteile:** `r6820325`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.028 |
 | Glatter Stein | `smooth_stone` | 134 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Grüner Beton | `green_concrete` | 46 |
-| Polierter Andesit | `polished_andesite` | 33 |
+| Hellgrauer Beton | `light_gray_concrete` | 107 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Polierter Andesit | `polished_andesite` | 27 |
+| Grüner Beton | `green_concrete` | 23 |
 | Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
@@ -197,52 +197,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Palazzo des Cinquecento an Lungarno Serristori – Teil 5/8 (Y 77–80)
-
-- **Y-Bereich:** 77 bis 80
-- **Blöcke:** 1.392
-- **Bauteile:** `r6820325`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 982 |
-| Hellgrauer Beton | `light_gray_concrete` | 254 |
-| Glatter Stein | `smooth_stone` | 142 |
-| Polierter Andesit | `polished_andesite` | 14 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 10.6 – Palazzo des Cinquecento an Lungarno Serristori – Teil 6/8 (Y 81–85)
+### Schritt 10.5 – Palazzo des Cinquecento an Lungarno Serristori – Teil 5/8 (Y 81–85)
 
 - **Y-Bereich:** 81 bis 85
-- **Blöcke:** 1.744
+- **Blöcke:** 1.710
 - **Bauteile:** `r6820325`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.260 |
-| Hellgrauer Beton | `light_gray_concrete` | 283 |
-| Graues Buntglas | `gray_stained_glass` | 114 |
-| Grüner Beton | `green_concrete` | 69 |
-| Polierter Andesit | `polished_andesite` | 18 |
+| Weißer Beton | `white_concrete` | 1.199 |
+| Hellgrauer Beton | `light_gray_concrete` | 288 |
+| Glatter Stein | `smooth_stone` | 142 |
+| Graues Buntglas | `gray_stained_glass` | 38 |
+| Grüner Beton | `green_concrete` | 23 |
+| Polierter Andesit | `polished_andesite` | 20 |
 
 **Beschreibung**
 
@@ -260,10 +230,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Palazzo des Cinquecento an Lungarno Serristori – Teil 7/8 (Y 86–87)
+### Schritt 10.6 – Palazzo des Cinquecento an Lungarno Serristori – Teil 6/8 (Y 86–89)
 
-- **Y-Bereich:** 86 bis 87
-- **Blöcke:** 1.416
+- **Y-Bereich:** 86 bis 89
+- **Blöcke:** 1.302
+- **Bauteile:** `r6820325`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 928 |
+| Hellgrauer Beton | `light_gray_concrete` | 175 |
+| Graues Buntglas | `gray_stained_glass` | 114 |
+| Grüner Beton | `green_concrete` | 69 |
+| Polierter Andesit | `polished_andesite` | 16 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.7 – Palazzo des Cinquecento an Lungarno Serristori – Teil 7/8 (Y 90–92)
+
+- **Y-Bereich:** 90 bis 92
+- **Blöcke:** 1.858
 - **Bauteile:** `r6820325`
 
 **Teileliste**
@@ -271,8 +273,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 974 |
-| Weißer Beton | `white_concrete` | 436 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Weißer Beton | `white_concrete` | 768 |
+| Hellgrauer Beton | `light_gray_concrete` | 108 |
+| Polierter Andesit | `polished_andesite` | 8 |
 
 **Beschreibung**
 
@@ -290,9 +293,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Palazzo des Cinquecento an Lungarno Serristori – Teil 8/8 (Y 88–93)
+### Schritt 10.8 – Palazzo des Cinquecento an Lungarno Serristori – Teil 8/8 (Y 93–98)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.332
 - **Bauteile:** `r6820325`
 
@@ -319,9 +322,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Palazzo des Cinquecento an Lungarno Serristori: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 10.9 – Palazzo des Cinquecento an Lungarno Serristori: Innenausbau – Teil 1/2 (Y 68–78)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 68 bis 78
 - **Blöcke:** 1.327
 - **Bauteile:** `r6820325_innen`
 
@@ -361,9 +364,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.10 – Palazzo des Cinquecento an Lungarno Serristori: Innenausbau – Teil 2/2 (Y 74–80)
+### Schritt 10.10 – Palazzo des Cinquecento an Lungarno Serristori: Innenausbau – Teil 2/2 (Y 79–85)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.319
 - **Bauteile:** `r6820325_innen`
 
@@ -405,10 +408,38 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.11 – Reihenhaus an Lungarno Serristori – Teil 1/5 (Y 63–65)
+### Schritt 10.11 – Reihenhaus an Lungarno Serristori – Teil 1/6 (Y 65–67)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.671
+- **Y-Bereich:** 65 bis 67
+- **Blöcke:** 1.431
+- **Bauteile:** `w461735825`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.431 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Rosa. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.12 – Reihenhaus an Lungarno Serristori – Teil 2/6 (Y 68–71)
+
+- **Y-Bereich:** 68 bis 71
+- **Blöcke:** 1.840
 - **Bauteile:** `w461735825`
 
 **Teileliste**
@@ -416,8 +447,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.333 |
-| Rosa Keramik | `pink_terracotta` | 332 |
-| Glatter Stein | `smooth_stone` | 6 |
+| Rosa Keramik | `pink_terracotta` | 457 |
+| Weißer Beton | `white_concrete` | 41 |
+| Glatter Stein | `smooth_stone` | 9 |
 
 **Beschreibung**
 
@@ -435,20 +467,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Reihenhaus an Lungarno Serristori – Teil 2/5 (Y 66–76)
+### Schritt 10.13 – Reihenhaus an Lungarno Serristori – Teil 3/6 (Y 72–81)
 
-- **Y-Bereich:** 66 bis 76
-- **Blöcke:** 1.828
+- **Y-Bereich:** 72 bis 81
+- **Blöcke:** 1.659
 - **Bauteile:** `w461735825`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.421 |
-| Weißer Beton | `white_concrete` | 266 |
+| Rosa Keramik | `pink_terracotta` | 1.296 |
+| Weißer Beton | `white_concrete` | 225 |
 | Graues Buntglas | `gray_stained_glass` | 122 |
-| Glatter Stein | `smooth_stone` | 19 |
+| Glatter Stein | `smooth_stone` | 16 |
 
 **Beschreibung**
 
@@ -466,9 +498,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.13 – Reihenhaus an Lungarno Serristori – Teil 3/5 (Y 77–86)
+### Schritt 10.14 – Reihenhaus an Lungarno Serristori – Teil 4/6 (Y 82–91)
 
-- **Y-Bereich:** 77 bis 86
+- **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.707
 - **Bauteile:** `w461735825`
 
@@ -496,9 +528,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.14 – Reihenhaus an Lungarno Serristori – Teil 4/5 (Y 87–93)
+### Schritt 10.15 – Reihenhaus an Lungarno Serristori – Teil 5/6 (Y 92–98)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.470
 - **Bauteile:** `w461735825`
 
@@ -526,9 +558,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.15 – Reihenhaus an Lungarno Serristori – Teil 5/5 (Y 94–101)
+### Schritt 10.16 – Reihenhaus an Lungarno Serristori – Teil 6/6 (Y 99–106)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 1.899
 - **Bauteile:** `w461735825`
 
@@ -555,9 +587,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.16 – Reihenhaus an Lungarno Serristori: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 10.17 – Reihenhaus an Lungarno Serristori: Innenausbau – Teil 1/3 (Y 68–77)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.205
 - **Bauteile:** `w461735825_innen`
 
@@ -595,9 +627,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.17 – Reihenhaus an Lungarno Serristori: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 10.18 – Reihenhaus an Lungarno Serristori: Innenausbau – Teil 2/3 (Y 78–84)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 78 bis 84
 - **Blöcke:** 1.196
 - **Bauteile:** `w461735825_innen`
 
@@ -635,9 +667,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.18 – Reihenhaus an Lungarno Serristori: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 10.19 – Reihenhaus an Lungarno Serristori: Innenausbau – Teil 3/3 (Y 85–92)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.205
 - **Bauteile:** `w461735825_innen`
 
@@ -677,10 +709,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.19 – Reihenhaus an Via dei Renai – Teil 1/4 (Y 63–68)
+### Schritt 10.20 – Reihenhaus an Via dei Renai – Teil 1/4 (Y 64–68)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.921
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.940
 - **Bauteile:** `w461735841`
 
 **Teileliste**
@@ -688,10 +720,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.244 |
-| Orange Keramik | `orange_terracotta` | 530 |
-| Graues Buntglas | `gray_stained_glass` | 80 |
-| Glatter Stein | `smooth_stone` | 35 |
-| Weißer Beton | `white_concrete` | 32 |
+| Orange Keramik | `orange_terracotta` | 588 |
+| Graues Buntglas | `gray_stained_glass` | 56 |
+| Glatter Stein | `smooth_stone` | 28 |
+| Weißer Beton | `white_concrete` | 24 |
 
 **Beschreibung**
 
@@ -709,20 +741,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.20 – Reihenhaus an Via dei Renai – Teil 2/4 (Y 69–80)
+### Schritt 10.21 – Reihenhaus an Via dei Renai – Teil 2/4 (Y 69–80)
 
 - **Y-Bereich:** 69 bis 80
-- **Blöcke:** 1.927
+- **Blöcke:** 1.905
 - **Bauteile:** `w461735841`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.581 |
-| Weißer Beton | `white_concrete` | 229 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Glatter Stein | `smooth_stone` | 33 |
+| Orange Keramik | `orange_terracotta` | 1.554 |
+| Weißer Beton | `white_concrete` | 203 |
+| Graues Buntglas | `gray_stained_glass` | 108 |
+| Glatter Stein | `smooth_stone` | 40 |
 
 **Beschreibung**
 
@@ -740,18 +772,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.21 – Reihenhaus an Via dei Renai – Teil 3/4 (Y 81–92)
+### Schritt 10.22 – Reihenhaus an Via dei Renai – Teil 3/4 (Y 81–93)
 
-- **Y-Bereich:** 81 bis 92
-- **Blöcke:** 1.908
+- **Y-Bereich:** 81 bis 93
+- **Blöcke:** 2.075
 - **Bauteile:** `w461735841`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.498 |
-| Weißer Beton | `white_concrete` | 308 |
+| Orange Keramik | `orange_terracotta` | 1.631 |
+| Weißer Beton | `white_concrete` | 342 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 
 **Beschreibung**
@@ -770,9 +802,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.22 – Reihenhaus an Via dei Renai – Teil 4/4 (Y 93–102)
+### Schritt 10.23 – Reihenhaus an Via dei Renai – Teil 4/4 (Y 94–103)
 
-- **Y-Bereich:** 93 bis 102
+- **Y-Bereich:** 94 bis 103
 - **Blöcke:** 1.921
 - **Bauteile:** `w461735841`
 
@@ -800,9 +832,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.23 – Reihenhaus an Via dei Renai: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 10.24 – Reihenhaus an Via dei Renai: Innenausbau – Teil 1/3 (Y 64–73)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.129
 - **Bauteile:** `w461735841_innen`
 
@@ -840,9 +872,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.24 – Reihenhaus an Via dei Renai: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 10.25 – Reihenhaus an Via dei Renai: Innenausbau – Teil 2/3 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.118
 - **Bauteile:** `w461735841_innen`
 
@@ -882,9 +914,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.25 – Reihenhaus an Via dei Renai: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 10.26 – Reihenhaus an Via dei Renai: Innenausbau – Teil 3/3 (Y 81–88)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.127
 - **Bauteile:** `w461735841_innen`
 
@@ -894,13 +926,13 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.069 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Seelaterne | `sea_lantern` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -924,10 +956,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.26 – Reihenhaus an Lungarno Serristori – Teil 1/3 (Y 63–70)
+### Schritt 10.27 – Reihenhaus an Lungarno Serristori – Teil 1/4 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 2.096
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.563
 - **Bauteile:** `w461735847`
 
 **Teileliste**
@@ -935,10 +967,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.102 |
-| Glatter Sandstein | `smooth_sandstone` | 828 |
-| Weißer Beton | `white_concrete` | 105 |
-| Graues Buntglas | `gray_stained_glass` | 45 |
-| Glatter Stein | `smooth_stone` | 16 |
+| Tuffstein | `tuff` | 314 |
+| Glatter Sandstein | `smooth_sandstone` | 145 |
+| Glatter Stein | `smooth_stone` | 2 |
 
 **Beschreibung**
 
@@ -956,20 +987,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.27 – Reihenhaus an Lungarno Serristori – Teil 2/3 (Y 71–83)
+### Schritt 10.28 – Reihenhaus an Lungarno Serristori – Teil 2/4 (Y 68–78)
 
-- **Y-Bereich:** 71 bis 83
-- **Blöcke:** 1.911
+- **Y-Bereich:** 68 bis 78
+- **Blöcke:** 1.592
 - **Bauteile:** `w461735847`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.569 |
-| Weißer Beton | `white_concrete` | 222 |
-| Graues Buntglas | `gray_stained_glass` | 116 |
-| Glatter Stein | `smooth_stone` | 4 |
+| Glatter Sandstein | `smooth_sandstone` | 1.322 |
+| Weißer Beton | `white_concrete` | 173 |
+| Graues Buntglas | `gray_stained_glass` | 79 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
@@ -987,10 +1018,40 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.28 – Reihenhaus an Lungarno Serristori – Teil 3/3 (Y 84–92)
+### Schritt 10.29 – Reihenhaus an Lungarno Serristori – Teil 3/4 (Y 79–89)
 
-- **Y-Bereich:** 84 bis 92
-- **Blöcke:** 2.099
+- **Y-Bereich:** 79 bis 89
+- **Blöcke:** 1.699
+- **Bauteile:** `w461735847`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.397 |
+| Weißer Beton | `white_concrete` | 206 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.30 – Reihenhaus an Lungarno Serristori – Teil 4/4 (Y 90–95)
+
+- **Y-Bereich:** 90 bis 95
+- **Blöcke:** 1.566
 - **Bauteile:** `w461735847`
 
 **Teileliste**
@@ -998,10 +1059,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.468 |
-| Glatter Sandstein | `smooth_sandstone` | 467 |
 | Ziegelsteine | `bricks` | 98 |
-| Weißer Beton | `white_concrete` | 52 |
-| Graues Buntglas | `gray_stained_glass` | 14 |
 
 **Beschreibung**
 
@@ -1019,9 +1077,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.29 – Reihenhaus an Lungarno Serristori: Innenausbau
+### Schritt 10.31 – Reihenhaus an Lungarno Serristori: Innenausbau
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 66 bis 83
 - **Blöcke:** 1.993
 - **Bauteile:** `w461735847_innen`
 
@@ -1059,10 +1117,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.30 – Reihenhaus an Via Mario Monicelli – Teil 1/4 (Y 63–66)
+### Schritt 10.32 – Reihenhaus an Via Mario Monicelli – Teil 1/4 (Y 64–68)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.768
+- **Y-Bereich:** 64 bis 68
+- **Blöcke:** 1.945
 - **Bauteile:** `w461735862`
 
 **Teileliste**
@@ -1070,8 +1128,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.200 |
-| Rosa Keramik | `pink_terracotta` | 498 |
-| Polierter Andesit | `polished_andesite` | 70 |
+| Tuffstein | `tuff` | 379 |
+| Rosa Keramik | `pink_terracotta` | 362 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -1089,19 +1148,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.31 – Reihenhaus an Via Mario Monicelli – Teil 2/4 (Y 67–77)
+### Schritt 10.33 – Reihenhaus an Via Mario Monicelli – Teil 2/4 (Y 69–79)
 
-- **Y-Bereich:** 67 bis 77
-- **Blöcke:** 1.986
+- **Y-Bereich:** 69 bis 79
+- **Blöcke:** 2.004
 - **Bauteile:** `w461735862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.354 |
-| Polierter Andesit | `polished_andesite` | 326 |
-| Graues Buntglas | `gray_stained_glass` | 168 |
+| Rosa Keramik | `pink_terracotta` | 1.356 |
+| Polierter Andesit | `polished_andesite` | 352 |
+| Graues Buntglas | `gray_stained_glass` | 158 |
 | Grüner Beton | `green_concrete` | 138 |
 
 **Beschreibung**
@@ -1120,19 +1179,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Reihenhaus an Via Mario Monicelli – Teil 3/4 (Y 78–86)
+### Schritt 10.34 – Reihenhaus an Via Mario Monicelli – Teil 3/4 (Y 80–88)
 
-- **Y-Bereich:** 78 bis 86
-- **Blöcke:** 1.831
+- **Y-Bereich:** 80 bis 88
+- **Blöcke:** 1.744
 - **Bauteile:** `w461735862`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.443 |
-| Polierter Andesit | `polished_andesite` | 228 |
-| Graues Buntglas | `gray_stained_glass` | 94 |
+| Rosa Keramik | `pink_terracotta` | 1.306 |
+| Polierter Andesit | `polished_andesite` | 268 |
+| Graues Buntglas | `gray_stained_glass` | 104 |
 | Grüner Beton | `green_concrete` | 66 |
 
 **Beschreibung**
@@ -1151,10 +1210,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.33 – Reihenhaus an Via Mario Monicelli – Teil 4/4 (Y 87–95)
+### Schritt 10.35 – Reihenhaus an Via Mario Monicelli – Teil 4/4 (Y 89–98)
 
-- **Y-Bereich:** 87 bis 95
-- **Blöcke:** 1.771
+- **Y-Bereich:** 89 bis 98
+- **Blöcke:** 2.042
 - **Bauteile:** `w461735862`
 
 **Teileliste**
@@ -1162,6 +1221,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.642 |
+| Rosa Keramik | `pink_terracotta` | 271 |
 | Ziegelsteine | `bricks` | 129 |
 
 **Beschreibung**
@@ -1180,9 +1240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.34 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 1/2 (Y 63–72)
+### Schritt 10.36 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 1/2 (Y 66–75)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 66 bis 75
 - **Blöcke:** 1.055
 - **Bauteile:** `w461735862_innen`
 
@@ -1218,9 +1278,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.35 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 2/2 (Y 73–80)
+### Schritt 10.37 – Reihenhaus an Via Mario Monicelli: Innenausbau – Teil 2/2 (Y 76–83)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.056
 - **Bauteile:** `w461735862_innen`
 

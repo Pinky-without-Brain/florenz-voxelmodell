@@ -8,29 +8,30 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 54.372 |
-| Bauschritte | 32 |
-| Y-Bereich | 63 bis 100 |
+| Blöcke | 56.636 |
+| Bauschritte | 34 |
+| Y-Bereich | 59 bis 100 |
 | X-Ausdehnung | -2764 bis -2688 (77 Blöcke) |
 | Z-Ausdehnung | 1652 bis 1826 (175 Blöcke) |
 | Kleinster Schritt | 576 Blöcke (Schritt 26.4) |
-| Mittlerer Schritt | 1.699 Blöcke |
-| Größter Schritt | 2.038 Blöcke (Schritt 26.31) |
+| Mittlerer Schritt | 1.666 Blöcke |
+| Größter Schritt | 2.038 Blöcke (Schritt 26.33) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.976 | 33,1 % |
-| Glatter Sandstein | `smooth_sandstone` | 9.877 | 18,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 9.558 | 17,6 % |
-| Polierter Tuffstein | `polished_tuff` | 5.615 | 10,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 4.558 | 8,4 % |
-| Weißer Beton | `white_concrete` | 3.101 | 5,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.196 | 2,2 % |
+| Terrakotta | `terracotta` | 17.976 | 31,7 % |
+| Glatter Sandstein | `smooth_sandstone` | 9.906 | 17,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 9.558 | 16,9 % |
+| Polierter Tuffstein | `polished_tuff` | 5.615 | 9,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.558 | 8,0 % |
+| Weißer Beton | `white_concrete` | 3.101 | 5,5 % |
+| Tuffstein | `tuff` | 2.235 | 3,9 % |
+| Graues Buntglas | `gray_stained_glass` | 1.196 | 2,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 516 | 0,9 % |
-| Grüner Beton | `green_concrete` | 472 | 0,9 % |
-| Polierter Andesit | `polished_andesite` | 466 | 0,9 % |
+| Grüner Beton | `green_concrete` | 472 | 0,8 % |
+| Polierter Andesit | `polished_andesite` | 466 | 0,8 % |
 | Ziegelsteine | `bricks` | 450 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 208 | 0,4 % |
 | Seelaterne | `sea_lantern` | 92 | 0,2 % |
@@ -52,21 +53,21 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w461683372` | Reihenhaus an Via Giano della Bella | 5.676 | 26.1–26.3 |
+| 1 | `w461683372` | Reihenhaus an Via Giano della Bella | 5.785 | 26.1–26.3 |
 | 2 | `w461683372_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 576 | 26.4 |
-| 3 | `w461683373` | Reihenhaus an Via Giano della Bella | 15.936 | 26.5–26.13 |
-| 4 | `w461683373_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 4.441 | 26.14–26.16 |
-| 5 | `w461683392` | Reihenhaus an Via Giano della Bella | 7.137 | 26.17–26.20 |
-| 6 | `w461683392_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 1.629 | 26.21 |
-| 7 | `w461683395` | Reihenhaus an Via Giano della Bella | 14.906 | 26.22–26.30 |
-| 8 | `w461683395_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 4.071 | 26.31–26.32 |
+| 3 | `w461683373` | Reihenhaus an Via Giano della Bella | 16.901 | 26.5–26.14 |
+| 4 | `w461683373_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 4.441 | 26.15–26.17 |
+| 5 | `w461683392` | Reihenhaus an Via Giano della Bella | 7.298 | 26.18–26.21 |
+| 6 | `w461683392_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 1.629 | 26.22 |
+| 7 | `w461683395` | Reihenhaus an Via Giano della Bella | 15.935 | 26.23–26.32 |
+| 8 | `w461683395_innen` | Reihenhaus an Via Giano della Bella: Innenausbau | 4.071 | 26.33–26.34 |
 
 ## Bauschritte
 
-### Schritt 26.1 – Reihenhaus an Via Giano della Bella – Teil 1/3 (Y 63–68)
+### Schritt 26.1 – Reihenhaus an Via Giano della Bella – Teil 1/3 (Y 60–68)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.817
+- **Y-Bereich:** 60 bis 68
+- **Blöcke:** 1.926
 - **Bauteile:** `w461683372`
 
 **Teileliste**
@@ -76,6 +77,7 @@
 | Glatter Sandstein | `smooth_sandstone` | 924 |
 | Polierter Tuffstein | `polished_tuff` | 745 |
 | Polierter Andesit | `polished_andesite` | 124 |
+| Tuffstein | `tuff` | 109 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
 **Beschreibung**
@@ -197,7 +199,35 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.5 – Reihenhaus an Via Giano della Bella – Teil 1/9 (Y 63–63)
+### Schritt 26.5 – Reihenhaus an Via Giano della Bella – Teil 1/10 (Y 60–62)
+
+- **Y-Bereich:** 60 bis 62
+- **Blöcke:** 965
+- **Bauteile:** `w461683373`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 965 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 26.6 – Reihenhaus an Via Giano della Bella – Teil 2/10 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.822
@@ -225,7 +255,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.6 – Reihenhaus an Via Giano della Bella – Teil 2/9 (Y 64–68)
+### Schritt 26.7 – Reihenhaus an Via Giano della Bella – Teil 3/10 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.873
@@ -258,18 +288,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.7 – Reihenhaus an Via Giano della Bella – Teil 3/9 (Y 69–72)
+### Schritt 26.8 – Reihenhaus an Via Giano della Bella – Teil 4/10 (Y 69–73)
 
-- **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.530
+- **Y-Bereich:** 69 bis 73
+- **Blöcke:** 1.921
 - **Bauteile:** `w461683373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.366 |
-| Weißer Beton | `white_concrete` | 111 |
+| Gelbe Keramik | `yellow_terracotta` | 1.682 |
+| Weißer Beton | `white_concrete` | 186 |
 | Graues Buntglas | `gray_stained_glass` | 30 |
 | Grüner Beton | `green_concrete` | 12 |
 | Glatter Stein | `smooth_stone` | 11 |
@@ -290,9 +320,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.8 – Reihenhaus an Via Giano della Bella – Teil 4/9 (Y 73–77)
+### Schritt 26.9 – Reihenhaus an Via Giano della Bella – Teil 5/10 (Y 74–78)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.843
 - **Bauteile:** `w461683373`
 
@@ -321,20 +351,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.9 – Reihenhaus an Via Giano della Bella – Teil 5/9 (Y 78–82)
+### Schritt 26.10 – Reihenhaus an Via Giano della Bella – Teil 6/10 (Y 79–83)
 
-- **Y-Bereich:** 78 bis 82
-- **Blöcke:** 1.899
+- **Y-Bereich:** 79 bis 83
+- **Blöcke:** 1.871
 - **Bauteile:** `w461683373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.571 |
-| Weißer Beton | `white_concrete` | 234 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 30 |
+| Gelbe Keramik | `yellow_terracotta` | 1.529 |
+| Weißer Beton | `white_concrete` | 201 |
+| Graues Buntglas | `gray_stained_glass` | 96 |
+| Grüner Beton | `green_concrete` | 45 |
 
 **Beschreibung**
 
@@ -352,20 +382,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.10 – Reihenhaus an Via Giano della Bella – Teil 6/9 (Y 83–86)
+### Schritt 26.11 – Reihenhaus an Via Giano della Bella – Teil 7/10 (Y 84–87)
 
-- **Y-Bereich:** 83 bis 86
-- **Blöcke:** 1.508
+- **Y-Bereich:** 84 bis 87
+- **Blöcke:** 1.536
 - **Bauteile:** `w461683373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.255 |
-| Weißer Beton | `white_concrete` | 159 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
-| Grüner Beton | `green_concrete` | 30 |
+| Gelbe Keramik | `yellow_terracotta` | 1.297 |
+| Weißer Beton | `white_concrete` | 192 |
+| Graues Buntglas | `gray_stained_glass` | 32 |
+| Grüner Beton | `green_concrete` | 15 |
 
 **Beschreibung**
 
@@ -383,18 +413,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.11 – Reihenhaus an Via Giano della Bella – Teil 7/9 (Y 87–91)
+### Schritt 26.12 – Reihenhaus an Via Giano della Bella – Teil 8/10 (Y 88–91)
 
-- **Y-Bereich:** 87 bis 91
-- **Blöcke:** 1.843
+- **Y-Bereich:** 88 bis 91
+- **Blöcke:** 1.452
 - **Bauteile:** `w461683373`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.412 |
-| Weißer Beton | `white_concrete` | 243 |
+| Gelbe Keramik | `yellow_terracotta` | 1.096 |
+| Weißer Beton | `white_concrete` | 168 |
 | Graues Buntglas | `gray_stained_glass` | 128 |
 | Grüner Beton | `green_concrete` | 60 |
 
@@ -414,7 +444,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.12 – Reihenhaus an Via Giano della Bella – Teil 8/9 (Y 92–94)
+### Schritt 26.13 – Reihenhaus an Via Giano della Bella – Teil 9/10 (Y 92–94)
 
 - **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.968
@@ -444,7 +474,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.13 – Reihenhaus an Via Giano della Bella – Teil 9/9 (Y 95–100)
+### Schritt 26.14 – Reihenhaus an Via Giano della Bella – Teil 10/10 (Y 95–100)
 
 - **Y-Bereich:** 95 bis 100
 - **Blöcke:** 1.650
@@ -473,7 +503,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.14 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 26.15 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
 - **Blöcke:** 1.484
@@ -513,7 +543,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.15 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 26.16 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 2/3 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.474
@@ -553,7 +583,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.16 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 26.17 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 3/3 (Y 80–87)
 
 - **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.483
@@ -595,10 +625,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.17 – Reihenhaus an Via Giano della Bella – Teil 1/4 (Y 63–69)
+### Schritt 26.18 – Reihenhaus an Via Giano della Bella – Teil 1/4 (Y 60–69)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.741
+- **Y-Bereich:** 60 bis 69
+- **Blöcke:** 1.902
 - **Bauteile:** `w461683392`
 
 **Teileliste**
@@ -607,6 +637,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 885 |
 | Polierter Tuffstein | `polished_tuff` | 685 |
+| Tuffstein | `tuff` | 161 |
 | Weißer Beton | `white_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 44 |
 | Glatter Stein | `smooth_stone` | 16 |
@@ -628,7 +659,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.18 – Reihenhaus an Via Giano della Bella – Teil 2/4 (Y 70–79)
+### Schritt 26.19 – Reihenhaus an Via Giano della Bella – Teil 2/4 (Y 70–79)
 
 - **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.809
@@ -659,7 +690,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.19 – Reihenhaus an Via Giano della Bella – Teil 3/4 (Y 80–89)
+### Schritt 26.20 – Reihenhaus an Via Giano della Bella – Teil 3/4 (Y 80–89)
 
 - **Y-Bereich:** 80 bis 89
 - **Blöcke:** 1.779
@@ -690,7 +721,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.20 – Reihenhaus an Via Giano della Bella – Teil 4/4 (Y 90–100)
+### Schritt 26.21 – Reihenhaus an Via Giano della Bella – Teil 4/4 (Y 90–100)
 
 - **Y-Bereich:** 90 bis 100
 - **Blöcke:** 1.808
@@ -723,7 +754,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.21 – Reihenhaus an Via Giano della Bella: Innenausbau
+### Schritt 26.22 – Reihenhaus an Via Giano della Bella: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.629
@@ -765,9 +796,37 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.22 – Reihenhaus an Via Giano della Bella – Teil 1/9 (Y 63–63)
+### Schritt 26.23 – Reihenhaus an Via Giano della Bella – Teil 1/10 (Y 59–61)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.000
+- **Bauteile:** `w461683395`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.000 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 26.24 – Reihenhaus an Via Giano della Bella – Teil 2/10 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.169
 - **Bauteile:** `w461683395`
 
@@ -793,10 +852,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.23 – Reihenhaus an Via Giano della Bella – Teil 2/9 (Y 63–65)
+### Schritt 26.25 – Reihenhaus an Via Giano della Bella – Teil 3/10 (Y 62–64)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.946
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.998
 - **Bauteile:** `w461683395`
 
 **Teileliste**
@@ -804,7 +863,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.194 |
-| Glatter Sandstein | `smooth_sandstone` | 746 |
+| Glatter Sandstein | `smooth_sandstone` | 798 |
 | Glatter Stein | `smooth_stone` | 6 |
 
 **Beschreibung**
@@ -823,9 +882,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.24 – Reihenhaus an Via Giano della Bella – Teil 3/9 (Y 66–70)
+### Schritt 26.26 – Reihenhaus an Via Giano della Bella – Teil 4/10 (Y 65–69)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.799
 - **Bauteile:** `w461683395`
 
@@ -855,9 +914,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.25 – Reihenhaus an Via Giano della Bella – Teil 4/9 (Y 71–75)
+### Schritt 26.27 – Reihenhaus an Via Giano della Bella – Teil 5/10 (Y 70–74)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.846
 - **Bauteile:** `w461683395`
 
@@ -886,18 +945,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.26 – Reihenhaus an Via Giano della Bella – Teil 5/9 (Y 76–79)
+### Schritt 26.28 – Reihenhaus an Via Giano della Bella – Teil 6/10 (Y 75–79)
 
-- **Y-Bereich:** 76 bis 79
-- **Blöcke:** 1.502
+- **Y-Bereich:** 75 bis 79
+- **Blöcke:** 1.888
 - **Bauteile:** `w461683395`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.140 |
-| Weißer Beton | `white_concrete` | 289 |
+| Glatter Sandstein | `smooth_sandstone` | 1.429 |
+| Weißer Beton | `white_concrete` | 386 |
 | Graues Buntglas | `gray_stained_glass` | 47 |
 | Grüner Beton | `green_concrete` | 26 |
 
@@ -917,7 +976,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.27 – Reihenhaus an Via Giano della Bella – Teil 6/9 (Y 80–83)
+### Schritt 26.29 – Reihenhaus an Via Giano della Bella – Teil 7/10 (Y 80–83)
 
 - **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.487
@@ -948,19 +1007,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.28 – Reihenhaus an Via Giano della Bella – Teil 7/9 (Y 84–86)
+### Schritt 26.30 – Reihenhaus an Via Giano della Bella – Teil 8/10 (Y 84–85)
 
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.574
+- **Y-Bereich:** 84 bis 85
+- **Blöcke:** 1.165
 - **Bauteile:** `w461683395`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 987 |
+| Glatter Sandstein | `smooth_sandstone` | 675 |
 | Fichtenholz-Bretter | `spruce_planks` | 347 |
-| Weißer Beton | `white_concrete` | 240 |
+| Weißer Beton | `white_concrete` | 143 |
 
 **Beschreibung**
 
@@ -978,9 +1037,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.29 – Reihenhaus an Via Giano della Bella – Teil 8/9 (Y 87–88)
+### Schritt 26.31 – Reihenhaus an Via Giano della Bella – Teil 9/10 (Y 86–87)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.800
 - **Bauteile:** `w461683395`
 
@@ -1006,9 +1065,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.30 – Reihenhaus an Via Giano della Bella – Teil 9/9 (Y 89–95)
+### Schritt 26.32 – Reihenhaus an Via Giano della Bella – Teil 10/10 (Y 88–94)
 
-- **Y-Bereich:** 89 bis 95
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.783
 - **Bauteile:** `w461683395`
 
@@ -1035,9 +1094,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.31 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 63–72)
+### Schritt 26.33 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 2.038
 - **Bauteile:** `w461683395_innen`
 
@@ -1075,9 +1134,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 26.32 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 73–80)
+### Schritt 26.34 – Reihenhaus an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 72–79)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 2.033
 - **Bauteile:** `w461683395_innen`
 

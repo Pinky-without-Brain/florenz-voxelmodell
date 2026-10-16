@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 9.802 |
+| Blöcke | 9.804 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 66 bis 103 |
 | X-Ausdehnung | 775 bis 812 (38 Blöcke) |
 | Z-Ausdehnung | 18 bis 56 (39 Blöcke) |
-| Kleinster Schritt | 1.568 Blöcke (Schritt 7.1) |
+| Kleinster Schritt | 1.570 Blöcke (Schritt 7.1) |
 | Mittlerer Schritt | 1.634 Blöcke |
 | Größter Schritt | 1.676 Blöcke (Schritt 7.2) |
 
@@ -32,6 +32,7 @@
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,2 % |
 | Seelaterne | `sea_lantern` | 16 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 16 | 0,2 % |
+| Tuffstein | `tuff` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -43,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w307281117` | Haus w307281117 | 8.173 | 7.1–7.5 |
+| 1 | `w307281117` | Haus w307281117 | 8.175 | 7.1–7.5 |
 | 2 | `w307281117_innen` | Haus w307281117: Innenausbau | 1.629 | 7.6 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Haus w307281117 – Teil 1/5 (Y 63–67)
+### Schritt 7.1 – Haus w307281117 – Teil 1/5 (Y 66–71)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.568
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.570
 - **Bauteile:** `w307281117`
 
 **Teileliste**
@@ -63,6 +64,7 @@
 | Grüner Beton | `green_concrete` | 41 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
 | Glatter Stein | `smooth_stone` | 9 |
+| Tuffstein | `tuff` | 2 |
 
 **Beschreibung**
 
@@ -80,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Haus w307281117 – Teil 2/5 (Y 68–75)
+### Schritt 7.2 – Haus w307281117 – Teil 2/5 (Y 72–79)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.676
 - **Bauteile:** `w307281117`
 
@@ -111,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Haus w307281117 – Teil 3/5 (Y 76–83)
+### Schritt 7.3 – Haus w307281117 – Teil 3/5 (Y 80–87)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.650
 - **Bauteile:** `w307281117`
 
@@ -141,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Haus w307281117 – Teil 4/5 (Y 84–91)
+### Schritt 7.4 – Haus w307281117 – Teil 4/5 (Y 88–95)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.654
 - **Bauteile:** `w307281117`
 
@@ -171,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Haus w307281117 – Teil 5/5 (Y 92–99)
+### Schritt 7.5 – Haus w307281117 – Teil 5/5 (Y 96–103)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.625
 - **Bauteile:** `w307281117`
 
@@ -203,7 +205,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.6 – Haus w307281117: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 67 bis 90
 - **Blöcke:** 1.629
 - **Bauteile:** `w307281117_innen`
 

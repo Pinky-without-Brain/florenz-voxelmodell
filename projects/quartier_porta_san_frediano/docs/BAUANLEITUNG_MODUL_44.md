@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 12.644 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 59 bis 95 |
 | X-Ausdehnung | -2678 bis -2650 (29 Blöcke) |
 | Z-Ausdehnung | 389 bis 446 (58 Blöcke) |
 | Kleinster Schritt | 1.552 Blöcke (Schritt 44.7) |
@@ -54,9 +54,9 @@
 
 ## Bauschritte
 
-### Schritt 44.1 – Reihenhaus an Lungarno Santa Rosa – Teil 1/6 (Y 63–66)
+### Schritt 44.1 – Reihenhaus an Lungarno Santa Rosa – Teil 1/6 (Y 59–62)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 59 bis 62
 - **Blöcke:** 1.736
 - **Bauteile:** `w118884412`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.2 – Reihenhaus an Lungarno Santa Rosa – Teil 2/6 (Y 67–72)
+### Schritt 44.2 – Reihenhaus an Lungarno Santa Rosa – Teil 2/6 (Y 63–68)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.858
 - **Bauteile:** `w118884412`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Reihenhaus an Lungarno Santa Rosa – Teil 3/6 (Y 73–78)
+### Schritt 44.3 – Reihenhaus an Lungarno Santa Rosa – Teil 3/6 (Y 69–74)
 
-- **Y-Bereich:** 73 bis 78
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.828
 - **Bauteile:** `w118884412`
 
@@ -149,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.4 – Reihenhaus an Lungarno Santa Rosa – Teil 4/6 (Y 79–84)
+### Schritt 44.4 – Reihenhaus an Lungarno Santa Rosa – Teil 4/6 (Y 75–80)
 
-- **Y-Bereich:** 79 bis 84
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.828
 - **Bauteile:** `w118884412`
 
@@ -180,9 +180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.5 – Reihenhaus an Lungarno Santa Rosa – Teil 5/6 (Y 85–90)
+### Schritt 44.5 – Reihenhaus an Lungarno Santa Rosa – Teil 5/6 (Y 81–86)
 
-- **Y-Bereich:** 85 bis 90
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.904
 - **Bauteile:** `w118884412`
 
@@ -211,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.6 – Reihenhaus an Lungarno Santa Rosa – Teil 6/6 (Y 91–99)
+### Schritt 44.6 – Reihenhaus an Lungarno Santa Rosa – Teil 6/6 (Y 87–95)
 
-- **Y-Bereich:** 91 bis 99
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.938
 - **Bauteile:** `w118884412`
 
@@ -246,7 +246,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 44.7 – Reihenhaus an Lungarno Santa Rosa: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 59 bis 83
 - **Blöcke:** 1.552
 - **Bauteile:** `w118884412_innen`
 

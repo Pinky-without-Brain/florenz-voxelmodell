@@ -1,0 +1,43 @@
+{
+  "module": 5,
+  "title": "Decken und Dächer",
+  "subtitle": "Bautüte 5: bemalte Tonne, Kassettendecken, Chorkuppel und Dächer",
+  "icon": "🏠",
+  "parts": {
+    "tonne": {
+      "title": "Tonne des Schiffs",
+      "description": "Über dem Schiff spannt sich eine Tonne von Y 94 bis Y 102, bemalt in vielen Farben, am Rand Glatter Stein.",
+      "tip": "Baue von beiden Seiten zur Mitte.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Domenico Stagi malte die Scheinarchitektur, Giuseppe Romei die Himmelfahrt Christi."
+    },
+    "decken": {
+      "title": "Decken",
+      "description": "Querarme und Kapellen schließen mit flachen Decken; im Querhaus Dunkle Eiche mit goldenem Raster auf Y 100, in der Cappella Brancacci auf Y 86.",
+      "tip": "Das goldene Raster hat fünf Blöcke Abstand.",
+      "caution": "Darüber liegt der Dachraum.",
+      "fact": "Die große Holzdecke von Zanobi del Rosso war fast fertig, als 1771 das Feuer ausbrach."
+    },
+    "chorkuppel": {
+      "title": "Ovale Chorkuppel",
+      "description": "Über dem Chor wölbt sich eine flache ovale Kuppel bis Y 104.",
+      "tip": "Die Kuppel ist in Längsrichtung etwas länger als breit.",
+      "caution": "Darüber liegt der Dachraum.",
+      "fact": "Romei malte hier die Entrückung des Elias."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Satteldächer über Schiff (First Y 114), Querhaus (Y 112) und Chor (Y 110), mit Terrakotta gedeckt; die Cappella Brancacci hat ein niedriges Dach auf Y 92.",
+      "tip": "Von der Traufe zum First legen.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Die schlichten Dächer verraten nichts vom barocken Innenraum."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo Dächer verschieden hoch sind, schließen Schildwände aus Steinziegeln die Lücke.",
+      "tip": "Sie folgen der Dachneigung.",
+      "caution": "Keine Öffnungen.",
+      "fact": "So bleibt der Dachraum dicht."
+    }
+  }
+}

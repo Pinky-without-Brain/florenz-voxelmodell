@@ -11,7 +11,7 @@ window.CityView = (function () {
   var ROOF_COLORS = [0xA8523A, 0xB65E44, 0x9A4A36, 0xAF6A4E];
   var STATUS_COLORS = { gebaut: "#2e9e4f", in_arbeit: "#e8a317", geplant: "#9a7b7b" };
 
-  var cfg = { showDist: 1400, maxChunks: 2500, meshMs: 12, flySpeed: 1, ladeRand: 200, ladeParallel: 2 };
+  var cfg = { showDist: 1400, maxChunks: 2500, meshMs: 12, flySpeed: 1, ladeRand: 200, ladeParallel: 2, entladeRand: 600, entladeMin: 3 };
   var container, renderer, scene, camera, controls, sun;
   var basis = null, index = [];
   var terrain = null;         // { x0, z0, step, w, h, y: Int16Array, extX, extZ }
@@ -25,7 +25,7 @@ window.CityView = (function () {
   var flight = null;
   var handlers = {};
   var opaqueMat, transMat;
-  var stats = { buildings: 0, lodTris: 0, terrainTris: 0, chunksVisible: 0, chunksMeshed: 0, voxelBlocks: 0 };
+  var stats = { buildings: 0, lodTris: 0, terrainTris: 0, chunksVisible: 0, chunksMeshed: 0, voxelBlocks: 0, modulesUnloaded: 0 };
   var pointerDown = null;
 
   // ---------------------------------------------------------------- Hilfen
@@ -381,13 +381,53 @@ window.CityView = (function () {
     Object.keys(voxelProjects).forEach(function (id) {
       var vp = voxelProjects[id];
       vp.entry.modules.forEach(function (m) {
-        if (vp.geladen.has(m.n) || vp.inArbeit.has(m.n) || !moduleNah(cam, m)) return;
+        if (vp.umbau || vp.geladen.has(m.n) || vp.inArbeit.has(m.n) || !moduleNah(cam, m)) return;
         var d = m.b ? Math.hypot((m.b[0] + m.b[2]) / 2 - cam.x, (m.b[1] + m.b[3]) / 2 - cam.z) : 0;
         kandidaten.push({ vp: vp, m: m, d: d });
       });
     });
     kandidaten.sort(function (a, b) { return a.d - b.d; });
     kandidaten.slice(0, Math.max(0, cfg.ladeParallel - laedt)).forEach(function (k) { ladeModul(k.vp, k.m); });
+    entladeFerne(cam);
+  }
+
+  // Ferne Module entladen: liegen in einem Projekt mindestens cfg.entladeMin geladene Module (oder alle) weiter als
+  // showDist + ladeRand + entladeRand von der Kamera, wird die Welt des Projekts neu aufgebaut – nur aus den übrigen
+  // Modulen (deren Rohdaten noch im Speicher liegen); die Rohdaten der fernen Module werden freigegeben.
+  function moduleFern(cam, m) {
+    if (!m.b) return false;
+    var dx = Math.max(m.b[0] - cam.x, 0, cam.x - m.b[2]), dz = Math.max(m.b[1] - cam.z, 0, cam.z - m.b[3]);
+    return Math.hypot(dx, dz) > cfg.showDist + cfg.ladeRand + cfg.entladeRand;
+  }
+  function entladeFerne(cam) {
+    Object.keys(voxelProjects).forEach(function (id) {
+      var vp = voxelProjects[id];
+      if (vp.inArbeit.size || vp.umbau || !vp.geladen.size) return;
+      var fern = [];
+      vp.entry.modules.forEach(function (m) { if (vp.geladen.has(m.n) && moduleFern(cam, m)) fern.push(m.n); });
+      if (!fern.length || (fern.length < cfg.entladeMin && fern.length < vp.geladen.size)) return;
+      var bleib = [];
+      vp.geladen.forEach(function (n) { if (fern.indexOf(n) < 0) bleib.push(n); });
+      vp.chunks.forEach(function (ch) { dropOne(vp, ch); });
+      vp.chunks = []; vp.chunkByKey = new Map();
+      stats.voxelBlocks -= vp.blocks; vp.blocks = 0;
+      vp.world = window.ProjectLoader.worldFor(id);
+      vp.geladen = new Set();
+      fern.forEach(function (n) { window.ProjectLoader.forgetModule(id, n); });
+      stats.modulesUnloaded += fern.length;
+      if (!bleib.length) return;
+      vp.umbau = true;
+      window.ProjectLoader.fillWorldModules(vp.world, id, bleib).then(function (n) {
+        vp.umbau = false;
+        bleib.forEach(function (k) { vp.geladen.add(k); });
+        vp.blocks = n; stats.voxelBlocks += n;
+        vp.world.chunks.forEach(function (c, key) {
+          var ch = { key: key, cx: c.cx, cz: c.cz, x: c.cx * 16 + 8, z: c.cz * 16 + 8, meshes: null, used: 0 };
+          vp.chunkByKey.set(key, ch); vp.chunks.push(ch);
+        });
+        updateVoxels(true);
+      }).catch(function (err) { vp.umbau = false; console.error(err); });
+    });
   }
 
   function ladeModul(vp, m) {

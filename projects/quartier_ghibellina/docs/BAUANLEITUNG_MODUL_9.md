@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 488 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 74 |
+| Y-Bereich | 62 bis 73 |
 | X-Ausdehnung | 1047 bis 1060 (14 Blöcke) |
 | Z-Ausdehnung | 478 bis 485 (8 Blöcke) |
 | Kleinster Schritt | 488 Blöcke (Schritt 9.1) |
@@ -39,7 +39,7 @@
 
 ### Schritt 9.1 – Nebengebäude an Via dell'Ulivo
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 488
 - **Bauteile:** `w476952772`
 

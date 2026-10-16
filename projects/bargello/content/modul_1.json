@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den ganzen Block bis Y 118: wehrhaftes Mauerwerk aus Pietra forte, rau behauen, mit wenigen Fenstern. Gesimse aus Pietra serena trennen die Geschosse (Y 84, 102). Das Hauptportal liegt an der Via del Proconsolo, ein zweites an der Via Ghibellina.",
+      "tip": "Zwei Blöcke dick: außen Stein, innen Putz.",
+      "caution": "Lass die Portale frei.",
+      "fact": "Später residierte hier der Podestà, dann der Bargello, der Polizeichef der Stadt."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Erdgeschoss nur kleine Fenster hoch oben (Y 76 bis 80), darüber Biforen mit Mittelsäule (Y 90 bis 99 und Y 106 bis 114).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die wenigen, kleinen Fenster zeigen den wehrhaften Charakter des Baus."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Pietra serena die Fassade ab (Y 117 bis 118).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Die Zinnen ruhen auf einem Gesims aus Pietra serena."
+    }
+  }
+}

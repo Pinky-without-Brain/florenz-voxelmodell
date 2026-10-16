@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 8.284 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 70 bis 107 |
 | X-Ausdehnung | -2574 bis -2549 (26 Blöcke) |
 | Z-Ausdehnung | 2633 bis 2664 (32 Blöcke) |
 | Kleinster Schritt | 1.346 Blöcke (Schritt 14.5) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 14.1 – Haus w464976053 – Teil 1/4 (Y 63–70)
+### Schritt 14.1 – Haus w464976053 – Teil 1/4 (Y 70–77)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.818
 - **Bauteile:** `w464976053`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Haus w464976053 – Teil 2/4 (Y 71–79)
+### Schritt 14.2 – Haus w464976053 – Teil 2/4 (Y 78–86)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.606
 - **Bauteile:** `w464976053`
 
@@ -117,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Haus w464976053 – Teil 3/4 (Y 80–89)
+### Schritt 14.3 – Haus w464976053 – Teil 3/4 (Y 87–96)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.767
 - **Bauteile:** `w464976053`
 
@@ -147,9 +147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Haus w464976053 – Teil 4/4 (Y 90–100)
+### Schritt 14.4 – Haus w464976053 – Teil 4/4 (Y 97–107)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 97 bis 107
 - **Blöcke:** 1.747
 - **Bauteile:** `w464976053`
 
@@ -181,7 +181,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.5 – Haus w464976053: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 70 bis 94
 - **Blöcke:** 1.346
 - **Bauteile:** `w464976053_innen`
 

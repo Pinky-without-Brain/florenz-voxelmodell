@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Dach und Zinnen",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Dach und Zinnen",
+      "description": "Hinter einem Zinnenkranz auf der Außenwand (bis Y 123) steigt ein flaches Walmdach vier Lagen hoch.",
+      "tip": "Von der Traufe zum First legen.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Die Zinnen sind ein Zeichen der Macht des Volksregiments."
+    }
+  }
+}

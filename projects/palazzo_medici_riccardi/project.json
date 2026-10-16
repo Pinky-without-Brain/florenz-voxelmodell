@@ -1,0 +1,11 @@
+{
+  "id": "palazzo_medici_riccardi",
+  "title": "Palazzo Medici Riccardi",
+  "type": "wahrzeichen",
+  "gebaeude": ["r1379977"],
+  "bodenY": 65,
+  "rahmen": { "ox": -196.5, "oz": -379, "thetaDeg": 24 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

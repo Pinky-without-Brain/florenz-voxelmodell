@@ -1,0 +1,43 @@
+{
+  "module": 4,
+  "title": "Tribuna",
+  "subtitle": "Bautüte 4: Kapellenkranz, Triumphbogen, Tambour, Kuppel und Laterne",
+  "icon": "🔵",
+  "parts": {
+    "kranz": {
+      "title": "Kapellenkranz",
+      "description": "Rund um die Tribuna öffnen sich neun Kapellen mit Rundbögen, getrennt durch Pfeiler aus Pietra serena; jede Kapelle hat ein Fenster und eine Decke auf Y 88.",
+      "tip": "Baue Pfeiler für Pfeiler im Kreis.",
+      "caution": "Lass die Kapellenbögen offen.",
+      "fact": "Michelozzo legte 1444 den Grundstein; Leon Battista Alberti änderte den Entwurf, geweiht wurde die Tribuna 1477."
+    },
+    "triumphbogen": {
+      "title": "Triumphbogen",
+      "description": "Zum Schiff öffnet sich die Tribuna mit einem großen Rundbogen bis Y 102.",
+      "tip": "Der Bogen ist 22 Blöcke breit.",
+      "caution": "Darunter bleibt alles frei.",
+      "fact": "Lodovico Gonzaga, Markgraf von Mantua, übernahm die Kosten der Tribuna."
+    },
+    "tambour": {
+      "title": "Tambour",
+      "description": "Über den Kapellen steigt der runde Tambour bis Y 109, außen Ziegel, mit acht Fenstern auf Y 103 bis 109.",
+      "tip": "Die Fenster liegen gleichmäßig verteilt.",
+      "caution": "Innen offen bis zur Kuppel.",
+      "fact": "Hinten auf dem Tambour sitzt ein Glockengiebel mit fünf Glocken."
+    },
+    "kuppel": {
+      "title": "Kuppel",
+      "description": "Darüber wölbt sich die Kuppel bis Y 131, innen farbig bemalt, außen Terrakotta.",
+      "tip": "Jede Lage wird ein wenig enger.",
+      "caution": "Innen hohl bis zur Laterne.",
+      "fact": "Volterrano malte die Kuppel 1680 bis 1683 aus."
+    },
+    "laterne": {
+      "title": "Laterne",
+      "description": "Obenauf steht die Laterne aus hellem Quarz bis Y 149 mit Kupferspitze.",
+      "tip": "In der Mitte der Kuppel.",
+      "caution": "Sie ist nur fünf Blöcke breit.",
+      "fact": "Von der Piazza sieht man die Laterne über dem Portikus."
+    }
+  }
+}

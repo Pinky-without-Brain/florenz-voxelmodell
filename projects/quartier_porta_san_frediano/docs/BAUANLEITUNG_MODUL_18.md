@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 44.806 |
 | Bauschritte | 29 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 58 bis 95 |
 | X-Ausdehnung | -3031 bis -2871 (161 Blöcke) |
 | Z-Ausdehnung | 980 bis 1078 (99 Blöcke) |
 | Kleinster Schritt | 599 Blöcke (Schritt 18.3) |
@@ -75,9 +75,9 @@
 
 ## Bauschritte
 
-### Schritt 18.1 – Reihenhaus an Via Francesco Berni – Teil 1/2 (Y 63–78)
+### Schritt 18.1 – Reihenhaus an Via Francesco Berni – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 1.709
 - **Bauteile:** `w464120057`
 
@@ -107,9 +107,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.2 – Reihenhaus an Via Francesco Berni – Teil 2/2 (Y 79–97)
+### Schritt 18.2 – Reihenhaus an Via Francesco Berni – Teil 2/2 (Y 74–92)
 
-- **Y-Bereich:** 79 bis 97
+- **Y-Bereich:** 74 bis 92
 - **Blöcke:** 1.789
 - **Bauteile:** `w464120057`
 
@@ -141,7 +141,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.3 – Reihenhaus an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 599
 - **Bauteile:** `w464120057_innen`
 
@@ -179,9 +179,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.4 – Reihenhaus an Via Francesco Berni – Teil 1/3 (Y 63–72)
+### Schritt 18.4 – Reihenhaus an Via Francesco Berni – Teil 1/3 (Y 58–67)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 58 bis 67
 - **Blöcke:** 1.408
 - **Bauteile:** `w464120084`
 
@@ -212,9 +212,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.5 – Reihenhaus an Via Francesco Berni – Teil 2/3 (Y 73–84)
+### Schritt 18.5 – Reihenhaus an Via Francesco Berni – Teil 2/3 (Y 68–79)
 
-- **Y-Bereich:** 73 bis 84
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.446
 - **Bauteile:** `w464120084`
 
@@ -242,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.6 – Reihenhaus an Via Francesco Berni – Teil 3/3 (Y 85–98)
+### Schritt 18.6 – Reihenhaus an Via Francesco Berni – Teil 3/3 (Y 80–93)
 
-- **Y-Bereich:** 85 bis 98
+- **Y-Bereich:** 80 bis 93
 - **Blöcke:** 1.504
 - **Bauteile:** `w464120084`
 
@@ -276,7 +276,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.7 – Reihenhaus an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 58 bis 81
 - **Blöcke:** 679
 - **Bauteile:** `w464120084_innen`
 
@@ -312,9 +312,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.8 – Reihenhaus an Via Francesco Berni – Teil 1/4 (Y 63–69)
+### Schritt 18.8 – Reihenhaus an Via Francesco Berni – Teil 1/4 (Y 58–64)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 58 bis 64
 - **Blöcke:** 1.641
 - **Bauteile:** `w464120125`
 
@@ -345,9 +345,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.9 – Reihenhaus an Via Francesco Berni – Teil 2/4 (Y 70–79)
+### Schritt 18.9 – Reihenhaus an Via Francesco Berni – Teil 2/4 (Y 65–74)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.671
 - **Bauteile:** `w464120125`
 
@@ -375,9 +375,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.10 – Reihenhaus an Via Francesco Berni – Teil 3/4 (Y 80–89)
+### Schritt 18.10 – Reihenhaus an Via Francesco Berni – Teil 3/4 (Y 75–84)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.658
 - **Bauteile:** `w464120125`
 
@@ -405,9 +405,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.11 – Reihenhaus an Via Francesco Berni – Teil 4/4 (Y 90–100)
+### Schritt 18.11 – Reihenhaus an Via Francesco Berni – Teil 4/4 (Y 85–95)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 85 bis 95
 - **Blöcke:** 1.713
 - **Bauteile:** `w464120125`
 
@@ -439,7 +439,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.12 – Reihenhaus an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 1.620
 - **Bauteile:** `w464120125_innen`
 
@@ -477,9 +477,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.13 – Palazzo des Cinquecento an Via Francesco Berni – Teil 1/4 (Y 63–69)
+### Schritt 18.13 – Palazzo des Cinquecento an Via Francesco Berni – Teil 1/4 (Y 58–64)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 58 bis 64
 - **Blöcke:** 1.818
 - **Bauteile:** `w464120173`
 
@@ -512,9 +512,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.14 – Palazzo des Cinquecento an Via Francesco Berni – Teil 2/4 (Y 70–79)
+### Schritt 18.14 – Palazzo des Cinquecento an Via Francesco Berni – Teil 2/4 (Y 65–74)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.654
 - **Bauteile:** `w464120173`
 
@@ -544,9 +544,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.15 – Palazzo des Cinquecento an Via Francesco Berni – Teil 3/4 (Y 80–90)
+### Schritt 18.15 – Palazzo des Cinquecento an Via Francesco Berni – Teil 3/4 (Y 75–85)
 
-- **Y-Bereich:** 80 bis 90
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 1.794
 - **Bauteile:** `w464120173`
 
@@ -576,9 +576,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.16 – Palazzo des Cinquecento an Via Francesco Berni – Teil 4/4 (Y 91–100)
+### Schritt 18.16 – Palazzo des Cinquecento an Via Francesco Berni – Teil 4/4 (Y 86–95)
 
-- **Y-Bereich:** 91 bis 100
+- **Y-Bereich:** 86 bis 95
 - **Blöcke:** 1.804
 - **Bauteile:** `w464120173`
 
@@ -609,7 +609,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.17 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 58 bis 79
 - **Blöcke:** 1.441
 - **Bauteile:** `w464120173_innen`
 
@@ -647,9 +647,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.18 – Reihenhaus an Via Francesco Berni – Teil 1/2 (Y 63–79)
+### Schritt 18.18 – Reihenhaus an Via Francesco Berni – Teil 1/2 (Y 58–74)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 58 bis 74
 - **Blöcke:** 1.540
 - **Bauteile:** `w464120188`
 
@@ -680,9 +680,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.19 – Reihenhaus an Via Francesco Berni – Teil 2/2 (Y 80–97)
+### Schritt 18.19 – Reihenhaus an Via Francesco Berni – Teil 2/2 (Y 75–92)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 75 bis 92
 - **Blöcke:** 1.567
 - **Bauteile:** `w464120188`
 
@@ -716,7 +716,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 18.20 – Reihenhaus an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 58 bis 81
 - **Blöcke:** 720
 - **Bauteile:** `w464120188_innen`
 
@@ -754,9 +754,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.21 – Palazzo des Cinquecento an Via Francesco Berni – Teil 1/7 (Y 63–65)
+### Schritt 18.21 – Palazzo des Cinquecento an Via Francesco Berni – Teil 1/7 (Y 58–60)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 58 bis 60
 - **Blöcke:** 1.986
 - **Bauteile:** `w464120235`
 
@@ -786,9 +786,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.22 – Palazzo des Cinquecento an Via Francesco Berni – Teil 2/7 (Y 66–70)
+### Schritt 18.22 – Palazzo des Cinquecento an Via Francesco Berni – Teil 2/7 (Y 61–65)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.541
 - **Bauteile:** `w464120235`
 
@@ -819,9 +819,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.23 – Palazzo des Cinquecento an Via Francesco Berni – Teil 3/7 (Y 71–76)
+### Schritt 18.23 – Palazzo des Cinquecento an Via Francesco Berni – Teil 3/7 (Y 66–71)
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 66 bis 71
 - **Blöcke:** 1.966
 - **Bauteile:** `w464120235`
 
@@ -851,9 +851,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.24 – Palazzo des Cinquecento an Via Francesco Berni – Teil 4/7 (Y 77–82)
+### Schritt 18.24 – Palazzo des Cinquecento an Via Francesco Berni – Teil 4/7 (Y 72–77)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 72 bis 77
 - **Blöcke:** 1.848
 - **Bauteile:** `w464120235`
 
@@ -883,9 +883,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.25 – Palazzo des Cinquecento an Via Francesco Berni – Teil 5/7 (Y 83–88)
+### Schritt 18.25 – Palazzo des Cinquecento an Via Francesco Berni – Teil 5/7 (Y 78–83)
 
-- **Y-Bereich:** 83 bis 88
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 1.906
 - **Bauteile:** `w464120235`
 
@@ -915,9 +915,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.26 – Palazzo des Cinquecento an Via Francesco Berni – Teil 6/7 (Y 89–93)
+### Schritt 18.26 – Palazzo des Cinquecento an Via Francesco Berni – Teil 6/7 (Y 84–88)
 
-- **Y-Bereich:** 89 bis 93
+- **Y-Bereich:** 84 bis 88
 - **Blöcke:** 1.797
 - **Bauteile:** `w464120235`
 
@@ -947,9 +947,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.27 – Palazzo des Cinquecento an Via Francesco Berni – Teil 7/7 (Y 94–99)
+### Schritt 18.27 – Palazzo des Cinquecento an Via Francesco Berni – Teil 7/7 (Y 89–94)
 
-- **Y-Bereich:** 94 bis 99
+- **Y-Bereich:** 89 bis 94
 - **Blöcke:** 1.855
 - **Bauteile:** `w464120235`
 
@@ -976,9 +976,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 18.28 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 18.28 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.070
 - **Bauteile:** `w464120235_innen`
 
@@ -1014,9 +1014,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 18.29 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 2/2 (Y 74–83)
+### Schritt 18.29 – Palazzo des Cinquecento an Via Francesco Berni: Innenausbau – Teil 2/2 (Y 69–78)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.062
 - **Bauteile:** `w464120235_innen`
 

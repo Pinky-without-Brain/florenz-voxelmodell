@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament bis Y 65 und Boden auf Y 66",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Zur Via del Proconsolo fällt das Gelände bis Y 63; dort füllst du mit Tuff bis Y 65 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 65 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Die Abtei wurde 978 von Willa, der Mutter des Markgrafen Hugo, gegründet."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 66 legst du den Boden: im Saal ein Schachbrett aus Glattem Stein und hellem Quarz, im Presbyterium heller Quarz, im Nordarm rosa Terrakotta.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 5.",
+      "fact": "Der Boden liegt bündig mit der Via Dante Alighieri."
+    }
+  }
+}

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 911 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 64 bis 95 |
 | X-Ausdehnung | -1965 bis -1958 (8 Blöcke) |
 | Z-Ausdehnung | 2242 bis 2249 (8 Blöcke) |
 | Kleinster Schritt | 911 Blöcke (Schritt 42.1) |
@@ -37,7 +37,7 @@
 
 ### Schritt 42.1 – Nebengebäude an Via dei Mori & Nebengebäude an Via dei Mori: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 64 bis 95
 - **Blöcke:** 911
 - **Bauteile:** `w775123569`, `w775123569_innen`
 

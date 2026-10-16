@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Pfeiler und Widerlager",
+  "subtitle": "Bautüte 0: 2 Pfeiler im Fluss und die Widerlager an den Ufern",
+  "icon": "🧱",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Im Arno stehen 2 Pfeiler aus Pietra forte; sie reichen vom Flussbett unter dem Wasserspiegel (Y 50) bis unter die Fahrbahn, mit spitzen Vorköpfen gegen die Strömung.",
+      "tip": "Baue jeden Pfeiler von unten nach oben.",
+      "caution": "Die Vorköpfe gehören zur Brückenfläche.",
+      "fact": "Bartolomeo Ammannati baute die Brücke 1567–1570; ihre Bögen haben die Form einer umgekehrten Kettenlinie."
+    },
+    "widerlager": {
+      "title": "Widerlager",
+      "description": "An beiden Ufern tragen massive Widerlager die Fahrbahn bis zur Höhe der Uferstraßen (Y 64 und Y 65).",
+      "tip": "Außen glatte Steine, innen Füllmauerwerk.",
+      "caution": "Bis unter die Fahrbahn füllen.",
+      "fact": "Die Bögen sind so flach, dass die Brücke als eine der elegantesten der Renaissance gilt."
+    }
+  }
+}

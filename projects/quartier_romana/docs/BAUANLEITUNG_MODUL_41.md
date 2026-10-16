@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.137 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 66 bis 101 |
 | X-Ausdehnung | -1993 bis -1961 (33 Blöcke) |
 | Z-Ausdehnung | 2117 bis 2140 (24 Blöcke) |
 | Kleinster Schritt | 1.000 Blöcke (Schritt 41.5) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 41.1 – Haus w486369638 – Teil 1/4 (Y 63–70)
+### Schritt 41.1 – Haus w486369638 – Teil 1/4 (Y 66–73)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 66 bis 73
 - **Blöcke:** 1.572
 - **Bauteile:** `w486369638`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.2 – Haus w486369638 – Teil 2/4 (Y 71–79)
+### Schritt 41.2 – Haus w486369638 – Teil 2/4 (Y 74–82)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.474
 - **Bauteile:** `w486369638`
 
@@ -112,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.3 – Haus w486369638 – Teil 3/4 (Y 80–88)
+### Schritt 41.3 – Haus w486369638 – Teil 3/4 (Y 83–91)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 83 bis 91
 - **Blöcke:** 1.497
 - **Bauteile:** `w486369638`
 
@@ -142,9 +142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 41.4 – Haus w486369638 – Teil 4/4 (Y 89–98)
+### Schritt 41.4 – Haus w486369638 – Teil 4/4 (Y 92–101)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 92 bis 101
 - **Blöcke:** 1.594
 - **Bauteile:** `w486369638`
 
@@ -176,7 +176,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 41.5 – Haus w486369638: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.000
 - **Bauteile:** `w486369638_innen`
 

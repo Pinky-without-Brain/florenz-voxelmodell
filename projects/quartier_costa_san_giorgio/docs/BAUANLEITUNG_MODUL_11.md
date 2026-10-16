@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.268 |
+| Blöcke | 8.269 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 129 bis 165 |
 | X-Ausdehnung | -415 bis -377 (39 Blöcke) |
 | Z-Ausdehnung | 1850 bis 1879 (30 Blöcke) |
 | Kleinster Schritt | 1.174 Blöcke (Schritt 11.5) |
@@ -34,6 +34,7 @@
 | Rote Keramik | `red_terracotta` | 9 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
+| Tuffstein | `tuff` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -45,15 +46,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119220017` | Haus w119220017 | 7.094 | 11.1–11.4 |
+| 1 | `w119220017` | Haus w119220017 | 7.095 | 11.1–11.4 |
 | 2 | `w119220017_innen` | Haus w119220017: Innenausbau | 1.174 | 11.5 |
 
 ## Bauschritte
 
-### Schritt 11.1 – Haus w119220017 – Teil 1/4 (Y 63–70)
+### Schritt 11.1 – Haus w119220017 – Teil 1/4 (Y 129–137)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.826
+- **Y-Bereich:** 129 bis 137
+- **Blöcke:** 1.827
 - **Bauteile:** `w119220017`
 
 **Teileliste**
@@ -65,6 +66,7 @@
 | Graues Buntglas | `gray_stained_glass` | 137 |
 | Glatter Stein | `smooth_stone` | 103 |
 | Grüner Beton | `green_concrete` | 32 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -82,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.2 – Haus w119220017 – Teil 2/4 (Y 71–79)
+### Schritt 11.2 – Haus w119220017 – Teil 2/4 (Y 138–146)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 138 bis 146
 - **Blöcke:** 1.714
 - **Bauteile:** `w119220017`
 
@@ -112,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Haus w119220017 – Teil 3/4 (Y 80–88)
+### Schritt 11.3 – Haus w119220017 – Teil 3/4 (Y 147–155)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 147 bis 155
 - **Blöcke:** 1.692
 - **Bauteile:** `w119220017`
 
@@ -142,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.4 – Haus w119220017 – Teil 4/4 (Y 89–98)
+### Schritt 11.4 – Haus w119220017 – Teil 4/4 (Y 156–165)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 156 bis 165
 - **Blöcke:** 1.862
 - **Bauteile:** `w119220017`
 
@@ -176,7 +178,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 11.5 – Haus w119220017: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 130 bis 154
 - **Blöcke:** 1.174
 - **Bauteile:** `w119220017_innen`
 

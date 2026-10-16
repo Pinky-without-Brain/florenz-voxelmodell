@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 17.215 |
+| Blöcke | 17.212 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 55 bis 91 |
 | X-Ausdehnung | -2543 bis -2498 (46 Blöcke) |
 | Z-Ausdehnung | 440 bis 518 (79 Blöcke) |
 | Kleinster Schritt | 1.782 Blöcke (Schritt 49.1) |
-| Mittlerer Schritt | 1.913 Blöcke |
+| Mittlerer Schritt | 1.912 Blöcke |
 | Größter Schritt | 2.096 Blöcke (Schritt 49.9) |
 
 ## Gesamt-Stückliste
@@ -22,8 +22,8 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 7.553 | 43,9 % |
-| Terrakotta | `terracotta` | 3.899 | 22,6 % |
-| Weißer Beton | `white_concrete` | 2.025 | 11,8 % |
+| Terrakotta | `terracotta` | 3.899 | 22,7 % |
+| Weißer Beton | `white_concrete` | 2.022 | 11,7 % |
 | Polierter Tuffstein | `polished_tuff` | 1.393 | 8,1 % |
 | Graues Buntglas | `gray_stained_glass` | 716 | 4,2 % |
 | Grüner Beton | `green_concrete` | 702 | 4,1 % |
@@ -47,14 +47,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w495060161` | Haus w495060161 | 15.119 | 49.1–49.8 |
+| 1 | `w495060161` | Haus w495060161 | 15.116 | 49.1–49.8 |
 | 2 | `w495060161_innen` | Haus w495060161: Innenausbau | 2.096 | 49.9 |
 
 ## Bauschritte
 
-### Schritt 49.1 – Haus w495060161 – Teil 1/8 (Y 63–64)
+### Schritt 49.1 – Haus w495060161 – Teil 1/8 (Y 55–56)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 55 bis 56
 - **Blöcke:** 1.782
 - **Bauteile:** `w495060161`
 
@@ -84,10 +84,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.2 – Haus w495060161 – Teil 2/8 (Y 65–69)
+### Schritt 49.2 – Haus w495060161 – Teil 2/8 (Y 57–61)
 
-- **Y-Bereich:** 65 bis 69
-- **Blöcke:** 1.938
+- **Y-Bereich:** 57 bis 61
+- **Blöcke:** 1.935
 - **Bauteile:** `w495060161`
 
 **Teileliste**
@@ -95,7 +95,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 1.144 |
-| Weißer Beton | `white_concrete` | 431 |
+| Weißer Beton | `white_concrete` | 428 |
 | Graues Buntglas | `gray_stained_glass` | 147 |
 | Grüner Beton | `green_concrete` | 144 |
 | Polierter Andesit | `polished_andesite` | 52 |
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.3 – Haus w495060161 – Teil 3/8 (Y 70–74)
+### Schritt 49.3 – Haus w495060161 – Teil 3/8 (Y 62–66)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 62 bis 66
 - **Blöcke:** 1.947
 - **Bauteile:** `w495060161`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.4 – Haus w495060161 – Teil 4/8 (Y 75–79)
+### Schritt 49.4 – Haus w495060161 – Teil 4/8 (Y 67–71)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.830
 - **Bauteile:** `w495060161`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.5 – Haus w495060161 – Teil 5/8 (Y 80–84)
+### Schritt 49.5 – Haus w495060161 – Teil 5/8 (Y 72–76)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.950
 - **Bauteile:** `w495060161`
 
@@ -217,9 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.6 – Haus w495060161 – Teil 6/8 (Y 85–89)
+### Schritt 49.6 – Haus w495060161 – Teil 6/8 (Y 77–81)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.830
 - **Bauteile:** `w495060161`
 
@@ -249,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.7 – Haus w495060161 – Teil 7/8 (Y 90–93)
+### Schritt 49.7 – Haus w495060161 – Teil 7/8 (Y 82–85)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.836
 - **Bauteile:** `w495060161`
 
@@ -281,9 +281,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 49.8 – Haus w495060161 – Teil 8/8 (Y 94–99)
+### Schritt 49.8 – Haus w495060161 – Teil 8/8 (Y 86–91)
 
-- **Y-Bereich:** 94 bis 99
+- **Y-Bereich:** 86 bis 91
 - **Blöcke:** 2.006
 - **Bauteile:** `w495060161`
 
@@ -312,7 +312,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 49.9 – Haus w495060161: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 55 bis 76
 - **Blöcke:** 2.096
 - **Bauteile:** `w495060161_innen`
 

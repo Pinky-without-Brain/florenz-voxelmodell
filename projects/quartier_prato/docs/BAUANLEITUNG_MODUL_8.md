@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 23.024 |
 | Bauschritte | 14 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 56 bis 94 |
 | X-Ausdehnung | -2906 bis -2842 (65 Blöcke) |
 | Z-Ausdehnung | -879 bis -811 (69 Blöcke) |
 | Kleinster Schritt | 857 Blöcke (Schritt 8.7) |
@@ -60,9 +60,9 @@
 
 ## Bauschritte
 
-### Schritt 8.1 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/6 (Y 63–66)
+### Schritt 8.1 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/6 (Y 56–59)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 56 bis 59
 - **Blöcke:** 1.849
 - **Bauteile:** `w484069096`
 
@@ -92,9 +92,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/6 (Y 67–72)
+### Schritt 8.2 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/6 (Y 60–65)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 60 bis 65
 - **Blöcke:** 1.623
 - **Bauteile:** `w484069096`
 
@@ -124,9 +124,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/6 (Y 73–79)
+### Schritt 8.3 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/6 (Y 66–72)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.909
 - **Bauteile:** `w484069096`
 
@@ -154,9 +154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/6 (Y 80–85)
+### Schritt 8.4 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/6 (Y 73–78)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.630
 - **Bauteile:** `w484069096`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/6 (Y 86–92)
+### Schritt 8.5 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/6 (Y 79–85)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.909
 - **Bauteile:** `w484069096`
 
@@ -214,9 +214,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.6 – Reihenhaus an Viale Fratelli Rosselli – Teil 6/6 (Y 93–101)
+### Schritt 8.6 – Reihenhaus an Viale Fratelli Rosselli – Teil 6/6 (Y 86–94)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.643
 - **Bauteile:** `w484069096`
 
@@ -244,9 +244,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 8.7 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 857
 - **Bauteile:** `w484069096_innen`
 
@@ -282,9 +282,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.8 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 8.8 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.585
 - **Bauteile:** `w484069096_innen`
 
@@ -322,9 +322,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.9 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 1/5 (Y 63–67)
+### Schritt 8.9 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 1/5 (Y 56–60)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 56 bis 60
 - **Blöcke:** 1.738
 - **Bauteile:** `w484069200`
 
@@ -355,9 +355,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 2/5 (Y 68–75)
+### Schritt 8.10 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 2/5 (Y 61–68)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 61 bis 68
 - **Blöcke:** 1.671
 - **Bauteile:** `w484069200`
 
@@ -388,9 +388,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.11 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 3/5 (Y 76–83)
+### Schritt 8.11 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 3/5 (Y 69–76)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 69 bis 76
 - **Blöcke:** 1.644
 - **Bauteile:** `w484069200`
 
@@ -420,9 +420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.12 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 4/5 (Y 84–91)
+### Schritt 8.12 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 4/5 (Y 77–84)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.644
 - **Bauteile:** `w484069200`
 
@@ -451,9 +451,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.13 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 5/5 (Y 92–100)
+### Schritt 8.13 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 5/5 (Y 85–93)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.802
 - **Bauteile:** `w484069200`
 
@@ -485,7 +485,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.14 – Palazzo des Cinquecento an Viale Fratelli Rosselli: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 56 bis 77
 - **Blöcke:** 1.520
 - **Bauteile:** `w484069200_innen`
 

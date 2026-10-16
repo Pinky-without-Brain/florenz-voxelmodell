@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.907 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 67 bis 103 |
 | X-Ausdehnung | 1515 bis 1539 (25 Blöcke) |
 | Z-Ausdehnung | -459 bis -433 (27 Blöcke) |
 | Kleinster Schritt | 480 Blöcke (Schritt 39.4) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 39.1 – Haus w507949421 – Teil 1/3 (Y 63–73)
+### Schritt 39.1 – Haus w507949421 – Teil 1/3 (Y 67–77)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.475
 - **Bauteile:** `w507949421`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.2 – Haus w507949421 – Teil 2/3 (Y 74–85)
+### Schritt 39.2 – Haus w507949421 – Teil 2/3 (Y 78–89)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 78 bis 89
 - **Blöcke:** 1.437
 - **Bauteile:** `w507949421`
 
@@ -112,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.3 – Haus w507949421 – Teil 3/3 (Y 86–99)
+### Schritt 39.3 – Haus w507949421 – Teil 3/3 (Y 90–103)
 
-- **Y-Bereich:** 86 bis 99
+- **Y-Bereich:** 90 bis 103
 - **Blöcke:** 1.515
 - **Bauteile:** `w507949421`
 
@@ -148,7 +148,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 39.4 – Haus w507949421: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 67 bis 90
 - **Blöcke:** 480
 - **Bauteile:** `w507949421_innen`
 

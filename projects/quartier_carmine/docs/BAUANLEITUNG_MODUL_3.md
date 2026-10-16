@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 15.171 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 61 bis 97 |
 | X-Ausdehnung | -2031 bis -1957 (75 Blöcke) |
 | Z-Ausdehnung | 1297 bis 1346 (50 Blöcke) |
 | Kleinster Schritt | 1.432 Blöcke (Schritt 3.9) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 3.1 – Haus w480493988 – Teil 1/8 (Y 63–65)
+### Schritt 3.1 – Haus w480493988 – Teil 1/8 (Y 61–63)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.800
 - **Bauteile:** `w480493988`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Haus w480493988 – Teil 2/8 (Y 66–70)
+### Schritt 3.2 – Haus w480493988 – Teil 2/8 (Y 64–68)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.777
 - **Bauteile:** `w480493988`
 
@@ -114,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Haus w480493988 – Teil 3/8 (Y 71–74)
+### Schritt 3.3 – Haus w480493988 – Teil 3/8 (Y 69–72)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.520
 - **Bauteile:** `w480493988`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Haus w480493988 – Teil 4/8 (Y 75–79)
+### Schritt 3.4 – Haus w480493988 – Teil 4/8 (Y 73–77)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.786
 - **Bauteile:** `w480493988`
 
@@ -176,9 +176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Haus w480493988 – Teil 5/8 (Y 80–84)
+### Schritt 3.5 – Haus w480493988 – Teil 5/8 (Y 78–82)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 78 bis 82
 - **Blöcke:** 1.828
 - **Bauteile:** `w480493988`
 
@@ -208,9 +208,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Haus w480493988 – Teil 6/8 (Y 85–88)
+### Schritt 3.6 – Haus w480493988 – Teil 6/8 (Y 83–86)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.442
 - **Bauteile:** `w480493988`
 
@@ -240,9 +240,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Haus w480493988 – Teil 7/8 (Y 89–93)
+### Schritt 3.7 – Haus w480493988 – Teil 7/8 (Y 87–91)
 
-- **Y-Bereich:** 89 bis 93
+- **Y-Bereich:** 87 bis 91
 - **Blöcke:** 2.080
 - **Bauteile:** `w480493988`
 
@@ -272,9 +272,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Haus w480493988 – Teil 8/8 (Y 94–99)
+### Schritt 3.8 – Haus w480493988 – Teil 8/8 (Y 92–97)
 
-- **Y-Bereich:** 94 bis 99
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.506
 - **Bauteile:** `w480493988`
 
@@ -303,7 +303,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.9 – Haus w480493988: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 61 bis 81
 - **Blöcke:** 1.432
 - **Bauteile:** `w480493988_innen`
 

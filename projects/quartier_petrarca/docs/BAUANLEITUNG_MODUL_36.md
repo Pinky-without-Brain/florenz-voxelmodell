@@ -200,9 +200,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.5 – Reihenhaus an Via Giano della Bella – Teil 1/4 (Y 63–66)
+### Schritt 36.5 – Reihenhaus an Via Giano della Bella – Teil 1/4 (Y 65–68)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.499
 - **Bauteile:** `w461683400`
 
@@ -230,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.6 – Reihenhaus an Via Giano della Bella – Teil 2/4 (Y 67–73)
+### Schritt 36.6 – Reihenhaus an Via Giano della Bella – Teil 2/4 (Y 69–75)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 69 bis 75
 - **Blöcke:** 1.632
 - **Bauteile:** `w461683400`
 
@@ -261,9 +261,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.7 – Reihenhaus an Via Giano della Bella – Teil 3/4 (Y 74–79)
+### Schritt 36.7 – Reihenhaus an Via Giano della Bella – Teil 3/4 (Y 76–81)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 76 bis 81
 - **Blöcke:** 1.406
 - **Bauteile:** `w461683400`
 
@@ -293,9 +293,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.8 – Reihenhaus an Via Giano della Bella – Teil 4/4 (Y 79–86)
+### Schritt 36.8 – Reihenhaus an Via Giano della Bella – Teil 4/4 (Y 81–88)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.704
 - **Bauteile:** `w461683400`
 
@@ -327,7 +327,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.9 – Reihenhaus an Via Giano della Bella: Innenausbau
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 568
 - **Bauteile:** `w461683400_innen`
 
@@ -367,9 +367,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.10 – Haus w495766108 – Teil 1/2 (Y 63–73)
+### Schritt 36.10 – Haus w495766108 – Teil 1/2 (Y 65–75)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.519
 - **Bauteile:** `w495766108`
 
@@ -401,9 +401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.11 – Haus w495766108 – Teil 2/2 (Y 74–85) & Haus w495766108: Innenausbau
+### Schritt 36.11 – Haus w495766108 – Teil 2/2 (Y 76–87) & Haus w495766108: Innenausbau
 
-- **Y-Bereich:** 63 bis 85
+- **Y-Bereich:** 65 bis 87
 - **Blöcke:** 1.787
 - **Bauteile:** `w495766108`, `w495766108_innen`
 

@@ -1,0 +1,11 @@
+{
+  "id": "santissima_annunziata",
+  "title": "Basilica della Santissima Annunziata",
+  "type": "wahrzeichen",
+  "gebaeude": ["w234428743"],
+  "bodenY": 67,
+  "rahmen": { "ox": 621.5, "oz": -820, "thetaDeg": -48.5 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

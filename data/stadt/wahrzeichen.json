@@ -381,25 +381,16 @@
   },
   {
    "name": "Ponte San Niccolo",
-   "gefunden": true,
-   "treffer": [
-    {
-     "id": "w306984416"
-    },
-    {
-     "id": "w599897663"
-    },
-    {
-     "id": "w72915036"
-    }
-   ],
+   "gefunden": false,
+   "treffer": [],
    "gewaehlt": null,
    "quelle": "brueckenebene"
   }
  ],
  "nichtGefunden": [
   "Arcone di Piazza della Repubblica",
-  "Ponte alla Vittoria"
+  "Ponte alla Vittoria",
+  "Ponte San Niccolo"
  ],
  "bruecken": [
   {

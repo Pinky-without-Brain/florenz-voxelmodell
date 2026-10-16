@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 9.469 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 61 bis 98 |
 | X-Ausdehnung | -1257 bis -1218 (40 Blöcke) |
 | Z-Ausdehnung | -1263 bis -1230 (34 Blöcke) |
 | Kleinster Schritt | 1.517 Blöcke (Schritt 51.5) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 51.1 – Haus w1123931175 – Teil 1/4 (Y 63–70)
+### Schritt 51.1 – Haus w1123931175 – Teil 1/4 (Y 61–68)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 61 bis 68
 - **Blöcke:** 2.093
 - **Bauteile:** `w1123931175`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.2 – Haus w1123931175 – Teil 2/4 (Y 71–79)
+### Schritt 51.2 – Haus w1123931175 – Teil 2/4 (Y 69–77)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.869
 - **Bauteile:** `w1123931175`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.3 – Haus w1123931175 – Teil 3/4 (Y 80–89)
+### Schritt 51.3 – Haus w1123931175 – Teil 3/4 (Y 78–87)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 78 bis 87
 - **Blöcke:** 2.028
 - **Bauteile:** `w1123931175`
 
@@ -143,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 51.4 – Haus w1123931175 – Teil 4/4 (Y 90–100)
+### Schritt 51.4 – Haus w1123931175 – Teil 4/4 (Y 88–98)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 88 bis 98
 - **Blöcke:** 1.962
 - **Bauteile:** `w1123931175`
 
@@ -177,7 +177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 51.5 – Haus w1123931175: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.517
 - **Bauteile:** `w1123931175_innen`
 

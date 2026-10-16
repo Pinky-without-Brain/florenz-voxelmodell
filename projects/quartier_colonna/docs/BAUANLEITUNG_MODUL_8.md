@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 11.136 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 72 bis 109 |
 | X-Ausdehnung | 862 bis 906 (45 Blöcke) |
 | Z-Ausdehnung | -1475 bis -1426 (50 Blöcke) |
 | Kleinster Schritt | 1.302 Blöcke (Schritt 8.6) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 1/5 (Y 63–67)
+### Schritt 8.1 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 1/5 (Y 72–76)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.906
 - **Bauteile:** `w112941731`
 
@@ -83,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 2/5 (Y 68–75)
+### Schritt 8.2 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 2/5 (Y 77–84)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 77 bis 84
 - **Blöcke:** 2.006
 - **Bauteile:** `w112941731`
 
@@ -116,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 3/5 (Y 76–83)
+### Schritt 8.3 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 3/5 (Y 85–92)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.980
 - **Bauteile:** `w112941731`
 
@@ -148,9 +148,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 4/5 (Y 84–91)
+### Schritt 8.4 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 4/5 (Y 93–100)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.980
 - **Bauteile:** `w112941731`
 
@@ -179,9 +179,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 5/5 (Y 92–100)
+### Schritt 8.5 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini – Teil 5/5 (Y 101–109)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 101 bis 109
 - **Blöcke:** 1.962
 - **Bauteile:** `w112941731`
 
@@ -214,7 +214,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.6 – Palazzo des Cinquecento an Via Luigi Salvatore Cherubini: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 72 bis 92
 - **Blöcke:** 1.302
 - **Bauteile:** `w112941731_innen`
 

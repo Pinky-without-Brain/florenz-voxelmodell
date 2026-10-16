@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 185.781 |
+| Blöcke | 186.178 |
 | Bauschritte | 107 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 58 bis 101 |
 | X-Ausdehnung | -1440 bis -1110 (331 Blöcke) |
 | Z-Ausdehnung | 509 bis 699 (191 Blöcke) |
 | Kleinster Schritt | 1.068 Blöcke (Schritt 13.63) |
-| Mittlerer Schritt | 1.736 Blöcke |
+| Mittlerer Schritt | 1.740 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 13.48) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 78.064 | 42,0 % |
+| Terrakotta | `terracotta` | 78.064 | 41,9 % |
 | Hellgrauer Beton | `light_gray_concrete` | 40.944 | 22,0 % |
 | Polierter Tuffstein | `polished_tuff` | 25.152 | 13,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 13.545 | 7,3 % |
@@ -30,21 +30,25 @@
 | Glatter Stein | `smooth_stone` | 4.130 | 2,2 % |
 | Graues Buntglas | `gray_stained_glass` | 3.600 | 1,9 % |
 | Grüner Beton | `green_concrete` | 2.226 | 1,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 1.809 | 1,0 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.034 | 1,1 % |
 | Ziegelsteine | `bricks` | 1.659 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 355 | 0,2 % |
 | Seelaterne | `sea_lantern` | 344 | 0,2 % |
 | Polierter Andesit | `polished_andesite` | 296 | 0,2 % |
+| Tuffstein | `tuff` | 163 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 57 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 44 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 36 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 32 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 19 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 19 | 0,0 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 7 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 6 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 18 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 18 | 0,0 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 8 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 7 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
@@ -53,27 +57,28 @@
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 152 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r4103609` | Palazzo Ricasoli | 15.072 | 13.1–13.8 |
+| 1 | `r4103609` | Palazzo Ricasoli | 15.092 | 13.1–13.8 |
 | 2 | `r4103609_innen` | Palazzo Ricasoli: Innenausbau | 3.705 | 13.9–13.10 |
 | 3 | `r4103612` | Palazzo Corsini al Parione | 93.587 | 13.11–13.65 |
 | 4 | `r4103612_innen` | Palazzo Corsini al Parione: Innenausbau | 31.466 | 13.65–13.81 |
-| 5 | `r4103613` | Palazzo des Ottocento an Via del Parione | 26.210 | 13.82–13.98 |
+| 5 | `r4103613` | Palazzo des Ottocento an Via del Parione | 26.353 | 13.82–13.98 |
 | 6 | `r4103613_innen` | Palazzo des Ottocento an Via del Parione: Innenausbau | 7.896 | 13.99–13.102 |
-| 7 | `w307295762` | Palazzo des Cinquecento an Lungarno Corsini | 5.525 | 13.103–13.105 |
-| 8 | `w307295762_innen` | Palazzo des Cinquecento an Lungarno Corsini: Innenausbau | 2.320 | 13.106–13.107 |
+| 7 | `w307295762` | Palazzo des Cinquecento an Lungarno Corsini | 5.750 | 13.103–13.105 |
+| 8 | `w307295762_innen` | Palazzo des Cinquecento an Lungarno Corsini: Innenausbau | 2.321 | 13.106–13.107 |
+| 9 | `strassenschilder` | Straßenschilder | 8 | 13.107 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Palazzo Ricasoli – Teil 1/8 (Y 63–63)
+### Schritt 13.1 – Palazzo Ricasoli – Teil 1/8 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.093
+- **Y-Bereich:** 58 bis 59
+- **Blöcke:** 1.113
 - **Bauteile:** `r4103609`
 
 **Teileliste**
@@ -81,6 +86,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.093 |
+| Tuffstein | `tuff` | 20 |
 
 **Beschreibung**
 
@@ -98,9 +104,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Palazzo Ricasoli – Teil 2/8 (Y 63–65)
+### Schritt 13.2 – Palazzo Ricasoli – Teil 2/8 (Y 59–61)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 59 bis 61
 - **Blöcke:** 1.941
 - **Bauteile:** `r4103609`
 
@@ -130,9 +136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.3 – Palazzo Ricasoli – Teil 3/8 (Y 66–70)
+### Schritt 13.3 – Palazzo Ricasoli – Teil 3/8 (Y 62–66)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 62 bis 66
 - **Blöcke:** 2.010
 - **Bauteile:** `r4103609`
 
@@ -163,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.4 – Palazzo Ricasoli – Teil 4/8 (Y 71–75)
+### Schritt 13.4 – Palazzo Ricasoli – Teil 4/8 (Y 67–71)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 2.079
 - **Bauteile:** `r4103609`
 
@@ -195,9 +201,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.5 – Palazzo Ricasoli – Teil 5/8 (Y 76–80)
+### Schritt 13.5 – Palazzo Ricasoli – Teil 5/8 (Y 72–76)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 2.059
 - **Bauteile:** `r4103609`
 
@@ -227,9 +233,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.6 – Palazzo Ricasoli – Teil 6/8 (Y 81–85)
+### Schritt 13.6 – Palazzo Ricasoli – Teil 6/8 (Y 77–81)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 2.049
 - **Bauteile:** `r4103609`
 
@@ -260,9 +266,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.7 – Palazzo Ricasoli – Teil 7/8 (Y 86–87)
+### Schritt 13.7 – Palazzo Ricasoli – Teil 7/8 (Y 82–83)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.833
 - **Bauteile:** `r4103609`
 
@@ -291,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.8 – Palazzo Ricasoli – Teil 8/8 (Y 88–95)
+### Schritt 13.8 – Palazzo Ricasoli – Teil 8/8 (Y 84–91)
 
-- **Y-Bereich:** 88 bis 95
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 2.008
 - **Bauteile:** `r4103609`
 
@@ -320,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.9 – Palazzo Ricasoli: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 13.9 – Palazzo Ricasoli: Innenausbau – Teil 1/2 (Y 59–69)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 59 bis 69
 - **Blöcke:** 1.861
 - **Bauteile:** `r4103609_innen`
 
@@ -362,9 +368,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.10 – Palazzo Ricasoli: Innenausbau – Teil 2/2 (Y 74–80)
+### Schritt 13.10 – Palazzo Ricasoli: Innenausbau – Teil 2/2 (Y 70–76)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 70 bis 76
 - **Blöcke:** 1.844
 - **Bauteile:** `r4103609_innen`
 
@@ -402,9 +408,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.11 – Palazzo Corsini al Parione – Teil 1/55 (Y 63–63)
+### Schritt 13.11 – Palazzo Corsini al Parione – Teil 1/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.972
 - **Bauteile:** `r4103612`
 
@@ -430,9 +436,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.12 – Palazzo Corsini al Parione – Teil 2/55 (Y 63–63)
+### Schritt 13.12 – Palazzo Corsini al Parione – Teil 2/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.903
 - **Bauteile:** `r4103612`
 
@@ -458,9 +464,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.13 – Palazzo Corsini al Parione – Teil 3/55 (Y 63–63)
+### Schritt 13.13 – Palazzo Corsini al Parione – Teil 3/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.927
 - **Bauteile:** `r4103612`
 
@@ -486,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.14 – Palazzo Corsini al Parione – Teil 4/55 (Y 63–63)
+### Schritt 13.14 – Palazzo Corsini al Parione – Teil 4/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.861
 - **Bauteile:** `r4103612`
 
@@ -514,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.15 – Palazzo Corsini al Parione – Teil 5/55 (Y 63–63)
+### Schritt 13.15 – Palazzo Corsini al Parione – Teil 5/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.970
 - **Bauteile:** `r4103612`
 
@@ -542,9 +548,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.16 – Palazzo Corsini al Parione – Teil 6/55 (Y 63–63)
+### Schritt 13.16 – Palazzo Corsini al Parione – Teil 6/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.878
 - **Bauteile:** `r4103612`
 
@@ -570,9 +576,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.17 – Palazzo Corsini al Parione – Teil 7/55 (Y 63–63)
+### Schritt 13.17 – Palazzo Corsini al Parione – Teil 7/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.972
 - **Bauteile:** `r4103612`
 
@@ -598,9 +604,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.18 – Palazzo Corsini al Parione – Teil 8/55 (Y 63–63)
+### Schritt 13.18 – Palazzo Corsini al Parione – Teil 8/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.919
 - **Bauteile:** `r4103612`
 
@@ -626,9 +632,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.19 – Palazzo Corsini al Parione – Teil 9/55 (Y 63–63)
+### Schritt 13.19 – Palazzo Corsini al Parione – Teil 9/55 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.948
 - **Bauteile:** `r4103612`
 
@@ -654,9 +660,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.20 – Palazzo Corsini al Parione – Teil 10/55 (Y 64–64)
+### Schritt 13.20 – Palazzo Corsini al Parione – Teil 10/55 (Y 60–60)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.764
 - **Bauteile:** `r4103612`
 
@@ -685,9 +691,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.21 – Palazzo Corsini al Parione – Teil 11/55 (Y 65–65)
+### Schritt 13.21 – Palazzo Corsini al Parione – Teil 11/55 (Y 61–61)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.764
 - **Bauteile:** `r4103612`
 
@@ -716,9 +722,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.22 – Palazzo Corsini al Parione – Teil 12/55 (Y 66–66)
+### Schritt 13.22 – Palazzo Corsini al Parione – Teil 12/55 (Y 62–62)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.764
 - **Bauteile:** `r4103612`
 
@@ -748,145 +754,145 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.23 – Palazzo Corsini al Parione – Teil 13/55 (Y 67–67)
+### Schritt 13.23 – Palazzo Corsini al Parione – Teil 13/55 (Y 63–63)
+
+- **Y-Bereich:** 63 bis 63
+- **Blöcke:** 1.635
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Graues Buntglas | `gray_stained_glass` | 174 |
+| Weißer Beton | `white_concrete` | 165 |
+| Grüner Beton | `green_concrete` | 110 |
+| Polierter Andesit | `polished_andesite` | 4 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.24 – Palazzo Corsini al Parione – Teil 14/55 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.635
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Graues Buntglas | `gray_stained_glass` | 174 |
+| Weißer Beton | `white_concrete` | 165 |
+| Grüner Beton | `green_concrete` | 110 |
+| Polierter Andesit | `polished_andesite` | 7 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.25 – Palazzo Corsini al Parione – Teil 15/55 (Y 65–65)
+
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.635
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Graues Buntglas | `gray_stained_glass` | 174 |
+| Weißer Beton | `white_concrete` | 165 |
+| Grüner Beton | `green_concrete` | 110 |
+| Polierter Andesit | `polished_andesite` | 4 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 1 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.26 – Palazzo Corsini al Parione – Teil 16/55 (Y 66–66)
+
+- **Y-Bereich:** 66 bis 66
+- **Blöcke:** 1.635
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Graues Buntglas | `gray_stained_glass` | 174 |
+| Weißer Beton | `white_concrete` | 165 |
+| Grüner Beton | `green_concrete` | 110 |
+| Polierter Andesit | `polished_andesite` | 7 |
+| Glatter Stein | `smooth_stone` | 2 |
+| Tuffsteinziegel | `tuff_bricks` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.27 – Palazzo Corsini al Parione – Teil 17/55 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.635
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
-| Graues Buntglas | `gray_stained_glass` | 174 |
-| Weißer Beton | `white_concrete` | 165 |
-| Grüner Beton | `green_concrete` | 110 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.24 – Palazzo Corsini al Parione – Teil 14/55 (Y 68–68)
-
-- **Y-Bereich:** 68 bis 68
-- **Blöcke:** 1.635
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Graues Buntglas | `gray_stained_glass` | 174 |
-| Weißer Beton | `white_concrete` | 165 |
-| Grüner Beton | `green_concrete` | 110 |
-| Polierter Andesit | `polished_andesite` | 7 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.25 – Palazzo Corsini al Parione – Teil 15/55 (Y 69–69)
-
-- **Y-Bereich:** 69 bis 69
-- **Blöcke:** 1.635
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
-| Graues Buntglas | `gray_stained_glass` | 174 |
-| Weißer Beton | `white_concrete` | 165 |
-| Grüner Beton | `green_concrete` | 110 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 1 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.26 – Palazzo Corsini al Parione – Teil 16/55 (Y 70–70)
-
-- **Y-Bereich:** 70 bis 70
-- **Blöcke:** 1.635
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Graues Buntglas | `gray_stained_glass` | 174 |
-| Weißer Beton | `white_concrete` | 165 |
-| Grüner Beton | `green_concrete` | 110 |
-| Polierter Andesit | `polished_andesite` | 7 |
-| Glatter Stein | `smooth_stone` | 2 |
-| Tuffsteinziegel | `tuff_bricks` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.27 – Palazzo Corsini al Parione – Teil 17/55 (Y 71–71)
-
-- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.636
 - **Bauteile:** `r4103612`
 
@@ -918,9 +924,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.28 – Palazzo Corsini al Parione – Teil 18/55 (Y 72–72)
+### Schritt 13.28 – Palazzo Corsini al Parione – Teil 18/55 (Y 68–68)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.769
 - **Bauteile:** `r4103612`
 
@@ -950,9 +956,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.29 – Palazzo Corsini al Parione – Teil 19/55 (Y 73–73)
+### Schritt 13.29 – Palazzo Corsini al Parione – Teil 19/55 (Y 69–69)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
@@ -981,9 +987,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.30 – Palazzo Corsini al Parione – Teil 20/55 (Y 74–74)
+### Schritt 13.30 – Palazzo Corsini al Parione – Teil 20/55 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
@@ -1012,9 +1018,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.31 – Palazzo Corsini al Parione – Teil 21/55 (Y 75–75)
+### Schritt 13.31 – Palazzo Corsini al Parione – Teil 21/55 (Y 71–71)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
@@ -1041,9 +1047,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.32 – Palazzo Corsini al Parione – Teil 22/55 (Y 76–76)
+### Schritt 13.32 – Palazzo Corsini al Parione – Teil 22/55 (Y 72–72)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
@@ -1071,20 +1077,146 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.33 – Palazzo Corsini al Parione – Teil 23/55 (Y 77–77)
+### Schritt 13.33 – Palazzo Corsini al Parione – Teil 23/55 (Y 73–73)
+
+- **Y-Bereich:** 73 bis 73
+- **Blöcke:** 1.644
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.34 – Palazzo Corsini al Parione – Teil 24/55 (Y 74–74)
+
+- **Y-Bereich:** 74 bis 74
+- **Blöcke:** 1.644
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.35 – Palazzo Corsini al Parione – Teil 25/55 (Y 75–75)
+
+- **Y-Bereich:** 75 bis 75
+- **Blöcke:** 1.644
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.36 – Palazzo Corsini al Parione – Teil 26/55 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 1.644
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.37 – Palazzo Corsini al Parione – Teil 27/55 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
-- **Blöcke:** 1.644
+- **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.425 |
+| Weißer Beton | `white_concrete` | 350 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -1103,21 +1235,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.34 – Palazzo Corsini al Parione – Teil 24/55 (Y 78–78)
+### Schritt 13.38 – Palazzo Corsini al Parione – Teil 28/55 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
-- **Blöcke:** 1.644
+- **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
-| Polierter Andesit | `polished_andesite` | 6 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.240 |
+| Weißer Beton | `white_concrete` | 532 |
+| Polierter Andesit | `polished_andesite` | 5 |
 
 **Beschreibung**
 
@@ -1135,21 +1265,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.35 – Palazzo Corsini al Parione – Teil 25/55 (Y 79–79)
+### Schritt 13.39 – Palazzo Corsini al Parione – Teil 29/55 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
-- **Blöcke:** 1.644
+- **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
-| Polierter Andesit | `polished_andesite` | 2 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.123 |
+| Glatter Stein | `smooth_stone` | 654 |
 
 **Beschreibung**
 
@@ -1167,20 +1294,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.36 – Palazzo Corsini al Parione – Teil 26/55 (Y 80–80)
+### Schritt 13.40 – Palazzo Corsini al Parione – Teil 30/55 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.644
+- **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.771 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -1199,7 +1323,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.37 – Palazzo Corsini al Parione – Teil 27/55 (Y 81–81)
+### Schritt 13.41 – Palazzo Corsini al Parione – Teil 31/55 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.777
@@ -1229,76 +1353,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.38 – Palazzo Corsini al Parione – Teil 28/55 (Y 82–82)
+### Schritt 13.42 – Palazzo Corsini al Parione – Teil 32/55 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 1.777
+- **Blöcke:** 1.644
 - **Bauteile:** `r4103612`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.240 |
-| Weißer Beton | `white_concrete` | 532 |
-| Polierter Andesit | `polished_andesite` | 5 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.39 – Palazzo Corsini al Parione – Teil 29/55 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.777
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.123 |
-| Glatter Stein | `smooth_stone` | 654 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.40 – Palazzo Corsini al Parione – Teil 30/55 (Y 84–84)
-
-- **Y-Bereich:** 84 bis 84
-- **Blöcke:** 1.777
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.771 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -1317,18 +1385,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.41 – Palazzo Corsini al Parione – Teil 31/55 (Y 85–85)
+### Schritt 13.43 – Palazzo Corsini al Parione – Teil 33/55 (Y 83–83)
 
-- **Y-Bereich:** 85 bis 85
-- **Blöcke:** 1.777
+- **Y-Bereich:** 83 bis 83
+- **Blöcke:** 1.644
 - **Bauteile:** `r4103612`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.425 |
-| Weißer Beton | `white_concrete` | 350 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
 | Polierter Andesit | `polished_andesite` | 2 |
 
 **Beschreibung**
@@ -1347,7 +1417,71 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.42 – Palazzo Corsini al Parione – Teil 32/55 (Y 86–86)
+### Schritt 13.44 – Palazzo Corsini al Parione – Teil 34/55 (Y 84–84)
+
+- **Y-Bereich:** 84 bis 84
+- **Blöcke:** 1.644
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.45 – Palazzo Corsini al Parione – Teil 35/55 (Y 85–85)
+
+- **Y-Bereich:** 85 bis 85
+- **Blöcke:** 1.644
+- **Bauteile:** `r4103612`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Weißer Beton | `white_concrete` | 170 |
+| Grüner Beton | `green_concrete` | 115 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.46 – Palazzo Corsini al Parione – Teil 36/55 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.644
@@ -1379,137 +1513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.43 – Palazzo Corsini al Parione – Teil 33/55 (Y 87–87)
+### Schritt 13.47 – Palazzo Corsini al Parione – Teil 37/55 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
-- **Blöcke:** 1.644
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.44 – Palazzo Corsini al Parione – Teil 34/55 (Y 88–88)
-
-- **Y-Bereich:** 88 bis 88
-- **Blöcke:** 1.644
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
-| Polierter Andesit | `polished_andesite` | 6 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.45 – Palazzo Corsini al Parione – Teil 35/55 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
-- **Blöcke:** 1.644
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.179 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.46 – Palazzo Corsini al Parione – Teil 36/55 (Y 90–90)
-
-- **Y-Bereich:** 90 bis 90
-- **Blöcke:** 1.644
-- **Bauteile:** `r4103612`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.175 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Weißer Beton | `white_concrete` | 170 |
-| Grüner Beton | `green_concrete` | 115 |
-| Polierter Andesit | `polished_andesite` | 6 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.47 – Palazzo Corsini al Parione – Teil 37/55 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.777
 - **Bauteile:** `r4103612`
 
@@ -1537,9 +1543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.48 – Palazzo Corsini al Parione – Teil 38/55 (Y 92–92)
+### Schritt 13.48 – Palazzo Corsini al Parione – Teil 38/55 (Y 88–88)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 2.088
 - **Bauteile:** `r4103612`
 
@@ -1567,9 +1573,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.49 – Palazzo Corsini al Parione – Teil 39/55 (Y 93–93)
+### Schritt 13.49 – Palazzo Corsini al Parione – Teil 39/55 (Y 89–89)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 2.088
 - **Bauteile:** `r4103612`
 
@@ -1596,9 +1602,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.50 – Palazzo Corsini al Parione – Teil 40/55 (Y 94–94)
+### Schritt 13.50 – Palazzo Corsini al Parione – Teil 40/55 (Y 90–90)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.611
 - **Bauteile:** `r4103612`
 
@@ -1624,9 +1630,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.51 – Palazzo Corsini al Parione – Teil 41/55 (Y 94–94)
+### Schritt 13.51 – Palazzo Corsini al Parione – Teil 41/55 (Y 90–90)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.609
 - **Bauteile:** `r4103612`
 
@@ -1652,9 +1658,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.52 – Palazzo Corsini al Parione – Teil 42/55 (Y 94–94)
+### Schritt 13.52 – Palazzo Corsini al Parione – Teil 42/55 (Y 90–90)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.606
 - **Bauteile:** `r4103612`
 
@@ -1680,9 +1686,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.53 – Palazzo Corsini al Parione – Teil 43/55 (Y 95–95)
+### Schritt 13.53 – Palazzo Corsini al Parione – Teil 43/55 (Y 91–91)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.638
 - **Bauteile:** `r4103612`
 
@@ -1708,9 +1714,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.54 – Palazzo Corsini al Parione – Teil 44/55 (Y 95–95)
+### Schritt 13.54 – Palazzo Corsini al Parione – Teil 44/55 (Y 91–91)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.650
 - **Bauteile:** `r4103612`
 
@@ -1736,9 +1742,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.55 – Palazzo Corsini al Parione – Teil 45/55 (Y 96–96)
+### Schritt 13.55 – Palazzo Corsini al Parione – Teil 45/55 (Y 92–92)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.795
 - **Bauteile:** `r4103612`
 
@@ -1764,9 +1770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.56 – Palazzo Corsini al Parione – Teil 46/55 (Y 96–96)
+### Schritt 13.56 – Palazzo Corsini al Parione – Teil 46/55 (Y 92–92)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.781
 - **Bauteile:** `r4103612`
 
@@ -1792,9 +1798,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.57 – Palazzo Corsini al Parione – Teil 47/55 (Y 97–97)
+### Schritt 13.57 – Palazzo Corsini al Parione – Teil 47/55 (Y 93–93)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.691
 - **Bauteile:** `r4103612`
 
@@ -1821,9 +1827,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.58 – Palazzo Corsini al Parione – Teil 48/55 (Y 97–97)
+### Schritt 13.58 – Palazzo Corsini al Parione – Teil 48/55 (Y 93–93)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.681
 - **Bauteile:** `r4103612`
 
@@ -1850,9 +1856,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.59 – Palazzo Corsini al Parione – Teil 49/55 (Y 98–98)
+### Schritt 13.59 – Palazzo Corsini al Parione – Teil 49/55 (Y 94–94)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.463
 - **Bauteile:** `r4103612`
 
@@ -1879,9 +1885,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.60 – Palazzo Corsini al Parione – Teil 50/55 (Y 98–98)
+### Schritt 13.60 – Palazzo Corsini al Parione – Teil 50/55 (Y 94–94)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.483
 - **Bauteile:** `r4103612`
 
@@ -1908,9 +1914,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.61 – Palazzo Corsini al Parione – Teil 51/55 (Y 99–99)
+### Schritt 13.61 – Palazzo Corsini al Parione – Teil 51/55 (Y 95–95)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.282
 - **Bauteile:** `r4103612`
 
@@ -1937,9 +1943,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.62 – Palazzo Corsini al Parione – Teil 52/55 (Y 99–99)
+### Schritt 13.62 – Palazzo Corsini al Parione – Teil 52/55 (Y 95–95)
 
-- **Y-Bereich:** 99 bis 99
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.271
 - **Bauteile:** `r4103612`
 
@@ -1966,9 +1972,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.63 – Palazzo Corsini al Parione – Teil 53/55 (Y 100–100)
+### Schritt 13.63 – Palazzo Corsini al Parione – Teil 53/55 (Y 96–96)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.068
 - **Bauteile:** `r4103612`
 
@@ -1995,9 +2001,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.64 – Palazzo Corsini al Parione – Teil 54/55 (Y 100–100)
+### Schritt 13.64 – Palazzo Corsini al Parione – Teil 54/55 (Y 96–96)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.075
 - **Bauteile:** `r4103612`
 
@@ -2024,9 +2030,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.65 – Palazzo Corsini al Parione – Teil 55/55 (Y 101–105) & Palazzo Corsini al Parione: Innenausbau – Teil 1/17 (Y 63–73)
+### Schritt 13.65 – Palazzo Corsini al Parione – Teil 55/55 (Y 97–101) & Palazzo Corsini al Parione: Innenausbau – Teil 1/17 (Y 59–69)
 
-- **Y-Bereich:** 63 bis 105
+- **Y-Bereich:** 59 bis 101
 - **Blöcke:** 1.680
 - **Bauteile:** `r4103612`, `r4103612_innen`
 
@@ -2067,9 +2073,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.66 – Palazzo Corsini al Parione: Innenausbau – Teil 2/17 (Y 74–74)
+### Schritt 13.66 – Palazzo Corsini al Parione: Innenausbau – Teil 2/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.995
 - **Bauteile:** `r4103612_innen`
 
@@ -2103,9 +2109,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.67 – Palazzo Corsini al Parione: Innenausbau – Teil 3/17 (Y 74–74)
+### Schritt 13.67 – Palazzo Corsini al Parione: Innenausbau – Teil 3/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.915
 - **Bauteile:** `r4103612_innen`
 
@@ -2132,9 +2138,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.68 – Palazzo Corsini al Parione: Innenausbau – Teil 4/17 (Y 74–74)
+### Schritt 13.68 – Palazzo Corsini al Parione: Innenausbau – Teil 4/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.975
 - **Bauteile:** `r4103612_innen`
 
@@ -2161,9 +2167,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.69 – Palazzo Corsini al Parione: Innenausbau – Teil 5/17 (Y 74–74)
+### Schritt 13.69 – Palazzo Corsini al Parione: Innenausbau – Teil 5/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.980
 - **Bauteile:** `r4103612_innen`
 
@@ -2190,9 +2196,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.70 – Palazzo Corsini al Parione: Innenausbau – Teil 6/17 (Y 74–74)
+### Schritt 13.70 – Palazzo Corsini al Parione: Innenausbau – Teil 6/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.872
 - **Bauteile:** `r4103612_innen`
 
@@ -2219,9 +2225,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.71 – Palazzo Corsini al Parione: Innenausbau – Teil 7/17 (Y 74–74)
+### Schritt 13.71 – Palazzo Corsini al Parione: Innenausbau – Teil 7/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.974
 - **Bauteile:** `r4103612_innen`
 
@@ -2248,9 +2254,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.72 – Palazzo Corsini al Parione: Innenausbau – Teil 8/17 (Y 74–74)
+### Schritt 13.72 – Palazzo Corsini al Parione: Innenausbau – Teil 8/17 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.963
 - **Bauteile:** `r4103612_innen`
 
@@ -2277,9 +2283,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.73 – Palazzo Corsini al Parione: Innenausbau – Teil 9/17 (Y 74–82)
+### Schritt 13.73 – Palazzo Corsini al Parione: Innenausbau – Teil 9/17 (Y 70–78)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 70 bis 78
 - **Blöcke:** 2.016
 - **Bauteile:** `r4103612_innen`
 
@@ -2321,9 +2327,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.74 – Palazzo Corsini al Parione: Innenausbau – Teil 10/17 (Y 83–83)
+### Schritt 13.74 – Palazzo Corsini al Parione: Innenausbau – Teil 10/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.995
 - **Bauteile:** `r4103612_innen`
 
@@ -2357,9 +2363,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.75 – Palazzo Corsini al Parione: Innenausbau – Teil 11/17 (Y 83–83)
+### Schritt 13.75 – Palazzo Corsini al Parione: Innenausbau – Teil 11/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.915
 - **Bauteile:** `r4103612_innen`
 
@@ -2386,9 +2392,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.76 – Palazzo Corsini al Parione: Innenausbau – Teil 12/17 (Y 83–83)
+### Schritt 13.76 – Palazzo Corsini al Parione: Innenausbau – Teil 12/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.975
 - **Bauteile:** `r4103612_innen`
 
@@ -2415,9 +2421,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.77 – Palazzo Corsini al Parione: Innenausbau – Teil 13/17 (Y 83–83)
+### Schritt 13.77 – Palazzo Corsini al Parione: Innenausbau – Teil 13/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.980
 - **Bauteile:** `r4103612_innen`
 
@@ -2444,9 +2450,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.78 – Palazzo Corsini al Parione: Innenausbau – Teil 14/17 (Y 83–83)
+### Schritt 13.78 – Palazzo Corsini al Parione: Innenausbau – Teil 14/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.872
 - **Bauteile:** `r4103612_innen`
 
@@ -2473,9 +2479,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.79 – Palazzo Corsini al Parione: Innenausbau – Teil 15/17 (Y 83–83)
+### Schritt 13.79 – Palazzo Corsini al Parione: Innenausbau – Teil 15/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.974
 - **Bauteile:** `r4103612_innen`
 
@@ -2502,9 +2508,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.80 – Palazzo Corsini al Parione: Innenausbau – Teil 16/17 (Y 83–83)
+### Schritt 13.80 – Palazzo Corsini al Parione: Innenausbau – Teil 16/17 (Y 79–79)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.963
 - **Bauteile:** `r4103612_innen`
 
@@ -2531,9 +2537,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.81 – Palazzo Corsini al Parione: Innenausbau – Teil 17/17 (Y 83–84)
+### Schritt 13.81 – Palazzo Corsini al Parione: Innenausbau – Teil 17/17 (Y 79–80)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.976
 - **Bauteile:** `r4103612_innen`
 
@@ -2571,10 +2577,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.82 – Palazzo des Ottocento an Via del Parione – Teil 1/17 (Y 63–63)
+### Schritt 13.82 – Palazzo des Ottocento an Via del Parione – Teil 1/17 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.489
+- **Y-Bereich:** 58 bis 59
+- **Blöcke:** 1.632
 - **Bauteile:** `r4103613`
 
 **Teileliste**
@@ -2582,6 +2588,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.489 |
+| Tuffstein | `tuff` | 143 |
 
 **Beschreibung**
 
@@ -2599,9 +2606,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.83 – Palazzo des Ottocento an Via del Parione – Teil 2/17 (Y 63–63)
+### Schritt 13.83 – Palazzo des Ottocento an Via del Parione – Teil 2/17 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.450
 - **Bauteile:** `r4103613`
 
@@ -2627,9 +2634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.84 – Palazzo des Ottocento an Via del Parione – Teil 3/17 (Y 63–63)
+### Schritt 13.84 – Palazzo des Ottocento an Via del Parione – Teil 3/17 (Y 59–59)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 1.444
 - **Bauteile:** `r4103613`
 
@@ -2655,54 +2662,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.85 – Palazzo des Ottocento an Via del Parione – Teil 4/17 (Y 64–67)
+### Schritt 13.85 – Palazzo des Ottocento an Via del Parione – Teil 4/17 (Y 60–62)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 2.004
+- **Y-Bereich:** 60 bis 62
+- **Blöcke:** 1.526
 - **Bauteile:** `r4103613`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.820 |
-| Glatter Stein | `smooth_stone` | 119 |
-| Graues Buntglas | `gray_stained_glass` | 33 |
-| Grüner Beton | `green_concrete` | 24 |
-| Polierter Andesit | `polished_andesite` | 4 |
-| Tuffsteinziegel | `tuff_bricks` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 13.86 – Palazzo des Ottocento an Via del Parione – Teil 5/17 (Y 68–70)
-
-- **Y-Bereich:** 68 bis 70
-- **Blöcke:** 1.453
-- **Bauteile:** `r4103613`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.167 |
-| Glatter Stein | `smooth_stone` | 91 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Grüner Beton | `green_concrete` | 72 |
-| Polierter Andesit | `polished_andesite` | 36 |
+| Glatter Sandstein | `smooth_sandstone` | 1.431 |
+| Glatter Stein | `smooth_stone` | 89 |
+| Polierter Andesit | `polished_andesite` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
 **Beschreibung**
@@ -2721,9 +2693,42 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.87 – Palazzo des Ottocento an Via del Parione – Teil 6/17 (Y 71–73)
+### Schritt 13.86 – Palazzo des Ottocento an Via del Parione – Teil 5/17 (Y 63–66)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 63 bis 66
+- **Blöcke:** 1.931
+- **Bauteile:** `r4103613`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.556 |
+| Glatter Stein | `smooth_stone` | 121 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
+| Grüner Beton | `green_concrete` | 96 |
+| Polierter Andesit | `polished_andesite` | 37 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 13.87 – Palazzo des Ottocento an Via del Parione – Teil 6/17 (Y 67–69)
+
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 1.504
 - **Bauteile:** `r4103613`
 
@@ -2754,9 +2759,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.88 – Palazzo des Ottocento an Via del Parione – Teil 7/17 (Y 74–76)
+### Schritt 13.88 – Palazzo des Ottocento an Via del Parione – Teil 7/17 (Y 70–72)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.571
 - **Bauteile:** `r4103613`
 
@@ -2785,9 +2790,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.89 – Palazzo des Ottocento an Via del Parione – Teil 8/17 (Y 77–79)
+### Schritt 13.89 – Palazzo des Ottocento an Via del Parione – Teil 8/17 (Y 73–75)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 73 bis 75
 - **Blöcke:** 1.455
 - **Bauteile:** `r4103613`
 
@@ -2816,9 +2821,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.90 – Palazzo des Ottocento an Via del Parione – Teil 9/17 (Y 80–82)
+### Schritt 13.90 – Palazzo des Ottocento an Via del Parione – Teil 9/17 (Y 76–78)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.485
 - **Bauteile:** `r4103613`
 
@@ -2847,9 +2852,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.91 – Palazzo des Ottocento an Via del Parione – Teil 10/17 (Y 83–85)
+### Schritt 13.91 – Palazzo des Ottocento an Via del Parione – Teil 10/17 (Y 79–81)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.571
 - **Bauteile:** `r4103613`
 
@@ -2876,9 +2881,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.92 – Palazzo des Ottocento an Via del Parione – Teil 11/17 (Y 86–88)
+### Schritt 13.92 – Palazzo des Ottocento an Via del Parione – Teil 11/17 (Y 82–84)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.627
 - **Bauteile:** `r4103613`
 
@@ -2907,19 +2912,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.93 – Palazzo des Ottocento an Via del Parione – Teil 12/17 (Y 89–91)
+### Schritt 13.93 – Palazzo des Ottocento an Via del Parione – Teil 12/17 (Y 85–86)
 
-- **Y-Bereich:** 89 bis 91
-- **Blöcke:** 1.743
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.142
 - **Bauteile:** `r4103613`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.473 |
-| Glatter Stein | `smooth_stone` | 136 |
+| Glatter Sandstein | `smooth_sandstone` | 944 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
+| Glatter Stein | `smooth_stone` | 64 |
 | Grüner Beton | `green_concrete` | 56 |
 
 **Beschreibung**
@@ -2938,17 +2943,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.94 – Palazzo des Ottocento an Via del Parione – Teil 13/17 (Y 92–93)
+### Schritt 13.94 – Palazzo des Ottocento an Via del Parione – Teil 13/17 (Y 87–89)
 
-- **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.360
+- **Y-Bereich:** 87 bis 89
+- **Blöcke:** 1.961
 - **Bauteile:** `r4103613`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.360 |
+| Glatter Sandstein | `smooth_sandstone` | 1.889 |
+| Glatter Stein | `smooth_stone` | 72 |
 
 **Beschreibung**
 
@@ -2966,9 +2972,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.95 – Palazzo des Ottocento an Via del Parione – Teil 14/17 (Y 94–94)
+### Schritt 13.95 – Palazzo des Ottocento an Via del Parione – Teil 14/17 (Y 90–90)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.889
 - **Bauteile:** `r4103613`
 
@@ -2994,9 +3000,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.96 – Palazzo des Ottocento an Via del Parione – Teil 15/17 (Y 95–95)
+### Schritt 13.96 – Palazzo des Ottocento an Via del Parione – Teil 15/17 (Y 91–91)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.142
 - **Bauteile:** `r4103613`
 
@@ -3022,9 +3028,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.97 – Palazzo des Ottocento an Via del Parione – Teil 16/17 (Y 96–96)
+### Schritt 13.97 – Palazzo des Ottocento an Via del Parione – Teil 16/17 (Y 92–92)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.080
 - **Bauteile:** `r4103613`
 
@@ -3050,9 +3056,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.98 – Palazzo des Ottocento an Via del Parione – Teil 17/17 (Y 97–103)
+### Schritt 13.98 – Palazzo des Ottocento an Via del Parione – Teil 17/17 (Y 93–99)
 
-- **Y-Bereich:** 97 bis 103
+- **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.943
 - **Bauteile:** `r4103613`
 
@@ -3079,9 +3085,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.99 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 13.99 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 1/4 (Y 59–70)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 59 bis 70
 - **Blöcke:** 2.030
 - **Bauteile:** `r4103613_innen`
 
@@ -3121,9 +3127,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.100 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 13.100 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 2/4 (Y 70–70)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.925
 - **Bauteile:** `r4103613_innen`
 
@@ -3157,9 +3163,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.101 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 13.101 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 3/4 (Y 71–79)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 71 bis 79
 - **Blöcke:** 2.007
 - **Bauteile:** `r4103613_innen`
 
@@ -3201,9 +3207,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.102 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 13.102 – Palazzo des Ottocento an Via del Parione: Innenausbau – Teil 4/4 (Y 79–80)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.934
 - **Bauteile:** `r4103613_innen`
 
@@ -3243,10 +3249,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.103 – Palazzo des Cinquecento an Lungarno Corsini – Teil 1/3 (Y 63–70)
+### Schritt 13.103 – Palazzo des Cinquecento an Lungarno Corsini – Teil 1/3 (Y 58–63)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.823
+- **Y-Bereich:** 58 bis 63
+- **Blöcke:** 1.876
 - **Bauteile:** `w307295762`
 
 **Teileliste**
@@ -3254,11 +3260,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.203 |
-| Gelbe Keramik | `yellow_terracotta` | 444 |
-| Weißer Beton | `white_concrete` | 94 |
-| Graues Buntglas | `gray_stained_glass` | 44 |
-| Polierter Andesit | `polished_andesite` | 29 |
-| Tuffsteinziegel | `tuff_bricks` | 9 |
+| Gelbe Keramik | `yellow_terracotta` | 549 |
+| Weißer Beton | `white_concrete` | 74 |
+| Polierter Andesit | `polished_andesite` | 24 |
+| Graues Buntglas | `gray_stained_glass` | 22 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -3276,20 +3282,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.104 – Palazzo des Cinquecento an Lungarno Corsini – Teil 2/3 (Y 71–91)
+### Schritt 13.104 – Palazzo des Cinquecento an Lungarno Corsini – Teil 2/3 (Y 64–85)
 
-- **Y-Bereich:** 71 bis 91
-- **Blöcke:** 1.854
+- **Y-Bereich:** 64 bis 85
+- **Blöcke:** 1.932
 - **Bauteile:** `w307295762`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.225 |
-| Weißer Beton | `white_concrete` | 357 |
-| Graues Buntglas | `gray_stained_glass` | 160 |
+| Gelbe Keramik | `yellow_terracotta` | 1.283 |
+| Weißer Beton | `white_concrete` | 345 |
+| Graues Buntglas | `gray_stained_glass` | 182 |
 | Glatter Stein | `smooth_stone` | 112 |
+| Polierter Andesit | `polished_andesite` | 5 |
+| Tuffsteinziegel | `tuff_bricks` | 5 |
 
 **Beschreibung**
 
@@ -3307,10 +3315,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.105 – Palazzo des Cinquecento an Lungarno Corsini – Teil 3/3 (Y 92–99)
+### Schritt 13.105 – Palazzo des Cinquecento an Lungarno Corsini – Teil 3/3 (Y 86–94)
 
-- **Y-Bereich:** 92 bis 99
-- **Blöcke:** 1.848
+- **Y-Bereich:** 86 bis 94
+- **Blöcke:** 1.942
 - **Bauteile:** `w307295762`
 
 **Teileliste**
@@ -3318,10 +3326,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.518 |
-| Gelbe Keramik | `yellow_terracotta` | 140 |
+| Gelbe Keramik | `yellow_terracotta` | 202 |
 | Fichtenholz-Bretter | `spruce_planks` | 84 |
+| Weißer Beton | `white_concrete` | 80 |
 | Ziegelsteine | `bricks` | 58 |
-| Weißer Beton | `white_concrete` | 48 |
 
 **Beschreibung**
 
@@ -3339,10 +3347,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.106 – Palazzo des Cinquecento an Lungarno Corsini: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 13.106 – Palazzo des Cinquecento an Lungarno Corsini: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.163
+- **Y-Bereich:** 58 bis 68
+- **Blöcke:** 1.166
 - **Bauteile:** `w307295762_innen`
 
 **Teileliste**
@@ -3354,12 +3362,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 16 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -3377,11 +3389,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.107 – Palazzo des Cinquecento an Lungarno Corsini: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 13.107 – Palazzo des Cinquecento an Lungarno Corsini: Innenausbau – Teil 2/2 (Y 69–78) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.157
-- **Bauteile:** `w307295762_innen`
+- **Y-Bereich:** 66 bis 78
+- **Blöcke:** 1.163
+- **Bauteile:** `w307295762_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -3392,8 +3404,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 5 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3403,16 +3416,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

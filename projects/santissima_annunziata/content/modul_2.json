@@ -1,0 +1,50 @@
+{
+  "module": 2,
+  "title": "Kapellen und Tempietto",
+  "subtitle": "Bautüte 2: Innenfassade, Kapellen, Hochwand und Michelozzos Tempietto",
+  "icon": "🕯️",
+  "parts": {
+    "innenfassade": {
+      "title": "Innenfassade",
+      "description": "Die Wand zwischen Hof und Kirche steigt bis zum Giebel auf Y 121; in der Mitte das Hauptportal.",
+      "tip": "Außen Bruchstein, innen Putz.",
+      "caution": "Lass das Portal frei.",
+      "fact": "Durch das Portal geht man aus dem Hof direkt ins Schiff."
+    },
+    "kapellenpfeiler": {
+      "title": "Kapellenpfeiler und Bögen",
+      "description": "Links acht, rechts neun Kapellen öffnen sich mit Rundbögen zum Schiff; die Pfeiler aus Pietra serena reichen bis Y 89.",
+      "tip": "Die Kapellen links sind etwas länger als rechts.",
+      "caution": "Unter den Bögen bleibt alles frei.",
+      "fact": "Jede Kapelle gehörte einer Stifterfamilie."
+    },
+    "kapellendecken": {
+      "title": "Kapellendecken",
+      "description": "Jede Kapelle schließt mit einer flachen Decke auf Y 89 und Y 90.",
+      "tip": "Auf Pfeilern und Außenwand.",
+      "caution": "Darüber liegt der Dachraum.",
+      "fact": "Die Kapellen sind unterschiedlich tief."
+    },
+    "altaere": {
+      "title": "Altäre",
+      "description": "An der Rückwand jeder Kapelle steht ein Altar aus hellem Quarz mit goldener Platte.",
+      "tip": "Genau in der Kapellenmitte.",
+      "caution": "Nur drei Lagen hoch.",
+      "fact": "Auch die Kapellen der Tribuna haben Altäre."
+    },
+    "hochwand": {
+      "title": "Hochwand",
+      "description": "Über den Kapellen steigt die Wand des Schiffs bis Y 113, mit einem Fenster über jeder Kapelle.",
+      "tip": "Außen Steinziegel, innen Putz.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Bis 1481 war das Schiff fertig, mit offenem Dachstuhl."
+    },
+    "tempietto": {
+      "title": "Tempietto",
+      "description": "Gleich links hinter dem Eingang steht der kleine Tempel: vier Marmorsäulen bis Y 78, Gebälk und eine hölzerne Bekrönung mit goldener Spitze bis Y 84; darin ein Altar.",
+      "tip": "Die Säulen stehen an den vier Ecken.",
+      "caution": "Auf die Bekrönung steigt man nicht.",
+      "fact": "Michelozzo entwarf den Tempietto 1447–48; die Säulen sind 5,25 Meter hoch."
+    }
+  }
+}

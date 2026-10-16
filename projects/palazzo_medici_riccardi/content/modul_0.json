@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 65, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände tiefer liegt, füllst du unter Palazzo und Hof mit Tuff bis Y 64 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 64 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Cosimo il Vecchio ließ den Palazzo ab 1444 an der damaligen Via Larga bauen."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 65 legst du den Boden des Erdgeschosses: in den Sälen ein Schachbrett aus Terrakotta und hellem Quarz, unter den Hofarkaden Glatter Stein.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst die letzte Bautüte.",
+      "fact": "Hier wohnten die Medici, bis Cosimo I. 1540 in den Palazzo Vecchio zog."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster liegt auf Y 65.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der dritte, große Hof ist ein Garten mit Rasen."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 105).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Die Treppe ist im Modell vereinfacht."
+    }
+  }
+}

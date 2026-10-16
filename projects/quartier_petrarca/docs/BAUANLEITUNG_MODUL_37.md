@@ -8,26 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 988 |
+| Blöcke | 991 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 84 |
+| Y-Bereich | 65 bis 87 |
 | X-Ausdehnung | -2611 bis -2600 (12 Blöcke) |
 | Z-Ausdehnung | 1941 bis 1947 (7 Blöcke) |
-| Kleinster Schritt | 988 Blöcke (Schritt 37.1) |
-| Mittlerer Schritt | 988 Blöcke |
-| Größter Schritt | 988 Blöcke (Schritt 37.1) |
+| Kleinster Schritt | 991 Blöcke (Schritt 37.1) |
+| Mittlerer Schritt | 991 Blöcke |
+| Größter Schritt | 991 Blöcke (Schritt 37.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 775 | 78,4 % |
+| Endsteinziegel | `end_stone_bricks` | 775 | 78,2 % |
 | Terrakotta | `terracotta` | 68 | 6,9 % |
 | Polierter Tuffstein | `polished_tuff` | 67 | 6,8 % |
 | Graues Buntglas | `gray_stained_glass` | 26 | 2,6 % |
 | Grüner Beton | `green_concrete` | 26 | 2,6 % |
 | Glatter Stein | `smooth_stone` | 17 | 1,7 % |
 | Ziegelsteine | `bricks` | 3 | 0,3 % |
+| Tuffstein | `tuff` | 3 | 0,3 % |
 | Polierter Andesit | `polished_andesite` | 2 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,1 % |
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w461683390` | Haus w461683390 | 984 | 37.1 |
+| 1 | `w461683390` | Haus w461683390 | 987 | 37.1 |
 | 2 | `w461683390_innen` | Haus w461683390: Innenausbau | 4 | 37.1 |
 
 ## Bauschritte
 
 ### Schritt 37.1 – Haus w461683390 & Haus w461683390: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 988
+- **Y-Bereich:** 65 bis 87
+- **Blöcke:** 991
 - **Bauteile:** `w461683390`, `w461683390_innen`
 
 **Teileliste**
@@ -66,6 +67,7 @@
 | Grüner Beton | `green_concrete` | 26 |
 | Glatter Stein | `smooth_stone` | 17 |
 | Ziegelsteine | `bricks` | 3 |
+| Tuffstein | `tuff` | 3 |
 | Polierter Andesit | `polished_andesite` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |

@@ -1,0 +1,11 @@
+{
+  "id": "santa_trinita",
+  "title": "Basilica di Santa Trinita",
+  "type": "wahrzeichen",
+  "gebaeude": ["w478272186"],
+  "bodenY": 61,
+  "rahmen": { "ox": -939, "oz": 708, "thetaDeg": 209 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

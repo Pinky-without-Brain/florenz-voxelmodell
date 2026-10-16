@@ -8,29 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 50.133 |
+| Blöcke | 50.190 |
 | Bauschritte | 31 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 63 bis 104 |
 | X-Ausdehnung | 925 bis 1039 (115 Blöcke) |
 | Z-Ausdehnung | 1866 bis 1940 (75 Blöcke) |
 | Kleinster Schritt | 1.280 Blöcke (Schritt 29.3) |
-| Mittlerer Schritt | 1.617 Blöcke |
+| Mittlerer Schritt | 1.619 Blöcke |
 | Größter Schritt | 2.034 Blöcke (Schritt 29.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 22.484 | 44,8 % |
-| Terrakotta | `terracotta` | 10.969 | 21,9 % |
-| Polierter Tuffstein | `polished_tuff` | 8.079 | 16,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 22.535 | 44,9 % |
+| Terrakotta | `terracotta` | 10.971 | 21,9 % |
+| Polierter Tuffstein | `polished_tuff` | 8.080 | 16,1 % |
 | Glatter Stein | `smooth_stone` | 4.358 | 8,7 % |
 | Graues Buntglas | `gray_stained_glass` | 1.658 | 3,3 % |
 | Grüner Beton | `green_concrete` | 950 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 928 | 1,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 291 | 0,6 % |
+| Polierter Andesit | `polished_andesite` | 928 | 1,8 % |
+| Fichtenholz-Bretter | `spruce_planks` | 293 | 0,6 % |
 | Ziegelsteine | `bricks` | 179 | 0,4 % |
-| Seelaterne | `sea_lantern` | 78 | 0,2 % |
+| Seelaterne | `sea_lantern` | 75 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 52 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 48 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
@@ -39,8 +39,10 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 9 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -55,8 +57,9 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1640951` | Palazzo des Ottocento an Via di San Niccolò | 28.204 | 29.1–29.17 |
 | 2 | `r1640951_innen` | Palazzo des Ottocento an Via di San Niccolò: Innenausbau | 5.835 | 29.18–29.21 |
-| 3 | `w461735834` | Palazzo des Cinquecento an Via Lupo | 13.098 | 29.22–29.29 |
-| 4 | `w461735834_innen` | Palazzo des Cinquecento an Via Lupo: Innenausbau | 2.996 | 29.30–29.31 |
+| 3 | `w461735834` | Palazzo des Cinquecento an Via Lupo | 13.152 | 29.22–29.29 |
+| 4 | `w461735834_innen` | Palazzo des Cinquecento an Via Lupo: Innenausbau | 2.995 | 29.30–29.31 |
+| 5 | `strassenschilder` | Straßenschilder | 4 | 29.31 |
 
 ## Bauschritte
 
@@ -745,17 +748,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 29.22 – Palazzo des Cinquecento an Via Lupo – Teil 1/8 (Y 63–63)
+### Schritt 29.22 – Palazzo des Cinquecento an Via Lupo – Teil 1/8 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.729
+- **Y-Bereich:** 64 bis 64
+- **Blöcke:** 1.730
 - **Bauteile:** `w461735834`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.729 |
+| Polierter Tuffstein | `polished_tuff` | 1.730 |
 
 **Beschreibung**
 
@@ -773,9 +776,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.23 – Palazzo des Cinquecento an Via Lupo – Teil 2/8 (Y 64–69)
+### Schritt 29.23 – Palazzo des Cinquecento an Via Lupo – Teil 2/8 (Y 65–70)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.654
 - **Bauteile:** `w461735834`
 
@@ -806,9 +809,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.24 – Palazzo des Cinquecento an Via Lupo – Teil 3/8 (Y 70–74)
+### Schritt 29.24 – Palazzo des Cinquecento an Via Lupo – Teil 3/8 (Y 71–75)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.423
 - **Bauteile:** `w461735834`
 
@@ -839,9 +842,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.25 – Palazzo des Cinquecento an Via Lupo – Teil 4/8 (Y 75–80)
+### Schritt 29.25 – Palazzo des Cinquecento an Via Lupo – Teil 4/8 (Y 76–81)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 76 bis 81
 - **Blöcke:** 1.640
 - **Bauteile:** `w461735834`
 
@@ -871,9 +874,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.26 – Palazzo des Cinquecento an Via Lupo – Teil 5/8 (Y 81–86)
+### Schritt 29.26 – Palazzo des Cinquecento an Via Lupo – Teil 5/8 (Y 82–87)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 82 bis 87
 - **Blöcke:** 1.752
 - **Bauteile:** `w461735834`
 
@@ -903,9 +906,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.27 – Palazzo des Cinquecento an Via Lupo – Teil 6/8 (Y 87–92)
+### Schritt 29.27 – Palazzo des Cinquecento an Via Lupo – Teil 6/8 (Y 88–93)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.702
 - **Bauteile:** `w461735834`
 
@@ -936,10 +939,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.28 – Palazzo des Cinquecento an Via Lupo – Teil 7/8 (Y 93–94)
+### Schritt 29.28 – Palazzo des Cinquecento an Via Lupo – Teil 7/8 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.487
+- **Y-Bereich:** 94 bis 95
+- **Blöcke:** 1.540
 - **Bauteile:** `w461735834`
 
 **Teileliste**
@@ -947,8 +950,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 959 |
-| Glatter Sandstein | `smooth_sandstone` | 287 |
-| Fichtenholz-Bretter | `spruce_planks` | 235 |
+| Glatter Sandstein | `smooth_sandstone` | 338 |
+| Fichtenholz-Bretter | `spruce_planks` | 237 |
 | Polierter Andesit | `polished_andesite` | 6 |
 
 **Beschreibung**
@@ -967,9 +970,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.29 – Palazzo des Cinquecento an Via Lupo – Teil 8/8 (Y 95–103)
+### Schritt 29.29 – Palazzo des Cinquecento an Via Lupo – Teil 8/8 (Y 96–104)
 
-- **Y-Bereich:** 95 bis 103
+- **Y-Bereich:** 96 bis 104
 - **Blöcke:** 1.711
 - **Bauteile:** `w461735834`
 
@@ -996,19 +999,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 29.30 – Palazzo des Cinquecento an Via Lupo: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 29.30 – Palazzo des Cinquecento an Via Lupo: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.495
+- **Y-Bereich:** 64 bis 74
+- **Blöcke:** 1.494
 - **Bauteile:** `w461735834_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.428 |
+| Terrakotta | `terracotta` | 1.429 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 18 |
+| Seelaterne | `sea_lantern` | 16 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1038,26 +1041,28 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 29.31 – Palazzo des Cinquecento an Via Lupo: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 29.31 – Palazzo des Cinquecento an Via Lupo: Innenausbau – Teil 2/2 (Y 75–85) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.501
-- **Bauteile:** `w461735834_innen`
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.505
+- **Bauteile:** `w461735834_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.428 |
+| Terrakotta | `terracotta` | 1.429 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Seelaterne | `sea_lantern` | 9 |
+| Seelaterne | `sea_lantern` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1068,16 +1073,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

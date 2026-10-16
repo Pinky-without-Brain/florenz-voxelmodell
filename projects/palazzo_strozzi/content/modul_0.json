@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 64, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände tiefer liegt, füllst du unter Palazzo und Hof mit Tuff bis Y 63 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 63 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Filippo Strozzi ließ für den Bau ab 1489 eine ganze Reihe von Häusern abreißen."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 64 legst du den Boden des Erdgeschosses: in den Sälen ein Schachbrett aus Terrakotta und hellem Quarz, unter den Hofarkaden Glatter Stein.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst die letzte Bautüte.",
+      "fact": "Heute zeigt der Palazzo große Kunstausstellungen."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster liegt auf Y 64.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der Hof stammt von Il Cronaca."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 108).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Die Treppe ist im Modell vereinfacht; das Original hat gerade Läufe."
+    }
+  }
+}

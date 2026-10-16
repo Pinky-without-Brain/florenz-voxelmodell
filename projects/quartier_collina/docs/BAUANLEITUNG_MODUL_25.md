@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 30.318 |
-| Bauschritte | 18 |
-| Y-Bereich | 63 bis 99 |
+| Blöcke | 37.248 |
+| Bauschritte | 23 |
+| Y-Bereich | 166 bis 212 |
 | X-Ausdehnung | 81 bis 162 (82 Blöcke) |
 | Z-Ausdehnung | 2326 bis 2397 (72 Blöcke) |
-| Kleinster Schritt | 1.264 Blöcke (Schritt 25.9) |
-| Mittlerer Schritt | 1.684 Blöcke |
-| Größter Schritt | 2.095 Blöcke (Schritt 25.8) |
+| Kleinster Schritt | 943 Blöcke (Schritt 25.1) |
+| Mittlerer Schritt | 1.619 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 25.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 15.389 | 50,8 % |
-| Terrakotta | `terracotta` | 7.026 | 23,2 % |
-| Polierter Andesit | `polished_andesite` | 3.143 | 10,4 % |
-| Polierter Tuffstein | `polished_tuff` | 2.033 | 6,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.178 | 3,9 % |
-| Fichtenholz-Bretter | `spruce_planks` | 656 | 2,2 % |
-| Grüner Beton | `green_concrete` | 568 | 1,9 % |
-| Ziegelsteine | `bricks` | 145 | 0,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 15.389 | 41,3 % |
+| Terrakotta | `terracotta` | 7.026 | 18,9 % |
+| Tuffstein | `tuff` | 6.930 | 18,6 % |
+| Polierter Andesit | `polished_andesite` | 3.143 | 8,4 % |
+| Polierter Tuffstein | `polished_tuff` | 2.033 | 5,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.178 | 3,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 656 | 1,8 % |
+| Grüner Beton | `green_concrete` | 568 | 1,5 % |
+| Ziegelsteine | `bricks` | 145 | 0,4 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,2 % |
 | Seelaterne | `sea_lantern` | 40 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,1 % |
@@ -48,14 +49,154 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w397758446` | Reihenhaus an Via di Belvedere | 26.166 | 25.1–25.15 |
-| 2 | `w397758446_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 4.152 | 25.16–25.18 |
+| 1 | `w397758446` | Reihenhaus an Via di Belvedere | 33.096 | 25.1–25.20 |
+| 2 | `w397758446_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 4.152 | 25.21–25.23 |
 
 ## Bauschritte
 
-### Schritt 25.1 – Reihenhaus an Via di Belvedere – Teil 1/15 (Y 63–63)
+### Schritt 25.1 – Reihenhaus an Via di Belvedere – Teil 1/20 (Y 166–171)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 166 bis 171
+- **Blöcke:** 943
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 943 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.2 – Reihenhaus an Via di Belvedere – Teil 2/20 (Y 172–172)
+
+- **Y-Bereich:** 172 bis 172
+- **Blöcke:** 1.196
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.196 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.3 – Reihenhaus an Via di Belvedere – Teil 3/20 (Y 173–173)
+
+- **Y-Bereich:** 173 bis 173
+- **Blöcke:** 1.396
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.396 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.4 – Reihenhaus an Via di Belvedere – Teil 4/20 (Y 174–174)
+
+- **Y-Bereich:** 174 bis 174
+- **Blöcke:** 1.641
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.641 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.5 – Reihenhaus an Via di Belvedere – Teil 5/20 (Y 175–175)
+
+- **Y-Bereich:** 175 bis 175
+- **Blöcke:** 1.754
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.754 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.6 – Reihenhaus an Via di Belvedere – Teil 6/20 (Y 176–176)
+
+- **Y-Bereich:** 176 bis 176
 - **Blöcke:** 2.033
 - **Bauteile:** `w397758446`
 
@@ -81,9 +222,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.2 – Reihenhaus an Via di Belvedere – Teil 2/15 (Y 64–65)
+### Schritt 25.7 – Reihenhaus an Via di Belvedere – Teil 7/20 (Y 177–178)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 177 bis 178
 - **Blöcke:** 1.380
 - **Bauteile:** `w397758446`
 
@@ -110,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.3 – Reihenhaus an Via di Belvedere – Teil 3/15 (Y 66–68)
+### Schritt 25.8 – Reihenhaus an Via di Belvedere – Teil 8/20 (Y 179–181)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 179 bis 181
 - **Blöcke:** 2.024
 - **Bauteile:** `w397758446`
 
@@ -141,17 +282,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.4 – Reihenhaus an Via di Belvedere – Teil 4/15 (Y 69–70)
+### Schritt 25.9 – Reihenhaus an Via di Belvedere – Teil 9/20 (Y 182–184)
 
-- **Y-Bereich:** 69 bis 70
-- **Blöcke:** 1.327
+- **Y-Bereich:** 182 bis 184
+- **Blöcke:** 2.028
 - **Bauteile:** `w397758446`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 921 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.622 |
 | Polierter Andesit | `polished_andesite` | 281 |
 | Graues Buntglas | `gray_stained_glass` | 86 |
 | Grüner Beton | `green_concrete` | 39 |
@@ -172,99 +313,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.5 – Reihenhaus an Via di Belvedere – Teil 5/15 (Y 71–72)
+### Schritt 25.10 – Reihenhaus an Via di Belvedere – Teil 10/20 (Y 185–187)
 
-- **Y-Bereich:** 71 bis 72
-- **Blöcke:** 1.402
-- **Bauteile:** `w397758446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.402 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.6 – Reihenhaus an Via di Belvedere – Teil 6/15 (Y 73–75)
-
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 2.026
-- **Bauteile:** `w397758446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.329 |
-| Polierter Andesit | `polished_andesite` | 437 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Grüner Beton | `green_concrete` | 82 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.7 – Reihenhaus an Via di Belvedere – Teil 7/15 (Y 76–78)
-
-- **Y-Bereich:** 76 bis 78
-- **Blöcke:** 1.965
-- **Bauteile:** `w397758446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.329 |
-| Polierter Andesit | `polished_andesite` | 376 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Grüner Beton | `green_concrete` | 82 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.8 – Reihenhaus an Via di Belvedere – Teil 8/15 (Y 79–81)
-
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 185 bis 187
 - **Blöcke:** 2.095
 - **Bauteile:** `w397758446`
 
@@ -293,100 +344,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.9 – Reihenhaus an Via di Belvedere – Teil 9/15 (Y 82–83)
+### Schritt 25.11 – Reihenhaus an Via di Belvedere – Teil 11/20 (Y 188–190)
 
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.264
-- **Bauteile:** `w397758446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 812 |
-| Polierter Andesit | `polished_andesite` | 192 |
-| Graues Buntglas | `gray_stained_glass` | 178 |
-| Grüner Beton | `green_concrete` | 82 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.10 – Reihenhaus an Via di Belvedere – Teil 10/15 (Y 84–86)
-
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 2.034
-- **Bauteile:** `w397758446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.624 |
-| Polierter Andesit | `polished_andesite` | 280 |
-| Graues Buntglas | `gray_stained_glass` | 89 |
-| Grüner Beton | `green_concrete` | 41 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.11 – Reihenhaus an Via di Belvedere – Teil 11/15 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.463
-- **Bauteile:** `w397758446`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.218 |
-| Polierter Andesit | `polished_andesite` | 245 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 25.12 – Reihenhaus an Via di Belvedere – Teil 12/15 (Y 89–91)
-
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 188 bis 190
 - **Blöcke:** 1.896
 - **Bauteile:** `w397758446`
 
@@ -415,9 +375,191 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.13 – Reihenhaus an Via di Belvedere – Teil 13/15 (Y 92–93)
+### Schritt 25.12 – Reihenhaus an Via di Belvedere – Teil 12/20 (Y 191–192)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 191 bis 192
+- **Blöcke:** 1.402
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.218 |
+| Polierter Andesit | `polished_andesite` | 184 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.13 – Reihenhaus an Via di Belvedere – Teil 13/20 (Y 193–195)
+
+- **Y-Bereich:** 193 bis 195
+- **Blöcke:** 2.026
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.329 |
+| Polierter Andesit | `polished_andesite` | 437 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Grüner Beton | `green_concrete` | 82 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.14 – Reihenhaus an Via di Belvedere – Teil 14/20 (Y 196–197)
+
+- **Y-Bereich:** 196 bis 197
+- **Blöcke:** 1.264
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 812 |
+| Polierter Andesit | `polished_andesite` | 192 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Grüner Beton | `green_concrete` | 82 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.15 – Reihenhaus an Via di Belvedere – Teil 15/20 (Y 198–199)
+
+- **Y-Bereich:** 198 bis 199
+- **Blöcke:** 1.402
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.218 |
+| Polierter Andesit | `polished_andesite` | 184 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.16 – Reihenhaus an Via di Belvedere – Teil 16/20 (Y 200–202)
+
+- **Y-Bereich:** 200 bis 202
+- **Blöcke:** 2.095
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 1.624 |
+| Polierter Andesit | `polished_andesite` | 341 |
+| Graues Buntglas | `gray_stained_glass` | 89 |
+| Grüner Beton | `green_concrete` | 41 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.17 – Reihenhaus an Via di Belvedere – Teil 17/20 (Y 203–204)
+
+- **Y-Bereich:** 203 bis 204
+- **Blöcke:** 1.264
+- **Bauteile:** `w397758446`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 812 |
+| Polierter Andesit | `polished_andesite` | 192 |
+| Graues Buntglas | `gray_stained_glass` | 178 |
+| Grüner Beton | `green_concrete` | 82 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 25.18 – Reihenhaus an Via di Belvedere – Teil 18/20 (Y 205–206)
+
+- **Y-Bereich:** 205 bis 206
 - **Blöcke:** 2.058
 - **Bauteile:** `w397758446`
 
@@ -445,9 +587,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.14 – Reihenhaus an Via di Belvedere – Teil 14/15 (Y 94–94)
+### Schritt 25.19 – Reihenhaus an Via di Belvedere – Teil 19/20 (Y 207–207)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 207 bis 207
 - **Blöcke:** 1.887
 - **Bauteile:** `w397758446`
 
@@ -473,9 +615,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.15 – Reihenhaus an Via di Belvedere – Teil 15/15 (Y 95–99)
+### Schritt 25.20 – Reihenhaus an Via di Belvedere – Teil 20/20 (Y 208–212)
 
-- **Y-Bereich:** 95 bis 99
+- **Y-Bereich:** 208 bis 212
 - **Blöcke:** 1.312
 - **Bauteile:** `w397758446`
 
@@ -502,9 +644,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.16 – Reihenhaus an Via di Belvedere: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 25.21 – Reihenhaus an Via di Belvedere: Innenausbau – Teil 1/3 (Y 176–185)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 176 bis 185
 - **Blöcke:** 1.389
 - **Bauteile:** `w397758446_innen`
 
@@ -540,9 +682,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.17 – Reihenhaus an Via di Belvedere: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 25.22 – Reihenhaus an Via di Belvedere: Innenausbau – Teil 2/3 (Y 186–192)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 186 bis 192
 - **Blöcke:** 1.377
 - **Bauteile:** `w397758446_innen`
 
@@ -580,9 +722,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 25.18 – Reihenhaus an Via di Belvedere: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 25.23 – Reihenhaus an Via di Belvedere: Innenausbau – Teil 3/3 (Y 193–200)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 193 bis 200
 - **Blöcke:** 1.386
 - **Bauteile:** `w397758446_innen`
 

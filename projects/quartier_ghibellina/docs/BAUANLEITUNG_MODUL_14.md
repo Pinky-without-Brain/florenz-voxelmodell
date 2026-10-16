@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 31.942 |
 | Bauschritte | 22 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 62 bis 103 |
 | X-Ausdehnung | 1176 bis 1266 (91 Blöcke) |
 | Z-Ausdehnung | 504 bis 573 (70 Blöcke) |
 | Kleinster Schritt | 1.107 Blöcke (Schritt 14.10) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 14.1 – Reihenhaus an Borgo Allegri – Teil 1/16 (Y 63–63)
+### Schritt 14.1 – Reihenhaus an Borgo Allegri – Teil 1/16 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.507
 - **Bauteile:** `r1606430`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Borgo Allegri – Teil 2/16 (Y 63–63)
+### Schritt 14.2 – Reihenhaus an Borgo Allegri – Teil 2/16 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.492
 - **Bauteile:** `r1606430`
 
@@ -109,9 +109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Reihenhaus an Borgo Allegri – Teil 3/16 (Y 64–66)
+### Schritt 14.3 – Reihenhaus an Borgo Allegri – Teil 3/16 (Y 63–65)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 63 bis 65
 - **Blöcke:** 1.719
 - **Bauteile:** `r1606430`
 
@@ -138,9 +138,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Reihenhaus an Borgo Allegri – Teil 4/16 (Y 67–69)
+### Schritt 14.4 – Reihenhaus an Borgo Allegri – Teil 4/16 (Y 66–68)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.554
 - **Bauteile:** `r1606430`
 
@@ -169,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.5 – Reihenhaus an Borgo Allegri – Teil 5/16 (Y 70–71)
+### Schritt 14.5 – Reihenhaus an Borgo Allegri – Teil 5/16 (Y 69–70)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.158
 - **Bauteile:** `r1606430`
 
@@ -198,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.6 – Reihenhaus an Borgo Allegri – Teil 6/16 (Y 72–74)
+### Schritt 14.6 – Reihenhaus an Borgo Allegri – Teil 6/16 (Y 71–73)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.689
 - **Bauteile:** `r1606430`
 
@@ -228,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.7 – Reihenhaus an Borgo Allegri – Teil 7/16 (Y 75–77)
+### Schritt 14.7 – Reihenhaus an Borgo Allegri – Teil 7/16 (Y 74–76)
 
-- **Y-Bereich:** 75 bis 77
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.575
 - **Bauteile:** `r1606430`
 
@@ -258,9 +258,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.8 – Reihenhaus an Borgo Allegri – Teil 8/16 (Y 78–80)
+### Schritt 14.8 – Reihenhaus an Borgo Allegri – Teil 8/16 (Y 77–79)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.746
 - **Bauteile:** `r1606430`
 
@@ -286,9 +286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.9 – Reihenhaus an Borgo Allegri – Teil 9/16 (Y 81–83)
+### Schritt 14.9 – Reihenhaus an Borgo Allegri – Teil 9/16 (Y 80–82)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.575
 - **Bauteile:** `r1606430`
 
@@ -316,9 +316,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.10 – Reihenhaus an Borgo Allegri – Teil 10/16 (Y 84–85)
+### Schritt 14.10 – Reihenhaus an Borgo Allegri – Teil 10/16 (Y 83–84)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.107
 - **Bauteile:** `r1606430`
 
@@ -346,9 +346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.11 – Reihenhaus an Borgo Allegri – Teil 11/16 (Y 86–88)
+### Schritt 14.11 – Reihenhaus an Borgo Allegri – Teil 11/16 (Y 85–87)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.746
 - **Bauteile:** `r1606430`
 
@@ -374,9 +374,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.12 – Reihenhaus an Borgo Allegri – Teil 12/16 (Y 89–91)
+### Schritt 14.12 – Reihenhaus an Borgo Allegri – Teil 12/16 (Y 88–90)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.575
 - **Bauteile:** `r1606430`
 
@@ -404,9 +404,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.13 – Reihenhaus an Borgo Allegri – Teil 13/16 (Y 92–93)
+### Schritt 14.13 – Reihenhaus an Borgo Allegri – Teil 13/16 (Y 91–92)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.650
 - **Bauteile:** `r1606430`
 
@@ -433,9 +433,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.14 – Reihenhaus an Borgo Allegri – Teil 14/16 (Y 94–94)
+### Schritt 14.14 – Reihenhaus an Borgo Allegri – Teil 14/16 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.638
 - **Bauteile:** `r1606430`
 
@@ -461,9 +461,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.15 – Reihenhaus an Borgo Allegri – Teil 15/16 (Y 95–96)
+### Schritt 14.15 – Reihenhaus an Borgo Allegri – Teil 15/16 (Y 94–95)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.311
 - **Bauteile:** `r1606430`
 
@@ -489,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.16 – Reihenhaus an Borgo Allegri – Teil 16/16 (Y 97–104)
+### Schritt 14.16 – Reihenhaus an Borgo Allegri – Teil 16/16 (Y 96–103)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.486
 - **Bauteile:** `r1606430`
 
@@ -518,9 +518,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.17 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 1/6 (Y 63–72)
+### Schritt 14.17 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 1/6 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.282
 - **Bauteile:** `r1606430_innen`
 
@@ -556,9 +556,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.18 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 14.18 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 2/6 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.197
 - **Bauteile:** `r1606430_innen`
 
@@ -592,9 +592,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.19 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 3/6 (Y 73–79)
+### Schritt 14.19 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 3/6 (Y 72–78)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 72 bis 78
 - **Blöcke:** 1.269
 - **Bauteile:** `r1606430_innen`
 
@@ -634,9 +634,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.20 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 4/6 (Y 79–79)
+### Schritt 14.20 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 4/6 (Y 78–78)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.197
 - **Bauteile:** `r1606430_innen`
 
@@ -670,9 +670,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.21 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 5/6 (Y 80–86)
+### Schritt 14.21 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 5/6 (Y 79–85)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.266
 - **Bauteile:** `r1606430_innen`
 
@@ -710,9 +710,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.22 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 6/6 (Y 86–87)
+### Schritt 14.22 – Reihenhaus an Borgo Allegri: Innenausbau – Teil 6/6 (Y 85–86)
 
-- **Y-Bereich:** 86 bis 87
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.203
 - **Bauteile:** `r1606430_innen`
 

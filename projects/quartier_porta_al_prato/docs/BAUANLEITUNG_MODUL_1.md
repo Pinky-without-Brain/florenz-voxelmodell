@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.242 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 53 bis 89 |
 | X-Ausdehnung | -3057 bis -3037 (21 Blöcke) |
 | Z-Ausdehnung | -1326 bis -1307 (20 Blöcke) |
 | Kleinster Schritt | 1.229 Blöcke (Schritt 1.2) |
@@ -43,7 +43,7 @@
 
 ### Schritt 1.1 – Nebengebäude an Via del Ponte alle Mosse
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 53 bis 87
 - **Blöcke:** 1.754
 - **Bauteile:** `w595009020`
 
@@ -74,9 +74,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Nebengebäude an Via del Ponte alle Mosse: Innenausbau & Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 63–78)
+### Schritt 1.2 – Nebengebäude an Via del Ponte alle Mosse: Innenausbau & Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 54–69)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 53 bis 69
 - **Blöcke:** 1.229
 - **Bauteile:** `w595009020_innen`, `w1123920468`
 
@@ -106,9 +106,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Nebengebäude an Largo Porta Leopolda – Teil 2/2 (Y 79–98) & Nebengebäude an Largo Porta Leopolda: Innenausbau
+### Schritt 1.3 – Nebengebäude an Largo Porta Leopolda – Teil 2/2 (Y 70–89) & Nebengebäude an Largo Porta Leopolda: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 54 bis 89
 - **Blöcke:** 1.259
 - **Bauteile:** `w1123920468`, `w1123920468_innen`
 

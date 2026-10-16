@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 47.461 |
+| Blöcke | 47.463 |
 | Bauschritte | 33 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 57 bis 96 |
 | X-Ausdehnung | -2638 bis -2503 (136 Blöcke) |
 | Z-Ausdehnung | -265 bis -167 (99 Blöcke) |
 | Kleinster Schritt | 769 Blöcke (Schritt 23.4) |
@@ -34,6 +34,8 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 2 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
@@ -51,12 +53,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1626404` | Renaissance-Palazzo an Via Solferino | 39.113 | 23.1–23.29 |
 | 2 | `r1626404_innen` | Renaissance-Palazzo an Via Solferino: Innenausbau | 8.348 | 23.29–23.33 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 23.33 |
 
 ## Bauschritte
 
-### Schritt 23.1 – Renaissance-Palazzo an Via Solferino – Teil 1/29 (Y 63–63)
+### Schritt 23.1 – Renaissance-Palazzo an Via Solferino – Teil 1/29 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.663
 - **Bauteile:** `r1626404`
 
@@ -82,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.2 – Renaissance-Palazzo an Via Solferino – Teil 2/29 (Y 63–63)
+### Schritt 23.2 – Renaissance-Palazzo an Via Solferino – Teil 2/29 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.680
 - **Bauteile:** `r1626404`
 
@@ -110,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.3 – Renaissance-Palazzo an Via Solferino – Teil 3/29 (Y 63–63)
+### Schritt 23.3 – Renaissance-Palazzo an Via Solferino – Teil 3/29 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.630
 - **Bauteile:** `r1626404`
 
@@ -138,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.4 – Renaissance-Palazzo an Via Solferino – Teil 4/29 (Y 64–64)
+### Schritt 23.4 – Renaissance-Palazzo an Via Solferino – Teil 4/29 (Y 58–58)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 769
 - **Bauteile:** `r1626404`
 
@@ -169,9 +172,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.5 – Renaissance-Palazzo an Via Solferino – Teil 5/29 (Y 65–65)
+### Schritt 23.5 – Renaissance-Palazzo an Via Solferino – Teil 5/29 (Y 59–59)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 769
 - **Bauteile:** `r1626404`
 
@@ -200,9 +203,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.6 – Renaissance-Palazzo an Via Solferino – Teil 6/29 (Y 66–67)
+### Schritt 23.6 – Renaissance-Palazzo an Via Solferino – Teil 6/29 (Y 60–61)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 60 bis 61
 - **Blöcke:** 1.440
 - **Bauteile:** `r1626404`
 
@@ -232,9 +235,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.7 – Renaissance-Palazzo an Via Solferino – Teil 7/29 (Y 68–69)
+### Schritt 23.7 – Renaissance-Palazzo an Via Solferino – Teil 7/29 (Y 62–63)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.455
 - **Bauteile:** `r1626404`
 
@@ -264,9 +267,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.8 – Renaissance-Palazzo an Via Solferino – Teil 8/29 (Y 70–71)
+### Schritt 23.8 – Renaissance-Palazzo an Via Solferino – Teil 8/29 (Y 64–65)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.606
 - **Bauteile:** `r1626404`
 
@@ -296,9 +299,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.9 – Renaissance-Palazzo an Via Solferino – Teil 9/29 (Y 72–73)
+### Schritt 23.9 – Renaissance-Palazzo an Via Solferino – Teil 9/29 (Y 66–67)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.525
 - **Bauteile:** `r1626404`
 
@@ -327,9 +330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.10 – Renaissance-Palazzo an Via Solferino – Teil 10/29 (Y 74–74)
+### Schritt 23.10 – Renaissance-Palazzo an Via Solferino – Teil 10/29 (Y 68–68)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.118
 - **Bauteile:** `r1626404`
 
@@ -356,9 +359,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.11 – Renaissance-Palazzo an Via Solferino – Teil 11/29 (Y 75–75)
+### Schritt 23.11 – Renaissance-Palazzo an Via Solferino – Teil 11/29 (Y 69–69)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 875
 - **Bauteile:** `r1626404`
 
@@ -387,9 +390,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.12 – Renaissance-Palazzo an Via Solferino – Teil 12/29 (Y 76–77)
+### Schritt 23.12 – Renaissance-Palazzo an Via Solferino – Teil 12/29 (Y 70–71)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.749
 - **Bauteile:** `r1626404`
 
@@ -419,9 +422,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.13 – Renaissance-Palazzo an Via Solferino – Teil 13/29 (Y 78–79)
+### Schritt 23.13 – Renaissance-Palazzo an Via Solferino – Teil 13/29 (Y 72–73)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.666
 - **Bauteile:** `r1626404`
 
@@ -451,9 +454,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.14 – Renaissance-Palazzo an Via Solferino – Teil 14/29 (Y 80–80)
+### Schritt 23.14 – Renaissance-Palazzo an Via Solferino – Teil 14/29 (Y 74–74)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 833
 - **Bauteile:** `r1626404`
 
@@ -483,9 +486,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.15 – Renaissance-Palazzo an Via Solferino – Teil 15/29 (Y 81–82)
+### Schritt 23.15 – Renaissance-Palazzo an Via Solferino – Teil 15/29 (Y 75–76)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.750
 - **Bauteile:** `r1626404`
 
@@ -514,9 +517,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.16 – Renaissance-Palazzo an Via Solferino – Teil 16/29 (Y 83–83)
+### Schritt 23.16 – Renaissance-Palazzo an Via Solferino – Teil 16/29 (Y 77–77)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.118
 - **Bauteile:** `r1626404`
 
@@ -544,9 +547,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.17 – Renaissance-Palazzo an Via Solferino – Teil 17/29 (Y 84–84)
+### Schritt 23.17 – Renaissance-Palazzo an Via Solferino – Teil 17/29 (Y 78–78)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 875
 - **Bauteile:** `r1626404`
 
@@ -574,9 +577,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.18 – Renaissance-Palazzo an Via Solferino – Teil 18/29 (Y 85–86)
+### Schritt 23.18 – Renaissance-Palazzo an Via Solferino – Teil 18/29 (Y 79–80)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.749
 - **Bauteile:** `r1626404`
 
@@ -605,9 +608,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.19 – Renaissance-Palazzo an Via Solferino – Teil 19/29 (Y 87–88)
+### Schritt 23.19 – Renaissance-Palazzo an Via Solferino – Teil 19/29 (Y 81–82)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.666
 - **Bauteile:** `r1626404`
 
@@ -636,9 +639,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.20 – Renaissance-Palazzo an Via Solferino – Teil 20/29 (Y 89–89)
+### Schritt 23.20 – Renaissance-Palazzo an Via Solferino – Teil 20/29 (Y 83–83)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 833
 - **Bauteile:** `r1626404`
 
@@ -667,9 +670,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.21 – Renaissance-Palazzo an Via Solferino – Teil 21/29 (Y 90–91)
+### Schritt 23.21 – Renaissance-Palazzo an Via Solferino – Teil 21/29 (Y 84–85)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.951
 - **Bauteile:** `r1626404`
 
@@ -698,9 +701,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.22 – Renaissance-Palazzo an Via Solferino – Teil 22/29 (Y 92–92)
+### Schritt 23.22 – Renaissance-Palazzo an Via Solferino – Teil 22/29 (Y 86–86)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.436
 - **Bauteile:** `r1626404`
 
@@ -728,9 +731,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.23 – Renaissance-Palazzo an Via Solferino – Teil 23/29 (Y 93–93)
+### Schritt 23.23 – Renaissance-Palazzo an Via Solferino – Teil 23/29 (Y 87–87)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.757
 - **Bauteile:** `r1626404`
 
@@ -758,9 +761,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.24 – Renaissance-Palazzo an Via Solferino – Teil 24/29 (Y 94–94)
+### Schritt 23.24 – Renaissance-Palazzo an Via Solferino – Teil 24/29 (Y 88–88)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.176
 - **Bauteile:** `r1626404`
 
@@ -786,9 +789,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.25 – Renaissance-Palazzo an Via Solferino – Teil 25/29 (Y 94–94)
+### Schritt 23.25 – Renaissance-Palazzo an Via Solferino – Teil 25/29 (Y 88–88)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.194
 - **Bauteile:** `r1626404`
 
@@ -814,9 +817,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.26 – Renaissance-Palazzo an Via Solferino – Teil 26/29 (Y 95–95)
+### Schritt 23.26 – Renaissance-Palazzo an Via Solferino – Teil 26/29 (Y 89–89)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.210
 - **Bauteile:** `r1626404`
 
@@ -842,9 +845,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.27 – Renaissance-Palazzo an Via Solferino – Teil 27/29 (Y 96–96)
+### Schritt 23.27 – Renaissance-Palazzo an Via Solferino – Teil 27/29 (Y 90–90)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.170
 - **Bauteile:** `r1626404`
 
@@ -870,9 +873,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.28 – Renaissance-Palazzo an Via Solferino – Teil 28/29 (Y 97–97)
+### Schritt 23.28 – Renaissance-Palazzo an Via Solferino – Teil 28/29 (Y 91–91)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.088
 - **Bauteile:** `r1626404`
 
@@ -899,9 +902,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.29 – Renaissance-Palazzo an Via Solferino – Teil 29/29 (Y 98–102) & Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 1/5 (Y 63–73)
+### Schritt 23.29 – Renaissance-Palazzo an Via Solferino – Teil 29/29 (Y 92–96) & Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 1/5 (Y 57–67)
 
-- **Y-Bereich:** 63 bis 102
+- **Y-Bereich:** 57 bis 96
 - **Blöcke:** 1.436
 - **Bauteile:** `r1626404`, `r1626404_innen`
 
@@ -942,9 +945,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.30 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 2/5 (Y 74–74)
+### Schritt 23.30 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 2/5 (Y 68–68)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 2.031
 - **Bauteile:** `r1626404_innen`
 
@@ -978,9 +981,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.31 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 3/5 (Y 74–78)
+### Schritt 23.31 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 3/5 (Y 68–72)
 
-- **Y-Bereich:** 74 bis 78
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 2.100
 - **Bauteile:** `r1626404_innen`
 
@@ -1015,9 +1018,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.32 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 4/5 (Y 79–83)
+### Schritt 23.32 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 4/5 (Y 73–77)
 
-- **Y-Bereich:** 79 bis 83
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 2.055
 - **Bauteile:** `r1626404_innen`
 
@@ -1053,11 +1056,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 23.33 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 5/5 (Y 83–84)
+### Schritt 23.33 – Renaissance-Palazzo an Via Solferino: Innenausbau – Teil 5/5 (Y 77–78) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 2.088
-- **Bauteile:** `r1626404_innen`
+- **Y-Bereich:** 64 bis 78
+- **Blöcke:** 2.090
+- **Bauteile:** `r1626404_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1067,19 +1070,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

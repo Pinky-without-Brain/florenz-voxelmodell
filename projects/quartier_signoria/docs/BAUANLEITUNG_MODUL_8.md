@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.990 |
+| Blöcke | 46.993 |
 | Bauschritte | 30 |
-| Y-Bereich | 63 bis 110 |
+| Y-Bereich | 64 bis 111 |
 | X-Ausdehnung | -468 bis -398 (71 Blöcke) |
 | Z-Ausdehnung | 747 bis 856 (110 Blöcke) |
 | Kleinster Schritt | 1.106 Blöcke (Schritt 8.22) |
@@ -36,10 +36,12 @@
 | Rote Keramik | `red_terracotta` | 9 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -54,12 +56,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1601344` | Palazzo des Cinquecento an Via Por Santa Maria | 36.091 | 8.1–8.24 |
 | 2 | `r1601344_innen` | Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau | 10.899 | 8.25–8.30 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 8.30 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 1/24 (Y 63–63)
+### Schritt 8.1 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 1/24 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.470
 - **Bauteile:** `r1601344`
 
@@ -85,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 2/24 (Y 63–63)
+### Schritt 8.2 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 2/24 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.338
 - **Bauteile:** `r1601344`
 
@@ -113,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 3/24 (Y 63–63)
+### Schritt 8.3 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 3/24 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.453
 - **Bauteile:** `r1601344`
 
@@ -141,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 4/24 (Y 64–65)
+### Schritt 8.4 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 4/24 (Y 65–66)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.457
 - **Bauteile:** `r1601344`
 
@@ -171,9 +174,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 5/24 (Y 66–68)
+### Schritt 8.5 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 5/24 (Y 67–69)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 67 bis 69
 - **Blöcke:** 2.069
 - **Bauteile:** `r1601344`
 
@@ -203,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.6 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 6/24 (Y 69–70)
+### Schritt 8.6 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 6/24 (Y 70–71)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.264
 - **Bauteile:** `r1601344`
 
@@ -235,9 +238,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 7/24 (Y 71–72)
+### Schritt 8.7 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 7/24 (Y 72–73)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.400
 - **Bauteile:** `r1601344`
 
@@ -264,9 +267,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.8 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 8/24 (Y 73–74)
+### Schritt 8.8 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 8/24 (Y 74–75)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.400
 - **Bauteile:** `r1601344`
 
@@ -294,9 +297,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.9 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 9/24 (Y 75–76)
+### Schritt 8.9 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 9/24 (Y 76–77)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.391
 - **Bauteile:** `r1601344`
 
@@ -325,9 +328,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.10 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 10/24 (Y 77–79)
+### Schritt 8.10 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 10/24 (Y 78–80)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.893
 - **Bauteile:** `r1601344`
 
@@ -356,9 +359,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.11 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 11/24 (Y 80–81)
+### Schritt 8.11 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 11/24 (Y 81–82)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.331
 - **Bauteile:** `r1601344`
 
@@ -387,9 +390,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.12 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 12/24 (Y 82–83)
+### Schritt 8.12 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 12/24 (Y 83–84)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.400
 - **Bauteile:** `r1601344`
 
@@ -417,9 +420,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.13 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 13/24 (Y 84–85)
+### Schritt 8.13 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 13/24 (Y 85–86)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.391
 - **Bauteile:** `r1601344`
 
@@ -448,9 +451,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.14 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 14/24 (Y 86–88)
+### Schritt 8.14 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 14/24 (Y 87–89)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.893
 - **Bauteile:** `r1601344`
 
@@ -479,9 +482,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.15 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 15/24 (Y 89–90)
+### Schritt 8.15 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 15/24 (Y 90–91)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 90 bis 91
 - **Blöcke:** 1.331
 - **Bauteile:** `r1601344`
 
@@ -510,9 +513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.16 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 16/24 (Y 91–92)
+### Schritt 8.16 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 16/24 (Y 92–93)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 92 bis 93
 - **Blöcke:** 1.400
 - **Bauteile:** `r1601344`
 
@@ -540,9 +543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.17 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 17/24 (Y 93–94)
+### Schritt 8.17 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 17/24 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.391
 - **Bauteile:** `r1601344`
 
@@ -571,9 +574,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.18 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 18/24 (Y 95–97)
+### Schritt 8.18 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 18/24 (Y 96–98)
 
-- **Y-Bereich:** 95 bis 97
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 1.893
 - **Bauteile:** `r1601344`
 
@@ -602,9 +605,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.19 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 19/24 (Y 98–99)
+### Schritt 8.19 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 19/24 (Y 99–100)
 
-- **Y-Bereich:** 98 bis 99
+- **Y-Bereich:** 99 bis 100
 - **Blöcke:** 1.568
 - **Bauteile:** `r1601344`
 
@@ -634,9 +637,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.20 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 20/24 (Y 100–100)
+### Schritt 8.20 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 20/24 (Y 101–101)
 
-- **Y-Bereich:** 100 bis 100
+- **Y-Bereich:** 101 bis 101
 - **Blöcke:** 1.216
 - **Bauteile:** `r1601344`
 
@@ -664,9 +667,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.21 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 21/24 (Y 101–101)
+### Schritt 8.21 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 21/24 (Y 102–102)
 
-- **Y-Bereich:** 101 bis 101
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.757
 - **Bauteile:** `r1601344`
 
@@ -692,9 +695,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.22 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 22/24 (Y 102–102)
+### Schritt 8.22 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 22/24 (Y 103–103)
 
-- **Y-Bereich:** 102 bis 102
+- **Y-Bereich:** 103 bis 103
 - **Blöcke:** 1.106
 - **Bauteile:** `r1601344`
 
@@ -720,9 +723,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.23 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 23/24 (Y 103–104)
+### Schritt 8.23 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 23/24 (Y 104–105)
 
-- **Y-Bereich:** 103 bis 104
+- **Y-Bereich:** 104 bis 105
 - **Blöcke:** 2.094
 - **Bauteile:** `r1601344`
 
@@ -749,9 +752,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.24 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 24/24 (Y 105–110)
+### Schritt 8.24 – Palazzo des Cinquecento an Via Por Santa Maria – Teil 24/24 (Y 106–111)
 
-- **Y-Bereich:** 105 bis 110
+- **Y-Bereich:** 106 bis 111
 - **Blöcke:** 1.185
 - **Bauteile:** `r1601344`
 
@@ -778,9 +781,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.25 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 1/6 (Y 63–73)
+### Schritt 8.25 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 1/6 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.826
 - **Bauteile:** `r1601344_innen`
 
@@ -820,9 +823,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.26 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 2/6 (Y 73–73)
+### Schritt 8.26 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 2/6 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.816
 - **Bauteile:** `r1601344_innen`
 
@@ -856,9 +859,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.27 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 3/6 (Y 74–82)
+### Schritt 8.27 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 3/6 (Y 75–83)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.808
 - **Bauteile:** `r1601344_innen`
 
@@ -900,9 +903,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.28 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 4/6 (Y 82–82)
+### Schritt 8.28 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 4/6 (Y 83–83)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.816
 - **Bauteile:** `r1601344_innen`
 
@@ -936,9 +939,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.29 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 5/6 (Y 83–91)
+### Schritt 8.29 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 5/6 (Y 84–92)
 
-- **Y-Bereich:** 83 bis 91
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.808
 - **Bauteile:** `r1601344_innen`
 
@@ -980,11 +983,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 8.30 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 6/6 (Y 91–92)
+### Schritt 8.30 – Palazzo des Cinquecento an Via Por Santa Maria: Innenausbau – Teil 6/6 (Y 92–93) & Straßenschilder
 
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.825
-- **Bauteile:** `r1601344_innen`
+- **Y-Bereich:** 71 bis 93
+- **Blöcke:** 1.828
+- **Bauteile:** `r1601344_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -994,7 +997,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 11 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1008,16 +1013,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

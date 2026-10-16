@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 24.574 |
 | Bauschritte | 14 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 70 bis 110 |
 | X-Ausdehnung | 444 bis 523 (80 Blöcke) |
 | Z-Ausdehnung | -1392 bis -1319 (74 Blöcke) |
 | Kleinster Schritt | 1.135 Blöcke (Schritt 9.1) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 9.1 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 1/12 (Y 63–63)
+### Schritt 9.1 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 1/12 (Y 70–70)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.135
 - **Bauteile:** `w111829541`
 
@@ -79,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 2/12 (Y 63–64)
+### Schritt 9.2 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 2/12 (Y 70–71)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.660
 - **Bauteile:** `w111829541`
 
@@ -109,9 +109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 3/12 (Y 65–68)
+### Schritt 9.3 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 3/12 (Y 72–75)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 2.078
 - **Bauteile:** `w111829541`
 
@@ -141,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 4/12 (Y 69–72)
+### Schritt 9.4 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 4/12 (Y 76–79)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.952
 - **Bauteile:** `w111829541`
 
@@ -173,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 5/12 (Y 73–76)
+### Schritt 9.5 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 5/12 (Y 80–83)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 2.044
 - **Bauteile:** `w111829541`
 
@@ -205,9 +205,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 6/12 (Y 77–79)
+### Schritt 9.6 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 6/12 (Y 84–86)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.383
 - **Bauteile:** `w111829541`
 
@@ -236,9 +236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.7 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 7/12 (Y 80–83)
+### Schritt 9.7 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 7/12 (Y 87–90)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 87 bis 90
 - **Blöcke:** 1.946
 - **Bauteile:** `w111829541`
 
@@ -268,9 +268,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.8 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 8/12 (Y 84–86)
+### Schritt 9.8 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 8/12 (Y 91–93)
 
-- **Y-Bereich:** 84 bis 86
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.532
 - **Bauteile:** `w111829541`
 
@@ -299,9 +299,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.9 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 9/12 (Y 87–90)
+### Schritt 9.9 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 9/12 (Y 94–97)
 
-- **Y-Bereich:** 87 bis 90
+- **Y-Bereich:** 94 bis 97
 - **Blöcke:** 1.844
 - **Bauteile:** `w111829541`
 
@@ -330,9 +330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.10 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 10/12 (Y 91–93)
+### Schritt 9.10 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 10/12 (Y 98–100)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 98 bis 100
 - **Blöcke:** 2.097
 - **Bauteile:** `w111829541`
 
@@ -360,9 +360,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.11 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 11/12 (Y 94–95)
+### Schritt 9.11 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 11/12 (Y 101–102)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 101 bis 102
 - **Blöcke:** 1.752
 - **Bauteile:** `w111829541`
 
@@ -388,9 +388,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.12 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 12/12 (Y 96–103)
+### Schritt 9.12 – Palazzo des Cinquecento an Via Giorgio La Pira – Teil 12/12 (Y 103–110)
 
-- **Y-Bereich:** 96 bis 103
+- **Y-Bereich:** 103 bis 110
 - **Blöcke:** 1.482
 - **Bauteile:** `w111829541`
 
@@ -417,9 +417,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.13 – Palazzo des Cinquecento an Via Giorgio La Pira: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 9.13 – Palazzo des Cinquecento an Via Giorgio La Pira: Innenausbau – Teil 1/2 (Y 70–80)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 70 bis 80
 - **Blöcke:** 1.838
 - **Bauteile:** `w111829541_innen`
 
@@ -455,9 +455,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.14 – Palazzo des Cinquecento an Via Giorgio La Pira: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 9.14 – Palazzo des Cinquecento an Via Giorgio La Pira: Innenausbau – Teil 2/2 (Y 81–91)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 81 bis 91
 - **Blöcke:** 1.831
 - **Bauteile:** `w111829541_innen`
 

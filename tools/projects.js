@@ -57,7 +57,9 @@ function fromFolder(name, dir, root) {
   const p = {
     id: json.id, title: json.title, type: json.type, registered: false,
     modelDir: sub('model'), contentDir: sub('content'),
-    interfacesFile: isFile(iface) ? iface : null, groundFile: isFile(ground) ? ground : null,
+    interfacesFile: isFile(iface) ? iface : null,
+    // Quartiere ohne eigenen Boden stehen auf dem Stadtgelände (sonst Fallback Y 63: Häuser im Boden versunken)
+    groundFile: isFile(ground) ? ground : (json.type === 'quartier' ? path.join(__dirname, 'city', 'ground_stadt.js') : null),
     webDataDir: path.join(root, 'webapp', 'data', json.id), docs: 'project', docsDir: sub('docs'),
     dir, json, legacy: false
   };

@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Pfeiler und Bögen",
+  "subtitle": "Bautüte 1: Pfeiler, Säulen und Rundbögen",
+  "icon": "🏛️",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Am Rand stehen Pfeiler aus Pietra forte bis Y 79, oben ein Kapitell.",
+      "tip": "Drei Joche quer, vier längs.",
+      "caution": "Zwischen den Pfeilern bleibt der Durchgang frei.",
+      "fact": "Die Loggia ist ringsum offen."
+    },
+    "saeulen": {
+      "title": "Säulen",
+      "description": "Innen tragen sechs Säulen aus Pietra serena die Gewölbe.",
+      "tip": "Sie stehen auf den Jochgrenzen.",
+      "caution": "Rundherum bleibt alles frei.",
+      "fact": "Unter der Loggia wurden Seide, Goldwaren und Wolle gehandelt."
+    },
+    "boegen": {
+      "title": "Bögen",
+      "description": "Zwischen den Pfeilern spannen sich Rundbögen bis Y 85; darüber geht die Wand bis Y 91.",
+      "tip": "Erst die Bogenlaibung aus Pietra serena.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Giovanni Battista del Tasso baute die Loggia 1547–51 für Cosimo I."
+    }
+  }
+}

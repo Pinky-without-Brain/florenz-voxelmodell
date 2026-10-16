@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.352 |
+| Blöcke | 7.348 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 88 bis 123 |
 | X-Ausdehnung | 669 bis 699 (31 Blöcke) |
 | Z-Ausdehnung | 2384 bis 2414 (31 Blöcke) |
 | Kleinster Schritt | 1.036 Blöcke (Schritt 27.5) |
@@ -23,7 +23,7 @@
 | :--- | :--- | ---: | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 3.851 | 52,4 % |
 | Terrakotta | `terracotta` | 1.505 | 20,5 % |
-| Glatter Stein | `smooth_stone` | 1.119 | 15,2 % |
+| Glatter Stein | `smooth_stone` | 1.115 | 15,2 % |
 | Polierter Tuffstein | `polished_tuff` | 492 | 6,7 % |
 | Graues Buntglas | `gray_stained_glass` | 219 | 3,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,9 % |
@@ -43,15 +43,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w120114777` | Reihenhaus an Via dell'Erta Canina | 6.316 | 27.1–27.4 |
+| 1 | `w120114777` | Reihenhaus an Via dell'Erta Canina | 6.312 | 27.1–27.4 |
 | 2 | `w120114777_innen` | Reihenhaus an Via dell'Erta Canina: Innenausbau | 1.036 | 27.5 |
 
 ## Bauschritte
 
-### Schritt 27.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 63–69)
+### Schritt 27.1 – Reihenhaus an Via dell'Erta Canina – Teil 1/4 (Y 88–94)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.513
+- **Y-Bereich:** 88 bis 94
+- **Blöcke:** 1.509
 - **Bauteile:** `w120114777`
 
 **Teileliste**
@@ -60,7 +60,7 @@
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 775 |
 | Polierter Tuffstein | `polished_tuff` | 492 |
-| Glatter Stein | `smooth_stone` | 198 |
+| Glatter Stein | `smooth_stone` | 194 |
 | Graues Buntglas | `gray_stained_glass` | 32 |
 | Polierter Andesit | `polished_andesite` | 16 |
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 70–78)
+### Schritt 27.2 – Reihenhaus an Via dell'Erta Canina – Teil 2/4 (Y 95–103)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.569
 - **Bauteile:** `w120114777`
 
@@ -110,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 79–87)
+### Schritt 27.3 – Reihenhaus an Via dell'Erta Canina – Teil 3/4 (Y 104–112)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 104 bis 112
 - **Blöcke:** 1.569
 - **Bauteile:** `w120114777`
 
@@ -140,9 +140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 88–98)
+### Schritt 27.4 – Reihenhaus an Via dell'Erta Canina – Teil 4/4 (Y 113–123)
 
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 113 bis 123
 - **Blöcke:** 1.665
 - **Bauteile:** `w120114777`
 
@@ -174,7 +174,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 27.5 – Reihenhaus an Via dell'Erta Canina: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 88 bis 111
 - **Blöcke:** 1.036
 - **Bauteile:** `w120114777_innen`
 

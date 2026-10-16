@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 1.836 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 78 |
+| Y-Bereich | 113 bis 128 |
 | X-Ausdehnung | -1042 bis -1020 (23 Blöcke) |
 | Z-Ausdehnung | 1994 bis 2020 (27 Blöcke) |
 | Kleinster Schritt | 1.836 Blöcke (Schritt 4.1) |
@@ -38,7 +38,7 @@
 
 ### Schritt 4.1 – Haus w375220464 & Haus w375220464: Innenausbau
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 113 bis 128
 - **Blöcke:** 1.836
 - **Bauteile:** `w375220464`, `w375220464_innen`
 

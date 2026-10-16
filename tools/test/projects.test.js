@@ -286,7 +286,7 @@ test('Build --project mit unbekannter ID bricht ab', (t) => {
 test('Build ohne ground.js: Fallback groundTopY = 63 (Block auf Y 64 ok, schwebender Block fehlerhaft)', (t) => {
   const root = makeRoot((r) => {
     const proj = (id, body) => writeProject(r, id, {
-      'project.json': JSON.stringify({ id, title: id, type: 'quartier' }),
+      'project.json': JSON.stringify({ id, title: id, type: 'wahrzeichen', ohneMaske: true }),
       'model/m1_x.js': `'use strict';\nmodule.exports = { module: 1, build(ctx) { ${body} } };\n`
     });
     proj('flach_ok', "ctx.part('a').fill(ctx.shapes.box(10, 64, 10, 20, 66, 20), 'stone_bricks');");

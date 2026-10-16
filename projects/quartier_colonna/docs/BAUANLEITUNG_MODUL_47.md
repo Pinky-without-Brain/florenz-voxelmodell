@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 28.358 |
+| Blöcke | 28.361 |
 | Bauschritte | 18 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 63 bis 105 |
 | X-Ausdehnung | 1557 bis 1646 (90 Blöcke) |
 | Z-Ausdehnung | -164 bis -97 (68 Blöcke) |
 | Kleinster Schritt | 1.081 Blöcke (Schritt 47.14) |
-| Mittlerer Schritt | 1.575 Blöcke |
+| Mittlerer Schritt | 1.576 Blöcke |
 | Größter Schritt | 2.048 Blöcke (Schritt 47.6) |
 
 ## Gesamt-Stückliste
@@ -34,6 +34,7 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,1 % |
+| Tuffstein | `tuff` | 3 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -45,15 +46,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w306488539` | Palazzina D'Ancona | 21.822 | 47.1–47.12 |
+| 1 | `w306488539` | Palazzina D'Ancona | 21.825 | 47.1–47.12 |
 | 2 | `w306488539_innen` | Palazzina D'Ancona: Innenausbau | 6.536 | 47.13–47.18 |
 
 ## Bauschritte
 
-### Schritt 47.1 – Palazzina D'Ancona – Teil 1/12 (Y 63–63)
+### Schritt 47.1 – Palazzina D'Ancona – Teil 1/12 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.324
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 1.327
 - **Bauteile:** `w306488539`
 
 **Teileliste**
@@ -61,6 +62,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.324 |
+| Tuffstein | `tuff` | 3 |
 
 **Beschreibung**
 
@@ -78,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.2 – Palazzina D'Ancona – Teil 2/12 (Y 63–64)
+### Schritt 47.2 – Palazzina D'Ancona – Teil 2/12 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.827
 - **Bauteile:** `w306488539`
 
@@ -108,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.3 – Palazzina D'Ancona – Teil 3/12 (Y 65–68)
+### Schritt 47.3 – Palazzina D'Ancona – Teil 3/12 (Y 66–69)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 66 bis 69
 - **Blöcke:** 1.949
 - **Bauteile:** `w306488539`
 
@@ -141,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.4 – Palazzina D'Ancona – Teil 4/12 (Y 69–72)
+### Schritt 47.4 – Palazzina D'Ancona – Teil 4/12 (Y 70–73)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 70 bis 73
 - **Blöcke:** 2.009
 - **Bauteile:** `w306488539`
 
@@ -172,9 +174,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.5 – Palazzina D'Ancona – Teil 5/12 (Y 73–76)
+### Schritt 47.5 – Palazzina D'Ancona – Teil 5/12 (Y 74–77)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.925
 - **Bauteile:** `w306488539`
 
@@ -203,9 +205,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.6 – Palazzina D'Ancona – Teil 6/12 (Y 77–80)
+### Schritt 47.6 – Palazzina D'Ancona – Teil 6/12 (Y 78–81)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 78 bis 81
 - **Blöcke:** 2.048
 - **Bauteile:** `w306488539`
 
@@ -232,9 +234,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.7 – Palazzina D'Ancona – Teil 7/12 (Y 81–83)
+### Schritt 47.7 – Palazzina D'Ancona – Teil 7/12 (Y 82–84)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.413
 - **Bauteile:** `w306488539`
 
@@ -263,9 +265,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.8 – Palazzina D'Ancona – Teil 8/12 (Y 84–87)
+### Schritt 47.8 – Palazzina D'Ancona – Teil 8/12 (Y 85–88)
 
-- **Y-Bereich:** 84 bis 87
+- **Y-Bereich:** 85 bis 88
 - **Blöcke:** 2.048
 - **Bauteile:** `w306488539`
 
@@ -292,9 +294,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.9 – Palazzina D'Ancona – Teil 9/12 (Y 88–91)
+### Schritt 47.9 – Palazzina D'Ancona – Teil 9/12 (Y 89–92)
 
-- **Y-Bereich:** 88 bis 91
+- **Y-Bereich:** 89 bis 92
 - **Blöcke:** 1.925
 - **Bauteile:** `w306488539`
 
@@ -323,9 +325,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.10 – Palazzina D'Ancona – Teil 10/12 (Y 92–93)
+### Schritt 47.10 – Palazzina D'Ancona – Teil 10/12 (Y 93–94)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.465
 - **Bauteile:** `w306488539`
 
@@ -353,9 +355,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.11 – Palazzina D'Ancona – Teil 11/12 (Y 94–95)
+### Schritt 47.11 – Palazzina D'Ancona – Teil 11/12 (Y 95–96)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 95 bis 96
 - **Blöcke:** 1.944
 - **Bauteile:** `w306488539`
 
@@ -381,9 +383,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.12 – Palazzina D'Ancona – Teil 12/12 (Y 96–104)
+### Schritt 47.12 – Palazzina D'Ancona – Teil 12/12 (Y 97–105)
 
-- **Y-Bereich:** 96 bis 104
+- **Y-Bereich:** 97 bis 105
 - **Blöcke:** 1.945
 - **Bauteile:** `w306488539`
 
@@ -410,9 +412,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.13 – Palazzina D'Ancona: Innenausbau – Teil 1/6 (Y 63–72)
+### Schritt 47.13 – Palazzina D'Ancona: Innenausbau – Teil 1/6 (Y 64–73)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.111
 - **Bauteile:** `w306488539_innen`
 
@@ -448,9 +450,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.14 – Palazzina D'Ancona: Innenausbau – Teil 2/6 (Y 72–72)
+### Schritt 47.14 – Palazzina D'Ancona: Innenausbau – Teil 2/6 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.081
 - **Bauteile:** `w306488539_innen`
 
@@ -484,9 +486,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.15 – Palazzina D'Ancona: Innenausbau – Teil 3/6 (Y 73–79)
+### Schritt 47.15 – Palazzina D'Ancona: Innenausbau – Teil 3/6 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.091
 - **Bauteile:** `w306488539_innen`
 
@@ -522,9 +524,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.16 – Palazzina D'Ancona: Innenausbau – Teil 4/6 (Y 79–79)
+### Schritt 47.16 – Palazzina D'Ancona: Innenausbau – Teil 4/6 (Y 80–80)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.081
 - **Bauteile:** `w306488539_innen`
 
@@ -558,9 +560,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.17 – Palazzina D'Ancona: Innenausbau – Teil 5/6 (Y 80–86)
+### Schritt 47.17 – Palazzina D'Ancona: Innenausbau – Teil 5/6 (Y 81–87)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.091
 - **Bauteile:** `w306488539_innen`
 
@@ -596,9 +598,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.18 – Palazzina D'Ancona: Innenausbau – Teil 6/6 (Y 86–86)
+### Schritt 47.18 – Palazzina D'Ancona: Innenausbau – Teil 6/6 (Y 87–87)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.081
 - **Bauteile:** `w306488539_innen`
 

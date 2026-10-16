@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 43.793 |
+| Blöcke | 43.796 |
 | Bauschritte | 28 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 57 bis 99 |
 | X-Ausdehnung | -2900 bis -2799 (102 Blöcke) |
 | Z-Ausdehnung | -457 bis -338 (120 Blöcke) |
 | Kleinster Schritt | 685 Blöcke (Schritt 11.4) |
@@ -33,6 +33,8 @@
 | Seelaterne | `sea_lantern` | 72 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -46,12 +48,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w1424443615` | Renaissance-Palazzo an Piazza Maria Callas | 34.107 | 11.1–11.22 |
 | 2 | `w1424443615_innen` | Renaissance-Palazzo an Piazza Maria Callas: Innenausbau | 9.686 | 11.23–11.28 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 11.28 |
 
 ## Bauschritte
 
-### Schritt 11.1 – Renaissance-Palazzo an Piazza Maria Callas – Teil 1/22 (Y 63–63)
+### Schritt 11.1 – Renaissance-Palazzo an Piazza Maria Callas – Teil 1/22 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.822
 - **Bauteile:** `w1424443615`
 
@@ -77,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.2 – Renaissance-Palazzo an Piazza Maria Callas – Teil 2/22 (Y 63–63)
+### Schritt 11.2 – Renaissance-Palazzo an Piazza Maria Callas – Teil 2/22 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.788
 - **Bauteile:** `w1424443615`
 
@@ -105,9 +108,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Renaissance-Palazzo an Piazza Maria Callas – Teil 3/22 (Y 63–63)
+### Schritt 11.3 – Renaissance-Palazzo an Piazza Maria Callas – Teil 3/22 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.850
 - **Bauteile:** `w1424443615`
 
@@ -133,9 +136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.4 – Renaissance-Palazzo an Piazza Maria Callas – Teil 4/22 (Y 64–64)
+### Schritt 11.4 – Renaissance-Palazzo an Piazza Maria Callas – Teil 4/22 (Y 58–58)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 685
 - **Bauteile:** `w1424443615`
 
@@ -164,9 +167,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.5 – Renaissance-Palazzo an Piazza Maria Callas – Teil 5/22 (Y 65–66)
+### Schritt 11.5 – Renaissance-Palazzo an Piazza Maria Callas – Teil 5/22 (Y 59–60)
 
-- **Y-Bereich:** 65 bis 66
+- **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.407
 - **Bauteile:** `w1424443615`
 
@@ -195,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.6 – Renaissance-Palazzo an Piazza Maria Callas – Teil 6/22 (Y 67–69)
+### Schritt 11.6 – Renaissance-Palazzo an Piazza Maria Callas – Teil 6/22 (Y 61–63)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 61 bis 63
 - **Blöcke:** 1.968
 - **Bauteile:** `w1424443615`
 
@@ -227,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.7 – Renaissance-Palazzo an Piazza Maria Callas – Teil 7/22 (Y 70–71)
+### Schritt 11.7 – Renaissance-Palazzo an Piazza Maria Callas – Teil 7/22 (Y 64–65)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.317
 - **Bauteile:** `w1424443615`
 
@@ -259,9 +262,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.8 – Renaissance-Palazzo an Piazza Maria Callas – Teil 8/22 (Y 72–73)
+### Schritt 11.8 – Renaissance-Palazzo an Piazza Maria Callas – Teil 8/22 (Y 66–67)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.382
 - **Bauteile:** `w1424443615`
 
@@ -290,9 +293,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.9 – Renaissance-Palazzo an Piazza Maria Callas – Teil 9/22 (Y 74–75)
+### Schritt 11.9 – Renaissance-Palazzo an Piazza Maria Callas – Teil 9/22 (Y 68–69)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.591
 - **Bauteile:** `w1424443615`
 
@@ -320,9 +323,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.10 – Renaissance-Palazzo an Piazza Maria Callas – Teil 10/22 (Y 76–77)
+### Schritt 11.10 – Renaissance-Palazzo an Piazza Maria Callas – Teil 10/22 (Y 70–71)
 
-- **Y-Bereich:** 76 bis 77
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.386
 - **Bauteile:** `w1424443615`
 
@@ -351,9 +354,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.11 – Renaissance-Palazzo an Piazza Maria Callas – Teil 11/22 (Y 78–80)
+### Schritt 11.11 – Renaissance-Palazzo an Piazza Maria Callas – Teil 11/22 (Y 72–74)
 
-- **Y-Bereich:** 78 bis 80
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.971
 - **Bauteile:** `w1424443615`
 
@@ -382,9 +385,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.12 – Renaissance-Palazzo an Piazza Maria Callas – Teil 12/22 (Y 81–82)
+### Schritt 11.12 – Renaissance-Palazzo an Piazza Maria Callas – Teil 12/22 (Y 75–76)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.348
 - **Bauteile:** `w1424443615`
 
@@ -413,9 +416,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.13 – Renaissance-Palazzo an Piazza Maria Callas – Teil 13/22 (Y 83–84)
+### Schritt 11.13 – Renaissance-Palazzo an Piazza Maria Callas – Teil 13/22 (Y 77–78)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.591
 - **Bauteile:** `w1424443615`
 
@@ -443,9 +446,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.14 – Renaissance-Palazzo an Piazza Maria Callas – Teil 14/22 (Y 85–86)
+### Schritt 11.14 – Renaissance-Palazzo an Piazza Maria Callas – Teil 14/22 (Y 79–80)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 79 bis 80
 - **Blöcke:** 1.386
 - **Bauteile:** `w1424443615`
 
@@ -474,9 +477,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.15 – Renaissance-Palazzo an Piazza Maria Callas – Teil 15/22 (Y 87–89)
+### Schritt 11.15 – Renaissance-Palazzo an Piazza Maria Callas – Teil 15/22 (Y 81–83)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.971
 - **Bauteile:** `w1424443615`
 
@@ -505,9 +508,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.16 – Renaissance-Palazzo an Piazza Maria Callas – Teil 16/22 (Y 90–91)
+### Schritt 11.16 – Renaissance-Palazzo an Piazza Maria Callas – Teil 16/22 (Y 84–85)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.348
 - **Bauteile:** `w1424443615`
 
@@ -536,9 +539,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.17 – Renaissance-Palazzo an Piazza Maria Callas – Teil 17/22 (Y 92–93)
+### Schritt 11.17 – Renaissance-Palazzo an Piazza Maria Callas – Teil 17/22 (Y 86–87)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 1.800
 - **Bauteile:** `w1424443615`
 
@@ -567,9 +570,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.18 – Renaissance-Palazzo an Piazza Maria Callas – Teil 18/22 (Y 94–94)
+### Schritt 11.18 – Renaissance-Palazzo an Piazza Maria Callas – Teil 18/22 (Y 88–88)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.549
 - **Bauteile:** `w1424443615`
 
@@ -595,9 +598,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.19 – Renaissance-Palazzo an Piazza Maria Callas – Teil 19/22 (Y 95–96)
+### Schritt 11.19 – Renaissance-Palazzo an Piazza Maria Callas – Teil 19/22 (Y 89–90)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.702
 - **Bauteile:** `w1424443615`
 
@@ -623,9 +626,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.20 – Renaissance-Palazzo an Piazza Maria Callas – Teil 20/22 (Y 97–97)
+### Schritt 11.20 – Renaissance-Palazzo an Piazza Maria Callas – Teil 20/22 (Y 91–91)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 875
 - **Bauteile:** `w1424443615`
 
@@ -652,9 +655,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.21 – Renaissance-Palazzo an Piazza Maria Callas – Teil 21/22 (Y 98–100)
+### Schritt 11.21 – Renaissance-Palazzo an Piazza Maria Callas – Teil 21/22 (Y 92–94)
 
-- **Y-Bereich:** 98 bis 100
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.938
 - **Bauteile:** `w1424443615`
 
@@ -681,9 +684,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.22 – Renaissance-Palazzo an Piazza Maria Callas – Teil 22/22 (Y 101–105)
+### Schritt 11.22 – Renaissance-Palazzo an Piazza Maria Callas – Teil 22/22 (Y 95–99)
 
-- **Y-Bereich:** 101 bis 105
+- **Y-Bereich:** 95 bis 99
 - **Blöcke:** 1.432
 - **Bauteile:** `w1424443615`
 
@@ -710,9 +713,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.23 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 11.23 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 1/6 (Y 57–68)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 57 bis 68
 - **Blöcke:** 1.628
 - **Bauteile:** `w1424443615_innen`
 
@@ -748,9 +751,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.24 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 11.24 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 2/6 (Y 68–68)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.642
 - **Bauteile:** `w1424443615_innen`
 
@@ -777,9 +780,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.25 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 3/6 (Y 74–74)
+### Schritt 11.25 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 3/6 (Y 68–68)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.589
 - **Bauteile:** `w1424443615_innen`
 
@@ -806,9 +809,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.26 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 4/6 (Y 75–83)
+### Schritt 11.26 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 4/6 (Y 69–77)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.596
 - **Bauteile:** `w1424443615_innen`
 
@@ -844,9 +847,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.27 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 5/6 (Y 83–83)
+### Schritt 11.27 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 5/6 (Y 77–77)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.642
 - **Bauteile:** `w1424443615_innen`
 
@@ -873,11 +876,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.28 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 6/6 (Y 83–83)
+### Schritt 11.28 – Renaissance-Palazzo an Piazza Maria Callas: Innenausbau – Teil 6/6 (Y 77–77) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 1.589
-- **Bauteile:** `w1424443615_innen`
+- **Y-Bereich:** 64 bis 77
+- **Blöcke:** 1.592
+- **Bauteile:** `w1424443615_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -885,19 +888,21 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.581 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

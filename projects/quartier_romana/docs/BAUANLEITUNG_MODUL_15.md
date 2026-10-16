@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.188 |
+| Blöcke | 14.195 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 64 bis 100 |
 | X-Ausdehnung | -2432 bis -2413 (20 Blöcke) |
 | Z-Ausdehnung | 2327 bis 2416 (90 Blöcke) |
 | Kleinster Schritt | 918 Blöcke (Schritt 15.9) |
-| Mittlerer Schritt | 1.576 Blöcke |
+| Mittlerer Schritt | 1.577 Blöcke |
 | Größter Schritt | 1.838 Blöcke (Schritt 15.4) |
 
 ## Gesamt-Stückliste
@@ -32,6 +32,7 @@
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,1 % |
 | Seelaterne | `sea_lantern` | 15 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 15 | 0,1 % |
+| Tuffstein | `tuff` | 7 | 0,0 % |
 | Ziegelsteine | `bricks` | 6 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 6 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
@@ -50,15 +51,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118965490` | Palazzo des Ottocento an Via Gusciana | 13.270 | 15.1–15.8 |
+| 1 | `w118965490` | Palazzo des Ottocento an Via Gusciana | 13.277 | 15.1–15.8 |
 | 2 | `w118965490_innen` | Palazzo des Ottocento an Via Gusciana: Innenausbau | 918 | 15.9 |
 
 ## Bauschritte
 
-### Schritt 15.1 – Palazzo des Ottocento an Via Gusciana – Teil 1/8 (Y 63–65)
+### Schritt 15.1 – Palazzo des Ottocento an Via Gusciana – Teil 1/8 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.544
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.551
 - **Bauteile:** `w118965490`
 
 **Teileliste**
@@ -68,6 +69,7 @@
 | Polierter Tuffstein | `polished_tuff` | 792 |
 | Endsteinziegel | `end_stone_bricks` | 728 |
 | Polierter Andesit | `polished_andesite` | 18 |
+| Tuffstein | `tuff` | 7 |
 | Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
@@ -87,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Palazzo des Ottocento an Via Gusciana – Teil 2/8 (Y 66–70)
+### Schritt 15.2 – Palazzo des Ottocento an Via Gusciana – Teil 2/8 (Y 68–72)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.778
 - **Bauteile:** `w118965490`
 
@@ -120,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Palazzo des Ottocento an Via Gusciana – Teil 3/8 (Y 71–74)
+### Schritt 15.3 – Palazzo des Ottocento an Via Gusciana – Teil 3/8 (Y 73–76)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.493
 - **Bauteile:** `w118965490`
 
@@ -153,9 +155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Palazzo des Ottocento an Via Gusciana – Teil 4/8 (Y 75–79)
+### Schritt 15.4 – Palazzo des Ottocento an Via Gusciana – Teil 4/8 (Y 77–81)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.838
 - **Bauteile:** `w118965490`
 
@@ -185,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Palazzo des Ottocento an Via Gusciana – Teil 5/8 (Y 80–83)
+### Schritt 15.5 – Palazzo des Ottocento an Via Gusciana – Teil 5/8 (Y 82–85)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.508
 - **Bauteile:** `w118965490`
 
@@ -217,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Palazzo des Ottocento an Via Gusciana – Teil 6/8 (Y 84–88)
+### Schritt 15.6 – Palazzo des Ottocento an Via Gusciana – Teil 6/8 (Y 86–90)
 
-- **Y-Bereich:** 84 bis 88
+- **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.838
 - **Bauteile:** `w118965490`
 
@@ -249,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.7 – Palazzo des Ottocento an Via Gusciana – Teil 7/8 (Y 89–92)
+### Schritt 15.7 – Palazzo des Ottocento an Via Gusciana – Teil 7/8 (Y 91–94)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.612
 - **Bauteile:** `w118965490`
 
@@ -281,9 +283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – Palazzo des Ottocento an Via Gusciana – Teil 8/8 (Y 93–98)
+### Schritt 15.8 – Palazzo des Ottocento an Via Gusciana – Teil 8/8 (Y 95–100)
 
-- **Y-Bereich:** 93 bis 98
+- **Y-Bereich:** 95 bis 100
 - **Blöcke:** 1.659
 - **Bauteile:** `w118965490`
 
@@ -314,7 +316,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.9 – Palazzo des Ottocento an Via Gusciana: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 65 bis 86
 - **Blöcke:** 918
 - **Bauteile:** `w118965490_innen`
 

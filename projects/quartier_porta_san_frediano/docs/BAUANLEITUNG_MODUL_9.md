@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.007 |
+| Blöcke | 3.008 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 59 bis 92 |
 | X-Ausdehnung | -3001 bis -2981 (21 Blöcke) |
 | Z-Ausdehnung | 1331 bis 1350 (20 Blöcke) |
-| Kleinster Schritt | 1.491 Blöcke (Schritt 9.1) |
+| Kleinster Schritt | 1.492 Blöcke (Schritt 9.1) |
 | Mittlerer Schritt | 1.504 Blöcke |
 | Größter Schritt | 1.516 Blöcke (Schritt 9.2) |
 
@@ -30,20 +30,21 @@
 | Glatter Stein | `smooth_stone` | 19 | 0,6 % |
 | Polierter Andesit | `polished_andesite` | 8 | 0,3 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
+| Tuffstein | `tuff` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464120106` | Reihenhaus an Via Domenico Burchiello | 3.006 | 9.1–9.2 |
+| 1 | `w464120106` | Reihenhaus an Via Domenico Burchiello | 3.007 | 9.1–9.2 |
 | 2 | `w464120106_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1 | 9.2 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Reihenhaus an Via Domenico Burchiello – Teil 1/2 (Y 63–79)
+### Schritt 9.1 – Reihenhaus an Via Domenico Burchiello – Teil 1/2 (Y 59–76)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.491
+- **Y-Bereich:** 59 bis 76
+- **Blöcke:** 1.492
 - **Bauteile:** `w464120106`
 
 **Teileliste**
@@ -56,6 +57,7 @@
 | Graues Buntglas | `gray_stained_glass` | 56 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Polierter Andesit | `polished_andesite` | 8 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -73,9 +75,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Reihenhaus an Via Domenico Burchiello – Teil 2/2 (Y 80–95) & Reihenhaus an Via Domenico Burchiello: Innenausbau
+### Schritt 9.2 – Reihenhaus an Via Domenico Burchiello – Teil 2/2 (Y 77–92) & Reihenhaus an Via Domenico Burchiello: Innenausbau
 
-- **Y-Bereich:** 63 bis 95
+- **Y-Bereich:** 60 bis 92
 - **Blöcke:** 1.516
 - **Bauteile:** `w464120106`, `w464120106_innen`
 

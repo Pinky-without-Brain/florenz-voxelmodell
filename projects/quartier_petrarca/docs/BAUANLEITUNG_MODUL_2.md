@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.375 |
+| Blöcke | 15.373 |
 | Bauschritte | 10 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 76 bis 112 |
 | X-Ausdehnung | -3026 bis -2956 (71 Blöcke) |
 | Z-Ausdehnung | 1950 bis 1987 (38 Blöcke) |
 | Kleinster Schritt | 1.217 Blöcke (Schritt 2.9) |
-| Mittlerer Schritt | 1.538 Blöcke |
+| Mittlerer Schritt | 1.537 Blöcke |
 | Größter Schritt | 2.088 Blöcke (Schritt 2.10) |
 
 ## Gesamt-Stückliste
@@ -24,7 +24,7 @@
 | Glatter Sandstein | `smooth_sandstone` | 6.416 | 41,7 % |
 | Terrakotta | `terracotta` | 3.906 | 25,4 % |
 | Weißer Beton | `white_concrete` | 1.830 | 11,9 % |
-| Polierter Tuffstein | `polished_tuff` | 1.324 | 8,6 % |
+| Polierter Tuffstein | `polished_tuff` | 1.320 | 8,6 % |
 | Graues Buntglas | `gray_stained_glass` | 706 | 4,6 % |
 | Glatter Stein | `smooth_stone` | 379 | 2,5 % |
 | Fichtenholz-Bretter | `spruce_planks` | 314 | 2,0 % |
@@ -39,6 +39,7 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -46,27 +47,35 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 40 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 6 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w367126045` | Palazzo des Cinquecento an Via del Casone | 13.287 | 2.1–2.9 |
+| 1 | `w367126045` | Palazzo des Cinquecento an Via del Casone | 13.285 | 2.1–2.9 |
 | 2 | `w367126045_innen` | Palazzo des Cinquecento an Via del Casone: Innenausbau | 2.088 | 2.10 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Palazzo des Cinquecento an Via del Casone – Teil 1/9 (Y 63–63)
+### Schritt 2.1 – Palazzo des Cinquecento an Via del Casone – Teil 1/9 (Y 76–76)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.324
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 1.322
 - **Bauteile:** `w367126045`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.324 |
+| Polierter Tuffstein | `polished_tuff` | 1.320 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -84,9 +93,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Palazzo des Cinquecento an Via del Casone – Teil 2/9 (Y 64–68)
+### Schritt 2.2 – Palazzo des Cinquecento an Via del Casone – Teil 2/9 (Y 77–81)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.564
 - **Bauteile:** `w367126045`
 
@@ -117,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Palazzo des Cinquecento an Via del Casone – Teil 3/9 (Y 69–73)
+### Schritt 2.3 – Palazzo des Cinquecento an Via del Casone – Teil 3/9 (Y 82–86)
 
-- **Y-Bereich:** 69 bis 73
+- **Y-Bereich:** 82 bis 86
 - **Blöcke:** 1.600
 - **Bauteile:** `w367126045`
 
@@ -150,9 +159,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Palazzo des Cinquecento an Via del Casone – Teil 4/9 (Y 74–77)
+### Schritt 2.4 – Palazzo des Cinquecento an Via del Casone – Teil 4/9 (Y 87–90)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 87 bis 90
 - **Blöcke:** 1.276
 - **Bauteile:** `w367126045`
 
@@ -181,9 +190,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Palazzo des Cinquecento an Via del Casone – Teil 5/9 (Y 78–82)
+### Schritt 2.5 – Palazzo des Cinquecento an Via del Casone – Teil 5/9 (Y 91–95)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 91 bis 95
 - **Blöcke:** 1.575
 - **Bauteile:** `w367126045`
 
@@ -212,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.6 – Palazzo des Cinquecento an Via del Casone – Teil 6/9 (Y 83–87)
+### Schritt 2.6 – Palazzo des Cinquecento an Via del Casone – Teil 6/9 (Y 96–100)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 96 bis 100
 - **Blöcke:** 1.615
 - **Bauteile:** `w367126045`
 
@@ -244,9 +253,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.7 – Palazzo des Cinquecento an Via del Casone – Teil 7/9 (Y 88–91)
+### Schritt 2.7 – Palazzo des Cinquecento an Via del Casone – Teil 7/9 (Y 101–104)
 
-- **Y-Bereich:** 88 bis 91
+- **Y-Bereich:** 101 bis 104
 - **Blöcke:** 1.236
 - **Bauteile:** `w367126045`
 
@@ -275,9 +284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.8 – Palazzo des Cinquecento an Via del Casone – Teil 8/9 (Y 92–94)
+### Schritt 2.8 – Palazzo des Cinquecento an Via del Casone – Teil 8/9 (Y 105–107)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 105 bis 107
 - **Blöcke:** 1.880
 - **Bauteile:** `w367126045`
 
@@ -307,9 +316,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.9 – Palazzo des Cinquecento an Via del Casone – Teil 9/9 (Y 95–99)
+### Schritt 2.9 – Palazzo des Cinquecento an Via del Casone – Teil 9/9 (Y 108–112)
 
-- **Y-Bereich:** 95 bis 99
+- **Y-Bereich:** 108 bis 112
 - **Blöcke:** 1.217
 - **Bauteile:** `w367126045`
 
@@ -338,7 +347,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.10 – Palazzo des Cinquecento an Via del Casone: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 76 bis 97
 - **Blöcke:** 2.088
 - **Bauteile:** `w367126045_innen`
 

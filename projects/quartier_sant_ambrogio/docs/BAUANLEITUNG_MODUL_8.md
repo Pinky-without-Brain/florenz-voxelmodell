@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 2.107 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 64 bis 98 |
 | X-Ausdehnung | 1219 bis 1229 (11 Blöcke) |
 | Z-Ausdehnung | 222 bis 238 (17 Blöcke) |
 | Kleinster Schritt | 1.051 Blöcke (Schritt 8.2) |
@@ -40,9 +40,9 @@
 
 ## Bauschritte
 
-### Schritt 8.1 – Nebengebäude an Via di Mezzo – Teil 1/2 (Y 63–79)
+### Schritt 8.1 – Nebengebäude an Via di Mezzo – Teil 1/2 (Y 64–80)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 64 bis 80
 - **Blöcke:** 1.056
 - **Bauteile:** `w307276578`
 
@@ -73,9 +73,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Nebengebäude an Via di Mezzo – Teil 2/2 (Y 80–97) & Nebengebäude an Via di Mezzo: Innenausbau
+### Schritt 8.2 – Nebengebäude an Via di Mezzo – Teil 2/2 (Y 81–98) & Nebengebäude an Via di Mezzo: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 64 bis 98
 - **Blöcke:** 1.051
 - **Bauteile:** `w307276578`, `w307276578_innen`
 

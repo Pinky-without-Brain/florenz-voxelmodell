@@ -1,0 +1,13 @@
+{
+  "id": "badia_fiorentina",
+  "title": "Badia Fiorentina",
+  "type": "wahrzeichen",
+  "gebaeude": ["w249686037"],
+  "bodenY": 66,
+  "rahmen": { "ox": 77, "oz": 580, "thetaDeg": 0 },
+  "masken": {
+    "campanile": { "gebaeude": ["w249686038"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ponte_amerigo_vespucci",
+  "title": "Ponte Amerigo Vespucci",
+  "type": "wahrzeichen",
+  "gebaeude": [],
+  "flaechen": ["w168134458"],
+  "bodenY": 60,
+  "rahmen": { "ox": -2155, "oz": 180, "thetaDeg": 121.3 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

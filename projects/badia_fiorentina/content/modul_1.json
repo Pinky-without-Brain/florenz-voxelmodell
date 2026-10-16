@@ -1,0 +1,22 @@
+{
+  "module": 1,
+  "title": "Außenwände",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und die blinden Monoforen zur Via del Proconsolo",
+  "icon": "🧱",
+  "parts": {
+    "aussenwaende": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umschließt Saal, Nordarm und Presbyterium bis unter die Dächer; zur Via del Proconsolo zeichnen sich vier blinde, hohe Fenster ab. Im Nordarm liegt das Portal zur Via Dante (bis Y 76).",
+      "tip": "Außen Bruchstein, innen Putz.",
+      "caution": "Lass das Portal frei.",
+      "fact": "Arnolfo di Cambio drehte 1285 die Kirche: die Apsis lag damals an der Via del Proconsolo."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Hohe Fenster im Saal über den Dächern der Arme (Y 97 bis 102), kleinere Fenster in den Armen und ein Rundfenster in der Westwand.",
+      "tip": "Die Saalfenster liegen gleichmäßig verteilt.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die vier gotischen Monoforen zur Straße sind heute blind und passen nicht mehr zu den Fenstern innen."
+    }
+  }
+}

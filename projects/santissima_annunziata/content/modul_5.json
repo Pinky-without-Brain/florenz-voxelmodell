@@ -1,0 +1,29 @@
+{
+  "module": 5,
+  "title": "Decke und Dächer",
+  "subtitle": "Bautüte 5: Volterranos Holzdecke und die Dächer",
+  "icon": "🏠",
+  "parts": {
+    "decke": {
+      "title": "Holzdecke",
+      "description": "Über dem Schiff liegt eine flache Holzdecke aus Dunkler Eiche mit goldenem Raster auf Y 107, in der Mitte ein farbiges Feld.",
+      "tip": "Das Raster hat sechs Blöcke Abstand.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Die Decke entstand 1664 nach Volterranos Entwurf; er malte darauf die Himmelfahrt Mariens."
+    },
+    "daecher": {
+      "title": "Dächer",
+      "description": "Satteldach über dem Schiff (First Y 121), Pultdächer über den Kapellen und dem Kapellenkranz, alles mit Terrakotta gedeckt.",
+      "tip": "Von der Traufe zum First legen.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Von außen verschwindet die Kirche fast hinter Portikus und Kloster."
+    },
+    "schildwaende": {
+      "title": "Schildwände",
+      "description": "Wo Dächer verschieden hoch sind und am Übergang zur Kuppel schließen Schildwände aus Steinziegeln die Lücke.",
+      "tip": "Sie folgen der Dachneigung.",
+      "caution": "Keine Öffnungen.",
+      "fact": "So bleibt der Dachraum dicht."
+    }
+  }
+}

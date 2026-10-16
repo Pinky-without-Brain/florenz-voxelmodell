@@ -8,34 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 46.700 |
+| Blöcke | 46.102 |
 | Bauschritte | 28 |
-| Y-Bereich | 66 bis 109 |
+| Y-Bereich | 65 bis 108 |
 | X-Ausdehnung | -19 bis 58 (78 Blöcke) |
 | Z-Ausdehnung | 117 bis 199 (83 Blöcke) |
-| Kleinster Schritt | 757 Blöcke (Schritt 14.16) |
-| Mittlerer Schritt | 1.668 Blöcke |
-| Größter Schritt | 2.078 Blöcke (Schritt 14.20) |
+| Kleinster Schritt | 1.117 Blöcke (Schritt 14.28) |
+| Mittlerer Schritt | 1.647 Blöcke |
+| Größter Schritt | 1.999 Blöcke (Schritt 14.12) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 14.981 | 32,1 % |
-| Weißer Beton | `white_concrete` | 11.048 | 23,7 % |
-| Orange Keramik | `orange_terracotta` | 7.229 | 15,5 % |
-| Polierter Tuffstein | `polished_tuff` | 4.613 | 9,9 % |
-| Glatter Stein | `smooth_stone` | 2.233 | 4,8 % |
+| Terrakotta | `terracotta` | 14.986 | 32,5 % |
+| Weißer Beton | `white_concrete` | 11.134 | 24,2 % |
+| Orange Keramik | `orange_terracotta` | 7.229 | 15,7 % |
+| Polierter Tuffstein | `polished_tuff` | 4.709 | 10,2 % |
+| Glatter Stein | `smooth_stone` | 2.243 | 4,9 % |
 | Graues Buntglas | `gray_stained_glass` | 1.630 | 3,5 % |
 | Glatter Sandstein | `smooth_sandstone` | 1.477 | 3,2 % |
-| Tuffstein | `tuff` | 709 | 1,5 % |
-| Hellgrauer Beton | `light_gray_concrete` | 672 | 1,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 672 | 1,5 % |
 | Grüner Beton | `green_concrete` | 420 | 0,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 370 | 0,8 % |
 | Polierter Andesit | `polished_andesite` | 368 | 0,8 % |
-| Ziegelsteine | `bricks` | 348 | 0,7 % |
+| Ziegelsteine | `bricks` | 348 | 0,8 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 145 | 0,3 % |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 96 | 0,2 % |
 | Seelaterne | `sea_lantern` | 87 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 43 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 42 | 0,1 % |
@@ -46,13 +44,16 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 19 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 19 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Schwarzeichentreppe | `dark_oak_stairs` | 120 |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 96 |
 | Steintreppe | `stone_stairs` | 80 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -63,16 +64,17 @@
 | 2 | `w491889269_innen` | Reihenhaus an Piazza di San Benedetto: Innenausbau | 1.694 | 14.5 |
 | 3 | `w491889271` | Palazzo des Cinquecento an Via dello Studio | 13.571 | 14.6–14.13 |
 | 4 | `w491889271_innen` | Palazzo des Cinquecento an Via dello Studio: Innenausbau | 3.090 | 14.14–14.15 |
-| 5 | `w491889292` | Casa Sermanni | 14.358 | 14.16–14.23 |
+| 5 | `w491889292` | Casa Sermanni | 13.750 | 14.16–14.23 |
 | 6 | `w491889292_innen` | Casa Sermanni: Innenausbau | 3.079 | 14.24–14.25 |
 | 7 | `w491889294` | Reihenhaus an Via dei Bonizzi | 3.628 | 14.26–14.27 |
 | 8 | `w491889294_innen` | Reihenhaus an Via dei Bonizzi: Innenausbau | 1.107 | 14.28 |
+| 9 | `strassenschilder` | Straßenschilder | 10 | 14.28 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Reihenhaus an Piazza di San Benedetto – Teil 1/4 (Y 67–75)
+### Schritt 14.1 – Reihenhaus an Piazza di San Benedetto – Teil 1/4 (Y 66–74)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.540
 - **Bauteile:** `w491889269`
 
@@ -104,9 +106,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Piazza di San Benedetto – Teil 2/4 (Y 76–87)
+### Schritt 14.2 – Reihenhaus an Piazza di San Benedetto – Teil 2/4 (Y 75–86)
 
-- **Y-Bereich:** 76 bis 87
+- **Y-Bereich:** 75 bis 86
 - **Blöcke:** 1.572
 - **Bauteile:** `w491889269`
 
@@ -135,9 +137,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Reihenhaus an Piazza di San Benedetto – Teil 3/4 (Y 88–98)
+### Schritt 14.3 – Reihenhaus an Piazza di San Benedetto – Teil 3/4 (Y 87–97)
 
-- **Y-Bereich:** 88 bis 98
+- **Y-Bereich:** 87 bis 97
 - **Blöcke:** 1.476
 - **Bauteile:** `w491889269`
 
@@ -166,9 +168,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Reihenhaus an Piazza di San Benedetto – Teil 4/4 (Y 99–109)
+### Schritt 14.4 – Reihenhaus an Piazza di San Benedetto – Teil 4/4 (Y 98–108)
 
-- **Y-Bereich:** 99 bis 109
+- **Y-Bereich:** 98 bis 108
 - **Blöcke:** 1.585
 - **Bauteile:** `w491889269`
 
@@ -201,7 +203,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.5 – Reihenhaus an Piazza di San Benedetto: Innenausbau
 
-- **Y-Bereich:** 67 bis 98
+- **Y-Bereich:** 66 bis 97
 - **Blöcke:** 1.694
 - **Bauteile:** `w491889269_innen`
 
@@ -580,24 +582,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.16 – Casa Sermanni – Teil 1/8 (Y 66–66)
+### Schritt 14.16 – Casa Sermanni – Teil 1/8 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
-- **Blöcke:** 757
+- **Y-Bereich:** 65 bis 65
+- **Blöcke:** 1.798
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 709 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 48 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 48 |
+| Polierter Tuffstein | `polished_tuff` | 1.798 |
 
 **Beschreibung**
 
@@ -615,28 +610,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.17 – Casa Sermanni – Teil 2/8 (Y 67–68)
+### Schritt 14.17 – Casa Sermanni – Teil 2/8 (Y 66–71)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 2.015
+- **Y-Bereich:** 66 bis 71
+- **Blöcke:** 1.655
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.702 |
-| Weißer Beton | `white_concrete` | 200 |
-| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 48 |
-| Graues Buntglas | `gray_stained_glass` | 39 |
-| Glatter Stein | `smooth_stone` | 16 |
-| Polierter Andesit | `polished_andesite` | 10 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 48 |
+| Weißer Beton | `white_concrete` | 1.070 |
+| Graues Buntglas | `gray_stained_glass` | 308 |
+| Glatter Stein | `smooth_stone` | 205 |
+| Polierter Andesit | `polished_andesite` | 42 |
+| Grüner Beton | `green_concrete` | 30 |
 
 **Beschreibung**
 
@@ -654,52 +642,84 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.18 – Casa Sermanni – Teil 3/8 (Y 69–75)
+### Schritt 14.18 – Casa Sermanni – Teil 3/8 (Y 72–77)
 
-- **Y-Bereich:** 69 bis 75
-- **Blöcke:** 1.816
+- **Y-Bereich:** 72 bis 77
+- **Blöcke:** 1.770
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.062 |
-| Graues Buntglas | `gray_stained_glass` | 401 |
-| Glatter Stein | `smooth_stone` | 257 |
-| Grüner Beton | `green_concrete` | 50 |
-| Polierter Andesit | `polished_andesite` | 46 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.19 – Casa Sermanni – Teil 4/8 (Y 76–81)
-
-- **Y-Bereich:** 76 bis 81
-- **Blöcke:** 1.899
-- **Bauteile:** `w491889292`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.336 |
-| Glatter Stein | `smooth_stone` | 431 |
-| Graues Buntglas | `gray_stained_glass` | 74 |
+| Weißer Beton | `white_concrete` | 1.210 |
+| Glatter Stein | `smooth_stone` | 346 |
+| Graues Buntglas | `gray_stained_glass` | 162 |
 | Polierter Andesit | `polished_andesite` | 32 |
+| Grüner Beton | `green_concrete` | 20 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.19 – Casa Sermanni – Teil 4/8 (Y 78–83)
+
+- **Y-Bereich:** 78 bis 83
+- **Blöcke:** 1.753
+- **Bauteile:** `w491889292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.072 |
+| Glatter Stein | `smooth_stone` | 289 |
+| Graues Buntglas | `gray_stained_glass` | 220 |
+| Grüner Beton | `green_concrete` | 130 |
+| Polierter Andesit | `polished_andesite` | 42 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 14.20 – Casa Sermanni – Teil 5/8 (Y 84–88)
+
+- **Y-Bereich:** 84 bis 88
+- **Blöcke:** 1.607
+- **Bauteile:** `w491889292`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 1.108 |
+| Glatter Stein | `smooth_stone` | 395 |
+| Graues Buntglas | `gray_stained_glass` | 44 |
+| Polierter Andesit | `polished_andesite` | 34 |
 | Grüner Beton | `green_concrete` | 26 |
 
 **Beschreibung**
@@ -718,21 +738,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.20 – Casa Sermanni – Teil 5/8 (Y 82–88)
+### Schritt 14.21 – Casa Sermanni – Teil 6/8 (Y 89–94)
 
-- **Y-Bereich:** 82 bis 88
-- **Blöcke:** 2.078
+- **Y-Bereich:** 89 bis 94
+- **Blöcke:** 1.907
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.372 |
-| Glatter Stein | `smooth_stone` | 378 |
+| Weißer Beton | `white_concrete` | 1.220 |
+| Glatter Stein | `smooth_stone` | 365 |
 | Graues Buntglas | `gray_stained_glass` | 176 |
 | Grüner Beton | `green_concrete` | 104 |
-| Polierter Andesit | `polished_andesite` | 48 |
+| Polierter Andesit | `polished_andesite` | 42 |
 
 **Beschreibung**
 
@@ -750,21 +770,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.21 – Casa Sermanni – Teil 6/8 (Y 89–95)
+### Schritt 14.22 – Casa Sermanni – Teil 7/8 (Y 95–96)
 
-- **Y-Bereich:** 89 bis 95
-- **Blöcke:** 2.075
+- **Y-Bereich:** 95 bis 96
+- **Blöcke:** 1.553
 - **Bauteile:** `w491889292`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.312 |
-| Glatter Stein | `smooth_stone` | 367 |
-| Graues Buntglas | `gray_stained_glass` | 220 |
-| Grüner Beton | `green_concrete` | 130 |
-| Polierter Andesit | `polished_andesite` | 46 |
+| Terrakotta | `terracotta` | 926 |
+| Weißer Beton | `white_concrete` | 318 |
+| Glatter Stein | `smooth_stone` | 305 |
+| Polierter Andesit | `polished_andesite` | 4 |
 
 **Beschreibung**
 
@@ -782,40 +801,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.22 – Casa Sermanni – Teil 7/8 (Y 96–98)
+### Schritt 14.23 – Casa Sermanni – Teil 8/8 (Y 97–103)
 
-- **Y-Bereich:** 96 bis 98
-- **Blöcke:** 2.011
-- **Bauteile:** `w491889292`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 921 |
-| Weißer Beton | `white_concrete` | 630 |
-| Glatter Stein | `smooth_stone` | 446 |
-| Polierter Andesit | `polished_andesite` | 14 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: recherche:https://it.wikipedia.org/wiki/Palazzo_dei_Canonici_(Firenze), Angaben geschätzt (Sicherheit 0,35).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 14.23 – Casa Sermanni – Teil 8/8 (Y 99–105)
-
-- **Y-Bereich:** 99 bis 105
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.707
 - **Bauteile:** `w491889292`
 
@@ -842,9 +830,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.24 – Casa Sermanni: Innenausbau – Teil 1/2 (Y 67–78)
+### Schritt 14.24 – Casa Sermanni: Innenausbau – Teil 1/2 (Y 65–76)
 
-- **Y-Bereich:** 67 bis 78
+- **Y-Bereich:** 65 bis 76
 - **Blöcke:** 1.542
 - **Bauteile:** `w491889292_innen`
 
@@ -884,9 +872,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.25 – Casa Sermanni: Innenausbau – Teil 2/2 (Y 79–88)
+### Schritt 14.25 – Casa Sermanni: Innenausbau – Teil 2/2 (Y 77–86)
 
-- **Y-Bereich:** 79 bis 88
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.537
 - **Bauteile:** `w491889292_innen`
 
@@ -993,11 +981,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.28 – Reihenhaus an Via dei Bonizzi: Innenausbau
+### Schritt 14.28 – Reihenhaus an Via dei Bonizzi: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 67 bis 84
-- **Blöcke:** 1.107
-- **Bauteile:** `w491889294_innen`
+- **Blöcke:** 1.117
+- **Bauteile:** `w491889294_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1010,6 +998,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -1021,16 +1013,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

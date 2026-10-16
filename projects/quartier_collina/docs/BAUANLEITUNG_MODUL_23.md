@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 3.121 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 187 bis 222 |
 | X-Ausdehnung | -388 bis -368 (21 Blöcke) |
 | Z-Ausdehnung | 2444 bis 2463 (20 Blöcke) |
 | Kleinster Schritt | 1.514 Blöcke (Schritt 23.1) |
@@ -40,9 +40,9 @@
 
 ## Bauschritte
 
-### Schritt 23.1 – Reihenhaus an Via di San Leonardo – Teil 1/2 (Y 63–79)
+### Schritt 23.1 – Reihenhaus an Via di San Leonardo – Teil 1/2 (Y 187–203)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 187 bis 203
 - **Blöcke:** 1.514
 - **Bauteile:** `w475937092`
 
@@ -72,9 +72,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.2 – Reihenhaus an Via di San Leonardo – Teil 2/2 (Y 80–98) & Reihenhaus an Via di San Leonardo: Innenausbau
+### Schritt 23.2 – Reihenhaus an Via di San Leonardo – Teil 2/2 (Y 204–222) & Reihenhaus an Via di San Leonardo: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 187 bis 222
 - **Blöcke:** 1.607
 - **Bauteile:** `w475937092`, `w475937092_innen`
 

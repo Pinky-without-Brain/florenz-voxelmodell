@@ -8,58 +8,58 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 126.606 |
-| Bauschritte | 76 |
-| Y-Bereich | 63 bis 107 |
+| Blöcke | 132.820 |
+| Bauschritte | 80 |
+| Y-Bereich | 51 bis 102 |
 | X-Ausdehnung | -2181 bis -1934 (248 Blöcke) |
 | Z-Ausdehnung | -1168 bis -988 (181 Blöcke) |
 | Kleinster Schritt | 688 Blöcke (Schritt 36.22) |
-| Mittlerer Schritt | 1.666 Blöcke |
-| Größter Schritt | 2.091 Blöcke (Schritt 36.41) |
+| Mittlerer Schritt | 1.660 Blöcke |
+| Größter Schritt | 2.091 Blöcke (Schritt 36.45) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 42.366 | 33,5 % |
-| Polierter Tuffstein | `polished_tuff` | 12.810 | 10,1 % |
-| Polierter Andesit | `polished_andesite` | 10.999 | 8,7 % |
-| Rosa Keramik | `pink_terracotta` | 10.502 | 8,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 9.583 | 7,6 % |
-| Tuffstein | `tuff` | 9.414 | 7,4 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.635 | 5,2 % |
-| Glatter Stein | `smooth_stone` | 5.008 | 4,0 % |
-| Weißer Beton | `white_concrete` | 4.531 | 3,6 % |
-| Endsteinziegel | `end_stone_bricks` | 4.329 | 3,4 % |
-| Orange Keramik | `orange_terracotta` | 4.080 | 3,2 % |
-| Graues Buntglas | `gray_stained_glass` | 2.353 | 1,9 % |
+| Terrakotta | `terracotta` | 42.366 | 31,9 % |
+| Tuffstein | `tuff` | 15.610 | 11,8 % |
+| Polierter Tuffstein | `polished_tuff` | 12.810 | 9,6 % |
+| Polierter Andesit | `polished_andesite` | 10.999 | 8,3 % |
+| Rosa Keramik | `pink_terracotta` | 10.502 | 7,9 % |
+| Hellgrauer Beton | `light_gray_concrete` | 9.583 | 7,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.635 | 5,0 % |
+| Glatter Stein | `smooth_stone` | 5.019 | 3,8 % |
+| Weißer Beton | `white_concrete` | 4.531 | 3,4 % |
+| Endsteinziegel | `end_stone_bricks` | 4.329 | 3,3 % |
+| Orange Keramik | `orange_terracotta` | 4.103 | 3,1 % |
+| Graues Buntglas | `gray_stained_glass` | 2.353 | 1,8 % |
 | Tuffsteinziegel | `tuff_bricks` | 1.429 | 1,1 % |
 | Ziegelsteine | `bricks` | 748 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 454 | 0,4 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 452 | 0,3 % |
 | Fichtenholz-Bretter | `spruce_planks` | 377 | 0,3 % |
 | Grüner Beton | `green_concrete` | 293 | 0,2 % |
 | Seelaterne | `sea_lantern` | 219 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 121 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 111 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 64 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 56 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 53 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 49 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 11 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 11 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 120 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 110 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 60 | 0,0 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 60 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 52 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 48 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 334 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 330 |
 | Steintreppe | `stone_stairs` | 120 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443083457` | Reihenhaus an Via Jacopo da Diacceto | 9.357 | 36.1–36.5 |
+| 1 | `w443083457` | Reihenhaus an Via Jacopo da Diacceto | 9.388 | 36.1–36.5 |
 | 2 | `w443083457_innen` | Reihenhaus an Via Jacopo da Diacceto: Innenausbau | 2.332 | 36.6–36.7 |
 | 3 | `w443083462` | Reihenhaus an Via Jacopo da Diacceto | 8.292 | 36.8–36.12 |
 | 4 | `w443083462_innen` | Reihenhaus an Via Jacopo da Diacceto: Innenausbau | 1.680 | 36.13 |
@@ -69,23 +69,23 @@
 | 8 | `w443083483_innen` | Haus w443083483: Innenausbau | 688 | 36.22 |
 | 9 | `w443083484` | Palazzo des Cinquecento an Via Jacopo da Diacceto | 10.748 | 36.23–36.28 |
 | 10 | `w443083484_innen` | Palazzo des Cinquecento an Via Jacopo da Diacceto: Innenausbau | 1.833 | 36.29 |
-| 11 | `w443083490` | Renaissance-Palazzo an Via Jacopo da Diacceto | 25.648 | 36.30–36.43 |
-| 12 | `w443083490_innen` | Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau | 7.709 | 36.44–36.47 |
-| 13 | `w443083494` | Reihenhaus an Via Jacopo da Diacceto | 6.411 | 36.48–36.51 |
-| 14 | `w443083494_innen` | Reihenhaus an Via Jacopo da Diacceto: Innenausbau | 2.886 | 36.52–36.53 |
-| 15 | `w443083497` | Reihenhaus an Via Jacopo da Diacceto | 7.248 | 36.54–36.57 |
-| 16 | `w443083497_innen` | Reihenhaus an Via Jacopo da Diacceto: Innenausbau | 3.515 | 36.58–36.60 |
-| 17 | `w443083519` | Renaissance-Palazzo an Via Jacopo da Diacceto | 14.126 | 36.61–36.69 |
-| 18 | `w443083519_innen` | Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau | 3.116 | 36.70–36.71 |
-| 19 | `w443083526` | Haus w443083526 | 6.375 | 36.72–36.75 |
-| 20 | `w443083526_innen` | Haus w443083526: Innenausbau | 1.101 | 36.76 |
+| 11 | `w443083490` | Renaissance-Palazzo an Via Jacopo da Diacceto | 31.567 | 36.30–36.47 |
+| 12 | `w443083490_innen` | Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau | 7.709 | 36.48–36.51 |
+| 13 | `w443083494` | Reihenhaus an Via Jacopo da Diacceto | 6.411 | 36.52–36.55 |
+| 14 | `w443083494_innen` | Reihenhaus an Via Jacopo da Diacceto: Innenausbau | 2.886 | 36.56–36.57 |
+| 15 | `w443083497` | Reihenhaus an Via Jacopo da Diacceto | 7.248 | 36.58–36.61 |
+| 16 | `w443083497_innen` | Reihenhaus an Via Jacopo da Diacceto: Innenausbau | 3.515 | 36.62–36.64 |
+| 17 | `w443083519` | Renaissance-Palazzo an Via Jacopo da Diacceto | 14.383 | 36.65–36.73 |
+| 18 | `w443083519_innen` | Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau | 3.105 | 36.74–36.75 |
+| 19 | `w443083526` | Haus w443083526 | 6.400 | 36.76–36.79 |
+| 20 | `w443083526_innen` | Haus w443083526: Innenausbau | 1.094 | 36.80 |
 
 ## Bauschritte
 
-### Schritt 36.1 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/5 (Y 63–67)
+### Schritt 36.1 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/5 (Y 57–62)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.886
+- **Y-Bereich:** 57 bis 62
+- **Blöcke:** 1.917
 - **Bauteile:** `w443083457`
 
 **Teileliste**
@@ -94,6 +94,7 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 979 |
 | Gelbe Keramik | `yellow_terracotta` | 876 |
+| Tuffstein | `tuff` | 31 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Glatter Stein | `smooth_stone` | 8 |
 | Grüner Beton | `green_concrete` | 7 |
@@ -114,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.2 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/5 (Y 68–75)
+### Schritt 36.2 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/5 (Y 63–70)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.850
 - **Bauteile:** `w443083457`
 
@@ -145,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.3 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/5 (Y 76–83)
+### Schritt 36.3 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/5 (Y 71–78)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.838
 - **Bauteile:** `w443083457`
 
@@ -175,9 +176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.4 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/5 (Y 84–91)
+### Schritt 36.4 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/5 (Y 79–86)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 79 bis 86
 - **Blöcke:** 1.848
 - **Bauteile:** `w443083457`
 
@@ -205,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.5 – Reihenhaus an Via Jacopo da Diacceto – Teil 5/5 (Y 92–100)
+### Schritt 36.5 – Reihenhaus an Via Jacopo da Diacceto – Teil 5/5 (Y 87–95)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.935
 - **Bauteile:** `w443083457`
 
@@ -235,9 +236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.6 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 36.6 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 818
 - **Bauteile:** `w443083457_innen`
 
@@ -273,9 +274,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.7 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 36.7 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 2/2 (Y 74–81)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.514
 - **Bauteile:** `w443083457_innen`
 
@@ -311,9 +312,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.8 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/5 (Y 63–67)
+### Schritt 36.8 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/5 (Y 57–61)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 57 bis 61
 - **Blöcke:** 1.573
 - **Bauteile:** `w443083462`
 
@@ -342,9 +343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.9 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/5 (Y 68–75)
+### Schritt 36.9 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/5 (Y 62–69)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 62 bis 69
 - **Blöcke:** 1.693
 - **Bauteile:** `w443083462`
 
@@ -372,9 +373,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.10 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/5 (Y 76–83)
+### Schritt 36.10 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/5 (Y 70–77)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.685
 - **Bauteile:** `w443083462`
 
@@ -402,9 +403,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.11 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/5 (Y 84–91)
+### Schritt 36.11 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/5 (Y 78–85)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.685
 - **Bauteile:** `w443083462`
 
@@ -432,9 +433,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.12 – Reihenhaus an Via Jacopo da Diacceto – Teil 5/5 (Y 92–100)
+### Schritt 36.12 – Reihenhaus an Via Jacopo da Diacceto – Teil 5/5 (Y 86–94)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.656
 - **Bauteile:** `w443083462`
 
@@ -466,7 +467,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.13 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 57 bis 80
 - **Blöcke:** 1.680
 - **Bauteile:** `w443083462_innen`
 
@@ -502,9 +503,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.14 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/4 (Y 63–69)
+### Schritt 36.14 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/4 (Y 58–64)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 58 bis 64
 - **Blöcke:** 1.723
 - **Bauteile:** `w443083481`
 
@@ -533,9 +534,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.15 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/4 (Y 70–79)
+### Schritt 36.15 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/4 (Y 65–74)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.725
 - **Bauteile:** `w443083481`
 
@@ -563,9 +564,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.16 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/4 (Y 80–88)
+### Schritt 36.16 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/4 (Y 75–83)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.555
 - **Bauteile:** `w443083481`
 
@@ -593,9 +594,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.17 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/4 (Y 89–101)
+### Schritt 36.17 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/4 (Y 84–96)
 
-- **Y-Bereich:** 89 bis 101
+- **Y-Bereich:** 84 bis 96
 - **Blöcke:** 1.766
 - **Bauteile:** `w443083481`
 
@@ -627,7 +628,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.18 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 58 bis 81
 - **Blöcke:** 1.704
 - **Bauteile:** `w443083481_innen`
 
@@ -663,9 +664,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.19 – Haus w443083483 – Teil 1/3 (Y 63–73)
+### Schritt 36.19 – Haus w443083483 – Teil 1/3 (Y 57–67)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 57 bis 67
 - **Blöcke:** 1.726
 - **Bauteile:** `w443083483`
 
@@ -695,9 +696,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.20 – Haus w443083483 – Teil 2/3 (Y 74–85)
+### Schritt 36.20 – Haus w443083483 – Teil 2/3 (Y 68–79)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.680
 - **Bauteile:** `w443083483`
 
@@ -725,9 +726,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.21 – Haus w443083483 – Teil 3/3 (Y 86–98)
+### Schritt 36.21 – Haus w443083483 – Teil 3/3 (Y 80–92)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 80 bis 92
 - **Blöcke:** 1.662
 - **Bauteile:** `w443083483`
 
@@ -759,7 +760,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.22 – Haus w443083483: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 57 bis 80
 - **Blöcke:** 688
 - **Bauteile:** `w443083483_innen`
 
@@ -795,9 +796,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.23 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 1/6 (Y 63–65)
+### Schritt 36.23 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 1/6 (Y 57–59)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 57 bis 59
 - **Blöcke:** 1.674
 - **Bauteile:** `w443083484`
 
@@ -827,9 +828,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.24 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 2/6 (Y 66–72)
+### Schritt 36.24 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 2/6 (Y 60–66)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.861
 - **Bauteile:** `w443083484`
 
@@ -859,9 +860,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.25 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 3/6 (Y 73–79)
+### Schritt 36.25 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 3/6 (Y 67–73)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.856
 - **Bauteile:** `w443083484`
 
@@ -890,9 +891,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.26 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 4/6 (Y 80–86)
+### Schritt 36.26 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 4/6 (Y 74–80)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.862
 - **Bauteile:** `w443083484`
 
@@ -921,9 +922,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.27 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 5/6 (Y 87–92)
+### Schritt 36.27 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 5/6 (Y 81–86)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.635
 - **Bauteile:** `w443083484`
 
@@ -952,9 +953,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.28 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 6/6 (Y 93–101)
+### Schritt 36.28 – Palazzo des Cinquecento an Via Jacopo da Diacceto – Teil 6/6 (Y 87–95)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.860
 - **Bauteile:** `w443083484`
 
@@ -985,7 +986,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 36.29 – Palazzo des Cinquecento an Via Jacopo da Diacceto: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 57 bis 78
 - **Blöcke:** 1.833
 - **Bauteile:** `w443083484_innen`
 
@@ -1027,9 +1028,121 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.30 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 1/14 (Y 63–63)
+### Schritt 36.30 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 1/18 (Y 51–55)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 51 bis 55
+- **Blöcke:** 2.058
+- **Bauteile:** `w443083490`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 2.058 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.31 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 2/18 (Y 56–56)
+
+- **Y-Bereich:** 56 bis 56
+- **Blöcke:** 1.489
+- **Bauteile:** `w443083490`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.489 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.32 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 3/18 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.198
+- **Bauteile:** `w443083490`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.198 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.33 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 4/18 (Y 57–57)
+
+- **Y-Bereich:** 57 bis 57
+- **Blöcke:** 1.174
+- **Bauteile:** `w443083490`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.174 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.34 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 5/18 (Y 58–58)
+
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.391
 - **Bauteile:** `w443083490`
 
@@ -1055,9 +1168,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.31 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 2/14 (Y 63–63)
+### Schritt 36.35 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 6/18 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 1.424
 - **Bauteile:** `w443083490`
 
@@ -1083,9 +1196,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.32 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 3/14 (Y 63–64)
+### Schritt 36.36 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 7/18 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 58 bis 59
 - **Blöcke:** 1.933
 - **Bauteile:** `w443083490`
 
@@ -1115,9 +1228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.33 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 4/14 (Y 65–68)
+### Schritt 36.37 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 8/18 (Y 60–63)
 
-- **Y-Bereich:** 65 bis 68
+- **Y-Bereich:** 60 bis 63
 - **Blöcke:** 1.899
 - **Bauteile:** `w443083490`
 
@@ -1147,9 +1260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.34 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 5/14 (Y 69–72)
+### Schritt 36.38 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 9/18 (Y 64–67)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.875
 - **Bauteile:** `w443083490`
 
@@ -1179,9 +1292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.35 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 6/14 (Y 73–76)
+### Schritt 36.39 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 10/18 (Y 68–71)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 2.070
 - **Bauteile:** `w443083490`
 
@@ -1210,9 +1323,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.36 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 7/14 (Y 77–80)
+### Schritt 36.40 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 11/18 (Y 72–75)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.852
 - **Bauteile:** `w443083490`
 
@@ -1241,9 +1354,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.37 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 8/14 (Y 81–84)
+### Schritt 36.41 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 12/18 (Y 76–79)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 2.025
 - **Bauteile:** `w443083490`
 
@@ -1272,9 +1385,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.38 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 9/14 (Y 85–88)
+### Schritt 36.42 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 13/18 (Y 80–83)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.897
 - **Bauteile:** `w443083490`
 
@@ -1303,9 +1416,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.39 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 10/14 (Y 89–91)
+### Schritt 36.43 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 14/18 (Y 84–86)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.534
 - **Bauteile:** `w443083490`
 
@@ -1334,9 +1447,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.40 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 11/14 (Y 92–93)
+### Schritt 36.44 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 15/18 (Y 87–88)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.707
 - **Bauteile:** `w443083490`
 
@@ -1364,9 +1477,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.41 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 12/14 (Y 94–95)
+### Schritt 36.45 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 16/18 (Y 89–90)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 2.091
 - **Bauteile:** `w443083490`
 
@@ -1392,9 +1505,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.42 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 13/14 (Y 96–98)
+### Schritt 36.46 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 17/18 (Y 91–93)
 
-- **Y-Bereich:** 96 bis 98
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.913
 - **Bauteile:** `w443083490`
 
@@ -1421,9 +1534,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.43 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 14/14 (Y 99–107)
+### Schritt 36.47 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 18/18 (Y 94–102)
 
-- **Y-Bereich:** 99 bis 107
+- **Y-Bereich:** 94 bis 102
 - **Blöcke:** 2.037
 - **Bauteile:** `w443083490`
 
@@ -1450,9 +1563,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.44 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 36.48 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 1/4 (Y 58–69)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 58 bis 69
 - **Blöcke:** 1.932
 - **Bauteile:** `w443083490_innen`
 
@@ -1488,9 +1601,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.45 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 36.49 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 2/4 (Y 69–69)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.936
 - **Bauteile:** `w443083490_innen`
 
@@ -1524,9 +1637,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.46 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 36.50 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 3/4 (Y 70–78)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 70 bis 78
 - **Blöcke:** 1.905
 - **Bauteile:** `w443083490_innen`
 
@@ -1562,9 +1675,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.47 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 4/4 (Y 83–83)
+### Schritt 36.51 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 4/4 (Y 78–78)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.936
 - **Bauteile:** `w443083490_innen`
 
@@ -1598,9 +1711,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.48 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/4 (Y 63–68)
+### Schritt 36.52 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/4 (Y 58–63)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 58 bis 63
 - **Blöcke:** 1.665
 - **Bauteile:** `w443083494`
 
@@ -1629,9 +1742,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.49 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/4 (Y 69–80)
+### Schritt 36.53 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/4 (Y 64–75)
 
-- **Y-Bereich:** 69 bis 80
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 1.533
 - **Bauteile:** `w443083494`
 
@@ -1658,9 +1771,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.50 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/4 (Y 81–92)
+### Schritt 36.54 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/4 (Y 76–87)
 
-- **Y-Bereich:** 81 bis 92
+- **Y-Bereich:** 76 bis 87
 - **Blöcke:** 1.541
 - **Bauteile:** `w443083494`
 
@@ -1688,9 +1801,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.51 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/4 (Y 93–102)
+### Schritt 36.55 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/4 (Y 88–97)
 
-- **Y-Bereich:** 93 bis 102
+- **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.672
 - **Bauteile:** `w443083494`
 
@@ -1719,9 +1832,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.52 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 36.56 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 1.004
 - **Bauteile:** `w443083494_innen`
 
@@ -1757,9 +1870,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.53 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 36.57 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 2/2 (Y 74–82)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.882
 - **Bauteile:** `w443083494_innen`
 
@@ -1797,9 +1910,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.54 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/4 (Y 63–67)
+### Schritt 36.58 – Reihenhaus an Via Jacopo da Diacceto – Teil 1/4 (Y 57–61)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 57 bis 61
 - **Blöcke:** 1.815
 - **Bauteile:** `w443083497`
 
@@ -1830,9 +1943,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.55 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/4 (Y 68–80)
+### Schritt 36.59 – Reihenhaus an Via Jacopo da Diacceto – Teil 2/4 (Y 62–74)
 
-- **Y-Bereich:** 68 bis 80
+- **Y-Bereich:** 62 bis 74
 - **Blöcke:** 1.809
 - **Bauteile:** `w443083497`
 
@@ -1862,9 +1975,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.56 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/4 (Y 81–93)
+### Schritt 36.60 – Reihenhaus an Via Jacopo da Diacceto – Teil 3/4 (Y 75–87)
 
-- **Y-Bereich:** 81 bis 93
+- **Y-Bereich:** 75 bis 87
 - **Blöcke:** 1.884
 - **Bauteile:** `w443083497`
 
@@ -1893,9 +2006,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.57 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/4 (Y 94–102)
+### Schritt 36.61 – Reihenhaus an Via Jacopo da Diacceto – Teil 4/4 (Y 88–96)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.740
 - **Bauteile:** `w443083497`
 
@@ -1922,9 +2035,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.58 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 36.62 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 1/3 (Y 57–66)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 57 bis 66
 - **Blöcke:** 1.182
 - **Bauteile:** `w443083497_innen`
 
@@ -1962,9 +2075,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.59 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 36.63 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 2/3 (Y 67–73)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.167
 - **Bauteile:** `w443083497_innen`
 
@@ -2002,9 +2115,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.60 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 3/3 (Y 80–86)
+### Schritt 36.64 – Reihenhaus an Via Jacopo da Diacceto: Innenausbau – Teil 3/3 (Y 74–80)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.166
 - **Bauteile:** `w443083497_innen`
 
@@ -2042,10 +2155,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.61 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 1/9 (Y 63–63)
+### Schritt 36.65 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 1/9 (Y 55–56)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.807
+- **Y-Bereich:** 55 bis 56
+- **Blöcke:** 1.870
 - **Bauteile:** `w443083519`
 
 **Teileliste**
@@ -2053,6 +2166,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.807 |
+| Tuffstein | `tuff` | 63 |
 
 **Beschreibung**
 
@@ -2070,18 +2184,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.62 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 2/9 (Y 64–67)
+### Schritt 36.66 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 2/9 (Y 57–60)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.197
+- **Y-Bereich:** 57 bis 60
+- **Blöcke:** 1.380
 - **Bauteile:** `w443083519`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Tuffstein | `tuff` | 614 |
 | Polierter Andesit | `polished_andesite` | 438 |
-| Tuffstein | `tuff` | 431 |
 | Tuffsteinziegel | `tuff_bricks` | 288 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 | Glatter Stein | `smooth_stone` | 16 |
@@ -2102,113 +2216,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.63 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 3/9 (Y 68–73)
+### Schritt 36.67 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 3/9 (Y 61–65)
 
-- **Y-Bereich:** 68 bis 73
-- **Blöcke:** 1.778
+- **Y-Bereich:** 61 bis 65
+- **Blöcke:** 1.473
 - **Bauteile:** `w443083519`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 698 |
-| Tuffstein | `tuff` | 626 |
-| Tuffsteinziegel | `tuff_bricks` | 334 |
+| Polierter Andesit | `polished_andesite` | 599 |
+| Tuffstein | `tuff` | 513 |
+| Tuffsteinziegel | `tuff_bricks` | 243 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
-| Glatter Stein | `smooth_stone` | 24 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.64 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 4/9 (Y 74–78)
-
-- **Y-Bereich:** 74 bis 78
-- **Blöcke:** 1.602
-- **Bauteile:** `w443083519`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 719 |
-| Tuffstein | `tuff` | 537 |
-| Glatter Stein | `smooth_stone` | 296 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.65 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 5/9 (Y 79–83)
-
-- **Y-Bereich:** 79 bis 83
-- **Blöcke:** 1.571
-- **Bauteile:** `w443083519`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 677 |
-| Tuffstein | `tuff` | 523 |
-| Glatter Stein | `smooth_stone` | 296 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
-
-**Beschreibung**
-
-Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 36.66 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 6/9 (Y 84–88)
-
-- **Y-Bereich:** 84 bis 88
-- **Blöcke:** 1.500
-- **Bauteile:** `w443083519`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 880 |
-| Tuffstein | `tuff` | 523 |
-| Graues Buntglas | `gray_stained_glass` | 75 |
 | Glatter Stein | `smooth_stone` | 22 |
 
 **Beschreibung**
@@ -2227,10 +2248,104 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.67 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 7/9 (Y 89–92)
+### Schritt 36.68 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 4/9 (Y 66–70)
 
-- **Y-Bereich:** 89 bis 92
-- **Blöcke:** 1.487
+- **Y-Bereich:** 66 bis 70
+- **Blöcke:** 1.616
+- **Bauteile:** `w443083519`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 657 |
+| Tuffstein | `tuff` | 551 |
+| Glatter Stein | `smooth_stone` | 292 |
+| Tuffsteinziegel | `tuff_bricks` | 91 |
+| Graues Buntglas | `gray_stained_glass` | 25 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.69 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 5/9 (Y 71–75)
+
+- **Y-Bereich:** 71 bis 75
+- **Blöcke:** 1.469
+- **Bauteile:** `w443083519`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 838 |
+| Tuffstein | `tuff` | 509 |
+| Graues Buntglas | `gray_stained_glass` | 100 |
+| Glatter Stein | `smooth_stone` | 22 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.70 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 6/9 (Y 76–81)
+
+- **Y-Bereich:** 76 bis 81
+- **Blöcke:** 1.893
+- **Bauteile:** `w443083519`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Andesit | `polished_andesite` | 880 |
+| Tuffstein | `tuff` | 636 |
+| Glatter Stein | `smooth_stone` | 302 |
+| Graues Buntglas | `gray_stained_glass` | 75 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 36.71 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 7/9 (Y 82–85)
+
+- **Y-Bereich:** 82 bis 85
+- **Blöcke:** 1.493
 - **Bauteile:** `w443083519`
 
 **Teileliste**
@@ -2239,7 +2354,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 702 |
 | Tuffstein | `tuff` | 424 |
-| Glatter Stein | `smooth_stone` | 311 |
+| Glatter Stein | `smooth_stone` | 317 |
 | Graues Buntglas | `gray_stained_glass` | 50 |
 
 **Beschreibung**
@@ -2258,10 +2373,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.68 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 8/9 (Y 93–94)
+### Schritt 36.72 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 8/9 (Y 86–87)
 
-- **Y-Bereich:** 93 bis 94
-- **Blöcke:** 1.788
+- **Y-Bereich:** 86 bis 87
+- **Blöcke:** 1.793
 - **Bauteile:** `w443083519`
 
 **Teileliste**
@@ -2269,7 +2384,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.163 |
-| Glatter Stein | `smooth_stone` | 322 |
+| Glatter Stein | `smooth_stone` | 327 |
 | Polierter Andesit | `polished_andesite` | 190 |
 | Tuffstein | `tuff` | 113 |
 
@@ -2289,9 +2404,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.69 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 9/9 (Y 95–101)
+### Schritt 36.73 – Renaissance-Palazzo an Via Jacopo da Diacceto – Teil 9/9 (Y 88–94)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 88 bis 94
 - **Blöcke:** 1.396
 - **Bauteile:** `w443083519`
 
@@ -2318,31 +2433,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.70 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 36.74 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 1/2 (Y 56–67)
 
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.565
+- **Y-Bereich:** 56 bis 67
+- **Blöcke:** 1.561
 - **Bauteile:** `w443083519_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.494 |
+| Terrakotta | `terracotta` | 1.493 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 18 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 12 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 22 |
-| Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
 
@@ -2360,23 +2471,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.71 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 2/2 (Y 75–83)
+### Schritt 36.75 – Renaissance-Palazzo an Via Jacopo da Diacceto: Innenausbau – Teil 2/2 (Y 68–76)
 
-- **Y-Bereich:** 75 bis 83
-- **Blöcke:** 1.551
+- **Y-Bereich:** 68 bis 76
+- **Blöcke:** 1.544
 - **Bauteile:** `w443083519_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.494 |
+| Terrakotta | `terracotta` | 1.493 |
 | Glatter Stein | `smooth_stone` | 24 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 9 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2400,9 +2509,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 36.72 – Haus w443083526 – Teil 1/4 (Y 63–70)
+### Schritt 36.76 – Haus w443083526 – Teil 1/4 (Y 58–65)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 58 bis 65
 - **Blöcke:** 1.647
 - **Bauteile:** `w443083526`
 
@@ -2434,9 +2543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.73 – Haus w443083526 – Teil 2/4 (Y 71–79)
+### Schritt 36.77 – Haus w443083526 – Teil 2/4 (Y 66–74)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 66 bis 74
 - **Blöcke:** 1.524
 - **Bauteile:** `w443083526`
 
@@ -2465,9 +2574,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.74 – Haus w443083526 – Teil 3/4 (Y 80–89)
+### Schritt 36.78 – Haus w443083526 – Teil 3/4 (Y 75–84)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.675
 - **Bauteile:** `w443083526`
 
@@ -2496,18 +2605,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.75 – Haus w443083526 – Teil 4/4 (Y 90–98)
+### Schritt 36.79 – Haus w443083526 – Teil 4/4 (Y 85–93)
 
-- **Y-Bereich:** 90 bis 98
-- **Blöcke:** 1.529
+- **Y-Bereich:** 85 bis 93
+- **Blöcke:** 1.554
 - **Bauteile:** `w443083526`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 698 |
-| Orange Keramik | `orange_terracotta` | 554 |
+| Terrakotta | `terracotta` | 700 |
+| Orange Keramik | `orange_terracotta` | 577 |
 | Fichtenholz-Bretter | `spruce_planks` | 133 |
 | Weißer Beton | `white_concrete` | 111 |
 | Ziegelsteine | `bricks` | 17 |
@@ -2530,10 +2639,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 36.76 – Haus w443083526: Innenausbau
+### Schritt 36.80 – Haus w443083526: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.101
+- **Y-Bereich:** 58 bis 81
+- **Blöcke:** 1.094
 - **Bauteile:** `w443083526_innen`
 
 **Teileliste**
@@ -2541,18 +2650,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 972 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 

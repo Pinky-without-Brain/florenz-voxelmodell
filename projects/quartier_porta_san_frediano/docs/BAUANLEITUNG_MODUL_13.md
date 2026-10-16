@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 934 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 57 bis 89 |
 | X-Ausdehnung | -2968 bis -2961 (8 Blöcke) |
 | Z-Ausdehnung | 939 bis 945 (7 Blöcke) |
 | Kleinster Schritt | 934 Blöcke (Schritt 13.1) |
@@ -23,8 +23,16 @@
 | :--- | :--- | ---: | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 872 | 93,4 % |
 | Terrakotta | `terracotta` | 31 | 3,3 % |
-| Polierter Tuffstein | `polished_tuff` | 30 | 3,2 % |
+| Polierter Tuffstein | `polished_tuff` | 28 | 3,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 | 0,1 % |
 | Seelaterne | `sea_lantern` | 1 | 0,1 % |
+| Tuffstein | `tuff` | 1 | 0,1 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -37,7 +45,7 @@
 
 ### Schritt 13.1 – Nebengebäude an Via Francesco Berni & Nebengebäude an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 57 bis 89
 - **Blöcke:** 934
 - **Bauteile:** `w118944114`, `w118944114_innen`
 
@@ -47,8 +55,16 @@
 | :--- | :--- | ---: |
 | Gelbe Keramik | `yellow_terracotta` | 872 |
 | Terrakotta | `terracotta` | 31 |
-| Polierter Tuffstein | `polished_tuff` | 30 |
+| Polierter Tuffstein | `polished_tuff` | 28 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 1 |
 | Seelaterne | `sea_lantern` | 1 |
+| Tuffstein | `tuff` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 **Beschreibung**
 

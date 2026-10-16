@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 218 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 74 |
+| Y-Bereich | 60 bis 71 |
 | X-Ausdehnung | -2634 bis -2628 (7 Blöcke) |
 | Z-Ausdehnung | 1396 bis 1403 (8 Blöcke) |
 | Kleinster Schritt | 218 Blöcke (Schritt 35.1) |
@@ -36,7 +36,7 @@
 
 ### Schritt 35.1 – Nebengebäude an Viale Vasco Pratolini
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 60 bis 71
 - **Blöcke:** 218
 - **Bauteile:** `w1217081254`
 

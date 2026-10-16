@@ -8,21 +8,21 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 15.081 |
+| Blöcke | 15.102 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 116 bis 156 |
 | X-Ausdehnung | -2882 bis -2830 (53 Blöcke) |
 | Z-Ausdehnung | 2599 bis 2650 (52 Blöcke) |
 | Kleinster Schritt | 1.044 Blöcke (Schritt 5.8) |
-| Mittlerer Schritt | 1.676 Blöcke |
+| Mittlerer Schritt | 1.678 Blöcke |
 | Größter Schritt | 1.964 Blöcke (Schritt 5.9) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 6.138 | 40,7 % |
-| Terrakotta | `terracotta` | 4.698 | 31,2 % |
+| Rosa Keramik | `pink_terracotta` | 6.138 | 40,6 % |
+| Terrakotta | `terracotta` | 4.698 | 31,1 % |
 | Polierter Andesit | `polished_andesite` | 1.371 | 9,1 % |
 | Polierter Tuffstein | `polished_tuff` | 1.264 | 8,4 % |
 | Graues Buntglas | `gray_stained_glass` | 654 | 4,3 % |
@@ -33,6 +33,7 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,2 % |
 | Seelaterne | `sea_lantern` | 24 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,1 % |
+| Tuffstein | `tuff` | 21 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w463638378` | Reihenhaus an Via Ugo Foscolo | 12.073 | 5.1–5.7 |
+| 1 | `w463638378` | Reihenhaus an Via Ugo Foscolo | 12.094 | 5.1–5.7 |
 | 2 | `w463638378_innen` | Reihenhaus an Via Ugo Foscolo: Innenausbau | 3.008 | 5.8–5.9 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Reihenhaus an Via Ugo Foscolo – Teil 1/7 (Y 63–65)
+### Schritt 5.1 – Reihenhaus an Via Ugo Foscolo – Teil 1/7 (Y 116–119)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.834
+- **Y-Bereich:** 116 bis 119
+- **Blöcke:** 1.855
 - **Bauteile:** `w463638378`
 
 **Teileliste**
@@ -62,6 +63,7 @@
 | Polierter Tuffstein | `polished_tuff` | 1.264 |
 | Rosa Keramik | `pink_terracotta` | 526 |
 | Graues Buntglas | `gray_stained_glass` | 28 |
+| Tuffstein | `tuff` | 21 |
 | Polierter Andesit | `polished_andesite` | 16 |
 
 **Beschreibung**
@@ -80,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Reihenhaus an Via Ugo Foscolo – Teil 2/7 (Y 66–71)
+### Schritt 5.2 – Reihenhaus an Via Ugo Foscolo – Teil 2/7 (Y 120–125)
 
-- **Y-Bereich:** 66 bis 71
+- **Y-Bereich:** 120 bis 125
 - **Blöcke:** 1.713
 - **Bauteile:** `w463638378`
 
@@ -111,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Reihenhaus an Via Ugo Foscolo – Teil 3/7 (Y 72–77)
+### Schritt 5.3 – Reihenhaus an Via Ugo Foscolo – Teil 3/7 (Y 126–131)
 
-- **Y-Bereich:** 72 bis 77
+- **Y-Bereich:** 126 bis 131
 - **Blöcke:** 1.710
 - **Bauteile:** `w463638378`
 
@@ -142,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Reihenhaus an Via Ugo Foscolo – Teil 4/7 (Y 78–83)
+### Schritt 5.4 – Reihenhaus an Via Ugo Foscolo – Teil 4/7 (Y 132–137)
 
-- **Y-Bereich:** 78 bis 83
+- **Y-Bereich:** 132 bis 137
 - **Blöcke:** 1.732
 - **Bauteile:** `w463638378`
 
@@ -173,20 +175,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Reihenhaus an Via Ugo Foscolo – Teil 5/7 (Y 84–89)
+### Schritt 5.5 – Reihenhaus an Via Ugo Foscolo – Teil 5/7 (Y 138–142)
 
-- **Y-Bereich:** 84 bis 89
-- **Blöcke:** 1.766
+- **Y-Bereich:** 138 bis 142
+- **Blöcke:** 1.496
 - **Bauteile:** `w463638378`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.356 |
-| Polierter Andesit | `polished_andesite` | 282 |
-| Graues Buntglas | `gray_stained_glass` | 84 |
-| Grüner Beton | `green_concrete` | 44 |
+| Rosa Keramik | `pink_terracotta` | 1.216 |
+| Polierter Andesit | `polished_andesite` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 40 |
 
 **Beschreibung**
 
@@ -204,21 +205,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Reihenhaus an Via Ugo Foscolo – Teil 6/7 (Y 90–93)
+### Schritt 5.6 – Reihenhaus an Via Ugo Foscolo – Teil 6/7 (Y 143–147)
 
-- **Y-Bereich:** 90 bis 93
-- **Blöcke:** 1.403
+- **Y-Bereich:** 143 bis 147
+- **Blöcke:** 1.673
 - **Bauteile:** `w463638378`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 790 |
+| Rosa Keramik | `pink_terracotta` | 930 |
 | Fichtenholz-Bretter | `spruce_planks` | 267 |
-| Polierter Andesit | `polished_andesite` | 170 |
-| Graues Buntglas | `gray_stained_glass` | 88 |
-| Grüner Beton | `green_concrete` | 88 |
+| Polierter Andesit | `polished_andesite` | 212 |
+| Graues Buntglas | `gray_stained_glass` | 132 |
+| Grüner Beton | `green_concrete` | 132 |
 
 **Beschreibung**
 
@@ -236,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Reihenhaus an Via Ugo Foscolo – Teil 7/7 (Y 94–102)
+### Schritt 5.7 – Reihenhaus an Via Ugo Foscolo – Teil 7/7 (Y 148–156)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 148 bis 156
 - **Blöcke:** 1.915
 - **Bauteile:** `w463638378`
 
@@ -265,9 +266,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 5.8 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 1/2 (Y 117–132)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 117 bis 132
 - **Blöcke:** 1.044
 - **Bauteile:** `w463638378_innen`
 
@@ -303,9 +304,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.9 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 5.9 – Reihenhaus an Via Ugo Foscolo: Innenausbau – Teil 2/2 (Y 133–140)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 133 bis 140
 - **Blöcke:** 1.964
 - **Bauteile:** `w463638378_innen`
 

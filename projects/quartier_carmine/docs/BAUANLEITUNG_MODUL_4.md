@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.637 |
+| Blöcke | 8.648 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 59 bis 94 |
 | X-Ausdehnung | -2002 bis -1958 (45 Blöcke) |
 | Z-Ausdehnung | 1294 bis 1327 (34 Blöcke) |
 | Kleinster Schritt | 961 Blöcke (Schritt 4.5) |
-| Mittlerer Schritt | 1.727 Blöcke |
+| Mittlerer Schritt | 1.730 Blöcke |
 | Größter Schritt | 2.070 Blöcke (Schritt 4.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 4.249 | 49,2 % |
+| Weißer Beton | `white_concrete` | 4.249 | 49,1 % |
 | Terrakotta | `terracotta` | 1.613 | 18,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 875 | 10,1 % |
 | Polierter Tuffstein | `polished_tuff` | 506 | 5,9 % |
@@ -34,6 +34,7 @@
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 | 0,3 % |
 | Polierter Andesit | `polished_andesite` | 19 | 0,2 % |
+| Tuffstein | `tuff` | 11 | 0,1 % |
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
@@ -46,15 +47,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w480494002` | Haus w480494002 | 7.676 | 4.1–4.4 |
+| 1 | `w480494002` | Haus w480494002 | 7.687 | 4.1–4.4 |
 | 2 | `w480494002_innen` | Haus w480494002: Innenausbau | 961 | 4.5 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Haus w480494002 – Teil 1/4 (Y 63–70)
+### Schritt 4.1 – Haus w480494002 – Teil 1/4 (Y 59–67)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.901
+- **Y-Bereich:** 59 bis 67
+- **Blöcke:** 1.912
 - **Bauteile:** `w480494002`
 
 **Teileliste**
@@ -68,6 +69,7 @@
 | Glatter Stein | `smooth_stone` | 101 |
 | Grüner Beton | `green_concrete` | 57 |
 | Polierter Andesit | `polished_andesite` | 19 |
+| Tuffstein | `tuff` | 11 |
 
 **Beschreibung**
 
@@ -85,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Haus w480494002 – Teil 2/4 (Y 71–79)
+### Schritt 4.2 – Haus w480494002 – Teil 2/4 (Y 68–76)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 1.873
 - **Bauteile:** `w480494002`
 
@@ -116,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Haus w480494002 – Teil 3/4 (Y 80–89)
+### Schritt 4.3 – Haus w480494002 – Teil 3/4 (Y 77–86)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 2.070
 - **Bauteile:** `w480494002`
 
@@ -147,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Haus w480494002 – Teil 4/4 (Y 90–97)
+### Schritt 4.4 – Haus w480494002 – Teil 4/4 (Y 87–94)
 
-- **Y-Bereich:** 90 bis 97
+- **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.832
 - **Bauteile:** `w480494002`
 
@@ -183,7 +185,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.5 – Haus w480494002: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 60 bis 83
 - **Blöcke:** 961
 - **Bauteile:** `w480494002_innen`
 

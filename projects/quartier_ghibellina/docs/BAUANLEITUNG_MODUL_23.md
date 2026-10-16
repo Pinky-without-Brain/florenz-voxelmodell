@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 14.716 |
+| Blöcke | 14.718 |
 | Bauschritte | 9 |
 | Y-Bereich | 63 bis 99 |
 | X-Ausdehnung | 1628 bis 1665 (38 Blöcke) |
 | Z-Ausdehnung | 639 bis 715 (77 Blöcke) |
-| Kleinster Schritt | 1.378 Blöcke (Schritt 23.9) |
+| Kleinster Schritt | 1.380 Blöcke (Schritt 23.9) |
 | Mittlerer Schritt | 1.635 Blöcke |
 | Größter Schritt | 1.783 Blöcke (Schritt 23.7) |
 
@@ -39,6 +39,8 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -53,6 +55,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w115065316` | Palazzo des Cinquecento an Via Santa Verdiana | 13.338 | 23.1–23.8 |
 | 2 | `w115065316_innen` | Palazzo des Cinquecento an Via Santa Verdiana: Innenausbau | 1.378 | 23.9 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 23.9 |
 
 ## Bauschritte
 
@@ -310,11 +313,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 23.9 – Palazzo des Cinquecento an Via Santa Verdiana: Innenausbau
+### Schritt 23.9 – Palazzo des Cinquecento an Via Santa Verdiana: Innenausbau & Straßenschilder
 
 - **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.378
-- **Bauteile:** `w115065316_innen`
+- **Blöcke:** 1.380
+- **Bauteile:** `w115065316_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -330,6 +333,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -340,16 +345,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

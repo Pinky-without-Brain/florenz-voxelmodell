@@ -1,4 +1,5 @@
 'use strict';
+const { schilderFuerHaus } = require('./schilder.js');
 // Quartier-Projekte (V3, ARCHITEKTUR §10): project.json { generator: "quartier", gebaeude: [ids] }.
 // Je Isolato ein Modul (nach ID sortiert), je Haus ein Bauteil (Gebäude-ID) in aufsteigender ID-Reihenfolge.
 
@@ -124,18 +125,7 @@ function baue(project) {
   const unbekannt = ids.filter((id) => !daten.byId.has(id));
   if (unbekannt.length) throw new Error(`Projekt ${project.id}: unbekannte Gebäude-IDs: ${unbekannt.slice(0, 10).join(', ')}${unbekannt.length > 10 ? ' …' : ''}`);
 
-  // Gebäude außerhalb des Geländerasters werden abgelehnt
-  if (typeof ground.inRaster === 'function') {
-    const aussen = [];
-    for (const id of ids) {
-      const bb = daten.byId.get(id)._bb;
-      const eck = [[bb.x0, bb.z0], [bb.x1, bb.z0], [bb.x0, bb.z1], [bb.x1, bb.z1]];
-      if (eck.some(([x, z]) => !ground.inRaster(Math.round(x), Math.round(z)))) aussen.push(id);
-    }
-    if (aussen.length) {
-      throw new Error(`Projekt ${project.id}: ${aussen.length} Gebäude liegen (teilweise) außerhalb des Geländerasters und können nicht gebaut werden: ${aussen.slice(0, 10).join(', ')}${aussen.length > 10 ? ' …' : ''}`);
-    }
-  }
+  // Gebäude, die über das Geländeraster hinausragen, stehen dort auf dem Randwert (ground_stadt klemmt die Abfrage)
 
   // Parzellenraster aus Projektgebäuden und direkten Nachbarn
   // Wahrzeichen-Vorrang (data/stadt/vorrang.json): eigene Polygone, kein Haus
@@ -203,7 +193,9 @@ function baue(project) {
     iso.title = best ? `Isolato ${iso.id} – ${best}` : `Isolato ${iso.id}`;
   }
 
+  const schilder = new Map(); // "x,y,z" -> { name, text, richtung } (Minecraft-Export)
   const q = {
+    schilder,
     project, ids, byId: daten.byId, alle, parz, vorrang: vorrangListe, vorrangIds: new Set(vorrang.keys()), umfeld, ground, kontext, isolati, projekt,
     datenDir, flaechen: daten.flaechen, aktenDir, akten, aktenRoh, aktenFehler, aktenDateien, strasseVon,
     adjazenz: () => parz.adjazenz(),
@@ -240,6 +232,10 @@ function baue(project) {
         };
         parts[id + '_innen'] = innenText(id, a, titel);
       }
+      parts.strassenschilder = { title: 'Straßenschilder',
+        description: 'An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.',
+        tip: 'Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.', caution: 'In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.',
+        fact: 'In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.' };
       return { module: index, title: iso.title, subtitle: `${project.title}: ${iso.ids.length} ${iso.ids.length === 1 ? 'Haus' : 'Häuser'}`,
         icon: '🏠', parts };
     },
@@ -260,6 +256,21 @@ function baue(project) {
               bauInnen(ctx.part(id + '_innen', {}), plan);
               for (const u of plan.innen.unzugaenglich) ctx.unzugaenglich(u.zellen, u.begruendung);
             }
+          }
+          // Straßenschilder an den Eckhäusern dieses Isolats (nach allen Häusern: die Wände müssen stehen)
+          const liste = [];
+          for (const id of iso.ids) {
+            const plan = akten.has(id) ? kontext.plan(id, akten.get(id)) : null;
+            if (!plan || plan.leer || !plan.cells) continue;
+            liste.push(...schilderFuerHaus({ id, cells: plan.cells, boden: plan.boden }, {
+              umfeld, groundTopY: kontext.groundTopY, hat: (x, y, z) => ctx.grid.has(x, y, z),
+              beanspruche: (x, y, z, hid) => kontext.beanspruche(x, y, z, hid),
+              frei: (x, z) => parz.owner(x, z) === null
+            }));
+          }
+          if (liste.length) {
+            const w = ctx.part('strassenschilder', {});
+            for (const sch of liste) { w.set(sch.x, sch.y, sch.z, sch.typ); schilder.set(sch.x + ',' + sch.y + ',' + sch.z, sch); }
           }
         }
       };

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 3.913 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 185 bis 219 |
 | X-Ausdehnung | -270 bis -248 (23 Blöcke) |
 | Z-Ausdehnung | 2218 bis 2240 (23 Blöcke) |
 | Kleinster Schritt | 351 Blöcke (Schritt 17.3) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 17.1 – Reihenhaus an Costa San Giorgio – Teil 1/2 (Y 63–79)
+### Schritt 17.1 – Reihenhaus an Costa San Giorgio – Teil 1/2 (Y 185–201)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 185 bis 201
 - **Blöcke:** 1.764
 - **Bauteile:** `w119229755`
 
@@ -79,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 17.2 – Reihenhaus an Costa San Giorgio – Teil 2/2 (Y 80–97)
+### Schritt 17.2 – Reihenhaus an Costa San Giorgio – Teil 2/2 (Y 202–219)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 202 bis 219
 - **Blöcke:** 1.798
 - **Bauteile:** `w119229755`
 
@@ -114,7 +114,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 17.3 – Reihenhaus an Costa San Giorgio: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 185 bis 208
 - **Blöcke:** 351
 - **Bauteile:** `w119229755_innen`
 

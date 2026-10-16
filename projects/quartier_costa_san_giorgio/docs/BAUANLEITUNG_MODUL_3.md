@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 8.851 |
+| Blöcke | 8.850 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 99 |
-| X-Ausdehnung | -635 bis -603 (33 Blöcke) |
+| Y-Bereich | 67 bis 103 |
+| X-Ausdehnung | -636 bis -603 (34 Blöcke) |
 | Z-Ausdehnung | 1392 bis 1421 (30 Blöcke) |
-| Kleinster Schritt | 1.441 Blöcke (Schritt 3.5) |
+| Kleinster Schritt | 1.444 Blöcke (Schritt 3.5) |
 | Mittlerer Schritt | 1.770 Blöcke |
 | Größter Schritt | 2.002 Blöcke (Schritt 3.2) |
 
@@ -22,8 +22,8 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 4.285 | 48,4 % |
-| Terrakotta | `terracotta` | 2.102 | 23,7 % |
-| Polierter Andesit | `polished_andesite` | 1.106 | 12,5 % |
+| Terrakotta | `terracotta` | 2.102 | 23,8 % |
+| Polierter Andesit | `polished_andesite` | 1.102 | 12,5 % |
 | Polierter Tuffstein | `polished_tuff` | 645 | 7,3 % |
 | Graues Buntglas | `gray_stained_glass` | 507 | 5,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 71 | 0,8 % |
@@ -35,6 +35,8 @@
 | Seelaterne | `sea_lantern` | 8 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -46,15 +48,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119180028` | Reihenhaus an Via Stracciatella | 7.410 | 3.1–3.4 |
+| 1 | `w119180028` | Reihenhaus an Via Stracciatella | 7.406 | 3.1–3.4 |
 | 2 | `w119180028_innen` | Reihenhaus an Via Stracciatella: Innenausbau | 1.441 | 3.5 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 3.5 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Reihenhaus an Via Stracciatella – Teil 1/4 (Y 63–69)
+### Schritt 3.1 – Reihenhaus an Via Stracciatella – Teil 1/4 (Y 67–73)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.759
+- **Y-Bereich:** 67 bis 73
+- **Blöcke:** 1.755
 - **Bauteile:** `w119180028`
 
 **Teileliste**
@@ -63,7 +66,7 @@
 | :--- | :--- | ---: |
 | Glatter Sandstein | `smooth_sandstone` | 776 |
 | Polierter Tuffstein | `polished_tuff` | 645 |
-| Polierter Andesit | `polished_andesite` | 202 |
+| Polierter Andesit | `polished_andesite` | 198 |
 | Graues Buntglas | `gray_stained_glass` | 136 |
 
 **Beschreibung**
@@ -82,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Reihenhaus an Via Stracciatella – Teil 2/4 (Y 70–79)
+### Schritt 3.2 – Reihenhaus an Via Stracciatella – Teil 2/4 (Y 74–83)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 2.002
 - **Bauteile:** `w119180028`
 
@@ -112,9 +115,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Reihenhaus an Via Stracciatella – Teil 3/4 (Y 80–88)
+### Schritt 3.3 – Reihenhaus an Via Stracciatella – Teil 3/4 (Y 84–92)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.822
 - **Bauteile:** `w119180028`
 
@@ -142,9 +145,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Reihenhaus an Via Stracciatella – Teil 4/4 (Y 89–99)
+### Schritt 3.4 – Reihenhaus an Via Stracciatella – Teil 4/4 (Y 93–103)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 93 bis 103
 - **Blöcke:** 1.827
 - **Bauteile:** `w119180028`
 
@@ -174,11 +177,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Reihenhaus an Via Stracciatella: Innenausbau
+### Schritt 3.5 – Reihenhaus an Via Stracciatella: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.441
-- **Bauteile:** `w119180028_innen`
+- **Y-Bereich:** 67 bis 91
+- **Blöcke:** 1.444
+- **Bauteile:** `w119180028_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -193,6 +196,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 4 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -202,16 +207,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

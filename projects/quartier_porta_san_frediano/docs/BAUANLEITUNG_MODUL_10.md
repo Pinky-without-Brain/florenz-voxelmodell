@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 13.443 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 58 bis 96 |
 | X-Ausdehnung | -3007 bis -2963 (45 Blöcke) |
 | Z-Ausdehnung | 210 bis 255 (46 Blöcke) |
 | Kleinster Schritt | 830 Blöcke (Schritt 10.7) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 10.1 – Reihenhaus an Via della Fonderia – Teil 1/6 (Y 63–66)
+### Schritt 10.1 – Reihenhaus an Via della Fonderia – Teil 1/6 (Y 58–61)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 58 bis 61
 - **Blöcke:** 1.943
 - **Bauteile:** `w118932431`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Reihenhaus an Via della Fonderia – Teil 2/6 (Y 67–72)
+### Schritt 10.2 – Reihenhaus an Via della Fonderia – Teil 2/6 (Y 62–67)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 62 bis 67
 - **Blöcke:** 1.707
 - **Bauteile:** `w118932431`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Reihenhaus an Via della Fonderia – Teil 3/6 (Y 73–79)
+### Schritt 10.3 – Reihenhaus an Via della Fonderia – Teil 3/6 (Y 68–74)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 68 bis 74
 - **Blöcke:** 2.001
 - **Bauteile:** `w118932431`
 
@@ -141,9 +141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Reihenhaus an Via della Fonderia – Teil 4/6 (Y 80–85)
+### Schritt 10.4 – Reihenhaus an Via della Fonderia – Teil 4/6 (Y 75–80)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.695
 - **Bauteile:** `w118932431`
 
@@ -171,9 +171,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Reihenhaus an Via della Fonderia – Teil 5/6 (Y 86–92)
+### Schritt 10.5 – Reihenhaus an Via della Fonderia – Teil 5/6 (Y 81–87)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 2.034
 - **Bauteile:** `w118932431`
 
@@ -201,9 +201,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Reihenhaus an Via della Fonderia – Teil 6/6 (Y 93–101)
+### Schritt 10.6 – Reihenhaus an Via della Fonderia – Teil 6/6 (Y 88–96)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.703
 - **Bauteile:** `w118932431`
 
@@ -231,9 +231,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 10.7 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 1/2 (Y 58–73)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 58 bis 73
 - **Blöcke:** 830
 - **Bauteile:** `w118932431_innen`
 
@@ -271,9 +271,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.8 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 10.8 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 2/2 (Y 74–82)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.530
 - **Bauteile:** `w118932431_innen`
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 9.933 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 65 bis 100 |
 | X-Ausdehnung | -2192 bis -2142 (51 Blöcke) |
 | Z-Ausdehnung | 2024 bis 2058 (35 Blöcke) |
 | Kleinster Schritt | 1.086 Blöcke (Schritt 31.6) |
@@ -54,9 +54,9 @@
 
 ## Bauschritte
 
-### Schritt 31.1 – Haus w487046660 – Teil 1/5 (Y 63–68)
+### Schritt 31.1 – Haus w487046660 – Teil 1/5 (Y 65–70)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.756
 - **Bauteile:** `w487046660`
 
@@ -87,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.2 – Haus w487046660 – Teil 2/5 (Y 69–75)
+### Schritt 31.2 – Haus w487046660 – Teil 2/5 (Y 71–77)
 
-- **Y-Bereich:** 69 bis 75
+- **Y-Bereich:** 71 bis 77
 - **Blöcke:** 1.686
 - **Bauteile:** `w487046660`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.3 – Haus w487046660 – Teil 3/5 (Y 76–83)
+### Schritt 31.3 – Haus w487046660 – Teil 3/5 (Y 78–85)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.904
 - **Bauteile:** `w487046660`
 
@@ -149,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.4 – Haus w487046660 – Teil 4/5 (Y 84–90)
+### Schritt 31.4 – Haus w487046660 – Teil 4/5 (Y 86–92)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.671
 - **Bauteile:** `w487046660`
 
@@ -180,9 +180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 31.5 – Haus w487046660 – Teil 5/5 (Y 91–98)
+### Schritt 31.5 – Haus w487046660 – Teil 5/5 (Y 93–100)
 
-- **Y-Bereich:** 91 bis 98
+- **Y-Bereich:** 93 bis 100
 - **Blöcke:** 1.830
 - **Bauteile:** `w487046660`
 
@@ -215,7 +215,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 31.6 – Haus w487046660: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 65 bis 89
 - **Blöcke:** 1.086
 - **Bauteile:** `w487046660_innen`
 

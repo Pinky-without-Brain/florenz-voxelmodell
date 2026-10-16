@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Schiffe und Kapellen",
+  "subtitle": "Bautüte 2: Pfeiler, Spitzbögen, Obergaden und die linken Kapellen",
+  "icon": "🏛️",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Schlanke Rechteckpfeiler aus Pietra serena teilen die drei Schiffe; sie reichen bis Y 91.",
+      "tip": "Fünf Joche, Pfeiler an jeder Jochgrenze.",
+      "caution": "Die Pfeiler bleiben massiv.",
+      "fact": "Die Pfeiler laufen zum Querhaus leicht auseinander und die Bögen werden höher: ein perspektivischer Effekt."
+    },
+    "arkaden": {
+      "title": "Spitzbögen",
+      "description": "Zwischen den Pfeilern spannen sich Spitzbögen bis Y 89.",
+      "tip": "Der Bogen beginnt auf Y 81.",
+      "caution": "Unter den Bögen bleibt alles frei.",
+      "fact": "Die Kirche ist eines der frühen gotischen Bauwerke der Stadt."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Über den Seitenschiffdächern steigt die Hochwand bis unter das Dach, mit einem Spitzbogenfenster je Joch (Y 99 bis 105).",
+      "tip": "Außen Steinziegel, innen Putz.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Die Kirche gehört dem Orden der Vallombrosaner."
+    },
+    "kapellen": {
+      "title": "Kapellen links",
+      "description": "Links öffnen sich fünf Kapellen mit Spitzbögen zum Seitenschiff; Decke auf Y 79. Die vierte ist die Cappella Bartolini Salimbeni mit Fresken.",
+      "tip": "Trennwände an den Jochgrenzen.",
+      "caution": "Bögen frei lassen.",
+      "fact": "Lorenzo Monaco malte die Marienfresken der Bartolini-Salimbeni-Kapelle 1420–25."
+    },
+    "altaere": {
+      "title": "Altäre",
+      "description": "An der Rückwand jeder Kapelle steht ein Altar aus hellem Quarz.",
+      "tip": "Genau in der Kapellenmitte.",
+      "caution": "Nur drei Lagen hoch.",
+      "fact": "Die Kapellen gehörten Florentiner Familien."
+    }
+  }
+}

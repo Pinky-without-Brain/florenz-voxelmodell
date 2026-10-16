@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 21.918 |
 | Bauschritte | 16 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 60 bis 96 |
 | X-Ausdehnung | -2477 bis -2362 (116 Blöcke) |
 | Z-Ausdehnung | 1959 bis 1986 (28 Blöcke) |
 | Kleinster Schritt | 968 Blöcke (Schritt 45.6) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 45.1 – Palazzo des Cinquecento an Via Gusciana – Teil 1/14 (Y 63–63)
+### Schritt 45.1 – Palazzo des Cinquecento an Via Gusciana – Teil 1/14 (Y 60–60)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.679
 - **Bauteile:** `w118965482`
 
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.2 – Palazzo des Cinquecento an Via Gusciana – Teil 2/14 (Y 64–65)
+### Schritt 45.2 – Palazzo des Cinquecento an Via Gusciana – Teil 2/14 (Y 61–62)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.056
 - **Bauteile:** `w118965482`
 
@@ -116,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.3 – Palazzo des Cinquecento an Via Gusciana – Teil 3/14 (Y 66–68)
+### Schritt 45.3 – Palazzo des Cinquecento an Via Gusciana – Teil 3/14 (Y 63–65)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 63 bis 65
 - **Blöcke:** 1.486
 - **Bauteile:** `w118965482`
 
@@ -150,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.4 – Palazzo des Cinquecento an Via Gusciana – Teil 4/14 (Y 69–71)
+### Schritt 45.4 – Palazzo des Cinquecento an Via Gusciana – Teil 4/14 (Y 66–68)
 
-- **Y-Bereich:** 69 bis 71
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.401
 - **Bauteile:** `w118965482`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.5 – Palazzo des Cinquecento an Via Gusciana – Teil 5/14 (Y 72–74)
+### Schritt 45.5 – Palazzo des Cinquecento an Via Gusciana – Teil 5/14 (Y 69–71)
 
-- **Y-Bereich:** 72 bis 74
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.554
 - **Bauteile:** `w118965482`
 
@@ -215,9 +215,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.6 – Palazzo des Cinquecento an Via Gusciana – Teil 6/14 (Y 75–76)
+### Schritt 45.6 – Palazzo des Cinquecento an Via Gusciana – Teil 6/14 (Y 72–73)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 968
 - **Bauteile:** `w118965482`
 
@@ -247,9 +247,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.7 – Palazzo des Cinquecento an Via Gusciana – Teil 7/14 (Y 77–80)
+### Schritt 45.7 – Palazzo des Cinquecento an Via Gusciana – Teil 7/14 (Y 74–77)
 
-- **Y-Bereich:** 77 bis 80
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.800
 - **Bauteile:** `w118965482`
 
@@ -279,9 +279,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.8 – Palazzo des Cinquecento an Via Gusciana – Teil 8/14 (Y 81–82)
+### Schritt 45.8 – Palazzo des Cinquecento an Via Gusciana – Teil 8/14 (Y 78–79)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.036
 - **Bauteile:** `w118965482`
 
@@ -309,9 +309,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.9 – Palazzo des Cinquecento an Via Gusciana – Teil 9/14 (Y 83–85)
+### Schritt 45.9 – Palazzo des Cinquecento an Via Gusciana – Teil 9/14 (Y 80–82)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.554
 - **Bauteile:** `w118965482`
 
@@ -340,9 +340,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.10 – Palazzo des Cinquecento an Via Gusciana – Teil 10/14 (Y 86–88)
+### Schritt 45.10 – Palazzo des Cinquecento an Via Gusciana – Teil 10/14 (Y 83–85)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.350
 - **Bauteile:** `w118965482`
 
@@ -372,9 +372,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.11 – Palazzo des Cinquecento an Via Gusciana – Teil 11/14 (Y 89–91)
+### Schritt 45.11 – Palazzo des Cinquecento an Via Gusciana – Teil 11/14 (Y 86–88)
 
-- **Y-Bereich:** 89 bis 91
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.418
 - **Bauteile:** `w118965482`
 
@@ -404,9 +404,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.12 – Palazzo des Cinquecento an Via Gusciana – Teil 12/14 (Y 92–93)
+### Schritt 45.12 – Palazzo des Cinquecento an Via Gusciana – Teil 12/14 (Y 89–90)
 
-- **Y-Bereich:** 92 bis 93
+- **Y-Bereich:** 89 bis 90
 - **Blöcke:** 1.694
 - **Bauteile:** `w118965482`
 
@@ -435,9 +435,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.13 – Palazzo des Cinquecento an Via Gusciana – Teil 13/14 (Y 94–94)
+### Schritt 45.13 – Palazzo des Cinquecento an Via Gusciana – Teil 13/14 (Y 91–91)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.211
 - **Bauteile:** `w118965482`
 
@@ -463,9 +463,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.14 – Palazzo des Cinquecento an Via Gusciana – Teil 14/14 (Y 95–99)
+### Schritt 45.14 – Palazzo des Cinquecento an Via Gusciana – Teil 14/14 (Y 92–96)
 
-- **Y-Bereich:** 95 bis 99
+- **Y-Bereich:** 92 bis 96
 - **Blöcke:** 1.268
 - **Bauteile:** `w118965482`
 
@@ -492,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.15 – Palazzo des Cinquecento an Via Gusciana: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 45.15 – Palazzo des Cinquecento an Via Gusciana: Innenausbau – Teil 1/2 (Y 60–70)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 1.218
 - **Bauteile:** `w118965482_innen`
 
@@ -534,9 +534,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 45.16 – Palazzo des Cinquecento an Via Gusciana: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 45.16 – Palazzo des Cinquecento an Via Gusciana: Innenausbau – Teil 2/2 (Y 71–81)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 71 bis 81
 - **Blöcke:** 1.225
 - **Bauteile:** `w118965482_innen`
 

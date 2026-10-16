@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 53.375 |
+| Blöcke | 53.399 |
 | Bauschritte | 36 |
-| Y-Bereich | 63 bis 107 |
+| Y-Bereich | 63 bis 108 |
 | X-Ausdehnung | -750 bis -676 (75 Blöcke) |
 | Z-Ausdehnung | 105 bis 210 (106 Blöcke) |
 | Kleinster Schritt | 879 Blöcke (Schritt 15.14) |
@@ -23,10 +23,10 @@
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 21.721 | 40,7 % |
 | Rosa Keramik | `pink_terracotta` | 10.260 | 19,2 % |
-| Polierter Tuffstein | `polished_tuff` | 6.901 | 12,9 % |
-| Tuffstein | `tuff` | 4.801 | 9,0 % |
+| Polierter Tuffstein | `polished_tuff` | 6.893 | 12,9 % |
+| Tuffstein | `tuff` | 4.821 | 9,0 % |
 | Glatter Stein | `smooth_stone` | 3.004 | 5,6 % |
-| Polierter Andesit | `polished_andesite` | 1.575 | 3,0 % |
+| Polierter Andesit | `polished_andesite` | 1.575 | 2,9 % |
 | Graues Buntglas | `gray_stained_glass` | 1.542 | 2,9 % |
 | Weißer Beton | `white_concrete` | 1.198 | 2,2 % |
 | Tuffsteinziegel | `tuff_bricks` | 672 | 1,3 % |
@@ -42,10 +42,15 @@
 | Rote Keramik | `red_terracotta` | 12 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 12 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 6 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -53,6 +58,7 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 80 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 12 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -60,14 +66,15 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1593171` | UniCredit | 19.611 | 15.1–15.15 |
 | 2 | `r1593171_innen` | UniCredit: Innenausbau | 4.323 | 15.16–15.19 |
-| 3 | `w483096024` | Renaissance-Palazzo an Via del Campidoglio | 21.343 | 15.20–15.32 |
+| 3 | `w483096024` | Renaissance-Palazzo an Via del Campidoglio | 21.361 | 15.20–15.32 |
 | 4 | `w483096024_innen` | Renaissance-Palazzo an Via del Campidoglio: Innenausbau | 8.098 | 15.33–15.36 |
+| 5 | `strassenschilder` | Straßenschilder | 6 | 15.36 |
 
 ## Bauschritte
 
-### Schritt 15.1 – UniCredit – Teil 1/15 (Y 63–63)
+### Schritt 15.1 – UniCredit – Teil 1/15 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.281
 - **Bauteile:** `r1593171`
 
@@ -93,9 +100,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – UniCredit – Teil 2/15 (Y 63–63)
+### Schritt 15.2 – UniCredit – Teil 2/15 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.271
 - **Bauteile:** `r1593171`
 
@@ -121,9 +128,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – UniCredit – Teil 3/15 (Y 64–66)
+### Schritt 15.3 – UniCredit – Teil 3/15 (Y 65–67)
 
-- **Y-Bereich:** 64 bis 66
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.335
 - **Bauteile:** `r1593171`
 
@@ -153,9 +160,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – UniCredit – Teil 4/15 (Y 67–69)
+### Schritt 15.4 – UniCredit – Teil 4/15 (Y 68–70)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.212
 - **Bauteile:** `r1593171`
 
@@ -187,9 +194,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – UniCredit – Teil 5/15 (Y 70–72)
+### Schritt 15.5 – UniCredit – Teil 5/15 (Y 71–73)
 
-- **Y-Bereich:** 70 bis 72
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.314
 - **Bauteile:** `r1593171`
 
@@ -221,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – UniCredit – Teil 6/15 (Y 73–75)
+### Schritt 15.6 – UniCredit – Teil 6/15 (Y 74–76)
 
-- **Y-Bereich:** 73 bis 75
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.371
 - **Bauteile:** `r1593171`
 
@@ -253,9 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.7 – UniCredit – Teil 7/15 (Y 76–78)
+### Schritt 15.7 – UniCredit – Teil 7/15 (Y 77–79)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.239
 - **Bauteile:** `r1593171`
 
@@ -285,9 +292,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – UniCredit – Teil 8/15 (Y 79–81)
+### Schritt 15.8 – UniCredit – Teil 8/15 (Y 80–82)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.283
 - **Bauteile:** `r1593171`
 
@@ -317,9 +324,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.9 – UniCredit – Teil 9/15 (Y 82–84)
+### Schritt 15.9 – UniCredit – Teil 9/15 (Y 83–85)
 
-- **Y-Bereich:** 82 bis 84
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.371
 - **Bauteile:** `r1593171`
 
@@ -348,9 +355,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.10 – UniCredit – Teil 10/15 (Y 85–87)
+### Schritt 15.10 – UniCredit – Teil 10/15 (Y 86–88)
 
-- **Y-Bereich:** 85 bis 87
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.283
 - **Bauteile:** `r1593171`
 
@@ -380,9 +387,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.11 – UniCredit – Teil 11/15 (Y 88–90)
+### Schritt 15.11 – UniCredit – Teil 11/15 (Y 89–91)
 
-- **Y-Bereich:** 88 bis 90
+- **Y-Bereich:** 89 bis 91
 - **Blöcke:** 1.239
 - **Bauteile:** `r1593171`
 
@@ -412,9 +419,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.12 – UniCredit – Teil 12/15 (Y 91–93)
+### Schritt 15.12 – UniCredit – Teil 12/15 (Y 92–94)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 92 bis 94
 - **Blöcke:** 1.662
 - **Bauteile:** `r1593171`
 
@@ -443,9 +450,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.13 – UniCredit – Teil 13/15 (Y 94–94)
+### Schritt 15.13 – UniCredit – Teil 13/15 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.465
 - **Bauteile:** `r1593171`
 
@@ -471,9 +478,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.14 – UniCredit – Teil 14/15 (Y 95–95)
+### Schritt 15.14 – UniCredit – Teil 14/15 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 879
 - **Bauteile:** `r1593171`
 
@@ -499,9 +506,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.15 – UniCredit – Teil 15/15 (Y 96–99)
+### Schritt 15.15 – UniCredit – Teil 15/15 (Y 97–100)
 
-- **Y-Bereich:** 96 bis 99
+- **Y-Bereich:** 97 bis 100
 - **Blöcke:** 1.406
 - **Bauteile:** `r1593171`
 
@@ -528,9 +535,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.16 – UniCredit: Innenausbau – Teil 1/4 (Y 63–73)
+### Schritt 15.16 – UniCredit: Innenausbau – Teil 1/4 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.106
 - **Bauteile:** `r1593171_innen`
 
@@ -570,9 +577,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.17 – UniCredit: Innenausbau – Teil 2/4 (Y 73–73)
+### Schritt 15.17 – UniCredit: Innenausbau – Teil 2/4 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.054
 - **Bauteile:** `r1593171_innen`
 
@@ -599,9 +606,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.18 – UniCredit: Innenausbau – Teil 3/4 (Y 74–83)
+### Schritt 15.18 – UniCredit: Innenausbau – Teil 3/4 (Y 75–84)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.100
 - **Bauteile:** `r1593171_innen`
 
@@ -643,9 +650,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.19 – UniCredit: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 15.19 – UniCredit: Innenausbau – Teil 4/4 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.063
 - **Bauteile:** `r1593171_innen`
 
@@ -683,17 +690,26 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.20 – Renaissance-Palazzo an Via del Campidoglio – Teil 1/13 (Y 63–63)
+### Schritt 15.20 – Renaissance-Palazzo an Via del Campidoglio – Teil 1/13 (Y 63–64)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.457
+- **Y-Bereich:** 63 bis 64
+- **Blöcke:** 1.475
 - **Bauteile:** `w483096024`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.457 |
+| Polierter Tuffstein | `polished_tuff` | 1.449 |
+| Tuffstein | `tuff` | 20 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -711,9 +727,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.21 – Renaissance-Palazzo an Via del Campidoglio – Teil 2/13 (Y 63–63)
+### Schritt 15.21 – Renaissance-Palazzo an Via del Campidoglio – Teil 2/13 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.459
 - **Bauteile:** `w483096024`
 
@@ -739,9 +755,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.22 – Renaissance-Palazzo an Via del Campidoglio – Teil 3/13 (Y 63–65)
+### Schritt 15.22 – Renaissance-Palazzo an Via del Campidoglio – Teil 3/13 (Y 64–66)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 64 bis 66
 - **Blöcke:** 2.027
 - **Bauteile:** `w483096024`
 
@@ -771,21 +787,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.23 – Renaissance-Palazzo an Via del Campidoglio – Teil 4/13 (Y 66–71)
+### Schritt 15.23 – Renaissance-Palazzo an Via del Campidoglio – Teil 4/13 (Y 67–71)
 
-- **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.765
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 1.470
 - **Bauteile:** `w483096024`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 860 |
-| Glatter Stein | `smooth_stone` | 449 |
-| Graues Buntglas | `gray_stained_glass` | 278 |
-| Tuffsteinziegel | `tuff_bricks` | 114 |
-| Polierter Andesit | `polished_andesite` | 64 |
+| Tuffstein | `tuff` | 703 |
+| Glatter Stein | `smooth_stone` | 395 |
+| Graues Buntglas | `gray_stained_glass` | 220 |
+| Tuffsteinziegel | `tuff_bricks` | 90 |
+| Polierter Andesit | `polished_andesite` | 62 |
 
 **Beschreibung**
 
@@ -803,20 +819,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.24 – Renaissance-Palazzo an Via del Campidoglio – Teil 5/13 (Y 72–75)
+### Schritt 15.24 – Renaissance-Palazzo an Via del Campidoglio – Teil 5/13 (Y 72–76)
 
-- **Y-Bereich:** 72 bis 75
-- **Blöcke:** 1.594
+- **Y-Bereich:** 72 bis 76
+- **Blöcke:** 1.889
 - **Bauteile:** `w483096024`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 817 |
-| Glatter Stein | `smooth_stone` | 503 |
-| Tuffsteinziegel | `tuff_bricks` | 171 |
-| Polierter Andesit | `polished_andesite` | 103 |
+| Tuffstein | `tuff` | 974 |
+| Glatter Stein | `smooth_stone` | 557 |
+| Tuffsteinziegel | `tuff_bricks` | 195 |
+| Polierter Andesit | `polished_andesite` | 105 |
+| Graues Buntglas | `gray_stained_glass` | 58 |
 
 **Beschreibung**
 
@@ -834,9 +851,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.25 – Renaissance-Palazzo an Via del Campidoglio – Teil 6/13 (Y 76–80)
+### Schritt 15.25 – Renaissance-Palazzo an Via del Campidoglio – Teil 6/13 (Y 77–81)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.651
 - **Bauteile:** `w483096024`
 
@@ -866,9 +883,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.26 – Renaissance-Palazzo an Via del Campidoglio – Teil 7/13 (Y 81–84)
+### Schritt 15.26 – Renaissance-Palazzo an Via del Campidoglio – Teil 7/13 (Y 82–85)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.681
 - **Bauteile:** `w483096024`
 
@@ -898,9 +915,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.27 – Renaissance-Palazzo an Via del Campidoglio – Teil 8/13 (Y 85–88)
+### Schritt 15.27 – Renaissance-Palazzo an Via del Campidoglio – Teil 8/13 (Y 86–89)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 86 bis 89
 - **Blöcke:** 1.352
 - **Bauteile:** `w483096024`
 
@@ -929,9 +946,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.28 – Renaissance-Palazzo an Via del Campidoglio – Teil 9/13 (Y 89–92)
+### Schritt 15.28 – Renaissance-Palazzo an Via del Campidoglio – Teil 9/13 (Y 90–93)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 90 bis 93
 - **Blöcke:** 1.603
 - **Bauteile:** `w483096024`
 
@@ -961,9 +978,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.29 – Renaissance-Palazzo an Via del Campidoglio – Teil 10/13 (Y 93–94)
+### Schritt 15.29 – Renaissance-Palazzo an Via del Campidoglio – Teil 10/13 (Y 94–95)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.757
 - **Bauteile:** `w483096024`
 
@@ -993,9 +1010,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.30 – Renaissance-Palazzo an Via del Campidoglio – Teil 11/13 (Y 95–96)
+### Schritt 15.30 – Renaissance-Palazzo an Via del Campidoglio – Teil 11/13 (Y 96–97)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 96 bis 97
 - **Blöcke:** 1.523
 - **Bauteile:** `w483096024`
 
@@ -1021,9 +1038,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.31 – Renaissance-Palazzo an Via del Campidoglio – Teil 12/13 (Y 97–99)
+### Schritt 15.31 – Renaissance-Palazzo an Via del Campidoglio – Teil 12/13 (Y 98–100)
 
-- **Y-Bereich:** 97 bis 99
+- **Y-Bereich:** 98 bis 100
 - **Blöcke:** 1.731
 - **Bauteile:** `w483096024`
 
@@ -1050,9 +1067,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.32 – Renaissance-Palazzo an Via del Campidoglio – Teil 13/13 (Y 100–107)
+### Schritt 15.32 – Renaissance-Palazzo an Via del Campidoglio – Teil 13/13 (Y 101–108)
 
-- **Y-Bereich:** 100 bis 107
+- **Y-Bereich:** 101 bis 108
 - **Blöcke:** 1.743
 - **Bauteile:** `w483096024`
 
@@ -1079,9 +1096,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.33 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 15.33 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 1/4 (Y 64–75)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 2.077
 - **Bauteile:** `w483096024_innen`
 
@@ -1121,9 +1138,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.34 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 15.34 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 2/4 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.978
 - **Bauteile:** `w483096024_innen`
 
@@ -1157,9 +1174,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.35 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 15.35 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 3/4 (Y 76–84)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 2.056
 - **Bauteile:** `w483096024_innen`
 
@@ -1201,11 +1218,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.36 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 15.36 – Renaissance-Palazzo an Via del Campidoglio: Innenausbau – Teil 4/4 (Y 84–85) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.987
-- **Bauteile:** `w483096024_innen`
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.993
+- **Bauteile:** `w483096024_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1213,9 +1230,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.966 |
 | Seelaterne | `sea_lantern` | 10 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -1229,16 +1249,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

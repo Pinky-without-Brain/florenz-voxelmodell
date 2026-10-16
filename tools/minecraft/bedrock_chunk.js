@@ -2,7 +2,7 @@
 // Bedrock-Chunkformat: Subchunk Version 9 (Tag 47), Data3D (Tag 43), Schlüssel.
 const nbt = require('./nbt_le.js');
 
-const TAG = { DATA3D: 43, VERSION: 44, SUBCHUNK: 47, FINALIZED: 54 };
+const TAG = { DATA3D: 43, VERSION: 44, SUBCHUNK: 47, BLOCKENTITY: 49, FINALIZED: 54 };
 const Y_MIN_INDEX = -4, Y_MAX_INDEX = 19; // y -64..319
 const BITS_ERLAUBT = [1, 2, 3, 4, 5, 6, 8, 16];
 

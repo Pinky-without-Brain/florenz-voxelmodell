@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.714 |
+| Blöcke | 18.833 |
 | Bauschritte | 11 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 54 bis 94 |
 | X-Ausdehnung | -2029 bis -1975 (55 Blöcke) |
 | Z-Ausdehnung | -1186 bis -1125 (62 Blöcke) |
 | Kleinster Schritt | 1.312 Blöcke (Schritt 39.11) |
-| Mittlerer Schritt | 1.701 Blöcke |
+| Mittlerer Schritt | 1.712 Blöcke |
 | Größter Schritt | 2.048 Blöcke (Schritt 39.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 8.135 | 43,5 % |
-| Terrakotta | `terracotta` | 4.799 | 25,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.135 | 43,2 % |
+| Terrakotta | `terracotta` | 4.799 | 25,5 % |
 | Polierter Tuffstein | `polished_tuff` | 1.673 | 8,9 % |
 | Weißer Beton | `white_concrete` | 1.390 | 7,4 % |
 | Graues Buntglas | `gray_stained_glass` | 828 | 4,4 % |
 | Grüner Beton | `green_concrete` | 575 | 3,1 % |
 | Glatter Stein | `smooth_stone` | 565 | 3,0 % |
 | Polierter Andesit | `polished_andesite` | 549 | 2,9 % |
+| Tuffstein | `tuff` | 119 | 0,6 % |
 | Ziegelsteine | `bricks` | 106 | 0,6 % |
 | Seelaterne | `sea_lantern` | 24 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,1 % |
@@ -51,15 +52,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443083521` | Haus w443083521 | 16.081 | 39.1–39.9 |
+| 1 | `w443083521` | Haus w443083521 | 16.200 | 39.1–39.9 |
 | 2 | `w443083521_innen` | Haus w443083521: Innenausbau | 2.633 | 39.10–39.11 |
 
 ## Bauschritte
 
-### Schritt 39.1 – Haus w443083521 – Teil 1/9 (Y 63–63)
+### Schritt 39.1 – Haus w443083521 – Teil 1/9 (Y 54–57)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.673
+- **Y-Bereich:** 54 bis 57
+- **Blöcke:** 1.792
 - **Bauteile:** `w443083521`
 
 **Teileliste**
@@ -67,6 +68,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.673 |
+| Tuffstein | `tuff` | 119 |
 
 **Beschreibung**
 
@@ -84,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.2 – Haus w443083521 – Teil 2/9 (Y 64–68)
+### Schritt 39.2 – Haus w443083521 – Teil 2/9 (Y 58–62)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 58 bis 62
 - **Blöcke:** 1.940
 - **Bauteile:** `w443083521`
 
@@ -118,19 +120,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.3 – Haus w443083521 – Teil 3/9 (Y 69–73)
+### Schritt 39.3 – Haus w443083521 – Teil 3/9 (Y 63–66)
 
-- **Y-Bereich:** 69 bis 73
-- **Blöcke:** 1.931
+- **Y-Bereich:** 63 bis 66
+- **Blöcke:** 1.518
 - **Bauteile:** `w443083521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.293 |
+| Gelbe Keramik | `yellow_terracotta` | 888 |
 | Weißer Beton | `white_concrete` | 249 |
-| Polierter Andesit | `polished_andesite` | 141 |
+| Polierter Andesit | `polished_andesite` | 133 |
 | Graues Buntglas | `gray_stained_glass` | 114 |
 | Grüner Beton | `green_concrete` | 111 |
 | Glatter Stein | `smooth_stone` | 13 |
@@ -152,21 +154,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.4 – Haus w443083521 – Teil 4/9 (Y 74–77)
+### Schritt 39.4 – Haus w443083521 – Teil 4/9 (Y 67–71)
 
-- **Y-Bereich:** 74 bis 77
-- **Blöcke:** 1.610
+- **Y-Bereich:** 67 bis 71
+- **Blöcke:** 2.023
 - **Bauteile:** `w443083521`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.064 |
+| Gelbe Keramik | `yellow_terracotta` | 1.469 |
 | Glatter Stein | `smooth_stone` | 245 |
 | Weißer Beton | `white_concrete` | 160 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
-| Polierter Andesit | `polished_andesite` | 42 |
+| Polierter Andesit | `polished_andesite` | 50 |
 | Grüner Beton | `green_concrete` | 39 |
 
 **Beschreibung**
@@ -185,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.5 – Haus w443083521 – Teil 5/9 (Y 78–82)
+### Schritt 39.5 – Haus w443083521 – Teil 5/9 (Y 72–76)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.897
 - **Bauteile:** `w443083521`
 
@@ -217,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.6 – Haus w443083521 – Teil 6/9 (Y 83–86)
+### Schritt 39.6 – Haus w443083521 – Teil 6/9 (Y 77–80)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 77 bis 80
 - **Blöcke:** 1.610
 - **Bauteile:** `w443083521`
 
@@ -250,9 +252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.7 – Haus w443083521 – Teil 7/9 (Y 87–91)
+### Schritt 39.7 – Haus w443083521 – Teil 7/9 (Y 81–85)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 81 bis 85
 - **Blöcke:** 1.897
 - **Bauteile:** `w443083521`
 
@@ -282,9 +284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.8 – Haus w443083521 – Teil 8/9 (Y 92–94)
+### Schritt 39.8 – Haus w443083521 – Teil 8/9 (Y 86–88)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 2.048
 - **Bauteile:** `w443083521`
 
@@ -312,9 +314,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.9 – Haus w443083521 – Teil 9/9 (Y 95–100)
+### Schritt 39.9 – Haus w443083521 – Teil 9/9 (Y 89–94)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 89 bis 94
 - **Blöcke:** 1.475
 - **Bauteile:** `w443083521`
 
@@ -341,9 +343,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.10 – Haus w443083521: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 39.10 – Haus w443083521: Innenausbau – Teil 1/2 (Y 57–68)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 57 bis 68
 - **Blöcke:** 1.321
 - **Bauteile:** `w443083521_innen`
 
@@ -383,9 +385,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 39.11 – Haus w443083521: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 39.11 – Haus w443083521: Innenausbau – Teil 2/2 (Y 69–78)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 69 bis 78
 - **Blöcke:** 1.312
 - **Bauteile:** `w443083521_innen`
 

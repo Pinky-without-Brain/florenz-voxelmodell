@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 12.888 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 69 bis 106 |
 | X-Ausdehnung | -2923 bis -2875 (49 Blöcke) |
 | Z-Ausdehnung | 1792 bis 1843 (52 Blöcke) |
 | Kleinster Schritt | 1.618 Blöcke (Schritt 10.7) |
@@ -55,9 +55,9 @@
 
 ## Bauschritte
 
-### Schritt 10.1 – Palazzo des Cinquecento an Via dei Villani – Teil 1/6 (Y 63–66)
+### Schritt 10.1 – Palazzo des Cinquecento an Via dei Villani – Teil 1/6 (Y 69–72)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.910
 - **Bauteile:** `w442946778`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Palazzo des Cinquecento an Via dei Villani – Teil 2/6 (Y 67–73)
+### Schritt 10.2 – Palazzo des Cinquecento an Via dei Villani – Teil 2/6 (Y 73–79)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.951
 - **Bauteile:** `w442946778`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Palazzo des Cinquecento an Via dei Villani – Teil 3/6 (Y 74–79)
+### Schritt 10.3 – Palazzo des Cinquecento an Via dei Villani – Teil 3/6 (Y 80–85)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.687
 - **Bauteile:** `w442946778`
 
@@ -148,9 +148,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Palazzo des Cinquecento an Via dei Villani – Teil 4/6 (Y 80–86)
+### Schritt 10.4 – Palazzo des Cinquecento an Via dei Villani – Teil 4/6 (Y 86–92)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.988
 - **Bauteile:** `w442946778`
 
@@ -179,9 +179,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Palazzo des Cinquecento an Via dei Villani – Teil 5/6 (Y 87–92)
+### Schritt 10.5 – Palazzo des Cinquecento an Via dei Villani – Teil 5/6 (Y 93–98)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.709
 - **Bauteile:** `w442946778`
 
@@ -210,9 +210,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Palazzo des Cinquecento an Via dei Villani – Teil 6/6 (Y 93–100)
+### Schritt 10.6 – Palazzo des Cinquecento an Via dei Villani – Teil 6/6 (Y 99–106)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 99 bis 106
 - **Blöcke:** 2.025
 - **Bauteile:** `w442946778`
 
@@ -244,7 +244,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 10.7 – Palazzo des Cinquecento an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 69 bis 90
 - **Blöcke:** 1.618
 - **Bauteile:** `w442946778_innen`
 

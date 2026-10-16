@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 27.310 |
+| Blöcke | 27.442 |
 | Bauschritte | 16 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 62 bis 100 |
 | X-Ausdehnung | -2948 bis -2868 (81 Blöcke) |
 | Z-Ausdehnung | 1563 bis 1638 (76 Blöcke) |
 | Kleinster Schritt | 565 Blöcke (Schritt 9.16) |
-| Mittlerer Schritt | 1.707 Blöcke |
-| Größter Schritt | 2.037 Blöcke (Schritt 9.9) |
+| Mittlerer Schritt | 1.715 Blöcke |
+| Größter Schritt | 2.076 Blöcke (Schritt 9.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 6.223 | 22,8 % |
-| Endsteinziegel | `end_stone_bricks` | 5.407 | 19,8 % |
-| Tuffstein | `tuff` | 3.944 | 14,4 % |
-| Polierter Andesit | `polished_andesite` | 3.640 | 13,3 % |
+| Terrakotta | `terracotta` | 6.223 | 22,7 % |
+| Endsteinziegel | `end_stone_bricks` | 5.407 | 19,7 % |
+| Tuffstein | `tuff` | 4.080 | 14,9 % |
+| Polierter Andesit | `polished_andesite` | 3.636 | 13,2 % |
 | Gelbe Keramik | `yellow_terracotta` | 2.211 | 8,1 % |
 | Polierter Tuffstein | `polished_tuff` | 2.107 | 7,7 % |
 | Glatter Stein | `smooth_stone` | 903 | 3,3 % |
@@ -54,19 +54,19 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w464120039` | Renaissance-Palazzo an Via San Francesco di Paola | 12.477 | 9.1–9.7 |
+| 1 | `w464120039` | Renaissance-Palazzo an Via San Francesco di Paola | 12.491 | 9.1–9.7 |
 | 2 | `w464120039_innen` | Renaissance-Palazzo an Via San Francesco di Paola: Innenausbau | 1.960 | 9.8 |
-| 3 | `w464120115` | Reihenhaus an Via Domenico Burchiello | 7.766 | 9.9–9.12 |
+| 3 | `w464120115` | Reihenhaus an Via Domenico Burchiello | 7.884 | 9.9–9.12 |
 | 4 | `w464120115_innen` | Reihenhaus an Via Domenico Burchiello: Innenausbau | 1.321 | 9.13 |
 | 5 | `w464120225` | Haus w464120225 | 3.221 | 9.14–9.15 |
 | 6 | `w464120225_innen` | Haus w464120225: Innenausbau | 565 | 9.16 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Renaissance-Palazzo an Via San Francesco di Paola – Teil 1/7 (Y 63–65)
+### Schritt 9.1 – Renaissance-Palazzo an Via San Francesco di Paola – Teil 1/7 (Y 62–65)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.801
+- **Y-Bereich:** 62 bis 65
+- **Blöcke:** 1.819
 - **Bauteile:** `w464120039`
 
 **Teileliste**
@@ -74,7 +74,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.249 |
-| Tuffstein | `tuff` | 387 |
+| Tuffstein | `tuff` | 405 |
 | Tuffsteinziegel | `tuff_bricks` | 139 |
 | Glatter Stein | `smooth_stone` | 17 |
 | Polierter Andesit | `polished_andesite` | 9 |
@@ -98,7 +98,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 9.2 – Renaissance-Palazzo an Via San Francesco di Paola – Teil 2/7 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.692
+- **Blöcke:** 1.688
 - **Bauteile:** `w464120039`
 
 **Teileliste**
@@ -106,7 +106,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 894 |
-| Polierter Andesit | `polished_andesite` | 447 |
+| Polierter Andesit | `polished_andesite` | 443 |
 | Tuffsteinziegel | `tuff_bricks` | 164 |
 | Graues Buntglas | `gray_stained_glass` | 135 |
 | Glatter Stein | `smooth_stone` | 52 |
@@ -325,19 +325,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.9 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 63–70)
+### Schritt 9.9 – Reihenhaus an Via Domenico Burchiello – Teil 1/4 (Y 62–69)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 2.037
+- **Y-Bereich:** 62 bis 69
+- **Blöcke:** 1.945
 - **Bauteile:** `w464120115`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.208 |
+| Endsteinziegel | `end_stone_bricks` | 1.038 |
 | Polierter Tuffstein | `polished_tuff` | 611 |
-| Weißer Beton | `white_concrete` | 158 |
+| Tuffstein | `tuff` | 118 |
+| Weißer Beton | `white_concrete` | 118 |
 | Graues Buntglas | `gray_stained_glass` | 42 |
 | Glatter Stein | `smooth_stone` | 18 |
 
@@ -357,18 +358,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.10 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 71–79)
+### Schritt 9.10 – Reihenhaus an Via Domenico Burchiello – Teil 2/4 (Y 70–79)
 
-- **Y-Bereich:** 71 bis 79
-- **Blöcke:** 1.866
+- **Y-Bereich:** 70 bis 79
+- **Blöcke:** 2.076
 - **Bauteile:** `w464120115`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.575 |
-| Weißer Beton | `white_concrete` | 243 |
+| Endsteinziegel | `end_stone_bricks` | 1.745 |
+| Weißer Beton | `white_concrete` | 283 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
 **Beschreibung**

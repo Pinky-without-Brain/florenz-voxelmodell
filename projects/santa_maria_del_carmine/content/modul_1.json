@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: die unvollendete Front zur Piazza del Carmine",
+  "icon": "⛪",
+  "parts": {
+    "fassade": {
+      "title": "Rohe Fassade",
+      "description": "Die Front ist nie verkleidet worden: Bruchstein, Tuff und Ziegel wild gemischt bis Y 118 in der Mitte, mit Hauptportal, zwei Seitentüren und einem Rundfenster auf Y 96.",
+      "tip": "Mische die drei Steinsorten unregelmäßig.",
+      "caution": "Lass die Portale ganz frei.",
+      "fact": "Die Fassade ist bis heute eine „alta e grezza mole“, ein hoher roher Baukörper aus Bruchstein und Ziegel."
+    }
+  }
+}

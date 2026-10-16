@@ -8,23 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 603 |
+| Blöcke | 605 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 78 |
+| Y-Bereich | 89 bis 104 |
 | X-Ausdehnung | 1278 bis 1286 (9 Blöcke) |
 | Z-Ausdehnung | 1983 bis 1992 (10 Blöcke) |
-| Kleinster Schritt | 603 Blöcke (Schritt 39.1) |
-| Mittlerer Schritt | 603 Blöcke |
-| Größter Schritt | 603 Blöcke (Schritt 39.1) |
+| Kleinster Schritt | 605 Blöcke (Schritt 39.1) |
+| Mittlerer Schritt | 605 Blöcke |
+| Größter Schritt | 605 Blöcke (Schritt 39.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 460 | 76,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 460 | 76,0 % |
 | Terrakotta | `terracotta` | 84 | 13,9 % |
 | Polierter Tuffstein | `polished_tuff` | 55 | 9,1 % |
 | Ziegelsteine | `bricks` | 3 | 0,5 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,3 % |
 | Seelaterne | `sea_lantern` | 1 | 0,2 % |
 
 ## Bauteile in Bau-Reihenfolge
@@ -33,14 +34,15 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w690889355` | Nebengebäude an Rampe Giuseppe Poggi | 602 | 39.1 |
 | 2 | `w690889355_innen` | Nebengebäude an Rampe Giuseppe Poggi: Innenausbau | 1 | 39.1 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 39.1 |
 
 ## Bauschritte
 
-### Schritt 39.1 – Nebengebäude an Rampe Giuseppe Poggi & Nebengebäude an Rampe Giuseppe Poggi: Innenausbau
+### Schritt 39.1 – Nebengebäude an Rampe Giuseppe Poggi & Nebengebäude an Rampe Giuseppe Poggi: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 603
-- **Bauteile:** `w690889355`, `w690889355_innen`
+- **Y-Bereich:** 89 bis 104
+- **Blöcke:** 605
+- **Bauteile:** `w690889355`, `w690889355_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -50,20 +52,21 @@
 | Terrakotta | `terracotta` | 84 |
 | Polierter Tuffstein | `polished_tuff` | 55 |
 | Ziegelsteine | `bricks` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Seelaterne | `sea_lantern` | 1 |
 
 **Beschreibung**
 
-Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt.
+Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Ein hoher Raum ohne Obergeschoss, Seelaternen im Boden als Licht, Tische, Stühle aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

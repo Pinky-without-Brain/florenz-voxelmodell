@@ -8,25 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 23.250 |
+| Blöcke | 24.041 |
 | Bauschritte | 13 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 68 bis 109 |
 | X-Ausdehnung | 476 bis 550 (75 Blöcke) |
 | Z-Ausdehnung | -1463 bis -1404 (60 Blöcke) |
-| Kleinster Schritt | 1.071 Blöcke (Schritt 11.1) |
-| Mittlerer Schritt | 1.788 Blöcke |
-| Größter Schritt | 2.065 Blöcke (Schritt 11.4) |
+| Kleinster Schritt | 1.673 Blöcke (Schritt 11.4) |
+| Mittlerer Schritt | 1.849 Blöcke |
+| Größter Schritt | 2.098 Blöcke (Schritt 11.10) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 10.339 | 44,5 % |
-| Terrakotta | `terracotta` | 8.214 | 35,3 % |
-| Polierter Tuffstein | `polished_tuff` | 2.144 | 9,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 1.186 | 5,1 % |
-| Graues Buntglas | `gray_stained_glass` | 912 | 3,9 % |
-| Glatter Stein | `smooth_stone` | 155 | 0,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 10.339 | 43,0 % |
+| Terrakotta | `terracotta` | 8.214 | 34,2 % |
+| Polierter Tuffstein | `polished_tuff` | 2.144 | 8,9 % |
+| Fichtenholz-Bretter | `spruce_planks` | 1.186 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 912 | 3,8 % |
+| Tuffstein | `tuff` | 791 | 3,3 % |
+| Glatter Stein | `smooth_stone` | 155 | 0,6 % |
 | Ziegelsteine | `bricks` | 136 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 | 0,3 % |
 | Seelaterne | `sea_lantern` | 40 | 0,2 % |
@@ -45,15 +46,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w487162477` | Reihenhaus an Via Giorgio La Pira | 17.959 | 11.1–11.10 |
+| 1 | `w487162477` | Reihenhaus an Via Giorgio La Pira | 18.750 | 11.1–11.10 |
 | 2 | `w487162477_innen` | Reihenhaus an Via Giorgio La Pira: Innenausbau | 5.291 | 11.11–11.13 |
 
 ## Bauschritte
 
-### Schritt 11.1 – Reihenhaus an Via Giorgio La Pira – Teil 1/10 (Y 63–63)
+### Schritt 11.1 – Reihenhaus an Via Giorgio La Pira – Teil 1/10 (Y 68–70)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.071
+- **Y-Bereich:** 68 bis 70
+- **Blöcke:** 1.862
 - **Bauteile:** `w487162477`
 
 **Teileliste**
@@ -61,6 +62,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.071 |
+| Tuffstein | `tuff` | 791 |
 
 **Beschreibung**
 
@@ -78,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.2 – Reihenhaus an Via Giorgio La Pira – Teil 2/10 (Y 63–65)
+### Schritt 11.2 – Reihenhaus an Via Giorgio La Pira – Teil 2/10 (Y 70–72)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 70 bis 72
 - **Blöcke:** 1.887
 - **Bauteile:** `w487162477`
 
@@ -109,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.3 – Reihenhaus an Via Giorgio La Pira – Teil 3/10 (Y 66–70)
+### Schritt 11.3 – Reihenhaus an Via Giorgio La Pira – Teil 3/10 (Y 73–77)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.983
 - **Bauteile:** `w487162477`
 
@@ -140,19 +142,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.4 – Reihenhaus an Via Giorgio La Pira – Teil 4/10 (Y 71–75)
+### Schritt 11.4 – Reihenhaus an Via Giorgio La Pira – Teil 4/10 (Y 78–81)
 
-- **Y-Bereich:** 71 bis 75
-- **Blöcke:** 2.065
+- **Y-Bereich:** 78 bis 81
+- **Blöcke:** 1.673
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.809 |
-| Fichtenholz-Bretter | `spruce_planks` | 112 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Gelbe Keramik | `yellow_terracotta` | 1.528 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+| Graues Buntglas | `gray_stained_glass` | 55 |
 | Glatter Stein | `smooth_stone` | 34 |
 
 **Beschreibung**
@@ -171,19 +173,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.5 – Reihenhaus an Via Giorgio La Pira – Teil 5/10 (Y 76–80)
+### Schritt 11.5 – Reihenhaus an Via Giorgio La Pira – Teil 5/10 (Y 82–86)
 
-- **Y-Bereich:** 76 bis 80
-- **Blöcke:** 2.065
+- **Y-Bereich:** 82 bis 86
+- **Blöcke:** 2.030
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.843 |
-| Fichtenholz-Bretter | `spruce_planks` | 112 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Gelbe Keramik | `yellow_terracotta` | 1.697 |
+| Fichtenholz-Bretter | `spruce_planks` | 168 |
+| Graues Buntglas | `gray_stained_glass` | 165 |
 
 **Beschreibung**
 
@@ -201,17 +203,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.6 – Reihenhaus an Via Giorgio La Pira – Teil 6/10 (Y 81–84)
+### Schritt 11.6 – Reihenhaus an Via Giorgio La Pira – Teil 6/10 (Y 87–91)
 
-- **Y-Bereich:** 81 bis 84
-- **Blöcke:** 1.568
+- **Y-Bereich:** 87 bis 91
+- **Blöcke:** 1.995
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.124 |
+| Gelbe Keramik | `yellow_terracotta` | 1.551 |
 | Fichtenholz-Bretter | `spruce_planks` | 224 |
 | Graues Buntglas | `gray_stained_glass` | 220 |
 
@@ -231,19 +233,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.7 – Reihenhaus an Via Giorgio La Pira – Teil 7/10 (Y 85–89)
+### Schritt 11.7 – Reihenhaus an Via Giorgio La Pira – Teil 7/10 (Y 92–95)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 2.065
+- **Y-Bereich:** 92 bis 95
+- **Blöcke:** 1.673
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.843 |
-| Fichtenholz-Bretter | `spruce_planks` | 112 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Gelbe Keramik | `yellow_terracotta` | 1.562 |
+| Fichtenholz-Bretter | `spruce_planks` | 56 |
+| Graues Buntglas | `gray_stained_glass` | 55 |
 
 **Beschreibung**
 
@@ -261,19 +263,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.8 – Reihenhaus an Via Giorgio La Pira – Teil 8/10 (Y 90–93)
+### Schritt 11.8 – Reihenhaus an Via Giorgio La Pira – Teil 8/10 (Y 96–99)
 
-- **Y-Bereich:** 90 bis 93
-- **Blöcke:** 2.032
+- **Y-Bereich:** 96 bis 99
+- **Blöcke:** 1.675
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.416 |
-| Fichtenholz-Bretter | `spruce_planks` | 506 |
-| Graues Buntglas | `gray_stained_glass` | 110 |
+| Gelbe Keramik | `yellow_terracotta` | 1.270 |
+| Fichtenholz-Bretter | `spruce_planks` | 240 |
+| Graues Buntglas | `gray_stained_glass` | 165 |
 
 **Beschreibung**
 
@@ -291,17 +293,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.9 – Reihenhaus an Via Giorgio La Pira – Teil 9/10 (Y 94–95)
+### Schritt 11.9 – Reihenhaus an Via Giorgio La Pira – Teil 9/10 (Y 100–101)
 
-- **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.602
+- **Y-Bereich:** 100 bis 101
+- **Blöcke:** 1.874
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.602 |
+| Terrakotta | `terracotta` | 1.125 |
+| Gelbe Keramik | `yellow_terracotta` | 427 |
+| Fichtenholz-Bretter | `spruce_planks` | 322 |
 
 **Beschreibung**
 
@@ -319,17 +323,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.10 – Reihenhaus an Via Giorgio La Pira – Teil 10/10 (Y 96–102)
+### Schritt 11.10 – Reihenhaus an Via Giorgio La Pira – Teil 10/10 (Y 102–109)
 
-- **Y-Bereich:** 96 bis 102
-- **Blöcke:** 1.621
+- **Y-Bereich:** 102 bis 109
+- **Blöcke:** 2.098
 - **Bauteile:** `w487162477`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.485 |
+| Terrakotta | `terracotta` | 1.962 |
 | Ziegelsteine | `bricks` | 136 |
 
 **Beschreibung**
@@ -348,9 +352,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 11.11 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 11.11 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 1/3 (Y 70–79)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 70 bis 79
 - **Blöcke:** 1.771
 - **Bauteile:** `w487162477_innen`
 
@@ -386,9 +390,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.12 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 11.12 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 2/3 (Y 80–86)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 80 bis 86
 - **Blöcke:** 1.756
 - **Bauteile:** `w487162477_innen`
 
@@ -424,9 +428,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 11.13 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 11.13 – Reihenhaus an Via Giorgio La Pira: Innenausbau – Teil 3/3 (Y 87–94)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.764
 - **Bauteile:** `w487162477_innen`
 

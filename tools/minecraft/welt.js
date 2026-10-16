@@ -7,7 +7,7 @@ const path = require('node:path');
 const GEL = require('../geo/gelaende.js');
 const grid = require('../geom/grid.js');
 const { loadRegistry, ROOT } = require('../projects.js');
-const { buildWorld, listModules, isUnabhaengig, vergissGenerator } = require('../model/world.js');
+const { buildWorld, listModules, isUnabhaengig, vergissGenerator, isGeneriert, ladeGenerator } = require('../model/world.js');
 const { typesForRole } = require('../spec/palette.js');
 const { ALLE_TYPEN } = require('./bedrock_bloecke.js');
 
@@ -136,12 +136,24 @@ class WeltDaten {
   _projekte() {
     const reg = loadRegistry(this.opts.registry || {});
     this.projektGebaeude = new Set(DOM_IDS);
+    this.schilder = new Map(); // Chunk (cx * 65536 + cz) -> [{ x, y, z, text }]
     this.gebauteProjekte = new Set(['duomo']);
     const bucketAdd = (key, v) => { let a = this.buckets.get(key); if (!a) this.buckets.set(key, a = []); a.push(v); };
     for (const p of reg.projects) {
       // Unabhängige Module (Stadtgrund) einzeln bauen: ein Grid je Modul
       const laeufe = isUnabhaengig(p) ? listModules(p).numbers.map((n) => [n]) : [undefined];
       for (const mods of laeufe) this._projekt(p, buildWorld({ project: p, modules: mods }), bucketAdd);
+      // Straßenschilder (Quartiere): Texte für die Block-Entities sammeln, solange der Generator-Cache noch lebt
+      if (isGeneriert(p)) {
+        const q = ladeGenerator(p);
+        for (const sch of (q && q.schilder ? q.schilder.values() : [])) {
+          if (sch.y < Y_MIN || sch.y > Y_MAX) continue;
+          if (this.bereich && (sch.x < this.bereich.x0 || sch.x > this.bereich.x1 || sch.z < this.bereich.z0 || sch.z > this.bereich.z1)) continue;
+          const k = (sch.x >> 4) * 65536 + (sch.z >> 4);
+          let l = this.schilder.get(k); if (!l) this.schilder.set(k, l = []);
+          l.push(sch);
+        }
+      }
       // Generator-Caches (Quartier, Stadtgrund) freigeben, sonst wächst der Heap mit jedem Projekt
       vergissGenerator(p);
     }
@@ -286,6 +298,9 @@ class WeltDaten {
 
   // ---- Chunks ----
   /** Alle Chunk-Koordinaten [cx, cz] des Exports. */
+  /** Block-Entities (Straßenschilder) eines Chunks: [{ x, y, z, text }]. */
+  blockEntities(cx, cz) { return (this.schilder && this.schilder.get(cx * 65536 + cz)) || []; }
+
   chunkListe() {
     const set = new Set();
     const { x0, x1, z0, z1 } = this.r;

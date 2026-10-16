@@ -8,31 +8,31 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 29.924 |
+| Blöcke | 30.009 |
 | Bauschritte | 20 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 55 bis 93 |
 | X-Ausdehnung | -2597 bis -2530 (68 Blöcke) |
 | Z-Ausdehnung | 435 bis 544 (110 Blöcke) |
 | Kleinster Schritt | 965 Blöcke (Schritt 47.2) |
-| Mittlerer Schritt | 1.496 Blöcke |
-| Größter Schritt | 1.973 Blöcke (Schritt 47.18) |
+| Mittlerer Schritt | 1.500 Blöcke |
+| Größter Schritt | 2.040 Blöcke (Schritt 47.16) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 9.297 | 31,1 % |
-| Terrakotta | `terracotta` | 7.387 | 24,7 % |
-| Gelbe Keramik | `yellow_terracotta` | 3.426 | 11,4 % |
-| Polierter Tuffstein | `polished_tuff` | 2.576 | 8,6 % |
+| Hellgrauer Beton | `light_gray_concrete` | 9.297 | 31,0 % |
+| Terrakotta | `terracotta` | 7.385 | 24,6 % |
+| Gelbe Keramik | `yellow_terracotta` | 3.508 | 11,7 % |
+| Polierter Tuffstein | `polished_tuff` | 2.575 | 8,6 % |
 | Weißer Beton | `white_concrete` | 1.947 | 6,5 % |
-| Glatter Stein | `smooth_stone` | 1.864 | 6,2 % |
-| Graues Buntglas | `gray_stained_glass` | 1.393 | 4,7 % |
+| Glatter Stein | `smooth_stone` | 1.867 | 6,2 % |
+| Graues Buntglas | `gray_stained_glass` | 1.393 | 4,6 % |
 | Grüner Beton | `green_concrete` | 872 | 2,9 % |
 | Polierter Andesit | `polished_andesite` | 417 | 1,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 386 | 1,3 % |
 | Ziegelsteine | `bricks` | 176 | 0,6 % |
-| Seelaterne | `sea_lantern` | 42 | 0,1 % |
+| Seelaterne | `sea_lantern` | 45 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 31 | 0,1 % |
@@ -55,14 +55,14 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w495060140` | Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa | 18.115 | 47.1–47.13 |
 | 2 | `w495060140_innen` | Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa: Innenausbau | 2.483 | 47.14–47.15 |
-| 3 | `w495060143` | Haus w495060143 | 7.761 | 47.16–47.19 |
-| 4 | `w495060143_innen` | Haus w495060143: Innenausbau | 1.565 | 47.20 |
+| 3 | `w495060143` | Haus w495060143 | 7.845 | 47.16–47.19 |
+| 4 | `w495060143_innen` | Haus w495060143: Innenausbau | 1.566 | 47.20 |
 
 ## Bauschritte
 
-### Schritt 47.1 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 1/13 (Y 63–63)
+### Schritt 47.1 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 1/13 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.656
 - **Bauteile:** `w495060140`
 
@@ -88,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.2 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 2/13 (Y 64–65)
+### Schritt 47.2 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 2/13 (Y 57–58)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 57 bis 58
 - **Blöcke:** 965
 - **Bauteile:** `w495060140`
 
@@ -120,9 +120,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.3 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 3/13 (Y 66–68)
+### Schritt 47.3 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 3/13 (Y 59–61)
 
-- **Y-Bereich:** 66 bis 68
+- **Y-Bereich:** 59 bis 61
 - **Blöcke:** 1.365
 - **Bauteile:** `w495060140`
 
@@ -154,9 +154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.4 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 4/13 (Y 69–72)
+### Schritt 47.4 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 4/13 (Y 62–65)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 62 bis 65
 - **Blöcke:** 1.781
 - **Bauteile:** `w495060140`
 
@@ -188,9 +188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.5 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 5/13 (Y 73–75)
+### Schritt 47.5 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 5/13 (Y 66–68)
 
-- **Y-Bereich:** 73 bis 75
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.425
 - **Bauteile:** `w495060140`
 
@@ -219,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.6 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 6/13 (Y 76–78)
+### Schritt 47.6 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 6/13 (Y 69–71)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 69 bis 71
 - **Blöcke:** 1.269
 - **Bauteile:** `w495060140`
 
@@ -251,9 +251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.7 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 7/13 (Y 79–81)
+### Schritt 47.7 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 7/13 (Y 72–74)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 72 bis 74
 - **Blöcke:** 1.321
 - **Bauteile:** `w495060140`
 
@@ -283,9 +283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.8 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 8/13 (Y 82–84)
+### Schritt 47.8 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 8/13 (Y 75–77)
 
-- **Y-Bereich:** 82 bis 84
+- **Y-Bereich:** 75 bis 77
 - **Blöcke:** 1.425
 - **Bauteile:** `w495060140`
 
@@ -314,9 +314,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.9 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 9/13 (Y 85–87)
+### Schritt 47.9 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 9/13 (Y 78–80)
 
-- **Y-Bereich:** 85 bis 87
+- **Y-Bereich:** 78 bis 80
 - **Blöcke:** 1.321
 - **Bauteile:** `w495060140`
 
@@ -346,9 +346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.10 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 10/13 (Y 88–90)
+### Schritt 47.10 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 10/13 (Y 81–83)
 
-- **Y-Bereich:** 88 bis 90
+- **Y-Bereich:** 81 bis 83
 - **Blöcke:** 1.269
 - **Bauteile:** `w495060140`
 
@@ -378,9 +378,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.11 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 11/13 (Y 91–93)
+### Schritt 47.11 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 11/13 (Y 84–86)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.811
 - **Bauteile:** `w495060140`
 
@@ -409,9 +409,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.12 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 12/13 (Y 94–94)
+### Schritt 47.12 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 12/13 (Y 87–87)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.343
 - **Bauteile:** `w495060140`
 
@@ -437,9 +437,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.13 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 13/13 (Y 95–100)
+### Schritt 47.13 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa – Teil 13/13 (Y 88–93)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.164
 - **Bauteile:** `w495060140`
 
@@ -466,9 +466,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.14 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 47.14 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa: Innenausbau – Teil 1/2 (Y 56–66)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 56 bis 66
 - **Blöcke:** 1.237
 - **Bauteile:** `w495060140_innen`
 
@@ -504,9 +504,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.15 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 47.15 – Palazzo des Cinquecento an Via lungo le Mura di Santa Rosa: Innenausbau – Teil 2/2 (Y 67–77)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 67 bis 77
 - **Blöcke:** 1.246
 - **Bauteile:** `w495060140_innen`
 
@@ -548,18 +548,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 47.16 – Haus w495060143 – Teil 1/4 (Y 63–69)
+### Schritt 47.16 – Haus w495060143 – Teil 1/4 (Y 55–61)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.959
+- **Y-Bereich:** 55 bis 61
+- **Blöcke:** 2.040
 - **Bauteile:** `w495060143`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 920 |
-| Gelbe Keramik | `yellow_terracotta` | 717 |
+| Polierter Tuffstein | `polished_tuff` | 919 |
+| Gelbe Keramik | `yellow_terracotta` | 799 |
 | Glatter Stein | `smooth_stone` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 75 |
 | Grüner Beton | `green_concrete` | 48 |
@@ -582,9 +582,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.17 – Haus w495060143 – Teil 2/4 (Y 70–80)
+### Schritt 47.17 – Haus w495060143 – Teil 2/4 (Y 62–72)
 
-- **Y-Bereich:** 70 bis 80
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.962
 - **Bauteile:** `w495060143`
 
@@ -615,9 +615,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.18 – Haus w495060143 – Teil 3/4 (Y 81–91)
+### Schritt 47.18 – Haus w495060143 – Teil 3/4 (Y 73–83)
 
-- **Y-Bereich:** 81 bis 91
+- **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.973
 - **Bauteile:** `w495060143`
 
@@ -647,10 +647,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 47.19 – Haus w495060143 – Teil 4/4 (Y 92–99)
+### Schritt 47.19 – Haus w495060143 – Teil 4/4 (Y 84–91)
 
-- **Y-Bereich:** 92 bis 99
-- **Blöcke:** 1.867
+- **Y-Bereich:** 84 bis 91
+- **Blöcke:** 1.870
 - **Bauteile:** `w495060143`
 
 **Teileliste**
@@ -659,7 +659,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.202 |
 | Gelbe Keramik | `yellow_terracotta` | 368 |
-| Glatter Stein | `smooth_stone` | 225 |
+| Glatter Stein | `smooth_stone` | 228 |
 | Ziegelsteine | `bricks` | 62 |
 | Polierter Andesit | `polished_andesite` | 10 |
 
@@ -681,19 +681,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 47.20 – Haus w495060143: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.565
+- **Y-Bereich:** 55 bis 76
+- **Blöcke:** 1.566
 - **Bauteile:** `w495060143_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.446 |
+| Terrakotta | `terracotta` | 1.444 |
 | Glatter Stein | `smooth_stone` | 52 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
+| Seelaterne | `sea_lantern` | 18 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
-| Seelaterne | `sea_lantern` | 15 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 

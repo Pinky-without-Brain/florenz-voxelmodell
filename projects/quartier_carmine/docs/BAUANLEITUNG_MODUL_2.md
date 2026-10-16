@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 14.380 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 60 bis 96 |
 | X-Ausdehnung | -2083 bis -2024 (60 Blöcke) |
 | Z-Ausdehnung | 1468 bis 1515 (48 Blöcke) |
 | Kleinster Schritt | 786 Blöcke (Schritt 2.8) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Reihenhaus an Via della Chiesa – Teil 1/7 (Y 63–65)
+### Schritt 2.1 – Reihenhaus an Via della Chiesa – Teil 1/7 (Y 60–62)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 60 bis 62
 - **Blöcke:** 1.673
 - **Bauteile:** `w306818341`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Reihenhaus an Via della Chiesa – Teil 2/7 (Y 66–71)
+### Schritt 2.2 – Reihenhaus an Via della Chiesa – Teil 2/7 (Y 63–68)
 
-- **Y-Bereich:** 66 bis 71
+- **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.873
 - **Bauteile:** `w306818341`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Reihenhaus an Via della Chiesa – Teil 3/7 (Y 72–76)
+### Schritt 2.3 – Reihenhaus an Via della Chiesa – Teil 3/7 (Y 69–73)
 
-- **Y-Bereich:** 72 bis 76
+- **Y-Bereich:** 69 bis 73
 - **Blöcke:** 1.550
 - **Bauteile:** `w306818341`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Reihenhaus an Via della Chiesa – Teil 4/7 (Y 77–82)
+### Schritt 2.4 – Reihenhaus an Via della Chiesa – Teil 4/7 (Y 74–79)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 74 bis 79
 - **Blöcke:** 1.908
 - **Bauteile:** `w306818341`
 
@@ -175,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Reihenhaus an Via della Chiesa – Teil 5/7 (Y 83–87)
+### Schritt 2.5 – Reihenhaus an Via della Chiesa – Teil 5/7 (Y 80–84)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.610
 - **Bauteile:** `w306818341`
 
@@ -206,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.6 – Reihenhaus an Via della Chiesa – Teil 6/7 (Y 88–92)
+### Schritt 2.6 – Reihenhaus an Via della Chiesa – Teil 6/7 (Y 85–89)
 
-- **Y-Bereich:** 88 bis 92
+- **Y-Bereich:** 85 bis 89
 - **Blöcke:** 1.659
 - **Bauteile:** `w306818341`
 
@@ -237,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.7 – Reihenhaus an Via della Chiesa – Teil 7/7 (Y 93–99)
+### Schritt 2.7 – Reihenhaus an Via della Chiesa – Teil 7/7 (Y 90–96)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 90 bis 96
 - **Blöcke:** 1.883
 - **Bauteile:** `w306818341`
 
@@ -267,9 +267,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.8 – Reihenhaus an Via della Chiesa: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 2.8 – Reihenhaus an Via della Chiesa: Innenausbau – Teil 1/2 (Y 60–75)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 60 bis 75
 - **Blöcke:** 786
 - **Bauteile:** `w306818341_innen`
 
@@ -307,9 +307,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.9 – Reihenhaus an Via della Chiesa: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 2.9 – Reihenhaus an Via della Chiesa: Innenausbau – Teil 2/2 (Y 76–83)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 76 bis 83
 - **Blöcke:** 1.438
 - **Bauteile:** `w306818341_innen`
 

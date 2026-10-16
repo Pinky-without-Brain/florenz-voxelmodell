@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 10.480 |
+| Blöcke | 10.484 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 47 bis 86 |
 | X-Ausdehnung | -2950 bis -2911 (40 Blöcke) |
 | Z-Ausdehnung | -1351 bis -1312 (40 Blöcke) |
 | Kleinster Schritt | 1.584 Blöcke (Schritt 4.3) |
@@ -23,14 +23,15 @@
 | :--- | :--- | ---: | ---: |
 | Orange Keramik | `orange_terracotta` | 4.987 | 47,6 % |
 | Terrakotta | `terracotta` | 2.686 | 25,6 % |
-| Glatter Stein | `smooth_stone` | 1.419 | 13,5 % |
-| Polierter Tuffstein | `polished_tuff` | 809 | 7,7 % |
+| Glatter Stein | `smooth_stone` | 1.414 | 13,5 % |
+| Polierter Tuffstein | `polished_tuff` | 808 | 7,7 % |
 | Graues Buntglas | `gray_stained_glass` | 384 | 3,7 % |
 | Ziegelsteine | `bricks` | 65 | 0,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,6 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,2 % |
 | Seelaterne | `sea_lantern` | 20 | 0,2 % |
+| Tuffstein | `tuff` | 10 | 0,1 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -42,25 +43,26 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w463119847` | Haus w463119847 | 8.643 | 4.1–4.5 |
+| 1 | `w463119847` | Haus w463119847 | 8.647 | 4.1–4.5 |
 | 2 | `w463119847_innen` | Haus w463119847: Innenausbau | 1.837 | 4.6 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Haus w463119847 – Teil 1/5 (Y 63–67)
+### Schritt 4.1 – Haus w463119847 – Teil 1/5 (Y 47–54)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.717
+- **Y-Bereich:** 47 bis 54
+- **Blöcke:** 1.721
 - **Bauteile:** `w463119847`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 809 |
+| Polierter Tuffstein | `polished_tuff` | 808 |
 | Orange Keramik | `orange_terracotta` | 735 |
-| Glatter Stein | `smooth_stone` | 149 |
+| Glatter Stein | `smooth_stone` | 144 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
+| Tuffstein | `tuff` | 10 |
 
 **Beschreibung**
 
@@ -78,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Haus w463119847 – Teil 2/5 (Y 68–75)
+### Schritt 4.2 – Haus w463119847 – Teil 2/5 (Y 55–62)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 55 bis 62
 - **Blöcke:** 1.816
 - **Bauteile:** `w463119847`
 
@@ -108,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Haus w463119847 – Teil 3/5 (Y 76–82)
+### Schritt 4.3 – Haus w463119847 – Teil 3/5 (Y 63–69)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 63 bis 69
 - **Blöcke:** 1.584
 - **Bauteile:** `w463119847`
 
@@ -138,9 +140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Haus w463119847 – Teil 4/5 (Y 83–90)
+### Schritt 4.4 – Haus w463119847 – Teil 4/5 (Y 70–77)
 
-- **Y-Bereich:** 83 bis 90
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.801
 - **Bauteile:** `w463119847`
 
@@ -168,9 +170,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Haus w463119847 – Teil 5/5 (Y 91–99)
+### Schritt 4.5 – Haus w463119847 – Teil 5/5 (Y 78–86)
 
-- **Y-Bereich:** 91 bis 99
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.725
 - **Bauteile:** `w463119847`
 
@@ -202,7 +204,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 4.6 – Haus w463119847: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 50 bis 73
 - **Blöcke:** 1.837
 - **Bauteile:** `w463119847_innen`
 

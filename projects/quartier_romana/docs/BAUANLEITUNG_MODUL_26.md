@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 12.952 |
+| Blöcke | 12.943 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 64 bis 100 |
 | X-Ausdehnung | -2330 bis -2269 (62 Blöcke) |
 | Z-Ausdehnung | 2362 bis 2393 (32 Blöcke) |
 | Kleinster Schritt | 953 Blöcke (Schritt 26.8) |
-| Mittlerer Schritt | 1.619 Blöcke |
+| Mittlerer Schritt | 1.618 Blöcke |
 | Größter Schritt | 2.008 Blöcke (Schritt 26.5) |
 
 ## Gesamt-Stückliste
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Weißer Beton | `white_concrete` | 6.515 | 50,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 2.043 | 15,8 % |
+| Hellgrauer Beton | `light_gray_concrete` | 2.034 | 15,7 % |
 | Terrakotta | `terracotta` | 1.878 | 14,5 % |
 | Graues Buntglas | `gray_stained_glass` | 786 | 6,1 % |
 | Polierter Tuffstein | `polished_tuff` | 773 | 6,0 % |
@@ -50,15 +50,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118965492` | Haus w118965492 | 11.999 | 26.1–26.7 |
+| 1 | `w118965492` | Haus w118965492 | 11.990 | 26.1–26.7 |
 | 2 | `w118965492_innen` | Haus w118965492: Innenausbau | 953 | 26.8 |
 
 ## Bauschritte
 
-### Schritt 26.1 – Haus w118965492 – Teil 1/7 (Y 63–66)
+### Schritt 26.1 – Haus w118965492 – Teil 1/7 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.896
+- **Y-Bereich:** 64 bis 67
+- **Blöcke:** 1.887
 - **Bauteile:** `w118965492`
 
 **Teileliste**
@@ -67,7 +67,7 @@
 | :--- | :--- | ---: |
 | Weißer Beton | `white_concrete` | 797 |
 | Polierter Tuffstein | `polished_tuff` | 773 |
-| Hellgrauer Beton | `light_gray_concrete` | 274 |
+| Hellgrauer Beton | `light_gray_concrete` | 265 |
 | Polierter Andesit | `polished_andesite` | 50 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
 
@@ -87,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Haus w118965492 – Teil 2/7 (Y 67–71)
+### Schritt 26.2 – Haus w118965492 – Teil 2/7 (Y 68–72)
 
-- **Y-Bereich:** 67 bis 71
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.525
 - **Bauteile:** `w118965492`
 
@@ -119,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Haus w118965492 – Teil 3/7 (Y 72–76)
+### Schritt 26.3 – Haus w118965492 – Teil 3/7 (Y 73–77)
 
-- **Y-Bereich:** 72 bis 76
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.706
 - **Bauteile:** `w118965492`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Haus w118965492 – Teil 4/7 (Y 77–81)
+### Schritt 26.4 – Haus w118965492 – Teil 4/7 (Y 78–82)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 78 bis 82
 - **Blöcke:** 1.559
 - **Bauteile:** `w118965492`
 
@@ -183,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.5 – Haus w118965492 – Teil 5/7 (Y 82–87)
+### Schritt 26.5 – Haus w118965492 – Teil 5/7 (Y 83–88)
 
-- **Y-Bereich:** 82 bis 87
+- **Y-Bereich:** 83 bis 88
 - **Blöcke:** 2.008
 - **Bauteile:** `w118965492`
 
@@ -215,9 +215,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.6 – Haus w118965492 – Teil 6/7 (Y 88–92)
+### Schritt 26.6 – Haus w118965492 – Teil 6/7 (Y 89–93)
 
-- **Y-Bereich:** 88 bis 92
+- **Y-Bereich:** 89 bis 93
 - **Blöcke:** 1.737
 - **Bauteile:** `w118965492`
 
@@ -246,9 +246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.7 – Haus w118965492 – Teil 7/7 (Y 93–99)
+### Schritt 26.7 – Haus w118965492 – Teil 7/7 (Y 94–100)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 94 bis 100
 - **Blöcke:** 1.568
 - **Bauteile:** `w118965492`
 
@@ -279,7 +279,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 26.8 – Haus w118965492: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 64 bis 85
 - **Blöcke:** 953
 - **Bauteile:** `w118965492_innen`
 

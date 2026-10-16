@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.454 |
+| Blöcke | 3.455 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 76 bis 111 |
 | X-Ausdehnung | 783 bis 803 (21 Blöcke) |
 | Z-Ausdehnung | 2143 bis 2161 (19 Blöcke) |
-| Kleinster Schritt | 1.552 Blöcke (Schritt 19.1) |
-| Mittlerer Schritt | 1.727 Blöcke |
+| Kleinster Schritt | 1.553 Blöcke (Schritt 19.1) |
+| Mittlerer Schritt | 1.728 Blöcke |
 | Größter Schritt | 1.902 Blöcke (Schritt 19.2) |
 
 ## Gesamt-Stückliste
@@ -35,6 +35,7 @@
 | Ziegelsteine | `bricks` | 3 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 3 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 3 | 0,1 % |
+| Tuffstein | `tuff` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -46,15 +47,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w480707970` | Reihenhaus an Via del Monte alle Croci | 3.166 | 19.1–19.2 |
+| 1 | `w480707970` | Reihenhaus an Via del Monte alle Croci | 3.167 | 19.1–19.2 |
 | 2 | `w480707970_innen` | Reihenhaus an Via del Monte alle Croci: Innenausbau | 288 | 19.2 |
 
 ## Bauschritte
 
-### Schritt 19.1 – Reihenhaus an Via del Monte alle Croci – Teil 1/2 (Y 63–79)
+### Schritt 19.1 – Reihenhaus an Via del Monte alle Croci – Teil 1/2 (Y 76–93)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.552
+- **Y-Bereich:** 76 bis 93
+- **Blöcke:** 1.553
 - **Bauteile:** `w480707970`
 
 **Teileliste**
@@ -66,6 +67,7 @@
 | Polierter Tuffstein | `polished_tuff` | 157 |
 | Graues Buntglas | `gray_stained_glass` | 85 |
 | Grüner Beton | `green_concrete` | 42 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 
@@ -83,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Reihenhaus an Via del Monte alle Croci – Teil 2/2 (Y 80–97) & Reihenhaus an Via del Monte alle Croci: Innenausbau
+### Schritt 19.2 – Reihenhaus an Via del Monte alle Croci – Teil 2/2 (Y 94–111) & Reihenhaus an Via del Monte alle Croci: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 77 bis 111
 - **Blöcke:** 1.902
 - **Bauteile:** `w480707970`, `w480707970_innen`
 

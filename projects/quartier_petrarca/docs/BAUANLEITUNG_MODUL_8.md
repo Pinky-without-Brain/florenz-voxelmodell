@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 13.800 |
+| Blöcke | 13.789 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 69 bis 109 |
 | X-Ausdehnung | -2954 bis -2900 (55 Blöcke) |
 | Z-Ausdehnung | 1815 bis 1864 (50 Blöcke) |
-| Kleinster Schritt | 1.476 Blöcke (Schritt 8.2) |
-| Mittlerer Schritt | 1.725 Blöcke |
+| Kleinster Schritt | 1.467 Blöcke (Schritt 8.2) |
+| Mittlerer Schritt | 1.724 Blöcke |
 | Größter Schritt | 1.857 Blöcke (Schritt 8.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.048 | 43,8 % |
+| Endsteinziegel | `end_stone_bricks` | 6.048 | 43,9 % |
 | Terrakotta | `terracotta` | 3.377 | 24,5 % |
-| Weißer Beton | `white_concrete` | 1.626 | 11,8 % |
+| Weißer Beton | `white_concrete` | 1.607 | 11,7 % |
 | Polierter Tuffstein | `polished_tuff` | 1.177 | 8,5 % |
 | Glatter Stein | `smooth_stone` | 466 | 3,4 % |
 | Polierter Andesit | `polished_andesite` | 360 | 2,6 % |
@@ -34,6 +34,7 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,1 % |
 | Seelaterne | `sea_lantern` | 12 | 0,1 % |
+| Tuffstein | `tuff` | 8 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
@@ -49,15 +50,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w442946746` | Palazzo des Cinquecento an Via dei Villani | 11.943 | 8.1–8.7 |
+| 1 | `w442946746` | Palazzo des Cinquecento an Via dei Villani | 11.932 | 8.1–8.7 |
 | 2 | `w442946746_innen` | Palazzo des Cinquecento an Via dei Villani: Innenausbau | 1.857 | 8.8 |
 
 ## Bauschritte
 
-### Schritt 8.1 – Palazzo des Cinquecento an Via dei Villani – Teil 1/7 (Y 63–65)
+### Schritt 8.1 – Palazzo des Cinquecento an Via dei Villani – Teil 1/7 (Y 69–72)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.798
+- **Y-Bereich:** 69 bis 72
+- **Blöcke:** 1.796
 - **Bauteile:** `w442946746`
 
 **Teileliste**
@@ -66,8 +67,9 @@
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.177 |
 | Endsteinziegel | `end_stone_bricks` | 494 |
-| Weißer Beton | `white_concrete` | 91 |
+| Weißer Beton | `white_concrete` | 81 |
 | Polierter Andesit | `polished_andesite` | 27 |
+| Tuffstein | `tuff` | 8 |
 | Glatter Stein | `smooth_stone` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
 
@@ -87,10 +89,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.2 – Palazzo des Cinquecento an Via dei Villani – Teil 2/7 (Y 66–70)
+### Schritt 8.2 – Palazzo des Cinquecento an Via dei Villani – Teil 2/7 (Y 73–77)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.476
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 1.467
 - **Bauteile:** `w442946746`
 
 **Teileliste**
@@ -98,7 +100,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 951 |
-| Weißer Beton | `white_concrete` | 331 |
+| Weißer Beton | `white_concrete` | 322 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Polierter Andesit | `polished_andesite` | 75 |
 | Glatter Stein | `smooth_stone` | 12 |
@@ -120,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.3 – Palazzo des Cinquecento an Via dei Villani – Teil 3/7 (Y 71–76)
+### Schritt 8.3 – Palazzo des Cinquecento an Via dei Villani – Teil 3/7 (Y 78–83)
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 1.771
 - **Bauteile:** `w442946746`
 
@@ -152,9 +154,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.4 – Palazzo des Cinquecento an Via dei Villani – Teil 4/7 (Y 77–82)
+### Schritt 8.4 – Palazzo des Cinquecento an Via dei Villani – Teil 4/7 (Y 84–89)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.738
 - **Bauteile:** `w442946746`
 
@@ -183,9 +185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.5 – Palazzo des Cinquecento an Via dei Villani – Teil 5/7 (Y 83–88)
+### Schritt 8.5 – Palazzo des Cinquecento an Via dei Villani – Teil 5/7 (Y 90–95)
 
-- **Y-Bereich:** 83 bis 88
+- **Y-Bereich:** 90 bis 95
 - **Blöcke:** 1.749
 - **Bauteile:** `w442946746`
 
@@ -215,9 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.6 – Palazzo des Cinquecento an Via dei Villani – Teil 6/7 (Y 89–93)
+### Schritt 8.6 – Palazzo des Cinquecento an Via dei Villani – Teil 6/7 (Y 96–100)
 
-- **Y-Bereich:** 89 bis 93
+- **Y-Bereich:** 96 bis 100
 - **Blöcke:** 1.694
 - **Bauteile:** `w442946746`
 
@@ -247,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 8.7 – Palazzo des Cinquecento an Via dei Villani – Teil 7/7 (Y 94–102)
+### Schritt 8.7 – Palazzo des Cinquecento an Via dei Villani – Teil 7/7 (Y 101–109)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 101 bis 109
 - **Blöcke:** 1.717
 - **Bauteile:** `w442946746`
 
@@ -278,7 +280,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 8.8 – Palazzo des Cinquecento an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 70 bis 91
 - **Blöcke:** 1.857
 - **Bauteile:** `w442946746_innen`
 

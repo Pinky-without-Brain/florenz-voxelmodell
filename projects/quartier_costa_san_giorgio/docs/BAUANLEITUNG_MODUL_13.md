@@ -8,25 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 7.307 |
+| Blöcke | 7.401 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 147 bis 184 |
 | X-Ausdehnung | -334 bis -300 (35 Blöcke) |
 | Z-Ausdehnung | 1914 bis 1945 (32 Blöcke) |
 | Kleinster Schritt | 953 Blöcke (Schritt 13.5) |
-| Mittlerer Schritt | 1.461 Blöcke |
-| Größter Schritt | 1.665 Blöcke (Schritt 13.3) |
+| Mittlerer Schritt | 1.480 Blöcke |
+| Größter Schritt | 1.676 Blöcke (Schritt 13.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 4.056 | 55,5 % |
-| Terrakotta | `terracotta` | 1.550 | 21,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 4.056 | 54,8 % |
+| Terrakotta | `terracotta` | 1.550 | 20,9 % |
 | Polierter Tuffstein | `polished_tuff` | 463 | 6,3 % |
 | Graues Buntglas | `gray_stained_glass` | 456 | 6,2 % |
-| Grüner Beton | `green_concrete` | 362 | 5,0 % |
+| Grüner Beton | `green_concrete` | 362 | 4,9 % |
 | Fichtenholz-Bretter | `spruce_planks` | 186 | 2,5 % |
+| Tuffstein | `tuff` | 94 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 0,9 % |
 | Glatter Stein | `smooth_stone` | 64 | 0,9 % |
 | Ziegelsteine | `bricks` | 26 | 0,4 % |
@@ -47,15 +48,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w474366880` | Reihenhaus an Vicolo della Cava | 6.354 | 13.1–13.4 |
+| 1 | `w474366880` | Reihenhaus an Vicolo della Cava | 6.448 | 13.1–13.4 |
 | 2 | `w474366880_innen` | Reihenhaus an Vicolo della Cava: Innenausbau | 953 | 13.5 |
 
 ## Bauschritte
 
-### Schritt 13.1 – Reihenhaus an Vicolo della Cava – Teil 1/4 (Y 63–70)
+### Schritt 13.1 – Reihenhaus an Vicolo della Cava – Teil 1/4 (Y 147–156)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.582
+- **Y-Bereich:** 147 bis 156
+- **Blöcke:** 1.676
 - **Bauteile:** `w474366880`
 
 **Teileliste**
@@ -65,6 +66,7 @@
 | Hellgrauer Beton | `light_gray_concrete` | 875 |
 | Polierter Tuffstein | `polished_tuff` | 463 |
 | Graues Buntglas | `gray_stained_glass` | 104 |
+| Tuffstein | `tuff` | 94 |
 | Glatter Stein | `smooth_stone` | 64 |
 | Grüner Beton | `green_concrete` | 54 |
 | Polierter Andesit | `polished_andesite` | 22 |
@@ -85,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.2 – Reihenhaus an Vicolo della Cava – Teil 2/4 (Y 71–79)
+### Schritt 13.2 – Reihenhaus an Vicolo della Cava – Teil 2/4 (Y 157–165)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 157 bis 165
 - **Blöcke:** 1.510
 - **Bauteile:** `w474366880`
 
@@ -115,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.3 – Reihenhaus an Vicolo della Cava – Teil 3/4 (Y 80–89)
+### Schritt 13.3 – Reihenhaus an Vicolo della Cava – Teil 3/4 (Y 166–175)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 166 bis 175
 - **Blöcke:** 1.665
 - **Bauteile:** `w474366880`
 
@@ -145,9 +147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.4 – Reihenhaus an Vicolo della Cava – Teil 4/4 (Y 90–98)
+### Schritt 13.4 – Reihenhaus an Vicolo della Cava – Teil 4/4 (Y 176–184)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 176 bis 184
 - **Blöcke:** 1.597
 - **Bauteile:** `w474366880`
 
@@ -180,7 +182,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 13.5 – Reihenhaus an Vicolo della Cava: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 149 bis 173
 - **Blöcke:** 953
 - **Bauteile:** `w474366880_innen`
 

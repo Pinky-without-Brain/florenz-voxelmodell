@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 1.647 |
+| Blöcke | 1.648 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 57 bis 89 |
 | X-Ausdehnung | -2959 bis -2946 (14 Blöcke) |
 | Z-Ausdehnung | 943 bis 953 (11 Blöcke) |
-| Kleinster Schritt | 1.647 Blöcke (Schritt 17.1) |
-| Mittlerer Schritt | 1.647 Blöcke |
-| Größter Schritt | 1.647 Blöcke (Schritt 17.1) |
+| Kleinster Schritt | 1.648 Blöcke (Schritt 17.1) |
+| Mittlerer Schritt | 1.648 Blöcke |
+| Größter Schritt | 1.648 Blöcke (Schritt 17.1) |
 
 ## Gesamt-Stückliste
 
@@ -27,20 +27,21 @@
 | Graues Buntglas | `gray_stained_glass` | 55 | 3,3 % |
 | Polierter Tuffstein | `polished_tuff` | 53 | 3,2 % |
 | Seelaterne | `sea_lantern` | 1 | 0,1 % |
+| Tuffstein | `tuff` | 1 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118944100` | Nebengebäude an Via Francesco Berni | 1.646 | 17.1 |
+| 1 | `w118944100` | Nebengebäude an Via Francesco Berni | 1.647 | 17.1 |
 | 2 | `w118944100_innen` | Nebengebäude an Via Francesco Berni: Innenausbau | 1 | 17.1 |
 
 ## Bauschritte
 
 ### Schritt 17.1 – Nebengebäude an Via Francesco Berni & Nebengebäude an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
-- **Blöcke:** 1.647
+- **Y-Bereich:** 57 bis 89
+- **Blöcke:** 1.648
 - **Bauteile:** `w118944100`, `w118944100_innen`
 
 **Teileliste**
@@ -53,6 +54,7 @@
 | Graues Buntglas | `gray_stained_glass` | 55 |
 | Polierter Tuffstein | `polished_tuff` | 53 |
 | Seelaterne | `sea_lantern` | 1 |
+| Tuffstein | `tuff` | 1 |
 
 **Beschreibung**
 

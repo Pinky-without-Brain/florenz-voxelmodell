@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 8.214 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 59 bis 94 |
 | X-Ausdehnung | -2137 bis -2099 (39 Blöcke) |
 | Z-Ausdehnung | 1905 bis 1932 (28 Blöcke) |
 | Kleinster Schritt | 851 Blöcke (Schritt 0.5) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 0.1 – Haus w118431584 – Teil 1/4 (Y 63–70)
+### Schritt 0.1 – Haus w118431584 – Teil 1/4 (Y 59–66)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 59 bis 66
 - **Blöcke:** 1.863
 - **Bauteile:** `w118431584`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Haus w118431584 – Teil 2/4 (Y 71–79)
+### Schritt 0.2 – Haus w118431584 – Teil 2/4 (Y 67–75)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 67 bis 75
 - **Blöcke:** 1.856
 - **Bauteile:** `w118431584`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.3 – Haus w118431584 – Teil 3/4 (Y 80–88)
+### Schritt 0.3 – Haus w118431584 – Teil 3/4 (Y 76–84)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.873
 - **Bauteile:** `w118431584`
 
@@ -142,9 +142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.4 – Haus w118431584 – Teil 4/4 (Y 89–98)
+### Schritt 0.4 – Haus w118431584 – Teil 4/4 (Y 85–94)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 85 bis 94
 - **Blöcke:** 1.771
 - **Bauteile:** `w118431584`
 
@@ -177,7 +177,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 0.5 – Haus w118431584: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 59 bis 82
 - **Blöcke:** 851
 - **Bauteile:** `w118431584_innen`
 

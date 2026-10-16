@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Säulen und Arkaden",
+  "subtitle": "Bautüte 2: Brunelleschis Säulenreihen, Rundbögen und Obergaden",
+  "icon": "🏛️",
+  "parts": {
+    "vierungspfeiler": {
+      "title": "Vierungspfeiler",
+      "description": "Die vier Pfeiler der Vierung reichen von Y 65 bis Y 104 und tragen später die Kuppel.",
+      "tip": "Baue sie zuerst, sie sind die Fixpunkte des Rasters.",
+      "caution": "Sie bleiben massiv.",
+      "fact": "Die Kuppel über der Vierung ist niedriger als die des Doms und ohne Tambourfenster von außen kaum sichtbar."
+    },
+    "saeulen": {
+      "title": "Säulen",
+      "description": "Rund um das ganze Kreuz stehen die Säulen aus Pietra serena bis Y 82, oben ein Kapitell aus gemeißeltem Quarz.",
+      "tip": "Jede Säule steht auf einem Rasterpunkt im Abstand eines Moduls.",
+      "caution": "Zwischen den Säulen bleibt der Durchgang frei.",
+      "fact": "Die Säulenreihen laufen auch um Querhaus und Chor herum: ein Umgang ohne Unterbrechung."
+    },
+    "arkaden": {
+      "title": "Arkaden",
+      "description": "Über den Säulen spannen sich Rundbögen bis Y 91.",
+      "tip": "Der Bogen beginnt auf Y 83 und schließt im Halbkreis.",
+      "caution": "Unter den Bögen bleibt die Laibung offen.",
+      "fact": "Brunelleschi wiederholte hier das Raster von San Lorenzo, nur strenger."
+    },
+    "obergaden": {
+      "title": "Obergaden",
+      "description": "Darüber steigt die Hochwand des Mittelschiffs bis Y 112.",
+      "tip": "Weißer Putz mit Gesimsen aus Glattem Stein.",
+      "caution": "Lass die Rundfenster frei.",
+      "fact": "Das Mittelschiff ist doppelt so breit wie ein Seitenschiff."
+    },
+    "obergaden_fenster": {
+      "title": "Obergadenfenster",
+      "description": "Je Joch ein rundes Fenster aus grauem Glas auf Y 103 bis 105.",
+      "tip": "Sie sitzen in der Jochmitte.",
+      "caution": "Nur in die Hochwand setzen.",
+      "fact": "Das Licht fällt von oben in den Raum."
+    }
+  }
+}

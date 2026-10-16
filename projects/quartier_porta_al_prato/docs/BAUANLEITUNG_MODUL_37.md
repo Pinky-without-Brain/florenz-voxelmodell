@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 26.101 |
+| Blöcke | 26.103 |
 | Bauschritte | 15 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 56 bis 95 |
 | X-Ausdehnung | -2072 bis -1986 (87 Blöcke) |
 | Z-Ausdehnung | -1355 bis -1289 (67 Blöcke) |
 | Kleinster Schritt | 1.099 Blöcke (Schritt 37.14) |
 | Mittlerer Schritt | 1.740 Blöcke |
-| Größter Schritt | 2.084 Blöcke (Schritt 37.15) |
+| Größter Schritt | 2.086 Blöcke (Schritt 37.15) |
 
 ## Gesamt-Stückliste
 
@@ -41,6 +41,8 @@
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 11 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 11 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -57,12 +59,13 @@
 | 2 | `w443083463_innen` | Palazzo des Cinquecento an Viale Fratelli Rosselli: Innenausbau | 1.935 | 37.7 |
 | 3 | `w443083503` | Reihenhaus an Viale Fratelli Rosselli | 10.180 | 37.8–37.13 |
 | 4 | `w443083503_innen` | Reihenhaus an Viale Fratelli Rosselli: Innenausbau | 3.183 | 37.14–37.15 |
+| 5 | `strassenschilder` | Straßenschilder | 2 | 37.15 |
 
 ## Bauschritte
 
-### Schritt 37.1 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 1/6 (Y 63–65)
+### Schritt 37.1 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 1/6 (Y 56–58)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 56 bis 58
 - **Blöcke:** 1.702
 - **Bauteile:** `w443083463`
 
@@ -92,9 +95,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.2 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 2/6 (Y 66–73)
+### Schritt 37.2 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 2/6 (Y 59–66)
 
-- **Y-Bereich:** 66 bis 73
+- **Y-Bereich:** 59 bis 66
 - **Blöcke:** 2.023
 - **Bauteile:** `w443083463`
 
@@ -126,9 +129,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.3 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 3/6 (Y 74–80)
+### Schritt 37.3 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 3/6 (Y 67–73)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.763
 - **Bauteile:** `w443083463`
 
@@ -158,9 +161,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.4 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 4/6 (Y 81–87)
+### Schritt 37.4 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 4/6 (Y 74–80)
 
-- **Y-Bereich:** 81 bis 87
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.835
 - **Bauteile:** `w443083463`
 
@@ -191,9 +194,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.5 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 5/6 (Y 88–93)
+### Schritt 37.5 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 5/6 (Y 81–86)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.813
 - **Bauteile:** `w443083463`
 
@@ -224,9 +227,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.6 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 6/6 (Y 94–101)
+### Schritt 37.6 – Palazzo des Cinquecento an Viale Fratelli Rosselli – Teil 6/6 (Y 87–94)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 87 bis 94
 - **Blöcke:** 1.667
 - **Bauteile:** `w443083463`
 
@@ -255,7 +258,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 37.7 – Palazzo des Cinquecento an Viale Fratelli Rosselli: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 56 bis 77
 - **Blöcke:** 1.935
 - **Bauteile:** `w443083463_innen`
 
@@ -293,9 +296,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.8 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/6 (Y 63–65)
+### Schritt 37.8 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/6 (Y 56–58)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 56 bis 58
 - **Blöcke:** 1.717
 - **Bauteile:** `w443083503`
 
@@ -323,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.9 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/6 (Y 66–73)
+### Schritt 37.9 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/6 (Y 59–66)
 
-- **Y-Bereich:** 66 bis 73
+- **Y-Bereich:** 59 bis 66
 - **Blöcke:** 1.794
 - **Bauteile:** `w443083503`
 
@@ -354,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.10 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/6 (Y 74–80)
+### Schritt 37.10 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/6 (Y 67–73)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.591
 - **Bauteile:** `w443083503`
 
@@ -384,9 +387,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.11 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/6 (Y 81–87)
+### Schritt 37.11 – Reihenhaus an Viale Fratelli Rosselli – Teil 4/6 (Y 74–80)
 
-- **Y-Bereich:** 81 bis 87
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.591
 - **Bauteile:** `w443083503`
 
@@ -414,9 +417,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.12 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/6 (Y 88–93)
+### Schritt 37.12 – Reihenhaus an Viale Fratelli Rosselli – Teil 5/6 (Y 81–86)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.610
 - **Bauteile:** `w443083503`
 
@@ -445,9 +448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.13 – Reihenhaus an Viale Fratelli Rosselli – Teil 6/6 (Y 94–102)
+### Schritt 37.13 – Reihenhaus an Viale Fratelli Rosselli – Teil 6/6 (Y 87–95)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 1.877
 - **Bauteile:** `w443083503`
 
@@ -474,9 +477,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.14 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 37.14 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 1.099
 - **Bauteile:** `w443083503_innen`
 
@@ -512,11 +515,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 37.15 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 37.15 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau – Teil 2/2 (Y 72–80) & Straßenschilder
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 2.084
-- **Bauteile:** `w443083503_innen`
+- **Y-Bereich:** 63 bis 80
+- **Blöcke:** 2.086
+- **Bauteile:** `w443083503_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -529,6 +532,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 5 |
 | Weiße Keramik | `white_terracotta` | 5 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -538,16 +543,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

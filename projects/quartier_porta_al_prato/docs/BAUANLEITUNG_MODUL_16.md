@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 18.471 |
 | Bauschritte | 11 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 56 bis 95 |
 | X-Ausdehnung | -2640 bis -2589 (52 Blöcke) |
 | Z-Ausdehnung | -1044 bis -985 (60 Blöcke) |
 | Kleinster Schritt | 1.385 Blöcke (Schritt 16.10) |
@@ -52,9 +52,9 @@
 
 ## Bauschritte
 
-### Schritt 16.1 – Reihenhaus an Piazzale di Porta al Prato – Teil 1/8 (Y 63–63)
+### Schritt 16.1 – Reihenhaus an Piazzale di Porta al Prato – Teil 1/8 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.705
 - **Bauteile:** `w117837000`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.2 – Reihenhaus an Piazzale di Porta al Prato – Teil 2/8 (Y 64–69)
+### Schritt 16.2 – Reihenhaus an Piazzale di Porta al Prato – Teil 2/8 (Y 57–62)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 57 bis 62
 - **Blöcke:** 1.993
 - **Bauteile:** `w117837000`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.3 – Reihenhaus an Piazzale di Porta al Prato – Teil 3/8 (Y 70–74)
+### Schritt 16.3 – Reihenhaus an Piazzale di Porta al Prato – Teil 3/8 (Y 63–67)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 63 bis 67
 - **Blöcke:** 1.749
 - **Bauteile:** `w117837000`
 
@@ -145,9 +145,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.4 – Reihenhaus an Piazzale di Porta al Prato – Teil 4/8 (Y 75–79)
+### Schritt 16.4 – Reihenhaus an Piazzale di Porta al Prato – Teil 4/8 (Y 68–72)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.720
 - **Bauteile:** `w117837000`
 
@@ -176,9 +176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.5 – Reihenhaus an Piazzale di Porta al Prato – Teil 5/8 (Y 80–84)
+### Schritt 16.5 – Reihenhaus an Piazzale di Porta al Prato – Teil 5/8 (Y 73–77)
 
-- **Y-Bereich:** 80 bis 84
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.685
 - **Bauteile:** `w117837000`
 
@@ -207,9 +207,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.6 – Reihenhaus an Piazzale di Porta al Prato – Teil 6/8 (Y 85–89)
+### Schritt 16.6 – Reihenhaus an Piazzale di Porta al Prato – Teil 6/8 (Y 78–82)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 78 bis 82
 - **Blöcke:** 1.755
 - **Bauteile:** `w117837000`
 
@@ -238,9 +238,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.7 – Reihenhaus an Piazzale di Porta al Prato – Teil 7/8 (Y 90–94)
+### Schritt 16.7 – Reihenhaus an Piazzale di Porta al Prato – Teil 7/8 (Y 83–87)
 
-- **Y-Bereich:** 90 bis 94
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 2.072
 - **Bauteile:** `w117837000`
 
@@ -270,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.8 – Reihenhaus an Piazzale di Porta al Prato – Teil 8/8 (Y 95–102)
+### Schritt 16.8 – Reihenhaus an Piazzale di Porta al Prato – Teil 8/8 (Y 88–95)
 
-- **Y-Bereich:** 95 bis 102
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.621
 - **Bauteile:** `w117837000`
 
@@ -299,9 +299,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 16.9 – Reihenhaus an Piazzale di Porta al Prato: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 16.9 – Reihenhaus an Piazzale di Porta al Prato: Innenausbau – Teil 1/3 (Y 56–65)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 56 bis 65
 - **Blöcke:** 1.397
 - **Bauteile:** `w117837000_innen`
 
@@ -337,9 +337,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.10 – Reihenhaus an Piazzale di Porta al Prato: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 16.10 – Reihenhaus an Piazzale di Porta al Prato: Innenausbau – Teil 2/3 (Y 66–72)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.385
 - **Bauteile:** `w117837000_innen`
 
@@ -377,9 +377,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 16.11 – Reihenhaus an Piazzale di Porta al Prato: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 16.11 – Reihenhaus an Piazzale di Porta al Prato: Innenausbau – Teil 3/3 (Y 73–80)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 73 bis 80
 - **Blöcke:** 1.389
 - **Bauteile:** `w117837000_innen`
 

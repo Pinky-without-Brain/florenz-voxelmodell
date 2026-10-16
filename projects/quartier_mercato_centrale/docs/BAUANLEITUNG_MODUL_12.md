@@ -8,85 +8,258 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 188.498 |
-| Bauschritte | 128 |
-| Y-Bereich | 63 bis 102 |
+| Blöcke | 198.305 |
+| Bauschritte | 134 |
+| Y-Bereich | 58 bis 103 |
 | X-Ausdehnung | -553 bis -286 (268 Blöcke) |
 | Z-Ausdehnung | -1030 bis -820 (211 Blöcke) |
-| Kleinster Schritt | 703 Blöcke (Schritt 12.117) |
-| Mittlerer Schritt | 1.473 Blöcke |
-| Größter Schritt | 2.089 Blöcke (Schritt 12.82) |
+| Kleinster Schritt | 703 Blöcke (Schritt 12.123) |
+| Mittlerer Schritt | 1.480 Blöcke |
+| Größter Schritt | 2.089 Blöcke (Schritt 12.88) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 65.709 | 34,9 % |
-| Endsteinziegel | `end_stone_bricks` | 65.071 | 34,5 % |
-| Polierter Tuffstein | `polished_tuff` | 21.117 | 11,2 % |
-| Hellgrauer Beton | `light_gray_concrete` | 9.273 | 4,9 % |
-| Weißer Beton | `white_concrete` | 7.691 | 4,1 % |
-| Rosa Keramik | `pink_terracotta` | 4.432 | 2,4 % |
-| Glatter Stein | `smooth_stone` | 3.870 | 2,1 % |
-| Graues Buntglas | `gray_stained_glass` | 2.805 | 1,5 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.418 | 1,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.036 | 1,1 % |
+| Terrakotta | `terracotta` | 65.712 | 33,1 % |
+| Endsteinziegel | `end_stone_bricks` | 65.119 | 32,8 % |
+| Polierter Tuffstein | `polished_tuff` | 21.118 | 10,6 % |
+| Tuffstein | `tuff` | 9.368 | 4,7 % |
+| Hellgrauer Beton | `light_gray_concrete` | 9.351 | 4,7 % |
+| Weißer Beton | `white_concrete` | 7.855 | 4,0 % |
+| Rosa Keramik | `pink_terracotta` | 4.443 | 2,2 % |
+| Glatter Stein | `smooth_stone` | 3.870 | 2,0 % |
+| Graues Buntglas | `gray_stained_glass` | 2.805 | 1,4 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.468 | 1,2 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.137 | 1,1 % |
 | Ziegelsteine | `bricks` | 1.031 | 0,5 % |
 | Polierter Andesit | `polished_andesite` | 1.016 | 0,5 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 652 | 0,3 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 650 | 0,3 % |
 | Grüner Beton | `green_concrete` | 437 | 0,2 % |
-| Seelaterne | `sea_lantern` | 361 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 174 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 160 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 73 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 71 | 0,0 % |
+| Seelaterne | `sea_lantern` | 357 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 146 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 138 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 99 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 91 | 0,0 % |
 | Fichtenholz-Bretter | `spruce_planks` | 31 | 0,0 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 15 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 478 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 474 |
 | Steintreppe | `stone_stairs` | 40 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1580100` | Monastero di Sant'Orsola | 109.104 | 12.1–12.81 |
-| 2 | `r1580100_innen` | Monastero di Sant'Orsola: Innenausbau | 27.549 | 12.82–12.95 |
-| 3 | `w306395970` | Reihenhaus an Via Guelfa | 3.593 | 12.96–12.97 |
-| 4 | `w306395970_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.075 | 12.98 |
-| 5 | `w498103893` | Reihenhaus an Via Panicale | 5.600 | 12.99–12.101 |
-| 6 | `w498103893_innen` | Reihenhaus an Via Panicale: Innenausbau | 1.142 | 12.102 |
-| 7 | `w498103894` | Reihenhaus an Via Panicale | 4.062 | 12.103–12.104 |
-| 8 | `w498103894_innen` | Reihenhaus an Via Panicale: Innenausbau | 2 | 12.105 |
-| 9 | `w498103895` | Reihenhaus an Via Guelfa | 5.636 | 12.105–12.107 |
-| 10 | `w498103895_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.150 | 12.108 |
-| 11 | `w498103896` | Reihenhaus an Via Panicale | 5.234 | 12.109–12.111 |
-| 12 | `w498103896_innen` | Reihenhaus an Via Panicale: Innenausbau | 2.031 | 12.112 |
-| 13 | `w498103897` | Reihenhaus an Via Panicale | 1.895 | 12.113 |
-| 14 | `w498103897_innen` | Reihenhaus an Via Panicale: Innenausbau | 1.716 | 12.114 |
-| 15 | `w498103898` | Reihenhaus an Via Panicale | 2.490 | 12.115–12.116 |
-| 16 | `w498103898_innen` | Reihenhaus an Via Panicale: Innenausbau | 703 | 12.117 |
-| 17 | `w498103899` | Reihenhaus an Via Guelfa | 3.472 | 12.118–12.119 |
-| 18 | `w498103899_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.527 | 12.120 |
-| 19 | `w498103900` | Reihenhaus an Via Guelfa | 2.702 | 12.121–12.122 |
-| 20 | `w498103900_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.831 | 12.123 |
-| 21 | `w498103901` | Reihenhaus an Via Guelfa | 2.971 | 12.124–12.125 |
-| 22 | `w498103901_innen` | Reihenhaus an Via Guelfa: Innenausbau | 852 | 12.126 |
-| 23 | `w498103902` | Reihenhaus an Via Panicale | 1.133 | 12.127 |
-| 24 | `w498103902_innen` | Reihenhaus an Via Panicale: Innenausbau | 1.028 | 12.128 |
+| 1 | `r1580100` | Monastero di Sant'Orsola | 118.472 | 12.1–12.87 |
+| 2 | `r1580100_innen` | Monastero di Sant'Orsola: Innenausbau | 27.549 | 12.88–12.101 |
+| 3 | `w306395970` | Reihenhaus an Via Guelfa | 3.643 | 12.102–12.103 |
+| 4 | `w306395970_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.069 | 12.104 |
+| 5 | `w498103893` | Reihenhaus an Via Panicale | 5.618 | 12.105–12.107 |
+| 6 | `w498103893_innen` | Reihenhaus an Via Panicale: Innenausbau | 1.142 | 12.108 |
+| 7 | `w498103894` | Reihenhaus an Via Panicale | 4.062 | 12.109–12.110 |
+| 8 | `w498103894_innen` | Reihenhaus an Via Panicale: Innenausbau | 2 | 12.111 |
+| 9 | `w498103895` | Reihenhaus an Via Guelfa | 5.647 | 12.111–12.113 |
+| 10 | `w498103895_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.148 | 12.114 |
+| 11 | `w498103896` | Reihenhaus an Via Panicale | 5.282 | 12.115–12.117 |
+| 12 | `w498103896_innen` | Reihenhaus an Via Panicale: Innenausbau | 2.029 | 12.118 |
+| 13 | `w498103897` | Reihenhaus an Via Panicale | 2.060 | 12.119 |
+| 14 | `w498103897_innen` | Reihenhaus an Via Panicale: Innenausbau | 1.715 | 12.120 |
+| 15 | `w498103898` | Reihenhaus an Via Panicale | 2.490 | 12.121–12.122 |
+| 16 | `w498103898_innen` | Reihenhaus an Via Panicale: Innenausbau | 703 | 12.123 |
+| 17 | `w498103899` | Reihenhaus an Via Guelfa | 3.573 | 12.124–12.125 |
+| 18 | `w498103899_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.519 | 12.126 |
+| 19 | `w498103900` | Reihenhaus an Via Guelfa | 2.742 | 12.127–12.128 |
+| 20 | `w498103900_innen` | Reihenhaus an Via Guelfa: Innenausbau | 1.831 | 12.129 |
+| 21 | `w498103901` | Reihenhaus an Via Guelfa | 2.971 | 12.130–12.131 |
+| 22 | `w498103901_innen` | Reihenhaus an Via Guelfa: Innenausbau | 852 | 12.132 |
+| 23 | `w498103902` | Reihenhaus an Via Panicale | 1.153 | 12.133 |
+| 24 | `w498103902_innen` | Reihenhaus an Via Panicale: Innenausbau | 1.028 | 12.134 |
+| 25 | `strassenschilder` | Straßenschilder | 5 | 12.134 |
 
 ## Bauschritte
 
-### Schritt 12.1 – Monastero di Sant'Orsola – Teil 1/81 (Y 63–63)
+### Schritt 12.1 – Monastero di Sant'Orsola – Teil 1/87 (Y 58–60)
+
+- **Y-Bereich:** 58 bis 60
+- **Blöcke:** 1.221
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.221 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.2 – Monastero di Sant'Orsola – Teil 2/87 (Y 61–61)
+
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.677
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.677 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.3 – Monastero di Sant'Orsola – Teil 3/87 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.321
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.321 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.4 – Monastero di Sant'Orsola – Teil 4/87 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 1.320
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.320 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.5 – Monastero di Sant'Orsola – Teil 5/87 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
+- **Blöcke:** 1.926
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.926 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.6 – Monastero di Sant'Orsola – Teil 6/87 (Y 63–63)
+
+- **Y-Bereich:** 63 bis 63
+- **Blöcke:** 1.903
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.903 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.7 – Monastero di Sant'Orsola – Teil 7/87 (Y 64–64)
+
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.981
 - **Bauteile:** `r1580100`
 
@@ -112,9 +285,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Monastero di Sant'Orsola – Teil 2/81 (Y 63–63)
+### Schritt 12.8 – Monastero di Sant'Orsola – Teil 8/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.005
 - **Bauteile:** `r1580100`
 
@@ -140,9 +313,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Monastero di Sant'Orsola – Teil 3/81 (Y 63–63)
+### Schritt 12.9 – Monastero di Sant'Orsola – Teil 9/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.995
 - **Bauteile:** `r1580100`
 
@@ -168,9 +341,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Monastero di Sant'Orsola – Teil 4/81 (Y 63–63)
+### Schritt 12.10 – Monastero di Sant'Orsola – Teil 10/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.994
 - **Bauteile:** `r1580100`
 
@@ -196,9 +369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.5 – Monastero di Sant'Orsola – Teil 5/81 (Y 63–63)
+### Schritt 12.11 – Monastero di Sant'Orsola – Teil 11/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.066
 - **Bauteile:** `r1580100`
 
@@ -224,9 +397,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Monastero di Sant'Orsola – Teil 6/81 (Y 63–63)
+### Schritt 12.12 – Monastero di Sant'Orsola – Teil 12/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.968
 - **Bauteile:** `r1580100`
 
@@ -252,9 +425,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Monastero di Sant'Orsola – Teil 7/81 (Y 63–63)
+### Schritt 12.13 – Monastero di Sant'Orsola – Teil 13/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.994
 - **Bauteile:** `r1580100`
 
@@ -280,9 +453,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.8 – Monastero di Sant'Orsola – Teil 8/81 (Y 63–63)
+### Schritt 12.14 – Monastero di Sant'Orsola – Teil 14/87 (Y 64–64)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 2.002
 - **Bauteile:** `r1580100`
 
@@ -308,9 +481,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.9 – Monastero di Sant'Orsola – Teil 9/81 (Y 64–64)
+### Schritt 12.15 – Monastero di Sant'Orsola – Teil 15/87 (Y 65–65)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.156
 - **Bauteile:** `r1580100`
 
@@ -339,9 +512,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.10 – Monastero di Sant'Orsola – Teil 10/81 (Y 64–64)
+### Schritt 12.16 – Monastero di Sant'Orsola – Teil 16/87 (Y 65–65)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.160
 - **Bauteile:** `r1580100`
 
@@ -370,9 +543,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.11 – Monastero di Sant'Orsola – Teil 11/81 (Y 65–65)
+### Schritt 12.17 – Monastero di Sant'Orsola – Teil 17/87 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.156
 - **Bauteile:** `r1580100`
 
@@ -400,9 +573,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.12 – Monastero di Sant'Orsola – Teil 12/81 (Y 65–65)
+### Schritt 12.18 – Monastero di Sant'Orsola – Teil 18/87 (Y 66–66)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.160
 - **Bauteile:** `r1580100`
 
@@ -431,9 +604,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.13 – Monastero di Sant'Orsola – Teil 13/81 (Y 66–66)
+### Schritt 12.19 – Monastero di Sant'Orsola – Teil 19/87 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.156
 - **Bauteile:** `r1580100`
 
@@ -463,9 +636,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.14 – Monastero di Sant'Orsola – Teil 14/81 (Y 66–66)
+### Schritt 12.20 – Monastero di Sant'Orsola – Teil 20/87 (Y 67–67)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.160
 - **Bauteile:** `r1580100`
 
@@ -495,9 +668,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.15 – Monastero di Sant'Orsola – Teil 15/81 (Y 67–67)
+### Schritt 12.21 – Monastero di Sant'Orsola – Teil 21/87 (Y 68–68)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.132
 - **Bauteile:** `r1580100`
 
@@ -526,9 +699,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.16 – Monastero di Sant'Orsola – Teil 16/81 (Y 67–67)
+### Schritt 12.22 – Monastero di Sant'Orsola – Teil 22/87 (Y 68–68)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.141
 - **Bauteile:** `r1580100`
 
@@ -559,9 +732,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.17 – Monastero di Sant'Orsola – Teil 17/81 (Y 68–68)
+### Schritt 12.23 – Monastero di Sant'Orsola – Teil 23/87 (Y 69–69)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.139
 - **Bauteile:** `r1580100`
 
@@ -591,9 +764,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.18 – Monastero di Sant'Orsola – Teil 18/81 (Y 68–68)
+### Schritt 12.24 – Monastero di Sant'Orsola – Teil 24/87 (Y 69–69)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.141
 - **Bauteile:** `r1580100`
 
@@ -624,9 +797,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.19 – Monastero di Sant'Orsola – Teil 19/81 (Y 69–69)
+### Schritt 12.25 – Monastero di Sant'Orsola – Teil 25/87 (Y 70–70)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.139
 - **Bauteile:** `r1580100`
 
@@ -656,9 +829,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.20 – Monastero di Sant'Orsola – Teil 20/81 (Y 69–69)
+### Schritt 12.26 – Monastero di Sant'Orsola – Teil 26/87 (Y 70–70)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.141
 - **Bauteile:** `r1580100`
 
@@ -689,9 +862,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.21 – Monastero di Sant'Orsola – Teil 21/81 (Y 70–70)
+### Schritt 12.27 – Monastero di Sant'Orsola – Teil 27/87 (Y 71–71)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.139
 - **Bauteile:** `r1580100`
 
@@ -721,9 +894,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.22 – Monastero di Sant'Orsola – Teil 22/81 (Y 70–70)
+### Schritt 12.28 – Monastero di Sant'Orsola – Teil 28/87 (Y 71–71)
 
-- **Y-Bereich:** 70 bis 70
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.141
 - **Bauteile:** `r1580100`
 
@@ -754,9 +927,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.23 – Monastero di Sant'Orsola – Teil 23/81 (Y 71–71)
+### Schritt 12.29 – Monastero di Sant'Orsola – Teil 29/87 (Y 72–72)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.139
 - **Bauteile:** `r1580100`
 
@@ -785,9 +958,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.24 – Monastero di Sant'Orsola – Teil 24/81 (Y 71–71)
+### Schritt 12.30 – Monastero di Sant'Orsola – Teil 30/87 (Y 72–72)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.141
 - **Bauteile:** `r1580100`
 
@@ -818,9 +991,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.25 – Monastero di Sant'Orsola – Teil 25/81 (Y 72–72)
+### Schritt 12.31 – Monastero di Sant'Orsola – Teil 31/87 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.170
 - **Bauteile:** `r1580100`
 
@@ -850,9 +1023,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.26 – Monastero di Sant'Orsola – Teil 26/81 (Y 72–72)
+### Schritt 12.32 – Monastero di Sant'Orsola – Teil 32/87 (Y 73–73)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -882,9 +1055,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.27 – Monastero di Sant'Orsola – Teil 27/81 (Y 73–73)
+### Schritt 12.33 – Monastero di Sant'Orsola – Teil 33/87 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -911,9 +1084,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.28 – Monastero di Sant'Orsola – Teil 28/81 (Y 73–73)
+### Schritt 12.34 – Monastero di Sant'Orsola – Teil 34/87 (Y 74–74)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -941,9 +1114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.29 – Monastero di Sant'Orsola – Teil 29/81 (Y 74–74)
+### Schritt 12.35 – Monastero di Sant'Orsola – Teil 35/87 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -970,9 +1143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.30 – Monastero di Sant'Orsola – Teil 30/81 (Y 74–74)
+### Schritt 12.36 – Monastero di Sant'Orsola – Teil 36/87 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -999,9 +1172,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.31 – Monastero di Sant'Orsola – Teil 31/81 (Y 75–75)
+### Schritt 12.37 – Monastero di Sant'Orsola – Teil 37/87 (Y 76–76)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1027,9 +1200,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.32 – Monastero di Sant'Orsola – Teil 32/81 (Y 75–75)
+### Schritt 12.38 – Monastero di Sant'Orsola – Teil 38/87 (Y 76–76)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1056,9 +1229,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.33 – Monastero di Sant'Orsola – Teil 33/81 (Y 76–76)
+### Schritt 12.39 – Monastero di Sant'Orsola – Teil 39/87 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1086,9 +1259,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.34 – Monastero di Sant'Orsola – Teil 34/81 (Y 76–76)
+### Schritt 12.40 – Monastero di Sant'Orsola – Teil 40/87 (Y 77–77)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1116,9 +1289,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.35 – Monastero di Sant'Orsola – Teil 35/81 (Y 77–77)
+### Schritt 12.41 – Monastero di Sant'Orsola – Teil 41/87 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1146,9 +1319,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.36 – Monastero di Sant'Orsola – Teil 36/81 (Y 77–77)
+### Schritt 12.42 – Monastero di Sant'Orsola – Teil 42/87 (Y 78–78)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1178,9 +1351,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.37 – Monastero di Sant'Orsola – Teil 37/81 (Y 78–78)
+### Schritt 12.43 – Monastero di Sant'Orsola – Teil 43/87 (Y 79–79)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1209,9 +1382,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.38 – Monastero di Sant'Orsola – Teil 38/81 (Y 78–78)
+### Schritt 12.44 – Monastero di Sant'Orsola – Teil 44/87 (Y 79–79)
 
-- **Y-Bereich:** 78 bis 78
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1241,9 +1414,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.39 – Monastero di Sant'Orsola – Teil 39/81 (Y 79–79)
+### Schritt 12.45 – Monastero di Sant'Orsola – Teil 45/87 (Y 80–80)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1271,9 +1444,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.40 – Monastero di Sant'Orsola – Teil 40/81 (Y 79–79)
+### Schritt 12.46 – Monastero di Sant'Orsola – Teil 46/87 (Y 80–80)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1303,72 +1476,72 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.41 – Monastero di Sant'Orsola – Teil 41/81 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.167
-- **Bauteile:** `r1580100`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.013 |
-| Weißer Beton | `white_concrete` | 100 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Polierter Andesit | `polished_andesite` | 4 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.42 – Monastero di Sant'Orsola – Teil 42/81 (Y 80–80)
-
-- **Y-Bereich:** 80 bis 80
-- **Blöcke:** 1.162
-- **Bauteile:** `r1580100`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 975 |
-| Weißer Beton | `white_concrete` | 87 |
-| Graues Buntglas | `gray_stained_glass` | 66 |
-| Grüner Beton | `green_concrete` | 28 |
-| Polierter Andesit | `polished_andesite` | 6 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.43 – Monastero di Sant'Orsola – Teil 43/81 (Y 81–81)
+### Schritt 12.47 – Monastero di Sant'Orsola – Teil 47/87 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
+- **Blöcke:** 1.167
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.013 |
+| Weißer Beton | `white_concrete` | 100 |
+| Graues Buntglas | `gray_stained_glass` | 50 |
+| Polierter Andesit | `polished_andesite` | 4 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.48 – Monastero di Sant'Orsola – Teil 48/87 (Y 81–81)
+
+- **Y-Bereich:** 81 bis 81
+- **Blöcke:** 1.162
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 975 |
+| Weißer Beton | `white_concrete` | 87 |
+| Graues Buntglas | `gray_stained_glass` | 66 |
+| Grüner Beton | `green_concrete` | 28 |
+| Polierter Andesit | `polished_andesite` | 6 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.49 – Monastero di Sant'Orsola – Teil 49/87 (Y 82–82)
+
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1395,9 +1568,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.44 – Monastero di Sant'Orsola – Teil 44/81 (Y 81–81)
+### Schritt 12.50 – Monastero di Sant'Orsola – Teil 50/87 (Y 82–82)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1425,9 +1598,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.45 – Monastero di Sant'Orsola – Teil 45/81 (Y 82–82)
+### Schritt 12.51 – Monastero di Sant'Orsola – Teil 51/87 (Y 83–83)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1455,9 +1628,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.46 – Monastero di Sant'Orsola – Teil 46/81 (Y 82–82)
+### Schritt 12.52 – Monastero di Sant'Orsola – Teil 52/87 (Y 83–83)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1485,9 +1658,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.47 – Monastero di Sant'Orsola – Teil 47/81 (Y 83–83)
+### Schritt 12.53 – Monastero di Sant'Orsola – Teil 53/87 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1514,9 +1687,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.48 – Monastero di Sant'Orsola – Teil 48/81 (Y 83–83)
+### Schritt 12.54 – Monastero di Sant'Orsola – Teil 54/87 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1543,9 +1716,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.49 – Monastero di Sant'Orsola – Teil 49/81 (Y 84–84)
+### Schritt 12.55 – Monastero di Sant'Orsola – Teil 55/87 (Y 85–85)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1572,9 +1745,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.50 – Monastero di Sant'Orsola – Teil 50/81 (Y 84–84)
+### Schritt 12.56 – Monastero di Sant'Orsola – Teil 56/87 (Y 85–85)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1601,9 +1774,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.51 – Monastero di Sant'Orsola – Teil 51/81 (Y 85–85)
+### Schritt 12.57 – Monastero di Sant'Orsola – Teil 57/87 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.194
 - **Bauteile:** `r1580100`
 
@@ -1630,9 +1803,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.52 – Monastero di Sant'Orsola – Teil 52/81 (Y 85–85)
+### Schritt 12.58 – Monastero di Sant'Orsola – Teil 58/87 (Y 86–86)
 
-- **Y-Bereich:** 85 bis 85
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.200
 - **Bauteile:** `r1580100`
 
@@ -1660,9 +1833,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.53 – Monastero di Sant'Orsola – Teil 53/81 (Y 86–86)
+### Schritt 12.59 – Monastero di Sant'Orsola – Teil 59/87 (Y 87–87)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1691,9 +1864,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.54 – Monastero di Sant'Orsola – Teil 54/81 (Y 86–86)
+### Schritt 12.60 – Monastero di Sant'Orsola – Teil 60/87 (Y 87–87)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1723,9 +1896,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.55 – Monastero di Sant'Orsola – Teil 55/81 (Y 87–87)
+### Schritt 12.61 – Monastero di Sant'Orsola – Teil 61/87 (Y 88–88)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1753,9 +1926,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.56 – Monastero di Sant'Orsola – Teil 56/81 (Y 87–87)
+### Schritt 12.62 – Monastero di Sant'Orsola – Teil 62/87 (Y 88–88)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1785,9 +1958,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.57 – Monastero di Sant'Orsola – Teil 57/81 (Y 88–88)
+### Schritt 12.63 – Monastero di Sant'Orsola – Teil 63/87 (Y 89–89)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1816,9 +1989,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.58 – Monastero di Sant'Orsola – Teil 58/81 (Y 88–88)
+### Schritt 12.64 – Monastero di Sant'Orsola – Teil 64/87 (Y 89–89)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1848,9 +2021,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.59 – Monastero di Sant'Orsola – Teil 59/81 (Y 89–89)
+### Schritt 12.65 – Monastero di Sant'Orsola – Teil 65/87 (Y 90–90)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1878,9 +2051,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.60 – Monastero di Sant'Orsola – Teil 60/81 (Y 89–89)
+### Schritt 12.66 – Monastero di Sant'Orsola – Teil 66/87 (Y 90–90)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1910,9 +2083,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.61 – Monastero di Sant'Orsola – Teil 61/81 (Y 90–90)
+### Schritt 12.67 – Monastero di Sant'Orsola – Teil 67/87 (Y 91–91)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.167
 - **Bauteile:** `r1580100`
 
@@ -1941,9 +2114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.62 – Monastero di Sant'Orsola – Teil 62/81 (Y 90–90)
+### Schritt 12.68 – Monastero di Sant'Orsola – Teil 68/87 (Y 91–91)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.162
 - **Bauteile:** `r1580100`
 
@@ -1973,68 +2146,68 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.63 – Monastero di Sant'Orsola – Teil 63/81 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.194
-- **Bauteile:** `r1580100`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.044 |
-| Weißer Beton | `white_concrete` | 150 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.64 – Monastero di Sant'Orsola – Teil 64/81 (Y 91–91)
-
-- **Y-Bereich:** 91 bis 91
-- **Blöcke:** 1.200
-- **Bauteile:** `r1580100`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.045 |
-| Weißer Beton | `white_concrete` | 153 |
-| Polierter Andesit | `polished_andesite` | 2 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 12.65 – Monastero di Sant'Orsola – Teil 65/81 (Y 92–92)
+### Schritt 12.69 – Monastero di Sant'Orsola – Teil 69/87 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.194
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.044 |
+| Weißer Beton | `white_concrete` | 150 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.70 – Monastero di Sant'Orsola – Teil 70/87 (Y 92–92)
+
+- **Y-Bereich:** 92 bis 92
+- **Blöcke:** 1.200
+- **Bauteile:** `r1580100`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 1.045 |
+| Weißer Beton | `white_concrete` | 153 |
+| Polierter Andesit | `polished_andesite` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 12.71 – Monastero di Sant'Orsola – Teil 71/87 (Y 93–93)
+
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.377
 - **Bauteile:** `r1580100`
 
@@ -2063,9 +2236,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.66 – Monastero di Sant'Orsola – Teil 66/81 (Y 92–92)
+### Schritt 12.72 – Monastero di Sant'Orsola – Teil 72/87 (Y 93–93)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.363
 - **Bauteile:** `r1580100`
 
@@ -2094,9 +2267,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.67 – Monastero di Sant'Orsola – Teil 67/81 (Y 93–93)
+### Schritt 12.73 – Monastero di Sant'Orsola – Teil 73/87 (Y 94–94)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.595
 - **Bauteile:** `r1580100`
 
@@ -2123,9 +2296,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.68 – Monastero di Sant'Orsola – Teil 68/81 (Y 93–93)
+### Schritt 12.74 – Monastero di Sant'Orsola – Teil 74/87 (Y 94–94)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.592
 - **Bauteile:** `r1580100`
 
@@ -2153,9 +2326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.69 – Monastero di Sant'Orsola – Teil 69/81 (Y 94–94)
+### Schritt 12.75 – Monastero di Sant'Orsola – Teil 75/87 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.688
 - **Bauteile:** `r1580100`
 
@@ -2181,9 +2354,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.70 – Monastero di Sant'Orsola – Teil 70/81 (Y 94–94)
+### Schritt 12.76 – Monastero di Sant'Orsola – Teil 76/87 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.691
 - **Bauteile:** `r1580100`
 
@@ -2209,9 +2382,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.71 – Monastero di Sant'Orsola – Teil 71/81 (Y 94–94)
+### Schritt 12.77 – Monastero di Sant'Orsola – Teil 77/87 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.643
 - **Bauteile:** `r1580100`
 
@@ -2237,9 +2410,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.72 – Monastero di Sant'Orsola – Teil 72/81 (Y 94–94)
+### Schritt 12.78 – Monastero di Sant'Orsola – Teil 78/87 (Y 95–95)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.695
 - **Bauteile:** `r1580100`
 
@@ -2265,9 +2438,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.73 – Monastero di Sant'Orsola – Teil 73/81 (Y 95–95)
+### Schritt 12.79 – Monastero di Sant'Orsola – Teil 79/87 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.463
 - **Bauteile:** `r1580100`
 
@@ -2293,9 +2466,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.74 – Monastero di Sant'Orsola – Teil 74/81 (Y 95–95)
+### Schritt 12.80 – Monastero di Sant'Orsola – Teil 80/87 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.478
 - **Bauteile:** `r1580100`
 
@@ -2321,9 +2494,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.75 – Monastero di Sant'Orsola – Teil 75/81 (Y 95–95)
+### Schritt 12.81 – Monastero di Sant'Orsola – Teil 81/87 (Y 96–96)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.469
 - **Bauteile:** `r1580100`
 
@@ -2349,9 +2522,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.76 – Monastero di Sant'Orsola – Teil 76/81 (Y 96–96)
+### Schritt 12.82 – Monastero di Sant'Orsola – Teil 82/87 (Y 97–97)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 2.037
 - **Bauteile:** `r1580100`
 
@@ -2377,9 +2550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.77 – Monastero di Sant'Orsola – Teil 77/81 (Y 96–96)
+### Schritt 12.83 – Monastero di Sant'Orsola – Teil 83/87 (Y 97–97)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 2.041
 - **Bauteile:** `r1580100`
 
@@ -2405,9 +2578,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.78 – Monastero di Sant'Orsola – Teil 78/81 (Y 97–97)
+### Schritt 12.84 – Monastero di Sant'Orsola – Teil 84/87 (Y 98–98)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.550
 - **Bauteile:** `r1580100`
 
@@ -2434,9 +2607,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.79 – Monastero di Sant'Orsola – Teil 79/81 (Y 97–97)
+### Schritt 12.85 – Monastero di Sant'Orsola – Teil 85/87 (Y 98–98)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.556
 - **Bauteile:** `r1580100`
 
@@ -2463,9 +2636,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.80 – Monastero di Sant'Orsola – Teil 80/81 (Y 98–98)
+### Schritt 12.86 – Monastero di Sant'Orsola – Teil 86/87 (Y 99–99)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 99 bis 99
 - **Blöcke:** 1.691
 - **Bauteile:** `r1580100`
 
@@ -2492,9 +2665,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.81 – Monastero di Sant'Orsola – Teil 81/81 (Y 99–102)
+### Schritt 12.87 – Monastero di Sant'Orsola – Teil 87/87 (Y 100–103)
 
-- **Y-Bereich:** 99 bis 102
+- **Y-Bereich:** 100 bis 103
 - **Blöcke:** 1.596
 - **Bauteile:** `r1580100`
 
@@ -2521,9 +2694,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.82 – Monastero di Sant'Orsola: Innenausbau – Teil 1/14 (Y 63–74)
+### Schritt 12.88 – Monastero di Sant'Orsola: Innenausbau – Teil 1/14 (Y 64–75)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 64 bis 75
 - **Blöcke:** 2.089
 - **Bauteile:** `r1580100_innen`
 
@@ -2563,9 +2736,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.83 – Monastero di Sant'Orsola: Innenausbau – Teil 2/14 (Y 74–74)
+### Schritt 12.89 – Monastero di Sant'Orsola: Innenausbau – Teil 2/14 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.970
 - **Bauteile:** `r1580100_innen`
 
@@ -2592,9 +2765,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.84 – Monastero di Sant'Orsola: Innenausbau – Teil 3/14 (Y 74–74)
+### Schritt 12.90 – Monastero di Sant'Orsola: Innenausbau – Teil 3/14 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.929
 - **Bauteile:** `r1580100_innen`
 
@@ -2621,9 +2794,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.85 – Monastero di Sant'Orsola: Innenausbau – Teil 4/14 (Y 74–74)
+### Schritt 12.91 – Monastero di Sant'Orsola: Innenausbau – Teil 4/14 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.909
 - **Bauteile:** `r1580100_innen`
 
@@ -2650,9 +2823,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.86 – Monastero di Sant'Orsola: Innenausbau – Teil 5/14 (Y 74–74)
+### Schritt 12.92 – Monastero di Sant'Orsola: Innenausbau – Teil 5/14 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.979
 - **Bauteile:** `r1580100_innen`
 
@@ -2679,9 +2852,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.87 – Monastero di Sant'Orsola: Innenausbau – Teil 6/14 (Y 74–74)
+### Schritt 12.93 – Monastero di Sant'Orsola: Innenausbau – Teil 6/14 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.957
 - **Bauteile:** `r1580100_innen`
 
@@ -2715,9 +2888,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.88 – Monastero di Sant'Orsola: Innenausbau – Teil 7/14 (Y 74–74)
+### Schritt 12.94 – Monastero di Sant'Orsola: Innenausbau – Teil 7/14 (Y 75–75)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.980
 - **Bauteile:** `r1580100_innen`
 
@@ -2744,9 +2917,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.89 – Monastero di Sant'Orsola: Innenausbau – Teil 8/14 (Y 75–83)
+### Schritt 12.95 – Monastero di Sant'Orsola: Innenausbau – Teil 8/14 (Y 76–84)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 2.007
 - **Bauteile:** `r1580100_innen`
 
@@ -2788,9 +2961,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.90 – Monastero di Sant'Orsola: Innenausbau – Teil 9/14 (Y 83–83)
+### Schritt 12.96 – Monastero di Sant'Orsola: Innenausbau – Teil 9/14 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.970
 - **Bauteile:** `r1580100_innen`
 
@@ -2817,9 +2990,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.91 – Monastero di Sant'Orsola: Innenausbau – Teil 10/14 (Y 83–83)
+### Schritt 12.97 – Monastero di Sant'Orsola: Innenausbau – Teil 10/14 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.929
 - **Bauteile:** `r1580100_innen`
 
@@ -2846,9 +3019,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.92 – Monastero di Sant'Orsola: Innenausbau – Teil 11/14 (Y 83–83)
+### Schritt 12.98 – Monastero di Sant'Orsola: Innenausbau – Teil 11/14 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.909
 - **Bauteile:** `r1580100_innen`
 
@@ -2875,9 +3048,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.93 – Monastero di Sant'Orsola: Innenausbau – Teil 12/14 (Y 83–83)
+### Schritt 12.99 – Monastero di Sant'Orsola: Innenausbau – Teil 12/14 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.979
 - **Bauteile:** `r1580100_innen`
 
@@ -2904,9 +3077,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.94 – Monastero di Sant'Orsola: Innenausbau – Teil 13/14 (Y 83–83)
+### Schritt 12.100 – Monastero di Sant'Orsola: Innenausbau – Teil 13/14 (Y 84–84)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.957
 - **Bauteile:** `r1580100_innen`
 
@@ -2940,9 +3113,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.95 – Monastero di Sant'Orsola: Innenausbau – Teil 14/14 (Y 83–84)
+### Schritt 12.101 – Monastero di Sant'Orsola: Innenausbau – Teil 14/14 (Y 84–85)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.985
 - **Bauteile:** `r1580100_innen`
 
@@ -2980,17 +3153,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.96 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–79)
+### Schritt 12.102 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–78)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.818
+- **Y-Bereich:** 63 bis 78
+- **Blöcke:** 1.777
 - **Bauteile:** `w306395970`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.279 |
+| Glatter Sandstein | `smooth_sandstone` | 1.238 |
 | Polierter Tuffstein | `polished_tuff` | 415 |
 | Polierter Andesit | `polished_andesite` | 86 |
 | Graues Buntglas | `gray_stained_glass` | 29 |
@@ -3012,17 +3185,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.97 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 80–97)
+### Schritt 12.103 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 79–97)
 
-- **Y-Bereich:** 80 bis 97
-- **Blöcke:** 1.775
+- **Y-Bereich:** 79 bis 97
+- **Blöcke:** 1.866
 - **Bauteile:** `w306395970`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.139 |
+| Glatter Sandstein | `smooth_sandstone` | 1.230 |
 | Terrakotta | `terracotta` | 492 |
 | Polierter Andesit | `polished_andesite` | 85 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
@@ -3045,10 +3218,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.98 – Reihenhaus an Via Guelfa: Innenausbau
+### Schritt 12.104 – Reihenhaus an Via Guelfa: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.075
+- **Y-Bereich:** 63 bis 86
+- **Blöcke:** 1.069
 - **Bauteile:** `w306395970_innen`
 
 **Teileliste**
@@ -3056,16 +3229,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 951 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
 
 **Beschreibung**
 
@@ -3083,17 +3256,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.99 – Reihenhaus an Via Panicale – Teil 1/3 (Y 63–72)
+### Schritt 12.105 – Reihenhaus an Via Panicale – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.831
+- **Y-Bereich:** 62 bis 71
+- **Blöcke:** 1.849
 - **Bauteile:** `w498103893`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.316 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.334 |
 | Polierter Tuffstein | `polished_tuff` | 499 |
 | Glatter Stein | `smooth_stone` | 16 |
 
@@ -3113,9 +3286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.100 – Reihenhaus an Via Panicale – Teil 2/3 (Y 73–85)
+### Schritt 12.106 – Reihenhaus an Via Panicale – Teil 2/3 (Y 72–84)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.955
 - **Bauteile:** `w498103893`
 
@@ -3142,9 +3315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.101 – Reihenhaus an Via Panicale – Teil 3/3 (Y 86–95)
+### Schritt 12.107 – Reihenhaus an Via Panicale – Teil 3/3 (Y 85–94)
 
-- **Y-Bereich:** 86 bis 95
+- **Y-Bereich:** 85 bis 94
 - **Blöcke:** 1.814
 - **Bauteile:** `w498103893`
 
@@ -3173,9 +3346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.102 – Reihenhaus an Via Panicale: Innenausbau
+### Schritt 12.108 – Reihenhaus an Via Panicale: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 62 bis 85
 - **Blöcke:** 1.142
 - **Bauteile:** `w498103893_innen`
 
@@ -3211,7 +3384,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.103 – Reihenhaus an Via Panicale – Teil 1/2 (Y 63–78)
+### Schritt 12.109 – Reihenhaus an Via Panicale – Teil 1/2 (Y 63–78)
 
 - **Y-Bereich:** 63 bis 78
 - **Blöcke:** 2.000
@@ -3243,7 +3416,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.104 – Reihenhaus an Via Panicale – Teil 2/2 (Y 79–98)
+### Schritt 12.110 – Reihenhaus an Via Panicale – Teil 2/2 (Y 79–98)
 
 - **Y-Bereich:** 79 bis 98
 - **Blöcke:** 2.062
@@ -3275,17 +3448,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.105 – Reihenhaus an Via Panicale: Innenausbau & Reihenhaus an Via Guelfa – Teil 1/3 (Y 63–72)
+### Schritt 12.111 – Reihenhaus an Via Panicale: Innenausbau & Reihenhaus an Via Guelfa – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.836
+- **Blöcke:** 1.847
 - **Bauteile:** `w498103894_innen`, `w498103895`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.332 |
+| Rosa Keramik | `pink_terracotta` | 1.343 |
 | Polierter Tuffstein | `polished_tuff` | 502 |
 | Seelaterne | `sea_lantern` | 2 |
 
@@ -3305,7 +3478,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.106 – Reihenhaus an Via Guelfa – Teil 2/3 (Y 73–85)
+### Schritt 12.112 – Reihenhaus an Via Guelfa – Teil 2/3 (Y 73–85)
 
 - **Y-Bereich:** 73 bis 85
 - **Blöcke:** 1.962
@@ -3335,7 +3508,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.107 – Reihenhaus an Via Guelfa – Teil 3/3 (Y 86–98)
+### Schritt 12.113 – Reihenhaus an Via Guelfa – Teil 3/3 (Y 86–98)
 
 - **Y-Bereich:** 86 bis 98
 - **Blöcke:** 1.840
@@ -3367,10 +3540,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.108 – Reihenhaus an Via Guelfa: Innenausbau
+### Schritt 12.114 – Reihenhaus an Via Guelfa: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.150
+- **Blöcke:** 1.148
 - **Bauteile:** `w498103895_innen`
 
 **Teileliste**
@@ -3379,11 +3552,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.026 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3407,17 +3578,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.109 – Reihenhaus an Via Panicale – Teil 1/3 (Y 63–72)
+### Schritt 12.115 – Reihenhaus an Via Panicale – Teil 1/3 (Y 62–70)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.788
+- **Y-Bereich:** 62 bis 70
+- **Blöcke:** 1.718
 - **Bauteile:** `w498103896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.007 |
+| Endsteinziegel | `end_stone_bricks` | 937 |
 | Polierter Tuffstein | `polished_tuff` | 759 |
 | Polierter Andesit | `polished_andesite` | 18 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
@@ -3438,17 +3609,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.110 – Reihenhaus an Via Panicale – Teil 2/3 (Y 73–86)
+### Schritt 12.116 – Reihenhaus an Via Panicale – Teil 2/3 (Y 71–85)
 
-- **Y-Bereich:** 73 bis 86
-- **Blöcke:** 1.644
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.762
 - **Bauteile:** `w498103896`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.528 |
+| Endsteinziegel | `end_stone_bricks` | 1.646 |
 | Polierter Andesit | `polished_andesite` | 92 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
 
@@ -3468,9 +3639,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.111 – Reihenhaus an Via Panicale – Teil 3/3 (Y 87–98)
+### Schritt 12.117 – Reihenhaus an Via Panicale – Teil 3/3 (Y 86–97)
 
-- **Y-Bereich:** 87 bis 98
+- **Y-Bereich:** 86 bis 97
 - **Blöcke:** 1.802
 - **Bauteile:** `w498103896`
 
@@ -3500,10 +3671,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.112 – Reihenhaus an Via Panicale: Innenausbau
+### Schritt 12.118 – Reihenhaus an Via Panicale: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 2.031
+- **Y-Bereich:** 62 bis 85
+- **Blöcke:** 2.029
 - **Bauteile:** `w498103896_innen`
 
 **Teileliste**
@@ -3515,8 +3686,6 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 20 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3540,19 +3709,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.113 – Reihenhaus an Via Panicale
+### Schritt 12.119 – Reihenhaus an Via Panicale
 
-- **Y-Bereich:** 63 bis 98
-- **Blöcke:** 1.895
+- **Y-Bereich:** 62 bis 97
+- **Blöcke:** 2.060
 - **Bauteile:** `w498103897`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Weißer Beton | `white_concrete` | 737 |
 | Terrakotta | `terracotta` | 646 |
-| Weißer Beton | `white_concrete` | 573 |
-| Polierter Tuffstein | `polished_tuff` | 562 |
+| Polierter Tuffstein | `polished_tuff` | 563 |
 | Hellgrauer Beton | `light_gray_concrete` | 87 |
 | Polierter Andesit | `polished_andesite` | 14 |
 | Graues Buntglas | `gray_stained_glass` | 9 |
@@ -3574,21 +3743,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.114 – Reihenhaus an Via Panicale: Innenausbau
+### Schritt 12.120 – Reihenhaus an Via Panicale: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.716
+- **Y-Bereich:** 62 bis 85
+- **Blöcke:** 1.715
 - **Bauteile:** `w498103897_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.590 |
+| Terrakotta | `terracotta` | 1.593 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 12 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3612,7 +3781,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.115 – Reihenhaus an Via Panicale – Teil 1/2 (Y 63–79)
+### Schritt 12.121 – Reihenhaus an Via Panicale – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
 - **Blöcke:** 1.269
@@ -3643,7 +3812,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.116 – Reihenhaus an Via Panicale – Teil 2/2 (Y 80–97)
+### Schritt 12.122 – Reihenhaus an Via Panicale – Teil 2/2 (Y 80–97)
 
 - **Y-Bereich:** 80 bis 97
 - **Blöcke:** 1.221
@@ -3676,7 +3845,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.117 – Reihenhaus an Via Panicale: Innenausbau
+### Schritt 12.123 – Reihenhaus an Via Panicale: Innenausbau
 
 - **Y-Bereich:** 63 bis 86
 - **Blöcke:** 703
@@ -3714,9 +3883,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.118 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–79)
+### Schritt 12.124 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 64–80)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 64 bis 80
 - **Blöcke:** 1.756
 - **Bauteile:** `w498103899`
 
@@ -3747,17 +3916,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.119 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 80–98)
+### Schritt 12.125 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 81–99)
 
-- **Y-Bereich:** 80 bis 98
-- **Blöcke:** 1.716
+- **Y-Bereich:** 81 bis 99
+- **Blöcke:** 1.817
 - **Bauteile:** `w498103899`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 932 |
+| Gelbe Keramik | `yellow_terracotta` | 1.033 |
 | Terrakotta | `terracotta` | 629 |
 | Weißer Beton | `white_concrete` | 112 |
 | Graues Buntglas | `gray_stained_glass` | 18 |
@@ -3780,10 +3949,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.120 – Reihenhaus an Via Guelfa: Innenausbau
+### Schritt 12.126 – Reihenhaus an Via Guelfa: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.527
+- **Y-Bereich:** 64 bis 88
+- **Blöcke:** 1.519
 - **Bauteile:** `w498103899_innen`
 
 **Teileliste**
@@ -3792,13 +3961,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.383 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
-| Rote Keramik | `red_terracotta` | 6 |
-| Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3822,18 +3991,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.121 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–81)
+### Schritt 12.127 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–81)
 
 - **Y-Bereich:** 63 bis 81
-- **Blöcke:** 1.368
+- **Blöcke:** 1.384
 - **Bauteile:** `w498103900`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
+| Hellgrauer Beton | `light_gray_concrete` | 633 |
 | Polierter Tuffstein | `polished_tuff` | 618 |
-| Hellgrauer Beton | `light_gray_concrete` | 617 |
 | Weißer Beton | `white_concrete` | 85 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 | Glatter Stein | `smooth_stone` | 22 |
@@ -3854,10 +4023,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.122 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 82–98)
+### Schritt 12.128 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 82–98)
 
 - **Y-Bereich:** 82 bis 98
-- **Blöcke:** 1.334
+- **Blöcke:** 1.358
 - **Bauteile:** `w498103900`
 
 **Teileliste**
@@ -3865,7 +4034,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 760 |
-| Hellgrauer Beton | `light_gray_concrete` | 421 |
+| Hellgrauer Beton | `light_gray_concrete` | 445 |
 | Weißer Beton | `white_concrete` | 87 |
 | Ziegelsteine | `bricks` | 41 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
@@ -3886,7 +4055,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.123 – Reihenhaus an Via Guelfa: Innenausbau
+### Schritt 12.129 – Reihenhaus an Via Guelfa: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 1.831
@@ -3898,11 +4067,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.698 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 16 |
 | Rote Keramik | `red_terracotta` | 2 |
 | Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -3926,7 +4097,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.124 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–79)
+### Schritt 12.130 – Reihenhaus an Via Guelfa – Teil 1/2 (Y 63–79)
 
 - **Y-Bereich:** 63 bis 79
 - **Blöcke:** 1.489
@@ -3957,7 +4128,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.125 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 80–97)
+### Schritt 12.131 – Reihenhaus an Via Guelfa – Teil 2/2 (Y 80–97)
 
 - **Y-Bereich:** 80 bis 97
 - **Blöcke:** 1.482
@@ -3989,7 +4160,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.126 – Reihenhaus an Via Guelfa: Innenausbau
+### Schritt 12.132 – Reihenhaus an Via Guelfa: Innenausbau
 
 - **Y-Bereich:** 63 bis 87
 - **Blöcke:** 852
@@ -4031,17 +4202,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.127 – Reihenhaus an Via Panicale
+### Schritt 12.133 – Reihenhaus an Via Panicale
 
-- **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.133
+- **Y-Bereich:** 62 bis 94
+- **Blöcke:** 1.153
 - **Bauteile:** `w498103902`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 351 |
+| Hellgrauer Beton | `light_gray_concrete` | 371 |
 | Terrakotta | `terracotta` | 344 |
 | Polierter Tuffstein | `polished_tuff` | 326 |
 | Weißer Beton | `white_concrete` | 87 |
@@ -4064,11 +4235,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.128 – Reihenhaus an Via Panicale: Innenausbau
+### Schritt 12.134 – Reihenhaus an Via Panicale: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.028
-- **Bauteile:** `w498103902_innen`
+- **Y-Bereich:** 62 bis 85
+- **Blöcke:** 1.033
+- **Bauteile:** `w498103902_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -4079,6 +4250,9 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -4088,16 +4262,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

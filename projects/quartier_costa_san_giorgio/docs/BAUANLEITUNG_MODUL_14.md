@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.988 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 193 bis 229 |
 | X-Ausdehnung | -311 bis -284 (28 Blöcke) |
 | Z-Ausdehnung | 2208 bis 2243 (36 Blöcke) |
 | Kleinster Schritt | 1.099 Blöcke (Schritt 14.5) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 14.1 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/4 (Y 63–69)
+### Schritt 14.1 – Reihenhaus an Via del Forte di San Giorgio – Teil 1/4 (Y 193–199)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 193 bis 199
 - **Blöcke:** 1.635
 - **Bauteile:** `w119229750`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/4 (Y 70–78)
+### Schritt 14.2 – Reihenhaus an Via del Forte di San Giorgio – Teil 2/4 (Y 200–208)
 
-- **Y-Bereich:** 70 bis 78
+- **Y-Bereich:** 200 bis 208
 - **Blöcke:** 1.713
 - **Bauteile:** `w119229750`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.3 – Reihenhaus an Via del Forte di San Giorgio – Teil 3/4 (Y 79–88)
+### Schritt 14.3 – Reihenhaus an Via del Forte di San Giorgio – Teil 3/4 (Y 209–218)
 
-- **Y-Bereich:** 79 bis 88
+- **Y-Bereich:** 209 bis 218
 - **Blöcke:** 1.909
 - **Bauteile:** `w119229750`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.4 – Reihenhaus an Via del Forte di San Giorgio – Teil 4/4 (Y 89–99)
+### Schritt 14.4 – Reihenhaus an Via del Forte di San Giorgio – Teil 4/4 (Y 219–229)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 219 bis 229
 - **Blöcke:** 1.632
 - **Bauteile:** `w119229750`
 
@@ -179,7 +179,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 14.5 – Reihenhaus an Via del Forte di San Giorgio: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 193 bis 216
 - **Blöcke:** 1.099
 - **Bauteile:** `w119229750_innen`
 

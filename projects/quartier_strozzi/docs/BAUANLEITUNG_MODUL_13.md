@@ -8,32 +8,32 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 106.408 |
+| Blöcke | 106.446 |
 | Bauschritte | 72 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 62 bis 103 |
 | X-Ausdehnung | -889 bis -763 (127 Blöcke) |
 | Z-Ausdehnung | 209 bis 373 (165 Blöcke) |
 | Kleinster Schritt | 796 Blöcke (Schritt 13.66) |
 | Mittlerer Schritt | 1.478 Blöcke |
-| Größter Schritt | 2.078 Blöcke (Schritt 13.72) |
+| Größter Schritt | 2.083 Blöcke (Schritt 13.72) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 41.505 | 39,0 % |
-| Tuffstein | `tuff` | 21.128 | 19,9 % |
-| Polierter Tuffstein | `polished_tuff` | 16.376 | 15,4 % |
+| Terrakotta | `terracotta` | 41.508 | 39,0 % |
+| Tuffstein | `tuff` | 21.128 | 19,8 % |
+| Polierter Tuffstein | `polished_tuff` | 16.377 | 15,4 % |
 | Glatter Stein | `smooth_stone` | 7.345 | 6,9 % |
 | Polierter Andesit | `polished_andesite` | 4.547 | 4,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 3.068 | 2,9 % |
 | Graues Buntglas | `gray_stained_glass` | 2.770 | 2,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 2.709 | 2,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 2.742 | 2,6 % |
 | Rosa Keramik | `pink_terracotta` | 2.442 | 2,3 % |
 | Orange Keramik | `orange_terracotta` | 1.454 | 1,4 % |
 | Ziegelsteine | `bricks` | 1.058 | 1,0 % |
 | Weißer Beton | `white_concrete` | 1.023 | 1,0 % |
-| Seelaterne | `sea_lantern` | 178 | 0,2 % |
+| Seelaterne | `sea_lantern` | 174 | 0,2 % |
 | Endsteinziegel | `end_stone_bricks` | 164 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 152 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 135 | 0,1 % |
@@ -48,6 +48,9 @@
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -68,8 +71,9 @@
 | 6 | `w307170309_innen` | Reihenhaus an Via dei Pescioni: Innenausbau | 1.615 | 13.63 |
 | 7 | `w307170311` | Reihenhaus an Via dei Pescioni | 4.064 | 13.64–13.65 |
 | 8 | `w307170311_innen` | Reihenhaus an Via dei Pescioni: Innenausbau | 796 | 13.66 |
-| 9 | `w483096014` | Reihenhaus an Via dei Corsi | 6.659 | 13.67–13.70 |
-| 10 | `w483096014_innen` | Reihenhaus an Via dei Corsi: Innenausbau | 3.185 | 13.71–13.72 |
+| 9 | `w483096014` | Reihenhaus an Via dei Corsi | 6.693 | 13.67–13.70 |
+| 10 | `w483096014_innen` | Reihenhaus an Via dei Corsi: Innenausbau | 3.184 | 13.71–13.72 |
+| 11 | `strassenschilder` | Straßenschilder | 5 | 13.72 |
 
 ## Bauschritte
 
@@ -2150,18 +2154,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.67 – Reihenhaus an Via dei Corsi – Teil 1/4 (Y 63–68)
+### Schritt 13.67 – Reihenhaus an Via dei Corsi – Teil 1/4 (Y 62–67)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.628
+- **Y-Bereich:** 62 bis 67
+- **Blöcke:** 1.702
 - **Bauteile:** `w483096014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.139 |
-| Gelbe Keramik | `yellow_terracotta` | 334 |
+| Polierter Tuffstein | `polished_tuff` | 1.140 |
+| Gelbe Keramik | `yellow_terracotta` | 407 |
 | Graues Buntglas | `gray_stained_glass` | 72 |
 | Weißer Beton | `white_concrete` | 43 |
 | Glatter Stein | `smooth_stone` | 40 |
@@ -2182,19 +2186,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.68 – Reihenhaus an Via dei Corsi – Teil 2/4 (Y 69–83)
+### Schritt 13.68 – Reihenhaus an Via dei Corsi – Teil 2/4 (Y 68–81)
 
-- **Y-Bereich:** 69 bis 83
-- **Blöcke:** 1.742
+- **Y-Bereich:** 68 bis 81
+- **Blöcke:** 1.635
 - **Bauteile:** `w483096014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.245 |
-| Weißer Beton | `white_concrete` | 331 |
-| Graues Buntglas | `gray_stained_glass` | 135 |
+| Gelbe Keramik | `yellow_terracotta` | 1.177 |
+| Weißer Beton | `white_concrete` | 310 |
+| Graues Buntglas | `gray_stained_glass` | 117 |
 | Glatter Stein | `smooth_stone` | 31 |
 
 **Beschreibung**
@@ -2213,20 +2217,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.69 – Reihenhaus an Via dei Corsi – Teil 3/4 (Y 84–93)
+### Schritt 13.69 – Reihenhaus an Via dei Corsi – Teil 3/4 (Y 82–92)
 
-- **Y-Bereich:** 84 bis 93
-- **Blöcke:** 1.611
+- **Y-Bereich:** 82 bis 92
+- **Blöcke:** 1.678
 - **Bauteile:** `w483096014`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.130 |
-| Weißer Beton | `white_concrete` | 292 |
+| Gelbe Keramik | `yellow_terracotta` | 1.158 |
+| Weißer Beton | `white_concrete` | 313 |
 | Fichtenholz-Bretter | `spruce_planks` | 135 |
-| Graues Buntglas | `gray_stained_glass` | 54 |
+| Graues Buntglas | `gray_stained_glass` | 72 |
 
 **Beschreibung**
 
@@ -2244,9 +2248,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.70 – Reihenhaus an Via dei Corsi – Teil 4/4 (Y 94–100)
+### Schritt 13.70 – Reihenhaus an Via dei Corsi – Teil 4/4 (Y 93–99)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 93 bis 99
 - **Blöcke:** 1.678
 - **Bauteile:** `w483096014`
 
@@ -2273,21 +2277,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 13.71 – Reihenhaus an Via dei Corsi: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 13.71 – Reihenhaus an Via dei Corsi: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.107
+- **Y-Bereich:** 62 bis 77
+- **Blöcke:** 1.106
 - **Bauteile:** `w483096014_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.006 |
+| Terrakotta | `terracotta` | 1.007 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 49 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 18 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 16 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 10 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 
@@ -2313,25 +2317,28 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 13.72 – Reihenhaus an Via dei Corsi: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 13.72 – Reihenhaus an Via dei Corsi: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 2.078
-- **Bauteile:** `w483096014_innen`
+- **Y-Bereich:** 69 bis 86
+- **Blöcke:** 2.083
+- **Bauteile:** `w483096014_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 2.012 |
+| Terrakotta | `terracotta` | 2.014 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2341,16 +2348,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

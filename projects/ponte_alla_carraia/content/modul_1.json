@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Bögen",
+  "subtitle": "Bautüte 1: fünf Bögen, zu den Ufern hin kleiner",
+  "icon": "🌉",
+  "parts": {
+    "boegen": {
+      "title": "Bögen",
+      "description": "Zwischen Ufern und Pfeilern spannen sich fünf Bögen, zu den Ufern hin kleiner (5 insgesamt); sie beginnen zwei bis drei Lagen über dem Wasser und reichen bis kurz unter die Fahrbahn.",
+      "tip": "Baue die Bögen von den Pfeilern zur Mitte hin.",
+      "caution": "Unter den Bögen bleibt die Durchfahrt frei.",
+      "fact": "In der Nacht zum 3. August 1944 wurde die Brücke gesprengt."
+    }
+  }
+}

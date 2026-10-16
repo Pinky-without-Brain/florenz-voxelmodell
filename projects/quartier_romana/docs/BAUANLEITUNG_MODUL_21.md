@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.814 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 67 bis 98 |
 | X-Ausdehnung | -2368 bis -2348 (21 Blöcke) |
 | Z-Ausdehnung | 2452 bis 2502 (51 Blöcke) |
 | Kleinster Schritt | 1.850 Blöcke (Schritt 21.3) |
@@ -38,9 +38,9 @@
 
 ## Bauschritte
 
-### Schritt 21.1 – Palazzo des Ottocento an Via dei Serragli – Teil 1/3 (Y 63–74)
+### Schritt 21.1 – Palazzo des Ottocento an Via dei Serragli – Teil 1/3 (Y 67–78)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 67 bis 78
 - **Blöcke:** 2.008
 - **Bauteile:** `w118965505`
 
@@ -71,9 +71,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Palazzo des Ottocento an Via dei Serragli – Teil 2/3 (Y 75–85)
+### Schritt 21.2 – Palazzo des Ottocento an Via dei Serragli – Teil 2/3 (Y 79–89)
 
-- **Y-Bereich:** 75 bis 85
+- **Y-Bereich:** 79 bis 89
 - **Blöcke:** 1.956
 - **Bauteile:** `w118965505`
 
@@ -103,9 +103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Palazzo des Ottocento an Via dei Serragli – Teil 3/3 (Y 86–94)
+### Schritt 21.3 – Palazzo des Ottocento an Via dei Serragli – Teil 3/3 (Y 90–98)
 
-- **Y-Bereich:** 86 bis 94
+- **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.850
 - **Bauteile:** `w118965505`
 

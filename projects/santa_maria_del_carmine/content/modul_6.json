@@ -1,0 +1,22 @@
+{
+  "module": 6,
+  "title": "Ausstattung und Licht",
+  "subtitle": "Bautüte 6: Hochaltar und Beleuchtung",
+  "icon": "✨",
+  "parts": {
+    "hochaltar": {
+      "title": "Hochaltar",
+      "description": "Im Chor steht der Hochaltar aus hellem Quarz mit goldener Platte bis Y 64.",
+      "tip": "Genau auf der Achse des Schiffs.",
+      "caution": "Rundherum bleibt Platz.",
+      "fact": "Der Chor wurde nach dem Brand neu ausgestattet."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "Im Boden setzt du Seelaternen im Raster von 12 Blöcken.",
+      "tip": "Ersetze dazu den Bodenblock.",
+      "caution": "Nicht unter Pfeilern setzen.",
+      "fact": "So bleibt der ganze Innenraum hell."
+    }
+  }
+}

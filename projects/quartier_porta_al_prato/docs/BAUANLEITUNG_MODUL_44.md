@@ -8,20 +8,20 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 13.827 |
+| Blöcke | 13.803 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 59 bis 94 |
 | X-Ausdehnung | -1837 bis -1792 (46 Blöcke) |
 | Z-Ausdehnung | -995 bis -916 (80 Blöcke) |
 | Kleinster Schritt | 1.241 Blöcke (Schritt 44.9) |
-| Mittlerer Schritt | 1.536 Blöcke |
+| Mittlerer Schritt | 1.534 Blöcke |
 | Größter Schritt | 2.073 Blöcke (Schritt 44.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Polierter Andesit | `polished_andesite` | 4.620 | 33,4 % |
+| Polierter Andesit | `polished_andesite` | 4.596 | 33,3 % |
 | Tuffstein | `tuff` | 3.844 | 27,8 % |
 | Glatter Stein | `smooth_stone` | 1.936 | 14,0 % |
 | Terrakotta | `terracotta` | 1.231 | 8,9 % |
@@ -35,14 +35,14 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w443083470` | Renaissance-Palazzo an Via Luigi Alamanni | 13.823 | 44.1–44.9 |
+| 1 | `w443083470` | Renaissance-Palazzo an Via Luigi Alamanni | 13.799 | 44.1–44.9 |
 | 2 | `w443083470_innen` | Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau | 4 | 44.9 |
 
 ## Bauschritte
 
-### Schritt 44.1 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 1/9 (Y 63–65)
+### Schritt 44.1 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 1/9 (Y 59–61)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 59 bis 61
 - **Blöcke:** 1.513
 - **Bauteile:** `w443083470`
 
@@ -72,17 +72,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.2 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 2/9 (Y 66–70)
+### Schritt 44.2 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 2/9 (Y 62–66)
 
-- **Y-Bereich:** 66 bis 70
-- **Blöcke:** 1.698
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.674
 - **Bauteile:** `w443083470`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 740 |
+| Polierter Andesit | `polished_andesite` | 716 |
 | Tuffstein | `tuff` | 568 |
 | Graues Buntglas | `gray_stained_glass` | 180 |
 | Tuffsteinziegel | `tuff_bricks` | 150 |
@@ -104,9 +104,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 3/9 (Y 71–74)
+### Schritt 44.3 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 3/9 (Y 67–70)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.582
 - **Bauteile:** `w443083470`
 
@@ -136,9 +136,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.4 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 4/9 (Y 75–78)
+### Schritt 44.4 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 4/9 (Y 71–74)
 
-- **Y-Bereich:** 75 bis 78
+- **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.448
 - **Bauteile:** `w443083470`
 
@@ -167,9 +167,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.5 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 5/9 (Y 79–82)
+### Schritt 44.5 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 5/9 (Y 75–78)
 
-- **Y-Bereich:** 79 bis 82
+- **Y-Bereich:** 75 bis 78
 - **Blöcke:** 1.352
 - **Bauteile:** `w443083470`
 
@@ -198,9 +198,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.6 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 6/9 (Y 83–86)
+### Schritt 44.6 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 6/9 (Y 79–82)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 79 bis 82
 - **Blöcke:** 1.620
 - **Bauteile:** `w443083470`
 
@@ -229,9 +229,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.7 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 7/9 (Y 87–90)
+### Schritt 44.7 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 7/9 (Y 83–86)
 
-- **Y-Bereich:** 87 bis 90
+- **Y-Bereich:** 83 bis 86
 - **Blöcke:** 1.300
 - **Bauteile:** `w443083470`
 
@@ -260,9 +260,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.8 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 8/9 (Y 91–93)
+### Schritt 44.8 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 8/9 (Y 87–89)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 2.073
 - **Bauteile:** `w443083470`
 
@@ -290,9 +290,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.9 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 9/9 (Y 94–98) & Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau
+### Schritt 44.9 – Renaissance-Palazzo an Via Luigi Alamanni – Teil 9/9 (Y 90–94) & Renaissance-Palazzo an Via Luigi Alamanni: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 59 bis 94
 - **Blöcke:** 1.241
 - **Bauteile:** `w443083470`, `w443083470_innen`
 

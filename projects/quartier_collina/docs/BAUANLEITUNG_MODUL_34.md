@@ -8,46 +8,48 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.260 |
+| Blöcke | 2.301 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 101 bis 135 |
 | X-Ausdehnung | 968 bis 983 (16 Blöcke) |
 | Z-Ausdehnung | 2377 bis 2391 (15 Blöcke) |
-| Kleinster Schritt | 1.114 Blöcke (Schritt 34.2) |
-| Mittlerer Schritt | 1.130 Blöcke |
-| Größter Schritt | 1.146 Blöcke (Schritt 34.1) |
+| Kleinster Schritt | 1.118 Blöcke (Schritt 34.1) |
+| Mittlerer Schritt | 1.151 Blöcke |
+| Größter Schritt | 1.183 Blöcke (Schritt 34.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 1.965 | 86,9 % |
-| Terrakotta | `terracotta` | 131 | 5,8 % |
+| Weißer Beton | `white_concrete` | 1.965 | 85,4 % |
+| Terrakotta | `terracotta` | 131 | 5,7 % |
 | Polierter Tuffstein | `polished_tuff` | 98 | 4,3 % |
-| Graues Buntglas | `gray_stained_glass` | 65 | 2,9 % |
+| Graues Buntglas | `gray_stained_glass` | 65 | 2,8 % |
+| Tuffstein | `tuff` | 41 | 1,8 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762538` | Nebengebäude an Via del Monte alle Croci | 2.259 | 34.1–34.2 |
+| 1 | `w119762538` | Nebengebäude an Via del Monte alle Croci | 2.300 | 34.1–34.2 |
 | 2 | `w119762538_innen` | Nebengebäude an Via del Monte alle Croci: Innenausbau | 1 | 34.2 |
 
 ## Bauschritte
 
-### Schritt 34.1 – Nebengebäude an Via del Monte alle Croci – Teil 1/2 (Y 63–79)
+### Schritt 34.1 – Nebengebäude an Via del Monte alle Croci – Teil 1/2 (Y 101–118)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.146
+- **Y-Bereich:** 101 bis 118
+- **Blöcke:** 1.118
 - **Bauteile:** `w119762538`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.028 |
+| Weißer Beton | `white_concrete` | 959 |
 | Polierter Tuffstein | `polished_tuff` | 98 |
+| Tuffstein | `tuff` | 41 |
 | Graues Buntglas | `gray_stained_glass` | 20 |
 
 **Beschreibung**
@@ -66,17 +68,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.2 – Nebengebäude an Via del Monte alle Croci – Teil 2/2 (Y 80–95) & Nebengebäude an Via del Monte alle Croci: Innenausbau
+### Schritt 34.2 – Nebengebäude an Via del Monte alle Croci – Teil 2/2 (Y 119–135) & Nebengebäude an Via del Monte alle Croci: Innenausbau
 
-- **Y-Bereich:** 63 bis 95
-- **Blöcke:** 1.114
+- **Y-Bereich:** 103 bis 135
+- **Blöcke:** 1.183
 - **Bauteile:** `w119762538`, `w119762538_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 937 |
+| Weißer Beton | `white_concrete` | 1.006 |
 | Terrakotta | `terracotta` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 45 |
 | Seelaterne | `sea_lantern` | 1 |

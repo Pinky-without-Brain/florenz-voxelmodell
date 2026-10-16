@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 132.487 |
+| Blöcke | 132.493 |
 | Bauschritte | 81 |
-| Y-Bereich | 63 bis 106 |
+| Y-Bereich | 62 bis 106 |
 | X-Ausdehnung | 1517 bis 1793 (277 Blöcke) |
 | Z-Ausdehnung | 1216 bis 1368 (153 Blöcke) |
 | Kleinster Schritt | 1.108 Blöcke (Schritt 14.9) |
@@ -22,7 +22,7 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 46.353 | 35,0 % |
-| Tuffstein | `tuff` | 27.300 | 20,6 % |
+| Tuffstein | `tuff` | 27.304 | 20,6 % |
 | Glatter Stein | `smooth_stone` | 17.844 | 13,5 % |
 | Polierter Andesit | `polished_andesite` | 17.700 | 13,4 % |
 | Polierter Tuffstein | `polished_tuff` | 14.795 | 11,2 % |
@@ -37,6 +37,8 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
@@ -51,15 +53,16 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1607726` | Ex spedale di Sant'Onofrio dei Tintori | 107.045 | 14.1–14.67 |
+| 1 | `r1607726` | Ex spedale di Sant'Onofrio dei Tintori | 107.049 | 14.1–14.67 |
 | 2 | `r1607726_innen` | Ex spedale di Sant'Onofrio dei Tintori: Innenausbau | 25.442 | 14.68–14.81 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 14.81 |
 
 ## Bauschritte
 
-### Schritt 14.1 – Ex spedale di Sant'Onofrio dei Tintori – Teil 1/67 (Y 63–63)
+### Schritt 14.1 – Ex spedale di Sant'Onofrio dei Tintori – Teil 1/67 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.893
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.897
 - **Bauteile:** `r1607726`
 
 **Teileliste**
@@ -67,6 +70,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.893 |
+| Tuffstein | `tuff` | 4 |
 
 **Beschreibung**
 
@@ -2475,11 +2479,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 14.81 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 14/14 (Y 83–84)
+### Schritt 14.81 – Ex spedale di Sant'Onofrio dei Tintori: Innenausbau – Teil 14/14 (Y 83–84) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.821
-- **Bauteile:** `r1607726_innen`
+- **Y-Bereich:** 71 bis 84
+- **Blöcke:** 1.823
+- **Bauteile:** `r1607726_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -2489,6 +2493,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -2501,16 +2507,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

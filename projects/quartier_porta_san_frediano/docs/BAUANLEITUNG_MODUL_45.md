@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.447 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 59 bis 95 |
 | X-Ausdehnung | -2632 bis -2615 (18 Blöcke) |
 | Z-Ausdehnung | 470 bis 490 (21 Blöcke) |
 | Kleinster Schritt | 471 Blöcke (Schritt 45.3) |
@@ -21,11 +21,11 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.581 | 58,0 % |
+| Tuffstein | `tuff` | 2.577 | 57,9 % |
 | Terrakotta | `terracotta` | 622 | 14,0 % |
 | Polierter Andesit | `polished_andesite` | 417 | 9,4 % |
 | Polierter Tuffstein | `polished_tuff` | 240 | 5,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 227 | 5,1 % |
+| Tuffsteinziegel | `tuff_bricks` | 231 | 5,2 % |
 | Graues Buntglas | `gray_stained_glass` | 210 | 4,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 | 1,5 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,6 % |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 45.1 – Wohnturm an Via lungo le Mura di Santa Rosa – Teil 1/2 (Y 63–78)
+### Schritt 45.1 – Wohnturm an Via lungo le Mura di Santa Rosa – Teil 1/2 (Y 59–74)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 59 bis 74
 - **Blöcke:** 1.956
 - **Bauteile:** `w119009543`
 
@@ -60,10 +60,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.388 |
+| Tuffstein | `tuff` | 1.376 |
 | Polierter Tuffstein | `polished_tuff` | 240 |
 | Polierter Andesit | `polished_andesite` | 139 |
-| Tuffsteinziegel | `tuff_bricks` | 119 |
+| Tuffsteinziegel | `tuff_bricks` | 131 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 45.2 – Wohnturm an Via lungo le Mura di Santa Rosa – Teil 2/2 (Y 79–99)
+### Schritt 45.2 – Wohnturm an Via lungo le Mura di Santa Rosa – Teil 2/2 (Y 75–95)
 
-- **Y-Bereich:** 79 bis 99
+- **Y-Bereich:** 75 bis 95
 - **Blöcke:** 2.020
 - **Bauteile:** `w119009543`
 
@@ -92,11 +92,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.193 |
+| Tuffstein | `tuff` | 1.201 |
 | Terrakotta | `terracotta` | 283 |
 | Polierter Andesit | `polished_andesite` | 278 |
 | Graues Buntglas | `gray_stained_glass` | 140 |
-| Tuffsteinziegel | `tuff_bricks` | 108 |
+| Tuffsteinziegel | `tuff_bricks` | 100 |
 | Ziegelsteine | `bricks` | 18 |
 
 **Beschreibung**
@@ -117,7 +117,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 45.3 – Wohnturm an Via lungo le Mura di Santa Rosa: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 59 bis 83
 - **Blöcke:** 471
 - **Bauteile:** `w119009543_innen`
 

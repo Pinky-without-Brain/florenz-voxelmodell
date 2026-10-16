@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 71.311 |
+| Blöcke | 71.801 |
 | Bauschritte | 48 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 62 bis 101 |
 | X-Ausdehnung | 210 bis 405 (196 Blöcke) |
 | Z-Ausdehnung | 1209 bis 1282 (74 Blöcke) |
 | Kleinster Schritt | 745 Blöcke (Schritt 4.6) |
-| Mittlerer Schritt | 1.486 Blöcke |
+| Mittlerer Schritt | 1.496 Blöcke |
 | Größter Schritt | 2.047 Blöcke (Schritt 4.29) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 25.286 | 35,5 % |
-| Tuffstein | `tuff` | 18.568 | 26,0 % |
-| Polierter Tuffstein | `polished_tuff` | 9.341 | 13,1 % |
-| Rosa Keramik | `pink_terracotta` | 4.291 | 6,0 % |
-| Polierter Andesit | `polished_andesite` | 4.187 | 5,9 % |
+| Terrakotta | `terracotta` | 25.242 | 35,2 % |
+| Tuffstein | `tuff` | 18.999 | 26,5 % |
+| Polierter Tuffstein | `polished_tuff` | 9.342 | 13,0 % |
+| Rosa Keramik | `pink_terracotta` | 4.389 | 6,1 % |
+| Polierter Andesit | `polished_andesite` | 4.187 | 5,8 % |
 | Glatter Stein | `smooth_stone` | 3.084 | 4,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 2.037 | 2,9 % |
+| Tuffsteinziegel | `tuff_bricks` | 2.037 | 2,8 % |
 | Graues Buntglas | `gray_stained_glass` | 1.875 | 2,6 % |
 | Ziegelsteine | `bricks` | 925 | 1,3 % |
 | Endsteinziegel | `end_stone_bricks` | 646 | 0,9 % |
@@ -35,15 +35,19 @@
 | Fichtenholz-Bretter | `spruce_planks` | 177 | 0,2 % |
 | Grüner Beton | `green_concrete` | 150 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 123 | 0,2 % |
-| Seelaterne | `sea_lantern` | 122 | 0,2 % |
+| Seelaterne | `sea_lantern` | 118 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 34 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 28 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 30 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 28 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 28 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 26 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 24 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 24 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 22 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -60,16 +64,17 @@
 | 2 | `r1605476_innen` | Palazzo Bardi: Innenausbau | 4.402 | 4.26–4.28 |
 | 3 | `r4100897` | Renaissance-Palazzo an Via Vincenzo Malenchini | 15.217 | 4.29–4.36 |
 | 4 | `r4100897_innen` | Renaissance-Palazzo an Via Vincenzo Malenchini: Innenausbau | 3.507 | 4.37–4.38 |
-| 5 | `w307106611` | Reihenhaus an Via Vincenzo Malenchini | 7.353 | 4.39–4.42 |
-| 6 | `w307106611_innen` | Reihenhaus an Via Vincenzo Malenchini: Innenausbau | 4.033 | 4.43–4.45 |
+| 5 | `w307106611` | Reihenhaus an Via Vincenzo Malenchini | 7.883 | 4.39–4.42 |
+| 6 | `w307106611_innen` | Reihenhaus an Via Vincenzo Malenchini: Innenausbau | 3.985 | 4.43–4.45 |
 | 7 | `w307106633` | Reihenhaus an Via Vincenzo Malenchini | 3.795 | 4.46–4.47 |
 | 8 | `w307106633_innen` | Reihenhaus an Via Vincenzo Malenchini: Innenausbau | 1.315 | 4.48 |
+| 9 | `strassenschilder` | Straßenschilder | 8 | 4.48 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Palazzo Bardi – Teil 1/25 (Y 63–63)
+### Schritt 4.1 – Palazzo Bardi – Teil 1/25 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.717
 - **Bauteile:** `r1605476`
 
@@ -95,9 +100,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Palazzo Bardi – Teil 2/25 (Y 63–63)
+### Schritt 4.2 – Palazzo Bardi – Teil 2/25 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.753
 - **Bauteile:** `r1605476`
 
@@ -123,9 +128,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.3 – Palazzo Bardi – Teil 3/25 (Y 63–63)
+### Schritt 4.3 – Palazzo Bardi – Teil 3/25 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.696
 - **Bauteile:** `r1605476`
 
@@ -151,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.4 – Palazzo Bardi – Teil 4/25 (Y 64–64)
+### Schritt 4.4 – Palazzo Bardi – Teil 4/25 (Y 63–63)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 766
 - **Bauteile:** `r1605476`
 
@@ -182,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.5 – Palazzo Bardi – Teil 5/25 (Y 65–65)
+### Schritt 4.5 – Palazzo Bardi – Teil 5/25 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 765
 - **Bauteile:** `r1605476`
 
@@ -213,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.6 – Palazzo Bardi – Teil 6/25 (Y 66–66)
+### Schritt 4.6 – Palazzo Bardi – Teil 6/25 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 745
 - **Bauteile:** `r1605476`
 
@@ -243,9 +248,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.7 – Palazzo Bardi – Teil 7/25 (Y 67–68)
+### Schritt 4.7 – Palazzo Bardi – Teil 7/25 (Y 66–67)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.477
 - **Bauteile:** `r1605476`
 
@@ -275,9 +280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.8 – Palazzo Bardi – Teil 8/25 (Y 69–70)
+### Schritt 4.8 – Palazzo Bardi – Teil 8/25 (Y 68–69)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 1.418
 - **Bauteile:** `r1605476`
 
@@ -307,9 +312,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.9 – Palazzo Bardi – Teil 9/25 (Y 71–71)
+### Schritt 4.9 – Palazzo Bardi – Teil 9/25 (Y 70–70)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 70 bis 70
 - **Blöcke:** 765
 - **Bauteile:** `r1605476`
 
@@ -339,9 +344,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.10 – Palazzo Bardi – Teil 10/25 (Y 72–73)
+### Schritt 4.10 – Palazzo Bardi – Teil 10/25 (Y 71–72)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.556
 - **Bauteile:** `r1605476`
 
@@ -370,9 +375,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.11 – Palazzo Bardi – Teil 11/25 (Y 74–74)
+### Schritt 4.11 – Palazzo Bardi – Teil 11/25 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.068
 - **Bauteile:** `r1605476`
 
@@ -401,9 +406,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.12 – Palazzo Bardi – Teil 12/25 (Y 75–76)
+### Schritt 4.12 – Palazzo Bardi – Teil 12/25 (Y 74–75)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 1.734
 - **Bauteile:** `r1605476`
 
@@ -432,9 +437,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.13 – Palazzo Bardi – Teil 13/25 (Y 77–77)
+### Schritt 4.13 – Palazzo Bardi – Teil 13/25 (Y 76–76)
 
-- **Y-Bereich:** 77 bis 77
+- **Y-Bereich:** 76 bis 76
 - **Blöcke:** 940
 - **Bauteile:** `r1605476`
 
@@ -463,9 +468,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.14 – Palazzo Bardi – Teil 14/25 (Y 78–79)
+### Schritt 4.14 – Palazzo Bardi – Teil 14/25 (Y 77–78)
 
-- **Y-Bereich:** 78 bis 79
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.570
 - **Bauteile:** `r1605476`
 
@@ -495,9 +500,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.15 – Palazzo Bardi – Teil 15/25 (Y 80–80)
+### Schritt 4.15 – Palazzo Bardi – Teil 15/25 (Y 79–79)
 
-- **Y-Bereich:** 80 bis 80
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 785
 - **Bauteile:** `r1605476`
 
@@ -527,9 +532,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.16 – Palazzo Bardi – Teil 16/25 (Y 81–82)
+### Schritt 4.16 – Palazzo Bardi – Teil 16/25 (Y 80–81)
 
-- **Y-Bereich:** 81 bis 82
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.607
 - **Bauteile:** `r1605476`
 
@@ -559,9 +564,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.17 – Palazzo Bardi – Teil 17/25 (Y 83–83)
+### Schritt 4.17 – Palazzo Bardi – Teil 17/25 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 822
 - **Bauteile:** `r1605476`
 
@@ -591,9 +596,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.18 – Palazzo Bardi – Teil 18/25 (Y 84–85)
+### Schritt 4.18 – Palazzo Bardi – Teil 18/25 (Y 83–84)
 
-- **Y-Bereich:** 84 bis 85
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.948
 - **Bauteile:** `r1605476`
 
@@ -623,9 +628,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.19 – Palazzo Bardi – Teil 19/25 (Y 86–86)
+### Schritt 4.19 – Palazzo Bardi – Teil 19/25 (Y 85–85)
 
-- **Y-Bereich:** 86 bis 86
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.081
 - **Bauteile:** `r1605476`
 
@@ -655,9 +660,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.20 – Palazzo Bardi – Teil 20/25 (Y 87–87)
+### Schritt 4.20 – Palazzo Bardi – Teil 20/25 (Y 86–86)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.174
 - **Bauteile:** `r1605476`
 
@@ -683,9 +688,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.21 – Palazzo Bardi – Teil 21/25 (Y 87–87)
+### Schritt 4.21 – Palazzo Bardi – Teil 21/25 (Y 86–86)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.261
 - **Bauteile:** `r1605476`
 
@@ -711,9 +716,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.22 – Palazzo Bardi – Teil 22/25 (Y 88–88)
+### Schritt 4.22 – Palazzo Bardi – Teil 22/25 (Y 87–87)
 
-- **Y-Bereich:** 88 bis 88
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.491
 - **Bauteile:** `r1605476`
 
@@ -739,9 +744,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.23 – Palazzo Bardi – Teil 23/25 (Y 89–89)
+### Schritt 4.23 – Palazzo Bardi – Teil 23/25 (Y 88–88)
 
-- **Y-Bereich:** 89 bis 89
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.338
 - **Bauteile:** `r1605476`
 
@@ -767,9 +772,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.24 – Palazzo Bardi – Teil 24/25 (Y 90–90)
+### Schritt 4.24 – Palazzo Bardi – Teil 24/25 (Y 89–89)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 972
 - **Bauteile:** `r1605476`
 
@@ -796,9 +801,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.25 – Palazzo Bardi – Teil 25/25 (Y 91–97)
+### Schritt 4.25 – Palazzo Bardi – Teil 25/25 (Y 90–96)
 
-- **Y-Bereich:** 91 bis 97
+- **Y-Bereich:** 90 bis 96
 - **Blöcke:** 1.240
 - **Bauteile:** `r1605476`
 
@@ -825,9 +830,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.26 – Palazzo Bardi: Innenausbau – Teil 1/3 (Y 63–74)
+### Schritt 4.26 – Palazzo Bardi: Innenausbau – Teil 1/3 (Y 62–73)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.509
 - **Bauteile:** `r1605476_innen`
 
@@ -867,9 +872,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.27 – Palazzo Bardi: Innenausbau – Teil 2/3 (Y 74–74)
+### Schritt 4.27 – Palazzo Bardi: Innenausbau – Teil 2/3 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.452
 - **Bauteile:** `r1605476_innen`
 
@@ -903,9 +908,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.28 – Palazzo Bardi: Innenausbau – Teil 3/3 (Y 74–75)
+### Schritt 4.28 – Palazzo Bardi: Innenausbau – Teil 3/3 (Y 73–74)
 
-- **Y-Bereich:** 74 bis 75
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.441
 - **Bauteile:** `r1605476_innen`
 
@@ -943,9 +948,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.29 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 1/8 (Y 63–63)
+### Schritt 4.29 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 1/8 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 2.047
 - **Bauteile:** `r4100897`
 
@@ -971,9 +976,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.30 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 2/8 (Y 64–69)
+### Schritt 4.30 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 2/8 (Y 63–68)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 63 bis 68
 - **Blöcke:** 1.758
 - **Bauteile:** `r4100897`
 
@@ -1003,9 +1008,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.31 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 3/8 (Y 70–75)
+### Schritt 4.31 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 3/8 (Y 69–74)
 
-- **Y-Bereich:** 70 bis 75
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 2.026
 - **Bauteile:** `r4100897`
 
@@ -1035,9 +1040,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.32 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 4/8 (Y 76–80)
+### Schritt 4.32 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 4/8 (Y 75–79)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.647
 - **Bauteile:** `r4100897`
 
@@ -1067,9 +1072,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.33 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 5/8 (Y 81–85)
+### Schritt 4.33 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 5/8 (Y 80–84)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.920
 - **Bauteile:** `r4100897`
 
@@ -1098,9 +1103,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.34 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 6/8 (Y 86–91)
+### Schritt 4.34 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 6/8 (Y 85–90)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 85 bis 90
 - **Blöcke:** 1.931
 - **Bauteile:** `r4100897`
 
@@ -1129,9 +1134,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.35 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 7/8 (Y 92–94)
+### Schritt 4.35 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 7/8 (Y 91–93)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 91 bis 93
 - **Blöcke:** 1.875
 - **Bauteile:** `r4100897`
 
@@ -1161,9 +1166,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.36 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 8/8 (Y 95–101)
+### Schritt 4.36 – Renaissance-Palazzo an Via Vincenzo Malenchini – Teil 8/8 (Y 94–100)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 94 bis 100
 - **Blöcke:** 2.013
 - **Bauteile:** `r4100897`
 
@@ -1190,9 +1195,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.37 – Renaissance-Palazzo an Via Vincenzo Malenchini: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 4.37 – Renaissance-Palazzo an Via Vincenzo Malenchini: Innenausbau – Teil 1/2 (Y 62–73)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 62 bis 73
 - **Blöcke:** 1.755
 - **Bauteile:** `r4100897_innen`
 
@@ -1232,9 +1237,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.38 – Renaissance-Palazzo an Via Vincenzo Malenchini: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 4.38 – Renaissance-Palazzo an Via Vincenzo Malenchini: Innenausbau – Teil 2/2 (Y 74–83)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 74 bis 83
 - **Blöcke:** 1.752
 - **Bauteile:** `r4100897_innen`
 
@@ -1276,21 +1281,21 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.39 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/4 (Y 63–67)
+### Schritt 4.39 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/4 (Y 62–64)
 
-- **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.836
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.959
 - **Bauteile:** `w307106611`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.424 |
-| Rosa Keramik | `pink_terracotta` | 287 |
-| Polierter Andesit | `polished_andesite` | 68 |
-| Graues Buntglas | `gray_stained_glass` | 51 |
-| Grüner Beton | `green_concrete` | 6 |
+| Polierter Tuffstein | `polished_tuff` | 1.425 |
+| Tuffstein | `tuff` | 431 |
+| Rosa Keramik | `pink_terracotta` | 86 |
+| Graues Buntglas | `gray_stained_glass` | 10 |
+| Polierter Andesit | `polished_andesite` | 7 |
 
 **Beschreibung**
 
@@ -1308,20 +1313,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.40 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/4 (Y 68–82)
+### Schritt 4.40 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/4 (Y 65–81)
 
-- **Y-Bereich:** 68 bis 82
-- **Blöcke:** 1.826
+- **Y-Bereich:** 65 bis 81
+- **Blöcke:** 2.025
 - **Bauteile:** `w307106611`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.242 |
-| Polierter Andesit | `polished_andesite` | 321 |
-| Graues Buntglas | `gray_stained_glass` | 179 |
-| Grüner Beton | `green_concrete` | 84 |
+| Rosa Keramik | `pink_terracotta` | 1.381 |
+| Polierter Andesit | `polished_andesite` | 367 |
+| Graues Buntglas | `gray_stained_glass` | 199 |
+| Grüner Beton | `green_concrete` | 78 |
 
 **Beschreibung**
 
@@ -1339,20 +1344,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.41 – Reihenhaus an Via Vincenzo Malenchini – Teil 3/4 (Y 83–93)
+### Schritt 4.41 – Reihenhaus an Via Vincenzo Malenchini – Teil 3/4 (Y 82–93)
 
-- **Y-Bereich:** 83 bis 93
-- **Blöcke:** 1.656
+- **Y-Bereich:** 82 bis 93
+- **Blöcke:** 1.864
 - **Bauteile:** `w307106611`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.290 |
-| Polierter Andesit | `polished_andesite` | 201 |
-| Graues Buntglas | `gray_stained_glass` | 105 |
-| Grüner Beton | `green_concrete` | 60 |
+| Rosa Keramik | `pink_terracotta` | 1.450 |
+| Polierter Andesit | `polished_andesite` | 216 |
+| Graues Buntglas | `gray_stained_glass` | 126 |
+| Grüner Beton | `green_concrete` | 72 |
 
 **Beschreibung**
 
@@ -1402,7 +1407,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 4.43 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau – Teil 1/3 (Y 63–72)
 
 - **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.350
+- **Blöcke:** 1.348
 - **Bauteile:** `w307106611_innen`
 
 **Teileliste**
@@ -1411,7 +1416,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.286 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 28 |
-| Seelaterne | `sea_lantern` | 16 |
+| Seelaterne | `sea_lantern` | 14 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
@@ -1442,7 +1447,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.44 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau – Teil 2/3 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.337
+- **Blöcke:** 1.336
 - **Bauteile:** `w307106611_innen`
 
 **Teileliste**
@@ -1451,13 +1456,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.286 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Seelaterne | `sea_lantern` | 7 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1484,22 +1487,22 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 4.45 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau – Teil 3/3 (Y 80–87)
 
 - **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.346
+- **Blöcke:** 1.301
 - **Bauteile:** `w307106611_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.286 |
+| Terrakotta | `terracotta` | 1.242 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 22 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 8 |
-| Seelaterne | `sea_lantern` | 8 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 |
+| Seelaterne | `sea_lantern` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1523,9 +1526,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 4.46 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/2 (Y 63–77)
+### Schritt 4.46 – Reihenhaus an Via Vincenzo Malenchini – Teil 1/2 (Y 62–76)
 
-- **Y-Bereich:** 63 bis 77
+- **Y-Bereich:** 62 bis 76
 - **Blöcke:** 1.881
 - **Bauteile:** `w307106633`
 
@@ -1556,9 +1559,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.47 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/2 (Y 78–92)
+### Schritt 4.47 – Reihenhaus an Via Vincenzo Malenchini – Teil 2/2 (Y 77–91)
 
-- **Y-Bereich:** 78 bis 92
+- **Y-Bereich:** 77 bis 91
 - **Blöcke:** 1.914
 - **Bauteile:** `w307106633`
 
@@ -1589,11 +1592,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.48 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau
+### Schritt 4.48 – Reihenhaus an Via Vincenzo Malenchini: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.315
-- **Bauteile:** `w307106633_innen`
+- **Y-Bereich:** 62 bis 79
+- **Blöcke:** 1.323
+- **Bauteile:** `w307106633_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1606,8 +1609,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Seelaterne | `sea_lantern` | 12 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1617,16 +1624,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

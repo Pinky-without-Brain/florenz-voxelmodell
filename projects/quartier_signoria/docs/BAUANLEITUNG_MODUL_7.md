@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 86.938 |
+| Blöcke | 87.046 |
 | Bauschritte | 56 |
-| Y-Bereich | 63 bis 109 |
+| Y-Bereich | 65 bis 111 |
 | X-Ausdehnung | -524 bis -404 (121 Blöcke) |
 | Z-Ausdehnung | 454 bis 569 (116 Blöcke) |
-| Kleinster Schritt | 344 Blöcke (Schritt 7.56) |
-| Mittlerer Schritt | 1.552 Blöcke |
+| Kleinster Schritt | 355 Blöcke (Schritt 7.56) |
+| Mittlerer Schritt | 1.554 Blöcke |
 | Größter Schritt | 2.100 Blöcke (Schritt 7.13) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 30.248 | 34,8 % |
-| Weißer Beton | `white_concrete` | 25.577 | 29,4 % |
-| Polierter Tuffstein | `polished_tuff` | 8.516 | 9,8 % |
-| Tuffstein | `tuff` | 7.155 | 8,2 % |
-| Glatter Stein | `smooth_stone` | 3.998 | 4,6 % |
+| Terrakotta | `terracotta` | 30.282 | 34,8 % |
+| Weißer Beton | `white_concrete` | 25.647 | 29,5 % |
+| Polierter Tuffstein | `polished_tuff` | 8.517 | 9,8 % |
+| Tuffstein | `tuff` | 7.172 | 8,2 % |
+| Glatter Stein | `smooth_stone` | 3.976 | 4,6 % |
 | Polierter Andesit | `polished_andesite` | 3.120 | 3,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 2.597 | 3,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.210 | 2,5 % |
@@ -33,18 +33,22 @@
 | Endsteinziegel | `end_stone_bricks` | 690 | 0,8 % |
 | Ziegelsteine | `bricks` | 626 | 0,7 % |
 | Tuffsteinziegel | `tuff_bricks` | 532 | 0,6 % |
-| Seelaterne | `sea_lantern` | 156 | 0,2 % |
+| Seelaterne | `sea_lantern` | 153 | 0,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 151 | 0,2 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 102 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 90 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 45 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 45 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 38 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 36 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 35 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 31 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 37 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 36 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 35 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 32 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -61,22 +65,23 @@
 | 2 | `r6829159_innen` | Palazzo des Cinquecento an Calimala: Innenausbau | 6.331 | 7.12–7.15 |
 | 3 | `r6829160` | Renaissance-Palazzo an Pellicceria | 12.269 | 7.16–7.23 |
 | 4 | `r6829160_innen` | Renaissance-Palazzo an Pellicceria: Innenausbau | 2.530 | 7.24–7.25 |
-| 5 | `r9388833` | Palazzo des Ottocento an Calimala | 19.761 | 7.26–7.36 |
+| 5 | `r9388833` | Palazzo des Ottocento an Calimala | 19.811 | 7.26–7.36 |
 | 6 | `r9388833_innen` | Palazzo des Ottocento an Calimala: Innenausbau | 6.529 | 7.37–7.42 |
 | 7 | `w462375322` | Palazzo des Cinquecento an Piazza della Repubblica | 6.754 | 7.43–7.46 |
 | 8 | `w462375322_innen` | Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau | 1.704 | 7.47 |
-| 9 | `w462375323` | Palazzo dei Catellini | 5.741 | 7.48–7.50 |
-| 10 | `w462375323_innen` | Palazzo dei Catellini: Innenausbau | 1.173 | 7.51 |
-| 11 | `w462375326` | Reihenhaus an Piazza della Repubblica | 2.383 | 7.52–7.53 |
+| 9 | `w462375323` | Palazzo dei Catellini | 5.762 | 7.48–7.50 |
+| 10 | `w462375323_innen` | Palazzo dei Catellini: Innenausbau | 1.172 | 7.51 |
+| 11 | `w462375326` | Reihenhaus an Piazza della Repubblica | 2.410 | 7.52–7.53 |
 | 12 | `w462375326_innen` | Reihenhaus an Piazza della Repubblica: Innenausbau | 1.114 | 7.54 |
 | 13 | `w676068960` | Nebengebäude an Via dei Cavalieri | 750 | 7.55 |
 | 14 | `w676068960_innen` | Nebengebäude an Via dei Cavalieri: Innenausbau | 344 | 7.56 |
+| 15 | `strassenschilder` | Straßenschilder | 11 | 7.56 |
 
 ## Bauschritte
 
-### Schritt 7.1 – Palazzo des Cinquecento an Calimala – Teil 1/12 (Y 63–63)
+### Schritt 7.1 – Palazzo des Cinquecento an Calimala – Teil 1/12 (Y 65–65)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.208
 - **Bauteile:** `r6829159`
 
@@ -102,9 +107,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Palazzo des Cinquecento an Calimala – Teil 2/12 (Y 63–65)
+### Schritt 7.2 – Palazzo des Cinquecento an Calimala – Teil 2/12 (Y 65–67)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.951
 - **Bauteile:** `r6829159`
 
@@ -134,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.3 – Palazzo des Cinquecento an Calimala – Teil 3/12 (Y 66–70)
+### Schritt 7.3 – Palazzo des Cinquecento an Calimala – Teil 3/12 (Y 68–72)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 68 bis 72
 - **Blöcke:** 1.742
 - **Bauteile:** `r6829159`
 
@@ -168,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.4 – Palazzo des Cinquecento an Calimala – Teil 4/12 (Y 71–74)
+### Schritt 7.4 – Palazzo des Cinquecento an Calimala – Teil 4/12 (Y 73–76)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 73 bis 76
 - **Blöcke:** 1.506
 - **Bauteile:** `r6829159`
 
@@ -200,9 +205,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Palazzo des Cinquecento an Calimala – Teil 5/12 (Y 75–79)
+### Schritt 7.5 – Palazzo des Cinquecento an Calimala – Teil 5/12 (Y 77–81)
 
-- **Y-Bereich:** 75 bis 79
+- **Y-Bereich:** 77 bis 81
 - **Blöcke:** 1.758
 - **Bauteile:** `r6829159`
 
@@ -232,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.6 – Palazzo des Cinquecento an Calimala – Teil 6/12 (Y 80–83)
+### Schritt 7.6 – Palazzo des Cinquecento an Calimala – Teil 6/12 (Y 82–85)
 
-- **Y-Bereich:** 80 bis 83
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.479
 - **Bauteile:** `r6829159`
 
@@ -265,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.7 – Palazzo des Cinquecento an Calimala – Teil 7/12 (Y 84–88)
+### Schritt 7.7 – Palazzo des Cinquecento an Calimala – Teil 7/12 (Y 86–90)
 
-- **Y-Bereich:** 84 bis 88
+- **Y-Bereich:** 86 bis 90
 - **Blöcke:** 1.758
 - **Bauteile:** `r6829159`
 
@@ -297,9 +302,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.8 – Palazzo des Cinquecento an Calimala – Teil 8/12 (Y 89–92)
+### Schritt 7.8 – Palazzo des Cinquecento an Calimala – Teil 8/12 (Y 91–94)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 1.479
 - **Bauteile:** `r6829159`
 
@@ -330,9 +335,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.9 – Palazzo des Cinquecento an Calimala – Teil 9/12 (Y 93–97)
+### Schritt 7.9 – Palazzo des Cinquecento an Calimala – Teil 9/12 (Y 95–99)
 
-- **Y-Bereich:** 93 bis 97
+- **Y-Bereich:** 95 bis 99
 - **Blöcke:** 1.791
 - **Bauteile:** `r6829159`
 
@@ -362,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.10 – Palazzo des Cinquecento an Calimala – Teil 10/12 (Y 98–100)
+### Schritt 7.10 – Palazzo des Cinquecento an Calimala – Teil 10/12 (Y 100–102)
 
-- **Y-Bereich:** 98 bis 100
+- **Y-Bereich:** 100 bis 102
 - **Blöcke:** 1.438
 - **Bauteile:** `r6829159`
 
@@ -393,9 +398,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.11 – Palazzo des Cinquecento an Calimala – Teil 11/12 (Y 101–102)
+### Schritt 7.11 – Palazzo des Cinquecento an Calimala – Teil 11/12 (Y 103–104)
 
-- **Y-Bereich:** 101 bis 102
+- **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.838
 - **Bauteile:** `r6829159`
 
@@ -421,9 +426,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.12 – Palazzo des Cinquecento an Calimala – Teil 12/12 (Y 103–109) & Palazzo des Cinquecento an Calimala: Innenausbau – Teil 1/4 (Y 63–72)
+### Schritt 7.12 – Palazzo des Cinquecento an Calimala – Teil 12/12 (Y 105–111) & Palazzo des Cinquecento an Calimala: Innenausbau – Teil 1/4 (Y 65–74)
 
-- **Y-Bereich:** 63 bis 109
+- **Y-Bereich:** 65 bis 111
 - **Blöcke:** 1.666
 - **Bauteile:** `r6829159`, `r6829159_innen`
 
@@ -464,9 +469,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.13 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 2/4 (Y 73–80)
+### Schritt 7.13 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 2/4 (Y 75–82)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 2.100
 - **Bauteile:** `r6829159_innen`
 
@@ -508,9 +513,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.14 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 3/4 (Y 81–88)
+### Schritt 7.14 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 3/4 (Y 83–90)
 
-- **Y-Bereich:** 81 bis 88
+- **Y-Bereich:** 83 bis 90
 - **Blöcke:** 2.100
 - **Bauteile:** `r6829159_innen`
 
@@ -552,9 +557,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.15 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 4/4 (Y 89–92)
+### Schritt 7.15 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 4/4 (Y 91–94)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 91 bis 94
 - **Blöcke:** 2.072
 - **Bauteile:** `r6829159_innen`
 
@@ -595,9 +600,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.16 – Renaissance-Palazzo an Pellicceria – Teil 1/8 (Y 63–63)
+### Schritt 7.16 – Renaissance-Palazzo an Pellicceria – Teil 1/8 (Y 65–65)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.498
 - **Bauteile:** `r6829160`
 
@@ -623,9 +628,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.17 – Renaissance-Palazzo an Pellicceria – Teil 2/8 (Y 64–69)
+### Schritt 7.17 – Renaissance-Palazzo an Pellicceria – Teil 2/8 (Y 66–71)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 66 bis 71
 - **Blöcke:** 1.594
 - **Bauteile:** `r6829160`
 
@@ -655,9 +660,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.18 – Renaissance-Palazzo an Pellicceria – Teil 3/8 (Y 70–74)
+### Schritt 7.18 – Renaissance-Palazzo an Pellicceria – Teil 3/8 (Y 72–76)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.488
 - **Bauteile:** `r6829160`
 
@@ -687,9 +692,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.19 – Renaissance-Palazzo an Pellicceria – Teil 4/8 (Y 75–80)
+### Schritt 7.19 – Renaissance-Palazzo an Pellicceria – Teil 4/8 (Y 77–82)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.624
 - **Bauteile:** `r6829160`
 
@@ -718,9 +723,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.20 – Renaissance-Palazzo an Pellicceria – Teil 5/8 (Y 81–85)
+### Schritt 7.20 – Renaissance-Palazzo an Pellicceria – Teil 5/8 (Y 83–87)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.562
 - **Bauteile:** `r6829160`
 
@@ -749,9 +754,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.21 – Renaissance-Palazzo an Pellicceria – Teil 6/8 (Y 86–91)
+### Schritt 7.21 – Renaissance-Palazzo an Pellicceria – Teil 6/8 (Y 88–93)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.551
 - **Bauteile:** `r6829160`
 
@@ -780,9 +785,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.22 – Renaissance-Palazzo an Pellicceria – Teil 7/8 (Y 92–94)
+### Schritt 7.22 – Renaissance-Palazzo an Pellicceria – Teil 7/8 (Y 94–96)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 94 bis 96
 - **Blöcke:** 1.575
 - **Bauteile:** `r6829160`
 
@@ -812,9 +817,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.23 – Renaissance-Palazzo an Pellicceria – Teil 8/8 (Y 95–101)
+### Schritt 7.23 – Renaissance-Palazzo an Pellicceria – Teil 8/8 (Y 97–103)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 97 bis 103
 - **Blöcke:** 1.377
 - **Bauteile:** `r6829160`
 
@@ -841,9 +846,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.24 – Renaissance-Palazzo an Pellicceria: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 7.24 – Renaissance-Palazzo an Pellicceria: Innenausbau – Teil 1/2 (Y 65–76)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 65 bis 76
 - **Blöcke:** 1.265
 - **Bauteile:** `r6829160_innen`
 
@@ -883,9 +888,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.25 – Renaissance-Palazzo an Pellicceria: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 7.25 – Renaissance-Palazzo an Pellicceria: Innenausbau – Teil 2/2 (Y 77–86)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 77 bis 86
 - **Blöcke:** 1.265
 - **Bauteile:** `r6829160_innen`
 
@@ -929,9 +934,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.26 – Palazzo des Ottocento an Calimala – Teil 1/11 (Y 63–63)
+### Schritt 7.26 – Palazzo des Ottocento an Calimala – Teil 1/11 (Y 66–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.246
 - **Bauteile:** `r9388833`
 
@@ -957,9 +962,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.27 – Palazzo des Ottocento an Calimala – Teil 2/11 (Y 63–65)
+### Schritt 7.27 – Palazzo des Ottocento an Calimala – Teil 2/11 (Y 66–68)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 66 bis 68
 - **Blöcke:** 1.967
 - **Bauteile:** `r9388833`
 
@@ -989,9 +994,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.28 – Palazzo des Ottocento an Calimala – Teil 3/11 (Y 66–71)
+### Schritt 7.28 – Palazzo des Ottocento an Calimala – Teil 3/11 (Y 69–74)
 
-- **Y-Bereich:** 66 bis 71
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 2.004
 - **Bauteile:** `r9388833`
 
@@ -1023,9 +1028,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.29 – Palazzo des Ottocento an Calimala – Teil 4/11 (Y 72–76)
+### Schritt 7.29 – Palazzo des Ottocento an Calimala – Teil 4/11 (Y 75–79)
 
-- **Y-Bereich:** 72 bis 76
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.864
 - **Bauteile:** `r9388833`
 
@@ -1055,9 +1060,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.30 – Palazzo des Ottocento an Calimala – Teil 5/11 (Y 77–81)
+### Schritt 7.30 – Palazzo des Ottocento an Calimala – Teil 5/11 (Y 80–84)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.756
 - **Bauteile:** `r9388833`
 
@@ -1087,9 +1092,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.31 – Palazzo des Ottocento an Calimala – Teil 6/11 (Y 82–86)
+### Schritt 7.31 – Palazzo des Ottocento an Calimala – Teil 6/11 (Y 85–89)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 85 bis 89
 - **Blöcke:** 1.794
 - **Bauteile:** `r9388833`
 
@@ -1120,9 +1125,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.32 – Palazzo des Ottocento an Calimala – Teil 7/11 (Y 87–91)
+### Schritt 7.32 – Palazzo des Ottocento an Calimala – Teil 7/11 (Y 90–94)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 90 bis 94
 - **Blöcke:** 1.794
 - **Bauteile:** `r9388833`
 
@@ -1153,9 +1158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.33 – Palazzo des Ottocento an Calimala – Teil 8/11 (Y 92–96)
+### Schritt 7.33 – Palazzo des Ottocento an Calimala – Teil 8/11 (Y 95–99)
 
-- **Y-Bereich:** 92 bis 96
+- **Y-Bereich:** 95 bis 99
 - **Blöcke:** 1.794
 - **Bauteile:** `r9388833`
 
@@ -1185,18 +1190,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.34 – Palazzo des Ottocento an Calimala – Teil 9/11 (Y 97–100)
+### Schritt 7.34 – Palazzo des Ottocento an Calimala – Teil 9/11 (Y 100–103)
 
-- **Y-Bereich:** 97 bis 100
-- **Blöcke:** 1.918
+- **Y-Bereich:** 100 bis 103
+- **Blöcke:** 1.966
 - **Bauteile:** `r9388833`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.144 |
-| Glatter Stein | `smooth_stone` | 460 |
+| Weißer Beton | `white_concrete` | 1.188 |
+| Glatter Stein | `smooth_stone` | 464 |
 | Hellgrauer Beton | `light_gray_concrete` | 228 |
 | Graues Buntglas | `gray_stained_glass` | 38 |
 | Grüner Beton | `green_concrete` | 36 |
@@ -1218,17 +1223,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.35 – Palazzo des Ottocento an Calimala – Teil 10/11 (Y 101–102)
+### Schritt 7.35 – Palazzo des Ottocento an Calimala – Teil 10/11 (Y 104–105)
 
-- **Y-Bereich:** 101 bis 102
-- **Blöcke:** 1.829
+- **Y-Bereich:** 104 bis 105
+- **Blöcke:** 1.831
 - **Bauteile:** `r9388833`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.829 |
+| Terrakotta | `terracotta` | 1.831 |
 
 **Beschreibung**
 
@@ -1246,9 +1251,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.36 – Palazzo des Ottocento an Calimala – Teil 11/11 (Y 103–108)
+### Schritt 7.36 – Palazzo des Ottocento an Calimala – Teil 11/11 (Y 106–111)
 
-- **Y-Bereich:** 103 bis 108
+- **Y-Bereich:** 106 bis 111
 - **Blöcke:** 1.795
 - **Bauteile:** `r9388833`
 
@@ -1275,9 +1280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.37 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 7.37 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 1/6 (Y 66–77)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.126
 - **Bauteile:** `r9388833_innen`
 
@@ -1317,9 +1322,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.38 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 7.38 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 2/6 (Y 77–77)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.058
 - **Bauteile:** `r9388833_innen`
 
@@ -1346,9 +1351,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.39 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 3/6 (Y 75–82)
+### Schritt 7.39 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 3/6 (Y 78–85)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.108
 - **Bauteile:** `r9388833_innen`
 
@@ -1364,8 +1369,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1390,9 +1395,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.40 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 4/6 (Y 82–82)
+### Schritt 7.40 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 4/6 (Y 85–85)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.058
 - **Bauteile:** `r9388833_innen`
 
@@ -1419,9 +1424,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.41 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 5/6 (Y 83–91)
+### Schritt 7.41 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 5/6 (Y 86–94)
 
-- **Y-Bereich:** 83 bis 91
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.112
 - **Bauteile:** `r9388833_innen`
 
@@ -1437,8 +1442,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1463,9 +1468,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.42 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 6/6 (Y 91–92)
+### Schritt 7.42 – Palazzo des Ottocento an Calimala: Innenausbau – Teil 6/6 (Y 94–95)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 94 bis 95
 - **Blöcke:** 1.067
 - **Bauteile:** `r9388833_innen`
 
@@ -1478,8 +1483,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1503,9 +1508,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.43 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 1/4 (Y 63–68)
+### Schritt 7.43 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 1/4 (Y 65–70)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 65 bis 70
 - **Blöcke:** 1.638
 - **Bauteile:** `w462375322`
 
@@ -1536,9 +1541,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.44 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 2/4 (Y 69–80)
+### Schritt 7.44 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 2/4 (Y 71–82)
 
-- **Y-Bereich:** 69 bis 80
+- **Y-Bereich:** 71 bis 82
 - **Blöcke:** 1.728
 - **Bauteile:** `w462375322`
 
@@ -1568,9 +1573,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.45 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 3/4 (Y 81–91)
+### Schritt 7.45 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 3/4 (Y 83–93)
 
-- **Y-Bereich:** 81 bis 91
+- **Y-Bereich:** 83 bis 93
 - **Blöcke:** 1.601
 - **Bauteile:** `w462375322`
 
@@ -1598,9 +1603,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.46 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 4/4 (Y 92–99)
+### Schritt 7.46 – Palazzo des Cinquecento an Piazza della Repubblica – Teil 4/4 (Y 94–101)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 94 bis 101
 - **Blöcke:** 1.787
 - **Bauteile:** `w462375322`
 
@@ -1630,7 +1635,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.47 – Palazzo des Cinquecento an Piazza della Repubblica: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 65 bis 86
 - **Blöcke:** 1.704
 - **Bauteile:** `w462375322_innen`
 
@@ -1672,10 +1677,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.48 – Palazzo dei Catellini – Teil 1/3 (Y 63–73)
+### Schritt 7.48 – Palazzo dei Catellini – Teil 1/3 (Y 66–76)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.850
+- **Y-Bereich:** 66 bis 76
+- **Blöcke:** 1.851
 - **Bauteile:** `w462375323`
 
 **Teileliste**
@@ -1683,7 +1688,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 903 |
-| Polierter Tuffstein | `polished_tuff` | 669 |
+| Polierter Tuffstein | `polished_tuff` | 670 |
 | Glatter Stein | `smooth_stone` | 143 |
 | Tuffsteinziegel | `tuff_bricks` | 63 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
@@ -1705,10 +1710,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.49 – Palazzo dei Catellini – Teil 2/3 (Y 74–87)
+### Schritt 7.49 – Palazzo dei Catellini – Teil 2/3 (Y 77–90)
 
-- **Y-Bereich:** 74 bis 87
-- **Blöcke:** 1.929
+- **Y-Bereich:** 77 bis 90
+- **Blöcke:** 1.931
 - **Bauteile:** `w462375323`
 
 **Teileliste**
@@ -1716,7 +1721,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 1.211 |
-| Glatter Stein | `smooth_stone` | 367 |
+| Glatter Stein | `smooth_stone` | 369 |
 | Polierter Andesit | `polished_andesite` | 180 |
 | Tuffsteinziegel | `tuff_bricks` | 87 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
@@ -1737,19 +1742,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.50 – Palazzo dei Catellini – Teil 3/3 (Y 88–100)
+### Schritt 7.50 – Palazzo dei Catellini – Teil 3/3 (Y 91–103)
 
-- **Y-Bereich:** 88 bis 100
-- **Blöcke:** 1.962
+- **Y-Bereich:** 91 bis 103
+- **Blöcke:** 1.980
 - **Bauteile:** `w462375323`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 908 |
-| Tuffstein | `tuff` | 519 |
-| Glatter Stein | `smooth_stone` | 280 |
+| Terrakotta | `terracotta` | 937 |
+| Tuffstein | `tuff` | 536 |
+| Glatter Stein | `smooth_stone` | 252 |
 | Polierter Andesit | `polished_andesite` | 159 |
 | Ziegelsteine | `bricks` | 60 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
@@ -1772,19 +1777,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.51 – Palazzo dei Catellini: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.173
+- **Y-Bereich:** 66 bis 87
+- **Blöcke:** 1.172
 - **Bauteile:** `w462375323_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.048 |
+| Terrakotta | `terracotta` | 1.050 |
 | Glatter Stein | `smooth_stone` | 52 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 |
-| Seelaterne | `sea_lantern` | 12 |
+| Seelaterne | `sea_lantern` | 9 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 3 |
@@ -1814,9 +1819,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.52 – Reihenhaus an Piazza della Repubblica – Teil 1/2 (Y 63–80)
+### Schritt 7.52 – Reihenhaus an Piazza della Repubblica – Teil 1/2 (Y 66–83)
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 66 bis 83
 - **Blöcke:** 1.183
 - **Bauteile:** `w462375326`
 
@@ -1847,18 +1852,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.53 – Reihenhaus an Piazza della Repubblica – Teil 2/2 (Y 81–99)
+### Schritt 7.53 – Reihenhaus an Piazza della Repubblica – Teil 2/2 (Y 84–102)
 
-- **Y-Bereich:** 81 bis 99
-- **Blöcke:** 1.200
+- **Y-Bereich:** 84 bis 102
+- **Blöcke:** 1.227
 - **Bauteile:** `w462375326`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 510 |
-| Terrakotta | `terracotta` | 492 |
+| Weißer Beton | `white_concrete` | 536 |
+| Terrakotta | `terracotta` | 493 |
 | Hellgrauer Beton | `light_gray_concrete` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 58 |
 | Ziegelsteine | `bricks` | 32 |
@@ -1882,7 +1887,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.54 – Reihenhaus an Piazza della Repubblica: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.114
 - **Bauteile:** `w462375326_innen`
 
@@ -1924,7 +1929,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 7.55 – Nebengebäude an Via dei Cavalieri
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 66 bis 100
 - **Blöcke:** 750
 - **Bauteile:** `w676068960`
 
@@ -1955,11 +1960,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.56 – Nebengebäude an Via dei Cavalieri: Innenausbau
+### Schritt 7.56 – Nebengebäude an Via dei Cavalieri: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 344
-- **Bauteile:** `w676068960_innen`
+- **Y-Bereich:** 66 bis 89
+- **Blöcke:** 355
+- **Bauteile:** `w676068960_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1969,9 +1974,13 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 21 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 5 |
 | Seelaterne | `sea_lantern` | 4 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1981,16 +1990,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

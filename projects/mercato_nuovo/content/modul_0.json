@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Boden auf Y 65",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände auf Y 64 liegt, füllst du mit Tuff bis Y 64 auf.",
+      "tip": "Nur eine Lage.",
+      "caution": "Nicht zu hoch füllen.",
+      "fact": "Der Markt heißt „neu“, weil der Mercato Vecchio älter war."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 65 legst du ein Pflaster im Schachbrett aus Pietra serena; in der Mitte liegt ein Rad aus Marmor.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Lass das Rad in der Mitte frei von Licht.",
+      "fact": "Auf dem Marmorrad, der „pietra dello scandalo“, wurden zahlungsunfähige Kaufleute öffentlich bloßgestellt."
+    }
+  }
+}

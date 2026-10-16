@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.921 |
+| Blöcke | 3.923 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 98 |
-| X-Ausdehnung | -2564 bis -2547 (18 Blöcke) |
+| Y-Bereich | 59 bis 94 |
+| X-Ausdehnung | -2564 bis -2546 (19 Blöcke) |
 | Z-Ausdehnung | 1490 bis 1509 (20 Blöcke) |
-| Kleinster Schritt | 369 Blöcke (Schritt 40.3) |
-| Mittlerer Schritt | 1.307 Blöcke |
+| Kleinster Schritt | 371 Blöcke (Schritt 40.3) |
+| Mittlerer Schritt | 1.308 Blöcke |
 | Größter Schritt | 1.805 Blöcke (Schritt 40.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.099 | 53,5 % |
+| Tuffstein | `tuff` | 2.092 | 53,3 % |
 | Polierter Andesit | `polished_andesite` | 584 | 14,9 % |
 | Terrakotta | `terracotta` | 483 | 12,3 % |
-| Tuffsteinziegel | `tuff_bricks` | 223 | 5,7 % |
+| Tuffsteinziegel | `tuff_bricks` | 230 | 5,9 % |
 | Graues Buntglas | `gray_stained_glass` | 207 | 5,3 % |
 | Polierter Tuffstein | `polished_tuff` | 201 | 5,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,6 % |
@@ -32,6 +32,8 @@
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 | 0,6 % |
 | Ziegelsteine | `bricks` | 10 | 0,3 % |
 | Seelaterne | `sea_lantern` | 4 | 0,1 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -45,12 +47,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w464120152` | Wohnturm an Via Gusciana | 3.552 | 40.1–40.2 |
 | 2 | `w464120152_innen` | Wohnturm an Via Gusciana: Innenausbau | 369 | 40.3 |
+| 3 | `strassenschilder` | Straßenschilder | 2 | 40.3 |
 
 ## Bauschritte
 
-### Schritt 40.1 – Wohnturm an Via Gusciana – Teil 1/2 (Y 63–78)
+### Schritt 40.1 – Wohnturm an Via Gusciana – Teil 1/2 (Y 59–74)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 59 bis 74
 - **Blöcke:** 1.747
 - **Bauteile:** `w464120152`
 
@@ -58,10 +61,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.044 |
+| Tuffstein | `tuff` | 1.037 |
 | Polierter Andesit | `polished_andesite` | 294 |
 | Polierter Tuffstein | `polished_tuff` | 201 |
-| Tuffsteinziegel | `tuff_bricks` | 110 |
+| Tuffsteinziegel | `tuff_bricks` | 117 |
 | Graues Buntglas | `gray_stained_glass` | 98 |
 
 **Beschreibung**
@@ -80,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.2 – Wohnturm an Via Gusciana – Teil 2/2 (Y 79–98)
+### Schritt 40.2 – Wohnturm an Via Gusciana – Teil 2/2 (Y 75–94)
 
-- **Y-Bereich:** 79 bis 98
+- **Y-Bereich:** 75 bis 94
 - **Blöcke:** 1.805
 - **Bauteile:** `w464120152`
 
@@ -113,11 +116,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 40.3 – Wohnturm an Via Gusciana: Innenausbau
+### Schritt 40.3 – Wohnturm an Via Gusciana: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 369
-- **Bauteile:** `w464120152_innen`
+- **Y-Bereich:** 59 bis 82
+- **Blöcke:** 371
+- **Bauteile:** `w464120152_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -128,6 +131,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 22 |
 | Seelaterne | `sea_lantern` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -137,16 +142,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

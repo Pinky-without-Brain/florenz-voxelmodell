@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 29.356 |
+| Blöcke | 29.389 |
 | Bauschritte | 18 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 57 bis 96 |
 | X-Ausdehnung | -3038 bis -2980 (59 Blöcke) |
 | Z-Ausdehnung | 303 bis 399 (97 Blöcke) |
 | Kleinster Schritt | 1.080 Blöcke (Schritt 6.7) |
-| Mittlerer Schritt | 1.631 Blöcke |
+| Mittlerer Schritt | 1.633 Blöcke |
 | Größter Schritt | 2.024 Blöcke (Schritt 6.8) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 8.504 | 29,0 % |
+| Terrakotta | `terracotta` | 8.502 | 28,9 % |
 | Gelbe Keramik | `yellow_terracotta` | 6.453 | 22,0 % |
-| Glatter Sandstein | `smooth_sandstone` | 5.922 | 20,2 % |
+| Glatter Sandstein | `smooth_sandstone` | 5.955 | 20,3 % |
 | Polierter Tuffstein | `polished_tuff` | 2.662 | 9,1 % |
 | Weißer Beton | `white_concrete` | 2.634 | 9,0 % |
 | Graues Buntglas | `gray_stained_glass` | 1.230 | 4,2 % |
@@ -32,17 +32,17 @@
 | Ziegelsteine | `bricks` | 389 | 1,3 % |
 | Grüner Beton | `green_concrete` | 387 | 1,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 75 | 0,3 % |
-| Seelaterne | `sea_lantern` | 44 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 28 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,1 % |
+| Seelaterne | `sea_lantern` | 46 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 27 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 26 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 15 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 15 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 14 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -57,16 +57,16 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w118932408` | Reihenhaus an Via della Fonderia | 10.569 | 6.1–6.6 |
 | 2 | `w118932408_innen` | Reihenhaus an Via della Fonderia: Innenausbau | 3.104 | 6.7–6.8 |
-| 3 | `w495948931` | Palazzo des Cinquecento an Via della Fonderia | 11.884 | 6.9–6.15 |
+| 3 | `w495948931` | Palazzo des Cinquecento an Via della Fonderia | 11.917 | 6.9–6.15 |
 | 4 | `w495948931_innen` | Palazzo des Cinquecento an Via della Fonderia: Innenausbau | 2.182 | 6.16–6.17 |
 | 5 | `w495949009` | Nebengebäude an Via della Fonderia | 1.613 | 6.18 |
 | 6 | `w495949009_innen` | Nebengebäude an Via della Fonderia: Innenausbau | 4 | 6.18 |
 
 ## Bauschritte
 
-### Schritt 6.1 – Reihenhaus an Via della Fonderia – Teil 1/6 (Y 63–65)
+### Schritt 6.1 – Reihenhaus an Via della Fonderia – Teil 1/6 (Y 57–59)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 57 bis 59
 - **Blöcke:** 1.720
 - **Bauteile:** `w118932408`
 
@@ -95,9 +95,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.2 – Reihenhaus an Via della Fonderia – Teil 2/6 (Y 66–72)
+### Schritt 6.2 – Reihenhaus an Via della Fonderia – Teil 2/6 (Y 60–66)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.721
 - **Bauteile:** `w118932408`
 
@@ -126,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.3 – Reihenhaus an Via della Fonderia – Teil 3/6 (Y 73–79)
+### Schritt 6.3 – Reihenhaus an Via della Fonderia – Teil 3/6 (Y 67–73)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.771
 - **Bauteile:** `w118932408`
 
@@ -156,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.4 – Reihenhaus an Via della Fonderia – Teil 4/6 (Y 80–86)
+### Schritt 6.4 – Reihenhaus an Via della Fonderia – Teil 4/6 (Y 74–80)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.771
 - **Bauteile:** `w118932408`
 
@@ -186,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.5 – Reihenhaus an Via della Fonderia – Teil 5/6 (Y 87–93)
+### Schritt 6.5 – Reihenhaus an Via della Fonderia – Teil 5/6 (Y 81–87)
 
-- **Y-Bereich:** 87 bis 93
+- **Y-Bereich:** 81 bis 87
 - **Blöcke:** 1.771
 - **Bauteile:** `w118932408`
 
@@ -216,9 +216,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.6 – Reihenhaus an Via della Fonderia – Teil 6/6 (Y 94–101)
+### Schritt 6.6 – Reihenhaus an Via della Fonderia – Teil 6/6 (Y 88–95)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.815
 - **Bauteile:** `w118932408`
 
@@ -245,9 +245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.7 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 6.7 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 1/2 (Y 57–72)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 57 bis 72
 - **Blöcke:** 1.080
 - **Bauteile:** `w118932408_innen`
 
@@ -287,9 +287,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.8 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 6.8 – Reihenhaus an Via della Fonderia: Innenausbau – Teil 2/2 (Y 73–81)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 2.024
 - **Bauteile:** `w118932408_innen`
 
@@ -327,9 +327,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.9 – Palazzo des Cinquecento an Via della Fonderia – Teil 1/7 (Y 63–64)
+### Schritt 6.9 – Palazzo des Cinquecento an Via della Fonderia – Teil 1/7 (Y 58–59)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 58 bis 59
 - **Blöcke:** 1.609
 - **Bauteile:** `w495948931`
 
@@ -358,21 +358,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.10 – Palazzo des Cinquecento an Via della Fonderia – Teil 2/7 (Y 65–70)
+### Schritt 6.10 – Palazzo des Cinquecento an Via della Fonderia – Teil 2/7 (Y 60–66)
 
-- **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.641
+- **Y-Bereich:** 60 bis 66
+- **Blöcke:** 1.933
 - **Bauteile:** `w495948931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.069 |
-| Weißer Beton | `white_concrete` | 312 |
+| Glatter Sandstein | `smooth_sandstone` | 1.271 |
+| Weißer Beton | `white_concrete` | 384 |
 | Graues Buntglas | `gray_stained_glass` | 160 |
-| Polierter Andesit | `polished_andesite` | 94 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Polierter Andesit | `polished_andesite` | 110 |
+| Tuffsteinziegel | `tuff_bricks` | 8 |
 
 **Beschreibung**
 
@@ -390,22 +390,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.11 – Palazzo des Cinquecento an Via della Fonderia – Teil 3/7 (Y 71–76)
+### Schritt 6.11 – Palazzo des Cinquecento an Via della Fonderia – Teil 3/7 (Y 67–72)
 
-- **Y-Bereich:** 71 bis 76
-- **Blöcke:** 1.722
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 1.692
 - **Bauteile:** `w495948931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.238 |
-| Weißer Beton | `white_concrete` | 186 |
+| Glatter Sandstein | `smooth_sandstone` | 1.210 |
 | Glatter Stein | `smooth_stone` | 166 |
-| Polierter Andesit | `polished_andesite` | 83 |
-| Graues Buntglas | `gray_stained_glass` | 43 |
-| Tuffsteinziegel | `tuff_bricks` | 6 |
+| Weißer Beton | `white_concrete` | 151 |
+| Graues Buntglas | `gray_stained_glass` | 86 |
+| Polierter Andesit | `polished_andesite` | 75 |
+| Tuffsteinziegel | `tuff_bricks` | 4 |
 
 **Beschreibung**
 
@@ -423,21 +423,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.12 – Palazzo des Cinquecento an Via della Fonderia – Teil 4/7 (Y 77–83)
+### Schritt 6.12 – Palazzo des Cinquecento an Via della Fonderia – Teil 4/7 (Y 73–78)
 
-- **Y-Bereich:** 77 bis 83
-- **Blöcke:** 1.924
+- **Y-Bereich:** 73 bis 78
+- **Blöcke:** 1.662
 - **Bauteile:** `w495948931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.168 |
-| Weißer Beton | `white_concrete` | 342 |
-| Graues Buntglas | `gray_stained_glass` | 172 |
+| Glatter Sandstein | `smooth_sandstone` | 994 |
+| Weißer Beton | `white_concrete` | 305 |
 | Glatter Stein | `smooth_stone` | 166 |
-| Polierter Andesit | `polished_andesite` | 76 |
+| Graues Buntglas | `gray_stained_glass` | 129 |
+| Polierter Andesit | `polished_andesite` | 68 |
 
 **Beschreibung**
 
@@ -455,9 +455,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.13 – Palazzo des Cinquecento an Via della Fonderia – Teil 5/7 (Y 84–89)
+### Schritt 6.13 – Palazzo des Cinquecento an Via della Fonderia – Teil 5/7 (Y 79–84)
 
-- **Y-Bereich:** 84 bis 89
+- **Y-Bereich:** 79 bis 84
 - **Blöcke:** 1.632
 - **Bauteile:** `w495948931`
 
@@ -486,17 +486,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.14 – Palazzo des Cinquecento an Via della Fonderia – Teil 6/7 (Y 90–93)
+### Schritt 6.14 – Palazzo des Cinquecento an Via della Fonderia – Teil 6/7 (Y 85–88)
 
-- **Y-Bereich:** 90 bis 93
-- **Blöcke:** 1.354
+- **Y-Bereich:** 85 bis 88
+- **Blöcke:** 1.387
 - **Bauteile:** `w495948931`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.030 |
+| Glatter Sandstein | `smooth_sandstone` | 1.063 |
 | Weißer Beton | `white_concrete` | 231 |
 | Polierter Andesit | `polished_andesite` | 50 |
 | Graues Buntglas | `gray_stained_glass` | 43 |
@@ -517,9 +517,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.15 – Palazzo des Cinquecento an Via della Fonderia – Teil 7/7 (Y 94–101)
+### Schritt 6.15 – Palazzo des Cinquecento an Via della Fonderia – Teil 7/7 (Y 89–96)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 89 bis 96
 - **Blöcke:** 2.002
 - **Bauteile:** `w495948931`
 
@@ -546,9 +546,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.16 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 6.16 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 1/2 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.087
 - **Bauteile:** `w495948931_innen`
 
@@ -556,14 +556,14 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.025 |
+| Terrakotta | `terracotta` | 1.024 |
 | Glatter Stein | `smooth_stone` | 26 |
-| Seelaterne | `sea_lantern` | 13 |
+| Seelaterne | `sea_lantern` | 14 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -588,9 +588,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.17 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 6.17 – Palazzo des Cinquecento an Via della Fonderia: Innenausbau – Teil 2/2 (Y 69–79)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 69 bis 79
 - **Blöcke:** 1.095
 - **Bauteile:** `w495948931_innen`
 
@@ -598,12 +598,12 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.025 |
+| Terrakotta | `terracotta` | 1.024 |
 | Glatter Stein | `smooth_stone` | 26 |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 10 |
+| Seelaterne | `sea_lantern` | 7 |
 | Rote Keramik | `red_terracotta` | 6 |
-| Seelaterne | `sea_lantern` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
@@ -636,7 +636,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 6.18 – Nebengebäude an Via della Fonderia & Nebengebäude an Via della Fonderia: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 57 bis 91
 - **Blöcke:** 1.617
 - **Bauteile:** `w495949009`, `w495949009_innen`
 

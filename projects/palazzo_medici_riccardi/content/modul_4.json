@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Terrakotta steigt von Außen- und Hofkanten sechs Lagen hoch bis Y 128.",
+      "tip": "Von der Traufe zum First legen.",
+      "caution": "Der Dachraum bleibt hohl.",
+      "fact": "Das Dach verschwindet hinter dem weit auskragenden Gesims."
+    }
+  }
+}

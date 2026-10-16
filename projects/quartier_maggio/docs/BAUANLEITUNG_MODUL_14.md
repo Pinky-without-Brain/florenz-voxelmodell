@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 1.968 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 68 bis 102 |
 | X-Ausdehnung | -949 bis -938 (12 Blöcke) |
 | Z-Ausdehnung | 1519 bis 1531 (13 Blöcke) |
 | Kleinster Schritt | 1.968 Blöcke (Schritt 14.1) |
@@ -40,7 +40,7 @@
 
 ### Schritt 14.1 – Nebengebäude an Piazza Carlo Levi & Nebengebäude an Piazza Carlo Levi: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 68 bis 102
 - **Blöcke:** 1.968
 - **Bauteile:** `w1239463445`, `w1239463445_innen`
 

@@ -53,7 +53,7 @@ test('Stadtbasis: Größe, Gelände, Gebäude, Wahrzeichen', () => {
   assert.ok(y >= 63 && y <= 66, `Domplatz Y ${y}`);
 });
 
-test('Projektindex: Dom gebaut, Wahrzeichen geplant, Demo ausgeschlossen', () => {
+test('Projektindex: Dom gebaut, Wahrzeichen gebaut, Demo ausgeschlossen', () => {
   const idx = wi.buildIndex();
   const duomo = idx.find((e) => e.id === 'duomo');
   assert.equal(duomo.status, 'gebaut');
@@ -64,7 +64,8 @@ test('Projektindex: Dom gebaut, Wahrzeichen geplant, Demo ausgeschlossen', () =>
   assert.ok(duomo.modules.every((m) => fs.existsSync(path.join(WEB, m.file))));
   assert.ok(!idx.some((e) => e.id.startsWith('_')), 'kein Demo im Index');
   const planned = idx.filter((e) => e.status === 'geplant');
-  assert.ok(planned.length >= 15); // sinkt mit jedem gebauten Wahrzeichen
+  assert.equal(planned.length, 0); // Welle 4: alle Wahrzeichen gebaut (Stand 16.10.2026)
+  assert.ok(idx.filter((e) => e.type === 'wahrzeichen' && e.status === 'gebaut' && e.modules.length > 0).length >= 25);
   // Brücken sind keine OSM-Gebäude: ohne Gebäude-IDs, aber mit Position
   assert.ok(planned.every((e) => e.modules.length === 0 && (e.bounds || (Number.isFinite(e.x) && Number.isFinite(e.z)))));
   // geplant oder schon gebaut: gebaute Wahrzeichen übernehmen die Gebäude-IDs ihrer Platzhalter

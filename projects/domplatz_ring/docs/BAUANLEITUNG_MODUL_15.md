@@ -8,22 +8,22 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.664 |
+| Blöcke | 18.635 |
 | Bauschritte | 13 |
-| Y-Bereich | 66 bis 104 |
-| X-Ausdehnung | 53 bis 97 (45 Blöcke) |
+| Y-Bereich | 66 bis 103 |
+| X-Ausdehnung | 52 bis 97 (46 Blöcke) |
 | Z-Ausdehnung | 147 bis 209 (63 Blöcke) |
 | Kleinster Schritt | 578 Blöcke (Schritt 15.9) |
-| Mittlerer Schritt | 1.436 Blöcke |
+| Mittlerer Schritt | 1.433 Blöcke |
 | Größter Schritt | 1.746 Blöcke (Schritt 15.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 6.144 | 32,9 % |
+| Endsteinziegel | `end_stone_bricks` | 6.132 | 32,9 % |
 | Terrakotta | `terracotta` | 5.748 | 30,8 % |
-| Rosa Keramik | `pink_terracotta` | 2.516 | 13,5 % |
+| Rosa Keramik | `pink_terracotta` | 2.492 | 13,4 % |
 | Polierter Tuffstein | `polished_tuff` | 1.884 | 10,1 % |
 | Weißer Beton | `white_concrete` | 578 | 3,1 % |
 | Graues Buntglas | `gray_stained_glass` | 463 | 2,5 % |
@@ -31,15 +31,19 @@
 | Fichtenholz-Bretter | `spruce_planks` | 312 | 1,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 165 | 0,9 % |
 | Ziegelsteine | `bricks` | 164 | 0,9 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 40 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 40 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 34 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 34 | 0,2 % |
 | Grüner Beton | `green_concrete` | 34 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 32 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 30 | 0,2 % |
 | Seelaterne | `sea_lantern` | 30 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 26 | 0,1 % |
 | Glatter Stein | `smooth_stone` | 25 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 24 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 21 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 21 | 0,1 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -53,16 +57,17 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w114369699` | Reihenhaus an Via dei Bonizzi | 6.199 | 15.1–15.4 |
 | 2 | `w114369699_innen` | Reihenhaus an Via dei Bonizzi: Innenausbau | 1.746 | 15.5 |
-| 3 | `w491889285` | Reihenhaus an Piazza delle Pallottole | 4.513 | 15.6–15.8 |
+| 3 | `w491889285` | Reihenhaus an Piazza delle Pallottole | 4.489 | 15.6–15.8 |
 | 4 | `w491889285_innen` | Reihenhaus an Piazza delle Pallottole: Innenausbau | 578 | 15.9 |
-| 5 | `w491889286` | Reihenhaus an Via dei Bonizzi | 4.328 | 15.10–15.12 |
+| 5 | `w491889286` | Reihenhaus an Via dei Bonizzi | 4.316 | 15.10–15.12 |
 | 6 | `w491889286_innen` | Reihenhaus an Via dei Bonizzi: Innenausbau | 1.300 | 15.13 |
+| 7 | `strassenschilder` | Straßenschilder | 7 | 15.13 |
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via dei Bonizzi – Teil 1/4 (Y 67–73)
+### Schritt 15.1 – Reihenhaus an Via dei Bonizzi – Teil 1/4 (Y 66–72)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.571
 - **Bauteile:** `w114369699`
 
@@ -91,9 +96,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Reihenhaus an Via dei Bonizzi – Teil 2/4 (Y 74–83)
+### Schritt 15.2 – Reihenhaus an Via dei Bonizzi – Teil 2/4 (Y 73–82)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.538
 - **Bauteile:** `w114369699`
 
@@ -121,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via dei Bonizzi – Teil 3/4 (Y 84–93)
+### Schritt 15.3 – Reihenhaus an Via dei Bonizzi – Teil 3/4 (Y 83–92)
 
-- **Y-Bereich:** 84 bis 93
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.510
 - **Bauteile:** `w114369699`
 
@@ -151,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Reihenhaus an Via dei Bonizzi – Teil 4/4 (Y 94–104)
+### Schritt 15.4 – Reihenhaus an Via dei Bonizzi – Teil 4/4 (Y 93–103)
 
-- **Y-Bereich:** 94 bis 104
+- **Y-Bereich:** 93 bis 103
 - **Blöcke:** 1.580
 - **Bauteile:** `w114369699`
 
@@ -185,7 +190,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.5 – Reihenhaus an Via dei Bonizzi: Innenausbau
 
-- **Y-Bereich:** 67 bis 91
+- **Y-Bereich:** 66 bis 90
 - **Blöcke:** 1.746
 - **Bauteile:** `w114369699_innen`
 
@@ -228,14 +233,14 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 ### Schritt 15.6 – Reihenhaus an Piazza delle Pallottole – Teil 1/3 (Y 66–71)
 
 - **Y-Bereich:** 66 bis 71
-- **Blöcke:** 1.450
+- **Blöcke:** 1.426
 - **Bauteile:** `w491889285`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 724 |
+| Rosa Keramik | `pink_terracotta` | 700 |
 | Polierter Tuffstein | `polished_tuff` | 687 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
 | Glatter Stein | `smooth_stone` | 15 |
@@ -332,13 +337,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 518 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 26 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 12 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
 | Seelaterne | `sea_lantern` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -362,9 +365,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.10 – Reihenhaus an Via dei Bonizzi – Teil 1/3 (Y 67–77)
+### Schritt 15.10 – Reihenhaus an Via dei Bonizzi – Teil 1/3 (Y 66–76)
 
-- **Y-Bereich:** 67 bis 77
+- **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.492
 - **Bauteile:** `w491889286`
 
@@ -394,17 +397,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.11 – Reihenhaus an Via dei Bonizzi – Teil 2/3 (Y 78–90)
+### Schritt 15.11 – Reihenhaus an Via dei Bonizzi – Teil 2/3 (Y 77–89)
 
-- **Y-Bereich:** 78 bis 90
-- **Blöcke:** 1.383
+- **Y-Bereich:** 77 bis 89
+- **Blöcke:** 1.371
 - **Bauteile:** `w491889286`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.000 |
+| Endsteinziegel | `end_stone_bricks` | 988 |
 | Polierter Andesit | `polished_andesite` | 183 |
 | Graues Buntglas | `gray_stained_glass` | 112 |
 | Fichtenholz-Bretter | `spruce_planks` | 88 |
@@ -425,9 +428,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.12 – Reihenhaus an Via dei Bonizzi – Teil 3/3 (Y 91–101)
+### Schritt 15.12 – Reihenhaus an Via dei Bonizzi – Teil 3/3 (Y 90–100)
 
-- **Y-Bereich:** 91 bis 101
+- **Y-Bereich:** 90 bis 100
 - **Blöcke:** 1.453
 - **Bauteile:** `w491889286`
 
@@ -458,11 +461,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.13 – Reihenhaus an Via dei Bonizzi: Innenausbau
+### Schritt 15.13 – Reihenhaus an Via dei Bonizzi: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 67 bis 91
-- **Blöcke:** 1.300
-- **Bauteile:** `w491889286_innen`
+- **Y-Bereich:** 66 bis 90
+- **Blöcke:** 1.307
+- **Bauteile:** `w491889286_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -475,6 +478,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -484,16 +491,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

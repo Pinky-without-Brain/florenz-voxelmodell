@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 9.757 |
+| Blöcke | 9.760 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 100 |
-| X-Ausdehnung | -120 bis -87 (34 Blöcke) |
-| Z-Ausdehnung | 505 bis 528 (24 Blöcke) |
-| Kleinster Schritt | 1.872 Blöcke (Schritt 21.5) |
-| Mittlerer Schritt | 1.951 Blöcke |
+| Y-Bereich | 66 bis 103 |
+| X-Ausdehnung | -121 bis -87 (35 Blöcke) |
+| Z-Ausdehnung | 504 bis 528 (25 Blöcke) |
+| Kleinster Schritt | 1.875 Blöcke (Schritt 21.5) |
+| Mittlerer Schritt | 1.952 Blöcke |
 | Größter Schritt | 2.039 Blöcke (Schritt 21.2) |
 
 ## Gesamt-Stückliste
@@ -37,6 +37,8 @@
 | Weiße Keramik | `white_terracotta` | 9 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -50,12 +52,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w114506869` | Reihenhaus an Via del Canto alla Quarconia | 7.885 | 21.1–21.4 |
 | 2 | `w114506869_innen` | Reihenhaus an Via del Canto alla Quarconia: Innenausbau | 1.872 | 21.5 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 21.5 |
 
 ## Bauschritte
 
-### Schritt 21.1 – Reihenhaus an Via del Canto alla Quarconia – Teil 1/4 (Y 63–69)
+### Schritt 21.1 – Reihenhaus an Via del Canto alla Quarconia – Teil 1/4 (Y 66–72)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 66 bis 72
 - **Blöcke:** 1.975
 - **Bauteile:** `w114506869`
 
@@ -86,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Reihenhaus an Via del Canto alla Quarconia – Teil 2/4 (Y 70–79)
+### Schritt 21.2 – Reihenhaus an Via del Canto alla Quarconia – Teil 2/4 (Y 73–82)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 2.039
 - **Bauteile:** `w114506869`
 
@@ -117,9 +120,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Reihenhaus an Via del Canto alla Quarconia – Teil 3/4 (Y 80–89)
+### Schritt 21.3 – Reihenhaus an Via del Canto alla Quarconia – Teil 3/4 (Y 83–92)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.983
 - **Bauteile:** `w114506869`
 
@@ -147,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Reihenhaus an Via del Canto alla Quarconia – Teil 4/4 (Y 90–100)
+### Schritt 21.4 – Reihenhaus an Via del Canto alla Quarconia – Teil 4/4 (Y 93–103)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 93 bis 103
 - **Blöcke:** 1.888
 - **Bauteile:** `w114506869`
 
@@ -179,11 +182,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Reihenhaus an Via del Canto alla Quarconia: Innenausbau
+### Schritt 21.5 – Reihenhaus an Via del Canto alla Quarconia: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.872
-- **Bauteile:** `w114506869_innen`
+- **Y-Bereich:** 66 bis 90
+- **Blöcke:** 1.875
+- **Bauteile:** `w114506869_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -198,6 +201,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Weiße Keramik | `white_terracotta` | 9 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -207,16 +212,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

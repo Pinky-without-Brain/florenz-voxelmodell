@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 5.596 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 64 bis 100 |
 | X-Ausdehnung | -2602 bis -2573 (30 Blöcke) |
 | Z-Ausdehnung | 2139 bis 2164 (26 Blöcke) |
 | Kleinster Schritt | 583 Blöcke (Schritt 39.4) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 39.1 – Reihenhaus an Via del Casone – Teil 1/3 (Y 63–73)
+### Schritt 39.1 – Reihenhaus an Via del Casone – Teil 1/3 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.674
 - **Bauteile:** `w442946788`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.2 – Reihenhaus an Via del Casone – Teil 2/3 (Y 74–85)
+### Schritt 39.2 – Reihenhaus an Via del Casone – Teil 2/3 (Y 75–86)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 75 bis 86
 - **Blöcke:** 1.615
 - **Bauteile:** `w442946788`
 
@@ -116,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.3 – Reihenhaus an Via del Casone – Teil 3/3 (Y 86–99)
+### Schritt 39.3 – Reihenhaus an Via del Casone – Teil 3/3 (Y 87–100)
 
-- **Y-Bereich:** 86 bis 99
+- **Y-Bereich:** 87 bis 100
 - **Blöcke:** 1.724
 - **Bauteile:** `w442946788`
 
@@ -152,7 +152,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 39.4 – Reihenhaus an Via del Casone: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 583
 - **Bauteile:** `w442946788_innen`
 

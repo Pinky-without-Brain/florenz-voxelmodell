@@ -8,26 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 213.896 |
+| Blöcke | 214.138 |
 | Bauschritte | 113 |
 | Y-Bereich | 49 bis 69 |
 | X-Ausdehnung | 736 bis 1055 (320 Blöcke) |
 | Z-Ausdehnung | 1392 bis 1711 (320 Blöcke) |
 | Kleinster Schritt | 736 Blöcke (Schritt 147.113) |
-| Mittlerer Schritt | 1.893 Blöcke |
+| Mittlerer Schritt | 1.895 Blöcke |
 | Größter Schritt | 2.094 Blöcke (Schritt 147.19) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 105.560 | 49,4 % |
-| Kies | `gravel` | 52.780 | 24,7 % |
+| Wasser | `water` | 105.560 | 49,3 % |
+| Kies | `gravel` | 52.780 | 24,6 % |
 | Grasblock | `grass_block` | 35.262 | 16,5 % |
-| Polierter Tuffstein | `polished_tuff` | 6.260 | 2,9 % |
-| Stein | `stone` | 5.691 | 2,7 % |
+| Polierter Tuffstein | `polished_tuff` | 6.262 | 2,9 % |
+| Stein | `stone` | 5.926 | 2,8 % |
 | Polierter Andesit | `polished_andesite` | 5.133 | 2,4 % |
-| Glatter Stein | `smooth_stone` | 3.176 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 3.181 | 1,5 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 22 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 7 | 0,0 % |
 | Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 3 | 0,0 % |
@@ -43,11 +43,11 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 10.229 | 147.1–147.7 |
+| 1 | `boeschung` | Böschung und Mantel | 10.464 | 147.1–147.7 |
 | 2 | `arno_bett` | Flussbett | 52.780 | 147.8–147.33 |
 | 3 | `arno_wasser` | Arno | 105.560 | 147.34–147.85 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 6.148 | 147.86–147.89 |
-| 5 | `gehwege` | Gehwege | 2.541 | 147.90–147.91 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 6.150 | 147.86–147.89 |
+| 5 | `gehwege` | Gehwege | 2.546 | 147.90–147.91 |
 | 6 | `stufen` | Treppenflächen | 34 | 147.92 |
 | 7 | `hof_pflaster` | Höfe | 112 | 147.92 |
 | 8 | `rasen` | Grün und offenes Gelände | 35.756 | 147.92–147.112 |
@@ -170,18 +170,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 147.5 – Böschung und Mantel – Teil 5/7 (Y 56–59)
+### Schritt 147.5 – Böschung und Mantel – Teil 5/7 (Y 56–60)
 
-- **Y-Bereich:** 56 bis 59
-- **Blöcke:** 1.325
+- **Y-Bereich:** 56 bis 60
+- **Blöcke:** 1.664
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 679 |
-| Polierter Andesit | `polished_andesite` | 646 |
+| Stein | `stone` | 859 |
+| Polierter Andesit | `polished_andesite` | 805 |
 
 **Beschreibung**
 
@@ -199,18 +199,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 147.6 – Böschung und Mantel – Teil 6/7 (Y 60–62)
+### Schritt 147.6 – Böschung und Mantel – Teil 6/7 (Y 61–62)
 
-- **Y-Bereich:** 60 bis 62
-- **Blöcke:** 1.299
+- **Y-Bereich:** 61 bis 62
+- **Blöcke:** 1.125
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 831 |
-| Polierter Andesit | `polished_andesite` | 468 |
+| Stein | `stone` | 816 |
+| Polierter Andesit | `polished_andesite` | 309 |
 
 **Beschreibung**
 
@@ -228,17 +228,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 147.7 – Böschung und Mantel – Teil 7/7 (Y 63–66)
+### Schritt 147.7 – Böschung und Mantel – Teil 7/7 (Y 63–67)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.645
+- **Y-Bereich:** 63 bis 67
+- **Blöcke:** 1.715
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.067 |
+| Stein | `stone` | 1.137 |
 | Polierter Andesit | `polished_andesite` | 578 |
 
 **Beschreibung**
@@ -2444,14 +2444,14 @@ Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Me
 ### Schritt 147.86 – Straßenpflaster – Teil 1/4 (Y 58–63)
 
 - **Y-Bereich:** 58 bis 63
-- **Blöcke:** 2.026
+- **Blöcke:** 2.028
 - **Bauteile:** `strassen_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.026 |
+| Polierter Tuffstein | `polished_tuff` | 2.028 |
 
 **Beschreibung**
 
@@ -2556,14 +2556,14 @@ Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 ### Schritt 147.90 – Gehwege – Teil 1/2 (Y 56–64)
 
 - **Y-Bereich:** 56 bis 64
-- **Blöcke:** 1.382
+- **Blöcke:** 1.387
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.300 |
+| Glatter Stein | `smooth_stone` | 1.305 |
 | Polierter Andesit | `polished_andesite` | 82 |
 
 **Beschreibung**

@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 27.119 |
+| Blöcke | 27.125 |
 | Bauschritte | 16 |
-| Y-Bereich | 63 bis 110 |
+| Y-Bereich | 68 bis 115 |
 | X-Ausdehnung | -161 bis -123 (39 Blöcke) |
 | Z-Ausdehnung | 576 bis 649 (74 Blöcke) |
-| Kleinster Schritt | 1.067 Blöcke (Schritt 20.16) |
+| Kleinster Schritt | 1.073 Blöcke (Schritt 20.16) |
 | Mittlerer Schritt | 1.695 Blöcke |
 | Größter Schritt | 2.041 Blöcke (Schritt 20.4) |
 
@@ -42,6 +42,9 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 10 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
@@ -60,12 +63,13 @@
 | 2 | `w240923971_innen` | Renaissance-Palazzo an Via dei Cerchi: Innenausbau | 4.900 | 20.10–20.12 |
 | 3 | `w307545806` | Palazzo dei Cerchi | 5.218 | 20.13–20.15 |
 | 4 | `w307545806_innen` | Palazzo dei Cerchi: Innenausbau | 1.067 | 20.16 |
+| 5 | `strassenschilder` | Straßenschilder | 6 | 20.16 |
 
 ## Bauschritte
 
-### Schritt 20.1 – Renaissance-Palazzo an Via dei Cerchi – Teil 1/9 (Y 63–63)
+### Schritt 20.1 – Renaissance-Palazzo an Via dei Cerchi – Teil 1/9 (Y 68–68)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.888
 - **Bauteile:** `w240923971`
 
@@ -91,9 +95,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.2 – Renaissance-Palazzo an Via dei Cerchi – Teil 2/9 (Y 64–69)
+### Schritt 20.2 – Renaissance-Palazzo an Via dei Cerchi – Teil 2/9 (Y 69–74)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.757
 - **Bauteile:** `w240923971`
 
@@ -123,9 +127,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.3 – Renaissance-Palazzo an Via dei Cerchi – Teil 3/9 (Y 70–74)
+### Schritt 20.3 – Renaissance-Palazzo an Via dei Cerchi – Teil 3/9 (Y 75–79)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.542
 - **Bauteile:** `w240923971`
 
@@ -155,9 +159,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.4 – Renaissance-Palazzo an Via dei Cerchi – Teil 4/9 (Y 75–81)
+### Schritt 20.4 – Renaissance-Palazzo an Via dei Cerchi – Teil 4/9 (Y 80–86)
 
-- **Y-Bereich:** 75 bis 81
+- **Y-Bereich:** 80 bis 86
 - **Blöcke:** 2.041
 - **Bauteile:** `w240923971`
 
@@ -186,9 +190,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.5 – Renaissance-Palazzo an Via dei Cerchi – Teil 5/9 (Y 82–86)
+### Schritt 20.5 – Renaissance-Palazzo an Via dei Cerchi – Teil 5/9 (Y 87–91)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 87 bis 91
 - **Blöcke:** 1.585
 - **Bauteile:** `w240923971`
 
@@ -217,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.6 – Renaissance-Palazzo an Via dei Cerchi – Teil 6/9 (Y 87–92)
+### Schritt 20.6 – Renaissance-Palazzo an Via dei Cerchi – Teil 6/9 (Y 92–97)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 92 bis 97
 - **Blöcke:** 1.830
 - **Bauteile:** `w240923971`
 
@@ -248,9 +252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.7 – Renaissance-Palazzo an Via dei Cerchi – Teil 7/9 (Y 93–98)
+### Schritt 20.7 – Renaissance-Palazzo an Via dei Cerchi – Teil 7/9 (Y 98–103)
 
-- **Y-Bereich:** 93 bis 98
+- **Y-Bereich:** 98 bis 103
 - **Blöcke:** 1.687
 - **Bauteile:** `w240923971`
 
@@ -279,9 +283,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.8 – Renaissance-Palazzo an Via dei Cerchi – Teil 8/9 (Y 99–101)
+### Schritt 20.8 – Renaissance-Palazzo an Via dei Cerchi – Teil 8/9 (Y 104–106)
 
-- **Y-Bereich:** 99 bis 101
+- **Y-Bereich:** 104 bis 106
 - **Blöcke:** 1.646
 - **Bauteile:** `w240923971`
 
@@ -311,9 +315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.9 – Renaissance-Palazzo an Via dei Cerchi – Teil 9/9 (Y 102–110)
+### Schritt 20.9 – Renaissance-Palazzo an Via dei Cerchi – Teil 9/9 (Y 107–115)
 
-- **Y-Bereich:** 102 bis 110
+- **Y-Bereich:** 107 bis 115
 - **Blöcke:** 1.958
 - **Bauteile:** `w240923971`
 
@@ -340,9 +344,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.10 – Renaissance-Palazzo an Via dei Cerchi: Innenausbau – Teil 1/3 (Y 63–74)
+### Schritt 20.10 – Renaissance-Palazzo an Via dei Cerchi: Innenausbau – Teil 1/3 (Y 68–79)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.639
 - **Bauteile:** `w240923971_innen`
 
@@ -382,9 +386,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.11 – Renaissance-Palazzo an Via dei Cerchi: Innenausbau – Teil 2/3 (Y 75–82)
+### Schritt 20.11 – Renaissance-Palazzo an Via dei Cerchi: Innenausbau – Teil 2/3 (Y 80–87)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 80 bis 87
 - **Blöcke:** 1.624
 - **Bauteile:** `w240923971_innen`
 
@@ -426,9 +430,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.12 – Renaissance-Palazzo an Via dei Cerchi: Innenausbau – Teil 3/3 (Y 83–92)
+### Schritt 20.12 – Renaissance-Palazzo an Via dei Cerchi: Innenausbau – Teil 3/3 (Y 88–97)
 
-- **Y-Bereich:** 83 bis 92
+- **Y-Bereich:** 88 bis 97
 - **Blöcke:** 1.637
 - **Bauteile:** `w240923971_innen`
 
@@ -470,9 +474,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.13 – Palazzo dei Cerchi – Teil 1/3 (Y 63–73)
+### Schritt 20.13 – Palazzo dei Cerchi – Teil 1/3 (Y 68–78)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 68 bis 78
 - **Blöcke:** 1.732
 - **Bauteile:** `w307545806`
 
@@ -503,9 +507,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.14 – Palazzo dei Cerchi – Teil 2/3 (Y 74–87)
+### Schritt 20.14 – Palazzo dei Cerchi – Teil 2/3 (Y 79–92)
 
-- **Y-Bereich:** 74 bis 87
+- **Y-Bereich:** 79 bis 92
 - **Blöcke:** 1.756
 - **Bauteile:** `w307545806`
 
@@ -535,9 +539,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.15 – Palazzo dei Cerchi – Teil 3/3 (Y 88–99)
+### Schritt 20.15 – Palazzo dei Cerchi – Teil 3/3 (Y 93–104)
 
-- **Y-Bereich:** 88 bis 99
+- **Y-Bereich:** 93 bis 104
 - **Blöcke:** 1.730
 - **Bauteile:** `w307545806`
 
@@ -569,11 +573,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.16 – Palazzo dei Cerchi: Innenausbau
+### Schritt 20.16 – Palazzo dei Cerchi: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.067
-- **Bauteile:** `w307545806_innen`
+- **Y-Bereich:** 68 bis 89
+- **Blöcke:** 1.073
+- **Bauteile:** `w307545806_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -587,8 +591,11 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 6 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -601,16 +608,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, im Erdgeschoss ein Laden mit Theke, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

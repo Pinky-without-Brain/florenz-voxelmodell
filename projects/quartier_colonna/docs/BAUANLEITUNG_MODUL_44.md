@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 56.507 |
-| Bauschritte | 35 |
-| Y-Bereich | 63 bis 100 |
+| Blöcke | 57.728 |
+| Bauschritte | 36 |
+| Y-Bereich | 69 bis 109 |
 | X-Ausdehnung | 1511 bis 1630 (120 Blöcke) |
 | Z-Ausdehnung | -1432 bis -1312 (121 Blöcke) |
 | Kleinster Schritt | 750 Blöcke (Schritt 44.16) |
-| Mittlerer Schritt | 1.614 Blöcke |
+| Mittlerer Schritt | 1.604 Blöcke |
 | Größter Schritt | 2.071 Blöcke (Schritt 44.11) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 14.345 | 25,4 % |
-| Terrakotta | `terracotta` | 11.889 | 21,0 % |
-| Orange Keramik | `orange_terracotta` | 10.044 | 17,8 % |
-| Polierter Tuffstein | `polished_tuff` | 7.904 | 14,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 4.678 | 8,3 % |
-| Weißer Beton | `white_concrete` | 3.396 | 6,0 % |
-| Glatter Stein | `smooth_stone` | 2.072 | 3,7 % |
-| Graues Buntglas | `gray_stained_glass` | 1.118 | 2,0 % |
+| Hellgrauer Beton | `light_gray_concrete` | 14.358 | 24,9 % |
+| Terrakotta | `terracotta` | 11.889 | 20,6 % |
+| Orange Keramik | `orange_terracotta` | 10.044 | 17,4 % |
+| Polierter Tuffstein | `polished_tuff` | 7.904 | 13,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 4.678 | 8,1 % |
+| Weißer Beton | `white_concrete` | 3.396 | 5,9 % |
+| Glatter Stein | `smooth_stone` | 2.072 | 3,6 % |
+| Tuffstein | `tuff` | 1.208 | 2,1 % |
+| Graues Buntglas | `gray_stained_glass` | 1.118 | 1,9 % |
 | Polierter Andesit | `polished_andesite` | 399 | 0,7 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 203 | 0,4 % |
 | Ziegelsteine | `bricks` | 128 | 0,2 % |
@@ -56,18 +57,18 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w120136025` | Reihenhaus an Viale Giacomo Matteotti | 8.225 | 44.1–44.5 |
 | 2 | `w120136025_innen` | Reihenhaus an Viale Giacomo Matteotti: Innenausbau | 1.710 | 44.6 |
-| 3 | `w475358356` | Reihenhaus an Viale Giacomo Matteotti | 7.375 | 44.7–44.10 |
+| 3 | `w475358356` | Reihenhaus an Viale Giacomo Matteotti | 7.380 | 44.7–44.10 |
 | 4 | `w475358356_innen` | Reihenhaus an Viale Giacomo Matteotti: Innenausbau | 2.071 | 44.11 |
 | 5 | `w475358373` | Haus w475358373 | 6.421 | 44.12–44.15 |
 | 6 | `w475358373_innen` | Haus w475358373: Innenausbau | 750 | 44.16 |
-| 7 | `w475358376` | Villa Donatello - Presidio di Firenze Centro | 24.442 | 44.17–44.31 |
-| 8 | `w475358376_innen` | Villa Donatello - Presidio di Firenze Centro: Innenausbau | 5.513 | 44.32–44.35 |
+| 7 | `w475358376` | Villa Donatello - Presidio di Firenze Centro | 25.658 | 44.17–44.32 |
+| 8 | `w475358376_innen` | Villa Donatello - Presidio di Firenze Centro: Innenausbau | 5.513 | 44.33–44.36 |
 
 ## Bauschritte
 
-### Schritt 44.1 – Reihenhaus an Viale Giacomo Matteotti – Teil 1/5 (Y 63–67)
+### Schritt 44.1 – Reihenhaus an Viale Giacomo Matteotti – Teil 1/5 (Y 72–76)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.603
 - **Bauteile:** `w120136025`
 
@@ -97,9 +98,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.2 – Reihenhaus an Viale Giacomo Matteotti – Teil 2/5 (Y 68–75)
+### Schritt 44.2 – Reihenhaus an Viale Giacomo Matteotti – Teil 2/5 (Y 77–84)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.738
 - **Bauteile:** `w120136025`
 
@@ -129,9 +130,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Reihenhaus an Viale Giacomo Matteotti – Teil 3/5 (Y 76–82)
+### Schritt 44.3 – Reihenhaus an Viale Giacomo Matteotti – Teil 3/5 (Y 85–91)
 
-- **Y-Bereich:** 76 bis 82
+- **Y-Bereich:** 85 bis 91
 - **Blöcke:** 1.523
 - **Bauteile:** `w120136025`
 
@@ -159,9 +160,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.4 – Reihenhaus an Viale Giacomo Matteotti – Teil 4/5 (Y 83–90)
+### Schritt 44.4 – Reihenhaus an Viale Giacomo Matteotti – Teil 4/5 (Y 92–99)
 
-- **Y-Bereich:** 83 bis 90
+- **Y-Bereich:** 92 bis 99
 - **Blöcke:** 1.736
 - **Bauteile:** `w120136025`
 
@@ -189,9 +190,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.5 – Reihenhaus an Viale Giacomo Matteotti – Teil 5/5 (Y 91–100)
+### Schritt 44.5 – Reihenhaus an Viale Giacomo Matteotti – Teil 5/5 (Y 100–109)
 
-- **Y-Bereich:** 91 bis 100
+- **Y-Bereich:** 100 bis 109
 - **Blöcke:** 1.625
 - **Bauteile:** `w120136025`
 
@@ -222,7 +223,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 44.6 – Reihenhaus an Viale Giacomo Matteotti: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 72 bis 96
 - **Blöcke:** 1.710
 - **Bauteile:** `w120136025_innen`
 
@@ -258,10 +259,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.7 – Reihenhaus an Viale Giacomo Matteotti – Teil 1/4 (Y 63–69)
+### Schritt 44.7 – Reihenhaus an Viale Giacomo Matteotti – Teil 1/4 (Y 71–78)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.889
+- **Y-Bereich:** 71 bis 78
+- **Blöcke:** 1.894
 - **Bauteile:** `w475358356`
 
 **Teileliste**
@@ -272,6 +273,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Polierter Tuffstein | `polished_tuff` | 836 |
 | Glatter Stein | `smooth_stone` | 106 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
+| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
@@ -289,9 +291,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.8 – Reihenhaus an Viale Giacomo Matteotti – Teil 2/4 (Y 70–79)
+### Schritt 44.8 – Reihenhaus an Viale Giacomo Matteotti – Teil 2/4 (Y 79–88)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 79 bis 88
 - **Blöcke:** 1.835
 - **Bauteile:** `w475358356`
 
@@ -319,9 +321,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.9 – Reihenhaus an Viale Giacomo Matteotti – Teil 3/4 (Y 80–89)
+### Schritt 44.9 – Reihenhaus an Viale Giacomo Matteotti – Teil 3/4 (Y 89–98)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.841
 - **Bauteile:** `w475358356`
 
@@ -349,9 +351,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.10 – Reihenhaus an Viale Giacomo Matteotti – Teil 4/4 (Y 90–100)
+### Schritt 44.10 – Reihenhaus an Viale Giacomo Matteotti – Teil 4/4 (Y 99–109)
 
-- **Y-Bereich:** 90 bis 100
+- **Y-Bereich:** 99 bis 109
 - **Blöcke:** 1.810
 - **Bauteile:** `w475358356`
 
@@ -383,7 +385,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 44.11 – Reihenhaus an Viale Giacomo Matteotti: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 72 bis 96
 - **Blöcke:** 2.071
 - **Bauteile:** `w475358356_innen`
 
@@ -421,9 +423,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.12 – Haus w475358373 – Teil 1/4 (Y 63–70)
+### Schritt 44.12 – Haus w475358373 – Teil 1/4 (Y 73–80)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 73 bis 80
 - **Blöcke:** 1.610
 - **Bauteile:** `w475358373`
 
@@ -453,9 +455,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.13 – Haus w475358373 – Teil 2/4 (Y 71–79)
+### Schritt 44.13 – Haus w475358373 – Teil 2/4 (Y 81–89)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 81 bis 89
 - **Blöcke:** 1.632
 - **Bauteile:** `w475358373`
 
@@ -484,9 +486,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.14 – Haus w475358373 – Teil 3/4 (Y 80–88)
+### Schritt 44.14 – Haus w475358373 – Teil 3/4 (Y 90–98)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.632
 - **Bauteile:** `w475358373`
 
@@ -514,9 +516,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.15 – Haus w475358373 – Teil 4/4 (Y 89–98)
+### Schritt 44.15 – Haus w475358373 – Teil 4/4 (Y 99–108)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 99 bis 108
 - **Blöcke:** 1.547
 - **Bauteile:** `w475358373`
 
@@ -548,7 +550,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 44.16 – Haus w475358373: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 73 bis 97
 - **Blöcke:** 750
 - **Bauteile:** `w475358373_innen`
 
@@ -588,9 +590,37 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.17 – Villa Donatello - Presidio di Firenze Centro – Teil 1/15 (Y 63–63)
+### Schritt 44.17 – Villa Donatello - Presidio di Firenze Centro – Teil 1/16 (Y 69–71)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 69 bis 71
+- **Blöcke:** 1.203
+- **Bauteile:** `w475358376`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.203 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Grau. Quelle: typologie, Angaben geschätzt (Sicherheit 0,3).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 44.18 – Villa Donatello - Presidio di Firenze Centro – Teil 2/16 (Y 72–72)
+
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.612
 - **Bauteile:** `w475358376`
 
@@ -616,9 +646,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.18 – Villa Donatello - Presidio di Firenze Centro – Teil 2/15 (Y 63–63)
+### Schritt 44.19 – Villa Donatello - Presidio di Firenze Centro – Teil 3/16 (Y 72–72)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.629
 - **Bauteile:** `w475358376`
 
@@ -644,17 +674,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.19 – Villa Donatello - Presidio di Firenze Centro – Teil 3/15 (Y 64–66)
+### Schritt 44.20 – Villa Donatello - Presidio di Firenze Centro – Teil 4/16 (Y 73–75)
 
-- **Y-Bereich:** 64 bis 66
-- **Blöcke:** 1.701
+- **Y-Bereich:** 73 bis 75
+- **Blöcke:** 1.714
 - **Bauteile:** `w475358376`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.528 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.541 |
 | Weißer Beton | `white_concrete` | 114 |
 | Polierter Andesit | `polished_andesite` | 50 |
 | Glatter Stein | `smooth_stone` | 6 |
@@ -676,9 +706,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.20 – Villa Donatello - Presidio di Firenze Centro – Teil 4/15 (Y 67–69)
+### Schritt 44.21 – Villa Donatello - Presidio di Firenze Centro – Teil 5/16 (Y 76–78)
 
-- **Y-Bereich:** 67 bis 69
+- **Y-Bereich:** 76 bis 78
 - **Blöcke:** 1.647
 - **Bauteile:** `w475358376`
 
@@ -709,9 +739,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.21 – Villa Donatello - Presidio di Firenze Centro – Teil 5/15 (Y 70–72)
+### Schritt 44.22 – Villa Donatello - Presidio di Firenze Centro – Teil 6/16 (Y 79–81)
 
-- **Y-Bereich:** 70 bis 72
+- **Y-Bereich:** 79 bis 81
 - **Blöcke:** 1.676
 - **Bauteile:** `w475358376`
 
@@ -740,9 +770,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.22 – Villa Donatello - Presidio di Firenze Centro – Teil 6/15 (Y 73–75)
+### Schritt 44.23 – Villa Donatello - Presidio di Firenze Centro – Teil 7/16 (Y 82–84)
 
-- **Y-Bereich:** 73 bis 75
+- **Y-Bereich:** 82 bis 84
 - **Blöcke:** 1.722
 - **Bauteile:** `w475358376`
 
@@ -770,9 +800,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.23 – Villa Donatello - Presidio di Firenze Centro – Teil 7/15 (Y 76–78)
+### Schritt 44.24 – Villa Donatello - Presidio di Firenze Centro – Teil 8/16 (Y 85–87)
 
-- **Y-Bereich:** 76 bis 78
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.672
 - **Bauteile:** `w475358376`
 
@@ -801,9 +831,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.24 – Villa Donatello - Presidio di Firenze Centro – Teil 8/15 (Y 79–81)
+### Schritt 44.25 – Villa Donatello - Presidio di Firenze Centro – Teil 9/16 (Y 88–90)
 
-- **Y-Bereich:** 79 bis 81
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.647
 - **Bauteile:** `w475358376`
 
@@ -832,20 +862,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.25 – Villa Donatello - Presidio di Firenze Centro – Teil 9/15 (Y 82–83)
+### Schritt 44.26 – Villa Donatello - Presidio di Firenze Centro – Teil 10/16 (Y 91–93)
 
-- **Y-Bereich:** 82 bis 83
-- **Blöcke:** 1.148
+- **Y-Bereich:** 91 bis 93
+- **Blöcke:** 1.722
 - **Bauteile:** `w475358376`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 644 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.198 |
 | Glatter Stein | `smooth_stone` | 363 |
 | Weißer Beton | `white_concrete` | 121 |
-| Polierter Andesit | `polished_andesite` | 20 |
+| Polierter Andesit | `polished_andesite` | 40 |
 
 **Beschreibung**
 
@@ -863,20 +893,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.26 – Villa Donatello - Presidio di Firenze Centro – Teil 10/15 (Y 84–86)
+### Schritt 44.27 – Villa Donatello - Presidio di Firenze Centro – Teil 11/16 (Y 94–95)
 
-- **Y-Bereich:** 84 bis 86
-- **Blöcke:** 1.697
+- **Y-Bereich:** 94 bis 95
+- **Blöcke:** 1.123
 - **Bauteile:** `w475358376`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.408 |
+| Hellgrauer Beton | `light_gray_concrete` | 854 |
 | Weißer Beton | `white_concrete` | 201 |
-| Polierter Andesit | `polished_andesite` | 47 |
 | Graues Buntglas | `gray_stained_glass` | 41 |
+| Polierter Andesit | `polished_andesite` | 27 |
 
 **Beschreibung**
 
@@ -894,9 +924,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.27 – Villa Donatello - Presidio di Firenze Centro – Teil 11/15 (Y 87–89)
+### Schritt 44.28 – Villa Donatello - Presidio di Firenze Centro – Teil 12/16 (Y 96–98)
 
-- **Y-Bereich:** 87 bis 89
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 1.647
 - **Bauteile:** `w475358376`
 
@@ -925,9 +955,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.28 – Villa Donatello - Presidio di Firenze Centro – Teil 12/15 (Y 90–92)
+### Schritt 44.29 – Villa Donatello - Presidio di Firenze Centro – Teil 13/16 (Y 99–101)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 99 bis 101
 - **Blöcke:** 1.864
 - **Bauteile:** `w475358376`
 
@@ -957,9 +987,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.29 – Villa Donatello - Presidio di Firenze Centro – Teil 13/15 (Y 93–93)
+### Schritt 44.30 – Villa Donatello - Presidio di Firenze Centro – Teil 14/16 (Y 102–102)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.833
 - **Bauteile:** `w475358376`
 
@@ -988,9 +1018,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.30 – Villa Donatello - Presidio di Firenze Centro – Teil 14/15 (Y 93–93)
+### Schritt 44.31 – Villa Donatello - Presidio di Firenze Centro – Teil 15/16 (Y 102–102)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 102 bis 102
 - **Blöcke:** 1.799
 - **Bauteile:** `w475358376`
 
@@ -1019,9 +1049,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.31 – Villa Donatello - Presidio di Firenze Centro – Teil 15/15 (Y 94–95)
+### Schritt 44.32 – Villa Donatello - Presidio di Firenze Centro – Teil 16/16 (Y 103–104)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.148
 - **Bauteile:** `w475358376`
 
@@ -1047,9 +1077,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.32 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 44.33 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 1/4 (Y 72–83)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 72 bis 83
 - **Blöcke:** 1.433
 - **Bauteile:** `w475358376_innen`
 
@@ -1089,9 +1119,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.33 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 2/4 (Y 74–76)
+### Schritt 44.34 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 2/4 (Y 83–85)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.324
 - **Bauteile:** `w475358376_innen`
 
@@ -1132,9 +1162,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.34 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 3/4 (Y 77–83)
+### Schritt 44.35 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 3/4 (Y 86–92)
 
-- **Y-Bereich:** 77 bis 83
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.399
 - **Bauteile:** `w475358376_innen`
 
@@ -1170,9 +1200,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 44.35 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 4/4 (Y 83–93)
+### Schritt 44.36 – Villa Donatello - Presidio di Firenze Centro: Innenausbau – Teil 4/4 (Y 92–102)
 
-- **Y-Bereich:** 83 bis 93
+- **Y-Bereich:** 92 bis 102
 - **Blöcke:** 1.357
 - **Bauteile:** `w475358376_innen`
 

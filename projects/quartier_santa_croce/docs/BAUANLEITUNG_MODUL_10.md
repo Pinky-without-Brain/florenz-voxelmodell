@@ -8,27 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 103.813 |
-| Bauschritte | 67 |
-| Y-Bereich | 63 bis 103 |
+| Blöcke | 103.897 |
+| Bauschritte | 68 |
+| Y-Bereich | 61 bis 103 |
 | X-Ausdehnung | 607 bis 807 (201 Blöcke) |
 | Z-Ausdehnung | 482 bis 612 (131 Blöcke) |
-| Kleinster Schritt | 1.069 Blöcke (Schritt 10.10) |
-| Mittlerer Schritt | 1.549 Blöcke |
-| Größter Schritt | 2.095 Blöcke (Schritt 10.1) |
+| Kleinster Schritt | 74 Blöcke (Schritt 10.1) |
+| Mittlerer Schritt | 1.528 Blöcke |
+| Größter Schritt | 2.095 Blöcke (Schritt 10.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Terrakotta | `terracotta` | 33.557 | 32,3 % |
-| Tuffstein | `tuff` | 20.601 | 19,8 % |
-| Polierter Tuffstein | `polished_tuff` | 11.361 | 10,9 % |
+| Tuffstein | `tuff` | 20.673 | 19,9 % |
+| Polierter Tuffstein | `polished_tuff` | 11.355 | 10,9 % |
 | Glatter Stein | `smooth_stone` | 7.957 | 7,7 % |
 | Polierter Andesit | `polished_andesite` | 6.986 | 6,7 % |
 | Hellgrauer Beton | `light_gray_concrete` | 5.584 | 5,4 % |
-| Glatter Sandstein | `smooth_sandstone` | 3.325 | 3,2 % |
-| Weißer Beton | `white_concrete` | 3.240 | 3,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 3.328 | 3,2 % |
+| Weißer Beton | `white_concrete` | 3.243 | 3,1 % |
 | Graues Buntglas | `gray_stained_glass` | 3.126 | 3,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.671 | 2,6 % |
 | Orange Keramik | `orange_terracotta` | 2.660 | 2,6 % |
@@ -45,6 +45,9 @@
 | Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 5 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 5 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -52,25 +55,62 @@
 | :--- | :--- | ---: |
 | Steintreppe | `stone_stairs` | 80 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 46 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 5 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1598976` | Renaissance-Palazzo an Via dei Pandolfini | 60.297 | 10.1–10.41 |
-| 2 | `r1598976_innen` | Renaissance-Palazzo an Via dei Pandolfini: Innenausbau | 13.850 | 10.42–10.49 |
-| 3 | `w306984401` | Palazzo Salviati-Quaratesi | 13.429 | 10.50–10.57 |
-| 4 | `w306984401_innen` | Palazzo Salviati-Quaratesi: Innenausbau | 3.655 | 10.58–10.59 |
-| 5 | `w306984428` | Reihenhaus an Via dei Pandolfini | 5.326 | 10.60–10.62 |
-| 6 | `w306984428_innen` | Reihenhaus an Via dei Pandolfini: Innenausbau | 1.330 | 10.63 |
-| 7 | `w306984429` | Reihenhaus an Via Giuseppe Verdi | 4.232 | 10.64–10.66 |
-| 8 | `w306984429_innen` | Reihenhaus an Via Giuseppe Verdi: Innenausbau | 2 | 10.67 |
-| 9 | `w675879822` | Nebengebäude an Via Giuseppe Verdi | 1.691 | 10.67 |
-| 10 | `w675879822_innen` | Nebengebäude an Via Giuseppe Verdi: Innenausbau | 1 | 10.67 |
+| 1 | `r1598976` | Renaissance-Palazzo an Via dei Pandolfini | 60.368 | 10.1–10.42 |
+| 2 | `r1598976_innen` | Renaissance-Palazzo an Via dei Pandolfini: Innenausbau | 13.850 | 10.43–10.50 |
+| 3 | `w306984401` | Palazzo Salviati-Quaratesi | 13.429 | 10.51–10.58 |
+| 4 | `w306984401_innen` | Palazzo Salviati-Quaratesi: Innenausbau | 3.655 | 10.59–10.60 |
+| 5 | `w306984428` | Reihenhaus an Via dei Pandolfini | 5.326 | 10.61–10.63 |
+| 6 | `w306984428_innen` | Reihenhaus an Via dei Pandolfini: Innenausbau | 1.330 | 10.64 |
+| 7 | `w306984429` | Reihenhaus an Via Giuseppe Verdi | 4.235 | 10.65–10.67 |
+| 8 | `w306984429_innen` | Reihenhaus an Via Giuseppe Verdi: Innenausbau | 2 | 10.68 |
+| 9 | `w675879822` | Nebengebäude an Via Giuseppe Verdi | 1.694 | 10.68 |
+| 10 | `w675879822_innen` | Nebengebäude an Via Giuseppe Verdi: Innenausbau | 1 | 10.68 |
+| 11 | `strassenschilder` | Straßenschilder | 7 | 10.68 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Renaissance-Palazzo an Via dei Pandolfini – Teil 1/41 (Y 63–63)
+### Schritt 10.1 – Renaissance-Palazzo an Via dei Pandolfini – Teil 1/42 (Y 62–62)
+
+- **Y-Bereich:** 62 bis 62
+- **Blöcke:** 74
+- **Bauteile:** `r1598976`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 72 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+
+**Beschreibung**
+
+Renaissance-Palazzo (15. Jh.), 3 Geschosse, Natursteinfassade. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 10.2 – Renaissance-Palazzo an Via dei Pandolfini – Teil 2/42 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.095
@@ -98,7 +138,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Renaissance-Palazzo an Via dei Pandolfini – Teil 2/41 (Y 63–63)
+### Schritt 10.3 – Renaissance-Palazzo an Via dei Pandolfini – Teil 3/42 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.009
@@ -126,17 +166,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Renaissance-Palazzo an Via dei Pandolfini – Teil 3/41 (Y 63–63)
+### Schritt 10.4 – Renaissance-Palazzo an Via dei Pandolfini – Teil 4/42 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 2.084
+- **Blöcke:** 2.082
 - **Bauteile:** `r1598976`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.084 |
+| Polierter Tuffstein | `polished_tuff` | 2.080 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 
@@ -154,17 +201,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Renaissance-Palazzo an Via dei Pandolfini – Teil 4/41 (Y 63–63)
+### Schritt 10.5 – Renaissance-Palazzo an Via dei Pandolfini – Teil 5/42 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 2.024
+- **Blöcke:** 2.023
 - **Bauteile:** `r1598976`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 2.024 |
+| Polierter Tuffstein | `polished_tuff` | 2.022 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 1 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 1 |
 
 **Beschreibung**
 
@@ -182,7 +236,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Renaissance-Palazzo an Via dei Pandolfini – Teil 5/41 (Y 64–64)
+### Schritt 10.6 – Renaissance-Palazzo an Via dei Pandolfini – Teil 6/42 (Y 64–64)
 
 - **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.211
@@ -212,7 +266,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Renaissance-Palazzo an Via dei Pandolfini – Teil 6/41 (Y 65–65)
+### Schritt 10.7 – Renaissance-Palazzo an Via dei Pandolfini – Teil 7/42 (Y 65–65)
 
 - **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.210
@@ -243,7 +297,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Renaissance-Palazzo an Via dei Pandolfini – Teil 7/41 (Y 66–66)
+### Schritt 10.8 – Renaissance-Palazzo an Via dei Pandolfini – Teil 8/42 (Y 66–66)
 
 - **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.163
@@ -273,7 +327,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Renaissance-Palazzo an Via dei Pandolfini – Teil 8/41 (Y 67–67)
+### Schritt 10.9 – Renaissance-Palazzo an Via dei Pandolfini – Teil 9/42 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.132
@@ -305,7 +359,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Renaissance-Palazzo an Via dei Pandolfini – Teil 9/41 (Y 68–68)
+### Schritt 10.10 – Renaissance-Palazzo an Via dei Pandolfini – Teil 10/42 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.208
@@ -336,7 +390,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Renaissance-Palazzo an Via dei Pandolfini – Teil 10/41 (Y 69–69)
+### Schritt 10.11 – Renaissance-Palazzo an Via dei Pandolfini – Teil 11/42 (Y 69–69)
 
 - **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.069
@@ -367,7 +421,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Renaissance-Palazzo an Via dei Pandolfini – Teil 11/41 (Y 70–70)
+### Schritt 10.12 – Renaissance-Palazzo an Via dei Pandolfini – Teil 12/42 (Y 70–70)
 
 - **Y-Bereich:** 70 bis 70
 - **Blöcke:** 1.219
@@ -398,7 +452,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Renaissance-Palazzo an Via dei Pandolfini – Teil 12/41 (Y 71–71)
+### Schritt 10.13 – Renaissance-Palazzo an Via dei Pandolfini – Teil 13/42 (Y 71–71)
 
 - **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.220
@@ -430,7 +484,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.13 – Renaissance-Palazzo an Via dei Pandolfini – Teil 13/41 (Y 72–72)
+### Schritt 10.14 – Renaissance-Palazzo an Via dei Pandolfini – Teil 14/42 (Y 72–72)
 
 - **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.144
@@ -461,7 +515,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.14 – Renaissance-Palazzo an Via dei Pandolfini – Teil 14/41 (Y 73–73)
+### Schritt 10.15 – Renaissance-Palazzo an Via dei Pandolfini – Teil 15/42 (Y 73–73)
 
 - **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.296
@@ -492,7 +546,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.15 – Renaissance-Palazzo an Via dei Pandolfini – Teil 15/41 (Y 74–74)
+### Schritt 10.16 – Renaissance-Palazzo an Via dei Pandolfini – Teil 16/42 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.781
@@ -523,7 +577,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.16 – Renaissance-Palazzo an Via dei Pandolfini – Teil 16/41 (Y 75–75)
+### Schritt 10.17 – Renaissance-Palazzo an Via dei Pandolfini – Teil 17/42 (Y 75–75)
 
 - **Y-Bereich:** 75 bis 75
 - **Blöcke:** 1.391
@@ -554,7 +608,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.17 – Renaissance-Palazzo an Via dei Pandolfini – Teil 17/41 (Y 76–76)
+### Schritt 10.18 – Renaissance-Palazzo an Via dei Pandolfini – Teil 18/42 (Y 76–76)
 
 - **Y-Bereich:** 76 bis 76
 - **Blöcke:** 1.501
@@ -585,7 +639,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.18 – Renaissance-Palazzo an Via dei Pandolfini – Teil 18/41 (Y 77–77)
+### Schritt 10.19 – Renaissance-Palazzo an Via dei Pandolfini – Teil 19/42 (Y 77–77)
 
 - **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.271
@@ -617,7 +671,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.19 – Renaissance-Palazzo an Via dei Pandolfini – Teil 19/41 (Y 78–78)
+### Schritt 10.20 – Renaissance-Palazzo an Via dei Pandolfini – Teil 20/42 (Y 78–78)
 
 - **Y-Bereich:** 78 bis 78
 - **Blöcke:** 1.271
@@ -649,7 +703,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.20 – Renaissance-Palazzo an Via dei Pandolfini – Teil 20/41 (Y 79–79)
+### Schritt 10.21 – Renaissance-Palazzo an Via dei Pandolfini – Teil 21/42 (Y 79–79)
 
 - **Y-Bereich:** 79 bis 79
 - **Blöcke:** 1.271
@@ -681,7 +735,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.21 – Renaissance-Palazzo an Via dei Pandolfini – Teil 21/41 (Y 80–80)
+### Schritt 10.22 – Renaissance-Palazzo an Via dei Pandolfini – Teil 22/42 (Y 80–80)
 
 - **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.271
@@ -713,7 +767,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.22 – Renaissance-Palazzo an Via dei Pandolfini – Teil 22/41 (Y 81–81)
+### Schritt 10.23 – Renaissance-Palazzo an Via dei Pandolfini – Teil 23/42 (Y 81–81)
 
 - **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.271
@@ -745,7 +799,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.23 – Renaissance-Palazzo an Via dei Pandolfini – Teil 23/41 (Y 82–82)
+### Schritt 10.24 – Renaissance-Palazzo an Via dei Pandolfini – Teil 24/42 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.391
@@ -776,7 +830,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.24 – Renaissance-Palazzo an Via dei Pandolfini – Teil 24/41 (Y 83–83)
+### Schritt 10.25 – Renaissance-Palazzo an Via dei Pandolfini – Teil 25/42 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.781
@@ -805,7 +859,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.25 – Renaissance-Palazzo an Via dei Pandolfini – Teil 25/41 (Y 84–84)
+### Schritt 10.26 – Renaissance-Palazzo an Via dei Pandolfini – Teil 26/42 (Y 84–84)
 
 - **Y-Bereich:** 84 bis 84
 - **Blöcke:** 1.391
@@ -835,7 +889,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.26 – Renaissance-Palazzo an Via dei Pandolfini – Teil 26/41 (Y 85–85)
+### Schritt 10.27 – Renaissance-Palazzo an Via dei Pandolfini – Teil 27/42 (Y 85–85)
 
 - **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.501
@@ -865,7 +919,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.27 – Renaissance-Palazzo an Via dei Pandolfini – Teil 27/41 (Y 86–86)
+### Schritt 10.28 – Renaissance-Palazzo an Via dei Pandolfini – Teil 28/42 (Y 86–86)
 
 - **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.271
@@ -896,7 +950,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.28 – Renaissance-Palazzo an Via dei Pandolfini – Teil 28/41 (Y 87–87)
+### Schritt 10.29 – Renaissance-Palazzo an Via dei Pandolfini – Teil 29/42 (Y 87–87)
 
 - **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.271
@@ -927,7 +981,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.29 – Renaissance-Palazzo an Via dei Pandolfini – Teil 29/41 (Y 88–88)
+### Schritt 10.30 – Renaissance-Palazzo an Via dei Pandolfini – Teil 30/42 (Y 88–88)
 
 - **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.271
@@ -958,7 +1012,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.30 – Renaissance-Palazzo an Via dei Pandolfini – Teil 30/41 (Y 89–89)
+### Schritt 10.31 – Renaissance-Palazzo an Via dei Pandolfini – Teil 31/42 (Y 89–89)
 
 - **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.271
@@ -989,7 +1043,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.31 – Renaissance-Palazzo an Via dei Pandolfini – Teil 31/41 (Y 90–90)
+### Schritt 10.32 – Renaissance-Palazzo an Via dei Pandolfini – Teil 32/42 (Y 90–90)
 
 - **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.271
@@ -1020,7 +1074,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Renaissance-Palazzo an Via dei Pandolfini – Teil 32/41 (Y 91–91)
+### Schritt 10.33 – Renaissance-Palazzo an Via dei Pandolfini – Teil 33/42 (Y 91–91)
 
 - **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.391
@@ -1050,7 +1104,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.33 – Renaissance-Palazzo an Via dei Pandolfini – Teil 33/41 (Y 92–92)
+### Schritt 10.34 – Renaissance-Palazzo an Via dei Pandolfini – Teil 34/42 (Y 92–92)
 
 - **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.794
@@ -1081,7 +1135,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.34 – Renaissance-Palazzo an Via dei Pandolfini – Teil 34/41 (Y 93–93)
+### Schritt 10.35 – Renaissance-Palazzo an Via dei Pandolfini – Teil 35/42 (Y 93–93)
 
 - **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.794
@@ -1112,7 +1166,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.35 – Renaissance-Palazzo an Via dei Pandolfini – Teil 35/41 (Y 94–94)
+### Schritt 10.36 – Renaissance-Palazzo an Via dei Pandolfini – Teil 36/42 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.714
@@ -1140,7 +1194,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.36 – Renaissance-Palazzo an Via dei Pandolfini – Teil 36/41 (Y 94–94)
+### Schritt 10.37 – Renaissance-Palazzo an Via dei Pandolfini – Teil 37/42 (Y 94–94)
 
 - **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.706
@@ -1168,7 +1222,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.37 – Renaissance-Palazzo an Via dei Pandolfini – Teil 37/41 (Y 95–95)
+### Schritt 10.38 – Renaissance-Palazzo an Via dei Pandolfini – Teil 38/42 (Y 95–95)
 
 - **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.981
@@ -1196,7 +1250,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.38 – Renaissance-Palazzo an Via dei Pandolfini – Teil 38/41 (Y 96–96)
+### Schritt 10.39 – Renaissance-Palazzo an Via dei Pandolfini – Teil 39/42 (Y 96–96)
 
 - **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.965
@@ -1224,7 +1278,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.39 – Renaissance-Palazzo an Via dei Pandolfini – Teil 39/41 (Y 97–97)
+### Schritt 10.40 – Renaissance-Palazzo an Via dei Pandolfini – Teil 40/42 (Y 97–97)
 
 - **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.771
@@ -1253,7 +1307,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.40 – Renaissance-Palazzo an Via dei Pandolfini – Teil 40/41 (Y 98–98)
+### Schritt 10.41 – Renaissance-Palazzo an Via dei Pandolfini – Teil 41/42 (Y 98–98)
 
 - **Y-Bereich:** 98 bis 98
 - **Blöcke:** 1.313
@@ -1282,7 +1336,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.41 – Renaissance-Palazzo an Via dei Pandolfini – Teil 41/41 (Y 99–103)
+### Schritt 10.42 – Renaissance-Palazzo an Via dei Pandolfini – Teil 42/42 (Y 99–103)
 
 - **Y-Bereich:** 99 bis 103
 - **Blöcke:** 1.337
@@ -1311,7 +1365,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.42 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 1/8 (Y 63–74)
+### Schritt 10.43 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 1/8 (Y 63–74)
 
 - **Y-Bereich:** 63 bis 74
 - **Blöcke:** 1.834
@@ -1349,7 +1403,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.43 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 2/8 (Y 74–74)
+### Schritt 10.44 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 2/8 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.653
@@ -1378,7 +1432,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.44 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 3/8 (Y 74–74)
+### Schritt 10.45 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 3/8 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.733
@@ -1407,7 +1461,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.45 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 4/8 (Y 74–74)
+### Schritt 10.46 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 4/8 (Y 74–74)
 
 - **Y-Bereich:** 74 bis 74
 - **Blöcke:** 1.719
@@ -1436,7 +1490,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.46 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 5/8 (Y 75–83)
+### Schritt 10.47 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 5/8 (Y 75–83)
 
 - **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.797
@@ -1480,7 +1534,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.47 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 6/8 (Y 83–83)
+### Schritt 10.48 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 6/8 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.653
@@ -1509,7 +1563,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.48 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 7/8 (Y 83–83)
+### Schritt 10.49 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 7/8 (Y 83–83)
 
 - **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.733
@@ -1538,7 +1592,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.49 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 8/8 (Y 83–84)
+### Schritt 10.50 – Renaissance-Palazzo an Via dei Pandolfini: Innenausbau – Teil 8/8 (Y 83–84)
 
 - **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.728
@@ -1578,7 +1632,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.50 – Palazzo Salviati-Quaratesi – Teil 1/8 (Y 63–63)
+### Schritt 10.51 – Palazzo Salviati-Quaratesi – Teil 1/8 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
 - **Blöcke:** 2.047
@@ -1606,7 +1660,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.51 – Palazzo Salviati-Quaratesi – Teil 2/8 (Y 64–68)
+### Schritt 10.52 – Palazzo Salviati-Quaratesi – Teil 2/8 (Y 64–68)
 
 - **Y-Bereich:** 64 bis 68
 - **Blöcke:** 1.395
@@ -1640,7 +1694,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.52 – Palazzo Salviati-Quaratesi – Teil 3/8 (Y 69–74)
+### Schritt 10.53 – Palazzo Salviati-Quaratesi – Teil 3/8 (Y 69–74)
 
 - **Y-Bereich:** 69 bis 74
 - **Blöcke:** 1.636
@@ -1674,7 +1728,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.53 – Palazzo Salviati-Quaratesi – Teil 4/8 (Y 75–80)
+### Schritt 10.54 – Palazzo Salviati-Quaratesi – Teil 4/8 (Y 75–80)
 
 - **Y-Bereich:** 75 bis 80
 - **Blöcke:** 1.565
@@ -1706,7 +1760,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.54 – Palazzo Salviati-Quaratesi – Teil 5/8 (Y 81–86)
+### Schritt 10.55 – Palazzo Salviati-Quaratesi – Teil 5/8 (Y 81–86)
 
 - **Y-Bereich:** 81 bis 86
 - **Blöcke:** 1.657
@@ -1739,7 +1793,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.55 – Palazzo Salviati-Quaratesi – Teil 6/8 (Y 87–92)
+### Schritt 10.56 – Palazzo Salviati-Quaratesi – Teil 6/8 (Y 87–92)
 
 - **Y-Bereich:** 87 bis 92
 - **Blöcke:** 1.684
@@ -1772,7 +1826,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.56 – Palazzo Salviati-Quaratesi – Teil 7/8 (Y 93–95)
+### Schritt 10.57 – Palazzo Salviati-Quaratesi – Teil 7/8 (Y 93–95)
 
 - **Y-Bereich:** 93 bis 95
 - **Blöcke:** 1.797
@@ -1803,7 +1857,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.57 – Palazzo Salviati-Quaratesi – Teil 8/8 (Y 96–103)
+### Schritt 10.58 – Palazzo Salviati-Quaratesi – Teil 8/8 (Y 96–103)
 
 - **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.648
@@ -1832,7 +1886,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.58 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 10.59 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 1/2 (Y 63–73)
 
 - **Y-Bereich:** 63 bis 73
 - **Blöcke:** 1.828
@@ -1874,7 +1928,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.59 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 10.60 – Palazzo Salviati-Quaratesi: Innenausbau – Teil 2/2 (Y 74–84)
 
 - **Y-Bereich:** 74 bis 84
 - **Blöcke:** 1.827
@@ -1920,7 +1974,7 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.60 – Reihenhaus an Via dei Pandolfini – Teil 1/3 (Y 63–70)
+### Schritt 10.61 – Reihenhaus an Via dei Pandolfini – Teil 1/3 (Y 63–70)
 
 - **Y-Bereich:** 63 bis 70
 - **Blöcke:** 1.811
@@ -1954,7 +2008,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.61 – Reihenhaus an Via dei Pandolfini – Teil 2/3 (Y 71–81)
+### Schritt 10.62 – Reihenhaus an Via dei Pandolfini – Teil 2/3 (Y 71–81)
 
 - **Y-Bereich:** 71 bis 81
 - **Blöcke:** 1.707
@@ -1985,7 +2039,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.62 – Reihenhaus an Via dei Pandolfini – Teil 3/3 (Y 82–94)
+### Schritt 10.63 – Reihenhaus an Via dei Pandolfini – Teil 3/3 (Y 82–94)
 
 - **Y-Bereich:** 82 bis 94
 - **Blöcke:** 1.808
@@ -2018,7 +2072,7 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.63 – Reihenhaus an Via dei Pandolfini: Innenausbau
+### Schritt 10.64 – Reihenhaus an Via dei Pandolfini: Innenausbau
 
 - **Y-Bereich:** 63 bis 80
 - **Blöcke:** 1.330
@@ -2060,17 +2114,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.64 – Reihenhaus an Via Giuseppe Verdi – Teil 1/3 (Y 63–73)
+### Schritt 10.65 – Reihenhaus an Via Giuseppe Verdi – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.466
+- **Y-Bereich:** 62 bis 72
+- **Blöcke:** 1.469
 - **Bauteile:** `w306984429`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.138 |
+| Glatter Sandstein | `smooth_sandstone` | 1.141 |
 | Polierter Tuffstein | `polished_tuff` | 209 |
 | Weißer Beton | `white_concrete` | 88 |
 | Polierter Andesit | `polished_andesite` | 23 |
@@ -2092,9 +2146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.65 – Reihenhaus an Via Giuseppe Verdi – Teil 2/3 (Y 74–84)
+### Schritt 10.66 – Reihenhaus an Via Giuseppe Verdi – Teil 2/3 (Y 73–83)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 73 bis 83
 - **Blöcke:** 1.394
 - **Bauteile:** `w306984429`
 
@@ -2122,9 +2176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.66 – Reihenhaus an Via Giuseppe Verdi – Teil 3/3 (Y 85–97)
+### Schritt 10.67 – Reihenhaus an Via Giuseppe Verdi – Teil 3/3 (Y 84–96)
 
-- **Y-Bereich:** 85 bis 97
+- **Y-Bereich:** 84 bis 96
 - **Blöcke:** 1.372
 - **Bauteile:** `w306984429`
 
@@ -2154,37 +2208,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.67 – Reihenhaus an Via Giuseppe Verdi: Innenausbau & Nebengebäude an Via Giuseppe Verdi & Nebengebäude an Via Giuseppe Verdi: Innenausbau
+### Schritt 10.68 – Reihenhaus an Via Giuseppe Verdi: Innenausbau & Nebengebäude an Via Giuseppe Verdi & Nebengebäude an Via Giuseppe Verdi: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 90
-- **Blöcke:** 1.694
-- **Bauteile:** `w306984429_innen`, `w675879822`, `w675879822_innen`
+- **Y-Bereich:** 61 bis 88
+- **Blöcke:** 1.704
+- **Bauteile:** `w306984429_innen`, `w675879822`, `w675879822_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.193 |
+| Weißer Beton | `white_concrete` | 1.196 |
 | Hellgrauer Beton | `light_gray_concrete` | 140 |
 | Terrakotta | `terracotta` | 138 |
 | Polierter Tuffstein | `polished_tuff` | 114 |
 | Graues Buntglas | `gray_stained_glass` | 87 |
 | Glatter Stein | `smooth_stone` | 16 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
 | Ziegelsteine | `bricks` | 3 |
 | Seelaterne | `sea_lantern` | 3 |
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Nebengebäude (19.–20. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Nebengebäude (19.–20. Jh.), 3 Geschosse, Putzfarbe Weiß. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

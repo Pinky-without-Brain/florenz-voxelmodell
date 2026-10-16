@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 21.689 |
 | Bauschritte | 12 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 55 bis 96 |
 | X-Ausdehnung | -2246 bis -2185 (62 Blöcke) |
 | Z-Ausdehnung | -589 bis -526 (64 Blöcke) |
 | Kleinster Schritt | 1.484 Blöcke (Schritt 34.7) |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 34.1 – Reihenhaus an Via Bernardo Rucellai – Teil 1/9 (Y 63–63)
+### Schritt 34.1 – Reihenhaus an Via Bernardo Rucellai – Teil 1/9 (Y 55–55)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 55 bis 55
 - **Blöcke:** 2.042
 - **Bauteile:** `w481378987`
 
@@ -79,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.2 – Reihenhaus an Via Bernardo Rucellai – Teil 2/9 (Y 64–67)
+### Schritt 34.2 – Reihenhaus an Via Bernardo Rucellai – Teil 2/9 (Y 56–59)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 56 bis 59
 - **Blöcke:** 1.525
 - **Bauteile:** `w481378987`
 
@@ -109,9 +109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.3 – Reihenhaus an Via Bernardo Rucellai – Teil 3/9 (Y 68–72)
+### Schritt 34.3 – Reihenhaus an Via Bernardo Rucellai – Teil 3/9 (Y 60–64)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 60 bis 64
 - **Blöcke:** 1.902
 - **Bauteile:** `w481378987`
 
@@ -139,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.4 – Reihenhaus an Via Bernardo Rucellai – Teil 4/9 (Y 73–77)
+### Schritt 34.4 – Reihenhaus an Via Bernardo Rucellai – Teil 4/9 (Y 65–69)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.889
 - **Bauteile:** `w481378987`
 
@@ -169,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.5 – Reihenhaus an Via Bernardo Rucellai – Teil 5/9 (Y 78–82)
+### Schritt 34.5 – Reihenhaus an Via Bernardo Rucellai – Teil 5/9 (Y 70–74)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.919
 - **Bauteile:** `w481378987`
 
@@ -199,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.6 – Reihenhaus an Via Bernardo Rucellai – Teil 6/9 (Y 83–87)
+### Schritt 34.6 – Reihenhaus an Via Bernardo Rucellai – Teil 6/9 (Y 75–79)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.919
 - **Bauteile:** `w481378987`
 
@@ -229,9 +229,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.7 – Reihenhaus an Via Bernardo Rucellai – Teil 7/9 (Y 88–91)
+### Schritt 34.7 – Reihenhaus an Via Bernardo Rucellai – Teil 7/9 (Y 80–83)
 
-- **Y-Bereich:** 88 bis 91
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.484
 - **Bauteile:** `w481378987`
 
@@ -259,9 +259,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.8 – Reihenhaus an Via Bernardo Rucellai – Teil 8/9 (Y 92–94)
+### Schritt 34.8 – Reihenhaus an Via Bernardo Rucellai – Teil 8/9 (Y 84–86)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 84 bis 86
 - **Blöcke:** 1.885
 - **Bauteile:** `w481378987`
 
@@ -289,9 +289,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.9 – Reihenhaus an Via Bernardo Rucellai – Teil 9/9 (Y 95–104)
+### Schritt 34.9 – Reihenhaus an Via Bernardo Rucellai – Teil 9/9 (Y 87–96)
 
-- **Y-Bereich:** 95 bis 104
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 2.011
 - **Bauteile:** `w481378987`
 
@@ -318,9 +318,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 34.10 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 34.10 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 1/3 (Y 55–64)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 55 bis 64
 - **Blöcke:** 1.713
 - **Bauteile:** `w481378987_innen`
 
@@ -358,9 +358,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.11 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 34.11 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 2/3 (Y 65–71)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 1.698
 - **Bauteile:** `w481378987_innen`
 
@@ -398,9 +398,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 34.12 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 34.12 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 3/3 (Y 72–79)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 72 bis 79
 - **Blöcke:** 1.702
 - **Bauteile:** `w481378987_innen`
 

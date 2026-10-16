@@ -1,0 +1,36 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den ganzen Block bis Y 100: zur Piazza Santissima Annunziata weiß verputzt über einem Sockel aus Pietra serena, die übrigen Seiten in rötlichem Putz mit Steinbändern. Gesimse aus Pietra serena trennen die Geschosse (Y 86). Zur Piazza öffnet sich im Erdgeschoss die Loggia mit neun Rundbögen; durch Türen in ihrer Rückwand geht es hinein.",
+      "tip": "Zwei Blöcke dick: außen Stein, innen Putz.",
+      "caution": "Lass die Portale frei.",
+      "fact": "Filippo Brunelleschi entwarf das Findelhaus; es gilt als erster Bau der Renaissance."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Über jedem Bogen der Loggia sitzt ein Fenster (Y 90 bis 96); auch die übrigen Seiten haben Fenster im gleichen Raster, im Erdgeschoss ab Y 75.",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die Fenster über den Bögen tragen kleine Dreiecksgiebel."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Pietra serena die Fassade ab (Y 99 bis 100).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Das Gesims über der Loggia läuft über die ganze Front."
+    },
+    "portikus": {
+      "title": "Loggia",
+      "description": "Zur Piazza hin trägt eine Reihe aus Säulen und Bögen aus Pietra serena das Obergeschoss: neun Rundbögen (Kämpfer Y 79, Scheitel Y 85), dazwischen blau-weiße Medaillons; die Rückwand der Loggia hat Türen.",
+      "tip": "Erst die Säulenreihe, dann die Bögen und die Rückwand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Die Loggia ist etwa 70 Meter lang und war das erste große Werk Brunelleschis."
+    }
+  }
+}

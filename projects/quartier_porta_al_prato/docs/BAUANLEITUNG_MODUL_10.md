@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 10.895 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 56 bis 94 |
 | X-Ausdehnung | -2777 bis -2734 (44 Blöcke) |
 | Z-Ausdehnung | -1023 bis -983 (41 Blöcke) |
 | Kleinster Schritt | 1.735 Blöcke (Schritt 10.1) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 10.1 – Porta al Prato – Teil 1/5 (Y 63–67)
+### Schritt 10.1 – Porta al Prato – Teil 1/5 (Y 56–60)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 56 bis 60
 - **Blöcke:** 1.735
 - **Bauteile:** `w72915039`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Porta al Prato – Teil 2/5 (Y 68–75)
+### Schritt 10.2 – Porta al Prato – Teil 2/5 (Y 61–68)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 61 bis 68
 - **Blöcke:** 1.862
 - **Bauteile:** `w72915039`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Porta al Prato – Teil 3/5 (Y 76–83)
+### Schritt 10.3 – Porta al Prato – Teil 3/5 (Y 69–76)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 69 bis 76
 - **Blöcke:** 1.849
 - **Bauteile:** `w72915039`
 
@@ -143,9 +143,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Porta al Prato – Teil 4/5 (Y 84–91)
+### Schritt 10.4 – Porta al Prato – Teil 4/5 (Y 77–84)
 
-- **Y-Bereich:** 84 bis 91
+- **Y-Bereich:** 77 bis 84
 - **Blöcke:** 1.849
 - **Bauteile:** `w72915039`
 
@@ -173,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Porta al Prato – Teil 5/5 (Y 92–101)
+### Schritt 10.5 – Porta al Prato – Teil 5/5 (Y 85–94)
 
-- **Y-Bereich:** 92 bis 101
+- **Y-Bereich:** 85 bis 94
 - **Blöcke:** 1.749
 - **Bauteile:** `w72915039`
 
@@ -205,7 +205,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 10.6 – Porta al Prato: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 1.851
 - **Bauteile:** `w72915039_innen`
 

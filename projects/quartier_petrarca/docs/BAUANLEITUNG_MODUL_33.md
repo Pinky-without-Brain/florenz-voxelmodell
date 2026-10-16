@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.216 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 87 |
+| Y-Bereich | 64 bis 88 |
 | X-Ausdehnung | -2663 bis -2630 (34 Blöcke) |
 | Z-Ausdehnung | 1850 bis 1887 (38 Blöcke) |
 | Kleinster Schritt | 782 Blöcke (Schritt 33.5) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 33.1 – villino lampredi – Teil 1/4 (Y 63–66)
+### Schritt 33.1 – villino lampredi – Teil 1/4 (Y 64–67)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 64 bis 67
 - **Blöcke:** 1.665
 - **Bauteile:** `w461683371`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.2 – villino lampredi – Teil 2/4 (Y 67–72)
+### Schritt 33.2 – villino lampredi – Teil 2/4 (Y 68–73)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 1.439
 - **Bauteile:** `w461683371`
 
@@ -117,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.3 – villino lampredi – Teil 3/4 (Y 73–79)
+### Schritt 33.3 – villino lampredi – Teil 3/4 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.722
 - **Bauteile:** `w461683371`
 
@@ -148,9 +148,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.4 – villino lampredi – Teil 4/4 (Y 80–87)
+### Schritt 33.4 – villino lampredi – Teil 4/4 (Y 81–88)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 81 bis 88
 - **Blöcke:** 1.608
 - **Bauteile:** `w461683371`
 
@@ -180,7 +180,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.5 – villino lampredi: Innenausbau
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 782
 - **Bauteile:** `w461683371_innen`
 

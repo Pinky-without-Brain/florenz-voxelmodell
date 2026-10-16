@@ -8,46 +8,64 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.385 |
+| Blöcke | 4.058 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 79 |
+| Y-Bereich | 132 bis 152 |
 | X-Ausdehnung | 1068 bis 1095 (28 Blöcke) |
 | Z-Ausdehnung | 2321 bis 2357 (37 Blöcke) |
-| Kleinster Schritt | 1.689 Blöcke (Schritt 35.2) |
-| Mittlerer Schritt | 1.693 Blöcke |
-| Größter Schritt | 1.696 Blöcke (Schritt 35.1) |
+| Kleinster Schritt | 1.977 Blöcke (Schritt 35.1) |
+| Mittlerer Schritt | 2.029 Blöcke |
+| Größter Schritt | 2.081 Blöcke (Schritt 35.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 2.042 | 60,3 % |
-| Terrakotta | `terracotta` | 748 | 22,1 % |
-| Polierter Tuffstein | `polished_tuff` | 556 | 16,4 % |
-| Ziegelsteine | `bricks` | 36 | 1,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.042 | 50,3 % |
+| Terrakotta | `terracotta` | 748 | 18,4 % |
+| Tuffstein | `tuff` | 671 | 16,5 % |
+| Polierter Tuffstein | `polished_tuff` | 538 | 13,3 % |
+| Ziegelsteine | `bricks` | 36 | 0,9 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 15 | 0,4 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 | 0,1 % |
 | Seelaterne | `sea_lantern` | 3 | 0,1 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762550` | Nebengebäude an Via di San Salvatore al Monte | 3.382 | 35.1–35.2 |
+| 1 | `w119762550` | Nebengebäude an Via di San Salvatore al Monte | 4.055 | 35.1–35.2 |
 | 2 | `w119762550_innen` | Nebengebäude an Via di San Salvatore al Monte: Innenausbau | 3 | 35.2 |
 
 ## Bauschritte
 
-### Schritt 35.1 – Nebengebäude an Via di San Salvatore al Monte – Teil 1/2 (Y 63–69)
+### Schritt 35.1 – Nebengebäude an Via di San Salvatore al Monte – Teil 1/2 (Y 132–140)
 
-- **Y-Bereich:** 63 bis 69
-- **Blöcke:** 1.696
+- **Y-Bereich:** 132 bis 140
+- **Blöcke:** 1.977
 - **Bauteile:** `w119762550`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.140 |
-| Polierter Tuffstein | `polished_tuff` | 556 |
+| Glatter Sandstein | `smooth_sandstone` | 748 |
+| Tuffstein | `tuff` | 671 |
+| Polierter Tuffstein | `polished_tuff` | 538 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Osten | `polished_tuff_stairs@o` | 15 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 5 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 20 |
 
 **Beschreibung**
 
@@ -65,17 +83,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 35.2 – Nebengebäude an Via di San Salvatore al Monte – Teil 2/2 (Y 70–79) & Nebengebäude an Via di San Salvatore al Monte: Innenausbau
+### Schritt 35.2 – Nebengebäude an Via di San Salvatore al Monte – Teil 2/2 (Y 141–152) & Nebengebäude an Via di San Salvatore al Monte: Innenausbau
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.689
+- **Y-Bereich:** 136 bis 152
+- **Blöcke:** 2.081
 - **Bauteile:** `w119762550`, `w119762550_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 902 |
+| Glatter Sandstein | `smooth_sandstone` | 1.294 |
 | Terrakotta | `terracotta` | 748 |
 | Ziegelsteine | `bricks` | 36 |
 | Seelaterne | `sea_lantern` | 3 |

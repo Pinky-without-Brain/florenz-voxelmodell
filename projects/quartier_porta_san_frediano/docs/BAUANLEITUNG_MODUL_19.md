@@ -8,39 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.135 |
+| Blöcke | 2.141 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 57 bis 89 |
 | X-Ausdehnung | -2942 bis -2927 (16 Blöcke) |
 | Z-Ausdehnung | 951 bis 963 (13 Blöcke) |
 | Kleinster Schritt | 1.057 Blöcke (Schritt 19.2) |
-| Mittlerer Schritt | 1.068 Blöcke |
-| Größter Schritt | 1.078 Blöcke (Schritt 19.1) |
+| Mittlerer Schritt | 1.071 Blöcke |
+| Größter Schritt | 1.084 Blöcke (Schritt 19.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.719 | 80,5 % |
+| Glatter Sandstein | `smooth_sandstone` | 1.719 | 80,3 % |
 | Grüner Beton | `green_concrete` | 132 | 6,2 % |
-| Graues Buntglas | `gray_stained_glass` | 110 | 5,2 % |
+| Graues Buntglas | `gray_stained_glass` | 110 | 5,1 % |
 | Terrakotta | `terracotta` | 103 | 4,8 % |
 | Polierter Tuffstein | `polished_tuff` | 70 | 3,3 % |
+| Tuffstein | `tuff` | 6 | 0,3 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118944094` | Nebengebäude an Via Francesco Berni | 2.134 | 19.1–19.2 |
+| 1 | `w118944094` | Nebengebäude an Via Francesco Berni | 2.140 | 19.1–19.2 |
 | 2 | `w118944094_innen` | Nebengebäude an Via Francesco Berni: Innenausbau | 1 | 19.2 |
 
 ## Bauschritte
 
-### Schritt 19.1 – Nebengebäude an Via Francesco Berni – Teil 1/2 (Y 63–79)
+### Schritt 19.1 – Nebengebäude an Via Francesco Berni – Teil 1/2 (Y 57–74)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.078
+- **Y-Bereich:** 57 bis 74
+- **Blöcke:** 1.084
 - **Bauteile:** `w118944094`
 
 **Teileliste**
@@ -51,6 +52,7 @@
 | Polierter Tuffstein | `polished_tuff` | 70 |
 | Grüner Beton | `green_concrete` | 48 |
 | Graues Buntglas | `gray_stained_glass` | 40 |
+| Tuffstein | `tuff` | 6 |
 
 **Beschreibung**
 
@@ -68,9 +70,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 19.2 – Nebengebäude an Via Francesco Berni – Teil 2/2 (Y 80–94) & Nebengebäude an Via Francesco Berni: Innenausbau
+### Schritt 19.2 – Nebengebäude an Via Francesco Berni – Teil 2/2 (Y 75–89) & Nebengebäude an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 58 bis 89
 - **Blöcke:** 1.057
 - **Bauteile:** `w118944094`, `w118944094_innen`
 

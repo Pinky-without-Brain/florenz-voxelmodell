@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 3.087 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 61 bis 95 |
 | X-Ausdehnung | -2854 bis -2838 (17 Blöcke) |
 | Z-Ausdehnung | 1494 bis 1514 (21 Blöcke) |
 | Kleinster Schritt | 1.526 Blöcke (Schritt 14.2) |
@@ -38,9 +38,9 @@
 
 ## Bauschritte
 
-### Schritt 14.1 – Reihenhaus an Via San Francesco di Paola – Teil 1/2 (Y 63–79)
+### Schritt 14.1 – Reihenhaus an Via San Francesco di Paola – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.561
 - **Bauteile:** `w464120063`
 
@@ -69,9 +69,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 14.2 – Reihenhaus an Via San Francesco di Paola – Teil 2/2 (Y 80–97) & Reihenhaus an Via San Francesco di Paola: Innenausbau
+### Schritt 14.2 – Reihenhaus an Via San Francesco di Paola – Teil 2/2 (Y 78–95) & Reihenhaus an Via San Francesco di Paola: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 61 bis 95
 - **Blöcke:** 1.526
 - **Bauteile:** `w464120063`, `w464120063_innen`
 

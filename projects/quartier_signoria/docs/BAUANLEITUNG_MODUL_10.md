@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 32.038 |
+| Blöcke | 32.041 |
 | Bauschritte | 23 |
-| Y-Bereich | 63 bis 107 |
+| Y-Bereich | 66 bis 110 |
 | X-Ausdehnung | -386 bis -338 (49 Blöcke) |
 | Z-Ausdehnung | 578 bis 651 (74 Blöcke) |
 | Kleinster Schritt | 920 Blöcke (Schritt 10.16) |
@@ -37,6 +37,8 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 | 0,0 % |
 
@@ -53,12 +55,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r1594048` | Renaissance-Palazzo an Calimala | 25.380 | 10.1–10.17 |
 | 2 | `r1594048_innen` | Renaissance-Palazzo an Calimala: Innenausbau | 6.658 | 10.18–10.23 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 10.23 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Renaissance-Palazzo an Calimala – Teil 1/17 (Y 63–63)
+### Schritt 10.1 – Renaissance-Palazzo an Calimala – Teil 1/17 (Y 66–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.335
 - **Bauteile:** `r1594048`
 
@@ -84,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Renaissance-Palazzo an Calimala – Teil 2/17 (Y 63–64)
+### Schritt 10.2 – Renaissance-Palazzo an Calimala – Teil 2/17 (Y 66–67)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.803
 - **Bauteile:** `r1594048`
 
@@ -116,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Renaissance-Palazzo an Calimala – Teil 3/17 (Y 65–67)
+### Schritt 10.3 – Renaissance-Palazzo an Calimala – Teil 3/17 (Y 68–70)
 
-- **Y-Bereich:** 65 bis 67
+- **Y-Bereich:** 68 bis 70
 - **Blöcke:** 1.434
 - **Bauteile:** `r1594048`
 
@@ -148,9 +151,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Renaissance-Palazzo an Calimala – Teil 4/17 (Y 68–70)
+### Schritt 10.4 – Renaissance-Palazzo an Calimala – Teil 4/17 (Y 71–73)
 
-- **Y-Bereich:** 68 bis 70
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 1.310
 - **Bauteile:** `r1594048`
 
@@ -180,9 +183,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Renaissance-Palazzo an Calimala – Teil 5/17 (Y 71–73)
+### Schritt 10.5 – Renaissance-Palazzo an Calimala – Teil 5/17 (Y 74–76)
 
-- **Y-Bereich:** 71 bis 73
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.400
 - **Bauteile:** `r1594048`
 
@@ -212,9 +215,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Renaissance-Palazzo an Calimala – Teil 6/17 (Y 74–76)
+### Schritt 10.6 – Renaissance-Palazzo an Calimala – Teil 6/17 (Y 77–79)
 
-- **Y-Bereich:** 74 bis 76
+- **Y-Bereich:** 77 bis 79
 - **Blöcke:** 1.707
 - **Bauteile:** `r1594048`
 
@@ -243,9 +246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Renaissance-Palazzo an Calimala – Teil 7/17 (Y 77–79)
+### Schritt 10.7 – Renaissance-Palazzo an Calimala – Teil 7/17 (Y 80–82)
 
-- **Y-Bereich:** 77 bis 79
+- **Y-Bereich:** 80 bis 82
 - **Blöcke:** 1.263
 - **Bauteile:** `r1594048`
 
@@ -274,9 +277,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Renaissance-Palazzo an Calimala – Teil 8/17 (Y 80–82)
+### Schritt 10.8 – Renaissance-Palazzo an Calimala – Teil 8/17 (Y 83–85)
 
-- **Y-Bereich:** 80 bis 82
+- **Y-Bereich:** 83 bis 85
 - **Blöcke:** 1.575
 - **Bauteile:** `r1594048`
 
@@ -305,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Renaissance-Palazzo an Calimala – Teil 9/17 (Y 83–85)
+### Schritt 10.9 – Renaissance-Palazzo an Calimala – Teil 9/17 (Y 86–88)
 
-- **Y-Bereich:** 83 bis 85
+- **Y-Bereich:** 86 bis 88
 - **Blöcke:** 1.473
 - **Bauteile:** `r1594048`
 
@@ -336,9 +339,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Renaissance-Palazzo an Calimala – Teil 10/17 (Y 86–89)
+### Schritt 10.10 – Renaissance-Palazzo an Calimala – Teil 10/17 (Y 89–92)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 89 bis 92
 - **Blöcke:** 1.712
 - **Bauteile:** `r1594048`
 
@@ -367,9 +370,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Renaissance-Palazzo an Calimala – Teil 11/17 (Y 90–92)
+### Schritt 10.11 – Renaissance-Palazzo an Calimala – Teil 11/17 (Y 93–95)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 93 bis 95
 - **Blöcke:** 1.650
 - **Bauteile:** `r1594048`
 
@@ -397,9 +400,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Renaissance-Palazzo an Calimala – Teil 12/17 (Y 93–95)
+### Schritt 10.12 – Renaissance-Palazzo an Calimala – Teil 12/17 (Y 96–98)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 96 bis 98
 - **Blöcke:** 1.391
 - **Bauteile:** `r1594048`
 
@@ -428,9 +431,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.13 – Renaissance-Palazzo an Calimala – Teil 13/17 (Y 96–98)
+### Schritt 10.13 – Renaissance-Palazzo an Calimala – Teil 13/17 (Y 99–101)
 
-- **Y-Bereich:** 96 bis 98
+- **Y-Bereich:** 99 bis 101
 - **Blöcke:** 1.460
 - **Bauteile:** `r1594048`
 
@@ -459,9 +462,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.14 – Renaissance-Palazzo an Calimala – Teil 14/17 (Y 99–100)
+### Schritt 10.14 – Renaissance-Palazzo an Calimala – Teil 14/17 (Y 102–103)
 
-- **Y-Bereich:** 99 bis 100
+- **Y-Bereich:** 102 bis 103
 - **Blöcke:** 1.846
 - **Bauteile:** `r1594048`
 
@@ -489,9 +492,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.15 – Renaissance-Palazzo an Calimala – Teil 15/17 (Y 101–101)
+### Schritt 10.15 – Renaissance-Palazzo an Calimala – Teil 15/17 (Y 104–104)
 
-- **Y-Bereich:** 101 bis 101
+- **Y-Bereich:** 104 bis 104
 - **Blöcke:** 1.513
 - **Bauteile:** `r1594048`
 
@@ -517,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.16 – Renaissance-Palazzo an Calimala – Teil 16/17 (Y 102–102)
+### Schritt 10.16 – Renaissance-Palazzo an Calimala – Teil 16/17 (Y 105–105)
 
-- **Y-Bereich:** 102 bis 102
+- **Y-Bereich:** 105 bis 105
 - **Blöcke:** 920
 - **Bauteile:** `r1594048`
 
@@ -545,9 +548,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.17 – Renaissance-Palazzo an Calimala – Teil 17/17 (Y 103–107)
+### Schritt 10.17 – Renaissance-Palazzo an Calimala – Teil 17/17 (Y 106–110)
 
-- **Y-Bereich:** 103 bis 107
+- **Y-Bereich:** 106 bis 110
 - **Blöcke:** 1.588
 - **Bauteile:** `r1594048`
 
@@ -574,9 +577,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.18 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 1/6 (Y 63–74)
+### Schritt 10.18 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 1/6 (Y 66–77)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 66 bis 77
 - **Blöcke:** 1.140
 - **Bauteile:** `r1594048_innen`
 
@@ -616,9 +619,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.19 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 2/6 (Y 74–74)
+### Schritt 10.19 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 2/6 (Y 77–77)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 77 bis 77
 - **Blöcke:** 1.087
 - **Bauteile:** `r1594048_innen`
 
@@ -645,9 +648,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.20 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 3/6 (Y 75–82)
+### Schritt 10.20 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 3/6 (Y 78–85)
 
-- **Y-Bereich:** 75 bis 82
+- **Y-Bereich:** 78 bis 85
 - **Blöcke:** 1.122
 - **Bauteile:** `r1594048_innen`
 
@@ -689,9 +692,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.21 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 4/6 (Y 82–82)
+### Schritt 10.21 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 4/6 (Y 85–85)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 85 bis 85
 - **Blöcke:** 1.087
 - **Bauteile:** `r1594048_innen`
 
@@ -718,9 +721,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.22 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 5/6 (Y 83–91)
+### Schritt 10.22 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 5/6 (Y 86–94)
 
-- **Y-Bereich:** 83 bis 91
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.126
 - **Bauteile:** `r1594048_innen`
 
@@ -762,11 +765,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.23 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 6/6 (Y 91–92)
+### Schritt 10.23 – Renaissance-Palazzo an Calimala: Innenausbau – Teil 6/6 (Y 94–95) & Straßenschilder
 
-- **Y-Bereich:** 91 bis 92
-- **Blöcke:** 1.096
-- **Bauteile:** `r1594048_innen`
+- **Y-Bereich:** 72 bis 95
+- **Blöcke:** 1.099
+- **Bauteile:** `r1594048_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -776,6 +779,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Seelaterne | `sea_lantern` | 7 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
@@ -788,16 +793,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

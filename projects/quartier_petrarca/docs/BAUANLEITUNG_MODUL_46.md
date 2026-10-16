@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 6.839 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 73 bis 109 |
 | X-Ausdehnung | -2420 bis -2388 (33 Blöcke) |
 | Z-Ausdehnung | 1759 bis 1792 (34 Blöcke) |
 | Kleinster Schritt | 886 Blöcke (Schritt 46.4) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 46.1 – il Torrino del Giardino Torrigiani – Teil 1/3 (Y 63–73)
+### Schritt 46.1 – il Torrino del Giardino Torrigiani – Teil 1/3 (Y 73–83)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 73 bis 83
 - **Blöcke:** 2.005
 - **Bauteile:** `w443951668`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.2 – il Torrino del Giardino Torrigiani – Teil 2/3 (Y 74–85)
+### Schritt 46.2 – il Torrino del Giardino Torrigiani – Teil 2/3 (Y 84–95)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 84 bis 95
 - **Blöcke:** 1.884
 - **Bauteile:** `w443951668`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.3 – il Torrino del Giardino Torrigiani – Teil 3/3 (Y 86–99)
+### Schritt 46.3 – il Torrino del Giardino Torrigiani – Teil 3/3 (Y 96–109)
 
-- **Y-Bereich:** 86 bis 99
+- **Y-Bereich:** 96 bis 109
 - **Blöcke:** 2.064
 - **Bauteile:** `w443951668`
 
@@ -146,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 46.4 – il Torrino del Giardino Torrigiani: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 73 bis 96
 - **Blöcke:** 886
 - **Bauteile:** `w443951668_innen`
 

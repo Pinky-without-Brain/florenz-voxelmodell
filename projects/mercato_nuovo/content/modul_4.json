@@ -1,0 +1,22 @@
+{
+  "module": 4,
+  "title": "Porcellino und Licht",
+  "subtitle": "Bautüte 4: der Bronzeeber und die Beleuchtung",
+  "icon": "🐗",
+  "parts": {
+    "porcellino": {
+      "title": "Fontana del Porcellino",
+      "description": "An der Südseite steht der kleine Bronzeeber auf einem Sockel aus Pietra serena.",
+      "tip": "Zwei Blöcke hoch.",
+      "caution": "Davor bleibt Platz.",
+      "fact": "Pietro Tacca goss den Eber 1633; wer seine Schnauze reibt, soll nach Florenz zurückkehren."
+    },
+    "licht": {
+      "title": "Licht",
+      "description": "Im Boden setzt du Seelaternen im Raster von 12 Blöcken.",
+      "tip": "Ersetze dazu einen Pflasterstein.",
+      "caution": "Nicht unter Säulen setzen.",
+      "fact": "So ist die Halle auch abends hell."
+    }
+  }
+}

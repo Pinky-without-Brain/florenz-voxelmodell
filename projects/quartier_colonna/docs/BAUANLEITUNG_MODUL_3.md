@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 22.192 |
 | Bauschritte | 12 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 71 bis 111 |
 | X-Ausdehnung | 762 bis 833 (72 Blöcke) |
 | Z-Ausdehnung | -1463 bis -1391 (73 Blöcke) |
 | Kleinster Schritt | 1.177 Blöcke (Schritt 3.1) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 3.1 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 1/10 (Y 63–63)
+### Schritt 3.1 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 1/10 (Y 71–71)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.177
 - **Bauteile:** `w112933663`
 
@@ -78,9 +78,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 2/10 (Y 63–65)
+### Schritt 3.2 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 2/10 (Y 71–73)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 71 bis 73
 - **Blöcke:** 2.029
 - **Bauteile:** `w112933663`
 
@@ -111,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 3/10 (Y 66–70)
+### Schritt 3.3 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 3/10 (Y 74–78)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 2.021
 - **Bauteile:** `w112933663`
 
@@ -144,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 4/10 (Y 71–75)
+### Schritt 3.4 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 4/10 (Y 79–83)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 2.050
 - **Bauteile:** `w112933663`
 
@@ -175,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.5 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 5/10 (Y 76–80)
+### Schritt 3.5 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 5/10 (Y 84–88)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 84 bis 88
 - **Blöcke:** 1.950
 - **Bauteile:** `w112933663`
 
@@ -206,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.6 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 6/10 (Y 81–84)
+### Schritt 3.6 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 6/10 (Y 89–92)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 89 bis 92
 - **Blöcke:** 1.640
 - **Bauteile:** `w112933663`
 
@@ -237,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 7/10 (Y 85–89)
+### Schritt 3.7 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 7/10 (Y 93–97)
 
-- **Y-Bereich:** 85 bis 89
+- **Y-Bereich:** 93 bis 97
 - **Blöcke:** 1.970
 - **Bauteile:** `w112933663`
 
@@ -268,9 +268,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 8/10 (Y 90–93)
+### Schritt 3.8 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 8/10 (Y 98–101)
 
-- **Y-Bereich:** 90 bis 93
+- **Y-Bereich:** 98 bis 101
 - **Blöcke:** 1.956
 - **Bauteile:** `w112933663`
 
@@ -300,9 +300,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.9 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 9/10 (Y 94–95)
+### Schritt 3.9 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 9/10 (Y 102–103)
 
-- **Y-Bereich:** 94 bis 95
+- **Y-Bereich:** 102 bis 103
 - **Blöcke:** 1.518
 - **Bauteile:** `w112933663`
 
@@ -328,9 +328,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.10 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 10/10 (Y 96–103)
+### Schritt 3.10 – Palazzo des Cinquecento an Via Pier Antonio Micheli – Teil 10/10 (Y 104–111)
 
-- **Y-Bereich:** 96 bis 103
+- **Y-Bereich:** 104 bis 111
 - **Blöcke:** 1.876
 - **Bauteile:** `w112933663`
 
@@ -357,9 +357,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.11 – Palazzo des Cinquecento an Via Pier Antonio Micheli: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 3.11 – Palazzo des Cinquecento an Via Pier Antonio Micheli: Innenausbau – Teil 1/2 (Y 71–81)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 71 bis 81
 - **Blöcke:** 2.008
 - **Bauteile:** `w112933663_innen`
 
@@ -395,9 +395,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.12 – Palazzo des Cinquecento an Via Pier Antonio Micheli: Innenausbau – Teil 2/2 (Y 74–83)
+### Schritt 3.12 – Palazzo des Cinquecento an Via Pier Antonio Micheli: Innenausbau – Teil 2/2 (Y 82–91)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 82 bis 91
 - **Blöcke:** 1.997
 - **Bauteile:** `w112933663_innen`
 

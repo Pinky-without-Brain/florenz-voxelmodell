@@ -8,26 +8,27 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 3.541 |
+| Blöcke | 3.675 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 157 bis 196 |
 | X-Ausdehnung | 246 bis 263 (18 Blöcke) |
 | Z-Ausdehnung | 2231 bis 2242 (12 Blöcke) |
 | Kleinster Schritt | 351 Blöcke (Schritt 27.3) |
-| Mittlerer Schritt | 1.180 Blöcke |
-| Größter Schritt | 1.640 Blöcke (Schritt 27.2) |
+| Mittlerer Schritt | 1.225 Blöcke |
+| Größter Schritt | 1.684 Blöcke (Schritt 27.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 2.170 | 61,3 % |
-| Weißer Beton | `white_concrete` | 451 | 12,7 % |
-| Terrakotta | `terracotta` | 428 | 12,1 % |
-| Polierter Tuffstein | `polished_tuff` | 180 | 5,1 % |
-| Graues Buntglas | `gray_stained_glass` | 144 | 4,1 % |
+| Endsteinziegel | `end_stone_bricks` | 2.170 | 59,0 % |
+| Weißer Beton | `white_concrete` | 451 | 12,3 % |
+| Terrakotta | `terracotta` | 428 | 11,6 % |
+| Polierter Tuffstein | `polished_tuff` | 180 | 4,9 % |
+| Graues Buntglas | `gray_stained_glass` | 144 | 3,9 % |
+| Tuffstein | `tuff` | 134 | 3,6 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 1,9 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,8 % |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 27 | 0,7 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 25 | 0,7 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,5 % |
 | Polierter Andesit | `polished_andesite` | 11 | 0,3 % |
@@ -48,15 +49,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w707346992` | Reihenhaus an Via di Belvedere | 3.190 | 27.1–27.2 |
+| 1 | `w707346992` | Reihenhaus an Via di Belvedere | 3.324 | 27.1–27.2 |
 | 2 | `w707346992_innen` | Reihenhaus an Via di Belvedere: Innenausbau | 351 | 27.3 |
 
 ## Bauschritte
 
-### Schritt 27.1 – Reihenhaus an Via di Belvedere – Teil 1/2 (Y 63–78)
+### Schritt 27.1 – Reihenhaus an Via di Belvedere – Teil 1/2 (Y 157–176)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.550
+- **Y-Bereich:** 157 bis 176
+- **Blöcke:** 1.684
 - **Bauteile:** `w707346992`
 
 **Teileliste**
@@ -66,6 +67,7 @@
 | Endsteinziegel | `end_stone_bricks` | 1.060 |
 | Weißer Beton | `white_concrete` | 206 |
 | Polierter Tuffstein | `polished_tuff` | 180 |
+| Tuffstein | `tuff` | 134 |
 | Graues Buntglas | `gray_stained_glass` | 74 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Polierter Andesit | `polished_andesite` | 11 |
@@ -86,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 27.2 – Reihenhaus an Via di Belvedere – Teil 2/2 (Y 79–98)
+### Schritt 27.2 – Reihenhaus an Via di Belvedere – Teil 2/2 (Y 177–196)
 
-- **Y-Bereich:** 79 bis 98
+- **Y-Bereich:** 177 bis 196
 - **Blöcke:** 1.640
 - **Bauteile:** `w707346992`
 
@@ -120,7 +122,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 27.3 – Reihenhaus an Via di Belvedere: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 161 bis 185
 - **Blöcke:** 351
 - **Bauteile:** `w707346992_innen`
 

@@ -8,82 +8,93 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 40.034 |
-| Bauschritte | 24 |
-| Y-Bereich | 63 bis 102 |
+| Blöcke | 39.770 |
+| Bauschritte | 23 |
+| Y-Bereich | 140 bis 189 |
 | X-Ausdehnung | -187 bis -112 (76 Blöcke) |
 | Z-Ausdehnung | 1848 bis 1953 (106 Blöcke) |
 | Kleinster Schritt | 562 Blöcke (Schritt 22.11) |
-| Mittlerer Schritt | 1.668 Blöcke |
+| Mittlerer Schritt | 1.729 Blöcke |
 | Größter Schritt | 2.082 Blöcke (Schritt 22.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 11.240 | 28,1 % |
-| Terrakotta | `terracotta` | 9.925 | 24,8 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.833 | 17,1 % |
-| Polierter Tuffstein | `polished_tuff` | 3.166 | 7,9 % |
-| Glatter Stein | `smooth_stone` | 2.661 | 6,6 % |
-| Glatter Sandstein | `smooth_sandstone` | 2.003 | 5,0 % |
+| Endsteinziegel | `end_stone_bricks` | 11.406 | 28,7 % |
+| Terrakotta | `terracotta` | 9.361 | 23,5 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.833 | 17,2 % |
+| Polierter Tuffstein | `polished_tuff` | 3.152 | 7,9 % |
+| Glatter Stein | `smooth_stone` | 2.621 | 6,6 % |
+| Glatter Sandstein | `smooth_sandstone` | 2.203 | 5,5 % |
 | Weißer Beton | `white_concrete` | 1.444 | 3,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.131 | 2,8 % |
 | Polierter Andesit | `polished_andesite` | 581 | 1,5 % |
 | Grüner Beton | `green_concrete` | 288 | 0,7 % |
 | Fichtenholz-Bretter | `spruce_planks` | 186 | 0,5 % |
 | Ziegelsteine | `bricks` | 167 | 0,4 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 131 | 0,3 % |
-| Seelaterne | `sea_lantern` | 61 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 26 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 25 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 24 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 23 | 0,1 % |
+| Tuffstein | `tuff` | 98 | 0,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 65 | 0,2 % |
+| Seelaterne | `sea_lantern` | 55 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 25 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 23 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 23 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 8 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 8 | 0,0 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 14 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 98 |
 | Steintreppe | `stone_stairs` | 80 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 48 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 14 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119219998` | Casa di Galileo Galilei | 11.380 | 22.1–22.6 |
+| 1 | `w119219998` | Casa di Galileo Galilei | 11.399 | 22.1–22.6 |
 | 2 | `w119219998_innen` | Casa di Galileo Galilei: Innenausbau | 1.415 | 22.7 |
-| 3 | `w474366882` | Palazzo des Cinquecento an Costa San Giorgio | 6.050 | 22.8–22.10 |
+| 3 | `w474366882` | Palazzo des Cinquecento an Costa San Giorgio | 6.063 | 22.8–22.10 |
 | 4 | `w474366882_innen` | Palazzo des Cinquecento an Costa San Giorgio: Innenausbau | 562 | 22.11 |
-| 5 | `w474366884` | Reihenhaus an Costa San Giorgio | 2.803 | 22.12–22.13 |
-| 6 | `w474366884_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 686 | 22.14 |
-| 7 | `w474366886` | Reihenhaus an Costa San Giorgio | 13.457 | 22.15–22.21 |
-| 8 | `w474366886_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 3.681 | 22.22–22.24 |
+| 5 | `w474366884` | Reihenhaus an Costa San Giorgio | 3.003 | 22.12–22.13 |
+| 6 | `w474366884_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 2 | 22.14 |
+| 7 | `w474366886` | Reihenhaus an Costa San Giorgio | 13.649 | 22.14–22.20 |
+| 8 | `w474366886_innen` | Reihenhaus an Costa San Giorgio: Innenausbau | 3.675 | 22.21–22.23 |
+| 9 | `strassenschilder` | Straßenschilder | 2 | 22.23 |
 
 ## Bauschritte
 
-### Schritt 22.1 – Casa di Galileo Galilei – Teil 1/6 (Y 63–66)
+### Schritt 22.1 – Casa di Galileo Galilei – Teil 1/6 (Y 140–145)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.910
+- **Y-Bereich:** 140 bis 145
+- **Blöcke:** 1.929
 - **Bauteile:** `w119219998`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 964 |
+| Polierter Tuffstein | `polished_tuff` | 958 |
 | Gelbe Keramik | `yellow_terracotta` | 743 |
-| Glatter Stein | `smooth_stone` | 165 |
+| Glatter Stein | `smooth_stone` | 134 |
+| Tuffstein | `tuff` | 50 |
 | Polierter Andesit | `polished_andesite` | 35 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 6 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 
 **Beschreibung**
 
@@ -101,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.2 – Casa di Galileo Galilei – Teil 2/6 (Y 67–72)
+### Schritt 22.2 – Casa di Galileo Galilei – Teil 2/6 (Y 146–151)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 146 bis 151
 - **Blöcke:** 1.754
 - **Bauteile:** `w119219998`
 
@@ -133,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.3 – Casa di Galileo Galilei – Teil 3/6 (Y 73–79)
+### Schritt 22.3 – Casa di Galileo Galilei – Teil 3/6 (Y 152–158)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 152 bis 158
 - **Blöcke:** 2.082
 - **Bauteile:** `w119219998`
 
@@ -164,9 +175,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.4 – Casa di Galileo Galilei – Teil 4/6 (Y 80–85)
+### Schritt 22.4 – Casa di Galileo Galilei – Teil 4/6 (Y 159–164)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 159 bis 164
 - **Blöcke:** 1.822
 - **Bauteile:** `w119219998`
 
@@ -195,9 +206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.5 – Casa di Galileo Galilei – Teil 5/6 (Y 86–91)
+### Schritt 22.5 – Casa di Galileo Galilei – Teil 5/6 (Y 165–170)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 165 bis 170
 - **Blöcke:** 1.742
 - **Bauteile:** `w119219998`
 
@@ -226,9 +237,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.6 – Casa di Galileo Galilei – Teil 6/6 (Y 92–100)
+### Schritt 22.6 – Casa di Galileo Galilei – Teil 6/6 (Y 171–179)
 
-- **Y-Bereich:** 92 bis 100
+- **Y-Bereich:** 171 bis 179
 - **Blöcke:** 2.070
 - **Bauteile:** `w119219998`
 
@@ -260,7 +271,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.7 – Casa di Galileo Galilei: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 142 bis 162
 - **Blöcke:** 1.415
 - **Bauteile:** `w119219998_innen`
 
@@ -296,10 +307,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.8 – Palazzo des Cinquecento an Costa San Giorgio – Teil 1/3 (Y 63–73)
+### Schritt 22.8 – Palazzo des Cinquecento an Costa San Giorgio – Teil 1/3 (Y 153–165)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 2.022
+- **Y-Bereich:** 153 bis 165
+- **Blöcke:** 2.035
 - **Bauteile:** `w474366882`
 
 **Teileliste**
@@ -307,12 +318,20 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Endsteinziegel | `end_stone_bricks` | 1.051 |
-| Polierter Tuffstein | `polished_tuff` | 408 |
-| Glatter Stein | `smooth_stone` | 345 |
+| Polierter Tuffstein | `polished_tuff` | 400 |
+| Glatter Stein | `smooth_stone` | 336 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 | Grüner Beton | `green_concrete` | 68 |
 | Polierter Andesit | `polished_andesite` | 52 |
+| Tuffstein | `tuff` | 22 |
 | Tuffsteinziegel | `tuff_bricks` | 14 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 8 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 8 |
 
 **Beschreibung**
 
@@ -330,9 +349,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.9 – Palazzo des Cinquecento an Costa San Giorgio – Teil 2/3 (Y 74–85)
+### Schritt 22.9 – Palazzo des Cinquecento an Costa San Giorgio – Teil 2/3 (Y 166–177)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 166 bis 177
 - **Blöcke:** 1.968
 - **Bauteile:** `w474366882`
 
@@ -362,9 +381,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.10 – Palazzo des Cinquecento an Costa San Giorgio – Teil 3/3 (Y 86–97)
+### Schritt 22.10 – Palazzo des Cinquecento an Costa San Giorgio – Teil 3/3 (Y 178–189)
 
-- **Y-Bereich:** 86 bis 97
+- **Y-Bereich:** 178 bis 189
 - **Blöcke:** 2.060
 - **Bauteile:** `w474366882`
 
@@ -399,7 +418,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.11 – Palazzo des Cinquecento an Costa San Giorgio: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 155 bis 176
 - **Blöcke:** 562
 - **Bauteile:** `w474366882_innen`
 
@@ -437,19 +456,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.12 – Reihenhaus an Costa San Giorgio – Teil 1/2 (Y 63–78)
+### Schritt 22.12 – Reihenhaus an Costa San Giorgio – Teil 1/2 (Y 147–164)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.371
+- **Y-Bereich:** 147 bis 164
+- **Blöcke:** 1.525
 - **Bauteile:** `w474366884`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 995 |
+| Glatter Sandstein | `smooth_sandstone` | 1.135 |
 | Polierter Tuffstein | `polished_tuff` | 271 |
-| Polierter Andesit | `polished_andesite` | 79 |
+| Polierter Andesit | `polished_andesite` | 93 |
 | Graues Buntglas | `gray_stained_glass` | 26 |
 
 **Beschreibung**
@@ -468,19 +487,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.13 – Reihenhaus an Costa San Giorgio – Teil 2/2 (Y 79–95)
+### Schritt 22.13 – Reihenhaus an Costa San Giorgio – Teil 2/2 (Y 165–179)
 
-- **Y-Bereich:** 79 bis 95
-- **Blöcke:** 1.432
+- **Y-Bereich:** 165 bis 179
+- **Blöcke:** 1.478
 - **Bauteile:** `w474366884`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.008 |
+| Glatter Sandstein | `smooth_sandstone` | 1.068 |
 | Terrakotta | `terracotta` | 306 |
-| Polierter Andesit | `polished_andesite` | 83 |
+| Polierter Andesit | `polished_andesite` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 35 |
 
 **Beschreibung**
@@ -499,87 +518,49 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.14 – Reihenhaus an Costa San Giorgio: Innenausbau
+### Schritt 22.14 – Reihenhaus an Costa San Giorgio: Innenausbau & Reihenhaus an Costa San Giorgio – Teil 1/7 (Y 148–150)
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 686
-- **Bauteile:** `w474366884_innen`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 564 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 8 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
-
-**Treppen je Material** (alle Richtungen)
-
-| Treppe | Basistyp | Anzahl |
-| :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 46 |
-
-**Beschreibung**
-
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
-
-**Tipp**
-
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
-
-**Achtung**
-
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
-
-**Fakt**
-
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
-
-### Schritt 22.15 – Reihenhaus an Costa San Giorgio – Teil 1/7 (Y 63–64)
-
-- **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.858
-- **Bauteile:** `w474366886`
+- **Y-Bereich:** 147 bis 150
+- **Blöcke:** 1.902
+- **Bauteile:** `w474366884_innen`, `w474366886`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.523 |
-| Endsteinziegel | `end_stone_bricks` | 332 |
+| Endsteinziegel | `end_stone_bricks` | 348 |
+| Tuffstein | `tuff` | 26 |
 | Polierter Andesit | `polished_andesite` | 3 |
+| Seelaterne | `sea_lantern` | 2 |
 
 **Beschreibung**
 
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.16 – Reihenhaus an Costa San Giorgio – Teil 2/7 (Y 65–70)
+### Schritt 22.15 – Reihenhaus an Costa San Giorgio – Teil 2/7 (Y 151–156)
 
-- **Y-Bereich:** 65 bis 70
-- **Blöcke:** 1.963
+- **Y-Bereich:** 151 bis 156
+- **Blöcke:** 2.043
 - **Bauteile:** `w474366886`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.576 |
+| Endsteinziegel | `end_stone_bricks` | 1.656 |
 | Weißer Beton | `white_concrete` | 267 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Polierter Andesit | `polished_andesite` | 16 |
@@ -601,9 +582,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.17 – Reihenhaus an Costa San Giorgio – Teil 3/7 (Y 71–76)
+### Schritt 22.16 – Reihenhaus an Costa San Giorgio – Teil 3/7 (Y 157–162)
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 157 bis 162
 - **Blöcke:** 1.974
 - **Bauteile:** `w474366886`
 
@@ -632,9 +613,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.18 – Reihenhaus an Costa San Giorgio – Teil 4/7 (Y 77–82)
+### Schritt 22.17 – Reihenhaus an Costa San Giorgio – Teil 4/7 (Y 163–168)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 163 bis 168
 - **Blöcke:** 1.998
 - **Bauteile:** `w474366886`
 
@@ -663,9 +644,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.19 – Reihenhaus an Costa San Giorgio – Teil 5/7 (Y 83–87)
+### Schritt 22.18 – Reihenhaus an Costa San Giorgio – Teil 5/7 (Y 169–173)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 169 bis 173
 - **Blöcke:** 1.681
 - **Bauteile:** `w474366886`
 
@@ -694,17 +675,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.20 – Reihenhaus an Costa San Giorgio – Teil 6/7 (Y 88–93)
+### Schritt 22.19 – Reihenhaus an Costa San Giorgio – Teil 6/7 (Y 174–179)
 
-- **Y-Bereich:** 88 bis 93
-- **Blöcke:** 1.998
+- **Y-Bereich:** 174 bis 179
+- **Blöcke:** 2.068
 - **Bauteile:** `w474366886`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.557 |
+| Endsteinziegel | `end_stone_bricks` | 1.627 |
 | Weißer Beton | `white_concrete` | 363 |
 | Graues Buntglas | `gray_stained_glass` | 70 |
 | Fichtenholz-Bretter | `spruce_planks` | 8 |
@@ -725,9 +706,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.21 – Reihenhaus an Costa San Giorgio – Teil 7/7 (Y 94–102)
+### Schritt 22.20 – Reihenhaus an Costa San Giorgio – Teil 7/7 (Y 180–188)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 180 bis 188
 - **Blöcke:** 1.985
 - **Bauteile:** `w474366886`
 
@@ -754,10 +735,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.22 – Reihenhaus an Costa San Giorgio: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 22.21 – Reihenhaus an Costa San Giorgio: Innenausbau – Teil 1/3 (Y 149–158)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.235
+- **Y-Bereich:** 149 bis 158
+- **Blöcke:** 1.232
 - **Bauteile:** `w474366886_innen`
 
 **Teileliste**
@@ -765,16 +746,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.174 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 25 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 24 |
 | Seelaterne | `sea_lantern` | 16 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 11 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 10 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 20 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
 
 **Beschreibung**
 
@@ -792,10 +773,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.23 – Reihenhaus an Costa San Giorgio: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 22.22 – Reihenhaus an Costa San Giorgio: Innenausbau – Teil 2/3 (Y 159–165)
 
-- **Y-Bereich:** 73 bis 79
-- **Blöcke:** 1.221
+- **Y-Bereich:** 159 bis 165
+- **Blöcke:** 1.216
 - **Bauteile:** `w474366886_innen`
 
 **Teileliste**
@@ -803,20 +784,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.174 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 8 |
 | Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 6 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 14 |
 
 **Beschreibung**
 
@@ -834,11 +811,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.24 – Reihenhaus an Costa San Giorgio: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 22.23 – Reihenhaus an Costa San Giorgio: Innenausbau – Teil 3/3 (Y 166–173) & Straßenschilder
 
-- **Y-Bereich:** 80 bis 87
-- **Blöcke:** 1.225
-- **Bauteile:** `w474366886_innen`
+- **Y-Bereich:** 149 bis 173
+- **Blöcke:** 1.229
+- **Bauteile:** `w474366886_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -849,8 +826,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 |
 | Seelaterne | `sea_lantern` | 8 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 7 |
-| Rote Keramik | `red_terracotta` | 3 |
-| Weiße Keramik | `white_terracotta` | 3 |
+| Rote Keramik | `red_terracotta` | 4 |
+| Weiße Keramik | `white_terracotta` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -860,16 +838,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

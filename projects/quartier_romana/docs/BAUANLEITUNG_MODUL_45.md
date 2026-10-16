@@ -8,45 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 1.605 |
+| Blöcke | 1.758 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 62 bis 98 |
 | X-Ausdehnung | -1772 bis -1760 (13 Blöcke) |
 | Z-Ausdehnung | 2117 bis 2125 (9 Blöcke) |
-| Kleinster Schritt | 1.605 Blöcke (Schritt 45.1) |
-| Mittlerer Schritt | 1.605 Blöcke |
-| Größter Schritt | 1.605 Blöcke (Schritt 45.1) |
+| Kleinster Schritt | 1.758 Blöcke (Schritt 45.1) |
+| Mittlerer Schritt | 1.758 Blöcke |
+| Größter Schritt | 1.758 Blöcke (Schritt 45.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.134 | 70,7 % |
-| Weißer Beton | `white_concrete` | 144 | 9,0 % |
-| Gelbe Keramik | `yellow_terracotta` | 78 | 4,9 % |
-| Graues Buntglas | `gray_stained_glass` | 71 | 4,4 % |
-| Terrakotta | `terracotta` | 66 | 4,1 % |
-| Polierter Tuffstein | `polished_tuff` | 64 | 4,0 % |
-| Fichtenholz-Bretter | `spruce_planks` | 26 | 1,6 % |
-| Glatter Stein | `smooth_stone` | 18 | 1,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 1.134 | 64,5 % |
+| Weißer Beton | `white_concrete` | 144 | 8,2 % |
+| Tuffstein | `tuff` | 143 | 8,1 % |
+| Gelbe Keramik | `yellow_terracotta` | 88 | 5,0 % |
+| Graues Buntglas | `gray_stained_glass` | 71 | 4,0 % |
+| Terrakotta | `terracotta` | 66 | 3,8 % |
+| Polierter Tuffstein | `polished_tuff` | 62 | 3,5 % |
+| Fichtenholz-Bretter | `spruce_planks` | 26 | 1,5 % |
+| Glatter Stein | `smooth_stone` | 18 | 1,0 % |
 | Polierter Andesit | `polished_andesite` | 2 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 | 0,1 % |
 | Seelaterne | `sea_lantern` | 2 | 0,1 % |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w305128791` | Nebengebäude an Via Romana | 1.500 | 45.1 |
+| 1 | `w305128791` | Nebengebäude an Via Romana | 1.643 | 45.1 |
 | 2 | `w305128791_innen` | Nebengebäude an Via Romana: Innenausbau | 1 | 45.1 |
-| 3 | `w1303695759` | Nebengebäude an Via Romana | 103 | 45.1 |
+| 3 | `w1303695759` | Nebengebäude an Via Romana | 113 | 45.1 |
 | 4 | `w1303695759_innen` | Nebengebäude an Via Romana: Innenausbau | 1 | 45.1 |
 
 ## Bauschritte
 
 ### Schritt 45.1 – Nebengebäude an Via Romana & Nebengebäude an Via Romana: Innenausbau & Nebengebäude an Via Romana & Nebengebäude an Via Romana: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
-- **Blöcke:** 1.605
+- **Y-Bereich:** 62 bis 98
+- **Blöcke:** 1.758
 - **Bauteile:** `w305128791`, `w305128791_innen`, `w1303695759`, `w1303695759_innen`
 
 **Teileliste**
@@ -55,14 +63,22 @@
 | :--- | :--- | ---: |
 | Hellgrauer Beton | `light_gray_concrete` | 1.134 |
 | Weißer Beton | `white_concrete` | 144 |
-| Gelbe Keramik | `yellow_terracotta` | 78 |
+| Tuffstein | `tuff` | 143 |
+| Gelbe Keramik | `yellow_terracotta` | 88 |
 | Graues Buntglas | `gray_stained_glass` | 71 |
 | Terrakotta | `terracotta` | 66 |
-| Polierter Tuffstein | `polished_tuff` | 64 |
+| Polierter Tuffstein | `polished_tuff` | 62 |
 | Fichtenholz-Bretter | `spruce_planks` | 26 |
 | Glatter Stein | `smooth_stone` | 18 |
 | Polierter Andesit | `polished_andesite` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Süden | `polished_tuff_stairs@s` | 2 |
 | Seelaterne | `sea_lantern` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
 
 **Beschreibung**
 

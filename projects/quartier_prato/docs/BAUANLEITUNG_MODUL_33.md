@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 112.705 |
+| Blöcke | 112.825 |
 | Bauschritte | 80 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 55 bis 93 |
 | X-Ausdehnung | -2328 bis -2137 (192 Blöcke) |
 | Z-Ausdehnung | -888 bis -715 (174 Blöcke) |
 | Kleinster Schritt | 747 Blöcke (Schritt 33.70) |
-| Mittlerer Schritt | 1.409 Blöcke |
+| Mittlerer Schritt | 1.410 Blöcke |
 | Größter Schritt | 2.072 Blöcke (Schritt 33.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 31.349 | 27,8 % |
+| Terrakotta | `terracotta` | 31.351 | 27,8 % |
 | Glatter Sandstein | `smooth_sandstone` | 24.668 | 21,9 % |
-| Rosa Keramik | `pink_terracotta` | 10.931 | 9,7 % |
-| Orange Keramik | `orange_terracotta` | 10.108 | 9,0 % |
+| Rosa Keramik | `pink_terracotta` | 10.935 | 9,7 % |
+| Orange Keramik | `orange_terracotta` | 10.154 | 9,0 % |
 | Polierter Tuffstein | `polished_tuff` | 9.850 | 8,7 % |
 | Weißer Beton | `white_concrete` | 5.028 | 4,5 % |
 | Endsteinziegel | `end_stone_bricks` | 4.917 | 4,4 % |
@@ -32,26 +32,27 @@
 | Hellgrauer Beton | `light_gray_concrete` | 4.514 | 4,0 % |
 | Graues Buntglas | `gray_stained_glass` | 2.400 | 2,1 % |
 | Polierter Andesit | `polished_andesite` | 851 | 0,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 663 | 0,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 668 | 0,6 % |
 | Ziegelsteine | `bricks` | 634 | 0,6 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 589 | 0,5 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 590 | 0,5 % |
 | Grüner Beton | `green_concrete` | 530 | 0,5 % |
 | Seelaterne | `sea_lantern` | 180 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 176 | 0,2 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 162 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 53 | 0,0 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 49 | 0,0 % |
+| Tuffstein | `tuff` | 64 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 54 | 0,0 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 50 | 0,0 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 42 | 0,0 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 38 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 24 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 20 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 20 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 18 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 18 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 440 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 442 |
 | Steintreppe | `stone_stairs` | 80 |
 
 ## Bauteile in Bau-Reihenfolge
@@ -60,7 +61,7 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7057604` | Palazzo des Ottocento an Via della Scala | 35.688 | 33.1–33.30 |
 | 2 | `r7057604_innen` | Palazzo des Ottocento an Via della Scala: Innenausbau | 6.702 | 33.31–33.34 |
-| 3 | `w443085719` | Haus w443085719 | 6.465 | 33.35–33.38 |
+| 3 | `w443085719` | Haus w443085719 | 6.529 | 33.35–33.38 |
 | 4 | `w443085719_innen` | Haus w443085719: Innenausbau | 1.025 | 33.39 |
 | 5 | `w443085720` | Haus w443085720 | 1.213 | 33.40 |
 | 6 | `w443085720_innen` | Haus w443085720: Innenausbau | 1 | 33.41 |
@@ -68,7 +69,7 @@
 | 8 | `w443085726_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.279 | 33.45 |
 | 9 | `w443085736` | Reihenhaus an Via Bernardo Rucellai | 10.266 | 33.46–33.51 |
 | 10 | `w443085736_innen` | Reihenhaus an Via Bernardo Rucellai: Innenausbau | 2.123 | 33.52–33.53 |
-| 11 | `w443085756` | Haus w443085756 | 5.658 | 33.54–33.56 |
+| 11 | `w443085756` | Haus w443085756 | 5.708 | 33.54–33.56 |
 | 12 | `w443085756_innen` | Haus w443085756: Innenausbau | 1.112 | 33.57 |
 | 13 | `w479555944` | Reihenhaus an Via della Scala | 3.286 | 33.58–33.59 |
 | 14 | `w479555944_innen` | Reihenhaus an Via della Scala: Innenausbau | 923 | 33.60 |
@@ -78,16 +79,16 @@
 | 18 | `w479555977_innen` | Palazzo des Cinquecento an Via Bernardo Rucellai: Innenausbau | 747 | 33.70 |
 | 19 | `w479555979` | Reihenhaus an Via della Scala | 4.044 | 33.71–33.72 |
 | 20 | `w479555979_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.177 | 33.73 |
-| 21 | `w479555995` | Reihenhaus an Via della Scala | 4.725 | 33.74–33.76 |
-| 22 | `w479555995_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.155 | 33.77 |
+| 21 | `w479555995` | Reihenhaus an Via della Scala | 4.732 | 33.74–33.76 |
+| 22 | `w479555995_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.154 | 33.77 |
 | 23 | `w479556011` | Reihenhaus an Via della Scala | 2.941 | 33.78–33.79 |
 | 24 | `w479556011_innen` | Reihenhaus an Via della Scala: Innenausbau | 1.346 | 33.80 |
 
 ## Bauschritte
 
-### Schritt 33.1 – Palazzo des Ottocento an Via della Scala – Teil 1/30 (Y 63–63)
+### Schritt 33.1 – Palazzo des Ottocento an Via della Scala – Teil 1/30 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.070
 - **Bauteile:** `r7057604`
 
@@ -113,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.2 – Palazzo des Ottocento an Via della Scala – Teil 2/30 (Y 63–63)
+### Schritt 33.2 – Palazzo des Ottocento an Via della Scala – Teil 2/30 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 2.072
 - **Bauteile:** `r7057604`
 
@@ -141,9 +142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.3 – Palazzo des Ottocento an Via della Scala – Teil 3/30 (Y 64–64)
+### Schritt 33.3 – Palazzo des Ottocento an Via della Scala – Teil 3/30 (Y 57–57)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 858
 - **Bauteile:** `r7057604`
 
@@ -172,9 +173,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.4 – Palazzo des Ottocento an Via della Scala – Teil 4/30 (Y 65–65)
+### Schritt 33.4 – Palazzo des Ottocento an Via della Scala – Teil 4/30 (Y 58–58)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 858
 - **Bauteile:** `r7057604`
 
@@ -203,9 +204,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.5 – Palazzo des Ottocento an Via della Scala – Teil 5/30 (Y 66–66)
+### Schritt 33.5 – Palazzo des Ottocento an Via della Scala – Teil 5/30 (Y 59–59)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 914
 - **Bauteile:** `r7057604`
 
@@ -234,9 +235,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.6 – Palazzo des Ottocento an Via della Scala – Teil 6/30 (Y 67–67)
+### Schritt 33.6 – Palazzo des Ottocento an Via della Scala – Teil 6/30 (Y 60–60)
 
-- **Y-Bereich:** 67 bis 67
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 815
 - **Bauteile:** `r7057604`
 
@@ -267,9 +268,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.7 – Palazzo des Ottocento an Via della Scala – Teil 7/30 (Y 68–68)
+### Schritt 33.7 – Palazzo des Ottocento an Via della Scala – Teil 7/30 (Y 61–61)
 
-- **Y-Bereich:** 68 bis 68
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 821
 - **Bauteile:** `r7057604`
 
@@ -300,9 +301,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.8 – Palazzo des Ottocento an Via della Scala – Teil 8/30 (Y 69–69)
+### Schritt 33.8 – Palazzo des Ottocento an Via della Scala – Teil 8/30 (Y 62–62)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 821
 - **Bauteile:** `r7057604`
 
@@ -333,9 +334,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.9 – Palazzo des Ottocento an Via della Scala – Teil 9/30 (Y 70–71)
+### Schritt 33.9 – Palazzo des Ottocento an Via della Scala – Teil 9/30 (Y 63–64)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.643
 - **Bauteile:** `r7057604`
 
@@ -365,9 +366,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.10 – Palazzo des Ottocento an Via della Scala – Teil 10/30 (Y 72–72)
+### Schritt 33.10 – Palazzo des Ottocento an Via della Scala – Teil 10/30 (Y 65–65)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 865
 - **Bauteile:** `r7057604`
 
@@ -395,9 +396,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.11 – Palazzo des Ottocento an Via della Scala – Teil 11/30 (Y 73–74)
+### Schritt 33.11 – Palazzo des Ottocento an Via della Scala – Teil 11/30 (Y 66–67)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 1.730
 - **Bauteile:** `r7057604`
 
@@ -425,9 +426,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.12 – Palazzo des Ottocento an Via della Scala – Teil 12/30 (Y 75–75)
+### Schritt 33.12 – Palazzo des Ottocento an Via della Scala – Teil 12/30 (Y 68–68)
 
-- **Y-Bereich:** 75 bis 75
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 865
 - **Bauteile:** `r7057604`
 
@@ -454,9 +455,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.13 – Palazzo des Ottocento an Via della Scala – Teil 13/30 (Y 76–76)
+### Schritt 33.13 – Palazzo des Ottocento an Via della Scala – Teil 13/30 (Y 69–69)
 
-- **Y-Bereich:** 76 bis 76
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 922
 - **Bauteile:** `r7057604`
 
@@ -484,9 +485,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.14 – Palazzo des Ottocento an Via della Scala – Teil 14/30 (Y 77–78)
+### Schritt 33.14 – Palazzo des Ottocento an Via della Scala – Teil 14/30 (Y 70–71)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.640
 - **Bauteile:** `r7057604`
 
@@ -516,9 +517,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.15 – Palazzo des Ottocento an Via della Scala – Teil 15/30 (Y 79–79)
+### Schritt 33.15 – Palazzo des Ottocento an Via della Scala – Teil 15/30 (Y 72–72)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 820
 - **Bauteile:** `r7057604`
 
@@ -548,7 +549,160 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.16 – Palazzo des Ottocento an Via della Scala – Teil 16/30 (Y 80–81)
+### Schritt 33.16 – Palazzo des Ottocento an Via della Scala – Teil 16/30 (Y 73–74)
+
+- **Y-Bereich:** 73 bis 74
+- **Blöcke:** 1.640
+- **Bauteile:** `r7057604`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.230 |
+| Glatter Stein | `smooth_stone` | 186 |
+| Graues Buntglas | `gray_stained_glass` | 138 |
+| Grüner Beton | `green_concrete` | 72 |
+| Polierter Andesit | `polished_andesite` | 14 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.17 – Palazzo des Ottocento an Via della Scala – Teil 17/30 (Y 75–75)
+
+- **Y-Bereich:** 75 bis 75
+- **Blöcke:** 865
+- **Bauteile:** `r7057604`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 692 |
+| Glatter Stein | `smooth_stone` | 162 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.18 – Palazzo des Ottocento an Via della Scala – Teil 18/30 (Y 76–76)
+
+- **Y-Bereich:** 76 bis 76
+- **Blöcke:** 865
+- **Bauteile:** `r7057604`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 435 |
+| Glatter Stein | `smooth_stone` | 430 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.19 – Palazzo des Ottocento an Via della Scala – Teil 19/30 (Y 77–78)
+
+- **Y-Bereich:** 77 bis 78
+- **Blöcke:** 1.787
+- **Bauteile:** `r7057604`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 1.554 |
+| Glatter Stein | `smooth_stone` | 219 |
+| Polierter Andesit | `polished_andesite` | 14 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.20 – Palazzo des Ottocento an Via della Scala – Teil 20/30 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 820
+- **Bauteile:** `r7057604`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Glatter Sandstein | `smooth_sandstone` | 611 |
+| Glatter Stein | `smooth_stone` | 93 |
+| Graues Buntglas | `gray_stained_glass` | 69 |
+| Grüner Beton | `green_concrete` | 36 |
+| Polierter Andesit | `polished_andesite` | 11 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.21 – Palazzo des Ottocento an Via della Scala – Teil 21/30 (Y 80–81)
 
 - **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.640
@@ -580,162 +734,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.17 – Palazzo des Ottocento an Via della Scala – Teil 17/30 (Y 82–82)
+### Schritt 33.22 – Palazzo des Ottocento an Via della Scala – Teil 22/30 (Y 82–82)
 
 - **Y-Bereich:** 82 bis 82
-- **Blöcke:** 865
-- **Bauteile:** `r7057604`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 692 |
-| Glatter Stein | `smooth_stone` | 162 |
-| Polierter Andesit | `polished_andesite` | 11 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.18 – Palazzo des Ottocento an Via della Scala – Teil 18/30 (Y 83–83)
-
-- **Y-Bereich:** 83 bis 83
-- **Blöcke:** 865
-- **Bauteile:** `r7057604`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 435 |
-| Glatter Stein | `smooth_stone` | 430 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.19 – Palazzo des Ottocento an Via della Scala – Teil 19/30 (Y 84–85)
-
-- **Y-Bereich:** 84 bis 85
-- **Blöcke:** 1.787
-- **Bauteile:** `r7057604`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.554 |
-| Glatter Stein | `smooth_stone` | 219 |
-| Polierter Andesit | `polished_andesite` | 14 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.20 – Palazzo des Ottocento an Via della Scala – Teil 20/30 (Y 86–86)
-
-- **Y-Bereich:** 86 bis 86
-- **Blöcke:** 820
-- **Bauteile:** `r7057604`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 611 |
-| Glatter Stein | `smooth_stone` | 93 |
-| Graues Buntglas | `gray_stained_glass` | 69 |
-| Grüner Beton | `green_concrete` | 36 |
-| Polierter Andesit | `polished_andesite` | 11 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.21 – Palazzo des Ottocento an Via della Scala – Teil 21/30 (Y 87–88)
-
-- **Y-Bereich:** 87 bis 88
-- **Blöcke:** 1.640
-- **Bauteile:** `r7057604`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.230 |
-| Glatter Stein | `smooth_stone` | 186 |
-| Graues Buntglas | `gray_stained_glass` | 138 |
-| Grüner Beton | `green_concrete` | 72 |
-| Polierter Andesit | `polished_andesite` | 14 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Gelb. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.22 – Palazzo des Ottocento an Via della Scala – Teil 22/30 (Y 89–89)
-
-- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 820
 - **Bauteile:** `r7057604`
 
@@ -765,9 +766,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.23 – Palazzo des Ottocento an Via della Scala – Teil 23/30 (Y 90–90)
+### Schritt 33.23 – Palazzo des Ottocento an Via della Scala – Teil 23/30 (Y 83–83)
 
-- **Y-Bereich:** 90 bis 90
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 820
 - **Bauteile:** `r7057604`
 
@@ -797,9 +798,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.24 – Palazzo des Ottocento an Via della Scala – Teil 24/30 (Y 91–92)
+### Schritt 33.24 – Palazzo des Ottocento an Via della Scala – Teil 24/30 (Y 84–85)
 
-- **Y-Bereich:** 91 bis 92
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 1.946
 - **Bauteile:** `r7057604`
 
@@ -827,9 +828,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.25 – Palazzo des Ottocento an Via della Scala – Teil 25/30 (Y 93–93)
+### Schritt 33.25 – Palazzo des Ottocento an Via della Scala – Teil 25/30 (Y 86–86)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 86 bis 86
 - **Blöcke:** 1.081
 - **Bauteile:** `r7057604`
 
@@ -856,9 +857,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.26 – Palazzo des Ottocento an Via della Scala – Teil 26/30 (Y 94–94)
+### Schritt 33.26 – Palazzo des Ottocento an Via della Scala – Teil 26/30 (Y 87–87)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.057
 - **Bauteile:** `r7057604`
 
@@ -884,9 +885,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.27 – Palazzo des Ottocento an Via della Scala – Teil 27/30 (Y 94–94)
+### Schritt 33.27 – Palazzo des Ottocento an Via della Scala – Teil 27/30 (Y 87–87)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.077
 - **Bauteile:** `r7057604`
 
@@ -912,9 +913,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.28 – Palazzo des Ottocento an Via della Scala – Teil 28/30 (Y 95–95)
+### Schritt 33.28 – Palazzo des Ottocento an Via della Scala – Teil 28/30 (Y 88–88)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.276
 - **Bauteile:** `r7057604`
 
@@ -940,9 +941,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.29 – Palazzo des Ottocento an Via della Scala – Teil 29/30 (Y 96–96)
+### Schritt 33.29 – Palazzo des Ottocento an Via della Scala – Teil 29/30 (Y 89–89)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.216
 - **Bauteile:** `r7057604`
 
@@ -968,9 +969,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.30 – Palazzo des Ottocento an Via della Scala – Teil 30/30 (Y 97–100)
+### Schritt 33.30 – Palazzo des Ottocento an Via della Scala – Teil 30/30 (Y 90–93)
 
-- **Y-Bereich:** 97 bis 100
+- **Y-Bereich:** 90 bis 93
 - **Blöcke:** 1.064
 - **Bauteile:** `r7057604`
 
@@ -997,9 +998,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.31 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 33.31 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 1/4 (Y 56–67)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 56 bis 67
 - **Blöcke:** 1.715
 - **Bauteile:** `r7057604_innen`
 
@@ -1035,9 +1036,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.32 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 33.32 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 2/4 (Y 67–67)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.644
 - **Bauteile:** `r7057604_innen`
 
@@ -1064,9 +1065,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.33 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 33.33 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 3/4 (Y 68–76)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 68 bis 76
 - **Blöcke:** 1.696
 - **Bauteile:** `r7057604_innen`
 
@@ -1108,9 +1109,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.34 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 33.34 – Palazzo des Ottocento an Via della Scala: Innenausbau – Teil 4/4 (Y 76–77)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 1.647
 - **Bauteile:** `r7057604_innen`
 
@@ -1146,19 +1147,20 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.35 – Haus w443085719 – Teil 1/4 (Y 63–70)
+### Schritt 33.35 – Haus w443085719 – Teil 1/4 (Y 56–63)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.672
+- **Y-Bereich:** 56 bis 63
+- **Blöcke:** 1.561
 - **Bauteile:** `w443085719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 964 |
+| Endsteinziegel | `end_stone_bricks` | 829 |
 | Polierter Tuffstein | `polished_tuff` | 484 |
-| Glatter Stein | `smooth_stone` | 185 |
+| Glatter Stein | `smooth_stone` | 145 |
+| Tuffstein | `tuff` | 64 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 
 **Beschreibung**
@@ -1177,18 +1179,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.36 – Haus w443085719 – Teil 2/4 (Y 71–79)
+### Schritt 33.36 – Haus w443085719 – Teil 2/4 (Y 64–73)
 
-- **Y-Bereich:** 71 bis 79
-- **Blöcke:** 1.557
+- **Y-Bereich:** 64 bis 73
+- **Blöcke:** 1.732
 - **Bauteile:** `w443085719`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.287 |
-| Glatter Stein | `smooth_stone` | 210 |
+| Endsteinziegel | `end_stone_bricks` | 1.422 |
+| Glatter Stein | `smooth_stone` | 250 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
 
 **Beschreibung**
@@ -1207,9 +1209,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.37 – Haus w443085719 – Teil 3/4 (Y 80–88)
+### Schritt 33.37 – Haus w443085719 – Teil 3/4 (Y 74–82)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 74 bis 82
 - **Blöcke:** 1.557
 - **Bauteile:** `w443085719`
 
@@ -1237,9 +1239,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.38 – Haus w443085719 – Teil 4/4 (Y 89–98)
+### Schritt 33.38 – Haus w443085719 – Teil 4/4 (Y 83–92)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 83 bis 92
 - **Blöcke:** 1.679
 - **Bauteile:** `w443085719`
 
@@ -1272,7 +1274,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.39 – Haus w443085719: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 57 bis 81
 - **Blöcke:** 1.025
 - **Bauteile:** `w443085719_innen`
 
@@ -1312,7 +1314,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 33.40 – Haus w443085720
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 56 bis 90
 - **Blöcke:** 1.213
 - **Bauteile:** `w443085720`
 
@@ -1344,9 +1346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.41 – Haus w443085720: Innenausbau & Reihenhaus an Via della Scala – Teil 1/4 (Y 63–70)
+### Schritt 33.41 – Haus w443085720: Innenausbau & Reihenhaus an Via della Scala – Teil 1/4 (Y 56–63)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 56 bis 63
 - **Blöcke:** 1.804
 - **Bauteile:** `w443085720_innen`, `w443085726`
 
@@ -1377,9 +1379,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.42 – Reihenhaus an Via della Scala – Teil 2/4 (Y 71–79)
+### Schritt 33.42 – Reihenhaus an Via della Scala – Teil 2/4 (Y 64–72)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 64 bis 72
 - **Blöcke:** 1.663
 - **Bauteile:** `w443085726`
 
@@ -1406,9 +1408,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.43 – Reihenhaus an Via della Scala – Teil 3/4 (Y 80–88)
+### Schritt 33.43 – Reihenhaus an Via della Scala – Teil 3/4 (Y 73–81)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.663
 - **Bauteile:** `w443085726`
 
@@ -1435,9 +1437,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.44 – Reihenhaus an Via della Scala – Teil 4/4 (Y 89–97)
+### Schritt 33.44 – Reihenhaus an Via della Scala – Teil 4/4 (Y 82–90)
 
-- **Y-Bereich:** 89 bis 97
+- **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.778
 - **Bauteile:** `w443085726`
 
@@ -1468,7 +1470,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.45 – Reihenhaus an Via della Scala: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 1.279
 - **Bauteile:** `w443085726_innen`
 
@@ -1504,9 +1506,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.46 – Reihenhaus an Via Bernardo Rucellai – Teil 1/6 (Y 63–66)
+### Schritt 33.46 – Reihenhaus an Via Bernardo Rucellai – Teil 1/6 (Y 56–59)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 56 bis 59
 - **Blöcke:** 1.720
 - **Bauteile:** `w443085736`
 
@@ -1535,9 +1537,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.47 – Reihenhaus an Via Bernardo Rucellai – Teil 2/6 (Y 67–72)
+### Schritt 33.47 – Reihenhaus an Via Bernardo Rucellai – Teil 2/6 (Y 60–65)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 60 bis 65
 - **Blöcke:** 1.576
 - **Bauteile:** `w443085736`
 
@@ -1567,7 +1569,38 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.48 – Reihenhaus an Via Bernardo Rucellai – Teil 3/6 (Y 73–79)
+### Schritt 33.48 – Reihenhaus an Via Bernardo Rucellai – Teil 3/6 (Y 66–72)
+
+- **Y-Bereich:** 66 bis 72
+- **Blöcke:** 1.835
+- **Bauteile:** `w443085736`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Orange Keramik | `orange_terracotta` | 1.545 |
+| Weißer Beton | `white_concrete` | 206 |
+| Graues Buntglas | `gray_stained_glass` | 76 |
+| Grüner Beton | `green_concrete` | 8 |
+
+**Beschreibung**
+
+Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 33.49 – Reihenhaus an Via Bernardo Rucellai – Teil 4/6 (Y 73–79)
 
 - **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.835
@@ -1598,40 +1631,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.49 – Reihenhaus an Via Bernardo Rucellai – Teil 4/6 (Y 80–86)
+### Schritt 33.50 – Reihenhaus an Via Bernardo Rucellai – Teil 5/6 (Y 80–85)
 
-- **Y-Bereich:** 80 bis 86
-- **Blöcke:** 1.835
-- **Bauteile:** `w443085736`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.545 |
-| Weißer Beton | `white_concrete` | 206 |
-| Graues Buntglas | `gray_stained_glass` | 76 |
-| Grüner Beton | `green_concrete` | 8 |
-
-**Beschreibung**
-
-Reihenhaus (15.–17. Jh.), 4 Geschosse, Putzfarbe Terrakotta. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 33.50 – Reihenhaus an Via Bernardo Rucellai – Teil 5/6 (Y 87–92)
-
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.653
 - **Bauteile:** `w443085736`
 
@@ -1660,9 +1662,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.51 – Reihenhaus an Via Bernardo Rucellai – Teil 6/6 (Y 93–100)
+### Schritt 33.51 – Reihenhaus an Via Bernardo Rucellai – Teil 6/6 (Y 86–93)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.647
 - **Bauteile:** `w443085736`
 
@@ -1690,9 +1692,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.52 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 33.52 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 749
 - **Bauteile:** `w443085736_innen`
 
@@ -1732,9 +1734,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.53 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 33.53 – Reihenhaus an Via Bernardo Rucellai: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.374
 - **Bauteile:** `w443085736_innen`
 
@@ -1774,17 +1776,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.54 – Haus w443085756 – Teil 1/3 (Y 63–73)
+### Schritt 33.54 – Haus w443085756 – Teil 1/3 (Y 55–65)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.888
+- **Y-Bereich:** 55 bis 65
+- **Blöcke:** 1.934
 - **Bauteile:** `w443085756`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Orange Keramik | `orange_terracotta` | 1.101 |
+| Orange Keramik | `orange_terracotta` | 1.147 |
 | Polierter Tuffstein | `polished_tuff` | 486 |
 | Weißer Beton | `white_concrete` | 120 |
 | Graues Buntglas | `gray_stained_glass` | 88 |
@@ -1807,9 +1809,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.55 – Haus w443085756 – Teil 2/3 (Y 74–86)
+### Schritt 33.55 – Haus w443085756 – Teil 2/3 (Y 66–78)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 66 bis 78
 - **Blöcke:** 1.864
 - **Bauteile:** `w443085756`
 
@@ -1838,10 +1840,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.56 – Haus w443085756 – Teil 3/3 (Y 87–99)
+### Schritt 33.56 – Haus w443085756 – Teil 3/3 (Y 79–91)
 
-- **Y-Bereich:** 87 bis 99
-- **Blöcke:** 1.906
+- **Y-Bereich:** 79 bis 91
+- **Blöcke:** 1.910
 - **Bauteile:** `w443085756`
 
 **Teileliste**
@@ -1849,8 +1851,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Orange Keramik | `orange_terracotta` | 758 |
-| Terrakotta | `terracotta` | 709 |
-| Fichtenholz-Bretter | `spruce_planks` | 182 |
+| Terrakotta | `terracotta` | 711 |
+| Fichtenholz-Bretter | `spruce_planks` | 184 |
 | Weißer Beton | `white_concrete` | 182 |
 | Graues Buntglas | `gray_stained_glass` | 38 |
 | Ziegelsteine | `bricks` | 37 |
@@ -1873,7 +1875,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.57 – Haus w443085756: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 55 bis 78
 - **Blöcke:** 1.112
 - **Bauteile:** `w443085756_innen`
 
@@ -1909,9 +1911,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.58 – Reihenhaus an Via della Scala – Teil 1/2 (Y 63–79)
+### Schritt 33.58 – Reihenhaus an Via della Scala – Teil 1/2 (Y 56–72)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 56 bis 72
 - **Blöcke:** 1.651
 - **Bauteile:** `w479555944`
 
@@ -1941,9 +1943,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.59 – Reihenhaus an Via della Scala – Teil 2/2 (Y 80–98)
+### Schritt 33.59 – Reihenhaus an Via della Scala – Teil 2/2 (Y 73–91)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 73 bis 91
 - **Blöcke:** 1.635
 - **Bauteile:** `w479555944`
 
@@ -1976,7 +1978,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.60 – Reihenhaus an Via della Scala: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 56 bis 80
 - **Blöcke:** 923
 - **Bauteile:** `w479555944_innen`
 
@@ -2014,9 +2016,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.61 – Reihenhaus an Via della Scala – Teil 1/4 (Y 63–68)
+### Schritt 33.61 – Reihenhaus an Via della Scala – Teil 1/4 (Y 56–61)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 56 bis 61
 - **Blöcke:** 1.668
 - **Bauteile:** `w479555949`
 
@@ -2047,9 +2049,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.62 – Reihenhaus an Via della Scala – Teil 2/4 (Y 69–79)
+### Schritt 33.62 – Reihenhaus an Via della Scala – Teil 2/4 (Y 62–72)
 
-- **Y-Bereich:** 69 bis 79
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.692
 - **Bauteile:** `w479555949`
 
@@ -2077,9 +2079,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.63 – Reihenhaus an Via della Scala – Teil 3/4 (Y 80–91)
+### Schritt 33.63 – Reihenhaus an Via della Scala – Teil 3/4 (Y 73–84)
 
-- **Y-Bereich:** 80 bis 91
+- **Y-Bereich:** 73 bis 84
 - **Blöcke:** 1.836
 - **Bauteile:** `w479555949`
 
@@ -2107,9 +2109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.64 – Reihenhaus an Via della Scala – Teil 4/4 (Y 92–99)
+### Schritt 33.64 – Reihenhaus an Via della Scala – Teil 4/4 (Y 85–92)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 85 bis 92
 - **Blöcke:** 1.671
 - **Bauteile:** `w479555949`
 
@@ -2139,9 +2141,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.65 – Reihenhaus an Via della Scala: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 33.65 – Reihenhaus an Via della Scala: Innenausbau – Teil 1/2 (Y 56–71)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 56 bis 71
 - **Blöcke:** 850
 - **Bauteile:** `w479555949_innen`
 
@@ -2179,9 +2181,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.66 – Reihenhaus an Via della Scala: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 33.66 – Reihenhaus an Via della Scala: Innenausbau – Teil 2/2 (Y 72–80)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 72 bis 80
 - **Blöcke:** 1.572
 - **Bauteile:** `w479555949_innen`
 
@@ -2221,9 +2223,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.67 – Palazzo des Cinquecento an Via Bernardo Rucellai – Teil 1/3 (Y 63–72)
+### Schritt 33.67 – Palazzo des Cinquecento an Via Bernardo Rucellai – Teil 1/3 (Y 56–65)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 56 bis 65
 - **Blöcke:** 1.490
 - **Bauteile:** `w479555977`
 
@@ -2253,9 +2255,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.68 – Palazzo des Cinquecento an Via Bernardo Rucellai – Teil 2/3 (Y 73–85)
+### Schritt 33.68 – Palazzo des Cinquecento an Via Bernardo Rucellai – Teil 2/3 (Y 66–78)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 66 bis 78
 - **Blöcke:** 1.548
 - **Bauteile:** `w479555977`
 
@@ -2284,9 +2286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.69 – Palazzo des Cinquecento an Via Bernardo Rucellai – Teil 3/3 (Y 86–98)
+### Schritt 33.69 – Palazzo des Cinquecento an Via Bernardo Rucellai – Teil 3/3 (Y 79–91)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 79 bis 91
 - **Blöcke:** 1.595
 - **Bauteile:** `w479555977`
 
@@ -2319,7 +2321,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.70 – Palazzo des Cinquecento an Via Bernardo Rucellai: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 56 bis 77
 - **Blöcke:** 747
 - **Bauteile:** `w479555977_innen`
 
@@ -2363,9 +2365,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.71 – Reihenhaus an Via della Scala – Teil 1/2 (Y 63–79)
+### Schritt 33.71 – Reihenhaus an Via della Scala – Teil 1/2 (Y 56–72)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 56 bis 72
 - **Blöcke:** 2.033
 - **Bauteile:** `w479555979`
 
@@ -2394,9 +2396,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.72 – Reihenhaus an Via della Scala – Teil 2/2 (Y 80–99)
+### Schritt 33.72 – Reihenhaus an Via della Scala – Teil 2/2 (Y 73–92)
 
-- **Y-Bereich:** 80 bis 99
+- **Y-Bereich:** 73 bis 92
 - **Blöcke:** 2.011
 - **Bauteile:** `w479555979`
 
@@ -2427,7 +2429,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.73 – Reihenhaus an Via della Scala: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 1.177
 - **Bauteile:** `w479555979_innen`
 
@@ -2463,17 +2465,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.74 – Reihenhaus an Via della Scala – Teil 1/3 (Y 63–72)
+### Schritt 33.74 – Reihenhaus an Via della Scala – Teil 1/3 (Y 56–65)
 
-- **Y-Bereich:** 63 bis 72
-- **Blöcke:** 1.542
+- **Y-Bereich:** 56 bis 65
+- **Blöcke:** 1.546
 - **Bauteile:** `w479555995`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.028 |
+| Rosa Keramik | `pink_terracotta` | 1.032 |
 | Polierter Tuffstein | `polished_tuff` | 471 |
 | Glatter Stein | `smooth_stone` | 37 |
 | Graues Buntglas | `gray_stained_glass` | 4 |
@@ -2495,9 +2497,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.75 – Reihenhaus an Via della Scala – Teil 2/3 (Y 73–85)
+### Schritt 33.75 – Reihenhaus an Via della Scala – Teil 2/3 (Y 66–78)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 66 bis 78
 - **Blöcke:** 1.570
 - **Bauteile:** `w479555995`
 
@@ -2525,10 +2527,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.76 – Reihenhaus an Via della Scala – Teil 3/3 (Y 86–97)
+### Schritt 33.76 – Reihenhaus an Via della Scala – Teil 3/3 (Y 79–90)
 
-- **Y-Bereich:** 86 bis 97
-- **Blöcke:** 1.613
+- **Y-Bereich:** 79 bis 90
+- **Blöcke:** 1.616
 - **Bauteile:** `w479555995`
 
 **Teileliste**
@@ -2537,7 +2539,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Rosa Keramik | `pink_terracotta` | 920 |
 | Terrakotta | `terracotta` | 580 |
-| Fichtenholz-Bretter | `spruce_planks` | 40 |
+| Fichtenholz-Bretter | `spruce_planks` | 43 |
 | Glatter Stein | `smooth_stone` | 32 |
 | Ziegelsteine | `bricks` | 25 |
 | Graues Buntglas | `gray_stained_glass` | 16 |
@@ -2560,8 +2562,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.77 – Reihenhaus an Via della Scala: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 1.155
+- **Y-Bereich:** 56 bis 80
+- **Blöcke:** 1.154
 - **Bauteile:** `w479555995_innen`
 
 **Teileliste**
@@ -2569,20 +2571,18 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.023 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 66 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
 | Seelaterne | `sea_lantern` | 12 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 50 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
 
 **Beschreibung**
 
@@ -2600,9 +2600,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 33.78 – Reihenhaus an Via della Scala – Teil 1/2 (Y 63–80)
+### Schritt 33.78 – Reihenhaus an Via della Scala – Teil 1/2 (Y 56–73)
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 56 bis 73
 - **Blöcke:** 1.485
 - **Bauteile:** `w479556011`
 
@@ -2631,9 +2631,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.79 – Reihenhaus an Via della Scala – Teil 2/2 (Y 81–99)
+### Schritt 33.79 – Reihenhaus an Via della Scala – Teil 2/2 (Y 74–92)
 
-- **Y-Bereich:** 81 bis 99
+- **Y-Bereich:** 74 bis 92
 - **Blöcke:** 1.456
 - **Bauteile:** `w479556011`
 
@@ -2666,7 +2666,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 33.80 – Reihenhaus an Via della Scala: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 56 bis 79
 - **Blöcke:** 1.346
 - **Bauteile:** `w479556011_innen`
 

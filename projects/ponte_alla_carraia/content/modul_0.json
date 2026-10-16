@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Pfeiler und Widerlager",
+  "subtitle": "Bautüte 0: 4 Pfeiler im Fluss und die Widerlager an den Ufern",
+  "icon": "🧱",
+  "parts": {
+    "pfeiler": {
+      "title": "Pfeiler",
+      "description": "Im Arno stehen 4 Pfeiler aus Pietra forte; sie reichen vom Flussbett unter dem Wasserspiegel (Y 50) bis unter die Fahrbahn, mit spitzen Vorköpfen gegen die Strömung.",
+      "tip": "Baue jeden Pfeiler von unten nach oben.",
+      "caution": "Die Vorköpfe gehören zur Brückenfläche.",
+      "fact": "Die erste Brücke an dieser Stelle entstand 1218–1220 aus Holz – nach dem Ponte Vecchio die zweite Brücke der Stadt."
+    },
+    "widerlager": {
+      "title": "Widerlager",
+      "description": "An beiden Ufern tragen massive Widerlager die Fahrbahn bis zur Höhe der Uferstraßen (Y 62 und Y 58).",
+      "tip": "Außen glatte Steine, innen Füllmauerwerk.",
+      "caution": "Bis unter die Fahrbahn füllen.",
+      "fact": "Ihr Name kommt von den Karren (carri), die hier den Fluss überquerten."
+    }
+  }
+}

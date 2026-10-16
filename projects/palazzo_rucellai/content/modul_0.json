@@ -1,0 +1,36 @@
+{
+  "module": 0,
+  "title": "Fundament, Boden und Hof",
+  "subtitle": "Bautüte 0: Fundament, Boden auf Y 60, Hof und Treppe",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Wo das Gelände tiefer liegt, füllst du unter Palazzo und Hof mit Tuff bis Y 59 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 59 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Giovanni Rucellai ließ für den Palazzo mehrere ältere Häuser zusammenfassen."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 60 legst du den Boden des Erdgeschosses: in den Sälen ein Schachbrett aus Terrakotta und hellem Quarz, unter den Hofarkaden Glatter Stein.",
+      "tip": "Ein Feld ist drei Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst die letzte Bautüte.",
+      "fact": "Der Palazzo gehört bis heute der Familie Rucellai."
+    },
+    "hof": {
+      "title": "Hof",
+      "description": "Der Hof bleibt offen; sein Boden aus Pflaster liegt auf Y 60.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Hier entsteht nichts in die Höhe.",
+      "fact": "Der kleine Hof liegt hinter dem Eingang."
+    },
+    "treppe": {
+      "title": "Wendeltreppe",
+      "description": "Eine Wendeltreppe aus Pietra serena um einen Kern von 3 × 3 Blöcken führt vom Erdgeschoss bis ins oberste Geschoss (Y 97).",
+      "tip": "Pro Viertelumlauf steigt sie drei Blöcke, in den Ecken liegen Podeste.",
+      "caution": "Über Stufen und Podesten bleiben drei Blöcke frei.",
+      "fact": "Die Treppe ist im Modell vereinfacht."
+    }
+  }
+}

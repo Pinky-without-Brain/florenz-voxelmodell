@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.388 |
 | Bauschritte | 3 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 57 bis 91 |
 | X-Ausdehnung | -2087 bis -2063 (25 Blöcke) |
 | Z-Ausdehnung | -487 bis -459 (29 Blöcke) |
 | Kleinster Schritt | 1.441 Blöcke (Schritt 0.1) |
@@ -40,9 +40,9 @@
 
 ## Bauschritte
 
-### Schritt 0.1 – Reihenhaus an Via degli Orti Oricellari – Teil 1/3 (Y 63–73)
+### Schritt 0.1 – Reihenhaus an Via degli Orti Oricellari – Teil 1/3 (Y 57–67)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 57 bis 67
 - **Blöcke:** 1.441
 - **Bauteile:** `w116866724`
 
@@ -72,9 +72,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Reihenhaus an Via degli Orti Oricellari – Teil 2/3 (Y 74–85)
+### Schritt 0.2 – Reihenhaus an Via degli Orti Oricellari – Teil 2/3 (Y 68–79)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.468
 - **Bauteile:** `w116866724`
 
@@ -101,9 +101,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.3 – Reihenhaus an Via degli Orti Oricellari – Teil 3/3 (Y 86–97) & Reihenhaus an Via degli Orti Oricellari: Innenausbau
+### Schritt 0.3 – Reihenhaus an Via degli Orti Oricellari – Teil 3/3 (Y 80–91) & Reihenhaus an Via degli Orti Oricellari: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 57 bis 91
 - **Blöcke:** 1.479
 - **Bauteile:** `w116866724`, `w116866724_innen`
 

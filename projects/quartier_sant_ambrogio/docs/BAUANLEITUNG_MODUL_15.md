@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 15.358 |
 | Bauschritte | 9 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 64 bis 100 |
 | X-Ausdehnung | 1572 bis 1648 (77 Blöcke) |
 | Z-Ausdehnung | 140 bis 228 (89 Blöcke) |
 | Kleinster Schritt | 1.241 Blöcke (Schritt 15.9) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 15.1 – Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 63–64)
+### Schritt 15.1 – Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.853
 - **Bauteile:** `w442953956`
 
@@ -87,9 +87,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 65–69)
+### Schritt 15.2 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 66–70)
 
-- **Y-Bereich:** 65 bis 69
+- **Y-Bereich:** 66 bis 70
 - **Blöcke:** 1.717
 - **Bauteile:** `w442953956`
 
@@ -118,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 70–73)
+### Schritt 15.3 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 71–74)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 71 bis 74
 - **Blöcke:** 1.671
 - **Bauteile:** `w442953956`
 
@@ -149,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 74–80)
+### Schritt 15.4 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 75–81)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 2.055
 - **Bauteile:** `w442953956`
 
@@ -178,9 +178,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Reihenhaus an Via Giosuè Carducci: Innenausbau & Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 63–70)
+### Schritt 15.5 – Reihenhaus an Via Giosuè Carducci: Innenausbau & Reihenhaus an Via Giosuè Carducci – Teil 1/4 (Y 64–71)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 64 bis 71
 - **Blöcke:** 1.667
 - **Bauteile:** `w442953956_innen`, `w442953969`
 
@@ -211,9 +211,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 71–80)
+### Schritt 15.6 – Reihenhaus an Via Giosuè Carducci – Teil 2/4 (Y 72–81)
 
-- **Y-Bereich:** 71 bis 80
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.784
 - **Bauteile:** `w442953969`
 
@@ -242,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.7 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 81–89)
+### Schritt 15.7 – Reihenhaus an Via Giosuè Carducci – Teil 3/4 (Y 82–90)
 
-- **Y-Bereich:** 81 bis 89
+- **Y-Bereich:** 82 bis 90
 - **Blöcke:** 1.647
 - **Bauteile:** `w442953969`
 
@@ -273,9 +273,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 90–99)
+### Schritt 15.8 – Reihenhaus an Via Giosuè Carducci – Teil 4/4 (Y 91–100)
 
-- **Y-Bereich:** 90 bis 99
+- **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.723
 - **Bauteile:** `w442953969`
 
@@ -309,7 +309,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 15.9 – Reihenhaus an Via Giosuè Carducci: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 64 bis 88
 - **Blöcke:** 1.241
 - **Bauteile:** `w442953969_innen`
 

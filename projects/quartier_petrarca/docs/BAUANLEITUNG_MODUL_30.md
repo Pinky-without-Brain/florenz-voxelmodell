@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 22.820 |
 | Bauschritte | 14 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 62 bis 93 |
 | X-Ausdehnung | -2677 bis -2636 (42 Blöcke) |
 | Z-Ausdehnung | 1740 bis 1838 (99 Blöcke) |
 | Kleinster Schritt | 702 Blöcke (Schritt 30.14) |
@@ -61,9 +61,9 @@
 
 ## Bauschritte
 
-### Schritt 30.1 – Palazzo des Cinquecento an Via Giano della Bella – Teil 1/8 (Y 63–63)
+### Schritt 30.1 – Palazzo des Cinquecento an Via Giano della Bella – Teil 1/8 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 2.097
 - **Bauteile:** `w461683374`
 
@@ -89,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.2 – Palazzo des Cinquecento an Via Giano della Bella – Teil 2/8 (Y 64–67)
+### Schritt 30.2 – Palazzo des Cinquecento an Via Giano della Bella – Teil 2/8 (Y 63–66)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.486
 - **Bauteile:** `w461683374`
 
@@ -121,9 +121,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.3 – Palazzo des Cinquecento an Via Giano della Bella – Teil 3/8 (Y 68–72)
+### Schritt 30.3 – Palazzo des Cinquecento an Via Giano della Bella – Teil 3/8 (Y 67–71)
 
-- **Y-Bereich:** 68 bis 72
+- **Y-Bereich:** 67 bis 71
 - **Blöcke:** 1.793
 - **Bauteile:** `w461683374`
 
@@ -153,9 +153,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.4 – Palazzo des Cinquecento an Via Giano della Bella – Teil 4/8 (Y 73–76)
+### Schritt 30.4 – Palazzo des Cinquecento an Via Giano della Bella – Teil 4/8 (Y 72–75)
 
-- **Y-Bereich:** 73 bis 76
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.489
 - **Bauteile:** `w461683374`
 
@@ -186,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.5 – Palazzo des Cinquecento an Via Giano della Bella – Teil 5/8 (Y 77–81)
+### Schritt 30.5 – Palazzo des Cinquecento an Via Giano della Bella – Teil 5/8 (Y 76–80)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 76 bis 80
 - **Blöcke:** 1.925
 - **Bauteile:** `w461683374`
 
@@ -218,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.6 – Palazzo des Cinquecento an Via Giano della Bella – Teil 6/8 (Y 82–85)
+### Schritt 30.6 – Palazzo des Cinquecento an Via Giano della Bella – Teil 6/8 (Y 81–84)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 81 bis 84
 - **Blöcke:** 1.594
 - **Bauteile:** `w461683374`
 
@@ -249,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.7 – Palazzo des Cinquecento an Via Giano della Bella – Teil 7/8 (Y 86–88)
+### Schritt 30.7 – Palazzo des Cinquecento an Via Giano della Bella – Teil 7/8 (Y 85–87)
 
-- **Y-Bereich:** 86 bis 88
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 1.959
 - **Bauteile:** `w461683374`
 
@@ -279,9 +279,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.8 – Palazzo des Cinquecento an Via Giano della Bella – Teil 8/8 (Y 89–94)
+### Schritt 30.8 – Palazzo des Cinquecento an Via Giano della Bella – Teil 8/8 (Y 88–93)
 
-- **Y-Bereich:** 89 bis 94
+- **Y-Bereich:** 88 bis 93
 - **Blöcke:** 1.661
 - **Bauteile:** `w461683374`
 
@@ -308,9 +308,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 30.9 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 30.9 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 1/2 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.770
 - **Bauteile:** `w461683374_innen`
 
@@ -350,9 +350,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 30.10 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 74–80)
+### Schritt 30.10 – Palazzo des Cinquecento an Via Giano della Bella: Innenausbau – Teil 2/2 (Y 73–79)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.759
 - **Bauteile:** `w461683374_innen`
 

@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 6.132 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 58 bis 94 |
 | X-Ausdehnung | -2596 bis -2568 (29 Blöcke) |
 | Z-Ausdehnung | 323 bis 349 (27 Blöcke) |
 | Kleinster Schritt | 769 Blöcke (Schritt 46.4) |
@@ -21,12 +21,12 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Tuffstein | `tuff` | 2.991 | 48,8 % |
+| Tuffstein | `tuff` | 3.003 | 49,0 % |
 | Terrakotta | `terracotta` | 1.204 | 19,6 % |
 | Polierter Andesit | `polished_andesite` | 719 | 11,7 % |
 | Polierter Tuffstein | `polished_tuff` | 368 | 6,0 % |
 | Graues Buntglas | `gray_stained_glass` | 268 | 4,4 % |
-| Tuffsteinziegel | `tuff_bricks` | 264 | 4,3 % |
+| Tuffsteinziegel | `tuff_bricks` | 252 | 4,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 154 | 2,5 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 | 1,0 % |
 | Ziegelsteine | `bricks` | 28 | 0,5 % |
@@ -51,9 +51,9 @@
 
 ## Bauschritte
 
-### Schritt 46.1 – Torrino di Santa Rosa – Teil 1/3 (Y 63–73)
+### Schritt 46.1 – Torrino di Santa Rosa – Teil 1/3 (Y 58–68)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 58 bis 68
 - **Blöcke:** 1.780
 - **Bauteile:** `w119009554`
 
@@ -61,10 +61,10 @@
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.013 |
+| Tuffstein | `tuff` | 1.034 |
 | Polierter Tuffstein | `polished_tuff` | 368 |
 | Polierter Andesit | `polished_andesite` | 248 |
-| Tuffsteinziegel | `tuff_bricks` | 117 |
+| Tuffsteinziegel | `tuff_bricks` | 96 |
 | Graues Buntglas | `gray_stained_glass` | 34 |
 
 **Beschreibung**
@@ -83,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.2 – Torrino di Santa Rosa – Teil 2/3 (Y 74–86)
+### Schritt 46.2 – Torrino di Santa Rosa – Teil 2/3 (Y 69–81)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 69 bis 81
 - **Blöcke:** 1.834
 - **Bauteile:** `w119009554`
 
@@ -93,10 +93,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.290 |
+| Tuffstein | `tuff` | 1.283 |
 | Polierter Andesit | `polished_andesite` | 297 |
 | Graues Buntglas | `gray_stained_glass` | 156 |
-| Tuffsteinziegel | `tuff_bricks` | 91 |
+| Tuffsteinziegel | `tuff_bricks` | 98 |
 
 **Beschreibung**
 
@@ -114,9 +114,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 46.3 – Torrino di Santa Rosa – Teil 3/3 (Y 87–99)
+### Schritt 46.3 – Torrino di Santa Rosa – Teil 3/3 (Y 82–94)
 
-- **Y-Bereich:** 87 bis 99
+- **Y-Bereich:** 82 bis 94
 - **Blöcke:** 1.749
 - **Bauteile:** `w119009554`
 
@@ -124,12 +124,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 688 |
+| Tuffstein | `tuff` | 686 |
 | Terrakotta | `terracotta` | 571 |
 | Polierter Andesit | `polished_andesite` | 174 |
 | Fichtenholz-Bretter | `spruce_planks` | 154 |
 | Graues Buntglas | `gray_stained_glass` | 78 |
-| Tuffsteinziegel | `tuff_bricks` | 56 |
+| Tuffsteinziegel | `tuff_bricks` | 58 |
 | Ziegelsteine | `bricks` | 28 |
 
 **Beschreibung**
@@ -150,7 +150,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 46.4 – Torrino di Santa Rosa: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 58 bis 82
 - **Blöcke:** 769
 - **Bauteile:** `w119009554_innen`
 

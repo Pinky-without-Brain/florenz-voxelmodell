@@ -8,14 +8,14 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 38.443 |
+| Blöcke | 38.460 |
 | Bauschritte | 25 |
-| Y-Bereich | 63 bis 102 |
+| Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | -1150 bis -1047 (104 Blöcke) |
 | Z-Ausdehnung | -951 bis -861 (91 Blöcke) |
 | Kleinster Schritt | 788 Blöcke (Schritt 1.3) |
 | Mittlerer Schritt | 1.538 Blöcke |
-| Größter Schritt | 1.869 Blöcke (Schritt 1.17) |
+| Größter Schritt | 1.869 Blöcke (Schritt 1.1) |
 
 ## Gesamt-Stückliste
 
@@ -33,6 +33,7 @@
 | Seelaterne | `sea_lantern` | 52 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 18 | 0,0 % |
+| Tuffstein | `tuff` | 17 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 13 | 0,0 % |
 | Rote Keramik | `red_terracotta` | 5 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 5 | 0,0 % |
@@ -53,15 +54,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112765868` | Palazzo des Ottocento an Via Fiume | 32.522 | 1.1–1.21 |
+| 1 | `w112765868` | Palazzo des Ottocento an Via Fiume | 32.539 | 1.1–1.21 |
 | 2 | `w112765868_innen` | Palazzo des Ottocento an Via Fiume: Innenausbau | 5.921 | 1.22–1.25 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Palazzo des Ottocento an Via Fiume – Teil 1/21 (Y 63–63)
+### Schritt 1.1 – Palazzo des Ottocento an Via Fiume – Teil 1/21 (Y 60–61)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.852
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.869
 - **Bauteile:** `w112765868`
 
 **Teileliste**
@@ -69,6 +70,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.852 |
+| Tuffstein | `tuff` | 17 |
 
 **Beschreibung**
 
@@ -86,9 +88,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Palazzo des Ottocento an Via Fiume – Teil 2/21 (Y 63–63)
+### Schritt 1.2 – Palazzo des Ottocento an Via Fiume – Teil 2/21 (Y 61–61)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 1.839
 - **Bauteile:** `w112765868`
 
@@ -114,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Palazzo des Ottocento an Via Fiume – Teil 3/21 (Y 64–64)
+### Schritt 1.3 – Palazzo des Ottocento an Via Fiume – Teil 3/21 (Y 62–62)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 788
 - **Bauteile:** `w112765868`
 
@@ -145,9 +147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Palazzo des Ottocento an Via Fiume – Teil 4/21 (Y 65–66)
+### Schritt 1.4 – Palazzo des Ottocento an Via Fiume – Teil 4/21 (Y 63–64)
 
-- **Y-Bereich:** 65 bis 66
+- **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.576
 - **Bauteile:** `w112765868`
 
@@ -177,9 +179,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Palazzo des Ottocento an Via Fiume – Teil 5/21 (Y 67–68)
+### Schritt 1.5 – Palazzo des Ottocento an Via Fiume – Teil 5/21 (Y 65–66)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.426
 - **Bauteile:** `w112765868`
 
@@ -211,9 +213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Palazzo des Ottocento an Via Fiume – Teil 6/21 (Y 69–70)
+### Schritt 1.6 – Palazzo des Ottocento an Via Fiume – Teil 6/21 (Y 67–68)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.432
 - **Bauteile:** `w112765868`
 
@@ -244,9 +246,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Palazzo des Ottocento an Via Fiume – Teil 7/21 (Y 71–72)
+### Schritt 1.7 – Palazzo des Ottocento an Via Fiume – Teil 7/21 (Y 69–70)
 
-- **Y-Bereich:** 71 bis 72
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 1.525
 - **Bauteile:** `w112765868`
 
@@ -275,9 +277,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Palazzo des Ottocento an Via Fiume – Teil 8/21 (Y 73–74)
+### Schritt 1.8 – Palazzo des Ottocento an Via Fiume – Teil 8/21 (Y 71–72)
 
-- **Y-Bereich:** 73 bis 74
+- **Y-Bereich:** 71 bis 72
 - **Blöcke:** 1.590
 - **Bauteile:** `w112765868`
 
@@ -305,9 +307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Palazzo des Ottocento an Via Fiume – Teil 9/21 (Y 75–76)
+### Schritt 1.9 – Palazzo des Ottocento an Via Fiume – Teil 9/21 (Y 73–74)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 73 bis 74
 - **Blöcke:** 1.590
 - **Bauteile:** `w112765868`
 
@@ -335,7 +337,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Palazzo des Ottocento an Via Fiume – Teil 10/21 (Y 77–78)
+### Schritt 1.10 – Palazzo des Ottocento an Via Fiume – Teil 10/21 (Y 75–76)
+
+- **Y-Bereich:** 75 bis 76
+- **Blöcke:** 1.428
+- **Bauteile:** `w112765868`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 798 |
+| Graues Buntglas | `gray_stained_glass` | 238 |
+| Weißer Beton | `white_concrete` | 236 |
+| Grüner Beton | `green_concrete` | 100 |
+| Polierter Andesit | `polished_andesite` | 56 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.11 – Palazzo des Ottocento an Via Fiume – Teil 11/21 (Y 77–78)
 
 - **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.428
@@ -367,41 +401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Palazzo des Ottocento an Via Fiume – Teil 11/21 (Y 79–80)
+### Schritt 1.12 – Palazzo des Ottocento an Via Fiume – Teil 12/21 (Y 79–80)
 
 - **Y-Bereich:** 79 bis 80
-- **Blöcke:** 1.428
-- **Bauteile:** `w112765868`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 798 |
-| Graues Buntglas | `gray_stained_glass` | 238 |
-| Weißer Beton | `white_concrete` | 236 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 56 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.12 – Palazzo des Ottocento an Via Fiume – Teil 12/21 (Y 81–82)
-
-- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.590
 - **Bauteile:** `w112765868`
 
@@ -429,9 +431,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Palazzo des Ottocento an Via Fiume – Teil 13/21 (Y 83–84)
+### Schritt 1.13 – Palazzo des Ottocento an Via Fiume – Teil 13/21 (Y 81–82)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.590
 - **Bauteile:** `w112765868`
 
@@ -459,9 +461,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Palazzo des Ottocento an Via Fiume – Teil 14/21 (Y 85–86)
+### Schritt 1.14 – Palazzo des Ottocento an Via Fiume – Teil 14/21 (Y 83–84)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.509
 - **Bauteile:** `w112765868`
 
@@ -491,7 +493,39 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Palazzo des Ottocento an Via Fiume – Teil 15/21 (Y 87–88)
+### Schritt 1.15 – Palazzo des Ottocento an Via Fiume – Teil 15/21 (Y 85–86)
+
+- **Y-Bereich:** 85 bis 86
+- **Blöcke:** 1.428
+- **Bauteile:** `w112765868`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Endsteinziegel | `end_stone_bricks` | 798 |
+| Graues Buntglas | `gray_stained_glass` | 238 |
+| Weißer Beton | `white_concrete` | 236 |
+| Grüner Beton | `green_concrete` | 100 |
+| Polierter Andesit | `polished_andesite` | 56 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.16 – Palazzo des Ottocento an Via Fiume – Teil 16/21 (Y 87–88)
 
 - **Y-Bereich:** 87 bis 88
 - **Blöcke:** 1.428
@@ -523,41 +557,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Palazzo des Ottocento an Via Fiume – Teil 16/21 (Y 89–90)
+### Schritt 1.17 – Palazzo des Ottocento an Via Fiume – Teil 17/21 (Y 89–90)
 
 - **Y-Bereich:** 89 bis 90
-- **Blöcke:** 1.428
-- **Bauteile:** `w112765868`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 798 |
-| Graues Buntglas | `gray_stained_glass` | 238 |
-| Weißer Beton | `white_concrete` | 236 |
-| Grüner Beton | `green_concrete` | 100 |
-| Polierter Andesit | `polished_andesite` | 56 |
-
-**Beschreibung**
-
-Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 1.17 – Palazzo des Ottocento an Via Fiume – Teil 17/21 (Y 91–92)
-
-- **Y-Bereich:** 91 bis 92
 - **Blöcke:** 1.869
 - **Bauteile:** `w112765868`
 
@@ -586,9 +588,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.18 – Palazzo des Ottocento an Via Fiume – Teil 18/21 (Y 93–93)
+### Schritt 1.18 – Palazzo des Ottocento an Via Fiume – Teil 18/21 (Y 91–91)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.405
 - **Bauteile:** `w112765868`
 
@@ -616,9 +618,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.19 – Palazzo des Ottocento an Via Fiume – Teil 19/21 (Y 94–94)
+### Schritt 1.19 – Palazzo des Ottocento an Via Fiume – Teil 19/21 (Y 92–92)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.745
 - **Bauteile:** `w112765868`
 
@@ -644,9 +646,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.20 – Palazzo des Ottocento an Via Fiume – Teil 20/21 (Y 95–96)
+### Schritt 1.20 – Palazzo des Ottocento an Via Fiume – Teil 20/21 (Y 93–94)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.636
 - **Bauteile:** `w112765868`
 
@@ -672,9 +674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.21 – Palazzo des Ottocento an Via Fiume – Teil 21/21 (Y 97–102)
+### Schritt 1.21 – Palazzo des Ottocento an Via Fiume – Teil 21/21 (Y 95–100)
 
-- **Y-Bereich:** 97 bis 102
+- **Y-Bereich:** 95 bis 100
 - **Blöcke:** 1.848
 - **Bauteile:** `w112765868`
 
@@ -701,9 +703,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.22 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 1.22 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 1/4 (Y 61–72)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 61 bis 72
 - **Blöcke:** 1.520
 - **Bauteile:** `w112765868_innen`
 
@@ -743,9 +745,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.23 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 1.23 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 2/4 (Y 72–72)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.447
 - **Bauteile:** `w112765868_innen`
 
@@ -779,9 +781,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.24 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 1.24 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 3/4 (Y 73–81)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.500
 - **Bauteile:** `w112765868_innen`
 
@@ -823,9 +825,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 1.25 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 1.25 – Palazzo des Ottocento an Via Fiume: Innenausbau – Teil 4/4 (Y 81–82)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 81 bis 82
 - **Blöcke:** 1.454
 - **Bauteile:** `w112765868_innen`
 

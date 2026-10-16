@@ -8,33 +8,33 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 101.442 |
+| Blöcke | 101.862 |
 | Bauschritte | 60 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 61 bis 103 |
 | X-Ausdehnung | -1012 bis -902 (111 Blöcke) |
 | Z-Ausdehnung | 208 bis 368 (161 Blöcke) |
 | Kleinster Schritt | 1.064 Blöcke (Schritt 10.16) |
-| Mittlerer Schritt | 1.691 Blöcke |
+| Mittlerer Schritt | 1.698 Blöcke |
 | Größter Schritt | 2.082 Blöcke (Schritt 10.20) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 35.574 | 35,1 % |
+| Terrakotta | `terracotta` | 35.575 | 34,9 % |
 | Endsteinziegel | `end_stone_bricks` | 12.495 | 12,3 % |
-| Polierter Tuffstein | `polished_tuff` | 11.583 | 11,4 % |
-| Tuffstein | `tuff` | 10.133 | 10,0 % |
-| Polierter Andesit | `polished_andesite` | 7.678 | 7,6 % |
-| Hellgrauer Beton | `light_gray_concrete` | 6.888 | 6,8 % |
-| Glatter Stein | `smooth_stone` | 5.796 | 5,7 % |
+| Polierter Tuffstein | `polished_tuff` | 11.584 | 11,4 % |
+| Tuffstein | `tuff` | 10.478 | 10,3 % |
+| Polierter Andesit | `polished_andesite` | 7.678 | 7,5 % |
+| Hellgrauer Beton | `light_gray_concrete` | 6.918 | 6,8 % |
+| Glatter Stein | `smooth_stone` | 5.834 | 5,7 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.546 | 3,5 % |
 | Graues Buntglas | `gray_stained_glass` | 2.869 | 2,8 % |
 | Weißer Beton | `white_concrete` | 1.899 | 1,9 % |
 | Ziegelsteine | `bricks` | 1.059 | 1,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 946 | 0,9 % |
 | Grüner Beton | `green_concrete` | 498 | 0,5 % |
-| Seelaterne | `sea_lantern` | 181 | 0,2 % |
+| Seelaterne | `sea_lantern` | 178 | 0,2 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 76 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 76 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 30 | 0,0 % |
@@ -46,6 +46,9 @@
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 9 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 6 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -58,23 +61,24 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `r1612591` | Palazzo des Cinquecento an Via dei Giacomini | 22.159 | 10.1–10.13 |
+| 1 | `r1612591` | Palazzo des Cinquecento an Via dei Giacomini | 22.325 | 10.1–10.13 |
 | 2 | `r1612591_innen` | Palazzo des Cinquecento an Via dei Giacomini: Innenausbau | 4.043 | 10.14–10.15 |
 | 3 | `w307170310` | Palazzetto Tornabuoni | 14.371 | 10.16–10.23 |
 | 4 | `w307170310_innen` | Palazzetto Tornabuoni: Innenausbau | 3.874 | 10.24–10.25 |
-| 5 | `w307170313` | Palazzo Viviani della Robbia | 14.739 | 10.26–10.34 |
+| 5 | `w307170313` | Palazzo Viviani della Robbia | 14.768 | 10.26–10.34 |
 | 6 | `w307170313_innen` | Palazzo Viviani della Robbia: Innenausbau | 4.120 | 10.35–10.36 |
-| 7 | `w307170316` | Palazzo Larderel | 8.085 | 10.37–10.41 |
+| 7 | `w307170316` | Palazzo Larderel | 8.117 | 10.37–10.41 |
 | 8 | `w307170316_innen` | Palazzo Larderel: Innenausbau | 2.140 | 10.42–10.43 |
-| 9 | `w482739750` | Renaissance-Palazzo an Via delle Belle Donne | 21.878 | 10.44–10.56 |
-| 10 | `w482739750_innen` | Renaissance-Palazzo an Via delle Belle Donne: Innenausbau | 6.033 | 10.57–10.60 |
+| 9 | `w482739750` | Renaissance-Palazzo an Via delle Belle Donne | 22.064 | 10.44–10.56 |
+| 10 | `w482739750_innen` | Renaissance-Palazzo an Via delle Belle Donne: Innenausbau | 6.032 | 10.57–10.60 |
+| 11 | `strassenschilder` | Straßenschilder | 8 | 10.60 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Palazzo des Cinquecento an Via dei Giacomini – Teil 1/13 (Y 63–63)
+### Schritt 10.1 – Palazzo des Cinquecento an Via dei Giacomini – Teil 1/13 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.253
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.419
 - **Bauteile:** `r1612591`
 
 **Teileliste**
@@ -82,6 +86,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.253 |
+| Tuffstein | `tuff` | 166 |
 
 **Beschreibung**
 
@@ -893,9 +898,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.26 – Palazzo Viviani della Robbia – Teil 1/9 (Y 63–63)
+### Schritt 10.26 – Palazzo Viviani della Robbia – Teil 1/9 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.124
 - **Bauteile:** `w307170313`
 
@@ -921,10 +926,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.27 – Palazzo Viviani della Robbia – Teil 2/9 (Y 63–65)
+### Schritt 10.27 – Palazzo Viviani della Robbia – Teil 2/9 (Y 62–64)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.795
+- **Y-Bereich:** 62 bis 64
+- **Blöcke:** 1.824
 - **Bauteile:** `w307170313`
 
 **Teileliste**
@@ -932,7 +937,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.187 |
-| Hellgrauer Beton | `light_gray_concrete` | 599 |
+| Hellgrauer Beton | `light_gray_concrete` | 628 |
 | Glatter Stein | `smooth_stone` | 4 |
 | Polierter Andesit | `polished_andesite` | 3 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
@@ -953,9 +958,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.28 – Palazzo Viviani della Robbia – Teil 3/9 (Y 66–72)
+### Schritt 10.28 – Palazzo Viviani della Robbia – Teil 3/9 (Y 65–71)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 65 bis 71
 - **Blöcke:** 2.028
 - **Bauteile:** `w307170313`
 
@@ -986,9 +991,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.29 – Palazzo Viviani della Robbia – Teil 4/9 (Y 73–77)
+### Schritt 10.29 – Palazzo Viviani della Robbia – Teil 4/9 (Y 72–76)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.528
 - **Bauteile:** `w307170313`
 
@@ -1019,9 +1024,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.30 – Palazzo Viviani della Robbia – Teil 5/9 (Y 78–83)
+### Schritt 10.30 – Palazzo Viviani della Robbia – Teil 5/9 (Y 77–82)
 
-- **Y-Bereich:** 78 bis 83
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 1.736
 - **Bauteile:** `w307170313`
 
@@ -1051,9 +1056,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.31 – Palazzo Viviani della Robbia – Teil 6/9 (Y 84–88)
+### Schritt 10.31 – Palazzo Viviani della Robbia – Teil 6/9 (Y 83–87)
 
-- **Y-Bereich:** 84 bis 88
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.488
 - **Bauteile:** `w307170313`
 
@@ -1083,17 +1088,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.32 – Palazzo Viviani della Robbia – Teil 7/9 (Y 89–93)
+### Schritt 10.32 – Palazzo Viviani della Robbia – Teil 7/9 (Y 88–92)
 
-- **Y-Bereich:** 89 bis 93
-- **Blöcke:** 1.697
+- **Y-Bereich:** 88 bis 92
+- **Blöcke:** 1.698
 - **Bauteile:** `w307170313`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.438 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.439 |
 | Glatter Stein | `smooth_stone` | 139 |
 | Graues Buntglas | `gray_stained_glass` | 84 |
 | Grüner Beton | `green_concrete` | 32 |
@@ -1115,17 +1120,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.33 – Palazzo Viviani della Robbia – Teil 8/9 (Y 94–95)
+### Schritt 10.33 – Palazzo Viviani della Robbia – Teil 8/9 (Y 93–94)
 
-- **Y-Bereich:** 94 bis 95
-- **Blöcke:** 1.422
+- **Y-Bereich:** 93 bis 94
+- **Blöcke:** 1.421
 - **Bauteile:** `w307170313`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.422 |
+| Terrakotta | `terracotta` | 1.421 |
 
 **Beschreibung**
 
@@ -1143,9 +1148,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.34 – Palazzo Viviani della Robbia – Teil 9/9 (Y 96–103)
+### Schritt 10.34 – Palazzo Viviani della Robbia – Teil 9/9 (Y 95–102)
 
-- **Y-Bereich:** 96 bis 103
+- **Y-Bereich:** 95 bis 102
 - **Blöcke:** 1.921
 - **Bauteile:** `w307170313`
 
@@ -1172,9 +1177,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.35 – Palazzo Viviani della Robbia: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 10.35 – Palazzo Viviani della Robbia: Innenausbau – Teil 1/2 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 2.058
 - **Bauteile:** `w307170313_innen`
 
@@ -1214,9 +1219,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.36 – Palazzo Viviani della Robbia: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 10.36 – Palazzo Viviani della Robbia: Innenausbau – Teil 2/2 (Y 73–83)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 73 bis 83
 - **Blöcke:** 2.062
 - **Bauteile:** `w307170313_innen`
 
@@ -1260,10 +1265,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.37 – Palazzo Larderel – Teil 1/5 (Y 63–65)
+### Schritt 10.37 – Palazzo Larderel – Teil 1/5 (Y 63–66)
 
-- **Y-Bereich:** 63 bis 65
-- **Blöcke:** 1.650
+- **Y-Bereich:** 63 bis 66
+- **Blöcke:** 1.682
 - **Bauteile:** `w307170316`
 
 **Teileliste**
@@ -1272,6 +1277,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.236 |
 | Glatter Sandstein | `smooth_sandstone` | 394 |
+| Tuffstein | `tuff` | 32 |
 | Polierter Andesit | `polished_andesite` | 14 |
 | Glatter Stein | `smooth_stone` | 4 |
 | Tuffsteinziegel | `tuff_bricks` | 2 |
@@ -1292,9 +1298,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.38 – Palazzo Larderel – Teil 2/5 (Y 66–73)
+### Schritt 10.38 – Palazzo Larderel – Teil 2/5 (Y 67–74)
 
-- **Y-Bereich:** 66 bis 73
+- **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.623
 - **Bauteile:** `w307170316`
 
@@ -1324,9 +1330,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.39 – Palazzo Larderel – Teil 3/5 (Y 74–80)
+### Schritt 10.39 – Palazzo Larderel – Teil 3/5 (Y 75–81)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.501
 - **Bauteile:** `w307170316`
 
@@ -1355,9 +1361,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.40 – Palazzo Larderel – Teil 4/5 (Y 81–86)
+### Schritt 10.40 – Palazzo Larderel – Teil 4/5 (Y 82–87)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 82 bis 87
 - **Blöcke:** 1.511
 - **Bauteile:** `w307170316`
 
@@ -1386,9 +1392,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.41 – Palazzo Larderel – Teil 5/5 (Y 87–94)
+### Schritt 10.41 – Palazzo Larderel – Teil 5/5 (Y 88–95)
 
-- **Y-Bereich:** 87 bis 94
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.800
 - **Bauteile:** `w307170316`
 
@@ -1415,9 +1421,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.42 – Palazzo Larderel: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 10.42 – Palazzo Larderel: Innenausbau – Teil 1/2 (Y 64–74)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.074
 - **Bauteile:** `w307170316_innen`
 
@@ -1457,9 +1463,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.43 – Palazzo Larderel: Innenausbau – Teil 2/2 (Y 74–80)
+### Schritt 10.43 – Palazzo Larderel: Innenausbau – Teil 2/2 (Y 75–81)
 
-- **Y-Bereich:** 74 bis 80
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.066
 - **Bauteile:** `w307170316_innen`
 
@@ -1501,17 +1507,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.44 – Renaissance-Palazzo an Via delle Belle Donne – Teil 1/13 (Y 63–63)
+### Schritt 10.44 – Renaissance-Palazzo an Via delle Belle Donne – Teil 1/13 (Y 61–61)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.652
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.651
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.652 |
+| Polierter Tuffstein | `polished_tuff` | 1.651 |
 
 **Beschreibung**
 
@@ -1529,17 +1535,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.45 – Renaissance-Palazzo an Via delle Belle Donne – Teil 2/13 (Y 63–63)
+### Schritt 10.45 – Renaissance-Palazzo an Via delle Belle Donne – Teil 2/13 (Y 61–61)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.717
+- **Y-Bereich:** 61 bis 61
+- **Blöcke:** 1.719
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.717 |
+| Polierter Tuffstein | `polished_tuff` | 1.719 |
 
 **Beschreibung**
 
@@ -1557,17 +1563,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.46 – Renaissance-Palazzo an Via delle Belle Donne – Teil 3/13 (Y 64–67)
+### Schritt 10.46 – Renaissance-Palazzo an Via delle Belle Donne – Teil 3/13 (Y 62–65)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.652
+- **Y-Bereich:** 62 bis 65
+- **Blöcke:** 1.799
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 715 |
+| Tuffstein | `tuff` | 862 |
 | Polierter Andesit | `polished_andesite` | 547 |
 | Tuffsteinziegel | `tuff_bricks` | 320 |
 | Graues Buntglas | `gray_stained_glass` | 60 |
@@ -1589,21 +1595,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.47 – Renaissance-Palazzo an Via delle Belle Donne – Teil 4/13 (Y 68–72)
+### Schritt 10.47 – Renaissance-Palazzo an Via delle Belle Donne – Teil 4/13 (Y 66–69)
 
-- **Y-Bereich:** 68 bis 72
-- **Blöcke:** 1.911
+- **Y-Bereich:** 66 bis 69
+- **Blöcke:** 1.490
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 752 |
-| Polierter Andesit | `polished_andesite` | 697 |
-| Tuffsteinziegel | `tuff_bricks` | 228 |
+| Tuffstein | `tuff` | 557 |
+| Polierter Andesit | `polished_andesite` | 511 |
 | Graues Buntglas | `gray_stained_glass` | 220 |
-| Glatter Stein | `smooth_stone` | 14 |
+| Tuffsteinziegel | `tuff_bricks` | 192 |
+| Glatter Stein | `smooth_stone` | 10 |
 
 **Beschreibung**
 
@@ -1621,20 +1627,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.48 – Renaissance-Palazzo an Via delle Belle Donne – Teil 5/13 (Y 73–75)
+### Schritt 10.48 – Renaissance-Palazzo an Via delle Belle Donne – Teil 5/13 (Y 70–73)
 
-- **Y-Bereich:** 73 bis 75
-- **Blöcke:** 1.440
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.862
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 594 |
-| Glatter Stein | `smooth_stone` | 380 |
-| Polierter Andesit | `polished_andesite` | 361 |
-| Tuffsteinziegel | `tuff_bricks` | 105 |
+| Tuffstein | `tuff` | 789 |
+| Polierter Andesit | `polished_andesite` | 547 |
+| Glatter Stein | `smooth_stone` | 385 |
+| Tuffsteinziegel | `tuff_bricks` | 141 |
 
 **Beschreibung**
 
@@ -1652,9 +1658,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.49 – Renaissance-Palazzo an Via delle Belle Donne – Teil 6/13 (Y 76–79)
+### Schritt 10.49 – Renaissance-Palazzo an Via delle Belle Donne – Teil 6/13 (Y 74–77)
 
-- **Y-Bereich:** 76 bis 79
+- **Y-Bereich:** 74 bis 77
 - **Blöcke:** 1.576
 - **Bauteile:** `w482739750`
 
@@ -1683,10 +1689,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.50 – Renaissance-Palazzo an Via delle Belle Donne – Teil 7/13 (Y 80–83)
+### Schritt 10.50 – Renaissance-Palazzo an Via delle Belle Donne – Teil 7/13 (Y 78–81)
 
-- **Y-Bereich:** 80 bis 83
-- **Blöcke:** 1.794
+- **Y-Bereich:** 78 bis 81
+- **Blöcke:** 1.795
 - **Bauteile:** `w482739750`
 
 **Teileliste**
@@ -1695,7 +1701,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Tuffstein | `tuff` | 718 |
 | Polierter Andesit | `polished_andesite` | 599 |
-| Glatter Stein | `smooth_stone` | 395 |
+| Glatter Stein | `smooth_stone` | 396 |
 | Graues Buntglas | `gray_stained_glass` | 82 |
 
 **Beschreibung**
@@ -1714,9 +1720,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.51 – Renaissance-Palazzo an Via delle Belle Donne – Teil 8/13 (Y 84–87)
+### Schritt 10.51 – Renaissance-Palazzo an Via delle Belle Donne – Teil 8/13 (Y 82–85)
 
-- **Y-Bereich:** 84 bis 87
+- **Y-Bereich:** 82 bis 85
 - **Blöcke:** 1.639
 - **Bauteile:** `w482739750`
 
@@ -1745,10 +1751,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.52 – Renaissance-Palazzo an Via delle Belle Donne – Teil 9/13 (Y 88–91)
+### Schritt 10.52 – Renaissance-Palazzo an Via delle Belle Donne – Teil 9/13 (Y 86–89)
 
-- **Y-Bereich:** 88 bis 91
-- **Blöcke:** 1.734
+- **Y-Bereich:** 86 bis 89
+- **Blöcke:** 1.735
 - **Bauteile:** `w482739750`
 
 **Teileliste**
@@ -1757,7 +1763,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 757 |
 | Tuffstein | `tuff` | 655 |
-| Glatter Stein | `smooth_stone` | 169 |
+| Glatter Stein | `smooth_stone` | 170 |
 | Graues Buntglas | `gray_stained_glass` | 153 |
 
 **Beschreibung**
@@ -1776,17 +1782,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.53 – Renaissance-Palazzo an Via delle Belle Donne – Teil 10/13 (Y 92–93)
+### Schritt 10.53 – Renaissance-Palazzo an Via delle Belle Donne – Teil 10/13 (Y 90–91)
 
-- **Y-Bereich:** 92 bis 93
-- **Blöcke:** 1.670
+- **Y-Bereich:** 90 bis 91
+- **Blöcke:** 1.705
 - **Bauteile:** `w482739750`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 819 |
+| Glatter Stein | `smooth_stone` | 854 |
 | Polierter Andesit | `polished_andesite` | 455 |
 | Tuffstein | `tuff` | 396 |
 
@@ -1806,9 +1812,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.54 – Renaissance-Palazzo an Via delle Belle Donne – Teil 11/13 (Y 94–94)
+### Schritt 10.54 – Renaissance-Palazzo an Via delle Belle Donne – Teil 11/13 (Y 92–92)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.489
 - **Bauteile:** `w482739750`
 
@@ -1834,9 +1840,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.55 – Renaissance-Palazzo an Via delle Belle Donne – Teil 12/13 (Y 95–96)
+### Schritt 10.55 – Renaissance-Palazzo an Via delle Belle Donne – Teil 12/13 (Y 93–94)
 
-- **Y-Bereich:** 95 bis 96
+- **Y-Bereich:** 93 bis 94
 - **Blöcke:** 1.532
 - **Bauteile:** `w482739750`
 
@@ -1862,9 +1868,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.56 – Renaissance-Palazzo an Via delle Belle Donne – Teil 13/13 (Y 97–104)
+### Schritt 10.56 – Renaissance-Palazzo an Via delle Belle Donne – Teil 13/13 (Y 95–102)
 
-- **Y-Bereich:** 97 bis 104
+- **Y-Bereich:** 95 bis 102
 - **Blöcke:** 2.072
 - **Bauteile:** `w482739750`
 
@@ -1891,24 +1897,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.57 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 10.57 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 1/4 (Y 61–72)
 
-- **Y-Bereich:** 63 bis 74
-- **Blöcke:** 1.546
+- **Y-Bereich:** 61 bis 72
+- **Blöcke:** 1.545
 - **Bauteile:** `w482739750_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.470 |
+| Terrakotta | `terracotta` | 1.469 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Seelaterne | `sea_lantern` | 25 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 12 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1933,9 +1939,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.58 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 10.58 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 2/4 (Y 72–72)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.476
 - **Bauteile:** `w482739750_innen`
 
@@ -1943,8 +1949,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.463 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.465 |
+| Seelaterne | `sea_lantern` | 9 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 
 **Treppen je Material** (alle Richtungen)
@@ -1969,9 +1975,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.59 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 10.59 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 3/4 (Y 73–81)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 73 bis 81
 - **Blöcke:** 1.526
 - **Bauteile:** `w482739750_innen`
 
@@ -1979,10 +1985,10 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.470 |
+| Terrakotta | `terracotta` | 1.469 |
 | Glatter Stein | `smooth_stone` | 24 |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 10 |
-| Seelaterne | `sea_lantern` | 7 |
+| Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 6 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
@@ -2013,24 +2019,27 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.60 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 10.60 – Renaissance-Palazzo an Via delle Belle Donne: Innenausbau – Teil 4/4 (Y 81–82) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 84
-- **Blöcke:** 1.485
-- **Bauteile:** `w482739750_innen`
+- **Y-Bereich:** 68 bis 82
+- **Blöcke:** 1.493
+- **Bauteile:** `w482739750_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.463 |
-| Seelaterne | `sea_lantern` | 11 |
+| Terrakotta | `terracotta` | 1.465 |
+| Seelaterne | `sea_lantern` | 9 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 3 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2041,16 +2050,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

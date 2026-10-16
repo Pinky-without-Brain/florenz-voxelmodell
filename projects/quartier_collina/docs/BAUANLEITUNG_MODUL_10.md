@@ -8,27 +8,28 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 22.974 |
+| Blöcke | 23.242 |
 | Bauschritte | 13 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 173 bis 215 |
 | X-Ausdehnung | -899 bis -809 (91 Blöcke) |
 | Z-Ausdehnung | 2528 bis 2591 (64 Blöcke) |
-| Kleinster Schritt | 1.103 Blöcke (Schritt 10.1) |
-| Mittlerer Schritt | 1.767 Blöcke |
+| Kleinster Schritt | 1.371 Blöcke (Schritt 10.1) |
+| Mittlerer Schritt | 1.788 Blöcke |
 | Größter Schritt | 2.025 Blöcke (Schritt 10.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 8.553 | 37,2 % |
-| Terrakotta | `terracotta` | 6.504 | 28,3 % |
-| Polierter Tuffstein | `polished_tuff` | 2.230 | 9,7 % |
-| Weißer Beton | `white_concrete` | 2.213 | 9,6 % |
-| Graues Buntglas | `gray_stained_glass` | 1.163 | 5,1 % |
+| Glatter Sandstein | `smooth_sandstone` | 8.553 | 36,8 % |
+| Terrakotta | `terracotta` | 6.504 | 28,0 % |
+| Polierter Tuffstein | `polished_tuff` | 2.230 | 9,6 % |
+| Weißer Beton | `white_concrete` | 2.213 | 9,5 % |
+| Graues Buntglas | `gray_stained_glass` | 1.163 | 5,0 % |
 | Glatter Stein | `smooth_stone` | 947 | 4,1 % |
-| Grüner Beton | `green_concrete` | 891 | 3,9 % |
+| Grüner Beton | `green_concrete` | 891 | 3,8 % |
 | Polierter Andesit | `polished_andesite` | 294 | 1,3 % |
+| Tuffstein | `tuff` | 268 | 1,2 % |
 | Ziegelsteine | `bricks` | 109 | 0,5 % |
 | Seelaterne | `sea_lantern` | 30 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 22 | 0,1 % |
@@ -44,15 +45,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w475937094` | Haus w475937094 | 19.374 | 10.1–10.11 |
+| 1 | `w475937094` | Haus w475937094 | 19.642 | 10.1–10.11 |
 | 2 | `w475937094_innen` | Haus w475937094: Innenausbau | 3.600 | 10.12–10.13 |
 
 ## Bauschritte
 
-### Schritt 10.1 – Haus w475937094 – Teil 1/11 (Y 63–63)
+### Schritt 10.1 – Haus w475937094 – Teil 1/11 (Y 173–178)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.103
+- **Y-Bereich:** 173 bis 178
+- **Blöcke:** 1.371
 - **Bauteile:** `w475937094`
 
 **Teileliste**
@@ -60,6 +61,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.103 |
+| Tuffstein | `tuff` | 268 |
 
 **Beschreibung**
 
@@ -77,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.2 – Haus w475937094 – Teil 2/11 (Y 63–65)
+### Schritt 10.2 – Haus w475937094 – Teil 2/11 (Y 178–180)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 178 bis 180
 - **Blöcke:** 2.025
 - **Bauteile:** `w475937094`
 
@@ -109,9 +111,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.3 – Haus w475937094 – Teil 3/11 (Y 66–69)
+### Schritt 10.3 – Haus w475937094 – Teil 3/11 (Y 181–184)
 
-- **Y-Bereich:** 66 bis 69
+- **Y-Bereich:** 181 bis 184
 - **Blöcke:** 1.711
 - **Bauteile:** `w475937094`
 
@@ -142,9 +144,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.4 – Haus w475937094 – Teil 4/11 (Y 70–73)
+### Schritt 10.4 – Haus w475937094 – Teil 4/11 (Y 185–188)
 
-- **Y-Bereich:** 70 bis 73
+- **Y-Bereich:** 185 bis 188
 - **Blöcke:** 1.814
 - **Bauteile:** `w475937094`
 
@@ -175,9 +177,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.5 – Haus w475937094 – Teil 5/11 (Y 74–77)
+### Schritt 10.5 – Haus w475937094 – Teil 5/11 (Y 189–192)
 
-- **Y-Bereich:** 74 bis 77
+- **Y-Bereich:** 189 bis 192
 - **Blöcke:** 1.880
 - **Bauteile:** `w475937094`
 
@@ -208,9 +210,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.6 – Haus w475937094 – Teil 6/11 (Y 78–81)
+### Schritt 10.6 – Haus w475937094 – Teil 6/11 (Y 193–196)
 
-- **Y-Bereich:** 78 bis 81
+- **Y-Bereich:** 193 bis 196
 - **Blöcke:** 1.776
 - **Bauteile:** `w475937094`
 
@@ -240,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.7 – Haus w475937094 – Teil 7/11 (Y 82–85)
+### Schritt 10.7 – Haus w475937094 – Teil 7/11 (Y 197–200)
 
-- **Y-Bereich:** 82 bis 85
+- **Y-Bereich:** 197 bis 200
 - **Blöcke:** 1.932
 - **Bauteile:** `w475937094`
 
@@ -271,9 +273,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.8 – Haus w475937094 – Teil 8/11 (Y 86–89)
+### Schritt 10.8 – Haus w475937094 – Teil 8/11 (Y 201–204)
 
-- **Y-Bereich:** 86 bis 89
+- **Y-Bereich:** 201 bis 204
 - **Blöcke:** 1.724
 - **Bauteile:** `w475937094`
 
@@ -303,9 +305,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.9 – Haus w475937094 – Teil 9/11 (Y 90–92)
+### Schritt 10.9 – Haus w475937094 – Teil 9/11 (Y 205–207)
 
-- **Y-Bereich:** 90 bis 92
+- **Y-Bereich:** 205 bis 207
 - **Blöcke:** 1.594
 - **Bauteile:** `w475937094`
 
@@ -335,9 +337,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.10 – Haus w475937094 – Teil 10/11 (Y 93–94)
+### Schritt 10.10 – Haus w475937094 – Teil 10/11 (Y 208–209)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 208 bis 209
 - **Blöcke:** 1.802
 - **Bauteile:** `w475937094`
 
@@ -365,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.11 – Haus w475937094 – Teil 11/11 (Y 95–100)
+### Schritt 10.11 – Haus w475937094 – Teil 11/11 (Y 210–215)
 
-- **Y-Bereich:** 95 bis 100
+- **Y-Bereich:** 210 bis 215
 - **Blöcke:** 2.013
 - **Bauteile:** `w475937094`
 
@@ -394,9 +396,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 10.12 – Haus w475937094: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 10.12 – Haus w475937094: Innenausbau – Teil 1/2 (Y 178–189)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 178 bis 189
 - **Blöcke:** 1.809
 - **Bauteile:** `w475937094_innen`
 
@@ -432,9 +434,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 10.13 – Haus w475937094: Innenausbau – Teil 2/2 (Y 75–83)
+### Schritt 10.13 – Haus w475937094: Innenausbau – Teil 2/2 (Y 190–198)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 190 bis 198
 - **Blöcke:** 1.791
 - **Bauteile:** `w475937094_innen`
 

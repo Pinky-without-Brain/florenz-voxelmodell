@@ -8,48 +8,51 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 54.890 |
-| Bauschritte | 34 |
-| Y-Bereich | 63 bis 103 |
+| Blöcke | 59.267 |
+| Bauschritte | 36 |
+| Y-Bereich | 68 bis 119 |
 | X-Ausdehnung | -3055 bis -2920 (136 Blöcke) |
 | Z-Ausdehnung | 1742 bis 1884 (143 Blöcke) |
-| Kleinster Schritt | 1.094 Blöcke (Schritt 3.33) |
-| Mittlerer Schritt | 1.614 Blöcke |
-| Größter Schritt | 2.063 Blöcke (Schritt 3.34) |
+| Kleinster Schritt | 1.092 Blöcke (Schritt 3.35) |
+| Mittlerer Schritt | 1.646 Blöcke |
+| Größter Schritt | 2.094 Blöcke (Schritt 3.31) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 17.742 | 32,3 % |
-| Terrakotta | `terracotta` | 16.760 | 30,5 % |
-| Weißer Beton | `white_concrete` | 9.354 | 17,0 % |
-| Polierter Tuffstein | `polished_tuff` | 5.073 | 9,2 % |
-| Gelbe Keramik | `yellow_terracotta` | 1.416 | 2,6 % |
-| Graues Buntglas | `gray_stained_glass` | 1.133 | 2,1 % |
-| Glatter Stein | `smooth_stone` | 1.040 | 1,9 % |
-| Polierter Andesit | `polished_andesite` | 688 | 1,3 % |
-| Hellgrauer Beton | `light_gray_concrete` | 479 | 0,9 % |
-| Ziegelsteine | `bricks` | 374 | 0,7 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 327 | 0,6 % |
-| Seelaterne | `sea_lantern` | 107 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 75 | 0,1 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 69 | 0,1 % |
+| Endsteinziegel | `end_stone_bricks` | 17.983 | 30,3 % |
+| Terrakotta | `terracotta` | 16.763 | 28,3 % |
+| Weißer Beton | `white_concrete` | 9.393 | 15,8 % |
+| Polierter Tuffstein | `polished_tuff` | 5.070 | 8,6 % |
+| Tuffstein | `tuff` | 4.013 | 6,8 % |
+| Gelbe Keramik | `yellow_terracotta` | 1.513 | 2,6 % |
+| Graues Buntglas | `gray_stained_glass` | 1.133 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 1.040 | 1,8 % |
+| Polierter Andesit | `polished_andesite` | 688 | 1,2 % |
+| Hellgrauer Beton | `light_gray_concrete` | 479 | 0,8 % |
+| Ziegelsteine | `bricks` | 374 | 0,6 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 326 | 0,6 % |
+| Seelaterne | `sea_lantern` | 103 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 74 | 0,1 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 68 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 49 | 0,1 % |
 | Fichtenholz-Bretter | `spruce_planks` | 49 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 45 | 0,1 % |
 | Grüner Beton | `green_concrete` | 42 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 22 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 18 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 14 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 14 | 0,0 % |
+| Rote Keramik | `red_terracotta` | 9 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 4 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 238 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 236 |
 | Steintreppe | `stone_stairs` | 40 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 ## Bauteile in Bau-Reihenfolge
 
@@ -59,20 +62,20 @@
 | 2 | `w442946750_innen` | Reihenhaus an Via San Francesco di Paola: Innenausbau | 1.329 | 3.5 |
 | 3 | `w442946752` | Reihenhaus an Via dei Villani | 5.852 | 3.6–3.8 |
 | 4 | `w442946752_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.337 | 3.9 |
-| 5 | `w442946787` | Reihenhaus an Via dei Villani | 2.864 | 3.10–3.11 |
-| 6 | `w442946787_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.152 | 3.12 |
-| 7 | `w464120085` | Palazzo des Ottocento an Via dei Villani | 15.105 | 3.13–3.21 |
-| 8 | `w464120085_innen` | Palazzo des Ottocento an Via dei Villani: Innenausbau | 2.890 | 3.22–3.23 |
-| 9 | `w464120134` | Reihenhaus an Via dei Villani | 4.622 | 3.24–3.26 |
-| 10 | `w464120134_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.389 | 3.27 |
-| 11 | `w464120219` | Reihenhaus an Via dei Villani | 8.702 | 3.28–3.32 |
-| 12 | `w464120219_innen` | Reihenhaus an Via dei Villani: Innenausbau | 3.157 | 3.33–3.34 |
+| 5 | `w442946787` | Reihenhaus an Via dei Villani | 2.962 | 3.10–3.11 |
+| 6 | `w442946787_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.147 | 3.12 |
+| 7 | `w464120085` | Palazzo des Ottocento an Via dei Villani | 18.515 | 3.13–3.23 |
+| 8 | `w464120085_innen` | Palazzo des Ottocento an Via dei Villani: Innenausbau | 2.890 | 3.24–3.25 |
+| 9 | `w464120134` | Reihenhaus an Via dei Villani | 4.661 | 3.26–3.28 |
+| 10 | `w464120134_innen` | Reihenhaus an Via dei Villani: Innenausbau | 1.389 | 3.29 |
+| 11 | `w464120219` | Reihenhaus an Via dei Villani | 9.546 | 3.30–3.34 |
+| 12 | `w464120219_innen` | Reihenhaus an Via dei Villani: Innenausbau | 3.148 | 3.35–3.36 |
 
 ## Bauschritte
 
-### Schritt 3.1 – Reihenhaus an Via San Francesco di Paola – Teil 1/4 (Y 63–69)
+### Schritt 3.1 – Reihenhaus an Via San Francesco di Paola – Teil 1/4 (Y 68–74)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 68 bis 74
 - **Blöcke:** 1.588
 - **Bauteile:** `w442946750`
 
@@ -101,9 +104,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.2 – Reihenhaus an Via San Francesco di Paola – Teil 2/4 (Y 70–79)
+### Schritt 3.2 – Reihenhaus an Via San Francesco di Paola – Teil 2/4 (Y 75–84)
 
-- **Y-Bereich:** 70 bis 79
+- **Y-Bereich:** 75 bis 84
 - **Blöcke:** 1.739
 - **Bauteile:** `w442946750`
 
@@ -131,9 +134,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.3 – Reihenhaus an Via San Francesco di Paola – Teil 3/4 (Y 80–88)
+### Schritt 3.3 – Reihenhaus an Via San Francesco di Paola – Teil 3/4 (Y 85–93)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 85 bis 93
 - **Blöcke:** 1.556
 - **Bauteile:** `w442946750`
 
@@ -161,9 +164,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.4 – Reihenhaus an Via San Francesco di Paola – Teil 4/4 (Y 89–99)
+### Schritt 3.4 – Reihenhaus an Via San Francesco di Paola – Teil 4/4 (Y 94–104)
 
-- **Y-Bereich:** 89 bis 99
+- **Y-Bereich:** 94 bis 104
 - **Blöcke:** 1.608
 - **Bauteile:** `w442946750`
 
@@ -195,7 +198,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.5 – Reihenhaus an Via San Francesco di Paola: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 68 bis 91
 - **Blöcke:** 1.329
 - **Bauteile:** `w442946750_innen`
 
@@ -231,9 +234,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.6 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 63–72)
+### Schritt 3.6 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 71–80)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 71 bis 80
 - **Blöcke:** 1.918
 - **Bauteile:** `w442946752`
 
@@ -263,9 +266,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.7 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 73–85)
+### Schritt 3.7 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 81–93)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 81 bis 93
 - **Blöcke:** 1.985
 - **Bauteile:** `w442946752`
 
@@ -293,9 +296,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.8 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 86–98)
+### Schritt 3.8 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 94–106)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 94 bis 106
 - **Blöcke:** 1.949
 - **Bauteile:** `w442946752`
 
@@ -327,7 +330,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.9 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 71 bis 94
 - **Blöcke:** 1.337
 - **Bauteile:** `w442946752_innen`
 
@@ -363,18 +366,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.10 – Reihenhaus an Via dei Villani – Teil 1/2 (Y 63–80)
+### Schritt 3.10 – Reihenhaus an Via dei Villani – Teil 1/2 (Y 70–87)
 
-- **Y-Bereich:** 63 bis 80
-- **Blöcke:** 1.460
+- **Y-Bereich:** 70 bis 87
+- **Blöcke:** 1.496
 - **Bauteile:** `w442946787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 819 |
-| Polierter Tuffstein | `polished_tuff` | 413 |
+| Gelbe Keramik | `yellow_terracotta` | 854 |
+| Polierter Tuffstein | `polished_tuff` | 414 |
 | Polierter Andesit | `polished_andesite` | 189 |
 | Graues Buntglas | `gray_stained_glass` | 39 |
 
@@ -394,17 +397,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.11 – Reihenhaus an Via dei Villani – Teil 2/2 (Y 81–98)
+### Schritt 3.11 – Reihenhaus an Via dei Villani – Teil 2/2 (Y 88–105)
 
-- **Y-Bereich:** 81 bis 98
-- **Blöcke:** 1.404
+- **Y-Bereich:** 88 bis 105
+- **Blöcke:** 1.466
 - **Bauteile:** `w442946787`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 597 |
+| Gelbe Keramik | `yellow_terracotta` | 659 |
 | Terrakotta | `terracotta` | 523 |
 | Polierter Andesit | `polished_andesite` | 158 |
 | Fichtenholz-Bretter | `spruce_planks` | 49 |
@@ -429,21 +432,19 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 3.12 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
-- **Blöcke:** 1.152
+- **Y-Bereich:** 70 bis 93
+- **Blöcke:** 1.147
 - **Bauteile:** `w442946787_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.026 |
+| Terrakotta | `terracotta` | 1.029 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 64 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 24 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 22 |
-| Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
+| Seelaterne | `sea_lantern` | 8 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -467,17 +468,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.13 – Palazzo des Ottocento an Via dei Villani – Teil 1/9 (Y 63–63)
+### Schritt 3.13 – Palazzo des Ottocento an Via dei Villani – Teil 1/11 (Y 73–77)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.751
+- **Y-Bereich:** 73 bis 77
+- **Blöcke:** 2.015
 - **Bauteile:** `w464120085`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.751 |
+| Tuffstein | `tuff` | 2.015 |
 
 **Beschreibung**
 
@@ -495,9 +496,79 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.14 – Palazzo des Ottocento an Via dei Villani – Teil 2/9 (Y 64–68)
+### Schritt 3.14 – Palazzo des Ottocento an Via dei Villani – Teil 2/11 (Y 78–78)
 
-- **Y-Bereich:** 64 bis 68
+- **Y-Bereich:** 78 bis 78
+- **Blöcke:** 1.397
+- **Bauteile:** `w464120085`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.395 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.15 – Palazzo des Ottocento an Via dei Villani – Teil 3/11 (Y 79–79)
+
+- **Y-Bereich:** 79 bis 79
+- **Blöcke:** 1.749
+- **Bauteile:** `w464120085`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Polierter Tuffstein | `polished_tuff` | 1.747 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 2 |
+
+**Beschreibung**
+
+Palazzo des Ottocento (19. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 3.16 – Palazzo des Ottocento an Via dei Villani – Teil 4/11 (Y 80–84)
+
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.732
 - **Bauteile:** `w464120085`
 
@@ -528,9 +599,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.15 – Palazzo des Ottocento an Via dei Villani – Teil 3/9 (Y 69–72)
+### Schritt 3.17 – Palazzo des Ottocento an Via dei Villani – Teil 5/11 (Y 85–88)
 
-- **Y-Bereich:** 69 bis 72
+- **Y-Bereich:** 85 bis 88
 - **Blöcke:** 1.409
 - **Bauteile:** `w464120085`
 
@@ -561,9 +632,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.16 – Palazzo des Ottocento an Via dei Villani – Teil 4/9 (Y 73–77)
+### Schritt 3.18 – Palazzo des Ottocento an Via dei Villani – Teil 6/11 (Y 89–93)
 
-- **Y-Bereich:** 73 bis 77
+- **Y-Bereich:** 89 bis 93
 - **Blöcke:** 1.824
 - **Bauteile:** `w464120085`
 
@@ -594,9 +665,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.17 – Palazzo des Ottocento an Via dei Villani – Teil 5/9 (Y 78–82)
+### Schritt 3.19 – Palazzo des Ottocento an Via dei Villani – Teil 7/11 (Y 94–98)
 
-- **Y-Bereich:** 78 bis 82
+- **Y-Bereich:** 94 bis 98
 - **Blöcke:** 1.791
 - **Bauteile:** `w464120085`
 
@@ -626,9 +697,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.18 – Palazzo des Ottocento an Via dei Villani – Teil 6/9 (Y 83–86)
+### Schritt 3.20 – Palazzo des Ottocento an Via dei Villani – Teil 8/11 (Y 99–102)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 99 bis 102
 - **Blöcke:** 1.457
 - **Bauteile:** `w464120085`
 
@@ -659,9 +730,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.19 – Palazzo des Ottocento an Via dei Villani – Teil 7/9 (Y 87–91)
+### Schritt 3.21 – Palazzo des Ottocento an Via dei Villani – Teil 9/11 (Y 103–107)
 
-- **Y-Bereich:** 87 bis 91
+- **Y-Bereich:** 103 bis 107
 - **Blöcke:** 1.791
 - **Bauteile:** `w464120085`
 
@@ -691,9 +762,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.20 – Palazzo des Ottocento an Via dei Villani – Teil 8/9 (Y 92–94)
+### Schritt 3.22 – Palazzo des Ottocento an Via dei Villani – Teil 10/11 (Y 108–110)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 108 bis 110
 - **Blöcke:** 1.733
 - **Bauteile:** `w464120085`
 
@@ -721,9 +792,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.21 – Palazzo des Ottocento an Via dei Villani – Teil 9/9 (Y 95–103)
+### Schritt 3.23 – Palazzo des Ottocento an Via dei Villani – Teil 11/11 (Y 111–119)
 
-- **Y-Bereich:** 95 bis 103
+- **Y-Bereich:** 111 bis 119
 - **Blöcke:** 1.617
 - **Bauteile:** `w464120085`
 
@@ -750,9 +821,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.22 – Palazzo des Ottocento an Via dei Villani: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 3.24 – Palazzo des Ottocento an Via dei Villani: Innenausbau – Teil 1/2 (Y 79–90)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 79 bis 90
 - **Blöcke:** 1.447
 - **Bauteile:** `w464120085_innen`
 
@@ -789,9 +860,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.23 – Palazzo des Ottocento an Via dei Villani: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 3.25 – Palazzo des Ottocento an Via dei Villani: Innenausbau – Teil 2/2 (Y 91–100)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 91 bis 100
 - **Blöcke:** 1.443
 - **Bauteile:** `w464120085_innen`
 
@@ -835,9 +906,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.24 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 63–72)
+### Schritt 3.26 – Reihenhaus an Via dei Villani – Teil 1/3 (Y 72–81)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.551
 - **Bauteile:** `w464120134`
 
@@ -867,17 +938,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.25 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 73–85)
+### Schritt 3.27 – Reihenhaus an Via dei Villani – Teil 2/3 (Y 82–95)
 
-- **Y-Bereich:** 73 bis 85
-- **Blöcke:** 1.477
+- **Y-Bereich:** 82 bis 95
+- **Blöcke:** 1.592
 - **Bauteile:** `w464120134`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.259 |
+| Weißer Beton | `white_concrete` | 1.374 |
 | Glatter Stein | `smooth_stone` | 170 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 
@@ -897,17 +968,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.26 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 86–98)
+### Schritt 3.28 – Reihenhaus an Via dei Villani – Teil 3/3 (Y 96–107)
 
-- **Y-Bereich:** 86 bis 98
-- **Blöcke:** 1.594
+- **Y-Bereich:** 96 bis 107
+- **Blöcke:** 1.518
 - **Bauteile:** `w464120134`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 823 |
+| Weißer Beton | `white_concrete` | 747 |
 | Terrakotta | `terracotta` | 640 |
 | Glatter Stein | `smooth_stone` | 74 |
 | Ziegelsteine | `bricks` | 39 |
@@ -929,9 +1000,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.27 – Reihenhaus an Via dei Villani: Innenausbau
+### Schritt 3.29 – Reihenhaus an Via dei Villani: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 72 bis 95
 - **Blöcke:** 1.389
 - **Bauteile:** `w464120134_innen`
 
@@ -967,10 +1038,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.28 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 63–66)
+### Schritt 3.30 – Reihenhaus an Via dei Villani – Teil 1/5 (Y 72–75)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.803
+- **Y-Bereich:** 72 bis 75
+- **Blöcke:** 1.815
 - **Bauteile:** `w464120219`
 
 **Teileliste**
@@ -978,9 +1049,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.212 |
-| Endsteinziegel | `end_stone_bricks` | 543 |
-| Weißer Beton | `white_concrete` | 39 |
-| Glatter Stein | `smooth_stone` | 9 |
+| Tuffstein | `tuff` | 603 |
 
 **Beschreibung**
 
@@ -998,20 +1067,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.29 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 67–74)
+### Schritt 3.31 – Reihenhaus an Via dei Villani – Teil 2/5 (Y 76–85)
 
-- **Y-Bereich:** 67 bis 74
-- **Blöcke:** 1.585
+- **Y-Bereich:** 76 bis 85
+- **Blöcke:** 2.094
 - **Bauteile:** `w464120219`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.334 |
-| Weißer Beton | `white_concrete` | 192 |
-| Graues Buntglas | `gray_stained_glass` | 50 |
-| Glatter Stein | `smooth_stone` | 9 |
+| Endsteinziegel | `end_stone_bricks` | 1.838 |
+| Weißer Beton | `white_concrete` | 202 |
+| Graues Buntglas | `gray_stained_glass` | 36 |
+| Glatter Stein | `smooth_stone` | 18 |
 
 **Beschreibung**
 
@@ -1029,9 +1098,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.30 – Reihenhaus an Via dei Villani – Teil 3/5 (Y 75–83)
+### Schritt 3.32 – Reihenhaus an Via dei Villani – Teil 3/5 (Y 86–94)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 86 bis 94
 - **Blöcke:** 1.773
 - **Bauteile:** `w464120219`
 
@@ -1059,19 +1128,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.31 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 84–92)
+### Schritt 3.33 – Reihenhaus an Via dei Villani – Teil 4/5 (Y 95–104)
 
-- **Y-Bereich:** 84 bis 92
-- **Blöcke:** 1.791
+- **Y-Bereich:** 95 bis 104
+- **Blöcke:** 2.071
 - **Bauteile:** `w464120219`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.490 |
-| Weißer Beton | `white_concrete` | 245 |
-| Graues Buntglas | `gray_stained_glass` | 56 |
+| Endsteinziegel | `end_stone_bricks` | 1.727 |
+| Weißer Beton | `white_concrete` | 274 |
+| Graues Buntglas | `gray_stained_glass` | 70 |
 
 **Beschreibung**
 
@@ -1089,10 +1158,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.32 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 93–101)
+### Schritt 3.34 – Reihenhaus an Via dei Villani – Teil 5/5 (Y 105–113)
 
-- **Y-Bereich:** 93 bis 101
-- **Blöcke:** 1.750
+- **Y-Bereich:** 105 bis 113
+- **Blöcke:** 1.793
 - **Bauteile:** `w464120219`
 
 **Teileliste**
@@ -1100,7 +1169,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 1.470 |
-| Endsteinziegel | `end_stone_bricks` | 203 |
+| Endsteinziegel | `end_stone_bricks` | 246 |
 | Ziegelsteine | `bricks` | 77 |
 
 **Beschreibung**
@@ -1119,10 +1188,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 3.33 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 3.35 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 75–90)
 
-- **Y-Bereich:** 63 bis 78
-- **Blöcke:** 1.094
+- **Y-Bereich:** 75 bis 90
+- **Blöcke:** 1.092
 - **Bauteile:** `w464120219_innen`
 
 **Teileliste**
@@ -1134,10 +1203,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 16 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 14 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 2 |
-| Weiße Keramik | `white_terracotta` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 1 |
+| Weiße Keramik | `white_terracotta` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -1161,10 +1230,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 3.34 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 3.36 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 91–99)
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 2.063
+- **Y-Bereich:** 91 bis 99
+- **Blöcke:** 2.056
 - **Bauteile:** `w464120219_innen`
 
 **Teileliste**
@@ -1172,20 +1241,18 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 2.002 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 21 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 20 |
 | Seelaterne | `sea_lantern` | 12 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 10 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 6 |
-| Rote Keramik | `red_terracotta` | 5 |
-| Weiße Keramik | `white_terracotta` | 5 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
+| Rote Keramik | `red_terracotta` | 3 |
+| Weiße Keramik | `white_terracotta` | 3 |
 
 **Treppen je Material** (alle Richtungen)
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 18 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 16 |
 
 **Beschreibung**
 

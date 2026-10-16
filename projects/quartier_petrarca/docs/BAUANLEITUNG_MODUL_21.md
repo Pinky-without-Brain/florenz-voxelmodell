@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 14.080 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 95 |
+| Y-Bereich | 64 bis 96 |
 | X-Ausdehnung | -2802 bis -2746 (57 Blöcke) |
 | Z-Ausdehnung | 1628 bis 1687 (60 Blöcke) |
 | Kleinster Schritt | 1.307 Blöcke (Schritt 21.8) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 21.1 – Reihenhaus an Via dei Villani – Teil 1/6 (Y 63–64)
+### Schritt 21.1 – Reihenhaus an Via dei Villani – Teil 1/6 (Y 64–65)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.950
 - **Bauteile:** `w461683370`
 
@@ -78,9 +78,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Reihenhaus an Via dei Villani – Teil 2/6 (Y 65–70)
+### Schritt 21.2 – Reihenhaus an Via dei Villani – Teil 2/6 (Y 66–71)
 
-- **Y-Bereich:** 65 bis 70
+- **Y-Bereich:** 66 bis 71
 - **Blöcke:** 2.009
 - **Bauteile:** `w461683370`
 
@@ -109,9 +109,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Reihenhaus an Via dei Villani – Teil 3/6 (Y 71–75)
+### Schritt 21.3 – Reihenhaus an Via dei Villani – Teil 3/6 (Y 72–76)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 72 bis 76
 - **Blöcke:** 1.702
 - **Bauteile:** `w461683370`
 
@@ -139,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Reihenhaus an Via dei Villani – Teil 4/6 (Y 76–81)
+### Schritt 21.4 – Reihenhaus an Via dei Villani – Teil 4/6 (Y 77–82)
 
-- **Y-Bereich:** 76 bis 81
+- **Y-Bereich:** 77 bis 82
 - **Blöcke:** 2.030
 - **Bauteile:** `w461683370`
 
@@ -169,9 +169,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Reihenhaus an Via dei Villani – Teil 5/6 (Y 82–86)
+### Schritt 21.5 – Reihenhaus an Via dei Villani – Teil 5/6 (Y 83–87)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 83 bis 87
 - **Blöcke:** 1.668
 - **Bauteile:** `w461683370`
 
@@ -199,9 +199,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.6 – Reihenhaus an Via dei Villani – Teil 6/6 (Y 87–95)
+### Schritt 21.6 – Reihenhaus an Via dei Villani – Teil 6/6 (Y 88–96)
 
-- **Y-Bereich:** 87 bis 95
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 2.092
 - **Bauteile:** `w461683370`
 
@@ -228,9 +228,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.7 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 63–72)
+### Schritt 21.7 – Reihenhaus an Via dei Villani: Innenausbau – Teil 1/2 (Y 64–73)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 64 bis 73
 - **Blöcke:** 1.322
 - **Bauteile:** `w461683370_innen`
 
@@ -266,9 +266,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.8 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 73–79)
+### Schritt 21.8 – Reihenhaus an Via dei Villani: Innenausbau – Teil 2/2 (Y 74–80)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 74 bis 80
 - **Blöcke:** 1.307
 - **Bauteile:** `w461683370_innen`
 

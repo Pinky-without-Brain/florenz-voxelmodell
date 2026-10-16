@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 9.613 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 58 bis 92 |
 | X-Ausdehnung | -2306 bis -2257 (50 Blöcke) |
 | Z-Ausdehnung | -28 bis 9 (38 Blöcke) |
 | Kleinster Schritt | 805 Blöcke (Schritt 2.6) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 2.1 – Haus w442906518 – Teil 1/5 (Y 63–68)
+### Schritt 2.1 – Haus w442906518 – Teil 1/5 (Y 58–63)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 58 bis 63
 - **Blöcke:** 1.826
 - **Bauteile:** `w442906518`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Haus w442906518 – Teil 2/5 (Y 69–75)
+### Schritt 2.2 – Haus w442906518 – Teil 2/5 (Y 64–70)
 
-- **Y-Bereich:** 69 bis 75
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.674
 - **Bauteile:** `w442906518`
 
@@ -119,9 +119,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.3 – Haus w442906518 – Teil 3/5 (Y 76–83)
+### Schritt 2.3 – Haus w442906518 – Teil 3/5 (Y 71–78)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 71 bis 78
 - **Blöcke:** 1.838
 - **Bauteile:** `w442906518`
 
@@ -152,9 +152,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Haus w442906518 – Teil 4/5 (Y 84–90)
+### Schritt 2.4 – Haus w442906518 – Teil 4/5 (Y 79–85)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 79 bis 85
 - **Blöcke:** 1.592
 - **Bauteile:** `w442906518`
 
@@ -184,9 +184,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Haus w442906518 – Teil 5/5 (Y 91–97)
+### Schritt 2.5 – Haus w442906518 – Teil 5/5 (Y 86–92)
 
-- **Y-Bereich:** 91 bis 97
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.878
 - **Bauteile:** `w442906518`
 
@@ -219,7 +219,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 2.6 – Haus w442906518: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 58 bis 78
 - **Blöcke:** 805
 - **Bauteile:** `w442906518_innen`
 

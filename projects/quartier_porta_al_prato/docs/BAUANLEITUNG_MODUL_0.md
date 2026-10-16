@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 2.700 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 53 bis 88 |
 | X-Ausdehnung | -3071 bis -3057 (15 Blöcke) |
 | Z-Ausdehnung | -1355 bis -1337 (19 Blöcke) |
 | Kleinster Schritt | 1.332 Blöcke (Schritt 0.2) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 0.1 – Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 63–79)
+### Schritt 0.1 – Nebengebäude an Largo Porta Leopolda – Teil 1/2 (Y 53–69)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 53 bis 69
 - **Blöcke:** 1.368
 - **Bauteile:** `w595010847`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 0.2 – Nebengebäude an Largo Porta Leopolda – Teil 2/2 (Y 80–98) & Nebengebäude an Largo Porta Leopolda: Innenausbau
+### Schritt 0.2 – Nebengebäude an Largo Porta Leopolda – Teil 2/2 (Y 70–88) & Nebengebäude an Largo Porta Leopolda: Innenausbau
 
-- **Y-Bereich:** 63 bis 98
+- **Y-Bereich:** 53 bis 88
 - **Blöcke:** 1.332
 - **Bauteile:** `w595010847`, `w595010847_innen`
 

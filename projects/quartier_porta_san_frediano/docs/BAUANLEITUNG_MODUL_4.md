@@ -8,50 +8,52 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.383 |
+| Blöcke | 2.388 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 57 bis 92 |
 | X-Ausdehnung | -3028 bis -3012 (17 Blöcke) |
 | Z-Ausdehnung | 909 bis 922 (14 Blöcke) |
-| Kleinster Schritt | 1.155 Blöcke (Schritt 4.2) |
-| Mittlerer Schritt | 1.192 Blöcke |
-| Größter Schritt | 1.228 Blöcke (Schritt 4.1) |
+| Kleinster Schritt | 1.158 Blöcke (Schritt 4.1) |
+| Mittlerer Schritt | 1.194 Blöcke |
+| Größter Schritt | 1.230 Blöcke (Schritt 4.2) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.885 | 79,1 % |
+| Hellgrauer Beton | `light_gray_concrete` | 1.885 | 78,9 % |
 | Graues Buntglas | `gray_stained_glass` | 169 | 7,1 % |
 | Terrakotta | `terracotta` | 125 | 5,2 % |
 | Polierter Tuffstein | `polished_tuff` | 100 | 4,2 % |
 | Fichtenholz-Bretter | `spruce_planks` | 91 | 3,8 % |
 | Ziegelsteine | `bricks` | 12 | 0,5 % |
+| Tuffstein | `tuff` | 5 | 0,2 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w118944109` | Nebengebäude an Via Francesco Berni | 2.382 | 4.1–4.2 |
+| 1 | `w118944109` | Nebengebäude an Via Francesco Berni | 2.387 | 4.1–4.2 |
 | 2 | `w118944109_innen` | Nebengebäude an Via Francesco Berni: Innenausbau | 1 | 4.2 |
 
 ## Bauschritte
 
-### Schritt 4.1 – Nebengebäude an Via Francesco Berni – Teil 1/2 (Y 63–79)
+### Schritt 4.1 – Nebengebäude an Via Francesco Berni – Teil 1/2 (Y 57–73)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.228
+- **Y-Bereich:** 57 bis 73
+- **Blöcke:** 1.158
 - **Bauteile:** `w118944109`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.048 |
+| Hellgrauer Beton | `light_gray_concrete` | 973 |
 | Polierter Tuffstein | `polished_tuff` | 100 |
 | Graues Buntglas | `gray_stained_glass` | 52 |
 | Fichtenholz-Bretter | `spruce_planks` | 28 |
+| Tuffstein | `tuff` | 5 |
 
 **Beschreibung**
 
@@ -69,17 +71,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 4.2 – Nebengebäude an Via Francesco Berni – Teil 2/2 (Y 80–97) & Nebengebäude an Via Francesco Berni: Innenausbau
+### Schritt 4.2 – Nebengebäude an Via Francesco Berni – Teil 2/2 (Y 74–92) & Nebengebäude an Via Francesco Berni: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
-- **Blöcke:** 1.155
+- **Y-Bereich:** 58 bis 92
+- **Blöcke:** 1.230
 - **Bauteile:** `w118944109`, `w118944109_innen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 837 |
+| Hellgrauer Beton | `light_gray_concrete` | 912 |
 | Terrakotta | `terracotta` | 125 |
 | Graues Buntglas | `gray_stained_glass` | 117 |
 | Fichtenholz-Bretter | `spruce_planks` | 63 |

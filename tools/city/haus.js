@@ -71,7 +71,29 @@ function abstandsfeld(cells, S) {
 }
 
 // ------------------------------------------------------------------ Plan
-function planHaus(g, akte, kontext) {
+// Hausboden (Oberkante der Bodenplatte): Straßenniveau vor dem Haus = Median des Geländes der freien Nachbarzellen an
+// benannten Straßen und Plätzen (sonst aller freien Nachbarzellen), begrenzt auf das Gelände im Grundriss. Am Hang
+// steht das Haus so auf der Straße; bergseitig schneidet es ins Gelände ein (der Stadtgrund baut unter dem Haus nur
+// bis unter die Bodenplatte), talseitig trägt ein Sockel aus Bruchstein.
+function hausBoden(cells, S, kontext) {
+  const top = (x, z) => kontext.groundTopY(x, z);
+  let gMin = Infinity, gMax = -Infinity;
+  const strasse = [], frei = [];
+  for (const [x, z] of cells) {
+    const t = top(x, z); if (t < gMin) gMin = t; if (t > gMax) gMax = t;
+    for (const [dx, dz] of N4) {
+      const nx = x + dx, nz = z + dz;
+      if (S.has(P.ck(nx, nz)) || kontext.parz.owner(nx, nz) !== null) continue;
+      const h = top(nx, nz);
+      if (kontext.umfeld && kontext.umfeld.nameBei(nx, nz)) strasse.push(h); else frei.push(h);
+    }
+  }
+  const median = (a) => { const b = a.slice().sort((p, q) => p - q); return b[Math.floor(b.length / 2)]; };
+  const h = strasse.length ? median(strasse) : frei.length ? median(frei) : gMax;
+  return Math.max(gMin, Math.min(gMax, h));
+}
+
+function planHaus(g, akte, kontext, bodenVorgabe) {
   const id = g.id;
   const cells = kontext.parz.cellsOf(id);
   const plan = { id, leer: cells.length === 0, cells, akte };
@@ -79,8 +101,7 @@ function planHaus(g, akte, kontext) {
   const S = new Set(cells.map((c) => P.ck(c[0], c[1])));
   plan.S = S;
   const top = (x, z) => kontext.groundTopY(x, z);
-  let boden = -Infinity;
-  for (const [x, z] of cells) boden = Math.max(boden, top(x, z));
+  const boden = bodenVorgabe !== undefined ? bodenVorgabe : hausBoden(cells, S, kontext);
   plan.boden = boden;
   plan.storeys = geschosseMitBasis(akte, boden);
   const summe = akte.geschosse.reduce((a, s) => a + s.hoeheBl, 0);
@@ -154,8 +175,8 @@ function planHaus(g, akte, kontext) {
       if (o === null || o === id || compareIds(o, id) >= 0 || !kontext.gebaut(o)) continue;
       const np = kontext.plan(o);
       if (!np || np.leer) continue;
-      if (np.boden > boden) ranges.push([boden + 1, np.boden]);
-      if (plan.eaves > np.eaves) ranges.push([np.eaves + 1, plan.eaves]);
+      if (np.boden > boden) ranges.push([boden + 1, Math.min(np.boden, plan.eaves)]);
+      if (plan.eaves > np.eaves) ranges.push([Math.max(np.eaves, boden) + 1, plan.eaves]);
     }
     if (ranges.length) {
       const ys = new Set();
@@ -226,7 +247,18 @@ function planHaus(g, akte, kontext) {
     if (lay && F.zelle(lay, 0, 0, c) === 'offen') plan.tuerZellen.push([c.x, c.z]);
   }
   plan.tuerZellen.sort((a, b) => (a[0] - b[0]) || (a[1] - b[1]));
+  // Liegt die Straße vor der Tür ≥ 2 Lagen über dem Boden, Haus mit Boden eine Lage unter dieser Straße neu planen
+  if (bodenVorgabe === undefined && plan.tuerZellen.length) {
+    let tTuer = -Infinity;
+    for (const [x, z] of plan.tuerZellen) for (const [dx, dz] of N4) {
+      const ax = x + dx, az = z + dz;
+      if (S.has(P.ck(ax, az)) || kontext.parz.owner(ax, az) !== null) continue;
+      tTuer = Math.max(tTuer, top(ax, az));
+    }
+    if (tTuer - boden >= 2) return planHaus(g, akte, kontext, tTuer - 1);
+  }
   plan.durchbruch = tuerDurchbruch(plan);
+  taschenDurchbruch(plan, plan.durchbruch);
   plan.eingang = eingangsStufen(plan, kontext);
 
   // Vorsprünge (Sohlbänke, Konsolen, Marcapiano): eine Zelle vor der Außenlage, nie in fremden Parzellen,
@@ -235,6 +267,7 @@ function planHaus(g, akte, kontext) {
   {
     const vmap = new Map();
     const ks = [...w1.keys()].sort((a, b) => a - b);
+    const dbTop = boden + Math.max(3, Math.min(F.TUER_H, plan.storeys[0].h - 2));
     for (const k of ks) {
       const c = w1.get(k);
       const lay = c.klasse === 'strasse' ? plan.fassaden.get(c.edge) : null;
@@ -244,6 +277,7 @@ function planHaus(g, akte, kontext) {
         for (const vo of F.vorsprungeAn(lay, s, c.u)) {
           const y = plan.storeys[s].base + vo.v;
           if (y > plan.eaves || vo.v < 0) continue;
+          if (plan.durchbruch.has(k) && y <= dbTop) continue;               // Wand dahinter ist durchbrochen: kein Halt
           const r0 = F.zelle(lay, s, vo.v, c);
           if (r0 === 'offen' || r0 === 'glas') continue;
           for (const [dx, dz] of N4) {
@@ -418,11 +452,61 @@ function tuerDurchbruch(plan) {
   return out;
 }
 
+// Taschen im Erdgeschoss: Innenbereiche, die Wände (z. B. Teilwände zu tiefer liegenden Nachbarn am Hang) vom Rest
+// abschneiden, bekommen einen Durchbruch auf kürzestem Weg (≤ TASCHE_MAX Wandzellen) zum Bereich mit der Tür.
+const TASCHE_MAX = 8;
+function taschenDurchbruch(plan, out) {
+  const eg = (k) => { const p = plan.partial.get(k); return !!p && (p.ys.includes(plan.boden + 1) || p.ys.includes(plan.boden + 2)); };
+  const wand = (k) => (plan.w1.has(k) || plan.w2.has(k) || eg(k)) && !out.has(k);
+  const innen = (k) => plan.S.has(k) && !wand(k);
+  const comp = new Map(), groesse = [];
+  for (const k of plan.S) {
+    if (!innen(k) || comp.has(k)) continue;
+    const id = groesse.length; let n = 0; let q = [k]; comp.set(k, id);
+    while (q.length) {
+      const nq = [];
+      for (const a of q) { n++; for (const [dx, dz] of N4) { const b = P.ck(P.ckX(a) + dx, P.ckZ(a) + dz); if (!comp.has(b) && innen(b)) { comp.set(b, id); nq.push(b); } } }
+      q = nq;
+    }
+    groesse.push(n);
+  }
+  if (groesse.length < 2) return out;
+  const haupt = new Set();
+  const start = [...plan.tuerZellen.map(([x, z]) => P.ck(x, z)), ...out];
+  for (const k of start) for (const [dx, dz] of N4) { const b = P.ck(P.ckX(k) + dx, P.ckZ(k) + dz); if (comp.has(b)) haupt.add(comp.get(b)); }
+  if (!haupt.size) haupt.add(groesse.indexOf(Math.max(...groesse)));
+  const ids = groesse.map((n, i) => i).filter((i) => !haupt.has(i) && groesse[i] >= 4).sort((a, b) => groesse[b] - groesse[a]);
+  for (const id of ids) {
+    if (haupt.has(id)) continue;
+    const prev = new Map(); let q = [];
+    for (const [k, c] of comp) if (c === id) { prev.set(k, null); q.push(k); }
+    let ziel = null;
+    for (let tiefe = 0; tiefe <= TASCHE_MAX && q.length && ziel === null; tiefe++) {
+      const nq = [];
+      for (const a of q) {
+        for (const [dx, dz] of N4) {
+          const b = P.ck(P.ckX(a) + dx, P.ckZ(a) + dz);
+          if (prev.has(b) || !plan.S.has(b)) continue;
+          prev.set(b, a);
+          if (innen(b) && haupt.has(comp.get(b))) { ziel = a; break; }
+          if (wand(b)) nq.push(b);
+        }
+        if (ziel !== null) break;
+      }
+      q = nq;
+    }
+    if (ziel === null) continue;
+    for (let k = ziel; k !== null && comp.get(k) !== id; k = prev.get(k)) out.add(k);
+    haupt.add(id);
+  }
+  return out;
+}
+
 // ------------------------------------------------------------------ Eingangsstufen
 // Liegt die Straße vor einer Tür d = boden - Gelände >= 2 Blöcke tiefer, führen d Treppenblöcke in der Türlaibung
 // und dahinter nach innen hinauf (Zelle k = 0 ist die Außenlage, Stufe in y = Gelände + 1 + k, darüber Luft bis zum
 // Boden). So bleibt jede Stufe <= 1 und alles innerhalb der Parzelle (BEGEHBARKEIT §1.1, §1.3).
-const EINGANG_MAX = 6;
+const EINGANG_MAX = 14;
 function eingangsStufen(plan, kontext) {
   const out = { stufen: new Map(), luft: new Set(), spalten: new Set() };
   const top = (x, z) => kontext.groundTopY(x, z);

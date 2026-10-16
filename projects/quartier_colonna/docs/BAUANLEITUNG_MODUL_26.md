@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.196 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 67 bis 101 |
 | X-Ausdehnung | 1385 bis 1432 (48 Blöcke) |
 | Z-Ausdehnung | -817 bis -794 (24 Blöcke) |
 | Kleinster Schritt | 1.734 Blöcke (Schritt 26.1) |
@@ -49,9 +49,9 @@
 
 ## Bauschritte
 
-### Schritt 26.1 – Reihenhaus an Borgo Pinti – Teil 1/4 (Y 63–70)
+### Schritt 26.1 – Reihenhaus an Borgo Pinti – Teil 1/4 (Y 67–74)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 67 bis 74
 - **Blöcke:** 1.734
 - **Bauteile:** `w491607990`
 
@@ -81,9 +81,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.2 – Reihenhaus an Borgo Pinti – Teil 2/4 (Y 71–79)
+### Schritt 26.2 – Reihenhaus an Borgo Pinti – Teil 2/4 (Y 75–83)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 75 bis 83
 - **Blöcke:** 1.844
 - **Bauteile:** `w491607990`
 
@@ -112,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.3 – Reihenhaus an Borgo Pinti – Teil 3/4 (Y 80–88)
+### Schritt 26.3 – Reihenhaus an Borgo Pinti – Teil 3/4 (Y 84–92)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 84 bis 92
 - **Blöcke:** 1.844
 - **Bauteile:** `w491607990`
 
@@ -142,9 +142,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 26.4 – Reihenhaus an Borgo Pinti – Teil 4/4 (Y 89–97) & Reihenhaus an Borgo Pinti: Innenausbau
+### Schritt 26.4 – Reihenhaus an Borgo Pinti – Teil 4/4 (Y 93–101) & Reihenhaus an Borgo Pinti: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 67 bis 101
 - **Blöcke:** 1.774
 - **Bauteile:** `w491607990`, `w491607990_innen`
 

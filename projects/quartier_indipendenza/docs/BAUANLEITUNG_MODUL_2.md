@@ -8,28 +8,29 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 18.283 |
+| Blöcke | 18.404 |
 | Bauschritte | 10 |
-| Y-Bereich | 63 bis 104 |
+| Y-Bereich | 60 bis 102 |
 | X-Ausdehnung | -1169 bis -1113 (57 Blöcke) |
 | Z-Ausdehnung | -738 bis -682 (57 Blöcke) |
 | Kleinster Schritt | 1.573 Blöcke (Schritt 2.9) |
-| Mittlerer Schritt | 1.828 Blöcke |
-| Größter Schritt | 2.048 Blöcke (Schritt 2.2) |
+| Mittlerer Schritt | 1.840 Blöcke |
+| Größter Schritt | 2.031 Blöcke (Schritt 2.3) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 6.503 | 35,6 % |
-| Terrakotta | `terracotta` | 5.613 | 30,7 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.503 | 35,3 % |
+| Terrakotta | `terracotta` | 5.613 | 30,5 % |
 | Polierter Tuffstein | `polished_tuff` | 1.872 | 10,2 % |
 | Weißer Beton | `white_concrete` | 1.722 | 9,4 % |
 | Glatter Stein | `smooth_stone` | 828 | 4,5 % |
-| Graues Buntglas | `gray_stained_glass` | 688 | 3,8 % |
+| Graues Buntglas | `gray_stained_glass` | 688 | 3,7 % |
 | Grüner Beton | `green_concrete` | 520 | 2,8 % |
 | Polierter Andesit | `polished_andesite` | 319 | 1,7 % |
 | Ziegelsteine | `bricks` | 124 | 0,7 % |
+| Tuffstein | `tuff` | 121 | 0,7 % |
 | Seelaterne | `sea_lantern` | 24 | 0,1 % |
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 | 0,1 % |
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 | 0,1 % |
@@ -47,15 +48,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w112765932` | Haus w112765932 | 15.133 | 2.1–2.8 |
+| 1 | `w112765932` | Haus w112765932 | 15.254 | 2.1–2.8 |
 | 2 | `w112765932_innen` | Haus w112765932: Innenausbau | 3.150 | 2.9–2.10 |
 
 ## Bauschritte
 
-### Schritt 2.1 – Haus w112765932 – Teil 1/8 (Y 63–63)
+### Schritt 2.1 – Haus w112765932 – Teil 1/8 (Y 60–61)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.872
+- **Y-Bereich:** 60 bis 61
+- **Blöcke:** 1.993
 - **Bauteile:** `w112765932`
 
 **Teileliste**
@@ -63,6 +64,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.872 |
+| Tuffstein | `tuff` | 121 |
 
 **Beschreibung**
 
@@ -80,56 +82,22 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.2 – Haus w112765932 – Teil 2/8 (Y 64–69)
+### Schritt 2.2 – Haus w112765932 – Teil 2/8 (Y 62–66)
 
-- **Y-Bereich:** 64 bis 69
-- **Blöcke:** 2.048
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.739
 - **Bauteile:** `w112765932`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.347 |
-| Weißer Beton | `white_concrete` | 359 |
-| Graues Buntglas | `gray_stained_glass` | 141 |
-| Grüner Beton | `green_concrete` | 105 |
-| Polierter Andesit | `polished_andesite` | 69 |
-| Glatter Stein | `smooth_stone` | 18 |
-| Tuffsteinziegel | `tuff_bricks` | 9 |
-
-**Beschreibung**
-
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
-
-**Tipp**
-
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
-
-**Achtung**
-
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
-
-**Fakt**
-
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
-
-### Schritt 2.3 – Haus w112765932 – Teil 3/8 (Y 70–74)
-
-- **Y-Bereich:** 70 bis 74
-- **Blöcke:** 1.722
-- **Bauteile:** `w112765932`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Gelbe Keramik | `yellow_terracotta` | 1.217 |
-| Glatter Stein | `smooth_stone` | 218 |
-| Weißer Beton | `white_concrete` | 135 |
+| Gelbe Keramik | `yellow_terracotta` | 1.175 |
+| Weißer Beton | `white_concrete` | 315 |
+| Graues Buntglas | `gray_stained_glass` | 94 |
+| Grüner Beton | `green_concrete` | 70 |
 | Polierter Andesit | `polished_andesite` | 61 |
-| Graues Buntglas | `gray_stained_glass` | 47 |
-| Grüner Beton | `green_concrete` | 35 |
+| Glatter Stein | `smooth_stone` | 15 |
 | Tuffsteinziegel | `tuff_bricks` | 9 |
 
 **Beschreibung**
@@ -148,9 +116,43 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.4 – Haus w112765932 – Teil 4/8 (Y 75–80)
+### Schritt 2.3 – Haus w112765932 – Teil 3/8 (Y 67–72)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 67 bis 72
+- **Blöcke:** 2.031
+- **Bauteile:** `w112765932`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Gelbe Keramik | `yellow_terracotta` | 1.389 |
+| Glatter Stein | `smooth_stone` | 221 |
+| Weißer Beton | `white_concrete` | 179 |
+| Graues Buntglas | `gray_stained_glass` | 94 |
+| Grüner Beton | `green_concrete` | 70 |
+| Polierter Andesit | `polished_andesite` | 69 |
+| Tuffsteinziegel | `tuff_bricks` | 9 |
+
+**Beschreibung**
+
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 2.4 – Haus w112765932 – Teil 4/8 (Y 73–78)
+
+- **Y-Bereich:** 73 bis 78
 - **Blöcke:** 1.938
 - **Bauteile:** `w112765932`
 
@@ -180,9 +182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.5 – Haus w112765932 – Teil 5/8 (Y 81–85)
+### Schritt 2.5 – Haus w112765932 – Teil 5/8 (Y 79–83)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.765
 - **Bauteile:** `w112765932`
 
@@ -211,9 +213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.6 – Haus w112765932 – Teil 6/8 (Y 86–91)
+### Schritt 2.6 – Haus w112765932 – Teil 6/8 (Y 84–89)
 
-- **Y-Bereich:** 86 bis 91
+- **Y-Bereich:** 84 bis 89
 - **Blöcke:** 1.938
 - **Bauteile:** `w112765932`
 
@@ -243,9 +245,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.7 – Haus w112765932 – Teil 7/8 (Y 92–94)
+### Schritt 2.7 – Haus w112765932 – Teil 7/8 (Y 90–92)
 
-- **Y-Bereich:** 92 bis 94
+- **Y-Bereich:** 90 bis 92
 - **Blöcke:** 1.940
 - **Bauteile:** `w112765932`
 
@@ -275,9 +277,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.8 – Haus w112765932 – Teil 8/8 (Y 95–104)
+### Schritt 2.8 – Haus w112765932 – Teil 8/8 (Y 93–102)
 
-- **Y-Bereich:** 95 bis 104
+- **Y-Bereich:** 93 bis 102
 - **Blöcke:** 1.910
 - **Bauteile:** `w112765932`
 
@@ -304,9 +306,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 2.9 – Haus w112765932: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 2.9 – Haus w112765932: Innenausbau – Teil 1/2 (Y 61–71)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.573
 - **Bauteile:** `w112765932_innen`
 
@@ -342,9 +344,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 2.10 – Haus w112765932: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 2.10 – Haus w112765932: Innenausbau – Teil 2/2 (Y 72–82)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.577
 - **Bauteile:** `w112765932_innen`
 

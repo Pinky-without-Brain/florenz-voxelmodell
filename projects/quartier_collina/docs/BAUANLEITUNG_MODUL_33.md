@@ -8,39 +8,40 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 2.354 |
+| Blöcke | 2.361 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 97 bis 129 |
 | X-Ausdehnung | 949 bis 964 (16 Blöcke) |
 | Z-Ausdehnung | 2392 bis 2408 (17 Blöcke) |
 | Kleinster Schritt | 1.154 Blöcke (Schritt 33.2) |
-| Mittlerer Schritt | 1.177 Blöcke |
-| Größter Schritt | 1.200 Blöcke (Schritt 33.1) |
+| Mittlerer Schritt | 1.181 Blöcke |
+| Größter Schritt | 1.207 Blöcke (Schritt 33.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.860 | 79,0 % |
+| Endsteinziegel | `end_stone_bricks` | 1.860 | 78,8 % |
 | Weißer Beton | `white_concrete` | 240 | 10,2 % |
 | Terrakotta | `terracotta` | 107 | 4,5 % |
 | Polierter Tuffstein | `polished_tuff` | 80 | 3,4 % |
 | Graues Buntglas | `gray_stained_glass` | 66 | 2,8 % |
+| Tuffstein | `tuff` | 7 | 0,3 % |
 | Seelaterne | `sea_lantern` | 1 | 0,0 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762545` | Haus w119762545 | 2.353 | 33.1–33.2 |
+| 1 | `w119762545` | Haus w119762545 | 2.360 | 33.1–33.2 |
 | 2 | `w119762545_innen` | Haus w119762545: Innenausbau | 1 | 33.2 |
 
 ## Bauschritte
 
-### Schritt 33.1 – Haus w119762545 – Teil 1/2 (Y 63–79)
+### Schritt 33.1 – Haus w119762545 – Teil 1/2 (Y 97–114)
 
-- **Y-Bereich:** 63 bis 79
-- **Blöcke:** 1.200
+- **Y-Bereich:** 97 bis 114
+- **Blöcke:** 1.207
 - **Bauteile:** `w119762545`
 
 **Teileliste**
@@ -51,6 +52,7 @@
 | Weißer Beton | `white_concrete` | 102 |
 | Polierter Tuffstein | `polished_tuff` | 80 |
 | Graues Buntglas | `gray_stained_glass` | 24 |
+| Tuffstein | `tuff` | 7 |
 
 **Beschreibung**
 
@@ -68,9 +70,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 33.2 – Haus w119762545 – Teil 2/2 (Y 80–94) & Haus w119762545: Innenausbau
+### Schritt 33.2 – Haus w119762545 – Teil 2/2 (Y 115–129) & Haus w119762545: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 98 bis 129
 - **Blöcke:** 1.154
 - **Bauteile:** `w119762545`, `w119762545_innen`
 

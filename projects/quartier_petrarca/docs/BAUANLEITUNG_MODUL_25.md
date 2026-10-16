@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.849 |
 | Bauschritte | 5 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 68 bis 103 |
 | X-Ausdehnung | -2744 bis -2720 (25 Blöcke) |
 | Z-Ausdehnung | 2121 bis 2154 (34 Blöcke) |
 | Kleinster Schritt | 1.109 Blöcke (Schritt 25.5) |
@@ -53,9 +53,9 @@
 
 ## Bauschritte
 
-### Schritt 25.1 – Haus w464975837 – Teil 1/4 (Y 63–70)
+### Schritt 25.1 – Haus w464975837 – Teil 1/4 (Y 68–75)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 68 bis 75
 - **Blöcke:** 1.732
 - **Bauteile:** `w464975837`
 
@@ -86,9 +86,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.2 – Haus w464975837 – Teil 2/4 (Y 71–79)
+### Schritt 25.2 – Haus w464975837 – Teil 2/4 (Y 76–84)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.617
 - **Bauteile:** `w464975837`
 
@@ -116,9 +116,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.3 – Haus w464975837 – Teil 3/4 (Y 80–89)
+### Schritt 25.3 – Haus w464975837 – Teil 3/4 (Y 85–94)
 
-- **Y-Bereich:** 80 bis 89
+- **Y-Bereich:** 85 bis 94
 - **Blöcke:** 1.785
 - **Bauteile:** `w464975837`
 
@@ -146,9 +146,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 25.4 – Haus w464975837 – Teil 4/4 (Y 90–98)
+### Schritt 25.4 – Haus w464975837 – Teil 4/4 (Y 95–103)
 
-- **Y-Bereich:** 90 bis 98
+- **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.606
 - **Bauteile:** `w464975837`
 
@@ -180,7 +180,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 25.5 – Haus w464975837: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 68 bis 92
 - **Blöcke:** 1.109
 - **Bauteile:** `w464975837_innen`
 

@@ -8,25 +8,26 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 993 |
+| Blöcke | 1.058 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 77 |
+| Y-Bereich | 127 bis 145 |
 | X-Ausdehnung | 1051 bis 1061 (11 Blöcke) |
 | Z-Ausdehnung | 2256 bis 2272 (17 Blöcke) |
-| Kleinster Schritt | 993 Blöcke (Schritt 31.1) |
-| Mittlerer Schritt | 993 Blöcke |
-| Größter Schritt | 993 Blöcke (Schritt 31.1) |
+| Kleinster Schritt | 1.058 Blöcke (Schritt 31.1) |
+| Mittlerer Schritt | 1.058 Blöcke |
+| Größter Schritt | 1.058 Blöcke (Schritt 31.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 648 | 65,3 % |
-| Terrakotta | `terracotta` | 126 | 12,7 % |
-| Polierter Tuffstein | `polished_tuff` | 118 | 11,9 % |
-| Graues Buntglas | `gray_stained_glass` | 48 | 4,8 % |
-| Glatter Stein | `smooth_stone` | 28 | 2,8 % |
-| Fichtenholz-Bretter | `spruce_planks` | 18 | 1,8 % |
+| Endsteinziegel | `end_stone_bricks` | 648 | 61,2 % |
+| Terrakotta | `terracotta` | 126 | 11,9 % |
+| Polierter Tuffstein | `polished_tuff` | 118 | 11,2 % |
+| Tuffstein | `tuff` | 65 | 6,1 % |
+| Graues Buntglas | `gray_stained_glass` | 48 | 4,5 % |
+| Glatter Stein | `smooth_stone` | 28 | 2,6 % |
+| Fichtenholz-Bretter | `spruce_planks` | 18 | 1,7 % |
 | Ziegelsteine | `bricks` | 3 | 0,3 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,1 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,1 % |
@@ -43,15 +44,15 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w119762547` | Haus w119762547 | 989 | 31.1 |
+| 1 | `w119762547` | Haus w119762547 | 1.054 | 31.1 |
 | 2 | `w119762547_innen` | Haus w119762547: Innenausbau | 4 | 31.1 |
 
 ## Bauschritte
 
 ### Schritt 31.1 – Haus w119762547 & Haus w119762547: Innenausbau
 
-- **Y-Bereich:** 63 bis 77
-- **Blöcke:** 993
+- **Y-Bereich:** 127 bis 145
+- **Blöcke:** 1.058
 - **Bauteile:** `w119762547`, `w119762547_innen`
 
 **Teileliste**
@@ -61,6 +62,7 @@
 | Endsteinziegel | `end_stone_bricks` | 648 |
 | Terrakotta | `terracotta` | 126 |
 | Polierter Tuffstein | `polished_tuff` | 118 |
+| Tuffstein | `tuff` | 65 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Glatter Stein | `smooth_stone` | 28 |
 | Fichtenholz-Bretter | `spruce_planks` | 18 |

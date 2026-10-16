@@ -1,0 +1,22 @@
+{
+  "module": 6,
+  "title": "Sakristei",
+  "subtitle": "Bautüte 6: Sangallos achteckige Sakristei und ihr Vorraum",
+  "icon": "⭐",
+  "parts": {
+    "sakristei": {
+      "title": "Sakristei und Vorraum",
+      "description": "Durch eine Tür in der Westwand gelangst du in den Vorraum mit Kassettendecke und weiter in das achteckige Sakristeigebäude; die Wände reichen bis Y 92.",
+      "tip": "Der Vorraum hat seine Decke auf Y 84.",
+      "caution": "Lass die drei Türen frei: Kirche, Achteck und Campanile.",
+      "fact": "Giuliano da Sangallo begann die Sakristei 1489; den Vorraum deckte Andrea Sansovino 1491."
+    },
+    "sakristei_kuppel": {
+      "title": "Kuppel der Sakristei",
+      "description": "Über dem Achteck wölbt sich eine Kuppel bis Y 107 mit kleiner Laterne.",
+      "tip": "Innen weißer Putz, außen Terrakotta.",
+      "caution": "Innen bleibt sie offen bis zur Wölbung.",
+      "fact": "Il Cronaca vollendete die Kuppel nach Sangallos Entwurf."
+    }
+  }
+}

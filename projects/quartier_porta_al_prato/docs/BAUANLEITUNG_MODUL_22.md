@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 4.749 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 57 bis 92 |
 | X-Ausdehnung | -2403 bis -2377 (27 Blöcke) |
 | Z-Ausdehnung | -1153 bis -1133 (21 Blöcke) |
 | Kleinster Schritt | 439 Blöcke (Schritt 22.4) |
@@ -50,9 +50,9 @@
 
 ## Bauschritte
 
-### Schritt 22.1 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/3 (Y 63–73)
+### Schritt 22.1 – Reihenhaus an Viale Fratelli Rosselli – Teil 1/3 (Y 57–67)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 57 bis 67
 - **Blöcke:** 1.469
 - **Bauteile:** `w482739732`
 
@@ -82,9 +82,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.2 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/3 (Y 74–85)
+### Schritt 22.2 – Reihenhaus an Viale Fratelli Rosselli – Teil 2/3 (Y 68–79)
 
-- **Y-Bereich:** 74 bis 85
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.428
 - **Bauteile:** `w482739732`
 
@@ -112,9 +112,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.3 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/3 (Y 86–98)
+### Schritt 22.3 – Reihenhaus an Viale Fratelli Rosselli – Teil 3/3 (Y 80–92)
 
-- **Y-Bereich:** 86 bis 98
+- **Y-Bereich:** 80 bis 92
 - **Blöcke:** 1.413
 - **Bauteile:** `w482739732`
 
@@ -146,7 +146,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 22.4 – Reihenhaus an Viale Fratelli Rosselli: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 57 bis 81
 - **Blöcke:** 439
 - **Bauteile:** `w482739732_innen`
 

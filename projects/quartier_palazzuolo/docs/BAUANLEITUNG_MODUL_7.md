@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 6.907 |
 | Bauschritte | 6 |
-| Y-Bereich | 63 bis 98 |
+| Y-Bereich | 58 bis 93 |
 | X-Ausdehnung | -1500 bis -1467 (34 Blöcke) |
 | Z-Ausdehnung | -85 bis -60 (26 Blöcke) |
 | Kleinster Schritt | 303 Blöcke (Schritt 7.3) |
@@ -52,9 +52,9 @@
 
 ## Bauschritte
 
-### Schritt 7.1 – Haus w477339776 – Teil 1/2 (Y 63–79)
+### Schritt 7.1 – Haus w477339776 – Teil 1/2 (Y 58–74)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 58 bis 74
 - **Blöcke:** 1.443
 - **Bauteile:** `w477339776`
 
@@ -85,9 +85,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.2 – Haus w477339776 – Teil 2/2 (Y 80–98)
+### Schritt 7.2 – Haus w477339776 – Teil 2/2 (Y 75–93)
 
-- **Y-Bereich:** 80 bis 98
+- **Y-Bereich:** 75 bis 93
 - **Blöcke:** 1.463
 - **Bauteile:** `w477339776`
 
@@ -120,7 +120,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.3 – Haus w477339776: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 58 bis 81
 - **Blöcke:** 303
 - **Bauteile:** `w477339776_innen`
 
@@ -156,9 +156,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 7.4 – Haus w477339795 – Teil 1/2 (Y 63–79)
+### Schritt 7.4 – Haus w477339795 – Teil 1/2 (Y 58–74)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 58 bis 74
 - **Blöcke:** 1.608
 - **Bauteile:** `w477339795`
 
@@ -188,9 +188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 7.5 – Haus w477339795 – Teil 2/2 (Y 80–97)
+### Schritt 7.5 – Haus w477339795 – Teil 2/2 (Y 75–92)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 75 bis 92
 - **Blöcke:** 1.643
 - **Bauteile:** `w477339795`
 
@@ -222,7 +222,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 7.6 – Haus w477339795: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 58 bis 81
 - **Blöcke:** 447
 - **Bauteile:** `w477339795_innen`
 

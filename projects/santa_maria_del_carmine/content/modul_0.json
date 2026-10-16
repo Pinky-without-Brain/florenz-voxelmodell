@@ -1,0 +1,22 @@
+{
+  "module": 0,
+  "title": "Fundament und Boden",
+  "subtitle": "Bautüte 0: Fundament bis Y 59 und Boden auf Y 60",
+  "icon": "🧱",
+  "parts": {
+    "fundament": {
+      "title": "Fundament",
+      "description": "Unter der ganzen Kirche füllst du das Gelände mit Tuff bis Y 59 auf.",
+      "tip": "Arbeite Spalte für Spalte.",
+      "caution": "Wo das Gelände Y 59 schon erreicht, bleibt die Spalte leer.",
+      "fact": "Die Karmeliter gründeten ihr Kloster hier im 13. Jahrhundert."
+    },
+    "boden": {
+      "title": "Boden",
+      "description": "Auf Y 60 legst du den Boden: im Schiff und unter der Kuppel ein Schachbrett aus Glattem Stein und hellem Quarz, in den Kapellen rosa Terrakotta, im Chor und in der Cappella Corsini heller Quarz.",
+      "tip": "Ein Feld des Schachbretts ist vier Blöcke groß.",
+      "caution": "Die Lichtfelder setzt erst Bautüte 6.",
+      "fact": "Der Boden liegt bündig mit dem Vorplatz zur Piazza del Carmine."
+    }
+  }
+}

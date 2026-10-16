@@ -1,0 +1,15 @@
+{
+  "module": 1,
+  "title": "Fassade",
+  "subtitle": "Bautüte 1: Buontalentis Fassade zur Piazza Santa Trinita",
+  "icon": "⛪",
+  "parts": {
+    "fassade": {
+      "title": "Fassade",
+      "description": "Eine Front aus hellem Stein mit zwei Ordnungen von Pilastern aus Pietra serena: Gebälk auf Y 86 und 87, darüber der Giebel mit Rundfenster (Y 107) bis Y 123, seitlich Voluten. Über dem Hauptportal das Relief der Dreifaltigkeit, darüber die Statue des hl. Alexius.",
+      "tip": "Erst die Pilaster, dann die Flächen dazwischen.",
+      "caution": "Lass Hauptportal und Seitenportale frei.",
+      "fact": "Bernardo Buontalenti entwarf die Fassade 1593–94, die Skulpturen schuf Giovanni Battista Caccini."
+    }
+  }
+}

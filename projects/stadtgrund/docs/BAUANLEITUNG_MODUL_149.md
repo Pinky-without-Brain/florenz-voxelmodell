@@ -8,53 +8,53 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 217.524 |
-| Bauschritte | 116 |
+| Blöcke | 216.971 |
+| Bauschritte | 115 |
 | Y-Bereich | 49 bis 70 |
 | X-Ausdehnung | 1376 bis 1695 (320 Blöcke) |
-| Z-Ausdehnung | 1398 bis 1711 (314 Blöcke) |
-| Kleinster Schritt | 662 Blöcke (Schritt 149.115) |
-| Mittlerer Schritt | 1.875 Blöcke |
-| Größter Schritt | 2.087 Blöcke (Schritt 149.87) |
+| Z-Ausdehnung | 1392 bis 1711 (320 Blöcke) |
+| Kleinster Schritt | 662 Blöcke (Schritt 149.114) |
+| Mittlerer Schritt | 1.887 Blöcke |
+| Größter Schritt | 2.087 Blöcke (Schritt 149.86) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Wasser | `water` | 114.418 | 52,6 % |
-| Kies | `gravel` | 57.209 | 26,3 % |
-| Grasblock | `grass_block` | 15.465 | 7,1 % |
-| Polierter Tuffstein | `polished_tuff` | 11.379 | 5,2 % |
+| Wasser | `water` | 114.418 | 52,7 % |
+| Kies | `gravel` | 57.209 | 26,4 % |
+| Grasblock | `grass_block` | 15.485 | 7,1 % |
+| Polierter Tuffstein | `polished_tuff` | 11.450 | 5,3 % |
 | Polierter Andesit | `polished_andesite` | 7.587 | 3,5 % |
-| Glatter Stein | `smooth_stone` | 7.374 | 3,4 % |
-| Stein | `stone` | 4.092 | 1,9 % |
+| Glatter Stein | `smooth_stone` | 7.423 | 3,4 % |
+| Stein | `stone` | 3.399 | 1,6 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 10.048 | 149.1–149.7 |
-| 2 | `arno_bett` | Flussbett | 57.209 | 149.8–149.36 |
-| 3 | `arno_wasser` | Arno | 114.418 | 149.37–149.93 |
-| 4 | `strassen_pflaster` | Straßenpflaster | 5.331 | 149.94–149.97 |
-| 5 | `gehwege` | Gehwege | 5.386 | 149.98–149.100 |
-| 6 | `hof_pflaster` | Höfe | 6.048 | 149.101–149.105 |
-| 7 | `rasen` | Grün und offenes Gelände | 17.078 | 149.106–149.115 |
-| 8 | `ufer_bruestung` | Brüstung der Lungarni | 2.006 | 149.116 |
+| 1 | `boeschung` | Böschung und Mantel | 9.355 | 149.1–149.6 |
+| 2 | `arno_bett` | Flussbett | 57.209 | 149.7–149.35 |
+| 3 | `arno_wasser` | Arno | 114.418 | 149.36–149.92 |
+| 4 | `strassen_pflaster` | Straßenpflaster | 5.331 | 149.93–149.96 |
+| 5 | `gehwege` | Gehwege | 5.435 | 149.97–149.99 |
+| 6 | `hof_pflaster` | Höfe | 6.119 | 149.100–149.104 |
+| 7 | `rasen` | Grün und offenes Gelände | 17.098 | 149.105–149.114 |
+| 8 | `ufer_bruestung` | Brüstung der Lungarni | 2.006 | 149.115 |
 
 ## Bauschritte
 
-### Schritt 149.1 – Böschung und Mantel – Teil 1/7 (Y 49–51)
+### Schritt 149.1 – Böschung und Mantel – Teil 1/6 (Y 49–52)
 
-- **Y-Bereich:** 49 bis 51
-- **Blöcke:** 1.309
+- **Y-Bereich:** 49 bis 52
+- **Blöcke:** 1.635
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.197 |
+| Polierter Andesit | `polished_andesite` | 1.523 |
 | Stein | `stone` | 112 |
 
 **Beschreibung**
@@ -73,17 +73,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 149.2 – Böschung und Mantel – Teil 2/7 (Y 52–56)
+### Schritt 149.2 – Böschung und Mantel – Teil 2/6 (Y 53–57)
 
-- **Y-Bereich:** 52 bis 56
-- **Blöcke:** 1.609
+- **Y-Bereich:** 53 bis 57
+- **Blöcke:** 1.630
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.609 |
+| Polierter Andesit | `polished_andesite` | 1.610 |
+| Stein | `stone` | 20 |
 
 **Beschreibung**
 
@@ -101,18 +102,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 149.3 – Böschung und Mantel – Teil 3/7 (Y 57–60)
+### Schritt 149.3 – Böschung und Mantel – Teil 3/6 (Y 58–61)
 
-- **Y-Bereich:** 57 bis 60
-- **Blöcke:** 1.434
+- **Y-Bereich:** 58 bis 61
+- **Blöcke:** 1.475
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.308 |
-| Stein | `stone` | 126 |
+| Polierter Andesit | `polished_andesite` | 1.305 |
+| Stein | `stone` | 170 |
 
 **Beschreibung**
 
@@ -130,18 +131,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 149.4 – Böschung und Mantel – Teil 4/7 (Y 61–62)
+### Schritt 149.4 – Böschung und Mantel – Teil 4/6 (Y 62–63)
 
-- **Y-Bereich:** 61 bis 62
-- **Blöcke:** 1.669
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.610
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.023 |
-| Polierter Andesit | `polished_andesite` | 646 |
+| Stein | `stone` | 976 |
+| Polierter Andesit | `polished_andesite` | 634 |
 
 **Beschreibung**
 
@@ -159,46 +160,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 149.5 – Böschung und Mantel – Teil 5/7 (Y 63–63)
-
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.002
-- **Bauteile:** `boeschung`
-
-**Teileliste**
-
-| Block | Typ | Anzahl |
-| :--- | :--- | ---: |
-| Stein | `stone` | 690 |
-| Polierter Andesit | `polished_andesite` | 312 |
-
-**Beschreibung**
-
-Zellen unter der Oberfläche bis zur Unterkante der Nachbarspalten; unter fremden Gebäuden nur der Rand zu tieferen Nachbarn.
-
-**Tipp**
-
-Von unten nach oben setzen; die Oberfläche kommt im nächsten Bauteil.
-
-**Achtung**
-
-Im Uferband ist die Böschung die Ufermauer (Pietra forte).
-
-**Fakt**
-
-Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
-
-### Schritt 149.6 – Böschung und Mantel – Teil 6/7 (Y 64–65)
+### Schritt 149.5 – Böschung und Mantel – Teil 5/6 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.504
+- **Blöcke:** 1.472
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 908 |
+| Stein | `stone` | 876 |
 | Polierter Andesit | `polished_andesite` | 596 |
 
 **Beschreibung**
@@ -217,17 +189,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 149.7 – Böschung und Mantel – Teil 7/7 (Y 66–67)
+### Schritt 149.6 – Böschung und Mantel – Teil 6/6 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.521
+- **Blöcke:** 1.533
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.205 |
+| Stein | `stone` | 1.217 |
 | Polierter Andesit | `polished_andesite` | 316 |
 
 **Beschreibung**
@@ -246,7 +218,7 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 149.8 – Flussbett – Teil 1/29 (Y 49–49)
+### Schritt 149.7 – Flussbett – Teil 1/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -274,7 +246,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.9 – Flussbett – Teil 2/29 (Y 49–49)
+### Schritt 149.8 – Flussbett – Teil 2/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -302,7 +274,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.10 – Flussbett – Teil 3/29 (Y 49–49)
+### Schritt 149.9 – Flussbett – Teil 3/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -330,7 +302,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.11 – Flussbett – Teil 4/29 (Y 49–49)
+### Schritt 149.10 – Flussbett – Teil 4/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.061
@@ -358,7 +330,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.12 – Flussbett – Teil 5/29 (Y 49–49)
+### Schritt 149.11 – Flussbett – Teil 5/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -386,7 +358,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.13 – Flussbett – Teil 6/29 (Y 49–49)
+### Schritt 149.12 – Flussbett – Teil 6/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -414,7 +386,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.14 – Flussbett – Teil 7/29 (Y 49–49)
+### Schritt 149.13 – Flussbett – Teil 7/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -442,7 +414,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.15 – Flussbett – Teil 8/29 (Y 49–49)
+### Schritt 149.14 – Flussbett – Teil 8/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -470,7 +442,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.16 – Flussbett – Teil 9/29 (Y 49–49)
+### Schritt 149.15 – Flussbett – Teil 9/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -498,7 +470,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.17 – Flussbett – Teil 10/29 (Y 49–49)
+### Schritt 149.16 – Flussbett – Teil 10/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.061
@@ -526,7 +498,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.18 – Flussbett – Teil 11/29 (Y 49–49)
+### Schritt 149.17 – Flussbett – Teil 11/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -554,7 +526,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.19 – Flussbett – Teil 12/29 (Y 49–49)
+### Schritt 149.18 – Flussbett – Teil 12/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -582,7 +554,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.20 – Flussbett – Teil 13/29 (Y 49–49)
+### Schritt 149.19 – Flussbett – Teil 13/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -610,7 +582,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.21 – Flussbett – Teil 14/29 (Y 49–49)
+### Schritt 149.20 – Flussbett – Teil 14/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -638,7 +610,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.22 – Flussbett – Teil 15/29 (Y 49–49)
+### Schritt 149.21 – Flussbett – Teil 15/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -666,7 +638,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.23 – Flussbett – Teil 16/29 (Y 49–49)
+### Schritt 149.22 – Flussbett – Teil 16/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.061
@@ -694,7 +666,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.24 – Flussbett – Teil 17/29 (Y 49–49)
+### Schritt 149.23 – Flussbett – Teil 17/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -722,7 +694,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.25 – Flussbett – Teil 18/29 (Y 49–49)
+### Schritt 149.24 – Flussbett – Teil 18/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -750,7 +722,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.26 – Flussbett – Teil 19/29 (Y 49–49)
+### Schritt 149.25 – Flussbett – Teil 19/29 (Y 49–49)
 
 - **Y-Bereich:** 49 bis 49
 - **Blöcke:** 2.062
@@ -778,7 +750,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.27 – Flussbett – Teil 20/29 (Y 50–50)
+### Schritt 149.26 – Flussbett – Teil 20/29 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.969
@@ -806,7 +778,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.28 – Flussbett – Teil 21/29 (Y 50–50)
+### Schritt 149.27 – Flussbett – Teil 21/29 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.990
@@ -834,7 +806,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.29 – Flussbett – Teil 22/29 (Y 50–50)
+### Schritt 149.28 – Flussbett – Teil 22/29 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.999
@@ -862,7 +834,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.30 – Flussbett – Teil 23/29 (Y 50–50)
+### Schritt 149.29 – Flussbett – Teil 23/29 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.974
@@ -890,7 +862,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.31 – Flussbett – Teil 24/29 (Y 50–50)
+### Schritt 149.30 – Flussbett – Teil 24/29 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 1.927
@@ -918,7 +890,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.32 – Flussbett – Teil 25/29 (Y 50–50)
+### Schritt 149.31 – Flussbett – Teil 25/29 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.031
@@ -946,7 +918,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.33 – Flussbett – Teil 26/29 (Y 51–51)
+### Schritt 149.32 – Flussbett – Teil 26/29 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 1.280
@@ -974,7 +946,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.34 – Flussbett – Teil 27/29 (Y 51–51)
+### Schritt 149.33 – Flussbett – Teil 27/29 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 1.280
@@ -1002,7 +974,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.35 – Flussbett – Teil 28/29 (Y 52–52)
+### Schritt 149.34 – Flussbett – Teil 28/29 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.048
@@ -1030,7 +1002,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.36 – Flussbett – Teil 29/29 (Y 53–54)
+### Schritt 149.35 – Flussbett – Teil 29/29 (Y 53–54)
 
 - **Y-Bereich:** 53 bis 54
 - **Blöcke:** 1.536
@@ -1058,7 +1030,7 @@ Unter den Brückenpfeilern bleibt das Bett frei (Aussparung).
 
 Der Wasserspiegel liegt im Zentrum bei Y 50 (gemessen aus dem Geländemodell).
 
-### Schritt 149.37 – Arno – Teil 1/57 (Y 50–50)
+### Schritt 149.36 – Arno – Teil 1/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1086,7 +1058,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.38 – Arno – Teil 2/57 (Y 50–50)
+### Schritt 149.37 – Arno – Teil 2/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1114,7 +1086,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.39 – Arno – Teil 3/57 (Y 50–50)
+### Schritt 149.38 – Arno – Teil 3/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1142,7 +1114,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.40 – Arno – Teil 4/57 (Y 50–50)
+### Schritt 149.39 – Arno – Teil 4/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.061
@@ -1170,7 +1142,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.41 – Arno – Teil 5/57 (Y 50–50)
+### Schritt 149.40 – Arno – Teil 5/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1198,7 +1170,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.42 – Arno – Teil 6/57 (Y 50–50)
+### Schritt 149.41 – Arno – Teil 6/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1226,7 +1198,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.43 – Arno – Teil 7/57 (Y 50–50)
+### Schritt 149.42 – Arno – Teil 7/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1254,7 +1226,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.44 – Arno – Teil 8/57 (Y 50–50)
+### Schritt 149.43 – Arno – Teil 8/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1282,7 +1254,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.45 – Arno – Teil 9/57 (Y 50–50)
+### Schritt 149.44 – Arno – Teil 9/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1310,7 +1282,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.46 – Arno – Teil 10/57 (Y 50–50)
+### Schritt 149.45 – Arno – Teil 10/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.061
@@ -1338,7 +1310,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.47 – Arno – Teil 11/57 (Y 50–50)
+### Schritt 149.46 – Arno – Teil 11/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1366,7 +1338,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.48 – Arno – Teil 12/57 (Y 50–50)
+### Schritt 149.47 – Arno – Teil 12/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1394,7 +1366,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.49 – Arno – Teil 13/57 (Y 50–50)
+### Schritt 149.48 – Arno – Teil 13/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1422,7 +1394,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.50 – Arno – Teil 14/57 (Y 50–50)
+### Schritt 149.49 – Arno – Teil 14/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1450,7 +1422,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.51 – Arno – Teil 15/57 (Y 50–50)
+### Schritt 149.50 – Arno – Teil 15/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1478,7 +1450,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.52 – Arno – Teil 16/57 (Y 50–50)
+### Schritt 149.51 – Arno – Teil 16/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.061
@@ -1506,7 +1478,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.53 – Arno – Teil 17/57 (Y 50–50)
+### Schritt 149.52 – Arno – Teil 17/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1534,7 +1506,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.54 – Arno – Teil 18/57 (Y 50–50)
+### Schritt 149.53 – Arno – Teil 18/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1562,7 +1534,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.55 – Arno – Teil 19/57 (Y 50–50)
+### Schritt 149.54 – Arno – Teil 19/57 (Y 50–50)
 
 - **Y-Bereich:** 50 bis 50
 - **Blöcke:** 2.062
@@ -1590,7 +1562,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.56 – Arno – Teil 20/57 (Y 51–51)
+### Schritt 149.55 – Arno – Teil 20/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1618,7 +1590,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.57 – Arno – Teil 21/57 (Y 51–51)
+### Schritt 149.56 – Arno – Teil 21/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -1646,7 +1618,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.58 – Arno – Teil 22/57 (Y 51–51)
+### Schritt 149.57 – Arno – Teil 22/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1674,7 +1646,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.59 – Arno – Teil 23/57 (Y 51–51)
+### Schritt 149.58 – Arno – Teil 23/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -1702,7 +1674,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.60 – Arno – Teil 24/57 (Y 51–51)
+### Schritt 149.59 – Arno – Teil 24/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1730,7 +1702,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.61 – Arno – Teil 25/57 (Y 51–51)
+### Schritt 149.60 – Arno – Teil 25/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1758,7 +1730,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.62 – Arno – Teil 26/57 (Y 51–51)
+### Schritt 149.61 – Arno – Teil 26/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -1786,7 +1758,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.63 – Arno – Teil 27/57 (Y 51–51)
+### Schritt 149.62 – Arno – Teil 27/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1814,7 +1786,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.64 – Arno – Teil 28/57 (Y 51–51)
+### Schritt 149.63 – Arno – Teil 28/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -1842,7 +1814,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.65 – Arno – Teil 29/57 (Y 51–51)
+### Schritt 149.64 – Arno – Teil 29/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1870,7 +1842,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.66 – Arno – Teil 30/57 (Y 51–51)
+### Schritt 149.65 – Arno – Teil 30/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1898,7 +1870,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.67 – Arno – Teil 31/57 (Y 51–51)
+### Schritt 149.66 – Arno – Teil 31/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -1926,7 +1898,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.68 – Arno – Teil 32/57 (Y 51–51)
+### Schritt 149.67 – Arno – Teil 32/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -1954,7 +1926,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.69 – Arno – Teil 33/57 (Y 51–51)
+### Schritt 149.68 – Arno – Teil 33/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -1982,7 +1954,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.70 – Arno – Teil 34/57 (Y 51–51)
+### Schritt 149.69 – Arno – Teil 34/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2010,7 +1982,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.71 – Arno – Teil 35/57 (Y 51–51)
+### Schritt 149.70 – Arno – Teil 35/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2038,7 +2010,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.72 – Arno – Teil 36/57 (Y 51–51)
+### Schritt 149.71 – Arno – Teil 36/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -2066,7 +2038,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.73 – Arno – Teil 37/57 (Y 51–51)
+### Schritt 149.72 – Arno – Teil 37/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2094,7 +2066,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.74 – Arno – Teil 38/57 (Y 51–51)
+### Schritt 149.73 – Arno – Teil 38/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -2122,7 +2094,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.75 – Arno – Teil 39/57 (Y 51–51)
+### Schritt 149.74 – Arno – Teil 39/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2150,7 +2122,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.76 – Arno – Teil 40/57 (Y 51–51)
+### Schritt 149.75 – Arno – Teil 40/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2178,7 +2150,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.77 – Arno – Teil 41/57 (Y 51–51)
+### Schritt 149.76 – Arno – Teil 41/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -2206,7 +2178,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.78 – Arno – Teil 42/57 (Y 51–51)
+### Schritt 149.77 – Arno – Teil 42/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2234,7 +2206,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.79 – Arno – Teil 43/57 (Y 51–51)
+### Schritt 149.78 – Arno – Teil 43/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.042
@@ -2262,7 +2234,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.80 – Arno – Teil 44/57 (Y 51–51)
+### Schritt 149.79 – Arno – Teil 44/57 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 2.043
@@ -2290,7 +2262,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.81 – Arno – Teil 45/57 (Y 52–52)
+### Schritt 149.80 – Arno – Teil 45/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.050
@@ -2318,7 +2290,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.82 – Arno – Teil 46/57 (Y 52–52)
+### Schritt 149.81 – Arno – Teil 46/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.058
@@ -2346,7 +2318,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.83 – Arno – Teil 47/57 (Y 52–52)
+### Schritt 149.82 – Arno – Teil 47/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.042
@@ -2374,7 +2346,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.84 – Arno – Teil 48/57 (Y 52–52)
+### Schritt 149.83 – Arno – Teil 48/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.081
@@ -2402,7 +2374,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.85 – Arno – Teil 49/57 (Y 52–52)
+### Schritt 149.84 – Arno – Teil 49/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.085
@@ -2430,7 +2402,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.86 – Arno – Teil 50/57 (Y 52–52)
+### Schritt 149.85 – Arno – Teil 50/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.047
@@ -2458,7 +2430,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.87 – Arno – Teil 51/57 (Y 52–52)
+### Schritt 149.86 – Arno – Teil 51/57 (Y 52–52)
 
 - **Y-Bereich:** 52 bis 52
 - **Blöcke:** 2.087
@@ -2486,7 +2458,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.88 – Arno – Teil 52/57 (Y 53–53)
+### Schritt 149.87 – Arno – Teil 52/57 (Y 53–53)
 
 - **Y-Bereich:** 53 bis 53
 - **Blöcke:** 1.536
@@ -2514,7 +2486,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.89 – Arno – Teil 53/57 (Y 53–53)
+### Schritt 149.88 – Arno – Teil 53/57 (Y 53–53)
 
 - **Y-Bereich:** 53 bis 53
 - **Blöcke:** 1.552
@@ -2542,7 +2514,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.90 – Arno – Teil 54/57 (Y 53–53)
+### Schritt 149.89 – Arno – Teil 54/57 (Y 53–53)
 
 - **Y-Bereich:** 53 bis 53
 - **Blöcke:** 1.520
@@ -2570,7 +2542,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.91 – Arno – Teil 55/57 (Y 54–54)
+### Schritt 149.90 – Arno – Teil 55/57 (Y 54–54)
 
 - **Y-Bereich:** 54 bis 54
 - **Blöcke:** 1.664
@@ -2598,7 +2570,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.92 – Arno – Teil 56/57 (Y 54–54)
+### Schritt 149.91 – Arno – Teil 56/57 (Y 54–54)
 
 - **Y-Bereich:** 54 bis 54
 - **Blöcke:** 1.664
@@ -2626,7 +2598,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.93 – Arno – Teil 57/57 (Y 55–56)
+### Schritt 149.92 – Arno – Teil 57/57 (Y 55–56)
 
 - **Y-Bereich:** 55 bis 56
 - **Blöcke:** 1.792
@@ -2654,7 +2626,7 @@ Die Wassertiefe von 1 m ist geschätzt.
 
 Beim Hochwasser vom 4. November 1966 stand das Wasser in der Altstadt mehrere Meter hoch.
 
-### Schritt 149.94 – Straßenpflaster – Teil 1/4 (Y 63–66)
+### Schritt 149.93 – Straßenpflaster – Teil 1/4 (Y 63–66)
 
 - **Y-Bereich:** 63 bis 66
 - **Blöcke:** 1.236
@@ -2682,7 +2654,7 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 149.95 – Straßenpflaster – Teil 2/4 (Y 67–67)
+### Schritt 149.94 – Straßenpflaster – Teil 2/4 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.497
@@ -2710,7 +2682,7 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 149.96 – Straßenpflaster – Teil 3/4 (Y 67–67)
+### Schritt 149.95 – Straßenpflaster – Teil 3/4 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.504
@@ -2738,7 +2710,7 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 149.97 – Straßenpflaster – Teil 4/4 (Y 68–68)
+### Schritt 149.96 – Straßenpflaster – Teil 4/4 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.094
@@ -2766,17 +2738,17 @@ Vor den Wahrzeichen ist das Pflaster an deren Bodenhöhe angeglichen.
 
 Die Altstadtstraßen sind seit dem Mittelalter mit Sandsteinplatten gepflastert.
 
-### Schritt 149.98 – Gehwege – Teil 1/3 (Y 65–67)
+### Schritt 149.97 – Gehwege – Teil 1/3 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.799
+- **Blöcke:** 1.804
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.781 |
+| Glatter Stein | `smooth_stone` | 1.786 |
 | Polierter Andesit | `polished_andesite` | 18 |
 
 **Beschreibung**
@@ -2795,17 +2767,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 149.99 – Gehwege – Teil 2/3 (Y 67–67)
+### Schritt 149.98 – Gehwege – Teil 2/3 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.748
+- **Blöcke:** 1.788
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.748 |
+| Glatter Stein | `smooth_stone` | 1.788 |
 
 **Beschreibung**
 
@@ -2823,17 +2795,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 149.100 – Gehwege – Teil 3/3 (Y 67–68)
+### Schritt 149.99 – Gehwege – Teil 3/3 (Y 67–68)
 
 - **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.839
+- **Blöcke:** 1.843
 - **Bauteile:** `gehwege`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Stein | `smooth_stone` | 1.839 |
+| Glatter Stein | `smooth_stone` | 1.843 |
 
 **Beschreibung**
 
@@ -2851,17 +2823,17 @@ Wo ein anderer Straßentyp liegt, gewinnt dieser.
 
 Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 
-### Schritt 149.101 – Höfe – Teil 1/5 (Y 57–62)
+### Schritt 149.100 – Höfe – Teil 1/5 (Y 57–62)
 
 - **Y-Bereich:** 57 bis 62
-- **Blöcke:** 1.103
+- **Blöcke:** 1.100
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.103 |
+| Polierter Tuffstein | `polished_tuff` | 1.100 |
 
 **Beschreibung**
 
@@ -2879,17 +2851,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 149.102 – Höfe – Teil 2/5 (Y 63–63)
+### Schritt 149.101 – Höfe – Teil 2/5 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.415
+- **Blöcke:** 1.426
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.415 |
+| Polierter Tuffstein | `polished_tuff` | 1.426 |
 
 **Beschreibung**
 
@@ -2907,17 +2879,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 149.103 – Höfe – Teil 3/5 (Y 63–63)
+### Schritt 149.102 – Höfe – Teil 3/5 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.413
+- **Blöcke:** 1.459
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.413 |
+| Polierter Tuffstein | `polished_tuff` | 1.459 |
 
 **Beschreibung**
 
@@ -2935,17 +2907,17 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 149.104 – Höfe – Teil 4/5 (Y 63–63)
+### Schritt 149.103 – Höfe – Teil 4/5 (Y 63–63)
 
 - **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.424
+- **Blöcke:** 1.441
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.424 |
+| Polierter Tuffstein | `polished_tuff` | 1.441 |
 
 **Beschreibung**
 
@@ -2963,7 +2935,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 149.105 – Höfe – Teil 5/5 (Y 64–67)
+### Schritt 149.104 – Höfe – Teil 5/5 (Y 64–67)
 
 - **Y-Bereich:** 64 bis 67
 - **Blöcke:** 693
@@ -2991,7 +2963,7 @@ Höfe der Wahrzeichen bauen die Wahrzeichen selbst.
 
 Hinter den Fassaden liegen viele kleine Innenhöfe.
 
-### Schritt 149.106 – Grün und offenes Gelände – Teil 1/10 (Y 50–51)
+### Schritt 149.105 – Grün und offenes Gelände – Teil 1/10 (Y 50–51)
 
 - **Y-Bereich:** 50 bis 51
 - **Blöcke:** 1.785
@@ -3019,7 +2991,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.107 – Grün und offenes Gelände – Teil 2/10 (Y 51–51)
+### Schritt 149.106 – Grün und offenes Gelände – Teil 2/10 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 1.798
@@ -3047,7 +3019,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.108 – Grün und offenes Gelände – Teil 3/10 (Y 51–51)
+### Schritt 149.107 – Grün und offenes Gelände – Teil 3/10 (Y 51–51)
 
 - **Y-Bereich:** 51 bis 51
 - **Blöcke:** 1.750
@@ -3075,7 +3047,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.109 – Grün und offenes Gelände – Teil 4/10 (Y 52–53)
+### Schritt 149.108 – Grün und offenes Gelände – Teil 4/10 (Y 52–53)
 
 - **Y-Bereich:** 52 bis 53
 - **Blöcke:** 1.823
@@ -3104,7 +3076,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.110 – Grün und offenes Gelände – Teil 5/10 (Y 54–66)
+### Schritt 149.109 – Grün und offenes Gelände – Teil 5/10 (Y 54–66)
 
 - **Y-Bereich:** 54 bis 66
 - **Blöcke:** 1.437
@@ -3134,7 +3106,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.111 – Grün und offenes Gelände – Teil 6/10 (Y 67–67)
+### Schritt 149.110 – Grün und offenes Gelände – Teil 6/10 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.951
@@ -3163,17 +3135,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.112 – Grün und offenes Gelände – Teil 7/10 (Y 67–67)
+### Schritt 149.111 – Grün und offenes Gelände – Teil 7/10 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.960
+- **Blöcke:** 1.975
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.931 |
+| Grasblock | `grass_block` | 1.946 |
 | Polierter Andesit | `polished_andesite` | 29 |
 
 **Beschreibung**
@@ -3192,17 +3164,17 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.113 – Grün und offenes Gelände – Teil 8/10 (Y 67–67)
+### Schritt 149.112 – Grün und offenes Gelände – Teil 8/10 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
-- **Blöcke:** 1.962
+- **Blöcke:** 1.967
 - **Bauteile:** `rasen`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Grasblock | `grass_block` | 1.921 |
+| Grasblock | `grass_block` | 1.926 |
 | Polierter Andesit | `polished_andesite` | 41 |
 
 **Beschreibung**
@@ -3221,7 +3193,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.114 – Grün und offenes Gelände – Teil 9/10 (Y 67–67)
+### Schritt 149.113 – Grün und offenes Gelände – Teil 9/10 (Y 67–67)
 
 - **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.950
@@ -3251,7 +3223,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.115 – Grün und offenes Gelände – Teil 10/10 (Y 68–68)
+### Schritt 149.114 – Grün und offenes Gelände – Teil 10/10 (Y 68–68)
 
 - **Y-Bereich:** 68 bis 68
 - **Blöcke:** 662
@@ -3280,7 +3252,7 @@ Bäume sind nicht vorgesehen.
 
 Der Boboli-Garten hinter dem Palazzo Pitti ist rund 45 Hektar groß.
 
-### Schritt 149.116 – Brüstung der Lungarni
+### Schritt 149.115 – Brüstung der Lungarni
 
 - **Y-Bereich:** 57 bis 70
 - **Blöcke:** 2.006

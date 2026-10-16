@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 2.009 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 65 bis 99 |
 | X-Ausdehnung | 1400 bis 1413 (14 Blöcke) |
 | Z-Ausdehnung | 480 bis 489 (10 Blöcke) |
 | Kleinster Schritt | 2.009 Blöcke (Schritt 17.1) |
@@ -50,7 +50,7 @@
 
 ### Schritt 17.1 – Haus w476894569 & Haus w476894569: Innenausbau
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 65 bis 99
 - **Blöcke:** 2.009
 - **Bauteile:** `w476894569`, `w476894569_innen`
 

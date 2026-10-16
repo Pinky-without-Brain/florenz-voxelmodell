@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 104.372 |
+| Blöcke | 104.376 |
 | Bauschritte | 64 |
-| Y-Bereich | 63 bis 105 |
+| Y-Bereich | 62 bis 104 |
 | X-Ausdehnung | 556 bis 730 (175 Blöcke) |
 | Z-Ausdehnung | 594 bis 741 (148 Blöcke) |
 | Kleinster Schritt | 886 Blöcke (Schritt 9.50) |
@@ -45,6 +45,8 @@
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 9 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -67,12 +69,13 @@
 | 8 | `w491926133_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 1.595 | 9.58 |
 | 9 | `w491926138` | Reihenhaus an Via Ghibellina | 6.977 | 9.59–9.62 |
 | 10 | `w491926138_innen` | Reihenhaus an Via Ghibellina: Innenausbau | 2.927 | 9.63–9.64 |
+| 11 | `strassenschilder` | Straßenschilder | 4 | 9.64 |
 
 ## Bauschritte
 
-### Schritt 9.1 – Teatro Verdi – Teil 1/37 (Y 63–63)
+### Schritt 9.1 – Teatro Verdi – Teil 1/37 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.770
 - **Bauteile:** `r1598978`
 
@@ -98,9 +101,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.2 – Teatro Verdi – Teil 2/37 (Y 63–63)
+### Schritt 9.2 – Teatro Verdi – Teil 2/37 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.775
 - **Bauteile:** `r1598978`
 
@@ -126,9 +129,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.3 – Teatro Verdi – Teil 3/37 (Y 63–63)
+### Schritt 9.3 – Teatro Verdi – Teil 3/37 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.815
 - **Bauteile:** `r1598978`
 
@@ -154,9 +157,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.4 – Teatro Verdi – Teil 4/37 (Y 63–63)
+### Schritt 9.4 – Teatro Verdi – Teil 4/37 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.764
 - **Bauteile:** `r1598978`
 
@@ -182,9 +185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.5 – Teatro Verdi – Teil 5/37 (Y 63–63)
+### Schritt 9.5 – Teatro Verdi – Teil 5/37 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.793
 - **Bauteile:** `r1598978`
 
@@ -210,9 +213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.6 – Teatro Verdi – Teil 6/37 (Y 63–63)
+### Schritt 9.6 – Teatro Verdi – Teil 6/37 (Y 62–62)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 62 bis 62
 - **Blöcke:** 1.800
 - **Bauteile:** `r1598978`
 
@@ -238,9 +241,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.7 – Teatro Verdi – Teil 7/37 (Y 64–64)
+### Schritt 9.7 – Teatro Verdi – Teil 7/37 (Y 63–63)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 63 bis 63
 - **Blöcke:** 1.061
 - **Bauteile:** `r1598978`
 
@@ -268,9 +271,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.8 – Teatro Verdi – Teil 8/37 (Y 65–65)
+### Schritt 9.8 – Teatro Verdi – Teil 8/37 (Y 64–64)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 64 bis 64
 - **Blöcke:** 1.061
 - **Bauteile:** `r1598978`
 
@@ -299,9 +302,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.9 – Teatro Verdi – Teil 9/37 (Y 66–66)
+### Schritt 9.9 – Teatro Verdi – Teil 9/37 (Y 65–65)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.061
 - **Bauteile:** `r1598978`
 
@@ -330,9 +333,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.10 – Teatro Verdi – Teil 10/37 (Y 67–68)
+### Schritt 9.10 – Teatro Verdi – Teil 10/37 (Y 66–67)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 66 bis 67
 - **Blöcke:** 2.017
 - **Bauteile:** `r1598978`
 
@@ -364,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.11 – Teatro Verdi – Teil 11/37 (Y 69–69)
+### Schritt 9.11 – Teatro Verdi – Teil 11/37 (Y 68–68)
 
-- **Y-Bereich:** 69 bis 69
+- **Y-Bereich:** 68 bis 68
 - **Blöcke:** 1.012
 - **Bauteile:** `r1598978`
 
@@ -396,9 +399,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.12 – Teatro Verdi – Teil 12/37 (Y 70–71)
+### Schritt 9.12 – Teatro Verdi – Teil 12/37 (Y 69–70)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 69 bis 70
 - **Blöcke:** 2.080
 - **Bauteile:** `r1598978`
 
@@ -428,9 +431,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.13 – Teatro Verdi – Teil 13/37 (Y 72–72)
+### Schritt 9.13 – Teatro Verdi – Teil 13/37 (Y 71–71)
 
-- **Y-Bereich:** 72 bis 72
+- **Y-Bereich:** 71 bis 71
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -457,9 +460,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.14 – Teatro Verdi – Teil 14/37 (Y 73–73)
+### Schritt 9.14 – Teatro Verdi – Teil 14/37 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -486,9 +489,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.15 – Teatro Verdi – Teil 15/37 (Y 74–74)
+### Schritt 9.15 – Teatro Verdi – Teil 15/37 (Y 73–73)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 73 bis 73
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -515,9 +518,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.16 – Teatro Verdi – Teil 16/37 (Y 75–76)
+### Schritt 9.16 – Teatro Verdi – Teil 16/37 (Y 74–75)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 74 bis 75
 - **Blöcke:** 2.078
 - **Bauteile:** `r1598978`
 
@@ -547,9 +550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.17 – Teatro Verdi – Teil 17/37 (Y 77–78)
+### Schritt 9.17 – Teatro Verdi – Teil 17/37 (Y 76–77)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 76 bis 77
 - **Blöcke:** 2.020
 - **Bauteile:** `r1598978`
 
@@ -579,9 +582,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.18 – Teatro Verdi – Teil 18/37 (Y 79–80)
+### Schritt 9.18 – Teatro Verdi – Teil 18/37 (Y 78–79)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 2.020
 - **Bauteile:** `r1598978`
 
@@ -611,9 +614,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.19 – Teatro Verdi – Teil 19/37 (Y 81–81)
+### Schritt 9.19 – Teatro Verdi – Teil 19/37 (Y 80–80)
 
-- **Y-Bereich:** 81 bis 81
+- **Y-Bereich:** 80 bis 80
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -641,9 +644,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.20 – Teatro Verdi – Teil 20/37 (Y 82–82)
+### Schritt 9.20 – Teatro Verdi – Teil 20/37 (Y 81–81)
 
-- **Y-Bereich:** 82 bis 82
+- **Y-Bereich:** 81 bis 81
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -671,9 +674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.21 – Teatro Verdi – Teil 21/37 (Y 83–83)
+### Schritt 9.21 – Teatro Verdi – Teil 21/37 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -700,9 +703,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.22 – Teatro Verdi – Teil 22/37 (Y 84–84)
+### Schritt 9.22 – Teatro Verdi – Teil 22/37 (Y 83–83)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 83 bis 83
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -729,9 +732,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.23 – Teatro Verdi – Teil 23/37 (Y 85–86)
+### Schritt 9.23 – Teatro Verdi – Teil 23/37 (Y 84–85)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 84 bis 85
 - **Blöcke:** 2.078
 - **Bauteile:** `r1598978`
 
@@ -761,9 +764,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.24 – Teatro Verdi – Teil 24/37 (Y 87–88)
+### Schritt 9.24 – Teatro Verdi – Teil 24/37 (Y 86–87)
 
-- **Y-Bereich:** 87 bis 88
+- **Y-Bereich:** 86 bis 87
 - **Blöcke:** 2.020
 - **Bauteile:** `r1598978`
 
@@ -793,9 +796,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.25 – Teatro Verdi – Teil 25/37 (Y 89–90)
+### Schritt 9.25 – Teatro Verdi – Teil 25/37 (Y 88–89)
 
-- **Y-Bereich:** 89 bis 90
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 2.020
 - **Bauteile:** `r1598978`
 
@@ -825,9 +828,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.26 – Teatro Verdi – Teil 26/37 (Y 91–91)
+### Schritt 9.26 – Teatro Verdi – Teil 26/37 (Y 90–90)
 
-- **Y-Bereich:** 91 bis 91
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.068
 - **Bauteile:** `r1598978`
 
@@ -855,9 +858,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.27 – Teatro Verdi – Teil 27/37 (Y 92–92)
+### Schritt 9.27 – Teatro Verdi – Teil 27/37 (Y 91–91)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.188
 - **Bauteile:** `r1598978`
 
@@ -886,9 +889,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.28 – Teatro Verdi – Teil 28/37 (Y 93–93)
+### Schritt 9.28 – Teatro Verdi – Teil 28/37 (Y 92–92)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 92 bis 92
 - **Blöcke:** 1.619
 - **Bauteile:** `r1598978`
 
@@ -916,9 +919,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.29 – Teatro Verdi – Teil 29/37 (Y 94–94)
+### Schritt 9.29 – Teatro Verdi – Teil 29/37 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.543
 - **Bauteile:** `r1598978`
 
@@ -944,9 +947,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.30 – Teatro Verdi – Teil 30/37 (Y 94–94)
+### Schritt 9.30 – Teatro Verdi – Teil 30/37 (Y 93–93)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 93 bis 93
 - **Blöcke:** 1.536
 - **Bauteile:** `r1598978`
 
@@ -972,9 +975,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.31 – Teatro Verdi – Teil 31/37 (Y 95–95)
+### Schritt 9.31 – Teatro Verdi – Teil 31/37 (Y 94–94)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 94 bis 94
 - **Blöcke:** 1.761
 - **Bauteile:** `r1598978`
 
@@ -1000,9 +1003,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.32 – Teatro Verdi – Teil 32/37 (Y 96–96)
+### Schritt 9.32 – Teatro Verdi – Teil 32/37 (Y 95–95)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 95 bis 95
 - **Blöcke:** 1.693
 - **Bauteile:** `r1598978`
 
@@ -1028,9 +1031,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.33 – Teatro Verdi – Teil 33/37 (Y 97–97)
+### Schritt 9.33 – Teatro Verdi – Teil 33/37 (Y 96–96)
 
-- **Y-Bereich:** 97 bis 97
+- **Y-Bereich:** 96 bis 96
 - **Blöcke:** 1.657
 - **Bauteile:** `r1598978`
 
@@ -1057,9 +1060,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.34 – Teatro Verdi – Teil 34/37 (Y 98–98)
+### Schritt 9.34 – Teatro Verdi – Teil 34/37 (Y 97–97)
 
-- **Y-Bereich:** 98 bis 98
+- **Y-Bereich:** 97 bis 97
 - **Blöcke:** 1.298
 - **Bauteile:** `r1598978`
 
@@ -1086,9 +1089,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.35 – Teatro Verdi – Teil 35/37 (Y 99–100)
+### Schritt 9.35 – Teatro Verdi – Teil 35/37 (Y 98–99)
 
-- **Y-Bereich:** 99 bis 100
+- **Y-Bereich:** 98 bis 99
 - **Blöcke:** 2.088
 - **Bauteile:** `r1598978`
 
@@ -1115,9 +1118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.36 – Teatro Verdi – Teil 36/37 (Y 101–102)
+### Schritt 9.36 – Teatro Verdi – Teil 36/37 (Y 100–101)
 
-- **Y-Bereich:** 101 bis 102
+- **Y-Bereich:** 100 bis 101
 - **Blöcke:** 1.751
 - **Bauteile:** `r1598978`
 
@@ -1144,9 +1147,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.37 – Teatro Verdi – Teil 37/37 (Y 103–105)
+### Schritt 9.37 – Teatro Verdi – Teil 37/37 (Y 102–104)
 
-- **Y-Bereich:** 103 bis 105
+- **Y-Bereich:** 102 bis 104
 - **Blöcke:** 1.665
 - **Bauteile:** `r1598978`
 
@@ -1173,9 +1176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.38 – Teatro Verdi: Innenausbau – Teil 1/10 (Y 63–73)
+### Schritt 9.38 – Teatro Verdi: Innenausbau – Teil 1/10 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 2.040
 - **Bauteile:** `r1598978_innen`
 
@@ -1215,9 +1218,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.39 – Teatro Verdi: Innenausbau – Teil 2/10 (Y 73–73)
+### Schritt 9.39 – Teatro Verdi: Innenausbau – Teil 2/10 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.903
 - **Bauteile:** `r1598978_innen`
 
@@ -1244,9 +1247,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.40 – Teatro Verdi: Innenausbau – Teil 3/10 (Y 73–73)
+### Schritt 9.40 – Teatro Verdi: Innenausbau – Teil 3/10 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.965
 - **Bauteile:** `r1598978_innen`
 
@@ -1273,9 +1276,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.41 – Teatro Verdi: Innenausbau – Teil 4/10 (Y 73–73)
+### Schritt 9.41 – Teatro Verdi: Innenausbau – Teil 4/10 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.937
 - **Bauteile:** `r1598978_innen`
 
@@ -1302,9 +1305,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.42 – Teatro Verdi: Innenausbau – Teil 5/10 (Y 73–73)
+### Schritt 9.42 – Teatro Verdi: Innenausbau – Teil 5/10 (Y 72–72)
 
-- **Y-Bereich:** 73 bis 73
+- **Y-Bereich:** 72 bis 72
 - **Blöcke:** 1.941
 - **Bauteile:** `r1598978_innen`
 
@@ -1331,9 +1334,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.43 – Teatro Verdi: Innenausbau – Teil 6/10 (Y 74–83)
+### Schritt 9.43 – Teatro Verdi: Innenausbau – Teil 6/10 (Y 73–82)
 
-- **Y-Bereich:** 74 bis 83
+- **Y-Bereich:** 73 bis 82
 - **Blöcke:** 1.998
 - **Bauteile:** `r1598978_innen`
 
@@ -1375,9 +1378,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.44 – Teatro Verdi: Innenausbau – Teil 7/10 (Y 83–83)
+### Schritt 9.44 – Teatro Verdi: Innenausbau – Teil 7/10 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.903
 - **Bauteile:** `r1598978_innen`
 
@@ -1404,9 +1407,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.45 – Teatro Verdi: Innenausbau – Teil 8/10 (Y 83–83)
+### Schritt 9.45 – Teatro Verdi: Innenausbau – Teil 8/10 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.965
 - **Bauteile:** `r1598978_innen`
 
@@ -1433,9 +1436,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.46 – Teatro Verdi: Innenausbau – Teil 9/10 (Y 83–83)
+### Schritt 9.46 – Teatro Verdi: Innenausbau – Teil 9/10 (Y 82–82)
 
-- **Y-Bereich:** 83 bis 83
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 1.937
 - **Bauteile:** `r1598978_innen`
 
@@ -1462,9 +1465,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.47 – Teatro Verdi: Innenausbau – Teil 10/10 (Y 83–84)
+### Schritt 9.47 – Teatro Verdi: Innenausbau – Teil 10/10 (Y 82–83)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 82 bis 83
 - **Blöcke:** 1.943
 - **Bauteile:** `r1598978_innen`
 
@@ -1493,9 +1496,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.48 – Reihenhaus an Via Ghibellina – Teil 1/2 (Y 63–79)
+### Schritt 9.48 – Reihenhaus an Via Ghibellina – Teil 1/2 (Y 62–78)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 62 bis 78
 - **Blöcke:** 1.546
 - **Bauteile:** `w491926109`
 
@@ -1525,9 +1528,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.49 – Reihenhaus an Via Ghibellina – Teil 2/2 (Y 80–97)
+### Schritt 9.49 – Reihenhaus an Via Ghibellina – Teil 2/2 (Y 79–96)
 
-- **Y-Bereich:** 80 bis 97
+- **Y-Bereich:** 79 bis 96
 - **Blöcke:** 1.572
 - **Bauteile:** `w491926109`
 
@@ -1559,7 +1562,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.50 – Reihenhaus an Via Ghibellina: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 886
 - **Bauteile:** `w491926109_innen`
 
@@ -1599,9 +1602,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.51 – Reihenhaus an Via Ghibellina – Teil 1/3 (Y 63–73)
+### Schritt 9.51 – Reihenhaus an Via Ghibellina – Teil 1/3 (Y 62–72)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 62 bis 72
 - **Blöcke:** 1.523
 - **Bauteile:** `w491926110`
 
@@ -1631,9 +1634,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.52 – Reihenhaus an Via Ghibellina – Teil 2/3 (Y 74–88)
+### Schritt 9.52 – Reihenhaus an Via Ghibellina – Teil 2/3 (Y 73–87)
 
-- **Y-Bereich:** 74 bis 88
+- **Y-Bereich:** 73 bis 87
 - **Blöcke:** 1.527
 - **Bauteile:** `w491926110`
 
@@ -1661,9 +1664,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.53 – Reihenhaus an Via Ghibellina – Teil 3/3 (Y 89–97)
+### Schritt 9.53 – Reihenhaus an Via Ghibellina – Teil 3/3 (Y 88–96)
 
-- **Y-Bereich:** 89 bis 97
+- **Y-Bereich:** 88 bis 96
 - **Blöcke:** 1.511
 - **Bauteile:** `w491926110`
 
@@ -1696,7 +1699,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.54 – Reihenhaus an Via Ghibellina: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.673
 - **Bauteile:** `w491926110_innen`
 
@@ -1736,9 +1739,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.55 – Reihenhaus an Via Ghibellina – Teil 1/3 (Y 63–72)
+### Schritt 9.55 – Reihenhaus an Via Ghibellina – Teil 1/3 (Y 62–71)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 62 bis 71
 - **Blöcke:** 1.784
 - **Bauteile:** `w491926133`
 
@@ -1768,9 +1771,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.56 – Reihenhaus an Via Ghibellina – Teil 2/3 (Y 73–86)
+### Schritt 9.56 – Reihenhaus an Via Ghibellina – Teil 2/3 (Y 72–85)
 
-- **Y-Bereich:** 73 bis 86
+- **Y-Bereich:** 72 bis 85
 - **Blöcke:** 1.856
 - **Bauteile:** `w491926133`
 
@@ -1799,9 +1802,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.57 – Reihenhaus an Via Ghibellina – Teil 3/3 (Y 87–98)
+### Schritt 9.57 – Reihenhaus an Via Ghibellina – Teil 3/3 (Y 86–97)
 
-- **Y-Bereich:** 87 bis 98
+- **Y-Bereich:** 86 bis 97
 - **Blöcke:** 1.875
 - **Bauteile:** `w491926133`
 
@@ -1834,7 +1837,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 9.58 – Reihenhaus an Via Ghibellina: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 62 bis 86
 - **Blöcke:** 1.595
 - **Bauteile:** `w491926133_innen`
 
@@ -1874,9 +1877,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.59 – Reihenhaus an Via Ghibellina – Teil 1/4 (Y 63–68)
+### Schritt 9.59 – Reihenhaus an Via Ghibellina – Teil 1/4 (Y 62–67)
 
-- **Y-Bereich:** 63 bis 68
+- **Y-Bereich:** 62 bis 67
 - **Blöcke:** 1.774
 - **Bauteile:** `w491926138`
 
@@ -1906,9 +1909,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.60 – Reihenhaus an Via Ghibellina – Teil 2/4 (Y 69–80)
+### Schritt 9.60 – Reihenhaus an Via Ghibellina – Teil 2/4 (Y 68–79)
 
-- **Y-Bereich:** 69 bis 80
+- **Y-Bereich:** 68 bis 79
 - **Blöcke:** 1.725
 - **Bauteile:** `w491926138`
 
@@ -1937,9 +1940,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.61 – Reihenhaus an Via Ghibellina – Teil 3/4 (Y 81–92)
+### Schritt 9.61 – Reihenhaus an Via Ghibellina – Teil 3/4 (Y 80–91)
 
-- **Y-Bereich:** 81 bis 92
+- **Y-Bereich:** 80 bis 91
 - **Blöcke:** 1.746
 - **Bauteile:** `w491926138`
 
@@ -1968,9 +1971,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.62 – Reihenhaus an Via Ghibellina – Teil 4/4 (Y 93–101)
+### Schritt 9.62 – Reihenhaus an Via Ghibellina – Teil 4/4 (Y 92–100)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.732
 - **Bauteile:** `w491926138`
 
@@ -1998,9 +2001,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 9.63 – Reihenhaus an Via Ghibellina: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 9.63 – Reihenhaus an Via Ghibellina: Innenausbau – Teil 1/2 (Y 62–77)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 62 bis 77
 - **Blöcke:** 1.019
 - **Bauteile:** `w491926138_innen`
 
@@ -2040,11 +2043,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 9.64 – Reihenhaus an Via Ghibellina: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 9.64 – Reihenhaus an Via Ghibellina: Innenausbau – Teil 2/2 (Y 78–86) & Straßenschilder
 
-- **Y-Bereich:** 79 bis 87
-- **Blöcke:** 1.908
-- **Bauteile:** `w491926138_innen`
+- **Y-Bereich:** 69 bis 86
+- **Blöcke:** 1.912
+- **Bauteile:** `w491926138_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -2057,6 +2060,8 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 3 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -2066,16 +2071,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

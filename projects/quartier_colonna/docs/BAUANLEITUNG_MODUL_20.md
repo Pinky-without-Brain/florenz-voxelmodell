@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 11.735 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 69 bis 105 |
 | X-Ausdehnung | 1251 bis 1292 (42 Blöcke) |
 | Z-Ausdehnung | -967 bis -913 (55 Blöcke) |
 | Kleinster Schritt | 1.229 Blöcke (Schritt 20.7) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 20.1 – Haus w113286755 – Teil 1/6 (Y 63–66)
+### Schritt 20.1 – Haus w113286755 – Teil 1/6 (Y 69–72)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 69 bis 72
 - **Blöcke:** 1.678
 - **Bauteile:** `w113286755`
 
@@ -89,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.2 – Haus w113286755 – Teil 2/6 (Y 67–73)
+### Schritt 20.2 – Haus w113286755 – Teil 2/6 (Y 73–79)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.877
 - **Bauteile:** `w113286755`
 
@@ -122,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.3 – Haus w113286755 – Teil 3/6 (Y 74–79)
+### Schritt 20.3 – Haus w113286755 – Teil 3/6 (Y 80–85)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 80 bis 85
 - **Blöcke:** 1.594
 - **Bauteile:** `w113286755`
 
@@ -153,9 +153,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.4 – Haus w113286755 – Teil 4/6 (Y 80–86)
+### Schritt 20.4 – Haus w113286755 – Teil 4/6 (Y 86–92)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 86 bis 92
 - **Blöcke:** 1.903
 - **Bauteile:** `w113286755`
 
@@ -185,9 +185,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.5 – Haus w113286755 – Teil 5/6 (Y 87–92)
+### Schritt 20.5 – Haus w113286755 – Teil 5/6 (Y 93–98)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 93 bis 98
 - **Blöcke:** 1.641
 - **Bauteile:** `w113286755`
 
@@ -217,9 +217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.6 – Haus w113286755 – Teil 6/6 (Y 93–99)
+### Schritt 20.6 – Haus w113286755 – Teil 6/6 (Y 99–105)
 
-- **Y-Bereich:** 93 bis 99
+- **Y-Bereich:** 99 bis 105
 - **Blöcke:** 1.813
 - **Bauteile:** `w113286755`
 
@@ -251,7 +251,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 20.7 – Haus w113286755: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 69 bis 90
 - **Blöcke:** 1.229
 - **Bauteile:** `w113286755_innen`
 

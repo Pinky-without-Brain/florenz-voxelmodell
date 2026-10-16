@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 12.759 |
 | Bauschritte | 8 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 54 bis 91 |
 | X-Ausdehnung | -2719 bis -2676 (44 Blöcke) |
 | Z-Ausdehnung | -1314 bis -1267 (48 Blöcke) |
 | Kleinster Schritt | 853 Blöcke (Schritt 12.7) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 12.1 – Reihenhaus an Via delle Porte Nuove – Teil 1/6 (Y 63–66)
+### Schritt 12.1 – Reihenhaus an Via delle Porte Nuove – Teil 1/6 (Y 54–57)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 54 bis 57
 - **Blöcke:** 1.833
 - **Bauteile:** `w458906114`
 
@@ -79,9 +79,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Reihenhaus an Via delle Porte Nuove – Teil 2/6 (Y 67–72)
+### Schritt 12.2 – Reihenhaus an Via delle Porte Nuove – Teil 2/6 (Y 58–63)
 
-- **Y-Bereich:** 67 bis 72
+- **Y-Bereich:** 58 bis 63
 - **Blöcke:** 1.575
 - **Bauteile:** `w458906114`
 
@@ -110,9 +110,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.3 – Reihenhaus an Via delle Porte Nuove – Teil 3/6 (Y 73–79)
+### Schritt 12.3 – Reihenhaus an Via delle Porte Nuove – Teil 3/6 (Y 64–70)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 64 bis 70
 - **Blöcke:** 1.846
 - **Bauteile:** `w458906114`
 
@@ -140,9 +140,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.4 – Reihenhaus an Via delle Porte Nuove – Teil 4/6 (Y 80–85)
+### Schritt 12.4 – Reihenhaus an Via delle Porte Nuove – Teil 4/6 (Y 71–76)
 
-- **Y-Bereich:** 80 bis 85
+- **Y-Bereich:** 71 bis 76
 - **Blöcke:** 1.578
 - **Bauteile:** `w458906114`
 
@@ -170,9 +170,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.5 – Reihenhaus an Via delle Porte Nuove – Teil 5/6 (Y 86–92)
+### Schritt 12.5 – Reihenhaus an Via delle Porte Nuove – Teil 5/6 (Y 77–83)
 
-- **Y-Bereich:** 86 bis 92
+- **Y-Bereich:** 77 bis 83
 - **Blöcke:** 1.846
 - **Bauteile:** `w458906114`
 
@@ -200,9 +200,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.6 – Reihenhaus an Via delle Porte Nuove – Teil 6/6 (Y 93–100)
+### Schritt 12.6 – Reihenhaus an Via delle Porte Nuove – Teil 6/6 (Y 84–91)
 
-- **Y-Bereich:** 93 bis 100
+- **Y-Bereich:** 84 bis 91
 - **Blöcke:** 1.642
 - **Bauteile:** `w458906114`
 
@@ -230,9 +230,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.7 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 12.7 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 1/2 (Y 54–69)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 54 bis 69
 - **Blöcke:** 853
 - **Bauteile:** `w458906114_innen`
 
@@ -268,9 +268,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 12.8 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 2/2 (Y 79–86)
+### Schritt 12.8 – Reihenhaus an Via delle Porte Nuove: Innenausbau – Teil 2/2 (Y 70–77)
 
-- **Y-Bereich:** 79 bis 86
+- **Y-Bereich:** 70 bis 77
 - **Blöcke:** 1.586
 - **Bauteile:** `w458906114_innen`
 

@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 133.829 |
+| Blöcke | 133.661 |
 | Bauschritte | 76 |
-| Y-Bereich | 62 bis 90 |
+| Y-Bereich | 65 bis 90 |
 | X-Ausdehnung | -1824 bis -1505 (320 Blöcke) |
 | Z-Ausdehnung | 2352 bis 2671 (320 Blöcke) |
 | Kleinster Schritt | 1.108 Blöcke (Schritt 184.72) |
-| Mittlerer Schritt | 1.761 Blöcke |
+| Mittlerer Schritt | 1.759 Blöcke |
 | Größter Schritt | 2.098 Blöcke (Schritt 184.49) |
 
 ## Gesamt-Stückliste
@@ -24,7 +24,7 @@
 | Grasblock | `grass_block` | 72.361 | 54,1 % |
 | Kies | `gravel` | 29.682 | 22,2 % |
 | Wasser | `water` | 22.702 | 17,0 % |
-| Stein | `stone` | 7.478 | 5,6 % |
+| Stein | `stone` | 7.310 | 5,5 % |
 | Polierter Andesit | `polished_andesite` | 1.578 | 1,2 % |
 | Polierter Tuffstein | `polished_tuff` | 28 | 0,0 % |
 
@@ -32,7 +32,7 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 9.056 | 184.1–184.5 |
+| 1 | `boeschung` | Böschung und Mantel | 8.888 | 184.1–184.5 |
 | 2 | `arno_bett` | Flussbett | 11.351 | 184.6–184.11 |
 | 3 | `arno_wasser` | Arno | 22.702 | 184.12–184.23 |
 | 4 | `hof_pflaster` | Höfe | 28 | 184.24 |
@@ -41,10 +41,10 @@
 
 ## Bauschritte
 
-### Schritt 184.1 – Böschung und Mantel – Teil 1/5 (Y 62–66)
+### Schritt 184.1 – Böschung und Mantel – Teil 1/5 (Y 65–66)
 
-- **Y-Bereich:** 62 bis 66
-- **Blöcke:** 2.071
+- **Y-Bereich:** 65 bis 66
+- **Blöcke:** 1.889
 - **Bauteile:** `boeschung`
 
 **Teileliste**
@@ -52,7 +52,7 @@
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Andesit | `polished_andesite` | 1.494 |
-| Stein | `stone` | 577 |
+| Stein | `stone` | 395 |
 
 **Beschreibung**
 
@@ -70,17 +70,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 184.2 – Böschung und Mantel – Teil 2/5 (Y 67–68)
+### Schritt 184.2 – Böschung und Mantel – Teil 2/5 (Y 67–69)
 
-- **Y-Bereich:** 67 bis 68
-- **Blöcke:** 1.392
+- **Y-Bereich:** 67 bis 69
+- **Blöcke:** 1.813
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.308 |
+| Stein | `stone` | 1.729 |
 | Polierter Andesit | `polished_andesite` | 84 |
 
 **Beschreibung**
@@ -99,17 +99,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 184.3 – Böschung und Mantel – Teil 3/5 (Y 69–72)
+### Schritt 184.3 – Böschung und Mantel – Teil 3/5 (Y 70–73)
 
-- **Y-Bereich:** 69 bis 72
-- **Blöcke:** 1.718
+- **Y-Bereich:** 70 bis 73
+- **Blöcke:** 1.797
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.718 |
+| Stein | `stone` | 1.797 |
 
 **Beschreibung**
 
@@ -127,17 +127,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 184.4 – Böschung und Mantel – Teil 4/5 (Y 73–77)
+### Schritt 184.4 – Böschung und Mantel – Teil 4/5 (Y 74–77)
 
-- **Y-Bereich:** 73 bis 77
-- **Blöcke:** 2.046
+- **Y-Bereich:** 74 bis 77
+- **Blöcke:** 1.560
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 2.046 |
+| Stein | `stone` | 1.560 |
 
 **Beschreibung**
 

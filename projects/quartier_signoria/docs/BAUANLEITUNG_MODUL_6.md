@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 70.070 |
-| Bauschritte | 41 |
-| Y-Bereich | 63 bis 108 |
+| Blöcke | 70.077 |
+| Bauschritte | 42 |
+| Y-Bereich | 65 bis 110 |
 | X-Ausdehnung | -522 bis -404 (119 Blöcke) |
 | Z-Ausdehnung | 580 bis 650 (71 Blöcke) |
-| Kleinster Schritt | 1.122 Blöcke (Schritt 6.8) |
-| Mittlerer Schritt | 1.709 Blöcke |
+| Kleinster Schritt | 7 Blöcke (Schritt 6.42) |
+| Mittlerer Schritt | 1.669 Blöcke |
 | Größter Schritt | 2.095 Blöcke (Schritt 6.41) |
 
 ## Gesamt-Stückliste
@@ -47,6 +47,10 @@
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 26 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 7 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -69,12 +73,13 @@
 | 8 | `w462375329_innen` | Palazzo des Cinquecento an Via dei Lamberti: Innenausbau | 2.432 | 6.35–6.36 |
 | 9 | `w462375330` | Palazzo des Cinquecento an Via Porta Rossa | 6.959 | 6.37–6.40 |
 | 10 | `w462375330_innen` | Palazzo des Cinquecento an Via Porta Rossa: Innenausbau | 2.095 | 6.41 |
+| 11 | `strassenschilder` | Straßenschilder | 7 | 6.42 |
 
 ## Bauschritte
 
-### Schritt 6.1 – Reihenhaus an Pellicceria – Teil 1/6 (Y 63–65)
+### Schritt 6.1 – Reihenhaus an Pellicceria – Teil 1/6 (Y 65–67)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.825
 - **Bauteile:** `w114185249`
 
@@ -102,9 +107,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.2 – Reihenhaus an Pellicceria – Teil 2/6 (Y 66–72)
+### Schritt 6.2 – Reihenhaus an Pellicceria – Teil 2/6 (Y 68–74)
 
-- **Y-Bereich:** 66 bis 72
+- **Y-Bereich:** 68 bis 74
 - **Blöcke:** 1.693
 - **Bauteile:** `w114185249`
 
@@ -134,9 +139,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.3 – Reihenhaus an Pellicceria – Teil 3/6 (Y 73–80)
+### Schritt 6.3 – Reihenhaus an Pellicceria – Teil 3/6 (Y 75–82)
 
-- **Y-Bereich:** 73 bis 80
+- **Y-Bereich:** 75 bis 82
 - **Blöcke:** 1.960
 - **Bauteile:** `w114185249`
 
@@ -165,9 +170,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.4 – Reihenhaus an Pellicceria – Teil 4/6 (Y 81–87)
+### Schritt 6.4 – Reihenhaus an Pellicceria – Teil 4/6 (Y 83–89)
 
-- **Y-Bereich:** 81 bis 87
+- **Y-Bereich:** 83 bis 89
 - **Blöcke:** 1.705
 - **Bauteile:** `w114185249`
 
@@ -196,9 +201,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.5 – Reihenhaus an Pellicceria – Teil 5/6 (Y 88–93)
+### Schritt 6.5 – Reihenhaus an Pellicceria – Teil 5/6 (Y 90–95)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 90 bis 95
 - **Blöcke:** 1.644
 - **Bauteile:** `w114185249`
 
@@ -227,9 +232,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.6 – Reihenhaus an Pellicceria – Teil 6/6 (Y 94–102)
+### Schritt 6.6 – Reihenhaus an Pellicceria – Teil 6/6 (Y 96–104)
 
-- **Y-Bereich:** 94 bis 102
+- **Y-Bereich:** 96 bis 104
 - **Blöcke:** 1.923
 - **Bauteile:** `w114185249`
 
@@ -256,9 +261,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.7 – Reihenhaus an Pellicceria: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 6.7 – Reihenhaus an Pellicceria: Innenausbau – Teil 1/3 (Y 65–74)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.131
 - **Bauteile:** `w114185249_innen`
 
@@ -296,9 +301,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.8 – Reihenhaus an Pellicceria: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 6.8 – Reihenhaus an Pellicceria: Innenausbau – Teil 2/3 (Y 75–81)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.122
 - **Bauteile:** `w114185249_innen`
 
@@ -338,9 +343,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.9 – Reihenhaus an Pellicceria: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 6.9 – Reihenhaus an Pellicceria: Innenausbau – Teil 3/3 (Y 82–89)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.131
 - **Bauteile:** `w114185249_innen`
 
@@ -378,9 +383,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.10 – Palazzo des Cinquecento an Via Porta Rossa – Teil 1/5 (Y 63–66)
+### Schritt 6.10 – Palazzo des Cinquecento an Via Porta Rossa – Teil 1/5 (Y 65–68)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 65 bis 68
 - **Blöcke:** 1.805
 - **Bauteile:** `w462375320`
 
@@ -410,9 +415,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.11 – Palazzo des Cinquecento an Via Porta Rossa – Teil 2/5 (Y 67–75)
+### Schritt 6.11 – Palazzo des Cinquecento an Via Porta Rossa – Teil 2/5 (Y 69–77)
 
-- **Y-Bereich:** 67 bis 75
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.819
 - **Bauteile:** `w462375320`
 
@@ -443,9 +448,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.12 – Palazzo des Cinquecento an Via Porta Rossa – Teil 3/5 (Y 76–84)
+### Schritt 6.12 – Palazzo des Cinquecento an Via Porta Rossa – Teil 3/5 (Y 78–86)
 
-- **Y-Bereich:** 76 bis 84
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.782
 - **Bauteile:** `w462375320`
 
@@ -475,9 +480,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.13 – Palazzo des Cinquecento an Via Porta Rossa – Teil 4/5 (Y 85–93)
+### Schritt 6.13 – Palazzo des Cinquecento an Via Porta Rossa – Teil 4/5 (Y 87–95)
 
-- **Y-Bereich:** 85 bis 93
+- **Y-Bereich:** 87 bis 95
 - **Blöcke:** 2.018
 - **Bauteile:** `w462375320`
 
@@ -508,9 +513,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.14 – Palazzo des Cinquecento an Via Porta Rossa – Teil 5/5 (Y 94–100)
+### Schritt 6.14 – Palazzo des Cinquecento an Via Porta Rossa – Teil 5/5 (Y 96–102)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 96 bis 102
 - **Blöcke:** 1.776
 - **Bauteile:** `w462375320`
 
@@ -539,7 +544,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.15 – Palazzo des Cinquecento an Via Porta Rossa: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 65 bis 86
 - **Blöcke:** 2.054
 - **Bauteile:** `w462375320_innen`
 
@@ -583,9 +588,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.16 – Palazzo des Cinquecento an Calimala – Teil 1/11 (Y 63–63)
+### Schritt 6.16 – Palazzo des Cinquecento an Calimala – Teil 1/11 (Y 65–65)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 65 bis 65
 - **Blöcke:** 1.130
 - **Bauteile:** `w462375321`
 
@@ -611,9 +616,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.17 – Palazzo des Cinquecento an Calimala – Teil 2/11 (Y 63–65)
+### Schritt 6.17 – Palazzo des Cinquecento an Calimala – Teil 2/11 (Y 65–67)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.859
 - **Bauteile:** `w462375321`
 
@@ -642,9 +647,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.18 – Palazzo des Cinquecento an Calimala – Teil 3/11 (Y 66–71)
+### Schritt 6.18 – Palazzo des Cinquecento an Calimala – Teil 3/11 (Y 68–73)
 
-- **Y-Bereich:** 66 bis 71
+- **Y-Bereich:** 68 bis 73
 - **Blöcke:** 2.056
 - **Bauteile:** `w462375321`
 
@@ -674,9 +679,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.19 – Palazzo des Cinquecento an Calimala – Teil 4/11 (Y 72–76)
+### Schritt 6.19 – Palazzo des Cinquecento an Calimala – Teil 4/11 (Y 74–78)
 
-- **Y-Bereich:** 72 bis 76
+- **Y-Bereich:** 74 bis 78
 - **Blöcke:** 1.824
 - **Bauteile:** `w462375321`
 
@@ -707,9 +712,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.20 – Palazzo des Cinquecento an Calimala – Teil 5/11 (Y 77–81)
+### Schritt 6.20 – Palazzo des Cinquecento an Calimala – Teil 5/11 (Y 79–83)
 
-- **Y-Bereich:** 77 bis 81
+- **Y-Bereich:** 79 bis 83
 - **Blöcke:** 1.712
 - **Bauteile:** `w462375321`
 
@@ -738,9 +743,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.21 – Palazzo des Cinquecento an Calimala – Teil 6/11 (Y 82–86)
+### Schritt 6.21 – Palazzo des Cinquecento an Calimala – Teil 6/11 (Y 84–88)
 
-- **Y-Bereich:** 82 bis 86
+- **Y-Bereich:** 84 bis 88
 - **Blöcke:** 1.783
 - **Bauteile:** `w462375321`
 
@@ -770,9 +775,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.22 – Palazzo des Cinquecento an Calimala – Teil 7/11 (Y 87–90)
+### Schritt 6.22 – Palazzo des Cinquecento an Calimala – Teil 7/11 (Y 89–92)
 
-- **Y-Bereich:** 87 bis 90
+- **Y-Bereich:** 89 bis 92
 - **Blöcke:** 1.386
 - **Bauteile:** `w462375321`
 
@@ -801,9 +806,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.23 – Palazzo des Cinquecento an Calimala – Teil 8/11 (Y 91–95)
+### Schritt 6.23 – Palazzo des Cinquecento an Calimala – Teil 8/11 (Y 93–97)
 
-- **Y-Bereich:** 91 bis 95
+- **Y-Bereich:** 93 bis 97
 - **Blöcke:** 1.783
 - **Bauteile:** `w462375321`
 
@@ -833,9 +838,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.24 – Palazzo des Cinquecento an Calimala – Teil 9/11 (Y 96–100)
+### Schritt 6.24 – Palazzo des Cinquecento an Calimala – Teil 9/11 (Y 98–102)
 
-- **Y-Bereich:** 96 bis 100
+- **Y-Bereich:** 98 bis 102
 - **Blöcke:** 1.975
 - **Bauteile:** `w462375321`
 
@@ -864,9 +869,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.25 – Palazzo des Cinquecento an Calimala – Teil 10/11 (Y 101–102)
+### Schritt 6.25 – Palazzo des Cinquecento an Calimala – Teil 10/11 (Y 103–104)
 
-- **Y-Bereich:** 101 bis 102
+- **Y-Bereich:** 103 bis 104
 - **Blöcke:** 1.444
 - **Bauteile:** `w462375321`
 
@@ -892,9 +897,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.26 – Palazzo des Cinquecento an Calimala – Teil 11/11 (Y 103–108)
+### Schritt 6.26 – Palazzo des Cinquecento an Calimala – Teil 11/11 (Y 105–110)
 
-- **Y-Bereich:** 103 bis 108
+- **Y-Bereich:** 105 bis 110
 - **Blöcke:** 1.772
 - **Bauteile:** `w462375321`
 
@@ -921,9 +926,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.27 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 1/3 (Y 63–73)
+### Schritt 6.27 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 1/3 (Y 65–75)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.943
 - **Bauteile:** `w462375321_innen`
 
@@ -963,9 +968,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.28 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 2/3 (Y 74–82)
+### Schritt 6.28 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 2/3 (Y 76–84)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 76 bis 84
 - **Blöcke:** 1.934
 - **Bauteile:** `w462375321_innen`
 
@@ -1007,9 +1012,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.29 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 3/3 (Y 83–92)
+### Schritt 6.29 – Palazzo des Cinquecento an Calimala: Innenausbau – Teil 3/3 (Y 85–94)
 
-- **Y-Bereich:** 83 bis 92
+- **Y-Bereich:** 85 bis 94
 - **Blöcke:** 1.943
 - **Bauteile:** `w462375321_innen`
 
@@ -1053,9 +1058,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.30 – Palazzo des Cinquecento an Via dei Lamberti – Teil 1/5 (Y 63–65)
+### Schritt 6.30 – Palazzo des Cinquecento an Via dei Lamberti – Teil 1/5 (Y 65–67)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 65 bis 67
 - **Blöcke:** 1.679
 - **Bauteile:** `w462375329`
 
@@ -1085,9 +1090,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.31 – Palazzo des Cinquecento an Via dei Lamberti – Teil 2/5 (Y 66–75)
+### Schritt 6.31 – Palazzo des Cinquecento an Via dei Lamberti – Teil 2/5 (Y 68–77)
 
-- **Y-Bereich:** 66 bis 75
+- **Y-Bereich:** 68 bis 77
 - **Blöcke:** 1.729
 - **Bauteile:** `w462375329`
 
@@ -1118,9 +1123,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.32 – Palazzo des Cinquecento an Via dei Lamberti – Teil 3/5 (Y 76–85)
+### Schritt 6.32 – Palazzo des Cinquecento an Via dei Lamberti – Teil 3/5 (Y 78–87)
 
-- **Y-Bereich:** 76 bis 85
+- **Y-Bereich:** 78 bis 87
 - **Blöcke:** 1.738
 - **Bauteile:** `w462375329`
 
@@ -1150,9 +1155,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.33 – Palazzo des Cinquecento an Via dei Lamberti – Teil 4/5 (Y 86–93)
+### Schritt 6.33 – Palazzo des Cinquecento an Via dei Lamberti – Teil 4/5 (Y 88–95)
 
-- **Y-Bereich:** 86 bis 93
+- **Y-Bereich:** 88 bis 95
 - **Blöcke:** 1.537
 - **Bauteile:** `w462375329`
 
@@ -1183,9 +1188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.34 – Palazzo des Cinquecento an Via dei Lamberti – Teil 5/5 (Y 94–101)
+### Schritt 6.34 – Palazzo des Cinquecento an Via dei Lamberti – Teil 5/5 (Y 96–103)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 96 bis 103
 - **Blöcke:** 1.969
 - **Bauteile:** `w462375329`
 
@@ -1212,9 +1217,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.35 – Palazzo des Cinquecento an Via dei Lamberti: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 6.35 – Palazzo des Cinquecento an Via dei Lamberti: Innenausbau – Teil 1/2 (Y 65–75)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 65 bis 75
 - **Blöcke:** 1.212
 - **Bauteile:** `w462375329_innen`
 
@@ -1254,9 +1259,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.36 – Palazzo des Cinquecento an Via dei Lamberti: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 6.36 – Palazzo des Cinquecento an Via dei Lamberti: Innenausbau – Teil 2/2 (Y 76–86)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 76 bis 86
 - **Blöcke:** 1.220
 - **Bauteile:** `w462375329_innen`
 
@@ -1298,9 +1303,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 6.37 – Palazzo des Cinquecento an Via Porta Rossa – Teil 1/4 (Y 63–67)
+### Schritt 6.37 – Palazzo des Cinquecento an Via Porta Rossa – Teil 1/4 (Y 65–69)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.682
 - **Bauteile:** `w462375330`
 
@@ -1331,9 +1336,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.38 – Palazzo des Cinquecento an Via Porta Rossa – Teil 2/4 (Y 68–81)
+### Schritt 6.38 – Palazzo des Cinquecento an Via Porta Rossa – Teil 2/4 (Y 70–83)
 
-- **Y-Bereich:** 68 bis 81
+- **Y-Bereich:** 70 bis 83
 - **Blöcke:** 1.833
 - **Bauteile:** `w462375330`
 
@@ -1364,9 +1369,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.39 – Palazzo des Cinquecento an Via Porta Rossa – Teil 3/4 (Y 82–92)
+### Schritt 6.39 – Palazzo des Cinquecento an Via Porta Rossa – Teil 3/4 (Y 84–94)
 
-- **Y-Bereich:** 82 bis 92
+- **Y-Bereich:** 84 bis 94
 - **Blöcke:** 1.573
 - **Bauteile:** `w462375330`
 
@@ -1396,9 +1401,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 6.40 – Palazzo des Cinquecento an Via Porta Rossa – Teil 4/4 (Y 93–101)
+### Schritt 6.40 – Palazzo des Cinquecento an Via Porta Rossa – Teil 4/4 (Y 95–103)
 
-- **Y-Bereich:** 93 bis 101
+- **Y-Bereich:** 95 bis 103
 - **Blöcke:** 1.871
 - **Bauteile:** `w462375330`
 
@@ -1429,7 +1434,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 6.41 – Palazzo des Cinquecento an Via Porta Rossa: Innenausbau
 
-- **Y-Bereich:** 63 bis 84
+- **Y-Bereich:** 65 bis 86
 - **Blöcke:** 2.095
 - **Bauteile:** `w462375330_innen`
 
@@ -1472,3 +1477,34 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 **Fakt**
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+
+### Schritt 6.42 – Straßenschilder
+
+- **Y-Bereich:** 72 bis 73
+- **Blöcke:** 7
+- **Bauteile:** `strassenschilder`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 3 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
+
+**Beschreibung**
+
+An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
+
+**Tipp**
+
+Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
+
+**Achtung**
+
+In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
+
+**Fakt**
+
+In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

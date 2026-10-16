@@ -8,24 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 62.068 |
+| Blöcke | 62.349 |
 | Bauschritte | 43 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 53 bis 98 |
 | X-Ausdehnung | -2711 bis -2558 (154 Blöcke) |
 | Z-Ausdehnung | -234 bis -112 (123 Blöcke) |
 | Kleinster Schritt | 812 Blöcke (Schritt 20.13) |
-| Mittlerer Schritt | 1.443 Blöcke |
+| Mittlerer Schritt | 1.450 Blöcke |
 | Größter Schritt | 2.072 Blöcke (Schritt 20.1) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 17.256 | 27,8 % |
-| Tuffstein | `tuff` | 15.175 | 24,4 % |
-| Polierter Andesit | `polished_andesite` | 10.739 | 17,3 % |
-| Glatter Stein | `smooth_stone` | 8.918 | 14,4 % |
-| Polierter Tuffstein | `polished_tuff` | 5.810 | 9,4 % |
+| Terrakotta | `terracotta` | 17.256 | 27,7 % |
+| Tuffstein | `tuff` | 15.452 | 24,8 % |
+| Polierter Andesit | `polished_andesite` | 10.739 | 17,2 % |
+| Glatter Stein | `smooth_stone` | 8.918 | 14,3 % |
+| Polierter Tuffstein | `polished_tuff` | 5.810 | 9,3 % |
 | Tuffsteinziegel | `tuff_bricks` | 2.044 | 3,3 % |
 | Graues Buntglas | `gray_stained_glass` | 1.558 | 2,5 % |
 | Ziegelsteine | `bricks` | 377 | 0,6 % |
@@ -37,6 +37,7 @@
 | Rote Keramik | `red_terracotta` | 9 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 9 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 5 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
@@ -55,14 +56,15 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `r7057603` | Renaissance-Palazzo an Corso Italia | 37.742 | 20.1–20.27 |
 | 2 | `r7057603_innen` | Renaissance-Palazzo an Corso Italia: Innenausbau | 6.693 | 20.28–20.31 |
-| 3 | `r7057606` | Renaissance-Palazzo an Corso Italia | 14.863 | 20.32–20.41 |
+| 3 | `r7057606` | Renaissance-Palazzo an Corso Italia | 15.140 | 20.32–20.41 |
 | 4 | `r7057606_innen` | Renaissance-Palazzo an Corso Italia: Innenausbau | 2.770 | 20.42–20.43 |
+| 5 | `strassenschilder` | Straßenschilder | 4 | 20.43 |
 
 ## Bauschritte
 
-### Schritt 20.1 – Renaissance-Palazzo an Corso Italia – Teil 1/27 (Y 63–63)
+### Schritt 20.1 – Renaissance-Palazzo an Corso Italia – Teil 1/27 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 2.072
 - **Bauteile:** `r7057603`
 
@@ -88,9 +90,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.2 – Renaissance-Palazzo an Corso Italia – Teil 2/27 (Y 63–63)
+### Schritt 20.2 – Renaissance-Palazzo an Corso Italia – Teil 2/27 (Y 58–58)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 58 bis 58
 - **Blöcke:** 2.067
 - **Bauteile:** `r7057603`
 
@@ -116,9 +118,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.3 – Renaissance-Palazzo an Corso Italia – Teil 3/27 (Y 64–64)
+### Schritt 20.3 – Renaissance-Palazzo an Corso Italia – Teil 3/27 (Y 59–59)
 
-- **Y-Bereich:** 64 bis 64
+- **Y-Bereich:** 59 bis 59
 - **Blöcke:** 862
 - **Bauteile:** `r7057603`
 
@@ -147,9 +149,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.4 – Renaissance-Palazzo an Corso Italia – Teil 4/27 (Y 65–65)
+### Schritt 20.4 – Renaissance-Palazzo an Corso Italia – Teil 4/27 (Y 60–60)
 
-- **Y-Bereich:** 65 bis 65
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 862
 - **Bauteile:** `r7057603`
 
@@ -178,9 +180,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.5 – Renaissance-Palazzo an Corso Italia – Teil 5/27 (Y 66–66)
+### Schritt 20.5 – Renaissance-Palazzo an Corso Italia – Teil 5/27 (Y 61–61)
 
-- **Y-Bereich:** 66 bis 66
+- **Y-Bereich:** 61 bis 61
 - **Blöcke:** 919
 - **Bauteile:** `r7057603`
 
@@ -209,9 +211,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.6 – Renaissance-Palazzo an Corso Italia – Teil 6/27 (Y 67–68)
+### Schritt 20.6 – Renaissance-Palazzo an Corso Italia – Teil 6/27 (Y 62–63)
 
-- **Y-Bereich:** 67 bis 68
+- **Y-Bereich:** 62 bis 63
 - **Blöcke:** 1.622
 - **Bauteile:** `r7057603`
 
@@ -241,9 +243,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.7 – Renaissance-Palazzo an Corso Italia – Teil 7/27 (Y 69–70)
+### Schritt 20.7 – Renaissance-Palazzo an Corso Italia – Teil 7/27 (Y 64–65)
 
-- **Y-Bereich:** 69 bis 70
+- **Y-Bereich:** 64 bis 65
 - **Blöcke:** 1.628
 - **Bauteile:** `r7057603`
 
@@ -273,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.8 – Renaissance-Palazzo an Corso Italia – Teil 8/27 (Y 71–71)
+### Schritt 20.8 – Renaissance-Palazzo an Corso Italia – Teil 8/27 (Y 66–66)
 
-- **Y-Bereich:** 71 bis 71
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 814
 - **Bauteile:** `r7057603`
 
@@ -305,9 +307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.9 – Renaissance-Palazzo an Corso Italia – Teil 9/27 (Y 72–73)
+### Schritt 20.9 – Renaissance-Palazzo an Corso Italia – Teil 9/27 (Y 67–68)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 67 bis 68
 - **Blöcke:** 1.736
 - **Bauteile:** `r7057603`
 
@@ -336,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.10 – Renaissance-Palazzo an Corso Italia – Teil 10/27 (Y 74–74)
+### Schritt 20.10 – Renaissance-Palazzo an Corso Italia – Teil 10/27 (Y 69–69)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.106
 - **Bauteile:** `r7057603`
 
@@ -365,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.11 – Renaissance-Palazzo an Corso Italia – Teil 11/27 (Y 75–76)
+### Schritt 20.11 – Renaissance-Palazzo an Corso Italia – Teil 11/27 (Y 70–71)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.796
 - **Bauteile:** `r7057603`
 
@@ -395,9 +397,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.12 – Renaissance-Palazzo an Corso Italia – Teil 12/27 (Y 77–78)
+### Schritt 20.12 – Renaissance-Palazzo an Corso Italia – Teil 12/27 (Y 72–73)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.624
 - **Bauteile:** `r7057603`
 
@@ -426,9 +428,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.13 – Renaissance-Palazzo an Corso Italia – Teil 13/27 (Y 79–79)
+### Schritt 20.13 – Renaissance-Palazzo an Corso Italia – Teil 13/27 (Y 74–74)
 
-- **Y-Bereich:** 79 bis 79
+- **Y-Bereich:** 74 bis 74
 - **Blöcke:** 812
 - **Bauteile:** `r7057603`
 
@@ -457,9 +459,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.14 – Renaissance-Palazzo an Corso Italia – Teil 14/27 (Y 80–81)
+### Schritt 20.14 – Renaissance-Palazzo an Corso Italia – Teil 14/27 (Y 75–76)
 
-- **Y-Bereich:** 80 bis 81
+- **Y-Bereich:** 75 bis 76
 - **Blöcke:** 1.624
 - **Bauteile:** `r7057603`
 
@@ -488,9 +490,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.15 – Renaissance-Palazzo an Corso Italia – Teil 15/27 (Y 82–83)
+### Schritt 20.15 – Renaissance-Palazzo an Corso Italia – Teil 15/27 (Y 77–78)
 
-- **Y-Bereich:** 82 bis 83
+- **Y-Bereich:** 77 bis 78
 - **Blöcke:** 1.974
 - **Bauteile:** `r7057603`
 
@@ -518,9 +520,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.16 – Renaissance-Palazzo an Corso Italia – Teil 16/27 (Y 84–84)
+### Schritt 20.16 – Renaissance-Palazzo an Corso Italia – Teil 16/27 (Y 79–79)
 
-- **Y-Bereich:** 84 bis 84
+- **Y-Bereich:** 79 bis 79
 - **Blöcke:** 868
 - **Bauteile:** `r7057603`
 
@@ -548,9 +550,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.17 – Renaissance-Palazzo an Corso Italia – Teil 17/27 (Y 85–86)
+### Schritt 20.17 – Renaissance-Palazzo an Corso Italia – Teil 17/27 (Y 80–81)
 
-- **Y-Bereich:** 85 bis 86
+- **Y-Bereich:** 80 bis 81
 - **Blöcke:** 1.740
 - **Bauteile:** `r7057603`
 
@@ -579,9 +581,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.18 – Renaissance-Palazzo an Corso Italia – Teil 18/27 (Y 87–87)
+### Schritt 20.18 – Renaissance-Palazzo an Corso Italia – Teil 18/27 (Y 82–82)
 
-- **Y-Bereich:** 87 bis 87
+- **Y-Bereich:** 82 bis 82
 - **Blöcke:** 812
 - **Bauteile:** `r7057603`
 
@@ -610,9 +612,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.19 – Renaissance-Palazzo an Corso Italia – Teil 19/27 (Y 88–89)
+### Schritt 20.19 – Renaissance-Palazzo an Corso Italia – Teil 19/27 (Y 83–84)
 
-- **Y-Bereich:** 88 bis 89
+- **Y-Bereich:** 83 bis 84
 - **Blöcke:** 1.624
 - **Bauteile:** `r7057603`
 
@@ -641,9 +643,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.20 – Renaissance-Palazzo an Corso Italia – Teil 20/27 (Y 90–91)
+### Schritt 20.20 – Renaissance-Palazzo an Corso Italia – Teil 20/27 (Y 85–86)
 
-- **Y-Bereich:** 90 bis 91
+- **Y-Bereich:** 85 bis 86
 - **Blöcke:** 1.929
 - **Bauteile:** `r7057603`
 
@@ -672,9 +674,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.21 – Renaissance-Palazzo an Corso Italia – Teil 21/27 (Y 92–92)
+### Schritt 20.21 – Renaissance-Palazzo an Corso Italia – Teil 21/27 (Y 87–87)
 
-- **Y-Bereich:** 92 bis 92
+- **Y-Bereich:** 87 bis 87
 - **Blöcke:** 1.426
 - **Bauteile:** `r7057603`
 
@@ -702,9 +704,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.22 – Renaissance-Palazzo an Corso Italia – Teil 22/27 (Y 93–93)
+### Schritt 20.22 – Renaissance-Palazzo an Corso Italia – Teil 22/27 (Y 88–88)
 
-- **Y-Bereich:** 93 bis 93
+- **Y-Bereich:** 88 bis 88
 - **Blöcke:** 1.733
 - **Bauteile:** `r7057603`
 
@@ -732,9 +734,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.23 – Renaissance-Palazzo an Corso Italia – Teil 23/27 (Y 94–94)
+### Schritt 20.23 – Renaissance-Palazzo an Corso Italia – Teil 23/27 (Y 89–89)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.174
 - **Bauteile:** `r7057603`
 
@@ -760,9 +762,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.24 – Renaissance-Palazzo an Corso Italia – Teil 24/27 (Y 94–94)
+### Schritt 20.24 – Renaissance-Palazzo an Corso Italia – Teil 24/27 (Y 89–89)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 89 bis 89
 - **Blöcke:** 1.199
 - **Bauteile:** `r7057603`
 
@@ -788,9 +790,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.25 – Renaissance-Palazzo an Corso Italia – Teil 25/27 (Y 95–95)
+### Schritt 20.25 – Renaissance-Palazzo an Corso Italia – Teil 25/27 (Y 90–90)
 
-- **Y-Bereich:** 95 bis 95
+- **Y-Bereich:** 90 bis 90
 - **Blöcke:** 1.190
 - **Bauteile:** `r7057603`
 
@@ -816,9 +818,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.26 – Renaissance-Palazzo an Corso Italia – Teil 26/27 (Y 96–96)
+### Schritt 20.26 – Renaissance-Palazzo an Corso Italia – Teil 26/27 (Y 91–91)
 
-- **Y-Bereich:** 96 bis 96
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.131
 - **Bauteile:** `r7057603`
 
@@ -844,9 +846,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.27 – Renaissance-Palazzo an Corso Italia – Teil 27/27 (Y 97–103)
+### Schritt 20.27 – Renaissance-Palazzo an Corso Italia – Teil 27/27 (Y 92–98)
 
-- **Y-Bereich:** 97 bis 103
+- **Y-Bereich:** 92 bis 98
 - **Blöcke:** 1.398
 - **Bauteile:** `r7057603`
 
@@ -873,9 +875,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.28 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 1/4 (Y 63–74)
+### Schritt 20.28 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 1/4 (Y 58–69)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 58 bis 69
 - **Blöcke:** 1.716
 - **Bauteile:** `r7057603_innen`
 
@@ -915,9 +917,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.29 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 2/4 (Y 74–74)
+### Schritt 20.29 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 2/4 (Y 69–69)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 69 bis 69
 - **Blöcke:** 1.636
 - **Bauteile:** `r7057603_innen`
 
@@ -951,9 +953,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.30 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 3/4 (Y 75–83)
+### Schritt 20.30 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 3/4 (Y 70–78)
 
-- **Y-Bereich:** 75 bis 83
+- **Y-Bereich:** 70 bis 78
 - **Blöcke:** 1.696
 - **Bauteile:** `r7057603_innen`
 
@@ -995,9 +997,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.31 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 4/4 (Y 83–84)
+### Schritt 20.31 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 4/4 (Y 78–79)
 
-- **Y-Bereich:** 83 bis 84
+- **Y-Bereich:** 78 bis 79
 - **Blöcke:** 1.645
 - **Bauteile:** `r7057603_innen`
 
@@ -1037,10 +1039,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.32 – Renaissance-Palazzo an Corso Italia – Teil 1/10 (Y 63–63)
+### Schritt 20.32 – Renaissance-Palazzo an Corso Italia – Teil 1/10 (Y 53–58)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.671
+- **Y-Bereich:** 53 bis 58
+- **Blöcke:** 1.948
 - **Bauteile:** `r7057606`
 
 **Teileliste**
@@ -1048,6 +1050,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.671 |
+| Tuffstein | `tuff` | 277 |
 
 **Beschreibung**
 
@@ -1065,21 +1068,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.33 – Renaissance-Palazzo an Corso Italia – Teil 2/10 (Y 64–67)
+### Schritt 20.33 – Renaissance-Palazzo an Corso Italia – Teil 2/10 (Y 59–61)
 
-- **Y-Bereich:** 64 bis 67
-- **Blöcke:** 1.341
+- **Y-Bereich:** 59 bis 61
+- **Blöcke:** 1.019
 - **Bauteile:** `r7057606`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 615 |
-| Polierter Andesit | `polished_andesite` | 317 |
-| Tuffsteinziegel | `tuff_bricks` | 249 |
-| Glatter Stein | `smooth_stone` | 144 |
-| Graues Buntglas | `gray_stained_glass` | 16 |
+| Tuffstein | `tuff` | 471 |
+| Polierter Andesit | `polished_andesite` | 249 |
+| Tuffsteinziegel | `tuff_bricks` | 197 |
+| Glatter Stein | `smooth_stone` | 102 |
 
 **Beschreibung**
 
@@ -1097,21 +1099,21 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.34 – Renaissance-Palazzo an Corso Italia – Teil 3/10 (Y 68–71)
+### Schritt 20.34 – Renaissance-Palazzo an Corso Italia – Teil 3/10 (Y 62–66)
 
-- **Y-Bereich:** 68 bis 71
-- **Blöcke:** 1.316
+- **Y-Bereich:** 62 bis 66
+- **Blöcke:** 1.638
 - **Bauteile:** `r7057606`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 588 |
-| Polierter Andesit | `polished_andesite` | 310 |
-| Glatter Stein | `smooth_stone` | 181 |
-| Tuffsteinziegel | `tuff_bricks` | 173 |
-| Graues Buntglas | `gray_stained_glass` | 64 |
+| Tuffstein | `tuff` | 732 |
+| Polierter Andesit | `polished_andesite` | 378 |
+| Tuffsteinziegel | `tuff_bricks` | 225 |
+| Glatter Stein | `smooth_stone` | 223 |
+| Graues Buntglas | `gray_stained_glass` | 80 |
 
 **Beschreibung**
 
@@ -1129,9 +1131,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.35 – Renaissance-Palazzo an Corso Italia – Teil 4/10 (Y 72–75)
+### Schritt 20.35 – Renaissance-Palazzo an Corso Italia – Teil 4/10 (Y 67–70)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 67 bis 70
 - **Blöcke:** 1.448
 - **Bauteile:** `r7057606`
 
@@ -1160,9 +1162,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.36 – Renaissance-Palazzo an Corso Italia – Teil 5/10 (Y 76–80)
+### Schritt 20.36 – Renaissance-Palazzo an Corso Italia – Teil 5/10 (Y 71–75)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 71 bis 75
 - **Blöcke:** 1.669
 - **Bauteile:** `r7057606`
 
@@ -1191,9 +1193,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.37 – Renaissance-Palazzo an Corso Italia – Teil 6/10 (Y 81–84)
+### Schritt 20.37 – Renaissance-Palazzo an Corso Italia – Teil 6/10 (Y 76–79)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.434
 - **Bauteile:** `r7057606`
 
@@ -1222,20 +1224,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.38 – Renaissance-Palazzo an Corso Italia – Teil 7/10 (Y 85–89)
+### Schritt 20.38 – Renaissance-Palazzo an Corso Italia – Teil 7/10 (Y 80–83)
 
-- **Y-Bereich:** 85 bis 89
-- **Blöcke:** 1.669
+- **Y-Bereich:** 80 bis 83
+- **Blöcke:** 1.341
 - **Bauteile:** `r7057606`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 744 |
-| Polierter Andesit | `polished_andesite` | 597 |
-| Glatter Stein | `smooth_stone` | 256 |
-| Graues Buntglas | `gray_stained_glass` | 72 |
+| Tuffstein | `tuff` | 598 |
+| Polierter Andesit | `polished_andesite` | 474 |
+| Glatter Stein | `smooth_stone` | 215 |
+| Graues Buntglas | `gray_stained_glass` | 54 |
 
 **Beschreibung**
 
@@ -1253,20 +1255,20 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.39 – Renaissance-Palazzo an Corso Italia – Teil 8/10 (Y 90–92)
+### Schritt 20.39 – Renaissance-Palazzo an Corso Italia – Teil 8/10 (Y 84–87)
 
-- **Y-Bereich:** 90 bis 92
-- **Blöcke:** 1.294
+- **Y-Bereich:** 84 bis 87
+- **Blöcke:** 1.622
 - **Bauteile:** `r7057606`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 466 |
-| Polierter Andesit | `polished_andesite` | 407 |
-| Glatter Stein | `smooth_stone` | 404 |
-| Graues Buntglas | `gray_stained_glass` | 17 |
+| Tuffstein | `tuff` | 612 |
+| Polierter Andesit | `polished_andesite` | 530 |
+| Glatter Stein | `smooth_stone` | 445 |
+| Graues Buntglas | `gray_stained_glass` | 35 |
 
 **Beschreibung**
 
@@ -1284,9 +1286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.40 – Renaissance-Palazzo an Corso Italia – Teil 9/10 (Y 93–94)
+### Schritt 20.40 – Renaissance-Palazzo an Corso Italia – Teil 9/10 (Y 88–89)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 88 bis 89
 - **Blöcke:** 1.699
 - **Bauteile:** `r7057606`
 
@@ -1315,9 +1317,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.41 – Renaissance-Palazzo an Corso Italia – Teil 10/10 (Y 95–103)
+### Schritt 20.41 – Renaissance-Palazzo an Corso Italia – Teil 10/10 (Y 90–98)
 
-- **Y-Bereich:** 95 bis 103
+- **Y-Bereich:** 90 bis 98
 - **Blöcke:** 1.322
 - **Bauteile:** `r7057606`
 
@@ -1344,9 +1346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 20.42 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 20.42 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 1/2 (Y 58–69)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 58 bis 69
 - **Blöcke:** 1.390
 - **Bauteile:** `r7057606_innen`
 
@@ -1386,11 +1388,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 20.43 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 20.43 – Renaissance-Palazzo an Corso Italia: Innenausbau – Teil 2/2 (Y 70–79) & Straßenschilder
 
-- **Y-Bereich:** 75 bis 84
-- **Blöcke:** 1.380
-- **Bauteile:** `r7057606_innen`
+- **Y-Bereich:** 65 bis 79
+- **Blöcke:** 1.384
+- **Bauteile:** `r7057606_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -1401,6 +1403,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 10 |
 | Seelaterne | `sea_lantern` | 8 |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 8 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 4 |
 | Rote Keramik | `red_terracotta` | 3 |
 | Weiße Keramik | `white_terracotta` | 3 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
@@ -1416,16 +1419,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

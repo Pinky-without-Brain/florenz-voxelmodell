@@ -1,0 +1,14 @@
+{
+  "id": "santo_spirito",
+  "title": "Basilica di Santo Spirito",
+  "type": "wahrzeichen",
+  "gebaeude": ["w24881563"],
+  "bodenY": 64,
+  "rahmen": { "ox": -1399.75, "oz": 1390.75, "thetaDeg": -63.5 },
+  "masken": {
+    "sakristei": { "gebaeude": ["r7101376"], "abzugHaupt": true, "gelaendeBis": "boden" },
+    "campanile": { "gebaeude": ["w482302683"], "abzugHaupt": true, "gelaendeBis": "boden" }
+  },
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

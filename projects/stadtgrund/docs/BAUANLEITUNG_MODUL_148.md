@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 197.278 |
+| Blöcke | 196.889 |
 | Bauschritte | 106 |
 | Y-Bereich | 49 bis 72 |
 | X-Ausdehnung | 1056 bis 1375 (320 Blöcke) |
 | Z-Ausdehnung | 1392 bis 1711 (320 Blöcke) |
 | Kleinster Schritt | 220 Blöcke (Schritt 148.106) |
-| Mittlerer Schritt | 1.861 Blöcke |
+| Mittlerer Schritt | 1.857 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 148.54) |
 
 ## Gesamt-Stückliste
@@ -26,20 +26,20 @@
 | Grasblock | `grass_block` | 32.268 | 16,4 % |
 | Polierter Andesit | `polished_andesite` | 7.941 | 4,0 % |
 | Glatter Stein | `smooth_stone` | 7.534 | 3,8 % |
-| Polierter Tuffstein | `polished_tuff` | 6.002 | 3,0 % |
-| Stein | `stone` | 4.997 | 2,5 % |
+| Polierter Tuffstein | `polished_tuff` | 6.017 | 3,1 % |
+| Stein | `stone` | 4.593 | 2,3 % |
 | Steinziegel | `stone_bricks` | 176 | 0,1 % |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `boeschung` | Böschung und Mantel | 11.629 | 148.1–148.7 |
+| 1 | `boeschung` | Böschung und Mantel | 11.225 | 148.1–148.7 |
 | 2 | `arno_bett` | Flussbett | 46.120 | 148.8–148.30 |
 | 3 | `arno_wasser` | Arno | 92.240 | 148.31–148.75 |
 | 4 | `strassen_pflaster` | Straßenpflaster | 4.755 | 148.76–148.78 |
 | 5 | `gehwege` | Gehwege | 5.489 | 148.79–148.82 |
-| 6 | `hof_pflaster` | Höfe | 1.247 | 148.83 |
+| 6 | `hof_pflaster` | Höfe | 1.262 | 148.83 |
 | 7 | `rasen` | Grün und offenes Gelände | 33.544 | 148.84–148.104 |
 | 8 | `ufer_bruestung` | Brüstung der Lungarni | 2.034 | 148.105 |
 | 9 | `mauern_garten` | Gartenmauern | 220 | 148.106 |
@@ -133,17 +133,17 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 148.4 – Böschung und Mantel – Teil 4/7 (Y 56–61)
+### Schritt 148.4 – Böschung und Mantel – Teil 4/7 (Y 56–60)
 
-- **Y-Bereich:** 56 bis 61
-- **Blöcke:** 1.921
+- **Y-Bereich:** 56 bis 60
+- **Blöcke:** 1.601
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Andesit | `polished_andesite` | 1.921 |
+| Polierter Andesit | `polished_andesite` | 1.601 |
 
 **Beschreibung**
 
@@ -161,18 +161,18 @@ Im Uferband ist die Böschung die Ufermauer (Pietra forte).
 
 Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Boboli und San Miniato an.
 
-### Schritt 148.5 – Böschung und Mantel – Teil 5/7 (Y 62–63)
+### Schritt 148.5 – Böschung und Mantel – Teil 5/7 (Y 61–63)
 
-- **Y-Bereich:** 62 bis 63
-- **Blöcke:** 1.811
+- **Y-Bereich:** 61 bis 63
+- **Blöcke:** 1.564
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.171 |
-| Polierter Andesit | `polished_andesite` | 640 |
+| Polierter Andesit | `polished_andesite` | 960 |
+| Stein | `stone` | 604 |
 
 **Beschreibung**
 
@@ -193,14 +193,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 148.6 – Böschung und Mantel – Teil 6/7 (Y 64–65)
 
 - **Y-Bereich:** 64 bis 65
-- **Blöcke:** 1.597
+- **Blöcke:** 1.679
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 956 |
+| Stein | `stone` | 1.038 |
 | Polierter Andesit | `polished_andesite` | 641 |
 
 **Beschreibung**
@@ -222,14 +222,14 @@ Florenz liegt im Arnotal; nach Süden steigt das Gelände zu den Hügeln von Bob
 ### Schritt 148.7 – Böschung und Mantel – Teil 7/7 (Y 66–67)
 
 - **Y-Bereich:** 66 bis 67
-- **Blöcke:** 1.485
+- **Blöcke:** 1.566
 - **Bauteile:** `boeschung`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Stein | `stone` | 1.004 |
+| Stein | `stone` | 1.085 |
 | Polierter Andesit | `polished_andesite` | 481 |
 
 **Beschreibung**
@@ -2353,14 +2353,14 @@ Pietra serena ist der graue Sandstein der Florentiner Renaissance.
 ### Schritt 148.83 – Höfe
 
 - **Y-Bereich:** 63 bis 67
-- **Blöcke:** 1.247
+- **Blöcke:** 1.262
 - **Bauteile:** `hof_pflaster`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.247 |
+| Polierter Tuffstein | `polished_tuff` | 1.262 |
 
 **Beschreibung**
 

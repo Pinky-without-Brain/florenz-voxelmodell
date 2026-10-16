@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 108.570 |
+| Blöcke | 108.575 |
 | Bauschritte | 68 |
-| Y-Bereich | 63 bis 114 |
+| Y-Bereich | 61 bis 112 |
 | X-Ausdehnung | -39 bis 100 (140 Blöcke) |
 | Z-Ausdehnung | 1018 bis 1203 (186 Blöcke) |
 | Kleinster Schritt | 690 Blöcke (Schritt 5.60) |
@@ -24,10 +24,10 @@
 | Terrakotta | `terracotta` | 31.302 | 28,8 % |
 | Hellgrauer Beton | `light_gray_concrete` | 23.846 | 22,0 % |
 | Polierter Tuffstein | `polished_tuff` | 9.308 | 8,6 % |
-| Weißer Beton | `white_concrete` | 8.823 | 8,1 % |
+| Weißer Beton | `white_concrete` | 8.819 | 8,1 % |
 | Glatter Sandstein | `smooth_sandstone` | 7.496 | 6,9 % |
 | Rosa Keramik | `pink_terracotta` | 6.322 | 5,8 % |
-| Tuffstein | `tuff` | 5.433 | 5,0 % |
+| Tuffstein | `tuff` | 5.434 | 5,0 % |
 | Gelbe Keramik | `yellow_terracotta` | 3.730 | 3,4 % |
 | Glatter Stein | `smooth_stone` | 3.235 | 3,0 % |
 | Polierter Andesit | `polished_andesite` | 2.399 | 2,2 % |
@@ -35,7 +35,7 @@
 | Endsteinziegel | `end_stone_bricks` | 1.260 | 1,2 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 867 | 0,8 % |
 | Ziegelsteine | `bricks` | 505 | 0,5 % |
-| Tuffsteinziegel | `tuff_bricks` | 384 | 0,4 % |
+| Tuffsteinziegel | `tuff_bricks` | 383 | 0,4 % |
 | Fichtenholz-Bretter | `spruce_planks` | 351 | 0,3 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 210 | 0,2 % |
 | Seelaterne | `sea_lantern` | 207 | 0,2 % |
@@ -47,6 +47,10 @@
 | Weiße Keramik | `white_terracotta` | 69 | 0,1 % |
 | Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 56 | 0,1 % |
 | Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 54 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -79,7 +83,7 @@
 | 18 | `w496440064_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 1.456 | 5.39 |
 | 19 | `w496440065` | Reihenhaus an Via dell'Osteria del Guanto | 2.044 | 5.40 |
 | 20 | `w496440065_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 725 | 5.41 |
-| 21 | `w496440066` | Reihenhaus an Via del Castello d'Altafronte | 6.249 | 5.42–5.45 |
+| 21 | `w496440066` | Reihenhaus an Via del Castello d'Altafronte | 6.245 | 5.42–5.45 |
 | 22 | `w496440066_innen` | Reihenhaus an Via del Castello d'Altafronte: Innenausbau | 771 | 5.46 |
 | 23 | `w496440068` | Nebengebäude an Via dell'Osteria del Guanto | 2.165 | 5.47–5.48 |
 | 24 | `w496440068_innen` | Nebengebäude an Via dell'Osteria del Guanto: Innenausbau | 1 | 5.49 |
@@ -95,12 +99,13 @@
 | 34 | `w496440080_innen` | Reihenhaus an Via dell'Osteria del Guanto: Innenausbau | 2.342 | 5.65–5.66 |
 | 35 | `w1091240559` | Palazzo des Cinquecento an Via dell'Osteria del Guanto | 2.632 | 5.67–5.68 |
 | 36 | `w1091240559_innen` | Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau | 2 | 5.68 |
+| 37 | `strassenschilder` | Straßenschilder | 9 | 5.68 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/5 (Y 63–67)
+### Schritt 5.1 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/5 (Y 61–65)
 
-- **Y-Bereich:** 63 bis 67
+- **Y-Bereich:** 61 bis 65
 - **Blöcke:** 1.702
 - **Bauteile:** `r7289822`
 
@@ -130,9 +135,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/5 (Y 68–75)
+### Schritt 5.2 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/5 (Y 66–73)
 
-- **Y-Bereich:** 68 bis 75
+- **Y-Bereich:** 66 bis 73
 - **Blöcke:** 1.794
 - **Bauteile:** `r7289822`
 
@@ -161,9 +166,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/5 (Y 76–83)
+### Schritt 5.3 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/5 (Y 74–81)
 
-- **Y-Bereich:** 76 bis 83
+- **Y-Bereich:** 74 bis 81
 - **Blöcke:** 1.792
 - **Bauteile:** `r7289822`
 
@@ -191,9 +196,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/5 (Y 84–90)
+### Schritt 5.4 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/5 (Y 82–88)
 
-- **Y-Bereich:** 84 bis 90
+- **Y-Bereich:** 82 bis 88
 - **Blöcke:** 1.572
 - **Bauteile:** `r7289822`
 
@@ -221,9 +226,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Reihenhaus an Via dell'Osteria del Guanto – Teil 5/5 (Y 91–99)
+### Schritt 5.5 – Reihenhaus an Via dell'Osteria del Guanto – Teil 5/5 (Y 89–97)
 
-- **Y-Bereich:** 91 bis 99
+- **Y-Bereich:** 89 bis 97
 - **Blöcke:** 1.804
 - **Bauteile:** `r7289822`
 
@@ -254,7 +259,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.6 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.934
 - **Bauteile:** `r7289822_innen`
 
@@ -294,9 +299,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.7 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/3 (Y 63–72)
+### Schritt 5.7 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/3 (Y 61–70)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 61 bis 70
 - **Blöcke:** 1.579
 - **Bauteile:** `w115535243`
 
@@ -324,9 +329,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/3 (Y 73–85)
+### Schritt 5.8 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/3 (Y 71–83)
 
-- **Y-Bereich:** 73 bis 85
+- **Y-Bereich:** 71 bis 83
 - **Blöcke:** 1.676
 - **Bauteile:** `w115535243`
 
@@ -355,9 +360,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/3 (Y 86–97)
+### Schritt 5.9 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/3 (Y 84–95)
 
-- **Y-Bereich:** 86 bis 97
+- **Y-Bereich:** 84 bis 95
 - **Blöcke:** 1.578
 - **Bauteile:** `w115535243`
 
@@ -390,7 +395,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.10 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.017
 - **Bauteile:** `w115535243_innen`
 
@@ -428,9 +433,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.11 – Palazzo Fagni-Da Diacceto – Teil 1/5 (Y 63–71)
+### Schritt 5.11 – Palazzo Fagni-Da Diacceto – Teil 1/5 (Y 61–69)
 
-- **Y-Bereich:** 63 bis 71
+- **Y-Bereich:** 61 bis 69
 - **Blöcke:** 1.966
 - **Bauteile:** `w307129125`
 
@@ -461,9 +466,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Palazzo Fagni-Da Diacceto – Teil 2/5 (Y 72–83)
+### Schritt 5.12 – Palazzo Fagni-Da Diacceto – Teil 2/5 (Y 70–81)
 
-- **Y-Bereich:** 72 bis 83
+- **Y-Bereich:** 70 bis 81
 - **Blöcke:** 1.985
 - **Bauteile:** `w307129125`
 
@@ -493,9 +498,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.13 – Palazzo Fagni-Da Diacceto – Teil 3/5 (Y 84–94)
+### Schritt 5.13 – Palazzo Fagni-Da Diacceto – Teil 3/5 (Y 82–92)
 
-- **Y-Bereich:** 84 bis 94
+- **Y-Bereich:** 82 bis 92
 - **Blöcke:** 1.824
 - **Bauteile:** `w307129125`
 
@@ -524,9 +529,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.14 – Palazzo Fagni-Da Diacceto – Teil 4/5 (Y 95–104)
+### Schritt 5.14 – Palazzo Fagni-Da Diacceto – Teil 4/5 (Y 93–102)
 
-- **Y-Bereich:** 95 bis 104
+- **Y-Bereich:** 93 bis 102
 - **Blöcke:** 1.906
 - **Bauteile:** `w307129125`
 
@@ -555,9 +560,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Palazzo Fagni-Da Diacceto – Teil 5/5 (Y 105–114)
+### Schritt 5.15 – Palazzo Fagni-Da Diacceto – Teil 5/5 (Y 103–112)
 
-- **Y-Bereich:** 105 bis 114
+- **Y-Bereich:** 103 bis 112
 - **Blöcke:** 2.004
 - **Bauteile:** `w307129125`
 
@@ -587,9 +592,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Palazzo Fagni-Da Diacceto: Innenausbau – Teil 1/2 (Y 63–82)
+### Schritt 5.16 – Palazzo Fagni-Da Diacceto: Innenausbau – Teil 1/2 (Y 61–80)
 
-- **Y-Bereich:** 63 bis 82
+- **Y-Bereich:** 61 bis 80
 - **Blöcke:** 1.380
 - **Bauteile:** `w307129125_innen`
 
@@ -625,9 +630,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.17 – Palazzo Fagni-Da Diacceto: Innenausbau – Teil 2/2 (Y 83–99)
+### Schritt 5.17 – Palazzo Fagni-Da Diacceto: Innenausbau – Teil 2/2 (Y 81–97)
 
-- **Y-Bereich:** 83 bis 99
+- **Y-Bereich:** 81 bis 97
 - **Blöcke:** 1.343
 - **Bauteile:** `w307129125_innen`
 
@@ -665,9 +670,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.18 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/2 (Y 63–78)
+### Schritt 5.18 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.392
 - **Bauteile:** `w496440054`
 
@@ -698,9 +703,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.19 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/2 (Y 79–98)
+### Schritt 5.19 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/2 (Y 77–96)
 
-- **Y-Bereich:** 79 bis 98
+- **Y-Bereich:** 77 bis 96
 - **Blöcke:** 1.439
 - **Bauteile:** `w496440054`
 
@@ -731,9 +736,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.20 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau & Reihenhaus an Via del Castello d'Altafronte – Teil 1/2 (Y 63–79)
+### Schritt 5.20 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau & Reihenhaus an Via del Castello d'Altafronte – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 61 bis 77
 - **Blöcke:** 2.030
 - **Bauteile:** `w496440054_innen`, `w496440058`
 
@@ -763,9 +768,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.21 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/2 (Y 80–99)
+### Schritt 5.21 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/2 (Y 78–97)
 
-- **Y-Bereich:** 80 bis 99
+- **Y-Bereich:** 78 bis 97
 - **Blöcke:** 1.978
 - **Bauteile:** `w496440058`
 
@@ -797,7 +802,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.22 – Reihenhaus an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.193
 - **Bauteile:** `w496440058_innen`
 
@@ -835,9 +840,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.23 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/4 (Y 63–73)
+### Schritt 5.23 – Reihenhaus an Via dell'Osteria del Guanto – Teil 1/4 (Y 61–71)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.952
 - **Bauteile:** `w496440059`
 
@@ -868,9 +873,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.24 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/4 (Y 74–86)
+### Schritt 5.24 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/4 (Y 72–84)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 72 bis 84
 - **Blöcke:** 1.858
 - **Bauteile:** `w496440059`
 
@@ -898,9 +903,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.25 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/4 (Y 87–99)
+### Schritt 5.25 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/4 (Y 85–97)
 
-- **Y-Bereich:** 87 bis 99
+- **Y-Bereich:** 85 bis 97
 - **Blöcke:** 1.936
 - **Bauteile:** `w496440059`
 
@@ -928,9 +933,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.26 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/4 (Y 100–113)
+### Schritt 5.26 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/4 (Y 98–111)
 
-- **Y-Bereich:** 100 bis 113
+- **Y-Bereich:** 98 bis 111
 - **Blöcke:** 1.948
 - **Bauteile:** `w496440059`
 
@@ -963,7 +968,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.27 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau
 
-- **Y-Bereich:** 63 bis 99
+- **Y-Bereich:** 61 bis 97
 - **Blöcke:** 1.731
 - **Bauteile:** `w496440059_innen`
 
@@ -1003,9 +1008,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.28 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/3 (Y 63–78)
+### Schritt 5.28 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/3 (Y 61–76)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.806
 - **Bauteile:** `w496440060`
 
@@ -1035,9 +1040,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.29 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/3 (Y 79–97)
+### Schritt 5.29 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/3 (Y 77–95)
 
-- **Y-Bereich:** 79 bis 97
+- **Y-Bereich:** 77 bis 95
 - **Blöcke:** 1.738
 - **Bauteile:** `w496440060`
 
@@ -1065,9 +1070,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.30 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/3 (Y 98–112)
+### Schritt 5.30 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/3 (Y 96–110)
 
-- **Y-Bereich:** 98 bis 112
+- **Y-Bereich:** 96 bis 110
 - **Blöcke:** 1.755
 - **Bauteile:** `w496440060`
 
@@ -1099,7 +1104,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.31 – Reihenhaus an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 99
+- **Y-Bereich:** 61 bis 97
 - **Blöcke:** 1.828
 - **Bauteile:** `w496440060_innen`
 
@@ -1139,9 +1144,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.32 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/3 (Y 63–70)
+### Schritt 5.32 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/3 (Y 62–69)
 
-- **Y-Bereich:** 63 bis 70
+- **Y-Bereich:** 62 bis 69
 - **Blöcke:** 1.871
 - **Bauteile:** `w496440061`
 
@@ -1171,9 +1176,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.33 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/3 (Y 71–81)
+### Schritt 5.33 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/3 (Y 70–80)
 
-- **Y-Bereich:** 71 bis 81
+- **Y-Bereich:** 70 bis 80
 - **Blöcke:** 1.950
 - **Bauteile:** `w496440061`
 
@@ -1201,9 +1206,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.34 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/3 (Y 82–93)
+### Schritt 5.34 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/3 (Y 81–92)
 
-- **Y-Bereich:** 82 bis 93
+- **Y-Bereich:** 81 bis 92
 - **Blöcke:** 1.969
 - **Bauteile:** `w496440061`
 
@@ -1236,7 +1241,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.35 – Reihenhaus an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 62 bis 79
 - **Blöcke:** 1.040
 - **Bauteile:** `w496440061_innen`
 
@@ -1276,19 +1281,19 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.36 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/3 (Y 63–73)
+### Schritt 5.36 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/3 (Y 61–70)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.832
+- **Y-Bereich:** 61 bis 70
+- **Blöcke:** 1.729
 - **Bauteile:** `w496440064`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.149 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.063 |
 | Polierter Tuffstein | `polished_tuff` | 579 |
-| Weißer Beton | `white_concrete` | 54 |
+| Weißer Beton | `white_concrete` | 37 |
 | Polierter Andesit | `polished_andesite` | 20 |
 | Grüner Beton | `green_concrete` | 18 |
 | Graues Buntglas | `gray_stained_glass` | 12 |
@@ -1309,18 +1314,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.37 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/3 (Y 74–87)
+### Schritt 5.37 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/3 (Y 71–85)
 
-- **Y-Bereich:** 74 bis 87
-- **Blöcke:** 1.802
+- **Y-Bereich:** 71 bis 85
+- **Blöcke:** 1.905
 - **Bauteile:** `w496440064`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Hellgrauer Beton | `light_gray_concrete` | 1.534 |
-| Weißer Beton | `white_concrete` | 166 |
+| Hellgrauer Beton | `light_gray_concrete` | 1.620 |
+| Weißer Beton | `white_concrete` | 183 |
 | Graues Buntglas | `gray_stained_glass` | 54 |
 | Grüner Beton | `green_concrete` | 48 |
 
@@ -1340,9 +1345,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.38 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/3 (Y 88–100)
+### Schritt 5.38 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/3 (Y 86–98)
 
-- **Y-Bereich:** 88 bis 100
+- **Y-Bereich:** 86 bis 98
 - **Blöcke:** 1.736
 - **Bauteile:** `w496440064`
 
@@ -1375,7 +1380,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.39 – Reihenhaus an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.456
 - **Bauteile:** `w496440064_innen`
 
@@ -1415,7 +1420,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 5.40 – Reihenhaus an Via dell'Osteria del Guanto
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 61 bis 95
 - **Blöcke:** 2.044
 - **Bauteile:** `w496440065`
 
@@ -1449,7 +1454,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.41 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau
 
-- **Y-Bereich:** 63 bis 86
+- **Y-Bereich:** 61 bis 84
 - **Blöcke:** 725
 - **Bauteile:** `w496440065_innen`
 
@@ -1487,17 +1492,17 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.42 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/4 (Y 63–70)
+### Schritt 5.42 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/4 (Y 61–68)
 
-- **Y-Bereich:** 63 bis 70
-- **Blöcke:** 1.611
+- **Y-Bereich:** 61 bis 68
+- **Blöcke:** 1.607
 - **Bauteile:** `w496440066`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 998 |
+| Weißer Beton | `white_concrete` | 994 |
 | Polierter Tuffstein | `polished_tuff` | 414 |
 | Glatter Stein | `smooth_stone` | 153 |
 | Graues Buntglas | `gray_stained_glass` | 46 |
@@ -1518,9 +1523,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.43 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/4 (Y 71–79)
+### Schritt 5.43 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/4 (Y 69–77)
 
-- **Y-Bereich:** 71 bis 79
+- **Y-Bereich:** 69 bis 77
 - **Blöcke:** 1.565
 - **Bauteile:** `w496440066`
 
@@ -1548,9 +1553,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.44 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/4 (Y 80–88)
+### Schritt 5.44 – Reihenhaus an Via del Castello d'Altafronte – Teil 3/4 (Y 78–86)
 
-- **Y-Bereich:** 80 bis 88
+- **Y-Bereich:** 78 bis 86
 - **Blöcke:** 1.566
 - **Bauteile:** `w496440066`
 
@@ -1578,9 +1583,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.45 – Reihenhaus an Via del Castello d'Altafronte – Teil 4/4 (Y 89–98)
+### Schritt 5.45 – Reihenhaus an Via del Castello d'Altafronte – Teil 4/4 (Y 87–96)
 
-- **Y-Bereich:** 89 bis 98
+- **Y-Bereich:** 87 bis 96
 - **Blöcke:** 1.507
 - **Bauteile:** `w496440066`
 
@@ -1613,7 +1618,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.46 – Reihenhaus an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 771
 - **Bauteile:** `w496440066_innen`
 
@@ -1653,9 +1658,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.47 – Nebengebäude an Via dell'Osteria del Guanto – Teil 1/2 (Y 63–78)
+### Schritt 5.47 – Nebengebäude an Via dell'Osteria del Guanto – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 61 bis 76
 - **Blöcke:** 1.068
 - **Bauteile:** `w496440068`
 
@@ -1682,9 +1687,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.48 – Nebengebäude an Via dell'Osteria del Guanto – Teil 2/2 (Y 79–94)
+### Schritt 5.48 – Nebengebäude an Via dell'Osteria del Guanto – Teil 2/2 (Y 77–92)
 
-- **Y-Bereich:** 79 bis 94
+- **Y-Bereich:** 77 bis 92
 - **Blöcke:** 1.097
 - **Bauteile:** `w496440068`
 
@@ -1711,9 +1716,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.49 – Nebengebäude an Via dell'Osteria del Guanto: Innenausbau & Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 1/4 (Y 63–66)
+### Schritt 5.49 – Nebengebäude an Via dell'Osteria del Guanto: Innenausbau & Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 1/4 (Y 61–64)
 
-- **Y-Bereich:** 63 bis 66
+- **Y-Bereich:** 61 bis 64
 - **Blöcke:** 1.809
 - **Bauteile:** `w496440068_innen`, `w496440069`
 
@@ -1744,9 +1749,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.50 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/4 (Y 67–80)
+### Schritt 5.50 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/4 (Y 65–78)
 
-- **Y-Bereich:** 67 bis 80
+- **Y-Bereich:** 65 bis 78
 - **Blöcke:** 1.694
 - **Bauteile:** `w496440069`
 
@@ -1777,9 +1782,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.51 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 3/4 (Y 81–93)
+### Schritt 5.51 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 3/4 (Y 79–91)
 
-- **Y-Bereich:** 81 bis 93
+- **Y-Bereich:** 79 bis 91
 - **Blöcke:** 1.622
 - **Bauteile:** `w496440069`
 
@@ -1809,9 +1814,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.52 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 4/4 (Y 94–101)
+### Schritt 5.52 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 4/4 (Y 92–99)
 
-- **Y-Bereich:** 94 bis 101
+- **Y-Bereich:** 92 bis 99
 - **Blöcke:** 1.956
 - **Bauteile:** `w496440069`
 
@@ -1838,9 +1843,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.53 – Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 5.53 – Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau – Teil 1/2 (Y 61–71)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 61 bis 71
 - **Blöcke:** 1.386
 - **Bauteile:** `w496440069_innen`
 
@@ -1880,9 +1885,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.54 – Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 5.54 – Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau – Teil 2/2 (Y 72–82)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 72 bis 82
 - **Blöcke:** 1.383
 - **Bauteile:** `w496440069_innen`
 
@@ -1926,7 +1931,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 5.55 – Wohnturm an Via del Castello d'Altafronte
 
-- **Y-Bereich:** 63 bis 111
+- **Y-Bereich:** 61 bis 109
 - **Blöcke:** 1.966
 - **Bauteile:** `w496440071`
 
@@ -1934,11 +1939,11 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Tuffstein | `tuff` | 1.193 |
+| Tuffstein | `tuff` | 1.194 |
 | Terrakotta | `terracotta` | 283 |
 | Polierter Tuffstein | `polished_tuff` | 253 |
 | Glatter Stein | `smooth_stone` | 99 |
-| Tuffsteinziegel | `tuff_bricks` | 98 |
+| Tuffsteinziegel | `tuff_bricks` | 97 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Ziegelsteine | `bricks` | 4 |
 
@@ -1960,7 +1965,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.56 – Wohnturm an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 99
+- **Y-Bereich:** 61 bis 97
 - **Blöcke:** 1.034
 - **Bauteile:** `w496440071_innen`
 
@@ -1998,9 +2003,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.57 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/2 (Y 63–79)
+### Schritt 5.57 – Reihenhaus an Via del Castello d'Altafronte – Teil 1/2 (Y 61–77)
 
-- **Y-Bereich:** 63 bis 79
+- **Y-Bereich:** 61 bis 77
 - **Blöcke:** 1.674
 - **Bauteile:** `w496440073`
 
@@ -2030,9 +2035,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.58 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/2 (Y 80–99)
+### Schritt 5.58 – Reihenhaus an Via del Castello d'Altafronte – Teil 2/2 (Y 78–97)
 
-- **Y-Bereich:** 80 bis 99
+- **Y-Bereich:** 78 bis 97
 - **Blöcke:** 1.732
 - **Bauteile:** `w496440073`
 
@@ -2064,7 +2069,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 5.59 – Reihenhaus an Via del Castello d'Altafronte: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 61 bis 85
 - **Blöcke:** 1.228
 - **Bauteile:** `w496440073_innen`
 
@@ -2104,7 +2109,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 ### Schritt 5.60 – Reihenhaus an Via dell'Osteria del Guanto
 
-- **Y-Bereich:** 63 bis 97
+- **Y-Bereich:** 61 bis 95
 - **Blöcke:** 690
 - **Bauteile:** `w496440078`
 
@@ -2134,10 +2139,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.61 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau & Reihenhaus an Via dell'Osteria del Guanto – Teil 1/4 (Y 63–68)
+### Schritt 5.61 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau & Reihenhaus an Via dell'Osteria del Guanto – Teil 1/4 (Y 61–66)
 
-- **Y-Bereich:** 63 bis 68
-- **Blöcke:** 1.568
+- **Y-Bereich:** 61 bis 66
+- **Blöcke:** 1.594
 - **Bauteile:** `w496440078_innen`, `w496440080`
 
 **Teileliste**
@@ -2145,7 +2150,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 879 |
-| Glatter Sandstein | `smooth_sandstone` | 548 |
+| Glatter Sandstein | `smooth_sandstone` | 574 |
 | Polierter Andesit | `polished_andesite` | 114 |
 | Graues Buntglas | `gray_stained_glass` | 25 |
 | Seelaterne | `sea_lantern` | 2 |
@@ -2166,18 +2171,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.62 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/4 (Y 69–80)
+### Schritt 5.62 – Reihenhaus an Via dell'Osteria del Guanto – Teil 2/4 (Y 67–77)
 
-- **Y-Bereich:** 69 bis 80
-- **Blöcke:** 1.676
+- **Y-Bereich:** 67 bis 77
+- **Blöcke:** 1.524
 - **Bauteile:** `w496440080`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.310 |
-| Polierter Andesit | `polished_andesite` | 268 |
+| Glatter Sandstein | `smooth_sandstone` | 1.206 |
+| Polierter Andesit | `polished_andesite` | 220 |
 | Graues Buntglas | `gray_stained_glass` | 98 |
 
 **Beschreibung**
@@ -2196,18 +2201,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.63 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/4 (Y 81–90)
+### Schritt 5.63 – Reihenhaus an Via dell'Osteria del Guanto – Teil 3/4 (Y 78–88)
 
-- **Y-Bereich:** 81 bis 90
-- **Blöcke:** 1.468
+- **Y-Bereich:** 78 bis 88
+- **Blöcke:** 1.594
 - **Bauteile:** `w496440080`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Glatter Sandstein | `smooth_sandstone` | 1.140 |
-| Polierter Andesit | `polished_andesite` | 208 |
+| Glatter Sandstein | `smooth_sandstone` | 1.218 |
+| Polierter Andesit | `polished_andesite` | 256 |
 | Graues Buntglas | `gray_stained_glass` | 120 |
 
 **Beschreibung**
@@ -2226,9 +2231,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.64 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/4 (Y 91–100)
+### Schritt 5.64 – Reihenhaus an Via dell'Osteria del Guanto – Teil 4/4 (Y 89–98)
 
-- **Y-Bereich:** 91 bis 100
+- **Y-Bereich:** 89 bis 98
 - **Blöcke:** 1.658
 - **Bauteile:** `w496440080`
 
@@ -2258,9 +2263,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.65 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 5.65 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau – Teil 1/2 (Y 61–76)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 61 bis 76
 - **Blöcke:** 824
 - **Bauteile:** `w496440080_innen`
 
@@ -2300,9 +2305,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.66 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau – Teil 2/2 (Y 79–87)
+### Schritt 5.66 – Reihenhaus an Via dell'Osteria del Guanto: Innenausbau – Teil 2/2 (Y 77–85)
 
-- **Y-Bereich:** 79 bis 87
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.518
 - **Bauteile:** `w496440080_innen`
 
@@ -2342,9 +2347,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.67 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 1/2 (Y 63–75)
+### Schritt 5.67 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 1/2 (Y 61–73)
 
-- **Y-Bereich:** 63 bis 75
+- **Y-Bereich:** 61 bis 73
 - **Blöcke:** 1.333
 - **Bauteile:** `w1091240559`
 
@@ -2375,11 +2380,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.68 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/2 (Y 76–88) & Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau
+### Schritt 5.68 – Palazzo des Cinquecento an Via dell'Osteria del Guanto – Teil 2/2 (Y 74–86) & Palazzo des Cinquecento an Via dell'Osteria del Guanto: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 88
-- **Blöcke:** 1.301
-- **Bauteile:** `w1091240559`, `w1091240559_innen`
+- **Y-Bereich:** 61 bis 86
+- **Blöcke:** 1.310
+- **Bauteile:** `w1091240559`, `w1091240559_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -2390,20 +2395,24 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Polierter Andesit | `polished_andesite` | 216 |
 | Graues Buntglas | `gray_stained_glass` | 96 |
 | Glatter Stein | `smooth_stone` | 59 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Seelaterne | `sea_lantern` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
 
 **Beschreibung**
 
-Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Palazzo des Cinquecento (16.–17. Jh.), 3 Geschosse, Putzfarbe Sand. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2). Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach. Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage. Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt. Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

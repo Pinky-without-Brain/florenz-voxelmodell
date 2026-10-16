@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Hof",
+  "subtitle": "Bautüte 2: Hofarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena den Hof; dahinter liegt eine Loggia.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Michelozzos Hof mit seinen Rundbögen gilt als Urbild des Renaissancehofs."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 121, weiß verputzt, mit Gesimsen auf Höhe der Geschossböden.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Fenster frei lassen.",
+      "fact": "Im Hof stand einst Donatellos David."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zum Hof öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Die Riccardi erwarben den Palazzo 1659 und erweiterten ihn."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen Loggia und Sälen steht im Erdgeschoss eine Innenwand mit Türen (bis Y 86).",
+      "tip": "Türen in regelmäßigem Abstand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Im Piano nobile liegt die Kapelle mit dem Zug der Heiligen Drei Könige von Benozzo Gozzoli."
+    }
+  }
+}

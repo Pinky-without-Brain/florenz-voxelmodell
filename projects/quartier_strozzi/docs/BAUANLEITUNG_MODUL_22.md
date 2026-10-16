@@ -8,9 +8,9 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 23.206 |
+| Blöcke | 23.209 |
 | Bauschritte | 12 |
-| Y-Bereich | 63 bis 109 |
+| Y-Bereich | 66 bis 112 |
 | X-Ausdehnung | -388 bis -338 (51 Blöcke) |
 | Z-Ausdehnung | 512 bis 569 (58 Blöcke) |
 | Kleinster Schritt | 1.683 Blöcke (Schritt 22.11) |
@@ -21,7 +21,7 @@
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Weißer Beton | `white_concrete` | 8.830 | 38,1 % |
+| Weißer Beton | `white_concrete` | 8.830 | 38,0 % |
 | Terrakotta | `terracotta` | 7.643 | 32,9 % |
 | Polierter Tuffstein | `polished_tuff` | 1.990 | 8,6 % |
 | Hellgrauer Beton | `light_gray_concrete` | 1.816 | 7,8 % |
@@ -39,6 +39,8 @@
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 4 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
@@ -55,12 +57,13 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w95537272` | Palazzo dell'Arte della Lana | 18.140 | 22.1–22.9 |
 | 2 | `w95537272_innen` | Palazzo dell'Arte della Lana: Innenausbau | 5.066 | 22.10–22.12 |
+| 3 | `strassenschilder` | Straßenschilder | 3 | 22.12 |
 
 ## Bauschritte
 
-### Schritt 22.1 – Palazzo dell'Arte della Lana – Teil 1/9 (Y 63–63)
+### Schritt 22.1 – Palazzo dell'Arte della Lana – Teil 1/9 (Y 66–66)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 66 bis 66
 - **Blöcke:** 1.990
 - **Bauteile:** `w95537272`
 
@@ -86,9 +89,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.2 – Palazzo dell'Arte della Lana – Teil 2/9 (Y 64–69)
+### Schritt 22.2 – Palazzo dell'Arte della Lana – Teil 2/9 (Y 67–72)
 
-- **Y-Bereich:** 64 bis 69
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 2.070
 - **Bauteile:** `w95537272`
 
@@ -119,9 +122,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.3 – Palazzo dell'Arte della Lana – Teil 3/9 (Y 70–74)
+### Schritt 22.3 – Palazzo dell'Arte della Lana – Teil 3/9 (Y 73–77)
 
-- **Y-Bereich:** 70 bis 74
+- **Y-Bereich:** 73 bis 77
 - **Blöcke:** 1.743
 - **Bauteile:** `w95537272`
 
@@ -153,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.4 – Palazzo dell'Arte della Lana – Teil 4/9 (Y 75–80)
+### Schritt 22.4 – Palazzo dell'Arte della Lana – Teil 4/9 (Y 78–83)
 
-- **Y-Bereich:** 75 bis 80
+- **Y-Bereich:** 78 bis 83
 - **Blöcke:** 2.004
 - **Bauteile:** `w95537272`
 
@@ -185,9 +188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.5 – Palazzo dell'Arte della Lana – Teil 5/9 (Y 81–86)
+### Schritt 22.5 – Palazzo dell'Arte della Lana – Teil 5/9 (Y 84–89)
 
-- **Y-Bereich:** 81 bis 86
+- **Y-Bereich:** 84 bis 89
 - **Blöcke:** 2.082
 - **Bauteile:** `w95537272`
 
@@ -218,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.6 – Palazzo dell'Arte della Lana – Teil 6/9 (Y 87–92)
+### Schritt 22.6 – Palazzo dell'Arte della Lana – Teil 6/9 (Y 90–95)
 
-- **Y-Bereich:** 87 bis 92
+- **Y-Bereich:** 90 bis 95
 - **Blöcke:** 2.082
 - **Bauteile:** `w95537272`
 
@@ -251,9 +254,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.7 – Palazzo dell'Arte della Lana – Teil 7/9 (Y 93–98)
+### Schritt 22.7 – Palazzo dell'Arte della Lana – Teil 7/9 (Y 96–101)
 
-- **Y-Bereich:** 93 bis 98
+- **Y-Bereich:** 96 bis 101
 - **Blöcke:** 2.043
 - **Bauteile:** `w95537272`
 
@@ -283,9 +286,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.8 – Palazzo dell'Arte della Lana – Teil 8/9 (Y 99–101)
+### Schritt 22.8 – Palazzo dell'Arte della Lana – Teil 8/9 (Y 102–104)
 
-- **Y-Bereich:** 99 bis 101
+- **Y-Bereich:** 102 bis 104
 - **Blöcke:** 2.039
 - **Bauteile:** `w95537272`
 
@@ -315,9 +318,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.9 – Palazzo dell'Arte della Lana – Teil 9/9 (Y 102–109)
+### Schritt 22.9 – Palazzo dell'Arte della Lana – Teil 9/9 (Y 105–112)
 
-- **Y-Bereich:** 102 bis 109
+- **Y-Bereich:** 105 bis 112
 - **Blöcke:** 2.087
 - **Bauteile:** `w95537272`
 
@@ -344,9 +347,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 22.10 – Palazzo dell'Arte della Lana: Innenausbau – Teil 1/3 (Y 63–73)
+### Schritt 22.10 – Palazzo dell'Arte della Lana: Innenausbau – Teil 1/3 (Y 66–76)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 66 bis 76
 - **Blöcke:** 1.691
 - **Bauteile:** `w95537272_innen`
 
@@ -386,9 +389,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.11 – Palazzo dell'Arte della Lana: Innenausbau – Teil 2/3 (Y 74–82)
+### Schritt 22.11 – Palazzo dell'Arte della Lana: Innenausbau – Teil 2/3 (Y 77–85)
 
-- **Y-Bereich:** 74 bis 82
+- **Y-Bereich:** 77 bis 85
 - **Blöcke:** 1.683
 - **Bauteile:** `w95537272_innen`
 
@@ -430,11 +433,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 22.12 – Palazzo dell'Arte della Lana: Innenausbau – Teil 3/3 (Y 83–92)
+### Schritt 22.12 – Palazzo dell'Arte della Lana: Innenausbau – Teil 3/3 (Y 86–95) & Straßenschilder
 
-- **Y-Bereich:** 83 bis 92
-- **Blöcke:** 1.692
-- **Bauteile:** `w95537272_innen`
+- **Y-Bereich:** 73 bis 95
+- **Blöcke:** 1.695
+- **Bauteile:** `w95537272_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -447,7 +450,9 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 8 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 1 |
@@ -462,16 +467,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

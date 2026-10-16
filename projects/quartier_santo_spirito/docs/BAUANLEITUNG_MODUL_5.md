@@ -8,12 +8,12 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 25.163 |
+| Blöcke | 25.168 |
 | Bauschritte | 16 |
-| Y-Bereich | 63 bis 103 |
+| Y-Bereich | 60 bis 100 |
 | X-Ausdehnung | -990 bis -937 (54 Blöcke) |
 | Z-Ausdehnung | 1170 bis 1253 (84 Blöcke) |
-| Kleinster Schritt | 732 Blöcke (Schritt 5.16) |
+| Kleinster Schritt | 737 Blöcke (Schritt 5.16) |
 | Mittlerer Schritt | 1.573 Blöcke |
 | Größter Schritt | 1.948 Blöcke (Schritt 5.11) |
 
@@ -40,6 +40,10 @@
 | Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 18 | 0,1 % |
 | Rote Keramik | `red_terracotta` | 15 | 0,1 % |
 | Weiße Keramik | `white_terracotta` | 15 | 0,1 % |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 | 0,0 % |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 | 0,0 % |
 
@@ -58,12 +62,13 @@
 | 2 | `r1629425_innen` | Palazzo des Ottocento an Via dei Sapiti: Innenausbau | 3.562 | 5.12–5.13 |
 | 3 | `w306818331` | Torre dei Marsili | 2.554 | 5.14–5.15 |
 | 4 | `w306818331_innen` | Torre dei Marsili: Innenausbau | 732 | 5.16 |
+| 5 | `strassenschilder` | Straßenschilder | 5 | 5.16 |
 
 ## Bauschritte
 
-### Schritt 5.1 – Palazzo des Ottocento an Via dei Sapiti – Teil 1/11 (Y 63–63)
+### Schritt 5.1 – Palazzo des Ottocento an Via dei Sapiti – Teil 1/11 (Y 60–60)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 60 bis 60
 - **Blöcke:** 1.089
 - **Bauteile:** `r1629425`
 
@@ -89,9 +94,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.2 – Palazzo des Ottocento an Via dei Sapiti – Teil 2/11 (Y 63–65)
+### Schritt 5.2 – Palazzo des Ottocento an Via dei Sapiti – Teil 2/11 (Y 60–62)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 60 bis 62
 - **Blöcke:** 1.878
 - **Bauteile:** `r1629425`
 
@@ -121,9 +126,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.3 – Palazzo des Ottocento an Via dei Sapiti – Teil 3/11 (Y 66–70)
+### Schritt 5.3 – Palazzo des Ottocento an Via dei Sapiti – Teil 3/11 (Y 63–67)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 63 bis 67
 - **Blöcke:** 1.925
 - **Bauteile:** `r1629425`
 
@@ -153,9 +158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.4 – Palazzo des Ottocento an Via dei Sapiti – Teil 4/11 (Y 71–74)
+### Schritt 5.4 – Palazzo des Ottocento an Via dei Sapiti – Teil 4/11 (Y 68–71)
 
-- **Y-Bereich:** 71 bis 74
+- **Y-Bereich:** 68 bis 71
 - **Blöcke:** 1.747
 - **Bauteile:** `r1629425`
 
@@ -185,9 +190,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.5 – Palazzo des Ottocento an Via dei Sapiti – Teil 5/11 (Y 75–78)
+### Schritt 5.5 – Palazzo des Ottocento an Via dei Sapiti – Teil 5/11 (Y 72–75)
 
-- **Y-Bereich:** 75 bis 78
+- **Y-Bereich:** 72 bis 75
 - **Blöcke:** 1.712
 - **Bauteile:** `r1629425`
 
@@ -216,9 +221,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.6 – Palazzo des Ottocento an Via dei Sapiti – Teil 6/11 (Y 79–82)
+### Schritt 5.6 – Palazzo des Ottocento an Via dei Sapiti – Teil 6/11 (Y 76–79)
 
-- **Y-Bereich:** 79 bis 82
+- **Y-Bereich:** 76 bis 79
 - **Blöcke:** 1.712
 - **Bauteile:** `r1629425`
 
@@ -247,9 +252,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.7 – Palazzo des Ottocento an Via dei Sapiti – Teil 7/11 (Y 83–86)
+### Schritt 5.7 – Palazzo des Ottocento an Via dei Sapiti – Teil 7/11 (Y 80–83)
 
-- **Y-Bereich:** 83 bis 86
+- **Y-Bereich:** 80 bis 83
 - **Blöcke:** 1.758
 - **Bauteile:** `r1629425`
 
@@ -279,9 +284,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.8 – Palazzo des Ottocento an Via dei Sapiti – Teil 8/11 (Y 87–90)
+### Schritt 5.8 – Palazzo des Ottocento an Via dei Sapiti – Teil 8/11 (Y 84–87)
 
-- **Y-Bereich:** 87 bis 90
+- **Y-Bereich:** 84 bis 87
 - **Blöcke:** 1.620
 - **Bauteile:** `r1629425`
 
@@ -310,9 +315,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.9 – Palazzo des Ottocento an Via dei Sapiti – Teil 9/11 (Y 91–93)
+### Schritt 5.9 – Palazzo des Ottocento an Via dei Sapiti – Teil 9/11 (Y 88–90)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 88 bis 90
 - **Blöcke:** 1.798
 - **Bauteile:** `r1629425`
 
@@ -341,9 +346,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.10 – Palazzo des Ottocento an Via dei Sapiti – Teil 10/11 (Y 94–94)
+### Schritt 5.10 – Palazzo des Ottocento an Via dei Sapiti – Teil 10/11 (Y 91–91)
 
-- **Y-Bereich:** 94 bis 94
+- **Y-Bereich:** 91 bis 91
 - **Blöcke:** 1.128
 - **Bauteile:** `r1629425`
 
@@ -369,9 +374,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.11 – Palazzo des Ottocento an Via dei Sapiti – Teil 11/11 (Y 95–103)
+### Schritt 5.11 – Palazzo des Ottocento an Via dei Sapiti – Teil 11/11 (Y 92–100)
 
-- **Y-Bereich:** 95 bis 103
+- **Y-Bereich:** 92 bis 100
 - **Blöcke:** 1.948
 - **Bauteile:** `r1629425`
 
@@ -398,9 +403,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.12 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 1/2 (Y 63–74)
+### Schritt 5.12 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 1/2 (Y 60–71)
 
-- **Y-Bereich:** 63 bis 74
+- **Y-Bereich:** 60 bis 71
 - **Blöcke:** 1.786
 - **Bauteile:** `r1629425_innen`
 
@@ -440,9 +445,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.13 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 2/2 (Y 75–84)
+### Schritt 5.13 – Palazzo des Ottocento an Via dei Sapiti: Innenausbau – Teil 2/2 (Y 72–81)
 
-- **Y-Bereich:** 75 bis 84
+- **Y-Bereich:** 72 bis 81
 - **Blöcke:** 1.776
 - **Bauteile:** `r1629425_innen`
 
@@ -484,9 +489,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 5.14 – Torre dei Marsili – Teil 1/2 (Y 63–80)
+### Schritt 5.14 – Torre dei Marsili – Teil 1/2 (Y 60–77)
 
-- **Y-Bereich:** 63 bis 80
+- **Y-Bereich:** 60 bis 77
 - **Blöcke:** 1.281
 - **Bauteile:** `w306818331`
 
@@ -516,9 +521,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.15 – Torre dei Marsili – Teil 2/2 (Y 81–98)
+### Schritt 5.15 – Torre dei Marsili – Teil 2/2 (Y 78–95)
 
-- **Y-Bereich:** 81 bis 98
+- **Y-Bereich:** 78 bis 95
 - **Blöcke:** 1.273
 - **Bauteile:** `w306818331`
 
@@ -550,11 +555,11 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 5.16 – Torre dei Marsili: Innenausbau
+### Schritt 5.16 – Torre dei Marsili: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 732
-- **Bauteile:** `w306818331_innen`
+- **Y-Bereich:** 60 bis 84
+- **Blöcke:** 737
+- **Bauteile:** `w306818331_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -567,6 +572,10 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Rote Keramik | `red_terracotta` | 9 |
 | Weiße Keramik | `white_terracotta` | 9 |
 | Seelaterne | `sea_lantern` | 4 |
+| Straßenschild, Schrift nach Osten | `birch_wall_sign@o` | 2 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 1 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 1 |
+| Straßenschild, Schrift nach Westen | `birch_wall_sign@w` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 1 |
 
@@ -578,16 +587,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Holz bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

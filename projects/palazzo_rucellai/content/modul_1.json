@@ -1,0 +1,29 @@
+{
+  "module": 1,
+  "title": "Fassaden",
+  "subtitle": "Bautüte 1: Außenwände, Fenster und Kranzgesims",
+  "icon": "🏛️",
+  "parts": {
+    "aussenwand": {
+      "title": "Außenwände",
+      "description": "Die Außenwand umläuft den ganzen Block bis Y 112: zur Via della Vigna Nuova Albertis Fassade aus flachen Quadern mit eingeritzten Fugen, sieben Achsen, getrennt durch Pilaster aus Pietra serena, unten eine Sitzbank; die übrigen Seiten sind ockerfarben verputzt. Gesimse aus Pietra serena trennen die Geschosse (Y 80, 97). Zwei Portale in der zweiten und sechsten Achse führen hinein.",
+      "tip": "Zwei Blöcke dick: außen Stein, innen Putz.",
+      "caution": "Lass die Portale frei.",
+      "fact": "Leon Battista Alberti entwarf die Fassade um 1446–51, Bernardo Rossellino führte sie aus."
+    },
+    "fenster": {
+      "title": "Fenster",
+      "description": "Im Erdgeschoss kleine Fenster hoch über der Straße (Y 70 bis 74), darüber in jeder Achse eine Bifora mit Mittelsäule (Y 83 bis 93 und Y 100 bis 109).",
+      "tip": "Die Fenster folgen einem festen Raster entlang jeder Wand.",
+      "caution": "Glas in die ganze Wandtiefe setzen.",
+      "fact": "Die drei Pilasterordnungen (dorisch, ionisch, korinthisch) übertrug Alberti vom Kolosseum auf ein Wohnhaus."
+    },
+    "kranzgesims": {
+      "title": "Kranzgesims",
+      "description": "Oben schließt das Kranzgesims aus Pietra serena die Fassade ab (Y 111 bis 112).",
+      "tip": "Zwei Lagen auf der ganzen Länge.",
+      "caution": "Es gehört zur Außenwand, nicht zum Dach.",
+      "fact": "Im Fries über dem Erdgeschoss erscheinen die Segel, das Wappenzeichen der Rucellai."
+    }
+  }
+}

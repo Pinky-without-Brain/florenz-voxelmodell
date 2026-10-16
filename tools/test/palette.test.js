@@ -40,13 +40,15 @@ test('Wasser ist transparent markiert', () => {
 
 const P = require('../spec/palette');
 
-test('Treppen: 20 Materialien x 4 Richtungen x (normal, oben) am Ende der Palette, ROLES unverändert', () => {
+test('Treppen: 20 Materialien x 4 Richtungen x (normal, oben) am Ende der Palette, danach 4 Straßenschilder', () => {
   assert.equal(P.STAIR_BASES.length, 20);
   const stairs = TYPES.filter(P.isTreppe);
   assert.equal(stairs.length, 20 * 8);
-  assert.deepEqual(TYPES.slice(TYPES.length - stairs.length), stairs, 'Treppen nur angehängt');
-  assert.equal(TYPES.length, 53 + 160);
-  assert.equal(ROLES.length, 40);
+  assert.deepEqual(TYPES.slice(TYPES.length - stairs.length - 4, TYPES.length - 4), stairs, 'Treppen nur angehängt');
+  assert.deepEqual(TYPES.slice(-4), ['n', 'o', 's', 'w'].map(P.schild));
+  assert.equal(TYPES.length, 53 + 160 + 4);
+  assert.equal(ROLES.length, 41);
+  assert.ok(ROLES.includes('schild'));
   assert.ok(!ROLES.includes('treppe'));
 });
 

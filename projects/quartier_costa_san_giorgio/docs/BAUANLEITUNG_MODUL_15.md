@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 17.024 |
 | Bauschritte | 12 |
-| Y-Bereich | 63 bis 101 |
+| Y-Bereich | 161 bis 199 |
 | X-Ausdehnung | -313 bis -250 (64 Blöcke) |
 | Z-Ausdehnung | 1978 bis 2022 (45 Blöcke) |
 | Kleinster Schritt | 1.130 Blöcke (Schritt 15.11) |
@@ -56,9 +56,9 @@
 
 ## Bauschritte
 
-### Schritt 15.1 – Palazzo des Cinquecento an Vicolo della Cava – Teil 1/10 (Y 63–63)
+### Schritt 15.1 – Palazzo des Cinquecento an Vicolo della Cava – Teil 1/10 (Y 161–161)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 161 bis 161
 - **Blöcke:** 1.457
 - **Bauteile:** `w119220028`
 
@@ -84,9 +84,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.2 – Palazzo des Cinquecento an Vicolo della Cava – Teil 2/10 (Y 64–67)
+### Schritt 15.2 – Palazzo des Cinquecento an Vicolo della Cava – Teil 2/10 (Y 162–165)
 
-- **Y-Bereich:** 64 bis 67
+- **Y-Bereich:** 162 bis 165
 - **Blöcke:** 1.438
 - **Bauteile:** `w119220028`
 
@@ -117,9 +117,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.3 – Palazzo des Cinquecento an Vicolo della Cava – Teil 3/10 (Y 68–71)
+### Schritt 15.3 – Palazzo des Cinquecento an Vicolo della Cava – Teil 3/10 (Y 166–169)
 
-- **Y-Bereich:** 68 bis 71
+- **Y-Bereich:** 166 bis 169
 - **Blöcke:** 1.366
 - **Bauteile:** `w119220028`
 
@@ -150,9 +150,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.4 – Palazzo des Cinquecento an Vicolo della Cava – Teil 4/10 (Y 72–75)
+### Schritt 15.4 – Palazzo des Cinquecento an Vicolo della Cava – Teil 4/10 (Y 170–173)
 
-- **Y-Bereich:** 72 bis 75
+- **Y-Bereich:** 170 bis 173
 - **Blöcke:** 1.516
 - **Bauteile:** `w119220028`
 
@@ -182,9 +182,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.5 – Palazzo des Cinquecento an Vicolo della Cava – Teil 5/10 (Y 76–80)
+### Schritt 15.5 – Palazzo des Cinquecento an Vicolo della Cava – Teil 5/10 (Y 174–178)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 174 bis 178
 - **Blöcke:** 1.665
 - **Bauteile:** `w119220028`
 
@@ -213,9 +213,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.6 – Palazzo des Cinquecento an Vicolo della Cava – Teil 6/10 (Y 81–84)
+### Schritt 15.6 – Palazzo des Cinquecento an Vicolo della Cava – Teil 6/10 (Y 179–182)
 
-- **Y-Bereich:** 81 bis 84
+- **Y-Bereich:** 179 bis 182
 - **Blöcke:** 1.516
 - **Bauteile:** `w119220028`
 
@@ -244,9 +244,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.7 – Palazzo des Cinquecento an Vicolo della Cava – Teil 7/10 (Y 85–88)
+### Schritt 15.7 – Palazzo des Cinquecento an Vicolo della Cava – Teil 7/10 (Y 183–186)
 
-- **Y-Bereich:** 85 bis 88
+- **Y-Bereich:** 183 bis 186
 - **Blöcke:** 1.378
 - **Bauteile:** `w119220028`
 
@@ -275,9 +275,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.8 – Palazzo des Cinquecento an Vicolo della Cava – Teil 8/10 (Y 89–92)
+### Schritt 15.8 – Palazzo des Cinquecento an Vicolo della Cava – Teil 8/10 (Y 187–190)
 
-- **Y-Bereich:** 89 bis 92
+- **Y-Bereich:** 187 bis 190
 - **Blöcke:** 1.488
 - **Bauteile:** `w119220028`
 
@@ -307,9 +307,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.9 – Palazzo des Cinquecento an Vicolo della Cava – Teil 9/10 (Y 93–94)
+### Schritt 15.9 – Palazzo des Cinquecento an Vicolo della Cava – Teil 9/10 (Y 191–192)
 
-- **Y-Bereich:** 93 bis 94
+- **Y-Bereich:** 191 bis 192
 - **Blöcke:** 1.688
 - **Bauteile:** `w119220028`
 
@@ -338,9 +338,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.10 – Palazzo des Cinquecento an Vicolo della Cava – Teil 10/10 (Y 95–101)
+### Schritt 15.10 – Palazzo des Cinquecento an Vicolo della Cava – Teil 10/10 (Y 193–199)
 
-- **Y-Bereich:** 95 bis 101
+- **Y-Bereich:** 193 bis 199
 - **Blöcke:** 1.244
 - **Bauteile:** `w119220028`
 
@@ -367,9 +367,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 15.11 – Palazzo des Cinquecento an Vicolo della Cava: Innenausbau – Teil 1/2 (Y 63–73)
+### Schritt 15.11 – Palazzo des Cinquecento an Vicolo della Cava: Innenausbau – Teil 1/2 (Y 161–171)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 161 bis 171
 - **Blöcke:** 1.130
 - **Bauteile:** `w119220028_innen`
 
@@ -405,9 +405,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 15.12 – Palazzo des Cinquecento an Vicolo della Cava: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 15.12 – Palazzo des Cinquecento an Vicolo della Cava: Innenausbau – Teil 2/2 (Y 172–182)
 
-- **Y-Bereich:** 74 bis 84
+- **Y-Bereich:** 172 bis 182
 - **Blöcke:** 1.138
 - **Bauteile:** `w119220028_innen`
 

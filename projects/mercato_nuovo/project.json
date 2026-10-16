@@ -1,0 +1,11 @@
+{
+  "id": "mercato_nuovo",
+  "title": "Loggia del Mercato Nuovo",
+  "type": "wahrzeichen",
+  "gebaeude": ["w27590454"],
+  "bodenY": 65,
+  "rahmen": { "ox": -442, "oz": 666, "thetaDeg": 2.5 },
+  "masken": {},
+  "luftraum": 2,
+  "begehbarkeit": "pflicht"
+}

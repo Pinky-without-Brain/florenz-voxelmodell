@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 7.114 |
 | Bauschritte | 4 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 60 bis 94 |
 | X-Ausdehnung | -2472 bis -2451 (22 Blöcke) |
 | Z-Ausdehnung | 2002 bis 2036 (35 Blöcke) |
 | Kleinster Schritt | 935 Blöcke (Schritt 44.4) |
@@ -52,9 +52,9 @@
 
 ## Bauschritte
 
-### Schritt 44.1 – Reihenhaus an Via Gusciana – Teil 1/3 (Y 63–73)
+### Schritt 44.1 – Reihenhaus an Via Gusciana – Teil 1/3 (Y 60–70)
 
-- **Y-Bereich:** 63 bis 73
+- **Y-Bereich:** 60 bis 70
 - **Blöcke:** 2.070
 - **Bauteile:** `w118965496`
 
@@ -83,9 +83,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.2 – Reihenhaus an Via Gusciana – Teil 2/3 (Y 74–86)
+### Schritt 44.2 – Reihenhaus an Via Gusciana – Teil 2/3 (Y 71–83)
 
-- **Y-Bereich:** 74 bis 86
+- **Y-Bereich:** 71 bis 83
 - **Blöcke:** 2.060
 - **Bauteile:** `w118965496`
 
@@ -113,9 +113,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 44.3 – Reihenhaus an Via Gusciana – Teil 3/3 (Y 87–97)
+### Schritt 44.3 – Reihenhaus an Via Gusciana – Teil 3/3 (Y 84–94)
 
-- **Y-Bereich:** 87 bis 97
+- **Y-Bereich:** 84 bis 94
 - **Blöcke:** 2.049
 - **Bauteile:** `w118965496`
 
@@ -148,7 +148,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 44.4 – Reihenhaus an Via Gusciana: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 60 bis 84
 - **Blöcke:** 935
 - **Bauteile:** `w118965496_innen`
 

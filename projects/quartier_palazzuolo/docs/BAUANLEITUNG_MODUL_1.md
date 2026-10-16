@@ -8,23 +8,24 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 28.444 |
-| Bauschritte | 16 |
-| Y-Bereich | 63 bis 87 |
+| Blöcke | 30.706 |
+| Bauschritte | 18 |
+| Y-Bereich | 54 bis 80 |
 | X-Ausdehnung | -2139 bis -2009 (131 Blöcke) |
 | Z-Ausdehnung | -273 bis -146 (128 Blöcke) |
-| Kleinster Schritt | 1.570 Blöcke (Schritt 1.6) |
-| Mittlerer Schritt | 1.778 Blöcke |
-| Größter Schritt | 2.068 Blöcke (Schritt 1.12) |
+| Kleinster Schritt | 349 Blöcke (Schritt 1.1) |
+| Mittlerer Schritt | 1.706 Blöcke |
+| Größter Schritt | 2.068 Blöcke (Schritt 1.14) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Terrakotta | `terracotta` | 11.026 | 38,8 % |
-| Polierter Tuffstein | `polished_tuff` | 8.718 | 30,6 % |
-| Gelbe Keramik | `yellow_terracotta` | 8.350 | 29,4 % |
-| Ziegelsteine | `bricks` | 308 | 1,1 % |
+| Terrakotta | `terracotta` | 11.026 | 35,9 % |
+| Polierter Tuffstein | `polished_tuff` | 8.718 | 28,4 % |
+| Gelbe Keramik | `yellow_terracotta` | 8.350 | 27,2 % |
+| Tuffstein | `tuff` | 2.262 | 7,4 % |
+| Ziegelsteine | `bricks` | 308 | 1,0 % |
 | Seelaterne | `sea_lantern` | 39 | 0,1 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 1 | 0,0 % |
@@ -40,14 +41,70 @@
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w31564058` | Haus w31564058 | 28.402 | 1.1–1.16 |
-| 2 | `w31564058_innen` | Haus w31564058: Innenausbau | 42 | 1.16 |
+| 1 | `w31564058` | Haus w31564058 | 30.664 | 1.1–1.18 |
+| 2 | `w31564058_innen` | Haus w31564058: Innenausbau | 42 | 1.18 |
 
 ## Bauschritte
 
-### Schritt 1.1 – Haus w31564058 – Teil 1/16 (Y 63–63)
+### Schritt 1.1 – Haus w31564058 – Teil 1/18 (Y 54–54)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 54 bis 54
+- **Blöcke:** 349
+- **Bauteile:** `w31564058`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 349 |
+
+**Beschreibung**
+
+Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.2 – Haus w31564058 – Teil 2/18 (Y 55–55)
+
+- **Y-Bereich:** 55 bis 55
+- **Blöcke:** 1.913
+- **Bauteile:** `w31564058`
+
+**Teileliste**
+
+| Block | Typ | Anzahl |
+| :--- | :--- | ---: |
+| Tuffstein | `tuff` | 1.913 |
+
+**Beschreibung**
+
+Nebengebäude (19.–20. Jh.), 1 Geschoss, Putzfarbe Ocker. Quelle: typologie, Angaben geschätzt (Sicherheit 0,2).
+
+**Tipp**
+
+Erst Sockel und Bodenplatte setzen, dann die Wände Lage für Lage, zuletzt das Dach.
+
+**Achtung**
+
+Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweiligen Wandlage.
+
+**Fakt**
+
+Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
+
+### Schritt 1.3 – Haus w31564058 – Teil 3/18 (Y 56–56)
+
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.767
 - **Bauteile:** `w31564058`
 
@@ -73,9 +130,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.2 – Haus w31564058 – Teil 2/16 (Y 63–63)
+### Schritt 1.4 – Haus w31564058 – Teil 4/18 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.673
 - **Bauteile:** `w31564058`
 
@@ -101,9 +158,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.3 – Haus w31564058 – Teil 3/16 (Y 63–63)
+### Schritt 1.5 – Haus w31564058 – Teil 5/18 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.828
 - **Bauteile:** `w31564058`
 
@@ -129,9 +186,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.4 – Haus w31564058 – Teil 4/16 (Y 63–63)
+### Schritt 1.6 – Haus w31564058 – Teil 6/18 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.735
 - **Bauteile:** `w31564058`
 
@@ -157,9 +214,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.5 – Haus w31564058 – Teil 5/16 (Y 63–63)
+### Schritt 1.7 – Haus w31564058 – Teil 7/18 (Y 56–56)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 56 bis 56
 - **Blöcke:** 1.715
 - **Bauteile:** `w31564058`
 
@@ -185,9 +242,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.6 – Haus w31564058 – Teil 6/16 (Y 64–65)
+### Schritt 1.8 – Haus w31564058 – Teil 8/18 (Y 57–58)
 
-- **Y-Bereich:** 64 bis 65
+- **Y-Bereich:** 57 bis 58
 - **Blöcke:** 1.570
 - **Bauteile:** `w31564058`
 
@@ -213,9 +270,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.7 – Haus w31564058 – Teil 7/16 (Y 66–67)
+### Schritt 1.9 – Haus w31564058 – Teil 9/18 (Y 59–60)
 
-- **Y-Bereich:** 66 bis 67
+- **Y-Bereich:** 59 bis 60
 - **Blöcke:** 1.570
 - **Bauteile:** `w31564058`
 
@@ -241,9 +298,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.8 – Haus w31564058 – Teil 8/16 (Y 68–69)
+### Schritt 1.10 – Haus w31564058 – Teil 10/18 (Y 61–62)
 
-- **Y-Bereich:** 68 bis 69
+- **Y-Bereich:** 61 bis 62
 - **Blöcke:** 1.586
 - **Bauteile:** `w31564058`
 
@@ -269,9 +326,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.9 – Haus w31564058 – Teil 9/16 (Y 70–71)
+### Schritt 1.11 – Haus w31564058 – Teil 11/18 (Y 63–64)
 
-- **Y-Bereich:** 70 bis 71
+- **Y-Bereich:** 63 bis 64
 - **Blöcke:** 1.586
 - **Bauteile:** `w31564058`
 
@@ -297,9 +354,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.10 – Haus w31564058 – Teil 10/16 (Y 72–73)
+### Schritt 1.12 – Haus w31564058 – Teil 12/18 (Y 65–66)
 
-- **Y-Bereich:** 72 bis 73
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 2.038
 - **Bauteile:** `w31564058`
 
@@ -325,9 +382,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.11 – Haus w31564058 – Teil 11/16 (Y 74–74)
+### Schritt 1.13 – Haus w31564058 – Teil 13/18 (Y 67–67)
 
-- **Y-Bereich:** 74 bis 74
+- **Y-Bereich:** 67 bis 67
 - **Blöcke:** 1.797
 - **Bauteile:** `w31564058`
 
@@ -353,9 +410,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.12 – Haus w31564058 – Teil 12/16 (Y 75–76)
+### Schritt 1.14 – Haus w31564058 – Teil 14/18 (Y 68–69)
 
-- **Y-Bereich:** 75 bis 76
+- **Y-Bereich:** 68 bis 69
 - **Blöcke:** 2.068
 - **Bauteile:** `w31564058`
 
@@ -381,9 +438,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.13 – Haus w31564058 – Teil 13/16 (Y 77–78)
+### Schritt 1.15 – Haus w31564058 – Teil 15/18 (Y 70–71)
 
-- **Y-Bereich:** 77 bis 78
+- **Y-Bereich:** 70 bis 71
 - **Blöcke:** 1.915
 - **Bauteile:** `w31564058`
 
@@ -410,9 +467,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.14 – Haus w31564058 – Teil 14/16 (Y 79–80)
+### Schritt 1.16 – Haus w31564058 – Teil 16/18 (Y 72–73)
 
-- **Y-Bereich:** 79 bis 80
+- **Y-Bereich:** 72 bis 73
 - **Blöcke:** 1.612
 - **Bauteile:** `w31564058`
 
@@ -439,9 +496,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.15 – Haus w31564058 – Teil 15/16 (Y 81–83)
+### Schritt 1.17 – Haus w31564058 – Teil 17/18 (Y 74–76)
 
-- **Y-Bereich:** 81 bis 83
+- **Y-Bereich:** 74 bis 76
 - **Blöcke:** 1.959
 - **Bauteile:** `w31564058`
 
@@ -468,9 +525,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 1.16 – Haus w31564058 – Teil 16/16 (Y 84–87) & Haus w31564058: Innenausbau
+### Schritt 1.18 – Haus w31564058 – Teil 18/18 (Y 77–80) & Haus w31564058: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
+- **Y-Bereich:** 56 bis 80
 - **Blöcke:** 2.025
 - **Bauteile:** `w31564058`, `w31564058_innen`
 

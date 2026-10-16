@@ -1,0 +1,29 @@
+{
+  "module": 3,
+  "title": "Böden und Decke",
+  "subtitle": "Bautüte 3: Geschossböden und oberste Decke",
+  "icon": "🪵",
+  "parts": {
+    "geschossboeden": {
+      "title": "Geschossböden",
+      "description": "Die Böden der Obergeschosse (Y 84, Y 102) aus Dunkler Eiche und Terrakotta im Wechsel, mit Treppenloch.",
+      "tip": "Lass das Treppenloch frei.",
+      "caution": "Die Böden liegen auf den Wänden auf.",
+      "fact": "Der große Saal im Obergeschoss zeigt heute Donatellos David aus Bronze."
+    },
+    "decke": {
+      "title": "Decke",
+      "description": "Die oberste Decke auf Y 118 schließt die Säle nach oben.",
+      "tip": "Weiß verputzt.",
+      "caution": "Darüber liegt der unzugängliche Dachraum.",
+      "fact": "Der Bau ist das älteste erhaltene Regierungsgebäude der Stadt."
+    },
+    "innenwaende_og": {
+      "title": "Innenwände der Obergeschosse",
+      "description": "Auf den Geschossböden setzt sich der Wandring um den Hof fort: zwischen Galerie und Sälen, mit einer Tür alle 14 Blöcke.",
+      "tip": "Erst den Boden, dann die Wand darauf.",
+      "caution": "Türen frei lassen.",
+      "fact": "Galerien um den Hof erschlossen in vielen Palazzi die Säle der Obergeschosse."
+    }
+  }
+}

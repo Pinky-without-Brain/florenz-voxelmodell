@@ -8,36 +8,39 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 11.292 |
+| Blöcke | 11.574 |
 | Bauschritte | 7 |
-| Y-Bereich | 63 bis 97 |
+| Y-Bereich | 66 bis 103 |
 | X-Ausdehnung | -2127 bis -2084 (44 Blöcke) |
 | Z-Ausdehnung | 2605 bis 2650 (46 Blöcke) |
-| Kleinster Schritt | 745 Blöcke (Schritt 37.7) |
-| Mittlerer Schritt | 1.613 Blöcke |
-| Größter Schritt | 1.884 Blöcke (Schritt 37.6) |
+| Kleinster Schritt | 746 Blöcke (Schritt 37.7) |
+| Mittlerer Schritt | 1.653 Blöcke |
+| Größter Schritt | 1.920 Blöcke (Schritt 37.5) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Rosa Keramik | `pink_terracotta` | 3.748 | 33,2 % |
-| Weißer Beton | `white_concrete` | 3.471 | 30,7 % |
-| Terrakotta | `terracotta` | 1.434 | 12,7 % |
-| Hellgrauer Beton | `light_gray_concrete` | 757 | 6,7 % |
-| Polierter Tuffstein | `polished_tuff` | 635 | 5,6 % |
-| Polierter Andesit | `polished_andesite` | 494 | 4,4 % |
-| Graues Buntglas | `gray_stained_glass` | 358 | 3,2 % |
-| Fichtenholz-Bretter | `spruce_planks` | 143 | 1,3 % |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 | 0,6 % |
+| Rosa Keramik | `pink_terracotta` | 3.768 | 32,6 % |
+| Weißer Beton | `white_concrete` | 3.471 | 30,0 % |
+| Terrakotta | `terracotta` | 1.434 | 12,4 % |
+| Hellgrauer Beton | `light_gray_concrete` | 757 | 6,5 % |
+| Polierter Tuffstein | `polished_tuff` | 626 | 5,4 % |
+| Polierter Andesit | `polished_andesite` | 494 | 4,3 % |
+| Graues Buntglas | `gray_stained_glass` | 358 | 3,1 % |
+| Tuffstein | `tuff` | 260 | 2,2 % |
+| Fichtenholz-Bretter | `spruce_planks` | 143 | 1,2 % |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 69 | 0,6 % |
 | Grüner Beton | `green_concrete` | 67 | 0,6 % |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 | 0,2 % |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 23 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 | 0,2 % |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 | 0,2 % |
 | Glatter Stein | `smooth_stone` | 19 | 0,2 % |
 | Ziegelsteine | `bricks` | 16 | 0,1 % |
 | Seelaterne | `sea_lantern` | 14 | 0,1 % |
-| Rote Keramik | `red_terracotta` | 7 | 0,1 % |
-| Weiße Keramik | `white_terracotta` | 7 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 6 | 0,1 % |
+| Weiße Keramik | `white_terracotta` | 6 | 0,1 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 5 | 0,0 % |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 5 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 3 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 3 | 0,0 % |
 
@@ -45,35 +48,45 @@
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 56 |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 10 |
 
 ## Bauteile in Bau-Reihenfolge
 
 | Nr. | Bauteil | Titel | Blöcke | Schritte |
 | ---: | :--- | :--- | ---: | :--- |
-| 1 | `w482812619` | Haus w482812619 | 5.055 | 37.1–37.3 |
+| 1 | `w482812619` | Haus w482812619 | 5.124 | 37.1–37.3 |
 | 2 | `w482812619_innen` | Haus w482812619: Innenausbau | 5 | 37.4 |
-| 3 | `w482812676` | Haus w482812676 | 5.487 | 37.4–37.6 |
-| 4 | `w482812676_innen` | Haus w482812676: Innenausbau | 745 | 37.7 |
+| 3 | `w482812676` | Haus w482812676 | 5.699 | 37.4–37.6 |
+| 4 | `w482812676_innen` | Haus w482812676: Innenausbau | 746 | 37.7 |
 
 ## Bauschritte
 
-### Schritt 37.1 – Haus w482812619 – Teil 1/3 (Y 63–73)
+### Schritt 37.1 – Haus w482812619 – Teil 1/3 (Y 66–77)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.758
+- **Y-Bereich:** 66 bis 77
+- **Blöcke:** 1.673
 - **Bauteile:** `w482812619`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.232 |
-| Polierter Tuffstein | `polished_tuff` | 275 |
-| Hellgrauer Beton | `light_gray_concrete` | 172 |
+| Weißer Beton | `white_concrete` | 1.118 |
+| Polierter Tuffstein | `polished_tuff` | 271 |
+| Hellgrauer Beton | `light_gray_concrete` | 132 |
+| Tuffstein | `tuff` | 69 |
 | Graues Buntglas | `gray_stained_glass` | 48 |
 | Glatter Stein | `smooth_stone` | 19 |
 | Grüner Beton | `green_concrete` | 12 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 2 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 2 |
+
+**Treppen je Material** (alle Richtungen)
+
+| Treppe | Basistyp | Anzahl |
+| :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 4 |
 
 **Beschreibung**
 
@@ -91,18 +104,18 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.2 – Haus w482812619 – Teil 2/3 (Y 74–84)
+### Schritt 37.2 – Haus w482812619 – Teil 2/3 (Y 78–89)
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.628
+- **Y-Bereich:** 78 bis 89
+- **Blöcke:** 1.782
 - **Bauteile:** `w482812619`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Weißer Beton | `white_concrete` | 1.177 |
-| Hellgrauer Beton | `light_gray_concrete` | 325 |
+| Weißer Beton | `white_concrete` | 1.291 |
+| Hellgrauer Beton | `light_gray_concrete` | 365 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 | Grüner Beton | `green_concrete` | 24 |
 
@@ -122,9 +135,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.3 – Haus w482812619 – Teil 3/3 (Y 85–97)
+### Schritt 37.3 – Haus w482812619 – Teil 3/3 (Y 90–102)
 
-- **Y-Bereich:** 85 bis 97
+- **Y-Bereich:** 90 bis 102
 - **Blöcke:** 1.669
 - **Bauteile:** `w482812619`
 
@@ -155,21 +168,24 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.4 – Haus w482812619: Innenausbau & Haus w482812676 – Teil 1/3 (Y 63–73)
+### Schritt 37.4 – Haus w482812619: Innenausbau & Haus w482812676 – Teil 1/3 (Y 67–78)
 
-- **Y-Bereich:** 63 bis 73
-- **Blöcke:** 1.848
+- **Y-Bereich:** 67 bis 78
+- **Blöcke:** 1.880
 - **Bauteile:** `w482812619_innen`, `w482812676`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.285 |
-| Polierter Tuffstein | `polished_tuff` | 360 |
-| Polierter Andesit | `polished_andesite` | 156 |
+| Rosa Keramik | `pink_terracotta` | 1.163 |
+| Polierter Tuffstein | `polished_tuff` | 355 |
+| Tuffstein | `tuff` | 191 |
+| Polierter Andesit | `polished_andesite` | 118 |
 | Graues Buntglas | `gray_stained_glass` | 36 |
 | Grüner Beton | `green_concrete` | 6 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Norden | `polished_tuff_stairs@n` | 3 |
+| Treppe aus poliertem Tuffstein, Aufstieg nach Westen | `polished_tuff_stairs@w` | 3 |
 | Seelaterne | `sea_lantern` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 1 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 1 |
@@ -179,6 +195,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
+| Treppe aus poliertem Tuffstein | `polished_tuff_stairs` | 6 |
 | Schwarzeichentreppe | `dark_oak_stairs` | 2 |
 
 **Beschreibung**
@@ -197,18 +214,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.5 – Haus w482812676 – Teil 2/3 (Y 74–85)
+### Schritt 37.5 – Haus w482812676 – Teil 2/3 (Y 79–91)
 
-- **Y-Bereich:** 74 bis 85
-- **Blöcke:** 1.760
+- **Y-Bereich:** 79 bis 91
+- **Blöcke:** 1.920
 - **Bauteile:** `w482812676`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.428 |
-| Polierter Andesit | `polished_andesite` | 222 |
+| Rosa Keramik | `pink_terracotta` | 1.550 |
+| Polierter Andesit | `polished_andesite` | 260 |
 | Graues Buntglas | `gray_stained_glass` | 102 |
 | Grüner Beton | `green_concrete` | 8 |
 
@@ -228,17 +245,17 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 37.6 – Haus w482812676 – Teil 3/3 (Y 86–97)
+### Schritt 37.6 – Haus w482812676 – Teil 3/3 (Y 92–103)
 
-- **Y-Bereich:** 86 bis 97
-- **Blöcke:** 1.884
+- **Y-Bereich:** 92 bis 103
+- **Blöcke:** 1.904
 - **Bauteile:** `w482812676`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Rosa Keramik | `pink_terracotta` | 1.035 |
+| Rosa Keramik | `pink_terracotta` | 1.055 |
 | Terrakotta | `terracotta` | 532 |
 | Fichtenholz-Bretter | `spruce_planks` | 143 |
 | Polierter Andesit | `polished_andesite` | 116 |
@@ -264,8 +281,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 37.7 – Haus w482812676: Innenausbau
 
-- **Y-Bereich:** 63 bis 87
-- **Blöcke:** 745
+- **Y-Bereich:** 69 bis 93
+- **Blöcke:** 746
 - **Bauteile:** `w482812676_innen`
 
 **Teileliste**
@@ -273,12 +290,12 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Terrakotta | `terracotta` | 600 |
-| Schwarzeichenholz-Bretter | `dark_oak_planks` | 67 |
-| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 25 |
-| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 23 |
+| Schwarzeichenholz-Bretter | `dark_oak_planks` | 68 |
+| Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 26 |
+| Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 24 |
 | Seelaterne | `sea_lantern` | 12 |
-| Rote Keramik | `red_terracotta` | 7 |
-| Weiße Keramik | `white_terracotta` | 7 |
+| Rote Keramik | `red_terracotta` | 6 |
+| Weiße Keramik | `white_terracotta` | 6 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
 
@@ -286,7 +303,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 | Treppe | Basistyp | Anzahl |
 | :--- | :--- | ---: |
-| Schwarzeichentreppe | `dark_oak_stairs` | 52 |
+| Schwarzeichentreppe | `dark_oak_stairs` | 54 |
 
 **Beschreibung**
 

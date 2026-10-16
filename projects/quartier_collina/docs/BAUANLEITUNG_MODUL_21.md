@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 1.230 |
 | Bauschritte | 1 |
-| Y-Bereich | 63 bis 94 |
+| Y-Bereich | 189 bis 220 |
 | X-Ausdehnung | -415 bis -411 (5 Blöcke) |
 | Z-Ausdehnung | 2457 bis 2465 (9 Blöcke) |
 | Kleinster Schritt | 1.230 Blöcke (Schritt 21.1) |
@@ -39,7 +39,7 @@
 
 ### Schritt 21.1 – Haus w475937090 & Haus w475937090: Innenausbau
 
-- **Y-Bereich:** 63 bis 94
+- **Y-Bereich:** 189 bis 220
 - **Blöcke:** 1.230
 - **Bauteile:** `w475937090`, `w475937090_innen`
 

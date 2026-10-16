@@ -8,13 +8,13 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 42.253 |
+| Blöcke | 42.282 |
 | Bauschritte | 23 |
-| Y-Bereich | 63 bis 99 |
+| Y-Bereich | 56 bis 93 |
 | X-Ausdehnung | -2682 bis -2574 (109 Blöcke) |
 | Z-Ausdehnung | -311 bis -216 (96 Blöcke) |
 | Kleinster Schritt | 1.078 Blöcke (Schritt 21.1) |
-| Mittlerer Schritt | 1.837 Blöcke |
+| Mittlerer Schritt | 1.838 Blöcke |
 | Größter Schritt | 2.082 Blöcke (Schritt 21.12) |
 
 ## Gesamt-Stückliste
@@ -22,26 +22,27 @@
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
 | Weißer Beton | `white_concrete` | 11.994 | 28,4 % |
-| Terrakotta | `terracotta` | 9.434 | 22,3 % |
-| Gelbe Keramik | `yellow_terracotta` | 6.091 | 14,4 % |
-| Polierter Tuffstein | `polished_tuff` | 5.926 | 14,0 % |
+| Terrakotta | `terracotta` | 9.432 | 22,3 % |
+| Gelbe Keramik | `yellow_terracotta` | 6.116 | 14,5 % |
+| Polierter Tuffstein | `polished_tuff` | 5.927 | 14,0 % |
 | Glatter Sandstein | `smooth_sandstone` | 3.584 | 8,5 % |
 | Glatter Stein | `smooth_stone` | 2.890 | 6,8 % |
 | Graues Buntglas | `gray_stained_glass` | 989 | 2,3 % |
 | Polierter Andesit | `polished_andesite` | 558 | 1,3 % |
-| Fichtenholz-Bretter | `spruce_planks` | 408 | 1,0 % |
+| Fichtenholz-Bretter | `spruce_planks` | 412 | 1,0 % |
 | Ziegelsteine | `bricks` | 131 | 0,3 % |
-| Seelaterne | `sea_lantern` | 61 | 0,1 % |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 52 | 0,1 % |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 48 | 0,1 % |
+| Seelaterne | `sea_lantern` | 58 | 0,1 % |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 40 | 0,1 % |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 40 | 0,1 % |
 | Tuffsteinziegel | `tuff_bricks` | 37 | 0,1 % |
-| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 | 0,0 % |
-| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 | 0,0 % |
+| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 32 | 0,1 % |
+| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 28 | 0,1 % |
+| Rote Keramik | `red_terracotta` | 3 | 0,0 % |
+| Weiße Keramik | `white_terracotta` | 3 | 0,0 % |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 | 0,0 % |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 | 0,0 % |
-| Rote Keramik | `red_terracotta` | 2 | 0,0 % |
-| Weiße Keramik | `white_terracotta` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -58,14 +59,15 @@
 | 2 | `w479555935_innen` | Palazzo des Ottocento an Via Giuseppe Garibaldi: Innenausbau | 3.660 | 21.10–21.11 |
 | 3 | `w479555946` | Palazzo des Cinquecento an Via Giuseppe Garibaldi | 8.010 | 21.12–21.15 |
 | 4 | `w479555946_innen` | Palazzo des Cinquecento an Via Giuseppe Garibaldi: Innenausbau | 1.621 | 21.16 |
-| 5 | `w479555971` | Palazzo des Cinquecento an Via Solferino | 11.092 | 21.17–21.22 |
-| 6 | `w479555971_innen` | Palazzo des Cinquecento an Via Solferino: Innenausbau | 1.706 | 21.23 |
+| 5 | `w479555971` | Palazzo des Cinquecento an Via Solferino | 11.118 | 21.17–21.22 |
+| 6 | `w479555971_innen` | Palazzo des Cinquecento an Via Solferino: Innenausbau | 1.707 | 21.23 |
+| 7 | `strassenschilder` | Straßenschilder | 2 | 21.23 |
 
 ## Bauschritte
 
-### Schritt 21.1 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 1/9 (Y 63–63)
+### Schritt 21.1 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 1/9 (Y 57–57)
 
-- **Y-Bereich:** 63 bis 63
+- **Y-Bereich:** 57 bis 57
 - **Blöcke:** 1.078
 - **Bauteile:** `w479555935`
 
@@ -91,9 +93,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.2 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 2/9 (Y 63–65)
+### Schritt 21.2 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 2/9 (Y 57–59)
 
-- **Y-Bereich:** 63 bis 65
+- **Y-Bereich:** 57 bis 59
 - **Blöcke:** 1.801
 - **Bauteile:** `w479555935`
 
@@ -123,9 +125,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.3 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 3/9 (Y 66–70)
+### Schritt 21.3 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 3/9 (Y 60–64)
 
-- **Y-Bereich:** 66 bis 70
+- **Y-Bereich:** 60 bis 64
 - **Blöcke:** 1.847
 - **Bauteile:** `w479555935`
 
@@ -155,9 +157,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.4 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 4/9 (Y 71–75)
+### Schritt 21.4 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 4/9 (Y 65–69)
 
-- **Y-Bereich:** 71 bis 75
+- **Y-Bereich:** 65 bis 69
 - **Blöcke:** 1.885
 - **Bauteile:** `w479555935`
 
@@ -186,9 +188,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.5 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 5/9 (Y 76–80)
+### Schritt 21.5 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 5/9 (Y 70–74)
 
-- **Y-Bereich:** 76 bis 80
+- **Y-Bereich:** 70 bis 74
 - **Blöcke:** 1.857
 - **Bauteile:** `w479555935`
 
@@ -217,9 +219,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.6 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 6/9 (Y 81–85)
+### Schritt 21.6 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 6/9 (Y 75–79)
 
-- **Y-Bereich:** 81 bis 85
+- **Y-Bereich:** 75 bis 79
 - **Blöcke:** 1.921
 - **Bauteile:** `w479555935`
 
@@ -247,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.7 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 7/9 (Y 86–90)
+### Schritt 21.7 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 7/9 (Y 80–84)
 
-- **Y-Bereich:** 86 bis 90
+- **Y-Bereich:** 80 bis 84
 - **Blöcke:** 1.820
 - **Bauteile:** `w479555935`
 
@@ -278,9 +280,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.8 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 8/9 (Y 91–93)
+### Schritt 21.8 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 8/9 (Y 85–87)
 
-- **Y-Bereich:** 91 bis 93
+- **Y-Bereich:** 85 bis 87
 - **Blöcke:** 2.007
 - **Bauteile:** `w479555935`
 
@@ -309,9 +311,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.9 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 9/9 (Y 93–95)
+### Schritt 21.9 – Palazzo des Ottocento an Via Giuseppe Garibaldi – Teil 9/9 (Y 87–89)
 
-- **Y-Bereich:** 93 bis 95
+- **Y-Bereich:** 87 bis 89
 - **Blöcke:** 1.948
 - **Bauteile:** `w479555935`
 
@@ -340,9 +342,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.10 – Palazzo des Ottocento an Via Giuseppe Garibaldi: Innenausbau – Teil 1/2 (Y 63–78)
+### Schritt 21.10 – Palazzo des Ottocento an Via Giuseppe Garibaldi: Innenausbau – Teil 1/2 (Y 57–72)
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 57 bis 72
 - **Blöcke:** 1.831
 - **Bauteile:** `w479555935_innen`
 
@@ -378,9 +380,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.11 – Palazzo des Ottocento an Via Giuseppe Garibaldi: Innenausbau – Teil 2/2 (Y 79–93)
+### Schritt 21.11 – Palazzo des Ottocento an Via Giuseppe Garibaldi: Innenausbau – Teil 2/2 (Y 73–87)
 
-- **Y-Bereich:** 79 bis 93
+- **Y-Bereich:** 73 bis 87
 - **Blöcke:** 1.829
 - **Bauteile:** `w479555935_innen`
 
@@ -418,9 +420,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.12 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 1/4 (Y 63–69)
+### Schritt 21.12 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 1/4 (Y 57–63)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 57 bis 63
 - **Blöcke:** 2.082
 - **Bauteile:** `w479555946`
 
@@ -452,9 +454,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.13 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 2/4 (Y 70–80)
+### Schritt 21.13 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 2/4 (Y 64–74)
 
-- **Y-Bereich:** 70 bis 80
+- **Y-Bereich:** 64 bis 74
 - **Blöcke:** 1.984
 - **Bauteile:** `w479555946`
 
@@ -484,9 +486,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.14 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 3/4 (Y 81–91)
+### Schritt 21.14 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 3/4 (Y 75–85)
 
-- **Y-Bereich:** 81 bis 91
+- **Y-Bereich:** 75 bis 85
 - **Blöcke:** 2.001
 - **Bauteile:** `w479555946`
 
@@ -516,9 +518,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.15 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 4/4 (Y 92–99)
+### Schritt 21.15 – Palazzo des Cinquecento an Via Giuseppe Garibaldi – Teil 4/4 (Y 86–93)
 
-- **Y-Bereich:** 92 bis 99
+- **Y-Bereich:** 86 bis 93
 - **Blöcke:** 1.943
 - **Bauteile:** `w479555946`
 
@@ -551,7 +553,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 ### Schritt 21.16 – Palazzo des Cinquecento an Via Giuseppe Garibaldi: Innenausbau
 
-- **Y-Bereich:** 63 bis 83
+- **Y-Bereich:** 57 bis 77
 - **Blöcke:** 1.621
 - **Bauteile:** `w479555946_innen`
 
@@ -587,18 +589,18 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 21.17 – Palazzo des Cinquecento an Via Solferino – Teil 1/6 (Y 63–66)
+### Schritt 21.17 – Palazzo des Cinquecento an Via Solferino – Teil 1/6 (Y 56–59)
 
-- **Y-Bereich:** 63 bis 66
-- **Blöcke:** 1.897
+- **Y-Bereich:** 56 bis 59
+- **Blöcke:** 1.923
 - **Bauteile:** `w479555971`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Polierter Tuffstein | `polished_tuff` | 1.081 |
-| Gelbe Keramik | `yellow_terracotta` | 712 |
+| Polierter Tuffstein | `polished_tuff` | 1.082 |
+| Gelbe Keramik | `yellow_terracotta` | 737 |
 | Weißer Beton | `white_concrete` | 61 |
 | Polierter Andesit | `polished_andesite` | 29 |
 | Glatter Stein | `smooth_stone` | 9 |
@@ -620,9 +622,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.18 – Palazzo des Cinquecento an Via Solferino – Teil 2/6 (Y 67–73)
+### Schritt 21.18 – Palazzo des Cinquecento an Via Solferino – Teil 2/6 (Y 60–66)
 
-- **Y-Bereich:** 67 bis 73
+- **Y-Bereich:** 60 bis 66
 - **Blöcke:** 1.907
 - **Bauteile:** `w479555971`
 
@@ -653,9 +655,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.19 – Palazzo des Cinquecento an Via Solferino – Teil 3/6 (Y 74–79)
+### Schritt 21.19 – Palazzo des Cinquecento an Via Solferino – Teil 3/6 (Y 67–72)
 
-- **Y-Bereich:** 74 bis 79
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 1.630
 - **Bauteile:** `w479555971`
 
@@ -684,9 +686,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.20 – Palazzo des Cinquecento an Via Solferino – Teil 4/6 (Y 80–86)
+### Schritt 21.20 – Palazzo des Cinquecento an Via Solferino – Teil 4/6 (Y 73–79)
 
-- **Y-Bereich:** 80 bis 86
+- **Y-Bereich:** 73 bis 79
 - **Blöcke:** 1.931
 - **Bauteile:** `w479555971`
 
@@ -716,10 +718,10 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.21 – Palazzo des Cinquecento an Via Solferino – Teil 5/6 (Y 87–92)
+### Schritt 21.21 – Palazzo des Cinquecento an Via Solferino – Teil 5/6 (Y 80–85)
 
-- **Y-Bereich:** 87 bis 92
-- **Blöcke:** 1.672
+- **Y-Bereich:** 80 bis 85
+- **Blöcke:** 1.673
 - **Bauteile:** `w479555971`
 
 **Teileliste**
@@ -729,8 +731,8 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Gelbe Keramik | `yellow_terracotta` | 1.151 |
 | Weißer Beton | `white_concrete` | 345 |
 | Graues Buntglas | `gray_stained_glass` | 92 |
+| Fichtenholz-Bretter | `spruce_planks` | 43 |
 | Polierter Andesit | `polished_andesite` | 42 |
-| Fichtenholz-Bretter | `spruce_planks` | 42 |
 
 **Beschreibung**
 
@@ -748,19 +750,19 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.22 – Palazzo des Cinquecento an Via Solferino – Teil 6/6 (Y 93–99)
+### Schritt 21.22 – Palazzo des Cinquecento an Via Solferino – Teil 6/6 (Y 86–92)
 
-- **Y-Bereich:** 93 bis 99
-- **Blöcke:** 2.055
+- **Y-Bereich:** 86 bis 92
+- **Blöcke:** 2.054
 - **Bauteile:** `w479555971`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.515 |
+| Terrakotta | `terracotta` | 1.511 |
 | Gelbe Keramik | `yellow_terracotta` | 276 |
-| Fichtenholz-Bretter | `spruce_planks` | 190 |
+| Fichtenholz-Bretter | `spruce_planks` | 193 |
 | Ziegelsteine | `bricks` | 71 |
 | Polierter Andesit | `polished_andesite` | 3 |
 
@@ -780,26 +782,27 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 21.23 – Palazzo des Cinquecento an Via Solferino: Innenausbau
+### Schritt 21.23 – Palazzo des Cinquecento an Via Solferino: Innenausbau & Straßenschilder
 
-- **Y-Bereich:** 63 bis 84
-- **Blöcke:** 1.706
-- **Bauteile:** `w479555971_innen`
+- **Y-Bereich:** 56 bis 77
+- **Blöcke:** 1.709
+- **Bauteile:** `w479555971_innen`, `strassenschilder`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Terrakotta | `terracotta` | 1.588 |
+| Terrakotta | `terracotta` | 1.590 |
 | Glatter Stein | `smooth_stone` | 52 |
-| Steintreppe, Aufstieg nach Osten | `stone_stairs@o` | 20 |
-| Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 20 |
-| Seelaterne | `sea_lantern` | 18 |
+| Steintreppe, Aufstieg nach Norden | `stone_stairs@n` | 20 |
+| Steintreppe, Aufstieg nach Süden | `stone_stairs@s` | 20 |
+| Seelaterne | `sea_lantern` | 15 |
+| Straßenschild, Schrift nach Norden | `birch_wall_sign@n` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Norden | `dark_oak_stairs@n` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Süden | `dark_oak_stairs@s` | 2 |
-| Rote Keramik | `red_terracotta` | 1 |
-| Weiße Keramik | `white_terracotta` | 1 |
+| Rote Keramik | `red_terracotta` | 2 |
+| Weiße Keramik | `white_terracotta` | 2 |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -810,16 +813,16 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

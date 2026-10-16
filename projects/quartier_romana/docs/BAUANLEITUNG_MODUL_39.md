@@ -8,23 +8,23 @@
 
 | Kennzahl | Wert |
 | :--- | :--- |
-| Blöcke | 43.047 |
+| Blöcke | 43.089 |
 | Bauschritte | 25 |
-| Y-Bereich | 63 bis 100 |
+| Y-Bereich | 62 bis 102 |
 | X-Ausdehnung | -2132 bis -1972 (161 Blöcke) |
 | Z-Ausdehnung | 2166 bis 2234 (69 Blöcke) |
-| Kleinster Schritt | 1.105 Blöcke (Schritt 39.11) |
-| Mittlerer Schritt | 1.722 Blöcke |
+| Kleinster Schritt | 1.113 Blöcke (Schritt 39.11) |
+| Mittlerer Schritt | 1.724 Blöcke |
 | Größter Schritt | 2.097 Blöcke (Schritt 39.4) |
 
 ## Gesamt-Stückliste
 
 | Block | Typ | Anzahl | Anteil |
 | :--- | :--- | ---: | ---: |
-| Endsteinziegel | `end_stone_bricks` | 19.466 | 45,2 % |
+| Endsteinziegel | `end_stone_bricks` | 19.502 | 45,3 % |
 | Terrakotta | `terracotta` | 11.637 | 27,0 % |
 | Polierter Tuffstein | `polished_tuff` | 3.719 | 8,6 % |
-| Polierter Andesit | `polished_andesite` | 2.920 | 6,8 % |
+| Polierter Andesit | `polished_andesite` | 2.916 | 6,8 % |
 | Glatter Stein | `smooth_stone` | 2.001 | 4,6 % |
 | Graues Buntglas | `gray_stained_glass` | 1.860 | 4,3 % |
 | Grüner Beton | `green_concrete` | 755 | 1,8 % |
@@ -39,8 +39,10 @@
 | Rote Keramik | `red_terracotta` | 15 | 0,0 % |
 | Tuffsteinziegel | `tuff_bricks` | 15 | 0,0 % |
 | Weiße Keramik | `white_terracotta` | 15 | 0,0 % |
+| Tuffstein | `tuff` | 8 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 7 | 0,0 % |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 7 | 0,0 % |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 | 0,0 % |
 
 **Treppen je Material** (alle Richtungen)
 
@@ -55,14 +57,15 @@
 | ---: | :--- | :--- | ---: | :--- |
 | 1 | `w118948104` | Reihenhaus an Via dei Mori | 13.940 | 39.1–39.7 |
 | 2 | `w118948104_innen` | Reihenhaus an Via dei Mori: Innenausbau | 3.564 | 39.8–39.10 |
-| 3 | `w478250839` | Palazzo des Cinquecento an Via di Serumido | 22.109 | 39.11–39.23 |
+| 3 | `w478250839` | Palazzo des Cinquecento an Via di Serumido | 22.149 | 39.11–39.23 |
 | 4 | `w478250839_innen` | Palazzo des Cinquecento an Via di Serumido: Innenausbau | 3.434 | 39.24–39.25 |
+| 5 | `strassenschilder` | Straßenschilder | 2 | 39.25 |
 
 ## Bauschritte
 
-### Schritt 39.1 – Reihenhaus an Via dei Mori – Teil 1/7 (Y 63–64)
+### Schritt 39.1 – Reihenhaus an Via dei Mori – Teil 1/7 (Y 65–66)
 
-- **Y-Bereich:** 63 bis 64
+- **Y-Bereich:** 65 bis 66
 - **Blöcke:** 1.837
 - **Bauteile:** `w118948104`
 
@@ -91,9 +94,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.2 – Reihenhaus an Via dei Mori – Teil 2/7 (Y 65–70)
+### Schritt 39.2 – Reihenhaus an Via dei Mori – Teil 2/7 (Y 67–72)
 
-- **Y-Bereich:** 65 bis 70
+- **Y-Bereich:** 67 bis 72
 - **Blöcke:** 2.051
 - **Bauteile:** `w118948104`
 
@@ -122,9 +125,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.3 – Reihenhaus an Via dei Mori – Teil 3/7 (Y 71–76)
+### Schritt 39.3 – Reihenhaus an Via dei Mori – Teil 3/7 (Y 73–78)
 
-- **Y-Bereich:** 71 bis 76
+- **Y-Bereich:** 73 bis 78
 - **Blöcke:** 2.094
 - **Bauteile:** `w118948104`
 
@@ -153,9 +156,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.4 – Reihenhaus an Via dei Mori – Teil 4/7 (Y 77–82)
+### Schritt 39.4 – Reihenhaus an Via dei Mori – Teil 4/7 (Y 79–84)
 
-- **Y-Bereich:** 77 bis 82
+- **Y-Bereich:** 79 bis 84
 - **Blöcke:** 2.097
 - **Bauteile:** `w118948104`
 
@@ -184,9 +187,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.5 – Reihenhaus an Via dei Mori – Teil 5/7 (Y 83–87)
+### Schritt 39.5 – Reihenhaus an Via dei Mori – Teil 5/7 (Y 85–89)
 
-- **Y-Bereich:** 83 bis 87
+- **Y-Bereich:** 85 bis 89
 - **Blöcke:** 1.735
 - **Bauteile:** `w118948104`
 
@@ -215,9 +218,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.6 – Reihenhaus an Via dei Mori – Teil 6/7 (Y 88–93)
+### Schritt 39.6 – Reihenhaus an Via dei Mori – Teil 6/7 (Y 90–95)
 
-- **Y-Bereich:** 88 bis 93
+- **Y-Bereich:** 90 bis 95
 - **Blöcke:** 2.094
 - **Bauteile:** `w118948104`
 
@@ -246,9 +249,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.7 – Reihenhaus an Via dei Mori – Teil 7/7 (Y 94–100)
+### Schritt 39.7 – Reihenhaus an Via dei Mori – Teil 7/7 (Y 96–102)
 
-- **Y-Bereich:** 94 bis 100
+- **Y-Bereich:** 96 bis 102
 - **Blöcke:** 2.032
 - **Bauteile:** `w118948104`
 
@@ -275,9 +278,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 39.8 – Reihenhaus an Via dei Mori: Innenausbau – Teil 1/3 (Y 63–72)
+### Schritt 39.8 – Reihenhaus an Via dei Mori: Innenausbau – Teil 1/3 (Y 65–74)
 
-- **Y-Bereich:** 63 bis 72
+- **Y-Bereich:** 65 bis 74
 - **Blöcke:** 1.193
 - **Bauteile:** `w118948104_innen`
 
@@ -315,9 +318,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 39.9 – Reihenhaus an Via dei Mori: Innenausbau – Teil 2/3 (Y 73–79)
+### Schritt 39.9 – Reihenhaus an Via dei Mori: Innenausbau – Teil 2/3 (Y 75–81)
 
-- **Y-Bereich:** 73 bis 79
+- **Y-Bereich:** 75 bis 81
 - **Blöcke:** 1.181
 - **Bauteile:** `w118948104_innen`
 
@@ -357,9 +360,9 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 39.10 – Reihenhaus an Via dei Mori: Innenausbau – Teil 3/3 (Y 80–87)
+### Schritt 39.10 – Reihenhaus an Via dei Mori: Innenausbau – Teil 3/3 (Y 82–89)
 
-- **Y-Bereich:** 80 bis 87
+- **Y-Bereich:** 82 bis 89
 - **Blöcke:** 1.190
 - **Bauteile:** `w118948104_innen`
 
@@ -399,10 +402,10 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 39.11 – Palazzo des Cinquecento an Via di Serumido – Teil 1/13 (Y 63–63)
+### Schritt 39.11 – Palazzo des Cinquecento an Via di Serumido – Teil 1/13 (Y 62–63)
 
-- **Y-Bereich:** 63 bis 63
-- **Blöcke:** 1.105
+- **Y-Bereich:** 62 bis 63
+- **Blöcke:** 1.113
 - **Bauteile:** `w478250839`
 
 **Teileliste**
@@ -410,6 +413,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.105 |
+| Tuffstein | `tuff` | 8 |
 
 **Beschreibung**
 
@@ -430,7 +434,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 39.12 – Palazzo des Cinquecento an Via di Serumido – Teil 2/13 (Y 63–64)
 
 - **Y-Bereich:** 63 bis 64
-- **Blöcke:** 1.678
+- **Blöcke:** 1.696
 - **Bauteile:** `w478250839`
 
 **Teileliste**
@@ -438,7 +442,7 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
 | Polierter Tuffstein | `polished_tuff` | 1.119 |
-| Endsteinziegel | `end_stone_bricks` | 543 |
+| Endsteinziegel | `end_stone_bricks` | 561 |
 | Polierter Andesit | `polished_andesite` | 15 |
 | Tuffsteinziegel | `tuff_bricks` | 1 |
 
@@ -461,15 +465,15 @@ Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind
 ### Schritt 39.13 – Palazzo des Cinquecento an Via di Serumido – Teil 3/13 (Y 65–67)
 
 - **Y-Bereich:** 65 bis 67
-- **Blöcke:** 1.662
+- **Blöcke:** 1.676
 - **Bauteile:** `w478250839`
 
 **Teileliste**
 
 | Block | Typ | Anzahl |
 | :--- | :--- | ---: |
-| Endsteinziegel | `end_stone_bricks` | 1.212 |
-| Polierter Andesit | `polished_andesite` | 304 |
+| Endsteinziegel | `end_stone_bricks` | 1.230 |
+| Polierter Andesit | `polished_andesite` | 300 |
 | Graues Buntglas | `gray_stained_glass` | 85 |
 | Grüner Beton | `green_concrete` | 58 |
 | Tuffsteinziegel | `tuff_bricks` | 3 |
@@ -835,11 +839,11 @@ Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach obe
 
 Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
 
-### Schritt 39.25 – Palazzo des Cinquecento an Via di Serumido: Innenausbau – Teil 2/2 (Y 74–84)
+### Schritt 39.25 – Palazzo des Cinquecento an Via di Serumido: Innenausbau – Teil 2/2 (Y 74–84) & Straßenschilder
 
-- **Y-Bereich:** 74 bis 84
-- **Blöcke:** 1.719
-- **Bauteile:** `w478250839_innen`
+- **Y-Bereich:** 71 bis 84
+- **Blöcke:** 1.721
+- **Bauteile:** `w478250839_innen`, `strassenschilder`
 
 **Teileliste**
 
@@ -852,6 +856,7 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 | Steintreppe, Aufstieg nach Westen | `stone_stairs@w` | 10 |
 | Rote Keramik | `red_terracotta` | 6 |
 | Weiße Keramik | `white_terracotta` | 6 |
+| Straßenschild, Schrift nach Süden | `birch_wall_sign@s` | 2 |
 | Schwarzeichenholz-Bretter | `dark_oak_planks` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Osten | `dark_oak_stairs@o` | 2 |
 | Schwarzeichentreppe, Aufstieg nach Westen | `dark_oak_stairs@w` | 2 |
@@ -865,16 +870,16 @@ Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbal
 
 **Beschreibung**
 
-Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt.
+Geschossböden aus Cotto, ein Treppenhaus mit Podesttreppen aus Stein bis ins oberste Geschoss, Seelaternen im Boden als Licht, Tische, Stühle und Betten aus Holz. Vereinfacht, nicht belegt. An den Eckhäusern hängt je Straße ein Schild mit dem Straßennamen, 3,5 m über der Straße an der Fassade nahe der Ecke.
 
 **Tipp**
 
-Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel.
+Erst die Böden Geschoss für Geschoss legen, dann die Treppe von unten nach oben, zuletzt Licht und Möbel. Das Schild sitzt an einer massiven Wandzelle und zeigt zur Straße.
 
 **Achtung**
 
-Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen.
+Über jeder Stufe bleiben drei Blöcke Luft; das Treppenloch in der Decke darüber nicht schließen. In Minecraft trägt das Schild den Namen; hier ist es ein heller Block.
 
 **Fakt**
 
-Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken.
+Florentiner Wohnhäuser hatten oft Böden aus Cotto (gebranntem Ton) und Holzbalkendecken. In Florenz hängen an den Straßenecken weiße Marmortafeln mit dem Straßennamen.

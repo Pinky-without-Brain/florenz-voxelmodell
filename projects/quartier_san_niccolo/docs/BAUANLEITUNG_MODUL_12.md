@@ -10,7 +10,7 @@
 | :--- | :--- |
 | Blöcke | 2.279 |
 | Bauschritte | 2 |
-| Y-Bereich | 63 bis 78 |
+| Y-Bereich | 67 bis 82 |
 | X-Ausdehnung | 532 bis 555 (24 Blöcke) |
 | Z-Ausdehnung | 1746 bis 1768 (23 Blöcke) |
 | Kleinster Schritt | 1.110 Blöcke (Schritt 12.1) |
@@ -48,9 +48,9 @@
 
 ## Bauschritte
 
-### Schritt 12.1 – Nebengebäude an Piazza Nicola Demidoff – Teil 1/2 (Y 63–69)
+### Schritt 12.1 – Nebengebäude an Piazza Nicola Demidoff – Teil 1/2 (Y 67–73)
 
-- **Y-Bereich:** 63 bis 69
+- **Y-Bereich:** 67 bis 73
 - **Blöcke:** 1.110
 - **Bauteile:** `w1153360289`
 
@@ -80,9 +80,9 @@ Die Öffnungen der Fassade bleiben frei; Glas und Rahmen kommen mit der jeweilig
 
 Typologische Rekonstruktion aus dem OSM-Grundriss; die Angaben der Hausakte sind geschätzt.
 
-### Schritt 12.2 – Nebengebäude an Piazza Nicola Demidoff – Teil 2/2 (Y 70–78) & Nebengebäude an Piazza Nicola Demidoff: Innenausbau
+### Schritt 12.2 – Nebengebäude an Piazza Nicola Demidoff – Teil 2/2 (Y 74–82) & Nebengebäude an Piazza Nicola Demidoff: Innenausbau
 
-- **Y-Bereich:** 63 bis 78
+- **Y-Bereich:** 67 bis 82
 - **Blöcke:** 1.169
 - **Bauteile:** `w1153360289`, `w1153360289_innen`
 
