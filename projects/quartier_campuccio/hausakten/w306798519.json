@@ -1,24 +1,28 @@
 {
   "id": "w306798519",
   "typ": "palazzo_cinquecento",
-  "epoche": "16.–17. Jh.",
+  "epoche": "16. Jh.",
   "geschosse": [
     {
       "art": "eg",
-      "hoeheBl": 10
+      "hoeheBl": 7
+    },
+    {
+      "art": "mezzanin",
+      "hoeheBl": 3
     },
     {
       "art": "nobile",
-      "hoeheBl": 6
+      "hoeheBl": 7
     },
     {
       "art": "og",
-      "hoeheBl": 7
+      "hoeheBl": 6
     }
   ],
   "fassade": {
     "kanten": "strasse",
-    "achsen": 5,
+    "achsen": 6,
     "material": "putz",
     "putzfarbe": "weiss",
     "erdgeschoss": {
@@ -35,15 +39,17 @@
       "art": "gronda_holz",
       "tiefeBl": 2
     },
-    "extras": []
+    "extras": [
+      "fenster_auf_zwei_steingurten"
+    ]
   },
   "dach": {
     "form": "walm",
     "material": "coppi",
     "altana": false
   },
-  "quelle": "typologie",
-  "sicherheit": 0.3,
-  "notiz": "Entwurf aus Typologie: Typ palazzo_cinquecento nach Name (Palazzo); Epoche, Achsen und Farbe sind Schätzungen.",
+  "quelle": "recherche:https://it.wikipedia.org/wiki/Casa_Amerighi",
+  "sicherheit": 0.7,
+  "notiz": "Nach it.Wikipedia: Cinquecento-Front mit sechs Achsen auf drei Geschosse plus Mezzanin, Fenster auf zwei Steingurten in schlichter florentiner Gliederung. Annahme: Putzfarbe, Rahmen, Gesims.",
   "name": "Casa Amerighi"
 }
