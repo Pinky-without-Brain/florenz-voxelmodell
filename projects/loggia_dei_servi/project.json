@@ -1,0 +1,17 @@
+{
+  "id": "loggia_dei_servi",
+  "title": "Loggia dei Servi di Maria",
+  "type": "wahrzeichen",
+  "gebaeude": [
+    "r7021619"
+  ],
+  "bodenY": 69,
+  "rahmen": {
+    "ox": 566.5,
+    "oz": -846,
+    "thetaDeg": 132.03
+  },
+  "masken": {},
+  "luftraum": 3,
+  "begehbarkeit": "pflicht"
+}

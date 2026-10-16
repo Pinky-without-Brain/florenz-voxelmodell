@@ -1,0 +1,50 @@
+{
+  "module": 6,
+  "title": "Hotel, Oratorium und Gedenktafel",
+  "subtitle": "Bautüte 6: Zimmer, Empfangshalle, Oratorium, Tafel von 1613 und Lichthöfe",
+  "icon": "🏨",
+  "parts": {
+    "hotelzimmer": {
+      "title": "Hotelzimmer",
+      "description": "In allen Vorder- und Hinterräumen beider Geschosse steht ein Bett aus Holz mit rot-weiß gemusterter Decke, eine Lage hoch; im Hinterhaus kommt ein kleiner Tisch dazu.",
+      "tip": "Bett zuerst, dann die Decke in den freien Feldern.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Zimmeraufteilung ist erfunden, belegt ist nur die Nutzung als Hotel.",
+      "fact": "Die Anlage ist heute das Hotel „Loggiato dei Serviti“; die Familie Budini Gattai übernahm den Betrieb 1984 und ließ das Haus in zwei Jahren restaurieren, davor war es eine Pension (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "hotel_empfang": {
+      "title": "Empfangshalle",
+      "description": "Halle im Erdgeschoss um die Treppe und einen Lichthof: Schachboden aus Cotto und Marmor, Wandfelder in Weiß und Gelb zwischen Pilastern aus Pietra serena und ein Tresen aus Holz.",
+      "tip": "Die Treppe in der Mitte lässt du frei.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Lage und Größe der Halle sind nicht belegt.",
+      "fact": "Die Häuser der Anlage sind um einen zentralen Hof (Corte) angeordnet, je zwei Häuser haben einen gemeinsamen Eingang (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "oratorium": {
+      "title": "Oratorium der Bruderschaft",
+      "description": "Kleiner Betsaal im Erdgeschoss des Hinterhauses: Boden im Rot-Weiß-Schach, Wandfelder in Weiß und Blau mit Goldrahmen, ein Altar aus Pietra serena mit einem Altarbild als Farbfeld und drei Bankreihen.",
+      "tip": "Erst Boden und Wandfelder, dann Altar und Bänke.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Das Altarbild ist nur als Farbfeld angedeutet; Lage und Größe des Raumes sind nicht belegt.",
+      "fact": "Im Gebäude befindet sich das Oratorium der Confraternita di San Girolamo e San Francesco Poverino mit Werken unter anderem von Gennaro Landi und Andrea del Verrocchio (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "gedenktafel_1613": {
+      "title": "Gedenktafel von 1613",
+      "description": "Auf der Rückwand der Loggia zwischen zwei Türen sitzt eine Tafel als Farbfeld: weiße Schriftfläche mit Goldrahmen und einer dunklen Zeile.",
+      "tip": "Die Tafel ersetzt Wandblöcke, der Rahmen zuerst.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Die Schrift ist nicht lesbar nachgebaut; die genaue Lage der Tafel ist nicht belegt.",
+      "fact": "Eine Tafel von 1613 verbietet unter den Loggien Spiele, Abfälle und Versammlungen; die Strafe beträgt 10 Scudi (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "lichthoefe": {
+      "title": "Lichthöfe",
+      "description": "Der Boden der sechs kleinen Höfe im Hinterhaus ist im Schachmuster aus Pflaster und hellem Marmor gelegt; die Höfe bleiben nach oben offen.",
+      "tip": "Nur der Boden, kein Dach.",
+      "caution": "Vereinfachte Ausstattung, Lage und Größe Stufe C. Zahl und Lage der Höfe folgen den Löchern im OSM-Umriss.",
+      "fact": "Der Umriss des Gebäudes in OpenStreetMap hat sechs kleine Innenhöfe (Quelle: OpenStreetMap, Relation 7021619)."
+    },
+    "licht_ausstattung": {
+      "title": "Licht in den Räumen",
+      "description": "Seelaternen im Boden der ausgestalteten Räume, höchstens 12 Blöcke voneinander entfernt.",
+      "tip": "Die Laternen ersetzen einzelne Bodenblöcke.",
+      "caution": "Nicht in Türöffnungen setzen.",
+      "fact": "In Minecraft sind Innenräume ohne Lichtquelle dunkel."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "module": 4,
+  "title": "Dach",
+  "subtitle": "Bautüte 4: Walmdach",
+  "icon": "🏠",
+  "parts": {
+    "dach": {
+      "title": "Walmdach",
+      "description": "Ein Walmdach aus Dachziegeln steigt von der Traufe (Y 92) bis Y 97; der Dachraum darunter ist unzugänglich.",
+      "tip": "Von außen nach innen bauen.",
+      "caution": "Der Dachraum darunter ist unzugänglich.",
+      "fact": "Das Gebäude steht seit 1901 auf der Liste der nationalen Kunstdenkmäler (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    }
+  }
+}

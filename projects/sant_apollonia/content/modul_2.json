@@ -1,0 +1,43 @@
+{
+  "module": 2,
+  "title": "Hof und Innenwände",
+  "subtitle": "Bautüte 2: Kreuzgangarkaden, Hofwände und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofarkaden": {
+      "title": "Hofarkaden",
+      "description": "Im Erdgeschoss umgeben Rundbögen auf Säulen aus Pietra serena die vier Kreuzgänge; dahinter liegt ein Umgang.",
+      "tip": "Die Säulen stehen in gleichem Abstand am Hofrand.",
+      "caution": "Die Bögen bleiben offen.",
+      "fact": "Der Kreuzgang der Äbtissin wurde 1442 begonnen; zwei kleinere Kreuzgänge heißen del Silenzio und del Noviziato (Quelle: it.wikipedia, Complesso di Sant'Apollonia)."
+    },
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Über den Arkaden steigen die Hofwände bis Y 96, verputzt, mit Gesimsen auf Höhe der Geschossböden.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Türen und Fenster frei lassen.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zu den Höfen öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "innenwaende": {
+      "title": "Innenwände",
+      "description": "Zwischen Umgang und Räumen steht eine Innenwand mit Türen im Abstand von 14 Blöcken.",
+      "tip": "Türen in regelmäßigem Abstand.",
+      "caution": "Türen frei lassen.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände bilden das Refektorium mit dem Abendmahl, die Kirche mit der Sakristei und Räume im Vorder- und Hinterblock; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}

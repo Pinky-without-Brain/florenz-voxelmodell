@@ -1,0 +1,36 @@
+{
+  "module": 2,
+  "title": "Hof und Innenwände",
+  "subtitle": "Bautüte 2: Rückwand der Loggia, Höfe und Innenwände",
+  "icon": "🏛️",
+  "parts": {
+    "hofwaende": {
+      "title": "Hofwände",
+      "description": "Die Wände um die sechs Lichthöfe steigen bis zum Dach, verputzt, mit Türen im Erdgeschoss.",
+      "tip": "Gesimse aus Pietra serena.",
+      "caution": "Türen und Fenster frei lassen.",
+      "fact": "Die Häuser sind um einen zentralen Hof angeordnet; im Umriss in OpenStreetMap sind sechs kleine Höfe eingetragen (Quelle: it.wikipedia, Loggiato dei Servi di Maria; OpenStreetMap)."
+    },
+    "hoffenster": {
+      "title": "Hoffenster",
+      "description": "Zu den Höfen öffnen sich die Obergeschosse mit Fenstern im gleichen Raster wie außen.",
+      "tip": "Je Joch ein Fenster.",
+      "caution": "Glas in die ganze Wandtiefe.",
+      "fact": "Maße und Raumaufteilung sind Stufe C, Umriss und Höhe folgen OpenStreetMap."
+    },
+    "loggiawand": {
+      "title": "Rückwand der Loggia",
+      "description": "Die Rückwand der Loggia schließt den Portikus nach hinten ab; in der Achse jedes zweiten Bogens führt eine Tür in die Vorderzimmer.",
+      "tip": "Die Türen sind 3 Blöcke breit und 7 hoch.",
+      "caution": "Türen frei lassen.",
+      "fact": "Unter der Loggia hängt eine Tafel von 1613, die Spiele, Abfälle und Versammlungen verbietet (Quelle: it.wikipedia, Loggiato dei Servi di Maria)."
+    },
+    "trennwaende": {
+      "title": "Trennwände",
+      "description": "Trennwände teilen das Erdgeschoss in Vorderzimmer an der Loggia, einen Flur, Hinterzimmer, die Empfangshalle und das Oratorium; jede Wand hat Türen von 3 Blöcken Breite und 5 Höhe.",
+      "tip": "Türen beim Bauen frei lassen.",
+      "caution": "Die Wände stehen auf dem Boden des Erdgeschosses.",
+      "fact": "Die Raumaufteilung ist Stufe C; belegt sind nur die Räume selbst."
+    }
+  }
+}
